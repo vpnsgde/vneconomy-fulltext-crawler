@@ -1,0 +1,37 @@
+Ngày 26/12/2023, Câu lạc Bộ Nhà báo Công nghệ thông tin Việt Nam (Vietnam ICT Press Club) kỷ niệm 20 năm thành lập, đồng thời công bố 10 sự kiện ICT tiêu biểu năm 2023 và tọa đàm “Thương mại hóa 5G xây dựng hạ tầng số cho Việt Nam”.
+
+Đứng đầu 10 sự kiện năm 2023 là việc ngày 24/11/2023, Quốc hội chính thức thông qua Luật Viễn thông (sửa đổi). Đây là đạo luật quan trọng, ảnh hưởng râu rộng bậc nhất tới ngành ICT. Luật Viễn thông nhìn rộng ra sẽ tạo nền tảng cho công cuộc chuyển đổi số, hướng tới xã hội số, công dân số.
+
+Luật Viễn thông (sửa đổi) mở rộng đối tượng, phạm vi điều chỉnh một số dịch vụ mới như điện toán đám mây, dịch vụ trung tâm dữ liệu, dịch vụ viễn thông cơ bản trên Internet và được quản lý theo hướng “quản lý nhẹ”, mở, linh hoạt, hướng đến bảo vệ quyền lợi người sử dụng, bảo đảm an toàn, an ninh. Luật cũng quy định cụ thể các loại tài nguyên viễn thông cấp qua hình thức đấu giá.
+
+
+
+Trong năm qua, Luật Giao dịch điện tử được Quốc hội khóa XV thông qua ngày 22/6/2023. So với Luật Giao dịch điện tử năm 2005, Luật mới mở rộng phạm vi áp dụng giao dịch điện tử tới tất cả hoạt động của đời sống xã hội; tạo một khung pháp luật thống nhất về hoạt động giao dịch điện tử trong các lĩnh vực để thực hiện chuyển đổi các giao dịch từ môi trường thực sang môi trường số, thúc đẩy chuyển đổi số quốc gia.
+
+Cũng trong năm 2023, một điểm nhấn ICT khi lĩnh vực bán dẫn Việt Nam đang nổi lên như một điểm đến của nhiều hãng sản xuất bán dẫn khi thu hút sự quan tâm, hiện diện của những tập đoàn hàng đầu thế giới của Mỹ, Hàn Quốc, Trung Quốc… với những dự án từ hàng trăm triệu đến cả tỷ USD đầu tư.
+
+Bên cạnh các dự án nước ngoài, Việt Nam một số đơn vị, doanh nghiệp công nghệ đã nghiên cứu, thiết kế, sản xuất chip như FPT Semiconductor, Viettel... Đây sẽ là con đường để Việt Nam tham gia sâu hơn vào ngành chip bán dẫn toàn cầu.
+
+Trong năm qua, Thủ tướng Chính phủ ban hành Quyết định số 348/QĐ-TTg phê duyệt Chiến lược “Chuyển đổi số báo chí đến năm 2025, định hướng đến năm 2030”. Chiến lược đặt mục tiêu đến năm 2030: 100% cơ quan báo chí đưa nội dung lên các nền tảng số. 90% cơ quan báo chí sử dụng nền tảng phân tích, xử lý dữ liệu tổng hợp tập trung, ứng dụng trí tuệ nhân tạo để tối ưu hóa hoạt động. 100% cơ quan báo chí hoạt động, vận hành mô hình tòa soạn hội tụ và các mô hình phù hợp với sự phát triển của khoa học, công nghệ tiên tiến trên thế giới, sản xuất nội dung theo các xu hướng báo chí số.
+
+Năm 2023 cũng ghi dấu ấn khi triển khai thực hiện chuẩn hóa thông tin cho hàng triệu thuê bao. Để xử lý vấn nạn cuộc gọi rác, tin nhắn rác, cuộc gọi lừa đảo… từ ngày 31/3/2023, các nhà mạng bắt đầu khóa 1 chiều với những thuê bao có thông tin không trùng khớp thông tin đối soát với cơ sở dữ liệu quốc gia về dân cư. Sau đó, khóa thông tin 2 chiều với những thuê bao này và sau 2 tháng sẽ chấm dứt hợp đồng nếu thuê bao không đăng ký chuẩn hóa thông tin cá nhân. Trong lần chuẩn hóa này đã có hàng triệu thuê bao đã đăng chuẩn hóa thông tin cá nhân.
+
+Năm 2023 được cho là năm bùng nổ nạn lừa đảo trên không gian mạng. Các đối tượng lừa đảo thường nhắm đến những người già, phụ nữ. Cục An ninh mạng và Phòng, chống tội phạm sử dụng công nghệ cao (A05) cho biết, tội phạm công nghệ cao vẫn tiếp tục gia tăng và diễn biến phức tạp, với những phương thức tội phạm mới nổi lên như tội phạm lừa đảo dùng công nghệ Deepfake, tổ chức đánh bạc và đánh bạc với số tiền lớn, mua bán thông tin tài khoản ngân hàng để phục vụ mục đích trái pháp luật.
+
+Cùng với đó là sử dụng các thiết bị tương tự trạm BTS của các nhà mạng hoặc dùng các phần mềm để phát tán tin nhắn có nội dung lừa đảo; hoạt động tín dụng đen, vay tiền nhanh trên các nền tảng di động và qua mạng; hoạt động đánh cắp, mua bán dữ liệu cá nhân…
+
+Đầu tháng 10/2023, Cục Phát thanh truyền hình và thông tin điện tử (Bộ Thông tin và Truyền thông ) đã công bố kết quả kiểm tra toàn diện hoạt động của TikTok ở Việt Nam. Theo đó, đoàn kiểm tra gồm liên ngành do Bộ chủ trì đã tiến hành thực hiện kiểm tra toàn diện hoạt động của TikTok tại Việt Nam từ giữa tháng 5 đến cuối tháng 9/2023. Kết luận kiểm tra yêu cầu TikTok triển khai 9 nội dung để khắc phục các sai phạm như gỡ bỏ 100% các nội dung vi phạm pháp luật Việt Nam.
+
+Liên quan đến các dấu mốc kết quả hoạt động của doanh nghiệp công nghệ số Việt Nam, ghi dấu ấn khi những ngày cuối năm 2023, FPT cán mốc doanh thu 1 tỷ USD xuất khẩu phần mềm chủ yếu từ ba thị trường trọng điểm là Nhật Bản, châu Mỹ và Châu Á Thái Bình Dương. Kết quả này đưa FPT trở thành doanh nghiệp công nghệ đầu tiên của Việt Nam đạt doanh thu tỷ USD từ xuất khẩu phần mềm, ghi dấu ấn trí tuệ Việt trên toàn cầu và đóng góp vào sự phát triển chung của nền kinh tế.
+
+Ngày 25/10, VNPT khai trương Trung tâm dữ liệu (IDC) tại Khu Công nghệ cao Hòa Lạc. VNPT IDC Hòa Lạc có tổng diện tích sử dụng lên tới 23.000 m2 sàn, có quy mô đến 2.000 tủ racks – lớn nhất tại Việt Nam hiện nay. Mục tiêu của VNPT muốn trở thành nhà cung cấp IDC hàng đầu Việt Nam và khu vực để hiện thực hóa sứ mệnh đóng góp cho công cuộc chuyển đổi số quốc gia.
+
+Trước đó, ngày 24/7/2023, Văn phòng Chính phủ đã thông báo kết luận của Thường trực Chính phủ chưa đưa kinh doanh game online vào đối tượng chịu thuế tiêu thụ đặc biệt. Trước đó, Bộ Tài chính đề nghị đưa game online vào diện chịu thuế tiêu thụ đặc biệt nhằm hạn chế sản xuất và tiêu dùng các mặt hàng gây tác hại đến sức khỏe, xã hội.
+
+Tuy nhiên, sau khi đề nghị này đưa ra đã gặp phải phản ứng mạnh từ các chuyên gia, doanh nghiệp và các bộ ngành liên quan. Nếu áp thuế tiêu thụ đặc biệt với game online sẽ khiến cho các doanh nghiệp trong nước có xu hướng dịch chuyển thành lập doanh nghiệp ở nước ngoài.
+
+Cũng trong chuỗi sự kiện kỷ niệm này, ICT Press Club đã tổ chức tọa đàm “Thương mại hóa 5G xây dựng hạ tầng số cho Việt Nam”. Năm 2024 là năm Bộ Thông tin và Truyền thông sẽ thương mại hóa 5G trên phạm vi toàn quốc. Tọa đàm này sẽ là cầu nối giữa cơ quan quản lý nhà nước, doanh nghiệp và người dân. Mục tiêu tọa đàm nhằm cùng lắng nghe tiếng nói của cơ quan quản lý, các doanh nghiệp viễn thông và các chuyên gia về lộ trình thương mại hóa 5G xây dựng hạ tầng số cho Việt Nam để thúc đẩy quá trình này”.
+
+
+
+Nhân sự kiện 20 năm thành lập, Câu lạc bộ đã được Hội Nhà báo Việt Nam tặng Bằng khen.

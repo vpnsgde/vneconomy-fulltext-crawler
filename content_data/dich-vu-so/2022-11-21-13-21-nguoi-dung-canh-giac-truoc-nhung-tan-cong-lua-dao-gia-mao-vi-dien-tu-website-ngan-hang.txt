@@ -1,0 +1,15 @@
+Theo cảnh báo của Trung tâm Giám sát An toàn không gian mạng quốc gia tuần qua, các tổ chức quốc tế đã công bố và cập nhật ít nhất 550 lỗ hổng, trong đó có 224 lỗ hổng mức Cao, 152 lỗ hổng mức Trung bình, 11 lỗ hổng mức thấp và 163 lỗ hổng chưa đánh giá. Trong đó có ít nhất 45 lỗ hổng cho phép chèn và thực thi mã lệnh.
+
+Qua rà quét, đánh giá thống kê trên không gian mạng Việt Nam, Hệ thống kỹ thuật của Cục An toàn thông tin đã chỉ ra 7 lỗ hổng/nhóm lỗ hổng trên các sản phẩm, dịch vụ công nghệ thông tin phổ biến, có thể gây ảnh hưởng lớn đến người dùng ở Việt Nam như nhóm 42 lỗ hổng trong Microsoft; Nhóm 10 lỗ hổng trong thiết bị Splunk; Nhóm 20 lỗ hổng trong Windows; Nhóm 12 lỗ hổng trong Gitlab; Nhóm 57 lỗ hổng trong Intel; Nhóm 55 lỗ hổng trong thiết bị Google; Nhóm 22 lỗ hổng trong Huawei.
+
+Tuần qua tại Việt Nam, có rất nhiều máy chủ, thiết bị có thể trở thành nguồn phát tán tấn công DRDoS. Kết quả rà soát cho thấy, trong tuần có 47.514 thiết bị có khả năng bị huy động và trở thành nguồn tấn công DRDoS (tăng so với tuần trước 45.934).
+
+Thống kê có 252 trường hợp tấn công vào trang/cổng thông tin điện tử của Việt Nam, trong đó tới 213 trường hợp tấn công lừa đảo (Phishing), 29 trường hợp tấn công cài cắm mã độc và 10 trường hợp tấn công thay đổi giao diện (Deface).
+
+Trung tâm Giám sát an toàn không gian mạng quốc gia cũng ghi nhận 166 phản ánh trường hợp lừa đảo do người dùng Internet Việt Nam thông báo qua hệ thống tại địa chỉ https://canhbao.khonggianmang.vn. Qua kiểm tra, phân tích, các chuyên gia chỉ rõ, có nhiều trường hợp lừa đảo giả mạo website của ngân hàng, các trang thương mại điện tử…
+
+Theo đó, có những trường hợp tấn công lừa đảo người dùng cần nâng cao cảnh giác như giả mạo ví điện tử MoMo; Giả mạo website Ngân hàng Shinhan Việt Nam; Giả mạo website Ngân hàng TMCP Sài Gòn-Hà Nội…
+
+Ngoài ra, các chuyên gia anh minh mạng chỉ rõ, trên thế giới có nhiều các trang web giả mạo các tổ chức, doanh nghiệp, nhà cung cấp, dịch vụ lớn như: Các mạng xã hội, ngân hàng, thư điện tử… Hiện tại ở Việt Nam có nhiều người dùng các dịch vụ, ứng dụng nước ngoài (cả miễn phí và tính phí) như các mạng xã hội, Paypment, Apple, Paypal… Do đó, người dùng cần phải cảnh giác với những trang web giả mạo để đánh cắp tài khoản.
+
+Đối với các nguy cơ về tấn công từ chối dịch vụ, tấn công web, các chuyên gia khuyến cáo các tổ chức đơn vị cần rà soát, hạn chế tối đa việc mở các cổng dịch vụ có thể bị lợi dụng để thực hiện tấn công từ chối dịch vụ. Cùng đó thường xuyên kiểm tra, rà soát máy chủ web để kịp thời phát hiện và xử lý nguy cơ tấn công.

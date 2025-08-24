@@ -1,0 +1,33 @@
+Tờ báo tiếng Anh lớn của Indonesia, Jakarta Post, mới đây đưa tin nước này đang đối mặt với tình trạng thiếu hụt nguồn lực nhân lực số chất lượng cao.
+
+Ông Aaron Ronnie Chatterji, kinh tế trưởng tại OpenAI, từng tiết lộ rằng Indonesia thường xuyên nằm trong nhóm ba quốc gia có lượng người dùng AI lớn nhất mỗi tuần. Dù vậy, ông cũng lưu ý Indonesia vẫn còn yếu về lực lượng nhà phát triển AI, một phần do mức độ sử dụng các công cụ phát triển như API (giao diện lập trình ứng dụng) còn rất thấp.
+
+
+
+“Về số lượng nhà phát triển dùng API của chúng tôi, Indonesia chỉ đứng trong top 30 thế giới”, ông Aaron “Ronnie” Chatterji cho biết.
+
+Tại một sự kiện về AI gần đây, Thứ trưởng Bộ Truyền thông và Kỹ thuật số Indonesia, ông Nezar Patria, thẳng thắn nhìn nhận quốc gia này vẫn đang loay hoay khai thác tiềm năng mà AI mang lại: “Một trong những thách thức lớn nhất hiện nay là khoảng cách về nhân tài AI, đặc biệt là việc đào tạo đủ nguồn lực đáp ứng nhu cầu và có khả năng cạnh tranh quốc tế”.
+
+Theo dự báo, từ nay đến năm 2030, Indonesia cần khoảng 12 triệu lao động phục vụ cho nền kinh tế số, trong đó AI là một trong những lĩnh vực trọng tâm. Tuy nhiên, hệ sinh thái hiện tại mới chỉ đáp ứng được khoảng 3 triệu người.
+
+Để thu hẹp khoảng cách này, Bộ Truyền thông và Kỹ thuật số Indonesia đang triển khai nhiều chương trình xây dựng năng lực kỹ thuật số, phối hợp cùng các tập đoàn công nghệ toàn cầu, các trường đại học và các đối tác chiến lược trong nước.
+
+Theo đánh giá của giới chuyên môn, ngành AI tại Indonesia đang đối mặt với nhiều rào cản, bao gồm thiếu vốn đầu tư giai đoạn đầu, cơ sở hạ tầng công nghệ chưa hoàn thiện và hệ sinh thái khởi nghiệp còn non trẻ.
+
+Ông Irzan Raditya, CEO công ty AI đàm thoại Kata.ai, cho rằng giới đầu tư mạo hiểm nước này vẫn chưa dành sự quan tâm cho các công nghệ mới nổi như AI: “Tổng vốn đầu tư vào các lĩnh vực công nghệ số tại Indonesia chỉ đạt khoảng 323 triệu USD - một con số quá nhỏ nếu so với Mỹ,  riêng các startup AI nước này đã gọi được tới 97 tỷ USD”.
+
+Ông Irzan nhận định rằng mức đầu tư thấp như vậy khiến các tài năng trong nước thiếu động lực để bắt đầu khởi nghiệp về AI. “Không những vậy, các nguồn học liệu, chương trình đào tạo và đội ngũ cố vấn trong nước còn rất hạn chế”, ông Irzan chỉ ra.
+
+Bên cạnh khó khăn về vốn, các công ty AI tại Indonesia còn thiếu điều kiện tiếp cận hạ tầng công nghệ cần thiết như GPU (bộ xử lý đồ họa), dịch vụ điện toán đám mây và kho dữ liệu phục vụ huấn luyện AI.
+
+Ông Irzan nhấn mạnh: nếu muốn phát triển lĩnh vực này, Chính phủ cần tăng cường hỗ trợ tài chính cho các nhà phát triển, đồng thời xây dựng một cộng đồng AI vững mạnh và thúc đẩy các ứng dụng AI vào thực tiễn – từ đó tạo niềm tin cho cả nhà đầu tư lẫn nhà sáng tạo công nghệ.
+
+Bộ Truyền thông và Công nghệ số cũng cho biết, tỷ lệ thất bại của các startup AI tại Indonesia hiện đã vượt quá 75%. Bên cạnh đó, quốc gia này cũng đang chậm chân trong việc phát triển công nghệ, dữ liệu và hạ tầng cần thiết để sẵn sàng cho AI.
+
+Ông Iga Narendra, người sáng lập tổ chức truyền thông và nghiên cứu AI PukulEnam, cũng nói thêm nguồn nhân lực của họ đang thiếu môi trường học tập và đào tạo AI hiệu quả. “Ngay cả ở các trường đại học, việc tiếp cận cơ sở vật chất phục vụ nghiên cứu AI cũng còn rất hạn chế”, ông Iga Narendra cho biết.
+
+Theo ông Iga Narendra, để thiết lập một phòng thí nghiệm đủ điều kiện vận hành AI thường mất từ 2 đến 3 năm. Một máy tính chuyên dụng có hiệu suất cao cũng có giá lên tới 30 triệu Rupiah (tương đương gần 1.850 USD), là rào cản không nhỏ với các đơn vị giáo dục hoặc startup nhỏ.
+
+Ngoài ra, ông Iga cũng chỉ ra rằng nhiều nhà phát triển AI giai đoạn đầu vẫn thiếu nền tảng toán học vững chắc - “ngôn ngữ” cốt lõi để giao tiếp với AI. Thế nên họ chỉ dừng lại ở mức sử dụng công nghệ này bề nổi, không đi vào chiều sâu.
+
+Tuy vậy, ông Iga vẫn bày tỏ niềm tin vào tiềm năng phát triển AI tại Indonesia. Ông cho rằng sự đa dạng về dân số, ngôn ngữ và văn hóa của đất nước này chính là một “mỏ vàng dữ liệu”, nếu biết khai thác đúng cách, sẽ mang lại lợi ích to lớn cho xã hội và tạo đà phát triển cho AI trong tương lai.

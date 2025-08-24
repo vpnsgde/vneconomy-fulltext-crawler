@@ -1,0 +1,29 @@
+Culina là một trợ thủ nấu ăn hoàn toàn tự động, được trang bị trí tuệ nhân tạo (AI), có khả năng chế biến từ bánh ngọt Pháp đến những miếng bít tết được nướng hoàn hảo. Sử dụng các cảm biến chất lượng cao, Culina đảm bảo mọi bữa ăn đều được nấu một cách chuyên nghiệp. Các thuật toán AI của nó liên tục học hỏi và thích nghi với sở thích của người dùng, cho phép mang đến những bữa ăn cá nhân hóa sau mỗi lần sử dụng.
+
+"Tôi nghĩ đến 2040 sẽ có nhiều robot hình người hơn con người, sự trỗi dậy của máy móc có nguy cơ phá vỡ lực lượng lao động truyền thống và làm đảo lộn nền kinh tế. Con số tôi ước tính vào khoảng 10 tỷ robot hình người được sử dụng trên toàn thế giới khi đó," ông Elon Musk cho biết.
+
+Sau khi khiến thế giới ngỡ ngàng với Optimus, robot hình người có khả năng làm việc trong nhà máy, Elon Musk tiếp tục đẩy xa giới hạn khi giới thiệu Culina – robot đầu bếp thông minh có giá chỉ 5.000 USD, sau đó, robot này sẽ không nhận thêm bất kỳ khoản lương giúp việc nào.
+
+Có thể nói, robot đang dần thay thế con người trong nhiều lĩnh vực và ngành dịch vụ ăn uống không nằm ngoài xu hướng này. Khác với robot công nghiệp truyền thống, robot hình người có khả năng đa nhiệm, linh hoạt và thích ứng. Với thân thể, cử chỉ và khả năng tương tác tương tự con người, chúng dễ dàng được tích hợp vào môi trường sống hiện tại mà không cần thay đổi kết cấu hạ tầng.
+
+Tuy nhiên, trong khi quá trình chuyển đổi tự động hóa và AI đang lan rộng trong các nhà máy và nhà kho, thì robot hình người vẫn chưa tạo ra các tác động thực sự có ý nghĩa trong lĩnh vực ẩm thực, theo Shirley Chen Rui, Giám đốc điều hành của Botinkit, công ty robot nhà bếp được thành lập vào năm 2021. “Nhà bếp là ngành công nghiệp lớn nhất thế giới vì mọi người ở khắp mọi nơi đều cần thực thẩm để ăn”.
+
+Culina nổi bật với các tính năng nhận diện nguyên liệu qua cảm biến chính xác ca sử dụng AI học sâu, cá nhân hóa công thức nấu ăn theo khẩu vị từng người dùng. Culina có thể chuẩn bị bữa ăn từ A-Z: rửa, cắt, nấu, trình bày và điều chỉnh món theo chế độ ăn kiêng đặc biệt (Keto, Eat Clean…). Với giao diện thân thiện và khả năng tương tác bằng giọng nói, Culina không chỉ là thiết bị – mà là một thành viên mới trong bếp gia đình tương lai.
+
+Tờ Daily Mail mới đây cũng đưa tin về một robot đầu bếp do công ty Moley Robotics ở Anh chế tạo. Nó được thiết kế để mô phỏng lại động tác của người chiến thắng cuộc thi Vua đầu bếp 2011 Tim Anderson. Cỗ máy nấu ăn này ó có thể tự lấy nguyên liệu từ tủ lạnh, cho vào chảo, trộn lẫn, điều chỉnh nhiệt độ phù hợp rồi đổ ra đĩa, phục vụ điêu luyện như một đầu bếp thực thụ. Automated Kitchen là thành quả hợp tác của gần 100 kỹ sư và nhà thiết kế cùng với ba đầu bếp hàng đầu.
+
+Sau 6 năm hoàn thiện, robot nấu ăn này đã sẵn sàng ra thị trường. Nó được giới thiệu tại Triển lãm Công nghệ Thông tin Vùng Vịnh tại Dubai. Với bộ cảm biến và camera, “trợ lý nhà bếp” hiện đại trên dễ dàng tự di chuyển cũng như xác định nơi cất nguyên liệu, dụng cụ nấu ăn trong nhà bếp. Dựa vào điểm đánh dấu trên tay cầm và nắp của bộ dụng cụ nấu ăn bằng thép không gỉ, Automated Kitchen có thể định hướng chính xác vị trí đặt nồi, chảo và đồ dùng khi hoạt động.
+
+Giám đốc điều hành Moley Robotics, ông Mark Oleynik giới thiệu: “Đó không đơn thuần là một thiết bị tiết kiệm sức lao động. Nó là một nền tảng sáng tạo. Nó thậm chí có thể chỉ dẫn chúng ta trở thành đầu bếp cừ khôi hơn”. Trong khi đó, các camera quan sát giúp nó phát hiện và dọn dẹp bất kỳ chỗ thức ăn nào bị trào ra ngoài. Ngoài ra, đèn tia cực tím tích hợp sẵn trên robot còn góp phần diệt sạch vi khuẩn bám trên bề mặt nhà bếp.
+
+Theo nhiều ý kiến từ các quản lý nhà hàng, chi phí nhân công giảm khoảng 30% sau khi họ sử dụng robot. Ngoài ra, tốc độ phục vụ món ăn nhanh hơn khoảng 50% so với trước đây, thời gian khách hàng phải chờ đợi các món ăn được rút ngắn đáng kể, nhờ đó, nhiều nhà hàng nhận được số lượng lớn phản hồi tích cực từ khách hàng. Đồng thời, robot đầu bếp cũng giúp tối ưu hóa quy trình, nâng cao chất lượng món ăn.
+
+Sự xuất hiện của robot nấu ăn đã làm thay đổi cách thức vận hành của nhiều nhà hàng, vai trò của con người trong lực lượng lao động đang giảm dần khi tự động hóa chiếm ưu thế. Tại Trung Quốc, một nhà hàng tiệc cưới ở Bắc Kinh có tên "Future Restaurant" đã thử nghiệm sử dụng robot đầu bếp. Bếp trưởng Trương Minh cho biết, họ đã hợp tác với một công ty công nghệ để phát triển một robot không chỉ tự nấu ăn mà còn có khả năng phân tích khẩu vị khách hàng.
+
+Tại các thành phố lớn như Bắc Kinh, Thượng Hải, Quảng Châu (Trung Quốc), nhiều chuỗi nhà hàng đã áp dụng công nghệ này trong việc chế biến các món ăn. Tuy nhiên, ông Trương Minh nhấn mạnh, loại robot này không làm mất việc của đầu bếp. Ngược lại, chúng giúp giảm bớt các công việc lặp lại nhiều lần. Nhờ đó, đội ngũ đầu bếp có nhiều thời gian hơn để sáng tạo. Họ có thể tập trung vào phát triển món ăn mới và nâng cao chất lượng dịch vụ.
+
+Theo Botinkit, việc triển khai robot nấu ăn có thể giúp các nhà hàng giảm 10% lượng thức ăn và gia vị lãng phí. Công nghệ từ robot đầu bếp giúp kiểm soát toàn bộ quy trình từ nguyên liệu đến thành phẩm. Việc này không chỉ mang lại lợi ích kinh tế mà còn giúp bảo vệ môi trường khí các nhà hàng có thể tiết kiệm nguyên liệu và năng lượng tiêu thụ.
+
+Thực tế, nhu cầu sử dụng robot trong nhà bếp hiện gia tăng trên toàn cầu vì nhiều lý do. Một mặt, nhịp sống hiện đại khiến người tiêu dùng yêu cầu các dịch vụ nhanh, tiện lợi và ngon miệng. Ngành dịch vụ ăn uống buộc phải thay đổi để đáp ứng điều này. Mặt khác, sự phát triển của trí tuệ nhân tạo và Internet vạn vật giúp robot ngày càng thông minh.
+
+Việc kết hợp giữa con người và robot có khả năng thúc đẩy sự cá nhân hóa để đáp ứng nhu cầu khách hàng, nhà bếp được số hóa và tự động hóa có giá trị đối với các nhà hàng muốn mở rộng quy mô… Nhờ đó, sự kết hợp giữa công nghệ và con người sẽ tạo ra trải nghiệm ẩm thực tốt hơn cho khách hàng, trên khắp thế giới.

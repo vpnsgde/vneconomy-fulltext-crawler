@@ -1,0 +1,13 @@
+Tổng công ty Viễn thông MobiFone vừa phát đi thông tin cho biết chính thức ra mắt ví điện tử MobiFone Pay, sẵn sàng cung cấp các dịch vụ trung gian thanh toán, tài chính di động.
+
+MobiFone cho biết, theo giấy phép số 09/GP-NHNN ngày 9/3/2021 của Thống đốc Ngân hàng Nhà nước, các dịch vụ trung gian thanh toán của MobiFone được cấp phép bao gồm: dịch vụ cổng thanh toán điện tử; dịch vụ hỗ trợ thu hộ, chi hộ; dịch vụ hỗ trợ chuyển tiền điện tử và dịch vụ ví điện tử.
+
+MobiFone Pay là ví điện tử do MobiFone thiết kế, phát triển, giúp khách hàng thực hiện các giao dịch thanh toán không dùng tiền mặt trên chính chiếc điện thoại của mình một cách dễ dàng, nhanh chóng và an toàn như: nhận và chuyển tiền, nạp tiền điện thoại, thanh toán các hóa đơn điện, nước, truyền hình Internet và nhiều tính năng khác.
+
+Theo nhà mạng này, ví MobiFone Pay ứng dụng các công nghệ tiên tiến, bảo mật nhất hiện nay để thực hiện việc định danh, xác thực khách hàng như hệ thống định danh eKYC, xác thực đăng nhập qua sinh trắc học nhận diện gương mặt (Face ID) cảm biến vân tay (Touch ID) hoặc qua mật khẩu nhằm đem đến trải nghiệm tốt nhất cho khách hàng khi sử dụng dịch vụ.
+
+Việc xác thực giao dịch trên ví điện tử MobiFone Pay được tiến hành qua OTP SMS hoặc Email gửi tới khách hàng. Theo đó, ví điện tử này sẽ cung cấp cho khách hàng các dịch vụ: Chuyển tiền - Rút tiền - Thanh toán khi mua các sản phẩm, dịch vụ của MobiFone như Airtime, mua mã thẻ điện thoại/gói data, thanh toán cước trả sau với rất nhiều ưu đãi hấp dẫn vượt trội.
+
+Khách hàng cũng có thể dùng ví điện tử MobiFonePay để mua các sản phẩm, hàng hóa, dịch vụ khác như Airtime, mã thẻ, data code, data topup của các mạng di động, đồng thời thanh toán các hóa đơn điện, nước, cước truyền hình, cước Internet, điện thoại cố định, thanh toán khoản vay trả góp, dịch vụ tài chính và một số các loại phí khác.
+
+Sau hai "ông lớn" Viettel, VNPT, thì MobiFone là nhà mạng lớn thứ 3 được Ngân hàng Nhà nước cấp giấy phép về cung cấp các dịch vụ trung gian thanh toán. Liệu với lợi thế về nền tảng công nghệ và tập khách hàng lên tới hàng chục triệu thuê bao, ba nhà mạng lớn nhất Việt Nam sẽ chiếm bao nhiêu  trong miếng bánh thị phần ví điện tử?

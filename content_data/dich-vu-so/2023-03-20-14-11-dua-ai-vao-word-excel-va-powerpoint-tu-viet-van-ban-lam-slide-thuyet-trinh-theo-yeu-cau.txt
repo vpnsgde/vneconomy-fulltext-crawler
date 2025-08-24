@@ -1,0 +1,23 @@
+Microsoft vừa công bố việc tích hợp sức mạnh của AI thế hệ tiếp theo vào các công cụ làm việc Microsoft 365Copilotvớinhiều tính năng mới đột phá cho người dùng. Copilot kết hợp sức mạnh của các mô hình ngôn ngữ lớn với dữ liệu doanh nghiệp và các ứng dụng Microsoft 365 để giải phóng khả năng sáng tạo, gia tăng năng suất và nâng cao kỹ năng.
+
+Copilot được nhúng vào các ứng dụng Microsoft 365 mà mọi người sử dụng hàng ngày như Word, Excel, PowerPoint, Outlook, Teams… Tiếp đó một trải nghiệm hoàn toàn mới- Trò chuyện doanh nghiệp (Business Chat) hoạt động trên mô hình ngôn ngữ lớn, các ứng dụng Microsoft 365 cũng như lịch làm việc, email, chat, tài liệu, cuộc họp và danh bạ của người dùng để thực hiện những việc mà trước đây họ không thể làm được.
+
+Ví dụ, với một câu hỏi như “hãy nói cho nhóm của tôi biết chúng tôi đã cập nhật chiến lược sản phẩm như thế nào”, Business Chat sẽ cập nhật các trạng thái của chiến lược sản phẩm dựa trên các cuộc họp, email và chuỗi trò chuyện.
+
+Cụ thể, Copilot trong Word sẽ viết, chỉnh sửa và tóm tắt nội dung làm việc. Copilot trong PowerPoint đem lại sự sáng tạo bằng cách biến những ý tưởng thành một bản thuyết trình được thiết kế từ các lệnh ngôn ngữ tự nhiên. Công cụ này sẽ viết nội dung cho các slide PowerPoint trình chiếu.
+
+Copilot trong Excel đưa ra những thông tin chi tiết, xác định xu hướng hoặc tạo trực quan hóa dữ liệu chỉ trong khoảng thời gian ngắn. Copilot trong Outlook giúp tổng hợp và quản lý hộp thư đến để người dùng. Công cụ AI này sẽ tóm tắt một nội dung email, sau đó gợi ý người dùng trả lời.
+
+Trong Teams, Copilot giúp các cuộc họp hiệu quả hơn với các bản tóm tắt theo thời gian thực và đưa ra các bước hành động ngay trong ngữ cảnh của cuộc hội thoại.
+
+
+
+Đặc biệt, Business Chat tập hợp dữ liệu từ nhiều tài liệu, bản thuyết trình, email, lịch làm việc, ghi chú và danh bạ để giúp tóm tắt các cuộc trò chuyện, viết email, hoặc thậm chí viết kế hoạch dựa trên các tài liệu của dự án khác.
+
+Công cụ này sẽ tóm tắt các nội dung cuộc họp, sau đó tạo biên bản cuộc họp; giúp trả lời các nội dung liên quan đến các slides đính kèm trong cuộc họp; soạn thảo email với nội dung từ cuộc họp…
+
+Với công cụ mới này, người dùng có thể sáng tạo hơn trong Word, phân tích nhiều hơn trong Excel, biểu cảm hơn trong PowerPoint, làm việc hiệu quả hơn trong Outlook và cộng tác nhiều hơn trong Teams.
+
+AI sẽ giúp người dùng viết văn bản theo nội dung yêu cầu hoặc chuyển nội dung từ word sang dạng trình chiếu PowerPoint. Chỉ cần gõ các câu mệnh lệnh mong muốn, AI sẽ làm các thao tác trên Excel mà trước đây chỉ những người dùng biết các công cụ/công thức mới có thể làm được. Việc còn lại của người dùng là xem xét giữ lại, chỉnh sửa cho chính xác hoặc loại bỏ các nội dung này.
+
+Các chuyên gia cho rằng, Copilot đánh dấu một kỷ nguyên mới của máy tính sẽ thay đổi căn bản cách con người làm việc.

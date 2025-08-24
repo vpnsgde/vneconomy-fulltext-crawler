@@ -1,0 +1,11 @@
+Đồ thị thông tin dưới đây gồm những công ty công nghệ sa thải nhiều nhân viên nhất từ đầu năm đến nay. Dữ liệu được tính tới ngày 15/8 từ trang Laysoff.fyi. Số liệu đã được làm tròn với một số công ty.
+
+Dẫn đầu danh sách này là Dell với 26.000 nhân sự bị sa thải từ đầu năm nay, trong đó riêng đợt sa thải đầu tiên vào tháng 3 có 6.000 người. Theo nguồn tin nội bộ của Business Insider, công ty này có kế hoạch đưa tổng số nhân viên của mình xuống còn dưới 100.000 nhân viên trong năm nay. Tính tới tháng 5, Dell có gần 120.000 nhân viên.
+
+Dù công ty chưa lên tiếng về con số chính thức, nhưng ít nhất khoảng 12.500 nhân viên thuộc bộ phận bán hàng và tiếp thị của Dell đã bị sa thải trong tháng 8. Nếu được thực hiện, kế hoạch trên sẽ đánh dấu đợt sa thải nhân viên lớn nhất từ trước tới này của hãng công nghệ Mỹ. Nguyên nhân chính của quyết định sa thải này là định hướng tái cấu trúc theo hướng ưu tiên trí tuệ nhân tạo (AI). Ưu tiên này sẽ được Dell tiếp tục triển khai tại nhiều bộ phận khác của công ty.
+
+Trong khi đó, những khó khăn trong hoạt động kinh doanh là nguyên nhân chính khiến Intel và Tesla sa thải một lượng lớn nhân viên.
+
+Với Intel, mảng sản xuất con chip đang gặp khó khăn khi báo lỗ hoạt động gần 7 tỷ USD trong năm ngoái. Công ty này cũng mất một số khách hàng quan trọng trong mảng kinh doanh máy tính và cũng chưa ghi nhận nhiều kết quả tích cực trong phân khúc chip xử lý đồ họa. Sau khi sa thải 15.000 nhân viên từ đầu tháng 8 đến nay, giá cổ phiếu công ty này đã giảm xuống mức thấp nhất kể từ tháng 7/1997. Tình cảnh của Intel ngược lại hoàn toàn với nhà sản xuất con chip số một thị trường Nvidia, công ty đang kiếm đậm nhờ con chip AI.
+
+Còn với Tesla, nhu cầu xe điện chững lại trong năm nay khiến doanh số của công ty sụt giảm. Cạnh tranh gay gắt ở Trung Quốc khiến Tesla buộc phải hạ giá xe và gây áp lực với biên lợi nhuận của công ty. Trong tháng 4, công ty này đã có hai đợt sa thải nhân viên với tổng cộng 14.500 người.

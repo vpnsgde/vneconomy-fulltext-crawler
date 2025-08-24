@@ -1,0 +1,21 @@
+Ngày 13/11/2019, Bộ Thông tin và Truyền thông đã tổ chức thành công Diễn đàn "Báo chí và Công nghệ".
+
+Diễn đàn là nơi các doanh nghiệp cũng như các cơ quan báo chí có cơ hội trao đổi, thảo luận và chia sẻ các giải pháp ứng dụng công nghệ để phát triển ngành báo chí, truyền thông cũng như giới thiệu, chia sẻ kinh nghiệm của một số cơ quan báo chí đã và đang ứng dụng công nghệ mới trong hoạt động báo chí. Tại diễn đàn, Tổng công ty Viễn thông MobiFone đã tham gia trình bày giải pháp AI Text to Speech ứng dụng cho các đơn vị báo chí và truyền thông.
+
+Tham dự Diễn đàn có hơn 200 đại biểu đến từ các cơ quan báo chí, các doanh nghiệp hoạt động trong lĩnh vực công nghệ, báo chí, truyền thông,…, các chuyên gia trên cả nước với nhiều đề tài, tham luận chuyên sâu về xu hướng và ứng dụng công nghệ trong lĩnh vực báo chí, truyền thông.
+
+Diễn đàn là hoạt động mở đầu cho Dự án Phát triển Báo chí Việt Nam giai đoạn 2020 – 2024. Đây cũng là chương trình hành động của Bộ Thông tin và Truyền thông do Bộ trưởng Nguyễn Mạnh Hùng trực tiếp chỉ đạo.
+
+Hiện nay, có rất nhiều những xu hướng công nghệ mới đang được áp dụng rộng rãi trong mọi mặt của đời sống con người. Trong đó, công nghệ Trí tuệ nhân tạo (AI) là một trong những công nghệ đang được ứng dụng nhiều nhất trong lĩnh vực báo chí và truyền thông.
+
+Các ứng dụng của AI có thể kể đến như: Chuyển văn bản thành giọng nói, chuyển giọng nói thành văn bản, báo chí robot, theo dõi tin trên mạng xã hội, tương tác với độc giả (Cá nhân hóa), tự động kiểm chứng thông tin, phân tích cơ sở dữ liệu quy mô lớn, nhận biết hình ảnh, sinh trắc học giọng nói,…
+
+Tại diễn đàn, đại diện của MobiFone là ông Đặng Triều Dương đã chia sẻ giải pháp công nghệ Chuyển đổi văn bản thành giọng nói Trí tuệ nhân tạo ứng dụng trong lĩnh vực báo chí và truyền thông "MobiFone AI Text to Speech".
+
+MobiFone AI Text to Speech(AI – TTS) là giải pháp chuyển đổi văn bản thành tiếng nói tiếng Việt ứng dụng công nghệ Trí tuệ nhân tạo (AI). MobiFone AI – TTS hiểu được văn bản và chuyển đổi ra âm thanh tổng hợp hoàn chỉnh với nhịp điệu và ngữ điệu phù hợp, cho phép người dùng lựa chọn giọng nói đa vùng miền, đa giới tính.
+
+Các ứng dụng của công nghệ AI – TTS có thể kể đến như: Ứng dụng giúp cá nhân hoặc doanh nghiệp thực hiện nhiều cuộc gọi ra đồng thời với nội dung cá nhân hóa (mAICall); Ứng dụng đọc báo, tin tức bằng giọng nói trí tuệ nhân tạo (mAIVoice); Website cung cấp giải pháp chuyển đổi văn bản sang giọng nói (MOBIFONE.AI); Giải pháp gọi ra tự động dựa trên giọng nói trí tuệ nhân tạo tích hợp với hệ thống tổng đài (mAICallCenter).
+
+Ứng dụng của MobiFone AI – TTS trong lĩnh vực báo chí đó là khả năng tích hợp báo nói, giúp cho các đầu báo có thêm tính năng nghe báo tự động. Đặc biệt, báo nói sẽ là công cụ rất hữu ích đối với những người khiếm thị, người cao tuổi, người hay di chuyển trên đường,...
+
+Hiện tại, ở Việt Nam đã có khoảng 15 đơn vị báo triển khai phiên bản báo nói, tính năng Báo nói đang được rất nhiều đơn vị báo quan tâm và dự kiến triển khai trong thời gian tới.

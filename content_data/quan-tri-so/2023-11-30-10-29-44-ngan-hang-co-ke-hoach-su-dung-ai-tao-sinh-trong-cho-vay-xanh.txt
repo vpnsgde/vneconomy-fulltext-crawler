@@ -1,0 +1,21 @@
+Ngày 28/11, khảo sát toàn cầu hàng năm “Financial service: State of the Nation Survey 2023” (Dịch vụ tài chính: Khảo sát quốc gia 2023) của Finastra cho thấy các tổ chức tài chính Việt Nam đang có sự quan tâm mạnh mẽ đến các công nghệ và mô hình ngân hàng mới nổi dù khả năng đầu tư công nghệ bị hạn chế bởi điều kiện kinh tế gặp nhiều thách thức.
+
+Ngoài ra, 91% giám đốc tài chính tại Việt Nam cho biết tổ chức của họ quan tâm đến Generative AI (AI tạo sinh) – con số cao nhất trong tất cả các thị trường được khảo sát. Trong đó, 58% tổ chức đã triển khai Generative AI hoặc đang nghiên cứu và thử nghiệm công nghệ.
+
+
+
+"Đầu tư vào AI, BaaS và tài chính nhúng vẫn là ưu tiên hàng đầu đối với các tổ chức dịch vụ tài chính trong 12 tháng tới, đặc biệt là khi các tổ chức này mong muốn nâng cao và cá nhân hóa trải nghiệm của khách hàng".
+
+Ông Simon Paris, Giám đốc điều hành Finastra.
+
+Theo khảo sát của Finastra, Việt Nam đang dẫn đầu thế giới về triển khai tài chính nhúng và Ngân hàng như một dịch vụ (BaaS). Trong đó, 58% tổ chức tài chính Việt Nam đã triển khai hoặc cải thiện khả năng tài chính nhúng trong 12 tháng qua, cao hơn mức trung bình toàn cầu là 41%. Đồng thời, việc triển khai hoặc cải thiện khả năng BaaS của Việt Nam là 55%, cao hơn so với 48% trên toàn cầu. Điều này phản ánh sự quan tâm lớn của các nhà điều hành tổ chức tài chính Việt Nam đối với các mô hình ngân hàng mới nổi khi 89% cho rằng những mô hình này là công cụ tạo tăng trưởng kinh doanh và thu nhập - cao thứ hai sau Hồng Kông (95%).
+
+Các chuyên gia của Finastra nhận định, tình hình kinh tế toàn cầu tiếp tục khó khăn sẽ ảnh hưởng các kế hoạch đầu tư của các ngân hàng. Phần lớn các tổ chức tài chính đã bị hạn chế các khoản đầu tư vào công nghệ và ngân hàng số. Tỷ lệ này cao nhất ở Việt Nam. Có đến 87% cho biết khoản đầu tư của các tổ chức đã bị hạn chế, trong đó, 32% bị hạn chế nặng nề. Tuy nhiên, 67% đã tiếp tục tiến hành toàn bộ khoản đầu tư hoặc dự kiến sẽ thực hiện đầu tư vào năm 2024.
+
+Tài chính tập trung vào Môi trường- Xã hội-Quản trị (ESG) được kỳ vọng có thể mang lại lợi ích cho cả các tổ chức tài chính và cộng đồng. Theo khảo sát của Finastra, có 91% ở Việt Nam đồng ý rằng việc tập trung vào ESG và phát triển bền vững sẽ là sự đột phá lớn tiếp theo trong lĩnh vực tài chính. Đây là mức cao nhất trên toàn cầu, và cao hơn 10% so với mức trung bình toàn cầu (79%).
+
+Cụ thể, 82% các nhà lãnh đạo tài chính tại Việt Nam tin rằng tín dụng xanh mang lại cơ hội tăng trưởng và tạo doanh thu. Một trong những chìa khóa để khai thác tiềm năng này là Generative AI. Trong số những ngân hàng quan tâm đến công nghệ, ứng dụng phổ biến nhất của Generative AI trong  tín dụng xanh là thu thập, xử lý và phân tích dữ liệu ESG hoặc phân loại các tiêu chí cho vay (36%). Tại Việt Nam, 44% các ngân hàng có kế hoạch sử dụng Generative AI trong tín dụng xanh. Đây là tỷ lệ cao nhất trên toàn cầu, chỉ sau Ả Rập Xê Út (47%).
+
+Ông Simon Paris, Giám đốc điều hành Finastra, cho biết: "Mặc dù trong điều kiện kinh tế đầy thách thức, nghiên cứu của Finastra cho thấy rõ ràng việc đầu tư vào AI, BaaS và tài chính nhúng vẫn là ưu tiên hàng đầu đối với các tổ chức dịch vụ tài chính trong 12 tháng tới, đặc biệt là khi các tổ chức này mong muốn nâng cao và cá nhân hóa trải nghiệm của khách hàng. Finastra cam kết mạnh mẽ với các sáng kiến ESG, sử dụng các công nghệ tiên tiến như AI để nắm bắt các cơ hội phía trước".
+
+Được biết, tổng cộng có 956 chuyên gia (cấp quản lý) tại các tổ chức tài chính và ngân hàng trên khắp Hoa Kỳ, Vương quốc Anh, Pháp, Đức, Hồng Kông, Singapore, Ả Rập Xê Út, Việt Nam và UAE đã tham gia cuộc khảo sát này. Các tổ chức tài chính này đại diện cho tổng doanh thu khoảng 33 tỷ USD trong 12 tháng qua, tuyển dụng khoảng 2,4 triệu nhân viên và có khoảng 240 triệu mối quan hệ đối tác, khách hàng.

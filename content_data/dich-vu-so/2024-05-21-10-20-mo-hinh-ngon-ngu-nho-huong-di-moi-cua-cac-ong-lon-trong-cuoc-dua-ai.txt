@@ -1,0 +1,31 @@
+Các công ty trí tuệ nhân tạo đã chi hàng tỷ USD để xây dựng mô hình ngôn ngữ lớn (LLM) nhằm cung cấp năng lượng cho các sản phẩm AI. Hiện giờ họ đang tìm thấy một hướng đi mới nhằm tăng doanh thu trong cuộc đua trí tuệ nhân tạo: mô hình ngôn ngữ nhỏ (SLM).
+
+Apple, Microsoft, Meta và Google gần đây đều đã phát hành các mô hình AI mới với ít tham số hơn (là số lượng biến được sử dụng để đào tạo hệ thống AI và định hình đầu ra của nó) nhưng vẫn có khả năng mạnh mẽ.
+
+Động thái này là nỗ lực của các "ông lớn" công nghệ nhằm khuyến khích các doanh nghiệp áp dụng AI. Nhiều công ty vẫn còn đang lo ngại về chi phí và nguồn lực cần thiết để chạy các mô hình ngôn ngữ lớn - loại công nghệ làm nền tảng cho các chatbot phổ biến như Chat GPT của OpenAI.
+
+Thực tế số lượng tham số càng cao thì hiệu suất của phần mềm AI càng tốt và các nhiệm vụ của nó càng phức tạp và nhiều sắc thái hơn. Mẫu GPT-4o mới nhất của OpenAI và Gemini 1.5 Pro của Google, cả hai đều được công bố trong tuần này, được ước tính có hơn 1 nghìn tỷ tham số và Meta đang đào tạo phiên bản 400 tỷ tham số của mô hình Llama mới ra mắt gần đây.
+
+Ngoài việc đấu tranh để thuyết phục một số khách hàng doanh nghiệp trả số tiền lớn cần thiết để chạy các sản phẩm AI tổng hợp, cũng có những lo ngại về dữ liệu và bản quyền đang cản trở việc áp dụng.
+
+Điều đó đã khiến các nhóm công nghệ như Meta và Google đưa ra các mô hình ngôn ngữ nhỏ chỉ với vài tỷ tham số với chi phí rẻ hơn, tiết kiệm năng lượng, có thể tùy chỉnh, cần ít năng lượng hơn để đào tạo và chạy, vừa có thể ngăn chặn dữ liệu nhạy cảm.
+
+Google, Meta, Microsoft và công ty khởi nghiệp Mistral của Pháp cũng đã phát hành các mô hình ngôn ngữ nhỏ thể hiện khả năng tiến bộ và có thể tập trung tốt hơn vào các ứng dụng cụ thể.
+
+Nick Clegg, chủ tịch phụ trách các vấn đề toàn cầu của Meta, cho biết mô hình 8 tỷ tham số mới của Llama 3 có thể so sánh với GPT-4. Microsoft cho biết mô hình Phi-3 nhỏ của họ với 7 tỷ tham số đang hoạt động tốt hơn GPT-3.5, phiên bản trước đó của mô hình OpenAI.
+
+Các mô hình nhỏ có thể xử lý các tác vụ cục bộ trên thiết bị thay vì gửi thông tin lên đám mây, điều này có thể thu hút những khách hàng quan tâm đến quyền riêng tư muốn đảm bảo thông tin được lưu giữ trong mạng nội bộ.
+
+Charlotte Marshall, quản lý tại Addleshaw Goddard - Công ty luật tư vấn cho các ngân hàng cho biết: “một trong những thách thức mà nhiều khách hàng của chúng tôi đã gặp phải khi áp dụng các sản phẩm AI sáng tạo là tuân thủ các yêu cầu pháp lý về xử lý và truyền dữ liệu”. Bà cho biết các mô hình nhỏ hơn mang lại cơ hội cho các doanh nghiệp vượt qua những lo ngại về pháp lý và chi phí.
+
+Các mẫu nhỏ hơn cũng cho phép các tính năng AI chạy trên các thiết bị như điện thoại di động. Mẫu “Gemini Nano” của Google được trang bị bên trong điện thoại Pixel mới nhất và điện thoại thông minh S24 mới nhất của Samsung.
+
+Apple đã ám chỉ rằng họ cũng đang phát triển các mô hình AI để chạy trên chiếc iPhone bán chạy nhất của mình. Tháng trước, gã khổng lồ Thung lũng Silicon đã phát hành mô hình OpenELM, một mô hình nhỏ được thiết kế để thực hiện các tác vụ dựa trên văn bản.
+
+Boyd của Microsoft cho biết các mẫu máy nhỏ hơn sẽ mang đến các ứng dụng thú vị, cho đến điện thoại và máy tính xách tay.
+
+Giám đốc OpenAI Sam Altman cho biết vào tháng 11 rằng công ty khởi nghiệp có trụ sở tại San Francisco này đã cung cấp các mô hình AI có quy mô khác nhau cho khách hàng và phục vụ các mục đích riêng biệt. Họ sẽ tiếp tục xây dựng và bán các tùy chọn này.
+
+“Có một số điều mà các mô hình nhỏ hơn sẽ hoạt động thực sự tốt. Tôi rất vui mừng vì điều đó”, ông nói thêm.
+
+Tuy nhiên, Altman cho biết thêm OpenAI sẽ vẫn tập trung vào việc xây dựng các mô hình AI lớn hơn với khả năng mở rộng quy mô, bao gồm khả năng suy luận, lập kế hoạch và thực hiện các nhiệm vụ và cuối cùng đạt được trí thông minh ở cấp độ con người.

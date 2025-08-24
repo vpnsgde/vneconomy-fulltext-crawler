@@ -1,0 +1,39 @@
+Tại Hội thảo khoa học “Đảm bảo an ninh và tự chủ công nghệ sản xuất chip của Việt Nam trong tiến trình chuyển đổi số quốc gia”, diễn ra chiều 22/8 tại Hà Nội, ông Trần Kim Chung, Chủ tịch Hội đồng quản trị CT Group, đề xuất các cơ quan như Bộ Công an, Bộ Quốc phòng sớm chốt và kiến nghị Chính phủ chốt các loại chip nào Việt Nam sẽ phát triển, đồng thời đề xuất cùng Đại học Quốc gia hợp tác với Bộ Công an, Quốc phòng sản xuất chip về SIM cho máy bay không người lái (UAV).
+
+VIỆT NAM CẦN CHỐT CÁC LOẠI CHIP NÀO SẼ PHÁT TRIỂN
+
+Theo ông Chung, để thực hiện được Nghị quyết 57 (Nghị quyết số 57-NQ/TW của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia), cần một liên minh chiến lược giữa Nhà nước, nhà trường và doanh nghiệp theo mô hình ba nhà.
+
+Cụ thể, đối với lĩnh vực sản xuất chip, đại diện cho nhà nước có các cơ quan bộ ngành, công an, quốc phòng, các địa phương, các đơn vị. Về phía nhà trường có các đại học, các trường đại học, các tổ chức giáo dục. Để làm được và nhanh chóng biến những nội dung trong Nghị quyết 57 cũng như các luật trở thành hiện thực, vị Chủ tịch CT Group đề xuất:
+
+Thứ nhất là Bộ Công an, Bộ Quốc phòng cần quyết định rõ các dòng chip nhất thiết phải phát triển ở trong nước. “Chúng tôi sẵn sàng cùng với Đại học Quốc gia Hà Nội nỗ lực nghiên cứu, phát triển và đáp ứng. Hiện nay chúng tôi là một đơn vị duy nhất ở Việt Nam có thể làm toàn trình về các loại chip cao cấp”, ông Chung cho hay.
+
+Ông Trần Kim Chung cho biết con chip đầu tiên cần làm là phục vụ cho quá trình chuyển đổi số ở giai đoạn 2 và giai đoạn 3. Đây có thể là các con chip chuyên về chuyển đổi dữ liệu từ analog sang digital hoặc là các chip IoT khác. Tiếp đến là chip MCU  - là con chip vi xử lý. Và thứ ba là khi chuyển đổi số thì Việt Nam chuyển đổi số để AI phát huy được hết vai trò của AI, để nâng cao năng suất quốc gia, thì cần chip AI tại biên.
+
+Ngoài ra, Việt Nam cần chip viễn thông và viễn thám - cũng là chip quan trọng. Tức là chip về tần số. Việt Nam cũng tiến lên ở các vệ tinh thì cũng cần phát triển các loại chip chuyên về vệ tinh và các loại chip như là PA.
+
+“Như vậy, Việt Nam cần dưới 10 loại chip. Và để phát triển được 10 loại chip này cũng rất gian nan. Vì để thiết kế được một con chip bình thường mất khoảng 2 năm. Sau đó còn phải quang khắc nếu như có các đơn vị họ chấp nhận quang khắc như TSMC chẳng hạn cũng phải mất 3 đến 4 tháng. Rồi sau đó còn quy trình đóng gói kiểm thử. Nói chung sẽ mất hơn hai năm để có một con chip”, Chủ tịch CT Group Trần Kim Chung nhìn nhận.
+
+Theo ông Chung, nếu đồng loạt làm tất cả các loại chip cần thiết từ bây giờ thì cũng phải đến 2027 mới có. Trong khi đó, quá trình chuyển đổi số đang có những tiến độ rất lớn. “Chắc chắn tiết kiệm được giờ nào là quý giờ đó”, ông nói và đề xuất các cơ quan như Bộ Công an, Bộ Quốc phòng sớm chốt và kiến nghị Chính phủ chốt các loại chip nào Việt Nam sẽ phát triển.
+
+Các quốc gia nếu có điều kiện thì cũng không có sự lựa chọn nào khác là họ đều phải tự chủ (về chip bán dẫn), theo ông Trần Kim Chung.
+
+Thứ hai, Chủ tịch CT Group đề xuất Đại học Quốc gia cùng với CT Group có thể hợp tác với các đơn vị Bộ Công an, Bộ Quốc phòng để đồng nghiên cứu, phát triển các sản phẩm đạt chuẩn trên nền tảng các loại chip tự phát triển, và có thể phát triển những sản phẩm đạt chuẩn. Cụ thể, ông Trần Kim Chung đề xuất là Đại học Quốc gia Hà Nội và CT Group cùng hợp tác để với Bộ Công an, Bộ Quốc phòng để làm một phòng thí nghiệm về về kiểm định chip. Và đồng thời cũng làm một một con chip chung là chip về SIM của máy bay không người lái để đăng kiểm.
+
+“CT Group không chỉ là làm chip, làm bo mạch, sensor và có thể làm máy bay không người lái (UAV) ở rất nhiều các dòng khác nhau”, Chủ tịch CT Group cho hay.
+
+CẦN TỰ CHỦ CHIP THEO LỘ TRÌNH THỰC TẾ VÀ CÓ CHỌN LỌC
+
+Chia sẻ thêm về việc tự chủ sản xuất chip bán dẫn, PGS. TS Thái Truyền Đại Chấn, thành viên Hội đồng khoa học CTGroup, cho rằng cuộc đua cạnh tranh kiểm soát giữa các cường quốc về chip bán dẫn hiện nay không chỉ là vấn đề thương mại, mà còn là cuộc chiến địa chính trị, bởi ai kiểm soát được bán dẫn, sẽ kiểm soát phần lớn sức mạnh công nghệ trong tương lai.
+
+Theo ông, nếu một quốc gia không làm chủ được mạch tích hợp, rủi ro sẽ rất lớn. Cụ thể như về kinh tế, chỉ một biến động trong chuỗi cung ứng toàn cầu như dịch bệnh hay căng thẳng thương mại có thể khiến hàng loạt ngành sản xuất tê liệt, ảnh hưởng trực tiếp đến GDP, việc làm và ổn định xã hội.
+
+Đối với an ninh quốc phòng, các hệ thống radar, vệ tinh, UAV hay vũ khí chính xác cao đều cần đến bán dẫn. Nếu nguồn cung bị gián đoạn, khả năng phòng thủ sẽ suy giảm. Đáng lo ngại hơn, chip nhập khẩu có thể bị cài "lỗ hổng bảo mật" (backdoor) đe dọa chủ quyền quốc gia.
+
+Chia sẻ tại hội thảo, nhiều chuyên gia cho rằng việc tự chủ chip cần một lộ trình thực tế và có chọn lọc. Việt Nam khó cạnh tranh trực tiếp ở phân khúc bán dẫn siêu tiên tiến đòi hỏi vốn đầu tư hàng chục tỷ USD và nền tảng công nghệ nhiều thập kỷ, tuy nhiên có thể tập trung vào những mảng thiết thực, gắn liền với nhu cầu trong nước. Ví dụ như vi mạch công suất thấp và trung bình cho IoT (thiết bị vạn vật kết nối), cảm biến, thiết bị thông minh và hạ tầng 6G, là những lĩnh vực có thị trường rộng và phù hợp năng lực hiện tại.
+
+Theo Đại tá, Tiến sĩ Lê Hải Triều, Viện trưởng Viện Kỹ thuật điện tử nghiệp vụ, Cục Công nghiệp An ninh (Bộ Công an), một số doanh nghiệp trong nước đã làm tốt khâu thiết kế vi mạch. Tuy nhiên, việc sản xuất vẫn phải thực hiện ở nước ngoài, kéo theo rủi ro lớn cả về chi phí và an ninh. Và khi chưa làm chủ sản xuất, chúng ta mất tự chủ và điều đó liên quan trực tiếp đến an ninh quốc gia.
+
+Theo ông Lê Hải Triều, hiện nay, chip dùng cho căn cước, hộ chiếu của Việt Nam đều đang được sử dụng rộng rãi trên thế giới (thị phần chíp EMV, eID, e-Passport loại này chiếm đến 95% thế giới) và còn tiếp tục được sử dụng trong tương lai ít nhất là 20-25 năm nữa mà không lạc hậu. Chính vì thế, các doanh nghiệp bán dẫn trong nước nên tập trung sản xuất các sản phẩm này. Bên cạnh đó, các nhà sản xuất nên kết nối giới nghiên cứu, nhà hoạch định chính sách và doanh nghiệp công nghệ nhằm thúc đẩy tự chủ công nghệ lõi cho chuyển đổi số bền vững.
+
+Ông Triều cũng cho biết hiện tại Bộ Công an đã giao Viện Kỹ thuật điện tử nghiệp vụ (Cục Công nghiệp an ninh) chủ trì xây dựng đề án: "Nghiên cứu, phát triển và chuyển giao công nghệ để làm chủ công nghệ vi mạch bán dẫn bảo đảm quốc phòng, an ninh" trình Thủ tướng Chính phủ trong năm 2025.

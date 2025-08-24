@@ -1,0 +1,13 @@
+Ngân sách R&D của AMD và Nvidia cách đây 10 năm gần như tương đương nhau, nhưng trong những năm gần đây, Nvidia đã bỏ xa đối thủ GPU của mình trong khoản đầu tư vào hoạt động quan trọng này.
+
+Theo đó, Nvidia hiện tập trung đầu tư vào GPU trung tâm dữ liệu cho AI và HPC (hiện là mảng kinh doanh chính của công ty), GPU PC của khách hàng, thiết bị mạng và DPU được sử dụng để hỗ trợ các sản phẩm trung tâm dữ liệu của công ty. Với tốc độ bán ra nhanh chóng của GPU H100/H200 và B100/B200, Nvidia càng thúc đẩy bộ phận nghiên cứu và phát triển hoạt động hết công suất để phát triển các thế hệ GPU mới nhằm tiếp tục giữ vị thế như một tay chơi thống lĩnh thị trường. Trong năm ngoái, Nvidia đã chi 7,34 tỷ USD cho R&D.
+
+Trong khi đó, AMD tập trung phát triển CPU, GPU, FPGA, Pensando DPU và thiết bị mạng, điều này giúp công ty có thể chi ít hơn Nvidia cho các danh mục sản phẩm của mình. Đến hết năm 2023, AMD đã chi khoảng 5,83 tỷ USD cho nghiên cứu và phát triển sản phẩm trong năm tài chính này.
+
+Trong khi đó, Intel lại chi rất nhiều tiền cho hoạt động R&D trong năm ngoái, nhiều hơn cả AMD và Nvidia cộng lại, tập trung vào các sản phẩm CPU, GPU, FPGA, thiết bị mạng, điện toán lượng tử và nhiều sản phẩm khác. Mặc dù Giám đốc điều hành hiện tại của Intel, ông Pat Gelsinger, đã giảm số lượng danh mục sản phẩm và dự án mà Intel đang theo đuổi, Intel vẫn quản lý hàng chục danh mục sản phẩm và hàng nghìn SKU.
+
+Hơn hết, Intel đã chi hàng tỷ USD cho các công nghệ quy trình sản xuất chất bán dẫn mới. Mỗi quy trình sản xuất mới thường đòi hỏi rất nhiều tiền đầu tư ban đầu cho nghiên cứu và phát triển. Bên cạnh đó, gã khổng lồ ngành bán dẫn này cũng phát triển các công nghệ đóng gói. Ngân sách R&D trong năm 2023 lên đến 16,52 tỷ USD, nhiều hơn cả chi tiêu của AMD và Nvidia cộng lại.
+
+Tất nhiên, Qualcomm cũng là một công ty chi tiêu nhiều cho R&D. Công ty đầu tư vào hệ thống trên chip cho điện thoại thông minh và PC, công nghệ RF và các công nghệ vô tuyến (6G, 7G,...). Có lẽ phần thú vị nhất về Qualcomm là trong số tất cả các công ty công nghệ cao được đề cập trong tin tức này; đây là công ty duy nhất có modem 5G đang hoạt động. Năm ngoái, Qualcomm đã đầu tư khoảng 8,86 tỷ USD cho hoạt động nghiên cứu.
+
+Tuy nhiên, chi tiêu nghiên cứu của tất cả công ty kể trên cũng không thể vượt mặt gã khổng lồ Apple. Apple không phải là công ty bán dẫn nhưng danh mục R&D của họ cũng khá liên quan đến lĩnh vực này, từ kính Ion-X cho Apple Watch cấp thấp đến bộ xử lý M-series Max và Ultra cao cấp cho máy tính xách tay MacBook Pro hiệu suất cao và máy tính để bàn Mac Studio. Dựa trên hồ sơ nộp lên SEC của Apple, công ty này đã chi khoảng 27 tỷ USD hoặc 29,915 tỷ USD cho R&D vào năm 2023, nhiều hơn cả AMD, Nvidia và Qualcomm cộng lại.

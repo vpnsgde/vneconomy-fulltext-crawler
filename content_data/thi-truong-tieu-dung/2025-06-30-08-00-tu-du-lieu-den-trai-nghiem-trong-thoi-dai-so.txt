@@ -1,0 +1,23 @@
+Với khách hàng Gen Z, hành trình mua sắm không còn tuyến tính theo mô hình “Nhận thức - Suy tính - Giao dịch” nữa, mà khách hàng có thể quay lại giai đoạn đầu bất kỳ lúc nào. Sau khi tham khảo online, họ đến cửa hàng và nhận ra sản phẩm không phù hợp, họ hoàn toàn có thể bắt đầu quá trình cân nhắc lại từ đầu, theo cách khác hoặc ở một nền tảng khác. Vì vậy, nếu thương hiệu không duy trì sự hiện diện liên tục và đồng nhất trên tất cả các điểm chạm, khả năng “mất khách” vào tay đối thủ là rất cao.
+
+Để thiết kế được một hành trình mua sắm tối ưu, cần bắt đầu từ dữ liệu. Với kênh online, có thể đo lường qua loạt chỉ số như lượt hiển thị nội dung, tỷ lệ click vào banner, hành vi trên website... Trong khi đó, ở kênh offline, thương hiệu cần theo dõi lượt ghé thăm cửa hàng, tỷ lệ chốt đơn, hoặc hiệu quả tư vấn của nhân viên bán hàng... Mỗi chỉ số đều phản ánh một “khoảnh khắc quyết định” trong hành trình mua sắm của người tiêu dùng.
+
+Hiện nay, không phải công ty nào cũng nhận thức đúng ý nghĩa của trải nghiệm số đối với khách hàng của họ. Một nghiên cứu của Gartner cho thấy chỉ 14% khách hàng được thay đổi nhận thức bởi trải nghiệm số họ nhận được. Đó là do cách thương hiệu tiếp cận vấn đề. Thay vì cố gắng thay đổi nhận thức của khách hàng về sản phẩm hay dịch vụ, họ cần hiểu rằng khách hàng khát khao nhận thức rõ ràng về bản thân mình hơn tất cả.
+
+Hãy xem công cụ tìm giày của Brooks (Brooks shoe finder). Những cách đánh giá của công cụ chủ yếu hướng đến việc giúp khách hàng chủ động xem xét lại cơ chế chạy bộ của họ (ví dụ: vị trí của chân, áp lực lên khớp gối...). Nó cũng giúp khách hàng cân nhắc về những mục tiêu thể hình của mình. Nghĩa là các dữ liệu không chỉ hướng về sản phẩm, nó còn giúp khách hàng tự tin hơn về khả năng đạt được mục tiêu. Từ đó, khách hàng có thể đưa ra những lựa chọn mua hàng xác đáng hơn.
+
+Có thể nói, thay đổi cách tiếp cận, cộng với công nghệ, thương hiệu sẽ có thể thành công. Hiểu biết khách hàng mới là nền tảng của trải nghiệm người dùng hấp dẫn, còn công nghệ là công cụ trợ giúp đắc lực. Một ví dụ điển hình khác, L’Oreal ra mắt ứng dụng “Skin Genius”, kết hợp trợ lý ảo cá nhân hóa nhằm thay đổi lộ trình chăm sóc da của khách hàng. Skin Genius khuyến khích khách hàng thay đổi lộ trình chăm sóc da bằng cách mô phỏng một “cố vấn làm đẹp”, dẫn dắt khách hàng suy nghĩ và khám phá mục tiêu cải thiện da.
+
+Tương tự lĩnh vực làm đẹp, dịch vụ cá nhân hóa trong ngành bán lẻ thời trang đang ngày càng gia tăng. Stitch Fix của Mỹ cung cấp dịch vụ đăng ký tư vấn thời trang trực tuyến, khách hàng sẽ điền vào bảng khảo sát về sở thích thời trang, thông số cơ thể và phân khúc giá mong muốn. Sau đó, Stitch Fix sẽ gửi đến khách hàng 5 bộ quần áo để thử nghiệm, kèm theo lời tư vấn từ các chuyên viên. Khách hàng chỉ cần thanh toán cho những sản phẩm mà họ mua, trả lại những món đồ không ưng ý và cung cấp phản hồi.
+
+Để đảm bảo hiệu quả, việc tích hợp các hệ thống AI tại cửa hàng cũng đã được nhiều thương hiệu triển khai cẩn trọng. Zegna đã thành công khi ra mắt công cụ số Zegna X dựa trên AI, cho phép khách hàng dễ dàng tìm kiếm phong cách cá nhân, chọn chất liệu và màu sắc, cũng như xem trước trang phục một cách chi tiết. Ở chiều ngược lại, hệ thống hỗ trợ Zegna thu thập và phân tích thông tin giao dịch của từng khách hàng, từ đó tối ưu hóa các đề xuất và nâng cao trải nghiệm mua sắm cá nhân hóa.
+
+Trong bối cảnh cạnh tranh gay gắt, gã khổng lồ bán lẻ Walmart cũng đã ứng dụng trí tuệ nhân tạo để quản lý tồn kho thông minh. Tại các kho hàng Walmart, các máy lau sàn tự động trang bị AI không chỉ đảm bảo vệ sinh mà còn chụp hàng triệu bức ảnh sản phẩm hàng ngày, giúp hệ thống phát hiện và bổ sung ngay khi hàng sắp hết. Nhờ đó, Walmart luôn đảm bảo rằng khách hàng không bao giờ gặp phải tình trạng “hết hàng”...
+
+Theo khảo sát Consumer Sentiment của NielsenIQ, 52% khách hàng sẵn sàng chuyển sang sử dụng sản phẩm của thương hiệu đối thủ sau một trải nghiệm không tốt, 86% sẵn sàng chi trả cao hơn để được trải nghiệm khách hàng tốt hơn.
+
+Còn theo báo cáo State of the Consumer của NielsenIQ, 83% người tiêu dùng Việt Nam hiện đại mong muốn trải nghiệm những điều mới, 58% sẵn sàng làm những điều khác biệt. Điều này phản ánh tinh thần sẵn sàng khám phá, giúp các doanh nghiệp có cơ hội phát triển các sản phẩm và dịch vụ độc đáo....
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 26-2025 phát hành ngày 30/6/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

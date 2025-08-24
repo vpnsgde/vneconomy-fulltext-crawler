@@ -1,0 +1,33 @@
+Theo The Crypto Times, Ngân hàng Trung ương Đài Loan (Trung Quốc) ngày 8/7 cho biết họ có sự điều chỉnh trong định hướng phát triển tiền kỹ thuật số ngân hàng Trung ương (CBDC). Cụ thể, Đài Loan sẽ tập trung vào việc tăng cường hiệu quả thanh toán và đổi mới thông qua các thử nghiệm CBDC mà sẽ không có mốc thời gian cố định cho việc ra mắt đồng tiền kỹ thuật số này.
+
+Thống đốc Ngân hàng Trung ương Yang Chin-long cho biết: “Mặc dù ngân hàng hiện không có thời gian biểu phát hành CBDC, nhưng trong quá trình nghiên cứu và thử nghiệm liên tục, ngân hàng đã cải thiện hiệu quả xử lý và ứng dụng đổi mới của hệ thống thanh toán".
+
+Một sự phát triển đáng chú ý là nền tảng nguyên mẫu CBDC được thiết kế để thanh toán bán lẻ sẽ có khả năng xử lý các giao dịch với tốc độ lên tới 20.000 giao dịch mỗi giây. Ngoài ra, ngân hàng đang nghiên cứu về việc tích hợp CBDC với mã thông báo tiền gửi ngân hàng để tạo điều kiện thuận lợi cho hệ thống tiền kỹ thuật số trong tương lai.
+
+Cụ thể, Ngân hàng Trung ương có kế hoạch áp dụng công nghệ mã hóa để chuyển đổi tiền tệ của ngân hàng thương mại và bán buôn, hỗ trợ mã thông báo biến động số dư và hợp tác với các ngân hàng để thử nghiệm chuyển khoản liên ngân hàng và phân phối mã trên một nền tảng chung.
+
+Tổng thống Yang nhắc lại rằng cách tiếp cận thận trọng của Đài Loan nhằm đáp ứng nhu cầu thanh toán kỹ thuật số công cộng và phù hợp với các mục tiêu chính sách kỹ thuật số của Chính phủ, đảm bảo lợi ích đáng kể. Trong khi đó, Ủy ban Giám sát Tài chính Đài Loan dự kiến sẽ đề xuất các quy định mới về tài sản kỹ thuật số vào tháng 9 năm 2024, nhằm mục đích giám sát thị trường và bảo vệ nhà đầu tư hiệu quả hơn.
+
+Sau Trung Quốc và Philippines, Nhật Bản,... Iran là quốc gia châu Á tiếp theo sẽ triển khai thí điểm tiền điện tử ngân hàng trung ương (CBDC) công khai vào tháng 6…
+
+Cách tiếp cận chiến lược này phản ánh cam kết của Đài Loan trong việc tích hợp các đổi mới kỹ thuật số trong tài chính đồng thời ưu tiên sự ổn định và lợi ích công cộng trong hệ sinh thái tài chính của mình. Sự phát triển này phù hợp với bối cảnh toàn cầu nơi nhiều quốc gia đang khám phá tiềm năng của CBDC để hiện đại hóa hệ thống tiền tệ của họ.
+
+CBDC là các loại tiền kỹ thuật số do các ngân hàng Trung ương phát hành, đại diện cho một dạng tiền điện tử của một quốc gia. Không giống như các loại tiền điện tử như Bitcoin và Ethereum, CBDC được phát hành và quản lý bởi các cơ quan Trung ương, điều này mang lại cho chúng sự ổn định và niềm tin của chính quyền. Nhiều quốc gia đang coi CBDC như một công cụ để cải thiện tính bảo mật giao dịch, tăng hiệu quả thanh toán và thúc đẩy tài chính toàn diện.
+
+Đài Loan bắt đầu nghiên cứu về CBDC vào năm 2019, nhận thấy tầm quan trọng của việc theo kịp những đổi mới công nghệ trong lĩnh vực tài chính. Ngân hàng Trung ương đã tiến hành các nghiên cứu sâu rộng và tiến hành một số thử nghiệm để đánh giá tác động của tiền kỹ thuật số đối với hệ thống tài chính quốc gia. Nghiên cứu này liên quan đến phân tích kỹ thuật, đánh giá rủi ro và cân nhắc về an ninh mạng.
+
+Việc xây dựng một nền tảng nguyên mẫu là một bước quan trọng trong hành trình này. Nền tảng này sẽ cho phép ngân hàng Trung ương Đài Loan thử nghiệm các khía cạnh khác nhau của CBDC trong một môi trường được kiểm soát. Điều này bao gồm việc đánh giá cơ sở hạ tầng công nghệ cần thiết để hỗ trợ tiền kỹ thuật số, xác minh tính bảo mật giao dịch và kiểm tra các tác động kinh tế tiềm năng.
+
+Mục tiêu chính của nền tảng nguyên mẫu là mô phỏng việc phát hành, phân phối và sử dụng CBDC trong bối cảnh thế giới thực. Điều này sẽ cho phép xác định mọi vấn đề kỹ thuật và vận hành trước khi tiến hành triển khai trên quy mô lớn. Ngoài ra, nó sẽ cho phép ngân hàng Trung ương thu thập phản hồi từ một nhóm người dùng được chọn, có thể bao gồm các tổ chức tài chính, người bán và người tiêu dùng.
+
+Bước quan trọng tiếp theo trong quá trình phát triển CBDC của Đài Loan sẽ là các phiên điều trần quốc hội được lên kế hoạch vào năm tới. Những phiên điều trần này là cơ hội để thảo luận về kết quả nghiên cứu được thực hiện cho đến nay và đánh giá ý kiến của các bên liên quan khác nhau.
+
+Trong các phiên điều trần, một số khía cạnh sẽ được phân tích, bao gồm tính bảo mật của nền tảng, tác động kinh tế, quyền riêng tư của người dùng và các quy định cần thiết để quản lý tiền kỹ thuật số.
+
+Các phiên điều trần quốc hội sẽ rất quan trọng để xác định tương lai của CBDC tại Đài Loan. Chúng sẽ cho phép các nhà lập pháp hiểu rõ hơn về những lợi thế và rủi ro liên quan đến tiền kỹ thuật số và đưa ra quyết định sáng suốt về khả năng áp dụng nó. Ngoài ra, họ sẽ cung cấp một nền tảng đối thoại giữa ngân hàng Trung ương, đại diện của ngành tài chính và công chúng.
+
+Thống đốc ngân hàng Trung ương Đài Loan sẽ trình bày báo cáo nghiên cứu chi tiết trước quốc hội vào ngày 10/7. Báo cáo này sẽ tóm tắt những tiến bộ đã đạt được cho đến nay trong quá trình phát triển CBDC và cung cấp cái nhìn tổng quan về các giai đoạn tiếp theo của dự án. Kết quả của các thử nghiệm được thực hiện trên nền tảng nguyên mẫu, phân tích rủi ro và đề xuất cho tương lai sẽ được đưa vào.
+
+Việc xây dựng nền tảng nguyên mẫu cho CBDC và lên kế hoạch cho các phiên điều trần quốc hội đánh dấu bước tiến quan trọng trong hành trình hướng tới số hóa nền kinh tế tài chính của Đài Loan. Với việc trình bày báo cáo nghiên cứu của thống đốc ngân hàng Trung ương, Đài Loan đang chuẩn bị thảo luận về tương lai của loại tiền kỹ thuật số của mình một cách minh bạch và đầy đủ thông tin.
+
+Nếu được triển khai thành công, CBDC có thể mang lại nhiều lợi ích, bao gồm các giao dịch an toàn và hiệu quả hơn cũng như khả năng tiếp cận tài chính tốt hơn.

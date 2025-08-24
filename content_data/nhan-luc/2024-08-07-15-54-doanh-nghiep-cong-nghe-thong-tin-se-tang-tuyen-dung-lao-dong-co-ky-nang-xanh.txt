@@ -1,0 +1,53 @@
+Đây là một trong 8 xu hướng chính sẽ thúc đẩy đổi mới trong lĩnh vực công nghệ thông tin, được đề cập trong báo cáo vừa phát hành của ManpowerGroup (công ty cung cấp giải pháp nhân sự) về Thị trường lao động ngành công nghệ thông tin 2024.
+
+Theo báo cáo, tại khu vực Châu Á - Thái Bình Dương, công nghệ thông tin thuộc top 3 lĩnh vực mà doanh nghiệp có ý định tuyển dụng mạnh mẽ nhất trong quý 3/2024.
+
+Tuy nhiên, 78% doanh nghiệp công nghệ thông tin hiện gặp khó khăn, trong việc tìm kiếm nhân tài có kỹ năng đáp ứng yêu cầu. Còn tại Việt Nam, chuyển đổi số đang là trọng tâm của mọi chiến lược kinh doanh.
+
+Bà Nguyễn Thị Thu Thanh, Giám đốc Dịch vụ Tuyển dụng Nhân sự cấp cao miền Bắc, ManpowerGroup Việt Nam chia sẻ. “Khi các tiến bộ công nghệ thông tin ngày càng gia tăng, người lao động không chỉ cần bắt nhịp mà thậm chí nắm vai trò tiên phong trong hành trình này. Bên cạnh máy móc và thuật toán, lĩnh vực công nghệ thông tin còn bao gồm những con người giúp các công nghệ trở nên hữu ích cho tất cả mọi người”.
+
+Báo cáo đã phân tích 8 xu hướng chính trên toàn cầu đang thúc đẩy đổi mới trong lĩnh vực công nghệ thông tin, và tác động của chúng đối với doanh nghiệp, và người lao động trong thời gian tới.
+
+Bất chấp việc gia tăng mạnh mẽ ứng dụng tự động hóa, tương lai của đổi mới công nghệ thông tin, vẫn sẽ nằm trong tay lực lượng lao động có tay nghề cao.
+
+Xu hướng 1: Trăn trở về AI.Mặc dù AI và ML (máy học) đang được áp dụng ngày một rộng rãi trong các doanh nghiệp, khoảng cách về kỹ năng lao động vẫn đang gia tăng.
+
+Các giám đốc tuyển dụng trên toàn thế giới đã xếp việc “đào tạo người lao động để phát huy AI trong công việc hiện tại” là thách thức lớn nhất, với 78% doanh nghiệp hiện lo ngại rằng họ không thể đào tạo người lao động đủ nhanh, để theo kịp sự phát triển của công nghệ.
+
+Xu hướng 2: Công nghệ trên “mây”.Việc ứng dụng công nghệ đám mây hiện đang được đẩy mạnh nhờ AI và máy học, đang thay đổi mạnh mẽ các doanh nghiệp. Các dịch vụ đám mây công cộng trên toàn thế giới dự báo sẽ tăng 19,1% trong năm 2024.
+
+Tốc độ tăng trưởng kép hằng năm trong 5 năm tới sẽ là 19,7%, theo Gartner - công ty nghiên cứu và tư vấn về công nghệ thông tin hàng đầu thế giới. Tuy nhiên, đội ngũ nhân tài lành nghề vẫn là yếu tố cần thiết, để thúc đẩy sự tăng trưởng này.
+
+Theo Hướng dẫn Lương 2024 của ManpowerGroup Việt Nam, một kỹ sư điện toán đám mây tại Việt Nam hiện nay, có thể có mức thu nhập mỗi tháng từ 1.800 USD đến 4.000 USD.
+
+Xu hướng 3: Vai trò của kỹ năng mềm.Bên cạnh ghi nhận sự thiếu hụt về các kỹ năng chuyên môn của lực lượng lao động ngành công nghệ thông tin, những tiến bộ công nghệ đang diễn ra nhanh chóng cũng nhấn mạnh vai trò ngày càng lớn của các kỹ năng mềm, như khả năng hợp tác, thích nghi, và chịu đựng áp lực.
+
+Xu hướng 4: Sản xuất Chip bán dẫn bùng nổ.Trong bối cảnh gián đoạn chuỗi cung ứng và bất ổn địa chính trị liên tục diễn ra, các doanh nghiệp chất bán dẫn đang chuyển sang nội địa hóa sản xuất. Do đó, gia tăng nhu cầu về nhân lực lành nghề.
+
+Tính đến năm 2030, ngành công nghiệp bán dẫn sẽ cần thêm hơn 1 triệu lao động để đáp ứng nhu cầu toàn cầu. Trong đó, Việt Nam sẽ cần khoảng 50.000 kỹ sư công nghệ bán dẫn, để đáp ứng nhu cầu nhân sự của mảng này mỗi năm tăng 10 – 15%.
+
+Xu hướng 5: Bước nhảy vọt của điện toán lượng tử.Dưới tác động của khối lượng dữ liệu khổng lồ, ứng dụng AI, và các lo ngại về vấn đề an ninh mạng, lĩnh vực điện toán lượng tử đang chuyển đổi từ nghiên cứu lý thuyết sang ứng dụng thực tế.
+
+Tính đến năm 2025, có tới 50% việc làm về điện toán lượng tử trên toàn cầu có thể vẫn bỏ trống. Tại Việt Nam, nguồn cung lao động cho mảng này vô cùng hạn hẹp, và đang có rất ít cơ sở đào tạo trong nước hiện giảng dạy các chương trình về điện toán lượng tử.
+
+Xu hướng 6: Xanh hóa ngành công nghệ thông tin.Khi điện toán tiên tiến liên tục phát triển, việc cung cấp năng lượng và làm mát trung tâm dữ liệu, sẽ tiêu thụ lượng điện và nước ngày càng nhiều. Ngành công nghệ thông tin phải đối mặt với những thách thức về phát triển bền vững.
+
+Tuy nhiên, chính việc khai thác sức mạnh của dữ liệu lớn sẽ là cơ hội phát triển các giải pháp bền vững, và sáng tạo hơn.
+
+Tính đến năm 2027, 80% CIO (Giám đốc công nghệ thông tin cấp cao) sẽ có các chỉ số hiệu suất công việc gắn liền với tính bền vững của bộ phận công nghệ thông tin.
+
+Thị trường công nghệ xanh và bền vững toàn cầu được dự báo sẽ tăng trưởng từ 13,76 tỷ USD năm 2022, lên hơn 61 tỷ USD tính đến năm 2030, tương ứng với tốc độ tăng trưởng kép hằng năm (CAGR) là 20%.
+
+Hầu hết các doanh nghiệp lĩnh vực công nghệ thông tin trên toàn thế giới (77%) cho biết họ hiện đang cân nhắc, hoặc đã tích cực tuyển dụng ứng viên sở hữu kỹ năng xanh.
+
+Xu hướng 7: “Áo giáp” trên không gian mạng.Các cuộc tấn công mạng và vi phạm dữ liệu giờ đây là chuyện hết sức phổ biến, đặc biệt dưới ảnh hưởng của các cuộc căng thẳng địa chính trị, và các phương thức mạng ngày càng tinh vi.
+
+Việc dễ dàng tiếp cận các công cụ hỗ trợ AI làm tăng thêm mối đe dọa đối với mọi doanh nghiệp. Đồng thời, những mối đe dọa này cũng đang thúc đẩy cuộc chiến giành nhân tài an ninh mạng, vốn đang khan hiếm.
+
+Nhu cầu nhân lực lành nghề vì thế cũng gia tăng, khi ngành công nghệ thông tin đang cần thêm 4 triệu nhân tài an ninh mạng, để giải quyết các mối đe dọa ngày càng nhiều trên toàn cầu.
+
+Đầu tư vào tăng cường bảo mật là ưu tiên hàng đầu đối với các nhà lãnh đạo doanh nghiệp công nghệ thông tin vào năm 2024. Có 69% cho biết họ có kế hoạch tăng ngân sách an ninh mạng trong năm nay - mức này tăng 8,5% so với năm 2023.
+
+Xu hướng 8:Chuyển đổi số lấy con người làm trung tâm.Sự phổ cập của công nghệ AI hội thoại đã dẫn đến những thảo luận về chuyển đổi số và tự động hóa, cũng như sự xuất hiện của các vị trí với kỹ năng mới.
+
+Những nhà lãnh đạo xác định lấy con người làm trung tâm tỏ ra khá lạc quan - với 82% doanh nghiệp đang đầu tư vào nhân tài mới để làm chủ những tiến bộ nhanh chóng của công nghệ.

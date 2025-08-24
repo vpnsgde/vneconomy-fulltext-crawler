@@ -1,0 +1,35 @@
+Vào ngày 15/4, một ví Bitcoin đã biến mất trong gần 14 năm, bất ngờ hoạt động trở lại. Chủ sở hữu ví này đã gửi 50 triệu Bitcoin tới Coinbase, “chốt lời” khoản lãi hơn 3 triệu USD trong khi trước đây, đó chỉ là những đồng tiền có giá trị dưới 1 xu mỗi đồng.
+
+VíBitcoinlà ứng dụng hoặc thiết bị được sử dụng để lưu trữ và quản lý Bitcoin. Ví Bitcoin cho phép người dùng kiểm soát và thực hiện giao dịch liên quan đến Bitcoin. Nói cách khác, ví Bitcoin hoạt động tương tự như tài khoản ngân hàng, nơi người dùng có thể gửi, nhận Bitcoin thông qua hai thành phần chính là địa chỉ ví và khoá riêng tư.
+
+
+
+Điểm khác nhau đặc biệt của ví Bitcoin so với các loại tài khoản ngân hàng truyền thống chính là mức độ ẩn danh cao. Khi nhận hoặc chuyển Bitcoin của người khác, bạn chỉ có thể biết được tài khoản ví chứ không thể xác định chính xác chủ sở hữu của nó.
+
+Thực tế, giao dịch tuy có vẻ bất thường này hóa ra không phải duy nhất. Gần như mỗi tuần đều có những ví cổ từ những ngày đầu của Bitcoin bất ngờ ‘thức dậy’ và đặt ra câu hỏi cho các nhà đầu tư rằng liệu có bao nhiêu đồng Bitcoin được cho là đã bị mất sẽ quay trở lại lưu thông trên thị trường?
+
+Một cuộc khảo sát mới từ Fortune và Chainalysis đã cung cấp một số thông tin chi tiết về vấn đề này.
+
+Như biểu đồ trên cho thấy, hàng trăm nghìn Bitcoin “bị mất” — được Chainalysis xác định là những Bitcoin không hoạt động kể từ năm 2014 — đã chuyển ví trong vài năm qua.
+
+Biểu đồ mô tả sự thay đổi ròng về khối lượng Bitcoin được giữ trong các ví có quy mô khác nhau, bao gồm cả những ví có ít hơn 50 đơn vị và những ví có 1.000 đơn vị trở lên. Không có gì đáng ngạc nhiên, danh mục dưới 50 chiếm phần lớn các ví Bitcoin cũ.
+
+Có thể thấy số lượng không cân xứng về số lượng ví phân theo số lượng Bitcoin. Điều này phản ánh thực tế rằng trong những ngày đầu sơ khai của Bitcoin, phần thưởng khối (phần thưởng được trao cho những người thợ đào Bitcoin) thông thường là 50. Kể từ đó, một loạt sự kiện “halving” đã dẫn đến việc phần thưởng bị cắt đến 25, 12,5, 6,25 và thậm chí gần đây nhất cắt giảm còn 3,25 Bitcoin.
+
+Giờ đây, số lượng Bitcoin được khai thác mỗi ngày chỉ còn chưa đến 10% so với trước đây. Những chiếc ví từ lâu, nhiều trong số đó nắm giữ khối tài sản khá lớn, có thể thu hút sự quan tâm lớn hơn.
+
+Những người chỉ quan tâm đếntiền điện tửcó thể ngạc nhiên khi biết có rất nhiều ví Bitcoin chứa một lượng tiền đáng kể, đã hoàn toàn không hoạt động trong một thập kỷ trở lên. Tính đến giữa tháng 3, những ví này (không bao gồm khoảng 30.000 ví được liên kết với người sáng tạo Bitcoin Satoshi Nakamoto) chứa 1.798.681 Bitcoin, trị giá khoảng 121 tỷ USD ngày nay.
+
+Như vậy, gần 1,8 triệu ví này đã chiếm khoảng 8,5% trong tổng nguồn cung 21 triệu của Bitcoin.
+
+
+
+Không thể biết chắc chắn rằng điều gì đã xảy ra với với những chiếc ví này, tuy nhiên chắc chắn nhiều ví Bitcoin đã thực sự biến mất hoàn toàn bởi nhiều lý do như bảo mật, tấn công bởi hacker... Trong những ngày đầu của Bitcoin, đồng tiền này gần như vô giá trị. Nó chỉ vượt mốc 1 USD vào năm 2011. Vì vậy, nhiều người nhận được các đồng Bitcoin này có thể đã quên hoàn toàn hoặc không bận tâm đến việc bảo vệ các khóa riêng tư cần thiết để mở ví. Việc đặt sai khóa sẽ đặc biệt phổ biến trong thời kỳ trước năm 2012 khi các công ty như Coinbase, nơi nắm giữ khóa riêng tư thay mặt người dùng, chưa tồn tại.
+
+Nhưng không phải tất cả các ví không hoạt động đều bị mất hoặc bị bỏ rơi. Bitcoin nổi tiếng với bộ sưu tập lớn “Holder”, những người thề sẽ không bao giờ bán nguồn cung của họ (hoặc ít nhất là giữ nó trong một thời gian rất dài). Sự hồi sinh của ví này nhấn mạnh giá trị tiềm năng của các khoản đầu tư Bitcoin dài hạn.
+
+Một số ý kiến cho rằng chủ sở hữu ví có thể đã tìm lại được password bị mất hoặc bị quên của họ, cho phép họ truy cập vào số Bitcoin đã mất từ lâu của mình.
+
+Trong một báo cáo gần đây, ngày 8/3/2024, ZyCrypto đã nhấn mạnh sự chuyển động của các đồng tiền không hoạt động lâu dài trên mạng BTC. Điều này bao gồm một giao dịch chuyển tiền đáng chú ý của một giao dịch Bitcoin đã di chuyển khối lượng 1.000 BTC, trị giá khoảng 67 triệu USD và không hoạt động trong hơn 10 năm.
+
+Khi cộng đồng tiền điện tử tiếp tục phân tích và suy đoán về lý do đằng sau sự hồi sinh của ví Bitcoin thời Satoshi -sự kiện đóng vai trò như một lời nhắc nhở về những bí ẩn xung quanh những ngày đầu của Bitcoin. Sự thức tỉnh đột ngột của ví nêu bật tầm quan trọng của việc đảm bảo và bảo vệ tài sản kỹ thuật số, cũng như giá trị tiềm năng mà các khoản đầu tư dài hạn vào Bitcoin có thể tích lũy theo thời gian.

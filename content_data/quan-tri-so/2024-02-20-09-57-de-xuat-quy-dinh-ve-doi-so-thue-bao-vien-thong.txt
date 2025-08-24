@@ -1,0 +1,27 @@
+Bộ Thông tin và Truyền thông đề xuất quy định về đổi số thuê bao viễn thông. Dự thảo Nghị định quy định chi tiết một số điều của Luật Viễn thông về quản lý kho số viễn thông, tài nguyên Internet, việc bồi thường khi nhà nước thu hồi mã, số viễn thông, tài nguyên Internet; đấu giá quyền sử dụng mã, số viễn thông, tên miền quốc gia Việt Nam ".vn".
+
+Dự thảo Nghị định nêu rõ, đổi số thuê bao viễn thông là việc tổ chức thực hiện thay đổi độ dài, cấu trúc số thuê bao viễn thông đang được sử dụng trên mạng viễn thông.
+
+Việc đổi số thuê bao viễn thông được thực hiện trong các trường hợp: (1), Tăng dung lượng số thuê bao viễn thông nhằm đáp ứng nhu cầu phát triển thuê bao; (2), Bảo đảm đáp ứng yêu cầu quản lý, khai thác mạng lưới và cung cấp dịch vụ viễn thông hiệu quả; (3), Điều chỉnh, bổ sung, sửa đổi quy hoạch kho số viễn thông quốc gia nhằm đáp ứng yêu cầu thay đổi về công nghệ và chính sách phát triển viễn thông. Và các trường hợp khác theo quy định của Bộ Thông tin và Truyền thông.
+
+Ngoài ra, doanh nghiệp viễn thông khi đổi số thuê bao viễn thông có trách nhiệm: Xây dựng và triển khai kế hoạch đổi số thuê bao viễn thông của doanh nghiệp phù hợp với quy hoạch kho số viễn thông hoặc kế hoạch đổi số thuê bao đã được Bộ Thông tin và Truyền thông phê duyệt.
+
+Đồng thời, thông báo việc đổi số thuê bao viễn thông trên các phương tiện thông tin đại chúng trong thời gian ít nhất 60 ngày trước khi tiến hành đổi số thuê bao viễn thông.
+
+Hướng dẫn người sử dụng dịch vụ viễn thông cách thức quay số sau khi tiến hành đổi số thuê bao viễn thông; phối hợp với các doanh nghiệp viễn thông khác thực hiện việc đổi số thuê bao viễn thông.
+
+Triển khai các biện pháp kỹ thuật nhằm giảm thiểu tối đa việc mất liên lạc (nếu có) trước, trong và sau quá trình đổi số thuê bao viễn thông.
+
+Báo cáo bằng văn bản cho cơ quan quản lý chuyên ngành về viễn thông về kết quả đổi số thuê bao viễn thông theo mẫu số 11 tại Phụ lục ban hành kèm theo Nghị định này.
+
+Doanh nghiệp viễn thông không phải bồi thường thiệt hại gián tiếp hoặc nguồn lợi không thu được do việc đổi số thuê bao viễn thông.
+
+Quy trình thực hiện đổi số thuê bao viễn thông đối với đổi số thuê bao viễn thông nhưng không thay đổi độ dài, cấu trúc số thuê bao viễn thông. Trường hợp doanh nghiệp viễn thông đổi dưới 10.000 số thuê bao viễn thông đã cấp cho thuê bao viễn thông trong phạm vi một tỉnh, thành phố trực thuộc Trung ương nhưng không thay đổi độ dài, cấu trúc số thuê bao viễn thông và bảo đảm phù hợp với quy hoạch đánh số viễn thông quốc gia.
+
+Trường hợp doanh nghiệp viễn thông đổi trên 10.000 số thuê bao viễn thông đã cấp cho thuê bao viễn thông hoặc phạm vi đổi số thuộc hai tỉnh, thành phố trực thuộc Trung ương trở lên nhưng không thay đổi độ dài, cấu trúc số thuê bao viễn thông và phù hợp với quy hoạch đánh số viễn thông quốc gia.
+
+Doanh nghiệp viễn thông phải gửi hồ sơ đề nghị tới Bộ Thông tin và Truyền thông ít nhất 90 ngày trước ngày đổi số thuê bao viễn thông và chỉ tiến hành đổi số thuê bao viễn thông sau khi có văn bản chấp thuận của Bộ Thông tin và Truyền thông.
+
+Được biết, hồ sơ đề nghị đổi số thuê bao viễn thông bao gồm: Đơn đề nghị đổi số thuê bao viễn thông theo mẫu số 12 tại Phụ lục ban hành kèm theo Nghị định này; kế hoạch đổi số thuê bao viễn thông, trong đó nêu rõ phạm vi đổi số, số lượng thuê bao sẽ đổi số, thời gian đổi số dự kiến; phương án kỹ thuật, bao gồm cả phương án thử nghiệm thực hiện việc đổi số, giải pháp nhằm hạn chế việc mất liên lạc trong và sau quá trình đổi số.
+
+Đổi số thuê bao viễn thông có thay đổi độ dài, cấu trúc số thuê bao viễn thông, Bộ Thông tin và Truyền thông xây dựng kế hoạch đổi số thuê bao viễn thông và chỉ đạo các doanh nghiệp viễn thông thực hiện kế hoạch đổi số thuê bao viễn thông.

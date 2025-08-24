@@ -1,0 +1,37 @@
+Đột nhiên thị trường trở chứng vào cuối phiên hôm nay và các cổ phiếu lớn chịu một sức ép đột ngột rất mạnh.
+
+Thị trường ngày 19/9/2017:
+
+Thị trường hôm nay phần lớn thời gian là tốt, chỉ có 45 phút cuối cùng tính cả đợt đóng cửa là bất thường. Áp lực bán gia tăng rất nhanh.
+
+Thị trường đột ngột thay đổi trước hết là do nhiều trụ giảm bất ngờ. Điểm xấu là đà giảm này khiến chỉ số lao dốc nhưng lại tạo tâm lý lo ngại lan ra nhiều cổ phiếu khác. Ngoài ra, đến cuối phiên áp lực bán vẫn được duy trì. Như vậy có thể một phiên giảm hôm nay chưa xong được.
+
+Phiên giảm hôm nay có thể chỉ là một ngày rung lắc ngắn hạn, nhưng cũng có thể là một dấu hiệu xấu chung. Điều gây bất ngờ là thị trường chưa thực sự tăng nóng đến mức đảo chiều chớp nhoáng như đánh úp như vậy.
+
+Các chỉ số thì tăng khá nhiều, nhưng yếu tố kéo trụ chiếm phần lớn. Chỉ hơn tuần gần đây mới có hiện tượng tăng lan tỏa ra nhiều cổ phiếu và dòng tiền cũng mới tăng lên. Mức tăng trên cổ phiếu cũng chưa nhiều, dòng tiền cũng mới chớm tăng. Thị trường rơi mạnh trên diện rộng hôm nay có khả năng chịu áp lực tâm lý.
+
+Nhìn chung thì hôm nay có cú rơi cuối ngày nên tình hình trở nên xấu. Tuy nhiên, đó cũng có thể là biến động lạ trong một ngày và thời gian quá ngắn để đánh giá. Hôm 11/9, thị trường còn biến động mạnh hơn, nhưng phục hồi lại rất nhanh. Nếu phiên giảm bất thường hôm nay không dẫn đến đợt bán lớn nối tiếp thì có thể coi là một cú rung lắc.
+
+Ngược lại, nếu thị trường tiếp tục sụt giảm và cổ phiếu bị tổn thương nhiều hơn trên diện rộng (không chỉ do dìm trụ) thì có thể thị trường phải bước vào một nhịp điều chỉnh ngắn. Nói tóm lại kịch bản thị trường tiếp theo phụ thuộc nhiều vào 1-2 phiên tới, xem phản ứng chung như thế nào, phục hồi càng nhanh tức là thị trường mạnh, phục hồi không nổi và lại giảm thêm thì rủi ro tăng lên trong ngắn hạn.
+
+Dòng tiền vào phiên này hơi đuối, vốn nội giảm khoảng 14% xuống 3.279 tỷ. Nước ngoài gây áp lực khá lớn lên các blue-chips. Nhóm VN30 chịu một áp lực tương đối lớn, với mức ép tụt dưới giá High bình quân trên 1%. Chỉ có duy nhất KBC là thoát khỏi sức ép này, đồng thời 13 cổ phiếu bị ép lớn hơn mức bình quân của rổ.
+
+Thị trường phái sinh hôm nay biến động rất mạnh và đây là một bằng chứng cho thấy giao dịch ăn chênh lệch là cực kỳ rủi ro nếu không có vùng đệm đủ “dày”. Basis thời gian thực hôm nay thể hiện những giao dịch thu hẹp chênh lệch diễn ra rất nhanh khi thị trường mở cửa trở lại buổi chiều.
+
+Vì VN30 cũng tăng nhanh thời gian đầu giờ chiều nên việc nâng giá Long với kỳ hạn tháng 9 (còn 2 ngày nữa là đáo hạn) thoạt nhìn có vẻ an toàn vì vừa có vùng đệm trung bình 1,5-1,7 điểm trong thời gian này, lại vừa được VN30 duy trì vùng đệm khi vẫn tiếp tục tăng.
+
+Tuy nhiên đợt rơi quá nhanh cuối phiên đã thể hiện rằng không có khoản bảo hiểm (hedge) nào cho việc chỉ số đi ngược lại xu hướng và gây thiệt hại cho vị thế. Bình thường thì các giao dịch arbitrage sẽ Short cổ phiếu để bảo hiểm, nhưng khi không thực hiện được thì rủi ro chỉ số tự do dịch chuyển ngược hướng cần phải tính đến.
+
+Chỉ còn 2 này nữa là đáo hạn hợp đồng tháng 9, basis hiện chỉ còn -0,18 điểm. OI tiếp tục giảm và chỉ còn các giao dịch đóng vị thế đối ứng sẵn có. Nên quan tâm đến kỳ hạn tháng 10, hiện basis cũng chỉ là -0,1 điểm.
+
+Giao dịch:
+
+30 phút cuối giờ chiều là những thời khắc điên rồ với tốc độ cao và không thể phản ứng kịp. Nhưng phần trước đó thị trường tương đối thuận lợi. Xu hướng tăng vẫn diễn ra và hợp lý là chờ thời điểm điều chỉnh để Long thuận chiều với xu hướng của chỉ số.
+
+Từ 10h-10h30 hợp đồng tháng 9 tạo 3 đáy tương ứng với đáy của nhịp giảm intraday đầu tiên của VN30 cũng như hiệu ứng chốt lời của kỳ hạn này. Long 792.5-792.8.
+
+Lúc 1h48 hợp đồng tháng 9 tạo đỉnh thứ 2 thấp hơn, phân kỳ với VN30. Close 795.4-795.1.
+
+Thị trường sau đó biến động khá kỳ lạ với mức giảm rất nhanh của nhiều cổ phiếu vốn hóa lớn. Thứ bậc của các mã “lead” VN30 thay đổi chóng mặt. Vì lực bán dồn vào một thời gian ngắn nên chỉ số rơi quá nhanh để có thể hành động mà có mức rủi ro chấp nhận được.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

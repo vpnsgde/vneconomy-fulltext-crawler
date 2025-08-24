@@ -1,0 +1,27 @@
+Tại hội thảo Digital Product in Action lần thứ 15 (DPA15) với chủ đề:"Giải pháp số may đo cho bước chuyển tiếp của ngân hàng số – Tailor-made Digital Solution for The Next Move of Digital Banking"do GEEK Up tổ chức mới đây, đại diện nhiều ngân hàng đã chia sẻ góc nhìn và bài học quý giá trong quá trình phát triển và triển khai thực chiến giải pháp trải nghiệm số (DX).
+
+Ngành ngân hàng Việt Nam, được hỗ trợ bởi các khung pháp lý tiến bộ và công nghệ hiện đại, đang chứng kiến sự thay đổi nhanh chóng trong khả năng số hóa. Các dịch vụ cốt lõi như mở tài khoản và thanh toán đã phát triển mạnh mẽ, nhưng cuộc đua để tạo sự khác biệt hiện nay nằm ở việc cung cấp trải nghiệm khách hàng vượt trội.
+
+Hiện tại, có tới 83 ứng dụng Internet banking và 52 ứng dụng mobile banking tại Việt Nam, với hàng trăm tính năng được cung cấp. Tuy nhiên, chỉ 10% trong số các tính năng này thực sự được người dùng sử dụng, cho thấy khoảng cách lớn trong việc tối ưu trải nghiệm.
+
+Theo thống kê của Visa, 88% người tiêu dùng Việt Nam đã sử dụng phương thức thanh toán không dùng tiền mặt, điều này mở ra cơ hội lớn để các ngân hàng cải thiện DX và thu hút, duy trì khách hàng cũng như tạo ra những bước đi đột phá hơn.
+
+Người dùng ngân hàng hiện đại ưu tiên sự tiện lợi, tốc độ, minh bạch và hỗ trợ tức thời. Các khách hàng số, được phân khúc dựa trên dữ liệu nhân khẩu học và hành vi, yêu cầu các dịch vụ được cá nhân hóa cao. Những hiểu biết sâu sắc từ các phân khúc này giúp ngân hàng thiết kế các trải nghiệm thực sự tác động đến khách hàng.
+
+Một nghiên cứu từ UOB-BCG cho thấy thế hệ Gen Y tại Việt Nam đang tiết kiệm hơn 20% thu nhập hàng tháng, đây là cơ sở để phát triển các sản phẩm đầu tư số phù hợp. Bằng cách tập trung vào những insights như vậy, ngân hàng có thể thu hẹp khoảng cách giữa chức năng cơ bản và trải nghiệm độc đáo, từ đó xây dựng lòng tin và sự trung thành lâu dài từ khách hàng.
+
+Thay vì đi theo những lối mòn cũ và theo đuổi số lượng tính năng khổng lồ, các ngân hàng cần thiết kế những giải pháp linh hoạt, có tính cá nhân hoá cao và phù hợp với đặc điểm của những nhóm khách hàng riêng.
+
+Do đó, việc "may đo" các giải pháp số - tức là thiết kế các công cụ, ứng dụng và dịch vụ số hóa phù hợp với từng nhóm khách hàng cụ thể - là một yếu tố then chốt giúp ngân hàng tăng khả năng tiếp cận các phân khúc thị trường mới.
+
+Theo ông Thịnh Võ, Senior Product Consultant tại GEEK Up, Insight Initiatives trong quá trình tạo ra sản phẩm công nghệ sáng tạo bao gồm ba yếu tố cốt lõi là: Insight về sản phẩm, insight về công nghệ và insight về khách hàng.
+
+Trong bốn lớp trọng tâm của quá trình xây dựng sản phẩm số, các ngân hàng ngày càng có nhiều giải pháp hữu ích cũng như tạo ra những chính sách tốt nhất để phục vụ và chăm sóc khách hàng của mình. Vì vậy, để thực sự tạo ra trải nghiệm khác biệt đột phá, các ngân hàng sẽ cần tập trung hơn vào các trải nghiệm số của khách hàng nhằm xóa bỏ khoảng cách giữa những nhu cầu, mong muốn và sản phẩm thực tế.
+
+Kỷ nguyên số đặt ra cả cơ hội và thách thức cho ngành ngân hàng. Khi các chức năng cơ bản như thanh toán đã trở nên phổ biến, các lĩnh vực như vay tài chính số (digital lending) và đầu tư tài chính (digital wealth) lại nổi lên như những điểm sáng chưa được khai thác triệt để.
+
+
+
+DPA15 lần đầu tiên được tổ chức tại Hà Nội, thu hút hơn 50 lãnh đạo cấp cao từ các ngân hàng hàng đầu, trở thành nơi chia sẻ các góc nhìn sâu sắc về cách ứng dụng DX để định hình tương lai ngân hàng.
+
+Tại hội thảo, các chuyên gia đặc biệt nhấn mạnh rằng cách tiếp cận lấy khách hàng làm trung tâm, dựa trên dữ liệu insight và chiến lược may đo, chính là hướng đi cần thiết. Các ngân hàng đặt ưu tiên vào DX không chỉ có khả năng cạnh tranh vượt trội, vươn lên dẫn đầu thị trường, mà còn tái định nghĩa tương lai của ngành tài chính.

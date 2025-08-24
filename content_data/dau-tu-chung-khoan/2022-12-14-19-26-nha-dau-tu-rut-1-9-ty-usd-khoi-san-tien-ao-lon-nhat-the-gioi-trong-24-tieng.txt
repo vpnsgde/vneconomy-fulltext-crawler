@@ -1,0 +1,19 @@
+Sàn tiền ảo lớn nhất thế giới Binance đã bị khách hàng rút lượng tiền ảo trị giá 1,9 tỷ USD trong vòng 24 tiếng đồng hồ tính đến ngày 13/12 - hãng tin Reuters dẫn dữ liệu từ công ty Nansen cho hay. Cùng ngày, Binance cho biết đã “tạm dừng” cho khách rút đồng stablecoin có tên USDC.
+
+Cách mà các sàn giao dịch tiền ảo như Binance và sàn đã phá sản mới đây là FTX giải quyết nhu cầu rút tiền của khách hàng như thế nào đang là vấn đề được người dùng và các cơ quan chức năng theo dõi sát sao. Nhà sáng lập FTX Sam Bankman-Fried đã bị bắt ở Bahamas vào hôm thứ Hai tuần này và đã bị Uỷ ban Chứng khoán và Sàn giao dịch Mỹ (SEC) buộc tội lừa dối nhà đầu tư vào hôm thứ Ba.
+
+Sau khi FTX sụp đổ, vị thế của Binance trong thế giới tiền ảo được củng cố. Tuy nhiên, nhà đầu tư cảm thấy bất an sau khi Binance vào tuần trước đăng lên mạng xã hội Twitter một báo cáo bằng chứng dự trữ (proof of reserves) từ công ty kiểm toán Mazars. Theo báo cáo này, lượng dự trữ Bitcoin của Binance vượt quá lượng rút của khách hàng trong một ngày của tháng 11.
+
+Số tiền ảo trị giá 1,9 tỷ USD bị rút khỏi Binance trong 24 tiếng là lượng rút lớn nhất trong một ngày kể từ hôm 13/6 - theo dữ liệu của Nansen. Số này cũng chiếm phần lớn lượng vốn bị rút khỏi Binance trong 7 ngày gần nhất.
+
+“Việc nhà đầu tư rút vốn khỏi Binance đang gia tăng do những bấp bênh xung quanh báo cáo dự trữ của sàn này”, Nansen nhận định.
+
+Trong khi đó, CEO Changpeng Zhao của Binance nói rằng việc rút tiền này hoàn toàn bình thường. “Chúng tôi từng chứng kiến mức rút lớn như vậy trước đây. Có những ngày chúng tôi bị rút ròng, có những ngày nhà đầu tư lại gửi ròng vào sàn”, ông Zhao nói.
+
+Trước đó, một người phát ngôn của Binance nói sàn luôn “có thừa vốn” để đáp ứng nhu cầu rút của khách hàng. “Tài sản của người dùng tại Binance được đảm bảo với tỷ lệ 1:1 và cấu trúc vốn của Binance là không có nợ”, người phát ngôn nói.
+
+Khi được hỏi về việc liệu Binance có đủ USDC để đáp ứng nhu cầu rút USDC của nhà đầu tư, người phát ngôn của Binance nói thêm rằng sàn có thể cần phải chuyển tiền tới các ví kỹ thuật số nóng từ các ví ngoại tuyến, chuyển đổi giữa các đồng stablecoin hoặc nâng cấp mạng lưới, và những việc này đôi khi dẫn tới việc tạm ngừng rút vốn. Sau đó, Binance cho biết việc rút USDC đã được nối lại.
+
+Hôm thứ Hai tuần này, trang CoinDesk đưa tin Binance bị rút ròng 902 triệu USD tiền ảo trong ngày hôm đó.
+
+Ngoài áp lực từ việc nhà đầu tư rút vốn, Binance còn đang đương đầu với sức ép từ cơ quan chức năng. Một cuộc điều tra về việc Binance có tuân thủ đầy đủ hay không luật chống rửa tiền và các lệnh trừng phạt của Mỹ vẫn chưa thể khép lại do quan điểm trái ngược của các công tố viên trong Bộ Tư pháp Mỹ.

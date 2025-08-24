@@ -1,0 +1,35 @@
+Theo thống kê của Cục An toàn thông tin, đến hết tháng 8/2023 đã có 88 đơn vị (63 Tỉnh/Thành, 25 Bộ/Ngành) triển khai giải pháp phòng chống mã độc tập trung và thực hiện kết nối chia sẻ thông tin về mã độc với Trung tâm Giám sát an toàn không gian mạng quốc gia.
+
+Trong tháng 8/2023, thông qua kết nối chia sẻ dữ liệu về mã độc từ 88 đơn vị, Hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia ghi nhận 80/88 đơn vị có kết nối thường xuyên. Trong các đơn vị kết nối thường xuyên có 80/80 đơn vị chia sẻ về hệ điều hành các máy (tổng số máy là 139.142).
+
+Tính đến tháng 8/2023, có 3 đơn vị gồm: Bộ Giáo dục và Đào tạo, Bộ Nông nghiệp và Phát triển nông thôn, Ủy ban Dân tộc chưa thực hiện chia sẻ dữ liệu mã độc về Hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia.
+
+Thông tin về tình hình lây nhiễm mã độc trên cả nước, Trung tâm Giám sát an toàn không gian mạng quốc gia cho biết trong tháng, Hệ thống kỹ thuật của trung tâm đã ghi nhận 427.635 địa chỉ IP của Việt Nam nằm trong mạng botnet (giảm 3,9% so với tháng trước), trong đó có 126 địa chỉ IP của cơ quan, tổ chức nhà nước (9 địa chỉ IP Bộ/Ngành, 117 địa chỉ IP tỉnh/thành).
+
+Cụ thể, có một số đơn vị có địa chỉ IP nằm trong mạng botnet như: Đài tiếng nói Việt Nam, Bộ Khoa học và Công nghệ, Bảo hiểm xã hội Việt Nam. Một số địa phương có số lượng IP botnet cao như Lai Châu (14), Hà Nội (7), Thanh Hóa (5), Nam Định (8), Hà Nam (9), Lâm Đồng (10), Long An (6)…
+
+Cũng trong thời gian qua, hệ thống của trung tâm đã rà soát nội dung quảng cáo không phù hợp trên website của các cơ quan nhà nước (.gov.vn). Theo đó, có rất nhiều website của cơ quan nhà nước bị lợi dụng để cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung quảng cáo không phù hợp như: game bài, cờ bạc….
+
+Liên tục từ cuối năm 2022 đến nay, Bộ Thông tin và Truyền thông cũng như Cục An toàn thông tin đã phát hành cảnh báo diện rộng, yêu cầu các các cơ quan, tổ chức rà soát nội dung không phù hợp trên các website tên miền (.gov.vn) của cơ quan nhà nước.
+
+Tuy nhiên đến thời điểm hiện tại, Trung tâm Giám sát an toàn không gian mạng quốc gia tiếp tục ghi nhận có 15 đơn vị (10 tỉnh/thành, 5 Bộ/ngành) còn tồn tại các website của đơn vị bị lợi dụng để tải lên số lượng lớn tệp tin có nội dung độc hại.
+
+Cụ thể như website của các đơn vị thuộc Bộ Khoa học và Công nghệ; Bộ Lao động Thương binh và xã hội; Bộ Nông nghiệp và Phát triển nông thôn; Bộ Y tế...
+
+Một số tỉnh/thành có số lượng website/đường dẫn bị chèn nội dung quảng cáo không phù hợp như: hà Nội, Bắc Kạn, Tp.Hồ Chí Minh, Lai Châu, Quảng Nam, Đồng Nai, Hải Phòng, Quảng Bình, Thái Bình.
+
+Theo Cục An toàn thông tin, những tệp tin này xuất hiện trong kết quả tìm kiếm của Google và thực hiện chuyển hướng người dùng sang website khác khi người dùng truy cập đường dẫn. Điều này sẽ trở nên nguy hiểm và nghiêm trọng nếu bị lợi dụng để đăng tải, phát tán những nội dung xấu độc, xuyên tạc về chủ quyền, chủ trương của Đảng và chính sách, pháp luật của Nhà nước.
+
+Chia sẻ thực tế này, một doanh nghiệp chuyên về an ninh mạng thông tin, từ đầu năm đến tháng 9/2023, đã ghi nhận và xử lý nhiều cuộc tấn công mã độc có chủ đích nhắm vào các website tên miền .gov.vn. Hậu quả là máy chủ bị kiểm soát, bị chèn các link độc hại trong kết quả tìm kiếm hoặc người truy cập sẽ bị điều hướng sang các trang web không mong muốn. Mặc dù mã độc xuất hiện từ năm 2021, nhưng biến thể mới năm 2023 đã có nhiều nâng cấp, tinh vi hơn, khó ngăn chặn cũng như khó gỡ bỏ hơn.
+
+Thống kê của Công ty Công nghệ An ninh mạng Quốc gia Việt Nam NCS cho biết, trong 6 tháng đầu năm qua, có gần 400 website của các cơ quan nhà nước có tên miền .gov.vn và các tổ chức giáo dục có tên miền .edu.vn bị hacker tấn công, xâm nhập, chèn mã quảng cáo cờ bạc, cá độ.
+
+Đây là con số tương đối báo động, không chỉ chèn các đường link quảng cáo, hacker khi kiểm soát được hệ thống có thể đánh cắp cơ sở dữ liệu, trong có có dữ liệu cá nhân của người dùng, thậm chí có thể đăng tải các nội dung xấu độc hoặc link phát tán mã độc trong thời gian tới.
+
+Còn theo thống kê được CyRadar thực hiện ngày 6/9/2023 cho thấy, trong 63 tỉnh, thành phố trên cả nước, có 12/63 đơn vị có website .gov.vn vẫn đang bị tấn công và có mã độc, 15/63 đơn vị đã từng bị tấn công và chưa khắc phục triệt để.
+
+Do đó, các chuyên gia an ninh mạng cho rằng, bên cạnh việc rà soát để khắc phục, đã đến lúc các cơ quan, tổ chức cần quan tâm một cách nghiêm túc về hệ thống website, cổng thông tin của mình, cần bố trí lực lượng chuyên trách hoặc thuê ngoài dịch vụ vận hành, đảm bảo an ninh mạng.
+
+Ngoài ra, cũng trong tháng, Hệ thống kỹ thuật của Trung tâm NCSC đã ghi nhận 63.595 điểm yếu, lỗ hổng an toàn thông tin tại các hệ thống thông tin của các cơ quan tổ chức nhà nước. Số lượng điểm yếu, lỗ hổng nêu trên là rất lớn, do đó Cục An toàn thông tin đã chỉ đạo Trung tâm Giám sát an toàn không gian mạng quốc gia triển khai đánh giá, xác định các lỗ hổng nguy hiểm, có ảnh hưởng trên diện rộng và hướng dẫn các Bộ/ngành khắc phục. Đặc biệt có một số lỗ hổng đã và đang được các nhóm tấn công lợi dụng để thực hiện các cuộc tấn công APT.
+
+Bên cạnh các điểm yếu/lỗ hổng ghi nhận, Hệ thống kỹ thuật của Trung tâm NCSC còn phân tích và phát hiện nhiều máy tính của cơ quan nhà nước có kết nối đến địa chỉ IP/Domain nghi ngờ độc hại do các phần mềm phòng chống mã độc đã ghi nhận.

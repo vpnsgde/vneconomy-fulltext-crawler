@@ -1,0 +1,25 @@
+Chuyên gia bảo mật Vũ Ngọc Sơn, Giám đốc công nghệ Công ty An ninh mạng NCS, cho rằng việc người dùng cung cấp ảnh gốc cho các dịch vụ trí tuệ nhân tạo (AI) trên các nền tảng trực tuyến để nhận về các hình ảnh đã qua xử lý sẽ có thể phát sinh nhiều rủi ro nhất định.
+
+Theo ông Sơn, mặc dù người dùng sau khi thu về ảnh đã xử lý và chỉ dùng các ảnh đã xử lý này để thay avatar trên mạng, tuy nhiên, các hình ảnh gốc, phần lớn là ảnh chụp cận mặt về bản chất đã được tải lên và có thể vẫn lưu trữ tại hệ thống máy chủ của các nhà cung cấp dịch vụ. Việc tập trung các hình ảnh này tại một nơi sẽ tiềm ẩn nguy cơ bị lộ lọt, tấn công bởi hacker, nếu kho ảnh rơi vào tay kẻ xấu, các đối tượng có thể dùng deepfake để tạo ra ảnh và video giả mạo cho các mục đích khác nhau, thậm chí lừa đảo.
+
+
+
+Chuyên gia Vũ Ngọc Sơn, Giám đốc công nghệ Công ty An ninh mạng NCS.
+
+“Với những người trước đó đã sử dụng các ảnh chụp cận mặt làm avatar trên mạng thì việc đưa ảnh lên để nhận về ảnh đã xử lý không phát sinh nhiều nguy cơ hơn. Nhưng với những người trước đó chưa dùng ảnh thật làm avatar bao giờ thì cần cân nhắc kỹ trước khi sử dụng các dịch vụ này”, ông Sơn khuyến cáo.
+
+Những video lừa đảo được tạo bởi công nghệ deepfake đã liên tục được cảnh báo trên các phương tiện truyền thông. Việc cung cấp ảnh cá nhân thiếu kiểm soát trên mạng là cơ sở để kẻ xấu lợi dụng hình ảnh, tạo dựng video giả mạo có hình ảnh giống thật để tiến hành lừa đảo, chiến đoạt tài sản.
+
+Theo ông Sơn, việc bảo vệ an toàn dữ liệu sẽ là trách nhiệm của các nhà cung cấp dịch vụ theo các quy định của pháp luật. Trong trường hợp muốn trải nghiệm các dịch vụ AI về xử lý ảnh, người dùng vẫn nên chọn các nhà cung cấp trong nước vì việc tuân thủ quy định pháp luật Việt Nam của các nhà cung cấp này sẽ cao hơn so với các nhà cung cấp không rõ nguồn gốc, không có trụ sở hoạt động tại Việt Nam.
+
+Trong bối cảnh các tiến bộ công nghệ liên tục định hình mạng xã hội và phương tiện truyền thông đại chúng, deepfake đang trở thành mối quan ngại lớn khi số lượng những vụ lừa đảo bằng deepfake ngày càng gia tăng.
+
+Trong một báo cáo mới đây của Kaspersky có đưa ra nhận định có nhiều tội phạm sử dụng deepfake để lừa đảo, đến mức nhu cầu sử dụng vượt xa nguồn cung các phần mềm deepfake hiện có trên thị trường. Dự đoán, các vụ lừa đảo bằng deepfake sẽ tăng cao với nhiều hình thức đa dạng và tinh vi hơn. Từ cung cấp một video mạo danh chất lượng cao với đầy đủ dịch vụ sản xuất cho đến việc sử dụng hình ảnh người nổi tiếng trong luồng phát trực tuyến giả mạo (fake livestream) trên mạng xã hội và hứa hẹn sẽ thanh toán gấp đôi số tiền nạn nhân đã gửi họ.
+
+“Deepfake đã trở thành cơn ác mộng đối với phụ nữ và xã hội. Tội phạm mạng hiện đang khai thác trí tuệ nhân tạo để ghép khuôn mặt nạn nhân vào ảnh và video khiêu dâm cũng như trong chiến dịch tuyên truyền. Những hình thức này nhằm mục đích thao túng dư luận bằng cách phát tán thông tin sai lệch hoặc thậm chí gây tổn hại đến danh tiếng của tổ chức hoặc cá nhân. Chúng tôi kêu gọi công chúng nâng cao cảnh giác trước mối đe dọa này”, bà Võ Dương Tú Diễm, Giám đốc khu vực Việt Nam của Kaspersky chia sẻ.
+
+Thời gian gần đây, Zalo cho phép người dùng chỉnh sửa ảnh bằng công nghệ trí tuệ nhân tạo (AI) miễn phí đã làm bùng nổ trào lưu đổi hình đại diện (avatar), quảng bá ảnh chỉnh sửa bằng AI trên các nền tảng xã hội. Thực trạng này dấy lên mối lo về vấn đề người dùng Internet chủ động để lọt lộ thông tin cá nhân, ảnh cá nhân, tạo cơ sở để kẻ xấu thu thập thông tin, dẫn đến nguy cơ rủi ro bị lừa đảo, chiếm đoạt tài chính trên không gian mạng.
+
+Theo Regula, một hệ thống tham chiếu thông tin, có tới 37% doanh nghiệp trên toàn thế giới va chạm các vụ lừa đảo deepfake bằng giọng nói và 29% trở thành nạn nhân của video deepfake. Deepfake đã trở thành mối đe dọa đối với an ninh mạng Việt Nam, nơi tội phạm mạng thường sử dụng các cuộc gọi video deepfake để mạo danh một cá nhân và vay mượn người thân, bạn bè của họ những khoản tiền lớn cho những trường hợp cấp bách.
+
+Hơn nữa, một cuộc gọi điện video deepfake có thể được thực hiện chỉ trong vòng một phút nên nạn nhân rất khó phân biệt giữa cuộc gọi thật và giả. Mặc dù AI đang bị các tội phạm lạm dụng cho những mục đích xấu, các cá nhân và doanh nghiệp vẫn có thể tận dụng AI để nhận diện deepfake nhằm giảm thiểu xác suất thành công của các vụ lừa đảo.

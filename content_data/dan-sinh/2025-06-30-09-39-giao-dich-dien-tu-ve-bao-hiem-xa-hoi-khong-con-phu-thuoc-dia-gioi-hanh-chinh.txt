@@ -1,0 +1,33 @@
+Chính phủ vừa ban hành Nghị định số 164/2025/NĐ-CP quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội và cơ sở dữ liệu quốc gia về bảo hiểm.
+
+Nghị định 164 quy định rõ cách thức thực hiện dịch vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội. Theo đó, cơ quan, tổ chức, cá nhân thực hiện dịch vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội trên Cổng Dịch vụ công quốc gia.
+
+Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Tài chính kết nối, tích hợp, chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia để cung cấp và thực hiện các dịch vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội.
+
+Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội được thực hiện thông qua tài khoản định danh điện tử.
+
+Cơ quan, tổ chức, cá nhân nộp hồ sơ, chứng từ bảo hiểm xã hội điện tử thực hiện các giao dịch điện tử 24 giờ trong ngày và 7 ngày trong tuần.
+
+Cơ quan, tổ chức, cá nhân tham gia giao dịch điện tử trong lĩnh vực bảo hiểm xã hội truy cập Cổng Dịch vụ công quốc gia, thực hiện lập hồ sơ bảo hiểm xã hội điện tử trực tuyến, và gửi hồ sơ bảo hiểm xã hội điện tử đến Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Tài chính.
+
+Trong thời hạn 2 giờ, kể từ khi nhận được hồ sơ bảo hiểm xã hội điện tử của cơ quan, tổ chức, cá nhân, Bộ Tài chính gửi phiếu tiếp nhận, hẹn trả giải quyết qua địa chỉ thư điện tử cho cơ quan, tổ chức, cá nhân tham gia giao dịch điện tử trong lĩnh vực bảo hiểm xã hội.
+
+Nghị định 164 cũng quy định cụ thể nguyên tắc giao dịch điện tử trong lĩnh vực bảo hiểm xã hội. Theo đó, việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội không phụ thuộc vào địa giới hành chính.
+
+Việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội trên cơ sở tái sử dụng thông tin, dữ liệu, giấy tờ đã số hóa, tích hợp trên Cổng Dịch vụ công quốc gia, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, kho quản lý dữ liệu điện tử của tổ chức, cá nhân.
+
+Cơ quan, tổ chức, cá nhân thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội không phải cung cấp giấy tờ, tài liệu đối với những thông tin đã có, đã tích hợp trên Cổng Dịch vụ công quốc gia, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, kho quản lý dữ liệu điện tử của tổ chức, cá nhân.
+
+Cơ quan, tổ chức, cá nhân thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội phải đảm bảo điều kiện sau: Có tài khoản định danh điện tử theo quy định của pháp luật về định danh và xác thực điện tử; có chứng thư chữ ký số còn hiệu lực do tổ chức cung cấp dịch vụ chứng thực chữ ký số cấp, hoặc có chữ ký điện tử khác theo quy định của pháp luật.
+
+Theo Nghị định 164, cơ quan, tổ chức, cá nhân đã hoàn thành việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo quy định tại Nghị định này, thì không phải thực hiện các phương thức giao dịch khác, và được công nhận đã hoàn thành thủ tục bảo hiểm xã hội tương ứng.
+
+Đối với các thành phần hồ sơ bảo hiểm xã hội quy định tại Luật Bảo hiểm xã hội, mà đã được số hóa, lưu trữ trong trong các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, thì không yêu cầu người dân, doanh nghiệp cung cấp khi thực hiện thủ tục hành chính về bảo hiểm xã hội.
+
+Về sổ bảo hiểm xã hội, Nghị định 164 quy định, sổ bảo hiểm xã hội được cấp cho từng người lao động, mỗi người chỉ được cấp duy nhất một mã số bảo hiểm xã hội, và chứa đựng thông tin theo quy định tại khoản 1 Điều 25 của Luật Bảo hiểm xã hội.
+
+Sổ bảo hiểm xã hội bản điện tử là sổ bảo hiểm xã hội được Bộ Tài chính tạo lập bằng phương tiện điện tử, chứa đựng thông tin như sổ bảo hiểm xã hội bản giấy.
+
+Sổ bảo hiểm xã hội bản điện tử được tích hợp với tài khoản định danh điện tử của cá nhân tham gia bảo hiểm xã hội và lưu trữ, cập nhật thường xuyên tại kho quản lý dữ liệu điện tử của tổ chức, cá nhân trên Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Tài chính, Cổng Dịch vụ công quốc gia sau khi cá nhân, tổ chức thực hiện thành công giao dịch điện tử trong lĩnh vực bảo hiểm xã hội.
+
+Sổ bảo hiểm xã hội được cấp bằng bản điện tử được cấp chậm nhất là ngày 1/1/2026, và có giá trị pháp lý như sổ bảo hiểm xã hội bằng bản giấy.

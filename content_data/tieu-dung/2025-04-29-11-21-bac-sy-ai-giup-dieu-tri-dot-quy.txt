@@ -1,0 +1,37 @@
+Đầu năm 2025, một thiếu nữ 15 tuổi ngụ ở Bình Dương được chuyển đến Bệnh viện Nhân dân 115 (TP.HCM) sau khi đã bị liệt nửa người gần 17 tiếng đồng hồ - điều này đồng nghĩa người bệnh đã quá "thời gian vàng" điều trị bệnh đột quỵ 11 giờ.
+
+Hy vọng cuối cùng của bệnh nhân nhờ vào ứng dụng phần mềm Rapid. Đây là phần mềm AI phát triển bởi Trung tâm Đột quỵ của Đại học Stanford (Mỹ), được Bệnh viện Nhân dân 115 ứng dụng trong chỉ định can thiệp lấy huyết khối điều trị nhồi máu não cho người bệnh sau 6 giờ.
+
+Thống kê mỗi năm Bệnh viện Nhân dân 115 tiếp nhận khoảng 20.000 ca đột quỵ. Do tình hình giao thông, điều kiện vận chuyển người bệnh còn một số hạn chế nên người bệnh bị đột quỵ não cấp thường đến bệnh viện trong "giờ vàng" (trong 6 giờ đầu) chiếm tỉ lệ rất thấp. Trong khi đó, tỉ lệ người bệnh đến trễ hơn so với "giờ vàng" từ 4 - 5 giờ chiếm đến 90% các ca bệnh.
+
+Phần mềm Rapid sẽ phân tích hình ảnh CT hoặc MRI để xác định vùng não tổn thương và vùng não còn có thể cứu sống trong khoảng 30 giây đến 2 phút. Nhờ vậy, bác sĩ sẽ ra chỉ định một cách nhanh chóng, chính xác.
+
+Từ khi áp dụng phần mềm Rapid này, mỗi năm trung bình có thêm khoảng 1.000 bệnh nhân bị đột quỵ đến sau "giờ vàng" được chỉ định điều trị. "Với tỉ lệ 50% các ca điều trị thành công thì ít nhất mỗi năm nhờ phần mềm này đã cứu được hơn 500 người," PGS.TS Nguyễn Huy Thắng, Trưởng khoa bệnh lý mạch máu não Bệnh viện Nhân dân 115, phấn khởi nói.
+
+Sắp tới đây, Bệnh viện Nhân dân 115 sẽ tiếp tục ứng dụng 2 module mới của phần mềm này, gồm ứng dụng chẩn đoán sớm tắc các mạch máu nội sọ và đo kích thước khối máu tụ. “BV đang tiên phong nghiên cứu mở rộng thêm cửa sổ can thiệp mạch máu não lên đến 72 giờ. Bên cạnh ý nghĩa trong cấp cứu đột quỵ, Rapid còn là nền tảng giúp Việt Nam tiến xa trong kỷ nguyên y tế thông minh, hội nhập quốc tế và khẳng định vị thế của ngành y tế Việt Nam”, bác sĩ Trần Văn Sóng, Giám đốc BV Nhân dân 115, chia sẻ.
+
+Tại Bệnh viện Đa khoa tỉnh Quảng Ninh, việc ứng dụng Rapid cũng đang mang lại hiệu quả rõ rệt trong công tác cấp cứu và điều trị đột quỵ não. Bác sĩ Ngô Quang Chức, Trưởng khoa Chẩn đoán hình ảnh, cho biết: “Khi sử dụng phần mềm Rapid, chúng tôi không chỉ xác định được vị trí tổn thương và mạch máu bị ảnh hưởng, mà còn có thể định lượng chính xác phần lõi tổn thương. Điều này giúp đội ngũ bác sĩ đưa ra quyết định điều trị nhanh và chính xác hơn rất nhiều”.
+
+Không chỉ dừng lại ở tính năng phân tích nhanh và chính xác, phần mềm Rapid còn có khả năng gửi kết quả đến ngay các tài khoản của bác sĩ trong nhóm điều trị qua thiết bị thông minh, giúp tối ưu hóa thời gian ra quyết định, đặc biệt trong các ca cấp cứu khẩn cấp.
+
+Bác sĩ Nguyễn Bá Việt, Giám đốc Bệnh viện Đa khoa tỉnh Quảng Ninh, chia sẻ: “Từ khi có Rapid, kể cả những ca vào viện sau 6 giờ đầu, chúng tôi vẫn có thể đánh giá chính xác khả năng can thiệp và cứu sống nhiều trường hợp trước kia không thể”.
+
+Tương tự, những phát triển trong công nghệ, đặc biệt là trí tuệ nhân tạo và robot hiện nay ngày càng mang lại nhiều hiệu quả trong nghiên cứu và thực hành chuyên ngành phục hồi chức năng.
+
+“Sau đột quỵ, nhiều người bệnh có thể hồi phục nhưng rất khó khăn trong thực hiện cử động cơ bản. Việc ứng dụng các thiết bị thông minh sẽ nâng cao hiệu quả hồi phục cho bệnh nhân đột quỵ nói riêng và các bệnh liên quan đến suy giảm chức năng vận động nói chung”, PGS, TS Lê Mạnh Cường, Giám đốc Bệnh viện Tuệ Tĩnh (Học Viện Y Dược cổ truyền Việt Nam) chia sẻ.
+
+Tại hội thảo "Cập nhật những ứng dụng công nghệ trí tuệ nhân tạo và robot trong phục hồi chức năng", PGS, TS Lê Mạnh Cường nhấn mạnh nhân tạo AI trong điều trị sẽ chi tiết hóa và lượng hóa mọi chỉ số, giúp tăng độ chính xác khi hồi phục và giúp thầy thuốc sẽ đưa ra chỉ định phù hợp.
+
+Với người bệnh bị suy giảm chức năng vận động, cảm giác hay nhận thức, robot có tác dụng hỗ trợ phục hồi chức năng vận động cho các bệnh nhân sau đột quỵ, đặc biệt hữu ích khi sử dụng cho các liệu pháp trị liệu, phục hồi chức năng nhằm tăng sức mạnh cơ bắp, tầm vận động, tăng sự phối hợp giữa các cơ bắp.
+
+Sau mỗi chương trình tập luyện, AI sẽ lưu và phân tích lịch sử bệnh nhân, đưa ra bản tóm tắt và tư vấn thông tin chi tiết về các bài tập được thực hiện. Như vậy, các bệnh nhân tai biến mạch não, chấn thương - tổn thương thần kinh, liệt thần kinh ngoại vi, điều trị rối loạn sàn chậu, tập cải thiện dáng đi sau chấn thương - tai biến... sẽ được tập luyện với các bài tập phù hợp nhất với thể trạng của mình.
+
+Trong khi đó, chia sẻ tại hội thảo “Cập nhật mới nhất về các ứng dụng lâm sàng CT phổ” giữa tháng 4 vừa qua, TS.BS Phan Thảo Nguyên, Phó giám đốc Bệnh viện E, cho biết trong những năm gần đây, lĩnh vực chẩn đoán hình ảnh đã có những bước phát triển vượt bậc, đặc biệt nhờ sự hỗ trợ của trí tuệ nhân tạo.
+
+Trong đó, cắt lớp vi tính phổ (Spectral CT) được đánh giá là công nghệ tiên tiến nổi bật. Đây là hệ thống có khả năng tạo ra hình ảnh chất lượng cao, cung cấp thông tin chi tiết về mô và cấu trúc bên trong cơ thể. Theo BS Nguyên, công nghệ này đánh dấu một bước tiến quan trọng trong nâng cao hiệu quả chẩn đoán và điều trị cho người bệnh.
+
+Đặc biệt trong lĩnh vực thần kinh, CT phổ đã chứng minh hiệu quả vượt trội khi giúp phân biệt rõ ràng giữa xuất huyết và huyết khối sau can thiệp, với độ nhạy và độ đặc hiệu đạt 100%. Đồng thời, công nghệ này còn tăng khả năng phát hiện sớm các trường hợp nhồi máu não, hỗ trợ đánh giá toàn diện tình trạng đột quỵ của người bệnh, từ đó đưa ra phương án điều trị phù hợp.
+
+TS.BS Nguyễn Công Hựu, Giám đốc Bệnh viện E cho biết, trong những năm gần đây, việc áp dụng những tiến bộ khoa học công nghệ tiên tiến trên thế giới đã hỗ trợ cho ngành y tế Việt Nam trong công tác khám chữa bệnh cho người dân.
+
+"Những trang thiết bị y tế hiện đại sẽ góp phần hỗ trợ cho các bác sĩ trong chẩn đoán và đưa ra những quyết định điều trị chính xác nhất cho người bệnh. Vì thế, các thiết bị y tế này sẽ giúp các bác sĩ thực hiện thành công nhiều phương án điều trị để cứu sống được nhiều người bệnh mắc bệnh hiểm nghèo", TS. Hựu nhấn mạnh.

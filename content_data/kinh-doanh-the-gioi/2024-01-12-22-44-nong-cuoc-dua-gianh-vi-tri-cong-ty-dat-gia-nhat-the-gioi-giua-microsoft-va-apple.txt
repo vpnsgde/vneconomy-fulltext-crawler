@@ -1,0 +1,21 @@
+Trong phiên giao dịch ngày thứ Năm (11/1) trên thị trường chứng khoán Mỹ, Microsoft có thời điểm vượt qua Apple về giá trị vốn hoá thị trường. Cuộc soán ngôi chớp nhoáng này diễn ra trong bối cảnh sự phát triển bùng nổ của trí tuệ nhân tạo (AI) khiến cho cuộc đua vốn hoá giữa hai “kỳ phùng địch thủ “Big Tech Mỹ thêm phần gay cấn.
+
+Cổ phiếu “đế chế” phần mềm có lúc tăng 1%, đưa giá trị vốn hoá thị trường lên 2,87 nghìn tỷ USD. Trong khi đó, cổ phiếu nhà sản xuất iPhone cùng thời điểm giảm khoảng 1%, khiến giá trị vốn hoá bị tụt lại một chút so với của Microsoft.
+
+Nhưng kết thúc phiên, Apple đã lấy lại vị trí số 1 thế giới về giá trị vốn hoá, khi mức vốn hoá của công ty hồi về mức 2,89 nghìn tỷ USD, so với mức 2,86 nghìn tỷ USD của Microsoft.
+
+Sự hứng khởi của giới đầu tư về một làn sóng công nghệ AI tạo sinh mới đã thúc giá cổ phiếu Microsoft tăng mạnh thời gian gần đây. Microsoft là cổ đông lớn nhất của OpenAI, công ty đã tạo ra chatbot AI có tên ChatGPT gây tiếng vang trên toàn cầu. Không chỉ có vậy, Microsoft còn là nhà cung cấp dịch vụ lưu trữ đám mây (cloud hosting) hàng đầu và công ty đi tiên phong về triển khai chatbot AI trên các sản phẩm tìm kiếm và dành cho nơi làm việc
+
+Trong khi đó, việc Apple gần như nằm ngoài cơn sốt AI, chưa kể mối lo về sự suy yếu của doanh số iPhone, nhất là ở thị trường Trung Quốc, đã gây áp lực giảm lên giá cổ phiếu của “táo khuyết” trong những phiên giao dịch đầu tiên của năm 2024. Trong bối cảnh như vậy, nhiều nhà phân tích ở Phố Wall đã cắt giảm mức đánh giá đối với cổ phiếu Apple.
+
+Trên thực tế, Apple và Microsoft đã là đối thủ “không đội trời chung” từ những năm 1980, khi công ty do Steve Jobs và Steve Wozniak sáng lập cáo buộc công ty do Bill Gates sáng lập đánh cắp “hình thức và cảm nhận” của phần mềm máy tính Macintosh. Apple đã thua trong một cuộc vụ kiện bản quyền nổi tiếng nhằm vào hệ điều hành Windows của Microsoft hồi những năm 1990, mở đường cho Microsoft thống trị thị trường máy tính cá nhân (PC) toàn cầu trong suốt nhiều thập kỷ.
+
+Tuy nhiên, với thành công của iPhone, Apple cuối cùng đã vượt qua Microsoft về giá trị vốn hoá vào năm 2010 và duy trì vị trí này trong suốt nhiều năm trong lúc Windows chật vật với cuộc chuyển đổi sang điện toán đám mây.
+
+Đã có một số thời điểm Microsoft chóng vánh vượt qua Apple về vốn hoá trong thời gian đại dịch Covid-19 vào các năm 2020-2021. Đó là khoảng thời gian mà các dịch vụ điện toán đám mây phát triển mạnh mẽ nhờ sự bùng nổ của xu hướng làm việc từ xa, giúp kết quả kinh doanh của Microsoft khởi sắc rõ rệt. Trái lại, hoạt động sản xuất của Apple bị gián đoạn vì nhiều nhà máy phải đóng cửa và chuỗi cung ứng bị tắc nghẽn. Nhưng mỗi lần bị Microsoft vượt lên, Apple đều nhanh chóng giành lại vị trí số 1.
+
+Trong khi đối thủ lâu năm tập trung vào AI, Apple dự kiến sẽ trình làng chiếc kính thực tế ảo Vision Pro thế hệ mới vào tháng tới, thiết bị được kỳ vọng sẽ mở ra một kỷ nguyên mới của điện toán không gian (spatial computing) - công nghệ dựa trên việc sử dụng một lượng lớn đồ hoạ 3D và các kiểu cử chỉ tay mới để làm cho việc tương tác trở nên tự nhiên và trực giác hơn.
+
+Đã có những dấu hiệu cho thấy Apple đang phát triển những mô hình ngôn ngữ lớn cùng dạng với các mô hình đằng sau các chatbot AI mới nhất, để chạy trên chính các thiết bị của Apple. Tuy nhiên, thành công vang dội của ChatGPT và việc các công ty công nghệ ra sức hành động để đuổi kịp chatbot này đã giúp đẩy cao nhu cầu đối với dịch vụ đám mây của Microsoft, cũng như các sản phẩm bộ vi xử lý của hãng Nvidia vốn cần thiết để sáng tạo ra những chatbot như vậy.
+
+Sự bùng nổ của AI cũng là động lực đưa Nvidia, công ty đã chứng kiến giá cổ phiếu tăng khoảng 11% trong năm nay, gần đuổi kịp mức vốn hoá 1,6 nghìn tỷ USD của “gã khổng lồ” thương mại điện tử Amazon.

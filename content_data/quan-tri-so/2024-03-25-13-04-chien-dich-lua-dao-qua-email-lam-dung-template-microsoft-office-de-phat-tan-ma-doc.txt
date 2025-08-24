@@ -1,0 +1,19 @@
+Theo nhà nghiên cứu Ariel Davidpur, Operation PhantomBlu sử dụng phương thức khai thác rất tinh vi. Khác với cơ chế phân phối NetSupport RAT thông thường, nó lạm dụng việc can thiệp vào OLE (Object Linking and Embedding) template, khai thác các template tài liệu của Microsoft Office để thực thi mã độc.
+
+NetSupport RAT là một biến thể độc hại (malicious offshoot) của công cụ truy cập máy tính từ xa hợp pháp NetSupport Manager. NetSupport RAT cho phép tác nhân đe dọa thu thập dữ liệu từ các thiết bị bị xâm phạm.
+
+Kịch bản thường dễ nhận thấy cuộc tấn công này là bắt đầu từ một email lừa đảo với chủ đề về “tiền lương” nhằm lừa người nhận mở tài liệu Microsoft Word đính kèm để xem báo cáo tiền lương hàng tháng.
+
+Tập tin word khi được mở sẽ yêu cầu nạn nhân nhập mật khẩu được cung cấp trong nội dung email và cho phép chỉnh sửa, sau đó nhấp đúp vào biểu tượng máy in trong tài liệu để xem biểu đồ lương.
+
+Thao tác này sẽ mở một tập tin ZIP ("Chart20072007.zip") chứa một tệp shortcut Windows. Tập tin này này hoạt động như một công cụ PowerShell cho phép tải về và thực thi phần mềm độc hại NetSupport RAT từ máy chủ từ xa. Từ đó, đối tượng sẽ tấn công và thực hiện hành vi chiếm đoạt tài sản trên thiết bị của nạn nhân.
+
+Để giảm thiểu nguy cơ trở thành nạn nhân của các chiến dịch tấn công như vậy, người dùng luôn phải cảnh giác khi nhận được email lạ, KHÔNG truy cập vào đường link hay tải xuống/mở tệp đính kèm trong email NẾU email này được gửi từ nguồn không tin cậy hoặc nội dung email có bất kỳ điểm đáng ngờ nào.
+
+Trước thông tin về chiến dịch lừa đảo quy mô quốc tế trên, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) khuyến cáo người dân nên cẩn trọng trước các các tập tin được gửi từ nguồn không tin cậy hoặc nội dung email đáng ngờ.
+
+“Cần kiểm tra kỹ địa chỉ email người gửi và nội dung trong email; không tuỳ tiện kích vào bất cứ tập tin đính kèm, đường dẫn nào có trong email khi nhận thấy sự khả nghi. Không cung cấp bất kỳ thông tin cá nhân, tài khoản ngân hàng khi có yêu cầu khai báo thông tin từ các email”, khuyến cáo của Cục An toàn thông tin.
+
+Ngoài ra, người dùng nên sử dụng phần mềm diệt virus quét các tập tin đính kèm trong email. Đồng thời, lưu ý vấn đề an toàn nếu sử dụng email khi kết nối vào các mạng không dây công cộng.
+
+Bên cạnh đó, cũng cần lưu ý không dùng một email cho nhiều dịch vụ Internet, đặc biệt là các dịch vụ quan trọng; Thường xuyên thay đổi mật khẩu email đủ mạnh, không để mật khẩu mặc định; Cài đặt bảo mật hai lớp cho email để xác thực bằng điện thoại để có thể phục hồi email khi bị tấn công.

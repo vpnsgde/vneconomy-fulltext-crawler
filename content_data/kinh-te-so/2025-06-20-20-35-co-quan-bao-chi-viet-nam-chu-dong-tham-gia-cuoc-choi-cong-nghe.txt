@@ -1,0 +1,59 @@
+Tại phiên chuyên đề “Dữ liệu là gốc của tòa soạn hiện đại” ngày 20/6 trong khuôn khổ Hội Báo toàn quốc 2025, lãnh đạo các đài truyền hình và tòa soạn hàng đầu Việt Nam đều nhất trí rằng dữ liệu đã trở thành tài sản chiến lược, quyết định sức cạnh tranh và cuộc chuyển mình trong kỷ nguyên số của các cơ quan báo chí Việt Nam.
+
+Hàng loạt sáng kiến và mô hình dữ liệu, từ phân tích hành vi độc giả, tự động điều phối nội dung đến cá nhân hóa trải nghiệm và mở rộng dịch vụ đã được đại diện các cơ quan báo chí hàng đầu chia sẻ. Điều này cho thấy một bức tranh chuyển đổi số đang diễn ra ngày càng quyết liệt trong ngành báo chí của Việt Nam.
+
+Trao đổi với các cơ quan báo chí, ông Phạm Anh Chiến, Phó Giám đốc VTV Digital, Đài Truyền hình Việt Nam (VTV), thẳng thắn chỉ ra báo chí Việt Nam đang phải cạnh tranh với các công ty công nghệ toàn cầu với nền tảng công nghệ vững chắc và thực tế tại các tòa soạn hay đài truyền hình thì doanh thu quảng cáo mỗi năm liên tục giảm.
+
+“VTV trước đây chỉ sản xuất nội dung phát sóng và phụ thuộc hoàn toàn vào doanh thu quảng cáo. Tuy nhiên, nguồn thu này đang sụt giảm qua mỗi năm. Thế nên, hiện tại chúng tôi không chỉ xây kho nội dung mà còn phải xây kho dữ liệu người dùng để mở rộng dư địa hệ sinh thái sản phẩm dịch vụ sang các lĩnh vực như tài chính, thương mại điện tử...”, ông Chiến chia sẻ.
+
+“Tổ chức nào hiểu khán giả hơn, tổ chức đó sẽ mở ra được nhiều cơ hội hơn. Đó là xu hướng tất yếu của báo chí hiện đại”, ông Chiến khẳng định.
+
+Trong đó, chất lượng của metadata – siêu dữ liệu gắn liền với nội dung và hành vi người dùng cực kỳ quan trọng. "Metadata càng sâu, dữ liệu người dùng càng chi tiết, thì khả năng tạo ra dịch vụ và sản phẩm mới càng lớn”, lãnh đạo VTV Digital cho biết.
+
+Đồng tình với quan điểm đại diện VTV, ông Nguyễn Sĩ Hoàng, Phó Tổng thư ký tòa soạn Tạp chí Kinh tế Việt Nam/VnEconomy, cũng cho rằng điều quan trọng không phải chỉ có dữ liệu, mà phải biết biến dữ liệu thành sản phẩm hữu ích.
+
+“VnEconomy đã có hàng chục năm làm việc với số liệu, có kho dữ liệu đồ sộ nhưng do hạn chế về công nghệ nên chưa khai thác hiệu quả. Khi ChatGPT ra mắt vào tháng 11/2022, chúng tôi nhận thấy nếu các chatbot AI càng phát triển, chúng sẽ trở thành kênh tra cứu phổ biến. Nếu chúng tôi có thể tập hợp được các dữ liệu kinh tế chuyên sâu và tổ chức lại một cách có hệ thống, chúng tôi có thể tạo ra giá trị mới – không chỉ cho phóng viên, mà cả người đọc”, đại diện VnEconomy chia sẻ.
+
+Từ ý tưởng này, nền tảng AskoPlatform đã ra đời, với lõi công nghệ phục vụ mục tiêu giúp tiếp cận dữ liệu dễ dàng hơn, hoạt động như một trợ lý thông minh trong lĩnh vực báo chí kinh tế. Việc tự xây dựng mô hình AI, theo ông Hoàng, là lựa chọn bắt buộc vì ba lý do.
+
+Thứ nhất,các mô hình ngôn ngữ sẵn có không thể kiểm soát được dữ liệu đầu vào, nên không thể kiểm soát được chất lượng câu trả lời cũng như các yếu tố nhạy cảm.
+
+Thứ hai,chatbot vẫn đang học từ dữ liệu đào tạo "đóng băng" tại một thời điểm nên không có tính cập nhật. Việc lấp đầy khoảng trống thông tin được thực hiện qua tính năng tìm kiếm bổ sung (deep search)  nhưng bản chất vẫn là qua các công cụ tìm kiếm trên internet, không hạn chế được rủi ro nói trên.
+
+Thứ ba,rủi ro “ảo giác” thông tin (hallucination) – tức là mô hình có thể "bịa" ra câu trả lời nếu thiếu dữ liệu xác thực.
+
+“Ba điểm yếu này không thể chấp nhận trong môi trường báo chí – nơi thông tin phải chính xác và chính thống. Điều này chỉ giải quyết được khi có thể kiểm soát và tinh chỉnh mã nguồn của mô hình”, đại diện VnEconomy nhấn mạnh.
+
+Thực tế, quá trình xây dựng mô hình không đòi hỏi chi phí quá lớn nhờ vào chiến lược kỹ thuật hợp lý. VnEconomy hợp tác với một công ty công nghệ để chiết xuất một mô hình ngôn ngữ lớn (LLM) thành mô hình nhỏ, tập trung vào thuật toán suy luận thay vì toàn bộ nội dung tổng quát. Dữ liệu đã được kiểm chứng của tòa soạn sau đó được sử dụng để tái huấn luyện (fine-tunning) trên nền tảng nhẹ hơn, với mô hình khoảng 8 tỷ tham số.
+
+“Người ta hay nghĩ tham số càng lớn thì mô hình càng thông minh, nhưng điều đó không hoàn toàn đúng. Độ thông minh thực sự phụ thuộc vào chất lượng dữ liệu và cách thiết kế thuật toán suy luận. Nhiều tham số giúp mô hình học được nhiều mẫu ngôn ngữ, sử dụng từ ngữ hoa mĩ hơn. Với AskoPlatform – vốn chỉ phục vụ mảng kinh tế – chúng tôi không cần mô hình viết văn hay làm thơ, mà cần một công cụ suy luận chính xác, gọn nhẹ và cập nhật liên tục. Với AskoPlatform, dữ liệu được cập nhật hàng giờ”, ông Hoàng nói.
+
+Kết quả là, từ khi đưa mô hình vào hoạt động, phóng viên VnEconomy có thể khai thác dữ liệu nhanh hơn, xử lý số liệu hiệu quả hơn và viết bài sâu hơn nhờ hệ thống truy vấn chuyên biệt. Trong khi đó, độc giả có một công cụ tin cậy để hỏi đáp thông tin kinh tế và việc trích dẫn số liệu từ Askonomy được bảo chứng bằng uy tín của Tạp chí Kinh tế Việt Nam.
+
+Chia sẻ về hành trình tiếp cận dữ liệu, bà Nguyễn Thu Hương, Phó Tổng Biên tập VnExpress, chia sẻ rằng phải hơn 10 năm sau khi thành lập, VnExpress mới lần đầu tiếp cận các chỉ số như Unique Visits, Pageviews thông qua Google Analytics. Thế nhưng, lãnh đạo VnExpress nhận thấy những dữ liệu từ các công cụ bên ngoài chỉ dừng lại ở con số, chưa thể trả lời được những câu hỏi cốt lõi về vận hành của tòa soạn.
+
+Từ đó, VnExpress bắt đầu xây dựng hệ sinh thái quản trị dữ liệu riêng, chia thành năm nhóm chính: dữ liệu độc giả, dữ liệu hành vi, dữ liệu bài viết, dữ liệu quảng cáo và dữ liệu phản hồi.
+
+Theo bà Hương, lý do quan trọng nhất để phát triển hệ thống riêng là chi phí và tính kiểm soát. “Dựa trên lượng độc giả hiện nay, chi phí mà VnExpress phải thuê ngoài có thể lên tới 100.000 USD, chưa kể vấn đề bảo mật. Hệ thống của các đối tác thương mại thường không thể theo kịp tốc độ và nhu cầu phát sinh liên tục trong môi trường tòa soạn số”, bà Hương tiết lộ. Do đó, VnExpress đã quyết định tự phát triển hạ tầng dữ liệu và các công cụ phân tích.
+
+Trong đó, một trong những hệ thống xử lý dữ liệu chủ lực của VnExpress là VnExpress Analytics, giúp biên tập viên ra quyết định về cách sắp xếp trang chủ, theo dõi "sức khỏe" nội dung và phân tích theo từng mảng chuyên đề hoặc từng trang thành viên. Bên cạnh đó, hệ thống dữ liệu hành vi độc giả cũng đóng vai trò nền tảng trong chiến lược cá nhân hóa nội dung và quảng cáo – hai trụ cột quan trọng của sản phẩm và công nghệ marketing của toà soạn nay.
+
+Đáng chú ý, đại diện VnExpress chia sẻ tòa soạn hiện đang áp dụng trí tuệ nhân tạo (AI) kết hợp với dữ liệu lịch sử và các tiêu chí của tòa soạn để tạo ra một cái hệ thống điều phối mặt trang tự động: “Trước đây nếu dùng nhân sự để trực điều phối theo múi giờ sẽ rất tốn lực và thiếu hiệu quả. Nay hệ thống tự hoạt động 60 phút một lần để kiểm tra các bài viết mới và đang hiển thị, đánh giá tiềm năng nội dung, từ đó quyết định đẩy lên trang chủ hoặc hạ xuống”.
+
+Theo bà Hương, hiệu quả của hệ thống này vượt khoảng 5% so với con người trong cùng khung thời gian, và ngày càng được cải tiến dựa trên dữ liệu lịch sử và tiêu chí biên tập riêng của tòa soạn.
+
+Trong bối cảnh dữ liệu ngày càng trở thành "tài sản chiến lược", nhiều đơn vị báo chí đã chủ động ứng dụng dữ liệu vào sản xuất nội dung, hoạch định chiến lược và phân phối, tuy nhiên, theo chuyên gia Ngô Mạnh Hà nhận định, đi kèm theo đó là hàng loạt thách thức nhức nhối về quản trị dữ liệu.
+
+Theo chuyên gia, các vấn đề phổ biến hiện nay gồm: thiếu chuẩn mực trong quản trị dữ liệu, xung đột giữa quyền đưa tin và quyền riêng tư cá nhân, áp lực thương mại hóa dữ liệu, cũng như những rủi ro khi chia sẻ dữ liệu với bên thứ ba.
+
+Trước thực tế này, chuyên gia đề xuất năm nguyên tắc cốt lõi để định hướng xây dựng hệ thống dữ liệu báo chí có trách nhiệm: Minh bạch – Phải công khai rõ ràng mục đích thu thập và cách sử dụng dữ liệu; Tối giản – Chỉ thu thập những dữ liệu thật sự cần thiết cho hoạt động nghiệp vụ; Bảo mật – Áp dụng các biện pháp kỹ thuật như mã hóa, phân quyền, hạn chế truy cập; Đồng thuận – Người dùng cần được thông báo và lựa chọn việc chia sẻ dữ liệu của mình; Tôn trọng quyền riêng tư – Bao gồm quyền được quên, quyền ẩn danh và giới hạn theo dõi hành vi.
+
+Để các toà soạn vừa đảm bảo hiệu quả kinh doanh vừa giữ vững nguyên tắc bảo vệ dữ liệu cá nhân, chuyên gia đề xuất một loạt giải pháp thực tế, bao gồm thiết lập quy tắc ứng xử trong thu thập, xử lý và chia sẻ dữ liệu, có thể dựa trên các tiêu chuẩn như ISO/IEC 27701 hoặc quy định bảo vệ dữ liệu hiện hành của Việt Nam; Nâng cấp hệ thống bảo mật, áp dụng công nghệ mã hóa mạnh, phân quyền truy cập chặt chẽ; Chia sẻ dữ liệu một cách có trách nhiệm – ngoài các thỏa thuận pháp lý, cần có cơ chế kỹ thuật như làm mờ danh tính, mã hóa dữ liệu khi chuyển giao cho bên thứ ba; Đào tạo phóng viên và biên tập viên – tăng cường hiểu biết về dữ liệu số, quyền riêng tư, cũng như các nguy cơ rò rỉ hoặc khai thác dữ liệu sai mục đích.
+
+Cũng liên quan đến vấn đề này, trao đổi kinh nghiệm trước các tòa soạn, đài truyền hình, trước các mối lo về mất an toàn dữ liệu, Phó Giám đốc VTV Phạm Anh Chiến khẳng định việc phát triển năng lực dữ liệu phải được đầu tư nghiêm túc và không thể hoàn toàn dựa vào outsourcing.
+
+"Dữ liệu, trong tương lai, không chỉ là tài nguyên mà còn là tài sản chiến lược. Và nó phải thuộc quyền sở hữu của chính các cơ quan báo chí nếu muốn cạnh tranh bền vững”, lãnh đạo VTV nói thêm.
+
+Ông Hà cũng dẫn trường hợp điển hình của tờ báo hàng đầu của Mỹ The New York Times (NYT) đã chủ động từ bỏ hình thức quảng cáo theo hành vi từ cuối năm 2020. Thay vì theo dõi hành vi cá nhân của người dùng để nhắm quảng cáo, họ chuyển sang quảng cáo theo ngữ cảnh – tức là quảng cáo được hiển thị dựa trên nội dung bài viết và ngữ cảnh sử dụng hiện tại của người đọc.
+
+“NYT tự phát triển hệ thống quản lý quảng cáo, không sử dụng nền tảng của Google hay Facebook, và không thu thập hành vi cá nhân để kiếm lợi. Chính lựa chọn này đã giúp họ nâng cao đáng kể mức độ tin cậy trong mắt độc giả”, ông Hà nhấn mạnh.

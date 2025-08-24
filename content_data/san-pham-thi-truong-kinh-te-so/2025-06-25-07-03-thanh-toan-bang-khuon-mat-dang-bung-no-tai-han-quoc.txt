@@ -1,0 +1,31 @@
+Tại một siêu thị ở Seoul (Hàn Quốc), khách hàng đã có thể thanh toán chỉ bằng cách nhìn vào một thiết bị nhỏ gắn camera, sau đó nhập mã PIN, cuối cùng màn hình hiện lên dòng chữ: “Thanh toán của bạn đã hoàn tất”. Giao dịch đã được xử lý, số tiền trừ trực tiếp vào thẻ tín dụng của khách hàng này.
+
+Hệ thống thanh toán bằng khuôn mặt này đang ngày càng phổ biến tại Hàn Quốc. Được biết, người dùng chỉ cần đăng ký khuôn mặt và thông tin thẻ tín dụng một lần duy nhất. Sau đó, họ có thể thanh toán hoàn toàn bằng khuôn mặt.
+
+Trong đó, Shinhan Card là đơn vị đầu tiên tại Hàn Quốc đưa phương thức thanh toán bằng khuôn mặt vào thực tế, bắt đầu từ tháng 4/2020. Sau đó, hai cái tên lớn trong lĩnh vực công nghệ tài chính của Hàn Quốc là Naver Pay và Toss cũng lần lượt tham gia thị trường vào năm 2023 và 2024.
+
+Nhờ sự tiện lợi, bảo mật và trải nghiệm mới mẻ, phương thức thanh toán này nhanh chóng được giới trẻ, đặc biệt là thế hệ MZ (Millennials và Gen Z) Hàn Quốc, đón nhận.
+
+
+
+Cứ 10 cửa hàng ở Hàn Quốc thì đã có 1 nơi hỗ trợ thanh toán bằng khuôn mặt. Trong tổng số khoảng 1,5 triệu cửa hàng sử dụng máy quẹt thẻ trên toàn quốc, đã có khoảng 135.000 nơi được trang bị thiết bị đầu cuối thanh toán bằng khuôn mặt của Toss.
+
+Ước tính chỉ trong nửa đầu năm nay, số người dùng dịch vụ thanh toán bằng khuôn mặt từ ba nhà cung cấp của Hàn Quốc đã tăng thêm ít nhất 10.000 người. Nhiều chuyên gia cho rằng năm 2024 có thể được xem là thời điểm đánh dấu bước chuyển mình thực sự của xu hướng thanh toán bằng nhận diện khuôn mặt tại Hàn Quốc.
+
+Cách thức đăng ký dịch vụ thanh toán bằng khuôn mặt của các nhà cung cấp dịch vụ này khá giống nhau, người dùng chỉ cần dùng điện thoại chụp ảnh khuôn mặt ở chế độ 3D thông qua ứng dụng của ngân hàng hoặc công ty tài chính. Sau đó, hệ thống sẽ ghi lại và mã hóa các đặc điểm sinh trắc học như khoảng cách giữa hai mắt, hình dáng sống mũi, độ sâu của các đường nét trên gương mặt…
+
+Do công nghệ yêu cầu ảnh ba chiều, nên những hình ảnh tĩnh hoặc video giả mạo không thể qua mặt được hệ thống.
+
+Dù người dùng có đeo kính, trang điểm đậm hay thay đổi kiểu tóc, công nghệ này vẫn có thể nhận diện chính xác vì những yếu tố đó không làm thay đổi cấu trúc gương mặt. Thậm chí, nó đủ tinh vi để phân biệt được cả hai người song sinh giống nhau thông qua những khác biệt nhỏ trong đường nét.
+
+Tuy vậy, công nghệ này vẫn có một số giới hạn. Nếu khuôn mặt người dùng thay đổi quá nhiều sau phẫu thuật thẩm mỹ hoặc bị biến dạng do tăng hay giảm cân quá mức, hệ thống có thể gặp khó khăn trong việc nhận diện.
+
+Từ một tiện ích phụ trợ, giờ đây nhận diện khuôn mặt đang dần trở thành một phần trong thói quen chi tiêu mới của người Hàn Quốc. Mỗi lần thanh toán chỉ cần vài giây để nhìn.
+
+Vào tháng 3/2023, Naver Pay bắt đầu thử nghiệm hệ thống thanh toán bằng khuôn mặt có tên Face Sign, với thiết bị đầu tiên được lắp đặt tại một quán cà phê trong khuôn viên Đại học Kyung Hee, quận Dongdaemun, Seoul.
+
+Chỉ một năm sau, vào tháng 4/2024, nền tảng tài chính Toss cũng ra mắt dịch vụ Face Pay của riêng mình. Ban đầu, dịch vụ này được triển khai tại khoảng 450 cửa hàng ở khu vực Gangnam – một trong những trung tâm mua sắm sầm uất nhất Hàn Quốc. Chỉ trong vòng hai tháng, số lượng điểm chấp nhận thanh toán bằng khuôn mặt của Toss đã tăng vọt lên 20.000 cửa hàng trên toàn thành phố.
+
+Hiện nay, cứ 10 cửa hàng ở Hàn Quốc thì đã có 1 nơi hỗ trợ thanh toán bằng khuôn mặt. Trong tổng số khoảng 1,5 triệu cửa hàng sử dụng máy quẹt thẻ trên toàn quốc, đã có khoảng 135.000 nơi được trang bị thiết bị đầu cuối thanh toán bằng khuôn mặt của Toss.
+
+Trong khi đó, dịch vụ từ đối thủ của họ là Naver Pay hiện vẫn giới hạn trong phạm vi Đại học Kyung Hee.

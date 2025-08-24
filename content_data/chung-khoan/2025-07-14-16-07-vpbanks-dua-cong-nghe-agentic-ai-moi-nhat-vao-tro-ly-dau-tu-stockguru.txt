@@ -1,0 +1,43 @@
+StockGuru như một chuyên gia tư vấn đầu tư 24/7, hiểu rõ thị trường Việt Nam và cung cấp khuyến nghị chính xác, kịp thời cho cả nhà đầu tư mới lẫn những người giàu kinh nghiệm.
+
+CÔNG NGHỆ AI MỚI NHẤT TRONG ĐẦU TƯ CHỨNG KHOÁN
+
+Trong bối cảnh công nghệ trí tuệ nhân tạo (AI) đang định hình lại mọi lĩnh vực của đời sống, đặc biệt là tài chính - chứng khoán, CTCP Chứng khoán VPBank (VPBankS) đã phối hợp cùng Fintech AI ra mắt StockGuru - trợ lý tư vấn đầu tư chứng khoán đầu tiên tại Việt Nam ứng dụng công nghệ Agentic AI.
+
+Trong khi các nền tảng chatbot chứng khoán trên thị trường hiện nay chủ yếu sử dụng Generative AI (AI tạo sinh) hoặc AI Agent (tác nhân AI) thì StockGuru đã bước vào kỷ nguyên Agentic AI (AI hành động độc lập).
+
+Giải thích một cách đơn giản, StockGuru vận hành dưới dạng một “công ty AI”, bao gồm 17 AI Agent chuyên biệt. Mỗi Agent AI lại phụ trách một chức năng như như CEO, giám đốc bộ phận, hay chuyên gia đầu ngành. Khi nhà đầu tư đưa ra một câu hỏi, các Agent sẽ được phân công nhiệm vụ, sau đó dữ liệu được tổng hợp lại bởi một “CEO AI” để đưa ra kết luận cuối cùng.
+
+StockGuru sở hữu khả năng truy xuất dữ liệu thị trường theo thời gian thực, phân tích đa chiều và trực quan hóa kết quả qua đồ thị, báo cáo và số liệu định lượng.
+
+Đặc biệt, không giống các AI phổ thông như ChatGPT, Grok hay Gemini, StockGuru được “đo ni đóng giày” cho thị trường Việt Nam, giúp nhà đầu tư nhận được các phân tích chuyên sâu, gợi ý bám sát diễn biến thực tế thị trường nội địa.
+
+Trợ lý này có khả năng cung cấp đa dạng các phân tích chuyên sâu như phân tích cơ bản, phân tích kỹ thuật, định giá doanh nghiệp, phân tích ngành và cả tâm lý thị trường…
+
+Khả năng xử lý dữ liệu của StockGuru đặc biệt ấn tượng: Hệ thống có thể tiếp nhận đến 193.000 token, tương đương 450 trang A4 và trung bình sử dụng 46.000 token (110 trang) để đưa ra một phản hồi chi tiết trong chưa đầy nửa phút.
+
+Những báo cáo phân tích, vốn thường tiêu tốn hàng ngày, hàng tuần để tạo lập bởi các chuyên viên phân tích, giờ đây có thể được thực hiện chỉ trong 20 - 30 giây bởi StockGuru.
+
+Song hành cùng công nghệ hiện đại là trải nghiệm được cá nhân hóa cho từng khách hàng. StockGuru có thể phân tích chiến lược đầu tư phù hợp mức độ chấp nhận rủi ro, mục tiêu tài chính, hành vi giao dịch và thói quen của từng cá nhân.
+
+Với người mới, StockGuru là người bạn đồng hành đáng tin cậy; với người đã có kinh nghiệm, đây là “trợ lý đầu tư” sắc bén, nhanh nhạy và không bao giờ nghỉ ngơi.
+
+NHÀ ĐẦU TƯ HÀO HỨNG VỚI STOCKGURU
+
+Chỉ sau thời gian ngắn ra mắt, StockGuru đã ghi điểm trong mắt nhà đầu tư. Đặc biệt, trợ lý này tỏ ra cực kỳ hữu ích với những người mới, giúp họ tự tin tiếp cận thị trường, học hỏi kiến thức và ra quyết định đúng đắn ngay từ những bước đầu tiên.
+
+Chị Minh Anh, nhà đầu tư F0 mới tham gia thị trường từ đầu năm nay, chia sẻ trải nghiệm cùng StockGuru: “Lúc mới bắt đầu, tôi rất hoang mang: Bảng giá nhìn rối mắt, còn báo tài chính thì khó hiểu. Tôi từng mất cả buổi tối chỉ để tìm hiểu về một mã cổ phiếu nhưng vẫn thấy thiếu tự tin khi ra quyết định”.
+
+“Khi biết đến StockGuru, tôi thử hỏi một câu đơn giản: ‘Cổ phiếu ngành năng lượng nào đang tiềm năng?’ và bất ngờ khi nhận được trả lời rất chi tiết, từ xu hướng ngành, kết quả kinh doanh, cho đến định giá từng mã nổi bật. Sau vài ngày sử dụng, tôi cảm thấy như mình có một người bạn đồng hành, chuyên gia luôn sẵn sàng giải thích mọi điều tôi chưa rõ một cách dễ hiểu và trực quan”.
+
+Theo chị Minh Anh, điểm cộng lớn nhất của StockGuru là không dùng ngôn ngữ quá chuyên môn mà giải thích theo cách rất gần gũi, dễ hiểu và trực quan hóa thông qua bảng, đồ thị giá, biểu đồ. Nhờ trợ lý này, chị đã biết cách đọc báo cáo tài chính, hiểu được chỉ số như EPS, ROE, P/E…
+
+Không chỉ là “giảng viên” xuất sắc với nhà đầu tư F0, StockGuru còn là “trợ thủ” đặc lực cho những người đã nhiều năm chinh chiến trên thị trường. Anh Minh Tuấn, nhà đầu tư cá nhân có hơn 10 năm kinh nghiệm, cho biết: “Tôi từng thử nhiều chatbot AI nước ngoài nhưng hầu hết đều không hiểu thị trường Việt Nam và dữ liệu đưa ra thường không cập nhật, trả lời theo kiểu chung chung”.
+
+“StockGuru thì khác hẳn: Trả lời rất nhanh, thông tin đầy đủ và quan trọng là có cả biểu đồ, phân tích chỉ số cụ thể, trích dẫn được cả báo cáo phân tích, đưa ra chỉ báo rõ ràng. Mỗi lần phân vân về một mã cổ phiếu, chỉ cần hỏi StockGuru là đã có kết quả kinh doanh, so sánh với ngành, đồ thị kỹ thuật, đánh giá triển vọng ngành và định giá, chất lượng không kém một báo cáo phân tích chuyên nghiệp”, anh nói thêm.
+
+Được xây dựng dựa trên nền tảng công nghệ hiện đại và tầm nhìn chiến lược của VPBankS, StockGuru đang từng bước định nghĩa lại cách thức nhà đầu tư tương tác với thị trường. Trong thời đại mà thông tin biến động từng giây và cơ hội chỉ xuất hiện thoáng qua, sở hữu một trợ lý AI luôn sẵn sàng 24/7, phân tích nhanh và chuẩn xác chính là lợi thế cạnh tranh quan trọng nhất.
+
+Hiện nay, người dùng đăng ký trước ngày 31/7/2025 có thể trải nghiệm StockGuru thông qua gói Trợ lý hoàn toàn miễn phí, bao gồm tư vấn cơ bản không giới hạn và 30 lượt tư vấn chuyên sâu/tháng. Hai gói nâng cao là Tư vấn (từ 455.000 đồng/tháng) và Chuyên gia (từ 1.015.000 đồng/tháng) sẽ được VPBankS triển khai trong thời gian tới, nhằm đáp ứng nhu cầu tư vấn chuyên sâu hơn.
+
+* Nhà đầu tư có thể bắt đầu trải nghiệm StockGuru miễn phí ngay hôm nay trên ứng dụng NEO Invest hoặc website https://www.vpbanks.com.vn/stockguru.

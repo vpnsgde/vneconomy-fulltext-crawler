@@ -1,0 +1,37 @@
+Theo thống kê, từ năm 2022 đến nay, số lượng kết nối Internet đã tăng 18% và dự kiến sẽ tăng lên gần 30% vào năm 2027. Các thiết bị kết nối hệ sinh thái IoT đã tăng trưởng và xuất hiện mọi lúc, mọi nơi.  Công nghệ số, IoT đã được ứng dụng bao trùm trong mọi lĩnh vực kể cả nông nghiệp, y tế, giao thông, ngôi nhà và các thiết bị sinh hoạt hàng ngày.
+
+Tại hội thảo bảo mật thiết bị IoT bằng miễn dịch không gian mạng do Cục an toàn thông tin (Bộ thông tin và Truyền thông) và công ty an ninh mạng Kaspersky tổ chức ngày 12/9/2023, bà Genie Sugene Gan, Giám đốc phụ trách quan hệ chính phủ và chính sách công khu vực châu Á- Thái Bình Dương, Nhật Bản, Trung Đông, Thổ Nhĩ Kỳ và châu Phi, công ty Kaspersky khẳng định, chúng ta đang sống trong kỷ nguyên Internet vạn vật trong đó có đến hàng tỷ thiết bị IoT đã và đang được ứng dụng trong thực tế cuộc sống hàng ngày.
+
+Các thiết bị kết nối, IoT… đang làm cho cuộc sống trở nên tiện ích, thân thiện hơn. Tuy nhiên, việc gia tăng sử dụng các thiết bị IoT cũng dẫn đến những đe dọa an ninh mạng khi tội phạm mạng khai thác tính kết nối của thiết bị để phát tán các cuộc tấn công. Khi các thiết bị IoT tăng trưởng theo cấp số nhân, việc cài đặt các công cụ bảo vệ cần cập nhật thường xuyên hơn, sẽ tốn nhiều thời gian và tài nguyên.
+
+Vấn đề còn phức tạp hơn khi nhiều thiết bị trong số này không có khả năng xử lý cho các công cụ bổ sung về an ninh mạng như phần mềm chống virus đòi hỏi bộ nhớ và tài nguyên xử lý lớn. Do đó, các thiết bị IoT nhà máy công nghiệp, doanh nghiệp trong ngành năng lượng, giao thông vận tải, đô thị thông minh… sẽ dễ dàng trở thành đích tấn công của tội phạm mạng.
+
+Báo cáo của Trung tâm Ứng cứu Khẩn cấp Không gian mạng Việt Nam (VNCERT) cho thấy sự gia tăng đáng kể các sự cố mạng nhắm vào thiết bị IoT trong những năm qua. Dự báo trước đó đã nhấn mạnh các cuộc tấn công vào thiết bị IoT là một trong bốn xu hướng tấn công mạng chính từ đầu năm 2022.
+
+Chia sẻ vấn đề này, ông Lê Công Phú, Phó Giám đốc Trung tâm ứng cứu khẩn cấp không gian mạng Việt Nam VnCert, Cục An toàn thông tin khẳng định, trong thế giới IoT ngày càng phát triển, các mối đe dọa trở nên thường trực. Khi IoT xuất hiện ngày càng nhiều, bề mặt tấn công sẽ ngày càng mở rộng.
+
+Kết quả nghiên cứu cho thấy 98% lượng dữ liệu IoT không được mã hóa, 61% tổ chức đã có sự cố liên quan IoT. Có tới 57% thiết bị Iot có lỗ hổng bảo mật từ trung bình đến cao, có thể cho phép hacker kiểm soát  và 41% các cuộc tấn công liên quan đến các lỗ hổng thiết bị.
+
+Cùng với sự tăng trưởng mạnh mẽ, IoT đang đối mặt với rất nhiều nguy cơ tấn công mạng. IoT phát triển mạnh nhưng chưa được quan tâm đúng mức về bảo vệ an toàn thông tin đã vô tình trở thành một thành phần tham gia vào mạng botnet do các hacker điều khiển.
+
+Ông Phú nêu thực tế, hiện nay các cơ quan, tổ chức doanh nghiệp thường đầu tư nhiều cho hệ thống IT, cài đặt các công cụ phần mềm lên máy tính để kiểm soát dữ liệu, ứng dụng cài đặt trên hệ thống. Tuy nhiên, với các thiết bị IoT chưa được quan tâm đầu tư bảo vệ đúng mức. Do đó, các thiết bị IoT thường sẽ đối mặt với nhiều thách thức.
+
+Ngoài ra với việc các cổng kết nối mạng internet được mở vô tội vạ như hiện nay, hacker chỉ cần một câu lệnh đơn giản có thể tìm kiếm được tất cả các thiết bị IoT kết nối. Các cuộc tấn công DDos, khai thác lỗ hổng bảo mật thường tập trung khai thác, quét các cổng kết nối này để xâm nhập.
+
+Thậm chí qua rà quét, cơ quan an ninh mạng phát hiện nhiều thiết bị IoT có Backdoor, tồn tại lỗ hổng để hacker khai thác thực hiện câu lệnh từ xa truy cập vào các ứng dụng…Trong khi đó, mật khẩu trong các thiết bị IoT thường rất đơn giản, dễ đoán.
+
+Để quản lý an toàn các mối đe dọa trong các thiết bị IoT, giảm thiểu rủi ro mà không cần nhiều chi phí đầu tư, các tổ chức doanh nghiệp cần lưu ý cập nhật các bản vá lỗ hổng thiết bị. Ngoài ra, trước khi đưa hệ thống thiết bị đi vào hoạt động phải chú ý thay đổi mã khóa, mật khẩu; đồng thời nên vô hiệu hóa các tính năng ứng dụng không cần thiết…
+
+Theo các chuyên, gia, trong bảo vệ an toàn thông tin, có những nguyên tắc không quá tốn kém như đặt mật khẩu phức tạp, cập nhật bản vá, thiết lập lại các cài đặt… Các doanh nghiệp cũng cần có cách tiếp cận, có chiến lược rõ ràng về an toàn an ninh mạng, đồng thời phải hiểu các kết nối, điểm chạm của mình với thế giới bên ngoài mới có cách bảo vệ phù hợp.
+
+Ông Khổng Huy Hùng, Phó Chủ tịch Hiệp hội an toàn thông tin Việt Nam cho rằng muốn bảo vệ các thiết bị IoT, các cơ quan, doanh nghiệp phải xác định được trên hệ thống của mình có bao nhiêu thiết bị IoT. Hiện nay, vấn đề này chưa được các tổ chức doanh nghiệp lưu tâm. Việc bảo vệ an toàn an ninh mạng giống như y tế dự phòng. Do đó, các tổ chức doanh nghiệp cần nâng cao khả năng miễn dịch, dự phòng, nhận thức về phòng chống tấn công mạng.
+
+Còn theo chuyên gia Kaspersky, phương pháp thông thường để bảo mật các hệ thống công nghệ thông tin có thể sẽ không hiệu quả cao với các thiết bị IoT. Do đó, cần phải có một cách tiếp cận mới để đảm bảo các giải pháp an ninh mạng trong môi trường số phức tạp luôn đạt hiệu quả an toàn.
+
+Với quan điểm này, Kaspersky đưa ra tầm nhìn miễn dịch không gian mạng đảm bảo hầu hết các mối đe dọa an ninh mạng không thể ảnh hưởng tới từng thiết bị đơn lẻ cũng như toàn bộ hệ thống IoT. Theo bà Genie Sugene Gan “điều này là vô cùng quan trọng trong hành trình thúc đẩy chuyển đổi số, tạo ra một môi trường số an toàn hơn”.
+
+Coi giải pháp miễn dịch không gian mạng là một nhân tố làm thay đổi cuộc chơi trong lĩnh vực IoT, ông Andrey Suvorov, Giám đốc Kinh doanh KasperskyOS, nhận xét tất cả các lãnh đạo tổ chức, doanh nghiệp cũng như tầm quốc gia hiện nay đều coi trọng vai trò của an ninh mạng, là một trong những ưu tiên hàng đầu. Yếu tố cốt lõi tạo sự thay đổi này do rủi ro an ninh mạng và các cuộc tấn công mạng xảy ra ngày một phức tạp.
+
+Đơn cử nếu một doanh nghiệp bị hacker tấn công mã độc tống tiền, số tiền chuộc có thể sẽ làm doanh nghiệp sụp đổ. Tuy nhiên, nhiều doanh nghiệp vẫn phản ứng khá thụ động trước các tình huống tấn công an ninh mạng. Trong khi đó hacker liên tục sáng tạo, thay đổi cách thức tấn công mới. Do đó, cách tiếp cận bảo vệ an ninh mạng truyền thống thường thụ động và không theo kịp.
+
+Theo chuyên gia này, cách tiếp cận mới được đưa ra để khắc phục tình trạng này là giải pháp miễn dịch trên không gian mạng, trong đó có bảo vệ an toàn thiết bị IoT, đối phó với các mối đe dọa bảo mật mới. Giải pháp hệ điều hành mới sẽ thay đổi cách tiếp cận truyền thống, quy tắc của luật chơi trong bảo vệ an ninh mạng các thiết bị kết nối IoT, camera giám sát…

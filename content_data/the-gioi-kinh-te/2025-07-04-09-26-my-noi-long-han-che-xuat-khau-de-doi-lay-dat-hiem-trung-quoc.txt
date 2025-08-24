@@ -1,0 +1,25 @@
+Đây là một trong những dấu hiệu cho thấy căng thẳng thương mại giữa hai nền kinh tế lớn nhất thế giới đã hạ nhiệt. Trước đó, Bắc Kinh thông báo sẽ nới lỏng các hạn chế cấp phép xuất khẩu đất hiếm.
+
+Ngày 3/7, Synopsys, Cadence Design Systems và Siemens, ba nhà phát triển phần mềm tự động hóa thiết kế điện tử (EDA) lớn nhất thế giới, cho biết các công ty này đang chuẩn bị để phục vụ trở lại khách hàng ở Trung Quốc.
+
+Cũng trong ngày này, nhà chức trách Mỹ đã gửi thư tới các nhà sản xuất khí ethan và thông báo việc dỡ bỏ yêu cầu xin cấp phép xuất khẩu sang Trung Quốc - một quy định được áp đặt vào cuối tháng 5 và tháng 6. Ethane là một nguyên liệu quan trọng trong công nghiệp hóa dầu, đặc biệt là để sản xuất etylen - một tiền chất của nhiều loại nhựa và hóa chất khác. Ngoài ra, ethane cũng được sử dụng làm nhiên liệu trong các động cơ đốt trong và trong sản xuất điện.
+
+Các biện pháp hạn chế đối với xuất khẩu phần mềm EDA và ethane là một trong nhiều biện pháp trả đũa mà chính quyền Tổng thống Donald Trump áp đặt để đáp trả việc Trung Quốc dừng xuất khẩu đất hiếm và nam châm liên quan hồi tháng 4.
+
+Việc Bắc Kinh ngừng xuất khẩu đất hiếm - một hành động nằm trong gói trả đũa thuế quan của ông Trump - đã làm đảo lộn chuỗi cung ứng quan trọng của các nhà sản xuất ô tô, nhà sản xuất hàng không vũ trụ, nhà sản xuất bán dẫn và nhà thầu quân sự ở Mỹ.
+
+Dù hai bên đạt được thỏa thuận “đình chiến” tại Geneva, Thụy Sỹ vào tháng 5, Mỹ cáo buộc Trung Quốc vi phạm thỏa thuận khi vẫn duy trì hạn chế với hoạt động xuất khẩu đất hiếm. Ngược lại, phía Trung Quốc cáo buộc rằng sau thỏa thuận ở Geneva Washington vẫn liên tiếp đưa ra nhiều chính sách mang tính phân biệt đối xử với Trung Quốc, gồm hướng dẫn kiểm soát xuất khẩu chip AI, dừng bán phần mềm EDA cho Trung Quốc và tuyên bố hủy thị thực của sinh viên nước này.
+
+Những diễn biến này đẩy căng thẳng giữa hai bên leo thang trở lại. Tuần trước, hai bên đã chính thức ký thỏa thuận này, theo đó hệ thống hóa các điều khoản được nêu trong các cuộc đàm phán thương mại, bao gồm cam kết từ Bắc Kinh về việc cung cấp đất hiếm.
+
+Bộ Thương mại Trung Quốc cũng cho biết hai bên đã xác nhận một thỏa thuận khung mà trong đó Bắc Kinh sẽ nới lỏng cơ chế cấp phép xuất khẩu đối với một số mặt hàng thuộc diện bị kiểm soát, còn Mỹ sẽ hủy các biện pháp hạn chế tương ứng.
+
+“Mỹ đã cố gắng để xuống thang căng thẳng. Chính phủ đã áp đặt thêm hạn chế với nhiều mặt hàng để buộc Trung Quốc nhượng bộ trong vấn đề đất hiếm”, một nguồn tin trong Chính phủ Mỹ chia sẻ với hãng tin Reuters. “Với việc thực thi thỏa thuận khung, chúng ta sẽ chứng kiến hai bên dỡ bỏ nhiều hạn chế hơn nữa”.
+
+Trong thông cáo ngày 3/7, Siemens cho biết công ty đã tiếp tục bán hàng và hỗ trợ cho khách hàng Trung Quốc sau khi thông báo gần đây của Bộ Thương mại Mỹ rằng các hạn chế kiểm soát xuất khẩu đối với khách hàng tại Trung Quốc không còn được áp dụng nữa.
+
+Theo một lá thư nội bộ của Synopsys, công ty này dự kiến sẽ hoàn tất các bản cập nhật hệ thống để phục vụ và hỗ trợ khách hàng Trung Quốc trong vòng 3 ngày làm việc.
+
+Việc Mỹ hạn chế xuất khẩu phần mềm EDA là một thách thức lớn với ngành thiết kế chip của Trung Quốc. Synopsys, Cadence và Siemens hiện nắm giữ khảng 70% thị trường EDA của Trung Quốc - theo thông tin từ hãng thông tấn nhà nước Trung Quốc Tân Hoa Xã hôi tháng 4.
+
+Hiện chưa rõ các biện pháp hạn chế khác của Mỹ có được dỡ bỏ hay không. Các biện pháp này bao gồm đình chỉ giấy phép xuất khẩu động cơ phản lực cho Trung Quốc của công ty GE Aerospace để; đình chỉ giấy phép bán thiết bị hạt nhân bán cho các nhà máy điện Trung Quốc…

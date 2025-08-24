@@ -1,0 +1,13 @@
+Thông tư số 01/2023/TT-VPCP của Văn phòng Chính phủ, quy định một số nội dung và biện pháp thi hành trong số hóa hồ sơ, kết quả giải quyết thủ tục hành chính và thực hiện thủ tục hành chính trên môi trường điện tử, trong đó quy định áp dụng mã QR trong quá trình tiếp nhận, giải quyết thủ tục hành chính.
+
+Thông tư trên có hiệu lực từ ngày 25/5/2023, áp dụng đối với các cơ quan, tổ chức, cá nhân tham gia vào quá trình thực hiện thủ tục hành chính, cung cấp dịch vụ công, thanh toán trực tuyến, số hóa hồ sơ, kết quả giải quyết thủ tục hành chính.
+
+Gồm 6 chương, 32 điều, thông tư quy định một số nội dung và biện pháp thi hành trong số hóa hồ sơ, kết quả giải quyết thủ tục hành chính; tái cấu trúc quy trình thủ tục hành chính; rà soát, đánh giá thủ tục hành chính đáp ứng yêu cầu xây dựng dịch vụ công trực tuyến theo các mức độ, chuẩn hóa danh mục dịch vụ công trực tuyến; quản lý hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh; tích hợp, chia sẻ, đồng bộ dữ liệu trong thực hiện thủ tục hành chính trên môi trường điện tử.
+
+Đáng chú ý, thông tư quy định quy trình số hóa giấy tờ, tài liệu, thực hiện theo các bước gồm: sao chụp giấy tờ, chuyển sang bản điện tử; bóc tách dữ liệu; cấp mã kết quả số hóa; và lưu kết quả số hóa.
+
+Đối với việc sao chụp giấy tờ chuyển sang bản điện tử, thì người thực hiện số hóa sao chụp từng loại giấy tờ chuyển thành bản điện tử và dùng chữ ký số cá nhân được cấp để ký trên bản sao chụp điện tử trước khi chuyển sang bóc tách dữ liệu. Việc ký số bảo đảm thông tin gồm tên người sao chụp và thời gian thực hiện sao chụp, vị trí chữ ký số được thể hiện tại góc trên bên trái trang đầu tiên của tài liệu.
+
+Thông tư cũng quy định áp dụng mã PQ trong quá trình tiếp nhận, giải quyết thủ tục hành chính. Theo đó, việc áp dụng cung cấp mã QR trong tiếp nhận thủ tục hành chính phải bảo đảm theo tiêu chuẩn Việt Nam TCVN 7322:2009 (ISO/IEC 18004:2006) về công nghệ thông tin - kỹ thuật phân định và thu nhận dữ liệu tự động - yêu cầu kỹ thuật đối với mã hình QR code 2005.
+
+Trong đó, mã QR được in ở góc trên bên trái của các giấy tờ được xuất bản từ dữ liệu của Hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh cho tổ chức, cá nhân cung cấp các dữ liệu tối thiểu như sau: mã số hồ sơ giải quyết thủ tục hành chính; mã thủ tục hành chính; mã định danh của tổ chức, cá nhân thực hiện thủ tục hành chính; tên giấy tờ được xuất bản; tên hệ thống thông tin cung cấp dữ liệu; thời điểm xuất bản; trường hợp là giấy tiếp nhận và hẹn trả kết quả, mã QR có cung cấp thêm dữ liệu về ngày hẹn trả kết quả; trường hợp là kết quả giải quyết thủ tục hành chính, mã QR có cung cấp thêm dữ liệu về thời hạn, phạm vi có hiệu lực (nếu có).

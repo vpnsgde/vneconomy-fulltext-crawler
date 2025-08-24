@@ -1,0 +1,11 @@
+Ngày 25/10, Sở Thông tin và Truyền thông TP.HCM đã tổ chức hướng dẫn sử dụng, khai thác, tích hợp và chia sẻ cơ sở dữ liệu Hệ thống bản đồ số cho các sở ban ngành trên địa bàn Thành phố.
+
+Theo đó, Bản đồ số TP.HCM là nền tảng bản đồ số dùng chung cho toàn Thành phố, thay thế các ứng dụng sử dụng bản đồ như Openstreet Map, Google Map. Hệ thống cung cấp một bộ sưu tập bản đồ nền đa dạng, bao gồm bản đồ hành chính, bản đồ giao thông, bản đồ địa hình, vệ tinh, tòa vuông (3D).
+
+Ngoài ra, bản đồ số này giúp người dùng dễ dàng truy cập và khám phá các thông tin về địa chỉ, đường giao thông, giáo dục, y tế, môi trường, hành chính, và nhiều lĩnh vực khác trên địa bàn TP.HCM.
+
+Tại buổi giới thiệu Bản đồ số TP.HCM, Phó Giám đốc Sở Thông tin và Truyền thông Võ Thị Trung Trinh, cho biết, trên Bản đồ số, các dữ liệu được cập nhật thường xuyên từ các nguồn thông tin chính thức, được tích hợp từ các sở, ban, ngành, quận, huyện trên địa bàn. Với ứng dụng này, người dùng cũng có thể chia sẻ thông tin về các địa điểm với người khác qua Facebook, Zalo, Twitter, Mail, Telegram, QR…
+
+Bản đồ số TP.HCM là sản phẩm hữu ích, cấp môi trường thuận lợi để các đơn vị khai thác và sử dụng dữ liệu bản đồ một cách chính xác và linh hoạt. Người dùng có thể truy cập Bản đồ số theo đường dẫnhttps://bando.tphcm.gov.vn/gis-portalhoặc tải ứng dụng “Bản đồ số TPHCM” trên thiết bị điện thoại thông minh.
+
+Phó Giám đốc Sở Thông tin và Truyền thông cũng cho hay, TP.HCM đang phấn đấu xây dựng và phát triển kho dữ liệu dùng chung TP.HCM cho các cơ quan, đơn vị. Sau buổi hướng dẫn này, các đơn vị có thể góp ý với Sở Thông tin Truyền thông về cơ chế sử dụng bản đồ, đồng thời đăng ký tài khoản chính thức để khai thác, sử dụng và cập nhật dữ liệu của đơn vị lên Bản đồ số. Sở Thông tin và Truyền thông cam kết sẽ giải quyết từng bài toán cụ thể của từng sở ban ngành, qua đó giúp hệ thống sẽ đạt hiệu quả tối ưu nhất khi đưa vào vận hành, sử dụng.

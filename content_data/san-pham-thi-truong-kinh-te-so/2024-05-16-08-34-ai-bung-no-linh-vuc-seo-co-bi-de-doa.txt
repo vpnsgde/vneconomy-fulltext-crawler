@@ -1,0 +1,27 @@
+Trước sự kiện OpenAI công bố Chat GPT-4o mới đây, nhiều tin đồn rộ lên rằng công ty đang chuẩn bị tung ra một loạt sản phẩm tìm kiếm có hỗ trợ AI cạnh tranh với Google Search.
+
+Mặc dù Giám đốc điều hành OpenAI Sam Altman đã phủ nhận những tin đồn này, người dùng vẫn tự đặt ra câu hỏi rằng liệu các công cụ tìm kiếm bằng AI tạo sinh này có làm thay đổi bản chất của việc tìm kiếm trên internet truyền thống khi nhiều người chọn truy cập thông tin qua các công cụ như Chat GPT?
+
+Liệu việc tìm kiếm trên Internet (như chúng ta vẫn sử dụng ngày nay) có thể biến mất hoàn toàn không và AI có ý nghĩa gì đối với việc tối ưu hóa công cụ tìm kiếm - một ngành trị giá khoảng 68 tỷ USD mỗi năm.
+
+Các chuyên gia đã đưa ra một ví dụ để trả lời câu hỏi này. Giả sử người dùng tìm kiếm trên internet “Những địa điểm thu hút hàng đầu ở Savannah, Georgia là gì?” sẽ hiện ra hàng nghìn kết quả tìm kiếm. Sau đó, người dùng sẽ phải tự sàng lọc những kết quả hàng đầu và tránh những thông báo cookie hiện lên trên mỗi trang web, cuối cùng là bỏ qua những đoạn có nội dung SEO để có được câu trả lời đơn giản mà họ đang tìm kiếm.
+
+Tuy nhiên quy trình này hoàn toàn khác khi sử dụng các công cụ như Chat GPT. Khi người dùng nói/gõ câu hỏi tương tự sẽ nhận được phản hồi ngay lập tức. Mặc dù thông tin nhận được từ các công cụ tìm kiếm bằng AI có chính xác tuyệt đối hay không vẫn chưa được kiểm chứng, tuy nhiên đó là một trải nghiệm nhanh gọn và dễ dàng hơn, ít gây khó chịu cho người dùng.
+
+Rõ ràng điều này sẽ làm thay đổi, thậm chí đe dọa việc tìm kiếm trên Internet truyền thống. Bởi vậy, thật hợp lý khi các công ty tìm kiếm trên internet đang nhanh chóng tích hợp AI tổng hợp vào các dịch vụ tìm kiếm của họ. Microsoft Bing là công ty đầu tiên tích hợp Chat GPT, Google cũng đã phát hành trải nghiệm tìm kiếm mới có tên Search Generative Experience, được thiết kế để giúp người dùng điều hướng thông tin trực tuyến dễ dàng hơn.
+
+Nói cách khác, các công ty tìm kiếm trên internet đang cố gắng nâng cao những gì họ làm với AI tổng hợp để có thể cung cấp trải nghiệm tìm kiếm sạch hơn, ít gây khó chịu hơn. Nhưng liệu những nỗ lực này có đủ và các công cụ như Chat GPT sẽ giành được lợi thế cạnh tranh? Vẫn còn quá sớm để kết luận, tuy nhiên có một điều chắc chắn: AI sẽ thay đổi cách người dùng tìm kiếm thông tin.
+
+Điều này hoàn toàn có thể xảy ra. Chiến thuật SEO truyền thống có thể bị AI làm cho trở nên lỗi thời. Chiến lược SEO cung cấp cách để các tổ chức thuyết phục các công cụ tìm kiếm ưu tiên trang web của họ và hiển thị nó ở vị trí cao nhất có thể trong kết quả tìm kiếm. Hiển thị biểu ngữ và vị trí đặt quảng cáo trả phí là các chiến lược khác để đảm bảo trang web đạt được vị trí nổi bật trong kết quả tìm kiếm.
+
+Nhưng nếu người dùng ngày càng bỏ qua các công cụ tìm kiếm và lấy thông tin của họ từ một công cụ như Chat GPT, thì tất cả những nỗ lực SEO và vị trí trả phí tốn thời gian đó đều vô nghĩa.
+
+Các công ty như Microsoft và Google đang nắm rõ điều này. Bởi vậy họ rất muốn bổ sung các công cụ AI tổng quát vào chức năng tìm kiếm của mình để giữ chân người dùng, mặc dù điều này có thể ảnh hưởng đến doanh thu trong tương lai từ các vị trí trả phí và hiển thị biểu ngữ.
+
+Hãy xem xét rằng 58% doanh thu năm 2022 của Google đến từ Google Ads và một công ty như Google sẽ bị ảnh hưởng lớn đến thế nào. Điều này thúc đẩy các nhà cung cấp dịch vụ tìm kiếm như Google và Microsoft kiếm tiền từ các câu trả lời AI tổng quát trong tương lai—giống như cách họ kiếm tiền từ kết quả tìm kiếm tiêu chuẩn trước đây.
+
+Các luồng doanh thu mới sẽ xuất hiện đối với những gã khổng lồ công nghệ này khi họ tìm cách đổi mới và kiếm tiền từ AI. Nhưng đối với các doanh nghiệp nhỏ hơn cung cấp dịch vụ SEO, AI tổng quát có thể gây ra mối đe dọa cơ bản cho mô hình kinh doanh của họ.
+
+SEO chỉ là một ví dụ về cách các doanh nghiệp có thể bị ảnh hưởng bởi AI. AI sáng tạo sẵn sàng tác động đến hầu hết mọi doanh nghiệp theo nhiều cách khác nhau. Theo Forbes, các doanh nghiệp nhỏ lẻ cần bắt đầu bằng cách tiến hành phân tích SWOT để xác định cách AI có thể củng cố hoạt động kinh doanh.
+
+Đánh giá cách tích hợp AI vào các quy trình cốt lõi của họ để nâng cao hiệu quả và trải nghiệm của khách hàng. Cập nhật thông tin về xu hướng của ngành và chiến lược AI của đối thủ cạnh tranh. Khởi động các dự án thí điểm để thử nghiệm các ứng dụng AI trong tổ chức và đầu tư vào việc đào tạo nhân viên cách làm việc hiệu quả với các công cụ AI.

@@ -1,0 +1,21 @@
+Trong bối cảnh khủng hoảng tràn tới thị trường tiền ảo, những người ủng hộ vẫn mô tả tình hình hiện tại chỉ là một đợt điều chỉnh. Tuy nhiên, hiện tượng “mùa đông tiền ảo” đang gây ra những hậu quả thực tế và lâu dài đối với thị trường này.
+
+Kể từ tháng 5/2022 đến nay, đã có 38 công ty trong lĩnh vực này sa thải nhân viên, bao gồm các sàn giao dịch tiền ảo BitMEX và Coinbase, các nhà cung cấp dịch vụ tiền ảo Crypto.com và Blockchain.com, cũng như nền nảng NFT OpenSea.
+
+130 công ty thuộc FTX Group - đơn vị sở hữu sàn giao dịch tiền ảo FTX - đã chính thức đệ đơn xin phá sản do khủng hoảng thanh khoản. Nguyên nhân chính là làn sóng người dùng rút tiền gia tăng từ ngày 6/11. Ngoài ra, thông tin được lộ ra ngoài rằng Alameda Research - một công ty thuộc FTX Group - đang nắm giữ một phần lớn đồng FTT của chính FTX đã khiến công ty đối thủ Binance bất ngờ thoái vốn khỏi FTT, khiến giá trị đồng tiền này giảm mạnh.
+
+Theo ông Sam Bankman-Fried - CEO hiện đã từ chức của FTX Group, công ty sẽ cần khoảng 9,4 tỷ USD để ngăn chặn sự sụp đổ của tập đoàn này.
+
+Theo các nhà phân tích tại The Block, xét về khối lượng giao dịch của các sàn giao dịch điện tử, sàn FTX đứng thứ 4, sau Binance, OKX và Coinbase. Nhìn vào biểu đồ dưới đây có thể thấy việc FTX phá sản có thể sẽ là một đòn giáng mới vào ngành công nghiệp tiền ảo vốn đang lao đao từ đầu năm nay.
+
+Dẫn đầu là Binance với khối lượng giao dịch lên tới 4,6 nghìn tỷ USD trong giai đoạn từ tháng 1 đế ngày 11/11. Vị trí dẫn đầu thị trường cho phép Binance trở thành một trong những công ty đầu tiên đề nghị “cứu” FTX. Tuy nhiên, thỏa thuận này đã nhanh chóng thất bại.
+
+"Do kết quả của quá trình thẩm định chuyên sâu, cũng như những tin tức mới nhất liên quan tới việc xử lý tiền của người dùng trái quy định và các cuộc điều tra của nhà chức trách Mỹ, chúng tôi quyết định sẽ không theo đuổi việc mua lại FTX.com nữa”, Binance thông báo trên Twitter ngày 9/11.
+
+Việc FTX phải chật vật cứu doanh nghiệp của mình cũng như giá trị các loại tiền ảo tiếp tục lao dốc đã khiến các nhà lập pháp Mỹ bắt đầu quan tâm tới việc thắt chặt quy định đối với thị trường tiền điện tử.
+
+“Điều quan trọng là các cơ quan giám sát tài chính phải xem xét nguyên nhân dẫn đến sự sụp đổ của FTX để chúng ta có thể hiểu đầy đủ về hành vi sai trái và lạm dụng đã diễn ra””, Chủ tịch Ủy ban Ngân hàng Thượng viện Sherrod Brown nói.
+
+Đồng tình với quan điểm này, Chủ tịch Ủy ban Nông nghiệp của Thượng viện Mỹ Debbie Stabenow nói thêm rằng đã đến lúc Quốc hội phải hành động.
+
+“Ủy ban Nông nghiệp của Thượng viện Mỹ vẫn cam kết thúc đẩy Luật bảo vệ người tiêu dùng hàng hóa kỹ thuật số để mang lại các công cụ bảo vệ cần thiết cho thị trường này”, bà Stabenow nói.

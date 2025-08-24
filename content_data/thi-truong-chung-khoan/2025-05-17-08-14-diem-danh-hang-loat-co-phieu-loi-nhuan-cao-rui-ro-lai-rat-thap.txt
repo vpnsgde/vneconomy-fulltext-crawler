@@ -1,0 +1,17 @@
+Trong đầu tư, mục tiêu chính là đạt lợi nhuận cao, nhưng điều quan trọng hơn là cân bằng giữa lợi nhuận và rủi ro để đảm bảo sự ổn định của danh mục đầu tư. Theo Mirae Asset, chỉ số Sharpe Ratio giúp đánh giá hiệu suất điều chỉnh rủi ro, giúp nhà đầu tư không chỉ tập trung vào lợi nhuận mà còn xem xét mức độ rủi ro kèm theo.
+
+Chỉ số này tính toán dựa trên chênh lệch lợi nhuận kỳ vọng của danh mục và lãi suất phi rủi ro, chia cho độ lệch chuẩn của lợi nhuận. Sharpe Ratio dương (>0) là tốt, và càng cao càng hiệu quả, trong khi chỉ số âm có thể cho thấy rủi ro quá lớn.
+
+Hiện tại, P/E của VN-Index đang ở mức 12,8 lần, thấp hơn đáng kể so với mức trung bình 5 năm là 14,5 lần. Sau giai đoạn điều chỉnh mạnh do tác động từ các chính sách thuế của Tổng thống Trump, thị trường đã dần ổn định. Mặt bằng định giá hiện tại cho thấy VN-Index vẫn đang ở vùng hấp dẫn, tạo điều kiện thuận lợi để thu hút dòng tiền đầu tư khi môi trường vĩ mô và thanh khoản có dấu hiệu cải thiện trong thời gian tới.
+
+Danh mục đầu tư được Mirae Asset xây dựng dựa trên kết quả kinh doanh quý 1/2025 với trọng tâm là các doanh nghiệp có nền tảng tài chính vững chắc và tiềm năng tăng trưởng bền vững.
+
+Các cổ phiếu trong danh mục được lựa chọn dựa trên các tiêu chí sau: Các doanh nghiệp có vốn hóa trên 5.000 tỷ đồng; Khối lượng giao dịch trung bình cao hơn 100.000 cổ phiếu, đảm bảo tính thanh khoản; Tỷ suất lợi nhuận trên vốn chủ sở hữu (ROE) của cổ phiếu trong danh mục cao hơn ROE của VN-Index, chứng tỏ khả năng sinh lời cao và hiệu quả trong hoạt động kinh doanh.
+
+Doanh thu và lợi nhuận của doanh nghiệp trong quý 1/2025 phải ghi nhận mức tăng trưởng dương, đảm bảo sự ổn định và sức khỏe tài chính tốt. Kiểm soát rủi ro: Sharpe Ratio của danh mục phải ở mức dương, phản ánh khả năng tạo ra lợi nhuận tốt so với mức rủi ro phải chịu.
+
+Thông qua sàng lọc, các cổ phiếu ngành ngân hàng duy trì tỷ trọng cao trong danh mục nhờ khả năng tạo ra lợi nhuận ổn định. Ngoài ra, các ngành như bán lẻ, điện, hóa chất, thực phẩm, xây dựng và vật liệu xây dựng cũng được bổ sung vào danh mục nhờ triển vọng kinh doanh tích cực.
+
+Nhóm ngân hàng, được kỳ vọng sẽ hưởng lợi từ các chính sách thúc đẩy kinh tế trong nước, nổi bật là gói tín dụng trị giá 20 tỷ USD do Ngân hàng Nhà nước triển khai, nhằm hỗ trợ các lĩnh vực như phát triển hạ tầng, công nghệ và kích cầu tiêu dùng nội địa.
+
+Đối với nhóm bán lẻ, điện hóa chất, thực phẩm, xây dựng và vật liệu xây dựng: Kỳ vọng sẽ ghi nhận tăng trưởng tích cực nhờ nhu cầu tiêu dùng nội địa cải thiện, đặc biệt trong bối cảnh Chính phủ tiếp tục đẩy mạnh đầu tư công, kích cầu tiêu dùng và thúc đẩy phát triển hạ tầng. Đồng thời, các chính sách hỗ trợ doanh nghiệp cũng góp phần tạo thêm dư địa tăng trưởng cho các ngành này.

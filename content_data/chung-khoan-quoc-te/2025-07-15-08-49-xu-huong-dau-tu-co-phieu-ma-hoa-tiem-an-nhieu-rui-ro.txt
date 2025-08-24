@@ -1,0 +1,39 @@
+Robinhood có thể xem như nền tảng đầu tiên mạnh dạn triển khai hình thức đầu tư mới này, theo Fast Company. Với cộng đồng tiền điện tử, đó được xem là bước ngoặt, bởi crypto không chỉ là Bitcoin hay memecoin mà cả cổ phiếu của spaceX, OpenAI, cũng như các ông lớn Microsoft và Nvidia.
+
+Tuy nhiên, phản ứng từ chính các công ty liên quan và cơ quan quản lý thì không như vậy.
+
+OpenAI từng lên tiếng cảnh báo người dùng trên X (Twitter), khẳng định các cổ phiếu được mã hóa “không đại diện cho quyền sở hữu trong OpenAI”.
+
+Hiện tại, các cổ phiếu mã hóa trên nền tảng Robinhood mới chỉ được cung cấp ở châu Âu, nhưng phản ứng từ giới chức và các bên liên quan đã phần nào hé lộ những rủi ro pháp lý có thể bùng phát nếu xu hướng này lan rộng toàn cầu.
+
+Dù còn nhiều tranh cãi và chưa rõ ràng về mặt pháp lý, nhưng hiện có không ít công ty công nghệ tài chính đang chạy đua phát triển các phiên bản “mã hóa” của cổ phiếu truyền thống. Vậy cổ phiếu mã hóa là gì và cách chúng hoạt động ra sao?
+
+Hiểu đơn giản, cổ phiếu mã hóa (tokenized stocks) là phiên bản kỹ thuật số của cổ phiếu hoặc các loại chứng khoán khác. Giá trị của chúng được thiết kế để bám sát giá trị thật của cổ phiếu ngoài đời. Tuy nhiên, khác với việc sở hữu cổ phiếu thông thường, nhà đầu tư mua cổ phiếu mã hóa sẽ không có quyền biểu quyết hay quyền tham gia điều hành công ty.
+
+Hiện có hai mô hình vận hành phổ biến đối với cổ phiếu mã hóa.
+
+Cách thứ nhất, nền tảng giao dịch mua cổ phiếu thật từ các công ty, sau đó phát hành một lượng mã token tương ứng. Mỗi token gắn liền với một cổ phiếu thật tức là có tài sản đảm bảo rõ ràng.
+
+Cách thứ hai, nền tảng phát hành token mà không mua bất kỳ cổ phiếu nào. Thay vào đó, họ cam kết sẽ giữ cho giá token đi sát với giá cổ phiếu gốc ngoài thị trường. Lợi nhuận (hoặc lỗ) phát sinh sẽ do nền tảng tự xử lý thông qua các chiến lược đầu tư hoặc phòng ngừa rủi ro riêng. Trong trường hợp này, niềm tin của người dùng đặt hoàn toàn vào năng lực và uy tín của nền tảng phát hành.
+
+Trong đó, Robinhood theo mô hình đầu tiên, tức là sở hữu đầy đủ các cổ phiếu thật để làm tài sản đảm bảo cho số token phát hành. Ngoài ra, người sở hữu token còn có thể nhận được quyền lợi tài chính như cổ tức, dù không có quyền biểu quyết trong công ty gốc.
+
+Không chỉ Robinhood, nhiều tên tuổi lớn trong lĩnh vực giao dịch tiền số như Coinbase và Kraken cũng đang phát triển các sản phẩm cổ phiếu mã hóa. Coinbase hiện vẫn đang đàm phán với Ủy ban Chứng khoán và Giao dịch Mỹ (SEC).
+
+Trong khi đó, Kraken đã chính thức ra mắt sản phẩm xStocks từ tháng 5 vừa qua, bao gồm hơn 50 cổ phiếu Mỹ, tại một số thị trường bên ngoài Hoa Kỳ. Kraken khẳng định các mã xStocks được bảo chứng trực tiếp bằng cổ phiếu thật.
+
+Tại Mỹ, chỉ những nhà đầu tư “được công nhận”, tức có thu nhập hoặc tài sản ở mức cao mới được phép đầu tư vào các công ty tư nhân.
+
+Ngay cả với những người đáp ứng điều kiện này, việc tiếp cận cổ phiếu của các công ty như SpaceX cũng rất khó khăn. Trong khi đó, thế hệ nhà đầu tư trẻ lại ngày càng coi việc được tham gia sớm vào những công ty tiềm năng là yếu tố then chốt để tạo dựng thành công tài chính lâu dài.
+
+Thế nên họ ủng hộ mô hình mã hóa cổ phiếu vì đây được xem là bước tiến giúp tiếp cận thị trường tài chính nhanh hơn và tiết kiệm chi phí hơn.
+
+Tuy vậy, mô hình này không phải không có rủi ro. Với các công ty, việc cổ phiếu mã hóa được giao dịch công khai có thể ảnh hưởng đến quá trình gọi vốn. Ví dụ, nếu giá token giao dịch thấp hơn mức định giá mà công ty đang kỳ vọng, việc thuyết phục nhà đầu tư góp vốn sẽ trở nên khó khăn hơn.
+
+Với nhà đầu tư cá nhân, mỗi nền tảng giao dịch đưa ra những quy định riêng, chẳng hạn như hạn chế thanh khoản, khiến người mua không dễ rút vốn khi cần. Ngoài ra, do chưa có quy định pháp lý cụ thể, nếu nền tảng gặp sự cố hoặc phá sản, không ai chắc nhà đầu tư có thể đòi lại những gì.
+
+Tháng 5 vừa qua, lực lượng đặc nhiệm về tiền điện tử thuộc Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) đã tổ chức phiên điều trần về vấn đề mã hóa tài sản. Bà Hester Peirce, Ủy viên SEC kiêm người đứng đầu nhóm đặc nhiệm, khẳng định cổ phiếu mã hóa phải chịu sự quản lý của nhà nước.
+
+Tuy vậy, bà cũng để ngỏ khả năng hợp tác: “Chúng tôi sẵn sàng cùng các công ty tạo ra các ngoại lệ phù hợp và hiện đại hóa khung pháp lý”. Dù vậy, hiện tại, các sản phẩm dạng này vẫn đang nằm trong “vùng xám” về pháp lý tại Mỹ.
+
+Cơ quan chức năng của Mỹ từng giữ lập trường cứng rắn đến mức, năm 2021, sàn Binance từng phát hành các cổ phiếu mã hóa của Apple và Tesla. Nhưng chỉ vài tháng sau, họ buộc phải ngừng chương trình vì vấp phải phản ứng từ cơ quan quản lý.

@@ -1,0 +1,31 @@
+Giám đốc điều hành của Wiz ngày 24/7 đã thông báo rằng công ty khởi nghiệp về an ninh mạng này sẽ từ chối đề nghị mua lại trị giá 23 tỷ USD từ Google của Alphabet, thay vào đó họ sẽ theo đuổi kế hoạch phát hành cổ phiếu lần đầu ra công chúng (IPO). Lời từ chối của Wiz diễn ra chỉ vài tuần sau khi Google từ bỏ kế hoạch mua HubSpot, một công ty phần mềm trị giá 25 tỷ USD.
+
+Theo ý kiến các chuyên gia trong ngành, lý do chính khiến cuộc đàm phán giữa Google và Wiz không thành công đến từ nhiều vấn đề. Đầu tiên phải kể đến bản cập nhật phần mềm bị lỗi từ CrowdStrike đã khiến Microsoft Windows gặp sự cố trên hàng triệu thiết bị trên khắp thế giới. Chính tình tiết này đã làm gia tăng sự quan tâm, đồng thời tăng giá trị đối với các công ty cung cấp tính năng bảo mật đám mây giống như Wiz.
+
+“Bóng ma” chống độc quyền cũng bao trùm cả hai thương vụ thất bại của Google. Công ty đã phải đối mặt với hàng loạt vụ kiện độc quyền trên toàn cầu trong thập kỷ qua, với sự giám sát ngày càng tăng ngay cả sau khi công ty ngừng theo đuổi nhiều thương vụ. Giờ đây hãng lại một lần nữa phải đối mặt với áp lực pháp lý đã cản trở nhiều giao dịch mua công nghệ cao cấp trong năm qua sau hai thương vụ bất thành nêu trên.
+
+Ở Mỹ và châu Âu, các cơ quan quản lý cạnh tranh ngày càng tập trung vào lĩnh vực công nghệ vì những ảnh hưởng đến nền kinh tế và sức mạnh trên thị trường. Các cơ quan quản lý châu Âu đã buộc các giao dịch tiềm năng phải trải qua nhiều tháng xem xét và Lina Khan, Chủ tịch Ủy ban Thương mại Liên bang Mỹ (FTC), đã ráo riết theo đuổi thung lũng Silicon, cách cơ quan của cô chưa từng làm trước đây.
+
+Wiz đã từ chối thỏa thuận một phần vì lo ngại nó sẽ dẫn đến quá trình phê duyệt kéo dài, theo Bloomberg. Trước đó, một trong những thương vụ mua lại công nghệ lớn được đề xuất là thương vụ mua lại công ty khởi nghiệp thiết kế web Figma trị giá 20 tỷ USD của Adobe cũng đã sụp đổ vào cuối năm 2023 sau cuộc “đụng độ” với các cơ quan quản lý ở Anh và châu Âu. Một tháng sau, Amazon cũng đã bỏ đấu thầu mua iRobot của nhà sản xuất Roomba vì những lý do tương tự.
+
+Stefan Slowinski, người đứng đầu bộ phận nghiên cứu phần mềm toàn cầu tại BNP Paribas Exane, cho biết giá bỏ thầu của Amazon khiến rất nhiều người sợ hãi. Lina Khan đã có tác dụng ngăn chặn một số vụ M&A lớn chỉ bằng sự hiện diện.
+
+Những thỏa thuận bị hủy bỏ đó diễn ra sau cuộc điều tra căng thẳng của FTC về các khoản đầu tư vào AI của Big Tech. Cuộc điều tra vẫn kéo dài và Microsoft là người chơi hiếm hoi đã thuyết phục các cơ quan quản lý của Vương quốc Anh ký vào việc mua Activision Blizzard.
+
+Slowinski nói: “Điều đầu tiên tôi nghĩ đến khi xem tin tức về CrowdStrike, là - ồ, mức định giá 23 tỷ cho Wiz vừa tăng lên một chút”. Các nhà phân tích cho biết, nếu thương vụ Wiz thành công, nó có thể sẽ phải chịu sự giám sát chống độc quyền kéo dài giống như hầu hết các thương vụ lớn gần đây của Google.
+
+Trong hai thập kỷ đầu tiên, Google đã xây dựng nhiều tài sản cốt lõi của mình, như YouTube và Android thông qua việc mua lại, đặt cược táo bạo vào những công nghệ chưa được chứng minh để mang lại cho công ty chỗ đứng trong lĩnh vực điện toán di động, video và trí tuệ nhân tạo.
+
+Sau khi chi 3,2 tỷ USD cho Nest (một nhà sản xuất thiết bị kết nối) Google đã ngừng cắt các khoản chi lớn cho các công ty tiêu dùng vào năm 2014. Thương vụ mua lại Fitbit trị giá 2,1 tỷ USD được đề xuất vào năm 2019 đã mất hơn một năm để xóa bỏ các rào cản pháp lý.
+
+Gần đây hơn, Google đã tập trung chiến lược phát triển doanh nghiệp vào hoạt động kinh doanh trên nền tảng đám mây. Dưới sự dẫn dắt của Thomas Kurian, giám đốc đám mây của Google, đơn vị này đã tích cực mở rộng lực lượng bán hàng và dòng sản phẩm nhằm cạnh tranh với Amazon và Microsoft.
+
+Năm 2019, một năm sau khi Kurian gia nhập Google, công ty đã đồng ý chi 2,6 tỷ USD cho công ty phần mềm đám mây Looker và ba năm sau, Google đã đầu tư 5,4 tỷ USD vào nhà cung cấp bảo mật đám mây Mandiant. Tuy nhiên, Google vẫn đứng thứ ba trong thị trường đám mây - một thực tế mà công ty muốn chỉ ra khi bác bỏ những tuyên bố rằng đó là mối đe dọa độc quyền trong lĩnh vực này.
+
+Theo những người quen thuộc, Google chưa bao giờ tham gia vào các cuộc thẩm định chi tiết với HubSpot - công ty cung cấp phần mềm quản lý khách hàng. Nhưng nếu thỏa thuận được thực hiện, nó sẽ ngay lập tức đe dọa đối thủ cạnh tranh hàng đầu của HubSpot là Salesforce do sức mạnh tài chính và chuyên môn về AI của Google, theo báo cáo từ Bloomberg.
+
+Trong khi đó, việc mua lại Wiz sẽ làm giảm đi số lượng các giao dịch trước đây của Google. Wiz bán công nghệ quét dữ liệu được lưu trữ trên đám mây công cộng để phát hiện các rủi ro bảo mật tiềm ẩn. Những người quen thuộc với chiến lược của Google cho biết công ty này sẽ rất phù hợp với bộ phận đám mây của Kurian và sẽ giúp đơn vị đám mây của Google trong một lĩnh vực mà nó tụt hậu so với các đối thủ cạnh tranh.
+
+Nhưng khả năng đó đã tan biến khi Giám đốc điều hành Wiz Assaf Rappaport nói với nhân viên rằng công ty khởi nghiệp này sẽ tập trung vào việc đạt doanh thu định kỳ hàng năm là 1 tỷ USD và đặt mục tiêu IPO. Figma, công ty khởi nghiệp về thiết kế cũng cho biết họ sẽ theo đuổi IPO sau khi thỏa thuận với Adobe không thành công. Những thông báo như vậy đã trấn an các nhà đầu tư khởi nghiệp, những người gần đây thấy rất ít khả năng sinh lợi và bị lung lay khi chứng kiến ​​các hành động kiểm soát từ các cơ quan quản lý.
+
+Haakon Overli, đối tác của Dawn Capital, một công ty đầu tư phần mềm doanh nghiệp, cho biết: “Với IPO, bạn là người chỉ huy vận mệnh của chính mình. Đồng thời, nhiều nhà đầu tư mạo hiểm đã chấp nhận rằng việc bán một công ty cho một trong những công ty công nghệ lớn hơn chắc chắn sẽ thu hút sự chú ý từ những kẻ phá hoại chống độc quyền.”

@@ -1,0 +1,29 @@
+Trả lời câu hỏi của phóng viên về tình hình phòng chống tội phạm lừa đảo trên không gian mạng tại họp báo công bố sự kiện Ngày chuyển đổi số ngành ngân hàng lần thứ 4, ông Phạm Anh Tuấn, Vụ trưởng Vụ Thanh toán cho biết sau khi yêu cầu bắt buộc xác thực sinh trắc học với tài khoản thanh toán cá nhân thì các đối tượng lừa đảo lại chuyển sang mở tài khoản của tổ chức để thực hiện hành vi lừa đảo.
+
+Do đó, Ngân hàng Nhà nước Việt Nam đang tiến hành sửa đổi Thông tư số 17/2024/TT-NHNN về mở và sử dụng tài khoản thanh toán theo hướng siết chặt xác thực danh tính chính chủ đối với tài khoản thuộc tổ chức và doanh nghiệp. Dự thảo thông tư sẽ được đưa ra lấy ý kiến rộng rãi từ các bộ, ngành, người dân và cộng đồng doanh nghiệp. Theo kế hoạch, Thông tư 17 sửa đổi sẽ có hiệu lực từ ngày 1 tháng 9 năm 2025.
+
+Theo hướng sửa đổi, người đại diện pháp luật của doanh nghiệp và kế toán trưởng phải trực tiếp đến ngân hàng để mở tài khoản và không được ủy quyền. Các ngân hàng thương mại sẽ thực hiện thu thập, đối chiếu dữ liệu sinh trắc học của chủ doanh nghiệp và kế toán trưởng, đồng thời khuyến khích sử dụng ứng dụng định danh điện tử VNeID để đối chiếu với dữ liệu gốc tại cơ sở dữ liệu quốc gia về dân cư.
+
+Ông Phạm Anh Tuấn cho biết các tổ chức mới thành lập dưới một năm, hoạt động như hộ kinh doanh cá thể hay doanh nghiệp siêu nhỏ sẽ bị quản lý chặt chẽ khi thực hiện các hoạt động thanh toán. Đại diện Ngân hàng Nhà nước lý giải có nhiều cơ sở cho rằng những tài khoản của tổ chức mở dưới 1 năm có thể là “nơi ẩn nấp” của các đối tượng lừa đảo nhằm lách quy định xác thực sinh trắc học có hiệu lực từ 1/7/2024.
+
+
+
+"Trước tình hình tội phạm công nghệ cao trên không gian mạng ngày càng gia tăng và có diễn biến phức tạp, Ngân hàng Nhà nước nhận thức rõ về mức độ nghiêm trọng của các hành vi gian lận tài chính, đặc biệt là trong lĩnh vực thanh toán trực tuyến. Trong khi các ngân hàng thương mại ứng dụng công nghệ cao vào hoạt động quản lý và cung cấp dịch vụ, thì các đối tượng phạm tội cũng tận dụng các công nghệ hiện đại, bao gồm cả trí tuệ nhân tạo để thực hiện hành vi lừa đảo".
+
+"Trước tình hình tội phạm công nghệ cao trên không gian mạng ngày càng gia tăng và có diễn biến phức tạp, Ngân hàng Nhà nước nhận thức rõ về mức độ nghiêm trọng của các hành vi gian lận tài chính, đặc biệt là trong lĩnh vực thanh toán trực tuyến. Trong khi các ngân hàng thương mại ứng dụng công nghệ cao vào hoạt động quản lý và cung cấp dịch vụ, thì các đối tượng phạm tội cũng tận dụng các công nghệ hiện đại, bao gồm cả trí tuệ nhân tạo để thực hiện hành vi lừa đảo".
+
+Sau khi Thông tư 17 sửa đổi có hiệu lực (dự kiến 1/9/2025), các tài khoản tổ chức chưa hoàn tất xác thực sinh trắc học sẽ bị hạn chế chức năng giao dịch trực tuyến và chỉ được phép giao dịch tại quầy.
+
+“Việc xác thực này đơn giản nếu tổ chức tín dụng biết cách vận dụng. Hầu hết người đại diện doanh nghiệp đều có tài khoản cá nhân, do đó, việc “khớp” thông tin để xác thực là hoàn toàn khả thi. Trong trường hợp đơn vị được mời nhiều lần nhưng vẫn không hợp tác, Ngân hàng Nhà nước Việt Nam sẽ có biện pháp kiểm tra vì có dấu hiệu bất thường”, ông Tuấn nói.
+
+Ngoài ra, tới đây, các tài khoản không còn hoạt động – thường gọi là tài khoản “ngủ đông”, cũng sẽ bị đóng để phòng tránh bị lợi dụng cho mục đích lừa đảo.
+
+Đặc biệt, Ngân hàng Nhà nước Việt Nam nghiêm cấm cá nhân sử dụng biệt danh, bí danh (alias) khi mở tài khoản thanh toán, do đã ghi nhận nhiều trường hợp dùng tên giả hoặc tên tương tự công ty để thực hiện hành vi lừa đảo.
+
+Bên cạnh đó, Ngân hàng Nhà nước Việt Nam đang xây dựng một kho dữ liệu tập trung về các tài khoản có dấu hiệu nghi ngờ gian lận. Bắt đầu từ ngày 1/4/2025, BIDV đã thí điểm triển khai hệ thống cảnh báo tài khoản nghi ngờ khi khách hàng thực hiện chuyển tiền. Từ khi triển khai đến nay, hệ thống đã giúp giữ lại trên 100 tỷ đồng không bị chuyển đến các tài khoản đáng ngờ.
+
+Các ngân hàng lớn khác sẽ lần lượt triển khai hệ thống cảnh báo theo lộ trình cụ thể: Vietcombank từ ngày 2/6, VietinBank từ ngày 4/7, MB từ 14/7 và Agribank từ 24/7.
+
+“Khi khách hàng chuyển tiền, hệ thống sẽ hiện cảnh báo nếu tài khoản nhận nằm trong danh sách nghi ngờ gian lận. Nếu người chuyển vẫn tiếp tục giao dịch, họ phải hoàn toàn chịu trách nhiệm pháp lý và tài chính. Dự kiến toàn hệ thống ngân hàng sẽ triển khai đồng bộ tính năng này trong năm 2025, sau khi tổng kết và rút kinh nghiệm từ giai đoạn thí điểm tại năm ngân hàng lớn”, Vụ trưởng Vụ Thanh toán thông tin.
+
+Ông Tuấn cho biết danh sách các tài khoản nghi ngờ gian lận sẽ được cập nhật liên tục, có thể thêm mới hoặc loại ra tùy theo tình hình thực tế. Toàn bộ hệ thống dữ liệu được tích hợp và vận hành trong cơ sở dữ liệu SIMO do Ngân hàng Nhà nước Việt Nam quản lý, bảo đảm dữ liệu đúng, đủ, sạch và chuyên sâu.

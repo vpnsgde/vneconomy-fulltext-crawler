@@ -1,0 +1,49 @@
+Thông tin từ Tổng cục Thuế cho thấy sau hai kỳ cung cấp thông tin vào quý 4/2022 và quý 1/2023, Cổng Thông tin thương mại điện tử ghi nhận hàng trăm sàn giao dịch thương mại điện tử thực hiện việc cung cấp thông tin, trong đó có nhiều sàn chiếm thị phần lớn như: Shopee, Lazada, Sendo, Voso, Tiki…
+
+Cụ thể, đối với kỳ cung cấp thông tin quý 4/2022, đã có 310 sàn cung cấp thông tin, cơ quan thuế có danh sách của 159.218 cá nhân và 31.882 tổ chức đăng ký bán hàng trên sàn, với 50,7 triệu lượt giao dịch và tổng giá trị giao dịch là 15.272 tỷ đồng.
+
+Trong quý 1/2023 đã có 259 sàn cung cấp thông tin, cơ quan thuế có danh sách của 64.327 cá nhân và 22.840 tổ chức kinh doanh trên sàn giao dịch thương mại điện tử.
+
+
+
+Tuy nhiên, điều bất thường là cơ quan thuế ghi nhận số lượt giao dịch lên tới9 tỷ lượttrong quý 1/2023 và tổng giá trị giao dịch là 11.478 tỷ đồng.
+
+Chính vì số lượt giao dịch được kê khai quý 1 tăng bất thường, cao gấp 180 lần số liệu được ghi nhận trong quý liền kề trước đó, bình quân giá trị giao dịch/lượt giao dịch chỉ còn khoảng 1.000 đồng, tương ứng giá trị bình quân mỗi đơn hàng giao dịch thành công qua sàn thương mại điện tử trong tháng 1. Rõ ràng điều này là vô lý.
+
+Thông tin từ Vụ Quản lý thuế doanh nghiệp nhỏ và vừa, hộ kinh doanh và cá nhân (Tổng cục Thuế) cho thấy số lượt giao dịch kỳ quý 1/2023 có dấu hiệu bất thường. Qua rà soát, Tổng cục Thuế phát hiện sự bất thường này xuất phát từ việc kê khai của một sàn thương mại điện tử.
+
+Cụ thể, Công Ty Cổ Phần Cooky có mã số thuế 0314498604 có số lượt giao dịch trong quý 4/2022 là 40.247 lượt trong khi quý 1/2023 là hơn 9,034 tỷ lượt, chênh lệch lớn bất thường, gấp 225 lần số lượt giao dịch trong quý 4/2022.
+
+"Sau khi rà soát chúng tôi nhận thấy Công ty cổ phần Cooky, khi gửi thông tin đến cơ quan thuế do nhầm lẫn mà gửi con số lên đến hơn 9 tỷ giao dịch. Đây là một lỗi mà do phía sàn cung cấp thông tin không chính xác, dẫn đến dữ liệu của cơ quan thuế là không đúng", lãnh đạo Vụ Quản lý thuế doanh nghiệp nhỏ và vừa, hộ kinh doanh và cá nhân cho biết. Do đó, cơ quan thuế thông báo cho các sàn để điều chỉnh lại thông tin, bắt đầu từ quý sau, dữ liệu gửi sẽ phải chính xác hơn.
+
+Như vậy, theo tính toán của Tổng cục Thuế, sau khi trừ đi số liệu kê khai không chính xác của Công ty Cooky, số lượt giao dịch qua các sàn thương mại điện tử quý 1/2023 chỉ còn khoảng 47 triệu lượt.
+
+Bên cạnh đó, theo quy định tại Nghị định 91/2022/NĐ-CP, chỉ các sàn thương mại điện tử có chức năng đặt hàng trực tiếp mới phải cung cấp thông tin doanh thu. Còn các sàn không có chức năng đặt hàng trực tiếp thì không phải cung cấp doanh thu.
+
+"Do vậy, khi sử dụng giá trị giao dịch trên sàn để chia cho tổng số lượt giao dịch của tất cả các sàn là hoàn toàn không phù hợp, vì chia cho cả những sàn không cung cấp doanh thu cho cơ quan thuế. Nếu muốn chia bình quân giao dịch thì chỉ chia cho các sàn có chức năng đặt hàng trực tuyến", đại diện Tổng cục Thuế thông tin thêm.
+
+Theo Khoản 7, điều 1, Nghị định 91/2022/NĐ-CP ngày 30/10/2022sửa đổi, bổ sung một số quy định tại Nghị định 126/2020/NĐ-CP ngày 19/10/2020 quy định chi tiết một số điều của Luật Quản lý thuế, các sàn thương mại điện tử có trách nhiệm cung cấp đầy đủ, chính xác và đúng hạn theo quy định cho cơ quan thuế thông tin của thương nhân, tổ chức, cá nhân có tiến hành một phần hoặc toàn bộ quy trình mua bán hàng hóa, dịch vụ trên sàn giao dịch thương mại điện tử bao gồm: tên người bán hàng, mã số thuế hoặc số định danh cá nhân hoặc chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu, địa chỉ, số điện thoại liên lạc; doanh thu bán hàng thông qua chức năng đặt hàng trực tuyến của sàn.
+
+Việc cung cấp thông tin được thực hiện định kỳ hàng quý chậm nhất vào ngày cuối cùng của tháng đầu quý sau, bằng phương thức điện tử, qua Cổng thông tin điện tử của Tổng cục Thuế theo định dạng dữ liệu do Tổng cục Thuế công bố.
+
+
+
+Theo Điều 19, Nghị định số 125/2020/NĐ-CP, việc không cung cấp hoặc cung cấp không chính xác thông tin liên quan đến tài sản, quyền, nghĩa vụ về tài sản của người nộp thuế do mình nắm giữ; tài khoản của người nộp thuế tại tổ chức tín dụng, kho bạc nhà nước sẽ bị xử phạt từ 6 - 16 triệu đồng.
+
+Theo đại diện Tổng cục Thuế, trường hợp các sàn cung cấp thông tin không đúng và thậm chí dẫn đến tiếp tay cho tổ chức, cá nhân trên sàn trốn thuế sẽ bị liên đới chịu trách nhiệm. Do đó, việc cung cấp thông tin của các sàn thương mại điện tử phải đảm bảo theo đúng quy định của Bộ Công Thương.
+
+Bên cạnh đó, các sàn thương mại điện tử đều phải có trách nhiệm lưu giữ thông tin của các cá nhân kinh doanh trên sàn để phối hợp với cơ quan thuế trong quản lý thu thuế; đồng thời, phải có trách nhiệm trong quản lý tiêu dùng, tránh hàng giả, bảo vệ quyền lợi người tiêu dùng.
+
+Tuy nhiên trong thời gian qua, thông tin các sàn thương mại điện tử cung cấp chưa đầy đủ. Vì trong một thời gian dài, các sàn chưa phải thực hiện nghĩa vụ cung cấp thông tin cho cơ quan thuế và cơ quan quản lý nhà nước khác thường xuyên liên tục, dẫn đến việc lưu giữ thông tin chưa tốt và cung cấp thông tin chưa được xác thực và chưa đầy đủ.
+
+"Trong thời gian tới, Bộ Tài chính sẽ phối hợp Bộ Công Thương để có những giải pháp yêu cầu các sàn thương mại điện tử chấn chỉnh ngay việc lưu giữ thông tin đầy đủ và có thông tin xác thực cung cấp cho cơ quan quản lý Nhà nước", đại diện Tổng cục Thuế nhấn mạnh.
+
+Sau khi các sàn thương mại điện tử cung cấp thông tin về doanh thu của tổ chức, cá nhân kinh doanh qua sàn, cơ quan thuế sẽ lựa chọn các tổ chức, doanh nghiệp, cá nhân có dấu hiệu rủi ro trong kê khai doanh thu, để giao về cho cơ quan thuế địa phương quản lý trực tiếp thuế các tổ chức, cá nhân này để đối chiếu doanh thu.
+
+Nếu doanh thu kê khai chưa đầy đủ thì cơ quan thuế yêu cầu kê khai, nếu chưa có đăng ký kê khai thì yêu cầu đăng ký kê khai, nộp thuế.
+
+Theo đó, các trường hợp rủi ro bao gồm: không có thông tin trên hệ thống của cơ quan thuế, chưa thấy kỳ kê khai đều đặn, các tổ chức, cá nhân chưa đăng ký thuế, hoặc không có thông tin về mã số thuế.
+
+Bên cạnh đó, cơ quan thuế cũng yêu cầu các sàn thương mại điện tử cung cấp thông tin về địa chỉ, nơi cư trú của tổ chức, cá nhân đó và giao về cơ quan thuế địa phương để giám sát, quản lý.
+
+"Việc các sàn thương mại điện tử cung cấp thông tin chính xác sẽ là cơ sở dữ liệu quan trọng để cơ quan thuế rà soát, đối chiếu và thu thuế đối với các tổ chức, cá nhân kinh doanh qua các sàn này, góp phần hạn chế tình trạng thất thu thuế", đại diện Tổng cục Thuế nhấn mạnh.

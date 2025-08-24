@@ -1,0 +1,47 @@
+Từ ngày mai (1/7), toàn hệ thống ngân hàng vận hành nhận diện sinh trắc học trong các giao dịch thanh toán điện tử theo Quyết định số 2345/QĐ-NHNN. Ngày nghỉ cuối tuần (30/6), nhân viên ngân hàng vẫn có mặt tại quầy cài đặt và hướng dẫn thao tác cho các khách hạn ít am hiểu về công nghệ.
+
+Theo cập nhật của VnEconomy, dù là chủ nhật (30/6) nhưng nhiều ngân hàng vẫn huy động lực lượng cán bộ có mặt tại các quầy kệ, điểm giao dịch để cài đặt nhận diện sinh trắc học cho các khách hàng hạn chế tiếp cận công nghệ. Hoạt động này nhằm thực hiện Quyết định số 2345/QĐ-NHNN ngày 18/12/2023 (Quyết định 2345) về triển khai các giải pháp an toàn, bảo mật trong thanh toán trực tuyến và thanh toán thẻ ngân hàng có hiệu lực từ 1/7/2024.
+
+Một trong những nội dung chính của Quyết định 2345 là mọi giao dịch có giá trị trên 10 triệu đồng hoặc tổng giá trị thanh toán trong ngày vượt 20 triệu đồng phải áp dụng một trong các biện pháp xác thực sinh trắc học. Nhiệm vụ của các ngân hàng là nâng cấp cơ sở hạ tầng dữ liệu để đấu nối luồng thông tin với hệ thống cơ sở dữ liệu về của Bộ Công an qua căn cước công dân gắn chíp nhằm xác thực danh tính mỗi chủ tài khoản, hạn chế những giao dịch không chính chủ do kẻ xấu chiếm đoạt.
+
+
+
+“Các nạn nhân thường bị thao túng tâm lý nên dễ dàng nghe theo các yêu cầu của kẻ xấu, kể cả chuyển hết tiền trong tài khoản. Do vậy, có những người đã bị mất những số tiền rất lớn. Kẻ xấu thường sử dụng thủ đoạn dọa dẫm về pháp lý, nhắm vào các phụ nữ lớn tuổi – những người dễ bị ảnh hưởng tâm lý khi bị cáo buộc vi phạm pháp luật”
+
+ÔngVũ Ngọc Sơn, Trưởng ban Nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế, Hiệp hội An ninh mạng Quốc gia
+
+Tại BIDV, rất đông người lớn tuổi, người ít am hiểu công nghệ có mặt tại điểm giao dịch để cán bộ ngân hàng hướng dẫn cài đặt và thực hành các thao tác  chuyển tiền khi cần nhận diện sinh trắc học theo quy định của Quyết định 2345.
+
+Lãnh đạo Agribank cho biết từ mấy tháng nay, ngân hàng đã triển khai nhiều giải pháp kỹ thuật như xây dựng, thu thập và làm sạch cơ sở dữ liệu sinh trắc học, dữ liệu tích hợp trong thẻ căn cước công dân gắn chíp đối với khách hàng.
+
+Ngay trong tháng 6/2024, toàn bộ hệ thống xác thực kết nối trực tuyến với Bộ Công an được Agribank đưa vào vận hành, các ứng dụng xác thực được hoàn thiện để sẵn sàng áp dụng quy định mới.
+
+Theo ghi nhận của VnEconomy trong ngày cuối tuần, trước 3 ngày Quyết định 2345 có hiệu lực, nhiều điểm giao dịch của các ngân hàng đều làm tăng ca nhằm hỗ trợ người dân thực hiện xác thực sinh trắc học.
+
+"Ngân hàng khuyến khích khách hàng chủ động thực hiện cài đặt trên ứng dụng. Tuy nhiên, trong một số trường hợp khách hàng không thể tự thực hiện có thể đến trực tiếp chi nhánh hoặc phòng giao dịch BIDV gần nhất để được hỗ trợ", đại diện BIDV nói.
+
+Đại diện Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) cho biết tùy mức độ khách hàng có nhu cầu hỗ trợ cài đặt xác thực sinh trắc học tại từng khu vực khác nhau mà các chi nhánh chủ động bố trí nhân sự phục vụ khách hàng tối đa.
+
+Trước đó, các ngân hàng đã liên tục thông báo và hướng dẫn khách hàng cài đặt sinh trắc học. Các bước cài đặt trên ứng dụng ngân hàng phổ biến bao gồm: Chụp hai mặt của căn cước công dân gắn chíp; đọc thông tin trên căn cước công dân theo hướng dẫn và chụp ảnh khuôn mặt để hoàn tất cài đặt.
+
+Ngân hàng Nhà nước cũng đã có công văn số 5262/NHNN-CNTT về hướng dẫn triển khai Quyết định 2345. Trong đó nêu rõ nhiệm vụ các ngân hàng cần chuẩn bị sẵn phương án, kênh hotline và bố trí cán bộ trực 24/7 để hướng dẫn, hỗ trợ kịp thời khách hàng đăng ký, sử dụng thông tin xác thực sinh trắc học. Đồng thời đảm bảo an ninh, an toàn thông tin, dữ liệu khách hàng, tuân thủ đúng quy định của pháp luật về bảo vệ dữ liệu cá nhân và các quy định của pháp luật về bảo đảm an ninh, an toàn hệ thống thông tin.
+
+Theo ý kiến của nhiều chuyên gia, Quyết định số 2345 là giải pháp công nghệ đột phá đối với công tác an ninh, an toàn trong giao dịch trực tuyến, trong bối cảnh tội phạm công nghệ cao ngày càng diễn biến phức tạp với nhiều thủ đoạn lừa đảo tinh vi, đặc biệt là thao túng tâm lý.
+
+
+
+"Khoảng 70% số lượng giao dịch thanh toán của khách hàng cá nhân tại Việt Nam có giá trị dưới 1 triệu đồng, các giao dịch trên 10 triệu đồng chỉ chiếm khoảng 11% tổng số giao dịch và số người có giao dịch trên 20 triệu đồng/ngày cũng chưa đến 1%".
+
+ÔngPhạm Tiến Dũng, Phó Thống đốc Ngân hàng Nhà nước
+
+Theo thống kê của Bộ Công an, đến hết năm 2023, bộ này cấp hơn 84,7 triệu căn cước công dân gắn chip và 70,2 triệu tài khoản VNeID, bảo đảm dữ liệu theo phương châm: "đúng, đủ, sạch, sống". Đây là nguồn dữ liệu đầu vào quan trọng, giúp ngành ngân hàng triển khai định danh, xác minh chính xác khách hàng.
+
+Khi nhận diện sinh trắc học đối với các giao dịch chuyển tiền, tất cả thông tin của người chuyển tiền đều phải chính chủ, theo đánh giá của các chuyên gia công nghệ là loại bỏ hầu hết các nguy cơ giả mạo đối với các giao dịch hạn mức 10 triệu - 20 triệu đồng như nói trên.
+
+Một câu hỏi đặt ra là: khi đặt hạn mức trên, có phiền hà đối với người dùng hay không?
+
+Tuy nhiên, không phải ai cũng có căn cước công dân gắn chíp cũng như đủ kỹ năng về công nghệ để thực hiện xác thực sinh trắc học. Do đó, với những trường hợp không có căn cước công dân gắn chíp hoặc là người nước ngoài hoặc sử dụng điện thoại không hỗ trợ NFC, khách hàng phải thực hiện đăng ký 1 lần duy nhất thông tin sinh trắc học tại quầy với ngân hàng, sau đó khách hàng có thể thực hiện giao dịch thông qua ứng dụng Mobile Banking/ Internet Banking, không phải ra quầy.
+
+Có một thực tế cho thấy khá nhiều người chưa có căn cước công dân gắn chip thì rất có thể chưa có dữ liệu tại Bộ Công an và nếu vậy, cũng  không có dữ liệu tại ngân hàng. Vì vậy, dù có ra quầy ngân hàng đăng ký như hướng dẫn tại Quyết định 2345 thì vẫn chưa thể hoàn thiện xác thực. Với trường hợp này, theo các cán bộ ngân hàng, vẫn tiến hành làm thủ tục xác thực tại ngân hàng, sau này khi hoàn thiện căn cước công dân sẽ bổ sung sau. Tuy nhiên, số lượng đối tượng khách hàng ở dạng này là không nhiều.
+
+Đại diện Agribank cho biết trong thời gian tới, khi Bộ Công an cung cấp dịch vụ định danh và xác thực điện tử, các ngân hàng sẽ triển khai tích hợp ứng dụng Mobile Banking/ Internet Banking với hệ thống định danh và xác thực điện tử để cho phép khách hàng đăng ký thông tin sinh trắc học thông qua tài khoản định danh điện tử do Bộ Công an cấp.

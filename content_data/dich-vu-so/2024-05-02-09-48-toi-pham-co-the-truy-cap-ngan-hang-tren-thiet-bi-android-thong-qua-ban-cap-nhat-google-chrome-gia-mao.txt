@@ -1,0 +1,21 @@
+Theo đó, đây là phần mềm độc hại Trojan (một loại mã hoặc phần mềm độc hại nhưng được ẩn dưới lớp vỏ của các phần mềm hợp pháp), được đặt tên là "Brokewell". Phần mềm này có thể lấy dữ liệu người dùng, theo dõi người dùng và thậm chí cho phép kẻ tấn công có toàn quyền truy cập từ xa vào các thiết bị Android.
+
+“Brokewell đặt ra mối đe dọa đáng kể cho ngành ngân hàng, cung cấp cho kẻ tấn công quyền truy cập từ xa vào tất cả tài sản có sẵn thông qua ngân hàng di động”, công ty bảo mật Hà Lan ThreatFabric cho biết lý do vì sao Brokewell được xếp vào trojan.
+
+Theo trang Phone Arena, phần mềm độc hại được trang bị “cả khả năng đánh cắp dữ liệu và điều khiển từ xa”. Nó được ngụy trang dưới dạng bản cập nhật cho phiên bản Google Chrome mới, thậm chí sử dụng thiết kế trực quan tương tự như lời nhắc cài đặt Chrome hợp pháp để tránh bị người dùng nghi ngờ. Mặc dù có một số lỗi ngữ pháp rõ ràng – dấu hiệu phổ biến cho các loại lừa đảo này, thế nhưng, người dùng thường ít khi để ý.
+
+Được biết, phần mềm độc hại sử dụng kỹ thuật được gọi là kỹ thuật "lớp phủ". Một màn hình giả được đặt trên một ứng dụng được nhắm mục tiêu (chẳng hạn như ứng dụng ngân hàng) và ghi lại thông tin đăng nhập, bao gồm tên người dùng và mật khẩu của người dùng cho một ứng dụng cụ thể, sau đó tin tặc sẽ tước quyền làm chủ thiết bị để truy câp vào các ngân hàng.
+
+Điều tồi tệ là Brokewell dường như đang được các tội phạm phát triển tích cực và nhận được các bản cập nhật thường xuyên. ThreatFabric đã truy tìm phần mềm độc hại này từ một hacker tên là Baron Samedit Marais, người được cho là đang bán nó cùng với một loạt công cụ độc hại khác thông qua một trang web có tên Brokewell Cyber Labs.
+
+Công ty cho biết: “Chúng tôi dự đoán sự phát triển hơn nữa của dòng phần mềm độc hại này vì chúng tôi đã quan sát thấy các bản cập nhật gần như hàng ngày của phần mềm độc hại này".
+
+Phần mềm độc hại trên Android không phải là hiếm. Mới đầu tháng này, một số tin tặc quốc tế đã bị phát hiện đang chèn các tập lệnh vào các trang web để hiển thị các lỗi cập nhật Chrome giả nhằm lây nhiễm phần mềm độc hại cho các thiết bị.
+
+Để bảo vệ bản thân khỏi phần mềm độc hại trên Android, người dùng cần lưu ý hết sức cẩn thận khi tải xuống và cài đặt bất kỳ bản cập nhật hoặc ứng dụng mới nào.
+
+Phần mềm độc hại này ghi lại tất cả các thao tác chạm, nhập văn bản, vuốt, ứng dụng của người dùng và ghi lại toàn bộ thông tin được hiển thị. Dữ liệu này được gửi đến máy chủ của bọn tội phạm, điều đó có nghĩa dữ liệu cá nhân đều bị đánh cắp.
+
+Vì mọi sự kiện đều bị trojan ghi lại nên tất cả các ứng dụng được tải xuống trên điện thoại đều dễ bị tấn công. Sau khi phần mềm độc hại đánh cắp thông tin xác thực của người dùng điện thoại, kẻ tấn công có thể chiếm quyền kiểm soát điện thoại từ xa.
+
+Vì vậy, nếu nhận được bản cập nhật cho trình duyệt Chrome dành cho Android, hãy bỏ qua bản cập nhật đó và trực tiếp truy cập ứng dụng thông qua Cửa hàng Google Play để cập nhật.

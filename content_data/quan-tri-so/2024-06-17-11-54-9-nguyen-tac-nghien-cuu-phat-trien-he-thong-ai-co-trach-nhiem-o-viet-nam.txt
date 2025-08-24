@@ -1,0 +1,61 @@
+Thứ trưởng Bộ Khoa học và Công nghệ Bùi Thế Duy vừa ký ban hành Quyết địnhhướng dẫn một số nguyên tắc về nghiên cứu, phát triển các hệ thống AI có trách nhiệm.
+
+Tài liệu hướng dẫn nêu ra một số nguyên tắc chung cần chú ý trong nghiên cứu, phát triển các hệ thống AI một cách có trách nhiệm và khuyến nghị tự nguyện tham khảo, áp dụng trong nghiên cứu, thiết kế, phát triển, cung cấp các hệ thống AI.
+
+Tài liệu hướng dẫn nhằm thúc đẩy sự quan tâm của các bên liên quan trong việc nghiên cứu, phát triển và sử dụng các hệ thống/ứng dụng AI ở Việt Nam một cách có trách nhiệm.
+
+Cùng với đó thúc đẩy việc nghiên cứu, phát triển và sử dụng các hệ thống/ứng dụng AI một cách an toàn và có trách nhiệm, đồng thời hạn chế tối đa các ảnh hưởng tiêu cực cho con người và cộng đồng. Thúc đẩy việc chia sẻ kinh nghiệm trong hoạt động nghiên cứu, phát triển và sử dụng các hệ thống/ứng dụng AI nhằm đạt được sự tin tưởng của người dùng và xã hội đối với AI cũng chính là tạo điều kiện thuận lợi cho việc nghiên cứu, phát triển AI ở Việt Nam.
+
+Theo Bộ Khoa học và Công nghệ, các hệ thống AI được đánh giá sẽ mang lại các lợi ích to lớn cho con người, xã hội và nền kinh tế Việt Nam thông qua việc hỗ trợ, giải quyết các vấn đề khó khăn mà con người, cộng đồng đang phải đối mặt.
+
+Tuy nhiên, song song với quá trình đó, cần nghiên cứu, có biện pháp giảm thiểu các rủi ro trong quá trình phát triển, sử dụng AI; và cân đối các yếu tố kinh tế, đạo đức và pháp lý liên quan.
+
+Vì vậy, các cơ quan chuyên môn cần nghiên cứu, xây dựng các tiêu chuẩn, hướng dẫn để định hướng kể cả đó là các quy định mềm và không có tính ràng buộc.
+
+Bên cạnh đó, việc chia sẻ, trao đổi thông tin về các quy trình, các biện pháp thực hành tốt giữa các bên liên quan (như nhà phát triển, nhà cung cấp dịch vụ, người dùng) cũng sẽ thúc đẩy sự đồng thuận để gia tăng lợi ích từ các hệ thống AI và kiểm soát được các rủi ro.
+
+Trên tinh thần đó, Bộ Khoa học và Công nghệ cho rằng việc nghiên cứu, phát triển các hệ thống AI ở Việt Nam cần dựa trên 6 quan điểm cơ bản.
+
+Thứ nhất, hướng đến một xã hội lấy con người làm trung tâm, mọi người được hưởng những lợi ích từ cuộc sống cũng như từ các hệ thống AI.
+
+Thứ hai, đảm bảo sự cân bằng hợp lý giữa lợi ích và rủi ro của các hệ thốngAI. Theo đó phát huy lợi ích của AI thông qua các hoạt động nghiên cứu, phát triển và đổi mới sáng tạo; đồng thời giảm thiểu nguy cơ xâm phạm quyền hoặc lợi ích hợp pháp của các tổ chức, cá nhân từ các hệ thống AI.
+
+Thứ ba, đảm bảo các hoạt động nghiên cứu, phát triển các hệ thống AI dựa trên các công nghệ hoặc kỹ thuật cụ thể nhưng vẫn đảm bảo tính trung lập về công nghệ và các nhà phát triển cũng không bị ảnh hưởng bởi sự phát triển quá nhanh của các công nghệ liên quan đến AI trong tương lai.
+
+Thứ tư, ở giai đoạn hiện nay, tạm thời xác định rằng các văn bản có thể ở dạng hướng dẫn, không có tính ràng buộc và khuyến khích xây dựng, áp dụng các tiêu chuẩn, quy trình thực hành dựa trên các khuyến nghị quốc tế làm nền tảng để thúc đẩy nghiên cứu, phát triển và sử dụng các hệ thống AI.
+
+Thứ năm, trong mọi trường hợp, khuyến khích việc trao đổi, thảo luận với sự tham gia của các bên liên quan đến hệ thống AI cho dù việc nghiên cứu, phát triển các hệ thống AI trong các lĩnh vực có các đặc điểm, cách thức sử dụng và lợi ích, rủi ro khác nhau.
+
+Thứ sáu, các nguyên tắc, hướng dẫn sẽ tiếp tục được nghiên cứu, cập nhật để phù hợp với tình hình thực tiễn.
+
+Trong bộ tài liệu hướng dẫn, Bộ Khoa học và Công nghệ đã đưa ra 9 nguyên tắc nghiên cứu, phát triển các hệ thống AI có trách nhiệm và hướng dẫn thực hiện.
+
+Thứ nhất,tinh thần hợp tác, thúc đẩy đổi mới sáng tạo. Bộ Khoa học và Công nghệ cho rằng nhà phát triển cần chú ý đến khả năng kết nối và tương tác của các hệ thống AI. Các nhà phát triển cần xem xét tính liên kết và khả năng tương tác giữa các hệ thống AI của mình với các hệ thống khác thông qua việc xem xét tính đa dạng của các hệ thống AI nhằm tăng cường lợi ích của hệ thống thông qua quá trình kết nối các hệ thống AI và tăng cường sự phối hợp để kiểm soát rủi ro.
+
+Thứ hai,nhà phát triển cần chú ý đến việc kiểm soát đầu vào/đầu ra của hệ thống AI và khả năng giải thích các phân tích có liên quan. Theo đó, các hệ thống AI tuân theo nguyên tắc này thường là các hệ thống có thể ảnh hưởng đến tính mạng, thân thể, quyền riêng tư hoặc tài sản của người dùng hoặc bên thứ ba liên quan.
+
+Khi đó, các nhà phát triển cần chú ý đến khả năng xác định rõ các đầu vào và đầu ra của hệ thống AI cũng như khả năng giải thích liên quan dựa trên các đặc điểm của công nghệ được áp dụng và cách sử dụng chúng để đảm bảo có sự tin tưởng của xã hội, bao gồm cả người dùng.
+
+Thứ ba,nhà phát triển cần chú ý đến khả năng kiểm soát hệ thống AI. Để đánh giá các rủi ro liên quan đến khả năng kiểm soát của hệ thống, các nhà phát triển cần thực hiện đánh giá trước (là quá trình đánh giá liệu hệ thống có đáp ứng với các yêu cầu kỹ thuật và tiêu chuẩn tương ứng). Một trong những phương pháp đánh giá rủi ro là tiến hành thử nghiệm trong một không gian riêng như trong phòng thí nghiệm hoặc môi trường thử nghiệm nơi đã có các biện pháp đảm bảo an ninh, an toàn trước khi đưa vào áp dụng thực tế.
+
+Ngoài ra, để đảm bảo khả năng kiểm soát hệ thống AI, các nhà phát triển nên chú ý đến việc giám sát hệ thống (có công cụ đánh giá/giám sát hoặc hiệu chỉnh/cập nhật dựa trên các phản hồi của người dùng) và các biện pháp ứng phó (như ngắt hệ thống, ngắt mạng…) được thực hiện bởi con người hay các hệ thống AI đáng tin cậy khác.
+
+Thứ tư,nhà phát triển cần đảm bảo hệ thống AI sẽ không gây tổn hại đến tính mạng, thân thể hoặc tài sản của người dùng hoặc bên thứ ba kể cả thông qua trung gian. Về cơ bản, khuyến khích nhà phát triển tham khảo các tiêu chuẩn quốc tế có liên quan và đặc biệt lưu ý các khả năng đầu ra hoặc chương trình thay đổi do quá trình huấn luyện hệ thống AI.
+
+Thứ năm,các nhà phát triển cần chú ý đến tính bảo mật của hệ thống AI. Bên cạnh việc tuân thủ các văn bản, hướng dẫn và thực hiện các biện pháp bảo mật thông tin theo quy định, các nhà phát triển cần chú ý đến độ tin cậy (nghĩa là liệu các hoạt động có được thực hiện như dự định và không bị ảnh hưởng bởi bên thứ ba một cách bất hợp pháp) và khả năng chống chịu các dạng tấn công hoặc tai nạn vật lý của hệ thống AI.
+
+Đồng thời cần đảm bảo tính bảo mật, sự toàn vẹn và tính khả dụng của các thông tin cần thiết liên quan đến sự an toàn thông tin của hệ thống AI. Thực hiện đánh giá trước trước nhằm xác định và kiểm soát các rủi ro liên quan đến an toàn của hệ thống AI.
+
+Thứ sáu,nhà phát triển cần đảm bảo hệ thống AI không vi phạm quyền riêng tư của người dùng hoặc bên thứ ba. Quyền riêng tư được đề cập trong nguyên tắc này bao gồm quyền riêng tư về không gian (sự yên bình trong cuộc sống cá nhân), quyền riêng tư về thông tin (dữ liệu cá nhân) và sự bí mật của việc thông tin liên lạc.
+
+Các nhà phát triển cần áp dụng các quy định, hướng dẫn hiện hành; có thể tham khảo các tiêu chuẩn, hướng dẫn quốc tế về quyền riêng tư; và thực hiện các thêm hướng dẫn, trong đó đặc biệt lưu ý các khả năng đầu ra hoặc chương trình thay đổi do quá trình huấn luyện hệ thống AI. Thực hiện đánh giá trước các rủi ro xâm phạm quyền riêng tư và tiến hành đánh giá trước các tác động đến quyền riêng tư (từ khi thiết kế).
+
+Thứ bảy,khi phát triển các hệ thống AI có liên quan tới con người, các nhà phát triển phải đặc biệt quan tâm đến việc tôn trọng quyền và phẩm giá con người của các cá nhân liên quan.
+
+Trong phạm vi có thể, tùy theo đặc điểm của công nghệ được áp dụng, các nhà phát triển cần thực hiện các biện pháp để đảm bảo không gây ra sự phân biệt đối xử, không công bằng do thiên vị (định kiến) trong dữ liệu khi huấn luyện hệ thống AI.
+
+Các nhà phát triển cần thực hiện các biện pháp phòng ngừa để đảm bảo hệ thống AI không vi phạm các giá trị của con người, đạo đức xã hội theo các nguyên tắc cơ bản của Việt Nam.
+
+Thứ tám,nhà phát triển cần đảm bảo rằng hệ thống AI sẽ hỗ trợ người dùng và tạo điều kiện cho họ cơ hội lựa chọn theo cách phù hợp.
+
+Thứ chín,nhà phát triển cần thực hiện trách nhiệm giải trình của mình đối với các bên liên quan bao gồm cả người dùng hệ thống AI. Các nhà phát triển cần thực hiện trách nhiệm giải trình đối với các hệ thống AI mà họ đã phát triển để đảm bảo niềm tin của người dùng.

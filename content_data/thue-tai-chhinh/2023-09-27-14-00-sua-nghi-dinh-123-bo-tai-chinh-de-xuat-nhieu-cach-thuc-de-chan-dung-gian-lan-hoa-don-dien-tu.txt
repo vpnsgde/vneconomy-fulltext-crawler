@@ -1,0 +1,59 @@
+Bộ Tài chính đang xây dựng dự thảo Nghị định sửa đổi, bổ sung một số điều của Nghị định 123/2020/NĐ-CP ngày 19/10/2020 quy định về hóa đơn, chứng từ (Nghị định số 123) và lấy ý kiến của các đối tượng chịu tác động. Dự kiến văn bản sẽ ảnh hưởng đến tất cả các doanh nghiệp.
+
+Đáng chú ý, trong tờ trình gửi Thủ tướng Chính phủ, Bộ Tài chính đề xuất bổ sung quy định liên quan giải pháp pháp nhằm phòng ngừa, hạn chế gian lận khi doanh nghiệp đăng ký sử dụng hoá đơn điện tử và trong quá trình sử dụng hoá đơn điện tử, quy định về trách nhiệm của tổ chức cung cấp dịch vụ hóa đơn điện tử
+
+Điều 15 Nghị định số 123 hiện quy định rõ về việc đăng ký sử dụng hóa đơn điện tử. Theo đó, doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh không thuộc đối tượng ngừng sử dụng hóa đơn theo quy định tại khoản 1 Điều 16 Nghị định này đăng ký sử dụng hóa đơn điện tử thông qua tổ chức cung cấp dịch vụ hóa đơn điện tử.
+
+
+
+"Qua rà soát dữ liệu hóa đơn điện tử trong công tác quản lý thuế, cơ quan thuế đã phát hiện nhanh một số trường hợp xuất hoá đơn điện tử với doanh số lớn “đột biến”. Ngoài ra cơ quan cảnh sát điều tra tại một số tỉnh cũng đã thực hiện điều tra một số vụ án liên quan gian lận xuất hóa đơn điện tử khống".
+
+Bộ Tài chính.
+
+Tuy nhiên, theo đánh giá của Bộ Tài chính, thực tế áp dụng hoá đơn điện tử thời gian qua phát sinh trường hợp do việc đăng ký thành lập doanh nghiệp quá dễ nên một số đối tượng thành lập doanh nghiệp không có hoạt động sản xuất, kinh doanh mà chỉ lấy pháp nhân, sau đó, đăng ký sử dụng hóa đơn điện tử qua mạng và thực hiện hành vi bán khống hóa đơn điện tử.
+
+Gần đây, Cục Thuế Quảng Trị phát hiện có sự chênh lệch “khủng” về doanh thu và thuế giá trị gia tăng. Qua kiểm tra, các mặt hàng xuất bán chủ yếu là đất, cát, đá, vận chuyển… đều là những mặt hàng rủi ro cao về thuế. Cơ quan thuế cũng phát hiện chênh lệch về doanh thu của một doanh nghiệp hơn 254,6 tỷ đồng và chênh lệch thuế giá trị gia tăng đầu ra là hơn 25,46 tỷ đồng.
+
+Trước những dấu hiệu bất thường trên, cơ quan thuế cùng chính quyền địa phương xác minh địa chỉ mà doanh nghiệp này đã đăng ký thì thấy đơn vị không còn hoạt động tại địa chỉ đăng ký cũng như không liên lạc được với người đại diện theo pháp luật của công ty.
+
+Trước những bất cập nêu trên, Bộ Tài chính đề xuất bổ sung tại Điều 15 các quy định phòng ngừa gian lận từ khâu đăng ký sử dụng hóa đơn theo hướng cơ quan thuế xác định nhân thân người đại diện theo pháp luật của doanh nghiệp tại cơ sở dữ liệu quốc gia về dân cư khi người nộp thuế đăng ký sử dụng hóa đơn lần đầu và khi người nộp thuế đăng ký thay đổi thông tin hoá đơn điện tử.
+
+Cụ thể, ở khâu đăng ký sử dụng hóa đơn điện tử, hệ thống của Tổng cục Thuế sẽ tự động đối chiếu thông tin về nhân thân người đại diện theo pháp luật, nhân thân của chủ hộ cá nhân tại Hệ thống Định danh và xác thực điện tử (VneID), trừ trường hợp người đại diện theo pháp luật là người nước ngoài.
+
+"Trường hợp kết quả xác thực người đại diện theo pháp luật khớp đúng thì cơ quan thuế sẽ chấp thuận thông báo sử dụng hóa đơn điện tử; trường hợp xác thực không khớp đúng hoặc không có thông tin hoặc thuộc diện rủi ro cao thì người nộp thuế thực hiện giải trình", Bộ Tài chính nêu rõ giải pháp.
+
+Còn đối với trường hợp thay đổi thông tin hoá đơn điện tử, cơ quan thuế giám sát tự động qua hệ thống VneID nêu trên. Trường hợp người nộp thuế thay đổi thông tin sử dụng hóa đơn điện tử nhưng không thay đổi thông tin đăng ký thuế, Cổng thông tin điện tử của Tổng cục Thuế gửi yêu cầu đề nghị người nộp thuế xác nhận qua địa chỉ thư điện tử hoặc điện thoại của chủ doanh nghiệp hoặc người đại diện theo pháp luật theo thông tin trong hồ sơ đăng ký thuế.
+
+Cũng trong tờ trình dự thảo, Bộ Tài chính cũng đề nghị sửa đổi, bổ sung quy định về ngừng sử dụng hóa đơn điện tử tại Điều 16 Nghị định 123. Theo quy định hiện hành có 7 trường hợp ngừng sử dụng hoá đơn điện tử.
+
+Một,doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh chấm dứt hiệu lực mã số thuế.Hai,doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh thuộc trường hợp cơ quan thuế xác minh và thông báo không hoạt động tại địa chỉ đã đăng ký.
+
+Ba,doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh thông báo với cơ quan quản lý nhà nước có thẩm quyền tạm ngừng kinh doanh.Bốn,doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh có thông báo của cơ quan thuế về việc ngừng sử dụng hóa đơn điện tử để thực hiện cưỡng chế nợ thuế.
+
+Năm,trường hợp có hành vi sử dụng hóa đơn điện tử để bán hàng nhập lậu, hàng cấm, hàng giả, hàng xâm phạm quyền sở hữu trí tuệ bị cơ quan chức năng phát hiện và thông báo cho cơ quan thuế.Sáu,trường hợp có hành vi lập hóa đơn điện tử phục vụ mục đích bán khống hàng hóa, cung cấp dịch vụ để chiếm đoạt tiền của tổ chức, cá nhân bị cơ quan chức năng phát hiện và thông báo cho cơ quan thuế.
+
+Bảy,trường hợp cơ quan đăng ký kinh doanh, cơ quan nhà nước có thẩm quyền yêu cầu doanh nghiệp tạm ngừng kinh doanh ngành, nghề kinh doanh có điều kiện khi phát hiện doanh nghiệp không có đủ điều kiện kinh doanh theo quy định của pháp luật.
+
+Tuy nhiên, theo quan sát của cơ quan thuế, thực tế trong thời gian qua đã phát sinh một số vụ án gian lận trong quá trình sử dụng hoá đơn điện tử liên quan hoàn thuế giá trị gia tăng.
+
+Do đó, để phòng chống gian lận trong quá trình sứ dụng hoá đơn điện tử và xuất phát từ thực tiễn, Bộ Tài chính đề xuất bổ sung thêm 5 trường hợp ngừng sử dụng hoá đơn điện tử.
+
+Thứ nhất,trường hợp cơ quan chức năng phát hiện và thông báo cho cơ quan thuế dấu hiệu doanh nghiệp được thành lập để thực hiện mua bán, sử dụng hóa đơn điện tử không hợp pháp hoặc sử dụng không hợp pháp hóa đơn điện tử.
+
+Thứ hai,người nộp thuế thuộc trường hợp giám sát trọng điểm về thuế và thuộc danh sách do cơ quan thuế xác định sau khi cơ quan thuế áp dụng các biện pháp giám sát theo quy định pháp luật về quản lý thuế.
+
+Người nộp thuế có dấu hiệu bất thường khác theo tiêu chí đánh giá rủi ro về thuế của cơ quan thuế.
+
+Thứ ba,trường hợp cơ quan thuế chuyển hồ sơ doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh sang cơ quan công an theo tin báo tội phạm.
+
+Thứ tư,hộ kinh doanh nộp thuế theo phương pháp kê khai chuyển đổi sang phương pháp khoán hoặc nộp thuế theo từng lần phát sinh.
+
+Thứ năm,người nộp thuế có văn bản đề nghị tạm ngừng sử dụng hóa đơn điện tử.
+
+Sau khi hoàn thiện thì sẽ có 12 trường hợp ngừng sử dụng hoá đơn điện tử.
+
+Như vậy, theo thống kê, về thủ tục của cơ quan thuế, có 5 trường hợp hệ thống của cơ quan thuế sẽ tự động ngừng việc sử dụng hoá đơn điện tử của doanh nghiệp; 4 trường hợp cơ quan thuế ban hành thông báo đề nghị người nộp thuế ngừng sử dụng hoá đơn điện tử.
+
+Còn lại 3 trường hợp cơ quan thuế đề nghị người nộp thuế giải trình hoặc bổ sung thông tin liên quan đến việc sử dụng hoá đơn điện tử trước khi quyết định ngừng sử dụng hoá đơn điện tử hoặc tiếp tục sử dụng hoá đơn điện tử.
+
+Cũng trong dự thảo này, Bộ Tài chính đề xuất sửa đổi, bổ sung thêm một loạt quy định về hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu với cơ quan thuế; chương trình hóa đơn may mắn; chứng từ ghi nhận giao dịch trong hoạt động kinh doanh casino, trò chơi điện tử có thưởng, giải trí có đặt cược; hóa đơn (trường hợp áp dụng, thời điểm lập, nội dung, tra cứu thông tin); biên lai, chứng từ, trách nhiệm của các bên liên quan…

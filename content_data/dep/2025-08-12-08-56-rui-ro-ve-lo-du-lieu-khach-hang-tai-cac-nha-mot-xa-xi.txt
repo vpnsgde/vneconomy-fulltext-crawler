@@ -1,0 +1,37 @@
+Tuần trước, Chanel đã công bố về một vụ rò rỉ dữ liệu ảnh hưởng đến khách hàng tại Mỹ, gia nhập vào danh sách ngày càng dài các tên tuổi trong ngành thời trang đang phải đối mặt với những cuộc tấn công dữ liệu tinh vi hơn bao giờ hết.
+
+Trong một bức thư gửi đến khách hàng, Chanel cho biết vào ngày 25/7, hãng đã “phát hiện một sự cố an ninh liên quan đến cơ sở dữ liệu của Chanel Inc. tại Mỹ, được lưu trữ bởi một nhà cung cấp dịch vụ bên thứ ba, trong đó một bên bên ngoài trái phép đã truy cập và lấy được một số dữ liệu khách hàng mà chúng tôi đang lưu giữ”.
+
+Người phát ngôn của Chanel xác nhận thông tin trên với WWD, đồng thời cho biết “cuộc điều tra cho thấy đã có hành vi truy cập trái phép vào cơ sở dữ liệu này. Không có phần mềm độc hại nào được cài vào hệ thống của chúng tôi, và hoạt động của công ty vẫn không bị ảnh hưởng”.
+
+Chanel nhấn mạnh rằng các quy trình ứng phó đã được kích hoạt ngay lập tức và “các chuyên gia an ninh mạng hàng đầu” đã được huy động để xử lý sự cố. Thương hiệu không phản hồi trước nhiều yêu cầu bình luận thêm.
+
+Cơ sở dữ liệu bị ảnh hưởng lưu trữ thông tin của những cá nhân đã liên hệ với trung tâm chăm sóc khách hàng của Chanel tại Mỹ, bao gồm tên, địa chỉ email, địa chỉ bưu điện và số điện thoại. “Không có thông tin nào khác nằm trong cơ sở dữ liệu. Những khách hàng bị ảnh hưởng đã được thông báo,” công ty cho biết.
+
+Khách hàng được khuyến cáo cần cảnh giác với các email hoặc cuộc gọi đáng ngờ và được nhắc rằng “Chanel sẽ không bao giờ liên hệ với bạn để yêu cầu mật khẩu hoặc thông tin nhạy cảm, hoặc gửi liên kết để xác minh danh tính của bạn thông qua các email, tin nhắn hay cuộc gọi không mong muốn”.
+
+Chanel đã trực tiếp xin lỗi, tuyên bố: “Chanel chân thành xin lỗi về sự cố này và muốn đảm bảo với quý khách rằng Chanel luôn coi trọng việc bảo vệ dữ liệu của khách hàng. An ninh dữ liệu và quyền riêng tư của khách hàng là ưu tiên hàng đầu của Chanel, và chúng tôi đã dành nhiều nguồn lực để ứng phó với tình huống này.”
+
+Sự cố này nằm trong số nhiều vụ tấn công lừa đảo và đánh cắp dữ liệu gần đây, thường nhắm vào cơ sở dữ liệu chăm sóc khách hàng được lưu trữ trên các nền tảng của bên thứ ba. Một số thương hiệu xa xỉ khác cũng đã bị ảnh hưởng.
+
+Thương hiệu trang sức Thụy Sĩ Cartier xác nhận hồi đầu năm rằng “một bên trái phép đã tạm thời truy cập vào hệ thống của chúng tôi”, làm lộ một số dữ liệu khách hàng, dù không có thông tin tài chính hay mật khẩu nào bị xâm phạm. Còn Victoria’s Secret đã tạm thời ngừng hoạt động trang thương mại điện tử vào tháng 5 sau một sự cố an ninh mạng, mà công ty này đã công bố trong cuộc họp báo cáo kết quả kinh doanh.
+
+Cổ phiếu của LVMH đã giảm 3,2% sau khi công bố vụ rò rỉ dữ liệu của Dior Hàn Quốc hồi tháng 1/2023, làm lộ thông tin liên hệ và chi tiết mua hàng của khách, nhưng chỉ được tiết lộ vào tháng 5/2025. Việc này vi phạm quy định bảo vệ dữ liệu của Hàn Quốc, khiến Dior đối mặt với khoản phạt tiềm tàng 30 triệu won (21.859 USD) và một cuộc điều tra của cơ quan quản lý.
+
+Vụ rò rỉ dữ liệu của Tiffany & Co. vào tháng 4/2025 - được báo cáo 39 ngày sau khi phát hiện và vụ việc tương tự của Louis Vuitton Hàn Quốc vào tháng 6/2025 - được báo cáo sau 24 ngày cũng bị Ủy ban Bảo vệ Thông tin Cá nhân (PIPC) đưa vào tầm ngắm.
+
+Nguyên nhân khiến các thương hiệu xa xỉ trở thành mục tiêu là đa chiều. “Tội phạm mạng lần theo dòng tiền, nhắm vào các công ty giá trị cao với dữ liệu quý và nguồn doanh thu lớn vì họ có khả năng trả tiền chuộc cao hơn,” ông Darren Williams, nhà sáng lập kiêm CEO của công ty an ninh mạng BlackFog, Inc., cho biết.
+
+Theo dữ liệu của BlackFog, hơn 95% các cuộc tấn công hiện nay liên quan đến đánh cắp dữ liệu, và với việc AI giúp nghiên cứu nạn nhân dễ dàng hơn bao giờ hết, các vụ tống tiền đang gia tăng mạnh.
+
+Mối đe dọa ngày càng gia tăng được phản ánh rõ qua dữ liệu mới. Theo báo cáo IBM Cost of a Data Breach 2025, chi phí trung bình cho một vụ rò rỉ dữ liệu tại Mỹ hiện đã lên tới 10,22 triệu USD, trong khi mức trung bình toàn cầu là 4,44 triệu USD.
+
+Các vụ rò rỉ liên quan đến công cụ “AI trong bóng tối” (shadow AI) — vốn đang ngày càng phổ biến — khiến chi phí tăng thêm trung bình 670.000 USD. Shadow AI là việc sử dụng các công cụ AI chưa được phê duyệt trong nội bộ doanh nghiệp, tạo ra những rủi ro bảo mật tiềm ẩn.
+
+Nhiều vụ rò rỉ dữ liệu trong số này liên quan đến kỹ thuật credential stuffing (tấn công thử hàng loạt thông tin đăng nhập). Tuy nhiên, các nhà mốt xa xỉ thường duy trì những hệ thống dự phòng — như mạng lưới sao lưu và máy chủ phản chiếu — giúp họ cách ly môi trường bị xâm nhập và duy trì hoạt động bình thường. Chanel nhấn mạnh rằng “không có phần mềm độc hại nào được cài vào hệ thống của chúng tôi, và hoạt động của công ty không bị ảnh hưởng,” cho thấy giá trị của hệ thống bảo vệ này.
+
+Với các nhà mốt xa xỉ xây dựng thương hiệu dựa trên tính độc quyền và dịch vụ cá nhân hóa, an ninh mạng giờ đây trở thành yếu tố then chốt định hình giá trị thương hiệu, đặc biệt khi các bot AI đang được sử dụng để thực hiện nhiều vụ tấn công hơn. Người phát ngôn của Chanel khẳng định: “Bảo mật dữ liệu và quyền riêng tư của khách hàng là ưu tiên hàng đầu của Chanel, và chúng tôi đã dành nguồn lực đáng kể để xử lý tình huống này”.
+
+Thương hiệu trang sức Thụy Sĩ Cartier, vốn cũng từng gặp sự cố rò rỉ dữ liệu vào đầu năm nay, cũng đưa ra cam kết tương tự, cho biết họ đã củng cố hệ thống phòng thủ và hợp tác với các chuyên gia hàng đầu.
+
+Tầm quan trọng của việc đối phó với các mối đe dọa mạng và ngăn chặn rò rỉ dữ liệu ngày càng tăng. Theo trao đổi với các nhà phân tích, chi phí cho an ninh mạng và bảo hiểm mạng hiện đã được tính vào các dự báo đầu tư trong ngành xa xỉ. Khả năng phục hồi hệ thống công nghệ thông tin và quản trị rủi ro kỹ thuật số giờ đây được đánh giá quan trọng ngang với chiến lược hàng hóa hay mở rộng địa lý trong mắt các nhà đầu tư.

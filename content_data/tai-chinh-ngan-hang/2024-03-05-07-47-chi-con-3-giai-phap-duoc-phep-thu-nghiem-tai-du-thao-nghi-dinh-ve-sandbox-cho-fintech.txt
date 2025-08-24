@@ -1,0 +1,39 @@
+Ngân hàng Nhà nước vừa trình Chính phủ Dự thảo Nghị định Quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng. Việc soạn thảo Nghị định này được Ngân hàng Nhà nước khởi động từ năm 2021, trải qua 7 phiên bản dự thảo.
+
+Tại Dự thảo mới nhất, các giải pháp Fintech trong lĩnh vực ngân hàng được phép thử nghiệm đã có sự thay đổi so với chính sách đã được thông qua.
+
+Cụ thể, tại Bộ hồ sơ đề nghị xây dựng Nghị định, các giải pháp được phép thử nghiệm bao gồm 6 giải pháp: (1) Cấp tín dụng trên nền tảng công nghệ; (2) chấm điểm tín dụng; (3) chia sẻ dữ liệu qua giao diện lập trình ứng dụng mở (Open API); (4) cho vay ngang hàng (P2P Lending); (5) ứng dụng công nghệ Blockchain trong hoạt động ngân hàng và (6) ứng dụng các công nghệ khác trong hỗ trợ hoạt động nghiệp vụ ngân hàng, mô hình hợp tác kinh doanh đổi mới sáng tạo phù hợp với mục tiêu của Cơ chế thử nghiệm.
+
+Tuy nhiên, Ngân hàng Nhà nước cho biết, căn cứ trên nguồn lực triển khai, ý kiến thẩm định lần 1 của Bộ Tư pháp và trên cơ sở rà soát các quy định pháp luật có liên quan, Dự thảo Nghị định lần thứ 7 chỉ còn quy định cho phép thử nghiệm đối với 3 giải pháp: (1) chấm điểm tín dụng; (2) chia sẻ dữ liệu qua giao diện lập trình ứng dụng mở (Open API); (3) cho vay ngang hàng (P2P Lending).
+
+Thời gian thử nghiệm các giải pháp Fintech tối đa 2 năm, tùy từng giải pháp và lĩnh vực cụ thể, tính từ thời điểm được Ngân hàng Nhà nước cấp Giấy chứng nhận tham gia Cơ chế thử nghiệm.
+
+Tùy thuộc vào các giải pháp Fintech cụ thể và đề xuất cụ thể của tổ chức đăng ký tham gia cơ chế thử nghiệm tại hồ sơ, Ngân hàng Nhà nước sẽ quyết định phạm vi hoạt động của các giải pháp Fintech thử nghiệm bao gồm nhưng không giới hạn một hoặc một số yếu tố sau: Về hạn mức giao dịch, về số lượng khách hàng tham gia sử dụng giải pháp.
+
+Tổ chức tín dụng được xem xét cấp Giấy chứng nhận tham gia cơ chế thử nghiệm khi giải pháp đáp ứng các tiêu chí sau.
+
+Thứ nhất,là giải pháp có nội dung kỹ thuật và nghiệp vụ mà quy định pháp lý hiện hành chưa hướng dẫn cụ thể, rõ ràng cho việc triển khai, áp dụng.
+
+Thứ hai,là giải pháp có tính đổi mới sáng tạo, đem lại lợi ích, giá trị gia tăng cho người sử dụng dịch vụ tại Việt Nam, đặc biệt là các giải pháp hỗ trợ và thúc đẩy mục tiêu phổ cập tài chính.
+
+Thứ ba,là giải pháp đã thiết kế, xây dựng được khung quản lý rủi ro, hạn chế tác động tiêu cực tới hệ thống ngân hàng và hoạt động ngân hàng - tiền tệ - ngoại hối; đã xây dựng phương án hợp lý về xử lý, khắc phục các rủi ro xảy ra trong quá trình thử nghiệm phù hợp.
+
+Thứ tư,là giải pháp đã được tổ chức tham gia Cơ chế thử nghiệm thực hiện các biện pháp rà soát, đánh giá đầy đủ trên các khía cạnh hoạt động và chức năng, công dụng, tính hữu ích.
+
+Thứ năm,là giải pháp có tính khả thi để có thể cung ứng ra thị trường sau khi hoàn thành quá trình thử nghiệm.
+
+Để được tham gia cơ chế thử nghiệm, giải pháp của các công ty Fintech cũng phải đáp ứng các tiêu chí quy định với tổ chức tín dụng và bổ sung các điều kiện sau.
+
+Công ty Fintech phải là pháp nhân được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam; không đang trong quá trình chia, tách, hợp nhất, sáp nhập, chuyển đổi, giải thể, phá sản theo quy định pháp luật; không thuộc nhóm tổ chức tín dụng đang được kiểm soát đặc biệt theo Luật Các tổ chức tín dụng.
+
+Người đại diện theo pháp luật, Tổng Giám đốc (Giám đốc) của tổ chức Fintech đăng ký tham gia Cơ chế thử nghiệm phải có bằng đại học trở lên về một trong các ngành kinh tế, quản trị kinh doanh, luật, công nghệ thông tin và có ít nhất hai (02) năm kinh nghiệm là người quản lý, người điều hành của tổ chức trong lĩnh vực tài chính, ngân hàng và không thuộc những đối tượng bị cấm theo quy định của pháp luật.
+
+Công ty cho vay ngang hàng (P2P Lending) được xem xét cấp Giấy chứng nhận tham gia Cơ chế thử nghiệm khi giải pháp đáp ứng các tiêu chí quy định với tổ chức tín dụng (khoản 1 Điều 9) và thoả mãn thêm 4 điều kiện sau.
+
+Thứ nhất,công ty cho vay ngang hàng được xem xét, thẩm định để cấp Giấy chứng nhận tham gia Cơ chế thử nghiệm là pháp nhân được thành lập và hoạt động hợp pháp trên lãnh thổ Việt Nam; không đang trong quá trình chia, tách, hợp nhất, sáp nhập, chuyển đổi, giải thể, phá sản theo quy định của pháp luật; tại Giấy phép thành lập hoặc Giấy chứng nhận đăng ký doanh nghiệp không có nội dung hoạt động kinh doanh dịch vụ cầm đồ.
+
+Thứ hai,người đại diện theo pháp luật, Tổng giám đốc (Giám đốc) của công ty cho vay ngang hàng đăng ký tham gia Cơ chế thử nghiệm không có án tích, không bị xử phạt vi phạm hành chính trong lĩnh vực tài chính, ngân hàng và an ninh mạng; không đồng thời là chủ sở hữu, người quản lý doanh nghiệp kinh doanh dịch vụ tài chính, tín dụng, cầm đồ, kinh doanh đa cấp, là chủ các dây hụi, họ, biêu, phường hoặc đang là thành viên Hội đồng quản trị, thành viên Hội đồng thành viên, thành viên Ban kiểm soát, Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó Giám đốc) và các chức danh tương đương của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán.
+
+Thứ ba,người thành lập, quản lý doanh nghiệp không được lợi dụng ưu thế quản lý, điều hành để thực hiện các hành vi xâm phạm tài sản, quyền và lợi ích hợp pháp của các bên tham gia.
+
+Thứ tư,người đại diện theo pháp luật, Tổng giám đốc (Giám đốc) của công ty cho vay ngang hàng đăng ký tham gia Cơ chế thử nghiệm phải có bằng đại học trở lên về một trong các ngành kinh tế, quản trị kinh doanh, luật, công nghệ thông tin và có ít nhất hai (02) năm kinh nghiệm là người quản lý, người điều hành của tổ chức trong lĩnh vực tài chính, ngân hàng và không thuộc những đối tượng bị cấm theo quy định của pháp luật.

@@ -1,0 +1,25 @@
+Trí tuệ nhân tạo (AI) hiện đóng vai trò quan trọng trong lĩnh vực kỹ thuật số và thúc đẩy đổi mới trên nhiều lĩnh vực cho mọi nền kinh tế. Theo dự báo của ngành, đến năm 2030, AI dự kiến sẽ “bơm” hơn 11 nghìn tỷ euro vào nền kinh tế toàn cầu. Người ta dự đoán AI và robot sẽ cùng nhau tạo ra khoảng 60 triệu việc làm mới trên toàn cầu vào năm 2025, nhấn mạnh tầm quan trọng đặc biệt của số hóa trong việc thúc đẩy tăng trưởng kinh tế.
+
+Trong nỗ lực phối hợp để bắt kịp các nhà lãnh đạo công nghệ toàn cầu, Liên minh Châu Âu đang tăng cường tích hợp và phát triển AI, đặc biệt chú trọng vào việc củng cố cơ sở hạ tầng và năng lực kỹ thuật số trên khắp các quốc gia thành viên.
+
+Velina Lilyanova, Nhà nghiên cứu tại Dịch vụ Nghiên cứu Nghị viện Châu Âu, nhấn mạnh châu Âu hiện còn áp dụng AI chậm chạp trong các lĩnh vực quan trọng như chăm sóc sức khỏe và hành chính công. Bà đánh giá điều này trong nghiên cứu gần đây có tựa đề đầu tư vào trí tuệ nhân tạo trong các kế hoạch phục hồi và phục hồi quốc gia.
+
+Cụ thể, bà chỉ ra các rào cản bao gồm pháp lý, vấn đề về niềm tin, thiếu kỹ năng kỹ thuật số và mức độ số hóa của các công ty còn thấp là những thách thức cản trở châu Âu phát triển AI rộng rãi hơn.
+
+Bà cho rằng: “Các quốc gia thành viên cần giải quyết những rào cản này để tạo điều kiện cho việc tiếp cận rộng rãi”, đồng thời nhấn mạnh sự cần thiết phải cải cách quy định, nâng cao kỹ năng số và thúc đẩy số hóa các công ty.
+
+Được biết, Ủy ban châu Âu đặt mục tiêu đầy tham vọng cho năm 2030: hướng tới 90% doanh nghiệp vừa và nhỏ (SME) của EU chuyển đổi số cơ bản và 75% công ty EU áp dụng các công nghệ như điện toán đám mây, AI và dữ liệu lớn.
+
+Theo Euronews, mỗi quốc gia có một chiến lược đầu tư AI khác nhau, từ tài trợ trực tiếp cho nghiên cứu và phát triển (R&D) đến hỗ trợ gián tiếp thông qua số hóa doanh nghiệp và dịch vụ công.
+
+Theo đó, kế hoạch phục hồi và phục hồi quốc gia (NRRP) của Tây Ban Nha hiện tập trung phân bổ kinh phí để tăng cường phát triển AI, nhằm đưa quốc gia này trở thành quốc gia dẫn đầu về đổi mới khoa học trí tuệ nhân tạo. Quốc gia này có kế hoạch tập trung phát triển các công cụ và ứng dụng AI bằng tiếng Tây Ban Nha để nâng cao năng suất trong khu vực tư nhân và hiệu quả trong hành chính công.
+
+Trong khi đó, Chương trình chiến lược AI của Ý (2022-2024), phù hợp với chiến lược AI toàn diện của EU, nhằm mục đích biến Ý trở thành trung tâm toàn cầu về nghiên cứu và đổi mới AI bằng cách nâng cao kỹ năng và thu hút các tài năng AI hàng đầu.
+
+Đan Mạch đang tận dụng hệ sinh thái R&D mạnh mẽ và cường độ kỹ thuật số cao giữa các doanh nghiệp vừa và nhỏ để tăng cường chiến lược kỹ thuật số quốc gia, kết hợp AI để cải thiện hành chính công thông qua cải cách.
+
+Theo một nghiên cứu năm 2023 của Papazoglu, Thế hệ Liên minh Châu Âu tiếp theo (NGEU) và Cơ sở phục hồi của họ (RRF) chiếm đến 70% tổng vốn đầu tư vào chuyển đổi kỹ thuật số. NGEU RRF cam kết đầu tư 117 tỷ euro cho chuyển đổi kỹ thuật số: 116,8 tỷ euro được phân bổ cho "Thập kỷ kỹ thuật số", 4,376 tỷ euro được dành cho các dự án AI. Trong đó, Ý dẫn đầu khoản đầu tư này với 42 tỷ euro được phân bổ.
+
+Theo Euronews, Ý hiện là nước đi đầu cho kế hoạch đầu tư AI, với 1,895 tỷ euro sẵn sàng chi cho các dự án liên quan đến AI. Tây Ban Nha theo sau với 1,2 tỷ euro. Hai quốc gia nam Âu chiếm 71% tổng vốn đầu tư được phân bổ cho các dự án liên quan đến AI trong NGEU RRF, theo sau hai quốc gia này lần lượt là Đan Mạch (8,7%), Tây Ban Nha (6,4%) và Ireland (5,2%).
+
+Nhìn chung, các nước châu u đang phân bổ trung bình gần 3% quỹ số hóa của họ cho các dự án AI. Trong khi đó, Thụy Điển, Hà Lan, Bỉ và Áo ở mức thấp hơn, cam kết chưa đến 1% ngân sách RRF của họ cho các dự án liên quan đến AI.

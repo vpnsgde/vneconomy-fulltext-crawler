@@ -1,0 +1,27 @@
+Ngân hàng Nhà nước vừa có báo cáo về hoạt động thanh toán và công tác đảm bảo an ninh an toàn trong thanh toán, định hướng triển khai năm 2024.
+
+Theo đó, Hệ thống thanh toán điện tử liên ngân hàng quốc gia (Hệ thống TTĐTLNH) đã mở rộng thành viên đến các tổ chức cung ứng dịch vụ thanh toán, Kho bạc Nhà nước tỉnh/thành phố trực thuộc Trung ương trên cả nước.
+
+Hơn 10 năm qua, số lượng và giá trị giao dịch thanh toán qua Hệ thống TTĐTLNH tăng bình quân hơn 18%/năm và đến cuối tháng 11/2023, bình quân mỗi ngày Hệ thống TTĐTLNH xử lý giá trị giao dịch thanh toán hơn 789 nghìn tỷ đồng/ngày.
+
+Hệ thống chuyển mạch tài chính và bù trừ điện tử (Hệ thống CMTC&BTĐT) mở rộng dịch vụ, có khả năng tích hợp, kết nối với các ngành, lĩnh vực khác, xử lý giao dịch thanh toán đa kênh, theo thời gian thực (real-time), để cung ứng các sản phẩm, dịch vụ thanh toán điện tử tiện ích cho khách hàng.
+
+Số lượng giao dịch qua Hệ thống CMTC&BTĐT tăng bình quân hơn 100%/năm và đến nay, bình quân mỗi ngày hệ thống xử lý hơn 20 triệu giao dịch.
+
+Mạng lưới ATM, POS được lắp đặt đến tất cả các huyện, thị xã, thành phố, tỉnh trên cả nước. Đến cuối tháng 11/2023, toàn thị trường có 21.014 máy ATM và 513.550 POS. Bên cạnh đó, mạng lưới chấp nhận thanh toán QR Code được phủ khắp hầu hết các cửa hàng tiện lợi, chuỗi phân phối bán lẻ, nhà hàng, khách sạn... và đang mở rộng dần tới các cơ sở y tế, bệnh viện, trường học.
+
+Đến tháng 11/2023, toàn hệ thống có hơn 180 triệu tài khoản thanh toán cá nhân, hơn 77,41% người trưởng thành Việt Nam có tài khoản thanh toán.
+
+Dịch vụ thẻ ngân hàng phát triển, đến cuối tháng 11 năm 2023, có 145,79 triệu thẻ đang lưu hành.
+
+Thanh toán qua Internet, Mobile và phương thức QR Code tăng trưởng nhanh, đến nay đã có 85 tổ chức cung ứng dịch vụ thanh toán  triển khai dịch vụ thanh toán qua Internet và 52 tổ chức thực hiện qua Mobile.
+
+Tăng trưởng về số lượng giao dịch thanh toán qua Internet và Mobile bình quân qua các năm lần lượt đạt mức 46,48% và 90,12%.
+
+Riêng thanh toán qua QR Code, từ năm 2018 đến nay, tăng trưởng về số lượng giao dịch qua QR Code bình quân năm đạt 471,13%.
+
+Đến tháng 11/2023, có khoảng 36,23 triệu ví điện tử đang hoạt động. Trong năm 2023, số lượng giao dịch bằng Ví điện tử của các tổ chức trung gian thanh toán được xử lý thành công ước đạt xấp xỉ 4,09 tỷ giao dịch tăng 47,15% so với năm 2022.
+
+Đến cuối tháng 9/2023, có hơn 5,6 triệu tài khoản đăng ký và sử dụng dịch vụ Mobile-Money; trong đó số lượng tài khoản của khách hàng đăng ký và sử dụng dịch vụ ở nông thôn, miền núi, vùng sâu, vùng xa, biên giới và hải đảo chiếm 70,12%. Tổng số lượng giao dịch qua tài khoản Mobile-Money của khách hàng (bao gồm giao dịch nạp/rút/chuyển tiền/thanh toán) là hơn 47 triệu giao dịch với tổng giá trị giao dịch gần 2.390 tỷ đồng.
+
+Đến hết năm 2023, có 51 tổ chức không phải là ngân hàng được Ngân hàng Nhà nước cấp Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán đang hoạt động, trong đó: Dịch vụ chuyển mạch tài chính và dịch vụ bù trừ điện tử (01 tổ chức); Dịch vụ cổng thanh toán điện tử (49 tổ chức); Dịch vụ hỗ trợ thu hộ, chi hộ (49 tổ chức); Dịch vụ hỗ trợ chuyển tiền điện tử (14 tổ chức) và Dịch vụ Ví điện tử (49 tổ chức).

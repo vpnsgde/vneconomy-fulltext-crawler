@@ -1,0 +1,33 @@
+TPBank đang từng bước thay đổi hình ảnh một ngân hàng truyền thống: Thay vì những đống giấy tờ, nhân viên phải cắm cúi với những con số, báo cáo, hồ sơ; thì tại "ngân hàng số hàng đầu" này không khác gì một công ty công nghệ, với tự động hóa, ứng dụng robot ở các khâu, có lực lượng người làm IT, lập trình hùng hậu.
+
+TỪ ĐIỂM GIAO DỊCH NGÂN HÀNG CHỈ CÓ...1 BẢO VỆ
+
+"Đổi điện thoại dù không thay số vẫn cũng bị khoá tài khoản", anh Nguyễn Vũ Thái (Hà Nội) bực dọc viết trên mạng xã hội khi tài khoản ngân hàng của anh đúng lúc cần dùng lại không thể thao tác được trên điện thoại mới. Anh Thái được ngân hàng hẹn đến trực tiếp điểm giao dịch gần nhất để giao dịch viên có thể mở khoá tài khoản. Trong khi thời điểm đó đã là 18h, các điểm giao dịch đã đóng cửa, mà anh lại đang rất cần có tài khoản ngân hàng ngay.
+
+"Ngay tối đó tôi ra ngay điểm giao dịch TPBank gần nhà, mở thẻ mới chưa hết 10 phút, thay vì đợi đến nhiều ngày. Không thể lúc nào cũng bị động, phụ thuộc với khung giờ làm việc của các điểm giao dịch truyền thống được", theo anh Thái, trải nghiệm mô hình giao dịch trực tuyến hoạt động 24/7 của TPBank LiveBank đã "cứu anh một bàn thua trông thấy".
+
+Với những khách hàng như anh Thái, ưu thế đặc biệt của LiveBank đã cho thấy sự ưu việt so với các điểm giao dịch truyền thống. Khách hàng có thể thực hiện nhanh chóng tất cả các giao dịch ngân hàng cơ bản mà không bị giới hạn bởi thời gian. Đây cũng là mô hình "thời thượng" trên thế giới, và TPBank được biết đến là ngân hàng tiên phong và duy nhất tới nay đưa LiveBank về thị trường Việt.
+
+Theo đó, ở mỗi điểm giao dịch TPBank LiveBank chỉ có… một nhân viên bảo vệ. Không cần giao dịch viên nhưng khách hàng vẫn có thể gửi tiền, chuyển tiền, gửi tiết kiệm, mở thẻ... nhờ hỗ trợ công nghệ với mức độ bảo mật tối đa. LiveBank đếm 100 triệu nộp vào trong 25 giây, tự động nhận biết loại tiền, không bắt khách hàng phải phân loại hay kê tiền, hoàn thành giao dịch nộp tiền trong một phút.
+
+Thậm chí, khách hàng không cần phải mang theo thẻ, chứng minh thư, không cần nhớ mã PIN, không lo bị lộ thông tin thẻ, cũng không cần phải ký tá giấy tờ vẫn có thể thực hiện nhờ hệ thống xác thực vân tay và xác thực khuôn mặt với Depth Camera có chức năng Liveness check tiên tiến nhất thế giới.
+
+…ĐẾN NGÂN HÀNG SỐ TỐT NHẤT VIỆT NAM
+
+Tập trung vào công nghệ để làm sợi dây gắn kết người tiêu dùng là hướng đi của TPBank khi nuôi tham vọng trở thành ngân hàng số hàng đầu Việt Nam. Trong đó LiveBank chỉ là một phần trong chiến lược số hóa mạnh mẽ của TPBank đã thực hiện trong suốt 8 năm qua.
+
+Sự khác biệt bên trong ngân hàng số hàng đầu như TPBank là việc làm chủ những công nghệ lõi, hướng đến một ngân hàng tương lai, thay vì phụ thuộc vào đối tác. Khi đó, điều dễ nhận thấy là các giao dịch diễn ra rất trơn tru, và mức độ bảo mật cho khách hàng ở mức tối đa.
+
+Sự tiên phong của TPBank ở việc họ đang làm thay đổi hình ảnh một ngân hàng truyền thống: Thay vì những đống giấy tờ, nhân viên phải cắm cúi với những con số, báo cáo, hồ sơ; thì tại TPBank không khác gì một công ty công nghệ, với tự động hóa, ứng dụng robot ở các khâu, có lực lượng người làm IT, lập trình hùng hậu. Tất cả nhờ đội ngũ nhân sự được tuyển chọn kĩ lưỡng với chất lượng cao.
+
+Với hàng trăm dự án, yêu cầu công nghệ phải triển khai trong năm, sao cho kịp thời hạn và đảm bảo chất lượng là thách thức lớn mà đội ngũ nhân sự tinh nhuệ trong lĩnh vực công nghệ của TPBank cũng như các đối tác phải hoàn thành.
+
+Đầu tư vào công nghệ là cuộc chơi lớn - cần sự đầu tư lớn. TPBank đã rót hàng ngàn tỷ đồng vào mục tiêu công nghệ hóa ngân hàng này. "Đầu tư cho công nghệ là một cuộc chơi tốn kém, song là đầu tư cho tương lai và "Người" đi tiên phong sẽ chiếm được thị phần tốt", ông Nguyễn Hưng - Tổng giám đốc TPBank từng chia sẻ.
+
+TPBank cũng là một trong số ít ngân hàng đang ứng dụng giải pháp deep learning (máy học sâu - PV) từ khá sớm, kết hợp cùng việc tự phát triển công nghệ AI và phân tích Big data, biến smartphone của khách hàng thành một ngân hàng di động. Hiện tại TPBank là đi đầu trong việc ứng dụng robot, có khả năng tạo ra trung bình 4 robot/tuần, mục tiêu trong năm 2020 sẽ đưa vào sử dụng gần 100 robot, có thể thay thế cho hàng trăm nhân sự. Những robot này đã được đó áp dụng ở nhiều đơn vị, tự động nhập, phân tích dữ liệu, không chỉ tiết kiệm thời gian mà giảm thiểu tối đa sai sót của con người.
+
+Theo đại diện TPBank, nhờ triển khai tự động hóa và số hóa giảm được 30-40% nhân sự, tiết kiệm 60% thời gian giải ngân khoản vay, 30-60% thời gian giao dịch tại quầy. Lượng người dùng dịch vụ ngân hàng số của TPBank đã tăng gấp đôi trong ba năm qua, trung bình hơn 30% mỗi năm đến nay. Tỷ lệ số lượng giao dịch qua kênh ngân hàng số trên tổng giao dịch của TPBank đã tăng từ 72% cuối năm 2018 lên 83% ở thời điểm cuối tháng 6/2020. Số lượng giao dịch qua kênh số hàng tháng hiện nay tăng gấp 3 lần so với 2 năm trước.
+
+Giải thưởng Ngân hàng số xuất sắc nhất do The Asian Banker bình chọn năm 2020 giúp TPBank định vị trên thị trường như một "Ngân hàng của những công nghệ".
+
+Thành quả từ sự tiên phong của TPBank có thể mở đường cho các ngân hàng khác thay đổi mạnh mẽ hơn nữa khi công nghệ số vào hoạt động ngân hàng. Các chuyên gia tài chính cho rằng, việc số hoá là bắt buộc, không chỉ để nâng cao khả năng kiểm soát rủi ro vì máy móc ít mắc lỗi hơn so với con người, mà còn nâng tầm trải nghiệm người dùng - đích đến của các hoạt động dịch vụ.

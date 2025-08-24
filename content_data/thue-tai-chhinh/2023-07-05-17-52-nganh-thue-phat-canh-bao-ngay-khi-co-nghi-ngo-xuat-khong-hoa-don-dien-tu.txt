@@ -1,0 +1,31 @@
+Bộ Tài chính vừa thông tin về các giải pháp ngăn chặn tình trạng buôn bán, sử dụng hóa đơn điện tử trái pháp luật.
+
+Theo ghi nhận, với mục đích để được khấu trừ thuế giá trị gia tăng đầu vào, giảm nghĩa vụ thuế, hợp thức hóa cho hàng hóa trôi nổi, nhiều doanh nghiệp có hành vi mua bán hóa đơn trái phép. Hành vi trái pháp luật này không chỉ gây thất thu cho ngân sách nhà nước mà còn ảnh hưởng đến môi trường kinh doanh lành mạnh.
+
+Bên cạnh đó, nhiều đối tượng bất chấp pháp luật vẫn ngang nhiên chào mời mua bán hóa đơn điện tử qua lại giữa các công ty nhằm hợp thức hóa hóa đơn chứng từ làm giảm số thuế giá trị gia tăng, thuế thu nhập doanh nghiệp phải nộp, thu lời bất chính với số tiền lớn.
+
+Theo Bộ Tài chính, hiện ngành thuế triển khai hóa đơn điện tử trên phạm vi toàn quốc. “Hệ thống hóa đơn điện tử lưu vết toàn bộ dữ liệu của người mua, người bán nên trường hợp người mua, người bán có hành vi mua, bán hóa đơn không hợp pháp sẽ bị phát hiện và xử lý theo quy định của pháp luật”, Bộ Tài chính khẳng định.
+
+Thông tin cụ thể về các giải pháp công nghệ thông tin để ngăn hành vi mua bán hoá đơn trái phép, Bộ Tài chính cho biết đã chỉ đạo ngành thuế đẩy mạnh công tác quản lý hóa đơn dựa trên kết quả phân tích rủi ro theo các tiêu chí đánh giá, để xác định người nộp thuế có rủi ro cao. Những người nộp thuế có nhiều dấu hiệu nghi ngờ gian lận trong sử dụng hóa đơn sẽ đưa vào kiểm tra, thanh tra.
+
+Bên cạnh đó, “tăng cường công tác đối chiếu thông tin giữa dữ liệu người nộp thuế tại hồ sơ khai thuế và dữ liệu hóa đơn điện tử mà người nộp thuế đã khởi tạo và gửi cơ quan thuế, để đưa ra danh sách người nộp thuế có sự sai lệch giữa hồ sơ và dữ liệu, đảm bảo doanh nghiệp khai đúng, đủ, không trì hoãn thời gian nộp thuế”, Bộ Tài chính lưu ý.
+
+Thực hiện các chức năng kiểm soát thông tin hóa đơn điện tử, kiểm tra các dấu hiệu cảnh báo sớm giúp đưa ra các trường hợp cần giám sát, kiểm tra thường xuyên.
+
+
+
+“Tiến tới phòng ngừa từ sớm, từ xa việc xuất khống hóa đơn điện tử, sẽ có cảnh báo tới người nộp thuế về sự bất thường hoặc đột biến so với hoạt động kinh doanh thông thường trong việc sử dụng hóa đơn ngay khi người nộp thuế thực hiện xuất hóa đơn. Việc này sẽ được thực hiện theo ngày để ngăn chặn, cảnh báo việc xuất hóa đơn của người nộp thuế có dấu hiệu rủi ro”, Bộ Tài chính nhấn mạnh.
+
+Ngành thuế cũng nghiên cứu, áp dụng công nghệ xử lý dữ liệu lớn, công nghệ trí tuệ nhân tạo vào thực hiện phân tích dữ liệu hóa đơn điện tử với các nội dung như: xử lý ngôn ngữ tự nhiên, học máy, thống kê nhận biết tên hàng hóa, dịch vụ; xác định giá trị hàng hóa bất thường; xác định chuỗi mua bán giữa các doanh nghiệp giúp Trung tâm phân tích dữ liệu hoá đơn điện tử có thể phát hiện ra những trường hợp gian lận, nghi ngờ mua bán hóa đơn với xâu chuỗi nhiều doanh nghiệp tham gia.
+
+Thực hiện chỉ đạo của Bộ Tài chính tại Công điện số 01/CĐ-BTC ngày 12/04/2023 về việc tăng cường công tác quản lý, giám sát việc phát hành, sử dụng hóa đơn điện tử, Tổng cục Thuế cũng triển khai ban hành Chỉ thị số 01/CT-TCT ngày 11/4/2023 về việc tăng cường các biện pháp rà soát, kiểm tra hoá đơn nhằm ngăn chặn gian lận trong việc sử dụng hoá đơn.
+
+Theo đó, cục thuế các tỉnh, thành phố trực thuộc Trung ương sẽ tập trung đẩy mạnh tháng cao điểm phòng, chống các doanh nghiệp mua, bán hóa đơn không hợp pháp, gian lận hoàn thuế. Trong tháng cao điểm, đồng loạt cơ quan thuế các cấp ra quân, quyết liệt hơn nữa trong đấu tranh, xử lý hành vi gian lận về thuế, về mua bán và sử dụng hoá đơn không hợp pháp.
+
+Cùng với đó, tiếp tục truyền thông sâu rộng đến người dân, doanh nghiệp trên các phương tiện truyền thông (báo, website, truyền hình,…) để tuyên truyền chính sách pháp luật về thuế, về hoá đơn, công khai thông tin tổ chức, cá nhân có hành vi mua, bán hóa đơn đã bị cơ quan công an khởi tố để cho người dân, doanh nghiệp biết, góp phần cảnh báo, răn đe các đối tượng đã và đang có ý định vi phạm pháp luật về hóa đơn.
+
+Ngành thuế phối hợp chặt chẽ hơn với cơ quan điều tra Bộ Công an để xử lý theo quy định đối với doanh nghiệp bán hóa đơn; truy vết xử lý doanh nghiệp mua hóa đơn và xử lý triệt để tình trạng bao che cho những hành vi vi phạm pháp luật trong sử dụng hoá đơn.
+
+Cùng đó, tiếp tục rà soát đối với các cá nhân, tổ chức có mua hóa đơn để kê khai khấu trừ thuế giá trị gia tăng, hoàn thuế, hợp thức hóa hàng hóa trôi nổi, giảm chi phí tính thuế thu nhập doanh nghiệp… Với các đối tượng này, sẽ thực hiện xử lý nghiêm minh, kịp thời theo quy định của pháp luật.
+
+Cùng với đó, tiếp tục tuyên truyền, phổ biến đến người dân, doanh nghiệp trong việc sử dụng hóa đơn không hợp pháp để hợp thức kê khai thuế sẽ bị phạt về hành vi trốn thuế và truy cứu trách nhiệm hình sự. Đối với hành vi bán hóa đơn sẽ bị truy cứu trách nhiệm hình sự theo Bộ Luật hình sự.

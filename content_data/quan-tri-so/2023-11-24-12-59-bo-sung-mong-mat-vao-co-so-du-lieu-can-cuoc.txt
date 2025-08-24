@@ -1,0 +1,33 @@
+Chiều 23/11, Bộ Công an thông tin thêm về dự thảo Luật Căn cước sắp được Quốc hội biểu quyết thông qua (dự kiến ngày 27/11).
+
+Theo Bộ Công an, tới nay, tiếp thu các ý kiến của đại biểu quốc hội, Bộ Công an đã bổ sung 2 nhóm thông tin được thu thập, cập nhật vào Cơ sở dữ liệu quốc gia về dân cư gồm “tên gọi khác” và “nơi sinh”. Các thông tin về nhóm máu sẽ phục vụ công tác cấp cứu, xây dựng nguồn máu dự phòng trong khám chữa bệnh, nghiên cứu khoa học, xây dựng kế hoạch phát triển, dự phòng y tế…
+
+Trong khi đó, thông tin về số điện thoại di động, địa chỉ thư điện tử nhằm bảo đảm sự liên lạc giữa cơ quan nhà nước với người dân; cũng như thực hiện xác thực khi tạo lập, sử dụng căn cước điện tử hoặc thực hiện giao dịch với cơ quan nhà nước…
+
+Về thông tin trong Cơ sở dữ liệu căn cước, dự thảo Luật đã chỉnh lý, bổ sung quy định nguyên tắc việc thu thập thông tin sinh trắc học về ADN và giọng nói chỉ được thực hiện khi người dân tự nguyện cung cấp hoặc lưu trữ thông tin có sẵn trong quá trình giải quyết vụ việc hình sự, hành chính có trưng cầu giám định thông tin của đối tượng phục vụ cho công tác phòng, chống tội phạm. Đồng thời, dự thảo Luật cũng quy định rõ về việc chia sẻ, khai thác thông tin trong Cơ sở dữ liệu căn cước cho chặt chẽ, đầy đủ hơn.
+
+Bên cạnh việc thu thập vân tay, dự thảo Luật bổ sung quy định thu thập thông tin mống mắt trong thông tin căn cước để làm cơ sở đối soát và xác thực thông tin của mỗi cá nhân; hỗ trợ trong những trường hợp không thu nhận được vân tay của một người (với các trường hợp khuyết tật hoặc vân tay bị biến dạng do các nguyên nhân khách quan hoặc chủ quan…).
+
+Theo cơ quan soạn thảo và cơ quan thẩm tra, thực tiễn khoa học hiện nay đã chứng minh, cùng với vân tay, mống mắt của một người có cấu trúc đường vân phức tạp và duy nhất đối với mỗi người, không thay đổi nhiều theo thời gian.
+
+Công nghệ nhận diện mống mắt (hay còn gọi là công nghệ cảm biến mống mắt) là phương pháp sử dụng thuật toán, hình ảnh để nhận dạng một người dựa vào cấu trúc các đường vân phức tạp và duy nhất của mống mắt (nơi xác định màu mắt của con người), hiện đã được ứng dụng phổ biến trong nhiều lĩnh vực.
+
+Hiện nay, nhiều quốc gia đã áp dụng công nghệ này để phục vụ nhận diện công dân, xác thực hộ chiếu, điền thông tin xác thực qua website... Mặt khác, công nghệ này có độ chính xác cao, đơn giản, dễ sử dụng, không cần thao tác phức tạp.
+
+Về quy định liên quan đến thẻ căn cước, dự thảo Luật sửa đổi, bổ sung theo hướng lược bỏ vân tay; sửa đổi quy định về thông tin số thẻ căn cước, quê quán, nơi thường trú, chữ ký của người cấp thẻ thành số định danh cá nhân, nơi đăng ký khai sinh, nơi cư trú...
+
+Theo cơ quan soạn thảo, việc thay đổi, cải tiến như trên nhằm tạo thuận lợi hơn cho người dân trong quá trình sử dụng thẻ căn cước, hạn chế việc phải cấp đổi thẻ căn cước và bảo đảm tính riêng tư của người dân.
+
+Các thông tin căn cước của người dân cơ bản sẽ được lưu trữ, khai thác, sử dụng thông qua chíp điện tử trên thẻ căn cước. Đối với những thẻ căn cước công dân đã cấp thì vẫn còn nguyên giá trị sử dụng, không bị tác động bởi quy định này.
+
+Các thông tin của công dân trong Cơ sở dữ liệu căn cước sẽ được lưu trữ, khai thác thông qua mã QR code và chip trên thẻ căn cước để bảo đảm bảo mật thông tin của công dân.
+
+Mã QR trên thẻ căn cước chỉ cho phép khai thác những thông tin cơ bản đã in trên thẻ căn cước và thông tin về số chứng minh nhân dân 9 số đã được cấp trước đây của công dân nhằm tạo điều kiện cho công dân khi thực hiện một số giao dịch có liên quan đến thông tin về chứng minh nhân dân 9 số.
+
+Để bảo đảm tính bảo mật của thông tin, thẻ căn cước được chế tạo bằng công nghệ cao đã được mã hóa, bảo đảm chống lại việc làm giả hoặc tiếp cận, khai thác thông tin trái phép nên bảo đảm an toàn việc bảo mật khai thác thông tin trong chip điện tử.
+
+Cơ quan soạn thảo nêu rõ, thông tin được lưu trữ, mã hóa trong chip điện tử trên thẻ căn cước bao gồm 2 phần: Phần thông tin được mã hóa theo tiêu chuẩn ICAO quốc tế và phần thông tin tích hợp theo nhu cầu của người dân.
+
+Để đáp ứng các tiêu chuẩn ICAO 9303 quốc tế về việc xác thực dữ liệu lưu trữ trong chip điện tử, bảo đảm thống nhất giữa các quốc gia, các cơ quan đơn vị cấp các loại giấy tờ có giá trị đi lại quốc tế (hộ chiếu, thẻ căn cước...), cơ quan soạn thảo đã phối hợp với cơ quan thẩm tra là Ủy ban Quốc phòng và An ninh của Quốc hội và các cơ quan hữu quan nghiên cứu, lựa chọn, quy định các thông tin in trên mặt thẻ và thông tin được tích hợp nhằm bảo đảm thống nhất và tuân thủ đúng các điều kiện, tiêu chuẩn của ICAO
+
+Theo dự kiến chương trình Kỳ họp thứ 6, vào ngày 27/11 tới, Quốc hội sẽ tiến hành biểu quyết thông qua dự thảo Luật Căn cước.

@@ -1,0 +1,11 @@
+Đồ thị thông tin dưới đây gồm top 5 công ty lớn nhất trên sàn Nasdaq, sàn chứng khoán New York (NYSE) và một số sàn giao dịch quốc tế, dựa trên dữ liệu từ trang Companiesmarketcap.com tính tới ngày 12/3/2024.
+
+Chiếm lĩnh sàn Nasdaq là các công ty công nghệ với top 5 công ty đều nằm trong Magnificent 7 - nhóm gồm 7 công ty công nghệ lớn của Mỹ. Tổng giá trị vốn hóa của công ty này hiện là gần 12 nghìn tỷ USD. Con số này tương đương gần 25% tổng giá trị vốn hóa của toàn thị trường chứng khoán Mỹ năm 2023 (49 nghìn tỷ USD).
+
+Trong khi đó, các công ty lớn nhất trên sàn NYSE đa dạng hơn, gồm cả doanh nghiệp đến từ ngành công nghệ, dịch vụ tài chính và y tế. Trong số này, tập đoàn đầu tư Berkshire Hathaway của tỷ phú Warren Buffett là ứng viên tiềm năng nhất có thể trở thành công ty vốn hóa nghìn tỷ USD tiếp theo.
+
+Với vốn hóa 2,1 nghìn tỷ USD, Saudi Aramco là công ty niêm yết lớn nhất bên ngoài Mỹ, trên Sàn giao dịch chứng khoán Tadawul của Saudi Arabia. Đáng chú ý, 90% cổ phần công ty này nằm trong tay Chính phủ Saudi Arabia và 8% thuộc về quỹ đầu tư quốc gia của nước này. Chỉ 2% còn lại thuộc sở hữu của các nhà đầu tư đại chúng.
+
+Trên sàn Euronext Paris Eurolist, tập đoàn hàng xa xỉ LVMH là công ty lớn nhất với vốn hóa 469 tỷ USD. Là sàn chứng khoán của nhiều doanh nghiệp châu Âu, Euronext Paris Eurolist đặt trụ sở tại Paris (Pháp) và có chi nhánh tại Bỉ, Hà Lan, Bồ Đào Nha và Anh.
+
+Samsung là công ty dẫn dầu Sàn giao dịch chứng khoán Hàn Quốc với giá trị vốn hóa 373 tỷ USD. Trong khi đó, Tencent và Moutai là các công ty lớn nhất trên sàn chứng khoán Hồng Kông và Thượng Hải với vốn hóa lần lượt là 349 tỷ USD và 305 tỷ USD.

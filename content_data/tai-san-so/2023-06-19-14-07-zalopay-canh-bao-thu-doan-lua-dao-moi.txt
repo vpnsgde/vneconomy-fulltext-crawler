@@ -1,0 +1,17 @@
+Thời gian gần đây, xuất hiện một số cá nhân, tổ chức mạo danh ZaloPay gửi tin nhắn (thông qua email, tin nhắn, cuộc gọi, trang mạng xã hội...) tới người dùng thông báo trúng thưởng (tiền mặt/xe máy/phiếu mua hàng/hiện vật…) hoặc tặng quà/voucher nhằm mục đích chiếm dụng tiền/thông tin cá nhân.
+
+Đối tượng lừa đảo có thể mạo danh là nhân viên của ZaloPay để liên hệ khách hàng bằng hình thức nhắn tin/email hoặc liên hệ trực tiếp để hỏi những vướng mắc khi sử dụng dịch vụ. Từ đó, đối tượng sẽ yêu cầu khách hàng cung cấp những thông tin cá nhân với mục đích bảo mật như một cách hỗ trợ khắc phục lỗi và sử dụng những thông tin này vào mục đích không chính đáng.
+
+Các đối tượng còn có thể tạo giao diện màn hình đăng nhập giống như giao diện của ứng dụng ZaloPay hay website thật, gửi email theo một địa chỉ mạo danh dưới tên ZaloPay và đính kèm những đường link giả mạo nhằm chiếm đoạt thông tin cá nhân của khách hàng.
+
+Thủ đoạn mới nhất của nhóm lừa đảo là vận hành một ứng dụng có tên “Zalopay chứng chỉ quỹ”, sử dụng danh nghĩa “Hệ thống đầu tư Zalopay” để tư vấn và mời gọi người dùng tham gia kiếm tiền.
+
+Tổ chức lừa đảo này xây dựng lòng tin khách hàng bằng cách tương tác, tư vấn rất tận tình cách thức kiếm tiền; “ban hành” nhiều văn bản hành chính giả để chứng thực độ uy tín, thậm chí ra văn bản khuyến cáo người dùng về đối tượng lừa đảo khác. Ban đầu, tổ chức lừa đảo vẫn hoàn trả tiền đúng hạn khi người dùng thực hiện giao dịch. Tuy nhiên, với các giao dịch lớn hơn về sau, nhóm lừa đảo sẽ biến mất khi đã nhận được tiền, người dùng không thể liên hệ được với những đầu mối trước đó.
+
+Để đảm bảo an toàn cho tài khoản ZaloPay và tài sản của mỗi cá nhân, ví điện tử này khuyến cáo người dùng nâng cao cảnh giác, tuyệt đối không thực hiện các hành vi như chia sẻ thông tin tài khoản, mật khẩu thanh toán, mã OTP cho người lạ hoặc đăng nhập các thông tin này vào bất kỳ đường dẫn, trang web nào ngoài ứng dụng được cung cấp bởi ZaloPay; mua bán voucher/quét các mã QR không rõ nguồn gốc hoặc đăng ký tài khoản/định danh ZaloPay hộ người khác.
+
+ZaloPay cũng đã công bố 4 kênh tương tác trực tiếp với khách hàng gồm: Số điện thoại 1900545436; địa chỉ thư điện tử: hotro@zalopay.vn; trang Facebook có tick xanh tên https://www.facebook.com/ZaloPay; hội nhóm cộng đồng trên Facebook tên“Hội Fan Cứng Ví ZaloPay”
+
+Nhiều chuyên gia an ninh mạng đã từng khuyến cáo: Với sự phát triển của công nghệ thông tin, chiêu trò và thủ đoạn lừa đảo của các cá nhân, tổ chức ngày càng đa dạng, tinh vi và chuyển biến khó lường. Người dùng cần thận trọng trước các giao dịch, chỉ nhận thông tin qua ứng dụng, email hay số điện thoại chính thức từ nhà cung cấp dịch vụ.
+
+Ví điện tử ZaloPay cũng khuyến khích người dùng nhanh chóng thông báo với ZaloPay khi nhận thấy hoạt động đáng nghi ngờ và trực tiếp liên hệ bộ phận chăm sóc khách hàng hoặc các kênh tương tác kể trên để xác thực thông tin và hỗ trợ một cách sớm nhất.

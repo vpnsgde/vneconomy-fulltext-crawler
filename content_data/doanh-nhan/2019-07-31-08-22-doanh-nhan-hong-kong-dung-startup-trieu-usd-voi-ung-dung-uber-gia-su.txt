@@ -1,0 +1,29 @@
+Khi ứng dụng dịch vụ gia sư theo yêu cầu Snapask ra đời vào năm 2015, nhiều người gọi đây là "Uber gia sư", bắt đầu với khoảng 100.000 học sinh trong hai năm đầu tiên.
+
+Cũng giống như ứng dụng gọi xe Uber của Mỹ, Snapask phát triển nhanh chóng, hiện có hơn 2 triệu người dùng và kết nối với 250.000 gia sư tại 8 thị trường trên thế giới. Sau 4 năm hoạt động, Snapask đã huy động được hơn 20 triệu USD vốn đầu tư.
+
+Năm 2008, khi Uber mới chỉ là ý tưởng của Travis Kalanick, Timothy Yu - người sáng lập của Snapask đang là sinh viên đại học ở Hồng Kông và làm thêm công việc gia sư để trang trải sinh hoạt tại thành phố đắt đỏ này. Tuy nhiên, Yu nhanh chóng cảm thấy mệt mỏi với kiểu gia sư riêng "không hiệu quả", vì mất quá nhiều thời gian để soạn bài và di chuyển tới nhà học sinh mỗi tuần. Nhận thấy sự phát triển của công nghệ và khả năng cung cấp dịch vụ từ xa, Yu, khi đó đang học ngành tài chính, muốn tìm giải pháp cho vấn đề này.
+
+"Chúng tôi bắt đầu tìm hiểu xem các ứng dụng đã thay đổi cách thức ta tiếp cận các dịch vụ như thế nào", Yu, năm nay 30 tuổi, chia sẻ với CNBC. "Tôi đã nghĩ về việc đưa công việc gia sư của mình lên mạng".
+
+"Là một người khá lười, tôi không muốn đi dạy nữa mà tìm cách biến nó trở thành công việc kinh doanh thực sự", Yu cho biết. Doanh nhân Hồng Kông này lọt vào danh sách 30 nhân vật dưới 30 tuổi nổi bật năm 2019 của tạp chí Forbes.
+
+Khi đó, Yu vẫn còn là sinh viên, bắt đầu thử nghiệm các hình thức gia sư khác nhau, từ video qua Facebook cho tới ngân hàng tài liệu qua mạng. Dù cả hai cách làm này đều không thành công, chúng là nguồn cảm hứng đưa Yu đến với ý tưởng Snapask.
+
+"Sau khi xem các video của tôi, nhiều học sinh bắt đầu gửi các câu hỏi. Điều này khiến tôi nảy ra ý tưởng 'tại sao không thử kiếm tiền từ việc này'", Yu chia sẻ với tờ Tech In Asia năm ngoái. Cùng với đội ngũ lập trình viên làm việc tự do, Yu xây dựng một ứng dụng hỏi và đáp theo yêu cầu.
+
+Sau khi tốt nghiệp đại học, Yu làm ba việc khác nhau - một là công việc toàn thời gian tại ngân hàng và nhận hai chỗ gia sư - để kiếm tiền đầu tư vào dự án của mình. Khoản đầu tư 40.000 USD của Yu sau đó được kết hợp với chương trình ươm mầm khởi nghiệp Cyberport tại Hồng  Kông.
+
+Giao diện của ứng dụng Snapask - Ảnh: Snapask.
+
+Chuyển sang dành toàn thời gian cho Snapask, Yu bắt đầu tuyển gia sư và kết nối được 300 gia sư là sinh viên tại chính trường đại học của mình chỉ trong vài ngày. Trong vài tháng, hàng chục nghìn học sinh và hàng nghìn gia sư đăng ký dùng Snapask.
+
+Hiện tại, mỗi tháng Snapask xử lý khoảng 2 triệu câu hỏi và có mặt tại nhiều thị trường như Australia, Hồng Kông, Indonesia, Nhật Bản, Hàn Quốc, Malaysia, New Zealand, Singapore, Đài Loan và Thái Lan. Công ty này có 80 nhân viên để vận hành ứng dụng.
+
+Qua Snapask, học sinh đăng tải câu hỏi hoặc ảnh chụp bài tập của họ lên ứng dụng. Sau đó, các thuật toán sẽ nhận diện và xác định những gia sư bản địa có trình độ phù hợp nhất để giải đáp câu hỏi, bài tập đó. Những gia sư phản hồi nhanh nhất - thường là dưới 5 giây - sẽ được giao việc và bắt đầu quá trình giảng giải cho học sinh. Phần mềm Snapask sau đó phân tích lại đoạn hội thoại để giám sát và đánh giá chất lượng gia sư.
+
+Học sinh phải trả phí hàng tháng để tham gia ứng dụng với mức phí hiện tại là từ 43 - 86 USD. Còn các gia sư, phải đạt điểm A cho các lĩnh vực chuyên môn mình đăng ký, được trả phí dựa trên số lượng câu hỏi và bài tập mà họ giải đáp. Họ có thể giải đáp cho nhiều học sinh cùng lúc và thường kiếm được khoảng 2.000 USD cho 2.500 câu hỏi, bài tập. Cũng giống như các đối tác tài xế của Uber, gia sư của Snapask không ký hợp đồng trực tiếp với công ty.
+
+Theo Yu, Snapask giúp phá bỏ những rào cản và giúp học sinh có quyền kiểm soát tốt về việc sẽ học gì và học như thế nào. CEO của Snapask cũng cho biết ứng dụng này đặc biệt hữu ích tại các nền kinh tế mới nổi, nơi việc tiếp cận với giáo dục chất lượng cao còn hạn chế.
+
+"Gia sư tốt từ các trường đại học tốt thường ở những thành phố lớn. Điều này đồng nghĩa số lượng tại các thành phố hạng hai và hạng ba ít hơn nhiều". Theo đó, Yu có tham vọng tạo ra cuộc cách mạng thay đổi hệ thống giáo dục.

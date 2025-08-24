@@ -1,0 +1,37 @@
+Công nghệ AI đã bước đầu được ứng dụng rộng rãi trong các bệnh viện lớn tại Việt Nam để hỗ trợ phân tích hình ảnh y tế, giúp bác sĩ nhận diện sớm các dấu hiệu của bệnh lý. Để đẩy mạnh hơn nữa hiệu quả chăm sóc sức khỏe toàn dân, ngày càng nhiều doanh nghiệp Việt cũng đã tiên phong bước chân vào lĩnh vực AI y tế.
+
+Điển hình, hai giải pháp ứng dụng trí tuệ nhân tạo là C-Health và C-Aid vừa được ra mắt, tập trung vào hỗ trợ theo dõi sức khỏe cá nhân và hỗ trợ chẩn đoán hình ảnh y khoa. Đây là bước triển khai mới của Tập đoàn Công nghệ CMC phục vụ quá trình chuyển đổi số trong ngành y tế.
+
+LIÊN TIẾP NHỮNG ỨNG DỤNG MỚI
+
+C-Health là giải pháp ứng dụng AI giúp phân tích tình trạng sức khỏe người dùng bằng công nghệ không tiếp xúc thông qua việc quét hình ảnh khuôn mặt từ điện thoại hoặc máy tính bảng. Sản phẩm có khả năng đo hơn 20 chỉ số như nhịp tim, huyết áp, biến thiên nhịp tim, hồng cầu, HbA1c giúp đánh giá lượng đường huyết trung bình… C-Health sẵn sàng kết nối với VNeID, góp phần nâng cao chất lượng chăm sóc sức khỏe cộng đồng.
+
+Trong khi đó, C-Aid là phần mềm chatbot AI hỗ trợ bác sĩ và bệnh nhân trong quá trình chẩn đoán hình ảnh (X-quang, MRI, CT), đồng thời đóng vai trò như một “trợ lý y tế số” trong tư vấn và chăm sóc sức khỏe từ xa. Sự ra đời của hai giải pháp trên phản ánh nỗ lực nghiên cứu, làm chủ công nghệ của doanh nghiệp Việt Nam, đồng thời mở ra nhiều tiềm năng ứng dụng AI một cách thiết thực, hiệu quả trong quá trình hiện đại hóa ngành y tế.
+
+Tại Hội nghị "AI in Health Conference 2025" mới đây, bên cạnh hai phiên thảo luận chuyên môn về bức tranh AI trong y tế Việt Nam hiện đại, còn có nhiều gian trưng bày, nơi các công ty trong và ngoài nước trình diễn các giải pháp, ứng dụng công nghệ AI trong chăm sóc sức khỏe, cải thiện hệ thống chăm sóc bệnh nhân cho bệnh viện.
+
+Công ty Cổ phần Tin học Lạc Việt mang đến hội nghị Suckhoe247 - ứng dụng giúp người dùng quản lý toàn diện hồ sơ sức khỏe cá nhân và gia đình. Ứng dụng tích hợp các công nghệ hiện đại như AI, tiêu chuẩn HL7/FHIR và kết nối với các nền tảng như Apple Health, Samsung Health, Google Fit.
+
+Suckhoe247 không chỉ hỗ trợ theo dõi chỉ số, dự đoán nguy cơ bệnh lý, đề xuất dinh dưỡng, nhắc lịch khám,… mà còn hỗ trợ các tổ chức y tế tối ưu hóa quản lý bệnh án, triển khai y tế từ xa và tăng cường kết nối bác sĩ - bệnh nhân.
+
+Trong khi đó Đồng Nhất Technology Group giới thiệu bộ giải pháp toàn diện dành cho bệnh viện, phòng khám để theo dõi, quản lý hồ sơ, chăm sóc bệnh nhân. Delo - Kiosk y tế thông minh của công ty có các quy trình tự động hóa cũng được tùy biến cao theo nhu cầu của từng bệnh viện, phòng khám, từ quét mã QR để tra cứu hồ sơ đến đăng ký khám tự động, thanh toán viện phí, gọi video...
+
+Ngoài ra hệ thống camera AI còn giúp nhân viên y tế, người thân có thể quan sát người bệnh theo thời gian thực, phát hiện và cảnh báo các nguy cơ đột quỵ, té ngã hoặc xâm nhập trái phép dựa trên việc nhận diện hình ảnh thông minh.
+
+Trước đó, nền tảng công nghệ Tri Ân Care - tích hợp AI và IoT vào lĩnh vực chăm sóc sức khỏe cho người cao tuổi - đã đạt Giải thưởng Sao Khuê 2025 ở lĩnh vực công nghệ mới, đột phá áp dụng vào cuộc sống. Phần mềm do Công ty Cổ phần Đầu tư Thương mại Tri Ân phát triển, cung cấp giải pháp cảnh báo sớm các vấn đề sức khỏe của người lớn tuổi cho các thành viên trong gia đình thông qua hồ sơ sức khỏe cá nhân, kết nối thông minh qua nhiều nền tảng khác nhau...
+
+CẦN ĐẢM BẢO BÌNH ĐẲNG CÔNG NGHỆ SỐ
+
+Phát biểu tại Hội nghị "AI in Health Conference 2025", ông Lâm Nguyễn Hải Long, Chủ tịch Hội Tin học TP. HCM cho biết vai trò của AI trong y tế ngày càng rõ nét thông qua các ứng dụng như: chẩn đoán bệnh bằng việc phân tích lượng lớn dữ liệu hình ảnh y khoa; phẫu thuật robot; quản lý hồ sơ bệnh án; chăm sóc bệnh nhân từ xa bằng chatbot; dự đoán và ngăn chặn sự bùng phát của dịch bệnh; hay giảm thiểu các sai sót trong kê đơn thuốc, chẩn đoán điều trị…
+
+"Những ứng dụng này tạo điều kiện mở rộng dịch vụ y tế đến mọi tầng lớp, mọi khu vực, đặc biệt là những nơi còn hạn chế về nhân lực và hạ tầng”, ông Nguyễn Hải Long nhấn mạnh. Về lâu dài, ông Lâm Nguyễn Hải Long cũng kiến nghị, Nhà nước cần xây dựng khung pháp lý rõ ràng để giảm thiểu tối đa sự bất bình đẳng trong việc tiếp cận và sử dụng dịch vụ y tế số của người dân.
+
+Tiến sĩ Chris Bates, Giám đốc Nghiên cứu và phân tích Công ty TPP (Vương quốc Anh), nhấn mạnh rằng, bệnh án điện tử phải được đặt lên hàng đầu trong chiến lược chuyển đổi số y tế tại Việt Nam, đặc biệt khi đất nước đang bước vào giai đoạn già hóa dân số nhanh chóng.
+
+Ông Bates cho biết, bệnh án điện tử kết hợp với hồ sơ sức khỏe cá nhân và dữ liệu giải mã gien sẽ là nền tảng quan trọng để AI phát huy tối đa khả năng trong việc phát hiện sớm bệnh, đánh giá nguy cơ và hướng dẫn điều trị chính xác. "Mỗi bệnh nhân chỉ cần một hồ sơ y tế duy nhất, có thể truy cập mọi lúc mọi nơi. Điều này không chỉ giúp cải thiện hiệu quả điều trị mà còn tiết kiệm thời gian, công sức cho cả người bệnh và nhân viên y tế", ông nói.
+
+Trưởng Đại diện Văn phòng Tổ chức Y tế Thế giới (WHO) tại Việt Nam, TS. Angela Pratt nhận định việc ứng dụng AI trong lĩnh vực y tế đã mang lại hiệu quả trong việc cải thiện sức khỏe con người. Tuy nhiên, nếu cơ sở hạ tầng và khả năng tiếp cận công nghệ số của người dân không đồng đều; khoảng cách bất bình đẳng về tiếp cận dịch vụ y tế sẽ không mang lại hiệu quả, bởi dịch vụ chỉ thực sự hữu ích khi người dân biết cách sử dụng, ứng dụng công nghệ.
+
+Do đó, các cơ quan chức năng cần đảm bảo bình đẳng công nghệ số, nếu làm tốt điều này sẽ giảm thiểu rủi ro và tăng hiệu quả sử dụng, tiếp cận dịch vụ y tế số của người dân. Ngoài ra, vấn đề bảo mật dữ liệu cũng là yếu tố rất quan trọng để triển khai dịch vụ đến toàn dân. Vì vậy, ngành Y tế cần có môi trường, chính sách tốt để người dân tin tưởng, an tâm, an toàn sử dụng dịch vụ y tế số.
+
+Bên cạnh đó, bà Pratt lưu ý về vai trò quan trọng của khung pháp lý trong việc đảm bảo sự phát triển AI y tế diễn ra một cách an toàn và minh bạch. Theo bà, cần xây dựng các quy định về bảo vệ dữ liệu cá nhân, giám sát dựa trên mức độ rủi ro và duy trì vai trò ra quyết định của con người trong quá trình ứng dụng AI. Sự hợp tác chặt chẽ giữa nhà làm luật, chuyên gia, doanh nghiệp và người dân là yếu tố then chốt giảm thiểu rủi ro.

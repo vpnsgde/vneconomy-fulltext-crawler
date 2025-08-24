@@ -1,0 +1,23 @@
+Nhằm phòng ngừa và ngăn chặn các hành vi lừa đảo, vi phạm pháp luật liên quan đến việc sử dụng tên miền trên môi trường mạng, Bộ Thông tin và Truyền thông vừa xây dựng và triển khai Cổng tra cứu thông tin tên miền để hỗ trợ người dân, tổ chức, doanh nghiệp nhận diện, xác thực nguồn thông tin chính thức trên môi trường mạng.
+
+Theo đó, trước khi sử dụng dịch vụ, giao dịch trên Internet, người dân, tổ chức, doanh nghiệp có thể tra cứu thông tin website, tên miền bằng cách thực hiện nhắn tin miễn phí tới tổng đài 156 hoặc tra cứu trực tiếp tại Website https://tracuutenmien.gov.vn.
+
+
+
+Bộ Thông tin và Truyền thông cho biết, hiện nay, tình trạng vi phạm pháp luật trên không gian mạng diễn ra ngày càng tinh vi, thể hiện dưới nhiều hình thức khác nhau như tạo các website giả mạo các cơ quan, doanh nghiệp, ngân hàng, sàn thương mại… để lừa đảo chiếm đoạt tài sản cùng nhiều hình thức vi phạm…
+
+Đặc điểm chung của hành vi vi phạm là thường sử dụng tên miền quốc tế đăng ký ở nước ngoài, che giấu thông tin chủ thể.
+
+Thống kê trong hai năm 2021 và 2022, Trung tâm Internet Việt Nam đã phối hợp cung cấp thông tin hơn 1.819 tên miền (trong đó có 1.683 tên miền quốc tế, chiếm 92,5% đăng ký tại nước ngoài sử dụng dịch vụ ẩn giấu thông tin chủ thể) cho các cơ quan có thẩm quyền về xử lý vi phạm.
+
+Bên cạnh đó đã tiếp nhận xử lý tạm ngừng hoạt động và thu hồi 498 tên miền liên quan đến các vi phạm về giả mạo các cơ quan báo chí, trang thông tin điện tử tổng hợp, các hành vi cờ bạc trực tuyến, lừa đảo ngân hàng, tài chính, mua bán sản phẩm y tế, thực phẩm chức năng trái phép…
+
+Các hành vi lừa đảo, vi phạm pháp luật trên không gian mạng ngày càng tinh vi, khó nhận diện, xuất phát một phần từ việc không xác nhận được chủ thể website, tên miền.
+
+Trung tâm Internet Việt Nam cho rằng, thông qua tra cứu trên hệ thống tra cứu thông tin tên miền, người sử dụng dịch vụ Internet có thể nhận diện, xác thực nguồn thông tin chính thức qua đó cân nhắc, xem xét nguồn thông tin đang tiếp cận trên môi trường mạng.
+
+Hiện nay Trung tâm Internet Việt Nam đang quản lý cơ sở dữ liệu tên miền quốc gia Việt Nam “.vn” và dữ liệu đăng ký sử dụng tên miền quốc tế của tổ chức, cá nhân Việt Nam do các Nhà đăng ký tên miền quốc tế tại Việt Nam báo cáo. Hệ thống tra cứu thông tin tên miền sẽ giúp người sử dụng xác định các thông tin: loại tên miền (tên miền quốc gia Việt Nam “.vn” hay tên miền quốc tế); tên chủ thể đăng ký sử dụng; nhà đăng ký quản lý tên miền.
+
+Với nguồn thông tin, dữ liệu chính thức từ cơ sở dữ liệu quản lý tên miền của Bộ Thông tin và Truyền thông, Cổng thông tin tra cứu tên miền là công cụ hỗ trợ hiệu quả cho người sử dụng trong việc xác định nguồn tin chính thức trên môi trường mạng, góp phần phòng ngừa và ngăn chặn các hành vi lừa đảo, vi phạm pháp luật liên quan đến việc sử dụng tên miền trên môi trường mạng.
+
+Dựa vào kết quả tra cứu tên miền, người dân có thể nắm được một số thông tin cơ bản về tên miền, từ đó có thể an tâm giao dịch và sử dụng dịch vụ của những chủ thể tên miền chính danh.

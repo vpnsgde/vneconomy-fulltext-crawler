@@ -1,0 +1,37 @@
+ChatGPT là một ứng dụng, mô hình ngôn ngữ lớn được phát triển và huấn luyện bởi OpenAI. Đây là một AI có thể hiểu cả ngôn ngữ tự nhiên và tạo ngôn ngữ tự nhiên.
+
+Chia sẻ về mô hình ngôn ngữ lớn (LLMs)- thuật toán đằng sau ChatGPT, đồng sáng lập kiêm CEO Hekate Nguyễn Văn Minh Đức, cho biết ChatGPT sử dụng một loại hình học tăng cường cụ thể "học tăng cường từ phản hồi của con người (RLHF)", nhưng ở cấp độ cao.
+
+Trước đó, năm 2015, Hekate đã triển khai nghiên cứu về mô hình ngôn ngữ lớn trên 1 sản phẩm Chatbot Sumi- một người bạn của GenZ nhưng vì thời điểm đó chi phí về server quá cao cho 11 triệu người dùng (GenZ) nên đã tạm dừng dự án. Được biết, cuối năm 2017, Hekate đã phát triển thêm ứng dụng Chatbot Danang Fantasticity, được triển khai trong lĩnh vực du lịch.
+
+Từ thực tế của startup cho thấy sự thành công quan trọng nhất của ChatGPT ngoài model đó chính là sự kết hợp nền tảng cloud và công nghệ phần cứng (máy tính lượng tử).
+
+Theo startup này, mô hình LLM là một tập hợp con của AI đã được đào tạo trên một lượng lớn dữ liệu văn bản để tạo ra các phản hồi giống như con người đối với cuộc đối thoại hoặc các đầu vào ngôn ngữ tự nhiên khác. Để tạo ra các phản hồi ngôn ngữ tự nhiên này, các LLM sử dụng các mô hình học sâu, sử dụng các mạng thần kinh nhiều lớp để xử lý, phân tích và đưa ra dự đoán với dữ liệu phức tạp. Điều này phụ thuộc rất nhiều vào cơ sở hạ tầng lưu trữ và khả năng xử lý của máy tính.
+
+Các LLM có khả năng tạo ra văn bản chất lượng, mạch lạc, thường không thể phân biệt được với văn bản của con người. Hiệu suất hiện đại này đạt được bằng cách đào tạo LLM trên một kho văn bản khổng lồ, ít nhất vài tỷ từ, cho phép nó học các sắc thái của ngôn ngữ con người.
+
+Và một trong những LLM nổi tiếng nhất là GPT-3 (Generative Pretraining Transformer 3), được phát triển bởi OpenAI. Với 175 tỷ tham số, GPT-3 là một trong những LLM lớn nhất và mạnh nhất cho đến nay, có khả năng xử lý nhiều tác vụ ngôn ngữ tự nhiên. ChatGPT là một phần mở rộng của GPT-3, ChatGPT được tinh chỉnh từ một mô hình trong sê-ri GPT-3.5, mô hình này đã hoàn thành quá trình đào tạo vào đầu năm 2022.
+
+Tuy nhiên, theo chuyên gia này, “hạn chế lớn nhất của mô hình LLMs là tính dễ bị sai lệch. Các LLM được đào tạo trên một lượng lớn dữ liệu văn bản, với khả năng học tăng cường từ phản hồi của con người (RLHF) nên chúng ta phải có khả năng kiểm soát, lọc các dữ liệu đầu vào. Ví dụ, khi lượng lớn người dùng đều nhận định sai một vấn đề thì AI sẽ hiểu và nhận định vấn đề theo hướng đó”.
+
+Thực tế này cũng đã được các chuyên gia chỉ ra khi công cụ này có thể học rất nhanh từ quá trình giao tiếp, dựa trên những phản hồi của người dùng nên đồng nghĩa ChatGPT có thể học cả các thông tin sai lệch, không được kiểm chứng.
+
+
+
+Hạn chế thứ hai của LLMs là thiếu khả năng giải thích. LLM là các thuật toán khá phức tạp và công nghệ máy học Deep Learning nói chung thường được gọi là "hộp đen", gây khó khăn cho việc biết chính xác cách thức và lý do mô hình đạt được một đầu ra cụ thể.
+
+Điều này có thể khiến đầu ra của các LLM khó tin cậy và đặt ra câu hỏi về việc sử dụng chúng trong các tình huống ra quyết định có tính rủi ro cao.
+
+Cuối cùng, theo ông Đức, kích thước tuyệt đối và sức mạnh tính toán cần thiết để đào tạo và chạy LLM có thể là một hạn chế đáng kể (máy tính lượng tử, nền tảng cloud, đường truyền). LLM và rộng hơn là công nghệ Deep Learning yêu cầu lượng dữ liệu và tài nguyên tính toán khổng lồ, khiến việc phát triển và duy trì chúng khá tốn kém, chưa kể khả năng gây hại cho môi trường.
+
+Chia sẻ quan điểm này với VnEconomy, một chuyên gia công nghệ cho rằng, việc đưa ứng dụng này chạy trong thực tế vẫn là một thách thức lớn. Cùng với đó là vấn đề vận hành dữ liệu trả lời cho ChatGPT. OpenAI vẫn phải thuê nhân công giá rẻ để gán nhãn phân loại dữ liệu cho ChatGPT, để phân loại các nội dung xấu độc, loại bỏ những thông tin sai lệch, ngôn từ kích động bạo lực, hận thù, phân biệt giới tính, quấy rối tình dục... Ngoài ra với các nội dung bị trả lời sai vẫn phải có đội vận hành để dạy lại cho ChatGPT.
+
+Cũng theo chuyên gia này, thách thức lớn nhất đặt ra là hiệu quả kinh tế và rất tốn kém để huấn luyện ChatGPT trên mô hình ngôn ngữ lớn. Ước tính, để chạy ChatGPT tốn khoảng 100.000 USD/ngày và sẽ còn tăng lên, chưa kể chi phí huấn luyện lại mô hình cũng mất 5 triệu USD/lần. Dự án này ban đầu đã được rót 1 tỷ USD và tiếp tục được “bơm” thêm hàng tỷ USD.
+
+ChatGPT hay mô hình ngôn ngữ lớn là hướng phát triển của không chỉ OpenAI mà nhiều BigTech hiện nay. Cơn sốt ChatGPT đã và đang thu hút sự vào cuộc các ông lớn công nghệ toàn cầu. Mới đây, Google ra chatbot AI có tên Bard cạnh tranh với ChatGPT. Người dùng có thể hỏi để Bard trả lời gợi ý nấu món gì cho bữa trưa, lên kế hoạch cho buổi đi chơi.
+
+Trong khi đó, hãng tìm kiếm Baidu (Trung Quốc) sẽ hoàn thành thử nghiệm nội bộ công cụ Ernie Bot trong tháng 3. Đây là chatbot AI hoạt động tương tự ChatGPT và Bard. Baidu dự kiến triển khai AI này dưới dạng ứng dụng độc lập, sau đó dần hợp nhất vào dịch vụ tìm kiếm của mình.
+
+Gần đây, Alibaba cho biết công ty đã tập trung vào các mô hình ngôn ngữ lớn và AI tổng quát từ năm 2017 và đang trong quá trình thử nghiệm nội bộ. Hoặc trước đó, Meta cũng đầu tư mạnh cho AI và tiết lộ về một chatbot của riêng mình...
+
+LLM là một bước phát triển đột phát trong AI, nhưng chúng cũng có những hạn chế cần được xem xét. "Khi các LLM tiếp tục đóng vai trò ngày càng quan trọng trong cuộc sống hàng ngày, những nhà nghiên cứu và phát triển sẽ phải giải quyết những hạn chế để khai thác hết tiềm năng của chúng", ông Đức chia sẻ.

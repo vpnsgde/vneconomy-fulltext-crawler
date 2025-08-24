@@ -1,0 +1,39 @@
+Nhiều nước châu Á hiện nổi lên như những công xưởng của sản xuất chất bán dẫn. Chẳng hạn như Hàn Quốc chiếm 60% thị phần toàn cầu về sản xuất chip nhớ DRAM và NAND dùng để quản lý và lưu trữ dữ liệu trên các thiết bị PC và điện thoại thông minh. Hay Đài Loan, nơi đặt trụ sở của TSMC, nhà sản xuất chất bán dẫn theo hợp đồng lớn nhất thế giới. Đằng sau những thành công này là sự nỗ lực của các doanh nghiệp trong ngành, mà còn cả những kế hoạch dài hạn và chương trình hỗ trợ hàng tỷ USD của chính phủ các quốc gia.
+
+Tại châu Á, Nhật Bản là một trong những quốc gia đi đầu về tăng cường đầu tư cho ngành công nghiệp bán dẫn. Từ năm tài chính 2021 đến 2023, Nhật Bản đã đầu tư 3,9 nghìn tỷ yên (24,8 tỷ USD), tương đương 0,71% GDP để hỗ trợ ngành công nghiệp bán dẫn quốc gia.
+
+Nhật Bản từng là nước dẫn đầu thế giới về sản xuất chip những năm 90, với 4 nhà sản xuất điện tử tổng hợp bao gồm NEC, Toshiba, Hitachi và Fujitsu, được xếp hạng trong top 10 về doanh số bán dẫn toàn cầu.
+
+Tuy nhiên, các công ty này dần mất đi sức mạnh cạnh tranh khi các nhà sản xuất Hàn Quốc nổi lên và một số công ty bắt đầu từ bỏ hoạt động của họ từ cuối những năm 1990 đến những năm 2000.
+
+Một số dự án chính sách quốc gia đã được khởi xướng vào những năm 2000, với mục đích phát triển lại công nghệ bán dẫn tiên tiến thông qua sự hợp tác giữa khu vực công và tư nhân; tuy nhiên, Nhật Bản đã không thể lấy lại vị thế toàn cầu trước đây.
+
+Hiện nay, chính phủ nước này đang không ngừng nỗ lực giành lại vị thế trong cuộc đua chất bán dẫn – sức mạnh mọi quốc gia đều đang theo đuổi. Tháng 2 năm nay, Bộ Kinh tế, Thương mại và Công nghiệp (METI) phê duyệt đầu tư tới 45 tỷ yên (300 triệu USD) vào Trung tâm Công nghệ Bán dẫn.
+
+Theo Business Korea, bắt đầu từ tháng 7 tới, Chính phủ Hàn Quốc sẽ khởi xướng chương trình đầu tư trị giá 18 nghìn tỷ won (12,94 tỷ USD) cho các công ty bán dẫn để thiết lập chương trình cho vay lãi suất thấp. Đây là một phần kế hoạch trong chương trình tài trợ 26 nghìn tỷ won của chính nước này.
+
+Theo đó, các công ty lớn trong ngành bán dẫn tại quốc gia này sẽ được hưởng lãi suất ưu đãi từ 0,8 – 1,0% và 1,2 – 1,5% cho các công ty vừa và nhỏ.
+
+Ngoài ra, chính phủ sẽ huy động tới 800 tỷ won (575,66 triệu USD) cho quỹ hệ sinh thái bán dẫn mới vào năm 2027. Đến năm sau, quỹ này có kế hoạch tích lũy 300 tỷ won để đầu đầu tư vào vật liệu, linh kiện, thiết bị và các công ty fabless (thiết kế chất bán dẫn). Tuy nhiên, theo hãng truyền thông Hàn Quốc TheElec, quỹ này sẽ được mở rộng lên 1,1 nghìn tỷ won.
+
+Chính phủ nước này cũng đang nhanh chóng hoàn thành các nghiên cứu sơ bộ về R&D quy mô lớn để sớm hoàn thiện cơ sở vật chất sản xuất chất bán dẫn nhằm đẩy mạnh năng lực cạnh tranh quốc gia.
+
+Theo báo cáo từ CNA, trong một cuộc họp hồi tháng 5 năm nay, Tổng thống Hàn Quốc Yoon Suk Yeol nhấn mạnh, để sản xuất chất bán dẫn phát triển, việc cắt giảm thuế sẽ thực sự tạo ra nhiều doanh thu thuế hơn.
+
+Ngoài ra, Hàn Quốc cũng đang đầu tư 470 tỷ USD để xây dựng khu vực đặc biệt dành riêng cho phát triển và sản xuất chất bán dẫn bên ngoài Seoul trong 23 năm tới.
+
+Hàn Quốc hiện thống trị việc sản xuất chip nhớ DRAM và NAND dùng để quản lý và lưu trữ dữ liệu trên các thiết bị trên PC, điện thoại thông minh và thẻ SD, chiếm thị phần toàn cầu trên 60%. Hàn Quốc đặt mục tiêu tăng thị phần chip và bộ xử lý khác.
+
+Năm 2022, Hàn Quốc xuất khẩu hàng hóa bán dẫn trị giá 129 tỷ USD, chiếm khoảng 19% kim ngạch xuất khẩu cả nước.
+
+Theo thông tin được đăng tải bởi cơ quan Chính phủ Trung Quốc, quốc gia này đang tăng gấp đôi kế hoạch thống trị các công nghệ tiên tiến trong tương lai bằng cách thành lập quỹ đầu tư nhà nước về bán dẫn lớn nhất từ ​​trước đến nay.
+
+Trong cuộc gặp với Thủ tướng Hà Lan Mark Rutte vào tháng 3, Chủ tịch Trung Quốc Tập Cận Bình nói rằng “không thế lực nào có thể ngăn cản sự phát triển khoa học và công nghệ của Trung Quốc”.
+
+Big Fund là tên gọi của quỹ đầu tư về bán dẫn của Chính phủ Trung Quốc. Quỹ này lần đầu được thành lập vào năm 2014 với 138,7 tỷ nhân dân tệ (19,2 tỷ USD). Giai đoạn gọi vốn thứ hai của quỹ là 5 năm sau đó, với số vốn đăng ký là 204,1 tỷ nhân dân tệ (28,2 tỷ USD). Mới đây, quỹ này chính thức bước vào giai đoạn thứ ba với tổng vốn tài trợ là 344 tỷ nhân dân tệ (47,5 tỷ USD).
+
+Trong lộ trình Made in China 2025, Chính phủ Trung Quốc đặt mục tiêu đưa quốc gia trở thành nước dẫn đầu toàn cầu trong nhiều ngành công nghiệp, bao gồm trí tuệ nhân tạo (AI), mạng không dây 5G và điện toán lượng tử.
+
+Trong hai năm qua, Mỹ đã cắt đứt khả năng mua chip tiên tiến nhất của Nvidia, vốn được sử dụng để đào tạo các mô hình trí tuệ nhân tạo, cũng như các máy sản xuất chip phức tạp nhất từ ​​​​ASML Holding và Ứng dụng Vật liệu.
+
+Trung Quốc đã phản ứng bằng cách tăng cường đầu tư vào các năng lực sản xuất chip kém tiên tiến hơn. Hiện họ đang xây dựng một mạng lưới các công ty chip xung quanh nhà vô địch quốc gia Huawei để đạt được những đột phá về công nghệ trong việc phát triển và sản xuất chip tiên tiến.

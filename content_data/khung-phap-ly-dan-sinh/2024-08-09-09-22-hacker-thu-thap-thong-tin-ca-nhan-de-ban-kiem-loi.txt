@@ -1,0 +1,23 @@
+Theo Cổng thông tin điện tử Bộ Công an, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (gọi tắt là Phòng An ninh mạng), Công an thành phố Đà Nẵng vừa tống đạt Quyết định khởi tố vụ án “Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác”.
+
+Đồng thời chuyển toàn bộ hồ sơ vụ việc, đối tượng cho Cơ quan Cảnh sát điều tra Công an thành phố Đà Nẵng thụ lý theo thẩm quyền.
+
+Trước đó, qua công tác trinh sát, nắm tình hình, Phòng An ninh mạng phối hợp với Công an quận Thanh Khê, thành phố Đà Nẵng tiến hành kiểm tra hành chính tại 02 căn hộ trên địa bàn quận Thanh Khê, qua đó phát hiện 02 nhóm đối tượng đang sử dụng nhiều thiết bị máy tính để thực hiện các hành vi xâm nhập và chiếm đoạt tài khoản mạng xã hội Facebook của người khác.
+
+Đấu tranh bước đầu xác định, khoảng tháng 12/2022, thông qua mạng xã hội, Phạm B.L (23 tuổi), tạm trú tại quận Thanh Khê tìm cách thu thập và khai thác thông tin tài khoản Facebook người khác bằng cách truy cập vào các trang web chuyên biệt, thường được gọi là “VIA” và “PAGE” đã được đối tương mua trước đó…
+
+Để thực hiện hành vi phạm tội, Phạm B.L đã thuê một nhóm gồm 11 đối tượng (tạm trú tại quận Thanh Khê), sau đó phân công nhiệm vụ cụ thể cho từng thành viên thông qua nhóm Telegram mang tên “Băng mũ rơm” do đối tượng  quản lý và cài đặt.
+
+Nhóm này được giao nhiệm vụ sử dụng phần mềm để tự động đăng các bài đánh giá đến nhiều trang Facebook cùng một lúc. Trong các bài đánh giá này, các đối tượng chèn một liên kết (đường link) được thiết kế để mô phỏng trang web của Meta (công ty mẹ của Facebook), nhằm làm tăng độ tin cậy và thu hút người dùng.
+
+Khi người dùng nhấp vào liên kết, họ sẽ được chuyển đến một trang web giả mạo và được yêu cầu nhập thông tin cá nhân để xác thực tài khoản. Các thông tin này sẽ được thu thập tự động và gửi về một công cụ nhận dữ liệu từ các tài khoản Facebook mà người dùng đã nhập thông tin vào trang giả mạo.
+
+Sau khi thu thập thông tin từ các tài khoản Facebook, Phạm B.L tiến hành kiểm tra bằng cách sử dụng thông tin này để đăng nhập trái phép vào các tài khoản và phân loại các tài khoản dựa trên hạn mức quảng cáo của chúng.
+
+Đối với các tài khoản có hạn mức quảng cáo cao sẽ được đối tượng bán trên các trang mạng xã hội như Telegram và Facebook để thu lợi bất chính. Các tài khoản có giá trị thấp hơn sẽ được các đối tượng trong nhóm sử dụng để đăng các bài đánh giá chứa liên kết đến trang web giả mạo, nhằm tiếp tục thu thập thông tin từ người dùng. Với thủ đoạn này, các đối tượng đã thu lợi bất chính khoảng 300 triệu đồng.
+
+Qua vụ việc này có thể nhận thấy, hành vi của Phạm B.L và các đối tượng liên quan đã gây ra những tổn thất lớn cho nhiều người dùng Facebook, đặc biệt là người nước ngoài.
+
+Các tài khoản Facebook bị xâm nhập, chiếm đoạt có thể bị các đối tượng sử dụng cho các mục đích bất hợp pháp, gây ra ảnh hưởng nghiêm trọng đến an ninh mạng và bảo mật thông tin cá nhân.
+
+Đây là lời cảnh báo về tầm quan trọng của việc bảo vệ thông tin cá nhân trên mạng. Vì vậy, người dùng cần nâng cao nhận thức về các nguy cơ bảo mật, theo đó cần sử dụng mật khẩu mạnh và cẩn thận hơn khi nhập thông tin cá nhân trên các trang web không rõ nguồn gốc.

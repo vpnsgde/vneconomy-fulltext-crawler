@@ -1,0 +1,27 @@
+Thống kê từ Chainalysis, được thông tin tại toạ đàm “Kiến tạo niềm tin số”, do Hiệp hội An ninh mạng quốc gia tổ chức chiều ngày 28/7/2025, chỉ tính riêng từ năm 2020 đến tháng 2/2025, thế giới đã ghi nhận 657 vụ tấn công vào hệ thống blockchain, gây thiệt hại lên tới 12,8 tỷ USD. Riêng 6 tháng đầu năm 2025 đã chứng kiến mức thiệt hại 2,17 tỷ USD, vượt qua cả năm 2024.
+
+Vụ tấn công Bybit (1,5 tỷ USD) trở thành vụ hack lớn nhất lịch sử blockchain, trong khi các vụ tấn công ví cá nhân chiếm tới 23,35% tổng thiệt hại - con số báo động cho cả người dùng và doanh nghiệp.
+
+Một vụ tấn công nổi bật liên quan đến các nền tảng có nguồn gốc từ Việt Nam như Sky Mavis (Ronin) năm 2022 gây thiệt hại hơn 600 triệu USD hay KyberSwap năm 2023 ước tính thiệt hại lên tới khoảng 50 triệu USD là lời cảnh báo rõ ràng về tính cấp thiết của việc đảm bảo an ninh cho các nền tảng blockchain trong nước.
+
+Đặc biệt trong bối cảnh Việt Nam đang từng bước hoàn thiện hành lang pháp lý cho tài sản số và nghiên cứu thí điểm các mô hình sàn giao dịch tài sản số ứng dụng công nghệ blockchain.
+
+Việc có định hướng đúng, đảm bảo an toàn bảo mật ngay từ giai đoạn đầu sẽ đóng vai trò then chốt trong việc xây dựng một hệ sinh thái chuỗi khối minh bạch, bền vững.
+
+Ông Vũ Ngọc Sơn, Trưởng ban Công nghệ, Hiệp hội An ninh mạng Quốc gia, cho biết: “Nền kinh tế số đang ngày càng phụ thuộc vào blockchain để lưu trữ và giao dịch tài sản, việc đảm bảo an ninh cho blockchain chính là đảm bảo an toàn cho tài sản số quốc gia. Chúng ta cần một chiến lược mang tính tổng thể, gắn kết giữa công nghệ, pháp lý và tăng cường nhận thức cộng đồng”.
+
+Tuy blockchain được sinh ra để đảm bảo an toàn và minh bạch, nhưng các ứng dụng chạy trên blockchain vẫn tiềm ẩn nguy cơ bị tấn công như các hệ thống công nghệ thông tin phổ biến khác.
+
+Theo Hiệp hội An ninh mạng Quốc gia, các nguyên nhân chính khiến hệ thống blockchain bị tấn công đến từ các lỗ hổng trong mã nguồn, hợp đồng thông minh, thiết kế hệ thống chưa đảm bảo hoặc quy trình vận hành, quản lý chưa tốt.
+
+Bên cạnh đó là các yếu tố phi kỹ thuật như tấn công vào điểm yếu của người dùng, lừa đảo, giả mạo. Trong thực tế, chính những lỗ hổng này mới là mục tiêu chính của tin tặc, bất kỳ sai sót nào cũng có thể dẫn tới thiệt hại nghiêm trọng hàng tỷ USD.
+
+Trong bối cảnh tài sản số và hệ sinh thái chuỗi khối (blockchain) ngày càng mở rộng, các mối đe dọa an ninh mạng cũng gia tăng đáng kể, đòi hỏi một cách tiếp cận chủ động, bền vững để bảo vệ tính toàn vẹn và niềm tin vào công nghệ.
+
+
+
+Hướng tới Ngày An ninh mạng Việt Nam 6/8/2025, Hiệp hội An ninh mạng Quốc gia (NCA) phối hợp cùng Công ty Công nghệ số SSI và Công ty Verichains tổ chức sự kiện GM Blockchain Security Forum, diễn ra ngày 1/8/2025 tại Trung tâm Hội nghị Quốc gia, Hà Nội. Sự kiện nằm trong khuôn khổ GM Việt Nam - tuần lễ blockchain lớn nhất Đông Nam Á.
+
+Theo Hiệp hội An ninh mạng Quốc gia, mục đích của hội thảo là tạo không gian kết nối nơi các cơ quan quản lý, chuyên gia hàng đầu về an ninh mạng và blockchain có thể trao đổi, chia sẻ các bài học kinh nghiệm từ những vụ tấn công điển hình. Từ đó nâng cao nhận thức về các rủi ro an ninh, đề xuất giải pháp công nghệ mới và đặc biệt là định hình khung pháp lý bảo vệ người dùng và thúc đẩy đổi mới sáng tạo trong lĩnh vực blockchain.
+
+Với chủ đề “Resilience & Trust in the Digital Future”, GM Blockchain Security Forum là hội thảo chuyên sâu quy tụ các chuyên gia hàng đầu trong nước và quốc tế. Nội dung xoay quanh phân tích các vụ hack trị giá hàng tỷ USD, tấn công ví MPC, rủi ro từ mã độc, an ninh chuỗi cung ứng blockchain, tuân thủ AML/CFT và khung pháp lý bảo vệ dữ liệu quốc gia.

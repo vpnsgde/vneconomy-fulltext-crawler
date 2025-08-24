@@ -1,0 +1,45 @@
+Lượng báo lỗi liên quan đến dịch vụ cloud Microsoft Azure tăng đột biến. Theo công cụ đo lường dịch vụ Internet DownDetector, phần lớn các khách hàng của Microsoft không thể đăng nhập hoặc sử dụng các dịch vụ lưu trữ của hãng.
+
+Sự cố này đang gây ảnh hưởng nghiêm trọng tại nhiều nơi trên thế giới khiến cho các chuyến bay bị hạ cánh khẩn cấp tại nhiều sân bay, dịch vụ ngân hàng trực tuyến từ chối cho khách hàng đăng nhập, giao dịch trong khi một số đài truyền hình buộc phải dừng phát sóng.
+
+Sự cố hệ thống máy tính đã ảnh hưởng trực tiếp tới các hãng hàng không American Airlines, Delta, United Airlines và Allegiant Air với hàng loạt chuyến bay bị đình chỉ do bị gián đoạn đề liên lạc.
+
+Hiện đã có những báo cáo sự cố xảy ra ở Mỹ, Ấn Độ, Nhật Bản và nhiều nước khác. Việc đăng nhập vào tài khoản của 2 ngân hàng tại Anh cũng gặp khó khăn. Ngoài ra, còn có báo cáo về việc các chuyến bay bị hạ cánh ở một số sân bay trên toàn thế giới.
+
+Ở Anh, dịch vụ tàu hỏa cũng bị gián đoạn vì sự cố này. “Chúng tôi hiện gặp phải sự cố về máy tính trên toàn bộ mạng lưới của mình”, Southern Railway đăng trên X. Đây là đơn vị đảm trách nhiều dịch vụ tàu hỏa ở miền nam nước Anh.
+
+Sky News hiện cũng không phát sóng dược tại Anh do gặp sự cố tương tự.
+
+Trước đó, truyền thông quốc tế đưa tin do sự cố trên, tại Malaysia, hành khách không thể làm thủ tục ký gửi hành lý cho chuyến bay của AirAsia tại sân bay quốc tế Kota Kinabalu ở Sabah.
+
+Tại sân bay Changi ở Singapore, hãng bay phát đồ ăn nhẹ và nước đóng chai cho hành khách đang chờ đợi xếp hàng dài để làm thủ tục.
+
+Tại sân bay Edinburgh của Anh, hành khách không thể sử dụng các máy quét thẻ lên máy bay tự động. Màn hình tại khu vực an ninh cũng hiển thị thông báo "server offline" (máy chủ ngoại tuyến), theo một nhân chứng của Reuters. Do đó, thẻ lên máy bay đang được tiếp viên kiểm tra thủ công.
+
+Tại Đức, các chuyến bay tại sân bay Berlin Brandenburg bị đình chỉ do "vấn đề kỹ thuật".
+
+Sân bay Schiphol của Amsterdam (Hà Lan), một trong những trung tâm hàng không bận rộn nhất châu Âu, cũng bị ảnh hưởng.
+
+Các hãng hàng không lớn của Mỹ bao gồm American Airlines, Delta Airlines và United Airlines đã ban hành lệnh ngừng bay vào sáng 19/7 (giờ địa phương).
+
+Hãng hàng không giá rẻ Frontier Airlines cho biết "sự cố kỹ thuật lớn của Microsoft" đã tạm thời ảnh hưởng đến hoạt động của công ty.
+
+Hiện, các công ty hàng không chưa cung cấp được số liệu cụ thể số lượng chuyến bay bị ảnh hưởng. Tuy nhiên, ước tính Frontier bị hủy 147 chuyến và hoàn 212 chuyến bay khác. Trong khi đó, có tới 45% chuyến bay của Allegiant bị hoãn và con số tương ứng của Sun Country là 23%.
+
+Chính phủ Úc cho biết tình trạng mất điện của các phương tiện truyền thông, ngân hàng và công ty viễn thông dường như có liên quan đến sự cố tại công ty an ninh mạng toàn cầu Crowdstrike – đối tác của Microsoft.
+
+Từ khoảng 11 giờ 30 đến 14 giờ 30 (giờ Việt Nam) ngày 19/7/2024, hệ thống Microsoft cloud toàn cầu gặp sự cố đã làm ảnh hưởng tới việc đặt chỗ, làm thủ tục online các hãng hàng không toàn cầu. Đến 14 giờ 30 hệ thống đã hoạt động trở lại, tuy nhiên một số chuyến bay phải điều chỉnh kế hoạch khai thác và một số chuyến bay chịu ảnh hưởng dây chuyền.
+
+Theo Cục Hàng không, sự cố liên quan đến Windows của Microsoft có ảnh hưởng đến một số máy tính của hãng hàng không ở một số sân bay song đã được Cục xử lý, khắc phục kịp thời.
+
+“Sự cố có ảnh hưởng đến một số máy tính của hãng hàng không ở một số sân bay, ảnh hưởng đến hệ thống làm thủ tục cho hành khách. Tuy nhiên Cục Hàng không có hệ thống dự phòng và đã chuyển đổi ngay để xử lý tình huống, không để ảnh hưởng đến hoạt động bay”, đại diện Cục Hàng không cho hay.
+
+Vụ việc “nóng” lên ngay sau khi Microsoft xác nhận dịch vụ đám mây Azure, Microsoft 365 và Team gặp trục trặc khiến nhiều chuyến bay bị ảnh hưởng, trong đó có Vietjet Air.
+
+Chiều 19/7, hãng hàng không Vietjet thông tin tới hành khách Hệ thống Microsoft toàn cầu bị gián đoạn, làm chậm thủ tục chuyến bay. Vietjet lưu ý hành khách có kế hoạch di chuyển trong ngày 19/7/2024 chủ động theo dõi thông tin tại mục "Chuyến bay của tôi" trên website www.vietjetair.com và ứng dụng điện thoại Vietjet Air, và liên hệ tổng đài nếu cần hỗ trợ.
+
+“Ảnh hưởng của lỗi hệ thống Microsoft là tình huống ngoài khả năng và mong muốn của hãng hàng không và khách hàng. Hãng hàng không xin chân thành cáo lỗi và mong hành khách thông cảm với tình huống đặc thù, bất khả kháng này”, thông báo của hãng hàng không Vietjet.
+
+Các hãng hàng không Việt Nam khác như Vietnam Airlines, Vietravel Airlines, Bamboo Airways chưa ghi nhận ảnh hưởng.
+
+Microsoft cũng cho biết, tình trạng ngừng hoạt động của họ bắt đầu vào khoảng 18h (giờ địa phương) ngày 18/7 (sáng 19/7 theo giờ Hà Nội), liên quan đến dịch vụ đám mây Azure. Hãng cho biết đã xác định được nguyên nhân và khôi phục được phần lớn hệ thống, tuy nhiên vẫn còn một số dịch vụ Microsoft 365 và Team, gây ảnh hưởng cho khách hàng.

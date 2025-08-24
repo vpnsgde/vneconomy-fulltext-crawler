@@ -1,0 +1,31 @@
+Từ lâu, bia Bỉ đã nổi tiếng về sự phong phú và chất lượng. Tuy nhiên, các nhà nghiên cứu vẫn muốn khai thác sức mạnh của trí tuệ nhân tạo để làm bia ngon hơn. Giáo sư Kevin Verstrepen đến từ Đại học KU Leuven, cho biết bia chứa hàng trăm phân tử hương thơm khác nhau, còn AI có thể giúp phân biệt các mối quan hệ phức tạp liên quan đến nhận thức mùi hương của con người.
+
+Viết trên tạp chí Nature Communications, GS. Verstrepen và các đồng nghiệp báo cáo cách họ phân tích thành phần hóa học của 250 loại bia thương mại của Bỉ thuộc 22 phong cách khác nhau, các tính chất được nghiên cứu là nồng độ cồn, pH, nồng độ đường, cũng như hơn 200 hợp chất khác nhau liên quan đến hương vị. Sử dụng các bộ dữ liệu khác nhau, nhóm nghiên cứu đã xây dựng các mô hình dựa trên học máy để dự đoán vị bia sẽ như thế nào và mức độ được tiếp nhận dựa trên thành phần của nó.
+
+Sau đó, họ sử dụng kết quả để cải thiện một loại bia thương mại hiện có, về cơ bản tăng cường các chất được mô hình cho là yếu tố dự báo quan trọng đến đánh giá tổng thể. Kết quả từ hội đồng nếm thử cho thấy những bổ sung này đã cải thiện thứ hạng cho cả bia có cồn và không cồn trên các chỉ số. Dù các mô hình còn những hạn chế, GS. Verstrepen cho biết, ứng dụng lớn nhất của chúng có thể là tinh chỉnh các loại bia không cồn để làm cho chúng ngon hơn.
+
+Theo The Guardian, các chuyên gia công nghệ thực phẩm của Mondelez cũng đã ứng dụng AI để tạo ra các công thức tối ưu với các đặc điểm mong muốn như hương vị và hình thức. Công cụ AI này cũng giúp đánh giá các thông số như chi phí nguyên liệu, tác động đến môi trường và giá trị dinh dưỡng của các loại đồ ăn nhẹ. Công cụ AI này được công ty phần mềm Fourkind phát triển, sử dụng máy học thay vì AI tạo sinh được ChatGPT phổ biến.
+
+Tại Trung Quốc, một loại robot được trang bị cảm biến đang được sử dụng để bắt chước các chức năng của mắt, mũi và lưỡi con người. Nhiệm vụ của nó là nếm thử mẫu để đảm bảo chất lượng của các loại thực phẩm sản xuất hàng loạt. Theo SCMP, những con robot như trên đã giúp tiết kiệm cho ngành chế biến thực phẩm nước này hàng trăm triệu USD mỗi năm.
+
+Trí tuệ nhân tạo trang bị trên robot nếm thức ăn sẽ phân tích dữ liệu thu được từ cảm biến của nó, từ đó có thể phát hiện và giám sát sự khác biệt nhanh hơn con người. Hệ thống này có thể đạt độ chính xác lên tới 90% của người, trong khi hoàn toàn loại bỏ được yếu tố thiên lệch (bias) hay sai khác do khẩu vị cá nhân. Vì thế, nhiều ý kiến đánh giá hệ thống kiểm thử tự động là tốt cho mục tiêu tăng sản lượng và hoạt động kinh doanh.
+
+Kaffa Roastery, một nhà rang xay thủ công có trụ sở tại thủ đô Phần Lan, năm ngoái đã giới thiệu sản phẩm cà phê được phát triển bằng công nghệ trí tuệ nhân tạo (AI). Sản phẩm cà phê ra đời có tên tọi là “AI-conic”, được kết hợp từ 4 loại hạt cà phê của Brazil, Colombia, Ethiopia và Guatemala. Sản phẩm do Kaffa Roastery, nhà rang xay cà phê lớn thứ ba của Phần Lan, phối hợp với công ty tư vấn AI Elev thực hiện.
+
+Hãng tin AP dẫn lời đại diện Elev cho biết: “Tận dụng các mô hình tương tự như ChatGPT và Copilot, AI được giao nhiệm vụ tạo ra một hỗn hợp cà phê phù hợp với thị hiếu của người tiêu dùng, vượt qua ranh giới của sự kết hợp hương vị thông thường”.
+
+Sau lần rang thử nghiệm đầu tiên và thử nếm theo phương pháp “thử nghiệm mù”, các chuyên gia cà phê của Kaffa Roastery đồng ý rằng hỗn hợp “AI-conic” mang đến hương vị hoàn hảo, không cần sự điều chỉnh của con người. Người phát ngôn Antti Merilehto của công ty công nghệ Elev chia sẻ: “AI-conic là một ví dụ hữu hình về cách AI có thể giới thiệu những quan điểm mới cho các chuyên gia dày dạn kinh nghiệm, đồng thời mang đến cho tín đồ cà phê những trải nghiệm hương vị mới”.
+
+Nikkei Asian Review thì cho rằng AI có thể sẽ hữu ích cho ngành F&B khi việc làm giả các mặt hàng thực phẩm đã không còn là chuyện hiếm. Chẳng hạn, loại thực phẩm bị làm giả nhiều nhất cũng chính là thức uống được ưa dùng nhất thế giới: trà xanh (matcha).
+
+Giám đốc điều hành của startup công nghệ thực phẩm ProfilePrint, Alan Lai, giải thích đó là vì sẽ dễ thu lời hơn rất nhiều nếu có thể "bán những lá trà chất lượng thấp với giá cao". Ông Lai cũng cho biết nhiều loại thực phẩm đắt tiền khác như nấm cục và nhân sâm cũng đối mặt với nguy cơ bị làm giả.
+
+Để đối phó với vấn nạn trên, công ty ProfilePrint đã nhảy vào thị trường để giải quyết chướng ngại này. Hãng đã phát triển công nghệ riêng là một máy quét sử dụng AI và phân tích hóa học nhằm xác định và phân loại trà, cũng như nhiều loại thực phẩm khác. Theo Asian Scientist, công nghệ này tiêu tốn ít tiền bạc và thời gian hơn rất nhiều, khi các nhà nghiên cứu không cần phải nghiền nát hoặc chế biến mẫu trà trước khi phân tích. Bên cạnh đó, bộ dữ liệu của ProfilePrint cũng cho phép xác minh nguồn gốc, phương thức sản xuất và mùa thu hoạch của trà.
+
+Mới đây, các nhà nghiên cứu tại Đại học Bang Ohio, Mỹ, đã phát triển hệ thống e-Taste, một công nghệ đột phá giúp người dùng trải nghiệm hương vị từ xa, định nghĩa lại trải nghiệm kết nối thực tế ảo qua vị giác. Theo đó, e-Taste kết hợp cảm biến sinh học và bộ phân phối hóa chất không dây cho phép mô phỏng chính xác 5 vị cơ bản: ngọt, chua, mặn, đắng và umami (vị ngọt thịt).
+
+Theo công bố trên tạp chí Science Advances, người tham gia có thể phân biệt chính xác khoảng 70% các mức độ chua khác nhau do e-Taste tạo ra. Hệ thống cũng đã chứng minh khả năng truyền tải hương vị từ khoảng cách xa, chẳng hạn như một người tại Ohio có thể trải nghiệm món ăn được kích hoạt từ California. Nghiên cứu này không chỉ mở ra cơ hội nâng cao trải nghiệm VR mà còn có tiềm năng hỗ trợ ngành y tế cũng như kinh doanh ẩm thực và du lịch, theo TechXplore.
+
+Có thể nói, từ việc tự động hóa những công việc mang tính chất lặp lại, công việc nặng nhọc hay sáng tạo những nội dung hấp dẫn, có giá trị, AI đang trở thành công cụ để tối ưu hóa hoạt động kinh doanh, tạo điều kiện để các nhà sản xuất thực phẩm tập trung vào việc nâng cao trải nghiệm khách hàng.
+
+Ông Marion Nestle, Giáo sư danh dự về dinh dưỡng, nghiên cứu thực phẩm tại Đại học New York, cho biết từ thực tế các công ty thực phẩm chạy đua để thử nghiệm AI, có thể thấy tiềm năng công nghệ này. Thậm chí, AI có thể sẽ tham gia vào việc phát triển công thức nấu ăn trong tương lai.

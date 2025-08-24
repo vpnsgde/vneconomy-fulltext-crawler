@@ -1,0 +1,31 @@
+Viện Chiến lược và Kinh tế - Tài chính (NIEF – Bộ Tài chính) vừa công bố Báo cáo Phát triển ngành kinh tế vận tải Thủ đô tại hội thảo mới đây bàn về các giải pháp phát triển kinh tế vận tải cho TP.Hà Nội.
+
+Báo cáo cho biết mặc dù chịu ảnh hưởng nặng nề từ đại dịch Covid-19, ngành vận tải kho bãi của Hà Nội  năm 2023 đã có những dấu hiệu phục hồi tích cực, chiếm 8,5% tổng giá trị tăng thêm của Hà Nội (cao hơn so với mức 7,03% của giai đoạn trước năm 2023).
+
+Tuy nhiên, xét về cơ cấu nội ngành, chỉ có tiểu ngành kho bãi và các hoạt động hỗ trợ vận tải chiếm tỷ trọng cao nhất là có xu hướng tăng mạnh, trong khi các loại hình vận tải truyền thống khác như đường bộ, đường sắt, đường thủy, hàng không lại có xu hướng giảm dần hoặc chững lại.
+
+Sự chững lại của các loại hình vận tải truyền thống, theo NIEF, là do hạ tầng giao thông vận tải của Hà Nội vẫn còn nhiều điểm nghẽn. Cụ thể, hệ thống đường sắt đô thị mới chỉ đưa vào khai thác một phần nhỏ so với quy hoạch (18,75%), giao thông đường không tại sân bay Nội Bài đã quá tải 27% công suất thiết kế, trong khi tiềm năng giao thông đường thủy mới chỉ khai thác được 22%.
+
+Tỷ lệ đất dành cho giao thông của TP.Hà Nội còn thấp (9,18% so với chuẩn 20-26%), mật độ đường giao thông chưa đạt chuẩn, và số điểm ùn tắc giao thông vẫn còn ở mức cao (76 điểm, tăng 18 điểm so với năm 2023). Tốc độ di chuyển trong giờ cao điểm chỉ đạt 15-18 km/h.
+
+Mặc dù vận tải công cộng bằng xe buýt đã có 214 tuyến, nhưng tỷ lệ đáp ứng nhu cầu đi lại mới chỉ đạt 21,5%, còn xa mục tiêu 45-50% vào năm 2030.
+
+Đáng chú ý, trái ngược với sự gia tăng nhanh chóng của phương tiện cá nhân (ô tô tăng 11,5%/năm giai đoạn 2020-2025), phát triển hạ tầng giao thông lại không tương xứng (chỉ tăng 0,03%/năm) đang khiến Hà Nội thiệt hại  1,2 tỷ USD/năm do tắc nghẽn giao thông.
+
+Bên cạnh đó, việc phát triển giao thông vận tải gắn với mô hình kinh tế chia sẻ cũng đối mặt với nhiều thách thức: khung pháp lý chưa đồng bộ, sự phối hợp giữa các cơ quan quản lý còn yếu kém, nguy cơ thâu tóm thị trường từ các tập đoàn công nghệ lớn, vấn đề bảo mật dữ liệu cá nhân, chất lượng dịch vụ chưa được kiểm soát chặt chẽ, hạ tầng số chưa đáp ứng và nguồn nhân lực chất lượng cao còn thiếu.
+
+Trước những thách thức kể trên, việc xây dựng một mô hình quản lý giao thông vận tải hiệu quả kết hợp hạ tầng hiện đại và ứng dụng công nghệ số là yêu cầu cấp thiết để giải quyết các vấn đề hiện hữu, đồng thời tạo động lực mới cho sự phát triển kinh tế - xã hội của thành phố.
+
+Trong đó, theo NIEF, việc xây dựng mô hình Trung tâm Điều hành giao thông thông minh hiện đại có khả năng giám sát và điều hành toàn bộ hệ thống giao thông thành phố theo thời gian thực sẽ là giải pháp tối ưu cho Hà Nội.
+
+Trung tâm này sẽ có chức năng chính là thu thập dữ liệu từ hệ thống camera AI, cảm biến IoT, GPS; giám sát mạng lưới giao thông để phát hiện sự cố; điều khiển đèn tín hiệu một cách tự động và thông minh; phân tích dữ liệu để dự báo tình hình giao thông; phối hợp đa ngành (Sở Xây dựng, Công an, doanh nghiệp vận tải và đơn vị công nghệ) và tương tác với người dân thông qua các ứng dụng di động.
+
+Cùng với đó là Hệ thống quản lý tập trung các loại hình vận tải nhằm kết nối liền mạch giữa các loại hình vận tải công cộng (xe buýt, BRT, metro) và vận tải cá nhân (taxi, xe máy, xe đạp, dịch vụ gọi xe công nghệ như Grab, Be, Gojek).
+
+Triển khai các ứng dụng giao thông đô thị hợp nhất nhằm cung cấp cho người dân một nền tảng duy nhất để tìm đường, cập nhật thông tin giao thông, đặt vé, thanh toán điện tử, lên lịch trình cá nhân hóa và phản ánh chất lượng dịch vụ; và các bãi gửi xe thông minh.
+
+Cùng với các giải pháp thông minh, NIEF cũng đề xuất Hà Nội đồng bộ hạ tầng truyền thống, (tiếp tục mở rộng mặt cắt đường, xây dựng cầu vượt, hầm chui, tái tổ chức giao thông và tăng diện tích vỉa hè); ưu tiên làn đường và kết nối đa phương tiện (thiết lập làn đường ưu tiên cho xe buýt trên các trục chính, kết nối chặt chẽ với nhà ga metro, trạm trung chuyển, và xây dựng các bến đón xe buýt thông minh) và hỗ trợ các phương tiện xanh (như xây dựng mạng lưới trạm sạc xe điện, phát triển mạng lưới xe đạp công cộng thông minh và khuyến khích đầu tư xã hội hóa vào hệ sinh thái giao thông xanh).
+
+Song để làm được điều này, theo TS. Nguyễn Hoàng Hà, Trưởng ban, Ban Chính sách Tài chính công NIEF, cần có cơ chế phối hợp liên ngành giữa các sở, ban, ngành, chính quyền địa phương và các doanh nghiệp vận tải, công nghệ nhằm xây dựng khung pháp lý về dữ liệu mở, quy định rõ ràng về việc thu thập, sử dụng, lưu trữ, bảo mật dữ liệu giao thông và quyền của người dùng.
+
+“Dữ liệu giao thông được chia sẻ sẽ là cơ sở quan trọng cho quy hoạch đô thị, giúp tối ưu hóa đầu tư, cải thiện lưu lượng xe, tiết kiệm chi phí vận hành và đáp ứng tốt hơn nhu cầu đi lại của người dân”, ông Hà nhấn mạnh.

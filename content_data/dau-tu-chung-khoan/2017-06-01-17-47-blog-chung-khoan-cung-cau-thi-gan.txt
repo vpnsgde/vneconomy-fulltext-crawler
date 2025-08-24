@@ -1,0 +1,45 @@
+Thanh khoản rất tệ hôm nay khả năng cao là do cung cầu không gặp nhau.
+
+Thị trường ngày 1/6/2017:
+
+Điều gây bất ngờ nhất hôm nay chính là thanh khoản. Dòng tiền giảm đột biến tạo cảm giác bất an.
+
+Vốn nội thuần trừ ROS hôm nay chỉ là 2.655 tỷ đồng, thấp hơn rất đáng kể so với mặt bằng trung bình 4 tuần trở lại đây. Thị trường đang có dòng tiền hàng ngày trên dưới 4.000 tỷ, đột nhiên giảm xuống thấp như vậy là không bình thường.
+
+Dòng tiền giảm có thể được nhìn nhận từ cả hai phía. Rất có thể việc tiền ít đi trông thấy là hiện tượng suy giảm sức cầu do bị rút vốn. Dòng tiền chốt lời đã không hoạt động mạnh ngay lập tức như những tuần trước đây. Thậm chí nếu tiêu cực hơn có thể là tiền đang ra khỏi thị trường.
+
+Phía ngược lại, hôm nay cung cầu có thể không gặp nhau: Người bán không muốn chạy bằng được ở giá thấp nữa, trong khi người mua tiếp tục chờ đợi và căn giá. Có thể thấy tốc độ giao dịch hôm nay cực kỳ chậm, không giống với lối giao dịch cởi mở như trước đó khi cả người mua lẫn người bán đều hài lòng. Vì cung cầu không gặp nhau nên lượng vốn luân chuyển trên thị trường giảm xuống.
+
+Khả năng tiền bị rút khỏi thị trường là góc nhìn hơi bi quan lúc này. Tiền trên thị trường về cơ bản là ổn định trong ngắn hạn, chỉ có tính sẵn sàng hoạt động là thay đổi trong từng thời điểm. Lấy ví dụ nhịp điều chỉnh hiện tại, người vừa bán thường chờ đợi một mức giá tốt hơn mức giá vừa thoát ra vì không lẽ lại quay lại mua bằng hay cao hơn giá vừa bán?
+
+Trong khi đó giá cổ phiếu vẫn bình ổn và phân hóa, số tăng giá khá nhiều. Nói đơn giản thì người bán có thể cảm thấy rằng giá chưa đủ tốt để mua lại, trong khi cung không còn đủ lớn (ít nhất là hôm nay) để ép giá xuống sâu hơn.
+
+Vì thế có khả năng cao hơn là cung cầu hôm nay đứng nhìn nhau là chính nên giao dịch vừa chậm, vừa không tạo được thanh khoản cao. Ngay cả các cổ phiếu bình thường thanh khoản rất lớn, hôm nay cũng giảm đi đáng kể. Cả hai bên mua và bán đang thi xem bên nào kiên nhẫn hơn.
+
+Nếu trường hợp xấu xảy ra là dòng tiền đã đạt đỉnh và bắt đầu suy yếu. Hậu quả sẽ sớm thấy là thị trường từ từ lịm đi và duy trì mức thanh khoản kém liên tục, giá lình xình và yếu dần theo hướng giảm. Đến lúc nào đó sẽ có hiện tượng thoát ra đồng loạt và giá rơi đủ mạnh mới kích thích tiền quay lại.
+
+Ngược lại, nếu giá không giảm nhiều mà đi ngang, dòng tiền cũng có thể quay lại khi nhận thấy rằng thị trường đã ổn định sau những ngày bán mạnh vừa rồi. Người cầm tiền có thể sẽ chấp nhận mặt bằng giá mới khi cho rằng không thể mua được ở giá thấp hơn nữa.
+
+Thanh khoản hàng ngày thường được sử dụng để đo lường sức mạnh thị trường, nhưng thực ra thanh khoản chỉ là kết quả nhìn thấy được, chứ không phải nguyên nhân. Tính kiên nhẫn và khả năng chấp nhận giá và tâm lý của mỗi bên mới là yếu tố dẫn đến thanh khoản. Đằng sau mỗi lệnh vào thị trường đều là ý chí và đánh giá cơ hội/rủi ro. Khoảng mờ không nhỏ là chờ đợi một diễn biến rõ ràng để đi theo hướng thuận lợi nhất.
+
+Chốt lại, thị trường vẫn đang trong nhịp điều chỉnh ngắn hạn bình thường, thanh khoản co dãn từng ngày theo đánh giá của mỗi bên. Cổ phiếu tăng quá lớn có thể sẽ tiếp tục điều chỉnh thêm, nhưng cổ phiếu đã giữ được mức hỗ trợ thì chỉ có thể giảm sâu hơn nếu tâm lý thực sự bi quan.
+
+Giao dịch:
+
+Quan sát.
+
+Danh mục theo dõi:
+
+BID:
+
+Trong phiên BID giao dịch khá ổn quanh tham chiếu, cầu đẩy lên yếu nhưng cung cũng hạn chế. Giao dịch trên tham chiếu khoảng 2 triệu cổ ~ 63% Vol. Thanh khoản giảm mạnh và chỉ có 735k ~ 23% Vol giao dịch dưới tham chiếu. Tuy nhiên lúc đóng cửa BID xuất hiện áp lực tương đối mạnh, giá bị ép về 18.3 là mức thấp nhất ngày.
+
+Hôm nay chỉ có nhà đầu tư trong nước bán ra, như vậy đang có hiện tượng cắt lỗ ở BID. Khả năng rất cao giá sẽ kiểm tra lại vùng 18.2 như dự kiến.
+
+SSI:
+
+Nước ngoài mua bán cơ bản là cân bằng nhưng SSI bị gia tăng sức ép buổi chiều. Điều tốt là gần như toàn bộ Vol là giao dịch trên tham chiếu. Cầu đẩy rất khá nhưng VOl giảm mạnh, tức là cung vùng giá xanh không nhiều ở gần tham chiếu. Hôm nay SSI không chịu sức ép dưới tham chiếu dù có lúc chặn bán tham chiếu.
+
+SSI có thể đã giảm đáng kể sức ép bán thấp nhưng chưa có đủ sức mua cao hơn. Có khả năng giá sẽ đi ngang hẹp với Vol thấp trong vài ngày tới. Giá vượt 25-25.2 sẽ là dấu hiệu tốt.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

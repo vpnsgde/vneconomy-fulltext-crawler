@@ -1,0 +1,25 @@
+Phó Cục trưởng Cục An toàn thông tin Trần Đăng Khoa vừa ký văn bản thông tin cảnh báo tới đơn vị chuyên trách về công nghệ thông tin của các bộ, ngành, địa phương; các tập đoàn, tổng công ty nhà nước; các ngân hàng nhà nước; các ngân hàng, tổ chức tài chính, các đơn vị chuyên trách an toàn thông tin về các lỗ hổng bảo mật ảnh hưởng cao và nghiêm trọng trong các sản phẩm Microsoft công bố tháng 11/2022.
+
+Theo đó, trong danh sách bản vá tháng 11/2022 với 64 lỗ hổng bảo mật mới được Microsoft phát hành các chuyên gia an ninh mạng đặc biệt lưu ý các tổ chức đơn vị, doanh nghiệp về 18 lỗ hổng có mức ảnh hưởng cao và nghiêm trọng.
+
+Cụ thể, có 6 lỗ hổng bảo mật CVE-2022-41082, CVE-2022-41040, CVE-2022-41080, CVE-2022-41079, CVE-2022-41078, CVE-2022-41123 tồn tại trong Microsoft Exchange Server cho phép đối tượng tấn công thực thi mã từ xa, nâng cao đặc quyền. Trong đó, 2 lỗ hổng CVE-2022-41082, CVE-2022-41040 đã được cảnh báo trước đó về  lỗ hổng bảo mật zero-day ảnh hưởng nghiêm trọng đến Microsoft Exchange.
+
+Đặc biệt có 2 lỗ hổng đang bị khai thác trong thực tế là CVE-2022-41128, CVE-2022-41118 trong Windows Scripting Languages cho phép đối tượng tấn công thực thi mã từ xa.
+
+Ngoài ra còn có lỗ hổng CVE-2022-41091 trong Windows Mark of the Web cho phép đối tượng tấn công thực hiện tấn công vượt qua cơ chế bảo mật. Lỗ hổng CVE-2022-41073 trong Windows Print Spooler cho phép đối tượng thực hiện tấn công nâng cao đặc quyền. Lỗ hổng CVE-2022-41125 trong Windows CNG Key Insolation Service cho phép đối tượng thực hiện tấn công nâng cao đặc quyền.
+
+3 lỗ hổng CVE-2022-41044, CVE-2022-41088, CVE-2022-41039 trong Windows Point-to-Point cho phép đối tượng tấn công thực thi mã từ xa.
+
+4 lỗ hổng bảo mật CVE-2022-41105, CVE-2022-41106, CVE-2022-41063, CVE-2022-41104 trong Microsoft Excel cho phép đối tượng tấn công thực thi mã từ xa, tấn công giả mạo (Spoofing), thực hiện tấn công vượt qua cơ chế bảo mật.
+
+
+
+Để tránh những nguy cơ tấn công, đảm bảo an toàn thông tin cho hệ thống thông tin, Cục An toàn thông tin khuyến nghị các cơ quan, tổ chức, doanh nghiệp cần kiểm tra, rà soát, xác định máy sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng.
+
+Trong trường hợp bị ảnh hưởng, các tổ chức đơn vị, doanh nghiệp cần cập nhật bản vá kịp thời để tránh nguy cơ bị tấn công.
+
+Cùng với đó tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng; đồng thời thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+
+Cục An toàn thông tin nhấn mạnh, biện pháp tốt nhất để khắc phục là cập nhật bản vá cho các lỗ hổng bảo mật nói trên theo hướng dẫn của hãng.
+
+Theo các chuyên gia, lỗ hổng bảo mật là một trong những nguyên nhân hàng đầu gây ra các cuộc tấn công mạng nhắm vào tổ chức, doanh nghiệp. Thống kê cho thấy, trên thế giới có hơn 900 cuộc tấn công mạng, 5 mã độc mới sinh ra mỗi giây và phát hiện 40 lỗ hổng mỗi ngày.

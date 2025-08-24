@@ -1,0 +1,29 @@
+Theo Financial Times, trong báo cáo thường niên mới nhất của mình, Nvidia – “ông lớn” công nghệ chuyên cung cấp chất bán dẫn cho trí tuệ nhân tạo (AI) thậm chí còn không báo cáo doanh thu của mình ở khu vực châu Âu. Điều này là một tín hiệu cảnh báo đối với châu lục này về sự phát triển công nghệ tại đây.
+
+Ngày nay, đầu tư vào nghiên cứu và phát triển công nghệ ở châu Âu chỉ bằng 1/5 so với ở Mỹ và một nửa ở Trung Quốc. Thậm chí đầu tư vào AI ở Mỹ cao hơn khoảng 50 lần so với ở châu Âu. Công nghệ châu Âu đang tụt hậu so với các đối thủ cạnh tranh ở mức đáng báo động.
+
+Làn sóng sa thải trong ngành công nghệ gần đây đã chỉ ra một số yếu điểm đang tồn tại của các mô hình công nghệ tại châu Âu. Tái cơ cấu ở châu Âu mất nhiều thời gian hơn và chi phí cao hơn nhiều so với ở Mỹ, điều này đã cản trở đầu tư vào AI.
+
+Tại Mỹ, Microsoft đã sa thải 10.000 nhân viên vào tháng 1 năm 2023 và báo cáo chi phí thôi việc là 800 triệu USD, tương đương 80.000 USD/người. Chi phí tái cơ cấu lên tới 5,9 tháng lương trung bình. Oliver Coste, một doanh nhân công nghệ cho biết con số tương ứng là 4,2 tháng đối với Meta, 7,5 tháng đối với Google và chỉ 3 tháng đối với Twitter.
+
+Thành công mang tính đột phá của ChatGPT đã tạo ra cú rung chuyển trong ngành công nghệ. Microsoft đã sắp xếp hợp lý lực lượng lao động của mình, đầu tư 10 tỷ USD vào OpenAI và chi lớn để đầu tư vào cơ sở hạ tầng AI của riêng mình. Meta đã tạm dừng nỗ lực của mình trên metaverse, sa thải 20.000 nhân viên trong vòng vài tháng và tăng khoản đầu tư vào AI lên 37 tỷ USD trong năm nay.
+
+Bị thách thức bởi sự thống trị của mình trong lĩnh vực tìm kiếm, Google đã dừng các dự án lớn, sa thải 12.000 nhân viên và tăng tốc phát triển AI bằng cách tăng cường đầu tư vào R&D lên 45 tỷ USD vào năm 2023.
+
+Tại châu Âu, ba hãng công nghệ hàng đầu là Nokia, SAP và Ericsson – cũng đã công bố kế hoạch tái cơ cấu. Trong khi doanh số bán hàng sụt giảm mạnh vào năm ngoái đối với Nokia - nhà đầu tư công nghệ lớn nhất châu Âu, đòi hỏi họ phải hành động ngay lập tức. Tuy nhiên công ty sẽ phải đợi ít nhất đến năm 2026 mới thực hiện được kế hoạch của mình do các quy định lao động ở Đức, Pháp và Phần Lan.
+
+SAP, công ty phần mềm hàng đầu châu Âu cũng không thể phản ứng nhanh. Họ chỉ có thể đầu tư vào AI với tốc độ 500 triệu Euro/năm, quá khiêm tốn so với hàng chục tỷ USD được đầu tư bởi các ông lớn tại thị trường Mỹ.
+
+Tái cơ cấu có vai trò quan trọng trong lĩnh vực công nghệ hơn bất kỳ lĩnh vực nào khác? Đơn giản vì đầu tư vào công nghệ tiên tiến có nhiều rủi ro hơn. Không có gì lạ khi thấy tỷ lệ thất bại lên tới 80%.
+
+Coste đã trình bày trong cuốn sách Europe, Tech and War (tạm dịch: Châu Âu, Công nghệ và Chiến tranh) của mình, các khoản đầu tư được coi là có lãi ở Mỹ lại không tạo được hiệu quả ở châu Âu, chính là do các công ty lớn thiếu khả năng tái cấu trúc nhanh chóng với chi phí thấp.
+
+Ở cấp độ vĩ mô hơn, chẩn đoán này được xác nhận bởi một nghiên cứu của McKinsey cho thấy các công ty lớn ở châu Âu có lợi nhuận thấp hơn nhiều so với các đối tác Mỹ và 90% khoảng cách đó có thể là do các ngành công nghiệp sáng tạo công nghệ.
+
+Công nghệ là không thể đoán trước, đột phá và không ổn định. Với chi phí thôi việc cao hơn và thời gian trì hoãn kéo dài hơn, chi phí thích ứng ở châu Âu cao hơn ở Mỹ khoảng 10 lần. Sau nhiều thập kỷ linh hoạt hơn, các công ty Mỹ có đủ nguồn tài chính để đầu tư vào AI. Các công ty châu Âu không thể bắt kịp được tốc độ này.
+
+AI đang thúc đẩy cuộc cách mạng công nghiệp hiện nay, giống như động cơ hơi nước ở thế kỷ 19 và động cơ đốt trong ở thế kỷ 20. Đầu tư toàn cầu vào cơ sở hạ tầng AI được dự báo sẽ đạt khoảng 150 tỷ USD vào năm 2024, chủ yếu do Mỹ và Trung Quốc thúc đẩy. Ngược lại, ở châu Âu, các báo cáo theo dõi về đầu tư mới chỉ xác định được khoản đầu tư trị giá vài tỷ USD của cả các nhà lãnh đạo công nghệ và các công ty khởi nghiệp.
+
+Các yếu tố khác có thể giải thích những khó khăn của châu Âu trong lĩnh vực công nghệ như hội nhập thị trường, quy mô thị trường, nguồn vốn, quy định và thậm chí cả văn hóa. Tuy nhiên, dường như không có yếu tố nào trong số này ngăn cản được sự xuất hiện của các công ty dẫn đầu châu Âu trong các ngành trưởng thành, ít rủi ro hơn như ô tô hoặc hàng không. Và bởi vậy, châu Âu được đánh giá đang phải đối mặt với một vấn đề cụ thể về công nghệ sẽ nhanh chóng lan sang tất cả các lĩnh vực trong tương lai gần.
+
+Một giải pháp không đe dọa mô hình xã hội châu Âu và có thể có hiệu quả cao là cải cách luật bảo vệ việc làm đối với mức lương trên ngưỡng cao. Điều đó có thể giúp đưa châu Âu trở lại vị trí dẫn đầu về đổi mới.

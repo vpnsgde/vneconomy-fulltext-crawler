@@ -1,0 +1,138 @@
+Đây là một trong những lưu ý được chuyên gia, doanh nghiệp đề
+cập khi nhìn nhận về các rủi ro lớn nhất về đạo đức và pháp lý khi doanh nghiệp
+dùng AI trong ESG (môi trường, xã hội, quản trị).
+
+Trong bối cảnh hiện nay, các doanh nghiệp ngày càng hướng tới những công nghệ thân thiện với
+môi trường, như trí tuệ nhân tạo "xanh" (Green AI), để giảm thiểu lượng
+khí thải carbon và tác động đến môi trường. Hiện nay có nhiều doanh nghiệp tổng hợp dữ liệu để ứng dụng các công cụ AI trong hoạt động sản xuất, kinh doanh và cả ESG...
+
+ỨNG DỤNG AI THỰC THI ESG
+
+Khảo sát cho thấy chỉ có 27% các doanh nghiệp trực thuộc hiệp
+hội doanh nghiệp vừa và nhỏ quan tâm ESG, và chỉ 11% doanh nghiệp thực hành
+thành công ESG.
+
+Chia sẻ con số này, Viện Kinh
+tế và Phát triển doanh nghiệp phân tích nguyên nhân là do thiếu thông tin chính
+thống, chưa có nguồn lực đầu tư. Bên cạnh đó, ESG làm chi phí tăng thêm cho cộng
+đồng doanh nghiệp.
+
+Tuy nhiên, chuyên gia này cũng chỉ ra những dấu hiệu tích cực khi ESG
+được triển khai ở các hội nghề nghiệp. Đặc biệt do yêu cầu từ các chuỗi cung ứng,
+nếu nằm ngoài chuỗi cung ứng này thì doanh nghiệp sẽ không đáp ứng được, nên bắt
+buộc phải đáp ứng các tiêu chuẩn.
+
+Việc áp dụng AI trong ESG đã được các chuyên gia nhận định
+hiệu quả trong việc dễ đo lường và tiết kiệm chi phí... Điều này có vai trò rất
+tốt với các doanh nghiệp vừa và nhỏ.
+
+Theo chia sẻ từ một số doanh nghiệp, AI có các lợi ích như tự
+động hóa, cá nhân hóa và tăng hiệu quả công việc; hỗ trợ ra quyết định nhanh,
+chính xác; tiết kiệm chi phí vận hành; minh bạch và chống gian lận.
+
+Đại diện Gamuda Land Việt Nam cho biết đã xây dựng AI riêng
+như Gamuda Bot UNIFY, AI giải đáp tốt các thông tin về tập đoàn. Doanh nghiệp
+thiết lập hệ thống dữ liệu, nhân viên có thể truy cập và tra cứu thông qua AI.
+
+Doanh nghiệp cũng phát triển các sản phẩm và nền tảng AI trong
+lĩnh vực hạ tầng, giúp đánh giá, phân tích, quản lý dữ liệu… Trong các dự án, tập
+đoàn ưu tiên phát triển hệ sinh thái xanh, chú trọng tạo lưu thông tự nhiên về
+nắng, gió… AI được sử dụng để tạo giá trị mở rộng cho khách hàng.
+
+Đại diện tập đoàn này chia sẻ một niềm tin “sức mạnh của AI
+được phát huy tối đa khi nó được quản trị minh bạch và ứng dụng một cách có
+trách nhiệm”.
+
+Với quan điểm “phát triển bền vững không phải là sự nhảy vọt,
+cưỡng cầu mà là sự chuyển tiếp từ những gì đang có để hướng tới tương
+lai phát triển bền vững”, đại diện Tập đoàn Thiên Long cho biết đang triển khai 6 ý tưởng
+gồm: Tối ưu thiết kế bao bì xanh, robot AI nhập liệu, phân tích xu hướng để tạo
+nội dung CSR, phân tích dữ liệu ESG tự động và tối ưu quy trình nội bộ.
+
+Nhờ ứng dụng AI, doanh nghiệp đã giảm làm những việc lặp đi
+lặp lại, giảm thời gian xử lý công việc. Doanh nghiệp này cũng tổ chức nhiều
+khóa đào tạo nội bộ trong công ty, dùng AI để chăm sóc khách hàng theo hướng
+minh bạch hơn. Theo chia sẻ, ứng dụng AI trong ESG sẽ giúp
+giảm chi phí, tăng hiệu quả…
+
+ESG và phát triển bền vững phải đi đôi cùng nhau, liên quan
+tới sự sinh tồn của một doanh nghiệp. Các chuyên gia có cùng quan điểm khi cho rằng AI đang thúc đẩy, phát triển
+doanh nghiệp, nhưng đang tồn tại một số vấn đề khó khăn như: xây dựng cơ sở dữ
+liệu đòi hỏi đầu tư, lộ trình phát triển lâu dài. Đồng thời, sự phát triển hạ tầng
+đang có nhiều bất cập và yếu tố đầu tư con người cũng đang có nhiều khó khăn.
+
+Cùng quan điểm này, các doanh nghiệp nhấn mạnh những vấn
+đề khó khăn thách thức về chi phí đầu tư công nghệ cao, không chỉ đầu tư một lần
+mà duy trì qua nhiều năm, thể hiện sự cam kết của doanh nghiệp. Vấn đề thiếu
+nhân lực AI chuyên sâu, để tìm nhân tài đầu ngành cũng là thách thức lớn.
+
+Bên cạnh đó là vấn đề bảo mật và quyền riêng tư dữ liệu, khó
+đo lường tác động dài hạn, vì AI còn là điểm mới và được ghi nhận nhiều điểm
+tích cực; khó đo lường tác động dài hạn…
+
+TRÁNH DÙNG AI ĐỂ "TẨY XANH"
+
+Tại hội thảo về vấn đề này mới đây, TS. Bùi
+Thanh Minh, Phó giám đốc Văn phòng Ban Nghiên cứu phát triển kinh tế tư
+nhân (Ban IV), chia sẻ: AI giúp tối ưu tài nguyên, tạo ra giá trị phát triển bền vững; AI đóng góp thực hành ESG, công cụ thu thập, phân tích dữ liệu, báo cáo ESG; AI
+là một phần trong quản trị doanh nghiệp. Bằng nhu cầu nội tại, việc kết hợp AI
+trong thực thi ESG là tất yếu.
+
+Tuy nhiên, doanh nghiệp vẫn đang trong "ma trận"
+ESG khi chưa có bộ tiêu chuẩn ESG quốc gia, chưa có quy định về AI trong báo
+cáo ESG. Vì thế, nhân lực cho AI, thực thi ESG còn hạn chế.
+
+Vậy, doanh nghiệp cần bắt đầu từ đâu? Trả lời cho câu hỏi
+này, ông Minh nêu quan điểm: trước tiên, cần phân tích, đánh giá, đặt ra mục
+tiêu trọng yếu; sau đó, doanh nghiệp cần có cách tiếp cận chiến lược và mô hình
+kinh doanh, tích hợp kinh doanh theo ESG, tích hợp tính bền vững vào mô hình
+kinh doanh, báo cáo tài chính, đầu tư. Từ đó tạo ra giá trị tài chính cho doanh
+nghiệp.
+
+Cũng theo chuyên gia, AI hỗ trợ tối ưu hóa từ nhân sự,
+tài chính, nhưng có một số giới hạn không quá phụ thuộc nên cần có nguồn dữ liệu
+tốt, đồng bộ để mang lại hiệu quả tốt. Vì vậy, con người vẫn mang tính quyết định,
+còn AI chỉ hỗ trợ, cộng sự đắc lực.
+
+Đề cập tới những rủi ro về đạo đức và pháp lý mà các doanh nghiệp
+dùng AI trong ESG, bà Trần Thị Thúy Ngọc, Phó tổng giám đốc Deloitte Việt Nam, cho rằng một số quốc gia có nói vấn đề về đạo đức khi dùng AI. Khi sử dụng AI,
+điều quan trọng nhất là tính chính trực của người sử dụng dữ liệu. Trong các vấn
+đề liên quan đạo đức, bà Ngọc chia sẻ 3 lưu ý quan trọng.
+
+Một là,thiên kiến khi sử dụng AI, nếu không có công cụ
+đánh giá tính chính xác dữ liệu thì đầu ra có sự sai lệch. Thuật toán lỗi hoặc
+không được cập nhật cũng tạo ra sản phẩm lỗi, rủi ro đó âm thầm và rất lớn.
+
+Hai là,ảo giác của AI. Khi chúng ta đọc thông tin không
+mang tính dữ liệu, chỉ định tính thì kết quả có thể sai lệch.
+
+Ba là,“hộp đen”, nếu không hiểu kỹ về kiến thức ngành nghề
+thì cũng có thể đưa ra kết luận không phù hợp.
+
+Theo chuyên gia Deloitte, đối với ESG, quan trọng nhất
+là làm sao tránh dùng AI để "tẩy xanh", bởi nó có thể làm xói mòn niềm tin của
+khách hàng, xã hội. Đó là rủi ro lớn nhất cần tránh.
+
+Để đảm bảo rằng các nguyên tắc ESG được thực hiện hiệu quả khi ứng dụng AI, các doanh nghiệp nhận định rằng bước đầu tiên cần thiết là thiết lập một hệ thống kiểm soát chặt chẽ. Điều này không chỉ áp dụng cho ESG và AI mà còn là yếu tố cốt lõi trong hoạt động của doanh nghiệp. Sự tuân thủ này cần được thực hiện một cách đồng bộ và liên tục từ cấp lãnh đạo cho đến toàn bộ nhân viên, nhằm đảm bảo mọi hoạt động đều hướng tới mục tiêu bền vững và trách nhiệm xã hội.
+
+Để bảo đảm tính minh bạch, công bằng và tránh “thiên kiến
+thuật toán”, bà Phạm Thị Quỳnh Vi, Giám đốc chất lượng FPT nhấn mạnh tầm quan trọng của việc kiểm soát dữ
+liệu phải được thực hiện nghiêm túc ngay từ đầu. Với dữ liệu nội bộ, chúng tôi
+cố gắng tự động hóa tối đa để hạn chế sai sót và rủi ro gian lận.
+
+Theo bà Vi, mặc dù kiểm soát dữ liệu tốn kém, nhưng đây là
+điều kiện tiên quyết để mô hình vận hành chuẩn, dữ liệu đáng tin cậy và ESG được
+thực thi hiệu quả bằng AI trong hoạt động hàng ngày.
+
+Từ góc nhìn hỗ trợ doanh nghiệp, ông Mạc Quốc Anh, Viện trưởng Viện Kinh tế và Phát triển doanh nghiệp, mong muốn thành lập một trung tâm ESG dành riêng cho các doanh nghiệp vừa và nhỏ. Ông nhấn mạnh rằng cần thiết phải xây dựng một kho dữ liệu ESG với mức phí hợp lý, giúp các doanh nghiệp vừa và nhỏ có thể tiếp cận và học hỏi.
+
+Bên cạnh đó, cần có dịch vụ tư vấn nhanh chóng thông qua các chương trình đào tạo, nhằm hỗ trợ các doanh nghiệp này trong quá trình áp dụng ESG. Đặc biệt, ông cũng đề cập không gian thử nghiệm, nơi các doanh nghiệp vừa và nhỏ có thể thực hành và trải nghiệm thực tế, từ đó đảm bảo việc áp dụng ESG diễn ra một cách bền vững và lâu dài.
+
+Theo các chuyên gia, AI tác động tới toàn bộ quá trình từ lập
+kế hoạch, báo cáo nên không giới hạn AI vào một giai đoạn mà nên cho vào bộ quá
+trình. Đồng thời, chúng ta nên coi AI là một cộng sự thông minh thay vì một
+công cụ.
+
+AI sẽ là công cụ đồng hành hỗ trợ thực hiện mục
+tiêu kép là chuyển đổi số và chuyển đổi xanh. AI hỗ trợ hiệu quả, xây dựng báo
+cáo ESG, chỉ ra các điểm còn thiếu tại doanh nghiệp.

@@ -1,0 +1,19 @@
+Ngân hàng Nhà nước đang lấy ý kiến xây dựng Thông tư Hướng dẫn hoạt động cung ứng dịch vụ trung gian thanh toán (Dự thảo Thông tư).
+
+Dự thảo Thông tư bổ sung nhiều quy định đối với hoạt động của ví điện tử theo hướng khuyến khích thanh toán không dùng tiền mặt.
+
+Theo quy định tại Dự thảo Nghị định về Thanh toán không dùng tiền mặt, ví điện tử là một trong các phương tiện thanh toán không dùng tiền mặt.
+
+Ngân hàng Nhà nước cho biết đây là cơ sở để nghiên cứu, thiết kế Thông tư về cung ứng dịch vụ trung gian thanh toán nhằm đảm bảo các quy định về dịch vụ ví điện tử được quản lý tương đồng, chặt chẽ tương tự các phương tiện Thanh toán không dùng tiền mặt khác (ví dụ tài khoản thanh toán).
+
+Bao gồm:(1)Quy định về hồ sơ mở ví điện tử;(2)Quy định về thông tin về khách hàng mở ví điện tử;(3)Quy định về các nội dung phải có trong thỏa thuận mở và sử dụng ví điện tử;(4)Quy định về trình tự, thủ tục mở ví điện tử;(5)Quy định mở ví điện tử bằng phương tiện điện tử (trong đó yêu cầu tổ chức cung ứng dịch vụ ví điện tử phải đối chiếu dữ liệu sinh trắc  học của chủ ví điện tử cá nhân, người đại diện theo pháp luật của tổ chức mở Ví điện tử với dữ liệu sinh trắc học đã được xác thực của Bộ Công an);(6)Quy định về một số trách nhiệm của tổ chức cung ứng dịch vụ ví điện tử đối với khách hàng (tương tự trách nhiệm của ngân hàng khi mở tài khoản thanh toán cho khách hàng).
+
+Dự thảo Thông tư mở rộng kênh mà khách hàng được đăng ký mở ví điện tử so với các quy định cũ. Theo đó, ngoài việc mở ví tại tổ chức cung ứng dịch vụ ví điện tử hoặc các kênh giao dịch trực tuyến của tổ chức cung ứng dịch vụ ví điện tử hợp pháp, khách hàng có thể mở ví trực tiếp tại ngân hàng hoặc các kênh giao dịch trực tuyến của ngân hàng hợp tác với tổ chức cung ứng dịch vụ ví điện tử.
+
+Về hạn mức giao dịch, Dự thảo Thông tư quy định hạn mức ví điện tử cá nhân là 100 triệu đồng/tháng đối với các giao dịch thanh toán thông thường; riêng các giao dịch thanh toán hàng hóa, dịch vụ phục vụ nhu cầu thiết yếu của người tiêu dùng, bao gồm: điện, nước, viễn thông, giao thông, học phí, viện phí, bảo hiểm không áp dụng hạn mức nêu trên.
+
+Dự thảo Thông tư quy định chặt chẽ hơn nội dung về liên kết ví điện tử với tài khoản thanh toán/thẻ ghi nợ của chính chủ ví điện tử. Theo đó, không cho phép khách hàng sử dụng ví điện tử trong trường hợp ví điện tử chưa liên kết hoặc đã hủy không còn liên kết với tài khoản thanh toán hoặc thẻ ghi nợ của khách hàng.
+
+Dự thảo Thông tư vẫn giữ nguyên quy định yêu cầu “Tổ chức cung ứng dịch vụ ví điện tử phải đảm bảo duy trì tổng số dư trên tất cả các tài khoản đảm bảo thanh toán cho dịch vụ Ví điện tử mở tại các ngân hàng hợp tác không thấp hơn tổng số dư tất cả các Ví điện tử đã phát hành cho khách hàng tại cùng một thời điểm”, để đảm bảo phù hợp với quy định tại Khoản 3 Điều 6 dự thảo Nghị định về Thanh toán không dùng tiền mặt và kế thừa quy định tại Thông tư số 39/2014/TT-NHNN.
+
+Dự thảo Thông tư quy định cụ thể việc phải tách bạch về thông tin tài khoản và tách bạch dòng tiền, việc sử dụng (ghi nợ/ghi có) giữa tài khoản đảm bảo thanh toán cho dịch vụ ví điện tử và tài khoản đảm bảo thanh toán cho dịch vụ hỗ trợ thu hộ, chi hộ (nếu có).

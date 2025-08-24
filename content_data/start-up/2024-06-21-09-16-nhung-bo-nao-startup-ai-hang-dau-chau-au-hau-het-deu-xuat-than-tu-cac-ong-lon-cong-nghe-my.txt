@@ -1,0 +1,25 @@
+Báo cáo của công ty Accel cho biết khoảng 25% CEO trong số 221 công ty AI trên khắp châu Âu và Israel trước đây đều từng làm việc tại Apple. Riêng đối với 40 công ty có vốn tài trợ mạo hiểm lớn nhất, tỷ lệ này là 38% và với 10 công ty khởi nghiệp AI hàng đầu, con số này lên đến 60%.
+
+Chẳng hạn như công ty khởi nghiệp nổi tiếng của Pháp được Microsoft hậu thuẫn, Mistral đã bổ nhiệm Arthur Mensch, cựu nhà khoa học AI của DeepMind, giữ vị trí Giám đốc điều hành. Hai nhà đồng sáng lập của Mistral là Timothee Lacroix và Guillaume Lample cũng đều từng làm việc tại Meta. Công ty khởi nghiệp trí tuệ nhân tạo H (Pháp) cũng được đồng sáng lập bởi các cựu nhà nghiên cứu DeepMind là Laurent Sifre, Karl Tuyls.
+
+Theo Accel, mới đây, Mistral AI đã huy động được 600 triệu euro tài trợ từ Microsoft và OpenAI và đến nay, công ty này đã huy động được 1 tỷ USD tài trợ. Bên cạnh đó, startup AI H mặc dù mới chỉ mới hoạt động được vài tháng, nhưng cũng đã huy động được 235 triệu USD.
+
+Báo cáo này tiết lộ các công ty khởi nghiệp AI tại châu Âu hầu hết đều đang phát triển các công cụ AI tạo sinh dựa trên công nghệ lõi đến từ Google, DeepMind và Meta.
+
+Accel cho biết, Google là nơi đào tạo nhiều nhất những người sáng lập của các công ty khởi nghiệp AI thế hệ mới ở châu u và Israel, với 11,3% công ty genAI có người sáng lập có kinh nghiệm làm việc tại gã khổng lồ công nghệ này. DeepMind, công ty con của Google, đứng ở vị trí thứ hai, là nơi làm việc cũ của 5% các nhà sáng lập, Meta đứng thứ ba với 4,1%.
+
+Báo cáo của Accel lưu ý các trường đại học tại châu Âu đóng vai trò quan trọng trong việc tạo ra các công ty khởi nghiệp AI trong khu vực. Hơn một phần ba (38%) các công ty có ít nhất một người sáng lập đang nắm giữ hoặc đã từng đảm nhiệm một vị trí tại một tổ chức học thuật tại châu Âu chẳng hạn như giáo sư, nhà nghiên cứu hoặc giảng viên.
+
+Lourdes Agapito, người đồng sáng lập công ty AI Synthesia của Anh – công ty sử dụng AI tạo sinh để loại bỏ nhu cầu về thiết bị vật lý trong sản xuất video, hiện cũng là giáo sư tại Đại học College London (UCL). Bà Lourdes Agapito cho biết thời gian làm việc tại UCL đã giúp bà kết nối với những nhà đổi mới AI có cùng chí hướng, cụ thể là hai giám đốc điều hành hiện tại của công ty.
+
+Báo cáo của Accel cho biết Đại học Cambridge là ngôi trường đào tạo nhiều nhất các nhà sáng lập của các công ty AI, với 7,9% những người sáng lập trên khắp châu u từng theo học ngôi trường này. Xếp thứ hai về trường đại học có nhiều nhà sáng lập startup AI theo học thứ hai ở châu Âu là Ecole Polytechnique, với 7% nhà sáng lập AI đã học ở đây.
+
+Harry Nelis, một chuyên gia tại Accel, lưu ý nhiều công ty công nghệ lớn nhất của Mỹ đang chuyển trọng tâm phát triển sang châu Âu. Năm 2014, Google đã mua phòng thí nghiệm AI DeepMind của Anh và công nghệ của AI DeepMind hiện là chìa khóa cho các sản phẩm AI, bao gồm cả các công cụ AI tổng hợp Gemini. Năm 2015, Meta, công ty mẹ của Facebook, đã mở chi nhánh châu Âu.
+
+Ví dụ, Google đã hợp tác với Đại học Cambridge để hợp tác nghiên cứu nhiều năm và một trung tâm AI lấy cảm hứng từ con người. Microsoft đã thông báo vào tháng Tư rằng họ đã mở một văn phòng mới ở London cho nghiên cứu AI, điều mà báo cáo cho biết sẽ tiếp tục "động lực AI của Vương quốc Anh".
+
+Vương quốc Anh là nơi có số lượng lớn nhất các công ty khởi nghiệp AI (GenAI) trên khắp châu Âu và Israel, tiếp theo là Đức và Israel. Accel phát hiện ra rằng 30% trong số 221 công ty khởi nghiệp GenAI được thành lập ở Anh, 14% ở Đức và 13% ở Israel, với Pháp chiếm 11% và Hà Lan 6%.
+
+Tuy nhiên, ba trong số các công ty AI được tài trợ tốt nhất của châu Âu được đặt tại Pháp: Mistral AI, Owkin và Hugging Face. Sự thành công của các công ty AI ở Pháp có thể đến từ tiềm lực nhân tài – một số lượng lớn sinh viên tốt nghiệp toán học, khoa học máy tính và kỹ thuật.
+
+Ngoài ra, khi nói đến vốn mạo hiểm đổ vào các công ty khởi nghiệp từ năm 2021 – 2024, Pháp dẫn đầu với 2,29 tỷ USD, Vương quốc Anh là 1,15 USD. Đức cũng đã chứng kiến một số khoản đầu tư lớn, với 636 triệu USD. Trong năm nay, các công ty khởi nghiệp AI của châu Âu và Israel dự kiến sẽ đạt hơn 45 tỷ USD tài trợ, tăng từ 25 tỷ USD vào năm 2023.

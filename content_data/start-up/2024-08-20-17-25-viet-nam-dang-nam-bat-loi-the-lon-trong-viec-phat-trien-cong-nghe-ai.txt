@@ -1,0 +1,37 @@
+Tại Hội nghị GenAI Summit 2024 với chủ đề “Chân Trời Mới” về trí tuệ nhân tạo (AI), do Bộ Kế hoạch và Đầu tư bảo trợ và đồng tổ chức bởi Viện New Turing (NTI), Quỹ Rethink Healthcare (RHF), Trung tâm Đổi mới sáng tạo Quốc gia (NIC) và Đại học Fulbright, các chuyên gia đã mang đến nhiều góc nhìn sâu sắc về vai trò của AI trong việc thúc đẩy công nghệ và kinh tế toàn cầu cũng như nhấn mạnh tiềm năng của Việt Nam đối mặt trong kỷ nguyBài chờ xuất bản (2)ên AI sôi động hiện nay.
+
+Theo đó, cùng với sự phát triển mạnh mẽ của công nghệ, Việt Nam hiện đang đứng trước cơ hội lớn để tận dụng sức mạnh của AI nhằm thúc đẩy tăng trưởng kinh tế và giải quyết các vấn đề xã hội. Thứ trưởng Bộ Kế hoạch và Đầu tư Nguyễn Thị Bích Ngọc chia sẻ nghiên cứu của Thundermark Capital đã đánh giá Việt Nam và Singapore là 2 đại diện của Đông Nam Á góp mặt trong Top 30 thế giới về nghiên cứu AI. Bên cạnh đó, Việt Nam có nhiều lợi thế trong việc phát triển AI, nhờ vào thị trường, nguồn nhân lực và hệ sinh thái khởi nghiệp.
+
+Cụ thể, về chính sách hỗ trợ, thị trường Việt Nam đang đón nhận sự trợ lực rất lớn từ Chính phủ, các tập đoàn trong nước như Viettel, Vingroup để có thể đón sóng AI đang “nóng”. Tiến sĩ Lê Viết Quốc, Chuyên gia cấp cao từ Google, cho biết chính phủ Việt Nam đã và đang đưa ra nhiều chính sách khuyến khích khởi nghiệp và đầu tư vào công nghệ. Điều này tạo điều kiện thuận lợi cho các doanh nghiệp AI của Việt Nam phát triển và cạnh tranh trên thị trường quốc tế.
+
+Về hợp tác quốc tế, Việt Nam có sự hợp tác với các tập đoàn công nghệ lớn như Google, đầu tư mạnh mẽ vào việc đào tạo nguồn nhân lực cho tương lai. Google cam kết dành 40.000 học bổng Google Career Certificates hay đào tạo 200 công ty khởi nghiệp Việt Nam trong các lĩnh vực liên quan đến AI thông qua chương trình Google AI Startups Masterclass, thúc đẩy sự phát triển của hệ sinh thái khởi nghiệp AI. Việc này không chỉ giúp xây dựng một lực lượng lao động chất lượng cao mà còn tạo ra những cơ hội lớn cho các doanh nghiệp khởi nghiệp trong lĩnh vực AI.
+
+Về hệ sinh thái, Việt Nam đã thu hút được hơn 1 tỷ USD đầu tư vào các startup công nghệ trong năm 2023. Sự tăng trưởng nhanh chóng của hệ sinh thái khởi nghiệp đã ở mức trưởng thành tương đương Singapore và Malaysia, cho thấy tiềm năng đổi mới và khả năng tạo ra các giải pháp AI đột phá.
+
+Về nguồn nhân lực tài năng, các diễn giả tin rằng Việt Nam có truyền thống giáo dục tốt, đặc biệt là trong lĩnh vực toán học và khoa học, tạo ra một nguồn nhân lực chất lượng cao cho ngành AI. “Việt Nam đang ở một vị trí đặc biệt để dẫn đầu sự đổi mới AI trong khu vực Đông Nam Á và hơn thế nữa”, ông Nguyễn Đức Toàn, Giám đốc Quốc gia Google Cloud, chia sẻ.
+
+Bên cạnh đó, sinh viên Việt Nam thường xuyên đạt thành tích cao trong các kỳ thi toán học quốc tế, chứng tỏ khả năng tư duy logic và giải quyết vấn đề - những kỹ năng cần thiết cho việc phát triển AI.“Sinh viên Việt Nam có niềm đam mê mạnh mẽ với toán học, điều này giúp họ có vị thế tốt để vượt trội trong kỷ nguyên mới của lý luận do AI thúc đẩy”, Tiến sĩ Lương Minh Thắng, Nhà nghiên cứu cấp cao tại Google DeepMind, nói.
+
+Tương tự, Tiến sĩ Vũ Duy Đạ, Nhà sáng lập của OhmniLabs, đánh giá Việt Nam có lợi thế lớn về con người, nguồn nhân lực trong lĩnh vực AI. Bởi theo ông, ở các tập đoàn lớn trên thế giới đều đang có người Việt nắm giữ các vị trí quan trọng.
+
+Mặc dù có nhiều tiềm năng, Việt Nam vẫn còn nhiều thách thức trong xây dựng cơ sở hạ tầng AI, thu hút nhân tài đặc biệt trong lĩnh vực toán học và khoa học. Trong khi đó, Thạc sĩ Wendy Uyên Nguyễn, Đồng sáng lập và Chủ tịch của Rethink Healthcare Foundation, nhấn mạnh sự cần thiết phải đào tạo và giáo dục về AI một cách nhanh chóng, đặc biệt là trong lĩnh vực chăm sóc sức khỏe, nơi AI có thể tạo ra tác động đáng kể.
+
+Chính vì vậy, các chuyên gia đã đề xuất việc hợp tác giữa các trường đại học, doanh nghiệp và chính phủ để xây dựng một hệ sinh thái AI mạnh mẽ. Trong đó, Việt Nam dự kiến sẽ cần thêm 100.000 chuyên gia AI trong vòng 5 năm tới để đáp ứng nhu cầu thị trường.
+
+Công nghệ AI đang đóng vai trò rất lớn trong việc hỗ trợ con người giải quyết các vấn đề cấp bách như dự đoán nguy cơ cháy rừng, giám sát sức khỏe của đàn gia súc, và hỗ trợ chẩn đoán bệnh ung thư trên toàn thế giới. Qua đó, Tiến sĩ Jeff Dean, Giám đốc Khoa học của Google, đồng sáng lập của Google Brain, Google Translate, Gemini, nhấn mạnh rằng càng mang đến những lợi ích to lớn, các ứng dụng AI càng cần được đặt ra yêu cầu nghiêm ngặt về tính an toàn và đáng tin cậy.
+
+Không những thế, trách nhiệm của các nhà phát triển AI là phải đảm bảo các hệ thống của họ không chỉ hoạt động hiệu quả mà còn phải được xây dựng trên nền tảng đạo đức vững chắc.
+
+AI không chỉ là một công cụ mạnh mẽ để giải quyết các vấn đề phức tạp của xã hội, mà còn đòi hỏi một trách nhiệm đạo đức cao từ các nhà nghiên cứu và kỹ sư. Do đó, Tiến sĩ Jeff Dean đã cập đến 7 nguyên tắc đạo đức mà Google tuân thủ trong quá trình nghiên cứu và phát triển AI, bao gồm tính công bằng, an toàn, và trách nhiệm với xã hội đối với các nước trên thế giới cũng như Việt Nam. Bởi theo chuyên gia của Google, AI đang mang đến một cuộc cách mạng trong y tế, giáo dục, quản lý xã hội - những lĩnh vực không cho phép xảy ra các sai sót nhỏ nhất.
+
+Theo Tiến sĩ Jeff Dean, AI không chỉ là một công nghệ tiên tiến, thay đổi cách con người xử lý dữ liệu và ra quyết định. Đây sẽ là công cụ mang lại lợi ích to lớn, tạo ra cuộc sống tốt đẹp hơn khi được phát triển đúng cách, đòi hỏi những nhà phát triển phải luôn duy trì tiêu chuẩn cao về đạo đức và trách nhiệm xã hội.
+
+Đối với những người làm AI, thách thức không chỉ ở việc xây dựng công cụ mạnh mẽ đến đâu mà còn là xây dựng dựa trên đạo đức, các nguyên tắc. Tiến sĩ Jeff Dean đặc biệt nhấn mạnh đến tầm quan trọng của việc kết hợp giữa AI và trí tuệ con người. “Những lợi ích rõ ràng này là lý do tại sao Google đầu tư mạnh vào nghiên cứu và phát triển AI, đồng thời làm cho công nghệ AI trở nên phổ biến rộng rãi cho những người khác thông qua các công cụ và mã nguồn mở của chúng tôi”, ông cho hay.
+
+AI có tiềm năng chuyển đổi các ngành và cải thiện cuộc sống, nhưng điều thiết yếu là chúng ta phát triển nó một cách có trách nhiệm và đạo đức.“Để AI thực sự phát huy tiềm năng, chúng ta cần đầu tư vào giáo dục và tạo điều kiện cho những tài năng trẻ tiếp cận với công nghệ này. Đây không chỉ là trách nhiệm của các công ty công nghệ mà còn của toàn xã hội”, Tiến sĩ Jeff Dean bày tỏ.
+
+
+
+AI Summit là sự kiện thường niên do New Turing Institute tổ chức bắt đầu từ năm 2018 nhằm tạo nền tảng kết nối cộng đồng trí tuệ nhân tạo trong nước với các chuyên gia trên toàn thế giới.
+
+Năm nay, GenAI Summit 2024 tập trung vào ba chủ đề chính, gồm: “Mô hình nền tảng của GenAI”, “Ứng dụng thực tiễn của GenAI”, và “Cơ hội cho Việt Nam”. Theo đó, hơn 1.000 khách tham dự đã được lắng nghe về hàng loạt mô hình AI và các ứng dụng thực tiễn của những mô hình này vào đời sống. Cuối cùng, từ bức tranh toàn cảnh đó, Việt Nam đã hiện diện với một vị thế đặc biệt, sẵn sàng vươn lên để nắm bắt làn sóng AI.

@@ -1,0 +1,19 @@
+Theo báo cáo kỹ thuật về tình hình an toàn thông tin và thống kê kết nối chia sẻ dữ liệu về mã độc, giám sát vừa được Cục An toàn thông tin công bố, trong tháng 1/2024, hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia đã ghi nhận 495.503 địa chỉ IP của Việt Nam nằm trong mạng botnet (giảm 8.6% so với tháng 01/2024), trong đó có 134 địa chỉ IP của cơ quan, tổ chức nhà nước (15 địa chỉ IP Bộ/ngành, 119 địa chỉ IP tỉnh/thành).
+
+Bên cạnh đó, trong thời gian qua, có rất nhiều website của cơ quan nhà nước bị lợi dụng để cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung quảng cáo không phù hợp như: game bài, cờ bạc…
+
+Trong thời gian qua, Bộ Thông tin và Truyền thông đã phát hành cảnh báo về việc rà soát nội dung không phù hợp trên website của cơ quan nhà nước (.gov.vn). Cục An toàn thông tin cũng phát hành các cảnh báo diện rộng về việc rà soát nội dung không phù hợp trên website của cơ quan nhà nước (.gov.vn).
+
+Tuy nhiên đến thời điểm hiện tại, Trung tâm Giám sát an toàn không gian mạng quốc gia vẫn tiếp tục ghi nhận có 19 đơn vị (9 Tỉnh/Thành, 10 Bộ/Ngành) còn tồn tại các website của đơn vị bị lợi dụng để tải lên số lượng lớn tệp tin có nội dung độc hại.
+
+Theo các chuyên gia, những tệp tin này xuất hiện trong kết quả tìm kiếm của Google và thực hiện chuyển hướng người dùng sang website khác khi người dùng truy cập đường dẫn. Điều này sẽ trở nên nguy hiểm và nghiêm trọng nếu bị lợi dụng để đăng tải, phát tán những nội dung xấu độc, xuyên tạc về chủ quyền, chủ trương của Đảng và chính sách, pháp luật của Nhà nước.
+
+Trong tháng, Hệ thống kỹ thuật của NCSC đã ghi nhận có 71.877 điểm yếu, lỗ hổng an toàn thông tin tại các hệ thống thông tin của các cơ quan tổ chức nhà nước. Các chuyên gia an ninh mạng nhìn nhận số lượng điểm yếu, lỗ hổng nêu trên là rất lớn. Đặc biệt có một số lỗ hổng đã và đang được các nhóm tấn công lợi dụng để thực hiện các cuộc tấn công APT.
+
+Do đó, Cục An toàn thông tin đã chỉ đạo Trung tâm Giám sát an toàn không gian mạng quốc gia triển khai đánh giá, xác định các lỗ hổng nguy hiểm, có ảnh hưởng trên diện rộng và hướng dẫn các Bộ/Ngành khắc phục.
+
+Hiện có một số điểm yếu/lỗ hổng vẫn còn tồn tại trên nhiều máy chưa được xử lý như: CVE-2022-26809 với số lượng máy bị ảnh hưởng lên đến 18.411 máy; CVE-2024-0814 (9.905 máy); CVE-2023-21716 (8406 máy); CVE-2024-0519 (8301 máy); CVE-2022-35737 (5040 máy).
+
+Bên cạnh các điểm yếu/lỗ hổng ghi nhận, Hệ thống kỹ thuật của NCSC còn phân tích và phát hiện nhiều máy tính của cơ quan nhà nước có kết nối đến địa chỉ IP/Domain nghi ngờ độc hại do các phần mềm phòng chống mã độc đã ghi nhận. Trong số đó top 2 kết nối nghi ngờ phát sinh trong tháng là (differentia[.]ru và atomictrivia[.]ru).
+
+Nhằm đảm bảo an toàn hệ thống, Cục an toàn thông tin đề nghị đơn vị chuyên trách về công nghệ thông tin, an toàn thông tin tại cơ quan, tổ chức phối hợp với các đơn vị thực hiện rà soát xác định và tiến hành “vá” các lỗi trên hệ thống đặc biệt là các lỗ hổng này.

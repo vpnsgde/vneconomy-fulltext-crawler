@@ -1,0 +1,21 @@
+Đó là khuyến cáo của ông Trần Đăng Khoa, Phó Cục trưởng phụ trách Cục An toàn thông tin (Bộ Thông tin và Truyền thông) tại sự kiện diễn tập quốc gia về an toàn thông tin mạng năm 2023 chủ đề “Săn lùng mối đe dọa trên các hệ thống thông tin quan trọng” diễn ra trong 2 ngày 19-20/10 tại TP.Nha Trang. Sự kiện có sự tham gia của hơn 100 nhân viên kỹ thuật của 30 đơn vị.
+
+Ngoài ra, sự kiện còn có sự tham gia của các cơ quan chủ quản các hệ thống thông tin quan trọng quốc gia, đại diện các tập đoàn, tổng công ty nhà nước, đại diện một số tỉnh, thành phố trực thuộc trung ương, đại diện một số ngân hàng, tổ chức tài chính lớn và một số đơn vị chuyên trách về công nghệ thông tin - truyền thông.
+
+
+
+“Hoạt động diễn tập sẽ giúp các tổ chức được tập dượt với những tình huống tấn công trong thực tế, để tăng khả năng phản ứng nhanh, thích ứng một cách chủ động, linh hoạt với các cuộc tấn công từ không gian mạng.”
+
+Ông Trần Đăng Khoa, Phó Cục trưởng phụ trách Cục An toàn thông tin.
+
+Thông qua diễn tập, đội ngũ kỹ thuật không chỉ có cơ hội cọ xát, tăng cường công tác phối hợp mà còn được rèn luyện kỹ năng điều tra, phân tích, tìm kiếm dấu hiệu xâm nhập, xác định nguyên nhân, gốc rễ sự cố và săn lùng các mối đe dọa trên hệ thống, giúp rút ngắn thời gian xử lý và ứng phó khi có sự cố xảy ra trong thực tế. Đồng thời, đưa ra các phương án bảo vệ hệ thống thông tin tổng thể, đồng bộ và thích ứng linh hoạt đối với các nguy cơ từ không gian mạng.
+
+Phát biểu tại sự kiện, Phó Cục trưởng phụ trách Cục An toàn thông tin Trần Đăng Khoa chia sẻ: Ứng cứu sự cố an toàn thông tin mạng là hoạt động then chốt, có tính cấp thiết giúp các cơ quan, tổ chức giảm thiểu thiệt hại, ngay cả khi xảy ra sự cố nghiêm trọng. Tuy nhiên, hiện nay công tác ứng cứu sự cố an toàn thông tin mạng trong các cơ quan, tổ chức, doanh nghiệp tại Việt Nam chưa đáp ứng được yêu cầu ứng phó chủ động từ sớm, xử lý kịp thời, hiệu quả các cuộc tấn công mạng có quy mô ngày càng lớn, phức tạp, có thể gây hậu quả khó lường đối với sự phát triển và ổn định kinh tế xã hội.
+
+Trong những năm gần đây, trên thế giới đã xảy ra nhiều vụ tấn công mạng quy mô lớn nhằm vào lĩnh vực quan trọng như tài chính, năng lượng. Những cuộc tấn công mạng này đã gây ra sự gián đoạn đáng kể đối với nguồn cung cấp năng lượng và có tác động lớn đến nền kinh tế.
+
+Bên cạnh đó, xung đột địa chính trị, quân sự trên thế giới cũng như tình hình mất an toàn thông tin mạng ở Việt Nam tiếp tục có những diễn biến phức tạp. Các cuộc tấn công mạng có xu hướng gia tăng cả về quy mô, cường độ và mức độ tinh vi, đặc biệt mục tiêu nhắm đến thường tập trung vào các hệ thống thông tin thuộc các lĩnh vực quan trọng cần ưu tiên bảo vệ của các cơ quan, tổ chức như tài chính, ngân hàng, năng lượng, tài nguyên môi trường, thông tin truyền thông.
+
+“Hoạt động diễn tập sẽ giúp các tổ chức được tập dượt với những tình huống tấn công trong thực tế, để tăng khả năng phản ứng nhanh, thích ứng một cách chủ động, linh hoạt với các cuộc tấn công từ không gian mạng”, ông Khoa cho hay.
+
+Được biết, Thủ tướng Chính phủ đã ban hành Chỉ thị số 18/CT-TTg về về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng. Trong đó xác định, an toàn thông tin mạng là trụ cột quan trọng, xuyên suốt để tạo lập niềm tin số và bảo vệ sự phát triển thịnh vượng của đất nước trong kỷ nguyên số nhằm thực hiện thành công chuyển đổi số quốc gia.

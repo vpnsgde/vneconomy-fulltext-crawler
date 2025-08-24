@@ -1,0 +1,25 @@
+Bộ chỉ số HOSE-Index, VNX-Index cùng các chỉ số đầu tư bao gồm VNDiamond, VNFIN Lead và VNFIN Select sẽ thực hiện tái cơ cấu danh mục cho kỳ Q2/2025 với một số mốc thời gian đáng chú ý sau: Ngày chốt số liệu 31/3/2025; ngày công bố 16/4/2025; Ngày hoàn thành cơ cấu danh mục 29/4/2025; Ngày chỉ số mới có hiệu lực 5/5/2025.
+
+Trong đó, chỉ số VNDiamond sẽ thực hiện rà soát thay đổi về danh mục thành phần, trong khi các chỉ số còn lại bao gồm VN30 và VNFIN Lead chỉ cập nhật số liệu và tính toán lại tỷ trọng danh mục. Ngoài ra, tại kỳ cơ cấu này, Quy tắc Bộ chỉ số HOSE Index phiên bản 4.0 đã chính thức có hiệu lực, do đó tỷ trọng danh mục chỉ số VN30 sẽ có thay đổi đáng kể.
+
+Với chỉ số VNDiamond, dựa trên số liệu ước tính vào ngày 14/3/2025, SSI Research dự báo chỉ số VNDiamond sẽ có các thay đổi như sau: MWG có thể vào Rổ duy trì do cổ phiếu đã thuộc rổ lần đầu vào chỉ số trong kỳ trước và thỏa mãn tất cả các điều kiện kỳ này. Theo đó, hệ số %wS áp dụng cho MWG tăng từ 50% lên 100%.
+
+CTD có thể vào Rổ lần đầu vào chỉ số do thỏa mãn tất cả các điều kiện. Theo quy tắc mới, CTD được áp dụng giới hạn trọng số %wS là 50%.
+
+VIB có thể vào Rổ chờ loại ra. Hệ số FOL của VIB giảm xuống dưới 65% sau khi ngân hàng điều chỉnh tỷ lệ sở hữu tối đa của nhà đầu tư nước ngoài từ 20,5% xuống còn 4,99% từ ngày 1/7/2024. Theo quy tắc mới, VIB được đưa vào Rổ chờ loại và áp hệ số %wS là 50%, tương đương với việc giảm 50% tỷ trọng cổ phiếu. Trong kỳ tiếp theo, nếu không cải thiện được FOL lên trên mức 65%, VIB có thể bị loại hoàn toàn khỏi chỉ số.
+
+VRE có thể bị loại khỏi chỉ số do không thỏa mãn điều kiện về FOL. Theo tính toán, VRE đã có kỳ thứ hai liên tiếp không nằm trong Top 25 cổ phiếu có hệ số FOL cao nhất. Ngoài ra, do trong kỳ rà soát Q4/2024, VRE đã vào Rổ chờ loại nên không đủ điều kiện giữ lại ở chỉ số trong kỳ này.
+
+Giả định với các thay đổi như trên, danh mục chỉ số mới sẽ bao gồm 19 cổ phiếu, trong đó 10 cổ phiếu thuộc nhóm ngành Ngân hàng sẽ bị áp dụng mức tỷ trọng tối đa cho cả nhóm ngành là 40%. Trong các ETF trên thị trường, hiện có 5 ETF đang sử dụng chỉ số VNDiamond làm tham chiếu bao gồm DCVFMVN Diamond, MAFM VNDiamond, BVFVN Diamond, KIM Growth Diamond, and ABF VNDiamond với tổng giá trị tài sản ròng khoảng 12,4 tỷ đồng tại ngày 14/3/2025.
+
+Riêng quỹ DCVFMVN Diamond hiện có tổng giá trị tài sản khoảng 11,8 nghìn tỷ đồng. Cụ thể, tính từ đầu năm 2025, tổng giá trị tài sản quỹ đã giảm 6,6%, NAV giảm 3,4%, giá trị vốn rút ròng là 418 tỷ đồng.
+
+Ước tính quỹ DCVFMVN Diamond sẽ mua vào 2,9 triệu cổ phiếu MWG và 1,1 triệu cổ phiếu CTD, trong khi bán ra khoảng 5 triệu cổ phiếu VRE và 10,5 triệu cổ phiếu VIB khỏi danh mục. Ngoài ra, một số cổ phiếu ước tính được mua vào đáng kể như: VPB (3,9 triệu cổ phiếu), MBB (3,5 triệu cổ phiếu), MSB (3 triệu cổ phiếu). Đồng thời, quỹ có thể bán ra một lượng lớn cổ phiếu ACB (5,8 triệu cổ phiếu) & HDB (3,5 triệu cổ phiếu).
+
+Với Chỉ số VN30, do Quy tắc Bộ chỉ số HOSE Index phiên bản 4.0 bổ sung giới hạn tỷ trọng vốn hóa một nhóm cổ phiếu cùng ngành là 40%, ước tính tỷ trọng nhóm Tài chính trong rổ chỉ số VN30 sẽ giảm từ mức hiện tại là 60% còn 40%. Do đó, tỷ trọng của các cổ phiếu các ngành khác sẽ tăng lên với tỷ lệ tương ứng.
+
+Tiêu chí ngưỡng giới hạn tỷ trọng vốn hóa không còn quá xa lạ với quy tắc bộ chỉ số HOSE, trước đây quy tắc này áp dụng cho một cổ phiếu đơn lẻ là 10% và đối với một nhóm cổ phiếu có liên quan là 15%. Việc bổ sung giới hạn tỷ trọng vốn hóa của nhóm cổ phiếu cùng ngành trong rổ chỉ số VN30 góp phần ổn định cơ cấu ngành và hạn chế việc một ngành chiếm tỷ trọng quá nhiều trong rổ chỉ số.
+
+Trong các ETF trên thị trường, hiện có 4 ETF đang sử dụng chỉ số VN30 làm tham chiếu bao gồm DCVFMVN30 ETF, SSIAM VN30 ETF, KIM Growth VN30 ETF và MAFM VN30 ETF, với tổng giá trị tài sản ròng khoảng 9,1 nghìn tỷ đồng tại ngày 14/3/2025. Riêng quỹ DCVFMVN30 ETF hiện có tổng giá trị tài sản khoảng 6,2 nghìn tỷ đồng. Cụ thể, tính từ đầu năm 2025 đến nay, tổng giá trị tài sản quỹ đã giảm 7,4%, NAV tăng 3%, giá trị vốn rút ròng ở mức 683 tỷ đồng.
+
+Theo ước tính của SSI Research, một số cổ phiếu ước tính được mua vào với khối lượng lớn như: HPG (11,6 triệu cổ phiếu), MWG (4,5 triệu cổ phiếu), VIC (4,5 triệu cổ phiếu). Đồng thời, ở chiều bán ra, có thể kể đến các cổ phiếu như TCB (9,5 triệu cổ phiếu), VPB (9,1 triệu cổ phiếu) & ACB (8,3 triệu cổ phiếu).

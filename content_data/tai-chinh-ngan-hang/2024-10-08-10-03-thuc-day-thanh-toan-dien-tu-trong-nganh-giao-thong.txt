@@ -1,0 +1,49 @@
+Mới đây, Chính phủ ban hành Nghị định 119/2024/NĐ-CP ngày 30/9/2024 quy định về thanh toán điện tử giao thông đường bộ. Nghị định nêu rõ hình thức vận hành hệ thống thiết bị lắp đặt tại trạm thu phí đường bộ theo hình thức điện tử không dừng; đồng thời, xác định rõ các vấn đề về thanh toán các loại phí, giá, tiền dịch vụ.
+
+Theo ông Nguyễn Mạnh Thắng, Phó cục trưởng Cục Đường bộ Việt Nam, hiện nay việc thu phí không dừng đã được triển khai trên 5,6 triệu phương tiện, chiếm 97% lượng phương tiện lưu thông trên đường bộ. Lợi ích từ việc này là làm giảm tình trạng ách tắc tại các trạm thu phí BOT, đặc biệt trong các dịp lễ, Tết; tăng năng lực thông hành của các phương tiện khi mà thời gian mỗi phương tiện qua trạm rút ngắn từ 6 đến 7 lần so với thu phí thủ công; tiết kiệm nhiên liệu, thời gian lưu thông, tăng tuổi thọ động cơ và cải thiện sự thoải mái của người lái xe.
+
+Mặt khác, hình thức này giúp cơ quan quản lý nhà nước thông minh hóa hệ thống giao thông bằng các ứng dụng công nghệ thông tin và quản lý được các phương tiện tham gia giao thông minh bạch hơn. Từ đó, thực hiện được nhiều chính sách hiện đại như: quản lý đăng kiểm xe, đăng ký xe chính chủ, phạt nguội giao thông,... giảm khoảng 20% số vụ tai nạn.
+
+
+
+Hiên nay việc thu phí không dừng đã được triển khai trên 5,6 triệu phương tiện, chiếm 97% lượng phương tiện lưu thông trên đường bộ.
+
+Theo đánh giá của các chuyên gia, đây là tiền đề cho bước chuyển quan trọng trong xây dựng hạ tầng giao thông thông minh của ngành giao thông vận tải, góp phần vào chương trình chuyển đổi số quốc gia.
+
+Nghị định số 119/2024/NĐ-CP quy định về thanh toán điện tử giao thông đường bộ, có hiệu lực từ ngày 1/10/2024, được coi là bước tiến mới trong lĩnh vực thu phí điện tử.
+
+Ông Tô Nam Toàn, Trưởng phòng Khoa học công nghệ, Môi trường và Hợp tác quốc tế, Cục Đường bộ Việt Nam, cho biết Luật Đường bộ quy định riêng một điều về Thanh toán điện tử giao thông đường bộ (Điều 43) bao gồm thanh toán các loại phí, giá, tiền dịch vụ liên quan đến hoạt động giao thông của phương tiện giao thông đường bộ thông qua tài khoản giao thông. Như vậy, tài khoản thu phí bao gồm tài khoản giao thông và phương tiện để thanh toán không dùng tiền mặt.
+
+Cụ thể hơn, đại diện Cục Đường bộ cho biết, tài khoản giao thông sẽ gồm hai thông tin. Một, thông tin tài khoản giao thông được tích hợp số tài khoản giao thông, thời gian mở tài khoản cũng như những thông tin cá nhân của chủ tài khoản và phương tiện gắn thẻ như thông tin về thẻ đầu cuối hay phương tiện thanh toán không dùng tiền mặt. Hai, thông tin giao dịch thanh toán điện tử giao thông đường bộ bao gồm các thông tin về đơn vị tham gia giao dịch hay lịch sử giao dịch.
+
+Nhà cung cấp dịch vụ thanh toán điện tử giao thông sẽ là đơn vị cung cấp dịch vụ thanh toán tiền sử dụng đường bộ làm nhiệm vụ phát hành thẻ đầu cuối. Đồng thời, cũng chịu trách nhiệm mở tài khoản giao thông, kết nối, xác định chi phí và thực hiện thanh toán đối với giá dịch vụ sử dụng đường bộ, phí sử dụng đường cao tốc.
+
+Trong thời gian một năm, từ ngày 1/10/2024 đến ngày 1/10/2025, các chủ phương tiện phải thực hiện chuyển đổi tài khoản thu phí sang tài khoản giao thông kết nối phương tiện thanh toán. Từ ngày 1/10/2024 đến ngày 1/7/2026, thu phí dịch vụ sử dụng đường bộ theo hình thức điện tử không dừng vẫn được duy trì. Nhà cung cấp dịch vụ thanh toán giao thông đường bộ và nhà cung cấp dịch vụ thanh toán tiền sử dụng đường bộ triển khai kết nối hệ thống điều hành và trung tâm dữ liệu để kết nối, chia sẻ thông qua tài khoản giao thông, hướng tới mục tiêu chính thức vận hành từ ngày 1/7/2026.
+
+Ông Lê Minh Quốc, chuyên gia trong lĩnh vực công nghệ thẻ và các giải pháp bảo mật, cho rằng việc gộp chung các tài khoản thanh toán đưa về thanh toán qua ngân hàng để đơn giản và thuận tiện, không cần thiết phải tách bạch các tài khoản riêng. Bởi theo ông, điều quan trọng là dịch vụ “ngon, bổ, rẻ” và làm sao cần tinh gọn việc thanh toán mà vẫn đảm bảo an ninh, đảm bảo kinh tế.
+
+Tuy nhiên, theo đại diện Bộ Giao thông Vận tải, không thể gộp chung các tài khoản thanh toán, vì cần tách bạch rõ việc quản lý thu phí không dừng thực hiện trên hai đối tượng gồm phương tiện và người chủ phương tiện tham gia giao thông. Do đó, Ngân hàng Nhà nước quản lý phương tiện thanh toán, quản lý an ninh dòng tiền và Bộ Giao thông Vận tải sẽ phụ trách tính tiền cũng như các quy định tại các điểm thu phí.
+
+Như vậy, thanh toán sẽ có hai phần, bao gồm trách nhiệm của Bộ Giao thông Vận tải cùng các đơn vị quản lý địa phương và phần thanh toán thực tế dòng tiền. Tài khoản của Bộ Giao thông Vận tải thực hiện việc tính tiền và quản lý các điểm thu phí, còn toàn bộ dòng tiền thực tế sẽ thực hiện trên tài khoản thanh toán của chủ phương tiện và thực hiện theo quy định của Ngân hàng Nhà nước.
+
+Trên phương diện đấu nối các bên liên quan, Ngân hàng Nhà nước cũng như Công ty cổ phần Thanh toán Quốc gia (NAPAS) đã có kinh nghiệm triển khai thực tiễn nhiều hệ thống. Mới đây, ngành Ngân hàng đã triển khai đầu nối dữ liệu với ứng dụng VneID để tiến hành đối chiếu thông tin xác thực, định danh tài khoản ngân hàng. Song song với đó, người dân cũng có thể thực hiện một số giao dịch trên dịch vụ công thông qua QR. Do đó, việc triển khai hệ thống thanh toán không dùng tiền mặt với ngành giao thông là hoàn toàn khả thi và phù hợp với xu thế phát triển chung.
+
+
+
+Bộ Giao thông Vận tải đang xây dựng kiến trúc tổng thể về giao thông thông minh, trong đó có thanh toán không dùng tiền mặt. Đồng thời, lựa chọn lộ trình để áp dụng, tiếp cận với những giải pháp hiện đại, có tính tương lai nhưng vẫn phù hợp với điều kiện, hoàn cảnh, thói quen của người dùng Việt Nam.
+
+Bà Trương Kiều Anh, Trưởng phòng Công nghệ thông tin, Sở Giao thông Vận tải Hà Nội, cho biết hệ thống thu phí không dùng tiền mặt tại các điểm đỗ xe trong 8 tháng năm 2024 có tỷ lệ thanh toán không dùng tiền mặt lên đến 89% đối với ô tô và xe máy là 85%. Đối với thẻ vé điện tử, tỷ lệ người dân sử dụng thanh toán trực tuyến đạt 85% đối với 25 tuyến xe buýt đang được thành phố thí điểm.
+
+Hiện, Sở Giao thông vận tải Hà Nội đang trình đề án về giao thông thông minh và chia thành 3 giai đoạn phát triển, bao gồm: 2024 - 2026, 2027 - 2029 và từ năm 2030 trở đi. Trong đó, giai đoạn 1 có 9 chức năng và nổi bật có thanh toán điện tử và các ứng dụng khác trong việc quản lý các điểm trông giữ xe trên địa bàn thành phố.
+
+Để hiện thực hóa được điều đó, Sở Giao thông vận tải Hà Nội tham mưu thành phố phê duyệt Đề án và đã được thí điểm Trung tâm Điều hành giao thông thông minh từ tháng 7/2024. Cùng với đó, Sở đề xuất Thành phố sớm ban hành khung tiêu chuẩn kỹ thuật về thẻ điện tử, trong đó có hệ thống kiểm soát vé không dừng như VETC để làm nền tảng triển khai các hệ thống thẻ sau này.
+
+Theo nhận định của chuyên gia, các dịch vụ như tài khoản thu phí không dừng VETC khi gắn với tài khoản giao dịch có hai cách, đó là gắn liền với phương tiện để nhận diện phương tiện, đồng thời có thể là tài khoản để tích hợp trực tiếp với các phương tiện thanh toán. Nguồn tiền thanh toán có thể từ ví, từ tài khoản, thẻ; song, khi thanh toán giao thông công cộng, dù là phương tiện thanh toán nào, quan trọng nhất là phải mang lại lợi ích nhất cho người dân.
+
+Bà Đặng Tuyết Dung, Giám đốc Visa Việt Nam và Lào, chia sẻ trong thời gian đầu, người dân có thể lựa chọn nhiều cách thanh toán nhưng về mặt dài hạn họ sẽ lựa chọn cách thanh toán nhanh nhất, an toàn nhất và phù hợp. Khi đó, dữ liệu được thu thập có thể phác họa toàn bộ bức tranh hành vi của người dùng, khi họ sử dụng các dịch vụ liên quan đến nhận diện phương tiện như khi đi qua các trạm thu phí không dừng, đỗ xe hoặc thậm chí là có thể mua xăng trực tiếp trên ứng dụng điện thoại mà không cần tiến hành thanh toán giao dịch tại cây xăng.
+
+Đồng quan điểm trên, đại diện Bộ Giao thông Vận tải cho rằng với sự phát triển của khoa học, công nghệ hiện nay, có thể sử dụng một phương thức, công nghệ có sẵn, như dùng thẻ ngân hàng, ứng dụng khác để thanh toán. Bộ Giao thông Vận tải đang xây dựng kiến trúc tổng thể về giao thông thông minh, trong đó có thanh toán không dùng tiền mặt. Đồng thời, lựa chọn lộ trình để áp dụng, tiếp cận với những giải pháp hiện đại, có tính tương lai nhưng vẫn phù hợp với điều kiện, hoàn cảnh, thói quen của người dùng Việt Nam.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 41-2024 phát hành ngày 07/10/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

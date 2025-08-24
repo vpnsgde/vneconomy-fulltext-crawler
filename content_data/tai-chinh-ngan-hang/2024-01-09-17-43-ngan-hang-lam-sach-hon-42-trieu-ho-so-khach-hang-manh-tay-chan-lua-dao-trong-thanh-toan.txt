@@ -1,0 +1,23 @@
+Ngày 9/1, Ngân hàng Nhà nước tổ chức Hội nghị chuyên đề công tác thanh toán tại tổ chức cung ứng dịch vụ thanh toán.
+
+Tại hội nghị, ông Phạm Tiến Dũng, Phó Thống đốc Ngân hàng Nhà nước thông tin nếu như ở giai đoạn 2015-2017, báo cáo của World Bank cho thấy Việt Nam có 31% người trưởng thành có tài khoản thanh toán thì đến nay, con số này đã tăng lên 77,41%. Nhiều ngân hàng báo cáo trên 90% giao dịch được thực hiện trên kênh số, có ngân hàng đạt tỷ lệ tới 98%.
+
+Phó Thống đốc Phạm Tiến Dũng cho biết về số lượng giao dịch, nếu như năm 2019, hệ thống thanh toán bù trừ có khoảng 700 triệu giao dịch, là một con số mơ ước thời điểm đó thì đến 2023, số lượng giao dịch đã đạt 7 tỷ giao dịch, gấp 10 lần so với năm 2019.
+
+Tuy nhiên, ông Dũng lưu ý, khi số lượng khách hàng tăng, giao dịch tăng cả số lượng và chất lượng, kết nối phức tạp cũng đặt ra nhiều thách thức đối với việc quản lý và đảm bảo an ninh, an toàn trong lĩnh vực thanh toán. Cụ thể, đó là việc tăng trưởng số lượng tài khoản đi kèm vấn nạn sử dụng giấy tờ giả để mở tài khoản thanh toán, hay việc nhiều cá nhân mở tài khoản rồi bán lại cho người khác sử dụng, các giao dịch bất hợp pháp… Bên cạnh đó, còn là các nguy cơ mất an ninh, an toàn hệ thống.
+
+Liên quan đến các hoạt động đảm bảo an toàn thanh toán, ông Phạm Anh Tuấn, Vụ trưởng Vụ Thanh toán cho biết Ngân hàng Nhà nước đã tích cực phối hợp với Bộ Công an và các cơ quan liên quan triển khai thực hiện nhiều biện pháp để góp phần ngăn ngừa, giảm thiểu rủi ro gian lận, lừa đảo và mất an ninh, an toàn thanh toán.
+
+Triển khai Đề án 06/QĐ-TTg, ngành ngân hàng đã triển khai làm sạch dữ liệu thông qua đối chiếu với Cơ sở dữ liệu quốc gia dân cư và khai thác thông tin căn cước công dân gắn chip, tài khoản định danh và xác thực điện tử VNeID trong xác minh chính xác thông tin nhận biết khách hàng. Qua đó, góp phần tăng cường an ninh, an toàn trong quá trình phổ cập thanh toán số.
+
+Theo Ngân hàng Nhà nước, đến nay: (i) CIC đã hoàn thành đối chiếu dữ liệu của 42 triệu hồ sơ khách hàng, đang tiếp tục phối hợp làm sạch thêm khoảng 6,5 triệu hồ sơ khách hàng; (ii) 53 tổ chức tín dụng đang phối hợp với C06 (Bộ Công an) để triển khai giải pháp xác thực khách hàng thông qua căn cước công dân gắn chip, trong đó có 09 ngân hàng đã đã triển khai thực tế; (iii) 19 ngân hàng đang triển khai kết nối ứng dụng VNeID, trong đó 3 ngân hàng đã hoàn hành thử nghiệm đối với dịch vụ mở tài khoản thanh toán; (iv) 4 ngân hàng tích cực phối hợp với Napas và C06 nghiên cứu việc triển khai luồng liên kết tài khoản an sinh xã hội với tài khoản ngân hàng phục vụ cho chi trả an sinh xã hội..
+
+Năm 2024,  Ngân hàng Nhà nước yêu cầu các tổ chức cung ứng dịch vụ trung gian thanh toán tập trung một số giải pháp trọng tâm sau đây để đảm bảo an toàn thanh toán.
+
+Thứ nhất,rà soát để chỉnh sửa, bổ sung và ban hành các quy định, quy trình nội bộ, thỏa thuận với khách hàng về hoạt động thanh toán, đảm bảo có đầy đủ các thông tin, điều khoản, điều kiện về xử lý dữ liệu cá nhân, các trường hợp áp dụng các biện pháp ngăn chặn, hạn chế giao dịch trên tài khoản thanh toán/thẻ ngân hàng/ ví điện tử để hỗ trợ khách hàng khi bị lừa đảo, gian lận.
+
+Thứ hai,khẩn trương phối hợp với các đơn vị liên quan tổ chức triển khai Đề án 06/QĐ-TTg, trong đó ưu tiên khai thác thông tin trong thẻ căn cước công dân gắn chip, sử dụng ứng dụng định danh điện tử VneID để mở tài khoản thanh toán, thẻ ngân hàng, xác thực khách hàng trong giao dịch thanh toán nhằm triển khai Quyết định 2345/QĐ- NHNN ngày 18/12/2023 của Thống đốc Ngân hàng Nhà nước.
+
+Thứ ba,rà soát, hoàn thiện bộ tiêu chí nhận diện giao dịch nghi ngờ gian lận và tổ chức triển khai để kịp thời nhận diện các tài khoản thanh toán/Ví điện tử có dấu hiệu nghi ngờ liên quan đến gian lận, lừa đảo, báo cáo Ngân hàng Nhà nước để tổng hợp vào Kho dữ liệu chung.
+
+Thứ tư,rà soát lại toàn bộ các hạn mức giao dịch thanh toán, đặc biệt là các giao dịch trên kênh điện tử, mobile app và giao dịch thanh toán ở nước ngoài để có biện pháp quản lý rủi ro phù hợp đối với từng nhóm đối tượng khách hàng.

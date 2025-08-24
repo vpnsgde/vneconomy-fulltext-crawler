@@ -1,0 +1,47 @@
+Theo Sách trắng Thương mại điện tử Việt Nam 2022, tính đến năm 2022, số lượng người Việt mua hàng trực tuyến lên đến hơn 51 triệu người, tăng 13,5% so với năm trước. Tổng chi tiêu cho việc mua sắm trực tuyến đạt 12,42 tỷ USD.
+
+Trong đó, 78% người mua hàng trực tuyến qua các website thương mại điện tử, 42% qua mạng xã hội như Facebook, Instagram, Zalo… và 47% qua các ứng dụng mua hàng trên điện thoại di động.
+
+Statista dự đoán, tốc độ phát triển của thương mại điện tử nước ta năm 2025 có thể lên đến 29%, đạt 39 tỷ USD.
+
+Cục Thương mại điện tử và Kinh tế số (Bộ Công Thương) cho rằng thương mại điện tử Việt Nam đang trong thời kỳ phát triển bùng nổ, góp phần định hình thói quen mua sắm của người Việt.
+
+Dựa vào các báo cáo về thương mại điện tử, các doanh nghiệp bán hàng có thể nắm bắt được những thay đổi thói quen mua sắm của người tiêu dùng như: sở thích, xu hướng, mức chi tiêu cho các ngành hàng, các kênh mua sắm trực tuyến, hình thức thanh toán…
+
+Qua đó, nhiều thương hiệu đã tìm kiếm những công cụ và giải pháp công nghệ phù hợp nhất để áp dụng vào hoạt động tiếp thị - bán hàng nhằm thu thập, xử lý, phân tích dữ liệu khách hàng, nắm bắt khuynh hướng hành vi trực tuyến, hiểu hành trình khách hàng… Từ đó, tiếp cận khách hàng tại những điểm chạm và tạo ra trải nghiệm tốt nhất cho người tiêu dùng, nâng cao hiệu quả hoạt động bán hàng của mình.
+
+Chia sẻ tại hội thảo "Martech 2023: Data Solution Summit" mới đây, ông Nguyễn Minh Long, CEO AKA Digital Vietnam, cho rằng hầu hết các doanh nghiệp đều có nhu cầu tìm kiếm một giải pháp trọn gói cho vấn đề này. Tuy nhiên, việc sử dụng giải pháp trọn gói gây ra sự cồng kềnh, thiếu linh hoạt khi triển khai, vận hành, phức tạp khi có nhu cầu cải tiến, thay thế hệ thống giải pháp khác.
+
+Trong khi đó, ông Tushar Eklaspur, Quản Lý Bộ phận trải nghiệm Khách hàng Thị trường mới nổi, Netcore cho rằng hiện nay doanh nghiệp Việt Nam đang đối mặt với 3 thách thức khi ứng dụng các giải pháp công nghệ trong hoạt động tiếp thị, bán hàng.
+
+Thứ nhất,khi lên môi trường số hóa, dữ liệu bị phân mảnh (bộ phận xây dựng website riêng, app riêng, chăm sóc khách hàng riêng...), mỗi bộ phận tự quyết định xem làm thế nào, mua cái gì, xây dựng như thế nào… dẫn tới việc không đồng bộ, không kết nối được với nhau. Điều này phổ biến ở các doanh nghiệp Việt Nam.
+
+Thứ hai,là vấn đề bảo mật dữ liệu. Khi lên môi trường internet, độ an toàn càng giảm đi. Việc làm sao có thể bảo mật được, tìm giải pháp nào để phù hợp với bảo mật là rất khó khăn.
+
+Ngoài ra, giải pháp đó sẽ cần phải bảo đảm việc không có bị lọt dữ liệu cho đối thủ, lọt ra ngoài. Cuối cùng làm sao tuân thủ được với yêu cầu của Chính phủ (Nghị định 13/2023/NĐ-CP) trong việc bảo mật dữ liệu cá nhân.
+
+Thứ ba,công nghệ là những vấn đề mới, nhưng nguồn nhân lực hiện tại của doanh nghiệp Việt Nam còn thiếu kiến thức cũng như kỹ năng về công nghệ. Khi nguồn lực con người của doanh nghiệp còn hạn chế thì dễ xảy ra việc đầu tư không hiệu quả và lãng phí.
+
+Vậy bài toán đặt ra với các thương hiệu của Việt Nam là đầu tư giải pháp nào để phù hợp và tối ưu khi nguồn lực, gia tăng lợi nhuận, cũng như nâng cao năng lực cạnh tranh mà vẫn đảm bảo trách nhiệm bảo mật dữ liệu khách hàng?
+
+Theo ông Nguyễn Minh Long, việc hình thành hệ sinh thái thu thập, xử lý và phân tích dữ liệu khách hàng cho doanh nghiệp là con đường ngắn nhất giúp các nhãn hàng thoả mãn được trải nghiệm của khách hàng.
+
+Đơn cử như AKA Digital đã hợp tác với các nhà cung cấp giải pháp chuyên biệt tốt nhất trong từng chuyên môn như: nền tảng dữ liệu khách hàng (CDP) của mParticle, giải pháp phân tích sản phẩm MixPanel, nền tảng tiếp thị tự động Netcore Cloud, giải pháp tương tác với khách hàng của Capillary Technologies … để hình thành nên hệ sinh thái thu thập, xử lý và phân tích dữ liệu khách hàng với tiêu chí “Best-of-Breed”.
+
+“Phương thức này sẽ giúp doanh nghiệp lựa chọn được những giải pháp tốt nhất và phù hợp nhất cho bài toán kinh doanh của mình, ngay cả khi nguồn lực con người và ngân sách còn hạn chế. Các giải pháp này có khả năng tương thích, đấu nối linh hoạt với nhau một cách hoàn hảo để kết hợp triển khai xử lý dữ liệu khách hàng hiệu quả”, ông Long phân tích.
+
+Bà Sahana Kon, Quản lý khách hàng cấp cao khu vực Châu Á Thái Bình Dương của Mixpanel, cho rằng theo dõi hành trình của khách hàng là một trong những tác vụ khó nhất trong việc cải thiện trải nghiệm của khách hàng.
+
+Việc theo dõi triệt để từ khi khách hàng còn ở trạng thái ẩn danh đến khi định danh trên các điểm chạm khác nhau sẽ giúp tối ưu việc phân tích dữ liệu khách hàng, giúp cho việc đưa ra các quyết định chính xác hơn.
+
+“Mỗi tương tác trong trải nghiệm khách hàng có thể tạo ra sự trung thành, thúc đẩy sự phát triển và hình thành số phận của một thương hiệu”, ông Tushar Eklaspur bổ sung.
+
+Còn theo ông Shawn Chan, Giám đốc kinh doanh khu vực Châu Á Thái Bình Dương của Capillary Technology, doanh nghiệp chậm chuyển đổi số sẽ mất rất nhiều khách hàng, bị giảm năng lực cạnh tranh, mất cơ hội kinh doanh.
+
+Công nghệ giúp doanh nghiệp tiếp cận được điểm chạm của người dùng để có thể đưa ra trải nghiệm khách hàng tốt nhất. Do đó, xây dựng chương trình khách hàng thân thiết là con đường tốt nhất để khuyến khích khách hàng tiếp tục sử dụng sản phẩm, dịch vụ. Chỉ điều đó mới giúp tăng giá trị trong vòng đời khách hàng cho doanh nghiệp.
+
+“Tuy nhiên, việc thiết kế, triển khai không hề đơn giản, cần làm sao cho chặt chẽ và phù hợp với nhu cầu, sở thích, hành vi của khách hàng”, ông Shawn Chan nhấn mạnh.
+
+Tất nhiên, không phải cứ ứng dụng công nghệ vào quy trình tiếp thị bán hàng là sẽ đem lại hiệu quả thành công tức thì. Phần lớn các doanh nghiệp tại Việt Nam là vừa và nhỏ, nên theo ông Alfred, Giám đốc Kinh doanh khu vực Châu Á - Thái Bình Dương, mParticle, trước hết, các doanh nghiệp cần hiểu rõ được lý do mình cần phải dấn thân vào thế giới của dữ liệu khách hàng. Cần hình dung rõ bức tranh của doanh nghiệp trong 5 năm tới và rút ra được vấn đề quan trọng nhất mà doanh nghiệp đang cần phải giải quyết.
+
+Đặc biệt, cần thu thập, xử lý và phân tích được dữ liệu khách hàng. Cần có thước đo lượng dữ liệu khách hàng mà doanh nghiệp mình hiện đang có đã đủ để đưa ra những quyết định về mặt kinh doanh chưa và vấn đề xử lý nguồn dữ liệu này.

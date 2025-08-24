@@ -1,0 +1,17 @@
+Động thái này diễn ra trong bối cảnh Kuwait đang phải đối mặt với cuộc khủng hoảng năng lượng trầm trọng, khi nhiệt độ mùa hè tăng cao kỷ lục, dân số không ngừng tăng và nhiều nhà máy điện gặp sự cố chậm trễ trong bảo trì.
+
+Theo Reuters, mặc dù giao dịch tiền điện tử đã bị cấm tại Kuwait, nhưng hoạt động khai thác, vốn chưa bị cấm hoàn toàn, vẫn âm thầm diễn ra, gây áp lực nặng nề lên hệ thống điện quốc gia. Bộ Nội vụ Kuwait cho biết việc khai thác tiền điện tử bị xem là hành vi “sử dụng điện trái phép”, có nguy cơ gây ra sự cố mất điện trên diện rộng, ảnh hưởng đến khu dân cư, trung tâm thương mại và các dịch vụ thiết yếu, từ đó đe dọa trực tiếp đến an toàn công cộng.
+
+Trong chiến dịch vừa qua, cơ quan chức năng Kuwait đã kiểm tra khoảng 100 ngôi nhà bị nghi ngờ tổ chức khai thác tiền điện tử. Qua đó, phát hiện nhiều nơi tiêu thụ điện gấp hơn 20 lần so với một hộ gia đình bình thường.
+
+Khai thác tiền điện tử, đặc biệt là Bitcoin, từ lâu đã được biết đến là hoạt động “ngốn điện” khét tiếng, chỉ một giao dịch có thể tiêu tốn hơn 1.047 kWh điện – tương đương lượng điện một hộ gia đình Mỹ dùng trong hơn một tháng.
+
+Dù các thợ mỏ ở Kuwait chỉ chiếm dưới 0,5% hoạt động khai thác toàn cầu (tính đến năm 2022), nhưng theo chuyên gia Alex de Vries-Gao từ Digiconomist, chỉ cần một phần nhỏ trong mạng lưới khai thác Bitcoin cũng đủ tạo ra tác động lớn tại những quốc gia có hệ thống điện mỏng manh như Kuwait.
+
+Là một quốc gia nhỏ nằm ở Trung Đông, giàu tài nguyên dầu mỏ, Kuwait cung cấp điện với giá rẻ – yếu tố khiến nơi đây trở thành điểm đến hấp dẫn của các “nông trại” đào tiền ảo. Thế nhưng, nguồn cung điện hạn chế cùng tốc độ đô thị hóa nhanh khiến hoạt động này “va chạm” trực tiếp với nhu cầu điện sinh hoạt, sản xuất của người dân và doanh nghiệp.
+
+Sự việc ở Kuwait không chỉ cho thấy tác động thực tế của khai thác tiền điện tử đối với hệ thống năng lượng, mà còn hé lộ một thách thức lớn hơn trong kỷ nguyên số: nhu cầu điện từ các hệ thống tính toán công suất cao đang ngày một leo thang. Nếu khai thác tiền số từng bị xem là “kẻ thù số một” của ngành điện, thì các trung tâm dữ liệu AI hiện nay còn tiêu tốn năng lượng gấp bội.
+
+Ngay cả những ông lớn công nghệ như Meta cũng đang phải tìm đến các nguồn năng lượng thay thế như lò phản ứng hạt nhân để đáp ứng nhu cầu điện cho các trung tâm dữ liệu khổng lồ của họ.
+
+Chính Mark Zuckerberg, nhà sáng lập Meta, cũng từng cảnh báo rằng sự phát triển của AI đang bị kìm hãm bởi giới hạn của lưới điện hiện tại. Ngay cả khi có đủ điện, mức tiêu thụ khổng lồ từ các trung tâm này cũng có thể làm giảm chất lượng điện ở khu dân cư, dẫn tới ảnh hưởng đến tuổi thọ các thiết bị gia dụng.

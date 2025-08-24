@@ -1,0 +1,43 @@
+Theo báo Nikkei Asia, chính phủ nhiều nước châu Á từ Trung Quốc tới Singapore thời gian qua chưa quyết liệt trong việc theo đuổi các chính sách AI đồng bộ trên toàn châu lục, mà thay vào đó chỉ đưa ra các chính sách riêng lẻ áp dụng tại quốc gia mình.
+
+Cách tiếp cận này ngược lại so với tại phương Tây, đặc biệt khi Liên minh châu Âu (EU) gần đây đã thông qua Đạo luật AI áp dụng đồng bộ tại tất cả các quốc gia thành viên của khối.
+
+"Vấn đề nằm ở chỗ 15-20 nước châu Á bắt đầu ban hành các đạo luật về AI khác nhau hoàn toàn”, ông Adrian Fisher, giám đốc phụ trách công nghệ, truyền thông và viễn thông khu vực châu Á tại công ty luật Linklaters của Anh, nói với Nikkei Asia. "Khi đó, để tung ra một sản phẩm, doanh nghiệp phải tìm hiểu chính xác cần phải làm gì tại mỗi quốc gia và điều này khá phức tạp”.
+
+Theo công ty dịch vụ tài chính KPMG, dù đầu tư vào lĩnh vực AI đã tăng gấp hơn 5 lần trong giai đoạn từ năm 2013-2023, “khác biệt về quy định pháp lý với AI” là một rủi ro lớn với sự tăng trưởng của doanh nghiệp trong những năm tới.
+
+Trên thực tế, từ khi AI tạo sinh (generative AI) bắt đầu nở rộ vào năm 2022, việc đưa ra các quy định xuyên biên giới đã trở thành một chủ đề nóng nhận được nhiều sự quan tâm. Đầu năm nay, các quan chức Mỹ và Trung Quốc – hai quốc gia đối đầu về công nghệ – đã có cuộc thảo luận chính thức đầu tiên về các rủi ro của AI tại Thụy Sỹ, dù chưa có kết quả cụ thể nào sau cuộc gặp này.
+
+Trong khi đó, EU đang đi tiên phong với việc thông qua Đạo luật AI, được xem là bộ luật toàn diện đầu tiên trên thế giới. Dự kiến sẽ có hiệu lực trong những tháng tới, luật này áp dụng cho các nhà cung cấp và các nhà phát triển hệ thống AI hoạt động thương mại tại EU.
+
+Tại châu Á, Trung Quốc là quốc gia chủ động nhất trong việc điều chỉnh lĩnh vực này với việc thiết lập một bộ quy tắc hướng dẫn hành chính đối với lĩnh vực này từ năm 2022. Bộ quy tắc này gồm các hướng dẫn từ thuật toán cho tới công nghệ deep fake. Tuy nhiên, đến nay nước này vẫn chưa có một đạo luật nào về AI.
+
+Việc xây dựng luật AI được đưa vào chương trình lập pháp năm 2023 của Quốc hội Trung Quốc. Chính phủ Trung Quốc dự kiến trình dự thảo luận lên Quốc hội để xem xét và thảo luận trong năm nay.
+
+“Các quốc gia châu Á đang quản lý AI theo kế hoạch riêng, thiếu sự rõ ràng và cụ thể dành cho lĩnh vực này”, nhà phân tích Laveena Iyer tại tổ chức Economist Intelligence Unit, nhận xét.
+
+Theo các nhà phân tích, một số chính phủ châu Á tiếp cận thận trọng và theo hướng can thiệp. Điều này có thể khiến các nước này giảm sức cạnh tranh trong cuộc đua AI.
+
+Tại Nhật, cho tới gần đây, nước này vẫn để doanh nghiệp liên quan AI hoạt động tự do trong khuôn khổ các hướng dẫn của chính phủ. Tuy nhiên, hiện nước này đang cân nhắc đưa ra quy định điều chỉnh đối với các nhà phát triển AI lớn trong nước và nước ngoài để hạn chế các rủi ro như lan truyền tin tức sai sự thật. Hội đồng chiến lược AI của Chính phủ Nhật dự kiến sẽ phân tích các cách tiếp cận của Mỹ và châu Âu để xây dựng quy định riêng.
+
+Tại Hàn Quốc, Đạo luật Thúc đẩy công nghiệp AI và Khung pháp lý phát triển AI đáng tin cậy đang được xem xét. Tuy nhiên, ngược lại với Đạo luật AI của châu Âu, đạo luật của Hàn Quốc chủ yếu dựa trên nguyên tắc ứng dụng công nghệ trước, thiết lập quy định sau – theo thông tin từ 2 luật sư tại hãng luật Lee and Ko.
+
+"Dù chưa có khung pháp lý cụ thể nào cho AI ở thời điểm hiện tại, một số quy định liên quan tới lĩnh vực này đã được ban hành”, hai luật sư Hwan Kyoung Ko và Il Shin Lee của hãng luật Lee & Ho cho biết hồ tháng 4. "Hàn Quốc đang chủ động thiết lập môi trường pháp lý để nâng cao tính cạnh tranh của công nghiệp AI Hàn Quốc trên toàn cầu, đồng thời kiểm soát các rủi ro phát sinh”.
+
+Tương tự, Singapore cũng không theo đuổi các quy định toàn diện theo kiểu châu Âu, mà lựa chọn ban hành hướng dẫn với lĩnh vực này.
+
+Do thiếu khung pháp lý rõ ràng, một số doanh nghiệp có hoạt động liên quan tới AI đã phải tự đặt ra các tiêu chuẩn. Tháng trước, công ty viễn thông Verizon của Mỹ, hiện cũng có hoạt động tại Trung Quốc, Hàn Quốc và Singapore, tuyên bố sẽ “chịu trách nhiệm khi sử dụng AI". Công ty này hiện sử dụng các công cụ AI để phân tích hồ sơ khách hàng để cung cấp dịch vụ tốt hơn.
+
+“Chúng tôi muốn hợp tác với các nhà lập pháp tại châu Á để thiết lập các quy định chung cho toàn ngành”, bà Priya Mahajan, giám đốc phụ trách chính sách công khu vực châu Á-Thái Bình Dương của Verizon, nói với Nikkei Asia. “Các quốc gia nên cân nhắc thiết lập một cơ quan lập pháp riêng cho AI để tránh lỗ hổng pháp lý và chồng chéo trong thực thi quy định về AI giữa các cơ quan chức năng”.
+
+Theo công ty phần mềm doanh nghiệp SAP, các chính phủ và các cơ quan quản lý có vai trò đặc biệt quan trọng trong việc xây dựng khung pháp lý và chính sách để xây dựng niềm tin của công chúng đối với AI.
+
+“Sự rõ ràng và thống nhất trong quy định pháp lý sẽ giúp doanh nghiệp được hưởng thụ đầy đủ sự phát triển của công nghệ AI”, ông Paul Marriott, chủ tịch phụ trách khu vực châu Á-Thái Bình Dương và Nhật Bản của SAP, phát biểu.
+
+Theo ông Marriott, việc không có các quy định mang tính khu vực có thể gây ra một hệ quả không mong muốn cho châu Á. Đó là khiến khu vực này giảm tiến nói trong các cuộc thảo luận mang tính toàn cầu về AI.
+
+"EU đã trở thành một tâm điểm toàn cầu về quản trị AI”, giáo sư luật doanh nghiệp Scott Shackelford tại Trường Kinh doanh Kelley thuộc Đại học Indiana, nhận xét. “Đạo luật AI của EU có thể sẽ trở thành một tiêu chuẩn mặc định toàn cầu”.
+
+Tuy nhiên, theo bà Amita Haylock của hãng luật Mayer Brown, châu Á khó tránh hệ quả nói trên bởi để xây dựng một khung pháp lý chung cho AI trên toàn khu vực là “cực kỳ khó”.
+
+"Các doanh nghiệp hoạt động ở châu Á chuẩn bị tinh thần cho việc phải tìm hiểu và thực thi các chính sách pháp lý khác nhau ở các quốc gia trong khu vực”, bà Haylock nói.

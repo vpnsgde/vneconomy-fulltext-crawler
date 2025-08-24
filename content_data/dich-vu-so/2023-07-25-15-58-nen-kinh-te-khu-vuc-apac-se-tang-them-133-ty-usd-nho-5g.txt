@@ -1,0 +1,15 @@
+Theo Báo cáo kinh tế di động khu vực châu Á- Thái Bình Dương (APAC) 2023 của Hiệp hội hệ thống thông tin di động toàn cầu (GSMA) vừa được công bố, mạng 5G dự kiến sẽ chiếm 41% kết nối di động tại khu vực vào năm 2030 với khoảng 1,4 tỷ kết nối. Sự tăng trưởng này được thúc đẩy bởi việc giá của thiết bị 5G giảm, mạng lưới mở rộng nhanh chóng ở nhiều quốc gia và nỗ lực hợp tác của các chính phủ hàng đầu trong việc tích hợp công nghệ di động.
+
+Thuê bao di động dự kiến sẽ tăng 400 triệu từ năm 2022 và đạt 2,11 tỷ thuê bao vào năm 2030; tỷ lệ thâm nhập di động cũng sẽ tăng lên 70% nhưng vẫn thấp hơn mức trung bình toàn cầu là 73%. Gần một nửa dân số APAC (49%) hiện đã kết nối với Internet di động, nhưng 47% dân số vẫn không thể truy cập dịch vụ di động.
+
+Tỷ lệ sử dụng điện thoại thông minh dự báo tăng lên 94% vào năm 2030, tăng 18% từ năm 2022, được thúc đẩy bởi các yếu tố như thiết bị giá cả phải chăng hơn và kiến thức kỹ thuật số được cải thiện. Ngành công nghiệp di động đã đóng góp 810 tỷ USD vào nền kinh tế khu vực APAC năm 2022 (gần 5% tổng sản phẩm quốc nội của khu vực) và dự kiến đạt gần 1.000 tỷ USD (990 tỷ USD) vào năm 2030.
+
+Đặc biệt, đến năm 2030, 5G sẽ bổ sung thêm hơn 133 tỷ USD cho nền kinh tế khu vực. Các ngành dịch vụ (42%) và sản xuất (34%) sẽ là những lĩnh vực hưởng lợi nhất từ 5G, nhờ các ứng dụng trong các thành phố thông minh, nhà máy thông minh và lưới điện thông minh.
+
+Mặc dù mạng 5G đã được thiết lập và phát triển mạnh ở một số thị trường tiên tiến như Úc, Nhật Bản, Singapore và Hàn Quốc… nhưng tốc độ phát triển vẫn có sự khác biệt giữa các quốc gia; đồng thời vẫn có những rào cản ảnh hưởng đến việc truy cập và sử dụng di động.
+
+Theo nghiên cứu này, gần một nửa dân số APAC (47%) vẫn chưa có khả năng tiếp cận Internet di động và tình trạng kém phát triển hơn so với các khu vực khác trên thế giới, bao gồm cả châu Mỹ Latinh, Trung Quốc và Lục địa Á- Âu. Kỹ năng số hạn chế nhất là ở nhóm dân số lớn tuổi, chi phí thiết bị và dịch vụ phù hợp với túi tiền, cùng những lo ngại về an toàn trực tuyến là một số nguyên nhân đang cản trở khả năng tiếp cận của người dân.
+
+Còn theo báo cáo di động của Ericsson công bố trước đó, thuê bao di động 5G dự kiến sẽ đạt 5 tỷ trên toàn cầu vào cuối năm 2028, chiếm 55% tổng số thuê bao. Trong cùng thời gian đó, phạm vi phủ sóng 5G dự kiến sẽ đạt 85% trong khi mạng 5G dự kiến sẽ chiếm khoảng 70% lưu lượng truy cập di động và chiếm toàn bộ mức tăng trưởng lưu lượng truy cập hiện tại.
+
+Ở Đông Nam Á và Châu Đại Dương, hãng này dự kiến hầu hết các nhà cung cấp dịch vụ lớn sẽ ra mắt dịch vụ 5G thương mại vào cuối năm 2028. Số lượng thuê bao 5G trong khu vực được dự đoán sẽ đạt khoảng 620 triệu vào cuối năm 2028, tức 5G sẽ trở thành công nghệ hàng đầu về thuê bao, với tỷ lệ thâm nhập là 48%. Lưu lượng truy cập di động trên mỗi điện thoại thông minh dự kiến sẽ tăng từ 12,5 GB mỗi tháng vào năm 2022 lên 54 GB mỗi tháng vào năm 2028, tốc độ CAGR đạt gần 30%.

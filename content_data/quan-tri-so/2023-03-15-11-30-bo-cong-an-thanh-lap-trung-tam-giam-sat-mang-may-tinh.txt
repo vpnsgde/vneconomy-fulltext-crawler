@@ -1,0 +1,19 @@
+Nhằm thực hiện Chương trình chuyển đổi số, hướng tới Chính phủ điện tử trong Công an nhân dân, ngoài việc phát triển hạ tầng kỹ thuật mạng máy tính, xây dựng được những phần mềm, cơ sở dữ liệu dùng chung phục vụ kết nối, chia sẻ trong lực lượng Công an và chia sẻ với các bộ, ngành theo chỉ đạo của Chính phủ thì việc duy trì hệ thống mạng hoạt động ổn định, thường xuyên liên tục 24/7, đảm bảo an ninh an toàn hệ thống và thông tin dữ liệu rất quan trọng; đồng thời cũng cần có đội ngũ cán bộ chuyên trách để giám sát mạng hoạt động của ngành Công an.
+
+
+
+"Trung tâm Giám sát mạng máy tính Bộ Công an sẽ trực tiếp quản lý, tổ chức vận hành, khai thác hệ thống giám sát đã được triển khai tại các trung tâm vùng và mạng máy tính Công an các đơn vị, địa phương hiệu quả, đáp ứng yêu cầu giám sát, hỗ trợ khắc phục sự cố mạng, sự cố an toàn thông tin trong hệ thống mạng máy tính diện rộng ngành Công an."
+
+Đại tá Đào Anh Sơn.
+
+Chiều 14/3/2023, tại Hà Nội, Cục Công nghệ thông tin đã tổ chức Lễ tuyên thệ thành lập Trung tâm Giám sát mạng máy tính Bộ Công an và công bố các Quyết định về tổ chức cán bộ. Thiếu tướng Dương Văn Tính, Cục trưởng Cục Công nghệ thông tin chủ trì.
+
+Theo đó, Lãnh đạo Bộ Công an đã quyết định thành lập Trung tâm Giám sát mạng máy tính Bộ Công an được đặt tại Cục Công nghệ thông tin. Đây là sự kiện vừa có ý nghĩa cấp thiết trước mắt, vừa có giá trị lâu dài.
+
+Trung tâm Giám sát mạng máy tính Bộ Công an được thành lập sẽ đáp ứng được mục tiêu thống nhất quản lý về công tác giám sát mạng máy tính, giám sát an toàn thông tin mạng máy tính, cảnh báo sớm những nguy cơ, sự cố liên quan tới thiết bị mạng, kết nối mạng, hiệu suất làm việc của mạng máy tính; nguy cơ gây mất an ninh, an toàn thông tin đối với hệ thống mạng máy tính diện rộng ngành Công an, mạng máy tính nội bộ của Công an các đơn vị, địa phương.
+
+Bên cạnh đó, thống nhất về công tác điều phối, phương án phối hợp khắc phục, ứng cứu, điều tra nguyên nhân xảy ra đối với các sự cố mạng, sự cố gây mất an toàn thông tin mạng từ Bộ tới Công an các đơn vị, địa phương. Đồng thời, thống nhất về giải pháp, công nghệ, phương thức chia sẻ, tiếp nhận dữ liệu giám sát, phương án khắc phục sự cố mạng, ứng cứu sự cố xảy ra trong các hệ thống thông tin yêu cầu an toàn hệ thống từ cấp độ 3 trở lên.
+
+Đại tá Đào Anh Sơn, Giám đốc Trung tâm Giám sát mạng máy tính Bộ Công an cho biết, Trung tâm Giám sát mạng máy tính Bộ Công an sẽ trực tiếp quản lý, tổ chức vận hành, khai thác hệ thống giám sát đã được triển khai tại các trung tâm vùng và mạng máy tính Công an các đơn vị, địa phương hiệu quả, đáp ứng yêu cầu giám sát, hỗ trợ khắc phục sự cố mạng, sự cố an toàn thông tin trong hệ thống mạng máy tính diện rộng ngành Công an.
+
+“Điều quan trọng hơn là phải tiếp tục phát triển cơ sở vật chất, tăng cường bổ sung nguồn nhân lực, nâng cao trình độ chuyên môn của cán bộ, chiến sĩ, đảm bảo cho Trung tâm giám sát mạng máy tính Bộ Công an hoạt động hiệu lực, hiệu quả, đáp ứng các nhiệm vụ chính trị, phục vụ quản lý Nhà nước trong công tác công nghệ thông tin Công an nhân dân, khẳng định được vai trò, vị trí, chức năng, nhiệm vụ được giao, góp phần đảm bảo an toàn thông tin”, đại tá Đào Anh Sơn khẳng định.

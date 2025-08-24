@@ -1,0 +1,41 @@
+Theo Tổ chức Y tế thế giới (WHO), ung thư là nguyên nhân gây tử vong hàng đầu trên thế giới. Mỗi năm có khoảng 10 triệu người chết vì ung thư, nghĩa là gần 1 trong 6 ca tử vong.
+
+Ung thư có thể được chữa khỏi nếu được xác định sớm và điều trị kịp thời. Các nhà nghiên cứu cho rằng việc phát triển công cụ phát hiện sớm ung thư là điều cần thiết, đặc biệt là với ung thư phổi. Trong số các trường hợp tử vong vì ung thư trên toàn cầu thì ung thư phổi xếp hàng đầu.
+
+Tại Anh, các nhà khoa học đã phát triển thuật toán với tiềm năng giúp xác định ung thư một cách hiệu quả và chính xác hơn các phương pháp hiện có. Theo báo The Guardian, các nhà khoa học và nhà nghiên cứu tại Anh đã phát triển một mô hình trí tuệ nhân tạo (AI) có thể xác định chính xác ung thư trong giai đoạn phát triển.
+
+Công cụ mới do các chuyên gia tại Bệnh viện Royal Marsden, Viện nghiên cứu Ung thư London và Đại học Imperial London đều ở Anh phát triển, có thể xác định sự phát triển bất thường trong cơ thể là ung thư thông qua ảnh chụp CT.
+
+Các chuyên gia đã phát triển thuật toán AI, trích xuất thông tin từ các ảnh chụp CT của khoảng 500 bệnh nhân có khối u lớn trong phổi. Phương pháp này có thể trích xuất thông tin quan trọng từ các hình ảnh y khoa mà mắt thường không dễ phát hiện. Phương pháp này được cho là có thể đẩy nhanh việc chẩn đoán ung thư và giúp bệnh nhân sớm được điều trị.
+
+Tiến sĩ Benjamin Hunter thuộc khoa ung thư lâm sàng tại Royal Marsden kỳ vọng mô hình mới sẽ giúp cải thiện việc phát hiện sớm ung thư để bệnh nhân sớm được điều trị, tăng cơ hội điều trị thành công lên.
+
+Tương tự, AI có thể phát hiện các dấu hiệu sớm của ung thư phổi từ một đến 6 năm trước khi khối u hiển thị trên kết quả chụp CT, theo nghiên cứu từ Viện Công nghệ Massachusetts. Theo NBC News, một công cụ AI mới có tên Sybil, do các nhà khoa học tại Trung tâm Ung thư Tổng quát Massachusetts và Viện Công nghệ Massachusetts phát triển, có thể dự đoán chính xác đến 86% đến 94% khả năng một người bị ung thư phổi trong những năm sắp tới của cuộc đời.
+
+Để dự đoán, Sybil dựa vào một lần chụp CT, phân tích hình ảnh ba chiều, tìm kiếm điểm bất thường trong phổi, chỉ ra những vấn đề mà các nhà khoa học chưa hiểu hết, tiến sĩ Florian Fintelmann, bác sĩ X-quang tại Trung tâm Ung thư Massachusetts, cho biết. Dựa trên những gì quan sát được, Sybil dự đoán tỷ lệ ung thư phổi của một người trong vòng một đến 6 năm tới. Đã có những trường hợp, Sybil phát hiện ra dấu hiệu ung thư mà bác sĩ X-quang bỏ sót.
+
+Theo Anant Madabhushi, giáo sư khoa kỹ thuật y sinh tại Trường Y Đại học Emory ở Atlanta, hiện có hơn 300 công cụ AI được FDA chấp thuận sử dụng trong kỹ thuật X-quang. Hầu hết chúng hỗ trợ bác sĩ chẩn đoán và điều trị ung thư, nhưng không dùng để dự đoán nguy cơ ung thư trong tương lai của người bệnh.
+
+"Nếu được phê duyệt, nó có thể đóng vai trò quan trọng trong cuộc chiến chống ung thư", ông Madabhushi nói. Dù tiên tiến, Sybil còn điểm hạn chế. Giáo sư Madabhushi nói các dữ liệu đầu vào của AI chưa đủ đa dạng, không đại diện cho dân số toàn nước Mỹ. Các nhà khoa học phát triển Sybil cũng thừa nhận dữ liệu được sử dụng để tạo ra công cụ AI chưa bao gồm nhiều bệnh nhân da đen hoặc gốc Tây Ban Nha.
+
+Mới đây nhất, một nghiên cứu cho thấy trí tuệ nhân tạo có thể giảm gần 50% khối lượng công việc của các bác sĩ chẩn đoán hình ảnh trong tầm soát và phát hiện dấu hiệu ung thư vú, cũng như phát hiện ung thư chính xác hơn 20% so với phương pháp sàng lọc truyền thống. Nghiên cứu do các nhà khoa học Thụy Điển thực hiện và được công bố ngày 2/8 vừa qua.
+
+Theo đó, nhóm nghiên cứu đã xem xét kết quả chụp X-quang của 80.000 phụ nữ ở 4 địa điểm miền Tây Nam nước này trong giai đoạn từ tháng 4/2021 đến tháng 7/2022. Phim X-quang tiếp đến được phân chia ngẫu nhiên cho một hệ thống do AI hỗ trợ, hoặc nhóm đối chứng gồm hai bác sĩ chẩn đoán hình ảnh để phân tích.
+
+Phân tích của AI sau đó được một bác sĩ chẩn đoán hình ảnh khác kiểm tra lần cuối cùng. Kết quả cho thấy AI có khả năng phát hiện thêm 20% số ca ung thư, tương đương thêm 1/1.000 trường hợp phụ nữ được sàng lọc. Trong khi đó tỉ lệ dương tính giả của hai nhóm giống nhau, ở mức 1,5%.
+
+Cạnh đó, AI giúp giảm tải 44% khối lượng công việc do chỉ yêu cầu một bác sĩ hỗ trợ chẩn đoán thay vì hai người. Bà Kristina Lang, bác sĩ chẩn đoán hình ảnh thuộc Đại học Lund (Thụy Điển) đồng thời là tác giả chính nghiên cứu, cho biết AI sở hữu tiềm năng lớn giảm bớt gánh nặng công việc cho các bác sĩ chẩn đoán hình ảnh.
+
+Trong khi đó, giáo sư tầm soát ung thư Stephen Duffy thuộc Đại học Queen Mary (Anh) lo ngại thuật toán AI có thể chẩn đoán quá mức một số loại ung thư vú giai đoạn đầu là ung thư biểu mô ống dẫn sữa tại chỗ (DCIS).
+
+Trước đó, một nghiên cứu mới cho thấy công cụ trí tuệ nhân tạo có thể phát hiện nguy cơ mắc ung thư tuyến tụy trước ba năm, dựa vào bệnh án. Nghiên cứu được công bố trên Tạp chí Y học Tự nhiên tháng 5, cho thấy các trường hợp ung thư tuyến tụy có thể được chẩn đoán sớm bằng cách sàng lọc dân số dựa trên AI. Nghiên cứu do các chuyên gia tại Trường Y Harvard, Đại học Copenhagen phối hợp với Hệ thống Y tế VA Boston, Viện Ung thư Dana-Farber và Trường Y tế Công cộng Harvard TH Chan thực hiện.
+
+Trong nghiên cứu, các nhà khoa học đã áp dụng thuật toán AI cho dữ liệu lâm sàng của 9 triệu bệnh nhân từ Đan Mạch và Mỹ. Họ đào tạo mô hình học máy (machine learning) để đọc các mã chẩn đoán trong hồ sơ bệnh án và kết nối với bệnh ung thư tuyến tụy.
+
+Các chuyên gia cũng thử nghiệm phiên bản AI khác nhau để chẩn đoán nguy cơ ung thư vào từng thời điểm: 6 tháng, một, hai, ba năm. Họ nhận thấy phương pháp này cho kết quả chính xác hơn các cách chẩn đoán và phát triển ung thư tụy đang phổ biến hiện nay.
+
+Theo giáo sư Chris Sander, Trường Y Harvard, kiêm giám sát nghiên cứu, công cụ AI giúp phát hiện sớm người có nguy cơ mắc ung thư, từ đó tiết kiệm tài chính, thời gian cho bệnh nhân cũng như giúp bác sĩ tập trung cứu chữa người bệnh.
+
+"Một trong những điều quan trọng nhất mà các bác sĩ lâm sàng phải đối mặt hàng ngày là phân biệt ai cần xét nghiệm thêm, ai cần thực hiện những thủ tục xâm lấn tốn kém và nhiều rủi ro", ông Sander nói.
+
+“AI có thể giúp chúng ta khắc phục những điều này. Tuy nhiên tất cả các công cụ AI đều cần thử nghiệm thêm trước khi áp dụng rộng rãi trong hệ thống y tế”, ông Sander khuyến cáo.

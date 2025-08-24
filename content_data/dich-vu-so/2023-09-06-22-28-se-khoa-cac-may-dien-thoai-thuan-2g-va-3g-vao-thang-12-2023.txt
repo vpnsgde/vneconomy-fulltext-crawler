@@ -1,0 +1,22 @@
+Liên quan đến vấn đề này, tại buổi họp báo thường kỳ diễn ra chiều ngày 6/9, Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long, cho biết giấy phép tần số cấp cho mạng 2G, 3G sẽ hết hạn vào tháng 9/2024. Vì vậy, Bộ sẽ triển khai quy hoạch lại và tần số này sẽ không phục vụ cho máy 2G Only.
+
+Bộ Thông tin và Truyền thông đã có Thông tư quy định không cho phép nhập khẩu máy 2G only vào Việt Nam. Cùng với đó triển khai thanh tra ở các địa phương về tình trạng nhập thiết bị máy điện thoại 2G không chính thức trên thị trường, có giải pháp xử lý để đảm bảo đến thời điểm tháng 9/2024 sẽ không còn máy 2G. Mục tiêu của việc này nhằm thúc đẩy chuyển đổi số, đưa hoạt động của người dân lên môi trường số.
+
+Mặc dù đến thời điểm đó không còn máy 2G nhưng theo Bộ Thông tin và Truyền thông, có thể sẽ phải tiếp tục duy trì sóng 2G thêm một thời gian nữa để phục vụ cho các máy 4G nhưng không sử dụng thoại và tin nhắn trên mạng 4G mà trên mạng 2G và 3G.
+
+Để chuyển đổi máy 2G lên 4G, các nhà mạng đang xây dựng các chính sách hỗ trợ thiết bị đầu cuối và hỗ trợ cước để khách hàng chuyển đổi sang điện thoại thông minh. Các nhà mạng sẽ có chính sách chuyển đổi để không người dùng nào bị mất liên lạc.
+
+Thông tin báo chí trước đó, Cục Viễn thông cho biết đã làm việc với các nhà mạng và các nhà mạng đã cam kết sẽ thực hiện việc khoá các thiết bị 2G only từ tháng 12/2023. Theo đó, thời gian qua, các nhà mạng phát triển giải pháp kỹ thuật để có thể loại các thiết bị thuần 2G, 3G ra khỏi mạng.
+
+Cục Viễn thông cũng đã yêu cầu nhà mạng báo cáo số lượng thuê bao sử dụng máy thuần 2G không hợp pháp có thể khoá máy. Dự kiến tháng 9/2023 sẽ có số liệu để công bố, truyền thông cho người dân đang sử dụng thiết bị 2G only không hợp chuẩn, hợp quy sẽ bị ngắt ra khỏi mạng và có phương án chuyển đổi phù hợp. Biện pháp này sẽ đi vào cuộc sống vào khoảng tháng 12/2023.
+
+Bên cạnh đó, việc thanh tra, kiểm tra nhập khẩu, phân phối, lưu thông máy thuần 2G, 3G cũng sẽ được triển khai. Bộ Thông tin và Truyền thông đã văn bản gửi các Sở Thông tin và Truyền thông, trong đó đề nghị các sở phải kiểm tra các chi nhánh của doanh nghiệp kinh doanh mô hình chuỗi, các hộ kinh doanh đơn lẻ để đảm bảo không còn máy điện thoại di động 2G, 3G only lưu thông trên địa bàn. Đồng thời phải phối hợp với quản lý thị trường, hải quan, công an, kiểm tra ngăn chặn việc mua bán lưu thông thiết bị điện thoại 2G, 3G only vi phạm quy định và kết quả gửi về Bộ Thông tin và Truyền thông trước ngày 30/11/2023.
+
+Theo kế hoạch của Uỷ ban Chuyển đổi số  Quốc gia, trong năm 2023 số người dùng smartphone trên cả nước phải đạt được 80% số người dùng điện thoại di động. Nghị định số 25/2011/NĐ-CP quy định chi tiết và hướng dẫn thi hành một số điều của Luật Viễn thông đã quy định thiết bị đầu cuối thuộc danh mục có khả năng gây mất an toàn do Bộ Thông tin và Truyền thông ban hành phải thực hiện việc chứng nhận hợp quy hoặc công bố hợp quy trước khi lưu thông trên thị trường hoặc kết nối vào mạng viễn thông công cộng.
+
+Trong khi đó, tại Thông tư số 04/2023/TT-BTTTT quy định danh mục sản phẩm, hàng hoá có khả năng gây mất an toàn thuộc trách nhiệm quản lý của Bộ Thông tin và Truyền thông và Thông tư số 43/2020/TT-BTTTT ban hành "Quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất- Phần truy nhập vô tuyến" đã quy định máy điện thoại di động mặt đất bắt buộc phải hỗ trợ công nghệ E- UTRA FDD (4G) từ ngày 01/7/2021, đồng nghĩa những thiết bị only 2G, 3G là không hợp pháp.
+
+Cục Viễn thông đã đưa ra danh sách các chủng loại máy điện thoại thuần 2G đã được chứng nhận hợp quy trước ngày 1/7/2021 và đã công bố cho các nhà mạng để có căn cứ dừng các thiết bị thuần 2G không hợp pháp.
+
+Như vậy, đến tháng 12/2023 với các giải pháp mạnh, tỷ lệ mà máy 2G và 3G only không tuân thủ quy định pháp luật sẽ bị loại ra mạng tương đối lớn.
+

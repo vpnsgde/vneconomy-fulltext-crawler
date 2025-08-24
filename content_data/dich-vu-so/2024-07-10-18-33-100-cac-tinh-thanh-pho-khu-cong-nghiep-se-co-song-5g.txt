@@ -1,0 +1,45 @@
+Mục tiêu này được đặt ra trong Quyết định phê duyệt kế hoạch nâng cao chất lượng mạng viễn thông di động Việt Nam đến năm 2025 vừa được Bộ Thông tin và Truyền thông ban hành.
+
+Theo kế hoạch, về nâng cao chất lượng mạng viễn thông di động của Việt Nam, mục tiêu cụ thể đặt ra đến năm 2025, tốc độ tải xuống trung bình tối thiểu 40 Mbit/s với dịch vụ truy nhập Internet 4G, căn cứ theo kết quả đo kiểm bằng ứng dụng i-Speed tới các cấp quận, huyện, phường, xã.
+
+Cùng với đó hoàn thành phủ sóng các thôn, bản còn trắng sóng, lõm sóng băng rộng di động đã có điện lưới quốc gia thuộc khu vực đặc biệt khó khăn theo Chương trình cung cấp dịch vụ viễn thông công ích đến năm 2025 đã được Thủ tướng Chính phủ phê duyệt. Phủ sóng 100% các khu vực trắng sóng, lõm sóng băng rộng di động tại các thôn, cụm dân cư đã có điện lưới quốc gia ngoài khu vực đặc biệt khó khăn theo phản ánh của Sở Thông tin và Truyền thông các tỉnh, thành phố.
+
+Đặc biệt, kế hoạch cũng đặt mục tiêu đến năm 2025 sẽ phủ sóng băng rộng di động tới 100% các tuyến đường sắt, đường quốc lộ, cao tốc và 3 tuyến đường sắt đô thị; đảm bảo không để mất sóng quá 1km liên tục.
+
+Đồng thời, ngừng hoàn toàn việc cung cấp dịch vụ điện thoại trên mạng viễn thông di động mặt đất chỉ hỗ trợ công nghệ 2G, trừ dịch vụ tại khu vực quần đảo Trường Sa, Hoàng Sa, nhà giàn DK.
+
+Đến năm 2025, dịch vụ truy nhập nội dung video chất lượng Full HD (độ phân giải 1080p) trên mạng băng rộng di động có tốc độ tải xuống đạt tối thiểu 5Mbit/s (95% truy nhập có tốc độ tải xuống đạt yêu cầu). Ngoài ra dịch vụ truy nhập nội dung video chất lượng Ultra HD (độ phân giải 4K) trên mạng băng rộng di động có tốc độ tải xuống 25Mbit/s.
+
+Liên quan đến việc triển khai hiệu quả thương mại hóa 5G, kế hoạch của Bộ Thông tin và Truyền thông đặt mục tiêu cụ thể đến năm 2025 là 100% các tỉnh, thành phố có sóng dịch vụ 5G;
+
+Đồng thời với đó, 100% các khu công nghệ cao, khu công nghệ thông tin tập trung, trung tâm nghiên cứu phát triển, đổi mới sáng tạo, khu công nghiệp, nhà ga, cảng biển, sân bay quốc tế có sóng dịch vụ 5G; tốc độ tải xuống dịch vụ truy nhập Internet 5G trung bình tối thiểu 100 Mbit/s tại các khu vực có phủ sóng dịch vụ, theo kết quả đo kiểm bằng ứng dụng i-Speed.
+
+Để hiện thực hóa các mục tiêu này, trong kế hoạch, Bộ Thông tin và Truyền thông đã nêu rõ 4 nhóm nhiệm vụ trọng tâm cùng 9 nhóm giải pháp sẽ được tập trung triển khai thời gian tới.
+
+Thứ nhất, tăng cường mở rộng vùng phủ sóng, chất lượng dịch vụ mạng viễn thông di động. Theo đó sẽ tập trung mở rộng vùng phủ sóng, chất lượng dịch vụ mạng viễn thông di động công nghệ 4G, 5G tại các khu vực trọng điểm như: khu vực hành chính công, khu di tích lịch sử văn hóa, danh lam thắng cảnh, khu du lịch trọng điểm; cơ sở y tế; các trường đại học, cao đẳng; đầu mối giao thông; hệ thống đường bộ, đường sắt và đường thủy; các tòa nhà thương mại, khách sạn; các thị trấn và khu vực trọng điểm ở nông thôn.
+
+Bên cạnh đó thúc đẩy chia sẻ hạ tầng mạng dùng chung giữa các doanh nghiệp cung cấp dịch vụ theo quy định để mở rộng vùng phủ sóng 4G, 5G, giảm thiểu chi phí đầu tư. Phát triển các ứng dụng cho 5G phục vụ các khu vực trọng điểm. Thúc đẩy thông tin liên lạc vệ tinh để phủ sóng các khu vực đặc biệt khó khăn thuộc miền núi, biên giới, hải đảo, vùng sâu, vùng xa.
+
+Đẩy mạnh giám sát và phân tích các chỉ số chất lượng về trải nghiệm của người sử dụng. Từ đó xây dựng các tiêu chuẩn đánh giá trải nghiệm dịch vụ hướng tới nâng cao trải nghiệm dịch vụ của người dùng.
+
+Thứ hai, tăng cường khả năng chống chịu và phục hồi của mạng lưới.
+
+Thứ ba, thực thi công tác quản lý, giám sát, đo kiểm chất lượng mạng và dịch vụ viễn thông di động. Theo đó, định kỳ công bố chất lượng dịch vụ của các doanh nghiệp viễn thông di động theo tỉnh/thành phố, hướng tới cấp quận/huyện, phường/xã theo kết quả đo kiểm bằng ứng dụng i-Speed.
+
+Thứ tư, thúc đẩy phối hợp, hợp tác trong nước để phát huy tối đa nguồn lực.
+
+Kế hoạch cũng nhấn mạnh 9 giải pháp sẽ được tập trung triển khai thời gian tới, bao gồm: Tổ chức hiệu quả công tác quản lý, giám sát, đo kiểm chất lượng mạng và dịch vụ viễn thông; thúc đẩy phối hợp liên ngành hiệu quả để tối ưu hiệu quả nguồn lực; tổ chức hiệu quả đấu giá, phân bổ băng tần; tắt sóng công nghệ cũ, thúc đẩy nâng cấp thiết bị mới; Phát triển hạ tầng kỹ thuật viễn thông thụ động; thúc đẩy chia sẻ cơ sở hạ tầng dùng chung; tổ chức thực hiện hiệu quả chương trình cung cấp dịch vụ viễn thông công ích; tuyên truyền, nâng cao nhận thức; thúc đẩy sản xuất thiết bị Việt Nam.
+
+Cụ thể, về quản lý, giám sát, đo kiểm chất lượng mạng và dịch vụ viễn thông, kế hoạch nhấn mạnh việc đo kiểm, so sánh chất lượng giữa các doanh nghiệp cung cấp dịch vụ viễn thông di động, hàng tháng công bố xếp hạng chất lượng (benchmark) theo từng doanh nghiệp, từng tỉnh trên cơ sở công cụ i-Speed để thúc đẩy doanh nghiệp cạnh tranh nâng cao chất lượng dịch vụ. Rà soát cập nhất các quy chuẩn về chất lượng dịch vụ truy nhập internet trên mạng viễn thông di động mặt đất để nâng cao chất lượng mạng và dịch vụ.
+
+Để tối ưu hiệu quả nguồn lực, kế hoạch đưa ra giải pháp phối hợp với Bộ Giao thông vận tải thúc đẩy triển khai sử dụng chung hạ tầng kỹ thuật (hệ thống truyền dẫn, hành lang an toàn đường bộ…) của tuyến đường bộ cao tốc/ quốc lộ, nhà ga/bến cảng/sân bay quốc tế, đường sắt…
+
+Đồng thời phối hợp với Bộ Xây dựng và các doanh nghiệp viễn thông bổ sung yêu cầu kỹ thuật công trình hạ tầng viễn thông trong các tòa nhà, khu công nghiệp, khu phức hợp, khu công nghệ cao… vào các quy chuẩn xây dựng để đạt được thiết kế, xây dựng và nghiệm thu đồng bộ với hạ tầng viễn thông.
+
+Phối hợp với Bộ Công Thương, điện lực các tỉnh/thành phố đảm bảo nguồn điện cho hạ tầng viễn thông, dùng chung hạ tầng điện, đặc biệt cho mạng 5G, các trạm ở vùng sâu, vùng xa, các tuyến đường cao tốc, đường sắt…
+
+Với các hạ tầng giao thông, xây dựng đã/chuẩn bị đưa vào vận hành khai thác, phối hợp với Bộ Giao thông vận tải, Bộ Xây dựng, Bộ Công Thương, Điện lực các địa phương, UBND tỉnh/thành phố hỗ trợ doanh nghiệp chia sẻ hạ tầng kỹ thuật sẵn có, bổ sung mới hạ tầng viễn thông để đảm bảo chất lượng dịch vụ.
+
+Để mở rộng vùng phủ sóng, triển khai nhanh chóng mạng 4G,5G và giảm thiểu chi phí, kế hoạch cũng để cập việc thúc đẩy chia sẻ hạ tầng dùng chung giữa các doanh nghiệp; chia sẻ hạ tầng dùng chung liên ngành giữa viễn thông và các ngành khác.
+
+Kế hoạch cũng nhấn mạnh việc khẩn trường hoàn thành đấu giá, phân bổ mới, cấp lại các tần số cũ (900/1800/2100 MHz) phục vụ triển khai dịch vụ 4G, 5G; đồng thời thúc đẩy các chương trình thay thế thiết bị đầu cuối cũ lạc hậu công nghệ 2G, 3G bằng thiết bị đầu cuối thông minh 4G,5G cho người dân và triển khai tắt sóng 2G.

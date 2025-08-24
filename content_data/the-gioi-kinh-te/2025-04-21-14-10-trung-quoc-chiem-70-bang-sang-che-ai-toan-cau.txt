@@ -1,0 +1,7 @@
+Đồ thị thông tin dưới đây gồm tỷ trọng của các nền kinh tế trên thế giới trong tổng lượng bằng sáng chế AI được cấp năm 2023. Đây là năm gần đây có số liệu này từ cơ sở dữ liệu PATSTAT Global của Văn phòng Sáng chế châu Âu (EPO). Số liệu đã được làm tròn.
+
+Theo đó, trong giai đoạn từ 2010-2023, tỷ trọng của Trung Quốc tăng gấp hơn 5 lần, từ 13,4% lên 69,7%. Ngược lại, tỷ trọng của Mỹ giảm mạnh từ gần 40% xuống còn 14%.
+
+Tại Mỹ, các bằng sáng chế AI chủ yếu nằm trong tay những công ty công nghệ lớn như IBM, Microsoft và Google. Trong khi đó, tại Trung Quốc, bằng sáng chế AI được phân bổ rộng rãi hơn, từ các công ty công nghệ như Baidu, Tencent,… cho tới các tổ chức chính phủ và trường đại học.
+
+Tương tự như Mỹ, tỷ trọng của các nền kinh tế châu Âu trong tổng lượng bằng sáng chế AI toàn cầu cũng giảm mạnh từ 8,6% xuống còn 2,8% trong 13 năm.

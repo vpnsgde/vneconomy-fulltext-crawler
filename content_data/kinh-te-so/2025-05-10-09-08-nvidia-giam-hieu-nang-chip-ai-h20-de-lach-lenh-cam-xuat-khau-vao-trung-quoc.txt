@@ -1,0 +1,23 @@
+Theo South China Morning Post, Nvidia đã thông báo với khách hàng Trung Quốc về kế hoạch phát hành bản H20 mới, với hiệu năng sẽ bị giảm đi đáng kể để đáp ứng các tiêu chuẩn kiểm soát xuất khẩu do Mỹ áp đặt.
+
+Một trong những thay đổi lớn nhất là dung lượng bộ nhớ bị cắt giảm, trong khi một số cấu hình mô-đun cho phép khách hàng tùy chỉnh nhưng vẫn nằm trong giới hạn cho phép.
+
+Chip H20 ban đầu được phát triển như dòng sản phẩm mạnh nhất Nvidia có thể bán tại Trung Quốc. Tuy nhiên, đến tháng 4 vừa qua, Bộ Thương mại Mỹ bất ngờ siết chặt chính sách, yêu cầu dòng chip này phải có giấy phép đặc biệt để xuất khẩu. Động thái này gần như đóng sập cánh cửa của Nvidia với thị trường tỷ dân, buộc hãng phải cấp tốc tìm phương án ứng phó.
+
+Đáng chú ý, chỉ vài ngày sau khi các biện pháp kiểm soát mới có hiệu lực, CEO Jensen Huang đã bất ngờ xuất hiện tại Bắc Kinh. Theo Đài Truyền hình Trung ương Trung Quốc (CCTV), ông Huang đã có cuộc gặp với ông Ren Hongbin, Chủ tịch Hội đồng Xúc tiến Thương mại Quốc tế Trung Quốc (CCPIT). Trong cuộc gặp, nhà lãnh đạo Nvidia khẳng định sẽ “tiếp tục tăng cường hợp tác với Trung Quốc”, dù thừa nhận ngành công nghệ toàn cầu đang bước vào giai đoạn nhiều bất ổn địa chính trị chưa từng có.
+
+Thế nên, việc tái thiết kế H20 được các nhà quan sát đánh giá là giải pháp tình thế, đồng thời cho thấy sự linh hoạt của gã khổng lồ bán dẫn Mỹ trong bối cảnh cạnh tranh địa chính trị ngày càng căng thẳng.
+
+Từ năm 2022, Mỹ đã bắt đầu áp dụng các biện pháp hạn chế xuất khẩu đối với các loại chip tiên tiến của Nvidia sang Trung Quốc, với lý do lo ngại chúng có thể bị sử dụng cho mục đích quân sự. Đến tháng 10/2023, các quy định tiếp tục được siết chặt, buộc Nvidia phải thiết kế lại và cho ra mắt dòng chip H20 nhằm đáp ứng yêu cầu xuất khẩu.
+
+Mặc dù bị giới hạn về hiệu năng so với bản gốc, H20 vẫn nhận được sự quan tâm lớn từ nhiều “ông lớn” công nghệ Trung Quốc như Tencent, Alibaba, ByteDance (công ty mẹ của TikTok).
+
+Dù bị "bóp" hiệu năng, H20 vẫn là cái tên được săn đón bởi những “ông lớn” công nghệ Trung Quốc như Tencent, Alibaba, ByteDance. Reuters dẫn nguồn tin cho biết, từ đầu năm 2025 đến nay, Nvidia đã nhận đơn đặt hàng trị giá 18 tỷ USD cho dòng chip H20 – minh chứng cho nhu cầu khổng lồ về AI tại Trung Quốc, nơi các tập đoàn và startup đang chạy đua huấn luyện mô hình ngôn ngữ lớn.
+
+Ông Jensen Huang, CEO Nvidia, từng dự báo với CNBC rằng quy mô thị trường AI Trung Quốc có thể đạt tới 50 tỷ USD trong 2-3 năm tới. Ông cảnh báo rằng nếu các công ty Mỹ đánh mất thị trường này, đây sẽ là tổn thất chiến lược trong cuộc cạnh tranh công nghệ toàn cầu.
+
+Trung Quốc hiện đóng góp khoảng 13% tổng doanh thu của Nvidia – một con số không thể xem nhẹ. Việc bị chặn đứng tại thị trường này khiến công ty có thể thiệt hại tới 5,5 tỷ USD doanh thu, theo ước tính nội bộ. Cổ phiếu Nvidia từng lao dốc gần 7% chỉ một ngày sau khi các lệnh hạn chế mới được ban hành.
+
+Dù thừa nhận Trung Quốc vẫn đang đi sau Mỹ trong cuộc đua AI, ông Huang cảnh báo về Huawei – đối thủ công nghệ lớn nhất tại Trung Quốc, hiện đang nổi lên mạnh mẽ với các sản phẩm phần cứng và phần mềm AI tự phát triển.
+
+Theo ông, Huawei đang trở thành “một trong những công ty công nghệ đáng gờm nhất thế giới”, báo hiệu cuộc cạnh tranh sẽ ngày càng khốc liệt, không chỉ giữa công ty với công ty, mà còn giữa hai cường quốc công nghệ toàn cầu.

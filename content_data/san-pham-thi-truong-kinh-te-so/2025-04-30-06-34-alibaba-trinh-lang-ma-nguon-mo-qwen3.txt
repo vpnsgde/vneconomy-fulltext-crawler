@@ -1,0 +1,29 @@
+Trong một bài đăng trên blog, tập đoàn công nghệ hàng đầu Trung Quốc cho biết Qwen3 có những bước tiến rõ rệt về khả năng tư duy logic, làm theo hướng dẫn, sử dụng công cụ và xử lý đa ngôn ngữ.
+
+Bộ mô hình Qwen3 bao gồm tám biến thể, trải dài trên nhiều kiến trúc và kích thước, cung cấp cho các nhà phát triển sự linh hoạt cao khi triển khai các ứng dụng AI trên nhiều nền tảng, từ hệ thống điện toán đám mây cho đến các thiết bị biên như điện thoại di động.
+
+Điểm nổi bật lần này là Alibaba lần đầu tiên giới thiệu mô hình theo hướng “lý luận lai” – một cách kết hợp giữa khả năng xử lý ngôn ngữ của LLM truyền thống với tư duy logic nâng cao. Hướng đi này được kỳ vọng sẽ giúp AI thích nghi tốt hơn với các tình huống phức tạp trong thực tế.
+
+Theo Alibaba, các mô hình Qwen3 có thể linh hoạt chuyển đổi giữa các chế độ tư duy, hỗ trợ tới 119 ngôn ngữ và phương ngữ, cùng với việc phát hành mã nguồn mở, tạo điều kiện cho cộng đồng phát triển và triển khai rộng rãi hơn.
+
+“Đáng chú ý, phiên bản Qwen3-235B-A22B MoE giúp giảm đáng kể chi phí triển khai so với nhiều mô hình hiện đại khác”, Alibaba tiết lộ.
+
+Hiện các mô hình Qwen3 đã được cung cấp miễn phí cho người dùng cá nhân trên các nền tảng phổ biến như Hugging Face, GitHub và qua giao diện web của Alibaba Cloud. Ngoài ra, Qwen3 cũng đang được sử dụng để vận hành trợ lý AI Quark – một sản phẩm trí tuệ nhân tạo do Alibaba phát triển nhằm phục vụ nhu cầu tra cứu và hỗ trợ thông tin hàng ngày.
+
+Sự kiện ra mắt của Qwen3 khiến một số chuyên gia trong lĩnh vực AI nhận định với CNBC rằng Qwen3 là một đối thủ đáng gờm, không chỉ đối với các công ty công nghệ tại Trung Quốc mà còn là lời thách thức trực tiếp tới những "ông lớn" trong ngành tại Mỹ.
+
+Trên nền tảng Codeforces (nền tảng thi lập trình trực tuyến toàn cầu), phiên bản mạnh nhất của dòng Qwen3, có tên Qwen-3-235B-A22B, đã vượt mặt nhiều đối thủ nặng ký như o3-mini của OpenAI và Gemini 2.5 Pro của Google.
+
+Không chỉ vậy, phiên bản Qwen3 được công bố rộng rãi Qwen3-32B – cũng chứng minh sức cạnh tranh cao khi đặt lên bàn cân với nhiều mô hình khác, vượt qua mô hình o1 của OpenAI trong một số bài kiểm tra, như LiveCodeBench (một bài đánh giá khả năng viết mã và lập trình của AI theo thời gian thực)
+
+Các mô hình dòng Qwen3 đều ghi điểm cao trên nhiều tiêu chuẩn hàng đầu của ngành, như: AIME25 (đánh giá khả năng tư duy toán học), LiveCodeBench (đánh giá năng lực viết mã), BFCL (kiểm tra khả năng sử dụng công cụ và chức năng), và Arena-Hard (chuẩn đánh giá khả năng tuân thủ hướng dẫn trong các mô hình ngôn ngữ lớn).
+
+Ông Wei Sun, chuyên gia phân tích trí tuệ nhân tạo tại Counterpoint Research, đánh giá dòng Qwen3 là một “bước đột phá quan trọng không chỉ nhờ hiệu suất vượt trội trong phân khúc, mà còn bởi những tính năng cho thấy tiềm năng ứng dụng thực tiễn rất lớn”.
+
+Theo Alibaba, Qwen hiện đã trở thành một trong những dòng mô hình AI mã nguồn mở được ứng dụng rộng rãi nhất toàn cầu, với hơn 300 triệu lượt tải xuống và hơn 100.000 mô hình phái sinh trên nền tảng Hugging Face.
+
+Nhiều nhà quan sát cho rằng mức độ phổ biến này nhiều khả năng sẽ tiếp tục gia tăng với phiên bản Qwen 3, đặc biệt khi các tuyên bố về hiệu suất cho thấy nó có thể là mô hình mã nguồn mở có hiệu suất hàng đầu hiện nay – dù vẫn còn xếp sau các mô hình tiên tiến hàng đầu như o3 và o4-mini của OpenAI.
+
+Đầu năm nay, mô hình R1 mã nguồn mở của DeepSeek đã tạo nên một cú hích lớn trong giới AI, trở thành chất xúc tác thúc đẩy làn sóng ứng dụng mô hình nguồn mở trong cộng đồng công nghệ Trung Quốc.
+
+Sự trỗi dậy của DeepSeek đã khiến các đối thủ tại chính Trung Quốc như Baidu nhanh chóng tung ra các mô hình AI mới và bắt đầu chuyển hướng sang mô hình kinh doanh thiên về nguồn mở hơn. Trong khi đó, Reuters tiết lộ hồi rằng DeepSeek cũng đang tăng tốc để ra mắt phiên bản kế nhiệm R1, tạm gọi là R2, theo các nguồn tin nội bộ.

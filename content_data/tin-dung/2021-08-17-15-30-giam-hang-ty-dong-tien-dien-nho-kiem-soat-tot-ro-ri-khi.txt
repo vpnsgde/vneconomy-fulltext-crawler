@@ -1,0 +1,37 @@
+Khí nén là nguồn năng lượng chuyển đổi không thể thiếu tại hầu hết các nhà máy, giúp vận hành máy móc, robot, hệ thống xử lý sản phẩm và nhiều thiết bị khác.
+
+Tuy nhiên, hệ thống này lại hay hư hỏng do ăn mòn và phương pháp bảo trì kém, dẫn đến nguyên nhân lãng phí lớn nhất, đó là rò rỉ. Những rò rỉ này có thể nằm ẩn phía sau máy móc, tại các đầu nối, đường ống cố định trên cao, đường ống bị nứt hay bị ăn mòn. Sự lãng phí này tăng lên nhanh chóng và có thể dẫn đến việc ngừng hoạt động (downtime).
+
+Bài toán kinh tế đặt ra đối với các nhà máy hiện nay là kiểm toán hao tổn do rò rỉ khí gây ra trên hệ thống. Từ việc xử lí các điểm rò giúp nhà máy tiết kiệm đáng kể tổn thất do rò rỉ khí gây ra.
+
+Theo Bộ Năng Lượng Hoa Kỳ, một điểm rò khoảng 3mm trong đường ống khí nén có thể gây ra tổn thất lên đến US$2,500/năm. Cơ quan này ước tính trung bình một nhà máy ở Mỹ không bảo trì tốt có thể lãng phí 20% tổng sản lượng khí nén, ở các nước khác hao tổn thậm chí còn cao hơn từ 30% đến 50%. Ở Việt Nam, theo thống kê của các tổ chức kiểm toán năng lượng con số này khoảng 20-42%.
+
+Rò rỉ khí nén gây phí tổn vốn đầu tư và sửa chữa, thay thế máy nén khí. Để bù vào lượng áp suất bị mất do rò rỉ, cần đầu tư máy nén khí lớn hơn hoặc cho hoạt động ở trạng thái quá tải làm tăng đáng kể chi phí vốn và năng lượng. Mặt khác, nó còn có thể khiến thiết bị khí nén bị hỏng do áp suất hệ thống thấp, dẫn đến trì hoãn sản xuất, downtime, ảnh hưởng chất lượng, giảm tuổi thọ thiết bị và tăng chi phí cũng như thời gian bảo trì.
+
+Phương pháp phát hiện rò rỉ khí trước đây như lắng nghe âm thanh rò rỉ bằng tai hoặc siêu âm, phun nước xà phòng lên khu vực nghi ngờ có rò rỉ khá bất tiện do tốn nhiều thời gian, công sức và một số rủi ro khác như nhiễu bởi âm thanh môi trường hoặc trượt ngã, khó thực hiện với các vị trí ngóc ngách hoặc trên cao.
+
+Năm 2019, hãng Fluke (Mỹ) cho ra mắt máy chụp ảnh sóng âm Fluke ii900 bao gồm 64 cảm biến âm thanh được bố trí khoảng cách chuẩn làm tăng độ nhạy và tích hợp công nghệ SoundMap™ giúp chuyển hóa âm thanh rò rỉ thành hình ảnh. Sự ra đời này mở ra một phương pháp dò rò rỉ khí từ xa, trực quan và nhanh chóng ngay cả trong môi trường ồn ào hoặc ở vị trí khó tiếp cận.
+
+Ông L.V.Q (giảng viên kiểm toán năng lượng Học viện RCM) cho biết, để tăng hiệu quả dò rò rỉ, nên tập trung kiểm tra ở các vị trí dễ xảy ra rò rỉ như: Ren, khớp nối, đường ống, gá lắp, bẫy ngưng đọng, van, mặt bích...
+
+
+
+Theo ông Q., một quy trình kiểm tra và khắc phục rò rỉ khí thường bao gồm 5 bước: Xác định khu vực và thiết bị kiểm tra; Định vị rò rỉ; Phân tích kết quả & lên phương án khắc phục; Thực hiện khắc phục; Theo dõi và ghi nhận hiệu quả.
+
+Lợi ích dễ thấy nhất khi thực hiện tốt công tác trên là thông qua kiểm toán chi phí năng lượng. Ông Q. chia sẻ một ví dụ thực tế tại một nhà máy dệt tại Tp.HCM. Sau khi theo dõi nhật ký công suất của 4 máy nén khí trong vòng 1 tuần, nhà máy quyết định khắc phục tại máy nén tiêu hao nhiều năng lượng nhất trước để khảo sát hiệu quả.
+
+Sau 1 tuần, nhà máy nhận thấy công suất tại máy này đã phục hồi 25,7%, đồng thời năng lượng tiêu hao cũng giảm đáng kể - ước tính khoảng US$48.854/năm (khoảng 1,1 tỷ đồng) - chỉ với việc khắc phục sự cố trên một máy nén duy nhất.
+
+Một khảo sát tại nhà máy khác cho thấy tổng thời gian vận hành 6 máy nén vào khoảng 42.400 giờ/năm. Dùng thiết bị Fluke ii910 kiểm tra trên 2 dây chuyền sản xuất, phát hiện 22 điểm rò rỉ, ước tính tổn thất 103 triệu/năm.
+
+Công ty này có 18 dây chuyền sản xuất, có thể ước lượng được tổng tổn thất vào khoảng 900 triệu/năm. Điều này có nghĩa nếu doanh nghiệp làm tốt công tác khắc phục sẽ cắt giảm được 900 triệu chi phí vận hành, đồng thời giảm thời gian vận hành máy nén khí xuống còn 32.200 giờ/năm.
+
+Ngoài ra, ông Q. cho biết, việc khắc phục rò rỉ cũng mang lại nhiều lợi ích khác bao gồm tăng tuổi thọ thiết bị, giảm chi phí bảo trì sửa chữa, giảm thời gian bảo trì,... Như vậy, trên thực tế, số tiền mà doanh nghiệp tiết kiệm được có thể cao hơn nhiều so với những con số kể trên.
+
+Máy chụp ảnh sóng âm Fluke ii900 và ii910 được thiết kế để thu tín hiệu âm thanh từ 2kHz đến 100kHz (52kHz với máy ii900), thích hợp cho kiểm tra rò rỉ khí và phóng điện cục bộ (PD) giai đoạn sớm.
+
+Hãng Fluke cho biết công nghệ SoundSightTM và SoundMapTM tích hợp trong máy giúp chuyển hóa tín hiệu âm thanh thu được thành hình ảnh, giúp người dùng nhìn rõ vị trí rò rỉ hay PD ngay trên màn hình máy đo, cho công tác khắc phục sự cố nhanh chóng và dễ dàng hơn.
+
+Theo ông Q., hiện tại, các nhà máy chưa chú trọng nhiều việc kiểm tra rò rỉ khí nén do một số hạn chế như định vị vị trí rò rỉ tốn rất nhiều thời gian, đặc biệt là nhà máy có tiếng ồn trong quá trình sản xuất lớn gây nhiều trong quá trình kiểm tra cũng như chưa có công cụ giúp tính toán nhanh năng lượng và khí tổn thất thành tiền.
+
+Nhưng với Fluke ii900 và công cụ LeakQ Mode của hãng Fluke, giờ đây doanh nghiệp có thể đơn giản hóa quy trình kiểm tra rò rỉ và tính được con số cụ thể, từ đó có cơ sở vững chắc hơn để quản lý vận hành nhà máy.

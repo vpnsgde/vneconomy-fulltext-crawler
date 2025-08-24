@@ -1,0 +1,38 @@
+Mô hình MVNO xuất hiện từ những năm 1990 tại châu Âu, nhưng mới chỉ phát triển ở Việt Nam thời gian gần đây. Trước sự xuất hiện của VNSky với đầu số 0777 vào tháng 7/2023, trên thị trường MVNO Việt Nam đã có 3 nhà mạng ảo, đầu tiên là iTel hồi tháng 4/2019, với đầu số 087, Wintel với đầu số 055 và ASIM với đầu số 089. Một tên tuổi mới nhất là FPT Retail cũng tuyên bố tham gia thị trường MVNO ở Việt Nam khi được Bộ Thông tin và Truyền thông cấp phép tháng 6/2023.
+
+Theo các chuyên gia, mạng di động ảo MVNO là mạng di động mà nhà cung cấp không sở hữu hạ tầng mạng lưới mà mua sỉ, mua cả gói lưu lượng lớn truy cập dịch vụ mạng của một nhà mạng di động khác (doanh nghiệp di động bán buôn lưu lượng) và cung cấp dịch vụ di động với giá bán lẻ riêng tới khách hàng. Phần chênh lệch giữa giá bán buôn cả gói lưu lượng lớn và giá bán lẻ tới khách hàng chính là lợi nhuận mà các MVNO có được.
+
+Với mô hình MVNO, các nhà mạng ảo có thể cung cấp dịch vụ và thu lợi nhuận từ những thị trường ngách, nhóm khách hàng nhỏ mà nhà mạng lớn không cung cấp. Việc bán lại phần lưu lượng mà các doanh nghiệp viễn thông có hạ tầng mạng chưa sử dụng thay vì để không sẽ giúp các doanh nghiệp viễn thông có thể được chia sẻ chi phí vận hành và nhanh chóng thu hồi vốn đầu tư. Còn các MVNO có thể ngay lập tức bước vào thị trường kinh doanh di động mà không phải xây dựng cơ sở hạ tầng, đồng thời, tiết kiệm được thời gian.
+
+Như vậy, các nhà mạng có hạ tầng khi bán dịch vụ cho nhà mạng ảo cũng có thêm nguồn thu, khai thác hạ tầng mạng tốt hơn, hiệu quả hơn. Nhà mạng ảo ví như “cánh tay nối dài” của các nhà mạng có hạ tầng, cung cấp dịch vụ đến mọi ngóc ngách, đối tượng khách hàng, mang lại tiện ích, trải nghiệm số mới.
+
+Trong bối cảnh thị trường viễn thông truyền thống (nghe, gọi, nhắn tin) được đánh giá là đã gần bão hòa, thì sự xuất hiện của các mạng ảo được ví như một “luồng gió mới”, kỳ vọng sẽ thay đổi thị trường viễn thông.
+
+Tuy nhiên, ngoài VnSky vừa cung cấp dịch vụ ra thị trường, ba nhà mạng đã cung cấp dịch vụ trước đó mặc dù đã cố gắng với nhiều giải pháp thu hút người dùng nhưng đến nay tỷ lệ thị phần đạt được không đáng kể. Các thuê bao di động ảo hiện chiếm một lượng nhỏ trong tổng số người sử dụng di động tại Việt Nam.
+
+Hiện nay tổng số thuê bao di động trên thị trường khoảng 130 triệu. Trong khi đó, theo thống kê của Cục Viễn thông, số thuê bao của các nhà mạng ảo tại Việt Nam hiện nay mới chỉ chiếm 2,1% tổng số thuê bao toàn thị trường di động.
+
+Nhận xét về sự phát triển mạng di động ảo tại Việt Nam, ông Nguyễn Phong Nhã, Phó Cục trưởng Cục Viễn thông, cho biết các nhà mạng ảo hiện nay có khoảng 2,5 triệu thuê bao. Đây là con số còn rất khiêm tốn. Không những thế, các dịch vụ của các nhà mạng ảo cung cấp ra xã hội cũng còn hạn chế, chưa có những dịch vụ thực sự tạo ra thế mạnh cho các MVNO.
+
+Theo Bộ Thông tin và Truyền thông, so với các nước trong khu vực, số lượng doanh nghiệp MVNO ở Việt Nam còn hạn chế, thị trường chưa phát triển. Trên thế giới hiện có khoảng 1.300 doanh nghiệp MVNO đang hoạt động tại 79 quốc gia; trong đó châu Âu có 585 doanh nghiệp, châu Á-Thái Bình Dương có 129 doanh nghiệp, Bắc Mỹ có 107 doanh nghiệp.
+
+Hiện nay, một số quốc gia có thị phần các doanh nghiệp MVNO lớn như: Nhật Bản có 83 doanh nghiệp (thị phần 10,6%); UK có 77 doanh nghiệp (15,9%); Mỹ có 139 doanh nghiệp (4,7%); Đức có 135 doanh nghiệp (19,5%); Úc có 66 doanh nghiệp (13,1%); Hàn Quốc có 44 doanh nghiệp (12%)...
+
+Các nước trong khu vực cũng có thị trường MVNO phát triển, mang đến nhiều dịch vụ mới cho người sử dụng, như Thái Lan có 12 doanh nghiệp, Malaysia có 8 doanh nghiệp...
+
+Có thể thấy trong bối cảnh thị trường viễn thông truyền thống đã gần bão hòa, việc các nhà mạng ảo ra đời sau nếu không chọn cho mình một hướng đi khác biệt, tìm được thị trường ngách sẽ rất khó để thu hút được người dùng, cạnh tranh, tồn tại và phát triển.
+
+Để thúc đẩy MVNO phát triển khi đã có mạng di động tốc độ truy nhập Internet tăng rất nhanh và vùng phủ sóng rộng lớn với hơn 89% dân số, các chuyên gia viễn thông khuyến nghị các nhà mạng ảo nên nhìn nhận, tìm kiếm cung cấp dịch vụ trên nền Internet thực sự mang lại lợi ích cho người dùng như các dịch vụ về tài chính, học tập, những dịch vụ liên quan đến thị trường ngách mà nhà mạng lớn không cung cấp. Đây là xu hướng của thế giới và để thúc đẩy các nội dung phát triển, cung cấp nhiều dịch vụ ứng dụng viễn thông trên nền Internet băng rộng di động.
+
+
+
+Đại diện một MVNO nhìn nhận: không gian, thị trường mạng di động ảo còn rất nhiều tiềm năng trong bối cảnh chuyển đổi số, kết nối số, dịch vụ số, dữ liệu bùng nổ. Các nhà mạng triển khai hạ tầng kết nối được ví như các đơn vị làm đường giao thông. Trên tuyến đường sẽ cần rất nhiều dịch vụ khác và MVNO sẽ đóng vai trò là đơn vị khai thác tối đa hóa cơ sở hạ tầng mạng để cung cấp thêm nhiều dịch vụ giá trị gia tăng cho người dùng.
+
+Theo nhà mạng này, nếu tạo điều kiện cho thị trường mạng di động ảo phát triển tối ưu, với sự tham gia của các doanh nghiệp ở các mảng tài chính, ngân hàng, bảo hiểm, bán lẻ, giải trí... đã có tập khách hàng người dùng và nội dung sẵn, thị trường MVNO tại Việt Nam có thể chiếm 10- 20% thị phần viễn thông. Mô hình MVNO hiện khá đa dạng, tập trung chủ yếu vào các thị trường ngách như mạng dành cho doanh nghiệp, dịch vụ IoT, giải trí…
+
+Sự phát triển của các nhà mạng ảo sẽ mang lại nhiều yếu tố tích cực khi làm gia tăng sức cạnh tranh trên thị trường di động. Việc bán lại lưu lượng theo gói cho một nhà mạng khác được xem là phương thức hiệu quả để các nhà mạng đi trước chia sẻ chi phí vận hành mạng lưới, rút ngắn thời gian thu hồi vốn đầu tư ban đầu. Các mạng di động ảo cũng sẽ góp phần giúp đa dạng hóa các loại hình dịch vụ phục vụ chuyển đổi số trong các lĩnh vực tài chính, giáo dục, sức khỏe, giải trí...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 33-2023 phát hành ngày 14-08-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam
+

@@ -1,0 +1,27 @@
+Chiều 2/10, Thủ tướng Phạm Minh Chính, Chủ tịch Ủy ban Quốc gia về Chuyển đổi số đã chủ trì Hội nghị trực tuyến triển khai mở rộng thí điểm sổ sức khỏe điện tử và cấp phiếu lý lịch tư pháp qua VNeID trên toàn quốc. Hội nghị được kết nối trực tuyến từ trụ sở Chính phủ tới các bộ ngành, các tỉnh thành phố trực thuộc Trung ương, các địa phương cấp huyện, cấp xã.
+
+Phát biểu khai mạc, Thủ tướng Phạm Minh Chính đánh giá Hội nghị đánh dấu một bước quan trọng trong quá trình chuyển đổi số quốc gia, triển khai các dịch vụ thiết yếu cho người dân. Thủ tướng nhấn mạnh, mục đích cuối cùng trong xây dựng Chính phủ số, xã hội số, công dân số, phát triển kinh tế số là phục vụ nhân dân.
+
+Thời gian qua, Chính phủ chỉ đạo triển khai Đề án 06 và xây dựng cơ sở dữ liệu quốc gia về dân cư, triển khai tích cực, mang lại hiệu quả cho người dân. Trong đó, giao 2 địa phương là Hà Nội và Thừa Thiên Huế thực hiện thí điểm 2 tiện ích về sổ sức khỏe điện tử và cấp phiếu lý lịch tư pháp qua VNeID. Đây là 2 dịch vụ liên quan nhiều, liên quan trực tiếp tới người dân.
+
+Đến nay, kết quả triển khai sổ sức khỏe điện tử đã tạo lập 32.062.931 đơn vị dữ liệu, trong đó có 14.638.905 công dân đã tích hợp Sổ sức khỏe điện tử trên VNeID với 12.518/12.693 cơ sở khám, chữa bệnh bảo hiểm y tế (đạt tỉ lệ 98,6%); dữ liệu đồng bộ liên thông qua bảo hiểm xã hội để tích hợp vào VNeID.
+
+Ngoài ra, đã tạo lập được 911.696 dữ liệu về giấy chuyển tuyến, 2.629.117 dữ liệu về giấy hẹn khám lại, Bộ Công an đã phối hợp với Bảo hiểm xã hội Việt Nam, Bộ Y tế tích hợp trên VNeID để sẵn sàng công bố trên toàn quốc để người dân sử dụng.
+
+Bộ Công an đã đồng hành cùng với các doanh nghiệp, ngân hàng HDBank triển khai hệ thống kiosk y tế miễn phí (tích hợp sổ sức khỏe điện tử) với số lượng tối thiểu 1001 kiosk y tế, đến nay đã có 44/63 tỉnh thành phố đăng kỷ triển khai với 217 kiosk y tế.
+
+Đặc biệt, UBND TP. Hà Nội đã tạo lập được sổ sức khỏe cho 7,5 triệu người dân (với 21 trường thông tin), 2,5 triệu sổ sức khỏe điện tử cho người dân với 48 trường thông tin.
+
+Bộ Y tế đã ban hành Quyết định 1332/QĐ-BYT về việc ban hành Sổ sức khỏe điện tử phục vụ tích hợp trên VNeID và Quyết định số 2733/QĐ-BYT ngày 17/9/2024 hướng dẫn thí điểm thực hiện Sổ sức khỏe điện tử tích hợp trên VNeID. Trên cơ sở đó, Bộ Y tế tập huấn cho các cơ sở khám chữa bệnh 100% tiếp nhận và sử dụng khi xuất trình trực tiếp trên VNeID, đồng thời các cơ sở khám chữa bệnh thực hiện liên thông 16 trường thông tin khám chữa bệnh theo hướng dẫn của Bảo hiểm xã hội để tự động điền vào các biểu mẫu, tiết kiệm thời gian, công sức cho các bác sĩ.
+
+Những kết quả trên giúp tiết kiệm khoảng 1.150 tỷ đồng/năm tiền mua sổ y bạ cho 230 triệu lượt người khám bệnh; tạo thuận lợi cho người dân trong việc chủ động theo dõi hồ sơ sức khoẻ của bản thân và có thể cung cấp hồ sơ bệnh án của bản thân cho đội ngũ y bác sĩ ở bất cứ đâu, bất cứ khi nào.
+
+Khi dữ liệu được liên thông giữa các bệnh viện (dữ liệu xét nghiệm, chuẩn đoán...) sẽ tiết kiệm thời gian, chi phí (giảm thiểu thời gian tiếp đón bệnh nhân, không phải nhập lại các dữ liệu thông tin đã có sẵn trên hệ thống) cũng như giúp phục vụ chuẩn đoán chính xác và hiệu quả trong công tác khám, chữa bệnh, tránh lãng phí. Cơ quan quản lý nhà nước có thể phân tích dữ liệu sức khỏe người dân để thống kê, tổng hợp, dự báo, đưa ra các chính sách quản lý nhà nước.
+
+Về triển khai Cấp phiếu lý lịch tư pháp, sau hơn 04 tháng triển khai thí điểm tại Hà Nội và Thừa Thiên Huế đã bước đầu đạt được những kết quả đáng ghi nhận, đem lại thuận tiện và nhận được sự ủng hộ nhiệt tình của người dân.
+
+Cụ thể, Hà Nội tiếp nhận hơn 45.000, Thừa Thiên Huế tiếp nhận hơn 5.000 hồ sơ cấp phiếu lý lịch tư pháp trên VNeID, chiếm hơn 70% tổng số hồ sơ yêu cầu cấp phiếu lý lịch tư pháp của 02 tỉnh ước tính mỗi hồ sơ tiết kiệm khoảng 10.000 đồng tiền xăng xe, đi lại và công sức chờ đợi; 150.000 đồng tiền công trung bình nửa ngày công của người dân, với nhu cầu cấp phiếu lý lịch tư pháp ở Hà Nội.
+
+Với nhu cầu Cấp phiếu lý lịch tư pháp hàng năm là khoảng 2,6 triệu yêu cầu cả nước, khi người dân thực hiện đăng ký giúp tiết kiệm khoảng 400 tỷ đồng mỗi năm cho người dân và xã hội.
+
+Đến nay, về mặt hạ tầng, dữ liệu của các bộ, ngành địa phương đã chủ động rà soát để triển khai Cấp phiếu lý lịch tư pháp trên VNeID theo Chỉ thị 23/CT-TTg ngày 09/7/2023 của Thủ tướng Chính phủ.

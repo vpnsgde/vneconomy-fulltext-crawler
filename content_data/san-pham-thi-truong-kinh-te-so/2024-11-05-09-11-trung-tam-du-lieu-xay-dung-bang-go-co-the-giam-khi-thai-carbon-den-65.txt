@@ -1,0 +1,15 @@
+Thay vì sử dụng thép và bê tông thông thường, công ty đã quyết định kết hợp CLT vào vật liệu xây dựng cho trung tâm dữ liệu mới nhất để giúp giảm phát thải khí nhà kính.
+
+Microsoft ước tính việc sử dụng gỗ khi xây dựng một trung tâm dữ liệu sẽ giảm 35% lượng khí thải carbon so với kết cấu thép. Lượng khí thải nhà kính giảm hơn 65% khi CLT được thay thế cho bê tông đúc sẵn.
+
+Tuy nhiên, công ty sẽ không xây dựng các trung tâm dữ liệu ở Bắc Virginia hoàn toàn bằng gỗ. Thay vào đó, họ sẽ thay thế bê tông được sử dụng trên sàn và trần nhà bằng CLT và sau đó áp dụng một lớp bê tông mỏng hơn để làm cho gỗ bền hơn. CLT đắt hơn thép và bê tông. Nhưng vì CLT có trọng lượng nhẹ hơn, nếu được sử dụng cho các bộ phận chính của tòa nhà không chỉ giúp trung tâm cần ít thép hơn mà còn tiết kiệm nhân công hơn.
+
+Các yêu cầu về năng lượng và cơ sở hạ tầng khổng lồ từ sự bùng nổ AI ngày càng đặt ra các trách nhiệm về khí hậu đối với các công ty. Ý tưởng của Microsoft – sử dụng gỗ để thay thế các vật liệu thông thường đang được đánh giá cao.
+
+Theo Báo cáo Bền vững Môi trường, lượng khí thải của Microsoft đã tăng 29,1% so với năm 2020, công ty cho biết xây dựng là hoạt động gây ảnh hưởng nhiều nhất đến môi trường. Microsoft không phải công ty đáng báo động duy nhất liên quan đến trách nhiệm bền vững, Google cũng đã không đạt được các mục tiêu khí hậu, lượng khí thải nhà kính của gã khổng lồ năm qua đã tăng 48% so với năm 2019.
+
+Các công ty AI bên cạnh thử nghiệm các kỹ thuật xây dựng mới, cũng đang đầu tư vào năng lượng hạt nhân. Microsoft đã ký thỏa thuận khởi động lại lò phản ứng Three Mile Island, trong khi Google và Oracle đang đầu tư vào các lò phản ứng hạt nhân mô-đun.
+
+Năm 2030, dự kiến các mô hình AI trong tương lai sẽ tiêu thụ tới 5 gigawatt trong quá trình đào tạo, đến lúc đó năng lượng hạt nhân sẽ được sử dụng chủ yếu nhằm giảm áp lực tới môi trường.
+
+Nếu không có các nguồn thay thế sạch hơn, các mô hình AI có thể làm quá tải lưới điện hiện tại, vì vậy các công ty hàng đầu đều đang cạnh tranh để có nguồn điện sạch và gần các trung tâm dữ liệu của họ. Song các chuyên gia cũng cho rằng năng lượng hạt nhân chưa hẳn là một nguồn năng lượng sạch bền vững.

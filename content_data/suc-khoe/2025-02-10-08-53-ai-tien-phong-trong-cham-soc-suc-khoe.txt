@@ -1,0 +1,27 @@
+Theo báo cáo từ Viện Sức khỏe toàn cầu (GWI), năm 2023 ngành công nghiệp chăm sóc sức khỏe toàn cầu có giá trị 6,32 nghìn tỷ USD. Con số này tăng 25% so với năm 2019, lớn hơn ngành công nghiệp thể thao và dược phẩm. Bà Katherine Johnson, một trong những tác giả của Global Wellness Economy Monitor, cho biết các xu hướng như dân số già hóa, bệnh mãn tính và sự đầu tư ngày càng mạnh mẽ vào công nghệ chính là động lực đẩy mạnh tăng trưởng.
+
+Trong khi đó, McKinsey & Co. dựa vào số liệu chi tiêu của người tiêu dùng trên sáu danh mục (như giấc ngủ và dinh dưỡng), ước tính quy mô nền kinh tế chăm sóc sức khỏe toàn cầu ở mức khiêm tốn hơn là 1,8 nghìn tỷ USD vào tháng 1/2024. Trong đó, trí tuệ nhân tạo trong y tế là một trong những lĩnh vực phát triển nhanh nhất trên toàn cầu, với tiềm năng ứng dụng giúp cải thiện quy trình chăm sóc sức khỏe, chẩn đoán và điều trị bệnh.
+
+HỨA HẸN NHIỀU TIẾN BỘ ĐÁNG KỂ
+
+Tại Triển lãm Điện tử tiêu dùng (CES) 2025 vừa qua, một khái niệm mới mang tên “Age Tech” đã trở thành tâm điểm chú ý. “Age Tech” là thuật ngữ chỉ các sản phẩm và dịch vụ công nghệ được thiết kế nhằm giải quyết các thách thức mà người cao tuổi phải đối mặt, từ sức khỏe, an ninh cho đến sự kết nối xã hội.
+
+Một trong những sản phẩm của Starling Medical được chú ý là thiết bị gắn trong bồn cầu, có thể tự động kiểm tra nhiễm trùng đường tiết niệu qua nước tiểu. Tương tự, chiếc gương thông minh Omnia của Công ty Withings (Mỹ) được The Verge đánh giá là “công nghệ sức khỏe tương lai”.
+
+Thiết bị trang bị camera và một loạt cảm biến, có thể đo lường và hiển thị số liệu sức khỏe và phân tích khả năng trao đổi chất bằng AI. Sau đó phản hồi thông qua trợ lý ảo để khuyến cáo người dùng nên thay đổi thói quen hoặc thậm chí thiết lập cuộc tư vấn sức khỏe từ xa với bác sĩ. Omnia cũng thu thập dữ liệu từ các thiết bị có chức năng theo dõi sức khỏe khác như smartwatch, máy đo huyết áp... rồi tư vấn theo thời gian thực, hoặc “trò chuyện” với gia chủ.
+
+Triển lãm CES năm nay cũng mang đến nhiều phát minh thú vị, như một chiếc tai nghe Bebird không phải để nghe nhạc mà thực chất là máy làm sạch đôi tai. Thiết bị này sử dụng các camera và cảm biến nhỏ để hiển thị dữ liệu bên trong ống tai của người dùng thông qua ứng dụng điện thoại thông minh. Trong khi đó, Abbott được vinh danh tại Giải thưởng Sáng tạo CES 2025 cho Lingo, thiết bị đeo sinh học giúp người dùng theo dõi chỉ số đường huyết và cung cấp thông tin tình trạng sức khỏe một cách chi tiết và cá nhân hóa.
+
+Mới đây, một nhóm các nhà nghiên cứu Trung Quốc đã thúc đẩy quá trình lão hóa lành mạnh bằng cách sử dụng hình ảnh nhiệt trên khuôn mặt dự đoán tình trạng sức khỏe và tuổi sinh học của một người. Jing-Dong Jackie Han, tác giả liên lạc của bài báo tại Đại học Bắc Kinh (Trung Quốc), đã phân tích nhiệt độ khuôn mặt của hơn 2.800 người tham gia trong độ tuổi từ 21 đến 88. Sau đó, nhóm nghiên cứu sử dụng thông tin để đào tạo các mô hình AI cho phép xác định được một số vùng chính trên khuôn mặt, nơi nhiệt độ có liên quan đáng kể đến sức khỏe, bao gồm mũi, mắt và má. TS. Han cho biết: “Công nghệ này có tiềm năng đáng kể trong việc chẩn đoán và can thiệp bệnh sớm”.
+
+Đồng thời, một số công ty công nghệ y tế đang tăng cường sử dụng AI để tìm thuốc phù hợp cho bệnh nhân. Công ty Genetika  (Israel) mới đây tuyên bố công nghệ của họ có thể kê thuốc chống trầm cảm phù hợp nhất cho người bệnh, tránh phản ứng phụ không mong muốn và đảm bảo rằng thuốc được kê đạt hiệu quả nhất có thể.
+
+Nhà thần kinh học Cohen Solal, là người đồng sáng lập và CEO của Công ty công nghệ y tế Genetika , cho biết, mặc dù công nghệ này vẫn ở giai đoạn đầu phát triển nhưng Genetika  dự định cho ra mắt theo hình thức thương mại từ năm 2025. Hội đồng nghiên cứu châu Âu và Hội đồng Đổi mới châu Âu đã bảo đảm cấp vốn cho Genetika .
+
+Theo số liệu tổng hợp từ Deloitte, Harvard, thị trường AI trong lĩnh vực chăm sóc sức khỏe sẽ tăng trưởng từ mức 19,7 tỷ USD năm 2024 lên 490,96 tỷ USD vào năm 2032. Tại các nền y tế phát triển, AI được sử dụng để tối ưu hóa quy trình chăm sóc sức khỏe và quản lý bệnh nhân. Đồng thời, AI hỗ trợ bác sĩ trong việc đưa ra quyết định điều trị dựa trên dữ liệu. AI còn hỗ trợ các bệnh viện tối ưu hóa quy trình quản lý, giảm thiểu lãng phí và nâng cao hiệu quả.
+
+Tại hội thảo “Công nghệ trí tuệ nhân tạo - Bước đột phá trong ngành y tế” diễn ra trong khuôn khổ Triển lãm Medicare Expo 2024, đại diện Hội Thiết bị y tế TP.HCM cho biết, tại Việt Nam, AI bước đầu được áp dụng để hỗ trợ chẩn đoán bệnh, phân tích hình ảnh y khoa, tư vấn điều trị dựa trên dữ liệu lịch sử bệnh án. Theo số liệu của Công ty nghiên cứu thị trường Insight10, thị trường AI trong chăm sóc sức khỏe của Việt Nam dự kiến sẽ tăng trưởng từ 0,03 tỷ USD năm 2022 lên mức 0,69 tỷ USD vào năm 2030...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 6-2025 phát hành ngày 10/2/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1247

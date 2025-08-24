@@ -1,0 +1,19 @@
+Mạng lưới phát triển toàn cầu của Liên Hợp Quốc UNDP hoạt động tại hơn 170 quốc gia và vùng lãnh thổ và dựa vào sự đóng góp từ các quốc gia thành viên Liên Hợp Quốc và các tổ chức khu vực tư nhân/đa phương để giúp xóa đói giảm nghèo và chống lại sự bất bình đẳng và loại trừ.
+
+Trước đó, ngày 27/3, UNDP đã nhận được thông báo tình báo đe dọa rằng một tác nhân tống tiền dữ liệu đã đánh cắp dữ liệu bao gồm một số thông tin nhân sự và mua sắm nhất định. Các hành động ngay lập tức được thực hiện để xác định nguồn tiềm năng và chứa máy chủ bị ảnh hưởng cũng như xác định chi tiết cụ thể của dữ liệu bị lộ và ai bị ảnh hưởng…
+
+Trong khi cơ quan Liên Hợp Quốc vẫn chưa liên kết cuộc tấn công với một nhóm đe dọa cụ thể, băng đảng ransomware 8Base đã thêm một mục nhập UNDP mới vào trang web rò rỉ dữ liệu web đen của mình vào ngày 27/3.
+
+Những kẻ tấn công nói rằng các tài liệu mà các nhà khai thác của họ quản lý để lọc ra trong quá trình vi phạm có chứa một lượng lớn thông tin nhạy cảm. Các tệp mà họ tạm thời rò rỉ thông qua một liên kết hiện đã hết hạn được cho là bao gồm "một lượng lớn thông tin bí mật", dữ liệu cá nhân, dữ liệu kế toán, chứng chỉ, hợp đồng lao động, thỏa thuận bảo mật, hóa đơn, biên lai,...
+
+Được biết, 8Base xuất hiện vào tháng 3/2022 và tháng 5/2023 băng đảng đã ra mắt trang web rò rỉ dữ liệu cùng với tuyên bố rằng những người thử nghiệm bút "trung thực và đơn giản" nhắm mục tiêu "các công ty đã bỏ qua quyền riêng tư và tầm quan trọng của dữ liệu của nhân viên và khách hàng của họ".
+
+Cho đến nay, nhóm ransomware này đã liệt kê hơn 350 nạn nhân trên trang web của mình, công bố tối đa sáu nạn nhân cùng một lúc trong một số ngày.
+
+Trước thông tin trên, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) khuyến cáo người dân cần có những biện pháp bảo vệ thông tin cá nhân của bản thân trên không gian mạng.
+
+Đồng thời, khi đọc chính sách quyền riêng tư của ứng dụng, điều quan trọng, nên kiểm tra xem ứng dụng có tôn trọng quyền của người dùng hay không và liệu ứng dụng chỉ thu thập dữ liệu mà họ được cấp quyền hay không. Ngoài ra, người dùng cũng có thể liên hệ với bộ phận dịch vụ khách hàng và yêu cầu họ xóa thông tin cá nhân.
+
+"Bên cạnh đó, người dùng nên hạn chế cấp quyền truy cập dữ liệu của ứng dụng; cân nhắc việc giới hạn quyền truy cập vào nguồn dữ liệu cá nhân như hình ảnh, danh bạ, vị trí, bộ phận thu âm thanh đối với những ứng dụng có thể hoạt động mà không cần đến nguồn thông tin này.
+
+Sử dụng các giải pháp bảo mật để chặn các ứng dụng truy cập thông tin cá nhân, cảnh báo người dùng nếu số điện thoại và dữ liệu của họ bị rò rỉ cũng như cảnh báo họ nếu tệp độc hại đã được tải xuống trên các thiết bị", Cục An toàn thông tin khuyến cáo.

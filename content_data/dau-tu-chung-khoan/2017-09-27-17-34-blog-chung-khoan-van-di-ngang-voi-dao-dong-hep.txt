@@ -1,0 +1,31 @@
+Tình trạng trồi sụt hàng ngày vẫn chưa đủ thay đổi xu thế hiện tại.
+
+Thị trường ngày 27/9/2017:
+
+Tình hình lại thay đổi hơi chán nản, nhưng đó cũng là đặc điểm của quá trình tình lũy. Dao động thất thường và thanh khoản trồi sụt. Thị trường có thể nay tốt, mai xấu, nhưng điều quan trọng là mức độ thay đổi có làm thay đổi xu thế hay không.
+
+Hôm nay vẫn là SAB, ROS và thêm MSN, MWG, STB điều chỉnh làm thị trường yếu đi. Vn30 gục xuống lúc đóng cửa khá mạnh. Dao động của các chỉ số trái ngược so với hôm qua, theo hướng giảm về cuối phiên.
+
+Thực ra nếu không có đợt đóng cửa thì tình hình vẫn khá ổn định, cả VNI lẫn VN30 duy trì được mức đao động hẹp lại đáng kể và thanh khoản xuống thấp. Đó là dấu hiệu tốt trong quá trình test cung. Riêng đợt đóng cửa khiến tương quan giá xấu đi một chút, nhưng các chỉ số vẫn trong vùng dao động bình thường.
+
+Hệ số tăng/giảm cũng kém đi hôm nay và dao động cũng không bằng. Cụ thể, mức độ ép khỏi giá High bình quân của VN30 là 1,07%, hôm qua 1%, mức độ nâng khỏi giá Low hôm nay 0,75%, hôm qua 1,23%. Như vậy, biến động intraday có phần kém hơn, dù vẫn trong mức độ bình thường.
+
+Đối với VN30, rủi ro nới rộng mức dao động theo hướng giảm phụ thuộc vào khả năng xấu đi của một số mã như ROS, SAB, STB, MSN. Hôm nay đã có sự cộng hưởng mạnh của các mã này. Chừng nào nhóm chi phối chỉ số chưa ổn định rõ ràng thì khả năng thay đổi xu thế tích lũy vẫn chưa thay đổi. Vì vậy nên kiên nhẫn chờ đợi.
+
+Dòng tiền giảm nhẹ 10% so với hôm qua còn 2.969 tỷ vốn nội. Dòng vốn đang trồi sụt không rõ ràng, hôm lên hôm xuống. Giai đoạn test cung vẫn chưa có kết quả rõ ràng nhưng nếu vẫn duy trì được vùng dao động hiện tại thì cũng không phải là xấu. Vùng hiện tại đang thể hiện khá rõ một điều rằng lực cầu yếu đi khi giá lên và lực bán không đủ để ép giá giảm rộng hơn.
+
+Trong bối cảnh thị trường đang ở một đỉnh cao, khả năng đạt đỉnh và quay đầu giảm là hoàn toàn có thể xảy ra. Tuy nhiên vùng phân phối đỉnh thường xen kẽ các phiên dao động lớn hơn và thanh khoản cao hơn chứ không bình lặng như lúc này. Bất kỳ kịch bản nào đối với thị trường cũng cần các dấu hiệu xác nhận kịch bản. Chừng nào chưa được xác nhận, giả định về giai đoạn tích lũy đi ngang vẫn có hiệu lực.
+
+Giao dịch của hợp đồng tháng 10 hôm nay phản ánh rất rõ tình trạng giằng co của các quan điểm trong giai đoạn hiện tại. Rất nhiều lệnh lớn 20-30 hợp đồng được di chuyển một lần ở trong vùng dao động rất hẹp 787.2-787.5. Lúc đóng cửa bên Short khá mạnh nhưng vẫn không đè qua tham chiếu được. Khối lượng hôm nay giảm tới 30% nhưng OI tăng nhẹ 1,6%. Như vậy hoạt động mở và nắm giữ vị thế đang tăng lên, hoạt động daytrade giảm đi.
+
+Bởi vì VN30 đang chịu tác động quá nhiều của một nhóm cổ phiếu mà vài mã trong số đó cực kỳ khó đoán diễn biến, nên mức rủi ro trong giao dịch ngắn hạn là cao. Chẳng hạn bên Short lúc đóng cửa hôm nay có thể chịu ảnh hưởng từ diễn biến đè giá ở MWG, VNM - những trụ có giá đóng cửa dự kiến biến động lớn sẽ được quan sát chặt chẽ. Kết quả Short là phù hợp vì VN30 dóng cửa rơi khá mạnh.
+
+Tuy nhiên việc Long qua đêm phụ thuộc vào diễn biến ngày mai. Nếu SAB, ROS, MSN, STB dừng giảm, xác suất tăng của VN30 sẽ cao và như vậy vị thế lại phụ thuộc vào diễn biến khó dự đoán và trở nên rủi ro.
+
+Giao dịch:
+
+Mức dao động của chỉ số VN30 lặp lại tình trạng mấy hôm nay, rất hẹp và không rõ ràng nên hợp đồng tháng 10 cũng dao động nhỏ. Day-trading trong bối cảnh này là rủi ro cao. Giao dịch khả dĩ hơn là nắm giữ vị thế và chấp nhận rủi ro qua đêm.
+
+Tuy nhiên VN30 hiện tại vẫn đang trong giai đoạn tích lũy đi ngang, chưa biết sẽ phá vỡ xu thế này theo hướng nào. Vì vậy tốt hơn là chờ đợi tình hình rõ ràng hơn.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

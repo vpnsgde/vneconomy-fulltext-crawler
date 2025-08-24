@@ -1,0 +1,39 @@
+Quỹ đầu cơ tiền ảo nổi tiếng Three Arrows Capital (3AC) vừa vỡ nợ với một khoản vay trị giá hơn 670 triệu USD.
+
+Theo thông báo của công ty môi giới tài sản kỹ thuật số Voyager Digital ngày 27/6, 3AC đã không trả được một khoảng vay trị giá 350 triệu USD bằng đồng stablecoin USDC và 15.250 Bitcoin - trị giá khoảng 323 triệu USD theo giá hiện tại.
+
+Theo CNBC, việc 3AC mất khả năng thanh toán diễn ra sau nhiều tuần thị trường tiền ảo biến động mạnh khiến hàng trăm tỷ USD vốn hóa bị “thổi bay”. Cả đồng Bitcoin và Ether đều giảm giá so với 24h trước và thấp hơn nhiều so với mức kỷ lục mọi thời đại từng thiết lập được.
+
+Trong khi đó, tổng vốn hóa của thị trường tiền ảo hiện là 950 tỷ USD, giảm đáng kể so với mức cao nhất khoảng 3.000 tỷ USD vào tháng 11/2021.
+
+Voyager cho biết kỳ vọng sự phục hồi từ 3AC, nhấn mạnh rằng nền tảng của mình vẫn tiếp tục hoạt động và thực hiện các lệnh giao dịch và rút tiền của khách hàng. Đây được cho là động thái nhằm kiềm chế nỗi sợ hãi của các nhà đầu tư lây lan trong hệ sinh thái tiền điện tử.
+
+“Chúng tôi đang làm việc chăm chỉ và khẩn trương để củng cố bảng cân đối kế toán và theo đuổi các lựa chọn để có thể tiếp tục đáp ứng nhu cầu thanh khoản của khách hàng”, Stephen Ehrlich, CEO của Voyager, cho biết.
+
+Voyager cho biết tính tới ngày 24/6, công ty này nắm giữ tổng cộng khoảng 137 triệu USD dưới dạng tài sản số và đồng USD và có khả năng tiếp cận 200 triệu USD bằng tiền mặt và đồng USDC, cũng như 15.000 Bitcoin từ quỹ Alameda Ventures.
+
+Tuần trước, Alameda đã cam kết đầu tư 500 triệu USD cho Voyager Digital và Voyager đến nay đã nhận được 75 triệu USD trong số này.
+
+“Việc 3AC vỡ nợ không gây đổ vỡ thỏa thuận với Alameda”, thông cáo của Alameda cho biết.
+
+3AC được thành lập vào năm 2012 bởi Zhu Su và Kyle Davies. Su được biết đến là người có quan điểm ủng hộ Bitcoin mạnh mẽ. Năm 2021, ông dự báo đồng tiền ảo lớn nhất thế giới này có thể tăng giá lên 2,5 triệu USD/đồng. Tuy nhiên, vào tháng 5 năm nay, khi thị trường tiền ảo bắt đầu lao dốc, ông đã chia sẻ trên Twitter rằng “luận điểm về siêu chu kỳ tăng giá của ông đã sai một cách đáng tiếc”.
+
+Sự khởi đầu của cái gọi là "mùa đông tiền điện tử" mới đã gây tổn hại tới hầu hết dự án và công ty tiền ảo trên thị trường.
+
+Các vấn đề của 3AC bắt đầu xuất hiện vào đầu tháng này sau khi ông Zhu chia sẻ lên Twitter một thông điệp khó hiểu rằng công ty đang “trong quá trình trao đổi với các bên liên quan” và “hoàn toàn cam kết giải quyết vấn đề này”. Sau đó không có thông tin nào làm rõ đây là những vấn đề cụ thể gì.
+
+Sau dòng tweet trên của ông Zhu, tờ Financial Times dẫn nguồn tin cho biết hai hãng cho vay tiền số tại Mỹ gồm BlockFi và Genesis đã tiến hành thanh lý một số tài sản của 3AC. Công ty này đã vay từ BlockFi nhưng không thể đáp ứng cuộc gọi yêu cầu ký quỹ.
+
+Tiếp sau đó, đồng stablecoin thuật toán terraUSD và đồng tiền “chị em” Luna sụp đổ, khiến 3AC chịu lỗ nặng.
+
+Hiện tại, 3AC đang đối mặt cuộc khủng hoảng tín dụng ngày càng trầm trọng hơn do áp lực liên tục đối với thị trường tiền điện tử. Giá đồng Bitcoin dao động quanh mức 21.000 USD trong ngày 27/6 và đã giảm khoảng 53% từ đầu năm nay.
+
+Trong khi đó, Cục Dự trữ Liên bang Mỹ (Fed) đã phát tín hiệu sẽ tiếp tục tăng lãi suất nhằm kiềm chế lạm phát, khiến các nhà đầu tư ồ ạt rút tiền khỏi các tài sản rủi ro cao.
+
+3AC, một trong những quỹ đầu cơ tiền ảo lớn nhất thế giới, đã vay một lượng tiền lớn từ nhiều công ty và đầu tư vào nhiều dự án tài sản số khác nhau. Điều này làm dấy lên lo ngại về sự lây lan rộng trên toàn thị trường.
+
+“Vấn đề là giá trị tài sản của 3AC cũng đã sụt giảm mạnh theo thị trường. Nhìn chung, đây là những dấu hiệu không tốt”, Vijay Ayyar, phó chủ tịch phát triển doanh nghiệp và quốc tế tại sàn giao dịch tiền điện tử Luno, nói với CNBC. “Điều cần theo dõi là liệu có bất kỳ công ty lớn nào khác có liên quan tới họ hay không. Điều này sẽ quyết định tình trạng này có lây lan ra hay không”.
+
+Hiện tại, một số công ty tiền điện tử đang phải đối mặt với khủng hoảng thanh khoản do thị trường lao dốc. Hồi đầu tháng, hãng cho vay Celsius - công ty từng hứa hẹn mức lợi nhuận siêu cao cho người gửi tiền ảo - đã tạm dừng cho khách hàng rút tiền với lý do “điều kiện thị trường khắc nghiệt”.
+
+Babel Finance, một hãng cho vay tiền ảo khác, mới đây cũng nói rằng công ty đang "đối mặt với áp lực thanh khoản bất thường" và tạm dừng việc rút tiền.

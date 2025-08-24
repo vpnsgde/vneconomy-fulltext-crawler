@@ -1,0 +1,33 @@
+Theo số liệu của Bộ Y tế, từ đầu năm đến nay, số ca mắc sởi trên cả nước gia tăng nhanh chóng. Bên cạnh đó, dịch cúm mùa cũng diễn biến phức tạp, số bệnh nhân mắc sốt xuất huyết cũng tăng vượt mức so với cùng kỳ năm ngoái, báo hiệu nguy cơ dịch bệnh có thể bùng phát sớm trong thời gian tới. Cùng với đó, tại các bệnh viện cũng ghi nhận một số trường hợp bệnh nhân mắc Covid-19, viêm não mô cầu, thủy đậu, ho gà...
+
+TS.BS Vũ Quốc Đạt, Giảng viên bộ môn Truyền nhiễm, Trường Đại học Y Hà Nội, thành viên Mạng lưới đánh giá và ứng phó về lâm sàng các bệnh mới nổi của WHO, nhận định trong năm nay, ngoài sởi, cúm, sốt xuất huyết, các dịch bệnh truyền nhiễm khác như thủy đậu, quai bị, rubella... vẫn có nguy cơ bùng phát, các dịch bệnh tái nổi và mới nổi như sốt rét, đậu mùa khỉ, các chủng cúm mới… cũng có nguy cơ rất cao xâm nhập vào nước ta và bùng phát do giao thương, du lịch ngày càng mở rộng.
+
+Lý giải về hiện tượng một số dịch bệnh truyền nhiễm không còn theo quy luật chu kỳ hoặc theo mùa mà xảy ra quanh năm và có sự gia tăng rõ rệt về tỉ lệ mắc trong cộng đồng, TS. Vũ Quốc Đạt cho rằng nguyên nhân là do tác động của biến đổi khí hậu cũng như di biến động về dân cư giữa các vùng miền, các quốc gia tạo điều kiện cho mầm bệnh tồn tại và phát triển và lây lan một cách dễ dàng hơn.
+
+Ngày 29/5 vừa qua, Bệnh viện Bệnh nhiệt đới (TP.HCM) và Đơn vị nghiên cứu lâm sàng Đại học Oxford (OUCRU) đã tổ chức hội nghị khoa học Ứng dụng trí tuệ nhân tạo (AI) và dữ liệu lớn trong thực hành lâm sàng bệnh truyền nhiễm.
+
+Với bài báo cáo "Đổi mới sáng tạo y học và thách thức bất tận của bệnh nhiễm trùng", Phó giám đốc Sở Y tế TP HCM Nguyễn Văn Vĩnh Châu nhấn mạnh bệnh truyền nhiễm vẫn luôn là thách thức bất tận đe dọa sức khỏe nhân loại, bởi tác nhân gây bệnh luôn tiến hóa, trỗi dậy hoặc tái trỗi dậy.
+
+Thế giới từng ghi nhận nhiều trận đại dịch khủng khiếp cướp đi sinh mạng của hàng triệu người, giờ đây điều lo ngại là số lượng phát sinh ra kháng sinh mới - vũ khí chống bệnh nhiễm trùng đang giảm dần, trong khi vi khuẩn kháng thuốc liên tục xuất hiện. Ông Châu cho rằng trong bối cảnh đó, những tiến bộ về đổi mới sáng tạo của y học hiện đại đã giúp trang bị thêm vũ khí cho trận chiến không có hồi kết giữa vi sinh vật với con người.
+
+Công nghệ trí tuệ nhân tạo có nhiều triển vọng trong phòng ngừa và kiểm soát các bệnh truyền nhiễm, hỗ trợ ở tất cả các giai đoạn trước, trong và sau đại dịch, cũng như các dịch bệnh định kỳ. AI còn thể hiện tiềm năng trong việc phát triển các liệu pháp điều trị nhắm trúng đích cho các bệnh truyền nhiễm. Máy học (deep learning) cho phép phát hiện sớm dịch, đánh giá nguy cơ, xây dựng chính sách và phát triển vaccine.
+
+Trong khi đó, BS.CKII Nguyễn Lê Duy Tùng, Phó giám đốc Bệnh viện Bệnh nhiệt đới, cho hay từ năm 2018 đến nay, bệnh viện đã thực hiện 22 dự án nghiên cứu ứng dụng AI và dữ liệu lớn, trong đó có các nghiên cứu dự báo dịch cúm, sốt xuất huyết, nhận diện chữ viết tay trong hồ sơ bệnh án bằng học máy, theo dõi sinh hiệu từ xa qua thiết bị đeo...
+
+Theo bác sĩ Tùng, AI và dữ liệu lớn giúp bệnh viện nâng cao khả năng dự đoán và cảnh báo sớm dịch bệnh truyền nhiễm. Ví dụ điển hình là hệ thống giám sát dịch tại TP.HCM đã phát hiện sự gia tăng ca mắc sởi vào năm 2024, giúp thành phố kịp thời công bố dịch và triển khai tiêm chủng diện rộng.
+
+“Bên cạnh chuyên môn truyền nhiễm, bệnh viện cũng định hướng phát triển các khoa hỗ trợ như nội tiết, miễn dịch, dị ứng và chăm sóc giảm nhẹ. Đây sẽ là nền tảng để triển khai các mô hình y học cá thể hóa trong tương lai”, bác sĩ Tùng chia sẻ.
+
+Phó giám đốc Bệnh viện Bệnh Nhiệt đới TP HCM nhìn nhận AI là xu thế tất yếu trong phát hiện hiện nay, nhưng cũng đứng trước nhiều thách thức, bởi yêu cầu về hạ tầng công nghệ thông tin mạnh mẽ - điều mà các bệnh viện còn gặp khó khăn. Chi phí đầu tư ban đầu và duy trì hệ thống cũng rất cao. Về mặt dữ liệu, nơi này đối mặt với những trở ngại khi tích hợp từ nhiều nguồn, chất lượng không đồng đều, vấn đề bảo mật và quyền riêng tư của dữ liệu bệnh nhân.
+
+Thiếu đội ngũ chuyên gia có kiến thức và kỹ năng về AI và Big Data trong lĩnh vực y tế là thực trạng rất phổ biến hiện nay. Chưa kể, dữ liệu chuyên biệt và khan hiếm, yêu cầu về độ chính xác và cập nhật liên tục, đòi hỏi kiến thức chuyên môn sâu và phức tạp. Bên cạnh đó khung pháp lý liên quan vấn đề này, quyền sở hữu và chia sẻ dữ liệu vẫn còn chưa rõ ràng.
+
+Để khắc phục những khó khăn, bệnh viện đang lựa chọn các nền tảng AI có khả năng tương thích cao, dễ tích hợp, tận dụng giải pháp điện toán đám mây linh hoạt. Nơi này cũng đào tạo nội bộ, kết hợp các trường, trung tâm đào tạo về AI và Big Data trong y tế, nỗ lực thu hút chuyên gia bằng chính sách đãi ngộ. Đầu tư vào nhân lực liên ngành, phát triển đội ngũ vừa có kiến thức y tế chuyên sâu về truyền nhiễm, vừa có năng lực về khoa học dữ liệu và AI...
+
+Đại diện bệnh viện kiến nghị Bộ Y tế cần sớm ban hành các hướng dẫn và quy định pháp lý liên quan đến sử dụng AI trong y tế, triển khai các quy trình đánh giá tính công bằng, minh bạch của các thuật toán AI, xây dựng chính sách rõ ràng về quyền sở hữu và chia sẻ dữ liệu, đảm bảo tuân thủ pháp luật.
+
+
+
+TS.BS Hồ Quang Chánh, Đơn vị Nghiên cứu lâm sàng Đại học Oxford (OUCRU), cho biết nhóm nghiên cứu đang tập trung phát triển thiết bị hỗ trợ chẩn đoán và theo dõi sốt xuất huyết nhằm phát hiện sớm tình trạng bệnh, can thiệp kịp thời, giảm thiểu nguy cơ tử vong.
+
+Theo đó, chỉ cần kết nối cảm biến vào cơ thể bệnh nhân như đeo đồng hồ, thiết bị sẽ thu thập các chỉ số như huyết áp, nhịp tim, bão hòa ô-xy... và phân tích bằng phần mềm hỗ trợ ra quyết định. Các thông số này giúp bác sĩ đánh giá nguy cơ và đưa ra phác đồ điều trị sớm. Dự án đặt mục tiêu phát triển công cụ hỗ trợ bác sĩ tại tuyến đầu trong việc phân loại bệnh nhân, nhằm tối ưu nguồn lực điều trị và giảm tải cho bệnh viện.

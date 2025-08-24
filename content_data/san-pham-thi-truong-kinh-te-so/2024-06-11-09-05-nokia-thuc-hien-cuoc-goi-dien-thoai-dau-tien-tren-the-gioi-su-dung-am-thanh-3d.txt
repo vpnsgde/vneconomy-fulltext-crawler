@@ -1,0 +1,15 @@
+Hiện nay, tất cả các cuộc gọi điện thoại di động đều đang sử dụng âm thanh đơn âm – các yếu tố âm thanh bị nén lại, ít chi tiết mang lại cảm giác thiếu chân thực. Vì vậy, thực hiện thành công cuộc gọi âm thanh 3D đầu tiên trên thế giới, Chủ tịch Nokia, Jenni Lukander khẳng định: “Đây là bước tiến lớn nhất trong trải nghiệm gọi điện thoại trực tiếp dù dùng bằng điện thoại hay máy tính ngày nay”.
+
+Theo HT Tech, âm thanh 3D sẽ sử dụng công nghệ âm thanh không gian để bắt chước bản chất âm thanh trong thế giới thực, âm thanh sẽ chia làm nhiều hướng làm cho trải nghiệm nghe hấp dẫn hơn vì mang lại cảm giác hiện diện.
+
+Một số ứng dụng, như Apple Music, Netflix và Disney Plus đều đã cung cấp âm thanh không gian để có trải nghiệm nghe chân thực hơn — nhưng chỉ trên các thiết bị nghe được hỗ trợ. Vì vậy, xuất hiện trên cuộc gọi điện video là một trường hợp sử dụng độc đáo.
+
+Cuộc gọi của Nokia được thực hiện qua mạng di động sử dụng Codec Dịch vụ âm thanh và video nhập vai 3GPP (IVAS), cho phép người gọi nghe “âm thanh của không gian trong thời gian thực”.
+
+Codec IVAS cung cấp trải nghiệm âm thanh 3D sống động, mô phỏng môi trường âm thanh thực tế. Codec IVAS có thể xử lý tín hiệu âm thanh thu được từ nhiều cấu hình micro khác nhau để tạo ra âm thanh 3D. Điều này cho phép người dùng nghe thấy vị trí của loa và các nguồn âm thanh khác trong không gian một cách chính xác hơn.
+
+Bên cạnh đó, Codec IVAS cũng sử dụng các thuật toán tiên tiến để cải thiện chất lượng âm thanh, giảm nhiễu và tiếng ồn, đồng thời làm cho giọng nói trở nên rõ ràng hơn. Ngoài ra, Codec IVAS giúp giảm độ trễ của âm thanh, giúp cho các cuộc trò chuyện trở nên tự nhiên và mượt mà hơn.
+
+Codec IVAS được dự kiến sẽ được triển khai trong các thiết bị di động và mạng 5G trong tương lai, cụ thể là 5G Advanced. Bản nâng cấp này mục đích sẽ mang lại tốc độ nhanh hơn, cải thiện hiệu quả sử dụng năng lượng tốt hơn. Tuy nhiên, theo Reuters, sẽ phải mất vài năm nữa các mạng di động mới bắt đầu cung cấp dịch vụ âm thanh 3D.
+
+Chủ tịch Nokia, Jenni Lukander cho biết: “Điều này hiện đang được tiêu chuẩn hóa… vì vậy các nhà cung cấp mạng, nhà sản xuất chipset, nhà sản xuất thiết bị cầm tay có thể bắt đầu triển khai nó trong các sản phẩm của họ”.

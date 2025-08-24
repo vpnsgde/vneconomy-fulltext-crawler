@@ -1,0 +1,29 @@
+Theo nhiều báo cáo, cơ hội của những kỹ sư phát triển phần mềm tại thị trường lao động Mỹ không còn nóng như vài năm trước.
+
+Daniel Zhao, một nhà kinh tế của Glassdoor, đánh giá: “Thị trường việc làm công nghệ đã chậm lại kể từ cuối năm 2022, hạ nhiệt sau vài năm tuyển dụng nhanh chóng trong thời kỳ phục hồi sau đại dịch… Lãi suất tăng, xu hướng thời đại dịch kết thúc và nền kinh tế nói chung đang chậm lại đã làm giảm nhu cầu đối với nhân viên công nghệ”.
+
+Nhà kinh tế học Daniel Zhao nói thêm: “Nhu cầu tuyển dụng trong lĩnh vực công nghệ đã giảm 2% so với mức đỉnh điểm vào tháng 12/2022, nhưng vẫn cao hơn 21% so với tháng 3/2020”.
+
+Nela Richardson, nhà kinh tế trưởng của ADP, trả lời phỏng vấn Business Insider rằng phát triển phần mềm không phải là "một nghề lỗi thời", nhưng nhu cầu tuyển dụng có lẽ sẽ chậm lại.
+
+“Là một nhân viên công nghệ trẻ trong ngành, bạn có thể không được tuyển dụng ngay khi mới tốt nghiệp đại học hoặc học ngay từ công việc đầu tiên của mình, hoặc có thể bạn phải mài giũa nhiều hơn một chút, để thích ứng với thị trường lao động mới”.
+
+Sự thay đổi việc làm của nhà phát triển phần mềm một phần có thể là do những thay đổi trong chi tiêu của người tiêu dùng trong thời kỳ đại dịch. Richardson nói: “Số lượng tuyển dụng nhà phát triển phần mềm đã chậm lại vào năm 2020, và sau đó chúng tôi đã có một vài sự phục hồi trở lại và tôi nghĩ điều đó phản ánh cách đại dịch thực sự thúc đẩy sự gia tăng cung cấp dịch vụ kỹ thuật số này”, bà Nela Richardson cho biết.
+
+Nick Bunker, Giám đốc nghiên cứu kinh tế khu vực Bắc Mỹ tại của nền tảng tìm kiếm việc làm Indeed cho biết: "Sẽ còn lâu nữa chúng ta mới chứng kiến nhu cầu tuyển dụng các nhà phát triển phần mềm bùng nổ giống như cuối năm 2021, đầu năm 2022”.
+
+Mặc dù thị trường việc làm không còn sôi động như những năm trước, ông Bunker cho biết nhu cầu về những công việc này vẫn rất tốt và luôn là những công việc được trả lương cao. Theo Cục Thống kê Lao động Mỹ, mức lương trung bình hàng năm của các nhà phát triển phần mềm là 132.270 USD.
+
+“Sự hạ nhiệt nhu cầu tuyển dụng các ứng viên phát triển phần mềm có thể là một câu chuyện mang tính chu kỳ hoặc câu chuyện ngắn hạn… Lãi suất vẫn còn rất cao và nhiều nhà tuyển dụng đang thận trọng, nhiều công ty khác thì đã tuyển dụng đủ từ cách đây 3 năm trước”, ông Nick Bunker nói thêm.
+
+"Làn sóng sinh viên mới tốt nghiệp chạy đua vào ngành công nghệ trong thập kỷ qua khi các nhà tuyển dụng đưa ra mức lương hậu hĩnh khiến thị trường có phần dư thừa nhân lực", theo nhà kinh tế học Daniel Zhao.
+
+Ông cũng lưu ý: "Ngay cả đối với các nhà phát triển phần mềm có kinh nghiệm đứng đầu thị trường, vấn đề có thể không phải là khó tìm việc làm mà là khó tìm được công việc được trả lương cao như công việc trước đây của họ. Chịu đựng việc bị cắt giảm lương là một điều khó khăn, ngay cả với những nhà phát triển phần mềm từng có mức thu nhập cực tốt cách đây vài năm".
+
+Theo dữ liệu ghi nhận từ Handshake, một nền tảng tìm việc làm của sinh viên, nhu cầu tìm kiếm cơ hội việc làm về phát triển phần mềm hoặc kỹ sư ngày càng tăng trên nền tảng. Trong khi đó, Randy Tarnowski, Giám đốc cấp cao về nghiên cứu giáo dục tại Handshake, cho biết: “Số lượng đơn tuyển dụng kỹ sư/nhà phát triển phần mềm được tạo ra đã giảm 29% trên Handshake khi so sánh khoảng thời gian từ tháng 6/2023 – tháng 5/ 2024 với thời điểm trước đó”.
+
+Giám đốc cấp cao của nền tảng, Randy Tarnowski nói rằng các lớp đào tạo về kỹ thuật phần mềm "đã nhận được một tỷ lệ lớn đơn đăng ký của sinh viên tốt nghiệp ngành khoa học máy tính năm 2024", nhưng tỷ lệ này có phần giảm so với với lớp 2023.
+
+Ông cho biết thêm: “Thay vì đăng ký học thêm các kỹ năng của vị trí kỹ thuật phần mềm, lớp sinh viên tốt nghiệp khoa học máy tính năm 2024 đang nhận nhiều đơn đăng ký hơn, bao gồm khoa học dữ liệu, phần cứng máy tính, bảo mật thông tin, kỹ thuật hệ thống máy tính cũng như vai trò nhà phân tích tài chính và đầu tư”.
+
+Trong bối cảnh thị trường việc làm cạnh tranh, ông Nick Bunker, Giám đốc nghiên cứu kinh tế khu vực Bắc Mỹ tại của nền tảng tìm kiếm việc làm Indeed, cho rằng các ứng viên nên nhìn về triển vọng dài hạn của ngành thay vì chỉ đơn giản đánh giá nhu cầu tuyển dụng ảm đạm hiện tại. Nghĩa là, lập trình viên có thể không còn “hào nhoáng” hoặc được nhận mức thù lao cao như trước đây, tuy nhiên, ông Nick Bunker cũng khẳng định "nhưng đây vẫn là ngành được trả lương tốt nhất và có triển vọng dài hạn".

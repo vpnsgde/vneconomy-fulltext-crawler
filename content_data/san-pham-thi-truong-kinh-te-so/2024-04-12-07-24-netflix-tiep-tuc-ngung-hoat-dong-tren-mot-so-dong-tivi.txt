@@ -1,0 +1,15 @@
+Khi khởi chạy ứng dụng Netflix trên tivi, nhiều người dùng đang nhận được thông báo: “Netflix không còn khả dụng trên thiết bị này. Xem danh sách các thiết bị tương thích tại netflix.com/compliancedevices”. Thông báo này xảy ra do Netflix thực hiện cập nhật ứng dụng, khiến một số mẫu tivi không còn tương thích với dịch vụ.
+
+Các thiết bị bị ảnh hưởng là những thiết bị sử dụng hệ thống bảo mật có tên SSlv3, một giao thức quá cũ. Axel Legay, Giáo sư An ninh mạng giải thích: “Giao thức SSL quá dễ bị tấn công, các nhà sản xuất tivi phải cập nhật thiết bị của họ, nếu không các ứng dụng trên đó có thể bị tấn công”.
+
+“Có thể khó chấp nhận nhưng Netflix cần làm vậy để cung cấp cho ngừoi dùng dịch vụ bảo mật. Nếu ngày mai bạn phát hiện dữ liệu của bạn đã bị đánh cắp vì một hacker đã khai thác giao thức SSL, điều đó thật tệ…”, ông nói thêm.
+
+Câu hỏi bây giờ là tivi nào không còn tương thích với Netflix. Dịch vụ phát trực tuyến thông tin “Netflix không còn khả dụng trên một số tivi và một số thiết bị phát trực tuyến được sản xuất trước năm 2014”.
+
+Cụ thể là 3 dòng tivi Sony Bravia và Legacy với màn hình LCD; Samsung thuộc dòng D, E hay F với màn hình Full HD; LG, bao gồm các dòng LM 6410, LM 670S, LM860V hoặc LM960V cũ.
+
+Trước đó, tháng 2 năm nay, Netflix cũng cho biết sẽ ngừng hoạt động trên một số dòng tivi cũ của Sony. Dịch vụ phát trực tuyến này thông báo: “từ cuối tháng 2/2024, ứng dụng Netflix sẽ không còn được hỗ trợ trên một số tivi Sony và đầu đĩa Blu-ray đời 2011-2013 do hạn chế về mặt kỹ thuật”.
+
+Thay đổi này áp dụng cho các mẫu TV Sony thuộc dòng HX, EX và W cũng như X9005 và S995. Đây là những mẫu TV từ năm 2011, 2012 và 2013. Ngoài ra, một số đầu phát Blu-ray của Sony cũng bị ảnh hưởng.
+
+Lâu hơn nữa, giữa tháng 10/2023, Netflix cũng loại bỏ ứng dụng của mình trên các thiết bị đầu phát Blu-ray Samsung và TV thông minh của Sony, Panasonic và Hitachi cũng như Sony PlayStation Vita và PlayStation TV.

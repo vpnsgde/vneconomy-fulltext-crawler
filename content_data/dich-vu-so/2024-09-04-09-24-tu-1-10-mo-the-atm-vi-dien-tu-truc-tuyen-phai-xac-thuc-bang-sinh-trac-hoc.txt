@@ -1,0 +1,21 @@
+Theo Thông tư 18, các tổ chức phát hành thẻ phải thu thập các tài liệu, thông tin, dữ liệu nhằm nhận biết khách hàng và thông tin sinh trắc học của chủ thẻ đối với khách hàng cá nhân, thông tin sinh trắc học của đại diện hợp pháp đối với khách hàng tổ chức.
+
+Tổ chức phát hành thẻ phải thực hiện đối chiếu, đảm bảo sự khớp đúng giữa thông tin sinh trắc học của chủ thẻ đối với khách hàng cá nhân hoặc đại diện hợp pháp đối với khách hàng tổ chức với dữ liệu sinh trắc học được lưu trong bộ phận lưu trữ thông tin được mã hóa của thẻ căn cước công dân hoặc thẻ căn cước; hoặc khớp với dữ liệu sinh trắc học đã được thu thập và kiểm tra.
+
+Tổ chức phát hành thẻ lưu trữ, bảo quản đầy đủ, chi tiết theo thời gian đối với các thông tin, dữ liệu nhận biết khách hàng trong quá trình khách hàng phát hành và sử dụng thẻ, như: thông tin nhận biết khách hàng; các yếu tố sinh trắc học của khách hàng; âm thanh, hình ảnh, bản ghi hình, ghi âm; số điện thoại thực hiện giao dịch; nhật ký giao dịch.
+
+Theo quy định, các thông tin, dữ liệu phải được lưu trữ an toàn, bảo mật, được sao lưu dự phòng, đảm bảo tính đầy đủ, toàn vẹn của dữ liệu để phục vụ cho công tác kiểm tra, đối chiếu, giải quyết tra soát, khiếu nại, tranh chấp và cung cấp thông tin khi có yêu cầu từ cơ quan quản lý nhà nước có thẩm quyền.
+
+Ngoài ra, các quy định tương tự cũng được áp dụng với khách hàng đăng ký mở ví điện tử bằng phương tiện điện tử. Theo đó, tổ chức cung ứng ví điện tử phải thu thập, kiểm tra, xác minh thông tin sinh trắc học của chủ ví điện tử đối với khách hàng cá nhân và của người đại diện hợp pháp đối với khách hàng tổ chức.
+
+Trước đó, từ đầu tháng 7, Ngân hàng Nhà nước cũng quy định việc xác thực sinh trắc học lần đầu là bắt buộc nếu khách hàng muốn chuyển tiền trực tuyến từ 10 triệu đồng một lần trở lên hoặc 20 triệu đồng trong ngày, theo Quyết định 2345.
+
+Cũng theo Thông tư 18, từ ngày 1/1/2025, chủ tài khoản phải xác thực sinh trắc học với ngân hàng mới được giao dịch. Còn từ ngày 1/7/2025, tài khoản sẽ bị ngừng giao dịch khi căn cước công dân hết hạn.
+
+Được biết, dữ liệu sinh trắc học được lưu trong bộ phận lưu trữ thông tin được mã hóa của thẻ căn cước công dân hoặc thẻ căn cước của người đó đã được xác thực chính xác là do cơ quan công an cấp, hoặc thông qua xác thực tài khoản định danh điện tử của người đó do Hệ thống định danh và xác thực điện tử tạo lập.
+
+Dữ liệu sinh trắc học được thu thập thông qua gặp mặt trực tiếp người đó đối với trường hợp là người nước ngoài không sử dụng danh tính điện tử, người gốc Việt Nam chưa xác định được quốc tịch.
+
+Hơn nữa, dữ liệu sinh trắc học cũng có thể được tính khi đã thu thập và kiểm tra để đảm bảo sự khớp đúng với dữ liệu sinh trắc học được mã hóa của Thẻ Căn cước công dân/Thẻ Căn cước đã được xác thực hoặc với dữ liệu sinh trắc học của người đó thông qua xác thực tài khoản định danh điện tử.
+
+Các ngân hàng được yêu cầu phải nêu rõ các loại phí, mức phí áp dụng cho từng loại thẻ và dịch vụ thẻ. Biểu phí dịch vụ thẻ phải phù hợp quy định pháp luật, được niêm yết công khai và cung cấp cho chủ thẻ trước khi sử dụng và khi có sự thay đổi.

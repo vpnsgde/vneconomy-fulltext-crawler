@@ -1,0 +1,23 @@
+Theo báo cáo của Acumen Research, thị trường AI trong ngành y tế - chăm sóc sức khỏe toàn cầu dự kiến sẽ tăng lên 8 tỷ USD vào năm 2026. Trong đó, thị trường robot y tế được định giá 8,307 tỷ USD vào năm 2020, dự kiến sẽ đạt 28,34 tỷ USD vào năm 2026, với tỷ lệ tăng trưởng kép hàng năm là 22,18% trong giai đoạn dự báo 2021 - 2026. Nhu cầu ngày càng tăng về các ca phẫu thuật nội soi chính xác và phù hợp, cùng với việc thiếu hụt nguồn nhân lực, dân số già hóa và áp lực chi phí y tế, là những yếu tố chính thúc đẩy sự tăng trưởng của thị trường này.
+
+Lần đầu tiên, thông qua hệ thống robot phẫu thuật, tất cả các dữ liệu, bao gồm từng chuyển động cụ thể của bác sĩ phẫu thuật có thể được ghi chép lại. Khi kết hợp dữ liệu của ca phẫu thuật với kết quả lâm sàng, các bác sĩ có thể hiểu rõ và điều chỉnh những kỹ thuật nhằm tạo ra kết quả tốt hơn cho bệnh nhân, tiêu chuẩn hóa phương pháp phẫu thuật và làm cơ sở quan trọng cho việc đào tạo các bác sĩ trong tương lai.
+
+Robot có thể giúp bệnh nhân tiếp cận dịch vụ chăm sóc chất lượng cao với chi phí hợp lý hơn. Theo Tổng Giám đốc của CMR, một công ty sản xuất thiết bị y tế có trụ sở tại Cambridge (Anh), đây có thể là khởi đầu cho “thập niên của robot”.
+
+Tại Đức, do số lượng người cao tuổi cần được chăm sóc tăng lên nhanh chóng, các nhà nghiên cứu đang nỗ lực thiết kế và phát triển những robot y tế có khả năng đảm nhận một số nhiệm vụ mà các y tá, điều dưỡng viên và bác sĩ thực hiện hiện nay.
+
+Trong phòng thí nghiệm Garmisch tại Munich, Bác sĩ Steinebach ngồi trước chiếc bàn được trang bị 3 màn hình và một cần điều khiển. Đầu bên kia của căn phòng, một nhà nghiên cứu khác đang đứng trước Garmi. Con robot đang đặt ống nghe lên ngực anh, hành động mà bác sĩ Steinebach dẫn động từ xa thông qua cần điều khiển. Dữ liệu y tế ngay lập tức xuất hiện trên màn hình của bác sĩ.
+
+Theo Tech Xplore, các nhà khoa học Úc cũng vừa trình làng một robot thử nghiệm có thể trực tiếp điều trị vết thương nội tạng và hứa hẹn sẽ trở thành một công cụ phẫu thuật nội soi đa năng trong tương lai. Cánh tay robot linh hoạt có thể in 3D vật liệu sinh học trực tiếp lên các cơ quan trong cơ thể, đây là dự án do tiến sĩ Thanh Nho Do thuộc Phòng thí nghiệm Robot y tế của Đại học New South Wales (UNSW) và nghiên cứu sinh tiến sĩ Mai Thanh Thai dẫn đầu. Thiết bị có tên F3DB gồm một đầu xoay linh hoạt có khả năng “in” mực sinh học, gắn liền với một cánh tay robot dài và mềm dẻo, tất cả đều có thể được điều khiển từ xa.
+
+Tiến sĩ Opfermann, người chủ trì công trình nghiên cứu robot phẫu thuật tự hành tại Đại học Johns Hopkins (Mỹ) cho biết: “Kết quả hiện tại là trong các ca mổ, 83% vết khâu được robot thực hiện hoàn hảo. Trong tương lai, tôi tin rằng chúng tôi có thể nâng tỉ lệ này lên 97%. Khi đó, bác sĩ phẫu thuật sẽ không còn phải ngồi trước bàn điều khiển mà chỉ cần lập chương trình mổ, mọi việc còn lại sẽ do robot tự hành đảm trách”.
+
+Điều này chẳng khác gì như khi chúng ta ngồi trên một chiếc xe tự lái, chỉ cần thông báo điểm đến là nó sẽ đưa chúng ta đến nơi an toàn. “Với robot phẫu thuật tự hành, quá trình cũng tương tự như vậy nếu các nhà chế tạo kết nối tất cả mọi dữ kiện với nhau thành một hệ thống hoàn chỉnh…”.
+
+Mới đây nhất, hãng sản xuất robot phẫu thuật Curexo Inc Hàn Quốc đã bắt tay với Tập đoàn Microsoft (Mỹ) để phát triển loại robot y tế sử dụng công nghệ AI. Giám đốc điều hành của Curexo Lee Jae-jun chia sẻ: “Chúng tôi đặt mục tiêu đạt mức doanh thu 50 tỷ Won (tương đương 38,4 triệu USD) chỉ với riêng mảng robot phẫu thuật vào năm 2024 và 100 tỷ Won vào năm 2024 - 2025”.
+
+Thị trường robot phẫu thuật tại Hàn Quốc ước tính trị giá khoảng 12 nghìn tỷ Won trong năm 2022. Khoảng 76% trong số đó là các robot phẫu thuật nội soi. Dự báo thị trường sẽ sớm tăng lên 20 nghìn tỷ Won, trong đó robot chỉnh hình và phẫu thuật dự kiến chiếm tỷ trọng khoảng 30%...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 15-2023 phát hành ngày 10-04-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

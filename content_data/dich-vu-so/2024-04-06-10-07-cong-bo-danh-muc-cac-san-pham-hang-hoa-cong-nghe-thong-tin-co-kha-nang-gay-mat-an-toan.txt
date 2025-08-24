@@ -1,0 +1,21 @@
+Bộ Thông tin và Truyền thông vừa ban hành Thông tư quy định danh mục sản phẩm, hàng hóa có khả năng gây mất an toàn (danh mục sản phẩm, hàng hóa nhóm 2) thuộc trách nhiệm quản lý của Bộ. Thông tư có hiệu lực thi hành từ ngày 15/5/2024.
+
+Danh mục sản phẩm, hàng hóa chuyên ngành công nghệ thông tin và truyền thông bắt buộc phải chứng nhận hợp quy và công bố hợp quy được quy định gồm: Thiết bị phát, thu- phát sóng vô tuyến điện có băng tần nằm trong khoảng 9 kHz đến 400 GHz (Thiết bị phát, thu-phát sóng vô tuyến điện dùng trong các nghiệp vụ thông tin vô tuyến cố định hoặc di động mặt đất; Thiết bị phát, thu-phát sóng vô tuyến điện chuyên dùng cho truyền hình quảng bá, phát thanh quảng bá; Thiết bị Ra đa);
+
+Theo danh mục, thiết bị phát, thu-phát sóng vô tuyến điện dùng trong các nghiệp vụ thông tin vô tuyến cố định hoặc di động mặt đất gồm: thiết bị đầu cuối thông tin di động mặt đất, thiết bị đầu cuối thông tin di động 5G; thiết bị trạm gốc thông tin di động GSM; thiết bị trạm gốc thông tin di động 5G
+
+Bên cạnh đó là thiết bị vô tuyến điện cự ly ngắn (Thiết bị điện thoại không dây loại kéo dài thuê bao vô tuyến; Thiết bị phát, thu-phát vô tuyến cự ly ngắn dùng cho mục đích chung; thiết bị rada ứng dụng trong giao thông đường bộ hoặc đường sắt; thiết bị điều khiển từ xa vô tuyến điện; thiết bị nhận dạng vô tuyến điện; thiết bị thu phí giao thông không dừng áp dụng công nghệ nhận dạng vô tuyến điện; thiết bị âm thanh không dây;...).
+
+Cũng theo phụ lục của Thông tư này, các sản phẩm, hàng hóa chuyên ngành công nghệ thông tin và truyền thông bắt buộc phải công bố hợp quy gồm: Thiết bị công nghệ thông tin (Máy tính cá nhân để bàn, máy tính xách tay, máy tính bảng); Thiết bị phát thanh, truyền hình; Thiết bị phát, thu-phát sóng vô tuyến điện có băng tần nằm trong khoảng 9 kHz-400 GHz và có công suất phát từ 60 mW trở lên; Thiết bị vô tuyến điện cự ly ngắn...Pin Lithium cho thiết bị cầm tay (cho máy tính xách tay, điện thoại di động, máy tính bảng) cũng thuộc danh mục này phải công bố hợp quy.
+
+Theo Thông tư, việc quản lý chất lượng sản phẩm, hàng hóa thuộc Danh mục sản phẩm, hàng hóa nhóm 2 được thực hiện theo quy định của Bộ Thông tin và Truyền thông về chứng nhận hợp quy, công bố hợp quy, kiểm tra chất lượng đối với sản phẩm, hàng hóa chuyên ngành công nghệ thông tin và truyền thông và các quy chuẩn kỹ thuật tương ứng.
+
+Sản phẩm, hàng hóa thuộc Danh mục sản phẩm, hàng hóa nhóm 2 có tích hợp sản phẩm, hàng hóa khác thuộc Danh mục sản phẩm, hàng hóa nhóm 2 phải thực hiện chứng nhận hợp quy, công bố hợp quy đầy đủ các quy chuẩn kỹ thuật tương ứng áp dụng cho sản phẩm, hàng hóa đó và sản phẩm, hàng hóa được tích hợp.
+
+Sản phẩm, hàng hóa thuộc Danh mục sản phẩm, hàng hóa nhóm 2 thuộc đối tượng áp dụng của hai hay nhiều quy chuẩn kỹ thuật thì phải thực hiện chứng nhận hợp quy, công bố hợp quy theo quy định của các quy chuẩn kỹ thuật đó.
+
+Trong trường hợp quy chuẩn kỹ thuật đã ban hành trước ngày 15/5/2024 có quy định khác Thông tư thì thực hiện theo quy định tại Thông tư này.
+
+Từ ngày 15/5/2024, nếu có quy chuẩn kỹ thuật mới ban hành thay thế quy chuẩn kỹ thuật quy định tại Danh mục sản phẩm, hàng hóa nhóm 2; hoặc có quy chuẩn kỹ thuật mới ban hành áp dụng bổ sung cho sản phẩm, hàng hóa quy định tại Danh mục sản phẩm, hàng hóa nhóm 2 thì áp dụng quy định tại Thông tư ban hành quy chuẩn kỹ thuật mới.
+
+Trong quá trình thực hiện, trường hợp có vướng mắc về việc xác định mã số HS của hàng hóa nhập khẩu là sản phẩm, hàng hóa có khẳng năng gây mất an toàn thuộc phạm vi điều chỉnh của Thông tư, Bộ Khoa Thông tin và Truyền thông (Vụ Khoa học và Công nghệ) phối hợp với Bộ Tài chính (Tổng cục Hải quan) hướng dẫn xử lý thống nhất.

@@ -1,0 +1,25 @@
+Theo một số nguồn tin từ phía Trung Quốc, chuyến đi của ông Huang được thực hiện theo lời mời của một tổ chức thương mại Trung Quốc.
+
+Đài Truyền hình Trung ương Trung Quốc (CCTV) đưa tin ông đã có cuộc gặp với ông Ren Hongbin, Chủ tịch Hội đồng Xúc tiến Thương mại Quốc tế Trung Quốc (CCPIT). Lãnh đạo Nvidia cho biết sẽ “tiếp tục tăng cường hợp tác với Trung Quốc” trong bối cảnh ngành công nghệ đang đối mặt với nhiều bất ổn địa chính trị.
+
+Tờ China Daily, cơ quan ngôn luận tiếng Anh của Đảng Cộng sản Trung Quốc, đã đăng tải hình ảnh của ông Huang tại thủ đô, nhấn mạnh rằng chuyến thăm này diễn ra “ba tháng sau khi ông tái khẳng định cam kết hợp tác với Trung Quốc trong lần ghé thăm trước đó”. Bài viết còn sử dụng hashtag #OpportunityChina – một hashtag thường được truyền thông nước này sử dụng để quảng bá cơ hội thương mại giữa Trung Quốc và Mỹ.
+
+Chuyến thăm Trung Quốc của Giám đốc điều hành Nvidia, Jensen Huang, được các hãng tin nhận định là có phần nhạy cảm. Trước đó chỉ vài ngày, chính phủ Mỹ đã công bố loạt hạn chế mới đối với dòng chip trung tâm dữ liệu H20 của Nvidia – sản phẩm được thiết kế riêng để đáp ứng các quy định kiểm soát xuất khẩu cho Trung Quốc.
+
+Theo Nhà trắng, quy định mới được đưa ra nhằm giảm nguy cơ các sản phẩm của Nvidia bị “sử dụng hoặc chuyển hướng phục vụ cho các hệ thống siêu máy tính” tại Trung Quốc, trong bối cảnh cuộc chạy đua về trí tuệ nhân tạo giữa hai quốc gia ngày càng căng thẳng.
+
+Phản hồi lại, Nvidia cho biết các biện pháp này có thể khiến công ty mất khoảng 5,5 tỷ USD doanh thu. Ngay sau thông tin này, cổ phiếu của hãng đã giảm gần 7% trong phiên giao dịch ngày hôm sau của lệnh cấm.
+
+Trong thời gian qua, ngành công nghệ toàn cầu, đặc biệt là các doanh nghiệp Mỹ, đang chịu nhiều áp lực từ các chính sách siết chặt xuất khẩu công nghệ sang Trung Quốc, cùng với thuế quan cao đối với hàng nhập khẩu. Cổ phiếu Nvidia cũng nằm trong nhóm nhiều mã công nghệ bị sụt giảm mạnh trong những tuần gần đây. Tổng thống Donald Trump thậm chí còn đe dọa sẽ áp thêm thuế đối với ngành công nghiệp bán dẫn toàn cầu, với mục tiêu kéo hoạt động sản xuất quay trở lại nước Mỹ.
+
+Đáng chú ý, lệnh siết mới của Mỹ được đưa ra chỉ một ngày sau khi Nvidia công bố kế hoạch đầu tư 500 tỷ USD trong vòng bốn năm tới để xây dựng hạ tầng AI ngay tại Mỹ – một động thái thể hiện rõ quyết tâm mở rộng sản xuất trong nước giữa bối cảnh địa chính trị nhiều bất ổn.
+
+Theo Financial Times, trong chuyến thăm Bắc Kinh, Giám đốc điều hành Jensen Huang cũng đã gặp ông Liang Wenfeng, nhà sáng lập của công ty AI DeepSeek để thảo luận về các thiết kế chip mới có thể né tránh các quy định cấm xuất khẩu của Mỹ.
+
+DeepSeek từng gây chấn động giới công nghệ vào tháng 1 với chatbot AI được đánh giá vượt trội so với các sản phẩm cùng loại, dù mức đầu tư lại thấp hơn nhiều. Sự xuất hiện bất ngờ của công ty này từng khiến cổ phiếu công nghệ toàn cầu đồng loạt lao dốc.
+
+Trước tình hình đó, Ủy ban Trung Quốc thuộc Hạ viện Hoa Kỳ đã gửi thư yêu cầu Nvidia làm rõ liệu DeepSeek có được tiếp cận các loại chip bị kiểm soát xuất khẩu hay không và nếu có, bằng cách nào. Ủy ban cảnh báo rằng công nghệ của DeepSeek có thể tạo ra "mối đe dọa nghiêm trọng" đối với an ninh quốc gia Hoa Kỳ.
+
+Trong khi đó, Giám đốc điều hành Nvidia, ông Jensen Huang, từng tuyên bố công khai rằng công ty sẽ cân bằng giữa việc tuân thủ các quy định pháp lý và thúc đẩy tiến bộ công nghệ, ngay cả trong bối cảnh chính sách siết chặt thời ông Trump.
+
+Sự xuất hiện mới đây của ông Huang tại Bắc Kinh đã nhanh chóng thu hút sự chú ý trên mạng xã hội ở cả Trung Quốc và Đài Loan. Là một gương mặt quen thuộc và được ngưỡng mộ tại quê nhà, ông thường xuyên được người hâm mộ chào đón nồng nhiệt trong những chuyến thăm gần đây. Truyền thông địa phương cũng liên tục cập nhật tin tức về lịch trình và các hoạt động của ông trong mỗi lần xuất hiện.

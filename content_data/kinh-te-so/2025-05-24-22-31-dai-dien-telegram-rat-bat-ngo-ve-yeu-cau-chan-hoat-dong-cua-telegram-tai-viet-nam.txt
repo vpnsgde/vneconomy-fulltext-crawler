@@ -1,0 +1,31 @@
+Cụ thể, phản hồi về quyết định mới đây của cơ quan chức năng Việt Nam, đại diện Telegram chia sẻ với Reuters: “Chúng tôi đã nhận được thông báo chính thức từ cơ quan quản lý truyền thông về thủ tục thông báo dịch vụ theo quy định viễn thông mới. Hạn chót phản hồi là ngày 27/5 và chúng tôi đang xử lý yêu cầu này”.
+
+Đến thời điểm bài viết, người dùng tại Việt Nam vẫn có thể truy cập và sử dụng ứng dụng Telegram như bình thường.
+
+Telegram được thành lập vào tháng 8/2013 bởi Pavel Durov, nhà sáng lập từng tạo ra mạng xã hội VKontakte, được ví như “Facebook của Nga”. Sau khi bị ép rời khỏi VK và đối đầu với chính quyền Nga, Durov mang theo triết lý "bảo vệ quyền tự do tuyệt đối trên không gian mạng" để sáng lập Telegram. Ông tuyên bố: “Chúng tôi không phục vụ chính phủ nào, chỉ phục vụ người dùng”.
+
+Mới đây, Cục Viễn thông (Bộ Khoa học và Công nghệ) đã nhận được văn bản của Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05) Bộ Công an về việc đề nghị chỉ đạo các doanh nghiệp cung cấp dịch vụ viễn thông, Internet tiến hành các biện pháp kỹ thuật để ngăn chặn hoạt động của Telegram tại Việt Nam…
+
+Triết lý ấy được thể hiện rõ trong thiết kế sản phẩm: người dùng có thể trò chuyện bí mật bằng các đoạn mã hóa đầu cuối, tin nhắn không lưu trên máy chủ và có thể tự hủy sau một thời gian định sẵn. Các kênh và hội nhóm công khai trên Telegram có sức chứa tới hàng trăm nghìn thành viên, dễ dàng được tìm kiếm bởi bất kỳ người dùng nào thông qua thanh công cụ tích hợp.
+
+Đặc biệt, Telegram không yêu cầu nhập số điện thoại di động khi đăng ký, cho phép người dùng sử dụng ứng dụng mà không tiết lộ thông tin cá nhân.
+
+Với tính năng ẩn danh gần như tuyệt đối, Telegram dễ dàng thu hút hàng trăm triệu người dùng trên khắp thế giới, đồng thời cũng khiến nó trở thành một “ổ tội phạm” khổng lồ.
+
+Theo Statista, ứng dụng nhắn tin phổ biến đã vượt qua mốc 900 triệu người dùng hoạt động hàng tháng tính đến tháng 7/2024.
+
+Trong lần trao đổi với VnEconomy, chuyên gia an ninh mạng Ngô Minh Hiếu từng khẳng định Telegram đã bị biến tướng thành "địa bàn" cho các hoạt động phạm pháp như tấn công mạng, lừa đảo và tống tiền, nhờ vào khả năng ẩn danh và cơ chế bảo mật quá chặt khiến việc truy vết gần như bất khả thi.
+
+Tại Việt Nam, tình trạng lợi dụng Telegram để lừa đảo, phát tán thông tin sai lệch, buôn bán dữ liệu cá nhân hay thậm chí liên quan đến ma túy và khủng bố ngày càng gia tăng.
+
+Theo thống kê từ cơ quan chức năng, trong số khoảng 9.600 kênh và nhóm Telegram đang hoạt động tại Việt Nam, có đến 68% mang nội dung xấu độc. Nhiều nhóm có hàng chục nghìn thành viên, do các đối tượng phản động điều hành, chuyên phát tán tài liệu chống phá Nhà nước.
+
+Trước thực trạng trên, cơ quan công an đã đề xuất chặn ứng dụng này tại Việt Nam, và Cục Viễn thông (Bộ Khoa học và Công nghệ) đã yêu cầu các nhà mạng triển khai biện pháp kỹ thuật để ngăn chặn hoạt động của Telegram.
+
+Thời gian vừa qua, cơ quan chức năng cũng đã liên tục cảnh báo người dân về các rủi ro bảo mật và tội phạm mạng trên nền tảng này. Không chỉ riêng Việt Nam, Telegram còn vấp phải chỉ trích từ nhiều quốc gia khác vì sự thiếu kiểm soát nội dung và khả năng tiếp tay cho hoạt động phi pháp.
+
+Ở Pháp, nhà sáng lập Pavel Durov từng bị cơ quan chức năng triệu tập vào năm ngoái do những lo ngại liên quan đến an ninh mạng.
+
+Tại Đức, chính phủ yêu cầu Telegram gỡ bỏ hàng chục kênh có liên quan đến kích động bạo lực.
+
+Ở Ấn Độ, nền tảng này từng bị cáo buộc tiếp tay cho các nhóm tội phạm lừa đảo xuyên biên giới. Ngay cả ở Nga, quê hương của nhà sáng lập, Telegram từng bị chặn trong hai năm (2018–2020) vì từ chối chia sẻ dữ liệu người dùng.

@@ -1,0 +1,17 @@
+Trong khuôn khổ Hội thảo và Triển lãm An toàn không gian mạng Việt Nam 2024 diễn ra sáng 30/5, Cục An toàn thông tin, Bộ Thông tin và Truyền thông đã chính thức khai trương nền tảng quản lý và phát hiện, cảnh báo sớm rủi ro an toàn thông tin.
+
+Ông Phạm Thái Sơn, Phó Giám đốc Trung tâm giám sát an toàn không gian mạng quốc gia (NCSC) thuộc Cục An toàn thông tin, cho biết hiện nay số lỗ hổng an toàn thông tin được phát hiện và công bố có xu hướng tăng liên tục qua mỗi năm. Trong năm 2023, có tới 29.000 lỗ hổng an toàn thông tin, tức là trung bình mỗi ngày có khoảng 60 - 70 lỗ hổng mới được phát hiện.
+
+Bên cạnh đó, khi số lượng tài sản số của các tổ chức ngày càng tăng lên, những phương hướng tấn công mới cũng liên tục tăng thêm theo thời gian, bề mặt tấn công được mở rộng hơn. Rủi ro an toàn thông tin có thể xuất hiện ở trên bất kỳ tài sản số nào, và chủ quản hay đơn vị vận hành hệ thống thông tin khó có thể kiểm soát hết được các rủi ro.
+
+Do vậy, Cục An toàn thông tin đã xây dựng nền tảng quản lý và phát hiện cảnh báo sớm rủi ro an toàn thông tin để hỗ trợ các tổ chức có thể kiểm soát rủi ro an toàn thông tin một cách toàn diện.
+
+Nền tảng quản lý và phát hiện cảnh báo sớm rủi ro an toàn thông tin hoạt động dựa trên 4 trụ cột: hỗ trợ quản lý rủi ro trên các tải sản số là phần mềm, phần cứng được sử dụng trong tổ chức, giúp chủ quản hệ thống có cái nhìn tổng quan về các bề mặt tấn công có thể bị lợi dụng để tấn công tổ chức; tự động đánh giá mức nghiêm trọng, sự ảnh hưởng của các rủi ro bảo mật; thực hiện phân tích dữ liệu để phát hiện và cảnh báo sớm các rủi ro về an toàn thông tin, đặc biệt là đối với các lỗ hổng Zero-day; đưa ra các khuyến nghị khắc phục với từng rủi ro được phát hiện.
+
+Trong quá trình hoạt động, khi phát hiện lỗ hổng hay rủi ro mới, nền tảng sẽ tự động gửi thông báo trực tiếp đến người dùng để họ nắm rõ thông tin.
+
+Cùng đó, hệ thống còn có công cụ quản lý tiến độ, xử lý các vấn đề về lỗ hổng, người dùng có thể cập nhật lỗ hổng đã được xử lý hay chưa, đang xử lý đến đâu, chủ quản hệ thống có thể nhìn nhận rõ ràng và tổng thể trong tổ chức của mình tồn tại những rủi ro nào, nhờ đó giúp cho tổ chức chuyển đổi số công tác quản lý rủi ro, tiết kiệm nguồn lực và thời gian để rà soát ban đầu trên hệ thống của mình.
+
+Tại lễ ra mắt nền tảng quản lý và phát hiện, cảnh báo sớm rủi ro an toàn thông tin, Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long cho biết nền tảng này đi vào sử dụng sẽ đóng góp lớn cho công tác bảo đảm an toàn thông tin mạng quốc gia. Các cơ quan, tổ chức, doanh nghiệp, đặc biệt là doanh nghiệp nhỏ và vừa có thể tham gia sử dụng ngay, miễn phí phục vụ cho công tác bảo đảm an toàn thông tin mạng.
+
+“Bộ Thông tin và Truyền thông đề nghị các cơ quan, tổ chức chú trọng là thường xuyên, liên tục sử dụng các nền tảng hỗ trợ đảm bảo an toàn thông tin đã và sẽ được Bộ phát triển, cung cấp miễn phí cho các cơ quan, tổ chức, doanh nghiệp”, ông Long nhấn mạnh.

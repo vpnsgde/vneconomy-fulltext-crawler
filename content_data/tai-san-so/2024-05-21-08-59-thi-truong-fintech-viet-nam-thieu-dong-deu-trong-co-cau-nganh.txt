@@ -1,0 +1,25 @@
+Theo báo cáo thị trường Fintech Việt Nam của Nextrans, trong số hơn 260 công ty hoạt động trong lĩnh vực Fintech tại Việt Nam vào cuối năm 2022, doanh nghiệp hoạt động trong mảng dịch vụ thanh toán chiếm đa số với khoảng 81 công ty (chiếm 31,1% tổng số lượng công ty Fintech tại Việt Nam). Trong khi đó, công ty hoạt động tại mỗi mảng Fintech khác không chiếm quá 18% tổng số lượng công ty toàn ngành.
+
+Trong bảng xếp hạng các công ty Fintech hàng đầu của Fintech News năm 2021, hai công ty Fintech thanh toán là VNLIFE (công ty mẹ của công ty fintech VNPAY) và M_Service (nhà điều hành của MoMo) lần lượt dẫn đầu hệ sinh thái Việt Nam. Cùng với VNPay và MoMo, hàng loạt ví điện tử khác như ZaloPay, Shopee Pay và Viettel Pay cũng đang chiếm lĩnh thị trường Fintech nội địa.
+
+Cũng theo đó, Báo cáo Đầu tư Công nghệ & Đổi mới Việt Nam 2021 của Do Ventures và Trung tâm Đổi mới Quốc gia Việt Nam (NIC) ghi nhận 85% tổng vốn đầu tư vào fintech của Việt Nam trong giai đoạn 2019-2021 là vào các công ty hoạt động trong danh mục thanh toán.
+
+Tuy nhiên, mặc dù thu hút nguồn vốn dồi dào đồng thời ghi nhận tình hình kinh doanh tăng trưởng ấn tượng, song hầu hết các công ty thanh toán, bao gồm cả các ông lớn như Momo, Shopee Pay hay Zalopay đều báo cáo thua lỗ, hoặc lợi nhuận mỏng do phải đốt vốn để thu hút và giữ chân khách hàng.
+
+Cụ thể, theo báo cáo của Vietdata, trong hai năm 2020 và 2021, lợi nhuận sau thuế MoMo ghi nhận âm khoảng 880 tỷ đồng, con số này tăng 30% vào năm 2022, âm gần 1.150 tỷ đồng. Năm 2020, ZaloPay cũng ghi nhận lợi nhuận âm gần 680 tỷ đồng, mức lỗ tiếp tục tăng 82,5% vào năm 2021 và tăng thêm 6,5% vào năm 2022, lên hơn 1.300 tỷ đồng. Còn ShopeePay trong năm 2020 lỗ hơn 100 tỷ đồng, năm 2021 lỗ 380 tỷ đồng và năm 2022 lỗ hơn 200 tỷ đồng.
+
+Khi nhìn vào Singapore, thị trường Fintech dẫn đầu Đông Nam Á với mức định giá được dự đoán đạt gần 40 tỷ USD trong năm nay, hệ sinh thái công nghệ tài chính của quốc gia này biểu hiện một bức tranh đầu tư tương đối khác so với Việt Nam.
+
+Theo đó, danh mục Blockchain và tiền điện tử là lĩnh vực phổ biến nhất, chiếm 20% tổng số công ty fintech ở Singapore, thanh toán chiếm 17%, ứng dụng đầu tư và ứng dụng quản lý đều chiếm 13%, theo FintechNews Singapore năm 2022.
+
+Có thể thấy, cơ cấu ngành Fintech tại Singapore không có quá nhiều chênh lệch giữa các danh mục, trong khi đó, tại Việt Nam, trụ cột được tài trợ nhiều nhất đồng thời cũng chiếm phần lớn thị phần Fintech là danh mục thanh toán kỹ thuật số, bên cạnh đó có cho vay ngang hàng và blockchain/tiền điện tử.
+
+Bên cạnh đó, trong khi các sản phẩm thanh toán hiện vẫn là trọng tâm phát triển của thị trường Fintech Việt Nam, theo khảo sát của Tập đoàn Tư vấn Boston (từ năm 2011 - 2021), Indonesia, cộng đồng khởi nghiệp fintech lớn thứ hai Đông Nam Á đã đi qua làn sóng tăng trưởng Fintech đầu tiên là thanh toán. Hiện nay, hệ sinh thái này đã dần chuyển dịch sang nhiều sản phẩm và dịch vụ khác ngoài danh mục thanh toán.
+
+Indonesia là thị trường của 785 công ty fintech tính đến cuối năm 2021, thu hút 26% tổng số vốn tài trợ fintech trên khắp Đông Nam Á, chỉ đứng sau Singapore (44%)
+
+Nhìn chung, ngoài thanh toán kỹ thuật số, các danh mục như cho vay ngang hàng hay quản lý tài sản số đều là những lĩnh vực khá phức tạp đối với hệ sinh thái Fintech Việt Nam.
+
+Bên cạnh cơ sở hạ tầng công nghệ chưa đủ đáp ứng yêu cầu, một trong những nguyên nhân khiến các danh mục này kém phát triển là do khung pháp lý của Việt Nam chưa thực sự toàn diện, quy định còn thiếu cụ thể. Chẳng hạn như cho đến thời điểm hiện tại, Việt Nam vẫn chưa có hành lang pháp lý rõ ràng về công nghê Blockchain hay cho vay ngang hàng (P2P).
+
+Đó cũng là lý do vì sao một số công ty khởi nghiệp Fintech Việt Nam, có thể kể đến kỳ lân Blockchain, Sky Mavis đã lựa chọn thị trường nước ngoài như Singapore (quốc gia đã thiết lập hành lang pháp lý đầy đủ một cách cởi mở, cơ sở hạ tầng phát triển và nhân lực chất lượng cao) để thử nghiệm công nghệ và phát triển doanh nghiệp…

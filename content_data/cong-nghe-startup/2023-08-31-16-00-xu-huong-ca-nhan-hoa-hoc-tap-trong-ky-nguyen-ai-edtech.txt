@@ -1,0 +1,45 @@
+Tương tự như các lĩnh vực khác, mô hình giáo dục cá nhân hóa cũng đã xuất hiện từ lâu và trở thành yêu cầu cơ bản của giáo dục thời đại số. Tuy nhiên, rào cản lớn nhất của giáo dục "lấy học sinh làm trung tâm" chính là giải quyết sự khác nhau giữa năng lực tiếp thu, nhu cầu học tập, sở thích… của mỗi cá nhân và làm thế nào để học sinh hào hứng tiếp nhận tri thức giống như sức hấp dẫn của Facebook, Tiktok, Youtube hay game online... mang lại. Có vẻ như, trí tuệ nhân tạo đang giúp ích cho các Edtech rất nhiều.
+
+Thị trường e-Learning, hay còn được gọi là thị trường giáo dục số, được định giá 198,2 tỷ USD vào năm 2022 (theo công ty nghiên cứu thị trường Vantage), chủ yếu nhờ vào sự tiến bộ trong việc phát triển công nghệ AI. Từ các khóa học trên điện thoại tới các tài liệu tham khảo trực tuyến và lớp học ảo, AI đã làm thay đổi các phương pháp học tập truyền thống. Sự tăng trưởng nhanh chóng của AI trong ngành Edtech cũng giúp cải thiện sự tương tác của học sinh thông qua các khóa học được cá nhân hóa, bài giảng tương tác và lớp học ứng dụng game hóa để phát triển kỹ năng.
+
+Vì vậy, thị trường giáo dục ứng dụng AI dự kiến sẽ vượt 20 tỷ USD vào năm 2027 (theo báo Education Times). Thời gian qua, chúng ta có thể thấy sự đầu tư đáng kể của các doanh nghiệp vào trí tuệ nhân tạo trong lĩnh vực giáo dục. Những khoản đầu tư này có thể vào nhiều mảng, bao gồm phát triển ứng dụng giáo dục, robot, trợ lý ảo, natural language processing (NLP), thị giác máy tính – computer vision, và machine learning.
+
+Trong khi một số người có thể lo lắng rằng trí tuệ nhân tạo sẽ thay thế yếu tố con người trong giáo dục, các chuyên gia tin rằng AI và giáo dục có thể làm việc cùng nhau, bổ sung cho cả 2 phương pháp giảng dạy truyền thống và hiện đại. AI đóng vai trò là hệ thống hỗ trợ giá trị cho giáo viên, giúp tự động hóa các công việc khác nhau, cung cấp cho họ các công cụ và tài nguyên để có thể tăng tính cá nhân hóa và hiệu quả trong giảng dạy. Sự kết hợp giữa AI và con người trong giáo dục đảm bảo một phương pháp học toàn diện, phối hợp những lợi ích của công nghệ với sự hướng dẫn và hiểu biết từ các giảng viên giỏi.
+
+Tuy ở giai đoạn đầu nhưng kỷ nguyên AI Edtech tại Việt Nam đang có sự phát triển bùng nổ, với giá trị ước tính lên tới 3 tỷ USD (theo báo cáo của Innolab.asia năm 2022). Năm 2023, thị trường Edtech Việt Nam ghi nhận hơn 300 startups đang chạy đua để ứng dụng AI vào các giải pháp giáo dục, nâng cao trải nghiệm người dùng như Topica, Edupia, Point Avenue, Elsa, Teky, Prep,… Đến cuối năm 2023, tỷ lệ sử dụng internet tại Việt Nam được dự đoán tăng lên 75% (theo cáo cáo của DataPortal năm 2022), giúp các startups AI Edtech tiếp cận được nhiều phân khúc khách hàng hơn.
+
+Tuy nhiên, thị trường AI Edtech tại Việt Nam cũng đang phải đối mặt với nhiều thách thức không hề nhỏ. Vì đang ở giai đoạn đầu nên thị trường vẫn còn nhiều lỗ hổng về hành lang pháp lý để quản lý tư liệu số và sở hữu trí tuệ, đồng thời chứng kiến sự cạnh tranh mạnh mẽ của nhiều doanh nghiệp trong lĩnh vực AI Edtech và startups “ăn theo”. Ngoài ra, cách học truyền thống vẫn phổ biến và phù hợp với thói quen học tập của người Việt Nam.
+
+Tại tọa đàm “Edtech Việt Nam & xu hướng cá nhân hóa trong học tập” do Tạp chí Kinh tế Việt Nam - VnEconomy tổ chức ngày 31/8/2023, bà Đào Lan Hương, CEO Học viện công nghệ Teky nhận định khi sử dụng một sản phẩm về cá nhân hóa học tập, học sinh chắc chắn cần có tính chủ động trong việc tự học. Từng người học sẽ phải tự xây dựng một lộ trình học của riêng mình, thiết kế một cách thức hay tốc độ học riêng và thời lượng mà mình phân bổ cho việc học tập ấy. Trên thực tế, thói quen tự học của học sinh Việt Nam chưa cao.
+
+
+
+“Tại Việt Nam, các bạn học sinh phải tự học với nền tảng công nghệ thường mất dần hứng thú học tập so với việc học trên lớp có tương tác với giáo viên và bạn bè. Do đó, cá nhân hóa học tập phải dựa trên khả năng thích nghi của người học, từ đó dùng công nghệ để tạo sự hấp dẫn và duy trì sự hứng thú cho họ. Nên hướng tới việc duy trì việc học đều đặn, hơn là học thời gian dài mỗi buổi, vừa mang lại hiệu quả hơn và cũng giúp tỷ lệ người dùng quay trở lại với ứng dụng nhiều hơn”.
+
+“Tại Việt Nam, các bạn học sinh phải tự học với nền tảng công nghệ thường mất dần hứng thú học tập so với việc học trên lớp có tương tác với giáo viên và bạn bè. Do đó, cá nhân hóa học tập phải dựa trên khả năng thích nghi của người học, từ đó dùng công nghệ để tạo sự hấp dẫn và duy trì sự hứng thú cho họ. Nên hướng tới việc duy trì việc học đều đặn, hơn là học thời gian dài mỗi buổi, vừa mang lại hiệu quả hơn và cũng giúp tỷ lệ người dùng quay trở lại với ứng dụng nhiều hơn”.
+
+Theo ông Phạm Giang Linh, CEO Galaxy Education, giống như là đi chữa bệnh, công nghệ giúp chúng ta giải quyết việc đầu tiên là khám đúng bệnh. Bởi vì mỗi học sinh đều có những điểm mạnh, điểm yếu khác nhau và giáo viên thì lại mỗi người có thể đưa ra một cái đánh giá khác nhau về cùng một bạn học sinh. Nhưng công nghệ AI dựa trên dữ liệu thì sẽ đưa ra được những đánh giá có độ phù hợp lớn và có độ chính xác cao.
+
+
+
+“Việc của các Edtech hiện nay là xây dựng nên một nền tảng công nghệ giúp truyền tải các môn học tới từng học sinh theo cách mà người học mong muốn nhất, cảm thấy tiếp thu dễ dàng nhất. Đây là một chặng đường rất dài nhưng AI có thể giúp các doanh nghiệp rút ngắn và tăng tốc, bắt đầu từ việc xây dựng các nội dung bài học hấp dẫn, xây dựng các câu hỏi phù hợp với từng trình độ hay kết nối lớp học với những kho dữ liệu có liên quan trên toàn thế giới..."
+
+“Việc của các Edtech hiện nay là xây dựng nên một nền tảng công nghệ giúp truyền tải các môn học tới từng học sinh theo cách mà người học mong muốn nhất, cảm thấy tiếp thu dễ dàng nhất. Đây là một chặng đường rất dài nhưng AI có thể giúp các doanh nghiệp rút ngắn và tăng tốc, bắt đầu từ việc xây dựng các nội dung bài học hấp dẫn, xây dựng các câu hỏi phù hợp với từng trình độ hay kết nối lớp học với những kho dữ liệu có liên quan trên toàn thế giới..."
+
+Nhìn nhận những khó khăn còn tồn tại, ông Nguyễn Trí Hiển, Chủ tịch Edtech Agency, Đồng trưởng Làng công nghệ giáo dục Techfest Việt Nam nhận định dữ liệu là "dòng máu" của AI, nên chất lượng dữ liệu đầu vào quyết định rất lớn đến kết quả mà công nghệ này đưa ra. Tuy nhiên, AI dựa trên dữ liệu được cung cấp từ con người nên đôi khi kết quả cũng mang những định kiến của con người. Vì vậy, cách giảm thiểu rủi ro với các startup trí tuệ nhân tạo chính là cần tập hợp mạng lưới những người có nguồn lực.
+
+
+
+“Việt Nam văn hóa học tập và xu hướng trải nghiệm khác những nước khác, vì thế các doanh nghiệp Edtech nên suy nghĩ đến việc liên thông về mặt dữ liệu để có thể học hỏi được cái hành vi người tiêu dùng, từ đấy ngành Edtech có thể xây dựng được lộ trình học tập cá nhân cho cả thị trường Việt Nam. Hơn nữa, trong quá trình hợp tác dữ liệu, mỗi một doanh nghiệp cũng sẽ có cơ hội mở rộng thị trường một cách tốt hơn”.
+
+“Việt Nam văn hóa học tập và xu hướng trải nghiệm khác những nước khác, vì thế các doanh nghiệp Edtech nên suy nghĩ đến việc liên thông về mặt dữ liệu để có thể học hỏi được cái hành vi người tiêu dùng, từ đấy ngành Edtech có thể xây dựng được lộ trình học tập cá nhân cho cả thị trường Việt Nam. Hơn nữa, trong quá trình hợp tác dữ liệu, mỗi một doanh nghiệp cũng sẽ có cơ hội mở rộng thị trường một cách tốt hơn”.
+
+Trong khi đó, TS.Tôn Quang Cường, Chủ nhiệm Khoa Công nghệ giáo dục, Đại học Giáo dục (ĐH Quốc gia Hà Nội) là dùng cách hình dung “gói bảo hiểm giáo dục” để mô tả việc dữ liệu số, học liệu số trong tương lai sẽ giúp cho các công đoạn triển khai dạy và học trở nên thú vị hơn. Cụ thể nếu như trước đây chúng ta chỉ dạy theo hướng cung cấp câu trả lời, thì bây giờ những người làm giáo dục phải thay đổi theo hướng làm cách nào để giúp người học tìm kiếm các câu trả lời.
+
+
+
+“Một trong những nhiệm vụ để tìm kiếm câu trả lời là cần phải biết đặt câu hỏi. Đây là một góc nhìn có thể thay đổi được cách tiếp cận giáo dục, cách tiếp cận sư phạm. Với các gói bảo hiểm giáo dục được trợ giúp bởi AI này, các toa thuốc để chữa trị các khó khăn trong học tập hay cam kết đảm bảo sức khỏe học tập cho toàn dân sẽ trở nên thiết thực, hiệu quả hơn và nhiều cảm xúc hơn”.
+
+“Một trong những nhiệm vụ để tìm kiếm câu trả lời là cần phải biết đặt câu hỏi. Đây là một góc nhìn có thể thay đổi được cách tiếp cận giáo dục, cách tiếp cận sư phạm. Với các gói bảo hiểm giáo dục được trợ giúp bởi AI này, các toa thuốc để chữa trị các khó khăn trong học tập hay cam kết đảm bảo sức khỏe học tập cho toàn dân sẽ trở nên thiết thực, hiệu quả hơn và nhiều cảm xúc hơn”.
+
+Tóm lại, giáo dục luôn hướng đến độ mở về kiến thức, sự sáng tạo và đa dạng trong cách học tập vì sự phát triển của cá nhân người học. Trong khi công nghệ lại giúp chúng ta có hứng thú trong trải nghiệm đắm chìm, trong một kiểu dạy học đa phương thức, đa tính năng, đa công cụ, đa định dạng. Do đó, các chuyên gia tin tưởng, trí tuệ nhân tạo sẽ đóng vai trò rất lớn thực hiện giấc mơ cá nhân hóa trong giáo dục, một điều mà giáo dục truyền thống rất khó thực hiện được.

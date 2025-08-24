@@ -1,0 +1,23 @@
+Theo đó, ngay sau khi nộp tiền, người dân cần yêu cầu Tổ chức Dịch vụ thu cung cấp biên lai điện tử hoặc phiếu thu tiền. Kiểm tra đầy đủ các thông tin cá nhân, số tiền đã nộp, thời gian tham gia bảo hiểm xã hội tự nguyện, thời hạn tham gia bảo hiểm y tế hộ gia đình...
+
+Các thông tin này phải trùng khớp với dữ liệu căn cước công dân, hoặc thông tin đã kê khai với cơ quan Bảo hiểm xã hội. Nếu có sai sót, người dân cần phản ánh ngay với Tổ chức Dịch vụ thu để được điều chỉnh kịp thời.
+
+Cơ quan Bảo hiểm xã hội cũng khuyến nghị, người dân cần chủ động tra cứu thông tin tham gia bảo hiểm xã hội, bảo hiểm y tế thông qua các kênh chính thức như: Ứng dụng VssID - Bảo hiểm xã hội số; Ứng dụng VNeID (ứng dụng định danh điện tử); Cổng Dịch vụ công Quốc gia (https://dichvucong.gov.vn); Cổng thông tin điện tử Bảo hiểm xã hội Việt Nam (https://baohiemxahoi.gov.vn); qua tin nhắn từ cơ quan Bảo hiểm xã hội (thực hiện từ ngày 1/6/2025).
+
+Trường hợp quá trình tham gia bảo hiểm xã hội tự nguyện, giá trị thẻ bảo hiểm y tế chưa được ghi nhận, hoặc ghi nhận chưa đúng số tháng tham gia, người dân cần phản ánh trực tiếp với Tổ chức Dịch vụ thu nơi đã nộp tiền, hoặc đến cơ quan Bảo hiểm xã hội gần nhất để được hỗ trợ, xử lý kịp thời.
+
+Bảo hiểm xã hội TP. HCM khuyến khích người dân thực hiện đầy đủ các nội dung kiểm tra nêu trên, đặc biệt chủ động kiểm tra giá trị thẻ bảo hiểm y tế để tránh bị gián đoạn, ảnh hưởng đến quyền lợi khám chữa bệnh.
+
+Cũng từ ngày 1/6/2025, cơ quan Bảo hiểm xã hội sẽ chỉ cấp thẻ bảo hiểm y tế giấy đối với những trường hợp không thể cài đặt VssID, VNeID và không có căn cước công dân có gắn chip.
+
+Để sử dụng ứng dụng VNeID hoặc VssID thay cho thẻ bảo hiểm y tế giấy, người dân có thể tự tích hợp thẻ bảo hiểm y tế vào các ứng dụng này theo các bước đơn giản.
+
+Cụ thể, về tích hợp thẻ bảo hiểm y tế vào VNeID: Trước tiên, người dân cần cập nhật phiên bản mới nhất của ứng dụng VNeID. Sau đó, mở ứng dụng và đăng nhập, chọn mục Ví giấy tờ, rồi chọn Tích hợp thông tin. Tiếp theo, chọn Tạo mới yêu cầu và nhập số thẻ bảo hiểm y tế cùng thông tin đơn vị cấp thẻ để hoàn tất việc tích hợp.
+
+Về ứng dụng VssID, hiện nay, hầu hết tài khoản đã được xác thực với dữ liệu về dân cư, cập nhật số căn cước công dân. Với tài khoản chưa được cập nhật, người dùng có thể thực hiện các bước theo hướng dẫn để cập nhật số căn cước công dân, hay mã số định danh cá nhân đối với người tham gia bảo hiểm xã hội, bảo hiểm y tế vào ứng dụng VssID.
+
+Để kiểm tra số căn cước công dân đã cập nhật trên ứng dụng VssID: Mở ứng dụng VssID trên điện thoại - Đăng nhập tài khoản. Nếu tài khoản đã hiển thị số căn cước công dân thì không cần cập nhật. Nếu vẫn còn số chứng minh nhân dân cũ thì cần thực hiện thay đổi thông tin.
+
+Trường hợp người dân khó khăn cài đặt, liên hệ với cơ quan Bảo hiểm xã hội địa phương để được hỗ trợ cài đặt ứng dụng nếu chưa thể thực hiện được, hoặc không có căn cước công dân gắn chip.
+
+Cán bộ Bảo hiểm xã hội có trách nhiệm hướng dẫn người tham gia cài đặt, sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID, VNeID; sử dụng thẻ căn cước công dân có gắn chip để đi khám, chữa bệnh thay cho thẻ bảo hiểm y tế bản giấy.

@@ -1,0 +1,25 @@
+Theo các chuyên gia, passkey là quá trình tiến hóa tiếp theo của công nghệ xác thực mới, tạo ra một tương lai không cần mật khẩu trong khi vẫn bảo vệ dữ liệu người dùng. Passkey hoàn toàn có thể thay thế mật khẩu, loại bỏ rắc rối trong việc nhớ nhớ các chuỗi ký tự.
+
+Passkey bao gồm một cặp khóa mã hóa, một khóa riêng tư và một khóa công khai. Trong khi đó, khóa công khai chỉ có thể được giải mã bằng khóa riêng tư (sinh trắc học). Cơ chế này có vẻ khá phức tạp, tuy nhiên với người dùng thông thường, nó rất đơn giản.
+
+Sau khi đã cài đặt sinh trắc học cho tài khoản thiết bị, mỗi khi đăng nhập vào một trang web hoặc ứng dụng, người dùng chỉ cần nhập tên và nhấp vào nút “đăng nhập”. Hệ thống sẽ xác thực sinh trắc học trên điện thoại sẽ xác nhận người dùng đăng nhập. Quá trình này chỉ diễn ra trong một giây—nhanh hơn nhiều so với việc điền mật khẩu và chờ nhập mã MFA.
+
+Thông thường, người dùng có xu hướng sử dụng cùng một mật khẩu (password) cho nhiều tài khoản, vì vậy nếu kẻ xấu biết được thông tin đăng nhập của người dùng cho một trang web, chúng cũng có thể suy đoán để truy cập được vào tài khoản của người dùng trên các ứng dụng/trang web khác.
+
+
+
+Trong những năm qua, ngành công nghệ đã cố gắng tăng cường tính bảo mật của hệ thống đăng nhập mật khẩu bằng cách thêm xác thực đa yếu tố (MFA). MFA là mã được nhắn tin hoặc gửi qua email, nhưng vấn đề là mã MFA vẫn có nguy cơ bị chặn hoặc lừa đảo khá dễ dàng.
+
+Trong khi đó, passkey là công nghệ mã hoá bảo mật bằng sinh trắc học, do đó, kẻ tấn công không thể lừa đảo hoặc đoán được mật mã. Ngoài ra, vì passkey được liên kết với một ứng dụng hoặc trang web cụ thể nên người dùng không thể bị lừa xác thực bản thân trên một ứng dụng hoặc trang web bắt chước mã thật.
+
+Apple đã hỗ trợ passkey kể từ iOS 16 và mặc dù Apple đang đẩy mạnh hỗ trợ passkey trong các hệ điều hành sắp tới của mình, bao gồm iOS 18 và macOS Sequoia (thông qua API mới cho phép các ứng dụng và trang web tự động tạo mật mã cho người dùng). Tuy nhiên, Apple không phải là công ty phát minh ra công nghệ passkey.
+
+Công nghệ này được tạo ra bởi Liên minh FIDO, một hiệp hội gồm những gã khổng lồ công nghệ chung mục tiêu tăng cường các phương pháp xác thực bằng cách loại bỏ hệ thống mật khẩu khá dễ bị tấn công mà thế giới đã sử dụng kể từ những ngày đầu tiên có Internet. Apple, Microsoft, Amazon, Dell, Samsung và Google là thành viên của hội đồng Liên minh FIDO cùng nhiều các công ty khác.
+
+Các trang web và ứng dụng chính đã hỗ trợ passkey bao gồm Adobe, Amazon, Apple, Best Buy, Coinbase, CVS, Docomo, Docusign, eBay, GitHub, Google, Home Depot, Kayak, LinkedIn, Microsoft, Nintendo, PayPal, Robinhood, Shopify, Sony, Target, TikTok, Uber, WhatsApp, X và Yahoo.
+
+Các trang web và ứng dụng hàng đầu khác được nhiều người hy vọng sẽ nhận được hỗ trợ mật mã bao gồm Steam, Netflix, Signal, Reddit, ChaptGPT, Instagram, Facebook, Zoom và Airbnb.
+
+Hệ điều hành iOS của Apple có hơn một tỷ người dùng và iOS 18 sắp ra mắt tới đây có thể tăng thêm số lượng ngừoi dùng của iPhone. Với hệ điều hành iOS 18, người dùng sẽ dễ dàng chuyển mọi ứng dụng trong thiết bị sang đăng nhập bằng passkey. Google và Microsoft được cho là cũng sẽ sớm ứng dụng tính năng này trong các thiết bị của mình.
+
+Tuy nhiên, sự xuất hiện của passkey không làm mật khẩu bị loại bỏ hoàn toàn. Người dùng vẫn có quyền lựa chọn bảo mật bằng mật khẩu. Thế nhưng, rõ ràng việc sử dụng passkey sẽ nhanh chóng và an toàn hơn nhiều so với cách thức bảo mật bằng mật khẩu truyền thống.

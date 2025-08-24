@@ -1,0 +1,21 @@
+Startup “kỳ lân” (unicorn startup) là thuật ngữ chỉ những startup được định giá trên 1 tỷ USD. Tính đến cuối năm 2023, các startup kỳ lân đạt được mức định giá 1 tỷ USD trong 10 năm cũng chỉ chiếm 0,07% trên tổng số các công ty khởi nghiệp.
+
+Theo Nikkei Asia, số lượng các công ty kỳ lân trong lĩnh vực trí tuệ nhân tạo (AI) trên toàn thế giới tính đến tháng 4/2024 đã đạt con số 37 - tăng gần gấp đôi so với cùng thời điểm này trong năm 2023. Điều này diễn ra khi các ông lớn bao gồm Nvidia và Google mạnh tay bơm vốn vào các công ty khởi nghiệp đầy triển vọng và trong một lĩnh vực đang phát triển nhanh chóng.
+
+Con số này thể hiện mức tăng 85% so với chỉ 20 công ty vào cuối tháng 4 năm 2023, dựa trên dữ liệu từ công ty nghiên cứu CB Insights của Mỹ do Nikkei Asia thống kê. Vào cuối tháng 4/2023, 90% kỳ lân AI là các công ty Mỹ.
+
+Tuy nhiên, trong số 17 công ty góp mặt vào danh sách mới đây, có đến 10 công ty đều có trụ sở bên ngoài nước Mỹ. Trong số đó phải kể đến Mistral AI của Pháp, được ra mắt vào năm 2023 bởi các cựu nhân viên của Google và công ty mẹ của Facebook là Meta, cũng như Cohere của Canada, do cựu sinh viên Đại học Toronto thành lập.
+
+Ngoài ra, có 5 kỳ lân AI được sinh ra ở Trung Quốc. Startup 01.AI nằm trong số này và do cựu Chủ tịch Google Trung Quốc Lee Kai-fu đồng sáng lập, được định giá 1 tỷ USD trong vòng cấp vốn mới nhất.
+
+Những gã khổng lồ công nghệ đang thúc đẩy đầu tư vào lĩnh vực này. Trong số 17 kỳ lân AI mới, Nvidia đã đầu tư vào 7, bao gồm cả Cohere. Alphabet - công ty mẹ của Google đã đầu tư vào 4 công ty trong đó có Runway, một công ty chuyên sản xuất video. Cả 5 kỳ lân mới của Trung Quốc đều nhận được đầu tư từ Tập đoàn Alibaba.
+
+Các nhà đầu tư toàn cầu đang chuyển trọng tâm từ xe điện và công nghệ tài chính sang AI. Các công ty công nghệ lớn như Microsoft (công ty đang dẫn đầu hoạt động phát triển AI thông qua các khoản đầu tư vào OpenAI) và Nvidia đã thúc đẩy xu hướng tăng vốn hóa thị trường.
+
+Giờ đây, họ dường như đang đầu tư vào các kỳ lân AI để nắm bắt các công nghệ và nhân lực mới nhằm mở rộng dịch vụ của riêng họ. Vào tháng 3, Microsoft đã chiêu mộ nhân tài từ Inflection AI, một công ty mà hãng đã đầu tư. Chính quyền Anh và Mỹ đã bắt đầu điều tra mối quan hệ giữa Microsoft và Inflection.
+
+Một người đứng đầu bộ phận tại một quỹ đầu tư mạo hiểm có trụ sở tại Tokyo cho biết, do việc phát triển AI tổng quát đòi hỏi cơ sở hạ tầng điện toán quy mô lớn nên nó đặc biệt dễ trở thành một cuộc chiến về vốn. Các công ty như Microsoft và Google cũng đang hỗ trợ tăng trưởng bằng cách cung cấp dịch vụ đám mây của riêng họ cho các nhà đầu tư.
+
+Trong số 17 kỳ lân mới, 12 công ty đã huy động vốn ngay sau khi thành lập. Nhiều người vẫn chưa có con đường rõ ràng để đạt được lợi nhuận và các công ty công nghệ lớn được cho là đang đặt cược phần lớn vào tiềm năng của họ với hy vọng tìm được điều lớn lao tiếp theo.
+
+Đầu tư vào các công ty khởi nghiệp vốn đã chậm lại sau đại dịch Covid-19 và đang cần thời gian để phục hồi. Theo nhà cung cấp dữ liệu PitchBook của Mỹ, đầu tư khởi nghiệp toàn cầu vào năm 2023 đạt tổng cộng 349,5 tỷ USD, giảm 35% so với năm trước. Vốn đầu tư trong quý 1 năm 2024 cũng giảm 20% so với cùng kỳ năm ngoái.

@@ -1,0 +1,27 @@
+Theo thông tin từ Cục An toàn thông tin (Bộ Thông tin và Truyền thông), khoảng hơn 1 tuần trở lại đây, trên không gian mạng Việt Nam đang rộ lên chiến dịch lừa người dân cài các ứng dụng giả mạo app của Chính phủ, Tổng cục Thuế…
+
+Tổng cục Thuế cũng đã phát cảnh báo, một số đối tượng giả danh cán bộ thuế cung cấp đường dẫn và hướng dẫn người nộp thuế cài đặt các phần mềm giả mạo ứng dụng của cơ quan thuế nhằm lấy cắp thông tin cá nhân, thông tin tài khoản ngân hàng với mục đích chiếm đoạt tài sản.
+
+Thủ đoạn của đối tượng lừa đảo là gọi hoặc liên hệ với các nạn nhân qua điện thoại, Zalo, Facebook… để mời nạn nhân lên cơ quan thuế hoặc công an để định danh điện tử. Sau đó, các đối tượng thuyết phục người dùng tải ứng dụng giả mạo app của Chính phủ, Tổng cục Thuế trên các trang web giả mạo, ngụy trang là truy cập vào kho ứng dụng Google Play Store (CH Play).
+
+Tiếp đó, khi đã lừa được nạn nhân bấm vào link để tải ứng dụng giả mạo dạng “.apk” về, đối tượng lừa đảo sẽ hướng dẫn nạn nhân cài đặt app và chấp nhận toàn bộ quyền cho ứng dụng để hoạt động.
+
+Theo ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật của Công ty Công nghệ an ninh mạng Việt Nam – NCS, đây là hình thức tấn công không mới. Hacker mạo danh một cơ quan/tổ chức để lừa người dùng cài ứng dụng giả mạo lên điện thoại. Hiện tại, các ứng dụng giả mạo chỉ hoạt động trên hệ điều hành Android, đường link tải phần mềm “nằm ngoài” chợ ứng dụng CH Play. Các điện thoại iPhone hiện tại không cho phép cài từ nguồn bên ngoài chợ ứng dụng Apple Store nên không bị tấn công theo dạng này.
+
+Đặc điểm của các ứng dụng giả mạo thường sẽ yêu cầu rất nhiều quyền, trong đó có quyền truy cập dữ liệu, quyền chụp ảnh màn hình, thậm chí là quyền trợ năng để điều khiển được điện thoại từ xa.
+
+Do đó, dể phòng tránh, chuyên gia an ninh mạng NSC khuyến cáo người dùng cần chú ý các nguyên tắc sau: Người dùng chỉ cài ứng dụng bằng cách vào trực tiếp CH Play (điện thoại Android) hay Apple Store (iPhone) và tìm phần mềm tương ứng trên đó. Tuyệt đối không bấm vào các đường link nhận được qua tin nhắn. Nếu có nghi vấn, cần xác thực lại với cơ quan/tổ chức liên quan thông qua số điện thoại chính thức được công bố.
+
+Câu hỏi đặt ra làm thế nào mã độc có thể giúp hacker từ xa "điều khiển" điện thoại của nạn nhân, thực hiện lệnh chuyển tiền trên chính điện thoại của nạn nhân?
+
+Theo giải thích của ông Vũ Ngọc Sơn, thông thường, mỗi ứng dụng trên điện thoại được hệ điều hành tạo ra một "hộp cát" để thực thi (sandbox). Điều này giúp cho ứng dụng này không đọc được dữ liệu từ ứng dụng khác, không can thiệp được hoạt động của ứng dụng khác. Đây là thiết kế mang tính an ninh rất cao, khác hẳn với thiết kế của hệ điều hành trên máy tính, các ứng dụng có thể truy cập dữ liệu lẫn nhau. Giúp điện thoại nếu chẳng may có bị nhiễm mã độc thì mã độc cũng không lấy cắp được dữ liệu từ các ứng dụng trên máy.
+
+Thật không may, một thiết kế của Google trong Android có tên là dịch vụ trợ năng (Accessibility Service) nhằm giúp cho những người khiếm thị hoặc mất khả năng vận động có thể dùng được smartphone đã bị hacker lợi dụng. Hacker sử dụng Accessibility Service để lập trình mã độc đọc được nội dung và tương tác được trên các ứng dụng khác. Điều này đã phá vỡ thiết kế an ninh kiểu hộp cát của Google.
+
+Mặc dù Google đã sớm nhận ra sự nguy hiểm của Accessibility Service bằng cách loại bỏ gần như toàn bộ các ứng dụng có sử dụng quyền này trên Google Play, nhưng một lần nữa, hacker lại tìm ra khe hở. Đó là phát tán phần mềm trên các chợ không chính thống, nơi mà mọi biện pháp kiểm duyệt của Google là không thể can thiệp.
+
+Và đó là lý do các phần mềm độc hại ăn cắp tiền trong tài khoản ngân hàng trong các vụ việc vừa qua tại Việt Nam không có trên Google Play mà được đưa lên các đường link tải trực tiếp file .apk.
+
+“Với cách này, đối tượng lừa đảo sẽ lừa để người dùng cấp quyền Accessibility cho ứng dụng giả mạo. Sau khi được cấp quyền, ứng dụng giả mạo có thể nằm vùng như một gián điệp, thu thập thông tin, thậm chí điều khiển các ứng dụng ngân hàng, nhập tài khoản, mật khẩu, sau đó là mã OTP để chuyển tiền”, Giám đốc Kỹ thuật NCS giải thích thêm.
+
+Chuyên gia an ninh mạng NCS một lần nữa khuyến cáo: Liên tục trong thời gian qua, người dùng cần cảnh giác với những yêu cầu cài đặt phần mềm, đặc biệt là phần mềm trên Android. Tuyệt đối không cấp quyền Accessibility cho dù bất cứ lý do nào. Tất cả các ứng dụng của ngân hàng, thuế hay bất kỳ cơ quan nào khác đều không yêu cầu quyền này.

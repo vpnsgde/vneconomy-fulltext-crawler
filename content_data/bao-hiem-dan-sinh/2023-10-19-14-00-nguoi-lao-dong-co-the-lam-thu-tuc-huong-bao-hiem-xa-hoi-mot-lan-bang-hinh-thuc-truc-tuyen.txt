@@ -1,0 +1,83 @@
+Bảo hiểm xã hội Việt Nam vừa hướng dẫn quy trình giải quyết hưởng bảo hiểm xã hội một lần trên cổng dịch vụ công, nhằm hỗ trợ, tạo thuận lợi cho người dân khi làm thủ tục. Theo đó, người lao động có thể lựa chọn thực hiện trên cổng Dịch vụ công Bảo hiểm xã hội Việt Nam, hoặc trên Cổng Dịch vụ công Quốc gia.
+
+I. Thực hiện trên cổng Dịch vụ công Bảo hiểm xã hội Việt Nam
+
+1. Cài đặt công cụ ký số
+
+Bước 1. Tải công cụ ký số
+
+- Truy cập Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam tại địa chỉ https://dichvucong.baohiemxahoi.gov.vn để tải công cụ hỗ trợ ký số tại mục “Tải ứng dụng/Đăng ký & Kê khai” như sau:
+
+Chọn một trong 2 lựu chọn sau để cài đặt:
+
+Bước 2.Cài đặt
+
+- Thực hiện click đúp vào ứng dụng đã tải về tạiBước 1, để bắt đầu cài đặt:
+
+- Chọn“Tiếp tục”để bắt đầu cài đặt.
+
+- Chọn“Tiếp tục”:
+
+- Chọn mục:“Cài đặt”
+
+- Sau khi cài đặt xong, chọn“Kết thúc”để hoàn thành quá trình cài đặt:
+
+2. Kê khai, nộp hồ sơ
+
+Lưu ý, để thực hiện dịch vụ công Giải quyết hưởng bảo hiểm xã hội một lần theo Quyết định số 422/QĐ-TTG, người tham gia phải có chữ ký số cá nhân và máy tính được cài đặt công cụ hỗ trợ ký số do Bảo hiểm xã hội Việt Nam cung cấp.
+
+Bước 1:Truy cập Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam tại địa chỉ: https://dichvucong.baohiemxahoi.gov.vn, chọn “Đăng nhập”
+
+Lựa chọn đối tượng đăng nhập là"Cá nhân",nhập các thông tin: Tài khoản (mã số bảo hiểm xã hội), mật khẩu, mã kiểm tra và chọn“Đăng nhập” như màn hình sau:
+
+Bước 2:Chọn chức năng "Kê khai hồ sơ"
+
+Bước 3.Chọn Dịch vụ công "Giải quyết hưởng bảo hiểm xã hội một lần theo Quyết định số 422/QĐ-TTg" và chọn “Kê khai”:
+
+Hệ thống thực hiện xác thực thông tin công dân với cơ sở dữ liệu quốc gia về dân cư. Trường hợp xác thực thành công sẽ hiển thị thông tin như sau:
+
+Bảo hiểm xã hội Việt Nam lưu ý, người tham gia thực hiện kê khai số năm, số tháng tham gia bảo hiểm xã hội, và chọn một trong các trường hợp hưởng bảo hiểm xã hội một lần, gồm: Đủ tuổi hưởng lương hưu mà chưa đủ thời gian đóng bảo hiểm xã hội để hưởng lương hưu; ra nước ngoài để định cư; đang bị mắc một trong những bệnh nguy hiểm đến tính mạng như ung thư, bại liệt, xơ gan cổ chướng, phong, lao nặng, nhiễm HIV đã chuyển sang giai đoạn AIDS và những bệnh khác theo quy định của Bộ Y tế.
+
+Người lao động phục viên, xuất ngũ, thôi việc mà không đủ điều kiện hưởng lương hưu và bảo lưu thời gian đóng bảo hiểm xã hội; người lao động tham gia bảo hiểm xã hội bắt buộc sau một năm nghỉ việc, người tham gia bảo hiểm xã hội tự nguyện sau một năm không tiếp tục đóng bảo hiểm xã hội mà chưa đủ 20 năm đóng bảo hiểm xã hội.
+
+-Lựa chọn hình thức nhận kết quả:
+
+-Lựa chọn hình thực nhận tiền:
+
+-Đính kèm giấy tờ theo yêu cầu của từng trường hợp hưởng bảo hiểm xã hội một lần:
+
+Bước 4.Chọn mục “Tôi cam kết các nội dung kê khai là chính xác và chịu trách nhiệm trước pháp luật về những nội dung đã kê khai và cam kết nộp lại sổ bảo hiểm xã hội bản giấy về cơ quan Bảo hiểm xã hội khi nhận kết quả giải quyết”, và nhập mã kiểm tra để xác nhận thông tin.
+
+Bước 5. Thực hiện ký số
+
+-Sau khi thực hiện chọn “Xác nhận” tạiBước 4, màn hình hiển thị như sau:
+
+- Chọn Tổ chức cung cấp dịch vụ chứng thực chữ ký số và nhập thông tin tài khoản ký số từ xa. Nếu chữ ký số là hợp lệ, hệ thống sẽ hiển thị thông tin để chọn chứng thư số như sau:
+
+- Chọn “Đồng ý”, màn hình hiển thị như sau:
+
+Bước 6.Thực hiện xác thực ký số trên thiết bị di động theo hướng dẫn của Tổ chức cung cấp dịch vụ chứng thực chữ ký số cung cấp giải pháp ký số theo mô hình ký số từ xa (Remote Signing).
+
+Bước 7.Sau khi thực hiện ký số thành công, Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam hiển thị thông báo nộp hồ sơ thành công như sau:
+
+Để xem lại các giấy tờ đã đính kèm thành công, người tham gia chọn chức năngKê khai hồ sơ, chọnLịch sử kê khai hồ sơvà chọnXem:
+
+Màn hình hiển thị như sau:
+
+II. Thực hiện trên Cổng Dịch vụ công Quốc gia
+
+Bước 1.Đăng nhập Cổng Dịch vụ công Quốc gia tại địa chỉ: https://dichvucong.gov.vn bằng tài khoản đã đăng ký.
+
+Bước 2.Tại trang chủ Cổng Dịch vụ công Quốc gia, chọn menu "Dịch vụ công trực tuyến".
+
+Chọn cơ quan thực hiện làBộ ngànhvà chọnBảo hiểm xã hội Việt Nam,chọnTìm kiếm:
+
+Bước 3. Chọn DVC:“Giải quyết hưởng bảo hiểm xã hội một lần”
+
+Chọn Dịch vụ côngGiải quyết hưởng bảo hiểm xã hội một lầnvà Chọn “Nộp trực tuyến”, màn hình hiển thị như sau:
+
+Bước 4. Cổng Dịch vụ công quốc gia sẽ điều hướng sang Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam để người tham gia thực hiện kê khai, nộp hồ sơ giải quyết hưởng bảo hiểm xã hội một lần.
+
+Bước 5. Để tiếp tục thực hiện Dịch vụ công Giải quyết hưởng bảo hiểm xã hội một lần, người tham gia thực hiện tiếp từBước 3, Mục 2, Phần I.
+
+Bảo hiểm xã hội Việt Nam đề nghị Bảo hiểm xã hội các tỉnh, thành phố tổ chức tuyên truyền nhằm phổ biến, hướng dẫn, hỗ trợ người dân thực hiện dịch vụ công trực tuyến giải quyết hưởng bảo hiểm xã hội một lần; quán triệt cán bộ nghiệp vụ theo dõi, giải quyết chế độ hưởng cho người tham gia kịp thời, đúng quy định.

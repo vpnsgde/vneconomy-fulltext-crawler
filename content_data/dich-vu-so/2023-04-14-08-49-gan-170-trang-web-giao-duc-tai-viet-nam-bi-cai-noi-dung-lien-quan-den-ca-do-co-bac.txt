@@ -1,0 +1,27 @@
+Ông Vũ Ngọc Sơn, Giám đốc kỹ thuật của Công ty Công nghệ an ninh mạng NCS cho biết, theo thống kê tạm thời của NCS, có gần 170 trang về giáo dục có tên miền .edu.vn cũng bị tấn công, cài nội dung liên quan đến cá độ, cờ bạc. Hình thức tấn công tương tự như các site .gov.vn đã được nhắc đến gần đây.
+
+Theo đó, hacker khai thác lỗ hổng trên các website, chiếm quyền quản trị, thay đổi, chỉnh sửa mã nguồn của website, từ đó có thể đăng tải, liên kết, thậm chí chuyển hướng truy cập đến các nội dung quảng cáo, cờ bạc. Một số hệ thống do cấu hình không tốt, từ lỗ hổng của một website, hacker chiếm được quyền quản trị cả server hosting, từ đó tấn công sang các website khác trên cùng server đó, vì vậy có nơi bị nhiều website cùng lúc.
+
+Trong danh sách website bị tấn công bao gồm cả một số trường đại học lớn, các cơ sở giáo dục các cấp, các trường cao đẳng, trường nghề, trung tâm giáo dục...
+
+
+
+Chia sẻ với VnEconomy, ông Sơn cho rằng, cũng như các site .gov.vn, việc các trang giáo dục tại Việt Nam bị cài nội dung liên quan đến cá độ, cờ bạc sẽ khá nguy hiểm.
+
+Bởi cờ bạc, cá độ ở Việt Nam bị cấm vì vi phạm pháp luật, nhưng nó lại được nguỵ trang dưới các link có tên miền là .gov.vn hoặc .edu.vn, là web site của cơ quan nhà nước và giáo dục, khiến cho người dùng nếu không để ý sẽ tưởng là hợp pháp.
+
+Không những thế, đây lại là những trang website về giáo dục và đào tạo.
+
+Theo đánh giá sơ bộ của NCS, các lỗ hổng bị khai thác trên các hệ thống website đều là các lỗ hổng cơ bản và có thể khắc phục được. NCS khuyến cáo các quản trị cần rà soát sớm toàn bộ hệ thống website để xử lý. Đặc biệt các trường hợp có host chung server với các website khác thì cần rà soát toàn bộ các website này.
+
+Trước đó, đơn vị này cũng nhận được khá nhiều đề nghị trợ giúp từ các cơ quan, doanh nghiệp về việc website bị tấn công, chèn mã quảng cáo cờ bạc, cá độ. Nguy hiểm ở chỗ, các website này đều sử dụng “https”, được chứng nhận “chính chủ” của các cơ quan nhà nước, doanh nghiệp lớn, nhưng khi bấm vào đường dẫn thì lại chuyển hướng truy cập đến website của tổ chức cá độ, cờ bạc trực tuyến.
+
+Mở rộng nghiên cứu, các chuyên gia nhận thấy, chỉ cần search bằng Google với các từ khóa liên quan đến cá độ, cờ bạc, sẽ dễ dàng nhìn thấy vô số trang đã bị hack và chèn các đường link quảng cáo. Đặc điểm chung của hình thức tấn công này là hacker sẽ lợi dụng các lỗ hổng để chiếm quyền kiểm soát website, máy chủ, từ đó chèn các link quảng cáo, thậm chí cài mã độc để truy cập bất cứ nội dung nào, đều bị chuyển hướng sang website cờ bạc, cá độ.
+
+Hình thức tấn công này trước đây đã khá phổ biến, nhưng gần đây có dấu hiệu bùng phát và mang lại nhiều nguy cơ an ninh mạng cho người dùng. Đặc biệt nguy hiểm nếu các đường link “chính chủ” https này được dùng để phát tán các link lừa đảo, ăn cắp thông tin, thì người dùng rất dễ bị mắc bẫy.
+
+Qua hệ thống giám sát, thời gian gần đây, Cục An toàn thông tin cho biết đã phát hiện các hệ thống thông tin công khai của Việt Nam vẫn thường xuyên đối mặt với nguy cơ, chiến dịch tấn công mạng. Trong đó, một số website cơ quan nhà nước vẫn bị lợi dụng để cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung không phù hợp.
+
+Kết quả rà soát của Cục An toàn thông tin thời điểm trung tuần tháng 3/2023 cho thấy, trong khoảng 14.000 website, với hơn 6.900 trang tên miền .gov.vn của cơ quan nhà nước, đã phát hiện ít nhất 90 website đang bị lợi dụng để cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung quảng cáo không phù hợp như quảng cáo đánh bài, cờ bạc... Trong đó, có 67 website thuộc quản lý của 30 tỉnh, thành phố và 23 trang web thuộc quản lý của 12 bộ, ngành. Nội dung không phù hợp này còn hiển thị ngay trên kết quả tìm kiếm của Google.
+
+Các chuyên gia nhận định, việc các website của cơ quan nhà nước bị cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung không phù hợp không phải là thực trạng mới diễn ra. Mặc dù đã được các cơ quan chức năng cảnh báo nhưng việc rà soát và thực hiện các biện pháp để ngăn chặn, xử lý chưa được quan tâm đúng mức. Điều này sẽ trở nên nguy hiểm và nghiêm trọng nếu bị lợi dụng để đăng tải, phát tán những nội dung xấu độc, xuyên tạc về chủ quyền, chủ trương của Đảng và chính sách, pháp luật của Nhà nước.

@@ -1,0 +1,15 @@
+Cứ đến mùa hè - mùa cao điểm sử dụng điện, là nhiều người tiêu dùng lại có nhiều đắn đo, thắc mắc trước việc hóa đơn tiền điện hàng tháng đột ngột tăng cao. Giờ đây, những thông tin về chỉ số điện và hóa đơn tiền điện của mỗi hộ gia đình sẽ minh bạch hơn bao giờ hết, đồng thời người tiêu dùng cũng có thể tự hạn chế lượng điện tiêu thụ của mình, tất cả là nhờ một công cụ vừa được đưa lên app store.
+
+Với mong muốn đem đến sự trải nghiệm hoàn toàn mới cùng những tiện ích và tính năng vượt trội, Tổng Công ty Điện lực thành phố Hà Nội (EVNHANOI) đã ra mắt Ứng dụng (app) di động dành cho khách hàng sử dụng điện. Chỉ với “1 chạm” ngay trên thiết bị di động thông minh, người tiêu dùng có thể tra cứu, quản lý mọi thông tin về điện, đặc biệt, có thể chủ động theo dõi chỉ số điện năng tiêu thụ hàng ngày, đặt ngưỡng cảnh báo sử dụng điện, tự tính hóa đơn tiền điện…
+
+Dịch bệnh Covid - 19 bùng phát trở lại đúng vào thời điểm thủ đô Hà Nội bước vào mùa nắng nóng năm 2021, cùng với đó, việc người dân hạn chế ra đường để phòng, chống dịch bệnh đã làm cho nhu cầu sử dụng điện sinh hoạt tăng cao. Có thể nói, thời điểm này, ứng dụng vừa ra mắt của Tổng Công ty Điện lực Thành phố Hà Nội chính là một trong những tính năng mang tính “cách mạng” khi người dùng điện có thể biết chính xác mỗi ngày gia đình mình đã dùng bao nhiêu số điện, từ đó sẽ lên kế hoạch sử dụng điện tối ưu và tiết kiệm hơn.
+
+Với App EVNHANOI, khách hàng có thể tra cứu mọi thông tin về điện, từ lịch ghi chỉ số công tơ, lịch tạm ngừng cấp điện, đến việc có thể gửi các yêu cầu và theo dõi tiến độ thực hiện các dịch vụ điện ngay trên ứng dụng như dịch vụ cấp điện mới, dịch vụ hợp đồng mua bán điện (ký kết, thay đổi, bổ sung thông tin,...); dịch vụ về thiết bị đo đếm (kiểm tra, kiểm định)…
+
+Bên cạnh đó, ứng dụng EVNHANOI còn giúp người tiêu dùng có thể theo dõi chỉ số điện năng tiêu thụ hằng ngày, hằng tháng và so sánh với cùng kỳ trước đó. Đặc biệt, ở tính năng “Điện năng tiêu thụ”, các hộ gia đình còn có thể đặt ngưỡng cảnh báo sử dụng điện. Chỉ cần Chọn “Ngưỡng sản lượng cảnh báo (kWh)” hoặc “Tỷ lệ sản lượng điện tăng so với tháng trước” là khách hàng có thể đặt số (kWh) hoặc tỷ lệ (%) mong muốn được cảnh báo.
+
+App EVNHANOI không chỉ giúp kiểm soát được lượng điện tiêu thụ mà thông qua hai tính năng “Ước tính điện năng tiêu thụ của thiết bị” và “Công cụ tính hóa đơn”, người tiêu dùng còn có thể ước tính được hằng tháng gia đình sẽ dùng hết khoảng bao nhiêu số điện dựa vào việc nhập các thông tin về số lượng, chủng loại, tần suất sử dụng các thiết bị điện trong gia đình đang sử dụng và kiểm tra hóa đơn tiền điện của gia đình có được ngành điện tính đúng hay không.
+
+
+
+Người tiêu dùng chỉ cần tìm kiếm từ khóa “EVNHANOI” trên kho dữ liệu App Store (đối với hệ điều hành iOS) và Google Play (đối với hệ điều hành Android) là có thể tải và sử dụng ứng dụng EVNHANOI ngay trên thiết bị di động thông minh.

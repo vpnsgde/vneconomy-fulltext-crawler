@@ -1,0 +1,27 @@
+Ngày 12/6, Thủ tướng Chính phủ Phạm Minh Chính ký ban hành Quyết định số 1131/QĐ-TTg, phê duyệt Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược quốc gia. Quyết định bao gồm 11 nhóm công nghệ được xác định là trụ cột cho tương lai phát triển khoa học công nghệ.
+
+Nhóm công nghệ về trí tuệ nhân tạo, bản sao số, thực tế ảo/thực tế tăng cườnggồm có 6 nhóm sản phẩm: Mô hình ngôn ngữ lớn tiếng Việt; trợ lý ảo; trí tuệ nhân tạo chuyên ngành; trí tuệ nhân tạo phân tích; bản sao số (Digital Twin); vũ trụ ảo (Metaverse).
+
+Nhóm công nghệ điện toán đám mây, lượng tử, dữ liệu lớngồm 3 nhóm sản phẩm: Dịch vụ điện toán đám mây; dịch vụ điện toán lượng tử, truyền thông lượng tử; trung tâm dữ liệu quy mô lớn.
+
+Nhóm công nghệ Blockchaingồm 3 nhóm sản phẩm: Tài sản số, tiền số, tiền mã hóa; hạ tầng mạng Blockchain; Hệ thống truy xuất nguồn gốc.
+
+Nhóm công nghệ mạng di động thế hệ sau (5G/6G)gồm 3 nhóm sản phẩm: Thiết bị, giải pháp mạng truy cập vô tuyến 5G/6G theo chuẩn ORAN; thiết bị, giải pháp mạng lõi 5G/6G; thiết bị, giải pháp truyền dẫn IP tốc độ cao.
+
+Nhóm công nghệ robot và tự động hóagồm 4 nhóm sản phẩm: Robot di động tự hành; Robot công nghiệp; hệ thống, dây chuyền chế biến thực phẩm tiên tiến cho các sản phẩm nông - lâm - thủy sản; hệ thống bảo quản và giám sát chất lượng sau thu hoạch.
+
+Nhóm công nghệ chip bán dẫngồm 1 nhóm sản phẩm về chip chuyên dụng, chip AI, chip IoT.
+
+Nhóm công nghệ y - sinh học tiên tiếngồm 3 nhóm sản phẩm: Vaccine thế hệ mới; liệu pháp gen (chỉnh sửa gen) trong y tế và nông nghiệp; liệu pháp tế bào (tế bào gốc, tế bào miễn dịch).
+
+Nhóm công nghệ năng lượng, vật liệu tiên tiếngồm 3 nhóm sản phẩm: Lò phản ứng hạt nhân nhỏ, an toàn; Pin lithium-ion, thể rắn, nhiên liệu, điện phân; vật liệu tiên tiến.
+
+Nhóm công nghệ đất hiếm, đại dương, lòng đấtgồm có 4 nhóm sản phẩm: Hệ thống, thiết bị và giải pháp công nghệ đánh giá trữ lượng, khai thác, tuyển khoáng, tách chiết, tinh chế đất hiếm; hệ thống, giải pháp công nghệ thăm dò địa chất thông minh; thiết bị, giải pháp công nghệ thăm dò và khai thác biển sâu; hệ thống, thiết bị, giải pháp công nghệ khai thác năng lượng ngoài khơi.
+
+Nhóm công nghệ về an ninh mạnggồm 2 nhóm sản phẩm: Giải pháp tường lửa, phát hiện và ngăn chặn xâm nhập; giải pháp đảm bảo an ninh cho hạ tầng quan trọng và cơ sở dữ liệu quốc gia.
+
+Nhóm công nghệ hàng không, vũ trụgồm 3 nhóm sản phẩm: Vệ tinh viễn thám và viễn thông tầm thấp; trạm mặt đất và điều khiển vệ tinh; thiết bị bay không người lái.
+
+Thủ tướng yêu cầu căn cứ nhu cầu phát triền kinh tế - xã hội, Bộ Khoa học và Công nghệ chủ trì, phối hợp với các bộ, cơ quan ngang bộ có liên quan trình Thủ tướng Chính phủ xem xét, quyết định điều chỉnh, bổ sung Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược và Nhóm công nghệ chiến lược theo lĩnh vực.
+
+Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ Quốc phòng, Bộ Công an trình Thủ tướng Chính phủ phê duyệt Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược phục vụ lĩnh vực quốc phòng, an ninh.

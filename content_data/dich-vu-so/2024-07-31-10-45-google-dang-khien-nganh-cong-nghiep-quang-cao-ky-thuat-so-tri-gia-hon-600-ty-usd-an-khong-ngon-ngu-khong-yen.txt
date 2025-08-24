@@ -1,0 +1,41 @@
+Google gần đây đã có những động thái gây bất ngờ đối với người tiêu dùng về việc cân nhắc loại bỏ cookie trong trình duyệt Chrome của mình.
+
+Cookie là các đoạn mã ghi lại hoạt động của người dùng Internet trên các trang web để các nhà tiếp thị có thể nhắm mục tiêu đến họ bằng các quảng cáo có liên quan và theo dõi hiệu quả của chúng. Các loại cookie khác, được gọi là cookie của bên thứ nhất, thu thập các chi tiết cơ bản như thông tin đăng nhập cho các trang web cụ thể.
+
+Người dùng Chrome đã có thể từ chối cookie nhưng chỉ có khoảng 8% làm như vậy, theo ước tính từ công ty công nghệ quảng cáo Index Exchange. Để thực hiện tùy chọn này, người dùng phải tìm kiếm nó trong cài đặt trình duyệt của họ.
+
+Mặc dù Google đã chính thức xác nhận rằng sẽ không loại bỏ cookie trong trình duyệt, tuy nhiên các đoạn mã đã thúc đẩy ngành quảng cáo kỹ thuật số vốn sinh lợi trong nhiều thập kỷ qua có thể sẽ biến mất.
+
+
+
+Thay vì tự mình loại bỏ cookie, Google sẽ chuyển phần việc này sang cho người tiêu dùng. Chrome sẽ cho phép người dùng lựa chọn có chấp nhận bị theo dõi hay không. Sự thay đổi chiến lược diễn ra sau nỗ lực kéo dài 4 năm nhằm ngừng hoạt động và thay thế công nghệ theo dõi - một quá trình bị trì hoãn và phản đối mạnh mẽ bởi toàn ngành quảng cáo.
+
+Các nhà xuất bản trực tuyến và các công ty công nghệ quảng cáo đang khao khát thông tin chi tiết về cách hoạt động của lời nhắc lựa chọn cho người dùng của Google. Cách diễn đạt từ ngữ và thời gian chính xác sẽ ảnh hưởng đáng kể đến số lượng người dùng chọn và lượng dữ liệu mà ngành nhận được.
+
+Ngành quảng cáo lo ngại rằng đơn vị Alphabet sẽ áp dụng lời nhắc nghiêm khắc tương tự như ngôn ngữ “Yêu cầu ứng dụng không theo dõi” mà Apple triển khai vào năm 2021. Theo công ty phân tích di động, người dùng tại Mỹ chọn không theo dõi khoảng 74% số lần họ gặp phải ngôn ngữ này, gây tổn hại cho nhiều người trong lĩnh vực kinh doanh quảng cáo kỹ thuật số.
+
+Chrome của Google là trình duyệt web phổ biến nhất trên thế giới và là trình duyệt chính duy nhất vẫn hỗ trợ cookie. Điều đó khiến nó trở nên cần thiết đối với ngành quảng cáo kỹ thuật số toàn cầu, dự kiến ​​sẽ mang lại chi tiêu hàng năm 677 tỷ USD trong năm nay, theo Insider Intelligence.
+
+Nhà phân tích tiếp thị di động và nhà đầu tư mạo hiểm Eric Seufert cho biết: “Cơ chế từ chối kết hợp với lời nhắc báo trước có thể loại bỏ cookie thông qua chiêu bài lựa chọn của người tiêu dùng”.
+
+Tuy nhiên những cách tiếp cận khác nhau sẽ mang lại những kết quả khác nhau đến từ phía người tiêu dùng. Khi California vào năm 2020 yêu cầu các trang web cho phép người tiêu dùng chọn không bán dữ liệu của họ, nhiều nhà xuất bản chỉ cần đặt một liên kết có nội dung “Không bán hoặc chia sẻ thông tin cá nhân của tôi" ở cuối trang chủ của họ. Chỉ có dưới 1% lượt người truy cập trang web này click vào nút đó.
+
+Rajeev Goel, Giám đốc điều hành của công ty công nghệ quảng cáo PubMatic cho biết, ngành công nghiệp quảng cáo hy vọng Google sẽ xem xét những bài học và thách thức từ những tấm gương trước đây, chẳng hạn như của Apple.
+
+Goel cho biết: “Trong khi ngành đổi mới để cho phép người dùng lựa chọn và bảo vệ quyền riêng tư, chúng tôi phải đảm bảo các giải pháp duy trì tính kinh tế hỗ trợ Internet mở và miễn phí”.
+
+Nếu một lượng lớn người dùng Chrome chọn không sử dụng cookie, điều đó sẽ gây ra hậu quả lớn đối với các công ty công nghệ quảng cáo và nhà xuất bản web thiếu quyền truy cập vào dữ liệu người tiêu dùng. Khi Apple giới thiệu tính năng theo dõi, Facebook đã mất 10 tỷ USD doanh thu chỉ trong năm 2022.
+
+Google vẫn chưa quyết định về từ ngữ và thời gian để triển khai tùy chọn mới, Giám đốc điều hành Google Alex Cone đã phát biểu tại hội nghị của các giám đốc điều hành công nghệ quảng cáo rằng Google vẫn sẽ phát triển và thử nghiệm “Hộp cát bảo mật”, một bộ công nghệ thay thế cho cookie.
+
+Một phát ngôn viên của Google cũng cho biết họ đang khám phá một phương pháp nâng cao sự lựa chọn của người dùng.
+
+Cơ quan quản lý cạnh tranh của Vương quốc Anh, cơ quan đang giám sát các chính sách cookie của Google, cho biết họ sẽ xem xét cẩn thận cách tiếp cận mới của công ty và thu thập phản hồi từ ngành. Google đã đồng ý làm việc với cơ quan quản lý về mọi thay đổi và cho biết họ sẽ áp dụng chúng trên toàn thế giới.
+
+Anthony Katsur, Giám đốc điều hành của IAB Tech Lab, một tập đoàn thương mại công nghệ quảng cáo, cho biết: “Chúng ta có thể rơi vào một thế giới mà cookie không còn được dùng nữa vì người tiêu dùng chọn không tham gia”.
+
+Jeff Green, Giám đốc điều hành của Công ty công nghệ quảng cáo The Trade Desk, một đối thủ cạnh tranh của Google, cho biết: “Thật khó để dự đoán Google sẽ làm gì tiếp theo. Họ bị mắc kẹt giữa việc cố gắng bảo vệ quyền riêng tư đồng thời kiếm tiền từ nội dung thuộc sở hữu của họ như YouTube, trong khi cố gắng xoa dịu các cơ quan quản lý."
+
+Google cho biết họ hứa sẽ không dành bất kỳ ưu đãi nào cho các sản phẩm của chính công ty như một phần trong thỏa thuận với cơ quan quản lý Vương quốc Anh, Cơ quan Cạnh tranh và Thị trường.
+
+Về phần mình, các nhà xuất bản web đã đầu tư vào hệ thống và chiến lược thu thập thông tin về khách hàng của họ để chuẩn bị cho việc loại bỏ cookie. Ông Matt Prohaska, Giám đốc điều hành của Prohaska Consulting, một công ty làm việc với các nhà xuất bản web và thương hiệu, cho biết các nhà xuất bản phụ thuộc nhiều vào doanh thu quảng cáo sẽ gặp khó khăn nhiều nhất. Họ đang cố gắng xác định tác động đến doanh thu của mình nếu Google áp dụng những lời nhắc giống như Apple.

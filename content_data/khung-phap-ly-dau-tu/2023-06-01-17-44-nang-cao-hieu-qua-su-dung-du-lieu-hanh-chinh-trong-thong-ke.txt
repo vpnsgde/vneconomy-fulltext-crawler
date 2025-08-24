@@ -1,0 +1,29 @@
+Hiện nay, Tổng cục Thống kê sử dụng 3 nguồn dữ liệu chính là dữ liệu từ điều tra thống kê, dữ liệu hành chính và chế độ báo cáo thống kê. Trong 3 nguồn này thì việc biên soạn các chỉ tiêu thống kê chủ yếu được lấy từ dữ liệu điều tra thống kê và dữ liệu từ các báo cáo thống kê. Riêng nguồn dữ liệu hành chính chủ yếu khai thác gián tiếp thông qua báo cáo thống kê, cũng như sử dụng kết hợp với nguồn dữ liệu điều tra.
+
+Thời gian qua, Tổng cục Thống kê đã hợp tác với Tổng cục Hải quan trong việc xây dựng quy trình, biểu mẫu và thử nghiệm sử dụng dữ liệu hải quan để sản xuất số liệu thống kê xuất nhập khẩu.
+
+Các cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp cũng đã kết nối liên thông với cơ sở dữ liệu của Tổng cục Thuế nhằm trao đổi, chia sẻ thông tin về đăng ký doanh nghiệp, tình trạng hoạt động, số liệu sản xuất kinh doanh của doanh nghiệp… theo thời gian thực (realtime). Ngoài ra là hoạt động đăng ký hộ tịch hiện đang được thực hiện tại Việt Nam.
+
+Điều này sẽ tạo điều kiện thuận lợi giúp chuyển dịch việc sản xuất một số chỉ tiêu thống kê nhất định từ điều tra thống kê sang sử dụng hồ sơ hành chính, đặc biệt việc sử dụng duy nhất một mã định danh cá nhân sẽ giúp Tổng cục Thống kê xây dựng kho dữ liệu chuỗi thời gian theo chiều dọc (longitudinal time series) trong lĩnh vực thống kê xã hội.
+
+Dù đạt được một số kết quả đáng ghi nhận, song việc sử dụng dữ liệu hành chính trong công tác thống kê hiện nay vẫn gặp một số khó khăn, thách thức.
+
+
+
+Theo Luật Thống kê năm 2015, Dữ liệu hành chính là dữ liệu của cơ quan nhà nước được ghi chép, lưu giữ, cập nhật trong các hồ sơ hành chính dạng giấy hoặc dạng điện tử (Khoản 6, Điều 3, Luật Thống kê năm 2015).
+
+Đó là,trước hết,nguồn dữ liệu hành chính ở Việt Nam đang nằm trải rộng ở tất cả các cơ quan, bộ, ngành gây khó khăn trong việc khai thác nếu không có chế tài cũng như mô hình/quy trình khai thác thích hợp.
+
+Hai là, các bộ ngành chưa triển khai đồng bộ tất cả các cơ sở dữ liệu, cũng như chưa kết nối các thông tin.
+
+Chẳng hạn, Bộ Giáo dục và Đào tạo đã thực hiện được hầu hết các cơ sở dữ liệu về cán bộ; cơ sở dữ liệu ngành về giáo dục mầm non, phổ thông, về giáo dục đại học....; Bộ Nội vụ đã hoàn thành việc xây dựng cơ sở dữ liệu về công chức, viên chức, đang tập huấn cho những người làm công nghệ thông tin của các bộ, ngành. Bộ Công an quản lý dữ liệu dân cư...
+
+Tuy nhiên, việc chia sẻ với các bộ, ngành, kết nối chia sẻ trên NGSP (Hệ thống kết nối, liên thông các hệ thống thông tin ở Trung ương và địa phương) hoặc cung cấp cho người dân/doanh nghiệp vẫn chưa được thực hiện hoặc thực hiện lẻ tẻ...
+
+Ba là,các cơ sở dữ liệu quốc gia và các cơ sở dữ liệu chuyên ngành hiện nay đều chưa có một quy định, hay cơ chế chia sẻ cụ thể, chi tiết và đầy đủ đối với cơ quan thống kê.
+
+Do vậy, để bắt kịp xu thế sử dụng dữ liệu hành chính trong thống kê của thế giới, ngành Thống kê đang nghiên cứu thay thế các quy trình sản xuất số liệu thống kê tốn kém và cồng kềnh bằng các quy trình sản xuất tích hợp giúp tiết kiệm chi phí, thời gian; kết hợp với việc sử dụng mới và mở rộng các nguồn dữ liệu hiện có, dựa nhiều hơn vào các dữ liệu hành chính sẵn có từ các cơ quan Chính phủ.
+
+Cụ thể, tại Luật Thống kê đã quy định rõ: (1) Cơ quan thống kê có trách nhiệm phối hợp với cơ quan quản lý cơ sở dữ liệu hành chính xác định các nội dung dữ liệu trong việc cung cấp dữ liệu trong cơ sở dữ liệu cho hoạt động thống kê nhà nước; (2) Cơ quan thuộc Hệ thống tổ chức thống kê nhà nước có quyền khai thác, sử dụng cơ sở dữ liệu từ nguồn dữ liệu hành chính do cơ quan nhà nước quản lý cho mục đích của hoạt động thống kê; có trách nhiệm sử dụng đúng mục đích thống kê đối với phần cơ sở dữ liệu từ nguồn dữ liệu hành chính được chia sẻ; bảo đảm bảo mật thông tin được chia sẻ theo đúng quy định của pháp luật; (3) Cơ quan nhà nước quản lý cơ sở dữ liệu từ nguồn dữ liệu hành chính có trách nhiệm cung cấp dữ liệu, thông tin theo yêu cầu của cơ quan thuộc Hệ thống tổ chức thống kê nhà nước.
+
+Song để hoạt động thống kê thực sự phát huy hiệu quả, góp phần quan trọng vào công tác hoạch định chính sách, quản lý điều hành tại các cấp chính quyền trung ương và địa phương, tại các bộ, sở, ban ngành thì sự quan tâm chỉ đạo của các cấp lãnh đạo, sự đầu tư thích đáng về nguồn lực, đặc biệt là thực hiện tốt phối hợp hoạt động thống kê nhà nước... là những yếu tố căn bản tạo dựng môi trường hoạt động thống kê hiệu quả.

@@ -1,0 +1,25 @@
+Trong bối cảnh trí tuệ nhân tạo cùng nhiều công nghệ khác ngày càng phát triển, nhu cầu năng lượng của các trung tâm dữ liệu được dự báo sẽ còn tăng lên đáng kể trong những năm tới. Theo đó, Microsoft có kế hoạch đầu tư 100 tỷ USD xây dựng các trung tâm dữ liệu mới để mở rộng cơ sở hạ tầng và tăng công suất cho các ứng dụng AI tiên tiến trong 5 năm tới. Và không chỉ Microsoft, Google và Amazon cũng cho biết sẽ đầu tư mở rộng trung tâm dữ liệu với quy mô tương tự.
+
+Nvidia báo cáo doanh thu từ GPU H100 đã tăng cao trong năm tài chính 2024 và ước tính 2 triệu GPU H100 sẽ được đưa vào sử dụng trong năm nay. Trong khi đó, mỗi GPU H100 có mức tiêu thụ điện năng trung bình là 700W/tháng, điều này đồng nghĩa điện năng tiêu thụ sẽ tăng lên 12,26 TWh trong năm nay.
+
+
+
+Theo tính toán của Bluematrix, năm 2023, điện năng tiêu thụ của các trung tâm dữ liệu toàn cầu là khoảng 524 TWh, dự kiến ​​sẽ tăng lên 1743 TWh vào năm 2030. Báo cáo của công ty này cũng nhấn mạnh những năm tới, các trung tâm dữ liệu sẽ tạo áp lực rất lớn lên điện năng tiêu thụ và lượng khí thải CO2 trên toàn cầu.
+
+Vì vậy, để đáp ứng nhu cầu điện ngày càng tăng, lưới điện phải được mở rộng và hiện đại hóa. Đầu tư vào cơ sở hạ tầng truyền tải và phân phối điện dự kiến ​​sẽ tăng từ 15 tỷ USD vào năm 2023 lên 47 tỷ USD vào năm 2030.
+
+Ngoài ra, nhu cầu về đồng, vật liệu thiết yếu để đấu dây cho các trung tâm dữ liệu, dự kiến ​​sẽ tăng từ 241 kt vào năm 2023 lên 623 kt vào năm 2030. Cụ thể, đến năm 2030, thế giới cần có thêm khoảng 221 nhà máy điện hạt nhân hiện đại có công suất 1 GW.
+
+Cũng theo báo cáo của Bluematrix, lượng khí thải CO2 để tạo ra 1743 TWh điện, đáp ứng nhu cầu các trung tâm dữ liệu đến năm 2030 sẽ xấp xỉ 829 triệu tấn CO2, tương đương với lượng khí thải của ngành công nghiệp sắt thép toàn cầu.
+
+Bên cạnh đó, một loại khí thải cũng đóng góp đáng kể vào tổng lượng khí thải của ngành nhưng dễ bị bỏ qua, đó là khí thải của hoạt động sản xuất máy chủ. Mỗi máy chủ tạo ra khoảng 1300kg CO2 trong quá trình sản xuất. Do đó, việc sản xuất 56,87 triệu máy chủ cần thiết cho nhu cầu đến năm 2030 dự kiến ​​sẽ tạo ra đến 73,931 triệu tấn CO2.
+
+Để ngăn chặn sự phát triển của AI trở thành thảm họa sinh thái, theo ông Yusuf Sar, CEO và sáng lập của Hardwarewartung 24, các trung tâm dữ liệu phải tìm kiếm các giải pháp sáng tạo trực tiếp bảo vệ môi trường thay vì chỉ mua chứng chỉ CO2 hoặc tẩy xanh.
+
+Ông Yusuf Sar cho rằng các nguồn điện bền vững phải được tích hợp ngay từ đầu khi xây dựng các trung tâm dữ liệu. Điều này có thể đòi hỏi phải xây dựng các cơ sở ở những địa điểm có không gian rộng rãi và có nhiều cơ hội cho năng lượng tái tạo.
+
+Ngoài ra, nhằm hạn chế những tác động tiêu cực đến môi trường của sản xuất phần cứng và hậu quả sau 5 năm của các thế hệ GPU cũ bị loại bỏ, các trung tâm dữ liệu nên kéo dài vòng đời phần cứng và tối ưu hóa việc xử lý và tái chế các thiết bị lỗi thời.
+
+Ngành công nghiệp AI và trung tâm dữ liệu có thể thúc đẩy những tiến bộ bền vững, nhưng điều này đòi hỏi các biện pháp chủ động và cam kết về trách nhiệm môi trường ngay từ bây giờ.
+
+Để đạt được điều này, đòi hỏi các bên liên quan cần chủ động thực hiện các biện pháp và cam kết về trách nhiệm với môi trường. Giải quyết những thách thức môi trường từ sớm sẽ để không phải trả giá quá đắt cho hành tinh trước khi AI thay đổi thế giới.

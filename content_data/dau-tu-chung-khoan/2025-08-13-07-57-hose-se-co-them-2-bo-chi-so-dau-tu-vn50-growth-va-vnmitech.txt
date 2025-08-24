@@ -1,0 +1,27 @@
+Sở Giao dịch Chứng khoán Tp.HCM (HOSE) vừa có quyết định ban hành Quy tắc xây dựng và quản lý chỉ số các cổ phiếu VN50 tăng trưởng “Vietnam Growth 50 Index” (VN50 Growth) và quyết định ban hành Quy tắc xây dựng và quản lý chỉ số các cổ phiếu công nghiệp hiện đại và công nghệ “Vietnam Modern Industrials & Technology Index” (VNMITECH).
+
+Đối với chỉ số các cổ phiếu VN50 Tăng trưởng (Vietnam Growth 50 Index), gọi tắt là Chỉ số VN50 Growth bao gồm 50 cổ phiếu thành phần được lựa chọn từ danh sách các cổ phiếu thành phần của chỉ số VNAllshare và đáp ứng các tiêu chí sàng lọc chỉ số.
+
+Cụ thể, các cổ phiếu vào VN50 Growth phải nằm trong VNAllshare và đáp ứng được giá trị vốn hoá điều chỉnh free-float (GTVH_f) tối thiểu 2.000 tỷ đồng và Giá trị giao dịch khớp lệnh (GTGD_KL) tối thiểu 20 tỷ đồng/ngày.
+
+Từ danh sách các cổ phiếu thoả mãn điều kiện trên, 50 mã cổ phiếu có GTVH_f lớn nhất (ưu tiên GTGD_KL cao hơn khi GTVH_f bằng nhau) sẽ được vào rổ chỉ số chính thức. 10 cổ phiếu tiếp theo sẽ vào rổ chỉ số dự phòng.
+
+Tỷ trọng vốn hoá của các cổ phiếu trong rổ sẽ được giới hạn ở một ngưỡng xác định: đối với cổ phiếu đơn lẻ là 10% và đối với nhóm cổ phiếu cùng ngành là 40%.
+
+Đối với chỉ số VNMITECH là Chỉ số các cổ phiếu công nghiệp hiện đại và công nghệ (Vietnam Modern Industrials & Technology Index), bao gồm tối thiểu 30 và tối đa 50 cổ phiếu.
+
+Các cổ phiếu được lựa chọn từ danh sách thành phần của chỉ số ngành VNAllshare Materials (VNMAT), VNAllshare Industrials (VNIND), VNAllshare Information Technology (VNIT) và đáp ứng các tiêu chí sàng lọc chỉ số.
+
+Cụ thể, từ rổ chỉ số VNMAT, VNIND và VNIT xác định tại kỳ xem xét định kỳ gần nhất, bước 1 sẽ chọn ra các cổ phiếu có GTVH_f tối thiểu 1.500 tỷ đồng. Từ danh sách trên, chọn ra các cổ phiếu có GTGD_KL tối thiểu 20 tỷ đồng/ngày ở bước 2.
+
+Nếu có trên 50 mã thoả mãn điều kiện sau bước 2, 50 mã cổ phiếu có GTVH_f lớn nhất (ưu tiên GTGD_KL cao hơn khi GTVH_f bằng nhau) sẽ vào rổ chỉ số chính thức.
+
+Nếu có 30 - 50 mã sau bước 2, tất cả các mã thoả mãn đều bước vào rổ chỉ số chính thức.
+
+Nếu có ít hơn 30 mã, chọn tất cả các mã thoả mãn điều kiện sau Bước 2 và chọn thêm các mã cổ phiếu GTVH_f lớn nhất (ưu tiên GTGD_KL cao hơn khi GTVH_f bằng nhau) từ danh sách cổ phiếu thoả mãn điều kiện sau bước 1 cho đến khi đủ 30 mã vào rổ chỉ số chính thức.
+
+Về tỷ trọng vốn hoá, áp dụng ngưỡng 15% với cổ phiếu đơn lẻ và 25% với nhóm cổ phiếu chọn từ VNMAT, không áp dụng theo nhóm với các cổ phiếu được lựa chọn từ VNIND và VNIT.
+
+Điểm cơ sở của hai chỉ số đầu tư trên là 1.000. Danh mục cổ phiếu thành phần sẽ được xem xét định kỳ vào ngày giao dịch cuối cùng của tháng 12 và tháng 6 hàng năm;Cập nhật thông tin định kỳ hàng quý vào ngày giao dịch cuối cùng của tháng 12-3-6-9 với các thông tin như tỷ lệ free-float, khối lượng lưu hành, giới hạn tỷ trọng vốn hoá, giới hạn trọng số tăng trưởng/thanh khoản của cổ phiếu.
+
+Trong khoảng thời gian từ ngày chốt dữ liệu đến ngày hiệu lực, rổ chỉ số chính thức và rổ chỉ số dự phòng sẽ tiếp tục được cập nhật, loại các cổ phiếu rơi vào diện bị cảnh báo do vi phạm công bố thông tin, diện kiểm soát, hạn chế giao dịch, tạm ngừng giao dịch (ngoại trừ tạm ngừng giao dịch do thực hiện sử kiện doanh nghiệp dưới 30 ngày giao dịch), đình chỉ giao dịch, cổ phiếu bị huỷ bỏ niêm yết.

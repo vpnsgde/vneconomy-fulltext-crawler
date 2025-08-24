@@ -1,0 +1,27 @@
+Tuần trước, Trung tâm Gene học Y tế tại Bệnh viện Ramathibodi, Thái Lan đã xác nhận ca thứ hai ở Thái Lan nhiễm biến thể BA.2.75.2, một biến thể phụ của Omicron, sau trường hợp thứ nhất được thông báo trước đó. BA.2.75.2 tiến hóa từ BA.2.75, bắt đầu lây lan ở Ấn Độ hồi tháng 5 và là chủng biến đổi nhiều nhất so với các chủng khác gây Covid-19 ở Ấn Độ.
+
+Tờ Time ngày hôm qua cho biết, biến thể BA.2.75 không có cơ hội lan rộng trong thời gian qua khi BA.5 “thống trị” thế giới. Nhưng dòng phụ BA.2.75.2 của nó lại đang là mối đe dọa lớn vì sở hữu hai đột biến giúp nó dễ dàng bám chặt và xâm lấn vào tế bào con người. Tệ hơn nữa, chủng virus này có khả năng né tránh hàng rào miễn dịch mạnh mẽ có được nhờ tiêm vaccine và nhiễm virus trước đó. Điều đó khiến các phương pháp điều trị bằng kháng thể trở nên kém hiệu quả hơn.
+
+BA.2.75.2 đã chọn ra ba đột biến bổ sung từ BA.2.75, hai trong số đó là nơi virus liên kết với tế bào người để lây nhiễm. Theo một nghiên cứu của các nhà nghiên cứu Thụy Điển được công bố vào ngày 16/9 những đột biến này đang giúp BA.2.75.2 tránh được tất cả các phương pháp điều trị kháng thể hiện có được Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) cho phép, ngoại trừ phương pháp bebtelovimab.
+
+Phương pháp điều trị bằng kháng thể đơn dòng này được truyền qua đường tĩnh mạch cho những người có các triệu chứng Covid-19 từ nhẹ đến trung bình, những người có nguy cơ cao tiến triển thành bệnh nặng hơn. Nhưng vì thuốc chỉ nhắm mục tiêu vào một phần cụ thể của protein đột biến của virus, nên hiện không có gì đảm bảo rằng virus cũng sẽ không phát triển các đột biến để trốn tránh nó.
+
+Trước đó, vào ngày 7/9 trên Tạp chí Y học New England, các nhà khoa học Nhật Bản cũng đã báo cáo những phát hiện đáng khích lệ hơn một chút trong các thử nghiệm của họ về BA.2.75 so với các phương pháp điều trị có sẵn. Họ cũng phát hiện ra rằng bebtelovimab có thể vô hiệu hóa biến thể và cũng báo cáo rằng một số phương pháp điều trị kháng virus đầu tiên được phát triển — remdesivir và molnupiravir — cũng như phương pháp mới nhất, Paxlovid, cũng vẫn có hiệu quả.
+
+Nhưng “xuyên thủng” sức đề kháng là một đặc điểm của BA.2.75.2, đó là lý do tại sao các quan chức y tế lo ngại. Các nhà khoa học Thụy Điển cũng báo cáo rằng:
+
+
+
+Họ cũng phát hiện ra rằng BA.2.75.2 có khả năng chống lại liệu pháp kết hợp kháng virus Evusheld. Kết hợp lại với nhau, các nhà khoa học kết luận, biến thể này “tránh một cách hiệu quả khả năng miễn dịch hiện tại trong quần thể” và “đại diện cho các biến thể kháng thuốc đặc trưng nhất cho đến nay”.
+
+Theo SCMP, một nhóm các nhà nghiên cứu từ Đại học Hoàng gia London, Viện Karolinska và Đại học Cape Town đã xác định BA.2.75.2 khó vô hiệu hóa gấp 6,5 lần so với BA.5. Các nhà nghiên cứu cho biết trong một bài báo trên trang bioRxiv.org: “Những dữ liệu này làm dấy lên lo ngại rằng BA.2.75.2 có thể né tránh hiệu quả khả năng miễn dịch cộng đồng”. Tổ chức Y tế Thế giới (WHO) cũng cho biết đang theo dõi BA.2.75 và các biến phụ khác trong bối cảnh virus SARS-CoV-2 tiếp tục lưu hành trên khắp thế giới.
+
+Theo tờ Time, cho đến nay, chủng mới này đã được báo cáo ở 47 quốc gia và 39 tiểu bang của Hoa Kỳ, nơi nó vẫn chiếm ít hơn 1% các trường hợp Covid-19. Tuy nhiên, điều này cũng từng xảy ra với các biến thể phụ của Omicron khác trong quá khứ và sau này đã chiếm ưu thế trên toàn thế giới. Nếu BA.2.75.2 trở nên phổ biến trong mùa đông tới, biến thể phụ này có thể làm giảm hiệu quả của các mũi vaccine nhắc lại của Moderna và Pfizer.
+
+Trước sự biến đổi không ngừng của virus SARS-CoV-2, các hãng sản xuất vaccine đã và đang chạy đua, "cập nhật" vaccine của mình trước các biến thể phụ mới. Mới đây, TS Paul Burton, Giám đốc Y tế của Moderna đã chia sẻ thông tin ban đầu về 2 loại vaccine tăng cường mới của hãng. Trong đó, mRNA-1273.214 có hiệu quả bảo vệ trên cả chủng virus ban đầu và biến thể phụ BA.1 của Omicron. Vaccine này đã được phê duyệt tại Vương quốc Anh, Thụy Sỹ, Liên minh châu Âu, Hàn Quốc, Nhật Bản, Đài Loan, Australia và mới đây là Singapore.
+
+Vaccine còn lại, mRNA-1273.222, có thể kích hoạt phản ứng miễn dịch chống lại biến thể phụ BA.4 và BA.5. Vaccine này chỉ mới được phê duyệt tại Mỹ vào ngày 31/8, nhằm củng cố miễn dịch cho người dân trước mùa Thu – Đông năm nay. TS Burton cho hay, ngay cả liều vaccine dành cho BA.1 cũng tạo phản ứng miễn dịch tốt trước biển thể phụ BA.4 và BA.5. Phía Moderna tin rằng, đây là tín hiệu tốt, đặc biệt trong bối cảnh các biến thể dòng phụ thế hệ thứ hai như BA.2.75.2 có khả năng lây lan nhanh, vượt qua cả hàng rào miễn dịch tự nhiên và các phiên bản vaccine trước đây.
+
+David Montefiori, nhà miễn dịch học tại Trung tâm Y tế Đại học Duke, người giám sát việc thử nghiệm hiệu quả của vaccine mRNA của Moderna đối với các biến thể mới, hiện đang nghiên cứu cách mẫu máu của những người được miễn dịch bằng vaccine Moderna chống lại BA.2.75.2. Trong các nghiên cứu trước đó chống lại BA.2.75, kết quả rất đáng khích lệ.
+
+Trong một bài báo đăng trên Tạp chí Y học New England vào ngày 9/9, ông và nhóm của mình đã báo cáo rằng mặc dù mức độ kháng thể chống lại virus đối với BA.2.75 thấp hơn 4 lần so với mức chống lại virus ban đầu ở những người được tiêm vaccine Moderna, nhưng chúng vẫn hiệu quả. “Tuy nhiên, ba đột biến bổ sung của BA.2.75.2 có thể làm cho virus kém nhạy cảm hơn với quá trình trung hòa”, ông nói. “Chúng tôi sẽ kiểm tra và phải tìm ra giải pháp”. Kết quả của những nghiên cứu này, được thực hiện bởi cả Moderna và Viện Y tế Quốc gia, dự kiến sẽ có vào tháng 10.

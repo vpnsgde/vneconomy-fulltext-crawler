@@ -1,0 +1,35 @@
+Nhờ ứng dụng trí tuệ nhân tạo từ rất sớm và rộng rãi trong quy trình hoạt động của TPBank đang góp phần định hình nên một quan niệm mới về dịch vụ ngân hàng trong tương lai.
+
+Chia sẻ tại phiên thảo luận về ứng dụng trí tuệ nhân tạo (AI) trong hoạt động ngân hàng, thuộc khuôn khổ "Ngày hội Trí tuệ nhân tạo Việt Nam" cuối tuần trước, Tổng giám đốc TPBank Nguyễn Hưng cho biết AI, Machine Learning (học máy) hay Deep Learning (học sâu) đang đóng vai trò quan trọng trong quá trình số hóa, nâng cao trải nghiệm khách hàng và cải tiến quy trình hoạt động ở TPBank.
+
+"Trên 80% ứng dụng công nghệ mới của TPBank có sử dụng AI," ông Hưng chia sẻ.
+
+Một trong những công nghệ mới nhất của TPBank có ứng dụng AI được ông Hưng nhắc đến là khả năng nhận diện khách hàng qua khuôn mặt của hệ thống ngân hàng tự động LiveBank. Với khả năng này, TPBank là ngân hàng duy nhất nhận ra ngay được khách hàng khi bước vào quầy giao dịch tự động, mà không cần yêu cầu khách xuất trình giấy tờ tùy thân hay thẻ ngân hàng.
+
+"AI không chỉ làm gia tăng thêm những lợi ích sử dụng cho khách hàng như đơn giản hóa thủ tục, rút ngắn thời gian giao dịch, mà còn ngăn chặn hiệu quả các hành vi gian lận, giả mạo", ông Nguyễn Hưng, CEO TPBank cho biết.
+
+"Nhận diện khuôn mặt tại LiveBank không giống như tính năng Face ID trên điện thoại. Điện thoại của chúng ta chỉ nhận diện 1 khuôn mặt, còn hệ thống của chúng tôi phải nhận diện chính xác khuôn mặt của khách hàng đó trong số hàng triệu khách hàng của chúng tôi. Không thể là so sánh các khuôn mặt với nhau. Có đến 128 thông số trên khuôn mặt để nhận biết có chính xác là khách hàng đó hay không. Điều đó phải dùng AI mới làm được," Tổng giám đốc TPBank tiết lộ.
+
+Công nghệ AI của TPBank trong nhận diện khuôn mặt còn hoạt động hiệu quả tới mức, một cá nhân sử dụng 9 chứng minh thư giả mở tài khoản tại các LiveBank khác nhau với mục đích xấu nhưng đã bị hệ thống từ chối do phát hiện ra đó chỉ là một người.
+
+Ông Hưng cho biết AI không chỉ mang gia tăng thêm những lợi ích sử dụng cho khách hàng như đơn giản hóa thủ tục, rút ngắn thời gian giao dịch, mà còn ngăn chặn hiệu quả các hành vi gian lận, giả mạo.
+
+Tại buổi thảo luận, các chuyên gia đều khẳng định rằng sự phát triển của công nghệ, mức độ cạnh tranh trên thị trường đang ngày càng nóng, và đòi hỏi ngày càng khắt khe của khách hàng đã dẫn đến nhu cầu cấp thiết ứng dụng AI hay những công nghệ khác như machine learning và deep learning.
+
+Ông Nguyễn An Nguyên, Giám đốc điều hành Trusting Social, nhận định rằng các công nghệ mới như AI hay Big Data sẽ giúp các ngân hàng cải thiện chất lượng dịch vụ và đưa dịch vụ ngân hàng tới nhiều khách hàng hơn ở mọi thời điểm. Trong suốt 2 năm qua, Trusting Social đã cung cấp hạ tầng kỹ thuật số cho một số ngân hàng để phát triển hệ thống đánh giá điểm tín dụng của khách hàng và giải pháp eKYC. Tất cả các hệ thống đó đều cần ứng dụng AI và machine learning.
+
+Tuy nhiên, sử dụng AI như thế nào không phải là chuyện đơn giản. Lãnh đạo một ngân hàng cho hay, mặc dù nhận thức được tầm quan trọng của AI, nhưng khi đi vào vận hành thì cả năm vẫn chật vật vì không thể "dạy dỗ" được AI hoạt động theo ý muốn, dù đã sử dụng rất nhiều dữ liệu. Chưa kể, bài toán lựa chọn công nghệ để đầu tư cũng là câu chuyện đau đầu.
+
+Tổng giám đốc TPBank kể rằng trước đây ngân hàng từng muốn mua công nghệ nhận dạng ký tự quang học (OCR) từ bên ngoài để số hóa các tài liệu, nhưng chi phí khá đắt đỏ và công nghệ cũng không phải là mới nhất.
+
+Công nghệ AI của TPBank trong nhận diện khuôn mặt còn hoạt động hiệu quả tới mức, một cá nhân sử dụng 9 chứng minh thư giả mở tài khoản tại các LiveBank khác nhau với mục đích xấu nhưng đã bị hệ thống từ chối do phát hiện ra đó cùng là một người.
+
+"Chúng tôi đã tự nghiên cứu ứng dụng công nghệ và huấn luyện dữ liệu cho AI và đã có được hệ thống OCR với chất lượng cao hơn nhiều," ông Hưng cho biết.
+
+Nhờ ứng dụng AI vào công nghệ nhận dạng ký tự OCR, trong năm 2020 đã có hơn 1 triệu trang tài liệu, hồ sơ tại TPBank được nhận dạng và bóc tách dữ liệu tự động, giúp giảm thiểu tối đa sai sót do con người gây ra và tăng tốc độ xử lý hồ sơ, rút ngắn thời gian chờ đợi cho khách hàng. Dự kiến trong năm 2021, số trang tài liệu được xử lý tự động nhờ công nghệ OCR có sử dụng AI sẽ tăng lên 20 triệu trang.
+
+Những lợi ích do AI mang lại như rút ngắn thời gian xử lý hồ sơ, nhận diện khách hàng, nâng cao năng suất và giảm chi phí, người hưởng lợi cuối cùng sẽ là khách hàng. Điều đó có thể lý giải vì sao một ngân hàng tư nhân như TPBank lại có thể miễn phí gần như toàn bộ giao dịch trên các kênh số hóa cho khách hàng.
+
+Theo ông Hưng, những công nghệ mới như AI, machine learning hay deep learning đang định hình lại quan niệm về dịch vụ ngân hàng trong tương lai.
+
+"Chúng ta không thể đến một ngân hàng truyền thống để mở xong tài khoản, làm xong thẻ, đổi mã PIN để sử dụng ngay mà chỉ trong 10 phút. Cũng không có một ngân hàng truyền thống nào có thể nhận biết ngay được khách hàng khi bước vào quầy và không cần thêm bất kỳ giấy tờ tùy thân hay thẻ. Vậy mà hệ thống chúng tôi lại làm được," ông Hưng nhấn mạnh.

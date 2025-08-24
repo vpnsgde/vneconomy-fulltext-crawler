@@ -1,0 +1,19 @@
+Một nhà nghiên cứu bảo mật Goodbyeselene của Zero Day Initiative đã xác định được một lỗ hổng trong tiện ích WinRAR, một công cụ lưu trữ và nén tệp được sử dụng rộng rãi cho Windows. Tiện ích này được phát hiện có lỗ hổng nghiêm trọng cao, được gắn nhãn là CVE-2023-40477. Lỗ hổng cho phép thực thi mã tùy ý từ xa trên máy tính khi mở tệp lưu trữ RAR được chế tạo đặc biệt với điểm CVSS là 7,8.
+
+Điểm CVSS được tính bằng công thức bao gồm các chỉ số dựa trên lỗ hổng. Điểm CVSS được lấy từ điểm trong ba nhóm này: Cơ sở, Tạm thời và Môi trường. Thang điểm nằm trong khoảng từ 0 đến 10, với số 0 biểu thị mức độ ít nghiêm trọng nhất và 10 biểu thị mức độ nghiêm trọng nhất.
+
+Lỗ hổng đã được root trong quá trình xử lý khối lượng thu hồi. Nó phát sinh do không đủ xác thực dữ liệu do người dùng cung cấp. Do đó, điều này có thể dẫn đến việc truy cập bộ nhớ vượt quá giới hạn của bộ đệm được phân bổ.
+
+Trước đó, lỗ hổng đã được RARLAB chú ý vào ngày 8/6/2023, bởi một nhà nghiên cứu có tên là Goodbyeselene từ Zero Day Initiative. Theo mô tả trong tư vấn của Zero Day Initiative, lỗ hổng này cho phép kẻ tấn công từ xa thực thi tùy ý mã trên các bản cài đặt RARLAB WinRAR bị ảnh hưởng.
+
+Ông Trần Minh Trí, Giám đốc vận hành Công ty cổ phần tin học Mi2, cho biết kẻ tấn công thực thi khởi tạo các “craft rar file” và phân phát tới người dùng. Người dùng đang sử dụng phiên bản có lỗ hổng và mở các file này sẽ dễ bị tấn công. Từ đó, kẻ tấn công có thể thực thi chạy mã tùy ý trên máy tính của người dùng. Và khả năng tấn công và khai thác là không khó và đây được xem là lỗ hổng bảo mật mức cao và tiềm ẩn nguy cơ người dùng bị tấn công cũng rất cao.
+
+Để giải quyết lỗ hổng này, WinRAR đã phát hành phiên bản 6.23. Người dùng WinRAR được khuyến khích cập nhật phần mềm của họ để ngăn chặn khả năng bị các tác nhân độc hại khai thác. Hiện tại, Microsoft đang thử nghiệm hỗ trợ riêng trên Windows 11 cho các tệp RAR, 7-Zip và GZ. Vì vậy, phần mềm của bên thứ ba như WinRAR sẽ không thực sự cần thiết trừ khi người dùng cần các tính năng nâng cao của nó.
+
+Để chủ động bảo vệ, chuyên gia Trần Minh Trí cũng khuyến cáo người dùng người dùng và tổ chức cần chủ động cập nhật WinRAR lên phiên bản mới nhất (tối thiểu phiên bản WinRAR 6.23 final released) để vá lỗ hổng bảo mật này.
+
+Trong trường hợp chưa cập nhật lên được phiên bản mới nhất đã đề cập, người dùng cần để ý không mở các file nén (RAR) được gửi/chia sẻ từ người lạ. Hiện nay, chi tiết kỹ thuật khai thác lỗ hổng chưa được công bố nên hầu hết các hệ thống bảo mật chưa có được mẫu (signature) để phát hiện và ngăn chặn tấn công vào lỗ hổng bảo mật này.
+
+Ngoài ra, khuyến cáo các tổ chức chủ động áp dụng các biện pháp giám sát an ninh nâng cao để phát hiện các bất thường và ứng phó trong các trường hợp kẻ tấn công khai thác và thực thi các hành vi bất thường trên máy/hệ thống đích.
+
+Đồng thời, thực hiện lập lịch update thường xuyên các hệ thống bảo mật (Anti-Malware, EDR, Firewall/IPS/Email Gateway/Web Gateway, ...) để có thể cập nhật bộ nhận diện tấn công ngay khi các nhà cung cấp release ra.

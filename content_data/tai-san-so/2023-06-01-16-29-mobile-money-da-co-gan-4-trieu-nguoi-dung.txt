@@ -1,0 +1,15 @@
+Theo thống kê của Cục Viễn thông (Bộ Thông tin và Truyền thông), Việt Nam đã có hơn 3,9 triệu người sử dụng dịch vụ Mobile Money, tăng 6,3% so với tháng 3/2023 và gấp 3 lần so với cùng kỳ tháng 4/2022. Đặc biệt, số lượng người dùng Mobile Money tại nông thôn, miền núi, vùng sâu, vùng xa đạt hơn 2,7 triệu khách hàng, chiếm 69% số người sử dụng dịch vụ.
+
+Hiện cả nước có 9.953 điểm kinh doanh dịch vụ Mobile Money, tăng 12% so với tháng 3/2023. Số lượng đơn vị chấp nhận thanh toán qua hình thức Mobile Money đạt 15.326 điểm, tăng 0,2%. Tổng số lượng các giao dịch (nạp, rút, chuyển tiền, thanh toán) bằng Mobile Money là hơn 26,1 triệu giao dịch, với tổng giá trị giao dịch hơn 1.683 tỷ đồng.
+
+Trong 3 tháng đầu năm 2023, hoạt động thanh toán không dùng tiền mặt tiếp tục tăng trưởng khá so với cùng kỳ. Số lượng giao dịch qua hệ thống thanh toán điện tử liên ngân hàng tăng 8,55% về giá trị. Số lượng giao dịch qua hệ thống chuyển mạch tài chính và bù trừ điện tử tăng 70,77% về số lượng và tăng 18,55% về giá trị.
+
+Đáng chú ý, đang có sự chuyển dịch mạnh mẽ từ rút tiền mặt sang thanh toán không tiền mặt. Số lượng giao dịch qua POS tăng 37,57% về số lượng và tăng 32,09% về giá trị, giao dịch qua ATM tiếp tục giảm 2,37% về số lượng và giảm 4,02% về giá trị. Đến cuối tháng 3, toàn thị trường có 21.347 máy ATM và có 430.625 máy POS; tăng tương ứng 3,88% và 26,34% so với cùng kỳ năm 2022.
+
+Một điểm đáng chú ý là những giải pháp thanh toán mới, hiện đại, tiết kiệm chi phí như thanh toán qua mã phản hồi nhanh (QR code), thanh toán phi tiếp xúc (contactless)… đã được các ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán áp dụng, tích hợp vào trong sản phẩm, dịch vụ để nâng cao tiện ích, an toàn bảo mật. Qua đó góp phần phổ biến thanh toán không tiền mặt đến với người dân và doanh nghiệp.
+
+Mobile Money là dịch vụ dùng tài khoản viễn thông thanh toán cho các hàng hóa, dịch vụ có giá trị nhỏ. Khác với các ví điện tử thông thường, Mobile Money cung cấp cho người dùng một tài khoản gắn liền với thuê bao di động mà không cần đến tài khoản ngân hàng. Tài khoản này tương tự như tài khoản viễn thông, nhưng được phép sử dụng để chuyển tiền, thanh toán dịch vụ, hàng hóa hợp pháp tại Việt Nam.
+
+Dịch vụ Mobile Money được Ngân hàng Nhà nước cấp phép triển khai thí điểm trên phạm vi toàn quốc trong thời gian 2 năm, từ 18/11/2021 đến 18/11/2023.
+
+Trong thời gian tới, bằng cách phối hợp kết nối các nhà mạng với hệ sinh thái sẵn có, Cục Viễn thông sẽ đẩy mạnh dịch vụ Mobile Money tại các huyện đảo xa đất liền để tăng số lượng các điểm cung cấp dịch vụ Mobile Money.

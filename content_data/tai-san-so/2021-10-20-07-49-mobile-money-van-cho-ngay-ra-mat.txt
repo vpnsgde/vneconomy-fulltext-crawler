@@ -1,0 +1,35 @@
+Tại tọa đàm bàn về các giải pháp phát triển mobile money tại Việt Nam do Tổ tư vấn kinh tế của Thủ tướng tổ chức mới đây, đại diện Bộ Thông tin và Truyền thông cho hay, dịch vụ tiền di động mobile money từng nhận được nhiều kỳ vọng; song dịch vụ này tới nay vẫn chưa thể ra mắt.
+
+“Qua nhiều lần điều chỉnh, các nhà mạng đang tiếp tục hoàn thiện đề án thí điểm để có thể sớm được thông qua”, ông Hải chia sẻ.
+
+Cụ thể, theo ông Trần Duy Hải, thời gian qua, Bộ Thông tin và Truyền thông đã phối hợp với Bộ Công an cùng các nhà mạng rà soát thông tin khách hàng để xử lý nạn SIM rác, từng bước tiến tới định danh điện tử như chữ ký công dân, nhận diện sinh trắc học…
+
+Liên quan tới những lo ngại về việc nạp tiền di động, tài khoản thuê bao có thể nhân đôi, nhân ba, đại diện Bộ Thông tin và Truyền thông cho biết đề án thí điểm có tách bạch giữa tài khoản sim thuê bao và tài khoản mobile money, trong đó quy định rõ tiền nạp vào tài khoản mobile money sẽ như tài khoản ngân hàng, không thể “nhân tiền” như các chương trình khuyến mãi tiền nạp vào tài khoản di động.
+
+“Bộ Thông tin và Truyền thông sẽ phối hợp với Ngân hàng Nhà nước để làm rõ nội dung này. Trong đó, Ngân hàng Nhà nước sẽ là cơ quan quản lý tài khoản mobile money”, ông Hải nêu rõ.
+
+Ngoài ra, Bộ Thông tin và Truyền thông cũng sẽ nghiên cứu, đẩy mạnh dịch vụ mobile money cho điện thoại “cục gạch” để dịch vụ thanh toán không dùng tiền mặt có thể tới được bà con các vùng sâu, vùng xa.
+
+Ở góc độ nhà mạng cung cấp dịch vụ mobile money, ông Ngô Diên Hy, Phó Tổng giám đốc Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT) cho rằng việc rà soát SIM rác để làm rõ kho số và SIM thực tế được kích hoạt là cần thiết không chỉ đối với dịch vụ mobile money mà còn có ý nghĩa với việc tiến tới phổ cập chữ ký số công dân trong bối cảnh Chính phủ đẩy mạnh chuyển đổi số.
+
+Tuy vậy, vấn đề khiến ông Hy băn khoăn hiện nay đó là mobile money sẽ đưa về vùng sâu vùng xa, đòi hỏi đầu tư hạ tầng ban đầu như hệ thống merchant, mạng lưới điểm kinh doanh… là rất lớn.
+
+“Vậy cơ chế hợp tác, chia sẻ đầu tư giữa nhà mạng với nhà mạng, giữa nhà mạng với các đối tác, doanh nghiệp tận dụng cơ sở hạ tầng sẵn có này sẽ như thế nào để mang lại hiệu quả đầu tư cao nhất cho đồng vốn của nhà nước?”, ông Hy đặt câu hỏi.
+
+Theo ông Hy, tính đến thời điểm này, VNPT đã có hơn 3.500 điểm dịch vụ công sử dụng nền tảng thanh toán CDVCQG, 7.500 cơ sở y tế sử dụng hệ thống quản lý bệnh viện HIS, 30.000 trường học sử dụngmạng giáo dục VNEdu, 13.000 nhà thuốc sử dụng nền tảng quản lý nhà thuốc VNPT Pharmacy và 150.000 điểm thanh toán QR Code…
+
+Trước những cơ hội và thách thức đan xen nhau trong phát triển mobile money, ông Trương Văn Phước, thành viên Tổ tư vấn kinh tế của Thủ tướng, nguyên Quyền Chủ tịch Ủy ban Giám sát tài chính Quốc gia cho rằng quan điểm về tiền di động – mobile money sẽ là yếu tố quan trọng nhất tác động tới tiến trình phát triển của dịch vụ này.
+
+“Sự phát triển vượt bậc của khoa học công nghệ và công nghệ thông tin đã làm thế giới thay đổi nhanh chóng, làm cho khái niệm thanh toán của ngân hàng trở nên hạn hẹp”, ông Phước nhấn mạnh và cho rằng “thanh toán không dùng tiền mặt không đơn thuần chỉ là không dùng tiền mặt mà là tạo cơ hội cho người Việt Nam tiếp cận những dịch vụ mà ngân hàng không đáp ứng được”.
+
+Tuy vậy, câu hỏi sâu xa, theo vị chuyên gia, đó là “tiền điện tử có tạo nên số nhân tiền tệ hay không, có tạo lạm phát không, có tạo cung tiền không và ai sẽ là người quản lý những thứ này?”.
+
+Hiện nay, theo Quỹ Tiền tệ quốc tế (IMF), nếu dùng điện thoại di động tiếp cận dịch vụ truyền thống của ngân hàng thì đó là mobile banking, còn dưới hình thức giá trị do nhà mạng tạo ra thì đó là mobile money. Trong tiến trình phát triển, dịch vụ mobile money sẽ tự lựa chọn cách thức quản lý đặc thù, phù hợp với thực tiễn phát triển của dịch vụ mobile money.
+
+Còn dưới góc nhìn của ông Nguyễn Đức Kiên, Tổ trưởng Tổ tư vấn kinh tế của Thủ tướng, dịch vụ mobile money tập trung hướng tới người thu nhập thấp, khó/ít có khả năng tiếp cận dịch vụ truyền thống của các tổ chức tín dụng truyền thống. Hay nói cách khác, các nhà mạng đã tạo ra sân chơi mới trong nhiều lĩnh vực dịch vụ tài chính mà trước đây chúng ta nghĩ chỉ có các công ty tài chính.
+
+Mặc dù, mobile money khác mobile banking song theo ông Nguyễn Đức Kiên, hai dịch vụ này vẫn có điểm giao thoa và cần được đối xử bình đẳng để mở rộng hệ sinh thái dịch vụ tài chính, hướng tới tài chính bền vững cho mọi người dân ở các vùng địa lý khác nhau.
+
+Dẫu vậy, mobile money hiện nay đan xen với nhiều hành lang pháp lý khác nhau từ An ninh mạng, Đầu tư, Đầu tư công, Quản lý sử dụng vốn Nhà nước, Công nghệ Thông tin… Do đó, triển khai mobile money trước hết nên bắt đầu từ cơ chế thí điểm sandbox, sau đó tiến tới xây dựng nghị định và luật liên quan.
+
+“Tuy vậy, cần lưu ý, bằng việc ban hành Nghị định 10/2020/NĐ-CP thay thế Nghị định 86/2014/NĐ-CP quy định điều kiện kinh doanh vận tải bằng ô tô, chúng ta phải mất tới 4 năm mới có hành lang pháp lý cho mô hình kinh tế chia sẻ cho Uber hay Grab”, ông Kiên khuyến nghị.

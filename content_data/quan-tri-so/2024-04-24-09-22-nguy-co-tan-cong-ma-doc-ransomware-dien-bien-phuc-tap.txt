@@ -1,0 +1,45 @@
+Chiều 23/4, Trung tâm Chuyển đổi số TP.HCM tổ chức Hội thảo “Nguy cơ và giải pháp phòng chống tấn công mã độc mã hóa dữ liệu (Ransomware)”.
+
+Tại hội thảo, Phó Giám đốc Sở Thông tin và Truyền thông TP.HCM Võ Minh Thành cho biết, do tội phạm đã ngày một tinh vi hơn, thời gian qua, trên địa bàn Thành phố đã xảy ra nhiều vụ việc liên quan đến mã độc Ransomware.
+
+Ransomware là một dạng phần mềm độc hại chuyên mã hóa dữ liệu hoặc khóa quyền truy cập thiết bị của người dùng. Để được trả lại quyền truy cập thiết bị hoặc dữ liệu, người dùng phải trả cho hacker một khoản tiền nhất định, gọi là tiền chuộc.
+
+Theo ông Thành, thời gian qua, trên địa bàn TP.HCM xảy ra nhiều vụ việc liên quan đến mã độc Ransomware do tội phạm đã tinh vi hơn. Phần lớn hoạt động tấn công có chủ đích, lợi dụng sơ hở của người sử dụng để thực hiện hành vi phạm tội.
+
+Thống kê của Bộ Thông tin và truyền thông cho thấy, trong ba tháng qua, các hệ thống thông tin tại Việt Nam đã chịu 2.323 cuộc tấn công mạng. Xu hướng tấn công mạng, đặc biệt là tấn công mã hóa dữ liệu tống tiền có xu hướng tăng cao. Theo đó, cứ 11 giây sẽ có một tổ chức trở thành mục tiêu của mã độc Ransomware.
+
+Thực tế, có rất nhiều giải pháp tổng thể và đồng bộ, thường xuyên, liên tục nhưng các cá nhân, tổ chức, cơ quan đoàn thể, doanh nghiệp cần phải quan tâm hơn nữa đến việc bảo vệ an toàn thông tin.
+
+"Do đó, mỗi đơn vị cần có kế hoạch phục hồi sau sự cố và thực hiện các biện pháp pháp lý đầy đủ, công tác đấu tranh phòng chống tội phạm cần được nâng cao. Cùng với đó, cần có sự phối hợp liên quan giữa các cơ quan, ban ngành, các chuyên gia nhằm đưa ra giải pháp tốt nhất để bảo đảm an toàn thông tin", Phó Giám đốc Sở Thông tin và Truyền thông TP.HCM Võ Minh Thành đề nghị.
+
+Tại hội thảo, Phó giám đốc Trung tâm Chuyển đổi số TP.HCM Nguyễn Đức Chung cho biết, trong quý 1/2024, Trung tâm Dữ liệu TP.HCM đã xảy ra 12.745.681 vụ tấn công thu thập thông tin, 1.858 vụ tấn công lây nhiễm và phát tán mã độc. Điều này cho thấy các vụ tấn công vào các hệ thống TP.HCM vẫn đang diễn biến phức tạp.
+
+Tại Việt Nam, trong 3 tháng đầu năm 2024, số sự cố tấn công mạng vào các hệ thống thông tin tại Việt Nam là 2.323 cuộc, hàng loạt đơn vị tài chính, ngân hàng, hành chính công,... đã bị tấn công làm gián đoạn hoạt động, gây thiệt hại về vật chất và giảm uy tín đối với tổ chức, doanh nghiệp.
+
+Hiện, Trung tâm Dữ liệu TP.HCM có khoảng 1.200 máy chủ đang vận hành, 380 hệ thống đang triển khai, trong đó có hệ thống dùng chung, trang thông tin điện tử Hochiminhcity và các trang thành viên, các ứng dụng của sở, ngành, UBND quận, huyện và TP. Thủ Đức.
+
+Về mạng truyền số liệu, số lượng đường truyền kết nối có 807 điểm đường truyền chính (Metronet) và 47 điểm dự phòng, kết nối an toàn về Trung tâm Dữ liệu Thành phố. Băng thông đường truyền với tốc độ từ 01 Mbps đến 200 Mbps theo nhu cầu sử dụng thực tế.
+
+TP.HCM cũng đã triển khai giải pháp bảo vệ tới 68 cơ quan, đơn vị Nhà nước trên địa bàn Thành phố với hơn 12.500 thiết bị đầu cuối. Hệ thống được kết nối, chia sẻ về Trung tâm Giám sát an toàn không gian mạng Quốc gia.
+
+Tuy nhiên, tấn công thông qua thiết bị đầu cuối ở các đơn vị cũng diễn biến khá phức tạp. Trong quý 1/2024, hệ thống bảo vệ thiết bị đầu cuối của TP.HCM cũng phát hiện và ngăn chặn gần 160.000 trường hợp tấn công phát tán mã độc.
+
+Để bảo đảm an toàn thông tin, Trung tâm Dữ liệu TP.HCM đã tổ chức bảo mật với tường lửa 3 lớp gồm bảo mật lớp ngoài, bảo mật lớp ứng dụng và bảo mật lớp trong. Các giải pháp bảo mật được tăng cường theo chiều sâu với công nghệ tiên tiến, hiện đại. Các sự kiện an toàn thông tin được ghi nhận tại Trung tâm dữ liệu được kết nối, chia sẻ về Trung tâm Giám sát an toàn không gian mạng Quốc gia theo quy định.
+
+Ngoài ra, các hệ thống công nghệ thông tin có tính chất quan trọng của Thành phố như hệ thống thư điện tử, hệ thống nền tảng tích hợp chia sẻ dữ liệu, hệ thống điện toán đám mây, hệ thống mạng truyền số liệu chuyên dùng… đều đã được phê duyệt hồ sơ cấp độ an toàn thông tin.
+
+Với 3 phần nội dung chính, gồm: Thực trạng công tác đảm bảo an toàn thông tin tại Trung tâm dữ liệu và cơ quan, đơn vị nhà nước trên địa bàn Thành phố; Giới thiệu và giải pháp phòng chống Ransomware; Chia sẻ kinh nghiệm phòng chống và ứng phó Ransomware, hội thảo nhằm cung cấp thông tin chi tiết về Ransomware, bao gồm cách hoạt động, tác hại và xu hướng tấn công mới nhất. Hội thảo cũng nhằm giới thiệu các biện pháp phòng ngừa kỹ thuật và phi kỹ thuật để giảm thiểu nguy cơ bị tấn công, hướng dẫn xây dựng và triển khai chiến lược phòng chống Ransomware toàn diện cho tổ chức.
+
+Dịp này, các chuyên gia và doanh nghiệp đã trình bày nhiều tham luận về giải pháp phòng chống và ứng phó hiệu quả như: Hiểu rõ về Ransomware; Công tác đảm bảo an toàn thông tin tại trung tâm dữ liệu và cơ quan, đơn vị nhà nước trên địa bàn Thành phố; NetBackup và chiến lược bảo vệ dữ liệu trước Ransomware; Tự động hoá bảo vệ dữ liệu với nhiều cấp độ nhằm đảm bảo an toàn dữ liệu trước nguy cơ Ransomware…
+
+Có nhiều nguyên nhân dẫn đến việc mất an toàn thông tin như nhiều lỗ hổng bảo mật từ phần mềm ứng dụng; trang thiết bị an toàn thông tin chưa được quan tâm; nhận thức người dùng về an toàn thông tin chưa cao; sử dụng phần mềm không có bản quyền; chính sách an toàn thông tin chưa chặt chẽ…
+
+Để bảo đảm an toàn thông tin, Phó Giám đốc Trung tâm Chuyển đổi số TP.HCM Nguyễn Đức Chung cho rằng, cần phải có các biện pháp kỹ thuật an toàn mạng, an toàn máy chủ, ứng dụng và quản lý dữ liệu. Đối với các cơ quan, doanh nghiệp cần có các giải pháp như: Phần mềm nội bộ phát triển tuân thủ quy trình phát triển phần mềm an toàn (DevSecOps); kiểm tra, đánh giá an toàn hệ thống thông tin trước khi đưa vào sử dụng; duy trì hoạt động hệ thống bảo vệ thiết bị đầu cuối (Endpoint); tăng cường công tác giám sát và xử lý các sự cố phát sinh an toàn thông tin… Đặc biệt, việc tuân thủ các quy định bảo mật và nâng cao ý thức người dùng luôn được quan tâm sâu sát.
+
+Cùng quan điểm này, ông Phạm Mạnh Hùng, Phụ trách Trung tâm giám sát an ninh mạng của DTG cho rằng, lãnh đạo doanh nghiệp cần chú trọng và đánh giá cao về việc phải trang bị, đầu tư, xây dựng các bộ quy trình, tuyển dụng chuyên gia, thuê dịch vụ của các đơn vị bảo mật để thực hiện hỗ trợ vận hành cũng như khả năng ứng cứu sự cố.
+
+Ngoài ra, sự chủ quan thứ hai đến từ những nhân sự công nghệ thông tin vận hành hệ thống. Chẳng hạn như, họ chủ quan nghĩ rằng Ransomware đang ở đâu đấy, doanh nghiệp đã trang bị các biện pháp bảo vệ rồi nhưng thực tế Ransomware đã nằm trong hệ thống rất lâu và tìm mọi cách để lây lan rộng khắp trước khi tiến hành tấn công. Và khi bị tấn công, bộ phận công nghệ thông tin sẽ không còn chủ động, mất ăn, mất ngủ, thậm chí mất việc và phải chịu trách nhiệm trước pháp luật.
+
+Thứ ba, là sự chủ quan của người dùng, bởi kẻ tấn công sẽ thường bắt đầu từ nơi yếu nhất là người dùng thông thường, sau đó từng bước leo thang tiếp cận vào hệ thống quản trị.
+
+Theo ông Phạm Mạnh Hùng, để đối phó với các cuộc tấn công như Ransomware đòi hỏi doanh nghiệp phải luôn tiến hành kiểm tra, đánh giá mức độ rủi ro từ hệ thống, xây dựng kịch bản tấn công thử nghiệm. Đồng thời, lập kế hoạch ứng phó và khả năng phục hồi sau khi sự cố tấn công xảy ra, trong đó quan trọng là phục hồi dữ liệu…

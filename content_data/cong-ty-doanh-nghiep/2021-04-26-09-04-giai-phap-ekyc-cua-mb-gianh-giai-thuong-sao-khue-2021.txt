@@ -1,0 +1,21 @@
+Sau hai năm liên tiếp (2019, 2020) ghi danh với giải thưởng Sao Khuê cho 2 sản phẩm ngân hàng số là: App MBBank và Biz MBBank, Ngân hàng Quân Đội (MB) mới đây một lần nữa xuất sắc được vinh danh giải thưởng Sao Khuê 2021 cho giải pháp định danh trực tuyến (eKYC).
+
+Tại 2 vòng sơ tuyển và thuyết trình trực tiếp, giải pháp eKYC của MB được Hội đồng bình chọn đánh giá cao do đáp ứng tối ưu hóa trải nghiệm khách hàng trên nền tảng công nghệ số.
+
+Theo đó, khách hàng có thể sử dụng tính năng eKYC trên App MBBank để mở và định danh tài khoản ngân hàng 100% theo hình thức trực tuyến mà không cần ra quầy. Ngay sau khi hoàn thiện thủ tục định danh, khách hàng có thể sử dụng ngay các dịch vụ như: Chuyển khoản trong và ngoài hệ thống, Thanh toán hóa đơn (điện, nước, vé máy bay), Tiết kiệm online, Vay online, …
+
+MB là một trong những ngân hàng tiên phong triển khai eKYC tại Việt Nam, đồng thời là ngân hàng có tỷ lệ thực hiện eKYC thành công cao nhất – khoảng 80% trong số các ngân hàng áp dụng giải pháp này tại Việt Nam. Đến nay, có khoảng 1.8 triệu khách hàng của MB đã trải nghiệm mở tài khoản ngân hàng thành công bằng eKYC, chiếm 70% trên tổng số khách hàng mới kể từ thời điểm MB chính thức ứng dụng eKYC.Đặc biệt, giải pháp eKYC của MB là giải pháp tiên phong và duy nhất tại thị trường Việt Nam cung cấp đầy đủ công nghệ về nhận diện khuôn mặt và giọng nói. Với công nghệ Machine Learning, thông tin dữ liệu về khách hàng có thể được nhận diện và bóc tách qua ảnh chụp.
+
+Bên cạnh đó, eKYC của MB có khả năng nhận diện và xác thực khuôn mặt/giọng nói theo thông tin trên giấy tờ tùy thân của từng khách hàng, ghi nhận các thông tin sinh trắc học tương ứng với tài khoản thanh toán của người dùng.
+
+Với việc hoàn thiện hệ thống công nghệ, quy trình vận hành,... để triển khai eKYC trên ứng dụng Mobile Banking, MB cho phép khách hàng định danh trực tuyến thông qua 3 bước cơ bản: Quay mặt theo hướng dẫn, Đọc mã PIN ngẫu nhiên, Chụp ảnh cùng giấy tờ tùy thân và kiểm tra sự sống bằng phương pháp ngẫu nhiên. Tổng thời gian dự kiến với mỗi quy trình định danh khoảng 45 giây. Đáng chú ý, giải pháp eKYC của MB được triển khai trên nền tảng Dynamic Key và Digital OTP, đảm bảo bảo mật thông tin khách hàng.
+
+Năm 2021, MB xác định tiếp tục chú trọng vào các sản phẩm với hàm lượng công nghệ cao. Việc MB năm thứ 3 liên tiếp xuất sắc đạt giải thưởng “Sao Khuê” cho thấy tinh thần chuyển dịch số mạnh mẽ cũng như quyết tâm cao của ngân hàng này trong việc thực hiện phương châm năm 2021 “Tăng tốc số; Đột phá bán lẻ; An toàn- Hiệu quả”, tiếp tục tầm nhìn “MB là Ngân hàng thuận tiện nhất”, đưa MB trở thành “số 1 về Ngân hàng số, năm trong Top 3 Ngân hàng bán lẻ tại thị trường Việt Nam”.
+
+eKYC là giải pháp giúp xây dựng nền móng ngân hàng số, tự động hóa quy trình vận hành của các doanh nghiệp tài chính ngân hàng. KYC (Know Your Customer) là quy trình định danh khách hàng bắt buộc về mặt pháp lí đối với nhiều doanh nghiệp, đặc biệt là các tổ chức có tính bảo mật thông tin khách hàng cao như tài chính - ngân hàng.
+
+eKYC - Định danh khách hàng trực tuyến là cấp độ ưu việt hơn KYC, giúp người dùng có thể hoàn tất quy trình một cách dễ dàng, bằng những thao tác đơn giản trên điện thoại hoặc máy vi tính, ở bất kì nơi nào miễn là có kết nối internet.
+
+Áp dụng eKYC rộng rãi sẽ nâng chất lượng dịch vụ lên một tầm cao mới, giúp khách hàng thuận tiện hơn trong việc mở tài khoản ngân hàng: Thay vì ngồi chờ ở các phòng giao dịch, khách hàng chỉ cần ngồi ở nhà và hoàn tất các thủ tục định danh.
+
+Điều này sẽ có lợi cho cả ngân hàng khi có thể mở rộng tệp khách hàng, giảm thiểu chi phí cung ứng dịch vụ, gia tăng nguồn thu… và khách hàng cũng được hưởng lợi lớn từ việc tiết kiệm thời gian và công sức, khả năng tiếp cận dịch vụ ngân hàng dễ dàng hơn, nhất là ở những nơi chưa có chi nhánh ngân hàng.

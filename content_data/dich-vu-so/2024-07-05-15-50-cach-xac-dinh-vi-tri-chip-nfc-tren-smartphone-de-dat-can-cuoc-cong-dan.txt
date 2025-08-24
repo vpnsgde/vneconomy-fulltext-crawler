@@ -1,0 +1,35 @@
+NFC (Near-Field Communications) là công nghệ phổ biến trên thế giới nhưng chưa được quá nhiều người Việt Nam biết đến. NFC là công nghệ hiện đại được tích hợp trên các thiết bị thông minh giúp hỗ trợ người dùng kết nối, truyền tập tin như danh bạ, hình ảnh, file nhạc, video, ứng dụng,... một cách nhanh chóng.
+
+Tuy nhiên, những ngày qua, người dân gặp nhiều khó khăn trong quá trình xác thực sinh trắc học. Thực tế, họ không biết chính xác vị trí của chip NFC trên smartphone của mình ở đâu, do đó không thể đặt đúng căn cước công dân để điện thoại có thể đọc được thông tin trên thẻ.
+
+Việc xác định đúng vị trí của chip NFC sẽ giúp người dùng dễ dàng đặt căn cước công dân vào đúng vị trí, từ đó dễ dàng hoàn thành việc xác thực sinh trắc học.
+
+Chị Kim Linh (30 tuổi) hiện là nhân viên văn phòng tại TP.HCM, chia sẻ mặc dù thường xuyên làm việc với máy tính và smartphone, song lúc cập nhật căn cước vào ứng dụng ngân hàng trên điện thoại đã phải tốn không ít thời gian nhưng vẫn gặp khó khăn và phải "cầu cứu" đồng nghiệp phòng IT (Information Technology) giúp đỡ.
+
+Hiện nay, một số trang cũng đã đưa ra hướng dẫn cách bật NFC và đặt smartphone, tuy nhiên hướng dẫn không đầy đủ, bởi với từng dòng điện thoại thông minh, vị trí của NFC rất khác nhau.
+
+Ngoài ra, trong khi các khách hàng còn gặp lúng túng, các hỗ trợ vật lý chưa kịp đáp ứng thì các hỗ trợ giả mạo của các đối tượng lừa đảo đã bắt đầu diễn ra, gây thêm hoang mang cho khách hàng.
+
+Nhằm khắc phục tình trạng này, các chuyên gia của công ty công nghệ Kalapa đã tạo ra 1 trang hướng dẫn tại địa chỉ https://nfc-guides.kalapa.vn/. Thông qua đó, giúp người dùng đặt căn cước công dân chính xác với NFC, giúp smartphone đọc thông tin nhanh chóng.
+
+Bà Nguyễn Thị Tuyết Nhung, CEO Kalapa, cho biết hiện nay vẫn còn nhiều người dùng chưa biết cách quét chip trên căn cước công dân nên gặp nhiều khó khăn khi tự xác thực sinh trắc học cho thẻ ngân hàng cá nhân.
+
+Sau khi theo dõi và thấu hiểu những khó khăn của khách hàng khi tự xác thực sinh trắc học theo hướng dẫn của các ứng dụng như ứng dụng của Vietcombank. Đội ngũ kỹ sư của Kalapa đã thiết kế nhanh subweb hướng dẫn (https://nfc-guides.kalapa.vn/) để hướng dẫn khách hàng cách “tap chip NFC” với căn cước công dân trên các dòng sản phẩm thiết bị di động như smartphone, tablet… trong đó tập trung cao là smartphone với 2 hệ điều hành chính là iOS (Apple) và Android (Google).
+
+“Bằng kinh nghiệm của công ty công nghệ chuyên làm các giải pháp cho hệ thống tài chính ngân hàng, các kỹ sư tại Kalapa đã cung cấp công cụ hỗ trợ hướng dẫn người dùng cách hoàn thiện việc xác thực căn cước công dân như là cách góp phần nhỏ vào việc chung của xã hội trong việc thúc đẩy số hoá, đặc biệt là ngăn chặn gian lận lừa đảo qua mạng trong lĩnh vực tài chính ngân hàng”, bà Nhung chia sẻ.
+
+Theo CTO Kalapa Đỗ Ngọc Thiện, Kalapa đã ứng dụng công nghệ phân tích dữ liệu lớn để theo dõi và phân tích hàng triệu giao dịch trong thời gian thực. Đồng thời, công nghệ này có thể phát hiện ra các mẫu gian lận, ứng dụng AI và học máy để phát hiện các mẫu gian lận phức tạp, chẳng hạn như sử dụng công nghệ Blockchain để tạo ra các giao dịch minh bạch giúp giảm thiểu gian lận và các phương pháp sinh trắc học như dấu vân tay, nhận diện khuôn mặt, nhận diện giọng nói để xác thực chính danh người dùng.
+
+Liên quan đến việc quét chip NFC trên căn cước công dân để cập nhật sinh trắc học cho các ứng dụng ngân hàng, các chuyên gia công nghệ của Phygital Labs, cũng cho rằng người dùng chỉ có thể quét chip NFC thành công khi điện thoại có đầu đọc chip NFC.
+
+Hiện nay, từ điện thoại iPhone XS (2018) trở đi hay các điện thoại sử dụng hệ điều hành Android phân khúc tầm trung trở lên được sản xuất từ năm 2018 đều có trang bị đầu đọc chip. Người dùng cần kiểm tra xem chế độ đọc chip NFC đã được mở hay chưa. Đối với các dòng iPhone 6s đến iPhone X, cần tải phần mềm đọc chip NFC trên App Store: Simply NFC.
+
+Theo Phygital Labs, trong khi các thiết bị hệ điều hành Android mặc định tắt tính năng đọc chip NFC, nên người dùng cần bật trước khi trải nghiệm. Để bật tính năng này, người dùng có thể thao tác như sau: “Cài đặt” chọn “Tìm kiếm”, nhập “NFC”, chọn kết quả liên quan đến kết nối NFC, bật NFC. Tiếp theo, người dùng cần xác định vị trí đọc chip NFC của từng dòng điện thoại.
+
+Do tính đa dạng của các thương hiệu và các dòng điện thoại thuộc hệ điều hành Android, vị trí đầu đọc chip NFC cũng khác nhau. Thời gian chờ để thiết bị kích hoạt và nhận tín hiệu từ chip trung bình từ 1-2 giây. Với điện thoại sử dụng hệ điều hành iOS, đầu đọc chip NFC của iPhone nằm ở mặt lưng, phần đầu, kế bên camera.
+
+Theo quyết định số 2345/QĐ-NHNN về việc triển khai các giải pháp an toàn, bảo mật trong thanh toán trực tuyến và thanh toán thẻ ngân hàng, từ ngày 1/7/2024, các chủ tài khoản phải xác thực sinh trắc học trước khi muốn sử dụng thẻ ngân hàng hoặc các giải pháp tài chính liên quan.
+
+Yêu cầu xác thực sinh trắc học dựa trên việc so sánh đặc điểm của người dùng với dữ liệu dân cư quốc gia của Bộ Công an hoặc qua VNEID, khi chuyển tiền từ 10 triệu đồng mỗi lần hoặc trên 20 triệu mỗi ngày.
+
+Theo số liệu của Ngân hàng Nhà nước, đến cuối ngày 3/7, khoảng 16,6 triệu tài khoản ngân hàng đã xác thực sinh trắc học, trong đó 90% khách hàng tự thực hiện. Lượng tài khoản được làm sạch dữ liệu tương đương số mở mới trong một năm.

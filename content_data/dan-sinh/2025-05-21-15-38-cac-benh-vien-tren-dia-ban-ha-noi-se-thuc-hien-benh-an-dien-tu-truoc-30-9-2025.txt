@@ -1,0 +1,27 @@
+Ủy ban nhân dân Thành phố Hà Nội vừa ban hành Kế hoạch “Triển khai hồ sơ bệnh án điện tử tại các bệnh viện trên địa bàn Thành phố Hà Nội”. Việc triển khai hồ sơ bệnh án điện tử nhằm nâng cao chất lượng chăm sóc sức khỏe, tối ưu hóa quy trình quản lý và vận hành hệ thống y tế.
+
+Đồng thời, hướng tới mục tiêu xây dựng nền y tế số hiện đại; làm cơ sở để triển khai kết nối, liên thông dữ liệu giữa các bệnh viện trên địa bàn thành phố với các bệnh viện Bộ/ngành.
+
+Theo yêu cầu của Ủy ban nhân dân Thành phố Hà Nội, các bệnh viện trên toàn Thành phố thực hiện Kế hoạch triển khai hồ sơ bệnh án điện tử phải đảm bảo hoàn thành chậm nhất trong tháng 9/2025.
+
+Căn cứ thực trạng các điều kiện về hạ tầng công nghệ thông tin của bệnh viện cần đạt các tiêu chí về hệ thống thông tin bệnh viện (HIS); tiêu chí về lưu trữ và truyền tải hình ảnh (RIS-PACS); tiêu chí về hệ thống thông tin xét nghiệm (LIS); tiêu chí về bảo mật và an toàn thông tin triển khai kết nối liên thông dữ liệu toàn thành phố.
+
+Đồng thời, thực hiện chia sẻ, liên thông dữ liệu khai thác thông tin hồ sơ bệnh án điện tử (sổ sức khỏe điện tử, đơn thuốc điện tử, giấy chuyển tuyến, giấy hẹn khám lại...) giữa các bệnh viện trên địa bàn thành phố, khi bệnh nhân chuyển cơ sở khám, chữa bệnh.
+
+Để chuẩn bị triển khai hồ sơ bệnh án điện tử, các bệnh viện trong và ngoài công lập trực thuộc trên địa bàn cần khảo sát, đánh giá hiện trạng hạ tầng phần cứng, phần mềm, hệ thống mạng (đường truyền) và bảo mật của đơn vị; phân tích để lựa chọn phương án; xây dựng kế hoạch triển khai chi tiết tại đơn vị đảm bảo phù hợp với điều kiện, quy mô, mô hình khám bệnh, chữa bệnh của từng đơn vị.
+
+Cùng với đó, rà soát xây dựng danh mục, thực hiện nâng cấp, đầu tư mua sắm hạ tầng công nghệ thông tin: thiết bị chuyển mạch máy chủ; thiết bị tường lửa - firewall; hệ thống máy chủ - Server, SAN, NAS; thiết bị giám sát - IPS, IDS; thiết bị lưu điện - UPS; tủ rack, lắp đặt máy tính và màn hình chuyên dụng phục vụ chẩn đoán hình ảnh..., đảm bảo đáp ứng các tiêu chí về hạ tầng ứng dụng công nghệ thông tin trong khám bệnh, chữa bệnh theo quy định.
+
+Đăng ký sử dụng chứng thư số, chữ ký số đảm bảo đúng theo quy định pháp luật về chữ ký số, luật giao dịch điện tử, luật lưu trữ trong triển khai hồ sơ bệnh án điện tử. Thời gian hoàn thành xong trước ngày 30/9/2025.
+
+Đồng thời, lựa chọn nhà cung cấp phần mềm có đủ năng lực, nền tảng công nghệ tiên tiến phù hợp, để phát triển đồng bộ và đáp ứng tiêu chuẩn cung cấp thông tin cho các hệ thống tập trung, cũng như kết nối liên thông với trục tích hợp, chia sẻ với các cơ sở dữ liệu của thành phố…
+
+Ngoài việc triển khai, chuẩn bị các điều kiện về hạ tầng công nghệ thông tin và phần mềm, Ủy ban nhân dân Thành phố Hà Nội cũng yêu cầu Thủ trưởng/Giám đốc các cơ sở khám, chữa bệnh chỉ đạo chuẩn bị hồ sơ quy trình, các nội dung liên quan để triển khai bệnh án điện tử tại đơn vị.
+
+Bao gồm: Quy chế về lập, cập nhật, sử dụng và quản lý bệnh án điện tử; quy chế quản lý, sử dụng chứng thư số, chữ ký số; quy chế bảo đảm an toàn, an ninh thông tin trong hoạt động ứng dụng công nghệ thông tin; quy định quản lý, sử dụng hệ thống camera giám sát; phương án phòng ngừa, khắc phục sự cố hệ thống công nghệ thông tin.
+
+Quy trình sao lưu và khôi phục dữ liệu; phương án cảnh báo và chống tấn công có chủ đích đối với các hệ thống cung cấp dịch vụ qua internet; phương án chống tấn công, xâm nhập từ xa (DOS, DDOS), cơ chế tấn công từ chối dịch vụ trên hệ thống; đáp ứng và đảm bảo an toàn phòng cháy chữa cháy phòng máy chủ...
+
+Các bệnh viện cũng cần thành lập Hội đồng chuyên môn gồm các chuyên gia về công nghệ thông tin và khám bệnh, chữa bệnh tư vấn cho Thủ trưởng cơ sở khám bệnh, chữa bệnh quyết định việc sử dụng và lưu trữ hồ sơ bệnh án điện tử thay cho hồ sơ bệnh án giấy, lưu trữ và truyền tải hình ảnh y tế thay cho in phim, và lưu trữ thông tin xét nghiệm thay cho việc in giấy…
+
+Về lộ trình triển khai thực hiện bệnh án điện tử, các bệnh viện đa khoa, chuyên khoa trong và ngoài công lập đẩy nhanh tiến độ thực hiện các nhiệm vụ được giao, đảm bảo đến trước ngày 30/9/2025, đạt 100% các cơ sở triển khai thực hiện bệnh án điện tử kết nối, liên thông dữ liệu.

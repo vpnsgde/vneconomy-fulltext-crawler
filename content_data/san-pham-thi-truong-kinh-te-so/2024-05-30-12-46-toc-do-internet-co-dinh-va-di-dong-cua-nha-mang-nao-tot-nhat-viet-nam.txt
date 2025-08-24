@@ -1,0 +1,21 @@
+Bộ Thông tin và Truyền thông vừa công bố tốc độ truy nhập Internet tại các tỉnh, thành phố trên cả nước. Đây là lần đầu tiên Bộ Thông tin và Truyền thông tiến hành công bố chất lượng dịch vụ của từng doanh nghiệp cung cấp dịch vụ Internet.
+
+Theo Bộ Thông tin và Truyền thông, nhằm nâng cao tính công khai minh bạch, lợi ích công cộng trong việc cung cấp dịch vụ truy nhập Internet cũng như tạo điều kiện cho người dân/tổ chức/doanh nghiệp được lựa chọn dịch vụ, nhà mạng theo nhu cầu, điều kiện thực tế; có ý kiến về chất lượng dịch vụ trên cơ sở kết quả đo từ công cụ i-Speed, Bộ đã công bố tốc độ truy nhập Internet tại các tỉnh, thành phố trên cả nước.
+
+Đồng thời, việc công bố công khai về tốc độ truy nhập Internet tại các tỉnh, thành phố của Bộ Thông tin và Truyền thông giúp nâng cao hiệu quả quản lý theo số liệu thực tế về chất lượng truy nhập Internet; Góp phần thúc đẩy phát triển và nâng cao chất lượng dịch vụ truy nhập Internet tại Việt Nam.
+
+Cụ thể, tốc độ download trung bình băng rộng cố định trong tháng 4/2024 được ghi nhận ở mức 106.43 Mbps, tốc độ upload trung bình băng rộng cố định đạt 103.28 Mbps.
+
+Đối với chất lượng Internet băng rộng di động, trong tháng 4/2024, tốc độ download trung bình của Việt Nam được ghi nhận ở mức 41.58 Mbps, tốc độ upload trung bình là 18.28 Mbps.
+
+Đáng chú ý, trong tháng 4/2024, CMC Telecom là doanh nghiệp viễn thông có tốc độ băng rộng cố định cao nhất. Tốc độ download và upload trung bình băng rộng cố định của CMC Telecom lần lượt là 254.88 Mbps và 176.97 Mbps.
+
+Xếp ở vị trí ngay sau CMC Telecom về chất lượng băng rộng cố định là VNPT với tốc độ download và upload trung bình lần lượt là 99.45 Mbps và 100.62 Mbps. Tiếp đến là FPT Telecom với tốc độ download 96.88 Mbps và tốc độ upload 95.87 Mbps. Các vị trí tiếp theo lần lượt thuộc về Viettel, Netnam, SCTV và SPT.
+
+VNPT là nhà mạng có chất lượng Internet băng rộng di động tốt nhất tháng 4/2024. Thống kê cho thấy, tốc độ Internet băng rộng di động đường xuống (download) của VNPT đạt 44.88 Mbps, tốc độ Internet băng rộng di động đường lên (upload) đạt 20.66 Mbps.
+
+Trong khi đó, Viettel đứng ở vị trí thứ 2 về Internet di động với tốc độ download 43.9 Mbps và tốc độ upload 14.82 Mbps. MobiFone là nhà mạng xếp thứ 3 với tốc độ download 30.99 Mbps và tốc độ upload 18.66 Mbps. Xếp ở vị trí thứ 4 là Vietnamobile với tốc độ download 7.15 Mbps và tốc độ upload 3 Mbps.
+
+
+
+Để đánh giá đúng chất lượng tốc độ Internet, Bộ Thông tin và Truyền thông khuyến khích người dân/tổ chức/doanh nghiệp sử dụng ứng dụng miễn phí i-Speed để đo tốc độ truy nhập Internet.

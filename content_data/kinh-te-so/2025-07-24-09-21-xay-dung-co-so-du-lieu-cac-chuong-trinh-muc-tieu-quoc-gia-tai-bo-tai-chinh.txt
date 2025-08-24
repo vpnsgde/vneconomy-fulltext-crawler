@@ -1,0 +1,30 @@
+Phó Thủ tướng Nguyễn Chí Dũng ký Quyết định số 25/2025/QĐ-TTg ngày 22/7/2025 quy định về xây dựng cơ sở dữ liệu và chế độ báo cáo trực tuyến trên Hệ thống trong giám sát, đánh giá các chương trình mục tiêu quốc gia.
+
+Quyết định này quy định về xây dựng, quản lý, khai thác và sử dụng dữ liệu trong Cơ sở dữ liệu các chương trình mục tiêu quốc gia; quy trình nghiệp vụ thực hiện chế độ báo cáo trên các hệ thống thông tin để tạo lập dữ liệu trong cơ sở dữ liệu các chương trình mục tiêu quốc gia.
+
+Theo đó, thiết kế, xây dựng cơ sở dữ liệu các chương trình mục tiêu quốc gia tại Bộ Tài chính để thống nhất kết nối, tích hợp dữ liệu từ các hệ thống thông tin có liên quan đến quản lý chương trình mục tiêu quốc gia. Bao gồm: Cơ sở dữ liệu cơ bản về chương trình mục tiêu quốc gia như các thông tin trên các Quyết định của cấp có thẩm quyền phê duyệt chương trình mục tiêu quốc gia; dữ liệu thay đổi của chương trình, dự án thành phần thuộc chương trình trong quá trình thực hiện;
+
+Cơ sở dữ liệu về kết quả xây dựng văn bản quản lý, điều hành, tổ chức thực hiện các chương trình mục tiêu quốc gia tại các cấp và các tài liệu có liên quan đến kết quả kiểm toán, thanh tra, việc thực hiện kết luận của kiểm toán, thanh tra, các đoàn giám sát của Quốc hội và cơ quan có thẩm quyền;
+
+Cơ sở dữ liệu về lập, giao, phân bổ ngân sách nhà nước (gồm: vốn đầu tư công, kinh phí chi thường xuyên) chương trình mục tiêu quốc gia; kết quả giải ngân ngân sách nhà nước (gồm: vốn đầu tư công, kinh phí chi thường xuyên) tại các cấp; kết quả đánh giá tình hình sử dụng nguồn lực tài chính cho chương trình mục tiêu quốc gia gắn với kết quả đầu ra và các nội dung khác có liên quan tại các cấp;
+
+Cơ sở dữ liệu về giao, phân bổ, điều chỉnh, bổ sung kế hoạch đầu tư công trung hạn giai đoạn 5 năm; lập, giao, phân bổ, điều chỉnh, bổ sung kế hoạch đầu tư công, kinh phí chi thường xuyên ngân sách nhà nước hàng năm các chương trình mục tiêu quốc gia;
+
+Cơ sở dữ liệu về giao, điều chỉnh, bổ sung mục tiêu, nhiệm vụ và thông báo mức vốn sự nghiệp ngân sách trung ương giai đoạn 5 năm; giao, điều chỉnh, bổ sung mục tiêu, nhiệm vụ hằng năm; kết quả thực hiện mục tiêu, nhiệm vụ của từng chương trình, dự án thành phần, các chỉ tiêu đầu vào, đầu ra, chỉ số đánh giá kết quả thực hiện, đánh giá tác động của từng chương trình mục tiêu quốc gia.
+
+Ngoài ra, còn có cơ sở dữ liệu khác theo quy định của cơ quan có thẩm quyền. Quyết định nêu rõ, thiết lập hệ thống và thiết kế, xây dựng công cụ, chức năng tích hợp trên hệ thống để tích hợp thông tin, dữ liệu từ các hệ thống thông tin: Hệ thống thông tin và cơ sở dữ liệu quốc gia về đầu tư công, Hệ thống thông tin quản lý chương trình mục tiêu quốc gia và các hệ thống thông tin khác có liên quan; Thu thập chuẩn hóa, nhập dữ liệu; lưu trữ, bảo mật, đảm bảo an toàn thông tin trong Cơ sở dữ liệu các chương trình mục tiêu quốc gia.
+
+Đối với việc quản lý cơ sở dữ liệu các chương trình mục tiêu quốc gia, Quyết định quy định Bộ Tài chính chịu trách nhiệm quản lý và kết nối, tích hợp, chia sẻ thông tin dữ liệu từ cơ sở dữ liệu các chương trình mục tiêu quốc gia với Hệ thống thông tin báo cáo quốc gia, Trung tâm thông tin chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ và các hệ thống thông tin khác có liên quan.
+
+Các hoạt động quản lý, quản trị dữ liệu trong cơ sở dữ liệu các chương trình mục tiêu quốc gia thực hiện theo quy định của Chính phủ về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+
+Đối tượng khai thác và sử dụng dữ liệu trong cơ sở dữ liệu các chương trình mục tiêu quốc gia là các cơ quan quản lý nhà nước các cấp khai thác, sử dụng dữ liệu trong cơ sở dữ liệu các chương trình mục tiêu quốc gia phục vụ hoạt động quản lý nhà nước theo thẩm quyền, phạm vi, lĩnh vực quản lý.
+
+Đồng thời, cơ quan, tổ chức, cá nhân được quyền khai thác, sử dụng dữ liệu trong cơ sở dữ liệu các chương trình mục tiêu quốc gia theo phạm vi quản lý và tuân thủ quy định của pháp luật về công nghệ thông tin, giao dịch điện tử, an toàn thông tin mạng, an ninh mạng, tiếp cận thông tin.
+
+Đặc biệt, dữ liệu được tra cứu, khai thác từ cơ sở dữ liệu các chương trình mục tiêu quốc gia có giá trị sử dụng chính thức, tương đương văn bản giấy trong các hoạt động có liên quan đến quản lý nhà nước về các chương trình mục tiêu quốc gia.
+
+Dữ liệu trong cơ sở dữ liệu các chương trình mục tiêu quốc gia là tham chiếu gốc phục vụ tra cứu, khai thác để thực hiện các thủ tục có liên quan đến quản lý, tổ chức thực hiện các chương trình mục tiêu quốc gia tại các cấp.
+
+Quyết định này có hiệu lực thi hành từ ngày 15/9/2025.
+

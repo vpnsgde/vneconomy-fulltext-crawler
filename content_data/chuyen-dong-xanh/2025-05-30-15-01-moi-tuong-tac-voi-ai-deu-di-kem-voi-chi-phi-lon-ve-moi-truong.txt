@@ -1,0 +1,41 @@
+Ngày nay, dân văn phòng sử dụng ngày càng nhiều các công cụ AI để soạn email, thiết kế bài thuyết trình và tạo nội dung. Thế nhưng ít người dùng biết rằng mỗi tương tác với AI đều đi kèm với chi phí môi trường, gây sức ép lên lưới điện và nguồn nước vốn đang phải chịu áp lực rất lớn.
+
+Nghiên cứu từ Đại học California, Riverside tiết lộ một thực tế đáng kinh ngạc rằng để soạn một email dài 100 từ bằng AI tạo sinh sẽ cần khoảng 519 ml nước – tương đương với một chai nước uống tiêu chuẩn. Lượng nước này chủ yếu dùng để làm mát những trung tâm dữ liệu khổng lồ phục vụ các hệ thống AI.
+
+Mỗi tương tác AI cũng đều tiêu thụ một lượng điện đáng kể. Theo Viện Nghiên cứu điện năng (Electric Power Research Institute), một yêu cầu tìm kiếm trên AI sử dụng nhiều điện hơn khoảng 10 lần so với tìm kiếm Google thông thường (2,9 Wh so với 0,3 Wh).
+
+Việc tạo một email 100 từ bằng ChatGPT cần khoảng 0,14 kWh điện, tương đương với việc cung cấp năng lượng cho 14 bóng đèn LED trong một giờ và một chai nước. Nếu tính riêng lẻ thì đây có thể được coi là một lượng nhỏ, nhưng nếu cộng lại trên quy mô toàn quốc thì tác động sẽ rất lớn.
+
+Hơn nữa, không phải tất cả các ứng dụng AI đều có dấu chân sinh thái như nhau. Việc tạo hình ảnh bằng AI tiêu thụ nhiều năng lượng hơn đáng kể so với văn bản thông thường – cụ thể gấp đến năm lần.
+
+“Người dùng nên cân nhắc đến tính cần thiết của mỗi tương tác AI”, Tiến sĩ Scott McDonald, giảng viên ngành Quản lý chuỗi cung ứng và logistics tại Đại học RMIT Việt Nam, cho biết. “Sử dụng AI để thực hiện phân tích tài chính phức tạp có thể là một cách thay thế tốt, giúp giảm nhiều giờ làm việc thủ công. Nhưng yêu cầu AI viết một email chào hỏi đơn giản hoặc một bài đăng trên mạng xã hội LinkedIn thì sao? Theo tôi thì không đáng”.
+
+Sự gia tăng đột biến của các trung tâm dữ liệu trên toàn thế giới dự kiến sẽ gây áp lực lên lưới điện và nguồn nước ở các quốc gia.
+
+“Nhiều người coi AI là một công nghệ kỳ diệu, tồn tại trên hạ tầng đám mây và không có tác động lên thế giới bên ngoài," Tiến sĩ Scott McDonald cho biết. "Thế nhưng thực tế là mỗi câu lệnh AI đều tiêu hao tài nguyên vật lý từ nơi nào đó trên thế giới".
+
+Cơ quan Năng lượng quốc tế dự đoán trên toàn cầu, mức tiêu thụ điện của các trung tâm dữ liệu vào năm 2026 sẽ tăng gấp đôi so với năm 2022, đạt 1.050 TW, cao hơn một chút so với toàn bộ mức tiêu thụ điện của Nhật Bản. Nhu cầu điện nói chung tại Việt Nam dự kiến sẽ tăng khoảng 10- 12% hằng năm từ nay đến năm 2030, trong đó công nghệ số chiếm tỷ trọng ngày càng đáng kể.
+
+Việt Nam hiện đang sở hữu vài chục trung tâm dữ liệu quy mô nhỏ với tổng công suất toàn quốc là 182 MW, thấp hơn nhiều so với mục tiêu 870 MW được đặt ra cho năm 2030.
+
+Tuy nhiên, lĩnh vực này đang nhanh chóng tăng tốc với các khoản đầu tư hàng tỷ đô la từ các “ông lớn” công nghệ toàn cầu như Amazon, Microsoft và Alphabet, cũng như các doanh nghiệp trong nước. Chẳng hạn, Viettel đang xây dựng 11 trung tâm dữ liệu quy mô lớn với tổng công suất 350 MW.
+
+Ngoài ra, tỷ lệ sử dụng AI ngày càng tăng trong bộ phận dân số am hiểu công nghệ rất đông đảo ở Việt Nam cũng đang góp phần vào nhu cầu toàn cầu lớn hơn, thúc đẩy việc xây dựng thêm nhiều trung tâm dữ liệu ở các nước láng giềng như Singapore và Malaysia.
+
+Việc có thêm nhiều trung tâm dữ liệu quy mô lớn hơn đi vào hoạt động ở Việt Nam sẽ đặt ra thách thức bởi tình trạng thiếu điện đang xảy ra định kỳ, đặc biệt là trong những tháng hè.
+
+Các đập thủy điện (cung cấp khoảng 28% điện năng của cả nước) ngày càng dễ bị tổn thương bởi tình trạng hạn hán do biến đổi khí hậu trầm trọng hơn. Với việc nhiệt điện than chiếm một nửa sản lượng điện của Việt Nam và dự kiến công suất được mở rộng thêm 15% (theo Reuters), lượng khí thải carbon từ nhiệt điện than sẽ tiếp tục tăng do nhu cầu tiêu thụ năng lượng cao hơn khi dùng AI.
+
+Theo phân tích của RMIT, giải pháp chắc chắn không phải là từ bỏ AI – công nghệ mang đến lợi ích thực sự về năng suất – mà là sử dụng AI một cách có ý thức.
+
+RMIT đưa ra khuyến nghị nên dành AI cho các nhiệm vụ phức tạp hoặc tạo tác động cao, nơi khả năng của AI thực sự tạo ra giá trị; tự soạn thảo các nội dung trao đổi thông tin thường lệ thay vì chuyển giao mọi thứ cho AI; tránh tạo lại nội dung không cần thiết; suy xét thật kỹ trước khi dùng các tính năng tạo hình ảnh.
+
+Hiện nay, các công ty công nghệ cũng đang nghiên cứu giải pháp để xử lý vấn đề này. Chẳng hạn như Microsoft, Google và những nhà cung cấp lớn khác đang đầu tư vào các trung tâm dữ liệu hiệu quả hơn và khám phá các phương pháp làm mát sử dụng ít nước hơn...
+
+Tại Việt Nam, công trình trung tâm dữ liệu công suất 30 MW của Viettel ở  Hòa Lạc cũng đã sử dụng công nghệ xanh và năng lượng tái tạo để đáp ứng 30% lượng điện tiêu thụ.
+
+“Chúng ta cần một phong trào phát triển kỹ thuật số bền vững tại Việt Nam, nơi các chi phí môi trường tiềm ẩn được ghi nhận công khai”, Tiến sĩ McDonald nêu quan điểm. “Cũng giống như cách chúng ta đã nhận thức rõ hơn về vấn đề rác thải nhựa và ô nhiễm không khí, chúng ta cần hiểu được dấu chân kỹ thuật số của mình để duy trì cam kết hướng tới phát thải ròng bằng 0 vào năm 2050 của Việt Nam”.
+
+Trong bối cảnh Việt Nam tiếp tục số hóa nhanh chóng, việc hiểu được tác động thực tế của các công cụ ảo sẽ ngày càng trở nên quan trọng.
+
+“Mỗi khi định yêu cầu AI soạn một email đơn giản, hãy nhớ rằng email đó tốn hết một chai nước và lượng điện đủ để bạn thắp sáng bàn làm việc trong nhiều giờ. Rốt cuộc, câu lệnh AI bền vững nhất có thể là câu lệnh mà bạn không bao giờ gửi đi”, Tiến sĩ McDonald nói.

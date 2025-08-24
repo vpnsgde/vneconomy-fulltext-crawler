@@ -1,0 +1,15 @@
+UBND TP. Hồ Chí Minh vừa ban hành Quyết định Kế hoạch điều tra thu thập, cập nhật thông tin, dữ liệu tài nguyên và môi trường và thu thập, cập nhật thông tin mô tả về thông tin, dữ liệu tài nguyên và môi trường năm 2026 (gọi tắt là Kế hoạch).
+
+UBND Thành phố giao Sở Nông nghiệp và Môi trường hướng dẫn, đôn đốc việc thực hiện Kế hoạch; tổng hợp báo cáo kết quả thu thập, quản lý, cập nhật, chuẩn hóa, công bố thông tin, dữ liệu tài nguyên và môi trường trình UBND Thành phố. Đồng thời, chỉ đạo các đơn vị trực thuộc nộp thông tin, dữ liệu cho Trung tâm Công nghệ thông tin Tài nguyên và Môi trường để thực hiện nhiệm vụ thu thập, quản lý, cập nhật, chuẩn hóa, công bố và lưu trữ dữ liệu;
+
+Bên cạnh đó, phối hợp với Trung tâm Chuyển đổi số Thành phố tích hợp, chia sẻ dữ liệu tài nguyên và môi trường với nền tảng kho dữ liệu dùng chung của Thành phố nhằm phục vụ cho Chương trình “Chiến lược quản trị dữ liệu của TP. Hồ Chí Minh đến năm 2025, định hướng đến năm 2030”, Chương trình “Chuyển đổi số của TP. Hồ Chí Minh”; Phối hợp với Sở Khoa học và Công nghệ thực hiện liên thông, chia sẻ dữ liệu theo kiến trúc chính quyền điện tử Thành phố.
+
+UBND TP. Hồ Chí Minh yêu cầu các sở ban ngành có liên quan, UBND phường, xã và đặc khu Côn Đảo phối hợp với Sở Nông nghiệp và Môi trường thống kê thông tin, dữ liệu tài nguyên và môi trường do đơn vị đang quản lý, thông báo về Sở Nông nghiệp và Môi trường để tổng hợp, nghiên cứu xây dựng kế hoạch cho các năm tiếp theo.
+
+Kế hoạch này nhằm cung cấp kịp thời thông tin, dữ liệu tài nguyên và môi trường trên cơ sở thu thập các thông tin, dữ liệu hiện có trên địa bàn Thành phố về các dự án, công trình, đề án liên quan đến thông tin, dữ liệu về quy hoạch, kế hoạch sử dụng đất, hiện trạng sử dụng đất, bản đồ trích đo hiện trạng vị trí thửa đất, trong đó có các dự án thuộc Chương trình “Chuyển đổi số của TP. Hồ Chí Minh”, “Chiến lược quản trị dữ liệu của TP. Hồ Chí Minh đến năm 2025, định hướng đến năm 2030”.
+
+Ngoài ra, việc thu thập thông tin, dữ liệu không được trùng lặp, chồng chéo nhiệm vụ giữa các tổ chức, đơn vị có liên quan và bảo đảm có sự lồng ghép các hoạt động, nhiệm vụ, phối hợp chặt chẽ trong việc thu thập thông tin, dữ liệu; tận dụng nguồn thông tin, dữ liệu sẵn có.
+
+Thành phố sẽ sử dụng hệ thống các phần mềm đang vận hành để xây dựng, cập nhật, quản lý thông tin, dữ liệu của các hồ sơ, tài liệu có liên quan. Trong đó, ưu tiên sử dụng mã nguồn mở nhằm giảm thiểu kinh phí đầu tư và tập trung chuẩn hóa và công bố các dữ liệu hiện có và có nhu cầu sử dụng cao nhằm đáp ứng kịp thời yêu cầu của các sở ban ngành trong việc triển khai ứng dụng công nghệ thông tin trong Chương trình Chuyển đổi số, từng bước hình thành các dữ liệu mở (open data) của ngành tài nguyên và môi trường.
+
+Trong quá trình triển khai thực hiện Kế hoạch, nếu các đơn vị có vướng mắc phát sinh hoặc cần sửa đổi, bổ sung, điều chỉnh; các sở, ban, ngành Thành phố; UBND phường, xã, đặc khu Côn Đảo kịp thời phản ảnh về Sở Nông nghiệp và Môi trường để báo cáo đề xuất, tham mưu UBND Thành phố xem xét, quyết định.

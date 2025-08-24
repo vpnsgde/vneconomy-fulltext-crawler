@@ -1,0 +1,45 @@
+Theo Dự thảo, công dân phải đến công an xã, phường, thị trấn hoặc nơi làm thủ tục cấp thẻ căn cước để làm thủ tục cấp tài khoản định danh điện tử mức độ 2.
+
+Khi đến làm thủ tục, công dân xuất trình thẻ căn cước, cung cấp số thuê bao di động chính chủ, địa chỉ thư điện tử của công dân (nếu có) và đề nghị tích hợp thông tin vào căn cước điện tử nếu có nhu cầu.
+
+Với công dân Việt Nam từ đủ 6 đến dưới 14 tuổi, người được giám hộ, người được đại diện thì người đại diện, người giám hộ sẽ sử dụng số thuê bao di động chính chủ của mình để kê khai, đăng ký cấp tài khoản định danh điện tử mức độ 2 của các đối tượng này.
+
+Sau khi hoàn tất các thủ tục liên quan về việc kiểm tra, xác thực thông tin công dân, cơ quan quản lý sẽ gửi thông báo kết quả đăng ký cấp tài khoản định danh điện tử mức độ 2 qua số thuê bao di động chính chủ.
+
+Theo Nghị định 59/2022/NĐ-CP, khi đến làm thủ tục đăng ký tài khoản định danh điện tử mức độ 2, công dân xuất trình thẻ Căn cước công dân gắn chíp điện tử, cung cấp thông tin về số điện thoại hoặc địa chỉ thư điện tử và đề nghị bổ sung thông tin được tích hợp vào tài khoản định danh điện tử. Cơ quan quản lý định danh điện tử thông báo kết quả đăng ký tài khoản qua tin nhắn SMS.
+
+Như vậy, dự thảo Nghị định đã đưa ra quy định chặt chẽ liên quan đến thông tin số điện thoại cung cấp trong quá trình đăng ký và cấp tài khoản định danh điện tử mức độ 2 nhằm tăng cường tính xác thực đối với cá nhân được cấp loại tài khoản này; đồng thời phù hợp với yêu cầu xác thực thông tin viễn thông trong thời gian sắp tới.
+
+Về thủ tục đăng ký tài khoản định danh điện tử mức độ 2, theo quy định hiện hành (khoản 2 Điều 14 Nghị định 59/2022/NĐ-CP), công dân đã được cấp thẻ Căn cước công dân gắn chíp đến công an xã, phường, thị trấn hoặc nơi làm thủ tục cấp thẻ Căn cước công dân để làm thủ tục cấp tài khoản định danh điện tử. Công dân xuất trình thẻ Căn cước công dân gắn chíp điện tử, cung cấp thông tin về số điện thoại hoặc địa chỉ thư điện tử và đề nghị bổ sung thông tin được tích hợp vào tài khoản định danh điện tử.
+
+Cán bộ tiếp nhận nhập thông tin công dân cung cấp vào hệ thống định danh và xác thực điện tử; chụp ảnh chân dung, thu nhận vân tay của công dân đến làm thủ tục để xác thực với Cơ sở dữ liệu căn cước công dân và khẳng định sự đồng ý đăng ký tạo lập tài khoản định danh điện tử.
+
+Cơ quan quản lý định danh điện tử thông báo kết quả đăng ký tài khoản qua ứng dụng VNeID hoặc tin nhắn SMS hoặc địa chỉ thư điện tử.
+
+Cơ quan Công an tiến hành cấp tài khoản định danh điện tử mức độ 2 cùng với cấp thẻ Căn cước công dân với trường hợp công dân chưa được cấp Căn cước công dân gắn chíp.
+
+Luật Căn cước được Quốc hội khoá XV thông qua tại Kỳ họp thứ 6, có hiệu lực từ ngày 1/7/2024. Trong đó có những điểm mới đáng chú ý như: Chứng minh nhân dân 9 số hết hiệu lực từ 1/1/2025; Bỏ thông tin quê quán và vân tay trên thẻ căn cước; Cấp thẻ Căn cước cho người dưới 6 tuổi; Bổ sung quy định cấp Giấy chứng nhận căn cước cho người gốc Việt Nam chưa xác định được quốc tịch…
+
+Cụ thể, 10 điểm mới của Luật Căn cước có hiệu lực từ ngày 1/7/2024 gồm:
+
+Một là, chính thức đổi tên Căn cước công dân thành Căn cước (Điều 3).
+
+Hai là,giá trị sử dụng của Thẻ căn cước công dân, Chứng minh nhân dân đã được cấp (Điều 46): (1) Thẻ Căn cước công dân đã được cấp trước ngày 1/7/2024 vẫn có giá trị sử dụng đến hết thời hạn được ghi trong thẻ. Công dân khi có nhu cầu thì được cấp đổi sang thẻ căn cước; (2) Thẻ căn cước công dân, chứng minh nhân dân hết hạn sử dụng từ ngày 15/1/2024 đến trước ngày 30/6/2024 thì tiếp tục có giá trị sử dụng đến hết ngày 30/6/2024; (3) Các loại giấy tờ có giá trị pháp lý đã phát hành có sử dụng thông tin từ Chứng minh nhân dân, thẻ Căn cước công dân vẫn giữ nguyên giá trị sử dụng.
+
+Ba là,chứng minh nhân dân hết hiệu lực từ 1/1/2025 (Điều 46): Chứng minh nhân dân còn thời hạn sử dụng thì được sử dụng đến ngày 31/12/2024.
+
+Bốn là,bỏ thông tin quê quán và vân tay trên thẻ căn cước (Điều 18): Thẻ Căn cước mới đã bỏ thông tin quê quán, nơi thường trú, vân tay, đặc điểm nhận dạng, thay vào bằng thông tin nơi đăng ký khai sinh và nơi cư trú
+
+Năm là,mở rộng đối tượng được cấp thẻ căn cước (Điều 19): Công dân Việt Nam dưới 14 tuổi cấp thẻ căn cước theo nhu cầu; Công dân Việt Nam không đủ điều kiện đăng ký thường trú, đăng ký tạm trú nếu được cập nhật thông tin nơi ở hiện tại vào Cơ sở dữ liệu quốc gia về dân cư.
+
+Sáu là,cấp thẻ Căn cước cho người dưới 6 tuổi (Điều 23): Người đại diện hợp pháp thực hiện thủ tục cấp thẻ căn cước cho người dưới 6 tuổi thông qua cổng dịch vụ công hoặc ứng dụng định danh quốc gia; Không thu nhận thông tin nhận dạng và sinh trắc học đối với người dưới 6 tuổi.
+
+Bảy là,bổ sung quy định cấp Giấy chứng nhận căn cước cho người gốc Việt Nam chưa xác định được quốc tịch (Điều 3 và Điều 30): (1) Giấy chứng nhận căn cước là giấy tờ tùy thân chứa đựng thông tin về căn cước của người gốc Việt Nam, chưa xác định được quốc tịch đang sinh sống tại Việt Nam từ 6 tháng trở lên; (2) Giấy chứng nhận căn cước có giá trị chứng minh về căn cước để thực hiện các giao dịch, thực hiện quyền, lợi ích hợp pháp trên lãnh thổ Việt Nam.
+
+Tám là,bổ sung quy định cấp Căn cước điện tử (Điều 31 và Điều 33): (1) Mỗi công dân Việt Nam được cấp 1 Căn cước điện tử. Căn cước điện tử của công dân được cơ quan quản lý căn cước Bộ Công an tạo lập ngay sau khi công dân hoàn thành thủ tục cấp tài khoản định danh điện tử mức độ 2 (VNeID); (2) Căn cước điện tử sử dụng để thực hiện thủ tục hành chính, dịch vụ công, các giao dịch và hoạt động khác theo nhu cầu của công dân.
+
+Chín là,bổ sung quy định thu thập thông tin sinh trắc học (Điều 16 và Điều 23): (1) Thu nhận thông tin sinh trắc học mống mắt đối với công dân từ đủ 6 tuổi trở lên khi thực hiện thủ tục cấp thẻ căn cước; (2) Thông tin sinh trắc học về ADN và giọng nói được thu thập khi người dân tự nguyện cung cấp khi thực hiện thủ tục cấp căn cước.
+
+Mười,bổ sung quy định về việc tích hợp thông tin vào thẻ Căn cước (Điều 22): (1) Thông tin tích hợp vào thẻ căn cước gồm thông tin thẻ bảo hiểm y tế, sổ bảo hiểm xã hội, giấy phép lái xe, giấy khai sinh, giấy chứng nhận kết hôn hoặc giấy tờ khác do Thủ tướng Chính phủ quyết định; (2) Người dân đề nghị tích hợp thông tin vào thẻ căn cước khi có nhu cầu hoặc khi thực hiện việc cấp thẻ căn cước.
+
+Và (3) Việc sử dụng thông tin được tích hợp vào thẻ căn cước có giá trị tương đương như việc cung cấp thông tin hoặc sử dụng giấy tờ có chứa thông tin đó trong thực hiện thủ tục hành chính, dịch vụ công, các giao dịch và hoạt động khác.

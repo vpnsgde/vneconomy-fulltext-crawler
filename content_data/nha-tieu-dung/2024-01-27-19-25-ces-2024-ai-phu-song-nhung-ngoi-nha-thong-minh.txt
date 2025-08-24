@@ -1,0 +1,53 @@
+Triển lãm CES 2024 diễn ra ở Mỹ vừa qua được xem là sàn diễn của hàng loạt các sản phẩm công nghệ tiên tiến hàng đầu. Đáng chú ý, năm nay, rất nhiều các hãng điện tử đã mang đến cho công chúng những thiết bị mang tính ứng dụng cao, sử dụng công nghệ AI “xịn” nhất hiện nay. Nổi bật có thể kể đến chính là các dòng sản phẩm được ra đời nhằm phục vụ cho nhu cầu chăm sóc nhà cửa, trong đó hệ sinh thái nhà thông minh chính là đối tượng hướng đến.
+
+VÒNG ĐEO “RU NGỦ”
+
+Tại CES 2024, Công ty công nghệ Earable Neuroscience (Mỹ) giới thiệu vòng đeo hỗ trợ giấc ngủ ứng dụng trí tuệ nhân tạo (AI) có tên Brainband. Sản phẩm này có thiết kế giống vương miện, trang bị các cảm biến mạ vàng có khả năng phân tích hoạt động của não bộ trong thời gian thực. Dựa trên nhu cầu của người dùng, Brainband phát nhạc, nhạc thiền hoặc tiếng ồn trắng để người dùng có tâm lý thoải mái nhất khi đi vào giấc ngủ. Thiết bị này hiện có giá bán ở mức 500 USD.
+
+Giám đốc phụ trách đầu tư của Công ty Earable Neuroscience, bà Kimi Doan, nhấn mạnh đây là thiết bị đeo tích hợp AI đầu tiên trên thế giới giúp theo dõi và hỗ trợ các hoạt động của não bộ để cải thiện giấc ngủ, sự tập trung và thư giãn.  Bà cho biết thiết bị này còn giúp người dùng không bị tỉnh giấc giữa đêm và giúp họ có thể nhanh chóng quay lại giấc ngủ.
+
+THIẾT BỊ THEO DÕI CHỨNG NGƯNG THỞ KHI NGỦ
+
+Hãng công nghệ PranaQ (Đài Loan, Trung Quốc) giới thiệu thiết bị cảm biến tích hợp AI độc đáo có tên TipTraQ. Đây là thiết bị cảm biến sinh trắc học, được đeo ở đầu ngón tay vào mỗi đêm khi đi ngủ. Với trọng lượng khoảng 3 gram, TipTraQ đo nhịp thở và nhịp tim, phân tích những số liệu này bằng thuật toán AI.
+
+Người dùng có thể tham khảo số liệu để biết tình trạng giấc ngủ của mình và tương tác với một chatbot AI, vốn được đào tạo đặc biệt về nghiên cứu khoa học. PranaQ kỳ vọng các nhà quản lý sẽ sớm chấp thuận TipTraQ như một thiết bị theo dõi chứng ngưng thở khi ngủ, nguyên nhân thường gây ra chứng ngáy. Theo kế hoạch, PranaQ sẽ tung ra thị trường TipTraQ vào tháng 4 tới với giá bán 200 USD.
+
+GỐI CHỐNG NGÁY
+
+Sản phẩm Motion Pillow tích hợp công nghệ AI để giải quyết vấn đề ngáy và giúp bạn ngủ ngon giấc hơn. Hệ thống AI Motion giúp phát hiện tiếng ngáy của người dùng và từ từ bơm phồng túi khí để nâng đầu họ lên, qua đó mở đường thở và giảm ngáy. Theo nhà sản xuất 10Minds (Hàn Quốc), ứng dụng đi kèm trên điện thoại sẽ theo dõi dữ liệu giấc ngủ, bao gồm thời gian ngáy, thời gian hoạt động của túi khí, chấm điểm giấc ngủ, thời gian ngủ và thậm chí cả bản ghi âm tiếng ngáy.
+
+Motion Pillow (giá bán 699 USD) đã giành được Giải thưởng Sáng tạo CES 2024 ở hạng mục Nhà thông minh.
+
+GƯƠNG THÔNG MINH
+
+Theo nhà sản xuất Baracoda (Pháp), Bmind Smart Mirror là chiếc gương thông minh tích hợp công nghệ AI đầu tiên trên thế giới giúp chăm sóc sức khỏe tinh thần. Theo đó, chiếc gương có thể đưa ra các đề xuất được cá nhân hóa như các buổi trị liệu bằng ánh sáng, thiền có hướng dẫn và khẳng định giá trị bản thân dựa trên trạng thái tinh thần, để giúp người dùng cải thiện tâm trạng và kiểm soát căng thẳng tinh thần (stress).
+
+Đến từ một thương hiệu khác, Anura MagicMirror có thể làm được nhiều việc hơn là chỉ cho bạn thấy hình ảnh phản chiếu của mình. Sau khi quét khuôn mặt trong 30 giây, gương có thể thu thập dữ liệu sức khỏe của bạn như nhịp tim và huyết áp. Ngoài việc là một tiện ích thú vị nên có trong nhà, đại diện công ty NuraLogix (Canada) cho biết các văn phòng bác sĩ hoặc phòng tập thể dục cũng nên quan tâm. Chiếc gương giành được Giải thưởng Sáng tạo CES 2024 trong hạng mục Sức khỏe Kỹ thuật số.
+
+VÒNG CỔ THÔNG MINH DÀNH CHO THÚ CƯNG
+
+Với những người xem chó như bạn đồng hành, họ luôn nghĩ cách để cải thiện chất lượng cuộc sống của thú cưng. Vòng cổ cho chó Minitailz của công ty Invoxia (Pháp) là thiết bị theo dõi thể chất và có thể giúp chủ nhân hiểu rõ hơn điều mà con chó cần.
+
+Không chỉ theo dõi vị trí GPS của chó để đảm bảo chúng không bao giờ bị lạc, Minitailz còn giám sát các chỉ số sức khỏe như nhịp tim khi nghỉ ngơi, nhịp thở và hoạt động thể chất của thú cưng. Công ty Invoxia cho biết vòng cổ có thể phát hiện sớm các dấu hiệu suy tim trước khi xuất hiện triệu chứng. Vòng cổ Minitailz (có giá 99 USD) đã giành được giải thưởng Sáng tạo Tốt nhất CES trong hạng mục AI.
+
+ROBOT QUẢN GIA
+
+Trước khi Hội chợ Hàng điện tử Tiêu dùng (CES) 2024 diễn ra, Samsung mở họp báo tại Khách sạn Mandalay và công bố sự trở lại của robot quản gia Ballie. Và trong chuỗi ngày CES 2024 chính thức diễn ra, người tham dự chứng kiến Ballie chạy qua lại, những mong một ngày nó có thể trở thành quản gia nhà mình.
+
+Ballie có thể làm mọi thứ, từ phát video có độ nét cao theo yêu cầu đến quản lý các thiết bị nhà thông minh của Samsung, thậm chí là trông nom thú cưng cho gia chủ.Ballie có thể đi theo chủ nhà, chạy tới gần chủ khi được gọi và thậm chí, còn có thể đón chủ tại cửa. Nó còn có thể điều khiển thiết bị thông minh trong nhà như đèn chiếu sáng hay hệ thống sưởi. Được cường hóa bởi trí tuệ nhân tạo, Ballie có thể trả lời câu hỏi hay học thói quen gia chủ, qua đó cải thiện hiệu năng của mình.
+
+Samsung dự kiến tung sản phẩm ra thị trường trong năm nay nhưng mức giá của nó thì chưa được tiết lộ.
+
+MÁY GIẢI MÃ TIẾNG KHÓC TRẺ SƠ SINH
+
+Tại triển lãm công nghệ CES 2024, hãng Capella cho biết họ đã sử dụng trí tuệ nhân tạo (AI) và học máy để giải mã tiếng khóc của trẻ sơ sinh. Ứng dụng di động này có thể "dịch" tiếng khóc của trẻ em và cho bạn biết tình trạng của trẻ như bị đói, khó chịu hay mệt mỏi. Capella cho biết công nghệ này có độ chính xác khoảng 95%.
+
+Bên cạnh đó, Capella còn là một ứng dụng hỗ trợ nuôi dạy con cái, có khả năng theo dõi giấc ngủ, thức ăn và nhắc thời gian thay tã. Ngoài ra, công ty cho biết họ cũng đang nghiên cứu sử dụng AI để xoa dịu em bé. "Với công cụ dịch tiếng khóc trẻ em được hỗ trợ bởi AI, chúng tôi có thể hiểu chính xác nhu cầu của con bạn và sử dụng âm thanh do AI tạo ra để trò chuyện với bé", Capella tuyên bố.
+
+Hiện tại, ứng dụng này đã có mặt trên kho ứng dụng Apple App Store. Trong khi đó, người dùng Android sẽ phải đăng ký trong danh sách chờ đợi trên cửa hàng Google Play.
+
+ROBOT HÚT BỤI TỰ ĐỘNG GIẶT SẤY
+
+Điểm nhấn là các dòng robot hút bụi Q Revo MaxV và Q Revo Pro, được hãng Roborock thiết kế, có hiệu suất làm sạch hiệu quả tương tự như các thiết bị hàng đầu, nhưng có mức giá "dễ chịu" hơn. Các thiết bị mới có thiết kế hệ thống lau cạnh FlexiArm Design và HyperForce 7.000 Pa để loại bỏ mọi vết bẩn khỏi các loại sàn khác nhau.
+
+Bên cạnh đó, Dock đa chức năng 2.0 cung cấp khả năng tự bảo trì toàn bộ hiệu quả với tính năng tự động đổ đầy bình chứa, phát hiện bụi bẩn thông minh, rửa cây lau nhà bằng nước nóng, sấy khô bằng không khí ấm và tự động đổ bụi. Ngoài ra, tính năng rửa lại và lau lại bằng nước nóng động giúp sàn nhà sạch sẽ và vệ sinh.

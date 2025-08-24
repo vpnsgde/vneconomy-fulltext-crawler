@@ -1,0 +1,57 @@
+Nvidia A100, với 54 tỷ bóng bán dẫn được đóng gói trong 826 mm2, là chìa khóa để mở khóa các mô hình AI lớn. Chip Nvidia được so sánh như hàng triệu người có IQ 200 thực hiện các phép tính, trong khi đó những chip khác chỉ tương đương IQ 100. Vì vậy, công ty sở hữu càng nhiều GPU Nvidia cao cấp thì cơ hội đào tạo các mô hình thông minh hơn càng cao.
+
+Theo 36Kr, OpenAI hiện nắm giữ số lượng GPU Nvidia cao cấp lớn nhất toàn cầu, với ít nhất 50.000 đơn vị. Tại Trung Quốc, chỉ có ByteDance, với khoảng 13.000 đơn vị, đạt được quy mô này.
+
+"Bất kỳ ai tham gia vào đào tạo mô hình lớn đều đang mất tiền, ngoại trừ Nvidia", một người trong ngành nói với KrAsia. "Biên lợi nhuận của Nvidia đang gây ra sự khó chịu nghiêm trọng và gây tổn hại đến ngành công nghiệp AI".
+
+Các báo cáo tài chính cho thấy biên lợi nhuận gộp của Nvidia là 71%, với những con chip phổ biến A100 và H100 có biên lợi nhuận gộp là 90%. Là một công ty phần cứng, Nvidia có biên lợi nhuận cao hơn hầu hết các công ty phần mềm internet.
+
+Và vì độc quyền, Nvidia có quyền đưa ra mức giá cắt cổ, điều này cũng đang khiến các khách hàng lớn dần rời xa Nvidia. Vào ngày 30/7, Apple thông báo sẽ sử dụng 8.000 đơn vị xử lý tensor (TPU) của Google để đào tạo mô hình AI, không có đơn vị nào từ Nvidia. Tin tức này đã khiến giá cổ phiếu của Nvidia giảm 7% vào ngày 31/7, xóa sổ 193 tỷ USD giá trị thị trường - gần tương đương với toàn bộ vốn hóa thị trường của công ty thương mại điện tử Trung Quốc Pinduoduo.
+
+Riêng tại Trung Quốc, với nhiều lệnh cấm của Hoa Kỳ, Nvidia, đang vật lộn để tồn tại, tiếp tục phát hành các phiên bản cắt giảm của chip tại quốc gia này. Theo đó, vào tháng 9/2022, việc xuất khẩu chip A100 và H100 sang Trung Quốc đã bị cấm, khiến Nvidia phải phát hành các phiên bản cắt giảm A800 và H800. Vào tháng 10/2023, việc xuất khẩu chip A800, H800, L40, L40S và RTX 4090 của Nvidia sang Trung Quốc bị cấm. Vào tháng 6/2024, nhài sáng lập Nvidia Jensen Huang công bố phát hành chip L20 và H20 cắt giảm cho Trung Quốc.
+
+Tuy nhiên, các phiên bản cắt giảm này đã gây ra phản ứng dữ dội hơn trong ngành. H20 có giá bằng một nửa H100 nhưng hiệu suất chỉ bằng một phần ba.
+
+Khi khách hàng bất mãn, đây là lúc các công ty chip Trung Quốc muốn thay thế Nvidia tìm thấy cơ hội. Trước đây, họ chỉ có thể nhặt nhạnh từng mẩu vụn sau Nvidia. Công ty phân tích chất bán dẫn TechInsights báo cáo rằng, năm 2023, Nvidia đã nắm giữ 98% thị phần về lô hàng GPU cho trung tâm dữ liệu, trong khi các công ty chip khác chỉ chiếm 2%.
+
+Các nhà sản xuất chip GPU và AI Trung Quốc, mặc dù yếu hơn, nhưng hiểu rõ hơn về thị trường và có nhiều chiến lược bản địa hóa hơn. Trong khi đó, những gã khổng lồ chip đã thành danh của Mỹ như Intel và AMD cũng có nhiều nguồn lực hơn để đối đầu trực tiếp với Nvidia.
+
+Trong ngắn hạn, Nvidia sẽ không bị đánh bại, nhưng cũng không phải là không bị tổn hại.
+
+Ngành công nghiệp chip về cơ bản là ngành công nghiệp phần mềm B2B. Khách hàng cần có cảm giác "đồng hành" từ các nhà sản xuất chip, chẳng hạn như hỗ trợ gỡ lỗi phần cứng, phần mềm khi cần.
+
+Tuy nhiên, những người trong ngành đã nói với 36Kr rằng tại thị trường Trung Quốc, ngoại trừ những người mua lớn như Alibaba, Baidu, Tencent và ByteDance, hầu hết các công ty, ngay cả với các giao dịch lớn, hiếm khi nhận được dịch vụ sau bán hàng từ Nvidia.
+
+Khi các kỹ sư Trung Quốc sử dụng chip của Nvidia có thắc mắc, họ thường phải tìm kiếm trên trang web của công ty hoặc tìm kiếm câu trả lời từ cộng đồng.
+
+
+
+Cách tiếp cận này khiến Nvidia nhận nhiều khiếu nại từ khách hàng doanh nghiệp vừa và nhỏ. "Nvidia hiện là một công ty lớn, không còn coi trọng khách hàng nhỏ như trước nữa. Sản phẩm của họ không có đối thủ cạnh tranh, vì vậy họ không cần phải làm hài lòng khách hàng", một người trong cuộc cho biết.
+
+Trong số các công ty Trung Quốc có động thái quyết liệt nhất để giành thị phần với Nvidia là Huawei với con chip Ascend 910B, được coi là đối thủ của A100 của Nvidia. Theo nhiều nguồn tin, Huawei không tiếc chi phí nhân lực, triển khai hàng trăm kỹ sư để phát triển con chip của mình. Điều này cũng đã khiến nhiều công ty mô hình và internet lớn của Trung Quốc muốn thử nghiệm sản phẩm của Huawei.
+
+So với các nhà sản xuất chip của Trung Quốc, những gã khổng lồ quốc tế như AMD và Intel có lợi thế về phần cứng nhờ quy trình sản xuất tiên tiến và dung lượng bộ nhớ băng thông cao (HBM). Do đó, sản phẩm của họ thường có thể sánh ngang hoặc thậm chí vượt trội hơn Nvidia ở một số khía cạnh.
+
+Tại Computex 2024 vào tháng 6, người sáng lập AMD Lisa Su - cũng là em họ của người sáng lập Nvidia Jensen Huang đã đưa ra chiến lược sản phẩm GPU của công ty: phát hành một GPU mới mỗi năm, phù hợp với chu kỳ cập nhật của Nvidia. Bất cứ khi nào Nvidia ra mắt GPU mới, AMD sẽ mua ngay để tháo rời và so sánh với các sản phẩm sắp ra mắt của họ.
+
+MI300X của AMD, được phát hành vào tháng 12/2023, có sức mạnh tính toán gấp 1,2 lần H100 của Nvidia. Gaudi 3 của Intel, được ra mắt vào tháng 4/2024, cũng vượt trội hơn H100 về hiệu suất năng lượng và hiệu suất suy luận và rẻ hơn. Giá GPU của AMD chỉ bằng khoảng 70–80% so với các sản phẩm tương tự của Nvidia.
+
+Tuy nhiên, các công ty cạnh tranh trực tiếp với Nvidia phải đối mặt với một thách thức chung: mặc dù có lợi thế về phần cứng, nhưng họ lại tụt hậu về phần mềm. Nvidia có cả nền tảng phần mềm CUDA, cung cấp cho các nhà phát triển một giao diện lập trình để viết các chương trình tính toán bằng các ngôn ngữ quen thuộc trên GPU, tạo ra một hệ sinh thái phần mềm. Đây là điều mà cả AMD và Intel đều phải vật lộn.
+
+Một cựu nhân viên của Intel đã nói với 36Kr rằng công ty đã từng triển khai hơn 3.000 kỹ sư trên toàn cầu, đầu tư 3–4 năm, nhưng chỉ cải thiện độ chính xác từ 0% lên 4%. Trong khi đó, vì GPU AMD và Intel có ít người dùng hơn, nên các nền tảng phần mềm tương ứng của chúng, ROCm và oneAPI, cũng bị hạn chế sử dụng, khiến việc khai thác đầy đủ các khả năng phần cứng của chúng trở nên khó khăn.
+
+"CUDA của Nvidia có rất nhiều nhà phát triển lặp lại các thuật toán trên đó, khiến cho quá trình suy luận và đào tạo của Nvidia trở nên cực kỳ hiệu quả, mang đến cho Nvidia sức mạnh liên tục và hiểu biết sâu sắc về những gì chip tiếp theo của họ nên làm. Đây là điều mà cả AMD và Intel đều phải vật lộn", một giám đốc điều hành của một công ty trong hệ sinh thái của AMD cho biết.
+
+Thị trường kiến ​​trúc chip toàn cầu được chia thành ba lĩnh vực: kiến ​​trúc X86 thống trị lĩnh vực PC với Intel và AMD, thị trường di động là lĩnh vực của Arm và Nvidia dẫn đầu thị trường AI.
+
+Trong 18 tháng kể từ khi cuộc cách mạng AI mới bắt đầu, vốn hóa thị trường của Nvidia đã từng vượt qua 3 nghìn tỷ USD, gấp bảy lần giá trị cộng lại của Intel và AMD.
+
+Khi các công ty chip AI của Trung Quốc hình thành một "đội quân kiến", và AMD và Intel dốc toàn lực, liệu Nvidia, bị bao vây từ mọi phía, có bị lung lay không?
+
+OpenAI, Google và Microsoft hiện đang nghiên cứu để tạo ra chip của riêng họ bất chấp chi phí. Một cựu thành viên cốt cán của nhóm TPU của Google đã nói với 36Kr rằng Google, công ty sử dụng một phần tư sức mạnh tính toán của thế giới, "có thể sẽ ngừng mua chip bên ngoài vào cuối năm nay".
+
+Tại Trung Quốc, 36Kr biết được từ nhiều nguồn rằng Alibaba, ByteDance và Baidu - những người mua lớn nhất của Nvidia tại quốc gia này đang bí mật phát triển chip để đào tạo mô hình lớn.
+
+Nhìn về tương lai 3–5 năm, Nvidia phải đối mặt với những mối đe dọa mới nổi. Ngành công nghiệp đang chứng kiến ​​sự trỗi dậy của các kiến ​​trúc chip AI vượt ra ngoài GPU. Ví dụ, Groq, một công ty chip tại Thung lũng Silicon với kiến ​​trúc đơn vị xử lý lớp (LPU), tuyên bố chạy các mô hình ngôn ngữ lớn nhanh hơn mười lần so với GPU của Nvidia.
+
+Một công ty chip khác có trụ sở tại Thung lũng Silicon, Etched, đã phát hành chip mạch tích hợp dành riêng cho ứng dụng (ASIC), cũng tuyên bố tốc độ nhanh hơn một cấp độ so với GPU của Nvidia. Các công ty khởi nghiệp này được các nhà đầu tư như OpenAI hỗ trợ.

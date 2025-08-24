@@ -1,0 +1,25 @@
+Ngày 25/4, Ngân hàng Nhà nước Việt Nam tổ chức họp báo Công bố sự kiện Chuyển đổi số ngành Ngân hàng năm 2024. Ông Phạm Anh Tuấn, Vụ trưởng Vụ Thanh toán (Ngân hàng Nhà nước), cho biết đến nay nhiều nghiệp vụ cơ bản của ngành ngân hàng  như tiền gửi tiết kiệm, tiền gửi có kỳ hạn, mở và sử dụng tài khoản thanh toán, mở thẻ ngân hàng, ví điện tử, chuyển tiền, cho vay... đã được số hóa hoàn toàn 100%.
+
+Theo đó, nhiều tổ chức tín dụng tại Việt Nam có tỷ lệ khoảng 90% giao dịch thực hiện trên kênh số; ước 77,41% người Việt Nam trưởng thành có tài khoản ngân hàng; hơn 35 triệu tài khoản thanh toán; 14,9 triệu thẻ được mở bằng phương thức điện tử eKYC đang hoạt động.
+
+Cùng đó, trong năm 2023, thanh toán trên thiết bị di động tăng 59,86% về số lượng và 12,73% về giá trị. Thanh toán qua QR code tăng tương ứng 242,46% về số lượng và 157,2% về giá trị so với cùng kỳ năm 2022.
+
+
+
+Trong 2 tháng đầu năm 2024, giao dịch thanh toán không dùng tiền mặt tăng 59,6% về số lượng và 32,73% về giá trị (YoY); qua kênh Internet tăng tương ứng 51,60% và 23,88%; qua kênh điện thoại di động tăng tăng 63,24% và 33,43%; qua phương thức QR code tăng 846,41% và 1.146,14%; qua POS tăng 2,53% và 3,56%.
+
+Ông Nguyễn Hưng Nguyên, Phó Tổng giám đốc Công ty cổ phần Thanh toán Quốc gia Việt Nam (NAPAS), cho biết thêm, với tốc độ tăng trưởng nhanh của các giao dịch thanh toán điện tử như hiện nay (khoảng 20%/năm) thì nhiệm vụ quan trọng của NAPAS chính là đảm bảo hệ thống hạ tầng thanh toán quốc gia được an toàn, ổn định và thông suốt. Song song với đó là đưa chi phí xử lý giao dịch thấp nhất có thể, qua đó cung cấp nền tảng thanh toán góp phần phổ cập tài chính toàn diện.
+
+NAPAS cũng áp dụng các giải pháp thanh toán mới qua thẻ, tài khoản như giải pháp số hoá điểm chấp nhận thanh toán (Tap to phone), cho phép biến chiếc điện thoại di động thành máy thanh toán thẻ (Soft POS); dịch vụ số hóa thẻ trên nền tảng thiết bị di động và các website/ ứng dụng thương mại điện tử (Tap to pay) dự kiến sớm được ra mắt trong thời gian tới.
+
+“NAPAS đang phối hợp triển khai hạ tầng thanh toán, cho phép người dân có thể sử dụng tất cả các dịch vụ thanh toán hiện nay gồm thẻ, tài khoản, VietQR để thanh toán các dịch vụ công thực hiện trên Cổng dịch vụ công quốc gia và ứng dụng VNeID do Bộ Công an xây dựng và quản lý. Đến nay, NAPAS đã triển khai thí điểm 1 số dịch vụ, trong đó có dịch vụ thanh toán trực tuyến phí/ lệ phí cấp Lý lịch tư pháp cho người dân”, ông Nguyên cho biết.
+
+Để đảm bảo an ninh, an toàn trong quá trình phổ cập các dịch vụ ngân hàng trên nền tảng số, Ngân hàng Nhà nước tích cực phối hợp với Bộ Công an triển khai đề án 06.
+
+Ngân hàng Nhà nước cho biết, đến 25/4, có 48 tổ chức tín dụng đã và đang triển khai ứng dụng xác thực khách hàng bằng thẻ Căn cước công dân gắn chíp qua ứng dụng điện thoại; 58 tổ chức tín dụng đã và đang triển khai ứng dụng xác thực khách hàng bằng thẻ Căn cước công dân gắn chíp qua thiết bị tại quầy. Có 14 tổ chức tín dụng đang triển khai thử nghiệm ứng dụng tài khoản định danh và xác thực điện tử (VNeID) vào các nghiệp vụ: mở tài khoản thanh toán; xác thực giao dịch thanh toán; đối chiếu, xác thực thông tin khách hàng. Bảy tổ chức tín dụng đã và đang triển khai giải pháp chấm điểm khả tin.
+
+Có 23 tổ chức tín dụng đã ký kết với C06 (Cục Cảnh sát quản lý hành chính về trật tự xã hội - Bộ Công an) triển khai làm sạch dữ liệu khách hàng theo phương thức offline.
+
+Ngân hàng Nhà nước đã triển khai hệ thống kết nối, khai thác Cơ sở dữ liệu Quốc gia về dân cư cho hệ thống dịch vụ công trực tuyến (cấp chứng thư số) từ tháng 12/2022. Hiện nay, hệ thống đã kết nối, khai thác dữ liệu dân cư phục vụ xử lý hơn 560 lượt hồ sơ. Trung tâm thông tin tín dụng quốc gia Việt Nam (CIC) đã kết nối với Cơ sở dữ liệu Quốc gia về dân cư để làm sạch 48,5 triệu thông tin tín dụng.
+
+Liên quan đến vấn đề lừa đảo trực tuyến thời gian gần đây, ông Nguyễn Hưng Nguyên thông tin NAPAS đang phối hợp các ngân hàng và cơ quan quản lý bổ sung một số giải pháp nhằm giám sát, phát hiện sớm tài khoản có dấu hiệu gian lận, giả mạo để hạn chế rủi ro cho khách hàng khi thực hiện giao dịch.

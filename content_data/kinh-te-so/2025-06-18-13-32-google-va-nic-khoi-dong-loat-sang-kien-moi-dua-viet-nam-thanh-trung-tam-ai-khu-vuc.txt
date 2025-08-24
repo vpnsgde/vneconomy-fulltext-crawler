@@ -1,0 +1,33 @@
+Sự kiện công bố các chương trình đào tạo chuyên sâu cho startup và phổ cập kiến thức AI cho cộng đồng, với sự tham dự và chỉ đạo của Phó Thủ tướng Chính phủ Nguyễn Chí Dũng, khẳng định quyết tâm của Việt Nam trong việc làm chủ công nghệ và trở thành một trung tâm AI hàng đầu.
+
+Sáng kiến năm 2025 sẽ tập trung vào việc củng cố hệ sinh thái khởi nghiệp AI và thúc đẩy chuyển đổi số tại Việt Nam thông qua các chương trình trọng điểm được thiết kế riêng.
+
+Các sáng kiến chính được công bố bao gồm:
+
+Google for Startups AI Bootcamp 2025:Một chương trình huấn luyện chuyên sâu kéo dài 3 ngày tại TP. Hồ Chí Minh, dành cho 100 doanh nghiệp khởi nghiệp (tương đương 200 nhà phát triển). Chương trình giúp các nhà phát triển nắm vững cách ứng dụng các tính năng AI mới nhất của Google, từ lên ý tưởng, tạo mẫu nhanh đến hoàn thiện sản phẩm và chuẩn bị gọi vốn.
+
+Google for Startups AI Solutions Lab 2025:Cuộc thi hackathon diễn ra trong 4 ngày tại Đà Nẵng, quy tụ 50 doanh nghiệp khởi nghiệp với mục tiêu xây dựng các giải pháp GenAI giải quyết thách thức thực tiễn tại địa phương.
+
+Các đội tham gia sẽ được Trung tâm nghiên cứu, đào tạo thiết kế vi mạch và trí tuệ nhân tạo Đà Nẵng (DSAC) hỗ trợ không gian làm việc miễn phí trong sáu tháng. Đặc biệt, 10 đội xuất sắc nhất sẽ có cơ hội trình bày sản phẩm trước các nhà đầu tư và đối tác tại sự kiện AI lớn nhất năm của Google Việt Nam vào tháng 9.
+
+Với tầm nhìn về “Kiến tạo cho Nhân tài”, việc hợp tác giữa Google và NIC đang tập trung giải quyết một cách chiến lược những nhu cầu cấp thiết về nâng cao kỹ năng cho lực lượng lao động, giúp người lao động sẵn sàng trong kỷ nguyên AI đang phát triển nhanh chóng.
+
+Đến thời điểm hiện tại, sáng kiến đã trao thành công 60.000 suất học bổng thông qua Chương trình Phát triển Nhân tài số của Google và NIC. Thành quả này có được nhờ mạng lưới rộng khắp với hơn 100 đối tác là các trường đại học và cộng đồng. Chương trình đào tạo bao gồm những lĩnh vực có nhu cầu cao trên thị trường như Phân tích dữ liệu, Thiết kế trải nghiệm người dùng (UX Design), Tiếp thị kỹ thuật số - Thương mại điện tử, và Kiến thức cơ bản về AI (AI Essentials), nhờ đó, người lao động được trang bị trực tiếp những kỹ năng cần thiết để đáp ứng các yêu cầu công việc hiện tại.
+
+Đặc biệt, khóa học AI Essentials, một chương trình tự học khoảng 10 giờ, mang đến cho người tham gia những hiểu biết thực tế về cách tận dụng các công cụ AI tạo sinh để tăng năng suất, nắm vững kỹ thuật đưa ra câu lệnh hiệu quả, và thúc đẩy sử dụng AI có trách nhiệm thông qua việc nhận diện các thiên vị tiềm ẩn cũng như giảm thiểu tác hại. Khóa học Google AI Essentials hiện đã có ngôn ngữ tiếng Việt.
+
+Phát biểu tại sự kiện, Thứ trưởng Bộ Tài chính Trần Quốc Phương cho biết, các chương trình hợp tác giữa NIC và Google từ năm 2022 đã trở thành bệ phóng mạnh mẽ, trao cho thế hệ trẻ và các doanh nghiệp khởi nghiệp công nghệ thêm động lực để biến ý tưởng thành hiện thực. Bộ Tài chính cam kết sẽ luôn đồng hành cùng doanh nghiệp và các đối tác để thúc đẩy sự phát triển của ngành AI tại Việt Nam.
+
+Chương trình hợp tác này được xây dựng dựa trên những thành công đáng kể từ năm 2022, khi đã có hơn 500 doanh nghiệp khởi nghiệp Việt Nam tham gia các hoạt động, tạo ra hơn 300 việc làm mới và mang lại lợi ích cho hơn 300.000 khách hàng trên toàn quốc. Bên cạnh đó, chương trình Phát triển Nhân tài số cũng đã trao thành công 60.000 suất học bổng cho người lao động Việt Nam.
+
+Ông Vũ Quốc Huy, Giám đốc NIC, nhấn mạnh các chương trình mới được công bố hôm nay không chỉ là sự tiếp nối, mà còn là bước tiến trong cam kết chung giữa hai bên. Theo đó, hai bên đặt mục tiêu cao hơn nữa - đào tạo bài bản và trao quyền cho thế hệ đổi mới sáng tạo, những người sẽ đóng vai trò tiên phong trong làn sóng tăng trưởng kinh tế tiếp theo của đất nước, với nền tảng Google AI.
+
+Về phía Google, ông Marc Woo, Giám đốc điều hành Google Việt Nam, nhận định cơ hội phát triển một nền kinh tế dẫn dắt bởi AI tại Việt Nam là rất lớn. AI được dự báo có thể mang lại lợi ích kinh tế lên tới 1,89 triệu tỷ đồng (tương đương 79,3 tỷ USD) vào năm 2030. Vì vậy, ông khẳng định cam kết của Google trong việc đồng hành cùng sự phát triển của Việt Nam, giúp các doanh nghiệp trong nước mở rộng quy mô và góp phần đưa Việt Nam trở thành trung tâm AI hàng đầu khu vực.
+
+Phát biểu chỉ đạo tại sự kiện, Phó Thủ tướng Chính phủ Nguyễn Chí Dũng đánh giá cao sự hợp tác chiến lược giữa Google và NIC, cho rằng đây là hành động thiết thực nhằm cụ thể hóa chủ trương của Đảng và Chính phủ về đột phá phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số.
+
+Phó Thủ tướng nhấn mạnh Đảng, Chính phủ Việt Nam đã xác định khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số là con đường ngắn nhất, là yếu tố có ý nghĩa sống còn để Việt Nam thực hiện khát vọng phát triển nhanh, bền vững.
+
+Phó Thủ tướng cũng đề nghị Google tiếp tục phối hợp chặt chẽ với Việt Nam trong các kế hoạch hành động lớn, bao gồm: xây dựng Trung tâm đào tạo, nghiên cứu và phát triển AI tại Việt Nam; hợp tác xây dựng đội ngũ nhân lực AI chất lượng cao; phát triển hệ sinh thái đổi mới sáng tạo về AI; và tham vấn cho Việt Nam hoàn thiện khung pháp lý về AI để đảm bảo công nghệ này được phát triển an toàn, có trách nhiệm.
+
+“Với sự đồng hành của Chính phủ, sự hợp tác của các tập đoàn công nghệ toàn cầu và nguồn nhân lực trẻ năng động, Việt Nam đã sẵn sàng cho hành trình trở thành trung tâm nghiên cứu, phát triển và ứng dụng AI ở tầm mức khu vực và toàn cầu”, Phó Thủ tướng nhấn mạnh.

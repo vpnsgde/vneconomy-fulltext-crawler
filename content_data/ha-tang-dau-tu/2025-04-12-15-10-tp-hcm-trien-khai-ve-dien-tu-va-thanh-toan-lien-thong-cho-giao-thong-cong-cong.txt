@@ -1,0 +1,17 @@
+Sáng 11/4, Sở Giao thông công chánh TP.HCM cùng các đơn vị đã chính thức triển khai hệ thống vé điện tử Open-Loop trên xe buýt và ra mắt thẻ MultiPass - thẻ thanh toán liên thông cho giao thông công cộng Thành phố.
+
+Với hệ thống thanh toán không tiền mặt theo công nghệ Open-Loop trên xe buýt, người dân có thể sử dụng các phương thức thanh toán đa dạng như thẻ tín dụng, thẻ ghi nợ, thẻ trả trước EMV, ví điện tử và thiết bị thông minh để di chuyển bằng xe buýt tại TP.HCM.
+
+Trong khi đó, MultiPass là thẻ thanh toán liên thông cho các phương tiện giao thông công cộng có lắp thiết bị thanh toán (máy POS). Thẻ được thiết kế dành riêng cho người di chuyển thường xuyên như học sinh, sinh viên, người đi làm... với các tiện ích và ưu đãi dành riêng cho giao thông.
+
+Theo bà Nguyễn Thị Dạ Thảo, Giám đốc Trung tâm Quản lý giao thông công cộng TP.HCM, hệ thống thẻ vé điện tử được triển khai đồng bộ từ hệ thống thiết bị gắn trên xe, hệ thống phần mềm xử lý giao dịch AFC nhằm đảm bảo khả năng tương thích và tích hợp mở rộng thanh toán. Hệ thống thực hiện chính sách giá vé liên thông các loại hình giao thông công cộng khác nhau như xe buýt, xe buýt nhanh, đường sắt đô thị, xe đạp công cộng, buýt đường sông…
+
+Bên cạnh tuyến Metro số 1 Bến Thành – Suối Tiên, hệ thống xe buýt Thành phố hiện có 138 tuyến (108 tuyến có trợ giá và 30 tuyến không trợ giá) với khoảng 2.200 phương tiện hoạt động. Mỗi ngày, hệ thống xe buýt thực hiện gần 13.000 chuyến xe, vận chuyển bình quân hơn 350.000 lượt hành khách, đáp ứng nhu cầu đi lại của người dân thành phố.
+
+Hiện nay, hệ thống thanh toán không tiền mặt theo công nghệ Open-Loop đã được lắp đặt trên một số tuyến xe buýt trọng điểm với hơn 500 phương tiện. Việc triển khai đang tiếp tục được mở rộng và dự kiến hoàn thành lắp đặt cho hơn 2.000 xe buýt trong tháng 5 tới.
+
+Cùng hệ thống thanh toán mở Open-Loop trên xe buýt, TP.HCM sẽ xây dựng và ra mắt ứng dụng MultiGo. Ứng dụng này giúp người dùng có thể tra cứu lộ trình, thời gian di chuyển của toàn bộ các phương tiện giao thông công cộng; mua vé giao thông công cộng trên ứng dụng; phát hành thẻ MultiPass trực tiếp trên ứng dụng;…
+
+Theo Sở Giao thông công chánh, trong các mục tiêu phát triển giao thông công cộng trên địa bàn, ngoài xây dựng và mở rộng mạng lưới, Thành phố là nơi tiên phong áp dụng các mô hình thẻ vé thông minh. Giải pháp này không chỉ tạo thuận lợi cho hành khách, phù hợp với xu hướng chung, còn giúp hình thành cơ sở dữ liệu, số hóa thông tin. Đây là cơ sở để cơ quan quản lý xác định rõ hơn thói quen, nhu cầu đi lại của người dân, từ đó có những điều chỉnh nếu chưa phù hợp.
+
+Đồng thời, những bước tiến này giúp nâng cao trải nghiệm di chuyển hàng ngày cho người dân, mở đường cho các giải pháp giao thông đô thị thông minh.

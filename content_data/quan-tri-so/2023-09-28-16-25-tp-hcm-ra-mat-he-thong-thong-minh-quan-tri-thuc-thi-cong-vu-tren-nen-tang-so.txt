@@ -1,0 +1,23 @@
+Sáng 28/9, UBND TP.HCM công bố ra mắt Hệ thống quản trị thực thi trên nền tảng số. Hệ thống này được Sở Thông tin và Truyền thông TP.HCM và Tập đoàn công nghiệp viễn thông Quân đội (Viettel) phối hợp triển khai trong vòng 45 ngày, rút ngắn so với kế hoạch 4 tháng theo dự kiến ban đầu.
+
+Theo Sở Thông tin và Truyền thông TP.HCM, hệ thống này có 3 chức năng chính gồm: Tổng hợp thông tin kinh tế - xã hội, kết quả bộ chỉ tiêu điều hành; Điều hành, quản trị; Giám sát, tương tác giữa người dân với chính quyền.
+
+Các chỉ tiêu thống kê gồm 154 chỉ tiêu cấp Thành phố và 51 chỉ tiêu cấp quận, huyện được phân loại theo lĩnh vực, trình diễn dưới dạng đồ thị, biểu đồ, hình ảnh minh họa giúp lãnh đạo TP.HCM, sở ngành, quận, huyện có thể nắm bắt toàn diện, trực quan về tình hình kinh tế - xã hội của địa phương.
+
+Tính năng này cũng sẽ tổng hợp kết quả điều hành của bộ chỉ số về chuyển đổi số, năng lực cạnh tranh cấp sở, cấp huyện qua từng năm. Từ các Dashboard tổng hợp sẽ giúp lãnh đạo xem xét những điểm yếu kém cần thiết phải khắc phục, điểm tăng tốc phát triển.
+
+Đối với chức năng điều hành, quản trị, lãnh đạo Thành phố có thể nắm thông tin tức thời và đưa ra quyết định thực thi ngay trên các thông số chỉ tiêu kinh tế - xã hội trên Bộ chỉ số điều hành của thành phố, các chỉ tiêu giao cho các đơn vị triển khai. Chức năng này giúp điều hành chỉ tiêu phát triển kinh tế - xã hội hằng năm; theo dõi tiến độ triển khai Nghị quyết 98 của Quốc hội (nhóm này đang theo dõi 8 nhóm nhiệm vụ/giải pháp)...
+
+Điều đặc biệt của hệ thống là tự động gom nhóm cảnh báo (nhóm chỉ tiêu nguy cơ không đạt xuất hiện đầu tiên) và lãnh đạo thành phố có thể gửi yêu cầu giải trình đối với từng chỉ tiêu mà các đơn vị đã báo cáo.
+
+Chức năng thứ ba, hệ thống giám sát, tương tác giữa người dân với chính quyền thành phố. Với các hệ thống này, lãnh đạo Thành phố có thể nhìn thấy thời gian thực sự tương tác của người dân với chính quyền, giúp lãnh đạo thành phố giám sát kết quả xử lý việc tiếp nhận, ý kiến của người dân với từng đơn vị, đơn vị nào xử lý đúng hạn, đơn vị nào xử lý trễ hạn và chỉ đạo trực tiếp trên từng ý kiến cụ thể.
+
+Trước mắt, tính năng này theo dõi theo 5 nhóm: tiếp nhận hiến kế của người dân; bản đồ thể chế, kết quả giải quyết thủ tục hành chính và dịch vụ công, cổng thông tin 1022, tổng đài khẩn cấp liên thông 113 - 114 - 115 và cổng thông tin đối thoại doanh nghiệp.
+
+Ngoài ra, hệ thống xây dựng dưới kiến trúc mở, sẵn sàng mở rộng tích hợp các hệ thống thành phần khi cần thiết. Các sở, ngành, quận, huyện sẽ có các hệ thống theo dõi riêng được tích hợp tại đây...
+
+Do hệ thống được xác thực định danh người dùng trên cơ sở dữ liệu cán bộ công chức Thành phố nên đây cũng là giải pháp kỹ thuật giúp đăng nhập tất cả hệ thống thông tin bằng tài khoản/mật khẩu riêng biệt của từng cá nhân cán bộ, công chức khi tham gia một nền tảng dùng chung.
+
+Đồng thời, hệ thống cũng được phân quyền về sở, ngành, quận, huyện, giúp các cấp có thể nắm bắt tổng quan về tình hình phát triển của địa phương, đơn vị...
+
+Sau khi hệ thống đưa vào vận hành, Thành phố sẽ có đủ dữ liệu để dự báo tình hình phát triển kinh tế - xã hội. Đây sẽ là nền tảng cho việc xây dựng chính quyền số và đô thị thông minh đúng theo định hướng của Nghị quyết Đại hội Đảng bộ thành phố lần thứ XI.

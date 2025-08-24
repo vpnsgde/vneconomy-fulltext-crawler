@@ -1,0 +1,7 @@
+Hiện nay, công cụ trí tuệ nhân tạo (AI) đang ngày càng được tích hợp sâu rộng - trong nhiều trường hợp thậm chí là bắt buộc - vào các quy trình làm việc chuyên nghiệp. Tác động thực tế đối với năng suất lao động của công cụ này đang ngày càng trở nên rõ ràng.
+
+Đồ thị thông tin dưới đây so sánh khoảng thời gian trung bình một người trưởng thành tại Mỹ hoàn thành 18 nhiệm vụ phổ biến có dùng hoặc không dùng AI tạo sinh (gen AI). Số liệu này được lấy từ một khảo sát với 4.278 người trưởng thành tại Mỹ vào tháng 12/2024 của Đại học Stanford và Ngân hàng Thế giới (WB).
+
+Có thể thấy, trên tất cả các nhiệm vụ, việc sử dụng AI tạo sinh giúp giảm hơn 60% thời gian thực hiện. Một số nhiệm vụ ghi nhận thời gian hoàn thành giảm mạnh nhất khi dùng AI tạo sinh là phân tích hoặc nhiệm vụ đòi hỏi kỹ thuật cao. Ví dụ, nhiệm vụ khắc phục sự cố giảm được 76% thời gian thực hiện khi dùng AI tạo sinh. Các nhiệm vụ như tư duy phản biện, lập trình và thiết kế công nghệ đều tiết kiệm được hơn 70% thời gian.
+
+Một điều thú vị là, thậm chí các nhiệm vụ vốn chú trọng vào con người như hướng dẫn, đánh giá và ra quyết định hay quản lý nhân sự, khi sử dụng AI tạo sinh, khoảng thời gian tiết kiệm được là từ 60-70%.

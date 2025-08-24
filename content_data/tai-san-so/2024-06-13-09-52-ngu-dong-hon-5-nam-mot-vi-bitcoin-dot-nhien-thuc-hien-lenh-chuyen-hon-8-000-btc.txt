@@ -1,0 +1,19 @@
+Theo dữ liệu từ Lookchain, một “cá voi” Bitcoin đã bất ngờ chuyển 8.000Bitcoin(BTC) trị giá 536,5 triệu USD từ ví lưu trữ lạnh Coinbase sau 5 năm rưỡi không hoạt động lên sàn Binance.
+
+Theo công ty phân tích blockchain Arkham Intelligence, địa chỉ bitcoin “1ABww1…mCSKq” đã nhận được toàn bộ số tiền 8.000 BTC tại khối 847.490 vào ngày 11 tháng 6 lúc 20:26 (giờ Việt Nam).
+
+Chỉ ngay sau đó 11 phút, địa chỉ ví trên lại chuyển tất cả Bitcoin đến địa chỉ gửi tiền Binance “15u4H…rMsLa”. Mặc dù số Bitcoin có giá trị khổng lồ được chuyển đi nhưng lại không hề có bất kỳ giao dịch thử nào diễn ra trong cả hai lần chuyển đổi này.
+
+Ví lạnhCoinbase của cá voi này ban đầu đã nhận tổng cộng 8.000 Bitcoin qua hàng chục giao dịch vào năm 2018, chủ yếu là các lô 200 BTC.
+
+Thông thường, các địa chỉ không hoạt động lâu năm với lượng nắm giữ lớn đột nhiên hoạt động thường nhằm mục đích bán đi, đặc biệt nếu họ chuyển đến địa chỉ tiền gửi trên sàn giao dịch.
+
+Mặc dù chưa rõ ý định của chủ sở hữu ví Bitcoin này, nhưng nếu bán hết số Bitcoin kể trên, chủ nhân của nó sẽ thu về lợi nhuận gần 1.700% so với giá mua ban đầu là 3.750 USD vào ngày 05/12/2018.
+
+Đây không phải lần đầu tiên ví cổ Bitcoin thức giấc. Vào ngày 12/05, hai ví Bitcoin 10 năm đã tuổi gửi đi tổng cộng 1.000 Bitcoin. Một tuần trước đó, một ví Bitcoin từ thời Satoshi Nakamoto đã chuyển 687 Bitcoin USD đến hai địa chỉ khác nhau.
+
+Tuy nhiên, theo báo cáo của Chainalysis và Fortune, hiện vẫn còn tới 1,75 triệu địa chỉ Bitcoin đang ngủ đông, chứa hơn 1,798 triệu BTC (trị giá khoảng 121 tỷ USD) đã không hoạt động trong hơn một thập kỷ.
+
+Động thái của các ví ngủ đông đột nhiên hoạt động trở lại có thể cho thấy hành động “chốt lời” của chủ nhân, dự đoán thị trường chuẩn bị có một đợt điều chinh, nhất là khi những ví này chuyển Bitcoin vào địa chỉ nạp tiền của một sàn giao dịch.
+
+Bitcoin gần đây đã chịu một đợt giảm 7,5% từ đỉnh cao nhất là 71.650 USD xuống còn 66.250 USD. Hiện BTC đang được giao dịch quanh mức hơn 67.00 USD.

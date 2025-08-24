@@ -1,0 +1,35 @@
+Ngày 15/7/2024, Bộ Thông tin và Truyền thông ban hành văn bản số 2765/BTTTT-CĐSQG công bố danh sách các nền tảng số quốc gia do các Bộ, ngành triển khai trên toàn quốc để địa phương khai thác, tránh trùng lặp.
+
+Để thúc đẩy việc triển khai, sử dụng các nền tảng số, hệ thống thông tin, ứng dụng có quy mô toàn quốc, tránh triển khai trùng lặp giữ các bộ, ngành, địa phương và tăng tính chủ động của địa phương, trên cơ sở đề xuất của các bộ, ngành, Bộ Thông tin và Truyền thông đã tổng hợp danh sách các nền tảng do các bộ, ngành, triển khai trên toàn quốc. Bộ Thông tin và Truyền thông cho biết danh sách này sẽ thường xuyên được cập nhật.
+
+Danh sách nền tảng số quốc gia bao gồm các nền tảng số, hệ thống thông tin, ứng dụng do Bộ, ngành đầu tư, triển khai sử dụng toàn quốc từ Trung ương đến các địa phương, như: Hệ thống thông tin quốc gia về đầu tư, Hệ thống mạng đấu thầu quốc gia, Hệ thống thông tin quốc gia về đăng ký doanh nghiệp…
+
+Các nền tảng số quốc gia này là nền tảng phục vụ nghiệp vụ, chức năng quản lý nhà nước của các Bộ, ngành tại địa phương; là công cụ hỗ trợ các cơ quan, tổ chức, cá nhân làm việc; hỗ trợ cung cấp thông tin, chỉ đạo điều hành từ Trung ương đến địa phương; hỗ trợ địa phương cập nhật thông tin, báo cáo, thống kê cho Bộ, ngành.
+
+Theo danh mục nền tảng, hệ thống thông tin triển khai trên toàn quốc đến địa phương cập nhật đến ngày 3/7/2024, có 103 nền tảng số của các Bộ: Công an, Tài chính, Kế hoạch và Đầu tư, Xây dựng, Giao thông vận tải, Tư pháp… được công bố.
+
+Trong đó, Bộ Tài chính có 31 nền tảng gồm: cổng công khai ngân sách nhà nước; hệ thống thông tin thống kê tài chính; kho dữ liệu thu chi ngân sách nhà nước; hệ thống cấp mã số cho các đơn vị có quan hệ với ngân sách (dịch vụ công trực tuyến toàn trình); cơ sở dữ liệu quốc gia về giá;
+
+Cùng với đó là ứng dụng quản lý văn bản và điều hành của Tổng cục Thuế (eDocTC); ứng dụng văn bản điện tử (TaxOffice); ứng dụng hỗ trợ theo dõi kết quả thanh kiểm tra thuế; ứng dụng quản lý thuế tập trung; ứng dụng quản lý hóa đơn, ấn chỉ thuế; hiện đại hóa quy trình thu nộp thuế giữa cơ quan Thuế- Kho bạc nhà nước- Hải quan- Tài chính; ứng dụng quản lý trước bạ nhà đất; ứng dụng website tra cứu hóa đơn; ứng dụng ký điện tử tập trung ngành thuế; ứng dụng dịch vụ thuế điện tử (ETax); ứng dụng quản lý hóa đơn điện tử;
+
+Bộ Tài chính cũng chủ trì phối hợp với Bộ Quốc phòng xây dựng triển khai nền tảng cửa khẩu số, tự động hóa quy trình, rít ngắn thời gian thực hiện thủ tục hàng hóa xuất nhập khẩu đang thực hiện thí điểm tại một số cửa khẩu.
+
+Bộ Công an có 11 nền tảng, hệ thống như: cơ sở dữ liệu quốc gia về dân cư; cơ sở dữ liệu căn cước; hệ thống định danh và xác thực điện tử; nền tảng định danh và xác thực điện tử; trung tâm dữ liệu quốc gia; ký số tập trung biên lai điện tử; cung cấp các dịch vụ gia hạn, thay đổi thông tin; cung cấp dịch vụ đầu thời gian và kiểm tra trạng thái chứng thư số trực tuyến trong Công an nhân dân;…
+
+
+
+Bộ Xây dựng có 10 nền tảng, hệ thống gồm: cổng thông tin quy hoạch xây dựng, quy hoạch đô thị Việt Nam; hệ thống dịch vụ công trực tuyến cấp giấy phép xây dựng đối với nhà ở riêng lẻ; hệ thống dịch vụ công trực tuyến cung cấp thông tin quy hoạch; hệ thống thông báo nhà ở hình thành trong tương lai đủ điều kiện được bán, cho thuê mua; hệ thống thông tin về nhà ở và thị trường bất động sản; cơ sở dữ liệu về định mức, giá xây dựng và chỉ số giá xây dựng;…
+
+Bộ Giao thông vận tải có 8 nền tảng, hệ thống như: hệ thống dịch vụ công quản lý vận tải; hệ thống dịch vụ công đổi giấy phép lái xe; hệ thống thông tin giấy phép lái xe; hệ thống giám sát hành trình; nền tảng tích hợp, chia sẻ dữ liệu cấp Bộ (LGSP); hệ thống hội nghị truyền hình…
+
+Bộ Kế hoạch và Đầu tư có 7 nền tảng, hệ thống thông tin gồm: hệ thống thông tin quốc gia về đầu tư; hệ thống mạng đấu thầu quốc gia; hệ thống thông tin quốc gia về đăng ký doanh nghiệp; hệ thống thông tin về đang ký hợp tác xã; hệ thống thông tin về đăng ký hộ kinh doanh; hệ thống thông tin và cơ sở dữ liệu quốc gia về đầu tư công; hệ thống thông tin về giám sát, đánh giá đầu tư.
+
+Các bộ như: Bộ Giáo dục và Đào tạo có 7 nền tảng, hệ thống; Bộ Nội vụ có 9 nền tảng; Bộ Tư pháp có 9 nền tảng…
+
+Theo danh mục này, có một số bộ chưa công bố nền tảng triển khai toàn quốc như: Bộ Công Thương; Bộ Lao động Thương binh và Xã hội; Bộ Nông nghiệp và Phát triển nông thôn; Bộ Y tế; Bộ Văn hóa, Thể Thao và Du lịch; Bộ Tài nguyên và Môi trường;…
+
+Bộ Thông tin và Truyền thông đề nghị với các Bộ, ngành chưa công bố cần khẩn trương rà soát và gửi Bộ Thông tin và Truyền thông công bố. “Nếu không công bố mà các địa phương triển khai chồng lấn, trùng lặp phải chịu trách nhiệm trước Thủ tướng Chính phủ”, văn bản do Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long ký nêu rõ.
+
+Các Bộ, ngành cập nhật kịp thời danh sách các nền tảng khi có sự thay đổi; rà soát và kết nối các nền tảng số trong danh mục với Nền tảng tích hợp và chia sẻ dữ liệu quốc gia để chia sẻ, trao đổi dữ liệu với các nền tảng của địa phương.
+
+Bộ Thông tin và Truyền thông cũng đề nghị các địa phương tích cực khai thác, sử dụng các nền tảng do các Bộ, ngành triển khai. Trường hợp có khó khăn, vướng mắc đề nghị liên hệ với đầu mối vận hành nền tảng trong danh mục để được hỗ trợ. Đồng thời, chủ động triển khai các giải pháp chuyển đổi số của mình; tránh triển khai chồng lấn, trùng lặp với các nền tảng số do các Bộ, ngành đã công bố.

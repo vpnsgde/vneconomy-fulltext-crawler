@@ -1,0 +1,31 @@
+Số liệu cũng như những thông tin, đánh giá trên được đưa ra tại Hội thảo khoa học“Quản lý nhà nước về tài sản mã hóa: Những vấn đề lý luận và thực tiễn tại Việt Nam” do Viện Chiến lược và Chính sách tài chính phối hợp với Học viện Tài chính tổ chức tổ chức ngày 29/8.
+
+Tính đến cuối tháng 8/2024, giá trị vốn hóa thị trường tiền mã hóa toàn cầu ước đạt 2,21 nghìn tỷ USD với hơn 2,4 triệu loại tiền mã hóa, theo thống kê của CoinMarketCap.
+
+Sự phát triển của thị trường tài sản mã hoá là xu hướng tất yếu, vì vậy, thay vì ngăn cấm hay không công nhận như trước đây, Chính phủ nhiều quốc gia đã bắt đầu hình thành khung pháp lý về quản lý tài sản mã hóa để quản lý và giám sát.
+
+Theo đó, đa số các quốc gia thuộc nhóm G20 (chiếm 57% GDP toàn cầu) đã công nhận, hợp pháp hóa tài sản mã hóa, đánh thuế đối với giao dịch tài sản mã hóa.
+
+Các tổ chức tài chính quốc tế như Hội đồng ổn định tài chính (Financial Stability Board, FSB), Tổ chức Quốc tế của các Ủy ban Chứng khoán (IOSCO), Ủy ban Basel về giám sát ngân hàng… cũng ban hành các hướng dẫn, thông lệ tốt và khuyến cáo đối với các cơ quan quản lý nhà nước về vấn đề này.
+
+Riêng tại Việt Nam, theo báo cáo của hãng Chainalysis, tính đến tháng 7/2023, tài sản mã hóa vào Việt Nam lên đến 120 tỷ USD, gấp khoảng 3 - 4 lần dòng vốn đầu tư trực tiếp nước ngoài vào Việt Nam và tăng 20% so với giai đoạn 2021 - 2022 (khoảng 100 tỷ USD). Tuy nhiên, do chưa có cơ sở pháp lý cụ thể về tài sản mã hoá, khoản thu thuế đối với 120 tỷ USD này đang bị thất thoát, chảy ra khỏi Việt Nam.
+
+Điều này cho thấy dù chưa được pháp luật chính thức công nhận, song các hoạt động giao dịch tài sản số vẫn diễn ra sôi động. Thậm chí, năm 2023, theo Chainalysis, Việt Nam đứng thứ ba toàn cầu về Chỉ số chấp nhận tài sản mã hoá. Năm 2024, Việt Nam đứng thứ 7 thế giới về dân số sở hữu tài sản mã hoá và nằm trong 30 quốc gia có tỷ lệ sở hữu tài sản mã hoá cao nhất.
+
+Mặc dù tỷ lệ người dân sở hữu tài sản mã hoá ở Việt Nam đang ở mức cao, tuy nhiên vì thiếu các quy định pháp lý liên quan đã khiến Việt Nam bị đưa vào danh sách xám của Lực lượng đặc nhiệm tài chính toàn cầu (FATF). Trong khi đó, Quỹ Tiền tệ Quốc Tế (IMF) ước tính những quốc gia lọt vào danh sách xám của FATF có thể mất khoảng 7,8% GDP.
+
+Năm 2023, lợi nhuận toàn cầu từ tài sản mã hoá đạt 37,6 tỷ USD, trong đó Việt Nam đứng thứ 3 với gần 1,2 tỷ USD lợi nhuận. Theo ông Phan Đức Trung, Phó Chủ tịch Thường trực Hiệp hội Blockchain Việt Nam, với khối lượng giao dịch sẽ còn tăng trưởng kép trong thời gian tới, đây sẽ là dòng thuế mới vô cùng tiềm năng đối với bất kỳ quốc gia nào.
+
+Dự thảo Luật Công nghiệp Công nghệ số dự kiến được ban hành năm 2025 sẽ là cơ sở thu thuế Tài sản số tại Việt Nam khi nó đã được công nhận.
+
+Đóng góp ý kiến xây dựng khuôn khổ pháp lý đối với tài sản mã hoá, TS. Nguyễn Thuỳ Dung, Học viện Tài chính, khẳng định các cơ quan quản lý trên thế giới nói chung và Việt Nam nói riêng đang dùng rất nhiều thuật ngữ khác nhau để chỉ tài sản mã hoá. Do đó, một trong những nhiệm vụ đầu tiên khi xây dựng công cụ pháp lý là thống nhất thuật ngữ tài sản số hay tài sản mã hoá và nội hàm của thuật ngữ.
+
+Bên cạnh đó, dựa trên nghiên cứu chính sách của các nước trên thế giới, TS. Nguyễn Thuỳ Dung cho rằng: (1) Cần phân cấp các loại tài sản mã hoá, nếu tài sản mã hóa tương tự các sản phẩm tài chính truyền thống để quản lý bằng các điều chỉnh và bổ sung các văn bản pháp lý đã có; (2) Tiếp cận dựa trên rủi ro để xem xét thứ tự ưu tiên các biện pháp quản lý.
+
+TS. Nguyễn Văn Cương cho rằng cần đẩy mạnh hợp tác quốc tế giữa Việt Nam và Chính phủ các nước trong quản lý tài sản mã hoá, chia sẻ thông tin để phòng chống rửa tiền và trốn thuế.
+
+Đứng dưới góc độ thực tiễn doanh nghiệp, theo Phó Giám đốc Công ty cổ phần Công nghệ số SSI, với số lượng thống kê hơn 20 triệu người dùng tham gia tài sản số, điều đầu tiên phải nâng cao nhận thức cộng đồng để người dùng tự bảo vệ bản thân. Doanh nghiệp Việt Nam cần tuân thủ pháp luật và tăng cường ý thức bảo vệ người tiêu dùng để tăng uy tín và sức cạnh tranh trên toàn cầu.
+
+Quỹ Tiền tệ Quốc tế (IMF) đánh giá thị trường tài sản mã hoá hiện tại không gây rủi ro cho sự ổn định tài chính ở hầu hết các quốc gia đã có khuôn khổ pháp lý. Song, tài sản mã hoá được giao dịch tại thị trường mới nổi có thể làm suy yếu hiệu quả của chính sách tiền tệ, rủi ro chuyển hướng nguồn lực sang các tài sản ảo thay vì tập trung cho nền kinh tế thực.
+
+Vì vậy, để đảm bảo an ninh tiền tệ, ngăn chặn các hoạt động phi pháp như rửa tiền, các cơ quan quản lý các quốc gia cần chủ động nghiên cứu và xây dựng chính sách phù hợp, nhằm cân bằng giữa thúc đẩy đổi mới công nghệ và bảo vệ lợi ích quốc gia.

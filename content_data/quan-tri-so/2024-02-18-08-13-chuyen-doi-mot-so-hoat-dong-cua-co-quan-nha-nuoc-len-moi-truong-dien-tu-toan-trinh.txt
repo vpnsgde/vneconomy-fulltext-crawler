@@ -1,0 +1,29 @@
+Nội dung trên được đề cập tại dự thảo Nghị định quy định về giao dịch điện tử trong cơ quan nhà nước và Hệ thống thông tin phục vụ giao dịch điện tử, đang được Bộ Thông tin và Truyền thông lấy ý kiến nhân dân.
+
+Luật Giao dịch điện tử được thông qua ngày 22/6/2023 và có hiệu lực thi hành từ ngày 1/7/2024.
+
+Bộ Thông tin và Truyền thông, cho biết Luật Giao dịch điện tử là văn bản có phạm vi tác động tới nhiều lĩnh vực, nhiều chủ thể trong xã hội. Một số quy định có tính mới trong hệ thống văn bản quy phạm pháp luật, cần có hướng dẫn chi tiết để bảo đảm thống nhất trong tổ chức thực thi.
+
+Vì vậy việc xây dựng dự thảo Nghị định quy định về giao dịch điện tử trong cơ quan nhà nước và Hệ thống thông tin phục vụ giao dịch điện tử với mục đích quy định chi tiết và hướng dẫn thi hành một số nội dung được Luật Giao dịch điện tử năm 2023 giao; bảo đảm tính minh bạch, thống nhất trong cách tổ chức thực thi một số quy định của Luật Giao dịch điện tử.
+
+
+
+Dự thảo nghị định quy định, cơ quan nhà nước phải bảo đảm kết quả giải quyết thủ tục hành chính hoặc kết quả hoạt động công vụ khác không thuộc phạm vi bí mật nhà nước đều có văn bản điện tử có giá trị pháp lý như văn bản giấy, có thể truy cập và sử dụng được dưới dạng hoàn chỉnh.
+
+Cơ quan nhà nước ưu tiên kết quả thủ tục hành chính được tạo ra trên hệ thống sinh ra ở dạng điện tử trong quá trình thực hiện, được ký số và lưu trữ ở dạng điện tử. Trong trường hợp hệ thống chưa hỗ trợ, cán bộ thực hiện chuyển đổi và lưu trữ kết quả điện tử sau khi chuyển đổi.
+
+Kết quả thủ tục hành chính hoặc kết quả hoạt động công vụ được lưu trữ, truy cập và sử dụng dưới dạng hoàn chỉnh. Kết quả thủ tục hành chính lưu tại Kho quản lý dữ liệu cá nhân, tổ chức, có thể được cá nhân, tổ chức chia sẻ và sử dụng như một thành phần của các hồ sơ giải quyết thủ tục hành chính khác.
+
+Kho quản lý dữ liệu cá nhân, tổ chức được đồng bộ giữa Cổng Dịch vụ công quốc gia và Hệ thống giải quyết thủ tục hành chính cấp bộ, tỉnh bảo đảm kết quả thủ tục hành chính được truy cập và sử dụng. Cơ quan nhà nước phải tiếp nhận, giải quyết yêu cầu của tổ chức, cá nhân trên môi trường điện tử, trừ trường hợp pháp luật có quy định khác.
+
+Cơ quan nhà nước không được từ chối tiếp nhận, giải quyết yêu cầu của tổ chức, cá nhân trên môi trường điện tử chỉ vì yêu cầu đó được thể hiện dưới dạng điện tử. Cơ quan nhà nước công bố các phương tiện điện tử, các kênh tiếp nhận ý kiến, giải quyết yêu cầu của tổ chức, cá nhân trên môi trường điện tử. Đồng thời thông báo kết quả xử lý kết quả giải quyết yêu cầu của tổ chức, cá nhân qua môi trường điện tử qua các phương tiện điện tử, các kênh tiếp nhận ý kiến bên cạnh các trường hợp có ý kiến bằng văn bản giấy.
+
+Phương tiện điện tử, các kênh tiếp nhận ý kiến, giải quyết yêu cầu của tổ chức cá nhân trên môi trường điện tử phù hợp với quy định tại Điều 8 Nghị định 42/2022/NĐ-CP ngày 24 tháng 6 năm 2022.
+
+Theo dự thảo nghị định, các lĩnh vực hoạt động của cơ quan nhà nước ưu tiên thực hiện toàn trình trên môi trường điện tử bao gồm: cung cấp dịch vụ công; công tác quản trị nội bộ; chỉ đạo, điều hành; giám sát, kiểm tra, thanh tra.
+
+Nguyên tắc thực hiện toàn trình trên môi trường điện tử đối với hoạt động của cơ quan nhà nước. Theo đó, các lĩnh vực hoạt động của cơ quan nhà nước tại Điều 13 của Nghị định này được thực hiện toàn trình trên môi trường điện tử trừ trường hợp pháp luật có quy định khác.
+
+Việc thực hiện một cách tổng thể, dựa trên khai thác hiệu quả các hệ thống thông tin, các nền tảng số dùng chung, các cơ sở dữ liệu quốc gia và cơ sở dữ liệu chuyên ngành; kết nối, liên thông theo các tiêu chuẩn, quy chuẩn kỹ thuật bảo đảm tương thích giữa các thành phần phù hợp với Khung Kiến trúc Chính phủ điện tử, Chính phủ số.
+
+Chuyển đổi hoạt động của cơ quan nhà nước phải phù hợp với chức năng, nhiệm vụ của cơ quan đó; ưu tiên chuyển đổi toàn trình đối với các hoạt động áp dụng chung cho cơ quan nhà nước.

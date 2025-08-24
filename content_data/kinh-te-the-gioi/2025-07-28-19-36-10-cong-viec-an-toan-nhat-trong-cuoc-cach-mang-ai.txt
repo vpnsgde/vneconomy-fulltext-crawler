@@ -1,0 +1,5 @@
+Xếp hạng được đưa ra dựa trên Điểm về sức chống chịu trước AI. Điểm này được xếp theo thang điểm 1-100, tính toán dựa trên phân tích về mức độ mức độ rủi ro bị tự động hóa và tỷ lệ tương tác với con người của các vị trí công việc.
+
+Theo xếp hạng này, những công việc an toàn nhất như kỹ thuật viên y tế khẩn cấp hay nhân viên công tác xã hội y tế có mức độ rủi ro bị tự động hóa thấp bởi đây là các vị trí có sự tương tác liên tục với con người.
+
+Những công việc chống chịu tốt trước AI khác còn có các vị trí quản lý. Đây là những công việc phải lãnh đạo và ra quyết định, do đó khó có thể tự động hóa. Ngoài ra, những việc đòi hỏi thể lực và hoạt động tại hiện trường cũng khó bị AI thay thế.

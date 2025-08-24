@@ -1,0 +1,29 @@
+Bất chấp những nỗ lực đầu tư hàng triệu bảng của chính phủ nhằm củng cố vị thế quốc gia như một siêu cường khoa học và công nghệ vào năm 2030. Nghiên cứu mới đây của nền tảng học tập trực tuyến Coursera “Báo cáo Kỹ năng Toàn cầu” đã xếp Vương quốc Anh thứ 45 trên toàn cầu về trình độ kỹ năng công nghệ và kinh doanh, kết quả này đã cải thiện so với vị trí thứ 64 của năm ngoái.
+
+Năm 2022, Anh xếp thứ 38 và năm 2023, Anh xếp thứ 64. Tại khu vực, Vương quốc Anh là quốc gia có trình độ kỹ thuật cao thứ 25, xếp sau hàng loạt các quốc gia khác như Đức, Pháp và Tây Ban Nha,... Thụy Sĩ đứng ở vị trí đầu tiên trên bảng xếp hạng toàn cầu và các nước châu Âu chiếm 17 trong số 25 vị trí hàng đầu. Đức, Pháp và Tây Ban Nha lần lượt đứng ở vị trí thứ 3, 5 và 7.
+
+Báo cáo Kỹ năng Toàn cầu năm 2024 của Coursera dựa trên dữ liệu từ hơn 148 triệu người học khóa học trực tuyến trên toàn cầu và các chỉ số khác bao gồm chỉ số đổi mới toàn cầu, tỷ lệ tham gia Lao động, chỉ số vốn nhân lực và GDP bình quân đầu người.
+
+Dữ liệu Báo cáo Kỹ năng Toàn cầu của Coursera cho thấy số lượng đăng ký khóa học GenAI trên nền tảng đã tăng nhanh — tăng 1.060% so với cùng kỳ năm trước, trong bối cảnh thế giới chạy đua hướng tới xóa mù chữ về AI. Mặc dù Vương quốc Anh đã chứng kiến ​​mức tăng 961% trong việc nâng cao kỹ năng AI trong 12 tháng qua, nhưng mức tăng này lại thấp hơn mức trung bình toàn cầu và tụt hậu so với Mỹ (1.058%).
+
+
+
+Các quốc gia trên thế giới dường như còn tham vọng ưu tiên nâng cao kỹ năng AI hơn so với Vương quốc Anh. Tại Brazil, quốc gia nằm trong top 20 toàn cầu và đạt được trình độ tiên tiến về công nghệ và khoa học dữ liệu, số lượng đăng ký khóa học GenAI đã tăng 1.079% so với cùng kỳ năm ngoái.
+
+Vào năm 2023, Red Hat đã khảo sát các nhà quản lý công nghệ thông tin tại các doanh nghiệp lớn có trụ sở tại Vương quốc Anh về lý do tại sao nhân sự công nghệ phải vật lộn với tình trạng thiếu kỹ năng và ba lý do hàng đầu là: khối lượng công việc cao khiến nhân sự không có thời gian để nâng cao kỹ năng, thiếu ngân sách cho đào tạo, nâng cao kỹ năng hoặc tuyển dụng, các bộ phận làm việc quá riêng lẻ, cản trở cơ hội học tập.
+
+“Lĩnh vực công nghệ của Vương quốc Anh hiện tuyển dụng hàng triệu người mỗi năm và đóng góp hơn 150 tỷ bảng Anh cho nền kinh tế quốc gia”, Jeff Maggioncalda, Giám đốc điều hành Coursera cho biết.
+
+Trong bối cảnh toàn cầu về công nghệ và kỹ năng kinh doanh phát triển nhanh chóng, Vương quốc Anh phải đối mặt với những thách thức trong việc theo kịp các quốc gia khác trên thế giới.
+
+Tháng 3/2023, chính phủ Vương quốc Anh đưa ra kế hoạch đưa đất nước này trở thành siêu cường khoa học và công nghệ vào năm 2030. Hơn 370 triệu bảng Anh được dành để thúc đẩy cơ sở hạ tầng, đầu tư và kỹ năng cho các công nghệ như lượng tử và AI.
+
+Tháng 11/2023, hơn 200 triệu bảng Anh được chính phủ đầu tư để hỗ trợ các trường cao đẳng và đại học Anh nhằm cung cấp nguồn lực đào tạo các ngành kỹ thuật số. Tháng 3/2024, Bộ trưởng Khoa học nước Anh, Michelle Donelan tiết lộ một gói tài trợ khác trị giá hơn 1,1 tỷ bảng Anh để tài trợ đào tạo cho 4.000 tiến sĩ về khoa học kỹ thuật và vật lý.
+
+Vào tháng 12/2023, Microsoft công bố “khoản đầu tư trị giá hàng triệu bảng Anh” để cung cấp chương trình đào tạo kỹ năng AI cho hơn một triệu người.
+
+Theo chính phủ Anh, lĩnh vực AI đã tuyển dụng hơn 50.000 người và đóng góp hơn 3,7 tỷ bảng Anh cho nền kinh tế mỗi năm. Đến năm 2035, thị trường AI của Vương quốc Anh được dự đoán sẽ tăng lên hơn 1 nghìn tỷ USD.
+
+An ninh mạng hiện là một trong những mối đe dọa công nghệ lớn nhất đối với các doanh nghiệp Vương quốc Anh. Một báo cáo gần đây của Microsoft và Goldsmiths, Đại học London cho thấy chỉ 13% doanh nghiệp ở Vương quốc Anh có khả năng phục hồi trước các cuộc tấn công mạng, với 48% được coi là dễ bị tổn thương và 39% còn lại phải đối mặt với rủi ro cao.
+
+Mặc dù các kỹ năng về AI và học máy của các nhân sự tại Vương quốc Anh ngày càng được cải thiện, các chuyên gia cho biết kỹ năng an ninh mạng hiện vẫn ở mức thấp. Báo cáo của Coursera cho thấy số lượng đăng ký tham gia các khóa học an ninh mạng ở châu Âu đã giảm 5% vào năm 2024, mặc dù châu Âu là khu vực bị tấn công mạng nhiều nhất.

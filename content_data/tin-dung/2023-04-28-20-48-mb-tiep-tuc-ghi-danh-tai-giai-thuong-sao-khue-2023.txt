@@ -1,0 +1,21 @@
+Ngày 28/4, tại Hà Nội, Hiệp hội Phần mềm và dịch vụ công nghệ thông tin Việt Nam (VINASA) tổ chức lễ kỷ niệm 20 năm Giải thưởng Sao Khuê, vinh danh và trao Giải thưởng Sao Khuê 2023. Cả hai sản phẩm số của MB là Chợ ứng dụng Mini App (MB Market Place) và Tính năng Phê duyệt cấp hạn mức tự động trên BIZ MBBank phục vụ cho khách hàng doanh nghiệp siêu nhỏ đều được xướng tên ở hai hạng mục tương ứng là “Các nền tảng chuyển đổi số” và “Ngân hàng số”.
+
+TỪ APP NGÂN HÀNG ĐẾN NỀN TẢNG SIÊU ỨNG DỤNG
+
+Chợ ứng dụng Mini App được xây dựng và phát triển với mục tiêu góp phần chuyển đổi App MBBank thành một nền tảng siêu ứng dụng, tích hợp nhiều dịch vụ non-bank (phi ngân hàng) trên một nền tảng để phục vụ các nhu cầu khác nhau hàng ngày của 20 triệu users.
+
+Thấu hiểu về hành vi người dùng thông qua phân tích dữ liệu, chuyên gia công nghệ của MB giúp người dùng tiếp cận đúng dịch vụ, đúng thời điểm và đúng nhu cầu. Chỉ bằng một vài thao tác đơn giản, người dùng App MBBank có thể hoàn tất thao tác mua sắm online, di chuyển, đặt vé máy bay, đặt khách sạn, ship hàng, mua voucher giải trí, ẩm thực,… cùng hê thống thanh toán bảo mật hàng đầu tại Việt Nam.
+
+Không chỉ mang đến nhiều tiện ích cho người dùng, chợ ứng dụng Mini App còn được đánh giá là mô hình thân thiện với các doanh nghiệp và đối tác công nghệ. Chỉ trong 8 tháng đầu ra mắt, chợ ứng dụng Mini App đã nhận được sự tham gia của hơn 50 doanh nghiệp, trong đó có những thương hiệu lớn như Viettel, Medlatec, Sendo… Nói cách khác, MB đã kết nối thành công dịch vụ kinh doanh của hơn 50 doanh nghiệp khác nhau đến 20 triệu khách hàng của MB thông qua nền tảng số.
+
+“Chợ ứng dụng Mini App đặt trên App MBBank là một bước đột phá về mặt công nghệ cũng như mô hình, biến app ngân hàng trở thành một siêu ứng dụng”, đại diện MB cho hay. Ông cũng chia sẻ, năm 2023, MB hướng đến mục tiêu 16 triệu giao dịch trên nền tảng chợ ứng dụng Mini App này.
+
+GIA TĂNG TRẢI NGHIỆM CHO DOANH NGHIỆP SME SIÊU NHỎ
+
+Tính năng Phê duyệt cấp hạn mức tự động được xây dựng trên nền tảng BIZ MBBank - ứng dụng ngân hàng số dành cho khách hàng Doanh nghiệp. Dành riêng cho khách hàng SME siêu nhỏ, tính năng này nhằm tối ưu hóa trải nghiệm khách hàng thông qua việc chủ động đề xuất cấp hạn mức, đồng thời giúp cắt giảm thời gian phê duyệt cấp hạn mức cho doanh nghiệp.
+
+Với tính năng này, hệ thống sẽ tự động tính toán giá trị hạn mức và trả ra kết quả phê duyệt nguyên tắc dựa trên các thông tin khách hàng nhập liệu và nguồn thông tin sẵn có. Sau đó, doanh nghiệp có thể chủ động cung cấp hồ sơ online 100% trên BIZ MBBank một cách nhanh chóng, thuận tiện thay vì di chuyển đến chi nhánh để đưa hồ sơ trực tiếp như cách thức truyền thống.
+
+Tính năng Phê duyệt cấp hạn mức tự động trên BIZ MB Bank được thiết kế dựa trên kết quả khảo sát thực tế nhằm tối ưu hành trình trải nghiệm khách hàng khi đề xuất cấp hạn mức trên kênh số. Mỗi điểm chạm đều được đo lường dựa trên thời gian thao tác và trải nghiệm của khách hàng tại từng bước. Được biết, trong năm 2022, có hơn 6000 khách hàng doanh nghiệp đã được phê duyệt cấp hạn mức thành công qua BIZ MBBank.
+
+Làm chủ công nghệ với những nền tảng và sản phẩm số vượt trội, hướng đến những trải nghiệm thuận tiện, an toàn cho người dùng, MB đã hoàn toàn chinh phục Hội đồng Giải thưởng Sao Khuê 2023, đánh dấu lần thứ năm liên tiếp MB ghi danh tại giải thưởng uy tín này.

@@ -1,0 +1,31 @@
+Theo dự thảo Nghị định, khai thác dữ liệu qua cổng dữ liệu quốc gia, cổng dịch vụ công quốc gia, cổng thông tin điện tử của cơ sở dữ liệu quốc gia, ứng dụng định danh quốc gia, nền tảng định danh và xác thực điện tử và các phương tiện khác do cơ quan có thẩm quyền cung cấp.
+
+Cơ quan quản lý cơ sở dữ liệu quốc gia có trách nhiệm triển khai cung cấp các chức năng tra cứu, khai thác dữ liệu qua cổng dữ liệu quốc gia, cổng dịch vụ công quốc gia và các cổng thông tin điện tử của cơ sở dữ liệu quốc gia cho cơ quan, tổ chức, cá nhân tra cứu, khai thác.
+
+Cổng dữ liệu phục vụ khai thác dữ liệu phải có chức năng trích xuất dữ liệu thành văn bản điện tử có ký số chứng thực của cơ quan cung cấp để người sử dụng tải về sử dụng.
+
+Khai thác dữ liệu qua kết nối hệ thống thông tin với cơ sở dữ liệu quốc gia. Cụ thể, việc kết nối, chia sẻ dữ liệu phục vụ khai thác được thực hiện theo Nghị định này và Nghị định số 47/2020/NĐ-CP về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+
+Việc khai thác dữ liệu có sẵn trong cơ sở dữ liệu quốc gia được thực hiện theo hình thức chia sẻ dữ liệu mặc định. Cơ quan quản lý cơ sở dữ liệu quốc gia có trách nhiệm thiết lập dịch vụ chia sẻ dữ liệu mặc định khi triển khai dự án xây dựng cơ sở dữ liệu quốc gia. Việc khai thác dữ liệu tổng hợp, thống kê và các loại dữ liệu dẫn xuất từ dữ liệu trong cơ sở dữ liệu quốc gia được thực hiện theo hình thức chia sẻ dữ liệu theo yêu cầu đặc thù.
+
+Cơ quan quản lý cơ sở dữ liệu quốc gia có trách nhiệm đăng ký các dịch vụ chia sẻ dữ liệu với Bộ Thông tin và Truyền thông để được cấp mã số dịch vụ chia sẻ dữ liệu và công khai thông tin chia sẻ dữ liệu theo quy định tại Điều 25 Nghị định số 47/2020/NĐ-CP.
+
+Đáng chú ý, dự thảo Nghị định cũng quy định về chi phí khai thác dữ liệu. Theo đó, khai thác dữ liệu từ cơ sở dữ liệu quốc gia không thu phí khai thác trong trường hợp: Dữ liệu do mình cập nhật vào cơ sở dữ liệu quốc gia; cơ quan nhà nước khai thác dữ liệu phục vụ hoạt động quản lý nhà nước theo quy định pháp luật; dữ liệu do cơ quan quản lý cơ sở dữ liệu quốc gia cung cấp dưới dạng dữ liệu mở.
+
+Và khai thác dữ liệu từ cơ sở dữ liệu quốc gia có thu phí khai thác trong trường hợp: dữ liệu không có sẵn trong cơ sở dữ liệu quốc gia và đòi hỏi phải xử lý, chiết xuất mới có; việc khai thác dữ liệu phát sinh các chi phí sao chép, chuyển đổi, truyền đưa từ cơ sở dữ liệu quốc gia đến nơi sử dụng; dữ liệu phục vụ các tổ chức kinh tế và góp phần phục vụ cho hoạt động kinh tế.
+
+Cơ quan chủ quản cơ sở dữ liệu quốc gia chủ trì, phối hợp với Bộ Tài chính, Bộ Thông tin và Truyền thông quy định chi tiết về mức phí khai thác, cơ chế sử dụng phí khai thác từ cơ sở dữ liệu quốc gia.
+
+Về thẩm quyền khai thác dữ liệu, thì cơ quan, tổ chức, cá nhân có quyền khai thác dữ liệu trong cơ sở dữ liệu quốc gia trừ các trường hợp: (1), dữ liệu cá nhân không phải của mình và vi phạm quy định về bảo vệ dữ liệu cá nhân; (2), dữ liệu được bảo vệ theo quy định về Luật sở hữu trí tuệ; (3), Dữ liệu thuộc phạm vi bí mật nhà nước theo Luật Bảo vệ bí mật nhà nước; và (4), các dữ liệu khác hạn chế khai thác theo quy định của pháp luật.
+
+Các cơ quan, tổ chức, cá nhân có quyền khai thác không hạn chế dữ liệu do mình đóng góp và cập nhật vào cơ sở dữ liệu quốc gia. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương có quyền khai thác không hạn chế toàn bộ dữ liệu phát sinh trong phạm vi địa phương mình.
+
+Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ có quyền khai thác không hạn chế toàn bộ dữ liệu thuộc phạm vi ngành, lĩnh vực quản lý của mình do bộ, ngành mình cập nhật vào cơ sở dữ liệu quốc gia.
+
+Cơ quan, tổ chức, cá nhân khai thác từ cơ sở dữ liệu quốc gia chỉ được sử dụng đúng mục đích đã đăng ký với cơ quan quản lý cơ sở dữ liệu quốc gia và không được chia sẻ cho cơ quan, tổ chức, cá nhân khác.
+
+Cơ quan, tổ chức, cá nhân khai thác dữ liệu từ cơ sở dữ liệu quốc gia chịu trách nhiệm trước pháp luật về việc đảm bảo an toàn thông tin đối với dữ liệu đã khai thác từ thời điểm ra khỏi hệ thống thông tin quản lý cơ sở dữ liệu quốc gia.
+
+Dự thảo cũng cho biết dữ liệu được khai thác qua cổng dữ liệu quốc gia, cổng dịch vụ công quốc gia và cổng thông tin điện tử của cơ sở dữ liệu quốc và được thể hiện dưới dạng văn bản điện tử kèm chữ ký số có giá trị thay thế tất cả các giấy tờ trong thủ tục hành chính nhằm cung cấp thông tin đó.
+
+Dữ liệu được khai thác qua kết nối, chia sẻ dữ liệu giữa hệ thống thông tin có giá trị thay thế văn bản hành chính cung cấp thông tin giữa cơ quan chịu trách nhiệm duy trì hạng mục dữ liệu đó trong cơ sở dữ liệu quốc gia và cơ quan sử dụng dữ liệu đúng thẩm quyền.

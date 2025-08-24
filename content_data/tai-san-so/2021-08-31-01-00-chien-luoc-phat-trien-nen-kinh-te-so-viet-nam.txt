@@ -1,0 +1,45 @@
+KHÁI NIỆM KINH TẾ SỐ
+
+Theo Bộ Thông tin và Truyền thông, kinh tế số là nền kinh tế dựa trên công nghệ số và nền tảng số, với các hoạt động kinh tế về và bằng công nghệ số và nền tảng số, đặc biệt là các giao dịch điện tử tiến hành trên Internet.
+
+Kinh tế số bao gồm 3 cấu phần: Kinh tế số ICT/viễn thông (Kinh tế số ICT); Kinh tế số Internet/nền tảng (Kinh tế số Internet); và Kinh tế số ngành/lĩnh vực (Kinh tế số ngành).
+
+Cụ thể, (1) Kinh tế số ICT gồm:sản xuất phần cứng, sản xuất phần mềm, sản xuất nội dung số, dịch vụ công nghệ thông tin, dịch vụ viễn thông, dịch vụ truy cập Internet. (2) Kinh tế số Internet/ nền tảng gồm: kinh tế dữ liệu số, kinh tế nền tảng số,dịch vụ số, kinh doanh số, kinh tế chia sẻ, kinh tế thuật toán, kinh tế Internet, kinh tế Gig. (3) Kinh tế số ngành/lĩnh vực, gồm:quản trị điện tử, thương mại điện tử,ngân hàng điện tử, sản xuất thông minh, nông nghiệp chính xác, và du lịch thông minh.
+
+Tóm lại, kinh tế số là các hoạt động kinh tế có sử dụng thông tin số, tri thức số như là yếu tố sản xuất chính; sử dụng mạng Internet, mạng thông tin làm không gian hoạt động; và sử dụng ICT, tức là viễn thông và công nghệ thông tin, để tăng năng suất lao động, và để tối ưu nền kinh tế. Nếu nói đơn giản thì là nền kinh tế liên quan đến công nghệ số.
+
+Theo nghĩa hẹp thì kinh tế số chỉ liên quan đến lĩnh vực ICT. Theo nghĩa rộng thì là những lĩnh vực gần gũi với công nghệ số, thí dụ như các nền tảng số. Theo nghĩa rộng nhất thì là tất cả các lĩnh vực mà có sử dụng công nghệ số.
+
+Văn kiện Đại hội XIIIxác định, đến năm 2025 kinh tế số đạt tỷ trọng 20% GDP, đến năm 2030 kinh tế số chiếm khoảng 30% GDP.
+
+Để đạt mục tiêu trên, Văn kiện cũng nhấn mạnh yêu cầu cải thiện môi trường kinh doanh, thúc đẩy khởi nghiệp sáng tạo, phát triển các ngành, lĩnh vực, các doanh nghiệp trên nền tảng ứng dụng mạnh mẽ các thành tựu của khoa học công ngh, nhất là cuộc CMCN 4.0; tập trung hoàn thiện thể chế, chính sách, pháp luật phù hợp với cơ chế thị trường và thông lệ quốc tế để phát triển kinh tế số, xã hội số.
+
+Đồng thời phát triển mạnh hạ tầng công nghệ thông tin, xây dựng và phát triển đồng bộ hạ tầng dữ liệu quốc gia, vùng, địa phương kết nối đồng bộ, thống nhất, tạo nền tảng phát triển kinh tế số, xã hội số…
+
+Hiện nay, kinh tế số hiện đang chiếm 15% GDP toàn cầu, tỷ lệ này của Mỹ là 21%, Trung Quốc là 30%, cao cấp 1,5 lần Mỹ. Tức là nước đi sau thì lại đi trước. Kinh tế số của Việt Nam là khoảng 10%.
+
+Bộ trưởng Bộ Thông tin và Truyền thôngNguyễn Mạnh Hùngcho rằng, Việt Nam đặt mục tiêu 20% vào năm 2025, thì để đạt mục tiêu này kinh tế số phải tăng trưởng gấp 3-4 lần tăng trưởng GDP, tức là khoảng 20-25%/năm. Nếu Việt Nam tiếp tục duy trì được tốc độ tăng trưởng trên 30%/năm như trong giai đoạn 2015-2020 thì kinh tế số của Việt Nam có thể chiếm tới 25% GDP vào năm 2025.
+
+Theo ông Hùng, lời giải của mục tiêu này nằm trongChương trình Chuyển đổi số Quốc giamà Thủ tướng Chính phủ đã phê duyệt tháng 6 năm 2020 và Chiến lược Phát triển kinh tế số và xã hội số mà Thủ tướng Chính phủ sẽ phê duyệt trong Quí 3 năm 2021. Nếu nói gọn lại về lời giải này thì là sự kết hợp của thị trường mạnh và nhà nước mạnh.
+
+Thị trường thì mạnh trong ngắn hạn còn nhà nước thì phải mạnh trong dài hạn, mạnh về tầm nhìn xa trông rộng, dùng chi tiêu công và đầu tư công, khoảng 1-1,5% ngân sách hàng năm, để kích hoạt và dẫn dắt mọi nguồn lực xã hội tham gia phát triển kinh tế số và xã hội số.
+
+Việc chuyển đổi sang nền kinh tế số ở Việt Nam cần có những điều kiện cần thiết về thể chế, bộ máy thực hiện và các nguồn lực. Để thực hiện mục tiêu Đại hội XIII đề ra, Việt Nam cần triển khai đồng bộ các giải pháp:
+
+Một là, về nhận thức và hành lang pháp lý để thúc đẩykinh tế số. Có thể thấy rõ, Việt Nam đã thừa nhận tầm quan trọng của chuyển đổi kỹ thuật số đối với năng lực cạnh tranh quốc gia và để theo kịp sự phát triển của công nghệ toàn cầu.
+
+Song để thành công, cần xác định kinh tế số không đơn thuần là thúc đẩy phát triển công nghệ thông tin mà là quá trình số hóa toàn diện mọi lĩnh vực đời sống, chuyển trọng tâm từ xây dựng cơ sở hạ tầng kỹ thuật số sang ứng dụng các công nghệ kỹ thuật số để nâng cao giá trị và chất lượng, phát triển kinh tế - xã hội.
+
+Chính sách kinh tế số thực chất là chính sách kinh tế - xã hội số bao trùm mọi khía cạnh phát triển của đất nước. Do đó, cần có sự thống nhất nhận thức về vị trí, vai trò và nội hàm của kinh tế số trong xây dựng và hoạch định chính sách ở Việt Nam, nhất là trong các cơ quan thuộc Chính phủ. Từ đó, có sự định vị và định hướng chính xác, đúng tầm chương trình nghị sự về kinh tế số, cũng như có chính sách hợp lý và hiệu quả để triển khai trong thực tế.
+
+Cần luật hóa những nội dung về kinh tế sốđể đảm bảo một hành lang, cơ sở pháp lý vững chắc và thống nhất cho triển khai và thực hiện chương trình nghị sự về kinh tế số. Đặc biệt là do trong một số trường hợp, những sáng kiến số có thể dẫn đến những tranh luận về vấn đề an ninh mạng, bảo mật dữ liệu người dùng, thông tin cá nhân… nên việc xây dựng và ban hành một hệ thống pháp luật đồng bộ vừa tạo điều kiện cho quá trình số hóa trong các lĩnh vực kinh tế - xã hội, vừa bảo vệ được quyền lợi và lợi ích hợp pháp của người dân, doanh nghiệp và Chính phủ là hết sức cần thiết.
+
+Hai là,phát triển đồng bộ kết cấu hạ tầng thiết yếu. Trong đó, cần khẩn trương triển khai hiệu quả các mạng lưới băng thông rộng quốc gia tốc độ cao, cáctrung tâm dữ liệuvà cơ sở dữ liệu cho các dịch vụ điện toán đám mây… tạo cơ sở hạ tầng tốt cho việc kết nối theo xu hướng IoT, sử dụng công nghệ số cho phát triển kinh tế, xã hội.
+
+Trong quá trình đầu tư xây dựng nền tảng số nói chung, cơ sở hạ tầng kỹ thuật số nói riêng cần đặc biệt lưu ý đến những đặc thù của khu vực thành thị và nông thôn để có kế hoạch phát triển cơ sở hạ tầng kỹ thuật số ở hai khu vực này một cách cân bằng và hài hòa, góp phần rút ngắn khoảng cách và chênh lệch phát triển giữa thành thị - nông thôn.
+
+Ba là,ban hànhChiến lược quốc gia về chuyển đổi số, kinh tế số. Kinh nghiệm của các nước trong khu vực cho thấy tầm quan trọng của việc phải có các chiến lược toàn diện và các cơ quan chuyên trách nền kinh tế số, ví như việc thành lập MDES ở Thái Lan và các bộ phận chuyên trách trong Văn phòng Thủ tướng Singapore. Việt Nam hiện chỉ có những chiến lược và sáng kiến cấp quốc gia với nội dung về kỹ thuật số, được thúc đẩy bởi các bộ khác nhau, gồm Bộ Khoa học và Công nghệ, Bộ Kế hoạch và Đầu tư, Bộ Thông tin và Truyền thông và Bộ Tài chính (UNDP, 2018).
+
+Do vậy, cần thiết phải sớm xây dựng một chiến lược toàn diện mới về kinh tế số theo nhận thức mới và có một cơ quan chịu trách nhiệm chính trong quá trình hiện thực hóa nó với sự quan tâm, chỉ đạo sát sao từ người đứng đầu Chính phủ. Cùng với đó, cần xây dựng và công bố quy hoạch ngành về phát triển và ứng dụng công nghệ thông tin. Trên cơ sở đó, sẽ ban hành các chuẩn trao đổi thông tin giữa các cơ quan, đơn vị để tạo sự liên kết, đồng bộ trong quá trình đầu tư và phát triển hạ tầng dựa vào ứng dụng công nghệ thông tin.
+
+Bốn là, đào tạo, phát triểnnguồn nhân lực công nghệ thông tin. Chính sách thúc đẩy nguồn nhân lực công nghệ thông tin vừa phải có những ưu tiên rõ rệt, vừa phải tính toán đến các nhóm yếu thế trong xã hội như người khuyết tật, nông dân, phụ nữ… để thúc đẩy sự phát triển bình đẳng. Trong đó, phải xây dựng được một lực lượng lao động số nòng cốt, đủ về số lượng và đáp ứng được về chất lượng để phục vụ yêu cầu số hóa mọi lĩnh vực của đời sống xã hội từ nông nghiệp đến công nghiệp và dịch vụ.

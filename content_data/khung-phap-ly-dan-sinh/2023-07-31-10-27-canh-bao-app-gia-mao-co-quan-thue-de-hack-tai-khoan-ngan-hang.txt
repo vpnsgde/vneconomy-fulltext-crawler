@@ -1,0 +1,17 @@
+Trước đó, vào ngày 25/7/2023, Công an Phường Sài Đồng, quận Long Biên tiếp nhận đơn trình báo của chị V. (SN 1973; ở quận Long Biên, Hà Nội) về việc bị một đối tượng giả danh là cán bộ chi cục thuế gọi điện.
+
+Đối tượng có gửi một đường link và hướng dẫn chị V. truy cập để cài đặt phần mềm nộp thuế. Sau khi truy cập vào đường link để cài đặt phần mềm, chị V. phát hiện tài khoản ngân hàng bị mất hơn 400 triệu đồng. Lúc này, chị mới biết mình bị lừa đảo và đến cơ quan Công an trình báo.
+
+Công an thành phố Hà Nội đề nghị người dân tuyệt đối không tải hoặc cài đặt ứng dụng của cơ quan thuế qua các đường dẫn hoặc các hướng dẫn không chính thống, không phải do Tổng cục Thuế cung cấp. Các đối tượng còn dùng công nghệ trí tuệ nhân tạo AI như: deepfake, deep voice... để tạo ra các video giả mạo cán bộ thuế để lừa đảo.
+
+Nếu người dùng cài đặt phần mềm giả mạo có nguy cơ sẽ bị chiếm quyền điều khiển toàn bộ điện thoại. Các tin nhắn, cuộc gọi đến máy điện thoại của nạn nhân sẽ được ứng dụng kiểm soát, ngầm chuyển về máy chủ do đối tượng quản lý, không hiển thị trên điện thoại của nạn nhân.
+
+Nguy hiểm hơn, các đối tượng chiếm quyền điều khiển điện thoại di động, máy tính của người dùng từ xa để thực hiện: soạn, gửi tin nhắn SMS; mở khóa thiết bị di động; bật tắt mạng Internet, truy cập wifi; đọc, ghi danh bạ; đọc, ghi lịch sử cuộc gọi, thực hiện cuộc gọi, tự thực hiện khôi phục mật khẩu tài khoản, tự đăng ký các dịch vụ Internet Banking, Smart Banking, thay đổi hạn mức giao dịch của tài khoản, sau đó truy cập vào tài khoản, chuyển tiền của bị hại.
+
+Đặc biệt, các tin nhắn xác thực mã OTP, việc truy cập, chuyển tiền đều bị phần mềm gián điệp ẩn (không hỗ trợ cho người dùng) và chuyển cho các đối tượng lừa đảo mà chủ điện thoại không hề hay biết.
+
+Trước tình hình trên, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Công an thành phố Hà Nội khuyến cáo người dân không cho phép bất kỳ cá nhân nào truy cập trực tiếp vào máy tính, điện thoại của mình để hỗ trợ cài đặt, sử dụng phần mềm của cơ quan thuế.
+
+Người dân khi cài đặt các ứng dụng cần kiểm tra kỹ thông tin về ứng dụng, quyền truy cập và các tính năng của ứng dụng trước khi tải về và cài đặt; tránh cài đặt ứng dụng yêu cầu cấp quyền, truy cập tệp tin, truy cập tin nhắn, điều khiển màn hình...
+
+Trường hợp nhận được các tin nhắn trên các nền tảng mạng xã hội và cuộc gọi bất thường hay có dấu hiệu lừa đảo nói chung, liên quan đến lĩnh vực thuế nói riêng; kịp thời trình báo cơ quan công an để ngăn chặn và xử lý theo quy định của pháp luật.

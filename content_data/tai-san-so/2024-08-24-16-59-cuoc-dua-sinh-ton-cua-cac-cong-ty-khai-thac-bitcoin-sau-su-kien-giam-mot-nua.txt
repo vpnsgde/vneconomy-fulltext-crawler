@@ -1,0 +1,29 @@
+Các công ty khai thác Bitcoin đã mua lại các đối thủ cạnh tranh của họ từ khá lâu và xu hướng này càng gia tăng sau đợt giảm một nửa Bitcoin — một sự kiện kỹ thuật xảy ra bốn năm một lần để đảm bảo sự khan hiếm và bảo vệ chống lại lạm phát.
+
+Ở sự kiện halving năm nay, phần thưởng khai thác đã giảm một nửa từ 6,25 Bitcoin xuống còn 3,125 đã khiến các thợ đào gặp khó khăn hơn trong việc duy trì tính cạnh tranh và sinh lời.
+
+Rob Chang, Giám đốc điều hành của Gryphon Digital Mining, một công ty chuyên khai thác Bitcoin thừa nhận rằng việc giảm một nửa đã ảnh hưởng đáng kể đến bối cảnh khai thác bằng cách giảm phần thưởng khối, ảnh hưởng trực tiếp đến lợi nhuận. Tuy nhiên, ông lưu ý rằng thách thức thực sự nằm ở mức độ khó ngày càng tăng và sự cạnh tranh ngày càng gay gắt, điều này càng làm giảm lợi nhuận.
+
+Ông chia sẻ thêm rằng: “Những công ty vận hành hiệu quả và có khả năng tiếp cận nguồn điện giá rẻ sẽ là những công ty dẫn đầu trong bối cảnh hiện nay”.
+
+Việc phần thưởng bị giảm diễn ra song song với hiệu suất mờ nhạt của Bitcoin. Bất chấp những kỳ vọng về mức tăng đáng kể, Bitcoin đã phải vật lộn để duy trì đà tăng kể từ khi đạt mức cao nhất là 73.737 USD vào tháng 3, ngay trước thềm sự kiện halving. Hiện tại, Bitcoin đang chật vật để vượt qua ngưỡng 60.000 USD.
+
+Trước hiệu suất chậm chạp của Bitcoin, các giao dịch mua lại gần đây của các công ty khai thác Bitcoin đã nhận được sự quan tâm lớn.
+
+Vào ngày 21/8 mới đây, công ty khai thác Bitcoin có tên Bitfarms có trụ sở tại Canada đã thông báo mua lại công ty Stronghold Digital Mining trong một thỏa thuận trị giá 125 triệu USD. Thương vụ mua lại này nhằm nâng cao năng lực khai thác của Bitfarms bằng cách đảm bảo khả năng tiếp cận nguồn điện bổ sung.
+
+Lý do Stronghold thu hút Bitfarms mua lại là bởi họ vận hành các cơ sở sản xuất điện của riêng mình và duy trì kết nối với lưới điện địa phương. Bitfarms hiện có vốn hóa thị trường hơn 1 tỷ USD.
+
+Thương vụ nổi bật thứ 2 trong giới khai thác là của Riot Platforms. Bằng cách mua lại Block Mining có trụ sở tại Kentucky với giá 92,5 triệu USD vào tháng 7 năm 2024, Riot đã mở rộng đáng kể phạm vi địa lý của mình ra ngoài Texas (Mỹ).
+
+Riot là công ty khai thác Bitcoin lớn thứ 3 ở phố Wall cũng đang nỗ lực tiếp quản Bitfarms bằng cách tăng tỷ lệ sở hữu tại Bitfarms lên gần 20%. Họ cũng tiết lộ việc mua thêm 1 triệu cổ phiếu Bitfarm và sa thải các lãnh đạo chủ chốt khỏi công ty khai thác Canada. Riot Platforms hiện có vốn hóa thị trường hơn 2,5 tỷ USD.
+
+Vào tháng 11/2023, Hut 8 đã sáp nhập với US Bitcoin Corp để tăng cường sự đa dạng về địa lý và mở rộng nguồn doanh thu. Sau khi sáp nhập, Hut 8 đã thực hiện chương trình tái cơ cấu nhằm giảm chi phí và thúc đẩy dòng tiền. Hiện tại, Hut 8 có vốn hóa thị trường khoảng 1 tỷ USD.
+
+Một thương vụ đáng chú ý khác là vào tháng 3 năm 2024, Marathon Digital Holdings, một trong những công ty khai thác Bitcoin được giao dịch công khai lớn nhất thế giới và là nhân vật chủ chốt trong hệ sinh thái Bitcoin, đã mua lại trung tâm dữ liệu khai thác Bitcoin của Applied Digital Corporation ở Garden City, Texas. Cơ sở này có công suất 200 MW, được mua với giá 87,3 triệu USD.
+
+Giao dịch đánh dấu thương vụ mua lại trung tâm dữ liệu khai thác Bitcoin lớn thứ hai của Marathon, nâng tỷ lệ MW do chính họ sở hữu và vận hành trong danh mục đầu tư của mình lên 54%. Với vốn hóa thị trường vượt quá 5 tỷ USD, Marathon Digital Holdings hiện là công ty khai thác Bitcoin lớn nhất tại Mỹ.
+
+Core Scientific ban đầu đã niêm yết cổ phiếu vào giữa năm 2021 thông qua thương vụ sáp nhập trị giá 4,3 tỷ USD với Power & Digital Infrastructure Acquisition Corp. Công ty này đã nộp đơn xin phá sản vào tháng 12 năm 2022 khi sự sụp đổ của FTX trở nên lan rộng.
+
+Vào tháng 6/2024, nhà cung cấp dịch vụ đám mây CoreWeave được Nvidia hậu thuẫn đã đưa ra đề nghị giao dịch hoàn toàn bằng tiền mặt để mua lại Core Scientific, định giá công ty ở mức 1,02 tỷ USD, tương đương 5,75 USD/cp. Core Scientific đã từ chối lời đề nghị và cho rằng họ đã định giá thấp công ty. Core Scientific có vốn hóa thị trường hơn 2,6 tỷ USD.

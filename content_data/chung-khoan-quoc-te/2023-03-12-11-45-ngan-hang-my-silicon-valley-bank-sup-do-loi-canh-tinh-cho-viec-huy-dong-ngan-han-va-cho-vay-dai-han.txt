@@ -1,0 +1,33 @@
+Silicon Valley Bank (SVB) vừa gây chấn động toàn cầu khi trở thành ngân hàng lớn nhất phải đóng cửa kể từ sau cuộc khủng hoảng tài chính năm 2008. Sự sụp đổ của SVB dấy lên lo ngại rằng liệu có xảy ra tình trạng "bank run" tại các thị trường tài chính khác hay không? Trên thực tế, sau vụ SVB đã có ít nhất gần 10 nhà băng tại Mỹ đang chứng kiến tình trạng rút tiền của nhà đầu tư.
+
+Đánh giá về nguyên nhân sụp đổ của SVB, trao đổi nhanh với VnEconomy, ông Nguyễn Thế Minh, Giám đốc phân tích Khối khách hàng Cá nhân Công ty Chứng khoán Yuanta nói "Một lần nữa sai lầm đã lặp lại như giai đoạn khủng hoảng của năm 2008".
+
+Đồng thời, cùng với sự tiếp tay của Donal Trump vào năm 2018 khi ông đã ký sắc lệnh bỏ các quy định trong Dodd Frank, tức là Fed không cần kiểm soát các ngân hàng có quy mô dưới 250 tỷ USD. Trong năm 2020 và 2021 với động thái bơm mạnh tiền của Fed như năm 2001 cũng đã khiến các ngân hàng mạnh tay đầu tư vào các tài sản dài hạn và mạo hiểm hơn, SVB đang có tổng tài sản là 212 tỷ USD và chuyên tập trung đầu tư vào các khoảng đầu tư mạo hiểm và Startup. Từ khi lãi suất tăng lên thì tốc độ cho vay của SVB đã có xu hướng chậm lại trong năm 2022 và NIM của ngân hàng này cũng thu hẹp dần.
+
+Mô hình quản trị rủi ro của SVB cũng có vấn đề khi họ chuyên huy động ngắn và cho vay dài, mô hình này cũng không thấy lạ gì ở các ngân hàng Việt Nam. Tóm lại với lượng tiền rẻ từ các gói QE của Fed đã khiến SVB quên đi việc quản trị rủi ro của mình. "Sau vụ này tôi nghĩ Ngân hàng Nhà nước sẽ càng kiên định việc kiểm soát tỷ lệ LDR của các Ngân hàng Thương mại", ông Minh nhấn mạnh.
+
+Các khoảng đầu tư của SVB hiện nay đang ghi nhận thua lỗ do ảnh hưởng từ việc lãi suất tăng và các công ty Startup có hiện tượng đốt quá nhiều tiền vào lĩnh vực công nghệ. Tóm lại sẽ là một sự cảnh tỉnh về các Startup trên thế giới và đặc biệt nhất là Việt Nam, sau vụ này chắc có khi cũng thôi luôn ý định về việc thành lập sàn giao dịch cho Startup.
+
+Vậy có cuộc khủng hoảng từ SVB không? Theo chuyên gia phân tích của Chứng khoán Yuanta là không.
+
+Xét về thanh khoản, LDR của SVB chỉ có 43%, vẫn thấp hơn so với mấy ngân hàng lớn ở Mỹ là trên 70%.
+
+Tổng tài sản SVB là 212 tỷ USD, trong đó có 165 tỷ USD là tiền gửi. Theo nhẩm nhẩm tính thì họ có thể thu xếp được 95 tỷ USD để backup thanh khoản cho thứ 2 tới dân tình đi rút tiền, 95 tỷ USD đó đến từ 50 tỷ USD là từ trái phiếu Chính phủ và 25 tỷ USD (hàng hóa, CDS,…)   15 tỷ USD cash của họ   gần 5 tỷ USD từ các hoạt động tái chính khác đáo hạn từng quý.
+
+Tóm lại có khoảng 58% nguồn tiền để đảm bảo thanh khoản ngắn hạn, nhưng điều này có thể gây ra hành động bán tháo tài sản và gây ra khoản lỗ lớn cho chính SVB.
+
+Xét về quy mô thì SVB chỉ khoảng 212 tỷ USD, còn Lehman Brother thời 2008 là 639 tỷ USD nên SVB vẫn chưa đủ sức để gây ra 1 cuộc khủng hoảng tương tự như năm 2008.
+
+Các khoảng MBS (tương tự như trái phiếu) ước tính khoảng đâu đó hơn 70 tỷ USD, tính ra chỉ bằng gần 1 tháng Fed đi mua MBS trong gói QE, như vậy thừa sức Fed ra tay giải cứu. Năm 2008, Fed không cứu Lehman Brother sau đó hối hận và tự nhận sai nên đã quay đầu trong năm 2009 bơm tiền để giải quyết.
+
+"Sau vụ này tôi đoán Fed sẽ hạ giọng mình trong việc điều hành chính sách thời gian tới. Giá cổ phiếu SVB giảm hơn 60% trong phiên 10/03/2023, nhưng JPMorgan thì lại tăng 2.54%. Theo thuyết âm mưu thì các ngân hàng khác đang hưởng lợi lớn từ vụ SVB", ông Nguyễn Thế Minh nhấn mạnh.
+
+Theo Bloomberg, 2 tuần trước khi cổ phiếu SVB giảm 62% và bị tạm dừng giao dịch vào ngày 10/3, giám đốc điều hành của Silicon Valley Bank (SVB) Greg Becker đã bán ra số cổ phiếu trị giá 3,6 triệu USD.
+
+Ông đã bán 12.451 cổ phiếu vào ngày 27/2. Đây là lần đầu tiên sau hơn một năm, Becker bán cổ phần của công ty mẹ SVB Financial Group. Thực tế, ông đã đệ trình kế hoạch bán từ ngày 26/1.
+
+Sau hơn 1 tuần hỗn loạn, vào ngày 8/3, SVB thông báo tới các cổ đông rằng họ muốn huy động 1,25 tỷ USD từ việc bán cổ phiếu phổ thông, 500 triệu USD từ cổ phiếu ưu đãi chuyển đổi bắt buộc và 500 triệu USD từ cổ phiếu phát hành riêng lẻ từ công ty General Atlantic.
+
+Thông báo này đã khiến cổ phiếu của SVB lao dốc, ngay cả khi Becker kêu gọi khách hàng giữ bình tĩnh.Tuy nhiên, theo CNBC, nỗ lực huy động vốn của SVB Financial đã thất bại, cổ phiếu lao dốc mạnh và ngân hàng này đang cố gắng để tìm cách “bán mình”.
+
+Cả Becker và SVB đều không trả lời ngay lập tức các câu hỏi liên quan đến việc bán 3,6 triệu USD cổ phiếu của ông và liệu vị CEO có biết về kế hoạch huy động vốn của ngân hàng khi ông nộp kế hoạch giao dịch hay không. Hồ sơ cho thấy việc bán cổ phiếu được thực hiện thông qua một quỹ tín thác có thể hủy bỏ do Becker kiểm soát.

@@ -1,0 +1,39 @@
+VnEconomy giới thiệu nhận định và khuyến nghị đầu tư của một số công ty chứng khoán về diễn biến thị trường ngày 30/8/2017.
+
+Đóng cửa phiên giao dịch ngày 29/8, VN-Index giảm 3,23 điểm xuống 774,03 điểm. Trong khi đó, HNX-Index giảm 0,38 điểm xuống 103,52 điểm.
+
+Áp lực chốt lời xuất hiện trở lại
+
+(Công ty Cổ phần Chứng khoán Bảo Việt – BVSC)
+
+“Áp lực chốt lời đã xuất hiện trở lại, sau các phiên tăng điểm tốt cuối tuần trước và đầu tuần này. Áp lực bán tăng mạnh về cuối phiên,tập trung ở nhóm cổ phiếu trụ cột,là tín hiệu không thực sự tích cực đối với triển vọng ngắn hạn của thị trường chung. Nhà đầu tư có thể thực hiện hoạt động bán giảm tỷ trọng về mức an toàn trong các phiên tới, chờ đợi thị trường tiếp tục cho xu hướng rõ nét hơn”.
+
+Có khả năng tăng trở lại
+
+(Công ty Cổ phần Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam - BSC)
+
+“Trong phiên giao dịch hôm nay, áp lực chốt lời đã diễn ra sau chuỗi 4 phiên tăng điểm liên tiếp với sắc đỏ bao phủ thị trường và thanh khoản gia tăng. Những cổ phiếu đã có được mức tăng đáng kể trong những phiên trước thì hôm nay đã gặp phải áp lực bán ra mạnh, như ở FLC, HSG, SSI, MBB…; dòng tiền cũng rút ra tại nhóm cổ phiếu thị trường và VN30. Chỉ số hôm nay đã rơi xuống dưới ngưỡng cản tâm lý 775 điểm và đang dao động quanh hỗ trợ 773 điểm. BSC nhận định phiên hôm nay là phiên điều chỉnh ngắn hạn của thị trường sau thời gian tăng điểm. Những phiên tới đây, VN-Index vẫn có khả năng tăng trở lại nhưng xu thế điều chỉnh trung hạn vẫn chưa kết thúc, nhất là trong vùng trũng thông tin như giai đoạn hiện nay”.
+
+Hướng đến thử thách 776-777
+
+(Công ty Cổ phần Chứng khoán Sài Gòn - Hà Nội - SHS)
+
+“Thị trường điều chỉnh trở lại sau bốn phiên hồi phục liên tiếp trước đó. Áp lực bán đột ngột tăng mạnh tại nhiều mã cổ phiếu vốn hóa lớn trong phiên ATC là nguyên nhân chính và có thể xuất phát từ hoạt động bán ra của quỹ ETF. Điểm tích cực hiện tại là ngưỡng hỗ trợ 774 điểm tương ứng với đường MA50 ngày vẫn được giữ vững nên tín hiệu kỹ thuật trung hạn vẫn duy trì là tích cực. Trong tình hình hiện tại, chúng tôi cho rằng,trong phiên giao dịch tiếp theo, VN-Index sẽ hồi phục trở lại để hướng đến thử thách vùng kháng cự trong khoảng 776-777 điểm, vùng hỗ trợ của chỉ số được xác định trong khoảng 770-774 điểm (MA10-50). Nhà đầu tư ngắn hạn sau khi đã mua vào trong ba phiên gần đây có thể xem xét bán chốt lãi các cổ phiếu đã tăng nóng hoặc đạt mục tiêu. Nhà đầu tư trung và dài hạn tiếp tục nắm giữ cổ phiếu và tận dụng những phiên giảm điểm để cơ cấu lại danh mục, tập trung vào các mã có nền tảng cơ bản tốt và triển vọng tăng trưởng tích cực trong cả năm nay”.
+
+Giảm điểm đột ngột có thể xảy ra
+
+(Công ty Cổ phần chứng khoán FPT - FPTS)
+
+“Điểm nhấn của phiên 29/08 là sự tương phản giữa thanh khoản và mức độ biến động của chỉ số. Dạng nến “Inside bar - Gravestone Doji” kích thước bé thể hiện trạng thái phân vân, có phần bi quan của đa số các nhà đầu tư tại đường MA 20 ngày. Thanh khoản tiếp tục tăng trưởng do hiện tượng chốt lời mạnh mẽ của dòng Mid-Cap. Bên cạnh đó, dòng Large-Cap đã có một phiên chững lại tại vùng điểm 755, nhưng khối lượng khớp lệnh lại xấp xỉ so với phiên tăng điểm đầu tuần do lực cung bất ngờ vào phiên ATC.
+
+Có thể nói các đặc điểm của phiên ngày hôm nay khá giống với phiên ngày 11/04/2017. Dựa vào chỉ báo “Volume per Point” để tính toán sự tương quan giữa tổng khối lượng giao dịch và kích thước nến của từng phiên, chúng tôi quan sát được trong nhịp tăng kể từ đầu năm 2017 đến nay, mỗi khi giá trị của chỉ báo này vượt ngưỡng 80 triệu, một biến động lớn có thể xảy ra. Bên cạnh đó, khi Volume của dòng Vốn Hóa Tầm Trung chiếm tỷ trọng cao trong tổng thanh khoản của một phiên thì xác suất giảm điểm xảy ra khá cao. Với dữ liệu backtest như trên, chúng tôi nghiêng về khả năng giảm điểm đột ngột có thể sẽ xảy ra vào phiên sau.
+
+Đứng trước nguy cơ lịch sử có thể lặp lại, nhà đầu tư không nên mở ra các vị thế mua mới. Bán hợp đồng tương lai VN30F vẫn nên là ưu tiên trong giai đoạn này bởi rủi ro giảm điểm vẫn còn tồn tại khá cao. Đối với các danh mục lướt sóng, chúng tôi vẫn bảo lưu khuyến nghị nâng cao ngưỡng Stop Loss để phòng ngừa khả năng giảm đột ngột”.
+
+Hạn chế mua đuổi giá
+
+(Công ty Cổ phần Chứng khoán Rồng Việt – VDSC)
+
+“Thị trường có sự điều chỉnh nhẹ khi áp lục bán gia tăng nhưng chưa làm thay đổi xu hướng của đường giá. Nhà đầu tư hạn chế việc mua đuổi giá, chỉ mua khi đường giá tiến về các ngưỡng hỗ trợ và giữ tỷ trong danh mục ở mức vừa phải”.
+
+Nhận định thị trường của các công ty chứng khoán được VnEconomy trích dẫn chỉ có giá trị như một nguồn thông tin tham khảo. Các công ty chứng khoán có thể có những xung đột lợi ích đối với các nhà đầu tư khi đưa ra nhận định.

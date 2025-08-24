@@ -1,0 +1,41 @@
+Theo Chiến lược dữ liệu quốc gia đến năm 2030 vừa được Phó Thủ tướng Trần Lưu Quang phê duyệt, dữ liệu của Việt Nam mở ra không gian hoạt động và phát triển mới cho Chính phủ số, kinh tế số và xã hội số; cơ bản phản ánh đầy đủ mọi mặt hoạt động kinh tế xã hội trên môi trường số và là nhân tố thúc đẩy tăng năng lực cạnh tranh quốc gia, đảm bảo cho tiến trình chuyển đổi số thành công, đưa Việt Nam trở thành quốc gia số an toàn. Dữ liệu góp phần chuyển đổi cơ cấu nền kinh tế, đưa Việt Nam vượt qua mức thu nhập trung bình thấp, đạt mức thu nhập trung bình cao vào năm 2030 và đạt mức thu nhập cao vào năm 2045.
+
+Về phát triển hạ tầng dữ liệu, Chiến lược đặt mục tiêu đến năm 2030, toàn bộ các Trung tâm dữ liệu quốc gia, Trung tâm dữ liệu vùng, khu vực, Trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và tính toán hiệu năng cao trên cả nước được bảo đảm kết nối thành công, tạo thành một mạng lưới chia sẻ năng lực tính toán, xử lý dữ liệu lớn phục vụ cho phát triển kinh tế xã hội, văn hóa của đất nước.
+
+Các nền tảng điện toán đám mây Chính phủ và các nền tảng ứng dụng trên thiết bị di động Make in Vietnam đảm bảo sẵn sàng đáp ứng 100% nhu cầu lưu trữ, thu thập, kết nối, chia sẻ dữ liệu của Việt Nam, nhu cầu đảm bảo an toàn thông tin, an ninh mạng và bảo mật thông tin theo cấp độ quy định.
+
+Về phát triển dữ liệu phục vụ Chính phủ số, 100% các cơ sở dữ liệu quốc gia trong danh mục cơ sở dữ liệu quốc gia cần ưu tiên triển khai tạo nền tảng phát triển Chính phủ điện tử hoàn thành việc số hóa, cập nhật và đưa vào sử dụng hiệu quả; được kết nối, chia sẻ với kho dữ liệu tổng hợp tại Trung tâm dữ liệu quốc gia và kết nối, chia sẻ trên phạm vi toàn quốc.
+
+Các cơ sở dữ liệu dùng chung và chuyên ngành của các bộ, ngành, địa phương (ngoại trừ các cơ sở dữ liệu nghiệp vụ đặc thù) có nhu cầu kết nối, khai thác, tích hợp, chia sẻ thông tin với các cơ sở dữ liệu quốc gia hoặc nhu cầu kết nối, chia sẻ thông tin với nhau, được đáp ứng 100% yêu cầu thông qua các nền tảng tích hợp, chia sẻ dữ liệu.
+
+100% các cơ quan nhà nước cấp bộ, cấp tỉnh mở và cung cấp dữ liệu mở đảm bảo chất lượng (không trùng lắp, dư thừa, không tốn công sức và chi phí để xử lý lại dữ liệu, hoặc thu thập lại dữ liệu), đưa vào khai thác sử dụng có hiệu quả, đảm bảo sẵn sàng hỗ trợ, phục vụ cho các hoạt động chỉ đạo điều hành, ban hành chính sách của cơ quan nhà nước và phục vụ phát triển các ứng dụng AI cho phát triển kinh tế số, xã hội số.
+
+100% hồ sơ, kết quả giải quyết thủ tục hành chính được số hóa; tối thiểu 80% dữ liệu về kết quả thực hiện các thủ tục hành chính được tái sử dụng, chia sẻ theo quy định (trừ các cơ sở dữ liệu nghiệp vụ đặc thù) đảm bảo người dân và doanh nghiệp chỉ phải cung cấp thông tin một lần khi sử dụng dịch vụ công trực tuyến, thực hiện các thủ tục hành chính…
+
+Về phát triển dữ liệu phục vụ kinh tế số, xã hội số, Chiến lược xác định xây dựng và hoàn thành 100% các bộ dữ liệu ngành nông nghiệp gồm: dữ liệu đất đai, cây trồng, vật nuôi, thủy hải sản cho các vùng sản xuất nông nghiệp trên cả nước phục vụ các hoạt động sản xuất nông nghiệp; hình thành dữ liệu của toàn bộ chuỗi quy trình sản xuất, kinh doanh, chế biến, quản lý giám sát nguồn gốc, cung ứng các sản phẩm nông nghiệp quan trọng, đảm bảo việc cung cấp thông tin minh bạch, chính xác, đẩy mạnh phát triển thương mại điện tử.
+
+Cùng với đó xây dựng và hoàn thành 100% các bộ dữ liệu ngành công nghiệp, thương mại và năng lượng, gồm: dữ liệu về mạng lưới sản xuất, truyền tải, tiêu thụ điện phục vụ việc vận hành tối ưu hệ thống điện, hiện đại hóa hệ thống điều độ, vận hành, thông tin liên lạc, điều khiển và tự động hóa phục vụ điều độ lưới điện trong nước và liên kết khu vực; dữ liệu trong lĩnh vực sản xuất công nghiệp, mạng lưới, chuỗi cung ứng sản xuất cơ bản trong các hoạt động công nghiệp từ nguyên liệu thô tới thành phẩm thương mại; dữ liệu về các trung tâm logistics, vận chuyển, kho bãi;
+
+Bên cạnh đó là dữ liệu về thị trường thương mại, hành vi tiêu dùng, nhu cầu quảng cáo của các nhãn hàng trên thị trường Việt Nam nhằm tối ưu hóa quá trình sản xuất, tiêu thụ hàng hóa của các đơn vị sản xuất, xây dựng các kênh phân phối hàng hóa hiệu quả và giám sát chặt chẽ nhu cầu thị trường,...
+
+Hoàn thiện 100% cơ sở dữ liệu về bảo hiểm xã hội cho người lao động. Dữ liệu chuẩn hóa sổ lao động điện tử, tích hợp với dữ liệu về học tập suốt đời, dữ liệu về đào tạo nghề của người lao động được triển khai, hoàn thiện cho 100% người lao động đóng bảo hiểm xã hội.
+
+100% dữ liệu giám sát, quan trắc tự động việc xả thải của các khu công nghiệp, các điểm nóng về ô nhiễm môi trường được đảm bảo đáp ứng nhu cầu kết nối về trung tâm giám sát tập trung của ngành Tài nguyên và Môi trường theo thời gian thực, phục vụ việc phân tích đưa ra các cảnh báo khi có nguy cơ về sự cố môi trường.
+
+100% dữ liệu về hạ tầng giao thông công cộng và phương tiện giao thông, dữ liệu về kho, bãi và các trung tâm logistics được số hóa, cập nhật kịp thời, hỗ trợ giải quyết tốt những vấn đề khó khăn, vướng mắc của ngành giao thông và đáp ứng được nhu cầu xây dựng chuỗi cung ứng giao nhận- kho vận và logistics.
+
+Phát triển thị trường dữ liệu, hoàn thành thí điểm, thử nghiệm 5 sàn giao dịch dữ liệu tạo môi trường mua bán, trao đổi dữ liệu có sự giám sát đảm bảo an toàn, tuân thủ quy định của pháp luật; phát triển các dịch vụ dữ liệu (tổng hợp, phân tích, dán nhãn dữ liệu,...) tạo thêm nhiều cơ hội việc làm cho người dân; xuất khẩu tri thức lao động Việt Nam ra nước ngoài dựa trên các công việc mới với dữ liệu.
+
+Để đạt được các mục tiêu, Chiến lược nêu rõ, sẽ tập trung nghiên cứu, xây dựng Luật Công nghiệp công nghệ số trong đó quy định các hình thức sở hữu dữ liệu, quyền tài sản dữ liệu, chính sách mua bán dữ liệu, đưa dữ liệu trở thành một loại tài sản được pháp luật bảo vệ và tạo thị trường dữ liệu.
+
+Xây dựng Nghị định quy định về giao dịch điện tử trong cơ quan nhà nước và hệ thống thông tin phục vụ giao dịch điện tử, Nghị định quy định về chữ ký điện tử và dịch vụ tin cậy.
+
+Cùng với đó, xây dựng Nghị định quy định về mua bán, trao đổi dữ liệu riêng, dữ liệu có bản quyền để tạo thị trường dữ liệu; quy định về các dạng dữ liệu đủ điều kiện tham gia mua bán, trao đổi, chuyển nhượng.
+
+Xây dựng các quy định về nghĩa vụ, trách nhiệm của các đơn vị vận hành nền tảng số, hệ thống giao dịch điện tử trong việc thu thập, lưu trữ, sử dụng, kết nối, chia sẻ, giao dịch dữ liệu số. Xây dựng các quy định về tiêu chuẩn, quy chuẩn, các danh mục lưu trữ, kết nối và chia sẻ dữ liệu, các quy định về dữ liệu phi danh tính. Ban hành các quy định hướng dẫn liên quan đến quản lý chất lượng dữ liệu.
+
+Nghiên cứu xây dựng chính sách ưu đãi thúc đẩy phát triển doanh nghiệp hoạt động trong lĩnh vực dữ liệu, tư vấn chiến lược quản trị dữ liệu, cung cấp nền tảng, dịch vụ quản trị dữ liệu; phòng chống sự chi phối, thao túng thị trường của các tổ chức, doanh nghiệp có lợi thế nắm giữ khối lượng dữ liệu lớn của Việt Nam.
+
+Chiến lược nhấn mạnh việc tập trung hoàn thiện các cơ sở dữ liệu quốc gia trong danh mục cần ưu tiên triển khai tạo nền tảng phát triển chính phủ điện tử (cơ sở dữ liệu quốc gia về dân cư, đất đai, đăng ký doanh nghiệp, tài chính, bảo hiểm, cơ sở dữ liệu quốc gia về cán bộ, công chức, viên chức) và dữ liệu trong các lĩnh vực thuộc danh mục các nhiệm vụ, giải pháp trọng tâm phát triển kinh tế số và xã hội số ngành, lĩnh vực đã được phê duyệt tại Quyết định số 411/QĐ-TTg của Thủ tướng Chính phủ để phục vụ phát triển kinh tế xã hội.
+
+Về phát triển thị trường dữ liệu, Chiến lược nêu rõ việc xây dựng đề án thiết lập thị trường dữ liệu và các văn bản pháp lý hướng dẫn thí điểm các sàn giao dịch dữ liệu, trong đó thiết lập các nền tảng trao đổi, mua, bán dữ liệu; Phát triển mô hình các công ty môi giới về dữ liệu; Phát triển thị trường dịch vụ dữ liệu (kiểm toán, phân tích, quản trị, dán nhãn dữ liệu,...).

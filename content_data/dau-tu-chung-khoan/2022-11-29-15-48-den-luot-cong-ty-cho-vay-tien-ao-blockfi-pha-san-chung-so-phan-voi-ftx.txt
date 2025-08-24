@@ -1,0 +1,31 @@
+Tháng 11 này, BlockFi tuyên bố tạm dừng cho khách hàng rút tiền, với lý do thiệt hại từ vụ sập sàn FTX và công ty “chị em” của FTX là Alameda. Hôm 11/11, FTX và Alameda - hai công ty do Sam Bankman-Fried sáng lập - và hàng chục công ty con đã đồng loạt nộp đơn xin phá sản.
+
+“Kể từ đó, đội ngũ của chúng tôi đã rà soát mọi lựa chọn chiến lược và biện pháp có thể, đồng thời tập trung vào mục tiêu chính là làm những gì tốt nhất có thể cho khách hàng”, BlockFi nói trong một tuyên bố.
+
+Sau khi nộp đơn bảo hộ phá sản theo Chương 11 của Luật Phá sản Mỹ, BlockFi đâm đơn kiện Emergent Fidelity Technology, một công ty con khác của Bankman-Fried. Đơn kiện đòi bên bị đơn giao nộp tài sản thế chấp. Theo tờ Financial Times, tài sản thế chấp đó là cổ phần 7,6% của Bankman-Fried trong ứng dụng giao dịch trực tuyến Robinhood.
+
+BlockFi là công ty chưa niêm yết đại chúng, được thành lập vào năm 2017 bởi Zac Prince và Flori Marquez. Công ty này chuyên cung cấp cho khách hàng các khoản vay dựa trên tài sản thế chấp là tiền ảo.
+
+Trong đơn xin bảo hộ phá sản, BlockFi cho biết công ty nợ tiền hơn 100.000 chủ nợ. Trong đó, chủ nợ lớn nhất là Ankura Trust, một công ty đại diện cho các chủ nợ trong trường hợp căng thẳng. Số tiền nợ Ankura Trust là 729 triệu USD. Chủ nợ lớn thứ hai của BlockFi là FTX, với số nợ 275 triệu USD.
+
+
+
+Quy trình xử lý các thủ tục phá sản của FTX đã làm lộ ra những bằng chứng gây sửng sốt về cách quản lý doanh nghiệp. Vị CEO mới của FTX, người được trao quyền tái cơ cấu công ty, nói rằng sự sụp đổ của FTX là kết quả của “thất bại hoàn toàn trong kiểm soát doanh nghiệp”, vượt xa cả vụ phá sản của công ty năng lượng Enron.
+
+BlockFi cho biết đang có trong tay khoảng 257 triệu USD tiền mặt và công ty dự kiến số tiền này sẽ đủ để trang trải trong quá trình tái cơ cấu. Công ty cũng ước tính tổng tài sản và nghĩa vụ nợ dao động trong khoảng 1-10 tỷ USD.
+
+Quy trình tái cơ cấu của BlockFi sẽ bao gồm sa thải nhân viên, nhưng hiện chưa rõ bao nhiêu người sẽ mất việc.
+
+Có trụ sở ở New Jersey, Mỹ, BlockFi là một trong số những công ty nhận được sự hỗ trợ tài chính của Bankman-Fried trong mùa hè năm nay, khi giá tiền ảo lao dốc mạnh đe doạ “đốn gục” hàng loạt công ty lớn trong hệ sinh thái tài sản kỹ thuật số. Hồi tháng 7, BlockFi nhận được một “phao cứu sinh” 400 triệu USD từ FTX.
+
+Việc BlockFi phá sản cho thấy vụ sụp đổ của FTX vẫn đang gây ra những cơn chấn động trong lĩnh vực tiền ảo.
+
+“Vụ phá sản của BlockFi phản ánh nguy cơ rủi ro lây lan trong hệ sinh thái tiền ảo. Các cuộc tái cơ cấu trong lĩnh vực này có thể sẽ rất dài”, chuyên gia Monsur Hussain của Fitch Ratings nhận định. Ông Huissain nhấn mạnh rằng đã 8 năm kể từ ngày sàn giao dịch tiền ảo Mt. Gox phá sản vào năm 2014, các chủ nợ của sàn này đến hiện tại mới đến gần ngày được trả nợ.
+
+Sau khi FTX phá sản, bộ phận cho vay của công ty môi giới tiền ảo Genesis cũng ngừng cho khách hàng rút tiền và ngừng cấp vốn vay mới. Lý do mà Genesis đưa ra là số yêu cầu rút tiền tăng cao bất thường, vượt quá khả năng thanh khoản hiện tại của công ty trong bối cảnh thị trường biến động vì FTX “sập tiệm”.
+
+“Trong lĩnh vực tiền ảo, ngay khi một công ty tuyên bố ngừng cho khách hàng rút tiền, mọi người đều xem công ty đó đã chết”, biên tập viên Daniel Roberts của trang tin tiền ảo Decrypt Media phát biểu.
+
+Một trong các đối tác của Genesis là Gemini - công ty tiền ảo được sáng lập bởi cặp anh em Tyler và Cameron Winklevoss - cũng nhanh chóng hành động tương tự, cảnh báo khách hàng rằng việc rút tiền trong chương trình mang tên Earn sẽ tạm dừng.
+
+Những góc khuất của FTX bắt đầu lộ ra từ đầu tháng này, khi nghi vấn về mối quan hệ giữa FTX với Alameda khiến nhà đầu tư hoảng sợ. Một làn sóng nhà đầu tư rút tiền khỏi FTX đã đẩy sàn này vào một cuộc khủng hoảng thanh khoản và kết cục là phá sản.

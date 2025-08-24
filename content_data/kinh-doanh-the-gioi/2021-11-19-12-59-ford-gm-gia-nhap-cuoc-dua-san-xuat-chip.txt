@@ -1,0 +1,37 @@
+Theo Wall Street Journal, hai nhà sản xuất ô tô hàng đầu của Mỹ - Ford Motor Co. và General Motors Co. (GM) – đang tính lấn sang sang lĩnh vực bán dẫn sau hơn một năm thế giới trải qua tình trạng thiếu chip, gây ảnh hưởng tới sản lượng xe của hai hãng trên toàn cầu.
+
+Hãng Ford ngày 18/11 đã phác thảo một thỏa thuận chiến lược với nhà sản xuất chip GlobalFoundries Inc. để lập liên doanh sản xuất chip tại Mỹ. GM sau đó cũng cho biết công ty này đang củng cố mối quan hệ với một số tên tuổi lớn nhất trong lĩnh vực bán dẫn - bao gồm Qualcomm Inc. và NXP Semiconductors NV - và có các thỏa thuận để đồng phát triển và sản xuất chip máy tính.
+
+Động thái của hai đại gia ngành ô tô là cho thấy những gián đoạn do đại dịch đã buộc các công ty phải tìm cách tăng khả năng kiểm soát chuỗi cung ứng với việc chuyển hoạt động sản xuất về gần quê nhà hoặc thậm chí chuyển hẳn về.
+
+Nhiều công ty đa quốc gia đã vấp phải cú sốc ban đầu trước những hỗn loạn khi các nước đóng cửa biên giới, áp hạn chế và phong tỏa để ứng phó với đại dịch. Một số công ty đã phải đưa ra các giải pháp dài hạn.
+
+Do vẫn đang tiếp tục đối mặt với tình trạng chậm trễ và tắc nghẽn trong khâu vận chuyển, các doanh nghiệp phải xem xét lại vị trí địa lý của chuỗi cung ứng và ưu tiên cho các chiến lược đảm bảo sự chắc chắn trong mô hình thuê ngoài vốn mang lại hiệu quả cao trước đây.
+
+Trong ngành công nghiệp ô tô, các nhà sản xuất đang bắt đầu đảo ngược các quyết định thuê ngoài sản xuất các linh kiện quan trọng được thực hiện suốt nhiều thập kỷ qua. Động thái tham gia vào sản xuất pin, chip… của các nhà sản xuất ô tô cho thấy họ đang bắt đầu lặp lại các quyết định trong quá khứ khi sở hữu cơ sở sản xuất phụ tùng lớn hay vận hành nhà máy thép.
+
+Cuộc khủng hoảng này cũng đang thúc đẩy sự hợp tác sâu rộng hơn giữa các ngành công nghiệp khi lãnh đạo từ cả các hãng ô tô lẫn công nghệ đang hợp tác cùng nhau để giải quyết thách thức, đưa ra các sản phẩm mới, đặc biệt là khi ô tô ngành càng được tự động hóa nhiều hơn.
+
+“Chúng tôi cần các bạn, các bạn cũng cần chúng tôi”, Giám đốc điều hành Pat Gelsinger của Intel Corp. phát biểu tại một sự kiện ô tô hồi tháng 9. “Đây là tương lai cộng sinh mà ở đó chúng ta không ngừng đổi mới và cung cấp sản phẩm, khi ô tô ngày càng trở thành một chiếc máy tính có 4 bánh”.
+
+Không chỉ hợp tác với GlobalFoundries để sản xuất chip, Ford thậm chí có thể phát triển con chip riêng để cải thiện một tính năng trên sản phẩm của mình như khả năng lái tự động, hệ thống pin trên xe điện. Hãng xe có trụ sở tại Michigan cho biết việc này giúp hãng tránh được những cuộc khủng hoảng thiếu chip trong tương lai.
+
+Theo ông Chuck Gray, Phó chủ tịch phụ trách phần mềm và kiểm soát xe của Ford, nằm trong thỏa thuận với GlobalFoundries, Ford hướng tới sản xuất các con chip cao cấp có thể được đưa vào phương tiện giao thông trong vài năm tới.
+
+Tuy nhiên, theo các nhà phân tích, việc xây dựng hoạt động thiết kế chip nghiêm túc không phải là một nhiệm vụ đơn giản đối với Ford. Các công ty thường phải mất nhiều năm để thiết kế các con chip tinh vi.
+
+Hơn nữa, kể cả trước khi đại dịch khiến nhu cầu chip tăng cao, các công ty bán dẫn đã phàn nàn về tình trạng thiếu nghiêm trọng kỹ sư có trình độ. Khi lấn sang vào lĩnh vực này, Ford sẽ phải cạnh tranh để giành nhân tài với các công ty chip như Intel và Nvidia Corp. Đó là chưa kể tới những công ty có nguồn tài chính dồi dào như Amazon và Apple khi cả hai đại gia công nghệ này đang triển khai thiết kế con chip riêng.
+
+Mặc dù vậy, việc Ford cũng như GM tham gia vào lĩnh vực chip cho thấy các công ty ô tô đang âm thầm tìm cách kiểm soát những mảng quan trọng với khả năng cạnh tranh trong tương lai của mình.
+
+Trong một cuộc gọi với nhà đầu tư ngày 18/11, Chủ tịch GM Mark Reuss cho biết công ty này đang làm việc với một số công ty bán dẫn.
+
+“Chúng tôi nhận thấy nhu cầu chip sẽ tăng gấp đôi trong vài năm tới”, bà Reus cho biết và nói thêm rằng các dòng xe của GM sẽ ngành càng ứng dụng công nghệ tiên tiến hơn.
+
+Con chip được dùng để kiểm soát nhiều tính năng trên ô tô từ hiệu chỉnh động cơ cho đến đánh lái và bật túi khí. Năm nay, các nhà sản xuất ô tô phải cạnh tranh giành nguồn cung chip với các hãng máy tính, điện tử tiêu dùng khi nhu cầu tiêu dùng các mặt hàng này tăng vọt trong đại dịch.
+
+Ngành công nghiệp ô tô là một trong những ngành chịu ảnh hưởng lớn nhất của khủng hoảng thiếu chip và tình trạng này chưa biết sẽ kéo dài đến bao giờ. Một số lãnh đạo hãng xe và nhà phân tích kỳ vọng tình hình sẽ dần khởi sắc, nhưng phần lớn dự báo tình trạng gián đoạn sẽ còn tiếp diễn trong năm 2022 và có thể lâu hơn. Thiếu chip buộc các nhà sản xuất ô tô phải cắt giảm sản lượng hàng triệu chiếc trong thời gian tới.
+
+Ngoài con chip, pin điện cũng đang ngày càng trở thành một bộ phận quan trọng khi mà ngành công nghiệp ô tô đang dịch chuyển sang xe điện. Các hãng xe đang lo ngại rằng họ sẽ không có đủ nguồn cung pin xe điện và vật liệu thô để đáp ứng mục tiêu tăng trưởng của mình.
+
+Ford, Volkswagen AG, GM và nhiều nhà sản xuất ô tô khác đều đang hợp tác với các công ty pin xe điện để xây dựng nhà máy mới và đảm bảo lợi thế về công nghệ cũng như nguồn cung ổn định hơn trong tương lai.

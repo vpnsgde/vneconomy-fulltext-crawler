@@ -1,0 +1,63 @@
+Sau cuộc khủng hoảng tài chính toàn cầu năm 2008 (GFC 2008), hầu hết các hộ gia đình, nhà đầu tư khắp toàn cầu dù ít hay nhiều đều bị mất mát tài sản do lạm phát và nổ bong bóng giá bất động sản cũng như các tài sản tài chính khác. Điều này làm bào mòn niềm tin với thể chế tiền tệ toàn cầu do Mỹ dẫn đầu, nơi USD là đồng tiền có quy mô giao dịch quốc tế lớn nhất và dự trữ chính thức của mọi ngân hàng trung ương (NHTW) trên thế giới.
+
+Tuy nhiên, USD không được đảm bảo bằng vàng trong khi được phát hành với khối lượng ngày một lớn. Mỹ không lo sợ lạm phát đồng USD bởi cầu với USD để dự trữ và giao dịch khắp toàn cầu luôn rất cao; cầu với USD có thể cân bằng với cung USD (in tiền) quá mức của Mỹ. Hiện tượng này còn được các nhà kinh tế học gọi là “Nghịch lý Triffin”.
+
+Các nền kinh tế nhỏ, phụ thuộc vào USD, phải gánh chịu “lạm phát” do đồng USD xuất khẩu sang. Đồng nội tệ của các nền kinh tế phát triển luôn trong tình trạng mất giá so với USD, tài sản quốc gia vì thế cũng bị bào mòn.
+
+Thêm vào đó, hệ thống thanh toán đồng USD là SWIFT (hệ thống thanh toán tập trung) do Mỹ dẫn dắt đã trở thành quyền lực chính trị - ngoại giao - tiền tệ mềm của Mỹ; các nền kinh tế bị trừng phạt, bị cô lập, đều có thể bị loại bỏ khỏi hệ thống SWIFT như một biện pháp trừng phạt kinh tế khốc liệt nhất.
+
+Trong bối cảnh đó, đồng tiền kỹ thuật số phi pháp định đầu tiên ra đời, dựa trên công nghệ khối chuỗi (blockchain), điển hình là Bitcoin. Sau sự hiện diện của Bitcoin, hàng trăm ngàn đồng tiền ảo khác xuất hiện. Một ngành công nghệ tiền kỹ thuật số phi pháp định đã nhanh chóng phát triển mạnh mẽ.
+
+Như vậy, trong bối cảnh thế giới ngày càng phân cực mạnh mẽ, nhiều tổ chức muốn các khoản thanh toán của mình nằm ngoài “kiểm soát" của chính phủ, nhiều chính phủ cũng có nhu cầu thực thi các khoản thanh toán “mật” về vũ khí, tài trợ chính trị,… thì tiền số phi pháp định (đứng đầu là Bitcoin) là lựa chọn khả thi nhất.
+
+Bitcoin và các đồng tiền ảo phi pháp định khác đã tạo ra một gợi ý, một nền tảng mới về công nghệ đã hoàn thiện dựa trên gợi ý này: Blockchain - một công nghệ có thể xác minh quyền sở hữu, chuyển đổi quyền sở hữu thông qua các giao dịch token (tạo bởi Blockchain) - nằm ngoài hệ thống ngân hàng, tức là nằm ngoài SWIFT do Mỹ dẫn dắt, có thể lách luật Mỹ đã đặt ra cho thế giới tiền tệ hiện đại ngày nay suốt 5 thập kỷ qua với chi phí thấp hơn.
+
+Các đồng tiền kỹ thuật số phát triển sau Bitcoin, công nghệ được cải thiện mạnh mẽ hơn, vượt trội hơn, còn tạo ra các ứng dụng khác. Một số đồng tiền như vậy đã định vị bản thân không phải là “tài sản đầu cơ" đơn thuần, mà là một phương thức (công cụ) giao dịch, giao tiếp trong hệ sinh thái công nghệ hữu ích, ngày một mở rộng.
+
+Điểm yếu của tiền kỹ thuật số phi pháp định là: (i) không có tài sản hay tính pháp lý đảm bảo, giá cả so với USD giao động mạnh; (ii) giao dịch không thể đảo ngược nên rủi ro cao; (iii) không thể truy vết giao dịch nên tiền kỹ thuật số là lựa chọn lý tưởng để rửa tiền và giao dịch phạm pháp (buôn lậu, buôn bán vũ khí, dịch vụ tội phạm...).
+
+Nước Mỹ đứng trước hai thách thức lớn: Một, cầu về nợ công Mỹ tại các ngân hàng trung ương  (cho mục đích dự trữ) có thể bị suy giảm trong khi Mỹ vẫn phải tiếp tục phát hành nợ mới để tái cơ cấu nợ công, để đảo nợ; hai, các liên minh tiền tệ ngoài SWIFT hình thành (như CIPS hoặc BRICS,...) và công nghệ blockchain (token) cho phép các giao dịch (chuyển đổi chủ sở hữu hàng hóa) phi tập trung (không thể kiểm soát, nằm ngoài “tầm nhìn" của Mỹ), nhanh, chi phí thấp, an toàn hơn.
+
+Như vậy, stablecoins - một đồng tiền kỹ thuật số, mà các tổ chức tư nhân có thể phát hành dựa trên khối lượng trái phiếu chính phủ Mỹ mà tổ chức nắm giữ - có thể giải quyết cả hai thách thức trên.
+
+Ngày 17/6/2025, Thượng viện Hoa Kỳ thông qua dự luật nhằm tạo ra hành lang quản lý đối với đồng tiền token được neo theo giá trị đồng USD, gọi là Stablecoin.
+
+Dự luật Stablecoins tạo ra khuôn khổ quản lý cho các loại tiền điện tử được neo bằng USD, 1 Stablecoins = 1 USD. Một tổ chức dù không phải Fed, không phải ngân hàng thương mại, không phải Chính phủ Mỹ, vẫn được phép tạo ra 1 Stablecoin khi mua, nắm giữ một lượng lớn trái phiếu chính phủ Mỹ. Mỗi Stablecoin phát hành tương đương với một đồng USD mà Chính phủ Mỹ đang nợ tổ chức đó. Các tài sản kỹ thuật số khác phi pháp định không có tài sản đảm bảo phía sau, trừ USDT (một loại stablecoin, được neo giá vào một loại tài sản cố định chẳng hạn như USD).
+
+USDT được phát hành với cam kết một USDT tương đương với 1 USD dựa trên việc người phát hành ra nó nắm giữ USD tiền mặt, nợ công,... Nhưng USDT là phi pháp định, trong khi Stablecoins có tính pháp định, có khuôn khổ thể chế, pháp lý quản lý rõ ràng hơn.
+
+Bởi vậy, sự ra đời của Stablecoins sẽ tạo ra cầu với nợ công Mỹ từ các tổ chức công nghệ lớn, các tập đoàn tư nhân lớn (thay thế cho cầu có thể suy giảm bởi các ngân hàng trung ương đang ưa thích vàng hơn trái phiếu chính phủ Mỹ), những tổ chức muốn nắm giữ nợ công của Mỹ để phát hành stablecoins của riêng họ, tìm kiếm lợi nhuận bằng các dịch vụ tài chính liên quan tới giao dịch bằng stablecoins trong khi khoản đầu tư vào trái phiếu chính phủ Mỹ vẫn được Chính phủ trả lãi.
+
+Ngoài ra, Stablecoins tạo ra một hệ thống giao dịch hàng hóa, tiền tệ phi tập trung, nằm ngoài SWIFT, nhưng hệ thống này vẫn được đồng USD dẫn dắt và thống trị. Đây là một cách để Mỹ không đánh mất vị thế, lợi thế cũng như tăng năng lực cạnh tranh trong thể chế tiền tệ cũng như thương mại toàn cầu, có thể tiếp tục dẫn dắt thể chế tiền tệ toàn cầu.
+
+Giống như mọi công cụ kinh tế - tài chính truyền thống, bên cạnh tính tích cực luôn tồn tại rủi ro nhất định. Nhận định rõ các rủi ro là vô cùng quan trọng đối với các nền kinh tế đang phát triển như Việt Nam, bởi vì chúng ta, rốt cuộc, không thể nằm ngoài cuộc chơi này.
+
+Rủi ro thứ nhất,sự tồn tại của Stablecoins pháp định khiến tính “đơn nhất của tiền” (singleness of money) không còn được đảm bảo. Stablecoins, dù thường được gắn giá trị vào đồng USD, nhưng không thực sự là USD, nên chúng không đảm bảo giá trị cố định như đồng tiền chính thức. Chúng dễ biến động và không đảm bảo rằng 1 Stablecoin luôn tương đương 1 USD, gây ra sự mất tin cậy về tính ổn định của tiền tệ.
+
+Rủi ro thứ hai,biến động giá với biên độ biến động cao. Dữ liệu cho thấy đồng USDT, có mức biến động lớn hơn mong đợi, làm giảm khả năng chúng trở thành “tiền” thực sự. Điều nay có xảy ra tương tự với Stablecoins pháp định hay không? Sự biến động này có thể hay không thể gây rủi ro trong các hoạt động tài chính, đặc biệt khi các nhà đầu tư hoặc hệ thống tài chính dựa vào chúng như một phương tiện thanh toán, là những vấn đề khó tiên lượng.
+
+Rủi ro thứ ba,hoạt động giao dịch phi tập trung với mục đích bất hợp pháp. Stablecoin dễ bị lợi dụng cho các hoạt động phạm pháp như rửa tiền, rút tiền bất hợp pháp, vì tính ẩn danh của người dùng và khả năng giao dịch ngoài hệ thống chính thức. Cũng giống như các đồng tiền kỹ thuật số khác, chúng là lựa chọn hàng đầu cho các hoạt động phi pháp, gây ra mối đe dọa lớn cho an ninh tài chính. Tuy nhiên, với khung khổ pháp lý, nếu được thiết kế chặt chẽ, có thể hạn chế rủi ro này.
+
+Rủi ro thứ tư,nguy cơ gây rối loạn thị trường và mất ổn định tài chính. Nếu nhiều người rút khỏi stablecoin một cách đột ngột, chúng có thể gây ra biến động lớn trong các thị trường tài chính, đặc biệt là thị trường trái phiếu ngắn hạn của Mỹ (T-bills). Các nhà cung cấp stablecoins (USDT) đã trở thành một trong những nhà mua lớn thứ ba của T-bills trong năm 2024, theo Financial Times, điều này làm tăng rủi ro khi họ gặp khó khăn hoặc phá sản.
+
+Rủi ro thứ năm,nguy cơ đối với chủ quyền tiền tệ của các nền kinh tế mới nổi, đang phát triển như Việt Nam. Stablecoin có thể làm suy yếu chủ quyền tiền tệ của các quốc gia, đặc biệt là các nền kinh tế mới nổi hoặc có lạm phát không ổn định. Chúng có thể phá vỡ kiểm soát ngoại hối của một số quốc gia, gây khó khăn trong quản lý nền kinh tế nội địa.
+
+Người dân và doanh nghiệp có thể lựa chọn sử dụng Stablecoin để giao dịch, tiết kiệm hoặc chuyển tiền, thay vì sử dụng đồng tiền của Chính phủ. Điều này làm giảm khả năng kiểm soát cung tiền của Chính phủ, vì dòng tiền trong nền kinh tế không còn chủ yếu nằm trong phạm vi kiểm soát của ngân hàng trung ương. Kết quả là, Chính phủ không thể dễ dàng thực thi các chính sách tiền tệ nhằm kiểm soát lạm phát hoặc duy trì tỷ giá cố định, gây ra rủi ro mất ổn định kinh tế và làm giảm chủ quyền tài chính của quốc gia.
+
+Rủi ro thứ sáu,tổ chức tư nhân phi ngân hàng nhưng hoạt động như một ngân hàng, rủi ro ngân hàng bóng. Trong quá khứ, hệ thống ngân hàng tự do (free banking) đã thất bại do các nhà cung cấp tiền tư nhân không kiểm soát nổi, dẫn đến khủng hoảng tài chính. Nếu các nhà cung cấp Stablecoin tư nhân không được kiểm soát chặt chẽ, họ có thể phá sản, gây ra các cuộc khủng hoảng tài chính và làm mất ổn định hệ thống.
+
+Ngoài ra, việc có thể phát hành tiền bởi các tập đoàn công nghệ, tập đoàn kinh tế tư nhân - những tổ chức không được giám sát theo tiêu chuẩn chặt chẽ của ngân hàng - trong khi cung cấp dịch vụ tài chính như ngân hàng có thể tạo ra các lỗ hổng.
+
+Rủi ro thứ bảy,rủi ro về khả năng xử lý các giao dịch lớn. Không có sự hậu thuẫn của ngân hàng trung ương, Stablecoin không thể đảm bảo xử lý các giao dịch quy mô lớn, gây ra lo ngại về khả năng duy trì ổn định của hệ thống khi có sự rút tiền hàng loạt.
+
+Như vậy, là quốc gia phụ thuộc vào xuất khẩu, nền kinh tế có độ mở lớn (200% GDP) so với các nền kinh tế có quy mô tương đương, Việt Nam sẽ phải đối mặt với rủi ro và thách thức: (i) hoạt động tội phạm, rửa tiền, chuyển tiền bất hợp pháp qua biên giới bằng Stablecoins; (ii) nguy cơ với chủ quyền tiền tệ quốc gia (như phân tích ở trên).
+
+Tuy nhiên, nếu không tham gia vào các giao dịch Stablecoin, các doanh nghiệp Việt có thể mất cơ hội giao thương, giao dịch Stablecoin với chi phí thấp hơn, thuận tiện hơn với nhiều đối tác quốc tế.
+
+Do vậy, Việt Nam cần nghiên cứu khung khổ pháp lý, thể chế để có thể cho phép doanh nghiệp giao dịch Stablecoin một cách an toàn, lành mạnh, kết nối khung khổ này với dữ liệu thuế, phòng chống rửa tiền, cung tiền trong và ngoài hệ thống ngân hàng, giám sát được dòng vốn, dòng tiền giao dịch bằng Stablecoin trong và ngoài biên giới. Ngoài ra, để đảm bảo chủ quyền tiền tệ quốc gia, việc tăng cường dự trữ ngoại hối, trong đó tăng cường tỷ lệ dự trữ vàng nên là chiến lược dài hạn.
+
+(*) ThS. Nguyễn Thị Ngọc Hà, Viện Chiến lược và Chính sách tài chính, Bộ Tài chính.
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 31-2025 phát hành ngày 04/08/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://premium.vneconomy.vn/dat-mua/an-pham/tap-chi-kinh-te-viet-nam-so-28.html

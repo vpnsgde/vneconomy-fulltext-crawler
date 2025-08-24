@@ -1,0 +1,41 @@
+Thực tế này được chuyên gia chỉ ra trong hội thảo hướng dẫn và giải đáp thắc mắc về Nghị định bảo vệ dữ liệu cá nhân (Nghị định 13) do Cục An ninh mạng và phòng chống tội phạm công nghệ cao (Bộ Công an) phối hợp với Công ty công nghệ an ninh mạng quốc gia- NCS và Công ty dịch vụ an toàn thông tin EY Việt Nam tổ chức ngày 23/11/2023.
+
+Theo các chuyên gia, tội phạm mạng sử dụng công nghệ cao trong thời gian qua diễn biến phức tạp với nhiều thủ đoạn và hình thức tấn công lừa đảo như: hack chiếm tài khoản mạng xã hội để lừa người thân, giả mạo tin nhắn chuyển tiền thành công; Thông báo phạt nguội, nâng cấp, khóa SIM, đối tượng giả mạo nhân viên công ty, tổ chức, chiếm mã OTP, giả danh bác sĩ để lừa con bị tai nạn, yêu cầu chuyển tiền; hack và chiếm quyền điều khiển thư điện tử, Làm giả thẻ ATM để chiếm đoạt tiền trong tài khoản ngân hàng; huy động đầu tư đa cấp trên mạng, đầu tư sàn forex; Xâm phạm bí mật đời tư…
+
+Thực tế ở Việt Nam đã có những vụ Deepfake mạo danh nhân viên điện lực, toà toán, công an,… để lừa đảo người dùng với số tiền chiếm đoạt lên tới hàng triệu USD; trong đó có những trường hợp bị mất hàng chục tỷ đồng.
+
+Thượng tá Nguyễn Đình Đỗ Thi, Phó Trưởng phòng Tham mưu, Cục An ninh mạng và Phòng chống tội phạm sử dụng công nghệ cao (A05), cho biết hoạt động tấn công mạng để đánh cắp thông tin, dữ liệu, bí mật nhà nước diễn ra phổ biến trên nhiều lĩnh vực. Tình trạng mua bán, khai thác trái phép thông tin, dữ liệu cá nhân diễn ra tràn lan trên không gian mạng, nhất là các trang mạng xã hội, diễn đàn ngầm, hội nhóm kín... Hàng trăm tệp dữ liệu của hàng chục triệu người Việt Nam được phân loại chi tiết để rao bán.
+
+Các hacker phân loại dữ liệu của người dùng Việt Nam theo thu nhập, độ tuổi, ngành nghề, thuộc nhiều lĩnh vực tài chính, ngân hàng, y tế, giáo dục, bảo hiểm... Trong các tệp dữ liệu được rao bán, có đầy đủ thông tin cơ bản và nhạy cảm của người dùng như họ tên, ngày tháng năm sinh, địa chỉ, email, điện thoại, số căn cước công dân, chứng minh nhân dân, tài khoản ngân hàng...
+
+Chia sẻ về thực trạng này, ông Vũ Ngọc Sơn, Giám đốc công nghệ Công ty cổ phần an ninh mạng quốc gia Việt Nam nhấn mạnh, lộ lọt dữ liệu không chỉ ở Việt Nam mà diễn ra trên toàn cầu. Facebook, Microsoft, Samsung, Toyota... đều từng là nạn nhân bị tấn công, lộ lọt dữ liệu. Tất cả các tổ chức, doanh nghiệp đều có thể là nạn nhân, mục tiêu tấn công của hacker.
+
+Ở Việt Nam, Bộ Công an cho biết, hiện nay tình trạng mua bán dữ liệu cá nhân ở Việt Nam phức tạp, trong đó có 2 yếu tố chính là tội phạm đột nhập và đánh cắp dữ liệu cá nhân. Trong năm 2023, Bộ Công an đã phải cảnh báo, xử lý hàng chục triệu vụ việc có liên quan đến xâm phạm cơ sở dữ liệu cá nhân..
+
+Bộ Thông tin và Truyền thông mỗi tháng đã ghi nhận hàng nghìn cuộc tấn công mạng hướng vào Việt Nam trong năm 2023.
+
+Với các cuộc tấn công dữ liệu, điều quan tâm nhất chính là thời gian phát hiện và khắc phục sự cố. Theo thống kê nghiên cứu từ các vụ lộ lọt dữ liệu trên toàn cầu nhiều năm, với những vụ lộ lọt dữ liệu, thời gian trung bình phải xử lý khoảng hơn 250 ngày, cá biệt trong năm 2023 lên tới 277 ngày.
+
+Đặc biệt, thời gian từ lúc dữ liệu bị lộ lọt đến lúc tổ chức, doanh nghiệp phát hiện lên tới 204 ngày. Sau đó, các doanh nghiệp phải mất 73 ngày để khắc phục sự cố. Như vậy, nếu để lộ lọt dữ liệu, các tổ chức doanh nghiệp phải mất gần 1 năm để xử lý các sự cố về dữ liệu tấn công lộ lọt, đây là khoảng thời gian dài, ông Sơn nói.
+
+Không chỉ tốn thời gian và ảnh hưởng danh tiếng, thiệt hại trực tiếp khi bị lộ lọt dữ liệu phải khắc phục sự cố là rất lớn. Theo thống kê, ở khu vực ASEAN thiệt hại trung bình của một vụ lộ lọt dữ liệu lên tới 3 triệu USD và ở Mỹ 9 triệu USD. Thiệt hại do lộ lọt dữ liệu phụ thuộc vào quy mô và mức độ phát triển của nền kinh tế.
+
+Các tổ chức, doanh nghiệp phải đối mặt với các nguy cơ an ninh mạng như bị xâm nhập lấy cắp thông tin nội bộ, cơ sở dữ liệu khách hàng; dữ liệu quan trọng bị mã hóa; chịu các tổn hại về kinh, uy tín; đồng thời phải đối mặt với các nguy cơ pháp lý; thiếu nhân sự chuyên trách an ninh mạng.
+
+Tổng kết lại các vụ tấn công tại Việt Nam thời quan qua, ông Sơn đúc rút 3 giai đoạn tấn công điển hình mà các doanh nghiệp đang gặp phải. Đầu tiên, hacker chiếm quyền điều khiển của máy trong mạng. Tiếp đó, hacker nằm vùng thu thập thông tin, tiếp tục tấn công sâu vào hệ thống nội bộ, chiếm quyền điều khển các máy tính, máy chủ quan trọng.
+
+Giai đoạn ba, hacker chiếm toàn quyền điều khiển hệ thống tấn công vào cơ sở dữ liệu thông tin khách hàng và các máy chủ nghiệp vụ, tài chính…
+
+Theo các chuyên gia, có tới 95% thời gian hacker sẽ dành cho việc dò quét, xâm nhập từng bước vào hệ thống, chỉ khoảng 5% là thời gian thực hiện đánh cắp dữ liệu và phá hoại. Giai đoạn 1-2 chiếm phần lớn thời gian (95%) nhưng khó phát hiện.
+
+Như vậy, nếu các tổ chức doanh nghiệp kiểm soát tốt việc bảo vệ  ở bước 1 và 2 đồng nghĩa có 95% cơ hội để ngăn chặn các cuộc tấn công. Cơ hội để phát hiện và ngăn chặn các cuộc tấn công là rất cao. Nếu được giám sát an ninh mạng 24/7, các doanh nghiệp có thể phát hiện từ sớm các dấu hiệu hệ thống bị tấn công, từ đó hoàn toàn có thể ngăn chặn được khả năng xảy ra lộ lọt dữ liệu.
+
+Tuy nhiên để bảo vệ an toàn hệ thống, các doanh nghiệp phải tốn 2-3 tỷ đồng nếu mua sắm các phần mềm, hạ tầng giải pháp nước ngoài. Đây là một khoản chi phí lớn thách thức với các doanh nghiệp nhỏ và vừa Việt Nam.
+
+Tại hội thảo, các chuyên gia cũng chia sẻ kinh nghiệm thực tế và các giải pháp trong tuân thủ Nghị định bảo vệ dữ liệu cá nhân. Để các tổ chức doanh nghiệp nhỏ và vừa có thể giám sát an ninh mạng 24/7, các nền tảng công nghệ tối ưu hóa và tự động hóa các hoạt động liên quan đến việc bảo vệ dữ liệu cá nhân đã đưa ra như TrustArc, NCSOC... Trong đó, với NCSOC của NCS là giải pháp tổng thể bao gồm từ phần mềm nền tảng, hạ tầng công nghệ đến dịch vụ vận hành, cho phép kết nối tất cả trong một, giám sát toàn bộ các thành phần trong hệ thống mạng, từ các thiết bị máy chủ, máy trạm đến các giải pháp an ninh như diệt virus, tường lửa…
+
+Giải pháp này sẽ giám sát tất cả các sự kiện diễn ra trên hệ thống từ nhỏ nhất, phân tích, đánh giá, qua đó phát hiện sớm và ngăn chặn các nguy cơ tấn công mạng. Giải pháp giúp các doanh nghiệp, tổ chức có thể phòng, chống nguy cơ bị xâm nhập, cài mã độc gián điệp, lấy cắp cơ sở dữ liệu khách hàng, tài liệu nội bộ, mã hoá dữ liệu quan trọng…
+
+Theo ông Sơn, với mô hình dạng Hybrid, các thiết bị của doanh nghiệp không cần phải có kết nối ra Internet vẫn có thể được bảo vệ. Tận dụng được năng lực tính toán của máy chủ trung tâm để triển khai các công nghệ về dữ liệu lớn, đặc biệt là công nghệ AI giúp tự động tìm ra các mối nguy hiểm nhanh nhất.
+
+Các chuyên gia an ninh mạng khẳng định, NCSOC sẽ là lời giải kỹ thuật cho các doanh nghiệp, tổ chức đáp ứng yêu cầu của Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân. Để bảo vệ dữ liệu cá nhân, Nghị định đã quy định rõ các biện pháp trong đó, kỹ thuật là một trong những biện pháp quan trọng.

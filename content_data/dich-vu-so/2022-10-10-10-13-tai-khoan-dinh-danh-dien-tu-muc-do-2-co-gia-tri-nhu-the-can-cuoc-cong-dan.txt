@@ -1,0 +1,29 @@
+UBND TP.Hà Nội vừa ban hành văn bản số 3307/UBND-KSTTHC ngày 6/10/2022 về việc triển khai thực hiện Nghị định số 59/2022/NĐ-CP ngày 5/9/2022 của Chính phủ quy định về định danh và xác thực điện tử.
+
+Để triển khai hiệu quả các nội dung của nghị định nêu trên, UBND thành phố đề nghị thủ trưởng các sở, ban, ngành và chủ tịch UBND các quận, huyện, thị xã chỉ đạo tổ chức triển khai các quy định tại Nghị định số 59/2022/NĐ-CP; chủ động phối hợp chặt chẽ với Công an thành phố, đẩy mạnh công tác tuyên truyền về việc sử dụng tài khoản định danh điện tử để thực hiện thủ tục hành chính, dịch vụ hành chính công trên môi trường điện tử và các hoạt động khác theo nhu cầu của chủ thể danh tính điện tử.
+
+Theo đó, từ ngày 20/10/2022, tài khoản định danh điện tử mức độ 2 của công dân Việt Nam có giá trị tương đương như việc sử dụng thẻ căn cước công dân trong thực hiện các giao dịch có yêu cầu xuất trình thẻ căn cước công dân; có giá trị cung cấp thông tin trong các loại giấy tờ của công dân đã được đồng bộ vào tài khoản định danh điện tử để cơ quan, tổ chức có thẩm quyền đối chiếu khi thực hiện các giao dịch có yêu cầu xuất trình giấy tờ đó.
+
+Ngoài ra, đối với người nước ngoài, có giá trị tương đương như việc sử dụng hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế... Từ đó, để các cơ quan, tổ chức và mọi tầng lớp nhân dân có nhận thức tích cực, đồng thuận giúp đỡ các cơ quan chức năng, lực lượng công an có điều kiện thuận lợi đẩy nhanh tiến độ thực hiện kế hoạch cấp căn cước công dân gắn chíp và định danh điện tử.
+
+Đồng thời, UBND TP.Hà Nội cũng yêu cầu các địa phương, đơn vị chỉ đạo, phối hợp với cơ quan công an cấp huyện trên địa bàn tổ chức cấp căn cước công dân gắn chíp và xác thực định danh điện tử cho cán bộ, công chức, viên chức, người lao động trong đơn vị, phấn đấu 100% cán bộ, đảng viên, công chức, viên chức, người lao động của đơn vị gương mẫu thực hiện.
+
+UBND thành phố giao Công an thành phố chủ trì, phối hợp với Văn phòng UBND thành phố, Sở Nội vụ tăng cường công tác kiểm tra, đôn đốc, hướng dẫn, kịp thời phát hiện những khó khăn, bất cập, vướng mắc để tham mưu, đề xuất UBND thành phố các giải pháp bảo đảm hoàn thành chỉ tiêu cấp căn cước công dân gắn chíp và định danh điện tử.
+
+Ứng dụng định danh điện tử quốc gia VNEID (sử dụng hệ điều hành Android và iOS) là phần mềm do Bộ Công an tạo lập phục vụ đăng ký, quản lý định danh và xác thực điện tử. Người dân chỉ cần sử dụng ứng dụng định danh điện tử quốc gia là có thể đảm bảo các thông tin về giấy tờ đã được tích hợp đầy đủ hiệu lực pháp lý để sử dụng thay thế giấy tờ vật lý truyền thống cũng như sử dụng trên môi trường điện tử.
+
+Theo quy định, tài khoản định danh điện tử của công dân chỉ có thể đăng nhập trên một thiết bị duy nhất tại một thời điểm nên công dân không thể sử dụng tài khoản định danh điện tử trên nhiều thiết bị khác nhau cùng thời điểm. Hơn nữa, một số điện thoại duy nhất chỉ được đăng ký định danh điện tử cho một cá nhân theo số căn cước công dân.
+
+Ngoài ra, công dân cần nhập mật khẩu của tài khoản định danh điện tử vào lần đăng nhập đầu tiên trên thiết bị, từ những lần sau công dân có thể sử dụng vân tay, ảnh mặt để xác thực thay thế mật khẩu đăng nhập bằng cách thiết lập trong ứng dụng.
+
+Về quy định mật khẩu, mật khẩu của tài khoản được yêu cầu đặt có chữ hoa, chữ thường, số, ký tự đặc biệt (độ dài tối thiểu 8 ký tự); được yêu cầu thay đổi định kỳ (ít nhất 6 tháng/lần).
+
+Trong trường hợp mất thiết bị đang sử dụng tài khoản định danh điện tử, công dân có thể thực hiện yêu cầu khóa tạm thời tài khoản để đảm bảo an toàn cho dữ liệu cá nhân của mình theo một trong hai cách: Yêu cầu khóa tài khoản trên trang thông tin Định danh điện tử Quốc gia; hoặc liên hệ cơ quan công an để được hỗ trợ khóa tạm thời tài khoản.
+
+Các dữ liệu về định danh điện tử không lưu trữ trên thiết bị di động đã cài đặt ứng dụng VNEID của công dân nên các ứng dụng lạ, ứng dụng độc hại vô tình được cài trên điện thoại khó có thể truy cập vào thiết bị để lấy cắp thông tin.
+
+Chỉ khi công dân đăng ký truy cập mới được hiển thị lên ứng dụng và công dân hoàn toàn biết được chính xác việc xuất trình để hiển thị thông tin cho đối tượng khác (nếu cần). Khi cán bộ chức năng có yêu cầu kiểm tra thông tin cá nhân, giấy tờ của công dân thì công dân phải “cho phép” tức là cấp quyền kiểm tra thì cán bộ chức năng mới có thể xem được thông tin trong phạm vi được phép.
+
+Đặc biệt, khi bên thứ 3 (bên cung cấp dịch vụ như ngân hàng, ví điện tử…; y tế, bảo hiểm, hệ thống dịch vụ công…) có nhu cầu sử dụng dữ liệu của công dân trong dịch vụ của mình thì cũng phải được sự đồng ý của công dân. Tùy vào yêu cầu về mức độ xác thực và bảo mật của bên thứ 3, thông tin công dân sẽ được ký số (chống thay đổi, chống chối bỏ), và được mã hóa.
+
+Tuy nhiên để đảm bảo an toàn trước các đối tượng tội phạm công nghệ cao, Bộ công an khuyến cáo công dân không cài các ứng dụng lạ, độc hại, không chia sẻ thông tin tài khoản của mình cũng như chú ý đến việc bảo mật cho thiết bị của mình đang sử dụng ứng dụng định danh điện tử.

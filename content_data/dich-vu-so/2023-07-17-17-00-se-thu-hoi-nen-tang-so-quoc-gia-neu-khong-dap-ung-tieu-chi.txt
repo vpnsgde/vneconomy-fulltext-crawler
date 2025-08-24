@@ -1,0 +1,33 @@
+Bộ Thông tin và Truyền thông vừa ban hành khung tiêu chí và quy trình xét duyệt, công nhận, công bố và thu hồi công nhận nền tảng số quốc gia theo Quyết định số 186/QĐ-BTTTT, nhằm đáp ứng nhu cầu, phục vụ chuyển đổi số.
+
+Theo quyết định này, nền tảng số là tập hợp phần cứng, phần mềm và cơ sở dữ liệu được thiết lập với chức năng, tính năng chính để phục vụ giao dịch điện tử, bảo đảm tính xác thực, tin cậy trong các giao dịch điện tử. Cùng với đó tạo môi trường điện tử cho phép các bên thực hiện giao dịch hoặc cung cấp, sử dụng sản phẩm, dịch vụ hoặc sử dụng để phát triển sản phẩm, dịch vụ.
+
+Các nền tảng số giải quyết các bài toán cụ thể của chuyển đổi số, tạo lập và lưu trữ dữ liệu người dùng, càng có nhiều người sử dụng thì dữ liệu càng nhiều, chi phí càng rẻ, giá trị tạo ra càng lớn. Cùng với đó có thể sử dụng ngay, đơn giản, thuận tiện, linh hoạt theo yêu cầu, dễ dàng phổ biến trên diện rộng, các bên tham gia không cần tự đầu tư, quản lý, vận hành, duy trì.
+
+Nền tảng số quốc gia theo Quyết định 186/QĐ-BTTTT ngày 11/02/2022 của Bộ Thông tin và Truyền thông là nền tảng số các tiêu chí kỹ thuật đặc trưng về về hạ tầng và khả năng cung cấp dịch vụ của nền tảng; bảo đảm an toàn thông tin mạng. Đồng thời bổ sung thêm một số nhóm tiêu chí về yêu cầu chức năng, tính năng đáp ứng yêu cầu nghiệp vụ của cơ quan, tổ chức, doanh nghiệp tham gia sử dụng nền tảng; tiêu chí về mức độ người dùng phổ biến; doanh nghiệp nòng cốt (doanh nghiệp phát triển, vận hành nền tảng số quốc gia); và mô hình cung cấp dịch vụ bảo đảm lợi ích cho người dân, doanh nghiệp và hỗ trợ quản lý của cơ quan nhà nước.
+
+Trong khung tiêu chí xét xuyệt nền tảng số tham gia vào Chương trình chuyển đổi số doanh nghiệp vừa và nhỏ nêu rõ 6 nhóm tiêu chí kỹ thuật của các nền tảng số gồm: kỹ thuật của nền tảng số; an toàn, an ninh mạng; yêu cầu tính năng, chức năng; mức độ người dùng; doanh nghiệp nền tảng và các nguồn lực; mô hình dịch vụ bảo đảm lợi ích cho người dân, doanh nghiệp và hỗ trợ hoạt động của cơ quan quản lý nhà nước.
+
+Thứ nhất, hạ tầng điện toán đám mây, có khả năng mở rộng theo nhu cầu sử dụng; có khả năng cho phép phát triển tính năng mới, thay đổi tính năng mà không cần lập trình hoặc yêu cầu lập trình tối thiểu. Cùng với đó có khả năng cho phép người dùng cuối tự thay đổi, tùy biến tính năng, quy trình, báo cáo… theo nhu cầu sử dụng thông qua giao diện người dùng; Có khả năng cung cấp dịch vụ ngay cho người dùng mới; đồng thời có khả năng cho phép các bên cùng tham gia hoạt động, cung cấp dịch vụ và tiêu dùng dịch vụ.
+
+Thứ hai,nền tảng là hệ thống thông tin được xây dựng, phê duyệt hồ sơ đề xuất cấp độ và triển khai đầy đủ phương án bảo đảm an toàn hệ thống thông tin tối thiểu cấp độ 3 trở lên theo quy định. Toàn bộ dữ liệu được lưu trữ tại Việt Nam theo quy định tại Luật An ninh mạng năm 2018 và các văn bản hướng dẫn thi hành.
+
+Thứ ba,các tiêu chí về chức năng, tính năng sẽ do cơ quan chủ quản xây dựng, đánh giá, xét duyệt.
+
+Thứ tư,đối tượng sử dụng nền tảng chiếm thị phần chi phối trên thị trường trong lĩnh vực hoạt động. Theo đó, tối thiểu đạt 50% thị phần của thị trường tiềm năng.
+
+Thứ năm,là doanh nghiệp Việt Nam quy định tại Luật Doanh nghiệp năm 2020. Số lượng cổ phần của các cá nhân, tổ chức Việt Nam trong doanh nghiệp chiếm trên 50%. Bên cạnh đó, tỉ lệ nhân sự chuyên môn về công nghệ thông tin/ tổng số nhân sự chiếm tối thiểu 30% và nguồn lực tài chính cũng  như cam kết của doanh nghiệp duy trì tỉ lệ cổ phần do cơ quan, tổ chức, doanh nghiệp Việt Nam sở hữu đạt tối thiểu 50% trong khoảng thời gian tham gia Chương trình…
+
+Thứ sáu,một nền tảng số quốc gia cung cấp miễn phí các tính năng cơ bản phục vụ người dân, doanh nghiệp. Doanh nghiệp chủ quản nền tảng có thể thu phí dịch vụ đối với các dịch vụ nâng cao. Đồng thời cung cấp công cụ quản lý cho cơ quan nhà nước có thẩm quyền để phục vụ công tác quản lý, điều hành.
+
+Theo quyết định này, việc đánh giá, công nhận, công bố và thu hồi công nhận nền tảng số quốc gia, thực hiện theo quy trình 5 bước. Đó là: Xây dựng ban hành tiêu chí nền tảng số quốc gia; đánh giá đáp ứng tiêu chí và cấp giấy chứng nhận; công bố nền tảng số quốc gia; định kỳ đánh giá; thu hồi quyết định.
+
+Đối với bước xây dựng ban hành tiêu chí nền tảng số quốc gia, các cơ quan chủ quản phải cụ thể hóa các tiêu chí bảo đảm phù hợp với tính chất của nền tảng. Đồng thời, có thể xem xét quy định khác nhưng không thấp hơn ngưỡng tối thiểu được ban hành tại quy định này.
+
+Bên cạnh đó, cơ quan chủ quản bổ sung thêm các tiêu chí về tính năng, nghiệp vụ chuyên ngành mà nền tảng quốc gia trong lĩnh vực đó cần đáp ứng. Thêm vào đó, văn bản cũng yêu cầu rõ ràng, bộ tiêu chí do cơ quan chủ quản ban hành dựa trên cơ sở tham khảo ý kiến của Bộ Thông tin và Truyền thông và các bộ, ngành, cơ quan liên quan.
+
+Việc tổ chức đánh giá đáp ứng tiêu chí và cấp giấy chứng nhận, cơ quan chủ quản chủ trì tổ chức đánh giá đáp ứng đối với nền tảng do doanh nghiệp nòng cốt đăng ký. Việc này có thể dựa trên cơ sở thành lập Hội đồng hoặc Nhóm chuyên gia hoặc thuê đơn vị có năng lực để đánh giá.
+
+Khi nền tảng số đã đáp ứng đầy đủ mọi tiêu chí được đề ra, cơ quan chủ quản cấp Giấy chứng nhận công nhận nền tảng số quốc gia, với thời gian công nhận là 01 năm từ ngày Giấy chứng nhận có hiệu lực. Cùng với đó, cơ quan chủ quản phải gửi đề nghị tới Bộ Thông tin và truyền thông để công bố nền tảng số quốc gia.
+
+Hàng năm, cơ quan chủ quản sẽ rà soát, cập nhật tiêu chí và tổ chức đánh giá lại với các nền tảng số quốc gia đã được công bố. Trong trường hợp nền tảng số quốc gia đã được công bố không còn đáp ứng các tiêu chí, cơ quan ra quyết định công bố nền tảng quốc gia sẽ thu hồi quyết định đã công bố.

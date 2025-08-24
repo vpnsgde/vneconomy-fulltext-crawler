@@ -1,0 +1,37 @@
+Quyết định này được đưa ra chỉ vài tuần sau khi chính phủ Trung Quốc chỉ đạo các doanh nghiệp công nghệ trong nước ngừng mua chip H20 vì lo ngại an ninh. Nguồn tin cho biết Nvidia đã đề nghị Amkor Technology (đơn vị phụ trách đóng gói chip), cùng Samsung Electronics (nhà cung cấp bộ nhớ), tạm ngừng hợp tác. Cả hai công ty chưa đưa ra phản hồi.
+
+Reuters cũng dẫn nguồn tin cho hay Nvidia đã yêu cầu Foxconn (Hon Hai) đình chỉ công việc liên quan đến H20. Foxconn hiện chưa lên tiếng.
+
+Trong thông cáo gửi CNBC, đại diện Nvidia cho biết: “Chúng tôi thường xuyên điều chỉnh chuỗi cung ứng để phù hợp với tình hình thị trường.”
+
+Động thái mới càng làm dấy lên nghi ngờ về khả năng chip H20 có thể quay lại thị trường Trung Quốc, dù trước đó Washington khẳng định sẽ xem xét cấp phép xuất khẩu.
+
+TRUNG QUỐC CẤM CÁC ÔNG LỚN DỪNG HẲN MUA H20
+
+Tháng trước, Cơ quan Quản lý Không gian mạng Trung Quốc đã triệu tập Nvidia để chất vấn về rủi ro “cửa hậu” an ninh trên H20. Bắc Kinh lo ngại chip có thể chứa công nghệ theo dõi hoặc bị điều khiển từ xa.
+
+Trong khi đó, tại Mỹ, một nhóm nghị sĩ lưỡng đảng cũng đề xuất Đạo luật Bảo mật Chip, yêu cầu các nhà sản xuất tích hợp cơ chế xác minh và bảo mật trong chip AI.
+
+Phát biểu tại Đài Loan mới đây, CEO Jensen Huang cho biết công ty đã giải trình rõ ràng rằng H20 không có “cửa hậu”: “Chúng tôi hy vọng câu trả lời gửi tới chính phủ Trung Quốc là đủ. Nvidia đang thảo luận thêm với họ và khá bất ngờ trước các yêu cầu lần này”.
+
+Trong tuyên bố cùng ngày, Nvidia khẳng định H20 hoàn toàn có thể sử dụng an toàn cho mục đích thương mại: “H20 không phải sản phẩm quân sự hay dành cho hạ tầng chính phủ. Trung Quốc cũng như Mỹ đều không phụ thuộc chip đối phương cho hoạt động chính phủ. Tuy nhiên, việc cho phép chip Mỹ phục vụ mục đích kinh doanh thương mại sẽ mang lại lợi ích chung”.
+
+Tháng trước, Trung Quốc được cho là đã gửi thông báo đến các tập đoàn công nghệ lớn và các công ty phát triển AI, khuyến nghị không sử dụng chip H20 cho các lĩnh vực nhạy cảm, đặc biệt là trong hoạt động của chính phủ.
+
+Thậm chí, những doanh nghiệp như ByteDance, Alibaba và Tencent dừng hẳn việc đặt hàng H20 cho đến khi hoàn tất đánh giá an ninh quốc gia.
+
+TRUNG QUỐC SẼ KHÔNG CẦN CHIP MỸ TỪ NĂM 2027?
+
+Trước đó, Nvidia từng coi việc chính phủ Mỹ đồng ý cho phép bán H20 sang Trung Quốc là một “thắng lợi lớn”. CEO Jensen Huang đã nhiều lần vận động hành lang để nới lỏng các hạn chế xuất khẩu, vốn ảnh hưởng đáng kể đến doanh thu của hãng tại thị trường này.
+
+Ông Huang cũng đưa ra cảnh báo với các cơ quan quản lý của Mỹ: “AI sẽ phát triển trên toàn thế giới, dù có hay không có Mỹ. Vì vậy, việc đẩy mạnh xuất khẩu công nghệ AI của chúng ta trong giai đoạn này là rất cần thiết. Các mô hình AI, ứng dụng AI và các nhà phát triển AI đều dựa vào nền tảng công nghệ của Mỹ, điều đó cực kỳ quan trọng”.
+
+Do tác động từ lệnh hạn chế, Nvidia đã phải ghi nhận khoản lỗ 4,5 tỷ USD vì lượng hàng tồn kho H20 chưa bán được trong tháng Năm. Công ty ước tính doanh thu quý gần nhất có thể cao hơn thêm 2,5 tỷ USD nếu không gặp trở ngại này.
+
+Theo giới phân tích, việc Trung Quốc đưa H20 vào diện giám sát an ninh quốc gia cho thấy những khó khăn ngày càng lớn của Nvidia giữa bối cảnh căng thẳng thương mại Mỹ – Trung.
+
+Qingyuan Lin, chuyên gia tại Bernstein, nhận định: “Nếu Trung Quốc cấm hoàn toàn H20, Nvidia có thể mất hơn 20 tỷ USD doanh thu mỗi năm tại thị trường này".
+
+Ông dự báo hãng vẫn có thể bán được một số dòng chip kém tiên tiến hơn cho đến năm 2026, nhưng từ 2027 trở đi nhu cầu sẽ giảm mạnh khi nguồn cung nội địa của Trung Quốc được tăng cường.
+
+Nhiều chuyên gia cũng cho rằng động thái cứng rắn của Bắc Kinh càng củng cố quyết tâm tự chủ chip, đồng thời là phản ứng trực diện trước chiến lược của Mỹ nhằm duy trì ưu thế phần cứng AI tại Trung Quốc.

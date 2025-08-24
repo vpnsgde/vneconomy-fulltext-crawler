@@ -1,0 +1,28 @@
+Thời gian vừa qua, một số doanh nghiệp viễn thông lớn của Việt Nam đã tham gia vào các liên minh để đầu tư xây dựng các tuyến cáp biển mới là SJC2 và ADC. Theo đúng tiến độ đã đề ra, dự kiến trong năm nay, 2 tuyến cáp quang biển này sẽ được xây dựng xong, đưa vào vận hành, nâng tổng số tuyến cáp biển các doanh nghiệp Việt Nam khai thác, sử dụng lên 7 tuyến.
+
+Việt Nam hiện đang có 5 tuyến cáp quang biển được khai thác sử dụng là APG, AAG, AAE-1, SMW-3, IA. Tuy nhiên, ở thời điểm hiện tại, ngoài tuyến SMW-3, cả 4/5 tuyến cáp quang biển còn lại đều đang gặp sự cố, ảnh hưởng tới đường truyền kết nối internet Việt Nam đi quốc tế.
+
+
+
+Đại diện nhà mạng Viettel cho biết, là doanh nghiệp có hạ tầng viễn thông lớn nhất và hiện đại nhất Việt Nam, hiện nay, Viettel sở hữu 4 tuyến cáp quang biển và 2 hướng cáp đất liền kết nối quốc tế. Khi cáp quang biển gặp sự cố, Viettel còn 2 tuyến cáp quang biển gồm tuyến AAE-1 hướng đi Singapore và tuyến IA hướng đi Hồng Kông. Trong đó, tuyến cáp IA là tuyến chỉ có duy nhất Viettel khai thác từ trước đến nay.
+
+Để đảm bảo tốc độ tăng trưởng băng thông hàng năm và đảm bảo dự phòng số lượng tuyến cáp quang biển thường xuyên đứt, Viettel đã triển khai thêm 4 tuyến cáp biển từ nay đến 2030 trong đó tuyến ADC đã hoàn thành triển khai cập bờ và dự kiến đưa vào hoạt động năm 2023. Khi vận hành khai thác, tuyến cáp này sẽ góp phần tăng thêm 18Tbps, giúp tăng gấp 3 dung lượng so với hiện tại. Dung lượng kết nối quốc tế của Viettel hiện gần 9Tbps.
+
+ADC là tuyến cáp quang biển có chiều dài cáp ngầm 9.800km, dung lượng đạt trên 140Tbps, sử dụng công nghệ truyền dẫn hiện đại nhất hiện nay, giúp kết nối các quốc gia/vùng lãnh thổ trong khu vực châu Á- Thái Bình Dương với tổng mức đầu tư ban đầu là 290 triệu USD.
+
+Cùng với cáp quang ADC, hệ thống cáp quang biển SJC2 cũng sẽ được đưa vào khai thác sử dụng trong năm 2023. Đây là hệ thống cáp quang biển dài khoảng 10.500 km với dung lượng thiết kế ban đầu là 144Tbps, được xây dựng và vận hành bởi VNPT và các đối tác quốc tế. SJC2 kết nối 9 quốc gia trong khu vực châu Á, có tất cả 11 điểm cập bờ, trạm cập bờ tại Việt Nam đặt tại Quy Nhơn.
+
+Dự kiến khi các tuyến này hoạt động cố định sẽ giải quyết căn bản khả năng dự phòng cho các nhà mạng. Một chuyên gia internet cho rằng, với tình trạng sự cố các tuyến cáp quang biển ngày càng nhiều và càng dày, nhu cầu bổ sung các tuyến cáp mới càng trở nên cấp bách. Trong 5 năm tới, Việt Nam có thể sẽ cần thêm ít nhất 2- 3 tuyến cáp quang biển nữa để đáp ứng nhu cầu.
+
+Theo quy hoạch đến năm 2025, Việt Nam phấn đấu có thêm 2-4 tuyến cáp quang biển mới, đến 2030 phấn đấu thêm 4-6 tuyến cáp quang.
+
+Trước tình trạng cùng lúc 4/5 tuyến cáp quang biển Việt Nam bị đứt, tại cuộc gặp với các doanh nghiệp viễn thông để xử lý sự cố, đảm bảo kết nối của Việt Nam đi quốc tế, Bộ trưởng Bộ trưởng Nguyễn Mạnh Hùng đã giao Cục Viễn thông làm việc với các doanh nghiệp viễn thông để xây dựng quy hoạch tuyến cáp quang biển Việt Nam, đồng thời thúc đẩy nhanh thêm các tuyến cáp quang biển do Việt Nam làm chủ kết nối đi quốc tế. Trong bất kỳ phương án nào (có hoặc không có sự tham gia của đối tác nước ngoài), doanh nghiệp Việt Nam sẽ phải bảo đảm giữ vị trí đứng đầu, đại diện nhóm đầu tư, liên doanh tiến hành xây dựng tuyến mới).
+
+Như vậy, đến năm 2025 sau khi có thêm tuyến cáp quang biển này, Việt Nam sẽ có tối thiểu 10 tuyến cáp quang biển đi quốc tế.
+
+Theo Bộ trưởng, khi các tuyến cáp quang biển kết nối đi Hồng Kông và Singapore gặp nhiều khó khăn lại nhìn thấy cơ hội để Việt Nam trở thành hub kết nối đi quốc tế. Hiện nay với công nghệ và dung lượng tăng mạnh là cơ hội cho Việt Nam mở các tuyến cáp quang biển mới.
+
+Còn Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long cũng nhấn mạnh sự cần thiết triển khai thêm các tuyến cáp quang biển, nhiều hướng kết nối khác nhau do các doanh nghiệp Việt Nam chung tay xây dựng, triển khai các phương án cụ thể để đáp ứng nhu cầu phát triển, đảm bảo kết nối Internet Việt Nam đi quốc tế.
+
+Tại cuộc họp, đại diện các nhà mạng cho biết sẽ cùng với Bộ Thông tin và Truyền thông và các doanh nghiệp viễn thông để xây dưng quy hoạch cáp quang biển cũng như đầu tư xây dựng thêm các quyến cáp quang biển của Việt Nam đi quốc tế.
+

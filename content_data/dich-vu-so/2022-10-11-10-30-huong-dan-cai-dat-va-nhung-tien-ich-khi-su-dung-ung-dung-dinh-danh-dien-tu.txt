@@ -1,0 +1,71 @@
+Để khai thác, phát huy hiệu quả phục vụ nhân dân và công tác quản lý Nhà nước, góp phần phát triển kinh tế - xã hội, hướng dẫn sau đây giúp người dân khai thác, sử dụng các tiện ích này:
+
+Bước l: Tải ứng dụng
+
+Đối với thiết bị sử dụng Android, trên thiết bị di động, người dân mở ứng dụngCH Playvà tìm từ khoá “VNeID”. Sau khi app cần tải hiển thị, chọn “Cài đặt” để tải ứng dụng VNeID về máy.
+
+Đối với thiết bị sử dụng iOS, trên thiết bị di động, người dân mở ứng dụngApp storevà tìm từ khoá “VNeID”. Sau khi app cần tải hiển thị, chọn “Nhận” để tải ứng dụng VNeID về máy.
+
+Bước 2: Mở ứng dụng, đăng ký tài khoản
+
+Tại màn hình đăng ký, người dân nhập số định danh cá nhân và số điện thoại của mình để đăng ký. Sau khi nhập thông tin hợp lệ, ấn “Đăng ký” thì hiển thị giao diện quét mã QR code thẻ Căn cước công dân. Người dân đưa mã QR trên thẻ Căn cước công dân gắn chip vào khung hình.
+
+Trường hợp quét QR code hợp lệ, hệ thống tự động điền các thông tin trong QR code thẻ chip vào mẫu (form) đăng ký tài khoản.
+
+Trường hợp “Không quét được QR code?”, hệ thống chuyển sang giao diện Nhập thông tin đăng ký tài khoản. Người dân nhập thông tin còn trống.
+
+Sau khi ấn nút “Đăng ký”, hệ thống sẽ gửi yêu cầu xác thực thông tin sang Cơ sở dữ liệu Quốc gia về dân cư.
+
+Trường hợp “Đạt”, hệ thống gửi tin nhắn SMS và thực hiện xác thực.
+
+Trường hợp “Không đạt”, hệ thống hiển thị thông báo đề nghị công dân điều chỉnh lại thông tin. Các thao tác tương tự, xác thực OTP, người dân nhập mã OTP được gửi về điện thoại để tiến hành xác thực. Sau khi xác thực thành công, người dân thiết lập mật khẩu để hoàn thành việc đăng ký.
+
+Bước 3: Đăng nhập tài khoản
+
+Tại màn hình đăng nhập, người dân nhập số định danh cá nhân và mật khẩu vừa đăng ký để đăng nhập tài khoản ứng dụng VNeID.
+
+Bước 4: Đăng ký tài khoản mức 1
+
+Sau khi đăng nhập, lựa chọn “Đăng ký tài khoản mức 1”. Tại màn hình hướng dẫn đăng ký tài khoản mức 1, chọn “Bắt đầu” và chọn “Tôi đã hiểu” để bắt đầu thực hiện đăng ký tài khoản mức 1.
+
+Thực hiện quét NFC trên thẻ căn cước công dân gắn chíp (đối với thiết bị không hỗ trợ NFC- Công nghệ kết nối không dây tầm ngắn, thì sẽ thực hiện quét mã QR Code trên thẻ căn cước công dân gắn chip).
+
+Sau khi quét xong NFC (hoặc QR Code), hiển thị thông tin của người dân, chọn “Tiếp tục” để tiếp tục thực hiện chụp ảnh chân dung. Sau khi xem xong video lựa chọn “Bỏ qua” để tiến hành chụp ảnh chân dung và thực hiện chụp ảnh chân dung theo hướng dẫn.
+
+Người dân kiểm tra lại thông tin, nhập địa chỉ email (không bắt buộc) và chọn “Xác nhận thông tin đăng ký” để hoàn tất đăng ký tài khoản mức 1.
+
+Bước 5: Kích hoạt tài khoản
+
+Sau khi công dân đăng ký tài khoản mức l xong, người dân kích hoạt bằng các cách chọn “Kích hoạt tài khoản định danh điện tử” trên màn hình giới thiệu ứng dụng VNeID hoặc chọn “Kích hoạt” tại màn hình Đăng nhập.
+
+Người dân nhập số định danh cá nhân và số điện thoại và ấn “Gửi yêu cầu” thì hệ thống sẽ kiểm tra mức độ tài khoản. Nếu là tài khoản ứng dụng VNEID sẽ hiển thị thông báo “tài khoản của bạn chưa được định danh điện tử”.
+
+Nếu là tài khoản mức l/mức 2 nhưng đã được kích hoạt sẽ hiển thị thông báo “Tài khoản của bạn đã thực hiện kích hoạt”.
+
+Nếu là tài khoản mức l/mức 2 chưa kích hoạt, thì sẽ kiểm tra thiết bị đang dùng để kích hoạt.
+
+Bước 6: Kiểm tra thiết bị đang dùng để kích hoạt
+
+Thiết bị đang dùng để kích hoạt không được gắn với tài khoản mức 1/mức 2 nào sẽ hiển thị thông báo kích hoạt tài khoản. Hoặc thiết bị đang dùng để kích hoạt đang được kích hoạt để sử dụng với một tài khoản mức l/mức 2 khác sẽ hiển thị thông báo kích hoạt tài khoản trên thiết bị khác.
+
+Nhập mã kích hoạt hệ thống gửi về tin nhắn SMS, người dân nhập đúng mã OTP được gửi về số điện thoại đăng ký.
+
+Thiết lập mật khẩu (Bước này chỉ áp dụng cho các trường hợp công dân chưa có tài khoản trước khi được phê duyệt).
+
+Thiết lập mật khẩu (passcode): người dân thiết lập passcode gồm 6 chữ số để sử dụng cho các tiện ích trong ứng dụng.
+
+Thiết lập câu hỏi bảo mật: người dân thiết lập 2 câu hỏi và trả lời bất kỳ trong danh mục câu hỏi bảo mật để thực hiện bảo mật tài khoản.
+
+CÁC TIỆN ÍCH TRÊN VNEID
+
+Ứng dụng VNeID của Bộ Công an là ứng dụng được tích hợp cùng các tiện ích của thẻ Căn cước công dân điện tử; bảo đảm chính xác, tiện lợi và thông tin của công dân được bảo mật.
+
+Người dân sau khi kích hoạt tài khoản định danh điện tử mức 1/mức 2 thành công có thể đăng nhập và sử dụng các chức năng, tiện ích trên ứng dụng VNeID như giải quyết dịch vụ công trực tuyến: thông báo lưu trú, đăng ký thường trú, tạm trú, khai báo tạm vắng… sẽ tự điền thông tin vào các biểu mẫu (form) đăng ký mà không phải khai báo, điền thông tin nhiều lần giúp tiết kiệm được nhiều thời gian, chi phí cho các loại biểu mẫu kê khai, giảm nhiều khâu thủ tục cần giải quyết.
+
+Ngoài ra, các tính năng nổi bật khác như: Ví giấy tờ, thông báo lưu trú, tố giác tội phạm… giúp công dân có thể thay thế Căn cước công dân gắn chíp và các loại giấy tờ đã đăng ký tích hợp hiển thị trên ứng dụng VNEID như: giấy phép lái xe, đăng ký xe, bảo hiểm y tế…
+
+Như vậy, khi người dân giao dịch hành chính sẽ giảm tối đa các giấy tờ phải mang theo, thực hiện các giao dịch tài chính như thanh toán hóa đơn điện, nước, đóng bảo hiểm xã hội và bảo hiểm y tế, chuyển tiền…
+
+
+
+VNeID hỗ trợ trên thiết bị sử dụng hệ điều hành Android 5.0 trở lên và hệ điều hành iOS 9 trở lên. Theo quy định, mỗi tài khoản định danh điện tử chỉ có thể đăng nhập trên một thiết bị duy nhất tại một thời điểm. Do đó, cùng một thời điểm không thể sử dụng tài khoản định danh điện tử trên nhiều thiết bị khác nhau. Ngoài ra, một số điện thoại chỉ được đăng ký định danh điện tử duy nhất cho một cá nhân theo số Căn cước công dân. (Người dân cần đăng ký lại thông tin với nhà mạng viễn thông để cập nhật từ Chứng minh nhân dân sang Căn cước công dân gắn chíp).  Tham khảo thêm tạihttps://vneid.gov.vn/

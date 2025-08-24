@@ -1,0 +1,19 @@
+Theo báo cáo từ công ty môi giới TD Cowen, dữ liệu thu thập từ kênh phân phối cho thấy Microsoft đang dần giảm tốc trong việc xây dựng và mua lại trung tâm dữ liệu. Công ty đã để hơn 1 gigawatt hợp đồng thuê tại các địa điểm lớn hết hạn và rút khỏi nhiều giao dịch có quy mô khoảng 100 megawatt mỗi hợp đồng.
+
+Theo đó, sự thay đổi trong quan hệ đối tác giữa Microsoft và OpenAI có thể là một phần lý do dẫn đến điều này. Tháng 1 vừa qua, OpenAI và SoftBank công bố kế hoạch thành lập liên doanh, cam kết đầu tư ít nhất 100 tỷ USD thậm chí có thể lên tới 500 tỷ USD vào trung tâm dữ liệu và hạ tầng AI.
+
+Cũng trong thời gian này, Microsoft tiết lộ rằng họ đã điều chỉnh thỏa thuận dài hạn với OpenAI, cho phép startup AI này sử dụng dịch vụ đám mây từ các nhà cung cấp khác. Dù không còn giữ vị thế độc quyền, Microsoft vẫn sở hữu quyền ưu tiên nếu OpenAI tìm kiếm sức mạnh tính toán để đào tạo và triển khai các mô hình AI.
+
+Fortune đưa tin báo cáo này dường như đã tác động đến cổ phiếu của các công ty châu Âu trong lĩnh vực năng lượng, với Schneider Electric SE và Siemens Energy AG ghi nhận mức giảm – dấu hiệu cho thấy các tập đoàn công nghệ lớn có thể cần ít năng lượng hơn cho hoạt động trung tâm dữ liệu.
+
+Việc thu hẹp quy mô đầu tư vào trung tâm dữ liệu đặt ra câu hỏi về mức độ thận trọng của Microsoft đối với triển vọng dài hạn của AI. Dù vậy, công ty vẫn dự kiến chi 80 tỷ USD trong năm tài nay để mở rộng hạ tầng AI. Trong cuộc họp thu nhập cuối tháng 1, CEO Satya Nadella nhấn mạnh rằng Microsoft cần tiếp tục đầu tư để đáp ứng “nhu cầu ngày càng tăng”.
+
+“Dù chúng tôi có thể đẩy nhanh chiến lược hoặc điều chỉnh hạ tầng tại một số khu vực, việc mở rộng vẫn tiếp tục trên tất cả thị trường”, một phát ngôn viên Microsoft cho biết. “Kế hoạch đầu tư hơn 80 tỷ USD vào cơ sở hạ tầng trong năm tài chính này vẫn đúng tiến độ, khi chúng tôi tiếp tục tăng trưởng với tốc độ kỷ lục để đáp ứng nhu cầu khách hàng”.
+
+Trong khi đó, nhiều chuyên gia vẫn bày tỏ hoài nghi về tính ứng dụng thực tế của AI, dù Microsoft, Meta và Amazon.com Inc. đã chi hàng tỷ USD vào hạ tầng phục vụ đào tạo, phát triển và vận hành các dịch vụ AI.
+
+Phố Wall cũng ngày càng quan tâm đến chi phí khổng lồ của cuộc đua AI, nhất là sau khi startup DeepSeek của Trung Quốc ra mắt một mô hình AI mã nguồn mở được cho là có thể cạnh tranh với công nghệ Mỹ với chi phí thấp hơn đáng kể.
+
+Các nhà phân tích Michael Elias, Cooper Belanger và Gregory Williams từ TD Cowen nhận định: “Dù chưa có dữ liệu đầy đủ để xác định nguyên nhân chính xác, phản ứng ban đầu của chúng tôi là Microsoft có thể đang rơi vào tình trạng dư cung”.
+
+Mặc dù vậy, các giám đốc điều hành của Microsoft vẫn kiên quyết bác bỏ lo ngại về tình trạng dư thừa năng lực AI, khẳng định công ty đang chi tiêu nhiều hơn bao giờ hết. Phần lớn ngân sách này được đổ vào chip và trung tâm dữ liệu – những chi phí cốt lõi để vận hành các dịch vụ AI tiêu tốn năng lượng.

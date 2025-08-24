@@ -1,0 +1,19 @@
+Google vừa hoàn thành một trong những bản cập nhật thuật toán lớn nhất của mình trong thập kỷ qua với tên gọi "Bản Cập Nhật Cốt Lõi Tháng 3/2024". Đáng chú ý, bản cập nhật này đã ảnh hưởng đáng kể đến hầu hết các website trên toàn thế giới, đặc biệt là các trang web thương mại và dịch vụ.
+
+Google cho biết bản cập nhật lần này sẽ giúp giảm 45% nội dung không nguyên gốc, chất lượng thấp và không hữu ích trong kết quả tìm kiếm. Thuật toán ảnh hưởng tới toàn bộ các tính năng như: Google search, Google Discover, Google News... Các website có nội dung tự viết, không copy cũng bị ảnh hưởng và thậm chí các website có thứ hạng tốt lâu năm cũng bị ảnh hưởng
+
+Đặc biệt các bài viết dài dòng, không tập trung vào chủ đề, viết lan man,…đều bị mất index/mất thứ hạng. Đây là thuật toán ảnh hưởng mạnh nhất trong 10 năm trở lại đây đối với lĩnh vực SEO, thông thường các đợt update chỉ ảnh hưởng nhỏ, chỉ phạt các trang web spam, nhưng lần này ảnh hưởng toàn diện kể cả các trang và cũng chưa có hướng khôi phục lại.
+
+Mục đích của lần cập nhật này một phần đến từ ảnh hưởng của AI khi lượng lớn các website được tạo ra đang tiêu tốn rất nhiều tài nguyên để thu thập dữ liệu. Bởi vậy cần loại bỏ các nội dung không hữu ích, spam để giảm chi phí.
+
+Mỗi năm vài lần, Google sẽ triển khai những thay đổi quan trọng có ảnh hưởng diện rộng đối với các hệ thống và thuật toán tìm kiếm hay còn gọi là các bản cập nhật chính yếu. Các bản cập nhật chính yếu được thiết kế để đảm bảo rằng nhìn chung, Google vẫn thực hiện đúng sứ mệnh cung cấp những kết quả hữu ích và đáng tin cậy cho người tìm kiếm.
+
+Việc một số trang có thể bị giảm hiệu suất sau mỗi lần ra mắt bản cập nhật chính yếu là điều bình thường. Những trang không vi phạm các chính sách về nội dung rác và cũng không bị áp dụng hình phạt thủ công hay hình phạt theo thuật toán cũng có thể bị ảnh hưởng như những trang thực sự vi phạm những chính sách này.
+
+Trên thực tế, các bản cập nhật chính yếu không nhắm vào trang hay trang web nào cụ thể. Thay vào đó, những thay đổi này chỉ nhằm mục đích cải thiện tổng thể cách hệ thống đánh giá nội dung. Những thay đổi này có thể cải thiện hiệu suất của một số trang mà trước đây được xếp hạng chưa tương xứng trong kết quả tìm kiếm.
+
+Theo giải thích từ phía Google, để hình dung rõ hơn về cách hoạt động của một bản cập nhật chính yếu, hãy tưởng tượng bạn lập ra danh sách 100 bộ phim hay nhất năm 2021. Sau đó, vào năm 2024, bạn cập nhật danh sách này.
+
+Tất nhiên là danh sách này sẽ có sự thay đổi. Một số bộ phim mới rất hấp dẫn nhưng chưa từng xuất hiện cho đến lúc đó thì nay có thể là ứng cử viên cho danh sách này. Cũng có thể bạn đánh giá lại một số bộ phim và nhận thấy những bộ phim đó xứng đáng ở vị trí cao hơn trong danh sách so với trước đây.
+
+Danh sách sẽ thay đổi và nếu có những bộ phim bị tụt hạng thì không phải là do những bộ phim đó không hay. Đơn giản là có những bộ phim khác xứng đáng đạt được thứ hạng cao hơn.

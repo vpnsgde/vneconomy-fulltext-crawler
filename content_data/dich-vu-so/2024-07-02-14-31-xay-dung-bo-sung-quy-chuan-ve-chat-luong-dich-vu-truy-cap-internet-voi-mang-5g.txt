@@ -1,0 +1,43 @@
+Bộ Thông tin và Truyền thông đang lấy ý kiến góp ý hoàn thiện Dự thảo Thông tư ban hành Bổ sung 1:2024 QCVN 126:2021/BTTTT “Quy chuẩn kỹ thuật quốc gia về chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động mặt đất 5G”.
+
+Theo Vụ Khoa học và Công nghệ, Thông tư số 07/2021/TT-BTTTT ngày 31/8/2021 của Bộ trưởng Bộ Thông tin và Truyền thông Ban hành “Quy chuẩn kỹ thuật quốc gia về chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động mặt đất 5G” (QCVN 126:2021/BTTTT), trong đó đã quy định các chỉ tiêu chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động 5G.
+
+Tại mục 2.1.5.2 của QCVN 126:2021/BTTTT quy  định chỉ tiêu Tốc độ tải xuống trung bình ≥ 100 Mbit/s, Tốc độ tải lên trung bình ≥ 30 Mbit/s và Tỷ lệ (%) mẫu có tốc độ tải xuống lớn hơn hoặc bằng 30 Mbit/s ≥ 95%.
+
+Để định hướng cho các nhà mạng nâng cao chất lượng dịch vụ cung cấp cho khách hàng và phù hợp với điều kiện thực tế phát triển mạng 5G tại Việt Nam, cần phải quy định bổ sung chỉ tiêu Tỷ lệ (%) mẫu có tốc độ tải xuống.
+
+Vụ Khoa học và Công nghệ cho biết khảo sát quy định tốc độ tải xuống tại Trung Quốc cho thấy, theo Thông báo của Bộ Công nghiệp và Công nghệ thông tin và các Cục khác về việc thực hiện hành động đặc biệt “Nâng cấp tín hiệu”, để đạt được mục tiêu tổng thể nâng cao tín hiệu mạng di động (4G và 5G), cải thiện rõ rệt trải nghiệm dịch vụ đầu cuối của người dùng Trung Quốc đã đưa ra chỉ tiêu tốc độ sau 6 năm triển khai mạng di động mặt đất 5G (từ năm 2018).
+
+Cụ thể, đến cuối năm 2024, tốc độ truy cập trung bình của mạng di động đạt trên 200 Mbps đường xuống và trên 40 Mbps đường lên. Tỷ lệ mạng di động đạt chuẩn tốc độ không dưới 90%. Đến cuối năm 2025, tốc độ truy cập trung bình của mạng di động đạt trên 220 Mbps đường xuống và trên 45 Mbps đường lên. Tỷ lệ mạng di động đạt chuẩn tốc độ không dưới 95%.
+
+Còn tại Nhật Bản không có quy định cụ thể tốc độ tải xuống tối thiểu đối với dịch vụ truy nhập Internet 5G. Trên thực tế, tốc độ truy nhập Internet có phạm vi dao động lớn (ví dụ từ dưới 1 MB/s đến vài 10 MB/s) tuy thuộc vào loại dịch vụ và khu vực cung cấp (chi phí cao được cho tốc độ cao, chi phí phù hợp hoặc khu vực đông dân được cho tốc độ thấp).
+
+Tại Hàn Quốc cũng không có quy định cụ thể tốc độ tải xuống tối thiểu đối với dịch vụ truy nhập Internet 5G. Nhằm thúc đẩy tính cạnh tranh giữa các nhà mạng, Hàn Quốc công bố và xếp hạng tốc độ tải xuống từ cao đến thấp của các nhà mạng dựa theo kết quả đo do chính cơ quan quản lý thực hiện.
+
+Trong khi đó, ở Indonesia, Malaysia, quy định cụ thể về tốc độ tải xuống tối thiểu cho các dịch vụ truy nhập Internet 5G. Tại Indonesia, tốc độ tải xuống tối thiểu dự kiến ít nhất là 100 Mbps, 85% số lần kiểm tra (cả ở thành thị và nông thôn).
+
+Indonesia hiện không có yêu cầu nào về tốc độ tải xuống trung bình cho các nhà mạng 4G và 5G. Bộ Truyền thông và Công nghệ Thông tin (Kominfo) theo dõi và công bố tốc độ tải xuống trung bình trên cả nước dựa theo kết quả đo do chính Bộ Truyền thông và Công nghệ Thông tin thực hiện.
+
+Theo Vụ Khoa học và Công nghệ, khi nói tốc độ tải xuống “trung bình” của các nhà mạng ở Indonesia, cần phân biệt giữa tốc độ mạng bắt buộc theo pháp luật và tốc độ trung bình ghi nhận được. Tính đến tháng 10/2023, Kominfo ghi nhận tốc độ trung bình của mạng 5G trên cả nước là 64.3 Mbps.
+
+Tốc độ tải xuống tối thiểu ở Malaysia 100 Mbps, 90% số lần kiểm tra (cả trong nhà và ngoài trời). Malaysia hiện không đặt ra yêu cầu về tốc độ tải xuống trung bình cho các nhà cung cấp dịch vụ 5G. Ủy ban Truyền thông và Đa phương tiện (MCMC) theo dõi và công bố tốc độ tải xuống trung bình trên cả nước dựa theo kết quả đo do chính MCMC thực hiện. Tính đến tháng 9/2023, MCMC ghi nhận được tốc độ trung bình của dịch vụ 5G (tổng hợp cả trong nhà và ngoài trời) là 485.25 Mbps.
+
+Bên cạnh đó, Philippines và Singapore, Thái Lan cũng có quy định cụ thể về tốc độ tải xuống tối thiểu đối với các dịch vụ truy nhập mạng Internet 5G.
+
+Tốc độ tải xuống tối thiểu dự kiến là 500 Mbps trong môi trường ngoài trời và 50 Mbps trong nhà. Philippines không đặt ra yêu cầu về tốc độ tải xuống trung bình đối với nhà mạng 5G. Ủy ban Viễn thông quốc gia NTC có theo dõi và công bố tốc độ tải xuống trung bình trên cả nước dựa theo kết quả đo do chính NTC thực hiện. Tính đến tháng 10/2023, NTC chưa ghi nhận tốc độ trung bình của 5G vì chưa được phổ biến rộng rãi.
+
+Tại Singapore, tốc độ tải xuống tối thiểu là 500 Mbps (85% số lần kiểm tra). Singapore không đặt ra yêu cầu về tốc độ tải xuống trung bình cho các nhà cung cấp dịch vụ mạng 5G. Cơ quan Phát triển Truyền thông Infocomm (IMDA) có theo dõi và công bố tốc độ tải xuống trung bình trên cả nước dựa theo kết quả đo do chính IMDA thực hiện.  Tính đến tháng 10/2023, IMDA ghi nhận tốc độ trung bình cho dịch vụ 5G là 520 Mbps.
+
+Thái Lan cũng có quy định cụ thể về tốc độ tải xuống tối thiểu đối với dịch vụ truy nhập mạng 5G. Theo đó, tốc độ tải xuống tối thiểu là 100 Mbps, 90% số lần kiểm tra (cả trong nhà và ngoài trời)
+
+Thái Lan hiện không đặt ra yêu cầu về tốc độ tải xuống trung bình cho các nhà cung cấp dịch vụ mạng Internet 5G. Cơ quan NBTC có theo dõi và công bố tốc độ tải xuống trung bình dựa trên kết quả đo do chính NBTC thực hiện. Tính đến tháng 9/2023, NBTC ghi nhận tốc độ trung bình của mạng 5G (tổng hợp trong nhà và ngoài trời) 485.25 Mbps.
+
+Do đó, Vụ Khoa học và Công nghệ cho rằng việc ban hành Thông tư Bổ sung Quy chuẩn kỹ thuật quốc gia về chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động mặt đất 5G là cần thiết nhằm nâng cao chất lượng mạng 5G của nhà mạng cung cấp cho người dân.
+
+Các chuyên gia cho rằng với khả năng kết nối vượt trội cùng tốc độ truyền tải nhanh chóng, 5G không chỉ hỗ trợ các ngành công nghiệp truyền thống nâng cao hiệu quả mà còn phát triển kinh tế số, mở ra nhiều tiềm năng cho doanh nghiệp và cộng đồng, đẩy nhanh thực hiện mục tiêu chuyển đổi số, tăng năng suất trong các lĩnh vực.
+
+Theo Qualcomm, 5G sẽ tạo ra giá trị kinh tế khoảng 13.100 tỷ USD và tạo ra 22,8 triệu việc làm mới trên toàn cầu vào năm 2035, ảnh hưởng đến nhiều ngành nghề từ sản xuất, y tế đến giáo dục...
+
+Riêng tại khu vực châu Á- Thái Bình Dương, 5G dự kiến tạo giá trị kinh tế khoảng 113 tỷ USD vào năm 2030. Theo nghiên cứu của Viện Chiến lược thông tin và truyền thông, đến năm 2025, 5G đóng góp vào sự tăng trưởng GDP Việt Nam khoảng 7,34%.
+
+Năm 2024 được Bộ Thông tin và Truyền thông xác định sẽ là năm thương mại hóa 5G trên phạm vi toàn quốc. Đến nay, Bộ Thông tin và Truyền thông đã cấp giấy phép tần số triển khai mạng 5G cho hai nhà mạng là Viettel và VNPT.

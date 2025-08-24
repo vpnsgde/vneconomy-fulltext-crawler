@@ -1,0 +1,31 @@
+Những gã khổng lồ công nghệ đang đầu tư mạnh tay vào trí tuệ nhân tạo (AI) khi chi hàng tỷ USD để đầu tư, chiêu mộ và "nuốt chửng" các công ty nhỏ hơn trong lĩnh vực công nghệ mới của thế giới.
+
+Amazon đã rót 4 tỷ USD vào công ty khởi nghiệp AI Anthropic để sử dụng công nghệ của mình.
+
+Apple đã mua lại công ty khởi nghiệp DarwinAI của Canada vào đầu năm nay, bổ sung vào danh sách dài các thương vụ mua lại AI thầm lặng của công ty. Microsoft đã thực hiện một thỏa thuận để “thuê” công ty khởi nghiệp Inflection, trả phí cấp phép 650 triệu USD để thuê giám đốc điều hành Mustafa Suleyman và thuê hầu hết nhân viên của công ty.
+
+Những công ty này cùng với một số ông lớn khác đang thống trị không gian AI: Nvidia dẫn đầu thị trường chip dành cho các trung tâm dữ liệu hỗ trợ phần mềm AI và OpenAI dẫn đầu không gian chatbot AI.
+
+Theo The New York Times, Bộ Tư pháp Mỹ (DOJ) và Ủy ban Thương mại Liên bang Mỹ (FTC) được cho là đã đạt được thỏa thuận điều tra Microsoft, Nvidia và Open AI về hành vi phản cạnh tranh trong không gian AI. FTC đang thăm dò riêng Microsoft về thỏa thuận với công ty Inflection của mình.
+
+Barry Barnett, luật sư chống độc quyền tại Susman Godfrey bày tỏ quan điểm: “Tôi thực sự cảm thấy cần phải tiến hành một cuộc điều tra về vấn đề này. Mối lo ngại mà Cục Chống độc quyền và Cục Cạnh tranh FTC đặt ra rằng sẽ có những hoạt động phi cạnh tranh bởi những thực thể có nguồn tài nguyên to lớn này – họ muốn ngăn chặn điều đó”.
+
+Nvidia và OpenAI từ chối bình luận trước thông tin này trong khi Microsoft cho biết rằng họ rất coi trọng các nghĩa vụ pháp lý của mình và tin tưởng rằng họ đã tuân thủ các nghĩa vụ đó.
+
+Các công ty công nghệ hiện đang chịu sự giám sát chặt chẽ từ các cơ quan quản lý chống độc quyền của Mỹ. DOJ vào tháng 3 đã đệ đơn kiện chống độc quyền đối với Apple vì bị cáo buộc độc quyền trên thị trường điện thoại thông minh.
+
+DOJ và Google đã đưa ra lập luận cuối cùng của họ trong phiên tòa chống độc quyền trong tháng này sau vụ kiện kéo dài 4 năm cáo buộc Google nắm giữ độc quyền trên thị trường công cụ tìm kiếm. Google có một vụ kiện khác đang chờ xử lý từ DOJ về các hành vi bị cáo buộc phản cạnh tranh ở một thị trường khác: quảng cáo kỹ thuật số. Chưa kể các vụ kiện của FTC chống lại Amazon và Facebook tập trung vào sự thống trị của họ trong lĩnh vực bán lẻ trực tuyến và mạng xã hội cá nhân.
+
+Dirk Auer, Giám đốc chính sách cạnh tranh tại Trung tâm Luật và Kinh tế Quốc tế, cho biết các cơ quan quản lý chống độc quyền có thể đang thực hiện hành động “phủ đầu” trong không gian AI bởi họ hối hận vì đã chậm trễ trong cuộc chơi điều chỉnh những gã khổng lồ internet. Nếu họ trấn áp các công ty internet Big Tech như Google và Amazon sớm hơn, thì ngày nay có thể sẽ có nhiều cạnh tranh hơn trong lĩnh vực tìm kiếm, bán lẻ trực tuyến và điện thoại thông minh.
+
+Việc FTC và DOJ thăm dò Microsoft, OpenAI và Nvidia có thể dẫn đến các vụ kiện chống lại những gã khổng lồ AI. Trong khi các cơ quan quản lý đang chỉ trích Nvidia, Microsoft và OpenAI về các hành vi phản cạnh tranh trong cùng một thị trường (AI), bản thân các công ty này rất khác biệt: Nvidia là nhà cung cấp phần cứng, Microsoft là công ty công nghệ, và OpenAI là một công ty khởi nghiệp. Vì sự khác biệt của họ, việc các cơ quan quản lý theo đuổi các vụ kiện chống lại công ty (nếu có) theo những cách khác nhau.
+
+Auer cho biết vụ kiện chống lại Nvidia có thể sẽ tập trung vào các hoạt động kinh doanh nội bộ của họ như kết hợp các chip AI của họ với các dịch vụ và giảm giá cho khách hàng. Các vụ kiện chống lại Microsoft và OpenAI sẽ tập trung vào việc các thỏa thuận của họ với các công ty khác đã củng cố ngành công nghiệp AI như thế nào.
+
+Auer cho rằng trường hợp của các cơ quan quản lý chống lại OpenAI sẽ tương đối yếu. Mặc dù OpenAI không trả lời yêu cầu bình luận, nhưng Auer tin rằng công ty sẽ lập luận rằng trong khi đang cạnh tranh gay gắt với các đối thủ, thị trường AI còn quá mới nổi để một người chơi có thể nắm giữ độc quyền.
+
+Các chuyên gia cho biết Nvidia, Microsoft và OpenAI sẽ phải dành nguồn lực đáng kể cho việc tuân thủ sự quản lý thay vì tạo ra các sản phẩm AI mới nhất và tốt nhất. Điều đó có thể mang lại lợi ích cho thị trường AI bằng cách cho phép các đối thủ bắt kịp vị trí thống lĩnh thị trường của họ. Nhưng chính những đối thủ cạnh tranh đó cũng có thể hứng chịu sức nóng từ các cơ quan quản lý, do Chính phủ ngày càng giám sát chặt chẽ công nghệ và AI - điều này sẽ cản trở sự đổi mới.
+
+Sự giám sát theo quy định đặc biệt có tác động đến các công ty khởi nghiệp AI không có dòng tiền như OpenAI, có khả năng yêu cầu họ phải thuê các nhóm tuân thủ thay vì dành nguồn lực để phát triển các sản phẩm kiếm tiền một cách nhanh chóng.
+
+Barnett cho biết người tiêu dùng nên biết cuộc điều tra là một điều tốt đối với họ và có thể giúp đảm bảo rằng các công ty AI có ít nguồn lực hơn có thể cạnh tranh, đổi mới và cung cấp cho người tiêu dùng sự lựa chọn giữa các công cụ AI khác nhau. Điều đó sẽ mang lại cho họ nhiều lựa chọn hơn về các công cụ AI và giảm chi phí chung.

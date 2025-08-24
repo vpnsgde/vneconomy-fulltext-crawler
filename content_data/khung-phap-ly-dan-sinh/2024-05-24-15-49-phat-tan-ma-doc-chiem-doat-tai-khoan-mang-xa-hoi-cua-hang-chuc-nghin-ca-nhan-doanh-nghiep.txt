@@ -1,0 +1,31 @@
+Ngày 24/5, theo Trang thông tin điện tử Công an TP Đà Nẵng, Cơ quan An ninh điều tra, Công an thành phố Đà Nẵng vừa tống đạt quyết định khởi tố vụ án hình sự “Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác” do đối tượng Lê Nguyễn H.N (28 tuổi, trú phường Hòa Hải, quận Ngũ Hành Sơn, thành phố Đà Nẵng) cùng đồng bọn thực hiện.
+
+Trước đó, qua công tác trinh sát, nắm tình hình trên không gian mạng, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (gọi tắt là Phòng An ninh mạng), Công an thành phố Đà Nẵng phát hiện một nhóm đối tượng có hành vi phát tán các tập tin có chứa mã độc nhằm chiếm đoạt tài khoản mạng xã hội Facebook của người khác.
+
+Tiến hành phối hợp với Cục An toàn thông tin và truyền thông (Bộ Thông tin và truyền thông), cơ quan Công an xác định các tập tin trên có chứa các tập tin mã độc nên đã tiến hành theo dõi, giám sát hoạt động của nhóm đối tượng.
+
+Sau thời gian thu thập thông tin, tài liệu, mới đây, Phòng An ninh mạng phối hợp với Công an phường Hòa Hải, quận Ngũ Hành Sơn bất ngờ kiểm tra căn nhà tại Khu đô thị FPT, phường Hòa Hải; qua đó phát hiện Lê Nguyễn H.N. cùng với L.N.H.N, V.T.Đ, N.V.H.L.V, T.N.T.H, Đ.V.V (cùng 21 tuổi); M.N.C (19 tuổi), P.Q.N.H (18 tuổi), cùng trú tại quận Ngũ Hành Sơn và H.N.Q.V (25 tuổi, trú quận Hải Châu, thành phố Đà Nẵng) đang thực hiện hành vi “Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác”.
+
+Qua đấu tranh, xác định Lê Nguyễn H.N. thuê căn nhà, sau đó mua sắm hàng chục thiết bị máy tính cấu hình cao và tuyển thêm 08 đối tượng cùng làm việc.
+
+N. chỉ đạo các đối tượng sử dụng các tài khoản mạng xã hội LinkedIn (đã thu thập sẵn) để đăng bài viết quảng cáo sản phẩm, tuyển dụng, kêu gọi đầu tư.
+
+Khi có người dùng Linkedin khác bình luận vào bài viết thì các đối tượng sẽ nhắn tin theo kịch bản có sẵn, gửi tập tin có chứa các đường dẫn tự động tải mã độc nhằm dẫn dụ người này bấm vào để xem nội dung.
+
+Nếu người dùng mở tập tin thì mã độc sẽ tự động thu thập dữ liệu trong thiết bị điện tử của người dùng như địa chỉ IP, cookie, tài khoản, mật khẩu...
+
+Các đối tượng sử dụng các dữ liệu trên để chiếm quyền sử dụng tài khoản Business Manager trên Facebook của nạn nhân rồi sử dụng vào các hoạt động vi phạm pháp luật nhằm thu lợi bất chính.
+
+Từ tháng 5/2023 đến khi bị cơ quan Công an phát hiện, đối tượng Lê Nguyễn H.N cùng đồng bọn đã phát tán các tập tin đến hàng chục ngàn người dùng mạng xã hội Linkedin và chiếm quyền sử dụng tài khoản Business Manager trên Facebook có giá trị cao của cá nhân, doanh nghiệp trong nước và các quốc gia trên thế giới.
+
+Hiện Công an thành phố Đà Nẵng đang tiếp tục phối hợp với các đơn vị nghiệp vụ của Bộ Công an điều tra, mở rộng vụ án, xử lý nghiêm các đối tượng theo quy định của pháp luật.
+
+Qua vụ việc này, Phòng An ninh mạng, Công an thành phố Đà Nẵng khuyến cáo người dân cần nâng cao cảnh giác trước những thủ đoạn ngày càng tinh vi của tội phạm công nghệ cao.
+
+Theo đó, hạn chế chia sẻ các thông tin, dữ liệu cá nhân như hình ảnh căn cước công dân, số điện thoại, số tài khoản thanh toán... trên môi trường mạng để tránh bị các đối tượng lợi dụng thực hiện hành vi vi phạm pháp luật; không mở file nén khi chưa xác nhận chính xác người gửi.
+
+Không nhấn vào các liên kết gửi qua tin nhắn trên mạng xã hội hoặc email không rõ nguồn gốc...
+
+Đồng thời không cài đặt các ứng dụng không rõ nguồn gốc hoặc tải các tập tin từ đường link lạ về thiết bị.
+
+Trường hợp phát hiện bị xâm nhập trái phép vào tài khoản mạng xã hội, báo cáo ngay cơ quan Công an nơi gần nhất để xử lý theo quy định pháp luật.

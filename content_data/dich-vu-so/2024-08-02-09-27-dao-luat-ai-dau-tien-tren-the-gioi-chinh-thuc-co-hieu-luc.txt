@@ -1,0 +1,23 @@
+Đạo luật AI được Ủy ban Châu Âu đề xuất lần đầu tiên vào năm 2020 nhằm đặt ra một khuôn khổ quản lý đối với AI trên toàn EU, tuy nhiên ngay cả các công ty không phải công nghệ cũng sẽ chịu ảnh hưởng từ quy định mới.
+
+Tanguy Van Overstraeten, Giám đốc công nghệ của công ty luật Linklaters tại Brussels, trao đổi với CNBC: “Đạo luật AI của EU sẽ tác động đến nhiều doanh nghiệp, đặc biệt là những doanh nghiệp đang phát triển hệ thống AI nhưng cũng có thể tác động đến những doanh nghiệp đang triển khai hoặc chỉ sử dụng chúng trong một số trường hợp nhất định".
+
+Trong Đạo luật AI, các ứng dụng công nghệ AI khác nhau sẽ được quản lý khác nhau tùy thuộc vào mức độ rủi ro của công nghệ đối với xã hội, luật cũng áp đặt lệnh cấm toàn diện đối với bất kỳ ứng dụng AI nào được coi là "không thể chấp nhận" về mức độ rủi ro của chúng. Về mặt này, các công ty công nghệ lớn chắc chắn sẽ nằm trong số những cái tên bị nhắm đến nhiều nhất.
+
+"Đạo luật AI có những tác động vượt xa EU. Đạo luật này áp dụng cho bất kỳ tổ chức nào hoạt động hoặc tác động tại EU, điều đó có nghĩa là Đạo luật AI có khả năng sẽ áp dụng bất kể bạn công ty đó ở đâu", Charlie Thompson, Phó chủ tịch cấp cao của EMEA và LATAM cho biết.
+
+Eric Loeb, Phó chủ tịch điều hành phụ trách các vấn đề chính phủ tại công ty công nghệ Salesforce, nói với CNBC rằng các chính phủ khác nên cân nhắc tham khảo Đạo luật AI của EU khi xây dựng khung chính sách riêng: "Khung pháp lý của châu Âu khuyến khích đổi mới đồng thời ưu tiên phát triển và triển khai công nghệ một cách an toàn".
+
+Theo quy định của Đạo luật AI, AI tạo sinh sẽ được dán nhãn phân cấp. Đối với các mô hình AI chung bao gồm GPT của OpenAI, Gemini của Google và Claude của Anthropic, Đạo luật AI áp đặt các yêu cầu nghiêm ngặt như tôn trọng luật bản quyền của EU, đào tạo và thực hiện thử nghiệm thường xuyên và bảo vệ an ninh mạng đầy đủ cho các mô hình.
+
+Tuy nhiên, quy định mới của EU có thể sẽ gây khó khăn cho hoạt động của các mô hình nguồn mở. Các nhà phát triển AI cho biết EU cần đảm bảo các mô hình nguồn mở vẫn có thể được sử dụng để xây dựng các ứng dụng AI tùy chỉnh và không bị quản lý quá chặt chẽ.
+
+Để được cấp phép hoạt động, EU yêu cầu các nhà cung cấp nguồn mở phải công khai các tham số của họ, bao gồm trọng số, kiến ​​trúc mô hình và cách sử dụng mô hình, và cho phép EU "truy cập, sử dụng, sửa đổi và phân phối mô hình".
+
+Các công ty vi phạm Đạo luật AI của EU có thể bị phạt từ 35 triệu euro (41 triệu USD) hoặc 7% doanh thu toàn cầu hàng năm của họ. Mức phạt sẽ tùy thuộc vào hành vi vi phạm và quy mô của công ty bị phạt. Mức phạt này cao hơn so với GDPR, luật bảo mật kỹ thuật số nghiêm ngặt của châu Âu – các công ty phải đối mặt với mức phạt lên tới 20 triệu euro hoặc 4% doanh thu toàn cầu hàng năm vì vi phạm GDPR.
+
+Jamil Jiva, Giám đốc quản lý tài sản toàn cầu tại công ty công nghệ tài chính Linedata, nói với CNBC rằng EU "Họ phải phạt nặng tay các công ty vi phạm nếu muốn các quy định có tác động".
+
+Tương tự như cách GDPR chứng minh cách EU có thể "uốn nắn ảnh hưởng quản lý để bắt buộc các công ty tuân thủ quyền riêng tư dữ liệu" trên toàn cầu, Đạo luật AI được dự đoán tiếp tục gây ảnh hưởng đến toàn cầu. Tuy nhiên, mặc dù Đạo luật AI cuối cùng đã có hiệu lực, một số điều khoản sẽ chưa được thi hành ít nhất cho đến năm 2026.
+
+Các hạn chế đối với các hệ thống mô hình chung sẽ bắt đầu được giám ít nhất sau 12 tháng nữa. Các hệ thống AI tạo sinh như ChatGPT của OpenAI và Gemini của Google có 36 tháng để hoàn thiện hệ thống tuân thủ quy định.

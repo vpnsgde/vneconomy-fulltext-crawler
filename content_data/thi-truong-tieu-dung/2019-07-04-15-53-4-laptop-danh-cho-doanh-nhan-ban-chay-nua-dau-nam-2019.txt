@@ -1,0 +1,25 @@
+Dù mỏng nhẹ nhưng laptop doanh nhân cần có cấu hình mạnh để đáp ứng nhu cầu làm việc: bộ xử lý Intel core i thuộc dòng U tiết kiệm điện, bộ nhớ RAM DDRL có tốc độ truy xuất nhanh, tích hợp mạng di động tốc độ cao LTE và khe SIM, bảo mật vân tay...Với laptop doanh nhân, có rất nhiều lựa chọn từ dòng sản phẩm ZenBook của Asus; dòng Elitebook, Envy, Spectre của HP; Latitude và XPS của Dell; Yoga của Lenovo hoặc Gram của LG với trọng lượng khoảng 900g.
+
+Dell Latitude 5300
+
+Dell Latitude 5300 được trang bị cấu hình mạnh với bộ vi xử lý Intel thế hệ thứ 8 mới nhất i7 4-Core vPro, hỗ trợ RAM tối đa 32GB và ổ cứng PCIe NVMe lên đến 1TB, đủ đáp ứng nhu cầu lưu trữ dữ liệu lớn của các doanh nhân. Sản phẩm có màn hình 13.3 inch nhỏ gọn, độ phân giải Full-HD và là màn hình cảm ứng. Laptop này có chế độ lật xoay linh hoạt, tiện dụng với người dùng.
+
+Thiết kế nhỏ gọn nhưng Latitude 5300 có thời lượng pin dài lên đến 60Wh và hỗ trợ sạc nhanh ExpressCharge cho phép sạc đầy 80% chỉ trong một giờ. Ngoài ra, sản phẩm còn trang bị tính năng đăng nhập một chạm hoặc xác thực qua camera IR tùy chọn   Windows Hello giúp tối ưu bảo mật thông tin cá nhân của người dùng.
+
+ThinkPad X1 Carbon
+
+ThinkPad từ trước đến nay vốn đã là thương hiệu laptop số 1 cho doanh nhân, dân lập trình và các nhà đồ họa ký thuật chuyên nghiệp. X1 Carbon có vẻ ngoài cứng cáp, chuyên nghiệp. Khả năng giữ xung khi hoạt động là rất tốt, khi làm việc nặng thì nhiệt độ cùng xung CPU vẫn luôn giữ ở mức ổn định để giúp cho các tác vụ diễn ra một cách trơn tru và mượt mà. Thời lượng pin đủ cho một ngày làm việc. Ổ cứng tinh thể rắn SSD luôn có tốc độ tối đa khiến các ứng dụng được khởi động trong thời gian tối ưu nhất.
+
+ThinkPad X1 Carbon còn có một khả năng kết nối tuyệt vời. Kết hợp một cặp cổng Thunderbolt 3 cực kỳ hiện đại với bộ đôi cổng USB-A cổ điển, bạn có thể kết nối thoải mái với các thiết bị ngoại vi khác. Ngoài ra, còn có cổng HDMI cho màn hình ngoài, đầu đọc thẻ nhớ microSD, jack cắm tai nghe và tùy chọn thêm kết nối Ethernet nữa.
+
+HP Spectre X360 13
+
+HP Spectre X360 13 sở hữu vi xử lý Intel Core i7-8565U hoặc i5-8265U, RAM 8 GB, SSD 256 GB. Màn hình máy sử dụng là loại cảm ứng 13,3 inch với độ phân giải Full HD và có viền mỏng hơn các mẫu tiền nhiệm. Dù vậy, phần viền trên và dưới vẫn còn tạo cảm giác khá dày so với các đối thủ cùng phân khúc như Dell XPS hay Macbook Pro.
+
+So với thế hệ cũ, mẫu laptop cao cấp HP Spectre x360 13 2019 đổi mới phong cách thiết kế. Không còn vuông vức, hãng đã cắt gọt lại bộ khung, tạo nên những đường nét góc cạnh. Hãng đã trang bị cho model này khá đầy đủ các cổng kết nối như USB Type-C, giắc 3,5 mm và khe đọc thẻ microSD. Điểm đặc biệt trên thiết bị là nút tắt camera, tăng tính bảo mật cho người dùng. HP Spectre x360 13 là mẫu laptop phục vụ tốt cho công việc văn phòng cũng như người hay di chuyển.
+
+Lenovo Yoga C930
+
+Yoga C930 là một chiếc laptop 2 trong 1, vì vậy màn hình của nó có thể xoay 360 độ và gập lại như một chiếc máy tính bảng. Chế độ tablet là cách tận dụng hết những tính năng mới của C930. Khá giống S-Pen trên Glaxy Note, chiếc bút cảm ứng nằm bên trong phần bản lề của máy, nhỏ gọn và nhiều chức năng hữu ích.
+
+Trang bị cổng kết nối trên Yoga C930 không khác so với thế hệ trước với 1 cổng USB-A (USB 3.1 Gen1) hỗ trợ tính năng Sleep-n-charge, 2 cổng USB-C (Thunderbolt 3, USB 3.1 Gen2, DisplayPort) và jack âm thanh 2 trong 1 tất cả đều nằm tại cạnh trái, cạnh phải chỉ có nút nguồn. Yoga C930 được trang bị cấu hình mới với các tuỳ chọn CPU Core i5-8250U hoặc Core i7-8550U, bộ nhớ RAM tối đa 16 GB, ổ SSD PCIe NVMe tốc độ cao và thời lượng pin có thể lên đến 14 tiếng.

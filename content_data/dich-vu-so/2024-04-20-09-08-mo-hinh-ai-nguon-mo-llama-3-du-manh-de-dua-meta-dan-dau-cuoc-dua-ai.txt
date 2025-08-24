@@ -1,0 +1,29 @@
+Hai mô hình mới – Llama 3 8B chứa 8 tỷ tham số và Llama 3 70B chứa 70 tỷ tham số, là “bước nhảy vọt lớn” về mô hình ngôn ngữ lớn của Meta. Mô hình Llama 3 còn lại với kích thước hơn 400 tỷ tham số vẫn đang được gã khổng lồ đào tạo. Mô hình này được tiết lộ có khả năng “giao tiếp bằng nhiều ngôn ngữ”, thu thập nhiều dữ liệu hơn và hiểu nhiều phương thức khác bên cạnh văn bản...
+
+Meta viết trong một bài đăng trên blog: “Mục tiêu của chúng tôi trong tương lai gần là làm cho Llama 3 trở nên đa ngôn ngữ và đa phương thức, có khả năng hiểu ngữ cảnh dài hơn và tiếp tục cải thiện hiệu suất tổng thể trên các mô hình ngôn ngữ lớn cốt lõi như lý luận và mã hóa”.
+
+Theo công bố của Meta, Llama 3 8B vượt trội hơn các mô hình mở khác như Mistral 7B của Mistral và Gemma 7B của Google, trên ít nhất chín tiêu chuẩn AI: MMLU (lượng kiến thức), ARC (khả năng tiếp thu), DROP (khả năng lý luận), GPQA (kiến thức vật lý và hóa học), HumanEval (bài kiểm tra tạo mã), GSM-8K (bài toán đố), MATH (một chuẩn mực toán học khác), AGIEval (bộ bài kiểm tra giải quyết vấn đề) và BIG-Bench Hard (đánh giá lý luận thông thường). Trong khi đó, Llama 3 70B đánh bại Gemini 1.5 Pro trên các tiêu chuẩn MMLU, HumanEval và GSM-8K.
+
+Mặc dù vậy, theo Techcrunch, tính hữu ích của các tiêu chuẩn này vẫn còn đang được tranh luận. Nhưng dù sao, chúng vẫn là một trong những tiêu chuẩn để các công ty AI như Meta đánh giá mô hình của họ.
+
+Meta được các nhà quan sát đánh giá là một trong những Big Tech dẫn đầu trong việc sẵn sàng chi tiêu cho việc đào tạo và chạy các mô hình nguồn mở. Vào tháng 1, Mark Zuckerberg thông tin Meta đang chi hàng tỷ USD cho chip Nvidia AI, đến cuối năm 2024, cơ sở hạ tầng máy tính của công ty sẽ bao gồm 350.000 chiếc H100. Xong, Meta vẫn cam kết cung cấp trải nghiệm miễn phí các mô hình cho người dùng.
+
+
+
+Thế nhưng thị trường mô hình mở cũng đang dần sôi động với sự xuất hiện của Mistral. Mistral có trụ sở tại Paris, được sáng lập bởi các cựu nhà nghiên cứu của Meta. Công ty này đã tạo ra cú nổ đầu tiên vào tháng 6/2023, sau đó tiếp tục tích cực phát hành nhiều mô hình nguồn mở và được đón nhận nồng nhiệt.
+
+Trong khi đó, các mô hình độc quyền do OpenAI, Google và Anthropic ngày càng nâng cấp thêm nhiều khả năng hơn. Hai tháng trước, Google đã phát hành Gemma, các mô hình mở được xây dựng từ nghiên cứu và công nghệ tương tự như Gemini độc quyền của hãng.
+
+Bên cạnh đó, cuộc “đi săn” nhân tài AI tiếp tục nóng lên, với sự cạnh tranh khốc liệt giữa các nhà nghiên cứu hàng đầu và nhiều cựu kỹ sư của Big Tech nhảy việc thành lập công ty khởi nghiệp của riêng họ. Thời gian gần đây, Fortune đưa tin Meta đã chảy máu chất xám AI, khi một số lãnh đạo cấp cao, bao gồm cả giám đốc cấp cao về AI tạo sinh đã rời đi.
+
+Meta cho biết các mô hình Llama 3 — hiện có sẵn để tải xuống và hỗ trợ trợ lý Meta AI trên Facebook, Instagram, WhatsApp, Messenger và web. “Chúng tôi tin rằng Meta AI hiện là trợ lý AI thông minh nhất mà bạn có thể tự do sử dụng”, Giám đốc điều hành Meta Mark Zuckerberg cho biết trong thông báo.
+
+Mô hình này cũng sẽ sớm được tích hợp vào trình quản lý trên nhiều nền tảng đám mây bao gồm AWS, Databricks, Google Cloud, Hugging Face, Kaggle, WatsonX của IBM, Microsoft Azure, NIM và Snowflake của Nvidia.
+
+Meta không tiết lộ chi tiết cụ thể về loại dữ liệu nào được sử dụng để đào tạo Llama 3, ngoài việc nhấn mạnh rằng mô hình được đào tạo dựa trên “nhiều loại dữ liệu công khai”, bao gồm các bài đăng công khai trên Facebook và Instagram.
+
+Họ cho biết tập dữ liệu huấn luyện mới lớn gấp bảy lần so với tập dữ liệu được sử dụng để huấn luyện phiên bản trước đó, Llama 2 và bao gồm số lượng mã nhiều gấp bốn lần. Hơn 5% tập dữ liệu huấn luyện Llama 3 bao gồm “dữ liệu chất lượng cao từ 30 ngôn ngữ khác không phải tiếng anh”. Meta cũng cho biết họ đã tận dụng dữ liệu tổng hợp, tức là dữ liệu do AI tạo ra để tạo các tài liệu dài hơn.
+
+“Chúng tôi nhận thấy rằng các thế hệ Llama trước đó rất giỏi trong việc xác định dữ liệu chất lượng cao, vì vậy chúng tôi đã sử dụng Llama 2 để xây dựng các bộ phân loại chất lượng văn bản”, Meta giải thích.
+
+Meta cho biết họ đã phát triển các quy trình lọc dữ liệu mới để nâng cao chất lượng dữ liệu đào tạo mô hình, đồng thời phát triển cặp công cụ Llama Guard và CybersecEval để ngăn chặn việc lạm dụng và tạo văn bản không phù hợp từ Mô hình Llama 3 và những mô hình khác. Công ty cũng đang phát hành một công cụ mới, Code Shield, được thiết kế để phát hiện mã từ các mô hình AI tạo sinh có thể gây ra các lỗ hổng bảo mật.

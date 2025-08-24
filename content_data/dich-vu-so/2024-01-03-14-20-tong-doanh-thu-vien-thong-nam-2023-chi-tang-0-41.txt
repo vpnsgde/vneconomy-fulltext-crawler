@@ -1,0 +1,25 @@
+Con số trên cũng như số liệu thống kê các năm trước đó trong báo cáo tổng kết năm 2023 của Bộ Thông tin và Truyền thông, cho thấy doanh thu trong lĩnh vực viễn thông năm qua gần như không tăng trưởng, và ở mức thấp nhất trong nhiều năm lại đây. Điều này cũng phản ánh đúng xu hướng trên thế giới, là dịch vụ viễn thông truyền thống đã đến ngưỡng bão hòa và không còn dư địa tăng trưởng, trong khi đó các không gian tăng trưởng mới như chuyển đổi số, dịch vụ số, IoT… của các doanh nghiệp vẫn chiếm tỷ lệ rất nhỏ và chưa thể trở thành lực đỡ trong bức tranh doanh thu của doanh nghiệp viễn thông.
+
+Cùng mức độ tăng trưởng doanh thu trên, theo đó nộp ngân sách nhà nước lĩnh vực viễn thông ước đạt 46 nghìn tỷ đồng, tăng khoảng 0,27% so với cùng kỳ năm 2022 và đạt 93% so với kế hoạch năm 2023.
+
+Tỷ lệ hộ gia đình sử dụng cáp quang ước đạt 79,4% tăng 4,9% so với cùng kỳ năm 2022 và đạt 94,2% kế hoạch năm 2023. Tỷ lệ người sử dụng Internet ước đạt 78,59%, tăng 4,09% so với năm 2022. Số thuê bao sử dụng smartphone ước đạt 100,1 triệu, tăng 5,7% so với năm 2022.
+
+Tỷ lệ người dùng smartphone/người dùng điện thoại di động ước đạt 84,4%, cao hơn tỷ lệ trung bình quốc tế (trung bình quốc tế: 63% theo nguồn báo cáo của Statista). Có 42/63 (chiếm 75%) các tỉnh, thành phố trực thuộc Trung ương đã ban hành Kế hoạch phát triển Hạ tầng số.
+
+Số thuê bao băng rộng di động đạt 84,9 triệu thuê bao (tương ứng với tỷ lệ 85,5 thuê bao/100 dân), tăng 1,75% so với cùng kỳ năm ngoái và đạt 95,4% kế hoạch năm 2023. Tốc độ băng rộng cố định tháng 10/2023 (theo Ookla) đạt 104,08 Mbit/s, tăng 31,9% so với cùng kỳ năm 2022 xếp thứ 41/181 quốc gia, vùng lãnh thổ.
+
+Báo cáo của Bộ Thông tin và Truyền thông cũng cho biết tốc độ truy cập Internet băng rộng di động tháng 10/2023 (theo Ookla) 44,92 Mbit/s, tăng 13,78% so với cùng kỳ năm 2022, xếp thứ 57/181 quốc gia, vùng lãnh thổ.
+
+Đáng chú ý, tỷ lệ sử dụng thế hệ địa chỉ Internet mới IPv6 trên mạng Internet Việt Nam ước đạt 60%, cao gấp 1,6 lần trung bình toàn cầu và gấp 1,7 lần trung bình khối ASEAN. Việt Nam tăng 1 bậc, vượt qua Mỹ, đứng thứ 9 toàn cầu (trên một số nước lớn khác như Mỹ, Trung Quốc, Nga, Anh, Nhật Bản, Úc, Canada...); thứ 2 ASEAN, thứ 3 châu Á (sau Ấn Độ, Malaysia). Có 82/85 (96%) bộ, ngành, địa phương ban hành kế hoạch chuyển đổi IPv6, Chuyển đổi IPv6 cho Cổng Thông tin điện tử, Dịch vụ công: 75/85 (88%) bộ, ngành, địa phương (vượt chỉ tiêu 2023).
+
+Đối với việc thúc đẩy, hỗ trợ các bộ, ngành, địa phương trong công tác chuyển đổi sang thế hệ địa chỉ Internet mới IPv6 theo Chương trình IPv6 For Gov, đạt kết quả tốt: 41 Bộ, ngành, địa phương có kết quả mới trong chuyển đổi IPv6 trong năm 2023, đạt 81/85 (94%) Bộ, ngành, địa phương ban hành kế hoạch; đạt 75/85 (87%) Bộ, ngành, địa phương chuyển đổi thành công IPv6 cho Cổng TTĐT, dịch vụ công, tăng trưởng 14%.
+
+Tỷ lệ triển khai công nghệ xác thực tài nguyên mạng (RPKI) trên mạng Internet Việt Nam (RPKI/ROA) đạt 88%, tăng 64% so với cùng kỳ năm trước (vượt 8% so với chỉ tiêu năm 2023). Số lượng tên miền quốc gia .VN lũy kế đạt 607.000 tên miền, tăng 6,9% so với cùng kỳ năm trước, tăng 2% so với chỉ tiêu năm 2023 đến thời điểm báo cáo.
+
+Đối với việc chuẩn hóa thông tin thuê bao bảo đảm thông tin thuê bao đúng - trùng khớp với thông tin được đối soát trong Cơ sở dữ liệu Quốc gia về dân cư, đến tháng 10/2023 đã hoàn thành xử lý 17 triệu thuê bao chưa trùng khớp với cơ sở dữ liệu quốc gia về dân cư; xử lý khoảng 10 triệu thuê bao thuộc tập đứng tên ≥ 10 SIM/1 giấy tờ.
+
+Với dịch vụ Mobile Money, sau hai năm triển khai thí điểm, việc triển khai thí điểm dịch vụ Mobile Money đã đạt được mục tiêu về việc góp phần thúc đẩy thanh toán không dùng tiền mặt, đặc biệt tại khu vực nông thôn, miền núi, vùng sâu, vùng xa, cũng như đảm bảo việc thí điểm dịch vụ an toàn, đúng quy định.
+
+Năm 2024, Bộ Thông tin và Truyền thông cho biết nhiệm vụ trọng tâm đối với lĩnh vực viễn thông với mục tiêu tổng doanh thu lĩnh vực viễn thông đạt 21 tỷ USD. Thị phần dịch vụ điện toán đám mây của doanh nghiệp Việt Nam tại thị trường nội địa đạt 50%. Tỷ lệ hộ gia đình sử dụng cáp quang đạt 84%. Tỷ lệ người sử dụng Internet đạt 76%...
+
+Một trong những nhiệm vụ trọng tâm là xây dựng, ban hành Thông tư quy hoạch băng tần 850 MHz, 900 MHz cho hệ thống thông tin di động IMT của Việt Nam; thông tư quy hoạch băng tần 1800MHz cho hệ thống thông tin di động IMT của Việt Nam. Đồng thời triển khai kế hoạch thương mại hoá 5G. Đấu giá băng tần 2600/3700 MHz cho thông tin di động IMT. Thực hiện cấp lại giấy phép băng tần 900/1800/2100MHz cho các doanh nghiệp thông tin di động…

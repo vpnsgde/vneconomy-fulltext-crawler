@@ -1,0 +1,29 @@
+Theo Cổng thông tin điện tử Bộ Công an, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao Công an tỉnh Hoà Bình vừa phối hợp với Công an huyện Kim Bôi (Hoà Bình) đã phát hiện, đấu tranh được nhiều tài khoản trên các nền tảng mạng xã hội có tên “@hotieubao123, @hotieubaoservice, @hatokibotnetstealer; @jero_stealer_japan” có hành vi mua bán phần mềm mã độc sử dụng để tấn công mạng.
+
+Qua xác minh, lực lượng chức năng đã xác định đối tượng bán các tệp tin có chứa mã độc trên mạng xã hội là Hồ Tiểu Bảo (sinh năm 2005) có hộ khẩu thường trú tại xã Phú Lâm, thị xã Nghi Sơn (tỉnh Thanh Hóa), trú TP. Hồ Chí Minh. Thời điểm bị bắt Hồ Tiểu Bảo đang là sinh viên.
+
+Là người có trình độ về công nghệ thông tin, cũng như biết cách thức vận hành mã độc, Bảo đã đặt mua mã độc dạng Nova từ nước ngoài về tạo Bot trên discord rồi bán cho khách có yêu cầu.
+
+Đối tượng này đã sử dụng các tài khoản Facebook, Telegram để bán mã độc cho các đối tượng khác nhằm đánh cắp thông tin từ máy tính của người dùng.
+
+Mã độc do đối tượng này cung cấp có các tính năng như lấy thông tin của máy, hệ điều hành của máy; lấy thẻ tín dụng, ví điện tử, visa của nạn nhân; xem lịch sử web, lịch sử download của nạn nhân; xem ảnh chụp màn hình thiết bị của nạn nhân; lấy cookie facebook/All cookie mạng xã hội; lấy tài khoản mật khẩu full trình duyệt; Bypass window defender, virus total.
+
+Các mã độc này rất khó gỡ ra khỏi thiết bị, có khả năng chống máy ảo và tự động thêm vào hệ điều hành khi máy khởi động và nhiều chức năng nguy hiểm khác.
+
+Sau khi bị bắt giữ, tại Cơ quan điều tra đối tượng Hồ Tiểu Bảo khai nhận, bắt đầu hoạt động mua bán mã độc trên mạng xã hội từ đầu năm 2024 và đã thực hiện thành công nhiều giao dịch với nhiều người không quen biết trên mạng xã hội. Hầu hết các mã độc sau khi giao dịch thành công, đối tượng đã xóa khỏi máy.
+
+Tuy nhiên, quá trình điều tra, Cơ quan điều tra đã xác định được 15 mã độc thuộc nhiều loại.
+
+Ngoài việc mua bán mã độc, Hồ Tiểu Bảo còn tải các dữ liệu của các website bị lộ thông tin tài khoản quản trị được chia sẻ miễn phí trên các trạng mạng xã hội Telegram về máy. Sau đó, Bảo mua phần mềm có tính năng lọc, trích xuất dữ liệu rồi bán lại cho người khác để thu lợi. Sau khi có tên đăng nhập, mật khẩu tài khoản quản trị của các website, các đối tượng sẽ xâm nhập trái phép vào website của các cơ quan, tổ chức chiếm quyền điều khiển, chỉnh sửa, giao diện, nội dung nhằm nhiều mục đích khác nhau.
+
+Liên quan đến vụ việc, Cơ quan điều tra còn phát hiện đối tượng Nguyễn Hồng Thái (sinh năm 2008) trú tại TP Biên Hòa (tỉnh Đồng Nai) đã mua các phần mềm mã độc của Hồ Tiểu Bảo sau đó đã sử dụng vào mục đích trái pháp luật và xâm nhập trái phép vào mạng máy tính của người khác.
+
+Đặc biệt, Cơ quan Cảnh sát điều tra đã xác minh, phát hiện đối tượng Khoàng Thành Trung (sinh năm 2006) trú tại xã Nậm Kè, huyện Mường Nhé (tỉnh Điện Biên) đã mua mã độc của Hồ Tiểu Bảo thông qua mạng xã hội để xâm nhập trái phép vào website của Trường Trung học cơ sở Tiên Phù, Phù Ninh (tỉnh Phú Thọ) để sửa điểm của các học sinh trong trường.
+
+Các đối tượng này cùng với Hồ Tiểu Bảo đã bị Cơ quan Cảnh sát điều tra Công an huyện Kim Bôi ra Quyết định khởi tố vụ án, khởi tố bị can về tội “Mua bán phần mềm để sử dụng vào mục đích trái pháp luật” theo quy định tại khoản 1 Điều 285 Bộ Luật hình sự và tội “Xâm nhập trái phép vào mạng máy tính của người khác” theo quy định tại khoản 1 Điều 289 Bộ Luật hình sự.
+
+Cơ quan chức năng khuyến cáo, để tự bảo vệ mình thì người dùng Internet, mạng máy tính cần phải luôn cảnh giác khi cài đặt ứng dụng, phần mềm mới trên điện thoại, máy tính của mình, tuyệt đối không cài các ứng dụng, phần mềm từ nguồn không tin cậy.
+
+Bên cạnh đó, nên cài đặt các phần mềm diệt virus để bảo vệ thiết bị khỏi mã độc, sử dụng các phần mềm chính hãng, có bản quyền, không nên sử dụng các bản phần mềm “bẻ khóa” vì thường tin tặc sẽ cài cắm mã độc bên trong. Sử dụng xác thực 2 yếu tố cho các tài khoản mạng xã hội, tài khoản ngân hàng và các ứng dụng quan trọng khác.
+
+Ngoài ra, người dùng nên sử dụng các công cụ quản lý mật khẩu để tạo và lưu trữ mật khẩu mạnh, tránh sử dụng cùng một mật khẩu cho nhiều tài khoản khác nhau. Đồng thời định kỳ kiểm tra, thay đổi mật khẩu, không nên lưu thông tin đăng nhập trên trình duyệt web vì mã độc thường tập trung đánh cắp các thông tin này.

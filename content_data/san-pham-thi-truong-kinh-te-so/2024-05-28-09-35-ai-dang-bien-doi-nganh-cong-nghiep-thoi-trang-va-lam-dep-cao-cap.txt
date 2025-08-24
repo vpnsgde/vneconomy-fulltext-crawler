@@ -1,0 +1,27 @@
+Để tìm hiểu những tác động của AI đến làm đẹp và thời trang, Euronews Next đã thực hiện phỏng vấn với các lãnh đạo cấp cao của LVMH, L'Oréal và một công ty AI của Pháp tại Hội chợ Công nghệ Viva ở Paris mới đây.
+
+Trong hội chợ này, một trong những thương hiệu của tập đoàn thời trang xa xỉ LVMH, Dior đã trưng bày các màn hình trình bày chi tiết cách AI và AI tạo sinh giúp khách hàng tìm kiếm trực quan các sản phẩm, đồng thời nền tảng AI giúp công ty tổng hợp nhận xét của khách hàng từ nhiều kênh, hỗ trợ chăm sóc khách hàng hay khảo sát mức độ hài lòng đối với các sản phẩm của họ...
+
+Gonzague de Pirey, Giám đốc của Omnichannel (chịu trách nhiệm về việc phát triển và triển khai các chiến lược kinh doanh) của tập đoàn LVMH cho biết: “Về mặt đạo đức, chúng tôi sử dụng AI không phải để thay thế nhân viên của mình mà để nâng cao đội ngũ của chúng tôi”.
+
+Công ty cũng cẩn thận khi nói đến dữ liệu. Theo đó, khi tích hợp công nghệ vào chuỗi hoạt động, không tận dụng sức mạnh của các chatbot công khai như ChatGPT, LVMH đã xây dựng một hệ thống AI riêng được bảo vệ tốt hơn: “Dữ liệu của nhân viên và khách hàng là điều chúng tôi phải hết sức cẩn thận.
+
+“Dữ liệu khách hàng cũng là là dữ liệu hết sức nhạy cảm đối với tập đoàn Chúng tôi rất, rất cẩn thận. Trong lĩnh vực xa xỉ, chúng tôi phải rất sáng tạo, vậy nên khi ứng dụng công nghệ vào hoạt động thiết kế, những chấm xám đó càng cần phải được bảo vệ”, ông nói thêm.
+
+“Nếu sử dụng sai hoặc lạm dụng AI, các nhà sáng tạo chắc chắn sẽ không còn sáng tạo nữa. Thế nhưng, ngược lại, các công cụ này đã chứng minh có thể thúc đẩy khả năng sáng tạo của các nhà thiết kế, người sáng tạo và giám đốc nghệ thuật của chúng tôi”, Giám đốc của LVMH, Gonzague de Pirey nói.
+
+Theo các chuyên gia khác, ứng dụng AI trong chuỗi cung ứng còn có thể giúp các công ty thời trang ra mắt các bộ sưu tập nhanh hơn và bền vững hơn. Raul Cruz Bonilla, Phó chủ tịch công ty AI Imki của Pháp, cho biết: “Chúng tôi đã tạo ra bộ sưu tập này chỉ trong vòng 21 ngày nhờ công nghệ” khi đề cập đến bộ sưu tập quần áo denim được trưng bày tại Hội chợ.
+
+Theo đó, ông cho biết thông thường phải mất ít nhất sáu tuần để sản xuất được những thiết kế vải denim. Thế nhưng bằng cách tích hợp công nghệ Imki vào các quy trình, họ đã tối ưu được thời gian chuẩn bị, từ những khám phá sáng tạo đầu tiên đến các giai đoạn lặp lại và thiết kế, cho đến hoàn thiện kỹ thuật của sản phẩm đồng thời cũng giúp tiết kiệm vật liệu.
+
+“AI sẽ không bao giờ giết chết sự sáng tạo. Nó sẽ tăng cường sự sáng tạo. Nó sẽ giết chết những người, những nhà tạo mẫu không biết cách sử dụng AI. Nó sẽ thúc đẩy khả năng sáng tạo của bạn. Nó sẽ làm cho bạn mạnh mẽ hơn”, Cruz Bonilla nói.
+
+Đối với ngành làm đẹp, AI không phải là điều mới lạ. Guive Balooch, Giám đốc điều hành toàn cầu của LVMH về lĩnh vực làm đẹp, cho biết: “Chúng tôi bắt đầu sử dụng AI từ 10 năm trước và tôi vẫn nghĩ rằng L'Oréal là một công ty coi trọng nghiên cứu bởi vì chúng tôi được thành lập bởi các nhà hóa học hơn 115 năm trước”.
+
+Nhưng ông nói "có lẽ một nửa" những gì họ đã tạo ra gần đây đều có sự tham gia của AI. Chẳng hạn họ đã ra mắt trình mô phỏng trang điểm ảo dựa trên máy học và công nghệ chẩn đoán da cũng được xây dựng dựa trên thuật toán học máy.
+
+“Chúng tôi có các sản phẩm mới dựa trên AI như Beauty Genius, trợ lý làm đẹp ảo không chỉ cung cấp cho khách hàng những câu trả lời chung chung mà còn sử dụng dữ liệu được bổ sung từ hoạt động R&D của chúng tôi để cho phép chúng thực sự đưa ra lời khuyên phù hợp với khách hàng”, ông nói thêm.
+
+Nói về tương lai của AI trong lĩnh vực làm đẹp, Giám đốc điều hành toàn cầu của LVMH trong lĩnh vực này cho rằng AI sẽ còn tạo ra nhiều biến đổi hơn nữa: “Mỗi cá nhân sống ở một nơi nhất định, có lối sống nhất định và có đặc điểm sinh học nhất định, thế nhưng khả năng tiếp cận những điều đó sẽ trở nên dễ dàng hơn nhiều nhờ AI”, ông nói.
+
+“Nhờ công nghệ, chúng tôi có thể cho khách hàng biết làn da của họ có dấu hiệu sinh học nhất định nào, liệu retinol hay một trong các sản phẩm của chúng tôi có phù hợp với tình trạng da của họ hay không và họ sẽ không còn phải đoán xem đâu là sản phẩm phù hợp với mình”.

@@ -1,0 +1,27 @@
+Trong một báo cáo vừa được hãng bảo mật Kaspersky phát ra, cho rằng ngày càng có nhiều người dùng mua sắm trực tuyến, những nỗ lực lừa đảo nhắm vào các cửa hàng trực tuyến cũng ngày một tăng theo, chiếm khoảng 30% trong số những trường hợp lừa đảo tài chính. Một trong những hình thức lừa đảo liên quan đến ngân hàng như giả mạo trang web, tin nhắn SMS, link mạo danh...
+
+Theo Kaspersky, lừa đảo tài chính được ghi nhận là một hình thức lừa đảo phổ biến tại Đông Nam Á, chiếm tỷ lệ hơn 40% ở hầu hết các quốc gia trong khu vực này. Philippines là quốc gia có tỷ lệ tấn công tài chính cao nhất với 64,03%, tiếp theo là Thái Lan với 56,35%.
+
+Trong khi đó, với 26,36%, Việt Nam có tỷ lệ bị tấn công tài chính thấp nhất so với các nước trong khu vực và thấp hơn nhiều so với tỷ lệ trung bình của Đông Nam Á (43,06%). Tỷ lệ ấn tượng này có thể là nhờ nỗ lực của Việt Nam trong việc nâng cao nhận thức về an ninh tài chính và dữ liệu trong bối cảnh gia tăng của ngân hàng di động và ví điện tử trong khu vực.
+
+
+
+Ngoài ra, sự gia tăng các giao dịch trực tuyến tại Việt Nam trong thời kỳ đại dịch đã tạo điều kiện cho các trang mạo danh những hệ thống thanh toán phổ biến như Visa, Mastercard, PayPal,… phát triển.
+
+Ông Yeo Siang Tiong, Tổng Giám đốc Kaspersky khu vực Đông Nam Á, cho biết: Sự gia tăng trong việc áp dụng các giao dịch số ở Đông Nam Á kéo theo sự phát triển của những “siêu ứng dụng” trong khu vực. Đây là những ứng dụng di động kết hợp tất cả các chức năng tài chính phổ biến bao gồm ngân hàng điện tử, ví di động, mua sắm trực tuyến, bảo hiểm, đặt vé du lịch và thậm chí là đầu tư… Do đó, việc tập trung dữ liệu và tiền kỹ thuật số vào cùng một nơi có thể gây ra hậu quả lớn khi tác động của cuộc tấn công lừa đảo nổi lên với một tốc độ không thể lường trước được.
+
+Chuyên gia Kaspersky cũng cảnh báo, siêu ứng dụng là một phương thức giúp các ngân hàng và nhà cung cấp dịch vụ truyền thống trở nên nổi bật hơn trong một ngành khá đông đúc. Mọi nỗ lực làm việc với các bên thứ ba và kết hợp các dịch vụ của mình vào trong một ứng dụng di động, phạm vi tấn công sẽ được mở rộng, đồng thời tạo nhiều cơ hội hơn cho các cuộc tấn công độc hại.
+
+Một viễn cảnh có thể xảy ra khi một ứng dụng có tất cả các thông tin tài chính chi tiết của người dùng, một liên kết lừa đảo đơn giản yêu cầu thông tin đăng nhập của người dùng có thể xâm phạm tất cả các dữ liệu có sẵn trong ứng dụng. Điều này làm gia tăng những tác hại có thể có của mối đe doạ này.
+
+"Mục tiêu chính của tội phạm mạng là tiền. Vì vậy, điều quan trọng là các ngân hàng, nhà phát triển ứng dụng và nhà cung cấp dịch vụ phải tích hợp an ninh mạng ngay từ khi bắt đầu phát triển ứng dụng. Tin tặc sẽ nhắm vào sự phát triển của các “siêu ứng dụng” cả về cơ sở hạ tầng lẫn người dùng thông qua các cuộc tấn công phi kỹ thuật", ông Yeo Siang Tiong nói.
+
+CEO Kaspersky khu vực Đông Nam Á cũng khuyến cáo, các công ty fintech triển khai phương pháp tiếp cận bảo mật theo thiết kế trong hệ thống của họ và liên tục cung cấp kiến thức chủ động cho người dùng trong giai đoạn này, khi các cuộc tấn công lừa đảo tiếp tục phát triển một cách mạnh mẽ.
+
+Đối với các doanh nghiệp, phương pháp bảo vệ quan trọng nhất cần lưu ý là an ninh mạng phải là một chiến lược “sống” chứ không phải là một nền tảng tĩnh. An ninh mạng cần phải kết hợp công nghệ lẫn sự nỗ lực, đồng thời được nâng cấp, cập nhật và cải tiến liên tục.
+
+Hơn hết, ngân hàng và các nhà cung cấp dịch vụ cần phải chắc chắn rằng đội ngũ bảo mật (hoặc các chuyên gia bảo mật) có thể đảm bảo cơ sở hạ tầng phòng thủ mạng được cập nhật và có khả năng hỗ trợ trong trường hợp xảy ra tấn công mạng.
+
+
+
+Một số bước quan trọng mà các doanh nghiệp cần xem xét bao gồm:

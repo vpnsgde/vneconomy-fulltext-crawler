@@ -1,0 +1,39 @@
+Cơn sốt xây dựng các trung tâm dữ liệu nhằm đáp ứng nhu cầu về trí tuệ nhân tạo (AI) đang bùng nổ đã gây ra tình trạng thiếu hụt linh kiện, tài sản và năng lượng mà các kho siêu máy tính khổng lồ cần có.
+
+Một giám đốc điều hành trung tâm dữ liệu đã cho biết thời gian để có được hệ thống làm mát tùy chỉnh đã kéo dài hơn gấp 5 lần so với thời điểm vài năm trước. Thời gian giao hàng của máy phát điện dự phòng đã tăng từ ít nhất một tháng lên tới hai năm.
+
+Sự biến mất của cơ sở hạ tầng đầy đủ nguồn điện và kết nối dữ liệu dễ dàng – nhưng giá rẻ đã khiến các nhà đầu tư phải lùng sục địa điểm khắp thế giới. Các trung tâm dữ liệu giờ đây thậm chí được đặt cạnh một ngọn núi lửa ở El Salvador và bên trong các container vận chuyển đậu ở Tây Texas và châu Phi.
+
+Đầu năm nay, nhà điều hành trung tâm dữ liệu Hydra Host đã gặp khó khăn khi tìm kiếm 15 MW điện cần thiết để vận hành một cơ sở theo kế hoạch sản xuất 10.000 chip AI.
+
+Công ty đã đi từ Phoenix đến Houston, New York đến Bắc Carolina để tìm không gian phù hợp. Những địa điểm có điện nhưng lại không có hệ thống làm mát phù hợp cần thiết để duy trì hoạt động của máy chủ. Các hệ thống làm mát mới sẽ phải mất từ 6 đến 8 tháng mới có được do nguồn cung khan hiếm. Trong khi đó, những tòa nhà có hệ thống làm mát lại không có máy biến áp để nhận thêm nguồn điện khi cỗ máy này sẽ phải mất tới một năm mới được giao đến tay.
+
+Giám đốc điều hành Hydra Host Aaron Ginn cho biết: “Với những gì chúng tôi đang thấy, nhu cầu xây dựng các trung tâm dữ liệu đang ở mức cao chưa từng có. Việc tìm kiếm các bộ phận và không gian phù hợp đã mất nhiều tháng hơn dự kiến.”
+
+Cơn sốt chạy đua để tạo ra một hệ thống AI đã tăng cao kể từ cuối năm 2022, khi Chat GPT của OpenAI bắt đầu cho thấy tiềm năng của công nghệ. Nhu cầu về máy chủ máy tính được trang bị chip AI thế hệ mới — phổ biến nhất trong số đó là bộ xử lý đồ họa hoặc GPU của Nvidia — đang áp đảo các trung tâm dữ liệu hiện có.
+
+Raul Martynek, Giám đốc điều hành của công ty trung tâm dữ liệu DataBank, cho biết: “Trận sóng thần này sẽ khiến nguồn cung cho các trung tâm dữ liệu còn kéo dài.”
+
+Việc triển khai các hệ thống AI phức tạp đòi hỏi số lượng chip khổng lồ. Các nhà phân tích ước tính rằng việc đào tạo phiên bản ChatGPT ra mắt vào năm 2022 cần hơn 10.000 GPU của Nvidia, trong khi các bản cập nhật gần đây yêu cầu nhiều hơn đáng kể — gây thêm căng thẳng cho các trung tâm dữ liệu. Các công ty công nghệ lớn đang phải vật lộn để có được nguồn cung cấp.
+
+Theo công ty bất động sản CBRE, lượng không gian dành cho trung tâm dữ liệu ở Mỹ đã tăng 26% trong năm ngoái và một lượng không gian kỷ lục đang được xây dựng. Giá của những địa điểm sẵn có đang tăng lên trong khi tỷ lệ trống lại rất thấp - một dấu hiệu cho thấy nguồn cung không theo kịp nhu cầu.
+
+Bill Vass, Phó Chủ tịch kỹ thuật của Amazon Web Services, cho biết cứ ba ngày lại có một trung tâm dữ liệu mới xuất hiện ở đâu đó trên thế giới.Jon Lin, Tổng Giám đốc dịch vụ trung tâm dữ liệu tại Equinix - một trong những nhà khai thác trung tâm dữ liệu lớn nhất thế giới, cho biết thông thường phải mất 1,5 cho đến 2 năm để xây dựng một cơ sở dữ liệu mới quy mô lớn. Ông cho biết, ngành này khó có thể đột ngột mở rộng quy mô khi nhu cầu tăng vọt vì cần phải lập kế hoạch sâu rộng và quản lý chuỗi cung ứng.
+
+Những gã khổng lồ về điện toán đám mây như Amazon Web Services, Microsoft và Google của Alphabet đang đầu tư hàng nghìn tỷ USD vào các trung tâm dữ liệu mới. Chi tiêu vốn của Google – gần một nửa trong số đó là vào cơ sở hạ tầng dữ liệu – đã tăng 45% so với một năm trước đó lên 11 tỷ USD trong ba tháng tính đến tháng 12.
+
+Microsoft đã cố gắng kiểm soát chi phí trong quá trình xây dựng trung tâm dữ liệu của mình bằng cách giảm chi tiêu cho các lĩnh vực khác. Theo ước tính từ công ty nghiên cứu thị trường Dell'Oro Group, công ty đã chi hơn 30 tỷ USD vào các trung tâm dữ liệu vào năm 2023.
+
+Việc gấp rút xây dựng đã làm tăng thêm thời gian cần thiết để có được một số thành phần quan trọng của trung tâm dữ liệu. Bộ thu phát, kết nối các mạng máy chủ khác nhau, hiện phải mất nhiều thời gian so với trước mới có thể đến tay các trung tâm này. Chi phí lao động cũng trở thành mối lo ngại khi các công ty xây dựng trung tâm dữ liệu phải đối mặt với tình trạng thiếu công nhân xây dựng được đào tạo về các loại hệ thống lắp đặt nhạy cảm này. Để có được các thành phần mạng nhỏ hơn, chẳng hạn như cáp kết nối các giá đỡ máy chủ khác nhau, cũng có thể mất vài tháng.
+
+Các chip AI cần thiết vốn đã thiếu hụt từ trước đến nay. Nhà sản xuất lớn nhất Nvidia, đã bị choáng ngợp bởi nhu cầu từ hàng loạt công ty và nhà cung cấp cơ sở hạ tầng đám mây. Khi bắt đầu bùng nổ AI, thời gian để có được bộ xử lý đồ họa cho tính toán AI trong trung tâm dữ liệu đã tăng lên vài tháng, mặc dù thời gian chờ đợi đã giảm trong những tháng gần đây.
+
+Các Giám đốc điều hành trung tâm dữ liệu cho biết thời gian cần thiết để có được các máy phát điện dự phòng lớn đã tăng từ chưa đầy một năm lên gần hai năm.
+
+Các yêu cầu cụ thể đối với các trung tâm dữ liệu AI điều khiển bằng GPU mới đang thúc đẩy các nhà xây dựng tìm kiếm những nơi mà họ có thể nhận được nhiều nguồn điện đáng tin cậy và giá cả phải chăng. Amazon gần đây đã mua một trung tâm dữ liệu bên cạnh một nhà máy điện hạt nhân ở Pennsylvania. Meta Platforms đang lên kế hoạch xây dựng cơ sở hạ tầng máy tính trị giá 800 triệu USD ở El Paso, Texas.
+
+Công ty cơ sở hạ tầng kỹ thuật số Standard Power đang có kế hoạch cung cấp năng lượng cho các trung tâm dữ liệu ở Ohio và Pennsylvania bằng các lò phản ứng hạt nhân mô-đun tương tự như những lò được sử dụng để cung cấp năng lượng cho một số tàu ngầm và tàu sân bay. NuScale Power, có trụ sở tại Portland, Ore., cho biết họ đã được cấp phép cung cấp lò phản ứng cho Standard.
+
+Armada, một công ty khởi nghiệp ở San Francisco đã xây dựng trung tâm dữ liệu bên trong các container vận chuyển. Công ty có thể thả các cơ sở di động này, chứa đầy các máy chủ chạy bằng chip Nvidia, ở những địa điểm như vùng sâu vùng xa của Texas hoặc châu Phi.
+
+El Salvador gần đây cũng đã cắt giảm thuế đối với AI. Marc Seal, người điều hành một công ty đầu tư vào các trung tâm dữ liệu AI, đang xem xét khai thác các ngọn núi lửa của đất nước để cung cấp năng lượng cho các trung tâm dữ liệu đó bằng cách sử dụng năng lượng địa nhiệt xanh.

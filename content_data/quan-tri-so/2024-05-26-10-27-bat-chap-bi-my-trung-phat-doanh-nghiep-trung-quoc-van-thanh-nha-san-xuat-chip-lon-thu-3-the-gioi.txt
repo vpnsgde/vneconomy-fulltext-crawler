@@ -1,0 +1,23 @@
+Tập đoàn Sản xuất Chất bán dẫn Quốc tế (SMIC) - nhà sản xuất chip lớn nhất của Trung Quốc lần đầu tiên trở thành nhà sản xuất mạch tích hợp (IC) lớn thứ 3 thế giới tính theo doanh số trong quý 1/2024. Kết quả này đến từ nhu cầu nội địa mạnh mẽ bất chấp các lệnh trừng phạt từ Mỹ.
+
+Theo báo cáo của công ty nghiên cứu công nghệ Counterpoint, SMIC có trụ sở tại Thượng Hải đã được thêm vào danh sách đen thương mại của Mỹ kể từ năm 2020. Kết thúc quý 1/2024, công ty chiếm 6% doanh thu của ngành đúc chip toàn cầu, đứng sau Công ty sản xuất chất bán dẫn Đài Loan (TSMC) - dẫn đầu ngành với 62% thị phần và Samsung Electronics với 13% thị phần.
+
+Theo Counterpoint, doanh số bán hàng của SMIC dự kiến ​​sẽ ghi nhận mức tăng trưởng hai con số trong quý tiếp theo trong bối cảnh nhu cầu trong nước về cảm biến hình ảnh, chip quản lý năng lượng và IC điều khiển màn hình phục hồi.
+
+Xếp hạng mới nhất của công ty đã phản ánh việc xoay trục chiến lược để phục vụ khách hàng nội địa giúp giảm tác động từ các lệnh trừng phạt công nghệ của Mỹ, đồng thời ứng biến tốt trước thị trường bán dẫn toàn cầu suy yếu trong quý đầu tiên.
+
+Theo kết quả tài chính mới nhất được công bố của nhà sản xuất chip Trung Quốc, 82% trong tổng doanh thu quý đầu tiên trị giá 1,75 tỷ USD của SMIC đến từ khách hàng nội địa, tăng từ mức 75,5% trong cùng kỳ năm trước.
+
+Khi nghiên cứu về chiếc điện thoại Mate 60 Pro 5G của Huawei vào tháng 9 năm ngoái, các chuyên gia đã phát hiện ra rằng SMIC là nhà sản xuất đứng đằng sau bộ vi xử lý tiên tiến được sử dụng trong chiếc điện thoại thông minh này. Điều này đã khiến Washington kêu gọi điều tra về cách con chip đó được sản xuất ở Trung Quốc trong bối cảnh hạn chế công nghệ của Mỹ.
+
+Cả SMIC và Huawei đều giữ im lặng về bộ vi xử lý Kir9000 của Mate 60 Pro. Báo cáo theo dõi các xưởng sản xuất mới nhất của Counterpoint cho biết doanh thu của lĩnh vực này trong quý 1 đã giảm 5% so với quý trước do nhu cầu về chất bán dẫn trí tuệ phi nhân tạo (AI) phục hồi chậm hơn, chẳng hạn như các chất bán dẫn được sử dụng trên điện thoại thông minh, thiết bị Internet, ứng dụng ô tô và công nghiệp.
+
+Nhà phân tích Adam Chang của Counterpoint cho biết: “Chúng tôi đã quan sát thấy nhiều bằng chứng cho rằng nhu cầu đối với AI là có thật, với việc chi tiêu vốn ngày càng tăng của các nhà cung cấp dịch vụ đám mây áp dụng phần cứng AI trước tiên và sau đó là các doanh nghiệp”.
+
+Ông cho biết nhu cầu về chip AI được dự đoán sẽ vẫn mạnh trong năm nay và có khả năng kéo dài đến năm 2025, trong khi nhu cầu về chất bán dẫn không phải AI vẫn ở mức chậm chạp. Ví dụ, công ty dẫn đầu thị trường chip AI toàn cầu Nvidia cho biết doanh thu từ việc cung cấp bộ xử lý đồ họa (GPU) cho các trung tâm dữ liệu đã tăng hơn 400% lên 22,6 tỷ USD trong quý kết thúc vào ngày 28 tháng 4, theo kết quả tài chính mới nhất.
+
+Theo một báo cáo riêng từ công ty nghiên cứu IC Đài Loan TrendForce, Nvidia hiện chiếm hơn 80% thị phần chip tăng tốc AI trên thế giới. Họ dự kiến ​​TSMC sẽ tăng tổng công suất đóng gói nâng cao hàng tháng lên 150% vào cuối năm nay để đáp ứng với nhu cầu về GPU Blackwell thế hệ tiếp theo của Nvidia – B100, B200 và GB200.
+
+Bên cạnh đó, SMIC cũng không thể tiếp cận được kỹ thuật in thạch bản cực tím (EUV) do chỉ có công ty ASML của Hà Lan mới có khả năng chế tạo. Nếu không có EUV, SMIC không thể sản xuất chất bán dẫn công nghệ cao trên quy mô lớn với chi phí thấp hơn.
+
+Phó giám đốc Counterpoint Brady Wang cho biết:“Mức độ và thời gian của tác động này sẽ phụ thuộc đáng kể vào kho linh kiện sửa chữa sẵn có. Nếu mức tồn kho cao, các tác động tiêu cực có thể được giảm thiểu nhanh chóng hơn, trong khi lượng tồn kho thấp hơn có khả năng dẫn đến sự gián đoạn trong dịch vụ hoặc hoạt động".

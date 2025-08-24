@@ -1,0 +1,13 @@
+Sự hợp tác này nhấn mạnh cam kết của TOUS les JOURS đối với đổi mới sáng tạo và mục tiêu nâng cao trải nghiệm, tương tác của khách hàng thông qua công nghệ tiên tiến. SmartOSC, với vai trò đối tác chuyển đổi số hàng đầu, sẽ tận dụng công nghệ blockchain L1 Avalanche vượt trội của Ava Labs để phát triển giải pháp voucher kỹ thuật số. Giải pháp này cho phép khách hàng của TOUS les JOURS dễ dàng đổi thưởng voucher tại các cửa hàng tham gia, minh chứng tiềm năng của blockchain trong việc làm phong phú trải nghiệm khách hàng thân thiết.
+
+Ông Yun Seong Yong, Tổng giám đốc TOUS les JOURS Việt Nam, cho biết việc hợp tác với SmartOSC và Ava Labs thể hiện một bước quan trọng trong hành trình chuyển đổi số của TOUS les JOURS nhằm củng cố vị thế thương hiệu như một người dẫn đầu trong ngành bánh ngọt của Việt Nam.
+
+Dù việc đổi thưởng voucher kỹ thuật số không mới, các hệ thống truyền thống vẫn đối mặt với thách thức về gian lận, thiếu minh bạch và khả năng tương thích hạn chế. Công nghệ blockchain được lựa chọn để giải quyết các vấn đề này. TOUS les JOURS cho biết, đối với doanh nghiệp, blockchain mang lại giá trị về chống gian lận, hỗ trợ quản lý, trong khi người tiêu dùng hưởng lợi từ sự minh bạch và khả năng chuyển đổi. Tuy nhiên, thương hiệu cũng nhấn mạnh rằng khách hàng cuối chủ yếu quan tâm đến tính năng, chất lượng dịch vụ và sản phẩm, chứ không nhất thiết phải hiểu sâu về công nghệ blockchain đằng sau.
+
+Nền tảng blockchain L1 Avalanche của Ava Labs được chọn nhờ khả năng mở rộng vượt trội, tốc độ hoàn tất giao dịch gần như tức thì (dưới 1 giây, xử lý tới 4,500 giao dịch/giây trên C-Chain) và cơ chế đồng thuận thân thiện với môi trường. Kiến trúc này giải quyết hiệu quả những hạn chế về tốc độ và khả năng mở rộng của các blockchain truyền thống.
+
+SmartOSC, với chuyên môn sâu rộng trong phát triển và triển khai công nghệ, sẽ đảm bảo giải pháp được tích hợp liền mạch vào hệ sinh thái hiện có của TOUS les JOURS, mang đến trải nghiệm thân thiện cho người dùng.
+
+Đại diện SmartOSC cho biết: “SmartOSC rất vui mừng được làm việc cùng với TOUS les JOURS và Ava Labs để cung cấp một giải pháp phát voucher thông qua ứng dụng khách hàng thân thiết thế hệ tiếp theo. Chúng tôi tập trung vào việc phát triển một giải pháp nâng cao trải nghiệm khách hàng đồng thời giới thiệu khả năng của công nghệ blockchain.”
+
+Bà Laura Nguyễn, Giám đốc khu vực của Ava Labs, phát biểu: “Ava Labs tự hào được hợp tác với TOUS les JOURS và SmartOSC trong sáng kiến đột phá này. Sự hợp tác này làm nổi bật tiềm năng biến đổi của công nghệ blockchain trong việc tạo ra các hệ sinh thái khách hàng thân thiết sáng tạo, lấy khách hàng làm trung tâm.”

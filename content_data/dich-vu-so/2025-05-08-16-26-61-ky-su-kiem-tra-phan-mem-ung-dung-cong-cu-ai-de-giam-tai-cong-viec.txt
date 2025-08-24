@@ -1,0 +1,15 @@
+Báo cáo “Tình trạng Chất lượng Phần mềm năm 2025” (2025 State of Software Quality Report) do Katalon thực hiện với hơn 1.500 chuyên gia kiểm thử trên toàn cầu đã chỉ ra một nghịch lý lo ngại bị AI thay thế nhưng các kỹ sư kiểm thử lại chính là những người tiên phong trong việc ứng dụng AI vào công việc.
+
+Trong bối cảnh AI đang định hình lại kỳ vọng ngành, 82% đội ngũ QA (người kiểm tra đảm bảo chất lượng phần mềm - Quality Assurance) tin rằng các kỹ năng liên quan đến AI sẽ trở nên thiết yếu trong 3 đến 5 năm tới. Trước sự chuyển dịch này, các nhóm kiểm thử đang chủ động thích nghi.
+
+Ngoài ra, những chuyên gia làm chủ công cụ AI thường có lợi thế rõ rệt trong việc lập kế hoạch kiểm thử, giải quyết vấn đề và triển khai hiệu quả các khái niệm AI vào quy trình thực tế.
+
+Nhằm thu hẹp khoảng cách kỹ năng, 67% đội ngũ QA đang đầu tư vào hoạt động học tập và đào tạo liên tục; 53% bắt đầu triển khai các phương pháp kiểm thử dựa trên AI nhằm bắt kịp tốc độ thay đổi công nghệ và giữ vững vị thế tiên phong. Thực tế, 77% người tham gia khảo sát cho biết việc gắn kết giữa chiến lược Kiểm thử phần mềm với các mục tiêu kinh doanh đã mang lại hiệu quả rõ rệt, đặc biệt trong việc nâng cao tỷ lệ giữ chân khách hàng.
+
+Bên cạnh đó, 61% đội ngũ QA đã ứng dụng các công cụ AI nhằm giảm tải công việc lặp lại song gánh nặng bảo trì vẫn còn rất lớn, trong khi gần 50% chuyên gia được hỏi thừa nhận phải thường xuyên cập nhật tới 30% kịch bản kiểm thử hiện có.
+
+Trong bối cảnh các nhóm phát triển phần mềm đang đẩy mạnh ứng dụng AI để lập trình nhanh hơn, rút ngắn thời gian ra mắt sản phẩm, các phương pháp kiểm thử truyền thống đang trở thành “nút thắt cổ chai”. Nhằm giải quyết vấn đề này, Katalon đã ra mắt hệ thống TrueTest ứng dụng AI-Native tự động học hỏi liên tục từ hành vi người dùng.
+
+Khác với các phương pháp kiểm thử truyền thống vốn dựa trên kịch bản phỏng đoán hoặc yêu cầu sản phẩm, thay vì dựa vào các mô hình được lập trình sẵn dựa trên phỏng đoán, TrueTest quan sát trực tiếp cách khách hàng tương tác với ứng dụng; từ đó, xác định các hành trình người dùng then chốt, có ý nghĩa quan trọng đối với hoạt động kinh doanh.
+
+Điểm mấu chốt là khi ứng dụng thay đổi, TrueTest cũng tự động cập nhật các bài kiểm thử tương ứng, giải phóng đội ngũ kỹ sư khỏi gánh nặng bảo trì thủ công hay chỉnh sửa những tập lệnh phức tạp và dễ phát sinh lỗi.

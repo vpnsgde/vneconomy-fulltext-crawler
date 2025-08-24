@@ -1,0 +1,41 @@
+Đồng hồ thông minh không còn chỉ để nhận thông báo hay xem giờ, mà ngày càng phổ biến với các tính năng theo dõi sức khỏe, giấc ngủ, vận động và đặc biệt là lượng calo bị đốt cháy trong ngày.
+
+Tuy nhiên, các con số có thực sự chính xác? Một thử nghiệm gần đây do trang tin tức của Anh, MailOnline, thực hiện cho thấy phần lớn đồng hồ thông minh đều cho kết quả sai lệch khá lớn khi đo lượng calo tiêu hao.
+
+Trong số bảy thiết bị được đem ra so sánh, chỉ duy nhất Apple Watch 10 cho kết quả gần sát nhất với dữ liệu thực tế trong phòng thí nghiệm với sai số chưa đến 10%.
+
+Thử nghiệm diễn ra tại My Vital Metrics, phòng thí nghiệm thể chất đầu tiên tại London (Anh) cung cấp các dịch vụ đánh giá và đo lường các chỉ số cơ thể. Phòng lab này được trang bị các thiết bị y tế hiện đại có thể đo calo tiêu hao với độ chính xác gần như tuyệt đối.
+
+Theo thử nghiệm, người tham gia được kiểm tra kỹ lưỡng các chỉ số như tỷ lệ trao đổi chất cơ bản, phân tích thành phần cơ thể bằng máy quét Dexa và làm các bài kiểm tra y khoa khác.
+
+Sau đó, người này đạp xe tại chỗ, đồng thời được gắn thiết bị đo nhịp tim chuyên dụng và đeo mặt nạ để đo chỉ số VO2 max – cho biết khả năng sử dụng oxy của cơ thể trong khi vận động. Từ đó, các chuyên gia tính toán được chính xác lượng calo tiêu hao để đối chiếu với kết quả mà từng chiếc đồng hồ ghi lại.
+
+Kết quả cho thấy, hầu hết các thiết bị đều cho số liệu chênh lệch khá lớn, chỉ riêng Apple Watch 10 đạt độ chính xác đủ cao để có thể tin tưởng trong việc theo dõi calo hằng ngày.
+
+Từ các thử nghiệm trên, các chuyên gia đã xác định được lượng calo bị đốt cháy thực tế với độ chính xác cao nhất có thể. Sau đó, họ so sánh kết quả này với dữ liệu thu được từ bảy thiết bị đeo tay đến từ các thương hiệu lớn. Tỷ lệ phần trăm dưới đây cho thấy mức độ chính xác của từng thiết bị (càng gần 100% thì kết quả càng sát với thực tế trong phòng thí nghiệm)
+
+Decathlon CW500 S: 37%
+
+WHOOP 5.0: 66%
+
+Fitbit Charge 6: 72%
+
+Samsung Galaxy Watch Ultra LTE (47mm): 78%
+
+Oura Ring 4: 86%
+
+Apple Watch Series 10: 92%
+
+Garmin Vivoactive 6: 112%
+
+Trong đó, Apple Watch Series 10 cho kết quả gần như chính xác tuyệt đối, chỉ sai lệch nhẹ so với phép đo thực tế. Ở chiều ngược lại, một số thiết bị như Decathlon CW500 S lại có độ sai số rất cao, chỉ đạt 37%. Đáng chú ý, Garmin Vivoactive 6 lại đưa ra con số vượt quá thực tế, tức có xu hướng đánh giá lượng calo bị đốt cháy cao hơn so với mức thật.
+
+Một phần nguyên nhân khiến các đồng hồ đo lường chưa đúng đến từ việc các thiết bị này sử dụng cảm biến và phương pháp thu thập dữ liệu tương đối đơn giản.
+
+Ông Owen Hutchins, người điều hành phòng thí nghiệm My Vital Metrics, nơi thực hiện các thử nghiệm, nhận định: “Thiết bị đeo ngày càng phổ biến vì nhiều người tin rằng nó cung cấp dữ liệu cá nhân hóa. Nhưng đáng tiếc phần lớn chỉ dùng những thuật toán để dự đoán, chứ không thực sự đo lường chính xác các chỉ số cơ thể”.
+
+Cũng cần nói thêm rằng kết quả có thể thay đổi tùy theo từng người dùng. Con số chính xác 92% của Apple Watch 10 chỉ phản ánh kết quả đo được từ một người trong thử nghiệm cụ thể. Nếu thực hiện lại bài test với người khác, dù vẫn là chiếc đồng hồ đó, thì kết quả có thể cao hoặc thấp hơn.
+
+Dù vậy, với người dùng Apple, đây vẫn là một tin đáng mừng vì Apple Watch 10 hiện nằm trong nhóm thiết bị đeo tay có độ chính xác cao nhất khi theo dõi lượng calo tiêu hao.
+
+Một số nghiên cứu khoa học khác cũng chỉ ra rằng Apple Watch 10 được trang bị cảm biến nhịp tim thuộc loại chính xác nhất trên thị trường hiện nay. Do vậy, điều này phần nào lý giải vì sao thiết bị này cho kết quả tốt hơn hẳn.

@@ -1,0 +1,21 @@
+Khi các công ty công nghệ lớn bao gồm Microsoft, Alphabet, Meta và Amazon tăng cường chi tiêu vốn cho trí tuệ nhân tạo (AI), một số nhà đầu tư và chuyên gia đã nêu lên mối lo ngại về việc liệu lợi nhuận tiềm năng từ AI liệu có xứng đáng so với những khoản đầu tư bỏ ra.
+
+Đã có nhiều ý kiến trái chiều về vấn đề này. Những người lạc quan về AI cho rằng những khoản chi đầu tư lớn chắc chắn sẽ mang lại kết quả và nếu không thì chúng cũng trở thành điểm sáng đối với những công ty công nghệ lớn nhất. Các nhà phân tích của Goldman Sachs dự đoán rằng các công ty công nghệ lớn sẽ chi tổng cộng hơn 1.000 tỷ USD cho trí tuệ nhân tạo trong 5 năm tới.
+
+Các nhà phân tích của Capital Group dự báo chi tiêu vốn từ các gã khổng lồ công nghệ Microsoft, Alphabet, Meta và Amazon sẽ đạt tổng cộng 189 tỷ USD vào năm 2024, chiếm hơn 1/5 (21%) tổng chi tiêu vốn của các công ty trên chỉ số S&P 500.
+
+Microsoft, Alphabet, Meta và Amazon đều đã nói với các nhà đầu tư rằng họ kỳ vọng sẽ tăng chi tiêu cho cơ sở hạ tầng AI, đặc biệt là trung tâm dữ liệu để đảm bảo vị thế lâu dài của họ trong không gian AI và đáp ứng nhu cầu điện toán của công nghệ. Việc đầu tư của các công nghệ lớn vào cơ sở hạ tầng AI hiện giúp đảm bảo họ có quyền truy cập vào công nghệ điện toán cần thiết khi công nghệ AI tiến bộ.
+
+Nhà phân tích Eric Sheridan của Goldman Sachs cho biết: “Họ có thể đầu tư vào AI vì họ có nguồn vốn tốt. Các công ty công nghệ lớn có thể chịu chi phí xây dựng các mô hình ngôn ngữ lớn này”.
+
+Các nhà phân tích của Capital Group cho biết: “Doanh thu và thu nhập khổng lồ công ty công nghệ lớn với dòng tiền dồi dào cho phép họ tăng vốn đầu tư một cách đáng kể”, thứ mà họ đang đổ vào AI. Tuy nhiên bất chấp những lời bàn tán rằng AI có thể biến đổi lực lượng lao động và thúc đẩy tăng trưởng kinh tế, các nhà phân tích cảnh báo rằng chi tiêu AI có thể sẽ chưa mang lại tính khả quan trong tương lai gần.
+
+Daron Acemoglu, nhà kinh tế và giáo sư tại Viện Công nghệ Massachusetts: “Với trọng tâm và kiến trúc của công nghệ AI hiện đại ngày nay, những thay đổi thực sự mang tính biến đổi sẽ không xảy ra nhanh chóng và nếu có, ít nhất sẽ xảy ra trong vòng 10 năm tới”.
+
+Acemoglu ước tính rằng 1/4 các “nhiệm vụ tiếp xúc với AI” sẽ có hiệu quả về mặt chi phí khi tự động hóa trong thập kỷ tới, nghĩa là mang lại rất ít lợi ích kinh tế cho dưới 5% nhiệm vụ mà AI có thể tác động. Jim Covello, Giám đốc Nghiên cứu Vốn cổ phần Toàn cầu của Goldman Sachs cho biết: “Công nghệ AI đặc biệt đắt đỏ và để bù đắp cho những chi phí đó, công nghệ này phải có khả năng giải quyết các vấn đề phức tạp tuy nhiên nó vốn dĩ không thể làm được”.
+
+Các nhà phân tích giải thích rằng mặc dù có những lo ngại về khả năng của công nghệ và quy mô chi tiêu của các công ty công nghệ lớn, nhưng các công ty này khó có thể gặp phải những rủi ro đáng kể đối với việc đầu tư vào AI.
+
+Nhà phân tích cổ phiếu Goldman Kash Rangan cho biết: "Chu kỳ AI vẫn còn đang trong giai đoạn xây dựng cơ sở hạ tầng", vì vậy thật hợp lý khi một ứng dụng “sát thủ" có khả năng giải quyết các vấn đề phức tạp vẫn chưa xuất hiện.
+
+Các nhà phân tích của Bernstein cho biết ngay cả khi kết quả chi tiêu cho AI của các công ty công nghệ lớn không như mong đợi, thì rủi ro liên quan đến khoản đầu tư vẫn là rất nhỏ vì các công ty có thể sử dụng sức mạnh tính toán dành cho AI cho các khối lượng công việc khác nếu cần.

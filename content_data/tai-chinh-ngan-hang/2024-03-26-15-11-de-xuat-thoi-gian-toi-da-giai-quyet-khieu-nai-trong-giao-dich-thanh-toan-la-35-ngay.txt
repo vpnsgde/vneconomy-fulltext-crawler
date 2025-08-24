@@ -1,0 +1,33 @@
+Theo dự thảo, quy trình xử lý sai sót và điều chỉnh sai sót, tra soát, khiếu nại trong giao dịch thanh toán được quy định tại Điều 12 Dự thảo Thông tư này và sẽ không quy định tại các thông tư khác liên quan đến hoạt động thanh toán để tiện theo dõi, thực hiện thống nhất.
+
+Theo Khoản 2 Điều 12 Dự thảo, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán quy định cụ thể thời hạn khách hàng sử dụng dịch vụ được quyền đề nghị tra soát, khiếu nại đối với tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán nhưng không ít hơn 60 ngày kể từ ngày phát sinh giao dịch yêu cầu tra soát.
+
+Như vậy, thời gian tối thiểu để khách hàng khiếu nại khi giao dịch thanh toán có sai sót là 60 ngày kể từ ngày phát sinh giao dịch.
+
+
+
+Trường hợp sai sót do lỗi của khách hàng (bên chuyển tiền), tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp với bên chuyển tiền để xử lý lệnh khi chưa chi trả tiền cho bên thụ hưởng và hoàn trả lại tiền cho bên chuyển tiền nếu bên chuyển tiền có yêu cầu.
+
+Điều 12 Dự thảo
+
+Dự thảo Thông tư yêu cầu tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán áp dụng tối thiểu hai hình thức tiếp nhận thông tin tra soát, khiếu nại qua tổng đài điện thoại (có ghi âm) và qua các địa điểm giao dịch của tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán; đảm bảo xác thực những thông tin cơ bản mà khách hàng đã cung cấp cho tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán.
+
+Tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phải ban hành mẫu đề nghị tra soát, khiếu nại (giấy và điện tử) để khách hàng sử dụng khi áp dụng tại các địa điểm giao dịch của tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán hoặc trên kênh trực tuyến.
+
+Trường hợp tiếp nhận thông tin qua tổng đài điện thoại hoặc kênh trực tuyến, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán yêu cầu khách hàng cung cấp các thông tin cần thiết để xác minh nhận dạng khách hàng, có biện pháp lưu trữ thông tin khách hàng  cung cấp làm căn cứ chính thức để xử lý tra soát, khiếu nại. Trường hợp ủy quyền cho người khác đề nghị tra soát, khiếu nại, khách hàng thực hiện theo quy định của pháp luật về ủy quyền.
+
+Dự thảo Thông tư quy định tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán có trách nhiệm trả lời hoặc xử lý kịp thời các thắc mắc, khiếu nại của khách hàng trong thời hạn theo thỏa thuận nhưng không quá 30 ngày kể từ ngày tiếp nhận được yêu cầu khiếu nại của khách hàng sử dụng dịch vụ.
+
+Trong thời hạn tối đa 5 ngày làm việc kể từ ngày thông báo kết quả tra soát, khiếu nại cho khách hàng, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phải chịu trách nhiệm trả tiền cho khách hàng và bồi thường thiệt hại (tối đa không quá số tiền chuyển) nếu do lỗi sai sót của mình gây ra và/hoặc sai sót không thuộc các trường hợp bất khả kháng theo thỏa thuận với khách hàng sử dụng dịch vụ.
+
+Trường hợp sai sót do lỗi của khách hàng (bên chuyển tiền), tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phối hợp với bên chuyển tiền để xử lý lệnh khi chưa chi trả tiền cho bên thụ hưởng và hoàn trả lại tiền cho bên chuyển tiền nếu bên chuyển tiền có yêu cầu.
+
+Như vậy, thời gian tối đa để các ngân hàng, trung gian thanh toán giải quyết khiếu nại của khách hàng là 35 ngày.
+
+Trong trường hợp hết thời hạn giải quyết tra soát, khiếu nại được quy định tại khoản 3 Điều 12 của Thông tư này mà vẫn chưa xác định được nguyên nhân hay lỗi thuộc bên nào thì trong vòng 15 ngày làm việc tiếp theo, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán thỏa thuận với khách hàng về phương án xử lý, nếu không thỏa thuận được phương án xử lý thì việc giải quyết tranh chấp được thực hiện theo quy định của pháp luật.
+
+Trường hợp vụ việc có dấu hiệu tội phạm, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán thực hiện thông báo cho cơ quan nhà nước có thẩm quyền theo quy định của pháp luật về tố tụng hình sự và báo cáo Ngân hàng Nhà nước (Vụ Thanh toán, Ngân hàng Nhà nước chi nhánh tỉnh, thành phố trên địa bàn); đồng thời, thông báo bằng văn bản cho khách hàng về tình trạng xử lý đề nghị tra soát, khiếu nại. Việc xử lý kết quả tra soát, khiếu nại thuộc trách nhiệm giải quyết của cơ quan nhà nước có thẩm quyền.
+
+Trong trường hợp cơ quan nhà nước có thẩm quyền thông báo kết quả giải quyết không có yếu tố tội phạm, trong vòng 15 ngày làm việc kể từ ngày có kết luận của cơ quan nhà nước có thẩm quyền, tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán thỏa thuận với khách hàng về phương án xử lý kết quả tra soát, khiếu nại.
+
+Theo Dự thảo Thông tư,  tổ chức cung ứng dịch vụ thanh toán, tổ chức cung ứng dịch vụ trung gian thanh toán phải có giải pháp để khách hàng có thể tra cứu trực tuyến được thông tin, tiến độ, kết quả xử lý tra soát, khiếu nại.

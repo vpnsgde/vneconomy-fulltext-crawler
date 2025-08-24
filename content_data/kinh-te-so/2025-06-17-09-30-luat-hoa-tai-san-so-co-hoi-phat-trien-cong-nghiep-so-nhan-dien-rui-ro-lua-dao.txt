@@ -1,0 +1,27 @@
+Ngày 16/6, Hiệp hội Blockchain Việt Nam (VBA) và Công ty 1Matrix đã tổ chức tập huấn chuyên đề "Khung pháp lý và nhận diện lừa đảo tài sản mã hoá" tại TP.HCM dành riêng cho hơn 40 phóng viên, nhà báo đến từ các cơ quan báo chí, truyền hình.
+
+Tại buổi tập huấn, ông Phan Đức Trung, Chủ tịch VBA, Chủ tịch Hội đồng quản trị 1Matrix, cho biết luật định tài sản mã hoá tạo điều kiện thuận lợi đối với các doanh nghiệp công nghệ, nhà đầu tư khi liên tiếp trong nửa đầu tháng 6/2025 đã có tới 3 văn bản quan trọng được ban hành.
+
+Gần đây nhất là ngày 14/6/2025, Quốc hội chính thức thông qua Luật Công nghiệp Công nghệ số, có hiệu lực từ 1/1/2026. Đây là văn bản pháp lý đầu tiên tại Việt Nam định nghĩa tài sản mã hoá, tạo hành lang rõ ràng nhằm thúc đẩy đổi mới sáng tạo đồng thời nâng cao hiệu quả quản lý, giám sát và bảo vệ nhà đầu tư.
+
+Trước đó, ngày 12/6/2025, Blockchain được xác định là Công nghệ Chiến lược theo Quyết định 1131/QĐ-TTg của Thủ tướng Chính phủ. Các ứng dụng cụ thể được xác định là sản phẩm công nghệ chiến lược bao gồm: Hạ tầng mạng Blockchain, tài sản số, tiền số, tiền mã hóa và hệ thống truy xuất nguồn gốc.
+
+Ngày 5/6/2025, Bộ Khoa học và Công nghệ cũng công bố 21 bài toán lớn về đổi mới sáng tạo, đặt ra 2 bài toán lớn dành cho blockchain là Xây dựng và triển khai mạng dịch vụ Blockchain Việt Nam và Xây dựng Nền tảng “Blockchain as a Service”.
+
+“Việc hoàn thiện hành lang pháp lý một cách nhanh chóng là tiền đề quan trọng để ngành công nghệ Blockchain, tài sản mã hóa và các dịch vụ liên quan có thể phát triển mạnh mẽ, đưa Việt Nam ghi dấu trên bản đồ công nghệ toàn cầu,” ông Trung nhận định.
+
+Theo TS Đỗ Văn Thuật, Giám đốc Giải pháp và Kiến trúc Blockchain, Công ty 1Matrix, Blockchain đã được nhiều quốc gia lựa chọn là hạ tầng chiến lược và là giải pháp kết nối toàn cầu như Trung Quốc với mạng dịch vụ BSN hay châu Âu với mạng EBSI chia sẻ hạ tầng và dữ liệu công dùng chung cho 29 nước (27 nước EU và 2 quốc gia mở rộng).
+
+Chia sẻ về mạng Blockchain "Make in Việt Nam", ông Thuật cho biết để giải quyết tam giác bất khả thi trong Blockchain, bao gồm: bảo mật, tính phi tập trung và khả năng mở rộng, 1Matrix đã kết hợp nhiều nền tảng công nghệ tiên tiến trên thế giới để tối ưu các ưu điểm hiện có và giảm thiểu nhược điểm khi các mạng hoạt động độc lập. Blockchain Việt Nam sẽ bao gồm nhiều layer Blockchain, cầu nối các chuỗi và các cơ chế đồng thuận ưu tiên khác nhau.
+
+Đi cùng với sự phát triển mạnh mẽ của tài sản mã hoá và công nghệ Blockchain là những thách thức mới trong công tác quản lý do sự phát triển quá nhanh của công nghệ và sự thiếu hụt của khung pháp lý chung toàn cầu về các loại hình lừa đảo mới.
+
+Theo Trung tâm Khiếu nại Tội phạm Internet (IC3 - FBI) của Cục Điều tra Liên bang Mỹ, chỉ riêng năm 2024 đã có tới 150.000 vụ việc lừa đảo liên quan đến tài sản mã hoá với tổng thiệt hại hơn 9,3 tỉ USD, tăng gần 70% so với năm trước. Việt Nam nằm trong nhóm 6 quốc gia có lưu lượng giao dịch gian lận cao nhất toàn cầu.
+
+Ông Trần Huyền Dinh, Chủ nhiệm Chương trình truy vết các dự án có dấu hiệu lừa đảo ChainTracer của VBA, cho biết: Nhiều mô hình lừa đảo hiện nay được tổ chức rất chuyên nghiệp, có website giả lập, tài liệu được sao chép tinh vi, thậm chí đội ngũ sáng lập đều là những cá nhân giả mạo. Người dùng thông thường rất khó phân biệt thật – giả nếu không có sự cảnh báo từ tổ chức độc lập uy tín và sự định hướng thông tin từ báo chí - truyền thông.
+
+Theo ông Dinh, mặc dù các hình thức lừa đảo liên quan đến tài sản mã hoá được nhắc đến nhiều nhưng cách thức cụ thể của từng vụ việc liên tục thay đổi khiến người dân không thể kịp thời cập nhật thông tin và trang bị kiến thức phòng tránh. Các công cụ được tin dùng như TokenSniffer, Dextools, Revoke.cash…
+
+“Báo chí truyền thông chính là kênh truyền tải thông tin rộng rãi, cảnh báo kịp thời để giảm thiểu những vụ việc lừa đảo đáng tiếc, nhất là tại những thời điểm xuất hiện các dự án gọi vốn quy mô lớn vào các nền tảng giao dịch hoặc ứng dụng Blockchain chưa rõ nguồn gốc. Đây cũng là lực lượng chuyển tải thông tin đa chiều giữa người dân, cơ quan quản lý, chuyên gia và các nhà hoạch định chính sách, giúp nâng cao nhận thức xã hội và kiến tạo niềm tin đúng đắn về tài sản mã hoá”, ông Dinh chia sẻ.
+
+Tuy có thể giúp nhận diện rủi ro sớm nhưng không dễ sử dụng với hầu hết người dân. Ngay cả các cơ quan quản lý nhà nước cũng gặp nhiều khó khăn trong quá trình xử lý do độ trễ của quy định pháp luật.

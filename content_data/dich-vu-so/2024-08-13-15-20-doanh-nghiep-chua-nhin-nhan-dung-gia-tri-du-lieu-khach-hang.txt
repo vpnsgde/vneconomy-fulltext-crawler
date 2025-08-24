@@ -1,0 +1,35 @@
+Chỉ trong 6 tháng đầu năm 2024, tổng số các cuộc tấn công ransomware tại Việt Nam đã tăng gấp đôi so với cùng kỳ, các sự cố lộ lọt dữ liệu và hành vi buôn bán chia sẻ dữ liệu lộ lọt gia tăng 22,22%. Bên cạnh đó, theo Công ty An ninh mạng Việt Nam (VSEC), việc buôn bán các dữ liệu cá nhân bị dòng mã độc InfoStealer (phần mềm độc hại được thiết kế để đánh cắp dữ liệu nhạy cảm từ hệ thống bị xâm nhập) đánh cắp cũng gia tăng hơn 1,3 lần.
+
+Các chuyên gia cảnh báo doanh nghiệp dù ở quy mô hay ngành nghề nào cũng đều có nguy cơ đối mặt với các cuộc tấn công dữ liệu và thiệt hại để lại sau các vụ tấn công ngày càng nghiêm trọng.
+
+Trên thực tế, thông tin khách hàng dù không được định giá cụ thể, các chuyên gia khẳng định đây được coi là loại tài sản vô cùng quan trọng đối với tất cả các doanh nghiệp. Bởi vậy, việc bị lộ lọt dữ liệu khách hàng có thể khiến doanh nghiệp phải chịu những thiệt hại tài chính, đồng thời kéo theo nhiều tổn hại khác đối với tổ chức.
+
+Lấy ví dụ về trường hợp doanh nghiệp bị lộ lọt dữ liệu sang công ty đối thủ do chủ quan trong quản lý dữ liệu, gây hậu quả thất thoát doanh thu, luật sư Trần Thanh Tùng, Công ty Luật Global Vietnam Lawyers, cho biết: “Có một công ty từng đến gặp chúng tôi và muốn kiện đối thủ vì nhân viên bán hàng cũ của họ sau khi nghỉ việc đã mang toàn bộ dữ liệu khách hàng sang đối thủ cạnh tranh. Mặc dù đây có thể coi là một hành vi cạnh tranh không lành mạnh, nhưng gốc gác là do doanh nghiệp không bảo vệ được thông tin. Doanh nghiệp vẫn có thể kiện đối thủ cạnh tranh, nhưng để theo đuổi vụ kiện này sẽ mất rất nhiều thời gian và vô cùng khó khăn”.
+
+Để không rơi vào tình huống tương tự, theo ông Tùng, doanh nghiệp cần xem lại cách ứng xử đối với tất cả các loại dữ liệu. “Một trong những giải pháp đơn giản nhất để tăng cường bảo mật dữ liệu cho doanh nghiệp là phân loại các luồng thông tin theo từng phòng ban và mức độ bảo mật. Chỉ cần làm được điều này đã góp phần nâng cao bảo mật dữ liệu cho tổ chức”, ông Tùng chia sẻ.
+
+Bảo vệ dữ liệu luôn là quá trình lâu dài đòi hỏi sự kết hợp của nhiều yếu tố. Tuy nhiên, theo các chuyên gia, nỗ lực này trước hết phải bắt đầu từ tư duy sẵn sàng xây dựng hệ thống kiểm soát thông tin từ sớm của doanh nghiệp thay vì đợi tin tặc tấn công xảy ra thì mới tìm hướng xử lý tổn thất. Ở góc độ của người làm pháp lý, ông Tùng cho rằng những vụ tấn công mặc dù có thể tìm ra thủ phạm để đòi lại công lý, nhưng thiệt hại tài chính cũng như uy tín của doanh nghiệp gần như không thể bù đắp.
+
+“Những tổ chức có tư duy bảo vệ dữ liệu, thiết kế hệ thống bảo mật cũng như đào tạo nhân sự từ sớm sẽ khiến cho hệ thống dữ liệu của họ kiện toàn về mặt an toàn thông tin xác suất họ bị tấn công vẫn có nhưng chắc chắn sẽ giảm đi đáng kể”, ông Trương Đức Lượng, Chủ tịch VSEC, lưu ý.
+
+Luật An ninh mạng và Nghị định 13/2023/NĐ-CP cho thấy Chính phủ Việt Nam đang rất quan tâm đến việc bảo vệ dữ liệu người dùng. Tuy nhiên, các doanh nghiệp thực thi có đảm bảo an toàn thông tin khách hàng hay chưa là một chuyện khác.
+
+Luật sư Trần Thanh Tùng khẳng định: thông tin của khách hàng là một loại tài sản vô hình nhưng nó có khả năng sinh ra tiền. Tuy nhiên, tại Việt Nam, dữ liệu của khách hàng vẫn chưa được doanh nghiệp nhìn nhận đúng với giá trị. Về phía người dùng, họ cũng chưa có ý thức bảo vệ dữ liệu cá nhân, dễ dàng cung cấp trong quá trình chuyển giao, trao đổi phục vụ hoạt động kinh doanh...
+
+Ông Trương Đức Lượng cho biết: “Nhìn chung, dữ liệu cá nhân khách hàng tại Việt Nam tương đối rẻ. Các doanh nghiệp dễ dàng có được thông tin của khách hàng và người dùng cũng không có quyền lựa chọn trong việc tiết lộ thông tin, vì nếu không cung cấp thì họ không thể sử dụng dịch vụ họ cần”.
+
+Theo các chuyên gia, các doanh nghiệp mặc dù luôn muốn thu thập dữ liệu người dùng để khai thác hành vi, thói quen nhằm phục vụ cho việc kinh doanh của họ, nhưng thực tế cho thấy khi có được thông tin, các doanh nghiệp gần như không có trách nhiệm trong việc bảo vệ hay giữ an toàn dữ liệu khách hàng của họ. “Họ coi đó như một loại tài sản được nhận miễn phí, vì vậy họ không có thái độ bảo vệ tốt”, ông Lượng cho biết.
+
+Trong khi đó, tại các nước Âu – Mỹ, nếu dữ liệu khách hàng không được bảo mật theo quy định, doanh nghiệp có thể chịu mức phạt lên đến hàng triệu USD và mức phạt có thể cao hơn tùy thuộc vào mức độ vi phạm. Ông Lượng lấy ví dụ: Google từng phải bồi thường cho người dùng tại Mỹ của họ 80 USD vì vi phạm an toàn an ninh mạng gây ảnh hưởng đến dữ liệu người dùng. Nếu doanh nghiệp nhận thức được trách nhiệm pháp lý của họ đối với thông tin khách hàng và khách hàng nhận thức được giá trị thông tin cá nhân của chính họ, dữ liệu tại Việt Nam sẽ được bảo vệ tốt hơn nhiều.
+
+Tại các chợ đen, dữ liệu cá nhân hiện đang được mua bán sôi động và có mức giá không hề thấp. Đối với mỗi thông tin hộ chiếu, mức giá được giao bán có thể lên đến 1.000 – 2.000 USD trên các chợ đen, hay các dữ liệu về sức khỏe cá nhân cũng được chào bán lên đến 1.000 USD... Điều quan trọng là khi các dữ liệu cá nhân đã lọt vào tay tin tặc, việc lấy lại hay xóa bỏ dữ liệu là điều gần như không thể và thông tin cá nhân sẽ còn được tội phạm tiếp tục tận dụng để sử dụng cho nhiều mục đích xấu khác.
+
+Trong số các nhóm ngành thường xuyên bị tin tặc nhắm đến, các tổ chức trong ngành BFSI (ngân hàng – dịch vụ tài chính – bảo hiểm) luôn được xem là những “miếng mồi béo bở” đối với tin tặc. Điều này, theo Chủ tịch VSEC Trương Đức Lượng, xuất phát từ nhiều lý do.
+
+Thứ nhất, tài chính vẫn luôn là động cơ quan trọng nhất khi tin tặc thực hiện tấn công. Điều này cũng sẽ định hình mục tiêu tấn công của tin tặc vào các ngân hàng, chứng khoán hay bảo hiểm, công ty fintech vì họ dồi dào về tài chính.
+
+Thứ hai, dữ liệu của các tổ chức cung cấp dịch vụ tài chính mang tính đặc thù quan trọng nên khi tin tặc tấn công thành công, xác suất để các doanh nghiệp chấp nhận bỏ tiền chuộc dữ liệu sẽ khả thi hơn rất nhiều so với tấn công doanh nghiệp ở các lĩnh vực khác. Đây là điều đã được thực tế chứng minh và xu hướng vẫn luôn như vậy...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 33-2024 phát hành ngày 12/08/2024. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

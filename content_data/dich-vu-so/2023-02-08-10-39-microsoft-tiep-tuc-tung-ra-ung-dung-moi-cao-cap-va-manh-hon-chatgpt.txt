@@ -1,0 +1,34 @@
+Giữa cơn sốt ChatGPT còn đang “sôi sục” trên toàn cầu cũng như ở Việt Nam, ngày 8/2/2023, Microsoft tiếp tục tung ra ứng dụng công cụ tìm kiếm Bing và trình duyệt Edge hoàn toàn mới, được hỗ trợ bởi công nghệ AI, mới cao cấp hơn ChatGPT.
+
+Theo Microsoft, với công cụ mới này, người dùng sẽ được trải nghiệm những khả năng tìm kiếm tốt hơn, nhận được các câu trả lời đầy đủ hơn, cũng như trải nghiệm trò chuyện và có khả năng tạo nội dung hoàn toàn mới. Đây được coi là một công cụ mới hỗ trợ AI cho web, kết hợp tìm kiếm, trình duyệt web và trò chuyện thành một trải nghiệm hợp nhất mà người dùng có thể sử dụng từ bất kỳ đâu trên web.
+
+
+
+Theo đó, công cụ Bing mới cung cấp cho người dùng một phiên bản cải tiến hơn của những trải nghiệm tìm kiếm quen thuộc. Nó cung cấp các kết quả phù hợp hơn cho những tìm kiếm đơn giản như tỷ số thể thao, giá cổ phiếu hay thời tiết, cùng với một thanh “sidebar” mới hiển thị các câu trả lời toàn diện hơn nếu người dùng mong muốn.
+
+Nó cũng xem xét các kết quả từ khắp nơi trên web để tìm và tóm tắt câu trả lời mà người dùng đang tìm kiếm để có câu trả lời hoàn chỉnh. Ví dụ: người dùng có thể nhận được hướng dẫn chi tiết về cách thay thế trứng bằng một thành phần khác trong chiếc bánh mà họ đang nướng ngay tại thời điểm đó mà không cần phải tìm kiếm qua nhiều kết quả khác nhau.
+
+Đối với các tìm kiếm phức tạp hơn, như lập kế hoạch hành trình chuyến đi chi tiết hoặc nghiên cứu xem nên mua loại tivi nào, công cụ mới này sẽ cung cấp tính năng trò chuyện tương tác để người dùng có thể tinh chỉnh việc tìm kiếm của mình cho đến khi nhận được câu trả lời hoàn chỉnh mà họ đang tìm kiếm bằng cách hỏi thêm một cách chi tiết hơn và rõ ràng hơn với các liên kết có sẵn để người dùng có thể thực hiện ngay các quyết định của mình.
+
+Khi người dùng cần nhiều hơn một câu trả lời, công cụ mới có thể làm được điều này, có thể giúp người dùng viết email, chuẩn bị cho cuộc phỏng vấn xin việc, tạo các câu hỏi đố vui cho một buổi tiệc tối hoặc lên kế hoạch hành trình 5 ngày cho kỳ nghỉ với các liên kết để đặt chỗ cho chuyến đi và chỗ ở.
+
+Điều đặc biệt nó trích dẫn tất cả các nguồn của nó, vì vậy người dùng hoàn toàn có thể thấy các liên kết đến nội dung web mà nó tham chiếu.
+
+Ngoài ra, trình duyệt Edge mới  với các khả năng AI mới và hai chức năng mới là: trò chuyện và soạn thảo. Với thanh “sidebar”, người dùng có thể yêu cầu tóm tắt một báo cáo tài chính dài để nắm được những điểm chính, sau đó sử dụng chức năng trò chuyện để yêu cầu so sánh với báo cáo tài chính của một công ty tương tự khác và tự động đưa báo cáo đó vào một bảng biểu.
+
+Người dùng cũng có thể yêu cầu Edge giúp soạn nội dung, chẳng hạn như bài đăng trên LinkedIn, từ đó người dùng có thể bắt đầu một cách dễ dàng. Ngoài ra, người dùng còn có thể yêu cầu Edge giúp họ tinh chỉnh giọng điệu, định dạng và độ dài của bài đăng. Edge có thể hiểu trang web mà người dùng đang truy cập và điều chỉnh cho phù hợp.
+
+Các chuyên gia Microsoft cho biết, Bing mới đang chạy trên mô hình ngôn ngữ lớn OpenAI thế hệ mới, mạnh hơn ChatGPT và được tùy chỉnh đặc biệt cho khả năng tìm kiếm. Nó sử dụng những kiến thức và cải tiến quan trọng từ ChatGPT và GPT-3.5, thậm chí còn nhanh hơn, chính xác hơn và có nhiều khả năng hơn.
+
+Hãng này đã phát triển một cách làm việc độc quyền với mô hình OpenAI cho phép tận dụng tốt nhất sức mạnh của nó (mô hình Prometheus). Sự kết hợp này mang lại cho người dùng các kết quả phù hợp, kịp thời và chính xác hơn, với mức độ an toàn tốt hơn.
+
+Với việc áp dụng AI vào thuật toán tìm kiếm cốt lõi, ngay cả các truy vấn tìm kiếm cơ bản cũng chính xác hơn và phù hợp hơn…
+
+Với sự kết hợp đưa ra những công nghệ mới đột phá này, đại diện Micorosoft cho hay đang cùng với OpenAI thực hiện các biện pháp bảo vệ để chống lại các nội dung có hại, giải quyết các vấn đề như thông tin sai lệch, chặn nội dung, an toàn dữ liệu và ngăn chặn việc quảng bá nội dung có hại hoặc phân biệt đối xử theo các nguyên tắc AI, để phát triển các phương pháp mới nhằm giảm thiểu tối đa các rủi ro.
+
+Cơn sốt ChatGPT đã và đang thu hút sự quan tâm của công chúng cũng như sự vào cuộc các ông lớn công nghệ toàn cầu. Mới đây, Google ra chatbot AI có tên Bard cạnh tranh với ChatGPT. Google cho biết công cụ sẽ được mở cho "một nhóm người thử nghiệm tin cậy", sau đó sẽ ra mắt công chúng trong vài tuần tới. Người dùng có thể hỏi Bard để nhận về các câu trả lời chi tiết, như gợi ý nấu món gì cho bữa trưa, lên kế hoạch cho một buổi đi chơi.
+
+Hãng này cho biết sẽ kết hợp đánh giá bên ngoài và thử nghiệm nội bộ nhằm đảm bảo phản hồi của Bard đáp ứng tiêu chuẩn cao về chất lượng, độ an toàn và tính có căn cứ của thông tin trong thế giới thực.
+
+Trong khi đó, hãng dịch vụ tìm kiếm Baidu (Trung Quốc) sẽ hoàn thành thử nghiệm nội bộ công cụ Ernie Bot trong tháng 3. Ernie Bot là chatbot AI hoạt động tương tự ChatGPT và Bard. Baidu dự kiến triển khai AI này dưới dạng ứng dụng độc lập, sau đó dần hợp nhất vào dịch vụ tìm kiếm của mình.
+

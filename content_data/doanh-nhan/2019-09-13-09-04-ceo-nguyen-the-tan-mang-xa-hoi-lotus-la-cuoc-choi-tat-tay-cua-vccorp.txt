@@ -1,0 +1,109 @@
+CEO Nguyễn Thế Tân: "Mạng xã hội Lotus là cuộc chơi tất tay của VCCorp"
+
+$(document).ready(function() {
+            new WOW().init();
+        })
+
+Ông Nguyễn Thế Tân, Tổng giám đốc Công ty Cổ phần VCCorp (đơn vị phát triển mạng xã hội Lotus) chia sẻ với VnEconomy như vậy trong câu chuyện “Cà phê cuối tuần”, ở thời điểm ít ngày nữa VCCorp sẽ chính thức ra mắt mạng xã hội Lotus.
+
+Vì sao VCCorp (VC) lại quyết định làm mạng xã hội thời điểm này khi mà trên thị trường đang tồn tại và “chế ngự” bởi những “ông lớn” công nghệ trong nước và đặc biệt là nước ngoài?
+
+Thời điểm này chính là lúc có bài toán lớn và có thể tạo ra sản phẩm hay. Bài toán lớn là như thế nào? Đó là khi mình dùng cái app, một người sử dụng cái app đó, mở app, thấy hay người ta sẽ dùng đi dùng lại nhiều lần. Nếu trong một ngày người ta mở ra thấy nhiều cái hay thì sẽ mở đi mở lại nhiều lần.
+
+Có rất nhiều kiểu app khác nhau, kiểu mở ra để mua hàng, kiểu xem phim, có kiểu mở ra để xem nhịp đập xã hội xung quanh...
+
+Nội dung trên mạng hiện nay đã hay chưa, tôi thấy chưa hay lắm, vẫn có thể làm cho nó hay hơn. Đặc trưng quan trọng nhất, một nội dung hay phải được làm ra một cách chuyên nghiệp, phải bỏ công, bỏ sức, cầu kỳ. Cho nên cần tạo ra đầu ra cho nội dung chuyên nghiệp nhưng lại ít mất công sức nhất.
+
+Khi có nội dung chuyên nghiệp hơn ở các chỗ khác thì người ta cứ mở ra thấy cái hay sẽ vào lại. Vì thế VC mới xác định hướng tạo ra nguyên lý của sản phẩm là sản phẩm phải có nội dung hay và xác định nội dung là “vua”, và hay bằng cách có nội dung chuyên nghiệp, nội dung chất lượng cao. Có nội dung chuyên nghiệp bằng cách mình hỗ trợ và tạo điều kiện cho những người sản xuất nội dung chuyên nghiệp tạo ra nó.
+
+Để tạo ra nội dung chuyên nghiệp này có nhiều hướng, ví dụ như mua bản quyền bóng đá Anh mình phát…, nhưng có hướng rất hay là mình tạo điều kiện cho toàn xã hội đóng góp nội dung chuyên nghiệp lên nền tảng, lên app này, sau đó mình tìm cách phân phối các nội dung hay đó đến với những người yêu thích nội dung đấy. Vì vậy, cơ sở Lotus là mạng xã hội bởi vì người dùng đóng góp lên chứ không phải Lotus đứng ra làm.
+
+Nhưng đã có thông tin VC làm mạng xã hội này là theo đơn đặt hàng?
+
+Không. Cái này thuần túy xuất phát từ việc VC thấy rằng có một vấn đề trên môi trường hiện nay là thiếu nội dung hay và thiếu nội dung hay thì mình tạo ra một cái app
+
+Nhưng đầu tư hàng trăm tỷ đồng và sự góp vốn, tài trợ hàng trăm tỷ đồng của các nhà đầu tư trong nước, hẳn VC phải nhìn thấy cơ hội lớn lắm cho mạng xã hội Lotus?
+
+Thì mình thấy thiếu nội dung hay cho nên nếu mạng xã hội của mình làm được nguyên tắc là có rất nhiều nội dung hay thì hầu như tất cả người dùng sử dụng điện thoại, máy tính ở Việt Nam đều trở thành người sử dụng của Lotus. Khi nội dung hay, một ngày người ta có thể mở đi mở lại nhiều lần, khi đó mình sẽ có một app có lượng sử dụng rất lớn. Tôi cho rằng nếu đạt được điều đó thì sẽ không thua kém các app (mạng xã hội) khác.
+
+Nhưng nếu thử so sánh những tính năng khác biệt, hơn hẳn so với các mạng xã hội nổi tiếng khác hiện nay như Facebook, Youtube, chủ quan của ông là những điểm gì?
+
+Có hai yếu tố quan trọng nhất. Thứ nhất là tính năng để có được nội dung hay vì mình tạo điều kiện cho nhà sản xuất nội dung tạo ra nội dung hay thì nội dung của mình hay hơn người ta.
+
+Tính năng quan trọng thứ hai là nguyên tắc kết nối xoay quanh nội dung. Như tôi quan tâm đến điện năng lượng mặt trời thì tôi sẽ kết nối, theo đuổi đến nguồn thông tin nói nhiều về năng lượng mặt trời. Và máy chọn tin của Lotus sẽ biết là anh quan tâm thông tin đó sẽ đưa thông tin đó cho anh nhiều hơn.
+
+Ngoài ra, ngoài news feed, nó còn có kết cấu khác như bản tin kết cấu thư mục cho phép gom những nguồn tin rất chuyên sâu mà mình quan tâm. Bình thường các nguồn tin chuyên sâu rất ít, rải rác rất khó tiếp cận với mình, nên mình có thể gom nguồn tin chuyên sâu về với mình, lúc cần thì lại mở ra để kiểm tra.
+
+Xác định nội dung là “vua”, trong đó có hợp tác với rất nhiều cơ quan báo chí để đăng tải nội dung, hay nội dung chính thống và chuyên nghiệp đến từ nhiều đối tượng khác như các KOL, Blogger, giới nghệ sĩ… Nhiều quan điểm cho rằng, Lotus đâu đó đang định hướng thành một “siêu tờ báo”?
+
+Không. Nó là “siêu nội dung”, trong đó có rất nhiều nguồn.
+
+Khi Lotus mới ra, người dùng mở app ra thấy trắng trơn thì sẽ bỏ đi ngay. Do vậy, giai đoạn đầu mình kết nối với nguồn nội dung hay, phổ biến đã. Còn về lâu dài mình xác định người tạo nội dung trên Lotus gồm rất nhiều đối tượng khác nhau, đó là các nguồn tin chính thống, đơn vị giải trí, là sao, KOL…, đồng thời cũng chính là các Blogger, người có chuyên môn.
+
+Chúng tôi xác định mỗi người là một “nghệ nhân”. Một số chuyên gia trong lĩnh vực hình ảnh chẳng hạn, hầu như họ không thể đưa thông tin của họ lên mạng xã hội được, vì khi đưa lên thì người quan tâm là bạn bè, không phải cùng chuyên ngành, cho nên thông tin của họ rất ít like, share, tương tác các luồng thông tin của người khác. Nhưng trên Lotus thì họ sẽ dễ dàng truyền tải thông tin một cách đa dạng tới người đọc.
+
+Thế nên thông tin ở đây vẫn mang tính chất là toàn xã hội, như các mạng xã hội khác. Chỉ có giai đoạn ra mắt thì sẽ thấy trên Lotus những cái tên nổi tiếng.
+
+Nói chung về lâu dài, đã là mạng xã hội thì phần lớn nội dung phải do người dùng bình thường tạo ra. Có lẽ phải trên 95% về mặt số lượng, nhưng về mặt "được xem" thì các nguồn chính thống, chuyên nghiệp sẽ chiếm ít nhất 40%.
+
+Nhưng những nội dung có tính chính thống như vậy, cảm giác nội dung trên mạng xã hội Lotus là có định hướng?
+
+Định hướng hay không là do người dùng. Mình có thông tin từ người ở trong xã hội, chuyên gia trong xã hội, nguồn chính thống, tất cả các nguồn đấy họ đều đưa thông tin lên mạng xã hội, còn người dùng họ quan tâm tới mảng nào, quan tâm tới nguồn nào thì thông tin sẽ đến với họ nhiều.
+
+Chứ mình không thể nói một mạng xã hội không tồn tại các cơ quan chính thống, thế thì không gọi là mạng xã hội nữa. Mạng xã hội trừ những cơ quan chính thống à?
+
+Hiện nay, mạng xã hội của Việt Nam vẫn đang chịu những quy định quản lý chặt chẽ, trái ngược hẳn với các mạng xã hội nước ngoài tại đây, ông có nghĩ điều này là bất lợi cho Lotus?
+
+Tôi có nghe đài, đọc báo, tham gia các hội thảo gần đây thì không thấy có chủ trương quản lý chặt các mạng xã hội trong nước hay mọi người vẫn nói là bảo hộ ngược, thậm chí chủ trương cần phải tháo gỡ bảo hộ ngược rất rõ từ rất nhiều cấp qua các bài phát biểu, hay các bài báo mà tôi đọc được.
+
+Còn khi tiếp xúc với lãnh đạo ở mức tầm trung tôi không thấy tinh thần bảo hộ ngược mà là tinh thần tìm cách hỗ trợ mạng của Việt Nam. Tuy nhiên, người ta làm thì vẫn phải theo pháp lý, vẫn phải có những quy định, chỉ có điều những quy định này được ban hành cách đây hàng chục năm rồi. Nếu theo quy định đấy, theo cách hiểu cũ thì rất khó làm.
+
+Nhưng bây giờ bản thân những quy định đấy đã có cách hiểu mới là cởi mở hơn, dễ đi rất nhiều. Đồng thời gần đây tôi còn thấy rằng các cơ quan nhà nước lấy góp ý và sửa đổi quy định đấy, thậm chí bắt đầu mở ra những cái mới sandbox, đặc khu ảo thì nó tạo điều kiện cho mình tham gia làm những cái mới mà không lo ngại bị vướng. Còn mình phải thuyết phục dần thôi. Thấy mình làm tốt, hữu ích thì người ta sẽ tin tưởng.
+
+Định hướng của Lotus là thu hút từ các đối tượng khác nhau, trong đó có báo chí và phóng viên. Giả dụ một phóng viên nào đó, bằng quan hệ riêng có mình, có được thông tin hay văn bản nhạy cảm, sau đó đưa thông tin này lên Lotus, vậy ở đây về mặt pháp lý, Lotus có chịu trách nhiệm cho nội dung mà phóng viên đó đưa?
+
+Các pháp lý như thế nào thì do cơ quan nhà nước quyết định. Lotus chỉ là mạng xã hội thôi, nó không làm thay việc bảo là cái gì sai, cái gì đúng cả, hay là văn bản có xác thực hay không. Nếu cơ quan quản lý, tòa án bảo cái này là vi phạm pháp luật, anh phải gỡ đi, thì tất nhiên theo lệnh thì mình phải thực hiện. Còn nếu cơ quan nhà nước khẳng định cái này là sai, bị phạt thì họ làm việc với cá nhân đấy để xử lý.
+
+Tóm lại Lotus không phải là quan tòa, không có quyền gì để can thiệp, đó là giữa cơ quan nhà nước và người dân. Còn mình làm thì sẽ theo pháp lý và tuân thủ theo luật của Việt Nam.
+
+Nghĩa là các cá nhân đưa thông tin lên phải tự chịu trách nhiệm pháp lý với thông tin đó?
+
+Lotus không thể bảo vệ pháp lý thông tin của người khác được, họ phải tự chịu trách nhiệm. Nhưng có những thông tin vi phạm pháp luật một cách rõ ràng thì mình phải có hệ thống để ngăn chặn, như bán súng chẳng hạn… Chúng tôi có hệ thống tìm cách để ngăn chặn chứ không thể nói không chịu trách nhiệm cứ để nó lan tràn được, trừ phi nó bất khả kháng không thể nào tìm ra được là chuyện khác.
+
+Còn về mặt nguyên tắc, những cái rõ ràng 100% ai nhìn cũng biết là vi phạm pháp luật thì mình phải thực hiện.
+
+VC đã có 700 tỷ đồng và đang có kế hoạch huy động thêm 500 tỷ đồng nữa. Vậy tổng số tiền này sẽ giúp công ty duy trì hoạt động cho Lotus trong bao nhiêu năm?
+
+Số đấy được khoảng 2-3 năm nếu không có doanh thu. Nhưng thực tế, nếu mình có 3-4 triệu user sử dụng thường xuyên thì một năm cũng có doanh thu được một vài trăm tỷ, nó là trong tầm tay.
+
+Khi đạt 3-4 triệu user sử dụng thường xuyên thì chắc chắn đạt được hòa vốn. Vượt qua số đấy thì mình sẽ có nguồn lực để đầu tư tiếp.
+
+Với nguồn vốn đầu tư rất lớn như trên, cảm giác như VC đang “dùng tiền” để “thúc” Lotus phát triển?
+
+Nó là vốn dự phòng thôi. Hiện tại là có 700 tỷ đồng và chúng tôi đang huy động thêm 500 tỷ đồng nữa.
+
+Vốn to dùng cho mấy việc. Một là để mình duy trì kéo dài, hai là khi làm thì thấy tốt mình đầu tư mở rộng, làm thêm app thứ hai, thứ ba. Lúc mở rộng, nguồn vốn phải sẵn sàng chứ cơ hội đến mới chạy đi gọi tiền thì… xong. Tốt nhất là cầm sẵn nguồn tiền thật to ở trong tay, tiêu phải thật tiết kiệm, thật cẩn thận, không đốt phá, không một lúc là hết ngay.
+
+Mình cầm một nguồn tiền to trong tay thì rất chủ động, tiến cũng được, lùi, rẽ cũng được. Hay đột nhiên bên cạnh Lotus mình làm thêm hai ba app nữa cũng được, thì dùng cho việc đấy.
+
+Rồi “đánh nhau” nữa. Mình phải hình dung là phải cạnh tranh với những bên mà họ có hàng nghìn tỷ đang hiện hữu, họ cũng sẵn sàng bỏ cả nghìn tỷ xuống để cạnh tranh với mình. Lúc đấy mình không có vốn là gặp khó ngay.
+
+Nên nguồn tiền đấy không có nghĩa là mang ra “đốt” mà là tôi có kho dự phòng cực kỳ lớn để lúc cần có thể xông pha và chiến đấu.
+
+Còn số 500 tỷ đồng gọi thêm thì cũng có một số nhà đầu tư đặt vấn đề góp vốn nhưng chúng tôi đang đàm phán.
+
+Có những mạng xã hội trong nước đã từng đạt tới cả chục triệu thuê bao nhưng chưa có lãi, trong khi VC tính toán đã bắt đầu có lãi, như thế có quá tự tin không, thưa ông?
+
+Không có gì là tự tin cả. Đây là bài toán kinh doanh quảng cáo ở trên nội dung. Với một app khoảng 3-4 triệu người dùng thường xuyên thì dăm vài trăm tỷ một năm là chuyện rất đơn giản với chúng tôi. Tôi chỉ cần có lượng user trên là chắc chắn có lượng doanh thu như vậy, vì hiện tại chúng tôi đang kinh doanh mạng quảng cáo rồi. Có đội ngũ 800 người liên quan đến kinh doanh quảng cáo, giờ chỉ thiếu hàng để bán chứ không thiếu khách để mua (cười).
+
+Còn nếu đạt 20 triệu user thì nguồn thu có được sẽ rất khủng khiếp.
+
+Ông có nói đây là “cuộc chơi tất tay” nhưng chắc là không đến mức ảnh hưởng suy tồn của công ty?
+
+Tất nhiên là sẽ không ảnh hưởng tới sự suy tồn, bởi vậy mình mới phải cân đối, phải gọi vốn để đủ sức làm. Còn mình làm có thể thành công rất lớn, có thể thất bại.
+
+Tại sao VC chưa định ngày công bố nhà đầu tư trong nước rót vốn vào dự án này trong khi dư luận đã đồn đoán về tên tuổi của những nhà đầu tư này rồi?
+
+Vì bây giờ vẫn tiếp tục gọi vốn, và mình có rất nhiều bên góp vốn. Mỗi bên góp một lượng bao nhiều thì rất khác nhau, mình không thể nào đi công bố anh này bao nhiêu tiền, anh kia bao nhiều tiền… nó làm cho câu chuyện lệch hướng khỏi sản phẩm. Cái trọng tâm nhất bây giờ là phải tạo ra sản phẩm hay chứ không phải “ông” góp vốn của mình là ai, tất nhiên, mọi người tò mò muốn biết cái nọ cái kia.
+
+Nhưng mình có thể khẳng định vốn là của người Việt Nam đến thời điểm này. Sau đấy thì có thể gọi thêm từ nhà đầu tư khác, và cũng có thể từ nhà đầu tư nước ngoài nhưng theo tỷ lệ nhất định. Dù gì người làm chủ cuộc chơi vẫn là mình.

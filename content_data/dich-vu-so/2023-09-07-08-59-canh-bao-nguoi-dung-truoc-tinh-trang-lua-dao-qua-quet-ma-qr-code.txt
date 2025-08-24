@@ -1,0 +1,27 @@
+Tại buổi họp báo thường kỳ chiều ngày 6/9, Bộ Thông tin và Truyền thông cho biết, bên cạnh tình trạng mã QR thanh toán tại các cửa hàng bị dán đè khiến tiền chuyển về tài khoản kẻ gian, trong thời gian vừa qua, hiện tượng mã QR độc hại bị phát tán dễ dàng trong các bài viết, hình ảnh thông qua các ứng dụng nhắn tin, diễn đàn, hội nhóm trên mạng xã hội, đặc biệt là trong các chương trình phát sóng trực tiếp (livestream). Khi người xem quét mã sẽ bị chuyển hướng đến các trang quảng cáo cờ bạc kèm mã độc có thể bị cài đặt vào điện thoại.
+
+Chia sẻ vấn đề này, ông Nguyễn Duy Khiêm, đại diện Cục An toàn thông tin, Bộ Thông tin và Truyền thông nhận định, mã QR đã và đang ngày càng phổ biến khắp mọi nơi, không chỉ ở Việt Nam mà ở nhiều nước trên thế giới.
+
+Đặc biệt, từ sau đại dịch Covid-19 diễn ra, nhu cầu sử dụng mã QR tăng lên nhanh chóng. Phương thức thanh toán sử dụng mã QR đang ngày càng quen thuộc và phổ biến với nhiều người dùng Việt Nam.
+
+Theo số liệu thống kê của Vụ Thanh toán, Ngân hàng Nhà nước, mã QR có tốc độ tăng trưởng mạnh mẽ cả về số lượng và giá trị. Trong năm 2022, thanh toán qua mã QR tăng hơn 225% về số lượng và trên 243% về giá trị.
+
+Còn trong 5 tháng đầu 2023, thanh toán qua phương thức quét mã QR tăng 151,14% về số lượng và 30,41% về giá trị so với cùng kỳ năm ngoái.
+
+Tuy nhiên, đi cùng với sự phát triển và phổ biến của phương thức thanh toán sử dụng mã QR, tình trạng lừa đảo bằng mã QR cũng được ghi nhận tăng mạnh trên thế giới, thậm chí đã xuất hiện cả ở Việt Nam trong thời gian qua.
+
+Thậm chí, một thủ đoạn mới gần đây được người dùng phản ánh khi kẻ gian lợi dụng sơ hở bằng cách cho in mã QR có tài khoản ngân hàng của đối tượng này, sau đó dán đè lên mã QR của cửa hàng, nhà hàng hoặc điểm thanh toán khác....
+
+Tại Việt Nam, vào đầu tháng 8 vừa qua, một số ngân hàng đã phát cảnh báo tình trạng lừa đảo thẻ tín dụng thông qua mã QR. Theo đó, thủ đoạn mà kẻ gian thường thực hiện đó là sau khi kết bạn qua mạng xã hội để trao đổi với nạn nhân sẽ gửi mã QR để người dùng quét. Mã này dẫn tới các website giả mạo ngân hàng, trong đó yêu cầu người dùng nhập thông tin như họ tên, số căn cước công dân, tài khoản, mã bí mật hoặc OTP. Từ đó, người dùng bị chiếm tài khoản.
+
+So với đường link độc hại truyền thống, mã QR có lợi thế là có thể chèn trực tiếp vào email, tin nhắn mà không bị các bộ lọc chặn lại, từ đó dễ dàng tiếp cận người dùng.
+
+Mặc dù trên thực tế, bản chất QR Code không phải mã độc tấn công trực tiếp mà chỉ là trung gian để truyền tải nội dung. Do đó, việc người dùng có bị tấn công hay không phụ thuộc vào cách xử lý nội dung sau khi quét mã QR Code, đại diện Cục An toàn thông tin phân tích.
+
+Để không bị dính lừa đảo thông qua hình thức này, các chuyên gia khuyến cáo người dùng cần thận trọng trước khi quét mã QR Code, đặc biệt cảnh giác với các mã QR được dán hoặc chia sẻ ở những nơi công cộng hoặc gửi qua mạng xã hội, email.
+
+Người dùng cũng cần xác định và kiểm tra kỹ càng thông tin tài khoản người trao đổi mã QR; xem xét kỹ nội dung trang web mà mã QR đưa tới; kiểm tra đường link xem có bắt đầu với “https” và có phải tên miền quen thuộc hay không.
+
+Đặc biệt các chuyên gia an ninh mạng cũng lưu ý người dùng tuyệt đối không cung cấp các thông tin cá nhân như tài khoản đăng nhập ngân hàng, tài khoản mạng xã hội. Sử dụng trình quản lý mật khẩu, xác thực 2 yếu tố và các phương thức bảo vệ khác cho tài khoản.
+
+Với các cơ quan, đơn vị, tổ chức cung cấp mã QR, đại diện Cục An toàn thông tin đề nghị trong các hoạt động cần chú ý có cảnh báo tuyên truyền đến người dùng, ví dụ như các ngân hàng thời gian vừa qua cảnh báo đến khách hàng. Bên cạnh đó, kịp thời đưa ra giải pháp xác minh giao dịch có dấu hiệu bất thường; thường xuyên kiểm tra các mã QR được dán tại địa điểm cung cấp.

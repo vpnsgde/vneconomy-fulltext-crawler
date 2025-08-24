@@ -1,0 +1,15 @@
+Đại diện Meta cho biết thời gian tới sẽ siết chặt giảm thiểu nội dung spam, tạo điều kiện cho nhà sáng tạo chân chính tiếp cận khán giả tiềm năng và phát triển lâu dài trên Facebook.
+
+Theo đó, Facebook cho biết sẽ ưu tiên hiển thị nội dung từ các tài khoản đăng tải nội dung độc đáo, xây dựng tương tác thực chất với cộng đồng, đồng thời giảm mức độ lan tỏa của những nội dung bị đánh giá là spam. Cụ thể, những bài viết sử dụng chú thích dài dòng, gượng ép hoặc chứa quá nhiều hashtag, cũng như các bình luận không liên quan, sẽ bị hạn chế xuất hiện trên Bảng tin của những người chưa theo dõi tài khoản.
+
+Ngoài ra, mạng xã hội này cũng lên kế hoạch xử lý các mạng lưới chia sẻ nội dung hàng loạt, thường bao gồm hàng trăm tài khoản đăng tải cùng một nội dung khiến Bảng tin trở nên lộn xộn. Các tài khoản tham gia những mạng lưới này có thể bị hạn chế khả năng tiếp cận và tạo doanh thu.
+
+Song song đó, Facebook thông tin rằng họ đang tăng cường phát hiện và xử lý các tài khoản giả mạo hoặc tạo tương tác không trung thực. Ví dụ, các bình luận được xác định là sản phẩm của mạng lưới tương tác ảo sẽ bị giảm mức hiển thị. Trong năm 2024, nền tảng này cho biết đã gỡ bỏ hơn 100 triệu trang giả mạo và hơn 23 triệu tài khoản giả danh các nhà sáng tạo nội dung.
+
+Bên cạnh nỗ lực này, Meta cũng đang thử nghiệm các cách thức mới nhằm thúc đẩy các cuộc thảo luận chất lượng, mang tính kết nối hơn. Một ví dụ là tính năng đánh dấu bình luận không phù hợp với chuẩn mực hoặc không phù hợp với tinh thần của bài đăng hiện đang được thử nghiệm.
+
+Nhà sáng tạo nội dung thường là mục tiêu của các tài khoản giả mạo. Trong năm 2024, Meta đã gỡ bỏ hơn 23 triệu hồ sơ giả mạo các nhà sáng tạo lớn. Ngoài các cơ chế phát hiện và xử lý vi phạm chủ động đang được triển khai, Meta đã bổ sung tính năng Moderation Assist, công cụ hỗ trợ quản lý bình luận của Facebook nhằm phát hiện và tự động ẩn các bình luận có khả năng đến từ tài khoản ảo. Nhà sáng tạo cũng sẽ có thể báo cáo các trường hợp giả mạo ngay trong phần bình luận.
+
+Một số công cụ mới đang được thử nghiệm, như tính năng đánh dấu bình luận không phù hợp hoặc công cụ hỗ trợ quản lý bình luận (Moderation Assist), được kỳ vọng sẽ giúp các nhà sáng tạo kiểm soát tốt hơn không gian thảo luận dưới các bài đăng của mình.
+
+Về bản quyền, Facebook đang nâng cấp công cụ Rights Manager, một tính năng cho phép các nhà sáng tạo theo dõi và kiểm soát việc sử dụng lại nội dung của họ. Điều này nhằm đối phó với tình trạng sao chép nội dung không xin phép, một trong những vấn đề khiến nhiều nhà sáng tạo gặp khó trong việc bảo vệ sản phẩm sáng tạo.

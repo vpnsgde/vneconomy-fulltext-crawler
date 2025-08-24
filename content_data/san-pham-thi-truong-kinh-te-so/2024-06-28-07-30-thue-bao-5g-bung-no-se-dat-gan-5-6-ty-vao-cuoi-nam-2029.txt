@@ -1,0 +1,23 @@
+Theo báo cáo Di động Ericsson tháng 6/2024 công bố ngày 27/6/2024, hiện tại, khoảng 300 nhà cung cấp dịch vụ truyền thông (CSP) trên toàn thế giới đã cung cấp dịch vụ 5G, trong đó khoảng 50 CSP đã triển khai 5G Độc lập (5G SA).
+
+5G đang tiếp tục phát triển mạnh mẽ ở tất cả các khu vực và dự kiến sẽ chiếm khoảng 60% tổng số thuê bao di động vào cuối năm 2029. Trong 3 tháng đầu năm 2024, đã có thêm khoảng 160 triệu thuê bao 5G mới trên toàn cầu, nâng tổng số lên hơn 1,7 tỷ. Dự kiến sẽ có tổng gần 600 triệu thuê bao mới vào năm 2024.
+
+Nghiên cứu chỉ rõ, lưu lượng dữ liệu mạng di động đã tăng 25% so với cùng kỳ năm ngoái, chủ yếu do sự chuyển đổi của người dùng sang các thế hệ mạng mới hơn và các dịch vụ sử dụng nhiều dữ liệu, như video.
+
+Lưu lượng dữ liệu di động được dự báo sẽ tăng với tốc độ tăng trưởng gộp hàng năm khoảng 20% cho đến cuối năm 2029. Khoảng 1/4 tổng lưu lượng dữ liệu mạng di động đến từ mạng 5G vào cuối năm 2023, con số này được dự báo sẽ tăng lên khoảng 75% vào cuối năm 2029.
+
+Phó Chủ tịch Điều hành kiêm Giám đốc Mạng của Ericsson, Fredrik Jejdling chia sẻ: “số lượng thuê bao 5G tiếp tục tăng mạnh. Băng thông rộng di động nâng cao và truy cập không dây cố định là những trường hợp sử dụng hàng đầu, với các dấu hiệu cho thấy tiềm năng của 5G đang tác động mạnh đến các dịch vụ truy cập không dây cố định của các nhà cung cấp dịch vụ. Báo cáo cũng nhấn mạnh sự cần thiết phải tăng cường triển khai công nghệ 5G Độc lập để khai thác tối đa tiềm năng của 5G.”
+
+Truy cập không dây cố định (FWA) đang tiếp tục phát triển mạnh mẽ, trở thành một trong những trường hợp sử dụng 5G tiên phong cho các nhà cung cấp dịch vụ truyền thông (CSP) trên toàn cầu, với số lượng CSP cung cấp dịch vụ này tăng đáng kể trong năm qua. FWA hiện chỉ đứng sau Băng thông rộng di động nâng cao (eMBB) trong số các trường hợp sử dụng 5G.
+
+Độ phủ sóng 5G băng tần trung bên ngoài Trung Quốc đại lục đã đạt 35%. Bắc Mỹ và Ấn Độ đã triển khai nhanh chóng, với mức độ bao phủ băng tần trung lần lượt là 85% và 90%. Độ phủ sóng 5G toàn cầu ngoài Trung Quốc đại lục, sẽ tăng lên 80% vào cuối năm 2029.
+
+Về trải nghiệm người dùng, số liệu thống kê từ một nhà cung cấp dịch vụ hàng đầu cho thấy 97% các hoạt động của người dùng trên 5G băng tần trung đạt thời gian truy cập nội dung dưới 1,5 giây, so với 67% trên 5G băng tần thấp và 38% trên 4G (tất cả băng tần).
+
+Tại Đông Nam Á và Châu Đại Dương, số thuê bao 5G dự đoán sẽ đạt khoảng 560 triệu vào cuối giai đoạn dự báo. Cuối năm 2023, số lượng thuê bao 5G ở Đông Nam Á đứng ở mức 61 triệu. Số lượng thuê bao 5G trong khu vực tiếp tục tăng khi các thuê bao chuyển sang 5G, nhờ các thiết bị 5G đã có giá cả phải chăng hơn, các gói khuyến mại, chiết khấu và gói dữ liệu lớn từ các nhà cung cấp dịch vụ. Số lượng thuê bao 5G ước tính đã đạt hơn 20% tổng số thuê bao tại các thị trường như Singapore, Úc, Thái Lan và Malaysia. Vào cuối năm 2029, thuê bao di động 5G dự kiến sẽ đạt 43% tổng số thuê bao di động trong khu vực.
+
+Lưu lượng dữ liệu trên mỗi người dùng smartphone ở Đông Nam Á dự kiến sẽ tăng từ 17GB/tháng trong năm 2023 lên 42 GB/tháng vào năm 2029.
+
+5G dự kiến sẽ trở thành công nghệ truy cập di động thống trị lượng thuê bao trước khi kết thúc giai đoạn dự báo. Mặc dù phạm vi phủ sóng dân số 5G đang tăng lên, 5G băng tần trung  chỉ được triển khai ở khoảng 25% tổng số địa điểm trên toàn cầu bên ngoài Trung Quốc đại lục. Phổ tần 5G băng tần trung mang lại sự cân bằng giữa vùng phủ sóng và dung lượng, đồng thời cải thiện trải nghiệm người dùng. Khi công nghệ 5G phổ biến, trọng tâm của nhiều nhà cung cấp dịch vụ sẽ chuyển sang phát triển các dịch vụ kết nối khác biệt.
+
+Bà Rita Mokbel, Giám đốc Ericsson Việt Nam cho biết từ năm 2015, Ericsson đã sẵn sàng cho triển khai 5G, với hơn 10 triệu thiết bị phát sóng được xuất xưởng. Ericsson sẽ tận dụng kinh nghiệm triển khai khu vực và toàn cầu cũng như công nghệ mạnh mẽ để hỗ trợ quá trình triển khai 5G diện rộng một cách trơn tru tại Việt Nam.

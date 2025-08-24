@@ -1,0 +1,15 @@
+Theo báo cáo của Bảo hiểm xã hội Việt Nam, ước đến hết tháng 9/2022, toàn quốc có trên 17,24 triệu người tham gia bảo hiểm xã hội, đạt 89,91% so với kế hoạch của ngành, tăng gần 2,7 triệu người (18,55%) so với cùng kỳ năm 2021, tăng hơn 697.200 người (4,21%) so với hết năm 2021.
+
+Số người tham gia bảo hiểm y tế đạt hơn 87,5 triệu người người, tăng gần 4 triệu người (4,75%) so với cùng kỳ năm 2021, đạt tỷ lệ bao phủ 88,42% dân số. Tổng số thu bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp lũy kế ước hết tháng 9/2022 là gần 308.000 tỷ đồng, tăng 8,67% so với cùng kỳ năm 2021.
+
+Tính đến nay, toàn quốc đã có 26.927.641 tài khoản giao dịch điện tử cá nhân được đăng ký, phê duyệt (dùng để đăng nhập sử dụng ứng dụng VssID – Bảo hiểm xã hội số), trong đó có 850.369 người với 1.616.544 lượt sử dụng thẻ bảo hiểm y tế trên ứng dụng VssID để khám chữa bệnh bảo hiểm y tế.
+
+Hệ thống của Bảo hiểm xã hội Việt Nam đã xác thực 51.240.009 thông tin nhân khẩu có trong cơ sở dữ liệu quốc gia về bảo hiểm với cơ sở dữ liệu quốc gia về dân cư. Đồng thời, Bảo hiểm xã hội Việt Nam cũng đã cung cấp, chia sẻ trên 60.577.853 lượt bản ghi thông tin bảo hiểm xã hội, bảo hiểm y tế cho cơ sở dữ liệu quốc gia về dân cư.
+
+Sau 7 tháng triển khai thí điểm khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp, toàn quốc đã có 11.445 cơ sở khám chữa bệnh bảo hiểm y tế thực hiện tra cứu thông tin thẻ bảo hiểm y tế bằng căn cước công dân gắn chíp phục vụ khám chữa bệnh bảo hiểm y tế. Tỷ lệ này chiếm khoảng 90% tổng số cơ sở khám chữa bệnh bảo hiểm y tế trên toàn quốc với 2.554.284 lượt tra cứu.
+
+Tiện ích này có được từ việc Bảo hiểm xã hội Việt Nam phối hợp với các Bộ, ngành liên quan đẩy mạnh chuyển đổi số, thực hiện Đề án 06 của Chính phủ, trong đó có việc kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia về dân cư với cơ sở dữ liệu quốc gia về bảo hiểm; triển khai kỹ thuật đảm bảo từng bước sử dụng thẻ căn cước công dân, ứng dụng Định danh điện tử quốc gia (VNEID) thay thế thẻ bảo hiểm y tế giấy để khám chữa bệnh.
+
+Trong triển khai Đề án 06, Bảo hiểm xã hội Việt Nam cũng phối hợp với các bộ, ngành liên quan thực hiện các nhiệm vụ được giao tạo thuận lợi lớn cho người tham gia, thụ hưởng chính sách, chế độ bảo hiểm xã hội, bảo hiểm y tế như: Liên thông đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi; liên thông đăng ký khai tử - xóa đăng ký thường trú - trợ cấp mai táng phí; giải quyết hưởng trợ cấp thất nghiệp; triển khai các dịch vụ công cấp độ 4.
+
+Bảo hiểm xã hội Việt Nam cũng đang phối hợp với Bộ Công an triển khai các công nghệ xác thực sinh trắc được tích hợp trên căn cước công dân gắn chíp và trên dữ liệu của cơ sở dữ liệu quốc gia về dân cư, để hạn chế và ngăn chặn trục lợi khi đóng, hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp…

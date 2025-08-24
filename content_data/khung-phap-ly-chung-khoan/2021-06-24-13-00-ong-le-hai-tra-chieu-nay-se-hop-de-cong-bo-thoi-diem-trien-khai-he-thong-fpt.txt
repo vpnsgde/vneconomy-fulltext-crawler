@@ -1,0 +1,27 @@
+Chia sẻ tạiTọa đàmtrực tuyến với chủ đề “Nghẽn lệnh tại HoSE - Thực trạng và giải pháp”, ông Lê Hải Trà, Tổng giám đốc HOSE cho biết vào 14h chiều nay (24/6), Ban chỉ đạo đạo xử lý hệ thống giao dịch HOSE sẽ có buổi họp với Thứ trưởng Bộ Tài chính Huỳnh Quang Hải, để công bố thời điểm triển khai hệ thống mới của FPT.
+
+Trước đó, chia sẻ về hệ thống mới của FPT, ông Dương Dũng Triều, Chủ tịch Công ty FPT IS cho hay kế hoạch 100 ngày "giải cứu" hệ thống được chia thành nhiều giai đoạn: khảo sát hiện trạng của HOSE, chỉnh sửa phần mềm, kiểm thử với 20 công ty chứng khoán hàng đầu, kiểm thử với tất cả các công ty chứng khoán, chạy giả lập với các công ty chứng khoán...
+
+"Chúng tôi đang kiểm tra về an ninh bảo mật và ngưỡng chịu đựng của hệ thống, song song, xây dựng quy trình vận hành, nhất là khi xảy ra sự cố", ông Triều cho hay.
+
+Ông Triều cũng cho biết, FPT đặt mục tiêu năng lực xử lý được 3-5 triệu lệnh/ngày và bỏ cơ chế phân bổ lệnh, các công ty chứng khoán được đẩy lệnh theo đúng năng lực của họ. Cùng với đó, công ty cũng đang kiểm thử ngưỡng đáp ứng lệnh gửi vào mỗi giây, đảm bảo cao hơn rất nhiều so với hệ thống hiện tại.
+
+
+
+"FPT cử 50 cán bộ chuyên gia phối hợp với 30 cán bộ chuyên gia của HOSE. Hai nhóm công tác đang làm việc rất vất vả, liên tục mấy ngày hôm nay làm việc tới 4 giờ sáng, duy trì cho đến khi hệ thống sẵn sàng bàn giao và đưa vào vận hành", ông Triều chia sẻ.
+
+Về phía HOSE, “đâu là bài toán hóc búa nhất của kế hoạch 100 ngày?”, ông Trà tự đặt câu hỏi và cho rằng, ngoại trừ thị trường lớn như Mỹ, Nhật thì hầu như các nước chỉ có một Sở Giao dịch Chứng khoán. Do đó, chỉ có những người cung cấp giải pháp tốt nhất, hiệu quả nhất mới có thể tồn tại trên thị trường đó. Bởi lẽ, rất khó để thuyết phục một Sở Giao dịch thay đổi.
+
+Đối với công ty chứng khoán, hệ thống có phần đỡ hơn do mỗi thị trường có nhiều công ty chứng khoán hơn là sở giao dịch chứng khoán. Nhiều nhà cung cấp cho các công ty chứng khoán cũng nhiều hơn.
+
+“Có một nguyên tắc bất di bất dịch, đã là công ty chứng khoán lớn đều tìm cách làm chủ hệ thống của mình. Trong khu vực ASEAN 6 gồm Thái Lan, Singapore, Malaysia, Indonesia và Philippin và Việt Nam thì ngoại trừ Việt Nam hầu hết các quốc gia còn lại đều sử dụng giải pháp của Nasdaq”, ông Trà nói.
+
+Ông Trà cũng cho rằng, kế hoạch 100 ngày thay hệ thống giao dịch của FPT và HOSE đang thực hiện rất khác so với những gì chúng ta có thể chứng kiến.
+
+
+
+“Anh Triều cùng tôi có dịp đi xem đấu thầu sản phẩm thực tế vào năm 2009, 2010. Lúc đó OFX bán hệ thống Sở giao dịch Indonesia. Phía Indonesia họ tổ chức lực lượng hùng hậu hàng trăm người mà cũng phải kéo dài tận 14 tháng để hoàn tất hệ thống”, ông Trà chia sẻ.
+
+Một lần nữa nhìn nhận về kế hoạch 100 ngày, ông Lê Hải Trà đánh giá: “Những nỗ lực của FPT và HOSE đến giờ phút này rất đáng được ghi nhận”.
+
+Đại diện cho cơ quan quản lý,  ông Trần Văn Dũng, Chủ tịch Ủy ban Chứng khoán Nhà nước khẳng định hệ thống mới của FPT sẽ được đưa vào vận hành chậm nhất vào đầu tháng 7, còn hệ thống KRX sẽ vận hành vào cuối năm nay.

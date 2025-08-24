@@ -1,0 +1,33 @@
+Theo thống kê, trên thế giới đã có hơn 8.100 trung tâm dữ liệu (IDC), trong đó Mỹ đang dẫn đầu với trên 30% trung tâm dữ liệu nằm ở Mỹ. Trong bức tranh thị trường trung tâm dữ liệu toàn cầu này, Việt Nam mới chỉ có khoảng 30 trung tâm dữ liệu, chiếm chưa đến 1% số lượng trung tâm dữ liệu toàn cầu.
+
+Trung tâm dữ liệu mới nhất, cũng là trung tâm lớn nhất của Việt Nam tính tới thời điểm hiện tại là VNPT IDC Hòa Lạc, với tổng diện tích sử dụng lên tới 23.000m2 sàn, có quy mô đến 2.000 tủ racks, tuy nhiên theo Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng, đây là IDC thuộc loại vừa, một IDC loại lớn cần ít nhất 5.000 rack, Việt Nam vẫn chưa có một IDC có quy mô lớn như vậy.
+
+Thị trường IDC Việt Nam một vài năm qua chứng kiến sự “chạy đua” của nhiều doanh nghiệp công nghệ, viễn thông Việt. Cuối năm 2022, Công ty cổ phần VNG đã đưa vào vận hành một trung tâm dữ liệu mới ở Khu chế xuất Tân Thuận, TP.HCM có quy mô 7.800m2 và tổng diện tích sàn sử dụng 12.400m2. Theo đó, bước đầu VNG Data Center sẽ cung cấp 410 tủ rack (tủ lắp đặt máy chủ), sau đó sẽ mở rộng lên đến 1.600 tủ rack để đáp ứng kịp thời sự tăng trưởng được kỳ vọng là mạnh mẽ trong quá trình chuyển đổi số.
+
+Trước đó, tháng 8/2022, Tập đoàn công nghệ CMC cũng đưa vào vận hành Trung tâm dữ liệu CMC Data Center Tân Thuận tại quận 7, TP.HCM. Trung tâm IDC này của CMC có tổng diện tích hơn 13.000m2 với hệ thống 1.200 tủ rack.
+
+Dự kiến trong hai, ba năm tới các doanh nghiệp công nghệ như Viettel, VNPT, CMC… sẽ tiếp tục đưa nhiều IDC đi vào hoạt động. Trong đó, Tập đoàn VNPT có kế hoạch xây dựng và chuyển đổi để từ nay đến năm 2025, mỗi năm đưa vào một IDC mới. Cụ thể, dự kiến cuối năm nay sẽ đưa vào hoạt động thêm một IDC tại TP.HCM và năm 2025 sẽ ra mắt IDC tại Tân Thuận (TP.HCM) pha 2. Đồng thời, Tổng giám đốc VNPT Huỳnh Quang Liêm cho biết trong thời gian tới VNPT sẽ tiếp tục tìm kiếm cơ hội hợp tác với đối tác và nhà đầu tư để xây dựng thêm các trung tâm dữ liệu mới tầm cỡ khu vực và thế giới.
+
+
+
+"Dữ liệu là tài nguyên quan trọng nhất của kinh tế số. Sự giàu có của một quốc gia trong tương lai được đo bằng dữ liệu. Dữ liệu lớn và xử lý dữ liệu lớn sẽ là ngành công nghiệp lớn nhất. Việt Nam một năm cần có thêm từ 4 đến 5 trung tâm dữ liệu (IDC) với quy mô 2.000 rack thì mới cơ bản đáp ứng được đủ nhu cầu về dữ liệu. Doanh nghiệp Việt Nam cần ưu tiên dùng hàng Việt Nam, đặc biệt khi hàng Việt Nam lại đạt tiêu chuẩn khắt khe nhất của thế giới và giá cả cạnh tranh".
+
+"Dữ liệu là tài nguyên quan trọng nhất của kinh tế số. Sự giàu có của một quốc gia trong tương lai được đo bằng dữ liệu. Dữ liệu lớn và xử lý dữ liệu lớn sẽ là ngành công nghiệp lớn nhất. Việt Nam một năm cần có thêm từ 4 đến 5 trung tâm dữ liệu (IDC) với quy mô 2.000 rack thì mới cơ bản đáp ứng được đủ nhu cầu về dữ liệu. Doanh nghiệp Việt Nam cần ưu tiên dùng hàng Việt Nam, đặc biệt khi hàng Việt Nam lại đạt tiêu chuẩn khắt khe nhất của thế giới và giá cả cạnh tranh".
+
+Đặc biệt, năm 2022, Viettel công bố kế hoạch xây dựng trung tâm dữ liệu rất lớn ở huyện Hóc Môn và Củ Chi, TP.HCM với tổng mức đầu tư 6.000 tỷ đồng. Ngoài ra, trong kế hoạch đến 2025, Viettel sẽ mở rộng quy mô lên 17.000 rack, và lộ trình tới năm 2030, mức đầu tư sẽ được nâng lên 40.000 tỷ đồng với quy mô 34.000 rack.
+
+Mặc dù các IDC đã và đang đưa vào hoạt động để đáp ứng cho nhu cầu thị trường, nhưng theo Bộ trưởng Nguyễn Mạnh Hùng, cứ mỗi năm dữ liệu thế giới lại tăng gấp đôi, Việt Nam còn tăng nhanh hơn. Tính tới trước thời điểm Trung tâm IDC Hòa Lạc của VNPT đi vào vận hành, Việt Nam có 29 trung tâm dữ liệu thương mại loại vừa và nhỏ, tương đương với 10 trung tâm dữ liệu của VNPT tại Hoà Lạc. Do vậy, theo Bộ trưởng Hùng, mỗi năm Việt Nam cần phải có khoảng 4-5 trung tâm dữ liệu có quy mô tương đương VNPT IDC Hòa Lạc mới có thể cơ bản đáp ứng được nhu cầu về dữ liệu của Việt Nam.
+
+Theo dự báo, thị trường trung tâm dữ liệu của Việt Nam sẽ tăng trưởng nhanh và đạt mức doanh thu hơn 1 tỷ USD vào năm 2028 từ mức 561 triệu USD năm 2022. Trong chiến lược xây dựng hạ tầng số quốc gia, Việt Nam đặt mục tiêu đến năm 2025 sẽ có 100% cơ quan chính phủ, 70% doanh nghiệp sử dụng điện toán đám mây, dịch vụ hạ tầng dữ liệu của đơn vị trong nước.
+
+“Trong bối cảnh cách mạng công nghiệp 4.0 đang diễn ra mạnh mẽ, xu thế phát triển các dịch vụ điện toán đám mây được công nhận dẫn tới sự tăng trưởng đột biến trong lưu lượng dữ liệu. Có thể thấy nhu cầu thị trường IDC tại Việt Nam là rất lớn. Điều này sẽ thúc đẩy mạnh mẽ các doanh nghiệp trong nước đầu tư xây dựng các trung tâm dữ liệu. Hiện rất nhiều doanh nghiệp đã dịch chuyển từ việc sử dụng dịch vụ điện toán đám mây của các đơn vị quốc tế sang các nhà mạng nội địa”, Chủ tịch Ủy ban Quản lý vốn nhà nước tại doanh nghiệp Nguyễn Hoàng Anh nhấn mạnh.
+
+Thực tế từ nhiều năm qua cũng như kế hoạch của các doanh nghiệp công nghệ cung cấp dịch vụ lưu trữ thì có thể khẳng định việc mỗi năm Việt Nam sẽ có thêm được 4-5 IDC được đưa vào hoạt động là vẫn chưa nằm trong “quỹ đạo”. Tại sao nhu cầu đối với thị trường này rất lớn nhưng các doanh nghiệp cung cấp dịch vụ lại không hoặc chưa tăng tốc đầu tư xây dựng nhanh, nhiều hơn các IDC để đáp ứng nhu cầu thị trường? Phải chăng vốn đầu tư cho một IDC quá lớn, kinh doanh dịch vụ này không mang lại nhiều lợi nhuận, hoặc đầu tư nhiều (để một năm có thể đưa 4-5 IDC vào hoạt động) còn những rủi ro nhất định?
+
+Lãnh đạo một nhà mạng cho biết: nếu chỉ là vốn đầu tư thì không phải là vấn đề gì to tát hay khó khăn, các doanh nghiệp viễn thông có thể một năm đầu tư và đưa vào vận hành từ 2-3 trung tâm dữ liệu, vì vốn đầu tư cho một IDC có quy mô vừa phải từ 1.000 – 2.000 tủ rack từ 500 tỷ đồng đến trên 1.000 tỷ đồng và có thể lên tới 2.000 tỷ đồng tùy nhu cầu có thể mở rộng thêm. Do đó, với các doanh nghiệp công nghệ hàng đầu của Việt Nam đang tham gia vào thị trường IDC hiện nay thì hoàn toàn có thể đưa vào thị trường 4-5 IDC một năm.
+
+Tuy nhiên, tăng trưởng dữ liệu hiện nay tại Việt Nam cơ bản được đo lường dựa trên lượng người dùng như số lượng thuê bao, số lượng các tài khoản mạng xã hội, số lượng doanh nghiệp… Nhưng thực tế các dịch vụ mà người dùng Việt đang sử dụng phần lớn là dịch vụ xuyên biên giới, rất ít dịch vụ được hosting tại Việt Nam. Trong khi các “ông lớn” công nghệ như Google, Facebook… cũng mới chỉ lưu trữ ở Việt Nam phần nội dung (như hình ảnh, video) còn dữ liệu (như dữ liệu người dùng) thì vẫn đặt ở các máy chủ, các trung tâm dữ liệu ở ngoài Việt Nam...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 45-2023 phát hành ngày 06-11-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

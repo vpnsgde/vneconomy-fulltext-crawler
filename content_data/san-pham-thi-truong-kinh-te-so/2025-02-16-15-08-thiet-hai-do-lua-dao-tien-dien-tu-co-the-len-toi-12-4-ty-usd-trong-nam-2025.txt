@@ -1,0 +1,39 @@
+Công ty cho biết ước tính hàng năm về hoạt động lừa đảo đã tăng trung bình 24% qua các kỳ báo cáo kể từ năm 2020.
+
+Theo báo cáo năm 2024, một trong những nguyên nhân chính khiến doanh thu lừa đảo gia tăng là sự bùng nổ của các chiêu trò lừa đảo tình cảm, thường được gọi là "mổ lợn" (pig butchering).
+
+Pig butchering là một thuật ngữ dùng để chỉ loại lừa đảo bằng cách lợi dụng tình cảm. Theo đó, tội phạm sẽ xây dựng mối quan hệ với nạn nhân thông qua mạng xã hội hoặc ứng dụng hẹn hò, sau đó lừa tiền thông qua một cơ hội đầu tư giả mạo.
+
+Thuật ngữ "mổ lợn" xuất phát từ việc những kẻ lừa đảo sẽ "vỗ béo" nạn nhân bằng những lời khen ngợi và sự quan tâm giả tạo trước khi ra tay chiếm đoạt tài sản của họ.
+
+Theo Chainalysis, doanh thu từ các vụ lừa đảo "mổ lợn" trong năm 2024 đã tăng gần 40% so với năm trước, trong khi số tiền nạn nhân mất do dính bẫy “mổ lợn” đã tăng vọt tới 210%.
+
+Chainalysis nhận định sự chênh lệch giữa hai con số này cho thấy một xu hướng đáng lo ngại: số lượng nạn nhân gia tăng, nhưng số tiền chiếm đoạt từ mỗi cá nhân lại thấp hơn. Điều này cho thấy kẻ lừa đảo đang ưu tiên số lượng thay vì tập trung vào những con mồi có giá trị cao.
+
+Báo cáo cũng chỉ ra rằng các vụ lừa đảo "mổ lợn" chủ yếu xuất phát từ các trung tâm lừa đảo quy mô lớn ở Đông Nam Á và có dấu hiệu hoạt động ngày càng phân tán.
+
+Tháng 12 năm ngoái, cơ quan chống tham nhũng Nigeria thông báo đã bắt giữ 792 người trong một cuộc đột kích vào một tòa nhà, nơi các nghi phạm bị cáo buộc thực hiện các vụ lừa đảo tình cảm với các nạn nhân chủ yếu đến từ châu Âu và châu Mỹ. Tội phạm cũng chính là những nạn nhân bị bắt cóc, sau đó bị cưỡng ép tham gia vào các hoạt động lừa đảo trực tuyến.
+
+Một cuộc điều tra của Tổ chức báo chí điều tra phi lợi nhuận ProPublica năm 2022 đã tiết lộ cách các băng nhóm tội phạm Trung Quốc buôn bán người đến các trung tâm lừa đảo ở Campuchia, Lào và Myanmar, buộc họ phải thực hiện hành vi gian lận mạng dưới sự đe dọa của bạo lực. Đây cũng là trung tâm của nhiều hình thức gian lận trực tuyến khác.
+
+Theo Chainalysis, các nhóm tội phạm không chỉ tương tác trực tiếp mà còn trên các không gian mạng, nhờ vào sự xuất hiện của các chợ đen và mạng lưới tiền điện tử phi pháp.
+
+Một trong những nền tảng bị cáo buộc thúc đẩy điều này là Huione Guarantee, một diễn đàn trực tuyến và thị trường ngang hàng mà Chainalysis mô tả như một “cửa hàng tổng hợp” dành cho tội phạm mạng. Tại đây, các đối tượng có thể dễ dàng mua bán công nghệ, cơ sở hạ tầng và tài nguyên phục vụ các hoạt động lừa đảo.
+
+Huione Guarantee sử dụng tiếng Trung và có mối liên kết với Tập đoàn Huione, một doanh nghiệp tại Campuchia. Tập đoàn này cung cấp nhiều dịch vụ hợp pháp như chuyển tiền quốc tế, bảo hiểm, thậm chí từng tham gia ngành du lịch cao cấp. Tuy nhiên, mối liên hệ của họ với Huione Guarantee làm dấy lên lo ngại về việc tiếp tay cho các hoạt động phi pháp.
+
+Theo Blockchain, Huione Guarantee hỗ trợ cho các giao dịch phi pháp liên quan đến tiền điện tử, bao gồm mua bán công nghệ lừa đảo. Một trong những dịch vụ phổ biến nhất trên nền tảng này là rửa tiền, giúp những kẻ lừa đảo che giấu dấu vết giao dịch bất hợp pháp.
+
+Ngoài ra, Huione Guarantee còn cung cấp nhiều sản phẩm phi pháp khác như danh sách dữ liệu cá nhân bị rò rỉ, dịch vụ lưu trữ web, tài khoản mạng xã hội giả mạo và phần mềm AI hỗ trợ lừa đảo. Theo Chainalysis, chỉ tính riêng trong năm 2024, các nhà cung cấp công nghệ lừa đảo trên nền tảng này đã thu về ít nhất 375,9 triệu USD tiền điện tử. Kể từ năm 2021, Huione Guarantee đã xử lý 70 tỷ USD giao dịch tiền điện tử.
+
+Trên trang web của mình, Huione Guarantee khẳng định không trực tiếp tham gia hay nắm rõ hoạt động kinh doanh cụ thể của khách hàng. Nền tảng này cho biết họ chỉ đóng vai trò trung gian, đảm bảo giao dịch thanh toán giữa người mua và người bán.
+
+Trong năm 2024, các nhà cung cấp dịch vụ AI trên nền tảng Huione đã tăng trưởng doanh thu tới 1.900% so với cùng kỳ năm trước, theo dữ liệu từ Chainalysis.
+
+Điều này phản ánh xu hướng sử dụng công nghệ AI để lừa đảo ngày càng tăng. Theo đó, tội phạm đang sử dụng AI để mạo danh người khác hoặc tạo ra nội dung chân thực, khiến nạn nhân tin rằng họ đang tham gia vào các cơ hội đầu tư hợp pháp.
+
+Báo cáo của Chainalysis cũng chỉ ra rằng có hàng chục nhà cung cấp phần mềm trên Huione Guarantee đang bán các công cụ AI dùng để thực hiện các trò gian lận này.
+
+Chainalysis cảnh báo rằng tiềm năng của công nghệ AI trong việc mở rộng quy mô các vụ lừa đảo tiền điện tử theo cấp số nhân đã tạo ra những thách thức lớn hơn trong việc ngăn chặn tội phạm mạng.
+
+Để giải quyết vấn đề lừa đảo tiền điện tử trên quy mô toàn cầu, công ty khẳng định cần có những nỗ lực bền vững từ các cơ quan chính phủ, cơ quan quản lý và tổ chức.

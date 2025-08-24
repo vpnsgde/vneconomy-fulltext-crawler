@@ -1,0 +1,31 @@
+Tọa đàm "An toàn thông tin - Yếu tố sống còn của Doanh nghiệp trong kỷ nguyên số" do Hiệp hội Nữ doanh nhân thành phố Hà Nội phối hợp với Công ty Cổ phần MISA (MISA), Công ty TNHH Hòa Bình Không gian mạng (CyPeace), Công ty Cổ phần Savvycom (Savvycom), và Công ty Cổ phần Hanel (Hanel) tổ chức ngày 26/9, đã nhận được nhiều sự quan tâm từ giới chuyên môn.
+
+Các chuyên gia cho rằng các vụ tấn công mạng ngày càng tinh vi, khó lường, đặc biệt có sự hậu thuẫn của các nhà nước, tổ chức chuyên nghiệp. Chi phí thiệt hại trung bình của các vụ tấn công đối với doanh nghiệp đang tăng từ con số trăm nghìn đô lên đến cả triệu đô thậm chí cả tỷ đô.
+
+"Tấn công dữ liệu hiện có thể hoạt động như một dịch vụ chuyên nghiệp với hệ thống tổ chức bài bản, trong đó các tội phạm được đào tạo khắt khe và được phân công KPI thực hiện các vụ tấn công", ông Nguyễn Quang Hoàng, Giám đốc an ninh thông tin Công ty Cổ phần Misa, nhấn mạnh.
+
+Theo ông Nguyễn Quang Huy, Giám đốc Khối Dịch vụ An toàn Thông tin Savvycom, quá trình chuyển đổi số quá nhanh hiện là mảnh đất màu mỡ cho tội phạm mạng, bởi doanh nghiệp có thể chỉ tập trung ứng dụng công nghệ mới trong hoạt động kinh doanh sản xuất hay phải trong guồng quay liên tục đáp ứng công nghệ, có thể bỏ qua việc thiết lập các biện pháp bảo mật an ninh mạng.
+
+Một báo cáo của CNBC chỉ ra 1/2 vụ vi phạm dữ liệu nhắm vào các doanh nghiệp nhỏ. Trong khi đó, 42% doanh nghiệp không có kế hoạch ứng phó với các mối đe dọa về an ninh mạng và 1/3 doanh nghiệp đang dựa vào các giải pháp miễn phí, tuy nhiên đây là những giải pháp không tác động đáng kể nếu xảy ra tấn công.
+
+Chủ tịch CyPeace, ông Ngô Minh Hiếu (Hiếu PC) cũng đề cập những con số đáng báo động về những rủi ro về bảo mật và mất an toàn thông tin ngày càng gia tăng nhanh chóng. Cụ thể, tổng số lỗ hổng được phát hiện và công bố năm 2023 đã tăng 11,1% so với năm 2022, trong đó các lỗ hổng mức cao và nghiêm trọng chiếm tỉ trọng xấp xỉ 56% xuất hiện trên các sản phẩm, phần mềm phổ biến trên thế giới.
+
+Trước đây, các tổ chức tấn công quốc tế lớn chỉ thực hiện 3 - 5 vụ tấn công/tuần. Tuy nhiên, ông Phạm Tuấn Vũ, Phó Giám đốc Công nghệ, Hanel cho biết 6 tháng gần đây, số lượng các vụ tấn công của các đơn vị này có thể lên đến 15-20 vụ/tuần.
+
+Trong bối cảnh tình hình tấn công mạng đang ngày càng nở rộng, gia tăng cả về quy mô và số lượng trên cả thế giới và trong nước, ông Vũ khẳng định: “Các doanh nghiệp cần luôn đặt mình trong tâm thế công ty sẽ bị tấn công trong ngày mai. Thế nên, việc triển khai các giải pháp phòng thủ hiệu quả, sử dụng con người và công nghệ một cách đúng đắn và luôn có kế hoạch sau tấn công là những việc làm cần thiết để doanh nghiệp bảo vệ mình”.
+
+Bên cạnh đó, ông Vũ còn đặc biệt nhấn mạnh rằng các doanh nghiệp không được trả tiền chuộc vì không chỉ không khôi phục hoàn toàn được dữ liệu mà vô hình trung đang tiếp tay và “đầu tư” cho các nhóm tội phạm mở ra các cuộc tấn công mới với quy mô lớn hơn.
+
+Sự phát triển của công nghệ trí tuệ nhân tạo đang gây ra nhiều xu hướng tấn công đáng báo động, đơn cử như sử dụng kỹ thuật deepfake để tạo các video và hình ảnh giả mạo , hacker đang lừa các nạn nhân cả chục triệu đến hàng trăm triệu đồng.
+
+Ông Ngô Minh Hiếu, Chủ tịch CyPeace, cho biết: “Deepface là công nghệ không mới, trước đây được sử dụng chủ yếu cho mục đích giải trí. Tuy nhiên, tội phạm đang gia tăng khai thác công nghệ này để vượt qua lớp bảo mật xác thực sinh trắc học trên các nền tảng. Bên cạnh việc xâm nhập hệ thống để lấy cắp hình ảnh trong thiết bị, tội phạm có thể sử dụng chính những hình ảnh của nạn nhân trên mạng xã hội để tạo ra các video deepface”.
+
+Trao đổi bên lề hội thảo với VnEconomy, ông Ngô Minh Hiếu cho biết: “Nếu video deepface có chất lượng đủ tốt, đây hoàn toàn có thể là công cụ để tội phạm mạng phá khóa sinh trắc học của các ứng dụng tài chính. Chúng có thể sử dụng nhiều thủ đoạn để nạn nhân cài các ứng dụng giả dạng để cài mã độc theo dõi và kiểm soát thiết bị, sau đó lấy video gương mặt nạn nhân khi gọi video call hoặc hình ảnh trong thiết bị sử cho deepface nhằm chiếm đoạt tài sản”.
+
+Tuy nhiên, theo ông Ngô Minh Hiếu, hiện nay nhiều các ngân hàng lớn cũng đang xây dựng nhiều các giải pháp bảo mật cao, chẳng hạn ứng dụng ngân hàng có khả năng phát triển và đưa ra cảnh báo thiết bị đang cài ứng dụng không an toàn.
+
+Bên cạnh deepface, tội phạm mạng đang sử dụng AI để tấn công dữ liệu nhanh và hiệu quả hơn hoặc thao túng các chatbot để viết ra các kịch bản giả mạo lừa đảo, mã độc,...
+
+Ông Nguyễn Quang Hoàng, Giám đốc an ninh thông tin Công ty Cổ phần Misa, đã đưa ra nhiều con số báo động, chẳng hạn như trong năm 2023 người dùng Việt Nam đã lừa đến 16 tỷ USD qua mạng – chiếm 1/3 thiệt hại lừa đảo qua mạng của thế giới, trong khi đó, tỉ lệ những người cho biết có hiểu biết về lừa đảo lại không nhiều.
+
+Ông Hoàng khẳng định "miếng phô mai có sẵn chỉ có ở trên bẫy chuột", vì vậy người dùng cần chủ động bảo vệ mình, hết sức cảnh giác với các chiêu trò, để không trở thành nạn nhân bị lừa đảo hay tống tiền.

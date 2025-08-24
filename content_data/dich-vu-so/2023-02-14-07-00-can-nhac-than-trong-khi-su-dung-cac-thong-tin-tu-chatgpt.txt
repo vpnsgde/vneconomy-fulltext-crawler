@@ -1,0 +1,40 @@
+Đánh cụm từ “ChatGPT” trên Google, trong 0,4 giây đã cho ra gần 660 triệu kết quả. Đây là ứng dụng có số người dùng phát triển nhanh nhất trong lịch sử bởi chỉ trong 2 tháng có mặt trên thị trường đã có tới 100 triệu người dùng. Ước tính, trung bình mỗi ngày có 13 triệu người sử dụng ChatGPT. Con số kỷ lục này chưa có sản phẩm công nghệ nào từ trước tới nay đạt được đã nói lên sự quan tâm của thị trường và sức hút vô cùng lớn của công cụ AI mới thông minh và thân thiện này trên toàn cầu cũng như tại Việt Nam.
+
+Là một mô hình ngôn ngữ lớn, ChatGPT cho phép làm tốt cả hai việc: hiểu ngôn ngữ tự nhiên (NLU) và tạo ngôn ngữ tự nhiên (NLG). Người dùng thích thú với một chatbot vừa hiểu được nội dung của câu hỏi một cách chính xác vừa đưa ra một câu trả lời rất thông minh, tự nhiên và hợp lý. Các câu trả lời này được ChatGPT tự tổng hợp, tạo ra từ dữ liệu khổng lồ được huấn luyện trước đó chứ không phải là sự sáng tạo. Nếu chưa xét đến tính xác thực, thì nội dung trả lời rất phù hợp, logic với câu hỏi. Đó là điểm mà chưa hệ thống chat public nào làm được trước đây, một chuyên gia công nghệ nhận xét.
+
+ChatGPT như một “trợ lý biết tuốt” bởi có thể lập trình, viết code, viết đoạn văn, đoạn báo, làm thơ, truyện cười, dịch thuật, tóm tắt văn bản...Theo các chuyên gia công nghệ, mô hình ngôn ngữ lớn và học tăng cường để xây dựng ChatGPT không hề mới, nhưng yếu tố chính làm nên thành công của công cụ này nằm ở việc nâng cao trải nghiệm người dùng.
+
+TS. Đặng Minh Tuấn, Viện trưởng Viện Nghiên cứu ứng dụng công nghệ CMC, cho rằng thay vì người dùng phải tự tìm kiếm, tra cứu thông tin để đưa ra câu trả lời, ChatGPT tự tổng hợp thông tin, trả lời vào thẳng các vấn đề mà người dùng tìm hiểu thông tin, tìm kiếm tri thức như trao đổi cùng “chuyên gia” trong thực tế với trải nghiệm thân thiện, có thể theo dõi được mạch thông tin. Công cụ này cũng có thể tạo ra nội dung theo yêu cầu ở các định dạng, loại hình, lĩnh vực khác nhau ở mức đơn giản.
+
+Chung quan điểm, TS. Đặng Trần Thái, Trưởng phòng xử lý ngôn ngữ tự nhiên, Viện Nghiên cứu dữ liệu lớn VinBigdata, nhấn mạnh: công nghệ này mang lại cho người dùng cảm giác được giao tiếp giữa người với người thông qua khả năng hiểu ngữ cảnh hội thoại; khả năng lập luận giải thích các vấn đề phức tạp; khả năng đưa ra câu trả lời trực tiếp thay vì đưa ra các đường dẫn và người dùng phải tự tổng hợp thông tin; khả năng tạo ra văn bản hợp lý như con người. “Các mặt tích cực này sẽ định hình xu thế công nghệ cho các sản phẩm trợ lý ảo và các công cụ tìm kiếm”, ông Thái nói.
+
+Còn theo đánh giá của ông Nguyễn Thế Trung, Tổng giám đốc Công ty cổ phần công nghệ DTT, ChatGPT là một xu thế nổi bật, sự "tiến hóa" đột phá của công cụ tìm kiếm. Điểm mới là ChatGPT có thể trao đổi dưới hình thức ngôn ngữ giống như một người đang trao đổi với chúng ta. ChatGPT là sự tổng hợp toàn bộ dữ liệu mở của nhân loại và đưa ra đáp án cho câu hỏi một cách thông minh nhất, khác với các chatbot đang được dùng trong thực tế hiện nay.
+
+ChatGPT mới chỉ được tung ra thị trường như một trò chơi thử nghiệm, chưa được ra mắt như một công cụ chính thức bởi vấn đề đạo đức và trách nhiệm khi thông tin trả lời sai lệch, không chính xác, vi phạm các chuẩn mực.
+
+Bên cạnh những điểm tích cực, các chuyên gia cũng chỉ ra những hạn chế cần khắc phục để ChatGPT hoàn thiện hơn. Chính ChatGPT cũng nói về các nhược điểm của nó như thiếu sự sáng tạo một cách đúng nghĩa, chỉ trả lời chung chung mà không cá nhân hóa và thiếu sự xác thực, thiếu dẫn nguồn... ChatGPT có thể trả lời sai, thiên lệch, hoặc gây nhầm lẫn vì chỉ dựa trên dữ liệu huấn luyện mà không có kiểm soát đảm bảo chất lượng, tính đúng đắn của thông tin. Dữ liệu của ChatGPT mới dừng ở năm 2021 và chưa có dữ liệu thời gian thực.
+
+Hơn nữa, một rào cản lớn là sự lo ngại về việc rò rỉ thông tin của người dùng bao gồm các cá nhân, doanh nghiệp, tổ chức… Về mặt xã hội, sự xuất hiện của ChatGPT dấy lên mối lo ngại về việc đạo văn đến mức chính OpenAI phải phát triển ngay công nghệ phát hiện đạo văn do ChatGPT tạo ra.
+
+ChatGPT là một ứng dụng được huấn luyện và chạy thử nghiệm cho tất cả các cá nhân. Theo các chuyên gia, công cụ này đã giải quyết tốt bài toán hiểu và trả lời tự nhiên gần với con người, phù hợp với trợ lý cá nhân nhưng chưa giải quyết được bài toán về tính chính xác cho các trợ lý ảo chuyên ngành, đặc biệt là những lĩnh vực cần tính chính xác cao như y tế, luật pháp cũng như các lĩnh vực cần thông tin thời gian thực như trợ lý tin tức, trợ lý thông tin kinh tế- xã hội…
+
+Với những tiện ích hiện nay, ChatGPT có thể giúp tăng năng suất lao động, giảm thời gian người dùng phải tìm kiếm, tìm hiểu thông tin. Tuy nhiên, “tính xác thực của thông tin mà ChatGPT đưa ra vẫn đang làm một câu hỏi.
+
+Ông Thái cho rằng, việc ChatGPT đưa ra câu trả lời trực tiếp mà thiếu đi phần dẫn chứng tài liệu tham khảo sẽ khiến người dùng không thể kiểm chứng lại được câu trả lời của máy và tai hại hơn nếu người dùng tin vào các thông tin thiếu xác thực mà máy đưa ra.
+
+Ông Tuấn nhấn mạnh: các thông tin ChatGPT chỉ nên dùng mang tính tham khảo, đối chiếu, tìm hiểu tri thức, không thể dùng để đưa ra các quyết định. Ngoài ra, công cụ này có thể học rất nhanh từ quá trình giao tiếp, dựa trên những phản hồi của người dùng nhưng cũng có nghĩa ChatGPT có thể học cả các thông tin sai lệch, thông tin không được kiểm chứng.
+
+Do đó, người dùng cần phải thận trọng khi sử dụng thông tin, nhất là khi dùng để đưa ra quyết định. Cùng với đó, cần phải sử dụng ChatGPT có trách nhiệm, không đưa cho ChatGPT những thông tin sai lệch, ông Tuấn khuyến cáo.
+
+Trong bối cảnh chuyển đổi số, phát triển kinh tế số hiện nay, các ngành nghề lĩnh vực đều cần tạo nội dung thông tin, thu thập, sử dụng và xử lý thông tin số liệu ở các mức độ khác nhau và có thể dùng các công cụ như ChatGPT để hỗ trợ như một nguồn tham khảo. Việc quyết định sử dụng ở mức độ nào sẽ tùy theo từng ngành, lĩnh vực.
+
+Theo quan điểm của ông Trung, ChatGPT có thể sử dụng được ở một số lĩnh vực như tư vấn sản phẩm, dịch vụ… đòi hỏi nhu cầu tổng hợp, tìm kiếm thông tin nhanh chóng và phân tích ở mức độ nội suy theo nhu cầu, hỗ trợ doanh nghiệp, người dùng.
+
+Với những vấn đề đòi hỏi mức độ ngoại suy, cần kinh nghiệm, phân tích, dự báo xu hướng tương lai thì con người vẫn đóng vai trò chủ đạo, chuyên gia này khẳng định.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 7-2023 phát hành ngày 13-02-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam
+

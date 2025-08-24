@@ -1,0 +1,37 @@
+Các nhà sản xuất chip đều đang thừa nhận rằng sự bùng nổ trong trí tuệ nhân tạo (AI) là sự thay đổi lớn nhất trong thập kỷ qua đối với thị trường máy tính cá nhân (PC). Ai cũng được kỳ vọng rằng sẽ hồi sinh thị trường PC vốn đang bị trì trệ. Tuy nhiên rào cản lớn nhất đối với các công ty công nghệ là họ sẽ phải đối đầu trực tiếp với 2 gã khổng lồ thống trị thị trường là Intel và AMD.
+
+Tham vọng về một kỷ nguyên AI dành cho PC đã được trưng bày trong tuần này tại triển lãm thương mại Computex ở Đài Bắc. Giám đốc điều hành Qualcomm Cristiano Amon chia sẻ với các phóng viên: “Thị trường PC thực sự đã được tái sinh. AI đang định nghĩa lại hoàn toàn trải nghiệm máy tính cá nhân”, ông so sánh AI với sự ra đời của hệ điều hành Windows 95 gần 30 năm trước.
+
+Qualcomm, nhà phát triển chip điện thoại thông minh hàng đầu thế giới đang đặt cược lớn vào thị trường máy tính xách tay. Chip Snapdragon X Elite của công ty sẽ được sử dụng trong các máy tính HP, Dell, Lenovo, Acer, Asus và Microsoft sắp tung ra thị trường vào tháng 6. Đây sẽ là những chiếc máy tính xách tay thương mại đầu tiên đáp ứng định nghĩa của Microsoft về PC AI, có đủ sức mạnh xử lý để xử lý hơn 40 nghìn tỷ thao tác mỗi giây (TOPS).
+
+Hoạt động mỗi giây là thước đo sức mạnh xử lý của máy tính, với tính toán AI yêu cầu con số lên đến hàng nghìn tỷ.
+
+Intel, nhà sản xuất bộ xử lý trung tâm (CPU) cho PC cũng đã giới thiệu chipset mới nhất của mình, Lunar Lake được trang bị bộ xử lý thần kinh (NPU), cung cấp 48 TOPS. Tuy nhiên những chiếc máy tính này sẽ chưa thể có mặt trên thị trường ít nhất cho đến mùa thu năm nay.
+
+“Chúng tôi kỳ vọng rằng đến năm 2028, 80% tổng số PC sẽ là PC AI và Intel đang dẫn đầu”, Giám đốc điều hành Intel Pat Gelsinger cho biết trong bài phát biểu quan trọng của mình tại Computex, đồng thời cho biết thêm rằng hơn 8 triệu PC được trang bị chip Intel Core Ultra đã được xuất xưởng kể từ khi phát hành vào tháng 12/2023.
+
+Một đối thủ khác trong ngành PC là AMD gần đây đã trình làng chipset máy tính AI mạnh nhất thế giới theo lời của công ty. Sản phẩm có tên gọi Ryzen AI 300 có thể chạy 50 TOPS. AMD cho biết máy tính xách tay có chip này sẽ có mặt trên thị trường từ tháng 7, sớm hơn kỳ vọng của thị trường.“Đây có lẽ là sự thay đổi lớn nhất về kiểu dáng của PC, chắc chắn là trong thập kỷ qua”, Lisa Su, Giám đốc điều hành của AMD nói với các phóng viên tại Computex.
+
+Một trong những điểm thu hút khách hàng chính của PC AI sẽ là khả năng cung cấp các tính năng và ứng dụng trước đây chỉ có bằng cách kết nối với dịch vụ đám mây. Một số ví dụ ban đầu bao gồm khả năng dịch đồng thời, ghi chép lại cuộc họp theo thời gian thực và có trợ lý AI có thể trả lời các câu hỏi theo cách trò chuyện.
+
+Trong nhiều năm, Intel và AMD là những nhà sản xuất CPU cho PC hàng đầu, với thị phần tổng hợp là 86%, theo dữ liệu gần đây nhất của Counterpoint. Những bộ xử lý này sử dụng kiến trúc chip X-86, được biết đến với hiệu năng cao hơn. Ngược lại, bộ xử lý được sử dụng trong hầu hết điện thoại thông minh và máy tính bảng lại dựa trên kiến trúc của công ty chip Arm của Anh. Những bộ xử lý này tiết kiệm năng lượng, khiến chúng trở nên lý tưởng cho các thiết bị di động như điện thoại thông minh và thiết bị đeo, nhưng thường không cung cấp cùng mức sức mạnh tính toán như bộ xử lý X-86.
+
+Nhưng những tiến bộ trong công nghệ sản xuất chip và AI có nghĩa là bộ xử lý dựa trên Arm sẽ vừa mạnh mẽ vừa tiết kiệm năng lượng.
+
+Amon của Qualcomm cho biết ước tính rằng 50% PC sẽ chạy trên kiến trúc của Arm trong những năm tới. Với việc áp dụng Copilot , một nền tảng AI của Microsoft, ông Amon kỳ vọng rằng quá trình chuyển đổi lần này sẽ nhanh hơn bất kỳ phiên bản Windows nào khác.
+
+Apple là ví dụ nổi bật nhất về việc một nhà sản xuất PC lớn thay thế CPU của Intel bằng CPU của riêng họ dựa trên kiến trúc của Arm. Theo dữ liệu của Counterpoint, việc giới thiệu những con chip này cho MacBook của mình vào năm 2020 đã giúp chip PC dựa trên Arm đảm bảo khoảng 11% thị phần.
+
+Giám đốc điều hành Arm Rene Haas nói với các phóng viên hôm thứ Hai rằng ông dự đoán PC "Windows on Arm" sẽ chiếm thị phần thống trị trong thập kỷ tới.
+
+MediaTek, một nhà sản xuất chip di động hàng đầu khác chuyên về chip dựa trên Arm và Nvidia - hãng có chip AI phổ biến được sử dụng chủ yếu trong máy chủ cũng đang hợp tác cùng nhau để phát triển chip cho máy tính xách tay.
+
+Anthony Peter Bonadero, người đứng đầu của nhà sản xuất máy tính theo hợp đồng lớn Compal Electronics, cho biết Qualcomm có lợi thế về thời gian đưa sản phẩm ra thị trường vì chip Snapdragon X Elite của họ có mặt sớm hơn so với các sản phẩm của Intel và AMD. Ngoài ra, kiến trúc Arm giúp chip Snapdragon tiết kiệm năng lượng và mang lại thời lượng pin tốt.
+
+William Li, nhà phân tích công nghệ cao cấp của Counterpoint, cho biết máy tính xách tay dựa trên Arm sẽ chiếm tới 15% thị trường trong năm nay và lên tới 20% vào năm 2027, khi có nhiều người tham gia cuộc đua hơn.Li nói: “Trước đây trong lĩnh vực máy tính xách tay, Intel và Windows là những công ty thống trị, nhưng giờ đây Microsoft đang hợp tác với Qualcomm để ra mắt một loạt PC AI mới. Chúng tôi nhận thấy thị phần của Intel có thể phải đối mặt với một số áp lực từ các công ty mới tham gia vào thị trường.
+
+Các giám đốc điều hành trong ngành và những người theo dõi thị trường cho biết thành công sẽ phụ thuộc vào việc người tiêu dùng có thấy các tính năng mới do PC AI cung cấp hấp dẫn hay không, bất kể những máy tính đó đang chạy trên nền tảng Arm- hay X-86. Hầu hết các công ty nghiên cứu thị trường đều kỳ vọng tổng lượng PC xuất xưởng trong năm nay chỉ tăng trưởng ở mức tối thiểu.
+
+Chaney Ho, một chuyên gia kỳ cựu trong ngành máy tính và cựu chủ tịch của Advantech chia sẻ: “Hiện tại, chúng tôi chưa thực sự thấy bất kỳ ứng dụng hấp dẫn nào trên PC AI. Liệu người tiêu dùng có thực sự hứng thú với những chiếc PC AI này hay không vẫn chưa rõ.”
+
+Jeff Lin, nhà phân tích công nghệ của Omdia, cho biết kỷ nguyên PC AI chỉ mới bắt đầu. "AI tạo sinh chỉ là một phần của hệ sinh thái AI PC. Giao diện đối với người dùng và tương tác của người dùng với PC sẽ chứng kiến sự thay đổi. Tuy nhiên sẽ phải chờ đợi ít nhất cho đến khoảng năm 2028 để hệ sinh thái AI và người dùng mới của trợ lý AI giao diện trên PC có thể phát triển và trở thành xu hướng chủ đạo".

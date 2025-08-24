@@ -1,0 +1,47 @@
+Bộ Y tế vừa ban hành quyết định số 2733/QĐ-BYT hướng dẫn thí điểm thực hiện sổ sức khỏe điện tử phục vụ tích hợp trên ứng dụng VNeID (ứng dụng định danh điện tử).
+
+Hướng dẫn này sử dụng cho tất cả các cơ sở khám, chữa bệnh công lập và tư nhân được cấp giấy phép hoạt động theo Luật Khám bệnh, chữa bệnh, và sử dụng cho tất cả loại hình khám bệnh ngoại trú, điều trị ngoại trú, điều trị nội trú, điều trị ban ngày, kê đơn lĩnh thuốc theo hẹn, khám chữa bệnh từ xa.
+
+Theo hướng dẫn này, người bệnh không có thẻ bảo hiểm y tế sử dụng số thẻ căn cước hoặc số định danh cá nhân trên thẻ cứng, hoặc trên ứng dụng VNeID làm số định danh người bệnh để liên thông dữ liệu sổ sức khoẻ điện tử VNeID.
+
+Thông tin sức khoẻ cá nhân trên sổ sức khoẻ điện tử VNeID có chế độ bảo mật như những thông tin khác trên VNeID.
+
+Bác sĩ điều trị, nhân viên y tế trong quá trình khám, chữa bệnh cho người bệnh được truy cập và sử dụng thông tin trên sổ sức khoẻ điện tử VNeID của người bệnh.
+
+Người giám hộ, người nuôi dưỡng chính, người đại diện hợp pháp được quản lý sổ sức khoẻ điện tử VNeID của người phụ thuộc trong trường hợp người phụ thuộc không tự quản lý được sổ sức khoẻ điện tử VNeID của mình như: Trẻ em; người già; người khuyết tật; người đang trong tình trạng quy định tại khoản 1, Điều 15 Luật Khám bệnh, chữa bệnh (người bệnh là người thành niên và rơi vào tình trạng mất năng lực hành vi dân sự, có khó khăn trong nhận thức, làm chủ hành vi, hạn chế năng lực hành vi dân sự nhưng trước đó đã có văn bản thể hiện nguyện vọng hợp pháp về khám bệnh, chữa bệnh của mình).
+
+Bộ Y tế là “Bên kiểm soát” đối với dữ liệu Sổ sức khoẻ điện tử VNeID. Việc chia sẻ dữ liệu sức khoẻ trên sổ sức khoẻ điện tử VNeID phải được sự đồng ý của Bộ Y tế.
+
+Theo hướng dẫn của Bộ Y tế, Cục Quản lý Khám, chữa bệnh thuộc Bộ này cập nhật các nội dung liên quan đến chuyên môn khám, chữa bệnh trong sổ sức khoẻ điện tử VNeID thay thế sổ giấy. Phối hợp với các đơn vị liên quan tổ chức tập huấn, hướng dẫn các cơ sở khám, chữa bệnh thực hiện liên thông dữ liệu và sử dụng sổ sức khoẻ điện tử VNeID.
+
+Cục Khoa học Công nghệ và Đào tạo xây dựng quy chế phối hợp giữa Bộ Y tế, Bộ Công an, Bảo hiểm xã hội Việt Nam có lồng ghép nội dung thực hiện sổ sức khoẻ điện tử VNeID. Phối hợp với các đơn vị liên quan đôn đốc, kiểm tra, giám sát việc triển khai thực hiện.
+
+Vụ Bảo hiểm y tế xây dựng chuẩn và định dạng dữ liệu đầu ra phục vụ việc quản lý, giám định, thanh toán chi phí khám bệnh, chữa bệnh và giải quyết các chế độ liên quan, làm cơ sở để xây dựng dữ liệu sổ sức khỏe điện tử. Đồng thời, triển khai tích hợp giấy chuyển tuyến khám bệnh, chữa bệnh bảo hiểm y tế điện tử và giấy hẹn khám lại điện tử trên ứng dụng VNeID.
+
+Cơ quan Bảo hiểm xã hội Việt Nam đảm bảo hạ tầng và hỗ trợ kỹ thuật liên thông dữ liệu sổ sức khoẻ điện tử VNeID từ cơ sở khám bệnh, chữa bệnh lên Cổng tiếp nhận dữ liệu Giám định bảo hiểm y tế. Cùng với đó, chia sẻ dữ liệu sổ sức khoẻ điện tử VNeID để hiển thị lên ứng dụng VNeID trong vòng 24 giờ kể từ khi nhận được dữ liệu.
+
+Cục Cảnh sát Quản lý hành chính về trật tự xã hội (C06) - Bộ Công an hướng dẫn, hỗ trợ người dân cài đặt ứng dụng VNeID, kích hoạt tài khoản định danh điện tử mức 2, tích hợp thẻ bảo hiểm y tế vào VNeID. Đảm bảo hạ tầng và hỗ trợ kỹ thuật liên thông dữ liệu hiển thị trên ứng dụng sổ sức khoẻ điện tử VNeID, bảo đảm người dân và cơ sở y tế tra cứu thông tin dễ dàng.
+
+Đơn vị cũng chia sẻ dữ liệu sổ sức khoẻ điện tử VNeID cho các địa phương để làm giàu dữ liệu hồ sơ sức khoẻ cá nhân phục vụ công tác quản lý, theo dõi, chăm sóc sức khoẻ người dân trên địa bàn các tỉnh, thành phố.
+
+Với các Sở Y tế, Bộ Y tế yêu cầu căn cứ vào thực tế tại địa phương, xây dựng kế hoạch triển khai sổ sức khoẻ điện tử VNeID của địa phương, tham mưu trình Chủ tịch Ủy ban nhân dân tỉnh, thành phố phê duyệt, và tổ chức triển khai sổ sức khỏe điện tử VNeID theo đúng tiến độ được giao. Đồng thời, cấp mã cơ sở khám, chữa bệnh cho các cơ sở chưa có mã.
+
+Các cơ sở khám bệnh, chữa bệnh thực hiện tiếp nhận khám, chữa bệnh bằng một trong các số định danh sau: Thẻ căn cước, số định danh cá nhân, số thẻ bảo hiểm y tế cho tất cả đối tượng người bệnh. Bảo đảm việc ghi nhận, ký số và liên thông dữ liệu Sổ sức khoẻ điện tử VNeID, tiếp nhận khám bệnh, chữa bệnh bằng Sổ sức khỏe điện tử VNeID.
+
+
+
+Sử dụng Sổ sức khoẻ điện tử VNeID khi đi khám chữa bệnh
+
+Bước 1:Đăng ký và tạo tài khoản, xác thực: Người dân cần cài đặt ứng dụng VNeID và đã xác thực định danh mức độ 2, tích hợp thông tin thẻ bảo hiểm y tế (nếu có).
+
+Đăng nhập ứng dụng VNeID và truy cập vào ứng dụng “Sổ sức khoẻ điện tử”, đọc điều khoản và nhấn “Đồng ý sử dụng ứng dụng Sổ sức khoẻ điện tử VNeID”. Bổ sung đầy đủ các thông tin cá nhân như tên, ngày sinh, địa chỉ, số điện thoại, và thông tin y tế cơ bản khác.
+
+Bước 2:Người dân sử dụng Sổ sức khoẻ điện tử VNeID khi đi khám, chữa bệnh: Người dân khi đi khám chữa bệnh nếu có sổ sức khoẻ điện tử VNeID đề nghị xuất trình sổ sức khoẻ VNeID thay cho sổ giấy.
+
+Bước 3:Cơ sở khám bệnh, chữa bệnh tiếp nhận thông tin trong sổ sức khoẻ điện tử VNeID khi khám, chữa bệnh: Bác sĩ, nhân viên y tế sử dụng thông tin có trong sổ sức khoẻ VNeID của người bệnh để khai thác thông tin hành chính, ra quyết định hỗ trợ chẩn đoán, điều trị.
+
+Các thông tin trên VNeID có giá trị như trên bản giấy: thông tin cá nhân; số định danh công dân; thông tin thẻ bảo hiểm y tế; lịch sử khám, chữa bệnh; phiếu hẹn khám lại; giấy chuyển tuyến trên ứng dụng VNeID có giá trị như trên bản giấy.
+
+Bước 4:Ghi nhận và liên thông kết quả khám, chữa bệnh: Các thông tin tóm tắt quá trình khám, chữa bệnh được bác sĩ và nhân viên y tế ghi nhận trên hệ thống phần mềm của cơ sở khám bệnh, chữa bệnh, và liên thông lên Cổng tiếp nhận dữ liệu giám định bảo hiểm y tế sau khi kết thúc, để tiếp tục hiển thị trên sổ sức khoẻ điện tử VNeID phục vụ các lần khám bệnh, chữa bệnh tiếp theo.
+
+Bước 5:Đăng xuất ứng dụng: Đăng xuất khỏi tài khoản VNeID trước khi thay đổi thiết bị để bảo vệ thông tin cá nhân và thông tin sức khoẻ.

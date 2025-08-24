@@ -1,0 +1,56 @@
+Liên quan tới vụ việc các doanh nghiệp Việt Nam mất quyền kiểm soát 36 bộ chứng từ gốc trong số 76 containers xuất sang Italia hồi tháng 3/2022, nhiều ý kiến cho rằng việc sử dụng phương thức thanh toán nhờ thu kèm chứng từ (D/P) đã tạo kẽ hở cho lừa đảo.
+
+Bà Trương Thị Diệu Quế, Giám đốc Trung tâm Tài trợ thương mại Vietcombank, cho rằng không có phương thức thanh toán quốc tế nào hoàn hảo. Hiện nay trong thương mại quốc tế chúng ta sử dụng 3 phương thức thanh toán là chuyển tiền (T/T), thư tín dụng (L/C) và nhờ thu kèm chứng từ (D/P).
+
+Nếu tính theo khối lượng giao dịch, hiện nay xu hướng T/T là nhiều nhất, ứng dụng trong giao dịch có mức độ rủi ro thấp. Những món trị giá lớn thông thường dùng L/C. Còn đối với giao dịch D/P, kinh nghiệm cho thấy, chỉ sử dụng phương thức này đối với các đối tác thân thiết, truyền thống, không nhờ thu với các giao dịch mới.
+
+Đối với T/T, khách hàng là giao dịch mới, chúng ta thường yêu cầu chuyển tiền trả trước hoặc yêu cầu bảo lãnh, cho phép chuyển tiền trả sau nhưng kèm giao dịch chuyển tiền sẽ là giao dịch bảo lãnh, như vậy sẽ đảm bảo an toàn cho dòng tiền xuất khẩu.
+
+Với giao dịch L/C, thông thường ngân hàng sẽ khuyến nghị cho khách hàng: đối với những giao dịch có trị giá lớn, như vụ hạt điều (1 doanh nghiệp có 30 containers điều, trị giá 3 triệu USD) nên lựa chọn phương thức thanh toán.
+
+L/C là phương thức trong đó ngân hàng chia sẻ rủi ro với doanh nghiệp theo hướng ngân hàng có thể cấp tín dụng cho doanh nghiệp, sau đó đồng hành cùng doanh nghiệp từ lập bộ chứng từ, đòi tiền thanh toán, thậm chí lựa chọn tư vấn những ngân hàng có uy tín trên thị trường cho doanh nghiệp.
+
+Còn đối với phương thức D/P thì không có được những ưu điểm này. Thông thường doanh nghiệp đến ngân hàng xuất trình bộ chứng từ để ngân hàng gửi đi thu hộ, tức là khi hàng đã lên tàu. Đáng tiếc, rất ít khách hàng sử dụng dịch vụ nhờ thu mà đề nghị ngân hàng tư vấn giúp trong giao dịch này nên lựa chọn ngân hàng nào, kênh thanh toán nào.
+
+Hơn nữa với D/P, thông tin ngân hàng của người mua chúng ta không kiểm soát được. Tại thời điểm ký hợp đồng, khi khách hàng đề nghị D/P, bản thân ngân hàng cũng rất khó để thương lượng chuyển sang ngân hàng khác trong khi khách hàng chỉ có tài khoản ở một ngân hàng đó. Trong tình huống này, chúng ta đề nghị khách hàng chuyển phương thức thanh toán hoặc nếu không phải có thêm bảo lãnh ngân hàng, khi đó mới bảo đảm cho doanh nghiệp khi thực hiện thanh toán quốc tế.
+
+Do đó, trong giao dịch thương mại quốc tế, theo bà Quế, phải nâng cao nhận thức về đối tác trong giao dịch, đặc biệt với các đối tác mới; nâng cao khả năng hiểu biết, nhận diện dấu hiệu đáng ngờ trong giao dịch.
+
+Cụ thể, trong vụ các container hạt điều, dấu hiệu đầu tiên doanh nghiệp cần nhận ra, đó là hàng chuyển đi Italia nhưng đề nghị nhờ thu lại gửi đến Thổ Nhĩ Kỳ. Trong khi đó, các ngân hàng khi hỏi lại thì sẽ được câu trả lời là ngân hàng đó là ngân hàng trong hợp đồng.
+
+“Trong trường hợp này cần cảnh giác, bởi có sự xuất hiện quá nhiều các bên tham gia ở các quốc gia khác nhau. Đường đi vòng vèo cũng là dấu hiệu cảnh báo để chúng ta nghi ngờ”, bà Quế nhận định.
+
+Ngoài ra, thông tin số vận đơn (DSL checking) cần được bảo mật. Khi chúng ta gõ số vận đơn trên DSL sẽ biết được bộ chứng từ đang đi đến đâu. Trong tình huống bộ chứng từ nhờ thu của tất cả các doanh nghiệp hạt điều này đều theo lệnh “người nhận hàng, người sở hữu chứng từ trên vận đơn đường biển” lại thuộc sở hữu của người trả tiền ở nước Italia. Đây là sơ hở để khi họ kiểm soát được bộ chứng từ bằng cách họ chặn, tráo chứng từ thì chúng ta bị mất quyền kiểm soát.
+
+Bà Vũ Thị Hằng, Phó trưởng Ban Thư ký Trung tâm Trọng tài quốc tế Việt Nam (VIAC), cho rằng theo tập quán giao dịch thương mại quốc tế, đối với giao dịch nhờ thu, thông thường các ngân hàng sẽ khuyến nghị khách hàng sử dụng vận đơn theo lệnh của ngân hàng thu hộ. Trong giao dịch nhờ thu ít ra có sự xuất hiện của hai ngân hàng: ngân hàng của nhà xuất khẩu và ngân hàng của nhà nhập khẩu.
+
+Trường hợp chúng ta chưa yên tâm về uy tín của người mua, chúng ta có thể nhờ ngân hàng của người mua đứng tên sở hữu bộ chứng từ. Khi bộ chứng từ theo lệnh của ngân hàng thu hộ (ngân hàng ở Italia) thì bộ chứng từ đó nếu người mua chạm vào lấy được từ DSL thì cũng không lấy được hàng, vì lúc đó vận đơn thuộc sở hữu của ngân hàng.
+
+Theo đại diện Vietcombank, các bộ phận làm công tác xuất nhập khẩu trong doanh nghiệp cũng nên nghiên cứu tập quán này. Chuyển tiền chỉ có các quy định về quản lý ngoại hối nhưng đối với nhờ thu và L/C chúng ta có nguyên tắc. Một khi đã thông thạo những nguyên tắc này thì bản thân chúng ta đã được bảo vệ bởi luật pháp.
+
+Một vấn đề nữa, thông tin về các địa phương ở Italia hoặc các nước, doanh nghiệp đều có trên trang web của nước đó, nhưng các thông tin này rất giới hạn. Vì vậy khi tư vấn giao dịch cho khách hàng, khi họ có khách hàng mới, số lượng hàng lớn, ngân hàng thường khuyến nghị khách hàng nên mua tin từ các trang thông tin chi tiết để xác minh độ tin cậy của đối tác...
+
+Ngoài ra, doanh nghiệp xuất khẩu thường gặp những rào cản kỹ thuật như yêu cầu hàng hóa nông sản phải có chứng nhận của đơn vị độc lập nhưng hàng đến cảng chúng ta mới nhận được giấy chứng nhận đó. Đây là một rủi ro, cản trở chúng ta nhận được tiền thanh toán hoặc yêu cầu xuất trình thêm chứng từ nào đó trong bộ chứng từ, mà người mua phải mang chứng từ đó ra ngân hàng thì mới nhận được tiền thanh toán. Những quy định này khá chuyên biệt, đặc thù và nó chỉ thích hợp với một số hình thức thanh toán nhất định nên doanh nghiệp cần lựa chọn ngân hàng có uy tín để nhận được tư vấn từ ngân hàng.
+
+Ông Trần Thanh Hải, Phó cục trưởng Cục Xuất nhập khẩu, Bộ Công Thương, đồng tình và cho biết trong thương mại quốc tế, ngân hàng không chỉ đóng vai trò tổ chức thanh toán mà còn có vai trò tư vấn. Bởi ngân hàng có hệ thống đại lý của mình và có thể tư vấn cho người bán biết một ngân hàng do người mua chỉ định có tin tưởng được hay không. Nếu không tin tưởng ngân hàng người mua, người bán nên thương lượng, đề nghị người mua chuyển sang ngân hàng khác, hoặc thay đổi phương thức thanh toán, hoặc yêu cầu phải có thêm bảo lãnh ngân hàng.
+
+
+
+Trong thương mại quốc tế, doanh nghiệp nên yêu cầu người mua đặt cọc. Điều này vừa giúp chứng minh người mua thực sự có tài khoản ở ngân hàng, vừa thể hiện cam kết, ý chí thực sự của người mua.
+
+Việc yêu cầu đặt cọc là bình thường khi giao dịch với đối tác mới, doanh nghiệp không nên để người mua thuyết phục bỏ qua điều kiện này.
+
+Trong thương mại quốc tế, doanh nghiệp nên yêu cầu người mua đặt cọc. Điều này vừa giúp chứng minh người mua thực sự có tài khoản ở ngân hàng, vừa thể hiện cam kết, ý chí thực sự của người mua.
+Việc yêu cầu đặt cọc là bình thường khi giao dịch với đối tác mới, doanh nghiệp không nên để người mua thuyết phục bỏ qua điều kiện này.
+
+Mặt khác, doanh nghiệp nên yêu cầu người mua đặt cọc. Điều này vừa giúp chứng minh người mua thực sự có tài khoản ở ngân hàng, vừa thể hiện cam kết, ý chí thực sự của người mua. “Việc yêu cầu đặt cọc là bình thường khi giao dịch với đối tác mới, doanh nghiệp không nên để người mua thuyết phục bỏ qua điều kiện này”, ông Hải khuyến cáo.
+
+Còn L/C là phương thức thanh toán an toàn nhất cho người bán. Nhưng người bán vẫn có thể khó nhận được tiền nếu hợp đồng L/C quy định thanh toán dựa trên một chứng từ của bên thứ ba tại nước người mua. Hay hợp đồng L/C quy định trong bộ chứng từ phải xuất trình có chứng từ do người mua phát hành; hợp đồng L/C có những quy định về vận đơn làm giảm khả năng kiểm soát hàng hóa của người bán.
+
+Hợp đồng L/C là một hợp đồng độc lập với hợp đồng bán hàng. Do vậy, khi đàm phán hợp đồng L/C, người bán cần lưu ý để không rơi vào các trường hợp trên.
+
+Quan trọng hơn, theo ông Hải, các biện pháp phòng ngừa rủi ro, trong trường hợp muốn bán hàng mà lại chưa yên tâm về người mua, người bán có thể sử dụng một số biện pháp để đảm bảo không bị mất hàng như yêu cầu vận đơn theo lệnh của ngân hàng. Như vậy ai có vận đơn trong tay mà chưa có lệnh của ngân hàng thì cũng chưa thể nhận được hàng.
+
+Trong trường hợp cước phí trả tại Việt Nam (người bán thuê tàu và trả cước, như trường hợp các container điều vừa qua), người bán không nên trả hết tiền cho hãng tàu ngay, mà lấy bảo lãnh ngân hàng để đàm phán với hãng tàu cho thanh toán trả chậm. Nếu người mua chưa thanh toán tiền hàng, người bán chưa trả hết cước thì hãng tàu cũng không thể giao hàng cho người mua.
+
+Một giải pháp khác, doanh nghiệp có thể chọn sử dụng các phương thức phòng tránh rủi ro của ngân hàng, ví dụ xác nhận L/C, bảo lãnh thanh toán, bảo lãnh thực hiện hợp đồng... sẽ mất thêm một khoản phí, nhưng giảm bớt rủi ro.

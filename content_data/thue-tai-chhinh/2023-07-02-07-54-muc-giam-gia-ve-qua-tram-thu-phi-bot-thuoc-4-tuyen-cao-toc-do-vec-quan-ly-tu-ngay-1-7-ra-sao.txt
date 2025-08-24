@@ -1,0 +1,39 @@
+Triển khai Nghị định số 44/2023/NĐ-CP ngày 30/6/2023 của Chính phủ quy định chính sách giảm thuế giá trị gia tăng theo Nghị quyết số 101/2023/QH15 ngày 24/6/2023 của Quốc hội, bắt đầu từ ngày 1/7, Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam (VEC) điều chỉnh giá vé qua các trạm thu phí (bao gồm thuế suất thuế giá trị gia tăng từ 10% giảm xuống 8%) đối với 4 tuyến đường cao tốc: Nội Bài - Lào Cai, Cầu Giẽ - Ninh Bình, Đà Nẵng - Quảng Ngãi, TP.HCM - Long Thành - Dầu Giây.
+
+Theo Nghị định số 44, thuế suất thuế giá trị gia tăng được giảm về mức 8% đối với các nhóm hàng hóa, dịch vụ đang áp dụng mức thuế suất 10% (bao gồm dịch vụ sử dụng đường bộ), trừ nhóm hàng hóa, dịch vụ: viễn thông, hoạt động tài chính, ngân hàng, chứng khoán, bảo hiểm, kinh doanh bất động sản, kim loại và sản phẩm từ kim loại đúc sẵn, sản phẩm khai khoáng (không kể khai thác than), than cốc, dầu mỏ tinh chế, sản phẩm hóa chất, sản phẩm hàng hóa và dịch vụ chịu thuế tiêu thụ đặc biệt, công nghệ thông tin theo pháp luật về công nghệ thông tin.
+
+Đối tượng và chủ phương tiện phải thanh toán tiền dịch vụ sử dụng đường bộ gồm các phương tiện sử dụng dịch vụ trên các tuyến đường cao tốc do VEC quản lý khai thác phải thanh toán tiền dịch vụ sử dụng theo quy định để đảm bảo hoàn vốn đầu tư dự án theo Quyết định phê duyệt đầu tư dự án của Bộ Giao thông vận tải, trừ các trường hợp được miễn theo quy định của Bộ Giao thông vận tải tại Thông tư số 35/2016/TT-BGTVT ngày 15/11/2016 quy định mức giá tối đa dịch vụ sử dụng đường bộ các dự án đầu tư xây dựng đường bộ để kinh doanh do Bộ Giao thông vận tải quản lý.
+
+Cụ thể, cao tốc Nội Bài - Lào Cai có mức giảm cao nhất tương ứng với quãng đường từ Km6 đến nút giao IC12 là 22.000 đồng, mức giảm thấp nhất từ Km6 đến nút giao IC3 là 1.000 đồng.
+
+Tương tự, cao tốc Cầu Giẽ - Ninh Bình mức giảm cao nhất 3.800 đồng, mức thấp nhất là 1.000 đồng. Còn cao tốc Đà Nẵng - Quảng Ngãi mức giảm cao nhất là 14.000 đồng, thấp nhất là 1.000 đồng. Cao tốc TP.HCM - Long Thành - Dầu Giây mức giảm cao nhất là 7.000, mức giảm thấp nhất là 1.000 đồng.
+
+Về chính sách giảm giá vé áp dụng các trạm thu phí BOT trên cả nước từ ngày 1/7, Cục Đường bộ Việt Nam cho biết đã có văn bản yêu cầu các nhà đầu tư BOT, đơn vị cung cấp dịch vụ thu phí chuẩn bị các công việc cần thiết cho triển khai thu tiền sử dụng dịch vụ đường bộ có giảm thuế giá trị gia tăng trong giá vé theo quy định.
+
+Cùng với đó, Cục Đường bộ Việt Nam cũng có văn bản hướng dẫn các nhà đầu tư BOT phương pháp xác định mức giá cụ thể sau khi áp dụng mức thuế suất thuế giá trị gia tăng 8% đối với giá vé tại các trạm thu phí.
+
+Hiện việc thu tiền dịch vụ sử dụng đường bộ tại các trạm thu phí đang áp dụng hình thức điện tử tự động không dừng, do đó, Cục Đường bộ cũng yêu cầu các nhà đầu tư BOT cập nhật mức giá được giảm thuế vào hệ thống.
+
+Cũng theo Cục Đường bộ, việc áp dụng mức thuế suất thuế giá trị gia tăng 8% theo quy định trong giá vé không làm giảm doanh thu của các dự án BOT.
+
+Giá dịch vụ sử dụng đường bộ tại các trạm thu phí của các dự án đầu tư xây dựng đường bộ để kinh doanh do Bộ Giao thông vận tải quản lý khi áp dụng mức thuế suất thuế giá trị gia tăng 8% trong giá vé sẽ tạo ra giá vé mới với số tiền lẻ đến đơn vị hàng đồng.
+
+
+
+Hiện có 4,6 triệu phương tiện dán thẻ, mở tài khoản giao thông, đạt trên 90% tổng số lượng phương tiện trên cả nước. Số lượng giao dịch thông qua hệ thống thu phí không dừng chiếm tới 90% tổng số giao dịch.
+
+Theo ghi nhận, từ khi triển khai hệ thống thu phí tự động không dừng trên toàn quốc, thời gian xe lưu thông qua trạm thu phí thực tế rút ngắn 6 - 7 lần so với thu phí thủ công đã giúp giảm ùn tắc, xe qua trạm nhanh, thuận tiện hơn.
+
+Bên cạnh đó, tỷ lệ người dân dán thẻ và sử dụng dịch vụ trên tuyến đã đạt trên 90%, các lỗi về thẻ, không có tiền trong tài khoản giao thông sau gần 1 năm vận hành giảm đáng kể. Hơn nữa, do tất cả các tuyến đều bắt buộc ETC nên người dân dần quen với thu phí không dừng, điều này khiến việc lưu thông qua các trạm thu phí BOT dần trở nên thuận lợi hơn.
+
+Bộ Giao thông vận tải xây dựng lộ trình triển khai hệ thống thu phí ETC qua 3 giai đoạn.
+
+Giai đoạn 1, các trạm thu phí vẫn tồn tại có barrier.
+
+Barrier sẽ mở cho xe đi qua trong trường hợp khi xe có thông tin thẻ dịch vụ hợp lệ, có đủ số dư tài khoản thu phí và vẫn tồn tại hình thức thu phí một dừng. Khi xe chưa gắn thẻ dịch vụ, hoặc có gắn thẻ dịch vụ nhưng không đủ số dư tài khoản thì khách hàng có thể trả tiền phí sau khi đi qua trạm.
+
+Giai đoạn 2, tại các trạm thu phí không còn barrier, chỉ duy trì các dải phân cách các làn. Các phương tiện lưu thông tự do theo làn qua trạm thu phí, không tồn tại hình thức thu phí một dừng.
+
+Giai đoạn 3, khu vực trạm thu phí chỉ còn duy trì giá long môn và các thiết bị thu phí gắn trên giá long môn. Các phương tiện lưu thông tự do đa làn qua khu vực trạm thu phí. Đây là giai đoạn được mong chờ nhất của cả Chính phủ và người tham gia giao thông.
+
+Đến thời điểm hiện nay, cả nước có trên 90% số lượng phương tiện dán thẻ và nạp tiền sử dụng dịch vụ, đây là điều kiện tiên quyết để chuyển sang giai đoạn cho phép chủ xe trả sau và bỏ barie.

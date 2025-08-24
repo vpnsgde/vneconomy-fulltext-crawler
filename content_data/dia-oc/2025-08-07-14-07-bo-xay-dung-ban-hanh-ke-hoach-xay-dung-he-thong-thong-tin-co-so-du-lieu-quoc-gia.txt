@@ -1,0 +1,11 @@
+Bộ Xây dựng vừa ban hành Quyết định số 1211/QĐ-BXD về kế hoạch triển khai xây dựng hệ thống thông tin, cơ sở dữ liệu quốc gia về hoạt động xây dựng. Kế hoạch nhằm mục tiêu tổ chức thực hiện hiệu quả, đảm bảo tiến độ xây dựng hệ thống, đồng thời xác định rõ những nhiệm vụ cụ thể làm cơ sở để các cơ quan, đơn vị liên quan triển khai.
+
+Cụ thể, Kế hoạch đề ra 12 nhiệm vụ, gồm khảo sát nghiệp vụ; thống nhất giao diện, các chức năng; ban hành Thông tư hướng dẫn một số thông tin chi tiết trong hệ thống thông tin, cơ sở dữ liệu quốc gia về hoạt động xây dựng; khảo sát tại địa phương; xây dựng hệ thống; kiểm tra các chức năng; kiểm thử, đánh giá an toàn thông tin; chuyển đổi, chuẩn hóa, tạo lập dữ liệu, số hóa các dữ liệu ban đầu; đào tạo, tập huấn thí điểm; triển khai thử nghiệm Hệ thống; khai trương Hệ thống thử nghiệm; tích hợp, kết nối hệ thống và đồng bộ dữ liệu về Trung tâm dữ liệu quốc gia.
+
+Về tiến độ thực hiện, một số mốc thời gian đáng chú ý là ngày 30/7/2025 hoàn thành khảo sát, phân tích nghiệp vụ; từ 1/8/2025 đến 20/8/2025 hoàn thành khảo sát tại một số địa phương và xây dựng hệ thống; 30/10/2025 hoàn thiện chuyển đổi, chuẩn hóa, tạo lập dữ liệu, số hóa các dữ liệu ban đầu; 15/12/2025 khai trương hệ thống thử nghiệm; từ 20/12/2025 tích hợp hệ thống và đồng bộ dữ liệu về Trung tâm dữ liệu quốc gia.
+
+Trung tâm công nghệ thông tin sẽ là đơn vị chủ trì triển khai, phối hợp chặt chẽ với Cục Kinh tế - Quản lý đầu tư xây dựng, Vụ Quy hoạch - Kiến trúc và một số cơ quan, đơn vị liên quan.
+
+Theo Bộ Xây dựng, việc xây dựng cơ sở dữ liệu quốc gia về hoạt động xây dựng sẽ giúp tạo lập nền tảng thông tin minh bạch, chính xác và kịp thời phục vụ quản lý điều hành. Do đó, trên cơ sở các nhiệm vụ được giao của Kế hoạch, các cơ quan, đơn vị có trách nhiệm thực hiện đảm bảo tiến độ. Thủ trưởng cơ quan, đơn vị liên quan tập trung chỉ đạo thực hiện nội dung nhiệm vụ, giải pháp cụ thể; tăng cường kiểm tra, đôn đốc việc triển khai; thường xuyên trao đổi, phối hợp chặt chẽ trong quá trình thực hiện.
+
+Trường hợp nếu có khó khăn, vướng mắc thì các cơ quan, đơn vị chủ động báo cáo lãnh đạo Bộ xem xét, quyết định.

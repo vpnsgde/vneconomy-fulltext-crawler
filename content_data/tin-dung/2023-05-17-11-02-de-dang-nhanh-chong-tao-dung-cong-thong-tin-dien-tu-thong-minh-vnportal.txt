@@ -1,0 +1,21 @@
+vnPortal có giao diện thân thiện, hiện đại, hỗ trợ đa nền tảng, tích hợp các công nghệ 4.0, có khả năng kết nối liên thông với các hệ thống khác như “Quản lý văn bản”, “Một cửa điện tử”… nhưng vẫn đảm bảo an toàn dữ liệu ở mức cao là những yếu tố quan trọng mà bất cứ đơn vị nào cũng cần quan tâm khi triển khai cổng thông tin điện tử. Nắm bắt được nhu cầu này, ngay từ năm 2013, VNPT đã xây dựng cổng thông tin điện tử vnPortal. Đây là trang thông tin điện tử tích hợp các kênh thông tin, các dịch vụ và ứng dụng khác theo phương thức thống nhất thông qua giao diện web.
+
+Không giống như các cổng thông tin điện tử được xây dựng trên nền tảng cổng thông tin sẵn có như Liferay, SharePoint, … vnPortal được VNPT xây dựng từ đầu bằng .NET Framework nên VNPT hoàn toàn làm chủ công nghệ lõi cổng thông tin. Qua đó, VNPT cũng làm chủ trong việc phát triển, nâng cấp, bổ sung tính năng của cổng. vnPortal được thiết kế để đơn vị triển khai dễ dàng tạo dựng mới chức năng, mở rộng và tích hợp với các hệ thống khác.
+
+Đặc biệt, hệ thống có khả năng liên thông tin bài trên toàn bộ hệ thống cổng cho phép tự lấy tin hoặc đẩy tin lên các cổng khác. Hiện hệ thống đã kết nối hoàn toàn với hệ thống một cửa điện tử và văn bản điều hành để lấy thông tin kết quả xử lý và trao đổi văn bản qua mạng và có khả năng liên thông trục hành chính công quốc gia và kết nối dịch vụ hành chính công.
+
+vnPortal thân thiện, dễ dùng, hỗ trợ đa ngôn ngữ bao gồm tiếng Việt, Anh, Pháp, Nhật, Trung và tiếng Khmer, sẵn sàng bổ sung thêm các ngôn ngữ khác, vnPortal còn hỗ trợ chức năng cho người khuyết tật, hỗ trợ hiển thị trên đa nền tảng như PC, laptop, máy tính bảng và thiết bị di động và tự động phân biệt, nhận diện thiết bị hiển thị để chuyển đổi giao diện phù hợp, tối ưu hiển thị cho người dùng dễ dàng sử dụng.
+
+Ngoài ra, hệ thống có khả năng cá nhân hóa, tùy biến cao nên các đơn vị sử dụng có thể tự tạo giao diện riêng từ nguồn tài nguyên của hệ thống, với các thao tác như tạo trang thành phần, tạo cấu trúc trang, lựa chọn giao diện hiển thị…Vì có thể tùy biến giao diện và tích hợp nhanh chóng các module chức năng thành phần nên vnPortal dễ dàng triển khai đến khách hàng theo tiêu chí Đúng - Đủ - Kịp thời yêu cầu của khách hàng.
+
+Cổng thông tin điện tử vnPortal của VNPT tích hợp công nghệ hiện đại theo chuẩn hệ thống mở phù hợp với xu hướng phát triển của Internet đảm bảo được nhu cầu gia tăng các dịch vụ, tăng số lượng người dùng trong tương lai. Hệ thống đáp ứng các tiêu chí về an toàn bảo mật thông tin và hạ tầng IDC tiêu chuẩn Tier 3 Uptime, đảm bảo tính ổn định và hoạt động liên tục, đảm bảo an toàn thông tin dữ liệu tối đa, chống các hành vi tấn công và phá hoại mạng.
+
+vnPortal đã đạt nhiều danh hiệu, chứng nhận như danh hiệu Sao khuê 2020 trong lĩnh vực chính phủ điện tử, giải thưởng Kinh doanh Quốc tế 2020 International Business Awards - IBA Steive Awards và đang là một trong những sản phẩm cốt lõi nằm trong hệ sinh thái Chính quyền số của Tập đoàn VNPT được khối chính quyền, y tế, giáo dục, tổ chức doanh nghiệp lựa chọn. Ngoài Cổng thông tin điện tử Chính phủ Việt Nam, vnPortal còn được triển khai cho 8 cổng thông tin điện tử cấp tỉnh, hơn 350 cấp huyện và hơn 1.100 cổng cấp xã, hơn 2.200 Sở, Phòng Giáo dục, trường học trên toàn quốc.
+
+Cổng thông tin điện tử vnPortal sẽ cung cấp giải pháp số giúp các doanh nghiệp, cơ quan tổ chức và cá nhân truyền tải thông tin, gia tăng khả năng tương tác với khách hàng. Hệ thống cũng giúp chính quyền tạo môi trường hành chính công hiện đại, tiết kiệm thời gian cho người dân, đa dạng hóa nội dung cung cấp và cũng là kênh quảng bá thương hiệu, hình ảnh của chính quyền tỉnh thành phố trong xu hướng hội tụ công nghệ của thời đại.
+
+Với đội ngũ kỹ sư công nghệ thông tin giàu kinh nghiệm, trải rộng trên toàn quốc, VNPT sẽ hỗ trợ các đơn vị triển khai nhanh cổng thông tin điện tử và luôn sẵn sàng hỗ trợ 24/7 khi khách hàng cần. Với vnPortal, khách hàng có thể thuê dịch vụ hoặc mua chọn gói vnPortal với chi phí hợp lý.
+
+* Thông tin chi tiết:
+
+Hotline miễn phí: 18001260Website: vnpt.com.vn

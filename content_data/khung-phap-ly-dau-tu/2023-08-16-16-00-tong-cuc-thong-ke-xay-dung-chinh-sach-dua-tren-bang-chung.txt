@@ -1,0 +1,31 @@
+Tại hội thảo quốc tế “Quản lý hệ sinh thái dữ liệu, quản trị và giám hộ dữ liệu” do Tổng cục Thống kê và Quỹ Dân số Liên hợp quốc (UNFPA) đồng chủ trì sáng 16/8, bà Nguyễn Thị Hương cho rằng, sự tham gia của cơ quan thống kê quốc gia trong quản trị và giám hộ dữ liệu, đóng vai trò quan trọng đối với việc thực hiện nhiệm vụ tại cơ quan nhà nước các cấp.
+
+Việc khai thác và sử dụng dữ liệu hành chính trong sản xuất thông tin thống kê đã và đang trở thành xu hướng trong công tác thống kê của nhiều nước trên thế giới nói chung và Việt Nam nói riêng.
+
+Tuy vậy, sử dụng dữ liệu hành chính trong thống kê hiện nay còn gặp một số khó khăn, thách thức. Đó là nguồn dữ liệu hành chính được thiết lập ban đầu phục vụ chính cho công tác quản lý, điều hành của bộ, ngành chứ không phải cho mục đích thống kê.
+
+“Do vậy, để khai thác và sử dụng trong công tác thống kê cần có thời gian nghiên cứu, tìm hiểu và tiếp tục hoàn thiện các dữ liệu hành chính để phục vụ sử dụng đa mục tiêu. Nhiều bộ, ngành chưa triển khai đồng bộ các cơ sở dữ liệu, chưa sẵn sàng kết nối thông tin với cơ quan thống kê”, bà Hương nói.
+
+Ông Rémi Nono Womdim, Trưởng đại diện Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc (FAO) và Phụ trách văn phòng Quỹ Dân số Liên hợp quốc - UNFPA tại Việt Nam đánh giá, trong những năm gần đây, Tổng Cục Thống kê và các bộ, ngành đã có nhiều nỗ lực cung cấp dữ liệu và thống kê quốc gia.
+
+Tuy nhiên, hiện vẫn còn thiếu các dữ liệu phân tách, đặc biệt là theo các nhóm dân tộc thiểu số và theo độ tuổi, để hỗ trợ công việc hoạch định chính sách dựa trên bằng chứng nhằm giải quyết các vấn đề liên quan đến bất bình đẳng. Ngoài ra, việc sử dụng các dữ liệu thống kê hành chính, ví dụ như đăng ký hộ tịch, hay thống kê dữ liệu lớn vẫn còn rất hạn chế.
+
+Đồng thời, vẫn còn thiếu những phân tích sâu về các vấn đề dân số thông qua các nguồn dữ liệu khác nhau như tổng điều tra, các điều tra dựa trên dân số, dữ liệu hành chính, các dữ liệu không chính thống và dữ liệu lớn để có thể hiểu sâu hơn những nhân tố ảnh hưởng và quyết định tới các biến động dân số.
+
+“Đặc biệt, việc chia sẻ dữ liệu giữa các bộ ngành và các bên liên quan ngoài chính phủ còn hạn chế do thiếu khung pháp lý cụ thể điều chỉnh việc chia sẻ và trao đổi dữ liệu”, ông Rémi cho biết.
+
+Để đạt được những mục tiêu kinh tế cũng như phát triển bền vững đã đề ra, đại diện UNFPA cho rằng Việt Nam cần dữ liệu thống kê chất lượng hơn.
+
+“Dữ liệu có chất lượng, đáng tin cậy, nhất quán và có thể so sánh được là một yếu tố quan trọng để biến điều này thành hiện thực”, ông Rémi nhấn mạnh.
+
+Theo đó, trong thời gian tới, Tổng cục Thống kê tiếp tục xây dựng hệ thống dữ liệu thống kê quốc gia từ các nguồn thông tin điều tra, tổng điều tra thống kê, cơ sở dữ liệu hành chính và các chế độ báo cáo thống kê cho hoạt động thống kê quốc gia nói chung và chia sẻ dùng chung giữa các cơ quan nhà nước.
+
+“Đặc biệt, xây dựng cơ sở dữ liệu thống kê quốc gia dựa nhiều hơn vào các dữ liệu hành chính sẵn có từ các cơ quan nhà nước”, bà Hương cho biết.
+
+
+
+Hội thảo quốc tế về “Quản lý hệ sinh thái dữ liệu, quản trị và giám hộ dữ liệu” có sự tham dự của các chuyên gia về dữ liệu và thống kê trong nước và quốc tế nhằm chia sẻ kinh nghiệm nghiên cứu khả thi và thực hiện các ứng dụng hiệu quả, từ đó nâng cao giá trị dữ liệu và tăng cường hiểu biết về hệ sinh thái dữ liệu cho các cơ quan quản lý dữ liệu của các bộ, ngành và các nhà hoạch định chính sách của Việt Nam.
+
+Hội thảo tập trung trao đổi những vấn đề chung về hiện trạng cũng như vai trò của cơ quan thống kê quốc gia, các bộ ngành liên quan trong quản lý hệ sinh thái dữ liệu, quản trị và giám hộ dữ liệu.
+
+Các chuyên gia đặc biệt nhấn mạnh đến những vấn đề như số hóa, sử dụng nguồn dữ liệu hành chính, dữ liệu lớn (Big Data) và cơ chế chia sẻ các dữ liệu hành chính giữa các cơ quan sở hữu dữ liệu quốc gia và giữa các bộ, ngành. Đại biểu tham dự hội nghị thảo luận những thách thức trong quản trị và giám hộ dữ liệu và xu hướng trong tương lai.

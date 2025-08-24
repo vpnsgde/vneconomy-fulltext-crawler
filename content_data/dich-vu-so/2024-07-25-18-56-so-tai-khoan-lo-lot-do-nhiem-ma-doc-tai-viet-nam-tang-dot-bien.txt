@@ -1,0 +1,35 @@
+Thực trạng này được chỉ ra tại hội thảo về tăng cường khả năng ứng phó tấn công mạng của doanh nghiệp, tập huấn mô phỏng bảo vệ tương tác do Cục An toàn thông tin (Bộ Thông tin và Truyền thông) và Công ty An ninh mạng Kaspersky tổ chức ngày 25/7/2024 nhằm nâng cao nhận thức, khả năng phòng thủ, ứng phó của doanh nghiệp trước các cuộc tấn công mạng với các kỹ thuật và tần suất ngày một phức tạp và tinh vi, gây ảnh hưởng đến doanh nghiệp.
+
+Theo ông Lê Văn Tuấn, Cục trưởng Cục An toàn thông tin, tấn công mạng đang được xem là một trong những thách thức hàng đầu mà các tổ chức trong nước và trên thế giới đang phải đối mặt. Các cuộc tấn công mạng diễn biến ngày càng phức tạp, tinh vi, khó đoán.
+
+Trên thế giới, quy mô tấn công mạng đang có xu hướng diễn ra trên phạm vi toàn cầu. Mục tiêu thường nhắm đến là các lĩnh vực quan trọng, hạ tầng trọng yếu như: Năng lượng, mạng lưới điện, ngân hàng, y tế, tài nguyên môi trường, giao thông, thông tin truyền thông... gây thiệt hại cho nhiều quốc gia.
+
+Tại Việt Nam, thời gian gần đây đã xảy ra một số sự cố bảo mật nghiêm trọng liên quan đến mã hóa dữ liệu, gây thiệt hại cho các tổ chức, doanh nghiệp về danh tiếng, tài chính. Điều này đặt ra nhiều thách thức với các các tổ chức, doanh nghiệp.
+
+Tính riêng trong 6 tháng đầu năm 2024, hệ thống giám sát kỹ thuật của Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã ghi nhận 90.033 điểm yếu, lỗ hổng an toàn thông tin của các cơ quan, tổ chức tại Việt Nam. Từ đầu năm đến nay, số sự cố nghiêm trọng mà Cục phải xử lý đã tăng gần 60% so với năm 2023.
+
+Cùng với sự gia tăng các cuộc tấn công vào các hệ thống thông tin quan trọng, lừa đảo trực tuyến, việc đánh cắp, lộ lọt thông tin dữ liệu cá nhân, đặc biệt là lộ lọt do thiết bị nhiễm mã độc đang diễn ra phổ biến, phức tạp. Tình trạng mua bán dữ liệu đang diễn ra một cách công khai, được tổ chức có hệ thống với sự tham gia của các tổ chức, doanh nghiệp.
+
+
+
+Báo cáo của Kaspersky cho thấy, số tài khoản lộ lọt do nhiễm mã độc tại Việt Nam trong những năm gần đây gia tăng đột biến, tính riêng năm 2023 gấp 31 lần so với năm 2020.
+
+Còn hệ thống an ninh mạng của Viettel ghi nhận, trong 6 tháng đầu năm 2024 có 46 vụ lộ lọt rao bán dữ liệu, 13 triệu bản ghi dữ liệu bị rao bán và 12,3 GB mã nguồn bị lộ lọt.
+
+Bất chấp những cảnh báo từ Cục An toàn thông tin và các cơ quan chức năng, số nạn nhân của các vụ lừa đảo trực tuyến vẫn có xu hướng gia tăng. Tính đến tháng 6/2024, thông qua việc triển khai Hệ thống cảnh báo, ngăn chặn tên miền độc hại quốc gia, Cục An toàn thông tin đã ngăn chặn 3.170 website lừa đảo trực tuyến, bảo vệ gần 10 triệu người dân trước các website lừa đảo, vi phạm pháp luật.
+
+Từ thực tế trên đòi hỏi các tổ chức, doanh nghiệp phải chú trọng, tăng cường bảo đảm an toàn thông tin phía người dùng hệ thống.
+
+Theo bà Genie Sugene Gan, Giám đốc phụ trách Quan hệ Chính phủ và Chính sách Công Khu vực châu Á-Thái Bình Dương, Nhật Bản, Trung Đông, Thổ Nhĩ Kỳ và châu Phi, chuyển đổi số sẽ làm tăng bề mặt tấn công mạng khi các doanh nghiệp kết nối với nhau nhiều hơn. Việc tích hợp các hệ thống kinh doanh, công nghệ thông tin và công nghệ vận hành cho phép ra quyết định dựa trên dữ liệu đặt ra những thách thức bảo mật mới.
+
+Theo báo cáo, 82% người được hỏi về vấn đề bảo mật công nghệ thông tin và đội ngũ lãnh đạo doanh nghiệp đã gặp phải ít nhất một lần vi phạm dữ liệu do chuyển đổi số. Hơn nữa, việc tích hợp các công nghệ mới nổi như AI, dữ liệu lớn, blockchain và IoT trong chuyển đổi số đòi hỏi phải nâng cao nhận thức về an ninh mạng.
+
+Vì vậy, chương trình này là một trong nhiều sáng kiến ​Kaspersky đang cung cấp, để tiếp tục hỗ trợ và hợp tác với Bộ Thông tin và Truyền thông nâng cao nhận thức về an ninh mạng.
+
+Cục An toàn thông tin cho biết Chương trình có sự tham gia của hơn 200 tổ chức, doanh nghiệp với hơn 400 cán bộ chuyên gia đến từ mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia.
+
+Ông Tuấn nhấn mạnh, qua diễn tập mô phỏng tương tác, các lãnh đạo và những người chịu trách nhiệm đảm bảo an toàn thông tin sẽ có cái nhìn trực quan và tổng thể về tình hình an toàn thông tin của tổ chức, đơn vị, từ đó đưa ra các hành động đúng đắn và hiệu quả trong bối cảnh an toàn thông tin ngày càng diễn biến phức tạp như hiện nay.
+
+KIPS là chương trình “vừa học vừa làm” thực tế dựa trên các tình huống thực tế, đưa người tham gia vào môi trường kinh doanh mô phỏng, đối mặt với các mối đe dọa mạng bất ngờ trong khi vẫn duy trì hoạt động trơn tru của công ty và tạo doanh thu.
+
+Nền tảng KIPS mô phỏng một công ty hoặc tổ chức đang hoạt động, có doanh thu và có chi phí để thực hiện các hoạt động đảm bảo an toàn thông tin. Ban tổ chức đưa ra các sự kiện an toàn thông tin, nhiệm vụ của nhóm người tham gia là lựa chọn các hành động đúng đắn, phù hợp nhất để ứng phó, giảm thiểu rủi ro mất an toàn thông tin và thiệt hại tới doanh thu.

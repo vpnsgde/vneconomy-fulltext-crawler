@@ -1,0 +1,43 @@
+Ngày 23/5, Hội thảo và triển lãm quốc tế Vietnam Security Summit 2025, sự kiện thường niên về an ninh mạng đã diễn ra tại TP.HCM, do Hiệp hội An ninh mạng quốc gia và Tập đoàn IEC phối hợp tổ chức.
+
+Với chủ đề“Bảo đảm an ninh mạng và tạo lập niềm tin trong kỷ nguyên mới”, hội thảo có sự tham gia của đại diện lãnh đạo Bộ Quốc phòng, Bộ Công an, Cục An ninh mạng và Phòng chống tội phạm sử dụng công nghệ cao, Ủy ban nhân dân TP.HCM cùng các chuyên gia hàng đầu về bảo mật trong và ngoài nước. Sự kiện là diễn đàn quan trọng nhằm chia sẻ giải pháp thực tiễn, xu hướng mới và thúc đẩy hợp tác đa ngành để tạo dựng một không gian mạng an toàn cho Việt Nam, đặc biệt trong việc bảo mật thông tin chính yếu quốc gia.
+
+Phát biểu tại hội thảo, Thiếu tướng Lê Minh Mạnh, Phó Cục trưởng Cục An ninh mạng và Phòng chống tội phạm sử dụng công nghệ cao (Bộ Công an), cho biết mỗi năm có hàng chục nghìn hệ thống thông tin trọng yếu tại Việt Nam bị tấn công, đánh cắp dữ liệu, gây thiệt hại nghiêm trọng về kinh tế và an ninh quốc gia. Bảo vệ dữ liệu và hệ thống thông tin hiện nay không chỉ là nhiệm vụ kỹ thuật, mà là trách nhiệm vụ cấp bách và lâu dài, đòi hỏi sự vào cuộc của cả hệ thống chính trị, doanh nghiệp và người dân.
+
+Cuộc cách mạng công nghiệp 4.0 đang diễn ra với tốc độ chóng mặt, kéo theo hàng loạt công nghệ đột phá như trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data), điện toán đám mây... tạo ra giá trị to lớn cho nền kinh tế và xã hội. Tuy nhiên, sự phát triển này cũng đặt ra nhiều thách thức nghiêm trọng về an ninh mạng và an toàn dữ liệu số.
+
+Theo Thiếu tướng Mạnh, để ứng phó hiệu quả với các nguy cơ an ninh mạng, cần có sự phối hợp chặt chẽ giữa công – tư để xây dựng một không gian số an toàn, lành mạnh, không thể tách rời khỏi trách nhiệm chung của toàn xã hội. Với sự tham dự của các chuyên gia hàng đầu trong lĩnh vực an ninh mạng tại hội thảo chính là cơ hội để các bên cùng nhau trao đổi, chia sẻ những thách thức mới nổi, cũng như đề xuất các giải pháp toàn diện nhằm bảo vệ hạ tầng số trọng yếu trong bối cảnh môi trường số ngày càng phức tạp.
+
+Ở góc độ chính sách, Thiếu tướng Nguyễn Tùng Hưng, Phó Tư lệnh Bộ Tư lệnh 86 (Bộ Quốc phòng), cho biết trong thời gian qua, Đảng và Nhà nước đã ban hành nhiều chủ trương, chính sách quan trọng nhằm thúc đẩy ứng dụng khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia, tiêu biểu là Nghị quyết 57 của Bộ Chính trị. Trong đó xác định rõ quan điểm: bảo đảm chủ quyền quốc gia trên không gian mạng, an ninh mạng, an ninh dữ liệu và an toàn thông tin phải là yêu cầu xuyên suốt trong toàn bộ tiến trình phát triển công nghệ và chuyển đổi số.
+
+Thiếu tướng Nguyễn Tùng Hưng cho rằng việc xây dựng niềm tin số cần được xem là quá trình tăng cường “sức đề kháng” cho mỗi cá nhân trên không gian mạng. Tri thức, kỹ năng và nhận thức về an toàn thông tin chính là “vaccine” giúp người dân phân biệt đúng – sai, chủ động bảo vệ bản thân và đóng góp vào mục tiêu bảo vệ chủ quyền số quốc gia.
+
+Dự báo đến năm 2025, an ninh mạng sẽ tiếp tục là thách thức toàn cầu với nhiều hình thái tấn công tinh vi hơn. Trong đó, tội phạm mạng được dự đoán sẽ khai thác tối đa sức mạnh của trí tuệ nhân tạo để tạo ra các nội dung giả mạo như giọng nói, video (deepfake) nhằm mục đích lừa đảo hoặc xâm nhập hệ thống. Các thiết bị IoT và nền tảng blockchain cũng sẽ trở thành mục tiêu chính do những lỗ hổng bảo mật vẫn còn tồn tại.
+
+Chính vì thế, để đảm bảo an ninh mạng và tạo lập niềm tin trong kỷ nguyên mới, cần triển khai đồng bộ ba giải pháp trọng tâm.
+
+Thứ nhất,đẩy mạnh tuyên truyền, giáo dục nhằm nâng cao nhận thức, phát triển tư duy đổi mới sáng tạo trong toàn xã hội. Phong trào “học tập số” cần được lan tỏa sâu rộng, phổ cập kiến thức công nghệ và kỹ năng số cho cán bộ, công chức và người dân.
+
+Thứ hai,tăng cường bảo đảm an ninh mạng cho tổ chức, doanh nghiệp và cá nhân. Nhà nước cần hoàn thiện hành lang pháp lý, triển khai chiến lược an ninh mạng toàn diện; doanh nghiệp công nghệ đẩy mạnh nghiên cứu, phát triển sản phẩm bảo mật; người dân chủ động nâng cao kỹ năng số và ý thức bảo vệ an toàn thông tin cá nhân.
+
+Thứ ba,phát triển hạ tầng và nền tảng số dùng chung, đặc biệt là các cơ sở dữ liệu quốc gia, dữ liệu ngành và địa phương. Việc kết nối, chia sẻ, mở dữ liệu sẽ tạo nền tảng cho đổi mới sáng tạo, phục vụ hiệu quả các hoạt động kinh tế - xã hội trong môi trường số.
+
+Tại hội thảo, đại diện Bộ Công an tại khu vực TP.HCM cũng chia sẻ những  thách thức về an ninh mạng mà thành phố đang phải đối mặt, đặt ra yêu cầu cấp thiết trong việc triển khai đồng bộ Luật An ninh mạng nhằm xác lập vững chắc chủ quyền quốc gia trên không gian số.
+
+Từ góc độ thách thức và giải pháp, ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn và hợp tác quốc tế (Hiệp hội An ninh mạng Quốc gia), cho hay Việt Nam đang thiếu hụt hơn 700.000 nhân sự công nghệ trong khi lại thuộc nhóm quốc gia có tỷ lệ sử dụng internet cao hàng đầu thế giới. Báo cáo của Cisco cho thấy chỉ 11% doanh nghiệp và tổ chức trong nước đạt mức độ trưởng thành, sẵn sàng xử lý các sự cố trên không gian mạng.
+
+Dù đã có những bước tiến về nhận thức và đầu tư trong lĩnh vực an ninh mạng, nhưng năng lực ứng phó sự cố của nhiều doanh nghiệp Việt Nam vẫn còn hạn chế. Theo Thống kê mới nhất do Hiệp hội An ninh mạng quốc gia (NCA) công bố ngày 21/5, có tới 52,89% doanh nghiệp và tổ chức tại Việt Nam chưa trang bị đầy đủ các giải pháp công nghệ bảo vệ trước các mối đe dọa mạng, trong khi 56,16% vẫn thiếu hụt đội ngũ nhân sự chuyên trách trong lĩnh vực này.
+
+
+
+“Việt Nam đang thiếu hụt hơn 700.000 nhân sự công nghệ trong khi lại thuộc nhóm quốc gia có tỷ lệ sử dụng internet cao hàng đầu thế giới. Báo cáo của Cisco cho thấy chỉ 11% doanh nghiệp và tổ chức trong nước đạt mức độ trưởng thành, sẵn sàng xử lý các sự cố trên không gian mạng”.
+
+Ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn và hợp tác quốc tế (Hiệp hội An ninh mạng Quốc gia).
+
+Những con số trên phản ánh khoảng cách đáng kể giữa tốc độ phát triển công nghệ và năng lực tự vệ trên không gian mạng của các tổ chức trong nước, đặt ra yêu cầu cấp thiết về đầu tư công nghệ, đào tạo nhân lực và hoàn thiện hành lang pháp lý trong kỷ nguyên số.
+
+Theo ông Vũ Ngọc Sơn, nguyên nhân chủ yếu là do thiếu liên kết giữa hệ thống giáo dục và doanh nghiệp. Nhiều cơ sở đào tạo chưa thể cập nhật nhanh chóng công nghệ mới như AI vì sinh viên thiếu môi trường thực hành thực tế, không được tiếp xúc với hệ thống lớn. Từ thực tế này, ông Sơn đề xuất mô hình “tam giác liên kết” giữa Nhà nước – Trường học – Doanh nghiệp, tương tự cách làm hiệu quả tại Nhật Bản. Theo đó, Nhà nước đầu tư vào các viện nghiên cứu có liên kết trực tiếp với trường học và doanh nghiệp để tạo lập hệ sinh thái đào tạo nhân lực an ninh mạng gắn với thực tiễn.
+
+Ông Sơn cũng nhấn mạnh cần xây dựng khung tiêu chuẩn nghề nghiệp quốc gia cho lĩnh vực an ninh mạng, giúp kỹ sư Việt Nam có định hướng rõ ràng thay vì phụ thuộc vào các chứng chỉ nước ngoài. Song song, chính sách tài chính hỗ trợ sinh viên và kỹ sư trẻ là yếu tố không thể thiếu để tạo động lực phát triển nguồn nhân lực chất lượng cao.
+
+Bên cạnh đó, việc ban hành và triển khai Luật Bảo vệ dữ liệu cá nhân là cần thiết, đồng thời phải có sự phối hợp chặt chẽ giữa ba trụ cột: cơ quan quản lý nhà nước – viện nghiên cứu – doanh nghiệp để vừa đảm bảo an toàn dữ liệu, vừa tạo nền tảng pháp lý thúc đẩy phát triển nhân lực trong kỷ nguyên số.

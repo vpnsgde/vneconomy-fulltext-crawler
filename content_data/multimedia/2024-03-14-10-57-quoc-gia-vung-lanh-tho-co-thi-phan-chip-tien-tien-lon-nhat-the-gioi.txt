@@ -1,0 +1,17 @@
+Trong bối cảnh công nghệ phát triển như vũ bão hiện nay, con chip tiên tiến là nhân tố đặc biệt quan trọng thúc đẩy sự sáng tạo, đổi mới trong nhiều lĩnh vực, là “xương sống” của nhiều thiết bị từ điện thoại thông minh cho tới thiết bị y tế.
+
+Đồ thị thông tin dưới đây thể hiện năng lực sản xuất con chip tiên tiến theo quốc gia/vùng lãnh thổ năm 2023 và dự báo năm 2027, dựa trên dữ liệu của TrendForce vào tháng 12/2023.
+
+Chip tiên tiến được sản xuất trên dây chuyển sử dụng các nút xử lý từ 14 nanomet (nm) trở xuống. Các bóng bán dẫn (transistor) nhỏ cho phép nhà sản xuất đưa nhiều bóng bán dẫn hơn vào một con chip, giúp tăng năng lực xử lý và hiệu suất của con chip đó.
+
+Ví dụ, iPhone 15 Pro sử dụng con chip đầu tiên của Apple được sản xuất trên nút xử lý 3nm, trong khi máy chơi game Playstation 5 sử dụng con chip 6nm.
+
+Việc sản xuất các con chip trên nút lớn hơn (28nm trở lên) – tức công nghệ thấp hơn, trên các nút trưởng thành (mature node) – có chi phí rẻ hơn và thành phẩm được sử dụng trong những sản phẩm không đòi hỏi năng lực điện toán cao như đồ gia dụng, thiết bị thể dục...
+
+Theo đồ thị, Đài Loan nắm giữ 68% thị phần chip tiên tiến toàn cầu năm 2023. Tuy nhiên, con số này được dự báo sẽ giảm xuống 60% vào năm 2027 khi năng lực sản xuất của Mỹ tăng lên. Công ty TSMC của Đài Loan hiện là nhà sản xuất chip tiên tiến lớn nhất thế giới. Chip tiên tiến đóng góp 60% doanh thu của công ty này (tương đương gần 17 tỷ USD) trong quý 1/2023.
+
+Thị phần của Mỹ được dự báo sẽ tăng từ 12% lên 17% vào năm 2027, dù khoảng một nửa trong số này đến từ các công ty nước ngoài có hoạt động tại Mỹ như Samsung hoặc TSMC.
+
+Nhật Bản được dự báo sẽ bắt đầu tăng thị phần vào năm 2027. Công ty Rapidus Corp. của nước này đặt mục tiêu sản xuất con chip 2nm vào năm 2027.
+
+Trong khi đó, phản ứng trước việc Mỹ kiểm soát xuất khẩu thiết bị sản xuất chip tiên tiến, Trung Quốc đang tập trung vào sản xuất chip lớn. Thị phần chip lớn của Trung Quốc được dự báo sẽ tăng từ 31% lên 39% vào năm 2027.

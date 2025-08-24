@@ -1,0 +1,51 @@
+Quỹ tiền tệ quốc tế (IMF) cho biết trong tháng 4/2024, các cuộc tấn công mạng tăng gần gấp đôi trước đại dịch Covid-19. Tại “Hội thảo Kiểm soát rủi ro & biện pháp ứng phó khẩn cấp, đảm bảo an ninh, an toàn hệ thông giao dịch chứng khoán” do Ủy ban Chứng khoán Nhà nước phối hợp với các bên liên quan tổ chức mới đây, các chuyên gia đã nêu ra thực trạng đáng báo động về vấn đề này.
+
+Theo các chuyên gia, trong bối cảnh Việt Nam bước vào thời đại chuyển đổi số, bảo mật an toàn an ninh mạng trở thành một trong những vấn đề nhức nhối. Các nhóm tin tặc (hacker) đều có chuyên môn cao, kịch bản tinh vi và sẵn sàng tấn công mọi đối tượng và khống chế để đạt bằng được mục đích. Mục tiêu mà các đối tượng ưa thích là các hệ thống tài chính, ngân hàng, chứng khoán, nơi mà có thể dễ thỏa hiệp và đáp ứng những khoản tiền chuộc khổng lồ.
+
+
+
+"Tin tặc giả dạng ứng viên nộp hồ sơ xin việc tới phòng nhân sự. Tình cờ, phòng nhân sự chuyển thư điện tử chứa mã độc tới các cán bộ chuyên trách ở các phòng ban trong công ty. Chính điều này đã khiến cho hệ thống bị nhiễm mã độc và tin tặc có thể nắm giữ cơ sở dữ liệu".
+
+Ông Bùi Xuân Quang, chuyên gia an ninh mạng Hiệp hội An ninh mạng Quốc gia.
+
+Theo ông Triệu Mạnh Tùng, Phó Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (Bộ Công an), từ 2023 đến nay, ghi nhận khoảng 5 trường hợp bị hacker tấn công. Trong đó, có một trường hợp hacker chuyển thành công 200 tỷ đồng ra khỏi hệ thống và một trường hợp khác là 60 tỷ với hành vi tương tự. Chưa kể, thực tế cho thấy, cơ quan công an phát hiện hàng chục triệu dữ liệu thông tin bị rò rỉ và nếu xảy ra hậu quả sẽ bị truy cứu trách nhiệm hình sự.
+
+“Đây không phải là vấn đề của riêng Việt Nam mà là thách thức toàn cầu. Rất nhiều doanh nghiệp, tập đoàn trên thế giới bị tấn công bằng mã độc. Nổi tiếng gần đây nhất Ngân hàng Công thương Trung Quốc (ICBC) bị thiệt hại nặng nề”, ông Tùng nói.
+
+Theo ông Tùng, để có thể chiếm quyền hệ thống, các hacker lên kế hoạch, nằm vùng, âm thầm thu thập thông tin dữ liệu và đi vào từng ngóc ngách để chiếm quyền hệ thống. Mã độc không chỉ lây nhiễm ở duy nhất một máy mà lây nhiễm ở rất nhiều thiết bị khác nhau trên hệ thống cơ sở dữ liệu. Như vậy, mã độc không phải mới chỉ xảy ra ở thời điểm bị lỗi mà đã nằm trong cơ sở dữ liệu từ rất lâu mà không được rà soát, phát hiện kiểm tra và xử lý.
+
+Ông Bùi Xuân Quang, Chuyên gia an ninh mạng Hiệp hội An ninh mạng Quốc gia cho rằng, tin tặc thường tấn công vào hệ thống máy chủ công khai hoặc chiếm quyền thông qua hệ thống máy tính của người dùng. Ngoài ra, tin tặc còn lợi dụng kẽ hở của những hệ thống mạng nội bộ (VPN) thiếu bảo mật hai lớp để chiếm quyền. Với riêng các ngân hàng, tin tặc chiếm quyền kiểm soát hệ thống thông qua tấn công vào các công ty con (chứng khoán, bảo hiểm,…). Khi đã ở trong hệ thống cơ sở dữ liệu, hacker sẽ truy cập vào hệ thống tài khoản (ID), từ đó xâm nhập vào nhiều hệ thống khác nhau.
+
+Theo ông Vũ Ngọc Sơn, Ủy viên Ban chấp hành Hiệp hội An ninh mạng Quốc gia, các ngân hàng có sự đầu tư cho đội ngũ tư vấn xây dựng chiến lược an ninh mạng song không cập nhật phù hợp với tốc độ phát triển của công nghệ. Điều đó kéo theo kiến trúc về an ninh mạng chưa phù hợp; việc đầu tư thiếu đồng bộ giữa các thiết bị khiến hạ tầng an toàn thông tin bị phân mảnh và thiếu hệ thống giám sát hợp nhất.
+
+Để làm rõ vấn đề trên, ông Sơn cung cấp thông tin đấu thầu của Bộ Kế hoạch và Đầu tư, trong năm 2023, một hệ thống tường lửa (firewall) có giá trị là 50 tỷ đồng, cao hơn gấp 10 lần so với mức đầu tư cho nội dung giám sát, an ninh khi chỉ dao động từ 5 tới 6 tỷ đồng.
+
+
+
+"Theo quy định của pháp luật, các doanh nghiệp ngân hàng đầu tư cho an ninh, an toàn thông tin chiếm ít nhất 10% tỷ trọng đầu tư cho công nghệ thông tin. Tỷtrọng đầu tư 10-20% là mức trung bình của các quốc gia phát triển trên thế giới. Tuy nhiên, mức này chưa phù hợp với Việt Nam vốn là quốc gia chưa hoàn thiện hệ thống quản trị cũng như có cơ sở hạ tầng chưa phát triển".
+
+Ông Triệu Mạnh Tùng,Phó Cục trưởng Cục An ninh mạng và Phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an.
+
+“Đây là sự đầu tư chưa phù hợp vì hệ thống tường lửa sẽ không còn tác dụng khi hacker có thể thâm nhập bằng con đường chính thống như hệ thống mạng nội bộ (VPN), hay quyền truy cập mà nhà quản trị hệ thống đã mở sẵn”, ông Sơn nói.
+
+Thực tế cho thấy, nhiều hacker đã thay đổi cấu hình tường lửa, cũng như các giải pháp bảo mật bên trong hệ thống. Bởi vậy, ông Sơn khuyến cáo cần phải có phương án ứng phó nếu không, nguy cơ hacker đi sâu và chiếm quyền hệ thống là rất cao.
+
+Các chuyên gia đồng tình với giải pháp cần có sự đầu tư đồng đều cho tất cả các khâu. Cụ thể 1/3 ngân sách dành cho ngăn chặn thông qua hệ thống tường lửa; 1/3 ngân sách dành cho theo dõi, giám sát và 1/3 ngân sách còn lại dành cho phản ứng khi có sự cố. Điều đó đồng nghĩa rằng các doanh nghiệp vẫn sẽ ngăn chặn nhưng một khi hacker đã xâm nhập vào ngay lập tức sẽ có hệ thống giám sát để phát hiện ra. Các doanh nghiệp cũng cần liên tục sao lưu cơ sở dữ liệu cũng như có sự rà soát hệ thống thường xuyên.
+
+Ngoài vấn đề công nghệ, các chuyên đều thống nhất rằng, yếu tố con người cũng là một trong số những mắt xích yếu nhất trong việc đảm bảo an toàn, an ninh mạng. “Ngoài nguyên nhân khách quan khi trình độ khả năng, chuyên môn của các hacker hiện nay đã vượt trên cả những người làm bảo mật hệ thống thì nguyên nhân chủ quan từ những người quản trị khi quá tự tin vào hệ thống tường lửa”, một chuyên gia nói.
+
+Theo ông Triệu Mạnh Tùng, qua kết quả kiểm tra hệ thống thông tin ở các doanh nghiệp đã cho thấy phần lớn quy chế, quy định bảo mật thông tin chưa chặt chẽ, tồn tại nhiều lỗ hổng, tạo điều kiện để tin tặc tấn công. Hơn nữa, ý thức của người dùng, lãnh đạo, chỉ huy hay của cán bộ quản trị hệ thống và cán bộ sử dụng hệ thống còn mơ hồ về an ninh, an toàn thông tin.
+
+Đồng quan điểm trên, ông Vũ Ngọc Sơn cho rằng việc thiết lập cấu hình hệ thống ban đầu có thể tốt nhưng khi mở rộng hệ thống máy chủ sẽ không còn hiệu quả như ban đầu. Rất nhiều trường hợp các doanh nghiệp trong lĩnh vực tài chính, ngân hàng đầu tư hàng nghìn máy chủ khác nhau nên việc ghi nhớ hết toàn bộ địa chỉ IP của từng máy chủ là bất khả thi. Thậm chí, có trường hợp do quên không tắt hệ thống máy chủ phục vụ hoạt động diễn tập an ninh mạng, ngân hàng đã bị tin tặc xâm nhập.
+
+Một vấn đề nan giải nữa cần giải quyết là đội ngũ nhân sự. Theo các chuyên gia, nhân sự cho an ninh mạng có một đặc thù là khó có sự gắn bó lâu dài. Nhóm nhân sự này cần có những tình huống thực tế để nâng cao năng lực. Họ không thể ngồi đợi hàng năm trời khi doanh nghiệp có trường hợp bị tấn công mới thể hiện khả năng nghiệp vụ.
+
+
+
+"Giống như ngành hàng không, các hãng bay luôn thuê phi công nước ngoài lái phi cơ thì các giải pháp an ninh bảo mật hoàn toàn có thể thuê chuyên gia bên ngoài để vận hành, giám sát an ninh mạng, kiểm tra đánh giá và kết nối với các cơ quan chức năng".
+
+Ông Vũ Ngọc Sơn,Ủy viên Ban chấp hành Hiệp hội An ninh mạng Quốc gia
+
+Giải pháp ngắn hạn được các chuyên gia đề ra là hệ thống giám sát liên tục 24/7. Có những trường hợp các chuyên gia phải đóng giả hacker tấn công có thỏa thuận với ban điều hành nhưng không báo với cán bộ chuyên trách để trau dồi thêm kỹ năng thực tế. Các doanh nghiệp cũng cần thường xuyên cập nhật, sao lưu cơ sở dữ liệu để luôn có phương án khôi phục.
+
+Ngoài ra, các cán bộ chuyên trách cần xây dựng quy trình, quy chế hoặc rà soát lại đảm bảo việc thực hiện nghiêm túc. Khi có sự cố xảy ra, cần phối hợp với các cơ quan chức năng bao gồm cơ quan chuyên trách của Bộ Thông tin và Truyền thông, Cục an ninh mạng trực thuộc Bộ Công an và Hiệp hội an ninh mạng quốc gia.

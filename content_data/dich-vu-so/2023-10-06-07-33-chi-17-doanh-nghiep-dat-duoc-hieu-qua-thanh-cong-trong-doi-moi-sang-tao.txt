@@ -1,0 +1,31 @@
+Những phát hiện này trong nghiên cứu toàn cầu về bảng chỉ số đổi mới trong các tổ chức doanh nghiệp được công bố tại diễn đàn Dell Technologies ngày 5/10/2023. Đây là nghiên cứu về đổi mới trong doanh nghiệp lần đầu tiên được thực hiện tại 45 quốc gia với hơn 6.600 nhân viên tổ chức doanh nghiệp.
+
+Nghiên cứu nhấn mạnh, đổi mới đóng vai trò quan trọng trong hoạt động kinh doanh của các doanh nghiệp. Thông qua việc đánh giá các tổ chức, những người tham gia khảo sát được xếp vào một bảng đánh giá mức độ trưởng thành về đổi mới từ Innovation Leader (người dẫn đầu về đổi mới) cho đến Innovation Laggard (người đang tụt hậu trong đổi mới).
+
+Theo phân tích đánh giá, chỉ 17% các tổ chức tại khu vực châu Á- Thái Bình Dương và Nhật Bản (APJ) được xếp vào nhóm Innovation Leader và Adopter (người đang ứng dụng đổi mới). Đây là những tổ chức có chiến lược đổi mới toàn diện và sở hữu vị thế tốt để vượt qua những thử thách từ suy thoái toàn cầu, các vấn đề về nguồn cung ứng, ảnh hưởng của môi trường... để tiếp tục phát triển.
+
+Tại APJ, các doanh nghiệp này có khả năng tăng tốc đổi mới trong thời kỳ suy thoái nhanh hơn 2,1 lần so với các đơn vị thuộc nhóm Innovation Follower (người theo đuổi đổi mới) và Laggard (những đơn vị đang dần tụt hậu). Khả năng đổi mới bền bỉ này thể hiện qua sự quyết tâm và khả năng đổi mới trong những tình huống khó khăn là một trong những lý do khiến khu vực APJ chứng kiến các doanh nghiệp thuộc nhóm Innovation Leader và Adopter có khả năng đạt mức tăng trưởng doanh thu cao hơn 2,1 lần do với nhóm Innovation Laggard và Follower.
+
+Nghiên cứu về sự trưởng thành của đổi mới cho thấy, phần lớn các doanh nghiệp thiếu một chiến lược đổi mới được hoạch định rõ ràng (nhóm Innovation Laggard và Follower) hoặc đang gặp khó khăn trong lợi ích mang lại (Innovation Evaluator- người đánh giá đổi mới).
+
+Theo các chuyên gia, sự thành công của một dự án đổi mới sáng tạo phụ thuộc vào 3 yếu tố cốt lõi gồm: con người, quy trình và công nghệ. Các doanh nghiệp đổi mới sáng tạo phải áp dụng đồng bộ cả 3 yếu tố này. Tuy nhiên, các doanh nghiệp vẫn gặp phải những rào cản nhất định trong đổi mới.
+
+Tại APJ, 59% người tham gia khảo sát tin rằng nhân viên rời công ty vì họ không thể thực hiện đổi mới nhiều như kỳ vọng. Ngoài ra, 63% cho biết nhiều khía cạnh về văn hóa doanh nghiệp đang kìm hãm những nỗ lực sáng tạo.
+
+Mặc dù văn hóa doanh nghiệp được thiết lập bởi những người đứng đầu nhưng 73% người tham gia khảo sát cho biết cấp trên của họ có xu hướng bảo thủ, ít lắng nghe. Một trong những rào cản cá nhân về đổi mới được nhắc đến nhiều nhất chính là nỗi sợ thất bại và thiếu tự tin khi chia sẻ ý tưởng với cấp trên.
+
+Về đổi mới dựa trên quy trình, bảng Chỉ số đổi mới cũng chỉ ra những khó khăn mà các doanh nghiệp gặp phải khi ứng dụng một quy trình có cấu trúc và dựa trên dữ liệu để thực hiện đổi mới cho toàn bộ máy. Nghiên cứu cho thấy, chỉ 28% người đưa ra Quyết định về công nghệ thông tin cho biết những nỗ lực đổi mới của họ được thực hiện dựa trên dữ liệu.
+
+Trong bối cảnh các tổ chức doanh nghiệp tăng cường hoạt động chuyển đổi lên môi trường số sẽ sinh ra lượng dữ liệu khổng lồ. Tuy nhiên, từ kết quả nghiên cứu, ông Chris Kelly, Phó chủ tịch cấo cao, Mảng Giải pháp Trung Tâm Dữ liệu, APJ, Dell Technologies thông tin, có tới 67% doanh nghiệp cho biết, dữ liệu có được không thực sự chuyển hóa thành các thông tin có giá trị hữu ích phục vụ cho hoạt động của tổ chức.
+
+Chỉ 46% các tổ chức tại APJ đang điều chỉnh các dự án đổi mới sao cho phù hợp với mục tiêu của doanh nghiệp. Có khả năng việc thiếu quy trình và chiến lược là một trong những lý do khiến các doanh nghiệp gặp khó khăn để thực hiện đổi mới. Tại APJ, 40% người tham gia khảo sát cho rằng việc thiếu thời gian do quá tải là thách thức chính cản trở khả năng hiện thực hóa đổi mới.
+
+Về yếu tố công nghệ, đa số doanh nghiệp tại APJ (84%) đang chủ động tìm kiếm những công nghệ có thể hỗ trợ đề đạt được mục tiêu đổi mới. Ở chiều ngược lại, 58% người tham gia khảo sát tại APJ tin rằng công nghệ của doanh nghiệp chưa đủ tân tiến và lo ngại sẽ bị đối thủ bỏ lại phía sau.
+
+Chia sẻ với VnEconomy về mức độ đổi mới và ứng dụng AI trong các doanh nghiệp Việt Nam, đại diện Dell Technologies nhận xét, trong số những khách hàng ở các quốc gia, doanh nghiệp Việt Nam được đánh giá có chỉ số đổi mới sáng tạo nhất, tiên phong trong khu vực Châu Á- Thái Bình Dương, kể cả ứng dụng AI truyền thống lẫn AI tạo sinh. Những doanh nghiệp lĩnh vực ngân hàng, viễn thông, media đang tiên phong ứng dụng cả AI truyền thống và tạo sinh.
+
+Tuy nhiên, ở thời điểm này vẫn còn nhiều ứng dụng mang tính thí điểm và còn tiềm năng để ứng dụng AI nhiều hơn trong các doanh nghiệp Việt Nam. Hiện còn nhiều doanh nghiệp lớn ở Việt Nam chưa ứng dụng AI trong hoạt động kinh doanh, vận hành doanh nghiệp.
+
+Ông Peter Marrs, Chủ tịch châu Á- Thái Bình Dương và Nhật Bản, Dell Technologies, cho rằng để bắt kịp tốc độ thay đổi nhanh chóng trên toàn cầu, các doanh nghiệp tại APJ nên cân nhắc ưu tiên đổi mới bên cạnh quản lý, vận hành việc kinh doanh.
+
+Theo các chuyên gia, việc đầu tư cho chuyển đổi số, đổi mới sẽ giúp các doanh nghiệp nâng cao năng lực cạnh tranh, giải quyết những thách thức. Đây sẽ là xu hướng quan trọng được tập trung thời gian tới, trong đó có việc tiếp cận và xử lý dữ liệu lớn một cách hiệu quả tạo thành những thông tin giá trị phục vụ kinh doanh theo thời gian thực. AI sẽ là công nghệ quan trọng để giải bài toán này của các doanh nghiệp. Ứng dụng AI tạo sinh trong xử lý dữ liệu lớn là bắt buộc và xu hướng tất yếu trong phát triển.

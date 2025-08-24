@@ -1,0 +1,33 @@
+Ngày 4/7, Ngân hàng Nhà nước tổ chức hội thảo “Giải pháp bảo vệ khách hàng sử dụng dịch vụ ngân hàng” nhằm đánh giá sau 4 ngày triển khai Quyết định 2345/NHNN. Phó Thống đốc Phạm Tiến Dũng cho biết, một vài sự cố quá tải ở một vài ngân hàng trong ngày đầu tiên nhưng nay đã hoàn toàn bình thường
+
+Theo số liệu Ngân hàng Nhà nước cung cấp tại hội thảo, sau 3 ngày triển khai Quyết định 2345/NHNN, toàn hệ thống thực hiện trung bình khoảng 23 triệu giao dịch/ngày, trong đó có trên 1,9 triệu giao dịch từ 10 triệu đồng trở lên, chiếm 8,2% tống giá trị giao dịch.
+
+Theo ông Phạm Tiến Dũng, Phó Thống đốc Ngân hàng Nhà nước, tính đến 17h00 ngày 3/7 đã có 16,6 triệu tài khoản ngân hàng được được xác thực với hệ thống cơ sở dữ liệu của Bộ Công an. Trong đó có 10% khách hàng được hỗ trợ xác thực trực tiếp tại quầy giao dịch, ngân hàng có số lượng khách hàng xác thực sinh trắc học nhiều nhất khoảng 2,6 triệu người.
+
+Phó Thống đốc cho biết thêm riêng trong ngày đầu tiên thực hiện sinh trắc học (1/7), số lượng yêu cầu thực hiện tăng lên gấp 10 đến 20 lần so với ngày thường. Vì vậy, mặc dù đã có sự chuẩn bị nhưng không thể tránh khỏi tình trạng bị quá tải trên hệ thống một số ngân hàng. Tuy nhiên tình trạng này đã được cải thiện rõ rệt ở ngày 2/7 và trở lại bình thường từ ngày 3/7.
+
+Chia sẻ về những lo ngại liên quan đến việc triển khai xác thực sinh trắc học một cách đột ngột, ông Dũng khẳng định rằng kế hoạch này đã được thiết lập từ tháng 3/2023 và chính thức ban hành vào tháng 12/2023, cho thấy ngành ngân hàng đã có sự chuẩn bị kỹ lưỡng.
+
+Việc triển khai Quyết định 2345/NHNN là nỗ lực rất lớn không chỉ từ Ngân hàng Nhà nước mà còn từ Bộ Công an khi triển khai hệ thống căn cước công dân gắn chip, giúp ngành ngân hàng có nguồn cơ sở dữ liệu sạch.
+
+“Mục đích của Quyết định 2345/NHNN không chỉ dừng lại ở câu chuyện xác thực sinh trắc học cho những giao dịch chuyển khoản có số tiền lớn, đây còn là giải pháp định danh chính chủ tài khoản, giảm thiểu rủi ro gian lận, lừa đảo và phòng ngừa những vụ việc cho thuê, mượn, mua bán tài khoản thanh toán, ví điện tử sử dụng cho mục đích bất hợp pháp”, Phó Thống đốc nói.
+
+Luật sư Trương Thanh Đức, Giám đốc công Luật ANVI, cho biết theo Luật Các tổ chức tín dụng, Điều 140 về yêu cầu đảm bảo an toàn giao dịch trong hoạt động ngân hàng là cơ sở pháp lý của Quyết định 2345/NHNN. Luật sư cho rằng nhu cầu về xác thực sinh trắc nhằm đảm bảo an toàn trong giao dịch trực tuyến là cấp thiết.
+
+Ông đề xuất các ngân hàng nên mở rộng việc xác nhận sinh trắc học cho những giao dịch dưới 10 triệu đồng vì đối với nhiều người dân 1 triệu đồng cũng rất quan trọng. Đây cũng là ý kiến đề xuất của nhiều chuyên gia khác.
+
+Dưới góc độ của một chuyên gia công nghệ, ông Vũ Ngọc Sơn, Ủy viên Ban chấp hành Hiệp hội An ninh mạng Quốc gia, khẳng định Quyết định 2345/NHNN là quyết định quan trọng, góp phần phòng, chống lừa đảo trên toàn xã hội. Những khó khăn về mặt công nghệ của người dân không phải là vấn đề quá lớn nếu đặt cạnh lợi ích về sự an toàn của quyết định này mang lại.
+
+Những hoạt động lừa đảo trên không gian mạng hiện nay ngày càng tinh vi và diễn biến phức tạp. Đích đến mà những đối tượng lừa đảo hướng tới là các tài khoản ngân hàng. Tài khoản ngân hàng vừa là nơi để kể xấu chiếm đoạt tài sản, vừa là nơi để thực hiện hành vi rửa tiền phi pháp.
+
+Do đó, lãnh đạo Ngân hàng Nhà nước đã đề ra 5 nhiệm vụ nhằm thúc đẩy, tăng cường bảo đảm an ninh, an toàn, bảo mật cho dịch vụ ngân hàng trên không gian mạng theo chủ trương của Đảng và Chính phủ, góp phần bảo vệ khách hàng sử dụng dịch vụ tài chính, ngân hàng.
+
+Thứ nhất,tiếp tục nghiên cứu, hoàn thiện, ban hành kịp thời các văn bản, thông tư thay thế, sửa đổi, bổ sung về quy định về an toàn, bảo mật cho việc cung cấp dịch vụ ngân hàng trên Internet…; triển khai hiệu quả Quyết định số 2345/QĐ-NHNN nhằm đảm bảo an toàn, bảo mật trong giao dịch thanh toán nói riêng và sử dụng dịch vụ ngân hàng nói chung.
+
+Thứ hai,tiếp tục đầu tư hoàn thiện hạ tầng công nghệ thông tin của các tổ chức tín dụng, tổ chức trung gian thanh toán; đồng thời nâng cấp, phát triển các hạ tầng thanh toán đảm bảo hoạt động liên tục, thông suốt, an toàn, kết nối liền mạch, xuyên suốt với các ngành, lĩnh vực khác như dịch vụ công, y tế, giáo dục, thương mại điện tử… và kết nối thanh toán xuyên biên giới nhằm đáp ứng tốt nhu cầu sử dụng dịch vụ ngân hàng đa dạng, ngày càng tăng nhanh của các tổ chức, cá nhân trong nền kinh tế.
+
+Thứ ba,tiếp tục phối hợp với Bộ Công an triển khai hiệu quả Đề án 06, trong đó chú trọng khai thác thông tin Căn cước công dân gắn chip và tài khoản VNeID để định danh, xác thực chính xác thông tin khách hàng và phối hợp, hỗ trợ trong quá trình cung ứng các sản phẩm, dịch vụ ngân hàng một cách tiện lợi, an toàn, đảm bảo phòng ngừa rủi ro, tội phạm lợi dụng dịch vụ thanh toán cho mục đích gian lận, lừa đảo.
+
+Thứ tư,tăng cường bảo đảm an ninh, an toàn thông tin trong hoạt động thanh toán, ngân hàng, phối hợp các đơn vị chức năng trong việc phòng ngừa và điều tra, xử lý tội phạm công nghệ cao; bảo vệ quyền, lợi ích hợp pháp của khách hàng…
+
+Thứ năm,tiếp tục đẩy mạnh truyền thông, giáo dục tài chính nhằm nâng cao kiến thức, kỹ năng cho công chúng; tiếp tục đổi mới, đa dạng hóa các hình thức thể hiện, ứng dụng công nghệ 4.0 và phương tiện truyền thông hiện đại; hướng đến người dân khu vực nông thôn, vùng sâu vùng xa, giới trẻ, học sinh, sinh viên….

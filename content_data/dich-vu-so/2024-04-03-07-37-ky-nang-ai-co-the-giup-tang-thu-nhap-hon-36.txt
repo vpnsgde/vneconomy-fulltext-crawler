@@ -1,0 +1,35 @@
+Ngày 2/4/2024, Amazon Web Services (AWS) công bố nghiên cứu "Thúc đẩy kỹ năng AI: Chuẩn bị để lực lượng lao động trong khu vực Châu Á- Thái Bình Dương sẵn sàng cho tương lai” do Access Partnership thực hiện.
+
+Nghiên cứu cho thấy khi công nghệ trí tuệ nhân tạo (AI) được ứng dụng rộng rãi, nhà tuyển dụng sẵn sàng trả lương cao hơn tới 36% cho người lao động trong khu vực ASEAN có kỹ năng và kinh nghiệm AI, trong đó nhân sự trong lĩnh vực IT (49%) và trong nghiên cứu & phát triển (46%) là những người được trả lương nhiều nhất.
+
+Ngoài gia tăng tiền lương, 97% người lao động trong khu vực ASEAN kỳ vọng kỹ năng AI của họ sẽ có các tác động tích cực đến nghề nghiệp, bao gồm tăng hiệu suất, tăng mức độ hài lòng trong công việc và thăng tiến nhanh hơn.
+
+Có tới 92% người lao động tại ASEAN quan tâm đến phát triển kỹ năng AI để đẩy nhanh sự nghiệp, và mối quan tâm này xuất hiện trong mọi thế hệ. Khoảng chín trên mười (93%) người lao động thuộc thế hệ Gen Z, 93% thuộc thế hệ Millennial và 90% thuộc thế hệ Gen X muốn có kỹ năng AI.
+
+Ngoài ra, 86% người lao động thuộc thế hệ baby boomer- đối tượng nhân khẩu học đang chuẩn bị nghỉ hưu cho biết họ sẽ tham gia một khóa học nâng cao kỹ năng AI nếu được đề nghị.
+
+Nghiên cứu cũng phát hiện ra rằng năng suất lao động do nhân lực có kỹ năng AI mang lại cho khu vực ASEAN là rất to lớn. Những người sử dụng lao động tham gia khảo sát kỳ vọng năng suất lao động trong tổ chức của họ sẽ tăng 54% nhờ công nghệ AI tự động hóa các tác vụ trùng lặp (69%), cải thiện quy trình và kết quả (68%) và tăng cường truyền thông giao tiếp (64%). Người lao động tin rằng AI có thể giúp họ tăng 54% năng suất lao động.
+
+Theo ông Abhineet Kaul, Giám đốc Access Partnership, làn sóng AI đang trỗi dậy trong khu vực ASEAN để chuyển đổi cách các doanh nghiệp vận hành và làm việc. Nghiên cứu cho thấy toàn xã hội sẽ được hưởng lợi từ việc nâng cao năng suất lao động, nhờ đó người lao động có kỹ năng trong khu vực sẽ có thu nhập cao hơn.
+
+Trong bối cảnh ngày càng nhiều tổ chức kỳ vọng ứng dụng sâu hơn nữa các giải pháp và công cụ AI, cùng với đó là các đổi mới sáng tạo dựa trên AI thường xuyên phát triển, các doanh nghiệp và cơ quan chính phủ cần nuôi dưỡng lực lượng lao động lành nghề có khả năng làm chủ những tiến bộ AI hiện tại và trong tương lai, Giám đốc Access Partnership nói.
+
+Với những tác động và kỳ vọng lớn như vậy, chuyển đổi sang AI tại ASEAN đang diễn ra nhanh chóng. Nghiên cứu khảo sát cho thấy, có tới 97% người lao động mong muốn tổ chức của họ trở thành công ty vận hành trên nền tảng AI vào năm 2028.
+
+Hầu hết các công ty (96%) tin rằng bộ phận IT của họ sẽ được hưởng lợi nhiều nhất, họ cũng dự đoán rằng các bộ phận nghiên cứu và phát triển (94%), tài chính (93%), bán hàng và tiếp thị (92%), nhân sự (87%) và pháp lý (81%) cũng mang lại giá trị đáng kể từ AI.
+
+Đi sâu hơn vào những lĩnh vực quan trọng trong khu vực ASEAN, nghiên cứu chỉ ra, ngành dịch vụ Ngân hàng và Tài chính đang đi đầu trong ứng dụng AI, với 97% các tổ chức hiện đang sử dụng các công cụ và giải pháp AI, ngay sau đó là ngành Viễn thông (96%) và Khu vực công (92%).
+
+Theo nghiên cứu, hơn 97% người sử dụng lao động và người lao động tham gia khảo sát kỳ vọng sử dụng các công cụ AI tạo sinh trong vòng 5 năm tới, trong đó 76% người sử dụng lao động cho rằng tăng cường đổi mới và sáng tạo là lợi ích to lớn nhất, sau đó là tự động hóa các tác vụ trùng lặp (66%), và cải thiện kết quả công việc (64%).
+
+Ông Emmanuel Pillai, Trưởng bộ phận Đào tạo và Chứng chỉ AWS khu vực ASEAN nhấn mạnh: kỹ năng AI là bắt buộc đối với lực lượng lao động tương lai. Các lĩnh vực từ dịch vụ tài chính tới xây dựng và bán lẻ đều đang nhanh chóng đón nhận AI. Đó là lý do khiến nhân lực có kỹ năng AI là yếu tố thiết yếu để thúc đẩy văn hóa đổi mới sáng tạo và năng suất tại khu vực.
+
+Tuy nhiên, một thực tế được chỉ ra qua nghiên cứu này chính là khoảng trống lớn về kỹ năng AI cần được xóa bỏ để bảo đảm khu vực ASEAN có đầy đủ điều kiện phát huy những lợi ích về mặt năng suất của AI.
+
+Thuê tuyển nhân lực có kỹ năng AI được chín trên mười (90%) doanh nghiệp tại ASEAN ưu tiên, nhưng có tới gần 72% không tìm kiếm được nhân lực AI cần thiết. Nghiên cứu cũng cho thấy khoảng trống nhận thức về đào tạo, trong đó 81% người sử dụng lao động cho biết họ không biết cách thực hiện chương trình đào tạo AI cho nhân viên. Trong khi đó, 73% người lao động cho biết không chắc chắn về những lộ trình sự nghiệp mà kỹ năng AI có thể hữu ích.
+
+Nghiên cứu cũng chỉ ra nhu cầu về sự hợp tác chặt chẽ hơn giữa chính phủ, các ngành và các đơn vị giáo dục đào tạo để giúp các doanh nghiệp tại ASEAN triển khai các chương trình đào tạo về AI cũng như hướng dẫn người lao động sử dụng kỹ năng AI của mình trong những vị trí công việc phù hợp, để khai thác những khả năng AI mới học được.
+
+Theo các chuyên gia, trong bối cảnh kỹ thuật số phát triển nhanh chóng, việc nâng cao kỹ năng cho người lao động về AI, được thành lập dựa trên các khuôn khổ và nguyên tắc đạo đức, không chỉ là một lựa chọn chiến lược, mà còn là một yêu cầu quan trọng đối với các chính phủ và tổ chức trên khắp châu Á- Thái Bình Dương.
+
+Báo cáo cho thấy tương lai của việc làm đòi hỏi một lực lượng lao động được trang bị trình độ AI để điều hướng những thách thức mới nổi và khai thác các cơ hội cho tăng trưởng, phát triển kinh tế bền vững và công bằng cũng như đổi mới toàn diện.

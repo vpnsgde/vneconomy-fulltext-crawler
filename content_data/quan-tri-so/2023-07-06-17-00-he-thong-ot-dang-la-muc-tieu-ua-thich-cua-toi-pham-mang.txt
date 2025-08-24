@@ -1,0 +1,15 @@
+Đó là chia sẻ của ông Benny Czarny, Nhà sáng lập kiêm Tổng giám đốc của OPSWAT, tại buổi ký kết hợp tác với Công ty cổ phần Dịch vụ An toàn Thông tin TP.HCM (HISSC) sáng 6/7. Hợp tác này mở đầu cho hoạt động xây dựng thao trường đào tạo và diễn tập an toàn thông tin cho hệ thống công nghệ vận hành (OT), gọi tắt là Cyber Range.
+
+Cuộc cách mạng công nghiệp 4.0 và chuyển đổi số đã thúc đẩy các doanh nghiệp xây dựng mô hình nhà máy thông minh với các thiết bị, máy móc được kết nối thông qua Internet vạn vật công nghiệp (Industrial IoT), chia sẻ và phân tích dữ liệu bằng các ứng dụng của hệ thống công nghệ thông tin (IT), giúp doanh nghiệp có thể tối ưu hóa sản xuất và vận hành thiết bị.
+
+Tuy nhiên, khi OT - IT hội tụ tức là nhiều máy móc thiết bị của hệ thống OT được kết nối với mạng IT và Internet hơn, làm gia tăng nguy cơ bị tấn công mạng đối với các tổ chức chưa chuẩn bị sẵn sàng các giải pháp đảm bảo an ninh mạng.
+
+Thao trường Cyber Range cung cấp một môi trường giả lập và an toàn giúp các kỹ sư an ninh mạng có thể thực hành và rèn luyện kỹ năng phòng ngừa, phát hiện và ứng phó với các cuộc tấn công mạng. Cyber Range cũng là nơi đào tạo và diễn tập an toàn thông tin cho các tổ chức, doanh nghiệp trong lĩnh vực công nghiệp, sản xuất và hạ tầng kỹ thuật, giúp họ thực hành cũng như cập nhật kiến thức mới về các công nghệ bảo mật tiên tiến để bảo vệ hệ thống công nghệ vận hành của tổ chức.
+
+Trong đó, có các ngành trọng điểm như: năng lượng (điện, nước), các tổ chức hạ tầng trọng yếu (chống ngập, giao thông, camera an ninh, ngân hàng), các dây chuyền sản xuất,... trên địa bàn TP.HCM và các tỉnh lân cận; Đồng thời, cập nhật kiến thức và trải nghiệm thực tế các giải pháp và công nghệ bảo mật chuyên sâu cho hệ thống OT và điều khiển công nghiệp (ICS).
+
+Ông Lê Minh Tuấn, Phó Tổng giám đốc HISSC, cho biết Cyber Range cung cấp một môi trường giả lập và an toàn giúp các kỹ sư an ninh mạng có thể thực hành và rèn luyện kỹ năng phòng ngừa, phát hiện và ứng phó với các cuộc tấn công mạng một cách trực quan sinh động mà không ảnh hưởng đến hoạt động thực tế của hệ thống đang hoạt động.
+
+Ông Benny Czarny, Tổng giám đốc OPSWAT, chia sẻ Cyber Range còn giúp tổ chức kiểm tra và đánh giá mức độ an toàn của hệ thống OT, cũng như xây dựng và thử nghiệm chiến lược phòng thủ chống lại các cuộc tấn công mạng trong môi trường OT với các công nghệ bảo mật chuyên sâu từ OPSWAT.
+
+Theo một báo cáo mới đây của Fortinet, 93% các tổ chức sở hữu hệ thống OT đã ghi nhận vi phạm an ninh mạng trong năm 2022 và 78% tổ chức báo cáo số lượng vi phạm nhiều hơn 3 lần. Điều đó cho thấy các hệ thống OT đang là mục tiêu ưa thích của tội phạm mạng.

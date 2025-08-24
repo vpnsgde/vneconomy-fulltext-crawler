@@ -1,0 +1,25 @@
+Nghiên cứu "Tận dụng 5G để đẩy nhanh quá trình chuyển đổi do AI dẫn dắt tại ASEAN: Những bắt buộc, góc nhìn chính sách và khuyến nghị", của Trường Chính sách Công Lý Quang Diệu (LKYSPP), chỉ ra rằng chỉ riêng công nghệ 5G đã được kỳ vọng đóng góp tới 130 tỷ USD cho nền kinh tế châu Á – Thái Bình Dương vào năm 2030.
+
+Tuy nhiên, thực tế, mức độ ứng dụng 5G vẫn còn chênh lệch lớn trong khu vực, trong khi Singapore là 48,3%, thì tại một số quốc gia thành viên ASEAN chỉ còn dưới 1%.
+
+Các nhà nghiên cứu cho rằng nếu không có hành động phối hợp kịp thời, những chênh lệch này có thể làm sâu sắc thêm khoảng cách số và làm suy yếu năng lực cạnh tranh khu vực, khiến ASEAN bị tụt lại phía sau trong cuộc đua chuyển đổi số toàn cầu.
+
+“Sự hội tụ giữa 5G và AI chính là hạ tầng cho đổi mới sáng tạo, thúc đẩy các lĩnh vực như sản xuất thông minh, nông nghiệp chính xác, và giao thông tự hành. Nhưng ASEAN không thể chần chừ, cánh cửa để khẳng định vai trò dẫn đầu khu vực trong kết nối thông minh đang nhanh chóng khép lại”, Giáo sư Vũ Minh Khương, Trường Chính sách Công Lý Quang Diệu, Đại học Quốc gia Singapore, chia sẻ.
+
+Dựa trên các cuộc phỏng vấn chuyên sâu và khảo sát với hơn 400 chuyên gia đến từ 8 quốc gia ASEAN, nghiên cứu của LKYSPP chỉ ra các chính phủ cần nhìn nhận 5G như một hạ tầng chiến lược cho AI, chứ không đơn thuần là nâng cấp viễn thông, đồng thời cần khẩn trương thu hẹp khoảng cách kỹ năng đang cản trở doanh nghiệp áp dụng công nghệ.
+
+Để đảm bảo tương lai số của ASEAN, báo cáo đề xuất 5 ưu tiên chiến lược: Xây dựng các chiến lược phát triển 5G-AI quốc gia với lộ trình rõ ràng đến năm 2030; thành lập cơ quan điều phối có quyền hạn thực sự tại các quốc gia thành viên ASEAN; triển khai các chính sách bao trùm, tiên tiến nhằm tăng cường khả năng tiếp cận và đổi mới; phát triển hệ sinh thái AI thông qua hợp tác công – tư; triển khai các cơ chế giám sát mạnh mẽ để theo dõi tiến độ và cho phép điều chỉnh lộ trình.
+
+Báo cáo của LKYSPP nhấn mạnh rằng doanh nghiệp cần được đặt làm trung tâm trong việc thúc đẩy tác động kinh tế của 5G. Trong khu vực đã có một số mô hình thành công tiêu biểu: cảng thông minh sử dụng 5G tại Singapore giúp giảm độ trễ tới 50%; Thái Lan triển khai hệ thống quản lý thiên tai tích hợp AI; Malaysia đạt tỷ lệ phủ sóng dân số tới 82% nhờ mô hình mạng viễn thông chia sẻ. Những ví dụ này cho thấy sức mạnh chuyển đổi nếu chiến lược được phối hợp thực hiện bài bản.
+
+Đánh giá riêng về mức độ ứng dụng AI tại Việt Nam trong sự kiện online ngày 22/7, Giáo sư Vũ Minh Khương, ghi nhận những tín hiệu tích cực và sự năng động trong triển khai. Tuy nhiên, ông cho rằng để AI thực sự tạo ra giá trị đột phá như hỗ trợ tính toán chính xác, tối ưu hóa quy trình sản xuất hay nâng cao hiệu quả chuỗi cung ứng thì hạ tầng công nghệ, đặc biệt là mạng 5G, sẽ giữ vai trò then chốt.
+
+
+
+"Vấn đề là hiện tại, tôi chưa thấy chiến lược rõ ràng ở các nhà mạng viễn thông. Họ nhận ra giá trị kinh tế tiềm năng, nhưng vẫn chưa thực sự đầu tư đúng mức. Điều này có thể khiến quá trình triển khai bị chậm lại. Tôi cho rằng Chính phủ cần chủ động điều phối giống như cách Singapore đang làm bằng cách kết nối các bên: nhà cung cấp công nghệ quốc tế, doanh nghiệp trong nước, người dùng và các quỹ tài trợ. Quan trọng nhất là tạo ra các kịch bản ứng dụng cụ thể để thúc đẩy hợp tác”
+
+Bà Becky Fraser, Phó Chủ tịch, Bộ phận Quan hệ chính phủ toàn cầu, Qualcomm, cũng khẳng định với độ trễ thấp và băng thông cao, 5G là nền tảng lý tưởng cho điện toán biên, giúp việc suy luận AI có thể diễn ra trực tiếp tại thiết bị hoặc máy chủ cục bộ, thay vì phải gửi dữ liệu về đám mây. Điều này giúp tăng tốc độ ra quyết định, nâng cao tính bảo mật và tối ưu hiệu quả vận hành.
+
+Nói cách khác, 5G không chỉ hỗ trợ mà còn khai phóng toàn bộ tiềm năng của AI, khi cả hai cùng vận hành như một cặp công nghệ bổ trợ lẫn nhau. Sự kết hợp giữa 5G và AI sẽ mở ra một kỷ nguyên mới cho trải nghiệm kết nối thông minh, góp phần định hình lại các ngành công nghiệp trong tương lai. Chính vì vậy, khi nói đến năng lực cạnh tranh của AI, không thể bỏ qua vai trò chiến lược của mạng 5G.
+
+Đây cũng là những nội dung được đưa ra tại báo cáo của Trường Chính sách Công Lý Quang Diệu. Mạng 5G riêng tư (private 5G) là yếu tố then chốt trong công cuộc chuyển đổi công nghiệp 4.0, trong khi truy cập không dây cố định (FWA) là giải pháp hữu hiệu để thu hẹp khoảng cách kết nối tại các khu vực khó tiếp cận. Báo cáo cũng nhấn mạnh rằng việc triển khai 5G hiện tại chính là nền móng cho sự phát triển của 6G vào năm 2030, vì thế các quyết định chiến lược hiện nay sẽ ảnh hưởng sâu sắc tới năng lực cạnh tranh trong tương lai.

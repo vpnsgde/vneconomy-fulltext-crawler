@@ -1,0 +1,17 @@
+Trung tâm phân tích mã độc của Bkav vừa cảnh báo một chiến dịch sử dụng mã độc RedHook đánh cắp dữ liệu cá nhân, tài khoản ngân hàng và chiếm quyền kiểm soát thiết bị, đang chủ đích nhắm vào người dùng Việt Nam.
+
+Theo đó, hacker tạo ra các website giả mạo cơ quan nhà nước hay các tổ chức tài chính uy tín như: Ngân hàng nhà nước Việt Nam (SBV), Sacombank (Sacombank Pay), Tổng công ty Điện lực miền Trung (EVNCPC), Hệ thống đặt lịch đăng kiểm ô tô (TTDK)… cài mã độc lên dưới vỏ bọc là các ứng dụng, rồi lừa người dùng tải về điện thoại, bằng nhiều kịch bản khác nhau như gửi email, nhắn tin qua các ứng dụng chat hoặc chạy quảng cáo trên các công cụ tìm kiếm…
+
+Nguy hiểm hơn, những ứng dụng giả mạo được ngụy trang với tên giống ứng dụng thật, chỉ khác đuôi (ví dụ SBV.apk) và được lưu trữ trên đám mây Amazon S3, giúp tin tặc dễ dàng cập nhật, thay đổi và che giấu nội dung độc hại. Ngay khi được cài đặt xong, ứng dụng giả mạo yêu cầu người dùng cấp quyền truy cập sâu vào hệ thống, bao gồm quyền trợ năng (Accessibility) và quyền hiển thị lớp phủ (Overlay). Kết hợp hai quyền này, hacker có thể theo dõi thao tác người dùng, đọc nội dung tin nhắn SMS, lấy mã OTP, truy cập danh bạ, thậm chí thao tác thay người dùng mà không để lại dấu hiệu rõ ràng.
+
+Chuyên gia Trung tâm phân tích mã độc của Bkav giải thích dữ liệu trên điện thoại nạn nhân được nén lại bằng gzip rồi gửi về máy chủ C&C. Ngoài ra, dịch ngược mã nguồn của RedHook thì virus này tích hợp tới 34 lệnh điều khiển từ xa, bao gồm chụp ảnh màn hình, gửi/nhận tin nhắn, cài hoặc gỡ ứng dụng, khóa/mở thiết bị và thực thi các lệnh hệ thống.
+
+Đồng thời, chúng sử dụng API MediaProjection ghi lại toàn bộ nội dung hiển thị trên màn hình thiết bị rồi chuyển về máy chủ điều khiển. RedHook có cơ chế xác thực bằng JSON Web Token (JWT), giúp kẻ tấn công duy trì quyền kiểm soát thiết bị trong thời gian dài, kể cả khi thiết bị được khởi động lại.
+
+Trong quá trình phân tích, các chuyên gia Bkav phát hiện nhiều đoạn mã và chuỗi giao diện sử dụng ngôn ngữ Trung Quốc cùng nhiều dấu vết rõ ràng khác về nguồn gốc phát triển của nhóm tin tặc cũng như chiến dịch phát tán RedHook có liên hệ với các hoạt động lừa đảo từng xuất hiện tại Việt Nam.
+
+Chẳng hạn, việc sử dụng tên miền mailisa[.]me, một dịch vụ làm đẹp nổi tiếng bị lợi dụng trước đây, để phát tán mã độc cho thấy RedHook không hoạt động đơn lẻ mà là sản phẩm của chuỗi chiến dịch tấn công có tổ chức, được dàn dựng tinh vi cả về kỹ thuật lẫn chiến thuật lừa đảo. Các tên miền máy chủ điều khiển được sử dụng trong chiến dịch này bao gồm api9.iosgaxx423.xyz và skt9.iosgaxx423.xyz, đều là những địa chỉ ẩn danh đặt tại nước ngoài, không thể truy vết dễ dàng.
+
+Do đó, Trung tâm phân tích mã độc Bkav khuyến cáo người dùng: Tuyệt đối không cài đặt các ứng dụng ngoài Google Play, đặc biệt là các tệp APK nhận qua tin nhắn, email hoặc mạng xã hội. Đồng thời, không cấp quyền trợ năng (Accessibility) cho các ứng dụng không rõ nguồn gốc.
+
+Ngoài ra, các tổ chức cần triển khai biện pháp giám sát truy cập, lọc DNS và thiết lập cảnh báo các kết nối đến tên miền bất thường có liên quan hạ tầng điều khiển của mã độc. Nếu nghi ngờ bị lây nhiễm, lập tức ngắt kết nối Internet, sao lưu dữ liệu quan trọng, khôi phục cài đặt gốc (factory reset), thay đổi toàn bộ mật khẩu tài khoản, đồng thời liên hệ ngân hàng để kiểm tra tình trạng tài khoản.

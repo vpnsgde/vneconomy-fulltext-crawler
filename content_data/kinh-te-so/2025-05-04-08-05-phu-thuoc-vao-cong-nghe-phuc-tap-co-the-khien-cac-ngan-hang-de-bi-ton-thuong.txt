@@ -1,0 +1,29 @@
+Sự cố không chỉ làm uy tín của Barclays bị ảnh hưởng mà còn khiến ngân hàng này đối mặt với khoản bồi thường lên tới 7,5 triệu bảng Anh. Đáng nói là, những trục trặc như thế này đang xuất hiện ngày càng thường xuyên trong ngành ngân hàng, dù các tổ chức tài chính đã đầu tư không ít vào hệ thống bảo mật và hạ tầng công nghệ hiện đại, theo Financial Times.
+
+Trong khoảng thời gian từ tháng 1/2023 đến tháng 2/2025, Barclays (tại Anh) đã gặp tới 33 lần gián đoạn hệ thống, theo số liệu từ Ủy ban Chọn lọc của Hạ viện Anh. Trong cùng thời gian, hai ngân hàng là HSBC và Santander cũng ghi nhận lần lượt 32 sự cố. Điều này cho thấy đây không còn là vấn đề của riêng một ngân hàng.
+
+Thế nhưng, rủi ro công nghệ với ngành ngân hàng không chỉ dừng lại ở chuyện gián đoạn dịch vụ. Năm ngoái, ngân hàng Citigroup đã vô tình ghi khoản tiền chuyển khoản khổng lồ 81 nghìn tỷ USD vào tài khoản của một khách hàng, trong khi thực tế người này chỉ chuyển 280 USD. Nguyên nhân xuất phát từ một lỗi đánh máy của nhân viên khi thao tác trên hệ thống sao lưu với giao diện khó sử dụng.
+
+Ông Alois Reitbauer, Giám đốc chiến lược công nghệ của tập đoàn phần mềm Dynatrace (Mỹ), nhận định: “Các ngân hàng đang vận hành trong một môi trường cực kỳ phức tạp, hàng loạt ứng dụng từ nền tảng giao dịch đến hệ thống phát hiện gian lận cùng hoạt động trên cơ sở hạ tầng đám mây phân tán. Các ứng dụng này lấy dữ liệu từ nhiều nguồn và phụ thuộc vào sự hỗ trợ của hàng loạt nhà cung cấp bên thứ ba”. Thế nên dễ hiểu vì sao một trục trặc nhỏ trong chuỗi cung ứng phần mềm cũng có thể gây ra sự cố diện rộng, làm gián đoạn toàn bộ dịch vụ.
+
+Khi các tổ chức tài chính ồ ạt đưa hệ thống lên nền tảng đám mây và thử nghiệm công nghệ mới như trí tuệ nhân tạo hay điện toán lượng tử, thì họ lại đối mặt với một vấn đề, đó là “nợ công nghệ”, tức là những tồn đọng do đầu tư công nghệ không nhất quán và vội vàng.
+
+Thế nên, ông Justin Kuruvilla, chiến lược gia an ninh mạng tại Riskova Kniga, nhận định: “Nếu quy trình phát triển phần mềm nghiêm ngặt hơn, kết hợp với kiểm thử lỗ hổng bảo mật ngay từ đầu, có thể giúp phát hiện sớm các vấn đề trước khi chúng gây ra hậu quả nghiêm trọng”.
+
+Một nghiên cứu năm 2024 do 10x Banking thực hiện với 200 lãnh đạo phụ trách công nghệ thông tin trong lĩnh vực ngân hàng cho thấy, 53% cho rằng các kho dữ liệu phân tán và tình trạng tắc nghẽn trong quy trình là rào cản lớn nhất để mở rộng hoặc nâng cấp hệ thống.
+
+Giải quyết “nợ kỹ thuật” không chỉ giúp các ngân hàng tăng tốc đổi mới, mà còn là bước then chốt để gia cố khả năng phòng vệ trước các mối đe dọa mạng ngày càng tinh vi, từ các tổ chức tội phạm đến các nhóm do quốc gia bảo trợ.
+
+Tuy nhiên, để nâng cấp hệ thống công nghệ và thử nghiệm các giải pháp mới trên quy mô lớn, các ngân hàng không chỉ phải đầu tư chi phí lớn mà còn phải đối mặt với nguy cơ gián đoạn hoạt động – điều mà phần lớn tổ chức tài chính đều e ngại.
+
+Theo ông Joshua McKenty, Giám đốc điều hành kiêm đồng sáng lập Polyguard, đây là rào cản lớn khiến nhiều ngân hàng chần chừ khi đưa ra những quyết định mang tính đột phá, bởi lẽ “trải nghiệm người dùng” vẫn luôn là ưu tiên hàng đầu trong ngành tài chính.
+
+“Người dùng ngày nay mong đợi các tính năng mới, tốc độ nhanh và dễ tiếp cận. Trong khi đó, các giao dịch tài chính lại ngày càng phức tạp, khiến yêu cầu về bảo mật ngày càng khắt khe hơn”, ông nói.
+
+Cùng lúc đó, xu hướng chuyển giao nhiều phần hạ tầng cho các nhà cung cấp dịch vụ đám mây cũng khiến các ngân hàng đánh mất một phần quyền kiểm soát trực tiếp với hệ thống cốt lõi của mình.
+
+Ông Julien Richard, Phó Chủ tịch An ninh Thông tin tại Mastwall, chỉ ra rằng điều này có thể khiến việc giám sát, phản ứng với sự cố cũng như đảm bảo tuân thủ các quy định trở nên phức tạp hơn. “Khi sự cố xảy ra, việc xác định ai chịu trách nhiệm ở từng phần không hề đơn giản. Đó chính là một rủi ro tiềm ẩn nghiêm trọng”, ông Julien Richard nhấn mạnh.
+
+Chính vì vậy, ông Richard khuyến nghị các tổ chức tài chính cần xây dựng quy trình giám sát và đánh giá bảo mật với các đối tác công nghệ một cách liên tục trong suốt vòng đời sử dụng dịch vụ, để kịp thời phát hiện và xử lý các “điểm mù” trong hệ thống.
+
+Nhấn mạnh vai trò then chốt của an ninh chuỗi cung ứng, ông Alex Lowry, Phó Chủ tịch Cấp cao tại Ping Identity, cảnh báo: “Một tổ chức dịch vụ tài chính chỉ thực sự vững mạnh nếu chuỗi cung ứng của họ cũng đủ mạnh”.

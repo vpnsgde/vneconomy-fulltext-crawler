@@ -1,0 +1,20 @@
+Table: categories
+  Number of columns: 2
+  Columns: id, category_link
+  Number of records: 78
+--------------------------------------------------
+Table: links
+  Number of columns: 3
+  Columns: idx, category_index, paper_link
+  Number of records: 62137
+--------------------------------------------------
+Table: sqlite_sequence
+  Number of columns: 2
+  Columns: name, seq
+  Number of records: 2
+--------------------------------------------------
+Table: contents
+  Number of columns: 5
+  Columns: idx, category_index, publish_date, title, text
+  Number of records: 57986
+--------------------------------------------------

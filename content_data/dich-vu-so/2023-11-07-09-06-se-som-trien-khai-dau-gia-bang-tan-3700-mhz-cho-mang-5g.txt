@@ -1,0 +1,15 @@
+Thông tin này được ông Lê Văn Tuấn, Cục trưởng Cục Tần số Vô tuyến điện, Bộ Thông tin và Truyền thông chia sẻ tại buổi họp báo thường kỳ tháng 11/2023 chiều ngày 6/11.
+
+Ông Tuấn cho biết, băng tần 2300 MHz được chia 3 khối để phù hợp cho việc triển khai công nghệ 4G. Trong khi đó, để hiệu quả trong việc triển khai công nghệ 5G, đảm bảo khai thác tính năng vượt trội về dung lượng của 5G so với 4G, các băng tần 5G như băng tần 2600 MHz sẽ được phân chia thành các khối có độ rộng 80- 100 MHz. Việc chia nhỏ băng tần 2600 MHz ra thành khối nhỏ như băng tần 2300 MHz là không hiệu quả trong triển khai 5G, đại diện Cục Tần số vô tuyến điện cho hay.
+
+Trước đây, việc đấu giá băng tần 2300 MHz dựa trên việc xác định giá trị căn cứ theo Nghị định 88/2021/NĐ-CP ngày 1/10/2021 quy định về thu tiền cấp quyền sử dụng tần số VTĐ, đấu giá, cấp phép, chuyển nhượng quyền sử dụng tần số VTĐ đối với băng tần. Còn đấu giá băng tần 2600 MHz được xác định theo Nghị định 63/2023/NĐ-CP ngày 18/8/2023 quy định chi tiết một số điều của Luật Tần số vô tuyến điện số 42/2009/QH12 được sửa đổi, bổ sung một số điều theo Luật số 09/2022/QH15 ban hành ngày 18/8/2023, sửa đổi những bất cập của Nghị định 88/2021/NĐ-CP trước đây.
+
+Trong quá trình xây dựng Nghị định 63/2023/NĐ-CP, các doanh nghiệp viễn thông đã tham gia góp ý và đạt được sử đồng thuận. Từ đó, các doanh nghiệp có thể dự báo được giá trị của băng tần.
+
+Sau khi đấu giá băng tần 2600 Mhz vào tháng 12/2023, theo quy định, doanh nghiệp phải chính thức cung cấp dịch vụ chậm nhất là 12 tháng kể từ khi được cấp phép. Cơ quan cấp phép ky vọng các nhà mạng sẽ triển khai dịch vụ 5G sớm hơn
+
+Theo ông Tuấn, nguyên tắc chung của quản lý nhà nước là thúc đẩy, đảm bảo sự phát triển bền vững của lĩnh vực. Việc đấu giá băng tần và cấp phép dịch vụ 5G cho các nhà mạng cũng được Bộ tuân thủ theo nguyên tắc này.
+
+Theo dự báo của GSMA, đến năm 2030 tổng băng tần mà các doanh nghiệp di động ở Việt Nam cần trong dải tần 1-7 Ghz sẽ vào khoảng 1700 -2200MHz. Vì vậy, ngoài băng tần 2600 MHz, Bộ sẽ sớm triển khai đấu giá băng tần 3700 MHz, cấp phép cho các doanh nghiệp để làm 5G. Đồng thời trong thời gian tới Bộ sẽ tiếp tục nghiên cứu, quy hoạch các băng tần khác, giải phóng các băng tần khác sử dụng cho mạng 5G.
+
+Theo đại diện Cục Tần số vô tuyến điện, đấu giá băng tần là một việc mới và khó, nhiều năm rồi chưa thể thực hiện được. Đối với cả cơ quan quản lý và các nhà mạng, băng tần là một tài sản lớn nên việc đấu giá cần triển khai từng bước thận trọng để rút kinh nghiệm trước khi đấu giá tiếp các băng tần khác.

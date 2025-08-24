@@ -1,0 +1,9 @@
+Ngay đầu phiên chiều nay (1/6), hệ thống giao dịch của sàn HoSE đã “chết hẳn”, lệnh vào từ các công ty chứng khoán đều bị từ chối. Hiện tượng “đơ” hệ thống ngày càng nặng khi thanh khoản liên tiếp lập kỷ lục lịch sử.
+
+Trong thông báo ngắn phát đi lúc 2h chiều, HoSE chỉ cho biết thanh khoản quá lớn dẫn đến nguy hiểm hệ thống và phải dừng giao dịch phiên chiều:
+
+“Trong phiên giao dịch sáng ngày 1/6/2021, giá trị giao dịch tại Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh vượt mức 21,7 nghìn tỷ đồng, dẫn đến tình trạng báo động đối với an toàn của hệ thống. Được sự chấp thuận của Chủ tịch Ủy ban Chứng khoán Nhà nước, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh công bố ngừng giao dịch buổi chiều ngày 01/06/2021. Giá đóng cửa của chứng khoán ngày 01/06/2021 là giá khớp lệnh cuối cùng trong buổi sáng”.
+
+Tổng giá trị khớp lệnh sàn HoSE trong phiên sáng nay đạt xấp xỉ 20.996 tỷ đồng, trong đó 13.040 tỷ đồng thuộc về cổ phiếu trong rổ VN30. Đây đều là các kỷ lục chưa từng có trong lịch sử sàn này.
+
+Kỷ lục về thanh khoản liên tiếp được thiết lập những phiên gần đây. Sáng hôm qua, giao dịch khớp lệnh trên HoSE lần đầu tiên vượt ngưỡng 18.000 tỷ đồng. Hiện tượng nghẽn lệnh xuất hiện ngay từ sau 1h30 chiều. Cuối tuần trước, hệ thống đã bắt đầu chậm nhận lệnh, phản hồi về lệnh trễ tới 5-7 phút. Tuy nhiên phải đến đợt ATC giao dịch mới bắt đầu nghẽn. Hôm nay biểu hiện phản hồi chậm ngay từ giữa phiên sáng về đến gần hết phiên sáng thì lệnh bắt đầu bị “đá” liên tục và phiên chiều chính thức từ chối nhận lệnh.

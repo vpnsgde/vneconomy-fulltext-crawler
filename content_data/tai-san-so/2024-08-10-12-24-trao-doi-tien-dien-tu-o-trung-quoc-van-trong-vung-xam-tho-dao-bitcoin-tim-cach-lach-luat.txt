@@ -1,0 +1,25 @@
+Chính phủ Trung Quốc đã nhiều lần ban hành các lệnh cấm công khai liên quan đến Bitcoin hay đồng tiền mã hoá. Các lệnh cấm bao gồm lệnh cấm các ngân hàng giao dịch Bitcoin vào năm 2013, lệnh cấm chào bán tiền mã hoá và cấm các sàn giao dịch vào năm 2017, sau đó là lệnh cấm giao dịch và khai thác vào năm 2021. Mặc dù vậy, việc tiếp cận tiền mã hóa ở đất nước tỷ dân lại không quá khó khăn.
+
+Lệnh cấm tiền mã hóa của Trung Quốc không phải lúc nào cũng rõ ràng hoặc có hiệu quả. Mặc dù giao dịch và kinh doanh tiền mã hóa bị cấm, nhưng vẫn có những kênh khác để các nhà đầu tư tham gia vào thị trường toàn cầu.
+
+Các nhà giao dịch địa phương cho biết họ mua và bán tiền mã hóa của mình cho các nhà đầu tư khác thông qua giao dịch trên các sàn giao dịch tập trung như OKX và Binance. Mặc dù Trung Quốc đã “dựng tường lửa” cấm truy cập các trang web trên, những người này có thể dùng VPN để truy cập các trang web và ứng dụng họ cần.
+
+Thực tế, bản thân các mã tiền điện tử không phải là bất hợp pháp ở Trung Quốc. Ông Robin Hui Huang, một giáo sư luật tại Đại học Trung Quốc chia sẻ, việc trao đổi tiền điện tử hiện đang nằm trong vùng xám.
+
+Ông nói: “Mọi người có thể nắm giữ tiền điện tử ở Trung Quốc. Họ cũng có thể trao đổi tiền điện tử để lấy các tài sản khác, nhưng các giao dịch như vậy không được pháp luật bảo vệ, nghĩa là nếu bên kia vi phạm hợp đồng, sẽ không có biện pháp bảo vệ pháp lý nào được áp dụng”.
+
+Mặc dù luật không bảo vệ các giao dịch này, nhưng cũng không cấm chúng. Do đó, các cá nhân tư nhân có thể trao đổi tiền điện tử để lấy các tài sản khác nếu họ cùng đồng ý làm như vậy và thực hiện các cam kết của mình, ông Huang nói thêm.
+
+Ở khía cạnh khác, trong Hội nghị toàn thể lần thứ ba của Ban Chấp hành Trung ương Đảng Cộng sản Trung Quốc do Chủ tịch Tập Cận Bình chủ trì, đồng tiền kỹ thuật số của ngân hàng trung ương Trung Quốc (đồng nhân dân tệ kỹ thuật số) là một trong những vấn đề được đề cập và thảo luận về việc thúc đẩy sử dụng trong tương lai.
+
+Tất nhiên, người dùng tiền điện tử ở Trung Quốc biết về lệnh cấm giao dịch, và họ đã tìm ra những cách để “lách luật” này. Một chuyên gia trong ngành cho biết: "Hầu hết các nhà giao dịch tiền điện tử trên thế giới lại tập trung ở Trung Quốc, tuy nhiên, không ai đề cập về việc này vì nó khá tế nhị”.
+
+Ngày nay, các kênh giao dịch P2P (giao dịch ngang hàng) có sẵn trên phương tiện truyền thông xã hội hoặc sàn giao dịch tiền điện tử cho phép người dùng mua tiền điện tử bằng đồng nhân dân tệ thông qua chuyển khoản ngân hàng, WeChat Pay hoặc Alipay.
+
+OKX và Binance là hai sàn giao dịch phổ biến, Binance thậm chí cung cấp dịch vụ bán hàng P2P bằng nhân dân tệ tại khu vực Trung Quốc. Tuy nhiên để truy cập được các ứng dụng này đòi hỏi người dùng phải sử dụng VPN.
+
+Việc truy cập vào các ứng dụng ở Trung Quốc được quản lý theo môi trường Internet hạn chế hơn nhiều so với thế giới. Hệ thống này, được gọi là “tường lửa”, chặn quyền truy cập vào các tên miền phổ biến như Google và Facebook, cùng nhiều tên miền khác.
+
+Một chuyên gia về tiền điện tử chia sẻ, việc sử dụng VPN gần như là “bản năng thứ hai” của người dùng internet ở Trung Quốc. "Nếu bạn muốn truy cập Google hoặc YouTube thì việc sử dụng VPN là điều hiển nhiên”, chuyêng gia nói. Điều tương tự cũng áp dụng cho các nền tảng DeFi khác.
+
+Tuy nhiên, đối với các nền tảng, việc cung cấp cho người dùng quyền truy cập P2P là một "khu vực xám". Các cơ quan quản lý có thể sẽ thay đổi luật hay sẽ thanh tra đối với những nền tảng như thế này. Có thể các nền tảng này sẽ không bị truy tố nhưng sẽ tốn rất nhiều chi phí pháp lý khi không được pháp luật ủng hộ.

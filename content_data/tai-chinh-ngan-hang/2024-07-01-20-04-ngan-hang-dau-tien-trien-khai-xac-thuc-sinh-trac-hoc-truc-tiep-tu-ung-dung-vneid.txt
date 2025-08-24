@@ -1,0 +1,27 @@
+Chiều ngày 1/7, Vietcombank và Trung tâm Nghiên cứu, ứng dụng dữ liệu dân cư và căn cước công dân (RAR) thuộc Trung tâm Dữ liệu quốc gia về dân cư (Cục cảnh sát quản lý hành chính về trật tự xã hội C06, Bộ Công an) tiến hành Lễ ký kết “Dịch vụ xác thực điện tử”.
+
+Theo đó, Vietcombank trở thành ngân hàng đầu tiên khai thác Dịch vụ xác thực điện tử của Bộ Công an, giúp ngân hàng thu thập, làm sạch thông tin và xác thực sinh trắc học cho khách hàng trên kênh ngân hàng số, làm cơ sở đáp ứng quy định của Quyết định số 2345/NHNN.
+
+Trước đó, theo Quyết định 2345/NHNN về triển khai các giải pháp an toàn, bảo mật trong thanh toán trực tuyến và thanh toán thẻ ngân hàng có hiệu lực từ 1/7, yêu cầu mọi giao dịch có giá trị trên 10 triệu đồng hoặc tổng giá trị thanh toán trong ngày vượt 20 triệu đồng phải áp dụng một trong các biện pháp xác thực sinh trắc học.
+
+
+
+“Việc ứng dụng VNeID trong xác thực điện tử  giúp ngân hàng khai thác nguồn dữ liệu tin cậy từ cơ sở dữ liệu dân cư quốc gia, phục vụ cho công tác định danh khách hàng mới và xác thực khách hàng hiện hữu, mang tới các hành trình giao dịch an toàn, đơn giản, dễ dàng nhất cho khách hàng của Vietcombank”
+
+ÔngLê Quang Vinh, Phó Tổng Giám đốc Vietcombank.
+
+Thực tế cho thấy, không ít người dân gặp khó khăn khi xác thực thông tin căn cước công dân gắn chíp với hệ thống của ứng dụng ngân hàng số trên thiết bị di động.
+
+Theo phản ánh của khách hàng, mặc dù sử dụng điện thoại hiện đại nhất trên thị trường nhưng vẫn loay hoay để xác thực căn cước công dân gắn chíp bằng hệ thống NFC trên ứng dụng ngân hàng số.
+
+Đây cũng là ý kiến chung của nhiều người dân. Mặc dù, trên nền tảng mạng xã hội xuất hiện nhiều video hướng dẫn người dân xác thực thao tác này nhưng không phải mọi thiết bị di động đều có cùng vị trí đọc NFC nên nhiều người dân vẫn lúng túng.
+
+Để giải quyết hiện trạng trên, Vietcombank phối hợp với Trung tâm Nghiên cứu, ứng dụng dữ liệu dân cư và căn cước công dân (RAR) (trực thuộc Bộ Công an) cho phép khách hàng có thể cập nhật thông tin sinh trắc học trực tuyến thông qua giải pháp kết nối trực tiếp từ ứng dụng VNeID của Bộ Công an với ứng dụng VCB Digibank của ngân hàng.
+
+Trong thời gian tới, Vietcombank sẽ tiếp tục ứng dụng dịch vụ xác thực điện tử của Bộ Công an để cung cấp tới khách hàng các trải nghiệm giao dịch an toàn, đơn giản và thuận tiện hơn.
+
+Trước đó, Vietcombank đã làm việc với C06 để tích hợp hệ thống, đồng thời đầu tư vào hạ tầng công nghệ, trang thiết bị phục vụ và ứng dụng nhiều giải pháp hiện đại nhằm mang lại trải nghiệm thuận tiện nhất cho khách hàng khi đăng ký/cập nhật thông tin sinh trắc học cũng như xác thực giao dịch bằng sinh trắc học.
+
+Theo Đề án 06 do Thủ tướng Chính phủ phê duyệt về phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ việc chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030, các ngân hàng được phép khai thác cơ sở dữ liệu quốc gia về dân cư, khai thác thông tin trên căn cước công dân gắp chíp và sử dụng tài khoản định danh điện tử (VNeID) do Bộ Công an cung cấp.
+
+Các chuyên gia công nghệ cho rằng, quyết định này có vai trò rất quan trọng để các ngân hàng ứng dụng triển khai cung cấp các dịch vụ ngân hàng số trên môi trường mạng, xác thực khách hàng chính xác, ngăn ngừa tội phạm gian lận hồ sơ giấy tờ, mở hoặc sử dụng tài khoản mạo danh/lừa đảo khách hàng chiếm quyền truy cập các dịch vụ ngân hàng số.

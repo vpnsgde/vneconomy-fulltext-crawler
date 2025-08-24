@@ -1,0 +1,27 @@
+Tại tọa đàm triển khai Nghị định 94/2025/NĐ-CP ngày 1/7/2025 quy định về "Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng", Ngân hàng Nhà nước đã công bố số liệu liên quan đến hoạt động chuyển đổi số và phát triển hạ tầng thanh toán trong hệ thống ngân hàng.
+
+Theo báo cáo, hệ thống thanh toán điện tử liên ngân hàng đang xử lý bình quân khoảng 820 nghìn tỷ đồng mỗi ngày. Hệ thống chuyển mạch tài chính và bù trừ điện tử xử lý khoảng 26 triệu giao dịch/ngày. Hạ tầng thông tin tín dụng quốc gia đã được nâng cấp để tăng khả năng xử lý và cập nhật dữ liệu tự động. Tỷ lệ cập nhật số liệu thành công từ các tổ chức tín dụng đạt trên 98%.
+
+
+
+Theo điểm c, khoản 5, Điều 17 Thông tư 17/2024/TT-NHNN (ban hành ngày 28/6/2024), từ 1/7/2025, tài khoản tổ chức (doanh nghiệp) chỉ được thực hiện giao dịch điện tử (rút tiền, chuyển khoản, thanh toán) khi người đại diện pháp luật đã hoàn tất xác thực sinh trắc học.
+
+Về xác thực dữ liệu khách hàng, hơn 117 triệu hồ sơ cá nhân và hơn 927 nghìn hồ sơ tổ chức đã được đối chiếu với dữ liệu sinh trắc học. Tỷ lệ đối chiếu hồ sơ tổ chức chiếm trên 75% tổng số lượng tài khoản thanh toán tổ chức có giao dịch trên kênh số.
+
+Một số nghiệp vụ ngân hàng đã được triển khai hoàn toàn trên môi trường số. Các loại hình dịch vụ bao gồm mở tài khoản, chuyển tiền, thanh toán và vay vốn.
+
+Tính đến cuối năm 2024, gần 87% người trưởng thành tại Việt Nam có tài khoản tại ngân hàng hoặc tổ chức được cấp phép. Giá trị giao dịch không dùng tiền mặt trong năm 2024 đạt mức tương đương 25 lần GDP.
+
+Phát biểu tại tọa đàm, ông Phạm Tiến Dũng, Phó Thống đốc Ngân hàng Nhà nước nhấn mạnh rằng việc ban hành Nghị định 94 là bước đi quan trọng, mang tính đột phá trong việc xây dựng một hành lang pháp lý có kiểm soát cho các hoạt động thử nghiệm công nghệ tài chính (Fintech).
+
+“Vai trò của Fintech là rất lớn đối với hoạt động ngân hàng. Fintech và ngân hàng phải đồng hành, hỗ trợ lẫn nhau để tạo ra các sản phẩm, dịch vụ tài chính phù hợp với nhu cầu của người dân, đặc biệt là người yếu thế, với chi phí hợp lý và chất lượng cao,” ông Dũng nói.
+
+Nghị định 94/2025/NĐ-CP, ban hành ngày 29/4/2025, đưa ra cơ chế thử nghiệm đối với các sản phẩm, dịch vụ, mô hình kinh doanh tài chính mới.Trước mắt, ba lĩnh vực được xem xét đưa vào thử nghiệm gồm: chấm điểm tín dụng, chia sẻ dữ liệu thông qua giao diện lập trình ứng dụng mở (Open API) và cho vay ngang hàng (P2P Lending). Ngân hàng Nhà nước cho biết sẽ tiếp tục rà soát, đánh giá để mở rộng danh sách các giải pháp phù hợp với thực tiễn.
+
+Chia sẻ tại tọa đàm, ông Ron H.Slangen, Phó giám đốc quốc gia ADB tại Việt Nam đánh giá hệ thống tài chính tại Việt Nam đang trải qua quá trình chuyển đổi lớn, được thúc đẩy bởi các công nghệ như điện toán đám mây, phân tích dữ liệu lớn, open API, Blockchain và AI.
+
+“Sự thay đổi này đang định hình lại hoạt động ngân hàng truyền thống và thúc đẩy sự trỗi dậy của các công ty công nghệ tài chính. Để thích ứng, ADB ủng hộ Nghị định về Cơ chế thử nghiệm có kiểm soát, thúc đẩy tài chính toàn diện và thân thiện với khí hậu, đồng thời cung cấp môi trường thuận lợi cho đổi mới công nghệ tài chính”, đại diện ADB nhấn mạnh.
+
+Ông Thomas Gass, Đại sứ Thụy Sĩ tại Việt Nam cũng cho rằng Nghị định về Cơ chế thử nghiệm có kiểm soát không chỉ khuyến khích sự đổi mới từ các tổ chức cung ứng dịch vụ hiện nay, mà còn giảm rào cản gia nhập đối với các công ty khởi nghiệp và những tổ chức mới trên thị trường.
+
+Ông Thomas Gass nhấn mạnh Thụy Sĩ sẽ tiếp tục ủng hộ các thông lệ quốc tế tốt nhất, thúc đẩy đổi mới, tận dụng chuyên môn của Thụy Sĩ và đầu tư vào các quan hệ đối tác mang lại tác động lâu dài để giúp Việt Nam xây dựng một hệ thống tài chính có khả năng phục hồi, sáng tạo và dễ tiếp cận với tất cả mọi người. Điều này giúp Việt Nam hiện thực hóa khát vọng trở thành quốc gia có thu nhập cao vào năm 2045 và đạt được mức phát thải carbon ròng bằng 0 vào năm 2050.

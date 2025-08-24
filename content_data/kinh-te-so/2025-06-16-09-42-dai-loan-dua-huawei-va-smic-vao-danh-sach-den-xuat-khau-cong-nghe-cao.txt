@@ -1,0 +1,29 @@
+Huawei và SMIC, hai mắt xích chủ chốt trong tham vọng phát triển chip và trí tuệ nhân tạo (AI) của Trung Quốc, đã bị thêm vào phiên bản cập nhật danh sách "hàng hóa công nghệ cao chiến lược” trên trang thông tin chính thức của Cục Quản lý Thương mại (Bộ Kinh tế Đài Loan).
+
+Việc bị đưa vào danh sách này đồng nghĩa với việc mọi hoạt động xuất khẩu sản phẩm công nghệ cao từ các doanh nghiệp Đài Loan sang Huawei và SMIC đều phải được cơ quan quản lý phê duyệt.
+
+Động thái này đánh dấu việc siết chặt chính sách kiểm soát xuất khẩu của Đài Loan, trong bối cảnh lo ngại gia tăng về an ninh quốc gia và rủi ro rò rỉ công nghệ nhạy cảm.
+
+Hãng tin Reuters thông tin việc cập nhật danh sách được thực hiện sau cuộc họp đánh giá toàn diện, dựa trên các mối lo ngại liên quan đến phổ biến công nghệ và an ninh. Tổng cộng có 601 thực thể bị đưa vào danh sách lần này của Đài Loan, đến từ nhiều quốc gia như Trung Quốc, Nga, Iran, Pakistan và Myanmar.
+
+“Các doanh nghiệp phải tuân thủ quy định xuất khẩu, chủ động xác minh đối tác và đánh giá kỹ rủi ro trong từng giao dịch”, thông báo Cục Quản lý Thương mại Đài Loan nêu rõ.
+
+Là nơi đặt trụ sở của TSMC, nhà sản xuất chip theo hợp đồng lớn nhất thế giới và là đối tác chiến lược của Nvidia, Đài Loan từ lâu đã thực hiện chính sách kiểm soát chặt chẽ đối với việc xuất khẩu công nghệ. Nhất là trong bối cảnh căng thẳng chính trị gia tăng, Đài Loan được cho là đẩy mạnh siết chặt "Lá chắn Silicon".
+
+Về phía Huawei, tập đoàn này đã nằm trong danh sách cấm vận thương mại của Mỹ từ năm 2019, khiến họ không thể tiếp cận công nghệ và thiết bị có nguồn gốc từ Mỹ, bao gồm cả các con chip sản xuất bởi TSMC nếu dùng công nghệ Mỹ.
+
+Tháng 10 năm ngoái, công ty nghiên cứu TechInsights (Canada) đã “mổ xẻ” bộ xử lý AI 910B của Huawei và phát hiện có chứa một con chip do TSMC sản xuất. Đây là bộ tăng tốc AI tiên tiến nhất được sản xuất hàng loạt tại Trung Quốc, làm dấy lên những nghi vấn về việc lách lệnh kiểm soát.
+
+Ngay sau đó, TSMC đã đình chỉ việc giao hàng cho Sophgo, một công ty thiết kế chip Trung Quốc được cho là có liên hệ với Huawei. Đến tháng 11, Bộ Thương mại Hoa Kỳ đã yêu cầu TSMC ngừng hoàn toàn việc cung cấp chip cho khách hàng Trung Quốc.
+
+Đài Loan cũng không giấu lập trường cứng rắn khi nhiều lần tuyên bố sẽ mạnh tay trấn áp những hành vi cạnh tranh không lành mạnh của doanh nghiệp Trung Quốc, chẳng hạn như đánh cắp công nghệ hoặc “săn nhân tài” của các công ty bán dẫn tại Đài Loan.
+
+SMIC, nhà sản xuất bán dẫn lớn nhất Trung Quốc, hiện đang đẩy mạnh đầu tư nhằm mở rộng năng lực sản xuất nội địa trong bối cảnh bị Hoa Kỳ siết chặt kiểm soát xuất khẩu. Tập đoàn này hiện đã có thể sản xuất những con chip có độ dày chưa đến 1/15.000 so với một tờ giấy nhưng tích hợp đủ sức mạnh tính toán để tạo ra những tiến bộ như trí tuệ nhân tạo và mạng 5G.
+
+Trong khi đó, về Huawei, trong một tuyên bố gây chấn động, CEO Nvidia Jensen Huang lần đầu tiên công khai thừa nhận rằng Huawei đã phát triển thành công các giải pháp AI có khả năng cạnh tranh trực tiếp với những sản phẩm cao cấp nhất của Nvidia. Nhà Trắng cũng thông tin rằng chip AI của Trung Quốc chậm hơn các chip AI của Hoa Kỳ từ một đến hai năm.
+
+Theo Tổng giám đốc điều hành Huawei Nhậm Chính Phi, công ty đang đầu tư hơn 25 tỷ USD mỗi năm để cải thiện hiệu suất.
+
+Tuy nhiên, với động thái mới từ phía Đài Loan, tham vọng tự chủ công nghệ của Trung Quốc đang phải đối mặt với thêm một rào cản không nhỏ.
+
+Mới đây, Economic Daily đưa tin Đạo luật Đổi mới Công nghiệp Đài Loan đã được sửa đổi, dự kiến sẽ chính thức có hiệu lực vào cuối năm 2025, sẽ đưa ra quy định cụ thể đối với việc kiểm soát các công nghệ sản xuất chip tiên tiến. Đáng chú ý, lần sửa đổi này đi kèm các chế tài mạnh mẽ chưa từng có,

@@ -1,0 +1,33 @@
+Báo cáo giải trình, tiếp thu, chỉnh lý dự thảo Luật Công nghiệp công nghệ số trước Quốc hội, Chủ nhiệm Ủy ban Khoa học Công nghệ và Môi trường của Quốc hội Lê Quang Huy cho biết có ý kiến cho rằng cần xây dựng một khung pháp lý tài sản số quy định chi tiết các vấn đề cốt lõi, xác định ngay các nội dung phải thực hiện (quyền tài sản, quyền sở hữu, giao dịch, bảo mật, trách nhiệm, giải quyết tranh chấp, quản lý rủi ro)...
+
+Điều này vừa đảm bảo tính thống nhất với hệ thống pháp luật hiện hành và thông lệ quốc tế, đồng thời thiết lập cơ chế quản lý, giám sát, phòng ngừa rủi ro; làm rõ tài sản số có thể sử dụng cho mục đích trao đổi hoặc đầu tư hay không; đề nghị làm rõ nội hàm, tiêu chí phân loại tài sản số.
+
+Ủy ban Thường vụ Quốc hội thấy rằng theo dự thảo Luật, tài sản số đã được xác định là tài sản theo pháp luật dân sự hiện hành. Quyền tài sản, quyền sở hữu, giao dịch, bảo mật, trách nhiệm, giải quyết tranh chấp, quản lý rủi ro… đã được điều chỉnh theo quy định của pháp luật hình sự, pháp luật về phòng chống tham nhũng, chống rửa tiền và pháp luật có liên quan.
+
+Do vậy, nhằm bảo đảm tính khả thi, linh hoạt và ổn định của hệ thống pháp luật, dự thảo Luật chỉ quy định mang tính nguyên tắc và giao Chính phủ quy định cụ thể cho phù hợp với thực tiễn phát triển.
+
+Tiếp thu ý kiến của đại biểu Quốc hội, dự thảo Luật đã quy định cụ thể hơn một số nội dung cốt lõi trong quản lý nhà nước về tài sản số. Cụ thể bao gồm: việc tạo lập, phát hành, lưu trữ, lưu ký, chuyển giao, xác lập quyền sở hữu tài sản số; quyền, nghĩa vụ của các bên đối với hoạt động có liên quan đến tài sản số; biện pháp bảo đảm an toàn thông tin, an ninh mạng; phòng, chống rửa tiền, khủng bố; thanh tra, kiểm tra, xử lý hành vi vi phạm pháp luật liên quan đến tài sản số; điều kiện kinh doanh đối với hoạt động cung cấp dịch vụ tài sản mã hoá; phát hành tài sản mã hoá...); Đồng thời giao Chính phủ quy định chi tiết về thẩm quyền, quản lý đối với tài sản số trong lĩnh vực chuyên ngành phù hợp với điều kiện thực tiễn.
+
+Thảo luận ở hội trường về một số nội dung còn ý kiến khác nhau của dự thảo Luật Công nghiệp công nghệ số, liên quan đến tài sản số, đại biểu Trịnh Thị Tú Anh, đoàn Lâm Đồng đề nghị bổ sung quy định về “tính độc nhất hoặc có thể thay thế” bởi đây là tính chất quan trọng của tài sản số, ảnh hưởng trực tiếp đến giao dịch, định giá và sử dụng tài sản số.
+
+“Tính độc nhất tạo ra sự khan hiếm và giá trị riêng biệt cho từng loại tài sản số ,cho phép đại diện cho quyền sở hữu các vật phẩm hoặc tài sản duy nhất trong cả thế giới thực và kỹ thuật số. Tính có thể thay thế cho phép dễ dàng trao đổi và sử dụng tài sản số như một đơn vị tiền tệ, tạo ra tính thanh khoản, thúc đẩy các giao dịch thương mại và là nền tảng cho các ứng dụng phi tài chính tập trung”, đại biểu cho hay.
+
+Liên quan quy định về tài sản số (Điều 49), đại biểu Đồng Ngọc Ba, đoàn Bình Định, cho rằng đây là điểm mới đáp ứng yêu cầu thực tiễn đã đặt ra từ lâu nhưng đến nay mới đưa và dự thảo luật. Theo đại biểu cần phân biệt rõ hơn 3 nhóm tài sản số gồm: tài sản ảo, tài sản mã hóa và các tài sản số khác. Tuy nhiên tiêu chí để phân loại giữa 3 loại tài sản này có điểm chưa rõ, chưa hợp lý.
+
+Cụ thể, đối với tài sản ảo, dự thảo lấy tiêu chí có thể dùng cho mục đích trao đổi hoặc đầu tư để phân biệt với các tài sản số khác là chưa thuyết phục và thực thi sẽ khó. Qua nghiên cứu tài liệu, đại biểu cho biết còn nhiều quan điểm khác nhau và rất phức tạp về kỹ thuật nhưng căn cứ với tài sản ảo là tài sản được tạo ra bởi các công nghệ kỹ thuật số và phải gắn với môi trường ảo cụ thể. Việc phân loại nhằm đưa ra cơ chế quản lý khác nhau, kể cả quá trình tạo ra cũng như giao dịch tài sản này.
+
+Đối với tài sản mã hóa theo đại biểu, phổ biến trên thế giới, tài sản mã hóa gắn với công nghệ chuỗi khối Blockchain mà điển hình là bitcoin, tocken bất động sản, NFT… Trên cơ sở những vấn đề đã phổ biến để khái quát về tiêu chí kỹ thuật để phân biệt 3 nhóm tài sản số, từ đó đưa ra cơ chế quản lý phù hợp.
+
+Liên quan đến vấn đề quản lý trí tuệ nhân tạo (AI), báo cáo của Ủy ban Thường vụ Quốc hội cho biết có ý kiến bổ sung nguyên tắc quản lý rủi ro, có biện pháp bảo đảm để thúc đẩy, phát triển, ứng dụng hệ thống AI trong các ngành, lĩnh vực và giao Chính phủ hướng dẫn chi tiết; có quy định về sở hữu trí tuệ đối với sản phẩm sử dụng AI.
+
+Về quản lý rủi ro và biện pháp thúc đẩy hệ thống AI, Ủy ban Thường vụ Quốc hội thấy rằng dự thảo Luật đã quy định về AI theo hướng thúc đẩy nghiên cứu, phát triển, ứng dụng AI vào cuộc sống; quản lý rủi ro và lấy con người làm trung tâm; quy định quản lý đối với hệ thống AI rủi ro cao; hệ thống tác động lớn và không đặt yêu cầu quản lý đối với hệ thống trí tuệ nhân tạo không rủi ro cao và giao Chính phủ quy định chi tiết phù hợp thực tiễn quản lý ngành, lĩnh vực. Nguyên tắc quản lý rủi ro này được xây dựng trên cơ sở tiếp thu có chọn lọc kinh nghiệm quốc tế và phù hợp thực tiễn Việt Nam.
+
+Đồng thời, dự thảo Luật cũng bổ sung quy định về Chiến lược nghiên cứu, phát triển và ứng dụng AI nhằm thúc đẩy, phát triển và ứng dụng AI hiệu quả, bền vững và có trách nhiệm trong các ngành, lĩnh vực.
+
+Về ý kiến đề nghị cần có quy định về sở hữu trí tuệ đối với AI, Ủy ban Thường vụ Quốc hội nhận thấy pháp luật về sở hữu trí tuệ của Việt Nam quy định quyền sở hữu trí tuệ chỉ có thể thuộc về tổ chức, cá nhân (con người) sở hữu hoặc trực tiếp sáng tạo ra một phần hoặc toàn bộ tác phẩm, sáng chế,… chứ không áp dụng đối với AI.
+
+Hiện nay, Tổ chức Sở hữu trí tuệ thế giới (WIPO) và nhiều quốc gia vẫn đang tiếp tục nghiên cứu vấn đề về quyền sở hữu trí tuệ đối với các sản phẩm do AI tạo ra, chưa chính thức luật hóa hoặc đưa vào các công ước quốc tế. Do đó, Ủy ban Thường vụ Quốc hội sẽ chỉ đạo nghiên cứu sửa đổi, bổ sung, hoàn thiện quy định về vấn đề nêu trên trong Luật Sở hữu trí tuệ vào thời điểm phù hợp.
+
+Thảo luận về các nguyên tắc phát triển, cung cấp, triển khai, sử dụng hệ thống AI, đại biểu Lưu Bá Mạc, đoàn Lạng Sơn đề nghị, cân nhắc bổ sung thêm quy định theo hướng nguyên tắc các hệ thống AI có rủi ro cao hoặc tác động rộng lớn trước khi triển khai chính thức phải được đánh giá và thẩm định bởi các tổ chức kiểm định độc lập được nhà nước chỉ định, công nhận.
+
+“Điều này nhằm giúp nâng cao hiệu lực, hiệu quả trong quản lý nhà nước, mà còn tạo cơ sở pháp lý để doanh nghiệp và người dân yên tâm ứng dụng AI trong đời sống và sản xuất, kinh doanh, nhất là trong bối cảnh phát triển kinh tế số và xã hội số như hiện nay”, đại biểu đoàn Lạng Sơn nhấn mạnh.

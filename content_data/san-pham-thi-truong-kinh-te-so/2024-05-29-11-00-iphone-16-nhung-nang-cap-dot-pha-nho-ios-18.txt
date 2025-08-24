@@ -1,0 +1,27 @@
+Giới chuyên môn cho rằng iOS 18 sắp được ra mắt tại Hội nghị Các nhà phát triển Toàn cầu của Apple tới đây, có tiềm năng trở thành bản cập nhật phần mềm "lớn nhất" trong lịch sử iPhone với "một loạt các tính năng AI mới”.
+
+Trong cơn sốt trí tuệ nhân tạo, các nhà sản xuất điện thoại đều đang tích cực tích hợp công nghệ này vào sản phẩm của mình. Năm ngoái, Google đã ra mắt điện thoại Pixel 8 với hàng loạt các tính năng AI, Samsung cũng ra mắt dòng Galaxy S24 với công nghệ Galaxy AI.
+
+Theo dòng xu hướng, iPhone 16 của Apple dự kiến cũng sẽ được trang bị các tính năng AI nhờ bản cập nhật hệ điều hành iOS 18. CEO Tim Cook cho biết ông kỳ vọng doanh thu của Apple tăng trưởng tích cực với sự ra mắt công nghệ AI sắp tới.
+
+Siri đã xuất hiện trên iPhone từ iOS 5 vào năm 2011, nhưng với iOS 18, Siri được dự đoán sẽ thông minh hơn rất nhiều.
+
+Theo Information, Apple có kế hoạch sử dụng các mô hình ngôn ngữ lớn (LLM) để đào tạo Siri trở nên thông minh hơn. Một ví dụ cụ thể là Siri có thể phản hồi các lệnh phức tạp hơn nhiều, chẳng hạn như người dùng có thể yêu cầu siri thực hiện chuyển một bộ ảnh thành ảnh GIF rồi gửi chúng qua tin nhắn. Nếu ví dụ này là chính xác thì đây là một bước tiến lớn về trí thông minh của trợ lý ảo Siri.
+
+Ngoài Siri, iOS 18 sẽ mang đến những tinh năng mới trên ứng dụng ghi chú, theo báo cáo của Apple Insider. Ứng dụng ghi chú dự kiến sẽ có khả năng ghi chép lại âm thanh. Nó cũng có thể tạo các bản tóm tắt nhờ sức mạnh trí tuệ từ AI. Những thay đổi này sẽ xuất hiện trên cả ứng dụng ghi chú trên iPhone cũng như trên iPad và MacBook.
+
+SAFARI
+
+Safari dự kiến sẽ có một cuộc đại tu với những cập nhật về giao diện cùng các công cụ mới để nâng cao trải nghiệm tìm kiếm cho người dùng. Tùy chọn "Tìm kiếm thông minh" sẽ sử dụng công nghệ AI để xác định các chủ đề và cụm từ chính trên trang web nhằm đưa ra bản tóm tắt.
+
+Công cụ "Web Eraser" sẽ cho phép người dùng xóa những trang web không mong muốn. Các phần của trang web bị "xóa" sẽ chỉ xuất hiện lại khi người dùng khôi phục.
+
+Apple cho biết sẽ bổ sung hỗ trợ dịch vụ nhắn tin RCS trên iPhone "vào cuối năm sau", theo một nhân viên của Apple.
+
+Cụ thể, thông qua ứng dụng RCS, người dùng hai hệ điều hành Android và iPhone có thể gửi ảnh và video chất lượng cao, v.v. cho nhau. Nói cách khác, nếu người dùng Android nhắn tin cho ai đó dùng iPhone, hai người có thể nhắn tin cho nhau qua RCS thay vì SMS để nâng cao trải nghiệm. Tuy nhiên, iMessage vẫn sẽ là ứng dụng nhắn tin độc quyền giữa các thiết bị khác nhau của Apple.
+
+Bên cạnh những ứng dụng kể trên, AI còn được Apple đưa vào nhiều ứng dụng khác như Apple Music – người dùng có thể nhập tâm trạng, Apple Music sẽ tạo ra một danh sách phát nhạc phù hợp; Các phím tắt sẽ tích hợp với Siri, giúp tự động hóa các tác vụ; Ứng dụng Sức khỏe có thể nhận được các tính năng AI mới, nhưng hiện tại chưa rõ thông tin cụ thể.
+
+Bị đánh giá là chậm chân so với các công ty công nghệ khác, Apple đang nỗ lực chạy đua để bắt kịp các công ty hàng đầu trong lĩnh vực AI hiện nay như Microsoft, Google, Amazon và OpenAI. Theo đó, Apple hiện đang chi hơn 1 tỷ USD mỗi năm cho nghiên cứu AI và phần cứng cần thiết để chạy các mô hình ngôn ngữ lớn.
+
+Năm ngoái, Apple cũng đã mua công ty khởi nghiệp DarwinAI của Canada, một công ty đã phát triển công nghệ có thể làm cho các hệ thống AI nhỏ hơn và nhanh hơn.

@@ -1,0 +1,31 @@
+Reuters đưa tin động thái mới của Synopsys được cho là nhằm tuân thủ các quy định kiểm soát xuất khẩu mới nhất từ chính phủ Hoa Kỳ nhắm vào Trung Quốc.
+
+Synopsys đã bất ngờ dừng các dự báo kinh doanh quý và năm vào ngày 26/5, ngay sau khi nhận được thông báo về các biện pháp hạn chế mới từ Cục Công nghiệp và An ninh thuộc Bộ Thương mại Hoa Kỳ.
+
+Sau đó, ngày 30/5, công ty gửi thư nội bộ yêu cầu nhân viên tại Trung Quốc dừng ngay việc cung cấp sản phẩm và dịch vụ tại thị trường này, theo chỉ thị có hiệu lực từ ngày 29/5/2025.
+
+Synopsys cũng khẳng định đã tạm dừng toàn bộ đơn hàng mới tại Trung Quốc để chờ hướng dẫn cụ thể hơn, đồng thời khóa quyền truy cập của khách hàng Trung Quốc vào cổng hỗ trợ kỹ thuật SolvNetPlus.
+
+Đáng chú ý, lệnh cấm không chỉ áp dụng với các công ty trong nước mà còn bao gồm cả các chi nhánh tại Trung Quốc của những khách hàng toàn cầu và người dùng có liên quan đến lĩnh vực quân sự của Trung Quốc trên toàn thế giới.
+
+Động thái của Synopsys diễn ra ngay sau khi chính quyền Hoa Kỳ ban hành lệnh yêu cầu nhiều công ty ngừng chuyển giao sản phẩm công nghệ cao sang Trung Quốc nếu không có giấy phép đặc biệt, đồng thời thu hồi giấy phép của một số nhà cung cấp nhất định.
+
+Các hạn chế của Mỹ đặc biệt ảnh hưởng đến phần mềm thiết kế và hóa chất dùng trong sản xuất chất bán dẫn – những mắt xích then chốt trong chuỗi cung ứng công nghệ.
+
+Theo Tân Hoa Xã, Synopsys cùng Cadence và Siemens EDA đang kiểm soát hơn 70% thị phần phần mềm EDA tại Trung Quốc.
+
+Việc Trung Quốc bị cắt quyền truy cập vào các công cụ EDA tiên tiến của Mỹ có thể khiến ngành thiết kế chip nội địa, vốn đang phụ thuộc nặng nề vào phần mềm nước ngoài, bị “tổn thương” không nhỏ và làm trầm trọng thêm nỗ lực tự chủ công nghệ của nước này.
+
+Giám đốc điều hành Synopsys Sassine Ghazi từng thừa nhận doanh thu của công ty tại thị trường Trung Quốc đã giảm trong quý tài chính thứ hai kết thúc vào ngày 30/4. Trong đó, Trung Quốc hiện chiếm khoảng 10% trong tổng doanh thu 1,6 tỷ USD của Synopsys.
+
+Ông cho biết thị trường Trung Quốc đang cạnh tranh khốc liệt hơn bao giờ hết, khi chính phủ nước này liên tục đưa ra các chính sách hỗ trợ mạnh tay cho doanh nghiệp nội địa, đồng thời rót vốn từ các quỹ đầu tư để thúc đẩy quá trình tự phát triển công nghệ thiết kế chip.
+
+“Ngay từ đầu năm tài chính 2024, chúng tôi đã bắt đầu cảm nhận rõ tác động tích lũy từ các biện pháp kiểm soát, cùng với bối cảnh kinh tế vĩ mô nhiều bất ổn tại Trung Quốc. Chính vì vậy, chúng tôi luôn cảnh báo rằng xu hướng suy giảm có thể sẽ kéo dài. Và thực tế là các ‘cơn gió ngược’ đã ngày càng mạnh lên theo từng quý trong suốt năm rưỡi qua”, ông Ghazi chia sẻ thêm.
+
+Trong vài năm trở lại đây, Trung Quốc đã dồn lực tự thiết kế và sản xuất các loại chip. Dù vẫn bị đánh giá là đi sau Mỹ trong các lĩnh vực như chip xử lý đồ họa (GPU) và chip phục vụ trí tuệ nhân tạo, không thể phủ nhận nước này đã đạt những bước tiến đáng kinh ngạc,
+
+Theo ông Gaurav Gupta, chuyên gia phân tích mảng bán dẫn tại hãng nghiên cứu Gartner, nhận định rằng công nghệ bán dẫn nội địa của Trung Quốc, dù còn khoảng cách, đã có những tín hiệu tiến bộ rõ rệt.
+
+Sự vươn lên của Trung Quốc đang khiến nhiều lãnh đạo các công ty công nghệ Mỹ lo ngại. Không ít lãnh đạo giới công nghệ Mỹ đã lên tiếng kêu gọi Chính phủ Mỹ nới lỏng các lệnh hạn chế, vì lo rằng những biện pháp này đang “phản tác dụng”.
+
+Ông Jensen Huang, Giám đốc điều hành của Nvidia, thậm chí đã thẳng thắn chỉ trích các chính sách kiểm soát xuất khẩu, cho rằng chúng “đang làm tổn hại đến doanh nghiệp Mỹ nhiều hơn là kìm hãm Trung Quốc”.

@@ -1,0 +1,23 @@
+Chiều 2/2/2024, các chuyên gia an ninh mạng Bkav đã phát đi cảnh báo về tình trạng các đối tượng lừa đảo sử dụng AI tạo hình ảnh và giọng nói giả mạo để lừa tiền.
+
+Nhiều người đã trở thành nạn nhân của trò lừa đảo này. Đơn cử như Nguyễn Thị Hương-một nhân viên văn phòng ở Hà Nội, trong một lần trò chuyện với bạn qua Facebook Messenger, người bạn đã chào và kết thúc câu chuyện nhưng đột nhiên quay lại nhắn tin, hỏi vay tiền và đề nghị chuyển tiền vào một tài khoản ngân hàng. Dù tên tài khoản trùng khớp với tên bạn mình, nhân viên này nghi ngờ nên yêu cầu gọi video để xác thực. Người bạn đồng ý ngay nhưng cuộc gọi chỉ kéo dài vài giây do “mạng chập chờn”, theo giải thích của người bạn.
+
+Đã thấy mặt bạn mình trong cuộc gọi video, giọng nói cũng đúng nên chị Hương đã chuyển tiền. Tuy nhiên, chỉ sau khi chuyển tiền thành công, chị mới biết mình đã mắc bẫy của hacker.
+
+Không chỉ chị Hương, nhiều nạn nhân khác là bạn bè, người thân của người bạn Hương cũng bị lừa theo cách tương tự. Số tiền kẻ xấu lừa được từ tài khoản Facebook đó lên tới hàng chục triệu đồng.
+
+
+
+Các chuyên gia an ninh mạng Bkav cho biết, nửa cuối năm 2023, Bkav liên tục nhận được các báo cáo cũng như yêu cầu trợ giúp của nạn nhân về các vụ việc lừa đảo tương tự.
+
+Trong trường hợp của chị Hương, kẻ xấu đã kiểm soát được tài khoản Facebook nhưng không lập tức chiếm đoạt hoàn toàn mà âm thầm theo dõi, chờ cơ hội giả làm nạn nhân để hỏi vay tiền bạn bè, người thân của họ. Chúng sử dụng AI để tạo sẵn một đoạn video giả mạo gương mặt và giọng nói của chủ tài khoản Facebook (Deepfake). Khi được yêu cầu gọi điện video call để chứng thực, chúng đồng ý nhận cuộc gọi nhưng sau đó nhanh chóng ngắt kết nối để tránh bị phát hiện.
+
+Các chuyên gia an ninh mạng cũng nhấn mạnh, ngay cả khi người dùng thực hiện một cuộc gọi video và thấy mặt người thân hay bạn bè, nghe đúng giọng nói của họ thì cũng không hẳn bạn đang nói chuyện với chính người đó. Gần đây, nhiều người đã trở thành nạn nhân của các cuộc lừa đảo tài chính sử dụng Deepfake và có sự tham gia của AI tương tự.
+
+Ông Nguyễn Tiến Đạt, Tổng Giám đốc Trung tâm nghiên cứu mã độc (AntiMalware) của Bkav, cho biết khả năng thu thập và phân tích dữ liệu người dùng thông qua AI cho phép tạo ra những chiến lược lừa đảo tinh vi. Điều này cũng có nghĩa là mức độ phức tạp của các kịch bản lừa đảo khi kết hợp giữa Deepfake và GPT sẽ ngày càng cao, khiến việc nhận diện lừa đảo sẽ khó khăn hơn rất nhiều.
+
+Để không bị sập bẫy lừa đảo, Bkav khuyến cáo người dùng cần đặc biệt nâng cao cảnh giác, không cung cấp thông tin cá nhân (căn cước công dân, tài khoản ngân hàng, mã OTP…), không chuyển tiền cho người lạ qua điện thoại, mạng xã hội, các trang web có dấu hiệu lừa đảo. Khi có yêu cầu vay/chuyển tiền vào tài khoản qua mạng xã hội, nên thực hiện các phương thức xác thực khác như gọi điện thoại hay sử dụng các kênh liên lạc khác để xác nhận lại.
+
+Dự báo về tình hình an ninh mạng năm 2024, các chuyên gia an ninh mạng Bkav cho hay, sự phát triển nhanh chóng của AI không chỉ mang lại những lợi ích rõ ràng mà còn tạo ra những nguy cơ đáng kể cho an ninh mạng.
+
+Thách thức lớn nhất đối diện với công nghệ AI ngày nay là lừa đảo và tấn công có chủ đích APT, với mức độ ngày càng phức tạp của các kịch bản lừa đảo, đặc biệt khi kết hợp giữa Deepfake và GPT. Khả năng thu thập và phân tích dữ liệu người dùng thông qua AI cho phép tạo ra những chiến lược lừa đảo tinh vi, khiến việc nhận diện lừa đảo sẽ khó khăn hơn đối với người dùng.

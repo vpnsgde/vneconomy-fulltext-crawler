@@ -1,0 +1,17 @@
+Nhằm tạo thuận lợi cho người dân thực hiện thủ tục sang tên xe trên môi trường điện tử, từ nay đến hết tháng 5/2025, Bộ Công an triển khai thí điểm giao dịch chuyển quyền sở hữu điện tử phục vụ sang tên xe trên Cổng dịch vụ công Bộ Công an tại TP.HCM.
+
+Để áp dụng tiện ích mới này, người dân cần thực hiện 4 bước. Trong đó, chủ xe (người bán) đăng nhập Cổng dịch vụ công Bộ Công an bằng tài khoản VNeID mức độ 2, chọn tiện ích chuyển quyền sở hữu xe để kê khai thông tin (gồm thông tin phương tiện, người mua và người đồng sở hữu nếu có). Hệ thống sẽ kiểm tra thông tin và chuyển sang bước tiếp theo nếu hợp lệ.
+
+Thời gian thử nghiệm, điều kiện áp dụng giao dịch chuyển quyền sở hữu xe qua mạng đối với chủ xe (người bán), người đồng sở hữu và người mua phải là cá nhân, có tài khoản VNeID mức độ 2 và có địa chỉ thường trú tại TP.HCM. Cơ quan chức năng không chấp nhận kê khai hộ, bắt buộc phải thực hiện chính chủ.
+
+Sau khi xác nhận hợp lệ, Cổng dịch vụ công gửi thông tin giao dịch đến VNeID của các bên liên quan để xác nhận. Nếu sau 30 ngày mà một trong các cá nhân chưa xác nhận, giao dịch sẽ bị hủy.
+
+Ngoài ra, hệ thống sẽ gửi thông tin cho cơ quan chức năng để thực hiện thủ tục thu hồi xe và gửi dữ liệu đến hệ thống thuế điện tử để làm căn cứ thu lệ phí trước bạ.
+
+Ở bước cuối cùng, người mua thực hiện nghĩa vụ nộp lệ phí trước bạ, kê khai thông tin và làm thủ tục sang tên xe. Các dữ liệu đã có từ các bước trước sẽ được tái sử dụng, không cần khai lại. Kết quả được gửi đến Cổng dịch vụ công để thông báo hoàn tất sang tên cho người mua.
+
+Đại diện Phòng Cảnh sát giao thông (Công an TP.HCM) cho biết, việc triển khai hướng đến việc đơn giản hóa thủ tục hành chính, cắt giảm chi phí và thời gian cho người dân, đặc biệt là không còn phải lập hợp đồng chuyển nhượng phương tiện có công chứng như trước đây. Giao dịch sẽ được thực hiện hoàn toàn trực tuyến thông qua tài khoản định danh điện tử VNeID mức độ 2.
+
+Hệ thống cũng ghi nhận tình trạng hôn nhân của chủ thể. Nếu chủ xe đã kết hôn, cần xác nhận giao dịch bằng VNeID của cả hai vợ chồng, theo quy định tại khoản 2 Điều 25 Luật Hôn nhân và gia đình năm 2014. Công dân cần chủ động cập nhật tình trạng hôn nhân đầy đủ trên Cơ sở dữ liệu quốc gia về dân cư và đảm bảo dữ liệu cá nhân “đúng, đủ, sạch, sống”.
+
+Phòng Cảnh sát Giao thông khuyến khích, người dân trên địa bàn tích cực tiếp cận phương thức giao dịch mới này để tiết kiệm thời gian, chi phí và hạn chế các thủ tục rườm rà trong quá trình sang tên phương tiện.

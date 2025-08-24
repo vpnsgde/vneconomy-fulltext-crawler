@@ -1,0 +1,35 @@
+Trong thời đại công nghệ số, khi quản lý năng lượng và thông tin đóng vai trò then chốt đối với sự phát triển và thành công của các doanh nghiệp, Trung tâm dữ liệu trở thành một phần tất yếu trong mọi loại hình kinh doanh.
+
+Theo khảo sát và nghiên cứu của JLL (Tập đoàn hàng đầu chuyên cung cấp các dịch vụ quản lý và đầu tư bất động sản chuyên nghiệp), Việt Nam được nhận định là một trong những thị trường sẽ có sự tăng trưởng mạnh mẽ trong phân khúc Trung tâm dữ liệu cùng với tốc độ chung của Thế giới.
+
+Gia tăng nhu cầu của trung tâm dữ liệu: Thách thức và cơ hội
+
+Trung tâm dữ liệu là nơi tập trung các hệ thống tính toán IT chính phục vụ cho hoạt động của tổ chức. Trung tâm dữ liệu thường bao gồm các hệ thống IT như: máy chủ, mạng truyền dẫn, lưu trữ dữ liệu, hệ thống hạ tầng cơ điện lạnh thiết yếu bao gồm UPS cung cấp nguồn điện an toàn, kiểm soát môi trường như điều hòa chính xác, phòng cháy chữa cháy, an ninh… phục vụ cho hoạt động liên tục, an toàn của hệ thống IT doanh nghiệp.
+
+Trong thời đại cách mạng 4.0 phủ sóng khắp mọi quốc gia, len lỏi vào từng ngành nghề, dữ liệu trở thành chìa khóa "vạn năng" của bất kể doanh nghiệp nào. Theo báo cáo tổng quan về thị trường, ngành công nghiệp Trung tâm dữ liệu phát triển theo tốc độ tăng trưởng dân số. Trên toàn cầu, tốc độ tăng trưởng đạt mức 15,7%, doanh thu dự kiến là 60 tỷ USD năm 2020, riêng ở khu vực Châu Á Thái Bình Dương, tốc độ tăng trưởng lên đến 40% trong vòng hai năm tới.
+
+Đối với các doanh nghiệp lớn, trung tâm dữ liệu đòi hỏi mức độ phức tạp cao và chuyên biệt nên thường được đầu tư xây dựng. Ngược lại, các doanh nghiệp vừa và nhỏ có xu hướng thuê trung tâm dữ liệu từ đơn vị cung cấp thứ ba.
+
+Sự gia tăng nhu cầu của dữ liệu và các trung tâm dữ liệu là tín hiệu tích cực để gia tăng sức cạnh tranh, nhưng thách thức đặt ra là chi phí đầu tư của các thiết bị thường lớn và nguồn năng lượng cũng như phát thải năng lượng cao.
+
+Do đó, các doanh nghiệp luôn tìm kiếm các giải pháp cho trung tâm dữ liệu của mình với tính ổn định và hiệu năng cao, thông qua các thiết bị sử dụng và phần mềm giám sát.
+
+Schneider Electric IT - đối tác toàn cầu đáp ứng nhu cầu địa phương
+
+"Những năm gần đây Trung tâm dữ liệu trở thành chìa khóa then chốt trong sự phát triển của các doanh nghiệp Việt Nam, và Schneider Electric IT sẽ tập trung để phát triển mũi nhọn này trong giai đoạn tiếp theo", ông Morgan Yvon Charles Duarte - tân Giám đốc Schneider Electric IT Việt Nam kiêm Phó tổng giám đốc Schneider Electric Việt Nam, chia sẻ về nhận định thị trường và định hướng của công ty trong thời gian tới.
+
+Chính thức đảm nhận vị trí mới từ 1/12/2018 với kinh nghiệm hơn mười năm làm việc tại Schneider Electric với nhiều vai trò như phân tích dữ liệu, marketing, phát triển kênh phân phối và định hướng phát triển kinh doanh ở Pháp, Thái Lan, Đài Loan…, ông Morgan được kỳ vọng sẽ giúp nâng cao hơn nữa vị thế của Schneider Electric và mang đến các giải pháp sáng tạo, hiệu quả cho khách hàng.
+
+Ông Morgan chia sẻ: "Schneider Electric IT là một phần quan trọng trong tập đoàn Schneider Electric. Là người định hướng của công ty, tôi luôn theo sát định hướng chung của tập đoàn trong việc phát triển và cung cấp các giải pháp số cho quản lý năng lượng và tự động hóa, thông qua việc áp dụng EcoStruxure - kiến trúc mở được xây dựng trên nền tảng IoT. Bên cạnh đó, đặc thù về IT sẽ mở ra cho chúng tôi nhiều cơ hội chinh phục những phân khúc mới tiềm năng, một trong số đó là Trung tâm dữ liệu."
+
+EcoStruxure for Data Center là giải pháp dành riêng cho các trung tâm dữ liệu, tận dụng các sản phẩm mới của tập đoàn như pin lithium, Easy UPS, Connected Smart UPS… để gia tăng độ tin cậy, an toàn cũng như hiệu năng vận hành hệ thống. "Điều này vẫn đảm bảo sự cải tiến của chúng tôi phù hợp với ngân sách của khách hàng nhờ vào một chu trình sản xuất có quy mô toàn cầu", ông Morgan khẳng định.
+
+Công ty Cổ phần Công nghệ Truyền thông DTS - một trong số những doanh nghiệp nổi bật trong lĩnh vực cho thuê Trung tâm dữ liệu - đã ứng dụng thành công giải pháp này của Schneider Electric IT.
+
+Trong chia sẻ về định hướng tiếp theo của công ty trong phân khúc Trung tâm dữ liệu, vị tân Giám đốc tiết lộ về giải pháp chuyên biệt dành cho các nhà quản lý công nghệ thông tin - những người trực tiếp giám sát và vận hành các Trung tâm dữ liệu: EcoStruxure IT Expert.
+
+Đây là một giải pháp giám sát dựa trên công nghệ đám mây và có khả năng hoạt động trên nguồn mở với khả năng kết nối đến kho dữ liệu khổng lồ và được vận hành bởi trí tuệ nhân tạo (AI) cùng với công nghệ máy học (Machine learning). Giải pháp này mang đến sự khác biệt khi cung cấp những phân tích, góc nhìn chuyên sâu, so sánh dữ liệu và thậm chí có thể dự đoán được những hỏng hóc tiềm năng, tạo điều kiện hỗ trợ doanh nghiệp hoạt động tối ưu nhất.
+
+"Hiện tại chúng tôi tập trung vào các lĩnh vực đang bùng nổ nhu cầu như điện toán đám mây, tài chính và sản xuất, song song với việc thâm nhập các thị trường còn nhiều tiềm năng như y tế, công trình thương mại, giáo dục… Chúng tôi duy trì mạng lưới chặt chẽ kết nối các chuyên gia tích hợp hệ thống hàng đầu, các đối tác và các nhà thầu để cung cấp các giải pháp, công nghệ tiên tiến cho khách hàng", ông Morgan chia sẻ.
+
+Schneider Electric IT Việt Nam, dưới sự dẫn dắt của ông Morgan, sẽ tiếp tục là công ty dẫn đầu trong lĩnh vực cung cấp các giải pháp kiến trúc hạ tầng Trung tâm dữ liệu, từ đó giúp doanh nghiệp quản lý năng lượng hiệu quả, số hóa thành công và phát triển bền vững. Đây chính là lựa chọn đầu tư thông minh ở hiện tại để mang đến hiệu quả lâu dài cho tương lai mà các doanh nghiệp Việt nên chú trọng.

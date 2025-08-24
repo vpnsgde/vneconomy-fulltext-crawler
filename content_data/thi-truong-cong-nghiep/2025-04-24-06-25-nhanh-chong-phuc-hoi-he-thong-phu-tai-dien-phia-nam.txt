@@ -1,0 +1,15 @@
+Vào lúc 14h16 ngày 23/4/2025, hệ thống điện khu vực miền Nam ghi nhận sự cố nghiêm trọng liên quan đến các đường dây 500kV kết nối với Trung tâm nhiệt điện Vĩnh Tân, Vân Phong và các nhà máy năng lượng tái tạo.
+
+Sự cố đã gây mất điện đồng loạt tại các trạm 500kV Vĩnh Tân, Thuận Nam và Vân Phong, ảnh hưởng trực tiếp tới hoạt động của nhiều tổ máy nhiệt điện than, đồng thời khiến các nguồn năng lượng tái tạo bị sụt giảm công suất tức thì.
+
+Theo thông tin từ Công ty Vận hành hệ thống điện và Thị trường điện Quốc gia (NSMO), ngay lập tức, các chức năng bảo vệ hệ thống điện đã tự động kích hoạt. Cụ thể, tính năng bảo vệ tần số thấp đã tự động vận hành theo các kịch bản định sẵn nhằm giữ ổn định tần số lưới điện và hạn chế rủi ro lan truyền. Nhiều phụ tải đã được sa thải có kiểm soát để bảo toàn cân bằng hệ thống.
+
+Do đó, chỉ sau khoảng 15 phút kể từ thời điểm xảy ra sự cố, toàn bộ hệ thống điện cơ bản đã được khôi phục về trạng thái vận hành bình thường. Nguồn điện được cấp trở lại ổn định cho các phụ tải của hệ thống điện Quốc gia.
+
+Sau khi xử lý nhanh tình huống, NSMO cho biết đã chỉ đạo các đơn vị truyền tải và các nhà máy điện triển khai đồng loạt các biện pháp khôi phục. Các đường dây được đóng điện trở lại, cấp nguồn tự dùng cho các tổ máy, hỗ trợ tái khởi động các nhà máy nhiệt điện than, đồng thời kích hoạt lại các nguồn năng lượng tái tạo.
+
+Tính đến 16h30 cùng ngày, toàn bộ các trạm biến áp liên quan đã được đóng điện, hệ thống được điều chỉnh phù hợp với nhu cầu phụ tải tăng trong giờ cao điểm buổi chiều. Lưới điện quốc gia trở lại trạng thái ổn định, bảo đảm vận hành an toàn, liên tục và tin cậy.
+
+Trong thông báo tới truyền thông, đại diện NSMO khẳng định đơn vị sẽ tiếp tục giám sát chặt chẽ hệ thống điện quốc gia, phối hợp đồng bộ với các Trung tâm điều độ và các Tổng Công ty điện lực để chủ động ứng phó với mọi tình huống phát sinh.
+
+Đồng thời, NSMO cũng gửi lời xin lỗi và mong nhận được sự thông cảm, chia sẻ từ phía khách hàng về sự cố ngoài ý muốn gây gián đoạn cung cấp điện tạm thời.

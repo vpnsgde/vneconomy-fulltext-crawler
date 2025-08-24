@@ -1,0 +1,23 @@
+Cụ thể, theo báo cáo của Bộ Thông tin và Truyền thông, tính đến hết ngày 15/11/2022, số tên miền “.vn” lũy kế đạt 567.000 tên miền, tăng 104,56% so với cùng kỳ năm 2021, đạt 99% so với kế hoạch năm 2022. Thống kê ghi nhận 633.922 tên miền quốc tế đã được đăng ký và sử dụng tại Việt Nam theo danh sách tên miền quốc tế từ 52 nhà đăng ký tên miền quốc tế tại Việt Nam báo cáo.
+
+Bộ Thông tin và Truyền thông đã thực hiện rà soát toàn bộ hơn một triệu tên miền (tên miền “.vn” và tên miền quốc tế do chủ thể Việt Nam đăng ký và phát hiện ra 1.010 tên miền (271 tên miền “.vn” và 739 tên miền quốc tế) trùng tên ngân hàng, trang thương mại điện tử, tín dụng, cho vay trực tuyến của cá nhân - là đối tượng không được cấp phép.
+
+Báo cáo cũng cho biết, Bộ đã phối hợp cung cấp thông tin 1.057 tên miền cho các cơ quan Nhà nước phục vụ xử lý vi phạm: 132 tên miền “.vn” và 925 tên miền quốc tế (trong đó 59 tên miền quốc tế có thông tin, 866 tên miền quốc tế đăng ký qua tổ chức nước ngoài - không có thông tin); thực hiện tạm ngừng 124 tên miền (trong đó 93 tên miền “.vn”, 31 tên miền quốc tế), thu hồi 04 tên miền (trong đó 03 tên miền “.vn” và 01 tên miền quốc tế), giữ nguyên hiện trạng 17 tên miền “.vn”.
+
+Đồng thời chỉ đạo xây dựng chính sách giảm phí, lệ phí, miễn phí đăng ký đối với giới trẻ và doanh nghiệp mới thành lập, hộ kinh doanh nhằm thúc đẩy các hoạt động kinh tế, xã hội thông qua việc sử dụng tên miền “.vn” trong các hoạt động chuyển đổi số cá nhân, doanh nghiệp, cơ quan tổ chức bằng tên miền “.vn” gắn với các sản phẩm dịch vụ số Make in Viet Nam.
+
+Bộ Thông tin và Truyền thông cũng xây dựng hệ thống công cụ tự động, xác định các tên miền liên quan đến ngân hàng, thương mại điện tử có dấu hiệu vi phạm về hoạt động ngân hàng, tín dụng, cho vay trực tuyến; trao đổi, làm việc và chuyển danh sách tên miền tới các cơ quan có thẩm quyền về lĩnh vực ngân hàng, thương mại (Ngân hàng Nhà nước, Bộ Công Thương) để xem xét, xử lý vi phạm.
+
+Để góp phần đảm bảo an toàn hoạt động mạng, dịch vụ Việt Nam, đơn vị phụ trách là Trung tâm Internet Viet Nam (VNNIC), thuộc Bộ Thông tin và Truyền thông, đã hoàn thành rà soát các tên miền “.vn” đang lưu trữ website hoặc sử dụng dịch vụ hosting DNS, mail tại nước ngoài. Xác định nhóm các tổ chức, doanh nghiệp có quy định phải lưu trữ trong nước hoặc cung cấp dịch vụ quan trọng cần yêu cầu, khuyến nghị chuyển hosting về trong nước nhằm đảm bảo an ninh, an toàn cho hoạt động thông tin.
+
+
+
+Cũng theo báo cáo của Bộ Thông tin và Truyền thông, doanh thu dịch vụ viễn thông năm 2022 ước đạt 138.000 tỷ đồng, tăng 1,6% so với năm 2021 và vượt 3,75% so với kế hoạch năm 2022 (133.000 tỷ đồng). Nộp ngân sách lĩnh vực viễn thông năm 2022 ước đạt 48.000 tỷ đồng, tăng 9,8% so với năm 2021và đạt kế hoạch đề ra của năm 2022.
+
+Tỷ lệ hộ gia đình sử dụng cáp quang tính đến tháng 12/2022 ước đạt 74,5%, xấp xỉ đạt mục tiêu kế hoạch đề ra năm 2022 là 75%, tăng 11% so với cùng kỳ năm 2021. Số thuê bao băng rộng cố định /100 dân đến tháng 12/2022 ước đạt 21,5 thuê bao/100 dân tăng 9,7% so với cùng kỳ năm 2021, gần đạt mục tiêu kế hoạch năm 2022 là 22 thuê bao/100 dân.
+
+Số thuê bao băng rộng di động /100 dân đến tháng 12/2022 ước đạt 84 thuê bao/100 dân tăng 12,6% so với cùng kỳ năm 2021, gần đạt mục tiêu kế hoạch năm 2022 là 85 thuê bao/100 dân.
+
+Tỷ lệ sử dụng IPv6 trên Internet Việt Nam: 53% (vượt 1% so với chỉ tiêu năm 2022); Việt Nam thuộc top 10 quốc gia có tỷ lệ ứng dụng triển khai IPv6 cao nhất toàn cầu. Việt Nam đang đi cùng nhịp với các quốc gia tiêu biểu trên thế giới trong chuyển đổi IPv6. Ban hành kế hoạch chuyển đổi IPv6: 63/63 tỉnh, thành phố đã ban hành kế hoạch (đạt 100% chỉ tiêu 2022); 16/22 bộ, ngành ban hành kế hoạch chuyển đổi IPv6 (đạt 100% chỉ tiêu năm 2022).
+
+Cấp phép tần số cho hơn 23.000 thiết bị; cấp giấy phép băng tần 2600 MHz để thử nghiệm 5G bổ sung cho MobiFone. Sửa đổi, bổ sung giấy phép băng tần thử nghiệm 5G cho Viettel trên băng tần 2600 MHz và 3600 MHz và thử nghiệm 4G trên băng tần 700 MHz/2300 MHz. Sửa đổi, bổ sung giấy phép băng tần để thử nghiệm 5G cho VNPT trên băng tần 2600 MHz.

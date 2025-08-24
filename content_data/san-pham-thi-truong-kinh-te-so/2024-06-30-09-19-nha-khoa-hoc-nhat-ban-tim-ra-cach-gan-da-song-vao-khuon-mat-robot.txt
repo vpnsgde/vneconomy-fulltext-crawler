@@ -1,0 +1,13 @@
+Trong một nghiên cứu được công bố mới đây trên tạp chí Cell Reports Physical Science, các nhà khoa học tại Đại học Tokyo đã mô tả cách gắn tế bào da sống vào mặt robot. Bước đột phá này có thể cho phép robot mỉm cười chân thực hơn và bắt chước những biểu cảm khác của con người. Nhóm nghiên cứu dẫn đầu bởi Giáo sư Shoji Takeuchi từ Viện Khoa học Công nghiệp Nhật Bản.
+
+Giáo sư Shoji Takeuchi cũng đã phát triển một loại da robot sống sử dụng collagen, một loại protein có trong da người và nguyên bào sợi ở da người, đây là loại tế bào chính trong mô liên kết, cho phép ngón tay robot có thể uốn cong mà không bị gãy. Nhóm nghiên cứu chế tạo mô da trong môi trường nuôi cấy gel collagen bảy ngày.
+
+So với các phương pháp trước đây, các nhà nghiên cứu cho biết phương pháp mới cho phép robot tự chữa lành da, nghĩa là về mặt lý thuyết, robot trong tương lai sẽ tự sửa chữa mô da giống như con người. Tuy nhiên, công nghệ này vẫn còn một chặng đường dài trước khi được tung ra thị trường.
+
+Trước đây, nhiều thí nghiệm không thể thành công do bề mặt nhẵn nên kim loại và da không bám chặt vào nhau, vì vậy các nhà khoa học đã thu nhỏ lớp phủ giống như da xung quanh các bộ phận của robot để vừa khít, và kết quả da bị rách. Các thí nghiệm khác đã sử dụng các neo nhô ra để giữ "lớp da" cố định, nhưng chúng không có tác dụng đối với các bề mặt lõm và nhô ra một cách khó coi.
+
+Để giải quyết những vấn đề này, các nhà nghiên cứu ở Tokyo đã xem da người như một mô hình, bao gồm cả cách da gắn với cơ thông qua mỡ và dây chằng. Những dây chằng này bao gồm collagen và đàn hồi, giúp lớp da phía trên chúng có tính linh hoạt và khả năng phục hồi.
+
+Theo đó, các nhà nghiên cứu tạo các lỗ hình chữ V trên bề mặt của robot, sau đó, bôi một loại gel làm từ collagen và đặt lớp da nhân tạo lên trên. Gel bám vào da trong khi tự bám vào robot thông qua các lỗ mà nó đã lấp đầy, tạo ra các dây chằng giả giữ da với mặt robot. Những điểm neo này cũng cho phép khuôn mặt robot thực hiện một số biểu cảm nhất định, bao gồm cả nụ cười. Trong một thí nghiệm, các nhà nghiên cứu đã ra lệnh cho một tấm cơ khí bằng da thịt tạo ra nụ cười. Kết quả thu được là chúng có một nụ cười khá kỳ lạ.
+
+Đây không phải là thí nghiệm đầu tiên bọc da cho robot. Các nhà nghiên cứu tại Đại học Texas ở Austin đã thiết kế một lớp da điện tử co giãn mang lại cho robot cảm giác mềm mại và nhạy cảm khi chạm vào. Khi được gắn lớp da điện tử, robot có thể cảm nhận được áp lực, cho phép chúng giữ những vật dễ vỡ (như vỏ bánh taco giòn) mà không cần bóp quá mạnh.

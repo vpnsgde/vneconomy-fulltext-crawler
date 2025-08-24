@@ -1,0 +1,15 @@
+Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao Bộ Công an vừa có văn bản Thông báo về việc hướng dẫn các biện pháp tăng cường bảo đảm an ninh mạng cho hệ thống thông tin quan trọng về an ninh quốc gia gửi các ban, bộ, ngành, Tỉnh ủy, Ủy ban nhân dân các tỉnh, thành phố và các tập đoàn, tổng công ty Nhà nước…
+
+Thông báo cho biết thời gian qua, tình hình an ninh mạng tại Việt Nam diễn biến hết sức phức tạp, hoạt động tấn công mạng nhằm vào các hệ thống thông tin trọng yếu của các cơ quan bộ, ngành, tổ chức, doanh nghiệp tại Việt Nam tiếp tục gia tăng về tần suất và mức độ nguy hiểm. Đáng chú ý, hình thức tấn công mạng bằng mã độc mã hóa dữ liệu đòi tiền chuộc (ransomware) đang ngày càng phổ biến và gây thiệt hại lớn về kinh tế và uy tín của cơ quan, tổ chức, doanh nghiệp; ảnh hưởng đến an ninh quốc gia, trật tự an toàn xã hội.
+
+Trong khi đó, các cơ quan bộ, ban, ngành, tổ chức, doanh nghiệp chưa triển khai đầy đủ các biện pháp bảo vệ an ninh mạng cho các hệ thống thông tin theo quy định, gây khó khăn cho công tác điều tra, đấu tranh phòng, chống tội phạm của lực lượng công an.
+
+Từ tình hình trên, để tăng cường công tác bảo đảm an ninh mạng, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao ban hành tài liệu “Hướng dẫn các biện pháp tăng cường bảo đảm an ninh mạng cho hệ thống thông tin quan trọng về an ninh quốc gia” và đề nghị các cơ quan, đơn vị:
+
+Tham chiếu tài liệu “Hướng dẫn các biện pháp tăng cường bảo đảm an ninh mạng cho hệ thống thông tin quan trọng về an ninh quốc gia” để làm cơ sở đánh giá tổng thể, nghiên cứu cập nhật, bổ sung chính sách quản lý, quy trình quản trị, vận hành, các giải pháp bảo đảm an ninh mạng cho các hệ thống thông tin trọng yếu.
+
+Khẩn trương, ưu tiên tổ chức kiểm tra an ninh mạng; rà soát, gỡ bỏ mã độc trên máy tính (nếu có); sao lưu dự phòng dữ liệu quan trọng; tăng cường giám sát an ninh mạng để kịp thời phát hiện hoạt động tấn công mạng. Đồng thời, rà soát việc tuân thủ của bộ phận kỹ thuật, cán bộ, công nhân, viên chức đối với chính sách quản lý, quy chế bảo đảm an ninh mạng, quy trình quản trị, vận hành, ứng cứu sự cố, kiểm soát truy cập tài khoản quản trị đối với các hệ thống thông tin trọng yếu.
+
+Trao đổi kết quả kiểm tra, đánh giá tổng thể về an ninh mạng; kịp thời báo cáo về sự cố an ninh mạng nếu xảy ra trong quá trình vận hành về Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao để phối hợp triển khai các biện pháp bảo vệ an ninh mạng, hỗ trợ ứng cứu, xử lý, khắc phục sự cố.
+
+Quá trình triển khai, thực hiện, nếu gặp khó khăn, vướng mắc, đề nghị các cơ quan, đơn vị liên hệ với: Trung tâm An ninh mạng quốc gia – Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao; hotline: 0593.505.999; thư điện tử: contact@nca.gov.vn để được hỗ trợ, giải quyết.

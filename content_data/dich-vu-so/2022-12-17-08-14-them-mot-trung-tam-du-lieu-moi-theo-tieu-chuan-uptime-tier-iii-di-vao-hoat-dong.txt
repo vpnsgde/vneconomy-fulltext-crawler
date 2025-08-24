@@ -1,0 +1,15 @@
+Trung tâm dữ liệu mới của VNG (VNG Data Center) tọa lạc khu chế xuất Tân Thuận TP.HCM có diện tích sàn sử dụng lên đến 12.400 m2 và theo tiêu chuẩn Uptime Tier III. Chứng chỉ Uptime Tier III cấp quốc tế nhằm đánh giá và phân loại hiệu suất hoạt động của trung tâm dữ liệu trong hạ tầng cơ điện, bao gồm trung tâm dữ liệu cả về thiết kế (TCDD) và thiết bị lắp đặt (TCCF).
+
+Ngoài ra, để đạt được chứng chỉ này, trung tâm dữ liệu phải đáp ứng về mặt thiết kế và triển khai để đảm bảo tuân thủ 100% về điện năng và công suất làm mát cũng như không bị gián đoạn hoặc giảm công suất thiết kế trong thời gian bảo trì hệ thống. Hiện nay, chỉ có ba trung tâm dữ liệu tại Việt Nam đạt Uptime Tier III cho cả hai tiêu chuẩn TCDD và TCCF.
+
+Bên cạnh đó, VNG Data Center cũng tuân thủ các yêu cầu khắt khe của TIA 942 liên quan đến cung cấp và vận hành hạ tầng trung tâm dữ liệu an toàn, bảo mật thông tin, giảm thiểu các rủi ro và đảm bảo độ tin cậy dài hạn.
+
+Chia sẻ tại buổi khánh thành VNG Data Center chiều 16/12, ông Gary McKinnon, Giám đốc cấp cao tại VNG cho biết, việc tiếp tục đầu tư cung cấp cơ sở hạ tầng trung tâm dữ liệu cho thấy cam kết của VNG trong việc phát triển năng lực dịch vụ kỹ thuật số và giải pháp cho lĩnh vực công nghệ thông tin. Những cam kết và thực thi các tiêu chuẩn về bảo mật và độ ổn định đều phải được duy trì và không bị ảnh hưởng bởi sự mở rộng trong tương lai.
+
+Đặc biệt, VNG Data Center đạt tiêu chuẩn bảo mật cao nhất nhờ vào trung tâm vận hành bảo mật. Hệ thống tùy chỉnh DCIM được sử dụng để vận hành và giám sát tự động để hạn chế các sai sót từ con người, nhanh chóng phát hiện và sửa lỗi kỹ thuật. Hạ tầng này cũng đạt chuẩn TCVN 9250 – tiêu chuẩn do Bộ Thông tin và truyền thông Việt Nam xây dựng cho hoạt động của các trung tâm dữ liệu theo tiêu chuẩn PCI-DSS (Payment Card Industry Data Seurity).
+
+Trung tâm dữ liệu mới và đạt chuẩn quốc tế của VNG -VNG Data Center có quy mô 7.800 m2 và diện tích sàn sử dụng lên đến 12.400 m2. VNG Data Center đáp ứng cơ sở hạ tầng có tính sẵn sàng cho tất cả các nền tảng dịch vụ kỹ thuật số, lưu trữ dữ liệu an toàn và các giải pháp điện toán đám mây đặc thù và các dịch vụ điện toán đám mây tại Việt Nam.
+
+“Trong bối cảnh các doanh nghiệp đang tìm cách thích ứng và đổi mới trên nền tảng dữ liệu, việc lưu trữ dữ liệu an toàn, có khả năng mở rộng là điều cần thiết. VNG Data Center sẽ phát triển dựa trên các dịch vụ hiện hữu, đồng thời đáp ứng các nhu cầu mới của khách hàng trong và ngoài nước về lưu trữ dữ liệu thông suốt, bảo mật”, ông Gary McKinnon chia sẻ.
+
+Được biết, trong giai đoạn đầu, VNG Data Center sẽ cung cấp 410 tủ rack (tủ lắp đặt servers) và sau đó sẽ mở rộng lên đến 1.600 tủ rack để đáp ứng kịp thời sự tăng trưởng trong quá trình chuyển đổi số tại Việt Nam, tận dụng các giải pháp dữ liệu để thúc đẩy hoạt động kinh doanh của các doanh nghiệp nội địa và quốc tế, trong khối tư nhân lẫn khối hành chính - doanh nghiệp công.

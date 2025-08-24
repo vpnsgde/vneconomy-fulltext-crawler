@@ -1,0 +1,41 @@
+Công nghệ giúp hoạt động ngành tài chính ngày càng phát triển mạnh mẽ, mang lại nhiều tiện ích cho khách hàng. Thế nhưng đằng sau sự mở rộng đó là những đòi hỏi khắt khe về sự an toàn và bảo mật. Public Cloud không chỉ là một chìa khóa giải pháp quan trọng mà còn là cơ hội.
+
+Ngành tài chính hay rộng hơn nữa là FSI (Finance - Securities - Insurance) là ngành yêu cầu rất cao về vấn đề bảo mật và an toàn dữ liệu cũng như tính ổn định của hệ thống. Dữ liệu của các doanh nghiệp trong ngành FSI là tối quan trọng vì đây là những thông tin cá nhân của khách hàng, thông tin giao dịch, dữ liệu tài chính…
+
+Ở các nước phát triển, việc bị mất hay bị lộ dữ liệu người dùng ở ngành này thường sẽ đánh mức phạt, đền bù rất lớn. Có những quốc gia, mức phạt có thể yêu cầu phạt lên đến hàng triệu đô. Không những thế ảnh hưởng tới uy tín của thương hiệu mới là điều mất mát lớn nhất.
+
+Với sự phát triển của ngành tài chính, đặc biệt khi IoT làm thay đổi hành vi của người tiêu dùng với hình thái thanh toán không tiền mặt, các Fintech xuất hiện nhanh chóng đồng hành cùng ngân hàng truyền thống. Fintech xuất hiện, lập tức được thị trường chấp nhận bằng việc kinh doanh các dịch vụ liên quan tới tài chính nhờ sử dụng công nghệ.
+
+Người dùng chỉ cần một thiết bị di động thông minh để tiến hành vay vài chục triệu đồng bằng cách cung cấp 1 số thông tin cá nhân thông qua ứng dụng Fintech. Hệ thống công nghệ thông tin của các đơn vị Fintech giúp đơn giản hóa quá trình giao dịch, không đòi hỏi thủ tục phức tạp, thao tác hoàn toàn trực tuyến với thời gian giao dịch rút ngắn và mọi lúc, mọi nơi. Nhưng phía sau của mọi sự tiện lợi, hệ thống phải đặt trong trạng thái ổn định và bảo mật cao nhất.
+
+Server vật lý truyền thống đang dần bị thay thế
+
+Các đơn vị tài chính - ngân hàng Việt Nam rất nhanh nhẹn. Trong thời gian ngắn họ đã có những bước thay đổi nhanh chóng khi đầu tư vào các ứng dụng online banking hay hợp tác với các đơn vị fintech để phát triển ngân hàng số giúp giảm chi phí, thêm dịch vụ, tăng trải nghiệm khách hàng và mở rộng doanh thu.
+
+Sự nở nhanh chóng giao dịch và khách hàng khiến việc đầu tư Server vật lý truyền thống đã dần dần bị loại bỏ khỏi tiềm thức của giới công nghệ. Server vật lý không còn đáp ứng được những tiêu chuẩn gắt gao về bảo mật - an toàn dữ liệu nữa. Đặc biệt, server vật lý không thể đáp ứng khả năng ổn định lên tới 99,9% chứ chưa nói đến 99,99%.
+
+Các doanh nghiệp giờ đây đã chuyển dần sang sử dụng Public Cloud - thuê hạ tầng điện toán đám mây của các nhà cung cấp dịch vụ uy tín. Thay vì phải đầu tư vào phần cứng, phần mềm đắt tiền thì thuê dịch vụ công nghệ thông tin bên ngoài, ngân hàng số sẽ cần ít nhân viên hơn, cắt giảm chi phí đầu tư, vận hành lên đến 40% so với mô hình truyền thống.
+
+Về mặt quản trị dữ liệu, thông tin trên Public Cloud được bảo vệ an toàn do được sao lưu rất nhiều lần. Hơn nữa, các nhà cung cấp dịch vụ Cloud lớn thường có đội ngũ chuyên gia giàu kinh nghiệm về bảo mật sẽ đảm bảo hệ thống máy chủ an toàn hơn, cách ly với những đối tượng xấu.
+
+Doanh nghiệp FSI có thể triển khai dịch vụ 24/7 cùng những giải pháp tốt nhất mà không mất nhiều thời gian cũng như chi phí. Theo đó, tốc độ đẩy sản phẩm ra thị trường để nhanh chóng gom khách hàng, chiếm thị phần và đáp ứng được yêu cầu quản trị.
+
+Hiện nay, công nghệ điện toán đám mây đã có thể đảm bảo mức độ ổn định lên tới 99.99%. Một số nhà cung cấp dịch vụ cloud lớn trên thế giới như AWS, Google, Microsoft còn cam kết tỷ lệ ổn định lên tới 99,999%.
+
+Lựa chọn CMC Cloud
+
+Theo đuổi mô hình hệ sinh thái mở, CMC Telecom hiện là đơn vị duy nhất tại Việt Nam kết nối trực tiếp với Cloud của Google, AWS (Amazon Web Services) và Microsoft. Theo đó, khách hàng CMC Telecom tại Việt Nam có thể lựa chọn, trải nghiệm trực tiếp dịch vụ của các nhà cung cấp Cloud hàng đầu thế giới với tốc độ cao nhất thông qua các dịch vụ Google Cloud Interconnect, Microsoft Express Route, và AWS Direct Connect.
+
+Để được các gã khổng lồ Cloud trên thế giới nói trên lựa chọn đồng hành, CMC phải có một hạ tầng viễn thông, Data Center và chuyên gia tiêu chuẩn quốc tế. Data Center trung lập của CMC Telecom là DC đầu tiên tại Việt Nam áp dụng các tiêu chuẩn an ninh PCI DSS.
+
+PCI DSS là tiêu chuẩn bắt buộc để giúp tổ chức phát hành thẻ bảo vệ dữ liệu của họ, chống truy cập trái phép và sẽ giúp các doanh nghiệp hạn chế rủi ro cũng như nguy cơ trộm cắp thông tin, đặc biệt là  tăng cường công tác bảo vệ dữ liệu lưu trữ trên thẻ. Năm 2019, Data Center của CMC Telecom được đề cử 1 trong 4 DC hàng đầu Châu Á tại giải thưởng danh giá TelecomAsia Awards 2019.
+
+Hiện tại, hơn 3.000 doanh nghiệp lớn tại Việt Nam đang sử dụng dịch vụ điện toán đám mây của CMC Telecom với hiệu năng xử lý dữ liệu cao và ổn định. CMC Cloud cung cấp dòng Chip Gold 6130 với tốc độ xử lý 2.2Ghz; cung cấp 100% ổ cứng SSD tốc độ đọc ghi lên tới 500MB/s và IOPS tối thiểu 15.000. Hơn nữa tốc độ internet của mỗi một máy chủ ảo lên tới 500Mbps đảm bảo mọi giao dịch luôn được kết nối với tốc độ cao nhất.
+
+CMC Cloud cung cấp dịch vụ cho phép khách hàng tùy chọn vị trí ở Hà Nội hoặc Hồ Chí Minh do đó các doanh nghiệp dễ dàng cung cấp cho người dùng trên toàn quốc và quản lý mọi tài nguyên Cloud Server trên 1 trang quản trị duy nhất. Đặc biệt, dịch vụ CMC Cloud cung cấp nhiều các gói cấu hình cao và thay đổi theo từng loại hình kinh doanh đáp ứng mọi nhu cầu khắt khe của khối khách hàng FSI.
+
+* Thông tin chi tiết:
+
+CMC Cloud: cloud.cmctelecom.vn
+
+Hotline: 1900 2010.

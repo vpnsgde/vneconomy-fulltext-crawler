@@ -1,0 +1,45 @@
+Bộ Thông tin và Truyền thông đang xây dựng, lấy ý kiến về dự thảo Thông tư quy định Quy chuẩn kỹ thuật quốc gia về mức hấp thụ riêng đối với thiết bị vô tuyến cầm tay và đeo trên cơ thể người.
+
+Theo Cục Tần số vô tuyến điện, mức hấp thụ riêng (SAR) là chỉ số dùng để đo mức độ hấp thụ năng lượng sóng vô tuyến điện vào cơ thể con người (đơn vị là W/kg).
+
+Tổ chức Y tế thế giới (WHO) đã chỉ ra rằng khi con người sử dụng điện thoại di động, các mô trên cơ thể sẽ chịu hiệu ứng tăng nhiệt do ảnh hưởng từ năng lượng sóng vô tuyến điện từ điện thoại di động; trường hợp tiếp xúc liên tục trong thời gian dài có thể ảnh hưởng xấu cho sức khỏe con người.
+
+Còn theo báo cáo của Liên minh Viễn thông quốc tế (ITU), SAR liên quan đến hiện tượng tăng nhiệt trên cơ thể con người do tiếp xúc gần với năng lượng sóng vô tuyến điện từ các thiết bị cầm tay, điển hình là điện thoại di động.
+
+Do SAR có thể ảnh hưởng đến sức khỏe con người nên nhiều tổ chức quốc tế đã quan tâm nghiên cứu để đưa ra các tiêu chuẩn nhằm hạn chế ảnh hưởng của SAR đến sức khỏe con người.
+
+Cục Tần số vô tuyến điện cho biết, qua nghiên cứu, khảo sát thông tin của 52 nước trên thế giới thuộc các  khu vực châu Âu, châu Mỹ, khu vực ASEAN/châu Á, châu Úc, châu Phi cho thấy có 43 nước khảo sát  bắt buộc quản lý SAR; trong đó, khu vực ASEAN có 9/10 nước đã bắt buộc quản lý SAR.
+
+Về đồi tượng quản lý SAR, thông thường là các thiết bị vô tuyến điện sử dụng gần với cơ thể con người, nhất là ở khoảng cách dưới 200 mm. Nhìn chung các nước đều quản lý điện thoại di động, một số nước áp dụng quản lý thêm với các thiết bị như: Bộ đàm, máy tính bảng, máy tính xách tay, bộ phát WIFI di động, đồng hồ thông minh,...
+
+Các quốc gia châu Âu, Nhật Bản, Úc, Mỹ, Canada, Indonesia...có quy định miễn trừ đo SAR đối với thiết bị vô tuyến điện có công suất phát thấp (mức công suất để được miễn trừ thông thường dưới 20 mW).
+
+Về mức giới hạn SAR được áp dụng tại vùng đầu và thân, tại các chi và toàn cơ thể.
+
+Ở Việt Nam, Điều 14 Luật Tần số vô tuyến điện đã quy định quản lý an toàn bức xạ đối với thiết bị vô tuyến điện trước khi đưa vào lưu thông trên thị trường hoặc sử dụng. Quản lý SAR là một trong những nội dung quản lý an toàn bức xạ vô tuyến điện.
+
+Tuy nhiên, theo Cục Tần số vô tuyến điện, Việt Nam hiện chưa quy định bắt buộc quản lý, chưa có Quy chuẩn kỹ thuật quốc gia về SAR cho các thiết bị cầm tay và đeo trên cơ thể người.
+
+Thực tế, Bộ Khoa học và Công nghệ đã ban hành Tiêu chuẩn Việt Nam TCVN 3718-1:2005 “Quản lý an toàn trong bức xạ tần số radio- Phần 1: Mức phơi nhiễm lớn nhất trong dải tần từ 3 kHz đến 300 GHz”. Tiêu chuẩn này đã được ban hành từ năm 2005, chưa được cập nhật. Hơn nữa, vì là tiêu chuẩn nên không bắt buộc áp dụng.
+
+Theo đó về mức giới hạn SAR: áp dụng mức giới hạn 1,6 W/kg (với vùng đầu và thân), 4 W/kg (với các chi) và 0,08 W/kg (đối với toàn cơ thể). Về đối tượng quản lý gồm: Thiết bị di động và xách tay dải tần 0,1 MHz đến 2500 MHz.
+
+Dự thảo QCVN quy định áp dụng đối với thiết bị có công suất phát trên 20 mW sử dụng gần cơ thể người dưới 200 mm. Như vậy ngoài điện thoại di động là đối tượng tiêu biểu chịu quản lý SAR như ở dự thảo QCVN đã lấy ý kiến trước đây, nay mở rộng thêm các thiết bị khác như máy tính bảng, máy tính xách tay tại Thông tư ban hành danh mục sản phẩm hàng hóa có khả năng gây mất an toàn thuộc phạm vi quản lý của Bộ Thông tin và Truyền thông.
+
+Tham khảo thực tiễn đo kiểm tra đánh giá sự phù hợp về SAR của các thiết bị vô tuyến trên thị trường tại Pháp cho thấy trong thời gian từ năm 2012 đến tháng 9/2023, cơ quan quản lý ghi nhận khoảng 5% mẫu thử nghiệm không tuân thủ ngưỡng giới hạn SAR; tập trung chủ yếu vào chủng loại thiết bị là điện thoại di động.
+
+Trong nhóm thiết bị sử dụng gần cơ thể người thì điện thoại di động là chủng loại thiết bị được sử dụng thông dụng tại Việt Nam. Đối với quản lý phơi nhiễm EMF từ trạm gốc di động (BTS) hiện nay được quy định theo hình thức chặt chẽ (chứng nhận kiểm định trạm BTS trước khi đưa vào sử dụng).
+
+Do vậy, cơ quan soạn thảo đề xuất hình thức chứng nhận hợp quy với điện thoại di động và công bố hợp quy với các thiết bị còn lại thuộc phạm vi điều chỉnh của dự thảo QCVN.
+
+Đánh giá năng lực đo kiểm trong nước, Cục Tần số vô tuyến điện cho hay, qua khảo sát một số đơn vị tại Việt Nam, đã ghi nhận 1 đơn vị sản xuất trong nước có đủ cơ sở vật chất và năng lực đo SAR cho điện thoại di động phục vụ đo kiểm theo tiêu chuẩn nội bộ và chỉ áp dụng cho các sản phẩm do đơn vị này sản xuất. Đơn vị này cũng chưa có kế hoạch cho việc đo kiểm dịch vụ đối với thiết bị của hãng khác và tiêu chuẩn khác.
+
+Phòng đo của Cục Tần số vô tuyến điện và một số phòng đo khác hiện mới có sẵn một vài thành phần có thể sử dụng để đo SAR như: Phòng che chắn nhiễu và Thiết bị mô phỏng thông tin vô tuyến.
+
+Đánh giá chung cho thấy năng lực đo kiểm SAR cho điện thoại di động trong nước phục vụ thử nghiệm chưa đáp ứng được ngay, các đơn vị sẽ cần thời gian để đầu tư, mua sắm sau khi có quy định quản lý chính thức của Bộ Thông tin và Truyền thông.
+
+Ở nước ngoài, qua khảo sát, thống kê được trên 100 phòng thử nghiệm tại các quốc gia như Mỹ, Canada, Nhật Bản, Hàn Quốc, Trung Quốc, Anh, Úc có đủ năng lực đo SAR, trong đó có nhiều phòng đo tại các quốc gia có thỏa thuận thừa nhận lẫn nhau MRA với Việt Nam.
+
+Theo dự thảo, dự kiến thông tư có hiệu lực từ ngày 1/7/2025. Kể từ ngày  1/7/2026, thiết bị điện thoại phải tuân thủ QCVN này trước khi lưu thông trên thị trường; đồng thời các thiết bị vô tuyến điện thuộc phạm vi áp dụng QCVN phải tuân thủ trước khi lưu thông trên thị trường.
+
+Doanh nghiệp, tổ chức, cá nhân được lựa chọn đo kiểm theo QCVN để phục vụ chứng nhận hợp quy, công bố hợp quy kể từ ngày 1/7/2025.

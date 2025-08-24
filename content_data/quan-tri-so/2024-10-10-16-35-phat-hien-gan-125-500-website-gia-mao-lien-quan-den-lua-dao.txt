@@ -1,0 +1,33 @@
+Trong tháng 9/2024, hệ thống giám sát, cảnh báo sớm rủi ro của NCSC, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã ghi nhận hàng trăm tên miền giả mạo các cơ quan, tổ chức tài chính, các ngân hàng nhằm mục tiêu lừa đảo người dân trên không gian mạng.
+
+Về nguy cơ, rủi ro mới, NCSC ghi nhận 12 lỗ hổng mới có thể gây ra các nguy cơ nghiêm trọng đến hệ thống thông tin. NCSC cũng đã phân tích và công bố danh sách các chỉ báo tấn công mạng (IoC) liên quan đến các chiến dịch tấn công có thể ảnh hưởng đến Việt Nam.Trong số 125.338 website giả mạo cơ quan, tổ chức, Hệ thống giám sát kỹ thuật của NCSC đã phát hiện 31 website giả mạo thương hiệu với mục đích lừa đảo được phát tán trên không gian mạng.
+
+Ngoài ra, Hệ thống giám sát kỹ thuật của NCSC đã ghi nhận có 45.691 điểm yếu, lỗ hổng an toàn thông tin tại các máy chủ, máy trạm, hệ thống thông tin của các cơ quan tổ chức nhà nước.
+
+Song song đó, phát hiện hơn 1600 lỗ hổng trên 5000 hệ thống đang mở công khai trên Internet. NCSC cũng đã ghi nhận 12 lỗ hổng mới được công bố, có mức độ ảnh hưởng nghiêm trọng/cao có thể bị lợi dụng để tấn công, khai thác vào các hệ thống của các cơ quan, tổ chức. Các lỗ hổng này đã tồn tại trên các sản phẩm phổ biến của nhiều cơ quan, tổ chức, doanh nghiệp.
+
+Thực hiện phân tích, theo dõi và dự báo, cảnh báo sớm xu hướng về tấn công mạng, Cục An toàn thông tin phát hiện xu hướng tấn công mã hóa tống tiền (ransomware) tăng cao trong thời gian gần đây. Đã có một số hệ thống thông tin của cơ quan, tổ chức, doanh nghiệp tại Việt Nam bị sự cố tấn công, gây gián đoạn hoạt động và thiệt hại về vật chất, hình ảnh của các cơ quan, tổ chức, doanh nghiệp, cũng như hoạt động bảo đảm an toàn không gian mạng quốc gia.
+
+Thời gian qua, NCSC đã tiến hành thu thập, phân tích và phát hiện nhiều chỉ báo (Indicators of Compromise) về tấn công mạng có thể ảnh hưởng đến cơ quan, tổ chức, doanh nghiệp Việt Nam. Các đơn vị cần chủ động rà soát các máy chủ, máy trạm, rà soát toàn bộ các hệ thống giám sát theo các chỉ báo mà NCSC cung cấp trong báo cáo nhằm xử lý sớm các rủi ro trong hệ thống, liên tục cập nhật các chỉ báo về tấn công mạng, đặc biệt là các chỉ báo đã được chia sẻ từ hệ thống của NCSC. Thông tin IOC được cung cấp tạihttps://alert.khonggianmang.vn/
+
+Cũng trong tháng 9/2024, NCSC phát hiện 18 hệ thống của các đơn vị có kết nối đến hạ tầng botnet. NCSC đã thực hiện chia sẻ các thông tin botnet này đến các đơn vị thông qua hệ thống phát hiện cảnh báo sớm botnet.
+
+Đến tháng 9/2024, đã có 87 đơn vị (63 tỉnh/thành, 24 bộ/ngành) triển khai công tác giám sát an toàn thông tin và thực hiện kết nối chia sẻ dữ liệu giám sát với NCSC. Thông qua kết nối chia sẻ dữ liệu giám sát từ 87 đơn vị, Hệ thống kỹ thuật của NCSC ghi nhận 74/87 đơn vị có kết nối chia sẻ dữ liệu tương đối đầy đủ, 13/87 đơn vị không nhận được dữ liệu chia sẻ.
+
+Theo NCSC, còn tồn tại nhiều đơn vị bộ/ngành, địa phương chưa thực hiện chia sẻ dữ liệu. Để đảm bảo an toàn hệ thống thông tin quốc gia, Cục An toàn thông tin đề nghị các đơn vị khẩn trương triển khai nghiêm túc và chặt chẽ các quy định theo chỉ thị của Thủ tướng Chính phủ để thực hiện việc chia sẻ dữ liệu nhằm đảm bảo tính liên thông, an toàn và hiệu quả trong quản lý và điều hành hệ thống thông tin quốc gia.
+
+Ngoài ra, đến tháng 9/2024, đã có 88 đơn vị (63 tỉnh/thành, 25 bộ/ngành) triển khai giải pháp phòng chống mã độc tập trung và thực hiện kết nối chia sẻ thông tin về mã độc với NCSC. Hiện nay, còn tồn tại 03 đơn vị bao gồm: Bộ Giáo dục và Đào tạo, Bộ Nông nghiệp và Phát triển nông thôn, Ủy ban Dân tộc chưa thực hiện chia sẻ dữ liệu mã độc về Hệ thống kỹ thuật của NCSC.
+
+NCSC cũng đề nghị các đơn vị thực hiện chia sẻ đầy đủ thông tin dữ liệu mã độc nhằm nâng cao năng lực phòng, chống phần mềm độc hại và thực hiện đánh giá chỉ số lây nhiễm phần mềm độc hại ở các bộ, ngành, địa phương, coi đây là một trong những tiêu chí đánh giá mức độ bảo đảm an toàn thông tin của các bộ, ngành, địa phương.
+
+Thông qua việc kết nối chia sẻ dữ liệu về mã độc từ 88 đơn vị, Hệ thống kỹ thuật của NCSC ghi nhận 76/88 đơn vị có kết nối thường xuyên. Trong các đơn vị kết nối thường xuyên có 76/76 đơn vị chia sẻ về hệ điều hành các máy (tổng số máy là 294.800).
+
+
+
+Nhằm đảm bảo an toàn thông tin, Cục An toàn thông tin đề nghị:
+
+Một là,kiểm tra, rà soát hệ thống thông tin đang sử dụng có khả năng bị ảnh hưởng bởi các chiến dịch tấn công; Chủ động theo dõi các thông tin liên quan đến đến các chiến dịch tấn công mạng nhằm thực hiện ngăn chặn sớm, tránh nguy cơ bị tấn công.
+
+Hai là,tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng; đồng thời thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+
+Ba là,gửi báo cáo kết quả rà soát hệ thống về Cục An toàn thông tin chậm nhất trước ngày 25/10/2024. Trung tâm Giám sát an toàn không gian mạng quốc gia, điện thoại 02432091616, ncsc@ais.gov.vn.

@@ -1,0 +1,33 @@
+Vấn đề hôm nay không phải tăng hay giảm, mà đột nhiên người mua bỏ tiền vào rất kém, sau đợt mua lớn cuối tuần trước.
+
+Thị trường ngày 25/9/2017:
+
+Phiên hôm nay nếu có hệ số tăng/giảm tốt hơn chút nữa thì đã là một ngày tích cực. Thị trường thể hiện hơi đuối trong phiên với quá nhiều mã giảm giá và chỉ có chỉ số là tỏ ra mạnh.
+
+Có hai giai đoạn trong phiên này diễn biến khác nhau. Đầu tiên là nhịp giảm rất sớm do bị đè trụ. Chỉ số giảm không phải là xấu vì cả ROS lẫn SAB vốn không thể đoán được cung cầu sẽ như thế nào. Căn bản là các mã còn lại diễn biến ra sao. Sau nhịp đè đầu tiên, các chỉ số phục hồi khá tốt.
+
+Giai đoạn thứ hai là phần lớn thời gian còn lại, chỉ số không có tiến triển thêm, thậm chí hơi đuối, nhưng lại có quá nhiều mã giảm giá. Sau phiên giao dịch khá ổn định cuối tuần trước, hôm nay thị trường tăng nhẹ thì hợp lý hơn. Tuy nhiên hệ số tăng/giảm trong phiên duy trì liên tục ở mức rất xấu, đa số cổ phiếu giảm giá. Như vậy thị trường lại điều chỉnh nhiều ở cổ phiếu thay vì điều chỉnh chỉ số.
+
+Việc có nhiều mã giảm giá và thanh khoản quá thấp hôm nay chỉ có thể là do cầu yếu. Người mua đã không xuống tiền mạnh và để cho bên bán lấn át dù áp lực thực ra cũng không có gì ghê gớm. Nếu bán lớn thì dao động giá hôm nay đã rộng hơn nhiều.
+
+Nhìn thuần túy chỉ số thì hôm nay không phải là xấu: Dao động có sự cải thiện về cuối phiên và dao động trong phiên nếu loại bỏ yếu tố vốn hóa biến động quá lớn của SAB, ROS thì là hẹp. Tuy nhiên diễn biến giao dịch lại chưa ổn, cổ phiếu giảm giá rộng và quá dễ do cầu yếu.
+
+Khả năng cao là thị trường vẫn chưa điều chỉnh xong, chưa test cung có kết quả. Sự thận trọng từ phía mua vẫn quá cao để sẵn sàng chớp các cơ hội giảm giá. Tuy hôm nay dao động của các chỉ số cơ bản là giống phiên trước nhưng thực trạng thị trường thì yếu hơn.
+
+Dòng tiền suy yếu quá nhiều cũng là điều bất ngờ. Vốn nội thuần không tính ROS tụt xuống 2.878 tỷ. Đột nhiên bên mua tỏ ra thận trọng cao dù không có gì ảnh hưởng quá đặc biệt là điều khó hiểu. Cuối tuần trước tiền vào rất khá.
+
+Giá kỳ hạn tháng 10 hôm nay bám khá sát VN30 nhưng vẫn duy trì basis rộng. Đặc biệt buổi chiều biến động rất hẹp và cầu quanh tham chiếu rất tốt. Thanh khoản phiên này giảm mạnh 20% nhưng dư mua dư bán còn khá lớn. Như vậy thanh khoản thấp cũng là do mức dao động không đạt tới vùng có thanh khoản.
+
+Hành động treo mua treo bán cũng thể hiện sự thiếu dứt khoát trong giao dịch. Nguyên nhân cũng do VN30 cứ xanh đỏ theo biến động giá rất nhỏ của các mã lớn, trong khi các mã này lại có khối lượng chặn mua chặn bán lớn và mức thanh khoản hiện tại không vượt qua được, nên có thể ước đoán được mức dao động của chỉ số.
+
+Mặc dù VN30 có nhiều mã giảm, ít mã tăng nhưng chỉ số vẫn xanh là do trọng số vốn hóa thay đổi không giống nhau. Biến động vốn hóa realtime của từng mã trong rổ thể hiện sự ổn định và dẫn dắt chỉ số của MSN,  MWG. Ngay cả ROS và SAB cũng ổn định chiều giảm (không giảm thêm và cũng không phục hồi được). Biến động phụ thuộc vào HPG, VIC, VNM, FPT và STB. Các mã này dao động lớn.
+
+Giao dịch:
+
+VN30 có một cú sụt khá mạnh ngay đầu phiên dưới ảnh hưởng bất thường của ROS và SAB. Lúc đó cả rổ nhìn chung vẫn ổn, giảm giá tuy nhiều nhưng mức giảm của các mã khác lại nhẹ. Nếu tình hình vẫn giữ như vậy và chỉ số chỉ bị kéo xuống nhiều bởi vài mã thì là tốt. Long hợp đồng tháng 10 ở 785.4-785.6.
+
+Bỏ lỡ cơ hội trading sau đó khi VN30 phục hồi lên như dự kiến vì không lường được sau đó thị trường chung lại yếu như vậy. Hai lần hợp đồng tháng 10 rơi về đáy cũ. Rất may về cuối phiên giá không đến nỗi tệ. Coi như hôm nay là một ngày may mắn dù thị trường không đúng dự kiến.
+
+Duy trì vị thế Long. Basis đang -3,89 điểm, nếu thị trường hiệu quả và kỳ vọng VN30 sẽ không giảm thêm thì chờ đợi lực cầu sẽ ổn. Nếu tình hình xấu đi, cần cắt lỗ.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

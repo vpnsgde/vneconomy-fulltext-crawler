@@ -1,0 +1,33 @@
+Trên thế giới hiện có hơn 140 quốc gia đã ban hành các đạo luật chuyên biệt về bảo vệ dữ liệu cá nhân. Tại Việt Nam, những văn bản quy định về bảo vệ dữ liệu cá nhân hiện đang nằm rải rác, chưa thống nhất về nội hàm dữ liệu cá nhân cũng như cơ chế bảo vệ dữ liệu cá nhân.
+
+Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân ra đời được đánh giá là bước tiến pháp lý quan trọng của Việt Nam trong việc thiết lập hành lang pháp lý tương đối chặt chẽ cho việc bảo vệ dữ liệu cá nhân. Nhưng việc thiết lập một bộ luật thể chế hóa chặt chẽ quyền, nghĩa vụ các bên liên quan đến dữ liệu cá nhân của người dùng Việt Nam là yêu cầu tất yếu, nhất là khi dữ liệu đang không chỉ là vấn đề kinh tế mà còn là chủ quyền số.
+
+Luật Bảo vệ dữ liệu cá nhân dự kiến sẽ được trình Quốc hội thông qua tại kỳ họp thứ 9 (khóa XV) vào tháng 5/2025 được kỳ vọng sẽ đưa toàn bộ hoạt động xử lý dữ liệu cá nhân tại Việt Nam ra khỏi “vùng xám” pháp lý, hướng tới một môi trường minh bạch, có kiểm soát và phù hợp với các chuẩn mực quốc tế.
+
+Dự thảo Luật Bảo vệ dữ liệu cá nhân gồm 7 chương, 69 điều, quy định đầy đủ về các nội dung: nguyên tắc xử lý dữ liệu, quyền và nghĩa vụ của chủ thể dữ liệu và bên liên quan, chuyển dữ liệu ra nước ngoài, đánh giá tác động dữ liệu, xếp hạng tín nhiệm bảo vệ dữ liệu, xử lý vi phạm và cơ chế kiểm tra, giám sát. Luật cũng điều chỉnh cả các tổ chức, cá nhân nước ngoài có hoạt động thu thập, xử lý dữ liệu công dân Việt Nam.
+
+Tại tọa đàm “Góp ý Dự thảo Luật Bảo vệ dữ liệu cá nhân”, Thiếu tá Đào Đức Triệu (Cục A05, Bộ Công an), cho biết Ban soạn thảo Dự luật thời gian qua đã tiếp nhận và nghiên cứu hàng trăm trang góp ý từ doanh nghiệp, chuyên gia nhiều lĩnh vực. Đây là một bộ luật đặc biệt quan trọng, liên quan trực tiếp đến quyền công dân và nền kinh tế dữ liệu đang hình thành.
+
+Trong quá trình chuyển đổi số, dữ liệu, nhất là dữ liệu cá nhân, không còn đơn thuần là “nguyên liệu thô”, mà là tư liệu sản xuất quan trọng, quyết định năng lực cạnh tranh số. Tuy nhiên, tài nguyên này chỉ có giá trị khi được khai thác một cách hợp lý, minh bạch và có sự kiểm soát chặt chẽ. Nghị quyết 57-NQ/TW của Bộ Chính trị đã xác định rõ quan điểm: bảo vệ dữ liệu cá nhân và an ninh mạng là yêu cầu xuyên suốt trong quá trình phát triển quốc gia số.
+
+Từ khoảng những năm 2000 tới đây, doanh nghiệp nước ngoài ồ ạt thâm nhập thị trường Việt Nam mà gần như không bị ràng buộc về trách nhiệm quản lý dữ liệu. Những mô hình khai thác và xử lý dữ liệu có thể bị cấm tại một số quốc gia, vẫn có thể vận hành tại Việt Nam, tạo ra những đột phá lớn về doanh thu cho một số tổ chức, doanh nghiệp. Thiếu tá Đào Đức Triệu nhận định đây là “cuộc chơi” thiếu luật lệ. Hệ quả là dữ liệu cá nhân của người dùng Việt Nam bị rao bán công khai trên các nền tảng như Telegram, thậm chí được cam kết là “chính xác”, “có bảo hành”, cho thấy quy trình thu thập đang diễn ra có chủ đích, tinh vi và có hệ thống.
+
+Theo báo cáo của Hiệp hội An ninh mạng quốc gia, 66,24% người dùng xác nhận rằng thông tin của họ từng bị sử dụng trái phép. Trong khi đó, theo số liệu từ Công ty An ninh mạng Viettel, Việt Nam có đến 14,5 triệu tài khoản bị lộ lọt dữ liệu trong năm 2024.
+
+Sự phát triển nhanh chóng của công nghệ không những không lấp đầy khoảng trống pháp lý, mà còn làm bộc lộ rõ hơn những lỗ hổng trong việc giám sát, bảo vệ quyền riêng tư của người dùng Việt Nam. Chính vì vậy, việc xây dựng hành lang pháp lý về bảo vệ dữ liệu cá nhân không còn là lựa chọn, mà là yêu cầu bắt buộc.
+
+Trong khi mỗi năm, châu Âu có thể xử phạt tới hàng tỷ USD đối với các hành vi vi phạm dữ liệu cá nhân, thì Việt Nam cho đến nay vẫn chưa có tiền lệ xử lý tương tự. Cùng với đó, nhận thức về bảo vệ dữ liệu cá nhân của người dùng còn hạn chế, càng làm tình trạng lộ lọt, mua bán dữ liệu công khai tràn lan, với mức độ ngày càng tinh vi và phức tạp.
+
+Theo Thiếu tá Đào Đức Triệu, Cục A05 Bộ Công an, dự thảo Luật Bảo vệ dữ liệu cá nhân sẽ không chỉ giới hạn trong không gian số mà bao phủ cả môi trường truyền thống, khắc phục khoảng trống mà Nghị định 13 chưa thể bao quát. Ông Triệu nhấn mạnh rằng sự ra đời của bộ luật này sẽ là một cuộc cách mạng, buộc những mô hình kinh doanh cũ không còn phù hợp với quy định phải thay đổi. Nhiều doanh nghiệp đã chủ động điều chỉnh hoặc ngừng triển khai các mô hình xử lý dữ liệu không tuân thủ, cho thấy tín hiệu tích cực của một môi trường pháp lý đang dần định hình theo hướng tiến bộ và chuẩn mực hơn.
+
+Chia sẻ góc độ của doanh nghiệp dưới tác động của Luật Bảo vệ dữ liệu cá nhân, bà Đoàn Thị Thu Nga, Phó Ban pháp chế Tập đoàn Công nghiệp- Viễn thông quân đội (Viettel), khẳng định Viettel hoàn toàn ủng hộ việc ban hành luật và đã nghiêm túc tuân thủ các quy định của Nghị định 13. Tuy nhiên, bà Nga đề xuất Ban soạn thảo cân nhắc thêm quyền và lợi ích hợp pháp của bên kiểm soát và xử lý dữ liệu nhằm đảm bảo sự hài hòa với quyền của chủ thể dữ liệu
+
+Trong 11 quyền chủ thể dữ liệu được quy định tại Luật Bảo vệ dữ liệu cá nhân, đáng chú ý có quyền cho phép chủ thể yêu cầu xóa dữ liệu cá nhân. Liên quan đến nội dung này, bà Nga cho rằng cần xem xét quyền từ chối yêu cầu của bên kiểm soát và xử lý dữ liệu trong một số trường hợp, tương tự như Điều 12.5 và Điều 17 của Quy định bảo vệ dữ liệu chung của châu Âu (GDPR).
+
+Về thời hạn thực hiện yêu cầu từ chủ thể dữ liệu trong vòng 72 giờ như dự thảo hiện hành, bà Nga cho rằng quy định này có thể khó khả thi đối với các doanh nghiệp, đặc biệt trong những tình huống phức tạp hoặc khối lượng yêu cầu lớn. Trong khi đó, GPDR cho phép thời gian tối đa là ba tháng với các yêu cầu phức tạp hoặc số lượng lớn. Do đó, dự thảo Luật nên cho phép các bên thỏa thuận thời gian xử lý trên cơ sở hợp lý.
+
+Liên quan đến yêu cầu mã hóa dữ liệu nhạy cảm, theo tính toán sơ bộ, chi phí để Viettel nâng cấp hạ tầng đảm bảo tuân thủ yêu cầu này có thể lên đến 1.824 tỷ đồng, với thời gian hoàn thành khoảng 50,5 tháng (tương đương hơn 4 năm). Trong giai đoạn nâng cấp, hoạt động sản xuất kinh doanh có thể bị gián đoạn, ảnh hưởng chưa thể lượng hóa được đầy đủ…
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 17 18-2025 phát hành ngày 28/04-11/5/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1374

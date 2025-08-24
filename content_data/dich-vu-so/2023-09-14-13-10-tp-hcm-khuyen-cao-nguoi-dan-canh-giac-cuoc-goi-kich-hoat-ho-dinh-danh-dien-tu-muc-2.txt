@@ -1,0 +1,25 @@
+Hiện nay, lực lượng công an xã, phường, thị trấn ở TP.HCM và nhiều tỉnh, thành đang tiến hành vận động người dân làm định danh điện tử mức 2 trên phạm vi toàn quốc. Nắm bắt thông tin này, một số đối tượng xấu có ý đồ bất chính đã lợi dụng cơ hội gọi cho người dân.
+
+Ngày 13/9, Công an các quận huyện và TP. Thủ Đức đã gửi thông báo cảnh báo về việc người “lạ” gọi điện thoại tự xưng là công an yêu cầu công dân tải, cài đặt ứng dụng khác với ứng dụng VneID hay cung cấp thông tin cá nhân như căn cước công dân, giấy tờ khác,... để kích hoạt dùm.
+
+Theo thông báo, những người này tự xưng là công an mời người dân làm định danh. Tuy nhiên, các đối tượng hướng dẫn người dân cài đặt các “app lạ”, ứng dụng giả mạo trên điện thoại. Điều này có thể gây ảnh hưởng đến bảo mật thông tin, rò rỉ thông tin của công dân, dẫn đến bị lừa đảo.
+
+Nhằm ngăn chặn hậu quả xấu xảy ra, Công an chỉ vận động công dân đến trụ sở Công an xã, phường, thị trấn nơi thường trú hoặc nơi gần nhất để làm định danh điện tử mức 2; chỉ có 1 app duy nhất là ứng dụng VneID để kích hoạt định danh điện tử mức 2; việc định danh điện tử mức 2 phải do công dân trực tiếp đi làm do phải chụp ảnh, quét vân tay nên không thể làm thay.
+
+Ngoài nội dung trên, nếu có người gọi điện thoại tự xưng là công an yêu cầu công dân tải, cài đặt ứng dụng khác với ứng dụng VneID, hay cung cấp thông tin cá nhân như căn cước công dân, giấy tờ khác,... để kích hoạt dùm, không cần đến công an, đó là đối tượng có ý đồ xấu. Người dân cần cảnh giác không cung cấp thông tin cho các đối tượng này.
+
+Thực tế, thời gian qua, đã xuất hiện những kiểu lừa đảo công nghệ cao với chiêu bài kiểm chứng thông tin. Kẻ xấu mạo danh là công an, đọc chính xác tên, số định danh, ngày tháng năm sinh (dữ liệu này của nạn nhân đã bị lộ, lọt trên mạng do nhiều nguyên nhân, khi các nạn nhân giao dịch trong công việc thường ngày) để yêu cầu nạn nhân đăng nhập vào webstie giả mạo giao diện cơ quan nhà nước. Từ đó, yêu cầu công dân điền thông tin cá nhân, cung cấp thông tin tài khoản ngân hàng, mã OTP gửi về số điện thoại...
+
+Sau đó, kẻ xấu dùng những thông tin trên đăng nhập các ứng dụng ngân hàng online, MoMo, ZaloPay... của nạn nhân rồi chiếm đoạt tài sản.
+
+Công an đề nghị người dân ai chưa làm định danh mức 2 hãy đến trực tiếp Công an xã, phường, thị trấn nơi gần nhất để thực hiện. Cơ quan công an cũng cảnh báo người dân tuyệt đối không thực hiện theo yêu cầu từ các cuộc gọi "lạ" tự xưng cơ quan nhà nước, lực lượng công an; Không cung cấp thông tin cá nhân, tài khoản số, mã OTP... cho người lạ, tránh sập bẫy lừa đảo của tội phạm.
+
+Tại phiên họp Chính phủ thường kỳ ngày 11/9, Thủ tướng Chính phủ đã giao Bộ Giao thông Vận tải nghiên cứu cho người dân nộp phạt vi phạm giao thông thuộc thẩm quyền của thanh tra giao thông trên VNeID.
+
+Nếu được nộp phạt vi phạm giao thông qua ứng dụng VNeID, người dân sẽ có thêm kênh trực tuyến để thực hiện việc này.
+
+Đồng thời, Bộ Công an hoàn thiện ứng dụng VNeID tích hợp các tiện ích quản lý xã hội, ứng dụng phục vụ người dân và doanh nghiệp làm thủ tục hành chính trên môi trường điện tử.
+
+Trước đó, từ tháng 7/2020, người dân cả nước được nộp phạt vi phạm giao thông trực tuyến trên Cổng dịch vụ công quốc gia và nhận giấy tờ tại nhà. Thời gian hệ thống cập nhật quyết định xử phạt là 7 ngày. Sau 7 ngày kể từ khi nhận quyết định xử phạt, người dân nhập số biên bản vi phạm hành chính; ngày, tháng, năm vi phạm; họ và tên sẽ tìm ra quyết định, số tiền bị xử phạt. Sau đó thực hiện các bước thanh toán qua ngân hàng/trung tâm thanh toán, nhận biên lai.
+
+Cảnh sát giao thông căn cứ vào biên lai thu tiền phạt để trả giấy tờ cho người dân qua bưu điện. Tháng 3/2021, Cục Cảnh sát giao thông (Bộ Công an) thử nghiệm kết nối Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu về xử lý vi phạm hành chính. Người vi phạm giao thông cung cấp mã số định danh cá nhân (12 số) trên thẻ căn cước có mã QR để cảnh sát tra cứu dữ liệu ở Cổng dịch vụ công Quốc gia, phục vụ nộp phạt qua mạng.

@@ -1,0 +1,43 @@
+Tổng cục Thuế cho biết hiện nay, có hiện tượng một số đối tượng giả danh cán bộ thuế cung cấp đường dẫn và hướng dẫn người nộp thuế cài đặt các phần mềm giả mạo ứng dụng của cơ quan thuế, nhằm lấy cắp thông tin cá nhân, thông tin tài khoản ngân hàng với mục đích chiếm đoạt tài sản.
+
+Theo đó, các ứng dụng lừa đảo thường yêu cầu cấp quyền như xem màn hình, dữ liệu nhập, điều khiển màn hình. Từ đó, sẽ chiếm quyền điều khiển điện thoại, thiết bị thông minh, lấy cắp thông tin cá nhân, thông tin tài khoản ngân hàng của người dùng.
+
+Khi người dùng cài đặt thì ứng dụng thường hiện lên dòng chữ"Tổng cục Thuế có quyền truy cập đầy đủ vào thiết bị của bạn".Tuy nhiên, trong thực tế, ứng dụng của cơ quan thuế không bao giờ yêu cầu như trên.
+
+Cục thuế các tỉnh khẳng định các ứng dụng ngành thuế đang triển khai trên thiết bị thông minh chỉ thông qua ứng dụng trên thiết bị thông minh như: Etax Mobile, Tra cứu hóa đơn, HCMTax… do Tổng cục Thuế cung cấp. Ứng dụng được cài đặt trên điện thoại di động thông minh hệ điều hành IOS hoặc Android.
+
+Người nộp thuế khi truy cập và tải ứng dụng chính thức qua Google Play đối với thiết bị sử dụng hệ điều hành Android và AppleStore đối với thiết bị sử dụng hệ điều hành IOs cần kiểm tra thông tin tác giả/nhà phát triển.
+
+Khi cần hỗ trợ về thông tin, người dân có thể liên hệ qua số điện thoại đầu mối của các chi cục thuế, cục thuế để được hỗ trợ qua số điện thoại được niêm yết trên trang web của cục thuế.
+
+"Không tải hoặc cài đặt ứng dụng dành cho thiết bị thông minh qua các đường dẫn (url) hoặc các hướng dẫn khác không chính thống", cơ quan thuế lưu ý.
+
+Cục thuế TP. Hồ Chí Minh, Cục thuế Hà Nội... cũng lưu ý một trong số dấu hiệu nhận diện các ứng dụng lừa đảo khi cài đặt ứng dụng thường yêu cầu cấp quyền như: xem màn hình, dữ liệu nhập, điều khiển màn hình… nên cần kiểm tra ứng dụng và các tính năng ứng dụng trước khi cấp các quyền trên.
+
+Cơ quan thuế các tỉnh cũng khuyến nghị với người nộp thuế rằng cơ quan nhà nước không làm việc qua điện thoại.
+
+Để tránh tình trạng trên, Tổng cục Thuế thông báo cho người nộp thuế ứng dụng do Tổng cục Thuế được cung cấp tại các địa chỉ sau:
+
+Ứng dụng Hỗ trợ Kê khai thuế (HTKK) được cung cấp tại Cổng thông tin điện tử của ngành thuế với địa chỉ https://www.gdt.gov.vn; Cổng Dịch vụ thuế điện tử tại địa chỉ: https://thuedientu.gdt.gov.vn.
+
+Ứng dụng đọc hồ sơ thuế XML (iTaxviewer) được cung cấp tại Cổng dịch vụ thuế điện tử tại địa chỉ: https://thuedientu.gdt.gov.vn.
+
+Ứng dụng eTax Mobile được cung cấp tại Google Play (đối với thiết bị sử dụng hệ điều hành Android) và AppleStore (đối với thiết bị sử dụng hệ điều hành IOS).
+
+Bộ cài eSigner được cung cấp tại Cổng Dịch vụ thuế điện tử với địa chỉ: https://thuedientu.gdt.gov.vn.
+
+Bộ cài Plugin Hóa đơn điện tử được cung cấp tại Cổng thông tin Hóa đơn điện tử với địa chỉ: https://hoadondientu.gdt.gov.vn/
+
+Ứng dụng Tra cứu hóa đơn được cung cấp tại tại Google Play (đối với thiết bị sử dụng hệ điều hành Android) và AppleStore (đối với thiết bị sử dụng hệ điều hành IOS).
+
+Bên cạnh đó, địa chỉ email và số điện thoại hỗ trợ người nộp thuế tại Tổng cục Thuế bao gồm: nhóm hỗ trợ hướng dẫn sử dụng dịch vụ thuế điện tử thông qua: email nhomhttdt@gdt.gov.vn, điện thoại 024.37689679, số máy lẻ 2180; nhóm hỗ trợ hướng dẫn sử dụng về dịch vụ hóa đơn điện tử thông qua: email nhomhotrohddt@gdt.gov.vn, điện thoại 024.73055999.
+
+Ngoài ra, khi có nhu cầu hỗ trợ các ứng dụng của ngành thuế, người nộp thuế gửi yêu cầu qua email hoặc gọi điện tới các số điện thoại nêu trên hoặc trên các trang website của cơ quan thuế địa phương.
+
+"Cán bộ hỗ trợ sẽ trả lời cũng bằng các địa chỉ email và điện thoại nêu trên. Để đảm bảo an toàn, bảo mật thông tin cho người nộp thuế, cán bộ hỗ trợ của cơ quan thuế không truy cập trực tiếp vào máy tính hay điện thoại của người nộp thuế", Tổng cục Thuế nhấn mạnh.
+
+Đặc biệt, "người nộp thuế tuyệt đối không tải hoặc cài đặt ứng dụng của cơ quan thuế cho máy tính, điện thoại thông minh qua các đường dẫn không phải do Tổng cục Thuế cung cấp; không cho phép bất kỳ cá nhân nào truy cập trực tiếp vào máy tính, điện thoại của mình để hỗ trợ cài đặt, sử dụng phần mềm của cơ quan thuế", Tổng cục Thuế lưu ý.
+
+Trước đó, cục thuế các tỉnh cũng phát hiện vụ việc một số đối tượng giả danh công chức cơ quan thuế (thuộc Tổng cục Thuế, cục thuế, chi cục thuế) để mời chào, dụ dỗ, dọa nạt, lừa đảo, ép doanh nghiệp mua sách, tài liệu, cẩm nang về thuế...
+
+Cơ quan thuế khẳng định không có chủ trương, cũng như lãnh đạo không gọi điện, không cử cán bộ gọi điện, gửi fax hay mang sách, tài liệu bán cho doanh nghiệp hoặc đề nghị tài trợ cho bất kỳ hoạt động nào. Tất cả các văn bản, tài liệu được cơ quan thuế đăng tải trên website. Các chương trình tập huấn của cơ quan thuế tổ chức đều miễn phí và có thông báo, gửi đến người nộp thuế tham dự.

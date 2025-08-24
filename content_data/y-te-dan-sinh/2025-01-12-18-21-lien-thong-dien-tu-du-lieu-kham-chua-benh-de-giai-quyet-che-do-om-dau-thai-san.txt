@@ -1,0 +1,33 @@
+Phó Thủ tướng Thường trực Nguyễn Hòa Bình đã ký Quyết định số 69/QĐ-TTg về việc liên thông điện tử dữ liệu khám bệnh, chữa bệnh, dữ liệu dân cư, dữ liệu hộ tịch để giải quyết hưởng chế độ ốm đau, thai sản, trợ cấp dưỡng sức phục hồi sức khỏe.
+
+Quyết định này quy định về việc kết nối, chia sẻ dữ liệu giữa các Bộ, ngành với Bảo hiểm xã hội Việt Nam để thực hiện thủ tục hành chính trên môi trường điện tử trong giải quyết hưởng chế độ ốm đau, thai sản, trợ cấp dưỡng sức phục hồi sức khỏe theo quy định của pháp luật.
+
+Theo quy định, dữ liệu chia sẻ gồm: (1) Thông tin, dữ liệu về lĩnh vực y tế: Giấy ra viện, Giấy chứng nhận nghỉ việc hưởng bảo hiểm xã hội, Giấy chứng sinh, Giấy chuyển viện, Bản tóm tắt hồ sơ bệnh án, Giấy báo tử, Biên bản giám định y khoa, Giấy chứng nhận nghỉ dưỡng thai.
+
+(2) Thông tin, dữ liệu về lĩnh vực tư pháp: Giấy khai sinh, Trích lục khai sinh, Giấy chứng tử, Trích lục khai tử; (3) Thông tin, dữ liệu về dân cư: Xác thực thông tin công dân và mối quan hệ gia đình của công dân.
+
+Việc kết nối, chia sẻ dữ liệu trực tuyến trên môi trường mạng giữa hệ thống thông tin của Bảo hiểm xã hội Việt Nam và các cơ quan chia sẻ, xác thực dữ liệu theo quy định tại Điều 23 Nghị định số 47/2020/NĐ-CP của Chính phủ về việc quản lý, kết nối và chia sẻ dữ liệu số của cơ quan Nhà nước.
+
+Quyết định nêu rõ nguyên tắc chia sẻ dữ liệu và thực hiện kết nối, chia sẻ dữ liệu phải đảm bảo theo đúng quy định tại Điều 5, Điều 6 Nghị định số 47/2020/NĐ-CP của Chính phủ về việc quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước, Điều 3 Nghị định số 13/2023/NĐ-CP của Chính phủ về bảo vệ dữ liệu cá nhân.
+
+Đồng thời, đảm bảo tuân thủ các quy định về bảo mật thông tin; các quy định về quyền sở hữu trí tuệ liên quan đến dữ liệu; quyền riêng tư của tổ chức, cá nhân.
+
+Bảo đảm dữ liệu chia sẻ phải có khả năng gửi, nhận, lưu trữ, xử lý được bằng thiết bị số; dữ liệu chia sẻ được ký số theo quy định. Bên cạnh đó, phù hợp với Khung kiến trúc Chính phủ điện tử Việt Nam.
+
+Chính phủ giao Bộ Y tế chỉ đạo, hướng dẫn các cơ sở khám bệnh, chữa bệnh, Hội đồng giám định y khoa kết nối, chia sẻ dữ liệu về lĩnh vực y tế lên Cổng tiếp nhận dữ liệu Hệ thống thông tin Giám định bảo hiểm y tế của Bảo hiểm xã hội Việt Nam.
+
+Bộ Tư pháp kết nối, chia sẻ dữ liệu về lĩnh vực tư pháp. Bộ Công an xác thực thông tin công dân và mối quan hệ gia đình của công dân.
+
+Các cơ sở khám bệnh, chữa bệnh, Hội đồng giám định y khoa chịu trách nhiệm về việc tạo lập chứng từ điện tử về khám bệnh, chữa bệnh theo quy định, và chịu trách nhiệm trước pháp luật về tính hợp pháp, chính xác của chứng từ.
+
+Đồng thời, gửi chứng từ điện tử về khám bệnh, chữa bệnh lên Cổng tiếp nhận dữ liệu Hệ thống thông tin Giám định bảo hiểm y tế của Bảo hiểm xã hội Việt Nam ngay khi người bệnh xuất viện, phù hợp với quy chế chuyên môn bệnh viện và quy định của pháp luật.
+
+Cùng với đó, lưu trữ và bảo đảm tính toàn vẹn của toàn bộ chứng từ điện tử trong lĩnh vực bảo hiểm xã hội, bảo hiểm y tế; thực hiện các quy định pháp luật về bảo đảm an toàn, an ninh hệ thống dữ liệu điện tử.
+
+Bảo hiểm xã hội Việt Nam được giao nâng cấp và hoàn thiện Hệ thống thông tin điện tử của ngành, để đảm bảo kết nối thông suốt liên thông điện tử dữ liệu được chia sẻ từ các Bộ, ngành. Phối hợp với các Bộ, ngành và các cơ quan liên quan kết nối, chia sẻ dữ liệu để đảm bảo triển khai Quyết định này.
+
+Bảo hiểm xã hội Việt Nam cũng ban hành tài liệu, quy trình nghiệp vụ để hướng dẫn tổ chức, cá nhân thực hiện dịch vụ công trực tuyến giải quyết hưởng chế độ ốm đau, thai sản, trợ cấp dưỡng sức, phục hồi sức khoẻ trên Cổng dịch vụ công Quốc gia và Cổng dịch vụ công của ngành.
+
+Thực hiện việc kết nối, tích hợp để cung cấp dịch vụ công trực tuyến này trên Cổng dịch vụ công Quốc gia và Cổng dịch vụ công của ngành.
+
+Văn phòng Chính phủ phối hợp với Bảo hiểm xã hội Việt Nam và các cơ quan liên quan kết nối, tích hợp, cung cấp dịch vụ công "Giải quyết hưởng chế độ ốm đau, thai sản, trợ cấp dưỡng sức phục hồi sức khỏe" trên Cổng dịch vụ công Quốc gia.

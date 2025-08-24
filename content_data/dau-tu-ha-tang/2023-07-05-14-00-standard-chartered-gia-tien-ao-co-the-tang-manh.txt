@@ -1,0 +1,21 @@
+Ngân hàng Anh Standard Chartered vừa đưa ra dự báo đầy lạc quan về Bitcoin, cho rằng giá của đồng tiền ảo lớn nhất thế giới có thể đạt mức 120.000 USD vào năm 2024, cao gấp gần 4 lần so với mức giá hiện tại.
+
+“Lợi nhuận tăng lên trên mỗi Bitcoin khiến ‘thợ đào’ có thể sẽ bán ra ít hơn, trong khi dòng tiền vào tiền ảo này vẫn được duy trì. Theo đó, nguồn cung ròng Bitcoin sẽ giảm xuống, đẩy giá tiền ảo này tăng lên”, ông Geoff Kendrick, giám đốc bộ phận nghiên cứu tiền ảo của Standard Chartered nhận định ngày 10/7.
+
+Đào tiền ảo là một quá trình tiêu tốn nhiều năng lượng, mà ở đó, thợ đào sử dụng các máy tính cấu hình cực cao để xác thực các dữ liệu giao dịch trên chuỗi khối Bitcoin, đảm bảo mạng lưới hoạt động và phần thưởng dành cho họ chính là các đơn vị Bitcoin. Thợ đào kiếm lợi nhuận nhờ việc bán Bitcoin được thưởng ra thị trường. Khi giá tiền ảo này tăng, họ vẫn có thể trang trải chi phí đào tiền ảo dù bán ra ít hơn và giữ lại nhiều Bitcoin với kỳ vọng giá sẽ tăng cao hơn nữa trong tương lai.
+
+Những dự báo lạc quan về tiền ảo không phải điều gì mới mẻ. Nằm trong số những người lạc quan nhất là “bà hoàng cổ phiếu” Cathie Wood, CEO của quỹ Ark Invest. Tháng 11 năm ngoái, bà Wood dự báo Bitcoin có thể đạt mức giá tới 1 triệu USD vào năm 2030.
+
+Trước dự báo vừa đưa ra, hồi tháng 4, ngân hàng Standard Chartered nhận định đồng Bitcoin có thể tăng giá lên 100.000 USD vào cuối năm 2024. Giờ đây, theo nhà băng này, dự báo đó đã không tính tới việc thợ đào có lợi nhuận cao hơn từ việc khai thác Bitcoin, theo đó giảm nguồn cung ra thị trường. Ngân hàng Anh này hiện dự báo giá Bitcoin sẽ đạt 50.000 USD vào cuối năm nay, trước khi tăng vọt lên 120.000 USD vào cuối năm 2024.
+
+“Ở mức giá hiện tại, thợ đào đang bán 100% phần thưởng Bitcoin mà họ nhận được từ quá trình khai thác. Ở mức giá 50.000 USD, họ sẽ bán ra 20-30%”, ông Kendrick viết.
+
+Bên cạnh áp lực nguồn cung, sự kiện “chia đôi” (halving) Bitcoin sắp diễn ra - một sự kiện kỹ thuật đã được lập trình - sẽ làm giảm nguồn cung Bitcoin trên thị trường.
+
+Sự kiện này có tên là “chia đôi” bởi khi diễn ra, phần thưởng cho thợ đào sẽ bị giảm 50% và mục đích của việc này là nhằm giảm số lượng đơn vị Bitcoin mới được tung ra thị trường. Đây là sự kiện diễn ra khoảng 4 năm một lần hoặc mỗi khi có 210.000 khối được thêm vào chuỗi khối Bitcoin, nhằm đảm bảo số lượng Bitcoin trên thị trường luôn ở dưới mức giới hạn 21 triệu đơn vị. Lần chia đôi tiếp theo dự kiến diễn ra vào khoảng tháng 4 hoặc tháng 5/2024.
+
+Theo dữ liệu từ trang Coinmarketcap.com, đồng Bitcoin giao dịch ở mức giá 30.586 USD vào khoảng 9h00 ngày 11/7 (giờ Việt Nam), tăng 1,73% so với 24h trước đó. Tính từ đầu năm, tiền ảo có vốn hóa lớn nhất thị trường đã tăng 83% giá trị. Dù vậy, Bitcoin vẫn đang giao dịch ở mức giá thấp hơn nhiều so với mức kỷ lục gần 69.000 USD thiết lập vào tháng 11/2021.
+
+Đợt tăng giá gần đây của Bitcoin trùng với thời điểm nhiều quỹ ETF Bitcoin được đăng ký thành lập tại Mỹ, bao gồm đơn đăng ký của công ty quản lý tài sản khổng lồ BlackRock Inc.
+
+BlackRock được cho là đang cố gắng trở thành công ty quản lý tài sản đầu tiên mở quỹ theo dõi giá đồng Bitcoin. Ở thời điểm hiện tại, nhà đầu tư tổ chức tại Mỹ không được phép mua tiền ảo, nhưng nếu Ủy ban Chứng khoán Mỹ (SEC) phê duyệt đơn mở ETF Bitcoin của BlackRock thì mọi thứ sẽ thay đổi hoàn toàn. Việc này sẽ mang đến cho Phố Wall một phương thức đầu tư tiền ảo với chi phí hợp lý và được pháp luật điều chỉnh.

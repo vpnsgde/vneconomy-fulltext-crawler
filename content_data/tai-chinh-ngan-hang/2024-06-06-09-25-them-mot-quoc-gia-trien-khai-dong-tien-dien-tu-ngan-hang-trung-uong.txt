@@ -1,0 +1,33 @@
+Mới đây Ngân hàng Trung ương Qatar (QCB) đã công bố hoàn thành việc phát triển cơ sở hạ tầng cho dự án Tiền tệ kỹ thuật số của Ngân hàng Trung ương (CBDC), đánh dấu một cột mốc quan trọng trong nỗ lực thực hiện chuyển đổi tài chính kỹ thuật số.
+
+Trong thông cáo báo chí ngày 2 tháng 6, QCB cho biết họ đã bắt đầu giai đoạn đầu tiên của dự án CBDC, đồng thời cho biết sáng kiến này phù hợp với những tiến bộ toàn cầu về tiền kỹ thuật số và nhằm mục đích hiện đại hóa và nâng cao lĩnh vực tài chính của đất nước.
+
+Trọng tâm chính của dự án CBDC là tăng cường khả năng tiếp cận thị trường vốn của các ngân hàng trong nước, cải thiện quy trình thanh toán trong nước và nâng cao hiệu quả của các giao dịch chứng khoán. Giai đoạn thử nghiệm ban đầu của dự án sẽ kéo dài đến tháng 10.
+
+
+
+Dự án CBDC sẽ tận dụng trí tuệ nhân tạo (AI), công nghệ sổ cái phân tán (DLT) và các công nghệ mới nổi khác để tăng cường tính thanh khoản bằng cách mở rộng sự tham gia vào các thị trường tài chính cơ sở, đồng thời đảm bảo an ninh mạnh mẽ. Ngân hàng trung ương cho biết thêm rằng bảo mật thông tin trong suốt quá trình thực hiện dự án vẫn là ưu tiên hàng đầu.
+
+Dự án CBDC nhằm hỗ trợ Chiến lược ngành tài chính thứ ba của Qatar, Chiến lược Fintech và Tầm nhìn quốc gia Qatar 2030. Dự án này thể hiện một bước chiến lược hướng tới xây dựng nền kinh tế kỹ thuật số và phản ánh cam kết của QCB đối với chuyển đổi kỹ thuật số trong lĩnh vực tài chính.
+
+Kết quả của giai đoạn thử nghiệm này sẽ tạo nền tảng để xác định các trường hợp sử dụng khác nhau cho CBDC, góp phần nâng cao hiệu quả của các hệ thống hiện tại và cho phép khả năng thanh toán tức thời.
+
+QCB bắt đầu nghiên cứu công nghệ CBDC vào tháng 3 năm 2022 và xác nhận ra mắt dự án vào tháng 6 cùng năm. Vào tháng 5 năm nay, Thống đốc QCB Sheikh Bandar bin Mohamed bin Saoud al-Thani tuyên bố rằng họ đang ở giai đoạn nền tảng, đánh giá ưu và nhược điểm của việc phát hành CBDC.
+
+Sự phát triển này gắn kết Qatar với các nước láng giềng ở Bán đảo Ả Rập, những nước cũng đang có những bước tiến về tiền tệ kỹ thuật số và công nghệ Blockchain. Đáng chú ý, Các Tiểu vương quốc Ả Rập Thống nhất là thành viên tích cực của dự án mBridge (dự án thử nghiệm nền tảng tiền kỹ thuật số xuyên biên giới) cùng với các đối tác toàn cầu như: Trung Quốc, Hong Kong (Trung Quốc) và Thái Lan, tham gia vào các giao dịch chuyển tiền và bán buôn.
+
+Cùng với việc ra mắt CBDC, Ngân hàng Trung ương Qatar cũng giới thiệu một hộp cát fintech mới có tên Express Sandbox. Nền tảng này cho phép thử nghiệm và đánh giá nhanh chóng, cung cấp một quy trình hợp lý cho những đổi mới trong công nghệ tài chính.
+
+Theo dữ liệu từ Atlantic Council, tính đến cuối năm 2023, đã có 130 quốc gia và vùng lãnh thổ đã triển khai nghiên cứu CBDC trên tổng số 195 quốc gia trên thế giới. 130 quốc gia này chiếm 98% GDP toàn cầu, tăng gấp 4 lần so với mức 35 quốc gia vào tháng 5 năm 2020.
+
+Trong số đó, có 11 quốc gia đã triển khai toàn diện CBDC bao gồm: Bahamas (Sand Dollar), Jamaica (JAM-DEX), Nilgeria (e-Naira), Khu vực kinh tế Đông Caribbean gồm 7 quốc gia (DCash).
+
+Số lượng quốc gia đang ở giai đoạn triển khai thí điểm là 21 với các quốc gia phát triển nhất Châu Á đều góp mặt trong danh sách này: Trung Quốc, Nhật Bản, Nga,Saudi Arabia, Ấn Độ…
+
+Phần lớn các quốc gia khác đang ở giai đoạn nghiên cứu (46 quốc gia) và thực nghiệm (32 quốc gia). Những cái tên nổi bật bao gồm Mỹ, khu vực EU, Brazil, Argentina, Indonesia, Philippines.
+
+
+
+Một loại tiền kỹ thuật số do ngân hàng trung ương của một quốc gia phát hành được gọi là tiền kỹ thuật số của ngân hàng trung ương hay CBDC. Nó có thể so sánh với tiền điện tử, nhưng nó tương đương với tiền tệ pháp định của quốc gia và có giá trị cố định do ngân hàng trung ương quy định. CBDC đang được phát triển ở nhiều quốc gia và một số đã đưa chúng vào thực tế. Do rất nhiều quốc gia đang xem xét các cách tiếp cận để chuyển sang tiền kỹ thuật số, điều quan trọng là phải hiểu được những gì CBDC mang lại cho xã hội.
+
+Mục tiêu chính của CBDC là cung cấp bảo mật tài chính, khả năng chuyển nhượng, quyền riêng tư, khả năng tiếp cận và sự thuận tiện cho các công ty và khách hàng tham gia vào các giao dịch tài chính. Ngoài ra, CBDC có thể giảm thiểu chi phí giao dịch xuyên biên giới, giảm chi phí bảo trì liên quan đến việc duy trì hệ thống tài chính phức tạp và cung cấp các lựa chọn hợp lý hơn cho những người hiện đang sử dụng các dịch vụ chuyển tiền khác.

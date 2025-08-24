@@ -1,0 +1,31 @@
+Đó là khẳng định của Phó Chủ tịch UBND TP.HCM Dương Anh Đức tại hội thảo và triển lãm an toàn thông tin khu vực phía Nam 2023 với chủ đề “Công nghệ mới và An ninh mạng trong kỷ nguyên chuyển đổi số, trí tuệ nhân tạo”.
+
+Hội thảo thu hút sự quan tâm của giới khoa học công nghệ trong lĩnh vực công nghệ thông tin và an toàn thông tin, cũng như sự quan tâm của lãnh đạo các cơ quan, doanh nghiệp đang triển khai các ứng dụng chuyển đổi số, các cơ quan quản lý Nhà nước.
+
+Theo ông Đức, nếu công tác chuyển đổi số không đảm bảo an toàn, bảo mật dữ liệu thì sẽ tạo ra hậu quả hết sức nghiêm trọng. Chính vì vậy, hội thảo và triển lãm lần này được kỳ vọng sẽ có nhiều giải pháp tốt để đảm bảo an toàn, bảo mật dữ liệu và đặc biệt càng có ý nghĩa năm 2023 là năm dữ liệu số quốc gia…
+
+
+
+Đồng quan điểm này, ông Nguyễn Thành Hưng, nguyên Thứ trưởng Bộ Thông tin và Truyền thông, Chủ tịch Hiệp hội VNISA, cho biết chuyển đổi số là chủ trương của Đảng và Nhà nước, nhằm tăng cường sự cạnh tranh của nền kinh tế, tăng cường tính phục vụ minh bạch và hiệu quả của các cơ quan Nhà nước, đẩy nhanh quá trình xây dựng Chính phủ số, kinh tế số, xã hội số. Tuy nhiên, việc đảm bảo an toàn thông tin của dữ liệu trên các nền tảng số, đảm bảo an toàn thông tin cá nhân của người dân trong bối cảnh ứng dụng trí tuệ nhân tạo (AI) như ChatGPT, Deepfake làm tăng cường các hình thức tội phạm mạng, lừa đảo, tấn công mạng, đang là một thách thức lớn đối với cộng đồng an toàn thông tin.
+
+Ông Phạm Huy Hoàng, Phó Chủ tịch Chi hội VNISA phía Nam, nhận định: Chưa bao giờ xã hội chứng kiến một làn sóng ồ ạt hay trào lưu về AI như Chat GPT, các công nghệ mới như Deepfake. Tuy nhiên, ngay khi cộng đồng chưa kịp nắm bắt thông tin và có sự đề phòng thì tin tặc đã tận dụng công nghệ mới này để lừa đảo trục lợi và đang trở thành vấn đề nhức nhối của xã hội.
+
+Trao đổi với Tạp chí Kinh tế Việt Nam – VnEconomy, ông Phan Linh, Giám đốc quốc gia CDNetworks, cho rằng trong kỷ nguyên số hiện nay, toàn bộ dữ liệu online, “dữ liệu sống” phải sẵn sàng phục vụ cho người dùng. Do vậy, vấn đề bảo vệ dữ liệu là một trong những yêu cầu quan trọng và bức thiết. Điểm yếu lớn nhất của các doanh nghiệp hiện nay là họ chưa xác định được mức độ ưu tiên về các loại tài sản số cần được bảo vệ.
+
+Đồng thời, thái độ thờ ơ trước những thông tin tấn công an ninh mạng và họ xem đó là câu chuyện của thế giới, không ảnh hưởng đến doanh nghiệp của chính họ. Từ đó, dẫn đến đầu tư cho nguồn lực an toàn thông tin chưa thật sự đầy đủ, đặc biệt, đầu tư cho đào tạo, đội ngũ kỹ thuật và các giải pháp an toàn an ninh mạng.
+
+Thời gian qua, để giải quyết được tình trạng gian lận tài khoản, Ngân hàng Nhà nước đã yêu cầu đến hết năm 2023 các tổ chức tín dụng đảm bảo tên, ngày tháng năm sinh, số căn cước công dân phải khớp với số trong cơ sở dữ liệu quốc gia về dân cư. Đồng thời yêu cầu các tổ chức tín dụng làm việc với các đơn vị được Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06) giới thiệu cung cấp các giải pháp đọc dữ liệu căn cước công dân gắn chip, việc này sẽ áp dụng từ đầu năm 2024.
+
+Đồng thời, Chính phủ vừa ra công điện, chỉ đạo Ngân hàng Nhà nước cùng các bộ ngành quyết tâm xử lý các tài khoản ảo, tài khoản không chính chủ. Cục cảnh sát hình sự Bộ Công an (C02) đã thống nhất cùng Ngân hàng Nhà nước làm việc với Bộ Thông tin và Truyền thông để kết hợp, đối chiếu chủ của SIM và chủ của tài khoản có liên quan đến số điện thoại sử dụng đăng ký mobile app. Trường hợp không đúng, Ngân hàng Nhà nước sẽ chỉ đạo ngưng cung cấp dịch vụ đối với chủ tài khoản mobile app.
+
+Tại hội thảo, PGS.TS Trần Minh Triết, Phó Chủ tịch chi hội VNISA phía Nam đã báo cáo khảo sát về hiện trạng an toàn thông tin khu vực phía Nam năm 2023. Khảo sát đã nhận được 251 ý kiến phản hồi từ các tổ chức tại khu vực phía Nam, tăng hơn 100 ý kiến so với năm 2022.
+
+Ngoài ra, kết quả khảo sát cho thấy, tín hiệu đáng mừng là hiện nay tỷ lệ kinh phí đầu tư cho an toàn thông tin có dấu hiệu khả quan hơn năm 2022. Cụ thể, tỷ lệ kinh phí cho an toàn thông tin trong tổng nguồn vốn đầu tư cho công nghệ thông tin như sau: 30% khảo sát cho biết chi phí này chiếm trên 5% chi phí công nghệ thông tin và vẫn còn khoảng 70% chi phí đầu tư cho an toàn thông tin chưa đến 5%.
+
+Hiện nay, mới chỉ có 69% tổ chức có đơn vị/bộ phận chuyên trách về an toàn thông tin. Trong số đó, số nhân sự dành cho bộ phận này chưa nhiều, khi 37% tổ chức chỉ có 1-2 người chuyên trách. Mặc dù hầu hết các đơn vị đã triển khai hoạt động nâng cao nhận thức an toàn thông tin nhưng vẫn chưa đạt hiệu quả như mong muốn và vấn đề khó nhất là nâng cao nhận thức cho người dùng.
+
+Bên cạnh đó, các tổ chức cũng có nhu cầu rất lớn về đào tạo, tập huấn an toàn thông tin. Cụ thể, khoảng 50% tổ chức cần triển khai các chương trình đào tạo cho nhóm chuyên gia quản lý an toàn thông tin. Trong đó, nhu cầu đào tạo quản lý an toàn thông tin (chiếm 49,1%); Đào tạo kỹ thuật phòng thủ, chống tấn công là 48,3%; Đào tạo các kỹ thuật bảo vệ an toàn hệ thống và ứng dụng chiếm 51,3%; Nhóm chuyên gia kỹ thuật kiểm tra, đánh giá an toàn thông tin đều có nhu cầu lớn ở mức 53,2%. Đáng chú ý, 47% khảo sát cho biết, các tổ chức có dành chi phí cho kế hoạch đào tạo và tập huấn. Trong đó, 17% tổ chức sẵn sàng đáp ứng mức chi phí này từ 100 triệu đồng trở lên.
+
+Ngoài ra, việc tuyên truyền, phổ biến nâng cao nhận thức của người sử dụng về an toàn thông tin cũng đã được chú trọng so với trước đây, khi có 92% tổ chức cho biết, đã thực hiện vấn đề này. Việc tuyên truyền, phổ biến chủ yếu thông qua các hình thức như: Đào tạo nâng cao nhận thức tập trung (43%); Đưa việc bảo đảm an toàn thông tin vào các quy định chung của tổ chức (51%); Nâng cao nhận thức về an toàn thông tin cho cán bộ nhân viên (61%).
+
+Tuy nhiên, theo các tổ chức, cần đẩy mạnh hơn việc tuyên truyền, nâng cao nhận thức thông qua hình thức tập huấn xử lý sự cố an toàn thông tin.

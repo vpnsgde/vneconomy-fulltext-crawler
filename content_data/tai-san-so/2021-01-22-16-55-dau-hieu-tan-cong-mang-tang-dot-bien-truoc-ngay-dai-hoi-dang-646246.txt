@@ -1,0 +1,27 @@
+Trong thông tin vừa phát ra về việc triển khai công tác an ninh mạng bảo vệ Đại hội đại lần thứ XIII của Đảng, Bộ Công an cho biết, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao của Bộ ghi nhận dấu hiệu gia tăng đột biến về tần suất, quy mô, số lượng các đợt tấn công mạng nhằm vào Việt Nam.
+
+Trong đó nhất là các cơ quan trọng yếu, tập đoàn kinh tế, tài chính quan trọng với phương thức, thủ đoạn tinh vi, nguy hiểm, nhằm chiếm đoạt thông tin, tài liệu nội bộ, tài liệu bí mật nhà nước, phát tán thông tin xấu, độc.
+
+Thống kê của Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao cho thấy, một số phương thức, thủ đoạn tấn công phổ biến nhất hiện nay là: câu nhử (Phishing); khai thác lỗ hổng bảo mật trên diện rộng (mass scan, mass exploit); tấn công thông qua thiết bị USB, tấn công thay đổi giao diện.
+
+Theo đó, thủ đoạn tấn công câu nhử là hình thức tấn công tinh vi và nguy hiểm nhất, các nhóm tin tặc quốc tế thường tán phát mã độc qua thư điện tử; triệt để sử dụng các "mồi nhử" là những tệp tin chứa nội dung liên quan Đại hội Đảng, đặc biệt là những thông tin không chính thống về phương án nhân sự cấp cao nhằm thu hút sự chú ý của cán bộ, đảng viên. Trên thực tế, các tệp tin đính kèm trong thư điện tử được nhúng mã độc, khi được mở, mã độc sẽ được kích hoạt, từ đó tin tặc kiểm soát hoàn toàn máy tính, thiết bị điện tử.
+
+Để mở rộng phạm vi kiểm soát, thu thập thông tin, một số mã độc có tính năng tự lây nhiễm vào các thiết bị lưu trữ ngoài để tìm cơ hội xâm nhập hệ thống mạng nội bộ, không kết nối internet, tự động thu thập dữ liệu, bí mật gửi về các máy chủ lưu trữ ở nước ngoài.
+
+Bộ Công an cho biết, đối với các hệ thống có kết nối Internet, tin tặc tấn công rà quét, khai thác lỗ hổng bảo mật trên diện rộng (chiếm 17%), nhắm trực tiếp vào các Cổng thông tin điện tử nội bộ, các thiết bị mạng chuyên dụng của các cơ quan; tạo bàn đạp xâm nhập vào các hệ thống mạng nội bộ. Các đối tượng tin tặc thường khai thác lỗ hổng bảo mật trên diện rộng nhắm vào các phần mềm dịch vụ, thiết bị mạng có kết nối trực tiếp với internet của các cơ quan, đơn vị.
+
+Thông qua kiểm soát các hệ thống, thiết bị này, các nhóm tin tặc tạo bàn đạp tấn công, xâm nhập, chui sâu vào hệ thống mạng nội bộ của các cơ quan, tổ chức.
+
+Các đối tượng lợi dụng sơ hở trong công tác quản lý các Cổng thông tin điện tử chèn các thông tin xấu độc, sai sự thật, gây hoang mang trong dư luận. Thông qua tính năng "Hỏi đáp trực tuyến", "Phản hồi", "Lấy ý kiến", "Thảo luận". Chỉ tính riêng từ tháng 12/2020 đến nay, phát hiện ít nhất 90 bài viết có nội dung xấu độc đã bị các đối tượng đăng tải lên các cổng thông tin điện tử của cơ quan Đảng, Nhà nước (tên miền .gov.vn).
+
+Đặc biệt trong thời gian gần đây, các nhóm tin tặc thay vì tấn công trực tiếp vào nạn nhân, chúng chuyển hướng tấn công gián tiếp, kiểm soát các đơn vị chuyên cung cấp các phần mềm, giải pháp công nghệ thông tin đặc thù phục vụ cho các cơ quan Đảng, Nhà nước; từ đó, lợi dụng chính cơ sở hạ tầng của các đơn vị này để tiếp tục mở rộng tấn công, xâm nhập vào các cơ quan trọng yếu. Đây là phương thức, thủ đoạn tấn công tinh vi, đặc biệt nguy hiểm và khó phát hiện, ngăn chặn, đang trở thành một xu hướng tấn công nổi bật.
+
+Trước diễn biến phức tạp của hoạt động tấn công mạng, đặc biệt là trong thời gian diễn ra Đại hội đại biểu toàn quốc lần thứ XIII của Đảng, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao khuyến cáo một số biện pháp cơ bản để phòng ngừa.
+
+Cụ thể với người sử dụng thông thường: (1) Không mở bất kỳ liên kết hay tập tin nào từ khi chưa xác định rõ nguồn gốc. Chỉ sử dụng các bộ cài đặt phần mềm, ứng dụng chính thống; không tải và cài đặt các phần mềm, ứng dụng không rõ nguồn gốc; (2) Sử dụng chương trình tìm diệt mã độc, rà quét các thiết bị lưu trữ như USB, các tập tin nghi ngờ. Không truy cập vào các trang mạng có nội dung xấu, đồi trụy (các trang này đều chứa mã độc), các tài liệu không rõ nguồn gốc để tránh nguy cơ bị nhiễm mã độc.
+
+Với quản trị hệ thống, lực lượng chuyên trách về an toàn, an ninh mạng: kịp thời cập nhật các bản vá lỗi của hệ điều hành, ứng dụng, thiết bị mạng; định kỳ rà soát hệ thống thông tin để kịp thời phát hiện các dấu hiệu bị xâm nhập, sao lưu dữ liệu hệ thống cơ sở dữ liệu quan trọng để kịp thời khắc phục nếu bị tấn công; siết chặt các chính sách bảo mật của hệ thống, thiết bị tường lửa.
+
+Đối với các cơ quan, tổ chức thuộc hệ thống chính trị: tổ chức phân loại tài sản thông tin của cơ quan, tổ chức; bố trí lực lượng chuyên trách; giải pháp giám sát, bảo đảm an toàn, an ninh mạng tương xứng; ban hành các quy trình, quy chế quản lý, sử dụng chặt chẽ, tuân thủ các quy định của pháp luật về an toàn, an ninh mạng, bảo vệ bí mật nhà nước và khuyến cáo của cơ quan chức năng; có chính sách quản lý chặt chẽ các thiết bị ngoại vi (không sử dụng chung thiết bị USB giữa các máy tính trong hệ thống mạng nội bộ và các máy tính có kết nối Internet), kết nối Internet, đặc biệt là các hệ thống mạng nội bộ, lưu trữ bí mật nhà nước.
+
+Với chủ quản hệ thống thông tin quan trọng về an ninh quốc gia, cần phối hợp chặt chẽ với lực lượng an ninh mạng trong thẩm định, kiểm tra, đánh giá an ninh mạng; sẵn sàng phương án ứng phó sự cố an ninh mạng, bố trí lực lượng trực bảo đảm an ninh mạng cho các hệ thống thông tin quan trọng về an ninh quốc gia; kịp thời thông báo cho Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an (SĐT: 0338.897.798) nếu phát hiện hoạt động tấn công mạng để kịp thời xử lý, ngăn chặn.

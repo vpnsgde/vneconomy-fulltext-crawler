@@ -1,0 +1,21 @@
+Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (Bộ Công an) vừa phối hợp Công an tỉnh Nam Định triệt xóa thành công nhóm đối tượng sản xuất, phát tán mã độc trên không gian mạng nhằm mục đích chiếm đoạt tài khoản cá nhân, dữ liệu người dùng tại Việt Nam và các quốc gia trên thế giới, bắt giữ 22 đối tượng.
+
+Ban chuyên án đã triển khai đồng loạt 8 mũi trinh sát tại 3 địa phương là TP.HCM, TP. Hà Nội và tỉnh Nam Định bắt giữ 22 đối tượng có liên quan trong đường dây. Tang vật thu giữ gồm: 4 laptop, 23 bộ máy tính, 20 điện thoại, 2 USB, 5 xe ô tô, 1 súng bắn hơi và 2 tỷ đồng tiền mặt cùng nhiều tài liệu, giấy tờ khác có liên quan.
+
+Trước đó, ngày 17/4, Cơ quan Cảnh sát điều tra (Công an tỉnh Nam Định) có quyết định trưng cầu giám định gửi Cục An toàn thông tin (Bộ Thông tin và truyền thông) với kết quả: các mẫu gửi giám định có chứa các tập tin mã độc.
+
+Theo hồ sơ vụ án, đối tượng cầm đầu, cung cấp mã độc là Đặng Đình Sơn (sinh năm 1993) đã mua mã nguồn mã độc có chức năng đánh cắp thông tin tài khoản người dùng Facebook trên một diễn đàn mạng xã hội với giá khoảng 30 triệu đồng.
+
+Cụ thể, Sơn dùng mã độc đánh cắp để chiếm quyền quản trị 2 trang Fanpage có tên “Art bay AI” và “Evoto Studio”. Sau đó, Sơn sử dụng 2 trang này để đăng tải các bài viết có nội dung giả mạo về tạo hình ảnh đẹp bằng trí tuệ nhân tạo AI hay Chat GPT với mục đích thu hút sự chú ý của người dùng mạng xã hội; để họ tải về, cài đặt trên thiết bị điện tử.
+
+Khi mã độc xâm nhập vào thiết bị điện tử của người dùng Facebook sẽ âm thầm thu thập các thông tin người dùng rồi chuyển về máy chủ do Đặng Đình Sơn quản lý. Từ đây, Sơn đặt lệnh cho máy chủ phân chia ra 5 nhóm Telegram do Sơn cài đặt, quản lý với hàng chục đối tượng trú tại TP.HCM, TP. Hà Nội và tỉnh Nam Định.
+
+Các đối tượng trong 5 nhóm Telegram được phân chia nhiệm vụ cụ thể, rõ ràng. Và 5 nhóm Telegram này cùng nhau thực hiện hành vi chiếm quyền sử dụng tài khoản mạng xã hội bán những tài khoản Facebook có giá trị cao để thu lợi nhuận, còn tài khoản Facebook có giá trị ngưỡng thấp thì được các đối tượng sử dụng để chạy quảng cáo như quần, áo… trên các sàn thương mại điện tử. Sau đó, các đối tượng ăn chia lợi nhuận.
+
+Kết quả đấu tranh ban đầu, các đối tượng đã chiếm quyền khoảng 25.000 tài khoản Business Manager trên Facebook có giá trị cao của cá nhân, doanh nghiệp trong nước và các quốc gia trên thế giới; thu lời bất chính khoảng 90 tỷ đồng.
+
+Ngày 23/4, Cơ quan Cảnh sát điều tra (Công an tỉnh Nam Định) đã khởi tố vụ án, khởi tố bị can với 20 đối tượng. Trong đó, khởi tố bị can Đặng Đình Sơn về tội “Sản xuất, mua bán, trao đổi hoặc tặng cho công cụ, thiết bị, phần mềm để sử dụng vào mục đích trái pháp luật” và “Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác”; khởi tố 19 bị can khác về tội “Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác”.
+
+Hiện, Cơ quan Cảnh sát điều tra (Công an tỉnh Nam Định) đang tiếp tục phối hợp với Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (Bộ Công an) và các đơn vị, địa phương liên quan điều tra, mở rộng vụ án, xử lý nghiêm các đối tượng theo quy định của pháp luật.
+
+Được biết, sáng 6/5, tại Hội nghị giao ban công tác Công an tháng 5/2024, Công an tỉnh Nam Định đã tổ chức công bố Thư khen của Thượng tướng Lương Tam Quang, Thứ trưởng Bộ Công an đã có thư khen gửi Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao; Giám đốc Công an tỉnh Nam Định về thành tích triệt phá nhóm đối tượng sản xuất, phát tán mã độc chiếm đoạt tài khoản, dữ liệu người dùng trên mạng xã hội.

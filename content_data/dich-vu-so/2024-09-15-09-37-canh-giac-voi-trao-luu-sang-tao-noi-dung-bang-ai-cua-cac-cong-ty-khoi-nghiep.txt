@@ -1,0 +1,31 @@
+Các nền tảng mạng xã hội hiện nay đang tràn ngập những hình ảnh, video do AI tạo ra trong bối cảnh các nhà sáng tạo nội dung tìm cách tăng lượt xem và kiếm tiền từ các chính sách tiền thưởng từ lượt xem hoặc tiếp thị liên kết bên dưới các bài đăng.
+
+Một loạt các công ty khởi nghiệp AI mới như Faceless.video và Autoshorts.ai đang sẵn sàng tăng cường số lượng AI tổng hợp trên web. Những công ty này, cùng với hàng loạt đối thủ cạnh tranh như StoryShort.AI, cung cấp các sản phẩm tự động đăng nội dung do AI tạo lên các tài khoản mạng xã hội có tính phí.
+
+Tỷ lệ đầu ra dao động từ 3 video được đăng tự động một tuần đến 120 video mỗi tháng cho một tài khoản TikTok hoặc YouTube.
+
+Người đồng sáng lập Jacob Seeger chia sẻ với truyền thông rằng Faceless.video ra mắt cách đây chưa đầy một năm với mục tiêu tự động hóa toàn bộ quá trình trở thành người sáng tạo nội dung.
+
+Seeger cho biết: “Trước đây, mọi người thường phải mất rất nhiều thời gian để tìm hiểu cách chỉnh sửa video, tìm kiếm nội dung, hình ảnh hay video liên quan thì giờ đây, về cơ bản, nền tảng này sẽ xử lý tất cả những việc đó cho bạn”.
+
+Công ty yêu cầu người dùng chọn chủ đề cho chuỗi video hàng ngày của họ, từ những câu chuyện từ kinh dị cho đến truyền cảm hứng, được thiết kế để thành một series dưới dạng video để đăng lên mạng xã hội. Trong một ví dụ được công ty chia sẻ, một người sáng tạo đã đăng một video về chủ đề tôn giáo thu hút gần 400.000 lượt xem trên TikTok. Người sáng tạo tương tự cũng đăng một loạt video do AI tạo trên tài khoản của họ cảnh báo hành vi lừa đảo và cũng nhận về lượt xem “khủng” tương tự.
+
+Sau khi người dùng chọn xong chủ đề, công ty sẽ tạo các video theo kịch bản một câu chuyện, có lồng tiếng, nhạc nền và các hình ảnh do AI tạo ra đi kèm được định dạng để đủ điều kiện kiếm tiền trên TikTok hoặc YouTube. Công ty tính phí 30 USD một tháng cho các video do AI tạo ra hàng ngày và 45 USD để đăng hai lần một ngày.
+
+Seeger cho biết, nhóm người dùng Faceless.video lớn nhất đang tìm cách kiếm tiền thông qua chương trình phần thưởng hoặc liên kết liên kết của TikTok, mặc dù cũng có một số người dùng khác chỉ muốn một công cụ dễ dàng để phát triển tài khoản mạng xã hội của họ. Công ty cho biết họ có khoảng 10.000 người dùng hoạt động hàng ngày.
+
+Tự động đăng bài kiếm thu nhập là chủ đề nóng đã lan rộng khắp nền kinh tế kỹ thuật số khi mọi người tìm kiếm một nghề tay trái như sáng tạo nội dung hoặc bán hàng trung gian để kiếm thêm thu nhập. Điểm thú vị của video không lộ mặt là người dùng có thể ẩn danh, nghĩa là không cần phải cho đồng nghiệp hoặc người quen biết rằng bạn đang đăng video hai lần một ngày trên TikTok.
+
+Tìm kiếm nhanh "video vô danh" trên YouTube, Reddit và TikTok sẽ tìm thấy rất nhiều video và các cuộc thảo luận về cách sử dụng AI tổng hợp để kiếm tiền trên mạng xã hội. Chương trình phần thưởng dành cho người sáng tạo của TikTok có thể khá sinh lợi đối với một số người dùng, nhưng nó thường yêu cầu người sáng tạo tạo ra hàng triệu lượt xem trên video để đóng góp một cách có ý nghĩa vào thu nhập của họ.
+
+Tuy nhiên, hiện vẫn còn quá sớm để khẳng định những video vô danh này có thực sự mang lại doanh thu đáng kể hay hay chỉ là chiêu trò quảng cáo.
+
+Sanket Shah, Giám đốc điều hành của nền tảng tạo video Invideo, nói với BI: “Quan điểm của tôi là YouTube, TikTok, Instagram, họ sẽ không cho phép những nội dung từ AI tự động lên xu hướng để có nhiều lượt xem”. Nền tảng của Shah cung cấp một loạt công cụ tạo AI cho người sáng tạo, nhưng đặc biệt không cung cấp tính năng đăng bài tự động, điều mà ông cho là không có ý nghĩa.
+
+Ông nói: “Nó phụ thuộc vào chiến lược, sự sáng tạo và tính nhất quán và tôi không nghĩ rằng thế giới cần nội dung tự động”.
+
+Nền tảng kiếm tiền dành cho người sáng tạo Spotter đang đặt cược tương tự rằng việc trang bị cho người sáng tạo các công cụ AI là con đường tốt nhất phía trước khi cố gắng cạnh tranh trên mạng xã hội với làn sóng video do AI tạo ra.
+
+Tuần trước, công ty đã công bố một công cụ AI mới để tạo ra các ý tưởng video mà người đứng đầu sản phẩm của họ cho biết nhằm giúp những người sáng tạo vượt lên dẫn đầu trong làn sóng nội dung AI vô tận sắp ra mắt.
+
+Các nền tảng chính cũng đang sử dụng các công cụ AI tổng quát như một công cụ hỗ trợ sáng tạo nội dung. Chẳng hạn, TikTok cung cấp một bộ tính năng chỉnh sửa AI tổng quát thông qua ứng dụng anh em có tên CapCut.

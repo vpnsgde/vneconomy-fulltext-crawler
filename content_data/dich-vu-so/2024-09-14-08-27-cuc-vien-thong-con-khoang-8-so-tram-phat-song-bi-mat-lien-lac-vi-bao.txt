@@ -1,0 +1,31 @@
+Thông tin được đại diện Cục Viễn thông cung cấp tại họp báo thường kỳ tháng 9 của Bộ Thông tin và Truyền thông chiều ngày 13/9/2024.
+
+Bộ Thông tin và Truyền thông cho biết bão số 3 đã gây mất liên lạc tại 15 tỉnh, thành phố, với 6.285 trạm thu phát sóng di động bị ảnh hưởng do mất điện. Hiện các doanh nghiệp đã khắc phục được 4.012 vị trí trạm BTS, còn lại 2.273 trạm đang tiếp tục được khắc phục.
+
+Tính đến 15 giờ ngày 11/9, mưa lũ sau bão cũng là làm ảnh hưởng đến cơ sở hạ tầng viễn thông tại các tỉnh miền núi phía Bắc, khiến 995 vị trí trạm đang mất liên lạc.
+
+Chia sẻ về hoạt động ứng phó, khắc phục hạ tầng mạng lưới viễn thông sau bão, ông Nguyễn Phong Nhã, Phó Cục trưởng Cục Viễn thông, Bộ Thông tin và Truyền thông cho biết khi bão xảy ra, ở thời điểm các trạm phát sóng bị ảnh hưởng nhiều nhất, có những mạng đã mất trên 50% trạm phát sóng. Điều này gây ảnh hưởng, khó khăn cho công tác chỉ đạo điều hành, công tác ứng phó.
+
+Tuy vậy, trong quá trình khắc phục, các doanh nghiệp viễn thông đã triển khai quyết liệt chỉ đạo của Thủ tướng Chính phủ và lãnh đạo Bộ Thông tin và Truyền thông, dồn lực lượng từ các tỉnh không bị thiệt hại, tạo thành các nhóm khắc phục sự cố và ưu tiên việc khắc phục thông tin di động.
+
+Cùng với đó, các doanh nghiệp viễn thông đã điều các xe phát sóng di động, dùng đường truyền vệ tinh cho một số khu vực ưu tiên. Lãnh đạo Bộ Thông tin và Truyền thông cũng chỉ đạo nhà mạng chuẩn bị các xe phát sóng chuyên dùng, sẵn sàng phục vụ khi các tỉnh cần để thực hiện công tác cứu hộ, cứu nạn…
+
+Thời gian qua, các Sở Thông tin và Truyền thông đã phối hợp với Sở Công thương các địa phương để điều tiết nguồn cung ứng xăng dầu, đảm bảo các trạm BTS chính được ưu tiên cung cấp nhiên liệu. Cục Viễn thông cũng đã điều phối các nhà mạng chia sẻ sóng di động (roaming) để duy trì liên lạc cho người dân trong vùng bão.
+
+Ông Nguyễn Phong Nhã thông tin, đến nay, cơ bản mạng lưới viễn thông của các tỉnh đã khôi phục hoàn toàn, chỉ còn 8% số trạm bị mất liên lạc. Các doanh nghiệp viễn thông đang phấn đấu trong hôm nay, ngày mai (13 và 14/9) sẽ hoàn thành việc khắc phục sự cố các trạm phát sóng.
+
+Với số lượng trạm được khắc phục nhanh chóng sẽ đảm bảo cho việc ứng phó sự cố, tìm kiếm cứu nạn, khôi phục sản xuất kinh doanh của doanh nghiệp cũng như hoạt động đời sống hàng ngày của người dân, nhất là hoạt động cứu trợ người dân vùng lũ lụt.
+
+Sau khi khắc phục hậu quả của cơn bão số 3, Bộ Thông tin và Truyền thông sẽ có thống kê chi tiết về tình hình thiệt hại đối với mạng lưới viễn thông, đồng thời tổ chức rút bài học kinh nghiệm trong công tác khắc phục, ứng cứu với các sự cố thiên tai.
+
+Việc nhiều trạm phát sóng BTS bị chia cắt, mất điện, mất nguồn cung ứng xăng dầu do bão lụt là bài học kinh nghiệm cần rút ra sau cơn bão số 3. Điều này đòi hỏi các nhà mạng viễn thông cần xây các trạm BTS có khả năng chống chịu rủi ro thiên tai cấp độ 4.
+
+Theo đó, các trạm này có thể chịu gió cấp 15, hoạt động ổn định không cần xăng dầu trong 7 ngày, với đường truyền dẫn cáp quang và viba. Đây cũng sẽ là nơi người dân có thể đến để sạc pin điện thoại nhằm nối lại thông tin liên lạc.
+
+Bên cạnh đó, khi mưa bão lớn, tình trạng cây đổ khiến hạ tầng viễn thông (các tuyến cáp treo) bị ảnh hưởng. Vì vậy, các tuyến cáp cần được ngầm hóa để đảm bảo duy trì thông tin liên lạc tốt hơn…
+
+Chia sẻ về công tác kiểm soát tần số vô tuyến điện trong bão, ông Trần Mạnh Tuấn, Phó Cục trưởng Cục Tần số Vô tuyến điện thông tin, ngay khi Trung tâm Dự báo khí tượng thủy văn quốc gia thông báo về bão số 3 (bão Yagi) ở khu vực Biển Đông, Cục đã chỉ đạo các Trung tâm Tần số vô tuyến điện Khu vực tổ chức thực hiện công tác kiểm soát tần số, không để xảy ra can nhiễu, đảm bảo phục vụ tốt cho công tác phòng, chống thiên tai và tìm kiếm cứu nạn nói riêng cũng như công tác thông tin liên lạc, truyền thông nói chung.
+
+Cụ thể, đã tập trung kiểm soát trên các tần số phục vụ cho công tác chỉ đạo, điều hành phòng, chống thiên tai và tìm kiếm cứu nạn; Các tần số của đài thông tin duyên hải để phục vụ liên lạc giữa đài bờ với đài tàu biển, tàu cá; các tần số cho phát thanh, truyền hình, truyền thanh không dây phục vụ cho công tác thông tin, tuyên truyền; Các băng tần sử dụng trong mạng thông tin di động.
+
+Vì vậy đã không để xảy ra bất kỳ vụ việc can nhiễu nào gây ảnh hưởng đến hoạt động của các hệ thống thông tin vô tuyến ở các tần số phục vụ công tác phòng, chống thiên tai và tìm kiếm cứu nạn, thông tin liên lạc, truyền thông, Cục Tần số vô tuyến điện cho hay.

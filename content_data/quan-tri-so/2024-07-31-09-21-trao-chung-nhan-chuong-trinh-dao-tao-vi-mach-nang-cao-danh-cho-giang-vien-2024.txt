@@ -1,0 +1,15 @@
+Theo đó, nhóm 6 giảng viên được các trường đại học kỹ thuật cử đi tham gia đào tạo bao gồm: Đại học Bách Khoa TP.HCM, Đại học Công nghệ Thông tin TP.HCM, Đại học Khoa học Tự nhiên TP.HCM (Đại học Quốc Gia TP.HCM), Đại học Sư phạm Kỹ thuật TP.HCM, Đại học Lạc Hồng, Đại học Việt Đức.
+
+Chương trình được tổ chức từ ngày 3/4/2024 đến ngày 30/7/2024, mang đến cho các giảng viên cơ hội học tập và làm việc trực tiếp tại văn phòng của Synopsys với quyền tiếp cận, truy cập vào nguồn tài nguyên học thuật phong phú từ SARA (Synopsys Academic Research Alliance). Từ đó, các giảng viên sẽ xây dựng thành chương trình đào tạo, bài giảng chất lượng cao, bám sát thực tiễn để giúp sinh viên nâng cao trình độ trong tương lai.
+
+Ngoài ra, chương trình đều có sự đồng hành của nhóm kỹ sư chuyên nghiệp để hỗ trợ hướng dẫn sử dụng các công cụ tiên tiến và tài nguyên giảng dạy độc quyền. Các giảng viên hoàn toàn nắm vững các công nghệ, thành thạo sử dụng công cụ thiết kế vi mạch đồng thời thành công phát triển và nâng cấp các chương trình giảng dạy đại học ngành thiết kế vi mạch theo tiêu chuẩn công nghiệp.
+
+Cuối chương trình đào tạo, mỗi giảng viên sẽ xây dựng một khung chương trình đào tạo vi mạch chuyên sâu có sử dụng và có sự tinh chỉnh các tài liệu, bài giảng, bài lab phù hợp với nhu cầu công nghiệp và nâng cao chất lượng giảng dạy tại đơn vị. Những kết quả đạt được trong suốt quá trình này sẽ được áp dụng ngay trong việc giảng dạy và nghiên cứu tại các trường đại học ngay trong năm học 2024-2025.
+
+Phát biểu tại sự kiện, bà Angela Hwang, đại diện của Synopsys Academic Research Alliances (Hoa Kỳ) cho biết, tổ chức chương trình hợp tác đào tạo vi mạch chuyên nghiệp cho giảng viên các trường đại học kỹ thuật với mong muốn thúc đẩy đào tạo vi mạch chuyên nghiệp. Thông qua nhóm giảng viên và các chương trình đào tạo, Ban tổ chức kỳ vọng sẽ giúp hàng trăm sinh viên hằng năm, được tiếp cận được công nghệ mới, kiến thức thực tiễn để đáp ứng nhu cầu nhân lực chất lượng cao của doanh nghiệp.
+
+Ông Nguyễn Phúc Vinh, Giám đốc Kỹ thuật Cấp cao GTM Synopsys Việt Nam, cho biết, khác với chương trình đào tạo giảng viên Synopsys đã thực hiện vào năm 2022 – 2023, chương trình SCPUT 2024 tạo điều kiện để các giảng viên có thể nghiên cứu chuyên sâu vào một mảng thiết kế vi mạch chuyên biệt; liên tục làm việc và học hỏi cùng các chuyên gia của Synopsys khi xây dựng và phát triển các chương trình đào tạo đại học. Điều này giúp các giảng viên có cái nhìn sâu sắc hơn và nắm bắt được những kiến thức chuyên môn cần thiết để giảng dạy và nghiên cứu sâu tại các trường đại học.
+
+“Chúng tôi tin rằng việc cung cấp kiến thức chuyên sâu và kỹ năng thực tiễn cho các giảng viên trong việc hợp tác xây dựng các chương trình đào tạo thiết kế vi mạch chuyên nghiệp sẽ góp phần nâng cao chất lượng giáo dục và nghiên cứu trong lĩnh vực vi mạch tại Việt Nam”, ông Vinh cho hay.
+
+Dịp này, đại diện SARA Global đã trao Chứng nhận quốc tế của Synopsys dành cho 6 giảng viên tham gia khóa đào tạo. Với Bằng chứng nhận này, các giảng viên có thể tự tin để truyền đạt kiến thức và đào tạo kỹ năng sử dụng các công cụ thiết kế vi mạch cho sinh viên tại trường.

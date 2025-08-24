@@ -1,0 +1,27 @@
+Dự thảo Luật Dữ liệu do Bộ Công an chủ trì soạn thảo đang được lấy ý kiến góp ý rộng rãi. Luật này tác động lớn tới hoạt động của ngành ngân hàng trong bối cảnh chuyển đổi số hiện nay.
+
+Góp ý cho Dự thảo Luật, Ngân hàng Nhà nước đề nghị cơ quan soạn thảo cân nhắc quy định tại Khoản 2, Điểm a Điều 7 Dự thảo Luật: quy định đối với cá nhân và tổ chức khác “Được thu thập, tạo lập dữ liệu để phục vụ cho hoạt động của mình khi được chủ thể dữ liệu đồng ý”.
+
+Việc xây dựng, phát triển cơ sở dữ liệu tổng hợp quốc gia với dữ liệu gắn với con người và các dữ liệu tổng hợp từ các cơ sở dữ liệu quốc gia sẽ là trụ cột dữ liệu chính để tạo nền tảng cho phát triển Chính phủ số, thúc đẩy kinh tế số và hình thành xã hội số...
+
+Ngân hàng Nhà nước cho rằng nên quy định rõ không cần “chủ thể dữ liệu đồng ý” trong trường hợp thu thập, số hóa và tạo lập dữ liệu nhằm đảm bảo tuân thủ các quy định pháp luật chuyên ngành.
+
+Hoặc Ngân hàng Nhà nước đề xuất bổ sung quy định: (i) về các trường hợp được thu thập, tạo lập dữ liệu mà không cần chủ thể dữ liệu đồng ý (Hiện tại Nghị định 13/2024/NĐ-CP cũng đưa ra một số trường hợp được xử lý dữ liệu cá nhân mà không cần chủ thể dữ liệu cá nhân đồng ý); (ii) đối với trường hợp tổ chức thu thập, tạo lập dữ liệu không trực tiếp thu thập dữ liệu từ chủ thể dữ liệu mà thông qua bên thứ ba thì xác định bên nào thu thập có trách nhiệm lấy sự đồng ý của chủ thể dữ liệu.
+
+Ngân hàng Nhà nước nêu ví dụ: trường hợp doanh nghiệp vay vốn của ngân hàng và cung cấp cho ngân hàng các thông tin về người đại diện theo pháp luật, kế toán, khách hàng... của doanh nghiệp. Trường hợp này, ngân hàng không thể lấy ý kiến đồng ý của chủ thể dữ liệu mà chỉ có thể yêu cầu doanh nghiệp cam kết đã lấy sự đồng ý của chủ thể dữ liệu. Ngoài ra, có những dữ liệu không có chủ thể, dữ liệu công cộng thì không cần phải có sự đồng ý mới được thu thập, tạo lập.
+
+
+
+Theo Ngân hàng Nhà nước, do đặc thù hoạt động, trong một số trường hợp ngân hàng không thể lấy ý kiến đồng ý của chủ thể dữ liệu để phục vụ hoạt động tín dụng; ngoài ra, có những dữ liệu không có chủ thể, dữ liệu công cộng thì không cần phải có sự đồng ý mới được thu thập, tạo lập…
+
+Đối với góp ý này, Bộ Công an cho biết sẽ tiếp thu, điều chỉnh điểm b, khoản 2 Điều 7 như sau: “Được thu thập, tạo lập dữ liệu để phục vụ cho hoạt động phù hợp với quy định của pháp luật".
+
+Theo Ngân hàng Nhà nước, hiện nay có nhiều đơn vị có thể cung cấp hạ tầng công nghệ hiện đại theo tiêu chuẩn quốc tế hoặc tiêu chuẩn quy định chung do Chính phủ hoặc Bộ Công an đề xuất/xây dựng. Bên cạnh đó, hạ tầng của Trung tâm dữ liệu quốc gia cũng sẽ phải do các doanh nghiệp công nghệ thông tin chuyên nghiệp xây dựng.
+
+Vì vậy, Ngân hàng Nhà nước đề nghị cân nhắc bỏ nội dung quy định cơ sở dữ liệu chuyên ngành được lưu trữ và xử lý dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia (Khoản 3 Điều 10) mà đối với các cơ sở dữ liệu chuyên ngành chỉ nên khuyến khích lưu trữ và xử lý dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia. Hoặc chỉnh sửa thành “3. Cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành được lưu trữ và xử lý dữ liệu trên hạ tầng của Trung tâm dữ liệu quốc gia hoặc hạ tầng của đơn vị đủ tiêu chuẩn”.
+
+Theo Ngân hàng Nhà nước, việc sửa đổi này tạo sự chủ động cho các đơn vị, đồng thời hỗ trợ Bộ Công an trong việc giảm tải khối lượng công việc khá lớn khi thực hiện việc lưu trữ và xử lý dữ liệu tại Trung tâm dữ liệu quốc gia. Bộ Công an cho biết sẽ tiếp thu, chỉnh lý tại Dự thảo Luật.
+
+Để tránh việc lạm quyền gây khó khăn cho hoạt động của cá nhân, tổ chức, Ngân hàng Nhà nước đề nghị cân nhắc bổ sung quy định cơ quan nhà nước, cá nhân ký văn bản yêu cầu cung cấp dữ liệu phải chịu trách nhiệm về việc yêu cầu cung cấp dữ liệu phù hợp với quy định pháp luật.
+
+Ngân hàng Nhà nước cũng đề nghị cân nhắc quy định: “Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2026.”, lý do là đối với việc ban hành Luật Dữ liệu và các quy định, hướng dẫn thi hành đi kèm, có thể đối mặt nhiều vấn đề và thách thức khi thi hành các quy trình và thực tiễn bảo vệ dữ liệu mới. Do đó, các cơ quan Chính phủ, tổ chức bao gồm cả doanh nghiệp lớn nhỏ và các chủ thể dữ liệu sẽ cần có thời gian để điều chỉnh theo sự thay đổi. Vì vậy, Ngân hàng Nhà nước đề nghị cơ quan soạn thảo đưa ra một giai đoạn chuyển tiếp trong vòng 3 năm từ khi Luật Dữ liệu có hiệu lực. Điều này sẽ tạo thời gian để ban hành các quy định và hướng dẫn thi hành, đồng thời cho phép các tổ chức đủ thời gian điều chỉnh hệ thống và quy trình để tuân thủ Luật Dữ liệu.

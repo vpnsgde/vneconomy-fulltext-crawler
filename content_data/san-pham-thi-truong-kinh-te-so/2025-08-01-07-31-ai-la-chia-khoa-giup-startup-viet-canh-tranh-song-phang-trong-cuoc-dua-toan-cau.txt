@@ -1,0 +1,31 @@
+Hệ sinh thái khởi nghiệp Việt Nam đang phát triển nhanh chóng, thuộc nhóm năng động hàng đầu Đông Nam Á. Trong bối cảnh Nghị quyết 57-NQ/TW xác định khởi nghiệp đổi mới sáng tạo là động lực then chốt cho tăng trưởng bền vững, việc đầu tư vào thế hệ trẻ, đặc biệt là sinh viên trở nên cấp thiết. Tuy nhiên, để biến tiềm năng thành hiện thực, các startup Việt vẫn phải đối mặt với nhiều thách thức về công nghệ, mô hình kinh doanh và năng lực vận hành.
+
+Theo TS. Trần Ngọc Tuấn, Phó Hiệu trưởng Trường Đại học FPT, tỷ lệ khởi nghiệp thành công hiện chỉ khoảng 5%. “Dù tỷ lệ này còn khiêm tốn, nhưng điều đó không có nghĩa là chúng ta nên dừng lại. Ngược lại, càng cần hành động mạnh mẽ hơn để tạo ra nền tảng vững chắc cho thế hệ trẻ, từ đó góp phần thúc đẩy phát triển doanh nghiệp và xã hội”, ông Tuấn nhấn mạnh.
+
+Trả lời cho chuỗi câu hỏi: "Sự khác biệt giữa sinh viên ở Stanford, MIT và sinh viên FPT hay các doanh nhân Việt Nam là gì? Có phải do nền tảng, chương trình đào tạo hay giảng viên?", ông Louis Nguyễn (Shark Louis), Chủ tịch Công ty Quản lý Quỹ Đầu tư Saigon Asset Management (SAM), cho biết ở các trường hàng đầu thế giới, họ có một quy trình hiệu quả giúp đưa ý tưởng thành doanh nghiệp.
+
+Bên cạnh đó, nhiều chương trình hỗ trợ khởi nghiệp, quỹ đầu tư mạo hiểm từ các trường như Harvard, MIT, hay các chương trình tại Đức. Tất cả đều nhằm giúp sinh viên khởi nghiệp thông qua quy trình phát triển sản phẩm lặp đi lặp lại, được cố vấn liên tục bởi các nhà sáng lập, nhà đầu tư giàu kinh nghiệm; đồng thời được hỗ trợ về hồ sơ, kỹ năng giao tiếp, khả năng tiếp cận vốn và tham vọng phát triển.
+
+“Cá mập” Louis Nguyễn nhận định với sự phát triển mạnh mẽ của AI, kết hợp với cố vấn, nhà đầu tư, nhà sáng lập có kinh nghiệm và nguồn vốn, việc san bằng khoảng cách khác biệt giữa startup Việt và thế giới hoàn toàn khả thi.
+
+"AI cho phép người dùng tiếp cận lượng kiến thức khổng lồ, phân tích dữ liệu nhanh chóng và tạo ra những giải pháp đột phá bằng bất kỳ ngôn ngữ nào, từ đó sinh viên và doanh nghiệp khởi nghiệp tại Việt Nam hoàn toàn có thể bắt kịp tư duy và năng lực cạnh tranh với bạn bè quốc tế", Shark Louis nhấn mạnh.
+
+Mặt khác, TS. Michael Liebmann (chuyên gia AI người Đức) cho rằng Việt Nam có nguồn nhân lực khởi nghiệp giàu tiềm năng. Đồng thời, điều quan trọng tạo nên sự khác biệt không phải là có công nghệ trong tay, mà là cách con người sử dụng nó để tạo ra giá trị.
+
+“Những người biết khai thác AI đúng cách sẽ có năng lực vượt bậc, AI không chỉ là một công cụ tra cứu, mà là một “bộ não” nhân tạo có khả năng thực hiện những tác vụ phức tạp, giúp các nhà sáng lập tăng cường năng lực một cách đáng kể”, TS. Michael Liebmann cho biết.
+
+Theo TS. Michael Liebmann, việc tích hợp AI vào mọi giai đoạn của quá trình khởi nghiệp giúp các nhà sáng lập xây dựng doanh nghiệp một cách thông minh hơn, nhanh hơn và sẵn sàng để mở rộng quy mô quốc tế.
+
+Chính từ tầm nhìn này, ý tưởng về việc sử dụng trí thông minh bằng AI vào quá trình đào tạo khởi nghiệp đã ra đời. Mục tiêu là trang bị cho thế hệ trẻ Việt Nam những công cụ và tư duy cần thiết để cạnh tranh trên sân chơi toàn cầu.
+
+Ngày 31/7, Dream Lab –  công ty với vai trò như "nhà kiến tạo doanh nghiệp" (venture builder) ứng dụng AI, với mô hình kết hợp giữa nhà đồng sáng lập, cố vấn và đầu tư khởi nghiệp chính thức ra mắt. Dream Lab được đồng sáng lập bởi ông Louis Nguyễn, Chủ tịch Công ty Quản lý Quỹ Đầu tư Saigon Asset Management (SAM) và TS. Michael Liebmann.
+
+Lấy cảm hứng từ các mô hình thành công tại Harvard, Stanford và MIT, Dream Lab xây dựng một chương trình đào tạo chuyên sâu, mô phỏng các quy trình tăng tốc hiệu quả nhất. Đồng thời, DreamLab xây dựng chương trình tập trung vào việc chuyển giao kiến thức khởi nghiệp ứng dụng AI, kỹ năng vận hành doanh nghiệp và tạo cơ hội đầu tư thực chất cho các nhóm tiềm năng.
+
+“Dream Lab được xây dựng để lấp đầy khoảng trống giữa tiềm năng khởi nghiệp mạnh mẽ của giới trẻ Việt Nam và lộ trình bài bản hướng đến thành công như tại các trường đại học hàng đầu thế giới”, ông Louis Nguyễn chia sẻ.
+
+Cùng ngày, Dream Lab và Trường Đại học FPT (FPTU) đã chính thức ký kết Biên bản Ghi nhớ hợp tác (MOU), khởi động một sáng kiến đột phá nhằm xây dựng hệ sinh thái khởi nghiệp năng động, thực tiễn, đẳng cấp quốc tế dành cho sinh viên ngay tại Việt Nam.
+
+Chương trình hợp tác sẽ tập trung vào việc triển khai “Next Unicorn Talent Studio” (N.U.T.S.), một chương trình khởi nghiệp đổi mới sáng tạo dự kiến thu hút hơn 1.000 sinh viên mỗi năm.
+
+Theo ông Trần Tuấn Anh, Phó Giám đốc Phân hiệu Trường Đại học FPT tại TP.HCM, sự hợp tác này tạo điều kiện để sinh viên FPTU và giới trẻ Việt Nam trải nghiệm khởi nghiệp thực tế, góp phần phát triển sinh viên trở thành những công dân toàn cầu có khả năng kiến tạo, đổi mới.

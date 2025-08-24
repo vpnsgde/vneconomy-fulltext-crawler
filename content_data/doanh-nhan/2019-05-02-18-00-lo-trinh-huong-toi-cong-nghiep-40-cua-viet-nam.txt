@@ -1,0 +1,43 @@
+Trong hơn 30 năm qua, quá trình công nghiệp hóa tại Việt Nam đã đạt được tốc độ cao trong nhiều lĩnh vực kinh tế, bao gồm sản xuất, điện tử, dệt may, xây dựng, du lịch và khai khoáng. Giờ đây, Việt Nam đã trở thành điểm đến ưa thích của các tập đoàn đa quốc gia đang đầu tư nhiều tỷ đô la vốn FDI vào các trung tâm sản xuất.
+
+Lực lượng lao động trẻ, mức độ ứng dụng công nghệ ngày càng cao của người tiêu dùng và tầm nhìn chiến lược của chính phủ trong việc đưa Việt Nam trở thành một đất nước công nghiệp hiện đại vào năm 2030 là một số động lực chính tạo đà cho sự phát triển này.
+
+Xương sống của một quốc gia có thu nhập cao là lĩnh vực sản xuất tiên tiến, và sáng tạo công nghệ là yêu cầu thiết yếu để thúc đẩy quá trình chuyển đổi số trong ngành kinh tế này.
+
+Do đó, Công nghiệp 4.0 trở thành một nhân tố quan trọng, đồng thời là lộ trình để Việt Nam tiến vào thời kỳ mới của phát triển kinh tế xã hội, thịnh vượng và tăng trưởng toàn diện.
+
+Chất xúc tác cho ngành sản xuất thế hệ mới
+
+Công nghiệp 4.0 sẽ chuyển đổi các quy trình sản xuất cũ thông qua ứng dụng công nghệ truyền thông không dây và IoT (Internet vạn vật) công nghiệp tiên tiến. Khái niệm nhà máy kết nối sẽ trở thành một chuẩn mực mới, trong đó các cỗ máy và người lao động được kết nối bằng công nghệ không dây có thể ngay lập tức thu thập, phân tích và phân phối dữ liệu theo thời gian thực. Một nền tảng kỹ thuật số mạnh mẽ sẽ tạo ra nhiều cải tiến đột phá về năng suất và hiệu quả làm việc.
+
+Sau Công nghiệp 4.0, những lợi ích mà lĩnh vực sản xuất của Việt Nam sẽ thu được sẽ tăng lên rất nhiều lần và được thể hiện hết sức rõ ràng ở nhiều khâu của chuỗi giá trị. Môi trường làm việc an toàn và lành mạnh là một trong những lợi ích rõ nét nhất. Với sự hỗ trợ của các cảm biến IoT được triển khai trên phạm vi toàn bộ tổ chức, các tổ chức có thể đo nhiệt độ, độ ẩm, nồng độ CO2 và phát hiện ô nhiễm không khí theo thời gian thực, qua đó cải thiện đáng kể môi trường làm việc.
+
+Việc theo dõi và vận chuyển những thiết bị và sản phẩm có giá trị giữa những địa điểm sản xuất lớn và phức tạp thường là rất khó khăn. Các phương tiện tự lái được kết nối có thể vận chuyển các linh kiện/thành phần từ nhà kho đến dây chuyển sản xuất, liên lạc tức thời với phòng điều khiển để tối ưu hóa đường đi, tiết kiệm thời gian và loại bỏ lãng phí tiềm ẩn. Với sự hỗ trợ của các công cụ AR (thực tại ảo tăng cường), một kỹ sư có thể giúp nhân viên kỹ thuật hiện trường phát hiện sự cố trong dây chuyền sản xuất và truy nguyên sự cố đó từ xa theo một phương thức có hiệu quả cao về thời gian.
+
+Các công ty có thể phân tích những gián đoạn hoạt động tiềm ẩn, dựa trên số liệu về lưu lượng giao thông và thời tiết theo thời gian thực cũng như là phát triển những tuyến đường và kế hoạch vận chuyển mới cho toàn bộ mạng lưới vận tải một cách đồng thời.
+
+Các đội xe tải tự lái sẽ được sử dụng với năng lực chuyên chở lớn hơn cho việc vận tải hàng hóa quy mô lớn trên phạm vi toàn quốc. Công nghiệp 4.0 sẽ giúp các công ty trở nên bền vững, nhờ lợi ích của việc tối ưu hóa mức độ tiêu thụ năng lượng và giảm rác thải.
+
+Hoạt động triển khai 5G có ý nghĩa quan trọng
+
+Với ngành sản xuất thông minh và sáng tạo, số lượng thiết bị được kết nối trên mặt bằng nhà máy sẽ tăng lên, dẫn đến yêu cầu thu thập và phân tích dữ liệu quy mô lớn, theo thời gian thực, tự động hóa thông minh và hoạt động sản xuất thích ứng.
+
+Theo Báo cáo Di động mới nhất của Ericsson, đến năm 2023, số lượng kết nối IoT di động được dự báo sẽ đạt con số 3,5 tỷ trên toàn thế giới. Để đáp ứng mức độ gia tăng đột biến về nhu cầu mà không gây ra độ trễ lớn hoặc các điểm nghẽn, cần phải có một kết nối không dây tin cậy với khả năng đáp ứng yêu cầu tương lai.
+
+Mặc dù công nghệ LTE có thể hỗ trợ các hệ thống hiện nay, nhu cầu ngày càng cao về độ trễ nhỏ hơn sẽ sớm đòi hỏi kết nối 5G. Sự phát triển từ môi trường mạng hiện tại thành một cơ sở hạ tầng 5G toàn diện sẽ đảm bảo độ trễ siêu thấp, kết nối tốc độ cao và băng thông lớn hơn để triển khai các ứng dụng công nghệ cao.
+
+Ngoài ra, yêu cầu cần thiết là phải xây dựng các thực tiễn theo tiêu chuẩn về các giao thức và bảo mật dữ liệu. Công nghệ 5G mang đến những giải pháp để đáp ứng yêu cầu đó bằng các chức năng tiêu chuẩn, bảo mật tích hợp cũng như là các khái niệm về môi trường điện toán đám mây phân tán và phân vùng mạng.
+
+Nhiệm vụ trước mắt
+
+Một nghiên cứu mới đây của Bộ Công Thương cho thấy, khoảng 98% các công ty trong lĩnh vực sản xuất chỉ mới bắt đầu chuẩn bị cho Công nghiệp 4.0. Trong một báo cáo năm 2016 của Diễn đàn Kinh tế Thế giới, Việt Nam xếp thứ 79 trong số 139 quốc gia theo tiêu chí chỉ số sẵn sàng về kết nối mạng (networked readiness index - NRI).
+
+Chính phủ đã công bố chương trình hỗ trợ mạnh mẽ để thúc đẩy tăng trưởng kinh tế, sự sẵn sàng về công nghệ với các kế hoạch khai trương Trung tâm Đổi mới Sáng tạo Quốc gia. Lễ ra mắt Trung tâm Đổi mới sáng tạo về Internet vạn vật đầu tiên của Việt Nam trong khuôn khổ chương trình hợp tác với Ericsson là một động thái mới theo định hướng này.
+
+Tuy nhiên, để Việt Nam trở thành một thị trường sản xuất hấp dẫn hơn nữa thông qua việc đẩy nhanh tốc độ số hóa trên quy mô lớn, thì cần phải có một nỗ lực chung để xây dựng một hạ tầng quốc gia 5G toàn diện và an toàn với vai trò là một nền tảng hỗ trợ thúc đẩy Công nghiệp 4.0, cùng với đó là phát triển kỹ năng của lực lượng lao động để đáp ứng các công việc công nghệ cao trong tương lai.
+
+Các doanh nghiệp thuộc khu vực công và tư nhân phải chủ động hợp tác với các trường đại học để cùng xây dựng các mô-đun đào tạo và phát triển kỹ năng cho lực lượng lao động tương lai phù hợp với những vai trò công việc mới như nhà khoa học dữ liệu, kiến trúc sư dữ liệu lớn và các lập trình viên phần mềm giỏi.
+
+Nhờ tập trung vào hạ tầng mạng 5G, đổi mới sáng tạo, nghiên cứu phát triển và nâng cao trình độ lao động, Việt Nam sẽ có nhiều lợi ích qua việc thúc đẩy quá trình chuyển đổi số ngành công nghiệp. Nắm bắt cơ hội Công nghiệp 4.0 với hỗ trợ của công nghệ 5G, Việt Nam đang vững bước trên hành trình xây dựng và thúc đẩy một hệ sinh thái số mạnh mẽ, giúp đất nước có những bước nhảy vọt về phát triển kinh tế cùng xã hội phồn vinh, thịnh vượng.
+
+* Tác giả bài viết là Chủ tịch kiêm Tổng giám đốc, Ericsson Việt Nam và Myanmar.

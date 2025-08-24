@@ -1,0 +1,15 @@
+Nhưng sớm muộn thì kịch bản "cứ 2 giây có một cuộc tấn công ransomware", nhận định này được nhiều chuyên gia đưa ra tại hội thảo an toàn trong thời kỳ bùng nổ trí tuệ nhân tạo với chuyên đề "bảo vệ các cơ sở hạ tầng thông tin quan trọng" diễn ra chiều 30/5.
+
+Trong năm 2024, các cuộc tấn công mạng được dự đoán sẽ gây ra thiệt hại đến 42 tỷ USD cho nền kinh tế toàn cầu. Tần suất và quy mô tấn công của tội phạm đang gia tăng liên tục qua các năm. Đến nay, 66% các tổ chức trên toàn cầu là mục tiêu của các cuộc ransomware. Điều này có nghĩa không chỉ các tập đoàn, doanh nghiệp ở bất kỳ quy mô nào cũng đều có thể trở thành “con mồi” của tội phạm mạng.
+
+Theo số liệu được đưa ra tại hội thảo, trong năm 2023, thế giới ước tính thiệt hại tới 8.000 tỷ USD bởi các cuộc tấn công mạng, tương đương gần 21 tỷ USD mỗi ngày, con số đó dự kiến ​​sẽ tăng lên 9.500 tỷ USD vào năm 2024. Cứ sau 11 giây lại có một tổ chức trên toàn cầu bị tấn công ransomware. Đồng thời, có hơn 353 triệu người đã bị ảnh hưởng do vi phạm dữ liệu với chi phí trung bình toàn cầu của một vụ vi phạm dữ liệu lên tới 4,45 triệu USD.
+
+Ông Lin Guanrui, Giám đốc kỹ thuật khối giải pháp và Tiếp thị Trung tâm Dữ liệu của Huawei khu vực châu Á – Thái Bình Dương, cho rằng: "Đối mặt với những vụ tấn công tiềm ẩn, các doanh nghiệp cần có nhiều lớp phòng thủ mạng và phòng thủ ứng dụng. Ngoài ra cũng cần nâng cao năng lực phát hiện. Hơn hết, chúng ta phải đưa những bản sao lưu trở nên bất biến và biệt lập vì việc khôi phục dữ liệu rất thách thức và giảm dần theo các năm”.
+
+Theo báo cáo của Sophos, nếu năm ngoái 14% doanh nghiệp có thể khôi phục dữ liệu trong vòng một ngày thì hiện nay chỉ 8% doanh nghiệp mới có thể làm được điều đó. Tại hội thảo, các chuyên gia đều cho rằng việc khôi phục dữ liệu từ các cuộc tấn công ransomware gần như là điều không thể. Vì vậy, giải pháp quan trọng hiện nay là các doanh nghiệp cần sao lưu dữ liệu liên tục.
+
+Ông Lin Guanrui cho rằng cần đa dạng môi trường back up (sao lưu dữ liệu) và chiến lược lưu trữ, khôi phục dữ liệu. Không chỉ cho vào các kho vật lý đơn thuần, các doanh nghiệp cần có những kho lưu trữ thông minh hơn và sử dụng nhiều tầng phòng thủ hơn.
+
+Tuy nhiên, song song với sự phát triển của các giải pháp an ninh bảo mật, hoạt động của tội phạm an ninh mạng càng diễn biến phức tạp và khó kiểm soát. Theo ông Lưu Tuấn Anh, kỹ sư giải pháp Cloudflare khu vực Đông Nam Á, ngoài số lượng zero - day (lỗ hổng bảo mật phần mềm) chưa phát hiện đang gia tăng trong thời gian gần đây, thời gian để hacker tìm cách tấn công cũng đang giảm xuống.
+
+Theo ông Lã Mạnh Cường, Giám đốc Điều hành và Phó Chủ tịch OPSWAT, các cuộc tấn công mạng và các giải pháp phòng chống mã độc giống như mèo và chuột. Càng có nhiều giải pháp, các mã độc càng nguy hiểm bởi virus sẽ càng tiến hoá trên chính các giải pháp công nghệ.

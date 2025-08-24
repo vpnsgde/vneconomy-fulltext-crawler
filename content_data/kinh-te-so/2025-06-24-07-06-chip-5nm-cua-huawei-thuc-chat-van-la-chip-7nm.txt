@@ -1,0 +1,27 @@
+Thông tin Huawei trang bị chip Kirin X90 sản xuất trên tiến trình 5 nanomet (nm) cho mẫu laptop gập mới nhất, MateBook Fold, đang vấp phải nhiều nghi ngờ. Các báo cáo kỹ thuật gần đây cho thấy con chip này thực chất vẫn được sản xuất bằng công nghệ 7nm.
+
+Mới đây, trang công nghệ PhoneArena dẫn nguồn báo cáo mới xác nhận thông tin: đối tác sản xuất chip của Huawei là SMIC (Trung Quốc) hiện vẫn chưa thể làm chủ quy trình sản xuất chip 5nm do bị hạn chế nhập khẩu các thiết bị in thạch bản cực tím EUV từ Mỹ và Hà Lan.
+
+Tranh cãi bắt đầu từ tháng trước khi có thông tin MateBook Fold sử dụng Kirin X90 – dòng chip được cho là sản xuất trên tiến trình 5nm. Tuy nhiên, theo giới chuyên gia trong ngành, Kirin X90 vẫn được sản xuất bằng công nghệ 7nm, tương tự dòng chip Kirin 9020 từng xuất hiện trên điện thoại Mate 70 năm ngoái.
+
+Do không thể tiếp cận công nghệ EUV, vốn là chìa khóa để sản xuất chip dưới 7nm, SMIC buộc phải sử dụng máy in DUV đời cũ và áp dụng kỹ thuật in nhiều lần nhằm đạt độ chi tiết cần thiết. Tuy nhiên, phương pháp này gặp nhiều rào cản kỹ thuật, dẫn tới tỷ lệ lỗi cao và chi phí sản xuất tăng mạnh.
+
+Một chuyên gia trong ngành nhận định: “Không có EUV, sản xuất chip 5nm gần như là bất khả thi. Năng suất thấp, chi phí cao, và điều này cho thấy năng lực công nghệ của Huawei có thể đang bị đánh giá quá lạc quan”.
+
+Ông Nhậm Chính Phi, nhà sáng lập Huawe, từng trả lời phỏng vấn tờ People’s Daily rằng: “Chúng tôi vẫn kém Mỹ một thế hệ về chip. Nhưng chúng tôi bù vật lý bằng toán học, bù định luật Moore bằng các nguyên lý ngoài Moore, và dùng điện toán cụm để thay thế cho chip đơn, vẫn có thể đạt được kết quả đáp ứng nhu cầu thực tế”.
+
+Dù vậy, PhoneArena cho rằng nếu Kirin X90 thực chất chỉ là chip 7nm, Huawei và SMIC hiện đang tụt hậu so với Mỹ ít nhất hai thế hệ. Và nếu Apple ra mắt dòng iPhone 18 với chip 2nm như dự kiến trong năm tới, khoảng cách công nghệ giữa hai bên sẽ còn nới rộng hơn.
+
+Giới phân tích cho rằng: giải pháp duy nhất giúp Huawei thu hẹp khoảng cách là phát triển được công nghệ thay thế cho EUV. Dù có tin đồn Huawei đang theo đuổi hướng đi này, nhưng thực tế, giới quan sát cho rằng con đường này không hề dễ dàng với "ông lớn" công nghệ này của Trung Quốc.
+
+Được biết, hai mẫu laptop mới của Huawei bao gồm chiếc laptop màn hình gập MateBook Fold và laptop siêu mỏng MateBook Pro đều sử dụng hệ điều hành HarmonyOS 5 hoàn toàn mới do Huawei tự phát triển, thay cho hệ điều hành Windows như trước đây.
+
+Kể từ khi bị đưa vào danh sách cấm vận của chính phủ Mỹ từ năm 2019, Huawei đã phải đối mặt với nhiều khó khăn trong quá trình phát triển sản phẩm, đặc biệt liên quan đến chip xử lý và hệ điều hành.
+
+Trước đó, các sản phẩm của Huawei chủ yếu sử dụng chip và hệ điều hành từ các đối tác Mỹ như Intel, AMD (đối với máy tính), Qualcomm (đối với thiết bị di động), cũng như Android và Windows.
+
+Tuy nhiên, Huawei đã từng bước tìm cách thay thế các công nghệ bị hạn chế. Hãng đã phát triển nền tảng di động HarmonyOS Next - một hệ điều hành hoàn toàn mới, không còn dựa trên mã nguồn mở của Android.
+
+Đồng thời, hãng cũng giới thiệu HarmonyOS 5 dành cho máy tính để thay thế Windows, và nay tiếp tục mở rộng sang việc tự phát triển chip 5nm cho các dòng laptop mới.
+
+Truyền thông Trung Quốc từng đưa tin con chip này là kết quả của quá trình nghiên cứu kéo dài 5 năm, bắt đầu từ thời điểm Huawei bị đưa vào danh sách hạn chế.

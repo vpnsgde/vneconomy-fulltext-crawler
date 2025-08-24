@@ -1,0 +1,19 @@
+Ngày 2/6, trong khuôn khổ Hội thảo và Triển lãm quốc tế về An toàn không gian mạng (Vietnam Security Summit) tại TP.HCM, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã chính thức ra mắt Nền tảng hỗ trợ điều tra số.
+
+Tại Hội thảo, Phó Cục trưởng, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) Trần Đăng Khoa cho biết, dữ liệu chính là tài nguyên số quốc gia, là nguyên liệu đầu vào của nền kinh tế số, trong kỷ nguyên số. Chuyển đổi số là xu hướng tất yếu, điều này có nghĩa là dữ liệu sinh ra ngày càng tăng cao trên nền tảng số, chính vì vậy việc bảo vệ an toàn dữ liệu, an toàn thông tin cá nhân được đặt lên hàng đầu và đây cũng chính là bảo vệ nguồn tài nguyên vô cùng quý giá.
+
+Bên cạnh đó, dữ liệu là nguồn tài nguyên quý giá tạo nên nền tảng để xây dựng Chính phủ điện tử. Chính vì vậy, nguồn dữ liệu này nếu sử dụng đúng mục đích sẽ mang lại giá trị rất lớn. Nếu khai thác, sử dụng trái phép vào mục đích xâm phạm an ninh quốc gia, trật tự an toàn xã hội thì hậu quả vô cùng nặng nề.
+
+Trong phiên hội thảo, đại diện các tổ chức, doanh nghiệp đã đưa ra các giải pháp để tránh thất thoát dữ liệu và bảo vệ nguồn dữ liệu. Ngoài xây dựng các nền tảng, các phần mềm, phần cứng để đảm bảo an toàn thông tin thì cần phải hiểu rõ về dữ liệu để đưa ra những chiến lược cho từng giai đoạn và phù hợp với từng doanh nghiệp. Lộ lọt dữ liệu không chỉ là trách nhiệm của những chuyên gia, doanh nghiệp, chính quyền mà còn chính từ nhận thức của từng người dân.
+
+Song song với các biện pháp từ các cơ quan nhà nước, đầu tư các giải pháp công nghệ, các quy trình chính sách thì cần phải tuyên truyền về vấn đề bảo mật cho người dùng cuối, đây là mắt xích lớn nhất cho an toàn thông tin và giúp cho việc bảo mật sẽ gần gũi với tất cả mọi người.
+
+Dịp này, Bộ Thông tin và Truyền thông đã khai trương Nền tảng hỗ trợ điều tra số DFLab, nhằm hỗ trợ các cơ quan, tổ chức, doanh nghiệp tăng cường công tác bảo đảm an toàn thông tin.
+
+Ông Lê Công Phú, Phó Giám đốc Trung tâm Ứng cứu khẩn cấp không gian mạng Việt Nam (VNCERT/CC) - Cục An toàn thông tin, cho biết, nền tảng hỗ trợ điều tra số sẽ giúp các cơ quan, tổ chức doanh nghiệp thực hiện điều tra khi có sự cố tấn công xảy ra. Đây là nơi tập hợp các tri thức liên quan đến khoa học điều tra số. Tri thức ở đây sẽ có các sổ tay về ứng cứu sự cố bao gồm các kinh nghiệm ứng phó với các tình huống tấn công cụ thể.
+
+"Dữ liệu, chứng cứ về các tình huống tấn công mạng được tái hiện lại một cách khoa học dựa trên các cuộc tấn công thực tế. Ngoài ra, Bộ Thông tin và Truyền thông cũng sẽ huy động các doanh nghiệp, chuyên gia, tổ chức, cá nhân đóng góp tri thức cho nền tảng này”, ông Phú cho hay.
+
+Ngoài ra, Nền tảng hỗ trợ điều tra số cũng cung cấp các công cụ liên quan đến hoạt động điều tra, ứng cứu sự cố kèm theo hướng dẫn chi tiết, để cho các cán bộ chuyên trách, cũng như cộng đồng an toàn thông tin biết cách sử dụng các công cụ khi có sự cố xảy ra. Thông qua nền tảng, sẽ huấn luyện các kỹ năng phân tích và điều tra tấn công mạng qua các tình huống tấn công điển hình hiện nay, như khai thác lỗ hổng bảo mật, tấn công mã hoá…
+
+Trái tim của Nền tảng là các công cụ của hệ thống do Cục An toàn thông tin làm chủ công nghệ, cũng là các sản phẩm mã nguồn mở. Khi các cơ quan, tổ chức, doanh nghiệp bị tấn công, Bộ Thông tin và Truyền thông sẽ sử dụng nền tảng này để hỗ trợ xử lý.

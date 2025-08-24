@@ -1,0 +1,34 @@
+Thông tin về tình hình triển khai công tác phòng chống phần mềm độc hại và chia sẻ dữ liệu mã độc, Cục An toàn thông tin, Bộ Thông tin và Truyền thông vừa cho biết đến hết tháng 9/2023 đã có 88 đơn vị (63 Tỉnh/thành, 25 Bộ/ngành) triển khai giải pháp phòng chống mã độc tập trung và thực hiện kết nối chia sẻ thông tin về mã độc với Trung tâm Giám sát an toàn không gian mạng quốc gia (Trung tâm NCSC)).
+
+Trong tháng 9/2023, thông qua kết nối chia sẻ dữ liệu về mã độc từ 88 đơn vị, Hệ thống kỹ thuật của Trung tâm ghi nhận 80/88 đơn vị có kết nối thường xuyên. Trong các đơn vị kết nối thường xuyên có 80/80 đơn vị chia sẻ về hệ điều hành các máy (tổng số máy là 179.821).
+
+Tính đến tháng 9/2023 có 3 đơn vị gồm: Bộ Giáo dục và Đào tạo, Bộ Nông nghiệp và Phát triển nông thôn, Ủy ban Dân tộc chưa thực hiện chia sẻ dữ liệu mã độc về Hệ thống kỹ thuật của Trung tâm.
+
+
+
+Do đó, Cục an toàn thông tin đề nghị các đơn vị thực hiện chia sẻ đầy đủ thông tin dữ liệu mã độc nhằm nâng cao năng lực phòng, chống phần mềm độc hại và thực hiện đánh giá chỉ số lây nhiễm phần mềm độc hại ở các bộ, ngành, địa phương, coi đây là một trong những tiêu chí đánh giá mức độ bảo đảm an toàn thông tin của các bộ, ngành, địa phương.
+
+Đến hết tháng 9/2023 đã có 87 đơn vị (63 Tỉnh/Thành, 24 Bộ/Ngành) triển khai công tác giám sát an toàn thông tin và thực hiện kết nối chia sẻ dữ liệu giám sát với Trung tâm Giám sát an toàn không gian mạng quốc gia.
+
+Trong tháng 09/2023, thông qua kết nối chia sẻ dữ liệu giám sát từ 87 đơn vị, Hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia ghi nhận 72/87 đơn vị có kết nối chia sẻ dữ liệu tương đối đầy đủ, 15/87 đơn vị bị mất kết nối chia sẻ dữ liệu.
+
+Cục An toàn thông tin cho biết trong tháng 9/2023, Hệ thống kỹ thuật của Trung tâm NCSC đã ghi nhận 413.314 địa chỉ IP của Việt Nam nằm trong mạng botnet (giảm 3,34% so với tháng 08/2023), trong đó có 156 địa chỉ IP của cơ quan, tổ chức nhà nước (18 địa chỉ IP Bộ/ngành, 138 địa chỉ IP tỉnh/thành).
+
+Cũng trong thời gian qua, có rất nhiều website của cơ quan nhà nước bị lợi dụng để cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung quảng cáo không phù hợp như: game bài, cờ bạc…
+
+Trước tình trạng này, Bộ Thông tin và Truyền thông đã phát hành cảnh báo về việc rà soát nội dung không phù hợp trên website của cơ quan nhà nước (.gov.vn). Cục An toàn thông tin phát hành cảnh báo diện rộng về việc rà soát nội dung không phù hợp trên website của cơ quan nhà nước (.gov.vn).
+
+Tuy nhiên đến thời điểm hiện tại, Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) vẫn tiếp tục ghi nhận có 28 đơn vị (18 Tỉnh/thành, 10 Bộ/ngành) còn tồn tại các website của đơn vị bị lợi dụng để tải lên số lượng lớn tệp tin có nội dung độc hại. Như vậy, trong tháng này, số lượng đơn vị có website bị lợi dụng để chèn nội dung quảng cáo không phù hợp, tải lên số lượng lớn tệp tin có nội dung độc hại tăng gần gấp đôi so với tháng trước.
+
+Thống kê, số lượng website .gov.vn bị chèn nội dung quảng cáo không phù hợp trong tháng này lên tới 67 website, trong đó có 17 website của các đơn vị thuộc quản lý của các bộ và 50 website đơn vị thuộc các tỉnh/thành.
+
+Cụ thể như website của các đơn vị thuộc Bộ Khoa học và Công nghệ; Bộ Lao động Thương binh và xã hội; Bộ Nông nghiệp và Phát triển nông thôn; Bộ Y tế, Bộ Công Thương, Bộ Giao thông vận tải, Bộ Văn hóa Thể thao và Du lịch...
+
+Một số tỉnh/thành có số lượng website/đường dẫn bị chèn nội dung quảng cáo không phù hợp như: Hà Tĩnh, Tuyên Quang, Đà Nẵng, Đồng Nai, Điện Biên, Hà Nội, Hải Dương, Hải Phòng, Tp.Hồ Chí Minh, Kon Tum, Lai Châu, Phú Thọ, Quảng Bình, Quảng Nam, Quảng Ninh, Quảng Trị, Thái Bình, Thanh Hóa.
+
+Theo Cục an toàn thông tin, những tệp tin này xuất hiện trong kết quả tìm kiếm của Google và thực hiện chuyển hướng người dùng sang website khác khi người dùng truy cập đường dẫn. Điều này sẽ trở nên nguy hiểm và nghiêm trọng nếu bị lợi dụng để đăng tải, phát tán những nội dung xấu độc, xuyên tạc về chủ quyền, chủ trương của Đảng và chính sách, pháp luật của Nhà nước.
+
+Cũng trong tháng qua, Hệ thống kỹ thuật của NCSC ghi nhận số lượng rất lớn, lên đến 57.916 điểm yếu, lỗ hổng an toàn thông tin tại các hệ thống thông tin của các cơ quan tổ chức nhà nước. Do đó Cục An toàn thông tin đã chỉ đạo Trung tâm Giám sát an toàn không gian mạng quốc gia đánh giá, xác định các lỗ hổng nguy hiểm, có ảnh hưởng trên diện rộng và hướng dẫn các Bộ/ngành khắc phục. Đặc biệt có một số lỗ hổng đã và đang được các nhóm tấn công lợi dụng để thực hiện các cuộc tấn công APT. Trong đó có một số lỗ hổng vẫn còn tồn tại trên nhiều máy chưa được xử lý.
+
+Bên cạnh các điểm yếu/lỗ hổng ghi nhận, Hệ thống kỹ thuật của NCSC còn phát hiện nhiều máy tính của cơ quan nhà nước có kết nối đến địa chỉ IP/Domain nghi ngờ độc hại do các phần mềm phòng chống mã độc đã ghi nhận.
+

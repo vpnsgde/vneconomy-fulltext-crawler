@@ -1,0 +1,89 @@
+Theo các chuyên gia và thành viên thị trường, vấn đề định giá khi đầu tư vào trái phiếu doanh nghiệp nói riêng và các công cụ nợ nói chung sẽ được giải quyết nếu thị trường hình thành được đường cong lãi suất chuẩn thể hiện tương quan giữa rủi ro và lợi nhuận khi đầu tư.
+
+Theo thống kê từ hệ thống Bond Portal của FiinGroup, lợi nhuận đầu tư thực tế của nhiều mã trái phiếu doanh nghiệp niêm yết trên sàn HNX trong 1 năm qua giao động từ 10% - 17% tùy thuộc vào tổ chức phát hành. Cá biệt, có những mã trái phiếu ngân hàng đem lại lợi nhuận 13-17%/ năm cho các nhà đầu tư. Chiều ngược lại, có những mã trái phiếu doanh nghiệp thuộc ngành bất động sản chỉ đem lại lợi nhuận 6-7%, thậm chí ghi nhận khoản lỗ sau 1 năm nắm giữ.
+
+Trước khi tìm hiểu vì sao có sự chênh lệch như vậy, giới phân tích chỉ ra nhà đầu tư cần hiểu rõ cơ chế định giá trái phiếu trên thị trường thứ cấp.
+
+Thông thường, khi nhà đầu tư sở hữu một trái phiếu được phát hành với lãi suất danh nghĩa 10%/năm, sẽ có kỳ vọng khoản đầu tư đem lại lợi nhuận tương đương lãi suất danh nghĩa nói trên.
+
+Tuy nhiên, trên thị trường tài chính, mọi việc không đơn giản và suôn sẻ như vậy. Rất có thể sau một khoảng thời gian phát hành, tổ chức phát hành khó khăn thanh khoản, họ sẽ không trả được lãi, gốc cho nhà đầu tư.
+
+Tình huống này có hai vấn đề được đặt ra.
+
+Thứ nhất, sau khi đưa lên kê khai và giao dịch trên HNX thì giá trái phiếu được giao dịch sẽ có mức lợi suất giữ đến ngày đáo hạn (yield-to-maturity) là bao nhiêu và cao hay thấp so với mức lãi suất danh nghĩa 10% mà nhà đầu tư sẽ nhận được và so với kênh đầu tư khác?
+
+Sàn giao dịch trái phiếu doanh nghiệp của Sở Giao dịch Chứng khoán Hà Nội (Cbonds, HNX) ra đời để cập nhật các thông tin mua bán trái phiếu trên thị trường thứ cấp.
+
+Trong ví dụ trên giả định khi doanh nghiệp A ở trên gặp khó khăn, trái phiếu không còn được giao dịch ở mức mệnh giá 100 ngàn đồng nữa mà chỉ còn 90 ngàn đồng (giá sạch). Như vậy đối với những nhà đầu tư nắm giữ từ đầu, sẽ ghi nhận một khoản lỗ đáng kể nếu bán lại trên thứ cấp, do thị trường giao dịch ở mức bù rủi ro cao hơn đối với trái phiếu của doanh nghiệp A.
+
+
+
+Mặc dù hiện tại, thị trường trái phiếu Việt Nam có đường cong lãi suất trái phiếu Chính phủ song giới phân tích cho rằng đường cong này chưa phản ánh đúng sự vận động của thị trường vốn vì nhà đầu tư trên thị trường trái phiếu Chính phủ chưa đủ đa dạng, chủ yếu là ngân hàng thương mại, các công ty bảo hiểm và Kho bạc Nhà nước.
+
+Ngược lại, khi nhà đầu tư mới mua trái phiếu với giá sạch 90 ngàn đồng trên thứ cấp, khi đó lợi nhuận đạt được đến khi đáo hạn sẽ lớn hơn 12%/năm (giả định).
+
+Tuy nhiên, HNX chỉ niêm yết giá trái phiếu giao dịch (giá bẩn) mà không phải là dữ liệu về giá sạch hay lợi suất giữ đến ngày đáo hạn (Yield to Maturity, YTM). Do đó, nhà đầu tư khó có thể biết trái phiếu “đắt” hay “rẻ”. Ở ví dụ trên, nhà đầu tư khi nhìn vào mức giá giao dịch 90 ngàn đồng sẽ không thể biết lợi suất nắm giữ đáo hạn là bao nhiêu.
+
+Trao đổi với VnEconomy, nhiều chuyên gia và thành viên thị trường nhận định thị trường trái phiếu doanh nghiệp tại Việt Nam còn thiếu cơ sở dữ liệu hỗ trợ cho công tác quản trị rủi ro. Trong đó có cơ sở dữ liệu để tính toán đường cong lãi suất cho các bên tham khảo. Hiện tại, thị trường Việt Nam vẫn đang dùng lãi suất tiết kiệm 12 tháng cộng với phần bù rủi ro bình quân từ 2% đến 5% tùy theo loại trái phiếu doanh nghiệp.
+
+Quay lại ví dụ được nêu ở trên, do không có đường cong lãi suất để tham chiếu nên nhiều nhà đầu tư, nhất là nhà đầu tư cá nhân cho rằng lãi suất danh nghĩa 10%/năm là hấp dẫn, gấp 2 lần tiền gửi ngân hàng nên mua trái phiếu doanh nghiệp nhưng hoá ra doanh nghiệp rủi ro cao; lúc đó tưởng mua được trái phiếu rẻ nhưng thực tình lại thành đắt. Trên thực tế, trong giai đoạn thị trường bùng nổ, một số doanh nghiệp phát hành lợi dụng việc thị trường chưa có đầy đủ thông tin, chào bán trái phiếu với lãi suất hấp dẫn 9-10%/năm khiến nhà đầu tư cá nhân đổ xô mua nhưng nhiều trường hợp sau này không thu được gốc và lãi; gây nên hỗn loạn trên thị trường.
+
+Thứ hai, điều gì xảy ra nếu doanh nghiệp không thực hiện đúng cam kết trả lãi và gốc như kế hoạch, kể cả nhà đầu tư thứ cấp mua được trái phiếu đó với giá “hời”?
+
+Trong ví dụ trên, người mua trái phiếu của doanh nghiệp A giả định vẫn nhận được lãi suất danh nghĩa 10%/năm nhưng lại bỏ ra ít tiền hơn để mua trái phiếu nên lợi suất sẽ khoảng 12%/năm. Dù vậy, chưa chắc nhà đầu tư đã nhận được lãi suất 12%/năm và tiền gốc khi đến ngày đáo hạn. Nếu như nhà đầu tư chắc chắn sẽ nhận đủ lãi và gốc trái phiếu khi đến hạn thì đã mua được trái phiếu với giá được xem là “rẻ” hơn so với người sở hữu trước đó đã mua. Ngược lại, nếu doanh nghiệp tiếp tục yếu đi và không có khả năng thanh toán cho nhà đầu tư lãi và gốc thì trái phiếu đó lại thành “đắt”.
+
+Theo thông lệ tại các thị trường trong khu vực và quốc tế, dữ liệu về lịch sử chậm trả (historical defaults) có thể giúp thị trường lượng hóa được rủi ro này. Dữ liệu này có thể sẵn có trong mỗi ngân hàng nhưng để thị trường phát triển và có tham chiếu chung thì tỷ lệ chậm trả trái phiếu được công bố bởi các đơn vị độc lập như các tổ chức xếp hạng tín nhiệm sẽ là một trong các tham chiếu quan trọng cho thị trường, không chỉ các nhà đầu tư cá nhân mà cả các quỹ đầu tư trong việc định lượng rủi ro; từ đó có những tính toán phù hợp cho hoạt động dự phòng rủi ro cũng như xác định mức định giá của trái phiếu.
+
+Theo các chuyên gia, khi dữ liệu về lợi suất (Yield) và lợi suất tới ngày đáo hạn (Yield to Maturity, YTM) của nhiều lô trái phiếu theo ngành, theo kỳ hạn được tập hợp thì sẽ có đường cong lãi suất (yeild curves).
+
+TS. Cấn Văn Lực, Kinh tế trưởng của BIDV cho rằng đường cong lãi suất không chỉ giúp định hình mặt bằng lãi suất cho thị trường, là công cụ tham chiếu để tổ chức phát hành và nhà đầu tư định giá trái phiếu mà còn có chức năng như “hàn thử biểu” của nền kinh tế.
+
+Nhìn vào đường cong đó, các bên tham gia thị trường sẽ biết hiện nay mặt bằng lãi suất đang ở mức như thế nào; đồng thời đưa ra dự báo mặt bằng lãi suất sẽ theo chiều đi lên hay đi xuống. Một đường cong lãi suất chuẩn còn có thể hỗ trợ dự báo tình hình kinh tế vĩ mô trong 6 tháng, thậm chí 1 cho đến 2 năm tới.
+
+
+
+Nếu đường cong lãi suất của trái phiếu kỳ hạn ngắn mà cao hơn lãi suất của các kỳ hạn dài thì chứng tỏ kinh tế sắp tới khó khăn. Còn nếu đường cong lãi suất xuôi chiều, là lãi suất trái phiếu kỳ hạn dài cao hơn kỳ hạn ngắn thì chứng tỏ sắp tới kinh tế sẽ phát triển bình thường, ổn định”.
+
+TSCấn Văn Lực, Kinh tế trường BIDV.
+
+Bà Lương Thuỳ Ngân, Giám đốc Khối Tư vấn Tài chính Doanh nghiệp, Công ty Chứng khoán Vietcombank, cho biết hiện nay cổng thông tin Cbonds của HNX đã công bố thông tin các lô trái phiếu của doanh nghiệp, tuy nhiên đơn vị tư vấn phát hành thường xuyên nhận được thắc mắc từ cả nhà đầu tư và đơn vị phát hành về chênh lệch lãi suất.
+
+“Từ phía nhà đầu tư, họ luôn hỏi rằng tại sao lãi suất của trái phiếu này lại cao hơn lãi suất mà chúng tôi tư vấn? Từ phía đơn vị phát hành, họ luôn thắc mắc tại sao doanh nghiệp kia cùng ngành nghề với chúng tôi mà lại phát hành được với mức lãi suất thấp thế? Mỗi khi nhận được những câu hỏi như vậy chúng tôi lại phải đi tìm hiểu lý do tại sao có định giá khác biệt như vậy? Bởi vì cấu trúc sản phẩm, tài sản đảm bảo, tài chính của doanh nghiệp có lành mạnh hay không? Mục đích phát hành của lô trái phiếu này thế nào?”, bà Ngân chia sẻ.
+
+Theo đại diện Công ty Chứng khoán Vietcombank, nếu như có xếp hạng tín nhiệm đầy đủ trên toàn thị trường thì các bên sẽ nhìn nhận vấn đề rất rõ. Đường cong lãi suất là bảng dữ liệu so sánh mà thị trường dùng làm tham chiếu khi đầu tư trái phiếu doanh nghiệp để biết trái phiếu được định giá đắt hay rẻ. Tại các thị trường tài chính phát triển, lợi suất tới ngày đáo hạn của trái phiếu phụ thuộc vào kỳ hạn phát hành và kết quả xếp hạng tín nhiệm doanh nghiệp phát hành, thậm chí xếp hạng chính lô trái phiếu được phát hành. Nếu xếp hạng tín nhiệm cao thì lãi suất sẽ thấp vì tương ứng với đó là xác suất vỡ nợ thấp. Nếu xếp hạng tín nhiệm thấp thì lãi suất cao vì khi đó rủi ro vỡ nợ của doanh nghiệp cao.
+
+“Ví dụ xếp hạng tín nhiệm A thì lãi suất như thế này, B thì phải chịu lãi suất cao hơn… Điều này tạo ra đường cong lãi suất rất tốt và không cần có nhiều thắc mắc như vậy nữa”, bà Ngân nói.
+
+Khi đối chiếu với đường cong lãi suất chuẩn, tổ chức phát hành cũng biết doanh nghiệp mức lãi suất hợp lý dành cho doanh nghiệp mình là bao nhiêu dựa trên kết quả xếp hạng tín nhiệm; từ đó việc phát hành trái phiếu sẽ dễ dàng thành công hơn, giúp doanh nghiệp tối ưu trong công tác quản trị rủi ro.
+
+Các chuyên gia nhấn mạnh đường cong lãi suất là hạ tầng mềm quan trọng của thị trường vốn. Các bên tham gia thị trường bao gồm:(1)doanh nghiệp phát hành,(2)cơ quan quản lý và(3)các đơn vị cung cấp dịch vụ tư vấn phát hành, xếp hạng tín nhiệm…, cần chung tay để xây dựng đường cong lãi suất chuẩn cho thị trường.
+
+Ông Nguyễn Quang Thuân, Chủ tịch FiinGroup, cho biết kể từ khi HNX xây dựng sàn giao dịch trái phiếu thứ cấp thì đơn vị này cũng bắt đầu nghiên cứu xây dựng đường cong lãi suất.
+
+“Cơ sở để đưa ra đường cong lãi suất chính là dữ liệu về lịch sử vỡ nợ/chậm trả của các doanh nghiệp phát hành. Ví dụ những trái phiếu được phát hành bởi các doanh nghiệp được xếp hạng tín nhiệm ở mức AAA- AA thì YTM chỉ ở mức 7-8% nhưng nếu xếp hạng tín nhiệm ở mức CCC thì YTM lên tới 17-18% bởi vì những doanh nghiệp này có tỷ lệ chậm trả lên tới 40% trong 3 năm vừa rồi”, ông Thuân nói.
+
+Phân tích kỹ hơn về vai trò tham chiếu, dự báo của đường cong lãi suất, đại diện FiinGroup cho biết khác với báo cáo kiểm toán đánh giá tình hình tài chính của doanh nghiệp trong quá khứ, xếp hạng tín nhiệm dựa trên dữ liệu để đưa ra các dự phóng về tình hình doanh nghiệp trong tương lai.
+
+Ông Thuân nhấn mạnh cần nỗ lực của tất cả các bên tham gia thị trường để có đường cong lãi suất chuẩn. Hiện nay, đường cong lãi suất mà FiinGroup đang nghiên cứu xây dựng mới chỉ dựa trên dữ liệu được công bố trên HNX trong 3 năm gần đây.
+
+
+
+“Công bố xếp hạng tín nhiệm của các tổ chức quốc tế và trong nước đều nói là doanh nghiệp đạt mức tín nhiệm A – đây là mức xếp hạng tín nhiệm dài hạn, ngụ ý là trong 24-36 tháng tới thì rủi ro của doanh nghiệp thấp, xác suất vỡ nợ khoảng 5-6%. Những doanh nghiệp có mức xếp hạng AAA-AA thì xác suất vỡ nợ càng nhỏ hơn”.
+
+ÔngNguyễn Quang Thuân, Chủ tịch FiinGroup
+
+Theo các chuyên gia, độ tin cậy của đường cong lợi suất phụ thuộc lớn vào mức độ thanh khoản và bản chất của các giao dịch trên thị trường.
+
+Một là, cơ quan quản lý nhà nước cần có cơ chế để giao dịch repo (hợp đồng mua lại) phải được nhận diện, tách bạch và công khai với thị trường.
+
+Về bản chất của các giao dịch, thực tế trên thị trường trái phiếu doanh nghiệp Việt Nam hiện nay, phổ biến nhu cầu giao dịch trước khi đáo hạn của cả phía nhà đầu tư chuyên nghiệp và từ chính tổ chức phát hành trong việc tái cấu trúc lại thay vì mua và nắm giữ đến ngày đáo hạn. Nhiều trái phiếu điển hình như các trái phiếu ngân hàng được giao dịch với tính chất giống như giao dịch repo (hợp đồng mua lại). Để tính toán được đường cong lãi suất chuẩn cần phân tách được các giao thực sự Outright (mua đứt bán đoạn) và các giao dịch Repo  (mua bán lại)
+
+Hai là,liên quan đến thanh khoản trên thị trường trái phiếu doanh nghiệp, các chuyên gia ghi nhận thời gian qua, cơ quan quản lý đã xây dựng sàn giao dịch trái phiếu thứ cấp, được ví như “chợ trái phiếu”. Song, hàng đã được đưa lên kệ nhưng chưa được dán nhãn, người mua còn thưa thớt... nên “chợ” còn ảm đạm.
+
+Do đó, giới phân tích khuyến nghị cơ quan quản lý  thực hiện nhiều giải pháp để mở rộng cơ sở nhà đầu tư tổ chức cho thị trường trái phiếu doanh nghiệp thông qua(1)tiếp tục tăng cường minh bạch cho thị trường và(2)điều chỉnh một số quy định liên quan đầu tư trái phiếu doanh nghiệp tại một số định chế như ngân hàng, công ty bảo hiểm hay các quỹ hưu trí;(3)phát huy vai trò “người mua bán cuối cùng” dẫn dắt và định hướng thị trường của các quỹ, doanh nghiệp Nhà nước.
+
+Theo ông Nguyễn Quang Thuân, việc kiểm soát rủi ro đối với các định chế như ngân hàng, công ty bảo hiểm… là cần thiết nhưng  đó chỉ là giải pháp trước mắt. Về lâu dài, thị trường cần phải minh bạch để thu hút các nhà đầu tư tổ chức...
+
+“Ví dụ, khi thị trường minh bạch và có đường cong lãi suất chuẩn chỉnh, thay vì cấm ngân hàng thương mại đầu tư trái phiếu của doanh nghiệp bất động sản, Ngân hàng Nhà nước chỉ cần cấm tổ chức tín dụng đầu tư trái phiếu có xếp hạng tín nhiệm thấp (non-investment grade).
+
+Theo các chuyên gia, ở những thị trường tài chính phát triển, Chính phủ cũng “đi chợ” thông qua các định chế tài chính của Nhà nước. Các định chế của Nhà nước không chỉ tìm kiếm lợi nhuận mà còn có vai trò định hướng thị trường theo những thông lệ tốt theo chuẩn mực quốc tế.

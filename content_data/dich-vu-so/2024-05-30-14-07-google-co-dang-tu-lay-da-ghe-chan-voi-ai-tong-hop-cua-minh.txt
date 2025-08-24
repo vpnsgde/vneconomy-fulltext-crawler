@@ -1,0 +1,35 @@
+Tại hội nghị nhà phát triển I/O hàng năm, Google đã giới thiệu AI Overviews (Tóm tắt AI hay AI tổng hợp) là một cách mang đến cho khách hàng câu trả lời nhanh chóng và giúp đơn giản hóa trải nghiệm tìm kiếm trực tuyến. Tuy nhiên Google đang nhận về nhiều sự chỉ trích liên quan đến tính năng AI Tổng Hợp sau khi nhiều phản hồi cho ra những kết quả sai lệch.
+
+“Theo các nhà địa chất của UC Berkeley, bạn nên ăn ít nhất một tảng đá nhỏ mỗi ngày, đá là nguồn cung cấp vitamin và khoáng chất quan trọng cho sức khỏe tiêu hóa”, Google trả lời khi được hỏi có nên ăn đá.
+
+Đáng nói, vụ việc trên không phải là cá biệt. Tuần trước, Google cũng nói với người dùng trên công cụ tìm kiếm rằng Barack Obama là tổng thống Hồi giáo đầu tiên của nước Mỹ. Khi được hỏi tên các loại thực phẩm có đuôi, câu trả lời người dùng nhận được là “Táo, Chuối, Dâu tây, Cà chua và Dừa”.
+
+Những câu trả lời này không phải do Google bị hack. Gã khổng lồ internet đã tung ra tính năng trả lời trí tuệ nhân tạo mới mà họ hy vọng sẽ là tương lai của công cụ tìm kiếm của mình. Tính năng này đã được giới thiệu rộng rãi tới người dùng Mỹ và dự kiến ​​sẽ ra mắt trên toàn thế giới vào cuối năm nay.
+
+Các kỹ sư Google những ngày gần đây đã nỗ lực để sửa chữa các truy vấn lan truyền trực tuyến trước phàn nàn của người dùng. Công ty cho biết họ đã thử nghiệm tính năng này một cách nghiêm ngặt trong những tháng gần đây và nó đã được xây dựng dựa trên kinh nghiệm hàng thập kỷ xây dựng công cụ tìm kiếm phổ biến nhất thế giới.
+
+Tuy nhiên, không phải số lượng các câu hỏi ‘đáng xấu hổ’ gây ra nhiều lo ngại mà chính là bản chất của chúng. Kể từ khi phát hành Chat GPT hơn 18 tháng trước, nhiều người lo ngại rằng các hệ thống AI này đang thiếu hiểu biết bởi chúng lấy dữ liệu từ những nguồn mà chưa được kiểm chứng.
+
+Ví dụ, lời khuyên nên ăn đá đến từ The Onion, một trang web tin tức châm biếm. Lời khuyên nên bôi keo lên bánh pizza được đưa ra dựa trên một câu chuyện cười trên mạng xã hội Reddit 11 năm trước. Việc nhấn mạnh rằng Barack Obama là người Hồi giáo dựa trên sự hiểu sai về một cuốn sách học thuật về tôn giáo ở Mỹ.
+
+Một ví dụ khác khi Google tuyên bố rằng không có quốc gia châu Phi nào bắt đầu bằng chữ K – câu trả lời của nó dường như dựa trên một cuộc thảo luận trên web về việc Chat GPT đã trả lời sai câu hỏi tương tự. Nói cách khác, AI hiện vận hành dựa trên những AI khác làm nền tảng.
+
+Việc Google - công ty có thành tích 25 năm hướng mọi người đến những trang web tốt nhất, dường như không thể phân biệt giữa các nguồn có thẩm quyền và những câu chuyện cười có thể làm giảm niềm tin vào các câu trả lời của họ. Thực tế, Google đã có những sai lầm về AI trước đây. Đầu năm nay, họ đã buộc phải đình chỉ khả năng vẽ hình ảnh con người của chatbot Gemini sau khi hệ thống này tạo ra những hình ảnh không chính xác về mặt lịch sử về Đức Quốc xã và người Viking.
+
+Giám đốc điều hành Sundar Pichai đã xin lỗi sau khi chatbot này cũng có hàng loạt lập trường kỳ lạ như từ chối lên án nạn ấu dâm và đánh đồng Elon Musk với Hitler. Microsoft cũng đã đưa ra những kết quả không chính xác do AI cung cấp trong công cụ tìm kiếm Bing, được hỗ trợ bởi công nghệ Chat GPT.
+
+Theo Statcounter, công ty này có thị phần công cụ tìm kiếm hơn 90%. Google là trang web phổ biến nhất thế giới – trang web mặc định trên iPhone và trình duyệt Chrome. Công ty mẹ Alphabet, đã đạt doanh thu 175 tỷ USD vào năm ngoái, trở thành bảng quảng cáo lớn nhất thế giới. Quy mô đó đã thúc đẩy Google giảm chi phí máy chủ để cung cấp câu trả lời AI xuống 80%, điều mà các nhà phê bình cho rằng có thể đã làm giảm chất lượng câu trả lời.
+
+Google đã không rút lui trước cuộc đua AI mặc dù họ biết không thể đảm bảo độ chính xác. Gã khổng lồ cũng phải chịu áp lực trong việc tiếp tục phát triển vì lo ngại các đối thủ AI như Chat GPT có thể “ăn miếng trả miếng” nếu không đưa AI vào các dịch vụ của mình.
+
+Claire Holubowskyj tại Công ty nghiên cứu Enders Analysis cho biết: “AI đe dọa đề xuất cốt lõi của tìm kiếm bằng cách tìm kiếm theo nhiều cách hơn, nhưng hiện kém chính xác hơn về mặt kiểm chứng. Google đang cố gắng tìm kiếm sự cân bằng phù hợp trước khi đối thủ cạnh tranh loại bỏ sản phẩm tìm kiếm cực kỳ giá trị của mình".
+
+Nhưng việc Google thay đổi cách hoạt động của công cụ tìm kiếm cũng dẫn đến những lo ngại về tương lai của web.
+
+Trong nhiều năm, công ty đã có một hợp đồng bất thành văn, lỏng lẻo với các nhà xuất bản web như các trang tin tức, diễn đàn và blog: công ty sẽ khai thác thông tin của họ và đổi lại công cụ tìm kiếm sẽ gửi tới hàng triệu người dùng theo cách của họ. AI trả lời trực tiếp câu hỏi của mọi người đã làm dấy lên lo ngại rằng số lượt nhấp chuột từ Google sẽ giảm mạnh, đe dọa các mô hình kinh doanh hỗ trợ các trang web.
+
+James Rosewell, thành viên tại một nhóm vận động cho ngành tiếp thị cho biết: “Điều này phá hủy sự cộng sinh tự nhiên của web. Nếu nhà xuất bản không thể tiếp cận khán giả, họ sẽ không tạo ra nội dung.
+
+“Google đang sử dụng quyền lực độc quyền của mình để thử và đưa vào trang web mở, nhưng khi làm như vậy, họ đe dọa đến chính mô hình mà Internet được xây dựng trên đó”.
+
+Google cho biết họ sẽ tiếp tục tập trung vào việc gửi lưu lượng truy cập có giá trị đến các nhà xuất bản và người sáng tạo và kết quả AI khuyến khích người dùng tìm hiểu sâu hơn bằng cách đi theo các liên kết. Các chuyên giá cho rằng Google ngừng cung cấp dữ liệu cho các trang web phụ thuộc vào nó, thì cuối cùng nó có thể dựa vào dữ liệu ngày càng có chất lượng thấp – và có thể sẽ đưa ra những đề xuất tồi tệ hơn là ăn đá trong tương lai.

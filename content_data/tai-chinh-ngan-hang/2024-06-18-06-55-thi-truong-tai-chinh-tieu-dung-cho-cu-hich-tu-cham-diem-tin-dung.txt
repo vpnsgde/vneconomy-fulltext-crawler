@@ -1,0 +1,63 @@
+Tháng 3/2024, Ngân hàng Nhà nước công bố phiên bản lần thứ 7 của Dự thảo Nghị định Quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng (sandbox) để lấy ý kiến góp ý rộng rãi. Theo đó, chấm điểm tín dụng là một trong ba giải pháp fintech được tham gia sandbox.
+
+Theo chuyên gia, việc phát triển các mô hình chấm điểm tín dụng dựa trên phạm vi dữ liệu rộng hơn, bao gồm cả những dữ liệu tín dụng phi truyền thống, sẽ cho phép những khách hàng “under bank” (dưới chuẩn vay ngân hàng) được tiếp cận tín dụng thông qua các công ty tài chính tiêu dùng chính thống.
+
+Điểm tín dụng là căn cứ để các tổ chức tín dụng, công ty tài chính tiêu dùng đưa ra quyết định cho vay đối với mỗi cá nhân. Tại nhiều nước trên thế giới, việc khách hàng có được vay hay không, vay bao nhiêu tiền, lãi suất mức nào... hoàn toàn dựa vào điểm tín dụng.
+
+Ở Việt Nam, Ngân hàng Nhà nước đã xây dựng và phát triển Trung tâm Thông tin tín dụng quốc gia (CIC) song các chuyên gia đánh giá những thông tin này chỉ là một phần trong cơ cấu chấm điểm tín dụng.
+
+Trao đổi với VnEconomy, ông Nguyễn Hải Nam, Giám đốc Công ty TNHH Credit 360.AI, cho rằng có nhiều nguồn dữ liệu để chấm điểm tín dụng cho một cá nhân. Nếu người đó đã có tài khoản ngân hàng, đã thực hiện giao dịch với ngân hàng thì họ có thông tin về lịch sử tín dụng. Chẳng hạn, họ đã từng có bao nhiêu khoản vay, ở những đâu, lịch sử trả nợ như thế nào và những dữ liệu này được CIC thu thập và đánh giá.
+
+"Đây chỉ là một trong số nhiều trường thông tin giúp khắc họa chân dung người đi vay. Những thông tin phi truyền thống khác như hoạt động trên mạng xã hội, hành vi mua sắm trực tuyến… cũng có thể giúp đánh giá tín  nhiệm của một người, qua đó biết được người đi vay có đủ uy tín hay không thì vẫn chưa tồn tại trên hệ thống chấm điểm tín dụng hiện hành", Giám đốc Công ty TNHH Credit 360.AI nói.
+
+
+
+Các chuyên gia cho rằng trong một thời gian dài, các công ty tài chính tiêu dùng chính thống bị “vạ lây” bởi nhiều tổ chức cầm đồ, cho vay ngang hàng (P2P lending) hoạt động rầm rộ, cho vay dễ dãi bất chấp các nguyên tắc quản trị rủi ro.
+
+Cũng theo ông Nam, hiện nay có rất nhiều khách hàng dưới chuẩn ngân hàng là đối tượng phục vụ chủ yếu của các công ty tài chính tiêu dùng. Những người này thường không có lịch sử tín dụng bởi vậy các công ty tài chính tiêu dùng cần sử dụng những nguồn dữ liệu thay thế để đánh giá khả năng trả nợ của người vay, từ đó đưa ra quyết định cấp tín dụngk hay từ chối.
+
+PGS.TS Đặng Ngọc Đức, Trưởng khoa Tài chính - Ngân hàng, trường Đại học Đại Nam cho biết ở Trung Quốc, chỉ mất 2 phút 16 giây để giải quyết một khoản vay, bao gồm cả vấn đề giải ngân nhờ sử dụng cơ sở dữ liệu được thu thập từ chấm điểm tín dụng khách hàng, chấm điểm người tiêu dùng từ phong cách cuộc sống, từ xã hội.
+
+Các chuyên gia cho rằng trong một thời gian dài, các công ty tài chính tiêu dùng chính thống bị “vạ lây” bởi nhiều tổ chức cầm đồ, cho vay ngang hàng (P2P lending) hoạt động rầm rộ, cho vay dễ dãi bất chấp các nguyên tắc quản trị rủi ro.
+
+Những tổ chức này có thể giải ngân nhanh chóng chỉ dựa trên chứng minh thư nhân dân/bằng lái xe mà bỏ qua việc chấm điểm tín dụng người vay. Để bù đắp rủi ro cho những khoản cấp tín dụng dễ dãi này, nhiều tổ chức cầm đồ, cho vay ngang hàng đưa ra mức lãi suất cực cao và sử dụng các hình thức thu hồi nợ cực đoan, thậm chí không khác gì xã hội "đen"; gây hỗn loạn trên thị trường cho vay tiêu dùng trong một thời gian dài; khiến người dân nhầm lẫn giữa tín dụng tiêu dùng chính thống và tín dụng tiêu dùng không chính thống.
+
+Tuy nhiên, theo ông Nguyễn Hải Nam, để xây dựng và phát triển hệ thống chấm điểm tín dụng, các công ty tài chính tiêu dùng phải đầu tư nguồn lực rất lớn cho công nghệ và mạng lưới thu thập dữ liệu.
+
+“Hiện nay có nguồn dữ liệu chính thống từ căn cước công dân thì những đơn vị cho vay tiêu dùng chính thống cũng có lợi thế nhất định để tiếp cận nguồn dữ liệu này cho việc chấm điểm tín dụng. Trước đây, do không có dữ liệu chính thống từ cơ sở dữ liệu quốc gia về dân cư nên việc xác định danh tính của khách hàng để ra quyết định cho vay có thể tiêu tốn rất nhiều nguồn lực của các công ty tài chính tiêu dùng”, ông Nam đánh giá.
+
+Ông Lê Quốc Ninh, Chủ tịch Câu lạc bộ Tài chính tiêu dùng (Hiệp hội Ngân hàng Việt Nam), Tổng Giám đốc Công ty Tài chính TNHH MB Shinsei (Mcredit), lạc quan về triển vọng của ngành tài chính tiêu dùng khi giải pháp chấm điểm tín dụng được các cơ quan quản lý Nhà nước đẩy mạnh trong thời gian tới.
+
+
+
+“Chúng tôi đang triển khai ứng dụng kết quả mô hình chấm điểm khả tín của Bộ Công an trong công tác thẩm định và phê duyệt cấp tín dụng. Mô hình này dựa trên cơ sở dữ liệu dân cư quốc gia, giúp chấm điểm được cả những khách hàng chưa từng có lịch sử tín dụng. Nhờ đó, các tổ chức tín dụng có thể tăng khả năng nhận diện khách hàng và đưa ra các quyết định phê duyệt cấp tín dụng chính xác hơn”.
+
+“Chúng tôi đang triển khai ứng dụng kết quả mô hình chấm điểm khả tín của Bộ Công an trong công tác thẩm định và phê duyệt cấp tín dụng. Mô hình này dựa trên cơ sở dữ liệu dân cư quốc gia, giúp chấm điểm được cả những khách hàng chưa từng có lịch sử tín dụng. Nhờ đó, các tổ chức tín dụng có thể tăng khả năng nhận diện khách hàng và đưa ra các quyết định phê duyệt cấp tín dụng chính xác hơn”.
+
+Ông Lê Quốc Ninh đánh giá việc áp dụng mô hình chấm điểm khả tín vào quy trình cho vay sẽ là yếu tố quan trọng thúc đẩy quy mô tín dụng tiêu dùng trong thời gian tới vì những lý do sau.
+
+Thứ nhất,phạm vi dữ liệu rộng lớn, không chỉ gói gọn ở thông tin CIC sẽ cho phép các cá nhân có lịch sử tín dụng hạn chế được tiếp cận các khoản vay chính thống. Từ đó, tệp khách hàng của các công ty tài chính tiêu dùng được mở rộng.
+
+Thứ hai,sản phẩm được cá nhân hóa. Dựa vào kết quả chấm điểm khả tín, các tổ chức tín dụng có thể điều chỉnh sản phẩm tín dụng của mình phù hợp với các phân khúc rủi ro khác nhau, đưa ra các điều khoản cho vay được cá nhân hóa để có thể thu hút lượng khách hàng rộng hơn trong khi vẫn đảm bảo được việc cấp tín dụng là đúng và phù hợp với khả năng trả nợ và nhu cầu của khách hàng.
+
+Thứ ba,hiệu quả cấp tín dụng được cải thiện. Mô hình chấm điểm khả tín có thể được tích hợp vào quy trình thẩm định và phê duyệt khoản vay tự động, giúp việc ra quyết định tín dụng chính xác hơn.
+
+Thứ tư,mô hình chấm điểm khả tín có thể nhận diện được các hành vi gian lận bằng cách so khớp giữa thông tin khách hàng cung cấp và thông tin trong kho dữ liệu dân cư của Bộ Công an, giúp cấp tín dụng tiêu dùng cho đúng người có nhu cầu sẽ giúp cho các tổ chức tín dụng giảm được chi phí rủi ro, từ đó có thể đưa ra được mức lãi suất sản phẩm tốt hơn, giúp mở rộng quy mô tín dụng tiêu dùng một cách bền vững.
+
+Ông Nguyễn Hải Nam cho biết “nỗi đau” của các đơn vị xử lý, phân tích dữ liệu phục vụ cho việc chấm điểm tín dụng hiện nay là nguy cơ bị đánh đồng với hành vi mua bán dữ liệu cá nhân. Hiện nay, các bên đang rất khó khăn và lúng túng trong việc thu thập, phân tích dữ liệu; làm sao để tuân thủ các quy định về chia sẻ dữ liệu mà vẫn phát triển được hoạt động chấm điểm tín dụng trong khi việc này rất cần thiết, nhất là đối với nhóm khách hàng dưới chuẩn ngân hàng.
+
+Để phát triển hệ thống chấm điểm tín dụng cá nhân tương đương với các thị trường tài chính tiên tiến trên thế giới, ông Lê Quốc Ninh cũng cho rằng điều kiện đầu tiên là tập trung hoàn thiện hành lang pháp lý.
+
+“Cần có các quy định pháp lý rõ ràng và nhất quán về việc thu thập, xử lý và bảo mật dữ liệu tín dụng. Điều này bao gồm việc bảo vệ quyền riêng tư của người tiêu dùng và đảm bảo tính minh bạch trong quy trình chấm điểm tín dụng”, ông Ninh nói.
+
+
+
+"Đến cuối tháng 5/2024,Bộ Công an đã cấp trên 86 triệu thẻ căn cước công dân gắn chíp và thu nhận trên 75,16 triệu hồ sơ định danh điện tử, kích hoạt trên 53,88 triệu tài khoản (tỷ lệ kích hoạt trên tổng số hồ sơ thu nhận đạt 71,68%)".
+
+Trung tướngNguyễn Văn Long,Thứ trưởng Bộ Công an.
+
+Cùng với đó, những đơn vị chấm điểm tín dụng cá nhân và công ty tài chính tiêu dùng cũng cần các chính sách hỗ trợ từ Chính phủ và Ngân hàng Nhà nước, bao gồm việc khuyến khích và tạo điều kiện cho các tổ chức tín dụng áp dụng công nghệ mới trong chấm điểm tín dụng.
+
+Ngoài ra, ông Lê Quốc Ninh nhấn mạnh thị trường rất cần các trung tâm kết nối và chia sẻ dữ liệu.  Theo đó, cần dựng một nền tảng kết nối và chia sẻ dữ liệu tín dụng giữa các tổ chức tín dụng và cơ quan chức năng, kết hợp với các công ty lớn trong nước cung cấp dữ liệu phi tài chính được xác thực, giúp tạo ra một cơ sở dữ liệu phong phú và toàn diện hơn.
+
+Cùng đó, Việt Nam có thể tăng cường hợp tác và học hỏi kinh nghiệm từ các thị trường tài chính phát triển, áp dụng các mô hình và công nghệ tiên tiến phù hợp với điều kiện thực tế của Việt Nam, thiết lập quan hệ đối tác với các tổ chức quốc tế, các công ty công nghệ và các chuyên gia trong lĩnh vực chấm điểm tín dụng để chia sẻ kiến thức và kinh nghiệm.

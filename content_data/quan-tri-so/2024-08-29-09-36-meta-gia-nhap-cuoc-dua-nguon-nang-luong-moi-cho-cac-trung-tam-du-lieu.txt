@@ -1,0 +1,33 @@
+Gần đây, Meta đã thông báo rằng họ đang chuyển sang sử dụng năng lượng địa nhiệt trong một thỏa thuận mới với Sage Geosystems. Cụ thể, gã khổng lồ công nghệ đang hợp tác với Sage để phát triển hệ thống địa nhiệt cung cấp năng lượng không phát thải cho các trung tâm dữ liệu của mình. Giai đoạn đầu tiên dự kiến sẽ đi vào hoạt động vào năm 2027. Địa điểm cụ thể vẫn chưa được quyết định.
+
+Dự án địa nhiệt sẽ chiếm một phần nhỏ trong tổng năng lượng tái tạo của Meta, với sự hợp tác của Sage sản xuất 150MW so với tổng số 12.000MW năng lượng tái tạo theo hợp đồng.
+
+Tuy nhiên, do địa nhiệt vẫn ít được sử dụng ở Mỹ, chỉ chiếm 0,4% tổng sản lượng điện nên các chuyên gia kỳ vọng rằng khoản đầu tư này cũng sẽ có thể giúp bắt đầu sử dụng địa nhiệt rộng rãi hơn.
+
+Meta sẽ sử dụng Hệ thống địa nhiệt địa áp (GGS) của Sage như một phần của thỏa thuận. Địa nhiệt truyền thống đòi hỏi nguồn nhiệt như các hồ chứa dưới lòng đất, nhưng GGS của Sage khai thác năng lượng từ đá khô, nóng mà Meta cho rằng là nguồn tài nguyên vô cùng dồi dào trên khắp đất nước Mỹ
+
+“Chúng tôi hiểu rằng chúng tôi cần một nguồn năng lượng đáng tin cậy, giá cả phải chăng và không phát thải carbon, đồng thời chúng tôi cam kết tiên phong thực hiện các sáng kiến năng lượng sạch để hỗ trợ công việc của mình”, Meta cho biết trong một tuyên bố.
+
+Sự hợp tác này đã được công bố tại một sự kiện của chính phủ Mỹ về năng lượng địa nhiệt. Thứ trưởng Năng lượng Mỹ David Turk cho biết sự tăng trưởng trong các ngành công nghiệp mới như AI đã dẫn đến nhu cầu năng lượng tăng trưởng chưa từng có, bởi vậy nhu cầu năng lượng cần được cung cấp bởi các nguồn tái tạo.
+
+Ông nói thêm: “Chúng tôi coi nhu cầu gia tăng này là một cơ hội lớn để bổ sung thêm nguồn điện sạch, bền vững vào lưới điện và năng lượng địa nhiệt là yếu tố thay đổi cuộc chơi khi chúng tôi nỗ lực phát triển nguồn cung cấp năng lượng sạch của mình”.
+
+Động thái của Meta khiến nó trở thành công ty công nghệ lớn mới nhất đầu tư vào năng lượng địa nhiệt. Đầu năm nay, Google chuyển sang sử dụng địa nhiệt để tạo ra năng lượng bền vững khi đầu tư vào hai dự án ở Nevada.
+
+Thực tế các công ty công nghệ từ lâu đã đầu tư vào các nguồn năng lượng tái tạo, yếu tố chính khiến sự tập trung mạnh mẽ gần đây vào năng lượng tái tạo là do nhu cầu ngày càng tăng đối với cơ sở hạ tầng trung tâm dữ liệu của AI tạo ra.
+
+Đó là một vấn đề đã trở thành điểm nóng thường xuyên của các ông lớn công nghệ trong những tháng gần đây, khi nhiều người hiện đang phải vật lộn để đạt được các mục tiêu ESG đầy tham vọng.
+
+Vào tháng 7, Google thừa nhận lượng khí thải carbon của họ đã tăng 48% kể từ năm 2019, trong khi Microsoft cho biết lượng khí thải của họ tăng 30% kể từ năm 2020. Và trong khi các công ty như vậy đầu tư mạnh vào các nguồn tái tạo, các nhà phê bình cho rằng đó chỉ là sự bù đắp carbon .
+
+Mặc dù Meta cho biết khoản đầu tư vào địa nhiệt là dành cho các trung tâm dữ liệu của mình nhưng hệ thống Sage sẽ không trực tiếp tạo ra năng lượng cung cấp cho hệ thống của Meta.
+
+Thay vào đó, năng lượng sẽ được đưa trở lại vào lưới điện rộng hơn, giống như các khoản đầu tư vào năng lượng tái tạo của các công ty công nghệ lớn khác.
+
+Trong khi một số nguồn năng lượng tái tạo như năng lượng mặt trời có thể được các trung tâm dữ liệu sử dụng trực tiếp, thì các khoản đầu tư vào các nguồn năng lượng khác sẽ giúp phủ xanh lưới điện với số lượng tương đương với lượng đã sử dụng cho cơ sở hạ tầng công nghệ.
+
+Ví dụ, Amazon đầu năm nay cho biết họ đã đạt được 100% năng lượng tái tạo, vượt xa mục tiêu năm 2030. Điều đó đạt được bằng cách kết hợp mức tiêu thụ điện với đầu tư vào các nguồn tái tạo. Phân tích gần đây của Bloomberg Green tiết lộ rằng mặc dù các công ty bao gồm cả Amazon tuyên bố không có khí thải, nhưng điều đó phần lớn phụ thuộc vào các khoản tín dụng được gọi là chứng chỉ năng lượng tái tạo (REC).
+
+Về cơ bản, đây là những khoản bù đắp lượng carbon không thể đếm được, đặc biệt là về thời điểm năng lượng được tạo ra và tiêu thụ liên tục. Báo cáo lưu ý rằng nếu không tính những khoản tín dụng này, lượng khí thải của Amazon sẽ nhiều hơn 8,5 triệu tấn so với báo cáo, trong khi của Meta sẽ tăng từ 0 lên 740.000 tấn. Google hiện không sử dụng các khoản tín dụng này và đang tranh luận về các hệ thống tính toán lượng khí thải khác nhau.
+
+Báo cáo cũng lưu ý rằng Meta có tỷ lệ sử dụng năng lượng có nguồn gốc từ năng lượng tái tạo thực sự cao hơn Google.

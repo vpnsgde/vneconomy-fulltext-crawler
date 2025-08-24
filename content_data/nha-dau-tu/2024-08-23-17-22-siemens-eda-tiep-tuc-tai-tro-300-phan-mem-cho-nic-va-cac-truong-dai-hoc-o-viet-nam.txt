@@ -1,0 +1,23 @@
+Ngày 22/08/2024, Lễ khai giảng Chương trình đào tạo cho các giảng viên về thiết kế vi mạch bán dẫn kết hợp Hội thảo kỹ thuật chuyên đề về Thiết kế IC và sản xuất PCB của công ty Siemens EDA đã diễn ra tại Hà Nội.
+
+Chương trình do Trung tâm Đổi mới sáng tạo Quốc gia (NIC), thuộc Bộ Kế hoạch và Đầu tư phối hợp với Công ty Siemens EDA và Công ty Công nghệ Vietbay (Vietbay), Công ty SunEdu tổ chức.
+
+Tại sự kiện, Siemens EDA công bố tài trợ 300 bộ bản quyền phần mềm xác thực thiết kế bo mạch (Valor DFM) cho NIC và các trường đại học. Như vậy, cho tới nay Siemens EDA đã tài trợ 1.200 bộ bản quyền phần mềm cho NIC và 18 trường đại học đã được lựa chọn tham gia Đề án phát triển nguồn nhân lực cho ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2050 của Chính phủ Việt Nam.
+
+Phát biểu mở đầu tại hội nghị, Thứ trưởng Bộ Kế hoạch và Đầu tư Nguyễn Thị Bích Ngọc cho biết NIC và các đối tác đến từ các trường đại học, doanh nghiệp đã nỗ lực chung tay triển khai nhiều hoạt động thiết thực, làm sâu sắc mối quan hệ Nhà nước - Nhà trường - Nhà doanh nghiệp, đều vì mục tiêu chung là đào tạo hàng nghìn nhân sự tài năng trong ngành bán dẫn, tạo ra “đột phá của đột phá” trong đào tạo nguồn nhân lực chất lượng cao.
+
+“Qua những nỗ lực đó, tôi rất lạc quan về cơ hội của Việt Nam tham gia chuỗi giá trị ngành bán dẫn toàn cầu và giấc mơ Việt Nam thành công ghi danh trên bản đồ công nghệ toàn cầu sẽ không còn xa”, Thứ trưởng bày tỏ.
+
+Theo ông Dan Hoz, Nhà sáng lập kiêm Tổng Giám đốc bộ phận sản phẩm Valor,  Siemens EDA, rất ấn tượng về chiến lược và chính sách phát triển ngành công nghiệp bán dẫn của Chính phủ Việt Nam, đặc biệt là các hoạt động của Bộ Kế hoạch và Đầu tư để đưa Việt Nam trở thành điểm đến đầy hứa hẹn của ngành công nghiệp bán dẫn toàn cầu. NIC đã tích cực triển khai các hoạt động hợp tác chiến lược với nhà thiết kế và sản xuất chip bán dẫn, các tập đoàn công nghệ hàng đầu thế giới, trong đó có Siemens EDA để từng bước hiện thực hóa chiến lược phát triển ngành công nghiệp bán dẫn của Việt Nam.
+
+“Lúc này là thời điểm quan trọng và là cơ hội to lớn cho sự hợp tác giữa Siemens EDA và chính phủ Việt Nam trong việc xây dựng hệ sinh thái cũng như phát triển công tác đào tạo nhân lực cho ngành bán dẫn, từ đó thúc đẩy sự phát triển của ngành công nghiệp điện tử”, ông Dan Hoz nhấn mạnh.
+
+Cách đây 4 tháng, tại sự kiện ký Biên bản ghi nhớ hợp tác với Trung tâm Đổi mới sáng tạo Quốc gia (NIC), Siemens EDA đã trao tài trợ 900 bộ phần mềm tiên tiến nhất về thiết kế chip và bo mạch cho một số trường đại học tại Việt Nam thông qua Trung tâm. Việc Siemens EDA tiếp tục hỗ trợ Việt Nam phát triển toàn diện các công đoạn của ngành công nghiệp điện tử bán dẫn thông qua việc tài trợ bổ sung 300 bộ phần mềm Valor - bộ phần mềm thiết kế xác thực thiết kế giúp thúc đẩy sản xuất bo mạch điện tử nhanh chóng, hỗ trợ kết nối trực tiếp các nhà thiết kế và các nhà sản xuất bo mạch điện tử đồng thời tạo ra bản sao số của toàn bộ quy trình sản xuất bo mạch điện tử PCB.
+
+Tại sự kiện, bà Đàm Thị Hồng Lan - Giám đốc Công ty Công nghệ Vietbay - Nhà phân phối uỷ quyền của công ty Siemens EDA tại Việt Nam, cho biết công tác bàn giao bản quyền phần mềm và cài đặt phần mềm tài trợ đã hoàn thành. Siemens, NIC và Công từ CP Giáo dục Quốc tế SunEdu phối hợp tổ chức lớp đào tạo giảng viên bán dẫn theo hình thức hybrid.
+
+Tại hội thảo chuyên đề sau lễ khai giảng, ông Wayne Chow, chuyên gia bán dẫn đến từ Siemens EDA, đã giới thiệu bộ công cụ hỗ trợ xác thực vật lý chip Calibre. Calibre là giải pháp hàng đầu thế giới về xác thực chip trước khi đưa vào sản xuất, gói đã được nhiều tập đoàn chip bán dẫn sử dụng như: Samsung, Amkor, Xilinx, Mediatek, Fujitsu, Renesas...
+
+Bên cạnh đó, các chuyên gia EBS của Siemens EDA cũng cung cấp những thông tin cụ thể về giải pháp xác thực SI/PI/EMI cho PCB tốc độ cao với Hyperlynx; giải pháp về xác thực, lập quy trình sản xuất và kết nối sản xuất với các dây truyền SMT sản xuất và lắp rắp PCB với Valor DFM/ PP.
+
+Đây là những giải pháp đóng vai trò quan trọng trong việc tối ưu thời gian và giá thành sản xuất IC và PCB khi mà yêu cầu về thiết kế, công suất, tốc độ của các sản phẩm IC, PCB ngày càng cao, yêu cầu về xác thực và quy trình sản xuất ngày càng phức tạp mà các giải pháp truyền thống khó đáp ứng. Các Nhà trường, Nhà doanh nghiệp cần nghiên cứu, lựa chọn và áp dụng công nghệ phù hợp để giải quyết các bài toán phát sinh từ đó tăng khả năng cạnh tranh và chiếm lĩnh thị trường.

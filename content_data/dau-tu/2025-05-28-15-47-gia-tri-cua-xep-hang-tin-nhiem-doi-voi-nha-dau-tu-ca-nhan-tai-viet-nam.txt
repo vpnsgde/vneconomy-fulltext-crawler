@@ -1,0 +1,33 @@
+Trước năm 2023, thông tin về trái phiếu doanh nghiệp chủ yếu do tổ chức phát hành tự công bố theo chuẩn mực nội bộ hoặc thông tin rời rạc qua trang web doanh nghiệp, làm cho việc tìm kiếm và so sánh trở nên khó khăn.
+
+Việc trái phiếu riêng lẻ chỉ bắt buộc giao dịch trên thị trường OTC càng gia tăng độ “mù” thông tin. Từ đầu năm 2023, quy định về công bố thông tin trên Sở Giao dịch Chứng khoán Hà Nội (HNX) – bao gồm báo cáo tài chính đã kiểm toán, giải trình mục đích sử dụng vốn, và thông tin cơ bản về phát hành – đã phần nào cải thiện tình hình.
+
+Tuy nhiên, các thông tin này vẫn mang tính “lượng” hơn là “chất”: nhà đầu tư cần một chỉ báo đánh giá rủi ro tổng thể, khách quan hơn về khả năng thanh toán khoản nợ trái phiếu. Thực trạng này đặt ra nhu cầu cấp thiết về hoạt động xếp hạng tín nhiệm (XHTN) như một giải pháp hiệu quả nhằm cung cấp các tín hiệu đơn giản, đáng tin cậy về khả năng đáp ứng nghĩa vụ nợ của tổ chức phát hành hoặc trái phiếu.
+
+Theo thống kê của Moody’s Ratings, dựa trên dữ liệu lịch sử từ năm 1920 đến năm 2024, cho thấy mối tương quan rõ rệt giữa kết quả xếp hạng tín nhiệm và tỷ lệ vỡ nợ thực tế của các doanh nghiệp.
+
+Ví dụ, tỷ lệ vỡ nợ trung bình hàng năm của các tổ chức phát hành được xếp hạng hạng có thể đầu tư (Investment Grade - IG, từ Aaa đến Baa theo thang xếp hạng của Moody’s) chỉ khoảng 0,26%. Ngược lại, các tổ chức hoặc trái phiếu thuộc nhóm xếp hạng đầu cơ (Speculative Grade - SG, từ mức xếp hạng Ba trở xuống) có tỷ lệ vỡ nợ cao hơn nhiều, trung bình lên tới 2,90%, với mức tối đa ghi nhận lên đến 15,77% đối với nhóm này.
+
+Riêng nhóm được xếp hạng có khả năng đáp ứng nghĩa vụ nợ ở mức xấu (từu mức Caa tới C), có tỷ lệ vỡ nợ rất cao, trung bình là 10,39%. Những số liệu này chứng minh rõ ràng tính hữu dụng của XHTN trong việc dự báo khả năng mất khả năng thanh toán của các doanh nghiệp.
+
+Việc phân loại trái phiếu thành hai nhóm rõ ràng – nhóm có thể đầu tư và nhóm đầu cơ – giúp các nhà đầu tư cá nhân nhanh chóng nhận biết và phân biệt được mức độ rủi ro, từ đó hỗ trợ quá trình ra quyết định đầu tư hiệu quả hơn. Nghiên cứu khác được Taiwan Ratings cung cấp cho biết, thông qua việc đánh giá khách quan các yếu tố tài chính, quản trị và môi trường hoạt động, các tổ chức XHTN đã cung cấp một tín hiệu đơn giản nhưng mạnh mẽ giúp người mua trái phiếu tránh được các khoản đầu tư tiềm ẩn rủi ro cao.
+
+Thị trường Việt Nam những năm gần đây đã chứng kiến những cú sốc lớn liên quan đến tình trạng mất khả năng thanh toán trái phiếu doanh nghiệp trong giai đoạn 2022-2023.
+
+Một trong những nguyên nhân sâu xa chính là sự thiếu minh bạch và thông tin đầy đủ về tình hình tài chính, hoạt động kinh doanh và khả năng thanh toán của tổ chức phát hành. Chính vì vậy, sự có mặt của các tổ chức XHTN độc lập, khách quan trở nên vô cùng quan trọng. Các nhà đầu tư cá nhân ở Việt Nam, vốn ít có khả năng tiếp cận và phân tích thông tin sâu rộng như các nhà đầu tư tổ chức, rất cần những nguồn tin cậy này để đưa ra quyết định đầu tư chính xác.
+
+Một nghiên cứu được công bố trên tạp chí Economic Modelling (2022) khẳng định rằng XHTN không chỉ giúp giảm thiểu rủi ro mất cân đối thông tin, mà còn tăng cường tính minh bạch của thị trường tài chính nói chung. Điều này đặc biệt có ý nghĩa đối với một thị trường non trẻ và đang phát triển như Việt Nam, nơi mà niềm tin của nhà đầu tư cá nhân vào thị trường vốn là nền tảng cho sự phát triển bền vững.
+
+Để bảo vệ quyền lợi của mình, nhà đầu tư cá nhân cần chủ động yêu cầu minh bạch thông tin, mức xếp hạng tín nhiệm trước khi thực hiện đầu tư vào trái phiếu doanh nghiệp tín dụng. Cụ thể:
+
+Thứ nhất,tìm hiểu và ưu tiên các trái phiếu có xếp hạng tín nhiệm cao (investment grade) để giảm thiểu rủi ro.
+
+Thứ hai,yêu cầu tổ chức phát hành và các môi giới chứng khoán cung cấp báo cáo xếp hạng tín nhiệm hoặc đánh giá tín dụng trước khi quyết định mua trái phiếu.
+
+Thứ ba,theo dõi các báo cáo nghiên cứu chính thức của tổ chức xếp hạng trong nước và quốc tế để có góc nhìn toàn diện về chất lượng tín dụng.
+
+Việc nâng cao minh bạch thông tin, trong đó có công bố xếp hạng tín nhiệm, sẽ giúp thị trường trái phiếu hoạt động lành mạnh hơn. Khi nhà đầu tư cá nhân sử dụng các tín hiệu này để ra quyết định đầu tư thận trọng, rủi ro sẽ được giảm thiểu và niềm tin vào thị trường sẽ được củng cố. Không chỉ nhằm bảo vệ quyền lợi của chính họ, mà hành động này còn góp phần thúc đẩy một văn hóa minh bạch và trách nhiệm cao hơn trong cộng đồng doanh nghiệp và cả thị trường tài chính Việt Nam.
+
+Nhìn chung, hoạt động XHTN có giá trị đặc biệt lớn trong việc cung cấp những tín hiệu rõ ràng, đơn giản về khả năng đáp ứng nghĩa vụ nợ, giúp người đầu tư cá nhân tại Việt Nam tránh được các khoản đầu tư rủi ro, đảm bảo an toàn vốn và góp phần ổn định cho sự phát triển của thị trường tài chính trong dài hạn.
+
+(*) Trần Lê Minh*, Tổng Giám đốc VIS Rating

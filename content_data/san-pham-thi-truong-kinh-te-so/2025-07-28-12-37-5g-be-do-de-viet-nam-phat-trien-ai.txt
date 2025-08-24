@@ -1,0 +1,39 @@
+Mặc dù là quốc gia tiên phong tiếp cận mạng 5G kể từ giữa năm 2019, song Việt Nam lại thương mại hóa 5G chậm hơn so với kỳ vọng ban đầu. Tuy vậy, các nhà nghiên cứu của Trường Chính sách công Lý Quang Diệu (LKYSPP) tại báo cáo “Tận dụng 5G để đẩy nhanh quá trình chuyển đổi do AI dẫn dắt tại ASEAN: Những bắt buộc, góc nhìn chính sách và khuyến nghị”, đánh giá chiến lược “người theo sau” của Việt Nam là bước đi thông minh.
+
+Thay vì chạy đua trong giai đoạn đầu khi chi phí đầu tư còn rất cao và công nghệ chưa ổn định, Việt Nam đã tận dụng khoảng trễ để quan sát, học hỏi từ những sai lầm và bài học kinh nghiệm của các quốc gia đi trước, đồng thời hưởng lợi từ việc chi phí thiết bị hạ tầng 5G đã giảm mạnh.
+
+Một trạm thu phát sóng 5G (BTS), từng có giá hơn 100.000 USD năm 2020, đến cuối năm 2024 chỉ còn dưới 25.000 USD. Điều này mang lại lợi thế rõ rệt cho các quốc gia đi sau như Việt Nam, khi không chỉ tiết kiệm chi phí triển khai, mà còn có thể tiếp cận các giải pháp công nghệ mở và linh hoạt hơn như Open RAN (O-RAN), giúp tối ưu phần cứng và đẩy nhanh tiến độ phủ sóng mạng.
+
+Cách tiếp cận này không chỉ giúp Việt Nam tiết kiệm nguồn lực, mà còn đặt nền móng cho một chiến lược triển khai 5G bài bản, bền vững và có định hướng rõ ràng gắn liền với các mục tiêu chuyển đổi số quốc gia. Chính phủ đặt mục tiêu đến năm 2030, 5G sẽ phủ sóng hơn 99% dân số, với khoảng 90 triệu kết nối. Để thúc đẩy mục tiêu này, từ đầu năm 2025, nhiều chính sách hỗ trợ đã được ban hành. Chẳng hạn, các doanh nghiệp thiết lập tối thiểu 20.000 trạm gốc 5G sẽ được trợ cấp 15% chi phí thiết bị.
+
+Theo giới chuyên gia, để khai thác tối đa tiềm năng của mạng 5G, Việt Nam cần giải quyết một nút thắt lớn: hệ sinh thái ứng dụng và nền tảng công nghệ thông tin hiện vẫn chưa đủ trưởng thành.
+
+Tại các đô thị lớn, mạng FTTH tốc độ cao đã đáp ứng phần lớn nhu cầu của người dùng cá nhân, khiến việc chuyển sang 5G chưa thật sự cấp thiết. Trong khi đó, các lĩnh vực được kỳ vọng sẽ hưởng lợi nhiều nhất từ 5G như sản xuất, nông nghiệp, y tế hay giáo dục lại thiếu vắng các giải pháp số hóa đầu cuối, cũng như mô hình khai thác hiệu quả dựa trên dữ liệu lớn và AI.
+
+Để tháo gỡ điểm nghẽn này, Việt Nam hiện đang triển khai đồng thời ba hướng đi: Một là, thúc đẩy chuyển đổi số trong các ngành ưu tiên như nông nghiệp công nghệ cao, đô thị thông minh và logistics; hai là, đẩy mạnh ứng dụng AI trong dịch vụ công, từ quy hoạch đô thị, giao thông thông minh cho tới y tế dự phòng; ba là, khuyến khích các doanh nghiệp công nghệ trong nước phát triển các ứng dụng AI dựa trên nền tảng 5G, như thị giác máy tính, phân tích dữ liệu thời gian thực hay các hệ thống giám sát tự động.
+
+Sự kết hợp giữa 5G và AI, nếu được khai thác đúng hướng, sẽ không chỉ nâng cao hiệu quả vận hành trong từng lĩnh vực, mà còn tạo ra những mô hình kinh doanh mới, góp phần xây dựng nền kinh tế số Việt Nam hiện đại và bền vững.
+
+Chẳng hạn, trong lĩnh vực nông nghiệp, nhờ mạng 5G có độ trễ cực thấp, dữ liệu từ các cảm biến đo độ ẩm, hình ảnh cây trồng hay tình trạng đất đai được truyền tức thời về trung tâm phân tích. Tại đây, AI xử lý và đưa ra các khuyến nghị phù hợp về tưới tiêu, bón phân hay phòng trừ sâu bệnh theo từng loại cây và giai đoạn sinh trưởng. Như vậy, người nông dân cũng chỉ cần dùng điện thoại kết nối 5G để chụp ảnh lá cây và nhận phản hồi gần như ngay lập tức.
+
+Trong sản xuất, 5G và AI hỗ trợ đồng bộ hóa dây chuyền, phát hiện lỗi thiết bị sớm, tối ưu năng lượng và giảm thời gian chết. Tất cả được thực hiện ngay tại thiết bị đầu cuối, nhờ trí tuệ nhân tạo biên (edge AI) – mô hình xử lý dữ liệu ngay tại điểm phát sinh thay vì phụ thuộc vào đám mây.
+
+Chẳng hạn, tại Singapore, Cảng Tuas của nước này đã và đang vận hành hoàn toàn tự động nhờ AI và qua mạng 5G. Trong vòng ba năm đầu hoạt động, cảng đã xử lý hơn 10 triệu TEU mà không cần bất kỳ nhân sự vận hành trực tiếp nào, trở thành hình mẫu cho sự chuyển đổi từ logistics truyền thống sang trung tâm thông minh toàn diện.
+
+Hiện nay, để tận dụng sức mạnh tổng hợp giữa 5G và AI, Việt Nam đã có những bước chuẩn bị đồng bộ cả về hạ tầng và thể chế. Các nền tảng dữ liệu mở đang dần được triển khai, tạo điều kiện cho doanh nghiệp công nghệ tiếp cận thông tin công phục vụ phân tích và đào tạo mô hình AI. Đồng thời, sự hiện diện của các tập đoàn lớn như Intel, Foxconn, Pegatron và đặc biệt là Trung tâm Đổi mới Sáng tạo 5G do Ericsson vận hành đang từng bước hình thành chuỗi cung ứng thiết bị AI và viễn thông ngay trong nước – một nền tảng quan trọng để phát triển bền vững.
+
+Về chính sách, Việt Nam đã ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng Trí tuệ nhân tạo đến năm 2030, Luật Bảo vệ dữ liệu cá nhân và hoàn thiện các khuôn khổ pháp lý thử nghiệm (sandbox) cho công nghệ mới trong các lĩnh vực như tài chính, y tế, giao thông và quản lý công. Đây là cơ sở để các công nghệ đổi mới được thử nghiệm, hoàn thiện và sớm đưa vào ứng dụng thực tiễn.
+
+Tuy ghi nhận những tín hiệu tích cực ban đầu trong ứng dụng AI tại Việt Nam, GS.Vũ Minh Khương, Trường Chính sách công Lý Quang Diệu, cho rằng để AI thực sự tạo ra đột phá như hỗ trợ tính toán chính xác, tối ưu hóa quy trình sản xuất hay nâng cao hiệu quả chuỗi cung ứng, thì hạ tầng mạng 5G cần được đầu tư mạnh mẽ và đồng bộ hơn.
+
+“Vấn đề hiện tại tôi chưa thấy chiến lược rõ ràng ở các nhà mạng viễn thông. Họ nhận ra giá trị kinh tế tiềm năng, nhưng vẫn chưa thực sự đầu tư đúng mức. Điều này có thể khiến quá trình triển khai bị chậm lại. Tôi cho rằng Chính phủ cần chủ động điều phối giống như cách Singapore đang làm bằng cách kết nối các bên: nhà cung cấp công nghệ quốc tế, doanh nghiệp trong nước, người dùng và các quỹ tài trợ. Quan trọng nhất là tạo ra các kịch bản ứng dụng cụ thể để tạo lực kéo cho các mô hình hợp tác phát triển 5G và AI một cách thiết thực”, GS.Vũ Minh Khương nhấn mạnh.
+
+AI không chỉ chạy trên nền tảng 5G, mà còn giúp chính mạng 5G trở nên thông minh hơn. Nhờ khả năng học hỏi và phân tích theo thời gian thực, AI có thể tối ưu hóa vận hành mạng, phân bổ tài nguyên linh hoạt, dự đoán các điểm nghẽn và giảm thiểu độ trễ để đảm bảo chất lượng dịch vụ trong môi trường kết nối dày đặc và nhu cầu tăng cao.
+
+Chẳng hạn, khi lưu lượng tăng đột biến tại một sự kiện thể thao, nút giao thông đông đúc hay khu vực đô thị cao điểm, AI có thể tự động điều chỉnh dung lượng băng thông, ưu tiên các dịch vụ quan trọng như điều khiển xe tự hành, phẫu thuật từ xa hay cấp cứu y tế. Ngoài ra, AI có thể phát hiện các hành vi bất thường, ngăn chặn sớm các cuộc tấn công và giảm thiểu rủi ro gián đoạn so với mô hình phản ứng truyền thống.
+
+Việc chính thức tắt sóng 2G từ tháng 9/2024 cùng với các chương trình trợ giá điện thoại 4G/5G của Viettel, MobiFone và VinaPhone cho thấy nỗ lực nhất quán của Chính phủ và doanh nghiệp trong việc thúc đẩy tiến trình chuyển đổi hạ tầng. Theo số liệu từ Cục Tần số vô tuyến điện (Bộ Khoa học và Công nghệ), tính đến tháng 5/2025, ba nhà mạng lớn đã triển khai khoảng 11.000 trạm 5G, phủ sóng tại toàn bộ 63 tỉnh, thành phố (nay là 34 tỉnh, thành phố) và tiếp cận khoảng 26% dân số. Dự kiến đến cuối năm 2025, số trạm phát sóng 5G trên toàn quốc sẽ đạt khoảng 68.000 – tương đương 57% quy mô mạng 4G hiện nay và có khả năng phủ sóng tới 90% dân số...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 30-2025 phát hành ngày 28/07/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://premium.vneconomy.vn/dat-mua/an-pham/tap-chi-kinh-te-viet-nam-so-30.html

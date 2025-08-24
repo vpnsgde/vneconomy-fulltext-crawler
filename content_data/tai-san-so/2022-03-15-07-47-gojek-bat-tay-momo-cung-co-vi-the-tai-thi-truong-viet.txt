@@ -1,0 +1,11 @@
+Ngày 14/3, MoMo và Gojek đã công bố hợp tác chiến lược, theo đó MoMo sẽ hỗ trợ hệ sinh thái hàng triệu người dùng của Gojek đang sử dụng các dịch vụ gọi xe công nghệ trực tuyến GoRide (xe máy), GoCar (ô tô), giao đồ ăn trực tuyến GoFood và giao hàng GoSend, mang tới cho khách hàng Gojek lựa chọn thanh toán qua ví điện tử bên cạnh thanh toán bằng thẻ tín dụng, thẻ ghi nợ và tiền mặt.
+
+Ngoài ra, Gojek không ngừng mở rộng các tính năng cũng như sản phẩm, dịch vụ mới, thông qua sự kết nối với 200 nghìn đối tác tài xế và hàng chục nghìn nhà hàng, MoMo sẽ có thể tiếp cận những đối tượng khách hàng mới, đa dạng, góp phần nâng cao trải nghiệm người dùng.
+
+Hình thức thanh toán qua ví điện tử phát triển nhanh những năm gần đây tại Việt Nam nhờ tính tiện lợi, nhanh chóng, tiết kiệm. Việc thanh toán không tiếp xúc cũng giúp đảm bảo an toàn tốt hơn cho người dùng trong các giao dịch, đặc biệt đối với các giao dịch có tần suất lặp lại cao như ăn uống, đi lại, giao nhận hàng trong bối cảnh thương mại điện tử phát triển nhanh chóng tại Việt Nam cũng như giảm thiểu nguy cơ lây nhiễm Covid.
+
+Ông Nguyễn Bá Diệp, Đồng sáng lập Phó Chủ tịch Ví MoMo, cho biết: MoMo với hơn 31 triệu người dùng, kết hợp cùng nền tảng liên kết hàng trăm nghìn tài xế cùng các cửa hàng ăn uống của Gojek chắc chắn sẽ đem lại thêm nhiều lựa chọn và trải nghiệm thanh toán tối ưu cho người dùng.
+
+Ông Phùng Tuấn Đức, Tổng Giám đốc Gojek Việt Nam, chia sẻ thông qua việc tích hợp ví MoMo trên ứng dụng Gojek sẽ góp phần vào việc thúc đẩy thanh toán không dùng tiền mặt tại Việt Nam, thay đổi thói quen người dùng và không ngừng mở rộng hệ sinh thái thanh toán kỹ thuật số.
+
+Được biết tại các quốc gia Đông Nam Á khác, Gojek đẩy mạnh phát triển ví điện tử của riêng ứng dụng này là GoPay thay vì hợp tác với ví điện tử khác. Trước Gojek, Grab cũng sở hữu GrabPay và hợp tác với một số ví điện tử khác.

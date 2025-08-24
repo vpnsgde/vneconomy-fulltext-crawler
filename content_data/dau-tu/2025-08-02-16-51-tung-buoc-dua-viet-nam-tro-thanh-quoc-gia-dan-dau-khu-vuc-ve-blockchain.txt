@@ -1,0 +1,29 @@
+Phát biểu tại Hội thảo “Phát triển công nghệ chiến lược Blockchain trong kỷ nguyên mới tại Việt Nam” do Trung tâm Đổi mới sáng tạo quốc gia (NIC) tổ chức sáng 2/8, ông Nguyễn Thanh Tuyên, Phó cục trưởng Cục Công nghiệp công nghệ thông tin, Bộ Khoa học và Công nghệ, cho biết thế giới đang sống trong một kỷ nguyên mà dữ liệu được ví như “dầu mỏ” của nền kinh tế số. Mọi giao dịch, tương tác và quy trình đều đang được số hóa với tốc độ chóng mặt. Tuy nhiên, đi kèm với sự tiện lợi đó là một thách thức khổng lồ: làm thế nào để đảm bảo tính tin cậy, minh bạch và an toàn trong một thế giới phi tập trung và kết nối liên tục?
+
+“Trong bối cảnh đó, blockchain nổi lên như một hạ tầng số nền tảng, có khả năng tạo ra niềm tin số, thứ vốn là điều kiện thiết yếu cho sự vận hành bền vững, minh bạch và hiệu quả của nền kinh tế hiện đại”, ông Tuyên nhấn mạnh.
+
+Nhận thức sâu sắc tiềm năng to lớn này, Việt Nam đã không đứng ngoài cuộc. Cụ thể, Nghị quyết 57-NQ/TW của Bộ Chính trị đã xác định rõ blockchain là một trong các công nghệ chiến lược cần được ưu tiên phát triển đến năm 2030, bên cạnh những công nghệ định hình tương lai khác như Trí tuệ nhân tạo (AI), Internet vạn vật (IoT), Dữ liệu lớn (Big Data), và Điện toán đám mây.
+
+Để cụ thể hóa tầm nhìn này, hàng loạt các quyết sách quan trọng đã được ban hành, tạo thành một lộ trình phát triển bài bản. Ngày 22/10/2024, Thủ tướng Chính phủ đã ban hành Quyết định số 1236/QĐ-TTg về Chiến lược quốc gia phát triển Blockchain đến năm 2025, định hướng đến năm 2030. Chiến lược đặt ra những mục tiêu vô cùng tham vọng, đến năm 2030, đưa Việt Nam trở thành một trong các quốc gia dẫn đầu khu vực và có vị thế quốc tế về nghiên cứu, phát triển và ứng dụng Blockchain; xây dựng ít nhất 20 thương hiệu uy tín trong khu vực về các sản phẩm, dịch vụ và nền tảng công nghệ Blockchain; duy trì 3 trung tâm hoặc đặc khu thử nghiệm Blockchain tại các đầu tàu kinh tế là Hà Nội, TP.HCM và một địa phương trung tâm khác, nhằm tạo ra môi trường sandbox lý tưởng cho việc kết nối giữa doanh nghiệp, viện nghiên cứu và ứng dụng thực tiễn.
+
+Tiếp đó, Quyết định số 1131/QĐ-TTg ngày 12/6/2025 đã ban hành Danh mục công nghệ chiến lược và sản phẩm công nghệ chiến lược, trong đó xác lập rõ các lĩnh vực ưu tiên của Blockchain bao gồm: Hạ tầng mạng blockchain; tài sản số và tiền mã hóa; hệ thống truy xuất nguồn gốc; và ứng dụng hợp đồng thông minh phục vụ hành chính công và sản xuất.
+
+Đặc biệt, bước ngoặt quan trọng là việc Quốc hội thông qua Luật Công nghiệp công nghệ số vào ngày 14/6/2025. Đây là một cột mốc lịch sử, lần đầu tiên tạo ra một hành lang pháp lý minh bạch và rõ ràng cho ngành, đặc biệt là việc công nhận và quy định về tài sản số.
+
+Sự rõ ràng về mặt pháp lý này được kỳ vọng sẽ trở thành cú hích mạnh mẽ, tháo gỡ những nút thắt cuối cùng, giải phóng tiềm năng sáng tạo và thu hút đầu tư vào các ứng dụng Blockchain tại Việt Nam, nhất là trong các lĩnh vực trọng yếu như nông nghiệp, tài chính - ngân hàng, chứng khoán, thương mại điện tử và dịch vụ công.
+
+Việt Nam không đơn độc trên hành trình này. Nhiều quốc gia trên thế giới đã và đang gặt hái những thành quả ban đầu từ việc triển khai blockchain trên quy mô lớn.
+
+Theo ông Tuyên, Hàn Quốc đã tiên phong trong việc ứng dụng blockchain để nâng cao hiệu quả dịch vụ công. Nền tảng “Blockchain Open Platform” của Hàn Quốc đã giúp số hóa chứng chỉ học tập, hồ sơ y tế qua dự án MediBloc, và hệ thống truy xuất nguồn gốc nông sản, góp phần xây dựng các thành phố thông minh như Sejong.
+
+Tại Các Tiểu vương quốc Ả Rập Thống nhất (UAE), “Dubai Blockchain Strategy” đặt mục tiêu chuyển đổi toàn bộ tài liệu hành chính sang nền tảng số, ước tính tiết kiệm 1,5 tỷ USD mỗi năm. Hệ thống định danh số quốc gia UAE Pass, xây dựng trên blockchain, đảm bảo an toàn và minh bạch cho mọi giao dịch của công dân.
+
+Trung Quốc đã tích hợp blockchain vào chiến lược quốc gia “Internet Plus” một cách toàn diện, từ việc thử nghiệm đồng tiền số e-CNY, cung cấp dịch vụ tài chính vi mô qua WeBank, đến việc truy xuất nguồn gốc nông sản của JD.com, tất cả được hỗ trợ bởi hạ tầng Blockchain Service Network (BSN) quốc gia.
+
+“Những bài học thành công này chính là kinh nghiệm quý báu cho Việt Nam. Chúng ta hoàn toàn có thể áp dụng mô hình truy xuất nguồn gốc cho các sản phẩm nông sản chủ lực như cà phê, lúa gạo, thủy sản, nâng cao giá trị thương hiệu Việt trên thị trường quốc tế. Tương tự, việc xây dựng một hệ thống danh tính số quốc gia dựa trên blockchain sẽ là nền tảng cho chính phủ điện tử, tài chính toàn diện và các dịch vụ công thế hệ mới”, ông Tuyên nhấn mạnh.
+
+Để biến những tiềm năng đó thành hiện thực, việc xây dựng một hệ sinh thái công nghệ vững mạnh là yếu tố sống còn. Trung tâm Đổi mới sáng tạo Quốc gia (NIC) đang đóng vai trò là cầu nối trong việc thực hiện sứ mệnh này.
+
+Ông Võ Xuân Hoài, Phó giám đốc NIC, cho biết NIC là một trong những đơn vị nòng cốt, tiên phong trong lĩnh vực đổi mới sáng tạo, được giao nhiệm vụ kết nối nguồn lực trong và ngoài nước, thúc đẩy tìm hiểu, kết nối và nghiên cứu các ngành công nghệ chiến lược mới, trong đó có blockchain.
+
+NIC cam kết sẽ đồng hành cùng các đối tác để thúc đẩy liên kết trong hệ sinh thái, hỗ trợ các doanh nghiệp khởi nghiệp sáng tạo, đẩy mạnh đào tạo nguồn nhân lực số chất lượng cao và quan trọng hơn cả là tiếp tục hỗ trợ kiến tạo một môi trường thể chế thuận lợi. Đây chính là mảnh đất để các ý tưởng blockchain có thể nảy mầm, phát triển lành mạnh và đóng góp thiết thực vào sự phát triển kinh tế - xã hội của đất nước.

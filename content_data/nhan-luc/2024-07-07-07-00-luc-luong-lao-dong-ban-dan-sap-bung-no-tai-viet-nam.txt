@@ -1,0 +1,31 @@
+Theo Bộ Thông tin và Truyền thông, đến năm 2023, quy mô của ngành bán dẫn tại Việt Nam ước đạt 20-30 tỷ USD.
+
+Ghi nhận dữ liệu từ Cổng thông tin Khoa học và Công nghệ Quốc gia, Việt Nam hiện có gần 5.600 kỹ sư thiết kế vi mạch bán dẫn. Trong khi đó, Bộ Thông tin và Truyền thông cũng đang xây dựng Chiến lược quốc gia về công nghiệp bán dẫn có mục tiêu đào tạo 50.000 kỹ sư đến năm 2030. Điều này có nghĩa mỗi năm cả nước cần 10.000 kỹ sư bán dẫn đáp ứng nhu cầu thị trường. Tuy nhiên, hiện nay, nguồn nhân lực trong nước chỉ mới đảm bảo được 50% mục tiêu nhân sự mỗi năm đề ra.
+
+Nhằm đáp ứng "cơn khát" nhân lực của ngành, từ doanh nghiệp đến các trường đại học Việt Nam đều đang đẩy mạnh đầu tư đào tạo và nâng cao năng lực cho đội kỹ sư trong ngành trong những năm tới.
+
+Theo thống kê của Bộ Giáo dục và Đào tạo, Việt Nam hiện có khoảng 35 cơ sở giáo dục đại học trực tiếp đào tạo hoặc gần với ngành công nghệ bán dẫn. Trong đó, Đại học Bách khoa Hà Nội, Đại học Quốc gia Hà Nội, Đại học Quốc gia TP.HCM là những cơ sở hàng đầu về đào tạo các cử nhân, kỹ sư phục vụ lĩnh vực chip bán dẫn.
+
+Các trường đại học đều đang tích cực nâng cao chất lượng đào tạo, mở rộng quy mô tuyển sinh để đáp ứng nhu cầu lao động ngành bán dẫn trong tương lai. Điều này phản ánh sự nhạy bén trong việc thích ứng với biến đổi nhanh chóng của thị trường lao động.
+
+Theo đó, năm 2023, Đại học Bách khoa Hà Nội đã mở thêm chuyên ngành Thiết kế vi mạch trong ngành đào tạo Kỹ thuật Điện tử Viễn thông và ngành Kỹ thuật vi điện tử và Công nghệ nano. Trong năm học 2024 – 2025, Trường Đại học Phenikaa công bố tuyển sinh mới hai chương trình đào tạo thuộc lĩnh vực vi mạch bán dẫn gồm: “Thiết kế vi mạch bán dẫn”, “Chip bán dẫn và công nghệ đóng gói”.
+
+Theo FPT, mức lương của kỹ sư trong ngành bán dẫn tương đối cao, khởi điểm thường dao động từ 15-20 triệu đồng/tháng và có thể tăng lên 50-70 triệu đồng/tháng sau 5-10 năm kinh nghiệm.
+
+Thời gian vừa qua, để đào tạo nhân lực đạt chuẩn kỹ năng quốc tế, Việt Nam đã tăng cường hợp tác với các công ty công nghệ toàn cầu như Tập đoàn Synopsys, Intel, Cadence,...
+
+Theo đó, tháng 6 vừa qua, Trường Đại học Phenikaa phối hợp cùng Synopsys tổ chức khai giảng khóa đào tạo “Train the Trainers” về thiết kế vi mạch bán dẫn dành cho giảng viên đại học, kỹ sư và sinh viên. Trong tháng 3, Tập đoàn Synopsys cũng đã ký kết hợp tác với Đại học Quốc gia TP.HCM phát triển nhân lực lĩnh vực thiết kế vi mạch.
+
+Ngoài ra, Tập đoàn Intel cũng cam kết hỗ trợ Trung tâm nghiên cứu, đào tạo thiết kế vi mạch và trí tuệ nhân tạo Đà Nẵng (DSAC) tổ chức các lớp đào tạo giảng viên trong lĩnh vực trí tuệ nhân tạo.
+
+Mới đây, Tổng thống Hàn Quốc cũng tuyên bố sẽ hỗ trợ Việt Nam đào tạo nguồn nhân lực trong ngành bán dẫn, công nghệ cao.
+
+Năm 2006, Intel là tập đoàn chip đầu tiên đưa một phần quy trình sản xuất chip vào Việt Nam, với tổng vốn đầu tư vào Việt Nam đến tháng 1/2021 đạt 1,5 tỷ USD.
+
+Ngày 9/2023, Hana Micron Vina (Hàn Quốc), doanh nghiệp sản xuất và gia công bảng vi mạch tích hợp sử dụng cho điện thoại di động và các sản phẩm điện tử thông minh khác khánh thành nhà máy sản xuất chất bán dẫn tại Bắc Giang.
+
+Cuối năm 2023, Samsung Electro-Mechanics bắt đầu sản xuất các sản phẩm lưới bóng chip bán dẫn tại Thái Nguyên.
+
+Với vị trí địa lý thuận lợi, nguồn nhân công giá rẻ, chính sách và hành lang pháp lý cởi mở, Việt Nam hiện đang trở thành điểm đến của nhiều ông lớn trong ngành bán dẫn của Mỹ, Đức, Trung Quốc, Hàn Quốc.
+
+Nỗ lực đẩy mạnh đào tạo nhanh chóng và chất lượng nguồn nhân lực cho ngành vi mạch bán dẫn, dự kiến trong những năm tới số lượng kỹ sư trong lĩnh vực này sẽ gia tăng nhanh chóng, bổ sung nguồn nhân lực chất lượng cao đang thiếu hụt tại Việt Nam.

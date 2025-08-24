@@ -1,0 +1,33 @@
+Thu thập dữ liệu để kiếm lợi nhuận là cách cả hệ sinh thái kỹ thuật số vận hành. Meta, công ty mẹ của Facebook, Instagram và WhatsApp, có thể được xem là ví dụ điển hình.
+
+Các báo cáo tài chính quý mới đây của Meta gần như đều chỉ ra 98% doanh thu (trị giá 1.480 tỷ USD) của tập đoàn này đến từ quảng cáo. Để đạt được con số ấy, Meta đã tận dụng hiệu quả dữ liệu của hơn 7 tỷ người dùng hoạt động hàng tháng để phục vụ cho hoạt động quảng cáo.
+
+Kể từ năm 2007, một năm sau khi Facebook giới thiệu dịch vụ quảng cáo cá nhân hóa, doanh thu công ty đã tăng vọt từ hơn 50 triệu lên hàng trăm tỷ USD. Sau 17 năm, con số này đã tăng hơn 1.000 lần. Đằng sau cú nhảy vọt của gã khổng lồ là cỗ máy thu thập dữ liệu cực kỳ hiệu quả.
+
+Phân tích chiến lược thu thập dữ liệu của các công ty, Phó giáo sư kỹ thuật điện và máy tính Kassem Fawaz cùng nghiên cứu sinh tiến sĩ khoa học máy tính Jack West tại Đại học Wisconsin-Madison, chi ra Meta đang thu thập 5 nhóm thông tin chính: Thông tin hồ sơ (tuổi, giới tính, nơi ở, nghề nghiệp); Hành động (Tương tác, lượt thích, bình luận, nội dung chia sẻ), Mối quan hệ người dùng, Thiết bị sử dụng và ứng dụng liên kết (Dữ liệu tạo ra khi tương tác với các ứng dụng hoặc trang web có kết nối với nền tảng của Meta)
+
+Nhưng thực tế, Meta không phải công ty duy nhất, các nền tảng mạng xã hội khác cũng đều áp dụng chiến lược tương tự.
+
+Trước thời đại smartphone và mạng xã hội, các công ty từng phải chi hàng triệu USD cho các khảo sát nhân khẩu học quy mô lớn để hiểu thị trường. Thế nhưng, hiện nay, không những đầu tư ít hơn, các ứng dụng thậm chí còn có thể âm thầm thu thập dữ liệu người dùng từng giây, từng phút. Kết quả là, dữ liệu người dùng càng chi tiết, quảng cáo càng "cá nhân hóa", nhà phát triển ứng dụng càng kiếm được nhiều tiền.
+
+Quay lại ví dụ cụ thể từ Facebook, các chuyên gia cho biết ngay từ giây phút người dùng “trung thực” tạo tài khoản, nền tảng này đã thu về một kho thông tin quý giá như tuổi, giới tính, vị trí địa lý, thậm chí cả nơi làm việc. Nhưng đây chỉ là bước khởi đầu.
+
+Khi người dùng bắt đầu tương tác, như vuốt màn hình, dừng lại xem một video, ấn thích một bức ảnh hay nhấn vào liên kết, tất cả đều được ghi nhận. Dòng dữ liệu ấy âm thầm chảy về các máy chủ, các thuật toán bắt đầu phác họa một chân dung kỹ thuật số người dùng ngày càng sắc nét.
+
+Thế nên, các nhà quảng cáo không chỉ biết người dùng thích gì, mà còn biết họ đã dừng lại bao lâu ở một bài đăng, hay thường xuyên xem nội dung vào thời điểm nào trong ngày. Từ đó, nội dung hiển thị sẽ được tinh chỉnh tức thì: quảng cáo được cá nhân hóa, gợi ý bài viết chính xác hơn, thậm chí là sắp xếp lại giao diện để giữ chân người dùng lâu hơn, khuyến khích người dùng mua sắm hoặc chia sẻ thêm dữ liệu.
+
+Thiết bị người dùng sử dụng như điện thoại nào, máy tính bảng đời bao nhiêu, dòng máy tính nào cũng là dữ liệu có giá trị. Nó cho phép các nền tảng suy đoán mức độ trung thành với thương hiệu, khả năng tài chính, hoặc đánh giá xem bạn có phải là “khách hàng đắt giá” hay không.
+
+Nếu không cẩn trọng việc đồng ý các quyền truy cập, người dùng sẽ vô tình trao cho ứng dụng cả vị trí, lịch sử di chuyển, thói quen hằng ngày, thậm chí là thông tin của những người thân quen. Chẳng hạn như nếu cho phép truy cập danh bạ, ứng dụng có thể thu thập toàn bộ thông tin, bao gồm tên, số điện thoại, email của những người được lưu trong danh bạ.
+
+Đáng chú ý, nhiều công ty công nghệ còn theo dõi hành vi xuyên ứng dụng, thông qua dữ liệu được chia sẻ giữa các nền tảng. Hình thức thu thập chéo dữ liệu này cho phép doanh nghiệp đồng bộ hóa thông tin người dùng trên nhiều ứng dụng khác nhau, từ đó hiển thị quảng cáo với độ chính xác cao hơn.
+
+Điều này giải thích lý do vì sao chỉ tìm kiếm sản phẩm trên một sàn thương mại điện tử, nhưng sau đó người dùng lại nhìn thấy quảng cáo sản phẩm đó cả trên mạng xã hội.
+
+Điều này khiến không ít người có cảm giác như các ứng dụng đang “nghe lén” mình. Nhưng trên thực tế, đó chỉ là kết quả của một hệ thống phân tích hành vi tinh vi – được nuôi bằng lượng dữ liệu khổng lồ thu thập từ nhiều nền tảng cùng lúc.
+
+Theo Fast Company, các tập đoàn công nghệ như Google, Meta, X (Twitter), TikTok hay Snapchat đều có khả năng xây dựng hồ sơ người dùng cực kỳ chi tiết, dựa trên dữ liệu được thu thập từ nhiều ứng dụng và nền tảng mạng xã hội.
+
+Những hồ sơ này không chỉ phục vụ cho việc phân phối nội dung và quảng cáo “đúng người, đúng thời điểm” trên nền tảng của họ, mà còn có thể được bán lại cho các đối tác quảng cáo nhằm tối đa hóa lợi nhuận.
+
+Thế nhưng, dù hiểu rõ, thì việc bị thu thập dữ liệu cá nhân là điều khó tránh khỏi. Tuy nhiên, người dùng cũng có thể hạn chế điều này bằng các biện pháp như đọc kỹ chính sách quyền riêng tư trước khi cài đặt ứng dụng; gỡ bỏ các quyền truy cập không cần thiết như vị trí, danh bạ, ảnh; tắt các tính năng như “hoạt động ngoài ứng dụng” hay “cá nhân hóa quảng cáo” và kiểm tra và cập nhật cài đặt quyền riêng tư sau mỗi lần nâng cấp hệ điều hành hoặc ứng dụng.

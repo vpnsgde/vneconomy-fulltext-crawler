@@ -1,0 +1,23 @@
+Mô hình ngôn ngữ lớn (LLM) mã nguồn mở đầu tiên trên thế giới dành riêng cho ngành công nghiệp bán dẫn- SemiKong vừa chính thức được công bố với kỳ vọng tối ưu hóa các quy trình và công nghệ chế tạo chất bán dẫn, nhanh chóng khai thác tiềm năng của ngành công nghiệp trị giá 500 tỷ USD này trong 5 năm tới.
+
+Đây là thành quả của sự hợp tác giữa các thành viên của Liên minh AI thế giới gồm AITOMATIC, Tokyo Electron (TEL) và FPT Software (Công ty thành viên của Tập đoàn FPT). FPT Software tham gia xây dựng nguồn lực cơ sở hạ tầng và tinh chỉnh mô hình nền tảng bán dẫn cho SemiKong.
+
+
+
+SemiKong vượt trội hơn các mô hình ngôn ngữ chung như GPT và Llama3 về độ chính xác, tính liên kết và khả năng hiểu biết về các quy trình bán dẫn. Các phiên bản của SemiKong đều đem lại hiệu quả đáng kể trong việc giúp thúc đẩy tốc độ đổi mới và giảm giá thành của toàn bộ chuỗi giá trị bán dẫn.
+
+SemiKong có thể góp phần làm hạ giá thành sản xuất chất bán dẫn, từ đó, người tiêu dùng sẽ được trực tiếp hưởng lợi qua việc giảm chi phí mua điện thoại thông minh, máy tính xách tay và thiết bị gia đình thông minh trong những năm tới.
+
+Theo TS Anthony Annunziata, Trưởng phòng Sáng tạo mở AI và Liên minh AI tại IBM Research, SemiKong là minh chức rõ nét cho việc hiện thực hóa sứ mệnh của Liên Minh AI Thế giới trong thúc đẩy áp dụng các tiến bộ của công nghệ Al vào những ngành quan trọng như sản xuất chất bán dẫn”.
+
+"Với chuyên môn về bán dẫn, các giải pháp ứng dụng AI luôn có thể giải quyết các vấn đề chế tạo phức tạp với hiệu quả chưa từng có", TS. Christopher Nguyễn, CEO của AITOMATIC đồng thời là người đứng đầu dự án SemiKong khẳng định.
+
+Các chuyên gia cũng đánh giá SemiKong thể hiện một bước tiến đáng kể trong áp dụng AI vào sản xuất chất bán dẫn.
+
+Chuyên gia cấp cao tại Tokyo Electron, Daisuke Oku, người đề xuất mô hình ngành bán dẫn tin tưởng: “SemiKong là sự khởi đầu của một hành trình thú vị về AI mã nguồn mở cho ngành công nghiệp bán dẫn”.
+
+Với SemiKong, FPT Software có thể nâng cao hơn nữa các giá trị dịch vụ và đem lại các đổi mới cho khách hàng, như tùy chỉnh AI riêng biệt cho từng lĩnh vực chuyên ngành và/hoặc lưu trữ mô hình nền tảng cho mục đích sử dụng của cộng đồng.
+
+FPT Software cũng có kế hoạch sử dụng chính các giải pháp của các đối tác ứng dụng mô hình SemiKong để xây dựng các trợ lý thiết kế chip thông minh đến với khách hàng sản xuất chip trong tương lai.
+
+Được biết, SemiKong có mặt trên HuggingFace và GitHub từ ngày 9/7/2024. SemiKong là nền tảng để các công ty bán dẫn phát triển mô hình ngôn ngữ chuyên gia riêng của mình dựa trên kiến thức chung của toàn ngành. Phiên bản tiếp theo và mạnh mẽ hơn dự kiến được công bố vào tháng 12/2024, với các mô hình đầu tiên về quy trình dự kiến ​​vào tháng 9/2024.

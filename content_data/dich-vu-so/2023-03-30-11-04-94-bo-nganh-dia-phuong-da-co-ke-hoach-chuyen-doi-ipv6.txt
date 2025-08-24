@@ -1,0 +1,29 @@
+Ngày 14/01/2021, Bộ Thông tin và Truyền thông đã chính thức ban hành Chương trình IPv6 For Gov giai đoạn 2021-2025, giao Trung tâm Internet Việt Nam (VNNIC) chủ trì thực hiện.
+
+Chương trình IPv6 For Gov có hai giai đoạn: Giai đoạn 1 (2021-2022) với mục tiêu chính: 50% Bộ, ngành, địa phương ban hành kế hoạch IPv6 và chuyển đổi thành công IPv6 cho Cổng Thông tin điện tử, dịch vụ công; Giai đoạn 2 (2023-2025) với mục tiêu chính: 100% Bộ, ngành, địa phương ban hành kế hoạch IPv6 và chuyển đổi thành công IPv6 cho Cổng Thông tin điện tử, dịch vụ công.
+
+
+
+“Tăng cường tỷ lệ sử dụng IPv6 trong cơ quan nhà nước tương đương với tỷ lệ sử dụng IPv6 chung trên mạng Internet Việt Nam, phù hợp với xu thế chuyển đổi công nghệ IPv6 chung của thế giới”
+
+Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long.
+
+Bên cạnh đó, trong suốt giai đoạn vừa qua, Bộ Thông tin và Truyền thông đã tiên phong, đồng hành cùng các Bộ, ngành, địa phương xúc tiến, hỗ trợ và đảm bảo cho việc thực hiện thành công toàn bộ quá trình chuyển đổi IPv6 cho mạng lưới, dịch vụ công nghệ thông tin của cơ quan nhà nước.
+
+Cụ thể, giai đoạn 1 (2021-2022) của Chương trình IPv6 For Gov đã đạt và vượt mục tiêu đề ra với kết quả là 94% Bộ, ngành, địa phương đã ban hành kế hoạch chuyển đổi IPv6 (vượt 88% so với mục tiêu Giai đoạn 1); 78% Bộ, ngành, địa phương đã chuyển đổi thành công IPv6 cho Cổng Thông tin điện tử, dịch vụ công (vượt 55% so với mục tiêu Giai đoạn 1); Đào tạo được 1318 cán bộ/chuyên gia IPv6 (gấp 2,6 lần mục tiêu 5 năm).
+
+Kết quả giai đoạn 1 Chương trình IPv6 For Gov đã cho thấy sự nỗ lực của Bộ Thông tin và Truyền thông cũng như các bộ ngành, địa phương trong việc chuyển đổi mạng Internet Việt Nam sang IPv6. Đây cũng là tiền đề quan trọng để bước vào giai đoạn 2 của Chương trình (2023-2025).
+
+Trong giai đoạn 2023-2025, Chương trình IPv6 For Gov sẽ tập trung và hoàn thành chuyển đổi IPv6 cho trung tâm dữ liệu, mạng WAN, các phần mềm, ứng dụng; triển khai thí điểm hoạt động thuần IPv6 (IPv6 only) cho một số khu vực, dịch vụ. Mục tiêu hướng tới 100% Bộ, ngành, địa phương chuyển đổi IPv6 thành công cho hạ tầng mạng, dịch vụ công nghệ thông tin và sẵn sàng triển khai IPv6 only.
+
+Tại hội nghị, Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long yêu cầu các bộ ngành, địa phương quyết liệt thực hiện chuyển đổi, đây là vấn đề sống còn để thực hiện kế hoạch phát triển chính phủ số, chuyển đổi số quốc gia. Chương trình IPv6 For Gov định hướng, thúc đẩy, hỗ trợ cơ quan nhà nước chuyển đổi IPv6 thành công trên mạng lưới, dịch vụ, song song với quy hoạch nâng cấp, hiện đại hóa hệ thống CNTT, kết nối Internet, cổng thông tin điện tử, cổng dịch vụ công trực tuyến của cơ quan nhà nước một cách thống nhất, đồng bộ, hiện đại để đảm bảo an toàn thông tin, phát triển hạ tầng số, phục vụ tốt cho người dân, doanh nghiệp về nhu cầu truy cập, sử dụng dịch vụ cơ quan nhà nước qua IPv6.
+
+“Tăng cường tỷ lệ sử dụng IPv6 trong cơ quan nhà nước tương đương với tỷ lệ sử dụng IPv6 chung trên mạng Internet Việt Nam, phù hợp với xu thế chuyển đổi công nghệ IPv6 chung của thế giới”, Thứ trưởng Long nhấn mạnh.
+
+Tại hội nghị, các doanh nghiệp viễn thông đều cho rằng cần phải thực hiện chuyển đổi hạ tầng từ IPv4 sang IPv6. Trong thời gian tới cần tập trung chuyển đổi IPv6 ngay tại các cơ quan báo chí (hiện chủ yếu vẫn sử dụng hệ thống IPv4), hạn chế nhập các thiết bị IPv4, và cần thực hiện công tác truyền thông mạnh mẽ hơn nữa về chuyển đổi IPv6. Đồng thời, cũng thống nhất triển khai để hoàn thành mục tiêu IPv6 quốc gia (2023-2025).
+
+Trong thời gian tới VNNIC cần tiếp tục hoạt động tuyên truyền, đào tạo, hỗ trợ và giám sát quá trình chuyển đổi, xây dựng kế hoạch cụ thể để thực hiện, tham mưu tư vấn lãnh đạo Bộ Thông tin và Truyền thông các vấn đề chính sách, và chủ trương nhằm thúc đẩy chuyển đổi, hoàn thành mục tiêu chương trình IP 4G quốc gia và duy trì tăng thức hạng chuyển đổi quốc gia.
+
+Đồng thời, giai đoạn 2023-2025, mục tiêu Chuyển đổi toàn bộ Internet Việt Nam sang IPv6, 100% thuê bao Internet Việt Nam hoạt động với IPv6 (Fixed, Mobile); 100% doanh nghiệp IDC, Cloud, Hosting, nội dung số …cung cấp dịch vụ trên nền IPv6; Triển khai IPv6 only, IPv6 cho 5G, Cloud, IoT và nghiên cứu triển khai IPv6 .
+
+Ngày 28/3, Bộ Thông tin và Truyền thông đã hội nghị Tổng kết giai đoạn 1 Chương trình thúc đẩy, hỗ trợ chuyển đổi IPv6 cho cơ quan nhà nước giai đoạn 2021 – 2025 (Chương trình IPv6 For Gov), triển khai nhiệm vụ năm 2023 và giai đoạn 2 Chương trình IPv6 For Gov (2023 – 2025).

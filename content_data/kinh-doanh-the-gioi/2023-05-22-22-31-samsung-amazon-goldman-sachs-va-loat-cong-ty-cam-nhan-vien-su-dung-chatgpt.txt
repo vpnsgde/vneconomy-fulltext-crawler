@@ -1,0 +1,33 @@
+ChatGPT, ứng dụng chat tự động (chatbot) do startup OpenAI của Mỹ phát triển, sử dụng lượng dữ liệu dữ liệu từ các cuộc hội thoại để tăng tính chính xác của các câu trả lời.
+
+Trên thực tế, không ít công ty sử dụng ChatGPT và các công cụ trí tuệ nhân tạo (AI) khác như Google Bard để cải thiện năng suất và giải phóng. Tuy nhiên, với nhiều công ty, các rủi ro bảo mật lớn hơn hiều lợi ích về năng suất.
+
+Một trường hợp điển hình đã xảy ra tại tập đoàn Samsung của Hàn Quốc. Hồi tháng 4, công ty cho một số nhân viên đã vô tình làm rò rỉ mã nguồn nội bộ bí mật và các bản ghi cuộc họp khi sử dụng chatbot. Từ đó, Samsung đã cấm nhân viên sử dụng ChatGPT. Gần đây, tập đoàn công nghệ Apple của Mỹ trở thành công ty mới nhất cấm ChatGPT cũng với lý do quan ngại tương tự.
+
+Dù đã cấm hoặc hạn chế ChatGPT, một số công ty như JPMorgan Chase và Deutsche Bank, cho biết họ sẽ cho phép sử dụng công cụ này nếu nó được kiểm duyệt đầy đủ để sử dụng an toàn. Trong khi đó, những công ty như Goldman Sachs và Samsung, đang phát triển công cụ AI tạo sinh (generative AI tool) riêng cho nhân viên của mình.
+
+Dưới đây là những công ty đã ra lệnh cấm hoặc hạn chế nhân viên sử dụng ChatGPT tại nơi làm việc.
+
+Apple cấm nhân viên sử dụng ChatGPT và các công cụ AI tạo sinh khác của bên thứ ba với do lo ngại về rò rỉ dữ liệu mật. Gã công nghệ khổng lồ cũng yêu cầu nhân viên không sử dụng chương trình viết mã phần mềm tự động Copilot, do GitHub và OpenAI đồng phát triển (cả hai đều thuộc sở hữu hoặc được Microsoft đầu tư). Apple được cho là đang phát triển công cụ AI tạo sinh của riêng mình. Năm 2018, công ty này chiêu mộ cựu sếp Google John Giannandrea về lãnh đạo mảng AI của mình.
+
+Ngân hàng Mỹ Bank of America đã đưa ChatGPT vào danh sách các ứng dụng không được ủy quyền mà theo đó nhân viên bị cấm sử dụng cho công việc - theo tin từ Bloomberg hồi tháng 2. Ngân hàng này đã áp dụng các biện pháp nghiêm ngặt liên quan tới việc trao đổi thông tin nội bộ sau khi bị nhà chức trách Mỹ phạt hơn 2 tỷ USD vì không giám sát nhân viên sử dụng các ứng dụng nhắn tin không được ủy quyền như WhatsApp.
+
+Hồi tháng tư, ông Michael Weening, CEO của công ty viễn thông Calix - có trụ sở tại bang California (Mỹ) - thông báo công ty này sẽ cấm sử dụng ChatGPT tại tất cả bộ phận và thiết bị của mình. Ông cho biết vụ rò rỉ dữ liệu vào thời gian đó của Samsung là nguyên nhân dẫn tới lệnh cấm này.
+
+“Thật đáng lo ngại khi ChatGPT có thể tiết lộ những thông tin nhạy cảm như bản ghi nhớ nội bộ bí mật hoặc hợp đồng bảo mật với khách hàng cho người ngoài”, ông Weening nói.
+
+Citigroup đã thêm ChatGPT vào diện phải thực hiện biện pháp kiểm soát tiêu chuẩn trên toàn công ty đối với phần mềm của bên thứ ba.
+
+“Chúng tôi đang tích cực tìm hiểu một số cách để hiểu rõ hơn về lợi ích và rủi ro tiềm ẩn liên quan đến việc sử dụng công nghệ này,” một người phát ngôn của Citigroup nói với Fortune.
+
+Ít thất từ tháng 2 năm nay, ngân viên của ngân hàng Deutsche Bank đã bị chặn tiếp cận dịch vụ ủa ChatGPT. Theo người phát ngôn của ngân hàng Đức, động thái này nhằm bảo vệ ngân hàng khỏi nguy cơ rò rỉ dữ liệu. Thời gian tới, ngân hàng sẽ đánh giá cách sử dụng nền tảng này theo cách tốt nhất mà vẫn có thể bảo vệ dữ liệu của chính mình và của khách hàng.
+
+Cũng giống Citigroup, Goldman Sachs đã cấm nhân viên sử dụng ChatGPT thông qua biện pháp hạn chế tự động đối với phần mềm của bên thứ ba. Tuy nhiên, ngân hàng này đang phát triển công cụ AI tạo sinh của riêng mình.
+
+Ngân hàng lớn nhất tại Mỹ đã hạn chế nhân viên sử dụng ChatGPT từ cuối tháng 2, động thái nằm trong biện pháp kiểm soát tiêu chuẩn đối với phần mềm của bên thứ ba. Tuy nhiên, theo người phát ngôn của JPMorgan Chase, ngân hàng này sẵn sàng sử dụng công cụ này trong tương lai và đang khám phá các cách mới nhằm tăng cường và trao quyền cho nhân viên bằng AI, với việc tận dụng các công cụ như ChatGPT.
+
+Tập đoàn Hàn Quốc đã cấm nhân viên sử dụng ChatGPT và các công cụ AI tạo sinh khác vào đầu tháng 5. Lệnh cấm được đưa ra sau khi một số kỹ sư của tập đoàn vô tình làm rò rỉ thông tin mật, bao gồm mã nội bộ và biên bản cuộc họp vào cuối tháng 5 khi tải các nội dung này lên ChatGPT.
+
+Nhân viên Samsung bị cấm sử dụng ChatGPT trên các thiết bị thuộc sở hữu của công ty và các hệ thống nội bộ. Samsung hiện đang phát triển công cụ AI dành riêng cho nhân viên sử dụng trong phát triển phần mềm, dịch thuật và tóm tắt tài liệu.
+
+Theo nguồn tin nội bộ của Insider, công ty thương mại điện tử Amazon đã cảnh báo nhân viên không được chia sẻ thông tin mật của công ty với ChatGPT trong bối cảnh xuất hiện nhiều phản hồi của chatbot này có nội dung giống với dữ liệu nội bộ của công ty.

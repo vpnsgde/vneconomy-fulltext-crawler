@@ -1,0 +1,45 @@
+Theo Nikkei Asia, nhà sản xuất chất nền Soitec của Pháp sẽ đầu tư 400 triệu Euro (tương đương 430 triệu USD) để tăng gấp đôi công suất của nhà máy sản xuất tấm wafer tại Singapore. Còn nhà sản xuất thiết bị sản xuất chip Applied Materials của Mỹ đã khởi công xây dựng một nhà máy mới trị giá 600 triệu Đô la Singapore (tương đương 450 triệu USD) tại quốc gia này.
+
+Soitec cũng đang mở rộng nhà máy tại khu công nghiệp chip Pasir Ris Wafer Fab Park - nơi đặt nhà máy của nhiều nhà sản xuất khác trong ngành bán dẫn nằm ở phía Đông Bắc Singapore. Dự án của Soitec dự kiến xây dựng xong vào năm 2024 và nâng tổng diện tích mặt sàn của cơ sở sản xuất lên 45.000 m2, bao gồm cả khu văn phòng.
+
+Cơ sở sản xuất của Soitec tại Singapore chuyên sản xuất tấm wafer silicon trên cách điện (SOI). Việc mở rộng diện tích sẽ giúp tăng gấp công công suất sản xuất tấm wafer SOI 200 mm của cơ sở sản xuất lên 2 triệu đơn vị mỗi năm.
+
+Tấm wafer SOI có tác dụng ngăn dòng điện rò rỉ bằng nhờ các lớp cách điện và giúp cho con chip tiết kiệm năng lượng hơn. Chúng được dùng phổ biến trong điện thoại thông minh để quản lý hiệu quả nguồn pin và xác thực khuôn mặt, giọng nói.
+
+Nhu cầu con chip đã tăng lên đáng kể trong giai đoạn cao điểm Covid-19 nhưng sau đó giảm dần và hiện tương đối ảm đạm do lo ngại về suy thoái kinh tế toàn cầu.
+
+Tháng 11/2022, Tổ chức thống kê thương mại chất bán dẫn thế giới dự báo rằng doanh số con chip toàn cầu năm 2023 sẽ giảm 4,1% so với cùng kỳ năm ngoái, xuống còn 556,5 tỷ USD. Đây sẽ là năm giảm đầu tiên trong 4 năm qua.
+
+Tuy nhiên, CEO của Soitec, ông Pierre Barnabe, tỏ ra lạc quan về triển vọng của công ty.
+
+"Ngành công nghiệp bán dẫn đang trải qua các chu kỳ định kỳ và sự suy giảm hiện tại không phải ngoại lệ”, ông nói trong cuộc phỏng vấn với Nikkei Asia.
+
+Vị CEO cho biết Soitec "có tầm nhìn dài hạn" và đang mở rộng nhà máy ở Singapore để chuẩn bị cho sự tăng trưởng trong tương lai.
+
+"Sự suy giảm của thị trường chất bán dẫn hiện tại không ảnh hưởng tới các thị trường chính của tấm wafer chuyên dụng và tiết kiệm năng lượng của Soitec, cụ thể là thị trường truyền thông di động, ô tô và công nghiệp cũng như trong các thiết bị kết nối internet”, ông Barnabe nói. “Vì các sản phẩm này ngày càng thêm nhiều tính năng và công nghệ mới, con chip giúp tiết kiệm năng lượng càng trở nên cần thiết hơn. Vì vậy, chúng tôi lạc quan rằng nhu cầu đối với sản phẩm của chúng tôi vẫn lớn”.
+
+Khoản đầu tư vào Singapore của Soitec nằm trong kế hoạch chi tiêu 5 năm với tổng mức đầu tư 1,1 tỷ Euro được công bố năm 2021.
+
+Nhà máy tại Singapore là cơ sở sản xuất bên ngoài nước Pháp duy nhất của Soitec. Theo công ty này, Singpore sở hữu chuỗi cung ứng hoàn thiện, dù chi phí đất và lao động ở mức cao.
+
+Soitec hiện nằm 80% cổ phần tại công ty thiết kế chip Dolphin Design của Pháp - công ty cũng đang có kế hoạch mở một trung tâm điện toán và trí tuệ nhân tạo chuyên sâu tại Singapore. Đây cũng là cơ sở đầu tiên của Dolphin Design ở châu Á và thứ hai bên ngoài nước Pháp, sau Montreal, Canada.
+
+
+
+"Một lý do khiến Singapore trở thành lựa chọn phổ biến với các công ty trong ngành là hệ sinh thái khổng lồ gồm các nhà cung cấp và đối tác đặt tại đây”, ông Glyn Truscott, giám đốc tại Bain & Co., nhận xét. Ngoài ra, trong bối cảnh căng thằng giữa Mỹ và Trung Quốc đang nóng lên trong lĩnh vực chip tiên tiến, Singapore có vị trí địa lý tương đối trung lập, nhờ đó ít bị ảnh hưởng bởi xung đột địa chính trị. Hơn nữa, vị trí tại Đông Nam Á của công ty cũng mang lại sự đa dạng trong chuỗi cung ứng”.
+
+Glyn Truscott, Bain & Co.
+
+Trong khi đó, công ty cung cấp thiết bị và dịch vụ bán dẫn Applied Materials của Mỹ đã khởi công xây dựng một nhà máy lớn tại quận Tampines, phía Đông Singapore vào tháng 12 năm ngoái, dự kiến hoàn thành vào năm 2024. Sinagapore hiện là trung tâm sản xuất lớn nhất của công ty này tại châu Á và cũng là nơi sản xuất lớn nhất bên ngoài nước Mỹ của công ty.
+
+Với việc tăng năng lực sản xuất tại Singapore, Applied Materials muốn đáp ứng nhu cầu tăng lên của các khách hàng chính của mình, trong đó có Taiwan Semiconductor Manufacturing Co (TSMC). Nhà máy mới ở Singapore là trọng tâm trong kế hoạch mở rộng kéo dài 8 năm của công ty có tên "Singapore 2030”. Nhà máy mới sẽ có tổng diện tích mặt sàn 65.000 m2, bao gồm văn phòng. Dự kiến, lực lượng lao động của công ty sẽ tăng thêm khoảng 40% lên hơn 3.500 người.
+
+Cả Soitec và Applied Materials đều đang mở rộng sản xuất tại Singapore với hy vọng tăng cường mối liên hệ với khách hàng là các nhà sản xuất chip tại khu vực châu Á.
+
+Còn nhà thầu sản xuất chip theo hợp đồng của Mỹ GlobalFoundries cũng đang xây dựng một nhà máy với tổng mức đầu tư 4 tỷ USD.
+
+Theo các nhà phân tích, Singapore sở hữu hệ thống logistic hiệu quả, có khả năng kết nối tốt với các công ty tại Đài Loan, Hàn Quốc và Nhật Bản. Ngành công nghiệp bán dẫn hiện đóng góp khoảng 7% tổng sản phẩm trong nước (GDP) của Singapore.
+
+Trong bối cảnh các quốc gia trên thế giới đang cạnh tranh để thu hút các công ty liên quan tới lĩnh vực này, Singapore cũng tích cực thu hút đầu tư với nhiều ưu đãi về thuế và đất, cũng như hỗ trợ hoạt động nghiên cứu và phát triển.
+
+“Một lý do khiến Singapore trở thành lựa chọn phổ biến với các công ty trong ngành là hệ sinh thái khổng lồ gồm các nhà cung cấp và đối tác đặt tại đây”, ông Glyn Truscott, giám đốc tại Bain & Co., nhận xét. “Ngoài ra, trong bối cảnh căng thằng giữa Mỹ và Trung Quốc đang nóng lên trong lĩnh vực chip tiên tiến, Singapore có vị trí địa lý tương đối trung lập, nhờ đó ít bị ảnh hưởng bởi xung đột địa chính trị. Hơn nữa, vị trí tại Đông Nam Á của công ty cũng mang lại sự đa dạng trong chuỗi cung ứng”.

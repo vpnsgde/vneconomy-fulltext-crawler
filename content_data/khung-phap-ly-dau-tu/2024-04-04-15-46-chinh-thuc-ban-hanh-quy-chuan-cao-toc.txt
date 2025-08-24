@@ -1,0 +1,51 @@
+Quy chuẩn kỹ thuật quốc gia về đường bộ cao tốc (QCVN 115:2024/BGTVT) do Cục Đường cao tốc Việt Nam chủ trì soạn thảo, Vụ Khoa học - Công nghệ và Môi trường trình duyệt, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành kèm theo Thông tư 06/2024/TT-BGTVT. Thông tư này có hiệu lực thi hành kể từ ngày 1/10/2024.
+
+Quy chuẩn QCVN 115:2024 quy định các yêu cầu kỹ thuật và yêu cầu quản lý trong đầu tư xây dựng, quản lý, vận hành, khai thác và bảo trì đường bộ cao tốc (trừ đường cao tốc đô thị).
+
+Quy chuẩn này áp dụng đối với các tổ chức, cá nhân có liên quan đến hoạt động đầu tư xây dựng, quản lý, vận hành khai thác và bảo trì đường bộ cao tốc.
+
+Theo QCVN 115:2024, đường bộ cao tốc là một cấp kỹ thuật của đường bộ dành cho xe cơ giới, có dải phân cách chia đường cho xe chạy hai chiều riêng biệt; không giao nhau cùng mức với một hoặc các đường khác; được bố trí đầy đủ trang thiết bị phục vụ, bảo đảm giao thông liên tục, an toàn, rút ngắn thời gian hành trình và chỉ xe ra, vào ở những điểm nhất định.
+
+
+
+"Đường bộ cao tốc có quy mô tối thiểu 4 làn xe chạy (2 làn xe cho mỗi chiều), có làn dừng xe khẩn cấp được bố trí liên tục, trừ các vị trí: qua cầu có khẩu độ nhịp từ 150m trở lên; cầu có trụ cao từ 50m trở lên; hầm; có bố trí làn tăng, giảm tốc; làn phụ leo dốc".
+
+(QCVN 115:2024/BGTVT).
+
+Tốc độ thiết kế đường bộ cao tốc được phân làm 03 cấp như sau: cấp 120 có tốc độ thiết kế là 120 km/h; cấp 100 có tốc độ thiết kế là 100 km/h; cấp 80 có tốc độ thiết kế là 80 km/h.
+
+Đối với vị trí địa hình đặc biệt khó khăn, yếu tố quốc phòng an ninh khống chế, cho phép áp dụng tốc độ thiết kế 60 km/h.
+
+Trên đường bộ cao tốc có thể có những đoạn áp dụng cấp khác nhau, những đoạn này phải dài từ 15km trở lên và tốc độ thiết kế của hai đoạn liên tiếp không được chênh nhau quá 20 km/h.
+
+Trường hợp đường bộ cao tốc áp dụng cấp tốc độ thiết kế quá một cấp (20 km/h), phải có một đoạn quá độ dài ít nhất 02 km có cấp tốc độ thiết kế trung gian.
+
+Đặc biệt, các đường bộ cao tốc phải đảm bảo các yêu cầu chung sau: Kết cấu công trình đường bộ cao tốc phải bảo đảm ổn định, bền vững, phù hợp với điều kiện tự nhiên.
+
+"Đường bộ cao tốc có quy mô tối thiểu 04 làn xe chạy (02 làn xe cho mỗi chiều), có làn dừng xe khẩn cấp được bố trí liên tục (trừ các vị trí: qua cầu có khẩu độ nhịp từ 150,00 m trở lên; cầu có trụ cao từ 50,00 m trở lên; hầm; có bố trí làn tăng, giảm tốc; làn phụ leo dốc)", quy chuẩn nêu rõ.
+
+Các công trình gắn với đường bộ cao tốc bao gồm: trung tâm quản lý, điều hành giao thông tuyến; trạm dừng nghỉ; hệ thống thu phí điện tử không dừng đối với tuyến đường có thu phí; trạm kiểm tra tải trọng xe; hàng rào bảo vệ.
+
+Mặt cắt ngang đường bộ cao tốc có thể được bố trí trên cùng một nền đường hoặc hai chiều xe chạy được bố trí trên hai nền đường riêng biệt.
+
+Về số làn xe chạy, quy chuẩn mới yêu cầu số làn xe được xác định trên cơ sở lưu lượng xe thiết kế nhưng không ít hơn 2 làn xe cho mỗi chiều. Chiều rộng làn xe chạy tối thiểu 3,75m đối với đường cấp 120, cấp 100 và tối thiểu 3,50m đối với đường cấp 80.
+
+Đối với làn dừng xe khẩn cấp có chiều rộng tối thiểu 3,00m đối với đường cấp 120, cấp 100 và tối thiểu 2,50m đối với đường cấp 80.
+
+Liên quan đến dải giữa đường cao tốc, quy chuẩn quy định phải bố trí dải giữa (gồm dải phân cách giữa và dải an toàn ở hai bên của dải phân cách giữa) để phân chia hai chiều xe chạy đối với trường hợp mặt cắt ngang đường cao tốc được bố trí trên cùng một nền đường. Chiều rộng của dải an toàn tối thiểu là 0,75m đối với đường cấp 120, cấp 100 và tối thiểu 0,50m đối với đường cấp 80. Dải phân cách giữa được thiết kế để bảo đảm an toàn.
+
+Trường hợp 2 chiều xe chạy được bố trí trên 2 nền đường riêng biệt không có dải giữa, phía bên trái theo chiều xe chạy bố trí dải an toàn và lề đất. Dải an toàn có chiều rộng tối thiểu 1m đối với đường cấp 120, cấp 100 và tối thiểu 0,75m đối với đường cấp 80.
+
+Cục Đường cao tốc Việt Nam chịu trách nhiệm tổ chức triển khai quy chuẩn này.
+
+Đối với các ví trí nút giao liên thông, đường nhánh ra, vào trên đường bộ cao tốc để phục vụ phát triển kinh tế xã hội của địa phương nhưng không đáp ứng khoảng cách tối thiểu quy định tại Điều 2.7.3 của Quy chuẩn này, Bộ Giao thông vận tải xem xét quyết định đối với dự án thuộc thẩm quyền quản lý và các dự án do địa phương quản lý theo đề xuất của địa phương.
+
+Việc đầu tư xây dựng, quản lý, vận hành, khai thác và bảo trì các đường bộ cao tốc tuân thủ theo các quy định trong quy chuẩn này.
+
+
+
+Về quy định chuyển tiếp, Thông tư 06/2024/TT-BGTVT có hiệu lực thi hành kể từ ngày 01/10/2024.
+
+Các dự án đầu tư xây dựng đường bộ cao tốc đã được quyết định chủ trương đầu tư trước ngày 01/10/2024 thì tiếp tục thực hiện theo các quy định tại thời điểm quyết định chủ trương đầu tư.
+
+Đối với các tuyến đường cao tốc có tốc độ thiết kế từ 80km/h trở xuống đang khai thác trước ngày Thông tư 06/2024/TT-BGTVT có hiệu lực, khi đầu tư nâng cấp, mở rộng thì cho phép áp dụng các yếu tố kỹ thuật cho dự án đã được phê duyệt trước ngày 01/10/2024.

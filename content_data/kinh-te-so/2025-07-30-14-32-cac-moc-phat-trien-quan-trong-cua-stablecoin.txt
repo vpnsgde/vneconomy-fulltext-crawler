@@ -1,0 +1,21 @@
+Stablecoin là loại tiền điện tử thường được neo giá theo đồng USD. Với đạo luật GENIUS vừa ban hành, Mỹ giờ đây có một khuôn khổ pháp lý riêng dành cho stablecoin.
+
+Đồ thị thông tin dưới đây gồm các mốc phát triển quan trọng của stablecoin kể từ khi bắt đầu xuất hiện vào năm 2014.
+
+Năm 2014, Tether - tên cũ là Realcoin - ra mắt đồng stablecoin đầu tiên trên thế giới - neo giá vào USD với tỷ lệ 1:1. Những năm sau đó, nhiều đồng stablecoin khác ra đời nhưng đa số gặp thách thức về vấn đề thanh khoản và sự ổn định.
+
+Mốc phát triển lớn thứ hai của stablecoin xảy ra vào tháng 9/2018, khi hai nền tảng tiền số nổi tiếng Circle và Coinbase ra mắt USD Coin, còn được gọi là USDC.
+
+Gần 1 năm sau đó, vào tháng 2/2019, ngân hàng JPMorgan cho ra đời đồng JPM Coin trên một chuỗi khối (blockchain) riêng. Đây là loại tiền số đầu tiên của một ngân hàng lớn tại Mỹ. Sự ra đời của JPM Coin đánh dấu sự thâm nhập đầu tiên của stablecoin vào thế giới tài chính chính thống.
+
+Tới tháng 8/2023, nền tảng thanh toán PayPal ra mắt đồng stablecoin riêng dành cho khách hàng, các bán hàng và nhà phát triển. Tất cả đồng stablecoin ra đời từ năm 2014 tới thời điểm này mới chỉ ở giai đoạn đầu thử nghiệm và còn sơ khai.
+
+Chỉ vài tháng trở lại đây, stablecoin bắt đầu được chú ý lớn và đánh dấu các mốc phát triển lớn liên tiếp nhờ động thái từ các công ty tài chính lớn và chính phủ Mỹ.
+
+Tháng 10/2024, startup công nghệ tài chính hàng đầu thế giới Stripe công bố hoàn tất thương vụ mua lại Bridge - một startup về stablecoin - với giá 1,1 tỷ USD. Đây là thương vụ lớn nhất trước tới nay của Stripe và giúp các khách hàng doanh nghiệp của công ty dễ dàng tích hợp đồng USD số trong hoạt động giao dịch hàng ngày.
+
+Tới tháng 3/2025, giá trị giao dịch bằng các đồng stablecoin theo quý vượt 9 nghìn tỷ USD, tăng từ 100 tỷ USD vào tháng 3/2020. Tới tháng 6, JPMorgan ra mắt JPMD - loại deposit token dành cho khách hàng tổ chức - trên blockchain công khai Base của Coinbase.
+
+Deposit token là một công cụ thanh toán điện tử do ngân hàng phát hành, đại diện cho số tiền khách hàng đã gửi tại ngân hàng đó.
+
+Cột mốc pháp lý quan trọng nhất của stablecoin diễn ra vào ngày 18/7/2025, khi Tổng thống Mỹ Donald Trump ký ban hành đạo luật GENIUS. Giờ đây các ngân hàng, tổ chức tài chính phi ngân hàng hay các tổ chức tín dụng khác có thể dễ dàng phát hành đồng stablecoin riêng.

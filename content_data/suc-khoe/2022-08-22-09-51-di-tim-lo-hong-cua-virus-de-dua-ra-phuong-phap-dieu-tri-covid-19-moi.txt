@@ -1,0 +1,33 @@
+Theo Tổ chức Y tế thế giới (WHO), tỷ lệ mắc Covid-19 trên thế giới đã tăng 3% trong một tuần từ 14 - 20/8, trong đó tỷ lệ cao nhất được ghi nhận ở khu vực Tây Thái Bình Dương (29%), trong khi tỷ lệ thấp nhất được ghi nhận ở châu Phi (-46%). Trước tình hình đó, rất nhiều nghiên cứu đã được giới khoa học thực hiện nhằm cung cấp giải pháp mới trong việc phát triển những kháng thể phổ rộng giúp điều trị hiệu quả Covid-19.
+
+Ngày 18/8, trên tạp chí Nature Communications, các nhà nghiên cứu tại Đại học British Columbia đã công bố phát hiện về một “điểm yếu” quan trọng trên tất cả các biến thể chính của virus SARS-CoV-2, bao gồm cả các biến thể phụ như BA.1 và BA.2 mới xuất hiện gần đây.
+
+Theo đó, các nhà nghiên cứu đã sử dụng kính hiển vi điện tử lạnh (cryo-EM) để khám phá cấu trúc cấp độ nguyên tử, điểm dễ bị tổn thương trên protein đột biến của virus, được gọi là một epitope. Điểm yếu có thể được nhắm mục tiêu bằng cách trung hòa các kháng thể, có khả năng mở ra các phương pháp điều trị có hiệu quả trên các biến thể này.
+
+"nCoV là loại virus có khả năng thích ứng cao, đã phát triển để tránh hầu hết phương pháp điều trị bằng kháng thể hiện có. Nghiên cứu mới cho thấy điểm yếu hầu như không thể thay đổi giữa các biến chủng. Nó có thể bị kháng thể trung hòa, tạo tiền đề cho việc thiết kế các phương pháp điều trị tổng thể", báo cáo của Đại học British Columbia, cho biết.
+
+
+
+Tiến sĩ Sriram Subramaniam, Giáo sư tại Khoa y của Đại học British Columbia (UBC) và là tác giả chính của nghiên cứu cho biết: Chìa khóa chính" được xác định trong nghiên cứu mới này là đoạn kháng thể V H Ab6, được chứng minh là có hiệu quả chống lại các biến thể Alpha, Beta, Gamma, Delta, Kappa, Epsilon và Omicron. Mảnh này vô hiệu hóa SARS-CoV-2 bằng cách gắn vào epitope trên protein đột biến và ngăn chặn virus xâm nhập vào tế bào người.
+
+Trước đó, các chuyên gia tại Đại học British Columbia cũng đã thực hiện nghiên cứu khác, xuất bản trên tạp chí Science hồi đầu năm. Họ tìm ra vùng tiếp xúc giữa protein gai của Omicron và thụ thể ACE2 của tế bào người. Bằng cách lập bản đồ cấu trúc phân tử của các protein đột biến, nhóm đã tìm kiếm khu vực dễ tổn thương của nCoV để đưa ra phương pháp điều trị mới.
+
+Virus SARS-CoV-2 chủ yếu nhắm vào đường hô hấp, nhưng trong một số trường hợp, nó cũng ảnh hưởng đến các cơ quan khác như ruột, gan, thận, tim và não. Làm thế nào virus xâm nhập vào não và gây ra các triệu chứng thần kinh vẫn chưa rõ ràng vì "cửa ngõ" chính của virus - thụ thể men chuyển 2 (ACE2) hầu như không được phát hiện trong các tế bào não?
+
+Chiara Zurzolo, giám đốc nghiên cứu tại Viện Pasteur và nhóm của cô đã phát hiện ra rằng virus Covid-19 có một con đường hoàn toàn khác để xâm nhập vào các tế bào thiếu thụ thể ACE2. Theo đó, nó lợi dụng một con đường giao tiếp giữa các tế bào được gọi là "ống nano đường hầm" (TNT). TNT là những đường hầm cực nhỏ, đường kính vài chục nanomet, cho phép ít nhất hai tế bào trao đổi ion, toàn bộ cơ quan… và thậm chí cả virus!
+
+Các nhà khoa học đã tiếp tục nghiên cứu hoạt động của các ống nano này kể từ đó để làm rõ sự liên quan của chúng trong việc lan truyền một số loại virus và vi khuẩn trong cơ thể. Đối mặt với những hậu quả thần kinh do nhiễm SARS-CoV-2, nhóm nghiên cứu đã đưa ra giả thuyết rằng virus này cũng có thể sử dụng TNT để lây lan từ các tế bào dễ lây lan sang các tế bào ít cho phép hơn (thiếu thụ thể màng ACE2) và đồng thời trốn thoát khỏi sự giám sát miễn dịch.
+
+Tóm lại, không chỉ virus SARS-CoV-2 đã tìm ra cách xâm nhập vào các tế bào mà nó không thể xâm nhập qua con đường cổ điển, mà cơ chế này giúp tăng cường sự lây lan của virus giữa các tế bào cho phép, ngoài con đường nội bào. Đây không phải là loại virus duy nhất kiểm soát tế bào theo cách này: virus HIV và virus cúm cũng khai thác TNT để di chuyển từ tế bào này sang tế bào khác.
+
+Các ống nano này cũng có thể là nguồn gốc của Covid kéo dài và virus thực sự có thể tồn tại lâu hơn trong cơ thể người. Đây là một thí nghiệm được thực hiện trong ống nghiệm, trên các mô hình tế bào, và các nghiên cứu khác sẽ là cần thiết để xác nhận rằng chính cơ chế này cũng tham gia vào não người.
+
+Nếu phương thức hoạt động này được xác nhận, nhóm nghiên cứu của Zurzolo cho rằng, điều này có thể phát triển các loại thuốc có thể ngăn chặn sự hình thành của các ống nano hoặc chặn đứng chúng, từ đó ngăn chặn sự phát triển của bệnh trong cơ thể cũng như sự lây lan virus ở bên ngoài.
+
+Các nhà nghiên cứu Australia đang nỗ lực phát triển một loại vaccine tăng cường phòng Covid-19 có hiệu quả với mọi biến thể của virus SARS-CoV-2. Phát biểu tại một hội thảo trực tuyến ở Viện Nghiên cứu khoa học Westmead (WIMR) ngày 19/8, giải thích về loại vaccine tăng cường được coi là "bước đột phá tiềm năng" này, Giáo sư Sarah Palmer cho biết mục đích là tìm ra một loại vaccine có thể nhắm tới những "vùng tối" chung của tất cả các biến thể.
+
+Nguyên lý phát triển công cụ mới để chiến đấu với virus dựa trên những nghiên cứu mà các nhà khoa học đã thực hiện với về virus gây các đại dịch khác, chính là virus HIV. Trước khi Covid-19 bùng phát các nhà nghiên cứu đã phát triển được một thuật toán máy tính cho phép xác định những vùng thiết yếu trong chuỗi protein của virus HIV mà mọi biến thể hoặc dòng phụ biến thể của virus đều có. Theo giáo sư Palmer, đây đều là những vùng tối quan trọng mà nếu không có chuỗi protein của HIV sẽ tan rã.
+
+Do đó, một loại vaccine mRNA có thể "huấn luyện và kích hoạt" một loại tế bào miễn dịch có tên gọi là tế bào T, di chuyển trong toàn bộ cơ thể, loại bỏ những tế bào bị nhiễm mầm bệnh. Giờ đây, một chiến lược tương tự cũng được nhóm nghiên cứu áp dụng với việc phát triển vaccine phòng Covid-19. Họ sử dụng các thuật toán máy tính để sàng lọc các dữ liệu về virus SARS-CoV-2 và xác định những protein giống nhau giữa các biến thể. Nhóm nghiên cứu đã tìm được hai vùng như vậy, một là các protein gai và hai là các protein nucleocapsid cho phép virus sao chép nhanh chóng.
+
+Giáo sư Palmer cho biết các nhà nghiên cứu của WIMR đã phối hợp chặt chẽ với các nhóm đến từ các viện nghiên cứu khác ở Australia, trong đó có đại học Monash. Các chuyên gia y sinh học của đại học Monassh được giao nhiệm vụ phát triển một loại vaccine mRNA có thể huấn luyện tế bào T nhắm đến những đặc điểm chung của các biến thể của virus SARS-CoV-2 và loại bỏ những tế bào nhiễm virus. Dù cho biết phải mất thêm nhiều thời gian để phát triển thành công vaccine và đưa vào sử dụng, nhưng các dấu hiệu ban đầu rất hứa hẹn.

@@ -1,0 +1,19 @@
+Bảo hiểm xã hội Việt Nam ngày 8/7 đã thông tin cảnh báo về việc xuất hiện website giả mạo Cổng dịch vụ công trực tuyến Bảo hiểm xã hội Việt Nam.
+
+Bảo hiểm xã hội Việt Nam phát hiện trên không gian mạng có website giả mạo có tên miền, giao diện, hình ảnh tương tự với Cổng dịch vụ công trực tuyến của ngành gây nhầm lẫn, có thể bị sử dụng để thực hiện các hành vi lừa đảo, đánh cắp thông tin cá nhân.
+
+Qua kiểm tra, Bảo hiểm xã hội Việt Nam nhận thấy website được đặt trên máy chủ tại Việt Nam, trên website cũng giả mạo chứng nhận Tín nhiệm mạng của Trung tâm An ninh mạng quốc gia (Cục A05). Khi kiểm tra thông tin Tín nhiệm mạng có thông báo “Bạn đang truy cập đến Tín nhiệm mạng từ một website chưa được chứng nhận tín nhiệm”.
+
+Bảo hiểm xã hội Việt Nam nhận thấy website giả mạo có thể được sử dụng để thực hiện các hành vi giả mạo cán bộ Bảo hiểm xã hội để gửi đường dẫn của website yêu cầu cung cấp các thông tin cá nhân như căn cước công dân, thẻ bảo hiểm y tế… nhằm lừa đảo, đánh cắp thông tin, chiếm đoạt tài sản.
+
+Để kịp thời ngăn chặn các hành vi vi phạm pháp luật, bảo đảm an toàn tài sản và thông tin cá nhân của người dân, doanh nghiệp và tránh gây ảnh hưởng, làm mất niềm tin vào các dịch vụ công trực tuyến của các cơ quan nhà nước, Bảo hiểm xã hội Việt Nam đang phối hợp với các đơn vị chức năng để truy vết, xác định website giả mạo nêu trên.
+
+Trong khi cơ quan chức năng về an toàn thông tin xử lý, chặn lọc, để tránh việc người dân, doanh nghiệp nhầm lẫn dẫn đến là nạn nhân bị lừa đảo, gây hậu quả đáng tiếc, Bảo hiểm xã hội Việt Nam đề nghị các đơn vị truyền thông, cảnh báo trang web giả mạo và hướng dẫn nhận diện Cổng dịch vụ công ngành Bảo hiểm xã hội.
+
+Theo đó, Cổng dịch vụ công trực tuyến Bảo hiểm xã hội Việt Nam chỉ có một tên miền và địa chỉ làhttps://dichvucong.baohiemxahoi.gov.vn/, trong cấu trúc tên miền có .GOV.VN 2 dành cho các cơ quan nhà nước.
+
+Hiện nay, Bảo hiểm xã hội Việt Nam không sử dụng tên miền có cấu trúc .COM.VN, .COM, .ME… mà trang web giả mạo đang sử dụng.
+
+Cổng dịch vụ công Bảo hiểm xã hội Việt Nam được gán nhãn chứng nhận tín nhiệm mạng do Bộ Thông tin và Truyền thông cấp ở cuối trang, tra cứu thông tin tại địa chỉ https://tinnhiemmang.vn/danh-ba-tin-nhiem/
+
+Cổng dịch vụ công Bảo hiểm xã hội Việt Nam sử dụng chứng chỉ bảo mật quốc tế GlobalSign, thông tin chứng chỉ số được cấp có nội dung “CN = *.baohiemxahoi.gov.vn, O = Bảo hiểm Xã hội Việt Nam”

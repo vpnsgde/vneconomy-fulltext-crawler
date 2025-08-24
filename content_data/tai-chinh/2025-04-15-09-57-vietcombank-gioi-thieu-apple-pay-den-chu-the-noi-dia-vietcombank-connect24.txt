@@ -1,0 +1,19 @@
+Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank) chính thức giới thiệu Apple Pay đến với chủ thẻ nội địa Vietcombank Connect24 (chủ thẻ Vietcombank NAPAS) tại Việt Nam. Apple Pay là phương thức thanh toán dễ dàng, an toàn và riêng tư khi thanh toán tại cửa hàng, trong ứng dụng và trực tuyến.
+
+Để thanh toán tại cửa hàng, khách hàng chỉ cần nhấn đúp nút sườn, xác thực và giữ iPhone hoặc Apple Watch gần cổng thanh toán để thực hiện thanh toán không tiếp xúc. Khách hàng không cần nhập mã PIN khi thực hiện giao dịch mua hàng tại cửa hàng bằng Apple Pay.
+
+Mỗi giao dịch Apple Pay đều được bảo mật bằng Face ID, Touch ID hoặc mật mã của thiết bị, cùng với một mã bảo mật động dùng một lần. Ngày nay, Apple Pay giúp cuộc sống trở nên nhanh chóng, an toàn và thuận tiện hơn cho khách hàng, bất kể khi mua cà phê tại Highlands, mua sắm tại Annam Gourmet hay đặt xe với BE - Apple Pay khả dụng ở bất kỳ đâu chấp nhận thanh toán không tiếp xúc.
+
+“Vietcombank là một trong những ngân hàng đầu tiên ra mắt Apple Pay tại Việt Nam vào năm 2023 với thẻ quốc tế Vietcombank Visa. Đến nay, chúng tôi tiếp tục là một trong những ngân hàng đầu tiên mở rộng dịch vụ này đến chủ thẻ NAPAS qua thẻ ghi nợ nội địa Vietcombank Connect24. Với phương châm lấy khách hàng làm trọng tâm và xu thế số hóa trong hoạt động ngân hàng, Vietcombank mong muốn mang đến cho khách hàng trải nghiệm thanh toán dễ dàng, an toàn và bảo mật cho hàng chục triệu người sở hữu dòng thẻ này”, bà Đoàn Hồng Nhung, Giám đốc Khối Bán lẻ Vietcombank chia sẻ.
+
+Khách hàng cũng có thể sử dụng Apple Pay trên iPhone, iPad và Mac để thực hiện giao dịch mua sắm nhanh chóng và tiện lợi hơn trong ứng dụng hoặc trên web mà không cần phải tạo tài khoản, hoặc nhập lại thông tin liên lạc, thông tin thẻ, địa chỉ giao hàng và thông tin thanh toán nhiều lần.
+
+Bảo mật và riêng tư là cốt lõi của Apple Pay. Khi khách hàng sử dụng thẻ nội địa Vietcombank Connect24 với Apple Pay, số thẻ thực tế không được lưu trữ trên thiết bị, cũng không nằm trên máy chủ Apple. Thay vào đó, một số tài khoản thiết bị duy nhất được gán, mã hóa và lưu trữ an toàn trong Secure Element, một chip được chứng nhận theo tiêu chuẩn ngành nhằm lưu trữ thông tin thanh toán một cách an toàn trên thiết bị.
+
+Apple Pay rất dễ cài đặt. Trên iPhone, khách hàng có thể thêm thẻ nội địa Vietcombank Connect24 vào Apple Pay trực tiếp trên trang chủ VCB Digibank và nhấn vào biểu tượng Apple Pay; hoặc mở ứng dụng Wallet, nhấn ‘ ’ và làm theo các bước hướng dẫn để thêm thẻ. Sau khi thêm thẻ vào iPhone, Apple Watch, iPad, Mac, khách hàng có thể sử dụng Apple Pay trên thiết bị đó ngay lập tức.
+
+Khách hàng sẽ tiếp tục nhận được các ưu đãi và quyền lợi tương tự mà thẻ nội địa Vietcombank Connect24 mang lại. Thuận tiện hơn, khách hàng có thể đăng ký thẻ phi vật lý Vietcombank Connect24 ngay trên ứng dụng VCB Digibank, thẻ sẽ được phát hành ngay lập tức, có thể được thêm vào Apple Pay để chi tiêu ngay và tiếp tục nhận được các ưu đãi và quyền lợi.
+
+* Để biết thêm thông tin về Apple Pay, vui lòng truy cập:
+
+https://www.apple.com/vn/apple-pay/.

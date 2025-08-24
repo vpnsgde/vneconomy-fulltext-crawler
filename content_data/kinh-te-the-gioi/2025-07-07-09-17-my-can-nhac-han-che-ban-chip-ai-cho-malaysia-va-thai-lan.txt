@@ -1,0 +1,27 @@
+Chính quyền của Tổng thống Mỹ Donald Trump đang dự kiến có biện pháp hạn chế việc bán con chip trí tuệ nhân tạo (AI) của các công ty như Nvidia cho Malaysia và Thái Lan. Đây là một phần trong nỗ lực ngăn chặn việc Trung Quốc có thể đứng sau các quốc gia này để tiếp cận con chip tiên tiến của Mỹ.
+
+Theo nguồn tin của hãng tin Bloomberg, trong dự thảo quy định đang được Bộ Thương mại Mỹ xây dựng, Washington muốn ngăn chặn Trung Quốc mua bộ xử lý AI tiên tiến của các công ty Mỹ như Nvidia thông qua các trung gian nằm tại hai quốc gia Đông Nam Á trên.
+
+Theo nguồn tin, biện pháp hạn chế nhằm vào Malaysia và Thái Lan được cân nhắc sau khi Mỹ huỷ bỏ các hạn chế theo quy định về phổ biến AI có từ thời Tổng thống Joe Biden.
+
+Quy định về phổ biến AI (AI Diffusion Rule) được chính quyền cựu Tổng thống Joe Biden ban hành vào ngày 15/1/2025 nhưng đã bị chính quyền ông Trump bãi bỏ trước khi có hiệu lực vào ngày 15/5/2025. Mục tiêu của quy định này là kiểm soát chặt chẽ việc xuất khẩu công nghệ AI tiên tiến, đặc biệt là chip AI, nhằm ngăn chặn các quốc gia đối thủ tiếp cận công nghệ nhạy cảm của Mỹ. Quy định này vấp phải sự phản đối từ các đồng minh của Mỹ cũng như các công ty công nghệ, bao gồm Nvidia.
+
+Dù bãi bỏ quy định về phổ biến AI, Washington vẫn duy trì các hạn chế xuất khẩu con chip cho Trung Quốc - được áp đặt vào năm 2022 và tăng cường thêm vài lần trong những năm qua. Ngoài ra, hạn chế cũng được duy trì với hơn 40 quốc gia khác theo một quy định được ban hành vào năm 2023 dưới thời Biden - được thiết kế dể ngăn chặn tình trạng “núp bóng”.
+
+Nhìn chung, biện pháp nhằm vào Malaysia và Thái Lan nói trên sẽ đánh dấu bước đi chính thức đầu tiên của chính quyền Trump sau khi cam kết thay thế quy định về phổ biến AI của chính quyền tiền nhiệm bằng một “chiến lược táo bạo và toàn diện hơn”.
+
+Tuy nhiên, nguồn tin của Bloomberg cho rằng các biện pháp mới của chính quyền ông Trump chưa thể làm được điều đó bởi còn nhiều vấn đề. Ví dụ, các quy định không trả lời các câu hỏi về điều kiện bảo mật khi sử dụng con chip Mỹ tại các trung tâm dữ liệu ở nước ngoài.
+
+Hiện chưa rõ liệu chính quyền ông Trump có mở rộng các quy định  hạn chế này với nhiều quốc gia khác ngoài Malaysia và Thái Lan hay không.
+
+Tháng trước, phát biểu trong một phiên điều trần trước Quốc hội, Bộ trưởng Thương mại Mỹ Howard Lutnick cho biết Mỹ sẽ “cho phép các nước đồng minh mua chip AI, miễn là con chip đó được sử dụng bởi một đơn vị vận hành trung tâm dữ liệu được Mỹ chấp thuận và các đám mây tiếp xúc với những trung tâm dữ liệu đó thuộc đơn vị vận hành được Mỹ chấp thuận”.
+
+Nvidia, nhà chế tạo chip AI lớn nhất, hiện chưa đưa ra bình luận trước thông tin này. Trước đây, ông Jensen Huang, CEO kiêm Chủ tịch của Nvidia, từng khẳng định “không có bằng chứng nào” cho thấy có việc chuyển hướng con chip Mỹ qua bất kỳ quốc gia nào sang một quốc gia khác.
+
+Trong khi đó, phản hồi câu hỏi về vấn đề này, nhà chức trách Thái Lan trước đây cho biết họ đang đợi thêm thông tin chi tiết. Còn Bộ Đầu tư, Thương mại và Công nghiệp Malaysia nhấn mạnh các chính sách rõ ràng và nhất quán là cần thiết đối với lĩnh vực công nghệ.
+
+Nhiều năm qua, giới chức Mỹ thường xuyên tranh luận về việc quốc gia nào nên được phép nhập khẩu chip AI Mỹ và với điều kiện gì. Một mặt, thế giới muốn phần cứng của những công ty như Nvidia, trong khi các nhà hoạch định chính sách ở Washington muốn thế giới xây dựng các hệ thống AI sử dụng công nghệ của Mỹ trước khi Trung Quốc có thể đưa ra một lựa chọn thay thế hấp dẫn.
+
+Mặt khác, một khi những con chip đó được xuất khẩu khỏi Mỹ, Washington lại lo rằng chúng có thể tới tay Trung Quốc, hoặc các công ty AI của Trung Quốc có thể hưởng lợi từ việc tiếp cận vào các trung tâm dữ liệu sử dụng chip AI Mỹ ở nước ngoài.
+
+Đông Nam Á đang là một tâm điểm nhận được sự quan tâm lớn. Các công ty Mỹ như Oracle Corp. đang đầu tư mạnh vào các trung tâm dữ liệu tại Malaysia và dữ liệu thương mại cho thấy xuất khẩu con chip Mỹ sang quốc gia này đã tăng mạnh những tháng gần đây. Dưới áp lực từ Washington, giới chức Malaysia cam kết sẽ giám sát chặt chẽ mặt hàng nhập khẩu này. Tuy nhiên, dự thảo trên của Bộ Thương mại Mỹ cho thấy Washington vẫn còn lo ngại.

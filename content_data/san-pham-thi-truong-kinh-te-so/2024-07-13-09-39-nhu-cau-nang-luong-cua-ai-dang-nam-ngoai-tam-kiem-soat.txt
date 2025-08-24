@@ -1,0 +1,33 @@
+Các chatbot AI bắt đầu phổ biến sau khi OpenAI phát hành ChatGPT vào cuối năm 2022. Từ đó đến nay, thung lũng Silicon đã không ngừng phát hành các mô hình ngôn ngữ lớn. Tuy nhiên, những tiến bộ này cũng đang tác động không nhỏ đến môi trường.
+
+Theo tờ Wired, sự xuất hiện của các công cụ trí tuệ nhân tạo đang dẫn đến một kỷ nguyên siêu tiêu dùng của Internet, đòi hỏi lượng điện và nước quá cao để vận hành.
+
+Ông Sajjad Moazeni, một nhà nghiên cứu kỹ thuật máy tính tại Đại học Washington, cho biết: “Các thuật toán cần chạy cho bất kỳ mô hình AI tạo sinh nào về cơ bản rất khác so với Google tìm kiếm hoặc Email. Các dịch vụ trước đây rất nhẹ về lượng dữ liệu cần chuyển qua lại giữa các bộ xử lý”. Nhà nghiên cứu Sajjad Moazen ước tính các ứng dụng AI tạo sinh có cường độ tính toán cao hơn khoảng 100 đến 1.000 lần so với các công cụ tìm kiếm trước đây.
+
+Nhu cầu năng lượng để đào tạo và triển khai công nghệ trí tuệ nhân tạo không còn là bí mật, vì từ năm ngoái rất nhiều chuyên gia đã dự đoán nhu cầu năng lượng sẽ tăng cao tại các trung tâm dữ liệu AI.
+
+Junchen Jiang, nhà nghiên cứu hệ thống mạng tại Đại học Chicago, cho biết: “Lượng khí thải carbon và mức tiêu thụ năng lượng sẽ tuyến tính với lượng tính toán người dùng thực hiện, bởi vì về cơ bản, các trung tâm dữ liệu đang được cung cấp năng lượng tỷ lệ thuận với lượng tính toán mà chúng thực hiện”. Mô hình AI càng lớn thì càng phải tính toán nhiều hơn và những mô hình biên giới ngày càng trở nên khổng lồ.
+
+Theo ông Shaolei Ren, nhà nghiên cứu AI tại UC Riverside và là đồng tác giả của một cuốn sách liên quan đến tác động của AI đối với môi trường, tác động từ các công ty vận hành trung tâm dữ liệu khổng lồ thậm chí không thể so sánh với tác động từ hoạt động lãng phí nước sinh hoạt của người dân.
+
+“Khi người dân sử dụng nước, sau đó họ sẽ lại xả nước trở lại cống ngay lập tức. Người dân gần như chỉ là đang rút nước nhưng các trung tâm thực sự tiêu thụ nước”, nhà nghiên cứu Shaolei Ren nói.
+
+“Nước sử dụng cho các trung tâm dữ liệu sẽ bị bay hơi lên khí quyển” và ông cho biết thêm lượng nước mà các trung tâm dữ liệu tiêu thụ có thể không quay trở lại bề mặt trái đất cho đến một năm sau.
+
+Alistair Speirs, Giám đốc cấp cao về cơ sở hạ tầng toàn cầu Azure của Microsoft, cho biết AI đang góp phần vào sự phát triển của trung tâm dữ liệu và chỉ ra việc chuyển đổi sang điện toán đám mây cũng là một yếu tố chính đáng xem xét, vì nó cũng đang thay thế phần cứng được vận hành tại chỗ. Giám đốc cấp cao về cơ sở hạ tầng toàn cầu Azure cho biết Microsoft đang đặt mục tiêu âm carbon, dương nước và không rác thải vào cuối thập kỷ này.
+
+Fengqi You, nhà nghiên cứu từ Cornell, nhấn mạnh tầm quan trọng của việc tiếp tục chuyển đổi sang các nguồn năng lượng tái tạo. Mặc dù ông đặt câu hỏi về tính hiệu quả của các công ty đang dựa vào kế hoạch bù đắp carbon như một phần trong nỗ lực bền vững của họ.
+
+Nhà nghiên cứu Fengqi You nói: “Bù đắp là giải pháp tạm thời, còn hơn không, nhưng chắc chắn không phải là giải pháp tối ưu”. Ông cho rằng cần chú ý nhiều hơn đến dấu chân nước trong chuỗi cung ứng đối với các công ty lớn cũng như hoạt động tiêu dùng trực tiếp của họ. Tất nhiên, Google và Microsoft không phải là những tay chơi duy nhất
+
+Mặc dù tổng mức tiêu thụ năng lượng của Google đã tăng gấp đôi từ năm 2019 đến năm 2023, Corina Standiford, người phát ngôn của công ty, cho biết sẽ không công bằng khi nói rằng mức tiêu thụ năng lượng của Google tăng vọt trong cuộc đua AI.
+
+Mặc dù nhu cầu năng lượng tại các trung tâm dữ liệu có xu hướng tăng lên nhưng nó vẫn chỉ chiếm một tỷ lệ nhỏ trong tổng lượng năng lượng mà con người sử dụng. Fengqi You, một nhà nghiên cứu kỹ thuật hệ thống năng lượng tại Cornell, cho rằng các nhà máy lọc dầu, các tòa nhà và phương tiện giao thông có ảnh hưởng đến nhu cầu điện nhiều hơn so với các trung tâm AI ở thời điểm hiện tại.
+
+Ông Corina Standiford nói: “Những lĩnh vực đó hiện sử dụng nhiều năng lượng hơn so với các trung tâm dữ liệu AI. Hãy ghi nhớ điều đó”.Tờ Wired viết thay vì gây hại cho môi trường, các công ty công nghệ thường định vị việc phát triển AI là một phần của giải pháp khí hậu và quan trọng đối với sự đổi mới. Trong nỗ lực giảm tác động tức thời cũng như chi phí của nhiều hoạt động.
+
+Các trung tâm dữ liệu này có khả năng gây áp lực lên các lưới điện địa phương. Nhà nghiên cứu Sajjad Moazeni nói: “Các trung tâm máy chủ đào tạo và vận hành các mô hình AI có thể ảnh hưởng đến quyền lợi của người dân và doanh nghiệp, vì lượng tiêu thụ của họ quá lớn có thể dẫn đến mất điện trong thời gian cao điểm”.
+
+Bobby Hollis, Phó chủ tịch năng lượng của Microsoft, trả lời trong email của Wired rằng công ty đang làm việc với các cơ quan chức năng có các biện pháp để tránh ảnh hưởng đến các dịch vụ địa phương. Ông tuyên bố Microsoft xây dựng cơ sở hạ tầng hỗ trợ để tránh bất kỳ sự cắt giảm dịch vụ tiện ích nào cho người dân.
+
+Ngay cả khi không tìm kiếm các công cụ AI, chúng vẫn sẽ tiêu hao năng lượng vì hiện đã được đưa vào làm tính năng mặc định trong nhiều hệ điều hành, ứng dụng web và chương trình phần mềm hàng ngày.

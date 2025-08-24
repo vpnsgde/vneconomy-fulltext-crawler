@@ -1,0 +1,9 @@
+Theo dữ liệu từ Our World in Data, hiện 217 quốc gia và vùng lãnh thổ trên thế giới đã bắt đầu chiến dịch tiêm vaccine Covid-19. Hiện tại, có tổng cộng 16 loại vaccine Covid-19 đã được cấp phép tại những nơi này nhưng mức độ phổ biến có sự chênh lệch đáng kể.
+
+Vaccine Covid-19 do hãng dược AstraZeneca có trụ sở tại Anh và đại học Oxford phát triển hiện được cấp phép phổ biến nhất thế giới. Vaccine này hiện được sử dụng tại 177 quốc gia và vùng lãnh thổ, bao gồm hầu hết các nước châu Âu và nhiều nước châu Á như Ấn Độ, Nhật Bản, Hàn Quốc, Philippines, Thái Lan, Việt Nam... Các nước hiện chưa cấp phép vaccine này gồm Mỹ, Trung Quốc, Đan Mạch, Thụy Sỹ, New Zealand, Singapore, Việt Nam, Thái Lan...
+
+Phổ biến thứ hai là vaccine do hãng dược Mỹ Pfizer và công ty BioNTech của Đức đồng phát triển. Vaccine này hiện có mặt tại 121 quốc gia và vùng lãnh thổ trên thế giới gồm Mỹ, Australia, Áo, Bahrain, Trung Quốc, CH Séc, Đan Mạch, Pháp, Đức, Nhật Bản, Hàn Quốc, Singapore, Việt Nam...
+
+Tiếp đến là vaccine do công ty Sinopharm của Trung Quốc vaccine khi được cấp phép tại 69 quốc gia, vùng lãnh thổ, gồm Trung Quốc, Hungary, Ai Cập, Các tiểu vương quốc Ả Rập thống nhất, Indonesia, Lào, Myanmar, Việt Nam...Vaccine do hãng dược Mỹ Moderna phát triển và vaccine Spunik V của Nga hiện lần lượt có mặt tại 67 và 50 quốc gia, vùng lãnh thổ. Việt Nam là một trong những nơi đã cấp phép cả hai loại vaccine này.
+
+Trong khi đó, một số loại vaccine chỉ được cấp phép tại 1-2 quốc gia/vùng lãnh thổ, thường là nơi nó được phát triển, như ZF2001 (Trung Quốc, Uzbekistan), Abdala (Cuba), Soberana02 (Cuba), COVIran Barekat (Iran), QazVac (Kazakhstan), EpiVacCorona (Nga), Medigen (Đài Loan).

@@ -1,0 +1,29 @@
+Nhiều chuyên gia đánh giá đây là cái tên duy nhất trên “lục địa già” có tiềm năng cạnh tranh sòng phẳng với OpenAI. Tuy nhiên, dù được định giá tới 6 tỷ USD, Mistral vẫn chỉ chiếm thị phần tương đối khiêm tốn trên quy mô toàn cầu.
+
+Gần đây, Mistral gây chú ý khi tung ra ứng dụng trò chuyện Le Chat. Tại Pháp, sản phẩm này nhanh chóng trở thành tâm điểm truyền thông, phần nào nhờ sự ủng hộ mạnh mẽ từ chính Tổng thống Emmanuel Macron.
+
+Trước thềm Hội nghị thượng đỉnh về hành động AI diễn ra ở Paris, Tổng thống Emmanuel Macron thậm chí phát biểu trên truyền hình: “Hãy tải Le Chat, sản phẩm do người Pháp phát triển, thay vì ChatGPT hay những ứng dụng khác”.
+
+Trong vòng hai tuần sau khi ra mắt phiên bản di động, ứng dụng Le Chat đã thu hút tới 1 triệu lượt tải và nhanh chóng leo lên vị trí số một trên bảng xếp hạng ứng dụng miễn phí tại Pháp.
+
+Đứng sau Mistral AI là ba nhà sáng lập từng có kinh nghiệm làm việc tại các “ông lớn” công nghệ Hoa Kỳ, nhưng lại chọn Paris làm nơi đặt những bước đi chiến lược đầu tiên. CEO Arthur Mensch từng làm việc tại DeepMind (Google), trong khi Timothée Lacroix là Giám đốc công nghệ (CTO) và Guillaume Lample là Giám đốc khoa học, đều là cựu nhân sự của Meta.
+
+Bên cạnh đó, đội ngũ đồng sáng lập và cố vấn của Mistral cũng đáng để chú ý. Trong đó có Jean-Charles Samuelian-Wervevà Charles Gorintin là hai nhà sáng lập startup bảo hiểm y tế Alan, cùng với Cédric O, cựu Bộ trưởng phụ trách chuyển đổi số của Pháp. Sự tham gia của Cédric O từng gây ra tranh cãi trong dư luận, do mối liên hệ giữa vai trò chính trị trước đây và hoạt động của một công ty tư nhân trong lĩnh vực công nghệ chiến lược.
+
+Song hành cùng Le Chat, mô hình gây nhiều chú ý, Mistral AI còn có cả một hệ sinh thái mô hình AI phong phú trên nhiều lĩnh vực. Chẳng hạn như Mistral Medium 3 (phát hành vào tháng 5/2025) hỗ trợ các tác vụ lập trình và STEM, Devstral – mô hình chuyên về lập trình, phát hành công khai cho phép sử dụng thương mại không giới hạn,...
+
+Tính đến tháng 2/2025, Mistral AI đã thu hút khoảng 1 tỷ EUR (khoảng 1,04 tỷ USD) vốn đầu tư, bao gồm cả vốn chủ sở hữu và các khoản vay.
+
+Ngay khi mới thành lập vào tháng 6/2023, Mistral đã gây chú ý khi huy động được vòng hạt giống kỷ lục 112 triệu USD, do Lightspeed Venture Partners dẫn đầu, định giá công ty ở mức 260 triệu USD chỉ sau một tháng hoạt động. Vòng này còn có sự góp mặt của nhiều nhà đầu tư uy tín như Bpifrance, Eric Schmidt, Exor Ventures, JCDecaux Holding, Xavier Niel...
+
+Chỉ sau 6 tháng, Mistral hoàn thành vòng Series A với 385 triệu EUR (415 triệu USD), định giá khoảng 2 tỷ USD, với sự tham gia của Andreessen Horowitz (a16z), BNP Paribas, CMA-CGM, Salesforce và nhiều nhà đầu tư khác.
+
+Khoản đầu tư 16,3 triệu USD của Microsoft vào tháng 2/2024 được tính là mở rộng vòng Series A, giữ nguyên định giá 2 tỷ USD.
+
+Đến tháng 6/2024, Mistral huy động thêm 600 triệu EUR (khoảng 640 triệu USD) từ cả vốn chủ sở hữu và nợ, vòng này được dẫn dắt bởi General Catalyst, định giá công ty lên tới 6 tỷ USD. Các nhà đầu tư nổi bật gồm Cisco, IBM, Nvidia, Samsung Venture Investment...
+
+Dù phần lớn dịch vụ của Mistral hiện vẫn có phiên bản miễn phí, công ty đã bắt đầu triển khai các kênh doanh thu. Một trong số đó là gói trả phí của trợ lý Le Chat, ra mắt vào tháng 2/2025 với mức giá 14,99 USD/tháng.
+
+Ở mảng doanh nghiệp (B2B), Mistral AI cung cấp quyền truy cập vào các mô hình cao cấp thông qua API tính phí theo mức sử dụng. Ngoài ra, công ty cũng cấp phép trực tiếp mô hình cho đối tác và tạo ra nguồn thu từ các thỏa thuận hợp tác chiến lược.
+
+Tuy nhiên, theo nhiều nguồn tin, doanh thu của Mistral AI hiện vẫn ở mức tám con số – một con số tương đối khiêm tốn so với quy mô kỳ vọng, nhưng phù hợp với một công ty đang ở giai đoạn đầu.

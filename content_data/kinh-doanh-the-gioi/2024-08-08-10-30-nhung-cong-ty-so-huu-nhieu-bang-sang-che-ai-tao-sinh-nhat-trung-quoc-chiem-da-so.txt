@@ -1,0 +1,21 @@
+Sự ra đời của các công cụ trợ lý sử dụng trí tuệ nhân tạo (AI) như ChatGPT đã thổi bùng cơn sốt với AI tạo sinh. AI tạo sinh thuộc lĩnh vực máy học, cho phép máy tính tạo ra đa đạng các loại nội dung mới từ văn bản, hình ảnh, âm thanh cho tới dữ liệu tổng hợp.
+
+Sự phát triển trong công nghệ AI tạo sinh thể hiện rõ nét ở sự gia tăng đáng kể về số lượng bằng sáng chế dành cho công nghệ này. Số lượng các họ sáng chế (patent family – nhóm bằng sáng chế liên quan tới một phát minh hay công nghệ) của AI tạo sinh đã tăng vọt từ chỉ 733 vào năm 2014 lên 14.000 vào năm 2023.
+
+Đồ thị thông tin dưới đây gồm các công ty sở hữu nhiều bằng sáng chế AI tạo sinh nhất tính tới tháng 4/2024, dựa trên dữ liệu từ Tổ chức Sở hữu Trí tuệ Thế giới (WIPO) – một cơ quan của Liên hợp quốc (UN).
+
+Những mô hình AI tạo sinh có nhiều bằng sáng chế nhất gồm Mạng đối nghịch tạo sinh (GAN), Mô hình tổng hợp biến đổi tự nhiên (VAE) và Mô hình ngôn ngữ lớn (LLM).
+
+GAN là một công cụ hữu ích trong tạo hình ảnh, sử một trình tạo dữ liệu và một trình phân tích để đánh giá và tinh chỉnh dữ liệu đó.
+
+Còn VAE giúp mã hóa dữ liệu vào không gian ẩn, sau đó giải mã trở lại, cho phép tạo ra dữ liệu mới bằng cách sử dụng mẫu từ không gian ẩn đó. Các công cụ VAE được sử dụng trong tạo hình ảnh, phát hiện bất thường và học máy bán giám sát (semi-supervised learning).
+
+Trong khi đó, LLM là các mô hình tương tự như ChatGPT, tạo ra văn bản bằng cách sử dụng các mô hình học sâu và nguồn dữ liệu đã được đào tạo khổng lồ. Các mô hình LMM được ứng dụng trong việc hoàn thiện văn bản, dịch, tóm tắt và trợ lý trò chuyện.
+
+Từ đồ thị và bảng trên có thể thấy, các công ty Trung Quốc thống trị đường đua lấy bằng sáng chế về AI tạo sinh, với Tencent và Baidu là hai cái tên đầu bảng.
+
+Baidu gần đây ra mắt ứng dụng chatbot sử dụng mô hình LLM mới nhất có tên ERNIE 4.0. Còn Tencent đang có kế hoạch bổ sung tính năng AI tạo sinh vào các sản phẩm của mình, bao gồm ứng WeChat – ứng dụng nhắn tin, mạng xã hội và thanh toán trực tuyến hàng đầu ở Trung Quốc.
+
+IBM, Alphabet (công ty mẹ Google) và Microsoft là các công ty Mỹ có mặt trong danh sách này. AI đã phát triển nền tảng AI tạo sinh có tên Watsonx, cho phép các doanh nghiệp triển khai và tùy chỉnh mô hình LMM tập trung vào việc đảm bảo an toàn cho dữ liệu và tuân thủ quy định pháp luật.
+
+Trong khi đó, bộ phận AI của Alphabet gần đây ra mắt mô hình LMM mới nhất Gemini và đang dần tích hợp vào các sản phẩm và dịch vụ của công ty, bao gồm công cụ tìm kiếm Google. Còn Microsoft tham gia đường đua này với khoản đầu tư vào startup OpenAI – công ty phát triển ứng dụng ChatGPT gây sốt toàn cầu thời gian qua.

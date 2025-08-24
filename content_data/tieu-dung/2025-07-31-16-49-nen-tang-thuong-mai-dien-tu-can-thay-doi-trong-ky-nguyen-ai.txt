@@ -1,0 +1,29 @@
+Đây là một bước chuyển mình mà nhà phát triển ChatGPT – OpenAI – đang tích cực khai thác trong lĩnh vực thương mại. Công ty công nghệ trị giá 300 tỷ USD này đang thử nghiệm một tính năng thanh toán tích hợp, cho phép người tiêu dùng hoàn tất đơn hàng ngay trong ChatGPT mà không cần rời khỏi nền tảng.
+
+Cùng lúc đó, Google đang nghiêm túc chạy đua để bắt kịp trong lĩnh vực thương mại ứng dụng AI: tháng 5/2025, công ty đã ra mắt “chế độ AI” cho tìm kiếm dựa trên trí tuệ nhân tạo sinh, đồng thời công bố ba tính năng mua sắm bằng AI mới (thử đồ ảo, gợi ý mua sắm cá nhân hóa nhờ Gemini, và so sánh giá thông minh theo kiểu “đại lý”), tất cả đều được triển khai trước tiên tại thị trường Mỹ. Theo các báo cáo, chúng ta cũng có thể kỳ vọng Apple – đối thủ Big Tech của Google – sẽ sớm gia nhập cuộc chơi tìm kiếm AI thông qua trình duyệt Safari.
+
+Tất cả những điều này đồng nghĩa với việc các công ty quảng cáo và đội ngũ tiếp thị đã chuyển trọng tâm từ SEO (tối ưu hóa công cụ tìm kiếm) sang một khái niệm mới gọi là “AIO” (tối ưu hóa cho trí tuệ nhân tạo). Các quỹ đầu tư mạo hiểm cũng đang rót vốn vào một “ngành công nghiệp thủ công” mới nổi gồm các startup cam kết giúp thương hiệu tăng khả năng hiển thị và tỷ lệ chuyển đổi trong tìm kiếm bằng AI.
+
+Dù các chuyên gia AI và tiếp thị thừa nhận rằng vẫn còn khó để hiểu rõ điều gì thực sự “kích hoạt” các mô hình ngôn ngữ lớn (LLM), nhưng đã bắt đầu xuất hiện một số thực hành tối ưu hóa trang web thương mại điện tử được coi là chìa khóa để giúp thương hiệu đón đầu làn sóng chuyển dịch này.
+
+Sự khác biệt cốt lõi giữa các mô hình ngôn ngữ lớn (LLM) và công cụ tìm kiếm truyền thống nằm ở cách người dùng tương tác để tìm kiếm thông tin họ cần. Tìm kiếm bằng AI đang chứng kiến một sự thay đổi rõ rệt: thay vì chỉ nhập từ khóa đơn lẻ, người dùng ngày càng có xu hướng đặt những câu hỏi dài hơn, mang tính trò chuyện và có thể tiếp nối bằng các câu hỏi phụ.
+
+Thời kỳ “hack từ khóa” truyền thống đã qua — khi các thương hiệu chỉ cần tìm ra từ khóa dễ lên top rồi xây dựng nội dung website hay mô tả sản phẩm xoay quanh những từ khóa đó.
+
+Giờ đây, các thương hiệu buộc phải chuyển sang viết nội dung theo hướng thể hiện rõ ý định tìm kiếm của người dùng: tập trung vào mô tả danh mục sản phẩm, giải quyết các vấn đề thường gặp, đồng thời xây dựng các phần hỏi – đáp, hướng dẫn sử dụng, nội dung dạng trò chuyện để đoán trước và đáp ứng các câu hỏi mà người dùng có thể đặt ra.
+
+Ví dụ, với một chiếc túi xách hàng hiệu, trước đây các thương hiệu có thể chỉ ghi đơn giản trong phần mô tả sản phẩm là: “Túi xách da Ý 100%”. Giờ đây, họ có xu hướng diễn đạt chi tiết và mang tính ngữ cảnh hơn, chẳng hạn: “Túi xách da Ý 100%, đủ rộng để đựng laptop, phù hợp với phụ nữ ở độ tuổi 20 – 30, có thể mang từ văn phòng đến bữa tối sang trọng”.
+
+Không chỉ chăm chút nội dung mô tả sản phẩm trên website của chính mình, các chuyên gia còn cho rằng thương hiệu cần có cách nhìn toàn diện hơn — tức là phải quản lý và tối ưu hóa mọi nội dung liên quan đến thương hiệu đang tồn tại trên môi trường số, ở bất cứ đâu trên internet.
+
+Một thay đổi lớn khác trong tìm kiếm bằng AI là sự chuyển dịch sang tìm kiếm “đa phương thức” (multimodal), nơi ngữ cảnh không chỉ nằm trong nội dung văn bản mà còn bao gồm cả hình ảnh sản phẩm. Theo các chuyên gia trong ngành, nếu hình ảnh sản phẩm càng đồng nhất và phù hợp với mô tả bằng văn bản, thì khả năng được các mô hình AI “hiểu đúng” và gợi ý đến người dùng càng cao.
+
+Ví dụ, nếu một thương hiệu sản xuất chiếc túi xách đó với nhiều phiên bản màu khác nhau, thì họ cần hiển thị hình ảnh của tất cả các màu sắc đó trên trang sản phẩm. Việc này giúp sản phẩm có cơ hội xuất hiện nhiều hơn trong các truy vấn tìm kiếm sử dụng AI.
+
+Nhưng trong tìm kiếm bằng AI đa phương thức, vấn đề không chỉ dừng lại ở việc hình ảnh sản phẩm cần khớp với mô tả bằng lời. Google cho biết tính năng tìm kiếm bằng hình ảnh – cụ thể là công cụ Google Lens sử dụng trí tuệ nhân tạo – hiện là hành vi tìm kiếm phát triển nhanh nhất của họ. Trong số 20 tỷ lượt tìm kiếm bằng hình ảnh mỗi tháng, cứ 4 lượt thì có 1 mang mục đích thương mại – tức là người dùng đang tìm để mua hàng.
+
+Theo Google, sự thay đổi này được thúc đẩy bởi thế hệ người tiêu dùng trẻ, đặc biệt là Gen Z – những người có cách tiếp cận thế giới mang tính hình ảnh, ưu tiên trải nghiệm xã hội và di động, từ đó cũng ảnh hưởng đến cách họ muốn mua sắm. Ngoài ra, càng có nhiều góc chụp và chi tiết sản phẩm được thể hiện trong bộ ảnh sản phẩm, thì khả năng món hàng đó xuất hiện đúng trong kết quả tìm kiếm bằng hình ảnh càng cao.
+
+Khi các thương hiệu đang điều chỉnh để thích nghi với những thay đổi này, giới chuyên gia đồng thuận rằng tìm kiếm bằng AI cuối cùng sẽ phục vụ người tiêu dùng tốt hơn. Nếu các thương hiệu có thể theo kịp tốc độ phát triển nhanh chóng của công nghệ bằng cách cung cấp dữ liệu phù hợp – thứ mà các mô hình AI cần để vận hành hiệu quả – thì thương mại điện tử trong lĩnh vực thời trang có thể sẽ trở nên cá nhân hóa và phù hợp hơn bao giờ hết.
+
+Hơn nữa, vì những đánh giá và cảm nhận của người tiêu dùng về thương hiệu cũng được tích hợp vào các mô hình ngôn ngữ lớn (LLMs), các chuyên gia cho rằng kỷ nguyên mới của tìm kiếm bằng AI có thể sẽ công bằng hơn – nơi giá trị thực sự và uy tín thương hiệu đóng vai trò quan trọng hơn chi phí quảng cáo.

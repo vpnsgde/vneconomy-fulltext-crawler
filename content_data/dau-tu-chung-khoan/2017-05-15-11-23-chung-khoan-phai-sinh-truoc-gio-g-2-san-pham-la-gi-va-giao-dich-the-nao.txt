@@ -1,0 +1,79 @@
+Hai sản phẩm đầu tiên được triển khai trên thị trường phái sinh là hợp đồng tương lai chỉ số cổ phiếu (Equity Index Futures) và hợp đồng tương lai trái phiếu chính phủ (Bond Futures).
+
+Cụ thể, chỉ số được lựa chọn làm tài sản cơ sở cho hợp đồng tương lai là chỉ số VN30, HNX30, và hợp đồng tương lai trên trái phiếu Chính phủ sẽ sử dụng trái phiếu giả định (synthetic/nominal bond) kỳ hạn 5 năm.
+
+Hợp đồng tương lai trái phiếu Chính phủ hướng đến đối tượng là các tổ chức đầu tư chuyên nghiệp, các ngân hàng thương mại, phục vụ chủ yếu cho mục đích phòng hộ rủi ro và dự đoán lãi suất tương lai của thị trường trái phiếu Chính phủ.
+
+Trong khi đó, hợp đồng tương lai chỉ số cổ phiếu sẽ là mối quan tâm chủ yếu của tất cả các nhà đầu tư nói chung, trong đó có nhà đầu tư cá nhân đã và đang đầu tư trên thị trường cổ phiếu cơ sở.
+
+Tại sao chọn chọn các chỉ số cổ phiếu “top”?
+
+Hợp đồng tương lai dựa trên một chỉ số cổ phiếu là sản phẩm phái sinh đơn giản nhất, thường được triển khai đầu tiên ở các thị trường chứng khoán phái sinh tập trung mới ra đời. Đây là một hợp đồng được chuẩn hóa bởi sở giao dịch chứng khoán - ở đây là HNX - dựa trên biến động của một chỉ số cổ phiếu thuộc thị trường cơ sở.
+
+Mặc dù hiện các sở giao dịch đã có nhiều bộ chỉ số, hợp đồng tương lai chỉ số do HNX phát triển lựa chọn chỉ số top, ở đây là HNX30-Index và VN30-Index. Hợp đồng quy định nhiều điều khoản kỹ thuật chi tiết, nhưng trên thực tế, nhà đầu tư không tham gia giao dịch nội dung hợp đồng đó, mà chỉ giao dịch mã số của hợp đồng tương tự như mã số của một cổ phiếu.
+
+Nói theo ngôn ngữ thị trường, việc mua hay bán một hợp đồng tương lai của một chỉ số là nhà đầu tư tham gia đánh cược về biến động của chỉ số đó. Nếu nghĩ rằng chỉ số VN30-Index trong tháng tới sẽ tăng, nhà đầu tư có thể mua một Hợp đồng tương lai với chỉ số này và chờ giá tăng.
+
+Ngược lại, nếu nghĩ rằng chỉ số VN30-Index sắp giảm, nhà đầu tư sẽ bán một hợp đồng tương lai. Ưu điểm là nhà đầu tư dù chưa sở hữu bất kỳ cổ phiếu nào trong rổ cổ phiếu VN30-Index cũng vẫn có thể giao dịch bằng việc tham gia “vị thế” bán hợp đồng tương lai trên chỉ số này.
+
+Chỉ số VN30-Index là một trong hai chỉ số được lựa chọn làm tài sản cơ sở cho hợp đồng tương lai chỉ số (chỉ số còn lại là HNX30-Index). Tuy nhiên trong giai đoạn đầu tiên, để tập trung thanh khoản cho thị trường, các cấp quản lý thị trường hiện cân nhắc việc sẽ chỉ có hợp đồng tương lai với chỉ số VN30-Index được triển khai trước. Sau một thời gian vận hành sẽ xem xét đưa tiếp các sản phẩm khác với nhiều loại hình chỉ số cổ phiếu hơn vào giao dịch.
+
+Trên thị trường hiện có nhiều chỉ số chứng khoán, nhưng việc chọn chỉ số VN30-Index là do chỉ số này đại diện cho các cổ phiếu vốn hóa lớn trên thị trường và có các tiêu chí định lượng về tính thanh khoản, cùng các yếu tố kỹ thuật khác. Ngoài ra chỉ số VN30 đã được điều chỉnh để tính toán dựa trên tỷ lệ cổ phiếu lưu hành tự do có điều chỉnh, đồng thời có giới hạn quy mô vốn hóa tối đa (là 10%) của mỗi cổ phiếu trong rổ.
+
+Nói đơn giản nhất, chỉ số VN30-Index là một trong những chỉ số ít bị méo mó nhất trên thị trường hiện nay.
+
+Một trong những nguy cơ làm tăng rủi ro trong giao dịch hợp đồng tương lai chỉ số là chỉ số đó bị thao túng. Ví dụ một chỉ số tính theo giá trị vốn hóa, dễ bị chi phối bởi số ít các cổ phiếu có vốn hóa lớn, một số giao dịch gây biến động giá lớn sẽ ảnh hưởng tới giá trị của cả hợp đồng tương lai của chỉ số đó.
+
+Chính vì thế, một chỉ số được chọn làm tài sản cơ sở cho hợp đồng tương lai phải ít có rủi ro bị chi phối nhất, để đảm bảo quyền lợi của cả khối nhà đầu tư nhỏ lẻ.
+
+Hợp đồng mẫu của hợp đồng tương lai VN30-Index
+
+Nội dung quan trọng nhất trong hợp đồng mẫu là hệ số nhân.
+
+Để nhà đầu tư có thể giao dịch được một chỉ số thì chỉ số đó phải có giá trị, được quy ra bằng tiền. Hệ số nhân đối với VN30-Index là 100.000 đồng, nghĩa là quy mô một hợp đồng tương lai chỉ số VN30-Index tại mức điểm 680 điểm là  68 triệu đồng (100.000 x 680).
+
+Hệ số nhân sẽ quy định quy mô hợp đồng và các hợp đồng mẫu khác nhau có thể có hệ số nhân khác nhau. Việc chọn hệ số nhân nhỏ là nhằm giúp giảm quy mô giá trị hợp đồng, từ đó giúp nhà đầu tư có quy mô vốn không cần quá lớn cũng có thể giao dịch.
+
+Chẳng hạn năm 1982, hợp đồng tương lai chỉ số S&P500 được giới thiệu có hệ số nhân tới 500 USD, tức là giá trị hợp đồng rất lớn và càng lớn khi chỉ số tăng điểm. Vì thế để khuyến khích các nhà đầu tư cá nhân nhỏ lẻ giao dịch nhiều hơn, năm 1997 một mẫu hợp đồng khác cũng trên chỉ số S&P 500 được gọi là “E-mini” chỉ có hệ số nhân 50 USD. Bản thân hợp đồng tương lai chỉ số S&P500 gốc cũng giảm hệ số nhân từ 500 USD về 250 USD.
+
+Khi có giá trị của chỉ số, nhà đầu tư có thể tính toán lượng tiền ban đầu cần có để mua một hợp đồng tương lai (tiền ký quỹ ban đầu - initial margin). Việc hợp đồng tương lai chỉ số VN30-Index có giá trị 68 triệu đồng không có nghĩa là nhà đầu tư sẽ phải bỏ ra cả 68 triệu đồng để mua một hợp đồng. Quy định tiền ký quỹ ban đầu chỉ là 10% giá trị hợp đồng, nghĩa là nhà đầu tư chỉ phải bỏ ra ban đầu mức ký quỹ với giá trị 6,8 triệu đồng (tiền ký quỹ = tỷ lệ ký quỹ x hệ số nhân x giá trị chỉ số x số lượng hợp đồng = 10% x 100.000 đ x 680 điểm x 01 hợp đồng = 6,8 triệu đ) là đã mua được một hợp đồng.
+
+Bước giá dao động tối thiểu của hợp đồng tương lai chỉ số VN30-Index là 0,1 điểm chỉ số. Bước giá này cũng có ý nghĩa tương tự bước giá giao dịch cổ phiếu, là mức thay đổi giá đặt lệnh tối thiểu.
+
+Ví dụ: VN30-Index hiện có điểm số 680 điểm, nhà đầu tư có thể đặt lệnh ở các mức điểm số: 680,1 điểm, 680,2 điểm, 679,9 điểm và tương ứng là lượng tiền cần có để mua một hợp đồng tại bước giá đó.
+
+Phương thức giao dịch của hợp đồng tương lai cũng tương tự như với cổ phiếu hiện tại, có các hình thức lệnh giới hạn, lệnh thị trường, các lệnh điều kiện, và các phiên đóng cửa mở cửa, khớp lệnh liên tục. Giá tham chiếu cũng là giá đóng cửa của ngày giao dịch liền trước, tương tự cổ phiếu.
+
+Ngày giao dịch cuối cùng của một hợp đồng tương lai được ấn định là ngày thứ năm thứ 3 của tháng đáo hạn. Thời gian thị trường phái sinh mở cửa sẽ sớm hơn thị trường cổ phiếu 15 phút, nhưng kết thúc cùng giờ.
+
+Mã hợp đồng và các tháng hợp đồng
+
+Cũng giống như một cổ phiếu, HNX quy định mã của một hợp đồng tương lai chỉ số theo quy tắc nhất định và chứa đựng thông tin về hợp đồng đó.
+
+Ví dụ, hợp đồng có mã VN30F1705 bao gồm các thông tin: “VN30F” là Hợp đồng tương lai của chỉ số VN30 (F là viết tắt của Futures). “17” là năm 2017 và “05” là tháng đáo hạn của hợp đồng. Việc xếp năm đáo hạn lên trước tháng đáo hạn để nhằm mục đích thuận lợi cho thống kê.
+
+Hiện tại cùng một lúc sẽ có 4 "tháng” hợp đồng (contract months) được giao dịch với chỉ số VN30-Index: hợp đồng tương lai cho tháng hiện tại; hợp đồng tương lai cho tháng kế tiếp; hợp đồng tương lai cuối quý gần nhất; hợp đồng tương lai cuối quý tiếp theo.
+
+Ví dụ, hợp đồng tương lai có mã số VN30F1706 là hợp đồng cho tháng hiện tại sẽ đáo hạn vào tháng 6/2017. Bên cạnh đó nhà đầu tư có thể giao dịch hợp đồng có mã số VN30F1707 là hợp đồng sẽ đáo hạn vào tháng kế tiếp (tháng 7/2017). Hợp đồng có mã số VN30F1709 là hợp đồng sẽ đáo hạn vào quý gần nhất (tháng 9/2017 - quý 3/2017). Hợp đồng có mã số VN30F1712 là hợp đồng đáo hạn vào quý kế tiếp (tháng 12/2017 - quý 4/2017).
+
+Tại thời điểm thị trường ra mắt trong năm 2017, các bộ tháng hợp đồng thay nhau niêm yết sẽ tạo ra tổ hợp các tháng hợp đồng như sau:
+
+Việc có nhiều hợp đồng tương lai đáo hạn các tháng khác nhau trên cùng một chỉ số giao dịch đồng thời là nhằm đa dạng hóa thời gian nắm giữ phù hợp với từng nhu cầu đầu tư. Các hợp đồng kỳ hạn ngắn (tháng hiện tại, tháng kế tiếp) phù hợp với mục đích đầu cơ ngắn hạn và nhà đầu tư không bị đọng vốn quá lâu trong trường hợp phải giữ hợp đồng đến ngày đáo hạn. Các hợp đồng dài hạn hơn phù hợp với các giao dịch phòng vệ.
+
+Chuẩn bị giao dịch
+
+Để tham gia giao dịch trên thị trường phái sinh, đầu tiên nhà đầu tư phải mở một tài khoản mới để giao dịch riêng cho hợp đồng tương lai chỉ số. Nếu nhà đầu tư đã có sẵn tài khoản giao dịch chứng khoán thì chỉ cần mở thêm một tiểu tài khoản mới, nằm trong tài khoản sẵn có, cho giao dịch phái sinh. Nếu nhà đầu tư chưa có tài khoản giao dịch chứng khoán thì phải mở tài khoản mới.
+
+Đối với tài khoản giao dịch hợp đồng tương lai, nhà đầu tư có thể mở tại bất kỳ công ty chứng khoán nào đủ điều kiện cung cấp dịch vụ giao dịch chứng khoán phái sinh (thành viên giao dịch). Tuy nhiên hiện chỉ có một số công ty chứng khoán đủ điều kiện làm thành viên bù trừ nên các công ty chứng khoán không phải thành viên bù trừ (mà khách hàng mở tài khoản giao dịch) sẽ phải mở cho khách hàng một tài khoản ký quỹ tại công ty chứng khoán là thành viên bù trừ.
+
+Theo thông tin mới nhất, hiện có 8 công ty chứng khoán vừa là thành viên giao dịch, vừa là thành viên bù trừ, bao gồm: SSI, HSC, VnDirect, MBS, VCBS, BSC, VCSC, VPBS.
+
+Nhà đầu tư có thể yên tâm rằng lệnh giao dịch của mình tại công ty chứng khoán không phải thành viên bù trừ vẫn được thực hiện chuyển vào hệ thống giao dịch của sàn giao dịch chứng khoán phái sinh một cách bình thường với tốc độ nhanh nhất nhờ kết nối từ công ty chứng khoán là thành viên giao dịch với hệ thống giao dịch của Sở.
+
+Ngay sau khi khớp lệnh trên hệ thống giao dịch của sở, kết quả được chuyển ngay sang hệ thống bù trừ của VSD (theo thời gian thực - realtime) không cần chờ tới cuối ngày giao dịch mới kết chuyển sang VSD như thị trường cổ phiếu, và không cần thông qua thành viên bù trừ.
+
+Vì vậy khi giao dịch, đường đi của lệnh ở các công ty chứng khoán sẽ không có sự phân biệt là thành viên bù trừ hay không. Tuy nhiên việc quản lý tài khoản ký quỹ, thực hiện thanh toán bù trừ vẫn phải do công ty chứng khoán là thành viên bù trừ thực hiện.
+
+
+
+Đối với trường hợp nhà đầu tư là khách hàng tại một công ty chứng khoán không phải là thành viên giao dịch (hiện tại có 27 công ty chứng khoán đủ điều kiện là thành viên giao dịch trên thị trường phái sinh theo quy định về vốn tối thiểu tại Nghị định 42) thì chỉ có thể giao dịch thông qua tài khoản tổng mà công ty đó mở tại công ty chứng khoán là thành viên giao dịch và ủy thác giao dịch. Điều này cũng tương tự đối với các quỹ đầu tư và công ty chứng khoán thành lập ở nước ngoài.

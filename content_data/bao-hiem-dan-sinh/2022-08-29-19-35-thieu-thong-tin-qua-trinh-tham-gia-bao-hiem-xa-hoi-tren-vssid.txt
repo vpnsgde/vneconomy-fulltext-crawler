@@ -1,0 +1,15 @@
+Theo Bảo hiểm xã hội Việt Nam, hiện nay, ứng dụng VssID đang cung cấp các thông tin đóng, hưởng chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; thực hiện các dịch vụ công trực tuyến. Người tham gia bảo hiểm y tế có thể sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để khám bệnh, chữa bệnh tại các cơ sở khám chữa bệnh bảo hiểm y tế trên toàn quốc.
+
+Tuy nhiên, hiện nay, việc đồng bộ dữ liệu quá trình tham gia đóng bảo hiểm xã hội, bảo hiểm thất nghiệp của người tham gia còn thiếu do quá tải về dữ liệu, nên một số người dùng khi tra cứu quá trình đóng bảo hiểm xã hội trên VssID và website https://baohiemxahoi.gov.vn thì chỉ hiển thị thông tin quá trình đóng bảo hiểm xã hội ở đơn vị đóng gần nhất, thông tin đóng bảo hiểm xã hội trước đó không tra cứu được.
+
+Bảo hiểm xã hội Việt Nam đang khẩn trương khắc phục kỹ thuật nội dung này để trên ứng dụng VssID hiển thị đầy đủ thời gian tham gia đóng bảo hiểm xã hội của từng người lao động.
+
+Bảo hiểm xã hội Việt Nam yêu cầu Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương chỉ đạo cán bộ thu, giải quyết chế độ bảo hiểm xã hội, giám định bảo hiểm y tế... thực hiện rà soát trên các phần mềm được giao theo dõi, quản lý.
+
+Từ đó nhằm đảm bảo việc quản lý thông tin người tham gia, giải quyết chế độ bảo hiểm xã hội, thanh toán chi phí khám chữa bệnh bảo hiểm y tế được thực hiện theo đúng quy trình, tránh việc thiếu quá trình tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, thiếu thông tin thụ hưởng chế độ bảo hiểm xã hội, lịch sử khám chữa bệnh bảo hiểm y tế hoặc thông tin chưa chính xác.
+
+Đối với các trường hợp đã xác minh thông tin người dân phản ánh là chính xác, nhưng Bảo hiểm xã hội tỉnh không thể điều chỉnh trên hệ thống phần mềm nghiệp vụ, đề nghị liên hệ về Bảo hiểm xã hội Việt Nam (qua Trung tâm Công nghệ thông tin) để được phối hợp, giải quyết.
+
+Bảo hiểm xã hội Việt Nam khẳng định, toàn bộ quá trình tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp của người dân, người lao động đã được số hóa, đồng bộ, lưu tại Cơ sở dữ liệu của Ngành. Do đó, người dân, người lao động không cần lo lắng về việc hiển thị thiếu quá trình tham gia trên ứng dụng VssID.
+
+Điều này không ảnh hưởng đến việc thụ hưởng, giải quyết chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp của người tham gia. Bên cạnh đó, quá trình cập nhật dữ liệu đang được Bảo hiểm xã hội Việt Nam đẩy mạnh nên việc hiển thị thiếu quá trình tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp sẽ sớm được khắc phục.

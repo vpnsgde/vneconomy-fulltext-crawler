@@ -1,0 +1,27 @@
+Tổ chức Lương thực và Nông nghiệp Liên Hợp Quốc (FAO) định nghĩa truy xuất nguồn gốc thực phẩm là khả năng theo dõi thực phẩm qua các giai đoạn: sản xuất, chế biến và phân phối, nhằm đảm bảo chất lượng thực phẩm được cung cấp cho người tiêu dùng.
+
+Nếu xảy ra bất kỳ vấn đề gì trong quá trình tiêu thụ thực phẩm của người tiêu dùng, phải có cơ chế xác định và truy tìm lại chuỗi cung ứng để tìm ra thực phẩm không đáp ứng các tiêu chuẩn, quy định về an toàn thực phẩm để thu hồi sản phẩm nhanh chóng. Công nghệ chuỗi khối - một công nghệ đổi mới phi tập trung là giải pháp hiệu quả để hỗ trợ quá trình này.
+
+Blockchain là một sổ cái kỹ thuật số phân tán được liên kết thành các khối, lưu trữ thông tin theo chuỗi an toàn, chống giả mạo. Đối với các công ty trong ngành, khả năng truy xuất nguồn gốc sẽ cải thiện hình ảnh thương hiệu doanh nghiệp, giúp họ tuân thủ các quy định của ngành đồng thời quản lý hiệu quả hàng tồn kho.
+
+Theo Tech Collective, năm 2020, 18,8% người dân Đông Nam Á phải chịu tình trạng mất an ninh lương thực ở mức độ vừa hoặc nghiêm trọng. Vì vậy, ứng dụng Blockchain trước hết cho phép ngành thực phẩm đảm bảo an ninh lương thực cho người dân. Theo dõi thực phẩm thông qua Blockchain có thể giúp lưu giữ sổ cái các hồ sơ về nguyên liệu thô được sử dụng để sản xuất thực phẩm, chất lượng hạt giống và phân bón được sử dụng...
+
+Nhờ đó, nếu người dân gặp bất kỳ vấn đề nào về sức khỏe liên quan đến thực phẩm, các chuyên gia có thể xác định thực phẩm bị ô nhiễm đến từ đâu và ngay lập tức loại bỏ nó khỏi thị trường. Biến đổi khí hậu và các kiểu thời tiết khắc nghiệt cũng đang diễn ra phức tạp và việc sử dụng công nghệ có thể cho thấy chất lượng của các sản phẩm thực phẩm bị ảnh hưởng ở đâu.
+
+Một trong những lợi ích nổi bật của sổ cái Blockchain là khả năng chống giả mạo vì vậy dữ liệu thực phẩm rất chính xác. Mọi bên liên quan trong chuỗi cung ứng đều có thể yêu cầu xem dữ liệu đã được xác minh có chứa thông tin chi tiết về sản phẩm thực phẩm như số lượng nhận được, chứng nhận hữu cơ, cộng đồng nông nghiệp, chứng nhận tiêu chuẩn an toàn. Khi một bản ghi đã được nhập thì không thể thay đổi được.
+
+Ngày càng có nhiều công ty thực phẩm đang sử dụng Blockchain để cải thiện khả năng truy xuất nguồn gốc sản phẩm của họ, giảm gian lận, tăng cường an toàn thực phẩm từ đó tạo dựng niềm tin với khách hàng.
+
+Nhà bán lẻ lớn nhất châu Âu Carrefour đang sử dụng hệ thống truy xuất nguồn gốc thực phẩm bằng Blockchain để đáp ứng nhu cầu của người tiêu dùng về tính minh bạch về nguồn gốc của các sản phẩm hữu cơ và phương pháp sản xuất của họ. Khách hàng của Carrefour có quyền truy cập thông tin về sản phẩm bao gồm nơi sản xuất, lô hàng của chúng. Họ sẽ dần dần mở rộng ứng dụng Blockchain cho tất cả các sản phẩm mang thương hiệu Carrefour Bio của họ.
+
+Walmart cũng đã sử dụng Blockchain để số hóa chuỗi cung ứng thực phẩm của họ và giảm thời gian theo dõi nguồn ô nhiễm thực phẩm. Công ty yêu cầu tất cả các nhà cung cấp thương mại các loại rau lá xanh phải tuân thủ đầu vào bản ghi dữ liệu vào nền tảng dựa trên Blockchain có thể truy nguyên sản phẩm của họ.
+
+Khách hàng của Nestlé cũng dễ dàng truy cập vào dữ liệu quan trọng của chuỗi cung ứng thực phẩm bao gồm lịch sử và vị trí hiện tại của bất kỳ mặt hàng bán lẻ nào. Ngoài ra, họ còn có thể tra cứu chứng nhận giao dịch, dữ liệu thử nghiệm, lô hàng cụ thể... của sản phẩm chỉ trong vài giây.
+
+Tại Đông Nam Á, CP Foods, công ty thực phẩm có trụ sở tại Thái Lan đang tích hợp công nghệ blockchain vào chuỗi sản phẩm của họ. Công ty này có hệ thống truy xuất nguồn gốc kỹ thuật số để giám sát các sản phẩm thịt lợn và thịt gà nhằm đảm bảo chất lượng và an toàn. Họ in mã QR trên bao bì để cung cấp cho khách hàng thông tin về nguồn gốc, tính bền vững và chứng nhận an toàn của thực phẩm.
+
+Khoảng 600 triệu người trên thế giới (gần 1 trong 10 người) bị bệnh sau khi ăn thực phẩm bị ô nhiễm và 420.000 người chết mỗi năm. Theo Tổ chức Y tế Thế giới, trẻ em dưới 5 tuổi có nguy cơ cao nhất với 125.000 trẻ tử vong mỗi năm vì bệnh do thực phẩm. Các quy trình thủ công, hồ sơ giấy và hệ thống cũ thường mất vài ngày đến vài tuần để xác định nguồn thực phẩm bị ô nhiễm.
+
+Hệ thống truy xuất nguồn gốc thực phẩm hiện nay thường dựa vào hệ thống lưu trữ hồ sơ thủ công và mạng lưới các nhà cung cấp phức tạp, khiến việc truy tìm các sản phẩm bị ô nhiễm và đảm bảo an toàn cho nguồn cung cấp thực phẩm trở nên khó khăn. Các hồ sơ lưu trữ dễ dàng bị thao túng hay gian lận bởi con người để phục vụ lợi ích riêng nhưng ảnh hưởng đến sức khoẻ chung.
+
+Theo báo cáo của McKinsey, dân số ở Đông Nam Á dự kiến sẽ tăng 12% vào năm 2035, đạt 750 triệu người, điều này có nghĩa nhu cầu thực phẩm trên bàn của mỗi hộ gia đình sẽ tăng theo cấp số nhân. Sử dụng công nghệ Blockchain để đảm bảo an toàn thực phẩm thực sự quan trọng để chống lại tình trạng mất an ninh lương thực đồng thời đảm bảo chất lượng thực phẩm được cung cấp trong khu vực.

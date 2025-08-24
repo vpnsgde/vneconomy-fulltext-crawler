@@ -1,0 +1,25 @@
+Từ ngày 9-11/5/2024 tại Hải Phòng, Hội Tự động hóa Việt Nam (VAA) chủ trì tổ chức Hội nghị khoa học và Triển lãm quốc tế về Điều khiển và Tự động hóa lần thứ 7, (VCCA 2024) với chủ đề “Tự động hoá và Chuyển đổi số thúc đẩy phát triển kinh tế xanh”.
+
+Hội nghị VCCA 2024 hướng tới tạo nên một diễn đàn khoa học với tầm cỡ quốc gia và quốc tế, có uy tín thuộc lĩnh vực Điều khiển và Tự động hóa. Đây cũng là dịp để các nhà khoa học Việt Nam và quốc tế có thể giới thiệu kết quả các công trình nghiên cứu của mình, là dịp giao lưu, trao đổi kinh nghiệm học thuật cho những người công tác trong ngành.
+
+Hội nghị sẽ tập trung vào các vấn đề đang được giới khoa học, doanh nghiệp và xã hội quan tâm như: Điều khiển học, tự động hóa và ứng dụng.
+
+Thông tin về hội nghị, ngày 6/5/2024, Ban tổ chức cho biết ngoài các chủ đề truyền thống, các diễn giả tập trung vào các chủ đề thu hút sự quan tâm như: điều khiển các loại máy điện, truyền động; Điều khiển điện tử công suất; Hệ thống năng lượng và năng lượng tái tạo; Mô hình hóa và điều khiển robot công nghiệp, robot di động; IoT, bigdata, AI; Mạng cảm biến và hệ thống đo lường, điều khiển thông minh.
+
+Theo PGS.TS. Thái Quang Vinh, Trưởng Ban chương trình hội nghị, tiêu chí Tự động hóa và Chuyển đổi số thúc đẩy phát triển kinh tế xanh thể hiện mong muốn của cộng đồng tự động hóa đóng góp vào nỗ lực của quốc gia trong quá trình chuyển dịch để hướng đến tăng trưởng xanh, phát triển kinh tế số, kinh tế tuần hoàn. Các nội dung các diễn giả đưa ra tại hội nghị lần này đề cập đến những hướng thời sự trong các lĩnh vực robot, dữ liệu lớn, trí tuệ nhân tạo và các vấn đề khác liên quan các đối tượng ứng dụng mới như UAV, ngôn ngữ, tín hiệu não.
+
+Đối với tự động hoá, các chuyên gia tập trung vấn đề cảm biến và cơ cấu chấp hành, I/O thông minh; Hệ thống tự động hóa tích hợp toàn diện; Các hệ SCADA/HMI, DCS, CAD/CAM/CIM/CNC; Hệ thống nhúng, công nghệ PLC, PXI, IPC; Mô hình hóa và mô phỏng quá trình sản xuất; Điều khiển quá trình  công nghệ; Tự động hóa phòng thí nghiệm; Hệ thống đo lường thông minh; Mạng đo và điều khiển; Phần mềm tự động hóa; Vi xử lý, SOC, DSP, FPGA, ASIC trong điều khiển; Điện tử công suất; IoT; Big Data; Sensor Networks.
+
+Hội nghị cũng đi sâu và các ứng dụng: Thành phố thông minh; Hệ thống điều khiển giao thông thông minh; Điều khiển quá trình trong nhà máy (giấy, xi măng, vật liệu,…); Tự động hóa trong công nghiệp tàu thuỷ; Tự động hóa trong nông nghiệp, lâm nghiệp và thuỷ sản; Tự động hóa trong nước cấp và nước thải; Tự động hóa cao ốc, nhà thông minh; Tự động hóa trong hầm mỏ, khai thác khoáng sản và luyện kim; Tự động hóa trong chế tạo máy; Tự động hóa trong ngành dệt may và da giầy;
+
+Tự động hóa trong lĩnh vực  năng lượng, điện năng và năng lượng tái tạo; Ứng dụng điều khiển trong lĩnh vực hàng không vũ trụ; Ứng dụng trong giáo dục và đào tạo; Ứng dụng trong y tế và chăm sóc sức khoẻ cộng đồng; Ứng dụng trong phòng chống thiên tai và xử lý ô nhiễm môi trường; Điều khiển giám sát cho hệ thống chống ngập thành phố…
+
+Ví dụ với chủ đề mô hình hóa và điều khiển robot, các diễn giả đi sâu phân tích về Điều khiển bám tối ưu bền vững phi tập trung cho tay máy robot với các ràng buộc đầu vào điều khiển bất đối xứng và nhiễu ngoài; Ứng dụng trường thế năng nhân tạo trong hoạch định quỹ đạo cho robot; Tổng hợp bộ điều khiển thích nghi bền vững trên cơ sở mạng nơron cho robot công nghiệp…
+
+Với chủ đề điều khiển xe tự hành và robot di động, các chuyên gia phân tích về thiết kế bộ điều khiển mặt trượt động điều khiển bám quỹ đạo cho robot tự hành kiểu bánh xe Mecanum; Ứng dụng mạng nơ ron trong điều khiển robot tự hành giống ô tô bám quỹ đạo chuyển động; Điều khiển trượt thích nghi cho xe tự hành bốn bánh chủ động có xét tới ảnh hưởng của nhiễu ngoài; Điều khiển cuốn chiếu dựa trên bộ quan sát nhiễu cho xe bốn bánh mecanum;
+
+Cùng với đó là tìm giải pháp nâng cao chất lượng bám quỹ đạo cho robot 4 bánh đa hướng trên cơ sở kết hợp logic mờ cho bộ điều khiển mặt trượt động; Xây dựng hệ thống lập kế hoạch chuyển động dựa trên thuật toán TEB cho robot tự hành di chuyển trong môi trường động; Xây dựng Hệ thống Điều hướng thông minh cho robot tự hành dạng Mecanum dựa trên nền tảng ROS…
+
+Trong khuôn khổ Hội nghị cũng diễn ra Diễn đàn doanh nghiệp với 5 phiên tập trung vào các chủ đề: Tự động hóa và Chuyển đổi số doanh nghiệp; Công nghiệp tàu thủy và hàng hải; Thành phố thông minh và công nghiệp thông minh; Khoa học công nghệ với Nữ trí thức; Khoa học công nghệ và đầu tư từ Liên bang Nga
+
+Diễn đàn là nơi để các doanh nghiệp, đơn vị giới thiệu cụ thể về các giải pháp công nghệ tiên tiến trong và ngoài nước, là nơi chia sẻ các kiến thức chuyên môn trong úng dụng công nghệ tự động hóa, đo lường điều khiển trong công nghiệp, nông nghiệp và dịch vụ.

@@ -1,0 +1,27 @@
+Ẩn số của nhịp điều chỉnh sẽ là các cổ phiếu trụ rơi đến độ nào.
+
+Thị trường ngày 11/9/2017:
+
+Thị trường rơi mạnh hôm nay là điều không khó để hình dung, vấn đề là bao giờ mà thôi.
+
+Trong nhóm cổ phiếu tín hiệu thì SAB về cơ bản khó dự đoán, ROS dễ dự đoán do được chặn dưới, vấn đề là tăng đến mức nào lại khó. MSN dễ xem nhất và không retest được đỉnh intraday và bắt đầu gãy trend intraday lúc 11h.
+
+Có thể thấy rất rõ là MSN phát tín hiệu trước, VN30 chạy theo sau và sự lệch pha với các cổ phiếu là rất lớn. Cuối cùng thì số đông cũng phải thắng, sức mạnh của các mã tạo nhiễu bị hạn chế đáng kể.
+
+Thị trường bị bán mạnh mặc dù cổ phiếu đa số không tăng những phiên trước. Tâm lý ngán ngẩm tạo nên một phiên giảm trên diện rộng. Đã không có các trụ khác luân phiên đỡ chỉ số như trước và đà giảm ở chỉ số rất mượt.
+
+Nói tóm lại là thị trường đã quay đầu giảm. Câu chuyện bây giờ là giảm như thế nào. Các trụ sẽ dẫn dắt nhịp giảm này cũng như đã dẫn dắt nhịp tăng. Vì thế nên chờ đợi một mức điều chỉnh đủ tương xứng. Trong trường hợp có trụ khác thay thế thì thị trường có thể cân bằng sớm hơn, còn không sẽ mất tương đối thời gian.
+
+Nhịp giảm này nếu không có thông tin sốc bất ngờ nào thì chỉ là diễn biến điều chỉnh bình thường. Lượng tiền bên ngoài sẽ phải ra quyết định trong nhịp điều chỉnh này vì nhịp tăng vừa qua đã bỏ lỡ.
+
+Vốn nội trừ ROS hôm nay đã tăng lên trên 3.000 tỷ là dấu hiệu tốt. Đương nhiên với việc cổ phiếu rớt giá rất nhiều và đa phần đóng cửa mức thấp nhất tức là người bán cầm trịch, nhưng tiền vào mua cũng có dấu hiệu dần tăng lên. Nếu người bán tiếp tục xả ra dữ dội và thanh khoản tiếp tục tăng, sẽ đến lúc sự chán nản được chuyển giao hết.
+
+Tuy nhiên, chỉ các giao dịch dài hạn mới có thể chịu đựng được các rủi ro ban đầu, các giao dịch dịch ngắn hạn khả năng cao sẽ vẫn thong thả. Tuần này còn có thêm biến số của ETF giao dịch, giá có thể biến động khác thường. Thị trường diễn biến nhanh hay chậm thì vẫn đến đích cuối là tìm được sự cân bằng sau nhịp tăng vừa rồi. Khi đó rủi ro sẽ giảm xuống đáng kể với các giao dịch ngắn hạn.
+
+Giao dịch:
+
+Bám chặt lấy các giao dịch Short lúc sức rướn của giá đạt ngưỡng tối đa. Lúc 9h41 VN30 đạt đỉnh đầu tiên, hợp đồng tháng 9 đạt đỉnh 779.6. Lúc 10h20 VN30 đạt đỉnh thứ hai cao hơn, hợp đồng tháng 9 không tạo được đỉnh cao tương ứng, thanh khoản rất thấp. Short 778.6-778.4, cover cuối giờ sáng 777-777.2.
+
+Buổi chiều, sau nhịp rơi đầu tiên, Vn30 phục hồi, hợp đồng tháng 9 phục hồi tương ứng. VN30 không đi xa mà chỉ lình xình tại chỗ, hợp đồng tháng 9 không qua được 775.9-776, Short 775-775.2, cover 773.5. Bỏ lỡ nhịp rơi cuối phiên.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

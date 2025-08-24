@@ -1,0 +1,79 @@
+Bảo hiểm xã hội Việt Nam vừa ban hành Quyết định số 49/QĐ-BHXH về dịch vụ công trực tuyến "Đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công" (Quyết định số 49).
+
+Theo đó, từ ngày 19/1/2023, người dân không cần trực tiếp đến cơ quan bảo hiểm xã hội hay các đại lý thu mà có thể đăng ký tham gia bảo hiểm xã hội tự nguyện tại bất cứ đâu và thời gian nào một cách nhanh chóng, tiện lợi bằng hình thức trực tuyến thông qua Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam hoặc Cổng Dịch vụ công quốc gia với quy trình được tự động hóa mức độ cao.
+
+Nhằm phổ biến, hướng dẫn, hỗ trợ người dân thực hiện đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công kịp thời, hiệu quả, đúng quy định, Trung tâm Công nghệ thông tin (Bảo hiểm xã hội Việt Nam) cũng đã phát hành Công văn số 116/CNTT-PM về việc triển khai dịch vụ công này.
+
+Công văn nêu rõ, thực hiện Quyết định số 3511 về việc ban hành quy trình đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công theo Quyết định số 422/QĐ-TTg của Thủ tướng Chính phủ phê duyệt Danh mục Dịch cụ công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022 và Quyết định số 49 nêu trên, Bảo hiểm xã hội Việt Nam đã thực hiện tích hợp, cung cấp dịch vụ công trực tuyến trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam, Cổng Dịch vụ công quốc gia và nâng cấp các phần mềm nghiệp vụ đáp ứng yêu cầu. Trong đó, đã bổ sung chức năng kê khai dịch vụ công Đăng ký tham gia bảo hiểm xã hội tự nguyện.
+
+Cụ thể về quy trình đăng ký tham gia đóng bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam và Cổng Dịch vụ công quốc gia gồm những bước sau:
+
+Thứ nhất, đối với đăng ký đóng bảo hiểm xã hội trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam
+
+Bước 1:Truy cập Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam tại địa chỉ: https://dichvucong.baohiemxahoi.gov.vn, chọn “Đăng nhập”
+
+Lựa chọn đối tượng đăng nhập là"Cá nhân",nhập các thông tin: Tài khoản (mã số bảo hiểm xã hội), mật khẩu, mã kiểm tra, sau đó chọn“Đăng nhập”
+
+Bước 2:Chọn chức năng "Đóng bảo hiểm xã hội điện tử"
+
+Bước 3. Chọn chức năng "Đăng ký tham gia đóng bảo hiểm xã hội tự nguyện"
+
+Màn hình hiển thị các thông tin như sau:
+
+Bước 4:Kê khai thông tin đăng ký tham gia đóng bảo hiểm xã hội tự nguyện
+
+- Các thông tin cá nhân lấy từ thông tin đăng ký giao dịch điện tử của cá nhân gồm: Mã số định danh cá nhân, họ tên, ngày sinh, giới tính, mã số bảo hiểm xã hội, số điện thoại, địa chỉ email.
+
+- Thông tin địa chỉ thường trú được xác thực từ Cơ sở dữ liệu quốc gia về dân cư gồm: số nhà, đường phố/thôn xóm; xã/phường; quận/huyện; tỉnh/thành phố.
+
+Chọn loại đối tượng tham gia bảo hiểm xã hội tự nguyện được nhà nước hỗ trợ mức đóng: Người thuộc hộ nghèo, người thuộc hộ cận nghèo, người thuộc đối tượng khác (không thuộc hộ nghèo hoặc cận nghèo).
+
+- Nhập số tiền đóng và lựa chọn phương thức đóng:
+
+- Chọn nơi nhận và hình thức nhận tờ bìa sổ bảo hiểm xã hội:
+
+- Chọn đơn vị, tổ chức dịch vụ thu bảo hiểm xã hội, bảo hiểm y tế vận động tư vấn (nếu có):
+
+Bước 5:Chọn “Xác nhận” để xác nhận thông tin kê khai
+
+Hệ thống sẽ kiểm tra thông tin đối tượng tham gia, tính toán số tiền phải đóng theo quy định và hiển thị màn hình như sau:
+
+Bước 6: Chọn “Thanh toán” để bắt đầu thực hiện thanh toán
+
+Lựa chọn ngân hàng thụ hưởng của cơ quan bảo hiểm xã hội (nơi nhận tiền thanh toán). Sau đó chọn "Thanh toán" để tiếp tục. Hệ thống sẽ điều hướng sang Nền tảng thanh toán (Payment Platform) như hình bên dưới:
+
+Chọn ngân hàng hoặc trung gian thanh toán (nơi người thực hiện đóng bảo hiểm xã hội tự nguyện có tài khoản) để thực hiện thanh toán.
+
+Ví dụ:Chọn ngân hàng để thanh toán là Vietcombank. Sau khi chọn xong, nhấn "Thanh toán" để tiếp tục.
+
+Nhập các thông tin đăng nhập (tên đăng nhập, mật khẩu, mã kiểm tra) theo yêu cầu của Ngân hàng Vietcombank để đăng nhập và tiếp tục thanh toán.
+
+Thực hiện đánh dấu vào mục:"Tôi đã đọc, hiểu rõ và chấp thuận các Quy định thanh toán điện tử của Vietcombank, chi tiết tại đây".Sau đó chọn "Xác nhận" để tiếp tục
+
+Nhập mã xác thực OTP (Mã đã được ngân hàng tự động gửi đến số điện thoại của chủ tài khoản). Nhấn "Xác nhận" để thực hiện thanh toán.
+
+- Khi thực hiện Thanh toán thành công, người tham gia chọn "In biên lai" để xem biên lai thanh toán.
+
+Thứ hai, đối với đăng ký đóngbảo hiểm xã hộitự nguyện trên Cổng Dịch vụ công Quốc gia
+
+Bước 1:Đăng nhập Cổng Dịch vụ công quốc gia
+
+- Truy cập Cổng Dịch vụ công quốc gia tại địa chỉ: https://dichvucong.gov.vn, chọn Đăng nhập:
+
+Chọn loại tài khoản (ví dụ: Chọn tài khoản cấp bởi Cổng Dịch vụ công quốc gia), nhập Tên đăng nhập, Mật khẩu, Mã xác thực rồi chọnĐăng nhập:
+
+Nhập mã OTP được gửi qua số điện thoại đã đăng ký, rồi nhấn Xác nhận:
+
+Bước 2:ChọnDịch vụ công trực tuyến
+
+- Nhập từ khóa tìm kiếm (ví dụ: bảo hiểm xã hội tự nguyện), nhấnTìm kiếm:
+
+Bước 3. Chọn Dịch vụ công trực tuyến "Đăng ký, đăng ký lại, điều chỉnh đóng bảo hiểm xã hội tự nguyện; cấp sổ bảo hiểm xã hội":
+
+Bước 4. ChọnDanh sách dịch vụ công:
+
+Bước 5. ChọnNộp trực tuyếntại Dịch vụ công "Đăng ký tham gia đóng bảo hiểm xã hội tự nguyện - Dành cho cá nhân" để hệ thống điều hướng sang Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam:
+
+Bước 6. Để tiếp tục thực hiện đăng ký tham gia bảo hiểm xã hội tự nguyện, người tham gia thực hiện tiếp từ Bước 3 của quy trình đăng ký đóng bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam.
+
+Khi thực hiện "Đăng ký tham gia bảo hiểm xã hội tự nguyện trên Cổng Dịch vụ công", người tham gia sẽ tiết kiệm được nhiều thời gian giao dịch với các khâu kê khai hồ sơ đăng ký tham gia đơn giản, tiện lợi, nhanh chóng và có thêm sự lựa chọn được cấp sổ bảo hiểm xã hội (bản giấy) hoặc sổ bảo hiểm xã hội (bản điện tử).

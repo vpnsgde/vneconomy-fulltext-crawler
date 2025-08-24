@@ -1,0 +1,32 @@
+Thứ trưởng Bộ Khoa học và Công nghệ Lê Xuân Định vừa ký ban hành Thông tư số 02/2024/TT-BKHCN quy định về quản lý truy xuất nguồn gốc sản phẩm, hàng hóa. Thông tư có hiệu lực từ ngày 1/6/2024.
+
+Thông tư quy định về quản lý truy xuất nguồn gốc sản phẩm, hàng hóa gồm: quản lý nhà nước đối với hoạt động truy xuất nguồn gốc sản phẩm, hàng hóa; quy định hệ thống truy xuất nguồn gốc sản phẩm, hàng hóa bảo đảm kết nối, chia sẻ dữ liệu; quản lý sử dụng mã truy vết sản phẩm, mã truy vết địa điểm, vật mang dữ liệu; trách nhiệm của tổ chức, cá nhân thực hiện truy xuất nguồn gốc sản phẩm, hàng hóa; trách nhiệm của tổ chức, cá nhân cung cấp dịch vụ, giải pháp truy xuất nguồn gốc sản phẩm, hàng hóa và tổ chức triển khai, thực hiện truy xuất nguồn gốc đối với sản phẩm, hàng hóa.
+
+Đối tượng áp dụng với các tổ chức, cá nhân sản xuất, kinh doanh, dịch vụ thực hiện truy xuất nguồn gốc sản phẩm hàng hóa; các tổ chức, cá nhân cung cấp dịch vụ, giải pháp liên quan đến truy xuất nguồn gốc sản phẩm hàng hóa…
+
+Theo đó, tổ chức, cá nhân thực hiện truy xuất nguồn gốc sản phẩm, hàng hóa sử dụng mã truy vết sản phẩm, mã truy vết địa điểm bảo đảm phù hợp với Tiêu chuẩn quốc gia TCVN 13274:2020 (Truy xuất nguồn gốc- Hướng dẫn định dạng các mã dùng trong truy vết) do Bộ Khoa học và Công nghệ công bố trước khi đưa vào sử dụng.
+
+Tổ chức, cá nhân thực hiện truy xuất nguồn gốc sản phẩm, hàng hóa sử dụng vật mang dữ liệu bảo đảm phù hợp theo Tiêu chuẩn quốc gia TCVN 13275:2020 (Truy xuất nguồn gốc- Định dạng vật mang dữ liệu) do Bộ Khoa học và Công nghệ công bố. Vật mang dữ liệu được dán, in, đính, đúc, chạm, khắc trực tiếp trên sản phẩm, hàng hóa, bao bì thương phẩm của hàng hóa hoặc trên chất liệu khác được gắn trên hàng hóa, bao bì thương phẩm của hàng hóa, bảo đảm thiết bị có thể đọc được.
+
+Cũng theo thông tư này, hệ thống truy xuất nguồn gốc sản phẩm, hàng hóa bảo đảm 4 nguyên tắc.
+
+Thứ nhất, nguyên tắc “Một bước trước- một bước sau”: bảo đảm khả năng giám sát, nhận diện được công đoạn sản xuất, kinh doanh trước và công đoạn sản xuất, kinh doanh tiếp theo trong quá trình sản xuất, kinh doanh đối với một sản phẩm, hàng hóa;
+
+Thứ hai, nguyên tắc “Sẵn có của phần từ dữ liệu chính”: các phần tử dữ liệu chính phải được thu thập, lưu trữ và cập nhật kịp thời trong các báo cáo thông tin chi tiết về các sự kiện quan trọng trong quá trình sản xuất và chuỗi cung ứng;
+
+Thứ ba, nguyên tắc “Minh bạch”: hệ thống truy xuất nguồn gốc phải đạt yêu cầu về tính minh bạch tối thiểu bằng cách sử dụng dữ liệu tĩnh về khách hàng, bên cung ứng, sản phẩm và các điều kiện sản xuất;
+
+Thứ tư, nguyên tắc “Sự tham gia đầy đủ các bên truy xuất nguồn gốc”: hệ thống truy xuất nguồn gốc phải có sự tham gia của đầy đủ các bên truy xuất nguồn gốc của tổ chức.
+
+Hệ thống truy xuất nguồn gốc sản phẩm, hàng hóa của tổ chức, cá nhân bảo đảm đầy đủ quá trình truy xuất nguồn gốc theo các quy định trong tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc tế, tiêu chuẩn khu vực tương ứng với chủng loại sản phẩm, hàng hóa và được công bố phù hợp tiêu chuẩn, quy chuẩn kỹ thuật tương ứng. Căn cứ để công bố phù hợp dựa trên kết quả tự đánh giá của tổ chức, cá nhân hoặc kết quả chứng nhận của tổ chức chứng nhận được chỉ định theo quy định của pháp luật.
+
+Dữ liệu truy xuất nguồn gốc của từng sản phẩm, hàng hóa trong hệ thống truy xuất nguồn gốc sản phẩm, hàng hóa bao gồm tối thiểu các thông tin: Tên sản phẩm, hàng hóa; hình ảnh sản phẩm, hàng hóa; tên đơn vị sản xuất, kinh doanh; địa chỉ đơn vị sản xuất, kinh doanh.
+
+Cùng với đó là các công đoạn trong sản xuất, kinh doanh (bao gồm tối thiểu thông tin: mã truy vết sản phẩm, mã truy vết địa điểm và thời gian sự kiện truy xuất nguồn gốc của từng công đoạn); thời gian sản xuất, kinh doanh (thời gian các sự kiện truy xuất nguồn gốc diễn ra); mã truy xuất nguồn gốc sản phẩm, hàng hóa; thương hiệu, nhãn hiệu, mã ký hiệu, số sê-ri sản phẩm (nếu có); thời hạn sử dụng của sản phẩm, hàng hóa (nếu có); các tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc tế, tiêu chuẩn khu vực, tiêu chuẩn cơ sở được áp dụng.
+
+Hệ thống truy xuất nguồn gốc sản phẩm, hàng hóa để kết nối với Cổng thông tin truy xuất nguồn gốc sản phẩm, hàng hóa quốc gia phải bao gồm tối thiểu các thông tin trên.
+
+Dữ liệu truy xuất nguồn gốc sản phẩm, hàng hóa để phục vụ người tiêu dùng tra cứu trên Cổng thông tin truy xuất nguồn gốc sản phẩm, hàng hóa quốc gia, bao gồm tối thiểu các thông tin: Tên sản phẩm, hàng hóa; hình ảnh sản phẩm, hàng hóa; tên đơn vị sản xuất, kinh doanh; địa chỉ đơn vị sản xuất, kinh doanh; thời gian sản xuất, kinh doanh (thời gian các sự kiện truy xuất nguồn gốc diễn ra); thương hiệu, nhãn hiệu, mã ký hiệu, số sê-ri sản phẩm (nếu có); thời hạn sử dụng của sản phẩm, hàng hóa (nếu có).
+
+Sản phẩm trong từng sự kiện sau mỗi công đoạn được định danh mã truy xuất nguồn gốc để truy xuất nguồn gốc. Mã truy xuất nguồn gốc được mã hóa trong vật mang dữ liệu.
+

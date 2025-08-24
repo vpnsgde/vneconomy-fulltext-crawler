@@ -1,0 +1,15 @@
+Theo Công an TP.HCM, hiện nay nhiều người dùng Facebook tại Việt Nam đang thích thú và sử dụng ứng dụng tạo ảnh hoạt hình để tạo ra những bức ảnh khác biệt cho riêng mình. Tuy nhiên, việc này tiềm ẩn nhiều nguy cơ tiếp tay cho tội phạm lừa đảo.
+
+Công an TP.HCM cho biết, việc dùng các ứng dụng tạo ảnh hoạt hình sẽ lộ, lọt thông tin cá nhân kèm theo hình ảnh (thiết bị, thời gian, vị trí chụp ảnh). Khi người dùng tải các ứng dụng và cấp quyền truy cập thiết bị qua ứng dụng, nguy cơ thông tin cá nhân sẽ bị những người có mục đích xấu thu thập.
+
+Với các thông tin thu thập được từ người dùng, các tổ chức lừa đảo sử dụng tạo video giả mạo thông qua công nghệ Deepfake (một kỹ thuật kết hợp giữa các thuật toán học sâu và học máy với mục đích tạo ra những video, hình ảnh hoặc âm thanh giả mạo một cách rất chân thực), thực hiện cuộc gọi video call lừa đảo người thân của nạn nhân.
+
+Ngoài ra, các hình ảnh thu thập được qua các ứng dụng này, các đối tượng sẽ đánh cắp tài khoản cá nhân của người dùng. Từ đó, các đối tượng sẽ thực hiện hành vi lừa đảo.
+
+Do đó, Công an TP.HCM khuyến cáo người dùng chọn lọc và sử dụng các phương thức, ứng dụng được cơ quan có thẩm quyền đánh giá là uy tín, có nguồn gốc rõ ràng. Ngoài ra, cần đọc kỹ các điều khoản, yêu cầu trước khi cài đặt và sử dụng ứng dụng.
+
+Đồng thời, trước khi cài đặt bất cứ ứng dụng nào trên thiết bị điện tử, người dùng cần xem xét những quyền mà ứng dụng yêu cầu được truy cập; hạn chế chia sẻ hình ảnh, thông tin, dữ liệu cá nhân trên các nền tảng mạng xã hội; tuyệt đối không cung cấp những ảnh nhạy cảm, riêng tư cho ứng dụng đang lan truyền trên Facebook và các nền tảng khác.
+
+Liên quan đến vấn đề này, Tạp chí Kinh tế Việt Nam - VnEconomy đã từng phản ánhnguy cơ lộ thông tin cá nhân từ những ứng dụng tạo ảnh AI
+
+Thời gian qua, trào lưu chỉnh sửa ảnh anime (sửa như nhân vật phim hoạt hình) đang trở thành xu hướng, “hot trend” tại Việt Nam. Trên các mạng xã hội như Facebook, Tiktok, Instagram đều ngập tràn những hình ảnh anime theo phong cách truyện tranh, hoạt hình Nhật Bản. Tuy vậy, các chuyên gia an toàn thông tin cũng khuyến cáo người dùng nên thận trọng bởi việc cài đặt ứng dụng không rõ nguồn gốc sẽ tiềm ẩn nhiều nguy cơ gây lộ lọt dữ liệu cá nhân, thậm chí có thể trở thành công cụ cho kẻ xấu lợi dụng để lừa đảo.

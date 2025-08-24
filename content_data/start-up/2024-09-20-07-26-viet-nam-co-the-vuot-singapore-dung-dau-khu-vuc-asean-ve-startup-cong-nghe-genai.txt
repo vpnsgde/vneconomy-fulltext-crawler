@@ -1,0 +1,21 @@
+Ngày 19/9, lần đầu tiên tại Hà Nội, Quỹ Đầu tư GenAI Fund hợp tác với Amazon Web Serviecs (AWS), Databricks và Trung tâm Đổi mới Quốc gia Việt Nam (NIC) tổ chức công bố báo cáo "Khởi nghiệp GenAI ASEAN".
+
+Tại đây, ông Denning Tan, Giám đốc Quỹ Đầu tư GenAI Fund, cho biết báo cáo "Khởi nghiệp GenAI ASEAN 2024" được khảo sát tại 6 quốc gia (Singapore, Việt Nam, Thái Lan, Indonesia, Malaysia và Philippines) với mục tiêu đưa ra những nhận định về các xu hướng mới nổi, cơ hội và thách thức, cũng như các dự đoán trong thời gian tới cho các công ty khởi nghiệp và doanh nghiệp.
+
+Với các phân tích dựa trên dữ liệu và thông tin chi tiết có thể thực hiện về cách các công nghệ GenAI đang biến đổi các ngành công nghiệp trên khắp ASEAN, ông Tan cho rằng Việt Nam đang định vị mình là một trung tâm đổi mới then chốt trong lĩnh vực này. Đặc biệt, với tốc độ tăng trưởng nhanh như hiện nay, đại diện GenAI Fund dự đoán Việt Nam có thể thu hẹp khoảng cách về tỷ lệ startup công nghệ GenAI với Singapore (tăng từ 27% hiện nay lên 35% trong 18 tháng tới) và thậm chí có thể vượt qua Singapore để trở thành quốc gia dẫn đầu khu vực về startup công nghệ AI.
+
+“Việt Nam đang có cơ hội vàng để trở thành người dẫn đầu GenAI toàn cầu chứ không chỉ trong khu vực”, ông Tan nhấn mạnh.
+
+Theo ông Đỗ Tiến Thịnh, Phó Giám đốc Trung tâm Đổi mới sáng tạo quốc gia (NIC), AI là một lĩnh vực công nghệ nền tảng của Cách mạng Công nghiệp lần thứ tư, góp phần quan trọng tạo bước phát triển đột phá về năng lực sản xuất, nâng cao năng lực cạnh tranh quốc gia, thúc đẩy phát triển kinh tế tăng trưởng bền vững. Trí tuệ nhân tạo, đặc biệt là AI tạo sinh (GenAI) đang tạo ra những đột phá chưa từng có, mở ra những khả năng vô hạn cho nhân loại. Đến nay, công nghệ AI đã được ứng dụng vào mọi lĩnh vực của cuộc sống, từ y tế, giáo dục, đến sản xuất, nông nghiệp.
+
+“Tại Việt Nam, Chính phủ nhận thức rõ tầm quan trọng của AI và đã ban hành nhiều chính sách nhằm thúc đẩy nghiên cứu, phát triển và ứng dụng AI,” ông Thịnh nói.
+
+Với vai trò là cơ quan tham mưu, Bộ Kế hoạch và Đầu tư đã trình Thủ tướng Chính phủ “Đề án Phát triển nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng tới năm 2050”.
+
+Một trong những nội dung quan trọng của đề án là đề xuất mục tiêu đến năm 2030, Việt Nam có ít nhất 5.000 nhân sự trình độ kỹ sư trở lên có chuyên môn sâu về trí tuệ nhân tạo (AI) phục vụ ngành công nghiệp bán dẫn. Trên cơ sở đó, Bộ Kế hoạch và Đầu tư đã giao NIC phối hợp với các đối tác, chuyên gia trong nước và quốc tế nghiên cứu, xây dựng Trung tâm Đào tạo, Nghiên cứu và Ứng dụng AI để phục vụ ươm tạo doanh nghiệp, hỗ trợ nghiên cứu, ứng dụng và đào tạo chuyên sâu với mục tiêu đến 2030 đào tạo được 7.000 chuyên gia AI theo tiêu chuẩn quốc tế và ươm tạo khoảng 500 công ty khởi nghiệp AI.
+
+“Đây là những bước đi hết sức chủ động nhằm hiện thực hóa mục tiêu Việt Nam sớm trở thành trung tâm đổi mới sáng tạo, phát triển các giải pháp và ứng dụng trí tuệ nhân tạo trong khu vực ASEAN và trên thế giới,” ông Thịnh cho hay.
+
+Cũng tại sự kiện đã diễn ra các phiên thảo luận giữa các startup Việt Nam với các chuyên gia hàng đầu như Antler Việt Nam, AI Hay, AWS, GenAI APJ tại Databricks và GenAI Fund về các thách thức, xu hướng và chiến lược cụ thể của thị trường, định hình hệ sinh thái GenAI ở ASEAN, đặc biệt là Việt Nam.
+
+Đặc biệt, người tham dự sẽ được chứng kiến các bản demo trực tiếp từ 3 công ty khởi nghiệp GenAI tiên phong tại Việt Nam. Cụ thể, Reforged Labs chia sẻ giải pháp GenAI cho các nhà tiếp thị game, Lex Engine với các công cụ hỗ trợ GenAI cho ngành luật và Laka.ai là công cụ lập kế hoạch du lịch hỗ trợ GenAI.

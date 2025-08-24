@@ -1,0 +1,39 @@
+Tại Phiên họp lần thứ 5 của Ủy ban quốc gia về chuyển đổi số và tổ công tác triển khai Đề án 06 của Chính phủ ngày 25/2, Thứ trưởng Bộ Thông tin và Truyền thông Nguyễn Huy Dũng cho biết có 5 nhiệm vụ trọng tâm về Kế hoạch của Uỷ ban quốc gia về chuyển đổi số năm 2023 và Năm Dữ liệu số quốc gia.
+
+Cụ thể, (1) phát triển dữ liệu mở, (2) phát triển cơ sở dữ liệu, (3) phát triển các nền tảng số sử dụng thống nhất trên toàn quốc hoặc trong phạm vi mỗi địa phương; (4) xây dựng Trung tâm dữ liệu quốc gia, phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử dựa trên cơ sở dữ liệu quốc gia về dân cư; (5) nâng cao năng lực quản trị dữ liệu, an toàn, bảo mật dữ liệu.
+
+Để có dữ liệu và để dữ liệu có thể liên thông, kết nối liền mạch, đồng thời khai thác dữ liệu được dễ dàng thì cần phải có các nền tảng số được sử dụng thống nhất, xuyên suốt trong phạm vi quốc gia và trong phạm vi mỗi địa phương.
+
+
+
+Vì thế, theo Thứ trưởng Nguyễn Huy Dũng, cơ bản mỗi bộ, tỉnh có khoảng 32 1 nhiệm vụ trong năm 2023. Trong đó, có 8 nội dung về dữ liệu số, 9 nội dung về chính phủ số, 5 nội dung về kinh tế số, 6 nội dung về xã hội số và 4 nội dung về an toàn, an ninh mạng, đồng thời, mỗi bộ, mỗi tỉnh được giao thêm 1 nội dung đặc thù.
+
+Ông Dũng cũng cho biết, nhiệm vụ năm 2023 là 100% bộ, ngành, địa phương ban hành kế hoạch về dữ liệu mở, bao gồm tối thiểu 3 nội dung: (1) Danh mục dữ liệu mở, (2) Kế hoạch công bố dữ liệu mở của cơ quan nhà nước thuộc phạm vi quản lý và (3) Mức độ tối thiểu cần đạt được trong từng giai đoạn của kế hoạch. Đồng thời, các bộ, ngành, địa phương năm 2023 tiếp tục cung cấp hoặc cung cấp lần đầu dữ liệu mở theo kế hoạch.
+
+Trong tháng 3, Bộ Thông tin và Truyền thông sẽ công bố Sổ tay hướng dẫn phát triển dữ liệu mở, khai giảng khóa tập huấn trực tuyến về dữ liệu mở. Tháng 4 sẽ là Tháng dữ liệu mở. Theo đó, trong tháng 4, đề nghị tất cả các bộ, ngành, địa phương ban hành kế hoạch về dữ liệu mở. Tốt nhất, trước tháng 8/2023, tất cả các bộ, ngành, địa phương cần hoàn thành cung cấp lần đầu dữ liệu mở theo kế hoạch. Các bộ, ngành, địa phương có thể tham khảo kết quả và cách làm dữ liệu mở của Đà Nẵng và TP.HCM.
+
+Lãnh đạo Bộ Thông tin và Truyền thông, cho biết tháng 5/2023 sẽ là tháng cơ sở dữ liệu chuyên ngành. Bộ sẽ tổ chức các khóa tập huấn trực tuyến về phát triển cơ sở dữ liệu chuyên ngành. Trong tháng 5, đề nghị tất cả các bộ ngành, địa phương ban hành danh mục cơ sở dữ liệu thuộc phạm vi quản lý và kế hoạch, lộ trình cụ thể để xây dựng, triển khai các cơ sở dữ liệu trong danh mục. Trên cơ sở đó, Bộ Thông tin và Truyền thông sẽ tổng hợp, công bố phiên bản 1.0 bản đồ dữ liệu Việt Nam.
+
+Cơ sở dữ liệu trong cơ quan nhà nước được phân thành 3 loại, gồm: (1) Cơ sở dữ liệu quốc gia; (2) Cơ sở dữ liệu của bộ, ngành, địa phương bao gồm: cơ sở dữ liệu dùng chung của bộ; cơ sở dữ liệu dùng chung của ngành; cơ sở dữ liệu dùng chung của địa phương; (3) Cơ sở dữ liệu khác trong nội bộ một hệ thống thông tin của cơ quan nhà nước.
+
+Nhiệm vụ năm 2023 là 100% bộ, ngành, địa phương ban hành danh mục cơ sở dữ liệu thuộc phạm vi quản lý và kế hoạch, lộ trình cụ thể để xây dựng, triển khai các cơ sở dữ liệu trong danh mục. Các bộ, ngành, địa phương có thể tham khảo kết quả và cách làm cơ sở dữ liệu của Bộ Công an, Bộ Tài chính, Bộ Kế hoạch và Đầu tư, Bộ Tư pháp, Bộ Giáo dục và Đào tạo, Bảo hiểm Xã hội, Đà Nẵng, TP.HCM.
+
+“Hiện nay, mỗi bộ, ngành, địa phương có rất nhiều dữ liệu, nhưng lại không có dữ liệu, vì dữ liệu này nằm rải rác ở các phần mềm, phần cứng, hệ thống thông tin khác nhau, khi cần không kịp thời có ngay để sử dụng”, Thứ trưởng Nguyễn Huy Dũng nói, đồng thời cho biết nhiệm vụ năm 2023 là trên 50% bộ, ngành, địa phương ban hành kế hoạch triển khai nền tảng phân tích, xử lý dữ liệu tổng hợp cấp bộ, cấp tỉnh, có ứng dụng trí tuệ nhân tạo để tối ưu hóa hoạt động.
+
+
+
+Ông Dũng cho biết trong tháng 4/2023, Bộ Thông tin và Truyền thông sẽ ban hành văn bản hướng dẫn về mô hình kiến trúc, yêu cầu chức năng, tính năng kỹ thuật và bảo đảm an toàn, an ninh mạng đối với Nền tảng phân tích, xử lý dữ liệu tổng hợp cấp bộ, cấp tỉnh. Tháng 6 là tháng phân tích, xử lý dữ liệu. Trong tháng 6, đề nghị tất cả các bộ ngành, địa phương công bố kế hoạch triển khai nền tảng phân tích, xử lý dữ liệu tổng hợp cấp bộ, cấp tỉnh, trên cơ sở đó, hành động quyết liệt để thực hiện.
+
+Cũng theo vị Thứ trưởng Bộ Thông tin và Truyền thông, trong năm 2023 là 100% bộ, ngành, địa phương, doanh nghiệp nhà nước ban hành kế hoạch hành động nâng cao năng lực phát triển và quản trị dữ liệu thuộc phạm vi quản lý.
+
+Và trong quý 1/2023, Bộ Thông tin và Truyền thông sẽ ban hành văn bản hướng dẫn khung kế hoạch hành động nâng cao năng lực phát triển và quản trị dữ liệu. Tháng 7 sẽ là tháng quản trị dữ liệu. Trong tháng 7, đề nghị tất cả các bộ ngành, địa phương, tập đoàn, tổng công ty nhà nước công bố kế hoạch hành động nâng cao năng lực quản trị dữ liệu.
+
+
+
+Năm 2023 là năm trọn vẹn đầu tiên thực thi Chiến lược quốc gia phát triển kinh tế số và xã hội số. Kinh tế số lấy phát triển doanh nghiệp số làm trung tâm, gồm doanh nghiệp công nghệ số, doanh nghiệp nền tảng số và doanh nghiệp số trong các ngành, lĩnh vực
+
+Nhiệm vụ năm 2023 là 100% bộ, ngành, địa phương, tập đoàn, tổng công ty nhà nước ban hành và tổ chức triển khai kế hoạch phát triển kinh tế số và xã hội số thuộc phạm vi quản lý; 100% bộ, ngành, địa phương ban hành và tổ chức triển khai kế hoạch hành động thúc đẩy chuyển đổi số, thanh toán không dùng tiền mặt trong các cơ sở giáo dục, y tế thuộc phạm vi quản lý; tỷ trọng kinh tế số trong GDP trên 16%; tỷ trọng thương mại điện tử trong tổng mức bán lẻ trên 8,5%.
+
+Xã hội số lấy phát triển công dân số làm trung tâm, gồm 8 thành phần cơ bản: (1) mỗi hộ gia đình một đường cáp quang băng rộng, (2) mỗi người dân trưởng thành có một điện thoại thông minh, (3) một tài khoản định danh điện tử, (4) một chữ ký số cá nhân, (5) một tài khoản thanh toán số, (6) một tài khoản dịch vụ công trực tuyến, (7) kỹ năng số cơ bản để sử dụng các dịch vụ số và (8) kỹ năng bảo đảm an toàn thông tin mạng cơ bản để tự bảo vệ mình trước các nguy cơ, rủi ro trên môi trường số.
+
+Nhiệm vụ năm 2023 là các bộ, ngành, địa phương thúc đẩy 8 thành phần cơ bản của xã hội số càng quyết liệt càng tốt, đẩy các chỉ số càng lên cao càng tốt, phù hợp với thực tiễn và đặc thù của địa phương mình.

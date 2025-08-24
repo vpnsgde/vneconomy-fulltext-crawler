@@ -1,0 +1,11 @@
+Theo đó, Anthony Chavez, Phó chủ tịch phụ trách dự án “Hộp cát quyền riêng tư” của Goôgle, cho biết thay vì ngừng sử dụng cookie của bên thứ ba, Google sẽ “đề xuất một phương pháp tiếp cận mới tăng quyền cho người dùng”.
+
+Cookie từ lâu đã là động lực thúc đẩy hệ sinh thái quảng cáo kỹ thuật số của Google phát triển và đóng góp đáng kể vào doanh thu khổng lồ của gã khổng lồ công nghệ mỗi năm.
+
+Kể từ năm 2019, Alphabet đã nghiên cứu sáng kiến ​​Hộp cát quyền riêng tư nhằm nâng cao quyền riêng tư trực tuyến cho người dùng đồng thời vẫn cung cấp dữ liệu cần thiết cho các bên thứ ba.
+
+Năm 2020, Google cho biết họ sẽ ngừng chạy cookie vào đầu năm 2022 sau khi tìm ra phương án giải quyết đảm bảo hài hoà quyền lợi của cả người dùng và nhà quảng cáo. Sau đó, năm 2022, công ty cho biết phản hồi cho thấy các nhà quảng cáo cần thêm thời gian để thích ứng giải pháp thay thế cookie vì vậy họ đã lùi kế hoạch sang 2024.
+
+Vào tháng 1 năm nay, Google vẫn tự tin về tiến độ của các đề xuất thay thế cookie, trong đó bao gồm "Học tập liên kết các nhóm", về cơ bản sẽ đưa mọi người vào các nhóm dựa trên các hành vi duyệt tương tự, nghĩa là chỉ có "ID nhóm" thay vì ID của người dùng cá nhân.
+
+Tuy nhiên, cũng trong đầu năm nay, Google thử nghiệm loại bỏ dần cookie đối với 1% người dùng Chrome, tức khoảng 30 triệu người. Kết quả là nhiều công ty công nghệ quảng cáo phàn nàn công nghệ mới không thể thay thế các tính năng của cookie và Google tiếp tục đẩy kế hoạch sang 2025. Và sau nhiều năm cam kết loại bỏ cookie, Google đã không làm vậy.

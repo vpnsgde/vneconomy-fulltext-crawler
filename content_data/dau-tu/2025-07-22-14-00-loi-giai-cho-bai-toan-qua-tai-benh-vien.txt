@@ -1,0 +1,39 @@
+Trong bối cảnh hệ thống y tế đối mặt với nhiều thách thức, đặc biệt là tình trạng quá tải ở các bệnh viện tuyến trung ương, trí tuệ nhân tạo (AI) đang nổi lên như một giải pháp tiềm năng.
+
+Chia sẻ tại phiên thảo luận bàn tròn với chủ đề “Giải quyết nhu cầu tương lai của các chuyên gia y tế trong một thế giới toàn cầu hóa với nhu cầu thay đổi” tạiDiễn đàn Y tế Việt Nam 2025diễn ra chiều ngày 21/7, các chuyên gia và doanh nghiệp trong ngành đều khẳng định AI không nhằm thay thế con người mà là một công cụ đắc lực để hỗ trợ bác sĩ tối ưu hóa quy trình thăm khám và chữa trị cho bệnh nhân. Và quan trọng hơn nữa là AI giúp định hình lại tương lai của ngành y tế, chuyển dịch từ điều trị bị động sang chăm sóc sức khỏe chủ động từ sớm và từ xa.
+
+Dẫn câu chuyện về IBM Watson từ khoảng chục năm về trước, ông David Nguyễn, Tổng Giám đốc N2N AI, Đại học New South Wales, Australia, cho biết dù IBM Watson được kỳ vọng sẽ thay thế các chuyên gia y tế song đến giờ giải pháp này đã không thành công như mong đợi.
+
+“Lý do là bởi dữ liệu đầu vào và kết quả đầu ra của nó vẫn cần đến sự thẩm định và đánh giá của các chuyên gia. Điều này cho thấy công nghệ phục vụ con người và không thể thay thế hoàn toàn vai trò của bác sĩ”, ông David nhấn mạnh.
+
+Bởi sức khỏe của một cá nhân không chỉ phụ thuộc vào bộ gene phức tạp mà còn chịu ảnh hưởng sâu sắc bởi các yếu tố như tinh thần, môi trường sống, chế độ ăn uống, căng thẳng, tình trạng bệnh… Tất cả những yếu tố này tạo ra một lượng dữ liệu khổng lồ mà một cá nhân hay một bác sĩ, dù tài giỏi đến mấy, cũng không thể xử lý toàn bộ để đưa ra giải pháp tối ưu.
+
+“AI, với khả năng phân tích dữ liệu lớn, sẽ giúp các bác sĩ tổng hợp, đúc kết và đưa ra những chẩn đoán, phác đồ điều trị chính xác hơn, hướng tới mục tiêu cá thể hóa trong điều trị”, ông David cho biết.
+
+Cũng tại bàn tròn thảo luận, các chuyên gia cho rằng trong những vấn đề nhức nhối nhất của y tế Việt Nam hiện nay là tình trạng quá tải tại các bệnh viện tuyến trên. Nguyên nhân một phần đến từ văn hóa của người dân, khi họ thường có mong muốn đến thẳng các bệnh viện tuyến trung ương và thực hiện nhiều xét nghiệm. Điều này tạo ra một tình trạng “quá tải giả”, khiến hệ thống y tế phải giải quyết những việc đáng ra không cần thiết.
+
+Để giải quyết vấn đề này, ông David đã đề xuất một số hướng đi chiến lược, tận dụng sức mạnh của công nghệ và AI nhằm giảm tải cho tuyến trên bằng cách nâng cao năng lực tuyến dưới bởi theo ông dù không đạt kỳ vọng như mong đợi nhưng AI đã chứng minh sự cần thiết trong việc hỗ trợ các bác sĩ và chuyên gia y tế trong công tác điều trị và chăm sóc sức khỏe người dân.
+
+“Thay vì chỉ nghĩ đến việc xây thêm bệnh viện, một cách tiếp cận thông minh hơn là giảm tải cho các bệnh viện tuyến trên và đưa dịch vụ y tế chất lượng cao về các địa phương với sự hỗ trợ của AI. AI có thể giúp một bác sĩ mới ra trường hoặc các bác sĩ ở tuyến cơ sở, những người chưa có nhiều kinh nghiệm, cung cấp dịch vụ y tế chất lượng tốt hơn cho bệnh nhân. Điều này không chỉ giúp giảm tải cho tuyến trên mà còn phân tán áp lực xuống tuyến dưới một cách hiệu quả”, ông nói.
+
+Hiện nay, các giải pháp như hội chẩn từ xa hay trao đổi chuyên môn từ xa, đặc biệt cho các vùng sâu vùng xa, về mặt công nghệ đã hoàn toàn sẵn sàng. Thêm vào đó, AI có thể được ứng dụng để sàng lọc bệnh nhân ngay tại nhà thông qua các xét nghiệm nhanh hoặc các công cụ chẩn đoán đơn giản. Những việc đơn giản như sàng lọc bước đầu có thể được AI thực hiện tốt, giúp giảm bớt số lượng bệnh nhân không cần thiết phải lên tuyến tỉnh hay trung ương.
+
+Một tầm nhìn dài hạn và bền vững hơn, theo ông Trần Huy Bảo Giang, Tổng Giám đốc Công ty Tư vấn FPT Digital, là sử dụng AI để “chữa phần gốc”, tức là giúp người dân khỏe mạnh hơn và ít có nhu cầu đến bệnh viện hơn. Đây là sự chuyển dịch từ điều trị sang chăm sóc sức khỏe chủ động. AI có thể đóng vai trò then chốt trong việc theo dõi sức khỏe cá nhân, cung cấp các biện pháp chăm sóc phòng ngừa, đưa ra lời nhắc nhở và giúp người dân chủ động bảo vệ sức khỏe của mình. Mục tiêu cuối cùng là ngăn ngừa bệnh tật, đặc biệt là các bệnh mãn tính như tiểu đường, đột quỵ, ung thư, vốn đang là đại dịch của thời đại.
+
+Mặc dù tiềm năng là rất lớn, song Việt Nam vẫn đang ở giai đoạn khởi đầu trong việc ứng dụng AI vào y tế. Do đó, thách thức lớn nhất hiện nay của Việt Nam là nền tảng công nghệ còn yếu, đặc biệt là trong việc triển khai bệnh án điện tử và liên thông dữ liệu giữa các cơ sở y tế. Việc sao chép hoàn toàn mô hình của các nước phát triển là không khả thi và tốn kém, bởi họ đã có nhiều năm xây dựng hạ tầng và chuẩn hóa dữ liệu.
+
+“Vì vậy, Việt Nam cần một cách tiếp cận thông minh, lựa chọn những ứng dụng AI phù hợp, mang lại giá trị lớn trong thời gian ngắn với mức đầu tư hợp lý và không đòi hỏi hạ tầng quá phức tạp”, ông Giang kiến nghị.
+
+Một tín hiệu tích cực là quyết tâm của Chính phủ trong việc số hóa thông tin y tế. Khi nền tảng về dữ liệu điện tử được chuẩn hóa và đồng bộ, việc ứng dụng công nghệ sẽ trở nên nhanh chóng và hiệu quả hơn rất nhiều. Bên cạnh đó, Việt Nam có lợi thế về một lực lượng dân số trẻ và đông đảo nhân lực có trình độ cao về công nghệ thông tin, đây là điều kiện thuận lợi để triển khai các giải pháp công nghệ.
+
+Song để thành công, quá trình này đòi hỏi sự hợp tác chặt chẽ giữa Chính phủ, các nhà khoa học, bệnh viện và doanh nghiệp. Đồng thời, cần có thời gian để thay đổi nhận thức của người dân, khuyến khích họ chủ động hơn trong việc chăm sóc sức khỏe và tin tưởng hơn vào hệ thống y tế cơ sở.
+
+“Con đường phía trước còn nhiều thách thức, nhưng với sự quyết tâm về chính sách, sự tiến bộ của công nghệ và sự vào cuộc của các doanh nghiệp, ngành y tế Việt Nam đang đứng trước cơ hội lớn để tạo ra một cuộc cách mạng, hướng tới một tương lai mà ở đó mọi người dân không chỉ sống lâu hơn mà còn sống khỏe mạnh hơn”, ông Giang bày tỏ.
+
+
+
+Diễn đàn Y tế Việt Nam (Vietnam Health Summit) 2025 với chủ đề “Dữ liệu lớn và Trí tuệ nhân tạo trong Chẩn đoán và Điều trị y khoa” diễn ra tại Hà Nội trong hai ngày 21 và 22 tháng 7 năm 2025.
+
+Đây là sự kiện khoa học quốc tế uy tín, do Tổ chức Khoa học và Chuyên gia Việt Nam toàn cầu (AVSE Global) và Bệnh viện Trung ương Quân đội 108 đồng tổ chức, với sự tài trợ của Quỹ Đổi mới sáng tạo Vingroup (VINIF - VINBIGDATA).
+
+Diễn đàn năm nay đánh dấu lần đầu tiên sự kiện được tổ chức với quy mô quốc tế, quy tụ hơn 30 diễn giả chuyên môn và khoảng 300 khách mời từ hơn 10 quốc gia trên thế giới. Các thành phần tham dự bao gồm các chuyên gia, y bác sĩ, nhà khoa học, nhà hoạch định chính sách, lãnh đạo doanh nghiệp và đại diện các tổ chức phi chính phủ trong và ngoài nước.

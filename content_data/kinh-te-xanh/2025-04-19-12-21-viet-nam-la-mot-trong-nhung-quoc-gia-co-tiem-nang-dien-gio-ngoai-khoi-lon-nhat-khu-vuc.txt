@@ -1,0 +1,51 @@
+Cục Khí tượng thủy văn (Bộ Nông nghiệp và Môi trường) phối hợp cùng Chương trình phát triển Liên hợp quốc tại Việt Nam (UNDP Việt Nam), Đại sứ quán Na Uy tại Việt Nam, ngày 18/4 đã công bố báo cáo đánh giá chi tiết tiềm năng kỹ thuật năng lượng gió ngoài khơi Việt Nam. Báo cáo cung cấp bức tranh toàn diện, cập nhật và có độ phân giải cao về tiềm năng tài nguyên gió biển của Việt Nam- một trong những quốc gia có tiềm năng điện gió ngoài khơi lớn nhất khu vực.
+
+Mục tiêu chính của báo cáo là xây dựng một bộ dữ liệu chuẩn hóa, đồng bộ về khí hậu gió biển Việt Nam trong 30 năm (1991–2020), phục vụ cho việc xác định tiềm năng kỹ thuật phát triển điện gió ngoài khơi tại các vùng biển ven bờ (tới 6 hải lý) và vùng đặc quyền kinh tế (EEZ) của Việt Nam.
+
+Thông tin kết quả nổi bật báo cáo, Trung tâm Dự báo khí tượng thủy văn quốc gia cho biết về mật độ năng lượng gió, so sánh với kết quả trong “Báo cáo đánh giá tiềm năng năng lượng bức xạ, gió và sóng tại Việt Nam” của Bộ Tài nguyên và Môi Trường công bố tháng 9/ 2022, kết quả nghiên cứu có sự tương đồng về phân bố không gian và thời gian tiềm năng năng lượng gió trên Biển Đông, tuy nhiên xấp xỉ đến cao hơn về giá trị.
+
+Cụ thể, mật độ năng lượng gió trung bình năm ở trung tâm Vịnh Bắc Bộ và vùng biển Ninh Thuận đến Bà Rịa-Vũng Tàu mô phỏng bởi WRF-3 km là 500-900 W/m2 và 400-600 W/m2 ở độ cao 100m, trong khi kết quả do Bộ Tài nguyên và Môi trường công bố là 500-700 W/m2 và 300-500 W/m2 tương ứng.
+
+Về tiềm năng kỹ thuật điện gió ngoài khơi (toàn vùng đặc quyền kinh tế– EEZ), báo cáo ước tính tổng công suất kỹ thuật có thể khai thác 1068 GW (tính ở độ cao 100m), trong đó công suất vùng biển phía Bắc khoảng 174 GW, phía Nam khoảng 894 GW.
+
+
+
+Về tiềm năng ven bờ (đến 6 hải lý), tổng công suất kỹ thuật là 57.8 GW, trong đó có một số tỉnh có tiềm năng ven bờ nổi bật là khu vực Bạc Liêu– Cà Mau chiếm gần 30% tổng tiềm năng ven bờ (trên 16 GW);
+
+Khu vực Ninh Thuận– Bình Thuận có tổng cộng trên 24 GW, tập trung tại vùng ven các huyện Ninh Phước, Tuy Phong; Quảng Trị– Thừa Thiên Huế có tiềm năng nhỏ hơn nhưng ổn định về tốc độ gió vào mùa đông;
+
+Riêng đồng bằng Bắc Bộ chỉ đạt 0.17 GW, chủ yếu do vùng nước cạn, quy hoạch hạn chế và giao cắt vùng bảo tồn.
+
+So với các nghiên cứu trước đây như “Offshore Wind Roadmap” của Ngân hàng Thế giới (2021) hay các đánh giá của Global Wind Atlas (GWA), báo cáo lần này cung cấp thông tin chi tiết, độ phân giải cao hơn cả về không gian (3x3km) lẫn thời gian (chuỗi 30 năm).
+
+Đáng chú ý, về tiềm năng kỹ thuật toàn vùng EEZ, báo cáo này ước tính tiềm năng kỹ thuật đạt 1068 GW, cao hơn nhiều so với con số 599 GW của WB, chủ yếu nhờ phạm vi khảo sát rộng hơn và mô hình khí hậu được hiệu chỉnh kỹ lưỡng với dữ liệu thực đo trong nước.
+
+Một đóng góp quan trọng của báo cáo là việc xây dựng Atlas năng lượng gió biển Việt Nam với 204 bản đồ chi tiết theo tháng, mùa và năm, ở các độ cao từ 10m đến 250m. Atlas thể hiện tốc độ gió, mật độ công suất, hệ số biến thiên gió ở từng ô lưới 3x3 km trên toàn vùng biển Việt Nam. Atlas cũng cho phép tích hợp vào các hệ thống GIS và hỗ trợ trực tiếp các quy hoạch điện gió quốc gia, địa phương và các dự án đầu tư cụ thể.
+
+Đây là công cụ không thể thiếu cho các nhà đầu tư và cơ quan quản lý trong việc lựa chọn vùng phát triển ưu tiên, thiết kế tuabin tối ưu và dự báo sản lượng điện. Các chuyên gia đánh giá đây là công cụ thiết thực để hỗ trợ quy hoạch không gian biển, phát triển ngành điện gió và thu hút đầu tư, đặc biệt trong bối cảnh Việt Nam vừa phê duyệt Quy hoạch không gian biển, Quy hoạch tổng thể ven biển và Quy hoạch điện VIII điều chỉnh.
+
+Ngoài ra, báo cáo cũng đánh giá các rủi ro khí tượng hải văn như bão, gió mạnh, sóng lớn và dòng chảy có thể ảnh hưởng đến tính ổn định và an toàn của các dự án điện gió ngoài khơi. Phân tích này giúp hình thành bản đồ vùng rủi ro, từ đó định hướng các khu vực nên và không nên phát triển.
+
+Về biến động theo mùa, báo cáo chỉ rõ, gió mùa Đông Bắc thổi mạnh từ tháng 11 đến tháng 3 năm sau, tạo điều kiện tối ưu cho khai thác điện gió ngoài khơi ở miền Bắc và miền Trung.
+
+Gió mùa Tây Nam xuất hiện từ tháng 5 đến tháng 9, ảnh hưởng chính đến khu vực biển phía Nam, đặc biệt là tại khu vực Tây Nam Bộ.
+
+Tháng 12 thường là tháng có mật độ gió cao nhất trong năm trên phạm vi toàn quốc, trong khi tháng 5 và 6 thường là thời kỳ có tốc độ gió thấp nhất, cần tính toán kỹ trong việc vận hành và bảo trì hệ thống.
+
+
+
+Về đánh giá ảnh hưởng của thiên tai khí tượng- hải văn, báo cáo tích hợp phân tích rủi ro thiên tai có thể ảnh hưởng đến phát triển điện gió ngoài khơi.
+
+Cụ thể, bão và áp thấp nhiệt đới tập trung nhiều nhất ở khu vực Bắc và Trung Trung Bộ, gây rủi ro đến kết cấu và an toàn tuabin, đặc biệt vào các tháng 8–10;
+
+Gió mạnh cực đoan và sóng cao thường xảy ra vào mùa Đông Bắc, có thể ảnh hưởng đến khả năng tiếp cận, bảo trì hệ thống điện gió. Với dòng chảy và triều cường cần đánh giá cụ thể tại từng vị trí lắp đặt để đảm bảo ổn định chân đế và thiết kế phù hợp.
+
+Báo cáo đưa ra các bản đồ phân vùng rủi ro thiên tai theo mùa và khuyến nghị các vùng nên và không nên ưu tiên phát triển dựa trên mức độ ảnh hưởng. Đây là điểm mới quan trọng của báo cáo, giúp đảm bảo tính khả thi, an toàn và hiệu quả kinh tế trong phát triển điện gió ngoài khơi ở Việt Nam.
+
+Có thể nói, đây là báo cáo chi tiết, cập nhật, toàn diện nhất về tiềm năng và điều kiện phát triển điện gió ngoài khơi Việt Nam tính đến thời điểm hiện tại.
+
+Báo cáo đánh giá Việt Nam có tiềm năng tài nguyên gió ngoài khơi vượt trội trong khu vực, là cơ sở để phát triển ngành công nghiệp điện gió biển quy mô lớn, góp phần đảm bảo an ninh năng lượng, phát triển kinh tế xanh và thực hiện cam kết Net Zero.
+
+Báo cáo này cũng sẽ là nền tảng khoa học quan trọng giúp hoạch định chính sách, lựa chọn vùng ưu tiên, thu hút đầu tư, phát triển hạ tầng và đào tạo nguồn nhân lực cho ngành điện gió ngoài khơi trong tương lai.
+
+Từ những tiềm năng lợi thế trên, báo cáo khuyến nghị tăng cường đầu tư trạm quan trắc gió biển có độ cao trên 100 m, phục vụ hiệu chỉnh mô hình và theo dõi dài hạn. Cùng với đó tích hợp kết quả nghiên cứu vào các quy hoạch điện gió ngoài khơi, quy hoạch không gian biển quốc gia; mở rộng nghiên cứu tiềm năng năng lượng biển khác như: sóng biển, thủy triều, chênh lệch nhiệt độ…

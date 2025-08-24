@@ -1,0 +1,25 @@
+Trước đó, vào năm 2020, Ủy ban Châu Âu đã chính thức mở cuộc điều tra chống độc quyền liên quan đến ứng dụng ví điện tử của hãng.
+
+Ủy ban đã quyết định chấp nhận các cam kết do Apple đưa ra. Những cam kết này giải quyết những lo ngại ban đầu của chúng tôi rằng Apple có thể hạn chế cạnh tranh bất hợp pháp ví điện tử trên iPhone, Giám đốc chống độc quyền của EU, Margrethe Vestager cho biết trong một cuộc họp báo.
+
+EU chính thức mở một cuộc điều tra liên quan đến Apple Pay vào năm 2020. Cuộc điều tra xem xét các điều khoản và điều kiện mà Apple đặt ra để tích hợp Apple Pay trong các ứng dụng và trang web cũng như những lo ngại xung quanh công nghệ tap-and-go.
+
+Tap-and-go là một công nghệ mới nổi trong lĩnh vực thanh toán không tiếp xúc. Công nghệ này cho phép người dùng thực hiện thanh toán bằng cách chỉ cần chạm thiết bị di động của mình vào thiết bị thanh toán mà không cần phải sử dụng thẻ ngân hàng hoặc tiền mặt.
+
+Năm 2022, các nhà quản lý EU cáo buộc Apple lạm dụng quyền lực để hạn chế các ví điện tử truy cập vào công nghệ đăng nhập của hãng nhằm đưa Apple Pay trở thành lựa chọn duy nhất cho người dùng iPhone.
+
+Vào tháng 1 năm nay, Apple đã chính thức đề xuất một số cam kết nhằm giải quyết các mối lo ngại. Cụ thể, Apple cam kết cho phép các nhà phát triển bên thứ ba truy cập vào công nghệ NFC (công nghệ xác minh người dùng khi đăng nhập) mà không tính phí, cung cấp quyền truy cập vào các tính năng chính của iPhone như Face ID cho các ví điện tử và cho phép người dùng đặt bất kỳ ví nào họ chọn làm tùy chọn mặc định, Giám đốc chống độc quyền của EU, Margrethe Vestager cho biết.
+
+Đầu năm nay, Ủy ban Châu Âu đã thử nghiệm các cam kết của Apple thông qua việc thu thập phản hồi. Sau khi đánh giá, Ủy ban kết luận rằng các cam kết của Apple đã giải quyết những lo ngại liên quan đến những hạn chế độc quyền. Những thay đổi hiện đã được thực hiện ràng buộc về mặt pháp lý đối với Apple.
+
+Giám đốc chống độc quyền của EU, Margrethe Vestager cho biết: “Các cam kết mang lại những thay đổi quan trọng trong cách Apple hoạt động ở châu Âu vì lợi ích của các đối thủ cạnh tranh và khách hàng. Kể từ bây giờ, Apple không còn có thể sử dụng quyền kiểm soát của mình đối với hệ sinh thái iPhone để loại các ví di động khác ra khỏi thị trường nữa”.
+
+“Các nhà phát triển ví cũng như người tiêu dùng sẽ được hưởng lợi từ những thay đổi này, mở ra sự đổi mới và lựa chọn, đồng thời giữ an toàn cho các khoản thanh toán”, bà nói thêm.
+
+Giám đốc chống độc quyền của EU, Margrethe Vestager cho biết nhà sản xuất iPhone có thời hạn đến ngày 25/7 để thực hiện các cam kết, sau đó tất cả các ví di động trên iPhone sẽ được hưởng các tiện ích giống Apple Pay – cho phép các nhà cung cấp ví bên thứ ba truy cập miễn phí tính năng NFC trên các thiết bị iOS. Các cam kết được thiết lập sẽ có hiệu lực trong 10 năm.
+
+Mới đây, Ủy ban Châu Âu lại tiếp tục gọi tên Apple liên quan đến vấn đề chống độc quyền. Theo đó, gã khổng lồ đã trở thành công ty công nghệ lớn đầu tiên của Mỹ bị cáo buộc vị phạm quy tắc công nghệ chống độc quyền mới nhất Liên minh châu Âu, và nếu bị kết tội, công ty sẽ phải đối mặt với khoản tiền phạt 38 tỷ USD.
+
+Cụ thể, Ủy ban Châu Âu tuyên bố những hạn chế mà nhà sản xuất iPhone đặt ra đối với các nhà phát triển sử dụng Cửa hàng ứng dụng di động của họ đã vi phạm Đạo luật Thị trường Kỹ thuật số (DMA) của khối 27 quốc gia, dựa trên những phát hiện ban đầu của cuộc điều tra.
+
+Phản hồi cáo buộc, Apple cho biết: “Chúng tôi tin tưởng rằng chính sách của chúng tôi tuân thủ luật pháp và ước tính hơn 99% các nhà phát triển sẽ trả mức phí tương đương hoặc ít hơn cho Apple theo các điều khoản kinh doanh mới mà chúng tôi đã tạo ra”.

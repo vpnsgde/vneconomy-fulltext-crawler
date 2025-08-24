@@ -1,0 +1,33 @@
+Một chiến dịch tấn công bằng virus mới có tên SPECTRALVIPER vừa được phát hiện, nhắm vào máy tính của hàng loạt doanh nghiệp lớn và người dùng tại Việt Nam qua lỗ hổng SMB. Thông qua lỗ hổng trong giao thức SMB trên Microsoft Windows, tin tặc xâm nhập hệ thống và triển khai SPECTRALVIPER như một backdoor (cửa hậu) nhằm duy trì kết nối đến thiết bị lây nhiễm. Trên máy tính nạn nhân, chúng tiếp tục các hành vi độc hại như thực thi mã độc, tiếp cận và đánh cắp dữ liệu.
+
+Ngày 15/6, ông Nguyễn Tiến Đạt, Tổng giám đốc Trung tâm nghiên cứu mã độc của Bkav, cho biết, lỗ hổng SMB từng bị virus WannaCry khai thác để lây nhiễm hơn 300.000 máy tính trên thế giới trong vài giờ. Năm 2018, có tới 735.000 máy tính tại Việt Nam bị mã độc đào tiền ảo W32.CoinMiner tấn công bằng cách khai thác SMB. Dù đã được cảnh báo nhiều lần, song đến nay vẫn còn tới 10% máy tính tại Việt Nam tồn tại lỗ hổng này.
+
+
+
+"Điều khá nguy hiểm là hiện nay, ước tính Việt Nam có khoảng 15 triệu người dùng máy tính. Nếu cứ 10 máy tính thì có 1 máy tồn tại lỗ hổng SMB và có nguy cơ bị nhiễm SPECTRALVIPER thì khoảng 1,5 triệu máy tính Việt Nam có nguy cơ bị virus tấn công.”
+
+Theo Trung tâm nghiên cứu mã độc của Bkav.
+
+“Điều khá nguy hiểm là hiện nay, ước tính Việt Nam có khoảng 15 triệu người dùng máy tính. Nếu cứ 10 máy tính thì có 1 máy tồn tại lỗ hổng SMB và có nguy cơ bị nhiễm SPECTRALVIPER thì khoảng 1,5 triệu máy tính Việt Nam có nguy cơ bị virus tấn công”, đại diện Bkav cho hay.
+
+Chuyên gia Trung tâm nghiên cứu mã độc Bkav khuyến cáo, các tổ chức, doanh nghiệp cần triển khai thêm giải pháp giám sát an ninh mạng như tường lửa, SOC (trung tâm giám sát an ninh mạng), lập tức phát hiện bất thường nhằm ứng cứu, xử lý kịp thời. Đồng thời, liên hệ các đơn vị chuyên về an ninh mạng để được hỗ trợ rà soát toàn bộ hệ thống gồm máy chủ, máy trạm và hệ thống cloud, nhằm bóc tách triệt để mã độc.
+
+Người dùng cập nhật bản vá càng sớm càng tốt, bằng cách vào Windows Update → Check for updates để kiểm tra các bản vá mới nhất. Khẩn trương backup các dữ liệu quan trọng. Máy tính có cài Bkav Pro sẽ được tự động ngăn chặn những kịch bản khai thác tương tự.
+
+Theo khảo sát IDC về khả năng phục hồi và chi tiêu của doanh nghiệp, có 65% doanh nghiệp ở khu vực châu Á - Thái Bình Dương đã gặp phải tấn công ransomware hoặc rò rỉ dữ liệu khiến hệ thống hoặc quyền truy cập dữ liệu bị chặn, trong đó 83% doanh nghiệp bị xâm phạm phải ngừng hoạt động và gián đoạn kinh doanh từ vài ngày đến vài tuần; Tổn thất tài chính từ các cuộc tấn công mạng có mục tiêu lên tới 109.000 USD đối với phân khúc doanh nghiệp lớn vào năm 2022, bao gồm cả thiệt hại về uy tín do dữ liệu độc quyền bị rò rỉ hoặc bán cho các tác nhân đe dọa độc hại khác.
+
+Ngoài ra, chuyên gia bảo mật là vị trí tuyển dụng nhiều nhất trong khu vực (37%), theo sau là chuyên gia vận hành công nghệ thông tin (33%). Sự thiếu hụt này khiến 76% doanh nghiệp trong khu vực phải thu hẹp quy mô, hủy bỏ hoặc tạm dừng các sáng kiến công nghệ, trong khi 34% doanh nghiệp cho biết họ gặp nhiều nguy cơ về tấn công mạng hơn và 54% cho rằng họ cần thêm 3-4 tháng để lấp đầy những vị trí bảo mật thiếu hụt.
+
+
+
+“Nhiều sự cố xảy ra do nhân viên bất cẩn kích hoạt phần mềm độc hại từ các email có vẻ thuyết phục hoặc tiết lộ thông tin quan trọng của doanh nghiệp trong các cuộc tấn công lừa đảo có chủ đích”.
+
+Adrian Hia, Giám đốc Điều hành Kaspersky châu Á – Thái Bình Dương.
+
+Còn theo thống kê của Kaspersky, hơn 1 tỷ mối đe dọa trực tuyến đang tồn tại và 400.000 mẫu phần mềm độc hại (malware) mới được phát hiện mỗi ngày. Trước bối cảnh mối đe dọa lan rộng và dai dẳng, mục tiêu thực sự của các hoạt động an ninh mạng ngoài việc phát hiện và ngăn chặn các mối đe dọa là khả năng phục hồi không gian mạng. Do đó, các tổ chức cần thống nhất chiến lược phục hồi không gian mạng; lãnh đạo doanh nghiệp và các nhà công nghệ hợp tác chặt chẽ với nhau để đảm bảo giảm thiểu sự gián đoạn và phục hồi dễ dàng hơn trước các mối đe dọa mạng đang gia tăng.
+
+Giám đốc Điều hành Kaspersky châu Á – Thái Bình Dương Adrian Hia, cho biết: Sự phức tạp không ngừng tăng lên ở phần mềm độc hại và ngân sách công nghệ thông tin thường bị giới hạn cũng như đội ngũ an ninh mạng phải chịu nhiều áp lực hơn về khối lượng công việc và thời gian trước số lượng lớn mối đe dọa.
+
+“Ngay cả khi các nhà quản lý thống nhất với chiến lược phục hồi an ninh mạng, yếu tố con người vẫn là mắt xích yếu nhất trong chuỗi phòng thủ an ninh mạng của tổ chức. Nhiều sự cố xảy ra do nhân viên bất cẩn kích hoạt phần mềm độc hại từ các email có vẻ thuyết phục hoặc tiết lộ thông tin quan trọng của doanh nghiệp trong các cuộc tấn công lừa đảo có chủ đích”, Adrian Hia giải thích.
+
+Thực tế, để ứng phó nhanh chóng trước các mối đe dọa mạng, nhiều tổ chức đang tìm kiếm nhà cung cấp an ninh mạng đáng tin cậy, đặc biệt là những nhà cung cấp có khả năng phát hiện và phản hồi mở rộng (XDR) chuyên cung cấp dịch vụ và chuyên môn về công nghệ, tổ chức và nhân sự để đảm bảo duy trì hoạt động của các sáng kiến phục hồi không gian mạng. Tuy nhiên, việc triển khai XDR cho phép các tài sản an ninh mạng hợp nhất dữ liệu từ nhiều điểm cuối khác nhau, tận dụng trí tuệ nhân tạo và máy học (AI/ML), phân tích nâng cao và tự động hóa để chủ động phát hiện và phản hồi tấn công mạng nhanh hơn, đồng thời giảm độ phức tạp của các công cụ bảo mật riêng lẻ thiếu tích hợp và khả năng tương tác.

@@ -1,0 +1,59 @@
+Trong đó, Trung Quốc đang chứng kiến sự mở rộng thần tốc của hạ tầng điện toán phục vụ AI, khiến mức tiêu thụ điện của các trung tâm dữ liệu tăng đột biến. Năm 2024, các trung tâm dữ liệu tại nước này tiêu thụ khoảng 140 tỷ kWh, tăng 31% so với cùng kỳ năm ngoái, bỏ xa tốc độ tăng trưởng chung 6,8% của toàn hệ thống điện quốc gia.
+
+Theo ước tính của Học viện Công nghệ Thông tin và Truyền thông Trung Quốc (CAICT), mức tiêu thụ này có thể đạt tới 400 tỷ kWh vào năm 2030, đồng nghĩa với việc các trung tâm dữ liệu sẽ chiếm khoảng 6% tổng tiêu thụ điện nước này, so với dưới 2% hiện nay.
+
+Tháng 7 năm ngoái, Ủy ban Cải cách và Phát triển Quốc gia Trung Quốc (NDRC) cùng Bộ Công nghiệp và Công nghệ Thông tin Trung Quốc, phối hợp với hai cơ quan chính phủ khác, đã công bố kế hoạch phát triển carbon thấp cho các trung tâm dữ liệu. Một trong những mục tiêu trọng tâm là nâng tỷ lệ sử dụng năng lượng tái tạo tại các trung tâm dữ liệu thêm trung bình 10% mỗi năm cho đến hết năm 2025.
+
+Theo ThinkChina, Qin Weixiao, nhà phân tích nghiên cứu cấp cao tại S&P Global Commodity Insights, để đạt được mức tăng trưởng này, các trung tâm dữ liệu Trung Quốc cần khai thác từ 40 - 63 tỷ kWh điện từ các nguồn năng lượng mặt trời và gió vào cuối năm 2025.
+
+Một hướng đi tiềm năng đang được các công ty vận hành các trung tâm dữ liệu cân nhắc là dịch chuyển từ các vùng duyên hải đông dân, phát triển như Bắc Kinh, Thượng Hải sang các khu vực phía tây giàu tài nguyên năng lượng tái tạo như gió và mặt trời. Tuy nhiên, việc di dời này đòi hỏi sự đầu tư lớn vào hạ tầng truyền tải và cam kết dài hạn từ các doanh nghiệp.
+
+Theo ông Li Jinbo từ công ty IEIT Systems, mỗi tủ máy chủ tại các trung tâm dữ liệu tiêu thụ từ 20-130 kWh, cao gấp nhiều lần so với mức 5–10kWh của trung tâm dữ liệu đám mây truyền thống. Với quy mô có thể lên tới hàng nghìn, thậm chí hàng chục nghìn tủ máy chủ, các trung tâm điện toán AI gây áp lực lớn lên điện lưới của Trung Quốc.
+
+Để dung hòa giữa nhu cầu điện ngày càng leo thang và các mục tiêu trung hòa carbon vào năm 2060, chính phủ Trung Quốc đang thúc đẩy chiến lược “dịch chuyển về phía tây”, tức là đưa các trung tâm dữ liệu đến những vùng đất còn nhiều tiềm năng năng lượng tái tạo như gió và mặt trời, vốn dồi dào nhưng vẫn chưa được khai thác hết.
+
+Tuy nhiên, hành trình về phía tây không phải con đường trải thảm. Những khu vực này thường thiếu hụt cơ sở hạ tầng, nhân lực chất lượng cao và mạng lưới khách hàng ổn định như các trung tâm kinh tế ven biển. Thêm vào đó, các nguồn năng lượng tái tạo nơi đây vốn thất thường và không hẳn sẽ mang lại lợi thế về chi phí so với lưới điện truyền thống.
+
+Bên cạnh đó, những khu vực này thường thiếu hụt hạ tầng hỗ trợ từ giao thông, viễn thông cho đến hệ sinh thái nhân lực công nghệ cao. Điều này khiến việc thu hút và giữ chân đội ngũ kỹ sư, nhà phát triển trở thành bài toán nan giải, theo nhiều nguồn trong ngành.
+
+Tuy nhiên, thách thức không nằm ở việc thiếu tài nguyên mà ở khoảng cách giữa nơi có điện và nơi cần dùng. Các tỉnh phía tây sở hữu tiềm năng năng lượng tái tạo dồi dào cùng chi phí điện rẻ hơn, nhưng lại tụt hậu về hạ tầng kỹ thuật.
+
+“Chỉ một vài giây gián đoạn thôi cũng đã là điều không thể chấp nhận được đối với khách hàng”, chuyên Peng Chengyao của Học viện CAICT và S&P Global Commodity Insights cho biết.
+
+Thực tế là nhu cầu xử lý dữ liệu vẫn tập trung chủ yếu ở các đô thị phía đông, nơi tỷ lệ tự cung điện tái tạo chỉ đạt dưới 40%, nhưng gần với cơ sở người dùng lớn và hạ tầng số phát triển. Dù phía tây chiếm tới 70% tổng công suất lắp đặt năng lượng tái tạo cả Trung Quốc.
+
+Để thu hẹp khoảng cách này, chính phủ Trung Quốc đã khởi động chiến lược “Đông – Tây tính toán” từ năm 2022, với mục tiêu chuyển tải tài nguyên điện toán từ các khu vực phát triển sang các vùng còn nhiều tiềm năng ở phía tây. Chiến lược này bao gồm việc xây dựng các trung tâm điện toán cấp quốc gia tại những nơi như Khu tự trị Ninh Hạ, vùng đất đang nổi lên như một thỏi nam châm hút đầu tư.
+
+Ba nhà mạng lớn của Trung Quốc bao gồm China Mobile, China Telecom và China Unicom cùng các ông lớn công nghệ như Baidu và Tencent đã rót vốn vào đây. Tencent thậm chí có kế hoạch xây dựng trung tâm điện toán thông minh lớn nhất miền tây tại Ninh Hạ, một phần vì lợi thế về giá điện thấp mà khu vực mang lại.
+
+Tháng 11 vừa qua, Tencent đã đưa vào vận hành một hệ thống “microgrid” tại Huailai, tỉnh Hà Bắc, một dự án tích hợp điện gió, điện mặt trời và hệ thống lưu trữ pin. Đây được xem là mô hình đầu tiên thuộc loại này tại Trung Quốc. Theo một nguồn tin thân cận với công ty, hệ thống này giúp Tencent tiết kiệm khoảng 3,5 triệu nhân dân tệ mỗi năm (tương đương 486.000 USD), tương ứng khoảng một phần sáu tổng chi phí điện vận hành trung tâm.
+
+Tuy nhiên, thực tế là sản lượng điện sạch mà microgrid tạo ra chỉ đạt khoảng 14 triệu kWh mỗi năm – tương đương 15% nhu cầu điện năng của trung tâm dữ liệu, vốn tiêu thụ tới 100 triệu kWh mỗi năm. Trong khi đó, mức cung năng lượng tái tạo lý tưởng cho một trung tâm dữ liệu quy mô lớn là khoảng 40%.
+
+Tencent đã đặt mục tiêu vận hành toàn bộ trung tâm dữ liệu của mình bằng 100% năng lượng tái tạo vào năm 2030. Nhưng với mức cung tự tạo hiện tại, công ty vẫn phải dựa vào lưới điện quốc gia để cung cấp tới 85% lượng điện còn lại – một giải pháp vừa tốn kém hơn, vừa không hoàn toàn thân thiện với môi trường.
+
+Trường hợp của Tencent là minh chứng điển hình cho nỗ lực cắt giảm khí thải và chi phí của doanh nghiệp đang bị giới hạn bởi hạ tầng và khuôn khổ chính sách hiện hành của Trung Quốc. Ngay cả khi chưa hoạt động hết công suất, trung tâm dữ liệu tại Huailai đã tiêu thụ 100 triệu kWh/năm. Nếu vận hành tối đa, con số này có thể tăng gấp bốn lần, lên tới 400 triệu kWh, làm trầm trọng thêm khoảng cách giữa mục tiêu và khả năng cung ứng năng lượng xanh.
+
+Với nhiều trung tâm dữ liệu, nguồn năng lượng tái tạo tại chỗ chủ yếu đến từ các tấm pin mặt trời lắp trên mái hay còn gọi là hệ thống quang điện phân tán (PV). Tuy nhiên, một nguồn tin am hiểu hoạt động vận hành cho biết, mái nhà trung tâm dữ liệu thường bị chiếm dụng bởi các thiết bị cồng kềnh như tháp giải nhiệt, khiến diện tích dành cho lắp đặt PV bị giới hạn, và phần lớn chỉ đủ để phục vụ hệ thống chiếu sáng.
+
+Kết quả là, lượng điện tạo ra từ PV mái nhà thường chỉ đáp ứng chưa tới 5% tổng nhu cầu tiêu thụ của trung tâm dữ liệu, theo chuyên gia Qin Weixiao. Con số này thấp đáng kể so với mức 20-30% mà các nhà máy sản xuất có thể đạt được từ cùng loại hình hệ thống.
+
+Không chỉ bị giới hạn bởi không gian vật lý, các dự án năng lượng tái tạo tại chỗ còn vướng rào cản pháp lý. Theo hướng dẫn ban hành hồi tháng 1 của Cơ quan Quản lý Năng lượng Quốc gia Trung Quốc, các hệ thống điện mặt trời tự tiêu thụ buộc phải đặt trong cùng một ranh giới sở hữu tài sản với đơn vị sử dụng điện. Trong trường hợp của Tencent, điều này đồng nghĩa công ty chỉ được phép xây dựng hệ thống điện tái tạo bên trong khu công nghiệp nơi đặt trung tâm dữ liệu, hạn chế nghiêm trọng khả năng mở rộng công suất phát điện.
+
+Trong nỗ lực kích thích tăng trưởng kinh tế số, nhiều địa phương ở phía bắc và phía tây Trung Quốc đang triển khai chính sách trợ giá điện mạnh tay nhằm thu hút các trung tâm dữ liệu.
+
+Qingyang (tỉnh Cam Túc) và Zhongwei (khu tự trị Ninh Hạ) hiện nằm trong nhóm có giá điện ưu đãi nhất cả nước, chỉ khoảng 0,36 nhân dân tệ mỗi kilowatt giờ (kWh). Tại Guiyang (tỉnh Quý Châu) và Ulanqab (khu tự trị Nội Mông), mức giá thậm chí thấp hơn, dao động quanh mốc 0,35 nhân dân tệ/kWh – chưa bằng một nửa so với giá điện công nghiệp và thương mại thông thường, vốn trên 0,6 nhân dân tệ/kWh.
+
+Bằng cách này, chính quyền địa phương không chỉ tìm cách tận dụng nguồn năng lượng tái tạo giá rẻ sẵn có, mà còn kỳ vọng các trung tâm dữ liệu sẽ trở thành hạt nhân thu hút đầu tư công nghệ, thúc đẩy nền kinh tế kỹ thuật số tại các vùng còn tương đối kém phát triển.
+
+Tuy nhiên, giữa tham vọng phát triển công nghệ và sức ép bảo đảm an ninh năng lượng, bài toán của các địa phương là làm sao duy trì được ưu đãi đủ hấp dẫn, mà không tạo ra gánh nặng tài khóa hoặc xung đột với mục tiêu cắt giảm phát thải của quốc gia.
+
+Tại tỉnh Cam Túc, ngành công nghiệp máy tính đã trở thành trụ cột chiến lược cho tăng trưởng kinh tế địa phương. Theo một báo cáo của truyền thông nhà nước, mỗi nhân dân tệ đầu tư vào lĩnh vực điện toán tại đây có thể tạo ra từ 3 đến 4 nhân dân tệ trong tổng sản phẩm kinh tế địa phương.
+
+Ông Bian Tao, Giám đốc cơ quan giám sát doanh nghiệp nhà nước của thành phố, cho biết sản lượng kinh tế số của Qingyang dự kiến vượt mốc 100 tỷ nhân dân tệ trong năm nay, với mục tiêu đạt 270 tỷ nhân dân tệ vào năm 2030.
+
+Ulanqab, một thành phố thuộc khu tự trị Nội Mông, cũng đang chuyển mình mạnh mẽ trong làn sóng này. Tính đến đầu tháng 5, nơi đây đã xây dựng 36 trung tâm dữ liệu, trong đó có tới 33 trung tâm điện toán thông minh với tổng vốn đầu tư vượt 140 tỷ nhân dân tệ. Thành phố đang kỳ vọng hạ tầng điện toán sẽ tạo đà bứt phá cho nền kinh tế kỹ thuật số vùng biên.
+
+Tuy nhiên, đằng sau những con số đầy hứa hẹn là một lớp rủi ro tiềm ẩn. Các công ty đổ về phía tây vì điện rẻ, nhưng không ai chắc các chính sách trợ giá này sẽ kéo dài bao lâu. Chính quyền địa phương, trong khi nỗ lực thúc đẩy phát triển kinh tế, cũng đang chịu áp lực từ các mục tiêu cắt giảm khí thải đầy tham vọng của Bắc Kinh.
+
+Tháng 9/2022, chính quyền Nội Mông đã chấm dứt nhiều năm áp dụng biểu giá điện ưu đãi cho một số doanh nghiệp. Động thái này nhằm thực thi chỉ đạo của Ủy ban Cải cách và Phát triển Quốc gia (NDRC) yêu cầu loại bỏ các “trợ cấp điện phi lý”, đồng thời phản ứng trước những lo ngại từ các cơ quan trung ương về tình trạng lãng phí năng lượng, gia tăng phát thải và nguy cơ vi phạm môi trường.

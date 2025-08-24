@@ -1,0 +1,43 @@
+Để hình thành nên một hệ sinh thái nền tảng số Việt Nam đáp ứng cơ bản yêu cầu chuyển đổi số, được sử dụng sâu rộng để tạo hạ tầng mềm phát triển Chính phủ số, kinh tế số, xã hội số quốc gia và trong từng ngành, lĩnh vực, địa bàn, từ tháng 2/2022, Bộ Thông tin và Truyền thông đã ban hành Chương trình thúc đẩy phát triển và sử dụng các nền tảng số quốc gia phục vụ chuyển đổi số, phát triển Chính phủ số, kinh tế số, xã hội số.
+
+Cùng với đó, Bộ đã công bố lần thứ nhất danh mục 35 nền tảng quốc gia phục vụ chuyển đổi số, Chính phủ số, kinh tế số, xã hội số. Trong đó: 20 nền tảng do cơ quan nhà nước chủ quản, doanh nghiệp Việt Nam phát triển, làm chủ công nghệ lõi, sử dụng thống nhất trên toàn quốc, phục vụ hoạt động quản lý nhà nước hoặc cung cấp dịch vụ công phục vụ xã hội; 15 nền tảng số quốc gia do doanh nghiệp làm chủ quản, làm chủ công nghệ lõi, cung cấp dịch vụ phục vụ nhu cầu của cơ quan, doanh nghiệp và xã hội.
+
+Theo Bộ trưởng Nguyễn Mạnh Hùng, nền tảng số Việt Nam chính là lời giải cho chuyển đổi số Việt Nam. Chuyển đổi số nếu không dựa trên các nền tảng số Việt Nam thì người hưởng lợi từ công cuộc này sẽ không phải là người Việt Nam.
+
+Trong danh mục nền tảng số phục vụ phát triển Chính phủ số, chính quyền số, Bộ Thông tin và Truyền thông vẫn liên tục cập nhật thêm các nền tảng số mới, do người Việt và doanh nghiệp Việt phát triển. Đặc biệt, trên cơ sở thực tiễn phát triển các nền tảng số, mới đây Bộ đã có đề xuất bổ sung các nền tảng cảng biển số, thuế điện tử, bảo hiểm xã hội số và cửa khẩu số vào danh mục các nền tảng số quốc gia cần ưu tiên thúc đẩy.
+
+Theo đó, Bộ Thông tin và Truyền thông đề xuất rõ các bộ, cơ quan ngang bộ sẽ chủ trì việc thúc đẩy phát triển và sử dụng 4 nền tảng số sẽ được xem xét bổ sung vào danh mục nền tảng số quốc gia. Cụ thể, Bộ Giao thông vận tải và Bộ Quốc phòng với nền tảng cảng biển số; Bảo hiểm xã hội Việt Nam với nền tảng bảo hiểm xã hội số; Bộ Tài chính với hai nền tảng là nền tảng thuế điện tử và cửa khẩu số.
+
+
+
+Với nền tảng cửa khẩu số, Bộ cho biết, qua quá trình quản lý, theo dõi, nền tảng này đã được nhiều địa phương có cửa khẩu quan tâm, nghiên cứu áp dụng để phát triển kinh tế số cửa khẩu, tạo động lực phát triển kinh tế số, nâng cao năng lực cạnh tranh của địa phương và của cả quốc gia. Do vậy, Bộ Thông tin và Truyền thông đề xuất Bộ Tài chính là cơ quan chủ quản triển khai và thúc đẩy nền tảng cửa khẩu số là bởi nền tảng này cung cấp công cụ quản lý tổng thể và toàn diện hoạt động tại khu vực cửa khẩu.
+
+Thực tế, chuyển đổi số được xem là cuộc cách mạng toàn dân, chỉ khi nào toàn bộ người dân sử dụng các nền tảng số, các ứng dụng số để phục vụ hoạt động kinh doanh, làm ăn, sinh hoạt hàng ngày thì chuyển đổi số mới thành công, nhờ đó các nền tảng số Việt Nam, doanh nghiệp số Việt Nam mới có “bệ đỡ” để cất cánh.
+
+Chia sẻ tại hội nghị sơ kết công tác 6 tháng đầu năm và phương hướng, nhiệm vụ 6 tháng cuối năm 2023 của Bộ Thông tin và Truyền thông, ông Tạ Minh Vang, Giám đốc Smarthub Logistics Technology, cho biết doanh nghiệp mất 10 năm để phát triển nền tảng cảng biển số VSL.
+
+Sau khi đạt giải cuộc thi tìm kiếm giải pháp chuyển đổi số quốc gia - Viet Solutions 2022, với sự hỗ trợ, giới thiệu của Bộ Thông tin và Truyền thông, nền tảng cảng biển số VSL đã có sự phát triển mạnh mẽ về số lượng đơn vị sử dụng. Số lượng cảng sử dụng tăng từ 5 lên 17, số lượng xe từ 100 lên 8.120, số doanh nghiệp chủ hàng tăng từ 9.124 lên 26.127, số doanh nghiệp vận tải tăng từ 409 lên 1.135...
+
+Với VNPT iGate (Hệ thống một cửa điện tử để giải quyết các thủ tục hành chính tại các cơ quan nhà nước theo cơ chế một cửa), Phó Tổng giám đốc Công ty VNPT IT Hà Thái Bảo cho hay nhờ làm theo mô hình cung cấp phần mềm như dịch vụ (SaaS) đã giúp VNPT iGate triển khai và nâng cấp được nhanh, đáp ứng được các yêu cầu về tiến độ, chức năng, an toàn thông tin, tích hợp... Hiện, hệ thống một cửa điện tử này đang cung cấp cho 45 bộ, ngành và địa phương trên cả nước.
+
+Cho rằng nền tảng số là từ khóa quan trọng nhất của chuyển đổi số Việt Nam; Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng nhấn mạnh để phát triển nhanh, bền vững và bao trùm thì công nghệ số phải là lực lượng sản xuất cơ bản, nhân tài số phải là một nguồn lực cơ bản và đổi mới sáng tạo số phải là động lực cơ bản.
+
+Muốn phát triển nhanh và bền vững thì phải đi đều “2 chân”: phổ cập nhanh cái cơ bản thông qua các nền tảng số dùng chung toàn quốc và đi nhanh về cái mới thông qua một số đầu tàu. Từ cái mới triển khai thành công của các “đầu tàu”, thì nhanh chóng biến thành cái cơ bản để phổ cập là việc quan trọng của quản lý nhà nước.
+
+Báo cáo mới nhất của Bộ Thông tin và Truyền thông cho biết tổng số lượng người dùng hàng tháng trên các ứng dụng di động Việt Nam trong 6 tháng đầu năm 2023 vượt mức 500 triệu, tăng gần 16% so với cùng kỳ năm 2022. Tính đến tháng 6/2023 có 60 nền tảng, ứng dụng di động phục vụ người dân của Việt Nam có trên 1 triệu người dùng hàng tháng, tăng gần 10% so với cùng kỳ năm 2022.
+
+Theo đánh giá của cơ quan quản lý, do thói quen của người dân vẫn là mua bán, trao đổi hàng hóa theo cách truyền thống nên chuyển đổi số hiện nay vẫn gặp không ít khó khăn. Trong khi đó, muốn chuyển đổi số thành công, nhiệm vụ quan trọng nhất là phải hình thành công dân số; muốn hình thành công dân số thì phải hướng dẫn người dân sử dụng các nền tảng số để mua, bán, học, làm việc, sử dụng dịch vụ công, khám chữa bệnh, giải trí…
+
+Để giải bài toán thói quen và để mọi người dân đều được hướng dẫn sử dụng các nền tảng số, Bộ Thông tin và Truyền thông đã hình thành các Tổ công nghệ số cộng đồng ở mức thôn, bản, tổ dân phố để có thể đến từng hộ gia đình, đi từng ngõ, gõ từng nhà, hướng dẫn sử dụng nền tảng số là cách tiếp cận rất Việt Nam. Số liệu mới nhất của Bộ cho biết, tính đến ngày 18/6/2023, cả nước thành lập 74.521 Tổ công nghệ số cộng đồng tại 63/63 địa phương với 348.629 thành viên tham gia Tổ công nghệ số cộng đồng cấp xã, thôn, phố. Có 52/63 địa phương hoàn thành 100% đến cấp xã.
+
+“Chuyển đổi số là cuộc cách mạng toàn dân, toàn diện và Tổ công nghệ số cộng động là lời giải của chúng ta. Đây cũng là cách để không ai bị bỏ lại phía sau. Các địa phương hãy coi Tổ công nghệ số cộng đồng này là lực lượng chuyển đổi số xung kích, giống như bộ đội địa phương, là các chiến binh chuyển đổi số”, Bộ trưởng Hùng nêu quan điểm.
+
+Bộ trưởng cũng cho rằng để không ai bị bỏ lại phía sau thì hạ tầng viễn thông phải không còn vùng lõm sóng 3G, 4G. Mỗi hộ gia đình ít nhất phải có một thiết bị thông minh. Làm được việc này là sự chung tay của Bộ Thông tin và Truyền thông, địa phương và doanh nghiệp viễn thông.
+
+Một trong những khó khăn hiện nay để triển khai các nền tảng số dùng chung toàn quốc là vấn đề kinh phí. Theo Thứ trưởng Bộ Thông tin và Truyền thông Nguyễn Huy Dũng, chủ trương chuyển đổi số quốc gia là triển khai các nền tảng dùng chung. Từ góc độ thể chế chính sách, ngân sách nhà nước, đặc biệt là ngân sách trung ương nên dành một tỷ lệ tối thiểu để triển khai các nền tảng dùng chung quốc gia, do vậy, theo ông Dũng, khi triển khai các nền tảng số quốc gia để dùng chung toàn quốc, sẽ cần phải hoàn thiện hành lang pháp lý.
+
+Bộ Thông tin và Truyền thông sẽ chủ động thể chế hóa những chính sách này vào các văn bản tham mưu Chính phủ, Thủ tướng Chính phủ ban hành trong thời gian tới nhằm giải quyết vấn đề này. Ngân sách địa phương do địa phương quyết định, do đó địa phương cũng hoàn toàn có thể dành ra 20% tổng ngân sách chi cho công nghệ thông tin để dành cho việc triển khai các nền tảng dùng chung của quốc gia.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 36-2023 phát hành ngày 04-09-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

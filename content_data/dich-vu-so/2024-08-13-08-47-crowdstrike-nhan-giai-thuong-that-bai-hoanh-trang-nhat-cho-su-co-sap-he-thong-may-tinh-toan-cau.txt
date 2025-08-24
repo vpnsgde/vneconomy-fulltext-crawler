@@ -1,0 +1,11 @@
+Giải thưởng Pwnie hàng năm tại Def Con, tôn vinh "những thành tựu (và thất bại) của các nhà nghiên cứu bảo mật và cộng đồng bảo mật". Các hạng mục của năm nay bao gồm các giải thưởng cho các lỗi di động, máy tính để bàn và tiền điện tử,...
+
+Một chiếc cúp lớn được mang lên sân khấu để trao cho Chủ tịch CrowdStrike, Michael Sentonas. Chủ tịch CrowdStrike đã phát biểu rằng đây "chắc chắn không phải là giải thưởng đáng tự hào khi nhận được".
+
+Năm ngoái, giải thưởng "Thất bại hoành tráng nhất" đã được trao cho Cục An ninh Giao thông Hoa Kỳ sau khi một tin tặc phát hiện ra danh sách "cấm bay" của cơ quan này trên một máy chủ kết nối internet không được bảo vệ.
+
+CrowdStrike đã giành được giải thưởng này vì đã bản cập nhật phần mềm của họ đã khiến các máy tính Windows trên toàn thế giới bị lỗi, gây ra tình trạng mất điện tại nhiều hãng hàng không trên thế giới. CrowdStrike sau đó hứa sẽ cập nhật quá trình kiểm tra và xử lý lỗi cũng như bắt đầu cập nhật theo từng đợt để ngăn chặn mọi sự cố tương tự xảy ra trong tương lai.
+
+Chủ tịch Michael Sentonas cho biết sẽ trưng bày chiếc cúp ở một nơi nổi bật, như một lời nhắc nhở rằng "mục tiêu của chúng tôi là bảo vệ mọi người và chúng tôi đã sai, tôi muốn đảm bảo rằng mọi người đều hiểu rằng những điều này sẽ không còn xảy ra".
+
+Theo TechCrunch, đánh giá cao Chủ tịch Michael Sentonas vì đã xuất hiện để thừa nhận những sai lầm của công ty, những người tham dự hội nghị sẵn sàng tin tưởng CrowdStrike thêm một lần nữa.

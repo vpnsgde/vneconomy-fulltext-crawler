@@ -1,0 +1,27 @@
+Tổ chức Sở hữu trí tuệ thế giới (WIPO) cho biết có khoảng 54.000 đơn đăng ký bằng sáng chế trí tuệ nhân tạo (AI) đã được nộp trên toàn cầu trong thập kỷ qua – một minh chứng cho thấy sự phát triển bùng nổ của công nghệ. Mặc dù trí tuệ nhân tạo có tiềm năng cách mạng mọi lĩnh vực, tuy nhiên, công nghệ này cũng gây ra mối lo ngại về việc làm và người lao động, WIPO đưa ra nhận định khi công bố số lượng đăng ký bằng sáng chế AI mới đây.
+
+Bắt đầu từ năm 2014 đến nay, Trung Quốc có đến hơn 38.200 bằng sáng chế AI. Đây là con số này gấp 6 lần so với Mỹ, quốc gia ở vị trí thứ hai với gần 6.300 bằng sáng chế. Xếp sau họ là Hàn Quốc với 4.155 bằng, Nhật Bản với hơn 3.400 bằng và Ấn Độ với 1.350 bằng.
+
+WIPO cho biết, trong số những ứng viên nộp đơn đăng ký bằng sáng chế hàng đầu có ByteDance của Trung Quốc và gã khổng lồ thương mại điện tử Trung Quốc Alibaba Group. Microsoft cũng nằm trong số những đơn vị nộp đơn xin cấp bằng sáng chế hàng đầu.
+
+Giám đốc quản lý bằng sáng chế của WIPO, Christopher Harrison lưu ý các ứng dụng bằng sáng chế của Trung Quốc bao trùm nhiều lĩnh vực từ xe tự hành đến xuất bản đến quản lý tài liệu.
+
+Một số nhà phê bình lo ngại rằng GenAI (AI tạo sinh) có thể thay thế người lao động trong một số công việc hoặc sử dụng nội dung do con người tạo ra một cách không chính đáng mà không có sự đền bù công bằng hoặc thỏa đáng cho những người đứng sau nó.
+
+Theo đó, các công cụ như ChatGPT từ OpenAI, Google Gemini và Ernie từ Baidu của Trung Quốc đang dần thay đổi cuộc sống của con người. Các mô hình ngôn ngữ lớn cũng đang dần được các nước sử dụng trong nhiều ngành công nghiệp bao gồm khoa học đời sống, sản xuất, vận tải, an ninh và viễn thông.
+
+Cũng như các loại đơn xin cấp bằng sáng chế khác, các quan chức WIPO thừa nhận rằng số lượng bằng sáng chế GenAI không phản ánh chất lượng: “Thật khó để có thể nói bằng sáng chế nào sẽ có giá trị thị trường hoặc có tác dụng biến đổi cho xã hội”.
+
+Tổng giám đốc WIPO Daren Tang nói: “Hãy xem dữ liệu và sự phát triển diễn ra như thế nào theo thời gian”.
+
+Mỹ và Trung Quốc thường được coi là đối thủ trong việc phát triển trí tuệ nhân tạo, nhưng xét theo một số khía cạnh. Các công ty công nghệ Mỹ vẫn đang dẫn đầu trong việc chế tạo các hệ thống AI tiên tiến nhất thế giới mặc dù họ thua Trung Quốc về số lượng bằng sáng chế.
+
+Nestor Maslej, Giám đốc nghiên cứu tại Viện Trí tuệ nhân tạo của Đại học Stanford, cho biết: “Việc xem xét các bằng sáng chế chỉ vẽ nên một phần của câu chuyện”. Ông nói thêm rằng tỷ lệ phê duyệt bằng sáng chế có thể khác nhau tùy thuộc vào luật pháp của mỗi quốc gia.
+
+“Khi bạn nhìn vào sự sống động của AI, một câu hỏi rất quan trọng là ai đang phát hành những mô hình tốt nhất, những mô hình đó đến từ đâu và, ít nhất là theo số liệu đó, có vẻ như Mỹ đã thực sự vượt xa”, ông Nestor Maslej cho biết.
+
+Theo Chỉ số AI năm nay, 61 mô hình học máy đáng chú ý nhất năm 2023 đến từ các tổ chức của Mỹ, vượt xa 21 mô hình của Liên minh Châu u và 15 mô hình của Trung Quốc.
+
+Những mô hình AI hàng đầu hiện nay GPT-4 của OpenAI, Claude 3 của Anthropic, Gemini và Llama của Meta đều thuộc về Mỹ. Theo tờ APNews, Mỹ cũng dẫn đầu về đầu tư AI tư nhân và số lượng công ty khởi nghiệp AI mới thành lập, trong khi Trung Quốc dẫn đầu về robot công nghiệp.
+
+WIPO cho biết họ mong đợi một làn sóng bằng sáng chế tiếp theo và có kế hoạch phát hành bản cập nhật dữ liệu trong tương lai.

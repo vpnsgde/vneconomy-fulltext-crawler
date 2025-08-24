@@ -1,0 +1,49 @@
+Ngày 5/8 vừa qua, Trung tâm Khởi nghiệp sáng tạo TP.HCM (SIHUB) phối hợp cùng Công ty Ascendas Systems, đã tổ chức hội thảo“Giải pháp về ứng dụng AI trong ngành công nghiệp bán dẫn”nhằm cung cấp cái nhìn về hiện trạng, tương lai của AI trong lĩnh vực công nghiệp điện tử này.
+
+Tại hội thảo, các chuyên gia từ các tập đoàn công nghệ đưa ra các xu hướng mới trong việc tích hợp AI vào sản xuất chip bán dẫn, từ quy trình thiết kế, kiểm thử đến tối ưu sản xuất vi mạch mà các quốc gia thế giới đang áp dụng.
+
+Đây là một phần trong chương trình thúc đẩy đổi mới sáng tạo do Sở Khoa học và Công nghệ TP.HCM chủ trì, hướng tới mục tiêu có thể áp dụng các công nghệ mới này tại Việt Nam, đồng thời hỗ trợ các doanh nghiệp tiếp cận nền tảng công nghệ quốc tế, góp phần xây dựng hệ sinh thái đổi mới sáng tạo và có khả năng cạnh tranh toàn cầu.
+
+HẠ TẦNG CHO AI ĐANG ĐƯỢC ĐẦU TƯ "MẠNH TAY" TẠI CHÂU Á – THÁI BÌNH DƯƠNG
+
+Theo báo cáo của Grand View Research, thị trường trí tuệ nhân tạo (AI) toàn cầu được định giá khoảng 279,22 tỷ USD vào năm 2024 và dự kiến đạt 1.811,5 nghìn tỷ USD vào năm 2030. Song song đó, ngành công nghiệp bán dẫn cũng ghi nhận mức tăng trưởng mạnh, với quy mô đạt 627 tỷ USD trong năm 2024, hướng đến mốc 700,9 tỷ USD vào năm 2025 và mục tiêu 1.000 tỷ USD vào năm 2030 (theo số liệu từ WSTS và Hiệp hội Công nghiệp Bán dẫn (SIA).
+
+Đáng chú ý, phân khúc chip AI, nơi AI được tích hợp sâu vào quy trình thiết kế và sản xuất chip bán dẫn đang ghi nhận tốc độ tăng trưởng ấn tượng. Markets and Markets dự báo thị trường chip AI toàn cầu sẽ tăng từ 123,16 tỷ USD trong năm 2024 lên 166,9 tỷ USD vào năm 2025, và có thể vượt mốc 311,58 tỷ USD vào năm 2029. Tốc độ tăng trưởng kép hàng năm (CAGR) trong giai đoạn 2024–2029 đạt khoảng 24,4%.
+
+Sự tăng trưởng này được thúc đẩy bởi làn sóng triển khai máy chủ AI của các "ông lớn" công nghệ toàn cầu (hyperscaler), cùng sự phổ biến nhanh chóng của các ứng dụng AI tạo sinh (Generative AI), AIoT trong các lĩnh vực như tài chính – ngân hàng, y tế, thương mại điện tử, truyền thông và giải trí.
+
+Năm 2025 chứng kiến làn sóng đầu tư chưa từng có vào hạ tầng trí tuệ nhân tạo (AI). Cụ thể, Meta đã đầu tư 60 tỷ USD, trong khi Microsoft chi tới 80 tỷ USD cho các hạng mục liên quan đến hạ tầng AI. Tổng vốn đầu tư toàn ngành vào chip dành cho AI thế hệ mới (Gen AI) đã vượt mốc 150 tỷ USD.
+
+Các chuyên gia nhận định, làn sóng chuyển dịch vốn đang diễn ra mạnh mẽ, cho thấy cuộc đua hạ tầng AI đang bước vào giai đoạn quyết liệt. Doanh nghiệp nào đầu tư sớm và đủ mạnh sẽ nắm ưu thế dẫn đầu thị trường. Bên cạnh các "ông lớn" như Google, AWS, các nhà sản xuất chip như NVIDIA cũng đang gia tăng tốc độ đầu tư để mở rộng năng lực hạ tầng phục vụ AI.
+
+Chip AI đang giữ vai trò then chốt trong việc xử lý song song tốc độ cao, tối ưu hiệu suất hệ thống và đảm bảo khả năng xử lý khối lượng công việc khổng lồ trong các trung tâm dữ liệu đám mây. Bên cạnh đó, xu hướng điện toán biên AI (edge AI) ngày càng phổ biến, nhằm đáp ứng nhu cầu xử lý dữ liệu theo thời gian thực tại thiết bị đầu cuối.
+
+Đặc biệt, khu vực châu Á – Thái Bình Dương đang nổi lên như một động lực tăng trưởng mới của ngành chip AI toàn cầu, nhờ các khoản đầu tư mạnh mẽ từ chính phủ vào hạ tầng AI và chuyển đổi số. Mặc dù Bắc Mỹ hiện vẫn dẫn đầu thị trường, nhưng châu Á được dự báo sẽ sớm rút ngắn khoảng cách và tạo ra những bứt phá trong giai đoạn tới.
+
+Cuộc đua công nghệ bán dẫn đang ngày càng tập trung vào các node (kích thước công nghệ chế tạo chip) tiên tiến hơn (như 5nm và 3nm). Đáng chú ý, mức tăng vọt 94% trong đầu tư thiết bị sản xuất chip cho thấy niềm tin mạnh mẽ của ngành vào triển vọng của trí tuệ nhân tạo, đồng thời phản ánh xu hướng chuyển dịch nguồn lực sang các công nghệ bán dẫn cao cấp.
+
+Các chuyên gia nhận định, quốc gia nào đi sớm đón đầu công nghệ mới sẽ nắm lợi thế dài hạn và Việt Nam không nằm ngoài xu thế chuyển động mạnh mẽ của châu Á.
+
+BA HƯỚNG ỨNG DỤNG AI TRONG NGÀNH CÔNG NGHIỆP BÁN DẪN
+
+Tại hội thảo, các chuyên gia công nghệ đã đưa ra ba hướng ứng dụng chính của AI hiện nay trong ngành bán dẫn mà Việt Nam có thể học hỏi: phát hiện lỗi trong dây chuyền sản xuất, phát triển AI bền vững, và sử dụng phần mềm AI để dự đoán lỗi trước khi xảy ra.
+
+Ông Dương Quang Huy, kỹ sư ứng dụng tại Ascendas Systems, cho biết trong các dây chuyền sản xuất chip, việc tích hợp AI để phát hiện lỗi đã không còn là lựa chọn mà là yêu cầu bắt buộc. Các công cụ như Deep Network Designer hay Classification Learner cho phép kỹ sư xây dựng, huấn luyện và thử nghiệm các mô hình học sâu, nhưng độ chính xác trong môi trường thực tế vẫn là thách thức.
+
+Những yếu tố như ánh sáng chói, vết bụi, hay góc xoay của linh kiện có thể khiến AI nhận diện sai, dù mô hình đạt độ chính xác 99% trong môi trường phòng lab. Ông Huy nhấn mạnh, dữ liệu huấn luyện đóng vai trò cốt lõi và cần được chuẩn hóa kỹ lưỡng, từ khâu xử lý hình ảnh đến gán nhãn.
+
+Ở góc độ khác, ông Trần Kim Duy Lân – Giám đốc Quốc gia Navagis, nhấn mạnh đến khía cạnh phát triển bền vững. Dù AI có thể rút ngắn thời gian thiết kế chip đến 30% và tăng năng suất lên 25%, nhưng cũng đồng thời làm tăng mức tiêu thụ năng lượng. Dự báo đến năm 2030, trung tâm dữ liệu phục vụ AI có thể tiêu tốn tới 21% lượng điện năng toàn cầu.
+
+Trước thực trạng này, ông Lân cho rằng việc chuyển từ mô hình AI tập trung sang các giải pháp phân tán như Edge AI hay on-device AI là hướng đi cần thiết, vừa tiết kiệm năng lượng, vừa đảm bảo tính riêng tư và hiệu suất xử lý.
+
+Các thiết bị như camera thông minh, vi điều khiển hay cảm biến tích hợp AI có thể xử lý dữ liệu tại chỗ, thay vì phụ thuộc vào hệ thống đám mây. Theo ông Lân, điều này không chỉ giúp tiết kiệm điện năng gấp hàng trăm lần, mà còn mở ra cơ hội triển khai AI trong môi trường công nghiệp thực tế – nơi tốc độ phản hồi theo thời gian thực là yếu tố sống còn.
+
+Giải pháp thứ ba, theo ông Hà Văn Kỳ, đại diện Ascendas Systems, có thể sử dụng các nền tảng phần mềm AI như MATLAB và Simulink, vốn được nhiều tập đoàn hàng đầu trong ngành ô tô, hàng không vũ trụ và bán dẫn toàn cầu tin dùng.
+
+Các giải pháp này không chỉ hỗ trợ xây dựng hệ thống kiểm tra hình ảnh bằng deep learning, mà còn giúp tiền xử lý dữ liệu hình ảnh, gán nhãn và triển khai mô hình AI trong điều kiện thực tế một cách mượt mà và liền mạch.
+
+Thay vì phản ứng thụ động, các mô hình học máy giúp hệ thống chủ động cảnh báo nguy cơ lỗi dựa trên dữ liệu đầu vào theo thời gian thực. Đây được xem là bước tiến quan trọng trong chiến lược bảo trì dự đoán (predictive maintenance) và kiểm soát chất lượng.
+
+Bên cạnh các nội dung chuyên môn, hội thảo còn giới thiệu nhiều chương trình hỗ trợ dành cho cộng đồng khởi nghiệp trong lĩnh vực công nghệ cao. Ông Hà Văn Kỳ cho biết các công cụ như MATLAB và Simulink có thể giúp start-up rút ngắn đáng kể quá trình nghiên cứu, thử nghiệm và triển khai sản phẩm ra thị trường. Mục tiêu của hội thảo không chỉ là chia sẻ tri thức công nghệ mà còn tạo cầu nối giữa chuyên gia, nhà đầu tư và các startup tiềm năng.
+
+Trong bối cảnh chuyển đổi số và phát triển công nghệ cao trở thành ưu tiên quốc gia, việc nắm bắt sớm các xu hướng AI không chỉ là bước đi cần thiết mà còn là cơ hội để Việt Nam tạo lợi thế cạnh tranh trong chuỗi cung ứng công nghệ toàn cầu.

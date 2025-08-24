@@ -1,0 +1,25 @@
+Còn lại 80% vẫn là dùng đám mây đặt tại nước ngoài - con số được đưa ra tại tọa đàm "Thúc đẩy điện toán đám mây Make in Vietnam" do báo điện tử VietNamNet phối hợp cùng Cục An toàn thông tin (Bộ Thông tin và Truyền thông), tổ chức ngày 24/11.
+
+Thống kê cho biết, thị trường điện toán đám mây trong nước hiện nay đạt khoảng 133 triệu USD, tương đương 3.200 tỷ đồng. Việt Nam có khoảng 27 trung tâm dữ liệu do 11 doanh nghiệp trong nước đầu tư với trên 270.000 máy chủ được kết nối đến cả nước.
+
+Theo ông Lê Hoài Nam, Phó giám đốc Viettel IDC, thị trường đầy tiềm năng trong khi doanh nghiệp Việt Nam mới chiếm dưới 20% con số mà người dùng đang chi trả, do vậy doanh nghiệp Việt còn khoảng khai thác rộng về thị trường. Đối với dịch vụ, Việt Nam mới cung cấp chủ yếu dịch vụ hạ tầng điện toán đám mây, còn dịch vụ phần mềm trên nền hạ tầng điện toán đám mây chưa khai thác được nhiều dù mảng này mới đem lại doanh thu và tăng trưởng lớn.
+
+Vì sao thị trường điện toán đám mây là miếng bánh to nhưng các doanh nghiệp Việt Nam mới chỉ chiếm "một góc rất nhỏ"? Ông Hoài Nam cho rằng, nhu cầu điện toán đám mây phải xét đối tượng khách hàng, như SME (doanh nghiệp nhỏ và vừa) và startup cần công nghệ đáp ứng hầu như đầy đủ những thứ họ cần, một hệ sinh thái. Dịch vụ cung cấp dịch vụ đám mây ở Việt Nam chưa đủ năng lực xây dựng hạ tầng tốt như Amazon.
+
+Vì phát triển nhanh, cần nhiều công cụ và môi trường để phát triển phần mềm, nhiều doanh nghiệp thuê ngay dịch vụ đám mây của nước ngoài. Họ chưa phát triển mạnh nên rào cản như đường truyền, chi phí, hỗ trợ kỹ thuật không phải vấn đề lớn nên chấp nhận giai đoạn đầu dùng dịch vụ đám mây nước ngoài.
+
+Thứ hai, với doanh nghiệp lớn, khi khởi nghiệp hệ thống quản lý, toàn bộ phần mềm mua của nước ngoài. Sau vài năm, họ chuyển dịch dần do bên nước ngoài, khách hàng vào chậm, sự cố lệch giờ và chi phí vận hành của nước ngoài cao nên phải tối ưu cả về trải nghiệm khách hàng và chi phí mới chuyển dần về Việt Nam.
+
+Ông Lê Hoài Nam cho rằng, thực tế không doanh nghiệp nào dùng một đám mây mà dùng nhiều hoặc lai ghép vì các hệ ứng dụng của họ phát triển qua nhiều giai đoạn khác nhau. Với hạ tầng đám mây của công ty trong nước, khách hàng dè dặt vì ngoài lợi ích giảm chi phí, tốc độ tăng lên thì vấn đề an toàn như thế nào, hỗ trợ ra sao, trách nhiệm đến đâu; khi gặp sự cố lớn có khả năng khôi phục dữ liệu hoặc giảm tỉ lệ gián đoạn dịch vụ hay không…
+
+Trong khi đó, theo ông Hoàng Anh, Giám đốc Kinh doanh CMC Cloud, hạ tầng số như cloud ở Việt Nam thua nhà cung cấp nước ngoài, chủ yếu là câu chuyện hệ sinh thái. Bản chất của doanh nghiệp khi muốn đưa toàn bộ dịch vụ lên đám mây thì họ mong muốn có đủ thành phần, tính năng cần thiết để vận hành hệ thống.
+
+"Việt Nam mạnh nhất phần hạ tầng còn tính năng hạn chế, CMC đang cố gắng khắc phục, đẩy mạnh để tạo ra hệ sinh thái đáp ứng hầu như toàn bộ nhu cầu của doanh nghiệp khi đưa hệ thống công nghệ thông tin của họ lên", ông Hoàng Anh cho hay.
+
+Ở góc độ vĩ mô, ông Nguyễn Khắc Lịch, Phó cục trưởng Cục An toàn thông tin (Bộ Thông tin và Truyền thông) cho biết, hạ tầng nền tảng điện toán đám mây Việt Nam đang được Bộ Thông tin và Truyền thông định hướng phát triển.
+
+Theo ông Lịch, Bộ đã xác định, nền tảng điện toán đám mây là hạ tầng viễn thông thế hệ mới trong vòng 5 - 10 năm tới. Đồng thời, Bộ Thông tin và Truyền thông cũng xác định nền tảng điện toán đám mây là hạ tầng số cho phát Chính phủ số, kinh tế số và xã hội số. "Đây là một trong những định hướng chủ lực của quốc gia cần tập trung phát triển trong thời gian tới", ông Lịch nhấn mạnh.
+
+Theo dự báo, đến năm 2025 thị trường điện toán đám mây tại Việt Nam sẽ đạt 500 triệu USD và tốc độ tăng trưởng khoảng 30 - 40%. "Đặc biệt trong năm 2020 này, dịch Covid-19 đã tạo cú hích thúc đẩy phát triển thị trường điện toán đám mây, nhờ đó tốc độ tăng trưởng của thị trường đạt tới 40%", Phó cục trưởng Cục An toàn thông tin Nguyễn Khắc Lịch, cho hay.
+
+Như vậy, theo ông Lịch, về mặt thị trường thì điện toán đám mây là một "miếng bánh" tương đối lớn cho các doanh nghiệp. Với tầm quan trọng của hạ tầng viễn thông thế hệ mới, hạ tầng số, đồng thời thực hiện chủ trương Make in Vietnam, các doanh nghiệp trong nước phải phát triển, làm chủ nền tảng hạ tầng này.

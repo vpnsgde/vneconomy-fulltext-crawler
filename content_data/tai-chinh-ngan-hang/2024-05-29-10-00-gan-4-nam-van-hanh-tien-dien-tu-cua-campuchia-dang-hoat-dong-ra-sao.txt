@@ -1,0 +1,33 @@
+Bakong là tên gọi của hệ thống thanh toán toàn quốc dựa trên công nghệ Blockchain do Ngân hàng Trung ương Campuchia (NBC) phát triển. Bakong chính thức ra mắt vào tháng 10/2020 và được công nhận là một trong những đồng tiền kỹ thuật số của ngân hàng Trung ương (CBDC) đầu tiên trên thế giới. Bakong, được phát triển cùng với công ty khởi nghiệp Soramitsu của Nhật Bản, sử dụng nền tảng Blockchain Hyperledger Iroha.
+
+Bakong có thể được sử dụng tại các cửa hàng để chuyển tiền hoặc thanh toán thông qua ứng dụng trên smartphone. Người dùng không cần có tài khoản ngân hàng để đăng ký Bakong, chỉ cần có số điện thoại di động Campuchia. Người dùng có thể gửi tiền bằng cách quét mã QR hoặc chỉ định số điện thoại của người nhận. Các giao dịch có thể được thực hiện bằng đồng Riel Campuchia hoặc USD.
+
+
+
+Trong một cuộc phỏng vấn với truyền thông gần đây, Thống đốc ngân hàng trung ương Campuchia Chea Serey cho biết các giao dịch xuyên biên giới được thực hiện thông qua hệ thống tài chính kỹ thuật số Bakong của Campuchia được thiết lập để thúc đẩy việc sử dụng đồng tiền riel của quốc gia Đông Nam Á này.
+
+“Tỷ lệ đồng riel được sử dụng trong các giao dịch kỹ thuật số đang ở mức cao hơn”.
+
+Hơn 80% nền kinh tế Campuchia vẫn hoạt động bằng đồng USD như một phần của hệ thống tiền tệ kép, trong khi chính quyền đặt mục tiêu thúc đẩy đồng riel đóng vai trò lớn hơn.
+
+Tổng số thanh toán kỹ thuật số được thực hiện thông qua hệ thống Bakong (được đặt theo tên của một ngôi đền Khmer nổi tiếng tại khu di tích lịch sử Angkor Wat) vào năm ngoái đã tăng lên 70 tỷ USD kể từ khi ra mắt vào năm 2020 - gấp đôi tổng sản phẩm quốc nội (GDP) của đất nước. Trong khi các giao dịch Bakong trong nước có thể được thực hiện bằng riel hoặc USD, thì đồng tiền Campuchia chiếm 20 tỷ USD trong tổng số năm ngoái, tương đương tỷ lệ 28,5%, cao hơn gấp đôi so với năm 2022.
+
+Theo bà Serey, các giao dịch xuyên biên giới là chìa khóa để mở rộng việc sử dụng đồng Riel. Bakong đã có thể được sử dụng để thanh toán dựa trên mã QR giữa Campuchia, Thái Lan, Lào và Việt Nam, cũng như các khoản thanh toán liên quan đến UnionPay của Trung Quốc.
+
+Ví dụ, các khoản thanh toán xuyên biên giới này chỉ có thể được thực hiện bằng đồng riel nên công dân Campuchia cần phải có tài khoản riel Bakong để thanh toán ở Thái Lan, trong khi khách du lịch Thái Lan chỉ có thể thực hiện giao dịch bằng mã QR ở Campuchia nếu nơi họ mua sắm chấp nhận riel.
+
+Thanh toán xuyên biên giới (cross-border payment) được hiểu là các giao dịch tài chính được thực hiện bởi người thanh toán (payer) và người nhận (recipient) ở các quốc gia khác nhau, bao gồm các hoạt động thanh toán bán lẻ, thanh toán bán buôn, chuyển tiền,… theo nhiều cách khác nhau.
+
+Serey cho biết, chức năng thanh toán xuyên biên giới là một cách thúc đẩy việc sử dụng đồng nội tệ vì nó khuyến khích các thương nhân mở tài khoản và chấp nhận thanh toán bằng riel. Bà nói thêm rằng bà sẽ không ép buộc người dân sử dụng đồng Riel thông qua các biện pháp hành chính cứng nhắc.
+
+Ngân hàng trung ương có kế hoạch cho phép thanh toán xuyên biên giới bằng Bakong với Ấn Độ sớm nhất là vào tháng 6 và cũng đang làm việc với Nhật Bản. Bà Serey cũng coi hợp tác xuyên biên giới là chìa khóa để mở rộng số lượng người dùng Bakong. Hiện có khoảng 10 triệu tài khoản tại quốc gia có dân số khoảng 17 triệu người.
+
+Đối với Campuchia, việc tăng cường sử dụng đồng nội tệ có nghĩa là quốc gia này có thể có chính sách tiền tệ độc lập, trong đó Bakong được coi là một cách để thay đổi sự phụ thuộc sâu sắc vào đồng USD của người dân. Chính phủ đã chấp nhận nộp thuế và trả lương cho công chức bằng đồng Riel.
+
+Trong khi đó, sự tăng giá của đồng bạc xanh so với đồng Riel đã gây ra nhiều vấn đề, trong đó có việc cho vay bằng đồng USD đắt hơn, dẫn đến việc giải ngân khoản vay chậm hơn.
+
+Hệ thống Bakong được thiết kế để giúp người dân và doanh nghiệp thanh toán dễ dàng hơn. Nó hoạt động rộng rãi với tư cách tiền kỹ thuật số với các khoản tín dụng được sử dụng trên nền tảng được hỗ trợ bởi ngân hàng Trung ương.
+
+Về tiền tệ kỹ thuật số, Hong Kong (Trung Quốc) gần đây đã cho phép người dân mở ví kỹ thuật số bằng đồng nhân dân tệ kỹ thuật số của Trung Quốc. Một số ý kiến cho rằng đây là một bước ngoặt tiến tới quốc tế hóa đồng nhân dân tệ kỹ thuật số.
+
+Trả lời về vấn đề này, bà Serey cho biết việc quốc tế hóa đồng nhân dân tệ kỹ thuật số còn một chặng đường dài phía trước bởi sẽ yêu cầu tích hợp các công nghệ khác nhau được sử dụng ở nhiều quốc gia khác nhau.

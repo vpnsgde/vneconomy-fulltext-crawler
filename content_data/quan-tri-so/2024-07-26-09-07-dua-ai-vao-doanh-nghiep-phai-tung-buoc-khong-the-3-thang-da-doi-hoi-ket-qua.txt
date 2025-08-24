@@ -1,0 +1,19 @@
+Tại hội thảo “Giải pháp AI dành cho doanh nghiệp” diễn ra ngày 25/7 tại Hà Nội, Thạc sĩ Vũ Thanh Hải, nguyên Trưởng Ban ứng dụng AI Tập đoàn Viettel, cho biết AI thực tế đã xuất hiện từ lâu dưới các mô hình học máy truyền thống (AI thế hệ 1.0) chẳng hạn như nhận diện khuôn mặt, phát hiện bất thường,... Tuy nhiên, ba năm gần đây, AI mới thực sự bùng nổ với sự xuất hiện của AI tạo sinh (AI thế hệ 2.0) có khả năng tạo ra nội dung mới như văn bản, hình ảnh, video và được ứng dụng vào nhiều hoạt động chuyên sâu như lập trình, giải bài tập,...
+
+Không thể phủ nhận khai thác sức mạnh của học máy, và các thuật toán nâng cao đang mở ra những tiềm năng tăng trưởng mới đối với doanh nghiệp. Tuy nhiên, theo Thạc sĩ Vũ Thanh Hải, ứng dụng AI để chuyển đổi hoạt động kinh doanh là một điều khó khăn bởi hầu hết các doanh nghiệp hiện nay sẽ đồng thời phải thực hiện hai nhiệm vụ bao gồm áp dụng tốt AI thế hệ 1.0 đồng thời nắm bắt những cơ hội mới từ AI tạo sinh (AI thế hệ 2.0).
+
+Các chuyên gia đều đồng tình ứng dụng AI vào doanh nghiệp là một quá trình dài, các mô hình sẽ cần liên tục đào tạo để trở nên thông minh hơn và đáp ứng hiệu quả nhu cầu của doanh nghiệp. Vì vậy, lãnh đạo phải là những người có tầm nhìn xa.
+
+“Nếu đòi hỏi ứng dụng AI mà 3 tháng sau phải có kết quả, phải tăng thêm doanh thu là điều rất khó. Thế nhưng trí tuệ nhân tạo chắc chắn sẽ tạo ra những tiềm năng khác chẳng hạn như nâng cao trải nghiệm của khách hàng, từ đó có nhiều dữ liệu hơn cho doanh nghiệp”, Thạc sĩ Vũ Thanh Hải nhìn nhận.
+
+Đề cập về vấn đề này, Tiến sĩ Nguyễn Kim Cương, Tổngg giám đốc Công ty Giải pháp công nghệ CGS - thành viên của IMIP GROUP, nhấn mạnh: “Đưa AI vào doanh nghiệp là phải đi từng bước. Các doanh nghiệp phải tìm cách dần biến một mô hình chung thành một mô hình dữ liệu riêng mang lại giá trị thực chất cho doanh nghiệp”.
+
+Trong khi đó, theo Thạc sĩ Vũ Thanh Hải, công nghệ không chỉ có mô hình, nó đặt ra bài toán may đo cho từng doanh nghiệp cho việc xây dựng dữ liệu, quy trình,... Vì vậy, mô hình dù rất tốt nhưng đầu vào chưa tốt cũng không mang lại giá trị cho doanh nghiệp. “Dữ liệu của doanh nghiệp hiện giờ mới chỉ là tài liệu vì vậy điều cần làm bây giờ là tri thức hoá những tài liệu đó để tạo đầu vào đào tạo cho các mô hình AI”, ông Vũ Thanh Hải nói thêm.
+
+Khảo sát Chuyển đổi Kỹ thuật số BDO nhấn mạnh tự động hóa sẽ cho phép lực lượng lao động tập trung vào công việc chiến lược. Tuy nhiên, việc áp dụng rộng rãi các công nghệ AI sẽ đòi hỏi nỗ lực thích ứng từ phía lực lượng lao động để sử dụng hiệu quả các công cụ tiên tiến này.
+
+Nếu không có sự chuẩn bị và đào tạo đầy đủ, các doanh nghiệp có nguy cơ không tận dụng đầy đủ các lợi ích tiềm năng của AI hoặc gặp phải sự kháng cự và mất năng suất. Thành công của AI không chỉ nằm ở sức mạnh tính toán, mà còn nằm ở con người trong thiết kế, vận hành và sử dụng.
+
+PwC ước tính AI dự kiến sẽ đóng góp 15,7 nghìn tỷ USD vào nền kinh tế toàn cầu vào năm 2030. Điều này cho thấy việc nắm bắt và ứng dụng hiệu quả trí tuệ nhân tạo sẽ cho phép các doanh nghiệp đạt những bước tăng trưởng mới.
+
+Khi nói đến việc dự đoán AI sẽ chuyển đổi kinh doanh như thế nào trong tương lai, điều quan trọng cần lưu ý là công nghệ AI trí tuệ nhân tạo vẫn đang trong giai đoạn đầu phát triển và công nghệ này dự kiến sẽ mở rộng đáng kể trong tương lai. Các chuyên gia tin rằng công nghệ này sẽ trở nên hữu ích hơn theo cấp số nhân trong cuộc sống hàng ngày và hoạt động kinh doanh.

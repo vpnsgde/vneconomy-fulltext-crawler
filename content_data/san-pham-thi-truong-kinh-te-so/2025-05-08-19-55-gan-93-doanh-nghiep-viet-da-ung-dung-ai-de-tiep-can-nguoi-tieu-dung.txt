@@ -1,0 +1,27 @@
+Theo Báo cáo “AI for Business: APAC Trends in AI Adoption” do Deloitte thực hiện, gần 93% doanh nghiệp trong nước đã ứng dụng ít nhất một công cụ AI nhằm tiếp cận và tương tác với khách hàng. Trong bối cảnh đó, tại sự kiện Meta Marketing Summit 2025 diễn ra ngày 8/5, Meta đã giới thiệu loạt giải pháp AI mới nhằm hỗ trợ các doanh nghiệp Việt mở rộng tiềm năng tăng trưởng trong nền kinh tế số.
+
+Ông Benjamin Joe, Phó Chủ tịch phụ trách Đông Nam Á của Meta, nhận định: “Người tiêu dùng Việt Nam đang thiết lập một tiêu chuẩn mới trong việc ứng dụng AI vào đời sống hàng ngày. Có đến 15% người tiêu dùng tại đây sử dụng AI để tìm kiếm ý tưởng mua sắm cho mùa lễ – tỷ lệ cao nhất trong số các thị trường được khảo sát. Điều này mở ra cơ hội rất lớn cho doanh nghiệp cá nhân hóa trải nghiệm và tăng tốc chuyển đổi số”.
+
+Tính đến quý 4/2024, đã có hơn 4 triệu nhà quảng cáo trên toàn cầu sử dụng ít nhất một công cụ sáng tạo quảng cáo bằng AI do Meta cung cấp. Một nghiên cứu mới được thực hiện đầu năm 2024 cho thấy các nhà quảng cáo tại khu vực Châu Á - Thái Bình Dương đạt được lợi nhuận trên chi tiêu quảng cáo (ROAS) trung bình là 3,47 USD trên mỗi 1 USD chi tiêu quảng cáo trên nền tảng của Meta, tăng 15% so với năm 2022.
+
+Trong khi đó, ông Khôi Lê, Giám đốc Quốc gia của Meta tại Việt Nam, chia sẻ: “66% doanh nghiệp Việt Nam đang sử dụng AI để giao tiếp với khách hàng và 63% sử dụng để tìm kiếm khách hàng mới. Điều này cho thấy AI không còn là công nghệ của tương lai, mà đã trở thành một phần thiết yếu trong chiến lược tăng trưởng của các doanh nghiệp”.
+
+Đại diện từ Meta cho biết tập đoàn sẽ cam kết mang đến không chỉ các giải pháp AI tiên tiến, mà còn đồng hành cùng doanh nghiệp Việt trong mục tiêu cá nhân hóa trải nghiệm khách hàng, tối ưu hiệu suất và mở rộng cơ hội kinh doanh trong thời đại số.
+
+Nhiều mô hình hợp tác AI giữa Meta và doanh nghiệp Việt đã bắt đầu phát huy hiệu quả. Viettel, với trợ lý pháp lý ảo ứng dụng GenAI trên nền tảng Llama 3.3 (70B), đã giúp nhân viên pháp chế tra cứu văn bản nhanh hơn, chính xác hơn, rút ngắn khoảng 30% thời gian làm việc. Trong khi đó, Cỏ Mềm HomeLab – thương hiệu mỹ phẩm thiên nhiên thuần Việt – đã đạt bước tiến vượt bậc nhờ tích hợp giải pháp quảng cáo của Meta. Chiến dịch của họ ghi nhận mức tăng gấp 1,4 lần đơn hàng, giảm 30% chi phí trên mỗi đơn và nâng ROAS lên 1,4 lần so với trước.
+
+Cũng tại sự kiện, Meta công bố ra mắt ứng dụng riêng của Meta AI, một ứng dụng AI riêng biệt hoạt động trên nền tảng của mô hình Llama 4, mở ra trải nghiệm AI mang tính cá nhân hóa cao hơn. Người dùng hiện có thể trò chuyện không gián đoạn với Meta AI trong một ứng dụng riêng, với mục Discover Feed cho phép khám phá và chia sẻ các câu lệnh phục vụ quá trình sáng tạo.
+
+Meta AI đã được tích hợp sâu và xuyên suốt trên các nền tảng WhatsApp, Messenger, Facebook, Instagram và cả phiên bản web, giúp người dùng dễ dàng sử dụng trợ lý AI mọi lúc, mọi nơi khi cần thiết. Bên cạnh đó, Meta cũng giới thiệu thêm ba giải pháp AI mới dành cho thị trường Việt Nam.
+
+Thứ nhất, Opportunity Score là công cụ mới giúp doanh nghiệp đánh giá và tối ưu hiệu quả chiến dịch quảng cáo gần như theo thời gian thực ngay trong Ads Manager.
+
+Thứ hai, tính năng Advantage  Leads Campaigns giúp tạo tệp khách hàng tiềm năng, giúp doanh nghiệp giảm 14% chi phí trên mỗi khách hàng trong các thử nghiệm ban đầu.
+
+Thứ ba, Transfer with Your Payment App (Chuyển khoản qua ứng dụng thanh toán) cho phép khách hàng thanh toán trực tiếp trong Messenger thông qua các ứng dụng ngân hàng và ví điện tử phổ biến tại Việt Nam.
+
+
+
+Trả lời phỏng vấn VnEconomy bên lề sự kiện về tiến độ triển khai hoạt động sản xuất thiết bị Quest 3S tại Việt Nam trong năm nay (Một dự án từng được ông Nick Clegg, Chủ tịch phụ trách Đối ngoại Toàn cầu của Meta, công bố từ năm 2024), Phó Chủ tịch phụ trách Đông Nam Á của Meta, Benjamin Joe, cho biết từ đầu năm 2025, Meta đã mở rộng hoạt động sản xuất thiết bị thực tế hỗn hợp Quest 3S tại Việt Nam.
+
+Thông qua hợp tác với đối tác sản xuất trong nước, Meta ước tính việc thiết lập dây chuyền sản xuất mới có thể tạo ra tới 1.000 việc làm và đóng góp hàng triệu USD vào nền kinh tế Việt Nam.  Đây là bước đi tiếp theo sau nhiều năm mở rộng danh mục sản phẩm phụ kiện tại Việt Nam, thể hiện cam kết lâu dài của Meta đối với Việt Nam và năng lực sản xuất của thị trường.

@@ -1,0 +1,11 @@
+Viettel cho biết, từ tháng 7/2023, đội ngũ kỹ sư của Viettel đã trực tiếp có mặt tại Ấn Độ để thực hiện lắp đặt, triển khai, vận hành thử nghiệm. Quá trình đào tạo, chuyển giao cho các kỹ sư của QuadGen diễn ra trong vòng hơn 1 tháng. Hiện hệ thống 5G Private (5GP) đã đi vào hoạt động ổn định, đáp ứng đầy đủ các yêu cầu. Viettel đã cùng Quadgen ra mắt hệ thống 5GP với các sản phẩm thiết bị đầy đủ cả 3 phân lớp mạng là mạng truy nhập vô tuyến (trạm gốc Macro, Micro, AIO), mạng truyền dẫn 100G, mạng lõi 5GC.
+
+Hệ thống của Viettel cho phép cung cấp dịch vụ mạng riêng với 2 dịch vụ chính là dữ liệu tốc độ cao (eMBB) và dịch vụ thoại chất lượng cao (VoNR), làm nền tảng kết nối cho các ứng dụng cho nhà máy thông minh, đô thị thông minh, y tế, giáo dục, an ninh...
+
+Theo đánh giá của Chính phủ Ấn Độ, dự kiến đến 2026, thuê bao 5G Ấn Độ có thể đạt 350 triệu thuê bao. Tại thị trường viễn thông lớn thứ hai thế giới này, hiện chưa có một đơn vị nội địa nào có khả năng cung cấp thiết bị viễn thông đáp ứng được đầy đủ các phân lớp mạng hoàn chỉnh. Đây cũng là một đề bài khó đối với phần đông các nhà cung cấp lớn khác trên thế giới. Các doanh nghiệp thường tập trung vào một số phân lớp như trạm gốc hay mạng lõi và phải có sự kết hợp của nhiều vendors mới có thể hoàn thành được một mạng 5GP.
+
+Ông Dr. C.S. Rao, Chủ tịch & Đồng sáng lập của QuadGen, cho biết mục tiêu của Quadgen là tìm kiếm đối tác chiến lược để sản xuất và cung cấp thiết bị 5G cho thị trường Ấn Độ, bởi Chính phủ luôn ưu tiên sử dụng sản phẩm trong nước. Mạng riêng 5G sẽ được triển khai quy mô lớn trong nhiều ngành công nghiệp.
+
+Theo ông Nguyễn Vũ Hà, Tổng Giám đốc Viettel High Tech, thị trường Ấn Độ có những yêu cầu khá đặc thù đối với sản phẩm thiết bị viễn thông, đây là thách thức nhưng cũng là cơ hội lớn vì lợi thế của Viettel là đáp ứng các yêu cầu riêng biệt của khách hàng, dựa trên khả năng làm chủ hệ thống của mình. Từ mạng 5GP, Viettel sẽ tiếp tục tư vấn triển khai mạng 5G công cộng cho các doanh nghiệp viễn thông tại Ấn Độ.
+
+Cũng tại sự kiện trên, Công ty Ai20X (Mỹ), QuadGen (Ấn Độ) và Viettel High Tech (Việt Nam) đã ký kết thỏa thuận hợp tác chiến lược nhằm thúc đẩy đổi mới và tăng trưởng trong lĩnh vực 5G tại Ấn Độ.

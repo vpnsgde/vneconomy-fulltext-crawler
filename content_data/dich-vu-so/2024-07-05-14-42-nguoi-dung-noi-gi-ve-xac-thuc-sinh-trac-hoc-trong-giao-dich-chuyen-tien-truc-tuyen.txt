@@ -1,0 +1,35 @@
+Trình duyệt và công cụ tìm kiếm Cốc Cốc vừa phát hành báo cáo khảo sát ý kiến người dùng về quy định xác thực sinh trắc học trong giao dịch chuyển tiền trực tuyến, dựa trên dữ liệu thu thập từ khảo sát trực tuyến trên nền tảng từ ngày 1/7 - 4/7/2024. Báo cáo đi sâu vào phân tích phản ứng của người dùng, cũng như những quan điểm về lợi ích và lo ngại liên quan đến quy định về xác thực bằng sinh trắc học.
+
+Cụ thể, theo Quyết định số 2345/QĐ-NHNN của Ngân hàng Nhà nước, từ ngày 1/7/2024, tất cả các giao dịch trên 10 triệu đồng/lần hoặc trên 20 triệu đồng/ngày được yêu cầu phải thực hiện xác thực bằng sinh trắc học.
+
+Theo khảo sát của Cốc Cốc, tỉ lệ người dùng sử dụng dịch vụ ngân hàng trực tuyến (bao gồm Internet Banking và Mobile Banking) khá cao và đồng đều ở mọi nhóm tuổi và khu vực. Nhóm tuổi 22-24 chiếm tỉ lệ cao nhất với 77.8%, nhìn chung, nhóm lao động trẻ có xu hướng sử dụng dịch vụ trực tuyến nhiều hơn so với các nhóm tuổi khác. Khu vực 2 thành phố “trọng điểm” Hà Nội và TP.HCM cũng ghi nhận tỉ lệ người dùng cao hơn so với các khu vực khác.
+
+Người dùng Việt ngày càng có nhiều lựa chọn hơn về ngân hàng trực tuyến. Có tới 50% người dùng tham gia khảo sát cho biết họ có sử dụng dịch vụ của từ 2 ngân hàng trở lên. Tỉ lệ này ở nhóm người dùng trẻ đang cao hơn so với nhóm người dùng trên 45 tuổi. Đặc biệt là nhóm 24 - 34 tuổi có đến gần 60% sử dụng nhiều hơn 1 ngân hàng. Theo đó, dữ liệu từ khảo sát của Cốc Cốc chỉ ra TOP 5 ngân hàng có người dùng sử dụng dịch vụ trực tuyến nhiều nhất hiện nay là Vietcombank - BIDV - MB - Agribank - Vietinbank.
+
+Đa số người dùng đã từng thực hiện các giao dịch trên 10 triệu đồng/ lần hoặc trên 20 triệu đồng/ ngày, với tần suất khác nhau. 83.9% đáp viên đã từng phát sinh các giao dịch lớn. Cụ thể, có 45,1% thực hiện thường xuyên (hàng ngày/tuần/tháng) và 38.8% hiếm khi giao dịch với số tiền trên. Thế hệ người dùng Gen X (sinh năm 1965 đến 1980) và Gen Y (sinh năm 1981 - 1996) có tỉ lệ thực hiện giao dịch cao hơn hẳn so với Gen Z (sinh năm 1997 - 2012).
+
+Truyền thông về quy định xác thực sinh trắc học đã đạt hiệu quả nhất định. Báo cáo của Cốc Cốc cho biết việc truyền thông về quy định xác thực sinh trắc học tới người dân đã mang lại những hiệu quả tích cực khi có đến 94% người dùng tham gia khảo sát đã biết đến quy định này.
+
+Trong đó, mạng xã hội và các ứng dụng/ngân hàng chiếm ưu thế, là các kênh thông tin phổ biến nhất. Báo chí với tỉ lệ tiếp cận khá cao tới 37%, cho thấy sự tin tưởng của người dân vào nguồn tin chính thống và chi tiết. Truyền hình với 24.6%, tuy ít phổ biến hơn, nhưng vẫn là kênh tiếp cận quan trọng, đặc biệt đối với những người dùng truyền thống và người lớn tuổi.
+
+Thông tin chi tiết về tỉ lệ người dùng thực hiện cài đặt sinh trắc học, những khó khăn trong quá trình thực hiện cũng như những cảm nhận, trải nghiệm và đề xuất từ người dùng, theo khảo sát, có 75.4% người dùng đã thực hiện cài đặt xác thực sinh trắc học.
+
+Cụ thể, có gần một nửa đáp viên cho biết họ đã thực hiện cập nhật thành công cho tất cả ngân hàng đang sử dụng. Tuy nhiên, do khảo sát được thực hiện ngay sau thời điểm quy định vừa được áp dụng nên dữ liệu vẫn cho thấy có một bộ phận người dùng chưa thực hiện thành công hoặc vẫn còn tồn tại một số ngân hàng chưa thành công.
+
+Khảo sát tại thời điểm này, Hà Nội và TP.HCM hiện đang là hai khu vực có tỉ lệ người dùng thực hiện cài đặt xác thực sinh trắc học thành công tất cả các ngân hàng cao nhất. Khu vực miền Nam (trừ TP. HCM) và khu vực miền Trung có tỉ lệ người dùng gặp khó khăn trong việc cài đặt sinh trắc học cao hơn so với các khu vực khác khi có đến gần 30% chưa thực hiện thành công bất kỳ ngân hàng nào.
+
+Về trải nghiệm người dùng, có hơn 40% đáp viên cảm thấy quá trình thu thập sinh trắc học là rất dễ dàng/ dễ dàng. Tuy nhiên, cũng có hơn 30% người dùng cảm thấy việc thực hiện này rất khó khăn/ khó khăn.
+
+Đánh giá về trải nghiệm cũng có sự khác biệt nhất định giữa các độ tuổi. Nhìn chung, phần lớn người dùng dưới 35 tuổi cảm thấy việc thực hiện cập nhật sinh trắc học khá dễ dàng, với tỉ lệ xấp xỉ 44%, cao hơn gấp 1,2 lần so với nhóm người dùng trên 35 tuổi.
+
+Tuy vậy, quá trình này cũng có không ít vấn đề phát sinh, gây ra những khó khăn nhất định cho người dùng. Gần 2/3 người dùng gặp vấn đề khi thực hiện cập nhật sinh trắc học. Trong số đó, có tới 44% người dùng gặp từ 2 vấn đề trở lên. Người dùng thường gặp phải các vấn đề liên quan căn cước công dân, nhận diện khuôn mặt, thiết bị, thông tin hướng dẫn hay thậm chí là phải ra ngân hàng mới thực hiện được.
+
+Báo cáo của Cốc Cốc cũng cho biết khi được hỏi về vấn đề bảo mật thông tin khi áp dụng sinh trắc học trong giao dịch trực tuyến, có hơn 36% người dùng lo ngại về vấn đề bảo mật, hơn 42% ở trạng thái trung lập và hơn 20% còn lại không lo ngại. Đặc biệt, có tới 50% người dùng 35-44 tuổi lo ngại về việc bảo mật thông tin cá nhân khi sử dụng xác thực sinh trắc học, trong khi tỉ lệ này ở các nhóm tuổi khác dao động từ 24% - 39%.
+
+Người dùng miền Nam cũng thể hiện sự lo ngại cao hơn các khu vực khác với tỉ lệ là 43.6%, trong khi con số này của khu vực miền Bắc là 31.6% và miền Trung là 33.3%.
+
+Về vấn đề an toàn khi sử dụng sinh trắc học, tuy có khoảng 1/3 người dùng lo ngại về vấn đề bảo mật thông tin nhưng đa số họ đều đồng ý rằng xác thực sinh trắc học có thể làm tăng mức độ an toàn cho các giao dịch trực tuyến. Theo khảo sát, có gần 70% đáp viên cho biết họ rất đồng ý/ đồng ý với quan điểm này.
+
+Có 60% người dùng cảm thấy việc sử dụng xác thực sinh trắc học tiện lợi hơn so với phương pháp truyền thống như sử dụng mật khẩu/mã OTP/faceID/mã PIN/câu hỏi bảo mật/xác thực qua email. Nhưng vẫn có 13.7% cho rằng đây là một phương pháp không tiện lợi bằng. Đặc biệt, số liệu từ khảo sát chỉ ra rằng, tỉ lệ người dùng đánh giá “tiện lợi” của các khu vực khác cao hơn so với người dùng sống tại Hà Nội và TP.HCM.
+
+Quy định xác thực sinh trắc học trong giao dịch trực tuyến được đưa ra nhằm mục đích tăng cường bảo mật và bảo vệ người dùng trước các rủi ro. Tuy nhiên, do quy định chỉ mới được áp dụng chính thức chưa đầy 1 tuần, người dùng vẫn cần thời gian để thực hiện chuyển đổi và thích nghi. Việc triển khai cũng vẫn còn gặp một số khó khăn nhất định.

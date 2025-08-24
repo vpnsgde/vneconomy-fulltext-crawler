@@ -1,0 +1,13 @@
+SIMATIC IOT2050 được thiết kế cho các giải pháp công nghệ thông tin trong công nghiệp, dùng để thu thập, phân tích và truyền dữ liệu trong môi trường sản xuất.
+
+Ngoài ra, SIMATIC IOT2050 cũng có thể được trang bị thêm vào hệ thống đang vận hành, đóng vai trò như cổng kết nối thông tin giữa những nguồn dữ liệu khác nhau, phân tích dữ liệu và chuyển dữ liệu cần đánh giá tới một hệ thống điện toán đám mây.
+
+Đặc biệt, SIMATIC IOT2050 còn được sử dụng trong bảo trì dự đoán cho máy móc và liên kết dữ liệu sản xuất với hệ thống ERP (hệ thống hoạch định nguồn lực doanh nghiệp) nhằm giảm thiểu thời gian ngừng sản xuất.
+
+Đại diện Siemens Đông Nam Á và Việt Nam cho biết: Các ứng viên dự thi sẽ có cơ hội quý giá để cập nhật các xu thế mới nhất về tự động hóa và số hóa, cũng như có thể tiếp cận những công nghệ hiện đại của Siemens, được kết nối cũng như mở rộng quan hệ nghề nghiệp, và quan trọng hơn hết là cơ hội được sử dụng kiến thức và kỹ năng của mình để thiết kế và phát triển các ứng dụng sáng tạo.
+
+Đồng thời mong muốn tạo điều kiện phát triển những người có kỹ năng giải quyết vấn đề sáng tạo và tìm kiếm những nhà thiết kế giải pháp tài năng cần thiết cho quán trình chuyển đổi số ở doanh nghiệp Việt Nam hiện nay.
+
+Theo Ban tổ chức, tất cả các bài dự thi sẽ được đăng tải trên trang Facebook của Siemens Việt Nam để công chúng bình chọn. Có 4 vòng thi và tại vòng chung kết, 10 cá nhân/nhóm xuất sắc nhất sẽ lần lượt trình bày ý tưởng và giải pháp của mình trước Ban Giám khảo. Người chiến thắng sẽ nhận được giải thưởng giá trị.
+
+Được biết, cuộc thi “Tìm kiếm ứng dụng số hóa trong công nghiệp với SIMATIC IOT2050” diễn ra từ ngày 30/8 đến ngày 11/11/2021.

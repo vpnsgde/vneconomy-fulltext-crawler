@@ -1,0 +1,31 @@
+Trong lĩnh vực âm nhạc, vi phạm quyền sở hữu các sáng tạo để đào tạo các mô hình AI đã trở thành đề tài bàn luận sôi nổi trong 2 năm gần đây. Vào tháng 4 vừa qua, hàng trăm nghệ sĩ và nhạc sĩ bao gồm Billie Eilish, Smokey Robinson... đã đồng loạt ký vào một bức thư ngỏ kêu gọi chống lại cái mà họ gọi là “sự tấn công vào khả năng sáng tạo của con người” do trí tuệ nhân tạo gây ra.
+
+Hồi tháng 3/2024, Tennessee trở thành tiểu bang đầu tiên của Mỹ thông qua luật bảo vệ các nhạc sỹ, người biểu diễn và các vị trí nghề nghiệp khác trong ngành âm nhạc trước những nguy cơ tiềm ẩn của trí tuệ nhân tạo. Tuy nhiên, luật không đề cập đến việc sử dụng tác phẩm của các nghệ sĩ để huấn luyện các mô hình AI, điều này đã gây ra một số vụ kiện pháp lý chống lại các công ty như OpenAI.
+
+ĐỘNG THÁI CỨNG RẮN CỦA CÁC HÃNG THU ÂM
+
+Mới nhất, Sony Music Entertainment, Warner Records, Capitol Records và những hãng thu âm khác đã đệ đơn kiện vi phạm bản quyền lên tòa án liên bang ở Boston và New York, vào ngày 24/6. “Suno và Udio đã sao chép tác phẩm để đời của các nghệ sĩ và khai thác nó để kiếm lợi nhuận mà không có sự đồng ý hoặc trả tác quyền”, Giám đốc điều hành Hiệp hội Công nghiệp Ghi âm Hoa Kỳ (RIAA) Mitch Glazier cho biết trong một tuyên bố.
+
+Trong số đó, một vụ kiện được đệ trình lên tòa án liên bang ở Boston chống lại Suno AI và vụ còn lại ở New York nhằm vào Uncharted Labs, nhà phát triển của Udio AI. Hiệp hội Công nghiệp ghi âm Hoa Kỳ (RIAA) là đơn vị khởi xướng các vụ kiện này, với mục tiêu khẳng định "không có ngoại lệ nào cho công nghệ AI trước luật bản quyền và các công ty AI không thể đứng ngoài vòng pháp luật".
+
+Họ yêu cầu tòa án ban hành lệnh cấm sử dụng trong tương lai và bồi thường thiệt hại lên tới 150.000 USD cho mỗi tác phẩm bị vi phạm. Nếu bị kết tội, số tiền bồi thường mà Suno và Udio phải gánh chịu có thể lên tới con số khổng lồ. Động thái cứng rắn này cho thấy rõ quyết tâm của ngành công nghiệp âm nhạc trong việc thiết lập một khuôn khổ pháp lý rõ ràng cho AI, đồng thời răn đe những công ty khác có ý định huấn luyện mô hình AI mà chưa được sự đồng ý.
+
+Suno đã ra mắt sản phẩm đầu tiên vào năm ngoái và tuyên bố hơn 10 triệu người đã sử dụng công cụ của họ để sáng tạo nhạc. Công ty này có quan hệ đối tác với Microsoft, hiện thu phí hàng tháng cho dịch vụ của mình và gần đây đã công bố rằng họ huy động được 125 triệu USD từ các nhà đầu tư.
+
+Trong khi đó, Udio, có trụ sở tại New York, được hỗ trợ bởi các nhà đầu tư mạo hiểm nổi tiếng như Andreessen Horowitz. Ứng dụng này ra mắt công chúng vào tháng 4/2024, và nhanh chóng nổi tiếng vì là công cụ được sử dụng để tạo ra "BBL Drizzy" - một bài hát “chế” liên quan đến một mẫu thuẫn giữa hai rapper nổi tiếng là Kendrick Lamar và Drake.
+
+Trong quá khứ, các công ty AI đã tranh luận rằng việc sử dụng dữ liệu của họ là hợp pháp theo nguyên tắc sử dụng công bằng, so sánh việc học máy (machine learning) của các công cụ AI với cách con người học bằng cách đọc, nghe và xem các tác phẩm. Tuy nhiên, trong các đơn kiện, các hãng thu âm cho rằng những công ty AI này chỉ đơn giản là đang kiếm tiền từ việc sao chép các bài hát.
+
+RIAA khẳng định các bản nhạc do phần mềm của hai công ty này tạo ra giống với các tác phẩm gốc đến mức khó tin, chứng tỏ chúng đã được huấn luyện bằng chính những bản nhạc có bản quyền.  Theo The Wall Street Journal, các công ty AI này bị cáo buộc tạo ra các bản nhạc giống hệt "My Girl" của The Temptations, "American Idiot" của Green Day và "All I Want for Christmas Is You" của Mariah Carey, cùng nhiều ca khúc nổi tiếng khác. Thậm chí, phần mềm của họ còn có thể tạo ra giọng hát "giả mạo" không thể phân biệt với giọng thật của các nghệ sĩ như Lin-Manuel Miranda, Bruce Springsteen, Michael Jackson và ABBA.
+
+AI CẦN TUÂN THỦ “LUẬT CHƠI”
+
+RIAA khẳng định họ không phản đối việc AI học hỏi từ các tác phẩm có bản quyền. Tuy nhiên, việc sử dụng dữ liệu này mà không có giấy phép và sự đồng ý của chủ sở hữu bản quyền là hành vi vi phạm pháp luật, bởi các hãng thu âm (và chính các nghệ sĩ) sẽ không nhận được bất kỳ khoản lợi nhuận nào. Họ cho rằng AI không thể biện minh cho việc các công ty này không tuân thủ "luật chơi" và cảnh báo rằng "việc đánh cắp quy mô lớn" các bản ghi âm đe dọa "toàn bộ hệ sinh thái âm nhạc".
+
+Trên thực tế, ngành công nghiệp ghi âm đang nỗ lực xây dựng các thỏa thuận hợp tác với các công ty AI, cho phép họ sử dụng âm nhạc một cách hợp pháp và đảm bảo lợi ích cho cả hai bên. Điển hình là thỏa thuận giữa Universal và SoundLabs, cho phép SoundLabs tạo mô hình giọng hát cho các nghệ sĩ nhưng vẫn đảm bảo quyền sở hữu và kiểm soát sản phẩm cuối cùng cho chính các nghệ sĩ. Universal cũng hợp tác với YouTube trong thỏa thuận cấp phép và trả phí bản quyền cho nội dung do AI tạo ra.
+
+Tại Việt Nam, nhiều chủ đề quanh việc ứng dụng trí tuệ nhân tạo (AI) vào sáng tạo âm nhạc cũng đã được đưa ra trong hội thảo khoa học quốc gia "Ứng dụng trí tuệ nhân tạo vào sáng tác âm nhạc đương đại", diễn ra tại Trường ĐH Văn Hiến (TP.HCM) mới đây. Các diễn giả trong hội thảo đều nhận định AI là xu thế tất yếu của thời đại, ngày càng phát triển đa lĩnh vực chứ không phải chỉ âm nhạc. Vì thế, việc các nhạc sĩ sử dụng và thích ứng với việc sử dụng AI trong sáng tạo sẽ ngày càng phổ biến.
+
+Nhưng ở góc độ khác, nhiều diễn giả cho rằng chỉ nên xem AI là trợ lý, công cụ hỗ trợ trong quá trình sáng tác bởi AI vẫn còn những hạn chế, thách thức, nhất là với nhạc dân ca, dân gian của Việt Nam. Về vấn đề tác quyền, đại tá - nhạc sĩ Nguyễn Mai Kiên lấy ví dụ với phần mềm Suno, phía Suno cho biết nếu dùng mà không mua bản quyền thì chỉ được phép chia sẻ bài hát tạo ra từ AI này, không kinh doanh. Ngược lại, nếu người dùng mua bản quyền theo tháng thì sẽ được phép dùng ca khúc tạo ra để kinh doanh, kiếm tiền từ YouTube hoặc các nền tảng mạng khác.
+
+“Hiện nay, các điều luật về bản quyền chưa bắt kịp với sự phát triển của AI. Các tổ chức và nhà làm luật cần sớm đưa ra các quy định mới để bảo đảm quyền lợi cho các nghệ sĩ và nhà sản xuất âm nhạc, đồng thời thúc đẩy sự sáng tạo và phát triển của AI trong lĩnh vực này”, ThS-nhạc sĩ Nông Xuân Hiểu đề xuất.

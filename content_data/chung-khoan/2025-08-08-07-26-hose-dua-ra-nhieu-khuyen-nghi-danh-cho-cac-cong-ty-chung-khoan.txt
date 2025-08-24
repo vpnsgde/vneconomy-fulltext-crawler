@@ -1,0 +1,21 @@
+Sở Giao dịch Chứng khoán Tp.HCM (HOSE) vừa có thông báo về an toàn an ninh mạng trên thị trường chứng khoán nhân Ngày An minh mạng Việt Nam.
+
+Cụ thể: Ghi nhận từ đầu năm 2025 đến nay, thị trường chứng khoán Việt Nam đã có sự tăng trưởng nhanh. Số lượng tài khoản chứng khoán đã vượt hơn 10 triệu, thị trường chứng khoán đã có nhiều phiên giao dịch với khối lượng và giá trị giao dịch rất lớn, như ngày 04/08/2025, trên HOSE ghi nhận khối lượng giao dịch đạt hơn 2,9 tỷ chứng khoán, tương ứng với giá trị giao dịch 78.538 tỷ đồng (khoảng 3 tỷ USD) – xác lập kỷ lục mới về khối lượng và giá trị giao dịch từ trước đến nay của thị trường chứng khoán Việt Nam.
+
+Với sự phát triển nhanh chóng của công nghệ thông tin trong thời đại số hóa 4.0, các hệ thống giao dịch chứng khoán đứng trước yêu cầu cao trong việc phát triển hạ tầng công nghệ để đáp ứng nhu cầu số hóa cũng như đối phó với các mối đe dọa an ninh mạng ngày càng gia tăng.
+
+Vừa qua, Sở Giao dịch Chứng khoán Thành phố Hồ Chí Minh (HOSE), với vai trò là chủ đầu tư, cùng các đơn vị liên quan đã triển khai gói thầu hệ thống công nghệ thông tin thống nhất cho thị trường chứng khoán Việt Nam. Hệ thống này gồm nhiều phân hệ chức năng liên kết chặt chẽ, được thiết kế nhằm khai thác tối đa hiệu suất vận hành thị trường, nâng cao tính đa dạng sản phẩm và đảm bảo an toàn, ổn định cho các hoạt động giao dịch hàng ngày.
+
+Do tính liên kết cao của hệ thống, an toàn thông tin được HOSE chú trọng nhằm giảm thiểu rủi ro từ các mối đe dọa trên không gian mạng. Theo đó, nhân dịp Ngày An ninh mạng Việt Nam 06/8/2025, HOSE đã có những khuyến cáo các tổ chức liên quan một số biện pháp quan trọng cần lưu ý để bảo vệ chính mình cũng như thị trường.
+
+Cụ thể: HOSE đã có các khuyến nghị dành cho các Công ty chứng khoán và hãng tin như: Tuân thủ các quy định về kết nối giao dịch trực tuyến (mô hình và đặc tả kết nối, đường truyền và thiết bị dự phòng…); Triển khai hệ thống giám sát, phát hiện và cảnh báo sự cố an toàn thông tin 24/7; Thực hiện kiểm tra, đánh giá an toàn thông tin và quản lý rủi ro;
+
+Phòng chống mã độc, virus, tấn công có chủ đích…; Thực hiện các biện pháp kỹ thuật để triển khai, áp dụng chính sách đặt mật khẩu mạnh, thay đổi mật khẩu định kỳ và phân cấp, phân quyền truy cập vào hệ thống đồng thời triển khai áp dụng xác thực đa yếu tố (MFA) và quản lý tài khoản đặc quyền (PIM/PAM) cho tài khoản quản trị, hệ thống quan trọng.
+
+Thực hiện sao lưu định kỳ theo nguyên tắc 3-2-1 (có 03 bản sao lưu trên 02 thiết bị khác nhau trong đó có 01 bản sao lưu ngoại tuyến) và xây dựng kế hoạch khôi phục sau thảm họa; Xây dựng kịch bản hoặc kế hoạch ứng phó sự cố an toàn thông tin mạng;
+
+Thực hiện đào tạo nhận thức và kỹ năng về an toàn thông tin cho nhân viên và nhà đầu tư; Triển khai diễn tập thực chiến đảm bảo an toàn thông tin; Tham gia tổ chức ứng cứu sự cố an toàn thông tin của các cơ quan quản lý nhà nước về an toàn thông tin.
+
+HOSE cũng cho biết an ninh mạng không chỉ là nhiệm vụ của các đơn vị quản lý thị trường và công ty chứng khoán mà còn là trách nhiệm chung của toàn bộ nhà đầu tư. Mỗi người trang bị kiến thức và biện pháp bảo vệ sẽ góp phần giữ cho thị trường chứng khoán Việt Nam vận hành an toàn, ổn định hơn.
+
+Việc phòng chống tấn công mạng đòi hỏi sự chủ động, phối hợp chặt chẽ và nỗ lực liên tục từ tất cả các bên liên quan, góp phần bảo vệ tài sản của nhà đầu tư, duy trì sự minh bạch và phát triển bền vững của thị trường.

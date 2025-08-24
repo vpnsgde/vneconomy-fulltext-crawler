@@ -1,0 +1,35 @@
+Phát biểu tại sự kiện, Giáo sư Hồ Tú Bảo, một trong số ít nhà khoa học Việt Nam có tầm ảnh hưởng quốc tế sâu rộng, hiện là Giám đốc Khoa học tại Viện John von Neumann, đặc biệt nhấn mạnh tiềm năng đột phá cho các doanh nghiệp công nghệ, đến từ “bước đệm” thể chế Nghị quyết 57 cùng Luật Khoa học, Công nghệ và Đổi mới sáng tạo – vừa được Chính phủ thông qua.
+
+Trước hàng chục doanh nghiệp công nghệ, Giáo sư khẳng định Luật mới đã xác lập rõ ràng đổi mới sáng tạo, không còn chỉ là một khẩu hiệu, mà là động lực then chốt cho sự phát triển quốc gia, nhất là với một quốc gia đi sau như Việt Nam.
+
+Trong 100 triệu dân, chỉ một nhóm nhỏ sẽ tạo ra đổi mới sáng tạo, trong đó lực lượng này chính là những doanh nghiệp đang có mặt tại sự kiện. Với phần còn lại, toàn dân cũng cần sử dụng sản phẩm một cách đổi mới, sáng tạo.
+
+Thế nhưng, để đổi mới sáng tạo thành dòng chảy rộng khắp, sẽ phụ thuộc nhiều vào năng lực của các doanh nghiệp công nghệ Việt Nam, bằng việc tạo ra các sản phẩm thiết thực, gắn chặt với những bài toán phát triển kinh tế - xã hội.
+
+Đóng góp từ góc nhìn thực tiễn, ông Phạm Anh Đới, đồng sáng lập và Giám đốc Học viện Agile, cho rằng AI đang trở thành công cụ khuếch đại mạnh mẽ năng lực của con người. Nhờ AI, con người có thể tập trung nhiều hơn vào các chức năng chiến lược và phát triển đội ngũ – những nhiệm vụ đặt con người làm trung tâm.
+
+Ở cấp độ cơ bản, AI giống như một trợ lý, hỗ trợ tra cứu thông tin, thu thập dữ liệu thị trường, tổng hợp báo cáo tin nhắn, báo cáo doanh số, gửi cảnh báo sớm… Các “nhân viên AI” này làm việc không ngừng nghỉ, đảm nhiệm các tác vụ có thể tự động hóa, góp phần tiết kiệm thời gian và nâng cao hiệu quả vận hành.
+
+Ở cấp độ cao hơn, AI đóng vai trò như một đối tác tư duy: cùng nhà quản lý xây dựng ý tưởng, kiểm tra giả thuyết, phản biện lập luận và hỗ trợ tư duy đa chiều, tư duy hệ thống. “AI không thay thế tư duy con người, mà giúp con người tư duy tốt hơn,” ông Đới nói.
+
+Theo báo cáo của Goto, 82% nhà phát triển cho biết họ sử dụng các công cụ lập trình tích hợp AI hàng ngày hoặc hàng tuần. Trong số này, 59% thường xuyên sử dụng ba công cụ AI trở lên, và 20% nhà quản lý hiện đang điều phối đồng thời năm công cụ hoặc nhiều hơn. Tuy vậy, báo cáo cũng chỉ ra chỉ 28% lập trình viên thực sự tin tưởng vào chất lượng mã do AI tạo ra.
+
+Đại diện HBLAB cho rằng rào cản lớn nhất trong việc ứng dụng AI vào lập trình không nằm ở kỹ thuật, mà đến từ yếu tố tâm lý và văn hóa làm việc – một sự chuyển đổi đòi hỏi thay đổi tư duy sâu sắc (“culture shift”). Nhiều lập trình viên, đặc biệt ở cấp độ junior (dưới 2 năm kinh nghiệm làm việc thực tế), lo ngại AI sẽ thay thế họ, khiến vai trò của họ trở nên mờ nhạt.
+
+Trong khi đó, một bộ phận các lập trình viên kỳ cựu lại hoài nghi chất lượng mã do AI sinh ra, cho rằng những đoạn code này không sạch, không tuân thủ các quy chuẩn và mất nhiều thời gian để điều chỉnh lệnh đầu vào cho mô hình AI nhằm đạt được kết quả mong muốn.
+
+Ngoài ra, sức ỳ trong quy trình làm việc và tâm lý ngại thay đổi cũng là rào cản lớn. Không ít người vẫn chưa sẵn sàng học cách làm việc mới có sự hỗ trợ của AI.
+
+Cũng theo các chuyên gia, nếu sử dụng không cẩn trọng, AI có thể làm trầm trọng thêm nhiều rủi ro kỹ thuật. Những đoạn mã do AI tạo ra có thể chứa lỗ hổng bảo mật như SQL injection, XSS hoặc hardcoded secrets nếu prompt đầu vào không rõ ràng. Ngoài ra, còn tồn tại nguy cơ mã bị sao chép từ nguồn không rõ ràng, dẫn đến vi phạm bản quyền. Trong nhiều trường hợp, nếu AI bị lạm dụng chỉ để “làm cho xong việc”, điều này có thể dẫn đến nợ kỹ thuật, khiến hệ thống về lâu dài trở nên khó bảo trì.
+
+Ngay cả khi AI tạo mã rất nhanh, chất lượng đầu ra vẫn cần được kiểm soát nghiêm ngặt. Nếu quy trình kiểm duyệt không thay đổi kịp thời, bug có thể gia tăng, các lỗ hổng bảo mật dễ bị bỏ sót và phần mã sinh ra có thể không đồng nhất với kiến trúc hiện có. Cuối cùng, AI không thể thay thế tư duy thiết kế, hiểu biết về sản phẩm và kiến thức nghiệp vụ – những yếu tố cốt lõi chỉ con người mới có thể đảm nhiệm.
+
+Ứng dụng AI không thể chỉ dừng ở việc “thêm một công cụ mới”, mà đòi hỏi doanh nghiệp phải xây dựng văn hóa học hỏi liên tục, sẵn sàng thử nghiệm, thất bại và cải tiến, đặc biệt là ở tầng lớp lãnh đạo kỹ thuật và quản lý sản phẩm. Các doanh nghiệp tiên phong sẽ là những đơn vị không chỉ làm chủ công nghệ, mà còn dẫn dắt sự thay đổi tư duy, từ phòng thủ trước AI sang chủ động khai thác nó như một đối tác sáng tạo.
+
+Câu chuyện AI, vì thế, không chỉ là câu chuyện công nghệ, mà là câu chuyện của sự chuyển hóa về cách làm việc, tổ chức lại nguồn lực và định nghĩa lại vai trò con người trong kỷ nguyên số.
+
+
+
+AI Day không chỉ là dịp để các lãnh đạo, quản lý và người làm công nghệ cùng nhau trao đổi kinh nghiệm triển khai AI trong doanh nghiệp, mà còn đánh dấu lễ ra mắt Cộng đồng AI Hanoi Engineering – một sáng kiến nhằm kết nối các kỹ sư, chuyên gia công nghệ tại Hà Nội, cùng phát triển năng lực và lan tỏa tri thức trong thời đại AI bùng nổ.
+
+AI Day không chỉ là dịp để các lãnh đạo, quản lý và người làm công nghệ cùng nhau trao đổi kinh nghiệm triển khai AI trong doanh nghiệp, mà còn đánh dấu lễ ra mắt Cộng đồng AI Hanoi Engineering – một sáng kiến nhằm kết nối các kỹ sư, chuyên gia công nghệ tại Hà Nội, cùng phát triển năng lực và lan tỏa tri thức trong thời đại AI bùng nổ.

@@ -1,0 +1,29 @@
+Các nhà nghiên cứu cho rằng các miếng vaccine có kim siêu nhỏ có thể  cho phép tiến hành việc đưa vaccine vào da một cách dễ dàng và không gây đau. Không giống như kim tiêm, miếng dán không gây tổn thương và vì chỉ sử dụng một lần nên không có nguy cơ lây nhiễm chéo.
+
+Thông thường, các vaccine hiện tại, nhất là vaccine Covid-19, phải bảo quản trong tủ đông, nhiệt độ 2 - 8 độ C hoặc tủ âm sâu tới -70 độ C. Người dân cũng không được tự tiêm mà cần đến sự trợ giúp của nhân viên y tế.  Trong khi đó, miếng dán vaccine sẽ giải quyết được các vấn đề này. Người dân có thể tự sử dụng, không cần bảo quản nhiệt độ đặc biệt. Miếng dán vaccine sẽ hòa tan vào da - nơi có nhiều tế bào miễn dịch nên thường có hiệu quả hơn. Theo Sci Tech Daily, điều này giúp tỷ lệ bao phủ tiêm chủng nhanh hơn.
+
+Nhóm nghiên cứu tại Mỹ mới đây cho hay họ dự định kết hợp với Pfizer, Moderna để phát triển vaccine Covid-19 dạng dán. Theo đó, nhóm nghiên cứu từ Đại học Stanford và Đại học Bắc Carolina, Mỹ, công bố nghiên cứu về miếng dán vaccine 3D trên Kỷ yếu của Viện Hàn lâm Khoa học Quốc gia (Proceedings of the National Academy of Sciences - PNAS).
+
+Miếng dán vaccine của họ không cần sử dụng kim tiêm, có thể mang tới phản ứng miễn dịch mạnh hơn nhiều lần so với phương pháp truyền thống. Sau khi phát triển về mặt công nghệ, nhóm nghiên cứu sẽ liên kết với vaccine Covid-19 theo công nghệ mRNA như Pfizer, Moderna để cho ra đời phiên bản mới. Sau đó, họ sẽ thử nghiệm công nghệ vaccine này, giúp giảm bớt áp lực, đau đớn với người được tiêm chủng, nhất là những trường hợp bị sợ kim tiêm.
+
+Miếng dán polyme có kích thước 1 cm2, chứa 100 microneedles (vi tiêm) được in 3D. Các kim dài 700 micromet; đủ sâu để thấm vào da, từ đó đưa vaccine vào cơ thể. Khi thử nghiệm trên chuột, các nhà nghiên cứu nhận thấy miếng dán vaccine tạo phản ứng kháng thể cao hơn 20 lần so với tiêm kim truyền thống sau 3 tuần. Kết quả này cao hơn 50 lần sau một tháng.
+
+Theo bà Shaomin Tian, đồng tác giả nghiên cứu, thách thức hiện tại của công nghệ sản xuất miếng dán vaccine là khó sản xuất hàng loạt các vi tiêm. Song, nhóm chuyên gia của Mỹ đã giải quyết được vấn đề này nhờ công nghệ in 3D trực tiếp các microneedeles.
+
+Hồi tháng 6, Công ty Vaxxas của Australia cũng thông báo cuộc thử nghiệm đối với vaccine ngừa Covid-19 Hexapro của Đại học Texas (Mỹ) đã cho thấy những kết quả tích cực. Hexapro là loại vaccine sử dụng miếng dán mà không dùng phương pháp tiêm.
+
+Tiến sĩ David Muller, người phụ trách các cuộc thử nghiệm lâm sàng, cho biết các thử nghiệm sử dụng miếng dán vaccine Hexapro trên chuột đang cho kết quả ấn tượng, thậm chí còn tốt hơn so với kết quả sử dụng một loại vaccine dạng tiêm. Cụ thể, kết quả thử nghiệm cho thấy đã xuất hiện phản ứng trung hòa kháng thể đối với Covid-19 với chỉ một liều duy nhất.
+
+Miếng dán có hàng nghìn "vi tiêm" (microprojections) hoặc kim nhỏ trên bề mặt chứa vaccine Hexapro. Tiến sĩ Muller khẳng định những miếng dán này khi đặt lên da sẽ giúp tạo ra phản ứng miễn dịch ngay lập tức và mạnh hơn nhiều so với phương pháp tiêm thông thường. Lý giải về điều này, ông Muller cho rằng cơ thể có thể sản sinh phản ứng với hỗn hợp các tín hiệu tổn thương dù là rất nhỏ và tín hiệu miễn dịch, đồng thời sự tác động cùng lúc ở nhiều điểm trên da sẽ thu hút nhiều tế bào miễn dịch, qua đó giúp cơ thể tạo được phản ứng miễn dịch mạnh mẽ.
+
+
+
+Tiến sĩ Muller thông tin: "Bạn chỉ cần ấn nhẹ miếng dán lên da, và 5.000 kim siêu nhỏ sẽ đưa vaccine vào da mà gần như không thể nhận thấy. Cơ thể luôn phản ứng với những tín hiểu tổn thương rất nhỏ và bên dưới lớp da có rất nhiều tế bào miễn dịch, vì vậy bạn sẽ có được phản ứng miễn dịch rất mạnh nhờ công nghệ này".
+
+Hexapro là loại vaccine tương đối ổn định, kết quả thử nghiệm cho thấy miếng dán vaccine này có thể bảo quản trong ít nhất 30 ngày ở nhiệt độ 25 độ C và một tuần ở 40 độ C. Giáo sư Robert Booy, Giám đốc Y tế của Vaxxas, đồng thời là chuyên gia về vaccine và các bệnh truyền nhiễm tại Đại học Sydney, cho biết công ty đang làm việc để bảo đảm tài trợ cho các thử nghiệm lâm sàng đối với việc sử dụng miếng dán vaccine vi kim.
+
+Mặc dù đây không phải là phương pháp và loại vaccine ưu tiên trong cuộc chiến chống dịch hiện nay nhưng những thử nghiệm này có thể cực kỳ hữu ích trong việc ứng phó các biến thể mới của virus SARS-CoV-2 trong tương lai. Bên cạnh đó, phương pháp tiếp nhận vaccine thông qua miếng dán có thể giúp tạo điều kiện tiếp cận đến các khu vực rừng, núi hoặc quần đảo xa xôi của bất kỳ quốc gia nào ở châu Á hoặc châu Phi khi mà các vaccine hiện tại đang được sử dụng gặp khó khăn trong việc bảo quản và vận chuyển.
+
+Công nghệ sử dụng miếng dán vaccine cũng từng được tiến sĩ Nguyễn Đức Thành và nhóm nghiên cứu Nguyen Lab tại ĐH Connecticut (Mỹ) phát triển từ đầu năm 2021. Miếng dán vaccine được nhóm phát triển dựa trên phương pháp sản xuất SEAL (StampEd Asembly of Polymer Layer) và công nghệ sản xuất chip máy tính giúp tạo ra những vi hạt nhỏ được điều chỉnh sẵn, có tác dụng nhả vaccine vào những thời điểm khác nhau và mô phỏng quá trình đưa thuốc vào cơ thể.
+
+"Da sẽ tự lành và bao bọc các vi kim này bên trong. Sau khi hoàn thành quá trình đưa vaccine vào cơ thể, các vi kim này tự tiêu và biến mất khỏi da", TS Thành nói. Anh cho biết, việc đưa vaccine vào da đồng thời làm tăng hiệu quả của thuốc bởi da có rất nhiều tế bào miễn dịch để phản ứng với các kháng nguyên vaccine. Như vậy, miếng dán này vừa nâng cao chất lượng vaccine và giúp ích rất nhiều trong việc tiếp nhận đầy đủ liều lượng theo cách thuận tiện nhất.

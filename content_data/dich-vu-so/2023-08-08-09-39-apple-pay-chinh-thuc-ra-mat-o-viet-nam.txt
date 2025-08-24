@@ -1,0 +1,27 @@
+Mặc dù danh sách các quốc gia có hỗ trợ Apple Pay chính thức của Apple tính đến thời điểm sáng 8/8 vẫn cập nhật tên Việt Nam, song một bộ phận người dùng cho biết họ vẫn có thể thêm thông tin thẻ của một số ngân hàng vào thiết bị của mình và thực hiện thanh toán một chạm.
+
+Như vậy Việt Nam trở thành nước thứ ba tại khu vực Đông Nam Á hỗ trợ Apple Pay, sau Malaysia và Singapore.
+
+Từ tháng 7, việc Apple Pay sắp ra mắt tại Việt Nam được nhắc tới nhiều trên mạng xã hội, các diễn đàn công nghệ, xuất phát từ chuyện nhiều người dùng sản phẩm Apple có thể thêm thẻ ngân hàng vào ứng dụng Apple Pay.
+
+Cùng khoảng thời gian, một ngân hàng tại Việt Nam từng đăng thông báo về việc chuẩn bị hỗ trợ dịch vụ Apple Pay.
+
+Thông tin càng nóng hơn khi ngày 5/8, trang tin chuyên về “nhà Táo” Apple Insider đăng tải bài viết nhắc tới Việt Nam và Chile là hai nước tiếp theo sẽ có mặt trong danh sách quốc gia khả dụng với ứng dụng này.
+
+Theo đó, Apple Pay đang dần mở rộng thị trường của Apple Pay. Trong bài viết, Apple Insider trích dẫn thông tin từ ShrimpApplePro trên X (trước là Twitter) – một tài khoản chuyên rò rỉ thông tin Apple - đề cập đến danh sách những công ty đầu tiên sẽ hỗ trợ Apple Pay tại Việt Nam, bao gồm những cái tên như Starbucks, McDonald's và Booking.com.
+
+Bên cạnh đó, tài khoản này cũng khẳng định việc Apple ra mắt dịch vụ của mình tại Việt Nam vào ngày 8/8.
+
+Còn tại Chile, tin đồn được củng cố khi Transbank, ngân hàng kết nối dịch vụ liên ngân hàng ở Chile, đăng tải bài đăng với nội dung chào mừng Apple Pay đến với hệ thống mạng của mình. Tuy nhiên, bài đăng đã bị xóa khỏi chế độ xem. Lý do được nhiều người đồn đoán là do thông tin chính thức chưa được phép tiết lộ.
+
+Ra mắt vào tháng 10/2014 tại Mỹ, Apple Pay là dịch vụ thanh toán di động, sử dụng công nghệ thanh toán nhanh, không dây. Nền tảng này dành riêng cho các sản phẩm của Apple sản xuất.
+
+Theo đó, người dùng iPhone hoặc Apple Watch có thể thêm thẻ ngân hàng, thẻ thành viên, vé tàu xe, máy bay vào thiết bị của mình thông qua ví Apple Wallet hoặc ứng dụng riêng và chi trả thông qua thiết bị đó.
+
+Hình thức này tiện ích cho những người dùng đa dạng thẻ ghi nợ, thẻ tín dụng và không cần đem nhiều thẻ cứng vật lý theo người. Người dùng thực hiện sẽ đưa thiết bị Apple gần máy thanh toán tại siêu thị, nhà hàng, quán ăn để trả tiền dịch vụ.
+
+Đây là hình thức thanh toán không tiếp xúc, được cho là an toàn hơn cách thức truyền thống, khi khách hàng không phải lo lắng chuyện lộ thẻ thông tin thẻ ngân hàng ra ngoài. Giao dịch được xác thực bằng mật khẩu, vân tay TouchID hoặc nhận dạng khuôn mặt FaceID.
+
+Theo thông báo của Apple, Apple Pay cam kết bảo mật cho khách hàng khi thông tin thẻ chỉ được lưu trên thiết bị người dùng, không truyền về máy chủ của hãng.
+
+Tính đến thời điểm hiện tại, nền tảng thanh toán này có mặt ở hơn 75 quốc gia và dự kiến còn tiếp tục ra mắt ở các quốc gia mới khác trong thời gian tới. Tại thị trường Đông Nam Á, trước Việt Nam, mới có 2 quốc gia là Singapore và Malaysia, người dùng Apple có thể thanh toán bằng Apple Pay.

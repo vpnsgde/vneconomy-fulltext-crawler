@@ -1,0 +1,25 @@
+Tại cuộc họp về triển khai thúc đẩy mô hình ngôn ngữ lớn tiếng Việt, phát triển trợ lý ảo cho cán bộ, công chức, trợ lý ảo cho người dân và Trợ lý ảo hỗ trợ rà soát văn bản quy phạm pháp luật mới đây, Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng cho rằng mô hình ngôn ngữ lớn (LLM) là vấn đề mới, không chỉ với cơ quan nhà nước, mà cả các doanh nghiệp công nghệ của Việt Nam. Việc xây dựng được mô hình  LLM tiếng Việt và trợ lý ảo phục vụ người Việt có ý nghĩa vô cùng lớn trong nhiều mặt.
+
+Cũng theo Bộ trưởng, mô hình ngôn ngữ lớn tiếng Việt, trợ lý ảo phục vụ người Việt phải do các doanh nghiệp Việt Nam tạo ra.
+
+Theo đó, việc xây dựng và triển khai Nền tảng LLM tiếng Việt phục vụ khối cơ quan hành chính và tư pháp; triển khai trợ lý ảo phục vụ cán bộ công chức, viên chức do Tập đoàn Viettel thực hiện. Trợ lý ảo này giúp thống kê, phân loại đầy đủ chính xác các tài liệu, số liệu mới nhất theo trình tự thời gian và cung cấp các số liệu có liên quan đến vấn đề cần xử lý.
+
+Vừa qua, Viettel đã thử nghiệm thành công Trợ lý ảo pháp luật phục vụ hệ thống tòa án. Đến tháng 8/2023, Trợ lý ảo pháp luật đã hỗ trợ hơn 12.000 tài khoản cho 100% thẩm phán, cán bộ, công chức của Tòa án; có hơn 3 triệu lượt sử dụng, trung bình có 5.000-6.000 lượt hỏi đáp, tra cứu mỗi ngày, giúp giảm 30% khối lượng công việc, thời gian so với thao tác truyền thống.
+
+Những kinh nghiệm thực tiễn từ việc xây dựng Trợ lý ảo pháp luật sẽ là tiền đề quan trong để Viettel tiếp tục thực hiện hiệu quả việc xây dựng, triển khai Nền tảng LLM Tiếng Việt phục vụ khối cơ quan hành chính và tư pháp.
+
+Đối với Trợ lý ảo hỗ trợ rà soát công tác xây dựng văn bản quy phạm pháp luật do Tập đoàn CMC thực hiện. Trợ lý ảo này sẽ giúp cơ quan có thẩm quyền và cán bộ, công chức thực thi nhiệm vụ bảo đảm thực hiện chuẩn xác quy định về trình tự, thủ tục xây dựng, ban hành văn bản quy phạm pháp luật.
+
+Theo Bộ Thông tin và Truyền thông, điều này sẽ giúp dễ dàng phát hiện sự chồng chéo hay mâu thuẫn về quy định giữa các văn bản quy phạm pháp luật đã ban hành, hoặc trong dự thảo đang xây dựng với các văn bản liên quan; nhanh chóng phát hiện các quy định sai về thẩm quyền xử lý, giải quyết các vấn đề được điều chỉnh trong văn bản quy phạm pháp luật và tính hợp hiến, hợp pháp của văn bản.
+
+Ngoài ra, Trợ lý ảo này cũng có thể cung cấp những thông tin, dữ liệu về kinh nghiệm thực hiện và giải quyết vấn đề liên quan đến chính sách trong văn bản quy phạm pháp luật được giao xây dựng. Giúp giảm tải công việc, tiết kiệm thời gian, chi phí và nâng cao hiệu quả của công tác xây dựng pháp luật.
+
+Bộ Thông tin và Truyền thông yêu cầu tổ công tác của Bộ cần phối hợp với CMC để tìm kiếm các luật sư, chuyên gia giỏi về pháp luật để cùng tham gia trong quá trình xây dựng Trợ lý ảo hỗ trợ rà soát văn bản quy phạm pháp luật.
+
+Đối với việc triển khai nền tảng LLM Tiếng Việt và Trợ lý ảo phục vụ người dân cũng như các vấn đề về dịch vụ công, về quyền lợi, trách nhiệm của người dân do Công ty Cổ phần VNG thực hiện.
+
+Trợ lý ảo này giúp tự động hoá các quy trình trả lời, tương tác về những vấn đề người dân quan tâm, tiết kiệm nhân công, nâng cao chất lượng phục vụ của các cơ quan nhà nước, như phổ biến pháp luật, hướng dẫn thực hiện các quy định về trình tự, thủ tục liên quan đến quyền lợi, trách nhiệm của người dân và xác định đúng thẩm quyền giải quyết, xử lý của các cơ quan hành chính nhà nước. Dự kiến tháng 12/2023 sẽ bắt đầu thử nghiệm nội bộ và hết tháng 3/2024 sẽ thử nghiệm trên 10% tập người dùng.
+
+Theo kế hoạch, dự kiến tháng 12/2023 Bộ sẽ mời một số Bộ, ngành, địa phương tham gia vào thử nghiệm những phiên bản đầu tiên của LLM tiếng Việt và trợ lý ảo phục vụ người Việt. Thông qua việc thử nghiệm này, chính các Bộ, ngành, địa phương sẽ là người huấn luyện, đóng góp tri thức cho sự phát triển của LLM tiếng Việt và trợ lý ảo phục vụ người Việt.
+
+Người đứng đầu ngành Thông tin và Truyền thông chỉ đạo Tổ công tác của Bộ tìm hiểu kinh nghiệm quốc tế liên quan đến Trợ lý ảo hỗ trợ rà soát văn bản quy phạm pháp luật và xây dựng bộ tiêu chuẩn đánh giá cho các mô hình ngôn ngữ lớn tiếng Việt.

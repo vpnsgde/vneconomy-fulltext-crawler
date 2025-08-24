@@ -1,0 +1,29 @@
+Giải pháp này đảm bảo tính đồng bộ và nhất quán trong quản trị dữ liệu giữa các đơn vị, đồng thời tối ưu hóa chi phí và nguồn lực vận hành.
+
+ĐIỂM NGHẼN TRONG QUẢN TRỊ DỮ LIỆU TẠI CƠ QUAN NHÀ NƯỚC
+
+Trong quá trình xây dựng Chính phủ số, dữ liệu đóng vai trò cốt lõi trong vận hành bộ máy hành chính và định hướng chính sách. Tuy nhiên, nhiều cơ quan nhà nước đang đối mặt với thách thức lớn: Dữ liệu phân tán, thiếu liên thông và chất lượng không đồng đều, đặc biệt trong bối cảnh tinh gọn bộ máy hành chính.
+
+Thiếu tướng Nguyễn Ngọc Cương, Giám đốc Trung tâm Dữ liệu Quốc gia, đã chỉ ra những hạn chế của việc quản trị dữ liệu rời rạc và thiếu liên kết giữa các cơ quan. Ông nhấn mạnh: Mỗi công dân, từ khi sinh ra đến cuối đời, phát sinh hàng chục thủ tục hành chính với khối lượng dữ liệu phức tạp, từ giấy khai sinh, hồ sơ học tập, khám sức khỏe, kết hôn, cấp bằng lái xe đến chuyển nhượng tài sản.
+
+“Nếu dữ liệu không được liên thông, mọi thủ tục hành chính đều gặp trở ngại. Do đó, việc xây dựng kho cơ sở dữ liệu dùng chung là yêu cầu cấp thiết”, Thiếu tướng khẳng định.
+
+Ông Nguyễn Hùng Sơn, Phó Chủ tịch HĐQT FSI, cho biết mô hình số hóa tài liệu độc lập hiện nay khiến chi phí triển khai cao gấp 1,5-2 lần so với mô hình số hóa tập trung. Hơn nữa, khối lượng tài liệu lớn và sự luân chuyển phức tạp giữa các cơ quan gây ra tình trạng trùng lặp dữ liệu, làm cản trở việc liên thông dữ liệu sau số hóa. Vì vậy, các chuyên gia đánh giá rằng xây dựng cơ sở dữ liệu và mô hình quản trị dữ liệu tập trung sẽ mở ra hướng đi mới cho các cơ quan nhà nước.
+
+GIẢI PHÁP SỐ HÓA TÀI LIỆU TẬP TRUNG VÀ HỆ THỐNG QUẢN TRỊ TÀI LIỆU THÔNG MINH TỪ FSI
+
+Với hơn 17 năm kinh nghiệm và hàng trăm dự án thành công, FSI là đối tác tin cậy của nhiều cơ quan Chính phủ và doanh nghiệp trong lĩnh vực quản trị dữ liệu và tài liệu số. Tại hội thảo, FSI giới thiệu giải pháp tổng thể cho bài toán dữ liệu hành chính công, bao gồm: Giải pháp số hóa tài liệu tập trung và Hệ thống quản trị tài liệu thông minh DAS.
+
+FSI đề xuất triển khai số hóa tài liệu theo mô hình tập trung cấp tỉnh/thành phố thay vì phân tán tại các đơn vị cơ sở. Giải pháp này giúp giảm đáng kể chi phí hạ tầng và nhân lực thông qua việc tối ưu hóa thiết bị và quy trình vận hành. Dữ liệu được đồng bộ giữa các đơn vị, hạn chế lỗi trùng lặp, thất thoát và nâng cao hiệu quả liên thông dữ liệu khi chuyển đổi sang hệ thống quản trị dữ liệu tập trung.
+
+Dữ liệu sau số hóa được quản lý tập trung trên Hệ thống quản trị tài liệu thông minh DAS, cho phép quản lý toàn bộ vòng đời tài liệu từ tiếp nhận, phân loại, lưu trữ, khai thác đến tiêu hủy. Hệ thống hỗ trợ phân quyền truy cập, kiểm soát chỉnh lý và tra cứu tài liệu theo chuẩn nghiệp vụ lưu trữ nhà nước. DAS còn tích hợp linh hoạt với các hệ thống văn bản điều hành, dữ liệu chuyên ngành và Cơ sở dữ liệu quốc gia, đảm bảo liên thông dữ liệu hiệu quả và an toàn.
+
+Hệ thống đáp ứng đầy đủ các tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước theo Thông tư 39/2017/TT-BTTTT và tuân thủ các tiêu chuẩn dữ liệu quốc gia.
+
+Ông Nguyễn Hùng Sơn khẳng định:“Quản trị dữ liệu không còn là câu chuyện riêng của bộ phận CNTT, mà là trách nhiệm chiến lược của toàn bộ hệ thống hành chính. FSI cam kết đồng hành cùng Chính phủ và các cơ quan nhà nước trong việc xây dựng một nền tảng dữ liệu mạnh mẽ, làm nền móng cho phát triển bền vững.”
+
+Với hơn 17 năm kinh nghiệm triển khai các giải pháp số hoá cho cơ quan nhà nước, FSI là đối tác tin cậy của Chính phủ và doanh nghiệp Việt trong quản trị dữ liệu và tài liệu số, mang tới những giải pháp số hoá tài liệu chuyên biệt, đáp ứng chính xác nhu cầu của các cơ quan nhà nước.
+
+* Xem thêm tại http://fsivietnam.com.vn
+
+Tìm hiểu giải pháp số hoá tài liệu: https://sohoatailieu.com/phan-mem-giai-phap/das/

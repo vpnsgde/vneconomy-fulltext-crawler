@@ -1,0 +1,31 @@
+Là một trong những ngân hàng đầu tiên tại Việt Nam ứng dụng công nghệ số vào hoạt động, Ngân hàng Thương mại Cổ phần Việt Á (VietABank) chính thức ra mắt nhiều sản phẩm ứng dụng trí tuệ nhân tạo hiện đại.
+
+VietABank được biết tới là ngân hàng đã bắt kịp xu thế hiện đại của thế giới tiến vào kỷ nguyên số khi trở thành ngân hàng đầu tiên tại Việt Nam ứng dụng mô hình Private Cloud trên nền tảng công nghệ để lưu trữ và giải quyết các vấn đề liên quan tới dữ liệu của ngân hàng vào tháng 7/2017.
+
+Giải pháp giao dịch tại quầy - Smart Branch cung cấp môi trường và phương tiện cho việc thao tác các nghiệp vụ tại quầy một cách nhanh chóng, tiện lợi, thân thiện.
+
+Quy trình giao dịch một cửa được Smart Branch chuẩn hóa nhằm tiết kiệm thời gian giao dịch và hạn chế tối đa rủi ro.
+
+Cụ thể, 40% giao dịch thu chi tiền mặt được thực hiện tại quầy giao dịch viên giúp giảm thời gian di chuyển sang quầy ngân quỹ; 20% giao dịch thu chi tiền mặt được giao dịch viên thực hiện tự duyệt trong hạn mức cho phép giúp giảm thời gian chuyển kiểm soát viên phê duyệt.
+
+Với Smart Branch, khách hàng không phải viết tay các biểu mẫu giao dịch như: Mở mới CIF, tài khoản… Toàn bộ chữ ký của khách hàng khi giao dịch được tinh gọn theo quy trình; các bước thao tác được giảm bớt so với trước đây nhờ tốc độ xử lý của hệ thống nhanh hơn sẽ giảm thời gian giao dịch cho khách hàng.
+
+Hệ thống cho phép kiểm tra và in chứng từ, hóa đơn trước khi duyệt nhằm giảm rủi ro nhầm lẫn, qua đó đảm bảo độ chính xác trong các thác tác giữa khách hàng với giao dịch viên. Ngay từ thời điểm khai trương, Smart Branch đã được triển khai ứng dụng trên toàn hệ thống VietABank.
+
+Nhằm giúp khách hàng yên tâm khi gửi tiền tiết kiệm, VietABank đã ra mắt dịch vụ "Tra cứu sổ tiết kiệm online" miễn phí trên website www.vietabank.com.vn. Chương trình dành cho khách hàng gửi tiết kiệm tại VietABank trên toàn quốc.
+
+Theo đó, khách chỉ cần nhập đúng số tài khoản, hệ thống sẽ tự động hiện đầy đủ các thông tin cho phép khách hàng tự tra cứu tình trạng của sổ tiết kiệm về tên sản phẩm; số tiền gửi; kỳ hạn gửi tiền; ngảy mở sổ; ngày đến hạn thanh toán; lãi suất... Ứng dụng này giúp khách hàng vẫn bảo mật được thông tin mà lại dễ dàng theo dõi tài khoản tiết kiệm.
+
+ChatBot đang là một chủ đề nhận được rất nhiều sự quan tâm trong thời gian gần đây. Nhiều tập đoàn lớn như Google, Microsoft, Amazon, Facebook ….đã thông báo ý định tham gia vào binh đoàn ChatBot - tương lai của dịch vụ chăm sóc khách hàng hiện đại và thông minh.
+
+Nằm trong top 3 ngân hàng đầu tiên tại Việt Nam ứng dụng trí thông minh nhân tạo nhằm nâng cao chất lượng dịch vụ, trên trang Fanpage VietABank đã cập nhật thành công ChatBot đáp ứng được nhu cầu phục vụ khách hàng 24/7.
+
+Các khả năng được biết tới của ChatBot như: Tư vấn khách hàng các thông tin về lãi suất, tỷ giá, sản phẩm, biểu phí….Giải đáp khách hàng các thắc mắc về địa điểm, phí giao dịch, quy trình mở thẻ. Nhờ việc liên tục học hỏi và hoạt động 24/7, ChatBot sẽ được hoàn thiện qua những lần hỗ trợ khách hàng để ngày càng trở nên thông minh hơn nhờ ứng dụng trí thông minh nhân tạo.
+
+Với tốc độ giải đáp thông tin thắc mắc của khách hàng chưa tới 5 giây cùng các khả năng kể trên, Chatbot đã thay thế nhân viên chăm sóc khách hàng để tư vấn các giao dịch phi tài chính. Trở thành "tư vấn viên" mọi lúc, mọi nơi; thấu hiểu những tâm tư, nguyện vọng của khách hàng.
+
+Cụ thể, khi nhận được câu hỏi từ khách hàng, Chatbot sẽ phân tích các câu trả lời có sẵn trong hệ thống dữ liệu và mức độ tự tin có thể trả lời tức thời. Trường hợp phản hồi dự kiến đưa ra chưa đủ độ tin cậy, Chatbot sẽ kết nối với tư vấn viên và tự động ghi nhận câu hỏi cùng câu trả lời mới, để có thể đưa ra những câu trả lời chính xác cao cho khách hàng trong những lần sau.
+
+Theo ông Nguyễn Văn Hảo - Tổng giám đốc VietABank, việc ứng dụng trí tuệ nhân tạo với Chatbot nằm trong chiến lược phát triển ngân hàng số - mục tiêu đón đầu xu hướng công nghệ mới của VietABank. Chatbot sẽ đem đến khách hàng những dịch vụ và trải nghiệm hiện đại, nâng tầm phát triển bền vững ngân hàng.
+
+Những "động thái" này cho thấy, VietABank  đang đẩy mạnh đầu tư  vào hệ thống công nghệ thông tin theo định hướng phát triển chiến lược của ngân hàng số trong cuộc cách mạng công nghiệp 4.0.

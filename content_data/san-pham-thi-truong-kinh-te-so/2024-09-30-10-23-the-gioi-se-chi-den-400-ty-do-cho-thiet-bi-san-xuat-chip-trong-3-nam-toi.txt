@@ -1,0 +1,13 @@
+Trong đó các nhà sản xuất chip Trung Quốc, Hàn Quốc và Đài Loan dẫn đầu danh sách các quốc gia chi tiêu nhiều nhất cho ngành bán dẫn.
+
+Theo báo cáo, chi tiêu trên toàn thế giới cho thiết bị bán dẫn dự kiến ​​sẽ tăng 24% lên 123 tỷ USD vào năm 2025. Căng thẳng thương mại đang diễn ra giữa Hoa Kỳ và Trung Quốc sẽ tạo ra nhu cầu dư thừa đối với chip AI và chip nhớ, đẩy chi tiêu cho thiết bị lên mức kỷ lục, SEMI đánh giá.
+
+Theo SEMI, Trung Quốc sẽ duy trì vị trí là quốc gia chi tiêu nhiều nhất, chiếm 1/4 đầu tư với hơn 100 tỷ USD trong ba năm tới, nhờ các chính sách tự cung tự cấp quốc gia.
+
+Hàn Quốc, quê hương của các nhà sản xuất chip nhớ Samsung và SK hynix, dự kiến ​​sẽ chi 81 tỷ USD trong 3 năm tới để tiếp tục thống trị các phân khúc bộ nhớ DRAM, bộ nhớ băng thông cao (HBM) và 3D NAND Flash. Đài Loan, nơi có công ty đúc lớn nhất thế giới TSMC đang xây dựng các nhà máy tại Hoa Kỳ, Nhật Bản và Châu u, dự kiến ​​sẽ chi 75 tỷ USD.
+
+Ngoài ra, Hoa Kỳ dự kiến ​​sẽ chi 63 tỷ USD, Nhật Bản 32 tỷ USD và Châu u 27 tỷ USD cho thiết bị bán dẫn. Tại Hoa Kỳ, Nhật Bản và Châu u, đầu tư vào thiết bị vào năm 2027 sẽ tăng gấp đôi so với năm nay khi các khoản trợ cấp lớn của chính phủ được triển khai để giảm bớt lo ngại về nguồn cung bán dẫn, SEMI cho biết.
+
+Cáo cáo cũng cho biết các nhà cung cấp thiết bị chính chiếm phần lớn chi tiêu toàn cầu vào đầu tư thiết bị sản xuất vi mạch bao gồm ASML, Applied Materials và KLA Corp của Hà Lan, Lam Research của Hoa Kỳ và Tokyo Electron của Nhật Bản.
+
+SEMI là hiệp hội ngành công nghiệp toàn cầu kết nối hơn 3.000 công ty thành viên và 1,5 triệu chuyên gia trên toàn thế giới trong chuỗi cung ứng thiết kế và sản xuất chất bán dẫn và điện tử.

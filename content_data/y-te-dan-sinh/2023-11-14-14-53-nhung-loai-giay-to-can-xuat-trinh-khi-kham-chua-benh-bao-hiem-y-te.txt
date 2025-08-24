@@ -1,0 +1,23 @@
+Đây là một trong những nội dung được Bộ Y tế đề cập trong công văn phản hồi ý kiến của Bảo hiểm xã hội Việt Nam liên quan đến việc thực hiện một số quy định của Nghị định số 75/2023/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 146/2018/NĐ-CP quy định chi tiết và hướng dẫn biện pháp thi hành một số điều của Luật Bảo hiểm y tế.
+
+Cụ thể, Bảo hiểm xã hội Việt Nam đề nghị làm rõ: “Các giấy tờ chứng minh nhân thân hợp pháp khác, hoặc giấy tờ được định danh điện tử mức độ 2 theo quy định tại Nghị định số 59/2022/NĐ-CP quy định định danh và xác thực điện tử” là các giấy tờ gì?
+
+Đồng thời, làm rõ thẻ bảo hiểm y tế được tích hợp trên các ứng dụng VssID - Bảo hiểm xã hội số, VNeID - Ứng dụng định danh điện tử có được sử dụng để xuất trình khi đi khám chữa bệnh không?
+
+Trả lời nội dung này, Bộ Y tế cho biết, theo Luật Bảo hiểm y tế, tại Khoản 1 Điều 28 về thủ tục khám bệnh, chữa bệnh bảo hiểm y tế quy định: “Người tham gia bảo hiểm y tế khi đến khám bệnh, chữa bệnh phải xuất trình thẻ bảo hiểm y tế có ảnh; trường hợp thẻ bảo hiểm y tế chưa có ảnh thì phải xuất trình thẻ bảo hiểm y tế cùng với giấy tờ chứng minh về nhân thân của người đó; đối với trẻ em dưới 6 tuổi chỉ phải xuất trình thẻ bảo hiểm y tế”. Quy định này nhằm xác định đúng người có thẻ bảo hiểm y tế khi đi khám bệnh, chữa bệnh.
+
+Bộ Y tế cho rằng, Nghị định 75 quy định theo hướng bao quát để bảo đảm khi thẻ bảo hiểm y tế không có ảnh, người dân có thể thay thế bằng các loại giấy tờ hợp pháp khác chứng minh nhân thân có ảnh để nhận diện khi đi khám bệnh, chữa bệnh bảo hiểm y tế.
+
+Như vậy, căn cứ các quy định của Luật và Nghị định, khi đi khám bệnh, chữa bệnh, người tham gia bảo hiểm y tế có thể lựa chọn xuất trình thẻ bảo hiểm y tế có ảnh, hoặc căn cước công dân.
+
+Chỉ trong trường hợp xuất trình thẻ bảo hiểm y tế nhưng không có ảnh, thì người tham gia bảo hiểm y tế mới phải xuất trình thêm một trong các giấy tờ tùy thân có ảnh, do cơ quan, tổ chức có thẩm quyền cấp, hoặc giấy xác nhận của công an cấp xã, hoặc giấy tờ khác có xác nhận của cơ sở giáo dục nơi quản lý học sinh, sinh viên; các giấy tờ chứng minh nhân thân hợp pháp khác, hoặc giấy tờ được định danh điện tử mức độ 2 theo quy định tại Nghị định số 59/2022/NĐ-CP.
+
+Bộ Y tế cũng đánh giá, hiện nay, các thông tin về thẻ bảo hiểm y tế và ảnh của người có thẻ bảo hiểm y tế cơ bản đã được tích hợp trên thẻ căn cước công dân và mã định danh công dân, nên về cơ bản đã đủ thông tin, hình ảnh phục vụ thuận tiện cho việc xuất trình khi đi khám bệnh, chữa bệnh bảo hiểm y tế.
+
+Về giấy tờ được định danh điện tử mức độ 2, Bộ Y tế cho biết, Nghị định số 59/2022/NĐ-CP đã quy định rõ “khi chủ thể danh tính điện tử sử dụng tài khoản định danh điện tử mức độ 2 trong các hoạt động, giao dịch điện tử thì có giá trị tương đương với việc xuất trình giấy tờ, tài liệu để chứng minh thông tin đã được tích hợp vào tài khoản định danh điện tử”.
+
+Đối với việc sử dụng thẻ bảo hiểm y tế được tích hợp trên ứng dụng VneID, Bộ Y tế cho biết, tài khoản của người dân đã được định danh điện tử mức độ 2 thì được sử dụng thẻ bảo hiểm y tế tích hợp trên ứng dụng này để đi khám bệnh, chữa bệnh bảo hiểm y tế, theo quy định của Nghị định số 59/2022/NĐ-CP.
+
+Trường hợp thẻ bảo hiểm y tế được tích hợp trên ứng dụng VssID: Nội dung này hiện đang được Bảo hiểm xã hội Việt Nam triển khai thí điểm.
+
+Trường hợp sử dụng tài khoản định danh điện tử mức độ 2 theo quy định tại Nghị định số 59/2022/NĐ-CP để đăng nhập ứng dụng VssID, thì có thể được sử dụng thẻ bảo hiểm y tế tích hợp trên ứng dụng VssID để đi khám bệnh, chữa bệnh bảo hiểm y tế.

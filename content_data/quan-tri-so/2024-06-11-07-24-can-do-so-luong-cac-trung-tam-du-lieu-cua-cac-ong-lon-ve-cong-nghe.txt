@@ -1,0 +1,17 @@
+Các “ông lớn” về công nghệ thường được đặt lên bàn cân so sánh với nhau theo nhiều tiêu chí: họ kiếm được bao nhiêu tiền, vốn hóa thị trường, công nghệ tiên tiến mới nhất hay khả năng sáng tạo của trí tuệ nhân tạo - AI.
+
+Nhưng trên hết, khi bước vào kỷ nguyên số mới, để tất cả các công ty công nghệ có bước tiến lớn trong công nghệ, các “ông lớn” này rất cần cơ sở dữ liệu khổng lồ để xử lý dữ liệu cho tất cả các dịch vụ, phân tích và lưu trữ của mình.
+
+Trung tâm dữ liệu là một vị trí vật lý lưu trữ máy tính và các thiết bị phần cứng liên quan của chúng. Nó chứa cơ sở hạ tầng máy tính mà các hệ thống công nghệ thông tin yêu cầu, chẳng hạn như máy chủ, ổ đĩa lưu trữ dữ liệu và thiết bị mạng. Đây là cơ sở vật lý lưu trữ dữ liệu kỹ thuật số của bất kỳ công ty nào.
+
+Dưới đây là thống kê ước tính về các trung tâm dữ liệu của các “ông lớn” về công nghệ như Meta, Google, Microsoft, Apple và Amazon.
+
+Những gã “khổng lồ” về điện toán đám mây như Microsoft và Amazon sở hữu số lượng trung tâm dữ liệu lên đến ba chữ số nhằm đáp ứng nhu cầu kinh doanh ngày càng tăng của khách hàng.
+
+Tuy nhiên, cần chú ý không có tiêu chuẩn mặc định nào về mức độ lớn của một trung tâm dữ liệu, vì vậy số lượng nhiều chưa hoàn toàn mang ý nghĩa bao gồm dung lượng lớn.
+
+Lưu ý: *Ước tính của bên thứ ba khác nhau tùy thuộc vào nguồn tin. AWS thường được các bên thống kê vào khoảng 160–220 trung tâm và Apple từ 8–10 trung tâm. **Microsoft liệt kê số lượng của họ là “300  trung tâm.”
+
+Theo nền tảng thống kê Statista, Amazon hiện vẫn chiếm thị phần lớn nhất ở thị trường điện toán đám mây với 31%; Microsoft bám sát theo sau với 25%. Trên thực tế, Amazon đang đặt mục tiêu chi 150 tỷ USD vào nhiều cơ sở hơn trong 15 năm tới. Ước tính có 26 trung tâm dữ liệu hiện đang được xây dựng. Tất nhiên, tất cả những điều này là để theo đuổi sự bùng nổ AI.
+
+Tuy nhiên, mặc dù là những “ông lớn” về công nghệ, các công ty Big Tech không phải là những công ty duy nhất theo đuổi về trung tâm dữ liệu. Ví dụ: Digital Realty, nhà cung cấp trung tâm dữ liệu tại Mỹ, cũng có khoảng hơn 300 cơ sở dữ liệu. Con số này nếu xếp hạng sẽ ngang với Microsoft với hơn 300 cơ sở dữ liệu.

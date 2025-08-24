@@ -1,0 +1,39 @@
+Ngày 13/5, Hiệp hội An ninh mạng quốc gia (NCA) tổ chức hội thảo Phòng, chống lừa đảo trên không gian mạng.
+
+Phát biểu tại hội thảo, Trung tướng Nguyễn Minh Chính, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05), Bộ Công an, cho biết hiện có đến 80% người trưởng thành tại Việt Nam sử dụng internet. Đây là môi trường lý tưởng cho các đối tượng lừa đảo trên không gian mạng hoạt động. Các loại tội phạm này có thủ đoạn rất tinh vi, thường đặt máy chủ ở nước ngoài như Campuchia..., thuê đất lên đến 90 năm, có những lãnh địa riêng khiến ngay cả công an của nước sở tại cũng khó thâm nhập. Do đó, công tác đấu tranh với loại tội phạm này thực sự gặp nhiều thách thức.
+
+Trung tướng Nguyễn Minh Chính cho biết năm 2023, A05 tiếp nhận hơn 5.300 vụ việc từ các nạn nhân của lừa đảo trực tuyến, tổng số tiền thiệt hại hơn 2.487 tỷ đồng.
+
+“Các phương thức lừa đảo chính như sau: Tuyển cộng tác viên tham gia kinh doanh, bán, giới thiệu sản phẩm trên các sàn thương mại điện tử chiểm 44,7%; phát tán mã độc chiếm quyền điều khiển tài khoản mạng xã hội chiếm 17,73%; gọi điện giả danh lực lượng chức năng như công an, toà án, nhân viên ngân hàng… chiếm 11,56%; tạo lập sàn giao dịch kêu gọi đầu tư tiền ảo, chứng khoán chiếm 13,2%; giả danh công ty tài chính tải ứng dụng vay tiền 8,6%; lừa đảo khác chiếm 4,7%”, Trung tướng Nguyễn Minh Chính thông tin. Trong đó, A05 đã khởi tố 15.00 vụ án với hơn 500 bị can liên quan đến lừa đảo trực tuyến.
+
+
+
+"Thống kê trên Cổng cảnh báo an toàn thông tin ghi nhận gần 16.000 phản ánh lừa đảo trực tuyến trong năm 2023, gây thiệt hại hơn 390 nghìn tỷ đồng, tương đương 3,6% GDP; trong đó 91% liên quan lĩnh vực tài chính, tăng 64,78% so với năm 2022, tỷ lệ người dùng nhận tin nhắn, cuộc gọi lừa đảo trực tuyến là 73%. Công ty an ninh mạng Singapore Group-IB công bố vụ tấn công lừa đảo sử dụng 240 tên miền liên kết giả mạo nhằm mạo danh 27 tổ chức tài chính, ngân hàng của Việt Nam để thu thập thông tin cá nhân, tài khoản ngân hàng từ năm 2022 đến nay; chợ đen mua bán thông tin thẻ tín dụng Biden Cash đã công khai trực tuyến cơ sở dữ liệu miễn phí gồm trên 2 triệu thẻ ghi nợ và tín dụng".
+
+"Thống kê trên Cổng cảnh báo an toàn thông tin ghi nhận gần 16.000 phản ánh lừa đảo trực tuyến trong năm 2023, gây thiệt hại hơn 390 nghìn tỷ đồng, tương đương 3,6% GDP; trong đó 91% liên quan lĩnh vực tài chính, tăng 64,78% so với năm 2022, tỷ lệ người dùng nhận tin nhắn, cuộc gọi lừa đảo trực tuyến là 73%. Công ty an ninh mạng Singapore Group-IB công bố vụ tấn công lừa đảo sử dụng 240 tên miền liên kết giả mạo nhằm mạo danh 27 tổ chức tài chính, ngân hàng của Việt Nam để thu thập thông tin cá nhân, tài khoản ngân hàng từ năm 2022 đến nay; chợ đen mua bán thông tin thẻ tín dụng Biden Cash đã công khai trực tuyến cơ sở dữ liệu miễn phí gồm trên 2 triệu thẻ ghi nợ và tín dụng".
+
+Tại hội thảo, ông Phạm Tiến Dũng, Phó Thống đốc Ngân hàng Nhà nước, cho biết hiện nay 95% các giao dịch của hệ thống ngân hàng thực hiện trên kênh số, chỉ 5% là tại quầy, kệ. Tổng giá trị giao dịch hiện nay là khoảng 200 triệu tỷ đồng/năm. Nếu chia cho ngày làm việc thì 830 ngàn tỷ đồng/ngày, tương đương hơn 40 tỷ USD.
+
+"Đó mới chỉ là giao dịch thanh toán thôi, chưa kể huy động, cho vay..., không có ngành nào giao dịch lớn như thế. Do đó, ngành ngân hàng coi an ninh bảo mật là trọng yếu. Năm nào cũng có chỉ thị riêng của Thống đốc về vấn đề này”, ông Phạm Tiến Dũng khẳng định.
+
+Thống kê của Bộ Thông tin và truyền thông cho thấy hiện có 24 hình thức lừa đảo trực tuyến phổ biến nhưng qua thực tiễn hoạt động của ngành ngân hàng có thể rút ngắn thành 3 phương thức chính như sau: (1) thao túng tâm lý để bị hại tự gửi tiền đến tài khoản chỉ định; (2) chiếm dụng thiết bị của người dùng và sau đó chuyển tiền đi; (3) lấy thông tin xác thực của người dùng để cài sang thiết bị khác…
+
+Với ngành ngân hàng, theo Phó Thống đốc, mất thông tin, dữ liệu là mất tiền. Bởi vậy, thời gian tới đây Ngân hàng Nhà nước sẽ làm nhanh và siết chặt xác thực sinh trắc học và làm sạch dữ liệu khách hàng.
+
+Theo đó, từ ngày 1/7/2024, tất cả giao dịch ngân hàng trên 10 triệu đồng phải xác thực khuôn mặt của người giao dịch xem có chính xác với khuôn mặt của người mở tài khoản hay không (xác thực sinh trắc học). Khuôn mặt của chủ tài khoản phải được xác thực với căn cước công dân gắn chíp do Bộ Công an quản lý. Giải pháp này mang đến lợi ích sau: người mở tài khoản và thực hiện giao dịch không bị giả mạo giấy tờ tuỳ thân. Khi chưa có căn cước công dân gắn chip thì tình trạng giả mạo giấy tờ này có thể nói là nhức nhối. Khi khách hàng mở tài khoản, giao dịch viên rất khó để xác minh chứng minh thư thật – giả. Đặc biệt, nếu thẻ căn cước không gắn chip mà chỉ có phôi nhựa thôi rất dễ bị làm giả.
+
+"Chúng tôi đã đưa ra các giải pháp EKYC với khoản gần 50 tiêu chí nhận diện thì hiệu quả hơn so với giao dịch viên xác thực rất nhiều”, ông Phạm Tiến Dũng nói.
+
+Hiện nay, một số đơn vị đã làm rất tốt việc xác thực sinh trắc học theo Quyết định 2345/QĐ-NHNN năm 2023 của Ngân hàng Nhà nước, chỉ mất vài giây để xác thực khuôn mặt người thực hiện giao dịch. Thời gian tới, Ngân hàng Nhà nước sẽ nâng cấp Quyết định 2345 lên thành Thông tư.
+
+Cùng đó, Ngân hàng Nhà nước tiếp tục làm sạch dữ liệu người dùng. “Ngành ngân hàng hiện có dữ liệu khoảng 70 triệu món vay; 54 triệu tài khoản người vay. Trước đây, người vay có thể dùng nhiều loại giấy tờ để đi vay ở nhiều nơi khác nhau, khi thì chứng minh thư, khi thì hộ chiếu. Hiện nay, Ngân hàng Nhà nước đã làm sạch để ngân hàng có thể truy xuất người dùng đang nợ thẻ tín dụng ở đâu, đang có món vay ở đâu rất nhanh, chỉ 1-2 giây.
+
+Hiện tại, Ngân hàng Nhà nước đã tập hợp tất cả những tài khoản ngân hàng, số căn cước công dân đã từng “ăn gian nói dối”, từng mua bán tài khoản ngân hàng.
+
+“Nếu số căn cước công dân của khách hàng đã rơi vào kho dữ liệu "đen" này thì chúng tôi yêu cầu tăng cường mức xác thực. Nếu phát sinh giao dịch, chúng tôi sẽ cảnh báo với ngân hàng để tăng cường xác thực; thực hiện tuyên truyền cảnh báo. Thay vì giao dịch điện tử thì mời khách hàng ra quầy.Với việc làm sạch dữ liệu được tiến hành như trên, tình trạng cho thuê tài khoản ngân hàng sẽ được hạn chế rất nhiều”, ông Dũng nói.
+
+Bên cạnh đó, Trung tướng Nguyễn Minh Chính cho biết ngành công an cũng tích cực phối hợp với các bộ/ngành dẹp nạn sim “rác”, tài khoản ngân hàng “rác”. Chỉ trong tháng 4/2024, A05 đã phối hợp Bộ Thông tin và truyền thông gỡ hơn 2.100 tài khoản mạng xã hội có dấu hiệu lừa đảo.
+
+Cục trưởng A05 nhấn mạnh đấu tranh với tội phạm lừa đảo trên không gian mạng phải là thế trận toàn dân. Trong đó, người dân cũng cần tích cực nâng cao cảnh giác khi sử dụng mạng xã hội, tránh tình trạng ngay cả khi mất tiền cũng không rõ nguyên nhân vì sao.
+
+Ngoài ra, Trung tướng Chính cũng khẳng định sự phối hợp giữa các bộ/ngành trong đấu tranh với tội phạm lừa đảo trên không gian mạng cần được cải thiện. Bởi lẽ, các cơ quan/ban ngành làm việc theo các quy định hành chính nhưng tội phạm mạng thì biến đổi từng giây, từng phút; hành động chỉ thông qua vài cú click chuột.

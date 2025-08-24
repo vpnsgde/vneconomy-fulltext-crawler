@@ -1,0 +1,27 @@
+Theo Cục Thương mại điện tử và Kinh tế số (Bộ Công Thương), thương mại di động (Mobile Commerce viết tắt là M-Commerce) là việc sử dụng các thiết bị cầm tay không dây như điện thoại di động và máy tính bảng để thực hiện các giao dịch thương mại trực tuyến, bao gồm mua và bán sản phẩm, ngân hàng trực tuyến và thanh toán hóa đơn.
+
+M-Commerce ngày càng được ưa chuộng vì nhiều ưu điểm nổi bật như thiết bị cầm tay dễ mang theo, dễ kết nối, nhiều tiện ích…. Với khả năng tiếp cận rộng rãi, thương mại di động được dự đoán không chỉ thay đổi thói quen mua sắm của người tiêu dùng mà còn mở ra nhiều cơ hội cho các doanh nghiệp.
+
+Hiện nay, sự phát triển M-Commerce đang được coi là tất yếu của thương mại điện tử và dần trở thành xu hướng chủ đạo tại Việt Nam khi số lượng người sử dụng điện thoại thông minh và internet phát triển mạnh mẽ.
+
+Việt Nam được đánh giá là một trong những quốc gia có tốc độ tăng trưởng người dùng điện thoại thông minh nhanh nhất thế giới. Theo báo cáo của We Are Social và Hootsuite, đến năm 2023, Việt Nam có hơn 70 triệu người dùng điện thoại thông minh, chiếm khoảng 70% dân số. Sự phổ biến của internet di động, với các gói cước 3G, 4G và sắp tới là 5G đã thúc đẩy việc sử dụng các ứng dụng mua sắm trực tuyến trên di động.
+
+Các chuyên gia nhận định, những con số trên khẳng định Việt Nam là một quốc gia tiềm năng để phát triển M-Commerce. Trên thực tế, thị trường này thực sự là mảnh đất “màu mỡ” đang được khai thác tích cực bởi nhiều doanh nghiệp thuộc các lĩnh vực khác nhau, như dịch vụ mua sắm trực tuyến, dịch vụ nhắn tin và dịch vụ thanh toán trực tuyến.
+
+Nắm bắt được xu hướng tiềm năng này, ngày càng nhiều doanh nghiệp triển khai các ứng dụng thương mại điện tử để phục vụ hoạt động mua sắm của người dùng. Các nền tảng thương mại điện tử lớn như Shopee, Lazada, Tiki và Tiktok đã đầu tư mạnh mẽ vào việc phát triển ứng dụng di động, với giao diện thân thiện và nhiều tính năng tiện lợi.
+
+Các ứng dụng này cho phép người dùng tìm kiếm sản phẩm, so sánh giá cả, đọc đánh giá và thực hiện giao dịch một cách dễ dàng chỉ với vài thao tác trên điện thoại. Điều này không chỉ tăng cường trải nghiệm mua sắm mà còn thúc đẩy sự phát triển của thương mại di động.
+
+Bên cạnh đó, các công nghệ và tính năng mới của thiết bị di động ngày càng được nâng cấp giúp nâng cao trải nghiệm mua sắm di động, tạo ra những cơ hội mới cho các doanh nghiệp. Các tính năng như tìm kiếm bằng hình ảnh, mua sắm trực tiếp qua livestream và thanh toán di động mang lại rất nhiều tiện lợi (như ví điện tử như Momo, ZaloPay, và ViettelPay).
+
+Cùng với đó, trí tuệ nhân tạo (AI) và dữ liệu lớn (Big Data) cũng được sử dụng để cá nhân hóa trải nghiệm mua sắm, đưa ra các gợi ý sản phẩm phù hợp với sở thích và hành vi của người tiêu dùng. Đây đều là những yếu tố quan trọng trong việc thu hút và giữ chân khách hàng, đồng thời tăng cường lòng trung thành với thương hiệu.
+
+Tuy nhiên, để tận dụng tối đa những cơ hội này, Cục Thương mại điện tử và Kinh tế số, cho rằng các doanh nghiệp cần phải đối mặt với những thách thức về cạnh tranh, bảo mật và hạ tầng kỹ thuật.
+
+Sự cạnh tranh khốc liệt giữa các doanh nghiệp lớn và nhỏ trên thị trường. Để có thể tồn tại và phát triển, các doanh nghiệp cần không ngừng đổi mới, cải tiến sản phẩm và dịch vụ, cũng như xây dựng chiến lược marketing hiệu quả.
+
+Vấn đề bảo mật và quyền riêng tư là một vấn đề quan trọng trong thương mại di động. Các vụ rò rỉ thông tin cá nhân và tấn công mạng có thể gây ra thiệt hại nghiêm trọng cho cả người tiêu dùng và doanh nghiệp. Do đó, các doanh nghiệp, các nền tảng thương mại điện tử sẽ cần đầu tư vào các biện pháp bảo mật và tuân thủ các quy định về bảo vệ dữ liệu khi triển khai ứng dụng thương mại di động.
+
+Mặt khác, yếu tố kỹ thuật cũng là bài toán khi phát triển thương mại di động. Sự đa dạng của các hệ điều hành (iOS, Android, Windows), đa dạng về các dòng thiết bị di động và sự khác biệt về cấu trúc, giao diện người dùng đòi hỏi sự linh hoạt và kiến thức sâu rộng về kỹ thuật.
+
+Ngoài ra, là một số khó khăn về chi phí ảnh hưởng tới việc vận hành website và ứng dụng di động, như chi phí đầu tư cho logistics, chi phí thu hút khách hàng (marketing, khuyến mãi); chi phí vận hành website và ứng dụng di động; chi phí đầu tư cho công nghệ…

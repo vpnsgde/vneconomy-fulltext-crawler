@@ -1,0 +1,23 @@
+VIB Hackathon 2021: Hack the Future of Banking, một cuộc thi phát triển giải pháp công nghệ theo hình thức Hackathon, được Ngân hàng Quốc Tế (VIB) tổ chức từ 15/4 đến 30/5/2021 dành cho các bạn trẻ Việt Nam yêu thích lập trình và khoa học dữ liệu. Tổng giá trị giải thưởng của cuộc thi lên đến hàng trăm triệu đồng.
+
+Hackathon một thuật ngữ quen thuộc đối với nhiều bạn trẻ đang làm việc trong lĩnh vực công nghệ thông tin. Không đơn giản là một cuộc thi lập trình thông thường, Hackathon là một sự kiện công nghệ  nơi mà các lập trình viên và các chuyên gia trong lĩnh vực phần mềm cùng hợp tác để phát triển một phần mềm, ứng dụng, giải pháp công nghệ trong một thời gian được định sẵn. Do vậy, Hackathon đặt ra yêu cầu về tính sáng tạo với thách thức và áp lực về thời gian lớn hơn so với các cuộc thi phát triển phần mềm thông thường.
+
+VIB Hackathon 2021 được tổ chức với 2 thử thách chia thành 3 vòng thi: thử thách 1 về lập trình ứng dụng di động, thử thách 2 về khoa học dữ liệu. Các bạn trẻ Việt Nam trong độ tuổi từ 20 - 30 có đam mê lập trình và khoa học dữ liệu đều có thể đăng ký tham dự theo hình thức cá nhân hoặc theo đội từ 2 - 4 thành viên. Ngoài giải thưởng với tổng giá trị lên đến hơn 200.000.000 đồng, các thí sinh xuất sắc sẽ có cơ hội được tuyển dụng vào làm việc tại VIB với mức lương khởi điểm từ 1.200 USD. Link đăng ký tại đây.
+
+Trong lần đầu tiên tổ chức Hackathon, VIB lựa chọn đơn vị đồng hành là Amazon Web Services (AWS), nhà cung cấp hàng đầu thế giới về giải pháp điện toán đám mây (Cloud). AWS sẽ là đơn vị hỗ trợ tư vấn, cung cấp dịch vụ công nghệ hạ tầng cần thiết cho VIB Hackathon 2021 để giúp các thí sinh hiện thực hóa ý tưởng của mình một cách tốt nhất. Ngoài ra, các chuyên gia đầu ngành đến từ VIB và AWS cũng sẽ trực tiếp tham gia hướng dẫn, định hướng cho các đội thi trong quá trình hoàn thành sản phẩm.
+
+Đại diện của VIB cho biết: Quá trình chuyển đổi số tại VIB đang được diễn ra gấp rút. Trong nhiều năm qua ngân hàng đã dành nhiều nguồn lực, đặt trọng tâm trung, dài hạn vào lĩnh vực công nghệ số, các sản phẩm mang hàm lượng công nghệ và tính tự động cao. Do vậy, việc đầu tư vào nguồn nhân lực công nghệ chất lượng cao luôn là một trong những ưu tiên của ngân hàng. Qua cuộc thi này, chúng tôi mong muốn sẽ tìm kiếm, tuyển dụng và phát triển các nhân tài trong lĩnh vực công nghệ như lập trình và khoa học dữ liệu.
+
+Năm 2020, nhằm đáp ứng tối đa và thích ứng nhanh chóng với sự thay đổi mạnh mẽ trong nhu cầu của người dùng đối với thanh toán không tiền mặt trong điều kiện mới, VIB đã tăng cường đẩy mạnh đầu tư vào việc ứng dụng công nghệ hiện đại như  trí tuệ nhân tạo (AI) và điện toán đám mây (Cloud) để thúc đẩy kinh doanh.
+
+Nhờ vậy, ngân hàng đạt số lượng khách hàng đăng ký ngân hàng số qua ứng dụng MyVIB tăng trưởng đột phá gần 300% trong năm 2020 Số lượng khách hàng kích hoạt dịch vụ ngân hàng số tăng 103% và số lượng giao dịch trực tuyến tăng trưởng 110% trong năm 2020.
+
+Các yếu tố này đã giúp VIB trở thành ngân hàng nằm trong top các ngân hàng có tỷ trọng số lượng giao dịch trực tuyến cao nhất, ở mức 91% so với tổng số lượng giao dịch. Tốc độ tăng trưởng trên cũng phản ánh mức độ hài lòng, yêu thích và trung thành của khách hàng dành cho các sản phẩm dịch vụ của ngân hàng.
+
+Ngân hàng số MyVIB đã bốn năm liên tiếp được tạp chí The Asset đánh giá là dịch vụ ngân hàng số xuất sắc nhất của năm và trải nghiệm khách hàng tốt nhất tại Việt Nam.
+
+* Thông tin chi tiết:
+
+Website VIB: www.vib.com.vn
+
+hoặc: https://vib-hackathon.hackerearth.com/

@@ -1,0 +1,31 @@
+
+
+Trong bối cảnh truyền thông đang thay đổi mạnh mẽ nhờ công nghệ, VnEconomy đang bước vào một giai đoạn chuyển mình mang tính chiến lược, không còn chỉ là một tạp chí kinh tế đơn thuần cung cấp thông tin, mà hướng tới trở thành một hệ sinh thái truyền thông – công nghệ lấy độc giả làm trung tâm.
+
+Dấu mốc đáng chú ý trong hành trình này chính là sự kiện ra mắt Marcom-AI Platform, nền tảng công nghệ thúc đẩy đổi mới trong lĩnh vực truyền thông và công bố thành lập Liên minh Dữ liệu và Trí tuệ nhân tạo (D.A Alliance), diễn ra vào ngày 2/6.
+
+Tại đây, một hệ sinh thái công nghệ toàn diện đã chính thức được giới thiệu, được kiến tạo từ sự hợp tác chiến lược giữa Tạp chí Kinh tế Việt Nam/VnEconomy và các đối tác công nghệ hàng đầu như Hemera và Actable AI Việt Nam.
+
+Đáng chú ý là nền tảng CMS thế hệ mới phần mềm quản trị tòa soạn điện tử tích hợp sâu công nghệ trí tuệ nhân tạo (AI) vào toàn bộ quy trình xuất bản nội dung số.
+
+Nền tảng này được phát triển bởi đối tác công nghệ Hemera, đây là "chìa khóa" giúp VnEconomy quản lý nội dung linh hoạt, hiệu quả, tối ưu hóa giao diện và sẵn sàng cho việc tích hợp AI. Nền tảng này không chỉ giải quyết những hạn chế của các hệ thống CMS truyền thống mà còn mang đến sự linh hoạt, mạnh mẽ và khả năng mở rộng vượt trội cho các cơ quan báo chí và tổ chức.
+
+Ông Lưu Quang Trung, Giám đốc Phát triển Sản phẩm Hemera Media, chia sẻ điểm khác biệt của Hemera AI CMS là khả năng ứng dụng AI một cách toàn diện từ khâu sáng tạo, biên tập, quản lý, xuất bản cho tới hỗ trợ ra quyết định.
+
+“Mục tiêu của nền tảng phải là giúp tối ưu hóa quy trình làm báo theo hướng lấy người dùng làm trung tâm, mà ba nhóm đối tượng chính mà Hemera AI CMS phục vụ là phóng viên, ban biên tập và độc giả”, ông Lưu Quang Trung cho biết.
+
+Với phóng viên,hệ thống hỗ trợ viết bài, tối ưu hóa nội dung, thậm chí đề xuất chủ đề mới dựa trên xu hướng tìm kiếm từ Google và thị hiếu người đọc. Công cụ AI được tích hợp ngay trong giao diện tác nghiệp, cho phép tạo nội dung từ bản tóm tắt, viết lại bài cho ngắn hoặc dài hơn, đơn giản hóa ngôn từ hay cải thiện tiêu đề bằng các gợi ý SEO.
+
+“Điều này có nghĩa hệ thống sẽ giúp phóng viên tiết kiệm đáng kể thời gian và công sức trong quá trình sản xuất nội dung”, ông Trung nhấn mạnh.
+
+Với ban biên tập, Hemera AI cung cấp bộ công cụ mạnh mẽ hỗ trợ kiểm duyệt chất lượng bài viết như phát hiện lỗi chính tả, viết tắt, nội dung trùng lặp hoặc nhạy cảm. Mỗi bài viết được hệ thống chấm điểm và đưa ra gợi ý cải thiện rõ ràng. Ngoài ra, AI cũng hỗ trợ phân tích dữ liệu để đưa ra các quyết định quản trị nhanh chóng và chính xác hơn.
+
+Một tính năng thú vị khác là khả năng tự động hóa việc tạo biểu đồ và xử lý dữ liệu lớn – vốn là thách thức với nhiều phóng viên. Hệ thống không chỉ giúp trực quan hóa số liệu mà còn cho phép tùy chỉnh màu sắc, chú thích, hoặc cập nhật thêm dữ liệu dễ dàng, tiết kiệm hàng giờ làm việc thủ công.
+
+Với độc giả, Hemera AI nâng cao trải nghiệm bằng các tiện ích thông minh. Tính năng miễn phí như nghe báo tự động, tiếp cận bản tin theo chủ đề, podcast hàng ngày... để giúp người đọc tiếp cận thông tin trở nên linh hoạt hơn.
+
+Đối với người dùng trả phí, nền tảng mở ra nhiều trải nghiệm cao cấp hơn, chẳng hạn tóm tắt bài viết theo yêu cầu, trò chuyện tương tác với nội dung, gợi ý bài viết cá nhân hóa theo sở thích và hành vi đọc...
+
+“Mục tiêu của nền tảng là tiết kiệm nguồn lực, nâng cao hiệu suất vận hành của tòa soạn, đồng thời mang đến trải nghiệm đọc báo thông minh và tiện lợi hơn cho người dùng”, ông Trung một lần nữa nhấn mạnh vai trò của Hemera AI CMS.
+
+Sự hợp tác giữa VnEconomy và Hemera, Actable AI không chỉ là sự kết hợp giữa báo chí và công nghệ, mà là sự đồng sáng tạo ra một nền tảng mới – nơi tin tức không còn chỉ để đọc, mà trở thành công cụ tương tác, phản hồi và định hình nhận thức xã hội. Trong giai đoạn chuyển mình này, VnEconomy đang tự làm mới chính mình để không chỉ là người đưa tin mà còn là người dẫn dắt xu hướng truyền thông kinh tế số trong tương lai.

@@ -1,0 +1,33 @@
+Thực hiện Đề án 06 của Chính phủ, Bảo hiểm xã hội Việt Nam cho biết đã phối hợp, hỗ trợ Bộ Y tế liên thông dữ liệu khám sức khỏe lái xe, giấy chứng sinh, giấy báo tử.
+
+Theo thống kê của Bảo hiểm xã hội Việt Nam, tính đến nay trên toàn quốc có 1.258 cơ sở khám chữa bệnh đã gửi dữ liệu giấy khám sức khỏe lái xe, với hơn 2,93 triệu dữ liệu được gửi.
+
+Có 1.707 cơ sở khám chữa bệnh gửi dữ liệu giấy chứng sinh, với trên 1,2 triệu dữ liệu được gửi; 659 cơ sở khám chữa bệnh gửi dữ liệu giấy báo tử, với hơn 13.400 dữ liệu được gửi.
+
+Theo Bảo hiểm xã hội Việt Nam, việc liên thông giấy khám sức khỏe lái xe qua hạ tầng của cơ quan Bảo hiểm xã hội giúp người dân có thể đề nghị cấp lại, cấp đổi giấy phép lái xe hoàn toàn trực tuyến. Trong khi đó, trước đây người dân buộc phải đến nơi cấp giấy phép lái xe để nộp bản giấy của giấy khám sức khỏe lái xe.
+
+Còn việc liên thông giấy chứng sinh, giấy báo tử qua hạ tầng của Bảo hiểm xã hội Việt Nam cũng tạo ra tiện ích rất quan trọng, là đầu vào giúp người dân có thể thực hiện dịch vụ công trực tuyến toàn trình đối với 2 nhóm thủ tục hành chính liên thông.
+
+Đó là thủ tục hành chính đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi; đăng ký khai tử - xóa đăng ký thường trú - hỗ trợ chi phí mai táng, trợ cấp mai táng.
+
+Trước đây, người dân buộc phải đến Ủy ban nhân dân xã, phường để nộp bản giấy của giấy chứng sinh, giấy báo tử khi làm thủ tục đăng ký khai sinh, đăng ký khai tử.
+
+Từ đầu năm 2024 đến nay, Bảo hiểm xã hội Việt Nam cũng đã phối hợp với Bộ Công an triển khai theo phương án kỹ thuật thử nghiệm triển khai Sổ sức khỏe điện tử tại một số bệnh viện trên địa bàn Hà Nội.
+
+Đó là Bệnh viện Xanh Pôn, Bệnh viện Đức Giang, và một số cơ sở khám chữa bệnh bảo hiểm y tế khác do Sở Y tế Hà Nội quản lý như: ĐốngĐa, Thanh Nhàn, Đông Anh, Sóc Sơn, Hoè Nhai, Mê Linh, Hà Đông…
+
+Theo đó, các đơn vị đã phối hợp nâng cấp, điều chỉnh Cổng tiếp nhận dữ liệu để đáp ứng việc tiếp nhận bổ sung thêm 5 trường thông tin bao gồm: nhóm máu; chiều cao; lý do đến khám; tóm tắt phương pháp điều trị, hướng điều trị tiếp theo; ghi chú.
+
+Bảo hiểm xã hội Việt Nam cũng đã điều chỉnh phần mềm để tiếp nhận dữ liệu từ các cơ sở khám chữa bệnh có ký hợp đồng khám chữa bệnh bảo hiểm y tế với cơ quan Bảo hiểm xã hội.
+
+Tính đến nay, trên địa bàn thành TP. Hà Nội đã có 386 cơ sở y tế với gần 2,7 triệu hồ sơ được được gửi lên Hệ thống của Bảo hiểm xã hội Việt Nam.
+
+Bên cạnh đó, Bảo hiểm xã hội Việt Nam đã phối hợp thành công việc cung cấp thông tin sổ bảo hiểm xã hội lên ứng dụng VNeID. Hiện nay, đơn vị đang tiếp tục duy trì việc liên thông dữ liệu khi có đề nghị của người lao động về việc tích hợp thông tin quá trình tham gia bảo hiểm xã hội lên ứng dụng VNeID.
+
+Tính đến nay, đã có hơn 17,2 triệu lượt truy vấn thông tin sổ bảo hiểm xã hội thành công để tích hợp lên ứng dụng VneID.
+
+Ngoài ra, Bảo hiểm xã hội Việt Nam đã phối hợp với Cục Cảnh sát Quản lý hành chính về trật tự xã hội (Cục C06) - Bộ Công an thực hiện điều chỉnh, nâng cấp ứng dụng VssID – Bảo hiểm xã hội số, đáp ứng yêu cầu kết nối, tích hợp tài khoản VNeID với ứng dụng VssID.
+
+Với việc triển khai này đã giúp người dân có thêm lựa chọn sử dụng tài khoản khi có nhu cầu khai thác thông tin, sử dụng thẻ bảo hiểm y tế, thực hiện các dịch vụ công trực tuyến dành cho cá nhân trên ứng dụng VssID.
+
+Đồng thời, điều này cũng chuẩn bị cho việc triển khai sử dụng thống nhất tài khoản định danh điện tử trong thực hiện dịch vụ công trực tuyến từ ngày 1/7/2024 theo quy định tại Nghị định số 59/2022/NĐ-CP về định danh và xác thực điện tử.

@@ -1,0 +1,33 @@
+Logistics là một ngành dịch vụ đóng vai trò quan trọng để hỗ trợ, kết nối và thúc đẩy phát triển kinh tế - xã hội của cả nước cũng như từng địa phương. Ngân hàng thế giới (World Bank) xếp Việt Nam đứng thứ 43 trong bảng xếp hạng chỉ số hiệu quả logistics (LPI) trong năm 2023.
+
+Với việc xếp hạng như trên cho thấy Logistics Việt Nam chưa được hiệu quả. Lý do là chi phí logistics của ta vẫn ở mức cao làm giảm năng lực cạnh tranh cho hàng hóa của Việt Nam.
+
+Theo Hiệp hội doanh nghiệp dịch vụ logistics Việt Nam, hiện chi phí logistics của Việt Nam trung bình ở mức 16,8-17% GDP, cao hơn nhiều so với mức bình quân chung là 10,6% của thế giới. Nếu tính trong khu vực ASEAN, chi phí logistics Việt Nam cao hơn các nước Singapore (đang ở mức 8,0%), Malaysia (13%) và Thái Lan (15,5%).
+
+Theo kinh nghiệm từ Singapore, để giảm được chi phí này thì cần phải ứng dụng các công nghệ như trí tuệ nhân tạo hay blockchain.
+
+Hiện Việt Nam cũng đã coi việc ứng dụng công nghệ trí tuệ nhân tạo trong logistics là một giải pháp cấp bách. Quyết định số 200/QĐ-TTg của Thủ tướng Chính phủ, về việc phê duyệt Kế hoạch hành động nâng cao năng lực cạnh tranh và phát triển dịch vụ logistics Việt Nam đến năm 2025 đã nhấn mạnh việc “nghiên cứu, ứng dụng các công nghệ mới, tiến bộ kỹ thuật, công nghệ hiện đại trong quản lý, vận hành, đào tạo về chuỗi cung ứng nhằm đạt chất lượng dịch vụ logistics cao hơn”.
+
+Chương trình Chuyển đổi số quốc gia đến năm 2025 coi  logistics là 1 trong 8 ngành cần ưu tiên chuyển đổi số. Việc ứng dụng công nghệ vào hoạt động logistics giúp các doanh nghiệp có thể giảm 14% chi phí giao hàng và tăng số lượng hàng giao trên mỗi xe lên 13%.
+
+Ngoài ra, những công nghệ đột phá cho phép các công ty và nhà cung cấp dịch vụ logistics tối ưu hóa hơn nữa chi phí và tăng năng suất giao hàng bằng cách lập kế hoạch thông minh về tuyến đường để bảo đảm có nhiều lượt nhận và trả hàng.
+
+Việc  ứng dụng AI trong logistics cũng  giúp nâng cao năng lực cạnh tranh của các doanh nghiệp trong nước, trở thành động lực để thu hút đầu tư, đặc biệt là các doanh nghiệp FDI, các “big tech” về công nghệ, vi mạch, bán dẫn.
+
+Ths. Trần Lê Hồng Vân, chuyên gia tư vấn tại Gerson Lehrman Group (GLG), giảng viên Viện ABAII, cho biết ứng dụng AI giúp các doanh nghiệp cắt giảm từ 15 - 25% chi phí logistics thông qua tối ưu hóa lộ trình vận chuyển và quản lý hàng tồn kho.
+
+Ngoài ra, AI còn nâng cao hiệu quả vận hành kho bãi lên tới 60% và giảm thời gian xử lý đơn hàng đến 35%, giúp doanh nghiệp tăng năng suất và cải thiện chất lượng dịch vụ.
+
+Vai trò của công nghệ giúp làm giảm chi phí logistic rất lớn nên các tập đoàn hàng đầu ngành logistics đang tiếp tục đầu tư mạnh vào Blockchain và AI. Theo TS. Lê Linh Lương, Phó Viện trưởng Viện ABAII, phát biểu tại  hội thảo "Cơ hội và thách thức cho ngành logistics và chuỗi cung ứng toàn cầu trong kỷ nguyên Blockchain và AI" do Viện Công nghệ Blockchain và Trí tuệ Nhân tạo ABAII, Hiệp hội Blockchain Việt Nam tổ chức tại Hà Nội: Sự kết hợp giữa AI và Blockchain không chỉ cải thiện ngành logistics và chuỗi cung ứng nói riêng mà còn thúc đẩy sự phát triển của lĩnh vực thương mại điện tử nói chung, thông qua việc phân tích hành vi tiêu dùng, tối ưu hoạt động quảng cáo marketing và hỗ trợ doanh nghiệp nắm bắt xu hướng.
+
+Tuy nhiên, vị chuyên gia cũng cảnh báo rằng việc triển khai AI và Blockchain đang đối mặt với nhiều thách thức, đặc biệt là tình trạng thiếu nhân lực có chuyên môn cao để quản lý và vận hành các hệ thống phức tạp.
+
+Và đây cũng chính là thách thức lớn nếu chúng ta không chuẩn bị tốt nhân lực cho  việc áp dụng hai công nghệ này. Được biết hai công nghệ này có thể tác động đến khoảng 300 triệu việc làm toàn thời gian trên toàn cầu, bao gồm cả lĩnh vực thương mại điện tử.
+
+Do đó, bên cạnh việc chờ đợi khung pháp lý hoàn thiện, nhà trường và các doanh nghiệp cần chủ động hợp tác với các tổ chức giáo dục để xây dựng các chương trình đào tạo chuyên sâu, chuyên biệt theo nhu cầu cụ thể nhằm hỗ trợ doanh nghiệp ứng dụng công nghệ hiệu quả hơn.
+
+Đối với các bạn sinh viên, việc chủ động nắm bắt xu hướng, làm chủ công nghệ là cần thiết, thậm chí nên được coi là yêu cầu bắt buộc để không bị tụt hậu.
+
+Vì vậy, bên cạnh các chương trình học trong phạm vi nhà trường, các bạn sinh viên phải chủ động tìm tòi, học hỏi những kiến thức, kỹ năng trong các ngành công nghệ mới, thông qua những hình thức học tập đa dạng như trực tiếp, trực tuyến, các khóa đào tạo ngắn hạn.
+
+Một trong những khoá học trực tuyến về Blockchain và AI tại Việt Nam là MasterTeck. Tại đây, học viên có thể chủ động học tập tới hơn 300 khóa học đa dạng, cùng cơ hội nhận chứng chỉ quốc tế từ các tổ chức như CompTIA, EC-Council, PECB và chứng chỉ NFT của Viện ABAII.

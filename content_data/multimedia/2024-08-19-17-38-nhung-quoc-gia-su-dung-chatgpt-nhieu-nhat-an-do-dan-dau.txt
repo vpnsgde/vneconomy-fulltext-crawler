@@ -1,0 +1,13 @@
+Đã gần 2 năm kể từ khi startup OpenAI của Mỹ ra mắt ứng dụng ChatGPT – sự kiện bước ngoặt góp phần thúc đẩy cuộc cách mạng trí tuệ nhân tạo tạo sinh (generative AI) toàn cầu. Sự phổ biến của ChatGPT cũng châm ngòi cho một cuộc đua AI giữa nhiều công ty công nghệ lớn.
+
+ChatGPT là một chatbot mô hình ngôn ngữ lớn, được đào tạo để phản hồi lại các yêu cầu thông tin của người dùng dựa trên kho dữ liệu khổng lồ.
+
+Đồ thị thông tin dưới đây gồm các quốc gia sử dụng ChatGPT nhiều nhất, dựa trên Khảo sát Tâm lý người tiêu dùng Toàn cầu CCI năm 2023 của công ty tư vấn Boston Consulting Group (BCG).
+
+Theo đó, Ấn Độ là quốc gia đứng đầu với 45% người được khảo sát có sử dụng ChatGPT. Nguyên nhân một phần là nhu cầu lớn từ lực lượng đông đảo người lao động làm việc trong ngành AI tại quốc gia này. Bởi với nhóm lao động này, ChatGPT có thể là một công cụ đặc biệt hữu ích.
+
+Một điểm đáng chú ý trong khảo sát của BCG là các quốc gia có độ tuổi bình quân của dân số trẻ hơn có xu hướng sử dụng ChatGPT nhiều hơn. Đây có thể là do dân số trẻ có xu hướng thành thạo công hệ hơn.
+
+Điều này cũng đúng nếu nhìn vào cách sử dụng các công cụ AI. Ví dụ, đa số người tham gia khảo sát ở Ấn Độ và Philippines sử dụng AI cho các mục đích cụ thể như hỗ trợ nghiên cứu hoặc dùng làm trợ lý cá nhân ảo. Ngược lại, đa số người được khảo sát ở Mỹ và Đức (nơi có độ tuổi bình quân của dân số già hơn) dùng AI để “giải trí”.
+
+Cũng theo khảo sát, khoảng 40% tổng số người được hỏi nói rằng họ cảm thấy phấn kích với AI, trong khi 28% phản đối và 29% cảm thấy lo lắng.

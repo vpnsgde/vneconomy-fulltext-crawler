@@ -1,0 +1,39 @@
+CAPTCHA hiểu đơn giản là công cụ bảo mật giúp xác nhận người thật, chứ không phải một chương trình máy tính tự động (bot).
+
+Có nhiều dạng CAPTCHA khác nhau: từ những đoạn văn bản bị bóp méo cần gõ lại, chọn đúng hình ảnh theo yêu cầu, nghe và nhập lại tín hiệu âm thanh, giải một câu đố đơn giản, cho đến chỉ cần tick vào ô “Tôi không phải robot” – thường gọi là reCAPTCHA.
+
+Một số hệ thống dựa trên yếu tố thời gian, theo dõi tốc độ phản hồi để nhận diện đâu là người dùng thực sự.
+
+Hiện nay, thay vì tấn công trực diện, tội phạm mạng đang giả mạo cả những bài kiểm tra CAPTCHA quen thuộc để dụ người dùng mở đường cho mã độc xâm nhập.
+
+Ông Zakir Hussain Rangwala, Giám đốc BD Software Distribution Pvt Ltd, cho biết: “Các CAPTCHA giả thường được cài cắm trong những trang web đã bị xâm nhập, quảng cáo độc hại hoặc email lừa đảo. Chúng có thể xuất hiện trên các địa chỉ web trông rất giống với những trang phổ biến, khiến người dùng dễ bị lừa bật thông báo trình duyệt hoặc tải về tệp tin ngụy trang dưới dạng bước xác minh”.
+
+Theo Trung tâm phân tích mối đe dọa TRIAD của CloudSEK, đây chính là chiêu thức mà tin tặc dùng để phát tán Lumma Stealer – một loại mã độc chuyên tấn công người dùng Windows.
+
+Kẻ gian sẽ tạo ra nhiều trang web giả, đặt trên các dịch vụ lưu trữ khác nhau, thậm chí lợi dụng cả mạng phân phối nội dung (CDN) để phát tán nhanh và tạo cảm giác đáng tin. Những trang này hiển thị giao diện CAPTCHA gần như giống hệt Google, dễ khiến người dùng mất cảnh giác.
+
+Điều nguy hiểm nằm ở chỗ sau khi “kiểm tra”, người dùng bị hướng dẫn làm theo các bước như: Mở hộp thoại Run (Win + R); Nhấn Ctrl + V để dán lệnh; Rồi Enter để thực thi.
+
+Chuỗi thao tác này kích hoạt một đoạn mã ẩn, chèn lệnh PowerShell được mã hóa sẵn. Khi chạy, lệnh này lập tức tải Lumma Stealer về máy nạn nhân.
+
+Chuyên gia Anshuman Das (CloudSEK) cảnh báo: “Nhấp vào CAPTCHA giả mạo chưa chắc gây hại ngay. Nguy hiểm thật sự bắt đầu khi người dùng làm theo chỉ dẫn tiếp theo – như dán lệnh hay tải về tệp tin. Đó là lúc thiết bị của bạn đứng trước rủi ro rất lớn. Tuyệt đối cảnh giác với những hướng dẫn bất thường từ các CAPTCHA lạ”.
+
+Ông Deependra Singh, chuyên gia an ninh mạng chỉ ra rằng CAPTCHA “xịn” và CAPTCHA giả có những điểm khác biệt khá rõ. CAPTCHA thật thường nằm trên những trang web đáng tin cậy, chỉ yêu cầu những thao tác quen thuộc như chọn đúng hình ảnh hoặc tích vào ô vuông “Tôi không phải robot”.
+
+CAPTCHA giả lại hay bắt người dùng làm những việc vô lý như bấm “Cho phép” để nhận thông báo, tải về một tệp tin lạ, hoặc cung cấp thông tin cá nhân, thậm chí cả dữ liệu tài chính.
+
+Một mẹo nhanh để phát hiện CAPTCHA giả là nhìn kỹ địa chỉ trang web: nếu thấy lỗi chính tả, ký tự lạ hoặc tên miền không quen thuộc thì nên cảnh giác. Thêm nữa, CAPTCHA thật thường được nhúng sẵn trong trang web, còn CAPTCHA giả thường hiện lên bất ngờ dưới dạng cửa sổ bật ra.
+
+Thứ nhất, thoát ngay khỏi trang web.
+
+Thư hai, ngắt kết nối mạng.
+
+Thứ ba, dùng phần mềm diệt vi-rút quét toàn bộ máy.
+
+Thư tư, xóa lịch sử duyệt web, cookie và gỡ bỏ tiện ích lạ.
+
+Thứ năm, đổi mật khẩu các tài khoản quan trọng.
+
+Thứ sáu, nếu đã lỡ tải về tệp tin nào đó thì xóa ngay, tuyệt đối không mở.
+
+Ông Rangwala lưu ý: “Các lĩnh vực như thương mại điện tử hay trò chơi trực tuyến là mục tiêu dễ bị tấn công. Nếu bị lừa, kẻ xấu có thể đánh cắp tài khoản, cài phần mềm gián điệp hoặc chiếm quyền điều khiển từ xa. Đừng nhấp vào những liên kết lạ và luôn để ý địa chỉ web. Chỉ một cú nhấp sai cũng có thể khiến bạn mất tiền và cả sự riêng tư”.

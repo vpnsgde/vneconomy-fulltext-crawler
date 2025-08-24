@@ -1,0 +1,41 @@
+Trong kỷ nguyên mà trí tuệ nhân tạo (AI) được xem là trung tâm của cuộc cách mạng công nghiệp lần thứ 5 và là động lực thúc đẩy tiến bộ trên mọi lĩnh vực, thế giới đang chứng kiến tiềm năng gần như vô hạn của công nghệ này.
+
+Tuy nhiên, ở một góc nhìn khác, AI đang tạo ra mức tiêu thụ điện năng chưa từng có tiền lệ, đặt ra thách thức lớn cho tiến trình chuyển dịch năng lượng vốn đã đầy khó khăn.
+
+Tại cuộc họp báo bên lề sự kiện Energy Asia 2025 ở Kuala Lumpur (Malaysia) vừa qua, các lãnh đạo ngành năng lượng và chuyên gia công nghệ đã có phiên thảo luận sâu sắc về tương lai của ngành. Một trong những chủ đề nổi bật là mối liên kết ngày càng chặt chẽ giữa AI và năng lượng, trong bối cảnh thế giới phải đồng thời đáp ứng nhu cầu điện tăng cao và thực hiện các cam kết chuyển dịch bền vững.
+
+Chia sẻ tại buổi họp báo, TS. Daniel Yergin, Phó Chủ tịch S&P Global, nhận định AI đang tạo ra một làn sóng nhu cầu mới cho điện năng, với tốc độ mà hệ thống cung cấp truyền thống chưa từng phải đối mặt.
+
+TS. Daniel Yergin cho biết các trung tâm dữ liệu đang phát triển với quy mô chưa từng có và đòi hỏi lượng điện khổng lồ để vận hành và làm mát trên toàn cầu.
+
+
+
+“AI đang tạo ra nhu cầu điện khổng lồ từ các trung tâm dữ liệu (data centers), điều chưa từng xảy ra trước đây. Nhu cầu này kéo theo sự gia tăng sử dụng khí tự nhiên để sản xuất điện, trở thành một yếu tố mới làm thay đổi dự báo năng lượng và tạo áp lực lớn lên lưới điện cũng như hệ thống cung ứng năng lượng toàn cầu”.
+
+Thách thức càng trở nên phức tạp hơn khi đặt trong bối cảnh châu Á, khu vực được xem có động lực phát triển khác biệt so với châu Âu; TS. Yergin chỉ ra rằng trong khi nhu cầu điện ở châu Âu hầu như không tăng trong 20 năm qua, thì tại châu Á đã tăng gấp ba lần. Đây là khu vực với hơn 4,8 tỷ dân và là nơi nhiều quốc gia vẫn đang trong giai đoạn chuyển mình phát triển mạnh mẽ.
+
+Cùng quan điểm, ông YM Tan Sri Tengku Muhammad Taufik, Chủ tịch kiêm Tổng giám đốc điều hành Tập đoàn Dầu khí Quốc gia Malaysia (Petronas), đưa ra ví dụ về đất nước ông đang chứng kiến tốc độ tăng trưởng nhu cầu điện ở mức 6,5% mỗi năm.
+
+Điều này không chỉ phản ánh sự phát triển kinh tế, đô thị hóa hay công nghiệp hóa, mà còn cho thấy ảnh hưởng ngày càng rõ nét của các công nghệ mới như AI, vốn đòi hỏi hạ tầng điện toán hiệu năng cao và hoạt động liên tục.
+
+Để ứng phó với tốc độ tiêu thụ điện tăng nhanh, Malaysia đã đưa ra mục tiêu đầu tư hơn 40 tỷ ringgit (khoảng 8,8 tỷ USD) nhằm hiện đại hóa hệ thống lưới điện, bao gồm việc tích hợp trí tuệ nhân tạo, hệ thống lưu trữ pin và cải tiến vật liệu truyền tải.
+
+Song song đó, ông Taufik cho biết Petronas đang phối hợp với các đối tác để thiết lập thêm nhà máy tái hóa khí tự nhiên, nhằm đảm bảo nguồn cung linh hoạt cho khu vực bán đảo Malaysia.
+
+Dù vậy, câu chuyện đặt ra là trong khi thế giới đang tăng tốc phát triển AI để phục vụ các lĩnh vực như y tế, giáo dục, sản xuất và tài chính, thì hạ tầng năng lượng, vốn là nền móng cho toàn bộ tiến trình này, đang chịu áp lực chưa từng có. Việc đảm bảo rằng sự phát triển AI không khiến các mục tiêu khí hậu bị chậm lại đang trở thành một "bài toán" lớn cho các nhà hoạch định chính sách và giới đầu tư toàn cầu.
+
+Tuy nhiên, các chuyên gia nhận định mối quan hệ giữa AI và năng lượng không chỉ là thách thức, mà còn mang đến cơ hội. AI đang được sử dụng để tối ưu hóa vận hành lưới điện, dự báo phụ tải, giám sát hiệu suất nhà máy và nâng cao độ chính xác trong quản lý cung cầu. Những ứng dụng này giúp giảm thất thoát năng lượng, rút ngắn thời gian phản ứng trước sự cố và hỗ trợ vận hành các hệ thống năng lượng phân tán vốn ngày càng phổ biến.
+
+Theo TS. Daniel Yergin, một trong những lĩnh vực đang thu hút sự quan tâm là chuỗi cung ứng nguyên liệu thiết yếu cho điện khí hóa, đặc biệt là đồng. “Bởi nếu không đủ đồng để xây dựng lưới điện và các trung tâm dữ liệu mới, quá trình chuyển đổi số sẽ chậm lại đáng kể”, ông Yergin nói.
+
+Thực  tế, các chuyên gia cho rằng AI và năng lượng không thể tách rời trong tương lai gần. Điều quan trọng là phải đảm bảo rằng hai lĩnh vực này cùng phát triển một cách cân bằng, trong đó tiến bộ công nghệ đi đôi với trách nhiệm môi trường và tính bền vững dài hạn.
+
+
+
+“Không thể để bất kỳ nhóm dân cư nào bị bỏ lại phía sau trong quá trình chuyển đổi và AI cần được triển khai theo cách tạo ra giá trị xã hội nhiều hơn là chỉ đơn thuần phục vụ tăng trưởng công nghệ”.
+
+Liên quan đến vấn đề này, ông Taufik chia sẻ  các dự án lớn như nâng cấp lưới điện ASEAN, chia sẻ hạ tầng lưu trữ năng lượng hay xây dựng các trung tâm dữ liệu xanh có thể trở nên hấp dẫn hơn nếu được thiết kế theo từng giai đoạn đầu tư phù hợp với năng lực tài chính của các bên tham gia.
+
+Bên cạnh đó, Chủ tịch kiêm Tổng giám đốc điều hành Tập đoàn Petronas cho rằng chuyển dịch năng lượng đòi hỏi sự phối hợp sâu rộng không chỉ giữa các quốc gia, mà còn giữa nhiều lĩnh vực trong nội bộ mỗi nền kinh tế. Từ các tập đoàn năng lượng, đơn vị vận hành hạ tầng, tổ chức tài chính cho đến cơ quan hoạch định chính sách, tất cả cần cùng nhau xây dựng các kế hoạch tích hợp, đồng bộ và có tính thực thi cao. Hợp tác liên ngành như vậy là điều kiện tiên quyết để giải quyết các thách thức phức tạp và đạt được mục tiêu chuyển dịch năng lượng bền vững.
+
+“Một môi trường chính sách rõ ràng, ổn định và có thể dự đoán được là yếu tố sống còn để thu hút dòng vốn đầu tư quy mô lớn. Đây chính là “chìa khóa” để mở đường cho các dự án nâng cấp hạ tầng năng lượng – vốn đòi hỏi nguồn lực tài chính lâu dài và rủi ro thấp. Khi chính sách nhất quán, nhà đầu tư sẽ có thêm niềm tin để đồng hành cùng quá trình chuyển đổi năng lượng của quốc gia”, Chủ tịch kiêm Tổng giám đốc điều hành Tập đoàn Petronas nhấn mạnh.

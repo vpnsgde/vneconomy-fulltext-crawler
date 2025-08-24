@@ -1,0 +1,31 @@
+Đó là nội dung được viết trong báo cáo dài 42 trang, do Ferring Pharmaceuticals và Viện Y tế McKinsey của Thụy Sĩ phối hợp thực hiện và công bố tại Diễn đàn Kinh tế thế giới Davos 2024 vừa qua. Báo cáo ước tính rằng nếu thu hẹp được khoảng cách bất bình đẳng này, đến năm 2040, mỗi năm nền kinh tế toàn cầu có thêm 1.000 tỉ USD, tương đương tổng sản phẩm quốc nội (GDP) bình quân đầu người tăng thêm 1,7% do những đóng góp của nữ giới.
+
+Cụ thể, mỗi 1 USD đầu tư vào chăm sóc sức khỏe phụ nữ sẽ đóng góp 3 USD vào tăng trưởng kinh tế. Phần lớn mức tăng trưởng này có được là do người phụ nữ tham gia trở lại lực lượng lao động sau khi dưỡng bệnh. Trưởng bộ phận y tế của Diễn đàn Kinh tế thế giới, ông Shyam Bishen, nhấn mạnh các phân tích trong báo cáo cho thấy đầu tư vào sức khỏe phụ nữ phải là ưu tiên hàng đầu của mỗi quốc gia.
+
+Ngoài việc cải thiện chất lượng cuộc sống của phụ nữ, đảm bảo người phụ nữ được tiếp cận những công nghệ mới trong chăm sóc sức khỏe là một trong những "khoản đầu tư" tốt nhất mà các nước có thể thực hiện cho xã hội và nền kinh tế.
+
+Kể từ khi diễn ra đến nay, triển lãm công nghệ CES 2024 đã hé mở những viễn cảnh không xa về cuộc sống của chúng ta trong thời đại mà công nghệ ngày càng trở nên thân thiện hơn với con người. Trong đó, một số doanh nghiệp đã phần nào cho thấy điểm sáng về công nghệ tập trung cải thiện sức khỏe cho nữ giới.
+
+Bà Jessica Boothe, Giám đốc Nghiên cứu thị trường của Hiệp hội Công nghệ người tiêu dùng, cho biết điều này là phù hợp với xu hướng khi "ngành y tế kỹ thuật số dành cho phụ nữ được dự báo sẽ đạt 1.200 tỷ USD vào năm 2027, khi công nghệ đã ở thời điểm chín muồi".
+
+Theo đó, hãng Aidot của Hàn Quốc đã giới thiệu thiết bị Cerviray AI cho phép sàng lọc ung thư tử cung từ xa với sự trợ giúp của trí tuệ nhân tạo (AI). Theo Tổ chức Y tế thế giới (WHO), đây là bệnh ung thư phổ biến thứ tư ở phụ nữ với khoảng 570.000 ca mắc mới và khoảng 311.000 ca tử vong ghi nhận trên toàn thế giới vào năm 2018. Tuy nhiên, ung thư tử cung cũng là một trong những dạng ung thư dễ ngăn ngừa và điều trị nhất, nếu được phát hiện sớm và điều trị hiệu quả.
+
+Thiết bị Cerviray AI của Aidot ứng dụng kỹ thuật "VIA" - để kiểm tra trực quan bằng axit axetic. Đây được đánh giá là phương pháp "đơn giản hơn, nhanh hơn và ít tốn kém hơn" so với các xét nghiệm thông thường, chẳng hạn như phết tế bào cổ tử cung. Cerviray AI có thể cho kết quả chẩn đoán ngay lập tức, trong khi các xét nghiệm hiện nay cần tới vài ngày hoặc thậm chí vài tuần. Hãng Aidot kỳ vọng với khả năng chẩn đoán từ xa, Cerviray AI sẽ trở nên hữu ích tại các nước đang phát triển, nơi cơ sở hạ tầng y tế thường thiếu hụt.
+
+Trong khi đó, Công ty Amira Health của Mỹ lại tập trung nghiên cứu thời kỳ mãn kinh - một giai đoạn trong cuộc đời người phụ nữ, đôi khi có thể dẫn đến tình trạng khó chịu đáng kể, như hiện tượng bốc hỏa. Amira Health đã thiết kế Hệ thống Terra, có khả năng "dự đoán và ngăn chặn các cơn bốc hỏa" xảy ra ban đêm, giúp phụ nữ có giấc ngủ ngon hơn với một tấm nệm làm mát. Dự kiến, Hệ thống Terra sẽ được tung ra thị trường vào tháng 3 tới với giá 525 USD/sản phẩm.
+
+Còn chiếc nhẫn Evie do hãng Movano Health sản xuất dựa trên công nghệ AI thì nhằm mục đích đảm bảo sức khỏe mỗi ngày cho người dùng bằng cách thiết lập các điều kiện sinh học để đạt được chất lượng cuộc sống tốt nhất và sau đó giúp người dùng duy trì nhịp sống này. Ngoài ra, thiết bị này còn theo dõi dữ liệu về giấc ngủ, hoạt động thể chất, lượng calo đốt cháy, tâm trạng và các yếu tố khác, cho phép AI xác định các mức độ phối hợp phù hợp để người dùng đạt được trạng thái tốt nhất.
+
+Cũng tại CES 2024, một trong những công nghệ liên quan đến y tế thu hút nhiều sự chú ý là iYU - một cánh tay robot kết hợp trí tuệ nhân tạo, có chức năng massage. Đây là sản phẩm của một công ty khởi nghiệp KUKA ở Pháp sau 8 năm nghiên cứu và phát triển. iYU mang đến trải nghiệm hoàn toàn tự chủ khi không cần bất kỳ sự hỗ trợ nào của con người. Trí tuệ nhân tạo sẽ tự động điều chỉnh từng lần massage trong thời gian thực, theo hình thái của người dùng.
+
+Theo công ty, khoảng 80% phụ nữ trưởng thành bị đau lưng, 60% cảm thấy căng thẳng, trong khi các nghiên cứu khoa học chỉ ra rằng, massage hàng tuần có thể cải thiện đáng kể sức khỏe thể chất và tinh thần của mọi người. Do đó, robot này có thể giúp con người cảm thấy thoải mái hơn, đồng thời hỗ trợ các nhân viên vật lý trị liệu.
+
+Đối với các nước đang phát triển, AI hứa hẹn sẽ cải thiện khả năng tiếp cận và chất lượng chăm sóc cho người dân, vốn bị cản trở bởi cơ sở hạ tầng và kỹ năng kém. Điều này đang dần trở nên “đúng” tại Ấn Độ, khi một tổ chức phụ nữ ở Mumbai đang phát triển một chatbot được hỗ trợ bởi trí tuệ nhân tạo, trợ giúp chăm sóc sức khỏe sinh sản cho những người phụ nữ.
+
+Myna Bolo là tên của ứng dụng được Quỹ Myna Mahila, một tổ chức phụ nữ địa phương, phát triển dựa trên mô hình ChatGPT của OpenAI. Chủ đề hoạt động của ứng dụng này là sức khỏe sinh sản cho phụ nữ, và cung cấp những thông tin quan trọng mà đôi khi phụ nữ không thể được tiếp cận do định kiến giới.
+
+Ứng dụng Myna Bolo hoạt động dựa trên dữ liệu tùy chỉnh về thông tin y tế trong lĩnh vực sức khỏe sinh sản, nhưng để tối ưu hóa nguồn dữ liệu thì cần có thêm thông tin từ chính người sử dụng. Các chuyên gia của Myna Mahila sẽ giám sát chặt chẽ các phản hồi từ chatbot, phát triển cơ sở dữ liệu gồm các câu hỏi và câu trả lời đã được xác minh, nhằm cải thiện hơn nữa những phản hồi tới người sử dụng.
+
+Có thể nói, sức mạnh công nghệ đang làm thay đổi cuộc sống vốn có của chúng ta. Điện toán đám mây, trí tuệ nhân tạo và khả năng tự động hóa ngày càng siêu việt đang biến robot có thể làm được những công việc không chỉ đòi hỏi chính xác mà cả sáng tạo và thân thiện. Bà Allison Fried, Người phát ngôn Hiệp hội Tiêu dùng Công nghệ Mỹ, cho biết: "Mỗi khi có những công nghệ xuất hiện ra thị trường thì nó cũng mang theo những câu hỏi và quan ngại. Nhưng chúng ta cần chắc chắn tạo môi trường để các doanh nghiệp có thể sáng tạo và mở rộng những giới hạn mà công nghệ có thể mang lại".
+
+Và mặc dù chính phủ các nước vẫn luôn đặt câu hỏi về “quyền riêng tư” khi tiếp cận công nghệ trí tuệ nhân tạo, nhưng có một thực tế không cần bàn cãi, đó là AI sẽ tạo ra bước đột phá trong phát triển các dịch vụ an sinh xã hội, đặc biệt là cho phụ nữ và trẻ nhỏ, nếu chúng ta biết cách tận dụng lợi thế và kiểm soát phù hợp.

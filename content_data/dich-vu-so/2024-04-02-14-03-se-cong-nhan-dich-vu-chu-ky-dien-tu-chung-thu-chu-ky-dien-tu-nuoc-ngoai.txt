@@ -1,0 +1,38 @@
+Dự thảo thông tư áp dụng đối với tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài đề nghị công nhận tại Việt Nam; tổ chức, cá nhân nước ngoài; tổ chức, cá nhân Việt Nam có nhu cầu giao dịch điện tử với tổ chức, cá nhân nước ngoài.
+
+Theo dự thảo, tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài nộp hồ sơ công nhận Tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam trực tiếp hoặc theo đường bưu điện đến địa chỉ Bộ Thông tin và Truyền thông (Trung tâm Chứng thực điện tử quốc gia), địa chỉ số 18 Nguyễn Du- Hai Bà Trưng- Hà Nội.
+
+Các tổ chức cũng có thể nộp trực tuyến tại địa chỉ https://dichvucong.neac.gov.vn. Hồ sơ trực tuyến phải đầy đủ thành phần theo quy định và phải được thể hiện dưới dạng chứng thư điện tử có giá trị pháp lý theo quy định tại Điều 19 Luật giao dịch điện tử.
+
+Trường hợp ngôn ngữ trên văn bản, tài tài liệu thuộc thành phần hồ sơ là tiếng nước ngoài thì phải được dịch thuật công chứng.
+
+Dự thảo đề xuất trong thời hạn 45 ngày làm việc tính từ ngày nhận được hồ sơ hợp lệ, Bộ Thông tin và Truyền thông xem xét, đánh giá hồ sơ và kiểm tra trạng thái chứng thư chữ ký điện tử của tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử đề nghị công nhận tại Việt Nam.
+
+Với các trường hợp đáp ứng đủ điều kiện theo quy định, Bộ Thông tin và Truyền thông cấp giấy công nhận tổ chức cung cấp dịch vụ chữ ký điện tử nước ngoài tại Việt Nam.
+
+Tổ chức cung cấp dịch vụ chứng thực điện tử quốc gia công nhận/chứng nhận cặp khóa của cho tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài được công nhận tại Việt Nam và công bố chứng thư chữ ký điện tử cho tổ chức cung cấp dịch vụ chữ ký điện tử nước ngoài được công nhận trên hệ thống chứng thực dịch vụ tin cậy.
+
+Đối với các trường hợp không đáp ứng đủ điều kiện, Bộ Thông tin và Truyền thông có thông báo và nêu rõ lý do.
+
+Thời hạn công nhận tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài tại Việt Nam là thời hạn theo giấy phép cung cấp dịch vụ của tổ chức đó tại nước sở tại và không quá thời hạn của chứng thư chữ ký điện tử của tổ chức đó.
+
+Trường hợp thay đổi thông tin dẫn đến thay đổi chứng thư số của tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài được công nhận tại Việt Nam, Tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài báo cáo việc thay đổi và đề nghị công nhận lại chứng thư chữ ký điện tử theo trình tự.
+
+Đối với hồ sơ đề nghị công nhận chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài tại Việt Nam gồm các tài liệu, văn bản giải trình, chứng minh đáp ứng đủ điều kiện quy định tại Khoản 2 Điều 26 Luật giao dịch điện tử.
+
+Theo đó, ngoài Giấy đề nghị theo mẫu, cần có các văn bản, tài liệu kỹ thuật chứng minh Chữ ký điện tử nước ngoài, chứng thư chữ ký điện tử nước ngoài phải phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật về chữ ký điện tử, chứng thư chữ ký điện tử theo quy định của pháp luật Việt Nam hoặc tiêu chuẩn quốc tế đã được thừa nhận hoặc điều ước quốc tế mà Việt Nam là thành viên.
+
+Hồ sơ có chứng thư chữ ký điện tử nước ngoài đề nghị công nhận tại Việt Nam. Các trường thông tin trên chứng thư chữ ký điện tử phải bao gồm nhưng không giới hạn các thông tin theo quy định của pháp luật Việt Nam để phục vụ kiểm tra trạng thái chứng thư chữ ký điện tử trên hệ thống chứng thực dịch vụ tin cậy.
+
+Dự thảo cũng nêu các tài liệu để chứng minh Chứng thư chữ ký điện tử nước ngoài hình thành dựa trên thông tin định danh đầy đủ đã được xác thực của tổ chức, cá nhân nước ngoài. Cụ thể đối với tổ chức Việt Nam: Giấy chứng nhận đăng ký doanh nghiệp hoặc giấy chứng nhận đầu tư hoặc quyết định thành lập hoặc quyết định quy định chức năng, nhiệm vụ, quyền hạn đối với tổ chức. Đối với cá nhân Việt Nam: chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu.
+
+Đối với tổ chức nước ngoài: Văn bản của cơ quan có thẩm quyền cho phép hoạt động hợp pháp tại Việt Nam. Đối với cá nhân nước ngoài: Hộ chiếu kèm theo visa hoặc văn bản xác nhận cư trú hợp pháp tại Việt Nam.
+
+Trường hợp được ủy quyền sử dụng chữ ký điện tử phải có ủy quyền cho phép hợp pháp sử dụng chứng chữ ký điện tử và thông tin thuê bao được cấp chứng thư chữ ký điện tử phải phù hợp với thông tin trong văn bản ủy quyền, cho phép.
+
+Trong 30 ngày làm việc kể từ khi nhận được đầy đủ hồ sơ hợp lệ, Bộ Thông tin và Truyền thông (Tổ chức cung cấp dịch vụ chứng thực điện tử quốc gia) xem xét, đánh giá hồ sơ và kiểm tra chứng thư chữ ký điện tử đề nghị công nhận. Trường hợp cần xác minh thông tin trong văn bản, tài liệu, thời hạn trả kết quả công nhận không vượt quá 65 ngày làm việc kể từ ngày tiếp nhận hồ sơ hợp lệ.
+
+Với các trường hợp đáp ứng đủ điều kiện theo quy định sẽ được cấp giấy công nhận. Tổ chức chứng thực điện tử quốc gia đưa chứng thư chữ ký điện tử được công nhận vào danh sách tin cậy và công bố trên hệ thống chứng thực dịch vụ tin cậy của cơ quan có thẩm quyền của Việt Nam.
+
+Thời hạn công nhận chứng thư chữ ký điện tử nước ngoài tại Việt Nam là 5 năm nhưng không quá thời hạn hiệu lực của chứng thư chữ ký điện tử đó.
+

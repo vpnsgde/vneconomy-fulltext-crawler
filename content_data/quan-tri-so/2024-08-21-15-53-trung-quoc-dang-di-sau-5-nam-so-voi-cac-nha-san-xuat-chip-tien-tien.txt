@@ -1,0 +1,23 @@
+Theo Tổ chức Đổi mới và Công nghệ Thông tin (ITIF) của Mỹ, tốc độ phát triển của các công ty hàng đầu thế giới trong ngành sản xuất chip hiện nay đã bỏ xa các công ty hàng đầu của Trung Quốc nhiều năm. ITIF là một tổ chức tư vấn chính sách khoa học và công nghệ có trụ sở tại Washington.
+
+Cụ thể, theo báo cáo từ ITIF, Trung Quốc đang thua kém các nước Top đầu của toàn cầu 5 năm trong lĩnh vực sản xuất thương mại chip tiên tiến và thiết bị sản xuất chất bán dẫn, mặc dù các công ty Trung Quốc đã đạt được nhiều thành tựu trong các lĩnh vực khác.
+
+Trong lĩnh vực sản xuất chip, các công ty như Công ty Sản xuất Chất bán dẫn Đài Loan (TSMC) có trình độ công nghệ tiên tiến hơn khoảng 5 năm so với Tập đoàn Quốc tế Sản xuất Chất bán dẫn (SMIC) - xưởng đúc lớn nhất Trung Quốc.
+
+TSMC, nhà sản xuất chip theo hợp đồng lớn nhất thế giới, đã giới thiệu công nghệ sản xuất chip 3 nanomet vào năm 2022, được dùng để chế tạo một số chip phức tạp nhất thế giới. Trong khi đó SMIC mới chỉ đang thử nghiệm quy trình sản xuất chip 5 nm thế hệ tiếp theo và năm ngoái bắt đầu sản xuất chip 7 nm cho dòng điện thoại thông minh Mate 60 của Huawei bất chấp các lệnh trừng phạt của Mỹ.
+
+Stephen Ezell, Phó chủ tịch ITIF cho biết: “Trung Quốc đang đầu tư hàng trăm tỷ USD để trở thành quốc gia dẫn đầu về chất bán dẫn, vì vậy họ đang đạt được những bước tiến ấn tượng. Tuy nhiên những tiến bộ của họ cho đến nay vẫn còn hạn chế ở một số khía cạnh nhất định trong phát triển và sản xuất chip”.
+
+Các công ty Trung Quốc thậm chí còn yếu thế hơn trong việc chế tạo thiết bị sản xuất chất bán dẫn cũng như lắp ráp, thử nghiệm và đóng gói chất bán dẫn (ATP). ITIF cho biết, bất chấp những nỗ lực đổi mới, các công ty Trung Quốc vẫn “đi sau các công ty dẫn đầu toàn cầu vài năm nữa”.
+
+Cũng theo ITIF, tương lai có vẻ tươi sáng hơn trong lĩnh vực thiết kế chip logic (bộ xử lý), nơi các công ty Trung Quốc đã tiến gần hơn đến vị trí dẫn đầu toàn cầu khi chỉ chậm hơn hai năm so với các công ty khác. Báo cáo cho biết, nhu cầu mạnh mẽ ở thị trường nội địa về thiết kế chip logic sử dụng trong thiết bị di động hoặc ứng dụng trí tuệ nhân tạo đã thúc đẩy sự đổi mới nhanh hơn.
+
+Sự tăng trưởng của ngành công nghiệp bán dẫn Trung Quốc, đặc biệt là chip thế hệ cũ được thúc đẩy bởi các khoản trợ cấp lớn, khi Chủ tịch Tập Cận Bình kêu gọi tất cả các cấp chính quyền hỗ trợ nỗ lực tự lực về chip của quốc gia. Các công ty chip Trung Quốc không chỉ được hưởng lợi từ trợ cấp của nhà nước mà còn được giảm thuế hoặc miễn thuế đối với thiết bị và vật liệu cũng như ưu đãi trong việc thuê/mua đất.
+
+Kể từ năm 2014, các khoản đầu tư hàng năm vào ngành công nghiệp bán dẫn của Chính phủ Trung Quốc đã tương đương với khoản trợ cấp 52 tỷ USD mà Mỹ dành để khuyến khích sản xuất chất bán dẫn trong nước theo Đạo luật Khoa học và Chip năm 2022. Tuy nhiên các khoản trợ cấp cũng dẫn đến tình trạng dư thừa năng lực sản xuất chip truyền thống của Trung Quốc. Thị phần sản xuất các mature node (nút trưởng thành) trên toàn cầu của quốc gia này dự kiến sẽ tăng từ 31% vào năm 2023 lên 39% vào năm 2027.
+
+Sự phát triển này đã làm dấy lên mối lo ngại ở Washington rằng Trung Quốc có thể thống trị nguồn cung cấp chip trên toàn cầu. Mỹ tuyên bố sẽ tăng gấp đôi thuế đối với hàng nhập khẩu chất bán dẫn từ Trung Quốc lên 50% vào năm tới.
+
+Theo ITIF, Trung Quốc hiện đặt nhiều hy vọng vào ATP khi tỷ lệ các cơ sở ATP toàn cầu của nước này đã tăng lên 38% vào tháng 8 năm 2023 từ mức 27% vào năm 2021. Năm công ty lắp ráp và thử nghiệm thuê ngoài lớn nhất thế giới, như JCET Group và Tongfu Microelectronics, đều là thuộc sở hữu của Trung Quốc.
+
+Trong khi hơn một nửa số đơn đăng ký bằng sáng chế bán dẫn toàn cầu được nộp vào năm 2021 và 2022 đến từ các công ty Trung Quốc, gấp đôi so với các công ty Mỹ, thì các công ty Trung Quốc lại dành ít doanh thu hơn cho nghiên cứu và phát triển (R&D). Báo cáo cho thấy vào năm 2022, cường độ R&D trong ngành bán dẫn của Trung Quốc là 7,6%, so với 18,8% ở Mỹ, 15% ở EU và 11% ở Đài Loan.

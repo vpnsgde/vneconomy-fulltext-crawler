@@ -1,0 +1,19 @@
+Đó là nhận định của ông Lionel Yeo, Giám đốc điều hành khu vực Đông Nam Á ST Telemedia Global Data Centres (STT GDC) tại công bố hợp tác chiến lược giữa STT GDC và VNG, chiều 15/5.
+
+Theo đó, Việt Nam có sự phát triển mạnh mẽ về hạ tầng Internet (đứng thứ 4 về tốc độ cao, đạt 105 Mbps); Dân số và lượng người dùng Internet lớn thứ 3 khu vực Đông Nam Á (78 triệu người dùng Internet/101 triệu dân); Khoảng 169 triệu người dùng di động, với tốc độ tăng trưởng trung bình 170%...
+
+Theo báo cáo Data Center & Cloud Infrastructure Summit, tổng dung lượng thị trường lĩnh vực trung tâm dữ liệu đạt khoảng 321 tỷ USD năm 2024, với tốc độ tăng trưởng trung bình 7,3%. Trung tâm dữ liệu tại các thị trường phát triển ở châu Á đang trong thời kỳ bùng nổ và được thúc đẩy bởi nhu cầu ngày càng tăng từ các nền kinh tế số.
+
+Ngoài ra, báo cáo của Savills châu Á Thái Bình Dương cho thấy, Indonesia, Malaysia, Thái Lan và Việt Nam có ít trung tâm dữ liệu hơn Hong Kong và Singapore, mặc dù có dân số đông hơn 30 lần. Dự báo trong những năm tới, Việt Nam sẽ có sự bùng nổ về data center với quy mô đạt 1,27 tỷ USD vào năm 2030, tốc độ tăng trưởng kép bình quân 10,8%.
+
+Đồng thời, trung tâm dữ liệu của Việt Nam được đánh giá là một trong những thị trường phát triển nhanh nhất thế giới nhờ quá trình số hóa của nhóm doanh nghiệp vừa và nhỏ trong nước và dân số trẻ hiểu biết về kỹ thuật số, sự xuất hiện của 5G, nhu cầu tự cung cấp cơ sở hạ tầng kỹ thuật số và luật nội địa hóa dữ liệu.
+
+Hiện, cả nước có tổng số 28 dự án trung tâm dữ liệu với tổng công suất đạt 45 MW. Thị trường ghi nhận sự tham gia của 44 nhà cung cấp dịch vụ.
+
+Chia sẻ về tiềm năng của thị trường data center Việt Nam, ông Lionel Yeo cho rằng Việt Nam đang có nhu cầu rất cao về điện toán đám mây và đặc biệt, sự ủng hộ mạnh mẽ từ Chính phủ trong chuyển đổi số. Chương trình Chuyển đổi số Quốc gia hướng đến mục tiêu 50% hoạt động của doanh nghiệp được chuyển lên môi trường số trước 2025. Ngoài ra, Việt Nam dự định sẽ đầu tư nâng cấp từ 2-4 đường truyền hạ tầng viễn thông đi quốc tế, đạt tốc độ 60 Tbps…
+
+“Hợp tác giữa STT GDC và VNG được kì vọng sẽ hỗ trợ tích cực cho quá trình chuyển đổi số tại Việt Nam, thông qua thiết lập và phát triển các trung tâm dữ liệu mới đạt tiêu chuẩn quốc tế. Thỏa thuận này bao gồm việc tiếp tục vận hành Trung tâm dữ liệu STT VNG Ho Chi Minh City 1 (trước đây là VNG Data Center, tọa lạc tại Khu chế xuất Tân Thuận) và thành lập một Trung tâm dữ liệu mới với tên gọi STT VNG Ho Chi Minh City 2 và cách cơ sở đầu tiên 1,5km. Trung tâm dữ liệu số 2 dự kiến đi vào hoạt động trong nửa đầu năm 2026”, ông Lionel Yeo thông tin.
+
+Theo ông Lê Hồng Minh, Tổng giám đốc VNG, việc hợp tác với đối tác nước ngoài sẽ phần nào đáp ứng nhu cầu lưu trữ dữ liệu cho các doanh nghiệp trong nước mà còn góp phần đưa sản phẩm, dịch vụ của họ ra thị trường quốc tế. Bên cạnh đó, VNG cũng sẽ hợp tác để đưa công nghệ AI Cloud tới gần hơn với các doanh nghiệp trong nước và khu vực, đón đầu xu hướng then chốt của nền kinh tế số.
+
+Theo thiết kế, STT VNG Ho Chi Minh City 2 có khả năng cung cấp công suất điện lên đến 60MW sau khi hoàn thiện. Trung tâm dữ liệu này cũng sẽ được kết nối đến Trung tâm dữ liệu đầu tiên thông qua hạ tầng mạng đa dạng, tạo điều kiện thuận lợi cho việc kết nối và mở rộng dịch vụ. STT VNG Ho Chi Minh City 2 cũng có khả năng truy cập vào các trạm biến áp lân cận, mạng viễn thông thiết yếu, các tuyến giao thông, hậu cần, trung tâm kinh doanh và công nghiệp,…

@@ -1,0 +1,49 @@
+Trong một thông báo hôm thứ Sáu tuần trước, Cơ quan quản lý không gian mạng Trung Quốc (CAC) cho biết đã mở một cuộc điều tra về các sản phẩm của Micron tại Trung Quốc để “bảo vệ an ninh chuỗi cung ứng cơ sở hạ tầng thông tin quan trọng”, đồng thời “ngăn ngừa rủi ro an ninh không gian mạng do những sản phẩm có vấn đề”.
+
+Một ngày sau đó, công ty Micron, có trụ sở tại Boise, bang Idaho (Mỹ), phát đi thông cáo nói rằng “đang liên lạc với CAC và hợp tác đầy đủ” với cơ quan này. Công ty Mỹ “cam kết thực hiện mọi hoạt động kinh doanh một cách liêm chính không thỏa hiệp” và luôn bảo đảm tính bảo mật cho các sản phẩm của mình.
+
+Theo tờ Bưu điện Hoa Nam Buổi sáng (SCMP), động thái của CAC có thể làm leo thang căng thẳng giữa Bắc Kinh và Washington, sau khi Mỹ dẫn đầu một loạt biện pháp nhằm siết chặt xuất khẩu chip tiên tiến và thiết bị sản xuất chip sang Trung Quốc.
+
+Cuộc điều tra của CAC diễn ra đúng thời điểm Trung Quốc bị Mỹ và các nước đồng minh “bủa vây” trên mọi mặt mặt của thị trường bán dẫn, kể cả khi Bắc Kinh đã nỗ lực tự cung tự cấp nhằm giảm sự phụ thuộc vào các công nghệ của Mỹ. Vì vậy, theo nhà phân tích Wang Lifu tại công ty nghiên cứu bán dẫn ICwise ở Thượng Hải, cuộc điều tra dường như “gửi một tín hiệu cảnh báo” tới các quốc gia láng giềng như Nhật Bản và Hàn Quốc.
+
+Dù có truyền thống trả đũa mạnh tay với các chính sách gây bất lợi của nước ngoài, Trung Quốc đến nay hầu như không có động thái mạnh mẽ nào để phản ứng với lệnh hạn chế xuất khẩu con chip của Mỹ...
+
+“Nhật Bản, Hàn Quốc và Đài Loan đã tham gia Liên minh chip 4 do Mỹ dẫn đầu, động thái được Bắc Kinh xem là một âm mưu của Washington nhằm loại Trung Quốc khỏi chuỗi cung ứng chất bán dẫn”, ông Wang nói.
+
+Vào tháng 2, các quan chức cấp cao của Liên minh chip 4 đã tổ chức cuộc họp video đầu tiên để thảo luận về khả năng phục hồi chuỗi cung ứng.
+
+Theo ông Wang, Hàn Quốc có thể sẽ đặc biệt lưu tâm tới cuộc điều tra của CAC với Micron. Bởi với các công ty chip nhớ Hàn Quốc vẫn đang có cơ sở sản xuất ở Trung Quốc như Samsung Electronics và SK Hynix, cuộc điều tra là một dấu hiệu cảnh báo rằng không nên làm theo các hành động của Mỹ.
+
+Sự thận trọng này cũng sẽ lan sang Hà Lan, sau khi Chính phủ Hà Lan, Nhật Bản và Mỹ đạt được một thỏa thuận về việc hạn chế xuất khẩu một số máy sản xuất chip cao cấp sang Trung Quốc. Động thái này tạo ra một liên minh mới đầy quyền lực có thể giáng một đòn mạnh vào tham vọng phát triển năng lực sản xuất chip nội địa của Bắc Kinh.
+
+Trước khi cuộc điều tra an ninh mạng đối với Micron được công bố, Bắc Kinh chưa có bất kỳ động thái lớn nào để đáp trả các biện pháp hạn chế xuất khẩu chip “vì lý do an ninh quốc gia” của Mỹ.
+
+Theo ông Wang, Micron bị Chính phủ Trung Quốc xem là “có vai trò tiêu cực” trong ngành công nghệ nước này.
+
+“Có một số suy đoán rằng Micron đứng sau nỗ lực thúc đẩy Chính phủ Mỹ áp đặt trừng phạt với Trung Quốc”, nhà phân tích của ICwise nói.
+
+Micron được cho là một trong những công ty chip Mỹ đã tăng chi tiêu cho vận động hành lang kể từ khi chính quyền Tổng thống Mỹ ký ban hành Đạo luật CHIPS và Khoa học vào tháng 8 năm ngoái. Đạo luật này phân bổ 52 tỷ USD để tài trợ cho hoạt động sản xuất chip ở Mỹ.
+
+Nhiều tháng trước khi đạo luật này được Tổng thống ký ban hành, Micron thông báo sẽ đóng cửa trung tâm thiết kế chip ở Thượng Hải vào cuối năm 2022 và dự kiến chuyển 150 kỹ sư Trung Quốc tới Mỹ hoặc Ấn Độ.
+
+Năm 2017, Fujian Jinhua Integrated Circuit Co, công ty sản xuất chip nhớ nhà nước của Trung Quốc tại tỉnh Phúc Kiến, bị Mỹ cáo buộc đánh cắp công nghệ của Micron. Công ty Trung Quốc sau đó đã phải ngừng sản xuất vì bị Mỹ trừng phạt.
+
+Micron trước đó đã cảnh báo về rủ ro bị loại khỏi thị trường Trung Quốc. Trong báo cáo tài chính năm 2021, công ty này nói rằng sự hỗ trợ của Bắc Kinh với các nhà sản xuất DRAM Trung Quốc có thể cản trở sự tăng trưởng của mình. Không giống thiết bị sản xuất chip của ASML hay chip đồ họa của Nvidia, các sản phẩm của Micron có thể dễ dàng bị thay thế tại thị trường Trung Quốc bằng sản phẩm của các nhà cung cấp địa phương như Yangtze Memory Technologies Co và các doanh nghiệp Hàn Quốc như Samsung và SK Hynix.
+
+Cuộc điều tra của CAC diễn ra đúng lúc Micron đang dễ bị ảnh hưởng nhất bởi các điều kiện thị trường. Thị trường Trung Quốc đại lục chiếm hơn 10% tổng doanh thu và là thị trường lớn thứ ba của công ty này, sau Mỹ và Đài Loan.
+
+Tuần trước, Micron báo lỗ ròng 2,3 tỷ USD trong quý 2 của năm tài chính gần nhất (kết thúc vào ngày 2/3) do nhu cầu sản phẩm 3D NAND giảm mạnh. Đây là quý lỗ tồi tệ nhất của công ty này trong hai thập kỷ qua.
+
+Theo đó, Micron cho biết sẽ đẩy nhanh việc sa thải nhân sự để giảm gần 15% lực lượng lao động trong năm nay. Đây là một biện pháp nhằm thích ứng với nhu cầu máy tính và đồ điện tử sử dụng sản phẩm chip của công ty trên toàn cầu. Việc sa thải dự kiến sẽ ảnh hưởng tới khoảng 7.200 nhân sự của công ty trên thế giới.
+
+Giữa lúc toàn ngành chip ảm đạm, cuộc điều tra của Trung Quốc có thể sẽ mang lại lợi ích cho các đối thủ của công ty trên thị trường chip nhớ toàn cầu. Do đó, các thủ tục tố tụng liên quan đến cuộc điều tra và kết quả điều tra cuối cùng sẽ được các công ty đa quốc gia đang hoạt động ở Trung Quốc theo dõi chặt chẽ.
+
+Với các công ty công nghệ Mỹ, cuộc điều tra của CAC gây thêm rủi ro pháp lý với hoạt động kinh doanh của họ ở Trung Quốc, bởi tất cả doanh nghiệp nước ngoài đều chịu sự quản lý của Bộ Thương mại và Ủy ban Cải cách và Phát triển Quốc gia Trung Quốc.
+
+Theo luật sư Feng Quiong chuyên về ngành bán dẫn tại Bắc Kinh, dù cuộc điều tra của CAC có thể kéo dài ít nhất 30 ngày, như quá trình này có thể kéo dài hơn nhiều nếu vụ việc phức tạp. Ví dụ, cuộc điều tra an ninh mạng của CAC nhằm vào công ty công nghệ Didi Chuxing trước đó đã kéo dài 1 năm, trước khi án phạt 8,026 tỷ Nhân dân tệ (khoảng 1,2 tỷ USD) được đưa ra.
+
+“Trung Quốc có thể áp đặt nhiều biện pháp trừng phạt và hạn chế nếu các sản phẩm của Micron được xác định là có vấn đề về an ninh mạng”, ông Feng nói. “Cũng không thể loại trừ khả năng nhà chức trách sẽ truy cứu các vấn đề lớn hơn theo Luật An ninh Quốc gia”.
+
+Trong khi đó, nhà phân tích Wang của ICwise, cho rằng bị phạt tiền sẽ là “lời cảnh báo nhẹ nhàng nhất” với Micron.
+
+“Nếu công ty không tỏ ra hối hận hoặc không có bất kỳ thay đổi nào sau cuộc điều tra, thì bước theo có thể là hạn chế hoặc cấm tiếp cận thị trường”, ông Wang nói.

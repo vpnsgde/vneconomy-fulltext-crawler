@@ -1,0 +1,15 @@
+Nhằm quản lý hiệu quả người hưởng các chế độ bảo hiểm xã hội, đảm bảo thống nhất với dữ liệu dân cư quốc gia, Bảo hiểm xã hội Việt Nam vừa ban hành công văn gửi các tỉnh, thành phố trực thuộc Trung ương về việc cấp thẻ bảo hiểm y tế đối với người đang hưởng bảo hiểm xã hội hằng tháng đề nghị cập nhật thông tin nhân thân theo căn cước công dân.
+
+Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến 2030 (Đề án 06) của Chính phủ xác định, một trong các nhiệm vụ chính liên quan đến ứng dụng Cơ sở dữ liệu quốc gia về dân cư, đó là bảo đảm từng bước thay thế các giấy tờ cá nhân trên cơ sở tích hợp, xác thực các thông tin, giấy tờ cá nhân vào Cơ sở dữ liệu quốc gia về dân cư để chỉ cần sử dụng thẻ căn cước công dân, ứng dụng định danh điện tử quốc gia (VNeID).
+
+Trong đó, tập trung thực hiện ngay đối với một số giấy tờ như: Bảo hiểm y tế, giấy phép lái xe, mã số chứng chỉ hoặc giấy phép hành nghề, tiêm chủng, giáo dục, thẻ cán bộ, công chức, viên chức...
+
+Nhằm thực hiện hiệu quả nhiệm vụ nêu trên, Bảo hiểm xã hội Việt Nam đang nghiên cứu, xây dựng quy trình hướng dẫn đồng bộ dữ liệu quản lý người hưởng, cập nhật thông tin nhân thân trên cơ sở dữ liệu quản lý người hưởng lương hưu, trợ cấp bảo hiểm xã hội, và trợ cấp hằng tháng (gọi chung là người hưởng bảo hiểm xã hội hằng tháng) đối với người đang hưởng bảo hiểm xã hội hằng tháng, nhưng thông tin ghi trong hồ sơ hưởng không thống nhất với thông tin trong căn cước công dân.
+
+Các thông tin đã được cập nhật thống nhất theo căn cước công dân không dùng làm căn cứ để điều chỉnh lại các chế độ bảo hiểm xã hội đã được giải quyết.
+
+Trong thời gian xây dựng văn bản hướng dẫn chung về nội dung này, để đảm bảo quyền lợi khám chữa bệnh của người lao động, Bảo hiểm xã hội Việt Nam yêu cầu Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương tiếp tục thực hiện việc điều chỉnh thông tin nhân thân đối với người đang hưởng bảo hiểm xã hội hằng tháng do cơ quan Bảo hiểm xã hội quản lý để đi khám bệnh, chữa bệnh căn cứ trên căn cước công dân theo quy trình quy định tại Quyết định số 888 và Quyết định số 490.
+
+Căn cứ đề nghị của cá nhân về việc điều chỉnh thông tin họ, tên, chữ đệm; ngày, tháng, năm sinh; giới tính trên thẻ bảo hiểm y tế do có sự khác biệt về thông tin cá nhân tại căn cước công dân mới được cấp, và thông tin quản lý người hưởng của cơ quan Bảo hiểm xã hội, cán bộ cơ quan Bảo hiểm xã hội hướng dẫn người nộp hồ sơ ghi rõ thông tin đề nghị điều chỉnh vào mục 18 của Mẫu tờ khai TK01-TS.
+
+Đồng thời, thực hiện kiểm tra thông tin trên căn cước công dân với thông tin trên cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu hộ gia đình của ngành Bảo hiểm xã hội trước khi trình cấp thẩm quyền phê duyệt.

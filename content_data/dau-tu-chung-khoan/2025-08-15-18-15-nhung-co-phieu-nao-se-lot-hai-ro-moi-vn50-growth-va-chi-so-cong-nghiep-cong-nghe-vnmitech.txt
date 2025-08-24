@@ -1,0 +1,29 @@
+Như VnEconomy đưa tin, Sở Giao dịch chứng khoán Hồ Chí Minh vừa giới thiệu hai bộ chỉ số đầu tư mới bao gồm: Chỉ số cổ phiếu công nghiệp hiện đại và công nghệ (VNMITECH) và Chỉ số VN50 tăng trưởng (VN50 Growth). Việc thiết lập hai chỉ số này sẽ mở ra việc thành lập các quỹ ETF đầu tư theo hai chỉ số.
+
+Với  Chỉ số VN50 tăng trưởng, lấy danh mục cổ phiếu thành phần của chỉ số VNAllshare tại kỳ gần nhất và chọn các cổ phiếu có Giá trị vốn hóa điều chỉnh free-float GTVH_f >= 2.000 tỷ đồng và Giá trị giao dịch khớp lệnh GTGD_KL >= 20 tỷ đồng/ngày.
+
+Từ danh sách thỏa mãn điều kiện, chọn 50 mã cổ phiếu có GTVH_f lớn nhất vào rổ chính thức. chọn 10 mã cổ phiếu có GTVH_f lớn nhất tiếp theo vào rổ dự phòng (ưu tiên GTGD_KL cao hơn khi GTVH_f bằng nhau).
+
+Giới hạn tỷ trọng vốn hóa của cổ phiếu đối với một cổ phiếu đơn lẻ là 10%; Đối với nhóm các cổ phiếu cùng ngành là 40% (chuẩn phân ngành GICS® cấp 1).
+
+Giới hạn trọng số tăng trưởng cổ phiếu (wTT): wTT là hệ số điều chỉnh dựa trên hiệu quả tăng trưởng lợi nhuận của doanh nghiệp, nhằm ưu tiên các cổ phiếu có tăng trưởng EPS tốt hơn trong rổ chỉ số. Dữ liệu để xác định wTT là từ Tăng trưởng EPS trung bình trong 3 năm liên tục gần nhất.
+
+Chứng khoán Yuanta dự báo các cổ phiếu lọt rổ trên gồm: FPT và VIC chiếm tỷ trọng lớn nhất 1,13%; tiếp theo là HPG, VHM, MWG, TCB, MSN, MBB, ACB...
+
+Chỉ số cổ phiếu công nghiệp hiện đại và công nghệ “Vietnam Modern Industrials & Technology Index” (VNMITECH) lấy danh mục cổ phiếu thành phần của chỉ số VNAllshare Materials (VNMAT), VNAllshare Industrials (VNIND), VNAllshare Information Technology (VNIT) tại kỳ gần nhất.
+
+Từ danh mục trên chọn các cổ phiếu có Giá trị vốn hóa điều chỉnh free-float GTVH_f >= 1.500 tỷ đồng. Từ danh sách cổ phiếu thỏa mãn điều kiện GTVH_f chọn các cổ phiếu có Giá trị giao dịch khớp lệnh GTGD_KL >= 15 tỷ đồng/ngày.
+
+Từ danh sách thỏa mãn điều kiện: Trường hợp >50 cổ phiếu thì chọn 50 mã cổ phiếu có GTVH_f lớn nhất (ưu tiên GTGD_KL cao hơn khi GTVH_f bằng nhau).  Trường hợp 30<cổ phiếu<50, chọn tất cả cổ phiếu thỏa mãn. Trường hợp <30 cổ phiếu, chọn tất cả cổ phiếu thỏa mãn + chọn thêm các mã cổ phiếu có GTVH_f lớn nhất (ưu tiên GTGD_KL cao hơn khi GTVH_f bằng nhau) cho tới khi đủ 30 mã.
+
+Giới hạn tỷ trọng vốn hóa của cổ phiếu: Đối với một cổ phiếu đơn lẻ là 15%; Đối với nhóm các cổ phiếu được lựa chọn từ rổ chỉ số VNMAT là 25%.
+
+Giới hạn trọng số theo thanh khoản của cổ phiếu (wL): wL là hệ số điều chỉnh dựa trên mức thanh khoản của cổ phiếu, nhằm ưu tiên các cổ phiếu có thanh khoản tốt hơn trong rổ chỉ số. Dữ liệu để xác định wL là từ GTGD_KL / GTVH_f gần nhất.
+
+Danh mục Yuanta đưa tham khảo là FPT, HPG, VJC, GEX, GMD, DGC....
+
+Điểm cơ sở của hai chỉ số đầu tư trên là 1.000. Danh mục cổ phiếu thành phần sẽ được xem xét định kỳ vào ngày giao dịch cuối cùng của tháng 12 và tháng 6 hàng năm;
+
+Cập nhật thông tin định kỳ hàng quý vào ngày giao dịch cuối cùng của tháng 12-3-6-9 với các thông tin như tỷ lệ free-float, khối lượng lưu hành, giới hạn tỷ trọng vốn hoá, giới hạn trọng số tăng trưởng/thanh khoản của cổ phiếu.
+
+Trong khoảng thời gian từ ngày chốt dữ liệu đến ngày hiệu lực, rổ chỉ số chính thức và rổ chỉ số dự phòng sẽ tiếp tục được cập nhật, loại các cổ phiếu rơi vào diện bị cảnh báo do vi phạm công bố thông tin, diện kiểm soát, hạn chế giao dịch, tạm ngừng giao dịch (ngoại trừ tạm ngừng giao dịch do thực hiện sử kiện doanh nghiệp dưới 30 ngày giao dịch), đình chỉ giao dịch, cổ phiếu bị huỷ bỏ niêm yết.

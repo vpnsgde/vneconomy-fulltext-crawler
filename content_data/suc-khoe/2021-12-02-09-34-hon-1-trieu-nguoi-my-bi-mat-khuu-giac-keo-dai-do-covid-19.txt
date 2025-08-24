@@ -1,0 +1,25 @@
+Các nhà khoa học thuộc Đại học Washington ở St. Louis (Mỹ) gần đây đã tiến hành nghiên cứu sau khi nhận thấy ngày càng nhiều bệnh nhân Covid-19 bị rối loạn khứu giác và vị giác kéo dài nhiều tháng sau khi mắc bệnh. Ước tính, có khoảng 700.000 đến 1,6 triệu người mắc Covid-19 ở Mỹ có thể bị mất khứu giác trong 6 tháng hoặc lâu hơn.
+
+Bác sĩ Jay Piccirillo, chuyên gia tai mũi họng thuộc Đại học Washington (Mỹ), tác giả nghiên cứu, cho biết: "Trong vài tháng qua, tôi và các đồng nghiệp đã ghi nhận sự gia tăng đáng kể số lượng bệnh nhân đến khám vì rối loạn chức năng khứu giác. Tình trạng rối loạn có thể bao gồm cảm nhận mùi dễ chịu (như mùi của trái cây tươi) hoặc mùi hôi thối".
+
+Nhóm nghiên cứu đã tiến hành xem xét các ca nhiễm virus SARS-CoV-2 mới hàng ngày được Dự án theo dõi Covid-19 báo cáo từ ngày 13/01/2020 đến ngày 07/3/2021. Họ cũng nghiên cứu tỷ lệ rối loạn chức năng khứu giác (OD) cấp tính do bệnh Covid-19 (dựa trên kết quả một phân tích gộp gần đây là 52,7%) và tỷ lệ phục hồi rối loạn chức năng khứu giác (dựa trên kết quả một nghiên cứu tiến cứu là 95,3%).
+
+Nhóm nghiên cứu cho biết: "Qua phân tích về các trường hợp Covid-19 mới nhiễm hàng ngày, tỷ lệ rối loạn chức năng khứu giác cấp tính và tỷ lệ hồi phục rối loạn này đã cho thấy khoảng hơn 700.000 người và có thể lên tới 1,6 triệu người Mỹ bị rối loạn chức năng khứu giác mạn tính (COD) vì SARS-CoV-2. Tuy nhiên, con số này có thể vẫn còn cao hơn do đại dịch Covid-19 vẫn chưa kết thúc".
+
+Theo các nhà khoa học, các bệnh lý khác cũng có thể gây ra rối loạn chức năng khứu giác, tuy nhiên với khoảng 700.000 đến 1,6 triệu trường hợp rối loạn chức năng khứu giác liên quan đến Covid-19 là đáng quan tâm, tương ứng 5,3% - 12% trong tổng số người bị tình trạng rối loạn chức năng khứu giác.
+
+Nghiên cứu cũng chỉ ra rằng mất khứu giác và vị giác trong Covid-19 phổ biến hơn ở những người trẻ tuổi so với những bệnh nhân lớn tuổi và không có sự khác biệt lớn giữa nam và nữ, mặc dù một số nghiên cứu cho thấy những phụ nữ trẻ có chỉ số BMI cao hơn thì nguy cơ càng cao.
+
+Vậy điều gì có thể gây ra mất mùi đột ngột ở bệnh nhân mắc Covid-19? Các nhà khoa học đồng tình, SARS-CoV-2 gây tổn thương tế bào hỗ trợ thần kinh trong mũi, là nguyên nhân mất khứu giác. Có hai loại tế bào liên quan gồm tế bào cảm nhận mùi và tế bào hỗ trợ thần kinh. Các nghiên cứu giai đoạn đầu cho rằng, virus tấn công chọn lọc vào tế bào cảm nhận mùi, những tế bào này có liên hệ với tế bào cảm nhận mùi trên não, điều này gây nên sự lo ngại virus theo đó sẽ lan lên não. Tuy nhiên, giải phẫu bệnh tử thi cho thấy SARS-CoV-2 rất hiếm khi xâm nhập vào não, giả thiết tế bào cảm nhận mùi bị tổn thương cũng không chắc chắn.
+
+Một nghiên cứu khác của Đại học Harvard đã phát hiện ra rằng tế bào hỗ trợ thần kinh có rất nhiều thụ thể ACE2, trong khi tế bào cảm nhận mùi thì không. Virus SARS-CoV-2 lại chỉ tấn công vào những tế bào có thụ thể ACE2. Như vậy, giả thuyết virus tấn công các tế bào hỗ trợ thần kinh gây mất khứu giác hoặc rối loạn ở mức độ nhất định, đã dần nhận được sự đồng thuận của giới khoa học.
+
+Khi SARS-CoV-2 liên kết với ACE2 trên các tế bào bền vững trong mũi, các tế bào này sẽ chết dẫn đến mất các lông mao cảm giác trên các tế bào thần kinh thụ cảm khứu giác. Do đó, chất tạo mùi không liên kết được với lông mao của tế bào thần kinh, do đó gây ra chứng thiếu máu. Tất cả những điều này có thể xảy ra rất nhanh chỉ trong 1 hoặc 2 ngày.
+
+Trong khi điều này xảy ra, các tế bào gốc có thể nhanh chóng tái tạo các tế bào trung tâm (thường trong vòng 3 - 7 ngày), cho phép các lông mao trên tế bào thần kinh khứu giác tái tạo cho phép các chất tạo mùi một lần nữa liên kết với các tế bào thần kinh và khứu giác phục hồi.
+
+Nhiều người mắc Covid-19 tự hỏi liệu quá trình phục hồi này kéo dài bao lâu? Theo thống kê có khoảng 90% những người bị ảnh hưởng có thể mong đợi sự cải thiện trong vòng bốn tuần. Thật không may, một số sẽ bị mất vĩnh viễn. Một nghiên cứu của Đại học Harvard trên  bệnh nhân Covid-19 cho thấy tỷ lệ hồi phục là 49%. Một số bệnh nhân cũng bị tổn thương khá nghiêm trọng, thậm chí có những ca mất khứu giác kéo dài, hồi phục không hoàn toàn, hoặc cảm nhận mùi khác so với mùi trong trí nhớ, thậm chí mùi hôi thối, khó chịu.
+
+Theo các nhà nghiên cứu, hậu quả của việc mất khứu giác có thể rất nghiêm trọng, ví dụ, người mất khứu giác ít có khả năng phát hiện ra thực phẩm hư hỏng và khói trong các vụ hỏa hoạn. Một nghiên cứu năm 2014 cho thấy người mất khứu giác có nguy cơ gặp phải các biến cố nguy hiểm, chẳng hạn như ăn thức ăn ôi thiu, cao hơn gấp đôi so với những người bình thường.
+
+Cho đến nay, chưa có phương pháp điều trị rối loạn khứu giác hiệu quả, nhưng có thể rèn luyện khứu giác, tức là cho bệnh nhân tập ngửi những mùi nhất định để mũi học lại mùi. Thuốc xịt corticosteroid tại chỗ cũng thường được sử dụng trong điều trị ngắn hạn, nhưng chúng không có khả năng giúp ích ngoài giai đoạn bệnh cấp tính. Rõ ràng, trong khi chưa có nghiên cứu mới, cách "điều trị" tốt nhất là phòng ngừa mắc Covid-19, chẳng hạn như đeo khẩu trang, giữ khoảng cách an toàn và tiêm vaccine.

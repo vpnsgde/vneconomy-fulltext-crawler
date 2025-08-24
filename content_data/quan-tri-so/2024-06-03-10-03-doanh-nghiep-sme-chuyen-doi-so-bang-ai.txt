@@ -1,0 +1,25 @@
+Theo Statista, giá trị thị trường các nền tảng low-code và no-code (mã thấp và không mã) toàn cầu ước tính sẽ đạt doanh thu khổng lồ là 32 tỷ USD trong năm 2024. Thị trường dự kiến ​​​​sẽ tăng trưởng với tốc độ CAGR là 27,3% trong khoảng thời gian từ 2024 đến 2030.
+
+Bên cạnh đó, theo báo cáo của Gartner, 66% các công ty công nghệ hàng đầu đang sử dụng ít nhất bốn nền tảng low code trong năm 2024. Báo cáo này cũng dự đoán đến năm 2026, hơn 80% người dùng nền tảng low-code sẽ thuộc phân khúc nhà phát triển không phải công nghệ thông tin. Những con số này đã cho thấy ảnh hưởng ngày càng tăng của các công nghệ phát triển low-code và no-code trên toàn thế giới, nhất là trong xu thế chuyển đổi số như hiện nay.
+
+Hai thuật ngữ low-code và no-code thường được sử dụng cùng nhau và được viết tắt là LCNC. Các nền tảng này cung cấp các thành phần tạo sẵn giống như những mảnh ghép Lego, người dùng chỉ cần kéo và thả các thành phần sau đó thiết lập lại các thông số và nối các thành phần này lại với nhau để hoàn thành một giải pháp cụ thể.
+
+Như tên gọi, các nền tảng và công nghệ no code cho phép người dùng tạo ứng dụng gần như không cần mã hoá. Tuy nhiên, các nền tảng low code cung cấp một cách tiếp cận khác một chút. Người dùng có thể viết các ứng dụng với ít mã thường bằng cách sử dụng các hàm được tạo sẵn.
+
+Nhu cầu số hóa và tự động hóa quy trình làm việc đòi hỏi các doanh nghiệp cần phát triển các trang web, ứng dụng... Tuy nhiên, do hạn chế chi phí và nhân lực, LCNC đang trở thành giải pháp lý tưởng giúp các doanh nghiệp phát triển hạ tầng kỹ thuật số một cách dễ dàng, nhanh chóng và giá cả phải chăng đồng thời giảm sự phụ thuộc vào các chuyên gia, công ty và cơ quan công nghệ thông tin.
+
+Trong bối cảnh, AI đang trở thành xu thế, công nghệ này được các chuyên gia đánh giá sẽ mang lại cơ hội cho bất kỳ đơn vị nào biết ứng dụng và triển khai nhằm phục vụ cho công tác chuyển đổi số của mình.
+
+PGS.TS Nguyễn Xuân Hoài, Viện trưởng Viện Trí tuệ Nhân tạo Việt Nam (AI Academy Vietnam) tại Diễn đàn Cấp cao Chuyển đổi số Việt Nam - Asia 2024 mới đây, cho biết: “Sắp tới chúng ta sẽ nhìn thấy một làn sóng ứng dụng AI rất lớn trong doanh nghiệp, cho câu chuyện đổi số. Hệ thống này sẽ cùng tham gia làm việc với các nhân viên chỉ trong vòng 3 - 4 năm nữa”.
+
+Tuy nhiên, ông chỉ ra rằng công nghệ này chủ yếu sẽ được triển khai bởi các doanh nghiệp lớn nhờ tiềm lực chi phí và nhân lực dồi dào. Vì vậy, để giúp các doanh nghiệp vừa và nhỏ của Việt Nam tham gia vào “cuộc chơi AI đắt đỏ, rủi ro và trong bối cảnh thiếu nhân lực như”, LCNC chính là câu trả lời sáng giá nhất.
+
+Low code và no code sẽ cho phép doanh nghiệp tạo ra nhiều ứng dụng như database, data analytic..., thậm chí tạo ra một công cụ AI. Vì vậy, công nghệ này thực tế không chỉ dành cho các doanh nghiệp nhỏ, các doanh nghiệp lớn cũng sẽ tận dụng các giải pháp LCNC để đưa AI vào chuyển đổi số hoạt động doanh nghiệp, theo PGS.TS Nguyễn Xuân Hoài.
+
+Với những thế mạnh về tiết kiệm chi phí và nhân lực, PGS.TS Nguyễn Xuân Hoài nhận định các công cụ LCNC sẽ là xu thế được cả những doanh nghiệp phát triển công nghệ thông tin và doanh nghiệp thông thường ứng dụng để xây dựng các giải pháp AI trong chuyển đổi số.
+
+Để tận dụng công nghệ này, ông Hoài đề cập tới lộ trình cụ thể bao gồm 6 bước cho doanh nghiệp: (1) Xây dựng và chuẩn hóa dữ liệu; (2) Xây dựng và chuẩn hóa các quy trình nghiệp vụ; (3) Đưa quy trình, dữ liệu vào các công cụ no-code; (4) Kiểm tra, đánh giá lại quy trình; (5) Xây dựng các ứng dụng AI và phân tích dữ liệu dựa trên các công cụ no-code; (6) Vận hành/giám sát, bảo trì, nâng cấp, mở rộng.
+
+Nhằm giúp mọi người hình dung về những hiệu quả giải pháp LCNC có thể mang lại, PGS.TS Nguyễn Xuân Hoài lấy ví dụ về một startup Việt Nam chỉ với 8 nhân sự thế nhưng, gần như toàn bộ hệ thống quản lý của họ đều được vận hành trên không gian số dựa trên dữ liệu và AI. Điều đặc biệt là các giải pháp của công ty này được xây dựng dựa trên các nền tảng LCNC từ đầu đến cuối.
+
+Để số hoá hệ thống điều hành bằng giải pháp low code, công ty này chỉ cần một nhân viên IT chịu trách nhiệm làm việc trong vài tháng. “Tổng chi phí thuê để xây dựng các giải pháp trên các nền tảng LCNC chỉ khoảng hơn 500 USD/tháng, chỉ bằng lương một nhân viên nhưng hệ thống vận hành như vậy họ tiết kiệm chi phí cho hàng chục hàng trăm nhân viên. Nếu để làm các giải pháp AI như trên, ước tính chi phí bỏ ra sẽ khoảng 300.000 - 500.000 USD, không thể rẻ hơn”, PGS.TS Nguyễn Xuân Hoài nhấn mạnh.

@@ -1,0 +1,33 @@
+Trí tuệ nhân tạo đang trở nên phổ biến hơn trong ngành thực phẩm, với mức sử dụng tăng gấp đôi kể từ năm 2017, theo khảo sát toàn cầu của McKinsey. Nhà hàng, quán cà phê có thể sử dụng AI để tạo ra các công thức nấu ăn. Sự kết hợp giữa sức mạnh phân tích của AI và sự sáng tạo của con người có thể nâng cao chất lượng thực phẩm hoặc tạo ra những nông sản mới. Việc sử dụng AI để lên ý tưởng về hương vị cũng có thể mang lại những sản phẩm nổi bật trên thị trường…
+
+Chẳng hạn, đối với những người yêu thích hải sản, vân mỡ được coi là yếu tố làm nên hương vị thơm ngon của các loại cá, đặc biệt là món cá ngừ sống. Mới đây, công ty công nghệ Fujitsu và Đại học Tokai đã công bố ra mắt thiết bị có khả năng kiểm tra tự động, xác định hàm lượng chất béo của cá ngừ vây xanh đông lạnh theo cách không phá hủy.
+
+Thiết bị mang tên Sonofai được tích hợp công nghệ trí tuệ nhân tạo (AI) của Fujitsu, đang được Sonofai Inc, một công ty khởi nghiệp của Nhật Bản chuyên bảo tồn các kỹ thuật thủ công thông qua đổi mới kỹ thuật số, triển khai. Thiết bị này sử dụng công nghệ siêu âm tương tự trong y học để quét thân cá ngừ đông lạnh và xác định độ béo dựa trên khả năng hấp thụ sóng âm của mô thịt.
+
+Sonofai tận dụng công nghệ AI phân tích siêu âm của Fujitsu, có thể xác định mức độ béo của cá chỉ trong vòng 12 giây, thay thế phương pháp thủ công vốn tốn đến 60 giây và đòi hỏi kỹ năng chuyên môn. Thiết bị có thể được vận hành bởi một người, mang lại khả năng tiết kiệm nhân công và hiệu quả lao động lên tới 80%.
+
+Thịt cá béo hấp thụ ít sóng âm hơn so với thịt nạc. Nhờ vậy, AI tích hợp trong máy sẽ phân tích tín hiệu liên quan, loại bỏ các yếu tố nhiễu và tạo ra sơ đồ minh họa mức độ béo hiển thị trực tiếp trên màn hình. Máy Sonofai hướng đến các cơ sở chế biến và tổ chức đánh bắt cá chuyên nghiệp, với giá bán thiết bị dự kiến khoảng 30 triệu Yên (207.000 USD). Phiên bản mới Sonofai T-01 dự kiến sẽ ra mắt tại Nhật Bản vào tháng 6 năm nay, trước khi mở rộng ra toàn cầu.
+
+Trước đó, đại diện Tập đoàn Firmenich (Thụy Sĩ) - một trong những nhà bào chế gia vị hàng đầu thế giới - cho biết việc tái tạo cảm giác khi ăn thịt bò thuần chay giống như ăn thịt bò thật, không chỉ dựa vào hương vị, kết cấu và màu sắc, mà còn hình dạng khi nấu. Việc tìm ra một protein thực vật tương tự với thịt là một công việc rất phức tạp, và một trong những thách thức lớn nhất là không để lại dư vị khó chịu sau khi ăn.
+
+AI có thể hỗ trợ rất nhiều cho các chuyên gia trong vấn đề này. Thuật toán giúp tính toán phối hợp các thành phần nguyên liệu mà từ đó, các chuyên gia có thể tạo ra không chỉ các hương vị khác nhau mà còn là yếu tố làm thay đổi sở thích của người tiêu dùng. Ví dụ như AI đã giúp Tập đoàn Firmenich phát triển một hương vị từ thực vật giống như hương vị đặc trưng của thịt nướng.
+
+Trong khi đó, McCormick, tập đoàn có lịch sử 130 năm trong ngành sản xuất gia vị thực phẩm, đã hợp tác với IBM Research để xây dựng hệ thống trí tuệ nhân tạo có khả năng tạo ra những loại gia vị mới. Dự kiến sản phẩm đầu tiên được làm ra từ "khẩu vị" của AI sẽ có mặt trên thị trường vào cuối năm nay. Đây là một loại bột nêm có tên One, chứa hương vị pha trộn giữa gà Tuscan và thịt lợn thăn Bourbon.
+
+Phát biểu trên CNN Business, Giám đốc khoa học McCormick Hamed Faridi cho biết việc sử dụng AI giúp giảm thời gian phát triển sản phẩm. McCormick là công ty đầu tiên ứng dụng AI để phát triển sản phẩm trên quy mô lớn. Hệ thống này được đào tạo về nguyên liệu thô, công thức của các loại gia vị sẵn có, tình hình kinh doanh các mặt hàng, dự báo xu hướng và kết quả thử nghiệm sản phẩm của người dùng.
+
+Từ dữ liệu đó, AI đưa ra công thức của các loại gia vị mới và dự đoán khả năng chấp nhận của thị trường. Theo ông Faridi, thông thường các nhà phát triển sản phẩm của McCormick tạo ra gia vị mới có thể mất từ 2 tuần đến 6 tháng. Bằng việc sử dụng AI, McCormick sẽ rút ngắn được 2/3 thời gian.
+
+Tương tự, Avalo - một công ty phát triển cây trồng có trụ sở tại Bắc Carolina, đang sử dụng các mô hình AI để tạo ra bông cải xanh ăn được cả cành lẫn lá giúp giảm lãng phí thực phẩm. Đây sẽ là sản phẩm thương mại đầu tiên của công ty vào năm 2026.
+
+Theo cố vấn cao cấp về khí hậu của Oxfam, Robert Bailey dự đoán đến năm 2050, dân số toàn cầu sẽ đạt 9 tỷ người. Sự gia tăng dân số cùng những hệ quả của nóng lên toàn cầu như các thảm họa như lũ lụt và hạn hán có thể gây hại cho vật nuôi và mùa màng. AI sẽ đóng góp một phần không nhỏ vào vấn đề an ninh lương thực nhớ dự báo chênh lệch giá trong chuỗi cung ứng, từ đó nhà quản trị có thể đưa ra quyết định chiến lược phù hợp.
+
+Tại Vietnam Expo 2025 với chủ đề “Đồng hành cùng doanh nghiệp trong kỷ nguyên số” vừa qua, bên cạnh các khu trưng bày của các ngành hàng chính, còn có một khu vực riêng dành cho công nghệ số, giới thiệu các giải pháp chuyển đổi số, AI và blockchain; khu điện tử, máy móc và công nghiệp hỗ trợ…
+
+Sự kiện năm nay chào đón sự góp mặt của các thương hiệu lớn về chuyển đổi số và giải pháp công nghệ như Odoo HK, Zoho, STS, Diginet, Bizfly, Kona.... Ông Võ Duy Nghĩa, Giám đốc Công ty cổ phần Robot AI Việt Nam, cho biết: “Việc mang công nghệ Robot pha chế cà phê tích hợp trí tuệ nhân tạo về Việt Nam không chỉ đơn thuần là giới thiệu một sản phẩm hiện đại, mà còn là một bước đi chiến lược nhằm bắt nhịp với xu hướng toàn cầu hoá và chuyển đổi số trong ngành F&B”.
+
+“Chúng tôi hợp tác với các chuyên gia đầu ngành trong lĩnh vực cà phê và ẩm thực để nghiên cứu công thức tối ưu, đảm bảo mỗi sản phẩm từ Robot không chỉ hiện đại về công nghệ mà còn đậm đà về hương vị truyền thống. Không dừng lại ở robot pha cà phê, công ty đang từng bước mở rộng danh mục sản phẩm với nhiều dòng robot ứng dụng trong ngành F&B như: robot làm kem, robot làm bánh pizza, robot nấu ăn...”, ông Võ Duy Nghĩa nhấn mạnh.
+
+Song song với đó, vừa qua Cục An toàn thực phẩm (Bộ Y tế) đã tổ chức buổi tập huấn chuyên sâu về việc sử dụng ứng dụng ChatGPT và trí tuệ nhân tạo để hỗ trợ công tác quản lý trong lĩnh vực an toàn thực phẩm. Phát biểu tại sự kiện, TS. Nguyễn Hùng Long, Phó Cục trưởng Cục An toàn thực phẩm nhấn mạnh tầm quan trọng của công nghệ AI trong thời đại số.
+
+"Sự gia tăng dân số, đô thị hóa, thay đổi nhu cầu tiêu dùng đang đặt ra yêu cầu ngành thực phẩm phải chú trọng nhiều hơn vào chất lượng sản phẩm," TS. Long nói. "Tận dụng công nghệ blockchain để truy xuất nguồn gốc thực phẩm đang trở thành hướng đi được nhiều doanh nghiệp trên thế giới sử dụng".

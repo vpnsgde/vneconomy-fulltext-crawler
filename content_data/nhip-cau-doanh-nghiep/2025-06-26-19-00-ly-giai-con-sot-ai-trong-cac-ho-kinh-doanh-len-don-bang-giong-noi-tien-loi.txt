@@ -1,0 +1,25 @@
+Vốn được biết đến là lĩnh vực phức tạp, khó tiếp cận với số đông, AI giờ đây đang len lỏi vào đời sống thường nhật, đến gần hơn với từng quán nhỏ, từng gánh hàng trên khắp nẻo phố phường. Lần đầu tiên, những người kinh doanh nhỏ lẻ như cô bán bánh mỳ, chủ sạp hoa quả,... có thể làm những điều khó tin là lên đơn tính tiền với AI giúp sức.
+
+AI GIÚP HÀNG BÁNH MỲ, QUẦY HOA QUẢ LÊN ĐƠN - TÍNH TIỀN
+
+“1 bánh mỳ đầy đủ, 30.000 đồng. 1 nước đậu 10.000 đồng”, chị Ngân - chủ cửa hàng bánh mỳ trên đường Nguyễn Trãi (quận Thanh Xuân, Hà Nội) đọc order bằng chất giọng Huế đặc trưng vào một ứng dụng điện thoại. Hệ thống tự động tính giá trị đơn hàng là 40.000 đồng cùng mã QR hiển thị chính xác số tiền cần chuyển.
+
+Chị Ngân chia sẻ, suốt mấy chục năm buôn bán, chưa bao giờ chị nghĩ có ngày mình có thể lên đơn tính tiền chỉ bằng vài câu nói. “Ngày trước chị toàn tính nhẩm hoặc viết đơn ra giấy. Giờ bắt đầu có tuổi nên hay quên, nhớ nhầm món, tính sai tiền suốt. Từ khi lên đời công nghệ, chị thấy bán hàng nhẹ nhàng hơn hẳn, đơn rõ ràng, khách yên tâm. Mà chị cũng thấy mình cũng không còn tụt hậu so với lớp trẻ nữa”, chị cười.
+
+Còn với cô Khánh, chủ một sạp hoa quả lâu năm trên đường Trần Quốc Toản (quận Hoàn Kiếm, Hà Nội), việc làm quen với công nghệ là một thử thách không nhỏ. Ban đầu, cô e ngại vì nghĩ “mình lớn tuổi, mấy cái này rắc rối lắm”. Nhưng sau khi được con gái cài ứng dụng và hướng dẫn cách dùng, cô dần quen với thao tác lên đơn mới.
+
+“Cái này hay quá. Đỡ lo quên, đỡ sợ nhầm. Nhẹ đầu lắm con ạ!”, cô Khánh chia sẻ, tay vẫn thoăn thoắt xếp cam vào túi cho khách.
+
+MONG MUỐN KHÔNG NGƯỜI BÁN HÀNG NÀO BỊ BỎ LẠI TRONG LÀN SÓNG CÔNG NGHỆ
+
+Theo tìm hiểu của phóng viên, ứng dụng đang “gây sốt” khắp các hàng quán là Knote - giải pháp bán hàng dành riêng cho các hộ kinh doanh nhỏ và siêu nhỏ.
+
+Ứng dụng này hỗ trợ lên đơn, tính tiền bằng giọng nói, quản lý doanh thu đơn giản tích hợp loa báo chuyển khoản QRCode ngay trên điện thoại. Nhờ đó, Knote giúp đơn giản hóa quy trình bán hàng và giảm áp lực cho người bán vốn phải kiêm nhiệm nhiều đầu việc. Đáng chú ý, mô hình AI của Knote đã được tinh chỉnh để nhận diện giọng nói nhiều vùng miền trong môi trường hàng quán nhiều tiếng ồn, đem đến khả năng lên đơn chính xác hơn so với các mô hình ngôn ngữ lớn khác.
+
+Trong lĩnh vực bán lẻ hiện nay, sức mạnh của AI đã được tận dụng tối đa để hỗ trợ các doanh nghiệp lớn trong phân tích dữ liệu, chăm sóc khách hàng, quản lý chuỗi cung ứng,... Tuy nhiên, nhóm đối tượng đông đảo nhất của thị trường bán lẻ là hàng triệu người bán hàng phổ thông vẫn chưa được AI tiếp sức, trong khi vẫn phải đối mặt với sức ép cạnh tranh, áp lực bán hàng ngày càng tăng lên.
+
+Trong dòng chảy chuyển đổi số đang lan rộng khắp nền kinh tế, các sạp hàng ngoài chợ, hàng bún đầu ngõ, quán trà đá vỉa hè... tưởng chừng sẽ là những nơi cuối cùng tiếp cận công nghệ mới. Thế nhưng, làn sóng “bình dân hóa AI” đang thay đổi điều đó, với những ứng dụng đơn giản, dễ dàng sử dụng mà không cần nhiều đòi hỏi quá nhiều kỹ năng chuyên sâu.
+
+Với Knote, người bán hàng sẽ được tiếp cận các công nghệ tiên tiến nhất như AI trong một giải pháp tiện lợi, phù hợp nhu cầu. Không còn phải vất vả lên đơn, tính tiền hay kiểm soát doanh thu theo phương thức truyền thống, mọi thao tác bán hàng được xử lý nhanh gọn chỉ bằng chiếc điện thoại trên tay.
+
+Nhờ những lợi ích thiết thực đi cùng giao diện thân thiện với người dùng, Knote được kỳ vọng sẽ giúp các hộ kinh doanh nhỏ lẻ bán hàng hiệu quả hơn, tự tin phá bỏ “rào cản” công nghệ để vững vàng bước vào nền kinh tế số.

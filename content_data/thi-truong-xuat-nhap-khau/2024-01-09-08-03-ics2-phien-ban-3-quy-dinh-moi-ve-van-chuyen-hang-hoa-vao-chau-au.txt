@@ -1,0 +1,23 @@
+Hệ thống kiểm soát nhập khẩu 2 (ICS2) là hệ thống mới về an toàn và an ninh hải quan trước khi hàng đến của Liên minh châu Âu (EU), áp dụng quy trình mới cho nhập khẩu hàng hóa bằng đường biển, đường thủy nội địa, đường bộ và đường sắt tại EU kể từ ngày 3/6/2024.
+
+Đây là giai đoạn thứ ba hay còn là giai đoạn triển khai hệ thống mới để mở rộng các yêu cầu báo cáo dữ liệu an toàn và an ninh áp dụng cho tất cả các phương thức vận tải. Các yêu cầu tương tự đã có hiệu lực đối với hoạt động vận chuyển hàng hóa bằng đường hàng không.
+
+Với bản phát hành ICS2 thứ ba này, các hãng vận tải đường biển, đường thủy nội địa, đường bộ và đường sắt cũng cần cung cấp dữ liệu về hàng hóa được gửi đến hoặc qua EU trước khi hàng đến, thông qua Tuyên bố kê khai nhập khẩu (ENS). Nghĩa vụ này cũng liên quan đến các hãng vận chuyển bưu chính và chuyển phát nhanh sử dụng các phương thức vận tải này này để vận chuyển hàng hoá cũng như các bên liên quan khác, chẳng hạn như nhà cung cấp dịch vụ hậu cần. Trong một số trường hợp nhất định, bên nhận hàng cuối cùng được thành lập tại EU cũng phải gửi dữ liệu ENS tới ICS2.
+
+Theo đó, các bên giao dịch cần phải có sự chuẩn bị trước cho Bản phát hành thứ ba để tránh xảy ra tình trạng chậm trễ và không tuân thủ. Các doanh nghiệp chịu ảnh hưởng cần đảm bảo thu thập dữ liệu chính xác và đầy đủ từ khách hàng, cập nhật hệ thống công nghệ thông tin và quy trình vận hành cũng như cung cấp chương trình đào tạo đầy đủ cho nhân viên. Từ ngày 11/12/2023, các bên giao dịch cần hoàn thành việc kiểm tra tự tuân thủ trước khi kết nối với ICS2, nhằm xác minh khả năng truy cập và trao đổi thông tin với cơ quan hải quan.
+
+Ngoài ra, dựa theo yêu cầu, các quốc gia thành viên EU sẽ cấp quyền cho các bên giao dịch chịu ảnh hưởng để kết nối dần với ICS2 trong khoảng thời gian triển khai có hạn. Các quốc gia thành viên có thể cấp thời hạn triển khai tại bất kỳ thời điểm nào trong những khung thời gian: từ ngày 3/6/2024 đến ngày 4/12/2024 (các hãng vận tải đường biển và đường thủy nội địa); từ ngày 4/12/2024 đến ngày 1/4/2025 (đơn vị nộp đơn thứ cấp vận tải đường biển và đường thủy nội địa); và từ ngày 1/4/2025 đến ngày 1/9/2025 (các hãng vận tải đường bộ và đường sắt). Nếu các bên giao dịch chưa chuẩn bị sẵn sàng và không cung cấp dữ liệu theo yêu cầu của ICS2, hàng hóa của họ có thể sẽ bị dừng ở biên giới EU và không được cơ quan hải quan thông quan.
+
+Bằng cách thu thập dữ liệu về an toàn và an ninh, cơ quan hải quan EU có thể phát hiện rủi ro sớm hơn và can thiệp tại thời điểm thích hợp nhất trong chuỗi cung ứng để đảm bảo an toàn thương mại cho EU và công dân EU. ICS2 sẽ đơn giản hóa quy trình di chuyển hàng hóa giữa các cơ quan hải quan tại điểm nhập cảnh đầu tiên và điểm đến cuối cùng tại EU.
+
+Đồng thời, thay vì 27 điểm truy cập tại các quốc gia, ICS2 sẽ cung cấp điểm truy cập duy nhất để liên lạc với tất cả các cơ quan hải quan của các quốc gia thành viên EU đối với tất cả các hoạt động của EU. Đối với các bên giao dịch, ICS2 cũng sẽ hợp lý hóa các yêu cầu của cơ quan hải quan về cung cấp thông tin bổ sung và sàng lọc rủi ro trước khi hang hóa khởi hành, từ đó giảm bớt gánh nặng hành chính cho doanh nghiệp.
+
+Được biết, với ICS2 bản phát hành thứ nhất, áp dụng từ ngày 15/3/2021, các lô hàng bưu chính và chuyển phát nhanh đến hoặc qua EU bằng đường hàng không phải tuân theo quy định phụ của Tuyên bố kê khai nhập khẩu (còn gọi là thông tin hàng hóa trước khi chất xếp – PLACI) trước khi chất hàng lên máy bay đi EU.
+
+Với ICS2 bản phát hành 2, kể từ ngày 1/3/2023, các lô hàng thông thường được vận chuyển bằng đường hàng không cũng phải tuân theo hồ sơ PLACI và bộ dữ liệu đầy đủ của Tuyên bố kê khai nhập khẩu (ENS) trước khi đến.
+
+ICS2 bản phát hành 3 là giai đoạn thứ ba và sẽ bao gồm các phương thức vận tải đường biển, đường thủy nội địa, đường sắt và đường bộ, áp dụng từ ngày 3/6/2024. Các bên giao dịch chịu ảnh hưởng sẽ cần chuẩn bị sẵn sàng cho ICS2 trong khoảng thời gian triển khai có hạn. Tương tự như bản phát hành thứ hai, các bên giao dịch cần nộp dữ liệu ENS hoàn chỉnh trong một lần nộp đơn nếu bên nộp và chịu trách nhiệm đưa hàng hóa vào lãnh thổ hải quan EU có sẵn tất cả các dữ liệu cần thiết.
+
+Ngoài ra, các bên giao dịch còn có thể tạo nhiều hồ sơ, trong đó có nhiều hơn một phần hồ sơ ENS do nhiều bên khác nhau trong chuỗi cung ứng nộp. Trong trường hợp nộp nhiều hồ sơ, mỗi đơn vị nộp hồ sơ có trách nhiệm đảm bảo nộp kịp thời, chính xác và đầy đủ hồ sơ.
+
+Thông tin ICS2 bản phát hành thứ ba có trên trang web của Ủy ban châu ÂuImport Control System 2 - Release 3 - European Commission (europa.eu)

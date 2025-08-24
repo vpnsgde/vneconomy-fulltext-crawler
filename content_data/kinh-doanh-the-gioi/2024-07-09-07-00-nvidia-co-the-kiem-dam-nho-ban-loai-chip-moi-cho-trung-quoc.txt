@@ -1,0 +1,31 @@
+Nvidia có thể đạt doanh thu 12 tỷ USD từ việc bán các loại con chip trí tuệ nhân tạo (AI) tại thị trường Trung Quốc trong năm nay, dù các biện pháp kiểm soát xuất khẩu mà Mỹ áp dụng đặt ra trở ngại lớn đối với hãng này tại một trong những thị trường linh kiện bán dẫn lớn nhất thế giới.
+
+Theo tờ báo Financial Times, giới phân tích dự báo rằng trong những tháng tới, Nvidia - công ty ở Sillicon Valley với giá trị vốn hóa thị trường 3 nghìn tỷ USD - sẽ cung cấp hơn 1 triệu con chip H20. Đây là một sản phẩm chip mới của hãng, được thiết kế để tránh các biện pháp hạn chế của Mỹ đối với việc bán bộ xử lý AI cho khách hàng Trung Quốc.
+
+Số lượng chip này nhiều khoảng gấp đôi so với doanh số dự kiến của Huawei đối với Ascend 910B - sản phẩm mà “gã khổng lồ” công nghệ Trung Quốc đặt tham vọng cạnh tranh với H20, theo ước tính của công ty tư vấn ngành chip SemiAnalysis.
+
+Nvidia là một trong những công ty công nghệ Mỹ đối mặt thách thức lớn do mối quan hệ căng thẳng giữa Mỹ và Trung Quốc. Chính quyền Tổng thống Joe Biden muốn cắt đứt dòng chảy con chip quan trọng từ Mỹ sang Trung Quốc do lo ngại Bắc Kinh có thể sử dụng những con chip đó để tạo ra những hệ thống AI mạnh mẽ có thể ứng dụng trong quân đội.
+
+Nỗ lực của Mỹ đã dẫn tới tình trạng khan hiếm chip AI ở Trung Quốc, cản trở khả năng của các công ty công nghệ nước này như ByteDance, Tencent và Alibaba trong việc cạnh tranh với các đối thủ Mỹ như OpenAI, Microsoft, Meta và Goolge trong một lĩnh vực đang định hình lại toàn bộ ngành công nghệ.
+
+Mỗi con chip H20 có giá từ 12.000-13.000 USD, đồng nghĩa Nvidia có thể đạt doanh thu ít nhất 12 tỷ USD từ sản phẩm chip này. Con số doanh thu như vậy lớn hơn 10,3 tỷ USD doanh thu mà Nvidia có được từ thị trường Trung Quốc - bao gồm bán chip đồ họa cho các hãng game và các sản phẩm khác - trong tài khóa kết thúc vào 1/2024.
+
+Kể từ khi chính quyền ông Biden lần đầu đưa ra các biện pháp hạn chế đối với Nvidia trong việc bán những con chip AI mạnh nhất cho Trung Quốc vào năm 2022, hãng chip Mỹ này đã nhiều lần cảnh báo rằng hoạt động kinh doanh của hãng sẽ bị ảnh hưởng nghiêm trọng bởi các nhà cung cấp dịch vụ điện toán đám mây và startup AI ở Trung Quốc sẽ phải chuyển sang dùng các loại chip nội như chip Huawei.
+
+“Hoạt động kinh doanh của chúng tôi ở Trung Quốc đã giảm nhiều so với trước kia. Thị trường Trung Quốc bây giờ cũng cạnh tranh hơn trước nhiều, do các giới hạn áp lên công nghệ của chúng tôi… Tuy nhiên, chúng tôi sẽ tiếp tục làm tốt nhất để phục vụ khách hàng tại thị trường Trung Quốc”, CEO Jensen Huang của Nvidia cho biết trong một hội nghị điện đàm với các nhà phân tích hồi tháng 5 khi hãng công bố báo cáo tài chính.
+
+Cũng trong hội nghị điện đàm đó, Giám đốc tài chính Colette Kress của Nvidia nói rằng doanh thu từ mảng trung tâm dữ liệu của hãng, bao gồm chip AI, tại thị trường Trung Quốc trong quý gần đây nhất “giảm mạnh so với mức trước do việc áp các biện pháp hạn chế xuất khẩu mới vào tháng 10”.
+
+Vào năm 2021, trước khi Mỹ áp các biện pháp hạn chế xuất khẩu, thị trường Trung Quốc chiếm hơn 1/4 tổng doanh thu của Nvidia. Nếu chip H20 bán được như dự báo, Trung Quốc có thể chiếm gần 10% doanh thu của Nvidia trong năm nay. Tuy nhiên, tỷ trọng này cũng phản ánh sự tăng trưởng mạnh mẽ mà Nvidia đang có được từ các công ty công nghệ Mỹ, khi các công ty này xây dựng hệ thống AI ngày càng lớn hơn.
+
+Dù tăng trưởng doanh số của Nvidia ở Trung Quốc đã chậm lại trước khi hãng chính thức bán chip H20, các nhà phân tích của Morgan Stanley và SemiAnalysis nhận định rằng loại chip mới này đang được giao hàng với số lượng lớn và được khách hàng Trung Quốc ưa chuộng, dù hiệu suất có thấp hơn so với các loại chip mà Nvidia bán ở thị trường Mỹ.
+
+“Khách mua đã có phản hồi tích cực về khả năng cạnh tranh của H20”, một báo cáo của Morgan Stanley cho biết, phản ánh “nhu cầu mạnh tại thị trường Trung Quốc” đối với loại chip này.
+
+Nhà phân tích Dylan Patel của SemiAnalysis cho biết năng lực của chip H20 về lý thuyết là thấp hơn so với chip 910B của Huawei, nhưng trên thực tế, chip của Nvidia “hiệu quả hơn một chút” nhờ hiệu suất nhớ tốt hơn. Ông Patel ước tính Huawei sẽ chỉ bán được khoảng 550.000 con chip 910B trong năm nay do hãng và các đối tác sản xuất chưa đủ khả năng để đạt sản lượng có thể đáp ứng nhu cầu.
+
+Hầu hết các công ty AI của Trung Quốc đều đã xây dựng mô hình AI của họ dựa trên hệ sinh thái và phần mềm của Nvidia. Việc chuyển đổi sang hạ tầng của Huawei sẽ tiêu tốn cả về thời gian và tiền bạc.
+
+Chính quyền ông Biden đã áp hạn chế đối với việc Nvidia bán các con chip mạnh nhất của hãng cho Trung Quốc, gồm chip A100 và H100, vào tháng 10/2022. Washington siết chặt thêm các biện pháp kiểm soát này vào cuối năm ngoái, để bao trùm các các loại chip mới hơn của Nvidia. Đến tháng 11/2023, Nvidia bắt đầu quảng bá một loạt loại chip mới được thiết kế riêng cho thị trường Trung Quốc, trong đó H20 là loại mạnh nhất.
+
+Nếu tính cả chip máy tính cho game thủ, trung tâm dữ liệu và các khách hàng khác, Trung Quốc chiếm khoảng 9% tổng doanh thu của Nvidia trong quý gần đây nhất kết thúc vào tháng 4, giảm 22% so với cùng kỳ năm ngoái. Tuy nhiên, tổng doanh thu của Nvdidia tại thị trường Trung Quốc bao gồm cả Hồng Kông vẫn tăng trong khoảng thời gian đó, với mức tăng hơn 50% so với cùng kỳ năm trước, đạt 2,5 tỷ USD.

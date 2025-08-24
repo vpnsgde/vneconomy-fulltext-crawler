@@ -1,0 +1,27 @@
+Bảo hiểm xã hội Việt Nam vừa ban hành quy trình giám định bảo hiểm y tế mới, áp dụng từ ngày 1/1/2023.
+
+Theo đó, quy trình giám định mới hướng dẫn 2 hình thức giám định được thực hiện song song: Giám định chủ động (giám định do cơ quan bảo hiểm xã hội trực tiếp thực hiện); giám định tự động (sử dụng phần mềm kiểm tra thông tin trong dữ liệu điện tử).
+
+Quy trình giám định mới cũng hướng dẫn chi tiết các nghiệp vụ giám định chi phí khám chữa bệnh bảo hiểm y tế theo 3 hình thức: Giám định trên dữ liệu; giám định trên hồ sơ, tài liệu; giám định thanh toán trực tiếp.
+
+Về hướng dẫn giám định chi phí khám chữa bệnh bảo hiểm y tế trên dữ liệu, theo quy trình giám định này, dữ liệu để giám định chi phí khám chữa bệnh bảo hiểm y tế là các dữ liệu chi tiết chi phí khám chữa bệnh của người bệnh bảo hiểm y tế đề nghị thanh toán theo quy định của Bộ Y tế theo thời hạn theo quy định tại Điều 7 hoặc Điều 8 Thông tư số 48/2017 của Bộ trưởng Bộ Y tế.
+
+Về giám định trên hồ sơ tài liệu, tài liệu để thực hiện giám định chi phí khám chữa bệnh bảo hiểm y tế gồm hồ sơ bệnh án do cơ sở khám chữa bệnh lập theo quy định của Luật Khám bệnh, chữa bệnh số 40/2009/QH12; hoặc được lập dưới dạng bản điện tử đối với các cơ sở khám chữa bệnh đáp ứng quy định của Bộ Y tế.
+
+Giám định các hồ sơ khác sau khi tiếp nhận bảng tổng hợp đề nghị thanh toán chí phí khám chữa bệnh bảo hiểm y tế theo tháng và quý của cơ sở khám chữa bệnh, với tổng số hồ sơ giám định được thực hiện theo hướng dẫn của Bảo hiểm xã hội Việt Nam. Đối với hồ sơ từ chối theo kết quả giám định tự động, chi phí từ chối được giảm trừ trực tiếp trên từng hồ sơ.
+
+Kết quả giám định sẽ chưa tổng hợp thanh toán các hồ sơ sau giám định chủ động trùng lặp thời gian, chỉ định, chi phí điều trị.
+
+Kết thúc đợt giám định, Bảo hiểm xã hội tỉnh sẽ lập bản tổng hợp kết quả từ phần mềm giám định để thông báo cho cơ sở khám chữa bệnh; dữ liệu chi tiết các trường hợp từ chối được gửi qua Cổng tiếp nhận.
+
+Trường hợp cơ sở khám chữa bệnh có ý kiến về các nội dung từ chối thanh toán, Bảo hiểm xã hội tỉnh xác định các nội dung giải thích hợp lý, điều chỉnh kết quả giám định. Thông báo kết quả giám định trong kỳ quyết toán bằng văn bản cho cơ sở khám chữa bệnh kèm theo bảng tổng hợp chi phí khám chữa bệnh bảo hiểm y tế đưa vào quyết toán.
+
+Quy định thời gian giám định chi phí khám chữa bệnh bảo hiểm y tế trên hồ sơ, bệnh án được xác định như sau: Trong thời hạn 5 ngày làm việc đầu mỗi tháng hoặc đầu mỗi quý (đối với trường hợp giám định hằng tháng hoặc hằng quý), Bảo hiểm xã hội tỉnh thông báo kế hoạch giám định cho cơ sở khám chữa bệnh.
+
+Trong thời hạn 30 ngày kể từ ngày nhận được báo cáo quyết toán chi phí của cơ sở khám chữa bệnh, Bảo hiểm xã hội tỉnh hoàn thành việc giám định và thông báo kết quả giám định cho cơ sở khám chữa bệnh.
+
+Về giám định hồ sơ thanh toán trực tiếp, thì hồ sơ, tài liệu đề nghị thanh toán trực tiếp là của người bệnh theo quy định tại Điều 28 Nghị định số 146/2018/NĐ-CP.
+
+Theo đó, Bảo hiểm xã hội tỉnh sẽ tiếp nhận hồ sơ theo quy định của Bảo hiểm xã hội Việt Nam tại bộ phận tiếp nhận theo cơ chế "Một cửa", "Một cửa liên thông". Phân công giám định viên hoặc lập Phiếu yêu cầu giám định trong thời hạn 2 ngày làm việc, gửi cơ quan Bảo hiểm xã hội nơi phát sinh chi phí khám chữa bệnh để giám định.
+
+Cơ quan Bảo hiểm xã hội sẽ thông báo kết quả giám định chi phí khám chữa bệnh trong 20 ngày làm việc, kể từ ngày tiếp nhận được Phiếu yêu cầu giám định. Trường hợp sau giám định có chi phí được thanh toán trực tiếp, sẽ lập bảng thanh toán trực thiếu chi phí khám chữa bệnh theo mẫu quy định.

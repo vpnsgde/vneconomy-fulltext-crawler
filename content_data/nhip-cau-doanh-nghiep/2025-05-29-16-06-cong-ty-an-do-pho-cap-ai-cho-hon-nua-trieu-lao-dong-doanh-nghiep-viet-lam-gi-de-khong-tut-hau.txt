@@ -1,0 +1,55 @@
+Đào tạo kỹ năng AI cho lực lượng lao động được nhiều doanh nghiệp Ấn Độ xem là điều kiện tiên quyết để quốc gia này không tụt hậu trong cuộc cạnh tranh công nghệ toàn cầu ngày càng khốc liệt.
+
+Bốn công ty Ấn Độ nằm trong top 10 thương hiệu dịch vụ công nghệ thông tin giá trị nhất thế giới gồm Tata Consultancy Services (TCS), Infosys, HCLTech và Wipro đang đi đầu trong việc này nhằm góp phần hiện thực hóa tham vọng lấy AI làm động lực chính cho phát triển kinh tế - xã hội của Ấn Độ trong kỷ nguyên số.
+
+DOANH NGHIỆP ẤN ĐỘ ĐÀO TẠO AI QUY MÔ LỚN
+
+Đơn cử, tính tới cuối năm tài chính 2024, TCS đã đào tạo lại hơn 300.000 nhân viên về các kỹ năng nền tảng trong lĩnh vực AI và học máy, bao gồm cả AI tạo sinh. TCS gọi đây là chương trình “AI-ready” (trang bị kiến thức và kỹ năng cần thiết về ứng dụng AI trong công việc hàng ngày cho nhân viên). Hiện nay, hơn 570.000 trong tổng số 600.000 nhân viên của TCS được xem là "AI-ready".
+
+Trong khi đó, Infosys cũng đã đầu tư mạnh vào AI khi theo đuổi mục tiêu toàn bộ lực lượng lao động của Infosys trở nên "AI-aware", tức là có hiểu biết về AI, sẵn sàng thích ứng với các công nghệ mới. Đến nay chương trình đào tạo AI của Infosys đã được triển khai tới hơn 270.000 nhân viên toàn cầu (chiếm khoảng 84% tổng số nhân sự công ty). Tính đến cuối năm 2024, hơn 7 triệu dòng mã đã được các lập trình viên Infosys viết bằng công cụ AI GitHub Copilot, giúp nâng cao hiệu suất và chất lượng công việc.
+
+Theo khảo sát từ Naukri.com, trang web tuyển dụng trực tuyến lớn nhất và lâu đời nhất tại Ấn Độ, khoảng 1/3 nhân sự công nghệ tại Ấn Độ đang được đào tạo AI chính thức tại nơi làm việc. Gần 50% nhân sự từ 10 năm kinh nghiệm trở lên coi GenAI là kỹ năng được ưu tiên hàng đầu. Đáng chú ý, chỉ 18% người lao động lo ngại bị sa thải do AI. Xu hướng chung cho thấy đào tạo AI đang dần trở thành tiêu chuẩn mới trong ngành công nghệ tại Ấn Độ.
+
+ĐÀO TẠO AI CHO NHÂN SỰ CỦA DOANH NGHIỆP: 70% RÀO CẢN ĐẾN TỪ TƯ DUY
+
+Trong lúc Ấn Độ rốt ráo đào tạo kỹ năng AI, lực lượng lao động Việt Nam cũng đang chuyển mình. Tuy nhiên, thách thức không chỉ đến từ rào cản công nghệ còn mà ở khía cạnh tư duy.
+
+Theo ông Prajith Nair, Phó Chủ tịch, Giám đốc Đào tạo và Đổi mới Sáng tạo FPT Software kiêm Giám đốc Học viện Đào tạo FPT Software, Tập đoàn FPT - chuyên gia giàu kinh nghiệm trong mảng đào tạo nhân sự quốc tế, cho rằng 70% khó khăn trong đào tạo AI là do tư duy lạc hậu.
+
+Nhìn chung khi đã quen hệ thống cũ, người lao động sẽ ngại thay đổi. Việc đào tạo và áp dụng AI vào một tổ chức cũng vậy, chỉ một số nhóm nhân sự tỏ ra thích thú với việc tiếp nhận cái mới, còn phần lớn sẽ cần thời gian để tìm hiểu và thích nghi. Bên cạnh đó, thói quen ngại tranh luận khiến việc học và áp dụng AI chưa thật sự hiệu quả.
+
+Để tiến xa hơn, mỗi người cần chủ động rèn luyện tư duy phản biện, đối thoại với AI như một "đồng nghiệp thông minh". “Việc triển khai AI vì thế cần chiến lược quản trị sự thay đổi, chứ không chỉ đơn thuần là đào tạo kỹ thuật”, ông Prajith Nair khẳng định.
+
+Ở góc độ doanh nghiệp, có tới 65% lãnh đạo các doanh nghiệp khu vực châu Á - Thái Bình Dương đều tin rằng GenAI nâng cao năng suất làm việc. (Khảo sát CEO Toàn cầu lần thứ 27 của PwC). 76% nhận thấy sự cấp thiết phải đào tạo lại kỹ năng cho nhân viên, song vẫn còn 41% doanh nghiệp thừa nhận chưa triển khai GenAI.
+
+Nguyên nhân chính được PwC chỉ ra là do Gen AI phát triển quá nhanh khiến các công ty khó theo kịp, cùng với sự thiếu hụt hiểu biết thực tế về áp dụng công nghệ vào hoạt động cụ thể. Điều này đặt ra cảnh báo rõ ràng: nếu doanh nghiệp và người lao động không chủ động đầu tư vào AI, họ sẽ tụt lại phía sau trong kỷ nguyên cạnh tranh dựa trên công nghệ và đổi mới.
+
+FPT TRIỂN KHAI “BÌNH DÂN AI VỤ” TOÀN TẬP ĐOÀN
+
+Đào tạo AI cho cán bộ nhân viên được FPT xem là một trong những nhiệm vụ cấp thiết để giúp mỗi cán bộ nhân viên (CBNV) nâng cao hiệu suất và hiệu quả trong công việc hàng ngày. Toàn bộ nhân viên FPT liên tục được đào tạo các kiến thức về AI, sử dụng ứng dụng AI và kỹ năng làm việc với các trợ lý AI.
+
+Trong năm 2024, 98,8% cán bộ nhân viên được đào tạo những kiến thức cơ bản về AI, tương ứng với hơn 109.200 giờ học. Đầu năm 2025, FPT triển khai chương trình “Bình dân AI vụ” trên quy mô toàn Tập đoàn. Mỗi cán bộ nhân viên tham gia ít nhất một khóa học AI và ứng dụng AI vào công việc để nâng cao hiệu suất.
+
+Theo đó, cán bộ nhân viên FPT có thể lựa chọn các khóa học về AI và cách dùng các ứng dụng AI trên nhiều nền tảng khác nhau như Udemy, Coursera, nền tảng đào tạo nội bộ của Tập đoàn. Cùng với các khóa học trực tuyến, FPT còn tổ chức các workshop chuyên đề về ứng dụng AI nhằm nâng cao hiệu suất làm việc trong từng ngành nghề và bộ phận, giúp nhân viên dễ dàng ứng dụng công nghệ này vào thực tế công việc.
+
+Cũng trong năm 2024, hơn 10.000 nhân viên FPT đã được cấp chứng chỉ từ chương trình AI của NVIDIA. Song song với việc đào tạo AI cho CBNV, FPT cũng đang hướng tới mục tiêu cung cấp kỹ năng, kiến thức về AI cho lực lượng đông đảo 500.000 nhân lực vào năm 2030.
+
+Theo ông Prajith Nair, để thành công trong việc đào tạo AI cho nhân sự trên quy mô lớn và trong thời gian ngắn thì cần đáp ứng được 4 yếu tố.
+
+Thứ nhất, trang bị nhận thức về AI cho lãnh đạo, hiểu rõ vai trò của AI trong chiến lược phát triển, từ đó thúc đẩy quá trình chuyển đổi từ trên xuống.
+
+Thứ hai, module hóa chương trình đào tạo, xây dựng các khóa học phù hợp với từng vai trò công việc như lập trình viên, kiểm thử viên, phân tích nghiệp vụ…
+
+Thứ ba, đo lường bằng dữ liệu học tập, sử dụng các chỉ số như tỷ lệ hoàn thành khóa học, mức độ áp dụng thực tế để đánh giá hiệu quả đào tạo.
+
+Thứ tư, xây dựng cộng đồng học AI nội bộ, tổ chức các buổi chia sẻ kinh nghiệm, workshop và khuyến khích nhân sự duy trì thói quen sử dụng AI hàng ngày.
+
+AI - ĐƯỜNG ĐUA KHÔNG CHỜ AI
+
+Nghiên cứu gần đây của LinkedIn cho thấy các công ty nằm trong nhóm có trình độ hiểu biết về AI cao nhất đã đạt doanh thu cao hơn 18% so với nhóm có trình độ thấp nhất. Có thể nói cuộc đua AI đã bước vào giai đoạn bứt tốc, dù là người lao động hay doanh nghiệp đều phải “chuyển mình” để bắt kịp xu hướng thế giới.
+
+Cũng theo ông Prajith Nair, người Việt có tính cam kết rất cao trong công việc và khả năng học hỏi cái mới rất nhanh, là điểm mạnh nổi bật so với nhiều quốc gia khác. Đây chính là yếu tố nền tảng giúp người Việt dễ thích nghi, bền bỉ theo đuổi mục tiêu dài hạn – một yếu tố quan trọng trong hành trình chuyển đổi cùng AI.
+
+AI đang mở ra những cơ hội phát triển mới cho doanh nghiệp. AI giúp rút ngắn khoảng cách phát triển. Nhờ những tiến bộ của AI mà những thành tựu từng mất 10 năm để đạt được, nay có thể chỉ cần một năm. AI san bằng lợi thế về quy mô, cho phép cả doanh nghiệp nhỏ và startup cạnh tranh sòng phẳng với các ông lớn.
+
+Cuộc đua phát triển giờ đây tập trung vào việc tạo ra sự khác biệt. Vì vậy, việc có một đội ngũ nhân sự có kỹ năng ứng dụng AI vào công việc hàng ngày để nâng cao năng suất và chất lượng trở thành yếu tố “sống còn” của từng doanh nghiệp.

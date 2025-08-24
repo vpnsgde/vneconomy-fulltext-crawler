@@ -1,0 +1,51 @@
+Chia sẻ với báo chí, TS. Marko Erman, Phó Chủ tịch cấp cao kiêm Giám đốc Khoa học, Tập đoàn Thales Group khẳng định, AI đã, đang, sẽ tiến hóa rất mạnh mẽ và hiện diện ở nhiều phân khúc khác nhau của tất cả các ngành nghề, lĩnh vực. Tuy nhiên, một trong những yêu cầu quan trọng nhất đặt ra khi đưa AI vào các lĩnh vực, đặt biệt với các lĩnh vực trọng yếu như hàng không, vũ trụ, quốc phòng là tính tin cậy, an toàn, minh bạch, hợp lệ và trách nhiệm.
+
+ĐƯA AI VÀO CÁC LĨNH VỰC TRỌNG YẾU
+
+Là tập đoàn quốc phòng, an ninh trên toàn cầu với hơn 83.000 nhân viên, Thales đang hiện diện ở 68 quốc gia trên thế giới. Tại Việt Nam, Thales đang tập trung cung cấp giải pháp công nghệ trong 3 lĩnh vực quan trọng bao gồm: Hàng không và vũ trụ; quốc phòng, và an ninh mạng/công nghệ số.
+
+Định hướng phát triển của tập đoàn sẽ chú trọng vào phát triển ứng dụng AI, Big data, lượng tử... và tích hợp chúng vào các hệ thống trọng yếu đảm bảo an ninh mạng.
+
+Thực tế hiện nay, các giải pháp công nghệ AI của Thales đã được ứng dụng sâu trong các lĩnh vực từ trọng yếu như quốc phòng, hàng không, vũ trụ, đến thành phố thông minh, sản xuất thông minh.
+
+Trong lĩnh vực quốc phòng, Phó Chủ tịch cấp cao kiêm Giám đốc Khoa học, Tập đoàn Thales nhấn mạnh: “AI đóng vai trò rất quan trọng trong lĩnh vực quốc phòng, được ứng dụng trong những thiết bị cảm biến để phát hiện phân tích các mối đe doạ, từ đó đưa ra quyết định. Bên cạnh tích hợp trong thiết bị cảm biến, AI còn được sử dụng để phát hiện drone, máy bay không người lái nhằm xác định các mối nguy hại, phân tích, đưa ra tác chiến phù hợp…”.
+
+Ở lĩnh vực hàng không, thông qua Fly to Gate của Thales - giải pháp sinh trắc học ứng ứng dụng AI, hành khách đi máy bay chỉ cần nhập hình ảnh sinh trắc học của mình lên hệ thống và lên máy bay nhanh chóng, dễ dàng mà không cần chạm hay tiếp xúc với bất kỳ thiết bị nào.
+
+Ngoài ra, việc ứng dụng AI cho pháp lĩnh vực vận tải hàng không có thể tối ưu hóa đường bay, tối ưu việc cất và hạ cánh tàu bay, từ đó giảm tiêu thụ nhiên liệu, giảm phát thải CO2 xuống 10%.
+
+Còn trong lĩnh vực vũ trụ, AI được ứng dụng và phát huy vai trò tối ưu hóa quỹ đạo, hành trình di chuyển, hoạt động, phân tích xử lý ảnh của các vệ tinh.
+
+Trong sản xuất, AI giúp tối ưu hóa quy trình sản xuất thông minh, tự động hóa, tối ưu hóa năng lượng, sản xuất xanh hơn nhưng tạo ra sản lượng lớn hơn. TS. Marko Erman minh chứng, một nhà máy sản xuất trước đó cần nhiều lao động thủ công và mất 2 ngày mới hoàn thiện công đoạn nhưng khi ứng dụng AI, thời gian giảm chỉ còn 10 phút.
+
+HỢP TÁC HỖ TRỢ ĐỂ ỨNG DỤNG AI CHO PHÁT TRIỂN AN TOÀN, THÔNG MINH, BỀN VỮNG HƠN
+
+Ông Nicolas Bernardin, Giám đốc Quốc gia của Thales tại Thái Lan, Việt Nam, và Myanmar chia sẻ, “khách hàng của Thales không chỉ tổ chức chính phủ, lĩnh vực quốc phòng, mà còn có tập đoàn, công ty tư nhân, các ngân hàng, doanh nghiệp viễn thông như VNPT, Viettel...”
+
+Trong chuyến thăm của Thủ tướng Phạm Minh Chính sang Pháp năm 2021, Thales đã ký MoU với VNPT hợp tác trong 5 lĩnh vực trong đó có vệ tinh. Gần đây nhất tháng 4/2025, MoU này được gia hạn, tạo khung làm việc cho 2 bên hợp tác trong 5 lĩnh vực bảo mật số, sinh trắc học, 5G, IoT, hàng không vũ trụ...
+
+Đáng chú ý, ngày 27/5/2025, Tập đoàn đã ký MoU với Văn phòng Ủy ban Vũ trụ Việt Nam, cùng tập đoàn OSB, triển khai chương trình đào tạo số, ứng dụng công nghệ VR, AR và AI trong viễn thông, vệ tinh và hàng không vũ trụ.
+
+Thales cũng làm việc với Vietnam Airlines cung cấp hệ thống giải trí trên máy bay A350, A787; hợp tác với Cục hàng không dân dụng Việt Nam... Hơn 20 năm qua, Thales đã cung cấp hệ thống đài kiểm soát không lưu tại TP.HCM…
+
+“Thales cũng làm việc với nhiều ngân hàng như BIDV, VCB... cung cấp giải pháp thanh toán, thẻ tín dụng. Phần lớn các hệ thống bảo mật backend giao dịch của các ngân hàng Việt Nam hiện nay được cung cấp bởi Thales”, ông Nicolas Bernardin thông tin.
+
+Có thể thấy, AI đang và sẽ tiến hóa mạnh mẽ và hiện diện ở nhiều phân khúc khác nhau. Tuy nhiên, điều được quan tâm nhất là vấn đề an toàn và độ tin cậy.
+
+Nhấn mạnh điều này, TS. Marko Erman, cho rằng để đảm bảo tính tin cậy và an toàn khi ứng dụng trong các hệ thống trọng yếu, AI cần phải đáp ứng 4 yếu tố quan trọng:
+
+Thứ nhất, tính an ninh, bảo mật: Hệ thống không chỉ cần bền bỉ, mạnh mẽ mà còn phải hoàn toàn bảo mật vì AI cũng rất dễ bị tổn thương, dễ bị ảnh hưởng, bị hack bởi các hệ thống bên ngoài.
+
+Thứ hai, tính minh bạch: dễ hiểu, dễ sử dụng, có thể phân tích lý do tại sao lại áp dụng.
+
+Thứ ba, tính hợp lệ: AI chỉ làm những gì cần theo yêu cầu, không làm hơn, không làm kém, có nghĩa là vừa đúng, vừa đủ nhưng phải chính xác.
+
+Thứ tư, tính trách nhiệm: Trách nhiệm với cộng đồng, tuân thủ theo các quy định, luật lệ ở những quốc gia cần được áp dụng.
+
+Phân tích thêm, TS. Marko Erman ví von “AI như một canh bạc” sẽ rủi ro nếu thiếu biện pháp an ninh bảo vệ phù hợp. Đặc biệt nếu thông tin đầu vào không được kiểm chứng và sai thì đầu ra sẽ sai. Điều này đòi hỏi phát triển an ninh bảo mật cho AI để dù có cố đưa thông tin đầu vào sai thì hệ thống vẫn sẽ lọc, đưa ra những định hướng, thông tin đúng.
+
+Thales cùng các chuyên gia tập trung nghiên cứu phát hiện điểm yếu của AI tạo sinh để đưa ra biện pháp bảo vệ, giúp AI không bị các thông tin đầu vào xấu thâm nhập hay biến tấu; từ đó AI đưa ra kết quả tốt nhất.
+
+Là tập đoàn toàn cầu, Thales dựa vào sự hợp tác phát triển với các công ty trong nước để định vị chiến lược phát triển ở mỗi quốc gia. “Chúng tôi sẽ tìm kiếm và hợp tác với các đối tác trong nước phù hợp ở mọi quy mô để cùng phát triển, thúc đẩy năng lực địa phương trong nhiều lĩnh vực quan trọng,” ông Nicolas bày tỏ.
+
+Nhấn mạnh điều này, Thales nêu rõ chiến lược phát triển tại Việt Nam gắn với cam kết hỗ trợ các mục tiêu công nghệ và kinh tế dài hạn. Thales đảm bảo AI được ứng dụng với độ tin cậy, tính minh bạch và sự giám sát của con người, góp phần hỗ trợ mục tiêu hướng đến một Việt Nam an toàn, thông minh và bền vững hơn.

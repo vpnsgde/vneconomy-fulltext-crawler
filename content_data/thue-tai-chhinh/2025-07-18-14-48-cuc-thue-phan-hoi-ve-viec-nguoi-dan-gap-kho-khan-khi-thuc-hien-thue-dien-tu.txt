@@ -1,0 +1,25 @@
+Thứ nhất,trường hợp “Lỗi xác nhận người dùng” đã phát sinh trên ứng dụng eTax Mobile khi đăng ký tài khoản trong thời gian từ ngày 1/7/2025 đến 10/7/2025 và từ ngày 14/7/2025. Đến 16h ngày 17/7/2025, Cục Thuế đã khắc phục lỗi này và ghi nhận 51.949 người nộp thuế được cấp tài khoản thành công từ ngày 01/7/2025 đến nay.
+
+Theo đó, Cục Thuế cho biết ứng dụng dụng eTax Mobile hỗ trợ người nộp thuế đăng nhập qua VNeID mức 2 hoặc tài khoản thuế điện tử. Nếu người nộp thuế chưa xác thực định danh VNeID mức 2, ứng dụng eTax Mobile có hỗ trợ chức năng "Đăng ký tài khoản".
+
+Sau đó, người nộp thuế đến cơ quan thuế gần nhất để xuất trình hồ sơ bao gồm: căn cước công dân đối với người nộp thuế chưa xác thực định danh mức 2 hoặc hộ chiếu đối với người nước ngoài để được phê duyệt tài khoản.
+
+Thứhai,không cập nhật được địa chỉ thường trú nên không nộp được thuế khoán trên ứng dụng eTax Mobile. Cụ thể, chức năng “Thay đổi thông tin Đăng ký thuế” trên eTax Mobile nhằm mục đích hỗ trợ người nộp thuế chủ động cập nhật thông tin địa chỉ thường trú theo địa bàn hành chính mới. Tuy nhiên, từ 15/7/2025 đến 17/7/2025, hệ thống phát lỗi khiến một số người nộp thuế dù đã cập nhật địa chỉ mới nhưng vẫn không nộp được thuế.
+
+Theo Cục Thuế, tình trạng này xuất phát từ việc cơ quan thuế đang quản lý 2 bộ địa chỉ của người nộp thuế gồm(i)địa chỉ đăng ký kinh doanh và(ii)địa chỉ đăng ký thuế, dẫn đến sai sót trong việc tham chiếu đến bộ địa chỉ đăng ký kinh doanh (đối với cá nhân kinh doanh) trên eTax Mobile.
+
+Ngày 17/7/2025, Cục Thuế đã nâng cấp ứng dụng để ưu tiên lấy theo bộ địa chỉ đăng ký thuế và ghi nhận 79.937 chứng từ do cá nhân kinh doanh nộp thành công trên ứng dụng eTax Mobile và iCanhan từ đầu tháng 7/2025.
+
+Thứ ba,người nộp thuế lo ngại bị xử phạt hành chính trong trường hợp chậm khai thuế, nộp thuế do lỗi ứng dụng eTax Mobile. Phản hồi về vấn đề này, Cục Thuế cho biết theo khoản 2, Điều 9 Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, cùng với điểm a, khoản 3, Điều 9 Thông tư số 19/2021/TT-BTC ngày 18/3/2021 của Bộ Tài chính, người nộp thuế thuộc trường hợp quy định tại các điều khoản nêu trên đều sẽ không bị xử phạt vi phạm hành chính về thuế.
+
+
+
+Khoản 2 Điều 9 Nghị định số 125/2020/NĐ-CP của Chính phủ quy định: “Không xử phạt vi phạm hành chính về thuế, không tính tiền chậm nộp tiền thuế đối với người nộp thuế vi phạm hành chính về thuế do thực hiện theo văn bản hướng dẫn, quyết định xử lý của Cơ quan Thuế…”.
+
+Tại điểm a khoản 3 Điều 9 Thông tư số 19/2021/TT-BTC  của Bộ Tài chính quy định: “Trường hợp giao dịch điện tử không thực hiện được do lỗi Cổng thông tin điện tử của Tổng cục Thuế trong ngày cuối cùng của thời hạn nộp hồ sơ thuế, nộp thuế thì: Tổng cục Thuế (nay là Cục Thuế) có trách nhiệm thông báo kịp thời thời điểm sự cố của hệ thống, thời điểm hệ thống tiếp tục hoạt động”.
+
+Ngoài ra, một số doanh nghiệp phản ánh sự rắc rối trong việc cập nhật địa chỉ trên các giấy tờ pháp lý bởi chưa có hướng dẫn cụ thể về cập nhật địa chỉ mới.
+
+Theo Ban Công nghệ, chuyển đổi số và tự động hóa (Cục Thuế), Cục Thuế đã ban hành hai Công văn bao gồm: Công văn số 1689/CT-NVT gửi các cơ quan thuế về việc rà soát, chuẩn hoá danh bạ người nộp thuế theo địa bàn hành chính hai cấp và Công văn số 2388/CT-CĐS về việc tiếp tục rà soát, chuẩn hoá thông tin đăng ký thuế của người nộp thuế theo địa bàn hành chính quyền địa phương hai cấp. Trong đó, hướng dẫn cơ quan thuế chủ động rà soát cập nhật địa chỉ mới cho người nộp thuế; đồng thời thông báo cho người nộp thuế về địa chỉ mới để sử dụng cho các dịch vụ công trong lĩnh vực thuế.
+
+Chính vì vậy, việc cập nhật địa chỉ của người nộp thuế không gây phiền hà bởi cơ quan thuế đã chủ động thực hiện. Đối với một số tình huống cần xác minh làm rõ địa chỉ cũ để cập nhật theo địa chỉ mới, người nộp thuế cần phối hợp chính quyền địa phương để chuyển đổi địa chỉ mới, Cục Thuế nêu rõ.

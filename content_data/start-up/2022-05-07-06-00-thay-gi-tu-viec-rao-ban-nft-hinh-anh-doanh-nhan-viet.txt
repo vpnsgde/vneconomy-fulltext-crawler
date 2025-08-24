@@ -1,0 +1,39 @@
+Mới đây, trên các sàn giao dịch có hiện tượng rao bán NFT (Non-Fungible Token) hình ảnh các doanh nhân Việt như tỷ phú Phạm Nhật Vượng, Chủ tịch Tập đoàn Vingroup; ông Đỗ Anh Dũng, Chủ tịch Tập đoàn Tân Hoàng Minh; hay ông Trịnh Văn Quyết, cựu Chủ tịch Tập đoàn FLC…
+
+Trên thế giới, các hoạt động rao bán các NFT liên quan đến hình ảnh doanh nhân, người nổi tiếng cũng khá phổ biến. Tuy nhiên, xu hướng này tại Việt Nam dường như đang diễn ra với các mục đích khác hơn là các giao dịch NFT thông thường bởi sự dễ dàng trong các thao tác tạo ra NFT.
+
+Theo ông Trần Thiện Duyên, CEO của Techfarm, hiện nay nhờ sự phát triển của công nghệ và các ứng dụng NFT cũng như Blockchain đã dần phổ biến hơn và dễ tiếp cận hơn, nên việc tạo một NFT trên sàn giao dịch NFT (NFT Marketplace) cũng khá đơn giản. “Với một người bình thường không cần hiểu gì về lập trình (code) vẫn có thể thao tác và làm được”, ông Duyên chia sẻ.
+
+
+
+Theo đó, người dùng chỉ đăng nhập và tạo một tài khoản trên NFT Marketplace, sau đó đăng tải hình ảnh mà bạn muốn mint (biến một tệp kỹ thuật số thành một tài sản kỹ thuật số), rồi định giá bán cho NFT đó rồi bấm nút mint. “Bạn sẽ phải trả một khoản phí để mint ra một NFT, phí này gọi là phí gas tùy vào mỗi chain phí gas sẽ dao động từ 1-5 USD trên mỗi lần mint”, ông Duyên giải thích và cho biết, như vậy mỗi lần tạo NFT thì người dùng trung bình sẽ tốn khoản 1-5 USD, tuy nhiên NFT đó có thể được rao bán với mức giá từ vài trăm cho đến vài nghìn USD, thậm chí cả chục nghìn USD.
+
+“Tương đối đơn giản” cũng là nhận xét của ông Phan Thanh Tùng, đồng sáng lập Moon Knight Labs khi được hỏi về quy trình tạo ra một NFT. Theo đó, người dùng cần truy cập vào các công cụ để tạo ra NFT được cung cấp bởi các sàn giao dịch. Tiếp đó, người dùng cần tải “hình ảnh”, “video” hoặc “đoạn âm thanh” muốn biến thành NFTs lên công cụ. Các công cụ này hỗ trợ cả việc gắn các link truy cập.
+
+Sau khi điền các thông tin cần thiết, NFT của bạn đã sẵn sàng đưa lên các kênh chào bán. Các bước tạo lập NFT thường sẽ miễn phí, và bạn chỉ phải trả một khoản phí nhỏ khi đưa sản phẩm lên sàn giao dịch. “Với hiện tượng rao bán NFT hình ảnh các doanh nhân Việt, cần làm rõ các NFT này có thực sự được chủ sở hữu là các doanh nhân cho phép khai thác hay chỉ là hoạt động tự phát từ phía người dùng”, ông Tùng đánh giá.
+
+Các chuyên gia cho biết, các sàn giao dịch NFT phổ biến nhất trên thế giới hiện nay bao gồm Opensea, Binance NFT, SuperRare, Rarible…. Đây hầu hết đều là các sàn giao dịch NFT của quốc tế với quy trình để tạo một NFT mới cực kỳ đơn giản.
+
+Việc thực hiện đấu giá các NFT này cũng khá đơn giản. Tuy nhiên, vẫn chưa có các căn cứ để đưa ra mức định giá. CEO của Techfarm cho biết người dùng chỉ cần dự trữ tiền điện tử trong ví Metamask (ETH, BNB…) để tham gia đấu giá trên các NFT Marketplace. Khi hết thời gian đấu giá, giá đấu cao nhất sẽ được người bán chấp thuận và NFT sẽ được chuyển giao tự động cho người mua thông qua hợp đồng thông minh (smartcontract) trên sàn.
+
+Sàn NFT sẽ thu phí từ 2-3% cho mỗi giao dịch thành công. “Quy trình mua bán, đấu giá NFT diễn ra khá đơn giản và rõ ràng minh bạch, do đó thu hút được rất nhiều creator (người tạo NFT) và người dùng tham gia mua bán”, ông Duyên cho biết thêm.
+
+Theo The Block Research, khối lượng giao dịch của các mã thông báo không thể thay thế (NFT) đã vượt qua 13 tỷ USD vào năm 2021. OpenSea là thị trường NFT hàng đầu. Nó tạo điều kiện cho gần 88% tổng khối lượng giao dịch cho năm 2021, tương đương hơn 12,5 tỷ USD, theo The Block Research.
+
+Ông Trần Thiện Duyên, hiện nay chưa thực sự có công cụ hoặc  tiêu chuẩn nào cụ thể cho việc định giá của một NFT bởi thị trường tiền mã hóa luôn vận động không ngừng, các loại tài sản mới liên tục xuất hiện: altcoin, stablecoin và các dự án token khác. Người dùng có thể tự do tùy chỉnh mức giá mà họ muốn rao bán, tuy nhiên có một số thông tin cơ bản về NFT có thể tác động đến việc định giá. Ví dụ NFT của những người nổi tiếng, ca sĩ, diễn viên, rapper hoặc các doanh nhân nổi tiếng hoặc là những NFT độc lạ, mang tính viral cao, đồng nghĩa với mức giá của nó cũng sẽ cao hơn những tác phẩm khác.
+
+“Định giá của NFT do người sở hữu đặt mốc giá  sàn ban đầu và giá sẽ tăng dần qua các phiên đấu giá từ người dùng”, ông Phan Thanh Tùng, đồng sáng lập Moon Knight Labs cho biết.
+
+Còn theo ông George Nguyen, đồng sáng lập TBLabs, chưa có căn cứ để định giá các NFT mà chủ yếu là do FOMO (tâm lý sợ bỏ lỡ cơ hội). Trong trường hợp NFT được dùng trong GameFi hay MetaVerse, việc định giá sẽ dựa trên utilities (ứng dụng) và khả năng thanh khoản dựa trên mức độ dễ bán để chốt lời.
+
+Trên thế giới, các hoạt động rao bán các NFT liên quan đến hình ảnh doanh nhân, người nổi tiếng cũng khá phổ biến. Tuy nhiên, xu hướng này tại Việt Nam dường như đang diễn ra với các mục đích khác hơn là dừng lại ở các giao dịch NFT thông thường.
+
+Ông Tùng nhận định: hầu hết những NFT hình ảnh doanh nhân ở Việt Nam được rao bán với giá dao động đến hàng chục nghìn USD chưa có người mua hay trả giá. “Có thể coi những vật phẩm này không có giá trị, hoặc được đăng tải với mục đích chế giễu”, ông Tùng đánh giá và cho biết đây là một hình thức vi phạm bản quyền, thu lợi từ hình ảnh cá nhân của người khác và không có khả năng phát triển trừ khi sản phẩm được chính các cá nhân doanh nghiệp đăng tải hoặc cho phép đăng tải.
+
+Đồng quan điểm, ông Trần Thiện Duyên cho rằng việc một số hình ảnh doanh nhân đang bị đưa lên NFT Marketplace thời gian gần đây chỉ là một xu hướng ngắn hạn và diễn ra bởi số đối tượng muốn theo “trend” (xu hướng) và “troll” (chế giễu) nhau là chính và xu hướng này sẽ sớm kết thúc. “NFT thực chất cần tạo ra để đề cao tính nhân văn, thẩm mỹ và giúp lưu trữ giá trị nghệ thuật cho người dùng thay vì để châm biếm hay bêu xấu người khác”, ông Duyên nhận định.
+
+Các chuyên gia cũng đánh giá với dòng sản phẩm NFT gương mặt các doanh nhân, nếu không nhận được sự cho phép từ phía chủ sở hữu hình ảnh thì chắc chắn đây là một hoạt động kinh doanh bất hợp pháp vi phạm Điều 32 Bộ luật Dân sự 2015 và có thể bị xử phạt theo Điều 99 Nghị định 15/2020/NĐ-CP quy định xử phạt vi phạm hành chính trong lĩnh vực bưu chính, viễn thông, tần số vô tuyến điện, công nghệ thông tin và giao dịch điện tử. Nếu hành vi này gây hậu quả nghiêm trọng có thể sẽ bị xử lý hình sự theo Điều 155 Bộ luật Hình sự.
+
+Theo những người trong cuộc, cần có những chế tài pháp lý rõ ràng để thúc đẩy sự phát triển của thị trường NFT theo hướng lành mạnh. “Về pháp lý của NFT, hiện nay một số quốc gia phát triển như Mỹ, Canada, châu Âu đã bắt đầu có những quy định quản lý về tài sản số liên quan đến cryptocurrency (tiền mã hóa) và NFT. Tuy nhiên hiện Việt Nam vẫn chưa có quy định cụ thể về vấn đề này”, CEO Techfarm nhận định.
+
+“NFT hay Blockchain cũng là một dạng công nghệ mới tương tự như AI (trí tuệ nhân tạo), Machine Learning (học máy) hay IOT (Internet vạn vật), cần được chính phủ quan tâm và tạo khung pháp lý rõ ràng để phát triển những công nghệ mới này trong thời buổi Cách mạng công nghiệp lần thứ tư”, CEO Techfarm cho biết.

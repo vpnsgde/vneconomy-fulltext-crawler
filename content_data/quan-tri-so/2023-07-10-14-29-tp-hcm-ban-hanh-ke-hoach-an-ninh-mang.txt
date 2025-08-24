@@ -1,0 +1,11 @@
+UBND TP.HCM vừa ban hành Kế hoạch hành động triển khai thực hiện Chiến lược an toàn, an ninh mạng quốc gia, chủ động ứng phó với thách thức từ không gian mạng đến năm 2025, tầm nhìn đến năm 2030 trên địa bàn TP.HCM.
+
+Kế hoạch chú trọng, bảo vệ chủ quyền quốc gia trên không gian mạng; bảo vệ hạ tầng số, nền tảng số, dữ liệu số, cơ sở hạ tầng không gian mạng Thành phố. Đặc biệt, TP.HCM tập trung tạo lập niềm tin số, xây dựng môi trường mạng trung thực, văn minh, lành mạnh, phòng chống vi phạm pháp luật trên không gian mạng; nâng cao hiệu quả công tác quản lý nhà nước về an toàn thông tin, an ninh mạng trong các cơ quan, đơn vị, doanh nghiệp thuộc TP.HCM.
+
+Ngoài ra, TP.HCM tập trung tuyên truyền, tạo chuyển biến mạnh mẽ, nâng cao nhận thức và hành động về công tác bảo đảm an toàn, an ninh mạng trong các cơ quan, đơn vị, doanh nghiệp và nhân dân; xây dựng nguồn nhân lực hoạt động về an toàn thông tin, an ninh mạng trên địa bàn thành phố.
+
+Cụ thể, trong số 7 chỉ tiêu chiến lược, TP.HCM đặt mục tiêu năm 2023, tỷ lệ hệ thống thông tin cấp độ 3, 4, 5 của TP.HCM được phân loại, thực hiện bảo vệ theo cấp độ và tỷ lệ hệ thống thông tin triển khai đầy đủ phương án bảo vệ hồ sơ đề xuất cấp độ đã được phê duyệt đạt 80%. Đến năm 2024 và 2025, các chỉ tiêu này lần lượt đạt 90% và 100%.
+
+Riêng 5 chỉ tiêu khác như: tỷ lệ máy chủ, máy trạm trong cơ quan nhà nước cài đặt phòng, chống mã độc và chia sẻ thông tin với Trung tâm Giám sát an toàn không gian mạng quốc gia; tỷ lệ IP botnet trong cơ quan nhà nước được phát hiện, cảnh báo và xử lý, loại bỏ mã độc; hay tỷ lệ hệ thống thông tin của cơ quan nhà nước đã được kiểm tra, đánh giá an toàn thông tin… mỗi năm đều đạt 100%.
+
+UBND TP.HCM cũng yêu cầu các cơ quan, đơn vị đảm bảo triển khai kịp thời, đồng bộ, khoa học và hiệu quả các nhiệm vụ. Trong đó, Sở Thông tin và Truyền thông TP.HCM được giao chủ trì, có trách nhiệm theo dõi, hướng dẫn, kiểm tra các đơn vị, doanh nghiệp liên quan xây dựng kế hoạch thực hiện các nhiệm vụ; kiểm tra, đôn đốc việc thực hiện kế hoạch cũng như tổng hợp các khó khăn, vướng mắc báo cáo UBND TP.HCM.

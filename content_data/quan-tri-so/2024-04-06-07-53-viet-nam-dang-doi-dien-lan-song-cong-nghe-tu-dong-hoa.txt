@@ -1,0 +1,25 @@
+Tại hội thảo “Thị trường BPA và giải pháp tự động hóa” diễn ra chiều 5/4 tại Hà Nội, do Công ty TNHH WorldBaseSys (WBS) nhà cung cấp các giải pháp kỹ thuật số và Công ty cổ phần Quảng cáo và hội chợ thương mại (Vinexad) tổ chức, các chuyên gia cho rằng công nghệ tự động hóa đang phát triển mạnh, được ví như “làn sóng” và được xem là một yếu tố then chốt để giúp các doanh nghiệp phát triển, nâng cao vị thế cạnh tranh trên thị trường.
+
+Theo bà Nguyễn Hồng Nhung, Giám đốc VIETNAM EXPO 2024, Việt Nam đang đối diện làn sóng công nghệ tự động hóa. Đây được xem là một yếu tố then chốt để giúp các doanh nghiệp phát triển, nâng cao vị thế cạnh tranh trên thị trường. Những công nghệ mới như tự động hóa quy trình bằng robot (RPA), xử lý tài liệu thông minh (IDP), trí tuệ nhân tạo (AI)... sẽ trực tiếp ảnh hưởng một số ngành nghề qua tác động đến năng suất đầu vào và qua cơ chế thị trường lan tỏa đến nhiều ngành khác".
+
+Tuy nhiên, hiện nay, mức độ ứng dụng tự động hóa của các doanh nghiệp Việt còn chưa cao. Đây vừa là cơ hội cho các nhà cung cấp giải pháp tự động hóa giới thiệu sản phẩm của mình, vừa là thách thức cho doanh nghiệp phải tìm cách thích nghi trong thời đại kinh tế số phát triển mạnh mẽ.
+
+Tự động hóa quy trình kinh doanh (BPA - Business Process Automation) là xu hướng tận dụng công nghệ để tự động hóa các hoạt động, quy trình chức năng trong một doanh nghiệp. Mục tiêu của BPA là nâng cao hiệu quả hoạt động, giảm thiểu sai sót, tiêu chuẩn hóa quy trình và giúp nhân viên tập trung vào các hoạt động mang tính chiến lược, có giá trị gia tăng hơn.
+
+Theo GlobeNewsWire, thị trường BPA toàn cầu được dự báo sẽ mở rộng với tốc độ tăng trưởng kép là 11,4%. Năm 2023, thị trường BPA được ước tính trị giá khoảng 14,2 tỷ USD, dự kiến tăng 30,2 tỷ USD vào cuối năm 2030.
+
+Thực tế không chỉ dừng lại ở việc tối ưu năng suất, tự động hóa quy trình kinh doanh hứa hẹn sẽ thúc đẩy thương mại toàn cầu qua các ứng dụng như nhà kho thông minh, robot theo dõi lô hàng, quản lý các đơn đặt hàng, các phần mềm số giúp tăng tốc giao dịch thương mại bằng cách hợp lý hóa các thủ tục giấy tờ, thanh toán, các công cụ phân tích dữ liệu hỗ trợ các tổ chức tìm ra xu hướng, đưa ra dự báo chính xác và hợp lý hóa chuỗi cung ứng.
+
+Việc ứng dụng BPA vào vận hành các nhà máy là thị trường có tiềm năng rất lớn. Theo quy hoạch sử dụng đất quốc gia đã được Quốc hội thông qua ngày 13/11/2021, đến hết năm 2030, diện tích đất phát triển các khu công nghiệp sẽ đạt khoảng 210.930 ha. Như vậy, từ nay đến năm 2030 sẽ có thêm khoảng 120.000 ha khu công nghiệp.
+
+Ứng dụng tự động hóa không chỉ giúp tăng hiệu suất, mà còn giúp khu công nghiệp đạt được các lợi ích về ESG (môi trường - xã hội - quản trị doanh nghiệp) như giảm phát thải khí carbon, tạo môi trường làm việc an ninh, thúc đẩy đổi mới sáng tạo, cũng như giảm sai sót trong quy trình, tối ưu hóa chi phí vận hành tài sản, quy trình và nguồn lực.
+
+Theo ông Hồ Anh Thắng, Giám đốc Giải pháp TNTECH, giải pháp nhà kho thông minh giúp giảm thiểu thời gian chời đợi nhờ tối ưu hóa không gian lưu trữ, cải thiện đáng kể luồng hàng hóa… giúp tăng cạnh tranh cho doanh nghiệp, đồng thời tối ưu hóa chuỗi cung ứng để vận hành sản xuất thông minh.
+
+Chủ tịch HĐQT Công ty cổ phần Công nghệ cao và dịch vụ phần mềm FaceNet Phạm Ngọc Sơn, cũng cho rằng tự động hóa quy trình kinh doanh không chỉ tối ưu năng suất, mà còn thúc đẩy thương mại toàn cầu qua các ứng dụng như nhà kho thông minh, robot theo dõi lô hàng, quản lý các đơn đặt hàng. Các phần mềm số giúp tăng tốc giao dịch thương mại bằng cách hợp lý hóa các thủ tục giấy tờ, thanh toán, các công cụ phân tích dữ liệu hỗ trợ các tổ chức tìm ra xu hướng, đưa ra dự báo chính xác và hợp lý hóa chuỗi cung ứng.
+
+Với doanh nghiệp nhỏ và vừa, BPA giúp mở rộng khả năng tiếp cận thị trường nước ngoài với khách hàng, đối tác và nhà cung cấp để thực hiện các giao dịch xuyên biên giới…
+
+Theo thống kê, tính đến thời điểm tháng 1/2024, cả nước có khoảng 920.000 doanh nghiệp, doanh nghiệp nhỏ và vừa chiếm 98%. Theo các chuyên gia, doanh nghiệp có quy mô vừa và nhỏ là những doanh nghiệp dễ dàng chuyển đổi hơn so với các doanh nghiệp lớn. Trong khi các doanh nghiệp lớn phân chia thành nhiều bộ phận, phòng ban; cơ cấu tổ chức của doanh nghiệp nhỏ lại đơn giản, tinh gọn, từ đó dễ dàng linh động trong chuyển đổi số.
+
+Dù vậy, một trong những bài toán khiến hầu hết các doanh nghiệp nhỏ và vừa tại Việt Nam chưa sẵn sàng chuyển đổi hoặc chuyển đổi chưa đầy đủ nằm ở vấn đề tài chính. Và chi phí được xem là rào cản lớn nhất đối với doanh nghiệp nhỏ và vừa trong nỗ lực tự động hóa quy trình kinh doanh.

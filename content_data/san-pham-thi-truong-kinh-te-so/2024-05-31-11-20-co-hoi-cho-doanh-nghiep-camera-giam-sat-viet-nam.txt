@@ -1,0 +1,37 @@
+Camera giám sát là một sản phẩm “nhạy cảm” bởi sự phổ biến và hiện diện ở tất cả mọi nơi. Thiết bị này không chỉ được sử dụng tại các hộ gia đình mà còn là thành phần quan trọng trong giám sát giao thông, an ninh trật tự, thành phố thông minh…
+
+Hiện nay, phần lớn camera giám sát tại Việt Nam được sản xuất bởi nước ngoài. Nhiều sản phẩm không rõ ràng nguồn gốc xuất xứ, được nhập theo cả đường chính ngạch, tiểu ngạch và bày bán trôi nổi trên thị trường, điều này đặt ra không ít lo ngại về vấn đề bảo mật.
+
+Chia sẻ bức tranh thị trường camera hiện nay, ông Nguyễn Trung Kiên, Tổng giám đốc Công ty Cổ phần Công nghệ Pavana, cho biết theo thống kê trong năm 2023, quy mô thị trường camera Việt Nam đạt khoảng 175 triệu USD doanh thu. Trong đó, hai thương hiệu lớn nhất là Dahua, HikVision cùng các công ty con chiếm xấp xỉ 90%.
+
+Trong số này, thị phần camera gia đình chiếm đến 48% doanh thu và 60% về số lượng lưu hành. Phần lớn đây là các thiết bị giá rẻ từ 200.000 đồng đến 1.000.000 đồng, được bán trôi nổi trực tuyến. “Thị trường camera tại Việt Nam tăng trưởng rất nhanh, với tốc độ từ 13-14%, trong đó camera gia đình tăng trưởng cao hơn, ở mức 17%”, ông Kiên cho hay.
+
+Theo dữ liệu từ Statista, thị trường camera giám sát toàn cầu chủ yếu dành cho doanh nghiệp và Chính phủ với hơn 70%, camera phục vụ gia đình chỉ là 15%. Trong khi đó, tại Việt Nam 50% thiết bị được sử dụng cho mục đích giám sát tại nhà.
+
+Ông Kiên cho rằng xu hướng này ngược với quốc tế, đồng thời thể hiện thị trường dành cho hạ tầng, doanh nghiệp và tổ chức Chính phủ tại Việt Nam còn tương đối “sơ khai”, có nhiều dư địa phát triển hơn nữa trong thời gian tới.
+
+Về tiềm năng phát triển của thị trường, tổng dung lượng có thể đạt được từ 100 đến 150 triệu camera một năm thời gian tới, trong khi hiện nay chúng ta mới đang có khoảng 10-15 triệu camera. Điều này cho thấy, tiềm năng phát triển của thị trường camera giám sát tại Việt Nam vẫn rất lớn.
+
+Về khả năng đáp ứng của các doanh nghiệp sản xuất camera trong nước, Pavana cho biết: ước tính năng lực nhà máy hiện khoảng từ 2-2,5 triệu camera/năm và có thể nâng gấp đôi, gấp ba công suất. Cộng với năng lực của các doanh nghiệp lớn khác, có thể sản xuất 10 triệu camera mỗi năm.
+
+Ông Nguyễn Tuấn Anh, Chủ tịch Hội đồng Quản trị Công ty Lumi Việt Nam, chia sẻ Lumi tham gia thị trường 12 năm và chứng kiến sự phát triển rất nhanh của thị trường camera. Tuy nhiên, thực tế Lumi vẫn chỉ chiếm phân khúc thị phần rất nhỏ trong mảng này. Doanh nghiệp chủ yếu phải dựa vào lợi thế cạnh tranh là smarthome, đồng bộ giải pháp, còn việc cung cấp sản phẩm độc lập như camera cloud là rất khó.
+
+Ông Nguyễn Việt Bằng, Phó Tổng giám đốc VNPT Technology, nêu thực tế rằng hiện tại, người dùng camera công cộng thường tự trang bị. Thiết bị thường là trôi nổi, giá chỉ từ 300.000-500.000 đồng. Dữ liệu thường xuyên được đẩy ra nước ngoài và khi khai báo có 2 phần dữ liệu, gồm dữ liệu hình ảnh, video và dữ liệu người dùng.
+
+Camera trông đơn giản, nhỏ bé nhưng là một thiết bị phức tạp, gồm phần quang, phát sóng Wi-Fi và mạng LAN. Với hai giao diện mạng như vậy, camera có thể trở thành thiết bị để thu thập thông tin. “Một camera đặt trong nhà sẽ giống như máy tính có hệ điều hành, có ghi âm, có hình ảnh, gần như là có thêm một người ở trong nhà mình, chạy âm thầm. Do đó, nếu có lỗ hổng, thiết bị camera hoàn toàn có thể gửi thông tin ra ngoài”, ông Bằng cảnh báo.
+
+Trước thực trạng các thương hiệu, sản phẩm đến từ nước ngoài đang chiếm 90% thị phần camera tại Việt Nam, các doanh nghiệp cần làm gì để giành lại thị trường?
+
+Bà Vũ Nguyệt Lan, CTO Công ty Cổ phần MK Vision, lý giải sở dĩ 90% thị trường camera giám sát ở Việt Nam nằm trong tay các nhà sản xuất Trung Quốc, bởi các sản phẩm camera Việt còn ít, dẫn tới người dùng không có sự lựa chọn nào khác.
+
+Bình luận về thực trạng này, theo ông Nguyễn Đức Quý, Tổng giám đốc Vconnex, giá thành và chất lượng là những lý do khiến các sản phẩm camera Trung Quốc hiện đang phổ biến.
+
+Lý giải về mức giá rẻ của camera Trung Quốc, Tổng giám đốc Hanet Technology Võ Đức Thọ cho rằng điều này là do các doanh nghiệp Trung Quốc sản xuất với quy mô lớn, hàng triệu sản phẩm. Để cạnh tranh, các doanh nghiệp Việt phải sản xuất số lượng rất lớn, có cách đi khác biệt, làm các nghiệp vụ mà các hãng nước ngoài chưa làm. Chỉ khi đó, camera Việt mới có thể cạnh tranh với các mặt hàng giá rẻ từ nước ngoài...
+
+Đầu tháng 5/2024, Bộ Thông tin và Truyền thông đã ban hành “Bộ tiêu chí về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát” và khuyến nghị áp dụng với các tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến hoạt động nghiên cứu, phát triển, sản xuất, đánh giá, lựa chọn, sử dụng thiết bị camera.
+
+Dự kiến, trong năm nay, Bộ sẽ ban hành “Quy chuẩn kỹ thuật quốc gia về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát”. Sau khi có quy chuẩn, Bộ sẽ hướng dẫn các tổ chức, doanh nghiệp thuộc phạm vi điều chỉnh của quy chuẩn tiến hành đánh giá và công bố hợp quy cho các thiết bị theo quy định...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 22-2024, phát hành ngày 27/5/2024. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

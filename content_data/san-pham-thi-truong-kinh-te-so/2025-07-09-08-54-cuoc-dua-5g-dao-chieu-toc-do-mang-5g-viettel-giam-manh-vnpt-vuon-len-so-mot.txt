@@ -1,0 +1,33 @@
+Theo số liệu mới nhất từ nền tảng đo tốc độ i-Speed (thuộc Trung tâm Internet Việt Nam – VNNIC, Bộ Khoa học và Công nghệ), chất lượng mạng 5G trên toàn quốc tiếp tục xu hướng đi xuống kể từ tháng 5, chưa ghi nhận tín hiệu cải thiện.
+
+Cụ thể, trong tháng 6/2025, tốc độ tải xuống trung bình của mạng 5G toàn quốc đạt 287,7 Mbps, còn tốc độ tải lên đạt 80,07 Mbps – giảm gần 1/5 so với mức đỉnh được ghi nhận hồi tháng 4.
+
+Đánh giá chất lượng mạng 5G của các nhà cung cấp dịch vụ viễn thông, Viettel, nhà mạng từng giữ vị trí số một, đã sụt giảm tốc độ mạng trong tháng vừa qua. Trái lại, tốc độ 5G của VNPT và MobiFone vẫn duy trì đà tăng.
+
+Theo đó, VNPT đã vượt lên dẫn đầu với tốc độ tải xuống đạt 304,53 Mbps và tải lên 55,25 Mbps. Viettel rơi xuống vị trí thứ hai, với tốc độ tải xuống 292,76 Mbps – giảm tới 20% so với tháng trước (366,29 Mbps), trong khi tốc độ tải lên đạt 84,38 Mbps, giảm nhẹ. MobiFone đứng thứ ba, với tốc độ tải xuống và tải lên lần lượt là 171,9 Mbps và 40,22 Mbps.
+
+Về kết quả đo lường mạng băng rộng di động, tốc độ trung bình toàn quốc không ghi nhận biến động lớn trong tháng 6/2025, với mức tải xuống đạt 75,19 Mbps và tải lên 26,89 Mbps – giữ nhịp ổn định so với tháng trước.
+
+Chất lượng mạng di động giữa các nhà mạng cũng không có nhiều xáo trộn, kéo theo trật tự xếp hạng gần như không đổi. Viettel tiếp tục dẫn đầu thị trường với tốc độ tải xuống trung bình 83,57 Mbps và tải lên 26,81 Mbps. Theo sau là VNPT với 70,71 Mbps (tải xuống) và 29,41 Mbps (tải lên); MobiFone ở vị trí thứ ba với các chỉ số tương ứng là 52,47 Mbps và 21,48 Mbps. Cuối cùng Vietnamobile có tốc độ tải xuống đạt 10,94 Mbps và tải lên 4,62 Mbps.
+
+Tại các đô thị lớn, chất lượng mạng di động nhìn chung ổn định. Riêng Đà Nẵng, sau cú "giảm tốc" bất ngờ hồi tháng 5/2025, hiện chưa ghi nhận sự cải thiện trong tháng 6. Tuy nhiên, đây là mức chất lượng tương đương các tháng đầu năm, ngoại trừ giai đoạn tháng 3–4 khi tốc độ mạng tại địa phương này từng tăng vọt tới 133%.
+
+Ở các địa phương còn lại, dù có sự thay đổi nhẹ theo từng khu vực, chất lượng mạng di động nhìn chung vẫn duy trì mặt bằng ổn định so với các tháng trước.
+
+Theo thống kê mới nhất về tốc độ mạng băng rộng cố định trong tháng 5/2025, chất lượng dịch vụ trên toàn quốc tiếp tục ghi nhận đà tăng mạnh – đánh dấu tháng thứ năm liên tiếp duy trì xu hướng tích cực.
+
+Cụ thể, tốc độ tải xuống trung bình đạt 224,02 Mbps – tăng gần một phần ba so với cùng kỳ tháng 4/2025. Tốc độ tải lên cũng ghi nhận bước nhảy đáng kể, đạt 166,97 Mbps, tăng từ mức 137,03 Mbps trước đó.
+
+Về xếp hạng các nhà cung cấp dịch vụ, Viettel tiếp tục dẫn đầu thị trường với tốc độ tải xuống đạt 250,95 Mbps và tải lên 192,62 Mbps nhờ đà tăng trưởng mạnh mẽ trong ba tháng liên tiếp.
+
+Tiếp nối, VNPT giữ vị trí thứ hai với tốc độ tải xuống 221,72 Mbps và tải lên 163,33 Mbps.
+
+Ở vị trí thứ ba, CMC Telecom, sau ba tháng sau duy trì chất lượng mạng ổn định, trong tháng vừa qua, có sự tăng trưởng đột biến với tốc độ tải xuống đạt 191,06 Mbps và tải lên 186,36 Mbps.
+
+Xếp sau CMC Telecom là FPT Telecom với tốc độ tải xuống đạt 121,59 Mbps và tốc độ tải lên là 101,51 Mbps. Ở vị trí thứ năm, SCTV ghi nhận tốc độ lần lượt là 81,28 Mbps cho tải xuống và 28,91 Mbps cho tải lên. Xếp thứ sáu, NETNAM có tốc độ tải xuống đạt 50,59 Mbps và tải lên đạt 58,73 Mbps.
+
+Ở vị trí thứ ba, CMC Telecom ghi nhận bước tăng đột phá sau ba tháng duy trì tốc độ ổn định, với tốc độ tải xuống đạt 191,06 Mbps và tải lên 186,36 Mbps. FPT Telecom xếp thứ tư, đạt 121,59 Mbps (tải xuống) và 101,51 Mbps (tải lên). Tiếp theo là SCTV với tốc độ lần lượt là 81,28 Mbps và 28,91 Mbps; đứng cuối bảng là NETNAM với 50,59 Mbps (tải xuống) và 58,73 Mbps (tải lên).
+
+Về chất lượng mạng cố định tại các đô thị lớn, đáng chú ý là Đà Nẵng dù thường xuyên dẫn đầu về tốc độ mạng di động trong tháng này lại ghi nhận mức sụt giảm ở mạng cố định, với tốc độ trung bình giảm còn 256,54 Mbps.
+
+Tính theo thứ tự chất lượng mạng băng rộng cố định trong tháng 6/2025, các đô thị dẫn đầu lần lượt là: Hà Nội, Hải Phòng, Cần Thơ, Đà Nẵng và TP.HCM.

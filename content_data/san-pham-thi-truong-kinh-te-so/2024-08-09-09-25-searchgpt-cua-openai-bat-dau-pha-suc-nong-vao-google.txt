@@ -1,0 +1,29 @@
+SearchGPT của OpenAI đã chính thức ra mắt trong thời gian gần đây. Công cụ tìm kiếm mới này đang trong quá trình thử nghiệm sẽ trả lời các câu hỏi bằng những thông tin cập nhật từ web và cung cấp liên kết đến các nguồn. Đó là một khái niệm tương tự như AI Overview hoặc công cụ trả lời do AI cung cấp của Perplexity.
+
+Vậy một công ty khởi nghiệp tương đối mới thực sự có khả năng tác động đến gã khổng lồ công nghệ như Google đến mức nào? Google đã thống trị không gian công cụ tìm kiếm trong hơn 20 năm và có nhiều vốn cũng như nhân viên dày dặn hơn OpenAI - một cái tên mới nổi chỉ trong một vài năm qua.
+
+Chris Rodgers, Giám đốc điều hành của công ty SEO CSP đã làm việc trong ngành công cụ tìm kiếm hơn 20 năm. Ông chia sẻ rằng SearchGPT có thể không gây ra mối đe dọa ngay lập tức cho Google Search. Tuy nhiên Google sẽ cảm thấy sức nóng vì OpenAI đã đưa ra một chiến lược tốt hơn Google khi triển khai SearchGPT.
+
+OpenAI lần đầu tiên tung ra SearchGPT cho một nhóm nhỏ các nhà xuất bản tin tức và người dùng để lấy phản hồi về kế hoạch tích hợp nó vào ChatGPT. Theo Rodgers, đó là ý tưởng đúng đắn.
+
+Rodgers cho biết Google đã giới thiệu về những tính năng được giới thiệu là tuyệt vời tại hội nghị Google I/O năm nay. Công ty đã giới thiệu các công cụ như AI Overview, Project Astra và hàng loạt tính năng AI dành cho Android.
+
+Tuy nhiên, người dùng lại trải nghiệm hoàn toàn khác biệt so với những gì được giới thiệu đối với AI Overview vì đưa ra phản hồi không chính xác và mắc các lỗi như gợi ý ăn keo, đá,...
+
+Google trước đó cũng từng nhận phản ứng dữ dội vì chatbot Gemini của họ tái tạo hình ảnh các nhân vật lịch sử với sắc tộc và giới tính không chính xác. Chatbot hiện bị hạn chế trả lời bất kỳ câu hỏi nào liên quan đến bầu cử.
+
+Rodgers cho biết OpenAI đã học được bài học từ cách tiếp cận của Google. Bằng cách đưa ra phản hồi trước cho một nhóm nhỏ người dùng, công ty có cơ hội giải quyết các vấn đề phát sinh.
+
+Rodgers cho biết OpenAI cũng đã có bước đi đúng đắn khi ký kết thỏa thuận với nhà xuất bản. Công ty đã ký một số thỏa thuận với các nhà xuất bản, bao gồm Vox Media, Axel Springer, News Corp và The Atlantic.
+
+Theo thông báo của công ty, SearchGPT sẽ trích dẫn và gắn liên kết để giúp người dùng xác định được nguồn thông tin đến từ đâu. Trong khi đó, Google đang khiến người dùng không hài lòng vì mọi người không nhận được sự ghi nhận công sức của họ trong các phản hồi do AI tạo ra, Rodgers nói.
+
+Trong khi Rodgers lo ngại rằng OpenAI có thể áp dụng phương pháp “cửa sau” để truy cập dữ liệu nếu các nhà xuất bản từ chối ký kết thỏa thuận, ông nói rằng cách các thỏa thuận được trình bày trước công chúng là ý tưởng đúng đắn.
+
+Rodgers cho biết Google hiếm khi gặp thách thức, điều này cho phép họ cảm thấy không cần phải cải tiến. Sự xuất hiện của các đối thủ mạnh như OpenAI có thể là chất xúc tác cho những thay đổi cần thiết. “Google phải thích nghi. Họ sẽ phải đặt câu hỏi về cách họ đang làm mọi việc”, ông nói.
+
+Mặc dù vậy Rodgers cho biết Google vẫn còn thời gian để thực hiện những thay đổi bởi hành vi tìm kiếm của người tiêu dùng và việc áp dụng công nghệ diễn ra tương đối chậm.
+
+Rodgers nói thêm rằng phán quyết độc quyền hôm thứ Hai chống lại Google có thể giúp OpenAI phát triển. Gã khổng lồ công nghệ có thể mất thị phần tìm kiếm nếu nó bị loại bỏ khỏi danh sách công cụ tìm kiếm mặc định trên thiết bị di động, nhưng Rodgers cho biết đây sẽ là một quá trình kéo dài.
+
+Kết luận, vị chuyên gia cho rằng: “Chừng nào Google còn là công cụ tìm kiếm được đa số người tiêu dùng lựa chọn thì chúng sẽ vẫn là công cụ tìm kiếm thống trị. Ngay cả khi OpenAI hoặc các công cụ tìm kiếm AI khác làm xói mòn thị phần tìm kiếm".

@@ -1,0 +1,33 @@
+Công ty phần mềm MicroStrategy của Mỹ hiện sở hữu nhiều tiền điện tử hơn bất kỳ quốc gia nào sau khi nâng số lượngBitcoinnắm giữ lên hơn 14 tỷ USD.
+
+MicroStrategy là công ty hoạt động trong mảng trí tuệ doanh nghiệp (BI), phần mềm di động và các dịch vụ đám mây, được thành lập vào năm 1989. Trong những năm gần đây, công ty chuyển sang hướng đầu tư tích lũy Bitcoin theo sự lãnh đạo của Michael Saylor.
+
+Trong báo cáo tài chính mới nhất của mình, MicroStrategy thông báo rằng họ đã mua 25.250 Bitcoin trong bốn tháng đầu năm 2024, nâng tổng số lượng mà họ sở hữu lên 214.400 BTC – tương đương với 1% tổng số Bitcoin đang tồn tại.
+
+Với số lượng Bitcoin nắm giữ này, MicroStrategy đã trở thành công ty nắm giữ Bitcoin lớn nhất trên thế giới, gấp hơn 10 lần so với công ty nắm giữ Bitcoin lớn thứ 2 là Marathon Digital Holdings. Giao dịch mua mới nhất của MicroStrategy có nghĩa là họ cũng sở hữu nhiều Bitcoin hơn Mỹ, nơi có 207.189 BTC với trị giá 13,5 tỷ USD.
+
+Không như các hãng công nghệ khác ghi nhận cổ phiếu tăng nhờ thị phần và doanh thu, MicroStrategy hấp dẫn nhà đầu tư nhờ Bitcoin. Công ty này bắt đầu mua tiền số từ giữa năm 2020, đặt cược đồng tiền này sẽ giúp họ tồn tại trong thời kỳ cạnh tranh khốc liệt.
+
+Ngay cả khiBitcoingiảm hơn 10.000 USD so với mức cao nhất mọi thời đại gần đây là 73.737 USD được thiết lập vào tháng 3, công ty vẫn rất lạc quan về khoản đầu tư ngày càng tăng của mình.
+
+Theo báo cáo, giá trung bình nắm giữ Bitcoin của MicroStrategy hiện ở mức 35.180 USD mỗi đồng, trong khi giá BTC hiện tại theo CoinGecko là 63.026 USD.
+
+Người sáng lập và Chủ tịch MicroStrategy Michael Saylor là một trong những người ủng hộ Bitcoin thẳng thắn nhất trong giới doanh nghiệp. Ông không chỉ hướng công ty của mình tập trung vào Bitcoin mà còn thường xuyên đăng các meme Bitcoin và thực hiện các cuộc phỏng vấn về tài sản này.
+
+Quyết định bắt đầu mua Bitcoin của Michael Saylor vào năm 2020 đã mang lại nhiều lợi ích trong năm nay cho người đồng sáng lập và chủ tịch điều hành của MicroStrategy.
+
+Trong Hội nghị Thế giới MicroStrategy gần đây vào thứ Năm, ngày 2/5, Michael Saylor đã chỉ ra sự cần thiết phải quản lý danh tính kỹ thuật số trên blockchain.
+
+Gần đây, công ty đã tiết lộ kế hoạch phát triển giao thức nhận diện ID phi tập trung (DID) trên mạng Bitcoin có tên MicroStrategy Orange bằng cách tích hợp chữ ký số vào email giúp người nhận có thể xác minh danh tính người gửi. Orange sẽ cho phép thông tin được lưu trữ và truyền đạt trên từng satoshi (mức tăng nhỏ nhất của Bitcoin (BTC), bằng 1/100.000.000 của BTC).
+
+
+
+Danh tính kỹ thuật số đã là một vấn đề gây tranh cãi trong tiền điện tử do những lo ngại về quyền riêng tư. Tuy nhiên, nội bộ tiền điện tử đang ngày càng tăng nhu cầu về một công nghệ như vậy để chống thư rác và cho phép quản trị phi tập trung.
+
+Hơn nữa, hệ thống ID kỹ thuật số có thể ngăn chặn lừa đảo. Vào tháng 1, Saylor đã cảnh báo về sự gia tăng đáng kinh ngạc của các tác phẩm deepfake AI đang gây khó khăn cho không gian tiền điện tử. Những trò lừa đảo sử dụng các video thực tế, bao gồm cả video của chính ông và những nhân vật như Elon Musk, để thuyết phục mọi người gửi tiền điện tử đến các ví không liên kết.
+
+Cho đến nay, Worldcoin do Sam Altman của OpenAI đồng sáng lập, là công ty lớn nhất trong không gian nhận dạng kỹ thuật số. Công nghệ quét mống mắt của họ sử dụng dữ liệu sinh trắc học để xác minh rằng người dùng là người thật. Điều này cho phép nó ưu tiên các giao dịch thực của con người, giảm thiểu các vấn đề với thư rác trên Blockchain. Giờ đây, Saylor đang tìm cách đưa những ID kỹ thuật số này vào Bitcoin, như ông thường chỉ ra, mạng lưới phi tập trung và an toàn nhất.
+
+Nhận dạng kỹ thuật số của MicroStrategy sẽ hoạt động như thế nào? Không giống như Worldcoin, giao thức Orange mới của MicroStrategy sẽ không sử dụng dữ liệu sinh trắc học. Thay vào đó, nó sẽ tạo ra các danh tính phi tập trung (DID) có thể được sử dụng để xác minh mà không cần kiểm soát tập trung.
+
+Giao thức sẽ tạo và nhúng dữ liệu nhận dạng kỹ thuật số trực tiếp vào chuỗi khối Bitcoin bằng cách sử dụng công nghệ được gọi là dòng chữ thứ tự. Những dòng chữ này không phải là một phần của đầu ra giao dịch nhưng được thêm vào theo cách không ảnh hưởng đến mục đích chính của giao dịch (chuyển Bitcoin).

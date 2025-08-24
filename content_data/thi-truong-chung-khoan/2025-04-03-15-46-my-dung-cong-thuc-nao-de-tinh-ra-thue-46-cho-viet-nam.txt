@@ -1,0 +1,31 @@
+Như VnEconomy đưa tin, sáng ngày 3/4/2025, Việt Nam bị áp mức thuế quan 46% từ Mỹ, một trong những mức cao nhất dù cho những nỗ lực của Việt Nam trong việc thuyết phục Mỹ rằng họ nghiêm túc trong việc giảm thặng dư thương mại, bao gồm việc giảm thuế đối với nhiều mặt hàng nhập khẩu.
+
+Mô hình cân bằng thương mại và công thức tính thuế có đi có lại được Chứng khoán SHS tổng hợp từ Văn phòng đại diện thương mại Hoa Kỳ như sau:
+
+Trong đó: xᵢ là kim ngạch xuất khẩu của Mỹ sang nước $i$ (ví dụ trường hợp Việt Nam khoảng 13,1 tỷ USD), mᵢ: là kim ngạch nhập khẩu của Mỹ từ nước $i$ (trường hợp Việt Nam khoảng 136,6 tỷ USD),
+
+ε: là độ co giãn của cầu nhập khẩu theo giá (price elasticity of import demand), φ: là hệ số truyền giá từ thuế sang giá hàng nhậpkhẩu (tariff pass-through).
+
+Theo mô hình này, việc tăng thuế đối với nước i một lượng Δτᵢ sẽ làm giảm nhập khẩu từ nước đó một lượng Δmi=Δτi⋅ε⋅φ⋅mi (tính theo giá trị).
+
+Mục tiêu của thuế “có đi có lại” là chọn Δτi sao cho mức giảm nhập khẩu bằng đúng mức thâm hụt thương mại với nước đó, tức là làm cho xi−mi Δmi =0.
+
+Nói cách khác, Δτᵢ biểu thị mức tăng thuế suất cần thiết (tính bằng tỷ lệ phần trăm) để xóa bỏ thâm hụt thương mại với nước i trong mô hình này.
+
+Để kiểm chứng con số thuế suất mà mô hình dự báo cho Việt Nam, ta có thể áp dụng trực tiếp công thức. Với Việt Nam, lấy số liệu ước tính năm 2024: xᵢ ≈ 13,1 tỷ USD và mᵢ ≈ 136,6 tỷ USD. Các tham số được Nhà Trắng giả định là ε = 4 và φ = 0,25.
+
+Thay các giá trị này vào công thức: Tính chênh lệch xuất nhập khẩu: $x_i - m_i = 13,1 - 136,6 = -123,5 tỷ USD. Đây là mức thâm hụt của Mỹ với Việt Nam (khoảng 123,5 tỷ USD). Mẫu số: ε × φ × mᵢ = 4 × 0,25 × 136,6 ≈ 136,6.
+
+Do đó, Δτi = -123,5/136,6 ≈−0,904, tức khoảng -90,4%. Tóm lại trong trường hợp này nếu hiểu đơn giản theo: (xᵢ – mᵢ) / mᵢ cũng ra kết quả dù không đúng bản chất hoàn toàn.
+
+Dấu âm cho thấy Mỹ cần tăng thuế (một mức dương 90%) để giảm nhập khẩu xuống bằng mức xuất khẩu. Nói cách khác, mô hình dự báo mức thuế áp lên hàng hóa Mỹ khoảng 90% trên hàng hóa từ Việt Nam để xóa thâm hụt và cân bằng thương mại. Làm tương tự với các quốc gia khác để tính ra.
+
+Con số 90% này cao hơn nhiều so với mức 46% thuế quan đối ứng lại Việt Nam. Sự khác biệt có thể do cách diễn giải “thuế có đi có lại đã chiết khấu (discounted)” – tức là không áp dụng toàn bộ mức thuế tính được.
+
+Thực tế, Nhà Trắng có thể không chủ trương áp thuế tối đa 90% (mức quá cao khó thực thi ngay), mà cân nhắc một mức thấp hơn dựa trên tính toán “bảo thủ” hoặc điều chỉnh tham số.  Việc “chiết khấu” này có thể nhằm tránh cú sốc thuế quan quá lớn đột ngột và phản ánh kỳ vọng rằng một phần thâm hụt sẽ được điều chỉnh bằng các biện pháp khác (ví dụ Việt Nam mở cửa thị trường hơn, hoặc tỷ giá điều chỉnh).
+
+Không phải mọi quốc gia thặng dư thương mại lớn với Mỹ đều bị áp mức thuế cao tương tự như Việt Nam. Yếu tố quyết định mức thuế theo công thức trên chính là tỷ lệ thâm hụt so với kim ngạch nhập khẩu, chứ không chỉ quy mô tuyệt đối của thâm hụt. Cụ thể, cùng một giá trị thâm hụt, nếu Mỹ cũng xuất khẩu được nhiều hơn sang nước đó (tức $x_i$ cao hơn), thì tỷ lệ (xᵢ – mᵢ) / mᵢ sẽ nhỏ hơn, dẫn đến Δτi thấp hơn.
+
+Trường hợp Việt Nam, do tỷ lệ thâm hụt lên tới gần 90% nhập khẩu, nên ngay cả khi “chiết khấu” xuống khoảng một nửa, mức thuế 46% vẫn thuộc hàng cao so với mặt bằng chung.
+
+Ngoài ra, cũng cần lưu ý rằng một số nước có thể thương lượng để tránh bị áp thuế quá cao. Chính quyền Tổng thống Trump từng ám chỉ những nước đạt được thỏa thuận mở cửa thị trường hoặc điều chỉnh chính sách (ví dụ giảm rào cản đối với hàng Mỹ) có thể được miễn trừ phần nào. Do đó, mức thuế thực tế áp dụng có thể thấp hơn con số tính toán nếu có đàm phán song phương. Mục đích chính của công thức tính ra con số trên, theo như SHS, thì là mong muốn của chính quyền Trump 2.0 nhằm khuyến khích các quốc gia chủ động nhập hàng Mỹ nhiều hơn nhằm thu hẹp lại thâm hụt thương mại.

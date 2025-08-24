@@ -1,0 +1,41 @@
+Sau Thế vận hội Olympic, số ca nhiễm nCoV tại Nhật Bản vẫn cao chóng mặt, đẩy hệ thống y tế đến bờ vực. Cuối tháng 8, số bệnh nhân theo ngày thường chạm ngưỡng hơn 26.000, chính phủ phải áp đặt một số biện pháp hạn chế để giảm lây nhiễm.
+
+Song những tuần gần đây, số ca mắc mới giảm xuống dưới 200. Ngày 7/11, lần đầu tiên trong 15 tháng, nước này không ghi nhận ca tử vong nào. Ngày 20/11, Bộ Y tế Nhật Bản ghi nhận 104 ca COVID-19 mới trong vòng 24 giờ, chưa bằng 1% số ca mới so với lúc đỉnh điểm tháng 8.
+
+Các chuyên gia "không thể hiểu nổi" nguyên nhân Covid-19 tại Nhật suy yếu nhanh chóng. Họ đưa ra nhiều giả thuyết khác nhau để lý giải tình hình. Nhiều người cho rằng nguyên nhân là Nhật Bản có tỷ lệ tiêm chủng cao nhất trong số những nước phát triển. Đến nay, 75% dân số Nhật Bản đã tiêm đủ hai liều vaccine.
+
+Tuy nhiên, theo giáo sư Mike Toole, chuyên gia dịch tễ tại Viện Burnet, tiêm chủng không phải lý do duy nhất khiến số ca nhiễm nước này giảm đột ngột. "Còn 30% trong số 100 triệu dân chưa tiêm chủng, tức là vẫn còn chỗ cho virus lây lan," ông cho biết.
+
+Một cách lý giải khác có vẻ hợp lý hơn, lý do chính nằm ở những thay đổi về di truyền của nCoV trong quá trình nhân lên, tốc độ là khoảng hai đột biến mỗi tháng.
+
+Mới đây, Ituro Inoue, giáo sư tại Viện Di truyền Quốc gia, đưa ra một lý thuyết tiềm năng mang tính cách mạng: Biến thể Delta tại Nhật Bản đã tích lũy quá nhiều đột biến với một protein không cấu trúc, có khả năng sửa lỗi di truyền của nCoV tên là nsp14. Kết quả, virus vật lộn tự sửa chữa các lỗi sai một thời gian dài, cuối cùng dẫn đến "tự hủy diệt".
+
+Tới nay, nhà di truyền học Inoue và đồng nghiệp đang nghiên cứu các đột biến của SARS-CoV-2 và cách những đột biến này bị ảnh hưởng từ protein nsp14 - chất rất quan trọng với sinh sản của virus.
+
+Theo đó, những virus RNA, giống virus gây ra dịch Covid-19, có tỉ lệ đột biến rất cao, giúp chúng nhanh chóng thích nghi với sự thay đổi của môi trường. Tuy nhiên, điều này cũng mở ra cánh cửa cho cái gọi là "thảm họa lỗi" - tức xảy ra vô số đột biến xấu và cuối cùng dẫn tới sự tuyệt chủng hoàn toàn của một chủng virus.
+
+Nhà di truyền học Inoue nhận định, ở làn sóng Covid-19 thứ 5 tại Nhật Bản, protein nsp14 của biến thể Delta dường như đã gặp vấn đề. Lập luận này được ông đưa ra trên cơ sở nghiên cứu di truyền những mẫu vật virus được thu thập từ tháng 6 đến tháng 10 năm nay.
+
+“Trong quá trình các đột biến của Delta được tích lũy, chúng tôi cho rằng virus chuyển thành phiên bản lỗi và mất đi khả năng tự sao chép. Dựa trên thực tế là số ca không tiếp tục tăng, có thể đến một thời điểm, các đột biến đã đẩy virus đến tình trạng gọi là tuyệt chủng tự nhiên,” theo giáo sư Inoue.
+
+Giả thuyết của ông Inoue phần nào lý giải cho sự suy yếu khác lạ của dịch bệnh tại Nhật Bản. Trong khi hầu hết các nước có tỷ lệ tiêm chủng cao tương tự (như Hàn Quốc) đang hứng chịu làn sóng Covid-19 kỷ lục, Nhật Bản dường như là trường hợp đặc biệt, ca nhiễm không tăng dù nhà hàng và ga tàu điện đông đúc đến đâu.
+
+"Nếu virus còn hoạt động tốt, các ca mắc chắc chắn sẽ tăng vì tiêm chủng không thể ngăn ngừa lây nhiễm đột phá trong một số trường hợp," giáo sư Inoue cho biết.
+
+Giả thuyết này cũng giúp giáo sư Inoue giải thích lý do đại dịch SARS chấm dứt vào năm 2003 mà không bùng lên thành đại dịch. Khi tiến hành thí nghiệm, các nhà khoa học tạo ra các đột biến nhân tạo tại protein nsp14 của virus SARS. Kết quả cho thấy virus có dừng tự nhân bản.
+
+Tuy nhiên, điều này khó xác nhận, vì đợt bùng phát dịch SARS kết thúc tương đối nhanh và không dẫn đến việc thu thập dữ liệu di truyền khổng lồ cần để kiểm tra giả thuyết. "Chúng ta không có dữ liệu di truyền của virus SARS, vì vậy tất cả chỉ là phỏng đoán. Nhưng bởi virus SARS đã biến mất, đại dịch SARS sẽ không bao giờ quay trở lại," ông Inoue nói.
+
+
+
+"Khả năng này không phải không có, nhưng lúc này hy vọng như vậy là quá lạc quan bởi chúng ta chưa có bất cứ bằng chứng xác thực nào," ông Inoue nhận xét. Ngoài ra, ông Inoue cảnh báo điều này không có nghĩa Nhật Bản sẽ miễn nhiễm trước làn sóng dịch bệnh kế tiếp.
+
+"Delta từng khiến các biến chủng khác không lan rộng ở Nhật Bản. Nhưng lúc này biến chủng Delta đã không còn, các biến chủng khác sẽ có cơ hội lấp chỗ trống. Chỉ một biện pháp tiêm chủng là không đủ để chấm dứt đại dịch," ông Inoue nói.
+
+Còn theo Takeshi Urano, giáo sư tại Khoa Y của Đại học Shimane, Covid-19 suy yếu bất ngờ tại Nhật Bản là chủ đề thảo luận sôi nổi của nhiều chuyên gia. Ông Takeshi Urano nhận định, nsp14 hoạt động với các protein virus khác và có chức năng quan trọng để bảo vệ RNA khỏi bị phá vỡ. Làm tê liệt nsp14 đồng nghĩa giúp giảm khả năng tái tạo của virus.
+
+Theo các nghiên cứu trước đó, tỉ lệ dân số châu Á mang trong cơ thể loại enzyme phòng vệ APOBEC3A chuyên tấn công RNA virus, bao gồm virus SARS-CoV-2 gây Covid-19, cao hơn so với dân châu Âu và châu Phi. Phát hiện này khiến các nhà khoa học Nhật tò mò cách APOBEC3A tác động lên protein nsp14.
+
+"Nsp14 có vai trò quan trọng là bảo vệ không để virus RNA bị phân hủy. Các nghiên cứu đã cho thấy khi nsp14 bị tê liệt, khả năng tự nhân bản của virus giảm đáng kể. Đây có thể là một yếu tố khiến dịch bệnh hạ nhiệt," ông Urano nói. Quan trọng nhất, giáo sư Đại học Shimane cho rằng loại chất hóa học có khả năng phân rã protein nsp14 có thể được coi là phương thuốc hứa hẹn để điều trị cho người mắc Covid-19.
+
+Cũng theo ông Takeshi Urano, hiện tượng virus SARS-CoV-2 tự biến mất hoàn toàn có khả năng xảy ra ở các quốc gia khác, dù việc phát hiện có thể khó hơn bởi không ở đâu protein nsp14 có nhiều đột biến như tại Nhật Bản. Thực tế là, biến thể Delta ít đa dạng di truyền hơn biến thể Alpha và protein nsp14 của nhiều mẫu virus corona ở Nhật Bản đã qua nhiều lần đột biến ở vị trí A394V. Mà các đột biến ở vị trí A394V cũng đã được ghi nhận ở 24 quốc gia khác.

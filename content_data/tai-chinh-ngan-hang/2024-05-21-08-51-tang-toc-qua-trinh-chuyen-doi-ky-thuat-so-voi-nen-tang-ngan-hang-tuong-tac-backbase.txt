@@ -1,0 +1,49 @@
+Ông có thể chia sẻ về nền tảng ngân hàng tương tác và so với các nền tảng ngân hàng mở hiện có, nền tảng Backbase có điểm gì vượt trội?
+
+Chúng tôi có mặt tại thị trường Việt Nam từ năm 2018. Trong 6 năm, chúng tôi có một số ngân hàng đã hợp tác cùng Backbase để triển khai ngân hàng số trên nền tảng ngân hàng tương tác.
+
+Đầu tiên là TPBank vào 2019, một trong những ngân hàng đang đi nhanh về số hóa ở Việt Nam. Sau thời gian triển khai ngân hàng số trên nền tảng ngân hàng tương tác của Backbase, họ có 9 triệu khách hàng. Kết quả này là nhờ sự cộng hưởng của nhiều yếu tố, trong đó giá trị của ngân hàng số là không nhỏ.
+
+Tiếp đó, chúng tôi trở thành đối tác cung cấp ngân hàng tương tác là nền tảng cho chiến lược số hóa với các phiên bản ngân hàng số của Techcombank và Ngân hàng An Bình.
+
+
+
+Năm 2023, hợp tác mới nhất của chúng tôi chính là OCB, một trong những ngân hàng đã thay đổi quy mô, tốc độ tăng trưởng và có nỗ lực đầu tư rất mạnh mẽ vào số hóa và ngân hàng số những năm gần đây. Hợp tác này đã mang đến cho chúng tôi kết quả tuyệt vời cùng với sự hài lòng, và chúng tôi tin rằng ngân hàng số OCB OMNI 4.0 trên nền tảng tương tác của Backbase sẽ mang đến những trải nghiệm ưu việt nhất cho mỗi khách hàng.
+
+Có thể hình dung ngắn gọn, nền tảng ngân hàng tương tác cho các ngân hàng thay đổi mô hình rời rạc của ngân hàng truyền thống, chuyển sang mô hình mới, thế hệ mới với mục tiêu cung cấp hành trình giao dịch của khách hàng đầu - cuối cùng những trải nghiệm mượt mà nhất.
+
+Với nền tảng ngân hàng tương tác, Ngân hàng sẽ lấy khách hàng là trung tâm, tái cấu trúc ngân hàng xoay quanh khách hàng chứ không phải xoay quanh sản phẩm. Đây là chuyển đổi lớn lao với sứ mệnh táo bạo để khách hàng được phục vụ trên mọi dịch vụ, luôn gắn bó với ngân hàng. Từ phía nhà cung cấp, nền tảng ngân hàng tương tác giúp ngân hàng chuyển đổi mạnh mẽ và phát triển trong dài hạn.
+
+Công thức chung mà chúng tôi áp dụng ở nền tảng này cho các khách hàng trên toàn cầu là: Công nghệ - Sự linh hoạt - Giảm chi phí. Qua đó, mang đến hiệu suất cao cho tổ chức. Trong tương lai, với những bước đi rất nhanh của các thị trường trong chuyển đổi số trong đó có các ngân hàng như OCB ở Việt Nam, nền tảng ngân hàng Backbase hướng đến mục tiêu đóng góp cho cải thiện sức khỏe tài chính của 10% dân số thế giới.
+
+Thưa ông, quá trình triển khai và “go-live” nền tảng tương tác thế hệ mới OCB OMNI 4.0, Backbase và OCB đã gặp những thuận lợi và thách thức gì?
+
+Đối với một tổ chức doanh nghiệp, ở đây ngân hàng cũng là doanh nghiệp, việc chuyển đổi số thành công cần có các yếu tố sau:
+
+Thứ nhất, tầm nhìn mạnh mẽ. Chúng tôi có thuận lợi là Ban lãnh đạo ngân hàng OCB có tầm nhìn rõ ràng, chỉ cần 2 tháng để lựa chọn đối tác phù hợp - một tốc độ nhanh nhất trong ngành.
+
+Thứ hai, nền tảng cốt lõi vững chắc. Ở đây, nền tảng ngân hàng tương tác Backbase cho phép mang đến trải nghiệm hợp kênh trên tất cả các kênh; Sự thấu hiểu khách hàng trên tất cả các điểm chạm; Áp dụng các công nghệ hiện đại để tăng tốc và Xây dựng sản phẩm khác biệt.
+
+Thứ ba, đối tác có năng lực. Cả OCB, Backbase và SmartOSC (đối tác công nghệ có đội ngũ triển khai tại Việt Nam, kinh nghiệm làm việc lâu năm với các tổ chức quốc tế) đều hội đủ những yếu tố trên. OCB và đối tác SmartOSC cùng nhau thúc đẩy tăng tốc các tính năng của nền tảng được xây dựng sẵn cho thị trường Việt Nam với sự phối hợp của chúng tôi.
+
+Thời gian cũng là một thách thức. OCB đã đưa ra yêu cầu cho thời gian triển khai chi trong 6 tháng và chỉ có thể thành công. Và với sự nỗ lực của tất cả các bên, OCB OMNI 4.0 đã ra mắt sau đúng 6 tháng như cam kết. Hơn hết, nền tảng ngân hàng tương tác Backbase đã giúp OCB vượt lên dẫn trước nhiều ngân hàng cùng ngành trong việc thực hiện cam kết đặt khách hàng lên hàng đầu và ưu tiên chuyển đổi số.
+
+Thưa ông, đâu là động lực chứng để Backbase đáp ứng cam kết ra mắt nền tảng mới đúng thời hạn 6 tháng?
+
+Như tôi vừa chia sẻ, để có ngân hàng số OCB OMNI thế hệ mới phiên bản hiện đại nhất Việt Nam hiện nay, chúng tôi chỉ thực hiện trong vòng 6 tháng. Đây là tốc độ nhanh chưa từng có trên thị trường. Động lực chính là quyết tâm đưa OCB trở thành ngân hàng dẫn đầu trong cuộc đua chuyển đổi số hiện nay.
+
+Song song đó, phải nói là OCB có một đội ngũ nhân sự tuyệt vời, chuyên nghiệp và làm việc không quản ngày đêm để thực hiện tăng tốc triển khai các sản phẩm dịch vụ và tính năng thông qua nền tảng ngân hàng tương tác Backbase. Quá trình thiết lập nhanh chóng này bao gồm các tính năng quan trọng như: quản lý tài khoản, tiền gửi, thanh toán hóa đơn, dịch vụ thẻ, vay... và tất cả đều được điều chỉnh phù hợp với đặc thù riêng thị trường Việt Nam.
+
+Trong lần triển khai đầu tiên của ứng dụng, OCB đã chuyển đổi hơn 7.000 người dùng nội bộ sang nền tảng mới, nhận được phản hồi rất tích cực về tính Mượt, Nhanh, Tốc độ và An toàn. Có thể nói ngắn gọn trong những con số: Rút ngắn thời gian triển khai nền tảng trong 6 tháng, tăng tốc 3 lần so với tiêu chuẩn trong ngành, giảm 40% thời gian triển khai, tiết kiệm 50% so với chi phí trung bình ngành.
+
+Ông hãy chia sẻ về việc áp dụng OCB OMNI 4.0 cho hoạt động ngân hàng doanh nghiệp và quản lý tài sản?
+
+Trong thỏa thuận hợp tác, nền tảng ngân hàng tương tác mang đến nhiều mô hình kinh doanh cho OCB. Ở giai đoạn đầu, đó sẽ là phát triển ngân hàng bán lẻ. Trong tương lai, là ngân hàng đầu tư (Investment Banking) và quản lý tài sản (Private Banking and Wealth Management).
+
+Tới đây, khách hàng có thể sử dụng các công cụ trên các nền tảng đầu tư như nền tảng giao dịch chứng chỉ tiền gửi, đầu tư chứng chỉ quỹ, giao dịch chứng khoán trên thị trường… OMNI 4.0 phiên bản thế hệ mới được chuyển đổi và tích hợp sang một nền tảng thống nhất.
+
+Nền tảng ngân hàng tương tác giúp duy trì khả năng thanh toán cho các ngân hàng có quy mô khác nhau như thế nào, thưa ông?
+
+Nền tảng ngân hàng tương tác Backbase mà các ngân hàng đang triển khai ngân hàng số thế hệ mới như trao đổi, cho phép tùy chỉnh, tính tương tác rộng mở và đạt hiệu năng cao; tốc độ thanh toán tối đa, nhanh, mượt với các tính năng hỗ trợ giao dịch đơn giản nhất.
+
+Có thể nói ngắn gọn, đây là “Simple App, Simple Life”, phù hợp với mọi quy mô của mọi tổ chức và đặc biệt nhằm hỗ trợ các ngân hàng ưu tiên chuyển đổi số, thực thi cam kết đặt khách hàng lên hàng đầu.

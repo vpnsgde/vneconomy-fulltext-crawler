@@ -1,0 +1,29 @@
+Căn cứ quy định tại Luật Thuế giá trị gia tăng, Luật Thuế thu nhập cá nhân, Luật Quản lý thuế và các văn bản hướng dẫn thi hành, Nghị định số 117/2025/NĐ-CP quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số của hộ, cá nhân, Thuế TP. Hồ Chí Minh hướng dẫn sàn thương mại điện tử, nền tảng số trong nước và các tổ chức có hoạt động kinh tế số khác thực hiện khấu trừ, nộp thay đối với hộ, cá nhân như sau:
+
+Thứ nhất,tổ chức thực hiện khấu trừ là nhà quản lý sàn giao dịch thương mại điện tử, tổ chức là nhà quản lý nền tảng số có chức năng thanh toán và các tổ chức có hoạt động kinh tế số khác.
+
+Trong đó, “có chức năng thanh toán” được hiểu là nền tảng được thiết lập để người mua thanh toán trực tiếp trên sàn thông qua các phương tiện thanh toán ví điện tử, thẻ ngân hàng hoặc thanh toán, chuyển khoản qua tài khoản thanh toán … theo quy định của pháp luật, Thuế TP. Hồ Chí Minh nêu rõ.
+
+Thứ hai,đối tượng bị khấu trừ là hộ, cá nhân cư trú và không cư trú có hoạt động kinh doanh trên nền tảng thương mại điện tử.
+
+Theo quy định Luật Thuế thu nhập cá nhân, tình trạng cư trú của cá nhân kinh doanh được xác định thông qua một trong hai điều kiện bao gồm: (i) có mặt tại Việt Nam từ 183 ngày trở lên tính trong một năm dương lịch hoặc tính theo 12 tháng liên tục kể từ ngày đầu tiên có mặt tại Việt Nam và (ii) có nơi ở đăng ký thường trú hoặc có nhà thuê để ở tại Việt Nam theo hợp đồng thuê có thời hạn.
+
+Thứ ba,các loại thuế được khấu trừ bao gồm thuế giá trị gia tăng và thuế thu nhập cá nhân.
+
+Theo Thuế TP. Hồ Chí Minh thuế giá trị gia tăng được áp dụng với mỗi giao dịch cung cấp hàng hóa, dịch vụ phát sinh doanh thu ở trong nước trên nền tảng thương mại điện tử. Theo đó, số thuế giá trị gia tăng phải thực hiện khấu trừ được xác định theo tỷ lệ phần trăm (%) trên doanh thu của mỗi giao dịch bán hàng hóa, cung cấp dịch vụ.
+
+Đối với thuế thu nhập cá nhân, loại thuế này được áp dụng với mỗi giao dịch cung cấp hàng hóa, dịch vụ phát sinh doanh thu trong và ngoài nước trên nền tảng thương mại điện tử của cá nhân cư trú và không cư trú. Theo đó, số thuế thu nhập cá nhân phải thực hiện khấu trừ được xác định theo tỷ lệ phần trăm (%) trên doanh thu của mỗi giao dịch bán hàng hóa, cung cấp dịch vụ.
+
+Thứ tư,về cách xác định doanh thu khấu trừ, Thuế TP. Hồ Chí Minh cho biết doanh thu bán hàng hóa, dịch vụ là số tiền bán hàng hóa, dịch vụ của hộ, cá nhân kinh doanh được hưởng mà tổ chức quản lý nền tảng thương mại điện tử thu hộ.
+
+Trong đó, doanh thu để khấu trừ thuế (không bao gồm phí sàn, phí vận chuyển hoặc các khoản giảm giá khác của sàn) xác định bằng giá bán niêm yết trừ (-) giảm giá của người bán
+
+Thứ năm,quy định về thuế suất khấu trừ đối với thuế giá trị gia tăng và thuế thu nhập cá nhân.
+
+Theo quy định của Luật Thuế giá trị gia tăng, mức thuế suất đối với hàng hoá; dịch vụ; vận tải, dịch vụ có gắn với hàng hóa và nhóm không xác định được lần lượt là 1%; 5%; 3% và 5%.
+
+Theo quy định của Luật Thuế thu nhập cá nhân đối với cá nhân cư trú, mức thuế suất đối với hàng hóa; dịch vụ; vận tải, dịch vụ có gắn với hàng hóa và nhóm không xác định được lần lượt là 0,5%; 2%; 1,5% và 2%.
+
+Trường hợp là cá nhân không cư trú, mức thuế suất đối với hàng hóa; dịch vụ; vận tải, dịch vụ có gắn với hàng hóa và nhóm không xác định được lần lượt là 1%; 5%; 2% và 5%.
+
+Thứ sáu,về thời điểm khấu trừ thuế. Theo Nghị định 117/2025/NĐ-CP, tổ  chức khấu trừ thực hiện khấu trừ thuế của hộ, cá nhân kinh doanh ngay khi xác nhận đơn hàng thành công và chấp nhận thanh toán đối với giao dịch bán hàng hóa, dịch vụ trên nền tảng thương mại điện tử.

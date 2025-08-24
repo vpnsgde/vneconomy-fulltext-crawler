@@ -1,0 +1,9 @@
+Không giống các công ty chip truyền thống tự tổ chức sản xuất, nhiều công ty chip giá trị nhất thế giới như: Nvidia, Qualcomm và AMD chỉ tập trung vào khâu thiết kế. Những công ty này thường ký hợp đồng sản xuất với những doanh nghiệp như TSMC của Đài Loan, nhờ vậy tiết kiệm được chi phí khổng lồ của việc sản xuất hàng loạt.
+
+Đồ thị thông tin dưới đây thể hiện doanh thu quý của các công ty chế tạo chip hàng đầu thế giới, dựa trên số liệu tổng hợp từ công ty nghiên cứu thị trường TrendForce.
+
+Từ năm 2023 đến nay, doanh thu của Nvidia tăng vọt, vượt qua tất cả các công ty chế tạo chip khác. Hai năm qua, bộ xử lý đồ họa (GPU) H100 của công ty này nhanh chóng trở thành con chip thiết yếu cho việc đào tạo và vận hành các mô hình trí tuệ nhân tạo (AI). Điều này giúp công ty Mỹ trở thành trung tâm của cơ sốt AI tạo sinh (Gen AI). Quý 3/2024, doanh thu của công ty này đạt gần 38 tỷ USD, gấp khoảng 13 lần so với mức gần 3 tỷ USD của 5 năm trước đó.
+
+Trong khi đó, Qualcomm là công ty dẫn đầu thế giới về chip điện thoại di động. Bộ xử lý Snapdragon của Qualcomm được dùng trong hàng tỷ điện thoại thông minh, máy tính bảng và laptop. Công ty này hiện cũng mở rộng ra nhiều lĩnh vực khác như chip ô tô để đa dạng hóa doanh thu. Con chip của Qualcomm được sản xuất bởi nhiều công ty, bao gồm TSMC, Samsung và Global Foundries.
+
+Broadcom là một trong những công ty nghìn tỷ USD mới nhất thế giới khi chỉ mới đạt mốc vốn hóa này vào tháng 12/2024 sau khi công bố thương vụ hợp tác phát triển chip AI với Apple. Công ty này tập trung phát triển con chip hạ tầng và kết nối, thường dùng trong các mạng không dây, điện toán đám mây và cơ sở lưu trữ.

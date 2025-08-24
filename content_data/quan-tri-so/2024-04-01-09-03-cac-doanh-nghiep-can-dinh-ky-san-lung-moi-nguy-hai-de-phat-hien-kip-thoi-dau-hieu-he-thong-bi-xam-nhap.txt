@@ -1,0 +1,27 @@
+Đề nghị này được nhấn mạnh trong văn bản số 476 do Phó Cục trưởng Cục An toàn thông tin, Bộ Thông tin và Truyền thông Trần Đăng Khoa ký ban hành ngày 30/3/2024, gửi tới các đơn vị chuyên trách về công nghệ thông tin, an toàn thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; các Sở Thông tin và Truyền thông; Tổ chức tài chính, Ngân hàng; Tập đoàn, Doanh nghiệp… về việc tăng cường bảo đảm an toàn thông tin mạng đối với hệ thống thông tin.
+
+Cục An toàn thông tin nêu rõ, qua theo dõi, giám sát không gian mạng, đơn vị này phát hiện xu hướng tấn công mạng, đặc biệt là mã hóa tấn công tống tiền (ransomware) tăng cao. Đặc biệt, trong thời gian gần đây, đã có một số hệ thống thông tin của cơ quan, tổ chức, doanh nghiệp tại Việt Nam bị sự cố tấn công, gây gián đoạn hoạt động và thiệt hại về vật chất, hình ảnh của các cơ quan, tổ chức, doanh nghiệp, cũng như hoạt động bảo đảm an toàn không gian mạng quốc gia.
+
+Trước thực trạng trên, Cục An toàn thông tin đề nghị các cơ quan, tổ chức, doanh nghiệp rà soát và triển khai 7 nhiệm vụ quan trọng để bảo đảm an toàn thông tin mạng cho các hệ thống thông tin thuộc phạm vi quản lý.
+
+Thứ nhất, tổ chức rà soát, tăng cường các giải pháp bảo đảm an toàn thông tin mạng cho các hệ thống thông tin, ưu tiên các giải pháp giám sát, cảnh báo sớm. Thực hiện kiểm tra, đánh giá đảm bảo an toàn thông tin các hệ thống thông tin thuộc phạm vi quản lý, trong trường hợp phát hiện các nguy cơ, lỗ hổng, điểm yếu, cần lập tức triển khai các biện pháp khắc phục, đặc biệt là các hệ thống thông tin lưu trữ, xử lý thông tin cá nhân, dữ liệu cá nhân.
+
+Thứ hai, rà soát, tổ chức triển khai bảo đảm an toàn thông tin theo cấp đội. Tổ chức triển khai các nhiệm vụ liên quan theo Chỉ thị số 09/CT-TTg ngày 23/02/2024 của Thủ tướng Chính phủ về tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+Đặc biệt là tổ chức thống kê, phân loại các hệ thống thông tin thuộc phạm vi quản lý; xây dựng kế hoạch triển khai hoàn thành quy định bảo đảm an toàn hệ thống thông tin theo cấp độ (theo tiến độ tháng), bảo đảm 100% hệ thống thông tin đang vận hành phải được phê duyệt cấp độ an toàn hệ thống thông tin chậm nhất trong tháng 9/2024 và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt chậm nhất trong tháng 12/2024.
+
+Thứ ba, tổ chức thực thi hiệu quả, thực chất, thường xuyên, liên tục công tác bảo đảm an toàn thông tin theo mô hình 4 lớp, đặc biệt là nâng cao năng lực của lớp giám sát, bảo vệ chuyên nghiệp và duy trì liên tục, ổn định kết nối, chia sẻ thông tin với Trung tâm Giám sát an toàn không gian mạng quốc gia (thuộc Cục An toàn thông tin); ưu tiên sử dụng các sản phẩm, giải pháp, dịch vụ an toàn thông tin mạng do doanh nghiệp Việt Nam sản xuất hoặc làm chủ công nghệ.
+
+Thứ tư, Cục An toàn thông tin đề nghị các tổ chức, doanh nghiệp xây dựng kế hoạch ứng phó sự cố đối với hệ thống thông tin thuộc phạm vi quản lý theo quy định tại Thông tư số 20/2017/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc.
+
+Triển khai phương án sao lưu định kỳ hệ thống và dữ liệu quan trọng để kịp thời khôi phục khi bị tấn công mã hóa dữ liệu và báo cáo sự cố về Cục An toàn thông tin theo quy định. Tham gia mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia theo quy định tại Điều 7 Quyết định số 05/2017/QĐ-TTg của Thủ tướng Chính phủ.
+
+Thứ năm, rà soát, triển khai các nhiệm vụ liên quan theo Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam.
+
+Thực hiện định kỳ săn lùng mối nguy hại để phát hiện kịp thời các dấu hiệu hệ thống bị xâm nhập. Đối với hệ thống đã phát hiện lỗ hổng bảo mật nghiêm trọng, sau khi khắc phục lỗ hổng, cần thực hiện ngay việc săn lùng mối nguy hại nhằm xác định khả năng bị xâm nhập trước đó.
+
+Thứ sáu, kiểm tra, cập nhật các bản vá an toàn thông tin cho các hệ thống quan trọng theo cảnh báo của Cục An toàn thông tin và các cơ quan, tổ chức liên quan; định kỳ kiểm tra, đánh giá, rà soát để phát hiện kịp thời các lổ hỗng an toàn thông tin, các điểm yếu đang tồn tại trên hệ thống.
+
+Thứ bảy, thường xuyên, liên tục sử dụng các Nền tảng về an toàn thông tin do Cục An toàn thông tin phát triển, cung cấp để hỗ trợ các cơ quan, tổ chức, doanh nghiệp: Sử dụng nền tảng điều phối xử lý sự cố an toàn thông tin mạng quốc gia (IRLab) để được hướng dẫn, nhận các cảnh báo sớm và hỗ trợ xử lý sớm nguy cơ, sự cố; Sử dụng nền tảng hỗ trợ điều tra số (DFLab) trong trường hợp phù hợp để tổ chức ứng cứu sự cố và được sự hỗ trợ từ cơ quan nhà nước, các chuyên gia đầu ngành về an toàn thông tin.
+
+Cục An toàn thông tin đề nghị các tổ chức, doanh nghiệp rà soát, cử đầu mối trao đổi chuyên môn và báo cáo kết quả thực hiện về Cục An toàn thông tin trước ngày 20/4/2024 để tổng hợp và báo cáo cấp có thẩm quyền.

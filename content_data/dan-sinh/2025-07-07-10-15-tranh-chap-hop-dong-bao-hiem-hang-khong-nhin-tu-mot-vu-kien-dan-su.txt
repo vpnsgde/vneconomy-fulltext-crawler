@@ -1,0 +1,37 @@
+Theo hồ sơ vụ án, nguyên đơn là công ty dược phẩm đã mua lô hàng thuốc tân dược từ nhà sản xuất bên Đức. Công ty ký hợp đồng bảo hiểm ngày 1/3/2022 với Tổng công ty V. Đối tượng bảo hiểm là thuốc tân dược nhập khẩu bằng đường máy bay về Việt Nam. Số tiền bảo hiểm là hơn 26,6 tỷ đồng.
+
+Lô hàng trên xảy ra sự cố vượt nhiệt độ trong thời gian 3 giờ khiến số thuốc trên không đảm bảo chất lượng lưu hành, có khuyến nghị phải hủy bỏ thuốc.
+
+Do đó công ty dược phẩm khởi kiện đòi bồi thường với lô hàng trên. Phía công ty bảo hiểm không đồng ý vì cho rằng vụ việc không thuộc thời hạn có hiệu lực của bảo hiểm, không có thiệt hại và thuộc các trường hợp loại trừ trách nhiệm bảo hiểm.
+
+Vụ việc được đưa ra xét xử sơ thẩm năm 2024, tòa sơ thẩm buộc công ty bảo hiểm phải thanh toán hơn 31,9 tỷ đồng gồm tiền bảo hiểm và lãi chậm trả. Không đồng ý với phán quyết trên, công ty bảo hiểm đã kháng cáo và TAND TP Hà Nội xét xử theo trình tự phúc thẩm vào tháng 6/2025.
+
+Trong vụ án này, tòa phúc thẩm cho rằng, điều khoản 5.1 quy định “bảo hiểm này có hiệu lực từ khi đối tượng bảo hiểm rời kho, nhà hay nơi lưu chứa tại địa điểm ghi trong đơn bảo hiểm này để bắt đầu việc vận chuyển…”.
+
+Theo giấy chứng nhận bảo hiểm hàng hóa nhập khẩu, địa điểm ghi trên đơn bảo hiểm “nơi đi” là “sân bay Frankfurt, Đức”.
+
+Tòa án cho rằng theo thỏa thuận trên cần hiểu rằng thời điểm bắt đầu có hiệu lực của bảo hiểm là khi đối tượng bảo hiểm rời kho, nhà hay nơi lưu chứa tại sân bay Frankfurt, Đức để bắt đầu việc vận chuyển bằng máy bay, bao gồm thời gian xếp chờ, chuyển tải, xếp hàng lên máy bay cho tới khi hàng hóa được bốc dỡ tới kho của người nhận.
+
+Ngoài ra, hợp đồng mua bán thuốc được tính theo điều kiện FCA Hamburg. FCA – Free Carrier, nghĩa là “giao hàng cho người chuyên chở” – thuật ngữ được sử dụng trong thương mại quốc tế, thuộc nhóm F trong 11 điều khoản Incoterm 2020.
+
+Theo FCA, người bán (bên xuất khẩu) chịu trách nhiệm đóng gói hàng hóa và xếp hàng lên phương tiện chuyên chở tại vị trí đã xác định (bến cảng hoặc nhà xe của đơn vị vận tải).
+
+Bên mua có trách nhiệm tìm đơn vị vận tải để vận chuyển lô hàng. Sau khi bên bán giao hàng, rủi ro sẽ được chuyển sang cho người chuyên chở thứ nhất.
+
+Người bán hết trách nhiệm chịu rủi ro trong khâu vận chuyển hàng hóa khi hàng đã được giao cho người vận tải của người mua thuê.
+
+Theo đó, trường hợp nếu giao hàng tại sân bay cho các hãng bay mà người mua thuê, thì người bán chỉ cần chở hàng đến các kho của hãng bay do người mua thuê là hết trách nhiệm chịu rủi ro. Thậm chí người bán không phải chịu trách nhiệm và chi phí cho việc dỡ hàng xuống khỏi xe tải tại kho này. Còn người mua phải chịu rủi ro và tổn thất về hàng hóa từ khi hàng được giao cho người vận tải.
+
+Tòa án cho rằng thời điểm công ty dược phẩm chịu rủi ro và tổn thất về hàng hóa tính từ khi hàng được giao cho bên vận chuyển tại sân bay Frankfurt.  Như vậy, thời điểm có hiệu lực bảo hiểm được tính từ khi hãng bay nhận hàng.
+
+Mặt khác, điều 21 Luật Kinh doanh bảo hiểm năm 2000 về Giải thích hợp đồng bảo hiểm “trong trường hợp hợp đồng bảo hiểm có điều khoản không rõ ràng thì điều khoản đó được giải thích theo hướng có lợi cho bên mua bảo hiểm".
+
+Tòa án cũng nhận định việc công ty bảo hiểm cho rằng thời hạn bảo hiểm bắt đầu từ khi máy bay cất cánh rời sân bay Frankfurt cho đến khi tới sân bay Nội Bài là không đúng, có lợi cho công ty bảo hiểm, không phù hợp quy định pháp luật.
+
+Ngoài ra, tòa án cho rằng đơn vị bảo hiểm đã biết rõ về hàng hóa được bảo hiểm và chấp nhận phương thức đóng gói và phương thức vận chuyển của hàng hóa trước thời điểm phát hành chứng thư bảo hiểm và trước thời điểm hàng hóa được đưa vào quá trình vận chuyển về Việt Nam…
+
+"Thời điểm tăng nhiệt độ đột ngột được xác định là do tác động bện ngoài và trong khoảng thời gian ngắn, đây là rủi ro khách quan không thể xác định chủ quan do lỗi đóng gói hoặc vận chuyển của nhà sản xuất hay đơn vị vận chuyển", tòa án nhận định. Vì vậy, tòa phúc thẩm không chấp nhận đơn kháng cáo của công ty bảo hiểm, giữ nguyên quyết định của bản án sơ thẩm.
+
+
+
+Điều khoản bảo hiểm hàng không ICC 1/1/82 cũng quy định: “Bảo hiểm này sẽ vẫn giữ nguyên hiệu lực trong thời gian bị chậm trễ ngoài khả năng kiểm soát của người được bảo hiểm, trong thời gian thay đổi hành trình bởi việc sử dụng quyền tự định đoạt của người chuyên chở hàng không theo hợp đồng chuyên chở”.

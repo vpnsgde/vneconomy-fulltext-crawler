@@ -1,0 +1,21 @@
+TSMC hiện đang vận hành dây chuyền sản xuất chip 3nm và dự kiến sẽ chuyển sang công nghệ 2nm vào cuối năm nay. Bước tiếp theo là công nghệ 1.6nm, dự kiến được đưa vào hoạt động cuối năm 2026 như một bước đệm trước khi tiến tới thế hệ 1.4nm.
+
+Ông Kevin Zhang, Phó Chủ tịch Cấp cao của TSMC, khẳng định công nghệ A14 (1.4nm) là “một thế hệ công nghệ bán dẫn tiên tiến mới, được phát triển dựa trên bước chuyển mình toàn diện về quy trình sản xuất”.
+
+Công nghệ A14 của TSMC là bước tiến hoàn toàn mới trong quy trình sản xuất chip, được phát triển dựa trên loại bóng bán dẫn tấm nano GAAFET thế hệ thứ hai cùng với kiến trúc thiết kế tiêu chuẩn mới. Nhờ đó, A14 mang lại nhiều lợi thế rõ rệt về hiệu suất xử lý, tiết kiệm điện năng và khả năng thu nhỏ kích thước chip.
+
+Theo TSMC, so với công nghệ 2nm hiện tại (N2), A14 có thể tăng hiệu suất từ 10% đến 15% mà không làm tăng mức tiêu thụ điện năng hoặc độ phức tạp thiết kế. Nếu giữ nguyên hiệu suất, A14 giúp giảm từ 25% đến 30% điện năng tiêu thụ. Mật độ và số lượng bóng bán dẫn, yếu tố then chốt trong thiết kế chip, cũng tăng từ 20% đến 23%, tùy theo kiểu thiết kế (hỗn hợp hoặc logic).
+
+Vì là một công nghệ hoàn toàn mới, A14 đòi hỏi phải phát triển lại nhiều thành phần, từ các khối IP (thiết kế sẵn), đến các công cụ phần mềm và quy trình tối ưu hóa thiết kế. Điều này khác với các phiên bản mở rộng như N2P hay A16 – vốn tận dụng lại phần lớn hạ tầng từ thế hệ N2.
+
+Khác với A16, vốn được trang bị hệ thống cấp nguồn ở mặt sau chip (Backside Power Delivery Network – BSPDN), giúp tối ưu hiệu suất, A14 vẫn sử dụng cấu trúc cấp nguồn truyền thống từ mặt trước. Thiết kế này phù hợp với những ứng dụng không yêu cầu hệ thống cấp nguồn phức tạp, giúp giảm chi phí sản xuất trong khi vẫn đảm bảo hiệu suất cần thiết.
+
+Với hiệu năng mạnh mẽ, tiêu thụ điện thấp và mật độ bóng bán dẫn cao, A14 được đánh giá sẽ là lựa chọn lý tưởng cho các thiết bị đầu cuối, các giải pháp điện toán biên (edge computing) và những ứng dụng chuyên biệt, nơi mà cân bằng giữa hiệu suất và chi phí luôn là yếu tố then chốt.
+
+Hiểu rõ nhu cầu ngày càng tăng trong lĩnh vực trung tâm dữ liệu và các ứng dụng hiệu suất cao, TSMC cũng đang lên kế hoạch ra mắt phiên bản A14 tích hợp hệ thống cấp nguồn mặt sau (SPR) vào năm 2029. Dù chưa công bố tên gọi chính thức, nhiều khả năng phiên bản này sẽ được đặt tên là A14P, nhưng theo quy ước đặt tên truyền thống của hãng. Ngoài ra, TSMC cũng dự định phát triển thêm các phiên bản khác như A14X (tối ưu hiệu suất) và A14C (tối ưu chi phí), dự kiến trình làng sau năm 2029.
+
+Một trong những lợi thế của công nghệ xử lý A14 là kiến trúc NanoFlex Pro, cho phép các nhà thiết kế chip điều chỉnh linh hoạt cấu hình bóng bán dẫn nhằm tối ưu hóa hiệu suất, công suất và diện tích (PPA) tùy theo nhu cầu cụ thể. So với kiến trúc FinFlex trước đây, vốn cho phép kết hợp các ô thiết kế từ các thư viện khác nhau trong một khối, NanoFlex Pro được kỳ vọng sẽ mang lại khả năng tùy biến cao hơn và hỗ trợ tốt hơn quá trình khám phá – tối ưu hóa thiết kế ở cấp độ bóng bán dẫn.
+
+TSMC dự kiến bắt đầu sản xuất chip với công nghệ A14 vào năm 2028, tuy nhiên, thời điểm cụ thể vẫn chưa được xác định. Dựa trên lịch trình ra mắt của các công nghệ A16 và N2P (dự kiến sản xuất hàng loạt cuối năm 2026), nhiều nguồn tin nhận định A14 có thể sẽ bước vào sản xuất trong nửa đầu năm 2028 để kịp phục vụ các ứng dụng thương mại vào nửa cuối năm.
+
+Với chuỗi nâng cấp công nghệ liên tục, TSMC hiện là đối tác sản xuất chip chiến lược của nhiều “ông lớn” trong ngành như Apple và NVIDIA, hai khách hàng chủ lực đóng góp phần lớn vào doanh thu chip cao cấp toàn cầu. Tính đến hiện tại, TSMC nắm giữ khoảng 90% thị phần chip tiên tiến trên thế giới, khẳng định vai trò không thể thay thế trong chuỗi cung ứng bán dẫn toàn cầu.

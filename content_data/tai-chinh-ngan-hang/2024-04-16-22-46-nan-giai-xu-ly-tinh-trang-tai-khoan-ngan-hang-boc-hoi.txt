@@ -1,0 +1,97 @@
+Theo chia sẻ của chuyên gia kinh tế nổi tiếng N.T.H., ông mở tài khoản tiền gửi tại một ngân hàng trong diện tái cơ cấu, với số dư 500 triệu đồng. Ngày 18/11/2023, ông ra ngân hàng rút tiền thì tài khoản chỉ còn 50.000 đồng, lập tức, ông yêu cầu ngân hàng làm rõ.
+
+Ngân hàng tra soát dữ liệu hệ thống và thấy rằng, từ 3/11 đến 17/11/2023, ghi nhận tài khoản của ông N.T.H. đã thực hiện nhiều giao dịch chuyển tiền tới nhiều tài khoản ở một số ngân hàng khác. Trong thời gian đó, đã có hai lần chủ tài khoản gửi yêu cầu cấp lại mật khẩu xác thực OTP thông qua ứng dụng Internet Banking.
+
+Theo ông N.T.H, mật khẩu mới được gửi qua số điện thoại mà ông đã đăng kí với ngân hàng. Mặc dù vậy, ông H. cho rằng mình không hề nhận được tin nhắn hay thực hiện bất kì giao dịch nào và ông cũng rất ngạc nhiên khi có người yêu cầu cấp lại mật khẩu vào số điện thoại của ông nhưng tin nhắn lại được gửi đến một điện thoại khác, không phải là điện thoại ông sở hữu và đang dùng.
+
+Trao đổi với ngân hàng trên về tình huống của khách hàng N.T.H thì VnEconomy đã nhận được trả lời như sau: theo ghi nhận trên hệ thống, trong khoảng thời gian diễn ra các giao dịch mà khách hàng nghi ngờ, chủ tài khoản đổi truy cập ứng dụng ngân hàng trên nhiều thiết bị khác nhau. Tên đăng nhập và mật khẩu truy cập không đổi, các giao dịch đều có SMS OTP gửi thành công từ ngân hàng đến đúng số điện thoại khách hàng đã đăng ký.
+
+Mặc dù khách hàng cho biết bị mất điện thoại ngày 16/10 và cấp lại SIM đổi sang điện thoại mới trong cùng ngày; tuy nhiên hệ thống thể hiện toàn bộ giao dịch từ 16/10 đến 03/11 chủ tài khoản vẫn giao dịch qua điện thoại đang sử dụng, không có giao dịch nào trên điện thoại mới. Hiện tại, hồ sơ vụ việc đã được trình báo cơ quan công an.
+
+Một vụ việc khác được phản ánh, theo đơn của bà L.T.H.V gửi Tạp chí Kinh tế Việt Nam/VnEconomy, ngày 17/1/2024, bà mở và chuyển tiền vào tài khoản tại ngân hàng S. số tiền 500 triệu đồng. Ngày 18/1/2024, bà chuyển tiếp 1,27 tỷ đồng vào tài khoản tại ngân hàng trên. Từ ngày 18/1/2024 đến 21/1/2024, bà V. không thực hiện bất kì giao dịch chuyển tiền nào trên ứng dụng ngân hàng điện tử hay Internet Banking của ngân hàng S.
+
+
+
+Ngày 22/1/2024, bà V. kiểm tra số dư tài khoản thì số tiền gần như mất sạch. Bà V. khẳng định không hề nhận được tin nhắn nào từ ngân hàng S. trong suốt thời gian sự việc xảy ra. Bà cũng cho biết không đăng kí hệ thống ngân hàng điện tử hay ứng dụng ngân hàng trên điện thoại.
+
+Sau quá trình làm việc, cả ngân hàng S. và bà V. đều thừa nhận thêm một số thông tin như sau: Bà V. nhận được cuộc gọi của người lạ xưng là công an nói rằng con gái bà V. liên quan đến chuyên án ma túy, yêu cầu bà V mở tài khoản tại ngân hàng S. và chuyển tiền vào đó.
+
+Phóng viên VnEconomy tiếp cận với một số giấy tờ liên quan hai bên cho thấy: trong số 77 giao dịch từ số điện thoại bà V (16/1 – 18/1/2024) có 4 tin nhắn gửi đi từ số điện thoại của bà và không có tin nhắn đến. Ngược lại, tài liệu ngân hàng S. lại cho thấy có 11 tin nhắn gửi thành công đến số điện thoại bà V. Cần lưu ý, giao dịch ngân hàng thành công luôn được thông báo qua tin nhắn SMS của nhà cung cấp viễn thông.
+
+Hiện tại, vụ việc đã được báo cơ quan công an và bà V.  đã khởi kiện ra tòa.
+
+Ngoài hai vụ việc khá điển hình trên, thời gian qua còn một số trường hợp khác cũng mất tiền trong tài khoản ngân hàng mà không trực tiếp thực hiện giao dịch.
+
+Một khách hàng bị “bốc hơi” trên 11 tỷ đồng, khởi kiện ra tòa nhưng phán quyết của tòa án là ngân hàng bồi thường 700 triệu đồng. Theo nội dung bản án, nguyên nhân vụ việc là do khách hàng bị lừa đảo, lỗi thuộc về khách hàng khi đã tiết lộ yếu tố bảo mật cho kẻ gian; trong khi lỗi của ngân hàng là không cảnh báo, giải thích kỹ các quy định về giao dịch ngân hàng điện tử.
+
+Thêm một vụ việc gần đây là hàng loạt khách hàng bị chiếm đoạt 338 tỷ đồng, người liên quan chính đến vụ việc này lại là giám đốc chi nhánh ngân hàng đó.
+
+Có thể thấy, hầu hết những vụ tiền “bốc hơi” trong tài khoản của khách hàng vừa qua đều có yếu tố liên quan đến tội phạm công nghệ. Trên các dòng chảy thông tin đều cho thấy các vụ mất tiền thường gắn liền các hành vi tự xưng công an thông báo cho người có tài khoản ngân hàng rằng người nhà của họ buôn bán ma túy cần phải chuyển tiền để giải quyết; hoặc xưng cán bộ thuế yêu cầu chuyển tiền vào tài khoản ngân hàng hay là nộp tiền phạt nguội cho phương tiện giao thông...
+
+Về vấn đề này, các chuyên gia công nghệ cho rằng có rất nhiều hình thức lừa đảo hiện nay trên không gian mạng và phần lớn tập trung vào giao dịch giữa cá nhân với ngân hàng.
+
+
+
+“Người dùng phải cảnh giác, không cài ứng dụng lạ, không mở các đường link lạ, phải kiểm chứng lại thông tin khi nhận được qua kênh độc lập, không chuyển tiền đến các tài khoản lạ nếu được yêu cầu. Đồng thời, phải thường xuyên cập nhật thông tin để nhận diện các thủ đoạn lừa đảo, tấn công mạng”.
+
+Chuyên giaVũ Ngọc Sơn, Ủy viên Ban chấp hành Hiệp hội An ninh mạng Quốc gia
+
+
+
+Chuyên gia  Vũ Ngọc Sơn, Ủy viên Ban chấp hành Hiệp hội An ninh mạng Quốc gia, nói: “Thực tế cũng có nhiều trường hợp người dùng bị lừa nâng cấp SIM điện thoại chuyển từ SIM thường sang eSIM và bị mất sim điện thoại. Các đội tượng lừa đảo sẽ gọi điện mạo danh nhà mạng, hướng dẫn người dùng thực hiện các thao tác từng bước, khi thực hiện theo, chúng sẽ chiếm được quyền điều khiển SIM của nạn nhân.”
+
+Ông Sơn cũng chia các hình thức lừa đảo trên không gian mạng của Việt Nam thành 5 nhóm chính màđầu tiênlà lừa đảo liên quan đến vấn đề pháp lý.
+
+Theo đó, đối tượng lừa đảo sẽ mạo danh các cơ quan chức năng gọi điện cho nạn nhân và đưa ra một tình huống liên quan đến pháp luật. Kẻ gian sẽ yêu cầu nạn nhân thực hiện theo hướng dẫn để có thể giải quyết vụ việc, trong đó có liên quan đến việc cung cấp thông tin và thậm chí là chuyển tiền.
+
+Thứ hai,lừa đảo liên quan đến các mối quan hệ xã hội. Các đối tượng lừa đảo có thể lợi dụng những tài khoản hack (chiếm đoạt) được trên mạng xã hội hoặc giả mạo người thân, bạn bè. Chúng có thể sử dụng công nghệ deepfake để giả mạo hình ảnh, giọng nói giống như thật, gọi điện cho nạn nhân và yêu cầu chuyển tiền để có thể giải quyết các vụ việc liên quan đến người thân.
+
+Thứ ba, lừa đảo liên quan đến việc làm. Đối tượng lừa đảo tạo ra những hội, nhóm trên mạng sau đó mời gọi “việc nhẹ lương cao” hay đầu tư với lãi suất lớn. Những đối tượng lừa đảo sẽ đặt ra kịch bản như người dùng cần chuyển tiền để bắt đầu tham gia hoạt động. Ban đầu, đó có thể là khoản tiền nhỏ nhưng sau đó sẽ tăng dần lên. Khi nạn nhân nhận ra có thể mình đã bị lừa thì họ đã mất những khoản tiền tương đối lớn.
+
+Thứ tư,lừa đảo đánh vào tâm lý trúng thưởng của người dân. Đối tượng lừa đảo sẽ mời nạn nhân tham gia vào những khuyến mại trúng thưởng hấp dẫn. Sau khi thông báo trúng thưởng, chúng yêu cầu nạn nhân chuyển khoản tiền và thông tin cá nhân để làm chi phí vận chuyển quà tặng.
+
+Thứ năm,lừa đảo thông qua website, phần mềm giả mạo. Đối tượng xấu gửi cho người sử dụng đường dẫn qua kênh chat hoặc sử dụng các trạm BTS (trạm phát sóng di động) giả mạo gửi tin nhắn định danh, lừa người sử dụng cài ứng dụng hoặc truy cập các website độc hại khiến điện thoại của người dùng bị chiếm quyền điều khiển. Từ đó, tin tặc có thể sử dụng điện thoại nói trên để thực hiện các lệnh chuyển tiền vào tài khoản của chúng.
+
+Từ các vụ việc nêu trên cho thấy, ngoài yếu tố người dùng phải nâng cao cảnh giác thì còn những vấn đề khác liên quan đến hoạt động kết nối, chia sẻ thông tin giữa các ngân hàng để ngăn chặn hành vi lừa đảo.
+
+Một chuyên gia pháp lý hoạt động lâu năm trong ngành ngân hàng cho biết, khi người dùng ở tài khoản chuyển đi báo với ngân hàng mình mở tài khoản thì thông thường được ngân hàng trả lời là tiền đã chuyển đi khỏi ngân hàng thì không có cách nào để dừng lại vì tiền đã nằm trong tài khoản ngân hàng khác.
+
+
+
+Phản xạ đầu tiên của người mất tiền là tìm đến ngân hàng mình mở tài khoản, sau khi nhận lại câu trả lời từ ngân hàng, họ tuyệt vọng và lựa chọn cách “kêu lên facebook”, báo công an, tìm đến cơ quan truyền thông... nhưng không phải  mọi lời khẩn cầu đó từ khách hàng đều ra kết quả là đòi được tiền.
+
+Ở những tình huống như vậy, người dùng chỉ còn biết vô vọng cầu cứu khắp nơi nhưng các địa chỉ có thể giải quyết câu chuyện của họ thì rất lơ mơ. Phản xạ đầu tiên của người mất tiền là tìm đến ngân hàng mình mở tài khoản, sau khi nhận lại câu trả lời như trên, họ tuyệt vọng và lựa chọn cách “kêu lên facebook”, báo công an, tìm đến cơ quan truyền thông...
+
+Không phải mọi lời khẩn cầu đó từ khách hàng đều ra kết quả là đòi được tiền.
+
+Thực tế hiện nay cho thấy, theo quy định luật pháp, khi khách hàng mở tài khoản tại ngân hàng, khách hàng được ngân hàng giao “chìa khóa” bảo mật nhiều lớp gồm mật khẩu đăng nhập, mã OTP thông báo qua tin nhắn SMS hoặc ứng dụng của ngân hàng đó. Nghĩa là, mọi giao dịch chuyển tiền đi, ngân hàng chỉ được phép ghi nhận, thông báo giao dịch thành công/không thành công.
+
+Đồng thời, khi tiền đã chuyển từ ngân hàng A sang tài khoản ngân hàng B thì ngân hàng A hết trách nhiệm. Việc trao đổi thông tin giữa ngân hàng A và B để phong tỏa tài khoản trong trường hợp bị lừa đảo là không được phép theo quy định của luật.
+
+Luật sư Trương Thanh Đức, trọng tài viên kiêm thành viên Hội đồng Khoa học Pháp lý Trung tâm Trọng tài Quốc tế Việt Nam (VIAC), phân tích: "Về nguyên tắc, tất cả thông tin cá nhân của người dùng tại ngân hàng sẽ được bảo mật hoàn toàn, ngân hàng không được phép tiết lộ cho bên thứ 3 theo quy định của luật. Bởi vậy, trong thực tế những vụ lừa đảo, không có thông tin của người nhận thì không thể điều tra, truy xuất được đối tượng xấu".
+
+
+
+“Quy định pháp luật cần có sự cập nhật để tăng sự ràng buộc trách nhiệm cao giữa người liên quan, từ người bị hại đến việc truy xuất thông tin cá nhân của chủ tài khoản nhận tiền lừa đảo, chiếm đoạt. Cơ chế hiện nay hoàn toàn chưa nêu bật được điều đó”.
+
+Luật sưTrương Thanh Đức,trọng tài viên kiêm thành viên Hội đồng Khoa học Pháp lý Trung tâm Trọng tài Quốc tế Việt Nam (VIAC).
+
+Luật sư Đức cho rằng khi có dấu hiệu nghi ngờ giao dịch bất hợp pháp, cần có sự tạm ngưng hoặc trì hoãn tài khoản nhận tiền để xác minh giao dịch.
+
+Tuy nhiên, một vấn đề liên quan khác là tài khoản rác. Với những tài khoản đầu nhận rõ danh tính là một vấn đề nhưng với những tài khoản thụ hưởng là “rác” thì gần như vô phương.
+
+Do đó, luật sư Đức cho rằng chế tài xử phạt tài khoản “rác” hiện nay còn chưa đủ răn đe các ngân hàng, khiến việc mở tài khoản “rác” của các ngân hàng tràn lan, gây nhiều hậu quả nghiêm trọng.
+
+Các quy định mở tài khoản là có nhưng vẫn có những lỗ hổng nhất định để kẻ xấu lợi dụng. Số lượng tài khoản ngân hàng “rác” có thể lên tới hàng triệu tài khoản.
+
+Chính vì việc mở tài khoản dễ dãi như vậy, cộng với lừa đảo có kịch bản từ trước nên khi chậm xử lý thì chỉ trong một thời gian rất ngắn, tiền từ tài khoản gốc đã được chuyển đi 5 – 7 tài khoản “rác” ở 5 – 7 ngân hàng khác nhau nên việc ngăn chặn là không thể, nếu không có một cơ chế ứng phó phối hợp xử lý khẩn cấp.
+
+Câu hỏi đặt ra ở đây là có thể nào khi khách hàng báo bị lừa tiền trong tài khoản cho ngân hàng thì khi nhận thông tin, ngân hàng kích hoạt hệ thống cảnh báo, phối hợp với ngân hàng bạn trong toàn hệ thống để ngăn lừa đảo hay không?
+
+Luật sư Trương Thanh Đức giải thích: luật phải quy định trách nhiệm nặng nề của người đề nghị để tránh rủi ro cho ngân hàng. Ví dụ: A chuyển tiền đặt cọc cho B mua nhà, nếu ngân hàng phanh lại, B không nhận được tiền thì lúc đó ngân hàng phải đền tiền. Bởi thế mà nhiều ngân hàng biết tiền lừa đảo chuyển đi/đến nhưng không thể làm gì.
+
+“Phải có một cơ chế thế nào đó để giải quyết vấn đề này, chứ không thể bỏ mặc như vậy”, luật sư Trương Thanh Đức nói. Theo ông, phải sửa luật theo hướng khi có nghi ngờ thì phải chặn, không cho dòng tiền di chuyển ở một thời gian nhất định, sau đó khi xác minh sơ bộ, kết hợp cam kết chịu trách nhiệm của người đề nghị/yêu cầu thì mới xử lý tiếp.
+
+Hiện tại, Luật Phòng chống rửa tiền có quy định nếu nghi ngờ giao dịch gian lận, ngân hàng có quyền chặn/dừng nhưng nếu ngân hàng không hành động như vậy, dẫn đến người dân mất tiền thì luật không quy định trách nhiệm của ngân hàng đến đâu.
+
+“Tôi cho rằng quy định như vậy hoặc bỏ lửng vấn đề đó trong luật pháp là chưa bảo vệ quyền lợi người dân đến cùng”, luật sư Trương Thanh Đức nhấn mạnh.

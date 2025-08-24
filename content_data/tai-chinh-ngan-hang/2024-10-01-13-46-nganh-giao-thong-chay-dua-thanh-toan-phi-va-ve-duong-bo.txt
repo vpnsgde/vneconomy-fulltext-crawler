@@ -1,0 +1,43 @@
+Ngày 30/9, Chính phủ ban hành ban hành Nghị định 119/2024/NĐ-CP quy định về thanh toán điện tử giao thông đường bộ. Cùng ngày, Hội thảo “Tương lai nào cho thanh toán điện tử trong giao thông” do Cục Đường bộ (Bộ Giao thông), Báo Giao thông, phối hợp với Vụ Thanh toán, Napas (Ngân hàng Nhà nước), Tạp chí Tạp chí điện tử Vietimes tổ chức, với sự góp mặt của nhiều chuyên gia. Hội thảo đã có những thảo luận để làm rõ những vấn đề được đề cập tại Nghị định cũng như phác thảo diện mạo thanh toán trong hệ thống giao thông đường bộ.
+
+Theo ông Nguyễn Trung Anh, Phó trưởng phòng Nghiệp vụ kỹ thuật thanh toán và Ngân hàng số, Vụ Thanh toán, Ngân hàng Nhà nước, Việt Nam đang trong thời kỳ số hóa dịch vụ toàn diện và cao độ.Ngay từ khi đại dịch Covid-19 bùng phát, Chính phủ đã thúc đẩy chuyển đổi số toàn diện và thanh toán trực tuyến, phi tiếp xúc. Điều đó đã hình thành thói quen thanh toán không dùng tiền mặt và phát triển các sản phẩm dịch vụ trên nền tảng số trong người dân.
+
+Bên cạnh đó, hành vi tiêu dùng và nhu cầu khách hàng đều đã thay đổi khi yêu cầu cao hơn với những yếu tố về an toàn, bảo mật, thanh toán tức thời, trao quyền người dùng, cá nhân hóa trải nghiệm và chi phí hợp lý.
+
+
+
+Hằng ngày giá trị giao dịch qua hệ thống thanh toán điện tử liên ngân hàng đạt bình quân hơn 820 nghìn tỷ đồng và xử lý 23-25 triệu giao dịch qua hệ thống chuyển mạch tài chính và bù trừ điện tử.
+
+Số liệu thống kê từ Ngân hàng Nhà nước cho thấy tỷ lệ thanh toán không dùng tiền mặt trong thương mại điện tử chiếm 50% và hơn 80% người dân từ 15 tuổi trở lên có tài khoản giao dịch tại ngân hàng.
+
+Ngoài ra, hiện có khoảng 85 ngân hàng sử dụng Internet Banking với 21 nghìn ATM cùng 678 nghìn POS thanh toán và có 52 Ngân hàng sử dụng Mobile Banking.
+
+Cùng với đó, mạng lưới chấp nhận thanh toán QR Code phủ khắp hầu hết các cửa hàng tiện lợi, chuỗi phân phối bán lẻ, nhà hàng, khách sạn... và đang mở rộng dần tới các cơ sở y tế, bệnh viện, trường học.
+
+Đại diện ngân hàng Nhà nước cho hay, trong thời gian tới sẽ hoàn thành khuôn khổ pháp lý, trong đó triển khai hiệu quả Nghị định 52, các thông tư quy định chi tiết, hướng dẫn Luật Các Tổ chức tín dụng. Đồng thời xây dựng, tổ chức triển khai kế hoạch thực hiện nghị định về cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng (sau khi được ban hành).
+
+Song song, ngành ngân hàng sẽ nâng cấp hệ thống thanh toán điện tử liên ngân hàng, tiếp tục hoàn thiện, phát triển hệ thống chuyển mạch tài chính và bù trừ điện tử và tăng cường tích hợp, kết nối hạ tầng, ứng dụng ngành ngân hàng với các ngành, lĩnh vực dịch vụ khác để mở rộng hệ sinh thái số; đảm bảo an ninh, an toàn bảo mật…
+
+Đặc biệt, sẽ phát triển đa dạng các sản phẩm, dịch vụ trên nền tảng số hóa; đẩy mạnh các sản phẩm, dịch vụ thanh toán trên Mobile: QR Code, mã hóa thông tin thẻ Tokenization, Mobile Payment, Contactless, Ví điện tử… Đồng thời khuyến khích hợp tác giữa ngân hàng với Fintech; phát triển thanh toán điện tử trong lĩnh vực công và phát triển thanh toán không dùng tiền mặt ở khu vực vùng sâu, vùng xa; phát triển dịch vụ thẻ, chuyển đổi thẻ từ sang thẻ chip.
+
+Theo Nghị định 119/2024/NĐ-CP quy định về thanh toán điện tử giao thông đường bộ chỉ áp dụng cho các phương tiện đi qua các trạm thu phí không dừng. Tuy nhiên, theo nhận định của các chuyên gia, việc thanh toán không dùng tiền mặt hoàn toàn có thể áp dụng rộng rãi cho các phương tiện công cộng.
+
+Ông Nguyễn Thanh Tùng, Trưởng phòng Nghiên cứu Ứng dụng Công nghệ Thanh toán NAPAS cho biết trên thế giới có hai xu hướng là thu phí giao thông theo cơ chế độc lập (closed-loop) và thu phí giao thông theo cơ chế liên thông (account - based/open-loop)
+
+Trong đó, xu hướng thu phí giao thông theo cơ chế độc lập đã được triển khai từ nhiều năm nay như mua vé bằng tiền mặt, mua vé bằng thẻ từ trên xe buýt, tại sân ga tàu điện metro. Mặc dù vậy, hiện nay tại các quốc gia khác trên thế giới đều chuyển sang thu phí giao thông theo cơ chế liên thông (account - based/open-loop). Theo thống kê của NAPAS, tại các thành phố lớn ở Hoa Kỳ như Washington, New York, Toronto, Chicago…hay tại Moscow (Nga), Paris (Pháp)… đã thực hiện thanh toán thẻ theo cơ chế liên thông hoặc sử dụng chính thẻ ngân hàng của người dân trong giao thông công cộng.
+
+
+
+Phương thức account - based là sử dụng một tài khoản, số dư tài khoản sẽ được lưu trên một máy chủ, thẻ/điện thoại chỉ là vật định danh, liên kết với một tài khoản đặt ở đằng sau.
+
+Tại Việt Nam hiện nay còn nhiều khó khăn trong phát triển thẻ vé bởi các phương tiện chưa liên thông và vẫn chưa có tiêu chuẩn thẻ vé chung. Song song đó, người dân phải mua vé bằng tiền mặt và mọi giao dịch nạp đều diễn ra tại quầy thanh toán. Cùng với đó, nhiều máy bán thẻ vé tự động hiện chưa được đấu nối công nghệ thanh toán điện tử mà chỉ áp dụng nhận tiền mặt khiến người dân gặp nhiều khó khăn để giao dịch.
+
+Để phát triển thẻ vé thông minh trong giao thông, Tổng Giám đốc NAPAS đề xuất mỗi quốc gia nên có một hệ thống thẻ vé điện tử tập trung, duy nhất, sử dụng cho tất cả các đơn vị cung cấp dịch vụ giao thông công cộng bao gồm bus, metro, ít nhất là một thành phố có sự liên thông thanh toán bằng thẻ vé. Bên cạnh đó cần hướng tới phát triển thẻ ngân hàng trong thanh toán giao thông.
+
+Trong đó, những tiêu chuẩn kỹ thuật về thẻ vé nên dựa trên tiêu chuẩn mở, không giới hạn về đơn vị cung cấp thẻ, thiết bị đầu đọc và nên được xây dựng dựa trên các tiêu chuẩn quốc tế, có thể sử dụng lại các sản phẩm thẻ, đầu đọc đã có sẵn thị trường, rút ngắn thời gian triển khai. Cùng với đó là áp dụng các công nghệ mới (Account - based Ticketing) khi xây dựng các hệ thống thẻ vé tập trung của thành phố.
+
+Với kinh nghiệm nhiều năm triển khai thanh toán giao thông với các Chính phủ toàn cầu. bà Đặng Tuyết Dung, Giám đốc Visa Việt Nam và Lào, cho rằng mục tiêu của giao thông công cộng và thanh toán bằng thẻ vé thông minh là nâng cao nhận thức của người dân thông qua nhiều chuẩn hoá như hệ thống thanh toán mở, hệ thống vé liên thông, có hệ sinh thái mở rộng. Từ đó tiếp cận nhiều đối tượng hơn cùng hướng tới mục tiêu đô thị xanh, hạn chế dùng phương tiện cá nhân và giảm lượng phát thải carbon, đồng thời tạo sức bật cho các đô thị lớn.
+
+Vì vậy, việc phát triển bền vững đô thị, hướng tới giảm thiểu khí thải carbon là một trong những thách thức với giao thông đô thị. Bên cạnh đó là cung cấp giải pháp sử dụng cho tất cả hành khách, bao gồm đối tượng yếu thế về tài chính và phát triển dân số đô thị. Tuy nhiên, chi phí cao và tình trạng vận hành kém hiệu quả của hệ thống vé truyền thống và việc quản lý phân luồng khách hàng cũng là một trong những khó khăn với giao thông đô thị.
+
+Khảo sát của VISA cho thấy có 64% người dân sẽ sử dụng dịch vụ số để lên kế hoạch, đặt chỗ và thanh toán trước khi di chuyển; 94% kỳ vọng thanh toán không tiếp xúc sẽ được triển khai trong thanh toán giao thông; 45% sẽ di chuyển nhiều hơn nếu thanh toán thuận tiện và dễ dàng.

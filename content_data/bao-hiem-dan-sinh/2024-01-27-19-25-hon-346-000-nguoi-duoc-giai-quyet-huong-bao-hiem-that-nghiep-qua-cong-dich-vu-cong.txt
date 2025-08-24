@@ -1,0 +1,27 @@
+Đây là một trong những kết quả thực hiện của Bảo hiểm xã hội Việt Nam tại Đề án 06 về phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030.
+
+Theo đó, Bảo hiểm xã hội Việt Nam đã tiếp nhận từ Cổng Dịch vụ công quốc gia để xác nhận và trả quá trình đóng bảo hiểm thất nghiệp cho 346.683 trường hợp, phục vụ giải quyết hưởng trợ cấp thất nghiệp cho người lao động.
+
+Đáng chú ý, công tác chi trả các chế độ bảo hiểm không dùng tiền mặt tiếp tục được đẩy mạnh. Đến nay, có khoảng 64% số người hưởng nhận các chế độ bảo hiểm xã hội, trợ cấp thất nghiệp qua tài khoản các nhân tại khu vực đô thị, tăng khoảng 3% so với năm 2022.
+
+Trong đó chi trả ương hưu, trợ cấp bảo hiểm xã hội hàng tháng đạt 47%; chế độ bảo hiểm xã hội một lần đạt 94% và trợ cấp thất nghiệp đạt 98%.
+
+Đối với dịch vụ công "Đăng ký tham gia đóng bảo hiểm xã hội tự nguyện”, hệ thống đã tiếp nhận và xử lý 6.268 giao dịch đăng ký, đóng bảo hiểm xã hội tự nguyện.
+
+Với dịch vụ công "Đăng ký đóng, cấp thẻ bảo hiểm y tế đối với người chỉ tham gia bảo hiểm y tế", toàn ngành đã tiếp nhận và xử lý 41.240 trường hợp đăng ký đóng, cấp thẻ bảo hiểm y tế, gia hạn thẻ bảo hiểm y tế qua dịch vụ công này.
+
+Ngoài ra, Bảo hiểm xã hội các tỉnh, thành phố đã giải quyết 532.366 hồ sơ đề nghị cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi, và 6.297 hồ sơ đề nghị giải quyết hưởng mai táng phí.
+
+Về kết nối, chia sẻ dữ liệu và sử dụng thẻ Căn cước công dân gắn chíp, ứng dụng Định danh điện tử quốc gia thay thế thẻ bảo hiểm y tế giấy, hệ thống đã xác thực trên 95,6 triệu thông tin nhân khẩu có trong cơ sở dữ liệu quốc gia về bảo hiểm, với cơ sở dữ liệu quốc gia về dân cư. Trong đó có khoảng 87,4 triệu người đang tham gia, thụ hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Đến nay, 100% cơ sở khám chữa bệnh bảo hiểm y tế đã triển khai khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp. Đã có trên 55,7 triệu lượt tra cứu thành công thông tin thẻ bảo hiểm y tế bằng căn cước công dân gắn chíp, phục vụ làm thủ tục khám chữa bệnh bảo hiểm y tế.
+
+Bên cạnh đó, Bảo hiểm xã hội Việt Nam cũng phối hợp, hỗ trợ Bộ Y tế liên thông dữ liệu khám sức khỏe lái xe, giấy chứng sinh, giấy báo tử.
+
+Hiện trên toàn quốc có 1.216 cơ sở khám chữa bệnh đã gửi dữ liệu giấy khám sức khỏe lái xe, với trên 2 triệu dữ liệu được gửi; có 1.582 cơ sở khám chữa bệnh gửi dữ liệu giấy chứng sinh, với 852.542 dữ liệu được gửi; 596 cơ sở khám chữa bệnh gửi dữ liệu giấy báo tử, với 8.575 dữ liệu được gửi.
+
+Việc liên thông giấy khám sức khỏe lái xe giúp người dân có thể đề nghị cấp lại, cấp đổi giấy phép lái xe hoàn toàn trực tuyến. Trước đây người dân buộc phải đến nơi cấp giấy phép lái xe để nộp bản giấy của giấy khám sức khỏe lái xe.
+
+Việc liên thông giấy chứng sinh, giấy báo tử cũng là đầu vào giúp người dân có thể thực hiện dịch vụ công trực tuyến toàn trình đối với 2 nhóm thủ tục hành chính liên thông: Đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi; Đăng ký khai tử - xóa đăng ký thường trú - hỗ trợ chi phí mai táng, trợ cấp mai táng.
+
+Trước đây, người dân buộc phải đến Ủy ban nhân dân xã, phường để nộp bản giấy của giấy chứng sinh, giấy báo tử khi làm thủ tục đăng ký khai sinh, đăng ký khai tử.

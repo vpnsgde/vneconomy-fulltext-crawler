@@ -1,0 +1,59 @@
+Hệ thống thẻ vé điện tử liên thông đang được kỳ vọng trở thành một bước ngoặt trong hiện đại hóa giao thông đô thị, góp phần thúc đẩy thanh toán không dùng tiền mặt và xây dựng thành phố thông minh.
+
+Tuy nhiên, để giải pháp này phát huy hiệu quả, đòi hỏi sự liên thông hạ tầng, đồng bộ dữ liệu, xây dựng chính sách giá vé linh hoạt và chuyển đổi việc làm cho hàng nghìn lao động. Đây không chỉ là bài toán công nghệ, mà còn là bài toán xã hội đòi hỏi tư duy mới và tầm nhìn dài hạn.
+
+Mới đây, tọa đàm "Giải pháp thanh toán thông minh phục vụ giao thông hiện đại” do Cổng Thông tin điện tử Chính phủ tổ chức đã cung cấp góc nhìn tổng thể, toàn diện về thực trạng và giải pháp cho hệ thống thẻ vé trong giao thông công cộng.
+
+Theo ông Đỗ Việt Hải, Phó Giám đốc Sở Xây dựng Thành phố Hà Nội, thành phố đã cơ bản hoàn thiện hệ thống chính sách để phát triển vé điện tử liên thông, trong đó có Quyết định số 3680/QĐ-UBND ngày 18/7/2024 quy định về tiêu chuẩn kỹ thuật hệ thống thu vé tự động.
+
+Bên cạnh đó, ngày 09/12/2024, thành phố tiếp tục phê duyệt chủ trương triển khai hệ thống vé điện tử liên thông đa phương thức thông qua hình thức thuê dịch vụ công nghệ thông tin, với thời hạn từ năm 2025 đến năm 2030.
+
+Dự kiến đến ngày 2/9/2025, hệ thống này sẽ được chính thức đưa vào vận hành. Đây là bước đi cụ thể hóa Đề án Giao thông thông minh đã được UBND thành phố phê duyệt tại Quyết định số 6936/QĐ-UBND.
+
+Theo Phó Giám đốc Sở Xây dựng Hà Nội, hệ thống thẻ vé điện tử không chỉ liên thông giữa các tuyến xe buýt, đường sắt đô thị mà còn hướng tới kết nối với thu phí tự động, bãi đỗ xe, và các loại hình dịch vụ công khác. Đặc biệt, trong tương lai, hệ thống này có thể mở rộng ra phạm vi toàn quốc.
+
+“Chúng tôi kỳ vọng hệ thống thẻ vé liên thông này sẽ tạo ra mạng lưới giao thông công cộng hiện đại, tiện lợi, minh bạch, văn minh và có thể tích hợp với các phương tiện thanh toán không dùng tiền mặt như thẻ ngân hàng, căn cước công dân hay ứng dụng định danh điện tử VNeID”, ông Hải nhấn mạnh.
+
+Ở góc độ doanh nghiệp hạ tầng thanh toán, ông Nguyễn Hoàng Long, Phó Tổng Giám đốc Công ty Cổ phần Thanh toán quốc gia Việt Nam (NAPAS), cho biết từ năm 2021, NAPAS đã phối hợp với VinBus tại Hà Nội thí điểm thanh toán bằng thẻ ngân hàng.
+
+Đến nay, mô hình này được mở rộng ra bãi đỗ xe tại các cảng hàng không và mới nhất là tuyến Metro số 1 tại Thành phố Hồ Chí Minh, nơi hành khách có thể sử dụng thẻ nội địa NAPAS, thẻ quốc tế Visa, MasterCard để thanh toán trực tiếp.
+
+“Chúng tôi đã hoàn thiện hạ tầng kỹ thuật, nghiệp vụ và sản phẩm để sẵn sàng kết nối hệ thống vé soát vé tự động với hệ thống thanh toán ngân hàng. Nếu ngành giao thông ban hành chủ trương liên thông, chúng tôi có thể triển khai ngay”, ông Long khẳng định.
+
+Việc này không chỉ tạo thuận tiện cho người dân, mà còn là động lực để phát triển thanh toán không dùng tiền mặt trong lĩnh vực giao thông, một trong những lĩnh vực tiếp xúc với hàng triệu người mỗi ngày.
+
+Mặc dù vậy, một trong những rào cản lớn hiện nay là sự thiếu liên thông giữa các tuyến vận tải công cộng, đặc biệt là giữa các tuyến đường sắt đô thị.
+
+Theo ông Khuất Việt Hùng, Chủ tịch Hội đồng quản trị Metro Hà Nội, hiện Hà Nội và Thành phố Hồ Chí Minh đều đã áp dụng hệ thống thu soát vé tự động. Các hệ thống này vận hành ổn định nếu hoạt động độc lập từng tuyến, với ưu điểm lớn là tốc độ xử lý nhanh, đặc biệt trong giờ cao điểm.
+
+Tuy nhiên, tại Hà Nội, thẻ vé của hai tuyến đường sắt đô thị chưa liên thông, gây bất tiện cho người dân. “Người dân không có vé tháng buộc phải mua vé lượt trực tiếp tại nhà gam một thao tác bất tiện và không phù hợp với xu thế số hóa”, ông Hùng chia sẻ.
+
+Ông Hùng bày tỏ mong muốn dữ liệu giữa các tuyến metro, xe buýt và các hình thức vận tải công cộng khác sẽ sớm được đồng bộ, để hành khách có thể sử dụng một phương tiện thanh toán duy nhất.
+
+Được biết, hiện Cục Cảnh sát C06, Bộ Công an là đơn vị chủ lực phối hợp với Hà Nội, TP.HCM, Bộ xây dựng, Bộ Tài chính thực hiện phương án sử dụng VNeID để mua vé.
+
+Đối với 2 tuyến metro của Hà Nội, tuyến 2A đã hết hạn bảo hành nên Bộ Công an có thể cùng phối hợp triển khai. Tuy nhiên, tuyến 3.1 vẫn đang trong thời gian bảo hành, cần đảm bảo yêu cầu kỹ thuật của hợp đồng bảo hành nên chưa thể triển khai đồng bộ.
+
+Ông Đỗ Việt Hải, Phó Giám đốc Sở Xây dựng Hà Nội, khẳng định ngay từ những ngày đầu, cơ quan chức năng đã xác định mục tiêu hàng đầu là hệ thống thẻ vé liên thông đó phải thuần Việt và người Việt phải làm chủ hệ thống thẻ vé liên thông này.
+
+Theo đại diện của Sở Xây dựng Hà Nội, các tiêu chuẩn kỹ thuật hiện đã không còn là khúc mắc lớn khi đã được NAPAS hỗ trợ triển khai tiêu chuẩn VCCS (Bộ tiêu chuẩn thẻ chip cho thanh toán nội địa ở Việt Nam). Ông khẳng định trong khung kỹ thuật hiện tại, việc tích hợp với CCCD hoặc VNeID là hoàn toàn khả thi.
+
+Bên cạnh vấn đề về hạ tầng, tiêu chuẩn công nghệ, theo ông Đỗ Việt Hải, rào cản quan trọng là thói quen sử dụng dịch vụ công của người dân, đặc biệt là người cao tuổi, nhóm ít có khả năng tiếp cận công nghệ mới. Việc thay đổi hành vi tiêu dùng đòi hỏi thời gian, truyền thông hiệu quả và hỗ trợ chuyển đổi thói quen.
+
+Song hành, là vấn đề tái cấu trúc nguồn lực lao động. Bởi theo số liệu thống kê, Hà Nội hiện có khoảng 2.000 xe buýt, mỗi xe có từ 1 đến 2 nhân viên phục vụ bán vé. Nếu hệ thống vé điện tử được triển khai đại trà, khoảng 4.000 lao động sẽ không còn công việc cũ.
+
+“Bài toán đặt ra là tổ chức lại lao động, đào tạo lại và chuyển đổi việc làm cho lực lượng này. Đây là một phần không thể tách rời của chiến lược số hóa dịch vụ công”, ông Hải cho biết.
+
+Từ góc nhìn vĩ mô, ông Hải cho rằng: “Nguồn tài nguyên thiên nhiên ngày càng cạn kiệt, trong khi tài nguyên số lại ngày càng phong phú, tích lũy và sinh lời. Câu hỏi đặt ra là chúng ta sẽ sử dụng nguồn tài nguyên số đó như thế nào cho hiệu quả?”
+
+Với hệ thống thẻ vé điện tử liên thông, không chỉ có dữ liệu di chuyển được ghi nhận và xử lý mà còn tạo ra cơ sở dữ liệu lớn để hoạch định chính sách giao thông, quy hoạch đô thị và thậm chí điều chỉnh hành vi xã hội. Dữ liệu này, nếu được sử dụng đúng cách, sẽ trở thành “mỏ vàng” cho sự phát triển bền vững, thay vì chỉ là công cụ quản lý hành chính đơn thuần.
+
+Từ thử nghiệm tại một vài tuyến xe buýt và metro, Hà Nội đang hướng tới triển khai đồng bộ trên toàn địa bàn. Chính sách hiện hành tập trung vào ba nguyên tắc cốt lõi: văn minh – thuận tiện – minh bạch. Hệ thống thẻ vé thông minh không chỉ là công cụ thanh toán, mà còn là một phần trong kiến trúc thành phố thông minh – nơi dữ liệu, con người và công nghệ hội tụ để tạo ra giá trị mới cho đô thị.
+
+Bài học từ Nhật Bản cho thấy việc liên thông vé điện tử không thể diễn ra trong một sớm một chiều mà đòi hỏi sự kiên định và phối hợp đồng bộ giữa các bên. Ông Satoru Horiuchi, Tổng Giám đốc Tokyo Metro Việt Nam, chia sẻ rằng các tuyến đường sắt tại Nhật Bản cũng từng hoạt động tách biệt.
+
+Kể từ năm 2000, quốc gia này bắt đầu quá trình đồng bộ hóa hệ thống thẻ trả trước, và đến năm 2013, các loại thẻ IC như Suica, Pasmo đã được sử dụng rộng rãi trên toàn quốc – không chỉ trong giao thông công cộng mà còn trong các hoạt động mua sắm và đời sống thường nhật.
+
+Theo ông Horiuchi, để đạt được sự tích hợp này, Nhật Bản đã thành lập các nhóm chuyên trách như “cửa sổ Passnet” hay “tổ nghiên cứu Pasmo” nhằm xây dựng thống nhất về tiêu chuẩn kỹ thuật và phương thức triển khai.
+
+Từ thực tiễn đó, ông đề xuất Việt Nam nên thành lập một cơ quan điều phối có đủ thẩm quyền để dẫn dắt quá trình chuẩn hóa, thiết lập các quy định chung về kỹ thuật, chính sách và chia sẻ dữ liệu giữa các đơn vị liên quan.

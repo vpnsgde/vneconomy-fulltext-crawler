@@ -1,0 +1,47 @@
+Cùng dự hội nghị có Thứ trưởng Bộ Công an Nguyễn Văn Long, Tổ phó Thường trực và các thành viên Tổ công tác triển khai Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 của Chính phủ (Đề án 06).
+
+Theo Đại tá Vũ Văn Tấn, Phó Cục trưởng Cục Cảnh sát Quản lý hành chính về trật tự xã hội (Bộ Công an), Thư ký Tổ Công tác triển khai Đề án 06, trong tháng 9/2024, đã hoàn thành 2 dịch vụ công tích hợp lên cổng dịch vụ công quốc gia, gồm: Thủ tục điều chỉnh thông tin về cư trú trong Cơ sở dữ liệu về cư trú và Nhóm thủ tục kiểm tra, xét duyệt nhân sự, cấp phép nhập cảnh cho người nước ngoài, người Việt Nam định cư ở nước ngoài nhập cảnh vào Việt Nam (tăng 2 dịch vụ).
+
+Đến nay, đã có 45/76 dịch vụ công thiết yếu trên cổng dịch vụ công quốc gia, trong đó có 5 dịch vụ công thiết yếu tỷ lệ trực tuyến tăng so với tháng trước, gồm: Liên thông đăng ký khai sinh (79,7%, tăng 5,3%); Cấp hộ chiếu phổ thông trong nước tại Trung ương (77,1%, tăng 41,2%); Đăng ký tạm trú (36,7%, tăng 19,2%); Đăng ký biến động về sử dụng đất, tài sản gắn liền với đất (39,6%, tăng 6%); Đăng ký khai tử (80%, tăng 0,1%).
+
+Về 2 dịch vụ công liên thông, đã có 51/63 địa phương hoàn thành kết nối hệ thống thông tin giải quyết thủ tục hành chính với phần mềm dịch vụ công liên thông (tăng 15 địa phương); 10 địa phương đã hoàn thành thử nghiệm; còn Lào Cai, Quảng Ninh chưa thực hiện kết nối thử nghiệm.
+
+Về phát triển kinh tế, xã hội, có 78.588 doanh nghiệp, hộ kinh doanh đăng ký sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền (tăng 3.159 doanh nghiệp, hộ kinh doanh), số lượng hóa đơn điện tử khởi tạo từ máy tính tiền là 729,9 triệu hóa đơn (tăng 81,8 triệu hóa đơn). Có 4,5 triệu hồ sơ khách hàng ngân hàng đã được thu thập, đối chiếu thông tin sinh trắc học với CCCD gắn chip thông qua thiết bị tại quầy của 47 tổ chức tín dụng; 22 tổ chức tín dụng và 13 trung gian thanh toán đang triển khai ứng dụng VNeID để đối chiếu, xác thực thông tin khách hàng, giao dịch thanh toán.
+
+Từ ngày 1/7/2024 đến nay, toàn quốc đã cấp 4,3 triệu thẻ Căn cước phát triển công dân số, trong đó 1,7 triệu công dân dưới 6 tuổi; 1,5 triệu công dân từ 6 đến 14 tuổi; 1,1 triệu công dân từ đủ 14 tuổi trở lên. Thực hiện thu mẫu ADN đưa vào ngân hàng GEN phục vụ xác định danh tính hài cốt liệt sỹ đang triển khai tại 8 tỉnh, thành phố (bằng nguồn kinh phí xã hội hóa) với tổng số 231 trường hợp.
+
+Trước hậu quả của mưa bão, Cục Cảnh sát Quản lý hành chính về trật tự xã hội (Bộ Công an) đã phối hợp với Mặt trận Tổ quốc Việt Nam, các ngân hàng triển khai giải pháp “chung tay hỗ trợ đồng bào bị ảnh hưởng bởi lũ lụt trên VNeID”. Đến nay, người dân ủng hộ qua tài khoản tại Mbbank (1,2 tỷ đồng); Vietcombank (80 tỷ đồng); BIDV (17 tỷ đồng)…
+
+Triển khai tích hợp gần 15 triệu thông tin công dân lên Sổ sức khỏe điện tử trên VNeID. Có gần 10 nghìn cơ sở y tế, cơ sở khám chữa bệnh tuyến xã đồng bộ dữ liệu lên hệ thống của Bảo hiểm xã hội Việt Nam; 12.580/12.975 cơ sở khám, chữa bệnh bảo hiểm y tế gửi dữ liệu theo chuẩn định dạng, đạt tỷ lệ trên 97%. Đặc biệt, đối với Hà Nội đã tạo lập được sổ sức khỏe cho 7.5 triệu người dân (với 21 trường thông tin), 2.5 triệu sổ sức khỏe điện tử cho người dân với 48 trường thông tin.
+
+Hà Nội tiếp nhận hơn 45.000 hồ sơ, Thừa Thiên Huế tiếp nhận hơn 5.000 hồ sơ cấp phiếu lý lịch tư pháp trên VNeID, chiếm hơn 70% tổng số hồ sơ yêu cầu cấp phiếu lý lịch tư pháp của 2 tỉnh. Ước tính tiết kiệm khoảng 400 tỷ đồng mỗi năm cho người dân và xã hội. Bộ Giao thông Vận tải đã phối hợp Cục Cảnh sát Quản lý hành chính về trật tự xã hội hoàn thành đối soát 35,1/36,2 triệu dữ liệu giấy phép lái xe có kết quả trùng khớp. Đồng thời, Bộ Giao thông Vận tải đã thực hiện đồng bộ 13,66 triệu hồ sơ giấy phép lái xe trên ứng dụng VNeID.
+
+Về kết nối, số hóa tạo lập dữ liệu, hiện hoàn thiện kết nối Cơ sở dữ liệu quốc gia về dân cư với Cơ sở dữ liệu quốc gia về đất đai của 461/705 đơn vị hành chính cấp huyện, 6.198/10.599 đơn vị hành chính cấp xã; 48/63 tỉnh, thành phố đã kết nối, liên thông giữa cơ quan đăng ký đất đai với cơ quan thuế để xác định nghĩa vụ tài chính về đất đai. 12 địa phương đã hoàn thành 100% số hóa dữ liệu hộ tịch với gần 15 triệu dữ liệu hộ tịch; 21 tỉnh cơ bản hoàn thành (từ 70 đến 97%) với gần 42 triệu dữ liệu.
+
+Tại phiên họp, các bộ ngành, địa phương gồm: TP.HCM, Kiên Giang; Bộ Y tế, Tư pháp, Tài chính, Thông tin và Truyền thông, Lao động thương binh và xã hội, Giao thông Vận tải, Khoa học và Công nghệ, Tài nguyên và Môi trường, Kế hoạch và Đầu tư, Giám đốc Bệnh viện Bạch Mai… đã báo cáo những phần việc, nhiệm vụ, nguyên nhân chậm, muộn cũng như tập trung đưa ra giải pháp thuộc trách nhiệm bộ, ngành, đơn vị đang thực hiện.
+
+Bộ trưởng Lương Tam Quang ghi nhận, đánh giá cao những kết quả của các bộ ngành, địa phương, thành viên Tổ Công tác Đề án 06 bên cạnh những tồn tại, hạn chế, nguyên nhân dẫn đến tình trạng chậm, muộn trong thời gian qua.
+
+Để giải quyết dứt điểm những nhiệm vụ chậm tiến độ, Bộ trưởng Lương Tam Quang nhấn mạnh 4 nhóm vấn đề.
+
+Thứ nhất,tiếp tục đẩy nhanh tiến độ hoàn thành các nhiệm vụ đã chậm tiến độ của Đề án 06, trong đó có 6 nhóm nhiệm vụ cụ thể về pháp lý, dịch vụ công, hạ tầng công nghệ, dữ liệu, nguồn lực triển khai và nguồn nhân lực.
+
+Thứ hai,Bộ trưởng Lương Tam Quang lưu ý đó chính là việc triển khai sổ sức khỏe điện tử trên VNeID vào 20/9/2024 và cấp phiếu lý lịch tư pháp trên VNeID trên toàn quốc từ 1/10/2024 đến 30/6/2025.
+
+Bộ trưởng Lương Tam Quang nhấn mạnh, đây là hai nhiệm vụ rất quan trọng để người dân được thụ hưởng ngay các tiện ích thiết thực nhất, sát với cuộc sống hàng ngày mà Đề án 06 mang lại. Bộ Công an sẽ chủ động phối hợp Bộ Y tế, Bộ Tư pháp đảm bảo các điều kiện triển khai cấp phiếu lý lịch tư pháp trên ứng dụng VNeID và Sổ sức khỏe điện tử, phấn đấu báo cáo Thủ tướng triển khai từ 20/9/2024.
+
+Bộ Y tế khẩn trương ban hành văn bản hướng dẫn và tổ chức tập huấn cho các cơ sở y tế và người dân sử dụng thông tin, liên thông dữ liệu có trong Sổ sức khỏe điện tử, Giấy chuyển tuyến, Giấy hẹn khám trên VNeID trong khám chữa bệnh phục vụ nhân dân triển khai từ ngày 20/9/2024.
+
+Hướng dẫn các cơ sở khám bệnh, chữa bệnh trên toàn quốc thực hiện việc cấp giấy chứng sinh điện tử, giấy báo tử điện tử; kết nối, chia sẻ với Phần mềm dịch vụ công liên thông; Khẩn trương ban hành tiêu chuẩn kỹ thuật về việc liên thông dữ liệu giữa các cơ sở khám chữa bệnh khắc phục tình trạng dữ liệu cát cứ, manh mún như hiện nay; Chủ trì phối hợp với Bộ Công an, Bảo hiểm xã hội Việt Nam triển khai thí điểm tại Bệnh viện Bạch Mai các mô hình của Đề án 06 và phải xây dựng được các mô hình điểm về chuyển đổi số cho các bệnh viện trên toàn quốc.
+
+Bộ Thông tin và Truyền thông nghiên cứu, đề nghị các doanh nghiệp cung cấp chữ ký số công cộng có chế độ ưu đãi, miễn phí cấp chữ ký số cho các cơ sở y tế, cán bộ, nhân viên y tế và người bệnh đến khám bệnh tại các cơ sở y tế công lập và ngoài công lập.
+
+Bảo hiểm xã hội đảm bảo hạ tầng triển khai Sổ sức khỏe điện tử, giấy chuyển tuyến, giấy hẹn khám lại thực hiện liên thông, hướng dẫn kỹ thuật các cơ sở y tế để liên thông dữ liệu sổ sức khỏe điện tử, giấy chuyển tuyến, giấy hẹn khám lại.
+
+Bộ Tài chính phối hợp Bộ Y tế rà soát, hướng dẫn về cơ chế tự chủ cho các Bệnh viện và cơ chế đặc thù miễn, giảm phí khai thác, sử dụng thông tin trong cơ sở dữ liệu quốc gia về dân cư, định danh và xác thực điện tử, triển khai từ 20/9/2024.
+
+Bộ Tư pháp khẩn trương hoàn thành Quy trình nghiệp vụ cấp Phiếu lý lịch tư pháp qua ứng dụng VNeID, phối hợp với Bộ Công an hướng dẫn đôn đốc, kiểm tra việc triển khai để kịp thời giải quyết khó khăn, vướng mắc theo chỉ đạo của Thủ tướng Chính phủ; thực hiện làm sạch dữ liệu trong Cơ sở dữ liệu lý lịch tư pháp, hoàn thành trước 20/9/2024; phối hợp với Bộ Công an, Tòa án, Viện Kiểm sát và các đơn vị liên quan đồng bộ dữ liệu về án tích, các bản án phục vụ cấp phiếu lý lịch tư pháp, hoàn thành trước 30/12/2024.
+
+Thứ ba,hoàn thành các nhiệm vụ triển khai Nghị định số 70 của Chính phủ hướng dẫn thi hành Luật Căn cước; Bộ Lao động, Thương binh và Xã hội phối hợp Bộ Quốc phòng kiện toàn Ban chỉ đạo quốc gia về tìm kiếm, quy tập và xác định danh tính hài cốt liệt sĩ; Bộ Y tế khẩn trương hoàn thành các nhiệm vụ theo quy định của Luật Căn cước.
+
+Thứ tư,triển khai các nhiệm vụ xây dựng Trung tâm dữ liệu quốc gia, Bộ trưởng Lương Tam Quang đề nghị các bộ, ngành khẩn trương xây dựng kế hoạch thực hiện hiệu quả Chỉ thị số 32 của Thủ tướng Chính phủ.

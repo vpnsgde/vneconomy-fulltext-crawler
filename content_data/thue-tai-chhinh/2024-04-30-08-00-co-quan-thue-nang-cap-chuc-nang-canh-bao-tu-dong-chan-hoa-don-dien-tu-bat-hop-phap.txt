@@ -1,0 +1,41 @@
+Tổng cục Thuế cho biết thời gian qua, song song với việc triển khai các ứng dụng thuế điện tử, để góp phần tích hợp cơ sở dữ liệu, phục vụ công tác quản lý thuế cũng như quản lý nhà nước nói chung, ngành thuế đẩy mạnh và triển khai ứng dụng hóa đơn điện tử.
+
+Đây là một trong những thông tin quản lý quan trọng cần phải được hệ thống hóa chuẩn mực, cập nhật với thông lệ quốc tế để phục vụ tốt hơn cho việc khai thác và sử dụng thông tin.
+
+Với nền tảng công nghệ thông tin hiện đại, hệ thống hóa đơn điện tử lưu vết toàn bộ dữ liệu của người mua, người bán. Dữ liệu hóa đơn điện tử cũng đã tích hợp với hệ thống các dữ liệu của cơ quan quản lý thuế nói riêng và cơ quan quản lý nhà nước khác nói chung.
+
+
+
+"Trường hợp người mua, người bán có các hành vi vi phạm về hóa đơn để kê khai khấu trừ thuế giá trị gia tăng đầu vào, giảm số thuế giá trị gia tăng phải nộp, tăng số thuế giá trị gia tăng được hoàn, hợp thức hóa cho hàng hóa mua trôi nổi, buôn lậu, lập khống chi phí phát sinh, làm giảm thu nhập chịu thuế dẫn đến giảm số thuế thu nhập doanh nghiệp phải nộp… sẽ bị phát hiện và xử lý theo quy định".
+
+Để ngày càng minh bạch hóa các quy trình quản lý thuế, tăng cường điện tử hóa các biện pháp rà soát, quản lý rủi ro trong việc sử dụng hóa đơn điện tử thông qua phân tích, tổng hợp dữ liệu mua vào/bán ra trên hóa đơn, từ đó cảnh báo danh sách người nộp thuế thuộc diện cần rà soát, Tổng cục Thuế nghiên cứu, xây dựng và triển khai nâng cấp "chức năng cảnh báo sử dụng hóa đơn điện tử trên ứng dụng quản lý hóa đơn điện tử" phiên bản 3.1.0, đáp ứng yêu cầu quản lý thuế, ngăn chặn các hành vi vi phạm trong sử dụng hóa đơn điện tử.
+
+Tổng cục Thuế cho biết: "Chức năng cảnh báo sử dụng hóa đơn điện tử trên ứng dụng quản lý hóa đơn điện tử" áp dụng đối với người nộp thuế là các tổ chức, doanh nghiệp và hộ kinh doanh, cá nhân kinh doanh có đăng ký sử dụng hóa đơn điện tử.
+
+Theo đó, từ ngày 15/4/2024, ứng dụng sẽ tự động gửi thông báo hàng ngày cho người nộp thuế là người bán thuộc danh sách cảnh báo sử dụng hóa đơn điện tử và có phát sinh hóa đơn điện tử trong ngày cảnh báo.
+
+"Dự kiến từ ngày 15/5/2024, ứng dụng sẽ tự động gửi thông báo hàng ngày cho người nộp thuế là người mua trên hóa đơn điện tử phát sinh trong ngày của người bán nhận cảnh báo", Tổng cục Thuế nêu rõ.
+
+Cũng theo Tổng cục Thuế, trước kia khi sử dụng hóa đơn giấy, nhiều người nộp thuế cố tình không tuân thủ đã có những hành vi vi phạm về hóa đơn song phải qua thanh tra kiểm tra thuế thì hành vi vi phạm mới bị phát hiện và việc phát hiện vi phạm còn gặp nhiều khó khăn, mang tính thủ công.
+
+Từ khi ngành thuế triển khai hệ thống hóa đơn điện tử đến nay, Tổng cục Thuế cho biết thông qua các quy trình nghiệp vụ quản lý thuế, cơ quan thuế thực hiện phân tích, đối chiếu, đánh giá đối với từng hóa đơn điện tử mà người nộp thuế gửi vào hệ thống dữ liệu hóa đơn điện tử.
+
+Từ đó, dễ dàng phát hiện việc sử dụng không hợp pháp hóa đơn cũng như sử dụng hóa đơn không hợp pháp và xử lý kịp thời các sai phạm, đảm bảo tính nghiêm minh của pháp luật được thực thi, tạo môi trường kinh doanh lành mạnh, công bằng.
+
+Theo số liệu từ Tổng cục Thuế, lũy kế từ khi triển khai đến hết quý 1/2024, số lượng hóa đơn điện tử cơ quan thuế tiếp nhận và xử lý ước đạt 7,12 tỷ hóa đơn, trong đó 2 tỷ hóa đơn có mã và hơn 5,12 tỷ hóa đơn không mã.
+
+Về kết quả triển khai hóa đơn điện tử khởi tạo từ máy tính tiền, tính đến cuối quý 1/2024, có 50.303 cơ sở kinh doanh đã đăng ký sử dụng hóa đơn điện tử khởi tạo từ máy tính tiền, số lượng hóa đơn điện tử khởi tạo từ máy tính tiền là hơn 252,8 triệu hóa đơn.
+
+Từ ngày 15/5/2023, Tổng cục Thuế triển khai ứng dụng phân tích rủi ro theo bộ chỉ số tiêu chí đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn.
+
+Tính đến cuối năm 2023, cơ quan thuế đã chuyển hình thức sử dụng hóa đơn từ không mã sang có mã đối với 618 doanh nghiệp, đưa 4.800 doanh nghiệp vào danh sách cần kiểm tra công tác quản lý và sử dụng hóa đơn.
+
+Cơ quan quản lý thuế cho rằng, với phạm vi quản lý ngày càng rộng, số lượng người nộp thuế quản lý ngày càng nhiều, trong khi các hoạt động kinh tế diễn ra ngày càng đa dạng và phức tạp thì những vấn đề lợi dụng sự thông thoáng trong quy định thành lập doanh nghiệp, mua bán hóa đơn bất hợp pháp, thậm chí công khai rao bán trên mạng Internet, làm giả hồ sơ, chứng từ để kê khai, quyết toán thuế, thậm chí không kê khai, nộp thuế… đã và đang diễn biến ngày càng tinh vi và khó lường.
+
+Do đó, ngành thuế sẽ tiếp tục đẩy mạnh chuyển đổi số, nâng cấp các ứng dụng công nghệ thông tin nhằm hỗ trợ công tác quản lý thuế theo hướng từ thủ công sang tự động, ngành thuế hy vọng sẽ góp phần xây dựng một môi trường kinh doanh lành mạnh, minh bạch, bình đẳng.
+
+
+
+Trong thời gian tới, ngành thuế sẽ tiếp tục triển khai thực hiện đồng bộ các giải pháp quản lý thu. Trong đó, tập trung đẩy mạnh chuyển đổi số như: áp dụng phân tích dữ liệu lớn (big data) và trí tuệ nhân tạo (AI) phục vụ quản lý thuế, quản lý hóa đơn, góp phần kiểm soát, phát hiện nhanh người nộp thuế có vi phạm về hóa đơn.
+
+Đồng thời, đẩy mạnh chuyển đổi số trong công tác quản lý nhà nước đối với hoạt động thương mại điện tử, hoạt động kinh doanh trên nền tảng số, kinh doanh xuyên biên giới; tiếp tục hoàn thiện xây dựng cơ sở dữ liệu phục vụ việc triển khai các chương trình hỗ trợ người nộp thuế; nghiên cứu và thực hiện cung cấp thông tin tự động như: trí tuệ nhân tạo, chatbot...

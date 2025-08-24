@@ -1,0 +1,129 @@
+Những trục trặc trong việc áp dụng phương pháp thặng dư ở Việt Nam có thể đến từ 3 khâu chính.
+
+Một là trục trặc trong khâu xây dựng quy định hướng dẫn.
+
+Hai là trục trặc trong khâu xây dựng hạ tầng thông tin, cơ sở dữ liệu giá
+
+Ba là trục trặc ở khâu thực thi.
+
+Trong đó, những trục trặc trong khâu xây dựng văn bản pháp lý hướng dẫn phương pháp thặng dư cần rất thận trọng, vì có thể dẫn tới những hậu quả khó lường cho nền kinh tế.
+
+Tại Việt Nam, trong suốt thời gian qua và trong những năm gần đây, việc xác định giá trị đất đai là hoạt động phổ biến và quan trọng chiếm tỷ lệ lớn nhất, là tài sản thường xuyên nhất trong các hoạt động định giá.
+
+Thông qua hoạt động định giá đất (mà chính xác hơn là giá trị quyền sử dụng đất), nguồn lực đất đai được phân bổ hiệu quả hơn thông qua cơ chế giá.
+
+
+
+Những bất cập tiềm ẩn trong phương pháp định giá trên cơ sở giá trị thị trường sẽ dẫn tới những bất cập hiện hữu trong việc phân bổ nguồn tài nguyên này. Thực tế hiện nay, phương pháp thặng dư (residual method) thường được sử dụng để định giá lô đất trống hay các bất động sản có tiềm năng phát triển.
+
+Những tranh luận trong thời gian gần đây về phương pháp định giá đất, trong đó nổi bật là đề xuất bỏ phương pháp thặng dư trong định giá đất và những thay đổi trong dự thảo Thông tư sửa đổi, bổ sung một số điều Thông tư số 36/2014/TT-BTNMT ngày 30/6/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường (sau đây gọi tắt là Thông tư 36) vừa qua cho thấy rất nhiều vấn đề bất cập liên quan đến việc ban hành quy định về phương pháp thặng dư cần phải thảo luận kỹ.
+
+Trong số các phương pháp định giá đất hiện nay ở Việt Nam, phương pháp thặng dư là phương pháp được sử dụng rất phổ biến nhưng cũng là phương pháp gây ra nhiều hiểu lầm nhất.
+
+Được “nhập khẩu” vào Việt Nam, phương pháp thặng dư là cách dịch từ nguyên gốc “residual method” (đôi khi là residual valuation method).
+
+Cách dùng từ “thặng dư” khiến rất nhiều người hành nghề và cả những nhà nghiên cứu hiểu theo nghĩa khác mang hơi hướng kinh tế chính trị Marx-Lenin trong khi ý nghĩa nguyên gốc không phải như vậy.
+
+Có thể thấy, nhiều ý kiến cho rằng kết quả của phương pháp thặng dư là địa tô chênh lệch, trong khi địa tô (rent rate) chênh lệch trong học thuyết của Karl Marx gần như không có liên hệ gì với kết quả của phương pháp thặng dư.
+
+Thuật ngữ “giá trị thặng dư” (surplus value) trong học thuyết của Karl Marx khác với “giá trị thặng dư” (residual value)  – giá trị đất trong phương pháp thặng dư mà bài viết chỉ ra dưới đây.
+
+Ở một số kênh thông tin thu thập được cho thấy, nhiều quan điểm nhầm lẫn phương pháp thặng dư với việc tính NPV (giá trị hiện tại ròng) của dự án để ra quyết định đầu tư, thể hiện qua đề xuất bỏ phương pháp thặng dư vì cho rằng đây là phương pháp phục vụ ra quyết định đầu tư.
+
+Bên cạnh đó, còn một quan điểm nữa thường gặp, kể cả với nhà làm luật, người làm công tác định giá (gồm thẩm định viên và những người có chứng chỉ định giá đất, tạm gọi là định giá viên) và nhiều giảng viên giảng dạy thẩm định giá thường cho rằng phương pháp thặng dư là một trong số phương pháp theo cách thu nhập; trong đó, tài sản được định giá (ở đây là đất) tạo ra thu nhập “thặng dư” (theo hàm ý lợi nhuận) cho chủ sở hữu và định giá viên sẽ chiết khấu “phần thặng dư” đó về hiện tại để tính giá trị lô đất.
+
+Điều này dẫn tới nhầm lẫn với phương pháp dòng tiền chiết khấu vì phương pháp dòng tiền chiết khấu cũng chiết khấu phần thu nhập thuần tạo ra từ đất về hiện tại.
+
+Nếu dịch đúng ý nghĩa và bản chất của phương pháp, “residual” trong từ “residual method” là “phần còn lại” và “residual method” là “phương pháp phần còn lại” hay “phương pháp phần dư”.
+
+
+
+Việc sử dụng cách dịch “thặng dư” dẫn đến những hiều lầm trong một bộ phận người hành nghề và nhà làm luật như đã đề cập ở trên, trong đó thường thấy là sự liên tưởng sang thuật ngữ “thặng dư” trong kinh tế học chính trị.
+
+Theo RICS 2019 (Royal Institution of Chartered Surveyors, tức Viện Khảo sát công chứng Hoàng Gia Anh), phương pháp phần dư (xin sử dụng cách dịch này đối với phương pháp thặng dư theo quốc tế) là phương pháp định giá (và được sử dụng cả trong thẩm định giá) bất động sản có tiềm năng phát triển bằng cách trừ các chi phí phát triển và lợi nhuận phát triển từ số tiền dự kiến thu được. Phần còn lại hay phần dư (residual value) chính là giá trị đất đai.
+
+Bản chất của phương pháp này rất đơn giản là bài toán tìm nghiệm khi biết tất cả các tham số, do vậy được sử dụng để tìm giá trị còn lại của bất kỳ biến đầu vào nào (trong trường hợp này là giá đất) khi các đầu vào khác được biết trước.
+
+Nếu lợi nhuận nhà phát triển (ở Việt Nam sử dụng tên gọi lợi nhuận nhà đầu tư) là biết trước, phần còn lại (residual value) sẽ là giá trị của đất và ngược lại. Do vậy, không có liên hệ gì giữa giá trị thặng dư (residual value) trong phương pháp thặng dư với giá trị thặng dư (surplus value) và địa tô chênh lệch trong học thuyết của Karl Marx.
+
+Trên thế giới, phương pháp phần dư được áp dụng theo 2 cách: phương pháp phần dư cơ bản (basic residual valuation) hoặc phương pháp phần dư sử dụng kỹ thuật chiết khấu dòng tiền (DCF). Sự khác biệt giữa các phương pháp có liên quan tới các giả định và độ phức tạp của dự án.
+
+Đối với phương pháp phần dư cơ bản (một số tài liệu còn gọi là phương pháp phần dư truyền thống (traditional residual valuation) hay phương pháp phần dư tĩnh (static residual valuation) không đòi hỏi chiết khấu dòng tiền về hiện tại. Mô hình của phương pháp phần dư cơ bản như sau:
+
+Giá trị đất (land value) = Giá trị phát triển gộp (Gross Development Value) – Chi phí phát triển (Development costs) – Lợi nhuận nhà phát triển (Developer’s profit)
+
+Những hạn chế của phương pháp phần dư cơ bản đến từ việc sử dụng những giả định thiếu nghiêm ngặt và phi thực tế. Tuy nhiên các giả định này luôn bị bỏ qua và hiếm khi bị đặt câu hỏi hoặc xem xét lại. Một giải pháp phảp thay thế hiệu quả hơn là phương pháp phần dư sử dụng kỹ thuật DCF.
+
+Theo PwC (2009), phương pháp phần dư sử dụng kỹ thuật DCF khắc phục được sự không rõ ràng trong tính toán lợi nhuận nhà phát triển của phương pháp truyền thống và là giải pháp thay thế mạnh mẽ hơn phương pháp phần dư truyền thống vì các yếu tố đầu vào rõ ràng hơn cả về định lượng và thời gian.
+
+Ở Việt Nam, vừa qua, Cục Quy hoạch và Phát triển tài nguyên đất được giao chủ trì xây dựng dự thảo Thông tư của Bộ trưởng Bộ Tài nguyên và Môi trường sửa đổi, bổ sung Thông tư số 36/2014/TT-BTNMT ngày 30/6/2014 của Bộ Tài nguyên và Môi trường quy định chi tiết phương pháp định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất (sau đây gọi là Dự thảo Thông tư).
+
+Việc ban hành Thông tư sửa đổi được kỳ vọng sẽ giúp tháo gỡ các khó khăn, vướng mắc trong quá trình thực hiện công tác định giá đất. Tuy nhiên, các quy định mới về phương pháp thặng dư dường như không phù hợp với cả cơ sở lý thuyết lẫn thực tiễn ở Việt Nam.
+
+Dự thảo Thông tư sửa đổi đã đưa ra 2 phương án sửa đổi bổ sung Điều 6 trong Thông tư 36/2014/TT-BTNMT hướng dẫn về phương pháp thặng dư. Cả hai phương án đều có nhiều sai sót trong hướng dẫn áp dụng phương pháp thặng dư. Nội dung kỳ này sẽ chỉ ra những điểm bất hợp lý trong phương án 1 Dự thảo.
+
+Thứ nhất,thiếu sót khi bỏ qua lợi nhuận nhà đầu tư trong phương án 1 Dự thảo
+
+Đối với phương án 1, điểm đáng chú ý và khác biệt nổi bật với quy định trước đây là ban soạn thảo bỏ quy định về chiết khấu các khoản doanh thu, chi phí thực hiện theo từng năm về giá trị hiện tại tại thời điểm định giá đất đối với các trường hợp dự án đầu tư phát triển bất động sản kéo dài nhiều năm.
+
+Điều này không có gì đáng ngạc nhiên như nhiều người nghĩ, vì phương pháp phần dư cơ bản trên thế giới cũng không yêu cầu thực hiện chiết khấu.
+
+Tuy nhiên, điểm bất cập lớn ở đây là quy định hướng dẫn không chiết khấu (theo phương pháp phần dư cơ bản) nhưng lại không trừ đi lợi nhuận nhà đầu tư (còn được gọi là lợi nhuận nhà phát triển trong các văn bản hướng dẫn của quốc tế về phương pháp này).
+
+Theo Thông tư 36, lợi nhuận nhà đầu tư được tính trong chi phí phát triển. Tuy nhiên trong phương án 1 của Dự thảo, tổng chi phí phát triển giả định của bất động sản tại thời điểm định giá được tính bằng chi phí xây dựng hạ tầng kỹ thuật theo quy hoạch chi tiết xây dựng hoặc bản vẽ tổng mặt bằng xây dựng.
+
+Theo Dự thảo, căn cứ để xác định chi phí xây dựng hạ tầng kỹ thuật theo thứ tự ưu tiên như sau:
+
+a) Suất vốn đầu tư do cơ quan nhà nước có thẩm quyền ban hành.b) Định mức, đơn giá do cơ quan nhà nước có thẩm quyền ban hành.c) Dự toán đầu tư xây dựng hạ tầng kỹ thuật do cơ quan quản lý nhà nước về xây dựng thẩm định.
+
+Có thể thấy, chi phí phát triển chỉ bao gồm chi phí xây dựng hạ tầng kỹ thuật mà không có lợi nhuận nhà đầu tư.
+
+Việc bỏ qua lợi nhuận nhà phát triển trong phương pháp thặng dư cơ bản làm sai hẳn bản chất ban đầu của kỹ thuật phần dư (residual technique) và sai so với phương pháp quốc tế.
+
+Nếu chỉ lấy doanh thu bán đất có hạ tầng trừ đi chi phí đầu tư xây dựng hạ tầng, kết quả phần còn lại (residual value) không phải là giá đất cần xác định, mà bao gồm cả giá đất và lợi nhuận nhà đầu tư.
+
+Thứhai,những nhầm lẫn về lơi nhuận nhà đầu tư trong phương pháp thặng dư và thu nhập chịu thuế tính trước
+
+Có một số ý kiến cho rằng không cần trừ đi lợi nhuận nhà đầu tư vì việc sử dụng suất vốn đầu tư để ước tính một số chi phí nằm trong tổng chi phí phát triển đã bao gồm thu nhập chịu thuế tính trước.
+
+Đây là một cách hiểu đang gây nhiều tranh cãi và thậm chí đã từng xuất hiện trong tranh luận giữa các cơ quan nhà nước. Những người ủng hộ quan điểm này cho rằng việc áp dụng suất đầu tư của Bộ Xây dựng khi xác định chi phí xây dựng trong tổng chi phí phát triển nhưng không loại bỏ khoản thu nhập chịu thuế tính trước 5,5% sẽ dẫn tới việc tính trùng 2 lần lợi nhuận trong chi phí xây dựng, vì theo Thông tư số 36, trong tổng chi phí phát triển đã có lợi nhuận của nhà đầu tư 14% chi phí xây dựng có tính đến yếu tố rủi ro kinh doanh và chi phí tư vấn.
+
+Theo Nghị định 10/2021/NĐ-CP ngày 9/2/2021 của Chính phủ về quản lý chi phí đầu tư xây dựng và Thông tư 11/2021/TT-BXD ngày 31/8/2021 của Bộ Xây dựng hướng dẫn một số nội dung xác định và quản lý chi phí đầu tư xây dựng, thu nhập chịu thuế tính trước được tính bằng tỷ lệ phần trăm (%) trên chi phí trực tiếp và chi phí gián tiếp trong dự toán chi phí xây dựng. Phần thu nhập chịu thuế tính trước trong Chi phí xây dựng bản chất làlợi nhuận của nhà thầu xây dựng(constructor’s profit) (và tương tự, thu nhập chịu thuế tính trước trong Chi phí tư vấn là lợi nhuận tạm tính của đơn vị tư vấn) không phải làlợi nhuận nhà đầu tư/nhà phát triển(nguyên bản trong phương pháp phần dư quốc tế là developer’s profit) trong phương pháp thặng dư.
+
+Bản chất rủi ro của nhà phát triển dự án (developer) khác hẳn rủi ro của nhà thầu xây dựng (constructor), do vậy lợi nhuận của nhà phát triển/nhà đầu tư khác với lợi nhuận nhà thầu xây dựng. Cần phân biệt rõ lợi nhuận của bên cung cấp hàng hóa dịch vụ cho dự án mà nhà đầu tư phải trả (what he pays) và lợi nhuận của nhà đầu tư (what he gets).
+
+Lưu ý rằng trong chi phí phát triển không chỉ có thu nhập chịu thuế tính trước của nhà thầu xây dựng (nằm trong chi phí xây dựng) mà còn có cả thu nhập chịu thuế tính trước của tổ chức tư vấn (nằm trong chi phí tư vấn). Cả hai thu nhập chịu thuế tính trước này đều không phải là lợi nhuận nhà phát triển/nhà đầu tư (developer’s profit) trong phương pháp thặng dư mà là lợi nhuận của người bán hàng hóa, dịch vụ cho nhà đầu tư để thực hiện dự án.
+
+Thứba,chưa phù hợp trong quy định ước tính doanh thu phát triển và chi phí phát triển nêu tại phương án 1 Dự thảo
+
+Phương án 1 của Dự thảo hướng dẫn tính “Tổng doanh thu phát triển giả định của bất động sản tại thời điểm định giá được tính bằngtổng giá trị các thửa đất hoặc khu đất đã được đầu tư hạ tầng kỹ thuậttheo quy hoạch chi tiết xây dựng hoặc bản vẽ tổng mặt bằng xây dựng bằngphương pháp so sánh trực tiếp, phương pháp chiết trừ”.
+
+Như đã trình bày ở trên, theo đúng tiêu chuẩn quốc tế, giá trị phát triển gộp (gross development value, viết tắt là ) (được các văn bản pháp lý của Việt Nam gọi là Tổng doanh thu phát triển) bản chất chính là tổng giá trị thị trường của bất động sản đã hoàn thành dự án phát triển (value of the completed property) và thường được đề cập như là giá trị phát triển gộp (GDV) hoặc giá trị phát triển ròng (NDV) theo RICS và IVSC.
+
+Tùy theo điều kiện thị trường, loại hình bất động sản phát triển, sự sẵn có về thông tin mà GDV có thể được xác định bằng bất kỳ phương pháp nào trong số các phương pháp vốn hóa thu nhập, phương pháp chiết khấu dòng tiền, phương pháp so sánh và phương pháp chiết trừ hoặc có thể sử dụng kết hợp đồng thời phương pháp chiết khấu dòng tiền và phương pháp so sánh trực tiếp.
+
+Không phải lúc nào cũng sử dụng phương pháp so sánh trực tiếp, đặc biệt trong trường hợp các tài sản so sánh không tương đồng, hoặc không có thông tin, hoặc độ nhiễu lớn; và tương tự, không phải lúc nào định giá viên/thẩm định viên cũng có thể sử dụng phương pháp chiết trừ.
+
+Chẳng hạn như với dự án phát triển là tòa nhà văn phòng cho thuê, trong điều kiện không có tài sản so sánh tương đồng hoặc thiếu thông tin giao dịch, nhưng lại sẵn có và phổ biến thông tin về giá thuê thì việc định giá bất động sản đã hoàn thành theo cách tiếp cận thu nhập sẽ hiệu quả hơn nhiều (có thể thấy trong ví dụ tại Phụ lục 04 kèm theo Thông tư 36).
+
+Nếu sử dụng cách tiếp cận thu nhập, giá trị của bất động sản tại thời điểm hoàn thành sẽ bằng tổng dòng tiền tương lai được chiết khấu về thời điểm dự án được hoàn thành.
+
+Một người mua tiềm năng đầy đủ hiểu biết sẽ không trả giá cho bất động sản hoàn thành cao hơn lợi ích họ có thể nhận được khi mua tài sản này. Vì vậy, giá trị phát triển gộp (GDV) thông thường được định giá bằng phương pháp dòng tiền chiết khấu và thường kết hợp thêm phương pháp so sánh khi xác định dòng tiền.
+
+Cần lưu ý rằng việc chiết khấu dòng tiền để ước tính giá trị của dự ántại thời điểm hoàn thànhkhác với việc chiết khấu dòng tiềnvề hiện tại(thời điểm định giá) và cách làm này không mâu thuẫn với quy định của phương án 1 là “Bỏ quy định về việc chiết khấu các khoản doanh thu, chi phí thực hiện theo từng nămvề giá trị hiện tại tại thời điểm định giá đất”.
+
+Để dễ hình dung, giả sử lô đất được xem xét phát triển dự án xây dựng khách sạn 3 sao, thời gian hoàn tất việc xây dựng dự án là 2 năm. GDV là giá trị của toàn bộ khách sạn tại thời điểm hoàn thành (năm thứ 2).
+
+Nếu thông tin rao bán khách sạn tương tự là có sẵn, GDV có thể xác định bằng phương pháp so sánh. Nếu không có thông tin giao dịch từ thị trường, GDV có thể được xác định bằng cách tiếp cận thu nhập, tức là ước tính mức giá mà người mua trên thị trường sẵn lòng mua, thông qua việc chiết khấu dòng tiền kỳ vọng tương lai đem lại cho người mua khách sạn về thời điểm dự án hoàn thành (năm thứ 2).
+
+Tuy nhiên cho dù lựa chọn cách tiếp cận so sánh hay thu nhập, giá trị GDV trong mô hình cơ bản vẫn phải là giá trị tại năm thứ 2 chứ không chiết khấu về hiện tại.
+
+Một bất cập khác là theo phương án 1, doanh thu phát triển chỉ giới hạn ở việc xác định giá trị của “thửa đất đã được đầu tư hạ tầng” trong khi không phải lúc nào bất động sản phát triển cũng chỉ là “thửa đất đã được đầu tư hạ tầng” mà còn có công trình xây dựng như tòa nhà văn phòng, trung tâm thương mại, khách sạn, resort, khu vui chơi giải trí, khu đô thị phức hợp căn hộ thương mại, shophouse nhà liền thổ (biệt thự, liền kề),…
+
+Bên cạnh đó, việc xác định chi phí phát triển theo Phương án 1 cũng chỉ tính tới chi phí xây dựng hạ tầng kỹ thuật là bất hợp lý. Việc tính doanh thu phát triển và chi phí phát triển như trên chỉ phù hợp với việc định giá đất đối với các dự án mua đất, làm hạ tầng rồi phân lô bán nền, hoặc làm hạ tầng khu công nghiệp rồi cho thuê đất trả tiền một lần, không có tính tổng quát áp dụng cho các trường hợp dự án phát triển khác.
+
+Tóm lại, đối với phương án 1 của Dự thảo hướng dẫn phương pháp thặng dư, việc không tính lợi nhuận nhà đầu tư và việc xác định doanh thu phát triển, chi phí phát triển đều không phù hợp. Người viết cho rằng Ban soạn thảo không nên sử dụng phương án này.
+
+Trong trường hợp sử dụng phương án 1 như phương pháp phần dư cơ bản của quốc tế (không thực hiện chiết khấu), cần bổ sung thêm lợi nhuận nhà đầu tư. Việc xác định doanh thu phát triển và chi phí phát triển cần mở rộng thay vì chỉ giới hạn đối với dự án xây dựng hạ tầng. Đồng thời bổ sung thêm cách tiếp cận thu nhập để ước tính giá trị các bất động sản đã hoàn thành tại thời điểm hoàn thành.
+
+Đón đọc bài tiếp theo:Nhầm lẫn từ một dự thảo thông tư hướng dẫn áp dụng phương pháp định giá đất.

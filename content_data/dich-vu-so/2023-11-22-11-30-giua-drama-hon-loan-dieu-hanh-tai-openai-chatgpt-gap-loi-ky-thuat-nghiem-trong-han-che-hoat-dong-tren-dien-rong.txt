@@ -1,0 +1,19 @@
+Đến sáng 22/11, nhiều người dùng cho biết, sau khi đặt câu hỏi cho ChatGPT, chatbot và đưa ra phản hồi: "Đã xảy ra lỗi. Nếu sự cố này vẫn tiếp diễn, vui lòng liên hệ với chúng tôi qua trung tâm trợ giúp", đồng thời gắn liên kết trang hỗ trợ của OpenAI.
+
+Liên tục trong những ngày qua từ 6-8/11/2023, hàng loạt sản phẩm của OpenAI, trong đó có chatbot ChatGPT, giao diện lập trình ứng dụng (API), dịch vụ tạo hình ảnh Dall-E… liên tục xảy ra sự cố kỹ thuật, gây gián đoạn hoạt động trên diện rộng.
+
+Ngày 8/11, người dùng ChatGPT gặp sự cố nhận được các thông báo lỗi "Something seems to have gone wrong" và " There was an error generating a respons". Ngoài ra, giao diện của ChatGPT còn xuất hiện cảnh báo về “nhu cầu cao bất thường”, đề nghị người dùng chờ đợi trong khi OpenAI mở rộng quy mô hệ thống.
+
+Ngày 7/11, sự cố kỹ thuật cũng đã ảnh hưởng đến API và ChatGPT, gây ra tình trạng hoạt động gián đoạn liên tục trong vài giờ. Vào ngày 6/11, người dùng dịch vụ tạo hình ảnh Dall-E của OpenAI cũng gặp phải tình trạng tỷ lệ lỗi gia tăng.
+
+Trước đó, từ đầu tháng 11 này, ChatGPT cũng không thể truy cập được. OpenAI sau đó xác nhận hệ thống của công ty bị hacker tấn công từ chối dịch vụ (DDoS). Sự cố mới nhất xảy ra trong bối cảnh OpenAI vừa sa thải CEO Sam Altman. Hơn 700 nhân viên phản đối bằng cách cùng ký vào một bức thư dọa nghỉ việc nếu mọi thứ không được làm sáng tỏ.
+
+Các nhà đầu tư hàng đầu của OpenAI như Thrive Capital, Khosla Ventures và Tiger Global Management cũng đang gây áp lực lớn lên hội đồng quản trị và yêu cầu phục chức cho Altman.
+
+Trên DownDetector, công cụ chuyên theo dõi diễn biến của các dịch vụ Internet,  hơn 3.000 báo cáo cho biết họ gặp sự cố không thể sử dụng ChatGPT. Vấn đề xuất hiện từ khoảng 5h sáng giờ và vẫn tiếp diễn, chủ yếu ở Mỹ, Ấn Độ, Nhật Bản và khu vực châu Âu.
+
+Đại diện OpenAI thông báo: “Chúng tôi đã xác định được sự cố gây ra tỷ lệ lỗi cao trong API và ChatGPT, đang nỗ lực giải quyết vấn đề này”.
+
+Theo Bloomberg, Sam Altman đã ngồi vào bàn đàm phán lần thứ hai với OpenAI. Cuộc thảo luận này diễn ra giữa Altman, Giám đốc điều hành mới được bổ nhiệm Emmett Shear và ít nhất một thành viên hội đồng quản trị là Adam D'Angelo.
+
+Vào tháng 2/2023 và 5/2023, chatbot ChatGPT cũng đã từng gặp sự cố dẫn đến dịch vụ không khả dụng, buộc phải ngừng hoạt động trên phạm vi toàn cầu.

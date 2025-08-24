@@ -1,0 +1,41 @@
+Vấn đề trên được các chuyên gia nêu lên tại hội thảo “Chia sẻ kết quả nghiên cứu giải pháp cuối vòng đời của hệ thống điện mặt trời và điện gió tại Việt Nam”, do Viện Năng lượng (Bộ Công Thương) phối hợp với Chương trình Phát triển Liên hiệp quốc (UNDP) tổ chức ngày 13/12/2021. Hội thảo đề cập hiện trạng quản lý chất thải từ điện mặt trời, điện gió ở Việt Nam và đề xuất những giải pháp tái chế cho chất thải điện tử.
+
+Theo Viện Năng lượng, điện mặt trời tại Việt Nam đang tăng trưởng theo cấp số nhân, tính đến cuối năm 2020 tổng công suất đạt 16,64 GW. Hầu hết các nhà máy điện mặt trời và hệ thống điện mặt trời mái nhà đều có tuổi đời dưới 3 năm.
+
+Theo tính toán, hiện có 28 triệu tấm pin mặt trời được lắp đặt tại các nhà máy điện; 17,5 - 23,5 triệu tấm pin trong hệ thống điện mặt trời mái nhà. Hơn 95% thành phần của các tấm pin điện mặt trời là loại tinh thể silicon (70% mono và 25% poly) và 5% là loại pin màng mỏng.
+
+Theo dự thảo Quy hoạch điện 8, công suất lắp đặt điện mặt trời sẽ tăng lên 20,1 GW vào năm 2030 và sẽ đạt 71,9 GW vào năm 2045. Nếu tính bình quân mỗi tấm pin điện mặt trời có công suất 330-400 W, thì sẽ có khoảng 50,9-62,1 triệu tấm pin mặt trời vào năm 2030 và lên đến 150 – 220 triệu tấm pin mặt trời vào năm 2045.
+
+Viện Năng lượng đưa ra dự báo đến 2050, lượng chất thải pin mặt trời tích lũy tại Việt Nam ước tính lên đến 3,11 - 3,468 triệu tấn. Viện này nêu ra giả định: Loại Pin axit sẽ chì được lắp đặt ban đầu đến năm 2035, Pin lithium-ion sẽ được lắp đặt sau năm 2035.
+
+Đề cập đến điện gió, bà Lê Hoàng Anh, Viện Năng lượng cho hay, tổng công suất điện gió tại Việt Nam cũng tăng rất nhanh, từ chỉ 30 MW trong năm 2012, đã đat đến 630 MW vào năm 2020. Trong đó, hiện có 16 nhà máy điện gió công suất từ ​​4 đến 64 MW.
+
+Dự báo tổng công suất điện gió tại Việt Nam sẽ đạt 55 - 75GW vào năm 2045, trong đó đến năm 2030 ước tính có khoảng 1.010 - 3.820 nghìn tuabin sẽ được lắp đặt; đến năm 2045 sẽ có khoảng 3.700 - 15.200 nghìn tuabin được lắp đặt.
+
+
+
+Đến thời điểm này, các nhà máy điện gió vẫn đang trong thời hạn bảo hành, vì vậy chưa phát sinh các cấu kiện hết niên hạn sử dụng từ các nhà máy. Tính toán đến năm 2050, tuabin gió hết niên hạn sử dụng sẽ vào khoảng 1.484 nghìn tấn ở kịch bản bình thường và 5.057 nghìn tấn ở kịch bản tổn thất sớm.
+
+Bà Lê Hoàng Anh, Viện Năng lượng Bộ Công Thương
+
+Ths Trương Việt Trường, Chuyên viên chính của Cục Kỹ thuật An toàn và Môi trường Công nghiệp (Bộ Công Thương) cho biết, thời gian gần đây, Bộ Công thương đã thực hiện Dự án “Đánh giá nguy cơ gây ô nhiễm môi trường và xây dựng Đề án quốc gia thiết lập hệ thống thu hồi, xử lý và tái chế tấm pin điện mặt trời thải bỏ”. Bộ Tài nguyên và Môi trường cũng thực hiện đề tài “Nghiên cứu cơ sở khoa học, thực tiễn và đề xuất giải pháp quản lý, xử lý tấm pin năng lượng mặt trời thải bỏ”.
+
+Tại Việt Nam, hiện chưa có quy định riêng về xử lý các tấm pin điện mặt trời, nhưng theo pháp luật hiện hành: Các phương tiện, thiết bị (ví dụ phương tiện giao thông, thiết bị điện, điện tử...) nếu có bất kỳ một bộ phận hoặc vật liệu cấu thành là chất thải nguy hại thì phải coi toàn bộ phương tiện hoặc thiết bị đó là chất thải nguy hại (Mục 3.2 Phụ lục 1 Thông tư 36/2015/TT-BTNMT).
+
+“Như vậy, khi xử lý các tấm pin điện đã hết hạn sử dụng, nếu không tách riêng tế bào quang điện thì cả tấm quang năng sẽ được xếp vào loại chất thải nguy hại. Nếu tách riêng ra tế bào quang điện thì chỉ có tế bào quang điện là được xếp vào nhóm chất thải nguy hại; còn các thành phần còn lại được xếp vào nhóm chất thải công nghiệp thông thường”, ông Trường chia sẻ.
+
+Theo ông Trường, hầu hết các tấm pin mặt trời có tuổi thọ khoảng 25 năm. “Dự án đầu tiên khánh thành năm 2019. Như vậy, các tấm pin đầu tiên sẽ hết hạn sử dụng vào khoảng những năm 2040, Từ nay tới năm 2040 là khoảng thời gian đủ dài để các Bộ ngành và các Bên liên quan nghiên cứu, xây dựng các giải pháp quản lý, kỹ thuật phù hợp đối với các tấm pin năng lượng mặt trời hết hạn sử dụng phải thải bỏ”, ông Trương Việt Trường nhận định.
+
+Chia sẻ kinh nghiệm trên thế giới về xử lý chất thải Pin điện mặt trời và tua bin điện gió, bà Deepalia Khetriwal  - Chuyên gia Năng lượng quốc tế cho hay, dự báo trên thế giới sẽ có 60 - 78 triệu tấn pin mặt trời cuối vòng đời sẽ phát sinh vào năm 2050 theo các kịch bản của Cơ quan Năng lượng Tái tạo Quốc tế (IRENA). Cùng với đó, sẽ có 43 triệu tấn chất thải tích lũy từ cánh quạt tuabin gió trên toàn cầu vào năm 2050.
+
+Theo bà Deepalia Khetriwal, kể từ năm 2012, EU ra chỉ thị WEEE thiết lập các điều khoản quy định về quản lý cuối vòng đời của các tấm quang điện mặt trời vào Khung quy định về Bổ sung thêm trách nhiệm của nhà sản xuất (EPR) và nhập khẩu tấm quang điện.
+
+EU đưa ra quy định tỷ lệ tái chế/tái sử dụng pin mặt trời phải đạt 85% trong tổng lượng pin mặt trời hết hạn sử dụng, các nhà sản xuất phải có trách nhiệm đảm bảo việc thu hồi và xử lý sản phẩm của họ một cách an toàn. Trong năm 2019, PV Cycle là một Tổ chức thực hiện trách nhiệm của nhà sản xuất tại châu Âu đã thu hồi và xử lý 11.514 tấn chất thải pin mặt trời.
+
+Tại Australia đã có lệnh cấm chôn lấp pin mặt trời (tại một số bang), tuy nhiên vẫn chưa có quy định cấp liên bang về vấn đề này.  Trung Quốc đã ra Các chỉ thị để thúc đẩy việc quản lý cuối vòng đời chất thải từ các mô đun quang điện.
+
+“Trong khi đó, ở Mỹ vẫn chưa đưa pin mặt trời vào diện kiểm soát chất thải nguy hại. Nhật Bản cũng chưa có quy định cụ thể về việc xử lý panel PV hết hạn sử dụng, nên chúng được  xử lý như chất thải rắn thông thường. Đến nay, vẫn không có nước phát triển nào coi pin mặt trời PV là chất thải nguy hại”, bà Deepalia Khetriwal nói.
+
+Đại diện Vụ Khoa học và Công nghệ thuộc Bộ Khoa học và Công nghệ Việt Nam,  cho hay Việt Nam là một trong những nền kinh tế phát triển nhanh nhất trên thế giới, thể hiện qua cường độ sử dụng năng lượng và phát thải carbon cao. Do đó, Chính phủ Việt Nam rất coi trọng vấn đề giảm thiểu tác động của biến đổi khí hậu song song với tăng trưởng kinh tế.
+
+Chính phủ đã giao Bộ Khoa học và Công nghệ nghiên cứu giải pháp xử lý chất thải cuối đời dự án từ các nhà máy điện mặt trời. “Trong giai đoạn đầu, Bộ đang tập trung vào các giải pháp cho tấm quang điện mặt trời và các bộ biến tần. Trong giai đoạn hai, một tiêu chuẩn kỹ thuật về chất lượng của các tấm quang điện mặt trời sẽ được lên kế hoạch. Hơn nữa, trong tương lai gần, Bộ sẽ xúc tiến một nghiên cứu thí điểm về thu gom, xử lý và xử lý chất thải điện mặt trời”, đại diện Vụ Khoa học và Công nghệ thuộc Bộ Khoa học và Công nghệ chia sẻ thông tin.

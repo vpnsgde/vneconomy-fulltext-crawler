@@ -1,0 +1,47 @@
+Ngày 22/3/2024, Bảo hiểm xã hội Việt Nam và Bộ Công an đã ký Quy trình phối hợp triển khai phát triển thanh toán không dùng tiền mặt trong công tác chi trả lương hưu, trợ cấp bảo hiểm xã hội trên nền cơ sở dữ liệu quốc gia về dân cư.
+
+Đề triển khai thực hiện quy trình phối hợp này, Bảo hiểm xã hội Việt Nam đã ban hành hướng dẫn Bảo hiểm xã hội các tỉnh thực hiện theo 4 bước.
+
+Bước 1:Tuyên truyền để người hưởng nắm được chủ trương, phương thức triển khai; tạo sự đồng thuận trong nhân dân và người hưởng.
+
+Nội dung tuyên truyền về tiện ích của chi trả lương hưu và trợ cấp bảo hiểm xã hội qua tài khoản. Đó là nhằm tạo điều kiện để người dân tiếp cận các dịch vụ an sinh xã hội một cách thuận lợi; góp phần vào công tác quản lý người hưởng lương hưu và trợ cấp bảo hiểm xã hội, bảo đảm số tiền chi trả đúng người hưởng, nhanh chóng, kịp thời.
+
+Bước 2:Trích xuất, phân loại dữ liệu
+
+Bảo hiểm xã hội Việt Nam (Trung tâm Công nghệ thông tin) thực hiện trích xuất dữ liệu người hưởng các chế độ bảo hiểm xã hội hàng tháng.
+
+Dữ liệu dược chuyển cho Cục C06 và được Cục C06 chuyển xuống, cho lực lượng công an xã theo hệ thống cơ sở dữ liệu quốc gia về dân cư của Bộ Công an.
+
+Dữ liệu chuyển được phân loại theo 2 nhóm. Trong đó, đối với dữ liệu đã trùng khớp giữa cơ sở dữ liệu quốc gia về dân cư, và cơ sở dữ liệu bảo hiểm (khoảng 2,1 triệu người hưởng), Tổ công tác chủ động đi rà soát, xác minh tình trạng người hưởng, vận động chuyển hình thức nhận qua tài khoản cá nhân.
+
+Đối với dữ liệu chưa trùng khớp, chưa đầy đủ giữa cơ sở dữ liệu quốc gia về dân cư, và cơ sở dữ liệu bảo hiểm (khoảng 1,1 triệu người hưởng), Bộ phận nghiệp vụ của cơ quan Bảo hiểm xã hội địa phương phối hợp với Tổ công tác rà soát, xác minh, cập nhật, làm sạch dữ liệu.
+
+Bước 3:Thực hiện vận động tuyên truyền đến từng người hưởng nhận chế độ qua phương thức thanh toán không dùng tiền mặt, kết hợp xác minh, làm sạch dữ liệu người hưởng.
+
+Các Tổ công tác cấp xã đến các điểm chi trả vào các kỳ chi trả để gặp trực tiếp người hưởng, hoặc đến nhà theo địa chỉ của người hưởng (đối với người hưởng qua tài khoản, người hưởng ủy quyền, người hưởng già yếu, không đi lại được, người hưởng chưa gặp được tại điểm chi trả), và sử dụng bộ câu hỏi khảo sát, để phân loại các nhóm người hưởng mong muốn được nhận trợ cấp qua tài khoản hay tiền mặt.
+
+Đối với người hưởng đã có tài khoản và đăng ký nhận qua tài khoản: Xác nhận lại việc đăng ký nhận tiền qua tài khoản, xác thực người hưởng và tình trạng người hưởng.
+
+Đối với người hưởng có tài khoản nhưng chưa đăng ký nhận qua tài khoản: Vận động đăng ký nhận qua tài khoản.
+
+Đối với người hưởng chưa có tài khoản: Vận động, tuyên truyền việc mở tài khoản và nhận chế độ qua tài khoản.
+
+Trường hợp người hưởng có mong muốn ủy quyền cho người khác nhận thay qua hình thức tài khoản, hoặc không qua tài khoản thì có thể ủy quyền.
+
+Đối với người hưởng bất khả kháng không đăng ký được tài khoản (người già yếu; không có khả năng đi lại; không có người nhận thay để ủy quyền), tiếp tục chi trả tại nhà qua Tổ chức dịch vụ chi trả.
+
+Trong quá trình thực hiện, thông tin người hưởng được bổ sung, xác minh, công an xã thực hiện cập nhật thông tin đã được xác thực, làm sạch vào phần mềm nghiệp vụ để tổng hợp tại hệ thống cơ sở dữ liệu quốc gia về dân cư.
+
+Bước 4:Cục C06 chuyển dữ liệu đã dược chuẩn hóa, làm sạch cho Bảo hiểm xã hội Việt Nam, và cập nhật thông tin tài khoản tiền gửi của từng người hưởng đã được chuẩn hóa dữ liệu vào phần mềm VneID.
+
+Sau khi dữ liệu của 2 bên đã được chuẩn hóa, làm sạch; giai đoạn tiếp theo, các dữ liệu của người hưởng phát sinh mới, hoặc tình trạng của người hiện hưởng sẽ được kết nối, cập nhật định kỳ qua cơ sở dữ liệu quốc gia về dân cư, và cơ sở dữ liệu quốc gia về bảo hiểm.
+
+Bảo hiểm xã hội Việt Nam đề nghị Bảo hiểm xã hội các tỉnh phối hợp với Công an tỉnh, và các đơn vị có liên quan triển khai thực hiện quy trình phối hợp trên.
+
+Mục tiêu nhằm tăng tỷ lệ người nhận các chế độ bảo hiểm xã hội qua phương thức thanh toán không dùng tiền mặt theo chủ trương của Chính phủ, Thủ tướng Chính phủ.
+
+Đồng thời, thông qua đó nhằm rà soát, xác thực người hưởng, tình trạng người hưởng để đảm bảo quản lý người hưởng chặt chẽ; chi trả đúng người hưởng, đúng chế độ; tránh lạm dụng, trục lợi quỹ bảo hiểm.
+
+Hiện cả nước có khoảng trên 3,3 triệu người hưởng lương hưu, trợ cấp bảo hiểm xã hội hàng tháng.
+
+Đến nay, có khoảng trên 64% số người hưởng nhận các chế độ bảo hiểm xã hội, trợ cấp thất nghiệp qua tài khoản cá nhân tại khu vực đô thị, tăng khoảng 3% so với năm 2022.

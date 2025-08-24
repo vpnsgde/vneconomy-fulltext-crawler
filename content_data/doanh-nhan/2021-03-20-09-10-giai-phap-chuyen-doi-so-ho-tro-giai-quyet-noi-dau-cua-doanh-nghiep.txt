@@ -1,0 +1,59 @@
+Chỉ sau 3 năm từ khi thành lập, đến nay Stringee - nền tảng lập trình "Make in Vietnam" đã có sự phát triển tăng trưởng bứt phá, cung cấp giải pháp chuyển đổi số lĩnh vực giao tiếp cho hơn 800 doanh nghiệp lớn và vừa ở các ngành tài chính, ngân hàng, bảo hiểm, trong đó có những doanh nghiệp nằm trong top Fortune 500.
+
+Không chỉ làm chủ thị trường trong nước, Stringee đang hướng đến cung cấp giải pháp cho thị trường Mỹ với mục tiêu nâng tầm công nghệ Việt, tiến tới phục vụ thị trường toàn cầu. Ông Đậu Ngọc Huy, nhà sáng lập và Giám đốc điều hành (CEO) của Công ty Stringee chia sẻ với VnEconomy về con đường khởi nghiệp của Stringee.
+
+Bắt đầu khởi nghiệp giữa năm 2017, đến nay chỉ sau hơn 3 năm, Stringee được đánh giá là một trong những startup trong lĩnh vực Software as a Service (SaaS) tăng trưởng nhanh nhất Việt Nam. Điều gì làm nên sự phát triển thần tốc này, thưa ông?
+
+Bắt tay vào thành lập Stringee, chúng tôi đã nghiên cứu kỹ thị trường và nhận thấy nhu cầu các tính năng nghe, gọi, chat, hội thoại trực tuyến trên các nền tảng ứng dụng có sẵn rất lớn. Bên cạnh đó, các lĩnh vực mà Stringee hướng tới ở Việt Nam cũng như trong khu vực không có nhiều đối thủ.
+
+Với thế mạnh sẵn có về VoIP, xử lý tiếng nói, hình ảnh video..., chúng tôi không làm một app (ứng dụng) hoàn chỉnh mà đã chuyển đổi mô hình sang cung cấp các tính năng (chat, gọi điện thoại, video call...) tích hợp vào các app của doanh nghiệp.
+
+Tôi cho rằng, đây là những yếu tố quan trọng để Stringee phát triển mạnh trong 3 năm qua. Hiện doanh thu của Stringee có tốc độ tăng trưởng gấp khoảng 40 lần so với các đây 2 năm.
+
+Bắt tay vào thành lập Stringee, chúng tôi đã nghiên cứu kỹ thị trường và nhận thấy nhu cầu các tính năng nghe, gọi, chat, hội thoại trực tuyến trên các nền tảng ứng dụng có sẵn rất lớn. Bên cạnh đó, các lĩnh vực mà Stringee hướng tới ở Việt Nam cũng như trong khu vực không có nhiều đối thủ.
+
+Ông Đậu Ngọc Huy, nhà sáng lập và Giám đốc điều hành (CEO) của Công ty Stringee
+
+Ông có thể chia sẻ ngắn gọn về các giải pháp công nghệ mà Stringee đang làm? Hiện nay trên thị trường cũng có những nhà cung cấp các nền tảng tương tự Stringee. Vậy đâu là điểm khác biệt nổi trội của Stringee?
+
+Tất cả hệ sinh thái các giải pháp của Stringee đều tập trung hỗ trợ các doanh nghiệp chuyển đổi số trong lĩnh vực giao tiếp, liên lạc ở 2 nhóm đối tượng chính (khách hàng với doanh nghiệp và khách hàng với khách hàng). Nền tảng lập trình giao tiếp Stringee cho phép các doanh nghiệp giao tiếp với khách hàng trên chính các ứng dụng mobile (hoặc website) của mình mà không cần phải sử dụng các ứng dụng thứ ba (như Zalo, Skype, Messenger) cũng như không phải đầu tư xây dựng từ đầu một phần mềm có các tính năng giao tiếp.
+
+Các doanh nghiệp đang sở hữu lượng khách hàng lớn có thể dễ dàng bổ sung các tính năng: Chat, Voice call, Video call, Video conference, SMS, Contact Center trực tiếp vào các ứng dụng mobile/web/hệ thống quản trị doanh nghiệp sẵn có của mình dựa trên nền tảng Stringee. Điều này giúp các doanh nghiệp cung cấp dịch vụ trên Internet có thể chủ động trong việc giao tiếp giữa doanh nghiệp và người dùng cũng như giữa các người dùng với nhau, từ đó nâng cao trải nghiệm của khách hàng, chăm sóc khách hàng tốt hơn.
+
+Ở Việt Nam hiện nay cũng có những đơn vị công nghệ cung cấp một trong những giải pháp riêng lẻ như chat hoặc gọi thoại,... Tuy nhiên, điểm đặc biệt nhất trong các giải pháp của Stringee đó chính là sự tổng hợp, hệ thống tất cả các kênh giao tiếp (chat, email, voice call, Video call...) cho một doanh nghiệp.
+
+Những giải pháp của Stringee đang được ứng dụng trong các doanh nghiệp lớn nào và mang lại hiệu quả giá trị gì cho các doanh nghiệp?
+
+Hiện nay, trên thị trường đang có khoảng 800 khách hàng là các doanh nghiệp lớn đang sử dụng các giải pháp của Stringee, phục vụ hơn 2 triệu phút gọi mỗi ngày cho tổng hơn 45 triệu người dùng cuối trong toàn quốc. Trong đó có nhiều doanh nghiệp ở top đầu ở các lĩnh vực như: bất động sản (Đất Xanh), tài chính (Shinhan Finance), ngân hàng (VIB, TPBank...), chứng khoán (VNDirect), bảo hiểm (Hanwhalife Vietnam, VBI, PTI...). Đặc biệt trong số đó có khách hàng Hanwha Life thuộc tập đoàn Hanwha nằm trong top 500 doanh nghiệp lớn thế giới (Fortune 500).
+
+Trong hành trình phát triển, mỗi doanh nghiệp đều có những bài toán và "nỗi đau" riêng. Vậy Stringee đã giúp các doanh nghiệp giải quyết những "nỗi đau" này thế nào?
+
+Thực tế "nỗi đau" của từng doanh nghiệp là khác nhau. Stringee không tập trung làm một giải pháp chi tiết mà là một nền tảng tổng thể về giao tiếp để hỗ trợ doanh nghiệp giải quyết các "nỗi đau" khác nhau.
+
+Ví dụ như VNDirect ban đầu chỉ dùng giải pháp Call Center để hỗ trợ người mua bán chứng khoán gọi điện đến tổng đài để đặt lệnh. Nhận thấy tiềm năng của công nghệ trong việc tháo bỏ những rào cản hỗ trợ doanh nghiệp dễ dàng tiếp cận, mở rộng tệp khách hàng, VNDirect đã tiếp tục ứng dụng thêm tính năng chat và video KYC (quy trình định danh khách hàng).... Theo đó, khi mở tài khoản chứng khoán, thay vì phải đến trực tiếp văn phòng của VNDirect để làm thủ tục thì khách hàng có thể mở trực tiếp từ app và video call với nhân viên của công ty chứng khoán để thực hiện các thủ tục một cách dễ dàng, thuận lợi...
+
+Với ứng dụng gọi xe Be Group, mỗi khi đặt xe, khách hàng và tài xế phải gọi điện thoại cho nhau mất chi phí. Tuy nhiên, khi tích hợp tính năng thoại vào app của Be thì tài xế có thể gọi điện cho khách hàng trên app hoàn toàn miễn phí. Với trung bình khoảng 30 chuyến xe và mỗi chuyến phải thực hiện một cuộc điện thoại cước phí khoảng 2.000 đồng thì mỗi ngày tài xế có thể tiết kiệm từ 50.000- 60.000 đồng.
+
+Điều quan trọng hơn là việc thực hiện gọi qua App sẽ bảo mật được thông tin số điện thoại của khách hàng... Thống kê, trung bình đã có khoảng 15 triệu phút gọi mỗi tháng được thực hiện trên ứng dụng này, giúp các tài xế của Be tiết kiệm một khoản chi phí cước điện thoại không nhỏ.
+
+Hoặc như Ngân hàng TPBank. trước đó có ứng dụng tính năng eKYC (có thể mở tài khoản trực tiếp trên app) nhưng với hạn mức mỗi lần giao dịch chỉ 1 triệu đồng và một ngày chuyển khoản không quá 5 triệu đồng. Để nâng cao hạn mức, khách hàng sẽ phải ra các quầy giao dịch của ngân hàng. Tuy nhiên, khi ngân hàng ứng dụng giải pháp Video call vào app, khách hàng chỉ cần gọi video call để nhân viên xác thực, nâng thêm hạn mức lên đến 100 triệu đồng mà không cần phải ra quầy giao dịch. Với việc ứng dụng các giải pháp của Stringee đã giúp TPBank không cần phải mở thêm nhiều chi nhánh; đồng thời nâng cao trải nghiệm khách hàng khi sử dụng dịch vụ. Trung bình mỗi ngày ngân hàng đã thu hút khoảng 1000 khách hàng mở tài khoản mới.
+
+Như vậy, với các doanh nghiệp quy mô lớn, chi phí đầu tư ứng dụng giải pháp khoảng 1-3 tỷ mỗi năm nhưng giá trị mang lại có thể gấp từ 10-20 lần.
+
+Với những thế mạnh nội tại, các nền tảng "Make in Vietnam" có thể làm chủ ở thị trường trong nước nhưng nếu tiến ra thị trường nước ngoài thì sẽ thế nào, thưa ông?
+
+Khi các doanh nghiệp cung cấp giải pháp công nghệ Việt đi ra nước ngoài cũng giống như các nhà cung cấp nước ngoài vào Việt Nam, các thế mạnh về hiểu thị trường bản địa sẽ không còn. Bù lại, các doanh nghiệp Việt có lợi thế nguồn nhân lực trong nước rẻ hơn rất nhiều so với nước ngoài để phát triển phần mềm.
+
+Đến nay, chúng tôi đang dần hiện thực hóa mục tiêu vươn sang thị trường Mỹ và sẽ triển khai thử nghiệm trong năm 2021.
+
+Tại sao trong lần xuất ngoại đầu tiên, Stringee lại chọn Mỹ- thị trường đang có nhiều nhà cung cấp giải pháp công nghệ tương tự và đòi hỏi rất "khắt khe"?
+
+Tôi cho rằng, Mỹ là một thị trường rất lớn cho các giải pháp này với quy mô hơn Việt Nam khoảng 100 lần nhưng cũng "khó tính" hơn. Stringee xác định khi bước chân vào Mỹ là một lần khởi nghiệp lại. Nếu vào được thị trường Mỹ thì có thể dễ dàng chinh phục các thị trường khác.
+
+Điều quan trọng khi sang thị trường Mỹ, chúng tôi mong muốn đưa sản phẩm giải pháp Việt lên một tầm cao mới và đạt chuẩn. Stringee muốn ghi dấu ấn các giải pháp công nghệ Việt trên bản đồ công nghệ thế giới và người Việt Nam có thể triển khai làm các giải pháp sản phẩm ứng dụng cho Mỹ cũng như thế giới.
+
+Ngay từ khi làm sản phẩm, Stringee đã đặt mục tiêu này và giờ là thời điểm thích hợp để bắt đầu. Việt Nam là "cái nôi" nuôi dưỡng và khi có thị trường và khách hàng đủ lớn để phát triển sản phẩm thì sẽ "bay" đi chinh phục những thị trường lớn hơn.
+
+Ông có thể tiết lộ số tiền đã đầu tư cho Stringee đến nay? Với tốc độ tăng trưởng và phát triển như hiện nay, Stringee đặt mục tiêu năm 2021 cũng như những năm tiếp theo thế nào?
+
+Mặc dù chưa có thống kê cụ thể nhưng đến nay, tổng số tiền đầu tư vào Stringee khoảng 2-3 triệu USD.  Năm 2020, Stringee đã hòa vốn và bắt đầu có lãi. Chúng tôi đặt mục tiêu trong năm 2021 sẽ tiếp tục duy trì mức độ tăng trưởng doanh thu từ 3-4 lần so với năm 2020.  Mục tiêu này hoàn toàn nằm trong khả năng của Stringee bởi thị trường chuyển đổi số trong lĩnh vực giao tiếp đang còn rất nhiều tiềm năng phát triển và tăng rất mạnh, nhất là trong bối cảnh dịch bệnh hiện nay.

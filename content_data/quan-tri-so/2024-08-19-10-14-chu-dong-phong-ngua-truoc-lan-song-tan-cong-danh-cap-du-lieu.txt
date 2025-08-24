@@ -1,0 +1,67 @@
+Trao đổi với Tiến sĩ Nguyễn Thanh Bình, Chuyên gia tư vấn An ninh mạng toàn cầu, Công ty Hệ thống Thông tin FPT (FPT IS), cho rằng trong xu hướng chuyển đổi số, tất cả mọi thông tin dữ liệu về cá nhân, về tổ chức đều được số hóa và nguồn thông tin, dữ liệu này chính là đầu vào để phục vụ nhiều mục đích khác nhau. Trước đây than đá là vàng, dầu mỏ là vàng, nhưng bước sang thế kỷ 21, dữ liệu, thông tin mới chính là vàng.
+
+Ông đánh giá như thế nào về tình trạng lộ lọt cũng như buôn bán dữ liệu tại Việt Nam những năm gần đây?
+
+Theo tôi, vấn đề này đang diễn biến rất phức tạp. Tại hội thảo “An ninh dữ liệu trên không gian mạng” tổ chức ngày 16/7/2024, Bộ Công an khẳng định các vụ tấn công, đánh cắp dữ liệu đang có xu hướng gia tăng, việc mua bán dữ liệu đang diễn ra một cách công khai, rộng rãi, thậm chí trắng trợn tới mức kẻ bán dữ liệu sẵn sàng bảo hành, có nghĩa là dữ liệu đánh cắp từ một doanh nghiệp có thể được cập nhật về sau. Điều này cho thấy tội phạm đang hoạt động rất tinh vi và có cả một hệ thống chân rết để đánh cắp dữ liệu.
+
+Cục An toàn thông tin, Bộ Thông tin và Truyền thông, thống kê trong năm 2023, số vụ, số tài khoản của người dân Việt Nam bị lây nhiễm mã độc, đánh cắp dữ liệu đã tăng tới 30% so với năm 2020. Như vậy có thể thấy tình trạng lộ lọt, tấn công đánh cắp dữ liệu đang diễn ra với tốc độ nhanh, số lượng lớn và xu hướng tiếp tục gia tăng.
+
+Theo ông, đâu là nguyên nhân dẫn đến tình trạng lộ lọt, tấn công đánh cắp dữ liệu ngày càng diễn ra với tốc độ nhanh, số lượng lớn và xu hướng tiếp tục gia tăng? Với diễn biến khó kiểm soát như vậy thì có những giải pháp nào để các cá nhân, tổ chức chủ động phòng chống các cuộc tấn công, lấy cắp thông tin, dữ liệu?
+
+Thứ nhất,về mặt cá nhân, nhận thức chung của người Việt còn chưa cao, mọi người chưa thấy rõ thông tin, dữ liệu của mình đang và có thể có giá trị đến mức nào.
+
+Trước đây than đá là vàng, dầu mỏ là vàng, thế nhưng bước sang thế kỷ 21, dữ liệu, thông tin mới chính là vàng. Bởi vì trong xu hướng chuyển đổi số, tất cả mọi thông tin dữ liệu về cá nhân, về tổ chức đều được số hóa và nguồn thông tin, dữ liệu này chính là đầu vào để phục vụ nhiều mục đích khác nhau. Do đó, có thể khẳng định dữ liệu rất có giá trị. Tuy nhiên, ý thức của người Việt, nhận thức về giá trị thông tin dữ liệu của cá nhân hiện vẫn còn thấp.
+
+Thứ hai, sau khi nâng cao ý thức, các cá nhân cần rút ra định hướng cho hành động của mình là “nên chia sẻ dữ liệu ở đâu” hay “chia sẻ bao nhiêu dữ liệu là vừa”...
+
+Tôi xin lấy ví dụ từ câu chuyện của chính bản thân. Khi tôi đến một chi nhánh công ty chuyển phát nhanh để gửi bưu phẩm cho một người bạn, nhân viên công ty chuyển phát này yêu cầu cung cấp rất nhiều thông tin như tên, địa chỉ, chứng minh nhân dân, số điện thoại, email... Tôi hỏi lại bạn nhân viên rằng cần nhiều thông tin như thế để làm gì trong khi tôi đã nhập tên người gửi, người nhận, địa chỉ và số điện thoại, như vậy là đủ để chuyển bưu phẩm. Nhân viên chi nhánh trả lời là hệ thống yêu cầu như vậy, còn để làm gì thì bản thân họ cũng không biết. Tôi quyết định không gửi qua công ty đó nữa.
+
+Điều này có nghĩa, hiện nay rất nhiều công ty, đơn vị đang gia sức thu thập dữ liệu, càng nhiều càng tốt, nhiều hơn lượng mà họ thực sự cần để cung cấp dịch vụ. Bởi họ nhận thức được giá trị của dữ liệu khách hàng, nhưng bản thân người dân chưa nhận thức được giá trị của chính mình nên sẵn sàng cung cấp một cách dễ dãi, thiếu kiểm soát. Vì vậy, các cá nhân nên thực sự cân nhắc trong việc cung cấp thông tin, dữ liệu cho các bên, kiểm soát để cung cấp đến chừng nào là đủ.
+
+Thứ ba, các cá nhân cần trang bị những giải pháp kỹ thuật cơ bản để bảo vệ thông tin, dữ liệu của bản thân. Các giải pháp đó bao gồm đặt mật khẩu cho tài khoản, tệp, thư mục trên máy tính, điện thoại - với các mật khẩu đủ mạnh và không dễ đoán; áp dụng xác thực sinh trắc học, xác thực đa nhân tố khi có thể; cài đặt phần mềm chống virus, chống mã độc - có thể là phần mềm miễn phí... Những biện pháp cơ bản này mặc dù không thể loại bỏ hoàn toàn nhưng giúp giảm rủi ro tối đa nguy cơ người dùng bị xâm nhập, đánh cắp thông tin, dữ liệu trên thiết bị của mình.
+
+Ngoài ra, việc cá nhân phản ứng như thế nào cũng góp phần quan trọng trong việc giảm thiểu vấn đề tấn công dữ liệu cho chính họ và cộng đồng. Theo tôi, các cá nhân nên chia sẻ việc mình bị đánh cắp thông tin, dữ liệu, hoặc bị lừa mất thông tin, tiền bạc.
+
+Chẳng hạn, nếu bị hack mất tài khoản mạng xã hội thì nên nhanh chóng thông báo với người thân, gia đình, bạn bè trên mạng xã hội để tránh tội phạm lừa đảo những người xung quanh; nếu bị mất tài khoản ngân hàng thì cần thông báo với ngân hàng để tiến hành khóa thẻ nhằm ngăn ngừa hậu quả đáng tiếc có thể xảy ra.
+
+Kém phổ biến hơn nhưng quan trọng không kém, đó là cá nhân khi bị lừa mất tiền bạc, tài sản qua các kênh online nên nhanh chóng chia sẻ thông tin về đối tượng lừa đảo, ví dụ trang web, số điện thoại, số tài khoản kẻ lừa đảo… để giảm rủi ro người khác bị lừa với cùng phương thức, thủ đoạn.
+
+Tôi đề xuất Cục An toàn thông tin, Bộ Thông tin và Truyền thông, hoặc Cục An ninh mạng, Bộ Công an xây dựng một diễn đàn/nền tảng để các nạn nhân chia sẻ về câu chuyện của bản thân, không chỉ về việc việc bị đánh cắp dữ liệu mà còn về các vụ việc lừa đảo tài sản khác. Nền tảng này sẽ trở thành một kho thông tin hữu ích để những người khác tham chiếu nhằm tránh gặp phải tình huống tương tự, đồng thời là nơi để cơ quan chức năng tiếp nhận thông tin các vụ việc để tiến hành điều tra hoặc phục vụ điều tra.
+
+Hiện tại trong nước đã có công cụ Chống lừa đảo (chongluadao.vn) cung cấp thông tin công khai về các trang web lừa đảo. Nếu như website này cho phép chia sẻ thêm thông tin về các tài khoản lừa đảo, chiêu thức lừa đảo thì sẽ mang lại nhiều giá trị hơn cho cộng đồng thông qua cơ chế tri thức tập thể.
+
+Với doanh nghiệp, đối tượng chính đang trở thành “đích ngắm” của lừa đảo, tấn công, đánh cắp dữ liệu để tống tiền, theo ông cần những giải pháp gì?
+
+Ở góc độ doanh nghiệp, có hai nhóm: nhóm doanh nghiệp số đông là đối tượng của các vụ tấn công và nhóm doanh nghiệp có hoạt động thu thập, kinh doanh dữ liệu.
+
+Với nhóm đầu tiên, nên lưu ý 3 giải pháp.
+
+Thứ nhất,tổ chức các chương trình đào tạo về nhận thức cho nhân viên để nâng cao ý thức về giá trị của thông tin cá nhân bản thân và những người khác, trang bị những kỹ năng cơ bản để có thể tự phát hiện, phản ứng trước các vụ tấn công lừa đảo, có thể trang bị những công cụ bảo vệ cơ bản.
+
+Thứ hai,về kỹ thuật, các công ty nên triển khai các giải pháp bảo vệ hệ thống máy tính, tránh bị hacker xâm nhập tấn công xâm nhập, đánh cắp dữ liệu. Các giải pháp có thể rất đa dạng, tạo thành những lớp bảo vệ khác nhau (dữ liệu – phần mềm ứng dụng – máy cuối – mạng – vùng biên) để hạn chế các điểm yếu hệ thống tạo thành lỗ hổng để tin tặc tấn công.
+
+Bên cạnh đó, các doanh nghiệp cần triển khai quy định, chính sách, quy trình quản lý, vận hành hệ thống công nghệ thông tin để giảm thiểu rủi ro xuất phát từ lỗi do con người gây ra, hoặc có khả năng xử lý, khắc phục nhanh chóng nếu xảy ra sự cố.
+
+Thứ ba,bên cạnh các giải pháp kỹ thuật, các tổ chức, doanh nghiệp có thể và nên triển khai các dịch vụ giám sát, phản ứng sự cố an ninh mạng liên tục. Lý do là các giải pháp phòng chống tấn công thường chỉ có tác dụng đối với những tình huống, dấu hiệu đã được xác định trước, và là do phần mềm nên bản thân có thể tồn tại các lỗ hổng bảo mật. Do vậy cần áp dụng các giải pháp bảo mật để giám sát hệ thống một cách liên tục, nâng cao khả năng phát hiện, ngăn chặn sớm các dấu hiệu bất thường, qua đó “bẻ gãy” chuỗi tấn công của hacker, hoặc giảm thiểu rủi ro, thiệt hại trong trường hợp mã độc, hacker xâm nhập đến mức độ nhất định.
+
+Đối với nhóm công ty kinh doanh có hoạt động thu thập, khai thác, kinh doanh dữ liệu, một điểm quan trọng hàng đầu cần lưu ý là phải nắm được và tuân thủ các quy định ràng buộc quyền hạn được phép thu thập, khai thác dữ liệu.
+
+Việc thu thập bao nhiêu dữ liệu và lưu trữ sử dụng vào mục đích gì, lưu trữ trong bao lâu thì trước đây Chính phủ chưa có quy định, nhưng hiện tại Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân đã quy định khá rõ. Theo đó, công ty chỉ được thu thập vừa đủ thông tin phục vụ mục đích nêu ra, chỉ được sử dụng vào đúng mục đích và chỉ được lưu trữ trong thời gian nhất định, tuyệt đối không được sử dụng dữ liệu này vào mục đích kinh doanh.
+
+Vì vậy, các công ty đang thu thập, xử lý dữ liệu cần lưu ý tuân thủ để bảo đảm hoạt động công ty là hợp pháp và góp phần xây dựng một không gian mạng Việt Nam an toàn, lành mạnh.
+
+Ở góc độ chuyên gia tư vấn về an ninh mạng, theo ông, những dấu hiệu nào cho thấy một hệ thống có thể đã bị nhiễm mã độc đánh cắp dữ liệu?
+
+Có 3 dấu hiệu chung cần lưu ý.
+
+Một là,ổ cứng thiết bị sẽ bị đầy nhanh, bởi vì khi đánh cắp dữ liệu tội phạm sẽ không chỉ lấy trộm vài file, mà thông thường các mã độc đánh cắp dữ liệu sẽ dò tìm trên máy tính để thu thập tất cả tài liệu sau đó sẽ dồn vào một chỗ và đến thời điểm, tội phạm mới chuyển ra bên ngoài chứ không chuyển liên tục. Do đó các thư mục tập hợp dữ liệu đánh cắp thường rất lớn do số lượng tệp tài liệu bị nhân đôi.
+
+Hai là,lưu lượng sử dụng mạng tăng đột ngột. Ví dụ hàng ngày chúng ta chỉ sử dụng khoảng 2GB data nhưng nếu thấy tự nhiên dung lượng sử dụng tăng lên đến 5GB, điều này có nghĩa là có khả năng thiết bị đã bị hacker, mã độc xâm nhập, thu thập dữ liệu và đang gửi ra bên ngoài.
+
+Ba là, trên các thiết bị máy tính, điện thoại đang sử dụng xuất hiện nhiều thư điện tử chứa những file đính kèm lạ, xuất hiện các hộp thoại dạng pop-up với nội dung không liên quan đến công việc. Điều này cho thấy thiết bị đang bị nhiễm mã độc và mã độc đang tìm cách lôi kéo người sử dụng tiếp tục truy cập vào các website để tải xuống mã độc tiếp theo, trong đó có thể có mã độc đánh cắp dữ liệu.
+
+Lưu ý rằng về nguyên tắc kỹ thuật, mã độc đánh cắp dữ liệu có rất nhiều điểm chung với các loại mã độc khác. Do đó những dấu hiệu nêu trên có thể cho thấy hệ thống bị nhiễm mã độc đánh cắp dữ liệu hoặc mã độc nói chung; có thể có những dấu hiệu nhiễm mã độc khác mà việc đó có thể dẫn tới lây nhiễm mã độc đánh cắp dữ liệu...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 34-2024 phát hành ngày 19/08/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

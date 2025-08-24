@@ -1,0 +1,31 @@
+Tại thời điểm đóng cửa phiên giao dịch ngày 8/4, giá trị vốn hóa thị trường của Microsoft đạt 2,64 nghìn tỷ USD, trong khi vốn hóa của Apple là 2,59 nghìn tỷ USD.
+
+Thị trường chứng khoán Mỹ, đặc biệt là các cổ phiếu công nghệ vốn hóa lớn, bị bán tháo dữ dội trong 4 phiên trở lại đây, sau khi Tổng thống Donald Trump vào hôm 2/4 công bố kế hoạch áp thuế quan đối ứng lên hơn 180 quốc gia và vùng lãnh thổ trên thế giới. Chỉ số Nasdaq - một thước đo giá cổ phiếu công nghệ trên thị trường chứng khoán Mỹ - đã giảm 13% trong 4 phiên vừa qua. Tuy nhiên, cổ phiếu Apple bị bán mạnh hơn cả do nhà sản xuất iPhone có mức độ phụ thuộc lớn vào Trung Quốc.
+
+Theo hãng tin CNBC, Nhà Trắng ngày 8/4 xác nhận tổng thuế quan 104% sẽ được thực thi với Trung Quốc từ 0h ngày 9/4. Mức thuế 104% bao gồm việc ông Trump dự kiến áp thêm thuế quan 50% lên hàng hóa Trung Quốc sau khi Trung Quốc trả đũa thuế đối ứng của ông bằng cách áp thuế 34% lên hàng Mỹ. Trong nhiệm kỳ này, ông Trump đã có 2 lần áp thuế quan 10% lên hàng Trung Quốc, tiếp đó là mức thuế đối ứng 34%.
+
+Trước đợt bán tháo này, cả Apple, Microsoft và hãng chip Nvidia đều có giá trị vốn hóa thị trường trên 3 nghìn tỷ USD. Kết thúc phiên ngày 8/4, giá trị vốn hóa thị trường của Nvidia giảm còn 2,35 nghìn tỷ USD.
+
+Hồi tháng 1 năm nay, Microsoft đưa ra dự báo doanh thu gây thất vọng, gây áp lực giảm lên giá cổ phiếu của hãng phần mềm khổng lồ. Nhưng vào tuần trước, khi cắt giảm mức giá mục tiêu đối với nhiều cổ phiếu công nghệ, ngân hàng đầu tư Jefferies nhận định Microsoft sẽ là một trong những công ty có khả năng “miễn nhiễm” cao nhất trước những bất định mà thuế quan gây ra.
+
+Đầu năm 2024, Microsoft từng đạt tới mức vốn hóa thị trường cao chưa từng thấy đối với bất kỳ một công ty đại chúng nào tính đến thời điểm đó, nhưng bị Apple vượt lên vào tháng 6/2024 cho đến nay. Hôm thứ Năm tuần trước, sau khi Mỹ công bố thuế đối ứng, giá cổ phiếu Apple giảm 9,3%, đánh dấu phiên giảm mạnh nhất kể từ tháng 3/2020.
+
+Giới phân tích nhận định giá cổ phiếu Apple đang đương đầu với áp lực giảm lớn do sự phụ thuộc của công ty này vào Trung Quốc với tư cách một địa chỉ sản xuất quan trọng và cũng là một thị trường chủ chốt. Phần lớn sản lượng iPhone đến nay vẫn được sản xuất ở Trung Quốc, và những chiếc điện thoại này sẽ bị áp thuế quan 54%, thậm chí là 104% như cảnh báo mới nhất của Nhà Trắng, khi nhập khẩu vào Mỹ từ ngày 9/4.
+
+Apple bán hơn 200 triệu đơn vị sản phẩm iPhone mỗi năm, với các thị trường lớn nhất gồm Mỹ, Trung Quốc và châu Âu.
+
+Theo một phân tích của ngân hàng UBS vào hôm 7/4, thuế quan đối ứng của Mỹ có thể khiến cho giá điện thoại iPhone 16 Pro Max tại thị trường Mỹ tăng thêm 350 USD. Các nhà phân tích khác thậm chí nhận định các công ty hàng tiêu dùng như Apple sẽ phải tăng giá bán sản phẩm từ 30-40% để đẩy phần chi phí gia tăng do thuế quan về phía người tiêu dùng.
+
+Mẫu iPhone 16 rẻ nhất ở Mỹ có giá bán lẻ do nhà sản xuất đưa ra là 799 USD, nhưng có thể tăng lên mức 1.142 USD do thuế quan - theo một phân tích của công ty Rosenblatt Securities. Một chiếc iPhone 16 Pro Max đang có giá bán lẻ tại Mỹ là 1.599 USD/oz, có thể tăng lên mức 2.300 USD/oz. Những con số ước tính này dựa trên cơ sở cho rằng khi bị áp thuế quan 54%, Apple đẩy 43% về phái người tiêu dùng.
+
+Tương tự, các sản phẩm Apple Watch, iPad, Mac, và Airpod tại thị trường Mỹ cũng được Rosenblatt dự báo sẽ tăng giá từ 39-43%, theo Rosenblatt.
+
+“Thuế quan mà Mỹ áp lên Trung Quốc hoàn toàn trái ngược với kỳ vọng của chúng tôi rằng Apple, một công ty mang tính biểu tượng của Mỹ, sẽ được đối xử nhẹ nhàng giống như trước đây”, nhà phân tích Barton Crockett của Rosenblatt nói với hãng tin Reuters.
+
+Tuy nhiên, các nhà phân tích khác lưu ý rằng doanh số bán iPhone vốn đã chững lại ở các thị trường chính, vì Apple Intelligence - một bộ tính năng giúp tóm tắt thông báo, viết lại email và cung cấp cho người dùng quyền truy cập vào ChatGPT - đã không làm người mua hào hứng. Các đánh giá của chuyên gia cho thấy rằng các tính năng này, mặc dù mang tính sáng tạo, nhưng không cung cấp đủ lý do thuyết phục để người tiêu dùng nâng cấp lên các mẫu iPhone mới hơn.
+
+Sự trì trệ trong nhu cầu có thể gây thêm áp lực lên lợi nhuận ròng của Apple, đặc biệt là khi chi phí tăng do thuế quan. Ông Angelo Zino, nhà phân tích cổ phiếu của công ty CFRA Research, cho rằng Apple sẽ gặp khó khăn trong việc đẩy chi phí tăng thêm về phía người tiêu dùng nhiều hơn mức 5-10 điểm phần trăm.
+
+Dù Apple đã chuyển một phần sản xuất tới Việt Nam và Ấn Độ, phần lớn điện thoại iPhone vẫn sản xuất ở Trung Quốc. Chưa kể, Việt Nam và Ấn Độ cũng bị Mỹ áp thuế quan đối ứng mạnh tay, với 46% áp lên Việt Nam và 26% đối với Ấn Độ.
+
+Theo nhà đồng sáng lập Neil Shah của công ty Counterpoint Research, Apple sẽ phải tăng giá sản phẩm với mức tăng bình quân ít nhất 30% để bù lại ảnh hưởng của thuế quan. Còn theo ông Crockett, thuế quan đối ứng mà ông Trump áp lên Trung Quốc sẽ gây thiệt hại tới 40 tỷ USD đối với Apple.

@@ -1,0 +1,19 @@
+Điều này rất quan trọng đối với việc xác định các biến thể liên quan đặc biệt dễ lây lan, gây bệnh hoặc kháng với các loại vaccine hiện có.
+
+Trong khi thế giới vẫn đang tìm cách ngăn chặn sự lây lan nhanh chóng của Delta, hiện nay đã xuất hiện một biến thể mới khiến các chuyên gia lo ngại, đó là biến thể Lambda. Theo Tổ chức Y tế Thế giới (WHO), biến thể này, còn được gọi là C.37, được phát hiện lần đầu tiên ở Peru vào tháng 8/2020.
+
+Vào ngày 14/6, cơ quan này đã phân loại C.37 là một "biến thể đáng quan tâm" trên toàn cầu, hay VOI và đặt tên cho nó là Lambda, sau khi nó xuất hiện đồng thời ở một số quốc gia trong khu vực. Cho đến nay, Lambda đã được phát hiện ở 29 quốc gia, với mức độ lây lan cao ở các nước Nam Mỹ, đang lây lan nhanh khắp châu Mỹ Latinh. Trong những tháng gần đây, theo kết quả giải trình tự gen của WHO, biến thể Lambda đã được phát hiện trong 82% trường hợp Covid-19 ở Peru.
+
+Gần đây nhất, biến thể này đã được thấy xuất hiện lần đầu ở Vương quốc Anh. Vào 25/6, Tổ chức Y tế Công cộng Anh (Public Health England – PHE) đã báo cáo 6 trường hợp mắc biến chủng Lambda, tất cả đều liên quan đến việc đi du lịch nước ngoài. Báo cáo của PHE gần đây cũng đã công nhận, Lambda có “khả năng tăng khả năng lây truyền hoặc có thể tăng khả năng chống lại các kháng thể trung hòa”. Tuy nhiên, Tổ chức này cũng cho biết, cần có thêm nhiều nghiên cứu hơn nữa.
+
+Như vậy, Lambda đã tìm được đường đến châu Âu - nơi trận chiến chống lại biến thể Delta vẫn đang rất căng thẳng, chưa thấy điểm kết thúc. Các quan chức Y tế đang theo dõi chặt chẽ biến thể Lambda vì nó mang một số đột biến có thể khiến sự lây lan mạnh mẽ, không kém biến chủng Delta. Lambda còn được các nhà khoa học chú ý bởi đột biến trên biến thể này có thể kháng vaccine. Biến thể này có tới 7 đột biến trong "protein đột biến" của virus, so với chủng SARS-CoV-2 ban đầu được phát hiện ở Vũ Hán, Trung Quốc. Theo WHO, một số đột biến này có khả năng làm tăng khả năng lây truyền của virus hoặc làm giảm khả năng trung hòa hoặc bất hoạt của một số kháng thể nhất định đối với virus.
+
+Trong khi đó, để giám sát bộ gen của SARS-CoV-2 trên toàn cầu, điều quan trọng là phải giải trình tự và phân tích nhiều mẫu theo những cách hiệu quả về chi phí. Do đó, các nhà nghiên cứu tại phòng thí nghiệm Bienko-Crosetto thuộc Viện Nghiên cứu Karolinska và Phòng thí nghiệm Khoa học sự sống (SciLifeLab) ở Thụy Điển đã đưa ra một phương pháp mới, được gọi là COVseq, để giám sát bộ gen của virus trên quy mô lớn với chi phí thấp.
+
+Kỹ thuật này đã được công bố trên Tạp chí Khoa học Nature Communications. Đầu tiên, nhiều bản sao của bộ gien virus được tạo ra bằng cách sử dụng multiplex PCR (phản ứng chuỗi polymerase). Sau đó, các mẫu được dán nhãn và gộp lại với nhau trong cùng một thư viện giải trình tự, phân tích SARS-CoV-2.
+
+“Bằng cách thực hiện các phản ứng với khối lượng rất nhỏ và gộp hàng trăm mẫu lại với nhau vào cùng một thư viện trình tự, chúng tôi có thể giải trình tự hàng ngàn bộ gien virus mỗi tuần với chi phí chưa đến 15 USD,”- nhà nghiên cứu Ning Zhang và đồng tác giả TS.Michele Simonetti, Luuk Harbers nói.
+
+Các phân tích so sánh của 29 mẫu dương tính với SARS-CoV-2 cho thấy COVseq có khả năng tương tự như phương pháp tiêu chuẩn để xác định những thay đổi nhỏ trong bộ gien. Phân tích 245 mẫu bổ sung cho thấy COVseq cũng có khả năng cao trong việc phát hiện các biến thể virus mới xuất hiện đáng lo ngại. Ưu điểm chính của COVseq so với các phương pháp hiện có là hiệu quả về chi phí.
+
+Nicola Crosetto - nhà nghiên cứu cấp cao Bộ Y tế Thụy Điển cho biết: “Phương pháp rẻ tiền của chúng tôi có thể được sử dụng ngay lập tức để giám sát bộ gien SARS-CoV-2 và cũng có thể dễ dàng thích nghi với các virus RNA khác, chẳng hạn như virus cúm và sốt xuất huyết”.

@@ -1,0 +1,13 @@
+OpenAI gọi phiên bản mới này là “mô hình nhỏ có khả năng hoạt động và tiết kiệm chi phí nhất hiện nay”. Công ty có kế hoạch sẽ sớm tích hợp thêm tính năng phân tích hình ảnh, video và âm thanh vào mô hình này.
+
+Trên thang điểm đánh giá, GPT-4o mini vượt qua GPT-3.5 Turbo và nhiều mô hình đối thủ khác trên cả trí thông minh văn bản và lý luận đa phương thức.
+
+OpenAI cho biết trong quá trình đào tạo, họ đã lọc ra những thông tin họ không muốn mô hình của mình học hỏi chẳng hạn như lời nói căm thù, nội dung người lớn,... Bên cạnh đó, họ cũng điều chỉnh hành vi của mô hình bằng cách sử dụng các kỹ thuật như học tăng cường với phản hồi của con người (RLHF) để cải thiện độ chính xác và độ tin cậy của các phản hồi của mô hình.
+
+Trước đó, tháng 5 vừa qua, GPT-4o được OpenAI ra mắt trong một sự kiện được phát trực tiếp với các giám đốc điều hành. Theo công ty, chữ “o” trong GPT-4o là viết tắt của omni và GPT-4o đã được cải thiện khả năng âm thanh, video và văn bản cùng khả năng xử lý 50 ngôn ngữ khác nhau với tốc độ và chất lượng nhanh nhất trong số các mô hình của OpenAI thời điểm hiện tại.
+
+GPT-4o mini có giá rẻ hơn đáng kể so với các mô hình AI trước đó và rẻ hơn 60% so với GPT-3.5 Turbo, với giá 0.15 USD cho mỗi triệu mã thông báo đầu vào và 0.60 USD cho mỗi triệu mã thông báo đầu ra. Mức giá phải chăng hợp sẽ giúp công ty mở rộng cơ sở người dùng, trong bối cảnh cạnh tranh ngày càng tăng trong lĩnh vực này.
+
+Về phía đối thủ Meta, ông lớn này dự kiến ​​​​cũng sẽ sớm ra mắt Llama 3, trợ lý AI miễn phí, tiên tiến nhất của họ. Vì vậy, việc OpenAI ra mắt một mô hình giá rẻ với chất lượng không có nhiều khác biệt sẽ giúp công ty gia tăng lợi thế cạnh tranh.
+
+OpenAI, được hỗ trợ bởi Microsoft, đã được các nhà đầu tư định giá hơn 80 tỷ USD. Công ty, được thành lập vào năm 2015, đang chịu áp lực phải đứng đầu thị trường AI tổng hợp trong khi tìm cách kiếm tiền khi chi số tiền lớn vào bộ xử lý và cơ sở hạ tầng để xây dựng và đào tạo các mô hình của mình.

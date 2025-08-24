@@ -1,0 +1,35 @@
+Tháng trước, Farfetch - trang web thương mại điện tử xa xỉ nổi tiếng thế giới - đã lặng lẽ thông báo rằng công ty sẽ ngừng hoạt động dịch vụ phần mềm thương mại điện tử Farfetch Platform Solutions, đánh dấu một bước ngoặt cho thời trang xa xỉ và cách thức hoạt động của nó trong thời đại thương mại điện tử.
+
+Động thái này là một nỗ lực của công ty mẹ mới Coupang nhằm tập trung vào Farfetch sau khi Coupang mua lại công ty này khỏi bờ vực phá sản vào tháng 12 năm ngoái. Các thương hiệu và nhà bán lẻ hợp tác Farfetch Platform Solutions (FPS) buộc phải chuyển sang các nhà cung cấp khác, mặc dù Farfetch chưa xác định được thời gian cụ thể.
+
+NHIỀU RỦI RO VỀ KINH DOANH VÀ QUẢN LÝ
+
+FPS, ra mắt vào năm 2015, đã từng là xương sống của ngành công nghiệp xa xỉ. Người sáng lập Farfetch, José Neves, gọi nó là "bán lẻ xa xỉ kiểu mới", và nhiệm vụ của FPS là trở thành nền tảng toàn cầu cho ngành công nghiệp này. Khách hàng của FPS bao gồm Manolo Blahnik, Harrods, Balenciaga, Saint Laurent, Balmain và nhiều thương hiệu xa xỉ khác.
+
+Họ có quyền sử dụng một danh sách các dịch vụ như tích hợp hàng tồn kho, logistics và dịch vụ fulfilment đầy đủ, hệ thống thanh toán toàn cầu, vận hành các trang thương mại điện tử, ứng dụng trong cửa hàng và các dịch vụ "bán lẻ kết nối" khác, cũng như bán trực tiếp trên Farfetch. Tại thời điểm đỉnh cao, Farfetch đã đầu tư 200 triệu USD mỗi năm vào công nghệ và thuê 1.000 kỹ sư và theo đuổi những gì José Neves coi là một "cơ hội rất, rất lớn"
+
+Mô hình này đã hoạt động hiệu quả với Amazon (thông qua Amazon Web Services), và nó đã áp dụng mô hình mua hàng xa xỉ độc đáo, dựa trên những gì Farfetch biết về việc bán hàng trực tuyến cho người tiêu dùng xa xỉ toàn cầu vào thời điểm công nghệ cao rất đắt đỏ và tốn thời gian để thiết kế.
+
+Đối thủ cạnh tranh Yoox Net-a-Porter (YNAP) cũng đã tham gia vào thị trường này từ lâu: được ra mắt vào năm 2006, bộ phận Online Flagship của YNAP đã từng hỗ trợ mảng thương mại điện tử cho ít nhất 30 thương hiệu, bao gồm Moncler, Valentino và The Row, ngoài bảy thương hiệu của Kering. Các dịch vụ bao gồm logistic thương mại điện tử cho từng thương hiệu, từ chụp ảnh trên người mẫu, đóng gói tùy chỉnh cho đến một số dịch vụ đa kênh và “omnistock”, có nghĩa là khả năng bán cùng một nhóm hàng tồn kho trên nhiều trang web và địa điểm.
+
+Nhưng ngày nay, thương mại điện tử không còn quá thu hút với hầu hết các thương hiệu xa xỉ, khi nhiều thương hiệu đã thấy rằng việc tập trung hoạt động nội bộ sẽ hữu ích hơn. Danh sách khách hàng đã giảm đi ở cả FPS và YNAP: Kering đã ngừng liên doanh với YNAP vào năm 2020 để đưa hoạt động của tập đoàn vào nội bộ, trong khi Stone Island quay về hoạt động dưới trướng công ty mẹ mới là Moncler (cũng từng là khách hàng của YNAP).
+
+Hiện nay, không rõ còn bao nhiêu thương hiệu vẫn sử dụng YNAP. Khách hàng của Farfetch giờ không còn lựa chọn nào khác ngoài việc tiếp tục và chờ đợi. Harrods, sau 5 năm giao dịch với FPS, đã xác nhận rằng họ sẽ chuyển sang các nhà cung cấp khác bắt đầu từ ngày 25/10.
+
+"Đối với bất kỳ thương hiệu nào, đặc biệt là trong lĩnh vực xa xỉ, tái thiết lại nền tảng thương mại điện tử từ Farfetch Platform Solutions không chỉ là một sự chuyển giao đơn giản. Đó là một sự thay đổi cơ bản trong cách thức hoạt động của doanh nghiệp," Negin Yeganegy, cựu giám đốc điều hành thương mại điện tử nhóm và giám đốc kỹ thuật số của YNAP, người đồng sáng lập công ty tư vấn công nghệ thời trang StudioThree với cựu giám đốc điều hành của Farfetch - Carol Hilsum, cho biết.
+
+Đặc biệt, khi tầm quan trọng của doanh số bán hàng thương mại điện tử tăng lên, thì rủi ro phụ thuộc vào các nền tảng bên ngoài cũng tăng lên. Các thương hiệu muốn nắm quyền kiểm soát nhiều hơn. "Các thương hiệu ngày càng muốn tự sở hữu các cửa hàng trực tuyến của mình và tự quản lý chuỗi cung ứng," Yeganegy nói. "Sự chuyển dịch này có ý nghĩa quan trọng đối với cách thức các thương hiệu mở rộng quy mô và hoạt động trên toàn cầu. Mặc dù các công ty như FPS cung cấp dịch vụ được quản lý hoàn toàn, hợp lý hóa, nhưng chúng có thể hạn chế khả năng đổi mới của một thương hiệu trong bối cảnh thương mại điện tử thay đổi liên tục ngày nay."
+
+Khi doanh thu thương mại điện tử đạt khoảng 10% doanh số bán hàng, các thương hiệu bắt đầu thấy được giá trị của việc nội bộ hóa kênh kinh doanh đó, Stefano Fenili, đối tác của Bain & Co, cho biết. "Điều này không chỉ để kiểm soát trực tiếp một phần có liên quan của doanh số bán hàng, mà còn để kiểm soát trực tiếp những gì đã trở thành một trong những điểm tiếp xúc đầu tiên và quan trọng nhất với người tiêu dùng cuối cùng”.
+
+Vai trò của các trang web thương hiệu đã chuyển từ bán hàng sang điểm đến cho khách hàng trung thành dành thời gian và tìm hiểu về thương hiệu. Trong quá trình chuyển đổi sang thương mại điện tử nội bộ dưới công ty mẹ mới Moncler, trang web của Stone Island giờ đây lưu trữ rất nhiều những kiến thức hiểu biết sâu sắc và câu chuyện của thương hiệu, với mục tiêu không chỉ hỗ trợ thúc đẩy bán hàng mà còn mời gọi khách hàng dành thời gian và quay lại trang web, Giám đốc điều hành của Stone Island, Robert Triefus, gần đây đã chia sẻ với Vogue Business.
+
+TƯƠNG LAI KHÔNG CHẮC CHẮN
+
+Sự khó khăn của các thương hiệu trong việc chuyển đổi từ FPS là hệ thống vận hành khổng lồ, bao gồm quản lý chuỗi cung ứng và hàng tồn kho, kho hàng và thực hiện, phân phối toàn cầu và trả hàng, và dịch vụ khách hàng; chúng cũng có thể mở rộng sang các dịch vụ đa kênh và tiếp thị.
+
+Một thương hiệu sử dụng FPS cho cả cửa hàng trực tuyến và tích hợp thương mại điện tử sẽ cần nhiều hơn chỉ là một nền tảng thương mại điện tử mới. Họ cũng sẽ cần một mạng lưới hậu cần của bên thứ ba và có thể là các hệ thống lập kế hoạch tài nguyên doanh nghiệp mới để quản lý hàng tồn kho và chuỗi cung ứng. Đây không phải là những thay đổi dễ dàng để thực hiện, đặc biệt là làm thế nào để không làm gián đoạn hoạt động hàng ngày của thương hiệu, Negin Yeganegy cho biết. Đối với nhiều thương hiệu, thay đổi dần theo từng giai đoạn thay vì cắt giảm lớn và ngay lập tức có thể giảm thiểu tương đối rủi ro.​​​​​​​​​​​​​​​​
+
+Trong khi có nhiều nhà cung cấp dịch vụ đầu cuối khác, không có nhà cung cấp nào được thiết kế đặc biệt cho thời trang xa xỉ như YNAP và Farfetch, Yeganegy nhận xét. Các lựa chọn thay thế vẫn yêu cầu tùy chỉnh cho các thương hiệu xa xỉ và thường không cung cấp hậu cần đầu cuối và cơ sở hạ tầng toàn cầu giống như FPS, Yeganegy nói thêm, và các thương hiệu sẽ cần kết hợp các nền tảng này với các dịch vụ khác, chẳng hạn như đối tác logistic.
+
+Sau những khó khăn và thách thức của Farfetch, có lẽ các thương hiệu xa xỉ sẽ lo lắng về việc sử dụng dịch vụ kinh doanh của bên thứ ba. Giám đốc điều hành và nhà phân tích bán lẻ của Globaldata, Neil Saunders, cho biết: “Về cơ bản, các thương hiệu không muốn đặt tất cả trứng vào cùng một giỏ - lại còn là giỏ của người khác. Điều đó không có nghĩa là các công ty kinh doanh công nghệ sẽ không còn chỗ đứng - họ vẫn cung cấp sự tiện lợi, linh hoạt và đơn giản với chi phí vốn tối thiểu cho doanh nghiệp - nhưng sẽ có nhiều sự lựa chọn kỹ lưỡng hơn từ các thương hiệu”.

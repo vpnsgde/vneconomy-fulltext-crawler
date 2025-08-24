@@ -1,0 +1,25 @@
+Sở Tài nguyên và Môi trường tỉnh Bà Rịa- Vũng Tàu vừa cho ra mắt ứng dụng “Sổ tay quản lý đất đai” trên thiết bị di động (App) iLand; được thiết kế để vận hành trên hệ điều hành Android và iOS.
+
+Ứng dụng iLand sử dụng công nghệ tiên tiến, được xây dựng trên phương châm đơn giản, dễ sử dụng; gồm nhiều chức năng đáp ứng nhu cầu khai thác, sử dụng thông tin đất đai phục vụ cho toàn xã hội…
+
+
+
+Người sử dụng có thể xem thông tin thửa đất bằng cách chọn trực tiếp trên Bản đồ; hoặc tìm kiếm thông tin theo Số hiệu thửa đất, số hiệu Tờ bản đồ; tên người sử dụng đất; chứng minh nhân dân hoặc căn cước công dân của người sử dụng đất.
+
+Hình thể thửa đất được chồng ghép với Bản đồ vệ tinh cho người sử dụng cái nhìn rõ ràng về tương quan giữa thửa đất với địa vật xung quanh (tiếp giáp đường, tiếp giáp biển, đồi cát, hiện trạng thửa đất đang trồng cây…)
+
+Ứng dụng này cũng có chức năng giúp người dùng định vị dẫn đường đến thửa đất và làm trong suốt, hiện rõ nền quy hoạch.
+
+Ngoài thông tin về thửa đất, đối với các thửa đất đã được cấp Giấy chứng nhận quyền sở hữu nhà ở và tài sản khác gắn liền với đất, ứng dụng cung cấp thêm thông tin về các tài sản đó trên giao diện.
+
+Kế hoạch dự kiến trong thời gian tới, ứng dụng này sẽ tiếp tục tích hợp nhiều tính năng như công bố các khu đất đấu giá; danh sách các khu đất công; phản hồi sai phạm đất đai…
+
+Sở Tài nguyên và Môi trường cho biết, người dùng không nhất thiết phải đăng nhập nhưng vẫn có thể sử dụng ứng dụng. Tuy nhiên việc đăng nhập sẽ cung cấp cho người dùng thêm nhiều chức năng trên ứng dụng.
+
+Cụ thể, nếu người dùng không đăng nhập tài khoản, ứng dụng cung cấp những thông tin cơ bản của thửa đất. Nếu người sử dụng đăng nhập bằng tài khoản Google (không đăng ký khai thác thông tin), ứng dụng cung cấp nhiều thông tin hơn, như tìm kiếm thửa đất; bổ sung thông tin từ dữ liệu thuộc tính để so sánh với dữ liệu không gian.
+
+Nếu người dùng đăng nhập bằng tài khoản Google (có đăng ký khai thác thông tin), ứng dụng sẽ bổ sung cho tài khoản nhiều dịch vụ, tiện ích và thông tin như: Chức năng tìm đường đến thửa đất; Chức năng đo đạc; Bổ sung các thông tin như tình trạng cấp giấy; số tờ, số thửa cũ; thông tin tài sản.
+
+Đối với công chức, viên chức thực hiện công tác liên quan đến ngành Tài nguyên và Môi trường cũng có tài khoản để đăng nhập ứng dụng. Tài khoản này chỉ sử dụng cho công chức, viên chức có thực hiện nhiệm vụ quản lý liên quan đến lĩnh vực Tài nguyên và Môi trường các cấp. Ứng dụng cung cấp chi tiết nhất thông tin về nhóm thông tin thửa đất, người sử dụng đất, tài sản gắn liền với đất, lịch sử biến động…
+
+Được biết, việc thu phí sẽ tùy mức độ khai thác thông tin của người dùng. Theo thông tin từ Sở Tài nguyên và Môi trường, mức phí cung cấp thông tin thửa đất trên ứng dụng iLand là 14.000 đồng/thửa (lượt khai thác).

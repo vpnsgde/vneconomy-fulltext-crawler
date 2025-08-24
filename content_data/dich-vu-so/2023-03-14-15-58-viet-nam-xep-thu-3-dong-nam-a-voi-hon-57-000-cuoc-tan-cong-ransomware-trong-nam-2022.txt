@@ -1,0 +1,15 @@
+Tại Họp báo ngày 14/3 ở TP.HCM, ông Yeo Siang Tiong, Tổng giám đốc Kaspersky khu vực Đông Nam Á chia sẻ: Ransomware (mã độc tống tiền) là mối đe dọa hàng đầu đối với doanh nghiệp tại Đông Nam Á. Trong năm 2022, Kaspersky ghi nhận tổng cộng 304.904 cuộc tấn công ransomware nhắm vào các doanh nghiệp tại khu vực này.
+
+Theo đó, Indonesia ghi nhận số lượng vụ tấn công được giải quyết bằng các giải pháp B2B của Kaspersky cao nhất (có 131.779 vụ), tiếp theo là Thái Lan (82.438 vụ) và Việt Nam xếp thứ ba (57.389 vụ). Philippines đã ghi nhận tổng cộng 21.076 cuộc tấn công ransomware trong khi Malaysia có 11.750 vụ và Singapore có 472 vụ.
+
+"Những kẻ bắt cóc trên môi trường số (Digital kidnappers) đang nhắm đến các doanh nghiệp ở Đông Nam Á. Chuyên gia an ninh mạng Kaspersky dự đoán xu hướng này sẽ tiếp tục trong năm nay và hơn thế nữa vì thủ đoạn sẽ ngày càng tinh vi và có mục tiêu hơn", ông Yeo Siang Tiong cho biết thêm.
+
+Ngoài ra, do tính chất hoàn vốn đầu tư cao, các nhóm ransomware tiếp tục tấn công các doanh nghiệp trên toàn cầu, bao gồm cả các doanh nghiệp ở Đông Nam Á. Một trong những nghiên cứu mới đây của Kaspersky xác nhận 3/5 doanh nghiệp từng là nạn nhân của một cuộc tấn công ransomware. Một số doanh nghiệp bị tấn công một lần, nhưng một nửa đã trở thành con mồi bị tấn công nhiều lần.
+
+Bên cạnh đó, sự thiếu hụt nhân lực an ninh mạng tiếp tục “ám ảnh” các doanh nghiệp. Nghiên cứu của Kaspersky cũng ghi nhận sự thiếu hụt 2,1 triệu nhân viên an ninh địa phương có sẵn trong trường hợp cần thiết và khẩn cấp ở khu vực châu Á - Thái Bình Dương. Và chỉ có 5% lãnh đạo doanh nghiệp cho rằng có khả năng ứng phó sự cố nội bộ hoặc có đội ngũ công nghệ thông tin hoặc nhà cung cấp dịch vụ thường xuyên để tìm ra cuộc tấn công ransomware. Do đó, phần lớn chiếm 94% các doanh nghiệp cần sự trợ giúp từ bên ngoài khi gặp sự cố.
+
+Dịp này, Kaspersky ra mắt giải pháp Kaspersky XDR (Extended Detection and Response). Đây là nền tảng công nghệ bảo mật nhiều lớp dưới dạng các giải pháp và dịch vụ, giúp doanh nghiệp giảm thiểu tổn thất từ tấn công có chủ đích do ransomware gây ra.
+
+Được biết, ransomware là một loại phần mềm độc hại khóa máy tính và thiết bị di động của một cá nhân hoặc mã hóa các tệp điện tử. Thông thường, bọn tội phạm mạng đứng sau hình thức tấn công này sẽ yêu cầu một khoản tiền chuộc từ người dùng nếu muốn có được khoá “giải mã” hoặc lấy lại dữ liệu.
+
+Mối đe doạ ransomware đã trải qua một chặng đường dài kể từ cuộc tấn công ransomware đầu tiên được thực hiện từ năm 1989. Các sự cố có tác động lớn được biết đến bao gồm Wannacry Ransomware với hậu quả ước tính trị giá 4 tỷ USD.

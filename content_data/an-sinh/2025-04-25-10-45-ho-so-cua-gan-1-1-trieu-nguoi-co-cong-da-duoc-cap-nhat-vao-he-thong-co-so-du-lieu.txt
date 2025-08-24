@@ -1,0 +1,19 @@
+Thực hiện Quyết định số 1164 ngày 15/10/2021 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội, Cục Người có công đã chủ trì xây dựng Hệ thống cơ sở dữ liệu người có công với cách mạng, vận hành tại địa chỉ https://csdl-nguoicocong.molisa.gov.vn.
+
+Đây là cơ sở dữ liệu về người có công với cách mạng duy nhất được xây dựng tập trung, thống nhất trên phạm vi cả nước, đảm bảo kết nối với cơ sở dữ liệu quốc gia về dân cư và các phần mềm quản lý người có công tại các địa phương.
+
+Mục tiêu của cơ sở dữ liệu này là trực tiếp phục vụ công tác quản lý, chỉ đạo điều hành, thống kê, báo cáo và thực hiện một số dịch vụ công trực tuyến tại địa phương do cán bộ cấp xã, cấp phòng và cấp sở trực tiếp thực hiện.
+
+Trong quá trình triển khai, với sự quan tâm, phối hợp chặt chẽ của các địa phương, Cục Người có công đã phối hợp với C06, Bộ Công an rà soát, làm sạch, nhập liệu cơ bản đầy đủ đối tượng người có công đang hưởng trợ cấp ưu đãi hằng tháng. Đến nay, đã cập nhật gần 1,1 triệu đối tượng, với hơn 10 trường thông tin cơ bản/1 đối tượng.
+
+Đồng thời, hoàn thành việc cập nhật dữ liệu thông tin liệt sĩ và phần mộ liệt sĩ đã được quy tập. Bên cạnh đó, hệ thống cơ sở dữ liệu người có công với cách mạng đã được Bộ Công an, Bộ Thông tin và Truyền thông (trước đây) rà quét an toàn, an ninh mạng và kết nối thành công với phần mềm dịch vụ công liên thông để thực hiện thủ tục hành chính trực tuyến “Đăng ký khai tử, xóa đăng ký thường trú, hưởng chế độ tử tuất (trợ cấp tuất và trợ cấp mai táng)/hỗ trợ chi phí mai táng/hưởng mai táng phí” khi người có công từ trần.
+
+Thực hiện Nghị quyết số 57-NQ/TW ngày 22/12/2024 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia; đồng thời để có cơ sở vận hành đầy đủ, đồng bộ, toàn điện cơ sở sở dữ liệu người có công với cách mạng và triển khai các dịch vụ công trực tuyến, Cục Người có công đề nghị Sở Nội vụ các địa phương quan tâm phối hợp thực hiện một số nhiệm vụ.
+
+Theo đó, các Sở Nội vụ chỉ đạo, hướng dẫn và giao phòng chuyên môn tập trung giải quyết thủ tục hành chính liên thông mai táng phí, và trợ cấp tuất khi người có công từ trần trên hệ thống cơ sở dữ liệu người có công với cách mạng, vận hành tại địa chỉ https://csdl-nguoicocong.molisa.gov.vn, theo Nghị định số 63/2024/NĐ-CP ngày 10/6/2024 của Chính phủ.
+
+Đồng thời, tiếp tục rà soát, cập nhật thông tin, dữ liệu về người có công do địa phương quản lý vào hệ thống cơ sở dữ liệu người có công với cách mạng.
+
+Lưu ý các thông tin như: Bảo hiểm y tế; trợ cấp ưu đãi giáo dục; điều dưỡng phục hồi sức khỏe; phương tiện trợ giúp, dụng cụ chỉnh hình, phương tiện, thiết bị phục hồi chức năng cần thiết, vật phẩm phụ và vật dụng khác…Phân công cán bộ đầu mối chuyên trách để theo dõi, duy trì và khai thác hiệu quả hệ thống tại địa phương.
+
+Theo Cục Người có công, việc cập nhật và vận hành Hệ thống cơ sở dữ liệu người có công với cách mạng, không chỉ góp phần nâng cao hiệu quả phục phục vụ người dân, mà còn là biểu hiện thiết thực của tinh thần “uống nước nhớ nguồn”, khẳng định trách nhiệm, sự tri ân sâu sắc đối với những người đã cống hiến cho sự nghiệp cách mạng của dân tộc.

@@ -1,0 +1,31 @@
+Mới đây, cơ quan chức năng Indonesia đã tiết lộ rằng sự sụp đổ của hệ thống nhập cư của nước này vào tuần trước là do tin tặc sử dụng ransomware mới để tấn công một trung tâm dữ liệu quan trọng. Cuộc tấn công mạng mới nhất đã làm tê liệt các dịch vụ nhập cư trong nhiều ngày khiến nhiều chuyên gia đã đặt câu hỏi về sự an toàn của dữ liệu cá nhân của công dân.
+
+Các tin tặc gây ra vụ tấn công đã đưa ra yêu cầu tiền chuộc trị giá 8 triệu USD để trả lại quyền kiểm soát máy chủ cho chính phủ Indonesia, tuy nhiên Bộ trưởng Thông tin và Truyền thông Budi Arie Setiadi tuyên bố: “chúng tôi sẽ không bao giờ trả tiền”.
+
+Bộ cũng xác nhận cuộc tấn công đã làm gián đoạn dịch vụ tại 210 tổ chức nhà nước trên toàn quốc nhưng từ chối nêu tên các tổ chức bị ảnh hưởng.Ông Ariandi Putra, người phát ngôn của Cơ quan tiền điện tử và mạng quốc gia (BSSN) cho biết rằng cuộc tấn công được phát hiện lần đầu tiên vào ngày 17 tháng 6 khi cơ quan này nhận được thông báo về “các nỗ lực tắt Windows Defender” – phần mềm giúp xác định virus, phần mềm gián điệp và các phần mềm độc hại khác.
+
+Các cuộc tấn công mạng và vi phạm dữ liệu lớn đều quá phổ biến ở Indonesia. Người đứng đầu BSSN, Hinsa Siburian thừa nhận rằng dữ liệu cá nhân của người Indonesia “đã bị giải mã bởi tin tặc, vì vậy chúng thực sự không an toàn”.
+
+
+
+Hệ thống nhập cư của Indonesia và các dịch vụ công cộng khác đã bị tê liệt do các cuộc tấn công mạng vào cơ sở Trung tâm Dữ liệu Quốc gia Tạm thời ở Surabaya vào ngày 20/6. Mọi người phàn nàn nền tảng truyền thông xã hội X về việc xếp hàng dài tại quầy nhập cảnh ở sân bay khi các quan chức phải kiểm tra hộ chiếu của hành khách theo cách thủ công.
+
+Đến đầu tuần này, hệ thống đang dần được khôi phục. Theo Bộ trưởng Bộ Luật và Nhân quyền Yasonna Laoly, dữ liệu đang được chuyển sang bộ lưu trữ đám mây do Amazon Web Services điều hành. “Chúng tôi buộc phải di chuyển dữ liệu sang AWS. Đây là một giải pháp khẩn cấp vì chúng tôi đang chờ đợi Trung tâm Dữ liệu Quốc gia được khôi phục,” ông nói.
+
+Các dịch vụ nhập cư như cấp hộ chiếu và xử lý thị thực đã hoạt động bình thường trở lại kể từ thứ Hai. Tuy nhiên, các hệ thống công khác, chẳng hạn như cơ quan đăng ký mua sắm điện tử và đăng ký trực tuyến để nhận hỗ trợ học phí đại học, được cho là vẫn không thể truy cập được.
+
+Người phát ngôn của BSSN Ariandi cho biết thêm hôm thứ Ba rằng cuộc tấn công mạng, bao gồm cài đặt các tệp độc hại, xóa các hệ thống tệp quan trọng và vô hiệu hóa các dịch vụ đang chạy bắt đầu lúc 00:54 sáng thứ Năm tuần trước.
+
+Cơ quan này sau đó đã phát hiện ra một tệp trong hệ thống có tên Brain Ciper Ransomware – một đột biến mới của ransomware LockBit 3.0 hung hãn.
+
+Theo công ty an ninh mạng Ensign InfoSecurity có trụ sở tại Singapore, phần mềm tống tiền LockBit 3.0 cùng tên thường được quy cho nhóm ransomware LockBit Gang. Nhóm LockBit Gang là một tập thể xuyên biên giới, có động cơ tài chính, và thường xuyên nhắm mục tiêu vào Indonesia năm 2023.
+
+Công ty phần mềm bảo mật Symantec cho biết nhóm đằng sau Brain Cipher sử dụng phương pháp tống tiền kép, bao gồm việc lấy cắp dữ liệu nhạy cảm và mã hóa nó.
+
+Dữ liệu nhạy cảm được cho là đã bị những kẻ tấn công truy cập bao gồm Hệ thống nhận dạng vân tay tự động của Indonesia do cảnh sát nước này duy trì. Theo công ty bảo mật công nghệ Falcon Feeds, chuyên giám sát các diễn đàn hacker, dữ liệu bị xâm phạm này đã được rao bán trên trang web rò rỉ dữ liệu BreachForums kể từ ngày 22 tháng 6 với giá 1.000 USD.
+
+Wahyudi Djafar, Giám đốc điều hành tại Viện Nghiên cứu và Vận động Chính sách có trụ sở tại Jakarta, cho biết vụ việc đã gióng lên hồi chuông về việc bảo vệ dữ liệu cá nhân của công dân. Đây cũng không phải là lần đầu tiên các cơ quan nhà nước công trở thành mục tiêu của tin tặc. BSSN cho biết họ đang kiểm tra mẫu ransomware để có thể lập kế hoạch giảm thiểu nhằm ngăn chặn những sự cố tương tự trong tương lai.
+
+Cơ sở dữ liệu ở Surabaya bị tin tặc nhắm đến đang được Chính phủ Indonesia sử dụng trong một thỏa thuận tạm thời cho đến khi việc xây dựng trung tâm dữ liệu ở thành phố Cikarang, Tây Java hoàn thành vào tháng 8.
+
+Trung tâm dữ liệu Cikarang có mức giá 176,7 triệu USD và chủ yếu được chính phủ Pháp tài trợ, là cơ sở Cấp IV – cơ sở phức tạp và mạnh mẽ nhất trong bốn cấp trung tâm dữ liệu với thời gian ngừng hoạt động hàng năm dự kiến chỉ là 26,3 phút.

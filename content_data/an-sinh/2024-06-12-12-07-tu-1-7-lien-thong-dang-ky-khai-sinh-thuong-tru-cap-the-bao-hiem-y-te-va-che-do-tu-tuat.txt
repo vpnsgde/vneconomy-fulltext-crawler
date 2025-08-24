@@ -1,0 +1,41 @@
+Chính phủ đã ban hành Nghị định số 63/2024/NĐ-CP ngày 10/6 quy định việc thực hiện liên thông điện tử 2 nhóm thủ tục hành chính: Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi; đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất.
+
+Trong đó, việc thực hiện thủ tục hành chính liên thông điện tử giải quyết hưởng trợ cấp mai táng, trợ cấp tuất do Bảo hiểm xã hội thực hiện áp dụng đối với người chết là người đang hưởng lương hưu, trợ cấp bảo hiểm xã hội hằng tháng, hoặc đang tham gia bảo hiểm xã hội tự nguyện.
+
+Việc thực hiện thủ tục hành chính liên thông điện tử giải quyết hỗ trợ chi phí mai táng, hưởng trợ cấp mai táng, trợ cấp tuất do ngành Lao động - Thương binh và Xã hội thực hiện áp dụng đối với người chết là người đang hưởng chính sách bảo trợ xã hội, người có công với cách mạng.
+
+Theo Nghị định này, việc tổ chức tiếp nhận, giải quyết thủ tục hành chính trên môi trường điện tử được thực hiện hợp lý, khoa học, bảo đảm yêu cầu khai thác, tái sử dụng dữ liệu phục vụ cải cách, đơn giản hóa thủ tục hành chính giữa các cơ quan, tổ chức và người yêu cầu, không yêu cầu nộp bản giấy; chuyển phương thức xử lý từ tiền kiểm sang hậu kiểm.
+
+Việc thực hiện thủ tục hành chính liên thông điện tử tại Nghị định này có giá trị pháp lý như các hình thức khác theo quy định của pháp luật; không làm tăng chi phí cho cá nhân, tổ chức.
+
+Kết quả giải quyết của thủ tục hành chính thuộc nhóm thủ tục hành chính liên thông điện tử là thành phần hồ sơ của thủ tục khác trong nhóm, sẽ được hệ thống tự động chia sẻ, để hoàn thiện hồ sơ gửi đến cơ quan có thẩm quyền giải quyết theo quy định.
+
+Các thông tin trong tờ khai điện tử quy định tại Nghị định này đã có trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu hộ tịch điện tử, Cơ sở dữ liệu quốc gia về Bảo hiểm, hệ thống thông tin có liên quan, được Phần mềm dịch vụ công liên thông điền tự động.
+
+Hồ sơ, biểu mẫu điện tử của từng thủ tục sẽ được Phần mềm dịch vụ công liên thông tự động phân tách, để chuyển cho các cơ quan có thẩm quyền giải quyết theo đúng quy định.
+
+Hồ sơ đăng ký khai sinh, khai tử được Phần mềm dịch vụ công liên thông đồng bộ về Hệ thống thông tin giải quyết thủ tục hành chính cấp tỉnh. Hồ sơ đăng ký thường trú, xóa đăng ký thường trú, hồ sơ cấp thẻ Bảo hiểm y tế cho trẻ em dưới 6 tuổi, hồ sơ đề nghị hưởng trợ cấp mai táng, tử tuất được đồng bộ về phần mềm nghiệp vụ của các bộ, ngành có liên quan.
+
+Nghị định quy định cụ thể về thành phần hồ sơ, phương thức nộp hồ sơ, quy trình tiếp nhận, giải quyết và trả kết quả đối với các thủ tục hành chính liên thông điện tử.
+
+Theo đó, việc nộp hồ sơ thuận lợi khi người yêu cầu chỉ cần truy cập vào Cổng Dịch vụ công quốc gia (tại địa chỉ dichvucong.gov.vn), hoặc trên ứng dụng VNeID (ứng dụng định danh điện tử), lựa chọn mục “Dịch vụ công liên thông khai sinh, khai tử” để thực hiện nộp hồ sơ trực tuyến và lệ phí theo quy định.
+
+Trường hợp người yêu cầu chỉ lựa chọn thực hiện liên thông 2 thủ tục hành chính (Đăng ký khai tử, xóa đăng ký thường trú); hoặc 3 thủ tục hành chính (Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí); hoặc 4 thủ tục hành chính (Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất), Phần mềm dịch vụ công liên thông sẽ điều chỉnh nội dung tờ khai điện tử, và giấy tờ phải đính kèm theo nội dung liên thông, mà người yêu cầu đã lựa chọn. Từ đó, để người yêu cầu thực hiện nộp hồ sơ trực tuyến theo quy định.
+
+Về thời gian giải quyết, đối với nhóm thủ tục hành chính liên thông “Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi”, không quá 3 ngày làm việc, kể từ khi các cơ quan có thẩm quyền giải quyết nhận đầy đủ hồ sơ theo quy định. Trường hợp phải xác minh thì không quá 5 ngày làm việc.
+
+Thời gian giải quyết đối với nhóm thủ tục hành chính liên thông “Đăng ký khai tử, xóa đăng ký thường trú, giải quyết mai táng phí, tử tuất”: Giải quyết trợ cấp mai táng, tử tuất đối với nhóm người có công không quá 18 ngày làm việc.
+
+Giải quyết hỗ trợ chi phí mai táng đối với nhóm đối tượng bảo trợ xã hội không quá 6 ngày làm việc, và không quá 11 ngày làm việc đối với trường hợp đối tượng là người từ đủ 80 tuổi trở lên đang hưởng trợ cấp tuất hằng tháng. Trợ cấp mai táng, trợ cấp tử tuất đối với đối tượng do ngành Bảo hiểm xã hội giải quyết không quá 9 ngày làm việc.
+
+Việc trả kết quả thủ tục hành chính, bản giấy được thực hiện tại Bộ phận Một cửa của các cơ quan giải quyết thủ tục hành chính, hoặc qua dịch vụ bưu chính công ích theo đề nghị của người yêu cầu.
+
+Với bản điện tử được các hệ thống tự động gửi đến người yêu cầu qua kho quản lý dữ liệu điện tử của tổ chức, cá nhân trên Cổng Dịch vụ công quốc gia, ứng dụng VNeID và Hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh.
+
+Kể từ ngày Nghị định 63/2024/NĐ-CP có hiệu lực (10/6/2024) đến ngày 1/7/2024, các Hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh, phần mềm nghiệp vụ của các Bộ, ngành, địa phương phải nâng cấp, hoàn thiện kết nối, chia sẻ, thông suốt với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu quốc gia về thủ tục hành chính, Cơ sở dữ liệu quốc gia về Bảo hiểm, Cơ sở dữ liệu chuyên ngành và Phần mềm dịch vụ công liên thông theo quy định của Nghị định này.
+
+Kể từ ngày 1/7/2024, hồ sơ 2 nhóm thủ tục hành chính liên thông điện tử được tiếp nhận, giải quyết theo quy định tại Nghị định 63/2024/NĐ-CP.
+
+
+
+Theo Bảo hiểm xã hội Việt Nam, 2 nhóm dịch vụ công trực tuyến liên thông “Đăng ký khai sinh -   Đăng ký thường trú - Cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi” và “Đăng ký khai tử - Xóa đăng ký thường trú - Trợ cấp mai táng, hỗ trợ chi phí mai táng” triển khai chính thức trên toàn quốc từ ngày 10/7/2023. Qua đó, đã giúp cắt giảm thời gian giải quyết các thủ tục hành chính này từ 21 ngày xuống còn 4 ngày làm việc. Người dân chỉ khai thông tin 1 lần để giải quyết 3 thủ tục hành chính.

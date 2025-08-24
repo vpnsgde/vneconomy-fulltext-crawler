@@ -1,0 +1,39 @@
+Một công ty khởi nghiệp có tên Conceivable Life Sciences đang nỗ lực tự động hoá hoàn toàn phòng thí nghiệm IVF. Theo Business Insider, Conceivable đang tận dụng robot để thực hiện quy trình IVF từ cố định tinh trùng đến hút tinh trùng vào kim tiêm và nhét vào những quả trứng mà chúng đã lấy ra từ chất lỏng...
+
+Joshua Abram, Giám đốc điều hành và Đồng sáng lập của Conceivable khẳng định với Business Insider: “Chúng tôi hiện đang thực hiện ICSI xuyên lục địa. Chúng tôi là công ty đầu tiên trên thế giới làm điều này".
+
+Ngày nay, nhu cầu IVF ngày càng tăng cao. Thế nhưng, quá trình điều trị còn diễn ra chậm chạp, không chắc chắn và tốn kém. Ở Mỹ, IVF đắt ngang một chiếc ô tô mới, nhiều bệnh nhân phải đi vay mượn để thực hiện ước mơ làm cha mẹ. Nhận thấy những vấn đề này, Conceivable đã được ra đời.
+
+Conceivable đã huy động được 20 triệu USD vốn đầu tư mạo hiểm để “đánh cược” rằng robot sẽ cách mạng IVF. Các nhà đồng sáng lập cho biết tự động hóa sẽ xử lý các tế bào cực nhỏ khéo léo hơn so với bàn tay con người. Thêm vào đó, công nghệ cũng sẽ giúp giảm chi phí chữa trị cho các bệnh nhân. Công ty khởi nghiệp này có kế hoạch tính phí 15.000 USD/bệnh nhân chỉ khi phương pháp này thành công. Điều này đã giúp các bệnh nhân của họ tiết kiệm hàng chục nghìn USD.
+
+Năm 2017, hai nhà đồng sáng lập đầu tiên của Conceivable là Joshua Abram và Alan Murray đến thăm các phòng thí nghiệm IVF và họ nhận ra hầu hết đều không được tự động hóa. Trứng và phôi được lưu trữ và dán nhãn một cách thủ công để phân biệt. Năm 2018, họ quyết định thành lập TMRW Life Sciences, công ty sản xuất một loại máy ATM tương lai có thể lưu trữ trứng và phôi an toàn hơn.
+
+Tò mò về cách thức hoạt động của robot, hai nhà đồng sáng lập của công ty này tiếp tục đi tham quan phòng thí nghiệm San Francisco của công ty công nghệ sinh học Invitae, nơi xử lý các mẫu DNA. Cơ sở rộng 50.000 foot vuông chứa đầy robot trong khi chỉ có khoảng ba lao động là con người. "Có cả một thế giới khác ngoài IVF đã tìm ra cách sử dụng robot", họ nói.
+
+Một mảnh ghép khác là tiến sĩ Alejandro Chávez-Badiola, bác sĩ nội tiết sinh sản và vô sinh (REI), người giám sát IVF. Sau khi được đào tạo ở Anh, ông đã mở phòng khám đầu tiên ở Guadalajara với một đội ngũ các nhà phôi học đáng tin cậy, tuy nhiên các công cụ mà họ sử dụng rất hạn chế.
+
+Khi một trong những bệnh nhân trẻ, khỏe mạnh của họ không mang thai sau hai chu kỳ IVF, Tiến sĩ Alejandro Chávez-Badiola đã rất trăn trở. Sau đó, ông tìm đến các giáo sư, nhà toán học và kỹ sư để đưa trí tuệ nhân tạo vào IVF. Họ đã đào tạo một mô hình AI để xếp hạng tinh trùng dựa trên dữ liệu bệnh nhân thực. Máy tính này sẽ cho họ biết nên chọn tinh trùng nào dựa trên các kiểu chuyển động liên quan đến việc tạo phôi.
+
+Vào tháng 3/2020, Tiến sĩ Alejandro Chávez-Badiola vô tình gặp Joshua Abram và Alan Murray tại London (trước đó họ từng biết đến nhau khi tham gia một sự kiện về IVF). Sau đó, họ giữ mối quan hệ và trao đổi với nhau nhiều hơn. Vào năm 2022, tận dụng sự phát triển của robot và AI, họ quyết định cùng nhau thành lập Conceivable.
+
+Nhiệm vụ khi mới thành lập của họ là chế tạo robot và AI có khả năng thay thế con người thực hiện năm giai đoạn của phòng thí nghiệm IVF: chuẩn bị trứng, chọn lọc tinh trùng, thụ tinh, ấp trứng và đông lạnh.
+
+Thời gian đầu, các robot được luyện tập trên trứng chuột đồng và thỏ tại văn phòng của Conceivable ở Guadalajara. Sau đó, chúng được chuyển đến phòng khám của Tiến sĩ Chávez-Badiola để phục vụ năm mươi bệnh nhân vô sinh tình nguyện tham gia.
+
+Vào ngày 6/3, công ty khởi nghiệp Conceivable đã phát trực tiếp quá trình robot thụ thai tới các nhà khoa học. Nhà sáng lập Murray nhớ lại: “Nó giống như một vụ phóng tên lửa”. Quá trình thụ thai được thực hiện như sau, đầu tiên là lựa chọn tinh trùng bằng các tia laser AI. Sau đó, một trong các robot sẽ hút các tinh trùng vào trong một chiếc kim, theo đuôi trước. Tiếp theo, robot còn lại di chuyển chiếc kim của nó đến gần quả trứng và dùng lực hút để giữ nó cố định.
+
+Tia laser được điều khiển bằng AI bắn một cái nêm ra khỏi màng ngoài cùng của trứng để dọn đường cho tinh trùng. Khi kim tinh trùng bay lơ lửng ngay tại điểm giữa của trứng, robot đầu tiên đã sử dụng "động lực học chất lỏng" và các kỹ thuật khác để định vị tinh trùng ở phần đầu của trứng.
+
+Lúc này, máy tính hỏi các nhà khoa học: "Bạn đã sẵn sàng tiêm chưa?". Gerardo Mendizabal-Ruiz, Kỹ sư đồng thời cũng là Phó chủ tịch hàng đầu của Conceivable, đã nhấn nút “có” và mọi người đã nín thở.
+
+Một tín hiệu điện làm rung động cơ tinh thể ở đầu kim giữ tinh trùng, giúp một lưỡi dao nhỏ dễ dàng cắt vào màng trứng hơn. Chiếc kim đi vào nhưng không quá xa: Sáu thuật toán đã ngăn nó đâm vào mặt bên kia của quả trứng. Sau đó, sử dụng một luồng không khí nhỏ, robot thải tinh trùng ra và rút lại.
+
+Tiếng vỗ tay nổ ra trên Zoom. Conceivable lặp lại quá trình này cho đến khi nó tạo ra được 5 phôi, từ tổng cộng 12 quả trứng. Một trong những phôi thai đã giúp một bệnh nhân mang thai thành công vào tháng 4 năm nay.
+
+Theo công ty khởi nghiệp, hiện nay, các thiết bị mới đã được cải tiến đủ để hoạt động trên các tiêu chuẩn ngành. Nhưng phần lớn chúng chưa được đưa vào thử nghiệm.
+
+Tháng 9 này, Conceivable có kế hoạch triển khai một nghiên cứu lâm sàng khác ở Thành phố Mexico. Khi đó, một nửa số trứng sẽ được thực hiện tại phòng thí nghiệm thông thường, trong khi nửa còn lại sẽ được chuyển đến các robot. Tuy nhiên, lần này, các robot sẽ tự động hóa mọi quy trình IVF cho mọi mẫu vật, từ đầu đến cuối.
+
+Tuy nhiên, việc chứng minh công nghệ chỉ là bước một. Trong lĩnh vực chăm sóc sức khỏe, thách thức lớn hơn đối với các công ty là kết nối với hệ thống hiện có. Theo đó, trong ngắn hạn, Conceivable có kế hoạch hợp tác với các trung tâm IVF hiện có để cung cấp cho họ các giải pháp công nghệ.
+
+Vè lâu dài, Conceivable có kế hoạch điều hành các phòng thí nghiệm độc lập hợp tác với OBGYN, những người giám sát chăm sóc bệnh nhân cho đến việc lấy trứng và làm việc trong phòng thí nghiệm. Nếu mọi việc diễn ra theo đúng kế hoạch, Conceivable cho rằng họ có thể vận hành các phòng thí nghiệm ngay sau năm 2025.

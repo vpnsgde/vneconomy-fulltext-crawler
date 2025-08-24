@@ -1,0 +1,21 @@
+Công ty Cổ phần Viễn thông FPT (FPT Telecom) vừa cho biết HĐQT của đơn vị này vừa phê duyệt chủ trương đầu tư dự án tuyến cáp quang biển Asia Link Cable nối Việt Nam đi quốc tế.
+
+Thông qua việc phê duyệt chủ trương đầu tư dự án tuyến cáp quang biển này, FPT Telecom dự kiến tổng chi phí đầu tư là 87 triệu USD (khoảng 2.100 tỷ đồng). Khoản tiền đầu tư được FPT Telecom huy động từ vốn vay ngân hàng và vốn đầu tư phát triển kinh doanh của đơn vị này.
+
+Nhà mạng này cho biết, trong năm 2023, số tiền dự kiến phải bỏ ra để đầu tư cho tuyến cáp là 300 tỷ đồng. Đơn vị sẽ tự đầu tư, cài đặt, quản lý, khai thác điểm trạm cập bờ tại Đà Nẵng. Nhà mạng này cho biết, tuyến cáp ALC hiện cũng chưa có nhà mạng nào trong nước tham gia.
+
+Dự án xây dựng tuyến cáp quang biển ALC dự kiến sẽ tiêu tốn 300 triệu USD và được hoàn thành vào quý 3/2025. Tuyến cáp quang biển ALC có sự tham gia đầu tư của nhiều tên tuổi lớn trong ngành viễn thông khu vực như China Telecom Global Limited (CTG), Globe Telecom, Inc. (Globe), DITO Telecommunity Corporation (DITO), Singapore Telecommunications Limited (Singtel) và Unified National Networks Sdn Bhd (UNN).
+
+Tuyến Asia Link Cable mà FPT Telecom muốn tham gia có chiều dài khoảng 6.000 km. Tuyến cáp này kết nối nhiều địa điểm tại khu vực châu Á như Hong Kong, Hải Nam (Trung Quốc), Luna, Bauang (Philippines), Tungku (Brunei) và Changi (Singapore).
+
+Theo thiết kế, hệ thống cáp quang biển ALC sẽ có tối thiểu 8 cặp cáp quang, với dung lượng thiết kế đường trục tối thiểu 18 Tbps trên mỗi cặp cáp. Khi hoàn thành, tuyến cáp này sẽ góp phần bổ sung thêm dung lượng và tính đa dạng cho mạng lưới Internet hiện có trong khu vực.
+
+Việt Nam hiện đang có 5 tuyến cáp quang biển kết nối quốc tế gồm Asia America Gateway (AAG), APG (Asia Pacific Gateway), SMW3, Intra Asia (IA, còn gọi là Liên Á) và Asia- Africa- Euro 1 (AAE-1).
+
+Ngoài ra, trong thời gian qua, 2 nhà mạng khác là VNPT và Viettel đã tham gia vào các liên minh để đầu tư xây dựng các tuyến cáp biển mới SJC2 và ADC. Theo tiến độ, trong năm nay, 2 tuyến cáp quang biển này sẽ được xây dựng xong và đưa vào vận hành chính thức. Với việc có thêm các tuyến cáp này, trong năm 2023, tổng số tuyến cáp biển các doanh nghiệp Việt Nam khai thác, sử dụng sẽ được nâng lên 7 tuyến và đến năm 2025 dự kiến sẽ là 8 tuyến cáp quang biển.
+
+Tuy nhiên, trong thời gian qua, cả 5 tuyến cáp quang biển đều gặp sự cố, ảnh hưởng tới đường truyền kết nối Internet Việt Nam đi quốc tế và đến nay mới chỉ có 1 tuyến cáp được phục hồi.
+
+Trước tình trạng trên, đặt ra vấn đề cần thiết triển khai thêm các tuyến cáp quang biển, nhiều hướng kết nối khác nhau do các doanh nghiệp Việt Nam chung tay xây dựng, triển khai các phương án cụ thể để đáp ứng nhu cầu phát triển, đảm bảo kết nối Internet Việt Nam đi quốc tế.
+
+Theo định hướng, dự kiến đến năm 2025, tổng số tuyến cáp quang biển mà các doanh nghiệp Việt Nam sử dụng sẽ khoảng 10 tuyến. Việc đi vào hoạt động của các tuyến cáp quang biển mới sẽ góp phần bổ sung thêm dung lượng nhằm giải quyết nhu cầu kết nối Internet đi quốc tế.

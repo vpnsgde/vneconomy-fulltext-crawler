@@ -1,0 +1,15 @@
+Theo Kế hoạch, để triển khai kịp thời, nghiêm túc, đồng bộ, thống nhất và hiệu quả công tác chuyển đổi số, UBND Thành phố ban hành Kế hoạch "Triển khai một số nhiệm vụ đảm bảo công tác chuyển đổi số trong cơ quan nhà nước Thành phố khi thực hiện mô hình chính quyền địa phương 2 cấp", gồm 7 nhiệm vụ và nguyên tắc rà soát cập nhật, tổ chức lại các nền tảng số, hệ thống thông tin, cụ thể như sau:
+
+Về rà soát, hoàn thiện thể chế, văn bản định hướng, chiến lược, chương trình, kế hoạch: Sở Khoa học và Công nghệ phối hợp với các Sở, ban, ngành và UBND các quận, huyện, thị xã và cơ quan, tổ chức liên quan điều chỉnh, bổ sung Kế hoạch số 43 của UBND Thành phố đối với các nội dung triển khai Nghị quyết số 57 của Bộ Chính trị về đột phá phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số quốc gia; Nghị quyết số 03 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết số 57-NQ/TW; Kế hoạch số 402 của UBND Thành phố về Chuyển đổi số, xây dựng Thành phố thông minh năm 2025.
+
+Đồng thời, ban hành Kiến trúc số, phiên bản 4.0 phù hợp với mô hình tổ chức chính quyền Thành phố và phù hợp với Khung kiến trúc Chính phủ số Việt Nam, phiên bản 4.0 và mã định danh điện tử đối với các đơn vị hành chính sau sắp xếp trong vòng 15 ngày kể từ khi quyết định tổ chức lại đơn vị hành chính có hiệu lực.
+
+Đối với các nền tảng số, hệ thống thông tin phục vụ chuyển đổi số: Các Sở, ban, ngành phối hợp Sở Khoa học và Công nghệ, UBND các quận, huyện, thị xã và cơ quan, tổ chức liên quan tổ chức lại các nền tảng số, hệ thống thông tin đang vận hành, khai thác hoặc đang trong giai đoạn thiết kế, xây dựng, phát triển; hướng dẫn UBND các quận, huyện, thị xã xây dựng phương án sử dụng dữ liệu chuyên ngành đã hình thành tại cơ sở phù hợp với mô hình chính quyền địa phương 2 cấp; tổ chức tập huấn, hướng dẫn sử dụng hệ thống thông tin cho cán bộ, công chức, viên chức ngay sau khi thực hiện mô hình chính quyền địa phương 2 cấp, hoàn thành phương án trong 15 ngày kể từ khi Kế hoạch được ban hành.
+
+Về lưu trữ điện tử: Sở Nội vụ phối hợp Sở Khoa học và Công nghệ, các Sở, ban, ngành, UBND các quận, huyện, thị xã và cơ quan, tổ chức liên quan hướng dẫn các đơn vị thực hiện theo quy định về lưu trữ điện tử và Công văn số 851 của Bộ Nội vụ về số hóa tài liệu trong quá trình sắp xếp, tổ chức bộ máy của hệ thống chính trị, hoàn thành trong 15 ngày.
+
+Về hạ tầng kỹ thuật: Rà soát, đánh giá hiện trạng hạ tầng công nghệ thông tin dùng chung Thành phố và hạ tầng công nghệ thông tin tại các đơn vị bảo đảm hệ thống sẵn sàng hoạt động ngay khi quyết định tổ chức lại đơn vị hành chính có hiệu lực.
+
+UBND Thành phố yêu cầu tập trung triển khai nhiệm vụ về kết nối, liên thông dữ liệu giữa chính quyền cấp xã, cấp tỉnh và trung ương; về công tác xử lý tài sản là phần mềm, hệ thống thông tin và an toàn thông tin.
+
+UBND Thành phố giao Sở Khoa học và Công nghệ theo dõi, đôn đốc các Sở, ban, ngành; UBND các quận, huyện, thị xã và các cơ quan, tổ chức có liên quan triển khai thực hiện các nhiệm vụ nêu trong Kế hoạch theo đúng tiến độ.

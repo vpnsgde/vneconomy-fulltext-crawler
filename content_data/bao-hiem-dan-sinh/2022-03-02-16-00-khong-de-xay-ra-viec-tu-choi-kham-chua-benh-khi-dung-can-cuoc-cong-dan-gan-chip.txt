@@ -1,0 +1,25 @@
+Bảo hiểm xã hội Việt Nam nhấn mạnh yêu cầu này trong Công văn số 533 vừa ban hành về việc triển khai thí điểm sử dụng căn cước công dân gắn chip trong khám chữa bệnh bảo hiểm y tế.
+
+Thời gian vừa qua, Bảo hiểm xã hội Việt Nam đã phối hợp với Bộ Công an thực hiện chia sẻ khoảng 33 triệu lượt thông tin công dân có trong cơ sở dữ liệu về bảo hiểm với cơ sở dữ liệu quốc gia về dân cư để xác thực.
+
+Đồng thời, xây dựng các giải pháp kỹ thuật để đảm bảo việc tra cứu thông tin về thẻ bảo hiểm y tế qua thẻ căn cước công dân gắn chip. Theo đó, thông tin thẻ bảo hiểm y tế của nhiều người dân đã được tích hợp trong dữ liệu về căn cước công dân.
+
+Để triển khai hiệu quả việc thí điểm sử dụng căn cước công dân gắn chip hoặc qua ứng dụng VNEID (ứng dụng định danh điện tử quốc gia của Bộ Công an) trong khám chữa bệnh bảo hiểm y tế, Tổng Giám đốc Bảo hiểm xã hội Việt Nam yêu cầu bảo hiểm xã hội các tỉnh, thành phố phối hợp chặt chẽ với Sở Y tế, các cơ sở khám chữa bệnh bảo hiểm y tế thông báo tại các địa điểm trong cơ sở khám chữa bệnh để người dân dễ tiếp cận nhất.
+
+Do việc xác thực thông tin công dân giữa cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu quốc gia về bảo hiểm đang được hoàn thiện, lưu ý người bệnh đi khám chữa bệnh lần đầu nên mang theo thẻ bảo hiểm y tế kèm giấy tờ tuỳ thân có ảnh, hoặc điện thoại thông minh có tích hợp ứng dụng VssID – Bảo hiểm xã hội số.
+
+Trường hợp người bệnh bảo hiểm y tế đã thực hiện được việc khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chip, hoặc ứng dụng VNEID thì từ lần khám bệnh sau chỉ cần xuất trình căn cước công dân hoặc qua ứng dụng VENID.
+
+Trường hợp căn cước công dân chưa kịp tích hợp dữ liệu thẻ bảo hiểm y tế, hoặc người tham gia bảo hiểm y tế chưa được cấp tài khoản VNEID, người bệnh có thẻ bảo hiểm y tế thực hiện việc khám chữa bệnh theo quy trình khám chữa bệnh bảo hiểm y tế hiện hành (xuất trình thẻ bảo hiểm y tế và giấy tờ tùy thân có ảnh, hoặc sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để khám chữa bệnh).
+
+Bảo hiểm xã hội các địa phương thông báo và cung cấp tới các cơ sở khám chữa bệnh bảo hiểm y tế tài liệu hướng dẫn tra cứu thông tin thẻ bảo hiểm y tế thông qua căn cước công dân gắn chip.
+
+Cụ thể, tra cứu trực tiếp trên Cổng tiếp nhận dữ liệu Hệ thống Thông tin giám định bảo hiểm y tế tại địa chỉ https://gdbhyt.baohiemxahoi.gov.vn (quét mã vạch/nhập trực tiếp) hoặc tra cứu bằng hàm tra cứu tự động (API).
+
+Bên cạnh đó, cần hỗ trợ kịp thời cho cơ sở khám chữa bệnh bảo hiểm y tế và người tham gia bảo hiểm y tế trong quá trình sử dụng căn cước công dân gắn chip khi đi khám chữa bệnh bảo hiểm y tế. Đôn đốc, kiểm tra giám sát các cơ sở khám chữa bệnh để không xảy ra hiện tượng từ chối khám chữa bệnh khi người dân cung cấp căn cước công dân gắn chip, mà thông tin này đã được đồng bộ giữa cơ sở dữ liệu quốc gia về bảo hiểm và cơ sở dữ liệu quốc gia về dân cư.
+
+Bảo hiểm xã hội Việt Nam đánh giá, việc thực hiện từng bước đồng bộ dữ liệu quốc gia về bảo hiểm với dữ liệu quốc gia về dân cư, xây dựng các giải pháp kỹ thuật để đảm bảo việc tra cứu thông tin về bảo hiểm y tế qua thẻ căn cước công dân gắn chip… giúp người dân, doanh nghiệp tiết kiệm đáng kể thời gian, chí phí đi lại. Nhất là đảm bảo thực hiện tốt các biện pháp phòng, chống dịch Covid-19 trong bối cảnh dịch bệnh còn diễn biến phức tạp như hiện nay.
+
+
+
+Thực hiện Quyết định số 06/QĐ-TTg của Thủ tướng Chính phủ phê duyệt Đề án triển khai ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến 2030, nhằm tạo thuận lợi cho người dân khi đi khám chữa bệnh bảo hiểm y tế, ngày 28/2/2022, Bộ Y tế ban hành Công văn số 931 về việc hướng dẫn triển khai thí điểm khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chip.

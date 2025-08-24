@@ -1,0 +1,47 @@
+Nhằm đảm bảo quyền lợi người dùng và minh bạch hóa thị trường, Hiệp hội Blockchain Việt Nam (VBA) tổ chức hội thảo chủ đề Khung pháp lý quản lý tài sản ảo (VA) và nhà cung cấp dịch vụ tài sản ảo (VASP) tại TP.HCM, chiều 5/6.
+
+Theo VBA, chỉ còn chưa đầy một năm là đến tháng 5/2025, thời hạn ban hành khung pháp lý tài sản ảo theo cam kết của Chính phủ nhằm thực hiện Kế hoạch Quốc gia về Phòng chống rửa tiền và chống tài trợ khủng bố, được ban hành theo Quyết định 194/QĐ-TTg ngày 23/2/2024 và đưa Việt Nam ra khỏi danh sách xám của Lực lượng đặc nhiệm tài chính toàn cầu (FATF).
+
+Trong đó, các vấn đề trọng tâm liên quan đến quản lý VA-VASP được quy định tại hành động 6 (yêu cầu hoàn thiện khung pháp lý để cấm hoặc quản lý VA-VASP trước thời điểm tháng 5/2025) và hành động 7 (yêu cầu phổ biến chính sách ở khu vực tư nhân).
+
+Tại hội thảo Khung pháp lý quản lý VA-VASP, các chuyên gia đã thảo luận về các quy định pháp luật từ góc độ bảo vệ người dùng, tìm hiểu một số mô hình quản lý VA-VASP được đánh giá là tiến bộ như Đạo luật Tài sản mã hóa MiCA có hiệu lực từ cuối năm 2024 của Liên minh châu Âu và Luật Quản lý Tài sản Mã hóa của Hồng Kông.
+
+Theo luật sư Nguyễn Trần Minh Quân, điểm chung của hai khung pháp lý MiCA và Hồng Kông đều nhấn mạnh việc bảo vệ người dùng thông qua cấp phép VASP, chống rửa tiền, chống tài trợ khủng bố (AML/CFT), đảm bảo tính minh bạch, quyền riêng tư, lưu ký tài sản của khách hàng và các tiêu chuẩn hoạt động nghiêm ngặt.
+
+“Tuy nhiên, trong khi MiCA tập trung vào việc điều hòa quy định trên toàn EU, cung cấp một khung pháp lý nhất quán có lợi cho các hoạt động xuyên biên giới thì Hồng Kông chú trọng vào các án phạt nghiêm ngặt và các tiêu chuẩn cao về bảo vệ tài sản của khách hàng”, ông Quân nhấn mạnh.
+
+Đồng quan điểm này, đồng sáng lập viên Hiệp hội Blockchain Hồng Kông ông Tony Tống, cho biết: Khung pháp lý toàn diện của MiCA hay Hồng Kông đặt ra các thách thức cho các VASP như chi phí tuân thủ nhưng cũng mang lại những cơ hội lớn, gia tăng tin tưởng của người dùng, thúc đẩy sự tham gia thị trường và sự phát triển của hệ sinh thái tài sản mã hóa.
+
+Thông tin từ cộng đồng gửi về cho VBA, nhiều đơn vị không rõ thông tin như CrossFi, Mineplex, ALEO... thường xuyên tổ chức những hội thảo kín, lợi dụng hình ảnh nhằm thu hút huy động vốn từ các nhà đầu tư cá nhân. Nhiều báo cáo từ người dùng gửi về VBA về việc họ bị lừa đảo thông qua việc gửi, nạp tiền lên các nền tảng sàn giao dịch, ví không rõ thông tin như MEXC, Gate.io, BingX… khá phổ biến.
+
+Theo các quy định hiện nay, các VASP hoạt động không phép tại Việt Nam có nguy cơ vi phạm Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân khi thu thập dữ liệu cá nhân không hợp pháp; không bảo vệ dữ liệu cá nhân; sử dụng dữ liệu cá nhân không đúng mục đích.
+
+Về phía các cơ quan quản lý và đối với chính các VASP, ông Phan Đức Trung, Phó Chủ tịch thường trực VBA cho rằng việc xây dựng khung pháp lý quản lý VA-VASP và tuân thủ cần có sự kết hợp giữa các kinh nghiệm thực tiễn từ ngành tài chính truyền thống, đặc biệt là các nguyên tắc quản lý rủi ro của ngành tài chính truyền thống với chuyên môn sâu về các công nghệ mới.
+
+Trong đó, các nguyên tắc tuân thủ cơ bản như: Hiểu khách hàng của bạn (KYC), Hiểu doanh nghiệp của bạn (KYB), Hiểu trung gian của bạn (KYI), Hiểu giao dịch của bạn (KYT),... trong ngành tài chính truyền thống cũng cần phải được áp dụng đối với lĩnh vực quản lý tài sản ảo nhằm đảm bảo quyền lợi khách hàng, sự bền vững của hệ thống và thúc đẩy đổi mới sáng tạo.
+
+Ông Đỗ Ngọc Quỳnh, Tổng thư ký Thị trường Trái phiếu Việt Nam, nhấn mạnh: Tài sản ảo và các hoạt động xung quanh đó là một thực tế xã hội đã và đang tồn tại quy mô lớn ở Việt Nam và trên toàn cầu. Tài sản ảo cũng có thể được coi là một trong nhiều sự đổi mới sáng tạo, ứng dụng công nghệ tiên tiến trong quá trình phát triển của xã hội hướng tới đáp ứng tốt hơn nhu cầu của con người.
+
+“Chính sự hưởng ứng và tham gia mạnh mẽ của người dùng trên toàn cầu và Việt Nam cho thấy sự sáng tạo này đã phần nào đáp ứng tốt nhu cầu phát triển của xã hội. Các ý tưởng sáng tạo thưởng đi trước sự phát triển của khung pháp lý vả luôn mang đến cả những tác động tích cực và tiêu cực đối với xã hội. Vì vậy, việc hình thành khung pháp lý là cần thiết và nên được làm sớm để bảo vệ người dùng chân chính, tận dụng tối ưu các lợi thế của công nghệ mới cho sự phát triển của xã hội đồng thời hạn chế những tác động trái chiều”, ông Quỳnh chia sẻ.
+
+Thực tế, do thiếu khung pháp lý hoàn chỉnh, các quy định liên quan đến VA-VASP nằm rải rác ở 19 văn bản quy phạm pháp luật, dẫn tới tình trạng các hoạt động huy động vốn cộng đồng, gian lận, tiếp thị quảng bá dịch vụ tài sản ảo vẫn diễn ra tràn lan không phép, bao gồm cả trong khu vực các trường đại học và núp bóng dưới nhiều hoạt động phổ biến kiến thức.
+
+Thực tế, việc hoán đổi tài sản, đặc biệt là các giao dịch tài chính và bất động sản như mua bán stablecoin, khai thác coin, bán token ứng dụng trong GameFi, hay bán NFT, được điều chỉnh trong Luật Thuế, Luật Phòng, chống rửa tiền 2022 của Việt Nam. Từ đó, có thể dẫn đến nguy cơ các VASP này vi phạm quy định về thuế hay phòng chống rửa tiền.
+
+Ông Phan Đức Trung, Phó Chủ tịch thường trực Hiệp hội Blockchain Việt Nam cho biết, trong bối cảnh này, việc cộng đồng chung tay xây dựng các bộ tiêu chuẩn đạo đức, tiêu chuẩn cộng đồng, tiêu chuẩn dự án và ứng dụng công nghệ RegTech (công nghệ hỗ trợ tuân thủ quy định) truy vết on-chain có thể góp phần giảm thiểu tối đa tình trạng gian lận, lừa đảo liên quan đến tài sản ảo.
+
+Ngoài ra, RegTech sử dụng các công nghệ tiên tiến như trí tuệ nhân tạo (AI), học máy (machine learning), phân tích dữ liệu lớn (BigData) và Blockchain để tự động hóa và tối ưu hóa quá trình tuân thủ các quy định pháp luật, giúp giảm bớt công việc thủ công, tăng độ chính xác và minh bạch trong báo cáo.
+
+Các giải pháp RegTech hàng đầu thế giới được cung cấp bởi Chainalysis, Certik, Elliptic,... hay tại Việt Nam, chương trình truy vết tài sản ảo Chain Tracer đóng vai trò quan trọng trong việc kiểm soát hoạt động của VA-VASP, chống lừa đảo và đảm bảo tuân thủ AML/CFT.
+
+Theo nghiên cứu mới nhất của Hội đồng Đại Tây Dương (AC), tính tới tháng 12/2023, có 32/60 quốc gia đã chính thức hợp pháp hóa tài sản mã hóa. Đặc biệt, 10 quốc gia trong nhóm G20 (chiếm 50% GDP toàn cầu) đều đã chính thức ban hành quy định quản lý Tài sản ảo (VA) và Nhà cung cấp dịch vụ tài sản ảo (VASP).
+
+Trên phạm vi toàn cầu, vấn đề khung pháp lý tài sản ảo ngày càng được quan tâm sâu sắc. Điển hình như Mỹ, hiện có khoảng 50 dự luật ảnh hưởng đến tiền mã hóa đang được xem xét ở các giai đoạn khác nhau tại Quốc hội nước này. Một số quốc gia như Thụy Sĩ đã đưa Bitcoin vào chương trình đào tạo đại học nhằm nâng cao năng lực cho sinh viên trước khi ra trường.
+
+Riêng tại Trung Quốc, mặc dù không đạt được tiêu chí nào nhưng vấn đề khung pháp lý tại quốc gia này cần được xem xét trên các khía cạnh hoàn toàn khác biệt do yếu tố địa chính trị. Thực tế, Trung Quốc không cấm tài sản mã hóa mà phân chia quản lý ở những vùng khu kinh tế khác nhau để tạo ra lợi thế về khu vực.
+
+Cụ thể, tại đại lục, Trung Quốc phát triển một mạng Blockchain Service Network (BSN) của Chính phủ nước này để quản lý tất cả các tài sản trong nước. Mạng BSN gồm 3 mạng hướng tới phân chia đối tượng sử dụng từ khu vực công tới doanh nghiệp cũng như trong nước và quốc tế.
+
+Ngoài ra, các tài sản ảo trên toàn cầu sẽ được ưu tiên cạnh tranh thông qua Hồng Kông. Chính phủ Trung quốc chủ trương thúc đẩy đặc khu kinh tế này thành khu vực được ưu tiên phát triển thị trường bằng khung pháp lý hoàn chỉnh, cởi mở và được coi là bài học kinh nghiệm cho nhiều quốc gia khác.
+
+Tại khu vực châu Á, Campuchia, một quốc gia láng giềng của Việt Nam, dù chưa có khung pháp lý hoàn chỉnh nhưng cũng đã có quy định về cấp phép VASP trong khi Nhật Bản, Hàn Quốc, Singapore, Thái Lan đều đã có đầy đủ khung pháp lý quản lý VA-VASP.

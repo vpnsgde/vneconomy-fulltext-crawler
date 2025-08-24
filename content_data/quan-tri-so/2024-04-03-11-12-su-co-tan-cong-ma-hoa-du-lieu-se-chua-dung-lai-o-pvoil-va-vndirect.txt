@@ -1,0 +1,33 @@
+Ngày 2/4/2024 thêm một doanh nghiệp nữa đó là PVOIL gặp sự cố tấn công bất hợp pháp có chủ đích theo hình thức mã hóa dữ liệu-Ransomware. Sự cố tấn công mạng đã khiến hệ thống công nghệ thông tin của PVOIL bị ngưng trệ, trong đó có hệ thống phát hành hóa đơn điện tử phục vụ bán hàng tạm thời không thể thực hiện được. PVOIL cũng cho biết đã có văn bản báo cáo các cơ quan chức năng và đang tích cực xử lý nhằm khắc phục sự cố trên trong thời gian sớm nhất.
+
+Trước sự cố xảy ra với PVOIL, một doanh nghiệp Việt Nam khác là Công ty cổ phần chứng khoán VNDIRECT cũng đã bị tấn công ransomware. Sau hơn 1 tuần kể từ thời điểm phát hiện sự cố, với sự hỗ trợ của các cơ quan chức năng cùng đội ngũ chuyên gia an toàn, an ninh mạng đến từ các doanh nghiệp an toàn, an ninh mạng lớn của Việt Nam, sự cố đã cơ bản được khắc phục và hệ thống của VNDIRECT đã khôi phục hoạt động giao dịch từ ngày 1/4.
+
+Chia sẻ những cảnh báo tấn công và khuyến nghị về an ninh mạng với VnEconomy sáng 3/4/2024, chuyên gia Vũ Ngọc Sơn, Giám đốc công nghệ Công ty An ninh mạng quốc gia Việt Nam (NCS) cho hay: Chỉ trong thời gian ngắn, hàng loạt vụ tấn công mã hoá dữ liệu nghiêm trọng xảy ra, từ chứng khoán, năng lượng, viễn thông, y tế… Hình thức tấn công của tin tặc trong các vụ việc vừa qua tương đối giống nhau: tấn công nằm vùng một thời gian, sau đó thực hiện mã hoá dữ liệu tống tiền.
+
+Tuy nhiên, kỹ thuật tấn công các vụ lại không giống nhau nên khả năng đây là các cuộc tấn công của những nhóm tội phạm khác nhau. Chưa có bằng chứng cho thấy đây là một chiến dịch có tổ chức. Tuy nhiên cũng không loại trừ khả năng này vì các vụ việc liên tiếp xảy ra trong một thời gian khá ngắn.
+
+Để thực hiện mã hoá dữ liệu, tin tặc phải có đủ thời gian để biết dữ liệu nào quan trọng. Vì vậy, tin tặc sẽ phải cài các mã độc nằm vùng, thu thập thông tin hàng ngày, từ đó phân tích, đánh giá và lựa chọn mục tiêu để mã hoá dữ liệu. Với tổ chức có càng nhiều thành phần và càng phức tạp thì thời gian nằm vùng phải càng lâu.
+
+Theo ông Sơn, mặc dù nhận thức về đảm bảo an ninh mạng của các doanh nghiệp, tổ chức tại Việt Nam đã nâng cao đáng kể, tuy nhiên việc triển khai các giải pháp đề phòng vẫn chưa thực sự tương xứng. Trong khi các cuộc tấn công mạng ngày càng tinh vi, đặc biệt có sự tham gia của các nhóm tội phạm lớn quốc tế. Vì vậy các hệ thống tại Việt Nam luôn ở trong tình trạng có thể bị tấn công bất cứ lúc nào.
+
+Do đó, các tổ chức, doanh nghiệp cần chủ động hơn trong việc phòng chống. Ngoài việc rà soát lỗ hổng, tăng cường các giải pháp công nghệ, các doanh nghiệp, tổ chức lớn cần xây dựng một đội ngũ chuyên trách về an ninh mạng để bảo vệ hệ thống.
+
+Bên cạnh đó, cần triển khai mô hình bảo vệ bốn lớp theo khuyến cáo của Bộ Thông tin và Truyền thông, trong đó yêu cầu thuê dịch vụ giám sát an ninh mạng chuyên nghiệp để đảm bảo khách quan, khắc phục điểm yếu con người của hệ thống, phát hiện kịp thời khi hệ thống bị tấn công, xâm nhập.
+
+Để hạn chế những rủi ro nguy cơ tấn công hệ thống, chuyên gia này nhấn mạnh, “ngay lúc này, doanh nghiệp, tổ chức cần chuẩn bị các phương án khẩn trương đưa các hệ thống quan trọng vào giám sát an ninh mạng 24/7. Việc giám sát liên tục sẽ giúp phát hiện ra các trường hợp xâm nhập hệ thống từ sớm, loại bỏ nguy cơ bị nằm vùng theo dõi”.
+
+Cùng với đó, khẩn trương thực hiện backup dữ liệu quan trọng, tốt nhất là thiết lập được hệ thống dự phòng backup định kỳ. Sẵn sàng quy trình ứng phó sự cố, nếu có điều kiện tổ chức diễn tập để rút kinh nghiệm, bổ sung, hoàn thiện quy trình với các trải nghiệm thực tế.
+
+Ngoài ra cần chú trọng đào tạo nhận thức an ninh mạng, nâng cao kỹ năng của người dùng; rà soát, kiểm tra an ninh định kỳ cho toàn bộ hệ thống công nghệ thông tin và cơ sở dữ liệu.
+
+Trước thực trạng hệ thống VNDIRECT và một số doanh nghiệp, tổ chức Việt Nam bị tấn công ransomware gây gián đoạn hoạt động, trong các ngày 27/3 và 30/3, Cục An toàn thông tin phát cảnh báo, đề nghị các công ty chứng khoán cùng các cơ quan, tổ chức, doanh nghiệp trên toàn quốc rà soát và triển khai bảo đảm an toàn cho các hệ thống thông tin thuộc phạm vi quản lý.
+
+Cục An toàn thông tin nêu rõ, qua theo dõi, giám sát không gian mạng, đơn vị này phát hiện xu hướng tấn công mạng, đặc biệt là mã hóa tấn công tống tiền (ransomware) tăng cao. Đặc biệt, trong thời gian gần đây, đã có một số hệ thống thông tin của cơ quan, tổ chức, doanh nghiệp tại Việt Nam bị sự cố tấn công, gây gián đoạn hoạt động và thiệt hại về vật chất, hình ảnh của các cơ quan, tổ chức, doanh nghiệp, cũng như hoạt động bảo đảm an toàn không gian mạng quốc gia.
+
+Trước thực trạng trên, Cục An toàn thông tin đề nghị các cơ quan, tổ chức, doanh nghiệp rà soát, tăng cường các giải pháp bảo đảm an toàn thông tin mạng cho các hệ thống thông tin, ưu tiên các giải pháp giám sát, cảnh báo sớm. Thực hiện kiểm tra, đánh giá đảm bảo an toàn thông tin các hệ thống thông tin thuộc phạm vi quản lý. Trong trường hợp phát hiện các nguy cơ, lỗ hổng, điểm yếu, cần lập tức triển khai các biện pháp khắc phục, đặc biệt là các hệ thống thông tin lưu trữ, xử lý thông tin cá nhân, dữ liệu cá nhân.
+
+Các đơn vị doanh nghiệp rà soát, tổ chức triển khai bảo đảm an toàn thông tin theo cấp đội. Xây dựng kế hoạch ứng phó sự cố với hệ thống thông tin thuộc phạm vi quản lý theo quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc. Triển khai phương án sao lưu định kỳ hệ thống và dữ liệu quan trọng để kịp thời khôi phục khi bị tấn công mã hóa dữ liệu.
+
+Bên cạnh đó thực hiện định kỳ săn lùng mối nguy hại để phát hiện kịp thời các dấu hiệu hệ thống bị xâm nhập. Đối với hệ thống đã phát hiện lỗ hổng bảo mật nghiêm trọng, sau khi khắc phục lỗ hổng, cần thực hiện ngay việc săn lùng mối nguy hại nhằm xác định khả năng bị xâm nhập trước đó.
+
+Kiểm tra, cập nhật bản vá an toàn thông tin cho các hệ thống quan trọng theo cảnh báo của Cục An toàn thông tin và các cơ quan, tổ chức liên quan; định kỳ kiểm tra, đánh giá, rà soát để phát hiện kịp thời các lổ hỗng an toàn thông tin, các điểm yếu đang tồn tại trên hệ thống.

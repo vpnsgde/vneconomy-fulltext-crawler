@@ -1,0 +1,28 @@
+Tại hội nghị giao ban quản lý nhà nước quý 2/2024 trực tuyến của Bộ Thông tin và Truyền thông với các Sở Thông tin và Truyền thông trên toàn quốc, các cơ quan chuyên trách về công nghệ thông tin các bộ, ngành tổ chức ngày 13/6/2024, Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng cho biết vừa qua đã có 4 vụ tấn công mạng thành công vào doanh nghiệp. Đây đều là các cuộc tấn công vào những doanh nghiệp có đầu tư đáng kể cho an toàn, an ninh mạng vàphải có cách tiếp cận mới để nâng cao khả năng chống chịu của hệ thống thông tin. Ngay sau đây, Bộ Thông tin và Truyền thông sẽ có văn bản gửi các bộ, ngành, địa phương, doanh nghiệp, trong đó chú trọng phương án hồi phục nhanh hệ thống.
+
+Tấn công mạng thành công có nghĩa là hệ thống sụp đổ và không hoạt động. Trong số 4 hệ thống bị tấn công, có những hệ thống phải mất hàng chục ngày để khôi phục.
+
+“Đây là một cảnh báo lớn cho toàn bộ các hệ thống công nghệ thông tin của các bộ, ngành và địa phương. Bởi ngay cả với các doanh nghiệp đầu tư cho công nghệ thông tin và an toàn, an ninh mạng khá tốt và có nguồn lực nội bộ để bảo vệ, nhưng vẫn bị tấn công thành công”, Bộ trưởng nhấn mạnh.
+
+Vừa qua, Bộ trưởng Bộ Thông tin và Truyền thông đã chủ trì cuộc họp với Cục An toàn thông tin và một số doanh nghiệp an toàn, an ninh mạng cung cấp dịch vụ. Bộ trưởng cho biết tại cuộc họp, đã có nhiều định hướng, cách tiếp cận mới để nâng cao khả năng chống chịu của các hệ thống.
+
+Bộ sẽ có văn bản gửi các bộ, ngành, địa phương, doanh nghiệp, trong đó nhấn mạnh chú trọng phương án hồi phục nhanh hệ thống khi bị tấn công, có nghĩa là dữ liệu không bị mất, không bị mã hóa.
+
+Để dữ liệu không bị mất, không bị mã hóa, phải có phương án dự phòng backup offline và sẵn sàng phương án phục hồi nhanh sau tấn công. Hiện nay, đã có một số doanh nghiệp công nghệ an ninh mạng có giải pháp, cung cấp dịch vụ hồi phục chỉ trong 1 ngày.
+
+
+
+Điều quan trọng nhất với các tổ chức, doanh nghiệp là không để bị đánh cắp dữ liệu, bảo vệ  backup dữ liệu để khi bị tấn công mã hóa vẫn còn một phiên bản trọn vẹn và hồi phục nhanh.
+
+4 cuộc tấn công vừa qua thêm một lần nữa cảnh báo tới các bộ ngành, địa phương, doanh nghiệp quan tâm đến an ninh mạng, giống như vụ tấn công Vietnam Airlines trước đây đã làm thay đổi nhận thức của các bộ ngành, địa phương, các cấp về an toàn, an ninh mạng.
+
+Bộ Thông tin và Truyền thông yêu cầu Cục An toàn thông tin rà soát lại hệ thống thông tin các bộ ngành, hướng dẫn các địa phương bảo vệ dữ liệu và hồi phục nhanh. Đây là điểm mấu chốt.
+
+Cũng tại Hội nghị, Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long lưu ý vừa qua, Thủ tướng Chính phủ có Công điện số 33/CĐ-TTg ngày 7/4/2024 về tăng cường bảo đảm an toàn thông tin mạng trong đó yêu cầu các Bộ, ngành, địa phương phải phê duyệt cấp độ, triển khai cấp độ.
+
+Theo đó, bảo đảm 100% hệ thống thông tin từ cấp độ 1- 5 đang vận hành phải được phê duyệt cấp độ an toàn. Thời hạn phê duyệt cấp độ an toàn chậm nhất tháng 9/2024 và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt chậm nhất tháng 12/2024.
+
+Thứ trưởng Phạm Đức Long cho biết Bộ Thông tin và Truyền thông sẽ công bố công khai những địa phương chưa hoàn thành việc phê duyệt cấp độ.
+
+Cùng với đó, Bộ Thông tin và Truyền thông sẽ ban hành hướng dẫn chi tiết bảo đảm an toàn thông tin theo nguyên tắc phục hồi nhanh nhất khi sự cố xảy ra, trong đó chú trọng phương án khôi phục nhanh hệ thống, dữ liệu sau khi bị tấn công.
+

@@ -1,0 +1,21 @@
+Chuyên gia Bkav vừa cho biết, bốn lỗ hổng Windows có thể bị khai thác thành chuỗi tấn công. Cụ thể, 2 lỗi thực thi mã từ xa, 1 lỗi leo thang đặc quyền và 1 lỗi vượt qua tính năng bảo mật Secure Boot. Trong điều kiện lý tưởng, hacker có thể kết hợp 4 lỗ hổng tạo thành chuỗi tấn công hoàn hảo. Microsoft đã khắc phục các lỗi này trong bản vá tháng Năm (Patch Tuesday). Người dùng cần lập tức cập nhật để tránh xảy ra một cuộc tấn công trên diện rộng.
+
+Lỗ hổng đầu tiên (mã định danh CVE-2023-29325) là một lỗi thực thi mã từ xa trong công nghệ OLE (Object Linking & Embedding) trên Windows, ảnh hưởng đến Outlook. Để khai thác, hacker gửi một email lừa đảo độc hại đến người dùng. Chỉ cần nạn nhân mở email bằng phần mềm Outlook, hoặc ứng dụng Outlook hiển thị bản xem thử của email, kẻ tấn công có thể thực thi mã từ xa và chiếm quyền điều khiển hoàn toàn thiết bị.
+
+Lỗ hổng thứ hai, CVE-2023-29336, là lỗi leo thang đặc quyền trong trình điều khiển nhân Win32k của hệ điều hành. Khai thác thành công, tin tặc có thể leo thang từ người dùng lên đặc quyền SYSTEM (quyền cao nhất trong hệ điều hành), từ đó cài cắm mã độc trên thiết bị mục tiêu và duy trì quyền truy cập. Lỗ hổng hiện đang bị khai thác trong các cuộc tấn công thực tế.
+
+Lỗ hổng thứ ba, CVE-2023-24932, tạo điều kiện để hacker vượt qua tính năng khởi động an toàn Secure Boot. Để khai thác, tin tặc tìm cách “nằm vùng” hoặc chiếm quyền quản trị trên thiết bị mục tiêu, từ đó cài mã độc bootkit lên firmware (phần sụn) hệ thống. Bootkit này cho phép hacker chiếm quyền kiểm soát quá trình khởi động thiết bị, nằm vùng lâu hơn và tránh bị phát hiện bởi các giải pháp an ninh.
+
+Nguy hiểm nhất là lỗ hổng thực thi mã từ xa CVE-2023-24941 (điểm nghiêm trọng CVSS 9,8/10), có thể là bàn đạp để hacker tấn công sâu vào các hệ thống khác. Lỗ hổng tồn tại trong giao thức chia sẻ tệp tin trong mạng NFS (Network File System) của Windows. Kẻ tấn công chưa được xác thực có thể gửi một lệnh tự tạo đặc biệt đến dịch vụ NFS, từ đó giành quyền kiểm soát các máy chủ Windows. CVE-2023-24941 ảnh hưởng đến Windows Server 2012, 2016, 2019 và 2022 và đặc biệt không yêu cầu tương tác người dùng.
+
+Ông Nguyễn Văn Cường, Giám đốc An ninh mạng của Bkav, nhận định: Thực hiện thành công các bước tấn công, hacker có thể kiểm soát toàn bộ hệ thống, đánh cắp thông tin nhạy cảm... Đặc biệt, lỗ hổng CVE-2023-29325 khiến người dùng đứng trước nguy cơ trở thành nạn nhân của các chiến dịch lừa đảo bằng email (phishing). Việc tấn công bằng hình thức này khá dễ dàng, chi phí thấp và có thể thực hiện trên phạm vi rộng, do đó mức ảnh hưởng sẽ rất lớn.
+
+"Trong những điều kiện lý tưởng, tin tặc có thể kết hợp 4 lỗ hổng trên để tạo thành một chuỗi tấn công. Đầu tiên, lừa nạn nhân click vào email giả mạo để khai thác CVE-2023-29325, từ đó chiếm quyền thực thi mã từ xa trên thiết bị mục tiêu", ông Cường nói.
+
+Tiếp theo, hacker sẽ leo thang đặc quyền từ mức người dùng lên đặc quyền hệ thống qua CVE-2023-29336, sau đó lây nhiễm phần mềm độc hại và duy trì quyền truy cập trên thiết bị.
+
+Khi đã nằm vùng trên thiết bị, hacker có thể khai thác tính năng bảo mật Secure Boot bằng CVE-2023-24932, cài cắm các phần mềm độc hại và duy trì sự hiện diện trên hệ thống nạn nhân.
+
+Cuối cùng, lợi dụng CVE-2023-24941 để khai thác sâu vào các máy chủ Windows.
+
+Do đó, Bkav khuyến cáo người dùng cần lập tức cập nhật hệ điều hành Windows lên phiên bản mới nhất (cập nhật bản vá tại đây). Đồng thời, người dùng không nên mở email lạ không rõ nguồn gốc, nếu phát hiện bất thường trên hệ thống cần liên hệ đội ngũ chuyên môn để rà soát, xử lý.

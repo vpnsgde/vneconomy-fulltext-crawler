@@ -1,0 +1,25 @@
+Theo ước tính của các nhà phân tích mà Bloomberg khảo sát, lợi nhuận hoạt động của nhà sản xuất điện thoại thông minh và chip nhớ lớn nhất thế giới được dự báo giảm khoảng 90% xuống còn 1,45 nghìn tỷ Won (1,1 tỷ USD) trong quý 1 vừa qua. Đây là mức lợi nhuận thấp nhất của công ty này kể từ năm 2009. Một số nhà phân tích thậm chí dự báo lợi nhuận quý 1 của Samsung Electronics giảm xuống dưới mức 1 nghìn tỷ Won. Công ty Hàn Quốc dự kiến công bố kết quả kinh doanh sơ bộ vào ngày 7/4.
+
+Trong đại dịch Covid-19, ngành công nghiệp bán dẫn trải qua giai đoạn thăng hoa khi nhu cầu tăng vọt nhờ việc người tiêu dùng đổ xô mua máy tính và điện thoại thông minh. Theo đó, các nhà sản xuất chip như Samsung thu về lợi nhuận lớn, đồng thời phải tăng cường sản xuất. Tuy nhiên, doanh thu chip của Samsung bắt đầu giảm khi các biện pháp phong tỏa và hạn chế phòng dịch Covid được gỡ bỏ, sau đó giảm mạnh hơn nữa trong bối cảnh lạm phát và lãi suất tăng nhanh cùng với các bất ổn kinh tế toàn cầu khác.
+
+Tất cả những điều này khiến ngành công nghiệp chip nhớ 160 tỷ USD rơi vào cảnh cung lệch cầu. Tồn kho của các nhà sản xuất tăng lên, còn giá chip DRAM và NAND giảm mạnh. Mảng sản xuất chip của Samsung, nhà sản xuất chip nhớ lớn nhất thế giới, được dự báo lỗ khoảng 2,7 tỷ USD trong quý 1.
+
+“Vấn đề lớn nhất lúc này là tồn kho chip đang quá lớn, và để giảm tồn kho, công ty (Samsung Electronics) sẽ phải cắt giảm sản xuất”, nhà phân tích Lee Seung-woo của Eugene Investment & Securities, nhận xét.
+
+Theo công ty nghiên cứu thị trường TrendForce, giá chip DRAM - loại chip nhớ dùng để xử lý dữ liệu trong máy tính và điện thoại - đã giảm 20% trong quý 1 năm nay và được dự báo sẽ giảm thêm 10-15% trong quý 2. Còn giá chip lưu trữ NAND đã giảm 15%, được dự báo giảm thêm 5-10% trong quý 2.
+
+“Trong quý 1, giá chip nhớ đã giảm sâu hơn so với các dự báo của thị trường do nhu cầu quá thấp”, nhà phân tích Baik Gilhyun của Yuanta Securities nói. “Giá sẽ tiếp tục giảm nhưng với tốc độ chậm hơn trong quý hiện tại”.
+
+Theo số liệu từ Bộ Thương mại Hàn Quốc, xuất khẩu chip tháng 3 của nước này đã giảm 34,5%, sau khi giảm hơn 40% vào tháng trước. Tổng kim ngạch xuất khẩu tháng 3 sang Trung Quốc - đối tác thương mại lớn nhất của Hàn Quốc  đã giảm 33,4% trong bối cảnh nền kinh tế lớn thứ hai thế giới đang chứng kiến suy giảm tăng trưởng.
+
+Ông Sanjay Mehrotra, giám đốc điều hành công ty chip nhớ Micron Technology Inc. của Mỹ, tỏ ra lạc quan về sự phục hồi của thị trường chip trong năm nay khi tồn kho giảm và nhu cầu tăng lên. Tuy nhiên, ông cho rằng tình hình thị trường có được cải thiện hay không phụ thuộc vào việc các nhà sản xuất có giảm sản lượng hay không.
+
+“Sự phục hồi sẽ được đẩy nhanh nếu nguồn cung được cắt giảm hơn nữa”, ông nói.
+
+Trong khi các đối thủ như Micron, SK Hynix Inc. và Kioxia đều đã giảm đầu tư vào sản xuất chip cũng như cắt giảm sản lượng nhằm ghìm đà giảm giá, Samsung Electronics vẫn đang tiếp tục thực hiện các kế hoạch của mình.
+
+Hiện được điều hành bởi ông Lee Jae-yong - cháu nội của người sáng lập, Samsung Electronics cho biết chiến lược của công ty từ trước đến nay là tiếp tục đầu tư trong các giai đoạn suy giảm kinh tế để tăng vị thế cạnh tranh. Cách tiếp cận này có thể giúp công ty nắm bắt thị phần và phát triển các công nghệ mới để cạnh tranh với những đối thủ như Hynix và Micron khi mà các công ty này không có tiền để theo kịp.
+
+Tại thành phố Pyeongtaek, tỉnh Gyeonggi, Hàn Quốc, các công nhân của Samsung vẫn đang bận rộn làm việc trên dây chuyền sản xuất chip thứ tư của công ty. Samsung dự kiến bổ sung thêm hai dây chuyền sản xuất nữa vào cuối thập kỷ này. Ngoài chip nhớ, Samsung cũng đang cố gắng mở rộng sang thị trường chip bán dẫn - thị trường hiện do công ty Đài Loan TSMC thống trị. Samsung hiện có kế hoạch đầu tư 300 nghìn tỷ Won (229 tỷ USD) vào các khu tổ hợp sản xuất chip khổng lồ tại Yongin (tỉnh Gyeonggi) trong hai thập kỷ tới.
+
+Dù các đối thủ cũng như các nhà đầu tư kêu gọi Samsung giảm sản lượng chip, Samsung dường như không có ý định làm theo. Hồi tháng 2, ông Lee đã nói với các lãnh đạo của công ty rằng “không nên sợ hãi” trước những thách thức của ngành và kiên định với chiến lược tiếp tục đầu tư trong tương lai.

@@ -1,0 +1,31 @@
+Phó Thủ tướng Trần Lưu Quang vừa ký ban hành Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân. Nghị định quy định về bảo vệ dữ liệu cá nhân và trách nhiệm bảo vệ dữ liệu cá nhân của cơ quan, tổ chức, cá nhân có liên quan.
+
+Nghị định này áp dụng đối với các cơ quan, tổ chức, cá nhân Việt Nam, và những cơ quan, cá nhân tổ chức nước ngoài tại Việt Nam, trực tiếp tham gia hoặc có liên quan đến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.
+
+Trong đó, dữ liệu cá nhân được hiểu là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con người cụ thể hoặc giúp xác định một người cụ thể.
+
+Dữ liệu cá nhân bao gồm dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm. Dữ liệu cá nhân cơ bản gồm họ và tên, ngày tháng năm sinh, giới tính, nơi sinh, quốc tịch, hình ảnh cá nhân, số điện thoại, số chứng minh nhân dân, căn cước công dân, số tài khoản, số định danh cá nhân, biển số xe, mã số thuế,...
+
+Với dữ liệu cá nhân nhạy cảm, đây là những dữ liệu gắn liền với quyền riêng tư của cá nhân mà khi bị xâm phạm sẽ ảnh hưởng trực tiếp đến quyền và lợi ích hợp pháp của người đó. Ví dụ như quan điểm chính trị, tôn giáo, tình trạng sức khỏe, nguồn gốc chủng tộc, đặc điểm di truyền, đời sống tình dục, dữ liệu vị trí, thông tin khách hàng của tổ chức tín dụng,...
+
+Dữ liệu cá nhân sẽ được xử lý theo quy định pháp luật. Chủ thể dữ liệu được biết về hoạt động liên quan tới xử lý dữ liệu cá nhân của mình. Dữ liệu cá nhân chỉ được lưu trữ trong khoảng thời gian phù hợp với mục đích xử lý dữ liệu. Cơ quan, tổ chức, cá nhân vi phạm quy định bảo vệ dữ liệu cá nhân tùy theo mức độ có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc xử lý hình sự theo quy định.
+
+Chính phủ cũng đã ban hành một số hành vi bị nghiêm cấm trong Nghị định bảo vệ dữ liệu cá nhân. Các hành vi này bao gồm việc xử lý dữ liệu cá nhân trái quy định pháp luật, xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu nhằm chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam.
+
+Cụ thể, bảo vệ dữ liệu cá nhân trong kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo. Điều 21 quy định: Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo chỉ được sử dụng dữ liệu cá nhân của khách hàng được thu thập qua hoạt động kinh doanh của mình để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo khi có sự đồng ý của chủ thể dữ liệu.
+
+Ngoài ra, việc xử lý dữ liệu cá nhân của khách hàng để kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo phải được sự đồng ý của khách hàng, trên cơ sở khách hàng biết rõ nội dung, phương thức, hình thức, tần suất giới thiệu sản phẩm. Tổ chức, cá nhân kinh doanh dịch vụ tiếp thị, giới thiệu sản phẩm quảng cáo có trách nhiệm chứng minh việc sử dụng dữ liệu cá nhân của khách hàng được giới thiệu sản phẩm đúng với quy định.
+
+Đối với việc thu thập, chuyển giao, mua, bán trái phép dữ liệu cá nhân, tổ chức, cá nhân có liên quan tới xử lý dữ liệu cá nhân phải áp dụng các biện pháp bảo vệ dữ liệu cá nhân để ngăn chặn tình trạng thu thập dữ liệu cá nhân trái phép từ hệ thống, trang thiết bị dịch vụ của mình.
+
+Đồng thời, việc thiết lập các hệ thống phần mềm, biện pháp kỹ thuật hoặc tổ chức các hoạt động thu thập, chuyển giao, mua, bán dữ liệu cá nhân không có sự đồng ý của chủ thể dữ liệu là vi phạm pháp luật.
+
+Bên cạnh đó, hành vi xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu gây ảnh hưởng tới an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân khác cũng bị nghiêm cấm.
+
+Trong trường hợp khẩn cấp, để bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc người khác, và các trường hợp khẩn cấp về an ninh, quốc phòng, dịch bệnh, thảm họa,... bên kiểm soát dữ liệu và cơ quan nhà nước có thẩm quyền có thể xử lý dữ liệu cá nhân mà không cần sự đồng ý của chủ thể dữ liệu.
+
+Cơ quan, tổ chức có thẩm quyền cũng được ghi âm, ghi hình và xử lý dữ liệu cá nhân thu được từ hoạt động này tại nơi công cộng với mục đích bảo vệ an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân mà không cần sự đồng ý của chủ thể dữ liệu.
+
+Với dữ liệu cá nhân của trẻ em, việc xử lý các dữ liệu này phải có sự đồng ý của trẻ em trong trường hợp trẻ từ 7 tuổi trở lên và có sự đồng ý của cha, mẹ hoặc người giám hộ, trừ một số trường hợp đặc biệt.
+
+Nghị định cũng quy định rõ quyền và nghĩa vụ của chủ thể dữ liệu, cùng với đó là trách nhiệm của các cơ quan, chủ thể, cá nhân trong việc bảo vệ dữ liệu cá nhân. Nghị định có hiệu lực thi hành từ ngày 1/7/2023.

@@ -1,0 +1,35 @@
+Trước đây khi nói đến sản phẩm công nghệ nổi bật, người ta thường nhắc đến điện thoại thông minh, máy tính bảng, máy chơi game... Tuy nhiên năm nay, giới công nghệ đang tập trung vào một bộ phận máy tính mà thậm chí người dùng sẽ không bao giờ có thể nhìn thấy được chính là bộ vi xử lý CPU (chip).
+
+Đáng chú ý, “siêu chip” H100 của Nvidia đã tạo ra một thế hệ công cụ trí tuệ nhân tạo (AI) mới hứa hẹn sẽ thay đổi toàn bộ ngành công nghiệp, đưa Nvidia trở thành một trong những công ty có vốn hóa lớn nhất thế giới.
+
+Đối với Nvidia, AI đang trở thành mỏ vàng mang lại nguồn doanh thu lớn. Nhu cầu về chip H100 lớn đến mức một số khách hàng phải đợi tới 6 tháng nữa mới có thể nhận được.
+
+Chip H100 là phiên bản mạnh mẽ hơn của bộ xử lý đồ họa thường có trong PC và giúp người chơi game/xem video có được trải nghiệm hình ảnh chân thực nhất. Nó bao gồm công nghệ biến các cụm chip Nvidia thành các đơn vị duy nhất có thể xử lý khối lượng dữ liệu khổng lồ và thực hiện tính toán ở tốc độ cao. Điều đó làm cho nó trở nên hoàn toàn phù hợp cho nhiệm vụ đào tạo các mạng lưới thần kinh (Neural Network) làm nền tảng cho AI.
+
+Được thành lập vào năm 1993, Nvidia đã đi tiên phong trong thị trường này với các khoản đầu tư có niên đại gần hai thập kỷ, khi họ đặt cược rằng khả năng thực hiện tác vụ song song của những con chip một ngày nào đó sẽ trở nên có giá trị trong các ứng dụng ngoài chơi game.
+
+Nvidia cho biết chip H100 nhanh hơn 4 lần so với chip tiền nhiệm A100 trong việc đào tạo mô hình ngôn ngữ lớn (LLM) và phản hồi nhanh hơn 30 lần trước những yêu cầu từ người dùng. Kể từ khi phát hành H100 vào năm 2023, Nvidia đã công bố các phiên bản cải tiến hơn là H200, Blackwell B100 và B200.
+
+Đối với các công ty đang chạy đua đào tạo LLM để thực hiện các nhiều tác vụ mới, lợi thế hiệu suất của các con chip từ Nvidia rất quan trọng. Nhiều chip của Nvidia được coi là chìa khóa để phát triển AI đến mức Chính phủ Mỹ đã hạn chế bán H200 và một số mẫu có hiệu năng thấp hơn sang Trung Quốc.
+
+Nvidia có trụ sở tại Santa Clara, California và là công ty hàng đầu thế giới về chip đồ họa, card đồ họa (GPU). Bộ xử lý mạnh nhất của Nvidia được xây dựng với hàng nghìn lõi xử lý thực hiện nhiều luồng tính toán đồng thời, mô hình hóa các kết xuất 3D phức tạp như bóng và phản chiếu.
+
+Vào đầu những năm 2000, các kỹ sư của Nvidia đã nhận ra rằng họ có thể trang bị lại các bộ tăng tốc đồ họa này cho các ứng dụng khác bằng cách chia các tác vụ thành từng phần nhỏ hơn và sau đó thực hiện chúng cùng một lúc. Các nhà nghiên cứu AI phát hiện ra rằng công việc của họ cuối cùng có thể trở thành hiện thực bằng cách sử dụng loại chip này.
+
+Theo công ty nghiên cứu thị trường IDC, Nvidia hiện kiểm soát khoảng 92% thị trường GPU trung tâm dữ liệu. Các nhà cung cấp điện toán đám mây thống trị như AWS của Amazon.com, Google Cloud của Alphabet và Azure của Microsoft đang cố gắng phát triển chip của riêng họ, cũng như các đối thủ của Nvidia là Advanced Micro Devices và Intel. Sự thống trị ngày càng tăng của Nvidia đã trở thành mối lo ngại đối với các nhà quản lý ngành.
+
+Nvidia đã cập nhật các dịch vụ của mình, bao gồm cả phần mềm lẫn phần cứng, với tốc độ mà chưa có hãng nào có thể sánh kịp. Công ty cũng đã nghĩ ra nhiều hệ thống cụm khác nhau để giúp khách hàng mua H100 với số lượng lớn và triển khai chúng một cách nhanh chóng.
+
+Các chip như bộ xử lý Xeon của Intel có khả năng xử lý dữ liệu phức tạp hơn, nhưng chúng có ít lõi hơn và xử lý thông tin thường được sử dụng để đào tạo phần mềm AI chậm hơn nhiều.
+
+AMD, nhà sản xuất chip đồ họa máy tính lớn thứ hai thế giới đã tiết lộ một phiên bản của dòng Instinct vào năm ngoái nhằm vào thị trường mà các sản phẩm của Nvidia thống trị. Tại triển lãm Computerx ở Đài Loan (Trung Quốc) vào đầu tháng 6, Giám đốc điều hành AMD Lisa Su đã công bố phiên bản cập nhật của bộ xử lý AI MI300 sẽ được bán vào quý 4 và nêu rõ rằng các sản phẩm tiếp theo sẽ ra mắt vào năm 2025 và 2026, thể hiện cam kết của công ty cô đối với lĩnh vực kinh doanh này.
+
+Intel hiện đang thiết kế chip hướng tới khối lượng công việc AI nhưng thừa nhận rằng hiện tại, nhu cầu về chip đồ họa dành cho trung tâm dữ liệu đang tăng nhanh hơn so với các bộ xử lý máy chủ vốn là thế mạnh truyền thống của Intel.
+
+Lợi thế của Nvidia không chỉ ở hiệu suất phần cứng, công ty đã phát minh ra CUDA, một ngôn ngữ dành cho chip đồ họa cho phép chúng được lập trình cho loại công việc làm nền tảng cho các chương trình AI.
+
+Trong thời gian tới, sản phẩm được mong đợi nhất của Nvidia là Blackwell họ kỳ vọng sẽ thu được doanh thu khổng lồ từ loạt sản phẩm mới trong năm nay. Tuy nhiên, công ty đã gặp phải những trở ngại về kỹ thuật trong quá trình phát triển, điều này sẽ làm chậm việc phát hành một số sản phẩm.
+
+Trong khi đó, nhu cầu về phần cứng dòng H tiếp tục tăng. Giám đốc điều hành Jensen Huang đã đóng vai trò là đại sứ cho công nghệ và vận động các quốc gia cũng như doanh nghiệp tư nhân mua sớm hoặc có nguy cơ bị bỏ lại phía sau bởi những người theo đuổi AI.
+
+Nvidia cũng biết rằng một khi khách hàng chọn công nghệ của Nvidia cho các dự án AI tổng hợp, họ sẽ dễ dàng bán các bản nâng cấp hơn so với các đối thủ cạnh tranh đang chạy đua để thu hút người dùng.

@@ -1,0 +1,37 @@
+Ninja Van giới thiệu một cách tiếp cận mới: Giao từng đơn nhỏ, tăng tần suất, kiểm soát dữ liệu tới từng điểm bán - mở ra chiến lược vận hành bán lẻ linh hoạt, hiệu quả và có khả năng nhân rộng.
+
+Ông Phan Xuân Dũng - Chủ tịch Ninja Van Việt Nam, đã chia sẻ quan điểm về cách mô hình tiếp hàng mới có thể thay đổi cách doanh nghiệp kiểm soát nhịp bán, vốn và dữ liệu, đặc biệt trong bối cảnh ngành bán lẻ đang rất cần sự linh hoạt tối ưu.
+
+Chào ông Phan Xuân Dũng, cảm ơn ông đã dành thời gian cho buổi trò chuyện hôm nay. Gần đây, nhiều thương hiệu bán lẻ phản ánh về tình trạng hàng hóa chậm ra kệ dù hệ thống vẫn tiếp hàng đều. Theo ông, điều gì đang thực sự diễn ra phía sau?
+
+Tôi từng ngồi cùng một CEO ngành FMCG lớn, nghe anh chia sẻ rằng mất gần một tuần để hàng từ kho trung tâm ra tới kệ, trong khi chỉ mất hai ngày để hàng… bán hết.. Điều này nghĩa là nếu giao trễ hai ngày, chúng ta không chỉ mất doanh thu, mà còn mất luôn cơ hội cạnh tranh. Đây không phải câu chuyện của riêng ai. Nó phản ánh một thực tế đã kéo dài: Hệ thống tiếp hàng hiện tại không còn đủ nhanh và sát nhịp để đáp ứng một thị trường luôn biến động.
+
+Theo ông, đâu là nguyên nhân gốc rễ khiến mô hình tiếp hàng hiện nay không còn hiệu quả?
+
+Mô hình truyền thống tối ưu trên từng xe hàng - “full truck, full warehouse” - từng rất hợp lý trong giai đoạn thị trường ổn định. Nhưng trong bối cảnh hiện nay, chính sự tối ưu đó lại khiến hàng hóa chôn vốn, chiếm kho, xoay vòng chậm. Thị trường thì đổi từng ngày, nhưng hệ thống vẫn chỉ giao một lần mỗi tuần.
+
+Vấn đề không chỉ là tốc độ, mà là cách chúng ta đang tư duy về tiếp hàng. Tiếp hàng không nên chỉ là logistics. Đó phải là chiến lược vận hành đồng bộ với chiến lược bán hàng. Chừng nào tiếp hàng còn bị xem là chi phí, doanh nghiệp sẽ vẫn bị động trong tăng trưởng.
+
+Tức là doanh nghiệp nên chuyển sang một cách tiếp cận khác?
+
+Chính xác. Thay vì tối ưu theo xe/pallet, tại Ninja Van, chúng tôi tối ưu theo từng kệ hàng, dựa trên một triết lý đơn giản: “Tiếp nhỏ - Tiếp thường xuyên”. Không cần gom đủ đơn lớn, chúng tôi giao từ 1 đơn hàng 5kg trở lên - linh hoạt theo đúng tốc độ bán lẻ thực tế. Không gom về kho vùng, mà đưa thẳng đến điểm bán. Không dự báo theo tuần hay tháng, mà bổ sung hàng mỗi ngày, sát theo tốc độ tiêu thụ thực tế tại từng cửa hàng. Khi đó, hàng lên kệ nhanh, quay vòng tốt và đặc biệt là tỷ suất hoàn vốn tại từng điểm bán trở nên rõ ràng, minh bạch.
+
+Nhưng với hệ thống hàng nghìn điểm bán, làm sao để kiểm soát hiệu quả khi tần suất giao tăng mạnh như vậy?
+
+Câu trả lời nằm ở dữ liệu. Một trong những điểm mù lớn nhất trong vận hành truyền thống là thương hiệu không biết hàng sau khi rời kho đã đi đâu, bán ra sao, hết lúc nào. Đặc biệt khi thương hiệu mở rộng đến hàng trăm, hàng ngàn điểm bán, việc cố định lịch tiếp hàng không còn phù hợp. Chỉ dữ liệu đủ sâu - phản ánh từng chuyển động bán tại từng điểm - mới giúp thương hiệu phân phối sát nhu cầu, tối ưu tồn kho và kiểm soát tăng trưởng theo đúng nhịp thị trường.
+
+Mô hình mà ông đang nói đến có vẻ đi ngược với tư duy “giao lớn, ít lần” mà ngành bán lẻ từng quen thuộc?
+
+Đúng, đây là sự đảo chiều trong tư duy chuỗi cung ứng - chuyển từ ‘push theo dự báo’ sang ‘pull theo tín hiệu bán’ tại cửa hàng.Thay vì đẩy hàng từ trên xuống - từ dự báo đến kho, chúng ta kéo hàng theo nhu cầu thực - từ điểm bán lên. Điều này đòi hỏi một nền tảng vận hành có DNA thương mại điện tử: nhanh, linh hoạt, tinh gọn. Đó là lý do Ninja Van phát triển mô hình tiếp hàng Ninja B2B Replenishment Solutions - một nền tảng dành riêng cho ngành bán lẻ, với khả năng giao hàng nhỏ, nhanh và theo dõi dữ liệu sát điểm bán.
+
+Thực tế đã chứng minh mô hình này hiệu quả đến đâu?
+
+Chỉ sau 3 tháng áp dụng mô hình mới tại hơn 3.500 điểm bán, một thương hiệu FMCG lớn đã rút ngắn thời gian tiếp hàng từ 3 - 5 ngày xuống còn 24 - 48 giờ, tăng tần suất giao từ 1 lần/tuần lên 3 lần/tuần, đồng thời giảm rõ rệt tồn kho tại từng điểm bán.
+
+Đáng chú ý, sản lượng tiếp hàng tăng gấp 3 so với thời điểm khởi đầu và được dự báo sẽ tăng gấp 6 trong thời gian tới. Và điều quan trọng nhất: Doanh thu tăng không đến từ việc đẩy thêm hàng, mà đến từ khả năng đưa hàng đúng nơi, đúng thời điểm tiêu thụ.
+
+Nếu ông chỉ có thể chia sẻ một thông điệp ngắn gọn đến các CEO và CFO ngành bán lẻ, đó sẽ là gì?
+
+“Một đơn hàng đi - ngàn kệ hàng đầy”. Khi nhịp bán được đảm bảo, tồn kho được quản chặt, dữ liệu được cập nhật từng giờ, doanh nghiệp không chỉ vận hành hiệu quả, mà thực sự kiểm soát được tăng trưởng. Đây không chỉ là thay đổi cách giao hàng - mà là một cách tư duy mới về quản trị chuỗi cung ứng dựa trên dữ liệu và tốc độ phản ứng - nơi từng lần tiếp hàng chính là một quyết định chiến lược.
+
+Cảm ơn ông Phan Xuân Dũng về cuộc trò chuyện thú vị này và chúc cho Ninja B2B Replenishment Solutions ngày càng phát triển lớn mạnh hơn, trở thành đối tác đồng hành đáng tin cậy của các doanh nghiệp bán lẻ.

@@ -1,0 +1,47 @@
+Trao đổi với báo chí, đại diện AWS Việt Nam đã chia sẻ những công bố mới nhất, đột phá nhất về công nghệ AI, định hướng phát triển và hỗ trợ thị trường, giúp các khách hàng và doanh nghiệp Việt Nam ứng dụng AI vào hoạt động phát triển kinh doanh.
+
+Ông Eric Yeo, Tổng giám đốc AWS Việt Nam, đánh giá cao mức độ số hóa và sự phát triển ấn tượng của nền kinh tế số ở Việt Nam, được thúc đẩy bởi tinh thần khởi nghiệp mạnh mẽ, tạo nên sự phát triển mạnh mẽ hiện tại cũng như trong thời gian tới.
+
+TIẾP TỤC ĐẦU TƯ VÀO THỊ TRƯỜNG VIỆT NAM, HỖ TRỢ THÚC ĐẨY CHUYỂN ĐỔI SỐ
+
+Để hỗ trợ khai thác các cơ hội tiềm năng này, AWS đã phát triển và cho ra đời những công cụ đột phá ứng dụng công nghệ GenAI, điển hình là các tính năng mới của dịch vụ Amazon Bedrock với sự bổ sung nhiều mô hình nền tảng mới như Amazon Nova, cung cấp sự lựa chọn và linh hoạt, đáp ứng nhu cầu đa dạng của doanh nghiệp. Tuy nhiên, đại diện AWS cũng khẳng định rằng một mô hình AI không thể phù hợp cho tất cả các yêu cầu của khách hàng.
+
+Phân tích cụ thể ở thị trường Việt Nam, ông Eric Yeo nhấn mạnh 3 trụ cột chính của AWS bao gồm dịch vụ đám mây toàn diện; phát triển kỹ năng, hỗ trợ đào tạo kỹ năng đám mây; và cuối cùng cam kết sẽ tiếp tục đầu tư cơ sở hạ tầng, phát triển hệ sinh thái đối tác mạnh mẽ tại thị trường Việt Nam.
+
+Trong năm 2025, AWS cam kết sẽ tiếp tục đầu tư vào thị trường Việt Nam, hỗ trợ thúc đẩy chuyển đổi số, mở rộng cơ sở hạ tầng, phát triển kỹ năng, thúc đẩy áp dụng AI có trách nhiệm; đồng thời hỗ trợ doanh nghiệp để mang lại các giải pháp dịch vụ tốt nhất cho khách hàng của mình.
+
+Chia sẻ thêm về những công bố mới nhất về công nghệ AI của AWS tại sự kiện AWS re:Invent 2024 vừa qua, cũng như các định hướng chính sách phát triển, hỗ trợ thị trường, ông Hoàng Hiếu, Trưởng phòng Kiến trúc Giải pháp AWS Việt Nam, nhấn mạnh: “hiện tại, AWS đã và đang liên tục phát triển, định hình ra cách GenAI cách mạng hóa việc hỗ trợ các doanh nghiệp xây dựng và phát triển hoạt động kinh doanh của mình”.
+
+Ông Hiếu cũng cho biết phần lớn các khách hàng của AWS hiện nay đã và đang sử dụng nhiều hơn một mô hình AI vào giải các bài toán khác nhau. Đó cũng là động lực để hãng đưa ra các mô hình, nền tảng công nghệ AI mới phù hợp, đáp ứng đa dạng nhu cầu cho các khách hàng lựa chọn.
+
+“AWS sẽ luôn tập trung vào những giải pháp công nghệ mang lại các dịch vụ, ứng dụng giá trị, lợi ích thiết thực, tốt nhất cho khách hàng. Việc công bố các dịch vụ mới, cập nhật mới đã thể hiện rõ cam kết đồng hành cùng doanh nghiệp trên thế giới cũng như ở Việt Nam trong hành trình phát triển”, ông Hiếu nói.
+
+NHỮNG ĐỘT PHÁ NHẤT VỀ AI CHO DOANH NGHIỆP
+
+Đánh giá về tiềm năng thị trường, đại diện AWS nhấn mạnh cơ hội lớn mở ra thời gian tới thông qua hỗ trợ khách hàng sử dụng những công cụ công nghệ mới tốt hơn, nhanh hơn, có độ chính xác cao hơn để xây dựng và phát triển các ứng dụng trong kỷ nguyên AI.
+
+Vì vậy, AWS đang và sẽ liên tục đổi mới công nghệ AI, mang đến các công cụ AI tạo sinh tính năng mới hỗ trợ doanh nghiệp với chi phí phù hợp.
+
+AWS đã giới thiệu Amazon Nova vào danh mục các mô hình nền tảng được cung cấp trên Amazon Bedrock - dịch vụ giúp doanh nghiệp dễ dàng truy cập, lựa chọn mô hình nền tảng phù hợp với bài toán của mình.
+
+Cụ thể như mô hình Amazon Nova Micro chuyên xử lý văn bản với độ trễ thấp nhất; hoặc Amazon Nova Lite là mô hình đa phương thức cung cấp giải pháp truy suất nhanh, hiệu suất cao, chi phí thấp.
+
+Với Amazon Nova Pro- mô hình đa phương thức cao cấp hơn, cung cấp các thông tin đầu vào dưới dạng văn bản, hình ảnh, video và đầu ra là text với độ chính xác cao.
+
+Còn với Amazon Nova Premier- mô hình đa phương thức cao cấp và mạnh mẽ nhất cho các tác vụ suy luận phức tạp, đòi hỏi độ chính xác cao, có thể huấn luyện các mô hình tùy chỉnh đặc thù…
+
+Bên cạnh đó, ông Hiếu cũng thông tin cập nhật, bổ sung các tính năng đột phá cho Amazon Bedrock giúp doanh nghiệp xây dựng ứng dụng liên quan đến AI tạo sinh.
+
+Điển hình như tính năng Automated Reasoning Checks, kiểm tra suy luận tự động. Với tính năng hỗ trợ, phối hợp đa tác nhân AI (multi-agent collaboration) giúp doanh nghiệp giải quyết những bài toán có độ phức tạp cao hơn, cần nhiều tương tác hơn.
+
+Riêng với Model Distillation (chưng cất AI), các doanh nghiệp có thể sử dụng được những mô hình ngôn ngữ lớn hơn, hỗ trợ truyền lại tri thức sang mô hình nhỏ hơn với hiệu suất cao hơn.
+
+Ngoài ra, AWS ra mắt Amazon Bedrock Marketplace - hoạt động như “chợ” dành cho các mô hình GenAI, cung cấp nhiều mô hình AI tối ưu cho từng lĩnh vực. Doanh nghiệp có thể truy xuất hơn 100 mô hình AI đã được xây dựng sẵn từ các nhà phát triển, phục vụ các tác vụ chuyên biệt, giúp tối ưu chi phí và khai thác AI hiệu quả…
+
+Ngoài những tính năng đột phá trên, AWS cũng cập nhật dịch vụ giúp người sử dụng có thể thay đổi tương lai công việc, tối ưu hóa quy trình làm việc và nâng cao hiệu suất lao động.
+
+Điển hình như dịch vụ Amazon Q Developer- trợ lý GenAI dành cho phát triển phần mềm, giúp tăng tốc quá trình xây dựng ứng dụng phức tạp và nâng cao năng suất của lập trình viên, cho phép họ tập trung vào công việc sáng tạo có giá trị cao.
+
+Hay Amazon Q Business và Amazon Q trong QuickSight với các tính năng mới giúp người dùng có thể tự động hóa các tác vụ đơn giản và phức tạp trên các ứng dụng cho công việc hiệu quả hơn.
+
+AWS cũng công bố những tính năng mới của dịch vụ Amazon SageMaker, mang tới nền tảng hợp nhất cho dữ liệu, phân tích và AI; đồng thời cập nhật thêm các dịch vụ về analytics và phần AI khác như: Amazon DynamoDB; Amazon Aurora và Amazon S3 hỗ trợ các ứng dụng công việc quan trọng của khách hàng.

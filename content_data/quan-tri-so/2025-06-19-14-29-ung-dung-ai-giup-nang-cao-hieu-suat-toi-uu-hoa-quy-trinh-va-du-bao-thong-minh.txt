@@ -1,0 +1,23 @@
+Đó là nhận định chung của các chuyên gia, diễn giả tại hội thảo “Quản trị doanh nghiệp trong kỷ nguyên AI: Nâng cao hiệu suất với AI và dữ liệu thông minh”, sáng 19/6.
+
+Hội thảo do Công ty Cổ phần MISA (MISA) phối hợp cùng Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin Việt Nam (VINASA), Hội Doanh nhân Trẻ TP.HCM, Câu lạc bộ Doanh nhân Sài Gòn và IBP tổ chức, nhằm thảo luận về sự thay đổi của nền kinh tế trong kỷ nguyên AI và cách ứng dụng công nghệ này để nâng cao hiệu quả quản trị doanh nghiệp.
+
+Mở đầu chương trình, TS. Cấn Văn Lực, Chuyên gia Kinh tế trưởng BIDV, Thành viên Hội đồng tư vấn Chính sách của Thủ tướng Chính phủ đã phân tích bức tranh kinh tế thế giới và Việt Nam giai đoạn 2025-2026. Ông nhận định kinh tế thế giới đang tăng trưởng chậm lại, chỉ đạt 2,8%, thấp hơn so với các năm trước đại dịch. Lạm phát và lãi suất dù giảm nhưng vẫn duy trì ở mức cao, trong khi thương mại toàn cầu chỉ tăng trưởng chậm.
+
+Trong bối cảnh này, Việt Nam vẫn được xem là điểm sáng khi các động lực tăng trưởng phục hồi khá đồng đều (tiêu dùng, xuất khẩu, FDI, đầu tư công, dịch vụ). Nền tảng vĩ mô được củng cố, tỷ giá, nợ xấu và lạm phát trong tầm kiểm soát. Tuy nhiên, Việt Nam vẫn đối mặt với nhiều thách thức như giải ngân đầu tư công chậm, tiêu dùng và đầu tư tư nhân còn yếu, áp lực chi phí đầu vào và yêu cầu chuyển đổi số và xanh.
+
+Để đối phó với thách thức, TS. Cấn Văn Lực khuyến nghị doanh nghiệp tận dụng chính sách hỗ trợ, tối ưu vận hành, tinh gọn bộ máy và giảm chi phí. Trong dài hạn, doanh nghiệp cần tập trung vào hai xu hướng chiến lược quan trọng: chuyển đổi số và chuyển đổi xanh, đặc biệt là ứng dụng AI.
+
+Theo khảo sát của TechUK (2024), các lĩnh vực sử dụng AI nhiều nhất là marketing (54%), công nghệ (39%) và tài chính (16%). AI không chỉ tối ưu hóa quy trình và dự báo thông minh mà còn cải thiện khả năng cạnh tranh và hiệu quả kinh doanh. Để tăng trưởng bền vững, doanh nghiệp cần chuẩn bị nền tảng công nghệ vững mạnh, phát triển đội ngũ nhân lực và khai thác cơ hội từ AI.
+
+Đồng quan điểm với TS. Cấn Văn Lực, bà Lương Thị Ánh Tuyết, Phó Tổng giám đốc, Lãnh đạo Thị trường PwC Việt Nam, nhấn mạnh rằng AI đang tác động sâu, rộng và nhanh ở quy mô toàn cầu, từ Chính phủ, doanh nghiệp đến người lao động. Có 82% CEO khu vực châu Á Thái Bình Dương đã áp dụng GenAI (ở nhiều mức độ khác nhau) trong 12 tháng qua, và đạt được các kết quả như: 37% báo cáo doanh thu tăng, 40% ghi nhận lợi nhuận cao hơn, 58% nhận thấy hiệu quả làm việc của nhân viên. Ngoài ra, AI đang tạo ra nhu cầu về các kỹ năng mới, với 69% CEO tin rằng GenAI sẽ yêu cầu nhân sự trang bị kỹ năng mới.
+
+“AI không thay thế lãnh đạo, nhưng sẽ thay đổi cách chúng ta lãnh đạo. AI đang giải quyết hiệu quả nhiều vấn đề trong quản trị doanh nghiệp, từ tự động hóa tác vụ lớn, giảm thời gian và chi phí phân tích dữ liệu, đến hỗ trợ nhanh chóng các nhà quản trị trong ra quyết định và tối ưu hóa nhân sự, nâng cao hiệu quả vận hành”, bà Lương Thị Ánh Tuyết nói.
+
+Chia sẻ về chiến lược ứng dụng AI và dữ liệu thông minh trong quản trị doanh nghiệp, ông Lê Hồng Quang, Tổng Giám đốc MISA, khẳng định AI là công cụ then chốt trong quản trị doanh nghiệp hiện đại. Do đó, doanh nghiệp cần thay đổi cả công nghệ lẫn tư duy quản trị để ứng dụng AI hiệu quả. Nếu không hành động ngay, doanh nghiệp sẽ tụt hậu và nguy cơ bị loại khỏi cuộc chơi.
+
+Hiện, tỷ lệ doanh nghiệp ứng dụng AI vào quản trị tăng từ 33% năm 2022 lên 72% năm 2024 (theo IBM, Forbes, McKinsey). Các doanh nghiệp ứng dụng dữ liệu để ra quyết định có thể tăng khả năng thu hút khách hàng cao hơn 23 lần so với doanh nghiệp truyền thống.
+
+Bắt kịp xu hướng ứng dụng AI trong quản trị, MISA phát triển Trợ lý AI MISA AVA, tích hợp vào nền tảng quản trị doanh nghiệp hợp nhất, giúp doanh nghiệp truy vấn nhanh số liệu, báo cáo trực quan và phân tích chuyên sâu, tạo nền tảng vững chắc cho các quyết định chiến lược. Đồng thời, với công nghệ AI và phân tích dữ liệu, MISA AVA còn dự báo chỉ số quan trọng, hỗ trợ quản trị linh hoạt, tối ưu hiệu quả vận hành.
+
+Trong năm 2025, MISA tiếp tục triển khai nền tảng AI Agent và OneAI nhằm thực hiện sứ mệnh “phổ cập AI” cho doanh nghiệp. AI Agent tạo ra các trợ lý AI theo từng lĩnh vực, ngành nghề có thể tự động thực hiện công việc, giúp doanh nghiệp tối ưu thời gian xử lý công việc, nâng cao năng suất. OneAI là nền tảng tích hợp nhiều công cụ AI như ChatGPT, Gemini, Grok… vào một hệ thống duy nhất.

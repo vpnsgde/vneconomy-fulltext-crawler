@@ -1,0 +1,119 @@
+Kinh tế chia sẻ là mô hình kinh doanh mới mang lại nhiều giá trị cho nền kinh tế, lợi ích cho xã hội và người dùng. Vừa qua, Thủ tướng Chính phủ đã ban hành Quyết định số 999/QĐ-TTg phê duyệt Đề án thúc đẩy mô hình kinh tế chia sẻ. Đây là một bước ngoặt quan trọng đánh dấu sự nhìn nhận, công nhận chính thức về kinh tế chia sẻ là một mô hình kinh doanh hợp pháp.
+
+Thời báo Kinh tế Việt Nam xin giới thiệu ý kiến, chia sẻ của các chuyên gia, doanh nghiệp công nghệ và startup xung quanh việc làm thế nào đưa đề án này đi vào thực tế cuộc sống.
+
+Bước tiến quan trọng thể hiện quyết tâm của Chính phủ trong thời đại số
+
+(TS. Phạm Anh Tuấn - Giảng viên Đại học Quốc gia Hà Nội, dịch giả cuốn sách The Digital Transformation Playbook  - Cải tổ doanh nghiệp trong thời đại số)
+
+Đề án Thúc đẩy kinh tế chia sẻ là một bước tiến quan trọng thể hiện quyết tâm của Chính phủ trong tạo điều kiện thuận lợi cho sự ra đời và vận hành của các mô hình kinh doanh của thời đại kỹ thuật số.
+
+Quyết định được ban hành trong bối cảnh các mô hình kinh tế chia sẻ, chủ yếu có nguồn gốc từ nước ngoài đang phát triển một cách bùng nổ ở Việt Nam, tạo ra nhiều lợi ích cho cả bên cung cấp dịch vụ và sử dụng dịch vụ, đồng thời cũng tạo ra những sức ép vô cùng lớn cho các doanh nghiệp truyền thống ở nhiều ngành công nghiệp khác nhau.
+
+Vì sao các mô hình kinh tế chia sẻ ngày càng chiếm ưu thế? Thứ nhất, là do không phải đầu tư vào hạ tầng, tài sản cố định cồng kềnh và tốn kém, các công ty sử dụng mô hình kinh tế chia sẻ có thể tung ra các dịch vụ với mức giá thấp hơn nhiều so với các công ty truyền thống. Chính yếu tố tài sản gọn nhẹ này tạo lợi thế vô cùng lớn cho các công ty sử dụng mô hình kinh tế chia sẻ trong việc thu hút những khách hàng nhạy cảm về giá.
+
+Thứ hai, các công ty này thường xuất phát là các startup công nghệ, họ giỏi hơn các công ty truyền thống ở chỗ tìm đúng "điểm đau" của khách hàng để giải quyết, đó là những nhu cầu hay kỳ vọng mà công ty truyền thống chưa làm được. Họ cũng nhanh nhạy hơn và không sợ thất bại so với các công ty truyền thống trong ứng dụng công nghệ mới để tạo ra lợi ích và trải nghiệm tốt nhất cho khách hàng.
+
+Thứ ba, các công ty kinh doanh theo mô hình kinh tế chia sẻ thường phát triển dựa trên mô hình nền tảng (platform) và phát huy tối đa các hiệu ứng mạng lưới sinh ra từ các nền tảng. Hiệu ứng mạng lưới quan trọng nhất chính là loại hiệu ứng gián tiếp giúp cho cơ sở người dùng ở một phía trên nền tảng ngày càng mở rộng khi số lượng người dùng ở phía khác gia tăng.
+
+Thứ tư, một lợi ích nổi trội của kinh tế chia sẻ là người dùng có thể chia sẻ chi phí với những người khác cùng sử dụng dịch vụ giống mình, như cùng đi trên một đoạn đường, cùng thuê một nhà, cùng thuê một bộ đầm... mà không cần phải quen biết nhau.
+
+Quyết định thể hiện sự tiến bộ về tư duy quản lý của Chính phủ, với việc cho phép áp dụng cơ chế sandbox để các mô hình kinh tế chia sẻ ở Việt Nam được "yên tâm" vận hành, và giúp các cơ quan quản lý nhà nước có đủ thời gian để học hỏi, thích nghi với bối cảnh kinh tế của thời kỳ 4.0.
+
+Những thách thức trong quản lý nhà nước đối với kinh tế chia sẻ như vấn đề chống thất thu thuế, vấn đề an toàn và chia sẻ dữ liệu người dùng đã được đề cập tới trong bản Đề án này.
+
+Việc tạo môi trường thuận lợi cho sự phát triển của mô hình kinh tế chia sẻ là cần thiết, tuy nhiên, các bên liên quan cần nhận thức rõ rằng mô hình này cũng hàm chứa mức độ rủi ro rất cao.
+
+Gần đây ở Trung Quốc, nhiều startup đình đám, từng gọi được lượng vốn đầu tư lớn từ VC như ứng dụng chia sẻ xe đạp... đã phá sản, để lại hậu quả là hàng trăm ngàn chiếc xe đạp biến thành đống sắt rỉ trên phố. Yếu tố rủi ro của mô hình này và hậu quả có thể để lại cho người lao động, khách hàng, cho ngân sách nhà nước... dường như đã được ban soạn thảo Đề án tính đến, và đó chính là một trong những điểm "cộng" của Đề án.
+
+Liên tục theo dõi và đưa ra chính sách quản lý sát thực tế
+
+(Ông Nguyễn Thế Trung - Chủ tịch Hội đồng quản trị, Tổng giám đốc Công ty Cổ phần Công nghệ DTT)
+
+Sự ra đời của Đề án 999 có một ý nghĩa quan trọng, đó là sự chính danh của kinh tế chia sẻ - một loại hình mới của nền kinh tế. Từ đề án này sẽ cần phải bám sát thực tiễn triển khai cụ thể của hệ thống và các loại hình kinh tế này. Bởi thực tiễn trên thế giới cũng không có một mô thức nào đã chín muồi để quản lý các hình thức kinh tế chia sẻ. Không phải quốc gia nào cũng có cách đối xử với Uber hay Grab giống nhau.
+
+Ông Nguyễn Thế Trung - Chủ tịch Hội đồng quản trị, Tổng giám đốc Công ty Cổ phần Công nghệ DTT
+
+Vì vậy, lời khuyên của những người làm luật, làm chính sách cũng như quản lý chung trên thế giới, đó là luôn luôn cởi mở và đi theo sự phát triển của các mô hình này. Nếu mô hình kinh tế chia sẻ làm tốt và mang lại lợi ích và hiệu quả hơn cho xã hội, không ảnh hưởng đến các vấn đề nhạy cảm thì cần được khuyến khích.
+
+Ngược lại, nếu các mô hình sinh ra để chia sẻ nhưng không mang lại hiệu quả khác biệt thì cũng có thể đối xử một cách bình thường, giống như các ngành nghề khác.
+
+Để chính sách vào cuộc sống, Đề án đã giao các nhiệm vụ cụ thể cho các bộ ngành. Trên tinh thần đó, tôi cho rằng cần phải có thêm các kế hoạch thực hiện cụ thể đề án tại các đơn vị.
+
+Về mặt hỗ trợ vẫn sẽ xoay quanh vấn đề chính là công nghệ, dữ liệu và người dùng. Nếu đã thừa nhận kiểu mô hình kinh doanh này thì cần có những định hướng cụ thể hướng đến hiệu quả chung cho xã hội và người dùng. Trên cơ sở đó cần giúp người dùng nhận thức khi sử dụng các dịch vụ mới này.
+
+Việc phát triển các ứng dụng, các doanh nghiệp làm ra các sản phẩm liên quan đến kinh tế chia sẻ đã bắt đầu từ lâu tại Việt Nam.
+
+Đề án ra đời đã thừa nhận và chứng minh mô hình kinh tế này. Trên cơ sở đó sẽ sớm có sự thành công của các doanh nghiệp Việt Nam trên mô hình kinh tế chia sẻ. Sự thành công này sẽ tạo động lực thôi thúc các doanh nghiệp khác đầu tư vào công nghệ hoặc khởi nghiệp trong lĩnh vực kinh tế chia sẻ.
+
+Đề án sẽ giúp doanh nghiệp chuyển đổi sang một giai đoạn thu hút đầu tư nhiều hơn và sẽ có những thành công lớn hơn. Tất nhiên, Đề án chưa đưa ra tất cả các vấn đề chi tiết để chúng ta biết rõ phải làm như thế nào. Do đó, giữa nhà quản lý và các đơn vị liên quan, doanh nghiệp sẽ phải tiếp tục phối hợp để xây dựng các chính sách và cách làm cụ thể.
+
+Tôi cho rằng bất kỳ loại hình kinh tế nào cũng có những nhóm hoạt động hiệu quả và ngược lại. Mô hình kinh tế này có 1 tài sản, giá trị rất lớn, đó là dữ liệu khách hàng.
+
+Những doanh nghiệp đi vào lĩnh vực kinh tế chia sẻ ở Việt Nam đang tạo ra tài sản mới là dữ liệu. Do đó, chúng ta cần phải có cách nhìn từ góc độ chiến lược để có cách thức xử lý vấn đề dữ liệu này.
+
+Chúng ta cần làm rõ tài sản này thuộc về ai và nên được quản lý như thế nào, nên được đưa quyền sử dụng đó cho ai? Đây là những vấn đề đặt ra trong thực tiễn phát triển. Nếu quy định đóng quá thì doanh nghiệp sẽ khó phát triển ở Việt Nam nhưng nếu mở quá thì nguy cơ những tài sản này sẽ được hình thành cho những đơn vị không mong muốn và nằm ngoài tầm kiểm soát.
+
+Cần có chính sách tương thích
+
+(Ông Nguyễn Hòa Bình - Chủ tịch NextTech Group)
+
+Kinh tế chia sẻ là một mô hình kinh doanh rất có lợi cho nền kinh tế quốc gia, đang tạo ra nhiều giá trị gia tăng mang tính tối ưu và có lợi cho xã hội, hiện thực hóa chủ trương xã hội hóa nền kinh tế, giúp cho các cá nhân tự giải quyết công ăn việc làm cho mình...
+
+Ông Nguyễn Hòa Bình - Chủ tịch NextTech Group
+
+Tuy nhiên, do trước đây chưa có một hành lang pháp lý hoặc một sự nhìn nhận chính thức, chính thống về mô hình kinh tế chia sẻ nên vẫn còn những khó khăn vướng mắc. Các cơ quan quản lý vẫn còn lúng túng trong quản lý mô hình kinh tế mới này, hoặc vấp phải sự phản ứng của các doanh nghiệp kinh doanh truyền thống bị ảnh hưởng quyền lợi từ nền kinh tế chia sẻ.
+
+Đề án này là một bước ngoặt đầu tiên đánh dấu sự nhìn nhận, công nhận chính thức về kinh tế chia sẻ là một mô hình kinh doanh hợp pháp. Đây là sự động viên, là cơ sở pháp lý ban đầu tốt cho các doanh nghiệp kinh tế chia sẻ tại Việt Nam, để có thể có động lực tốt hơn trong thu hút đầu tư và có nhiều sáng tạo hơn nữa để tối ưu hóa nền kinh tế.
+
+Trên một sân chơi chung, kinh tế chia sẻ có thể ứng dụng được vào trong rất nhiều các ngành nghề, lĩnh vực khác nhau của cuộc sống, từ chia sẻ xe (như Grab), chia sẻ tài chính (cho vay ngang hàng); chia sẻ kiến thức (nền tảng kết nối dạy học); chia sẻ nhân lực (giúp việc)...
+
+Chúng ta cần sự nhìn nhận nghiêm túc và phải đưa ra các chính sách tương ứng và tạo điều kiện cho kinh tế chia sẻ trong các lĩnh vực. Trước hết cần phải đưa ra các hành lang pháp lý hướng dẫn tạo điều kiện thuận lợi phát triển các mô hình kinh tế chia sẻ tại Việt Nam.
+
+Tôi cho rằng, kinh tế chia sẻ có phát triển hay không phụ thuộc rất nhiều vào sự cầm cân nảy mực của từng bộ, ban ngành liên quan khi triển khai thực hiện chi tiết đề án này. Các đơn vị phải đưa ra các đề xuất, các nghị định cụ thể để trình Chính phủ, tạo điều kiện thuận lợi cho kinh tế chia sẻ, bình đẳng với kinh tế truyền thống.
+
+Ở góc độ cạnh tranh giữa doanh nghiệp kinh tế chia sẻ của Việt Nam và nước ngoài, tôi cho rằng, trong quá trình thiết kế các chính sách cụ thể, các cơ quan quản lý cần phải để ý đến việc tạo điều kiện thuận lợi, ưu tiên cho các doanh nghiệp Việt Nam.
+
+Hoặc có liên doanh thì cũng ở phạm vi lượng cổ phần nhất định, giống như mô hình của các nước. Lý do là để người Việt Nam luôn cầm đằng chuôi, nắm được cái "hồn" của nền tảng kinh tế chia sẻ. Bất kể doanh nghiệp nào khi kiểm soát được một nền tảng kinh tế chia sẻ sẽ có tác động lớn đến nền kinh tế của Việt Nam, đến từng người tiêu dùng...
+
+Doanh nghiệp làm kinh tế chia sẻ đã an tâm hơn
+
+(Ông Nguyễn Văn Dũng - Nhà sáng lập, CEO Luxstay)
+
+Hiện chúng tôi vẫn đang là startup còn non trẻ, quyết định phê duyệt đề án có lẽ chưa có tác động nhiều tới hoạt động của chúng tôi trước mắt.
+
+Tuy nhiên, quyết định này đã mở ra những tiềm năng lớn khi doanh nghiệp và startup hoạt động trong lĩnh vực kinh tế chia sẻ sẽ nhận được sự ủng hộ của Nhà nước về chính sách, quy định pháp luật khi phát triển lớn mạnh hơn.
+
+Ông Nguyễn Văn Dũng - Nhà sáng lập, CEO Luxstay
+
+Các nhà đầu tư, đối tác tham gia kinh doanh trong môi trường này sẽ cảm thấy an tâm hơn với quyết định phê duyệt đề án này. Bản thân chúng tôi khi xây dựng mô hình cũng không khỏi lo ngại kịch bản xấu "không quản được Nhà nước sẽ cấm" với những mô hình mới phát triển bùng nổ khi mà các quy định pháp lý thường đi sau. Hi vọng với quyết định phê duyệt đề án, những mối lo ngại đó sẽ được tháo gỡ.
+
+Chúng tôi kỳ vọng, những quy định hay cấp phép với doanh nghiệp hoạt động trong lĩnh vực này sẽ được giảm thiểu và các cơ chế quản lý rõ ràng sẽ sớm được ban hành để doanh nghiệp sớm có định hướng đi theo.
+
+Thị trường Việt Nam sẽ hấp dẫn hơn
+
+(Ông Nguyễn Hoàng Hải - Đồng sáng lập, CEO Canavi)
+
+Nếu Chính phủ thực sự có thể thúc đẩy kinh tế chia sẻ với sự kết hợp của các bộ ban ngành để cùng hỗ trợ cho sự phát triển của mô hình kinh doanh này thì thị trường Việt Nam sẽ ngày càng trở nên tiềm năng hơn trong mắt các nhà đầu tư, đặc biệt là các nhà đầu tư ngoại hay các startup có quy mô toàn cầu hoạt động trong mô hình này. Đây là minh chứng cho sự đổi mới theo kịp thời đại của Chính phủ một đất nước.
+
+Ông Nguyễn Hoàng Hải - Đồng sáng lập, CEO Canavi
+
+Mặc dù có những lo ngại về việc startup Việt sẽ phải cạnh tranh rất sòng phẳng với doanh nghiệp nước ngoài trong mô hình này thì tôi cho rằng, dù các quy định mới có ra sao, những doanh nghiệp có khả năng thích ứng tốt nhất sẽ tồn tại.
+
+Bất chấp thực tế mức độ cạnh tranh có thể cao hơn, nhưng nếu doanh nghiệp Việt áp dụng tốt mô hình kinh tế chia sẻ thì cũng được hưởng lợi khi dòng vốn của các quỹ đầu tư, công ty nước hướng vào thị trường Việt Nam và đổ vào công ty của họ. Đối với startup của chúng tôi thì đây là một tín hiệu tốt.
+
+Kinh tế chia sẻ đang phát triển nhanh tại Việt Nam
+
+(Ông Stephen Wyatt, Tổng giám đốc JLL Việt Nam)
+
+Nền kinh tế chia sẻ đang phát triển nhanh chóng tại Việt Nam, nhờ vào tỷ lệ dân số trẻ, am hiểu công nghệ và sẵn sàng trải nghiệm. Với dân số trên 10 triệu dân, các thành phố lớn như Tp.HCM và Hà Nội sở hữu tiềm năng rất lớn để phát triển mô hình kinh tế này.
+
+Nhiều doanh nghiệp kinh doanh dựa trên mô hình chia sẻ đã đạt được những thành công nhất định như Grab (xe ôm/taxi công nghệ), AirBnB (chia sẻ nhà ở), Toong (chia sẻ không gian làm việc),...
+
+Ông Stephen Wyatt, Tổng giám đốc JLL Việt Nam
+
+Quyết định của Chính phủ nhằm quản lý và hỗ trợ nền kinh tế chia sẻ là một tín hiệu đáng mừng cho cả doanh nghiệp lẫn người dùng, tạo động lực thúc đẩy tiềm năng sẵn có của Việt Nam.
+
+Rào cản đầu tiên cho các doanh nghiệp kinh doanh mô hình chia sẻ có liên quan hay kết hợp đến công nghệ tài chính điện tử chính là thói quen giao dịch chủ yếu bằng tiền mặt của người Việt Nam, thẻ tín dụng vẫn chưa được phổ biến rộng rãi trên toàn quốc. Sẽ mất một thời gian dài để thay đổi thói quen tiêu dùng này.
+
+Chính phủ cần tăng cường hỗ trợ thúc đẩy văn hóa khởi nghiệp, giúp các công ty mới dễ dàng thâm nhập thị trường công nghệ. Chi phí từ đó sẽ giảm khi có nhiều nhà đầu tư mới tham gia vào thị trường trong nước. Thêm nữa, vì nền kinh tế chia sẻ hiện nay hoạt động đa phần thông qua các công cụ Internet, nên để mô hình này thật sự phát triển, Việt Nam cũng cần nâng cấp chất lượng kết nối mạng.

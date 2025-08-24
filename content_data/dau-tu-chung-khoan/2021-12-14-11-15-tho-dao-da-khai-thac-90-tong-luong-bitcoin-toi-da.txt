@@ -1,0 +1,19 @@
+Theo dữ liệu từ Blockchain.com, tính từ ngày 9/1/2009 đến ngày 13/12/2021, 90% tổng số lượng Bitcoin tối đa đã được khai thác và lưu thông trên thị trường. Con số này đạt được trong 12 năm kể từ khi đồng Bitcoin đầu tiên được khai thác.
+
+Điều này đồng nghĩa rằng hiện tại, khoảng 18,9 triệu đồng Bitcoin trên tổng số 21 triệu đồng đang được lưu thông. Tuy nhiên, dựa trên ước tính của Blockchain.com và kế hoạch giảm một nửa phần thưởng (halving) của tiền ảo này, phải tới tháng 2/2140, số Bitcoin còn lại mới được khai thác hết, tức 119 năm nữa, theo tin từ CoinDesk.
+
+Theo quy định của mạng lưới, đồng Bitcoin sẽ có một đợt "halving" khoảng 4 năm một lần và việc này được dự báo sẽ tiếp tục khiến việc đào Bitcoin trở nên khó khăn hơn. Hiện tại, các thợ đào Bitcoin nhận được khoảng 6,25 Bitcoin cho mỗi chuỗi khối họ đào được nhưng con số này sẽ giảm xuống chỉ còn 3,125 vào năm 2024.
+
+Câu hỏi được nhiều người quan tâm là điều gì sẽ xảy ra khi cộng đồng khai thác hết số lượng tối đa 21 triệu Bitcoin?
+
+Theo phân tích của các chuyên gia, kể cả khi điều này xảy ra, mạng lưới Bitcoin vẫn sẽ tồn tại bởi các thợ đào có 2 nguồn thu: từ hoạt động đào tiền ảo truyền thống và từ phí giao dịch. Do đó, khi không còn Bitcoin mới để khai thác, dù phần thưởng từ hoạt động đào truyền thống không còn, họ vẫn có thể kiếm lời từ việc thu phí xác thực trên mạng lưới. Đây cũng là lý do khiến nhiều công ty không muốn bán số Bitcoin mà họ đào được.
+
+Bên cạnh đó, chưa ai biết được điều gì sẽ xảy ra sau 119 năm nữa và liệu khi đó Bitcoin, hay các loại tiền ảo nói chung, có còn tồn tại không. Ngoài ra, các chuyên gia cho rằng tính bảo mật và độ an toàn – vốn được xem là điểm mạnh của công nghệ chuỗi khối đằng sau Bitcoin – có thể bị đe dọa bởi máy tính lượng tử và siêu máy tính mà nhiều nước hiện đang hướng tới.
+
+Trong khi đó, ước tính có khoảng 20% Bitcoin đã “bị mất” do các lý do như quên mật khẩu vào ví hoặc chủ sở hữu qua đời, tức là không thể phục hồi. Cùng với đó, khoảng 1 triệu Bitcoin khác vẫn nằm trong tay người/nhóm người sáng lập bí ẩn có tên là Satoshi Nakamoto và không ai biết thông tin gì về nhân vật này cũng như số Bitcoin trên. Do đó, hiện chưa rõ liệu thị trường có thể đạt trạng thái lưu thông tối đa 21 triệu Bitcoin hay không.
+
+Mặc dù vậy, ở thời điểm hiện tại, việc 90% lượng Bitcoin đã được khai thác là một con số lớn và ảnh hưởng không nhỏ tới thị trường. Điều này có thể khiến các nhà đầu tư cảm thấy sự khan hiếm và càng không muốn bỏ lỡ cơ hội nắm giữ tiền ảo này. Nhiều chuyên gia dự báo có thể xảy ra cú sốc về nguồn cung, ảnh hưởng tới cả thị trường tiền ảo lẫn thị trường tiền tệ truyền thống.
+
+Vào khoảng 10h sáng 14/12 (giờ Việt Nam), giá Bitcoin giảm gần 4% so với 24h trước đó, xuống sát mức 47.000 USD, tiếp tục đà sụt giá những ngày gần đây. Tuần trước, tiền ảo này giảm tới 27% khi một số nhà đầu tư đưa ra phân tích kỹ thuật và cho rằng nên giảm đầu tư vào các loại tiền ảo. Một báo cáo mới đây của Fundstrat nhận định trong ngắn hạn Bitcoin có xu hướng giảm giá bởi chưa xuất hiện những dấu hiệu của sự ổn định trở lại để có thể bật tăng.
+
+Tuy nhiên, bất chấp đợt bán tháo gần đây, một số người ủng hộ vẫn kỳ vọng giá Bitcoin sẽ phục hồi bởi đây được xem là một công cụ “né” lạm phát.

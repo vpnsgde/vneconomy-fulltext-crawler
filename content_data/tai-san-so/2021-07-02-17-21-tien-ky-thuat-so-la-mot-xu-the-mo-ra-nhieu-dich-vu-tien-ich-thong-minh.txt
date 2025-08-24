@@ -1,0 +1,41 @@
+Tiền kỹ thuật số là một xu thế phát triển tất yếu và mang lại nhiều lợi ích. Hiện nay trong khu vực, một số nước như Trung Quốc, Campuchia đã thử thử nghiệm đồng tiền kỹ thuật số.
+
+Tiến sĩ Đặng Minh Tuấn, Trưởng phòng Lab Blockchain (Học viện Công nghệ Bưu chính Viễn thông), Phó Chủ tịch Câu lạc bộ Fintech (Hiệp hội Ngân hàng Việt Nam) nói với VnEconomy ngay sau khi Chính phủ giao cho Ngân hàng Nhà nước chủ trì để nghiên cứu, xây dựng và thí điểm sử dụng tiền điện tử dựa trên công nghệ chuỗi khối (Blockchain).
+
+Ông Tuấn nói tiếp: Nhiều nước trên thế giới như EU đang có xu hướng sẽ phát hành đồng tiền kỹ thuật số để thay thế dần đồng tiền giấy truyền thống hiện nay. Đồng tiền kỹ thuật số sẽ mang lại nhiều tính năng ưu việt hơn so với tiền giấy truyền thống.
+
+Việc đề cập nghiên cứu thí điểm ở thời điểm hiện tại mặc dù có hơi chậm so với một số nước trên thế giới nhưng nhìn về tổng thể, trên thực tế lại chưa có nhiều nước áp dụng triển khai tiền kỹ thuật số.
+
+Theo tôi, thuật ngữ tiền ảo về mặt học thuật là không sai bởi tất cả những đồng tiền không phải là giấy thì đều được gọi là tiền ảo. Nhưng về mặt xã hội có thể sẽ gây ra những hiểu nhầm khi người nghe hai từ “tiền ảo” thường sẽ nghĩ đến đó là những đồng coin trên thị trường hiện nay.
+
+
+
+Thực ra chúng ta nên dùng khái niệm tiền kỹ thuật số thì sẽ chính xác hơn. Đồng tiền kỹ thuật số sẽ là đồng tiền pháp định của nhà nước phát hành chứ không phải là các đồng coin mà mọi người đào trên mạng.
+
+Hiện nay trên thị trường có nhiều tên gọi khác nhau và dễ gây nhầm lẫn như tiền ảo (virtual currency), tiền kỹ thuật số (digital currency), tiền mã hóa (cryptocurrency). Đồng tiền mã hóa là một thành phần của tiền ảo. Đồng tiền sử dụng công nghệ Blockchain được gọi là tiền mã hóa.
+
+Theo tôi, tiền giấy sẽ tốn chi phí trong các công đoạn in ấn, vận chuyển, phát hành, bảo quản, cũng như kiểm định… Tuy nhiên, với đồng tiền kỹ thuật số sẽ tiết kiệm được các khoản chi phí này, giảm chi phí phát hành, in ấn, vận chuyển, kiểm kê.
+
+Đặc biệt, dựa trên công nghệ Bkockchain, đồng tiền kỹ thuật số có thể được áp dụng trong các hợp đồng thông minh (Smart Contract); mở ra các dịch vụ tiện ích thông minh mới mà đồng tiền giấy khó có thể làm được.
+
+Ngoài ra, đồng tiền kỹ thuật số cũng giúp kiểm soát tốt hơn vấn đề tiền giả, cũng như các hoạt động vi phạm khác như rửa tiền, tài trợ khủng bố…
+
+Về mặt hạ tầng công nghệ, Việt Nam hoàn toàn có thể đáp ứng nếu triển khai ứng dụng tiền kỹ thuật số vào thực tế.
+
+Về phía người sử dụng, tiền kỹ thuật số sẽ không khác nhiều so với việc dùng các ví điện tử hiện nay. Trong những năm qua, nhiều người tiêu dùng đã quen và sử dụng các ví điện tử trong các hoạt động giao dịch thanh toán. Với sự phát triển của các ví điện tử, không chỉ Momo, Viettel Pay hay Zalo Pay mà hầu hết các ngân hàng đều đã phát hành ví riêng đáp ứng nhu cầu người dùng.
+
+Có thể Ngân hàng Trung ương sẽ phát hành một ví ứng dụng để thông qua đó, người dùng thanh toán các dịch vụ giống như các ví điện tử hiện nay trên thị trường.
+
+Tôi nghĩ, đây là một sự phát triển tiến bộ và mang lại nhiều thuận lợi. Người dùng đã quen với việc sử dụng các ví điện tử nên trải nghiệm với đồng tiền kỹ thuật số cũng sẽ tương tự. Do đó, nếu được ứng dụng triển khai thì người dùng sẽ không cảm thấy khó khăn hay ngạc nhiên.
+
+Theo tôi, một trong những yếu tố quan trọng nhất trong phát triển tiền kỹ thuật số cũng như các ví điện tử đó chính là vấn đề an toàn thông tin.
+
+
+
+Tất nhiên, với việc sử dụng tiền ảo dựa trên công nghệ chuỗi khối (Blockchain) đã hạn chế rất nhiều những lo ngại này. Nhưng chúng ta vẫn phải có những phương án cụ thể để đảm bảo an toàn thông tin bảo mật nếu khi phát triển ứng dụng tiền kỹ thuật số cho các hoạt động thanh toán.
+
+Bên cạnh đó, Việt Nam vẫn cần phải mở rộng hơn nữa hạ tầng Internet. Mặc dù độ phủ Internet ở Việt Nam hiện nay đã rất rộng đến các khu vực, vùng miền trên cả nước nhưng ở các vùng sâu, vùng xa vẫn còn hạn chế.
+
+Tôi cho rằng, đây sẽ là một cơ hội cho các đơn vị chuyên nghiên cứu về Blockchain cũng như công nghệ tài chính Fintech. Ngân hàng Trung ương là cơ quan quản lý nhà nước về vấn đề tiền tệ, an ninh tiền tệ quốc gia nhưng không phải là đơn vị chuyên trách nghiên cứu sâu về công nghệ Blockchain.
+
+Do đó, điều này sẽ mở ra cơ hội cho các đơn vị, tổ chức, doanh nghiệp nghiên cứu sâu về Blockchain tham gia tư vấn, phát triển công nghệ… đóng góp cho Ngân hàng Nhà nước. Ngoài ra, qua đây, các công ty cung cấp dịch vụ fintech cũng có thể khẳng định các định hướng phát triển giống các dịch vụ tài chính của mình nhiều hơn.

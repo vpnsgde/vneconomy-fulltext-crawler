@@ -1,0 +1,29 @@
+Vụ việc xảy ra tại công ty hậu cần Knights of Old Group của Anh (KNP Logistics) vào năm 2023. Câu chuyện của họ mới đây đã được làm thành bộ phim tài liệu Panorama.
+
+Theo tờ The Times, cuộc tấn công nhằm vào Knights of Old bắt đầu từ ngày 26/6/2023, tin tặc đột nhập thành công vào hệ thống mạng của công ty, thông qua một tài khoản của nhân viên với mật khẩu yếu đến mức có thể dễ dàng đoán ra. Chúng nhanh chóng tiếp cận các hệ thống nhạy cảm của công ty và triển khai mã độc tống tiền.
+
+Không dừng ở việc mã hóa dữ liệu, chúng còn đe dọa công bố thông tin nội bộ và dữ liệu khách hàng lên mạng. Đây là một chiến thuật tống tiền kép nhằm gia tăng áp lực buộc công ty phải trả tiền chuộc.
+
+Dù tuân thủ các tiêu chuẩn bảo mật dữ liệu quốc tế và có mua bảo hiểm an ninh mạng, Knights of Old vẫn không thể gượng dậy sau những thiệt hại nặng nề về vận hành và uy tín mà cuộc tấn công mạng gây ra. Đến tháng 9/2023, công ty buộc phải ngừng hoạt động hoàn toàn, khép lại hành trình 158 năm và để lại một khoảng trống không nhỏ trong ngành hậu cần Anh quốc.
+
+Khoảng 500 xe tải của doanh nghiệp có trụ sở tại Northamptonshire đã phải ngừng hoạt động, khiến 700 lao động mất việc, sau khi nhóm tin tặc tống tiền thực hiện cuộc tấn công.
+
+Theo bộ phim, ngay sáng hôm sau vụ tấn công, công ty bảo hiểm an ninh mạng Solace Global đã nhận thông tin và đến xử lý. Paul Cashmore, đại diện Solace, cho biết nhóm kỹ thuật nhanh chóng phát hiện toàn bộ dữ liệu của KNP đã bị mã hóa, toàn bộ máy chủ, hệ thống sao lưu và phương án khôi phục thảm họa đều bị xóa sạch.
+
+Theo công ty an ninh mạng Sophos, số vụ tấn công ransomware trên toàn cầu đã tăng vọt 105% chỉ trong một năm, từ năm 2022 đến 2023. Các nhóm tin tặc ngày càng hoạt động có tổ chức, thường tận dụng dữ liệu đánh cắp từ trước để thực hiện các đòn tấn công có mục tiêu, mức độ tinh vi và sát thương cao.
+
+Sự phụ thuộc ngày càng lớn của nền kinh tế toàn cầu vào hạ tầng số khiến các doanh nghiệp trở nên dễ bị tổn thương hơn trước các cuộc tấn công mạng. Khi ransomware ngày càng gia tăng cả về tần suất lẫn mức độ tinh vi, không tổ chức nào có thể hoàn toàn miễn nhiễm.
+
+
+
+Sự sụp đổ của Knights of Old là hồi chuông cảnh báo, đồng thời cho thấy những bài học sống còn mà các doanh nghiệp cần ghi nhớ để tránh rơi vào bi kịch tương tự.
+
+Thứ nhất,đầu tư vào các biện pháp bảo mật, cần triển khai bảo mật điểm cuối nâng cao, giám sát hệ thống liên tục và có sẵn kịch bản ứng phó sự cố rõ ràng, hiệu quả.
+
+Thứ hai,áp dụng xác thực đa yếu tố (MFA).
+
+Thứ ba,sao lưu dữ liệu định kỳ. Duy trì bản sao lưu an toàn, tách biệt khỏi hệ thống chính, giúp đảm bảo khả năng phục hồi ngay cả khi bị mã hóa bởi ransomware.
+
+Thứ tư,đào tạo nhân viên thường xuyên. Tấn công lừa đảo (phishing) vẫn là cửa ngõ phổ biến để tin tặc xâm nhập. Việc nâng cao nhận thức và kỹ năng ứng phó cho nhân viên là tuyến phòng thủ đầu tiên.
+
+Thứ năm,cập nhật thông tin an ninh mạng. Theo dõi thông tin liên tục để phát hiện sớm nguy cơ rò rỉ tài khoản hoặc dữ liệu bị đánh cắp có thể giúp nhận diện sớm các mối đe dọa.

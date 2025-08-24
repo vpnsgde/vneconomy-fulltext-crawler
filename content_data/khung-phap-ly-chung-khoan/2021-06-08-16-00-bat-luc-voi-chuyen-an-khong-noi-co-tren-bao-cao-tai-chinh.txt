@@ -1,0 +1,75 @@
+Sự vận động của dòng tiền trên các báo cáo đó, kể cả của doanh nghiệp niêm yết méo mó, sai lệch, thậm chí “ăn không nói có” để phục vụ cho mục đích của ông chủ.
+
+Một ví dụ gần đây nhất về một ông “bầu” bóng đá trở thành cổ đông lớn của một ngân hàng cho thấy rõ hơn về vấn đề này. Đó là công ty con A của ông “bầu” phát hành tăng vốn 3,5 nghìn tỷ đồng do các cá nhân mua được uỷ thác bởi công ty mẹ B (cũng của ông “bầu” trên). Sau khi A phát hành thu tiền về lại đem mua cổ phiếu của B và tiền lại chạy ra túi của B, không thay đổi gì.
+
+Soi báo cáo tài chính quý 1/2021 của doanh nghiệp A còn thấy một hi hữu khác. A đã bán một nhà máy xi măng cho công ty C với giá trị 680 tỷ và hạch toán lợi nhuận 571 tỷ. Nhưng C lại mắc nợ A đến 612 tỷ, dưới khoản mục “Khoản phải thu ngắn hạn”. Theo điều tra, C là một công ty mới thành lập chưa được 2 tháng, do 1 số cá nhân liên quan đến B góp vốn vào. Như vậy thương vụ “bán tay trái cho tay phải” này không những “vô tình” giúp A thoát lỗ mà còn lãi đột biến. Và để “tiêu hóa” được khoản phải thu này, quý tới chỉ cần thêm một nghiệp vụ C bán hàng hoá hoặc đầu tư góp vốn vào A là hoàn toàn hợp thức. Điều này cho thấy, lợi nhuận trên báo cáo tài chính có thể chỉ là con số ảo, còn dòng tiền thực sự không xuất hiện.
+
+Những doanh nghiệp như A trên sàn không phải là hiếm, thậm chí “chiêu thức” này còn được sử dụng nhiều lần để đối phó với án hủy niêm yết.
+
+Những thủ thuật gian lận, “xào nấu” báo cáo tài chính (cook the books) trên đã làm sai lệch, méo mó các báo cáo tài chính nhằm thoả mãn mục tiêu ông chủ doanh nghiệp để tránh thuế, phục vụ thâu tóm. Chúng được hợp thức hoá rất khéo, hợp lệ để kiểm toán hoặc là không bắt bẻ được, hoặc là đánh đổi lợi ích để cho qua.
+
+Có rất nhiều ý kiến cho rằng, phải thay đổi các chuẩn mực kế toán như “chuẩn mực tam phân - Triple Entry Accounting”, hoặc chuyển từ chuẩn VAS sang IFRS. Tuy nhiên, với động cơ, kéo theo sự gian lận ngay từ đầu vào thì vấn đề không còn là sự lựa chọn chuẩn mực nào.
+
+Về vấn đề này, VnEconomy đã có cuộc trao đổi với ông Phan Dũng Khánh, Giám đốc Tư vấn đầu tư, Công ty Chứng khoán Maybank KimEng Việt Nam.
+
+Giờ đây, gần như ai ai cũng biết chuyện doanh nghiệp luôn thủ sẵn nhiều bảng cân đối kế toán. Nguyên nhân là do mỗi một bảng cân đối kế toán sẽ được “xào nấu” để phù hợp với từng đối tượng, từng mục đích sử dụng.
+
+Ví dụ như với ban lãnh đạo thì dùng báo cáo tài chính này để nắm bắt thực trạng công ty; với cơ quan thuế thì dùng báo cáo khác để hạn chế thuế phải nộp. Với cổ đông lại có báo cáo khác nữa để củng cố niềm tin với doanh nghiệp, qua đó, phát hành thêm trái phiếu, cổ phiếu.
+
+Thậm chí, để thoả mãn điều kiện vay vốn ngân hàng, chứng minh năng lực tài chính, doanh nghiệp cũng sẵn sàng “chế biến” thêm một bản báo cáo.
+
+Thực ra, có rất nhiều chiêu để sửa báo cáo. Có thể kể đến thủ thuật đơn giản như đối với báo cáo dùng cho bên thuế thì doanh nghiệp tăng chi phí, qua đó giảm lãi và giảm số thuế phải đóng.
+
+
+
+Đối với báo cáo của các cổ đông thì họ làm ngược lại, giảm chi phí để tăng lợi nhuận. Mà để làm được điều này, họ sử dụng các bút toán khác nhau để hợp thức hóa mong muốn đối với sổ sách. Về cơ bản, có hai kiểu “xào nấu”.
+
+Thứ nhất, dạng không có mà thành có. Tức giao dịch, số liệu không có thật nhưng sẽ làm cho nó thành có thật. Ví dụ, hoạt động chuyển nhượng dự án giữa các doanh nghiệp bất động sản là bình thường, nhưng nếu nhìn kỹ đối tượng chuyển nhượng sẽ thấy chủ doanh nghiệp đều có dây mơ rễ má với nhau. Báo cáo lưu chuyển tiền tệ cũng không thấy bất cứ dòng tiền nào chảy vào hay chảy ra vậy mà doanh thu, lãi cho vay vẫn ghi nhận. Bên cạnh đó còn có nhiều thủ thuật có thể biến một công ty vô giá trị thành giá trị khủng (dù chỉ trên sổ sách).
+
+Thứ hai, số liệu có thực nhưng bị xê dịch về không gian hoặc thời gian. Thay vì hạch toán số liệu luôn trong năm thì họ chia lãi hoặc lỗ sang nhiều năm khác; tăng hoặc giảm thời gian khấu hao tài sản; tăng hoặc giảm trích lập dự phòng.
+
+Trách nhiệm của kiểm toán là phải tìm ra được các thủ thuật kế toán để điều chỉnh các báo cáo tài chính về đúng bản chất. Thực tế, qua mỗi một mùa báo cáo, hàng loạt doanh nghiệp bị kiểm toán gọi tên, có ý kiến loại trừ, doanh thu hay lợi nhuận đều sụt giảm.
+
+Nhưng phải nói rằng, đấy chỉ là những gì kiểm toán tìm ra và được công khai. Bản thân kiểm toán cũng đang bị nghi ngờ về việc họ có thực sự độc lập không khi doanh nghiệp là người trả tiền thuê họ. Mặt khác, họ còn được phép linh hoạt trong khung pháp lý của chuẩn mực kiểm toán.
+
+Tôi còn nhớ như in câu chuyện của một cổ đông của 1 ngân hàng 0 đồng đã chia sẻ. Đó là, một buổi sáng thức dậy, họ tự dưng thấy tất cả tài sản của mình đầu tư vào ngân hàng biến mất hết vì ngân hàng bị NHNN mua lại với giá 0 đồng. Trong khi mới quý trước, đơn vị kiểm toán cho biết ngân hàng này vẫn có thể hoạt động dù lỗ. Nhiều câu hỏi lúc bấy giờ đã được đặt ra cho trách nhiệm của kiểm toán, nhưng hầu như không có ai nhắc tới trách nhiệm của họ.
+
+Trên thế giới, trong một đoạn trao đổi giữa đại diện ngành kiểm toán với Quốc hội Mỹ vào năm 1993, khi một nghị sĩ đặt câu hỏi: “Anh kiểm toán người trả tiền cho mình? Vậy ai sẽ kiểm toán anh?”. Đại diện ngành kiểm toán trả lời: “Lương tâm của chúng tôi”.
+
+Ở dưới góc độ của một người đầu tư, tôi suy nghĩ rằng, đến luật pháp Mỹ chắc như vậy còn không thể làm khó đơn vị kiểm toán thì khó có quốc gia nào làm được.
+
+Như vậy, kỷ luật tài chính nằm ở chính suy nghĩ, hành động của doanh nghiệp và “lương tâm” của người kiểm toán. Tuy nhiên, những thứ này thì rất mơ hồ, chả ai có thể đo đếm chuẩn mực được.
+
+Hiện nay mọi người đang dùng kế toán kép. Kế toán kép là việc bảng cân đối kế toán luôn phải cân bằng “nợ” - “có”. Nhưng cân bằng không có nghĩa là chính xác. Việc cố tình ghi sai một cách rất kỳ công sẽ giúp doanh nghiệp đảm bảo các hai bên luôn cân bằng nhưng không hề chính xác. Do đó, nhu cầu cần một bên thứ 3 tin cậy xuất hiện như công ty kiểm toán hoặc một tổ chức trung gian.
+
+Tuy nhiên, việc phát sinh đối tượng thứ 3 cũng chính là một nguy cơ tiềm ẩn khi họ được tiếp xúc với những thông tin, giấy tờ nội bộ, bí mật công ty và cả sự trung thực của bên thứ 3, vì cuối cùng thì họ… cũng vẫn là con người, nghĩa là có rủi ro, sai sót hoặc sự minh bạch không được đảm bảo.
+
+Để hạn chế sửa đổi, chúng ta có thể áp dụng kế toán tam phân. Tức khi cả 2 bên đồng ý về một giao dịch đã xảy ra, dữ liệu sẽ được lưu thẳng lên Blockchain. Và hợp đồng thông minh (smart contract) trong Blockchain là sự quản lý bằng khế ước đối với một giao dịch giữa hai bên liên quan, hay nhiều hơn, có thể được xác minh theo thứ tự thông qua chuỗi khối, thay vì thông qua một bên thứ ba tập trung.
+
+Hiểu đơn giản, thay vì phải dựa vào “lương tâm” của bên thứ ba thì chúng ta sẽ lập một cuốn báo cáo tài chính duy nhất, ai cũng có thể kiểm tra, đối chiếu nhưng không thể sửa được.
+
+Điểm hạn chế hiện tại của kế toán tam phân chính là đầu vào. Nếu chưa được áp dụng dụng rộng rãi, đầu vào có thể phải nhập liệu bằng tay, tức có thể sai sót, cố tình làm giả. Tóm lại đầu vào phải chuẩn ngay từ đầu.
+
+Tuy nhiên, khi được áp dụng rộng rãi và đồng bộ ở cả 2 bên giao dịch đều sử dụng cùng hệ thống kế toán tam phân thì kế toán tam phân mới thật sự phát huy hiệu quả. Kế toán tam phân sẽ tự động ghi, đối chiếu bút toán sau khi giao dịch thành công. Ví dụ, khách hàng mua đồ trong siêu thị và siêu thi này sử dụng kế toán tam phân thì món đồ đó đã được niêm yết giá chuẩn thì người mua khó lòng hạch toán giá bao nhiêu cũng được vì bất kỳ ai cũng đều có thể kiểm tra đối chiếu chéo.
+
+
+
+Hay với những giao dịch giả, mọi người sẽ dễ dàng kiểm tra dòng tiền có ra vào thực không. Rất khó có chuyện doanh nghiệp vừa thành lập, vốn chưa có mà có thể mua được những dự án hàng trăm tỷ đồng.
+
+Đồng thời, như đã nói, mục đích doanh nghiệp “xào nấu” là để có nhiều bản báo cáo. Giờ đây chỉ có một bản thì họ sẽ phải cân đối tổng thể rất nhiều thứ, khó khăn hơn trong việc gian dối báo cáo và thuế cũng sẽ tránh bị thất thoát khi doanh nghiệp khó trốn thuế hơn. Nói như vậy để thấy đây cũng chỉ là biện pháp làm hạn chế chứ không phải giải giải quyết hoàn toàn.
+
+Về tương lai, yếu tố chính ngăn cản sự phát triển của kế toán tam phân là nhiều người không muốn thay đổi hệ thống cũ. Bên cạnh việc đòi hỏi cập nhật lại hệ sinh thái, sổ sách…thì cái lớn hơn làm người ta không muốn thay đổi đó là vì không dễ có thể gian lận được, dẹp bỏ lợi ích nhóm và sự cân bằng biến thành công bằng. Đặc biệt, kỷ luật tài chính sẽ không còn phụ thuộc vào hai từ “lương tâm” mà bằng những dữ liệu thực tế minh bạch và trung thực.
+
+
+
+Một số thủ thuật xào nấu báo cáo
+
+1. Mua bán công ty/ dự án: A bán dự án cho B. Trong khi đó, B do người thân, hoặc liên quan đến người thân của lãnh đạo công ty A thành lập. Theo dõi trên báo cáo lưu chuyển tiền tệ, dòng tiền cũng không chảy vào A nhưng công ty A vẫn ghi nhận lợi nhuận.
+
+2. Che dấu khoản nợ ngoài bảng: A có hàng tồn kho và phải trích lập dự phòng lớn. Công ty B mua lại toàn bộ hàng tồn kho cao hơn giá ban đầu A nhập. Do đó, A được hoàn nhập dự phòng và tăng lãi; còn B ôm lỗ và nợ phải trả. Thực chất B là “sân sau” của A.
+
+3. Mua – Bán và thuê lại: A mua xe của B giá 10 tỷ. A bán lại xe cho C giá 20 tỷ, tức A lời 10 tỷ. Tuy nhiên, xe là công cụ kiếm tiền chính nên A thuê lại xe của C trong 10 năm với giá thuê mỗi năm 1 tỷ. Như vậy, A ăn lãi của tương lai (10 tỷ) và trả lãi dần (mỗi năm 1 tỷ).
+
+4. Làm sạch báo cáo: A lỗ nặng. A tái cấu trúc và làm lỗ nhiều hơn, tức làm sạch báo cáo một lần để kỳ sau không bị ảnh hưởng. Dựa vào nền kết quả hoạt động thấp, A tăng trưởng trở lại và hết lỗ.
+
+5. Mua bán, sáp nhập: A mua 100% B với giá 10 tỷ. Do đó, A được hợp nhất tài sản của B. B lại có miếng đất và A đánh giá miếng đất này 20 tỷ. Nên A ghi nhận lãi 10 tỷ.

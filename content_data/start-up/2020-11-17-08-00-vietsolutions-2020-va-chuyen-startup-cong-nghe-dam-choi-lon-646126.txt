@@ -1,0 +1,55 @@
+Các startup tham gia Viet Solutions 2020 được đánh giá cao khi sản phẩm vừa có hàm lượng công nghệ cao vừa có giá trị thực tiễn, đội ngũ lãnh đạo không chỉ am hiểu kỹ thuật mà còn nắm tốt kỹ năng quản trị doanh nghiệp. Và đặc biệt họ có khát vọng rất lớn về một Việt Nam hùng cường, dưới sự dẫn dắt của "sếu đầu đàn" như Viettel.
+
+Chiếc máy bay không người lái (Drone) từ từ bay lên khỏi mặt đất, lượn trong khoảng không bên trên cánh đồng ngô rộng mênh mông. Từ 2 chiếc vòi phun gắn dưới bụng máy bay, thuốc bảo vệ thực vật được phun xuống, phủ lên những cây ngô một cách nhanh chóng mà không cần sự xuất hiện nào của con người.
+
+Chiếc drone là hình ảnh quen thuộc tại nước Mỹ - cái nôi của những tỷ phú nông dân lái trực thăng đi thăm đồng. Nhưng chiếc máy bay được nói đến ở trên là một sản phẩm của Việt Nam, đến từ một doanh nghiệp mang tên MiSmart – đơn vị vừa giành giải Nhất cuộc thi Tìm kiếm Giải pháp chuyển đổi số quốc gia Viet Solutions 2020.
+
+"3 đội giành giải thưởng đều đạt được sự thống nhất cao của Ban giám khảo, không chỉ bởi hàm lượng công nghệ trong giải pháp của họ mà còn ở góc độ hiệu quả của giải pháp đó khi đưa vào giải quyết bài toán thực tiễn", ông Vũ Minh Trí, Phó tổng giám đốc của Công ty VNG, thành viên ban giám khảo của Viet Solutions 2020, nói.
+
+Cùng với MiSmart đứng trên bục vinh quang là đội thi map4D đạt giải Nhì và CyRada đạt giải ba.
+
+Máy bay không người lái của MiSmart ngoài việc có thể phun tưới thuốc với tốc độ 8ha/giờ và tự động quay về nạp thì giá trị cao hơn nằm ở việc chiếc drone này có thể chụp ảnh cánh đồng rồi phát hiện điểm bất thường của cây trồng bằng công nghệ phản xạ hồng ngoại. Hệ thống của MiSmart sẽ dùng AI phân tích hình ảnh để đo lường và dự báo sức khỏe của cánh đồng.
+
+Qua đó, người trồng được cung cấp nhật ký canh tác, tiết kiệm thuốc và nước, hạn chế thiệt hại và nâng cao chất lượng nông sản. Đây là giải pháp cực kỳ hiệu quả đối với nông nghiệp quy mô lớn. Đặc biệt, giá sản phẩm Drone của doanh nghiệp Việt này chỉ bằng 1/3 của các doanh nghiệp ngoại đang cung cấp cho các tập đoàn nông nghiệp tại Việt Nam.
+
+Đội IOTLink Map4D đem đến sản phẩm Map4D - nền tảng bản đồ số. Theo chia sẻ của đội ngũ sáng lập, sự ra đời của map4D bắt nguồn từ suy nghĩ: Google thu thập dữ liệu của người Việt Nam, vẽ nên bản đồ số rồi bán lại cho người Việt với giá cao. Nếu một ngày người khổng lồ này rút chân, Việt Nam còn lại gì? Đó là lý do họ tự xây dựng nền tảng bản đồ số thuộc sở hữu của người Việt và đồng thời phát triển dịch vụ bản sao kỹ thuật số cho các khu đô thị.
+
+Trong khi đó, CyRadar được đánh giá là một sản phẩm đầy tiềm năng nếu có thể kết hợp với các nhà mạng. Sản phẩm này cung cấp giải pháp bảo vệ mạng máy tính của trường học một cách an toàn và giám sát việc truy cập Internet của học sinh, giúp các em tránh xa nội dung không phù hợp. Nếu triển khai ở quy mô rộng đến từng hộ gia đình nhờ kết hợp với nhà mạng, các phụ huynh có thể giám sát và kiểm soát thời gian, nội dung truy cập Internet của con cái.
+
+Ông Vũ Minh Trí cũng bày tỏ sự tiếc nuối đối với đội Cmetric - một sản phẩm giúp doanh nghiệp số hóa, mở rộng, phân tích và tổng hợp dữ liệu khách hàng từ nhiều nguồn dữ liệu khác nhau.
+
+"Đây là đội tôi rất ấn tượng khi họ giải quyết được một trong những bài toán mà rất ít doanh nghiệp Việt Nam giải quyết được. Đó là bài toán về dữ liệu lớn, dataplatform hay chatbot sử dụng AI để giải quyết machine learning bằng giọng nói" - Vị giám khảo chia sẻ.
+
+Năm 2019, một cuộc thi mang tên Viettel Advanced Solution Track được tổ chức bởi Tập đoàn Viettel. Cuộc thi dành có quy mô quốc tế nhằm tìm kiếm các sản phẩm công nghệ phục vụ cho lĩnh vực viễn thông.
+
+Từ những kinh nghiệm rút ra từ Viettel Advanced Solution Track, năm 2020, cuộc thi mới có tên gọi Tìm kiếm giải pháp chuyển đổi số Việt Nam (Viet Solutions) 2020. So với cuộc thi năm trước, lĩnh vực cho các giải pháp chuyển đổi số được mở rộng hơn rất nhiều và tập trung vào 8 lĩnh vực Chính phủ ưu tiên về chuyển đổi số.
+
+Đặc biệt, đây là cuộc thi tìm kiếm giải pháp chuyển đổi số với sự gợi mở về một mô hình vườn ươm cho các startup công nghệ chưa từng có trước đó ở Việt Nam: Nhà nước, Tập đoàn lớn, Giải pháp của Startup. Cũng nhờ đó, gần 350 đội dự thi (tăng 60% so với cuộc thi trước) đến từ 23 quốc gia đã đổ về Viet Solutions, cho thấy sức hút của cuộc thi này. Vào vòng chung kết có 9 đội đến từ Việt Nam và 1 đội từ Mozambique.
+
+Bà Lê Hàn Tuệ Lâm – Giám đốc quỹ Nextrans, thành viên Ban giám khảo đánh giá: "Các đội thi ở Viet Solutions 2020 có chất lượng cao. Đặc biệt là những đội Việt Nam đã giới thiệu giải pháp công nghệ tiên tiến mà các đội ở quốc gia khác như Mỹ, châu Âu rõ ràng có lợi thế hơn, ví dụ như giải pháp sử dụng máy bay không người lái. Đây là một tiền đề giúp các đội sau này được tiếp thêm động lực khi thấy thành công của đàn anh đi trước".
+
+Chất lượng cao theo lời nữ giám khảo nhận xét thể hiện ở mức độ hoàn thiện sản phẩm và thị trường mà các startup hướng tới. "Thị trường hướng tới quá bé, thì dù họ có cố gắng bao nhiêu cũng chỉ trở thành một công ty nhỏ" – bà Tuệ Lâm nói – "Nhưng những startup ở Viet Solutions 2020 dám dấn thân vào cuộc chơi của các tay chơi lớn hơn và làm tốt, có doanh thu".
+
+Những năm qua,trong làn sóng quốc gia khởi nghiệp, hàng loạt cuộc thi dành cho startup được tổ chức và cũng không thiếu cuộc thi quy mô lớn. Tuy nhiên, Viet Solution 2020 là cuộc thi quy mô lớn nhất và cũng là cuộc thi duy nhất có sự kết nối, cộng hưởng giữa các bên, gồm cơ quan quản lý nhà nước, các doanh nghiệp lớn và các tổ chức, cá nhân có giải pháp sáng tạo.
+
+Trong đó, Bộ Thông tin Truyền thông đóng vai trò kết nối các bộ ngành, tháo gỡ vướng mắc và tạo lập thị trường và vườn ươm. Tập đoàn công nghệ lớn của quốc gia, mà tiên phong là Viettel đóng vai trò là nhà tư vấn, đồng hành cùng các doanh nghiệp công nghệ, hỗ trợ cho bất kỳ sản phẩm chuyển đổi số nào có tiềm năng.
+
+Điểm đặc biệt của cuộc thi này là các startup tham gia phải có sản phẩm đã hoàn thiện và phù hợp với chủ đề cuộc thi, tức giải pháp đã giải quyết được vấn đề, chứ không còn là tiềm năng hay ý tưởng. Các ý tưởng, chưa hình thành sản phẩm/giải pháp hoàn chỉnh sẽ không đủ tiêu chuẩn dự thi. Chính vì tiêu chí như vậy, chất lượng đội thi cao hơn hẳn các cuộc thi startup phổ biến trong những năm qua tại Việt Nam.
+
+Câu chuyện từ ý tưởng đến thực tiễn đã được nói đến nhiều lần trước thực trạng các startup thường giàu đam mê nhưng non kinh nghiệm trong nhiều thứ, dẫn đến sự thất bại của hơn 90% startup trên thị trường. Nếu được các tập đoàn lớn, có nhiều kinh nghiệm quản trị và mạng lưới kinh doanh rộng lớn hỗ trợ, các công ty khởi nghiệp có thể đẩy nhanh sản phẩm ra thị trường.
+
+3 đội đoạt giải của Viet Solutions là những đội giành được giải thưởng bằng tiền mặt (200 triệu đồng cho giải Nhất, 100 triệu cho giải Nhì và 50 triệu cho giải Ba), tài trợ đặc biệt của Tập đoàn Viettel cho việc tham dự sự kiện công nghệ lớn của thế giới. Thế nhưng điều quan trọng hơn ở đây là những cơ hội không phải giải thưởng chính thức mà nhiều startup tham gia cuộc thi đều được hưởng lợi.
+
+Đó là chương trình đào tạo bởi các chuyên gia, lãnh đạo doanh nghiệp lớn, "thực chiến" tốt nhất Việt Nam nhằm giúp đội ngũ lãnh đạo của startup hoàn thiện giải pháp của mình. Đó là những cơ hội hợp tác với tập đoàn lớn như Viettel – đơn vị có tập khách hàng tới 100 triệu khách hàng tại 11 thị trường ở châu Á, châu Phi và châu Mỹ. Bên cạnh đó, Viettel còn có thể hỗ trợ về mặt hạ tầng công nghệ băng rộng và băng siêu rộng như 4G, 5G; hạ tầng kết nối vạn vật IoT, hạ tầng Cloud... và kỹ năng triển khai giải pháp hiệu quả tới người dùng cuối.
+
+Sau đó, dưới sự bảo trợ của Bộ Thông tin Truyền thông, những giải pháp hoàn thiện, có khả năng nhân rộng hoàn toàn có thể được triển khai trên hệ thống của các doanh nghiệp công nghệ thông tin lớn khác.
+
+Ông Lê Đăng Dũng - Quyền Chủ tịch kiêm Tổng giám đốc của Tập đoàn Viettel cũng tiết lộ, dù chỉ có 10 đội thi lọt đến vòng chung kết, nhưng thực tế, đã có hàng chục giải pháp và ý tưởng rất tốt để Viettel đưa vào chương trình hợp tác và đưa vào cuộc sống trong thời gian tới.
+
+"Cuộc thi tìm kiếm giải pháp công nghệ số quốc gia Việt Solution mùa giải 2020 đã đi đến bước cuối cùng của hành trình. Nhưng rất có thể, đây sẽ là khởi đầu cho một thay đổi lớn lao đối với tất cả chúng ta và toàn xã hội. Bởi cá nhân tôi hoàn toàn tin tưởng vào khả năng một ý tưởng, giải pháp được chúng ta nâng bước hôm nay có thể tạo ra một thay đổi sâu sắc, hoàn toàn và không ngờ ở bất kỳ đâu trên thế giới" – ông Lê Đăng Dũng kết luận.
+
+Bài:Thu Nguyễn
+
+Ảnh: Trần Tuấn
+
+Thiết kế: Hoa Hùng

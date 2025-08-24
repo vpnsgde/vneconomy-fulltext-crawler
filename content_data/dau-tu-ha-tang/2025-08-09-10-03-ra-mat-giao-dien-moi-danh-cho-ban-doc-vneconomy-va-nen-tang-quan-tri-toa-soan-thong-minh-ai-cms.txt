@@ -1,0 +1,40 @@
+Sự kiện ra mắt Giao diện mới dành cho bạn đọc VnEconomy và Nền tảng quản trị toà soạn thông minh - AI CMS của Tạp chí Kinh tế Việt Nam/VnEconomy có ý nghĩa vô cùng quan trọng khi diễn ra đúng vào dịp cả nước đang kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh nước Cộng hoà xã hội chủ nghĩa Việt Nam (02/9/1945-02/9/2025).
+
+Giao diện mới với nhiều tính năng và tiện ích nhằm giúp bạn đọc tương
+tác tối ưu trên nhiều nền tảng, nhiều thiết bị. Đặc biệt, nền tảng quản trị tòa
+mới của VnEconomy tích hợp nhiều giải pháp trí tuệ nhân tạo để sản xuất và phân
+phối nội dung, bao gồm: tính năng dịch tự động thông qua công cụ dịch thuật AI
+được đào tạo chuyên biệt với các thông tin kinh tế hướng đến đối tượng độc giả
+quốc tế; tính năng tóm tắt bài viết tự động bằng công cụ AI tích hợp trực tiếp;
+tính năng Podcast tự động nghe toàn bộ những bài viết quan trọng nhất hàng ngày được đăng tải
+VnEconomy.
+
+Đặc biệt, công cụ chatbot AI thông minh Askonomy cũng được tích hợp vào
+website tiếng Anh và tiếng Việt, giúp bạn đọc trong và ngoài nước có thể hỏi
+đáp những thông tin kinh tế chính xác và cập nhật hàng giờ. Đây là chatbot AI
+do VnEconomy phát triển với server đặt tại Việt Nam và chỉ được đào tạo bằng bộ
+dữ liệu đã được kiểm chứng của tòa soạn. Công cụ này được định hướng trở thành
+“trợ lý thông tin” hữu ích cho bạn đọc toàn cầu có nhu cầu tiếp cận thông tin
+kinh tế Việt Nam nhanh chóng và đáng tin cậy.
+
+Cùng với đối tác chiến lược
+Hemera Media, Tạp chí Kinh tế Việt Nam/VnEconomy đã phát triển hệ thống quản trị
+nội dung (CMS) hoàn toàn mới, ứng dụng trí tuệ nhân tạo (AI) một cách sâu rộng
+vào toàn bộ quy trình quản trị và phân phối nội dung. Từ ban biên tập đến các
+ban chuyên môn, biên tập viên và phóng viên sẽ được trải nghiệm một hệ thống
+làm việc tiện ích vượt trội.
+
+Những năm gần đây, Tạp chí Kinh tế Việt Nam/VnEconomy đang có những bước chuyển mình mạnh mẽ, từ cơ cấu tổ chức, mô hình hoạt động, định hướng nội dung cho đến quy trình sản xuất và phân phối. Một quyết định táo bạo nhưng đầy sáng suốt đã giúp VnEconomy đạt được những thành công bước đầu: hợp tác đầu tư phát triển nền tảng trí tuệ nhân tạo (AI) Asko Platform dành riêng cho Toàn soạn và trở thành cơ quan báo chí tiên phong tại Việt Nam sở hữu một hệ sinh thái ứng dụng AI phong phú, được tùy chỉnh riêng và hướng đến phục vụ độc giả một cách tối ưu.
+
+Asko Platform cung cấp các công cụ mạnh mẽ cho các doanh nghiệp và các tổ chức bao gồm: Công cụ tìm kiếm dữ liệu chuyên sâu (AskoChat); Công cụ dịch thuật chuyên ngành (AskoVerse); Công cụ tóm tắt dữ liệu kinh tế (AskoBrief); Công cụ chuyển đổi văn bản thành giọng nói (AskoVocal); Công cụ chuyển đổi giọng nói thành văn bản (AskoScript); Công cụ phiên dịch ảo theo thời gian thực (real-time) (AskoRT)... và nhiều công cụ khác đang tiếp tục được phát triển.
+
+Một hệ thống CMS hiện đại, với sự ứng dụng sâu rộng của trí tuệ nhân tạo (AI), sẽ cách mạng hóa và tối ưu hóa quy trình hoạt động của một tòa báo trên nhiều phương diện, bao gồm tối ưu hóa quy trình sản xuất nội dung và quản trị tòa soạn hội tụ, tối ưu hóa xuất bản.
+
+Với khát vọng thúc đẩy sự
+phát triển chung của đất nước cũng như của cộng đồng doanh nghiệp, Tạp chí Kinh
+tế Việt Nam - VnEconomy cũng đã nỗ lực suốt một hành trình dài nhằm tạo dựng và
+phát triển hệ sinh thái số, vận hành Tòa soạn số và phát hành các ấn phẩm báo
+chí trên nền tảng số nhằm tạo thuận lợi nhất cho doanh nghiệp và người dân tiếp
+cận các thông tin kinh tế.
+
+Trong hành trình phát triển hơn 30 năm, Tạp chí Kinh tế Việt Nam/VnEconomy luôn chú trọng đến việc sáng tạo, đổi mới nhằm đáp ứng tốt nhất nhu cầu của độc giả và phụng sự công cuộc phát triển nhanh, mạnh, vững chắc nền kinh tế Việt Nam.

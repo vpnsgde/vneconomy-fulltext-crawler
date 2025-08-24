@@ -1,0 +1,43 @@
+Các chuyên gia đã nhấn mạnh điều này tại tọa đàm và ra mắt đặc san toàn cảnh Tài chính số do Tạp chí Đầu tư Tài chính- VietnamFinance tổ chức ngày 10/5với chủ đề dữ liệu và trí tuệ nhân tạo. Tọa đàm nhằm làm rõ những cơ hội và thách thức cũng như đề xuất các giải pháp để hoàn thiện hành lang pháp lý trong việc xây dựng, khai thác và sử dụng dữ liệu. Bên cạnh đó, tọa đàm cũng nêu các triển vọng ứng dụng AI trong nền kinh tế và các lĩnh vực tài chính, ngân hàng, fintech...
+
+Chuyển đổi số đang diễn ra ở tất cả các ngành nhưng xét về mức độ phổ biến, tài chính ngân hàng là ngành mạnh mẽ nhất chỉ sau ngành công nghệ. Việc sử dụng các dịch vụ tài chính trực tuyến ngày càng trở nên quen thuộc, mang lại nhiều giá trị tiện ích, thu hút sự quan tâm và tin dùng của người dân.
+
+Không chỉ dừng lại ở việc đưa các giao dịch lên nền tảng trực tuyến, các tổ chức tài chính đang tích cực áp dụng công nghệ mới như trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data), Blockchain… để nâng cao trải nghiệm của người dùng.
+
+Nhấn mạnh tầm quan trọng của việc xây dựng hệ thống dữ liệu trong phát triển nền kinh tế số, ông Hoàng Anh Minh, Phó chủ tịch Hiệp hội Tư vấn Tài chính Việt Nam, Tổng biên tập Tạp chí Đầu tư Tài chính- VietnamFinance khẳng định: trong thời đại số hóa, dữ liệu được coi là "dầu mỏ" mới, là nguồn tài nguyên quý giá mà mọi tổ chức, doanh nghiệp và cá nhân đều đang chạy đua để khai thác. Việc xây dựng và quản lý hệ thống dữ liệu không chỉ là cơ sở để thúc đẩy sự phát triển kinh tế, mà còn là yếu tố quyết định trong định hình và cải thiện chất lượng cuộc sống của người dân.
+
+Theo ông Minh, trong ngành tài chính- ngân hàng, việc sử dụng dữ liệu đã và đang mở ra một loạt các cơ hội mới. Từ việc phân tích dữ liệu để dự báo xu hướng thị trường đến tối ưu hóa quy trình dịch vụ tài chính. Dữ liệu đang đóng vai trò ngày càng quan trọng trong việc nâng cao hiệu quả hoạt động và cung cấp dịch vụ tốt nhất cho khách hàng.
+
+Từ góc độ doanh nghiệp, ông Nguyễn Tiến Sỹ, Giám đốc Ban Chăm sóc khách hàng, Khối Tài chính số- EVN Finance, cho biết đơn vị đã triển khai chương trình chuyển đổi số từ năm 2020 và là một trong những công ty tài chính đầu tiên ứng dụng công nghệ công nghệ phân tích dữ liệu để tăng trải nghiệm khách hàng, nâng cao chất lượng dịch vụ.
+
+“Nếu như tại các công ty tài chính thông thường, khách hàng khi đi vay sẽ phải kê khai thông tin vào bảng biểu, sau đó thông tin sẽ chuyển qua nhiều bộ phận chuyên môn khác nhau để xử lý, thì tại EVN Fiance, với Big Data, khách hàng chỉ cần 3-5 phút cho tất cả các khâu tải app, kê khai và phê duyệt”.
+
+
+
+Theo ông Sỹ với doanh nghiệp, có hai lợi ích khi ứng dụng công nghệ và dữ liệu Big Data. Không chỉ mang lại sự nhanh chóng, tiện lợi cho khách hàng, các doanh nghiệp còn nâng cao năng suất lao động, giúp phục vụ khách hàng nhanh hơn.
+
+Trong khi các công ty tài chính, thông thường cần đến bộ phận thẩm định để thẩm định hồ sơ của khách hàng có đủ điều kiện hay không thì với công nghệ, Big Data, EVN Finance có thể thực hiện các khâu này trên hệ thống, kiểm tra xem hồ sơ của khách hàng có đảm bảo hay không từ dữ liệu. Chính điều này đã làm tăng số lượng khách hàng tăng lên 4 lần, trong khi số lượng nhân sự giảm 40%.
+
+Như vậy, “việc ứng ứng dụng công nghệ giúp tăng năng suất lao động tăng và trải nghiệm khách hàng. Với doanh nghiệp, Big Data chính là tiền”, ông Sỹ nhấn mạnh.
+
+Chia sẻ quan điểm, ông Đỗ Danh Thanh, Phó tổng giám đốc Tư vấn chuyển đổi số và An ninh mạng, Deloitte Việt Nam, ví von, “Trước đây ai có tiền là vua, nhưng bây giờ “Data is king” ("dữ liệu là vua”). Dữ liệu không phải bây giờ mới có, mà nhờ sự phát triển mạnh mẽ của công nghệ, giúp xử lý được lượng dữ liệu rất lớn nên bây giờ chúng ta nhận thức được tầm quan trọng của dữ liệu.
+
+Bên cạnh những tiện ích cơ hội mang lại, sự phát triển nhanh chóng của tài chính số cũng đặt ra nhiều thách thức và rủi ro. Một trong những vấn đề lớn nhất hiện nay là về bảo vệ dữ liệu người dùng. Bên cạnh đó là dấu hỏi về quyền được tiếp cận tài chính một cách công bằng, bình đẳng cũng như các rủi ro liên quan đến việc ứng dụng các công nghệ mới, trong đó có công nghệ AI.
+
+Theo các chuyên gia, việc thu thập, lưu trữ và bảo mật dữ liệu đang là một trong những vấn đề vô cùng quan trọng, cấp bách đối với các tổ chức tài chính. Đồng thời, việc đảm bảo tính minh bạch và tuân thủ quy định pháp luật cũng là một thách thức lớn đối với việc sử dụng dữ liệu trong ngành tài chính- ngân hàng.
+
+Liên quan tới thực trạng lộ lọt dữ liệu cá nhân ở Việt Nam, đại diện Deloitte Việt Nam đưa ra số liệu thống kê cho thấy tin tặc tấn công liên tục khoảng 1.000- 1.2000 vụ/tháng để thu dữ liệu, quy mô ngày càng lớn. Những vụ tấn công dữ liệu này làm ảnh hưởng tới tiền bạc, danh tiếng của doanh nghiệp và niềm tin khách hàng.
+
+Để bảo vệ an toàn, bảo mật dữ liệu, ông Thanh cho rằng công nghệ chỉ là 1 trong 4 trụ cột (bao gồm: con người, quy trình, công nghệ và chiến lược). Doanh nghiệp chỉ bỏ tiền mua công nghệ nên không thể bảo đảm về mặt chiến lược.
+
+Một vấn đề khác trong việc bảo mật dữ liệu tại các doanh nghiệp Việt Nam là việc doanh nghiệp không có dữ liệu "back-up" để xử lý nhanh vấn đề. Một số doanh nghiệp chứa rất nhiều dữ liệu khách hàng nhưng không có backup và không đưa ra được phương án khắc phục các sự cố.
+
+Nêu thực trạng này, đại diện Deloitte Việt Nam khuyến nghị các doanh nghiệp phải luôn cảnh giác với việc bị ảnh hưởng bởi lỗ hổng để giảm thiểu tối đa hệ quả.
+
+Từ thực tế hiện nay, Luật sư Nguyễn Thanh Hà, Chủ tịch Công ty Luật SBLaw, cho rằng nhận thức về bảo vệ dữ liệu cá nhân của nhiều doanh nghiệp vẫn còn tương đối sơ khai.
+
+Trong thời gian tới, Chính phủ có thể sẽ ban hành nghị định xử lý vi phạm hành chính, vi phạm về dữ liệu cá nhân đối với các doanh nghiệp. Theo nghị định này, mức xử phạt đối với những doanh nghiệp tiết lộ dữ liệu cá nhân, không làm đúng với cam kết về bảo vệ dữ liệu cá nhân tối đa 5% doanh thu- là rất lớn. Tuy vậy, đến nay, nhiều doanh nghiệp vẫn chưa biết cung cấp báo cáo xử lý tác động dữ liệu cá nhân cho các cơ quan liên quan như thế nào cũng như chưa thực sự hiểu được trách nhiệm tuân thủ ra sao, ông Hà cho hay.
+
+“Chuyển đổi số là xu thế tất yếu và tất cả cá nhân, tổ chức, quốc gia phải chấp nhận xu thế để có thể hành động tương thích và phòng tránh rủi ro. Và một khi đã chấp nhận xu thế, chúng ta phải có hành vi đúng đắn”. Nhấn mạnh điều này, PGS.TS Nghiêm Thị Thà, Tổng thư ký Hiệp hội Tư vấn Tài chính Việt Nam, cho rằng mỗi cá nhân, tổ chức phải xác định dữ liệu là nguồn tài nguyên quan trọng nhất và khó bảo mật hoàn toàn, vì dù vô tình hay hữu ý cũng có thể bị lộ lọt. Do đó, phải nâng cao nhận thức về việc bảo mật dữ liệu.
+
+Theo TS.Thà, dữ liệu chia ra 3 cấp độ là cá nhân, tổ chức và quốc gia. Trước hết, cần tự bảo vệ mình, tránh đưa thông tin cá nhân lên mạng. Thứ hai, các tổ chức thu thập dữ liệu khách hàng cần tuân thủ đạo đức nghệ nghiệp. Thứ 3, trách nhiệm của cơ quan quản lý nhà nước là vô cùng quan trọng.

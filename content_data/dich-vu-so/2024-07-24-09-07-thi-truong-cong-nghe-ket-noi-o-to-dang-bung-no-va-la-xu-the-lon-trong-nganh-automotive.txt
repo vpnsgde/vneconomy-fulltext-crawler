@@ -1,0 +1,43 @@
+Nhận định này được ông Nguyễn Đức Kính, Tổng giám đốc FPT Automotive chia sẻ tại sự kiệnngày 23/7 vềchủ đề “Định hình ngành công nghiệp ô tô trong kỷ nguyên số”.
+
+Ông Kính cho biết trong ngành Automotive có nhiều tầng, trong đó phân ra 3 tầng cơ bản. Tầng cao nhất là các OEM (Original Equipment Manufacturer) là các hãng sản xuất ô tô như Vinfast, Toyota, Honda; BMW…
+
+Tầng thứ 2 là các Tier 1 supplier (Nhà cung cấp linh kiện bán trực tiếp cho các OEM). Trong ô tô có chục nghìn linh kiện lớn nhỏ, cần nhiều nhà cung cấp, trong chuỗi cung ứng, tiêu biểu như Bosch, Magna, Denso.
+
+Tầng cuối cùng là Chip Makers: trong ô tô có nhiều con chip chạy trên đó được cung cấp bởi các bên như NVIDIA, Qualcomm, NXP…
+
+
+
+Theo ông Kính, xu hướng thị trường Automotive hiện nay xoay quanh 4 chữ cái CASE. Một chiếc xe hiện nay được kết nối internet Connected (C) với thế giới bên ngoài, truyền nhạc, ứng dụng dịch vụ mua sắm. Những chiếc xe này được ví như điện thoại thông minh gắn 4 bánh xe nhưng đòi hỏi tính an toàn và bảo mật cao hơn.
+
+“Cung cấp giải pháp công nghệ hệ thống kết nối cho xe ô tô (kết nối bên trong và kết nối xe với các dịch vụ bên ngoài) là thị trường đang bùng nổ, rất nhiều tiềm năng, và là xu thế lớn trong ngành Automotive”, ông Kính nói.
+
+Về xe tự lái, tự hành Autonomous Driving (A), ước tính thị trường này đạt khoảng 200 tỷ USD.
+
+Hiện nay những chiếc xe tự lái của hãng Tesla được đánh giá đứng đầu thế giới. Trên thế giới, cả trăm hãng xe đang đầu tư, chạy đua với xe tự lái, nhưng chỉ có một số hãng có xe tự lái cấp độ 2- 2,5 (trong 5 cấp độ).
+
+Ngoài ra, xe hiện nay cũng được định nghĩa bằng phần mềm Software defined vehicle (SDV). Trước đây khi mua xe đánh giá bằng hàng loạt các tiêu chí về mặt cơ khí nhưng hiện nay, người dùng quan tâm nhiều tới vấn đề kết nối, cập nhật phần mềm, chức năng tự lái…
+
+Theo ước tính hiện có khoảng 150 triệu dòng lệnh chạy trên ô tô. Số lượng dòng lệnh trên ô tô gấp 7 lần 1 chiếc máy bay hiện đại nhất. SDV là xu hướng của ô tô hiện nay.
+
+Không những thế, xu hướng các hãng xe hiện nay đều chạy đua với xe điện (E- Electric vehicle). Đây là xu hướng tất yếu và để đáp ứng xu thế này cần hàng loạt các công nghệ.
+
+Trước những xu hướng, tiềm năng cơ hội lớn từ thị trường, ông Kính nhấn mạnh quan điểm định hướng của tập đoàn này không sản xuất ô tô mà cung cấp dịch vụ giải pháp và dịch vụ công nghệ phần mềm, viết ra các hệ thống chạy trong các linh kiện cho các ô tô và chút phần cứng cho ngành Automotive.
+
+
+
+Thực tế, trong 1 chiếc xe ô tô hiện có khoảng 100 hệ thống điều khiển. Đây là một mảng rất tiềm năng, cơ hội lớn cho các nhà cung cấp giải pháp phần mềm.
+
+Ông Kính thông tin, FPT Automotive cung cấp hầu hết hệ thống phần mềm cho ô tô, với khoảng 150 khách hàng trong tất cả các tầng của ngành Automotive.
+
+Trong số này có 17% là các hãng ô tô trên thế giới (các OEM), 60% là các nhà cung cấp linh kiện, chuỗi cung ứng Tier 1 Supplier, còn lại là các hãng chip cho ô tô.
+
+Ngành ô tô đang thay đổi mạnh mẽ trước sự phát triển của công nghệ mới. “Mục tiêu chúng tôi trở thành nhà cũng cấp dịch vụ và giải pháp về ô tô đạt doanh số 1 tỷ USD vào năm 2030 trong đó tập trung thế mạnh hệ thống giải trí trên xe hơi, nền tảng AUTOSAR, AI và xe tự lái. Hiện nay 70% doanh số của công ty đến từ hai lĩnh vực là hệ thống giải trí trên ô tô và nền tảng AUTOSAR. Phần đến từ ADAS- xe tự lái khoảng 5%”, ông Kính chia sẻ.
+
+Cũng theo ông Kính, với xu hướng phát triển mạnh mẽ, nhu cầu nhân lực trong lĩnh vực này rất lớn. Ngành ô tô đang cần rất nhiều kỹ sư phần mềm để tạo ra những trải nghiệm mới cho xe, phục vụ người dùng. Riêng thị trường Mỹ, ước tính năm 2024 cần khoảng 27.000 kỹ sư mới cho phần mềm cho ngành ô tô.
+
+FPT Automotive hiện có khoảng 4.500 nhân sự, trong đó hơn 90% nhân sự làm phần mềm cho ô tô. Ước tính từ nay đến năm 2025 sẽ cần thêm khoảng 1.000 nhân sự, ông Kính thông tin.
+
+Hiện nay, doanh số thị trường Nhật Bản và Hàn Quốc chiếm tới 60% doanh số của FPT Automotive. Đây là hai thị trường quan trọng của công ty và các thị trường còn lại là 40%.
+
+Tuy nhiên, cái nôi của ô tô là châu Âu và hai thị trường Automotive lớn nhất của thế giới là Trung Quốc và Mỹ. Mỹ không những là thị trường lớn của thế giới mà còn là thị trường dẫn đầu thế giới về công nghệ nói chung và công nghệ ô tô nói riêng.

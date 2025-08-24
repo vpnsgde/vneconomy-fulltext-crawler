@@ -1,0 +1,15 @@
+Đó là những dự báo về tình hình tấn công có chủ đích APT trong năm 2023 vừa được các chuyên gia nghiên cứu và phân tích của hãng Kaspersky đưa ra dựa trên cơ sở theo dõi hơn 900 nhóm và chiến dịch APT.
+
+Các nhà nghiên cứu dự báo về khả năng cao một WannaCry thế hệ tiếp theo sẽ xuất hiện trong năm 2023. Lý do có thể giải thích cho sự việc này là kẻ tấn công tinh vi nhất thế giới có khả năng sở hữu ít nhất một cách khai thác, và căng thẳng trên toàn cầu hiện tại làm gia tăng khả năng tấn công và rò rỉ dữ liệu. Sự vụ gần nhất là tấn công do WannaCry tiến hành, sử dụng lỗ hổng EternalBlue để tự động phát tán ransomware đến máy tính.
+
+Những thay đổi lớn cũng sẽ được phản ánh trong các loại mục tiêu và kịch bản tấn công mới. Các chuyên gia tin rằng trong năm 2023, có thể sẽ thấy những kẻ tấn công táo bạo và các chuyên gia thành thạo trong việc kết hợp tấn công mạng và tấn công vật lý sử dụng drone (máy bay không người lái) để tấn công tiệm cận. Một trong những kịch bản tấn công có thể xảy ra là gắn drone với công cụ thu thập WPA dùng bẻ khóa mật khẩu Wi-Fi ngoại tuyến hoặc đánh rơi USB độc hại.
+
+Các chuyên gia cũng dự báo về một phần mềm độc hại truyền tín hiệu tình báo SIGINT. Một trong những vectơ tấn công mạnh nhất sử dụng các máy chủ ở các vị trí quan trọng của đường trục internet cho phép các cuộc tấn công man-on-the-side (kẻ bên lề) có thể trở lại mạnh mẽ hơn vào năm tới. Các cuộc tấn công này rất khó phát hiện, nhưng có thể sẽ trở nên phổ biến hơn.
+
+Với bối cảnh chính trị hiện tại, các chuyên gia dự đoán các cuộc tấn công mạng gây rối và phá hủy sẽ đạt số lượng kỷ lục, ảnh hưởng đến cả khu vực chính phủ và các ngành công nghiệp trọng điểm. Có khả năng một phần trong số chúng sẽ không dễ dàng truy nguyên được từ các sự cố mạng. Phần còn lại sẽ ở dạng tấn công giả dạng ransomware hoặc hoạt động hacktivist. Các cuộc tấn công mạng quy mô lớn nhắm vào cơ sở hạ tầng dân sự, như lưới năng lượng hoặc phát sóng công cộng cũng có thể trở thành mục tiêu. Bên cạnh đó là các dây cáp dưới nước và trung tâm phân phối sợi quang vốn khó bảo vệ.
+
+Cũng theo dự báo, trong năm 2023, máy chủ mail sẽ trở thành mục tiêu hàng đầu. Các máy chủ mail chứa thông tin tình báo quan trọng sẽ được các tác nhân APT quan tâm và sở hữu bề mặt tấn công lớn nhất. Những công ty dẫn đầu thị trường về loại phần mềm này đã phải đối mặt với việc khai thác các lỗ hổng nghiêm trọng và năm 2023 sẽ là năm “zero-day” với các chương trình email lớn.
+
+Ngoài ra, các tấn công APT cũng chuyển hướng sang công nghệ, nhà sản xuất và vận hành vệ tinh. Tấn công và phát tán dữ liệu sẽ tồn tại trong năm tới với việc các tác nhân APT làm rò rỉ dữ liệu về nhóm đối thủ hoặc phát tán thông tin.
+
+Các nhóm APT sẽ chuyển từ CobaltStrike sang các công cụ khác. CobaltStrike là công cụ được các nhóm APT và tội phạm mạng lựa chọn. Khi công cụ này đã thu hút được sự chú ý từ những nhóm phòng thủ mạng, có khả năng những kẻ tấn công sẽ chuyển sang các lựa chọn thay thế mới như Brute Ratel C4, Silver, Manjusaka hoặc Ninja… để cung cấp các khả năng mới và kỹ thuật lẩn trốn tiên tiến hơn.

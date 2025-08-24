@@ -1,0 +1,25 @@
+Meta, Google, Amazon và Microsoft - 4 công ty nằm trong nhóm tập đoàn công nghệ lớn nhất của Mỹ, còn gọi là Big Tech - dự kiến sẽ tiêu thụ tổng cộng 14 triệu kilowatt (kW) điện hạt nhân vào năm 2040. Con số này nhiều hơn so với công suất 13 triệu kW của các lò phản ứng hạt nhân đang hoạt động tại Nhật Bản.
+
+Bên cạnh việc ký hợp đồng mua điện hạt nhân lớn với các công ty tiện ích, các công ty này còn có kế hoạch tự đầu tư xây dựng các lò phản ứng hạt nhân kiểu mô-đun nhỏ (SMR).
+
+“Cơn sốt” AI tạo sinh (Gen AI) đang là một cú huých thúc đẩy sự phát triển của năng lượng hạt nhân. Theo ước tính của Cơ quan Năng lượng Quốc tế (IEA), vào năm 2030, các trung tâm dữ liệu tại Mỹ sẽ tiêu thụ lượng điện năng nhiều hơn 130% so với hiện tại.
+
+Lâu nay, các tập đoàn công nghệ Mỹ sử dụng điện năng chủ yếu từ các nguồn năng lượng tái tạo như điện mặt trời. Tuy nhiên, nguồn năng lượng tái tạo thường thiếu ổn định và biến động mạnh, do đó không phù hợp với các trung tâm dữ liệu vốn hoạt động 24/24 mỗi ngày. Trong bối cảnh này, năng lượng hạt nhân là một lựa chọn hoàn hảo.
+
+Hồi tháng 6, Meta, công ty mẹ của Facebook, thông báo ký hợp đồng kéo dài 20 năm với công ty tiện ích Constellation Energy của Mỹ để mua điện từ một nhà máy điện hạt nhân ở bang Illinois từ năm 2027. Nhà máy này có kế hoạch ngừng hoạt động vào năm 2027 nhưng hợp đồng với Meta đã giúp nhà máy gia hạn được giấy phép và tiếp tục hoạt động.
+
+Công ty tiện ích Constellation cũng dự kiến đưa Tổ máy số 1 của nhà máy hạt nhân Three Mile Island ở bang Pennsylvania trở lại hoạt động để bán điện cho các trung tâm dữ liệu của Microsoft.
+
+Trong khi đó, Amazon dự kiến đầu tư ít nhất 20 tỷ USD vào các trung tâm dữ liệu ở Pennsylvania và đặt gần các nhà máy điện hạt nhân để thuận tiện sử dụng nguồn điện từ đây.
+
+Ngoài ra, công ty này cũng có kế hoạch xây dựng các nhà máy điện hạt nhân quy mô nhỏ với tổng công suất dự kiến đạt 5 triệu kW vào năm 2039. Để xây dựng nhà máy này, Amazon sẽ hợp tác với X-Energy Reactor, công ty chuyên xây dựng SMR tại Mỹ. Tương tự, Google cũng dự định xây SMR riêng với công suất mục tiêu là 500.000 kW vào năm 2035.
+
+SMR có chi phí xây dựng thấp hơn so với các lò phản ứng truyền thống bởi lõi lò phản ứng và hệ thống điều áp - hai bộ phận chính của SMR - được chế tạo tại nhà máy và chuyển tới địa điểm lắp đặt.
+
+Theo tờ báo Nikkei Asia, xu hướng phổ biến SMR tại Mỹ được dự báo sẽ mang lại lợi ích lớn cho các doanh nghiệp Nhật hoạt động trong lĩnh vực này. Công ty IHI của Nhật đã đầu tư vào NuScale Power - một công ty xây dựng SMR của Mỹ - với kỳ vọng khai thác tối đa thị trường nước ngoài với công nghệ bình áp suất lò phản ứng hạt nhân của mình. Còn Hitachi hiện hợp tác với công ty GE Vernova của Mỹ để xây dựng SMR.
+
+Năm 2024, điện hạt nhân chiếm khoảng 18% trong cơ cấu điện tại Mỹ. Tỷ lệ này thấp hơn so với nhiều nền kinh tế phát triển khác, một phần do hoạt động xây dựng lò phản ứng hạt nhân mới chững lại sau thảm họa hạt nhân Three Mile Island năm 1979.
+
+Bên cạnh đó, việc Nhật Bản thắt chặt các quy tắc an toàn sau sự cố ở nhà máy Fukushima Daiichi năm 2011 cũng ảnh hưởng tới việc xây dựng các nhà máy hạt nhân của các doanh nghiệp nước này ở nước ngoài, kéo theo đó là chi phí xây dựng tại Mỹ tăng lên.
+
+Tuy đối mặt không ít khó khăn, ngành năng lượng hạt nhân Mỹ đang nhận được nhiều hỗ trợ từ chính quyền Tổng thống Mỹ Donald Trump. Hồi tháng 5, ông Trump  ký một sắc lệnh điều hành để khởi động kế hoạch tái sinh ngày năng lượng hạt nhân Mỹ. Nằm trong kế hoạch này, Washington sẽ rút ngắn thời gian cấp phép các dự án mới, đồng thời cho phép xây dựng nhà máy hạt nhân trên đất thuộc sở hữu liên bang.

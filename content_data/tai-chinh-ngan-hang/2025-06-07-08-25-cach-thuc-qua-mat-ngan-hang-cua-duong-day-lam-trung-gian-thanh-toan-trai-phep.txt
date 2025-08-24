@@ -1,0 +1,31 @@
+Công an tỉnh Hưng Yên đã phối hợp với Cục An ninh mạng và Phòng chống tội phạm sử dụng công nghệ cao - Bộ Công an triệt phá thành công chuyên án, bắt giữ nhóm đối tượng có hành vi Tổ chức đánh bạc, Truyền bá văn hoá phẩm đồi truỵ và Rửa tiền. Đây là chuyên án phức tạp, có số lượng bị can đông, số tiền giao dịch lên đến hàng nghìn tỷ đồng.
+
+Cầm đầu điều hành đường dây là Phạm Trí Trung, sinh năm 1993, trú tại quận Nam Từ Liêm, thành phố Hà Nội. Đối tượng phụ trách viết code website hệ thống trung gian thanh toán trái là Hoàng Ích Phiên, sinh năm 1990, trú tại huyện Ea H’Leo, tỉnh Đắk Lắk.
+
+Công an thu giữ nhiều hệ thống máy tính, hệ thống các thiết bị nạp hộ (máy GSM, 14 nghìn SIM điện thoại…).
+
+Tại thời điểm bắt giữ hệ thống trung gian thanh toán trái phép đang kết nối, xử lý 15 nghìn thẻ cào viễn thông được “đẩy” từ 46 game đánh bạc có máy chủ đặt ở nước ngoài với tổng giá trị thẻ gần 01 tỷ đồng và đã thực hiện việc nạp 7 nghìn thẻ cào viễn thông thanh toán, với tổng giá trị trên 600 triệu đồng cho các thuê bao di động (tần suất 03 giây/một mã).
+
+Dữ liệu máy tính thể hiện nhóm đối tượng quản trị, vận hành 124 website sex có gắn banner quảng cáo cho các trang đánh bạc có chứa nội dung dâm ô, khiêu dâm, đồi trụy và lịch sử giao dịch USDT (tiền điện tử).
+
+Kết quả điều tra xác định, các đối tượng có trình độ hoặc am hiểu, yêu thích tìm hiểu công nghệ thực hiện hành vi phạm tội thông qua việc quản trị hệ thống trung gian thanh toán trái phép hoạt động online được tích hợp trực tiếp với các cổng game online trái phép - địa chỉ IP ở nước ngoài.
+
+Hệ thống này có chức năng kết nối giữa website game online với người chơi game trong việc thanh toán, truyền dẫn và xử lý dòng thẻ cào viễn thông thành đơn vị ảo (điểm game) để chơi game và “biến” nguồn thẻ cào viễn thông do người chơi đánh bạc nạp vào trang đánh bạc thành tiền thông qua hệ thống “đại lý”gạch cước theo mô hình đa cấp hoặc trực tiếp thanh toán tiền cho người chơi đánh bạc khi có nhu cầu rút tiền.
+
+Nngười chơi game dùng tiền mua mã thẻ cào viễn thông rồi nạp vào trang game để quy đổi thành “đơn vị ảo” chơi game. Hệ thống trung gian thanh toán trái phép có chức năng chuyển mã thẻ cào viễn thông đã nạp vào trang game thành tiền trong thời gian diễn ra chỉ vài giây.
+
+Để tổ chức đánh bạc, mỗi bị can thực hiện hành vi phạm tội “độc lập” và thực hiện từng “công đoạn” phạm tội khác nhau nhưng có sự liên kết không thể tách rời tạo thành một “tổ chức” tội phạm chặt chẽ, khép kín giữa các cổng game đánh bạc với hệ thống trung gian thanh toán trái phép.
+
+Nhóm đối tượng có vai trò cầm đầu và các đối tượng là “đại lý” ở nhiều địa phương, không gặp mặt, chỉ trao đổi qua ứng dụng mạng xã hội kín (như telegrame) và chia thành từng nhóm nhỏ. Các đối tượng mua nhiều tên miền để thay đổi thường xuyên nhằm duy trì hoạt động của các website và sử dụng các địa chỉ IP giả (fake IP) để tránh sự phát hiện, ngăn chặn của cơ quan chức năng.
+
+Các đối tượng đánh bạc đăng nhập website đánh bạc được bộ phận “chăm sóc khách hàng” hướng dẫn sử dụng phần mềm fake IP.
+
+Để thu hút các con bạc, nhóm đối tượng này đăng tải các website sex có gắn banner quảng cáo cho các trang đánh bạc được đấu nối với hệ thống trung gian thanh toán trái phép.
+
+Về giao dịch dòng tiền, có hai hình thức:
+
+Thứ nhất,nhóm đối tượng là nhà phát hành game sử dụng rất nhiều tài khoản ngân hàng thương mại trong nước khác nhau để nhận tiền từ nhóm vận hành cổng trung gian thanh toán trái phép, các giao dịch chuyển tiền một lần tối đa là 499 triệu để tránh sự kiểm soát giao dịch của Ngân hàng (đã phát hiện địa chỉ IP nước ngoài khi đối tượng luân chuyển dòng tiền);
+
+Thứ hai, nhóm vận hành cổng trung gian thanh toán trái phép sử dụng tiền phạm tội mà có mua tiền điện tử USDT (sử dụng ví lạnh) để tích trữ hoặc “chuyển giá trị” bằng việc mua nhà, xe ô tô hạng sang…
+
+Mới đây, Tòa án nhân dân thị xã Mỹ Hào vừa xét xử sơ thẩm tuyên phạt tổng số trên 100 năm tù giam đối với 15 bị cáo trong vụ án đường dây làm trung gian thanh toán trái phép; tịch thu sung quỹ nhà nước trên 25 tỷ đồng; kê biên đảm bảo thi hành án 02 căn hộ chung cư cao cấp, 02 xe ô tô hạng sang….

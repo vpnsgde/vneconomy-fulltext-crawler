@@ -1,0 +1,23 @@
+Theo dự báo của PwC Việt Nam, đến năm 2030, khu vực châu Á - Thái Bình Dương sẽ dẫn đầu về mức tăng trưởng khối lượng giao dịch không tiền mặt tính trên đầu người. Là một trong những quốc gia có nền kinh tế mới nổi trong khu vực, Việt Nam có nhiều tiềm năng cho thanh toán điện tử phát triển mạnh mẽ.
+
+Bà Đinh Hồng Hạnh, Phó Tổng giám đốc Công ty Tư vấn PwC Việt Nam, cho biết thanh toán điện tử đã trở nên phổ biến từ trước Covid-19. Đại dịch đã tạo ra cú huých thúc đẩy thanh toán điện tử bùng nổ, nhanh hơn 3-5 năm về tốc độ áp dụng.
+
+Đây chính là cơ hội mới cho toàn bộ hệ sinh thái thanh toán kỹ thuật số, bao gồm các ngân hàng và các công ty công nghệ tài chính (Fintech). Tuy nhiên, vẫn sẽ có nhiều rủi ro tiềm ẩn cho các doanh nghiệp chưa chuẩn bị sẵn sàng để thích ứng với thời đại.
+
+Theo bà Hạnh, cam kết đầy tham vọng, xuyên suốt bộ máy nhà nước của Chính phủ hướng tới mục tiêu 80% dân số sẽ có tài khoản thanh toán điện tử đã đặt nền móng vững chắc cho một xã hội kỹ thuật số của tương lai cũng là tiền đề cho sự phát triển mạnh mẽ ở Việt Nam.
+
+
+
+Toàn bộ cơ sở hạ tầng lĩnh vực thanh toán đang chuyển mình và các mô hình kinh doanh mới đang dần xuất hiện trên thị trường. Báo cáo mới nhất của PwC Việt Nam về: “Cách mạng thanh toán - Định hướng 2025 và tầm nhìn tương lai” đã chỉ ra 6 xu hướng vĩ mô định hình tương lai của lĩnh vực thanh toán tại Việt Nam. Những xu hướng vĩ mô này được thúc đẩy bởi sở thích của người tiêu dùng, công nghệ, luật định và các hoạt động mua bán sáp nhập (M&A).
+
+Thứ nhất, tài chính toàn diện và niềm tin. Theo đó, tại Việt Nam, tài chính toàn diện sẽ tiếp tục được thúc đẩy bởi các thiết bị di động và khả năng tiếp cận các cơ chế thanh toán thuận tiện, giá cả phải chăng. Nhiều ngân hàng và các nhà cung cấp dịch vụ thanh toán Việt Nam đã và đang mở rộng các sản phẩm và khả năng đáp ứng người tiêu dùng của họ thông qua hợp tác chiến lược để đảm bảo mở rộng phạm vi tiếp cận tài chính ở chi phí thấp.
+
+Thứ hai, tiền kỹ thuật số. Xu hướng hiện nay đang nghiêng về tiền kỹ thuật số do người dùng mong đợi tiền kỹ thuật số của ngân hàng trung ương (CBDC) sẽ giảm chi phí giao dịch và tạo điều kiện thuận lợi cho thanh toán xuyên biên giới. Ở Đông Nam Á, cuộc đua tiến hành thí điểm CBDC và quá trình xây dựng các quy định cần thiết sẽ ngày càng gia tăng.
+
+Thứ ba, ví điện tử. Thị trường cạnh tranh khốc liệt có thể thúc đẩy các nhà cung cấp ví điện tử sáp nhập thành một vài siêu ứng dụng (super app) hàng đầu trong khu vực và địa phương nhằm thống lĩnh thị trường. Nhiều siêu ứng dụng và nhà cung cấp dịch vụ thuộc các nhóm ngành kinh tế khác (như thương mại điện tử, bán lẻ và dịch vụ tài chính) sẽ bắt tay hợp tác hơn.
+
+Thứ tư, hệ thống thanh toán. Giải pháp mã QR và phương thức thanh toán “Mua trước, Trả sau” (Buy now, Pay later) dự kiến sẽ trở nên phổ biến khi người tiêu dùng ở các thị trường mới nổi đang dần chuyển dịch từ thanh toán thẻ sang thanh toán qua ví điện tử và thanh toán bằng tài khoản.
+
+Thứ năm, thanh toán xuyên biên giới. Khi khu vực Đông Nam Á tăng tốc quá trình hội nhập kinh tế, PwC dự báo sự ra đời của các chính sách và quy định chặt chẽ liên quan đến thanh toán xuyên biên giới. Các giải pháp phi ngân hàng dựa trên tiền mã hoá và ví điện tử sẽ là xu hướng cho tương lai tại khu vực.
+
+Thứ sáu, tội phạm tài chính. Rủi ro về bảo mật, tuân thủ và quyền riêng tư dữ liệu là những mối lo ngại hàng đầu đối với các ngân hàng, công ty Fintech và các nhà quản lý tài sản trong quá trình thực thi một chiến lược công nghệ tích hợp xuyên suốt doanh nghiệp. Chính vì thế, một phương pháp tiếp cận thống nhất nhằm chống tội phạm tài chính là rất quan trọng.

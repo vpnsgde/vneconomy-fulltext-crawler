@@ -1,0 +1,39 @@
+Ngày 24/10/2023 tại Hà Nội, Tổng cục Tiêu chuẩn Đo lường Chất lượng Việt Nam và Chương trình Phát triển Liên Hợp Quốc (UNDP) tổ chức hội thảo về giải pháp xử lý cuối vòng đời của pin xe điện.
+
+Sự kiện này là một trong những hoạt động của dự án “Mở rộng quy mô giao thông điện và cơ chế thúc đẩy đầu tư vào các dự án xanh tại Việt Nam" do UNDP triển khai, được Chính phủ Nhật Bản hỗ trợ, nhằm giảm phát thải khí nhà kính bằng cách tăng cường hệ sinh thái cho phương tiện giao thông điện và giao thông xanh ở cấp quốc gia.
+
+Ông Hà Minh Hiệp, Quyền Tổng cục trưởng, Tổng cục Tiêu chuẩn đo lường chất lượng Việt Nam, cho biết Việt Nam đã có những bước tiến đáng kể trong việc phát triển xe điện, với việc gia tăng phương tiện có động cơ chạy bằng điện. Tính đến cuối năm 2022, cả nước Việt Nam có khoảng 2.000.000 xe máy điện và 11.000 xe ô tô điện đang vận hành.
+
+“Do môi trường ngày càng thuận lợi về chính sách, số lượng xe buýt điện và taxi đã tăng lên ở các thành phố. Ngành công nghiệp xe điện trong nước của Việt Nam cũng đã đặt ra những kế hoạch đầy tham vọng nhằm phát triển một hệ sinh thái hoàn chỉnh cho việc phát triển xe điện, bao gồm cả việc cung cấp các giải pháp sạc điện và ắc quy”, ông Hiệp chia sẻ.
+
+Theo ông Hiệp, sự gia tăng của các loại xe hybrid (xe sử dụng song song hai nguồn động cơ là động cơ đốt trong và động cơ điện), plug-in hybrid (loại xe kết hợp giữa xe chạy bằng xăng truyền thống và xe chạy bằng điện hoàn toàn) và xe điện thuần túy sẽ giúp giảm lượng khí thải carbon trong ngành giao thông vận tải. Tuy nhiên, điều này đặt ra thách thức về việc quản lý pin sau vòng đời của xe điện, cần phải tìm ra các cách thức để đồng thời thúc đẩy giao thông điện và bảo vệ tài nguyên, giảm chi phí sản xuất pin mới thông qua việc tái chế vật liệu.
+
+"Tái chế pin mang đến nhiều lợi ích, không chỉ góp phần bảo vệ môi trường sống mà còn mang lại lợi ích kinh tế quan trọng nhờ vào việc thu hồi các loại khoáng sản có giá trị như coban, niken, lithium... Điều này giảm thiểu việc khai thác liên tục gây áp lực cho các chuỗi cung ứng”, ông Hà Minh Hiệp nhấn mạnh.
+
+TS. Nguyễn Sỹ Linh, Viện Chiến lược, Chính sách tài nguyên và môi trường của Bộ Tài nguyên và Môi trường, cho biết ước tính hàng năm Việt Nam phát sinh khoảng gần 900.000 tấn chất thải nguy hại. Trong đó, từ 20-30% là chất thải nguy hại công nghiệp; lĩnh vực nông nghiệp hàng năm phát sinh khoảng 9.000 tấn chất thải nguy hại; lĩnh vực y tế phát sinh khoảng hơn 21.374 tấn chất thải nguy hại.
+
+Chiến lược quốc gia về quản lý tổng hợp chất thải rắn đến năm 2025, tầm nhìn đến năm 2050 (Quyết định 491/QĐ-TTg ngày 7/5/2018) đề mục tiêu chất thải rắn nguy hại được quản lý và kiểm soát chặt chẽ từ nguồn thải đến thu gom, vận chuyển và xử lý cuối cùng; đa dạng hóa công nghệ xử lý bằng các công nghệ tiên tiến; các nhà sản xuất thiết bị điện tử phải thiết lập và công bố các điểm thu hồi sản phẩm thải bỏ theo quy định của pháp luật…
+
+Chiến lược đề ra chủ trương khuyến khích xây dựng các cơ sở xử lý, tái chế chuyên sâu đối với các loại chất thải nguy hại đặc thù. Mục tiêu cụ thể, tỷ lệ chất thải nguy hại được thu gom, vận chuyển và xử lý theo quy định vào năm 2025 là 95% và năm 2030 là 98%.
+
+Thông tin về Tiêu chuẩn quốc gia xử lý pin điện cuối vòng đời, bà Đoàn Thị Thanh Vân, Trưởng phòng Tiêu chuẩn Điện, điện tử thuộc Viện Tiêu chuẩn chất lượng Việt Nam, cho hay: "Tất cả các pin cell (gồm pin Lithium – Ion, pin Lithium – Polymer) và pin chì, acquy đều có một số ảnh hưởng nhất định đến môi trường. Quá trình dự đoán hoặc nhận biết các ảnh hưởng môi trường của pin/acquy đều phức tạp, do các ảnh hưởng có thể xảy ra tại mọi giai đoạn trong vòng đời của sản phẩm".
+
+Tiêu chuẩn của Việt Nam về xử lý pin điện cuối vòng đời đưa ra quy định chung: các pin/acquy khi hết tuổi thọ cần phải được quản lý bằng các phương pháp không được thải các chất nguy hại ra môi trường. Mọi sản phẩm pin/acquy khi kết thời gian sử dụng phải được thu gom, các chất trong đó như Ni-Cd, Ni-MH và Li-ion cần phải được tái sử dụng để tái chế ra những sản phẩm pin mới.
+
+"Việc thu gom và tái chế thích hợp cần được xem xét để hạn chế tác hại đến môi trường của các chất chứa trong các pin/acquy thải loại, đồng thời giúp tiết kiệm nguyên liệu và tăng an ninh nguồn cung cấp bằng cách thu hồi các kim loại có giá trị như niken và coban”, bà Vân nói.
+
+
+
+"Cần phải thúc đẩy việc cung cấp hướng dẫn kỹ thuật về quản lý pin và pin thứ cấp, nhằm tạo cơ sở kỹ thuật cho các nhà sản xuất, tổ chức tái chế và nhà quản lý nghiên cứu và phát triển phương pháp quản lý phù hợp cho giai đoạn cuối vòng đời của xe điện. Chúng ta cần tối đa hóa giá trị sản phẩm bằng cách tái sử dụng, tái sản xuất, và tái chế tất cả các thành phần liên quan".
+
+"Cần phải thúc đẩy việc cung cấp hướng dẫn kỹ thuật về quản lý pin và pin thứ cấp, nhằm tạo cơ sở kỹ thuật cho các nhà sản xuất, tổ chức tái chế và nhà quản lý nghiên cứu và phát triển phương pháp quản lý phù hợp cho giai đoạn cuối vòng đời của xe điện. Chúng ta cần tối đa hóa giá trị sản phẩm bằng cách tái sử dụng, tái sản xuất, và tái chế tất cả các thành phần liên quan".
+
+Phó trưởng đại diện UNDP Việt Nam, ông Patrick Haverman cho rằng do nhu cầu về xe điện và pin xe điện tăng đồng thời, nên nhu cầu về khối lượng đáng kể nguyên liệu thô quan trọng cũng tăng theo. Để hạn chế tác động đến môi trường của pin xe điện khi hết thời gian sử dụng hữu ích, chúng ta cần tối đa hóa giá trị sản phẩm bằng cách tái sử dụng, tái sản xuất, và tái chế tất cả các thành phần liên quan.
+
+Theo ông Patrick Haverman, các cách tiếp cận chính sách kinh tế tuần hoàn có thể tạo cơ hội kinh doanh cho các nhà sản xuất pin xe điện, nhà cung cấp bên thứ ba và các bên liên quan khác trong chuỗi cung ứng công nghiệp.
+
+"Để tạo điều kiện thuận lợi cho những thay đổi này, các chính phủ có thể tạo ra một môi trường thuận lợi bằng cách phát triển các chính sách và quy định, giải quyết các nhu cầu xây dựng năng lực, củng cố khung thể chế, thiết lập mạng lưới tái chế và tái xử lý vật liệu, đồng thời khuyến khích phát triển ngành công nghiệp ô tô hiệu quả hơn", ông Haverman khuyến cáo.
+
+Tại buổi hội thảo, ông Winter Ho, Kỹ sư cao cấp của UL Solutions Taiwan,  đề xuất Việt Nam nên phát triển một chiến lược để hỗ trợ việc tái sử dụng pin, bao gồm việc sử dụng các tiêu chuẩn như UL 1974 và các tiêu chuẩn IEC đang được phát triển. Đồng thời khuyến nghị Việt Nam nên tham gia vào việc phát triển tiêu chuẩn quốc tế thông qua các ủy ban kỹ thuật.
+
+Chia sẻ thêm, ông Koji Maehara, đại diện của Hiệp hội các nhà sản xuất ô tô Nhật Bản (JAMA), cho rằng quan trọng là xác định và thực hiện đầy đủ vai trò và trách nhiệm của chính phủ, ngành công nghiệp tái chế và người dùng nhằm tạo ra một xã hội hướng tới việc tái chế thông qua xử lý chất thải đúng cách.

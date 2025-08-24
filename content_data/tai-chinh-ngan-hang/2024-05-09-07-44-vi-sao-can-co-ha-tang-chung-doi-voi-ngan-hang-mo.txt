@@ -1,0 +1,39 @@
+"Ngân hàng mở - Open banking - Open API" là chủ đề thu hút sự chú ý đặc biệt tại sự kiện Chuyển đổi số ngành ngân hàng 2024 diễn ra ngày 8/5, tại Hà Nội.
+
+Ngân hàng mở là mô hình kết nối, xử lý các giao diện lập trình ứng dụng mở (Open API) cho phép các bên thứ ba cung cấp dịch vụ (TPP - Third-party provider) được quyền truy cập thông tin dữ liệu khách hàng tại ngân hàng dựa trên sự chấp thuận của khách hàng.
+
+Với mô hình ngân hàng mở, dịch vụ của ngân hàng không chỉ tồn tại trên kênh thuộc sở hữu của ngân hàng mà còn được “nhúng”, tích hợp trên phần mềm của bên thứ ba đem đến sự đơn giản, tiện lợi, tiết kiệm thời gian và chi phí cho khách hàng.
+
+
+
+“Với 70.000 doanh nghiệp công nghệ thông tin đang cung cấp dịch vụ chuyển đổi số, 18.000 doanh nghiệp cung cấp phần mềm tại Việt Nam hợp tác với bên thứ ba,  cơ hội phủ sóng dịch vụ ngân hàng trên các kênh số rất lớn. Có thể thấy, tiềm năng phát triển ngân hàng mở tại Việt Nam rất hứa hẹn”.
+
+ÔngTrần Long, Phó Tổng Giám đốc BIDV
+
+Chia sẻ tại sự kiện, nhiều ngân hàng cho biết đã và đang tích cực phát triển các gói API.
+
+Đại diện MB cho biết ngân hàng đang sở hữu hơn 800 APIs với hầu hết dịch vụ thanh toán. Ngân hàng này cũng kết hợp dịch vụ của mình với gần 1.000 đối tác là các nhà bán lẻ, các đơn vị kinh doanh vận tải, sàn thương mại điện tử…
+
+Tại BIDV, ông Trần Long cho biết sau khi chính thức ra mắt hệ thống BIDV Open API vào ngày 29/11/2023, đến nay ngân hàng đã ghi nhận 90.000 lượt gọi API trên hệ thống.
+
+Hệ thống BIDV Open API có 15 gói Public API để các nhà lập trình trải nghiệm trên môi trường thử nghiệm Sandbox, hỗ trợ các bên thứ ba nghiên cứu và phát triển các tính năng liên kết với ngân hàng như tra cứu thông tin mạng lưới, tỷ giá, lãi suất ngân hàng, các dịch vụ tích hợp cho khách hàng cá nhân, khách hàng doanh nghiệp.
+
+Bên cạnh đó, BIDV Open API kết nối với 56 ứng dụng tác nghiệp nội bộ, giúp  các dịch vụ ngân hàng được xử lý một cách nhanh chóng, tự động và liền mạch.
+
+Tuy nhiên, theo các chuyên gia, mô hình Open Banking hay Open API tại Việt Nam còn mang tính riêng lẻ, phần lớn do ngân hàng và đối tác tự xây dựng dựa trên nhu cầu của nhau.
+
+Theo các chuyên gia tại hội thảo, thực tế trên làm nảy sinh 3 thách thức đối với phát triển mô hình ngân hàng mở.
+
+Thứ nhất,vấn đề quản trị dữ liệu. Khi kết nối liên thông liền mạch, quy trình quản lý, kiểm soát rủi ro dữ liệu là vấn đề hết sức đáng quan ngại.
+
+Thứ hai,về an toàn bảo mật, có nguy cơ lộ, lọt dữ liệu, thông tin khách hàng và xu hướng gia tăng tội phạm công nghệ tấn công hệ thống thông tin hoặc nền tảng dùng chung. Với mức độ phát triển như vũ bão của công nghệ, các tổ chức tín dụng, các trung gian thanh toán các doanh nghiệp khi tham gia vào một mạng lưới, một hệ sinh thái rộng khắp các ngành nghề, các lĩnh vực cần phải hết sức chú trọng trong bối cảnh xu hướng tội phạm ngày càng gia tăng và biến động khó lường.
+
+Thứ ba,về nền tảng và chuẩn dữ liệu kỹ thuật, một số tổ chức tín dụng công bố nền tảng Open API trên hệ thống website để các đơn vị tham gia có thể kết nối, thử nghiệm, ký kết hợp đồng, hợp tác. Song, chưa có quy định chung nào về tiêu chuẩn kỹ thuật khi đưa vào thực tế giữa các tổ chức.
+
+Theo ông Nguyễn Hoàng Long, Phó Tổng giám đốc, Công ty Cổ phần Thanh toán Quốc gia Việt Nam (NAPAS), hiện nay, trên thế giới xu hướng hạ tầng chung về ngân hàng mở ngày càng tăng. Hạ tầng chung giúp thúc đẩy Open banking phát triển nhanh hơn kết nối tự phát. Tại các nước trên thế giới, hạ tầng chung được cấp phép hoặc vận hành bởi các tổ chức/hiệp hội lớn có uy tín.
+
+“Chẳng hạn như Ấn Độ (UPI/NPCI), Hàn Quốc (KFTC), Thuỵ Sỹ (Six Group) được bảo trợ bởi ngân hàng trung ương và Hiệp hội Ngân hàng/Fintech hoặc mô hình tại Anh được cấp phép bởi FCA và được bảo trợ bởi CMA và ngân hàng trung ương”, ông Nguyễn Hoàng Long nêu ví dụ.
+
+Theo đại diện NAPAS, trong thời gian tới, với sự chung tay của toàn thị trường, dưới sự định hướng của Ngân hàng Nhà nước, việc triển khai ngân hàng mở/open banking sẽ mang đến nhiều tiện ích cho khách hàng, góp phần thúc đẩy quá trình chuyển đổi số của ngành ngân hàng.
+
+Các đơn vị cung cấp hạ tầng thanh toán như NAPAS cũng đã sẵn sàng chuẩn bị những cơ sở, sản phẩm dịch vụ để đón kịp và phục vụ ngân hàng và các bên thứ 3 cung cấp dịch vụ trên hạ tầng ngân hàng mở nhằm triển khai thực hiện các giải pháp và xây dựng các tiêu chuẩn kỹ thuật nghiên cứu ứng dụng trong thanh toán không dùng tiền mặt để thúc đẩy đổi mới sáng tạo, gia tăng trải nghiệm khách hàng; nâng cao hiệu quả của quá trình chuyển đổi số.

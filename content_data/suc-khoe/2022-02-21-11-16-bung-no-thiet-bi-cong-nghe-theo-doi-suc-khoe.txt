@@ -1,0 +1,31 @@
+Chỉ với một thiết bị đeo trên cổ tay, thậm chí ngón tay, người dùng có thể biết được các thông tin về sức khỏe như điện tâm đồ, chất lượng giấc ngủ, độ bão hòa oxy trong máu và sẽ còn nhiều hơn thế. Theo các cuộc trò chuyện giữa các chuyên gia y tế, giám đốc công nghệ và các nhà phân tích trong ngành, thiết bị đeo theo dõi sức khỏe sẽ ngày càng tiên tiến hơn với xu hướng cá nhân hóa trong năm 2022.
+
+CẢI TIẾN HƠN, HỮU ÍCH HƠN
+
+Thiết bị đeo – wearable - đơn giản là các sản phẩm công nghệ thông minh có thể đeo làm phụ kiện hoặc được gắn vào quần áo, đơn cử như vòng theo dõi thể lực, đồng hồ thông minh, kính thông minh... Các nghiên cứu gần đây cho thấy, wearable đang dần thay thế các phương pháp trị liệu truyền thống và tất nhiên mọi thứ sẽ còn tiến xa hơn nữa trong tương lai.
+
+Cụ thể, các thiết bị đeo thông minh sẽ được gắn hoặc cấy ghép trên cơ thể để theo dõi tình trạng tâm thần và thể chất. Liệu pháp này có những ưu điểm nổi bật như rẻ tiền, dễ dàng cá nhân hóa và ít xảy ra những tác dụng phụ mang tính tiêu cực. Emma là ví dụ tuyệt vời, thiết bị được phát triển bởi nhà nghiên cứu Haiyan Zhang của Microsoft. Vòng đeo tay đơn giản này sử dụng tín hiệu rung ồn để kích thích bàn tay của bệnh nhân Parkinson. Kết quả là nó có thể giúp bệnh nhân thực hiện các thao tác như vẽ, viết hoặc những thao tác đòi hỏi các chuyển động chính xác.
+
+Bước sang năm 2022, các sản phẩm công nghệ theo dõi sức khỏe sẽ trở nên phong phú về mẫu mã và tính năng, đồng thời kích thước sẽ nhỏ gọn và dữ liệu có độ chính xác, tin cậy cao hơn. Tại CES 2022, Movano đã ra mắt chiếc nhẫn thông minh thế hệ thứ 3 với khả năng đo những thông số tương tự trên các dòng smartwatch cao cấp. Cũng tại triển lãm này, Abbott đã giới thiệu miếng dán Lingo, tích hợp kim dài 5 mm cùng cảm biến với khả năng đo các chỉ số như nồng độ glucose, xeton và lactate trong máu.
+
+Gần đây, giới mê công nghệ đang xôn xao bàn tán về chiếc tai nghe giúp lọc sạch không khí xung quanh Airvida E1. Thiết bị đeo cổ này là sự kết hợp giữa bộ lọc không khí dùng đeo trên người và tai nghe không dây thông thường. Nó được trang bị một máy phát siêu nhỏ có chức năng giải phóng vào không khí các hợp chất giúp loại bỏ 99% vi khuẩn, virus, phấn hoa và khói thuốc lá. Thiết bị cũng giúp loại bỏ các hạt bụi mịn (PM2.5) gây hại sức khỏe, có liên quan đến bệnh hen suyễn, ung thư phổi và đột quỵ.
+
+Có thể nói, những cải tiến lớn nhất sẽ liên quan đến việc biến các dữ liệu sức khỏe trở nên hữu ích hơn và được cá nhân hóa. Oura, Whoop và Fitbit đã giúp định hướng ngành công nghiệp theo hướng này. Eric Friedman, đồng sáng lập và phó chủ tịch nghiên cứu của Fitbit gần đây đã đề cập đến việc tận dụng thông tin về sức khỏe tinh thần với ứng dụng EDA của mình, giúp đo lường những thay đổi trong tuyến mồ hôi để xem cơ thể có thể phản ứng với stress như thế nào. Việc phân tích loại dữ liệu này theo thời gian có thể giúp Fitbit hiểu rõ hơn những thay đổi trên cơ thể có ý nghĩa như thế nào đối với sức khỏe tổng thể của mỗi con người.
+
+THỊ TRƯỜNG TĂNG TRƯỞNG NGOẠN MỤC
+
+Theo dự báo của Hãng nghiên cứu Gartner, chi tiêu của người dùng toàn cầu cho các thiết bị đeo đạt 81,5 tỉ USD trong năm 2021. Con số này lớn hơn rất nhiều so với mức 69 tỷ USD vào năm ngoái, cũng như bỏ xa mức 46,1 tỷ USD trong năm 2019. Gartner dự báo đến năm 2022, chi tiêu của người dùng cho các thiết bị đeo sẽ lên tới con số 93,8 tỷ USD.
+
+
+
+"Việc giới thiệu các biện pháp sức khỏe để tự theo dõi các triệu chứng Covid-19 cùng sự quan tâm ngày càng tăng của người tiêu dùng đối với sức khỏe cá nhân trong thời gian giãn cách toàn cầu mang đến cơ hội đáng kể cho thị trường thiết bị đeo". Ranjit Atwal, Giám đốc nghiên cứu cấp cao tại Gartner cho biết.
+
+Trong tương lai, thị trường thiết bị đeo sẽ tiếp tục được mở rộng với dự báo 189 triệu sản phẩm được bán ra trên toàn cầu vào năm 2022. Trước mắt, Qualcomm, công ty bán dẫn toàn cầu của Mỹ, ghi nhận trung bình mỗi 3 giây, có 1 thiết bị đeo được bán ra và cứ mỗi tuần lại có sản phẩm mới ra mắt. Trong giai đoạn 2020 - 2021,  Qualcomm đã làm việc với hơn 50 công ty startup nhảy vào lĩnh vực sản xuất thiết bị đeo. Về phía Qualcomm đã có hẳn dòng chip Snapdragon Wear dành cho các thiết bị này, cho thấy sự nghiêm túc đầu tư vào ngành.
+
+Theo Công ty nghiên cứu GlobalData, xu hướng phổ biến thời hậu đại dịch là doanh số đồng hồ thông minh sẽ tăng do chức năng của thiết bị này đang được các công ty phát triển hơn nữa, chẳng hạn như không còn cần phải phụ thuộc vào kết nối với điện thoại; trong khi việc chức năng hạn chế sẽ khiến doanh số thiết bị theo dõi luyện tập chuyên dụng giảm xuống. Công ty cũng cho rằng thị trường wearable sẽ mở rộng ra các thiết bị khác ngoài đồng hồ.
+
+"Wearable bao gồm nhiều thiết bị hơn là các sản phẩm đeo cổ tay. Tai nghe thông minh cũng đã trở thành một thiết bị được chú ý gần đây với việc kết hợp trợ lý ảo kích hoạt bằng giọng nói như Siri của Apple và Assistant của Google", nhà phân tích của GlobalData, Ed Thomas nói trong một thông cáo báo chí. "Tai nghe thông minh thậm chí có khả năng vượt xa hiệu suất của đồng hồ thông minh trong việc theo dõi sức khỏe".
+
+Thật vậy, các thiết bị đeo tai được quan tâm đặc biệt khi tăng từ 32,7 tỷ USD vào năm 2020 lên 39,2 tỷ USD vào năm 2021. Các yếu tố chính dẫn đến sự tăng trưởng này, theo hãng nghiên cứu Gartner có thể do nhu cầu nâng cấp tai nghe của những người làm việc từ xa cho mục đích gọi điện video. Với xu hướng cải tiến cảm biến trong vài năm qua, các cảm biến được tích hợp trong thiết bị đeo được sẽ hoạt động ngày càng chính xác hơn, sẽ thúc đẩy tăng trưởng thị trường trong 3 - 5 năm tới. Khi độ chính xác của cảm biến được cải thiện, khoảng cách giữa thiết bị đeo y tế và phi y tế sẽ được thu hẹp.
+
+Về lâu dài, một số chuyên gia rất hào hứng về tiềm năng của việc sử dụng thiết bị đeo để giúp phát hiện bệnh sớm. Tiến sĩ Paul Friedman, một bác sĩ tim mạch của phòng khám Mayo cho biết một vài năm trước hầu hết các bác sĩ sẽ không tin tưởng vào dữ liệu từ các máy theo dõi sức khỏe để giúp thông báo các phương pháp điều trị y tế, nhưng điều đó giờ đang thay đổi. Tiến sĩ Paul tin rằng các thiết bị wearable sẽ tiếp tục trở nên thông minh hơn trong những năm tới. Ông hy vọng các nhà sản xuất sẽ thêm trí tuệ nhân tạo và thực tế tăng cường vào các thiết bị này.

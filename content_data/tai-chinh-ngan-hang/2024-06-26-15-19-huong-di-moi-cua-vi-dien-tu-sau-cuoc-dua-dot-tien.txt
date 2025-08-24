@@ -1,0 +1,37 @@
+Theo báo cáo của FiinGroup, khối lượng giao dịch qua ví điện tử tại Việt Nam có tốc độ tăng trưởng kép (CAGR) là 83,5% trong giai đoạn 2018-2023. Tuy nhiên, dù tăng trưởng khả quan, thế nhưng các ví điện tử vẫn đang chịu lỗ hàng trăm tỷ mỗi năm cho chi phí khuyến mãi và giảm giá. Thực tế, nếu các ví điện tử không còn cung cấp các mã giảm giá, ưu đãi và khuyến mãi đi kèm khi người dùng thanh toán, hình thức thanh toán này có thể sẽ không còn sức hấp dẫn đối với người dùng. Điều này đang đặt ra thách thức cho các ví điện tử trong việc tìm ra các giá trị mới nhằm giữ chân người dùng và tạo ra lợi nhuận cho doanh nghiệp.
+
+MoMo hiện chiếm tới 68% thị phần ví điện tử tại Việt Nam, nhưng cũng là ví điện tử lỗ nhiều nhất. Năm 2020 và 2021, lợi nhuận sau thuế MoMo ghi nhận âm khoảng 880 tỷ đồng. Con số này tăng 30% vào năm 2022, âm gần 1.150 tỷ đồng.
+
+Một ví dụ tương tự là ZaloPay, ví điện tử này cũng ghi nhận âm gần 680 tỷ đồng năm 2020, mức lỗ tiếp tục tăng 82,5% vào năm 2021 và tăng thêm 6,5% vào năm 2022, âm hơn 1.300 tỷ đồng.
+
+
+
+Khác với ví điện tử, phương thức thanh toán mã QR của các ngân hàng hầu như không có khuyến mãi cũng không có hệ sinh thái mua sắm và giải trí tiện lợi đa dạng. Thế nhưng, theo Ngân hàng Nhà nước, riêng 2 tháng đầu năm nay, thanh toán qua phương thức QR Code đã tăng 846,41% về số lượng và 1.146,14% về giá trị. Giao dịch qua Hệ thống thanh toán điện tử liên ngân hàng trong tháng 1/2024 tăng 6,02% về số lượng và tăng 54,42% về giá trị.
+
+Mặc dù đây là tín hiệu cho thấy thói quen thanh toán truyền thống của người Việt đang dịch chuyển nhanh chóng sang thanh toán không dùng tiền mặt. Tuy nhiên, tốc độ tăng trưởng nhanh chóng của QR Code như hiện tại có thể đe doạ vị thế của các ví điện tử trong thị trường thanh toán kỹ thuật số.
+
+Theo đó, trong khảo sát của Tổ chức thẻ Visa được công bố vào tháng 3/2024, phương thức thanh toán bằng QR Code đang được ưa chuộng với tỷ lệ 62% với khoảng 16,2 triệu giao dịch mỗi tháng. Trong khi đó, ví điện tử xếp sau với tỷ lệ 58% và 15,5 triệu giao dịch/tháng.
+
+Không cần “đốt tiền”, lợi thế quan trọng giúp QR Code đủ sức cạnh tranh với ví điện tử là tính năng thanh toán liền mạch – người dùng dễ dàng chuyển tiền trực tiếp từ tài khoản mình sang tài khoản của người bán mà không cần nạp tiền vào ví. Mặc dù để thu hút người dùng sử dụng ví, MoMo và ZaloPay cũng đã phát hành mã QR “phổ quát” cho phép khách hàng giao dịch trực tiếp qua các ngân hàng chấp nhận liên kết với các ví điện tử này, đồng thời sử dụng trực tiếp tài khoản liên kết với ví để thanh toán. Tuy nhiên, nếu tiền chuyển khoản vượt qua hạn mức giá trị cho phép, người dùng vẫn sẽ phải mất thêm phí chuyển khoản cho các ví điện tử.
+
+Bên cạnh đó, các tính năng trên ví điện tử hiện nay bao gồm thanh toán các dịch vụ tiện ích công cộng (thanh toán hóa đơn điện, nước, Internet, truyền hình cáp) hay các dịch vụ tài chính (bảo hiểm, tiết kiệm, đầu tư) cũng đã được hầu hết các ứng dụng ngân hàng số tích hợp tiệm cận. Điều này có nghĩa không cần đến ví điện tử, người dùng vẫn có thể đáp ứng các nhu cầu giao dịch của mình ngay trên các ứng dụng ngân hàng.
+
+Sự ra đời của VietQR giúp mã hóa thông tin (số tài khoản, ngân hàng, số tiền, nội dung thanh toán) giúp các giao dịch trở nên nhanh chóng, chính xác và an toàn, chức năng thanh toán nhìn chung không còn là yếu tố tạo nên sự khác biệt cho các ví điện tử.
+
+Trên thế giới, tính đến năm 2021, Alipay là ví điện tử phổ biến nhất toàn cầu với 1,3 tỷ người dùng, theo nghiên cứu của Merchant Machine (Anh). Giữ vị trí thứ hai trong bảng xếp hạng là ví điện tử hàng đầu khác của Trung Quốc - WeChat Pay. Còn theo We are Planet, hiện nay, hai ví điện tử này cũng đang chiếm lĩnh hơn 90% thị phần thanh toán di động của Trung Quốc.
+
+Một trong những chiến lược giúp hai ví điện tử Alipay và WeChat Pay (nắm giữ miếng bánh lớn của thị trường thanh toán kỹ thuật số Trung Quốc) là tạo ra không gian nơi “mọi ứng dụng trong một ứng dụng”. Chẳng hạn, người dùng có thể lên lịch các cuộc hẹn với bác sĩ, đặt đồ ăn, đặt xe,... tất cả thông qua WeChat Pay. Hay thông qua ví điện tử Alipay, người dùng có thể thanh toán mọi thứ từ các dịch vụ mua sắm và giải trí, di chuyển, thậm chí cả hóa đơn thuế,...
+
+Điểm chung của hai ví điện tử này là đều tích hợp mọi dịch vụ cần thiết vào hệ thống lõi của mình để từ đó tạo nên một hệ sinh thái đủ khả năng đáp ứng mọi nhu cầu cho người dùng.
+
+Mặc dù các ví điện tử của Việt Nam hiện nay cũng đang cung cấp hệ sinh thái khá toàn diện bao gồm cả các dịch vụ mua sắm và giải trí (thanh toán mua sắm trực tuyến, vé xem phim, vé máy bay...) và các dịch vụ bảo hiểm, tài chính (tiết kiệm, đầu tư chứng khoán, vay tiêu dùng…), tuy nhiên, các ví điện tử vẫn chưa thực sự thành công trong việc khiến các khách hàng nhận thức được những tiện ích tích hợp sẵn có trên nền tảng của mình.
+
+Nhiều chuyên gia cho rằng các dịch vụ tài chính như bảo hiểm, tiết kiệm, đầu tư sẽ là hướng đi mới cho các ví điện tử tại Việt Nam. Đón đầu xu hướng tiêu biểu này là MoMo và ZaloPay. Trong khoảng hai năm trở lại đây, cả hai ứng dụng ví điện tử đều tích cực đa dạng hóa các đối tác liên kết và đầu tư vào các công ty khởi nghiệp trong lĩnh vực tài chính...
+
+Khi công nghệ tiên tiến như Blockchain hay AI ngày càng có những bước tiến vượt bậc, việc đi đầu trong nắm bắt các công nghệ sẽ giúp ví điện tử tạo nên lợi thế cạnh tranh so với các đối thủ cùng ngành hay QR Code. Ứng dụng trí tuệ nhân tạo sẽ giúp ví điện tử tạo ra trải nghiệm “siêu cá nhân hóa” cho người dùng thông qua đề xuất các gợi ý mua sắm, quản lý chi tiêu, thay vì chỉ là những trải nghiệm chung chung. Áp dụng công nghệ
+
+Blockchain sẽ cung cấp cách lưu trữ và quản lý dữ liệu tài chính an toàn phi tập trung, tăng cường bảo mật cho các ví điện tử, nhất là trong bối cảnh tội phạm mạng diễn biến ngày càng phức tạp và các tổ chức tài chính luôn là mục tiêu hướng đến...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 26-2024 phát hành ngày 24/6/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

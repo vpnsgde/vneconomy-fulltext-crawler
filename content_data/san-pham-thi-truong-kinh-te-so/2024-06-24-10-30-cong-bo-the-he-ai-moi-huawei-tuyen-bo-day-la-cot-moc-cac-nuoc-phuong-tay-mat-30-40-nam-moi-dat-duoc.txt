@@ -1,0 +1,25 @@
+Ngày 21/6, Huawei đã công bố về hệ điều hành mới nhất HarmonyOS NEXT và bản cập nhật cho mô hình ngôn ngữ lớn Pangu cho trí tuệ nhân tạo. Công ty Trung Quốc đang nỗ lực cắt giảm sự phụ thuộc vào công nghệ từ nước ngoài và thách thức những công ty hàng đầu về AI bao gồm OpenAI, Google, Apple và Nvidia.
+
+Huawei đã ưu tiên phát triển hệ điều hành của riêng mình để thay thế hệ điều hành Android của Google kể từ khi Mỹ đưa công ty này vào danh sách đen thương mại và hạn chế quyền truy cập vào công nghệ Mỹ. Huawei đồng thời cho biết giải pháp của họ đã đạt đến trạng thái hoàn toàn tự bảo mật và có thể kiểm soát được.
+
+Trong khi đó, về mặt AI, Trung Quốc đang nỗ lực phát triển các phiên bản công nghệ OpenAI của riêng mình cho AI tổng hợp cũng như các giải pháp về phần cứng có khả năng cạnh tranh với Nvidia.
+
+Ở lần cập nhật này, HarmonyOS NEXT sẽ được sử dụng trên tất cả các sản phẩm của Huawei, bao gồm điện thoại thông minh, PC, máy tính bảng, ô tô, thiết bị đeo và sử dụng tại các doanh nghiệp. Công ty cho biết hệ điều hành của họ đã được cài đặt trên hơn 900 triệu thiết bị kể từ khi ra mắt cách đây một thập kỷ.
+
+Richard Yu, người đứng đầu bộ phận Kinh doanh Tiêu dùng của Huawei cho biết tại hội nghị các nhà phát triển của công ty ở thành phố Trung Quốc: “Chúng tôi đã nắm bắt cơ hội này để vượt qua những đối thủ khác bằng cách xây dựng một hệ điều hành có khả năng tự kiểm soát và an toàn. Chỉ trong hơn một thập kỷ, chúng ta đã đạt được một số cột mốc quan trọng mà các nước phương Tây phải mất 3-4 thập kỷ mới đạt được”.
+
+Trong khi đó, mô hình ngôn ngữ lớn (LLM) Pangu 5.0 có bốn mô hình đào tạo với kích cỡ khác nhau: mô hình nhỏ nhất có thể nhúng trên điện thoại thông minh, mô hình cỡ trung với tới 90 tỷ tham số, mô hình "siêu" lên tới 230 tỷ tham số để xử lý các công việc phức tạp.
+
+Tham số là các biến để điều chỉnh việc đào tạo cho AI. Số lượng tham số càng lớn, mô hình càng mạnh và khả năng xử lý các tác vụ huấn luyện phức tạp càng cao. GPT-4 mới nhất của Open AI có số lượng tham số là 1,76 nghìn tỷ.
+
+Huawei cũng giới thiệu robot dự báo thời tiết và các giải pháp sản xuất thông minh, tương tự như những gì CEO Jensen Huang của Nvidia đã công bố gần đây tại Triển lãm thương mại toàn cầu Computerx diễn ra ở Đài Bắc.Yu cho biết: "Phiên bản mới nhất khác với các hệ điều hành hiện có.
+
+Harmony OS NEXT sẽ là tất cả trong một". Đại diện cũng cho biết thêm rằng điện thoại thông minh sắp ra mắt vào cuối năm nay của Huawei, chiếc Mate 70 sẽ sử dụng hệ điều hành mới và sẽ có nhiều mô hình hỗ trợ hơn vào năm 2025. Để so sánh với các công ty khác, hệ điều hành Android và Apple iOS được sử dụng cho điện thoại thông minh và máy tính bảng, trong khi Microsoft Windows và MacOS của Apple phù hợp hơn cho máy tính.
+
+Tập đoàn công nghệ Trung Quốc cũng ra mắt cơ sở hạ tầng Harmony Intelligence để tích hợp khả năng AI vào các thiết bị của mình, bao gồm cả trợ lý giọng nói AI Celia. Sự ra đời của Harmony Intelligence và Harmony OS Next diễn ra chỉ vài tuần sau khi Apple giới thiệu Apple Intelligence.
+
+Harmony OS đã trở thành hệ điều hành di động lớn thứ hai ở Trung Quốc, vượt qua iOS của Apple. Theo dữ liệu của Canalys, thị phần của Harmony OS đạt 17,95% trong quý đầu tiên năm 2024, tăng từ mức chỉ 6,5% vào năm 2022. Con số này so với 67,2% của Android và khoảng 14,8% của Apple iOS trong quý đầu tiên của năm 2024.
+
+Yu cho biết Harmony OS đã đạt 900 triệu người dùng và hơn 1.500 trong số 5.000 ứng dụng hàng đầu đã chuyển từ Android sang Harmony.
+
+Giám đốc điều hành cho biết Huawei đang tiếp tục xây dựng nền tảng cho trí tuệ nhân tạo AI, bao gồm sức mạnh tính toán của chip Ascend dành cho bộ tăng tốc AI, bộ xử lý trung tâm máy chủ Kunpeng và chip Cortex cho CPU thiết bị, cũng như mô hình ngôn ngữ lớn Pangu.

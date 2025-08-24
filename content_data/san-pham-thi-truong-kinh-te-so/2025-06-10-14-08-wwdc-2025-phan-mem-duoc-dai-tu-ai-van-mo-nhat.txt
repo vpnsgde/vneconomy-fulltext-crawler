@@ -1,0 +1,31 @@
+Theo đó, Liquid Glass sắp định hình lại giao diện trên toàn bộ hệ sinh thái thiết bị của Apple, từ iPhone, MacBook cho tới Vision Pro. Đây sẽ là lần thay đổi thiết kế iPhone lớn nhất kể từ năm 2013, thời điểm iOS 7 ra đời.
+
+Tuy nhiên, chừng đó vẫn chưa đủ để làm hài lòng giới đầu tư. Ngay trong ngày công bố, cổ phiếu Apple giảm 1,2%, phản ánh tâm lý thất vọng từ thị trường. Các nhà đầu tư đang kỳ vọng nhiều hơn, đặc biệt là về chiến lược phát triển trí tuệ nhân tạo – lĩnh vực mà Apple đang bị đánh giá là đi sau các đối thủ như Google hay OpenAI.
+
+Nhà phân tích David Vogt từ ngân hàng UBS nhận định: “Nhiều tính năng AI mà Apple vừa giới thiệu chỉ mang tính nâng cấp nhẹ và thực ra đã có mặt trên các ứng dụng của đối thủ từ trước”.
+
+​​Năm ngoái, Apple từng gây chú ý với Apple Intelligence, đi kèm bản demo ấn tượng về một Siri “cá nhân hóa” hơn, có thể phân tích email và tin nhắn để chủ động đề xuất thời điểm phù hợp đặt bàn nhà hàng. Tuy nhiên, đến tháng 3 năm nay, Apple cho biết phải tạm hoãn triển khai tính năng này, đồng thời rút lại các quảng cáo liên quan và hiện vẫn chưa đưa ra lịch trình cụ thể.
+
+Ông Craig Federighi, Giám đốc phần mềm của Apple, cho biết: “Chúng tôi cần thêm thời gian để đảm bảo chất lượng sản phẩm đúng như kỳ vọng”. Theo đại diện của Apple, mốc triển khai AI mới khả năng là vào “năm sau”.
+
+Tại WWDC 2025, điểm nhấn lớn nhất có lẽ là ngôn ngữ thiết kế mới  Liquid Glass (Thủy tinh lỏng) lấy cảm hứng từ giao diện VisionOS trên kính thực tế ảo Vision Pro. Giao diện này sẽ sử dụng nhiều nút trong suốt, thanh trượt mượt mà tạo cảm giác như thao tác trên mặt kính.
+
+Thay cho các khung cửa sổ vuông vức, hệ điều hành mới sử dụng những đường cong mềm mại hơn, phù hợp với thiết kế của thiết bị. Apple cho biết sở dĩ giờ mới tung ra bản cập nhật này là bởi chip xử lý và phần cứng hiện đã đủ mạnh để "gánh" được những hiệu ứng đồ họa tinh xảo.
+
+Như thường lệ, phản ứng từ cộng đồng mạng khá đa chiều. Một số người dùng tỏ ra hào hứng với giao diện mới, trong khi số khác lại cho rằng nó trông giống... Windows Vista – hệ điều hành của Microsoft ra mắt từ năm 2007.
+
+Dù chưa thay đổi nhiều về Siri, Apple vẫn giới thiệu một loạt tính năng AI mới, trong đó đáng chú ý là việc mở rộng tích hợp với ChatGPT của OpenAI. Giờ đây, khi chụp ảnh màn hình trên iPhone, người dùng có thể gửi hình ảnh đó đến ChatGPT chỉ bằng một nút bấm. Công cụ này sẽ giúp tóm tắt nội dung văn bản trong ảnh hoặc thậm chí giải thích nội dung đang hiển thị.
+
+Một tính năng thông minh khác là dịch ngôn ngữ ngay trong cuộc gọi điện thoại. Tất cả quá trình xử lý này đều diễn ra ngay trên thiết bị, không cần kết nối internet hay gửi dữ liệu lên máy chủ.
+
+Với nhiều người yêu công nghệ, thông báo đáng chú ý nhất trong sự kiện WWDC vừa qua không nằm ở các tính năng AI hay thiết kế mới, mà lại là... thay đổi con số.
+
+Từ năm 2007 đến nay, Apple đều đặn phát hành một phiên bản iOS mới mỗi năm. Theo số liệu của Apple, khoảng 82% người dùng iPhone gần đây đã nâng cấp lên iOS 18 chỉ trong vòng một năm, cho thấy tốc độ chấp nhận phiên bản mới rất cao.
+
+Tuy nhiên, bắt đầu từ năm nay, Apple sẽ thay đổi cách đặt tên cho các hệ điều hành trên toàn bộ thiết bị của mình. Thay vì đánh số tuần tự như trước, các phiên bản mới sẽ được đặt tên theo năm chính thức phát hành đến tay người dùng.
+
+Cụ thể, vào tháng 9 tới, người dùng iPhone sẽ cập nhật lên iOS 26 – tương ứng với năm 2026. Các thiết bị khác cũng sẽ có tên đồng bộ như iPadOS 26, WatchOS 26, tvOS 26 và VisionOS 26.
+
+Việc thay đổi này giúp đơn giản hóa cách gọi tên phần mềm trên từng thiết bị – vốn trước đây dễ gây nhầm lẫn do mỗi loại máy lại ở một "phiên bản" khác nhau.
+
+Tuy nhiên, cách đặt tên theo năm cũng vô hình trung tạo ra một áp lực cho Apple, nếu không ra bản cập nhật đúng hẹn, con số sẽ “tố cáo” rằng phần mềm đã bị chậm hoặc lỗi thời.

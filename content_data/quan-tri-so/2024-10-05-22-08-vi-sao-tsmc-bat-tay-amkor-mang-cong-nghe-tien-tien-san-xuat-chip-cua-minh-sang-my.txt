@@ -1,0 +1,23 @@
+TSMC hiện là nhà sản xuất chip hàng đầu thế giới và Amkor là nhà cung cấp dịch vụ đóng gói và thử nghiệm chip số 2 thế giới. Mới đây, cả 2 công ty đã công bố biên bản ghi nhớ về việc hợp tác đóng gói chip tiên tiến trên đất Mỹ.
+
+Đây được xem là hoạt động sản xuất đóng góp chip đầu tiên tại xứ sở cờ hoa. Hiện tại, tất cả hoạt động sản xuất và đóng gói đều tập trung ở Đài Loan (Trung Quốc). Tuyên bố chung cho biết thỏa thuận này sẽ mở rộng hệ sinh thái bán dẫn của Mỹ và đẩy nhanh thời gian chu kỳ sản phẩm.
+
+Theo nhiều chuyên gia, lý do TSMC chuyển giao việc đóng gói chip sang Mỹ là bởi quốc gia này đang gây nhiều sức ép nhằm đưa công nghệ chuỗi cung ứng chip quan trọng vào trong nước.
+
+Các khách hàng chính của TSMC tại nhà máy Arizona là Nvidia, AMD và Apple. Hoạt động sản xuất thử nghiệm bắt đầu vào giữa năm 2024 và dự kiến ​​sản xuất hàng loạt vào năm 2025. Gã khổng lồ chip Đài Loan (Trung Quốc) đã cam kết tăng thêm khoản đầu tư vào Mỹ lên 65 tỷ USD.
+
+Amkor cho biết họ sẽ đầu tư vào một cơ sở đóng gói và thử nghiệm chip trị giá 2 tỷ USD tại Peoria, Arizona.
+
+Theo thỏa thuận, TSMC sẽ sử dụng dịch vụ đóng gói và thử nghiệm tiên tiến trọn gói từ cơ sở theo kế hoạch của Amkor. Công ty sản xuất chip hàng đầu thế giới sẽ sử dụng các dịch vụ này để hỗ trợ khách hàng, đặc biệt là khách hàng của các cơ sở chế tạo tiên tiến của TSMC tại Phoenix gần đó.
+
+Thị trường đóng gói chip tiên tiến nổi lên như một “chiến trường” quan trọng đối với các nhà sản xuất chip toàn cầu hàng đầu bao gồm TSMC, Intel và Samsung. Công nghệ xếp chồng và lắp ráp chip rất quan trọng để nâng cao hiệu suất chip và cho phép AI tính toán, hoạt động mạnh mẽ, đặc biệt là khi các phương pháp truyền thống trở nên khó khăn hơn.
+
+Sự bùng nổ AI tạo ra sự thúc đẩy nhu cầu về hoạt động đóng gói tiên tiến hơn nữa. Nvidia sử dụng công nghệ đóng gói chip CoWoS của TSMC để kết nối bộ xử lý đồ họa hiệu suất cao với bộ nhớ băng thông rộng, qua đó tăng cường thêm sức mạnh tính toán. Tuy nhiên, những hạn chế trong công nghệ CoWoS được coi là nút thắt tiềm ẩn đối với việc triển khai nhanh chóng cơ sở hạ tầng trung tâm dữ liệu AI.
+
+Trước đây, các nhà hoạch định chính sách và giám đốc điều hành ngành của Mỹ lo ngại rằng ngay cả khi sản xuất chip tiên tiến trong nước, chip vẫn cần phải được vận chuyển đến châu Á để đóng gói và thử nghiệm. Để giải quyết vấn đề này, Mỹ đã phân bổ thêm 1,6 tỷ USD từ quỹ công để hỗ trợ phát triển năng lực đóng gói chip tiên tiến trong nước.
+
+TSMC và Amkor sẽ cùng nhau phát triển các công nghệ đóng gói cụ thể để giải quyết nhu cầu của khách hàng. Công nghệ mà cả hai công ty áp dụng được Apple đã sử dụng từ lâu để liên kết chip nhớ với bộ xử lý trong chip lõi của iPhone và Macbook.
+
+Ông Kevin Zhang, Phó chủ tịch cấp cao phụ trách phát triển kinh doanh và bán hàng toàn cầu của TSMC, cho biết sự hợp tác chặt chẽ với Amkor sẽ tối đa hóa sản lượng chip của TSMC và cung cấp các dịch vụ toàn diện hơn cho khách hàng tại Mỹ.
+
+Chủ tịch kiêm CEO của Amkor, ông Giel Rutten, cho biết trong một tuyên bố rằng quan hệ đối tác này có thể thúc đẩy sự đổi mới và đảm bảo chuỗi cung ứng linh hoạt.

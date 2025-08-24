@@ -1,0 +1,35 @@
+Trong một cảnh phim Thung lũng Silicon của HBO (2014), một nhân vật sau khi bán được ý tưởng cho một công ty công nghệ lớn đã bắt gặp nhóm đồng nghiệp mới đang nhâm nhi bia trên sân thượng. Họ vừa cụng ly vừa đùa: “Ngồi chơi và đợi cổ phiếu vest”. Nghĩa là họ chỉ cần chờ đến ngày nhận đủ số cổ phiếu thưởng theo hợp đồng, mà gần như chẳng cần làm gì nhiều.
+
+Câu thoại tưởng đùa ấy lại từng phản ánh thực tế ở Thung lũng Silicon thời kỳ hoàng kim của Web 2.0. Khi ấy, các kỹ sư trẻ tại Facebook, Apple, Google hay Netflix không chỉ được trả lương cao mà còn làm việc trong môi trường lý tưởng. Họp hành trong beanbags (ghế lười), ăn sushi miễn phí, uống bia giữa giờ, giặt đồ không mất tiền. Tất cả là “phúc lợi” để các ông lớn giữ chân nhân tài.
+
+Thời hoàng kim, các công ty tại Thung lũng Silicon dễ dàng hái ra tiền nhờ những ứng dụng phục vụ người dùng phổ thông như mạng xã hội, nghe nhạc trực tuyến... Nhưng thời thế đã thay đổi. Thung lũng Silicon hôm nay đã rất khác - các kỹ sư nhận ít đặc quyền hơn, nhưng nhiều áp lực hơn.
+
+Nhiều người gọi đây là “kỷ nguyên công nghệ cứng” - thời kỳ mà trí tuệ nhân tạo (AI) vươn lên thành tâm điểm, và chỉ những ai thật sự am hiểu công nghệ lõi mới có thể trụ lại được.
+
+Những khái niệm như mạng nơ-ron, mô hình ngôn ngữ lớn (LLM), hay chip xử lý đồ họa GPU giờ đây không còn là kiến thức dành riêng cho chuyên gia, mà đã trở thành điều kiện quan trọng đối với bất kỳ ai muốn tồn tại tại Thung lũng Silicon.
+
+Trung tâm đổi mới sáng tạo tại thung lũng này cũng đang dịch chuyển. Từ các thị trấn biểu tượng như San Jose, Mountain View, hay Palo Alto (cái nôi của Thung lũng Silicon), giờ đây giới công nghệ đang đổ về San Francisco, nơi đặt trụ sở của những “ông lớn AI” như OpenAI và Anthropic.
+
+Không còn cảnh tuyển dụng ồ ạt như trước, các tập đoàn công nghệ hiện tập trung vào việc tinh gọn bộ máy, loại bỏ những vị trí bị xem là dư thừa. Những ai giữ được việc làm thì cũng chịu sự giám sát chặt chẽ từ các nhà quản lý.
+
+Văn hóa công nghệ tại Thung lũng Silicon cũng đang tái định hình. Một làn sóng doanh nhân và nhà đầu tư mới đang thúc đẩy xu hướng gọi là “chủ nghĩa tự do kiểu Silicon” - vừa cởi mở trong các vấn đề xã hội, vừa quyết liệt phản đối sự can thiệp của chính phủ vào hoạt động doanh nghiệp.
+
+Thậm chí, những ngành từng bị giới công nghệ xem là “nhạy cảm” như quốc phòng hay phát triển vũ khí, nay lại trở thành danh mục đầu tư hấp dẫn. Trong kỷ nguyên AI, thứ từng là cấm kỵ đang trở thành... cơ hội.
+
+
+
+“Kỷ nguyên phần mềm tiêu dùng dễ xây và dễ kiếm tiền đã kết thúc”, ông Sheel Mohnot, đối tác tại quỹ đầu tư Better Tomorrow Ventures ở San Francisco, nhận định.
+
+Giai đoạn cuối thập niên 2010 và đầu những năm 2020, lãi suất vay thấp tạo ra một “bữa tiệc tiền rẻ” cho giới khởi nghiệp công nghệ Mỹ. Các startup Web 2.0 dễ dàng huy động hàng triệu, thậm chí hàng trăm triệu USD từ các quỹ đầu tư mạo hiểm. Có thời điểm, một công ty tên Zume từng gọi được gần 500 triệu USD chỉ để hiện thực hóa tham vọng… làm bánh pizza tự động bằng robot.
+
+Trong thời gian giãn cách do đại dịch Covid-19, khi mọi người buộc phải ở nhà và phụ thuộc vào Internet, các công ty công nghệ như Facebook, Google đẩy mạnh tuyển dụng. Thế nhưng khi thế giới mở cửa trở lại, họ mới nhận ra mình đã tuyển quá tay. Nguồn vốn đầu tư cho khởi nghiệp cũng "đắt hơn".
+
+Năm 2022, Meta phải cắt giảm tới một phần ba nhân sự. Elon Musk, sau khi thâu tóm Twitter (nay là X), cũng sa thải tới 75% đội ngũ. Hàng loạt công ty khác nhanh chóng làm theo, loại bỏ nhiều vị trí thuộc các khối truyền thông, tiếp thị, vận hành…
+
+Cũng trong năm đó, một cái tên khá lặng lẽ lúc bấy giờ, OpenAI, bất ngờ tung ra ChatGPT. Công cụ AI này nhanh chóng gây bão, khiến cả ngành công nghệ thay đổi hướng đi. Trí tuệ nhân tạo trở thành từ khóa nóng nhất và cũng là danh mục "ưa thích" mới của các quỹ đầu tư mạo hiểm.
+
+Điều này buộc các ông lớn như Google, Meta phải bước vào cuộc đua AI. Họ bắt đầu tuyển những nhân sự giỏi về công nghệ lõi, đồng thời “thay máu” đội ngũ để phù hợp với chiến lược mới.
+
+Thung lũng Silicon đã chính thức bước vào một kỷ nguyên mới - kỷ nguyên AI, không còn đặc quyền xa xỉ và nơi mà bất kỳ ai muốn tồn tại đều buộc phải “cứng tay” cả về kỹ năng lẫn tư duy công nghệ.
+
+Song, công nghệ này thực tế lại đang vướng phải nhiều hoài nghi, khi nguồn vốn đầu tư khổng lồ nhưng lợi nhuận thực tế lại chưa rõ ràng. Thậm chí, một chuyên gia đầu tư tại công ty quản lý tài sản Apollo Global Management (Mỹ), từng cảnh báo nếu “bong bóng AI” thực sự vỡ, hậu quả lần này có thể còn nghiêm trọng hơn cả cú sập dot-com năm xưa.

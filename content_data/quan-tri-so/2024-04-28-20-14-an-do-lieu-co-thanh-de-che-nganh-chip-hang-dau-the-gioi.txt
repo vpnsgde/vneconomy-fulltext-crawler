@@ -1,0 +1,31 @@
+Là một phần trong quá trình chuyển đổi của Ấn Độ thành nền kinh tế hàng đầu toàn cầu, thủ tướng Narendra Modi đã đặt mục tiêu đưa quốc gia này trở thành 1 trong 5 nhà sản xuất chip lớn nhất thế giới vào năm 2029, với một nền tảng gần như bằng 0.
+
+Với sự trỗi dậy của trí tuệ nhân tạo (AI) và các vấn đề về địa chính trị đã tạo ra một cuộc đua trên toàn cầu để xây dựng các nhà máy sản xuất chip trong nước. Với 3 nhà máy chip được khởi công tháng 3 vừa qua, Ấn Độ ngày càng tỏ rõ tham vọng trở thành cường quốc về sản xuất chất bán dẫn.
+
+Kế hoạch này của Tổng thống đã tạo ra nhiều ý kiến trái chiều trong giới chuyên gia. Rakesh Kumar tại Đại học Illinois Urbana-Champaign cho biết rằng, có hai động lực chính cho các quốc gia đang nỗ lực phát triển ngành bán dẫn. Đầu tiên là nhận thức, xuất phát từ sự thiếu hụt trong thời kỳ đỉnh điểm của đại dịch Covid-19 rằng chip hiện rất quan trọng đối với an ninh và ngành công nghiệp của một quốc gia. Thứ hai là mong muốn tạo ra một phần của ngành công nghiệp khổng lồ trị giá 526,9 tỷ USD vào năm 2023.
+
+
+
+Hiện tại, Đài Loan (Trung Quốc) sản xuất 68% chip trên thế giới, trong đó công ty TSMC chiếm phần lớn. Những bất ổn địa chính trị giữa Trung Quốc và Đài Loan đã tạo ra một làn sóng đầu tư khổng lồ. “Nếu một hoặc một vài quốc gia có khả năng tự chủ ngành sản xuất chip thì họ có thể sử dụng nó làm đòn bẩy”, ông Kumar cho biết.
+
+Như vậy, việc xây dựng ngành công nghiệp chip nội địa là hợp lý nhưng không hề dễ dàng. Một cách tiếp cận khác là thu hút đầu tư nước ngoài và nắm bắt phần lớn hoạt động sản xuất chip hiện đang diễn ra ở Trung Quốc - chẳng hạn, Apple đang xem xét chuyển 1/4 sản lượng iPhone từ Trung Quốc sang Ấn Độ vào năm tới. Tuy nhiên nỗ lực này của gã khổng lồ Mỹ đòi hỏi phải xây dựng cơ sở hạ tầng hỗ trợ các nhà cung cấp và đào tạo công nhân lành nghề, cùng với khoản đầu tư lớn và liên tục.
+
+Ông Kumar cho biết, ngay cả với sự hỗ trợ lớn của Chính phủ, các nhà máy sản xuất chip của Ấn Độ ban đầu có thể gặp khó khăn trong việc cạnh tranh, thiếu hiệu quả và quy mô của một ngành công nghiệp trưởng thành. Điều này có thể tính phí cao gấp đôi so với các sản phẩm thay thế của Trung Quốc. “Ai sẽ mua chip Ấn Độ? Và ai sẽ tiếp tục mua những thứ này trong 5 hoặc 10 năm nữa để có thể cạnh tranh về giá?”
+
+Kumar cho biết, nếu Ấn Độ muốn phát triển ngành công nghiệp của mình, nước này có thể phải đưa ra luật bảo hộ yêu cầu các công ty địa phương sử dụng chip địa phương.
+
+Một điều có lợi cho Ấn Độ là quốc gia này đang theo đuổi công nghệ cũ hơn để có chỗ đứng trên thị trường, thay vì đặt mục tiêu cạnh tranh với công nghệ tiên tiến nhất của ngành. Mục tiêu của Ấn Độ là tăng cường sản xuất chip 28 nanomet, một loại chip được sử dụng trong ô tô và thiết bị gia dụng thay vì máy tính hoặc điện thoại thông minh, đồng thời dựa vào kỹ thuật sản xuất đã có từ đầu những năm 2000. Kumar nói: “Đây không phải là những mặt hàng hấp dẫn nhất, nhưng lại là một thị trường cực kỳ hấp dẫn".
+
+John Goodenough tại Đại học Sheffield, Vương quốc Anh, cho biết các quốc gia đang nhận ra rằng không chỉ đảm bảo nguồn cung cấp chip quan trọng cho an ninh quốc gia mà việc kiểm soát toàn bộ quá trình, từ thiết kế đến sản xuất, cũng rất cần thiết để ngăn chặn kẻ xấu lén lút nhập mã độc hoặc các tính năng giám sát.
+
+Goodenough nói rằng có lý do để tin rằng Ấn Độ có thể thành công vì nước này đã có đội ngũ nhân tài – khoảng 125.000 công nhân, chiếm 20% lực lượng lao động thiết kế chip của thế giới. Tuy nhiên, ông cho rằng sẽ cần đầu tư đáng kể và lâu dài vào tất cả các phần khác của chuỗi cung ứng mà không có gì đảm bảo thành công, cũng như một sân chơi mạo hiểm với các quốc gia khác trên thế giới đang tranh giành vị thế.
+
+
+
+Goodenough nói: “Điều đó phụ thuộc vào khả năng đầu tư của họ lớn đến mức nào và có khả năng theo đuổi trong bao lâu, bởi vì đó là cuộc đua mà Đài Loan và Hàn Quốc đã theo đuổi trong suốt 20 - 30 năm qua. Cuộc đua này rất tốn kém, lâu dài và cần sự kiên nhẫn”.
+
+Nhưng Awanish Pandey tại Viện Công nghệ Ấn Độ ở Delhi bác bỏ ý kiến cho rằng chip Ấn Độ sẽ gặp khó khăn trong việc cạnh tranh với các sản phẩm Đài Loan về giá như Kumar cảnh báo. Ông hy vọng rằng nước này có thể đào tạo lực lượng lao động lớn của mình những kỹ năng cần thiết để tạo nên thành công dưới sự đầu tư của chính phủ.
+
+Pandey nói: “Chúng tôi sẽ nỗ lực hết mình. Chỉ có thời gian mới có thể trả lời được kế hoạch này sẽ diễn biến ra sao trong tương lai. Mục tiêu lúc này chỉ là để bắt đầu. Đây là một trò chơi về tiền bạc và sở hữu trí tuệ: chính phủ đang đưa tiền vào thời điểm này, IP là thứ chúng tôi sẽ phải tạo ra.”
+
+Trong một cuộc khảo sát của Ngân hàng Hợp tác Quốc tế Nhật Bản được thực hiện năm 2023, Ấn Độ được bình chọn là quốc gia tiềm năng nhất cho kinh doanh trung hạn, trong khi Trung Quốc tụt xuống hạng 3. Tỷ lệ người được hỏi bày tỏ quan ngại về cơ sở hạ tầng của Ấn Độ đã giảm dần trong những năm gần đây.

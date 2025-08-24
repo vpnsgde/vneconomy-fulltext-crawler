@@ -1,0 +1,29 @@
+Sự phát triển nhanh chóng và tiềm năng to lớn của AI đã làm dấy lên mối lo ngại về sự an toàn của công nghệ. Tỷ phú Elon Musk, nhà đầu tư ban đầu vào OpenAI, nhà sản xuất ChatGPT, từng gọi trí tuệ nhân tạo là “mối đe dọa hiện hữu” đối với nhân loại, theo Financial Times.
+
+Do chưa có luật AI thống nhất, các bang của Mỹ đang tự xây dựng quy định của riêng họ. Theo đó, cơ quan lập pháp California đang xem xét thực hiện các đề xuất quản lý chặt chẽ hơn các công ty công nghệ hoạt động tại bang. Ba công ty khởi nghiệp AI lớn nhất thời điểm hiện tại là OpenAI, Anthropic và Cohere đều có trụ sở tại tiểu bang này.
+
+Dự luật được Thượng viện tiểu bang thông qua vào tháng trước và sẽ được đưa ra bỏ phiếu tại đại hội đồng vào tháng 8 tới. Dự luật yêu cầu các công ty AI tại California phải đảm bảo sẽ không phát triển các mô hình có “khả năng nguy hiểm”, chẳng hạn như như tạo ra vũ khí sinh học hoặc hạt nhân hoặc hỗ trợ các cuộc tấn công an ninh mạng.
+
+Theo đó, các nhà phát triển sẽ phải báo cáo cụ thể về quá trình thử nghiệm AI của họ và cần xây dựng công tắc tắt các mô hình. Dự luật này đã trở thành tâm điểm phản ứng dữ dội của Thung lũng Silicon. Nhiều người cho rằng điều này sẽ khiến nhiều công ty khởi nghiệp AI muốn rời khỏi bang và ngăn cản các nền tảng như Meta vận hành các mô hình nguồn mở.
+
+Dự luật của California nhận được sử ủng hộ của Trung tâm An toàn AI (CAIS), một tổ chức phi lợi nhuận có trụ sở tại San Francisco do nhà khoa học máy tính Dan Hendrycks, Cố vấn an toàn cho công ty khởi nghiệp AI của Elon Musk, xAI, đứng đầu,
+
+Thượng nghị sĩ đảng Dân chủ Scott Wiener, người đưa ra luật, cho biết: “Về cơ bản, tôi muốn AI thành công và tiếp tục đổi mới, nhưng chúng ta hãy cố gắng vượt qua mọi rủi ro về an toàn”. Ông nói thêm rằng quy định chỉ yêu cầu các nhà phát triển đào tạo các mô hình lớn thực hiện các đánh giá an toàn cơ bản nhằm xác định những rủi ro và thực hiện các giải pháp để giảm thiểu những rủi ro đó”.
+
+
+
+Phản đối phát ngôn của Thượng nghị sĩ này, nhiều người cho rằng những quy định đang hạn chế quá mức và tạo ra gánh nặng tài chính lên các nhà phát triển, đặc biệt với các công ty AI nhỏ hơn. Một trong những chỉ trích gay gắt khác là dự luật sẽ gây tổn hại cho các mô hình AI nguồn mở, chẳng hạn như LLM hàng đầu của Meta, Llama. Những mô hình này mặc dù trao quyền truy cập cho bất kỳ ai song cũng tiềm ẩn rủi ro bị lợi dụng để phát triển thành những mô hình phục vụ cho mục đích xấu.
+
+Andrew Ng, Nhà khoa học máy tính nổi tiếng, đứng đầu các dự án AI tại Google của Alphabet và Baidu của Trung Quốc, đồng thời là thành viên hội đồng quản trị của Amazon, cho biết: “Các quy định kìm hãm sự đổi mới sẽ gây ra nỗi sợ khiến các công ty không dám đổi mới”.
+
+Arun Rao, giám đốc sản phẩm chính về Generative AI tại Meta, viết trong một bài đăng trên X: “Dự luật có thể kìm hãm sự phát triển của ngành công nghiệp AI và đẩy các công ty trong bang rời đi, làm thất thoát đến hàng tỷ USD”.
+
+Trong khi đó, Thượng nghị sĩ đảng Dân chủ Scott Wiener cho biết thêm ông đang có kế hoạch sửa đổi dự luật để làm rõ phạm vi trách nhiệm của các bên đối với an toàn của AI.
+
+Các sửa đổi được đề xuất nêu rõ các nhà phát triển nguồn mở sẽ không chịu trách nhiệm pháp lý đối với các mô hình “đã qua tinh chỉnh”, nghĩa là nếu một mô hình nguồn mở khi bị bên thứ ba sử dụng để xây dựng một mô hình mới thì các nhà phát triển của mô hình gốc sẽ không phải chịu trách nhiệm pháp lý về các vi phạm của mô hình.
+
+Một sửa đổi khác nêu rõ dự luật sẽ chỉ áp dụng cho các mô hình lớn “tốn ít nhất 100 triệu USD để đào tạo” và do đó sẽ không ảnh hưởng đến hầu hết các công ty khởi nghiệp nhỏ hơn.
+
+Người phát ngôn của Trung tâm An toàn AI (CAIS) cho biết dự luật này “thực tế và hợp lý” vì chỉ đơn giản là “một số giám sát cơ bản”.
+
+Các chính phủ trên khắp thế giới đã thực hiện các bước để quản lý AI trong năm qua khi công nghệ này bùng nổ về mức độ phổ biến. Tháng 10 năm ngoái, Tổng thống Hoa Kỳ Joe Biden đã đưa ra một mệnh lệnh hành pháp về thiết lập các tiêu chuẩn mới về an toàn AI và an ninh quốc gia, bảo vệ công dân trước các rủi ro về quyền riêng tư của AI và chống phân biệt đối xử về thuật toán. Chính phủ Anh vào tháng 4 tuyên bố có kế hoạch xây dựng luật mới để quản lý AI.

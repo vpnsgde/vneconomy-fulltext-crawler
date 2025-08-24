@@ -1,0 +1,31 @@
+Báo cáo công bố ngày 16/5 được thực hiện từ khảo sát 31.000 người đại diện cho nhiều ngành nghề khác nhau tại 31 quốc gia, trong đó có 14 nước thuộc Châu Á Thái Bình Dương, cùng hàng nghìn tỷ tín hiệu từ email, cuộc họp, trò chuyện trên Microsoft 365, và xu hướng lao động trên LinkedIn.
+
+Dữ liệu cho thấy tốc độ công việc đã tăng nhanh hơn so với khả năng của con người và điều này đang ảnh hưởng đến sự đổi mới. Công nghệ AI thế hệ tiếp theo sẽ giải phóng bớt gánh nặng công việc. Theo đó, các tổ chức tiên phong trong việc áp dụng AI sẽ có khả năng tăng cường sự sáng tạo và năng suất cho nhân viên.
+
+Nghiên cứu này đã phát hiện những vấn đề quan trọng nhất để các doanh nghiệp muốn ứng dụng AI một cách trách nhiệm trong tổ chức của mình.
+
+
+
+Cứ 10 người lao động Việt Nam thì có 9 người cảm thấy thoải mái khi sử dụng Al không chỉ cho các công việc hành chính (94%) mà còn cho công việc phân tích (94%) và cả các khía cạnh sáng tạo (91%) (và tỷ lệ này trên toàn cầu lần lượt là 76%, 79%, và 73%).
+
+Theo đó, báo cáo nhấn mạnh gánh nặng dữ liệu số đang buộc các tổ chức doanh nghiệp phải đổi mới.
+
+Có tới 76% đáp viên ở Việt Nam nói rằng không đủ thời gian và năng lượng để hoàn thành công việc (tỉ lệ này trên toàn cầu là 64%) và họ có nhiều khả năng gặp khó khăn với sự đổi mới và tư duy chiến lược hơn 6,6 lần (tỉ lệ này trên toàn cầu là 3,5 lần).
+
+65% lãnh đạo người Việt Nam lo lắng về tình trạng thiếu sáng tạo và đổi mới trong công việc (tỉ lệ này trên toàn cầu là 60%).
+
+Chỉ 63% người lao động Việt Nam cho rằng sự có mặt của họ trong các cuộc họp là cần thiết (tỉ lệ này trên toàn cầu là 35%). 79% người lao động Việt Nam đồng ý rằng không thể duy trì sự tập trung trong cả ngày làm việc (tỉ lệ này trên toàn cầu là 68%).
+
+Theo thống kê thời gian sử dụng Microsoft 365, trung bình một người dành 57% thời gian để trao đổi thông tin và chỉ 43% thời gian để sáng tạo. Nguyên nhân hàng đầu gây ảnh hưởng tới năng suất làm việc chính là các cuộc họp không hiệu quả.
+
+Cũng theo kết quả nghiên cứu, khoảng 54% người lao động Việt Nam lo lắng Al sẽ thay thế vị trí công việc của họ. Trong khi đó có tới 90% mong muốn giao càng nhiều việc càng tốt cho Al để giảm bớt khối lượng công việc (tỷ lệ này trên toàn cầu lần lượt là 49% và 70%).
+
+Cứ 10 người lao động Việt Nam thì có 9 người cảm thấy thoải mái khi sử dụng Al không chỉ cho các công việc hành chính (94%) mà còn cho công việc phân tích (94%) và thậm chí cả các khía cạnh sáng tạo trong công việc (91%) (và tỷ lệ này trên toàn cầu lần lượt là 76%, 79%, và 73%).
+
+Nhiều lãnh đạo doanh nghiệp Việt Nam cho rằng Al sẽ mang lại giá trị tại nơi làm việc bằng cách tăng năng suất làm việc (35%) hơn là cho rằng AI sẽ thay thế nhân viên (16%), gấp 2,2 lần; (con số này trên toàn cầu là 1,9 lần, với tỷ lệ lần lượt là 31% và 16%).
+
+Nghiên cứu cũng chỉ ra, không chỉ các chuyên gia AI mà mọi nhân viên đều cần những năng lực cốt lõi mới, ví dụ như kỹ năng tạo hướng dẫn cho AI. 94% các nhà lãnh đạo doanh nghiệp Việt Nam cho biết nhân viên của họ sẽ cần những kỹ năng mới để chuẩn bị cho sự phát triển của Al (tỷ lệ này trên toàn cầu là 82%). 80% người lao động Việt Nam cho biết họ hiện chưa có đủ năng lực phù hợp để hoàn thành công việc (tỷ lệ này trên toàn cầu là 60%).
+
+Có thể thấy các tỷ lệ này của Việt Nam đều cao hơn so với trung bình toàn cầu. Theo bà Nguyễn Quỳnh Trâm, Tổng Giám đốc Microsoft Việt Nam, AI tạo ra một phương thức làm việc hoàn toàn mới. Không chỉ là một công cụ, AI đã trở thành một trợ lý ảo của con người, giải phóng chúng ta khỏi gánh nặng từ dữ liệu số khổng lồ và thúc đẩy sự đổi mới sáng tạo. Khi bối cảnh công việc đã thay đổi cùng với sự phát triển của AI, con người cũng cần phải thay đổi.
+
+Với 78% đáp viên đến từ khu vực Châu Á Thái Bình Dương sẵn sàng giao càng nhiều việc cho AI càng tốt để họ có thể giảm bớt khối lượng công việc. Do đó, điều quan trọng nhất đối với mọi nhà lãnh đạo hiện nay là làm sao tận dụng được AI để giảm bớt khối lượng công việc, thúc đẩy sự sáng tạo và xây dựng năng lực sử dụng AI cho nhân viên, bà Trâm nói.

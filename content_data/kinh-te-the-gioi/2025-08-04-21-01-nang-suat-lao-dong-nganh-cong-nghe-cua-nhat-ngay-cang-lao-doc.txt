@@ -1,0 +1,27 @@
+Trong giai đoạn từ năm 2019-2023, lực lượng lao động ngành IT của Nhật tăng lên nhưng tốc độ tăng trưởng lợi nhuận toàn ngành lại không tăng tương xứng.
+
+Năng suất lao động được điều chỉnh theo lạm phát ngành IT - được đo bằng giá trị gia tăng trên mỗi nhân viên, tính theo đồng yên - tại Nhật đã giảm 13% trong giai đoạn này. Giá trị gia tăng được định nghĩa là doanh thu trừ đi chi phí hàng hóa và dịch vụ được sử dụng trong hoạt động.
+
+Ngược lại, năng suất tại Mỹ tăng 27%, còn Anh tăng 9% với giá trị gia tăng tính theo đồng nội tệ của các nước này. Trong số 3 nước G7 ghi nhận sự sụt giảm năng suất ngành IT, Nhật Bản là nước duy nhất chứng kiến mức giảm 2 con số.
+
+Để xây dựng báo báo trên, JPC quy ước chỉ số cơ sở của năm 2019 - thời điểm trước khi đại dịch Covid-19 xảy ra - là 100 và sử dụng dữ liệu từ Tổ chức Hợp tác và Phát triển kinh tế (OECD).
+
+“Ngành IT được kỳ vọng giữ vai trò then chốt trong việc thúc đẩy quá trình chuyển đổi số tại Nhật, nhưng năng suất của ngành này vẫn tương đối thấp”, ông Yasuhiro Kiuchi, nhà nghiên cứu chính cấp cao tại JPC - một viện nghiên cứu phi lợi nhuận có trụ sở tại Tokyo, nhận xét.
+
+Những năm qua, các công ty công nghệ thông tin tại Nhật Bản, với một số công ty lớn như Fujitsu, NEC và NTT Data Group, đảm nhận nhiệm vụ phát triển hệ thống IT cho các khách hàng là cả nhà sản xuất và cơ quan chính phủ. Để đáp ứng xu hướng tăng đầu tư vào công nghệ số, ngành này đã mở rộng lực lượng lao động lên tổng cộng 2,35 triệu nhân viên vào năm 2023, tăng khoảng 20% so với năm 2019.
+
+Tuy nhiên, giá trị gia tăng mà ngành này tạo ra chỉ tăng 5% trong cùng giai đoạn, thấp hơn nhiều so với mức tăng 39% ở Mỹ và 12% ở Đức. Theo các nhà phân tích, tốc độ tăng khiêm tốn này phần lớn do sự chậm trễ trong việc chuyển đổi sang sử dụng điện toán đám mây và các dịch vụ số tiên tiến khác tại Nhật.
+
+Tại quốc gia châu Á này, các hãng bán lẻ, nhà sản xuất và doanh nghiệp khác thường thuê ngoài để phát triển hệ thống IT. Các công ty công nghệ thường xây dựng các hệ thống dành riêng cho từng khách hàng, do đó cần nhiều nhân lực và thường xuyên phải cử kỹ sư tới tận nơi để quản lý hoạt động và hỗ trợ khách hàng.
+
+Theo Cơ quan Xúc tiến công nghệ thông tin (IPA) của Nhật, doanh nghiệp công nghệ Nhật hiện sử dụng khoảng 74% kỹ sư IT của cả nước.
+
+Trong khi đó, tại Mỹ và các nền kinh tế phát triển khác, nơi dịch vụ đám mây được sử dụng rộng rãi, kỹ sư nội bộ tại các công ty khách hàng như Nike và Walmart có thể tự xây dựng hệ thống bằng các hệ thống đám mây được chuẩn hóa từ những nhà cung cấp lớn như Adobe và Amazon Web Services. Cách làm này cho phép các công ty IT chỉ tập trung vào phát triển phần mềm và tối ưu hóa hệ thống liên tục, đồng thời mở rộng quy mô hoạt động hiệu quả hơn.
+
+Do đó, các doanh nghiệp IT ở cả Mỹ và châu Âu phát triển phần mềm tiên tiến nhanh hơn nhiều so với doanh nghiệp Nhật Bản. Thậm chí, doanh nghiệp IT Nhật đang ngày càng phụ thuộc vào sản phẩm kỹ thuật số do nước ngoài phát triển.
+
+Bằng chứng cho sự phụ thuộc này là thâm hụt thương mại dịch vụ kỹ thuật số của Nhật, do chi phí dịch vụ đám mây và các công nghệ số của nước ngoài tăng lên. Dữ liệu cho thấy mức thâm hụt này đã tăng gấp hơn 3 lần trong thập kỷ từ 2014, lên mức 6,7 nghìn tỷ yên (tương đương 45 tỷ USD) vào năm 2024. Con số này cao hơn thâm hụt thương mại 5,47 nghìn tỷ yên của Nhật cùng năm.
+
+Trong khi đó, nhân lực ngành IT của Nhật ngày càng tăng. Theo nhà cung cấp dịch vụ nhân sự Human Resocia có trụ sở tại Tokyo, số lượng chuyên gia IT tại nước này dự kiến sẽ đạt đỉnh 1,56 triệu vào năm 2035.
+
+Khi lực lượng lao động của ngành bắt đầu thu hẹp, việc duy trì các hoạt động thâm dụng lao động sẽ trở thành một bài toán khó. Để ứng phó với tình hình này, nhiều công ty có kế hoạch ứng dụng công nghệ AI để tăng năng suất và duy trì khả năng cạnh tranh. Trong đó, một số đã bắt đầu triển khai kế hoạch này. Ví dụ, NTT Data đang tích hợp AI tạo sinh vào toàn bộ quy trình phát triển hệ thống cho khách hàng, với mục tiêu tăng thêm 20% hiệu suất công việc của mỗi nhân viên.

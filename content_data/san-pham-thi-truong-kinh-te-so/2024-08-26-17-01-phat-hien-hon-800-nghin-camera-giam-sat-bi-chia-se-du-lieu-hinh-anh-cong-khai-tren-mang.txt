@@ -1,0 +1,55 @@
+Bộ Thông tin và Truyền thông đang xây dựng, lấy ý kiến người dân về dự thảo Thông tư Ban hành “Quy chuẩn kỹ thuật quốc gia về yêu cầu an toàn thông tin cơ bản cho camera giám sát sử dụng giao thức Internet”.
+
+Theo dự thảo thuyết minh dự thảo quy chuẩn, dự báo đến năm 2025, thế giới sẽ có hơn 75 tỷ thiết bị IoT kết nối Internet, trong đó có 1 tỷ camera giám sát được sử dụng. Theo thống kê của Tổng cục Hải quan, tại Việt Nam đã có trên 16 triệu thiết bị camera giám sát được nhập khẩu và triển khai, sử dụng trên thị trường trong 5 năm gần đây.
+
+Ước tính đến năm 2025, Việt Nam sẽ có hơn 20 triệu camera giám sát được sử dụng, bằng 1/5 dân số cả nước. Số lượng, chủng loại camera nhập khẩu mỗi năm bao gồm 163 loại mặt hàng nhập khẩu camera giám sát và IP camera thuộc mã 8525.80 (được kết xuất theo tên hàng camera giám sát, quan sát, an ninh, IP camera).
+
+Thống kê trung bình mỗi năm nhập khẩu 3,2 triệu, trong đó, phần lớn tỷ lệ thiết bị đến từ Trung Quốc. Các chủng loại phổ biến là HIKVISION, EZVIZ, Dahua, KBVISION, Imou, Xiaomi…
+
+Các thiết bị camera giám sát là một trong những đối tượng được tin tặc nhắm tới trong các cuộc tấn công và tiềm ẩn nhiều rủi ro bị khai thác, xâm nhập và chiếm quyền điều khiển.
+
+Điều này gây hậu quả thông tin, dữ liệu của người dùng có thể bị thu thập trái phép, sau đó được sử dụng cho các mục đích lừa đảo và chiếm đoạt tài sản, gây ảnh hưởng đến uy tín, danh dự của cá nhân, tổ chức; thiết bị camera bị chiếm quyền điều khiển và sử dụng cho các cuộc tấn công mạng, phát tán các chương trình, phần mềm độc hại lây lan trong các hệ thống thông tin.
+
+Hệ thống giám sát của Bộ Thông tin và Truyền thông đã phát hiện hơn 800 nghìn camera giám sát của Việt Nam đang bị chia sẻ dữ liệu hình ảnh công khai trên mạng Internet, trong số đó có 360 nghìn camera (chiếm 45%) có nguy cơ, điểm yếu, lỗ hổng dễ bị khai thác tấn công, chiếm quyền điều khiển.
+
+Hơn nữa, trên mạng xã hội, hàng trăm hội nhóm đã công khai rao bán hình ảnh và video lộ lọt từ camera giám sát, mỗi nhóm có hàng nghìn thành viên với các mức phí từ 200 nghìn đến 1 triệu đồng.
+
+Cũng theo thống kê của Bộ Thông tin và Truyền thông, trong năm 2021, trung bình hàng tháng có khoảng 1 triệu địa chỉ IP Việt Nam nằm trong các mạng IP botnet, trong đó có 48.690 địa chỉ IP liên quan trực tiếp đến các mã độc từ camera giám sát (chiếm khoảng 5%).
+
+Ngoài ra, nhóm nguy cơ thứ hai đến từ việc phần lớn các hệ thống thông tin sử dụng camera giám sát chưa được triển khai công tác đảm bảo an toàn thông tin mạng theo cấp độ theo quy định tại Nghị định số 85/2016/NĐ-CP. Khoảng 90% các hệ thống này chưa được kiểm tra, đánh giá an toàn thông tin mạng trước khi đưa vào vận hành khai thác cũng như đánh giá an toàn thông tin mạng định kỳ hàng năm.
+
+Qua nghiên cứu, khảo sát kinh nghiệm của các quốc gia trong việc đảm bảo an toàn thông tin mạng cho camera giám sát, Bộ Thông tin và Truyền thông cho biết cách tiếp cận phổ biến trên thế giới hiện nay đối với các thiết bị IoT nói chung và camera giám sát nói riêng là “an toàn từ khâu thiết kế”.
+
+Theo đó, thiết bị camera khi được cung cấp ra thị trường phải đảm bảo đáp ứng các tiêu chí, tiêu chuẩn về an toàn thông tin mạng. Việc thúc đẩy công bố áp dụng các tiêu chí, tiêu chuẩn an toàn thông tin mạng trong sản xuất thiết bị và quản lý an toàn thông tin mạng liên quan đến việc triển khai các thiết bị này đang được nhiều quốc gia triển khai dưới dạng các chương trình, sáng kiến mà Việt Nam có thể tham khảo.
+
+Hiện nay ở Việt Nam cũng đã có các tiêu chuẩn và yêu cầu kỹ thuật cơ bản như: Quyết định 736/QĐ-BTTTT ngày 31/5/2021 về Danh mục yêu cầu cơ bản bảo đảm an toàn thông tin mạng cho thiết bị IoT tiêu dùng; Quyết định số 724/QĐ-BTTTT ngày 07/5/2024 ban hành Bộ tiêu chí về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát.
+
+
+
+An toàn, bảo mật liên quan đến thiết bị camera giám sát đang trở thành một vấn đề nhức nhối trong xã hội. Thực tế trong thời gian qua tại Việt Nam đã xảy ra nhiều vụ lộ lọt thông tin cá nhân, dữ liệu hình ảnh camera riêng tư bị thu thập trái phép và tung lên mạng xã hội gây bất an cho người sử dụng và làm ảnh hưởng không nhỏ đến an toàn, an ninh xã hội.
+
+Hơn nữa, đến nay, trên cả nước đã có 41/63 tỉnh, thành phố trực thuộc trung ương đã hoặc đang triển khai xây dựng đề án về đô thị thông minh. Trong đó, camera giám sát thông minh chính là các thiết bị nền tảng, chiếm đa số các hạng mục triển khai và phát triển đô thị thông minh. Trong thời gian tới sẽ có thêm hàng chục triệu camera giám sát được triển khai và đưa vào sử dụng tại Việt Nam.
+
+Tỷ trọng sản phẩm camera giám sát được sản xuất trong nước hiện nay còn rất khiêm tốn, chiếm ưu thế là các sản phẩm đến từ các thương hiệu nước ngoài. Hơn nữa, tất cả các sản phẩm này đều chưa được kiểm tra, đánh giá an toàn thông tin mạng.
+
+Điều này đặt ra yêu cầu cấp bách cần kiểm soát, đánh giá an toàn thông tin mạng cho các thiết bị này khi nhập khẩu, trước khi đưa vào sử dụng và trong quá trình triển khai, vận hành. Đồng thời thúc đẩy sản xuất sản phẩm camera giám sát “Make in Việt Nam” đảm bảo yêu cầu an toàn thông tin mạng nhằm đáp ứng thị trường trong nước.
+
+Vấn đề này cũng được Chính phủ đặc biệt quan tâm và đã được Thủ tướng Chính phủ chỉ đạo tại Chỉ thị 23/CT-TTg năm 2022 về tăng cường công tác bảo đảm an toàn thông tin mạng, an ninh thông tin cho thiết bị camera giám sát.
+
+Ngoài ra, theo Luật An toàn thông tin mạng, Bộ Thông tin và Truyền thông có trách nhiệm xây dựng, ban hành quy chuẩn kỹ thuật quốc gia về an toàn thông tin mạng.
+
+Camera giám sát (mã HS 852589) thuộc nhóm 8525 (thiết bị phát dùng cho phát thanh sóng vô tuyến hoặc truyền hình, có hoặc không gắn với thiết bị thu hoặc ghi hoặc tái tạo âm thanh; camera truyền hình, camera kỹ thuật số và camera ghi hình ảnh) theo quy định tại Thông tư 31/2022/TT-BTC, là nhóm sản phẩm thuộc thẩm quyền quản lý nhà nước của Bộ Thông tin và Truyền thông.
+
+Do vậy, việc xây dựng, ban hành quy chuẩn kỹ thuật quốc gia về yêu cầu an toàn thông tin cơ bản cho camera giám sát sử dụng giao thức Internet là đúng thẩm quyền quản lý nhà nước của Bộ Thông tin và Truyền thông.
+
+Theo Bộ Thông tin và Truyền thông, Quy chuẩn  được xây dựng và ban hành nhằm mục đích quản lý, tăng cường bảo đảm an toàn cho hệ thống IP Camera.
+
+Cụ thể, Quy chuẩn kỹ thuật đảm bảo các biện pháp an ninh như quản lý mật khẩu an toàn, cập nhật phần mềm định kỳ, và bảo vệ giao tiếp dữ liệu để ngăn chặn tấn công từ chối dịch vụ (DoS) và các mối đe dọa bảo mật khác.
+
+Cùng với đó thiết lập các quy tắc mã hóa dữ liệu và quản lý quyền truy cập để đảm bảo an toàn thông tin cá nhân. Quy chuẩn này giúp ngăn chặn việc đánh cắp dữ liệu và lạm dụng thông tin cá nhân từ hệ thống camera giám sát qua đó bảo vệ dữ liệu cá nhân và quyền riêng tư.
+
+Điều này cũng tạo điều kiện cho các nhà sản xuất và người dùng cuối yên tâm về tính an toàn của sản phẩm. Các quy định về giám sát, kiểm tra định kỳ, và quản lý lỗ hổng bảo mật giúp duy trì độ tin cậy của hệ thống camera giám sát.
+
+Theo Bộ Thông tin và Truyền thông việc triển khai áp dụng quy chuẩn đối với camera giám sát là vấn đề cấp thiết, liên quan trực tiếp đến công tác bảo đảm an toàn thông tin mạng, bảo vệ quyền riêng tư và lợi ích của người sử dụng.
+
+Dự kiến quy chuẩn này khi ban hành áp dụng đối với các tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến hoạt động đánh giá, nghiên cứu, phát triển; đánh giá, lựa chọn và sử dụng các thiết bị thuộc phạm vi điều chỉnh của quy chuẩn này trên lãnh thổ Việt Nam.

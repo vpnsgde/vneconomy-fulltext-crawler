@@ -1,0 +1,21 @@
+Theo Reuters, nhóm tội phạm mạng đã chi tiền để dụ dỗ nhân viên và nhà thầu tiết lộ dữ liệu nội bộ, từ đó truy cập hệ thống và thực hiện hành vi lừa đảo. Ước tính, vụ việc có thể khiến Coinbase thiệt hại từ 180 đến 400 triệu USD, dù chỉ ảnh hưởng đến một bộ phận nhỏ người dùng. Công ty cam kết hoàn tiền cho mọi khách hàng bị thiệt hại.
+
+Ngay sau sự cố, Coinbase đã chấm dứt hợp đồng với tất cả nhân sự nước ngoài có liên quan đến vụ việc. Công ty khẳng định không có mật khẩu, khóa riêng tư hay tiền điện tử nào bị rò rỉ, và các tài khoản Coinbase Prime không bị ảnh hưởng. Khoản lỗ dự kiến 400 triệu USD cũng chỉ chiếm phần nhỏ so với tổng tài sản 328 tỷ USD và vốn hóa hơn 67 tỷ USD của sàn.
+
+Theo hồ sơ gửi Ủy ban Chứng khoán và Giao dịch Hoa Kỳ (SEC), vào ngày 11/5, Coinbase nhận được email từ một cá nhân tự xưng đang nắm giữ thông tin liên quan đến nhiều tài khoản người dùng cùng tài liệu nội bộ, bao gồm dữ liệu dịch vụ khách hàng và hệ thống quản lý. Cá nhân này đòi khoản tiền chuộc 20 triệu USD để đổi lấy việc không công khai dữ liệu.
+
+Tuy nhiên, Coinbase từ chối yêu sách và khẳng định đang phối hợp với cơ quan chức năng để điều tra. Cổ phiếu của công ty đã giảm hơn 6% trong phiên giao dịch sáng cùng ngày.
+
+Dù các mật khẩu và khóa riêng không bị đánh cắp, nhưng dữ liệu như thông tin cá nhân như tên, địa chỉ, email, số điện thoại, số tài khoản ngân hàng (đã bị che một phần), bốn số cuối của mã An sinh Xã hội, hình ảnh giấy tờ tùy thân và số dư tài khoản của một số nạn nhân đã bị lộ.
+
+Trong bài đăng chính thức trên blog, Coinbase thừa nhận: “Những kẻ tấn công đã hối lộ một nhóm nhân viên để xâm nhập hệ thống, lấy cắp dữ liệu phục vụ các hành vi lừa đảo. Tuy không có tài sản nào bị đánh cắp trực tiếp, chúng tôi sẽ hoàn tiền cho những khách hàng bị dụ dỗ chuyển tiền cho kẻ gian”.
+
+Công ty gửi lời cảnh báo đến người dùng rằng sẽ không bao giờ yêu cầu cung cấp mật khẩu, mã xác thực hai lớp, cụm từ khôi phục hay yêu cầu chuyển tiền sang ví lạ. Nếu có ai gọi điện, nhắn tin yêu cầu làm vậy, người dùng cần ngắt liên lạc ngay vì đó chắc chắn là hành vi lừa đảo.
+
+Đại diện công ty cho biết hệ thống an ninh đã phát hiện vụ việc từ trước. Các nhân sự liên quan đã bị chấm dứt hợp đồng, khách hàng bị ảnh hưởng được thông báo, và các biện pháp giám sát an ninh đã được siết chặt.
+
+Thay vì trả tiền chuộc, Coinbase tuyên bố thành lập một quỹ thưởng trị giá 20 triệu USD nhằm khuyến khích công chúng cung cấp thông tin giúp truy tìm và đưa thủ phạm ra trước pháp luật.
+
+Sự cố xảy ra trong bối cảnh Coinbase đang chuẩn bị gia nhập chỉ số S&P 500 và vừa công bố một thương vụ mua lại để mở rộng hoạt động toàn cầu. Trước đó, CEO Brian Armstrong từng tuyên bố mục tiêu biến Coinbase thành “ứng dụng tài chính số hàng đầu thế giới” trong vòng 5-10 năm tới.
+
+Vụ việc cũng cho thấy tình trạng tội phạm mạng ngày càng gia tăng trong ngành blockchain. Riêng năm 2024, tổng thiệt hại từ các vụ tấn công mạng đã vượt 2,2 tỷ USD. Hồi đầu năm, nền tảng ByBit cũng trở thành nạn nhân của vụ hack trị giá 1,5 tỷ USD – được FBI xác định có thể liên quan đến các nhóm hacker Triều Tiên.

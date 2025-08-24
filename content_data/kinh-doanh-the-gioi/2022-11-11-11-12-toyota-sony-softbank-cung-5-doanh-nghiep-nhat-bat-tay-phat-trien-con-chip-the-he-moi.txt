@@ -1,0 +1,25 @@
+Một nhóm gồm 8 doanh nghiệp hàng đầu Nhật Bản sẽ hợp tác cùng Chính phủ nước này để thành lập một công ty phát triển chất bán dẫn thế hệ mới.
+
+Được đặt tên là Rapidus, dự án này đặt mục tiêu bắt đầu xây dựng quy trình sản xuất chip tiên tiến vào cuối những năm 2020.
+
+Trong bối cảnh cuộc đua phát triển công nghệ bán dẫn thế hệ tiếp theo ngày càng “nóng” lên trên toàn cầu, công ty mới này hướng tới trở thành một nền tảng cho sự hợp tác giữa các công ty Nhật và Mỹ, cũng như hợp tác giữa các chính phủ trên thế giới.
+
+Các công ty tham gia Rapidus bao gồm Toyota Motor, Sony Group, SoftBank, Denso, NTT, Kioxia Holdings, NEC và ngân hàng Mitsubishi UFJ. Người phụ trách điều phối việc thành lập công ty này là ông Tetsuro Higashi, cựu chủ tịch nhà sản xuất thiết bị chip Tokyo Electron. Dự kiến công ty sẽ tiếp tục thu hút thêm vốn đầu tư và sự hợp tác của các nghiệp khác trong thời gian tới.
+
+Trong khi đó, Chính phủ Nhật sẽ hỗ trợ dự án thông qua trợ cấp và các ưu đãi khác. Bộ trưởng Kinh tế, Thương mại và Công nghiệp Nhật Bản Yasutoshi Nishimura ngày 11/11 đã công bố chiến lược sản xuất chip tiên tiến trong nước thông qua dự án Rapidus do 8 công ty hàng đầu Nhật Bản thành lập. Ông cho biết Chính phủ cam kết sẽ hỗ trợ 70 tỷ Yên (khoảng 494 triệu USD) thông qua trợ cấp cho công ty này.
+
+Được đặt tên theo tiếng Latin có nghĩa là “thần tốc”, công ty mới đặt mục tiêu phát triển các con chip logic kích thước 2 nanomet và xây dựng dây chuyền sản xuất vào cuối thập kỷ này. Từ những năm 2030, công ty hướng tới bắt đầu sản xuất chip theo hợp đồng cho các công ty thiết kế và công ty sử dụng chip.
+
+Chip logic có kích thước mạch điện nhỏ và tiêu chuẩn cao, là linh kiện quyết định khả năng xử lý của điện thoại thông minh, trung tâm dữ liệu và các thiết bị khác. Loại chip này cũng đóng vai trò quan trọng trong mạng lưới viễn thông cao cấp và xe tự lái hoàn toàn.
+
+Hiện tại, các doanh nghiệp có liên quan đang đua nhau đầu tư vào lĩnh vực này để chuẩn bị cho tương lai cũng như duy trì cạnh tranh. Rủi ro địa chính trị gia tăng khiến các công ty buộc phải hành động để đảm bảo năng lực sản xuất con chip tiên tiến - mặt hàng hiện do các doanh nghiệp Đài Loan thống trị.
+
+Công ty sản xuất chip lớn nhất thế giới Taiwan Semiconductor Manufacturing (TSMC) và Samsung Electronics hiện đang hợp tác phát triển công nghệ sản xuất hàng loạt con chip 3 nanomet và đặt mục tiêu sản xuất con chip 2 nanomet vào năm 2025.
+
+Ở cấp quốc gia, Nhật Bản và Mỹ có thỏa thuận hợp tác nghiên cứu và phát triển các công nghệ mới. Trong ngân sách bổ sung lần hai cho năm 2022, Chính phủ Nhật đã dự toán một khoản 350 tỷ Yên để đầu tư vào một trung tâm nghiên cứu hợp tác giữa Nhật và Mỹ. Trung tâm này sẽ được thành lập vào cuối năm nay, dự kiến hợp tác với nhiều doanh nghiệp, tổ chức Nhật Bản và quốc tế. Hai trong số các đơn vị tham gia dự án này là hãng công nghệ IBM của Mỹ và viện nghiên cứu IMEC của Bỉ.
+
+Trở lại với Rapidus, công ty này cũng sẽ hợp tác với một số trung tâm nghiên cứu và hiện đã nhận được đầu tư 70 tỷ USD từ Tổ chức Phát triển Công nghệ Công nghiệp và Năng lượng mới.
+
+Tuy nhiên, với dự án mới này, Nhật Bản còn rất nhiều việc phải làm mới bắt kịp với các nước khác. Dây chuyền sản xuất chip logic hiện đại nhất của nước này hiện mới chỉ sản xuất được con chip 40 nanomet. Kể từ khi cuộc cạnh tranh công nghệ chip tiên tiến bắt đầu "nóng" lên vào những năm 2010, nước này không thể theo kịp làn sóng đầu tư khủng trong lĩnh vực này của các doanh nghiệp cũng như chính phủ nước ngoài.
+
+Theo kế hoạch kiện tại, Rapidus sẽ được dẫn dắt bởi một đội ngũ các giám đốc dày dặn kinh nghiệm, bao gồm ông Higashi và Atsuyoshi Koike, người từng là giám đốc tại công ty linh kiện điện tử Western Digital Japan. Sắp tới, công ty này sẽ phải tập trung vào chiêu mộ nhân tài có kinh nghiệm và kiến thức về công nghệ chip tiên tiến cũng như quy trình sản xuất.

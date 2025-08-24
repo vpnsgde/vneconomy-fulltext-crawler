@@ -1,0 +1,17 @@
+Sự kiện "Google I/O Extended MienTrung 2024" do nhóm cộng đồng GDG MienTrung phối hợp với đối tác- Trường Đại học Swinburne Việt Nam tổ chức vừa diễn ra vào ngày 6/7, tại thành phố Đà Nẵng.
+
+Với chủ đề Sync4Success, Ban tổ chức mong muốn mang đến cho cộng đồng lập trình viên tại địa phương cập nhật công nghệ trong đa dạng lĩnh vực thông qua các phiên chia sẻ công nghệ, thực hành “codelab”, từ đó giúp người tham dự có thể vận dụng các kiến thức trong chương trình, xây dựng các ứng dụng hữu ích và tìm kiếm những cơ hội phát triển nghề nghiệp phù hợp.
+
+Tiếp nối những thành công từ các chương trình đã tổ chức trước đó của GDG MienTrung, Google I/O Extended MienTrung năm nay tiếp tục xoáy sâu vào câu chuyện Trí tuệ Nhân tạo (AI - Artificial Intelligence), đặc biệt là Gemini của Google. Trong suốt hành trình của sự kiện, các diễn giả đã hướng dẫn cách kết hợp các công nghệ của Google với Gemini, thực hành lập trình trực tiếp về Gemini thông qua tài nguyên được cung cấp miễn phí bởi Google, và sau đó giới thiệu các dự án công nghệ trẻ tại địa phương đang ứng dụng Gemini để giải quyết các vấn đề thực tiễn.
+
+Chia sẻ tại sự kiện, bà Janise Tan, Trưởng Hệ sinh thái Lập trình viên của Google tại khu vực Đông Nam Á và các nước Đông Nam Á mở rộng, cho biết: “Lần thứ 2 đến với TP. Đà Nẵng, tôi rất ấn tượng với sự phát triển của cộng đồng trình viên ở đây. Các sự kiện được tổ chức ngày càng đa dạng về các chủ đề nội dung, diễn giả và hình thức khác nhau mang đến nhiều trải nghiệm cho người tham gia".
+
+Theo đại diện của Google, cộng đồng lập trình viên tại TP. Đà Nẵng cũng ngày càng chủ động hơn trong việc cập nhật xu hướng công nghệ và nắm bắt các cơ hội phát triển trong tương lai. Qua đây, tôi cũng mang đến thông tin của nhiều chương trình Google dành cho hệ sinh thái công nghệ tại Việt Nam nói riêng và Đông Nam Á nói chung, bao gồm cả lập trình viên, chuyên gia công nghệ và các công ty khởi nghiệp. Bà Janise Tan mong rằng, cộng đồng công nghệ tại Việt Nam sẽ tận dụng các cơ hội này để nâng cao kỹ năng, xây dựng và phát triển các ứng dụng công nghệ vì cộng đồng…
+
+Tại sự kiện, với 12 phiên chia sẻ được dẫn dắt bởi nhiều Google Developer Expert ở đa dạng lĩnh vực của Google trong khu vực Đông Nam Á, các đại diện cộng đồng công nghệ nổi bật trên toàn quốc và nhiều chuyên gia nhiều năm kinh nghiệm từ các công ty/ startup CNTT tại TP. Đà Nẵng. Đồng thời, chỉ sau gần một tháng chuẩn bị, sự kiện cũng thành công thu hút được sự quan tâm của hơn 700 lượt tham dự của các lập trình viên & sinh viên Công nghệ Thông tin tại địa phương.
+
+Bên cạnh các phiên chia sẻ cập nhật công nghệ và codelab lập trình thực tiễn, chương trình cũng lànơi hội tụ của các gian hàng triển lãm nổi bật trong hệ sinh thái công nghệ tại TP. Đà Nẵng, tạonên một ngày hội công nghệ nhiều màu sắc và đầy sôi độngcho cộngđồng lập trình viên tại địa phương.
+
+Được tổ chức thường niên, Google I/O Extended MienTrung luôn cố gắng nỗ lực làm mới mình, mang đến nhiều nội dung đặc biệt, mới lạ, với các kiến thức được cập nhật và địa phương hóa, sao cho phù hợp nhất với nhu cầu của cộng đồng công nghệ tại địa phương.
+
+Đây là lần thứ 8 được tổ chức, chương trình tiếp tục là nhịp cầu kết nối hệ sinh thái công nghệ tại địa phương, tạo động lực phát triển cho cộng đồng lập trình viên tại TP. Đà Nẵng. Sự kiện lần này do nhóm cộng đồng GDG MienTrung tổ chức cùng sự phối hợp của Đối tác Trường Đại học Swinburne Việt Nam, Nhà tài trợ Bạc Bespokify Vietnam, Nhà tài trợ Đồng DataHouse Asia, Ecomdy Media, Bếp Bố Bản Paradox, Nimble.

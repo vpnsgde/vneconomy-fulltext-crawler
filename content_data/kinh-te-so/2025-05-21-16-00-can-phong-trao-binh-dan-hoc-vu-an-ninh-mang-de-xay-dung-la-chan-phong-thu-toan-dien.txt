@@ -1,0 +1,23 @@
+Tại tọa đàm “Mức độ trưởng thành của Doanh nghiệp, tổ chức Việt Nam trong việc sẵn sàng ứng phó các sự cố” do Hiệp hội An ninh mạng quốc gia NCA tổ chức ngày 21/5, ông Vũ Ngọc Sơn, Trưởng ban Nghiên cứu công nghệ, Hiệp hội An ninh mạng quốc gia, cho rằng khi Việt Nam đang có hàng triệu doanh nghiệp đang hoạt động, thì đây thực sự là con số đáng báo động.
+
+Tuy nhiên, nhìn trên bức tranh toàn cầu, có thể khẳng định Việt Nam không phải là "vùng trũng" về năng lực phòng thủ mạng như nhiều người lo ngại. Cụ thể, tỷ lệ doanh nghiệp đạt mức trưởng thành về an ninh mạng trên thế giới chỉ khoảng 4%, trong khi đó, con số tại Việt Nam đang cao gấp khoảng 2,5 lần mức trung bình toàn cầu.
+
+Mặc dù vậy, các chuyên gia đồng tình nhận định năng lực của doanh nghiệp, tổ chức trong nước còn khá xa so với vêu cầu về đảm bảo an ninh mạng theo các tiêu chuẩn quốc tế. Dẫn chứng là năm 2024 có tới 659.000 vụ tấn công an ninh mạng khác nhau, ảnh hưởng tới khoảng 46,15% cơ quan, doanh nghiệp.
+
+Thống kê của Hiệp hội an ninh quốc gia đã thực hiện vào tháng 12/2024 cũng cho thấy những lỗ hổng bảo mật trong doanh nghiệp. 52,89% số doanh nghiệp, tổ chức tại Việt Nam chưa có đầy đủ các giải pháp công nghệ để ứng phó sự cố an ninh mạng, 56,16% chưa có đủ nhân sự chuyên trách về an ninh mạng.
+
+Theo ông Vũ Ngọc Sơn, Trưởng ban Nghiên cứu Công nghệ, Hiệp hội An ninh mạng quốc gia, những nguyên nhân chính khiến cho năng lực ứng phó của Việt Nam còn thấp bao gồm: Thiếu các giải pháp an ninh mạng cơ bản, đồng bộ để bảo vệ hệ thống; Công nghệ, chuyển đổi số liên tục cập nhật, trong đó sự bùng nổ của AI khiến cho các doanh nghiệp không kịp thích nghi; Sự phát triển mạnh mẽ của các nhóm tội phạm mạng chuyên nghiệp, trong đó có những nhóm xuyên biên giới với trình độ rất cao; Sự thiếu hụt về nhân sự chuyên trách và kỹ năng an toàn, an ninh mạng của đại bộ phận người dùng còn nhiều hạn chế.
+
+Trong đó, con người được xem là mắt xích yếu nhất. Từ thực tiễn này, các chuyên gia cho rằng đã đến lúc cần một phong trào “Bình dân học vụ an ninh mạng”. Việc đào tạo nhận thức, kỹ năng an ninh mạng cho mỗi cá nhân trong tổ chức cần được làm thường xuyên, biến điều này như một phong trào “Bình dân học vụ”. Khi cả bộ máy có đủ kiến thức, kỹ năng an ninh mạng, các giải pháp khác như công nghệ và quy trình mới có thể phát huy được hiệu quả.
+
+Về mặt công nghệ, trong bối cảnh các mối đe dọa ngày càng tinh vi, doanh nghiệp và tổ chức cần đầu tư hệ thống bảo vệ một cách đồng bộ. Cụ thể, cần triển khai các giải pháp quản lý an ninh mạng tập trung, có tích hợp trí tuệ nhân tạo (AI) để phân tích dữ liệu, đồng thời kết nối với các nguồn thông tin tình báo mạng (threat intelligence) nhằm giám sát, phát hiện sớm và phản ứng kịp thời với các rủi ro tiềm ẩn.
+
+Bên cạnh đó, việc xây dựng quy trình ứng phó sự cố rõ ràng là bắt buộc. Doanh nghiệp cần chuẩn bị trước thông tin liên lạc của các cơ quan chức năng, Hiệp hội để có thể phối hợp, báo cáo và xử lý kịp thời khi sự cố xảy ra. Chủ động và có chiến lược là chìa khóa để giảm thiểu thiệt hại và bảo vệ hoạt động kinh doanh trong môi trường số.
+
+Bên cạnh những nguyên nội tại, các chuyên gia cho rằng chính sự "quá tải" trong hướng dẫn từ các cơ quan chức năng cũng đang khiến doanh nghiệp lúng túng trong việc lựa chọn giải pháp an ninh mạng.
+
+Bản đồ công nghệ mà Bộ Thông tin và Truyền thông công bố cách đây hơn hai năm, liệt kê hơn 100 giải pháp an ninh mạng khác nhau. Là người trực tiếp làm trong lĩnh vực công nghệ, ông Sơn cho biết bản thân còn thấy bối rối trước những giải pháp này. Thế thì với các tổ chức và doanh nghiệp không chuyên sâu, việc lựa chọn giải pháp an ninh mạng chẳng khác nào đi dò đường.
+
+"Chúng ta vẫn đang thiếu một bản thiết kế tổng thể – một khung tham chiếu rõ ràng để các doanh nghiệp có thể dựa vào khi xây dựng hệ thống phòng thủ mạng. Mỗi nơi làm một kiểu, thiếu sự thống nhất, thiếu một khung chuẩn để bám vào”, ông Sơn cho biết.
+
+Từ thực trạng này, đại diện Hiệp hội An ninh mạng quốc gia hy vọng trong thời gian tới, Bộ Công an, với vai trò cơ quan quản lý an ninh mạng, sẽ sớm ban hành các tiêu chuẩn cụ thể cho hệ thống trọng yếu và các cấp độ bảo vệ an ninh, để các doanh nghiệp và tổ chức có thể trang bị các giải pháp phù hợp, hiệu quả và đồng bộ hơn.

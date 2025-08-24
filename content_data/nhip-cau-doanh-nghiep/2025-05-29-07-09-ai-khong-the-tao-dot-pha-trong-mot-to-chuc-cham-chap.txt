@@ -1,0 +1,31 @@
+Đây là thông điệp được nhiều chuyên gia Agile hàng đầu thế giới đồng tình tại hội nghị "Business Agility Summit 2025” được Học viện Agile, Ngân hàng Techcombank và FPT Digital tổ chức ngày 28/5.
+
+Trong đó, chuyên gia Lucas Souza, trưởng nhóm chuyển đổi ngân hàng DBS (Singapore), khẳng định thế giới đang cực kỳ biến động, thế nên, về cơ bản, sự linh hoạt trong kinh doanh (business agility) đơn giản chính là việc giúp doanh nghiệp trở nên vững vàng hơn, có khả năng cảm nhận được những thay đổi và phản ứng kịp thời.
+
+Đồng quan điểm, ông Tạ Kiều Hưng, Tổng Giám đốc, Ngân hàng Quốc dân (NCB), cho rằng việc kết hợp giữa phương pháp làm việc linh hoạt (agility) và trí tuệ nhân tạo (AI) chắc chắn sẽ ngày càng cho thấy nhiều lợi thế rõ rệt tại các ngân hàng tại Việt Nam.
+
+Trước đây, để phát triển một sản phẩm hay giải pháp mới đưa ra thị trường, quy trình truyền thống có thể kéo dài từ 3 - 6 tháng. Nhưng với sự hỗ trợ của AI và mô hình làm việc linh hoạt, thời gian đó được rút ngắn đáng kể, đôi khi chỉ cần một đến hai tuần để thử nghiệm và phản hồi thị trường. Đây là một bước tiến lớn giúp ngân hàng thích ứng nhanh và đổi mới liên tục.
+
+Minh hoạ rõ hơn về lợi ích của AI, chuyên gia Lucas Souza đưa ra nhiều ví dụ thực tiễn. Thay vì chỉ dựa vào các bảng điều khiển hay biểu đồ, AI có thể trực tiếp đưa ra các đề xuất đã được xử lý từ dữ liệu lớn. Không chỉ vậy, mỗi khách hàng giờ đây đều nhận được các đề xuất dịch vụ được "thiết kế riêng", thay vì các giải pháp đại trà.
+
+Mọi hoạt động của ngân hàng luôn phải tuân thủ những tiêu chuẩn nghiêm ngặt. Khi tích hợp các tiêu chuẩn này vào hệ thống AI, quy trình kiểm thử được tự động hóa ở quy mô lớn, giúp tiết kiệm thời gian và giảm thiểu lỗi. Bên cạnh đó, AI cũng có thể được ứng dụng để “kiểm tra” phản hồi khách hàng. Mọi phản ánh tiêu cực từ mạng xã hội, tổng đài, email hay nhân viên chăm sóc khách hàng, đều được ghi nhận. Khi phản hồi vượt ngưỡng đo lường, hệ thống sẽ xác định đó là MCI (Negative Customer Impact) và lập tức kích hoạt quy trình xử lý. Và người báo động không ai khác chính là tác nhân AI.
+
+“Tất nhiên, khi AI ngày càng hiện diện, nỗi lo mất việc là điều dễ hiểu. Nhưng chúng tôi tin rằng công nghệ nên được truyền đạt một cách minh bạch, đi kèm quá trình huấn luyện để giúp nhân viên làm chủ công cụ mới và nâng cao năng suất”, chuyên gia Lucas Souza nhấn mạnh.
+
+Tương tự, ông Lucas Souza cũng cho biết: “Một trong những câu hỏi tôi thường nhận được là: Mục tiêu cuối cùng của việc chuyển sang mô hình linh hoạt trong kinh doanh là gì? Thú thực, ở DBS, mục tiêu lớn nhất của chúng tôi, dĩ nhiên, vẫn là vì kinh tế, như bất kỳ ngân hàng nào. Nhưng chúng tôi không đánh đổi con người hay đội ngũ để đạt được kết quả đó. Tính linh hoạt mà chúng tôi hướng tới phải song hành với trải nghiệm tốt hơn cho cả khách hàng lẫn nhân viên”.
+
+
+
+Ông Evan Leybourn, đồng sáng lập Business Agility Institute, cũng nhấn mạnh vai trò của nhân sự: “AI không tự động mang lại hiệu quả đầu tư (ROI) nếu chỉ dùng để thay thế con người. AI chỉ phát huy được giá trị nếu có thể tăng cường năng lực con người. Và đó là lúc lực lượng lao động cần chuyển từ vai trò “người sáng tạo nguyên bản” sang “người điều phối”.
+
+Sự chuyển đổi này đòi hỏi nhân sự phải trang bị những kỹ năng mới từ khả năng viết mô tả yêu cầu cho đến kỹ năng giao tiếp hiệu quả với AI. Quan trọng hơn, họ phải biết vận dụng phán đoán của mình, bởi AI đôi khi có thể “ảo tưởng” , và chỉ con người mới phân biệt được thật giả.
+
+“Dù là Agile hay AI, cốt lõi vẫn nằm ở tư duy của cả hệ thống. Bạn không thể kỳ vọng AI tạo ra đột phá trong một tổ chức chậm chạp”, ông Evan Leybourn cho biết.
+
+Rào cản lớn nhất hiện nay là nhiều tổ chức vẫn tách biệt việc ứng dụng AI và agile ra khỏi bài toán kinh doanh. Trong khi thực tế, muốn ứng dụng thành công bất kỳ công nghệ hay phương pháp nào, trước hết cần xác định rõ mục tiêu kinh doanh: doanh nghiệp đang muốn giải quyết nhu cầu cụ thể nào của khách hàng? Khi đó, việc đưa AI hay agile vào mới thực sự hiệu quả. Nếu thiếu chiến lược rõ ràng, mọi nỗ lực chuyển đổi sẽ trở nên rời rạc, thiếu động lực và không mang lại kết quả như kỳ vọng.
+
+Ông Hưng nhấn mạnh: "AI không phải đích đến nó là công cụ để giải quyết bài toán kinh doanh". Kể cả khi chưa biết bắt đầu từ đâu, doanh nghiệp vẫn có thể sử dụng chính AI để đặt câu hỏi, khám phá hướng đi phù hợp. Nhưng cốt lõi vẫn là xác định rõ bài toán kinh doanh dài hạn.
+
+Chuyên gia đánh giá Việt Nam có những phẩm chất để tiếp cận AI vừa nhanh nhạy vừa mang bản sắc riêng. Điều này sẽ giúp người Việt tạo ra giá trị khác biệt khi ứng dụng AI, không phải để thay thế con người, mà để phát huy thế mạnh con người.
+
+“Tôi tin rằng, nếu được triển khai đúng cách, AI sẽ không cướp đi việc làm mà sẽ mở ra những cơ hội lớn hơn, đưa Việt Nam đi nhanh hơn và xa hơn trong hành trình đổi mới sáng tạo”, ông Hưng nhấn mạnh.

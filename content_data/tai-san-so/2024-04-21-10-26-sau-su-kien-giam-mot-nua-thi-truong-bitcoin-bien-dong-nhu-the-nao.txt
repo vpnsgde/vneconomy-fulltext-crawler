@@ -1,0 +1,43 @@
+Sau sự kiện “halving” vừa diễn ra, giá bitcoin hiện vẫn ở mức ổn định, khoảng 64 nghìn USD. Theo các chuyên gia, halving sẽ khiến thị trường biến động như thế nào trong thời gian tới thực sự rất khó dự đoán.
+
+“Halving” là một sự kiện được lập trình sẵn xảy ra sau khi thị trường tạo ra 210.000 khối giao dịch. Mặc dù không có ngày ấn định, nhưng sự kiện này sẽ diễn ra khoảng bốn năm một lần. Halving sẽ làm cắt giảm một nửa thu nhập cố định của các “thợ mỏ”, những người khai thác bitcoin. Và khi phần thưởng khai thác giảm, số lượng bitcoin mới gia nhập thị trường cũng giảm theo.
+
+
+
+Điều đó có nghĩa là nguồn cung tiền có sẵn để đáp ứng nhu cầu sẽ bị hạn chế và tăng chậm hơn. Nguồn cung hạn chế là một trong những tính năng chính củabitcoin. Sẽ chỉ có 21 triệu bitcoin tồn tại và hơn 19,5 triệu trong số đó đã được khai thác, có nghĩa chỉ còn lại chưa đến 1,5 triệu bitcoin để khai thác.
+
+Chừng nào nhu cầu vẫn giữ nguyên hoặc tăng nhanh hơn nguồn cung, một nửa sản lượng sẽ phải giảm để giá bitcoin tăng. Vì điều này, một số người cho rằng bitcoin có thể chống lại lạm phát. Tuy nhiên, các chuyên gia cũng nhấn mạnh lợi nhuận trong tương lai của tài sản này không bao giờ được đảm bảo.
+
+Chỉ có thời gian mới trả lời được. Những lần halving trước đó, giá bitcoin liên tục biến động trong vài tháng đầu tiên và tăng cao hơn đáng kể một năm sau đó. Nhưng kết quả hoạt động trong quá khứ không phải là dấu hiệu cho thấy kết quả trong tương lai.
+
+Adam Morgan McCarthy, nhà phân tích nghiên cứu tại Kaiko, cho biết: “Tôi không thể dự đoán chính xác halving có ý nghĩa như thế nào. Ảnh hưởng của những đợt halving trước không đủ lớn để nói rằng giá BTC sẽ tăng 500% hay gì đó”.
+
+Vào thời điểm sự kiện halving trước đó diễn ra, khoảng tháng 5/2020, giá bitcoin đứng ở mức khoảng 9.000 USD, sau đó đã tăng gần gấp 7 lần lên gần 57.000 USD vào tháng 5/2021. theo CoinMarketCap. Giá Bitcoin gần như tăng gấp bốn lần một năm sau đợt halving vào tháng 7/2016 và tăng vọt tăng gần 80 lần một năm sau đợt giảm một nửa đầu tiên vào tháng 11/2012. Các chuyên gia như ông Adam Morgan McCarthy nhấn mạnh các điều kiện thị trường khác đã góp phần vào những khoản lợi nhuận đó.
+
+Sau sự kiện halving vào tối thứ sáu vừa qua, giá bitcoin dao động khoảng 64.000 USD. Con số này giảm so với mức cao nhất mọi thời đại là khoảng 73.750 USD đạt được vào tháng trước, nhưng vẫn gấp đôi giá tài sản so với một năm trước.
+
+Theo tờ The Washington Post, phần lớn công lao của đợt phục hồi thị trường bitcoin gần đây là nhờ sự thành công ban đầu của một cách đầu tư tài sản mới – quỹ ETF bitcoin, chỉ mới được các cơ quan quản lý Hoa Kỳ chấp thuận vào tháng 1/2024.
+
+Một báo cáo nghiên cứu từ nhà quản lý quỹ tiền điện tử Bitwise đã phát hiện ra rằng các quỹ ETF bitcoin, hay còn gọi là quỹ tương hỗ sở hữu Bitcoin, đã chứng kiến dòng vốn vào 12,1 tỷ USD trong quý đầu tiên.
+
+Nhà phân tích nghiên cứu tiền điện tử cấp cao của Bitwise, Ryan Rasmussen cho biết nhu cầu ETF ngày càng tăng hoặc dai dẳng, khi kết hợp với “cú sốc nguồn cung” do đợt halving, có thể giúp đẩy giá bitcoin lên cao hơn nữa.
+
+Ông cho biết: “Chúng tôi kỳ vọng giá Bitcoin sẽ có hiệu suất mạnh mẽ trong 12 tháng tới”. Thậm chí, ông còn dự đoán mức lợi nhuận có thể đạt tới 400.000 USD. Tuy nhiên, đa số các chuyên gia đồng thuận giá BTC sẽ chỉ nằm trong phạm vi 100.000-175.000 USD, đồng thời cảnh báo các nhà đầu tư vẫn nên thận trọng vì thị trường có thể rẽ sang kịch bản khác.
+
+Các nhà phân tích của JPMorgan khẳng định họ không kỳ vọng giá BTC tăng sau halving vì thị trường vẫn đang trong tình trạng mua quá mức. Kết quả này được kết luận sau khi họ phân tích về hợp đồng tương lai Bitcoin (Hợp đồng tương lai Bitcoin cho phép nhà đầu tư tiếp cận Bitcoin mà không cần phải nắm giữ đồng tiền mã hóa cơ sở này).
+
+Andrew W. Balthazor, luật sư chuyên về tài sản kỹ thuật số tại Holland & Knight tại Miami, cho biết: “Ngay cả khi giá bitcoin tăng nhẹ, (giảm một nửa) thực sự có thể ảnh hưởng đến khả năng thanh toán hóa đơn của người khai thác. Nếu Bitcoin là hoạt động kinh doanh chính, các thợ đào phải lập kế hoạch cho những biến động cực độ”.
+
+
+
+Theo tờ The Washington Post, các công ty khai thác đã chuẩn bị tốt sẽ đối mặt với những biến động bằng cách tăng hiệu quả sử dụng năng lượng hoặc huy động vốn mới. Và đương nhiên, các công ty hoạt động kém hiệu quả đã và đang loay hoay khi phần thưởng khai thác bị giảm.
+
+Trong báo cáo nghiên cứu gần đây của Bitwise, tổng doanh thu của máy khai thác đã giảm một tháng sau mỗi lần halving trước đó, sau đó sẽ tăng trở lại sau một năm. Nguyên nhân là do, số lượng hạn chế khiến giá bitcoin tăng đột biến cũng như các công ty khai thác lớn hơn mở rộng hoạt động của họ.
+
+Nhưng trong một năm này, thời gian sẽ trả lời những công ty khai thác nào sẽ phải rời khỏi thị trường. Nhà phân tích tiền điện tử, Ryan Rasmussen đặt cược rằng những công ty lớn sẽ tiếp tục mở rộng và tận dụng những tiến bộ công nghệ của ngành để giúp hoạt động hiệu quả hơn.
+
+Nghiên cứu gần đây được công bố bởi Đại học Liên Hợp Quốc và tạp chí Earth’s Future cho thấy lượng khí thải carbon của hoạt động khai thác bitcoin giai đoạn 2020-2021 trên 76 quốc gia tương đương với việc vận hành 190 nhà máy điện chạy bằng khí đốt tự nhiên. Than đáp ứng phần lớn nhu cầu điện của bitcoin (45%), tiếp theo là khí đốt tự nhiên (21%) và thủy điện (16%).
+
+Đối mặt với những chỉ trích về tác động gây ô nhiễm môi trường, các nhà phân tích trong ngành khẳng định rằng ngành công nghiệp này đang gia tăng sử dụng năng lượng sạch nhiều hơn trong những năm gần đây.
+
+Đồng thời, hưởng ứng lời kêu gọi về bảo vệ khí hậu từ các cơ quan quản lý trên toàn thế giới, song ngành công nghiệp này vẫn không thể thuyết phục những người bảo vệ môi trường và ngày càng bị các cơ quan quản lý môi trường giám sát chặt chẽ hơn.

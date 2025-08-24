@@ -1,0 +1,27 @@
+Điều này buộc các ngân hàng phải trở thành “ngân hàng mở”, xây dựng các sản phẩm theo hình thức cung ứng dịch vụ - Banking as a Service (BaaS). Không nằm ngoài xu thế, MB trong những năm gần đây đẩy mạnh triển khai dịch vụ này đến các đối tác, doanh nghiệp ở khắp các lĩnh vực.
+
+Với 29 năm xây dựng và phát triển, MB là một trong những ngân hàng dẫn đầu về việc cung cấp dịch vụ và sản phẩm đa dạng, an toàn tuyệt đối; sở hữu hạ tầng công nghệ thông tin hiện đại; mở rộng mạnh mẽ các phân khúc thị trường mới bên cạnh thị trường truyền thống của một ngân hàng thương mại. Với lợi thế đó, MB đã kết nối dịch vụ BaaS đến doanh nghiệp từ đa dạng các lĩnh vực như: Tài chính, logistics, chứng khoán… thông qua hơn 600 bộ APIs –được cho là ngân hàng sở hữu lượng API đa dạng nhất.
+
+Dịch vụ BaaS được biết đến là một mô hình cho phép các đối tác thứ ba kết nối với hệ thống của ngân hàng thông qua API để cung cấp trực tiếp các dịch vụ tài chính - ngân hàng tới khách hàng trên hệ thống ứng dụng/ nền tảng của đối tác đó. Ví dụ, khách hàng có thể nạp/rút tiền vào ví, mở tiền gửi tiết kiệm trên ví điện tử; thanh toán bằng thẻ ATM ngân hàng trên các sàn thương mại điện tử; thậm chí được chi trả lương trực tiếp trên hệ thống quản trị của chính công ty mình làm việc…
+
+Tựu chung lại, đây là mô hình kinh doanh cho phép ngân hàng cung ứng dịch vụ của mình cho đối tác thông qua API (Application Programming Interface - Giao diện lập trình ứng dụng, cung cấp phương thức kết nối để các ứng dụng từ xa có thể yêu cầu dịch vụ đến hệ thống ứng dụng cung cấp dịch vụ và từ đó có thể trao đổi dữ liệu giữa các hệ thống với nhau.)
+
+Trên thế giới, một số ngân hàng đã triển khai mạnh BaaS có thể kể đến như BBVA ở châu Âu, DBS ở châu Á và Goldman Sachs ở châu Mỹ. Trong khi BBVA sử dụng API cho phép các công ty cung cấp các sản phẩm tài chính mà không cần phải tự đảm nhận toàn bộ quy trình nghiệp vụ ngân hàng thì Goldman Sachs lại xây dựng cơ sở hạ tầng dựa trên đám mây mới cho tài khoản và thanh toán.
+
+Ở châu Á, DBS của Singapore - ngân hàng tiên phong trong lĩnh vực chuyển đổi số đã triển khai DBS RAPID - giải pháp kỹ thuật số tận dụng các khả năng của API. DBS RAPID giúp tối ưu hóa quy trình làm việc, nâng cao sức mạnh của hệ sinh thái thông qua khả năng hợp tác, tích hợp và giao dịch trên nhiều hệ thống. Đây là cách hiệu quả vượt trội hơn hẳn nền tảng và công nghệ cũ, tiết kiệm chi phí và nâng cao trải nghiệm cho khách hàng.
+
+Đối với MB, các dịch vụ cơ bản, trọng yếu cung cấp đến khách hàng có thể kể đến như:
+
+Nhận biến động số dư: Doanh nghiệp nhận biến động số dư trên tài khoản (realtime) ngay trên hệ thống đơn vị đang vận hành;
+
+Thu/chi hộ: Hỗ trợ thu/chi các khoản tiền trên phần mềm Doanh nghiệp;
+
+Thanh toán QR: Chấp nhận thanh toán quét mã QR tĩnh/động từ tất cả App ngân hàng trong liên minh Napas;
+
+Thu hộ qua tài khoản định danh: Chuyển tiền vào tài khoản định danh của Doanh nghiệp (công ty chứng khoán, bảo hiểm, Doanh nghiệp B2B….) từ các tài khoản ngân hàng khác nhau;
+
+Ngoài ra, còn có các dịch vụ nâng cao khác mà MB sẵn sàng cung cấp trên nền tảng đối tác như như: Tiết kiệm, Chứng chỉ tiền gửi, Vay tiêu dùng, Thẻ tín dụng, và các dịch vụ khác.
+
+Sở hữu lượng API đa dạng nhất, với dịch vụ BaaS mà MB cung cấp, hệ thống của doanh nghiệp sẽ được tích hợp trực tiếp với hệ thống của MB trong thời gian ngắn nhất (từ 2 tuần đến 1 tháng) cùng mức chi phí rẻ nhất. Nhờ đó, ngoài các mảng kinh doanh cốt lõi, doanh nghiệp có thêm sản phẩm, dịch vụ mới cung cấp đến người dùng cuối như thẻ đồng Thương hiệu, đăng ký ứng dụng ngân hàng, gửi tiết kiệm… ngay trên các nền tảng của doanh nghiệp đó đem lại giá trị gia tăng mới cho doanh nghiệp cũng như gia tăng trải nghiệm cho người dùng cuối.
+
+Thời gian qua, mặc dù dịch bệnh Covid-19 gây ra nhiều hậu quả tiêu cực nhưng nhìn nhận ở một khía cạnh nào đó, chúng ta không thể phủ nhận ảnh hưởng của chúng đến sự tăng tốc của các mô hình sản phẩm – dịch vụ online, hay cụ thể hơn là mô hình BaaS trên thế giới và Việt Nam. Cùng với xu thế toàn cầu nói chung và những lợi ích, giá trị cốt lõi mang đến cho khách hàng của mình nói riêng, dịch vụ BaaS của MB được kỳ vọng sẽ từng bước chuyển mình mạnh mẽ, khẳng định cam kết đồng hành cùng doanh nghiệp trong quá trình chuyển đổi số.

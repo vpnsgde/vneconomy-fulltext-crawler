@@ -1,0 +1,41 @@
+Tổng cục Thuế cho biết đang triển khai nhiệm vụ “Hoàn thiện việc đồng bộ dữ liệu về thuế đối với cơ sở dữ liệu quốc gia về dân cư và làm sạch, thống nhất sử dụng mã số định danh công dân là mã số thuế” tại Đề án “Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030” (gọi tắt là Đề án 06).
+
+Để thực hiện nhiệm vụ này, Tổng cục Thuế phối hợp với Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06) thực hiện quy trình trao đổi, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu quản lý thuế, sử dụng dịch vụ truy vấn từ cơ sở dữ liệu của Bộ Công an; đồng thời, làm việc với cơ quan Bảo hiểm xã hội đề nghị phối hợp rà soát, chuẩn hóa thông tin của các mã số thuế cá nhân có thông tin tại cơ sở dữ liệu bảo hiểm xã hội…
+
+Tổng cục Thuế cho rằng việc sử dụng thống nhất mã số định danh công dân là mã số thuế sẽ giúp thay đổi phương thức quản lý và nâng cao chất lượng, hiệu quả trong công tác quản lý thuế nói riêng và công tác quản lý nhà nước nói chung.
+
+
+
+"Công dân có thể sử dụng mã số định danh để tra cứu thông tin công dân trong cơ sở dữ liệu quốc gia về dân cư, có thể thay thế căn cước công dân/hộ chiếu, đặc biệt, có thể thay thế cho mã số thuế cá nhân khi thực hiện các thủ tục liên quan đến việc khai thuế, nộp thuế, đăng ký giao dịch điện tử…"
+
+Tổng cục Thuế.
+
+Theo Tổng cục Thuế, nếu như trước đây mỗi người được cấp một số chứng minh nhân dân hoặc căn cước công dân, sau đó lại được cấp thêm mã số thuế, mã số sổ bảo hiểm xã hội, số thẻ bảo hiểm y tế... thì phải ghi nhớ rất nhiều loại thông tin và kê khai các thông tin này cho các cơ quan quản lý nhà nước khác nhau.
+
+Trong khi đó, cơ quan nhà nước thực hiện quản lý độc lập và không có sự liên kết, trao thông tin giữa các ngành, lĩnh vực.
+
+Vì vậy, Tổng cục Thuế cho rằng khi sử dụng thống nhất mã số định danh công dân làm mã số thuế và có thể giải quyết thủ tục hành chính với cơ quan thuế và với các cơ quan nhà nước khác.
+
+Các cơ quan quản lý nhà nước có thể trao đổi thông tin về quản lý theo ngành, lĩnh vực đối với công dân để tăng cường hiệu quả quản lý thuế nói riêng và quản lý nhà nước nói chung.
+
+Nhờ vậy, người dân tiết kiệm được nhiều thời gian, chi phí, giảm nhiều khâu thủ tục, giảm giấy tờ cá nhân khi thực hiện các giao dịch hành chính công; đồng thời, cơ quan quản lý nhà nước cũng tiết kiệm được thời gian quản lý, bố trí nguồn nhân lực phù hợp cho từng vị trí công việc.
+
+Bên cạnh đó, đối với cá nhân có thông tin đăng ký thuế khớp đúng với cơ sở dữ liệu quốc gia về dân cư, Tổng cục Thuế phối hợp với Bộ Công an để triển khai việc sử dụng tài khoản định danh điện tử để đăng nhập, xác thực thông tin người nộp thuế trên các nền tảng của ngành thuế gồm website ngành thuế, app Etax mobile.
+
+Khi người nộp thuế có tài khoản giao dịch điện tử với cơ quan thuế hoặc tài khoản định danh điện tử VNeID và các cơ quan quản lý nhà nước đã có sự kết nối, chia sẻ thông tin, người nộp thuế sẽ không phải kê khai nhiều thông tin cá nhân như trước đây hoặc thông tin đã được tích hợp trong tài khoản định danh cá nhân sẽ được hỗ trợ tự động điền vào phần thông tin kê khai của người nộp thuế.
+
+Ngoài ra, Tổng cục Thuế cho biết định danh số công dân đang là xu hướng toàn cầu. Nhiều quốc gia trên thế giới thực hiện việc này từ nhiều năm trước, trong đó có hai hình thức định danh số phổ biến, đó là định danh qua căn cước điện tử và thông qua thiết bị di động.
+
+
+
+Ngành thuế xác định triển khai rà soát, chuẩn hóa mã số thuế cá nhân là nhiệm vụ chính trị quan trọng đã được Chính phủ, Bộ Tài chính chỉ đạo để hoàn thiện việc đồng bộ dữ liệu về thuế với cơ sở dữ liệu quốc gia về dân cư, và làm sạch, thống nhất sử dụng mã số định danh làm mã số thuế như Luật Quản lý thuế quy định.
+
+Nhiều nước cũng đang áp dụng đồng thời nhiều phương thức nhằm tạo ra một xã hội phát triển trên nền tảng số hiện đại. Nếu phát triển được hệ thống định danh, hệ sinh thái định danh tin cậy sẽ thúc đẩy các giao dịch kinh tế và hành chính trong tương lai.
+
+Tại Nhật Bản, trẻ em từ khi sinh ra đã có thẻ mã số cá nhân (My number card) gồm 12 chữ số và không trùng lặp với bất kỳ ai, mã số này sẽ không thay đổi trong suốt cuộc đời của mỗi người. Đây là thẻ chứng minh nhân dân có gắn chíp, chứa đựng toàn bộ thông tin cá nhân, có thể sử dụng như thẻ bảo hiểm y tế, thẻ nhận tiền trợ cấp phúc lợi xã hội…
+
+Tại Pháp, Cổng Dịch vụ công quốc gia và Hệ thống liên kết định danh quốc gia cho phép kết nối giữa các dịch vụ công trực tuyến với 1 lần đăng nhập duy nhất (France Connect) nhờ hoàn thành việc tích hợp định danh số.
+
+Công dân Pháp chỉ cần đăng nhập hệ thống này để có thể sử dụng tất cả các dịch vụ công trực tuyến do các cơ quan nhà nước cung cấp, trong đó có cơ quan thuế.
+
+Thời gian tới, Tổng cục thuế sẽ tiếp tục phối hợp với Bộ Công An đẩy mạnh công tác này để tiến tới hoàn thành việc sử dụng mã định danh công dân làm mã số thuế, tạo nền tảng quan trọng để triển khai dịch vụ công trực tuyến phục vụ người dân, doanh nghiệp, góp phần đẩy mạnh phát triển Chính phủ số, kinh tế số, xã hội số.

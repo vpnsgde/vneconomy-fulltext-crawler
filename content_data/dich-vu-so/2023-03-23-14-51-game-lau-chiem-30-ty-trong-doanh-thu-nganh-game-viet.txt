@@ -1,0 +1,35 @@
+Thực trạng này được Cục Phát thanh Truyền hình và Thông tin điện tử chỉ ra tại Hội thảo triển khai giải pháp ngăn chặn thanh toán cho game không phép diễn ra ngày 23/3/2023.
+
+Ông Lê Quang Tự Do, Cục trưởng Cục Phát thanh Truyền hình và Thông tin điện tử, cho biết vấn đề đặt ra trong quá tình thúc đẩy phát triển doanh nghiệp game hiện nay chính là tình trạng bất bình đẳng giữa các doanh nghiệp game trong nước và doanh nghiệp nước ngoài cung cấp xuyên biên giới vào Việt Nam.
+
+Trong khi các doanh nghiệp trong nước phải tuân thủ nhiều quy định của pháp luật thì các doanh nghiệp cung cấp xuyên biên giới vào Việt Nam bất chấp tất cả, thu hút nhiều người dùng. Điều này khiến các doanh nghiệp game trong nước ngày càng “teo tóp”.
+
+Theo thống kê, doanh thu của game không phép ước tính khoảng gần 5000 tỷ đồng mỗi năm. Ước tính doanh thu của game không phép chiếm đến 30% tỷ trọng doanh thu toàn thị trường phát hành game Việt.
+
+Một trong những nguyên nhân dẫn đến thực trạng này là do các kênh thanh toán hỗ trợ cho game không phép qua các trung gian thanh toán (ví điện tử) hoặc chuyển khoản ngân hàng (Internet banking).
+
+Ngoài thanh toán gián tiếp, người dùng có thể thanh toán trực tiếp qua In app – purchase (IAP). Ví dụ như với Google có ví điện tử: MoMo, ZaloPay, VTC Pay; Thẻ tín dụng hoặc thẻ ghi nợ: MasterCard, Visa, Visa Electron hoặc tài khoản viễn thông của các nhà mạng. Với Apple có ví điện tử: Momo, ShopeePay; thẻ tín dụng hoặc thẻ ghi nợ: MasterCard, Visa…
+
+Có thể thấy hiện nay việc thanh toán các game không phép rất dễ dàng bằng nhiều hình thức. Các trung gian thanh toán không kiểm tra tính hợp pháp của game khi tiến hành giao dịch nạp game dẫn tới việc nạp tiền cho các game không phép, game cờ bạc, game vi phạm pháp luật… Chính điều này đã để lại hậu quả các trò chơi không phép vẫn tiếp tục được hỗ trợ và tràn lan tại Việt Nam.
+
+Nhìn nhận về thực trạng hiện nay, Thứ trưởng Bộ Thông tin và Truyền thông Nguyễn Thanh Lâm thẳng thắn chỉ ra, giá trị giá trị gia tăng của phía Việt Nam trong ngành game là không cao. Gần 90% game ở thị trường là nhập khẩu hoặc có xin phép, còn nếu tính cả game lậu không phép trên mạng thì tỷ lệ này có thể còn lớn hơn nữa.
+
+Ngoài ra một số nước ở gần Việt Nam khi thay đổi chính sách, có các biện pháp siết chặt ngành game trong nước thì các game đó lại tràn vào Việt Nam. Các doanh nghiệp game trong nước đã khó khăn, nhiều chi phí trong khi vòng đời game ngắn lại bị cạnh tranh không lành mạnh...
+
+Để ngăn chặn, khắc phục tình trạng này, Bộ Thông tin và Truyền thông đề nghị các tổ chức, doanh nghiệp cung cấp dịch vụ trung gian thanh toán nghiêm túc tuân thủ đầy đủ các quy định về thanh toán và pháp luật chuyên ngành có liên quan khi kết nối và thanh toán cho dịch vụ game.
+
+
+
+Các đơn vị này phải thực hiện các giải pháp ngăn chặn, không kết nối và thanh toán cho các game không phép qua hệ thống thanh toán của đơn vị mình hoặc khi nhận được yêu cầu từ cơ quan quản lý nhà nước; trường hợp thanh toán qua IAP phải yêu cầu Apple, Google cung cấp đầy đủ các thông tin về giao dịch để thực hiện các biện pháp ngắt kết nối hoặc chặn thanh toán cho game không phép.
+
+Bộ Thông tin và Truyền thông sẽ chỉ đạo Cục Phát thanh Truyền hình và Thông tin điện tử gửi định kỳ hàng tháng danh sách các game đã được cấp phép, game không phép để các trung gian thanh toán đối chiếu, không thanh toán hoặc kết nối thanh toán tới các game không phép.
+
+Đồng thời, Bộ Thông tin và Truyền thông sẽ phối hợp với Bộ Công an, Ngân hàng Nhà nước Việt Nam để giám sát, kiểm tra và xử lý nghiêm nếu đơn vị trung gian thanh toán tiếp tục thanh toán cho game không phép. Theo đó đề nghị Ngân hàng Nhà nước Việt Nam có biện pháp ngăn chặn, không cho các đơn vị trung gian này được thanh toán cho game.
+
+Với Apple, Google sẽ đề nghị không hợp tác với đơn vị trung gian thanh toán để thanh toán cho game trên 2 kho ứng dụng này.
+
+Cơ quan quản lý sẽ đề nghị các nhà mạng ngăn chặn đường truyền truy cập tới các cổng trung gian thanh toán không phép, chặn đường truyền truy cập tới các website/ứng dụng cung cấp game vi phạm pháp luật Việt Nam.
+
+Thứ trưởng Nguyễn Thanh Lâm nhấn mạnh, Bộ Thông tin và Truyền thông cam kết phối hợp chặt chẽ hơn nữa với Ngân hàng Nhà nước Việt Nam, Bộ Tài chính, Bộ Công an để ngăn chặn ở các cấp độ khác nhau để hỗ trợ cho sự phát triển của ngành.
+
+Tiếp theo tới đây, Bộ sẽ công bố thông tin các game có phép và không phép, những cổng thanh toán, đơn vị trung gian thanh toán đang tuân thủ pháp luật cũng như những đơn vị đang có biểu hiện, dấu hiệu thanh toán không đúng pháp luật, ông Lâm cho biết.

@@ -1,0 +1,37 @@
+Theo CNN, trong vòng 24 giờ, Ủy ban Chứng khoán Mỹ (SEC) đã đâm đơn kiện Binance và Coinbase với một loạt cáo buộc. Trong đó, SEC kiện Binance và và CEO Changpeng Zhao với 13 cáo buộc, bao gồm vận hành trang web lừa đảo, lách luật có tính toán, vi phạm luật chứng khoán trong nhiều năm, coi thường pháp luật sở tại và trốn tránh sự giám sát của cơ quan quản lý.
+
+Với Coinbase - sàn giao dịch tiền ảo lớn nhất tại Mỹ, SEC cáo buộc công ty này không đăng ký tư cách sàn giao dịch chứng khoán, gây rủi ro cho nhà đầu tư.
+
+Động thái của SEC đánh dấu bước leo thang quan trọng trong chiến dịch của cơ quan này nhằm kiểm soát ngành công nghiệp tiền ảo mà nhiều năm qua vẫn hoạt động ngoài vòng khuôn khổ pháp lý.
+
+Giá cổ phiếu Coinbase đã giảm mạnh hơn 12% trong phiên giao dịch ngày 6/6, trong khi đó Binance chứng kiến nhà đầu tư rút gần 800 triệu USD khỏi nền tảng chỉ trong vòng 24 giờ từ khi có thông tin về vụ kiện.
+
+Các vụ kiện này có thể kéo dài hàng tháng, hoặc thậm chí hàng năm. Trong thời gian đó, giới đầu tư cũng người tin tưởng vào tài sản kỹ thuật số tại Mỹ rơi vào tình thế lấp lửng với một câu hỏi lớn: Có nơi nào an toàn để giao dịch tiền điện tử không. Câu trả lời có lẽ là “không”, ít nhất ở thời điểm này.
+
+
+
+Tiền ảo 2023: Không chỉ là “mùa đông”, thậm chí có thể là “kỷ băng hà”?
+
+Theo SEC - cơ quan quản lý chứng khoán hàng đầu tại Mỹ, mọi sàn giao dịch tiền ảo tại Mỹ đều đang hoạt động bất hợp pháp, bởi vì cơ quan quản lý hầu như xem tất cả mã thông báo tiền điện tử (trừ Bitcoin) là chứng khoán. Và các sàn giao dịch không thể kinh doanh chứng khoán nếu không có giấy phép.
+
+Tất nhiên, Coinbase lập luận rằng SEC đã chấp thuận mô hình kinh doanh của họ khi cơ quan này đồng ý để công ty chào bán cổ phiếu lần đầu ra công chúng (IPO) vào năm 2021. Công ty cũng lập luận rằng mình đã làm việc với các cơ quan quản lý để đảm bảo tuân thủ pháp luật.
+
+“Chẳng có con đường nào để ‘đến và đăng ký”. Chúng tôi đã thử rất nhiều lần”, CEO Brian Armstrong của Coinbase đăng tải trên Twitter ngày 6/6. “Thay vì đưa ra những quy định rõ ràng, SEC lại đưa ra quy định theo cách thực thi trước. Vì vậy, chúng tôi cần các tòa án để có được sự rõ ràng”.
+
+Các công ty tiền ảo thường phàn nàn rằng Mỹ không có các quy định rõ ràng và đẩy ngành công nghiệp tiền ảo ra nước ngoài để cho các cơ quan quản lý nước ngoài thiết lập các quy tắc với ngành này.
+
+Điều này có thể đúng, nhưng ông Gary Gensler - Chủ tịch SEC, người luôn hoài nghi về tiền điện tử - dường như không quan tâm tới điều này.
+
+“Hãy nhìn xem, chúng ta chẳng cần thêm tiền số”, ông Gensler nói với CNBC ngày 6/6. “Chúng ta đã có tiền số rồi, và chúng ta gọi nó là Đôla Mỹ, Euro, Yên. Tất cả giờ đây đều có trên môi trường số. Chúng ta cũng có các khoản đầu tư kỹ thuật số rồi”.
+
+Theo ông, giới đầu tư được hưởng lợi từ luật chứng khoán Mỹ và tiền ảo không nằm ngoài khuôn khổ luật này. Các nền tảng trung gian phải tuân thủ luật chứng khoán Mỹ.
+
+Các vụ kiện của SEC được dự báo sẽ tạo cơ sở cho hoạt động kiện tụng trong lĩnh vực này và sau cùng sẽ buộc Quốc hội Mỹ phải hành động.
+
+“Quan điểm của chúng tôi là chỉ có Quốc hội mới có thể chấm dứt những hỗn loạn liên quan tới quy định xung quanh tiền điện tử trong năm qua”, các nhà phân tích tại TD Cowen viết. “Đó là lý do tại sao vụ kiện tụng lần này có thể không tốt cho Coinbase, nhưng là điều tích cực đối với ngành công nghiệp tiền ảo”.
+
+Theo bà Reena Aggarwal, giám đốc Trung tâm Chính sách và Thị trường Tài chính Psaros của Đại học Georgetown, trong thời gian đợi tới lúc đó, các nhà đầu tư Mỹ cần vô cùng thận trọng khi giao dịch tiền ảo bởi giới chức Mỹ sẽ tiếp tục truy quét gắt gao các công ty tiền ảo.
+
+Bà Aggarwal cho rằng hợp đồng tương lai Bitcoin và Ether giao dịch trên Sàn giao dịch hàng hóa Chicago là công cụ đầu tư an toàn bởi sàn này đang hoạt động hợp pháp. Ngoài ra, nhà đầu tư cũng có thể tìm tới các quỹ ETF liên kết với hợp đồng tương lai Bitcoin do các công ty tài chính truyền thống cung cấp.
+
+Một điều thú vị là đồng Bitcoin - tiền ảo đầu tiên và phổ biến nhất thế giới hiện tại - đã tăng giá trong ngày 6/6, bất chấp hai vụ kiện nói trên của SEC. Nguyên nhân được cho là SEC xem Bitcoin như một loại hàng hóa hoạt động dưới sự quản lý của Ủy ban Giao dịch Hàng hóa Tương lai (CFTC). Sau khi giảm 6% ngày 4/6, Bitcoin hồi giá ngay trong ngày hôm sau. Tính tới khoảng 15h30 ngày 7/6 (giờ Việt Nam), tiền ảo này giao dịch ở mức giá 26.814 USD, tăng hơn 4,3% so với 24 giờ trước, theo dữ liệu từ Coinmarketcap.com.

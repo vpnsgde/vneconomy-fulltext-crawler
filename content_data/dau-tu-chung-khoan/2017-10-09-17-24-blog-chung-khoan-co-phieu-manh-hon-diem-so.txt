@@ -1,0 +1,29 @@
+Hệ số tăng/giảm giá của cổ phiếu hôm nay vẫn tích cực mặc dù VNI không có chuyển biến rõ ràng.
+
+Thị trường ngày 9/10/2017:
+
+Các nỗ lực đột phá qua 810 điểm của VNI đã chưa có kết quả, nhưng VN30 khá tốt khi duy trì được trên 800 sau rất nhiều dao động giằng co quanh ngưỡng này.
+
+Thị trường hôm nay ít nhất còn cho thấy khả năng nhấp nhổm tăng, mặc dù mức biến động vẫn chủ yếu là dao động thông thường. Các chỉ số đều nhiều lần trồi sụt và tạo đáy thấp hơn trong phiên, nhưng cuối cùng vẫn phục hồi nhẹ. Hệ số tăng/giảm tốt hơn cuối tuần trước nghĩa là chỉ số có thiên hướng yếu do trụ chưa nổi bật.
+
+Hôm nay dòng tiền là khá yếu, đó không phải là điều tốt khi thị trường cần tiền để phá vỡ vùng dao động tích lũy đi ngang theo hướng tăng. Vốn nội trừ ROS khoảng 3.000 tỷ.
+
+Các blue-chip vẫn bị phân hóa hơi nặng là nguyên nhân chính khiến tình trạng này chưa kết thúc. VN30 hôm nay tăng về cuối phiên sau 3 nhịp kiểm tra mức 800 điểm. Chỉ số này có khả năng duy trì được trạng thái tốt hơn VNI vì dù sao các trụ vẫn có khả năng quay vòng luân phiên. Nhóm ngân hàng có thể suy yếu một chút trong phiên ngày mai và cần trụ thay thế. Điều bất lợi là tiền vào blue-chips hơi cạn.
+
+Nếu không tính tới ROS thì vốn nội trong rổ VN30 hôm nay chỉ khoảng 1.096 tỷ, thấp hơn gần 9% so với bình quân tuần trước. Tiền ở mức này thì có thể trông đợi khả năng bò lên của chỉ số với trụ nào đó kéo. Tuy nhiên rủi ro điều chỉnh cũng không lớn, chỉ là quán tính sẽ không cao, vì thế vẫn quan tâm nhiều tới vị thế Long hơn là Short trên thị trường phái sinh.
+
+Thanh khoản chung của thị trường phái sinh hôm nay giảm hơn 8% về giá trị danh nghĩa. Kỳ hạn tháng 10 giao dịch cũng giảm khoảng 8% về số lượng hợp đồng giao dịch. OI tăng gần 3,6%. Như vậy các giao dịch trong ngày ít được thực hiện hơn, hoặc giả giá đột biến lúc đóng cửa đã khiến nhà đầu tư có khuynh hướng giữ lại vị thế để ăn thêm lãi.
+
+Điểm đáng chú ý nhất của giao dịch kỳ hạn tháng 10 là mức chênh lệch basis được thu hẹp lại đáng kể trong phiên, cũng như sau khi kết thúc giao dịch. Đặc biệt lúc gần 2h, basis chỉ là -2,16 điểm, rất hẹp. Basis trong các nhịp giảm của hợp đồng luôn tạo phân kỳ do giá hợp đồng giảm chậm hơn chỉ số. Như vậy có thể là áp lực Short không lớn.
+
+Đến lúc đóng cửa, dấu hiệu giảm Short cũng được kiểm chứng lần nữa khi lệnh Long ATC vào lớn trong khi lượng Short không nhiều như mọi ngày. Vì thế giá được kéo lên rất mạnh, đóng cửa ở 799 điểm, mức cao nhất trong ngày, trong khi VN30 lại tăng không đáng kể.
+
+Điều này là khác với phiên cuối tuần trước khi biến động giá hợp đồng tháng 10 nhạy hơn biến động của VN30 và duy trì basis rộng hơn. Nếu việc giá hợp đồng tương lai tăng chậm hơn đà tăng của chỉ số biểu hiện sự thiếu tự tin thì việc giá giảm chậm hơn chỉ số có thể là điều tốt. Trong chiều tăng, basis thường hẹp lại vì kỳ vọng chỉ số sẽ tăng để duy trì chênh lệch. Ngược lại, trong chiều giảm, basis thường rộng ra vì chiết khấu rủi ro chỉ số sẽ còn giảm thêm nữa.
+
+Nói tóm lại, hiện cơ hội Long vẫn an toàn hơn Short, ít nhất khi VN30 duy trì được trên 800 và không có những cú sụt lớn để quay lại vùng dao động hẹp cũ.
+
+Giao dịch:
+
+Long kỳ hạn tháng 10 ở 796.8-796.9 gần 11h, hợp đồng này tạo đáy trước VN30. Close 797.8 đầu giờ chiều, hợp đồng để mất 798. Cuối phiên chiều, hợp đồng tạo 3 đáy và không thủng 797, Long 797.1-797.3, lực cầu khá bền trong vùng này. Tính để mở, nhưng đóng cửa cầu lớn đột biến, Close toàn bộ.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

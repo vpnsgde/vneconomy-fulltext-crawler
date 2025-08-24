@@ -1,0 +1,23 @@
+Việc trí tuệ nhân tạo (AI) được ứng dụng ngày càng rộng rãi đang khiến nước Anh phải đối mặt với nguy cơ gia tăng cả về số lượng và mức độ phức tạp của các cuộc tấn công mạng. Đây là cảnh báo được ông Pat McFadden, Bộ trưởng cấp cao phụ trách an ninh mạng của Vương quốc Anh, theo hãng tin Reuters…
+
+Phát biểu tại hội nghị CyberUK 2025 do Trung tâm An ninh Mạng Quốc gia tổ chức, ông McFadden cho biết trong năm qua, cơ quan này đã tiếp nhận gần 2.000 báo cáo về tấn công mạng. Trong số đó, gần 90 vụ được đánh giá là nghiêm trọng và 12 vụ ở mức đặc biệt nghiêm trọng – gấp ba lần so với năm trước đó.
+
+“Báo cáo tình báo mới nhất cho thấy AI sẽ không chỉ làm gia tăng tần suất mà còn khiến các cuộc tấn công trở nên tinh vi hơn trong thời gian tới. Muốn bảo vệ hiệu quả, hệ thống an ninh mạng của chúng ta phải luôn theo kịp những chiêu thức ngày càng phức tạp của kẻ tấn công”, ông McFadden nhấn mạnh.
+
+Chỉ trong vòng ba tuần gần đây, nhiều tập đoàn bán lẻ lớn tại Anh như Marks & Spencer, Co-op Group và Harrods đã trở thành nạn nhân của các cuộc tấn công mạng. Đáng chú ý, Marks & Spencer hiện vẫn chưa thể khôi phục hệ thống đặt hàng quần áo trực tuyến.
+
+Dù các doanh nghiệp chưa công bố cụ thể hình thức tấn công, truyền thông Anh cho rằng đây là các vụ tấn công bằng mã độc tống tiền (ransomware) – hình thức mà tin tặc xâm nhập vào hệ thống, mã hóa dữ liệu và yêu cầu nạn nhân trả tiền chuộc để khôi phục hoạt động.
+
+Giám đốc Trung tâm An ninh Mạng Quốc gia, ông Richard Horne, cho biết ông mong muốn hướng tới một tương lai mà việc trả tiền chuộc sẽ không còn là lựa chọn, khi mô hình kiếm lời từ tấn công mạng không còn chỗ đứng.
+
+Ông McFadden cho rằng những vụ việc vừa qua là lời cảnh tỉnh cho toàn xã hội, từ khu vực nhà nước, doanh nghiệp cho đến các tổ chức. “An ninh mạng giờ đây không còn là điều xa xỉ, mà là yêu cầu bắt buộc trong thời đại số.”
+
+Ông cũng cho biết, vào cuối năm nay, chính phủ Anh sẽ công bố chiến lược an ninh mạng mới. Đồng thời, một dự luật về an ninh mạng và khả năng phục hồi cũng đang được chuẩn bị, nhằm trao thêm quyền cho chính phủ trong việc yêu cầu các tổ chức tăng cường năng lực bảo vệ hệ thống trước các mối đe dọa ngày càng lớn.
+
+Tốc độ ứng dụng trí tuệ nhân tạo (AI) tại Vương quốc Anh đang tăng trưởng nhanh chóng. Báo cáo của Amazon Web Services (AWS) chỉ ra tỷ lệ doanh nghiệp Anh triển khai AI đã tăng từ 39% lên 52% chỉ trong vòng một năm – tương đương mức tăng 33%. Việc ứng dụng AI đã trở nên phổ biến đến mức, trung bình cứ mỗi phút lại có một doanh nghiệp bắt đầu triển khai công cụ hoặc chiến lược liên quan đến AI.
+
+
+
+Một báo cáo của Diễn đàn Kinh tế Thế giới (World Economic Forum) công bố đầu năm nay chỉ ra rằng các hệ thống trí tuệ nhân tạo (AI) không thể tránh khỏi những lỗ hổng bảo mật, dễ bị sai sót dữ liệu và thao túng thuật toán.
+
+Trước thực tế này, các doanh nghiệp cần phải nhận thức rõ về nguy cơ gia tăng các cuộc tấn công vào tổ chức khi triển khai AI, phải xây dựng chiến lược ứng dụng AI phù hợp với mục tiêu tổ chức, đồng thời bảo đảm khả năng phục hồi nhanh chóng trong trường hợp xảy ra sự cố. Đặc biệt, an ninh mạng cần được tích hợp chặt chẽ vào toàn bộ quy trình phát triển và triển khai AI, nhằm bảo vệ hệ thống một cách toàn diện.

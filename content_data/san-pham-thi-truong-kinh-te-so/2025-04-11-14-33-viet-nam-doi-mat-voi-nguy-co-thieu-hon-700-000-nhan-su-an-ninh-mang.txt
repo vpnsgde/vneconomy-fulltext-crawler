@@ -1,0 +1,27 @@
+Tình trạng này diễn ra trong bối cảnh các cuộc tấn công mạng ngày càng gia tăng cả về quy mô, mức độ tinh vi và phức tạp, đặt ra thách thức lớn đối với năng lực phòng thủ số của các tổ chức.
+
+Chỉ riêng trong năm 2024, doanh thu từ tội phạm mạng trên toàn cầu đã chạm mốc 4.500 tỷ USD mỗi năm – tương đương với quy mô của nền kinh tế lớn thứ ba thế giới. Tại Việt Nam, các cuộc tấn công bằng mã độc tống tiền (ransomware) đã gây thiệt hại ước tính khoảng 11 triệu USD, trong khi lừa đảo trực tuyến khiến nền kinh tế gánh tổn thất lên đến 18,9 nghìn tỷ đồng. Bên cạnh đó, hơn 14,5 triệu tài khoản cá nhân đã bị rò rỉ thông tin.
+
+Tội phạm mạng ngày càng hoạt động tinh vi và có tổ chức hơn, tận dụng công nghệ cao như trí tuệ nhân tạo (AI), deepfake và các hình thức giả mạo tinh xảo để tấn công trên diện rộng.
+
+Tuy nhiên, nguồn nhân lực an ninh mạng hiện nay vẫn chưa theo kịp tốc độ phát triển và tính chất ngày càng phức tạp của các mối đe dọa. Theo ông Vũ Ngọc Sơn, Trưởng ban Công nghệ thuộc Hiệp hội An ninh mạng quốc gia, Việt Nam có thể đối mặt với nguy cơ thiếu hụt hơn 700.000 nhân sự an ninh mạng chuyên trách trong thời gian tới.
+
+Đáng lo ngại, kết quả khảo sát của Hiệp hội cho thấy hơn 20% cơ quan, doanh nghiệp tại Việt Nam vẫn chưa có nhân sự chuyên trách về an ninh mạng, và 35,56% đơn vị không đáp ứng đủ nhân sự theo nhu cầu.
+
+Nhằm giải quyết bài toán thiếu hụt nhân sự, ngày 11/4, Hiệp hội An ninh mạng quốc gia (NCA) chính thức ra mắt nền tảng đào tạo và cấp chứng nhận chuyên sâu – nCademy. Chất lượng các khoá học trên nCademy được kiểm định, giám sát bởi hội đồng chuyên môn đến từ Viện nghiên cứu An ninh mạng (CRI) thuộc Hiệp hội An ninh mạng quốc gia và Viện công nghệ thông tin, thuộc Viện Hàn lâm Khoa học và Công nghệ Việt Nam.
+
+“Chúng tôi kỳ vọng nền tảng sẽ góp phần giải quyết bài toán thiếu hụt nhân sự an ninh mạng của đất nước. Hệ thống chứng nhận sẽ góp phần chuẩn hóa năng lực, hướng tới được sử dụng rộng rãi, tương đương với các chứng chỉ quốc tế phổ nay”,  ông Vũ Ngọc Sơn nhấn mạnh.
+
+Nền tảng nCademy cung cấp các khóa học trực tuyến, từ cơ bản đến nâng cao, hỗ trợ đa nền tảng, gồm ứng dụng web và ứng dụng trên di động. Học liệu được xây dựng đa dạng, tài liệu hướng dẫn nghiên cứu, thực hành với các nội dung minh hoạ trực quan sinh động (hình ảnh, video).
+
+nCademy tập trung vào đào tạo thực hành thông qua các môi trường mô phỏng (cyber range), có thể giả lập nhiều hệ thống trong thực tế như hệ thống công nghệ thông tin (IT), hệ thống điều khiển công nghiệp (OT) hay hệ thống các thiết bị Internet vạn vật (IoT).
+
+Dự kiến, nền tảng nCademy sẽ chạy thử nghiệm quy mô nhỏ trong vòng ba tuần tại địa chỉnCademy.vn. Nền tảng chính thức đi vào hoạt động từ ngày 6/5/2025.
+
+Bên cạnh đẩy mạnh đào tạo và phát triển đội ngũ nhân lực an ninh mạng, theo ông Vũ Anh Tú, Giám đốc Công nghệ FPT, Việt Nam cũng cần phải tự chủ trong phát triển giải pháp an ninh mạng nội địa; xây dựng các Trung tâm điều hành an ninh mạng tích hợp trí tuệ nhân tạo (AI-driven SOCs), cho phép tự động hóa các quy trình cảnh báo và ứng phó với sự cố mạng; đồng thời nâng cấp các liên minh hiện có thành Liên minh An ninh mạng Quốc gia thông minh, tích hợp AI.
+
+Trong bối cảnh trí tuệ nhân tạo đang phát triển mạnh mẽ và thâm nhập sâu rộng vào mọi lĩnh vực kinh tế – xã hội, Việt Nam cần khuyến khích cộng đồng AI trong nước: startup, doanh nghiệp, học viện cùng xây dựng hệ sinh thái AI “Make in Vietnam” thực thụ.
+
+Việc này không chỉ giúp giảm phụ thuộc vào các nền tảng và giải pháp từ nước ngoài, mà còn đảm bảo dữ liệu người dùng Việt Nam được khai thác một cách chủ động và vì lợi ích quốc gia.
+
+Cũng theo ông Tú, người dùng hiện đang vô tình chia sẻ thông tin cá nhân thông qua các ứng dụng AI phổ biến như tạo ảnh, video, giọng nói… Điều này tạo điều kiện để các công ty nước ngoài thu thập dữ liệu và sử dụng làm "nguyên liệu huấn luyện" cho các mô hình ngôn ngữ lớn (LLM) ở nước ngoài mà không mang lại giá trị lâu dài cho Việt Nam. Việc kiểm soát dòng chảy dữ liệu và phát triển công nghệ AI nội địa vì vậy đang trở nên cấp thiết hơn bao giờ hết.

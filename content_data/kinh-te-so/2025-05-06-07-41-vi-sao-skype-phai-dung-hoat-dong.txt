@@ -1,0 +1,21 @@
+Người dùng Skype có thể chuyển toàn bộ danh bạ và tin nhắn sang Microsoft Team bằng cách đăng nhập Microsoft Teams bằng tài khoản Skype cũ. Ngoài ra, người dùng cũng có thể tải toàn bộ dữ liệu về máy nếu muốn chuyển sang sử dụng một ứng dụng gọi video khác.
+
+Sau 14 năm kể từ khi được Microsoft mua lại với giá 8,5 tỷ USD – thương vụ được xem là "đắt giá" nhất của hãng thời điểm đó – Skype chính thức khép lại hành trình của mình. Những năm qua, Microsoft đã nhiều lần tích hợp Skype vào các sản phẩm khác như bộ công cụ Office hay hệ điều hành Windows Phone, nhưng kết quả không như kỳ vọng.
+
+Từng là ứng dụng gọi điện qua internet hàng đầu, Skype đã dần mất đi sức hút. Dù thời điểm đại dịch COVID-19 bùng nổ là cơ hội vàng để các nền tảng họp trực tuyến phát triển, Skype lại không thể bắt nhịp tốt như các đối thủ mới nổi như Zoom, Google Meet hay Cisco Webex. Bên cạnh đó, người dùng cũng có xu hướng chuyển sang các ứng dụng phổ biến khác như FaceTime của Apple hay WhatsApp của Meta.
+
+Không chỉ chịu sức ép từ bên ngoài, Skype còn gặp “cạnh tranh nội bộ”. Nhiều năm qua, Microsoft đã chuyển trọng tâm sang phát triển Microsoft Teams – một nền tảng chuyên nghiệp hơn, phục vụ tốt cho nhu cầu làm việc từ xa và kết nối doanh nghiệp. Điều này khiến Skype ngày càng bị “lép vế” ngay trong chính hệ sinh thái của mình.
+
+Skype được ra mắt lần đầu vào năm 2003 tại Estonia. Thời đó, việc được gọi điện miễn phí qua Internet là điều vô cùng mới mẻ và hấp dẫn, nhất là khi cước gọi quốc tế còn rất cao. Nhờ vào tính năng đột phá này, Skype nhanh chóng nổi tiếng, đến mức eBay quyết định mua lại với giá 2,6 tỷ USD vào năm 2005. Tuy nhiên, thương vụ này không thành công như mong đợi, và đến năm 2009, eBay phải bán 65% cổ phần cho một nhóm nhà đầu tư với giá chỉ 1,9 tỷ USD. Hai năm sau, Microsoft chính thức trở thành chủ sở hữu mới.
+
+Từ một “hiện tượng toàn cầu” đến lúc phải rút lui, câu chuyện của Skype cho thấy công nghệ luôn thay đổi không ngừng, và nếu không bắt kịp xu hướng, kể cả những cái tên lừng lẫy nhất cũng có thể bị bỏ lại phía sau.
+
+Skype dừng hoạt động, một trong những lựa chọn dễ tiếp cận nhất hiện nay là Google Meet, bởi nền tảng này hoàn toàn miễn phí với tài khoản Google. Nền tảng này hỗ trợ họp tối đa 100 người, cho phép chia sẻ màn hình, ghi hình... Tuy nhiên, bản miễn phí giới hạn thời lượng 60 phút cho các cuộc họp có từ ba người trở lên. Với các gói Google Workspace (từ 7 USD/tháng), người dùng có thể mở rộng tính năng như chia phòng, phát trực tiếp lên YouTube và sử dụng trợ lý AI Gemini để ghi chú, tạo nền tuỳ chỉnh.
+
+Một lựa chọn phổ biến khác là Zoom, được nhiều người đánh giá cao nhờ giao diện thân thiện và dễ sử dụng. Zoom cũng hỗ trợ tối đa 100 người tham gia, tích hợp các công cụ như chia sẻ màn hình, ghi hình và bảng trắng. Tuy nhiên, thời lượng họp ở bản miễn phí bị giới hạn ở mức 40 phút. Các gói trả phí (từ 13–18 USD/tháng) bổ sung thêm tính năng AI như tóm tắt nội dung cuộc họp và tra cứu nội dung đã phiên âm.
+
+Webex, nền tảng hội họp trực tuyến của Cisco, cung cấp đầy đủ tính năng cơ bản như chia sẻ màn hình, ghi hình và bảng trắng. Gói miễn phí cho phép tối đa 100 người tham dự và giới hạn 40 phút/cuộc họp. Với gói trả phí (từ 12 USD/tháng), Webex mở rộng quy mô lên tới 1.000 người, đồng thời tích hợp các tính năng như trợ lý AI, phần Hỏi & Đáp và khảo sát trực tiếp.
+
+Discord ban đầu được thiết kế dành cho cộng đồng game thủ, nhưng hiện cũng là một lựa chọn linh hoạt cho các nhóm nhỏ hoặc cuộc gọi cá nhân. Nền tảng này hỗ trợ tối đa 25 người tham gia một cuộc gọi, không giới hạn thời lượng, và có đầy đủ các tính năng như chia sẻ màn hình, phòng thảo luận. Ngoài bản miễn phí, Discord có gói trả phí từ 5–10 USD/tháng, phù hợp hơn với người dùng cá nhân.
+
+Cuối cùng là Slack, nền tảng vốn nổi tiếng trong môi trường làm việc nhóm. Mặc dù không phù hợp với các cuộc họp đông người theo lịch trình, Slack lại rất hiệu quả trong việc tổ chức các cuộc trao đổi nhanh qua tính năng Huddle, cho phép chuyển từ trò chuyện sang cuộc gọi âm thanh hoặc video một cách linh hoạt. Gói miễn phí chỉ hỗ trợ 2 người tham gia, trong khi các gói trả phí (từ 7 USD/tháng) cho phép họp tối đa 50 người.

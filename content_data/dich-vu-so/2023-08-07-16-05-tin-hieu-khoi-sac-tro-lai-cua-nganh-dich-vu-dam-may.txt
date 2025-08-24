@@ -1,0 +1,39 @@
+Các công ty dịch vụ đám mây đang chứng kiến dấu hiệu phục hồi, sau khi báo cáo doanh thu chỉ ra làn sóng khách hàng cắt giảm chi phí - từng là lực cản lớn của ngành – đang dần lắng xuống.
+
+Đầu tháng 8, Tập đoàn Amazon thông báo tăng trưởng tại đơn vị dịch vụ website của họ (Amazon Web Service - AWS) “đang ổn định” sau một đợt sụt giảm mạnh.
+
+AWS cho biết doanh số bán hàng trong quý 2 tăng 12%. Đây được coi là con số tốt hơn những gì giới phân tích mong đợi. Các nhà phân tích đồng thời đã nâng ước tính về doanh số bán hàng năm 2024 của đơn vị này lên nhiều nhất kể từ tháng 7/2022.
+
+Năm ngoái, một số giám đốc công nghệ tại Amazon đổ lỗi cho suy thoái kinh tế. Cho đến cuộc họp công bố kết quả kinh doanh gần đây, họ nói ít hơn về xu hướng kinh tế vĩ mô, cho thấy sự lạc quan gia tăng.
+
+Đại diện của Atlassian, công ty chuyên về xây dựng phần mềm năng suất, đánh giá hiện có “một động lực thúc đẩy mạnh mẽ” cho khách hàng chuyển sang dịch vụ đám mây.
+
+Không lâu trước đó, dịch vụ đám mây Google của Alphabet Inc đã công bố doanh số bán hàng tăng 28% với mức lợi nhuận cao hơn dự tính. Doanh thu của Amazon và Atlassian lần lượt tăng 11% và 19%, còn Microsoft Corp tăng gần 2%, trong khi Alphabet tăng khoảng 1%.
+
+Theo đánh giá của John Dinsdale, Trưởng phòng Kiểm nghiệm và Giám đốc Nghiên cứu tại Synergy Research, thị trường điện toán đám mây sẽ còn tiếp tục mở rộng với tốc độ ổn định trong các năm sắp tới.
+
+“Môi trường kinh tế vĩ mô đang dần đi đúng hướng”, ông Dinsdale nói. Mặt khác, ông chỉ ra các nhà cung cấp dịch vụ đám mây còn có khả năng phát triển hơn, khi các công ty cố gắng tận dụng AI tổng quát.
+
+Trong năm 2023, các công ty điện toán đám mây chịu áp lực lớn, khi nhóm khách hàng doanh nghiệp cắt giảm mức chi tiêu cho việc vận hành công nghệ, vốn tăng vọt trong thời kỳ dịch Covid-19 và làm việc từ xa.
+
+Một số khách hàng lớn nhất, phải kể đến các công ty công nghệ lớn, đã tiến hành sa thải hàng loạt nhân sự. Động thái cắt giảm chi phí mạnh tay đồng nghĩa với việc các công ty cần đến ít nguồn nhân lực hơn và cả các phần mềm quản lý khác.
+
+Hiện tại, tốc độ của làn sóng sa thải có dấu hiệu chậm lại. Các giám đốc điều hành trong ngành cho biết nhóm khách hàng doanh nghiệp ít có xu hướng cắt giảm chi phí cho điện toán đám mây, nhất là ở nhóm Big Tech.Giống như nhiều phần mềm cùng ngành, tốc độ tăng trưởng của nền tảng điện toán đám mây của Atlassian đã “rơi tự do” vào năm ngoái. Ban đầu, khi chưa công bố báo cáo tài chính của quý II, các nhà đầu tư lo lắng rằng việc cắt giảm chi phí và sa thải nhân sự đồng nghĩa với khả năng mở rộng của ngành dịch vụ đám mây còn tiếp tục chậm lại.
+
+Song, các giám đốc điều hành cho biết về cơ bản, đợt sụt giảm đã chạm đáy. Và ngay cả khi tình hình kinh tế chung không được cải thiện trong năm tài chính mới, vẫn có những dấu hiệu cho thấy khách hàng sẽ tiếp tục tăng.Giám đốc Tài chính của Atlassian, Joe Binz, bày tỏ: “Chúng tôi kỳ vọng tốc độ tăng trưởng doanh thu trên nền tảng đám mây sẽ dần cải thiện trong suốt cả năm 2023”.
+
+Tuy nhiên, vẫn có những dấu hiệu cho thấy việc chi tiêu cho phần mềm quản lý chưa hết bị thắt chặt. Atlassian chỉ có thêm một nửa số lượng khách hàng mới so với dự kiến của các nhà phân tích.
+
+Tốc độ tăng trưởng doanh số của AWS, mặc dù có dấu hiệu tích cực, nhưng lại là mức tăng trưởng chậm nhất kể từ khi Amazon bắt đầu cải thiện hiệu suất của đơn vị này. Tăng trưởng trong đơn vị dịch vụ đám mây Azure của Microsoft cũng chậm lại trong quý 2 vừa qua.
+
+Các báo cáo doanh thu mới nhất cũng đưa ra nhiều ý kiến trái chiều về thời điểm chính xác rằng AI sẽ thúc đẩy đáng kể doanh số bán hàng trên nền tảng đám mây.
+
+Các ông lớn Big Tech đặt nhiều kỳ vọng vào trí tuệ nhân tạo, với mô hình máy tính có khả năng viết văn bản hoặc tạo ra hình ảnh nhanh chóng sẽ trở thành “miếng bánh béo bở”, tạo ra sự tăng trưởng.
+
+Đối với các nhà xây dựng phần mềm, những công cụ như vậy tăng sức hấp dẫn của sản phẩm, đồng thời chào bán với mức giá cao hơn. Các công ty cung cấp cơ sở hạ tầng đám mây mong đợi sẽ thấy nhiều hoạt động hơn tại cụm máy chủ của họ, khi khách hàng tinh chỉnh các mô hình ngôn ngữ đòi hỏi sức mạnh tính toán cực lớn.
+
+Hồi tháng 6, công ty Oracle báo cáo đơn vị cơ sở hạ tầng đám mây của họ có mức tăng trưởng 76%. Một phần được thúc đẩy bởi các công ty phát triển mô hình ngôn ngữ lớn.
+
+Tuy vậy, các đơn vị khác chưa có số liệu cụ thể về thời điểm AI có thể giúp doanh số bán hàng tăng vọt. Giám đốc điều hành Microsoft Satya Nadella dự đoán rằng “tín hiệu doanh thu thực sự” sẽ xuất hiện vào năm 2024.
+
+“Hiện tại, vẫn còn sớm để nói trước điều gì. Tôi nghĩ rằng hầu hết các công ty vẫn đang trên đường tìm ra cách họ muốn tiếp cận”, Andy Jassy, Giám đốc điều hành của Amazon, nói.

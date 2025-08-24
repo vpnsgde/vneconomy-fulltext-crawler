@@ -1,0 +1,37 @@
+"Chuyển đổi xanh và chuyển đổi số đang tạo thành một hợp lực song hành cùng doanh nghiệp", ông Nguyễn Tuấn Anh, Giám đốc tư vấn Phát triển bền vững của FPT Digital, đã nhấn mạnh như vậy tại Diễn đàn Cấp cao Chuyển đổi số Việt Nam – Châu Á 2024 (Vietnam – Asia DX Summit 2024) được tổ chức ngày 28 – 29/5/2024 tại Hà Nội.
+
+Hiện nay, công nghệ thông tin đang đóng vai trò quan trọng trong hoạt động vận hành và phát triển của doanh nghiệp. Tuy nhiên, theo một nghiên cứu của Viện Nghiên cứu Hệ thống Toàn cầu (PIK), dữ liệu lớn (big data) và điện toán đám mây (cloud computing) sẽ tiêu thụ khoảng 13% tổng năng lượng điện toàn cầu vào năm 2030, gấp ba lần so với năm 2018. PIK cho rằng điều này cũng gián tiếp gây ra sự gia tăng khí thải carbon và nhiệt độ toàn cầu.
+
+Còn theo thống kê của Statista, dữ liệu lớn và điện toán đám mây chiếm khoảng 2% tổng lượng khí thải nhà kính trên toàn cầu.
+
+Theo một báo cáo của PwC, AI có thể góp phần giảm 4% lượng khí thải toàn cầu vào năm 2030 nhờ việc tối ưu hóa các quy trình sản xuất, vận tải và năng lượng nhưng AI cũng tiêu thụ nhiều năng lượng để huấn luyện các mô hình và thuật toán phức tạp.
+
+Báo cáo tiến trình về môi trường năm 2023 của Apple cũng cho thấy lượng khí thải từ hoạt động sản xuất các sản phẩm điện tử chiếm khoảng 66% tổng lượng khí thải của họ.
+
+Các số liệu trên cho thấy việc chuyển đổi số cũng tạo ra áp lực và thách thức cho quá trình chuyển đổi xanh. Hai quá chuyển đổi này không thể tách bạch khi hướng tới phát triển bền vững, mà cần tương hỗ cho nhau. Bởi theo ông Tuấn Anh, chuyển đổi xanh là nguồn lực kéo giúp doanh nghiệp chuyển đổi số nhanh hơn – mạnh mẽ hơn, còn chuyển đổi số là công cụ hỗ trợ, thúc đẩy tiến trình chuyển đổi xanh của doanh nghiệp.
+
+Vì lý do đó, "Doanh nghiệp toàn cầu đã đẩy mạnh chuyển đối kép, tức chuyển đổi số kết hợp với chuyển đổi xanh, và coi đây là ưu tiên mới của thời đại", đại diện FPT Digital nói.
+
+Theo nhận định của Chủ tịch Hội đồng Sáng lập VINASA Trương Gia Bình, cả thế giới đang bước sang giai đoạn phát triển thông minh hoá với hai xu thế chuyển đổi số, chuyển đổi xanh. Đây vừa là động lực, là cơ hội nhưng cũng là thách thức rất lớn.
+
+Các số liệu khảo sát gần đây cho thấy mặc dù các doanh nghiệp có mức độ cam kết cao về thực hành ESG nhưng việc triển khai đúng cách và đồng đều vẫn là trở ngại lớn. Chỉ có 22% doanh nghiệp đã có chương trình ESG toàn diện bao gồm tất cả các khía cạnh E, S và G.
+
+Đưa ra nhận định rằngchuyển đổi kép ở Việt Nam còn vấp phải những rào cản nhất định liên quan đến ngân sách, con người và công nghệ,Tổng Giám đốc FPT Digital Trần Huy Bảo Giang phân tích: "Ngân sách cho hoạt động chuyển đổi kép chưa được ưu tiên trong khi doanh nghiệp chưa định vị được hiện trạng, chưa có chiến lược chuyển đổi cụ thể". "Bên cạnh đó, phần lớn nhân sự đã quen với nếp làm việc cũ nên còn chần chừ tiếp nhận đổi mới. Và điều quan trọng là hầu hết các doanh nghiệp này chưa có hạ tầng kiến trúc, dữ liệu đáp ứng được yêu cầu chuyển đổi số".
+
+Công nhận sự bùng nổ của AI đặc biệt là AI tạo sinh đang tạo đà mạnh mẽ cho chuyển đổi kép, nhưng ông Giang cũng nói thêm, tại Việt Nam, việc sử dụng AI vẫn còn chưa đồng đều, chủ yếu tập trung tại các doanh nghiệp lớn có mức độ số hóa cao.
+
+Theo nghiên cứu của FPT, điểm mấu chốt trong quá trình chuyển đổi kép của doanh nghiệp là cần có lộ trình thực sự bài bản, phù hợp với thế mạnh của doanh nghiệp. Lộ trình này cũng cần chú trọng tới công tác đào tạo, nâng cao năng lực số – xanh, chuyển đổi từ nhận thức của lãnh đạo tới các cấp nhân sự.
+
+Theo ông Trương Gia Bình, "Muốn khai thác tiềm năng chuyển đổi số – chuyển đổi xanh, tạo ra phát triển kép về cả kinh tế số và kinh tế xanh, Việt Nam cần đi tiên phong phát triển các lĩnh vực: Trí tuệ nhân tạo, chip bán dẫn, xe điện thông minh trong chuyển đổi số, công nghệ xanh,". Đồng thời ông Bình cũng nhấn mạnh: "Cần tập trung nhân lực, tài chính cho những lĩnh vực công nghệ trọng điểm này."
+
+Để xây dựng một lộ trình chuyển đổi bài bản, phù hợp với hiện trạng và mục tiêu kinh doanh, ông Tuấn Anh khuyến nghị 4 bước cần được thực hiện gồm: Đánh giá hiện trạng ESG; Tích hợp mục tiêu ESG và mục tiêu kinh doanh; Xây dựng lộ trình ESG và đào tạo nguồn lực con người, chuẩn bị cho những chặng đường chuyển đổi lâu dài.
+
+Còntheo ông Giang, để không bị bỏ lại trong cuộc chơi chuyển đổi kép và đặc biệt là chuyển đổi kép có ứng dụng AI, doanh nghiệp cần tiếp cận bài bản theo 3 bước.
+
+Bước 1, doanh nghiệp cần xác định mức độ sẵn sàng chuyển đổi kép nhằm xác định khoảng cách giữa hiện tại và mục tiêu tương lai.
+
+Bước 2, xây dựng lộ trình rõ ràng hướng tới chuyển đổi kép và tổ chức thực hiện trên cơ sở đảm bảo các nguồn lực cần thiết.
+
+Bước 3và cũng là yêu cầu quan trọng nhất, đó là chuyển đổi con người. Doanh nghiệp có thể làm điều này thông qua việc xây dựng văn hóa số, nâng cao nhận thức và năng lực số thông qua đào tạo và truyền thông.
+
+Bên cạnh đó, ứng dụng Công nghệ xanh cũng là một giải pháp thúc đẩy lộ trình chuyển đổi kép. Thỏa thuận xanh châu Âu của Liên minh châu Âu (EU) đã được ban hành với các quy định về Mua sắm công xanh (GPP), trong đó tiêu chí Công nghệ xanh sẽ áp dụng cho cả các gói đấu thầu công và tư. Thỏa thuận này thể hiện cam kết và quyết tâm của EU trong việc ứng phó với biến đổi khí hậu và giảm phát thải và sẽ có tác động trực tiếp đối với hoạt động sản xuất, xuất khẩu hàng hóa của Việt Nam. Việc chuyển đổi kép thành công sẽ giúp doanh nghiệp Việt Nam vượt qua hàng rào "Xanh" để đưa hàng hóa vào thị trường EU trong tương lai.

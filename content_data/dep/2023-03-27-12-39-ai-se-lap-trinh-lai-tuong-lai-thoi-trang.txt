@@ -1,0 +1,21 @@
+Trong vài tháng qua, AI được nhắc đến nhiều khi người ta phát hiện ra khả năng vô hạn của công nghệ này. Từ ảnh chân dung đồ họa đến ChatGPT, nhiều ứng dụng có sự tham gia của trí tuệ nhân tạo đang dần chiếm lĩnh thị trường. Trong lĩnh vực thời trang, việc khám phá rộng hơn về lĩnh vực này gần đây đã bắt đầu phát triển với tốc độ cấp số nhân. Theo McKinsey, thị trường toàn cầu của AI trong lĩnh vực thời trang được báo cáo ở mức 270 triệu USD vào năm 2018 và dự kiến sẽ tăng lên 4,4 tỷ USD vào năm 2027.
+
+Theo FashionUnited, từ thiết kế trang phục, bắt kịp xu hướng hay bảo mật bản quyền, AI đang sẵn sàng để lập trình lại ngành công nghiệp thời trang. Thậm chí, nhiều nghiên cứu cho thấy AI sẽ nhanh chóng thay thế 30% khối lượng công việc được thực hiện bởi nhân sự ngành thời trang trong tương lai.
+
+Chẳng hạn, các công nghệ có sự can thiệp của AI như thực tế tăng cường (AR) và thực tế ảo (VR) hiện đang giúp thu hẹp khoảng cách giữa trải nghiệm mua sắm trực tuyến và mua sắm tại cửa hàng. Với công nghệ VR, thương hiệu thời trang Tommy Hilfiger hiện có thể cho khách hàng thấy hình ảnh ảo của cửa hàng bán lẻ pop-up của mình.
+
+Bên cạnh đó, một trong những ứng dụng khác của AI và máy học trong ngành thời trang là việc triển khai các chatbot để giúp các thương hiệu thời trang có thể dễ dàng thu thập thông tin về mong muốn của khách hàng và dự định mua hàng của họ. Ví dụ: nếu bạn đang có ý định tìm kiếm một đôi giày hoặc chiếc váy mới thì chỉ cần tương tác với một đại lý thông minh trên website hoặc một ứng dụng trên thiết bị di động để nhận được sự tư vấn kịp thời từ phía thương hiệu. Hiện nay, một số nhà bán lẻ thời trang nổi tiếng đã và đang sử dụng chatbot như Burberry, Tommy Hilfiger và Levi’s.
+
+Trên khía cạnh thiết kế, kiểu dáng, hoa văn cùng sự phối hợp màu sắc phù hợp là điểm mấu chốt để thiết kế một bộ trang phục thu hút khách hàng. Các thuật toán của AI còn có thể phát hiện các xu hướng mới theo nhu cầu, phù hợp với giới tính và mọi lứa tuổi. Sau khi phân tích tập dữ liệu về quần áo của nhà thiết kế, AI sử dụng dữ liệu đó để xem sản phẩm nào bán chạy và không bán chạy trên thị trường, đồng thời tạo hoặc đề xuất để các nhà thiết kế tung ra mẫu sản phẩm hoàn toàn mới trên thị trường, bắt kịp thị hiếu khách hàng.
+
+Mới đây nhất, một trong những màn hợp tác giả tưởng gây thuyết phục nhất xuất hiện trên internet là sự kết hợp giữa Simone Rocha x Nike AI được tạo bởi trang @ai_clothingdaily. Dự án này trở nên nổi tiếng không chỉ vì đây là mối quan hệ hợp tác có khả năng xảy ra trong đời thực, mà còn vì những đôi giày được tạo ra thực sự ấn tượng. Bài đăng có hàng trăm người chia sẻ hình ảnh và những người không đọc kỹ chú thích thậm chí còn hỏi họ có thể mua đôi giày này ở đâu.
+
+Với tất cả những ưu điểm được xem xét, có vẻ như công nghệ AI có thể được giới thời trang bật đèn xanh ngay lập tức. Tuy nhiên, khi nhìn tổng quan hơn, không thể tránh khỏi những lo ngại đi kèm với nó. Cuộc tranh luận chống lại AI trong thời trang cũng đáng quan tâm, vì nó đặt ra các câu hỏi về bản quyền, tính nguyên bản và tính xác thực. Chính vì vậy, các nhà bán lẻ thời trang đã áp dụng một tư duy mới: xem các hệ thống AI là đối tác sáng tạo thay vì các nhà thiết kế độc lập.
+
+Chẳng hạn như trang dữ liệu Heuritech hiện đang cung cấp một nền tảng AI phân tích hàng triệu hình ảnh để phát hiện màu sắc, đường cắt, hình dạng… nhằm dự đoán một thiết kế có thể trở nên hợp thời như thế nào trước một năm. Trong khi các thương hiệu như Dior sử dụng Heuritech để xác nhận trực giác của họ về xu hướng sắp tới, thì các nhà sản xuất như Wolverine Worldwide sử dụng nó để đánh giá xem nhu cầu của người tiêu dùng có tăng đối với các sản phẩm cụ thể hay không. “Với công nghệ máy học, sẽ có nhiều dự đoán về doanh số hoặc doanh thu để nhóm thiết kế có động lực sáng tạo hơn”, Brad Lacey, Giám đốc thiết kế toàn cầu tại Hãng New Balance cho biết.
+
+Trong khi đó, châu Á cũng đã có những bước đi đầu tiên...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 13-2023 phát hành ngày 27-03-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

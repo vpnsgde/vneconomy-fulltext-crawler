@@ -1,0 +1,37 @@
+Ngân hàng trí tuệ (Intellectual Bank) là mô hình ngân hàng ứng dụng trí tuệ nhân tạo (AI) và các công nghệ thông minh như big data, RPA, chatbot... để vận hành hiệu quả hơn, quản lý rủi ro tốt hơn và tạo ra trải nghiệm cá nhân hóa cho khách hàng.
+
+Trong kỷ nguyên số hóa sâu rộng, khi mọi dịch vụ đều có thể diễn ra chỉ bằng một cú chạm, người dùng không chỉ tìm kiếm một ngân hàng “nhanh hơn” mà cần một ngân hàng hiểu họ hơn. Hiểu điều đó, vì vậy, hành trình ngân hàng số của TPBank không chỉ là cung cấp nhiều tính năng, mà phải trở thành một ngân hàng trí tuệ với hệ sinh thái tài chính được AI tiếp sức, gắn với từng khoảnh khắc sống, từng thói quen nhỏ và từng nhu cầu riêng biệt của khách hàng.
+
+Tư duy công nghệ khác biệt, ngân hàng trí tuệ TPBank không đợi người dùng phát sinh nhu cầu mới đáp ứng, mà luôn đi trước một bước từ những nhu cầu tiềm ẩn, thậm chí là luôn đi trước thời đại tới 6, 7 năm, trước khi các tính năng công nghệ trở thành trào lưu. Những sản phẩm như LiveBank 24/7, hay mới hơn là tính năng Paste to Pay trên App TPBank là minh chứng điển hình khi được TPBank triển khai từ rất sớm, vận hành ổn định, và trở thành biểu tượng trong lĩnh vực tài chính số. Nhưng mãi đến gần đây, mới bắt đầu xuất hiện một vài ngân hàng khác cung cấp các công nghệ tương tự.
+
+Với sự kết hợp tinh tế giữa kỹ thuật hiện đại và trực giác nhân văn, TPBank không ngừng phát triển những sản phẩm mang dấu ấn của một ngân hàng trí tuệ - nơi công nghệ không chỉ thông minh mà còn dễ sử dụng, gần gũi, cá nhân hóa sâu sắc và kết nối cảm xúc với người dùng như một người bạn đồng hành hiểu bạn từ suy nghĩ đến hành động.
+
+Không còn xa lạ với người dùng ngân hàng số, ChatPay của TPBank là một trong những tính năng đi đầu trong việc cá nhân hóa trải nghiệm tài chính bằng công nghệ. Được phát triển từ chính thói quen phổ biến - trò chuyện qua các ứng dụng nhắn tin, ChatPay cho phép người dùng thực hiện giao dịch chuyển tiền giống như trong một cuộc hội thoại.
+
+Giao dịch diễn ra tự nhiên như một phần của cuộc trò chuyện, nơi người dùng chỉ cần nhập số tiền, nội dung chuyển khoản, bấm gửi là hoàn tất chuyển khoản, không cần nhập lại liên tục thông tin, không rời khỏi mạch tương tác. Hệ thống tự động ghi nhận người nhận, gợi ý nội dung và thậm chí cho phép người dùng đặt tên gợi nhớ cho từng người để giao dịch lần sau trở nên nhanh chóng hơn nữa.
+
+Giống như trong một cuộc trò chuyện, nơi bạn luôn nhìn thấy toàn bộ lịch sử hội thoại trước đó, ChatPay cũng hiển thị đầy đủ các giao dịch đã thực hiện với từng liên hệ. Mỗi lần chuyển tiền, bạn có thể dễ dàng xem lại lịch sử giao dịch với người nhận, thậm chí tổng hợp số lần và số tiền đã chuyển - tất cả được trình bày một cách trực quan, sinh động và gần gũi như đang trò chuyện trong ứng dụng nhắn tin quen thuộc.
+
+Nhờ vậy, trải nghiệm tài chính trở nên cá nhân hóa hơn bao giờ hết, khi mỗi tương tác chuyển tiền đều mang tính liên kết, được theo dõi và ghi nhớ riêng biệt theo từng người như trong danh bạ của bạn.
+
+Đằng sau sự tiện lợi đó là một hệ thống tích hợp giữa AI gợi ý người nhận, phân tích ngữ cảnh và giao diện tối ưu hóa theo hành vi người dùng trẻ. ChatPay không chỉ thông minh, mà còn mang tính “thấu hiểu” sâu sắc: Ứng dụng hiểu rằng khách hàng muốn đơn giản hóa tài chính, không gián đoạn trải nghiệm sống số, đặc biệt trong những khoảnh khắc đời thường như chia tiền cà phê, chuyển khoản ăn trưa, hay chúc mừng trong những dịp đặc biệt…
+
+Với Paste to Pay, TPBank còn biến cả quá trình chuyển tiền từ tin nhắn thành một bước duy nhất: Copy và Paste. Trước đây, khi nhận tin nhắn như “Chuyển giúp chị 2,35 triệu vào BankX 0049xxxxxx, nội dung: Linh cọc hàng tháng 6”, Việt Anh phải ghi nhớ thông tin, chuyển qua lại giữa ứng dụng chat và ứng dụng ngân hàng, rồi nhập thủ công từng mục – thao tác dễ sai, mất thời gian, nhất là khi nội dung không rõ ràng. Giờ đây, chỉ cần sao chép đoạn tin nhắn và dán vào ChatPay trên App TPBank, hệ thống sẽ tự động phân tích và điền đầy đủ thông tin giao dịch. Không sai số, không nhập tay, hoàn tất chỉ trong vài giây.
+
+Công nghệ đứng sau Paste to Pay là sự kết hợp giữa OCR (nhận diện ký tự quang học), AI ngôn ngữ, và thuật toán học máy được đào tạo từ hàng triệu giao dịch thực tế. Nhưng điều quan trọng hơn cả là sự tinh tế trong cách nghĩ sản phẩm: Không phô trương, không “làm mới” chỉ để gây ấn tượng mà làm thật sát với hành vi người dùng.
+
+Paste to Pay không phải là một cuộc cách mạng công nghệ, nhưng lại là một bước tiến quan trọng vì nó mang đến sự thoải mái cho khách hàng - đúng như triết lý TPBank từng nhấn mạnh: “Ngân hàng hiện diện đúng lúc, đúng ngữ cảnh, theo cách tự nhiên nhất”.
+
+ChatPay hay Paste to Pay chỉ là những “lát cắt” trong một bức tranh rộng lớn hơn mà ngân hàng trí tuệ TPBank đang xây dựng: Một hệ sinh thái ngân hàng số liền mạch, cá nhân hóa, và hiện diện đa nền tảng. Với hơn 98% giao dịch hiện được thực hiện qua kênh số, TPBank đã và đang đầu tư mạnh vào các công nghệ lõi như AI, RPA, Big Data và Cloud, đồng thời mở rộng khả năng kết nối thông qua nền tảng Open API, cho phép tích hợp dịch vụ tài chính vào nhiều hệ thống bên ngoài như thương mại điện tử, bảo hiểm, giáo dục, y tế...
+
+Hệ thống TPBank LiveBank 24/7 - ngân hàng tự động hỗ trợ đầy đủ giao dịch ngoài giờ hành chính, tạo nên sự linh hoạt chưa từng có trong trải nghiệm khách hàng.
+
+Chiến lược “mở rộng không gian ngân hàng” của TPBank còn thể hiện qua sự hiện diện trên các nền tảng quen thuộc như Zalo mini-app, ví điện tử, cổng thanh toán điện tử... Nhờ đó, ngân hàng không còn là một điểm đến mà xuất hiện ở mọi điểm chạm, có mặt ở nơi khách hàng đang sống và tương tác mỗi ngày.
+
+Tất cả nỗ lực này đều nhằm hiện thực hóa tinh thần mang tới “Tiện ích đỉnh - Sống đỉnh”, khi công nghệ không chỉ phục vụ giao dịch, mà còn giúp khách hàng tận hưởng cuộc sống theo cách của riêng mình: Thuận tiện hơn, chủ động hơn và đậm chất cá nhân hơn trong từng tương tác với ngân hàng.
+
+“Chúng tôi không phát triển công nghệ để ‘chạy đua’, mà để hòa vào cuộc sống của khách hàng một cách tự nhiên nhất. Mỗi tiện ích mà TPBank đưa ra đều bắt nguồn từ việc lắng nghe và thấu hiểu, không chỉ để đáp ứng nhu cầu, mà để đi trước một bước, mang đến trải nghiệm tài chính đúng lúc, đúng ngữ cảnh và đúng theo cách sống của mỗi người. Chính vì vậy, TPBank hướng đến xây dựng một ‘ngân hàng trí tuệ - nơi trí tuệ nhân tạo (AI) và các công nghệ thông minh được ứng dụng sâu rộng vào hoạt động ngân hàng, nhằm nâng cao hiệu quả, giảm thiểu rủi ro và mang lại trải nghiệm tốt hơn cho khách hàng”, ông Nguyễn Hưng, Tổng giám đốc TPBank chia sẻ.
+
+Không phải ngẫu nhiên mà TPBank được xem là một trong những ngân hàng số tiên phong và linh hoạt nhất trên thị trường. Điều tạo nên sự khác biệt không chỉ nằm ở tốc độ ứng dụng công nghệ, mà ở cách TPBank đặt con người làm trung tâm trong mọi quyết định phát triển. Các tiện ích không đơn thuần được tạo ra để “chạy đua” công nghệ, mà để thực sự gắn vào nhịp sống của khách hàng theo cách nhẹ nhàng, tự nhiên và cá nhân hóa đến từng nhu cầu.
+
+Đó là cách ngân hàng trí tuệ này định hình lại mối quan hệ giữa người dùng và ngân hàng: Không xa cách, không kỹ thuật hóa quá mức mà gần gũi, thông minh và dễ hòa nhập vào cuộc sống số. Ở đó, ngân hàng không còn là điểm đến cần ghi nhớ, mà là một người bạn tài chính đồng hành giúp mỗi khách hàng sống trọn với một hệ tài chính số đỉnh cao, theo cách của riêng họ.

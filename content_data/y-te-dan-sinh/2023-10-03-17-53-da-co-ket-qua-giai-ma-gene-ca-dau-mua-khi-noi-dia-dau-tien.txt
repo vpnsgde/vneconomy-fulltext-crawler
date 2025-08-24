@@ -1,0 +1,23 @@
+Ngày 3/10, Sở Y tế TP.HCM cho biết, đơn vị này đã nhận được kết quả giải mã gene của trường hợp mắc bệnh đậu mùa khỉ nội địa đầu tiên được phát hiện tại TP.HCM.
+
+Kết quả giải mã này do Đơn vị nghiên cứu các bệnh nhiễm trùng mới nổi của Bệnh viện Bệnh Nhiệt đới TP.HCM và Đơn vị nghiên cứu Lâm sàng Đại học Oxford thực hiện.
+
+Đây là kết quả giải mã gene của bệnh nhân nam, 25 tuổi, tỉnh Đồng Nai, nhập Bệnh viện Bệnh Nhiệt đới vào ngày 22/9/2023, bệnh phẩm là phết bóng nước được lấy mẫu vào ngày 28/9/2023.
+
+Nhóm nghiên cứu đã giãi mã bộ gene bằng quy trình metagenomics, định danh bằng phần mềm Nextclade và phân tích cây phát sinh loài bằng phần mềm Augur (v21.0.1).
+
+Kết quả cho thấy tác nhân gây bệnh là virus monkeypox thuộc kiểu gene C1 của Clade IIb. Như vậy, kiểu gen này giống với các chủng virus monkeypox mới được phát hiện gần đây tại các quốc gia như Nhật Bản, Bồ Đào Nha và Hàn Quốc.
+
+Theo Sở Y tế TP. HCM, với kết quả giải mã gene này, có thể kết luận đây là chủng virus monkeypox khác với chủng virus với kiểu gene A.2.1 được phát hiện ở 2 ca nhập cảnh vào Việt Nam vào tháng 10/2022 từ Dubai trước đây.
+
+Kết quả giải mã gene cho thấy sự đa dạng về di truyền của virus monkeypox. Việc tiến hành phân tích thêm bộ gene các ca bệnh mới sẽ giúp tìm hiểu về nguồn gốc, sự lưu hành của virus gây bệnh, giúp cung cấp những thông tin bổ ích và kịp thời cho chương trình phòng chống dịch bệnh đậu mùa khỉ.
+
+Theo Bộ Y tế, bệnh đậu mùa khỉ thường lây từ người sang người qua tiếp xúc gần, bao gồm qua tiếp xúc mặt với mặt, cọ sát da với da, miệng với miệng hoặc miệng với da, gồm cả quan hệ tình dục.
+
+Thời gian ủ bệnh thường từ 6-13 ngày, nhưng có thể dao động từ 5-21 ngày. Biểu hiện triệu chứng có thể khác nhau tùy thuộc vào từng giai đoạn bệnh, nhưng tương tự như bệnh đậu mùa, các triệu chứng thường thấy là: sốt, đau đầu, đau cơ, đau lưng, sưng hạch bạch huyết, ớn lạnh, mệt mỏi, phát ban có thể nhìn giống như mụn nước xuất hiện trên mặt, bên trong miệng hoặc ở các bộ phận khác của cơ thể như bàn tay, bàn chân, ngực…
+
+Trong hầu hết các trường hợp, triệu chứng của bệnh đậu mùa khỉ tự mất đi trong vòng vài tuần. Tuy nhiên, ở một số người, khi nhiễm bệnh có thể dẫn tới các biến chứng hoặc thậm chí tử vong.
+
+Trẻ sơ sinh, trẻ nhỏ và người bị suy giảm miễn dịch có thể có nguy cơ mắc triệu chứng nghiêm trọng hơn và tử vong do bệnh đậu mùa khỉ. Phòng nhiễm bệnh đậu mùa khỉ bằng cách hạn chế tiếp xúc gần với người nghi nhiễm hoặc đã mắc bệnh, hoặc với động vật có thể bị nhiễm bệnh, thực hành tình dục an toàn. Thường xuyên làm sạch và khử trùng môi trường có thể bị nhiễm virus từ người mắc bệnh.
+
+Tại Việt Nam, Bộ Y tế đã bổ sung bệnh đậu mùa khỉ vào danh mục bệnh truyền nhiễm nhóm B - gồm các bệnh truyền nhiễm nguy hiểm có khả năng lây truyền nhanh và có thể gây tử vong. Vì vậy, các hoạt động phòng, chống bệnh đậu mùa khỉ được thực hiện theo quy định của Luật Phòng, chống bệnh truyền nhiễm đối với bệnh truyền nhiễm thuộc nhóm B.

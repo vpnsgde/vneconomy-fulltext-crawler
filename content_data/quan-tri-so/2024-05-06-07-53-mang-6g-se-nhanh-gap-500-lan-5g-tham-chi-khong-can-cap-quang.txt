@@ -1,0 +1,17 @@
+Theo Live Science, thiết bị không dây 6G mới của các nhà phát triển Nhật Bản có thể truyền dữ liệu ở tốc độ 100 Gbps trong nhà trên băng tần 100 gigahertz (GHz) và ngoài trời ở băng tần 300 GHz – nằm dưới mức hồng ngoại trong vùng điện từ.
+
+Các cuộc thử nghiệm đã được tiến hành trên độ cao 328 feet (100 mét), đại diện tập đoàn cho biết. Theo Statista, tốc độ truyền của 6G nhanh hơn tới 500 lần so với tốc độ 5G trên điện thoại thông thường ở Hoa Kỳ.
+
+Để hình dung tốc độ 100 Gbps, tham chiếu đơn giản là tải một bộ phim HD dài hai giờ xuống thiết bị chỉ tốn chưa đầy hai giây. Trong khi đó, kết nối 5G được cung cấp từ các nhà khai thác lớn với tốc độ trung bình khoảng 220 Gb/giây, cho phép tải xuống cùng một bộ phim trong gần hai phút.
+
+Với tốc độ cao và độ trễ thấp, 6G được kỳ vọng sẽ tạo ra làn sóng ứng dụng mới dựa trên kết nối liền mạch và xử lý dữ liệu theo thời gian thực, góp phần phát triển nhiều lĩnh vực như Internet vạn vật (IoT), thành phố thông minh và thậm chí cả những trải nghiệm thực tế ảo và thực tế tăng cường tiên tiến hơn.
+
+Được triển khai rộng rãi từ năm 2019, 5G hiện là công nghệ di động không dây tiên tiến nhất hiện nay, được sử dụng trong hầu hết tất cả các điện thoại thông minh mới. Hiện nay, các nhà khoa học đang tiếp tục nỗ lực xây dựng thế hệ thứ sáu của mạng này, với mục tiêu hoàn thiện cơ sở hạ tầng trước khi triển khai vào đầu năm 2030, theo Hiệp hội GSM (Hệ thống toàn cầu cho thiết bị di động). Tin tốt là và giá thành của các thành phần 6G sẽ giảm dần khi công nghệ phát triển.
+
+Theo 6GWorld, tín hiệu 5G thường được truyền ở các băng tần dưới 6 GHz và được mở rộng thành các băng tần khoảng 40 GHz – được gọi là “dải sóng milimet”. 6G dự kiến sẽ sử dụng các dải tần số cao hơn, được gọi là băng tần "sub-THz", nằm trong khoảng từ 100 GHz đến 300 GHz, theo Nokia. Tuy nhiên, mặc dù tận dụng lợi thế về tốc độ nhanh hơn nhưng nhược điểm của 6G là gây nhiễu nhiều hơn cho môi trường, khiến tín hiệu có nhiều khả năng bị chặn hơn, đặc biệt là trong nhà.
+
+Trong khi bước nhảy từ 4G lên 5G đã mở đường cho lượng tiêu thụ phương tiện lớn hơn nhiều, thì bước nhảy từ 5G lên 6G có thể dẫn đến các công nghệ mới như giao tiếp ba chiều và trải nghiệm thực tế ảo (VR) mượt mà hơn cũng như thực tế hỗn hợp.
+
+Tuy nhiên, do 6G dựa trên các dải tần số cao hơn nhiều nên cũng cần cơ sở hạ tầng hoàn toàn mới để truyền và khuếch đại tín hiệu. 6G có thể mở ra những giới hạn mới cho các công nghệ như xe tự lái, vốn cần kết nối dữ liệu theo thời gian thực, gần như liên tục để vận hành an toàn.
+
+Một cuộc cách mạng cũng được mong đợi trong lĩnh vực y tế từ xa, trải nghiệm thực tế mở rộng dựa trên đám mây và giám sát cơ sở hạ tầng thành phố thông minh cũng đang chuẩn bị diễn ra nhờ sức mạnh của công nghệ không dây 6G.

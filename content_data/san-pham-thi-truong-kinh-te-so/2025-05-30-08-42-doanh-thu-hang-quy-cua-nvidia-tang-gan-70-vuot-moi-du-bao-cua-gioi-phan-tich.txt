@@ -1,0 +1,29 @@
+Trong báo cáo công bố ngày 29/5, hãng sản xuất chip đồ họa hàng đầu thế giới cho biết đã đạt doanh thu 44,1 tỷ USD trong quý vừa qua, tăng 69% so với cùng kỳ năm ngoái và cao hơn mức dự báo 43,3 tỷ USD của Phố Wall.
+
+Nvidia dự kiến doanh thu quý tới sẽ đạt khoảng 45 tỷ USD, dao động trong khoảng cộng trừ 2%, thấp hơn một chút so với kỳ vọng 45,5 tỷ USD của giới phân tích. Ngay sau báo cáo, cổ phiếu Nvidia đã tăng 6% trong phiên giao dịch.
+
+Nvidia tăng trưởng ấn tượng giữa muôn vàn khó khăn. Các biện pháp hạn chế xuất khẩu của Mỹ, đặc biệt là lệnh cấm mới áp dụng từ tháng 4, đã ảnh hưởng nặng nề đến hoạt động kinh doanh của họ tại Trung Quốc.
+
+Nvidia cho biết đã phải gánh khoản chi phí 4,5 tỷ USD do không thể bán dòng chip AI thiết kế riêng cho thị trường này, đồng thời mất thêm khoảng 2,5 tỷ USD doanh thu tiềm năng. Tổng cộng, doanh thu tại Trung Quốc trong quý tới có thể sụt giảm tới 8 tỷ USD.
+
+Trong cuộc họp với các nhà phân tích, Tổng giám đốc Jensen Huang từng lên tiếng chỉ trích chính sách kiểm soát xuất khẩu, cho rằng việc ngăn chặn sự cạnh tranh của các công ty Trung Quốc sẽ chỉ khiến họ phát triển mạnh hơn ở thị trường quốc tế. Ông nhấn mạnh: “Việc cho rằng Trung Quốc không thể tự sản xuất chip AI là một nhận định sai lầm. Cuộc đua AI sẽ thuộc về bên nào xây dựng được hệ sinh thái tốt cho các nhà phát triển”.
+
+Nvidia đang cân nhắc có nên tung ra phiên bản điều chỉnh của dòng chip Blackwell dành riêng cho Trung Quốc hay không, trong bối cảnh thị trường này vẫn rất tiềm năng nhưng đầy rủi ro chính trị.
+
+Song song với việc ứng phó với khó khăn ở Trung Quốc, Nvidia cũng cam kết đẩy mạnh sản xuất tại Mỹ. Công ty dự kiến chi tới 500 tỷ USD cho các hoạt động sản xuất trong nước trong vòng 4 năm tới. Ông Huang cũng bày tỏ sự ủng hộ với chính sách công nghiệp “đưa công nghệ cao trở lại Mỹ” của cựu Tổng thống Donald Trump, gọi đó là một tầm nhìn “tin tưởng”.
+
+Bất chấp các cú sốc địa chính trị, Nvidia vẫn đạt lợi nhuận ròng 18,8 tỷ USD trong quý – tăng 26%, dù thấp hơn một chút so với kỳ vọng 19,5 tỷ USD.
+
+Tỷ suất lợi nhuận gộp điều chỉnh đạt 71,3%, phù hợp với dự báo và kỳ vọng của thị trường. Trong quý tới, tỷ suất này có thể tăng nhẹ lên 72%, cao hơn so với mức trung bình dự báo là 71,7%.
+
+Ngoài ra, nhờ việc tái sử dụng một số nguyên vật liệu, công ty cho biết đã giảm được khoảng 1 tỷ USD thiệt hại so với ước tính ban đầu liên quan đến các lệnh cấm xuất khẩu.
+
+Đầu năm nay, lợi nhuận của Nvidia có dấu hiệu sụt giảm khi công ty bắt đầu chuyển sang sử dụng dòng chip Blackwell – thế hệ chip mới, phức tạp hơn và có chi phí sản xuất cao hơn, được ra mắt vào năm ngoái. Trong quá trình triển khai, Nvidia và các đối tác cũng gặp một số vấn đề kỹ thuật với hệ thống máy chủ Blackwell, khiến việc đưa sản phẩm ra thị trường có nguy cơ bị chậm trễ. Tuy nhiên, các sự cố này hiện đã được khắc phục.
+
+Trước khi báo cáo kết quả tài chính được công bố, nhiều chuyên gia dự đoán rằng các lệnh cấm xuất khẩu mới của Mỹ đối với Trung Quốc sẽ tiếp tục gây áp lực lên lợi nhuận của Nvidia trong quý này.
+
+Bà Colette Kress, Giám đốc Tài chính của Nvidia, cho biết công ty đã vượt được mức kỳ vọng đề ra trước đó, dù đang phải hoạt động trong một bối cảnh đầy khó khăn. Bà cũng cho biết các biện pháp kiểm soát mới đối với dòng chip H20 đã không cho phép công ty có thời gian để tiêu thụ hết số hàng tồn kho, gây thêm áp lực tài chính trong ngắn hạn.
+
+Để giảm bớt sự phụ thuộc vào các khách hàng công nghệ lớn như Microsoft, Amazon và Meta, CEO Jensen Huang đã mở rộng chiến lược kinh doanh ra các thị trường mới. Trong tháng này, ông đã có chuyến công du đến Ả Rập Xê Út, UAE và Đài Loan, công bố các khoản đầu tư hạ tầng lớn cùng các đối tác được gọi là “khách hàng AI có chủ quyền” – tức các quốc gia đang muốn tự chủ trong việc phát triển công nghệ AI.
+
+Ông Huang cũng cho biết sẽ tiếp tục đến châu Âu trong tuần tới, dự kiến qua Pháp, Anh, Đức và Bỉ để bàn thêm các thỏa thuận hợp tác chiến lược.

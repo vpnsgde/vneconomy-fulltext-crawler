@@ -1,0 +1,59 @@
+Mặc dù Thủ tướng Chính phủ đã có nhiều văn bản chỉ đạo các bộ, ngành, địa phương về tăng cường bảo đảm an toàn thông tin mạng. Tuy nhiên, một số ngành, lĩnh vực chưa quán triệt, ưu tiên nguồn lực triển khai, để xảy ra sự cố gây mất an toàn thông tin mạng và tiềm ẩn nguy cơ ảnh hưởng đến an toàn không gian mạng Việt Nam.
+
+Ngoài ra, nhiều hệ thống thông tin do tổ chức, doanh nghiệp triển khai cung cấp dịch vụ trực tuyến phục vụ người dân, doanh nghiệp có phạm vi, ảnh hưởng sâu rộng tới xã hội. Vì vậy, hệ thống thông tin của cơ quan nhà nước và các tổ chức, doanh nghiệp cần phải được quan tâm, triển khai bảo đảm an toàn thông tin mạng ở mức độ cao nhất.
+
+Trước tình hình hoạt động tấn công mạng, đặc biệt là mã độc tống tiền (ransomware) tăng mạnh thời gian gần đây và có thể tiếp tục diễn biến phức tạp trong giai đoạn tới, nguy cơ ảnh hưởng nghiêm trọng đến hoạt động phát triển kinh tế - xã hội, đồng thời để khắc phục những tồn tại, hạn chế, tăng cường kỷ luật, kỷ cương trong công tác bảo đảm an toàn thông tin mạng, Thủ tướng Chính phủ yêu cầu triển khai 06 nhiệm vụ cấp thiết sau:
+
+Một là, Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương, các tổ chức, cơ quan, doanh nghiệp: Tiếp tục thực hiện quyết liệt, có hiệu quả chỉ đạo của Thủ tướng Chính phủ, tập trung vào các nội dung trọng tâm.
+
+Cụ thể, trực tiếp chỉ đạo và phụ trách công tác bảo đảm an toàn thông tin mạng; chịu trách nhiệm trước pháp luật và Thủ tướng Chính phủ nếu để hệ thống thông tin thuộc phạm vi quản lý không bảo đảm an toàn thông tin mạng, để xảy ra sự cố nghiêm trọng; Chỉ đạo tổng rà soát, đánh giá tình hình bảo đảm an toàn thông tin mạng đối với các hệ thống thông tin thuộc phạm vi quản lý theo hướng dẫn của Bộ Thông tin và Truyền thông; gửi kết quả về Bộ Thông tin và Truyền thông trước ngày 30/4/2024.
+
+Đồng thời, thực hiện nghiêm thời hạn hoàn thành phê duyệt hồ sơ đề xuất cấp độ an toàn cho 100% hệ thống thông tin thuộc phạm vi quản lý, thực hiện và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt như chỉ đạo của Thủ tướng Chính phủ tại Chỉ thị số 09/CT-TTg ngày 23/2/2024; Sử dụng thường xuyên các nền tảng hỗ trợ bảo đảm an toàn thông tin do Bộ Thông tin và Truyền thông cung cấp để nâng cao hiệu quả hoạt động quản lý và thực thi pháp luật về an toàn thông tin mạng.
+
+Bên cạnh đó, bố trí hạng mục về an toàn thông tin khi xây dựng, triển khai kế hoạch ứng dụng công nghệ thông tin hàng năm, giai đoạn 5 năm và các dự án công nghệ thông tin; bảo đảm tỷ lệ kinh phí chi cho các sản phẩm, dịch vụ an toàn thông tin mạng đạt tối thiểu 10% tổng kinh phí triển khai các kế hoạch, dự án này theo chỉ đạo của Thủ tướng Chính phủ tại Chỉ thị số 14/CT-TTg ngày 7/6/2019.
+
+Trường hợp xảy ra sự cố tấn công mạng, tuân thủ nghiêm túc theo quy định và chỉ đạo tại Quyết định số 05/2017/QĐ-TTg ngày 16/3/2017, Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ, Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ Thông tin và Truyền thông, lưu ý một số nội dung trọng tâm sau:
+
+Kịp thời báo cáo sự cố về cơ quan chủ quản, đơn vị chuyên trách ứng cứu sự cố cùng cấp và Cơ quan điều phối quốc gia, các cơ quan, doanh nghiệp có chức năng quản lý an ninh mạng.
+
+Tuân thủ sự điều phối ứng cứu sự cố của Cơ quan điều phối quốc gia và các cơ quan chức năng có liên quan trong việc: thu thập, phân tích thông tin; xử lý, khắc phục sự cố; xác minh nguyên nhân và truy tìm nguồn gốc; phát ngôn và công bố thông tin…
+
+Ngoài ra, báo cáo đầy đủ thông tin về sự cố, thiệt hại và các thông tin liên quan về Cơ quan điều phối quốc gia, đồng thời tổng kết, phân tích, đánh giá, rút ra bài học và báo cáo về Cơ quan điều phối quốc gia để tổng hợp, phổ biến.
+
+Hằng quý, gửi Bộ Thông tin và Truyền thông báo cáo tình hình bảo đảm an toàn thông tin mạng đối với các hệ thống thông tin thuộc phạm vi quản lý trước ngày 20 của tháng cuối quý.
+
+Hai là,Bộ trưởng, Thủ trưởng các Bộ, Cơ quan: Giao thông vận tải, Công Thương, Tài Nguyên và Môi trường, Thông tin và Truyền thông, Y tế, Tài chính, Văn phòng Chính phủ, Ngân hàng Nhà nước, UBND TP. Hà Nội và UBND TP.HCM, bên cạnh thực hiện nghiêm chỉ đạo của Thủ tướng tại khoản Một Công điện này phải tập trung chỉ đạo thực hiện ngay những nhiệm vụ cụ thể sau:
+
+Chủ trì, phối hợp Bộ Thông tin và Truyền thông, Bộ Công an, Bộ Quốc phòng chỉ đạo các tổ chức, doanh nghiệp chủ quản hệ thống thông tin cung cấp dịch vụ trực tuyến phục vụ người dân, doanh nghiệp (gọi tắt là tổ chức, doanh nghiệp):
+
+Thực hiện rà soát, đánh giá và báo cáo tình hình bảo đảm an toàn thông tin theo hướng dẫn của Bộ Thông tin và Truyền thông và các bộ, ngành liên quan có chức năng quản lý an toàn, an ninh mạng.
+
+Hoàn thành phê duyệt hồ sơ đề xuất cấp độ an toàn cho 100% hệ thống thông tin trong tháng 9/2024 và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt trong tháng 12/2024 (đồng bộ với thời hạn đã nêu tại Chỉ thị số 09/CT-TTg).
+
+Định kỳ kiểm tra, đánh giá an toàn thông tin theo quy định (tối thiểu 01 lần/02 năm đối với hệ thống cấp độ 1, cấp độ 2; 01 lần/năm đối với hệ thống thông tin cấp độ 3, cấp độ 4; 01 lần/06 tháng đối với hệ thống thông tin cấp độ 5), săn lùng và loại bỏ các mối nguy hại trên hệ thống thông tin của tổ chức, doanh nghiệp.
+
+Trường hợp xảy ra sự cố tấn công mạng, thực hiện theo điểm b khoản Một Công điện này.
+
+Phối hợp Bộ Thông tin và Truyền thông, các bộ, ngành có chức năng quản lý an toàn, an ninh mạng hướng dẫn, thanh tra, kiểm tra công tác bảo đảm an toàn thông tin của các tổ chức, doanh nghiệp.
+
+Ba là,Bộ trưởng Bộ Thông tin và Truyền thông:
+
+Hướng dẫn các bộ, ngành, địa phương rà soát, đánh giá tình hình bảo đảm an toàn thông tin mạng cho hệ thống thông tin của cơ quan, tổ chức, doanh nghiệp nhà nước trước ngày 11 tháng 4 năm 2024; tổng hợp kết quả, báo cáo Thủ tướng Chính phủ trước ngày 30 tháng 4 năm 2024.
+
+Hướng dẫn các cơ quan chủ trì các lĩnh vực quan trọng cần ưu tiên bảo đảm an toàn thông tin mạng tổ chức rà soát, đánh giá và báo cáo tình hình bảo đảm an toàn thông tin của các tổ chức, doanh nghiệp trước ngày 20 tháng 4 năm 2024; tổng hợp kết quả, báo cáo Thủ tướng Chính phủ trước ngày 10 tháng 5 năm 2024.
+
+Chủ trì, phối hợp Bộ Công an, Bộ Quốc phòng và các cơ quan liên quan tổ chức thực hiện công tác giám sát, phát hiện, cảnh báo sớm và ứng cứu sự cố an toàn thông tin mạng. Tổng hợp kết quả phân tích, đánh giá, rút ra bài học từ hoạt động ứng cứu sự cố; công bố, cảnh báo trên các phương tiện thông tin đại chúng để phổ biến kinh nghiệm, giúp các tổ chức, cá nhân nhận biết, chủ động phòng ngừa, ứng phó sự cố tương tự và nâng cao nhận thức về an toàn thông tin mạng.
+
+Chủ trì, phối hợp các bộ, cơ quan liên quan tổ chức thanh tra, kiểm tra việc tuân thủ quy định của pháp luật về an toàn thông tin mạng tại các cơ quan, tổ chức nhà nước và các tổ chức, doanh nghiệp cung cấp dịch vụ trực tuyến phục vụ người dân, doanh nghiệp. Xử lý nghiêm các trường hợp vi phạm, để xảy ra sự cố mất an toàn thông tin mạng.
+
+Phát triển, vận hành, hướng dẫn các bộ, ngành, địa phương, tổ chức, doanh nghiệp sử dụng các nền tảng hỗ trợ bảo đảm an toàn thông tin để quản lý và thực thi pháp luật về an toàn thông tin mạng.
+
+Chỉ đạo các cơ quan truyền thông, báo chí, phối hợp với các bộ, ngành, địa phương tăng cường tổ chức tuyên truyền, phổ biến pháp luật an toàn thông tin mạng, nâng cao nhận thức về bảo đảm an toàn thông tin mạng.
+
+Hằng quý, báo cáo Thủ tướng Chính phủ về các nguy cơ, rủi ro mất an toàn thông tin đối với hệ thống thông tin của các bộ, ngành, địa phương và các tổ chức, doanh nghiệp.
+
+Bốn là,Bộ Công an, Bộ Quốc phòng tăng cường bảo đảm an toàn thông tin mạng theo chức năng, nhiệm vụ được giao và trong lĩnh vực thuộc phạm vi quản lý; chỉ đạo các tổ chức, doanh nghiệp chủ quản hệ thống thông tin cung cấp dịch vụ trực tuyến phục vụ người dân, doanh nghiệp thuộc phạm vi quản lý quy định tại Quyết định số 632/QĐ-TTg ngày 10/5/2017 triển khai các nhiệm vụ, giải pháp tương tự tại khoản 2 Công điện này; phối hợp Bộ Thông tin và Truyền thông tổ chức thanh tra, kiểm tra và xử lý hành vi vi phạm pháp luật về an toàn thông tin mạng.
+
+Năm là,các bộ, ngành, địa phương chủ động phối hợp Bộ Thông tin và Truyền thông, Bộ Công an, Bộ Quốc phòng chỉ đạo các tổ chức, doanh nghiệp cung cấp dịch vụ trực tuyến phục vụ người dân, doanh nghiệp thuộc phạm vi quản lý nhà nước tăng cường bảo đảm an toàn thông tin mạng, tuân thủ đầy đủ quy định pháp luật về an toàn thông tin mạng, đặc biệt là quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+Sáu là,giao Phó Thủ tướng Trần Lưu Quang chỉ đạo theo dõi lĩnh vực này; Văn phòng Chính phủ, Bộ Thông tin và Truyền thông theo chức năng nhiệm vụ được giao theo dõi, đôn đốc việc thực hiện Công điện này; tổng hợp, báo cáo Thủ tướng Chính phủ kết quả thực hiện.

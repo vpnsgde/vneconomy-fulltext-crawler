@@ -1,0 +1,15 @@
+Hồi đầu năm, tổng doanh thu của các dApp mỗi tháng lên đến hơn 1 tỷ USD, nhưng đến tháng 6 và tháng 7 chỉ còn dưới 250.000 USD/tháng. Con số này cho thấy nhu cầu sử dụng dịch vụ được cung cấp bởi các dApp giảm mạnh cũng như việc người dùng khó kiếm lợi nhuận trong thời gian downtrend hiện nay.
+
+Trong thị trường crypto, các dự án thường thiết kế mô hình tạo ra doanh thu ngay từ đầu để chứng minh tính khả thi của mình. Thông tin về tình hình doanh thu các dự án DeFi (tài chính phi tập trung) năm 2022 từ một số dự án điển hình, các chuyên gia cho biết, thị trường crypto đang ở giai đoạn có những dự án sở hữu doanh thu thực sự. Hai mảng sàn AMM DEX và NFT Marketplace đang tạo ra nhiều doanh thu nhất, trong khi Lending/Borrowing và Derivatives chỉ chiếm một phần nhỏ.
+
+Cụ thể, doanh thu nhóm AMM DEX (10 dApp) và NFT Marketplace (2 dApp) đứng đầu toàn thị trường, lần lượt chiếm khoảng 38% và 49% tổng doanh thu 8 tháng đầu năm 2022 của các nhóm. Doanh thu các nền tảng AMM DEX thường đến từ phí giao dịch do người dùng trả. Tương tự, doanh thu của các NFT marketplace đến từ phí giao dịch NFT của các nhà giao dịch.
+
+Tiêu biểu trong số đó, Uniswap là nền tảng DEX có có doanh thu nổi bật nhất trên Ethereum, luôn chiếm tỷ lệ trên 50% tổng doanh thu. Mặc dù từ đầu năm tới nay tổng doanh thu của các DEX trên Ethereum có xu hướng giảm, nhưng Uniswap vẫn áp đảo các nền tảng khác về doanh thu. Đặc biệt, tỷ lệ tăng đều từ 70% (tháng 5) tới 80% (tháng 7).
+
+Doanh thu theo tháng cao nhất của Uniswap là 134 triệu USD (tháng 1) và thấp nhất là 51 triệu USD (tháng 7), giảm thấp nhất 60%. Tương tự Uniswap, từ đầu năm tới nay, doanh thu Balancer giảm thấp nhất, khoảng 68%. Trong khi đó, doanh thu SushiSwap, Curve và 1inch giảm thấp nhất lần lượt là 87%, 93% và 89%.
+
+Trong khi đó, doanh thu mảng Lending/Borrowing (4 dApp) và Derivatives (3 dApp) chỉ chiếm khoảng 12% tổng doanh thu 8 tháng đầu năm 2022. Điều này cho thấy so với nhu cầu giao dịch NFT hoặc hoán đổi token cơ bản, nhu cầu vay hoặc Trade Margin (giao dịch ký quỹ) của các nhà đầu tư còn khá thấp.
+
+Aave đang là dự án hàng đầu mảng lending trên Ethereum. Doanh thu của Aave cao hơn và ổn định hơn các nền tảng khác (luôn chiếm hơn 50% tỷ lệ tổng doanh thu của bốn nền tảng trong hình). Cụ thể, tháng 7/2022, Aave thu về 9 triệu USD doanh thu (giảm 66% so với tháng 1), trong khi doanh thu của Compound và MakerDAO giảm hơn 85%.
+
+Hiện nay, phần lớn các dự án đều đang được các quỹ đầu tư rót vốn phát triển sản phẩm, thị trường, miễn phí để thu hút người dùng. Riêng ở thị trường Việt Nam hiện nay các dự án DeFi vẫn ở giai đoạn sơ khai, chưa tập trung phát triển doanh thu, tìm kiếm lợi nhuận. Một số nền tảng như Coin98 vẫn đang miễn phí cho người dùng.

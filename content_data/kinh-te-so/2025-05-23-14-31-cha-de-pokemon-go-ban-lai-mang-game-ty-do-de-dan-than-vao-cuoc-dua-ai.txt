@@ -1,0 +1,69 @@
+Bước vào trụ sở của Niantic trong tòa nhà Ferry cổ kính ở San Francisco (Mỹ), vẫn dễ dàng bắt gặp khung cảnh gợi nhắc quá khứ vàng son của nhà phát triển tựa game huyền thoại Pokemon Go: một chú Snorlax khổng lồ đang say giấc trên bậc thang, một con Magikarp như đang sẵn sàng bật khỏi mặt đất, còn chú Psyduck thì lơ ngơ nhìn về phía xa xăm.
+
+Forbes đưa tin hiện tại, toàn bộ mảng kinh doanh game của Niantic đã thuộc về Scopely, một hãng sản xuất game thuộc sở hữu của Ả Rập Xê Út. Thương vụ chuyển nhượng này có giá trị lên tới 3,5 tỷ USD.
+
+Niantic sau đó đã đổi tên thành Niantic Spatial, khởi đầu một hành trình mới: tập trung vào phát triển các mô hình AI phục vụ cho các doanh nghiệp.
+
+Đây không đơn thuần là cú rẽ chiến lược mà là cuộc "tự phân chia tế bào", theo cách gọi của nhà đồng sáng lập kiêm CEO John Hanke. “Không nhiều công ty thành công lại chọn tách ra theo cách này”, ông chia sẻ với Forbes. “Nhưng để mỗi mảng phát triển hết tiềm năng, tốt nhất là nên để chúng đi trên con đường riêng phù hợp”.
+
+Quyết định này được đưa ra khi mà Niantic vẫn đang thu về hàng trăm triệu USD doanh thu mỗi năm từ Pokémon GO.
+
+Hiện tại, Niantic đang dồn sức phát triển nền tảng Spatial, một sản phẩm mới ra mắt vào tháng 11. Đây là nền tảng cung cấp các công cụ lập bản đồ bằng trí tuệ nhân tạo (AI), giúp các doanh nghiệp vẽ đường đi cho robot hoặc hỗ trợ vận hành kính thực tế tăng cường (AR).
+
+Nếu các mô hình ngôn ngữ lớn (LLM) giúp AI hiểu và tạo ra văn bản, thì mô hình không gian địa lý lớn (LGM) của Niantic lại giúp AI “nhìn thấy” thế giới như con người – hiểu được không gian vật lý, biết cách di chuyển và tương tác trong đó.
+
+Đáng nói là khả năng tái dựng các địa điểm trong thế giới thực dưới dạng 3D của Niantic dựa trên kho dữ liệu vị trí khổng lồ được tích lũy từ 30 tỷ dặm người chơi đã di chuyển trong các trò chơi như Pokémon GO và Ingress.
+
+Việc chuyển hướng sang AI của Niantic là minh chứng rõ rệt cho sức ảnh hưởng ngày càng lớn của làn sóng trí tuệ nhân tạo tại Thung lũng Silicon, đặc biệt kể từ sau khi ChatGPT xuất hiện và làm khuynh đảo ngành công nghệ cách đây gần ba năm. Ngay cả một công ty từng nổi danh với game di động như Niantic cũng không đứng ngoài xu thế.
+
+Theo dự báo của Gartner, thị trường điện toán không gian, nơi các công nghệ AI, bản đồ số và AR giao thoa, sẽ tăng trưởng bùng nổ, từ mức 110 tỷ USD vào năm 2023 lên tới 1.700 tỷ USD vào năm 2033.
+
+Các “ông lớn” như Google hay TomTom đang chạy đua chiếm lĩnh lĩnh vực này, và Niantic với lợi thế dữ liệu bản đồ độc nhất từ hàng triệu người dùng, cũng đang đặt cược lớn vào tương lai.
+
+“Cơ hội lần này là quá lớn để có thể làm ngơ”, ông Tường Nguyễn, Giám đốc phân tích nhóm công nghệ mới nổi của Gartner, nhận định.
+
+Bước vào lĩnh vực AI không gian, Niantic không chỉ khởi đầu lại từ con số không, mà còn phải đối mặt với những đối thủ sừng sỏ đã đi trước một bước.
+
+Từ năm 2021, Nvidia, tập đoàn sản xuất chip hàng đầu thế giới với giá trị thị trường lên tới 3.000 tỷ USD, đã giới thiệu Omniverse, một nền tảng dành cho doanh nghiệp, cho phép tạo ra các “bản sao kỹ thuật số” 3D để mô phỏng hoạt động trong nhà máy và môi trường công nghiệp.
+
+Một cái tên đáng chú ý khác là Fei-Fei Li, nhà khoa học được mệnh danh là “Mẹ đỡ đầu của trí tuệ nhân tạo”. Năm ngoái, bà sáng lập World Labs, một startup chuyên phát triển AI có thể tạo ra thế giới ảo 3D, ứng dụng trong trò chơi điện tử hoặc các mô phỏng không gian như dành cho phi hành gia. Dù chưa tung ra sản phẩm nào, World Labs đã được định giá tới 1 tỷ USD, cho thấy tiềm năng lớn mà giới đầu tư nhìn thấy ở mảng này.
+
+Để có thêm nguồn lực cho giai đoạn bước ngoặt, Niantic đã gọi vốn 250 triệu USD từ các nhà đầu tư lâu năm như Coatue, Battery Ventures và CRV.
+
+Niantic cũng đã tiến hành cắt giảm hơn 65 nhân sự trong quá trình tái cấu trúc. Dù vậy, CEO John Hanke khẳng định sẽ không có thêm đợt sa thải lớn nào nữa. “Có thể sẽ có một vài người rời đi trong giai đoạn cuối của quá trình chuyển đổi, nhưng đó là điều đã được lường trước,” ông chia sẻ với Forbes.
+
+Ngay từ khi ra mắt vào năm 2016, Pokémon Go đã trở thành một hiện tượng toàn cầu. Trò chơi thực tế tăng cường yêu cầu người chơi đi bộ ngoài đời thật để bắt các sinh vật ảo đã tạo nên làn sóng cuồng nhiệt khắp thế giới, giúp Niantic thu về khoảng 8 tỷ USD doanh thu, theo ước tính của các nhà phân tích.
+
+Gần một thập kỷ sau, trò chơi này vẫn duy trì được sức hút. Niantic cho biết năm 2024, Pokémon Go đã chạm mốc 100 triệu người chơi, đóng góp lớn vào 1 tỷ USD doanh thu mà công ty đạt được trong năm đó. Ngoài Pokémon Go, danh mục sản phẩm của Niantic còn có Pikmin Bloom, trò chơi đếm bước chân hợp tác cùng Nintendo...
+
+Harry Potter: Wizards Unite, tựa game theo sau Pokémon Go, được kỳ vọng sẽ nối dài chuỗi thành công, nhưng ra mắt vào năm 2019 và chính thức bị khai tử chỉ sau ba năm, vào năm 2022. Cũng trong năm đó, Niantic buộc phải sa thải khoảng 90 nhân viên và hủy bỏ một loạt dự án đang phát triển, bao gồm cả trò chơi dựa trên thương hiệu Transformers.
+
+Năm 2023, Niantic tiếp tục trải qua đợt cắt giảm sâu hơn, khi đóng cửa cả studio ở Los Angeles và sa thải thêm 230 người, tương đương khoảng 1/4 lực lượng lao động thời điểm đó. Động thái này trùng khớp với làn sóng sa thải hàng loạt đang lan rộng trong ngành công nghệ hậu đại dịch. Kèm theo đó là việc hủy bỏ nhiều dự án hợp tác đình đám với các thương hiệu lớn như NBA và Marvel.
+
+Ngay cả với Pokémon Go, “con gà đẻ trứng vàng”, giờ đây ánh hào quang cũng không còn rực rỡ như xưa. Trên App Store của Apple, trò chơi vẫn nằm trong top 10 game nhập vai được ưa chuộng, nhưng đã rơi khỏi top 100 trò chơi miễn phí – một dấu hiệu cho thấy sự bão hòa đang dần xuất hiện.
+
+Mặc dù vậy, Giám đốc điều hành John Hanke khẳng định, quyết định bán mảng trò chơi không bắt nguồn từ việc kinh doanh sa sút hay doanh thu giảm sút. “Đây không phải là chuyện từ bỏ lĩnh vực trò chơi. Nếu nhìn vào các tựa game hiện tại mà chúng tôi đang vận hành, doanh thu vẫn rất ổn”, ông nhấn mạnh.
+
+Theo ban lãnh đạo Niantic, nguyên nhân thực sự khiến công ty tách ra khỏi mảng trò chơi là để tập trung nguồn lực cho định hướng mới. Trong nội bộ công ty, mảng game và mảng công nghệ, nơi xây dựng các nền tảng thực tế tăng cường và công cụ lập bản đồ, luôn phải cạnh tranh nhau về nhân lực, thời gian và ngân sách.
+
+John Hanke, CEO Niantic, cho biết hướng đi mới thực chất là trở về với cội nguồn của công ty. Ông là người tiên phong trong lĩnh vực bản đồ số khi đồng sáng lập Keyhole vào năm 2001, một công ty chuyên về hình ảnh vệ tinh mà Google mua lại năm 2004 với giá khoảng 35 triệu USD.
+
+Công nghệ này sau đó trở thành nền tảng cho Google Maps. Sau khi phụ trách mảng bản đồ toàn cầu tại Google, Hanke thành lập Niantic vào năm 2010 như một bộ phận nhỏ chuyên về game trong tập đoàn công nghệ này. Năm 2012, Niantic cho ra mắt Ingress, một trò chơi thực tế tăng cường mang màu sắc khoa học viễn tưởng. Đến năm 2015, Niantic tách ra hoạt động độc lập, dù Google vẫn là nhà đầu tư.
+
+Năm 2016, Niantic gây tiếng vang lớn với Pokemon Go, trò chơi đặt các nhân vật Pokemon ảo tại các địa điểm thực, khuyến khích người chơi ra ngoài khám phá thế giới. Chỉ sau 3 ngày ra mắt, trò chơi đã thu hút nhiều người dùng hơn cả Twitter thời điểm đó. Và chỉ trong vòng 2 tháng, Pokemon Go trở thành trò chơi di động được chơi nhiều nhất lịch sử tại Mỹ, với hơn 21 triệu người dùng mỗi ngày.
+
+Pokemon Go mặc dù là “con gà đẻ trứng vàng” của Niantic, nhưng thành công đó cũng kéo theo không ít gánh nặng. Để duy trì sức hút của trò chơi, Niantic phải đầu tư rất nhiều công sức và tiền bạc để liên tục phát triển các tính năng mới giữ chân người chơi quay trở lại. Trong khi đó, việc tạo ra thành công tiếp theo còn khó khăn gấp bội.
+
+John Hanke từng chia sẻ trong một bản ghi nhớ gửi nhân viên năm 2023: “Kể từ khi Pokemon Go ra mắt, thị trường game di động ngày càng chật chội, cùng với những thay đổi trong cửa hàng ứng dụng và môi trường quảng cáo khiến việc phát hành trò chơi mới với quy mô lớn trở nên rất thử thách”.
+
+Chính vì vậy, Niantic đã quyết định làm điều mà trước đây ít ai nghĩ tới: rút khỏi mảng kinh doanh game. Thay vào đó, Niantic sẽ tập trung phát triển và cung cấp những nền tảng công nghệ cho các doanh nghiệp, chẳng hạn như hệ thống định vị trực quan giúp kiểm tra chính xác việc giao hàng đã hoàn thành, ứng dụng Scaniverse cho phép khảo sát và ghi chú không gian từ xa qua mô hình 3D,...
+
+Hiện tại, Niantic Spatial mới chỉ có vài khách hàng. Hội đồng Du lịch Singapore đang dùng công nghệ của Niantic để tạo ra chuyến tham quan thực tế tăng cường tại Flower Dome, nhà kính lớn nhất thế giới và là điểm đến nổi tiếng của Singapore.
+
+Dù bán mảng game, Niantic đang hợp tác “chủ mới” của Pokemon Go, tiếp tục cung cấp công nghệ lập bản đồ cho họ. Nhờ đó, Niantic Spatial vẫn có thể tiếp tục sử dụng dữ liệu vị trí để phát triển AI.
+
+Sau khi đạt được thỏa thuận với Scopely, nhiều người lo ngại về tính bảo mật dữ liệu người dùng từ trò chơi. Bởi Scopely là doanh nghiệp thuộc quỹ đầu tư nhà nước của Ả Rập Xê Út. Tuy nhiên, CEO Niantic Spatial đã bác bỏ những lo ngại này. Ông khẳng định: “Các quy định rất rõ ràng, Niantic và Scopely là hai bên duy nhất kiểm soát dữ liệu đó”.
+
+Trong một tuyên bố, đại diện Scopely cũng nhấn mạnh công ty hoạt động độc lập và tự chủ. “Dữ liệu người chơi luôn được bảo vệ nghiêm ngặt theo luật quyền riêng tư và được lưu trữ duy nhất trên máy chủ đặt tại Mỹ”, họ cho biết.
+
+Hành trình mới của Niantic Spatial chỉ vừa khởi động, và chưa ai dám chắc liệu đây là một cú rẽ sáng suốt hay canh bạc liều lĩnh của “cha đẻ” Pokémon GO. Nhưng với những người từng đồng hành, từng chạy khắp phố phường để săn một con Pikachu, có lẽ vẫn sẽ có chút tiếc nuối cho thời hoàng kim của một cơn sốt trò chơi toàn cầu…

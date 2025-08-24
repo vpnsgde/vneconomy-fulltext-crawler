@@ -1,0 +1,49 @@
+Thực tế này được chuyên gia nêu ra tại Diễn đàn Trung tâm dữ liệu và Cơ sở hạ tầng đám mây với chủ đề tăng tốc cho hành trình số do Viettel IDC phối hợp cùng 35 đối tác, cơ sở công nghệ toàn cầu tổ chức ngày 3/6/2023.
+
+Hiện nay, lượng dữ liệu được tạo ra trong mỗi phút trên toàn thế giới là rất lớn và càng ngày gia tăng mạnh càng được kết nối, chia sẻ qua nhiều nền tảng.
+
+Tại thị trường Việt Nam, trong 5 năm gần đây, số lượng thuê bao sử dụng 4G đã tăng lên gần 6 lần, với gần 90 triệu thuê bao;gần 22 triệu cho thuê bao kết nối băng thông rộng hộ gia đình và các doanh nghiệp.Điều này cho thấy, người dùng đã chuyển các kết nối giải trí và sự lên ngôi của nội dung số.
+
+Hiện nay, các công nghệ như AI, IoT, BigData, đặc biệt gần đây là ChatGPT và Google Bard đang gây sốt trên toàn cầu.Nhưng tất cả các công nghệ này chỉ có giá trị khi có nền tảng dữ liệu, các chuyên gia khẳng định.Các công nghệ như AR, VR, trợ lý ảo, Metaverse thế giới ảo, 5G và 6G sẽ trở thành nền tảng cho sự ra đời của xu hướng công nghệ tương lai Internet of Senses (giác quan).Công nghệ này sẽ tạo ra một khoảng thời gian không mới để sáng tạo với lượng dữ liệu lớn hơn.
+
+Theo ông Hoàng Văn Ngọc, Giám đốc Viettel IDC, đồng hành cùng sự phát triển này là áp lực cho hạ tầng, trong đó có hạ tầng lưu trữ, hạ tầng tính toán và kết nối.Lực lượng này càng lớn hơn khi thời gian qua, các tuyến cáp biển nối Việt Nam đi quốc tế gặp sự cố.
+
+Việt Nam chỉ có 5 tuyến kết nối quốc tế qua cáp biển và 2 tuyến cáp đất liền.Với quy mô dân số 100 triệu dân và nhu cầu kết nối hiện nay, tỷ lệ này quá thấp so với Singapore (có 35 tuyến), Đài Loan (35 tuyến), Thái Lan (18 tuyến), Malaysia (22 tuyến).Theo dự báo trong những năm tới, cứ 3 năm thì nhu cầu, quy mô và dung lượng kết nối sẽ tăng gấp đôi.
+
+
+
+Về hạ tầng trung tâm dữ liệu, ông Ngọc cho hay, nếu so sánh quy mô, diện tích mặt bằng, lượng điện tiêu thụ, Việt Nam còn khá thấp so với các nước trong khu vực, bằng 1/15 lần Singapore, bằng 1/5 so với Thái Lan và 1/5 so với Malaysia.
+
+Không những thế, các Data Center của Việt Nam chủ yếu được phân tán tại các khách hàng, tổ chức, doanh nghiệp, thậm chí cả các đơn vị nhà nước.Thực tế này sẽ tạo ra các chế độ khác nhau để bảo vệ toàn bộ thông tin, toàn bộ dữ liệu.
+
+Khi số liệu ngày càng tăng mạnh, nhất là trong bối cảnh chuyển đổi số đang bùng nổ hiện nay với sự tăng tốc tham gia của cả chính phủ, doanh nghiệp, tổ chức, cá nhân… sẽ tạo áp lực lớn về đảm bảo an toàn dữ liệu trước các cuộc tấn công mạng ngày càng phức tạp.
+
+Một vấn đề khác về công thức được các chuyên gia nêu ra đó là, nội dung tạo ra ở Việt Nam chỉ chiếm 20%, còn lại 80% nền tảng nội dung nằm ở các Bigtech như Google, YouTube, Facebook, Netflix , AWS… Do đó, mục tiêu đặt ra là thuyết phục cho các nền tảng đặt máy chủ tại Việt Nam, giảm áp lực cho các kết nối quốc tế.
+
+Thị trường Việt Nam hiện có hơn 40 doanh nghiệp cung cấp các dịch vụ điện toán đám mây, bao gồm các doanh nghiệp nước ngoài như Google, Microsoft, Amazon, các doanh nghiệp trong nước như Viettel, VNPT, CMC, FPT… và một số  số lượng doanh nghiệp nhỏ.
+
+Cùng với sự chuyển dịch của công nghệ, xu hướng sử dụng dịch vụ trung tâm dữ liệu và điện toán đám mây đang ngày càng phát triển mạnh mẽ tại Việt Nam trong thời kỳ qua.Theo Hypercycle of Future Market Insights, từ nay đến năm 2031, thế giới mới ở “Giai đoạn chín muồi” và khu vực châu Á- Thái Bình Dương APAC mới chỉ ở “Giai đoạn phát triển”.
+
+
+
+Theo phân tích của Frost & Sullivan, năm 2023 thị trường này tại khu vực APAC sẽ tăng trưởng 30%, trong đó Việt Nam nằm trong nhóm dẫn đầu khu vực Đông Nam Á.Chuyển đổi số lĩnh vực tài chính hàng hóa, viễn thông, công nghệ ngân hàng thông tin, bán lẻ và tiêu dùng, nội dung số ngày càng tăng cường sử dụng dịch vụ trung tâm dữ liệu và điện toán đám mây, tối ưu hóa hóa quy trình làm việc, gia tăng trải nghiệm khách hàng…
+
+Từ thực tế này, ông Ngọc nhận xét, đám mây là khoảng không gian cơ hội rất mở rộng và hiện tại Việt Nam mới chỉ ở giai đoạn khởi đầu.
+
+Hiện nay, quy mô thị trường Cloud ở Việt Nam đạt khoảng hơn 400 triệu USD nhưng dự báo đến năm 2025, sẽ đạt mức 1 tỷ USD.Đây là một dư địa tăng trưởng rất lớn cho các doanh nghiệp, nhà cung cấp dịch vụ cloud.
+
+Chia sẻ điều này,ông Trần Nguyên Chung, Trưởng phòng an toàn hệ thống thông tin, Cục An toàn thông tin cho hay,Việt Nam được đánh giá là 1 trong 10 thị trường mới nổi trên thị trường trung tâm dữ liệu, điện toán đám mây với tốc độ tăng trưởng ấn tượng, trung bình 20-30%/ năm trong giai đoạn 2020-2026. Nhưng hiện nay các doanh nghiệp Việt Nam mới chỉ làm chủ được khoảng 20% thị phần, 80% thị phần còn lại đang thuộc về các BigTech.
+
+Do đó, để định hướng phát triển hạ tầng nền tảng kinh tế số, ông Chung cho biết Việt Nam đặt mục tiêu đến năm 2025, có khoảng 100% các cơ quan sử dụng điện toán đám mây, trong đó 70% doanh nghiệp sử dụng dịch vụ điện toán đám mây do doanh nghiệp Việt Nam cung cấp.
+
+Theo đánh giá, các nhà cung cấp dịch vụ Cloud trong nước đã đáp ứng tốt hạ tầng lưu trữ, sao lưu dự phòng phục vụ nhu cầu các cơ quan, tổ chức, doanh nghiệp trong nước.
+
+Tuy nhiên, các doanh nghiệp Việt Nam còn gặp không ít thách thức, đặc biệt là cạnh tranh về thương hiệu và hệ sinh thái sản phẩm. Ông Chung cho rằng, đây là một thách thức đặt ra cho các doanh nghiệp cung cấp dịch vụ Cloud trong thời gian tới để có thể chiếm lĩnh thị trường trong nước.
+
+Phát triển hạ tầng số mà trọng tâm là hạ tầng viễn thông băng rộng, phát triển các nền tảng hạ tầng điện toán đám mây là mục tiêu được xác định và đặt ra trong nhiều chương trình, đề án, chiến lược của Việt Nam nhằm thúc đẩy chuyển đổi số, phát triển kinh tế số, xã hội số, chính phủ số.
+
+Năm 2023, Bộ Thông tin và Truyền thông xác định là năm dữ liệu, là tạo lập và khai thác dữ liệu để tạo ra giá trị mới, bảo vệ dữ liệu cá nhân, là mở dữ liệu để kết nối chia sẻ, bảo mật dữ liệu…
+
+Các chuyên gia cho rằng, các cơ quan, tổ chức, doanh nghiệp thay vì tự đầu tư, vận hành các trung tâm dữ liệu nhỏ thì hãy chuyển sang sử dụng dịch vụ điện toán đám mây với chi phí hợp lý, tối ưu, đảm bảo an toàn an ninh mạng…
+
+Các cơ quan, tổ chức, doanh nghiệp khi có nhu cầu cũng nên nghiên cứu, lựa chọn các đơn vị cung cấp các dịch vụ Cloud Việt Nam cung cấp, để đáp ứng yêu cầu, bảo vệ an toàn dữ liệu và chủ quyền số , thúc đẩy sự phát triển của các doanh nghiệp số Việt Nam.

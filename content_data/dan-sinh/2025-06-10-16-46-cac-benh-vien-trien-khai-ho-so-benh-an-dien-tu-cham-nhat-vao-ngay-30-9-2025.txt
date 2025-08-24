@@ -1,0 +1,27 @@
+Bộ Y tế vừa ban hành Thông tư số 13/2025/TT-BYT hướng dẫn triển khai hồ sơ bệnh án điện tử, có hiệu lực thi hành kể từ ngày 21/7/2025.
+
+Thông tư 13 nêu rõ, hồ sơ bệnh án điện tử là hồ sơ bệnh án quy định tại khoản 17 Điều 2 Luật Khám bệnh, chữa bệnh được lập, cập nhật, hiển thị, ký, lưu trữ, quản lý, sử dụng và khai thác bằng phương tiện điện tử.
+
+Cụ thể, theo khoản 17, Điểu 2 Luật Khám bệnh, chữa bệnh, hồ sơ bệnh ánlà tập hợp dữ liệu, bao gồm thông tin cá nhân, kết quả khám bệnh, kết quả cận lâm sàng, kết quả thăm dò chức năng, quá trình chẩn đoán, điều trị, chăm sóc, và những thông tin khác có liên quan trong quá trình chữa bệnh của người bệnh tại cơ sở khám bệnh, chữa bệnh.
+
+Việc lập, cập nhật hồ sơ bệnh án điện tử của người bệnh tại cơ sở khám bệnh, chữa bệnh bảo đảm đầy đủ các thông tin theo quy định tại Chương X Thông tư số 32/2023 của Bộ Y tế quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh.
+
+Kết nối thông tin của hồ sơ bệnh án điện tử với số định danh cá nhân của công dân Việt Nam và người nước ngoài đã được cấp tài khoản định danh điện tử theo quy định pháp luật về căn cước.
+
+Hồ sơ bệnh án điện tử tuân thủ quy định của pháp luật về khám bệnh, chữa bệnh, dữ liệu, công nghệ thông tin, giao dịch điện tử, an toàn thông tin mạng, an ninh mạng, tiếp cận thông tin, bảo vệ dữ liệu cá nhân, lưu trữ dữ liệu; quy định về quản lý, kết nối và chia sẻ dữ liệu điện tử của cơ quan nhà nước.
+
+Yêu cầu để triển khai hồ sơ bệnh án điện tử đó là, có hạ tầng công nghệ thông tin của cơ sở khám bệnh, chữa bệnh, tối thiểu gồm máy trạm; hạ tầng kết nối mạng; máy chủ; giải pháp hoặc thiết bị lưu trữ dữ liệu (bao gồm cả lưu trữ dự phòng); có các thiết bị, giải pháp về bảo mật thông tin và các thiết bị có liên quan khác.
+
+Đồng thời, có các ứng dụng công nghệ thông tin trong quản lý khám bệnh, chữa bệnh để triển khai hồ sơ bệnh án điện tử. Đáp ứng tiêu chuẩn kỹ thuật về ứng dụng công nghệ thông tin trong cơ quan nhà nước theo quy định của pháp luật về công nghệ thông tin.
+
+Đặc biệt, sẵn sàng phục hồi thông tin, dữ liệu và khả năng truy xuất trên hồ sơ bệnh án điện tử khi cần thiết để tham khảo, đối chiếu, khai thác, sử dụng trong công tác điều trị, kiểm tra, thanh tra, nghiên cứu khoa học và quản lý y tế.
+
+Thông tư quy định, nhân viên y tế, người bệnh hoặc người đại diện của người bệnh ký hoặc xác nhận điện tử nội dung liên quan trong hồ sơ bệnh án điện tử, theo một trong các hình thức sau: Sử dụng chữ ký điện tử hợp pháp; sử dụng các kỹ thuật sinh trắc học; sử dụng các hình thức xác nhận bằng phương tiện điện tử khác theo quy định của Luật Giao dịch điện tử.
+
+Về lộ trình thực hiện, Bộ Y tế cho biết các cơ sở khám bệnh, chữa bệnh được cấp giấy phép hoạt động theo hình thức tổ chức là bệnh viện, triển khai hồ sơ bệnh án điện tử chậm nhất vào ngày 30/9/2025.
+
+Các cơ sở khám bệnh, chữa bệnh khác có người bệnh điều trị nội trú, điều trị ban ngày, và điều trị ngoại trú triển khai hồ sơ bệnh án điện tử, hoàn thành chậm nhất vào ngày 31/12/2026.
+
+Tại điều khoản chuyển tiếp, Thông tư cũng nêu rõ, đối với người bệnh đang điều trị tại cơ sở khám bệnh, chữa bệnh trước thời điểm Thông tư này có hiệu lực và ra viện, hoặc kết thúc đợt điều trị ngoại trú sau thời điểm Thông tư này có hiệu lực, mà đang sử dụng hồ sơ bệnh án lập bằng giấy, thì tiếp tục được áp dụng hồ sơ bệnh án này cho đến khi ra viện, hoặc kết thúc đợt điều trị ngoại trú. Trừ trường hợp cơ sở khám bệnh, chữa bệnh có thể chuyển thành hồ sơ bệnh án điện tử.
+
+Đối với hồ sơ bệnh án đã được lập bằng giấy trước ngày Thông tư này có hiệu lực, căn cứ điều kiện thực tế của cơ sở khám bệnh, chữa bệnh, người đứng đầu cơ sở khám bệnh, chữa bệnh quyết định việc chuyển đổi hình thức giữa văn bản giấy và thông điệp dữ liệu, bảo đảm quy định tại Nghị định số 137/2024 của Chính phủ quy định về giao dịch điện tử của cơ quan nhà nước, và hệ thống thông tin phục vụ giao dịch điện tử.

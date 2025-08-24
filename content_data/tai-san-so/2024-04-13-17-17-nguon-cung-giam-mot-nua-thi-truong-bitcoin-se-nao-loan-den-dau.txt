@@ -1,0 +1,43 @@
+Cứ bốn năm một lần, sự kiệnhalvingsẽ xảy ra, cắt giảm một nửa nguồn cung tiền điện tử để tạo ra hiệu ứng khan hiếm, khiến BTC đúng nghĩa “vàng kỹ thuật số”.
+
+Antoni Trenchev, Nhà đồng sáng lập sàn giao dịch tiền điện tử Nexo, cho biết: “halving là sự kiện quan trọng nhất đối với những người đam mê bitcoin, nhưng lần lặp lại năm 2024 sẽ nâng nó lên một tầm cao mới vì nguồn cung giảm kết hợp với nhu cầu ETF mới tạo ra một loại cocktail bùng nổ”.
+
+“Đợt halving này rất đặc biệt vìbitcoinđã vượt qua mức cao nhất của chu kỳ trước. Điều chưa từng xảy ra ở mỗi sự kiện bốn năm một lần. Vì vậy, việc cố gắng dự đoán độ dài và mức độ khốc liệt của chu kỳ này trở nên khó khăn hơn nhiều”, Antoni Trenchev nhận mạnh trong cuộc phỏng vấn với CNBC.
+
+
+
+Sau đợt giảm một nửa BTC vào năm 2012, 2016 và 2020, giá bitcoin đã tăng lần lượt khoảng 93 lần, 30 lần và 8 lần, từ mức giá trong ngày giảm một nửa đến đỉnh chu kỳ. Hiệu suất trong quá khứ không biểu thị lợi nhuận trong tương lai và một số thậm chí còn cảnh báo khi đối phó với nguồn cung nhỏ hơn cứ sau bốn năm, không có bằng chứng nào cho thấy các đợt halving trước đó đã khiến giá bitcoin tăng.
+
+Tuy nhiên, Steven Lubka, người đứng đầu bộ phận khách hàng tư nhân và văn phòng gia đình tại Swan Bitcoin, cho biết “nếu có lúc nào đó để lạc quan hơn một chút” về lợi nhuận sau halving thì đó là năm nay.
+
+Antoni Trenchev nói thêm: “Chu kỳ tăng giá bitcoin này diễn ra sớm hơn do sự chấp thuận của các quỹ ETF giao ngay vào tháng 1. Và sự kiện này có thể sẽ ngắn hơn và bùng nổ hơn, đạt đỉnh điểm vào cuối năm 2024 hoặc đầu năm 2025”.
+
+Cho dù muốn hiểu sâu hơn về bitcoin như một tài sản mới, giảm phát hay chỉ đơn giản là muốn suy đoán về giá bitcoin trong những tuần tới, thì đây là những điều bạn cần biết về việc giảm một nửa và tác động tiềm tàng của sự kiện này trên thị trường.
+
+Halvinglà sự thay đổi trong công nghệ Blockchain cơ bản của bitcoin, được thiết kế để giảm tốc độ tạo ra bitcoin được phát hành và lưu thông, thường diễn ra khoảng bốn năm một lần. Vậy BTC tạo ra như thế nào?
+
+Sử dụng sức mạnh tính toán, người khai thác sẽ giải các câu đố toán học phức tạp nhằm xây dựng chuỗi khối và kiếm phần thưởng dưới dạng bitcoin mới. Khi giảm một nửa, số lượng bitcoin có sẵn làm phần thưởng cho người khai thác bị giảm một nửa. Điều này làm cho việc khai thác ít lợi nhuận hơn và làm chậm quá trình sản xuất bitcoin mới.
+
+Người khai thác có hai ưu đãi để khai thác: phí giao dịch được người gửi tự nguyện trả (để giải quyết nhanh hơn) và phần thưởng khai thác – 6,25 bitcoin mới được tạo, tương đương khoảng 437.500 USD (giá trị tính đến giữa tuần trước).
+
+Trong thời gian tới, từ ngày 18/4 đến ngày 21/4, phần thưởng khai thác sẽ giảm xuống còn 3,125 bitcoin. Trước đó, sự kiện halving năm 2020 đã khiến phần thưởng khai thác là 50 bitcoin giảm xuống còn 6,25.
+
+Việc giảm phần thưởng khối dẫn đến giảm nguồn cung bitcoin bằng cách làm chậm tốc độ tạo ra tiền mới. Nguồn cung hữu hạn giúp duy trì giá trị bitcoin giống như vàng kỹ thuật số. Cuối cùng, số lượng bitcoin đang lưu hành vẫn sẽ chỉ đạt mức 21 triệu.
+
+Việc giảm một nửa giống như công tắc được bật vào một thời điểm cụ thể. Các chuyên gia cho rằng sự kiện sắp tới chắc chắn có sự biến động do các nhà đầu cơ giao dịch trong sự kiện này gây ra, vì vậy các nhà đầu tư không nên nhầm lẫn điều đó với sự thay đổi kỹ thuật đang diễn ra.
+
+“Tôi không nghĩ rằng chúng ta sẽ thấy một bước chuyển lớn, nhưng ngay cả khi có một bước chuyển lớn, nó cũng không liên quan gì đến việc giảm một nửa. Tuy nhiên, trong những tháng tiếp theo, mỗi ngày có khoảng 30 triệu USD bitcoin được bán ít hơn. Điều đó có thể tích tụ nhanh chóng và tạo ra tác động trong khoảng thời gian đó”, Antoni Trenchev, Nhà đồng sáng lập sàn giao dịch tiền điện tử Nexo cho biết.
+
+Trong khi đó, Steven Lubka, người đứng đầu bộ phận khách hàng tư nhân và văn phòng gia đình tại Swan Bitcoin cho biết, một điều quan trọng mà các nhà đầu tư cần hiểu về việc giảm một nửa và tác động tiềm tàng của nó đối với thị trường là các công ty khai thác bán rất nhiều bitcoin mà họ được trả để thanh toán các hóa đơn hàng ngày.
+
+Ông nhấn mạnh: “Đây là những doanh nghiệp phải tiêu tốn nhiều năng lượng và những thứ khác để thực hiện công việc của mình và họ đang phải tiêu tốn rất nhiều ngân sách. Các công ty khai thác liên tục bán bitcoin mà họ khai thác được chỉ để trang trải chi phí. Khi số tiền đó bị cắt làm đôi, không còn cách nào khác: Số bitcoin được bán từ các thợ đào chỉ bằng một nửa”.
+
+Bitcoin luôn tăng vọt trong những tháng sau đợt halving. Đó là lý do khiến ngày này trở thành một sự kiện được nhiều người tôn vinh. Tuy nhiên, theo CNBC, mỗi lần phần thưởng khai thác và nguồn cung bitcoin bị thu hẹp, lợi nhuận từ ngày halving đến đỉnh chu kỳ cũng giảm theo.
+
+Nhà đồng sáng lập sàn giao dịch tiền điện tử Nexo cho biết: “Đoạn kết của bitcoin sau mỗi đợt halving là môn thể thao đỉnh cao. Những gì chúng tôi biết là mỗi đợt tăng giá sau halving đều chứng kiến lợi nhuận giảm dần”.
+
+Trái ngược lại, Steven Lubka, người đứng đầu bộ phận khách hàng tư nhân và văn phòng gia đình tại Swan Bitcoin, cho biết xu hướng đó có thể đảo ngược trong năm nay, mặc dù đó không phải là kết quả của cú sốc nguồn cung mà là do cú sốc cầu mới. Theo CryptoQuant, nhờ sự ra đời của các quỹ giao dịch trao đổi bitcoin, nhu cầu về tiền điện tử lớn hơn bao giờ hết.
+
+Dữ liệu cho thấy trong lịch sử, nhu cầu bitcoin của “cá voi” (bao gồm những người sử dụng bitcoin OG, nhà đầu tư mới và chủ sở hữu Bitcoin ETF) tăng đột biến sau mỗi đợt halving, khiến giá tăng cao. Tuy nhiên, năm nay, nhu cầu của cá voi đã ở mức cao nhất mọi thời đại và phần thưởng khối thậm chí còn chưa bị cắt giảm.
+
+Julio Moreno, người đứng đầu bộ phận nghiên cứu tại CryptoQuant, cho biết: “Ảnh hưởng đáng kể trước đây của sự kiện halving đối với giá đã giảm đi, do việc phát hành bitcoin mới trở nên nhỏ hơn so với tổng số bitcoin có sẵn để bán. Ngược lại… tăng trưởng nhu cầu bitcoin dường như là động lực chính khiến giá cao hơn sau halving”.

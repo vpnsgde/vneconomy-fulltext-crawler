@@ -1,0 +1,47 @@
+Pi Network là một trong những ứng dụng khai thác tiền ảo được giới thiệu từ năm 2019. Theo thống kê, tính đến năm 2023, ứng dụng này đã có hơn 10 triệu lượt tải từ Play Store và khoảng 12 triệu người tham gia khai thác.
+
+Theo Hoka News, Hàn Quốc, Trung Quốc và Việt Nam là 3 quốc gia có số Pi Node (nút mạng Pi - phần mềm trên máy tính với vai trò tạo và lưu trữ Pi) cao nhất. Việt Nam đứng thứ 3 với 19.142 node Pi.
+
+Chỉ tính riêng trên mạng xã hội Facebook, số lượng nhóm liên quan đến Pi Network lên tới con số không đếm xuể với hàng trăm nghìn thành viên với mục đích trao đổi thông tin và giao dịch đồng tiền số chưa lên sàn này.
+
+Một số sản giao dịch coin lớn bất ngờ hiển thị mức giá của đồng Pi giảm đến 98% so với mức giá 40 USD trước đó…
+
+Gần đây, một bài đăng trên mạng xã hội đã nhận được sự quan tâm từ cộng đồng tiền số khi lên tiếng về việc ‘nghỉ chơi’, xóa app và nhận được nhiều ý kiến trái chiều. Hầu hết người dùng đều bày tỏ quan điểm thất vọng về dự án này và dần hoài nghi về tương lai của Pi Network. Nguyên nhân đến từ đâu?
+
+Một số bài đăng tại các hội nhóm Pi Network trên Facebook:
+
+Về cơ bản, để dự án có thể khởi chạy mạng chính và giao dịch như một loại tiền số thông thường, dự án sẽ cần đáp ứng các tiêu chí sau đây. Hoàn tất quá trình chuẩn bị: Tất cả các bước chuẩn bị quan trọng về công nghệ, sản phẩm, kinh doanh và pháp lý phải được hoàn thành trước khi mở mạng cho Internet công cộng.
+
+Mặc dù hầu hết các cột mốc kỹ thuật đã được nêu trong lộ trình cập nhật của dự án, công việc bổ sung vẫn là tối ưu hóa an ninh mạng, tính ổn định và khả năng mở rộng.
+
+
+
+Đạt được các mục tiêu phi tập trung với mục tiêu thu hút 15 triệu người dùng đã được xác minh KYC (Know Your Customer là xác minh danh tính người dùng bằng giấy tờ tùy thân như hộ chiếu, CMND, CCCD, Selfie… Việc xác mình này để chứng minh chủ tài khoản là người thật, không phải tài khoản ảo hoặc của BOT) và di chuyển ít nhất 10 triệu người tiên phong sang chuỗi khối Mainnet.
+
+Ngoài ra, các nhà phát triển cần tung ra ít nhất 100 tiện ích và ứng dụng chất lượng cao, riêng biệt để cung cấp các trường hợp sử dụng thực sự cho Pi như một loại tiền tệ.
+
+Môi trường bên ngoài thuận lợi: Là một loại tiền điện tử toàn cầu, thành công của Pi phụ thuộc rất nhiều vào điều kiện thực tế. Các yếu tố như chiến tranh, sự phát triển về quy định, xu hướng của ngành và việc không có khủng hoảng sẽ quyết định thời điểm tốt nhất để ra mắt Mainnet.
+
+Ngày 28/6, đội ngũ Pi Core Team cho biết đã có 60 triệu người dùng, 12 triệu người thực hiện xác thực danh tính (KYC) thành công, tăng từ 9,45 triệu so với Ngày của Pi (14/3). Đây là một cột mốc mới đối với dự án, tuy nhiên vẫn không đủ khi niềm tin của cộng đồng ngày càng bị bào mòn.
+
+Khi một đồng coin bất kỳ được phát hành mạng lưới chính thức, đồng coin này có một hệ sinh thái riêng mà không phụ thuộc vào các hệ sinh thái lớn như Bitcoin hay Ethereum. Mainnet kết nối các phần mềm ví và thực hiện các giao dịch thông thường. Tuy nhiên nhìn lại lộ trình kế hoạch khởi chạy của Pi Network, nhiều người không khỏi ngao ngán bởi ngày mở mainet của dự án bị trì trệ quá nhiều lần.
+
+Sau nhiều lần trì hoãn trước đó vì nhiều lý do, vào cuối năm 2023, đại diện dự án cho biết họ có ý định chuyển sang giai đoạn Open Mainnet vào năm 2024. Nhiều ý kiến cho rằng kế hoạch này dự kiến sẽ diễn ra trong tháng 3, tuy nhiên sau đó lại dời đến tháng 6/2024.
+
+Tuy nhiên, kế hoạch về mạng chính liên tục bị thay đổi, đã có những thông tin về mainnet mở sẽ diễn ra vào tháng 6/2024 nhưng tháng 6 đã trôi qua, nhiều luồng thông tin cho rằng có thể sẽ được rời sang tháng 12/2024 khiến người dùng ngày càng suy giảm lòng tin.
+
+Kế hoạch chính xác về ngày ra mắt mainet vẫn là các luồng thông tin chưa được xác thực. Bài đăng trên Instagram cuối cùng của người sáng lập Pi Network là vào năm 2020 và sự hiện diện của ông trên các nền tảng truyền thông xã hội khác cũng không thể hiện rõ được.
+
+Cho đến khi Pi Network ra mắt mạng chính mở và niêm yết đồng tiền này trên các sàn giao dịch lớn, các nhà đầu tư sẽ suy đoán tốt nhất về giá trị nội tại của nó. Chi phí khai thác thấp khiến nó có thể tiếp cận được, nhưng nếu không có trường hợp sử dụng cụ thể và sự chấp nhận của thị trường, mọi người có thể tiếp tục đặt câu hỏi về giá trị thực của nó.
+
+Bởi chưa khởi chạy mạng chính Pi Network, đồng tiền số này chưa chính thức ra mắt trên các sàn giao dịch lớn mà chỉ được giao dịch qua một số kênh khác nhau như P2P Marketplace, IOU, trao đổi hàng hóa/dịch vụ và chợ đen/mạng xã hội. Hệ thống IOU có nghĩa là các sàn giao dịch tham gia sẽ giao dịch tiền PI trong tương lai với giá trị IOU hiện tại. Đồng thời hình thức này cũng đã tạo ra rất nhiều hình thức lừa đảo tại thị trường quốc tế nói chung và Việt Nam nói riêng.
+
+Các hình thức lừa đảo thường thấy được một số người dùng chia sẻ gần đây là kẻ gian thường đăng bài nói cần mua Pi với giá cao hơn nhiều so với thông thường, nhưng sau đó "đặt cọc" số tiền nhỏ để làm tin, nhằm dụ người bán chuyển hết số Pi họ có cho chúng. Kẻ gian cũng có thể yêu cầu người bán gọi video, quay màn hình smartphone khi giao dịch, nhưng mục đích chính là để đánh cắp cụm từ "hạt giống" để mở khóa ví.
+
+Một số còn yêu cầu giao dịch thông qua website bên thứ ba, nhưng thực chất là liên kết chứa mã độc để đánh cắp khóa ví và thông tin khác trên smartphone.
+
+Cần lưu ý, tiền mã hóa hay tiền số vẫn chưa được pháp luật Việt Nam công nhận. Khoản 6, điều 26 Nghị định 88/2019/NĐ-CP về xử phạt hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng có quy định các hành vi phát hành, cung ứng, sử dụng các phương tiện thanh toán không hợp pháp (bao gồm cả bitcoin và các loại tiền mã hóa tương tự khác) sẽ bị xử phạt vi phạm hành chính mức từ 50 - 100 triệu đồng.
+
+Bên cạnh đó, trong Công văn 5747/NHNN-PC ngày 21-7-2017, Ngân hàng Nhà nước Việt Nam cũng khẳng định bitcoin, litecoin... và các loại tiền ảo, tiền mã hóa khác tiền tệ và không phải là phương tiện thanh toán hợp pháp theo quy định của pháp luật Việt Nam.
+
+Chưa thể khẳng định Pi Network có phải mô hình lừa đảo hay không. Tuy nhiên, các chuyên gia an ninh mạng khuyến cáo người tham gia cần hết sức cân nhắc khi đầu tư thời gian, công sức hay tiền bạc vào bất cứ loại tiền ảo nào, không riêng gì Pi Network. Đặc biệt, cần thận trọng khi cung cấp các dữ liệu cá nhân cho các nền tảng này bởi không thể biết các dữ liệu này sẽ được dùng vào việc gì.

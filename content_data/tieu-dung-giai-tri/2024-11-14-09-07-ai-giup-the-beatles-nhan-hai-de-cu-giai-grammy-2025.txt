@@ -1,0 +1,27 @@
+Ban đầuNow and Thenlà bản trình diễn thử, được John Lennon sáng tác năm 1970. Sau khi ông qua đời năm 1980, bản demo được trao lại cho ba thành viên trong The Beatles, sau đó được đưa vào albumThe Beatles Anthologynhư một dự án "tái hợp" của nhóm nhạc huyền thoại. Tuy nhiên, thách thức xảy ra khi họ không thể tách được giọng hát của Lennon và tiếng piano mà không làm giảm chất lượng thu âm, dẫn đến dự án bị bỏ ngỏ. Một trong bốn mảnh ghép của nhóm - Paul McCartney - gọi đây là "bài hát cuối cùng của Beatles".
+
+Bước ngoặt diễn ra khi có sự hỗ trợ của trí tuệ nhân tạo. Trong quá trình làm phim tài liệu về việc thu âm ca khúcLet It Benăm 2021, các nhà làm phim đã sử dụng bản thu âm thử của nhóm từ năm 1969 để đưa vào phim. Dữ liệu này, dù được đánh giá không quá hay, nhưng giúp các nhà khoa học có thể đưa vào công cụ AI, từ đó nhận dạng giọng nói của từng thành viên The Beatles. Từ đây, họ có thể làm sạch chất lượng âm thanh của bản thu âm.
+
+Theo Techcrunch, các mô hình học máy hiện nay có thể được đào tạo về một âm thanh cụ thể, như giọng nói của con người trong cuộc gọi video hay một loại đàn guitar cụ thể trong phòng thu, sau đó học cách tách âm khỏi phần còn lại của bản ghi. Với giải pháp này, họ thậm chí có thể tạo ra các bản thu âm kiểu "deepfake" từ giọng hát của các thành viên. Tuy nhiên họ đã không làm vậy, thay vào đó là chọn làm sạch bản thu âm gốc.
+
+"Việc chỉnh sửa âm thanh dựa trên AI tương tự cách các nền tảng trò chuyện video như FaceTime, Google Meet hoặc Zoom lọc tiếng ồn khỏi cuộc gọi", trang này cho biết. Sau khi tái hiện thành công giọng hát của của John Lennon trongNow and Then, họ đưa vào bản thu với sự kết hợp phần bass của McCartney, tiếng trống từ Ringo Starr và guitar của George Harrison, tạo nên bản thu mới vào tháng 11/2023.
+
+Kênh YouTube của The Beatles cũng đăng tải đoạn phim về quá trình thực hiện lại bản nhạc. Trong đó, bên cạnh giọng hát của Lennon, phần chơi guitar của Harrison cũng là sản phẩm AI, dựa trên một bản thu âm của ông vào năm 1995. Bài hát khi vừa ra mắt đã thu hút sự chú ý lớn, thu về hơn 60 triệu lượt xem.
+
+Hai đề cử năm nay đánh dấu sự trở lại của ban nhạc tại Grammy sau gần ba thập niên, từ lần cuối chiến thắng năm 1997. Theo Billboard, đây cũng là lần đầu một bài hát được sáng tác với sự hỗ trợ của AI được đề cử giải Grammy. Mặc dù AI được sử dụng trong quá trình sản xuấtNow and Then, nhưng nó vẫn phù hợp với các nguyên tắc của giải Grammy, quy định "chỉ những người sáng tạo là con người mới đủ điều kiện" và tác phẩm có "yếu tố của AI" được phép ở một số hạng mục nhất định.
+
+Đề cử này đến vào thời điểm ngành công nghiệp âm nhạc đang vật lộn với việc xác định cách sử dụng AI phù hợp và nó có thể tác động đến tính sáng tạo và tính xác thực trong sản xuất âm nhạc như thế nào. Sự công nhận của Grammy cũng làm nổi bật cách một bài hát có sự hỗ trợ của AI có thể mở ra những cách thức đổi mới và thể hiện sáng tạo mới, đồng thời tôn vinh di sản của các nghệ sĩ.
+
+Cách sử dụng AI trong bài hát của The Beatles có lẽ được nhiều người hâm mộ chấp nhận hơn vì nó không làm giả giọng hát của Lennon, mà chỉ đơn giản là làm sạch bản thu âm. Trong khi đó, gây tranh cãi nhiều hơn là trường hợp bài hátHeart On My Sleevenăm 2023 của nhạc sĩ Ghostwriter, người đã sử dụng AI để mô phỏng giọng hát của Drake và The Weeknd mà không có sự cho phép hay biết của họ. Bài hát đã được gửi để xét duyệt cho hai giải Grammy, nhưng cuối cùng được xác định là không đủ điều kiện.
+
+Năm 2023,Now And Thenđã xuất hiện ở vị trí thứ 7 trên BXH tháng 11 của Hot 100. Đây là hit top 10 đầu tiên của nhóm kể từ năm 1996 với ca khúc Free as a Bird (đạt vị trí thứ 6). Có thể nói, sau khoảng 45 năm hình thành, thế giới đã chào đónNow and Thenvới vòng tay và đôi tai rộng mở. Đĩa đơn này cũng thu hút hơn 11 triệu lượt phát trực tuyến và 73.000 lượt bán cả vật lý và kỹ thuật số sau khi phát hành vào ngày 2/11. Sau đó, sự hiện diện của bài hát được tăng sức nóng khi đoạn phim ngắn dài 12 phút đi sâu hơn vào công việc chỉnh sửa bài hát xuất hiện vào ngày 3/11.
+
+Trong trailer ca khúc, con trai của Lennon, Sean Ono, nói biết ơn khi ba thành viên cùng nhau thực hiện ca khúc của cha sau nhiều năm. Tay trống Ringo Starr cho biết có cảm giác giống như John Lennon trở lại studio làm việc cùng ban nhạc lúc nghe bản phối. Trên trang cá nhân, Paul McCartney viết: "Đây là giọng của John Lennon, trong trẻo như pha lê và nhiều cảm xúc. Năm nay The Beatles vẫn tiếp tục sáng tác".
+
+The Beatles là nhóm nhạc Anh huyền thoại. Cuối năm 1963, tại Mỹ, ban nhạc bán ra 250.000 đĩa đơnI Want to Hold Your Handtrong ba ngày, từ đó được hâm mộ trên toàn thế giới. Với 20 đĩa đơn và 19 album đứng đầu bảng xếp hạng Billboard, 15 bản thu được lưu danh trong Grammy Hall of Fame, The Beatles trở thành nhóm nhạc thành công nhất mọi thời đại.
+
+John Lennon sinh năm 1940, tại Liverpool (Anh), sáng tác và hát chính trong nhóm The Beatles. Nhạc phẩm của ông mang tinh thần phản đối chiến tranh, châm biếm sắc sảo và cũng đầy tình cảm. Ngoài ra, âm nhạc của ông còn nói về tình yêu, thân phận con người. Năm 1980, huyền thoại âm nhạc qua đời ở tuổi 40, do bị Mark Chapman ám sát.
+
+
+
+Lễ trao giải Grammy lần thứ 67 diễn ra vào ngày 2/2/2025 (giờ địa phương) tại nhà thi đấu Cryto.com ở Los Angeles. Hội đồng chuyên môn sẽ bỏ phiếu chọn người chiến thắng từ ngày 12/12 đến ngày 3/1/2025.

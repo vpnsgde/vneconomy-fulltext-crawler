@@ -1,0 +1,85 @@
+Năm 2013, Motorola từng mở một nhà máy tại Fort Worth, Texas. Nhưng chỉ chưa đầy một năm sau, nhà máy này đã phải đóng cửa vì doanh số bết bát và chi phí sản xuất đắt đỏ.
+
+Tờ Financial Times trong bài viết nhận định rằng nếu Apple muốn thử "vận may" trên đất Mỹ, tương lai của ông lớn có thể cũng sẽ vấp phải những trở ngại chẳng khác gì Motorola trước kia.
+
+Bởi thách thức không chỉ nằm ở bài toán chi phí lao động, mà việc di dời cả mạng lưới chuỗi cung ứng tinh vi mất hàng thập kỷ để gây dựng tại Trung Quốc là điều không dễ dàng với Apple.
+
+"Ban đầu, các công ty đổ xô tới Trung Quốc vì chi phí nhân công rẻ", Andy Tsay, Giáo sư Hệ thống thông tin tại Trường Kinh doanh Leavey (Đại học Santa Clara), lý giải. "Nhưng rồi họ ở lại và giờ thì khó mà rời khỏi đây. Trung Quốc đã trở thành một trung tâm sản xuất đẳng cấp thế giới, vượt xa lợi thế ban đầu là chi phí lao động".
+
+Đến nay, iPhone vẫn chiếm gần một nửa tổng doanh thu của Apple và được coi là sản phẩm tiêu dùng thành công nhất trong lịch sử. Kể từ lần ra mắt đầu tiên vào năm 2007, iPhone đã được tiêu thụ khoảng 2,8 tỷ chiếc, mang về cho Apple doanh thu vượt mốc 1.000 tỷ USD trong suốt 15 năm qua.
+
+Để tạo nên một chiếc iPhone, Apple cần tới 187 nhà cung cấp từ 28 quốc gia trên toàn cầu cho khoảng 2.700 linh kiện.
+
+Trong khi đó, theo báo cáo từ International Data Corporation (IDC), hiện chưa đến 5% linh kiện của iPhone được sản xuất tại Mỹ. Chỉ một số ít chi tiết quan trọng như hệ thống laser nhận diện khuôn mặt Face ID, bộ xử lý và modem 5G,... đang được sản xuất tại Mỹ.
+
+Phần lớn linh kiện công nghệ cao, đặc biệt là chip, được sản xuất tại Đài Loan, trong khi một số bộ phận chủ chốt khác đến từ Hàn Quốc và Nhật Bản. Còn lại, phần lớn các linh kiện khác được sản xuất tại Trung Quốc.
+
+Thế nên, chỉ cần nhìn vào một chiếc iPhone cũng đủ thấy chuỗi cung ứng của Apple phức tạp tới mức nào và vì sao giấc mơ "iPhone sản xuất tại Mỹ" bị đánh giá là thiếu thực tế.
+
+Chính vì vậy, mạng lưới này không thể dễ để thay thế chỉ từ tác động của các chính sách thuế quan hay những mệnh lệnh hành chính. Và mạng lưới này đủ khả năng chi phối nền kinh tế thế giới.
+
+Một báo cáo của công ty nghiên cứu TechInsights nhấn mạnh Apple "khó có khả năng chuyển toàn bộ chuỗi sản xuất iPhone sang Mỹ". Mỗi năm, Apple xuất xưởng hơn 230 triệu chiếc iPhone, tương đương khoảng 438 chiếc được sản xuất mỗi phút.
+
+Nhờ khả năng sản xuất quy mô cực lớn nhưng chi phí sản xuất trong tầm kiểm soát cho phép Apple đạt lợi nhuận ấn tượng hàng năm. Chẳng hạn với mẫu iPhone 16 Pro bản 256GB, công ty thu về khoảng 400 USD lợi nhuận ròng, tương đương 36% giá bán, theo ước tính của TechInsights.
+
+Mắt xích then chốt trong chuỗi cung ứng toàn cầu phức tạp này là các công ty gia công thiết bị điện tử, tiêu biểu như Foxconn (Đài Loan), đơn vị lắp ráp phần lớn iPhone trên toàn thế giới. Những năm qua, Foxconn liên tục mở rộng và tái cấu trúc hệ thống sản xuất để thích ứng với chiến lược toàn cầu của Apple: từ đại bản doanh đầu tiên tại Thâm Quyến (Trung Quốc), mở rộng ra hàng chục cơ sở khác trong nước, rồi vươn sang Đông Nam Á và gần đây là Ấn Độ.
+
+Năm 2010, Foxconn đầu tư tới 1,5 tỷ USD, phần lớn nhờ các khoản trợ cấp, ưu đãi thuế và đặc quyền, để xây dựng “thành phố iPhone” tại Trịnh Châu (Trung Quốc). Theo Erik Woodring từ Morgan Stanley, con số này mới chỉ bao gồm chi phí thiết lập hạ tầng, chưa tính tới chi phí vận hành. Trong thời kỳ cao điểm, khu phức hợp này từng tạo ra tới 350.000 việc làm.
+
+Tuy nhiên, Foxconn hay các đối tác lắp ráp khác như Pegatron (Đài Loan) và Luxshare (Trung Quốc) cũng chỉ đóng vai trò ở công đoạn cuối cùng trong một mạng lưới cung ứng rộng lớn.
+
+Mỗi chiếc iPhone là thành quả của sự phối hợp giữa hàng trăm nhà cung cấp, đảm nhiệm mọi công đoạn từ sản xuất ống kính camera, lớp phủ nano, cho đến bảng mạch in và các chất nền siêu mỏng, phần lớn được đặt tại Trung Quốc và Đông Nam Á.
+
+Việc các nhà cung cấp linh kiện và nhà máy lắp ráp nằm gần nhau ban đầu là chiến lược sản xuất của Apple. Bởi điều này giúp Apple rút ngắn thời gian giao hàng, các đối tác trong chuỗi cung ứng của hãng cũng dễ dàng trao đổi, đồng thời cũng hãng thúc đẩy nhanh quá trình cải tiến sản phẩm và kỹ thuật sản xuất.
+
+“Bởi vậy, nếu bây giờ nơi sản xuất iPhone và nhà cung cấp linh kiện phải cách nhau một đại dương. Điều đó chắc chắn gây bất lợi”, Giáo sư Andy Tsay nói.
+
+Chuyên gia Wamsi Mohan từ Bank of America cũng cho rằng đây chính là lý do vì sao việc đưa dây chuyền lắp ráp iPhone về Mỹ có thể làm giảm hiệu quả hoạt động “khi các công đoạn sản xuất không nằm gần nhau, mọi thứ sẽ trở nên rối ren”.
+
+Chuyển hoạt động sản xuất iPhone về Mỹ không phải là câu chuyện một sớm một chiều. Quá trình này có thể kéo dài nhiều năm, thậm chí hàng thập kỷ và đòi hỏi sự đầu tư đồng bộ vào tự động hóa, máy móc, hạ tầng và đào tạo nguồn nhân lực. Bên cạnh đó, việc thuyết phục các nhà cung cấp linh kiện nước ngoài mở nhà máy tại Mỹ cũng là một bài toán nan giải.
+
+Ví dụ rõ ràng nhất là chip xử lý do TSMC (Đài Loan) đảm nhiệm. Dù TSMC đã khởi động dây chuyền sản xuất tại bang Arizona (Mỹ) từ tháng 1 năm nay, nhiều chuyên gia nhận định hiện chưa có nơi nào có thể thay thế được các con chip phức tạp đang được sản xuất tại Đài Loan và Hàn Quốc.
+
+Nói về vấn đề này, một chuyên gia cho rằng: “Nếu bạn là một nhà cung cấp ở Trung Quốc, sản xuất linh kiện có thể dùng cho nhiều hãng điện thoại khác nhau như Huawei hay Xiaomi, thì bạn đang có lợi thế về quy mô và chi phí. Trong tình huống đó, sẽ rất khó để bạn bỏ thị trường Trung Quốc chỉ để phục vụ riêng Apple, vì điều đó không hiệu quả về mặt kinh tế”.
+
+Ngoài ra, theo Giáo sư Andy Tsay, một rào cản lớn khác chính là sự thiếu ổn định trong chính sách của Mỹ. “Hệ thống hiện nay ở Mỹ có thể thay đổi hoàn toàn sau mỗi kỳ bầu cử bốn năm. Điều này khiến các doanh nghiệp lo ngại, vì họ cần sự ổn định và tầm nhìn lâu dài mới dám đầu tư”, Giáo sư Andy Tsay giải thích thêm.
+
+Mark Randall, nguyên Phó Chủ tịch cấp cao của Motorola thời điểm công ty thuộc sở hữu của Google, từng cố gắng xây dựng nhà máy sản xuất điện thoại tại Mỹ. Ông chia sẻ: “Ý tưởng thì không phải là không làm được, nhưng tôi biết chắc một điều. Nó cực kỳ khó khăn”.
+
+Chi phí lao động tại Mỹ để sản xuất ra một sản phẩm hoàn chỉnh từ nguyên liệu thô đến thành phẩm, cao hơn rất nhiều so với nhiều quốc gia khác, ông Mark Randall cho biết. Một trong những khó khăn lớn là nước Mỹ đang thiếu nghiêm trọng các kỹ sư cơ khí, chuyên thiết kế và vận hành máy móc trong dây chuyền sản xuất. “Nếu thực sự muốn đưa ngành sản xuất điện tử về Mỹ, chúng ta sẽ cần đến hàng chục nghìn kỹ sư như vậy”, ông Mark Randall nói.
+
+Không chỉ thiếu nhân lực, hệ thống thuế quan phức tạp cũng khiến việc lên kế hoạch xây dựng nhà máy mới trở nên cực kỳ khó khăn. Theo ông Mark Randall, đó là lý do vì sao phần lớn doanh nghiệp không phản ứng vội vàng trước những thay đổi chính sách ngắn hạn như hiện nay.
+
+“Trong ngành sản xuất, bạn buộc phải có chiến lược dài hạn và biết rõ mình đang đi đâu, không thể chạy theo những biến động trước mắt”, nguyên Phó Chủ tịch cấp cao của Motorola khẳng định.
+
+Nhìn vào chuỗi cung ứng của ba bộ phận quan trọng trên các mẫu iPhone sẽ thấy rõ sự phức tạp trong việc đưa sản xuất về Mỹ. Điều không dễ thực hiện trong một ngành công nghiệp mà ngay cả những thay đổi nhỏ cũng cần nhiều năm chuẩn bị.
+
+Chẳng hạn, lớp kính bảo vệ của màn hình cảm ứng của iPhone hiện là một trong số ít linh kiện được sản xuất tại Mỹ, do công ty Corning đảm nhiệm. Dù vậy, Corning vẫn duy trì nhà máy ở Trung Quốc và Ấn Độ, cho thấy mạng lưới sản xuất toàn cầu của Apple vẫn rất rộng mở.
+
+Phần quan trọng hơn của màn hình, bao gồm tấm nền OLED giúp tiết kiệm pin và lớp cảm ứng đa điểm cho phép tương tác trên màn hình, chủ yếu do Samsung sản xuất tại Hàn Quốc.
+
+Riêng phần khung kim loại được gia công từ một khối nhôm nguyên khối bằng máy CNC (máy điều khiển số bằng máy tính) có độ chính xác rất cao. Theo chuyên gia Wayne Lam từ TechInsights, các nhà cung cấp của Apple tại Trung Quốc đã dành nhiều năm để xây dựng hệ thống sản xuất hàng loạt với “đội quân” máy CNC khổng lồ. Thế nên, đây là điều gần như không thể sao chép ở nơi khác.
+
+Trong khi đó, những chiếc vít siêu nhỏ trên iPhone được làm từ nhiều loại vật liệu khác nhau, tùy theo chức năng cụ thể, và có đủ dạng đầu: từ đầu chữ thập, đầu dẹp cho đến loại ba cạnh hay năm cạnh.
+
+Đáng nói là, quy trình lắp ráp những con vít này tưởng chừng đơn giản, lại phản ánh rõ thách thức mà Apple sẽ đối mặt nếu chuyển toàn bộ dây chuyền sản xuất về Mỹ.
+
+Khác với nhiều hãng điện thoại, Apple không sử dụng keo để cố định các bộ phận mà dùng vít để tăng độ bền và khả năng sửa chữa. Theo các chuyên gia, hiện nay việc thuê nhân công tại nhà máy Foxconn để siết từng chiếc vít vẫn rẻ hơn rất nhiều so với đầu tư vào robot tự động.
+
+Tại Mỹ, khó có thể tìm được lực lượng lao động sẵn sàng làm các công việc lặp đi lặp lại với mức lương vừa phải để duy trì lợi nhuận cho Apple. Do đó, sản xuất tại Mỹ sẽ cần đến một mức độ tự động hóa rất cao. Nhưng đáng tiếc là công nghệ đó hiện vẫn chưa đủ hoàn thiện để thay thế con người hoàn toàn.
+
+Giáo sư Andy Tsay nhận định: “Tưởng tượng một nhà máy sản xuất iPhone ở Mỹ sẽ trông như thế nào. Nó chắc chắn không thể giống những tổ hợp nhà máy ở Trung Quốc, nơi có tới 300.000 công nhân sống tại chỗ với ký túc xá, nhà ăn và phòng tập thể dục. Ở Mỹ, quy mô lao động sẽ nhỏ hơn nhiều, và phải phụ thuộc phần lớn vào máy móc. Điều này khiến chi phí đầu tư và vận hành trở thành bài toán lớn”.
+
+Không chỉ có lao động và công nghệ, nguồn nguyên liệu cũng là một vấn đề nan giải. Ngành công nghệ nói chung và Apple nói riêng phụ thuộc rất nhiều vào các kim loại đất hiếm để sản xuất pin, chip và màn hình. Ví dụ, Lanthanum được dùng trong pin iPhone để kéo dài tuổi thọ, còn Dysprosium góp phần tạo nên độ rung và màu sắc rực rỡ cho màn hình.
+
+Đáng nói là phần lớn các kim loại này đều do Trung Quốc khai thác và tinh chế. Theo Cơ quan Khảo sát Địa chất Hoa Kỳ, khoảng 70% nguồn cung đất hiếm và hợp chất liên quan mà Mỹ nhập khẩu đến từ Trung Quốc – bao gồm cả những nguyên liệu Apple đang sử dụng.
+
+Trong bối cảnh căng thẳng thương mại Mỹ - Trung, Apple cũng không thể không từng bước dịch chuyển sản xuất khỏi Trung Quốc. Và Ấn Độ đang nổi lên như mắt xích then chốt trong chiến lược này. Apple dự định chuyển toàn bộ hoạt động lắp ráp iPhone bán tại Mỹ sang Ấn Độ ngay trong năm tới, dự kiến giúp sản lượng smartphone tại đây tăng gấp đôi.
+
+Theo Neil Shah, đồng sáng lập Counterpoint Research, những quốc gia được Apple lựa chọn đều có lợi thế về vị trí địa lý, chính sách ưu đãi, chi phí hợp lý và nhu cầu tiêu thụ lớn. Ấn Độ không chỉ đáp ứng các tiêu chí đó, mà còn sở hữu lực lượng kỹ sư phần mềm giỏi tiếng Anh và thị trường điện thoại thông minh lớn thứ hai thế giới, với tiềm năng vượt lên vị trí số một. Năm ngoái, khoảng 16% lượng iPhone toàn cầu được lắp ráp tại Ấn Độ và con số này dự báo sẽ tăng lên 20% trong năm nay.
+
+Ngoài Ấn Độ, Brazil cũng được xem là phương án tiềm năng nếu Mỹ áp thêm 26% thuế quan đối với Ấn Độ. Với chi phí lao động cạnh tranh và thị trường nội địa lớn hơn Việt Nam, Brazil có thể trở thành điểm trung chuyển hàng hóa thuận lợi tới Mỹ Latinh, Canada, Tây Âu và Mỹ.
+
+Tuy nhiên, vẫn có những gián đoạn tiềm tàng khác. Đáp lại động thái của Mỹ, Trung Quốc cũng cảnh báo họ sẽ trả đũa bất kỳ quốc gia nào có ý định cô lập thương mại với nước này. Các chuyên gia cảnh báo nếu căng thẳng thương mại Mỹ Trung gia tăng, không loại trừ khả năng chuỗi cung ứng của Apple cũng sẽ bị ảnh hưởng.
+
+Giáo sư Andy Tsay nhận định đây là thời điểm quan trọng đối với Apple, vì sự phụ thuộc của họ vào Trung Quốc – vừa là nhà cung cấp, vừa là thị trường tiêu thụ lớn. Ông cũng lo ngại liệu Trung Quốc có dễ dàng để Apple rời đi? Vì Trung Quốc vốn cũng rất cần Apple.

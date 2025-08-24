@@ -1,0 +1,11 @@
+Omni-Chain được hiểu là nền tảng các chuỗi cung ứng có khả năng chủ động đánh giá nhu cầu của khách hàng, cân đối sản phẩm trong kho để tự động lập kế hoạch đầu cuối End to End. Lợi ích của công nghệ này là làm gia tăng doanh số bán hàng, cung cấp trải nghiệm nhất quán, cá nhân hóa cho từng khách hàng. Ứng dụng phổ biến nhất của Omni-Chain là trong lĩnh vực sáng tạo và giao dịch các tài sản số.
+
+Còn NFT là những tài sản số được mã hóa bằng công nghệ Blockchain, dùng để xác thực quyền sở hữu mang tính độc nhất, không thể phá hủy. Để phát triển, đưa các NFT đến đúng tệp người dùng quan tâm, triển khai quá trình giao dịch nhanh chóng thì công nghệ Omni-Chain có thể hỗ trợ đắc lực.
+
+OpenLive NFT là nền tảng giao dịch phi tập trung NFT đầu tiên tại Việt Nam ứng dụng công nghệ Omni-Chain. Nhờ có Omni-Chain, việc sáng tạo NFT được mở rộng không giới hạn với nhiều loại tài sản số khác nhau. Quy trình được thiết lập tự động, làm gia tăng tỉ lệ “chốt đơn”, đảm bảo tính minh bạch, an toàn tuyệt đối.
+
+Bên cạnh đó, OpenLive NFT được tích hợp thêm nhiều tính năng hỗ trợ khác như: NFT Launchpad hỗ trợ Startup gọi vốn, đấu giá làm tăng giá trị NFT, giao diện thân thiện, tương thích với tất cả thiết bị điện tử.
+
+* Thông tin chi tiết:
+
+Website: https://openlivenft.com/

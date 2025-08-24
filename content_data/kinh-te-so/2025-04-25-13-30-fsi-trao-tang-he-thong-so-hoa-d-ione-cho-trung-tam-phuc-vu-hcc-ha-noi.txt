@@ -1,0 +1,41 @@
+Dữ liệu trong các cơ quan công quyền được coi là tài sản quốc gia, nhưng trong hàng chục năm qua, “tài sản” này vẫn được lưu trữ trong các tủ, các kho hồ sơ, gây nên tình trạng tồn đọng, phân tán, khó quản lý - thậm chí là xuống cấp, mục nát - và gây áp lực lớn lên bộ máy hành chính công.
+
+NÂNG CAO CHẤT LƯỢNG DỊCH VỤ CÔNG VỚI CÔNG NGHỆ SỐ HÓA
+
+Nhằm hiện đại hóa và nâng cao hiệu quả trong công tác giải quyết thủ tục hành chính (TTHC), UBND Hà Nội đã ban hành Kế hoạch số 74/KH-UBND về nâng cao chất lượng cung cấp dịch vụ công trực tuyến toàn trình; cung cấp dịch vụ số mới được cá nhân hóa, dựa trên dữ liệu cho người dân và doanh nghiệp; cung cấp dịch vụ công không phụ thuộc địa giới hành chính.
+
+Trong bối cảnh đó, việc Công ty Cổ phần Đầu tư thương mại và phát triển công nghệ FSI trao tặng Hệ thống số hóa D-IONE cho Trung tâm phục vụ hành chính công  Hà Nội được xem là một hoạt động thiết thực nhằm đẩy nhanh quá trình số hóa các văn bản - tài liệu của Thủ đô, từ đó góp phần tích cực vào việc khai thác, sử dụng các dữ liệu một cách chính xác, hiệu quả trong hoạt động hành chính công.
+
+D-IONE là hệ thống số hóa tài liệu toàn trình: từ upload file, biên mục hồ sơ, nhập liệu đến lưu kho tài liệu…, có thể hỗ trợ tích cực cho quá trình số hóa các tài liệu, văn bản cũng như phân loại, trích xuất và sử dụng, phục vụ hệ thống dịch vụ công Hà Nội.
+
+Hệ thống này sử dụng công nghệ OCR (nhận dạng ký tự quang học) và các công nghệ trí tuệ nhân tạo (AI) như: học máy (Machine Learning), học sâu (Deep Learning)… để tự động hóa trích xuất dữ liệu, nhận dạng chữ in và chữ viết tay tiếng Việt với độ chính xác tới 99%, giúp tạo dựng các cơ sở dữ liệu dùng chung cho các cơ quan, tổ chức một cách nhanh chóng, chính xác.
+
+D-IONE được phát triển dựa trên kinh nghiệm nhiều năm triển khai số hóa tài liệu cho các địa phương và cơ quan nhà nước của FSI. Qua đó, trực tiếp hỗ trợ chuyển đổi số cho các cơ quan, tổ chức cũng như góp phần xây dựng cơ sở dữ liệu lớn (Big Data) phục vụ chuyển đổi số quốc gia.
+
+Ở góc độ rộng hơn, các dữ liệu đã - đang và sẽ được số hóa bằng hệ thống số hóa D-IONE cũng sẽ là những “nguyên liệu” đúng - sạch – sống triển khai các dịch vụ công điện tử, chính phủ điện tử (dữ liệu dân cư, hộ tịch, tài liệu pháp lý...).
+
+Chia sẻ niềm tự hào về sản phẩm cũng như tâm huyết mà FSI muốn đóng góp vào quá trình chuyển đổi số của Thủ đô, ông Đoàn Huy Thuận - Tổng giám đốc Công ty Cổ phần Đầu tư thương mại và phát triển công nghệ FSI - cho biết: “Chúng tôi luôn tin rằng, hành trình số hóa cần có sự bắt đầu cụ thể, thiết thực và có sự chung tay góp sức của người dân và doanh nghiệp. Vì thế, FSI không chỉ cung cấp dịch vụ như một doanh nghiệp trong thị trường, mà chủ động mang tới hệ thống số hóa D-IONE như một sự đóng góp cho tiến trình chuyển đổi số của thành phố”.
+
+GIẢM THỜI GIAN, CÔNG SỨC - TĂNG HIỆU QUẢ, MINH BẠCH
+
+Hệ thống số hóa D-IONE hỗ trợ Trung tâm Phục vụ Hành chính Công thành phố Hà Nội trong việc số hóa tài liệu, chuẩn hóa và xây dựng cơ sở dữ liệu điện tử, phục vụ công tác lưu trữ, quản lý và tra cứu thông tin một cách khoa học, hiệu quả, giảm tải công việc thủ công.
+
+Bằng cách chuyển đổi từ quy trình thủ công sang quy trình tự động, hệ thống số hóa D-IONE giúp tiết kiệm thời gian và giảm thiểu sự chậm trễ trong xử lý hồ sơ, mang đến dịch vụ nhanh chóng, chính xác.
+
+Cùng đó, hệ thống số hoá D-IONE giúp mọi tài liệu và hồ sơ hành chính được quản lý trực tuyến, giúp chính quyền và người dân có thể theo dõi tiến trình xử lý hồ sơ một cách minh bạch và dễ dàng, tránh thất lạc hay thủ tục rườm rà…
+
+Với việc đảm bảo bảo mật tuyệt đối cho tất cả các tài liệu hành chính, D-IONE giúp chính quyền lưu trữ và xử lý dữ liệu một cách an toàn và chính xác, tránh được các rủi ro về mất mát thông tin. Các quy trình xử lý hồ sơ đều được mã hóa và bảo vệ để tránh mọi truy cập trái phép.
+
+Qua đó, góp phần nâng cao năng suất làm việc, tiết kiệm chi phí và thời gian trong công tác hành chính, đồng thời cải thiện chất lượng phục vụ hành chính công.
+
+Với việc tiếp nhận, triển khai và vận hành hệ thống số hóa D-IONE, Trung tâm Phục vụ hành chính công Thành phố Hà Nội sẽ có thêm công cụ đắc lực để hỗ trợ số hoá tài liệu đầu vào cũng như dễ dàng tích hợp vào các dịch vụ công một cách tiện lợi, nhanh chóng, hiệu quả, góp phần nâng cao chất lượng cung cấp dịch vụ công trực tuyến và sớm “về đích” với những mục tiêu đặt ra.
+
+FSI cam kết đồng hành lâu dài cùng Hà Nội trong hành trình chuyển đổi số, không chỉ là đối tác công nghệ mà còn là người bạn hỗ trợ bền vững.
+
+Chúng tôi hiểu rằng chuyển đổi số là một quá trình lâu dài, vì vậy FSI sẽ tiếp tục hỗ trợ, giúp Hà Nội tận dụng tối đa tiềm năng của D-IONE, xây dựng một môi trường chính quyền số minh bạch và hiệu quả. Đồng hành cùng Hà Nội, chúng tôi sẽ góp phần tạo dựng nền tảng dữ liệu quốc gia vững mạnh, đưa thành phố tiến lên một bước phát triển mới.
+
+Công ty Cổ phần Đầu tư Thương mại và Phát triển Công nghệ FSI
+
+Top 10 nhà cung cấp giải pháp chuyển đổi số hàng đầu Việt Nam. FSI tiên phong nghiên cứu, phát triển và cung cấp các giải pháp công nghệ số hiện đại ứng dụng trí thông minh nhân tạo (AI) giúp xây dựng và khai phá dữ liệu số của các cơ quan tổ chức, doanh nghiệp hiệu quả.
+
+Website: www.fsivietnam.com.vn

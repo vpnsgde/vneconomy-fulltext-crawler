@@ -1,0 +1,37 @@
+Nếu như năm 2021, Việt Nam ghi nhận chỉ có khoảng 60 công ty khởi nghiệp (startup) hoạt động trong lĩnh vực AI, thì đến năm 2024 con số này đã tăng lên khoảng 300 công ty,  tức là gấp khoảng 4,5 lần chỉ sau 3 năm. Kết quả này đã giúp Việt Nam đứng thứ  hai về số lượng startup AI ở Đông Nam Á. Cùng với số lượng startup gia tăng là sự ra đời của nhiều giải pháp AI “Made in Vietnam”, từng bước được ứng dụng thực tiễn trong các lĩnh vực như y tế, giáo dục, công nghiệp, nông nghiệp…
+
+Mấy năm gần đây, nhiều báo cáo từ các tổ chức trong nước và quốc tế đã chỉ ra rằng nhu cầu ứng dụng AI tại Việt Nam hiện đang rất lớn. Điều này có được bởi sự cộng hưởng từ nỗ lực chuyển đổi số của Chính phủ, nhu cầu tăng cường ứng dụng công nghệ trong doanh nghiệp và thói quen sử dụng AI ngày càng phổ biến của mỗi cá nhân.
+
+Việt Nam đặt mục tiêu đến năm 2030 sẽ hình thành một nền kinh tế số chiếm ít nhất 30% GDP. Trong lộ trình này, AI đóng vai trò là công nghệ chiến lược, hỗ trợ tự động hóa quy trình, nâng cao năng suất lao động và cải thiện chất lượng dịch vụ công cũng như dịch vụ doanh nghiệp.
+
+Các chuyên gia từ Google đưa ra dự báo AI sẽ là chìa khóa để đạt được mục tiêu của Việt Nam về nền kinh tế số đóng góp 30% GDP vào năm 2030, tăng từ khoảng 12% năm 2023. Nếu khai thác đầy đủ, AI có tiềm năng giúp Việt Nam thực hiện tham vọng phát triển kinh tế nhanh chóng và mục tiêu trở thành quốc gia phát triển có thu nhập cao vào năm 2045.
+
+Một cuộc khảo sát của nhóm nhà khoa học Trường Đại học Thương mại đã chỉ ra rằng có tới 80% doanh nghiệp Việt Nam đã sử dụng AI trong năm 2024. Con số này đã vượt qua mức trung bình của khu vực là 69%. Nhiều tổ chức và doanh nghiệp tại Việt Nam đã mạnh tay đầu tư vào AI để không tụt lại phía sau trong cuộc đua số hóa. Chỉ tính riêng năm 2023, tổng số tiền các doanh nghiệp tư nhân đầu tư vào AI tạo sinh lên tới 25,23 tỷ USD, tăng gần 9 lần so với trước đó một năm, theo số liệu báo cáo cập nhật tới quý 1/2024 của McKinsey về doanh nghiệp Việt Nam.
+
+Không chỉ các tổ chức, người dùng Việt Nam cũng đang chủ động thích nghi với làn sóng công nghệ mới. Theo khảo sát của Microsoft, 88% lao động tri thức ở Việt Nam đã sử dụng AI tạo sinh. Tỷ lệ này cao hơn đáng kể so với mức trung bình toàn cầu là 75%.
+
+GS. Vũ Hà Văn, tại một sự kiện về trí tuệ nhân tạo, đã nói: “Việt Nam đang đứng trước cơ hội bứt phá lớn, không nên là người dùng cuối của công nghệ nước ngoài mà nên tự tạo công nghệ cho chúng ta, công nghệ Việt cho người Việt”.
+
+Nắm bắt xu thế đó, các tập đoàn công nghệ lớn như Viettel, FPT, CMC, VNPT hay Vingroup đang tăng tốc đầu tư vào AI. Các tập đoàn đầu ngành không chỉ xây dựng hạ tầng như các trung tâm nghiên cứu, trung tâm dữ liệu, công nghệ siêu máy tính,... mà còn phát triển các sản phẩm AI phục vụ cho Chính phủ, doanh nghiệp và cộng đồng. Đáng chú ý, hiệu quả sau ứng dụng các sáng kiến AI nội địa đều có thể lượng hóa rõ ràng.
+
+Trong lĩnh vực pháp lý, Trợ lý ảo pháp lý của Viettel đang giúp thẩm phán và công chức tiết kiệm 30% khối lượng công việc thông qua khả năng truy cập nhanh tài liệu, vụ án, tiền lệ. Trong lĩnh vực y tế, VinDr - ứng dụng AI do Viện Dữ liệu lớn Vingroup phát triển - đã hỗ trợ bác sĩ chẩn đoán tổn thương ở phổi, gan, vú, cột sống với độ chính xác trên 90% chỉ trong vài giây…
+
+Không dừng lại ở thị trường trong nước, các sản phẩm AI “Made in Vietnam” cũng đang tìm kiếm cơ hội bên ngoài thế giới. Trong khi VinAI, FPT liên tục hợp tác với các công ty công nghệ quốc tế xây dựng các giải pháp AI, Trusting Social, một startup trong lĩnh vực AI tài chính, hiện đã cung cấp dịch vụ cho 85 ngân hàng, công ty tài chính và nhà mạng tại Ấn Độ, Indonesia, Philippines và Việt Nam. Với định giá xấp xỉ 500 triệu USD, đây được xem là một “kỳ lân” tiềm năng của làn sóng Fintech AI Đông Nam Á.
+
+Các ví dụ trên chỉ là bề nổi của sự phát triển nhanh chóng của hệ sinh thái AI Việt Nam, và nỗ lực ghi tên “AI Việt” trên bản đồ công nghệ toàn cầu. TS. Vương Bá Quý, cựu Quản lý công nghệ và sản phẩm tại Meta và Google, hiện là nhà sáng lập kiêm Chủ tịch của Innosearch AI, cho rằng nhiều sản phẩm AI của Việt Nam hiện đủ sức cạnh tranh với thế giới. Dù vậy, không ít doanh nghiệp vẫn e ngại về năng lực mà giới hạn mình trong thị trường nội địa. “Đừng lo lắng nếu vươn ra các thị trường rộng lớn hơn như Mỹ, châu Âu thì mình sẽ không cạnh tranh được, cứ suy nghĩ thật lớn và suy nghĩ thật rộng, luôn có cơ hội cho chúng ta”, TS. Vương Bá Quý nhấn mạnh.
+
+Năm 2021, Việt Nam ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo đến năm 2030. Mục tiêu không chỉ trở thành trung tâm AI của ASEAN, mà còn từng bước đưa Việt Nam xuất hiện trên bản đồ AI toàn cầu. Các mục tiêu trên đang từng bước được hiện thực hóa bằng hàng loạt quyết sách mang tính mở đường: từ thúc đẩy khởi nghiệp, xây dựng hạ tầng số, đến kiến tạo thị trường tiêu thụ AI.
+
+Quy hoạch thông tin và truyền thông giai đoạn 2021-2030, tầm nhìn 2050 đã vạch ra lộ trình để Việt Nam hình thành hạ tầng tương xứng cho việc phát triển và vận hành AI, bao gồm Internet tốc độ cao, xây dựng trung tâm dữ liệu xanh, công viên công nghệ và các trung tâm đổi mới sáng tạo. Hiện cả nước có hơn 27 trung tâm dữ liệu do 11 doanh nghiệp Việt đầu tư, sở hữu khoảng 270.000 máy chủ – bước đi nhằm giảm phụ thuộc vào hạ tầng đám mây nước ngoài và tiến tới làm chủ công nghệ lõi.
+
+Đối với nguyên liệu đầu vào cho AI, Việt Nam đang xây dựng hệ thống dữ liệu quốc gia, kho dữ liệu mở (Open Data), cùng các bộ dữ liệu tiếng Việt quy mô lớn, chất lượng cao và mã nguồn mở, như VIGEN, nhằm bảo đảm sự phát triển AI gắn với đặc thù ngôn ngữ, văn hóa và giá trị đạo đức bản địa.
+
+Để nuôi dưỡng năng lực nội sinh, Chính phủ thông qua Trung tâm Đổi mới sáng tạo quốc gia (NIC) đang kiến tạo hệ sinh thái toàn diện cho AI, từ đào tạo nhân lực, ươm tạo doanh nghiệp đến hỗ trợ nghiên cứu và thương mại hóa sản phẩm. Mục tiêu đến năm 2030, Việt Nam sẽ có 7.000 chuyên gia AI đạt chuẩn quốc tế và khoảng 500 startup AI mang thương hiệu Việt.
+
+Ông Trương Gia Bình, Chủ tịch Hội đồng Quản trị Tập đoàn FPT, cho rằng để Việt Nam trở thành trung tâm AI, bán dẫn của khu vực, Việt Nam sẽ cần khoảng 3-5% dân số làm trong lĩnh vực AI. Điều này có nghĩa thị trường sẽ cần khoảng 3 triệu kỹ sư công nghệ trong 10 năm tới.
+
+Mặc dù được biết đến là thị trường dồi dào về nhân lực công nghệ nhưng thực tế Việt Nam cũng đang phải đối mặt với tình trạng thiếu hụt chuyên gia AI. Theo một báo cáo của TopDev, trong năm 2025, ngành công nghệ thông tin cần khoảng 700.000 nhân lực mới. Tuy nhiên, nguồn cung hiện tại từ các cơ sở đào tạo trong nước chỉ đáp ứng khoảng 500.000 người. Riêng trong lĩnh vực AI, theo PGS.TS. Lê Bộ Lĩnh, Viện Nghiên cứu Pháp luật và Xã hội, nguyên Phó Chủ nhiệm Ủy ban Khoa học, Công nghệ và Môi trường của Quốc hội, cho rằng nguồn nhân lực cho AI vẫn còn khan hiếm, điều này đặt ra yêu cầu cấp bách về việc nâng cao chất lượng đào tạo, hợp tác quốc tế để nâng cao năng lực cho nguồn nhân lực…
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 22-2025 phát hành ngày 2/6/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

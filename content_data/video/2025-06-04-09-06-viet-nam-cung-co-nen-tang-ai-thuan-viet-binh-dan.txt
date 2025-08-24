@@ -1,0 +1,31 @@
+
+
+Lễ ra mắt Marcom-AI Platform - nền tảng công nghệ thúc đẩy lĩnh vực truyền thông và công bố thành lập Liên minh Dữ liệu và Trí tuệ nhân tạo (D.A Alliance) của Tạp chí Kinh tế Việt Nam/VnEconomy, vừa diễn ra ngày 2/6, đã quy tụ nhiều lãnh đạo, chuyên gia trong lĩnh vực AI và báo chí.
+
+Tham dự và phát biểu tại lễ công bố, ông Phùng Việt Thắng, Giám đốc Quốc gia Việt Nam, Tập đoàn Intel, đánh giá cao những nỗ lực chuyển mình của Tạp chí Kinh tế Việt Nam/VnEconomy trong thời đại mới, nhất là với đột phá nền tảng AI Askonomy.
+
+Theo ông Phùng Việt Thắng, thời gian qua đã nói rất nhiều về trí tuệ nhân tạo (AI). Nhưng trong dòng chảy thông tin và thảo luận ấy, điều thường xuyên xuất hiện không phải là niềm hứng khởi trước giá trị mà công nghệ có thể đem lại, mà nỗi lo liệu con người có còn làm chủ được AI, hay sẽ bị chính công nghệ mình tạo ra vượt mặt.
+
+“Nỗi lo đó không mới. Lịch sử nhân loại đã nhiều lần đối diện với bước ngoặt công nghệ làm thay đổi mọi quy chuẩn cũ. Nhưng thay vì chỉ coi đó là thách thức, tôi tin rằng chúng ta đang đứng trước một cơ hội lớn – một cơ hội để biến công nghệ thành công cụ phục vụ cho đời sống và công việc hằng ngày”, đại diện Intel nhấn mạnh.
+
+Với tinh thần đó, ông Thắng chỉ ra những nguyên nhân lý giải vì sao Askonomy – nền tảng của sự hợp tác chiến lược giữa Tạp chí Kinh tế Việt Nam/VnEconomy và các đối tác công nghệ hàng đầu, lại mang tiềm năng đặc biệt cả về ứng dụng lẫn tầm ảnh hưởng.
+
+Thứ nhất,AI hiện nay không còn là cuộc chơi của riêng các tập đoàn lớn. Trước đây, muốn tận dụng AI, người ta cần có tiềm lực tài chính mạnh, đội ngũ kỹ thuật tinh anh, và khả năng làm chủ hạ tầng công nghệ cao cấp. Nhưng hiện nay, với sự phát triển của mã nguồn mở và các mô hình như DeepSeek, AI đã trở nên “dân chủ” hơn bao giờ hết. Bất kỳ cá nhân hay tổ chức nào – nếu có năng lực và định hướng đúng – đều có thể tiếp cận, khai thác và tạo ra giá trị từ AI. Đây là một minh chứng rằng AI đang ngày càng trở nên dễ tiếp cận và công bằng hơn.
+
+Thứ hai,doanh nghiệp cần AI và dữ liệu là yếu tố sống còn. Trong môi trường doanh nghiệp, AI không chỉ đơn giản là một công cụ xử lý thông tin. Đó là một hệ thống thông minh, cần được nuôi dưỡng bằng dữ liệu chất lượng: đúng – đủ – sạch – sống – và đặc biệt là bảo mật, đáng tin cậy.
+
+Doanh nghiệp chính là nơi lý tưởng để xây dựng những kho dữ liệu như vậy. Ở đó, dữ liệu không chỉ đầy đủ mà còn được kiểm chứng trong quá trình vận hành. Đặc biệt với ngành truyền thông, nơi thông tin cần được xử lý nhanh, chính xác và có độ tin cậy cao, việc ứng dụng AI trên nền tảng dữ liệu nội bộ sẽ tạo nên bước đột phá trong hiệu quả tác nghiệp.
+
+Thứ ba,AI phải phục vụ được tất cả mọi người. Chúng ta sẽ không thể gọi một công nghệ là “thành công” nếu nó chỉ phục vụ một nhóm người. AI chỉ thực sự phát triển trở thành một phần tự nhiên trong công việc và cuộc sống hàng ngày.
+
+Tất cả những lợi ích này đang hội tụ trong Askonomy. Điểm đặc biệt khác là Askonomy không phải là một sản phẩm mà là một nền tảng, nơi mỗi tổ chức có thể đưa dữ liệu của riêng mình vào, truy vấn theo cách của mình, và nhận lại những kết quả chính xác, phù hợp với chính nhu cầu của mình.
+
+
+
+Marcom-AI Platformlà hệ sinh thái công nghệ toàn diện, được kiến tạo dựa trên sự hợp tác chiến lược giữa Tạp chí Kinh tế Việt Nam/ VnEconomy cùng các đối tác công nghệ hàng đầu là Hemera, Actable AI Việt Nam. Hệ sinh thái này bao gồm:
+
+Nền tảng CMS thế hệ mới:Được phát triển bởi đối tác công nghệ Hemera, đây là "chìa khóa" giúp VnEconomy quản lý nội dung linh hoạt, hiệu quả, tối ưu hóa giao diện và sẵn sàng cho việc tích hợp AI. Nền tảng này không chỉ giải quyết những hạn chế của các hệ thống CMS truyền thống mà còn mang đến sự linh hoạt, mạnh mẽ và khả năng mở rộng vượt trội cho các cơ quan báo chí và tổ chức.
+
+Nền tảng công cụ trí tuệ nhân tạo ưu việt cho lĩnh vực báo chí, truyền thông - Asko Platform:Được phát triển bởi đối tác công nghệActable AI Việt Namvà thiết kế chuyên biệt cho ngành truyền thông, các mô hình lõi AI này là "trợ thủ đắc lực" giúp doanh nghiệp và tổ chức tối ưu hóa mọi hoạt động, bao gồm:
+
+Askonomy Smartchat- Trợ lý thông tin kinh tế;Asko Brief- Trợ lý tóm tắt thông tin kinh tế;AskoVerse- Công cụ dịch thuật thông tin kinh tế;AskoVocal- Công cụ chuyển đổi văn bản thành giọng nói linh hoạt;Asko Vocal Premium- Công cụ tạo giọng nói độc quyền.

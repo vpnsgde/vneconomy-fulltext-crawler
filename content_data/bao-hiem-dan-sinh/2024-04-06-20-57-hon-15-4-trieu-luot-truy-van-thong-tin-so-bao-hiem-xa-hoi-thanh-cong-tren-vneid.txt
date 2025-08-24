@@ -1,0 +1,23 @@
+Bảo hiểm xã hội Việt Nam cho biết đã và đang tích cực phối hợp với các Bộ, ngành, địa phương trong việc kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia về bảo hiểm, với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành khác, để làm giàu các cơ sở dữ liệu. Từ đó, phục vụ quản lý nhà nước và cung cấp dịch vụ công trực tuyến.
+
+Cụ thể, thời gian qua, Bảo hiểm xã hội Việt Nam đã phối hợp với Bộ Công an kết nối chia sẻ, xác thực, đồng bộ thông tin liên quan đến bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp với cơ sở dữ liệu quốc gia về dân cư.
+
+Đến nay, Hệ thống của Bảo hiểm xã hội Việt Nam đã xác thực hơn 96 triệu thông tin nhân khẩu trong cơ sử dữ liệu do Bảo hiểm xã hội Việt Nam quản lý, trong đó có khoảng 87,75 triệu người đang tham gia, thụ hưởng đến bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, chiếm 97,3% tổng số người tham gia (không bao gồm lực lượng vũ trang, thân nhân quân đội) với cơ sở dữ liệu quốc gia về dân cư.
+
+Đồng thời, phối hợp tích hợp thông tin sổ bảo hiểm xã hội trên ứng dụng VneID (ứng dụng định danh điện tử). Tính đến nay, đã có hơn 15,4 triệu lượt truy vấn thông tin sổ bảo hiểm xã hội thành công để tích hợp lên ứng dụng VNeID.
+
+Cùng với đó, cơ quan Bảo hiểm xã hội đã hoàn thành việc bóc tách, xử lý dữ liệu của các gói tin từ Tổng cục Thuế chuyển sang; thực hiện phân tích, đối chiếu với dữ liệu của ngành Bảo hiểm xã hội để lên biểu mẫu gửi Bảo hiểm xã hội tỉnh, thành phố khai thác.
+
+Trong lĩnh vực lao động, Bảo hiểm xã hội Việt Nam cũng cung cấp tiện ích tra cứu cho cán bộ thuộc các Trung tâm Dịch vụ việc làm trên cả nước, để tra cứu các thông tin của người lao động tham gia bảo hiểm xã hội.
+
+Đơn cử như: Trạng thái tại thời điểm tra cứu; trạng thái hưởng chế độ bảo hiểm xã hội; tháng dừng đóng gần nhất; tổng thời gian tham gia bảo hiểm xã hội chưa hưởng; lương bình quân 6 tháng cuối của lần chốt sổ cuối cùng trong quá trình giải quyết trợ cấp bảo hiểm thất nghiệp.
+
+Ngoài ra, phối hợp tích hợp, cung cấp dịch vụ công giải quyết hưởng trợ cấp thất nghiệp trên Cổng Dịch vụ công quốc gia.
+
+Đến nay, Bảo hiểm xã hội Việt Nam đã tiếp nhận từ Cổng Dịch vụ công quốc gia để xác nhận, và trả quá trình đóng bảo hiểm thất nghiệp cho 379.617 trường hợp, phục vụ giải quyết hưởng trợ cấp thất nghiệp cho người lao động.
+
+Bên cạnh đó, hiện toàn ngành Bảo hiểm xã hội Việt Nam đã phê duyệt khoảng 35 triệu tài khoản giao dịch điện tử cá nhân, dùng để đăng nhập và sử dụng Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam và ứng dụng VssID – Bảo hiểm xã hội số.
+
+Đồng thời, đã phối hợp với Cục Cảnh sát Quản lý hành chính về trật tự xãhội (Cục C06) - Bộ Công an thực hiện điều chỉnh, nâng cấp ứng dụng VssID đáp ứng yêu cầu kết nối, tích hợp tài khoản định danh điện tử, với ứng dụng VssID (đăng nhập ứng dụng VssID bằng tài khoản VNeID).
+
+Đến nay, đã có hơn 7,5 triệu lượt sử dụng tài khoản VNeID để đăng nhập ứng dụng VssID.

@@ -1,0 +1,65 @@
+Chuyên gia công nghệ Moin Roberts-Islam, trong một bài viết trên Forbes, nhận định trong khi Thung lũng Silicon vẫn đang dẫn đầu cuộc đua AI, thì Trung Quốc cũng đang âm thầm vươn lên nhờ những hỗ trợ từ phía Nhà nước để biến AI thành một sản phẩm "bình dân" chất lượng cao. Đáng tiếc là châu Âu lại có nguy cơ bị bỏ lại phía sau trong cuộc cạnh tranh, theo một cảnh báo từ Tòa án Kiểm toán Châu Âu.
+
+Trung Quốc đang bắt đầu khẳng định sức mạnh công nghệ qua những mô hình AI đủ sức cạnh tranh toàn cầu, điển hình như Hunyuan-Large của Tencent, một mô hình ngôn ngữ cực lớn với 389 tỷ tham số (tạm hiểu là những “nút thần kinh” giúp máy học hỏi như cách não người ghi nhớ).
+
+Trong bài kiểm tra MMLU, được ví như "bài thi IQ" dành cho AI với 57 lĩnh vực kiến thức, Hunyuan đã đạt độ chính xác tới 90,8%, vượt qua cả Llama3 của Meta (88,5%).
+
+Một ví dụ khác là Qwen 2.5 của Alibaba cũng đang ngang ngửa GPT-4 của OpenAI trong các tác vụ lập trình. Trong khi R1 của DeepSeek đạt chất lượng tương đương với các mô hình hàng đầu của Mỹ, nhưng chi phí huấn luyện chỉ bằng 1% đến 3%.
+
+Ông Kai-Fu Lee, CEO của Sinovation Ventures đồng thời cũng là cựu lãnh đạo Google Trung Quốc, nhận định: “Nhờ nguồn dữ liệu lớn, sự hỗ trợ từ chính phủ và tinh thần khởi nghiệp mạnh mẽ, Trung Quốc đã chuyển mình từ người đi sau thành người sáng tạo thực sự”.
+
+Theo CEO Kai-Fu Lee, việc Trung Quốc chú trọng phát triển các mô hình AI với chi phí thấp có thể giúp công nghệ này có thể giúp phổ cập AI trên quy mô toàn cầu, thay vì để nó chỉ mãi là cuộc chơi của những tập đoàn lớn.
+
+Tuy vậy, cũng cần lưu ý rằng dù Trung Quốc có dẫn đầu về số lượng ấn phẩm AI (23,2%) trên toàn cầu trong năm 2023, thì cho đến thời điểm hiện tại, Mỹ vẫn là nơi tập trung đông nhất các nhà nghiên cứu AI hàng đầu thế giới (57%).
+
+Hãy tưởng tượng một đội bóng mà huấn luyện viên không chỉ tuyển chọn cầu thủ, quyết định chiến thuật, mà còn không ngại hỗ trợ chi phí. Đó chính là cách Trung Quốc đang theo đuổi cuộc đua trí tuệ nhân tạo.
+
+Chính phủ Trung Quốc trao trọng trách cho các “ông lớn” công nghệ như Tencent và Alibaba, đồng thời cung cấp cho họ kho dữ liệu khổng lồ được tổng hợp từ AI để đào tạo các mô hình ngôn ngữ.
+
+Điển hình là Hunyuan-Large được huấn luyện trên hơn 1,5 nghìn tỷ token – một con số vượt xa hầu hết các bộ dữ liệu huấn luyện tại phương Tây.
+
+Nhìn vào thực tế này, Giáo sư Graham Allison của Đại học Harvard chỉ ra sự đối lập trong cách tiếp cận giữa Mỹ và Trung Quốc. Theo đó, Mỹ là cái nôi của những đột phá công nghệ, nhưng chính sự kỷ luật và tinh thần phối hợp của Trung Quốc lại giúp họ nhanh chóng đưa AI vào đời sống thực tế.
+
+Tuy nhiên, Trung Quốc không phải không gặp những rào cản. Các biện pháp kiểm soát xuất khẩu từ Mỹ đã khiến Trung Quốc không thể tiếp cận các con chip cao cấp như NVIDIA A100, buộc phải dựa vào chip nội địa như Ascend 910B do Huawei sản xuất – chậm hơn khoảng 20%. Sự chênh lệch này được nhiều người ví von như một cuộc đua giữa một chiếc xe gia đình và chiếc xe đua thể thao.
+
+Thế nhưng, các doanh nghiệp Trung Quốc cũng đang thích nghi với hoàn cảnh này. DeepSeek là một ví dụ điển hình. Mô hình R1 đã được họ khéo léo dùng thuật toán và tinh chỉnh phần mềm để bù đắp giới hạn phần cứng.
+
+Theo Báo cáo Chỉ số AI năm 2025 của Viện Trí tuệ nhân tạo lấy con người làm trung tâm (HAI), thuộc Đại học Stanford, riêng trong năm 2024, đầu tư tư nhân vào AI tại Mỹ đã đạt tới 109,1 tỷ USD—gấp 12 lần Trung Quốc và gấp 24 lần Vương quốc Anh.
+
+Nhờ nguồn vốn khổng lồ này, những dự án tưởng như chỉ có trong phim khoa học viễn tưởng, như GPT-4.0 có khả năng ghi nhớ đến 130.000 từ (tương đương nhớ được từng câu trong những tác phẩm văn học dài nhất thế giới), đã trở thành hiện thực.
+
+Tuy nhiên, sự phát triển của Mỹ không phải không có những rào cản. Martijn Rasser, chuyên gia thuộc Trung tâm An ninh Mỹ Mới, cho rằng hệ sinh thái AI của Mỹ đang bị phân mảnh, thiếu sự phối hợp tổng thể. Trong khi đó, Trung Quốc triển khai một mô hình điều phối tập trung, Nhà nước dẫn dắt, huy động tài nguyên theo các ưu tiên chiến lược rõ ràng.
+
+Trong khi đó, Châu Âu vẫn thường được nhắc đến như hình mẫu về đạo đức trong phát triển AI, nhưng lại chậm chân trong việc thương mại hóa. Đạo luật AI của Liên minh châu Âu đề cao tính minh bạch và an toàn, song theo Dịch vụ Nghiên cứu Nghị viện châu Âu (EPRS), khoảng cách đầu tư R&D giữa EU và Mỹ trung bình lên đến 22 tỷ euro mỗi năm trong 5 năm qua—một lỗ hổng lớn khiến tốc độ đổi mới bị ghìm lại.
+
+DeepSeek đã làm dậy sóng thị trường công nghệ đầu năm nay sau khi tung ra R1, một mô hình AI cho phép truy cập API với mức phí chỉ 0,55 USD cho một triệu mã thông báo đầu vào và 2,19 USD cho một triệu mã thông báo đầu ra. Với mức giá này, R1 trở thành một trong những mô hình hiệu suất cao với giá thành hợp lý nhất hiện nay.
+
+Để đối chiếu, mô hình 01 của OpenAI có giá 15 USD cho một triệu mã thông báo đầu vào và 60 USD cho một triệu mã thông báo đầu ra, trong khi GPT-4.0 hiện nay có mức phí 5 USD cho một triệu mã thông báo đầu vào và 15 USD cho một triệu mã thông báo đầu ra, tùy thuộc vào trường hợp sử dụng và độ dài ngữ cảnh.
+
+Sự chênh lệch về mức giá đã tạo ra một cuộc đua gay gắt trong ngành công nghiệp AI. Mới đây, Baidu đã giảm giá mẫu Ernie 4.5 Turbo của mình đến 20%, trong khi Tencent và iFlytek cũng công bố các đợt giảm giá mạnh và thậm chí cung cấp quyền truy cập miễn phí vào các phiên bản nhẹ hơn của các mô hình AI của họ.
+
+Đây là những bước đi nhằm giúp AI trở nên dễ tiếp cận và có giá thành hợp lý hơn đối với các doanh nghiệp và nhà phát triển. Cùng lúc đó, Alibaba Cloud cũng báo cáo mức tăng trưởng doanh thu hàng năm đạt 7% vào cuối năm 2024, chủ yếu nhờ vào nhu cầu ngày càng tăng đối với các sản phẩm và dịch vụ liên quan đến AI.
+
+Cựu CEO của Google, Eric Schmidt, từng chia sẻ trong một cuộc phỏng vấn với Business Insider: “Đến năm 2025, Trung Quốc sẽ vượt xa chúng ta. Và đến năm 2030, họ sẽ thống trị ngành công nghiệp AI. Hãy tin tôi đi”.
+
+Đáng nói là dữ liệu mới đây từ Stanford HAI dường như củng cố nhận định này: "Vào năm 2023, các mô hình hàng đầu của Mỹ đã vượt trội hơn đáng kể so với các đối thủ Trung Quốc. Tuy nhiên, sự khác biệt này không còn rõ rệt nữa. Đến cuối năm 2024, các khoảng cách này đã thu hẹp đáng kể".
+
+Theo các chuyên gia, khi AI ngày càng trở thành yếu tố không thể thiếu trong nền kinh tế số, những doanh nghiệp có thể cung cấp cả hiệu suất vượt trội và tiết kiệm chi phí ở quy mô lớn sẽ là những người chiến thắng.
+
+
+
+Mỹ, Trung Quốc hay châu Âu đều đối mặt với thách thức riêng trong phát triển AI
+
+Trí tuệ nhân tạo (AI) đang bị lên án vì ngốn quá nhiều năng lượng. Các trung tâm dữ liệu của Trung Quốc đã tiêu thụ đến 140 tỷ kWh vào năm 2024, tương đương mức sử dụng năng lượng hàng năm của Thụy Điển, với dự báo con số này sẽ gấp ba lần vào năm 2035. Tuy nhiên, phần lớn năng lượng phục vụ các cơ sở này lại đến từ các nhà máy điện than ở các khu vực nông thôn.
+
+Cộng thêm tình trạng thiếu hụt chip nghiêm trọng, đặc biệt sau lệnh cấm của Hoa Kỳ, các công ty như ByteDance phải sử dụng chip Huawei chậm hơn, làm tăng chi phí đào tạo AI lên tới 30%.
+
+Ajit Jaokar, một nhà nghiên cứu AI tại Đại học Oxford, nhận xét: "Dù các phòng thí nghiệm AI ở Trung Quốc như DeepSeek đã tìm ra những giải pháp kỹ thuật để giải quyết thiếu hụt phần cứng, nhưng những cải tiến này chỉ giúp bù đắp phần nào".
+
+Tương tự, theo một báo cáo gần đây từ LA Times, sự bùng nổ của các trung tâm dữ liệu, đặc biệt là các trung tâm hỗ trợ AI, đang tạo ra áp lực khổng lồ lên hệ thống điện của Mỹ, làm gia tăng nguy cơ mất điện tại California.
+
+Bên cạnh đó, sự thiếu hụt nhân lực trong lĩnh vực AI càng làm trầm trọng thêm tình hình, khi 72% số người làm việc trong ngành AI tại Mỹ đến từ nước ngoài, trong khi Trung Quốc đang đào tạo gấp ba lần số lượng nhà khoa học máy tính. Tình trạng này khiến Mỹ gặp khó khăn trong việc duy trì thế mạnh của mình trong lĩnh vực công nghệ.
+
+Trong khi đó, báo cáo năm 2024 của ECA chỉ ra rằng thị trường kỹ thuật số và AI của Liên minh Châu Âu đang bị phân mảnh vì các quy định khác nhau giữa các quốc gia, làm cản trở sự phát triển của các công ty khởi nghiệp và các doanh nghiệp mở rộng quy mô xuyên biên giới. Cứ thử tưởng tượng, thay vì xây dựng một con đường cao tốc duy nhất, Châu Âu lại phải xây dựng 27 cây cầu nhỏ.
+
+Báo cáo cũng nhấn mạnh rằng Châu Âu đang mất đi một lượng lớn nhân tài AI vào tay Mỹ, với ước tính 52% nhân tài đang làm việc tại nước ngoài, chủ yếu tại Thung lũng Silicon. Điều này khiến Châu Âu không chỉ khó cạnh tranh, mà còn gặp khó khăn trong việc duy trì và phát triển ngành công nghệ.

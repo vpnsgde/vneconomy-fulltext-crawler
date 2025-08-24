@@ -1,0 +1,37 @@
+Thông tin được Bộ Nội vụ đề cập khi xây dựng dự thảo Nghị định quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội và cơ sở dữ liệu quốc gia về bảo hiểm.
+
+Bộ Nội vụ cho biết dự thảo Nghị định sẽ quy định việc điều chỉnh, cắt giảm, đơn giản hóa hồ sơ, thủ tục thực hiện bảo hiểm xã hội từ giao dịch bằng bản giấy, sang giao dịch điện tử.
+
+Theo đó, thông tin sử dụng để thực hiện bảo hiểm xã hội đã có trên tài khoản định danh điện tử (VNeID) mức độ 2 của cá nhân tham gia bảo hiểm xã hội, liên kết với sổ bảo hiểm xã hội điện tử, thì không phải xuất trình lại hồ sơ, giấy tờ bằng bản giấy để đối chiếu, chứng minh.
+
+Đối với các thành phần hồ sơ đã được số hóa hoặc chia sẻ từ các cơ sở dữ liệu quốc gia, chuyên ngành theo đúng quy định, thì không yêu cầu người dân, doanh nghiệp cung cấp khi thực hiện thủ tục hành chính về bảo hiểm xã hội.
+
+Bên cạnh đó, dự thảo cũng điều chỉnh các nội dung cho phù hợp với thực tiễn trong quá trình thực hiện, như giảm thời gian giải quyết của cơ quan Bảo hiểm xã hội khi nhận được đề nghị đăng ký sử dụng, điều chỉnh thông tin và ngừng sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội (từ 3 ngày làm việc xuống còn 2 giờ làm việc).
+
+Ngoài ra, bổ sung quy định về sổ bảo hiểm xã hội điện tử. Theo đó, sổ bảo hiểm xã hội điện tử được cơ quan Bảo hiểm xã hội cấp cho từng người tham gia bảo hiểm xã hội trên môi trường điện tử.
+
+Sổ bảo hiểm xã hội điện tử có các thông tin như sổ bảo hiểm xã hội bằng bản giấy và được mã hóa theo quy định của pháp luật. Thông tin trong sổ bảo hiểm xã hội điện tử gồm: (1) Mã số bảo hiểm xã hội; (2) Thông tin cơ bản về nhân thân gồm: họ và tên, ngày, tháng, năm sinh; giới tính; quốc tịch; số căn cước hoặc hộ chiếu.
+
+(3) Thông tin về quá trình đóng bảo hiểm xã hội (thời gian đóng; căn cứ đóng; tỷ lệ đóng vào các Quỹ Bảo hiểm xã hội và các thông tin liên quan gắn với quá trình đóng như cấp bậc, chức vụ; chức danh nghề, công việc; tên đơn vị; nơi làm việc,...); (4) Thông tin hưởng, giải quyết các chế độ bảo hiểm xã hội; (5) Thông tin cần thiết khác có liên quan phục vụ cho việc đóng, hưởng bảo hiểm xã hội.
+
+Sổ Bảo hiểm xã hội điện tử được liên kết với tài khoản định danh điện tử (VNeID) mức độ 2 của cá nhân tham gia bảo hiểm xã hội. Người tham gia có thể sử dụng thiết bị điện tử cầm tay trên môi trường điện tử để nhận sổ này.
+
+Ngoài ra, dự thảo Nghị định cũng điều chỉnh một số quy định về cơ sở dữ liệu quốc gia về bảo hiểm cho phù hợp với việc thực hiện sắp xếp bộ máy hành chính, như: quy định cơ quan chủ quản cơ sở dữ liệu quốc gia về bảo hiểm là Bộ Tài chính thay vì Bảo hiểm xã hội Việt Nam; trách nhiệm cung cấp “nhóm thông tin về an sinh xã hội” của Bộ Y tế, thay vì Bộ Nội vụ (trước đây là Bộ Lao động - Thương binh và Xã hội)...
+
+Bộ Nội vụ cho biết thời gian qua, việc thực hiện quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội và xây dựng, vận hành cơ sở dữ liệu quốc gia về bảo hiểm cơ bản hoàn thành, duy trì hoạt động ổn định.
+
+Đối với giao dịch diện tử trong lĩnh vực bảo hiểm xã hội, đến nay đã kết nối với hơn 13 nghìn cơ sở y tế trên toàn quốc để tiếp nhận dữ liệu thanh toán chi phí khám chữa bệnh bảo hiểm y tế.
+
+Hiện có hơn 621.000 doanh nghiệp giao dịch điện tử với cơ quan Bảo hiểm xã hội, có hơn 36 triệu tài khoản giao dịch điện tử, dùng để đăng nhập sử dụng ứng dụng VssID (bảo hiểm xã hội số), hơn 5,5 triệu lượt sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để thực hiện các thủ tục khám chữa bệnh bảo hiểm y tế.
+
+Phối hợp với Bộ Công an triển khai sử dụng tài khoản VNeID để đăng nhập, sử dụng tài khoản VssID (đã có hơn 16,7 triệu lượt sử dụng tài khoản VNeID để đăng nhập ứng dụng VssID), giúp người dân có thêm lựa chọn sử dụng tài khoản khi có nhu cầu khai thác thông tin, sử dụng thẻ bảo hiểm y tế, thực hiện các dịch vụ công trực tuyến dành cho cá nhân trên ứng dụng VssID.
+
+Hiện nay, 100% thủ tục hành chính của cơ quan Bảo hiểm xã hội đủ điều kiện đã được cung cấp dịch vụ công trực tuyến toàn trình. Các dịch vụ công này được cung cấp trên nhiều nền tảng, hình thức như: Cổng dịch vụ công Bảo hiểm xã hội Việt Nam, Cổng dịch vụ công Quốc gia, ứng dụng VssID, tổ chức IVAN, VNPOST...
+
+Cơ quan Bảo hiểm xã hội đã đảm bảo thực hiện đầy đủ, hiệu quả 7 dịch vụ công, thủ tục hành chính liên thông. Thông qua các dịch vụ công này, toàn ngành Bảo hiểm xã hội đã tiếp nhận và xử lý, trả kết quả hơn 1,7 triệu hồ sơ hoàn toàn trực tuyến. 100% cơ sở y tế triển khai khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chip; đảm bảo đáp ứng yêu cầu tra cứu thông tin thẻ bảo hiểm y tế bằng số định danh cá nhân, căn cước công dân.
+
+Hợn 119 triệu lượt tra cứu thông tin thẻ bảo hiểm y tế bằng số định danh cá nhân hoặc căn cước công dân thành công, phục vụ làm thủ tục khám chữa bệnh bảo hiểm y tế, góp phần tạo thuận lợi, giảm thời gian làm thủ tục khám chữa bệnh, tiết kiệm chi phí in ấn thẻ bảo hiểm y tế và chi phí quản lý hành chính.
+
+Cho đến nay, khoảng hơn 80% số người hưởng tại khu vực đô thị nhận các chế độ bảo hiểm xã hội, trợ cấp thất nghiệp qua thẻ ATM.
+
+Hiện, cơ sở dữ liệu quốc gia về bảo hiểm đang được kết nối, chia sẻ tích cực với các cơ sở dữ liệu quốc gia khác. Cơ quan Bảo hiểm xã hội cũng đang phối hợp chặt chẽ với các bộ, ngành, địa phương để kết nối và chia sẻ, đồng thời làm giàu cơ sở dữ liệu này.

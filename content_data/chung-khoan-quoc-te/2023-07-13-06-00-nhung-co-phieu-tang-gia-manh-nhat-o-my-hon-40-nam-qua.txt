@@ -1,0 +1,5 @@
+Trong giai đoạn từ năm 1980-2022, mức lợi nhuận năm bình quân của chỉ số S&P 500 là 10%, không tính cổ tức. Trong đó, có không ít mã cổ phiếu ghi nhận mức lợi nhuận cao vượt trội.
+
+Đồ thị dưới đây sử dụng dữ liệu từ S&P Dow Jones Indices, thể hiện những cổ phiếu trong S&P 500 có mức lợi nhuận năm cao nhất trong hơn 4 thập kỷ qua.
+
+Xếp  hạng này được thực hiện theo hai bước. Đầu tiên là xác định 10 cổ phiếu có mức tăng giá mạnh nhất mỗi năm, sau đó danh sách này được thu hẹp còn 50 cổ phiếu hàng đầu. Mức lợi nhuận của cổ phiếu chỉ phản ánh sự thay đổi về giá, không tính cổ tức hay hoạt động phân phối cổ phiếu. Trong số 50 mã này, không có mã nào rơi vào năm 2021 và 2022.

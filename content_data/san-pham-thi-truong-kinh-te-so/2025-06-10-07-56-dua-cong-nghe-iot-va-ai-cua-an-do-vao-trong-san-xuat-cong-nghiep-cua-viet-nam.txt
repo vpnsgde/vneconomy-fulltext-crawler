@@ -1,0 +1,13 @@
+Trên cơ sở tiềm năng hợp tác trong lĩnh vực công nghệ giữa Việt Nam và Ấn Độ, Thương vụ Việt Nam tại Ấn Độ phối hợp với Trung tâm Điển hình Tiên tiến về IoT và Trí tuệ nhân tạo (AI) của NASSCOM thuộc Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin Quốc gia Ấn Độ đã khảo sát và lựa chọn các ứng dụng phù hợp để thúc đẩy chuyển đổi số trong sản xuất công nghiệp tại Việt Nam.
+
+Kết quả khảo sát đã ghi nhận một số giải pháp nổi bật, trong đó hai công nghệ đã chứng minh được tính hiệu quả và khả năng triển khai thực tiễn đặc biệt cao.
+
+Thứ nhất là hệ thống giám sát và tối ưu hóa tiêu thụ năng lượng bằng Internet of things. Giải pháp đang được ứng dụng tại một số doanh nghiệp dệt may lớn của Ấn Độ, sử dụng hệ thống cảm biến thông minh kết hợp với bảng điều khiển trực tuyến (dashboard) để theo dõi thời gian thực mức tiêu thụ điện năng của từng thiết bị. Hệ thống có khả năng phát hiện bất thường, đưa ra cảnh báo sớm và đề xuất tối ưu vận hành.
+
+Tại Việt Nam, giải pháp này hứa hẹn giúp các nhà máy tiết kiệm năng lượng, hạn chế hỏng hóc thiết bị và giảm chi phí sản xuất – đặc biệt hữu ích trong các ngành tiêu hao nhiều điện năng như dệt may, da giày, chế biến gỗ hay nhựa.
+
+Thứ hai là Hệ thống kiểm tra chất lượng bằng thị giác máy tính (AI-powered Visual Inspection). Sử dụng camera công nghiệp kết hợp với thuật toán AI để phát hiện lỗi sản phẩm, kiểm tra độ chính xác về kích thước với độ sai lệch cực thấp (dưới 50 micron), giải pháp này đang được ứng dụng hiệu quả trong các ngành yêu cầu độ chính xác cao như cơ khí chế tạo, linh kiện ô tô – xe máy và thiết bị điện tử. Nhờ khả năng thay thế kiểm tra thủ công, công nghệ này giúp tăng chất lượng sản phẩm, giảm phụ thuộc vào nhân công và nâng cao năng lực cạnh tranh trong xuất khẩu.
+
+Bên cạnh đó, Trung tâm Xuất sắc về AI và IoT của Ấn Độ cũng giới thiệu nhiều giải pháp công nghệ đáng chú ý khác như:như hệ thống giám sát và phân tích tiêu thụ dầu diesel; Hệ thống chấm công bằng camera tại nhà máy; Hệ thống bảo trì dự đoán để giảm thời gian ngừng máy; Giám sát phế liệu thông qua AI kết hợp CCTV; Gợi ý thiết kế thông minh trong ngành trang sức; Quản lý dữ liệu sản xuất theo thời gian thực bằng nhật ký điện tử; Kiểm tra chất lượng các bộ phận ô tô bằng AI đa camera. Doanh nghiệp quan tâm vui lòng xem chi tiết tại danh sách đính kèm.
+
+Thương vụ Việt Nam tại Ấn Độ sẽ tiếp tục làm cầu nối thúc đẩy hợp tác thử nghiệm, chuyển giao các công nghệ phù hợp, đóng góp vào tiến trình công nghiệp hóa – hiện đại hóa và phát triển sản xuất thông minh tại Việt Nam.

@@ -1,0 +1,53 @@
+Tháng 4/2015, Quý Châu tiên phong phát triển mô hình sàn giao dịch dữ liệu đầu tiên tại Trung Quốc: Sàn giao dịch dữ liệu Quý Châu. Chỉ vài tháng sau, vào tháng 8/2015, tỉnh chính thức được chọn làm khu thí điểm toàn diện dữ liệu lớn quốc gia đầu tiên.
+
+Nhờ những bước đi táo bạo này, đến cuối năm 2023, kinh tế số của Quý Châu đã dẫn đầu Trung Quốc suốt bảy năm liên tiếp, với giá trị gia tăng chiếm khoảng 37% GDP. Dữ liệu lớn ngày càng trở thành động lực cốt lõi thúc đẩy chuyển đổi và phát triển kinh tế - xã hội của tỉnh. Giờ đây, Quý Châu không chỉ là hình mẫu thành công trong nước mà còn trở thành điểm đến để các tỉnh thành khác của Trung Quốc và nhiều quốc gia trên thế giới học hỏi về cách ứng dụng dữ liệu vào phát triển kinh tế số.
+
+Gần một thập kỷ sau khi sàn giao dịch dữ liệu đầu tiên ra đời tại Quý Châu, Trung Quốc hiện có ít nhất 50 sàn giao dịch dữ liệu trực tuyến, được vận hành bởi Nhà nước hoặc theo mô hình công - tư hợp tác.
+
+Theo chuyên gia kinh tế Anders C. Johansson, Phó Giám đốc Trung tâm Nghiên cứu châu Á tại Trường Kinh tế Stockholm, Trung Quốc đang coi dữ liệu là một yếu tố đầu vào quan trọng của sản xuất. Nếu dữ liệu đóng vai trò cốt lõi trong nhiều lĩnh vực công nghệ như xe tự hành, giám sát, thành phố thông minh hay robot, thì việc xây dựng một hệ thống giao dịch dữ liệu sẽ giúp tối ưu hóa năng suất và thúc đẩy tăng trưởng kinh tế.
+
+Tầm nhìn này được thể hiện rõ trong Kế hoạch 5 năm lần thứ 14 (2021 - 2025), được Chính phủ Trung Quốc công bố tháng 4/2025, trong đó Trung Quốc chính thức xác định dữ liệu là yếu tố sản xuất ngang hàng với đất đai, lao động, vốn và công nghệ. Kể từ đó, tài nguyên dữ liệu đã trở thành trọng tâm trong các chính sách công nghiệp cấp quốc gia lẫn địa phương.
+
+Nói một cách đơn giản, động lực để Trung Quốc không ngừng thúc đẩy các mô hình sàn giao dịch dữ liệu trong những năm vừa qua là thúc đẩy các sàn giao dịch dữ liệu để biến dữ liệu thành một loại “hàng hóa” có thể mua bán như tài sản vật chất. Thông qua các sàn này, doanh nghiệp và tổ chức có thể chia sẻ, mua bán dữ liệu để tạo ra lợi nhuận, nâng cao hiệu quả và thúc đẩy tăng trưởng kinh tế.
+
+Tuy nhiên, trong một nghiên cứu về thị trường dữ liệu Trung Quốc vào tháng 12/2024, tổ chức nghiên cứu CIGI nhận định rằng các công ty công nghệ Trung Quốc đang gặp khó khăn trong việc thu thập đủ dữ liệu để đào tạo trí tuệ nhân tạo (AI). Điều này trở nên cấp bách hơn với Trung Quốc trong cuộc đua với Mỹ nhằm phát triển các mô hình ngôn ngữ lớn mạnh mẽ nhất.
+
+Trong khi đó, tính đến năm 2016, hơn 80% tài nguyên thông tin và dữ liệu của Trung Quốc được cho là bị quản lý chặt chẽ bởi Chính phủ Trung Quốc, tạo ra rào cản cho sự phát triển kinh tế. Để khắc phục, Chính phủ đã mở khóa dữ liệu phục vụ đổi mới sáng tạo, thông qua mô hình sàn giao dịch dữ liệu.
+
+Một bước đi quan trọng là vào tháng 12/2021, Ủy ban Trung ương về An ninh mạng và Thông tin hóa Trung Quốc công bố Kế hoạch Thông tin hóa Quốc gia 5 năm lần thứ 14, trong đó nhấn mạnh việc xây dựng hệ thống tài nguyên dữ liệu hiệu quả, giúp dữ liệu thực sự trở thành một yếu tố sản xuất quan trọng.
+
+Tiếp đó, đến tháng 10/2023, Trung Quốc thành lập Cơ quan Quản lý Dữ liệu Quốc gia trực thuộc Ủy ban Cải cách và Phát triển Quốc gia, với mục tiêu hoạch định chiến lược cho nền kinh tế và xã hội số.
+
+Đến tháng 1/2024, cơ quan này công bố kế hoạch dữ liệu 3 năm nhằm khai thác kho thông tin khổng lồ của Trung Quốc để thúc đẩy tăng trưởng kinh tế. Kế hoạch bao gồm các biện pháp huy động tài nguyên dữ liệu hỗ trợ phát triển AI, đồng thời khuyến khích các tổ chức nghiên cứu và doanh nghiệp xây dựng cơ sở dữ liệu ngành với bộ dữ liệu chất lượng cao phục vụ đào tạo AI.
+
+Chuỗi chính sách này thể hiện nỗ lực mạnh mẽ của Trung Quốc trong việc nâng cao vai trò của dữ liệu trong các chính sách công nghiệp, đồng thời tạo điều kiện để thị trường tối ưu hóa việc khai thác tài nguyên dữ liệu, biến nó thành động lực phát triển kinh tế số cho Trung Quốc.
+
+Theo một ước tính, Trung Quốc đã sản xuất 7,6 zettabyte dữ liệu năm 2018 và sẽ chiếm 27,8% tổng số dữ liệu toàn cầu năm 2025, vượt qua Mỹ. Trong khi đó, giá trị hàng năm của giao dịch dữ liệu của Trung Quốc là khoảng 87,7 tỷ Nhân dân tệ (12,3 tỷ USD) vào năm 2022, con số này dự kiến sẽ đạt 204,6 tỷ Nhân dân tệ năm 2025 và tăng thêm lên 515,6 tỷ Nhân dân tệ vào năm 2030. Trong đó, các ngành tài chính, viễn thông, sản xuất, chăm sóc sức khỏe và vận tải đã cho thấy nhu cầu ngày càng tăng đối với các sản phẩm dữ liệu giao dịch.
+
+Nhờ tiên phong trong xây dựng hạ tầng và cơ chế phát triển dữ liệu, Quý Châu ngày nay được mệnh danh là “Thung lũng dữ liệu” của Trung Quốc. Nơi đây đã thu hút sự hiện diện của hàng loạt tập đoàn công nghệ hàng đầu thế giới như: Apple, Foxconn, Qualcomm và Intel. Đồng thời, đây cũng là cái nôi của nhiều doanh nghiệp Internet hàng đầu Trung Quốc như Alibaba, Huawei, Tencent và Baidu.
+
+Theo dữ liệu công bố đến tháng 2/2023, Sàn giao dịch dữ liệu Quý Dương đạt doanh thu tích lũy khoảng 79,4 triệu USD. Đến tháng 8/2024, tổng giá trị giao dịch trên sàn đã vượt 5,4 tỷ Nhân dân tệ (khoảng 757,37 triệu USD), cho thấy sự phát triển mạnh mẽ của nền kinh tế dữ liệu tại đây.
+
+Sàn giao dịch dữ liệu lớn Quý Dương ban đầu được thành lập như một doanh nghiệp tư nhân, sau đó đã thuộc toàn quyền sở hữu của Nhà nước từ năm 2021. Sự thay đổi này được giải thích là vì sự kiểm soát chặt chẽ hơn của Nhà nước sẽ giúp giải quyết tình trạng xử lý sai thông tin cá nhân và dữ liệu nhạy cảm về bảo mật, cũng như thị trường chợ đen dữ liệu tràn lan của Trung Quốc.
+
+Trong khi đó, Sàn giao dịch dữ liệu Thâm Quyến được ra mắt vào tháng 11/2022, cũng nhanh chóng trở thành nền tảng quan trọng trong hệ sinh thái kinh tế số của Trung Quốc. Đến tháng 5/2024, sàn đã hỗ trợ hơn 1.100 giao dịch với tổng giá trị hơn 1,1 tỷ Nhân dân tệ (khoảng 156 triệu USD), trải rộng nhiều lĩnh vực như công nghệ tài chính, tiếp thị kỹ thuật số và dịch vụ công.
+
+Đến tháng 6/2024, Sàn giao dịch dữ liệu Thâm Quyến đạt mốc quan trọng khi tổng khối lượng giao dịch vượt 10,539 tỷ Nhân dân tệ (khoảng 1,48 tỷ USD), trở thành nền tảng giao dịch dữ liệu đầu tiên tại Trung Quốc vượt ngưỡng 10 tỷ Nhân dân tệ.
+
+Hơn 3.000 doanh nghiệp đã đăng ký trên sàn giao dịch, tạo ra một nền kinh tế tài sản kỹ thuật số mới. GBDE cho phép các công ty kiếm tiền từ tài sản dữ liệu, biến dữ liệu thành nguồn tài nguyên kinh tế có thể giao dịch được. Các ngành du lịch và nông nghiệp của Quý Châu sử dụng phân tích dữ liệu lớn để tối ưu hóa hoạt động và tăng doanh thu.
+
+Để thiết lập chặt chẽ khuôn khổ quản lý các sàn giao dịch, Ủy ban Cải cách và Phát triển thành phố Thâm Quyến đã ban hành các quy định nghiêm ngặt về trao đổi, bảo mật và lưu trữ dữ liệu. Đáng chú ý, quy định yêu cầu nhật ký chuyển đổi dữ liệu phải được lưu giữ an toàn trong thời gian không dưới 30 năm.
+
+Các quy định cũng nhấn mạnh yêu cầu nâng cao năng lực bảo vệ dữ liệu, chống rò rỉ, trộm cắp và tấn công mạng. Các thiết bị cốt lõi liên quan đến quá trình trao đổi dữ liệu phải đảm bảo tính độc lập và khả năng kiểm soát theo tiêu chuẩn nghiêm ngặt.
+
+Tuy nhiên, một báo cáo về quản lý dữ liệu của Trung Quốc do Viện Nghiên cứu Trung Quốc Mercator (Merics – Đức) công bố vào tháng 12/2023, đã chỉ ra những thách thức lớn mà các sàn giao dịch dữ liệu tại Trung Quốc đang đối mặt.
+
+Thứ nhất, các luật hiện hành của Trung Quốc chẳng hạn như Luật Bảo mật dữ liệu và Luật Bảo vệ thông tin cá nhân vẫn còn thiếu hướng dẫn rõ ràng về giao dịch dữ liệu, quyền sở hữu và cơ chế thực thi. Điều này gây khó khăn trong việc thiết lập một thị trường dữ liệu minh bạch và hiệu quả.
+
+Thứ hai, dữ liệu có tính chất vô hình và dễ sao chép, khiến việc định giá trở thành một bài toán nan giải. Hiện tại, phần lớn giao dịch dữ liệu tại Trung Quốc diễn ra thông qua đàm phán giữa các bên, do chưa có tiêu chuẩn định giá thống nhất. Điều này dễ dẫn đến tình trạng giá trị dữ liệu bị thổi phồng hoặc đánh giá thấp, ảnh hưởng đến tính công bằng và ổn định của thị trường.
+
+Thứ ba, giá trị của dữ liệu phụ thuộc vào độ chính xác và độ tin cậy, nhưng thị trường Trung Quốc vẫn tồn tại nhiều dữ liệu giả mạo hoặc không đạt chuẩn. Điều này làm suy giảm lòng tin giữa các bên tham gia giao dịch và có thể kìm hãm sự phát triển của nền kinh tế dữ liệu.
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 26-2025 phát hành ngày 30/06/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1473

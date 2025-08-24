@@ -1,0 +1,15 @@
+Tính năng cài đặt hạn chế (Restricted Settings) là tính năng an ninh được giới thiệu từ Android 13 nhằm ngăn các ứng dụng đến từ bên ngoài Google Play truy cập vào Trợ năng và Notification Listener. Nếu phát hiện ứng dụng yêu cầu các quyền này, Restricted Settings sẽ lập tức cảnh báo, ngăn chặn, người dùng sẽ không thể cấp các quyền này cho ứng dụng vừa cài.
+
+Ông Vũ Ngọc Sơn, Giám đốc Công nghệ - Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), trong một thông tin vừa chia sẻ trên trang cá nhân, cho biết thời gian qua, hàng loạt các mã độc giả mạo ứng dụng của Tổng cục Thuế, Chính phủ... sử dụng để điều khiển điện thoại, chiếm đoạt tiền của người dùng tại Việt Nam.
+
+
+
+Hơn nữa, có nạn nhân đã mất đến hơn 2 tỷ đồng chỉ trong vài phút. Các mã độc này chỉ có thể xâm nhập được vào các điện thoại Android 12 trở xuống, tức là các máy điện thoại Android mua từ nửa đầu năm 2022 về trước. Trong khi với các điện thoại Android 13 hoặc Android 14, chúng sẽ bị phát hiện và ngăn lại bởi Restricted Setting.
+
+Tuy nhiên với loại mã độc mới SecuriDropper này, chúng có thể xâm nhập cả những điện thoại mới nhất của năm 2023. Thậm chí người dùng đã nâng cấp lên Android 14 mới nhất vừa ra mắt cũng sẽ vẫn bị mã độc tấn công theo phương thức này.
+
+"Do đó, khả năng người dùng bị tấn công là rất lớn. Trong thời gian đợi Google cải tiến hàng rào an ninh mới, để đảm bảo an toàn trước các cuộc tấn công, người dùng Android nên tránh tải xuống file “*.APK” từ các nguồn không tin cậy”, Giám đốc Công nghệ NCS khuyến cáo.
+
+Theo lý giải của ông Sơn, kỹ thuật mới được các hacker áp dụng trong SecuriDropper là chia nhỏ việc cài đặt thành nhiều bước. Đầu tiên, một phần mềm giả mạo A không đòi quyền đặc biệt sẽ được lừa để cài vào máy nạn nhân.
+
+Sau đó, A sẽ gọi các thư viện của giao diện lập trình ứng dụng (API) của Android để giả mạo một phiên cài đặt của Google Play, giúp cho có thể cài mã độc B lên điện thoại và qua mặt được Restricted Settings. Mã độc B lúc này có thể xin được các quyền Trợ năng (Accessibility) và Notification Listener mà không bị cấm. Thậm chí người dùng đã nâng cấp lên Android 14 mới nhất vừa ra mắt cũng sẽ vẫn bị mã độc tấn công theo phương thức này.

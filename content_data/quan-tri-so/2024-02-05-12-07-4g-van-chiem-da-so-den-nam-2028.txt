@@ -1,0 +1,33 @@
+Bộ Thông tin và Truyền thông đang xây dựng dự thảo thông tư Quy hoạch băng tần 880-915 MHz và 925-960 MHz cho hệ thống thông tin di động mặt đất công cộng IMT của Việt Nam.
+
+Tại thuyết minh dự thảo thông tư, Bộ Thông tin và Truyền thông, cho biết năm 2008, băng tần 880-915 MHz và 925-960 MHz (hay gọi là băng tần 900 MHz) được quy hoạch cho 2G. Băng tần được phân chia gồm 04 khối băng tần (2x10MHz, 2x8,4 MHz, 2x8,2 MHz, 2x 8,2 MHz) và đã cấp phép cho 04 doanh nghiệp sử dụng (Vietnamobile, VNPT, Viettel, MobiFone).
+
+Năm 2013, Quy hoạch phổ tần số vô tuyến điện quốc gia (Quy hoạch phổ) đã quy định băng tần 900 MHz dành cho hệ thống thông tin di động IMT (từ 3G trở lên) và đế năm 2015, Bộ Thông tin và Truyền thông cho phép các doanh nghiệp đã được cấp phép sử dụng băng tần 900 MHz được triển khai 3G, 4G.
+
+Năm 2020, căn cứ Quy hoạch phổ, Bộ Thông tin và Truyền thông đã có văn bản thông báo cho doanh nghiệp về việc băng tần này không còn được sử dụng cho 2G sau khi giấy phép hết hạn vào tháng 9/2024.
+
+Để thực hiện Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030, trong đó có nội dung phát triển hạ tầng viễn thông đi trước một bước, trở thành hạ tầng cho kinh tế số, xã hội số, trong thời gian qua, Bộ Thông tin và Truyền thông và các doanh nghiệp đã tổ chức nhiều cuộc họp triển khai các giải pháp thúc đẩy phổ cập điện thoại di động thông minh 4G/5G tới mỗi người dân, tạo điều kiện cho các doanh nghiệp chủ động xây dựng kế hoạch dừng công nghệ di động thế hệ cũ 2G, 3G để tối ưu hóa mạng lưới, tiết kiệm chi phí vận hành và dành băng tần cho các công nghệ di động thế hệ mới 4G, 5G.
+
+Bởi vậy, theo Bộ Thông tin và Truyền thông, việc quy hoạch băng tần 900 cho hệ thống thông tin di động mặt đất công cộng IMT của Việt Nam ở thời điểm này là cấp thiết.
+
+Đối với việc sử dụng băng tần 900 MHz trên thế giới hiện nay, theo báo cáo của Hiệp hội các nhà sản xuất thiết bị di động thế giới GSA (tháng 6 năm 2023): băng tần 900 MHz (băng n8): có khoảng 113 nhà khai thác đầu tư vào 4G LTE, trong đó có khoảng 59 nhà khai thác đã triển khai dịch vụ, 46 nhà khai thác đã được cấp phép tần số để triển khai mạng và 8 nhà khai thác đang tiến hành thử nghiệm 4G LTE trong băng tần này.
+
+Tại Việt Nam, băng tần 900 MHz đang được cấp phép cho 4 doanh nghiệp Vietnamobile, VNPT, Viettel và MobiFone khai thác 2G/3G/4G, giấy phép băng tần có thời hạn tối đa đến ngày 15/9/2024
+
+Trong dự thảo thuyết minh, Bộ Thông tin và Truyền thông cho biết, theo dự báo của GSMA (The Mobile Economy 2023) và Ericsson (Ericsson mobility report June - 2023), tăng trưởng số thuê bao/kết nối di động trên toàn thế giới đến năm 2025 thì 4G vẫn là công nghệ chủ đạo với số lượng thuê bao 4G chiếm đa số (55%), đến năm 2028 vẫn còn chiếm đa số (50%) sau đó sẽ giảm dần khi 5G bắt đầu chiếm lĩnh. Theo dự báo của GSMA, đến năm 2030 tại khu vực Châu Á Thái Bình Dương, số lượng kết nối di động 4G vẫn chiếm 55% tổng số kết nối di động (GSMA Mobile-Economy-Report-Asia-Pacific-2023).
+
+Trong nước, theo số liệu của Cục Viễn thông và các doanh nghiệp, tính đến cuối năm 2023, cả nước hiện có khoảng 129 triệu thuê bao di động, trong đó thuê bao 4G chiếm đa số với 87,8 triệu (68%), 2G là 30 triệu (23,2 %), 3G là 3,8 triệu (2,9 %), 5G là 6 triệu (5%). Các doanh nghiệp dự báo thuê bao 4G sẽ đạt đỉnh khoảng năm 2026 sau đó giảm dần, nhưng đến năm 2030 thì 4G vẫn là công nghệ chủ đạo với thuê bao chiếm đa số (50% tổng số thuê bao di động).
+
+Bên cạnh các hệ thống thông tin di động, trong băng tần 900 MHz còn có hệ thống vô tuyến khác được phép hoạt động tại một số khu vực. Để không gây can nhiễu với nhau, đảm bảo sự hoạt động ổn định, lâu dài của hai hệ thống này, cần phải xem xét quy hoạch lại băng tần 900 MHz để bố trí một phần băng tần cho hệ thống vô tuyến khác và phân chia lại khối băng tần để phù hợp với công nghệ 4G/5G (dự kiến quy hoạch băng tần băng tần 900 MHz từ 2x35 MHz về 2x25 MHz)
+
+Theo các doanh nghiệp, dự kiến đến ngày 15/9/2024 (thời điểm hết hạn giấy phép sử dụng băng tần 900 MHz) có khoảng 87 triệu thuê bao 4G, trong số đó, có 15,1 triệu thuê bao 4G non-VoLTE chỉ kết nối được dữ liệu với mạng 4G và cần kết nối 2G/3G cho dịch vụ thoại, tin nhắn. Trong số đó có 9 triệu thuê bao 4G non-VoLTE chỉ kết nối qua 2G để có dịch vụ thoại, tin nhắn.
+
+Bộ Thông tin và Truyền thông, cho biết các doanh nghiệp đề xuất giữ nguyên phân chia các khối băng tần của quy hoạch băng tần 900 MHz như hiện trạng (2x35 MHz) đã cấp phép cho doanh nghiệp đến năm 2026 để có thời gian chuyển đổi hệ thống, đảm bảo duy trì dịch vụ thoại và tin nhắn cho các thuê bao sử dụng thiết bị đầu cuối 4G non-VoLTE thông qua kết nối 2G/3G.
+
+Băng tần 900 MHz cần phải quy hoạch lại vì phân chia các khối băng tần hiện nay không còn phù hợp để triển khai công nghệ từ 4G trở lên. Mặt khác, cần quy hoạch lại băng tần 900 MHz để bố trí một phần băng tần cho hệ thống vô tuyến khác.
+
+Trong thuyết minh dự thảo, Bộ Thông tin và Truyền thông đề xuất phương án quy hoạch băng 900 MHz theo 2 giai đoạn:
+
+Giai đoạn 1(từ ngày 16/9/2024 đến hết ngày 15/9/2026): Giữ nguyên phân chia các khối băng tần của quy hoạch như hiện trạng (2x35 MHz) đã cấp phép cho doanh nghiệp. Quy định sử dụng công nghệ từ 3G trở lên, hệ thống đang sử dụng công nghệ 2G hiện có được tiếp tục sử dụng để duy trì dịch vụ thoại và tin nhắn cho người dùng sử dụng thiết bị đầu cuối 3G, 4G non-VoLTE.
+
+Giai đoạn 2(từ ngày 16/9/2026): Quy hoạch lại từ 2x35 MHz về 2x25 MHz (phân chia thành 2 khối băng tần 2x10 MHz và 2x15 MHz); 2x10 MHz còn lại được dành cho hệ thống vô tuyến khác. Quy định sử dụng công nghệ từ 4G trở lên. Và quy định giới hạn tối đa tổng độ rộng băng tần (mức CAP) mà một doanh nghiệp được cấp phép sử dụng trong băng tần 900 MHz là 2x15 MHz.

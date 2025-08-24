@@ -1,0 +1,21 @@
+Chiều ngày 20/11/2023,Tổ công tác triển khai Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 của Chính phủ (Đề án 06) đã họptại Hà Nội. Đại tướng Tô Lâm, Bộ trưởng Bộ Công an, Tổ trưởng Tổ công tác triển khai Đề án chủ trì cuộc họp.
+
+Tại cuộc họp, các đại biểu đã đưa ra giải pháp để tháo gỡ những khó khăn, vướng mắc nhằm triển khai thực hiện Đề án 06, chẳng hạn như đề xuất khẩn trương ban hành hướng dẫn thí điểm cấp Phiếu lý lịch tư pháp trên ứng dụng VNeID; Triển khai giải pháp đồng bộ các dữ liệu cận nghèo, dữ liệu bảo trợ xã hội, trẻ em có hoàn cảnh đặc biệt; Đẩy mạnh thực hiện đánh giá khả tín khách hàng vay để người dân tiếp cận nguồn vốn nhanh chóng, giảm thiểu tội phạm "tín dụng đen"...
+
+Trong thời gian tới, để triển khai Đề án Trung tâm dữ liệu quốc gia theo Nghị quyết của Chính phủ, Bộ trưởng Tô Lâm đề nghị Bộ Thông tin và truyền thông, Bộ Kế hoạch và đầu tư, Bộ Tài chính cử cán bộ tham gia đoàn khảo sát để khảo sát trực tiếp về nhu cầu hiện tại cũng như các hệ thống dự kiến đề xuất triển khai của các cơ quan trong giai đoạn 2023-2025 để phối hợp xây dựng lộ trình, kế hoạch đầu tư, triển khai phù hợp với xây dựng Trung tâm dữ liệu quốc gia đảm bảo đáp ứng nhu cầu của các cơ quan với mục tiêu đồng bộ, bảo mật, tránh lãng phí.
+
+
+
+Bộ Công an tiếp tục phối hợp với các đơn vị đẩy mạnh ứng dụng Cơ sở dữ liệu quốc gia về dân cư, căn cước công dân, định danh và xác thực điện tử phục vụ phát triển kinh tế, xã hội. Trong đó, ứng dụng Cơ sở dữ liệu quốc gia về dân cư đã cung cấp dịch vụ làm sạch dữ liệu hồ sơ khách hàng cho ngân hàng (CIC) tổng số 42 triệu dữ liệu theo hình thức offline và online qua API đối với những hồ sơ khách hàng phát sinh mới trong tháng.
+
+Bên cạnh đó, các bộ, ngành thuộc Tổ công tác Đề án 06 tiếp tục phối hợp, tập trung ứng dụng dữ liệu dân cư, định danh và xác thực điện tử để thúc đẩy các chính sách thực hiện an sinh xã hội cho các đối tượng được hưởng trong dịp Tết Nguyên đán Giáp Thìn 2024. Đồng thời, đẩy nhanh các giải pháp ứng dụng dữ liệu dân cư, căn cước công dân, định danh điện tử cho ngành ngân hàng nhằm tạo điều kiện thuận lợi cho nhân dân khi sử dụng các dịch vụ và giảm thiểu tội phạm “tín dụng đen”...
+
+Theo báo cáo của Bộ Công an, trong tháng 11, việc thực hiện triển khai Đề án 06 tiếp tục đạt được những kết quả quan trọng. Cụ thể, đối với nhóm tiện ích giải quyết thủ tục hành chính, cung cấp dịch vụ công trực tuyến, đến nay, các bộ, ngành đã thực thi phương án đơn giản hóa đối với 437/1.086 thủ tục hành chính (đạt tỷ lệ 40,2%, tăng 49 thủ tục hành chính so với tháng 10/2023).
+
+Về dịch vụ công, trong tháng, Cổng Dịch vụ công quốc gia đã tiếp nhận 479 nghìn tài khoản đăng ký mới; hơn 9,6 triệu hồ sơ được đồng bộ trạng thái. Các bộ, ngành, địa phương đã tiến hành tiếp nhận, xử lý hơn 1,5 triệu lượt thực hiện các dịch vụ công tiện ích; hơn 2,9 triệu hồ sơ trực tuyến thực hiện (chiếm 38,57%); 1,36 triệu giao dịch thanh toán trực tuyến với tổng số tiền là 591 tỷ đồng (chiếm 33,92%).
+
+Đối với nhóm tiện ích phát triển kinh tế, xã hội, Bộ Công an tiếp tục phối hợp với các đơn vị đẩy mạnh ứng dụng Cơ sở dữ liệu quốc gia về dân cư, căn cước công dân, định danh và xác thực điện tử phục vụ phát triển kinh tế, xã hội. Trong đó, ứng dụng Cơ sở dữ liệu quốc gia về dân cư đã cung cấp dịch vụ làm sạch dữ liệu hồ sơ khách hàng cho ngân hàng (CIC) tổng số 42 triệu dữ liệu theo hình thức offline và online qua API đối với những hồ sơ khách hàng phát sinh mới trong tháng.
+
+Cung cấp dịch vụ làm sạch dữ liệu cho 3 nhà mạng viễn thông (VinaPhone, Viettel, MobiFone) với 132,39 triệu yêu cầu xác thực theo hình thức trực tuyến; 05 nhà mạng viễn thông (ASIM, ITEL, Vietnamobile, Gtel Mobile, Mobicast) theo hình thức offline yêu cầu xác thực. Hiện, đang thực hiện đề xuất các nhà mạng nhỏ được kết nối với Cơ sở dữ liệu quốc gia về dân cư để làm sạch thông tin thuê bao di động.
+
+Về phát triển công dân số, đến nay, Bộ Công an đã cấp trên 84,7 triệu thẻ căn cước công dân gắn chíp. Đã thu nhận trên 70,2 triệu hồ sơ định danh điện tử, kích hoạt trên 48,66 triệu tài khoản (tỷ lệ kích hoạt trên tổng số hồ sơ thu nhận đạt 69,25%). Có 42 địa phương đã hoàn thành cấp tài khoản định danh điện tử.

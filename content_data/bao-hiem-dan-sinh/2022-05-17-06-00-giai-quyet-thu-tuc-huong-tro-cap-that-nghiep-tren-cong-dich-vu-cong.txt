@@ -1,0 +1,31 @@
+Bộ Lao động - Thương binh và Xã hội đã ban hành Công văn số 1399/LĐTBXH-VL về việc tiếp nhận và giải quyết hưởng trợ cấp thất nghiệp trên Cổng Dịch vụ công Quốc gia.
+
+Công văn này hướng dẫn quy trình tiếp nhận và giải quyết hưởng trợ cấp thất nghiệp trên Cổng Dịch vụ công Quốc gia qua 5 bước.
+
+Bước 1,người lao động đăng ký tài khoản và đăng nhập trên cổng Dịch vụ công và thực hiện: Tìm kiếm và chọn nộp dịch vụ công: Giải quyết hưởng trợ cấp thất nghiệp; nhập thông tin đơn đề nghị trợ cấp thất nghiệp theo mẫu số 01.
+
+Hồ sơ đính kèm gồm: Bản chụp/scan giấy tờ chứng minh chấm dứt hợp đồng lao động hoặc hợp đồng làm việc. Sau đó, chọn gửi Trung tâm dịch vụ việc làm thuộc Sở Lao động – Thương binh và Xã hội để tiếp nhận, giải quyết hồ sơ.
+
+Bước 2, Cổng Dịch vụ công tự động chuyển thông tin người lao động cho cơ quan bảo hiểm xã hội.
+
+Bước 3,Cơ quan bảo hiểm xã hội kiểm tra, giải quyết thông tin người lao động.
+
+Theo đó, ở trường hợp 1: Nếu thông tin số sổ bảo hiểm xã hội và một trong hai thông tin họ tên hoặc số Chứng minh nhân dân/Căn cước công dân/hộ chiếu không đúng với dữ liệu của cơ quan bảo hiểm xã hội thì trả lại kết quả không hợp lệ về Cổng Dịch vụ công để hiển thị thông báo ngay khi người lao động gửi hồ sơ.
+
+Trường hợp 2: Nếu thông tin số sổ bảo hiểm xã hội và một trong hai thông tin họ tên hoặc số Chứng minh nhân dân/Căn cước công dân/hộ chiếu trùng với dữ liệu của cơ quan bảo hiểm xã hội thì trong 2 ngày làm việc kể từ ngày nhận được thông tin chuyển đến, bảo hiểm xã hội trả lại thông tin của người lao động cho Cổng Dịch vụ công để chuyển hồ sơ trực tuyến đến trung tâm dịch vụ việc làm.
+
+Trường hợp 3: Nếu người lao động chưa được chốt sổ bảo hiểm xã hội thì cơ quan bảo hiểm xã hội gửi lại thông báo về việc chưa chốt sổ cho Cổng Dịch vụ công để thông báo cho người lao động khi gửi hồ sơ.
+
+Bước 4,Trung tâm Dịch vụ việc làm rà soát, gửi hồ sơ trình Sở Lao động – Thương binh và Xã hội.
+
+Trong 16 ngày làm việc kể từ ngày nhận được dữ liệu tham gia bảo hiểm thất nghiệp của người lao động do bảo hiểm xã hội chuyển đến, cán bộ Trung tâm Dịch vụ việc làm rà soát, gửi hồ sơ người lao động đủ điều kiện hỗ trợ trình Sở Lao động – Thương binh và Xã hội theo đúng quy định.
+
+Nếu hồ sơ không đạt yêu cầu, cán bộ cập nhật thông tin từ chối hồ sơ kèm theo văn bản nêu rõ lý do trên cổng Cổng dịch vụ công.
+
+Bước 5, Sở Lao động – Thương binh và Xã hội phản hồi kết quả.
+
+Trong 2 ngày làm việc kể từ ngày nhận được hồ sơ do Trung tâm Dịch vụ việc làm chuyển đến, Sở Lao động – Thương binh và Xã hội phản hồi kết quả. Trường hợp hồ sơ không đạt yêu cầu, cán bộ cập nhật trạng thái từ chối hồ sơ và đính kèm văn bản trả lời lên Cổng Dịch vụ công để thông báo cho người lao động.
+
+Trường hợp hồ sơ hợp lệ, cán bộ cập nhật trạng thái Duyệt hồ sơ và đính kèm quyết định hưởng trợ cấp thất nghiệp.
+
+Khi hồ sơ được phê duyệt hoặc bị từ chối, hệ thống sẽ gửi thông báo qua tin nhắn SMS tới người lao động, đồng thời hiển thị thông tin, văn bản liên quan trên cổng Dịch vụ công.

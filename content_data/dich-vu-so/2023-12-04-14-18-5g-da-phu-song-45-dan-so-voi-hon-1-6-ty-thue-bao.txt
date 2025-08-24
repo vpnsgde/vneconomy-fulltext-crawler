@@ -1,0 +1,25 @@
+Báo cáo di động của Ericsson vừa công bố cho thấy, ước tính gần 1/5 tổng số thuê bao di động toàn cầu sẽ là thuê bao 5G vào cuối năm 2023, nhờ tốc độ tăng trưởng ổn định bất chấp những khó khăn kinh tế thường xuyên và bất ổn địa chính trị ở một số thị trường.
+
+Theo thống kê được nêu trong ấn bản tháng 11 năm 2023 của Báo cáo Di động Ericsson, ước tính sẽ có 610 triệu thuê bao 5G mới cho năm dương lịch 2023, tăng 63% so với năm 2022. Sự gia tăng này giúp nâng tổng số thuê bao toàn cầu lên 1,6 tỷ, hơn khoảng 100 triệu thuê bao trong dự báo trước đó.
+
+Xét theo khu vực, thuê bao 5G ở Bắc Mỹ tiếp tục phát triển mạnh mẽ. Đến cuối năm 2023, khu vực này dự kiến sẽ có tỷ lệ sử dụng thuê bao 5G cao nhất trên toàn cầu với mức 61%. Tốc độ tăng trưởng thuê bao 5G cũng rất mạnh mẽ ở Ấn Độ trong suốt năm 2023. Sau 2 năm ra mắt thương mại, đến cuối năm 2023, tỷ lệ thâm nhập 5G ở Ấn Độ dự kiến sẽ đạt 11%.
+
+Trong 6 năm từ cuối năm 2023 đến năm 2029, số thuê bao 5G toàn cầu được dự báo sẽ tăng hơn 330%, tăng từ con số 1,6 tỷ lên 5,3 tỷ thuê bao. Vùng phủ sóng 5G được dự báo sẽ đáp ứng cho hơn 45% dân số toàn cầu vào cuối năm 2023 và 85% vào cuối năm 2029.
+
+Khu vực Bắc Mỹ và Hội đồng Hợp tác vùng Vịnh dự kiến sẽ có tỷ lệ thâm nhập 5G khu vực cao nhất vào cuối năm 2029 ở mức 92%. Tiếp theo là Tây Âu với dự báo tỷ lệ thâm nhập là 85%.Còn với khu vực Đông Nam Á, báo cáo cho biết, số lượng thuê bao 5G sẽ đạt khoảng 550 triệu ở Đông Nam Á và Châu Đại Dương vào cuối năm 2029.
+
+Ngoài việc tạo ra hạ tầng 5G tiên phong trong khu vực, trọng tâm của các nhà cung cấp dịch vụ là hướng tới đa dạng hóa các dịch vụ cung cấp cho cả người tiêu dùng và doanh nghiệp. Nâng cao trải nghiệm của khách hàng, mở rộng phạm vi phủ sóng mạng và thúc đẩy chuyển đổi số cho các doanh nghiệp vẫn là những ưu tiên hàng đầu trên toàn khu vực.
+
+Lưu lượng dữ liệu di động trên điện thoại tiếp tục tăng mạnh ở Đông Nam Á và Châu Đại Dương, dự kiến sẽ tăng từ mức 24GB mỗi tháng của năm 2023 lên tới khoảng 66GB mỗi tháng vào năm 2029, tốc độ CAGR đạt 19%.
+
+Bà Rita Mokbel, Giám đốc Ericsson Việt Nam khẳng định, 5G sẽ là nền tảng hạ tầng quan trọng giúp đẩy nhanh quá trình chuyển đổi số của Việt Nam. Trong giai đoạn đầu, 5G sẽ cho phép các nhà cung cấp dịch vụ tại Việt Nam cung cấp trải nghiệm băng thông rộng di động nâng cao cho người tiêu dùng cũng như nâng cao công suất của các hệ thống mạng để quản lý lưu lượng dữ liệu ngày càng tăng. Theo thời gian, sẽ có thêm các trường hợp sử dụng 5G sáng tạo mới trong các lĩnh vực 5G dành cho doanh nghiệp.
+
+Với hơn 600 triệu thuê bao 5G tăng thêm trên toàn cầu trong năm 2023 và đang tiếp tục gia tăng ở mọi khu vực đã khẳng định rõ nhu cầu rất lớn về kết nối hiệu suất cao. Phó Chủ tịch Điều hành kiêm Giám đốc Các hệ thống Mạng của Ericsson Fredrik Jejdling, cho biết việc triển khai 5G vẫn đang diễn ra và ngày càng có nhiều mạng 5G SA (StandAlone- 5G độc lập) được triển khai, mang lại cơ hội hỗ trợ các ứng dụng mới có yêu cầu băng thông cao hơn cho cả người tiêu dùng và doanh nghiệp.
+
+Ngoài ra nghiên cứu cũng nhấn mạnh mức tiêu thụ dữ liệu trung bình toàn cầu trên điện thoại không ngừng tăng lên. Tổng lưu lượng dữ liệu di động ước tính sẽ tăng gấp 3 lần từ cuối năm 2023 đến cuối năm 2029 do các yếu tố tích cực như khả năng của thiết bị được cải thiện, các nội dung sử dụng nhiều dữ liệu tăng lên và hiệu suất các mạng được triển khai tiếp tục được nâng cao.
+
+Tốc độ tăng trưởng dữ liệu trong mạng di động phản ánh rõ ràng sự quan tâm của người tiêu dùng đối với các ứng dụng liên quan đến băng thông rộng di động nâng cao. Xu hướng này sẽ tăng nhanh khi ngày càng có nhiều người tiêu dùng trên toàn thế giới đón nhận 5G và các trường hợp sử dụng mới xuất hiện, thúc đẩy lưu lượng dữ liệu tăng trưởng hơn nữa.
+
+Do hầu hết lưu lượng truy cập được tạo ra trong nhà, nơi mọi người thường dành phần lớn thời gian, nên nhu cầu mở rộng vùng phủ sóng băng tần 5G tầm trung cả trong nhà và ngoài trời để đảm bảo trải nghiệm 5G toàn diện ở tất cả các địa điểm đang ngày càng tăng.
+
+Theo chuyên gia, băng tần 5G tầm trung kết hợp dung lượng cao với vùng phủ sóng tốt sẽ là sự lựa chọn hiệu quả mang lại trải nghiệm 5G đầy đủ. Phạm vi phủ sóng dân số đối với băng tần 5G tầm trung trên toàn cầu hiện là hơn 40%, tăng từ 30% vào năm 2022.

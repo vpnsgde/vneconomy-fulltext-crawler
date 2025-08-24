@@ -1,0 +1,72 @@
+4 "nỗi đau" của Viettel khi tham dự MWC 2019
+
+$(document).ready(function() {
+            new AOS.init();
+
+            $('[data-fancybox="images"]').fancybox({
+                buttons: [
+                    "zoom",
+                    "close"
+                ],
+                arrows: false,
+                infobar: false
+            });
+        })
+
+Ông từng chia sẻ là “Hãy đem nỗi đau của mình đến với hội nghị di động thế giới (MWC)”. Vậy năm nay, “nỗi đau” của Viettel là gì khi đến với MWC 2019?
+
+“Nỗi đau” là từ tôi nói đùa khi đề cập đến những băn khoăn, vấn đề khó mà Viettel gặp phải trong hoạt động sản xuất kinh doanh. Chúng tôi mang điều đó đến hội nghị di động thế giới với mong muốn tìm ra giải pháp. Với hội nghị năm nay, chúng tôi có 4 “nỗi đau” quan trọng.
+
+Đầu tiên là 5G. Cách đây 2 năm, nhiều vendor (nhà cung cấp) lớn đã giới thiệu về 5G nhưng thiết bị vẫn còn khá lớn. Năm nay, mọi thứ đã có vẻ chín muồi hơn. Viettel đến MWC 2019 để tìm hiểu thêm về các thiết bị từ các vendor như trạm thu phát sóng, hệ thống mạng lõi, hệ thống truyền tải, thiết bị đầu cuối 5G đã sẵn sàng đến mức nào rồi. Hiện tại, chúng tôi đã được cấp phép thử nghiệm trên 3 băng tần với 5G và cũng đang nghiên cứu sản xuất thiết bị 5G nữa nên đây là một “nỗi đau” lớn.
+
+Thứ hai, Viettel cũng đặt mục tiêu phải dẫn đầu về chuyển dịch số ở Việt Nam không chỉ về dịch vụ mà cả trong vận hành mạng lưới và quản trị. Chúng tôi mong muốn cùng chia sẻ kinh nghiệm cũng như lộ trình chuyển đổi số của một nhà mạng từ những nhà khai thác viễn thông, các nhà cung cấp giải pháp lớn của thế giới như Vodafone, Orange, Ericsson, Cisco, Juniper…
+
+Thứ ba là vấn đề triển khai các dịch vụ trên nền tảng công nghệ 4.0. Chúng tôi mong muốn sẽ tìm kiếm được nhiều đối tác trong việc phối hợp cung cấp các dịch vụ trí tuệ nhân tạo (AI), thực tại ảo (VR)....
+
+Thứ tư, chúng tôi cũng tìm kiếm các xu hướng liên quan đến công nghệ, vật liệu mới… phục vụ cho việc sản xuất các thiết bị công nghệ cao của Viettel.
+
+Trong lần tham dự MWC lần này, những sản phẩm mà Viettel giới thiệu có gì khác biệt?
+
+Hệ thống tính cước theo thời gian thực thế hệ mới của Viettel (vOCS) là một sản phẩm đáng chú ý nhất được Viettel đem tới tại hội nghị lần này trong nhóm giải pháp liên quan đến mạng lõi. Chúng tôi đã cung cấp vOCS cho tất cả các mạng viễn thông mà Viettel đang kinh doanh trên toàn cầu và chứng minh được năng lực cạnh tranh trong việc thiết kế gói cước ưu việt, cách tính cước…
+
+Một trong những tính năng của vOCS mà các hệ thống tính cước khác trên thế giới chưa có là thiết kế cho mỗi khách hàng một gói cước riêng biệt. Đây là tính năng đặc biệt quan trọng trong bối cảnh thị trường viễn thông ở nhiều nước trên thế giới đã bước vào giai đoạn bão hoà.
+
+Nhóm giải pháp đáng chú ý thứ hai liên quan đến dịch vụ về an toàn thông tin và an ninh mạng. Với việc là một nhà mạng thiết kế giải pháp này, chúng tôi hiểu rõ các hệ thống viễn thông và tạo ra những giải pháp chống tấn công, chống truy nhập lấy cắp thông tin phù hợp và hiệu quả nhất – điều mà những nhà cung cấp không phải là nhà mạng khó lòng có được.
+
+Ngoài ra, nhóm các giải pháp về hỗ trợ kinh doanh và hỗ trợ khai thác của Viettel đem tới hội nghị cũng là những sản phẩm đã chứng minh được tính ưu việt của mình khi triển khai tại Việt Nam và các thị trường khác của Viettel trên toàn cầu. Chúng tôi muốn chia sẻ các bài học thành công cùng các sản phẩm này với các đối tác quan tâm trên thế giới tại MWC 2019 ở Barcelona.
+
+Trên thế giới, Viettel mới chỉ là một nhà cung cấp mới cho các giải pháp về mạng lõi cũng như mới bước vào lĩnh vực an ninh mạng… Liệu Viettel “có cửa” khi cạnh tranh với những nhà cung cấp của thế giới và đã có thương hiệu nhiều năm?
+
+Khi đến với hội nghị di động thế giới, có rất nhiều công ty đến đây để tìm kiếm giải pháp phù hợp với nhu cầu của mình.
+
+Viettel từng có nhiều “nỗi đau” và chúng tôi cũng đã thành công trong việc tìm ra nhiều giải pháp riêng cho những “nỗi đau” đó, đồng thời đóng gói và có thể  tuỳ biến cho những bài toán tương tự.
+
+Khi đem giải pháp của mình đến với Hội nghị di động thế giới, chúng tôi muốn tìm kiếm những đối tác có “nỗi đau” tương tự với mình. MWC là một cơ hội tốt cho điều này.
+
+Trong lần thứ 5 tham dự MWC, sự khác biệt của Viettel so với các lần trước là gì?
+
+Mỗi năm Viettel đều mang sản phẩm cũng như các thành tựu của mình đến MWC để giới thiệu với bạn bè, đối tác trên thế giới. Cùng là một sản phẩm, giải pháp nhưng mỗi năm Viettel mang đến một trình độ mới cùng với hy vọng cơ hội mới lớn hơn.
+
+Năm nay, Viettel muốn giới thiệu mình không chỉ là một nhà cung cấp dịch vụ viễn thông thuộc Top 30 thế giới. Viettel đã trở thành một nhà cung cấp thiết bị, giải pháp viễn thông, an ninh mạng… với sản phẩm khác biệt, có tính cạnh tranh. Với các giải pháp cho các nhà mạng, Viettel xuất thân là nhà mạng nên hiểu nhu cầu cũng như vấn đề mà các nhà mạng gặp phải.
+
+Trên thế giới có nhà sản xuất thiết bị viễn thông nào như Viettel không?
+
+Với các giải pháp về công nghệ thông tin thì có một số nhà cung cấp dịch vụ viễn thông tự làm nhưng với sản xuất thiết bị viễn thông thì tôi chưa biết có nhà mạng nào làm như Viettel.
+
+Đưa sản phẩm, giải pháp cho các nhà mạng đến giới thiệu tại MWC, đến nay, Viettel đã có những kết quả gì?
+
+Năm trước, nhà mạng của Ethiopia đã dùng thử hệ thống phòng chống tấn công mạng của Viettel. Với hệ thống vOCS, Viettel đủ điều kiện tham gia cung cấp cho một số nhà mạng ở Trung Á nhưng đang trong giai đoạn đấu thầu. Năm nay, khi đem vOCS đến MWC, chúng tôi đã có kế hoạch giới thiệu với những nhà mạng lớn của thế giới về những ưu việt trong giải pháp của mình.
+
+Một số chuyên gia cho rằng, với một số tập đoàn hay công ty, tham gia MWC chủ yếu để làm thương hiệu chứ hiệu quả thực sự về kinh tế đem lại là không nhiều. Còn Viettel thì sao?
+
+Khi tham dự MWC, Viettel đều xây dựng các bộ KPI với các chỉ tiêu rất cụ thể: đi để làm gì, mang lại giá trị gì… chứ không chỉ để làm thương hiệu.
+
+Viettel sẽ có nhóm giới thiệu sản phẩm. Nhóm này phải chuẩn bị trước kế hoạch giới thiệu sản phẩm, giải pháp về công nghệ thông tin - viễn thông với khách hàng tiềm năng tại MWC.
+
+Với nhóm tìm hiểu các công nghệ, giải pháp, người Viettel cũng sẽ phải chuẩn bị trước kế hoạch để đến đó gặp gỡ, tìm kiếm để có được các giải pháp mới cho hoạt động kinh doanh, vận hành, khai thác mạng lưới… Điều này nhắm tới mục tiêu đem lại các hiệu quả kinh tế thực sự tại Việt Nam cũng như tại 10 thị trường quốc tế mà Viettel đang kinh doanh.
+
+Chỉ đơn giản như việc tiết kiệm năng lượng vận hành các trạm BTS, nếu tìm ra biện pháp thì không chỉ hơn 40.000 trạm BTS tại Việt Nam mà hàng trăm nghìn trạm BTS của Viettel trên khắp thế giới cũng được tối ưu. Chỉ cần tìm được một giải pháp mới nhỏ nhưng hiệu quả đạt được trên quy mô lớn thì không nhỏ. Và để tìm được thì phải lặn lội đi tìm thôi.
+
+Một nhóm khác phải tìm được các đối tác cung cấp vật tư, hàng hoá, thiết bị mới, giúp tăng sự lựa chọn, để Viettel mua được các thiết bị tốt hơn, chất lượng cao, với giá thành rẻ...
+
+Đoàn của Viettel khi tham dự MWC đều có những mục tiêu cụ thể về giá trị cụ thể, đo lường được như vậy, với nhiệm vụ rất rõ ràng.

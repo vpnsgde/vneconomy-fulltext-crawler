@@ -1,0 +1,29 @@
+Quyết định xác định 11 nhóm công nghệ chiến lược và 35 nhóm sản phẩm công nghệ ưu tiên nhằm thúc đẩy phát triển khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số trong nước. Theo đó, các nhóm công nghệ chiến lược và nhóm sản phẩm công nghệ chiến lược gồm:
+
+Nhóm trí tuệ nhân tạo, bản sao số, thực tế ảo/thực tế tăng cường với sáu sản phẩm: mô hình ngôn ngữ lớn tiếng Việt, trợ lý ảo, trí tuệ nhân tạo (AI) chuyên ngành, AI phân tích, bản sao số (Digital Twin) và vũ trụ ảo (Metaverse).
+
+Nhóm điện toán đám mây - lượng tử - dữ liệu lớn gồm ba sản phẩm: dịch vụ điện toán đám mây, điện toán và truyền thông lượng tử, trung tâm dữ liệu quy mô lớn.
+
+Nhóm blockchain tập trung vào tài sản số, tiền số, tiền mã hóa; hạ tầng mạng blockchain và hệ thống truy xuất nguồn gốc.
+
+Nhóm mạng di động 5G/6G gồm thiết bị và giải pháp mạng truy cập vô tuyến theo chuẩn ORAN, mạng lõi 5G/6G, giải pháp truyền dẫn IP tốc độ cao.
+
+Nhóm robot và tự động hóa gồm robot di động tự hành, robot công nghiệp, dây chuyền chế biến thực phẩm tiên tiến cho nông - lâm - thủy sản, hệ thống bảo quản và giám sát chất lượng sau thu hoạch.
+
+Nhóm chip bán dẫn gồm chip chuyên dụng, chip AI và chip IoT.
+
+Nhóm y - sinh học tiên tiến tập trung vào vaccine thế hệ mới, liệu pháp gen trong y tế và nông nghiệp, liệu pháp tế bào như tế bào gốc và tế bào miễn dịch.
+
+Nhóm năng lượng và vật liệu tiên tiến gồm lò phản ứng hạt nhân nhỏ an toàn, pin lithium-ion và pin thể rắn, nhiên liệu và điện phân, vật liệu tiên tiến.
+
+Nhóm đất hiếm - đại dương - lòng đất gồm hệ thống đánh giá trữ lượng, khai thác và tinh chế đất hiếm, công nghệ thăm dò địa chất thông minh, giải pháp khai thác biển sâu, công nghệ khai thác năng lượng ngoài khơi.
+
+Nhóm an ninh mạng gồm giải pháp tường lửa và hệ thống bảo đảm an ninh cho hạ tầng trọng yếu, cơ sở dữ liệu quốc gia.
+
+Nhóm công nghệ hàng không, vũ trụ gồm vệ tinh viễn thám và viễn thông tầm thấp, trạm mặt đất và điều khiển vệ tinh, thiết bị bay không người lái.
+
+Các tổ chức và cá nhân đang hoạt động trong lĩnh vực khoa học và công nghệ tại Việt Nam có thể nộp hồ sơ đăng ký thực hiện đề tài trong hai đợt: Đợt 1 từ ngày 8/7/2025 đến 17h ngày 22/7/2025; đợt 2 kết thúc trước 17h ngày 8/8/2025.
+
+Hồ sơ có thể nộp trực tiếp tại cổng một cửa của Bộ Khoa học và Công nghệ hoặc trực tuyến qua hệ thống quản lý nhiệm vụ khoa học và công nghệ của NAFOSTED (https://e-services.nafosted.gov.vn/) và Cổng sáng kiến Việt Nam (https://sangkien.mst.gov.vn/). Kết quả tài trợ sẽ được thông báo trong tháng 8 và 9/2025.
+
+Chương trình tài trợ đề tài tiềm năng theo định hướng sản phẩm công nghệ chiến lược được kỳ vọng tạo cú huých quan trọng để phát triển các sản phẩm khoa học công nghệ "Make in Viet Nam", góp phần nâng cao năng lực tự chủ công nghệ, phục vụ tăng trưởng kinh tế, bảo đảm an ninh quốc gia và hội nhập quốc tế sâu rộng.

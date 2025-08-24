@@ -1,0 +1,29 @@
+Theo dữ liệu mới nhất từ nền tảng i-Speed của Trung tâm Internet Việt Nam (Bộ Khoa học và Công nghệ), tốc độ tải xuống trung bình của mạng băng rộng di động trên cả nước đạt 77,19 Mbps, trong khi tốc độ tải lên trung bình là 27,37 Mbps. Đáng chú ý, chất lượng mạng di động trong tháng qua ghi nhận mức cải thiện mạnh mẽ nhất kể từ tháng 2/2024.
+
+Đà tăng trưởng ấn tượng của chất lượng mạng di động trong tháng qua chủ yếu đến từ sự cải thiện đồng đều của các nhà mạng viễn thông. Đáng chú ý, Viettel và MobiFone đều ghi nhận chất lượng mạng cao nhất kể từ tháng 4/2024. Trong đó, Viettel dẫn đầu với tốc độ tải xuống băng rộng di động đạt 88,97 Mbps — tăng mạnh so với mức 68,94 Mbps của tháng 3/2025 và tốc độ tải lên đạt 27,98 Mbps. Xếp ngay sau là VNPT với tốc độ tải xuống và tải lên lần lượt là 65,02 Mbps và 27,88 Mbps.
+
+Trong khi đó, MobiFone ghi nhận tốc độ tải xuống đạt 54,07 Mbps và tốc độ tải lên đạt 23,62 Mbps. Ở vị trí thứ tư, Vietnamobile có kết quả khiêm tốn hơn, với tốc độ tải xuống là 8,02 Mbps và tốc độ tải lên chỉ đạt 3,09 Mbps.
+
+Về chỉ số đo lường tốc độ mạng băng rộng di động các tỉnh thành, Xét riêng tại 5 đô thị lớn gồm Hà Nội, Hải Phòng, Đà Nẵng, TP.HCM và Cần Thơ, Đà Nẵng tiếp tục giữ vững vị trí dẫn đầu với tốc độ mạng băng rộng di động trung bình đạt 272,97 Mbps. Đặc biệt, chất lượng mạng tại Đà Nẵng ghi nhận mức tăng đột biến, tăng khoảng 133% so với tháng 3/2025. Đối với các địa phương còn lại, phần lớn đều cho thấy xu hướng cải thiện rõ rệt về chất lượng mạng. Tuy nhiên, Hà Nội là ngoại lệ khi tốc độ mạng trong tháng vừa qua lại giảm nhẹ.
+
+Về tốc độ mạng băng rộng cố định, dù không tăng trưởng đột phá như mạng di động, nhưng trong tháng 4 vừa qua, chất lượng mạng toàn quốc tiếp tục phục hồi theo chiều hướng tích cực sau đợt sụt giảm mạnh hồi tháng 2/2025. Cụ thể, tốc độ tải xuống trung bình đạt 143,01 Mbps – tăng khoảng một phần ba so với tháng 3/2025. Tốc độ tải lên cũng ghi nhận mức cải thiện nhẹ, đạt 112,55 Mbps.
+
+Thống kê kết quả đo lường tốc độ mạng băng rộng cố định của các nhà mạng, thứ hạng các nhà cung cấp dịch vụ viễn thông trong tháng 4 cho thấy sự xáo trộn đáng kể. Đáng chú ý, VNPT đã có bước bứt phá mạnh mẽ, vượt qua CMC để vươn lên dẫn đầu về chất lượng mạng Internet cố định tại Việt Nam. Cụ thể, tốc độ tải xuống mạng băng rộng cố định của VNPT đạt 193,47 Mbps – gần gấp đôi so với mức 108,74 Mbps của tháng 3/2025, trong khi tốc độ tải lên đạt 144,26 Mbps.
+
+Đứng ở vị trí thứ hai là CMC Telecom với tốc độ tải xuống đạt 135,29 Mbps và tốc độ tải lên đạt 133,38 Mbps. Mặc dù vẫn duy trì chất lượng mạng ổn định, nhưng trước sự bứt phá mạnh mẽ của VNPT trong tháng 4, CMC Telecom đã bị tụt hạnng trên bảng xếp hạng.
+
+Viettel giữ vững vị trí thứ ba về chất lượng mạng băng rộng cố định với tốc độ tải xuống đạt 132,3 Mbps và tốc độ tải lên đạt 108,88 Mbps, không thay đổi so với tháng trước. Đứng sau là FPT Telecom với tốc độ tải xuống đạt 103,36 Mbps và tốc độ tải lên là 98,79 Mbps. Ở vị trí thứ năm, SCTV ghi nhận tốc độ lần lượt là 78,71 Mbps cho tải xuống và 28,53 Mbps cho tải lên. Xếp thứ sáu, NETNAM có tốc độ tải xuống đạt 63,89 Mbps và tải lên đạt 74,68 Mbps.
+
+
+
+Tốc độ mạng di động 5G trong tháng 4/2025
+
+Theo thống kê mới nhất về mạng băng rộng di động 5G trong tháng 4, tốc độ tải xuống trung bình trên toàn quốc đạt 354,88 Mbps, trong khi tốc độ tải lên đạt 94,92 Mbps. So với tháng trước, chất lượng mạng 5G đã có bước nhảy vọt, nhanh hơn hơn một nửa – cho thấy xu hướng cải thiện rõ rệt của hạ tầng mạng thế hệ mới.
+
+Viettel tiếp tục khẳng định vị thế dẫn đầu trên thị trường 5G, với tốc độ tải xuống đạt 364,43 Mbps và tải lên đạt 97,6 Mbps – bỏ xa các nhà mạng còn lại về hiệu suất kết nối. Ở vị trí thứ hai, MobiFone ghi nhận tốc độ tải xuống 162,82 Mbps và tải lên 39,5 Mbps. VNPT đứng thứ ba với tốc độ tải xuống 158,68 Mbps và tải lên 47,94 Mbps.
+
+Xét theo khu vực địa lý, Đà Nẵng dẫn đầu cả nước về chất lượng mạng 5G với tốc độ mạng trung bình ấn tượng đạt 393,84 Mbps. Các thành phố lớn như TP.HCM, Cần Thơ và Hải Phòng cũng duy trì chất lượng mạng ổn định với tốc độ tải về lần lượt là 293,36 Mbps, 271,34 Mbps và 246,03 Mbps. Trong khi đó, Hà Nội lại ghi nhận chất lượng mạng 5G có phần kém cạnh so với các địa phương khác, với tốc độ mạng 5G tải xuống chỉ đạt 156,73 Mbps, thấp hơn đáng kể so với các tỉnh thành còn lại.
+
+Tốc độ mạng di động 5G trong tháng 4/2025Theo thống kê mới nhất về mạng băng rộng di động 5G trong tháng 4, tốc độ tải xuống trung bình trên toàn quốc đạt 354,88 Mbps, trong khi tốc độ tải lên đạt 94,92 Mbps. So với tháng trước, chất lượng mạng 5G đã có bước nhảy vọt, nhanh hơn hơn một nửa – cho thấy xu hướng cải thiện rõ rệt của hạ tầng mạng thế hệ mới.
+Viettel tiếp tục khẳng định vị thế dẫn đầu trên thị trường 5G, với tốc độ tải xuống đạt 364,43 Mbps và tải lên đạt 97,6 Mbps – bỏ xa các nhà mạng còn lại về hiệu suất kết nối. Ở vị trí thứ hai, MobiFone ghi nhận tốc độ tải xuống 162,82 Mbps và tải lên 39,5 Mbps. VNPT đứng thứ ba với tốc độ tải xuống 158,68 Mbps và tải lên 47,94 Mbps.
+Xét theo khu vực địa lý, Đà Nẵng dẫn đầu cả nước về chất lượng mạng 5G với tốc độ mạng trung bình ấn tượng đạt 393,84 Mbps. Các thành phố lớn như TP.HCM, Cần Thơ và Hải Phòng cũng duy trì chất lượng mạng ổn định với tốc độ tải về lần lượt là 293,36 Mbps, 271,34 Mbps và 246,03 Mbps. Trong khi đó, Hà Nội lại ghi nhận chất lượng mạng 5G có phần kém cạnh so với các địa phương khác, với tốc độ mạng 5G tải xuống chỉ đạt 156,73 Mbps, thấp hơn đáng kể so với các tỉnh thành còn lại.

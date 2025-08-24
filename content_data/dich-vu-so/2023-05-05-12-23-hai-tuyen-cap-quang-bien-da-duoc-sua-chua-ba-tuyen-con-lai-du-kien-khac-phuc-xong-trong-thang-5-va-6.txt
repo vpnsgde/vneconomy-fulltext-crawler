@@ -1,0 +1,23 @@
+Chia sẻ tại buổi họp báo thường kỳ ngày 5/5/2023 của Bộ Thông tin và Truyền thông, Cục Viễn thông cho biết, Việt Nam hiện có 5 tuyến cáp quang biển quốc tế gồm AAG, AAE-1, APG, IA và SMW3, cập bờ tại 2 trạm ở Đà Nẵng và Vũng Tàu.
+
+Trong thời gian qua, từ cuối năm 2022 và các tháng đầu năm 2023, cả 5 tuyến cáp quang biển quốc tế này lần lượt gặp sự cố làm ảnh hưởng đến không chỉ Việt Nam mà nhiều quốc gia tham gia các tuyến cáp quang này. Tình huống hy hữu, bất khả kháng này đã gây ảnh hưởng nhất định đến chất lượng dịch vụ kết nối Internet Việt Nam đi quốc tế, đồng thời cũng tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp công nghệ.
+
+Ông Nguyễn Thành Phúc, Cục trưởng Cục Viễn thông cho biết, ngay khi xảy ra sự cố, Cục Viễn thông đã chỉ đạo các doanh nghiệp triển khai nhiều phương án, như chủ động, nhanh chóng phối hợp với thành viên hệ thống tuyến cáp bị sự cố, đo đạc, xác định vị trí và loại sự cố để tiến hành sửa chữa khắc phục trong thời gian sớm nhất.
+
+Bên cạnh đó, Cục Viễn thông cũng đã triển khai điều tiết, giảm tải các dung lượng quốc tế, phối hợp với các đối tác cung cấp dịch vụ lưu lượng quốc tế, ưu tiên dung lượng theo khung giờ để đảm bảo chất lượng, đồng thời khẩn trương phối hợp với các đối tác nước ngoài để mua dung lượng quốc tế trên đất liền để đảm bảo dung lượng cung cấp dịch vụ kết nối.
+
+Ông Phúc thông tin, theo báo cáo của các doanh nghiệp viễn thông, tính đến ngày 3/5, đã có 2 tuyến cáp quang biển là IA và SMW3 hoàn thành việc sửa chữa, khắc phục sự cố. Hai tuyến cáp biển khác là AAE-1 và AAG dự kiến sẽ hoàn thành sửa chữa trong tháng 5/2023. Riêng tuyến cuối cùng là APG dự kiến sẽ được hoàn thành khắc phục xong trong tháng 6/2023.
+
+Qua giám sát của Cục Viễn thông, đến thời điểm hiện tại, với việc triển khai đồng bộ nhiều giải pháp, trải nghiệm của người dùng dịch vụ Internet quốc tế tương đối ổn định, đáp ứng được nhu cầu.
+
+Hạ tầng số là hạ tầng quan trọng trong kỷ nguyên số, do đó một trong những tiêu chí mà Bộ Thông tin và Truyền thông đã đặt ra chính là tính bền vững. Trong thời gian tới, Bộ sẽ đôn đốc, hướng dẫn các doanh nghiệp viễn thông nghiên cứu, xây dựng mới thêm 4- 6 tuyến cáp quang biển để bảo đảm đáp ứng nhu cầu, phù hợp với dự thảo Quy hoạch hạ tầng thông tin và truyền thông giai đoạn 2021- 2030.
+
+Trước đó, tại buổi làm việc với các doanh nghiệp viễn thông để xử lý sự cố  các tuyến cáp quang biển Việt Nam kết nối đi quốc tế, Bộ Thông tin và Truyền thông đã giao Cục Viễn thông làm việc với các doanh nghiệp viễn thông để xây dựng quy hoạch tuyến cáp quang biển Việt Nam, đồng thời thúc đẩy nhanh thêm các tuyến cáp quang biển do Việt Nam làm chủ kết nối đi quốc tế.
+
+Theo định hướng, dự kiến đến năm 2025, tổng số tuyến cáp quang biển mà các doanh nghiệp Việt Nam sử dụng sẽ khoảng 10 tuyến. Việc đi vào hoạt động của các tuyến cáp quang biển mới sẽ góp phần bổ sung thêm dung lượng nhằm giải quyết nhu cầu kết nối Internet đi quốc tế.
+
+Mới đây, FPT cho biết sẽ chi 87 triệu USD tham gia đầu tư tuyến cáp quang biển mới Asia Link Cable (ALC). Dự án xây dựng tuyến cáp quang biển ALC dự kiến sẽ tiêu tốn 300 triệu USD và được hoàn thành vào Quý 3/2025. Tuyến Asia Link Cable mà FPT Telecom muốn tham gia có chiều dài khoảng 6.000 km. Tuyến cáp này kết nối nhiều địa điểm tại khu vực châu Á như Hong Kong, Hải Nam (Trung Quốc), Luna, Bauang (Philippines), Tungku (Brunei) và Changi (Singapore).
+
+Theo thiết kế, hệ thống cáp quang biển ALC sẽ có tối thiểu 8 cặp cáp quang, với dung lượng thiết kế đường trục tối thiểu 18 Tbps trên mỗi cặp cáp. Khi hoàn thành, tuyến cáp này sẽ góp phần bổ sung thêm dung lượng và tính đa dạng cho mạng lưới Internet hiện có trong khu vực.
+
+Ngoài ra, trong thời gian qua, hai nhà mạng khác là VNPT và Viettel đã tham gia vào các liên minh để đầu tư xây dựng các tuyến cáp biển mới SJC2 và ADC. Theo tiến độ, trong năm nay, 2 tuyến cáp quang biển này sẽ được xây dựng xong và đưa vào vận hành chính thức.

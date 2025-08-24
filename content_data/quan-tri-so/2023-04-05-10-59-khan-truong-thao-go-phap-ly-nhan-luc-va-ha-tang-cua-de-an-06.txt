@@ -1,0 +1,21 @@
+Đề án Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 (gọi tắt Đề án 06) được Chính phủ phê duyệt vào tháng 1/2022.
+
+Tại phiên họp, Phó Thủ tướng Trần Hồng Hà, Phó Chủ tịch thường trực Uỷ ban Quốc gia về chuyển đổi số yêu cầu Bộ Tư pháp đẩy mạnh rà soát, đôn đốc, phối hợp chặt chẽ với các bộ ngành để đẩy nhanh việc rà soát, sửa đổi, bổ sung văn bản quy phạm pháp luật có liên quan đến thực hiện Đề án 06, đặc biệt là trách nhiệm của các bộ trưởng, trưởng ngành.
+
+Về việc bảo đảm nguồn nhân lực khai thác, sử dụng hiệu quả Cơ sở dữ liệu quốc gia về dân cư trong cung cấp dịch vụ công, giải quyết thủ tục hành chính, Phó Thủ tướng giao Bộ Nội vụ xây dựng đề án cụ thể, về tập huấn, đào tạo, tổ chức bộ máy cán bộ, công chức nắm vững chuyên môn, nghiệp vụ về giải quyết thủ tục hành chính trên môi trường điện tử để triển khai Đề án 06 tại địa phương; ban hành hướng dẫn về lưu trữ hồ sơ khi giải quyết thủ tục hành chính trên môi trường điện tử;…
+
+Đồng thời, Phó Thủ tướng cũng yêu cầu Bộ Thông tin và Truyền thông khẩn trương dự báo đầy đủ, chi tiết về yêu cầu hạ tầng, thiết bị, máy móc bảo đảm tính đồng bộ, khả năng tương thích của phần mềm, hệ thống khi vận hành hệ thống suyên suốt từ Trung ương xuống đến cấp tỉnh, huyện, xã; đồng thời từng bộ, ngành, địa phương phải chịu trách nhiệm đầu tư, mua sắm bảo đảm triển khai Đề án 06 theo đúng lộ trình, kế hoạch, bảo đảm an ninh, an toàn thông tin.
+
+Theo báo cáo của Trung tâm Dữ liệu quốc gia về dân cư, hiện còn 5 bộ, ngành chưa hoàn thành rà soát, đề xuất các văn bản quy phạm pháp luật cần sửa đổi, bổ sung để chuyển đổi quy trình, phương thức thực hiện thủ tục hành chính, dịch vụ công từ trực tiếp sang môi trường điện tử.
+
+Trong tổng số 48 thông tư, quyết định, văn bản pháp luật của 16 bộ, ngành quy định về việc nộp, xuất trình sổ hộ khẩu, sổ tạm trú giấy, xác nhận thông tin nơi cư trú khi giải quyết thủ tục hành chính… mới chỉ có Bộ Công an, Bộ Giáo dục và Đào tạo chủ động sửa đổi, bổ sung.
+
+Tại nhiều địa phương, cán bộ, công chức giải quyết thủ tục hành chính chưa nhận thức được việc phải khai thác, sử dụng thông tin công dân trong Cơ sở dữ liệu quốc gia về dân cư.
+
+Khảo sát của Bộ Thông tin và Truyền thông tại 9 địa phương cho thấy, giao diện cổng dịch vụ công còn phức tạp, thanh toán trực tuyến còn hạn chế, các trường thông tin có sẵn trong Cơ sở dữ liệu quốc gia về dân cư chưa được tự động điền vào biểu mẫu, chưa tái sử dụng các thông tin công dân khi giải quyết thủ tục hành chính.
+
+Ngoài ra, hệ thống thông tin giải quyết tại một số địa phương do nhiều đơn vị cung cấp triển khai, hạ tầng đường truyền chưa bảo đảm, nhiều nội dung chưa bảo đảm an ninh, an toàn bảo mật.
+
+Hiện vẫn còn 8 cơ sở dữ liệu ngành của 6 bộ, ngành chưa thực hiện kết nối, chia sẻ; chưa thực hiện đồng bộ dữ liệu mới phát sinh sau khi kết nối; dữ liệu một số bộ, ngành đang phân tán tại địa phương, chưa tập trung về Trung ương.
+
+Tại cuộc họp, đại diện một số bộ, ngành nêu khó khăn, vướng mắc đối với người dân trong quá trình thực hiện dịch vụ công liên thông; kết nối phần mềm để xử lý hồ sơ dịch vụ công liên thông trong hệ thống nghiệp vụ; thực hiện nhóm dịch vụ công liên thông như: Đăng ký khai sinh, đăng ký thường trú, cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi, đăng ký khai tử, xoá đăng ký thường trú, trợ cấp mai táng phí…

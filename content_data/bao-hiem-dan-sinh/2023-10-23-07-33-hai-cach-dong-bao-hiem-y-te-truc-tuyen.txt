@@ -1,0 +1,85 @@
+Bảo hiểm xã hội Việt Nam vừa có hướng dẫn người dân thực hiện đăng ký đóng, cấp thẻ bảo hiểm y tế (đối với người chỉ tham gia bảo hiểm y tế) bằng hình thức trực tuyến thông qua Cổng Dịch vụ công Quốc gia hoặc Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam với các thao tác nhanh chóng, tiện lợi.
+
+Theo đó, người dân có thể đăng ký đóng, cấp thẻ bảo hiểm y tế trực tuyến theo 2 cách.
+
+I. Trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam
+
+Bước 1.Truy cập Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam tại địa chỉ: https://dichvucong.baohiemxahoi.gov.vn, chọn “Đăng nhập”
+
+Lựa chọn đối tượng đăng nhập là "Cá nhân", nhập các thông tin: Tài khoản (mã số bảo hiểm xã hội), mật khẩu, mã kiểm tra và chọn “Đăng nhập” như màn hình sau:
+
+Bước 2.Chọn chức năng"ĐÓNG BHXH ĐIỆN TỬ"
+
+Bước 3.Chọn chức năng"Đăng ký đóng, cấp thẻ BHYT"
+
+Màn hình hiển thị, yêu cầu kê khai các thông tin như sau:
+
+Bước 4.Kê khai thông tin
+
+(1) Kê khai thông tin chủ hộ:
+
+Kê khai đầy đủ các thông tin: Số định danh cá nhân, Họ tên, Ngày sinh và Giới tính.
+
+(2) Kê khai thông tin thành viên hộ gia đình:
+
+Chọn "Thêm thành viên HGĐ" để thêm thành viên hộ gia đình và Nhập số định danh cá nhân/Căn cước công dân của thành viên.
+
+Lưu ý:Nhập đầy đủ số định danh của các thành viên hộ gia đình để được đảm bảo quyền lợi giảm trừ mức đóng.
+
+(3) Chọn số tháng đăng ký, đóng bảo hiểm y tế:
+
+Sau khi kê khai đầy đủ các thành viên hộ gia đình, lựa chọn số tháng đăng ký, đóng bảo hiểm y tế, nhấn "Xác nhận". Hệ thống sẽ xác thực thông tin các thành viên hộ gia đình với Cơ sở dữ liệu quốc gia về dân cư.
+
+Trường hợp thông tin chủ hộ không chính xác; hoặc các thành viên không cùng đăng ký thường trú, hoặc không cùng đăng ký tạm trú với chủ hộ, hệ thống sẽ thông báo để người tham gia điều chỉnh, cập nhật lại thông tin.
+
+Trường hợp xác thực thông tin chủ hộ chính xác và các thành viên trong Cơ sở dữ liệu quốc gia về dân cư có cùng đăng ký thường trú hoặc tạm trú, hệ thống sẽ kiểm tra thông tin tham gia bảo hiểm y tế, tính toán số tiền phải đóng (sau khi được giảm trừ mức đóng) theo quy định và hiển thị như hình sau:
+
+(4) Chọn nơi đăng ký khám bệnh, chữa bệnh ban đầu:
+
+(5) Chọn nơi nhận thẻ bảo hiểm y tế bản giấy:
+
+(6) Thanh toán:
+
+Trường hợp cần bổ sung thành viên hộ gia đình hoặc điều chỉnh số tháng đăng ký, đóng bảo hiểm y tế, nhấn chọn "Quay lại" để thực hiện. Trường hợp các thông tin đã chính xác, nhấn chọn "Thanh toán" để tiếp tục, màn hình hiển thị như sau:
+
+- Chọn ngân hàng thụ hưởng của cơ quan Bảo hiểm xã hội (nơi nhận tiền thanh toán.
+
+- Chọn "Thanh toán" để tiếp tục. Hệ thống sẽ điều hướng sang Nền tảng thanh toán quốc gia (Payment Platform) như hình dưới:
+
+- Chọn ngân hàng hoặc trung gian thanh toán (nơi người tham gia đăng ký, đóng có tài khoản) để thực hiện thanh toán. Ví dụ: Chọn ngân hàng SHB qua trung gian thanh toán như màn hình sau:
+
+- Chọn “Thanh toán”, màn hình hiển thị như sau:
+
+- Chọn “Tiếp tục” để tiếp tục các bước thanh toán, màn hình hiển thị yêu cầu nhập các thông tin thanh toán:
+
+- Nhập các thông tin theo hình thức thanh toán của Ngân hàng và chọn “Thanh toán” để tiếp tục
+
+- Nhập mã OTP (đã được ngân hàng tự động gửi đến số điện thoại của chủ tài khoản). Nhấn "Xác nhận" để thực hiện thanh toán.
+
+- Thanh toán thành công, hệ thống hiển thị như hình trên. Có thể chọn: "In biên lai" để xem biên lai thanh toán.
+
+- Để xem lại lịch sử giao dịch, tại menu (bên trái), chọn "Tra cứu lịch sử nộp bảo hiểm xã hội điện tử/Lịch sử đăng ký tham gia bảo hiểm y tế theo hộ gia đình"
+
+II: Thực hiện trên cổng Dịch vụ công Quốc gia
+
+Bước 1.Đăng nhập Cổng Dịch vụ công Quốc gia tại địa chỉ: https://dichvucong.gov.vn bằng tài khoản đã đăng ký.
+
+Bước 2.Tại trang chủ Cổng Dịch vụ công Quốc gia, chọn menu "Dịch vụ công trực tuyến"
+
+Chọn cơ quan thực hiện làBộ ngànhvà chọnBảo hiểm xã hội Việt Nam,chọnTìm kiếm:
+
+Bước 3. Chọn Dịch vụ công:“Đăng ký đóng, cấp thẻ bảo hiểm y tế đối với người chỉ tham gia bảo hiểm y tế”.
+
+Chọn“Danh sách dịch vụ công”:
+
+Chọn Dịch vụ côngĐăng ký đóng, cấp thể bảo hiểm y tế đối với người chỉ tham gia bảo hiểm y tế trên Cổng dịch vụ công,và Chọn “Nộp trực tuyến”
+
+Bước 4. Cổng Dịch vụ công Quốc gia sẽ điều hướng sang Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam để người tham gia thực hiện kê khai, nộp hồ sơ đăng ký đóng, cấp thẻ bảo hiểm y tế đối với người chỉ tham gia bảo hiểm y tế.
+
+Bước 5. Để tiếp tục thực hiện Đăng ký đóng, cấp thể bảo hiểm y tế đối với người chỉ tham gia bảo hiểm y tế trên Cổng dịch vụ công, người tham gia thực hiện tiếp từBước 3, mục 1.
+
+Theo Bảo hiểm xã hội Việt Nam, hiện tỷ lệ dân số tham gia bảo hiểm y tế của năm sau luôn cao hơn năm trước. Năm 2021, tỷ lệ bao phủ bảo hiểm y tế là 91,01%; năm 2022 là 92,04%; năm 2023 ước 93,22%.
+
+Đến nay, nhận thức của người dân về chính sách bảo hiểm y tế đã được nâng cao. Hầu hết người dân đều mong muốn được tham gia bảo hiểm xã hội, bảo hiểm y tế để đảm bảo an sinh cho bản thân và gia đình.
+
+Thống kê trong 9 tháng năm 2023, cơ quan Bảo hiểm xã hội đã giải quyết cho hơn 127 triệu lượt khám chữa bệnh bảo hiểm y tế (tăng gần 20% so với cùng kỳ), tương ứng số chi khám chữa bệnh bảo hiểm y tế khoảng 90 nghìn tỷ đồng (tăng hơn 13.600 tỷ đồng, tương ứng 15,6% so với cùng kỳ).

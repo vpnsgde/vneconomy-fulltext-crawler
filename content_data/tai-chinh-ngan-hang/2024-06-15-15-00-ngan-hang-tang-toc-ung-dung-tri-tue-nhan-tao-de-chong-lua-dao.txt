@@ -1,0 +1,29 @@
+Tại hội thảo "Nâng cao bảo mật, an toàn giao dịch không tiền mặt", PGS.TS Trần Hùng Sơn, Viện trưởng Viện Nghiên cứu phát triển công nghệ ngân hàng (Đại học Quốc gia TP.HCM), cho biết Việt Nam nằm trong nhóm các quốc gia bị thiệt hại nặng nề nhất do gian lận thanh toán số. Theo đó, tỉ lệ thiệt hại do gian lận số gây ra tại Việt Nam lên tới 3,6% GDP, cao hơn mức trung bình toàn cầu (1,1%) và vượt trội so với các nước như Brazil hay Thái Lan (cùng 3,2%).
+
+Các hình thức gian lận trong thanh toán số phổ biến tại Việt Nam bao gồm tấn công mạng (phần mềm độc hại, lừa đảo, tấn công trung gian), mạo danh, gian lận phi kỹ thuật, lạm dụng chính sách hoàn tiền, gian lận của bên thứ nhất... Đáng chú ý, tỉ lệ các vụ lừa đảo được xác nhận tại khu vực Đông Nam Á đã tăng 5 điểm phần trăm trong năm 2023, lên mức 54%.
+
+Để đối phó với tình trạng gian lận gia tăng, PGS.TS Trần Hùng Sơn đề xuất các ngân hàng và doanh nghiệp cần triển khai đồng bộ nhiều giải pháp, trong đó ứng dụng trí tuệ nhân tạo (AI) và máy học để phát hiện gian lận được xem là một phương pháp phòng ngừa rủi ro hiệu quả.
+
+Thông qua các thuật toán thông minh, hệ thống AI có thể liên tục phân tích hành vi giao dịch, nhận diện các dấu hiệu bất thường và đưa ra cảnh báo kịp thời cho đơn vị vận hành cũng như khách hàng. Bằng cách tự học từ dữ liệu, AI ngày càng trở nên thông minh hơn trong việc phát hiện các hình thức gian lận mới.
+
+Ngoài ra, PGS.TS Trần Hùng Sơn còn đề nghị các đơn vị cung cấp dịch vụ thanh toán cần chủ động hợp tác, chia sẻ cơ sở dữ liệu về gian lận, đồng thời thống nhất quy trình xử lý chung. Việc hoàn thiện hệ thống định danh số cũng sẽ góp phần hỗ trợ đắc lực cho công tác phòng ngừa gian lận trong thanh toán. Đồng thời, các cơ quan quản lý cần chủ động xây dựng hành lang pháp lý để bắt kịp với sự phát triển nhanh chóng của thanh toán số và ngăn ngừa rủi ro gian lận.
+
+Cuối cùng, công tác tuyên truyền, phổ biến kiến thức về bảo mật cho người dùng là việc cần được chú trọng để góp phần ngăn chặn lừa đảo khi mà ứng dụng di động ngày càng trở thành mục tiêu ưa thích của kẻ gian.
+
+Về phía các ngân hàng, đại diện Vietcombank chia sẻ ngân hàng đang tích cực triển khai các giải pháp sinh trắc học theo quyết định 2345 của Ngân hàng Nhà nước nhằm đảm bảo an toàn, bảo mật trong giao dịch. Việc xác thực sinh trắc học khách hàng vừa đảm bảo tính chính xác, tin cậy của dữ liệu, vừa không gây cản trở cho trải nghiệm giao dịch của người dùng. Cùng với đó, Vietcombank còn tích hợp với hệ thống Bộ Công an để kiểm tra đảm bảo quá trình thu thập dữ liệu sinh trắc học nhanh chóng, thuận tiện.
+
+"Việc ứng dụng AI và đưa AI vào phân tích dữ liệu không chỉ thuận tiện mà an toàn cho người dùng khi mua sắm online. Với người dùng khi mua và chuyển hàng về chuyển về địa điểm quen thuộc thì khá đơn giản; nhưng cũng người dùng đấy, vì lý do nào đó chuyển địa điểm giao hàng mới thì phải xác thực. Lúc đó phải dùng đến AI để xác thực", Nguyễn Đăng Hùng, Phó Tổng giám đốc Công ty cổ phần Thanh toán Quốc gia Việt Nam (Napas) chia sẻ.
+
+Trong thời gian tới Napas sẽ phối hợp với các ngân hàng để làm sao cho các giải pháp thanh toán online không chỉ an toàn mà còn dễ dùng hơn nhờ áp dụng công nghệ mới như công nghệ xác thực sinh trắc học trên điện thoại di động, giúp cho giao dịch mua sắm trên mạng trở nên liền mạch hơn, rõ ràng và an toàn hơn.
+
+Ông Lê Hoàng Chính Quang, Phó Cục trưởng Cục Công nghệ thông tin (Ngân hàng Nhà nước), cho biết Ngân hàng Nhà nước đã xác định bảo đảm an ninh, an toàn thông tin là một trong những trụ cột chính trong chiến lược phát triển công nghệ thông tin, hiện đại hóa, thúc đẩy sự phát triển bền vững của ngành ngân hàng. Trong những năm qua, Ngân hàng Nhà nước đã ban hành nhiều văn bản quy phạm pháp luật, văn bản chỉ đạo, hướng dẫn về bảo đảm an toàn thông tin và hoạt động liên tục của các hệ thống thông tin.
+
+Từ đầu năm 2024 đến nay, Ngân hàng Nhà nước đã có 7 văn bản chỉ đạo các đơn vị trong ngành tổ chức triển khai các giải pháp bảo đảm an toàn thông tin. Đồng thời, phối hợp với lực lượng công an tăng cường công tác kiểm tra chuyên đề về công tác bảo đảm an ninh, an toàn các hệ thống thông tin quan trọng tại các tổ chức tín dụng, trung gian thanh toán.
+
+Về công nghệ, nếu trước đây theo cách truyền thống là phòng ngự bị động thì bây giờ sang chủ động trong công tác bảo đảm an ninh, an toàn thông tin. Cụ thể, toàn ngành ngân hàng chủ động kiểm tra, đánh giá, khắc phục các lỗ hổng, điểm yếu về an toàn thông tin của các hệ thống thông tin; chủ động giám sát, điều tra các dấu hiệu sự cố an toàn thông tin ngay từ khi mới bắt đầu để kịp thời xử lý từ sớm các cuộc tấn công mạng có thể xảy ra…
+
+Bên cạnh đó, các ngân hàng, doanh nghiệp cũng phải thiết lập các hệ thống dự phòng thảm họa, sao lưu dữ liệu, thực hiện việc chuyển đổi định kỳ giữa các trung tâm dữ liệu bảo đảm sẵn sàng thay thế cho hệ thống chính (nếu có sự cố xảy ra). Song song đó, mọi doanh nghiệp phải xây dựng các kịch bản và diễn tập ứng cứu các sự cố an toàn thông tin.
+
+Liên quan đến việc thanh toán trên không gian mạng, đại diện Napas cũng cho biết trong thời gian qua, đơn vị này đã phối hợp với các ngân hàng, các cơ quan thanh toán, đặc biệt là các cổng thanh toán để cung cấp các giải pháp về an toàn bảo mật.
+
+"Việc áp dụng các biện pháp an toàn bảo mật luôn cần thiết. Đây là một quá trình liên tục và nâng cấp. Trong vòng 10 năm gần đây chúng ta nhìn thấy rằng các giải pháp công nghệ đã có sự thay đổi; thói quen, hành vi của người mua hàng cũng thay đổi. Họ đã chuyển dần từ sử dụng máy tính cá nhân sang điện thoại di động để thực hiện xác thực. Trên cơ sở điện thoại ngày càng trở nên thông minh thì các biện pháp sinh trắc học cũng đã dần dần trở nên cần thiết. Đó là lý do tại sao Napas phải liên tục nâng cấp các giải pháp an ninh an toàn để đảm bảo việc thanh toán trực tuyến trên không gian mạng và đặc biệt là mua sắn online ngày càng trở nên an toàn hơn", ông Nguyễn Đăng Hùng nhấn mạnh.

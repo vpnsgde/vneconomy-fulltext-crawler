@@ -1,0 +1,33 @@
+Một ước tính cho thấy 30% tổng diện tích đất trên hành tinh đang được sử dụng để phục vụ ngành chăn nuôi, tương đương khoảng 70% tổng diện tích đất nông nghiệp trên thế giới. Trong khi đó, ngành công nghiệp chăn nuôi phải chịu trách nhiệm cho 18% lượng khí thải nhà kính trên toàn thế giới. Để so sánh, tất cả các phương tiện giao thông đang hoạt động mới chỉ thải ra 13,5% tổng tượng khí CO2.
+
+Mục tiêu của thịt nhân tạo là cung cấp nguồn thực phẩm bền vững, giảm tác động môi trường từ chăn nuôi. Thịt nhân tạo cũng giúp giảm việc giết mổ động vật, đồng thời đáp ứng nhu cầu protein trên toàn cầu. Bên cạnh đó, bằng cách kiểm soát các điều kiện nuôi cấy thịt, chúng ta có thể tạo ra nguồn thực phẩm dinh dưỡng hợp lý, tốt cho sức khỏe, chẳng hạn thịt nhiều nạc và ít chất béo.
+
+Tháng 4 năm nay, một nhóm các nhà khoa học tại Đại học Tokyo, Nhật Bản cho biết họ đã đạt được một bước tiến đột phá trong lĩnh vực sản xuất thịt trong phòng thí nghiệm, nhờ vào những vi ống lấy từ lõi máy lọc nước. Những vi ống này có thể được biến thành mạch máu nhân tạo bên trong miếng thịt, cho phép chất dinh dưỡng đi qua để nuôi miếng thịt lớn lên.
+
+Ý tưởng này đã giúp các nhà khoa học Nhật Bản đi vào lịch sử khi lần đầu tiên nuôi được thịt gà nhân tạo dạng miếng 3D với kích thước lớn nhất từ trước đến nay (7,00 cm × 4,05 cm × 2,25 cm). Trước đó, các nỗ lực nuôi cấy thịt trong phòng thí nghiệm trong vòng 25 năm qua chỉ được thực hiện dựa trên công nghệ 1D (tạo ra các sợi thịt một chiều) và 2D (tạo ra các miếng thịt mỏng dưới 1 mm), rồi ép và viên chúng lại với nhau thành miếng lớn.
+
+Kỹ sư y sinh Shoji Takeuchi từ Đại học Tokyo giải thích: “Các tế bào cần liên tục nhận được chất dinh dưỡng và oxy để duy trì sức khỏe và phát triển. Ở động vật, mạch máu thực hiện công việc này, vận chuyển chất dinh dưỡng khắp mô. Để giải quyết vấn đề này, chúng tôi đã sắp xếp các sợi rỗng với độ chính xác ở cấp vi mô”.
+
+Hệ thống lắp ráp tự động bằng robot của nhóm có thể trang bị cho mỗi miếng thịt hơn 1.000 sợi rỗng, đảm bảo mọi tế bào thịt, dù ở vị trí sâu bên trong, đều được cung cấp đầy đủ chất dinh dưỡng. "Những sợi rỗng này vốn đã được sử dụng phổ biến trong máy lọc nước gia đình và máy chạy thận nhân tạo", Takeuchi cho biết. "Thật thú vị khi phát hiện chúng cũng có thể hỗ trợ hiệu quả trong việc tạo ra mô nhân tạo và thậm chí là các cơ quan hoàn chỉnh trong tương lai".
+
+Các thử nghiệm cho thấy miếng thịt này có hàm lượng protein cao hơn, cho hương vị và kết cấu vượt trội so với các nỗ lực tạo ra thịt gà viên nhân tạo trước đây. Mặt khác, vì thịt nhân tạo có thể được nuôi theo miếng nên sản lượng cao hơn. Một số nhà nghiên cứu cho rằng chỉ với 10 tế bào sợi cơ, họ có thể tạo ra 50.000 tấn thịt nhân tạo trong vòng 2 tháng.
+
+Cùng với đó, thịt miếng dạng 3D sẽ giúp cải thiện cảm giác cắn và hương vị mà chúng mang lại. "Công nghệ của chúng tôi sẽ cho phép sản xuất thịt có cấu trúc với kết cấu và hương vị được cải thiện, có thể đẩy nhanh quá trình thương mại hóa thịt nhân tạo", Takeuchi khẳng định. Công nghệ này cũng mở đường cho việc nuôi cấy các loại thịt khác ngoài thịt gà, chẳng hạn thịt heo, bò và cá, theo báo Guardian.
+
+Nhóm nghiên cứu cho biết họ sẽ tăng cường kẽm và selenium vào thịt để tăng sức đề kháng cho người cao tuổi. Với đủ nguồn tài trợ, nhóm tin rằng các sản phẩm dựa trên công nghệ này có thể có mặt trên thị trường từ 5 - 10 năm nữa.
+
+Tương tự, tại Đại học Kỹ thuật Quốc gia Donsky (Nga), công nghệ in 3D không chỉ cho phép tổng hợp thịt nhân tạo mà còn có thể "lập trình" các thành phần của thịt, ví dụ để thu được sản phẩm với hàm lượng chất béo thấp hơn. Kết quả nghiên cứu được công bố trên tạp chí Frontiers in Bioscience - Landmark.
+
+Theo các chuyên gia từ Đại học Kỹ thuật Quốc gia Donsky, để in ra thịt nhân tạo, các tế bào được lấy từ động vật hiến tặng bằng con đường sinh thiết, sau đó nhân lên trong điều kiện thoải mái cho chúng (tạo ra nền nuôi cấy tế bào). Từ vật liệu này, có thể in ra một sản phẩm ba chiều mà hương vị rất giống với thịt.
+
+“Một động vật hiến tặng có thể là nguồn cung cấp nhiều thực phẩm hơn so với phương pháp chiết xuất thịt "truyền thống" trực tiếp từ cơ thể động vật sau khi giết mổ", bà Evgenya Kirichenko, Chủ nhiệm Bộ môn Kỹ thuật Sinh học thuộc Khoa Kỹ thuật Sinh học và Thú y của Đại học Kỹ thuật Quốc gia Donsky nhấn mạnh.
+
+"Công nghệ này có thể áp dụng với tế bào của bất kỳ loài động vật thuần hóa nào. Trong tương lai, phát minh của chúng tôi có thể giúp giảm chi phí sản xuất thịt gia súc gia cầm xuống 20 - 30% nhờ tự động hóa và tối ưu hóa các quy trình", chuyên gia giải thích.
+
+Không giống các dự án tương tự, chiến lược của các chuyên gia Đại học Kỹ thuật Quốc gia Donsky dự trù không tính đếm thủ công các loại tế bào khác nhau trong sản phẩm thịt để kiểm soát chất lượng, mà dùng một hệ thống tự động. "Chúng tôi đã phát triển thuật toán có thể xác định và đếm tế bào mỡ, nguyên bào sợi và tế bào cơ trong các mảng nuôi cấy với độ chính xác đến 92%. Những tế bào này quyết định độ sạch và giá trị dinh dưỡng của sản phẩm", bà Kirichenko cho biết.
+
+Sản phẩm thịt làm từ natri alginat, protein hướng dương và tế bào được in trên máy in 3D cải tiến. Các chuyên gia hiên có kế hoạch hoàn thiện công cụ đếm tế bào thuộc nhiều loại khác nhau và sẽ cung cấp cho tất cả các phòng thí nghiệm ở Nga.
+
+Thực tế, quy mô thị trường thịt nhân tạo đang phát triển nhanh chóng và được dự đoán sẽ đạt giá trị hàng tỷ USD trong tương lai gần. Thị trường thịt nuôi cấy ước tính đạt 214 triệu USD vào năm 2025 và dự kiến ​​đạt 593 triệu USD vào năm 2032, theo công ty nghiên cứu thị trường Marketsand Markets.
+
+Các yếu tố thúc đẩy sự tăng trưởng của thị trường bao gồm việc thịt nhân tạo có thể cung cấp các lựa chọn thay thế lành mạnh hơn với hàm lượng chất béo và cholesterol thấp hơn. Mặc dù có tiềm năng lớn, thịt nhân tạo vẫn đang phải đối mặt với một số thách thức, bao gồm cả việc giảm giá thành sản phẩm, đảm bảo chất lượng, cũng như thay đổi thói quen tiêu dùng.

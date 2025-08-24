@@ -1,0 +1,15 @@
+Cụ thể, thông qua nền tảng Threat Intelligence, Group-IB (một trong những nhà cung cấp giải pháp hàng đầu nhằm phát hiện và ngăn chặn các cuộc tấn công mạng, gian lận trực tuyến và bảo vệ quyền sở hữu trí tuệ) đã tìm thấy nhật ký giao dịch của mã độc đánh cắp thông tin trên chợ Dark Web.
+
+Đặc biệt, vào tháng 5/2023, có 26.802 tài khoản ChatGPT bị hack đã được giao dịch. Khu vực Châu Á - Thái Bình Dương có tỷ lệ số lượng tài khoản ChatGPT bị xâm nhập cao nhất từ tháng 6/2022 đến tháng 5/2023 (chiếm 40,5%).
+
+Việt Nam là quốc gia đứng thứ 4 trong danh sách các quốc gia có nhiều tài khoản ChatGPT bị kiểm soát nhất với 4.711. Ấn Độ đứng đầu với 12.632 tài khoản trong khi Mỹ đứng thứ sáu với 2.995 tài khoản.
+
+Phần mềm đánh cắp thông tin đăng nhập ChatGPT thường được sử dụng là Raccoon (78.348 tài khoản), Vidar (12.984) và RedLine (6.773). Các phần mềm này được tin tặc lập trình để đánh cắp mật khẩu, thông tin thẻ tín dụng và thông tin người dùng khác từ trình duyệt web hoặc tiện ích mở rộng hỗ trợ ví điện tử.
+
+ChatGPT ngày càng được nhiều nhân viên sử dụng trong công việc của họ, từ phát triển phần mềm đến kinh doanh. Cài đặt mặc định sẽ lưu trữ câu hỏi của người dùng và câu trả lời của chatbot nên có nguy cơ lộ thông tin nhạy cảm, dẫn đến truy cập trái phép và tấn công mạng vào các doanh nghiệp và cá nhân trên toàn cầu.
+
+Theo Group-IB, nhiều hacker muốn lợi dụng chatbot để viết mã độc và thực hiện các hành vi nguy hiểm khác. Đặc biệt, một số lượng lớn tài khoản ChatGPT đã bị hack bởi chương trình đánh cắp thông tin khét tiếng Raccoon.
+
+Để giảm thiểu rủi ro liên quan đến tài khoản ChatGPT bị xâm phạm, Group-IB khuyến nghị người dùng nên cập nhật mật khẩu thường xuyên và bật xác thực hai yếu tố.
+
+ChatGPT, được phát triển từ mô hình GPT-3.5 của OpenAI, được đào tạo để đưa ra câu trả lời giống như một cuộc trò chuyện với người thật. Theo thống kê từ ngân hàng đầu tư UBS dựa trên dữ liệu từ Similar Web, tính đến ngày 31/1, ChatGPT đã cán mốc 100 triệu người dùng sau 2 tháng có mặt trên thị trường.

@@ -1,0 +1,37 @@
+Nhận định này được Công ty Công nghệ An ninh mạng Quốc gia Việt Nam (NCS) đưa ra trong Báo cáo tổng kết An ninh mạng Việt Nam năm 2023 và dự báo năm 2024 công bố sáng 12/12/2023. Theo NCS, năm 2023 đã ghi nhận 13.900 vụ tấn công mạng vào các tổ chức tại Việt Nam, trung bình mỗi tháng xảy ra 1.160 vụ, tăng 9,5% so với năm 2022. Các mục tiêu chịu nhiều cuộc tấn công nhất trong năm qua là các cơ quan chính phủ, hệ thống ngân hàng, tổ chức tài chính, hệ thống công nghiệp và các hệ thống trọng yếu khác.
+
+Đặc biệt, trong 3 tháng cuối năm 2023 số vụ tấn công mạng tăng mạnh, lên tới 1.614 vụ trong 1 tháng, gấp rưỡi so với trung bình. Nguyên nhân do thời điểm cuối năm, các cơ quan, doanh nghiệp, tổ chức có nhiều dự án công nghệ thông tin cần hoàn thành, nhân sự thường phải hoạt động trên 100% năng suất nên khả năng xảy ra nhiều sai sót, đây cũng là cơ hội để hacker có thể tấn công, phá hoại.
+
+Các chuyên gia NCS chỉ ra top 3 điểm yếu bị tấn công nhiều nhất tại Việt Nam năm 2023. Tỷ lệ cao nhất là điểm yếu con người, chiếm 32,6% tổng số vụ việc. Theo đó hacker sử dụng email giả mạo (phishing) có file đính kèm mã độc dưới dạng file văn bản hoặc nội dung có đường link đăng nhập giả mạo để chiếm tài khoản, kiểm soát máy tính người dùng từ xa.
+
+Thứ hai là lỗ hổng của các nền tảng, dịch vụ phần mềm cài đặt trên máy chủ chiếm 27,4%. Các phần mềm bị khai thác là phần mềm Mail Server, nền tảng quản lý nội dung, nền tảng chia sẻ dữ liệu… Điểm yếu thứ 3 là các lỗ hổng của website do tổ chức tự phát triển chiếm 25,3% số vụ việc.
+
+Không chỉ thu thập, sửa đổi và đánh cắp dữ liệu, hacker còn công khai chèn các đường dẫn ẩn (backlink) quảng cáo nội dung vi phạm pháp luật như cờ bạc, cá độ lên các website chính thống. Theo thống kê, có tới 342 trang web giáo dục có tên miền .edu.vn và 212 trang web của cơ quan chính phủ có tên miền .gov.vn đã bị tấn công theo kiểu này. Đặc biệt có nhiều website bị tấn công lại nhiều lần mà không có cách khắc phục triệt để.
+
+Để phòng tránh tấn công mạng, các cơ quan tổ chức cần rà soát lại kiến trúc an ninh mạng tổng thể, định kỳ kiểm tra, đánh giá (pentest) các dịch vụ, thiết bị đang sử dụng. Triển khai các hệ thống giám sát an ninh mạng 24/7, trong đó yêu cầu thu thập đầy đủ nhật ký hoạt động (log) của toàn hệ thống, đảm bảo lưu trữ trong ít nhất 6 tháng, đồng thời cử người chuyên trách hoặc thuê ngoài dịch vụ giám sát an ninh mạng.
+
+Theo tổng hợp của NCS, tỷ lệ máy tính tại Việt Nam bị mã độc tấn công trong năm 2023 là 43,6%, tuy có giảm nhẹ 8,6% so với năm 2022 nhưng vẫn ở mức cao của thế giới. Nỗ lực liên tục giảm tỷ lệ máy tính bị nhiễm mã độc qua từng năm của Việt Nam rất đáng được ghi nhận, bởi trước đó vào năm 2018, tỷ lệ này còn ở mức rất cao (hơn 60%).
+
+Trong năm qua cũng ghi nhận nhiều vụ việc tấn công mã hoá dữ liệu ransomware gây hậu quả nghiêm trọng. Không chỉ mã hóa dữ liệu nhằm đòi nạn nhân trả tiền chuộc, tin tặc có thể rò rỉ, bán dữ liệu cho bên thứ 3 để tối đa số tiền thu được. Đã có tới 83.000 máy tính, máy chủ ghi nhận bị tấn công bởi mã độc mã hoá dữ liệu, tăng 8,4% so với năm 2022.
+
+Đặc biệt, Quý 4/2023 số cuộc tấn công mã hoá dữ liệu tăng mạnh, vượt 23% so với trung bình 3 Quý đầu năm. Số lượng biến thể mã độc mã hoá dữ liệu xuất hiện trong năm 2023 là 37.500 mã, tăng 5,7% so với năm 2022.
+
+
+
+Các hình thức tấn công mã độc phổ biến tại Việt Nam hiện nay là tấn công dò mật khẩu yếu, khai thác lỗ hổng của hệ điều hành Windows, lỗ hổng của phần mềm Microsoft Office, lây qua các phần mềm không rõ nguồn gốc trên mạng hoặc lây qua các ổ đĩa USB.
+
+Đặc biệt theo các chuyên gia NCS, tình trạng lộ lọt dữ liệu của người dùng tại Việt Nam đã ở mức báo động. Theo thống kê năm 2023, Bộ Công An đã phải cảnh báo, xử lý hàng chục triệu các vụ việc có liên quan đến xâm phạm cơ sở dữ liệu cá nhân. Nghiêm trọng hơn, các dữ liệu này đã được rao bán trên các diễn đàn, thậm chí rao bán trên cả trên cả các hội nhóm Telegram. Chỉ cần bỏ ra vài nghìn đồng là có được dữ liệu cá nhân của một người thông qua số điện thoại liên lạc.
+
+Theo chuyên gia, có 2 nguyên nhân chính dẫn đến lộ lọt dữ liệu tại Việt Nam. Thứ nhất, do các hệ thống thu thập, lưu trữ thông tin người dùng nhưng không đảm bảo an ninh, từ đó bị tin tặc (hacker) xâm nhập lấy cắp dữ liệu hoặc bị nhân viên chủ động bán ra ngoài thu lợi bất chính. Thứ hai, do người dùng chủ quan, bất cẩn tự mình lộ lọt thông tin trên mạng hoặc trên các website mua bán trực tuyến.
+
+Sim rác, tài khoản ngân hàng rác tràn lan, dữ liệu cá nhân bị lộ lọt cùng với sự phổ biến của công nghệ DeepFake đã kéo theo hàng loạt vụ việc lừa đảo trực tuyến xảy ra trong năm 2023. Kẻ xấu dựa vào dữ liệu có được, dựng lên các kịch bản dành riêng cho từng mục tiêu, đồng thời sử dụng DeepFake để giả mạo hình ảnh, giọng nói, khiến cho nạn nhân rất khó phát hiện. Theo thống kê, có tới hơn 24 hình thức lừa đảo khác nhau. Nhiều trường hợp nạn nhân đã bị mất cả tỷ đồng.
+
+Theo dự báo của các chuyên gia NCS, trong năm 2024, các hình thức tấn công mạng, tấn công có chủ đích APT vào các hệ thống trọng yếu, tấn công mã hoá dữ liệu sẽ tiếp tục tiếp diễn.
+
+Chuyển đổi số diễn ra mạnh mẽ khiến điện thoại thông minh trở nên vô cùng quan trọng trong đời sống cũng như công việc, nhưng cũng trở thành miếng mồi rất hấp dẫn với tin tặc. Người dùng di động sẽ phải đối mặt nhiều hơn với các loại mã độc có khả năng xâm nhập, khai thác lỗ hổng, chiếm quyền điều khiển điện thoại, bao gồm cả các điện thoại chạy hệ điều hành Android và hệ điều hành iOS (iphone).
+
+Năm 2024, cũng sẽ có những đợt tấn công quy mô lớn nhắm vào các thiết bị IoT, đặc biệt các thiết bị có khả năng thu thập thông tin, hình ảnh như camera an ninh, màn hình quảng cáo công cộng.
+
+Công nghệ trí tuệ nhân tạo (AI) sẽ tiếp tục bùng nổ ứng dụng trong năm 2024 sẽ kéo theo những công cụ phục vụ mục đích xấu như lừa đảo, tấn công mạng. ChatGPT và DeepFake sẽ được sử dụng để tự soạn các kịch bản lừa đảo nhằm chiếm đoạt tiền của nạn nhân. Mã độc và các công cụ khai thác lỗ hổng sẽ được trang bị thêm AI để tăng khả năng khai thác lỗ hổng cũng như giúp qua mặt các giải pháp an ninh mạng.
+
+Bảo vệ dữ liệu cá nhân theo yêu cầu của Nghị định 13 là nhiệm vụ hàng đầu của các tổ chức. Chiến lược phòng thủ An ninh mạng sẽ có nhiều thay đổi, bên cạnh các kiến trúc bảo vệ nhiều lớp, ngăn chặn dựa trên các tập luật và mẫu nhận diện, các tổ chức sẽ tăng cường đầu tư vào giám sát an ninh mạng, săn tìm chủ động các nguy cơ, chấp nhận xác suất bị tấn công nhưng phát hiện sớm để khắc phục, giảm thiểu thiệt hại. Công nghệ tạo lập bẫy với dữ liệu giả (deception) để thu hút sự chú ý của tin tặc nhằm bảo vệ dữ liệu thật cũng sẽ được phổ biến trong thời gian tới, chuyên gia NCS cho biết.

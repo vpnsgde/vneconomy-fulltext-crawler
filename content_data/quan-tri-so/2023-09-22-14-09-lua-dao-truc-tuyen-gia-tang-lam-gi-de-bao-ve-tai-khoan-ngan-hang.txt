@@ -1,0 +1,45 @@
+Lừa đảo trực tuyến gần đây có xu hướng gia tăng và thủ đoạn ngày càng tinh vi. Đặc biệt, tội phạm mạng luôn ngắm vào tài khoản ngân hàng của người dùng cuối, gây tổn thất hàng chục tỉ USD mỗi năm.
+
+Nhằm tăng cường bảo vệ an toàn cho tài khoản ngân hàng của người dùng, nhiều giải pháp để phòng, chống tội phạm đã được các cơ quan quản lý và ngành ngân hàng liên tục cảnh báo trong thời gian qua. Tuy nhiên, việc xử lý vấn nạn lừa đảo này không đơn giản, cần sự phối hợp cả 3 bên, đặc biệt là việc nâng cao nhận thức của khách hàng.
+
+Theo Luật sư Ngô Huỳnh Phương Thảo, Đoàn luật sư TP.HCM, trong quá trình làm việc và giảng dạy ở nhiều cơ sở pháp luật đã nhận được rất nhiều phản ánh về việc bị lừa đảo tiền trên không gian mạng. Gần đây nhất là trường hợp một người quen được mời làm công việc "việc nhẹ lương cao", tương tác với các clip trên Facebook với hứa hẹn nhận được khoản thu nhập tốt.
+
+"Từ 10.000 đồng/lần tương tác clip ban đầu, sau đó người này bị dẫn dụ và mất tổng cộng hơn 25 tỷ đồng. Mặc dù đã tố giác tội phạm đến cơ quan công an, nhưng quá trình tìm kiếm kẻ lừa đảo rất gian nan”, luật sư Thảo kể.
+
+Thực tế, các trường hợp lừa đảo như trên không phải hiếm. Ông Lê Anh Dũng, Phó Vụ trưởng Vụ Thanh toán, Ngân hàng Nhà nước, cho biết thời gian qua lừa đảo trực tuyến đã bùng phát mạnh, có tác động tiêu cực đến người tiêu dùng, doanh nghiệp bán hàng lẫn các tổ chức tài chính. Những kẻ lừa đảo sử dụng các công cụ kỹ thuật hoặc phi kỹ thuật “social engineering” để xâm phạm thông tin cá nhân của người dùng cho nhiều mục tiêu khác nhau nhưng thường nhắm đến mục đích lừa lấy tiền của người dùng.
+
+Các hình thức lừa đảo, chiếm đoạt tài sản trên không gian mạng gồm: giả danh công an, Viện kiểm sát, tòa án gọi điện đe dọa khách hàng có liên quan đến vụ án, đường dây tội phạm yêu cầu khách hàng chuyển tiền đến tài khoản chỉ định để phục vụ điều tra.
+
+Mặt khác, kẻ gian mạo danh nhân viên nhà mạng đề nghị hỗ trợ chuyển sim 3G thành 4G miễn phí hoặc thông báo khóa sim vì chưa chuẩn hóa thuê bao. Nạn nhân làm theo hướng dẫn và bị chiếm đoạt quyền sử dụng số điện thoại để nhận mã OTP kết hợp với thông tin định danh đã thu thập được của khách hàng để kích hoạt lại dịch vụ ngân hàng điện tử, có quyền truy cập thực hiện giao dịch chiếm đoạt tiền của người dùng.
+
+Một hình thức lừa đảo mới xảy ra gần đây là kẻ gian giả mạo công chức, viên chức, cơ quan nhà nước hướng dẫn người dân cài đặt các ứng dụng giả mạo (VssID, VNeID, eTax Mobile,…) để chiếm quyền điều khiển điện thoại, thu thập thông tin cá nhân, tài khoản ngân hàng và lấy cắp tiền trong tài khoản ngân hàng của người dùng…
+
+Trước thực trạng trên, Thượng tá Cao Việt Hùng, Phó trưởng Phòng 4 - Cục An ninh mạng và Phòng chống tội phạm sử dụng công nghệ cao (Bộ Công an), cho rằng các ngân hàng cần nâng cao, tăng cường hơn việc phối hợp giữa Bộ Công an, Ngân hàng Nhà nước, các tổ chức cung ứng dịch vụ thanh toán để xây dựng quy trình phối hợp nhằm hạn chế tình trạng sử dụng tài khoản ngân hàng, ví điện tử không chính chủ, ngăn chặn sớm dòng tiền và việc vi phạm pháp luật. Cùng đó, tăng cường an ninh, bảo mật hệ thống thông tin, phòng chống mã độc, mua bán dữ liệu khách hàng.
+
+“Các ngân hàng cần nghiên cứu, triển khai các giải pháp để giải quyết triệt để tình trạng tài khoản ngân hàng "rác", sử dụng tài khoản ngân hàng không chính chủ phục vụ hoạt động vi phạm pháp luật như lừa đảo, đánh bạc, rửa tiền. Hơn nữa, cần tăng chế tài mua bán tài khoản ngân hàng để phòng tránh tội phạm lừa đảo”, Thượng tá Hùng khuyến nghị.
+
+Về phía Ngân hàng Nhà nước, đơn vị này cho biết sẽ tiếp tục hoàn thiện hành lang pháp lý. Cụ thể như sửa Quyết định 630/QĐ-NHNN về kế hoạch áp dụng các giải pháp về an toàn bảo mật trong thanh toán trực tuyến và thanh toán thẻ ngân hàng. Theo đó, tới đây Ngân hàng Nhà nước sẽ quy định hạn mức giao dịch phải xác thực bằng sinh trắc học để xác định người mở tài khoản và người thực hiện giao dịch là một.
+
+"Theo thống kê, 90% các khoản chuyển tiền liên ngân hàng là dưới 10 triệu, chỉ 10% là chuyển trên 10 triệu đồng. Do vậy tới đây sẽ có quy định hạn mức buộc phải xác thực sinh trắc học (bằng vân tay, khuôn mặt) khi chuyển tiền liên ngân hàng, có thể là mức 10 triệu đồng. Qua đó cũng sẽ vô hiệu hóa luôn nạn mua bán, cho thuê tài khoản ngân hàng đã tồn tại suốt thời gian qua", Phó Vụ trưởng Vụ Thanh toán Lê Anh Dũng cho biết.
+
+Bên cạnh đó, Ngân hàng Nhà nước phối hợp với Bộ Công an tiếp tục thực hiện việc kết nối cơ sở dữ liệu quốc gia về dân cư để xác thực thông tin tín dụng khách hàng. Làm việc với Bộ Thông tin và Truyền thông về phương án làm sạch dữ liệu, đối khớp thông tin chủ tài khoản đăng ký dịch vụ ngân hàng trực tuyến với thông tin chủ thuê bao di động theo số điện thoại di động.
+
+Một trong những giải pháp để bảo vệ tài khoản ngân hàng là nâng cao nhận thức của người dùng cuối. Theo ông Nguyễn Hữu Nguyên, Phó giám đốc Trung tâm ứng cứu khẩn cấp an ninh mạng, Bộ Thông tin và Truyền thông, trước đây tội phạm mạng hay nhắm vào doanh nghiệp, nhưng nay tội phạm mạng lại nhắm vào chỗ dễ tấn công nhất là người dùng cuối. “Người dùng cuối chúng ta không có nhiều hiểu biết về nhiều công nghệ nhưng lại rất thích khám phá các công nghệ mới, nên dễ bị tấn công. Chúng tôi đã thống nhất biện pháp quan trọng nhất là truyền thông nâng cao nhận thức an toàn, song song với các biện pháp khác”.
+
+Đồng tình, đại diện ACB cho rằng "phòng tuyến" quan trọng nhất vẫn là chủ tài khoản ngân hàng. Khách hàng giao dịch trên thiết bị lạ, hành vi lạ, giao dịch vào giờ lạ... sẽ được ngân hàng phân luồng xử lý riêng. Tuy nhiên, khách hàng cũng nên chậm lại 30 giây sẽ chặn được rất nhiều hành vi lừa đảo.
+
+Đối với trường hợp khách hàng đã "dính bẫy" lừa đảo, cần liên hệ ngay với ngân hàng thụ hưởng đề nghị phong tỏa, thu hồi tiền. Đồng thời, thông báo cho cơ quan chức năng và cung cấp các thông tin phục vụ điều tra…
+
+Mặt khác, người dùng phải tự bảo vệ mình bằng cách cài đặt ứng dụng bảo vệ điện thoại cũng như ứng dụng chống gian lận thanh toán.
+
+Ông Ngô Tấn Vũ Khanh, Giám đốc quốc gia của Kaspersky tại Việt Nam, người dùng các dịch vụ ngân hàng đang trở thành mắt xích yếu nhất trong các vụ lừa đảo trực tuyến, khi không có một biện pháp hay một trang bị nào để phòng, chống các chiêu trò lừa đảo.
+
+“Kẻ lừa đảo có thể tiến hành mua công cụ liên quan từ tài khoản người dùng để lừa đảo đến công cụ và thậm chí cả đối tượng tiềm năng có thể bị "sập bẫy". Do đó, thay vì ngân hàng tập trung "phòng thủ ở nhà", nên tập trung biện pháp cho chính khách hàng của mình - có thể bằng một phần mềm hoặc công cụ trên chính thiết bị của người dùng cuối”, ông Khanh khuyến nghị.
+
+
+
+Áp dụng "3 không" để tránh bị lừa đảo mất tiền
+
+Ông Từ Tiến Phát, Tổng giám đốc ACB, cho rằng nếu áp dụng "3 không", người dân sẽ hạn chế tối đa việc bị lừa đảo, mất tiền trên không gian mạng. Thứ nhất, cứ gặp link gửi đến là không click vào. Thứ hai, không tải app nếu không có trên kho ứng dụng của Google Play hay App Store. Thứ ba, những tư vấn về lợi ích liên quan đến lợi ích đầu tư, lợi ích tài chính (như nhận thưởng) qua điện thoại, mạng xã hội thì không nghe theo vì đa phần là lừa đảo, quấy rối.
+
+Ngoài ra, khách hàng nên đọc, tìm hiểu những thông báo, cảnh báo lừa đảo qua các kênh chính thống như báo chí, thông tin từ ngân hàng để phòng tránh lừa đảo. Khách hàng cũng nên chậm lại vài giây để đọc những thông tin gửi về điện thoại, ví dụ mã OTP nhằm đọc kỹ nội dung.

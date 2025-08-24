@@ -1,0 +1,53 @@
+Hàng loạt những thắc mắc về các vấn đề miễn, giảm, ưu đãi thuế thu nhập doanh nghiệp, thuế giá trị gia tăng, hoàn thuế giá trị gia tăng… đã được cơ quan thuế giải đáp cho hàng trăm doanh nghiệp tại hội nghị “Đối thoại nhằm phổ biến những chính sách thuế mới và giải đáp, tháo gỡ các vướng mắc, khó khăn liên quan đến lĩnh vực thuế”, do Cục Thuế TP.HCM phối hợp Trung tâm Xúc tiến Thương mại và Đầu tư TP.HCM (ITPC) tổ chức ngày 23/11/2023.
+
+Công ty TNHH Thương mại và Dịch vụ Viễn Đạt (quận 1) hỏi về cách tính thuế giá trị gia tăng 10% hay 8% đối với các thiết bị, linh kiện trong lĩnh vực dịch vụ viễn thông, truyền hình của công ty.
+
+Trả lời câu hỏi này, ông Hoàng Xuân Nam, cán bộ Phòng Tuyên truyền - Hỗ trợ người nộp thuế, Cục Thuế TP.HCM, cho biết trường hợp công ty kinh doanh nhiều loại hàng hoá, dịch vụ có mức thuế suất giá trị gia tăng khác nhau (8% nếu thuộc trường hợp được giảm thuế giá trị gia tăng, 5% hoặc 10%), công ty phải tính, khai thuế giá trị gia tăng theo từng mức thuế suất quy định đối với từng loại hàng hoá, dịch vụ.
+
+Trường hợp không xác định theo từng mức thuế suất thì phải tính và nộp thuế theo mức thuế suất cao nhất của hàng hoá, dịch vụ.
+
+Việc xác định hàng hóa, dịch vụ được giảm thuế giá trị gia tăng hay không thì công ty căn cứ vào các hàng hóa, dịch vụ thực tế đang kinh doanh (bán ra), đối chiếu với các nhóm hàng hóa, dịch vụ không được giảm thuế được liệt kê tại Phụ lục I, II III được ban hành kèm theo Nghị định số 44/2023/NĐ-CP theo nguyên tắc: Nếu hàng hóa, dịch vụ thuộc Danh mục hàng hóa, dịch vụ được liệt kê tại các phụ lục trên thì không được giảm thuế giá trị gia tăng.
+
+Ngược lại, nếu hàng hóa, dịch vụ (đang áp dụng thuế suất 10%) không thuộc Danh mục hàng hóa, dịch vụ tại các phụ lục trên  thì được giảm thuế giá trị gia tăng và áp dụng thuế suất 8%.
+
+Công ty cổ phần Dịch vụ Tức Thời (quận 10, TP.HCM) hỏi về việc khấu trừ thuế giá trị gia tăng đối với hóa đơn đầu vào của nhà cung cấp nước ngoài đã đăng ký thuế tại Việt Nam (Facebook, Google...)?
+
+Theo đại diện Cục Thuế TP.HCM, trường hợp các nhà cung cấp nước ngoài đã đăng ký thuế, khai thuế và nộp thuế (các loại thuế theo quy định) tại Cổng thông tin điện tử dành cho nhà cung cấp nước ngoài thì khi thực hiện dịch vụ trên nền tảng ứng dụng trực tuyến tại Việt Nam, công ty không phải thực hiện khấu trừ và kê khai thuế nhà thầu theo quy định tại Thông tư số 103/2014/TT-BTC.
+
+Tuy nhiên, để đảm bảo thực hiện đúng nghĩa vụ nộp thuế thì khi ký kết hợp đồng, công ty phải xác định rõ trách nhiệm của nhà cung cấp nước ngoài trong việc kê khai, nộp thuế (các loại thuế theo quy định) đối với phần doanh thu nhận được của nhà cung cấp tại Việt Nam để đảm bảo thực hiện đúng quy định của pháp luật về thuế.
+
+Trường hợp hóa đơn mua dịch vụ do nhà cung cấp nước ngoài phát hành, cung cấp cho công ty nếu không thuộc loại hóa đơn giá trị gia tăng theo quy định hiện hành thì công ty không được khấu trừ thuế giá trị gia tăng.
+
+Công ty TNHH MTV Công nghệ tin học Viễn Sơn (quận 1) hỏi: Công ty có phát sinh giao dịch liên kết thì chi phí lãi vay không được trừ của năm có Ebitda âm (Ebita<0) có được chuyển sang năm kế tiếp trong thời hạn 5 năm hay không?
+
+Theo trả lời của Cục Thuế TP.HCM, trường hợp trong năm công ty có phát sinh giao dịch liên kết thuộc phạm vi điều chỉnh của Nghị định số 132/2020/NĐ-CP, tổng lợi nhuận thuần từ hoạt động kinh doanh cộng với chi phí lãi vay, chi phí khấu hao trong kỳ (hay còn gọi là chỉ số EBITDA) nhỏ hơn 0 thì chi phí lãi vay trong kỳ tính thuế của công ty không được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp và phần chi phí lãi vay được chuyển sang kỳ tính thuế tiếp theo theo quy định tại điểm b khoản 3 Điều 16 Nghị định số 132/2020/NĐ-CP.
+
+Công ty Gunze Limited Nhật Bản cho biết hiện công ty con tại Việt Nam là Công ty TNHH Gunze Việt Nam, được thuê dịch vụ tư vấn thuế từ công ty TNHH Ernst & Young Việt Nam. Vậy hóa đơn công ty TNHH Ernst & Young Việt Nam xuất cho công ty TNHH Gunze Việt Nam và công ty Gunze Limited Nhật Bản thì thuế giá trị gia tăng (VAT) là 0% đúng không?
+
+Cục Thuế TP.HCM trả lời: Trường hợp cung cấp dịch vụ mà hoạt động cung cấp vừa diễn ra tại Việt Nam, vừa diễn ra ở ngoài Việt Nam nhưng hợp đồng dịch vụ được ký kết giữa hai người nộp thuế tại Việt Nam hoặc có cơ sở thường trú tại Việt Nam thì thuế suất 0% chỉ áp dụng đối với phần giá trị dịch vụ thực hiện ở ngoài Việt Nam, trừ trường hợp cung cấp dịch vụ bảo hiểm cho hàng hóa nhập khẩu được áp dụng thuế suất 0% trên toàn bộ giá trị hợp đồng. Trường hợp, hợp đồng không xác định riêng phần giá trị dịch vụ thực hiện tại Việt Nam thì giá tính thuế được xác định theo tỷ lệ (%) chi phí phát sinh tại Việt Nam trên tổng chi phí.
+
+Công ty TNHH First Kakoh Việt Nam (quận 7) hỏi: là cá nhân chuẩn bị kinh doanh trên sàn thương mại điện tử là Shopee, khi nộp hồ sơ đăng ký cá nhân kinh doanh thì cá nhân cần liên hệ với cơ quan thuế cấp nào? Cá nhân lựa chọn nộp thuế theo phương pháp khoán, cần nộp những loại báo cáo gì khác so với  kinh doanh thương mại thông thường không qua mạng thương mại điện tử hay không?
+
+Theo Cục Thuế TP.HCM, cá nhân kinh doanh nộp hồ sơ đăng ký thuế tại cơ quan thuế nơi tổ chức, hộ kinh doanh, cá nhân kinh doanh đó có trụ sở. Người nộp thuế là cá nhân kinh doanh nộp hồ sơ tại Chi cục Thuế khu vực nơi đặt địa điểm kinh doanh. Hồ sơ khai thuế đối với cá nhân kinh doanh nộp thuế theo phương pháp khoán có hoạt động kinh doanh trên sàn thương mại điện tử thì thực hiện nộp mẫu số 01/CNKD theo quy định tại khoản 2 Điều 13 Thông tư số 40/2021/TT-BTC.
+
+Đặc biệt, trường hợp của Công ty Daikin Việt Nam dù đã làm các phụ lục và kê khai trên hệ thống nhưng cơ quan thuế địa phương không ghi nhận số nộp dẫn đến doanh nghiệp bị nợ ảo và bị tính tiền chậm nộp.
+
+Bà Vũ Thị Thu Thủy, Phó giám đốc khối tài chính kế toán Công ty Daikin Việt Nam, cho biết từ tháng 5 đến tháng 10/2022, Công ty Daikin Việt Nam liên tục nhận được các thông báo về các khoản chậm nộp.
+
+"Thuế thu nhập doanh nghiệp và thuế thu nhập cá nhân được công ty Daikin Việt Nam phân bổ từ trụ sở chính đến chi nhánh ở các địa phương. Do đó, đến kỳ là công ty thực hiện kê khai đầy đủ trên hệ thống", bà Thủy khẳng định, đồng thời cho biết ngay khi nhận được văn bản đầu tiên, chúng tôi đã liên hệ với cơ quan thuế, đi tới lui để đối chiếu cũng như cung cấp các chứng từ chứng minh doanh nghiệp không nợ thuế. Chúng tôi cũng tích cực liên hệ với cán bộ phụ trách của phòng quản lý nợ và cưỡng chế nợ thuế của Cục Thuế TP.HCM nhưng vẫn chưa được xử lý triệt để.
+
+"Việc bị thông báo vướng nợ thuế ảo đã ảnh hưởng rất lớn đến uy tín của doanh nghiệp. Sự việc như vậy, các lãnh đạo Cục Thuế TP.HCM có biết không?. Biên bản của doanh nghiệp kiến nghị có được xử lý không?. Liên hệ ai để giải quyết, vì doanh nghiệp chỉ liên hệ được đến nhân viên thôi, mà cán bộ thuế có khi nghe điện thoại có khi không. Quá vô cảm", bà Thủy bức xúc..
+
+Về phản ánh của Daikin, ông Nguyễn Tiến Dũng, Cục phó Cục Thuế TP.HCM, cho biết sẽ chỉ đạo các phòng xử lý dứt điểm ngay khoản nợ ảo này. “Doanh nghiệp bức xúc có thể phản ánh trực tiếp lên lãnh đạo Cục Thuế TP.HCM nếu gặp trường hợp này để cơ quan thuế chấn chỉnh ngay”, ông Dũng nói.
+
+
+
+Hơn 21.000 tỷ đồng miễn giảm và gia hạn thuế cho doanh nghiệp
+
+Theo Cục Thuế TP.HCM, thu ngân sách nhà nước 10 tháng đầu năm 2023 trên địa bàn đạt 269.552 tỷ đồng, thực hiện 83,3% dự toán năm. Trong đó, thu từ hoạt động sản xuất - kinh doanh được 160.653 tỷ đồng, đạt 82,7% dự toán năm.
+
+Cục Thuế TP.HCM đánh giá tình hình thu ngân sách nhà nước 10 tháng đầu năm 2023 chưa đạt kết quả như kỳ vọng, với tổng số thu giảm 6,7% so với cùng kỳ năm 2022. Nguyên nhân chính là tăng trưởng kinh tế trong và ngoài nước gặp khó khăn.
+
+Để hỗ trợ người nộp thuế, Chính phủ đã ban hành một số chính sách gia hạn, miễn, giảm các loại thuế, phí, lệ phí như: gia hạn thời hạn nộp thuế giá trị gia tăng, thuế thu nhập doanh nghiệp, thuế thu nhập cá nhân và tiền thuê đất trong năm 2023, chính sách giảm thuế giá trị gia tăng...
+
+Ước tổng số tiền miễn giảm thuế trong 10 tháng năm 2023 là 9.268 tỷ đồng, ước tổng số tiền thuế được gia hạn là 11.755 tỷ đồng.

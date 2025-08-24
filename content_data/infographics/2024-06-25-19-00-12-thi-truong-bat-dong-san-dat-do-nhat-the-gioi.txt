@@ -1,0 +1,7 @@
+Chỉ số được dùng để xếp hạng mức độ đắt đỏ của các thành phố là tỷ lệ giá nhà trung vị (median price) trên thu nhập trung vị (median income) của hộ gia đình. Tỷ lệ càng cao thì giá nhà càng nằm ngoài khả năng chi trả của các hộ gia đình. Giá nhà và thu nhập được xem xét vào cuối quý 3/2023.
+
+Theo đó, các thành phố có tỷ lệ trên 9 được xem là nơi có giá nhà đắt đỏ tới mức việc mua nhà là “bất khả thi”. Từ đồ thị có thể thấy Hồng Kông dẫn đầu danh sách này với tỷ lệ 16,7. Điều này có nghĩa là giá trung vị của một căn nhà cao gấp 16,7 lần so với mức thu nhập trung vị của các hộ gia đình ở đây.
+
+Thành phố đứng thứ 2 trong danh sách là Sydney của Australia với giá nhà trung vị cao gấp gần 14 lần so với thu nhập trung vị của hộ gia đình. Australia cũng có 2 đại diện nữa là Melbourne và Adelaide, có tỷ lệ lần lượt là 9,8 và 9,7.
+
+Canada có 2 đại diện trong danh sách này là Vancouver và Toronto, với tỷ lệ lần lượt là 12,3 và 9,3. Mỹ có nhiều đại diện nhất trong danh sách này gồm San Jose, Los Angeles, Honolulu, San Francisco, Aledade, San Diego.

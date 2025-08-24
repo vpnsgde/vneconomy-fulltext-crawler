@@ -1,0 +1,15 @@
+Cuối năm ngoái, Cơ quan quản lý của EU thiết lập Đạo luật Thị trường Kỹ thuật số nhằm kiềm chế sự thống trị của “người gác cổng trực tuyến” đầy quyền lực để giúp các công ty khác được phát triển tại EU.
+
+Đây là lần đầu tiên Cơ quan quản lý của EU sử dụng Đạo luật Thị trường Kỹ thuật số cáo buộc một Big Tech. Cụ thể, các nguồn tin từ cuộc điều tra nói với Financial Times rằng Ủy ban Châu Âu xác định Apple đang tính phí các nhà phát triển liên kết người dùng với các giao dịch mua hàng bên ngoài App Store.
+
+Không chỉ Apple, EU đang đẩy mạnh điều tra các công ty công nghệ khác. Trước đó, vào tháng 3, EU từng tuyên bố họ đang điều tra Apple, Alphabet và Meta, vì nghi ngờ những gã khổng lồ công nghệ này đã vi phạm luật chống độc quyền DMA của EU. Các cơ quan quản lý vẫn đang điều tra xem Meta có đang sử dụng dữ liệu cá nhân của chủ sở hữu Facebook để quảng cáo hay không.
+
+Trên thực tế, không chỉ EU, các cơ quan giám sát cạnh tranh trên toàn thế giới đều đang tăng cường giám sát các công ty Big Tech. Vào tháng 3, Mỹ đã khởi kiện chống độc quyền đối với Apple với cáo buộc gã khổng lồ sử dụng quyền lực trong lĩnh vực điện thoại thông minh để đè bẹp các đối thủ và hạn chế sự lựa chọn của người tiêu dùng.
+
+Trước đó vào tháng 1, nhằm xoa dịu các cơ quan quản lý ở Brussels, Apple cho phép người dùng truy cập các cửa hàng ứng dụng đối thủ và tải xuống ứng dụng từ các nguồn khác. Bên cạnh đó, gã khổng lồ cho biết giảm phí bán hàng hóa và dịch vụ kỹ thuật số cho các công ty sử dụng App Store từ 30% xuống 17%.
+
+Tuy nhiên, EU cũng đang xem xét liệu những một số thay đổi phí khác có tuân thủ đúng các quy tắc kỹ thuật số mới hay không. Theo đó, Apple đã bổ sung các khoản phí mới ở châu Âu, bao gồm "phí công nghệ cốt lõi" là 50 xu cho mỗi lần trả góp đầu tiên của người dùng trên các ứng dụng có hơn 1 triệu người dùng.
+
+Apple cũng sẽ tính thêm 3% phí cho các nhà phát triển ứng dụng sử dụng bộ xử lý thanh toán của mình. Vì vậy, một số nhà phát triển cho biết họ có thể phải đối mặt với mức phí cao hơn do thay đổi về phí.
+
+Apple từ chối bình luận nhưng trước đó nhà sản xuất này từng tuyên bố: “Chúng tôi tin tưởng rằng kế hoạch của chúng tôi tuân thủ DMA và chúng tôi luôn sẵn sàng phối hợp với Ủy ban Châu Âu khi họ tiến hành điều tra”.

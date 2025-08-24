@@ -1,0 +1,21 @@
+Phiên tòa đang diễn ra đối với Google về cáo buộc độc quyền bất hợp pháp thị trường công nghệ quảng cáo sắp kết thúc. Các chuyên gia cho biết rủi ro về tài chính nếu Google thua kiện chỉ là rất nhỏ.
+
+Bộ Tư pháp Mỹ (DOJ) và liên bang đã cáo buộc Alphabet - công ty mẹ của Google đã thống trị công nghệ được các nhà xuất bản và nhà quảng cáo sử dụng để giao dịch quảng cáo trên trang web.
+
+Google cho biết họ sẽ kháng cáo quyết định này, với các biện pháp khắc phục tiềm năng sẽ được đưa ra vào những tháng tới đây. Phiên tòa bắt đầu một tháng sau khi một thẩm phán Mỹ ra phán quyết có lợi cho DOJ vào ngày 5 tháng 8 rằng Google đã độc quyền bất hợp pháp thị trường tìm kiếm trực tuyến.
+
+Vào ngày 15 tháng 9, Evercore ISI đã hạ mục tiêu giá đối với cổ phiếu Alphabet xuống 200 USD/cp từ mức 225 USD trước những lo ngại rằng mảng tìm kiếm có thể làm ảnh hưởng đến các mảng kinh doanh nhỏ, bao gồm cả hệ điều hành Android. Các nhà phân tích cho biết, khi so mảng tìm kiếm với mảng quảng cáo của Google, việc tìm kiếm có tác động đến hoạt động kinh doanh to lớn hơn.
+
+Scott Devitt, một nhà phân tích tại Wedbush cho biết: “Tìm kiếm là lĩnh vực có mức độ ảnh hưởng lớn đến hoạt động kinh doanh và đang được chú ý nhiều hơn”.
+
+Quảng cáo chiếm hơn 75% trong tổng doanh thu 307,4 tỷ USD của Google vào năm 2023. Tuy nhiên vụ việc của Bộ Tư pháp xoay quanh Google Network, một bộ phận  nhỏ chịu trách nhiệm đấu giá mà các nhà quảng cáo sử dụng để mua không gian quảng cáo kỹ thuật số. Hoạt động kinh doanh của Google Network đã chiếm 31,4 tỷ USD doanh thu của công ty vào năm ngoái, giảm so với 32,8 tỷ USD của năm trước đó. Các nhà phân tích từ Bernstein dự đoán rằng doanh thu ở phân khúc này sẽ giảm hơn nữa trong ba năm tới.
+
+Theo nghiên cứu và phân tích tài liệu tòa án của Wedbush, Ad Manager chiếm 4,1% tổng doanh thu và 1,5% lợi nhuận hoạt động. Erik Hovenkamp, ​​giáo sư tại Trường Luật Cornell, cho biết: “Ngay cả khi Google thua kiện về công nghệ quảng cáo và bị giải thể, có lẽ họ sẽ không phải thoái vốn tất cả các bộ phận kinh doanh quảng cáo hiển thị hình ảnh của mình mà chỉ một số bộ phận. Tôi dự đoán doanh thu của nó sẽ giảm dưới 10%”.
+
+Nikolas Guggenberger, giáo sư luật tại Đại học Houston cho biết về lý thuyết, chiến thắng của DOJ sẽ giúp các nhà quảng cáo và nhà xuất bản chuyển đổi nền tảng công nghệ quảng cáo dễ dàng hơn.
+
+Nhiều người đã chỉ trích Google cho rằng vụ việc có thể gây ra những hậu quả ngoài quảng cáo hoặc tài chính, tạo tiền lệ cho hành vi độc quyền nói chung. Sacha Haworth, giám đốc điều hành của The Tech Oversight Project, cho biết: “Tiền lệ đó sẽ có hiệu ứng domino cho thấy các Chính phủ có thể và thực sự buộc những gã khổng lồ công nghệ phải chịu trách nhiệm khi họ vi phạm pháp luật”.
+
+Guggenberger cảnh báo rằng còn quá sớm để dự đoán mức độ tác động, điều này sẽ phụ thuộc vào phán quyết của tòa án có lợi cho DOJ, các biện pháp khắc phục sau đó và việc Google thực hiện tái cơ cấu.
+
+Ông nói: “Sẽ có 2 trường hợp có thể xảy ra, một là lợi nhuận dài hạn của Google hầu như không bị ảnh hưởng và hai là toàn bộ hoạt động quảng cáo sẽ bị đảo lộn.”

@@ -1,0 +1,43 @@
+Ông Trần Đăng Khoa, Phó Cục trưởng phụ trách Cục An toàn thông tin, Bộ Thông tin và Truyền thông cho biết điều này tại toạ đàm “Tiêu chuẩn an toàn thông tin mạng cơ bản cho camera giám sát” do Cục An toàn thông tin, Bộ Thông tin và Truyền thông, Báo điện tử Vietnamnet phối hợp tổ chức ngày 22/5/2024.
+
+Hiện nay, xu hướng sử dụng camera giám sát ngày càng phổ biến tại Việt Nam. Không chỉ được nhiều gia đình sử dụng, camera giám sát cũng là thiết bị quan trọng trong hệ thống chính phủ điện tử, chính quyền số và thành phố thông minh, giúp giám sát giao thông, an ninh trật tự...
+
+
+
+Ông Nguyễn Trung Kiên, Tổng Giám đốc Pavana, cho biết năm 2023, doanh thu thị trường camera giám sát tại Việt Nam chiếm khoảng 175 triệu USD, tương ứng 6 triệu camera.
+
+Ước tính, thị trường Việt Nam trong thời gian tới sẽ cần 100-150 triệu camera. Trong khi thị trường có 15 triệu camera (khoảng 10-15%) nên có thể khẳng định thị trường cho camera tại Việt Nam là vô cùng lớn.
+
+Tuy nhiên, các doanh nghiệp nêu thực tế hiện nay, trên thị trường Việt Nam, hầu hết camera có xuất xứ từ nước ngoài. Thống kê của các doanh nghiệp cho thấy, khoảng 90% sản phẩm camera giám sát tại Việt Nam nhập khẩu từ Trung Quốc theo đường chính ngạch và tiểu ngạch. Thậm chí, một số dòng camera hoạt động theo cơ chế cloud, kết nối server đặt tại Trung Quốc và người dùng ở Việt Nam phải “vòng” qua server này trước khi kết nối vào camera của người dùng.
+
+Camera là sản phẩm rất nhạy cảm, tiềm ẩn nhiều nguy cơ lộ lọt thông tin. Đặc biệt, khi các camera đang có xu thế tương tác trực tiếp với người dùng qua ứng dụng di động, thông tin được đẩy lưu trữ trên đám mây (cloud). Việc thông tin đi vòng qua cloud mà máy chủ (server) đặt ngoài Việt Nam có khả năng dẫn tới rủi ro về lộ lọt thông tin do không có cơ chế về bảo mật. Thông tin cá nhân và các hành vi riêng tư có thể bị công khai, bị khai thác khi kênh truyền bị chặn hoặc server bị tấn công.
+
+Theo ông Nguyễn Việt Bằng, Phó Tổng Giám đốc Công ty VNPT Technology, hiện tại, nhu cầu sử dụng camera ở các gia đình, ở những nơi công cộng… đang rất lớn, tuy nhiên người dân thường sử dụng camera trôi nổi, không rõ nguồn gốc xuất xứ, nơi lưu trữ thông tin, nên dữ liệu thường xuyên bị đẩy ra nước ngoài, gây nguy cơ mất an toàn thông tin.
+
+“Đây là thiết bị nhìn rất đơn giản nhưng nó có thể là thiết bị gián điệp, có hệ điều hành, có phần mềm, có ghi âm, có hình ảnh, và nếu có lỗ hổng, nó có thể gửi các thông tin của người dùng ra ngoài. Nó âm thầm thu thập thông tin, nên nguy cơ mất an toàn rất nghiêm trọng, cần phải kiểm soát”.
+
+Chia sẻ điều này, chuyên gia bảo mật Vũ Ngọc Sơn, Hiệp hội An ninh mạng Quốc gia chia sẻ, năm 2014, hàng nghìn camera giám sát được chia sẻ công khai trên 1 trang web (khoảng 730.000 camera trên toàn thế giới). Năm 2020, theo khảo sát, hơn 70% camera có mật khẩu yếu, mật khẩu mặc định tại Việt Nam. Năm 2023, tin tặc (hacker) rao bán quyền truy cập camera tại Việt Nam, chi phí khoảng 800.000 đồng để tiếp cận 15 camera và số lượng camera được rao bán lên tới hàng trăm nghìn.
+
+Phân tích những nguyên nhân và hệ quả nguy cơ mất an toàn thông tin từ camera, ông Vũ Ngọc Sơn khẳng định việc lộ lọt thông tin, dữ liệu từ camera dẫn đến nhiều hậu quả khó lường.
+
+“Nếu sử dụng camera không rõ nguồn gốc, xuất xứ, người dùng cá nhân sẽ bị xâm hại tính riêng tư, bị tống tiền, hoặc các hành vi tội phạm khác, hoặc bị theo dõi từ xa”, ông Vũ Ngọc Sơn cảnh báo.
+
+Trong bối cảnh có quá nhiều camera lưu hành không rõ nguồn gốc, lưu trữ dữ liệu người dùng Việt Nam ở nước ngoài và không có tiêu chuẩn đảm bảo an toàn thông tin cho người dùng, mới đây, Bộ Thông tin và Truyền thông đã đưa ra tiêu chí về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát. Theo đó, các camera giám sát phải có tài liệu hướng dẫn sử dụng sản phẩm cho người sử dụng.
+
+Để đảm bảo an toàn thông tin cho người dùng, camera giám sát phải có tính năng quản lý xác thực và phòng chống tấn công vét cạn. Bộ Thông tin và Truyền thông cũng đã đưa ra tiêu chí bảo đảm an toàn thông tin dữ liệu người sử dụng cho camera giám sát nhằm đảm bảo tuân thủ quy định của pháp luật Việt Nam về bảo vệ dữ liệu cá nhân.
+
+Bộ tiêu chí về an toàn toàn thông tin cho camera giám sát là tiền đề để các doanh nghiệp tham gia sản xuất, nhập khẩu và kinh doanh sản phẩm, thiết bị camera giám sát trên thị trường Việt Nam triển khai rà soát, đánh giá lại một cách tổng thể các nguy cơ mất an toàn thông tin đối với các sản phẩm, thiết bị camera do đơn vị mình cung cấp.
+
+Các doanh nghiệp tham gia sản xuất, nhập khẩu và kinh doanh thiết bị camera giám sát cũng cần chủ động khắc phục các lỗ hổng, điểm yếu, nguy cơ gây mất an toàn thông tin còn tồn tại, nhằm đáp ứng các yêu cầu an toàn thông tin mạng cơ bản được Bộ Thông tin và Truyền thông khuyến nghị tại bộ tiêu chí mới ban hành.
+
+Bộ tiêu chí này là hướng dẫn kỹ thuật khuyến nghị các doanh nghiệp sản xuất camera nên áp dụng, chứ không bắt buộc.
+
+Tuy nhiên, bộ tiêu chí này cũng là bước đầu để Bộ có cơ sở xây dựng quy chuẩn kỹ thuật quốc gia về yêu cầu an toàn thông tin mạng cơ bản cho thiết bị camera giám sát.
+
+
+
+Theo đại diện Cục An toàn thông tin, hiện tại Bộ Thông tin và Truyền thông đang phối hợp với các đơn vị, doanh nghiệp, chuyên gia để xây dựng quy chuẩn kỹ thuật quốc gia về yêu cầu an toàn thông tin mạng cơ bản cho thiết bị camera giám sát.
+
+Dự kiến, quy chuẩn này sẽ được ban hành trong năm 2024. Khi đó, tất cả camera được sản xuất ở Việt Nam và nhập khẩu, bắt buộc phải được kiểm định, đánh giá, chứng nhận hợp quy và đáp ứng các yêu cầu theo quy chuẩn quốc gia thì mới đủ điều kiện đưa ra thị trường Việt Nam, để cung cấp tới người dùng.
+
+Cũng tại toạ đàm, đại diện Viettel Telecom cho rằng, chúng ta cần đẩy nhanh công tác xây dựng quy chuẩn kỹ thuật quốc gia đối với camera. Đây là cơ sở pháp lý quan trọng để các camera tại thị trường Việt Nam đều phải tuân thủ. Các doanh nghiệp cũng đề xuất thành lập liên minh để các nhà sản xuất camera trong nước cùng nghiên cứu, chia sẻ, để đáp ứng nhu cầu, tăng lợi thế cạnh tranh trên thị trường…

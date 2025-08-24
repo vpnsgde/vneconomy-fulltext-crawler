@@ -1,0 +1,37 @@
+Uỷ ban Chứng khoán và sàn giao dịch Mỹ (SEC) đang chuẩn bị có hành động pháp lý nhằm vào Paxos, công ty phát hành một đồng tiền kỹ thuật số dạng stablecoin. Theo hãng tin CNBC, một động thái như vậy của SEC có thể dẫn tới những tác động lớn đối với thị trường stablecoin với tổng vốn hoá 137 tỷ USD.
+
+Stablecoin là loại tiền ảo được thiết kế neo buộc vào tài sản thực như đồng USD. Các đồng stablecoin thường được đảm bảo bằng tài sản thực như trái phiếu hoặc tiền mặt nằm trong dự trữ của nhà phát hành. Loại tiền ảo này đã trở thành xương sống của thị trường tiền kỹ thuật số vì cho phép tiến hành các giao dịch mua-bán các đồng tiền số khác nhau một cách nhanh chóng mà không cần phải chuyển đổi sang tiền mặt.
+
+Paxos phát hành đồng stablecoin có tên Binance USD hay BUSD. Đây là một stablecoin gắn với Binance, một trong những sàn tiền ảo lớn nhất thế giới. BUSD được neo buộc tỷ giá 1-1 với đồng USD.
+
+Tuần trước, cơ quan giám sát tài chính bang New York đã yêu cầu Paxos dừng phát hành BUSD. Cùng với đó, Paxos cho biết SEC đã gửi thông báo cho biết đang xem xét đề xuất một động thái pháp lý vì nghi ngờ BUSD là một chứng khoán. Paxos nói thông báo này của SEC là một chỉ báo rằng lẽ ra Paxos nên đăng ký phát hành BUSD theo luật chứng khoán liên bang.
+
+Đến hiện tại, SEC chưa chính thức có động thái pháp lý đối với Paxos, nhưng nhất cử nhất động của cơ quan này đang được theo dõi sát sao. Đó là bởi nếu SEC khởi động một quy trình chính thức nhằm vào Paxos, động thái đó sẽ dẫn tới ảnh hưởng lớn đối với tất cả các đồng stablecoin khác, gồm cả Tether và USDC - hai stablecoin lớn nhất với tổng vốn hoá khoảng 110 tỷ USD.
+
+“Nếu SEC buộc tội Paxos, bất kỳ nhà phát hành stablecoin nào cũng sẽ phải đăng ký hoặc chuẩn bị một cuộc chiến ở toà với SEC”, luật sư Renato Mariotti thuộc công ty luật BCLP nói với CNBC.
+
+SEC chưa hé lộ gì về việc có thể buộc tội gì đối với Paxos, thông báo mà cơ quan này gửi Paxos tập trung vào vấn đề liệu stablecoin có phải là chứng khoán hay không. Về phần mình, Paxos nói “tuyệt đối không đồng tình với nhân viên SEC vì BUSD không phải là một chứng khoán nếu xét theo luật chứng khoán liên bang”.
+
+Trong khi đó, SEC sử dụng một bài kiểm tra có tên Howey để xác định một tài sản là chứng khoán hay “hợp đồng đầu tư”. Trong bài kiểm tra này có 4 tiêu chuẩn để xác định một tài sản là một “hợp đồng đầu tư”, chẳng hạn kỳ vọng của nhà đầu tư về lợi nhuận.
+
+Nếu BUSD được SEC coi là chứng khoán, thì cơ quan này sẽ có quyền giám sát BUSD. Nhà phát hành BUSD sẽ phải đăng ký với SEC và chấp nhận sự giám sát chặt chẽ hơn.
+
+Một ảnh hưởng nữa là các đồng stablecoin khác cũng bị coi là chứng khoán.
+
+“Cơ sở để SEC hành động sẽ là thực tế cụ thể liên quan đến cấu trúc đồng BUSD của Paxos, nhưng một động thái của SEC sẽ có ảnh hưởng rộng rãi đến các nhà phát hành stablecoin khác ở Mỹ”, ông Townsend Lansing - Giám đốc sản phẩm của CoinShares - nhận định với CNBC.
+
+Giới phân tích đặt ra một số kịch bản khác nhau. Khả năng trở thành hiện thực của những kịch bản này tuỳ thuộc vào việc SEC sẽ đưa ra cáo buộc gì nhằm vào Paxos và hai bên sẽ hành động như thế nào.
+
+“Tôi tin là nhiều khả năng SEC sẽ đạt một thoả thuận với Paxos, trong đó Paxos thừa nhận BUSD là một chứng khoán, buộc các stablecoin khác cũng phải thừa nhận tương tự và đăng ký với SEC”, ông Mariotti nói.
+
+“Một khả năng khác là Paxos nhất quyết chống lại SEC, nhưng tổn thất của việc này sẽ rất lớn. Việc kiện tụng sẽ kéo dài hàng năm trời và khả năng thua kiện là cũng cao. Ngoài ra, việc Paxos chống lại SEC sẽ đặt ra rủi ro và có thể khiến BUSD trở nên kém hấp dẫn hơn với thị trường”, ông Mariotti phát biểu.
+
+Một kịch bản khác, theo ông Mariotti, là SEC có thể điều tiết những tài sản được dùng để đảm bảo cho stablecoin và đưa ra quy định việc phát hành stablecoin phải có công bố thông tin trên thị trường.
+
+Theo ông Lansing của CoinShares, việc SEC xác định một tài sản là chứng khoán hay hợp đồng đầu tư thực ra vượt xa bài kiểm tra Howey, và cơ quan này “thừa biết làm thế nào để áp dụng cả luật lẫn tiền lệ pháp lý”. “Nếu Paxos kiện SEC mà không thắng, nhiều khả năng BUSD sẽ không còn được bán ở Mỹ hoặc tồn tại trên các sàn tiền ảo ở Mỹ nữa. Rất có thể các đồng stablecoin khác cũng chung số phận”, ông Lansing nói.
+
+Giáo sư tài chính Carol Alexander của Đại học Sussex nói rằng nếu SEC hành động nhằm vào BUSD, thì đó là “một động thái nhằm vào Binance hơn là stablecoin nói chung”. Theo bà Alexander cả Tether và Circle - công ty phát hành stablecoin USDC - “có mối quan hệ thân cận hơn với Chính phủ Mỹ”. CEO Jeremy Allaire của Circle từng kêu gọi tăng cường giám sát stablecoin.
+
+Vị giáo sư nói “Binance đang gây ra mối lo ngày càng lớn đối với cơ quan chức năng trên khắp thế giới”, trong những lĩnh vực từ rửa tiền tới vi phạm luật chứng khoán. Đó có thể là một lý do khiến SEC đưa BUSD vào tầm ngắm - bà nhận định.
+
+Tháng trước, hãng tin Reuters đưa tin Bộ Tư pháp Mỹ đang điều tra Binance vì nghi vấn rửa tiền và vi phạm lệnh trừng phạt. Hồi năm 2021, hãng tin Bloomberg nói giới chứng Mỹ đang xem xét nghi vấn nhân viên Binance tham gia giao dịch nội gián.

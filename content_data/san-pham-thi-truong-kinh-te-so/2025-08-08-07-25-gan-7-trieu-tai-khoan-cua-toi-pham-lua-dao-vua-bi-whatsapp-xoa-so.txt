@@ -1,0 +1,17 @@
+Đây là một phần trong chiến dịch trấn áp lừa đảo trực tuyến mà Meta đang đẩy mạnh, trong bối cảnh các thủ đoạn lừa đảo ngày càng tinh vi trên môi trường số.
+
+Cùng với việc xoá tài khoản, Meta cũng triển khai các tính năng bảo mật mới trên WhatsApp như: cảnh báo người dùng khi bị thêm vào nhóm bởi người lạ, thử nghiệm thông báo tạm dừng trước khi người dùng phản hồi một tin nhắn đáng ngờ, và tổng quan về an toàn khi tương tác với người không có trong danh bạ.
+
+Meta cho biết, hiện nay nhiều hình thức lừa đảo không còn là hành động riêng lẻ mà được tổ chức bài bản tại các "trung tâm lừa đảo" – nơi những người lao động bị ép buộc phải thực hiện hàng loạt hành vi lừa đảo xuyên biên giới. Những đường dây này thường nhắm tới người dùng qua nhiều nền tảng cùng lúc, khiến việc phát hiện và ngăn chặn trở nên khó khăn hơn.
+
+Một vụ lừa đảo có thể bắt đầu từ một tin nhắn văn bản hay lời mời kết bạn trên ứng dụng hẹn hò, sau đó chuyển dần sang mạng xã hội rồi đến các nền tảng thanh toán trực tuyến.
+
+Đáng lo ngại hơn, các nhóm lừa đảo ngày nay còn sử dụng cả trí tuệ nhân tạo như ChatGPT để tạo ra tin nhắn giả, thông điệp dụ dỗ với lời mời đầu tư hấp dẫn, tuyển dụng việc nhẹ lương cao, hoặc mua bán lượt tương tác ảo.
+
+Meta cho biết mới đây họ đã phát hiện và xử lý một chiến dịch lừa đảo có quy mô lớn xuất phát từ Campuchia, trong đó kẻ gian lợi dụng chính các nền tảng như Facebook, Instagram, TikTok, Telegram... để tiếp cận và dụ dỗ nạn nhân.
+
+Cụ thể, tội phạm lừa nạn nhân thông qua các chiêu trò như tuyển dụng thu nhập cao hay đầu tư vào tiền điện tử,... Theo Meta, tội phạm đã sử dụng ChatGPT để tạo ra các tin nhắn tiếp cận ban đầu gửi qua WhatsApp, sau đó dẫn dụ nạn nhân chuyển sang ứng dụng Telegram.
+
+Tại đây, nạn nhân được giao những "nhiệm vụ" tưởng như vô hại như nhấn thích các video trên TikTok nhằm tạo cảm giác tin cậy. Sau khi lấy được lòng tin, kẻ lừa đảo sẽ cho nạn nhân xem các "bảng điều khiển thu nhập" giả mạo, rồi dụ họ nộp tiền dưới dạng tiền mã hóa với lời hứa sẽ nhận được lợi nhuận cao.
+
+Chiến dịch này đã bị triệt phá nhờ sự phối hợp giữa Meta và OpenAI.

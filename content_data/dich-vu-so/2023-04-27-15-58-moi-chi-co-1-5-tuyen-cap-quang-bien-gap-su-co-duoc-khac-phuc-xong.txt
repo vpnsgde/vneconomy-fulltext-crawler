@@ -1,0 +1,19 @@
+Đại diện một nhà cung cấp dịch vụ Internet (ISP) tại Việt Nam vừa cho biết, lỗi trên nhánh S1 hướng kết nối đi Singapore của tuyến cáp quang biển Liên Á (IA) đã được sửa xong, khôi phục hoàn toàn dung lượng trên tuyến. Hiện tại, tuyến cáp này đã hoạt động ổn định trở lại.
+
+Trước đó, tuyến Liên Á (IA) gặp trục trặc từ ngày 28/1. Nguyên nhân được xác định do đứt cáp tại vị trí cách trạm cập bờ Singapore khoảng 130 km, làm mất toàn bộ dung lượng kết nối quốc tế từ Việt Nam đi Singapore qua IA. Đây là tuyến cáp quang kết nối Singapore, Việt Nam, Philippines, Hồng Kông (Trung Quốc) và Nhật Bản.
+
+Liên Á là 1 trong 5 tuyến cáp quang biển chiếm phần lớn dung lượng kết nối Internet từ Việt Nam đi quốc tế, cùng với 4 tuyến khác gồm AAG, APG, AAE-1 và SMW3. Đây là tuyến cáp biển được đánh giá có vai trò quan trọng để trung chuyển lưu lượng đến châu Mỹ và châu Âu cho các khách hàng ở Việt Nam và khu vực.Là tuyến cáp biển thứ 4 của Việt Nam bị sự cố đứt, kế hoạch sửa chữa, khắc phục sự cố của tuyến cáp quang biển này đã liên tục bị lùi, từ giữa tháng 3 sang giữa tháng 4. Với việc cáp biển Liên Á được sửa xong đã phần nào giảm áp lực cho các doanh nghiệp trong việc đảm bảo chất lượng dịch vụ Internet quốc tế cung cấp tới người dùng.
+
+Như vậy, đây là tuyến cáp quang biển đầu tiên trong tổng số 5 tuyến cáp quang biển của Việt Nam kết nối đi quốc tế gặp sự cố được khắc phục. Với việc tuyến cáp quang biển Liên Á được khôi phục, hiện vẫn còn 4 tuyến khác là AAG, APG, AAE-1 và SMW3 đang gặp sự cố.
+
+Trước Liên Á, 3 tuyến cáp quang biển khác của Việt Nam kết nối đi quốc tế đã gặp sự cố nhưng đến nay vẫn chưa sửa chữa khắc phục xong. Cụ thể, vào sáng ngày 21/1/2023 (tức 30 tết Quý Mão), tuyến cáp quang biển quốc tế APG (Asia Pacific Gateway) đã gặp sự cố trên nhánh S9 hướng kết nối đi Singapore.
+
+Cuối tháng 12/2022, tuyến cáp này xảy ra lỗi trên nhánh S6 gần Hồng Kông (Trung Quốc). Đây là tuyến cáp có sự tham gia đầu tư của các nhà mạng Việt Nam như VNPT, Viettel, FPT, CMC và được đánh giá là tuyến cáp biển quốc tế góp phần mang lại đường truyền ổn định với dung lượng lớn hơn cho người dùng Internet Việt Nam.
+
+Từ cuối năm 2022, hai tuyến cáp quang biển kết nối quốc tế khác của Việt Nam là AAG (Asia America Gateway) và AAE-1 (Asia- Africa- Europe 1) cũng đã gặp sự cố. Trong đó, 2 tuyến AAG và APG mất toàn bộ dung lượng. Tuyến AAE-1 mất dung lượng trên hướng kết nối đi Hồng Kông (Trung Quốc).
+
+Gần đây nhất cuối tháng 2/2023, tuyến cáp quang biển thứ 5 của Việt Nam là SMW3 cũng xảy ra sự cố lỗi cáp ở đoạn S2.7 đi Singapore.
+
+Việc liền lúc cả 5 tuyến cáp quang biển Việt Nam gặp sự cố đứt là chưa từng có trong lịch sử và bất khả kháng, ảnh hưởng tới chất lượng kết nối internet Việt Nam đi quốc tế.
+
+Theo kế hoạch dự kiến, khoảng giữa tháng 5/2023, tuyến AAE-1 sẽ được sửa xong. Trong khi đó, 2 tuyến AAG và APG chưa xác định được thời điểm khôi phục hoàn toàn các sự cố lỗi.

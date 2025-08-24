@@ -1,0 +1,49 @@
+Các chuyên gia đã chỉ ra thực tế này tại sự kiện “Các điểm nghẽn trong thực thi chuyển đổi số” do Hội Truyền thông số Việt Nam phối hợp với Cộng đồng Chuyển đổi số Việt Nam tổ chức ngày 23/4/2023, nhằm giúp các doanh nghiệp khắc phục điểm nghẽn, khó khăn để thực thi chuyển đổi số thành công.
+
+Lý giải vì sao 70- 90% dự án chuyển đổi số thất bại, chuyên gia chuyển đổi số Phạm Anh Tuấn, Giảng viên Viện Quản trị và Công nghệ FSB, cho rằng ngoài các sai lầm, "hố sụt" (Chasm), hầu hết các chương trình chuyển đổi số đều đặt cho mình một mục tiêu hoặc “ngôi sao phương Bắc”. Trong trường hợp này, có thể hiểu thách thức thông qua hai động lực chính đó là giá trị và quy mô.
+
+Hiện nay, các doanh nghiệp đã đi được một hành trình chuyển đổi số và điều quan trọng cần phải nhìn mục tiêu đặt ra có đạt được không. Các nghiên cứu cho thấy, chuyển đổi số chỉ thực sự tạo ra giá trị và tác động tới các tổ chức doanh nghiệp khi đạt được “scale”- mở rộng quy mô ở mức nào đó. Nếu không sẽ chỉ dừng lại ở những dự án pilot, thử nghiệm quanh năm và không thể vượt qua được quy mô thử nghiệm.
+
+Tất nhiên, trong giai đoạn đầu tiên, bất kỳ công ty nào cũng phải trải qua giai đoạn thử nghiệm, sau đó mới có những cú huých để tăng tốc thúc đẩy chuyển đổi. Tuy nhiên, theo ông Tuấn, từ cú huých đến khi doanh nghiệp đạt được scale chuyển đổi số sẽ gặp những "hố sụt".
+
+Thực tế bất kỳ công nghệ nào để đi vào cuộc sống đều trải qua vòng đời và qua “hố sụt”. Trong chuyển đổi số, các doanh nghiệp phải nỗ lực rất lớn thì mới có thể vượt qua được “hố sụt” này và đạt được quy mô nhất định.
+
+Theo các chuyên gia, các doanh nghiệp sẽ phải trải qua 5 cấp độ trong hành trình chuyển đổi số.
+
+Cấp độ 1:tạo ra các nền tảng, tự động hóa các quy trình sản xuất kinh doanh…
+
+Cấp độ 2:triển khai các chương trình chuyển đổi riêng lẻ hoặc từng bộ phận (tạo ra các sản phẩm, phương thức vận hành ấn tượng nhưng tách biệt).
+
+Cấp độ 3:đồng bộ hóa từng phần.
+
+Cấp độ 4:đồng bộ toàn phần.
+
+Cấp độ 5:tạo ra một văn hóa lâu dài, bền vững của sự tái tạo kỹ thuật số liên tục, như DNA của doanh nghiệp.
+
+Nếu các doanh nghiệp chỉ dừng ở 3 bước đầu, mới chỉ ở giai đoạn “Doing Digital” và chưa được coi là chuyển đổi số. Chỉ khi triển khai tới bước 4 và 5 (đồng bộ toàn phần và DNA), doanh nghiệp mới trở thành một doanh nghiệp số hoàn toàn (giai đoạn Being Digital). Trong hành trình này sẽ xuất hiện nhiều hố sụt, đòi hỏi doanh nghiệp phải nỗ lực rất lớn mới có thể vượt qua để chuyển giai đoạn, ông Tuấn cảnh báo.
+
+Nếu các doanh nghiệp thử nghiệm quanh năm và vụn vặn, không đạt được khối lượng tới hạn và hiệu suất kết nối mạng lưới về mô hình sản phẩm, dịch vụ số hóa…thì chuyển đổi số sẽ không bao giờ đạt được quy mô Scale, chuyên gia này khẳng định.
+
+Theo các chuyên gia, vấn đề được nhiều doanh nghiệp quan tâm nhất hiện nay chính là các điểm nghẽn trong hành trình chuyển đối số.
+
+Kết quả khảo sát các lãnh đạo doanh nghiệp lớn của đơn vị tư vấn Everest Groups đã chỉ ra 5 điểm nghẽn chính mà các doanh nghiệp thường gặp phải trong chuyển đổi số, trong đó chủ yếu liên quan đến phương thức vận hành.
+
+Cụ thể đó là cơ cấu tổ chức; quản trị doanh nghiệp; văn hóa, công nghệ và các kênh truyền thông nội bộ. Thực tế không ít các doanh nghiệp khi đã chuyển đổi số nhưng vẫn giữ phương thức quản trị cũ, đặc biệt hình thành nhiều “ốc đảo” ngăn cách chuyển đổi số.
+
+
+
+Cũng có không ít doanh nghiệp coi dự án/ban chuyển đổi như một bộ phận tách biệt thay vì hợp lực bắt tay vào cuộc từ đầu. Thực tế dự án chuyển đổi số phải đi song hành với các phòng ban khác thành một hệ thống hướng đến mục tiêu chiến lược kinh doanh.
+
+Các chuyên gia khẳng định, chỉ khi kết hợp giữa các quy trình, con người, dữ liệu và công nghệ, các doanh nghiệp mới có thể khai thác biến các cơ hội chuyển đổi số thành giá trị đích thực. Nếu thiếu một trong bốn yếu tố này thì chuyển đổi số doanh nghiệp sẽ không đạt kết quả, lộn xộn và lãng phí, độ tin cậy dữ liệu thấp; thủ công, tốn sức.
+
+GE là một bài học điển hình mặc dù đã đổ cả tỷ USD thành lập bộ phận chuyển đổi số nhưng thất bại vì tổ chức và quản trị quá cồng kênh, thiếu linh hoạt. Đặc biệt bộ phận chuyển đổi số được thành lập kế thừa từ tổ chức của bộ phận IT trước đây.
+
+Liên quan đến yếu tố lãnh đạo và văn hóa chuyển đổi số, các chuyên gia nhấn mạnh hiện tượng “khúc giữa bị đóng băng”. Mặc dù lãnh đạo quyết tâm đầu tư, thực thi dự án chuyển đổi số và ở cấp dưới áp dụng công nghệ mới nhưng ở khúc giữa là những bộ phận trung gian lại ít thay đổi. Ông Tuấn khẳng định, lãnh đạo số phải là một môn thể thao đồng đội, tiên phong. Đặc biệt tính kỷ cương trong chuyển đổi số là rất quan trọng bởi nếu không sẽ rất dễ quay lại cách làm cũ.
+
+Các chuyên gia cũng nhấn mạnh tới vai trò của tư duy vận hành dựa trên dữ liệu, giúp doanh nghiệp đưa ra các quyết định cải tiến quy trình. Ông Đỗ Danh Thanh, Phó Tổng Giám đốc phụ trách chuyển đổi số Deloitte Việt Nam, cho hay khoảng hơn 90% doanh nghiệp được khảo sát có thu thập một số dữ liệu từ thế giới thực. Nhưng ít tổ chức có thể phân tích dữ liệu và chỉ khoảng 50% số báo cáo có thể giúp đưa ra quyết định theo thời gian thực.
+
+Khảo sát toàn cầu của Deloitte đã tìm hiểu và phân tích cách các doanh nghiệp dự định đầu tư vào chuyển đổi số cho thấy, các điểm bất cập giữa chiến lược và quá trình triển khai. Các doanh nghiệp tiếp tục tập trung nhiều hơn vào việc sử dụng các công nghệ tiên tiến để bảo vệ vị thế của họ thay vì đầu tư táo bạo để thúc đẩy đột phá.
+
+Có tới 94% số doanh nghiệp được khảo sát cho biết chuyển đổi số là mục tiêu chiến lược hàng đầu nhưng chỉ 68% số người được khảo sát và chỉ 50% CEO nghĩ chuyển đổi là quan trọng với việc duy trì lợi nhuận.
+
+Chuyển đổi số thường được coi là khoản đầu tư phòng thủ để bảo vệ, thay vì để phát triển doanh nghiệp. Trung bình, các công ty có kế hoạch đầu tư khoảng 30% ngân sách hoạt động, công nghệ thông tin cho các sáng kiến chuyển đổi số. Có 2 yếu tố hàng đầu thúc đẩy chuyển đổi số, là cải thiện năng suất và mục tiêu hoạt động, chủ yếu liên quan khả năng tối ưu hóa các công việc hiện tại, giúp tăng tỷ suất hoàn vốn (ROI).

@@ -1,0 +1,9 @@
+Theo thông tin từ tweet của FBI, các trạm USB công cộng chẳng hạn tại các trung tâm thương mại hay sân bay vì tội phạm đã tìm được cách lây nhiễm các phần mềm độc hại hoặc phần mềm có thể cho phép tin tặc truy cập vào điện thoại hoặc máy tính của người dùng.
+
+Đây không phải là lần đầu tiên các cơ quan bảo an nêu lên mối lo ngại về rủi ro này. Tuy nhiên, bất chấp những cảnh báo, các trạm sạc công cộng luôn có sức hút với bất kỳ ai nhất là khi các thiết bị sắp hết pin. Vào năm 2011, các nhà nghiên cứu thậm chí còn đưa ra thuật ngữ “juice jacking” để nói về khả năng bị tấn công khi sử dụng các trạm sạc công cộng.
+
+Drew Paik, cựu nhân viên của công ty bảo mật Authentic8, giải thích với CNN: “Chỉ cần cắm điện thoại vào ổ cắm đã bị tấn công nghệ, thiết bị của bạn sẽ bị nhiễm virus, mọi dữ liệu của bạn của bạn đều gặp nguy hiểm. Bởi vì dây sạc điện thoại cũng cho phép gửi dữ liệu từ điện thoại đến các thiết bị khác”.
+
+Drew Paik nói thêm nếu một cổng bị xâm phạm, sẽ không có giới hạn nào về lượng thông tin mà tin tặc có thể lấy được. Điều đó bao gồm email, tin nhắn văn bản, ảnh và danh bạ của bạn.
+
+Ủy ban Truyền thông Liên bang cũng cập nhật một bài đăng trên cảnh báo cổng sạc bị tấn công có thể cho phép kẻ độc hại khóa thiết bị hoặc trích xuất dữ liệu và mật khẩu cá nhân, “thậm chí còn có báo cáo về việc cáp bị nhiễm virus được tặng làm quà khuyến mãi”.

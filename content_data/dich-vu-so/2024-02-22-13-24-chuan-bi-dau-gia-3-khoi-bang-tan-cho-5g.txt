@@ -1,0 +1,41 @@
+Công ty Đấu giá Hợp danh số 5- Quốc gia vừa ban hành các thông báo và quy chế đấu giá đối với tài sản là quyền sử dụng tần số vô tuyến điện đối với 3 khối băng tần B1 (2500-2600 MHz); với khối băng tần C2 (3700-3800 MHz), C3 (3800-3900 MHz).
+
+Thời gian bán và tiếp nhận hồ sơ đăng ký đầu giá bắt đầu từ ngày 23/2/2024. Các doanh nghiệp trúng đấu giá được cấp giấy phép sử dụng các khối băng tần trong 15 năm.
+
+Cụ thể, khối băng tần B1 (2500-2600 MHz) sẽ được đấu giá vào 14 giờ ngày 8/3/2024. Giá khởi điểm của vòng đấu giá số 1 là 3.983.257.500.000 tỷ đồng. Giá khởi điểm của vòng đấu giá tiếp theo là giá trả cao nhất đã trả ở vòng đấu trước liền kề. Bước giá áp dụng tại cuộc đấu giá khối băng tần B1 là 50 tỷ đồng.
+
+Thời gian bán và tiếp nhận hồ sơ đăng ký đầu giá từ ngày 23/2/2024 đến 17 giờ ngày 5/3/2024. Theo thông báo, số tiền đặt trước tham gia đấu giá là 200 tỷ đồng.
+
+Khối băng tần này được quy hoạch để triển khai các hệ thống thông tin di động theo tiêu chuẩn IMT-Advandced và các phiên bản tiếp theo, sử dụng phương thức song công phân chia theo thời gian (TDD) theo quy định tại Thông tư 18/2020 của Bộ Thông tin và Truyền thông về quy hoạch băng tần 2300-2400 MHz và băng tần 2500-2690 MHz cho hệ thống thông tin di động IMT của Việt Nam.
+
+Với khối băng tần C3 (3800-3900 MHz), sẽ được đấu giá vào 14 giờ ngày 14/3/2024. là 1.956.892.500.000 tỷ đồng. Giá khởi điểm của vòng đấu giá tiếp theo là giá trả cao nhất đã trả ở vòng đấu trước liền kề. Bước giá áp dụng tại cuộc đấu giá khối băng tần C2 là 25 tỷ đồng.
+
+Thời gian bán và tiếp nhận hồ sơ đăng ký đầu giá từ ngày 23/2/2024 đến 17 giờ ngày 11/3/2024. Theo thông báo, số tiền đặt trước tham gia đấu giá là 100 tỷ đồng.
+
+Còn với khối băng tần C2 (3700-3800 MHz) sẽ được đấu giá vào 14 giờ ngày 19/3/2024. Giá khởi điểm của vòng đấu giá số 1 là 1.956.892.500.000 tỷ đồng. Giá khởi điểm của vòng đấu giá tiếp theo là giá trả cao nhất đã trả ở vòng đấu trước liền kề. Bước giá áp dụng tại cuộc đấu giá khối băng tần C2 là 25 tỷ đồng.
+
+Thời gian bán và tiếp nhận hồ sơ đăng ký đầu giá từ ngày 23/2/2024 đến 17 giờ ngày 15/3/2024. Theo thông báo, số tiền đặt trước tham gia đấu giá là 100 tỷ đồng.
+
+Cả 2 khối băng tần C2 và C3 được quy hoạch để triển khai các hệ thống thông tin di động theo tiêu chuẩn IMT-2020 và các phiên bản tiếp theo, sử dụng phương thức song công phân chia theo thời gian (TDD) theo quy định tại Thông tư 13/2023 của Bộ Thông tin và Truyền thông về quy hoạch băng tần 3560-4000 MHz cho hệ thống thông tin di động IMT của Việt Nam.
+
+Trước đó, cuối tháng 1/2024, Bộ trưởng Bộ Thông tin và Truyền thông đã phê duyệt quyết định về phương án tổ chức đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 2500- 2600 MHz và băng tần 3700- 3900 MHz.
+
+Theo đó, có 3 khối băng tần được đưa ra đấu giá, mỗi khối có độ rộng 100 MHz. Mỗi doanh nghiệp chỉ được phép trúng tối đa 1 khối băng tần. Như vậy sẽ có 3 doanh nghiệp có thể có băng tần qua đấu giá để triển khai 5G.
+
+Trong thời hạn 30 ngày kể từ ngày Bộ Thông tin và Truyền thông thông báo công khai phương án tổ chức đấu giá, doanh nghiệp phải nộp 1 bộ hồ sơ đề nghị xác nhận đáp ứng điều kiện tham gia đấu giá tới Cục Viễn thông thông qua một trong các phương thức sau: Qua hệ thống dịch vụ công trực tuyến hoặc qua đường bưu chính hoặc nộp trực tiếp. Các hồ sơ nộp không đúng thời hạn trên sẽ không được tiếp nhận và giải quyết.
+
+Trong thời hạn 15 ngày kể từ ngày nhận được danh sách tổ chức trúng đấu giá từ tổ chức đấu giá tài sản, Bộ trưởng Bộ Thông tin và Truyền thông ra quyết định phê duyệt kết quả trúng đấu giá gửi tổ chức trúng đấu giá. Kết thúc đấu giá, Bộ sẽ thông báo công khai thông tin cuộc đấu giá trên Cổng thông tin điện tử của Bộ.
+
+Trong thời hạn 3 tháng kể từ ngày Bộ Thông tin và Truyền thông phê duyệt kết quả trúng đấu giá, doanh nghiệp trúng đấu giá phải nộp một lần tối thiểu 50% số tiền cấp quyền sử dụng tần số vô tuyến điện.
+
+Trong 30 tháng kể từ ngày Bộ phê duyệt kết quả trúng đấu giá, doanh nghiệp trúng đấu giá phải nộp tiếp một lần tối thiểu 50% số tiền cấp quyền sử dụng tần số vô tuyến điện còn lại, cộng với số tiền lãi tính theo quy định.
+
+Trong 60 tháng kể từ ngày Bộ phê duyệt kết quả trúng đấu giá, tổ chức trúng đấu giá phải nộp tiếp một lần toàn bộ số tiền cấp quyền sử dụng tần số vô tuyến điện còn lại, cộng với số tiền lãi tính theo quy định.
+
+Sau 2 năm kể từ ngày được cấp phép sử dụng băng tần 2500-2600 MHz, doanh nghiệp cam kết triển khai tối thiểu 3.000 trạm phát sóng 5G sử dụng băng tần 2500-2600 MHz. Doanh nghiệp phải cam kết chính thức cung cấp dịch vụ viễn thông di động mặt đất sử dụng băng tần 2500-2600 MHz muộn nhất 12 tháng kể từ ngày được cấp phép sử dụng băng tần này.
+
+Tại thời điểm chính thức cung cấp dịch vụ viễn thông di động mặt đất sử dụng băng tần 2500-2600 MHz, doanh nghiệp phải triển khai tối thiểu 30% số lượng trạm phát sóng vô tuyến điện đã cam kết triển khai trong 2 năm đầu tiên kể từ ngày được cấp phép sử dụng băng tần 2500-2600 MHz.
+
+Sau 2 năm từ ngày được cấp phép sử dụng băng tần 3700-3800 MHz hoặc băng tần 3800-3900 MHz, doanh nghiệp phải cam kết triển khai tối thiểu 3.000 trạm phát sóng 5G sử dụng băng tần trúng đấu giá tương ứng. Doanh nghiệp phải cam kết chính thức cung cấp dịch vụ viễn thông di động mặt đất sử dụng băng tần 3700-3800 MHz hoặc băng tần 3800-3900 MHz muộn nhất 12 tháng từ ngày được cấp phép sử dụng băng tần trúng đấu giá tương ứng.
+
+Tại thời điểm chính thức cung cấp dịch vụ viễn thông di động mặt đất sử dụng băng tần 3700-3800 MHz hoặc băng tần 3800-3900 MHz, doanh nghiệp phải triển khai tối thiểu 30% số lượng trạm phát sóng vô tuyến điện đã cam kết triển khai trong 2 năm đầu tiên từ ngày được cấp phép sử dụng băng tần trúng đấu giá tương ứng.

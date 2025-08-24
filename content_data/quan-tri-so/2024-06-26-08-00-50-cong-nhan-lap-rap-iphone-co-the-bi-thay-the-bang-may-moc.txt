@@ -1,0 +1,15 @@
+Được biết, chỉ đạo này được đưa ra bởi Sabih Khan, Phó Chủ tịch điều hành cấp cao của Apple, sau khi diễn ra vụ bạo lực giữa công nhân iPhone và cảnh sát bên ngoài nhà máy lắp ráp chính của Foxconn, vào tháng 11/2022.
+
+The IÌnormation, Apple sẽ sớm tiến tới các dự án tự động hóa chuỗi cung ứng và sản xuất mà “trước đây hãng đã tạm dừng do chi phí trả trước cao”. Máy móc cần thiết để tự động hóa sản xuất iPhone có thể tiêu tốn đến hàng trăm triệu USD ngân sách mỗi năm của gã khổng lồ.
+
+Dữ liệu do Apple công bố trong báo cáo hàng năm cho thấy tổng số nhân viên tại các đối tác sản xuất của hãng đã giảm từ 1,6 triệu vào năm 2022 xuống còn 1,4 triệu vào năm 2023. Báo cáo cho biết một lượng lớn máy móc phục vụ tự động hóa quá trình lắp ráp cuối cùng của iPhone 15 đã được thiết lập.
+
+Trong năm vừa qua, Phó chủ tịch của Apple là Peter Thompson đã dẫn dắt thành công kế hoạch tự động hoá các bộ phận lắp ráp iPhone, bao gồm các máy lắp đặt khung kim loại và bảng mạch in lên các bộ phận mà không cần sự trợ giúp của con người. Trong quá trình thực hiện cải tổ chuỗi sản xuất, Apple và các đối tác đã sa thải hàng nghìn công nhân ở Trung Quốc. Theo một nhân viên tại một cơ sở sản xuất iPhone, Apple đã giảm tới 30% số lượng nhân viên ở một số quy trình.
+
+Theo một số nguồn tin khác, nhằm nỗ lực tự động hoá chuỗi sản xuất, Apple đã thực hiện một số thương vụ mua lại với các công ty có ích với họ bao gồm DarwinAI– cung cấp cho các nhà sản xuất giải pháp toàn diện để cải thiện chất lượng sản phẩm và tăng hiệu quả sản xuất.
+
+Một công ty khác Apple là Drishti, công ty phát triển giải pháp, phân tích các đoạn video về dây chuyền lắp ráp để “xác định các tắc nghẽn và vấn đề sản xuất trong thời gian thực”.
+
+Đối với iPhone 16, Apple ban đầu được cho là có kế hoạch tự động hóa lắp ráp các nút iPhone và các thành phần khác. Tuy nhiên, kế hoạch này đã bị hủy bỏ vì chất lượng sản xuất không đủ cao để đáp ứng tiêu chuẩn của Apple.
+
+Tuy nhiên, ngay cả khi gặp phải những trở ngại trên đường đi, mục tiêu cuối cùng của Apple vẫn là giảm tới 50% số lượng công nhân trên dây chuyền lắp ráp iPhone cuối cùng, đưa máy móc làm được những việc mà con người đang đảm nhiệm trong tương lai.

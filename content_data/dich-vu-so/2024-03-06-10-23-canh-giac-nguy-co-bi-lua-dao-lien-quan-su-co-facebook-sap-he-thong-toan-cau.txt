@@ -1,0 +1,37 @@
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), cho biết chỉ trong vòng ít ngày, 2 sự cố liên tiếp đã xảy ra với Facebook, nền tảng mạng xã hội lớn nhất thế giới. Đầu tiên là lỗ hổng zero-day cho phép tin tặc có thể chiếm quyền điều khiển tài khoản từ xa mà không cần người dùng phải thao tác. Sau đó đỉnh điểm là sự cố sập mạng Facebook trên toàn cầu xảy ra lúc 22h30 ngày 5/3 (giờ Việt Nam).
+
+Tuy Facebook đã được khôi phục nhưng người dùng nhưng người dùng hết sức cảnh giác với các dịch vụ "ăn theo" mà mục tiêu không gì khác ngoài lừa đảo, tấn công người dùng.
+
+Theo ông Sơn, thông thường, tin tặc sẽ rất "nhạy cảm" với các sự kiện kiểu như này, sẽ có nhiều hình thức ăn theo như "hướng dẫn đăng nhập Facebook khi gặp lỗi", "cách khôi phục mật khẩu nhanh nhất"... được đưa ra. Nếu không cảnh giác, người dùng có thể làm theo hướng dẫn và truy cập vào các website lừa đảo, từ đó bị mất thông tin tài khoản, mật khẩu.
+
+“Để phòng tránh trong mọi tình huống người dùng cần bình tĩnh. Nếu bạn tự nhiên không đăng nhập được tài khoản Facebook, hãy chậm lại một chút, không vội vàng tìm cách đăng nhập trở lại hay khôi phục mật khẩu ngay mà có thể hỏi thêm bạn bè mình có gặp hiện tượng tương tự không. Nếu nhiều người gặp thì chúng ta nên đợi để nhà cung cấp dịch vụ đưa ra thông báo và giải quyết sự cố”, chuyên gia Vũ Ngọc Sơn khuyến cáo.
+
+Trước đó, vào khoảng 22 giờ 30 phút tối 5/3 (giờ Việt Nam) , nhiều người dùng Facebook tại Việt Nam cho biết, tài khoản của họ bỗng nhiên mất kết nối, buộc phải đăng nhập lại. Hệ thống chỉ hiển thị thông báo "Phiên làm việc đã kết thúc" trên mọi thiết bị đang đăng nhập và bị thoát không rõ lý do.
+
+Sự cố này không chỉ ảnh hưởng đến ứng dụng Facebook mà còn lan sang Messenger và nền tảng web, gây ra sự bất tiện lớn và làm gián đoạn trải nghiệm người dùng.
+
+Mặc dù nhiều người đã cố gắng thử đăng nhập lại cũng không thành công dù nhập đúng thông tin tài khoản. Không chỉ riêng Việt Nam, sự cố này cũng đang diễn ra trên phạm vi toàn cầu.
+
+Ban đầu, nhiều người dùng cứ ngỡ tài khoản mình bị mất quyền truy cập, một số khác thì cho rằng mạng Internet có vấn đề. Ngay sau khi nhận thấy vấn đề, hàng loạt người dùng đã lên các nền tảng mạng xã hội khác để bày tỏ sự bức xúc và tìm kiếm sự giúp đỡ.
+
+Anh Lê Duy (ở quận 4, TP.HCM) cho biết, khi đang sử dụng Facebook để trao đổi với bạn bè thì mạng xã hội này đột ngột bị thoát ra khỏi ứng dụng. Dù đã thử đăng nhập lại nhiều lần nhưng đều không thành công. “Tình trạng trên, tôi cứ nghĩ tài khoản Facebook của mình đã bị tin tặc tấn công, chiếm quyền điều khiển. Tuy nhiên, sau đó một số bạn bè cũng phản ánh tình trạng tương tự thông qua nền tảng ứng dụng Zalo nên tất cả nhận định rằng, đây là lỗi hệ thống của chính Facebook”, Lê Duy chia sẻ.
+
+Ghi nhận về sự cố của Facebook trên chuyên trang DownDetector, biểu đồ sự cố màu đỏ tăng vọt với hơn 500.000 báo cáo từ người dùng trên khắp thế giới như Mỹ, Australia, Argentina, Canada, Đan Mạch, Bồ Đào Nha... bắt đầu từ khoảng hơn 22h và kéo dài đến rạng sáng 6/3.
+
+Nguyên nhân của sự cố hiện chưa được Facebook đưa ra, tuy nhiên, theo nhiều người dùng mạng xã hội, tình trạng trên có thể do lỗi kỹ thuật từ phía máy chủ của Facebook, khiến cho hệ thống không thể duy trì đăng nhập của người dùng, buộc họ phải đăng nhập lại liên tục.
+
+Theo số liệu thống kê được công bố hồi tháng 7/2023, lượng người dùng hoạt động hàng ngày của Facebook đạt 2,06 tỷ người. Lượng người dùng hàng tháng là 3,03 tỷ. Nếu tính toàn bộ hệ sinh thái ứng dụng của Meta, WhatsApp, Instagram, Messenger và Threads có 3,88 tỷ người dùng hoạt động hàng tháng.
+
+Được biết, thời gian qua, Facebook đã nhiều lần xảy ra lỗi trên toàn cầu. Lần gần nhất là vào tháng 10/2021, dịch vụ Facebook đã bị gián đoạn 6 tiếng vì sự cố. Và trước đó nữa là vào tháng 9, tháng 6, các dịch vụ của Facebook cũng gián đoạn nhiều giờ ảnh hưởng tới người dùng tại Việt Nam. Ngoài Facebook, hai mạng xã hội khác là Instagram, Threads cũng gặp sự cố tương tự.
+
+Mới đây, chuyên gia an ninh mạng “săn tiền thưởng” của các hãng bảo mật Samip Aryal (Nepal) đã phát hiện ra một lỗ hổng Facebook nghiêm trọng mà không cần người dùng tương tác (zero-click).
+
+Theo đó, tấn công zero-click thường tận dụng các lỗ hổng chưa được biết đến hoặc chưa được vá (còn gọi là lỗ hổng zero-day) trong phần mềm hoặc hệ thống. Đây là hình thức tấn công mạng và nạn nhân không cần phải thực hiện bất kỳ hành động nào, chẳng hạn như nhấp vào liên kết hay mở tệp đính kèm mà vẫn bị nhiễm mã độc hoặc bị hack. Điều này khác biệt so với các cuộc tấn công thông thường, nơi nạn nhân cần tương tác hay click vào đường link hoặc mở tệp chứa mã độc đính kèm…
+
+Aryal đã trình bày chi tiết những phát hiện của mình trong một bài đăng trên blog Medium. Aryal đã mô tả quá trình gỡ cài đặt và cài đặt lại các phiên bản khác nhau của Facebook dành cho Android, sử dụng các tác nhân người dùng khác nhau để kích hoạt thông báo đặt lại mật khẩu, và điều này sẽ tiết lộ mã bảo mật gồm 6 chữ số.
+
+Việc Aryal và nhóm bảo mật của Facebook giải quyết lỗ hổng nghiêm trọng này nhấn mạnh tầm quan trọng của những nỗ lực hợp tác trong lĩnh vực an ninh mạng. Bằng cách khai thác và sau đó vá lỗ hổng này, họ đã ngăn chặn hành vi chiếm đoạt tài khoản có khả năng xảy ra trên diện rộng, đồng thời nhấn mạnh tầm quan trọng của việc liên tục cảnh giác và cải tiến các biện pháp bảo mật kỹ thuật số.
+
+Aryal khuyến cáo người dùng Facebook nên sử dụng mật khẩu hoặc cụm mật khẩu mạnh và bật xác thực hai yếu tố để tăng cường bảo mật tài khoản.
+
+Với việc phát hiện lỗi bảo mật này, Meta đưa chuyên gia an ninh mạng Samip Aryal lên đầu danh sách White Hat Hall of Fame. Năm ngoái, Aryal cũng được công nhận, xếp thứ 27 trong danh sách vì đã phát hiện ra nhiều lỗ hổng Facebook.

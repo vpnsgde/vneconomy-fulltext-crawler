@@ -1,0 +1,21 @@
+Cuộc khảo sát của Viện nghiên cứu Upwork và Workplace Intelligence cho thấy phần lớn những người tham gia khảo sát nói rằng AI đang khiến công việc của họ trở nên khó khăn hơn. Cụ thể, 77% nhân viên báo cáo các sự xuất hiện của các công cụ AI khiến khối lượng công việc của họ tăng lên; 39% cho biết thời gian làm việc của họ tăng lên vì kiểm duyệt nội dung do AI tạo ra; 23% cho biết bên cạnh thời gian làm việc, họ phải đầu tư thêm thời gian để học cách sử dụng các công cụ AI.
+
+Cuộc khảo sát được thực hiện trên 2.500 nhân viên và giám đốc điều hành C-Suite (vị trí lãnh đạo cấp cao nhất của công ty) ở một số quốc gia.
+
+Kelly Monahan, Giám đốc điều hành của Viện nghiên cứu Upwork, cho biết trong một thông cáo báo chí: “Nghiên cứu của chúng tôi cho thấy việc đưa các công nghệ mới vào các mô hình và hệ thống làm việc lỗi thời sẽ không phát huy được toàn bộ giá trị năng suất mong đợi của AI”.
+
+Ông Kelly Monahan cảnh báo: “Mặc dù chắc chắn AI có thể tăng năng suất và cải thiện phúc lợi của nhân viên, nhưng kết quả này sẽ đòi hỏi sự thay đổi trong cách doanh nghiệp tổ chức nhân sự và công việc”.
+
+Khảo sát những nhân viên làm việc có sự tham gia của AI, 71% nhân viên cảm thấy kiệt sức và khoảng một phần ba trong số họ có ý định bỏ việc trong 6 tháng tới vì họ cảm thấy làm việc quá sức.
+
+Đưa ra nhận xét trước những kết quả bất ngờ của báo cáo, bà Stephanie Alston, Giám đốc điều hành của BGG Enterprises cho biết: “Việc triển khai các công cụ AI thường đòi hỏi phải đào tạo chuyên sâu. Nhân viên phải học cách sử dụng các hệ thống mới, điều này có thể tốn thời gian và làm giảm bớt trách nhiệm thường xuyên của họ”.
+
+“Công ty chúng tôi nhận thấy thời gian cung cấp dữ liệu vào các công cụ AI, đảm bảo độ chính xác của dữ liệu và khắc phục các sự cố liên quan đến AI có thể chiếm quá nhiều thời gian. Sự chuyển đổi trọng tâm từ các chức năng công việc cốt lõi sang bảo trì AI có thể khiến nhân viên kiệt sức vì phải gánh vác nhiều trách nhiệm”, bà Stephanie Alston cho biết.
+
+Theo vị giám đốc này, khi AI không mang lại kết quả ngay lập tức, gánh nặng sẽ đổ lên vai nhân viên, những người phải bù đắp khoảng trống công việc. “Mặc dù AI có tiềm năng cách mạng hóa các khía cạnh khác nhau trong hoạt động kinh doanh của chúng tôi, nhưng điều quan trọng là phải nhận ra và giải quyết những thách thức mà nó mang lại”, bà Stephanie Alston nhấn mạnh.
+
+Thay vì giảm khối lượng công việc của nhân viên, các giám đốc thừa nhận nhu cầu đào tạo và giám sát AI đang gây căng thẳng lên các nhân viên của họ. Ông Lucas Botsen, giám đốc điều hành của công ty dịch vụ nhân sự Rivermate nói: “Trách nhiệm giám sát này thuộc về những nhân viên vốn đã đảm nhận khối lượng công việc đáng kể, khiến họ căng thẳng và đẩy họ đến gần tình trạng kiệt sức”.
+
+Stefano Lodola, nhà sáng lập Think Languages chia sẻ: “Thách thức lớn nhất là giai đoạn làm quen với một công cụ AI mới. Việc đào tạo nhân viên sử dụng những công cụ này sẽ bổ sung thêm một nhiệm vụ vào lịch trình vốn đã bận rộn của họ, dẫn đến khối lượng công việc tăng lên. Mặc dù công ty của tôi chủ yếu gồm những người trẻ tuổi, những người thường thích nghi tốt với công nghệ mới, nhưng giai đoạn đào tạo ban đầu vẫn là thời gian căng thẳng đối với họ”.
+
+Stephen Greet, Giám đốc điều hành và đồng sáng lập của BeamJobs, cho biết: “Đây là bài học mà tôi đã rút ra, mặc dù cải tiến là nỗ lực đáng khen ngợi, sự tê liệt vẫn có thể xảy ra nếu bỏ qua các ưu tiên của con người. Công nghệ phải phục vụ con người chứ không phải ngược lại”.

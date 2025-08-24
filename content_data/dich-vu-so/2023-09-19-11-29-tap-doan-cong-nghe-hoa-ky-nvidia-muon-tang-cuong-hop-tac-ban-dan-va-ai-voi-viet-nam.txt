@@ -1,0 +1,19 @@
+Chiều ngày 18/9 theo giờ địa phương, Thủ tướng Phạm Minh Chính đã thăm, làm việc với một số tập đoàn công nghệ Hoa Kỳ tại thung lũng Silicon (California) gồm Nvidia, Meta và Synopsys.
+
+Tại Nvidia, Thủ tướng đã dành thời gian trao đổi với ông Jensen Huang, người đồng sáng lập và là Chủ tịch Tập đoàn về xu hướng phát triển AI toàn cầu và tiềm năng hợp tác rộng mở giữa Tập đoàn với Việt Nam, cũng như những góp ý cho chiến lược quốc gia vềbán dẫn Việt Namđang xây dựng.
+
+Người đứng đầu Chính phủ đề nghị Nvidia tiếp tục tăng cường các hoạt động hợp tác, mở rộng đầu tư tại Việt Nam trong các lĩnh vực mà Tập đoàn có thế mạnh và Việt Nam cũng đang dành ưu tiên cao, góp ý, tư vấn về chính sách, hỗ trợ đào tạo nhân lực, nâng cao năng lực công nghệ và quản trị, giúp Việt Nam tham gia sâu hơn vào chuỗi cung ứng.
+
+Thủ tướng cũng mời Chủ tịch Nvidia thăm và làm việc tại Việt Nam trong thời gian sớm nhất, với mong muốn Nvidia sớm có nhà máy sản xuất tại Việt Nam, lấy Việt Nam làm cứ điểm tại khu vực Đông Nam Á.
+
+Thủ tướng giao nhiệm vụ cho lãnh đạo các Bộ tham gia đoàn công tác (Bộ Ngoại giao, Bộ Kế hoạch và Đầu tư, Bộ Công Thương, Bộ Thông tin và Truyền thông, Bộ Khoa học và Công nghệ, Bộ Tài nguyên và Môi trường), Tổng lãnh sự quán Việt Nam tại San Francisco đồng hành, hỗ trợ, cùng đại diện của các doanh nghiệp lớn của Việt Nam trao đổi cụ thể lại với Nvidia để có các kế hoạch triển khai các chương trình, dự án thời gian tới.
+
+Nhất trí với các đề xuất của Thủ tướng Phạm Minh Chính, Chủ tịch Nvidia đánh giá Việt Nam đang có những thay đổi rất lớn; mong muốn tăng cường hợp tác vớiViệt Nam về bán dẫn, công nghệ thông tin và trí tuệ nhân tạo; kỳ vọng Việt Nam hoàn toàn có thể trở thành một cứ điểm sản xuất của tập đoàn này tại Đông Nam Á.
+
+Nvidia là một công ty công nghệ đa quốc gia, chuyên thiết kế các bộ xử lý đồ họa (GPU), giao diện lập trình ứng dụng (API) cho khoa học dữ liệu và điện toán hiệu năng cao cũng như hệ thống trên các đơn vị chip (SoC) cho thị trường điện toán di động và ô tô. Có nhiều đối thủ cạnh tranh, song Nvidia được coi là công ty rất đặc biệt bởi các công ty trong lĩnh vực AI khác đều phải sử dụng các sản phẩm của Nvidia.
+
+Tính đến hiện tại, Nvidia có hơn 26.000 nhân viên trên toàn cầu, với doanh thu đạt gần 27 tỷ USD. Với cơn sốt AI toàn cầu, Nvidia đang tăng kế hoạch sản xuất chip AI cho năm 2024 lên hơn 3 lần và doanh thu dự kiến còn tăng rất nhiều trong thời gian tới.
+
+Tại Việt Nam, Nvidia là nhà cung cấp máy chủ và AI hàng đầu. Nvidia đã ký thỏa thuận với Viettel với mong muốn trở thành một đối tác của Việt Nam trong quá trình nâng cao năng lực nội địa về AI.
+
+Viện Hàn lâm Khoa học và Công nghệ Việt Nam (VAST) đang nghiên cứu phát triển hệ thống siêu tính toán với chip A100 của Nvidia nhằm hỗ trợ triển khai các giải pháp AI mới nhất. Hai bên dự kiến hoàn thiện các thủ tục nội bộ và ký kết thỏa thuận hợp tác về nghiên cứu-phát triển-chuyển giao và đào tạo nguồn nhân lực trong lĩnh vực công nghệ bán dẫn thời gian tới.

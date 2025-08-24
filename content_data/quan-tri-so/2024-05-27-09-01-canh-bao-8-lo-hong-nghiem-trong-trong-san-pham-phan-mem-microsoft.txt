@@ -1,0 +1,13 @@
+Cục An toàn thông tin (Bộ Thông tin và Truyền thông) vừa cảnh báo, 8 lỗ hổng bảo mật ảnh hưởng mức cao và nghiêm trọng trong sản phẩm Microsoft. Cụ thể, trong danh sách bản vá tháng 5/2024 với 59 lỗ hổng bảo mật trong các phần mềm của Microsoft, Cục An toàn thông tin khuyến nghị các cơ quan, tổ chức, doanh nghiệp đặc biệt chú ý 8 lỗ hổng.
+
+Trong đó, có 4 lỗ hổng hiện đang bị khai thác trong thực tế, gồm có: CVE-2024-30040 trong Windows MSHTML Platform, cho phép đối tượng tấn công vượt qua cơ chế bảo vệ; 3 lỗ hổng CVE-2024-30051, CVE-2024-30032 và CVE2024-30035 trong Windows DWM Core Library cho phép đối tượng tấn công thực hiện tấn công leo thang đặc quyền.
+
+Hai lỗ hổng bảo mật CVE-2024-30044 trong Microsoft SharePoint Server và CVE-2024-30042 trong Microsoft Excel đều cho phép các đối tượng tấn công có thể thực thi mã từ xa.
+
+Lỗ hổng CVE-2024-30033 trong Windows Search Service cho phép đối tượng tấn công thực hiện tấn công leo thang đặc quyền; lỗ hổng CVE-2024-30043 trong Microsoft SharePoint Server cho phép đối tượng tấn công thực hiện tấn công XXE. Lỗ hổng này được xem là một hình thức tấn công chèn các đoạn mã độc vào máy chủ.
+
+Nhằm đảm bảo an toàn thông tin cho hệ thống thông tin của các đơn vị, góp phần bảo đảm an toàn không gian mạng Việt Nam, Cục An toàn thông tin khuyến nghị cơ quan, tổ chức và doanh nghiệp trên cả nước tiến hành rà soát, xác định máy tính sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng bởi các lỗ hổng bảo mật nguy hiểm kể trên. Các đơn vị cần cập nhật bản vá kịp thời để tránh nguy cơ hệ thống thông tin của đơn vị mình bị tấn công mạng.
+
+Đồng thời, tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng; Thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+
+Theo thống kê của Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC), trong 3 tuần đầu tháng 5/2024, các tổ chức quốc tế đã công bố và cập nhật hơn 2.400 lỗ hổng bảo mật, trong đó có gần 300 lỗ hổng ảnh hưởng mức cao. Đặc biệt, có tới gần 800 lỗ hổng cho phép chèn và thực thi mã lệnh.

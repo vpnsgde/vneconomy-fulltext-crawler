@@ -1,0 +1,23 @@
+Nhằm đáp ứng nhu cầu thông tin liên lạc của cơ quan nhà nước, tổ chức, doanh nghiệp và nhân dân trong dịp Kỷ niệm 80 năm Cách mạng Tháng Tám và Quốc khánh 2/9 (sự kiện A80), Bộ Khoa học và Công nghệ yêu cầu các doanh nghiệp viễn thông tăng cường các phương án đảm bảo thông tin liên lạc, xây dựng kế hoạch cụ thể, bố trí cán bộ, viên chức, người lao động trực đảm bảo thông tin liên lạc trong kỳ nghỉ Lễ.
+
+Bên cạnh đó, các nhà mạng cần xây dựng kế hoạch mở rộng dung lượng đường truyền, băng thông kết nối trong nước và quốc tế đảm bảo không bị nghẽn mạng tại các thời điểm có lượng thuê bao truy cập lớn.
+
+Nhất là tăng cường các xe BTS lưu động đến các khu vực tập trung đông người như quảng trường, công viên, vườn hoa, phố đi bộ, các khu vực bắn pháo hoa, tổ chức Lễ kỷ niệm, đặc biệt là tại các khu vực tổ chức Lễ diễu binh, diễu hành của các lực lượng để sẵn sàng bổ sung lưu lượng phát sinh, đảm bảo thông tin liên lạc thông suốt, không bị nghẽn mạng, đáp ứng tối đa nhu cầu liên lạc của người sử dụng dịch vụ viễn thông.
+
+Bên cạnh đó, các nhà mạng cần sẵn sàng các phương án xử lý sự cố, ứng cứu thông tin, ứng cứu lẫn nhau giữa các doanh nghiệp trên cùng địa bàn khi cần thiết (roaming, chia sẻ, sử dụng chung hạ tầng ...) nhằm đảm bảo đáp ứng tối đa nhu cầu phát sinh về dịch vụ viễn thông của các cơ quan, tổ chức, doanh nghiệp và người sử dụng dịch vụ.
+
+Phối hợp với các đơn vị liên quan nhằm kịp thời phát hiện, ngăn chặn các hành vi lợi dụng mạng lưới viễn thông và Internet để gửi, phát tán thông tin có nội dung trái pháp luật, phát tán vi rút phá hoại các cổng/trang thông tin điện tử. Sẵn sàng hỗ trợ, hướng dẫn, cảnh báo người sử dụng dịch vụ về các hành vi lừa đảo trên không gian mạng của các đối tượng lợi dụng mạng viễn thông thực hiện hành vi lừa đảo, chiếm đoạt tài sản để chủ động phòng, tránh.
+
+Được biết, để chuẩn bị cho Đại lễ, ngay từ đầu tháng 8, MobiFone đã lắp đặt hơn 200 trạm phát sóng lưu động tại các điểm tập trung đông người. Bên cạnh đó, MobiFone còn đưa vào khai thác công nghệ 5G hiện đại tích hợp trí tuệ nhân tạo (AI) nhằm quản lý và tối ưu lưu lượng mạng theo thời gian thực.
+
+Trong khi đó, Viettel cho biết đã xây dựng hơn 2.400 giải pháp kỹ thuật, trong đó phát sóng mới 500 trạm BTS 5G. Đặc biệt, lần đầu tiên tại Việt Nam 1.200 trạm nhỏ 5G (smallcell 5G) được triển khai dọc các tuyến đường giúp nâng cao dung lượng và tốc độ internet tại các điểm tập trung đông người, chia sẻ tải cho mạng 4G. Bên cạnh đó, 700 trạm 4G tạm thời, 25 xe phát sóng cơ động cũng được Viettel huy động.
+
+Hệ thống được thiết kế để tự động ưu tiên kết nối vào mạng 5G khi có sẵn. Bằng cách chủ động "hút" những người dùng có nhu cầu dữ liệu cao nhất sang làn 5G, mạng 4G trở nên thông thoáng hơn rất nhiều. Tất cả mọi người dù dùng 4G hay 5G đều có trải nghiệm tốt hơn.
+
+Trước thềm Đại lễ, VNPT cũng đã hoàn tất rà soát, tối ưu toàn bộ hệ thống, triển khai các phương án bảo đảm an toàn thông tin ở mức cao nhất. Các kịch bản kỹ thuật đã được chuẩn bị sẵn sàng.
+
+Bên cạnh đó, VNPT đã triển khai 5.500 trạm phát sóng di động 3G/4G/5G trên địa bàn các phường có địa điểm diễn ra sự kiện, cùng hàng loạt giải pháp kỹ thuật để nâng cao năng lực đáp ứng nhu cầu sử dụng dịch vụ khách hàng tăng cao tại các địa điểm sự kiện.
+
+Nhà mạng này cũng phát sóng bổ sung 1.100 cell 4G, phát sóng lưu động/dã chiến 3G/4G/5G tại 106 điểm; tăng cường phát sóng indoor lắp đặt hệ thống IBS/Smallcell tại các vị trí chiến lược như Trung tâm Triển lãm quốc gia, nhà ga T2 Nội Bài.
+
+Bộ Khoa học và Công nghệ yêu cầu các nhà mạng đảm bảo tốt an ninh, an toàn, phòng - chống cháy nổ tại cơ quan, đơn vị trong dịp nghỉ Lễ. Sẵn sàng các phương án đảm bảo thông tin liên lạc trong phòng chống thiên tai, tìm kiếm cứu nạn nếu xảy ra thiên tai, thảm họa đột xuất trong dịp nghỉ Lễ.

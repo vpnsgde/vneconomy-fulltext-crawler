@@ -1,0 +1,29 @@
+Singapore cho thấy các quốc gia vừa và nhỏ có thể theo kịp trong cuộc chạy đua vũ trang AI đang leo thang, thậm chí có thể có lợi thế hơn so với các quốc gia lớn trong việc giải phóng sức mạnh của AI.
+
+Từ năm 2019, Singapore đã là một trong những quốc gia đầu tiên xây dựng chiến lược AI quốc gia – "Chiến lược AI quốc gia 2.0". Tháng 12 năm ngoái, Phó Thủ tướng Singapore, Lawrence Wong (người hiện đã trở thành thủ tướng của Singapore) cập nhật và mở rộng các sáng kiến trong khuôn khổ chính sách. Theo đó, chính phủ Singapore sẽ đầu tư 743 triệu USD trong 5 năm tới để thúc đẩy năng lực AI của quốc gia này.
+
+Josephine Teo, Bộ trưởng Bộ Phát triển Kỹ thuật số và Thông tin Singapore, cho biết: "Chúng tôi không cố gắng trở thành siêu cường AI. Chúng tôi không cần phải như vậy". Thay vào đó, Singapore hy vọng sẽ định vị mình như một “Thụy Sĩ kỹ thuật số”, được các bên tham gia ở cả hai khối quyền lực tin tưởng.
+
+Ở một mức độ nào đó, Singapore đã đạt được mục tiêu đó. Các công ty khởi nghiệp công nghệ hàng đầu của nước này được các nhà đầu tư mạo hiểm từ cả Mỹ và Trung Quốc tài trợ. Các trung tâm dữ liệu của Singapore lưu trữ cơ sở hạ tầng đám mây cho Amazon, Google, Microsoft và Meta Platforms, cũng như China Telecom và Alibaba.
+
+Tại khu thương mại trung tâm của Singapore, những gã khổng lồ công nghệ Trung Quốc như TikTok sở hữu ByteDance và nhà bán lẻ trực tuyến Shein đang cạnh tranh giành không gian văn phòng cùng với Google, Amazon và IBM.
+
+Sân bay Changi của Singapore là một trong những sân bay bận rộn nhất thế giới với hơn 59 triệu du khách đã qua đây vào năm ngoái, đã sử dụng AI để sàng lọc và phân loại hành lý, đồng thời cung cấp năng lượng cho công nghệ nhận dạng khuôn mặt để làm thủ tục nhập cảnh. HIện nay, Changi đã trở thành một trong những sân bay tiên tiến nhất thế giới.
+
+
+
+AI đóng vai trò quan trọng không kém tại cảng container rộng lớn của Singapore, cảng bận rộn thứ hai thế giới sau Thượng Hải. Năm ngoái, cảng đã xử lý kỷ lục 39 triệu TEU (mỗi đơn vị gần bằng một container vận chuyển tiêu chuẩn). Cảng Singapore sử dụng AI để chỉ đạo lưu lượng tàu, lập bản đồ các mô hình neo đậu, phối hợp giao hàng đúng lúc, xử lý các tài liệu đăng ký,...
+
+Các ngân hàng lớn của Singapore cũng đã nhiệt tình đón nhận AI. DBS Bank, ngân hàng cho vay lớn nhất Đông Nam Á, có một đội ngũ gần một nghìn nhà khoa học dữ liệu, nhà phân tích và kỹ sư, tăng từ chỉ 25 người vào năm 2017.
+
+Ngay cả trước khi bùng nổ AI, Singapore đã là một trong những trung tâm kỹ thuật số lớn nhất thế giới. Quốc gia này được kết nối với nhiều nước trên thế giới thông qua 25 tuyến cáp ngầm và có kế hoạch bổ sung thêm 14 tuyến nữa trong thập kỷ tới. Nhưng nếu Singapore muốn phát triển thành một trung tâm dữ liệu toàn cầu, thì quốc gia này phải xây dựng nhiều trung tâm dữ liệu hơn—một thách thức không hề nhỏ đối với một quốc đảo nơi đất đai khan hiếm, năng lượng đắt đỏ và nóng nực quanh năm.
+
+Hiện tại, Singapore có hơn 70 trung tâm dữ liệu và công suất 1,4 GW. Năm 2019, chính phủ đã tuyên bố tạm dừng xây dựng các trung tâm mới, với lý do lo ngại về không gian và điện năng mà chúng tiêu thụ. Kết quả là họ đã nhanh chóng xây dựng các trung tâm dữ liệu ở Malaysia và Indonesia, những quốc gia vui lòng chấp nhận khoản đầu tư của họ.
+
+Tháng 5 này, Singapore đã ban hành kế hoạch xây dựng một trung tâm dữ liệu có công suất 530 MW. Đây là một phần của Lộ trình Trung tâm Dữ liệu Xanh, một nỗ lực mới để phát triển các trung tâm dữ liệu bền vững của Singapore.
+
+Simon Chesterman, Phó hiệu phó Đại học Quốc gia Singapore đồng thời là Giám đốc cấp cao tại AI Singapore, lập luận rằng quy mô khiêm tốn của Singapore khuyến khích sự hợp tác giữa khu vực công và tư. Sự hợp tác như vậy đặc biệt quan trọng ở một quốc gia mà chính phủ vẫn chưa ban hành các quy định chính thức về AI.
+
+Ông Simon Chesterman cho biết Singapore đang tìm kiếm một mô hình quản trị tương tự giữa các cách tiếp cận của Mỹ – hạn chế tác động của quy định và ủng hộ thị trường dẫn dắt; Liên minh Châu Âu, nơi ưu tiên quyền riêng tư dữ liệu; và Trung Quốc, quốc gia nhấn mạnh vào sự ổn định xã hội và sự kiểm soát của nhà nước.
+
+Đối với Singapore, ông Simon Chesterman cho biết, thách thức là tránh tình trạng quản lý không đầy đủ, khiến công dân gặp rủi ro và làm suy yếu lòng tin của công chúng và quản lý quá mức, có thể khiến các đối tác nước ngoài sợ hãi và kìm hãm sự đổi mới. Singapore có thể không bao giờ trở thành siêu cường AI, nhưng có thể giúp thuyết phục phần còn lại của thế giới rằng trong thời đại dữ liệu lớn, các quốc gia nhỏ cũng có thể nghĩ lớn.

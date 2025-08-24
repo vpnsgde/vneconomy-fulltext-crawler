@@ -1,0 +1,39 @@
+Google vừa công bố Gemini- mô hình AI lớn tiên tiến nhất và năng lực nhất, tổng quát nhất từ trước tới nay của hãng công nghệ này.
+
+Theo CEO Google và Alphabet Sundar Pichai, đây là mô hình tổng quát và có năng lực nhất của Google, với hiệu suất tân tiến nhất vượt qua nhiều tiêu chuẩn hàng đầu. Phiên bản đầu tiên là Gemini 1.0 được tối ưu hóa cho các kích cỡ khác nhau: Ultra, Pro và Nano. Đây là những mô hình đầu tiên của kỷ nguyên Gemini, mở ra những cơ hội mới cho người dùng.
+
+Đại diện đội ngũ Gemini cho biết, Gemini là kết quả của những nỗ lực hợp tác quy mô lớn giữa các đội ngũ trong Google, bao gồm cả các cộng sự tại Google Research. Ngay từ ban đầu, nó được xây dựng trở nên đa phương thức, nghĩa là nó có thể khái quát và có khả năng hiểu liền mạch, vận hành và kết hợp trên nhiều loại thông tin khác nhau bao gồm văn bản, code, âm thanh, hình ảnh và video.
+
+“Gemini cũng là mô hình AI linh hoạt nhất của chúng tôi, nó có thể hoạt động hiệu quả trên mọi thứ từ trung tâm dữ liệu cho đến thiết bị di động. Việc xây dựng và mở rộng quy mô cùng AI của các doanh nghiệp và nhà phát triển sẽ được cải thiện đáng kể với những khả năng hiện đại nhất của Gemini”, Demis Hassabis, CEO Google DeepMind, thông tin.
+
+Phiên bản đầu tiên với 3 kích cỡ khác nhau trong đó, Gemini Ultra là mô hình lớn nhất và năng lực nhất của Google dành cho các tác vụ có độ phức tạp cao.
+
+Google đã thử nghiệm nghiêm ngặt các mô hình Gemini và đánh giá hiệu suất của chúng trên nhiều tác vụ khác nhau. Từ việc nhận biết hình ảnh tự nhiên, âm thanh và video cho đến khả năng tư duy toán học, hiệu suất của Gemini Ultra vượt qua các kết quả hiện đại nhất là 30 trong số 32 tiêu chuẩn học thuật được sử dụng rộng rãi để nghiên cứu và phát triển mô hình ngôn ngữ lớn (LLM).
+
+Theo kết quả thử nghiệm được Google công bố, Gemini Ultra đạt điểm 90% trong bài kiểm tra khả năng hiểu ngôn ngữ đa nhiệm lớn (MMLU- Massive Multitask Language Understanding). Mô hình này sử dụng tổ hợp 57 môn học như toán, vật lý, lịch sử, luật, y học và đạo đức để kiểm tra cả kiến thức thế giới và khả năng giải quyết vấn đề, đồng thời có thể "sử dụng khả năng của mình để nghĩ kỹ hơn trước khi trả lời những câu hỏi khó".
+
+Với kết quả này, Gemini là AI đầu tiên vượt qua con người ở cấp độ chuyên gia, vốn có điểm 89,8% trong bài kiểm tra tương tự. Kết quả của GPT-4 là 87%, LLAMA-2 đạt 68% và Claude 2 của Anthropic đạt 78,5%.
+
+Cách tiếp cận chuẩn mới đối với MMLU cho phép Gemini sử dụng khả năng suy luận của nó để suy nghĩ kỹ hơn trước khi trả lời những câu hỏi khó, đưa đến những cải tiến đáng kể so với việc chỉ sử dụng ấn tượng đầu tiên.
+
+Gemini Ultra cũng đạt được số điểm cao nhất là 59,4% trên tiêu chuẩn MMMU mới (Massive Multi-discipline Multimodal Understanding, tạm dịch: Hiểu biết lớn về đa phương thức trên đa ngành), bao gồm các tác vụ đa phương thức trải rộng trên các lĩnh vực khác nhau đòi hỏi suy luận có chủ ý.
+
+Với tiêu chuẩn hình ảnh đã thử nghiệm, Gemini Ultra vượt trội hơn các mô hình hiện đại nhất trước đó mà không cần sự hỗ trợ từ hệ thống nhận dạng ký tự đối tượng (OCR) trích xuất văn bản từ hình ảnh để tiếp tục xử lý. Những tiêu chuẩn này làm nổi bật tính đa phương thức vốn có của Gemini và cho thấy những dấu hiệu ban đầu về khả năng suy luận phức tạp hơn của Gemini.
+
+CEO Google DeepMind cũng cho biết, với khả năng suy luận đa phương thức nhạy bén, Gemini 1.0 có thể hiểu được thông tin dưới dạng văn bản và hình ảnh phức tạp. Điều này khiến nên tảng có kỹ năng độc đáo trong việc khám phá những kiến thức khó có thể phân biệt được giữa lượng dữ liệu khổng lồ.
+
+Khả năng vượt trội của Gemini trong việc trích xuất những insight từ hàng trăm nghìn tài liệu thông qua việc đọc, lọc và hiểu thông tin sẽ giúp tạo ra những đột phá mới ở tốc độ kỹ thuật số trên nhiều lĩnh vực từ khoa học đến tài chính.
+
+Gemini 1.0 đã được đào tạo để nhận diện và hiểu văn bản, hình ảnh, âm thanh cùng nhiều loại hình khác ngay cùng một thời điểm, giúp nó hiểu rõ hơn hơn thông tin có sắc thái và trả lời các câu hỏi liên quan đến những chủ đề phức tạp. Điều này khiến Gemini đặc biệt hữu ích trong việc giải thích lập luận ở những môn học phức tạp toán học và vật lý.
+
+Phiên bản Gemini đầu tiên này có thể hiểu, giải thích, và tạo ra những dòng code chất lượng cao bằng những ngôn ngữ lập trình phổ biến nhất trên thế giới, như Python, Java, C   và Golang. Khả năng hoạt động trên nhiều ngôn ngữ khác nhau kết hợp cùng khả năng suy luận thông tin phức tạp khiến Gemini trở thành một trong những mô hình AI lập trình hàng đầu thế giới.
+
+Đại diện Google cho biết Gemini 1.0 hiện đang được triển khai trên một số lượng lớn các sản phẩm và nền tảng khác nhau. Gemini đang được mang đến hàng tỉ người dùng qua các sản phẩm của Google. Theo đó, Bard sẽ sử dụng phiên bản tinh chỉnh của Gemini Pro để lý luận, lập kế hoạch, hiểu biết nâng cao.
+
+Pixel 8 Pro là chiếc điện thoại đầu tiên được thiết kế để vận hành Gemini Nano, hỗ trợ các tính năng mới như tóm tắt trong ứng dụng Ghi âm, triển khai tính năng trả lời thông minh trên bàn phím Gboard, bắt đầu với ứng dụng WhatsApp và trên các ứng dụng nhắn tin khác vào năm tới.
+
+Trong các tháng tới, Gemini sẽ có mặt trên nhiều sản phẩm và dịch vụ như Google Search, Google Ads, Chrome và Duet AI. Hãng cũng bắt đầu thử nghiệm Gemini trong Google Search, giúp Search Generative Experience vận hành nhanh hơn cho người dùng.
+
+Từ ngày 13/12, các nhà phát triển và khách hàng doanh nghiệp có thể truy cập vào Gemini Pro thông qua Gemini API trong Google AI Studio hoặc Google Cloud Vertex AI.
+
+Với Gemini Ultra sẽ được cung cấp cho một số khách hàng, nhà phát triển, đối tác cũng như các chuyên gia về an toàn và trách nhiệm để thử nghiệm, đưa ra phản hồi, trước khi ra mắt các nhà phát triển và khách hàng doanh nghiệp trong năm tới.

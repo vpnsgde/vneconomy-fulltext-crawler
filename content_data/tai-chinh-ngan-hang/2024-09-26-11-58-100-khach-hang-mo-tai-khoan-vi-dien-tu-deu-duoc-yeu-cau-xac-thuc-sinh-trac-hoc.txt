@@ -1,0 +1,21 @@
+Để đảm bảo an toàn, bảo mật dữ liệu thông tin trên các dịch vụ trung gian thanh toán, từ ngày 1/10 tới đây, Ngân hàng Nhà nước quy định khách hàng muốn mở ví điện tử bắt buộc phải cung cấp thông tin sinh trắc học. Theo đó, dữ liệu sinh trắc học được lưu trong bộ phận lưu trữ thông tin được mã hóa của thẻ căn cước công dân hoặc thẻ căn cước đã được xác thực bởi cơ quan Công an cấp hoặc thông qua xác thực tài khoản định danh điện tử do Hệ thống định danh và xác thực điện tử tạo lập.
+
+Ghi nhận thông tin từ một số ví điện tử đang hoạt động tại Việt Nam, thủ tục mở ví điện tử yêu cầu người dùng xác thực sinh trắc học đã được nhiều ví tuân thủ thực hiện theo công văn chỉ đạo của Ngân hàng Nhà nước.
+
+Ví Appota (sản phẩm của AppotaPay) với khoảng 6.000.000 người dùng, cho biết thời gian gần đây đã yêu cầu người dùng đăng ký mới cung cấp thông tin sinh trắc học.
+
+Ông Đào Tuấn Anh, Giám đốc Điều hành của AppotaPay, cho rằng: “Thông tư 40 của Ngân hàng Nhà nước mang lại nhiều giá trị cho các công ty trong ngành, giúp cho các đơn vị thanh toán trung gian như AppotaPay có cơ sở tốt hơn để làm việc với người dùng nhằm nâng cao an toàn dữ liệu thông tin đồng thời giảm thiểu nguy cơ lừa đảo/chiếm đoạt tài sản trên không gian mạng”.
+
+Trên thực tế, trước khi có Thông tư, AppotaPay đã triển khai định danh sinh trắc học theo Quyết định 2345/QĐ - NHNN, và tiếp nhận nhiều phản hồi của khách hàng. Trong đó, có một bộ phận nhỏ người dùng lo sợ nguy cơ lộ thông tin cá nhân do ảnh hưởng từ thông tin tiêu cực trên Internet.
+
+Ngoài ra, một bộ phận khách hàng gặp khó khăn, hoặc cảm thấy phiền hà do phải thực hiện thêm nhiều bước.
+
+Tuy nhiên, theo ông Tuấn Anh, với sự đồng hành, cố vấn, hướng dẫn tận tình, sát sao từ Ngân Hàng Nhà Nước, đồng thời qua việc chủ động truyền thông từ phía ví điện tử về lợi ích của định danh sinh trắc học, đến nay, người dùng của ví đã nhìn nhận rõ ràng hơn lợi ích và phối hợp thực hiện xác thực sinh trắc học theo quy định.
+
+Nhiều ví điện tử cho biết đã thực hiện điều chỉnh hoạt động và yêu cầu người dùng mới xác thực sinh trắc học từ vài tháng nay. Theo đó, AppotaPay, VnPay, ViettelPay... xác nhận với VnEconomy rằng 100% khách hàng khi mở tài khoản ví điện tử đều đã được yêu cầu xác thực sinh trắc học, tuân thủ theo quy định của Ngân hàng Nhà nước.
+
+Bên cạnh quy định về cung cấp thông tin sinh trắc học bắt buộc đối với người dùng muốn mở ví điện tử mới, Thông tư 40/2024/TT-NHNN của Ngân hàng Nhà nước cũng quy định từ ngày 1/1/2025, khách hàng chỉ được sử dụng ví điện tử để thực hiện các giao dịch (chuyển tiền, rút tiền,...) khi đã hoàn thành việc chiếu khớp đúng giấy tờ tùy thân và thông tin sinh trắc học của chủ ví điện tử.
+
+Thực hiện quy định mới của đơn vị quản lý Nhà nước, đại diện một số ví điện tử chia sẻ ứng dụng xác thực sinh trắc học đã và đang mang đến nhiều lợi ích cho người dùng của ví, bao gồm giảm thiểu nguy cơ bị tấn công hoặc lừa đảo, giúp người dùng cảm thấy an tâm hơn khi thực hiện các giao dịch trực tuyến hay truy cập tài khoản cá nhân, rút ngắn thời gian đăng nhập và tương tác với các dịch vụ số.
+
+Bên cạnh đó, một số ví cũng cho biết thời gian tới có kế hoạch ứng dụng thêm nhiều công nghệ cao như trí tuệ nhân tạo để tăng cường bảo mật thông tin người dùng đồng thời nâng cấp trải nghiệm người dùng khi sử dụng ví điện tử.

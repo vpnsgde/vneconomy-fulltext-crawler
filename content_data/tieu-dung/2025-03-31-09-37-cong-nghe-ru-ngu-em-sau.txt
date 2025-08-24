@@ -1,0 +1,31 @@
+Ủy ban Trí tuệ nhân tạo trong Y học giấc ngủ (thuộc Viện Hàn lâm Y học giấc ngủ Hoa Kỳ) vừa công bố một bài báo phân tích cách trí tuệ nhân tạo (AI) đóng góp vào giấc ngủ của con người. Ủy ban này đã xem xét cách AI hỗ trợ trong 3 lĩnh vực: ứng dụng lâm sàng, quản lý lối sống và sức khỏe cộng đồng. Trong đó, tiềm năng được đánh giá cao nhất thuộc về lĩnh vực không gian ngủ thông minh: AI có thể được tích hợp vào không gian sống để tạo ra các tiện ích tùy chỉnh dựa trên chu kỳ giấc ngủ cá nhân.
+
+Cụ thể hơn, thị trường công nghệ hỗ trợ giấc ngủ toàn cầu sẽ đạt 40,6 tỷ USD vào năm 2027, với động lực tăng trưởng chủ yếu từ tỷ lệ rối loạn giấc ngủ ngày càng tăng, tiến bộ công nghệ và nhận thức của người dùng về các thiết bị AI. Theo đó, các thiết bị đeo đang chiếm thị phần lớn nhất và dự kiến có tốc độ tăng trưởng là 17% so với 14% với thiết bị khử tiếng ồn và 5% với giường thông minh…
+
+NỞ RỘ CÁC THIẾT BỊ TÍCH HỢP AI
+
+Tại CES 2025 vừa qua, hạng mục thiết bị công nghệ chăm sóc sức khỏe tốt nhất đã vinh danh Ozlo Sleepbuds. Đây không chỉ là tai nghe nhét tai thoải mái để ngủ mà còn kèm theo cảm biến sinh trắc học để theo dõi giấc ngủ, cảm biến trong hộp sạc để phát hiện gián đoạn tiềm ẩn trong phòng... Người dùng thậm chí có thể phát âm thanh từ Ozlo Sleepbuds mà không cần kết nối với thiết bị Bluetooth khác, nghĩa là không cần nhìn vào smartphone trước khi đi ngủ.
+
+Cũng tại CES 2025, JBL đã công bố Horizon 3 - một thiết bị âm thanh được thiết kế để cải thiện giấc ngủ và đơn giản hóa thói quen hàng ngày. Sẽ chính thức được bán ra vào tháng 5/2025, Horizon 3 cung cấp ánh sáng có thể điều chỉnh và âm thanh thiên nhiên để hỗ trợ giấc ngủ tốt hơn.
+
+Được tạo ra để cải thiện chu kỳ giấc ngủ ngay cả đối với những người khó ngủ nhất, JBL Horizon 3 kết hợp sự đổi mới với thiết kế thanh mảnh, để tạo ra bầu không khí hoàn hảo cho bất kỳ không gian phòng ngủ nào.
+
+Hiện không ít “ông lớn” trong địa hạt công nghệ, tiêu biểu như Google và Samsung, đang đầu tư phát triển thiết bị thông minh nhỏ gọn theo dõi chỉ số giấc ngủ. Loa thông minh Google Nest Hub, dòng đồng hồ Samsung Galaxy Watch hút khách đều đính kèm nhiều chức năng chăm sóc giấc ngủ.
+
+Thế nhưng, để có thể tác động trực tiếp, giúp người dùng chủ động cải thiện nỗi lo mất ngủ lại là sản phẩm đeo tay tiên phong đến từ Apollo Neuro - một công ty công nghệ quy mô khiêm tốn, trụ sở tại bang California, Mỹ.
+
+Khai thác khái niệm phục hồi tinh thần bằng phương pháp trị liệu tiếp xúc (touch therapy), khi hoạt động, thiết bị Apollo sẽ truyền ra các sóng rung nhẹ nhàng. Chuyển động rung đặc biệt của chiếc vòng đeo đã được chứng thực có lợi ích rõ ràng với hệ thần kinh: góp phần giảm stress, tăng cường tập trung khi làm việc và điều hòa giấc ngủ, xoa dịu lo âu khi cần nghỉ ngơi. Bên cạnh đó, tính an toàn tuyệt đối đã thông qua kiểm chứng khoa học của Apollo đặc biệt hài lòng người tiêu dùng.
+
+Trước đó, tại CES 2024, hãng công nghệ PranaQ (Đài Loan) đã ra mắt thiết bị có tên TipTraQ. Đây là thiết bị cảm biến sinh trắc học, được đeo ở đầu ngón tay vào mỗi đêm khi đi ngủ. Với trọng lượng khoảng 3 gram, TipTraQ đo nhịp thở và nhịp tim, phân tích những số liệu này bằng thuật toán AI.
+
+Người dùng có thể tham khảo số liệu để biết tình trạng giấc ngủ của mình và tương tác với một chatbot AI, vốn được đào tạo đặc biệt về tư vấn tâm lý. Theo kế hoạch, TipTraQ sẽ được tung ra thị trường với giá bán 200 USD.
+
+Mùa hè năm 2024, Sleep Number, nhà sản xuất giường uy tín ở Mỹ, đã giới thiệu một mẫu giường thông minh sở hữu lợi thế đặc biệt về dữ liệu. Sản phẩm tích hợp công nghệ AI cùng chuỗi thiết bị cảm biến tăng cường, biến nơi ngả lưng êm ái quen thuộc thành một máy vi tính nhạy bén có nhiệm vụ phân tích và gợi ý cho người dùng cách hóa giải nhiều yếu tố, thói quen ảnh hưởng xấu tới chất lượng giấc ngủ.
+
+Thông qua cảm biến áp suất - nhiệt độ, giường có khả năng đo lường nhịp thở, nhịp tim lúc ngủ và thông báo đến người dùng qua ứng dụng liên kết khi xuất hiện vấn đề cần điều chỉnh.
+
+Có thể thấy, công nghệ đã tiến rất xa trong việc giúp con người kiểm soát ngay cả chủ thể phức tạp như giấc ngủ. Báo cáo vào tháng 7/2024 của Research Nester nhận định quy mô thị trường thiết bị công nghệ giấc ngủ trên toàn thế giới được định giá là 21,13 tỷ USD năm 2023 và dự kiến sẽ đạt 170,07 tỷ USD vào cuối năm 2036. Sở hữu tốc độ tăng trưởng kép hàng năm (CAGR) khoảng 17,4% trong giai đoạn 2024 - 2036. Trong đó, nhu cầu về thiết bị công nghệ hỗ trợ giấc ngủ gia tăng mạnh tại khu vực châu Á - Thái Bình Dương...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 7-2025 phát hành ngày 31/3/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

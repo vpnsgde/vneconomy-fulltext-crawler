@@ -1,0 +1,17 @@
+Trong báo cáo chuyển đổi số quốc gia 6 tháng đầu năm 2024 vừa được Bộ Thông tin và Truyền thông công bố, Bộ cho biết thời gian qua đã triển khai nhiều hoạt động theo dõi, giám sát trên không gian mạng, qua đó phát hiện sớm các nguy cơ mất an toàn thông tin mạng, dấu hiệu tấn công mạng, kịp thời xử lý các hành vi đe doạ an ninh trên không gian trực tuyến.
+
+Thông qua triển khai Hệ thống cảnh báo, ngăn chặn tên miền độc hại quốc gia (DNS Shinkhole quốc gia), tính đến tháng 6/2024, Bộ Thông tin và Truyền thông đã ngăn chặn 12.818 web/blog vi phạm, trong đó có 3.170 website lừa đảo trực tuyến. Bảo vệ hơn 10,981 triệu người dân không truy cập vào các website lừa đảo, vi phạm pháp luật).
+
+Trước đó, trong năm 2023, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã xử lý 3.478 website lừa đảo, vi phạm pháp luật. Còn trong năm 2022, hơn 2.620 trang web lừa đảo trực tuyến, vi phạm pháp luật (hơn 1.460 trang lừa đảo trực tuyến) cũng đã bị ngăn chặn, xử lý.
+
+Trong giai đoạn đẩy mạnh và tăng tốc chuyển đổi số như hiện nay, các đối tượng xấu đã lợi dụng sự bùng nổ về công nghệ thông tin để thực hiện nhiều hành vi vi phạm ảnh hưởng đến các tổ chức/cá nhân như lừa đảo trực tuyến, chiếm đoạt tài sản có giá trị cao;...
+
+Bộ Thông tin và Truyền thông cho rằng trong thời gian tới, an toàn hệ thống thông tin vẫn đang tiềm ẩn nguy cơ rủi ro và có thể tiếp tục diễn biến phức tạp trong giai đoạn tới.
+
+Bên cạnh rủi ro khi truy cập vào các website chứa mã độc, rủi ro bảo mật và an toàn thông tin hiện nay còn đến từ các ứng dụng giả mạo, được thiết kế giống giống hệt hoặc gần giống với các ứng dụng chính thức, nhằm lừa người dùng tải về và cài đặt. Thông qua các mã độc, tội phạm có thể đánh cắp thông tin cá nhân, tài khoản ngân hàng... của những thiết bị tải về.
+
+Tại cuộc hội thảo an toàn trong thời kỳ bùng nổ trí tuệ nhân tạo diễn ra cách đây chưa lâu, một số chuyên gia đã đưa ra dự báo rằng các cuộc tấn công mạng được dự đoán sẽ gây ra thiệt hại đến 42 tỷ USD cho nền kinh tế toàn cầu.
+
+Tần suất và quy mô tấn công của tội phạm đang gia tăng liên tục qua các năm. Đến nay, 66% các tổ chức trên toàn cầu là mục tiêu của các cuộc ransomware. Điều này có nghĩa không chỉ các tập đoàn, doanh nghiệp ở bất kỳ quy mô nào cũng đều có thể trở thành “con mồi” của tội phạm mạng.
+
+Trước đó, trong năm 2023, thế giới ước tính thiệt hại tới 8.000 tỷ USD bởi các cuộc tấn công mạng, tương đương gần 21 tỷ USD mỗi ngày, con số đó dự kiến ​​sẽ tăng lên 9.500 tỷ USD vào năm 2024. Cứ sau 11 giây lại có một tổ chức trên toàn cầu bị tấn công ransomware. Đồng thời, có hơn 353 triệu người đã bị ảnh hưởng do vi phạm dữ liệu với chi phí trung bình toàn cầu của một vụ vi phạm dữ liệu lên tới 4,45 triệu USD.

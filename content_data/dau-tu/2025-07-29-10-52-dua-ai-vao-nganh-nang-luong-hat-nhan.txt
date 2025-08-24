@@ -1,0 +1,69 @@
+Tạp chí Kinh tế Việt Nam/VnEconomy đã có cuộc trao đổi với ông Trần Văn Xuân, Quản lý Đổi mới Sáng tạo Kỹ thuật số tại EDF Energy (Tập đoàn Điện lực Pháp), đồng thời là Chủ tịch của Brain-Life.
+
+Thưa ông, là người trực tiếp quản lý nhiều dự án đổi mới kỹ thuật số có tính chuyển đổi cao, đặc biệt trong lĩnh vực năng lượng hạt nhân, ông có thể chia sẻ kinh nghiệm tham gia dự án mà ở đó, các công nghệ tiên tiến như phân tích dữ liệu và học máy đã tạo ra đột phá?
+
+Một dự án tiêu biểu mà tôi tâm đắc và trực tiếp quản lý là “AI-based Nuclear Sort and Segregation” – hệ thống ứng dụng AI để tự động phân loại và xử lý chất thải hạt nhân.
+
+Với vai trò là người quản lý dự án, nhiệm vụ của tôi bao trùm từ việc thu thập yêu cầu của khách hàng, định hướng chiến lược công nghệ, cho đến xây dựng một đội ngũ liên ngành và dẫn dắt toàn bộ quá trình từ phòng thí nghiệm ra triển khai thực địa.
+
+Hệ thống chúng tôi xây dựng là một tổ hợp công nghệ phức tạp, tích hợp các cảm biến phóng xạ, thị giác máy tính (computer vision) và các mô hình học máy (machine learning) tiên tiến để tự nhận diện vật liệu, đánh giá nguy cơ và tối ưu hóa không gian đóng gói. Việc áp dụng phân tích dữ liệu nâng cao đã giúp rút ngắn thời gian xử lý, giảm thiểu can thiệp thủ công và tăng độ an toàn.
+
+Ở hệ thống này, tôi đã thiết kế khung quản lý rủi ro gồm kiểm định chéo giữa AI và thiết bị vật lý, mô phỏng các tình huống lỗi, và cơ chế giám sát thời gian thực. KPI được thiết lập rõ ràng, từ độ chính xác phân loại đến hiệu quả đóng gói. Kết quả, ba bằng sáng chế được công nhận quốc tế và hệ thống đang triển khai thử nghiệm tại đơn vị xử lý chất thải của EDF.
+
+Với chuyên môn sâu về lò phản ứng hạt nhân PWR, AGR, EPR từ thiết kế, vận hành đến xử lý chất thải và tháo dỡ nhà máy, anh nhìn thấy những cơ hội hoặc thách thức nào khi áp dụng trí tuệ nhân tạo để cách mạng hóa hoạt động trong ngành năng lượng hạt nhân?
+
+Trí tuệ nhân tạo đang mở ra một giai đoạn chuyển mình quan trọng cho ngành hạt nhân, đặc biệt trong bối cảnh nhiều nhà máy già hóa và áp lực chi phí – an toàn tăng cao.
+
+Tôi thấy AI có thể tạo đột phá trong 4 mảng: (1) Bảo trì dự đoán – phát hiện sớm hư hỏng qua dữ liệu cảm biến; (2) Hỗ trợ ra quyết định vận hành – học từ hàng triệu giờ dữ liệu để đề xuất tối ưu; (3) Tự động hóa tháo dỡ – đánh giá, phân loại và xử lý vật liệu nhiễm xạ; (4) Quản lý dữ liệu kỹ thuật – đảm bảo thông suốt giữa các nhà thầu trong các dự án nhà máy mới.
+
+Tuy nhiên, rào cản lớn là yêu cầu an toàn tuyệt đối của việc vận hành nhà máy điện, thoả mãn các yêu cầu nghiêm ngặt của các nhà quản lý an toàn hạt nhân, khả năng giải thích mô hình AI và hạ tầng dữ liệu đủ mạnh. Việc triển khai vào hệ thống đang vận hành cũng đòi hỏi sự phê duyệt chặt chẽ từ cơ quan quản lý.
+
+Quan trọng hơn, yếu tố con người là chìa khóa. Đào tạo, xây dựng niềm tin, và tạo sự đồng thuận nội bộ là điều kiện tiên quyết để AI thực sự tạo giá trị bền vững trong ngành năng lượng hạt nhân.
+
+Vậy theo ông, làm thế nào để hợp kiến thức chuyên sâu về kỹ thuật hạt nhân với kinh nghiệm về phân tích dữ liệu và học máy để giải quyết các vấn đề phức tạp trong ngành năng lượng?
+
+Để tích hợp hiệu quả giữa kỹ thuật hạt nhân và học máy, điều quan trọng nhất không chỉ là năng lực kỹ thuật mà là khả năng kết nối giữa các bên – từ chuyên gia-kỹ sư trong các lĩnh vực liên quan, kỹ sư dữ liệu, đến người vận hành nhà máy.
+
+Các bài toán trong ngành năng lượng luôn phức tạp, nhiều ràng buộc kỹ thuật và lợi ích đa chiều. Việc đưa AI vào vận hành hiệu quả đòi hỏi sự hợp tác đa ngành, truyền thông minh bạch, và khả năng cân bằng giữa kỳ vọng ngắn hạn và giá trị dài hạn.
+
+Tôi thường triển khai dự án theo hướng “đồng phát triển” – vừa huấn luyện mô hình, vừa đào tạo người dùng cuối, kết hợp feedback thực tế để điều chỉnh thuật toán và quy trình. AI phải hỗ trợ con người, không thay thế họ, và cần tạo cảm giác làm chủ thay vì bị ép buộc.
+
+Thành công không đến từ công nghệ đơn lẻ, mà từ một hệ sinh thái tin tưởng, cộng tác và học hỏi liên tục – nơi mỗi bên đều có vai trò và cùng hướng đến mục tiêu chung.
+
+Vậy theo anh, làm thế nào để bảo đảm các dự án không chỉ đạt mục tiêu đổi mới kỹ thuật mà còn tạo ra giá trị cụ thể cho doanh nghiệp?
+
+Theo tôi, muốn đổi mới kỹ thuật tạo ra giá trị thực, cần bắt đầu bằng việc gắn chặt với mục tiêu kinh doanh cụ thể. Ngay từ đầu, mỗi dự án cần có hệ thống KPI định lượng rõ ràng – như tiết kiệm chi phí, nâng cao năng suất, cải thiện độ tin cậy, hoặc rút ngắn thời gian đưa sản phẩm ra thị trường.
+
+Tôi luôn áp dụng tư duy "optioneering" – tức là đánh giá nhiều phương án triển khai, không chỉ xét đến hiệu quả kỹ thuật mà còn cân nhắc đến tính khả thi, chi phí đầu tư, mức độ sẵn sàng nội bộ và rủi ro dài hạn. Đổi mới thành công là sự kết hợp giữa giải pháp đúng và cách tiếp cận phù hợp.
+
+Một yếu tố không thể thiếu là quản lý kỳ vọng và yếu tố con người. Đổi mới thường đi kèm với lo ngại và sức ỳ. Minh bạch trong truyền thông, cho phép nhân sự tham gia và góp ý từ sớm sẽ giúp quá trình triển khai suôn sẻ và được ủng hộ.
+
+Cuối cùng, tôi cho rằng đổi mới không thể thành công nếu chỉ dựa vào nội lực doanh nghiệp. Việt Nam cần hệ sinh thái chính sách ổn định và khuyến khích thử nghiệm, để doanh nghiệp mạnh dạn đầu tư cho tương lai.
+
+Với kinh nghiệm trong lĩnh vực này, theo anh, xu hướng đổi mới kỹ thuật số mang tính chuyển đổi trong thời gian tới sẽ như thế nào? Và trong bối cảnh đó, anh có những gợi ý gì cho doanh nghiệp và Chính phủ Việt Nam?
+
+Bước sang giai đoạn Industry 5.0, đổi mới kỹ thuật số không còn đơn thuần là tự động hóa hay chuyển đổi quy trình. Xu hướng hiện nay là lấy con người làm trung tâm – nơi công nghệ hỗ trợ người lao động làm việc hiệu quả hơn, an toàn hơn, không bị bỏ lại phía sau.
+
+Các công nghệ như AI, học máy, IoT, dữ liệu lớn... sẽ tiếp tục phát triển. Nhưng điều quan trọng là Việt Nam cần chọn lọc và nội địa hóa giải pháp phù hợp, chứ không nên sao chép mô hình quốc tế một cách máy móc. Mỗi đổi mới phải xuất phát từ bài toán thật, dữ liệu thật và nhu cầu cụ thể của doanh nghiệp.
+
+Với doanh nghiệp, tôi khuyến nghị nên bắt đầu từ những cải tiến nhỏ có thể đo lường và mở rộng. Tăng năng lực nội bộ và nuôi dưỡng văn hóa dữ liệu là nền tảng để đi xa. Đừng chạy theo “buzzword”, mà hãy tập trung vào tạo giá trị.
+
+Với Chính phủ, điều cần thiết là tạo hành lang pháp lý linh hoạt, mở đủ lâu để thử nghiệm, và có chính sách hỗ trợ các dự án đổi mới có rủi ro cao nhưng tiềm năng lớn. Đổi mới không thể tách rời chính sách và thể chế thực thi.
+
+Trong bối cảnh như vậy, ông đánh giá như thế nào về Diễn đàn R&D Việt Nam 2025 và kỳ vọng sẽ có những chuyển biến nào sau Diễn đàn trong lĩnh vực năng lượng tại Việt Nam?
+
+Tôi đánh giá Diễn đàn R&D Việt Nam 2025 là một sáng kiến đáng hoan nghênh, diễn ra đúng thời điểm khi Việt Nam đang cần đẩy mạnh năng lực nội sinh về công nghệ để đối phó với những thách thức về tăng trưởng xanh, chuyển đổi số và cạnh tranh toàn cầu.
+
+Điều tôi trân trọng là Diễn đàn quy tụ cả ba nhóm tác nhân quan trọng: nhà hoạch định chính sách, giới nghiên cứu – học thuật và cộng đồng doanh nghiệp. Sự đối thoại cởi mở giữa các bên sẽ là nền tảng để hình thành chính sách R&D có tính khả thi cao hơn, thay vì chỉ mang tính khẩu hiệu.
+
+Tôi kỳ vọng sau Diễn đàn sẽ có các cơ chế cụ thể để hỗ trợ thương mại hóa kết quả nghiên cứu, đẩy mạnh thử nghiệm các công nghệ mới tại doanh nghiệp và thúc đẩy mô hình hợp tác công–tư trong đổi mới sáng tạo.
+
+Ngoài ra, Việt Nam cần chú trọng xây dựng các mạng lưới hợp tác xuyên ngành và xuyên biên giới, tận dụng chất xám của cộng đồng chuyên gia Việt trên toàn cầu. Chỉ khi R&D được gắn liền với thực tiễn và có đầu ra rõ ràng, chúng ta mới có thể tạo ra tác động bền vững từ đổi mới kỹ thuật và khoa học công nghệ.
+
+
+
+Diễn đàn Nghiên cứu và Phát triển Việt Nam 2025 (Vietnam R&D Forum - VRDF 2025) với chủ đề "Thúc đẩy tương lai của Việt Nam thông qua đầu tư R&D chiến lược" do AVSE Global tổ chức sẽ diễn ra từ 30/7 đến 31/7.
+
+Sự kiện được kỳ vọng trở thành nền tảng thúc đẩy quá trình chuyển đổi sang nền kinh tế tri thức, đồng thời nâng cao năng lực đổi mới sáng tạo tại Việt Nam, góp phần cho phát triển bền vững và nâng cao vị thế quốc gia.
+
+Ba nội dung trọng tâm sẽ được tập trung thảo luận tại diễn đàn, bao gồm: lộ trình R&D Việt Nam 2025-2030 với trọng tâm là cơ chế ưu đãi tài chính, kết nối chuyên gia và thúc đẩy hợp tác giữa ngành - đại học; khung chính sách quốc gia về R&D với các đề xuất thành lập Hội đồng R&D Quốc gia, xây dựng chính sách đãi ngộ nhân tài và ưu đãi thuế cho doanh nghiệp đầu tư R&D; và kế hoạch hành động đầu tư theo ngành với mục tiêu hình thành khu kinh tế đặc biệt (SEZs) chuyên biệt cho R&D, hỗ trợ đào tạo chuyên môn và phát triển quỹ đầu tư chuyên biệt.

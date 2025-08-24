@@ -1,0 +1,37 @@
+Dữ liệu được coi là nhiên liệu của nền kinh tế số. Chúng ta đang sống ở thời kỳ mà cứ mỗi phút lại có những khối lượng dữ liệu lớn được sản sinh ra từ các nền tảng xã hội, từ các cảm biến, từ hàng tỷ điện thoại thông minh trong tay người dùng toàn cầu.
+
+50 tỷ thiết bịIoT vào năm 2020
+
+Đặc tính của dữ liệu cũng thay đổi nhanh theo thời gian, nếu năm 2010 dữ liệu trên toàn cầu được sinh ra chủ yếu từ các thiết bị di động thì năm 2015, dữ liệu sinh ra chủ yếu từ mạng xã hội và từ năm 2017 đến nay, nguồn phát sinh dữ liệu chính là các thiết bị IoT (kết nối vạn vật). Dự tính năm 2020 trên thế giới sẽ có khoảng 50 tỷ thiết bị IoT, chúng cung cấp những khối lượng dữ liệu khổng lồ về thời tiết, địa điểm, hình ảnh, âm thanh...
+
+Trong những năm gần đây, những tiến bộ vượt bậc của con người về khă năng xử lý các tập dữ liệu lớn, về điện toán nhận thức, được sự trợ giúp của công nghệ đám mây đã mang lại cho con người khả năng khai phá dữ liệu chưa từng có, phục vụ hiệu quả cho mọi hoạt động sản xuất, kinh doanh, giải trí, học tập và y tế cho con người.
+
+Trong lĩnh vực năng lượng, khai thác nguồn dữ liệu từ các thiết bị IoT sẽ giúp các công ty điện lực dự báo chính xác các sự cố về điện năng, từ đó giảm đáng kể chi phí bảo dưỡng điện lưới. Trong lĩnh vực y tế, hệ thống IBM Watson được cho là đưa ra phác đồ điều trị các khối u chính xác tới 90% so với các bác sĩ giỏi nhất.
+
+Tại Amazon, mỗi nhân viên được cung cấp một vòng cổ tay, một dạng thiết bị IoT, cung cấp cho hãng dữ liệu theo thời gian thực về năng suất và hiệu quả lao động của từng nhân viên. Ngày nay, khi mua hàng trên Alibaba hay xem phim trên Netflix, 80% các quyết định của chúng ta lựa chọn món đồ nào cho vào rổ hàng hay chọn bộ phim nào để xem thực tế bị dẫn dắt bởi các hệ thống khuyến nghị mà các hãng này xây dựng sử dụng học máy, dựa trên dữ liệu lịch sử mua bán của chính chúng ta và hàng triệu khách hàng khác.
+
+Làm sao để biến dữ liệu thành tài sản?
+
+Vai trò của dữ liệu đối với các doanh nghiệp trong nền kinh tế số là không phải bàn cãi. Câu hỏi đặt ra là các doanh nghiệp Việt Nam, mà đa số là doanh nghiệp nhỏ và vừa, làm thế nào khai thác được dữ liệu, biến dữ liệu thành tài sản hay giá trị gia tăng cho khách hàng?
+
+Bảng 1 tổng hợp lại những loại dữ liệu quan trọng đối với các doanh nghiệp của nền kinh tế số. Tùy thuộc vào đặc thù hoạt động của doanh nghiệp, doanh nghiệp có thể tập trung vào việc thu thập và khai thác dữ liệu liên quan đến quy trình kinh doanh, sản xuất, dữ liệu liên quan đến sản phẩm, dịch vụ hoặc dữ liệu khách hàng.
+
+Hãng đồ ăn nhanh lớn nhất thế giới McDonald, đã bỏ ra 300 triệu USD  mua lại một startup về dữ liệu lớn (big data) của Israel chuyên về phân tích hành vi người dùng trong một nỗ lực chuyển hướng từ tiếp thị đại chúng (mass marketing) sang cá nhân hóa đại chúng (mass personalisation).
+
+UPS, tập đoàn toàn cầu về dịch vụ logistics, đang ứng dụng học máy để đưa ra dự báo chính xác về số lượng xe tải hay máy bay chở hàng cần huy động trong tuần tới ngay khi nhận được đơn hàng của khách hàng qua email mà không cần phải cân đo trực tiếp từng kiện hàng như trước đây.
+
+Với những doanh nghiệp lớn như Viettel, Vietnamairline, Vingroup..., cơ sở dữ liệu từ hàng chục triệu người dùng, ở dạng dữ liệu gộp chia theo độ tuổi, trình độ học vấn, vùng miền... có thể tiết lộ những thông tin vô cùng quý giá về xu hướng mua sắm, và giúp họ xây dựng những sản phẩm dịch vụ theo kiểu tùy chỉnh đến từng nhóm khách hàng với trải nghiệm dịch vụ tốt nhất cho từng nhóm khách hàng.
+
+Doanh nghiệp nhỏ tiếp cận và khai thác dữ liệu lớn về khách hàng như thế nào?
+
+Một điều tuyệt vời mà các công nghệ số như công nghệ đám mây mang lại cho các doanh nghiệp trong nền kinh tế số là có rất nhiều hãng công nghệ đã phát triển và cung cấp cho các doanh nghiệp nhỏ và vừa những kho dữ liệu khổng lồ và cả những công cụ phân tích dữ liệu tiên tiến trên đám mây. Doanh nghiệp chỉ cần trả tiền cho lượng dữ liệu mà họ cần chứ không phải đầu tư vào hạ tầng tốn kém để thu thập quá nhiều dữ liệu không cần thiết.
+
+Trong lĩnh vực quảng cáo tiếp thị, khi mỗi cá nhân tham gia vào các mạng xã hội như Facebook, Instagram hay mở tài khoản trên Google để sử dụng các tiện ích của nền tảng Android, chúng ta đã đồng ý cung cấp cho những nền tảng này các thông tin quý giá về sở thích, thiên hướng, thậm chí cả thông tin về những nơi chúng ta lui tới hay bạn bè của chúng ta là ai. Đổi lại, doanh nghiệp có thể tiếp cận với dữ liệu liên quan đến từng tệp khách hàng mà Facebook, Google đã thu thập được, và đưa ra các thông điệp truyền thông theo kiểu bám đuổi, phù hợp với tính cách, kỳ vọng của từng tệp khách hàng đó.
+
+Đối với nhiều tổ chức, thách thức lớn nhất về dữ liệu không phải là có thu thập được đủ dữ liệu hay không mà vấn đề là dữ liệu đang được thu thập và quản lý theo những cách khác nhau ở các bộ phận khác nhau trong tổ chức. Người ta ví von các bộ phận khác nhau trong tổ chức, doanh nghiệp giống như những hộp kín (silos) dẫn đến việc các nguồn dữ liệu quý giá bên trong tổ chức không được kết nối và chia sẻ với nhau để tạo ra khả năng dự báo hay giúp doanh nghiệp vận hành hiệu quả dựa trên dữ liệu.
+
+Trong kỷ nguyên số, khi mà dữ liệu ngày càng trở thành loại nhiên liệu mới của nền kinh tế, ngay cả những thương hiệu toàn cầu cũng phải điều chỉnh cách thức họ tương tác với khách hàng cuối để không ngừng thấu hiểu khách hàng và thích nghi với những nhu cầu, hành vi mới của khách hàng.
+
+Hãng hàng không British Airway từng triển khai thí điểm chương trình KnowMe, một chiến dịch nhằm thu thập thông tin khách hàng trên mọi kênh và thiết bị, với thông tin về khách hàng được chia sẻ tức thời giữa các nhân viên mặt đất và phi hành đoàn, từ đó một khách hàng VIP cũng có thể được nhận ra và được hưởng chế độ đặc biệt ngay cả khi họ ngồi ở hạng ghế bình dân với gia đình.
+
+Chưa cần đến những công nghệ tinh vi, các doanh nghiệp Việt Nam có thể bắt đầu ngay việc khai thác dữ liệu khách hàng cho mình, đơn giản bằng các chương trình tiêu dùng tích điểm, hay khách hàng trung thành. Đây cũng chính là chiến lược thu thập dữ liệu khách hàng mà Coca-Cola đã áp dụng thành công, vì hãng này vốn không bán hàng trực tiếp tới người tiêu dùng. Sau khi có được dữ liệu của hơn 20 triệu khách hàng trung thành, Coca-Cola đã có thể liên tục thử nghiệm các sáng kiến khác nhau nhằm tăng sự kết nối giữa thương hiệu và khách hàng, ví dụ tung ra chương trình in tên khách hàng lên từng lon nước, tạo ra cơn sốt trên nhiều thị trường chủ chốt của hãng.

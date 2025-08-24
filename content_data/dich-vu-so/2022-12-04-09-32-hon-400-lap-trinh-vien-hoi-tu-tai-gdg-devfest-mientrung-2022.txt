@@ -1,0 +1,19 @@
+Ngày 3/12/ 2022, sự kiện Nhóm cộng đồng Google Developer Group MienTrung (GDG DevFest MienTrung 2022) đã diễn ra tại TP. Đà Nẵng, nhằm tạo diễn đàn chia sẻ kiến thức học thuật, chuyên sâu về công nghệ cho hơn 400 lập trình viên trên địa bàn Đà Nẵng; đồng thời cũng quy tụ 10 diễn giả uy tín trong và ngoài nước, hơn 10 đối tác lớn trong ngành...
+
+DevFest là chương trình được tổ chức thường niên bởi hơn 1.000 nhóm cộng đồng Google Developer Group trên toàn thế giới.
+
+Tại TP. Đà Nẵng, sau 6 năm tổ chức với 6 mùa hackathon, GDG MienTrung nói chung và GDG DevFest MienTrung nói riêng đã tạo dựng được những thành công nhất định, trở thành cộng đồng uy tín để các lập trình viên tại địa phương kết nối và sẻ chia.
+
+Năm 2022, chương trình lần đầu tiên được thực hiện theo mô hình diễn đàn chia sẻ kiến thức học thuật, chuyên sâu về công nghệ, bên cạnh các hoạt động demo, codelab thực tiễn dành riêng cho người tham dự. Được thiết kế bao gồm 2 phòng hội thảo, 8 phiên chia sẻ, 10 diễn giả uy tín từ hệ sinh thái lập trình viên của Google và các đối tác công nghệ lớn tại địa phương, GDG DevFest MienTrung 2022 tập trung cập nhật những xu hướng công nghệ dẫn đầu như Google Cloud, AI/ML, Flutter,…
+
+Bên cạnh đó, sự kiện còn đưa ra nhiều bàn luận đa chiều về những vấn đề thiết thực, thú vị được giới công nghệ quan tâm như phát triển sản phẩm phần mềm với Tư duy Agile (Tư duy Linh hoạt), cũng như các định hướng phát triển sự nghiệp trong ngành Công nghệ Thông tin.
+
+Ông Nguyễn Thành Đạt, đồng sáng lập Nhóm cộng đồng GDG Cloud Da Nang, cho biết, bước sang năm thứ 7 hoạt động, bên cạnh những chương trình tạo ra môi trường học tập và giao lưu cho các bạn sinh viên và lập trình viên trẻ, thì đến nay đã kết nối và mang lại những giá trị kiến thức quý giá cho các lập trình viên chuyên nghiệp, cũng như nhận được sự đồng hành của nhiều doanh nghiệp công nghệ thông tin trong nước lẫn quốc tế.
+
+“Việc thay đổi từ hackathon sang chuỗi techtalk chuyên sâu về công nghệ là một bước chuyển mình lớn. Với hackathon, chúng tôi đơn thuần muốn tạo sân chơi cho các bạn giao lưu và kết nối. Tuy nhiên, với diễn đàn trao đổi mang tính học thuật, chuyên sâu về công nghệ như GDG DevFest MienTrung 2022, Ban Tổ chức mong muốn các bạn được cập nhật những kiến thức mới, được định hướng nghề nghiệp và nắm bắt các xu thế sắp tới trong ngành công nghệ thông tin”, ông Đạt chia sẻ thêm.
+
+Chia sẻ về các hoạt động cộng đồng sắp tới của Google tại Việt Nam, bà Nguyễn Thị Phương Nhi, Quản lý Cộng đồng lập trình viên của Google tại Việt Nam và khu vực Mekong, cho biết cộng đồng Google Developer Group vẫn sẽ được chú trọng hỗ trợ ở các nước, đặc biệt là ở Việt Nam. Các chương trình, sự kiện thường niên có quy mô lớn như DevFest hay Google I/O Extended cũng sẽ tiếp tục mở rộng và phát triển. Đồng thời, các chương trình học tập về Google Cloud và Android cũng được triển khai và nhân rộng hơn so với quy mô của năm 2022.
+
+Đặc biệt, năm nay, GDG MienTrung đứng trước cơ hội làm mới mình với GDG DevFest MienTrung 2022 - tạo ra một diễn đàn kết nối, chia sẻ các kiến thức học thuật về công nghệ một cách chuyên sâu cho cộng đồng lập trình viên tại địa phương. Ngoài ra, trong khuôn khổ nội dung chương trình, các diễn giả cũng mang đến cho người tham dự nhiều hoạt động hướng dẫn, demo và codelab thực tiễn.
+
+Cũng trong khuôn khổ chương trình, GDG MienTrung đã chia sẻ thêm những định hướng phát triển của mình trong năm 2023, thông qua các hoạt động được hỗ trợ bởi Google tại Việt Nam cũng như những sáng kiến của riêng GDG MienTrung dựa trên nhu cầu của các lập trình viên và sinh viên Công nghệ Thông tin của các trường đại học tại địa phương.

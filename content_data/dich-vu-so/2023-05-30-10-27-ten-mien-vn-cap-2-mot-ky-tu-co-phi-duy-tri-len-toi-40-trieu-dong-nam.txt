@@ -1,0 +1,15 @@
+Cụ thể Thông tư số 20/2023/TT-BTC quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí duy trì sử dụng tên miền và địa chỉ Internet, lệ phí đăng ký sử dụng tên miền quốc gia “.vn” và lệ phí đăng ký sử dụng địa chỉ Internet (IP). Thông tư số 20/2023/TT-BTC có hiệu lực từ ngày 1/6/2023.
+
+Theo biểu mức thu phí, lệ phí ban hành kèm theo Thông tư số 20/2023/TT-BTC, mức thu lệ phí đăng ký sử dụng tên miền quốc gia (.vn) như sau: tên miền cấp 2 có 1 ký tự: 100.000 đồng/lần; tên miền cấp 2 có 2 ký tự: 100.000 đồng/lần; tên miền cấp 2 khác: 100.000 đồng/lần.
+
+Thông tư quy định tên miền cấp 3 dưới tên miền cấp 2 dùng chung: Với tên miền dạng: com.vn, net.vn, biz.vn, ai.vn là 100.000 đồng/lần; tên miền dạng: edu.vn, gov.vn, org.vn, ac.vn, health.vn, int.vn và tên miền theo địa giới hành chính là 50.000 đồng/lần; tên miền dạng: info.vn, pro.vn, id.vn, io.vn, name.vn là 10.000 đồng/lần; tên miền tiếng Việt: 10.000 đồng/lần.
+
+Đối với mức thu phí duy trì sử dụng tên miền quốc gia (.vn) là: tên miền cấp 2 có 1 ký tự có phí duy trì sử dụng là 40.000.000 đồng/năm; tên miền cấp 2 có 2 ký tự: 10.000.000 đồng/năm; và tên miền cấp 2 khác: 350.000 đồng/năm.
+
+Tên miền cấp 3 dưới tên miền cấp 2 dùng chung: Tên miền dạng: com.vn, net.vn, biz.vn, ai.vn là 250.000 đồng/năm; tên miền dạng: edu.vn, gov.vn, org.vn, ac.vn, health.vn, int.vn và tên miền theo địa giới hành chính là 100.000 đồng/năm; tên miền dạng: info.vn, pro.vn, id.vn là 50.000 đồng/năm; tên miền dạng: name.vn, io.vn là 20.000 đồng/năm; và tên miền tiếng Việt: 20.000 đồng/năm.
+
+
+
+Trung tâm Internet Việt Nam cho biết, mục tiêu đến năm 2025 Việt Nam có tối thiểu một triệu tên miền “.vn”. Trung tâm đặt mục tiêu phổ cập tên miền “.vn” tới toàn dân, thúc đẩy cộng đồng chuyển đổi số sử dụng tên miền “.vn” và các sản phẩm dịch vụ số Make in Việt Nam, phục vụ hoạt động kinh tế, xã hội số, hướng tới mục tiêu “Internet for all”.
+
+Không gian tên miền quốc gia Việt Nam “.vn” được mở rộng thêm với 3 đuôi tên miền cấp 2 dùng chung mới: .id.vn (dành cho công dân Việt Nam); .io.vn (dành cho các ứng dụng công nghệ số, nền tảng, dịch vụ số); ai.vn (trí tuệ nhân tạo); ưu tiên trong đăng ký sử dụng tên miền dưới “.biz.vn” đối với doanh nghiệp mới thành lập, hộ kinh doanh để thúc đẩy hoạt động khởi nghiệp, phát triển kinh tế số.

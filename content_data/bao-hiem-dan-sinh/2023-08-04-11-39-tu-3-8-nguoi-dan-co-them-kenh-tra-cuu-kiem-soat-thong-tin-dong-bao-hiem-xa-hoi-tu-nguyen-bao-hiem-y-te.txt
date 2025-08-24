@@ -1,0 +1,33 @@
+Bảo hiểm xã hội Việt Nam cho biết thời gian qua, Bảo hiểm xã hội các tỉnh, thành phố đã ký hợp đồng ủy quyền thu bảo hiểm xã hội, bảo hiểm y tế với các Tổ chức dịch vụ thu rà soát, mở rộng mạng lưới điểm thu, nhân viên thu, thực hiện việc thu và quản lý tiền đóng, trả sổ bảo hiểm xã hội và thẻ bảo hiểm y tế cho người tham gia.
+
+Tuy nhiên vẫn còn tình trạng nhân viên thu của Tổ chức dịch vụ thu chậm nộp số tiền đóng của người tham gia về cơ quan Bảo hiểm xã hội theo quy định làm ảnh hưởng đến quyền lợi của người tham gia bảo hiểm xã hội, bảo hiểm y tế.
+
+Để khắc phục tình trạng trên, Bảo hiểm xã hội Việt Nam yêu cầu Bảo hiểm xã hội cấp tỉnh/huyện, các Tổ chức dịch vụ thu thực hiện, ngay khi người tham gia nộp tiền đóng bảo hiểm xã hội tự nguyện, bảo hiểm y tế cho nhân viên thu của Tổ chức dịch vụ thu, thì cập nhật thông tin vào hệ thống phần mềm quản lý của Tổ chức dịch vụ thu kết nối tự động với phần mềm quản lý của Bảo hiểm xã hội Việt Nam.
+
+Đồng thời cung cấp ngay mã xác nhận và thông tin (họ và tên, mã số bảo hiểm xã hội, ngày nộp tiền, số tiền đóng, loại hình tham gia, số tháng đóng) cho người tham gia bằng một trong các hình thức sau: thông báo trực tiếp; qua tin nhắn; qua email; bản giấy…
+
+Bên cạnh đó, hướng dẫn người tham gia thực hiện tra cứu thông tin chi tiết việc đóng bảo hiểm xã hội tự nguyện, bảo hiểm y tế tại Cổng thông tin điện tử bảo hiểm xã hội Việt Nam tại địa chỉ: https://baohiemxahoi.gov.vn/. Cụ thể như sau:
+
+Bước 1:Người tham gia truy cập vào Cổng thông tin điện tử bảo hiểm xã hội Việt Nam tại địa chỉ https://baohiemxahoi.gov.vn/.
+
+Bước 2:Chọn chức năng Tra cứu trực tuyến.
+
+Bước 3:Chọn chức năng Tra cứu thông tin ghi nhận đóng bảo hiểm xã hội, bảo hiểm y tế.
+
+Bước 4:Nhập thông tin để tra cứu bao gồm: Mã xác nhận (do Tổ chức dịch vụ thu cung cấp) và mã số bảo hiểm xã hội/số căn cước công dân.
+
+Bước 5:Bảo hiểm xã hội Việt Nam cung cấp thông tin cho người tham gia theo mã xác nhận và mã số bảo hiểm xã hội/số căn cước công dân.
+
+Thông tin cung cấp bao gồm: Thông tin của người tham gia: Mã số bảo hiểm xã hội, họ và tên, ngày sinh, giới tính, số căn cước công dân, loại hình tham gia (bảo hiểm xã hội tự nguyện, bảo hiểm y tế), số tiền đóng, số tháng đóng, ngày ghi nhận; thông tin của tổ chức dịch vụ thu: Mã tổ chức dịch vụ thu, tên tổ chức dịch vụ thu, mã nhân viên thu, tên nhân viên thu, mã cơ quan bảo hiểm xã hội ký hợp đồng, tên cơ quan Bảo hiểm xã hội ký hợp đồng.
+
+Ngay trong chiều 3/8, nhằm thị sát tình hình thực hiện và đáp ứng kịp thời nhu cầu của người tham gia bảo hiểm xã hội, bảo hiểm y tế, Tổng Giám đốc Bảo hiểm xã hội Việt Nam Nguyễn Thế Mạnh đã đến Điểm thu bảo hiểm xã hội, bảo hiểm y tế Bưu điện Trung tâm 3 (số 40 ngõ 360 Xã Đàn, Đống Đa, Hà Nội) và Điểm thu bảo hiểm xã hội, bảo hiểm y tế PVI Hà Thành (số 60, ngõ 221 Tôn Đức Thắng, Đống Đa, Hà Nội).
+
+Trao đổi với người dân đến đóng bảo hiểm xã hội tự nguyện, bảo hiểm y tế hộ gia đình tại các điểm thu, ông Mạnh cho biết, các tổ chức dịch vụ thu đã tích cực đồng hành, thực hiện tốt nhiệm vụ của mình, trở thành “cánh tay nối dài” của ngành bảo hiểm xã hội trong việc truyền thông, phát triển, đảm bảo quyền lợi cho người tham gia.
+
+Tuy nhiên, vì nhiều nguyên nhân, trong thực tế vẫn còn tình trạng nhân viên thu của Tổ chức dịch vụ thu chậm nộp số tiền đóng của người tham gia về cơ quan bảo hiểm xã hội theo quy định, làm ảnh hưởng đến quyền lợi của người tham gia bảo hiểm xã hội, bảo hiểm y tế.
+
+“Để khắc phục tình trạng này, từ nền tảng công nghệ thông tin, chuyển đổi số, Bảo hiểm xã hội Việt Nam nâng cấp, bổ sung chức năng xác thực thông tin số tiền đóng của người tham gia bảo hiểm xã hội, bảo hiểm y tế qua nhiều hình thức. Qua đó, giúp người tham gia có thêm công cụ, thông tin để cùng phối hợp, đối chiếu, kiểm tra về thời gian nộp tiền, số tiền đóng vào quỹ của mình cho nhân viên thu và Tổ chức dịch vụ thu. Việc này cũng giúp công khai, minh bạch thông tin, bảo đảm quyền lợi tham gia được kịp thời theo nguyên tắc đóng - hưởng”, ông Nguyễn Thế Mạnh chia sẻ.
+
+Tổng Giám đốc Nguyễn Thế Mạnh cũng yêu cầu, các đơn vị trực thuộc Bảo hiểm xã hội Việt Nam thường xuyên kiểm tra, nắm bắt tình hình, kịp thời đề xuất giải quyết các vướng mắc phát sinh trong quá trình triển khai; tiếp tục hoàn thiện chức năng phần mềm, đáp ứng quy định về quản lý.
+
+Đồng thời, hướng dẫn các Tổ chức dịch vụ thu kết nối, trao đổi dữ liệu xác nhận, thông tin số tiền đóng của người tham gia bảo hiểm xã hội bảo hiểm y tế. Hướng dẫn người dân biết và sử dụng chức năng tra cứu trên Cổng Thông tin điện tử Bảo hiểm xã hội Việt Nam...

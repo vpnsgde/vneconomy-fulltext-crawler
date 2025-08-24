@@ -1,0 +1,21 @@
+Tại Hội nghị Phát triển nguồn nhân lực thiết kế vi mạch bán dẫn Việt Nam năm 2024 ngày 29/2, Trung tâm Đổi mới sáng tạo Quốc gia (NIC) và Công ty Siemens EDA đã ký kết thỏa thuận hợp tác nhằm phát triển hệ sinh thái bán dẫn tại Việt Nam.
+
+Phát biểu tại hội nghị, Thứ trưởng Bộ Kế hoạch và Đầu tư Trần Duy Đông cho biết, tại Nghị quyết số 124/NQ-CP ngày 07/8/2023, Chính phủ đã giao Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với các Bộ Khoa học và Công nghệ, Thông tin và Truyền thông, Giáo dục và Đào tạo nghiên cứu, xây dựng Đề án “Phát triển Nguồn nhân lực ngành công nghiệp bán dẫn đến năm 2030, định hướng đến năm 2045”.
+
+Hiện nhân lực ngành công nghiệp bán dẫn Việt Nam vẫn đang thiếu về số lượng và yếu về chất lượng dù đã đón nhận những bước tiến lớn trong việc kêu gọi, thu hút đầu tư và chuyển giao công nghệ. Nếu giải quyết được bài toán về nguồn nhân lực chất lượng cao, Việt Nam sẽ có cơ hội vươn cao trong chuỗi giá trị bán dẫn.
+
+Đánh giá cao về chiến lược và các chính sách mà Chính phủ Việt Nam đang thực hiện để phát triển các ngành công nghiệp, đặc biệt ngành công nghiệp điện tử bán dẫn, bà Nina Lin, Phó chủ tịch phụ trách khu vực ASEAN và Đài Loan của Siemens EDA cho rằng, lúc này là thời điểm quan trọng, là cơ hội to lớn cho sự hợp tác giữa Siemens và Chính phủ, các bộ ngành của Việt Nam để hỗ trợ tăng tốc đổi mới sáng tạo cho các doanh nghiệp, xây dựng hệ sinh thái công nghiệp cũng như phát triển công tác đào tạo nhân lực cho ngành công nghiệp bán dẫn.
+
+“Công ty Siemens EDA sẵn sàng hợp tác để thúc đẩy ngành công nghiệp điện tử bán dẫn tại Việt Nam”, bà khẳng định.
+
+Trước mắt, Siemens EDA sẽ tài trợ bộ phần mềm thiết kế chip và bo mạch tiên tiến nhất của Siemens cho Việt Nam thông qua NIC. Bộ giải pháp công nghệ toàn diện của Siemens EDA về thiết kế và sản xuất các loại chip bán dẫn, bo mạch điện tử với sự tham gia mạnh mẽ của AI sẽ giúp các doanh nghiệp thiết kế nhanh hơn các sản phẩm điện tử phức tạp hơn và thông minh hơn. Giải pháp công nghệ của Siemens EDA tích hợp AI cho phép thiết kế và tạo ra bản sao số của sản phẩm một cách toàn diện, gia tăng hiệu quả và giảm thiểu công việc lặp lại. Điều này cũng cung cấp khả năng phân tích và dự đoán, hướng dẫn nhà thiết kế đạt được sự hiểu biết sâu sắc và đưa ra các phương án tối ưu cho sản phẩm.
+
+Bên cạnh đó, Siemens EDA sẽ cung cấp các dịch vụ đào tạo và đồng hành cùng NIC trong việc thúc đẩy phát triển nguồn nhân lực thiết kế vi mạch bán dẫn nói riêng và ngành công nghiệp điện tử bán dẫn nói chung.
+
+Ghi nhận và đánh giá cao mối quan hệ hợp tác giữa NIC và Siemens EDA, Thứ trưởng Bộ Kế hoạch và Đầu tư Trần Duy Đông tin tưởng, với hoạt động thiết thực này, sự hợp tác giữa khối Nhà nước - Doanh nghiệp, Nhà nước - Viện trường và Doanh nghiệp - Viện trường ngày càng đi vào chiều sâu, từng bước phát triển nguồn nhân lực bán dẫn thông qua các chương trình đào tạo, chuyển giao công nghệ, hỗ trợ công cụ, phần mềm, kỹ thuật, góp phần đạt được mục tiêu 50.000 kỹ sư bán dẫn đến năm 2030.
+
+Cũng tại sự kiện, ông Vũ Quốc Huy, Giám đốc NIC và bà Nina Lin cùng các lãnh đạo của Siemens EDA đã trao các phần mềm tài trợ cho các trường đại học tiêu biểu đào tạo nhân lực cho ngành công nghiệp bán dẫn.
+
+Thay mặt các đơn vị tiếp nhận công nghệ tài trợ và trực tiếp khai thác sử dụng tại đơn vị, PGS.TS Nguyễn Đức Minh, Phó Hiệu trưởng trường Điện - Điện tử - Đại học Bách Khoa Hà Nội đánh giá cao vai trò của NIC trong việc tận dụng và thu hút nguồn lực từ các đối tác lớn, đồng thời cho biết, Nhà trường hiện có khoảng 40 - 50 sinh viên theo học ngành thiết kế vi mạch và đây sẽ là những sinh viên đầu tiên được sử dụng phần mềm do Siemens EDA tài trợ trong các môn học như thiết kế vi mạch số, kiểm chứng vi mạch, thiết kế vi mạch tương tự.
+
+“Các trường đều đang rất thiếu và rất cần sự hỗ trợ không chỉ về chiến lược chính sách của Chính phủ, mà cần cả sự hỗ trợ thiết thực về công cụ thực hành, về kiến thức và kinh nghiệm thiết kế chip bán dẫn của các tập đoàn đa quốc gia để giúp các trường đào tạo đội ngũ giảng viên làm chủ công nghệ và đào tạo được nhân lực thiết kế vi mạch bán dẫn cho ngành công nghiệp tương lai”, ông Minh nói.

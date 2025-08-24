@@ -1,0 +1,17 @@
+Theo Bkav, đơn vị này đã tiếp nhận hàng trăm cuộc gọi, đề nghị xử lý virus ransomware. Hệ thống giám sát virus của Bkav cũng ghi nhận trong nửa đầu năm nay, hơn 77.000 máy tính tại Việt Nam bị mã hóa dữ liệu. Nghiên cứu sự lây lan mạnh của dòng virus này, các chuyên gia Bkav cho rằng, hậu quả việc bị mã hóa dữ liệu thường rất tàn khốc vì khôi phục lại dữ liệu gần như là không thể.
+
+Cụ thể, đầu tháng 5/2023, một doanh nghiệp lớn, có đội ngũ quản trị viên dày kinh nghiệm, nắm rõ hệ thống của mình bị ransomware tấn công, toàn bộ hơn 10TB dữ liệu bị mã hóa. Hacker yêu cầu hơn 4 tỷ đồng đổi lấy key giải mã. Vấn đề là, hệ thống của đơn vị này không được bảo vệ bởi một phần mềm diệt virus đủ mạnh.
+
+Giữa tháng 5/2023, một doanh nghiệp khác bị hacker tấn công và mã hóa dữ liệu hàng loạt máy chủ, máy cá nhân lúc nửa đêm. Hacker đòi 9 nghìn USD tiền chuộc dữ liệu cho mỗi máy bị mã hóa. Các chuyên gia của Bkav phát hiện, hệ thống đã bị tấn công bởi virus mã hóa Jianliang, chưa từng xuất hiện trước đây.
+
+Hệ thống giám sát virus của Bkav còn phát hiện, dòng mã độc mã hóa dữ liệu STOP/DJVU hoặc FARGO3, chuyên nhắm tới các doanh nghiệp, đơn vị sử dụng các phần mềm quản lý dữ liệu kế toán. Theo thống kê, có tổng cộng 261 máy chủ bị xâm nhập từ hơn 6.000 IP khác nhau.
+
+Ông Nguyễn Tiến Đạt, Tổng giám đốc Trung tâm nghiên cứu mã độc của Bkav, cho biết, đây chỉ là những ví dụ trong số rất nhiều trường hợp thể hiện sự chủ quan của người quản trị hệ thống, khiến mã độc mã hóa tống tiền hoành hành. Trong số hàng trăm trường hợp liên hệ Bkav yêu cầu trợ giúp, có tới hơn 50% tổ chức, cá nhân không sử dụng phần mềm diệt virus hoặc cài đặt những ứng dụng bảo vệ không đủ mạnh.
+
+Thậm chí, có những đơn vị có rất nhiều dữ liệu quan trọng nhưng lại tiết kiệm, sử dụng những phần mềm diệt virus miễn phí. Phần mềm diệt virus miễn phí có khả năng xử lý những loại mã độc thông thường, chỉ phù hợp bảo vệ những dữ liệu không quá quan trọng do không có khả năng tự động phát hiện và diệt triệt để các dòng virus mã hóa dữ liệu.
+
+Các loại mã độc mã hóa dữ liệu sử dụng rất nhiều cách thức để tấn công: khai thác lỗ hổng dịch vụ web, dò quét mật khẩu (Brute force) vào các dịch vụ SQL, lỗ hổng hệ điều hành, để tấn công trực tiếp vào máy chủ. Cách khác là tấn công vào một máy cá nhân, từ đó âm thầm rà quét, thọc sâu vào các server và các máy tính khác trong mạng…
+
+“Hậu quả của những vụ việc bị mã hóa dữ liệu thường rất tàn khốc bởi lẽ việc khôi phục lại dữ liệu gần như là không thể. Ngay cả khi nạn nhân chấp nhận trả tiền thì cũng không đảm bảo họ sẽ lấy lại được dữ liệu từ hacker”, ông Đạt nhấn mạnh.
+
+Để tránh bị tấn công mã hóa dữ liệu, chuyên gia Bkav khuyến cáo người dùng và quản trị hệ thống cần backup dữ liệu quan trọng thường xuyên, không mở cổng dịch vụ nội bộ ra Internet khi không cần thiết, và đánh giá an ninh các dịch vụ trước khi mở ra Internet và cài đặt phần mềm diệt virus đủ mạnh…

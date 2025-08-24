@@ -1,0 +1,27 @@
+Không chỉ nhận thấy tiềm năng của Đông Nam Á trong việc trở thành trung tâm sản xuất, nghiên cứu và thiết kế công nghệ tiên tiến mới, các giám đốc điều hành còn đánh giá cao tầm quan trọng vị trí chiến lược của các quốc gia trong khu vực. Sự công nhận từ các công ty công nghệ khổng lồ là minh chứng cho tiềm năng của khu vực trong việc phát triển công nghệ, theo Tech Collective.
+
+Chuyến thăm gần đây của Tim Cook tới Singapore đánh dấu bước tiến quan trọng trong chiến lược “xoay trục” của Apple sang Đông Nam Á. Theo đó, Apple công bố khoản đầu tư 250 triệu USD vào Singapore để mở rộng hoạt động và phát triển những hoạt động mới, đặc biệt là trong lĩnh vực trí tuệ nhân tạo.
+
+Không chỉ Singapore, Việt Nam và Indonesia cũng là điểm đến của Giám đốc điều hành Apple khi tới khảo sát Đông Nam Á. Trong chuyến thăm Việt Nam, CEO Apple đã giao lưu với các nhà phát triển, người dùng và quan chức chính phủ địa phương. Apple đã chính thức ra mắt Apple Store trực tuyến đầu tiên tại Việt Nam và trung tâm bán lẻ đầu tiên tại Malaysia trong năm nay.
+
+Động thái mở rộng của Apple nhằm mục đích cân bằng doanh số của iPhone sau sự sụt giảm tại Trung Quốc. Được biết, điều này dự kiến có thể thúc đẩy mức tăng trưởng 7% cho thị trường điện thoại trong khu vực vào năm 2024.
+
+Chủ tịch kiêm Giám đốc điều hành Microsoft, Satya Nadella đầu năm nay thông báo công ty sẽ đầu tư vào ba quốc gia Nam Á là Malaysia, Indonesia và Thái Lan. Ngoài ra, tháng 4 năm nay, Microsoft tuyên bố sẽ giúp trang bị kỹ năng AI cho 2,5 triệu người ở các quốc gia Indonesia, Malaysia, Philippines, Thái Lan và Việt Nam vào năm 2025.
+
+Cụ thể, Microsoft tuyên bố sẽ đầu tư 2,2 tỷ USD trong 4 năm tới để hỗ trợ chuyển đổi kỹ thuật số của Malaysia - khoản đầu tư lớn nhất trong lịch sử 32 năm của hãng tại quốc gia này. Với Thái Lan, gã khổng lồ công nghệ có kế hoạch mở trung tâm dữ liệu đầu tiên tại khu vực nhằm nâng cao nền tảng điện toán đám mây Azure và cung cấp cơ sở hạ tầng AI đẳng cấp thế giới.
+
+Trung tâm dữ liệu này sẽ hỗ trợ các dịch vụ đám mây siêu quy mô, tạo cơ hội đào tạo AI cho hơn 100.000 người và hỗ trợ cộng đồng nhà phát triển địa phương. Đồng thời, Microsoft đã cam kết chi 1,7 tỷ USD trong 4 năm tới để mở rộng dịch vụ và cơ sở hạ tầng AI ở Indonesia, nhằm đào tạo 2,5 triệu người về AI vào năm 2025.
+
+Tháng 5 năm nay, Google đã cam kết đầu tư 2 tỷ USD để thành lập trung tâm dữ liệu và khu vực đám mây đầu tiên tại Malaysia để không chỉ nâng cao các dịch vụ Google Search và Google Maps mà còn góp phần cải thiện năng lực công nghệ của Malaysia. Thông báo của Google được đưa ra vài tuần sau khi Microsoft cho biết họ sẽ đầu tư 2,2 tỷ USD để phát triển trí tuệ nhân tạo và điện toán đám mây ở Malaysia.
+
+Thủ tướng Malaysia, Anwar Ibrahim nhấn mạnh khoản đầu tư này sẽ giúp tăng nền kinh tế của họ tăng 3,2 tỷ USD và tạo ra 26.500 việc làm vào năm 2030, củng cố vị thế của Malaysia là quốc gia dẫn đầu về dịch vụ công nghệ số.
+
+Amazon Web Services (AWS) đang đầu tư 8,88 tỷ USD để mở rộng cơ sở hạ tầng đám mây tại Singapore. Khoản đầu tư này sẽ nhằm tài trợ cho việc xây dựng, vận hành và bảo trì trung tâm dữ liệu của công ty đến năm 2028. Điều này sẽ giúp củng cố vai trò của Singapore với tư cách là trung tâm đổi mới khu vực và dẫn đầu toàn cầu về khả năng cạnh tranh kỹ thuật số.
+
+AWS cũng đã hợp tác với chính phủ Singapore triển khai chương trình đào tạo AI với mục tiêu đào tạo 5.000 cá nhân hàng năm trong ba năm tới. Sáng kiến ​​này được xây dựng dựa trên các khoản đầu tư trước đây của AWS tại Singapore, nâng cao vị thế của AWS như một trung tâm dữ liệu quan trọng với cơ sở hạ tầng và khả năng kết nối mạnh mẽ.
+
+Tập đoàn sản xuất chip lớn nhất thế giới, NVIDIA vừa công bố kế hoạch đầu tư 200 triệu USD để thành lập một trung tâm AI tại Indonesia, đánh dấu nỗ lực mở rộng sang khu vực Đông Nam Á. Nhà phát triển chất bán dẫn này đã hợp tác với nhà cung cấp viễn thông Indonesia, Indosat Ooredoo Hutchison để tăng cường cơ sở hạ tầng viễn thông địa phương và phát triển nhân tài bằng cách tích hợp kiến ​​trúc GPU Blackwell tiên tiến.
+
+Ngoài ra, NVIDIA cũng hợp tác với Singtel, một trong những tập đoàn viễn thông lớn nhất Singapore và châu Á để mang công nghệ AI đến các trung tâm dữ liệu khắp Đông Nam Á, cho phép các doanh nghiệp trong khu vực tận dụng sức mạnh tính toán AI mà không phải chịu chi phí quản lý cơ sở hạ tầng trung tâm dữ liệu.
+
+Cuối tháng 4 vừa qua, Tập đoàn FPT và NVIDIA đã ký kết thỏa thuận hợp tác chiến lược toàn diện nhằm cùng nhau nghiên cứu trí tuệ nhân tạo (AI) để cung cấp dịch vụ, giải pháp cho khách hàng Việt Nam và trên toàn cầu. Theo đó, Tập đoàn FPT dự kiến đầu tư 200 triệu USD để xây dựng nhà máy trí tuệ nhân tạo (AI Factory) nhằm cung cấp nền tảng Điện toán đám mây phục vụ nghiên cứu phát triển AI và có chủ quyền tại Việt Nam.

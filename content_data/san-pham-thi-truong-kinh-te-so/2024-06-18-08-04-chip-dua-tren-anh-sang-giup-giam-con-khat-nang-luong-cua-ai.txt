@@ -1,0 +1,39 @@
+Theo định luật Moore, cứ hai năm, các chip máy tính sẽ tăng số lượng bóng bán dẫn nhiều gấp đôi, tạo ra những bước nhảy vọt về tốc độ và hiệu quả. Nhưng nhu cầu điện toán của kỷ nguyên học sâu thậm chí còn tăng nhanh hơn thế, tuy nhiên tốc độ lại bị đánh giá là không bền vững. Cơ quan Năng lượng Quốc tế dự đoán trí tuệ nhân tạo sẽ tiêu thụ điện năng gấp 10 lần vào năm 2026 so với năm 2023 và các trung tâm dữ liệu trong cùng năm sẽ sử dụng năng lượng tương đương quốc gia Nhật Bản.
+
+Nick Harris, người sáng lập và Giám đốc điều hành của công ty phần cứng máy tính Lightmatter, cho biết: “Lượng sức mạnh tính toán mà AI cần sẽ tăng gấp đôi cứ sau ba tháng”.
+
+Vì vậy, Nhà vật lý Natalia Berloff của Đại học Cambridge cho biết, sự phát triển của điện toán quang học đang “mở đường cho những đột phá trong các lĩnh vực đòi hỏi xử lý tốc độ cao và hiệu quả cao, chẳng hạn như trí tuệ nhân tạo”.
+
+Thứ nhất, tín hiệu quang học có thể mang nhiều thông tin hơn tín hiệu điện vì chúng có nhiều băng thông hơn. Tần số quang cũng cao hơn nhiều so với tần số điện, vì vậy hệ thống quang có thể chạy nhiều bước tính toán hơn trong thời gian ngắn hơn và độ trễ ít hơn.
+
+Máy tính quang học có thể chạy với nhiều hoạt động diễn ra đồng thời hơn, xử lý nhiều dữ liệu hơn trong khi sử dụng ít năng lượng hơn. Gordon Wetzstein, một kỹ sư điện tại Đại học Stanford, cho biết: “Nếu chúng ta có thể khai thác những lợi thế này, điều này sẽ mở ra rất nhiều khả năng mới”.
+
+Các nhà nghiên cứu từ lâu đã cố gắng sử dụng ánh sáng cho AI, một lĩnh vực có nhu cầu tính toán cao. Vào những năm 1980 và 1990, các nhà nghiên cứu đã sử dụng hệ thống quang học để xây dựng một số mạng lưới thần kinh sớm nhất.
+
+Demetri Psaltis và hai đồng nghiệp tại Viện Công nghệ California đã tạo ra một hệ thống nhận dạng khuôn mặt thông minh bằng cách sử dụng một trong những mạng thần kinh quang học (ONN) đời đầu. Họ lưu trữ hình ảnh của một đối tượng – thực tế là của một trong những nhà nghiên cứu dưới dạng ảnh ba chiều trong tinh thể khúc xạ.
+
+Các nhà nghiên cứu đã sử dụng hình ảnh ba chiều để đào tạo ONN, sau đó có thể nhận ra những hình ảnh mới của nhà nghiên cứu và phân biệt anh ta với các đồng nghiệp của mình.
+
+Nhưng ánh sáng cũng có nhược điểm. Điều quan trọng là các photon thường không tương tác với nhau, do đó, rất khó để một tín hiệu đầu vào điều khiển một tín hiệu khác, trong khi đó là bản chất của các bóng bán dẫn thông thường.
+
+Nhưng trong những năm gần đây, các nhà nghiên cứu đã tìm ra một ứng dụng tuyệt vời cho điện toán quang học: phép nhân ma trận.
+
+Quá trình nhân ma trận hoặc mảng số là nền tảng cho rất nhiều công việc tính toán nặng nhọc. Cụ thể, trong các mạng thần kinh, phép nhân ma trận là một bước cơ bản cả về huấn luyện trên dữ liệu cũ và xử lý dữ liệu mới. Và ánh sáng có thể là phương tiện nhân ma trận tốt hơn điện.
+
+Cách tiếp cận tính toán AI này đã bùng nổ vào năm 2017, khi hai nhà nghiên cứu Dirk Englund và Marin Soljačić thuộc Viện Công nghệ Massachusetts mô tả cách tạo ra một mạng lưới thần kinh quang học được xây dựng trên một con chip silicon.
+
+Các nhà nghiên cứu đã mã hóa các đại lượng khác nhau mà họ muốn nhân thành các chùm ánh sáng, sau đó gửi các chùm tia đi qua một loạt thành phần làm thay đổi pha của chùm tia—cách sóng ánh sáng của nó dao động—với mỗi sự thay đổi pha tượng trưng cho một bước nhân. Bằng cách liên tục tách các chùm tia, thay đổi pha và kết hợp lại, họ có thể làm cho ánh sáng thực hiện phép nhân ma trận một cách hiệu quả. Ở cuối con chip, các nhà nghiên cứu đặt máy dò ảnh để đo các chùm ánh sáng và đưa ra kết quả.
+
+Kể từ bài báo của 2 nhà nghiên cứu xuất hiện vào năm 2017, nhiều nhà nghiên cứu cũng bắt đầu đưa ra các loại máy tính quang học mới. Englund và một số cộng tác viên gần đây đã công bố một mạng quang mới gọi là HITOP, giúp tăng quy mô thông lượng tính toán theo thời gian, không gian và bước sóng.
+
+Zaijun Chen, Giảng viên của MIT, cho biết HITOP khắc phục một trong những nhược điểm của mạng thần kinh quang học: Cần năng lượng đáng kể để truyền dữ liệu từ linh kiện điện tử sang quang học và ngược lại. Nhưng bằng cách đóng gói thông tin vào ba chiều ánh sáng, nó sẽ truyền nhiều dữ liệu hơn qua ONN và phân bổ chi phí năng lượng cho nhiều phép tính. Điều này làm giảm chi phí cho mỗi phép tính. Các nhà nghiên cứu báo cáo rằng HITOP có thể chạy các mô hình học máy lớn hơn 25.000 lần so với ONN dựa trên chip trước đây.
+
+Thế nhưng, theo các chuyên gia hệ thống này vẫn còn lâu mới sánh được với các hệ thống điện tử tiền nhiệm/HITOP thực hiện khoảng 1 nghìn tỷ hoạt động mỗi giây, trong khi các chip Nvidia phức tạp có thể xử lý lượng dữ liệu gấp 300 lần.
+
+Mặc dù điện toán quang học đã phát triển nhanh chóng trong vài năm qua nhưng nó vẫn còn lâu mới có thể thay thế được các chip điện tử chạy mạng lưới thần kinh bên ngoài phòng thí nghiệm. Các bài báo công bố hệ thống quang tử hoạt động tốt hơn hệ thống điện tử, nhưng chúng thường chạy các mô hình nhỏ sử dụng thiết kế mạng cũ và khối lượng công việc nhỏ. Và nhiều số liệu được báo cáo về ưu thế quang tử không nói lên toàn bộ câu chuyện.
+
+Hệ thống phòng thí nghiệm cần phải được mở rộng quy mô trước khi chúng có thể hiện được lợi thế cạnh tranh. Đến thời điểm hiện tại, không gì có thể sánh được với con chip do Nvidia sản xuất, con chip của hãng này cung cấp năng lượng cho nhiều hệ thống AI tiên tiến nhất hiện nay.
+
+Một số nhà nghiên cứu cho rằng các hệ thống AI dựa trên ONN trước tiên sẽ đạt được thành công trong các ứng dụng chuyên biệt nơi chúng mang lại những lợi thế độc đáo, chẳng hạn như tháp di động 5G và máy đo độ cao radar giúp máy bay điều hướng.
+
+Các chuyên gia cho rằng một mạng lưới thần kinh quang học có thể vượt qua các hệ thống điện tử vẫn là câu chuyện lâu dài. Năm ngoái, nhóm của ông đã thực hiện các mô phỏng cho thấy, nếu trong vòng một thập kỷ, hệ thống quang học đủ lớn có thể tạo ra một số mô hình AI hiệu quả hơn 1.000 lần so với các hệ thống điện tử trong.

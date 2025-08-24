@@ -1,0 +1,17 @@
+Như vậy đây là vụ thứ hai liên tiếp được triệt phá trong vòng một tuần.
+
+Trước đó, ngay gần đây, vào ngày 7/8/2025, một vụ việc tương tự cũng đã được phát hiện và xử lý. Cả hai vụ đều sử dụng thiết bị BTS giả để phát sóng tin nhắn hàng loạt, nhằm đánh cắp thông tin cá nhân của người dùng.
+
+Thông qua hệ thống giám sát tần số chuyên, Trung tâm Tần sô vô tuyến điện khu vực II (thuộc Cục Tần số vô tuyến điện) đã phát hiện tín hiệu bất thường ghi là phát sóng trái phép. Bằng các biện pháp nghiệp vụ, đội ngũ kỹ thuật đã nhanh chóng khoanh vùng và xác định chính xác vị trí nguồn phát đang di chuyển trên một chiếc ô tô. Thông tin lập tức được chuyển đến đơn vị nghiệp vụ của Bộ Công an để phối hợp bắt giữ. Đối tượng bị bắt giữ ngay tại hiện trường, khi đang vận hành thiết bị BTS giả trên một ô tô.
+
+Tang vật thu giữ gồm hai thiết bị BTS giả cỡ lớn, anten, bộ nguồn chuyên dụng, cùng nhiều điện thoại cài phần mềm điều khiển trạm BTS.
+
+Cục Tần số vô tuyến điện (Bộ Khoa học và Công nghệ), cho biết nội dung tin nhắn lừa đảo yêu cầu người nhận truy cập vào một đường link để cập nhật, bổ sung địa chỉ nhận giao hàng trực tuyến. Nếu truy cập, người dùng có nguy cơ bị đánh cắp thông tin cá nhân, dẫn đến mất tiền và tài sản.
+
+Hiện vụ việc đang được cơ quan chức năng tiếp tục mở rộng điều tra, làm rõ các đối tượng liên quan, đặc biệt là những mắt xích trong đường dây mua bán, phân phối thiết bị BTS giả và các thủ đoạn lừa đảo qua tin nhắn.
+
+Cục Tần Đây là kết quả thiết thực trong đợt cao điểm trấn áp tội phạm nhân dịp kỷ niệm 80 năm Quốc khánh 2/9, thể hiện quyết tâm của các lực lượng chức năng trong việc đảm bảo an ninh mạng, bảo vệ quyền lợi chính đáng của người dân trước những thủ đoạn lừa đảo ngày càng tinh vi của tội phạm công nghệ cao.
+
+Vụ việc lần này tiếp tục là hồi chuông cảnh báo về thủ đoạn lừa đảo công nghệ cao mới, kết hợp giữa kỹ thuật giả mạo trạm BTS và các chiêu trò đánh vào tâm lý người tiêu dùng trong thời đại số. Đồng thời, đây cũng là minh chứng cho hiệu quả của công tác phối hợp liên ngành giữa các lực lượng chuyên trách về tần số, kỹ thuật nghiệp vụ và hình sự trong việc bảo vệ an toàn thông tin và giữ gìn an ninh trật tự.
+
+Cơ quan chức năng khuyến cáo người dân cần nâng cao cảnh giác, tuyệt đối không truy cập vào các đường link lạ được gửi qua tin nhắn, không cung cấp thông tin cá nhân, mật khẩu, mã OTP cho bất kỳ ai. Khi phát hiện tin nhắn có dấu hiệu lừa đảo, người dân cần báo ngay cho cơ quan công an hoặc các nhà mạng di động để được hỗ trợ và ngăn chặn kịp thời.

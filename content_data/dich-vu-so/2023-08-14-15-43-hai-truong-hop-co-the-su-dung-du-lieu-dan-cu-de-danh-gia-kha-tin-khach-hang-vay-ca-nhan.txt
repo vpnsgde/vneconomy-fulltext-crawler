@@ -1,0 +1,19 @@
+Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an, trong tham luận tại hội thảo về Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân trong sử dụng dữ liệu dân cư đánh giá khả tín khách hàng vay mới đây, cho rằng có hai trường hợp có thể sử dụng dữ liệu dân cư để đánh giá khả tín khách hàng vay.
+
+Một là,việc đánh giá khả tín khách hàng vay là hoạt động của cơ quan nhà nước được quy định theo luật chuyên ngành và Cục Cảnh sát quản lý hành chính về trật tự xã hội (Bộ Công an) được giao thực hiện nhiệm vụ này.
+
+Khi đó, cơ quan này có thể thu thập thông tin liên quan tới tài chính ngân hàng của dân cư để có thể đánh giá khả tín khách hàng vay mà không cần sự đồng ý của chủ thể dữ liệu. Tuy nhiên, phạm vi áp dụng của nội dung này chỉ liên quan tới hoạt động của cơ quan nhà nước, không được chuyển giao, mua bán dữ liệu cá nhân có liên quan tới điểm tín dụng.
+
+Hai là,Ngân hàng Nhà nước được luật giao chức năng đánh giá khả tín khách hàng vay và có sử dụng dữ liệu dân cư để xác thực.
+
+Khi đó, việc xác thực có thể được thực hiện nhằm bảo đảm rằng, thông tin điểm tín dụng mà Ngân hàng Nhà nước nắm giữ là phù hợp, chính xác với dữ liệu dân cư do Cục Cảnh sát quản lý hành chính về trật tự xã hội quản lý. Hoạt động đánh giá khả tín khách hàng vay của Ngân hàng Nhà nước chỉ để phục vụ hoạt động của cơ quan nhà nước.
+
+Về việc cung cấp dữ liệu cá nhân liên quan tới điểm tín dụng cho đơn vị tài chính - ngân hàng, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao cho rằng theo quy định tại Nghị định 13/2023/NĐ-CP, điểm tín dụng (chỉ là số điểm, không liên quan tới thông tin cá nhân) không phải dữ liệu cá nhân nên có thể chuyển giao cho các đơn vị tài chính - ngân hàng.
+
+Nếu điểm tín dụng đó có thông tin liên quan tới cá nhân (ví dụ ông A được 700 điểm) thì là dữ liệu cá nhân, không được chuyển giao, mua bán cho các đơn vị tài chính - ngân hàng, trừ trường hợp luật quy định khác.
+
+Có một trường hợp có thể chuyển điểm tín dụng cho các đơn vị tài chính - ngân hàng. Cụ thể, theo Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, chủ thể dữ liệu yêu cầu bên Bên Kiểm soát hoặc Bên Kiểm soát và xử lý dữ liệu cá nhân cung cấp điểm tín dụng của mình cho ngân hàng. Trong trường hợp này, Bên Kiểm soát hoặc Bên Kiểm soát và xử lý dữ liệu cá nhân có thể là Cục Cảnh sát quản lý hành chính về trật tự xã hội hoặc Ngân hàng Nhà nước nhưng phải được luật quy định cho phép.
+
+“Việc đánh giá khả tín khách hàng vay cá nhân rất nhạy cảm, liên quan mật thiết tới quyền và lợi ích hợp pháp của tổ chức, cá nhân, cần nghiên cứu kỹ lưỡng, thấu đáo”, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao đánh giá và cho rằng yêu cầu tiên quyết là về mặt pháp lý phải bảo đảm thì mới triển khai trong thực tiễn.
+
+Cũng theo Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, việc triển khai cũng cần có cơ chế thí điểm, nghiên cứu điều chỉnh sao cho phù hợp. Ưu tiên cao nhất của dữ liệu dân cư là phục vụ hoạt động quản lý nhà nước của cơ quan chức năng có thẩm quyền.

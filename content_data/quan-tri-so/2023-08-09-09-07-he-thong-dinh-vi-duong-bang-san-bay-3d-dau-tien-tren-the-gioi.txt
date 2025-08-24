@@ -1,0 +1,19 @@
+Theo Korea Herald, A-SMGCS là dịch vụ cung cấp cho các hãng hàng không thông tin điều hướng theo thời gian thực trên mặt đất tại sân bay, ở định dạng 3D.
+
+Phi công, hãng hàng không sẽ tiếp nhận nhận thông tin như điều kiện giao thông, lộ trình di chuyển và các cảnh báo nguy hiểm khác nhau và sử dụng chúng để di chuyển trên đường băng, đường lăn (thường được sơn màu vàng). Trước đây, các thông tin này chỉ được cung cấp cho các kiểm soát viên không lưu.
+
+Thông thường, đối với máy bay đang bay trên không, các thông tin kỹ thuật số được cung cấp thông qua các hệ thống liên lạc và định vị khác nhau.
+
+Song, khi di chuyển trên mặt đất hoặc chuẩn bị cất/hạ cánh, tai nạn hàng không vẫn có khả năng xảy ra. Ví dụ như máy bay hướng nhầm sang đường băng khác, do phụ thuộc vào các thiết bị bên ngoài như đèn trên sân bay, thiết bị biển báo và hướng dẫn bằng giọng nói.
+
+Năm 2021, IIAC bắt đầu phát triển điều hướng 3D cho các chuyển động trên mặt đất của máy bay và hoàn thành thành công hoạt động thử nghiệm của hệ thống vào tháng 11/2022.
+
+Đến tháng 6 năm nay, IIAC tiến hành quá trình thử nghiệm cuối cùng bằng cách áp dụng vào hoạt động bay thực tế.
+
+Các bước thử nghiệm cuối cùng được tiến hành trên 5 chuyến bay, với 4 chuyến nội địa và một chuyến bay ra nước ngoài, mang số hiệu 7C1106 của hãng Jeju Air, xuất phát từ sân bay quốc tế Incheon (Hàn Quốc) đến sân bay quốc tế Narita (Nhật Bản).
+
+Đại diện IIAC tuyên bố các thông tin như điều kiện giao thông ở thời gian thực và lộ trình di chuyển được cung cấp ổn định và không chậm trễ trong quá trình máy bay hoạt động.
+
+Điều này khiến sân bay quốc tế Incheon trở thành sân bay đầu tiên trên thế giới có hệ thống định vị 3D để xử lý quá trình di chuyển trên đường băng cho máy bay. Đến năm sau, IIAC có kế hoạch giới thiệu công khai hệ thống này và đặt mục tiêu vận hành hệ thống trong sân bay.
+
+Cơ quan này hy vọng hệ thống này sẽ cắt giảm lượng khí CO2 (khoảng 13.515 tấn/năm), ngăn máy bay đi nhầm vào đường băng khác, đồng thời tiết kiệm thời gian lăn bánh trên mặt đất.

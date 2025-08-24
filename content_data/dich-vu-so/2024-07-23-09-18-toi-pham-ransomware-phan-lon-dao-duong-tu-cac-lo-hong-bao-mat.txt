@@ -1,0 +1,25 @@
+Theo báo cáo, lĩnh vực hiện bị tin tắc khai thác các lỗ hổng nhiều nhất là năng lượng/dầu khí, với khoảng 49% các cuộc tấn công xuất phát từ việc không vá các lỗ hổng bảo mật. Nguyên nhân được đưa ra là hệ thống công nghệ của ngành này hiện đã cũ, dẫn đến nhiều lỗ hổng bảo mật hơn các lĩnh vực khác và các bản vá có thể không có.
+
+Bên cạnh lỗ hổng bảo mật, những nguyên nhân khác gây nên các vụ tấn công rasomware là xâm phạm qua thông tin đăng nhập của người dùng (29%), mã độc email (23%),...
+
+Các nhà nghiên cứu nhấn mạnh trong báo cáo rằng những tiến bộ trong AI có thể sẽ làm tăng quy mô các cuộc tấn công bằng ransomware. Vào tháng 4, Viện An ninh và Công nghệ của Anh bày tỏ quan ngại về vai trò của AI trong các cuộc tấn công trong tương lai, báo cáo cho biết.
+
+Thông thường, các nhóm tội phạm ransomware thường nhắm mục tiêu vào các công ty lớn, tuy nhiên, các tổ chức nhỏ hơn đang bắt đầu trở thành mục tiêu của chúng. Theo đó, các tổ chức có doanh thu dưới 10 triệu USD chiếm đến khoảng 47% các tổ chức bị tấn công bởi ransomware trong năm ngoái.
+
+“Trong khi nhiều cuộc tấn công ransomware được thực hiện bởi các băng nhóm tinh vi, số vụ tấn công ransomware thô sơ, rẻ tiền của những tội phạm có tay nghề thấp hơn cũng đang gia tăng”, Sophos viết trong báo cáo.
+
+Mặc dù vậy, ghi nhận từ dữ liệu báo cáo, khả năng đáp ứng yêu cầu tiền chuộc tỷ lệ thuận với quy mô của các doanh nghiệp. Chẳng hạn các tổ chức có doanh thu dưới 10 triệu USD có tỷ lệ thanh toán tiền chuộc chỉ 25%. Trong khi các tổ chức có doanh thu lớn nhất trên 5 tỷ USD có tỷ lệ thanh toán cao nhất (61%). Sở dĩ có sự chênh lệch này, là tiềm lực tài chính, yếu tố quyết định các doanh nghiệp có sẵn sàng đáp ứng hay không.
+
+Về các giải pháp an ninh mạng, sao lưu luôn là biện pháp hàng đầu để bảo vệ dữ liệu. Tuy nhiên, 94% các tổ chức bị ransomware tấn công trong năm qua cho biết tội phạm mạng đang cố gắng xâm phạm các bản sao lưu của họ trong cuộc tấn công, khiến các tổ chức thiệt hại nhiều hơn nhằm tăng tỷ lệ tống tiền thành công.
+
+Theo báo cáo, chỉ có 1% tội phạm đòi tiền chuộc dưới 1%. Trong khi đó, 63% tội phạm ransomware yêu cầu mức chuộc từ 1.000.000 USD. Ghi nhận các dữ liệu từ báo cáo, yêu cầu của tội phạm có xu hướng dựa trên doanh thu của tổ chức và không thấy có sự khác biệt giữa doanh nghiệp các ngành. 47% các tổ chức có doanh thu từ 10 triệu USD đến 50 triệu USD thường sẽ nhận yêu cầu tiền chuộc 7 con số trong thời gian qua.
+
+Tuy nhiên, nghiên cứu tiết lộ các tổ chức hiếm khi trả số tiền theo đúng yêu của những kẻ tấn công, chỉ có 24% số nhà lãnh đạo được hỏi nói rằng khoản thanh toán của doanh nghiệp đáp ứng với yêu cầu ban đầu. 44% trả ít hơn đòi hỏi của tin tặc, trong khi 31% trả nhiều hơn.
+
+Dĩ nhiên, thanh toán tiền chuộc chỉ là một phần của chi phí khôi phục khi xử lý các sự kiện ransomware. Năm 2024, các tổ chức báo cáo chi phí trung bình để phục hồi sau một cuộc tấn công bằng ransomware là 2,73 triệu USD, tăng gần 1 triệu USD so với mức 1,82 triệu USD được báo cáo vào năm 2023.
+
+Bên cạnh đó, thời gian để các tổ chức khôi phục dữ liệu sau một cuộc tấn công ransomware ngày càng dài hơn. Nghiên cứu năm 2024 của Sophos tiết lộ 35% nạn nhân của ransomware phục hồi hoàn toàn trong một tuần hoặc ít hơn, giảm từ 47% vào năm 2023 và 52% vào năm 2022.
+
+Một phần ba (34%) hiện phải mất hơn một tháng để phục hồi, tăng từ 24% vào năm 2023 và 20% vào năm 2022. Sự chậm lại này có thể phản ánh mức độ phức tạp và mức độ nghiêm trọng ngày càng tăng của các cuộc tấn công.
+
+“The State of Ransomware 2024” của Sophos, công ty bảo mật của Anh là báo cáo thường niên được thực hiện dựa trên kết quả khảo sát từ hàng nghìn nhà lãnh đạo trong lĩnh vực công nghệ thông tin tại cả châu Á, châu u và châu Mỹ.

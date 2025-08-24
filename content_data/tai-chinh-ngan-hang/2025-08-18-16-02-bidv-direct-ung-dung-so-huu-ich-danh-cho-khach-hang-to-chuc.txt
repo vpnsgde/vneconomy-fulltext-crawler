@@ -1,0 +1,23 @@
+Từ năm 2018, BIDV iBank - ứng dụng ngân hàng số dành cho khách hàng tổ chức của BIDV - đã là người bạn đồng hành tin cậy của khách hàng doanh nghiệp và đã được nhiều tổ chức uy tin ghi nhận qua các giải thưởng như “Ứng dụng số sáng tạo nhất Việt Nam” (The Asiamoney - 2021), Sao Khuê (VINASA - 2022), “Ngân hàng chuyển đổi số tốt nhất Việt Nam” (EuroMoney - 2023, 2024)... Tuy nhiên, trước sự thay đổi nhanh chóng của công nghệ cũng như nhu cầu ngày càng đa dạng của doanh nghiệp, BIDV đã quyết định xây dựng mới BIDV Direct - hệ thống ngân hàng điện tử đa tiện ích nhằm tái định nghĩa trải nghiệm người dùng.
+
+NÂNG TẦM TRẢI NGHIỆM NGƯỜI DÙNG
+
+Khác biệt đầu tiên BIDV Direct mang lại cho khách hàng là giao diện mới, hiện đại. Bằng việc nghiên cứu các xu hướng thiết kế UI/UX của các ngân hàng Âu Mỹ và các nền tảng công nghệ hàng đầu như Google, Apple,... BIDV đã lựa chọn thiết kế giao diện BIDV Direct theo phong cách “Tối giản nhưng tối ưu”, giảm áp lực thị giác, đơn giản thao tác, khách hàng có thể sử dụng dễ dàng ngay lần đầu.
+
+Cách thức sử dụng tính năng tài chính và phi tài chính cũng được đổi mới, tạo nên trải nghiệm thân thiện, mượt mà hơn. Nền tảng cho phép quản trị dòng tiền thông minh và đặc biệt là khả năng kết nối trực tiếp với hệ thống ERP của doanh nghiệp sẽ giúp tự động hóa và đồng bộ hóa các giao dịch tài chính. Không dừng lại ở đó, BIDV Direct còn tích hợp hàng loạt dịch vụ được thiết kế tinh gọn và hiệu quả như các dịch vụ Tài khoản, Tiền gửi, Thanh toán lương tự động, Chuyển tiền trong nước và quốc tế, Dịch vụ công, Quản lý khoản phải thu/phải trả, Tài trợ thương mại và mua bán ngoại tệ,… BIDV cũng lần đầu tiên triển khai tới khách hàng biểu mẫu điện tử (e-form) giúp số hóa hoàn toàn quy trình đăng ký dịch vụ cho khách hàng.
+
+Với việc phục vụ hơn 500.000 khách hàng doanh nghiệp - từ các doanh nghiệp vừa và nhỏ đến các tập đoàn, tổng công ty lớn - BIDV thấu hiểu rằng mỗi doanh nghiệp đều có nhu cầu riêng biệt, vì vậy BIDV Direct tập trung vào cá nhân hoá đến từng vai trò người dùng trong doanh nghiệp. Hệ thống tham số linh hoạt mang tới cho BIDV Direct khả năng phân quyền mạnh mẽ và không giới hạn, đáp ứng được đa dạng nhu cầu phân quyền từ đơn giản của khách hàng SME, hay các mô hình kiểm soát phức tạp với nhiều lớp phê duyệt của doanh nghiệp lớn.
+
+MỘT NỀN TẢNG, MỘT ĐIỂM CHẠM, ĐA TIỆN ÍCH
+
+BIDV Direct có lợi thế nổi bật khi được xây dựng trên nền tảng công nghệ tiên tiến nhất hiện nay, mang lại hiệu suất vượt trội, gia tăng tốc độ xử lý, đáp ứng các tiêu chuẩn bảo mật nghiêm ngặt.
+
+Chính nhờ công nghệ “mới từ gốc”, BIDV Direct có khả năng tích hợp, kết nối không giới hạn tới các nền tảng, ứng dụng công nghệ, tài chính,... giúp khách hàng chỉ cần sử dụng một tài khoản duy nhất (Single Sign-On) để truy cập toàn bộ dịch vụ số dành cho khách hàng tổ chức của BIDV.
+
+BIDV Direct tạo nên trải nghiệm liền mạch, xuyên suốt cho khách hàng qua các nền tảng Web/App/ERP, tích hợp với hệ thống SmartOTP. Các nền tảng tài trợ thương mại số TradeFlat, tài trợ chuỗi cung ứng trực tuyến BIDV SCF sẽ được tích hợp đồng bộ vào BIDV Direct trong thời gian tới.
+
+Đặc biệt, BIDV Direct sở hữu khả năng mở rộng linh hoạt, cho phép dễ dàng tiếp tục phát triển không giới hạn các sản phẩm và tính năng mới trong tương lai. Hệ thống còn có khả năng kết nối các dịch vụ số ngoài ngân hàng qua ngân hàng mở BIDV Open API, mở rộng giá trị sử dụng cho doanh nghiệp.
+
+BIDV Direct là minh chứng cho quyết tâm của BIDV mang đến trải nghiệm số hoàn toàn khác biệt, khẳng định cam kết trở thành đối tác đồng hành tin cậy của doanh nghiệp trong hành trình chuyển đổi số, cùng doanh nghiệp đón đầu tương lai số hóa toàn diện.
+
+* Nhân dịp ra mắt BIDV Direct, BIDV dành tặng hàng loạt ưu đãi miễn giảm phí cùng các đặc quyền chuyên biệt dành cho từng nhóm khách hàng. Để biết thêm thông tin và đăng ký sử dụng dịch vụ, khách hàng có thể truy cập website BIDV, liên hệ hotline 19009248 hoặc chi nhánh gần nhất để được hỗ trợ.

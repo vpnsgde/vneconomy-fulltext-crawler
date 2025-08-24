@@ -1,0 +1,21 @@
+Bitcoinđã xử lý giao dịch thứ 1 tỷ - đánh dấu một khoảnh khắc quan trọng sau 15 năm kể từ ngày thành lập. Dữ liệu theo dõi Bitcoin của Clark Moody cho thấy giao dịch 1.000.000.000 đã đạt được, được đánh dấu bởi block số 842.241 lúc 9:34 tối UTC ngày 5 tháng 5.
+
+Phải 15 năm, bốn tháng và bốn ngày sau khi người sáng tạo Bitcoin (BTC), Satoshi Nakamoto, khai thác khối đầu tiên của mạng vào ngày 3 tháng 1 năm 2009.
+
+Điều đó có nghĩa là trung bình 178.475 giao dịch Bitcoin hàng ngày đã được thực hiện trong suốt 5.603 ngày tồn tại của nó. Tuy nhiên, số lượng giao dịch chưa bao gồm số lượng giao dịch được thực hiện trên Lightning Network,mạng Bitcointhứ cấp chủ yếu tập trung vào các khoản thanh toán vi mô.
+
+Dữ liệu từ sàn giao dịch Bitcoin River cho thấy Lightning Network đã xử lý ước tính giới hạn thấp hơn là 6,6 triệu giao dịch chỉ trong tháng 8 năm 2023 – điều này có thể gợi ý rằng hàng trăm triệu giao dịch đã được thực hiện trên Lightning kể từ khi nó ra mắt vào tháng 1 năm 2018.
+
+Các giao dịch hàng ngày trên Bitcoin tăng vọt xung quanh sự kiện halving lần thứ tư của mạng vào ngày 20 tháng 4, bao gồm mức cao kỷ lục 926.000 giao dịch được xử lý vào ngày 23 tháng 4.
+
+Mặc dùBitcoinlà mạng tiền điện tử lâu đời nhất nhưng đây không phải là mạng đầu tiên xử lý một tỷ giao dịch. Dữ liệu Etherscan cho thấy, đối thủ lớn nhất của Bitcoin, Ethereum, đã xử lý hơn 2 tỷ giao dịch kể từ khi ra mắt vào tháng 7 năm 2015.
+
+Hiện nay, Ethereum là đồng tiền điện tử có giá trị cao thứ hai thế giới chỉ sau Bitcoin. Nếu Bitcoin đi tiên phong trong công nghệ blockchain với tư cách là loại tiền điện tử đầu tiên thì Ethereum đã mở rộng nền tảng tiền kỹ thuật số phi tập trung bằng cách xây dựng một mạng lưới toàn cầu củng cố một thị trường kết nối của các ứng dụng phi tập trung (dApps) và mã thông báo không thể thay thế (NFT).
+
+Bitcoin hiện có giá 63.750 USD, tăng hơn 12% kể từ khi chạm mức thấp nhất trong hai tháng là 56.800 USD vào ngày 2 tháng 5, theo CoinGecko. Tuy nhiên, nó vẫn giảm 13,6% so với mức cao nhất mọi thời đại là 73.740 USD được thiết lập vào ngày 13 tháng 3. Trong 10 năm qua, giá Bitcoin cũng đã tăng trưởng đến 12.000%.
+
+Thị phần củaBitcointrên thị trường tiền điện tử gần đây đã tăng lên mức cao nhất trong 3 năm là 57%. Sự đột phá này ngầm khẳng định Bitcoin có thể tiếp tục vượt trội hơn các loại tiền điện tử thay thế (altcoin) trong những tháng tới. Theo Coinpriceforecast, vào giữa năm 2030, giá Bitcoin sẽ tiếp cận mức 275.000 USD và cho đến cuối năm, con số này thậm chí có thể tăng đến 293.000 USD.
+
+Tính từ thời điểm Bitcoin ra mắt công chúng lần đầu tiên vào năm 2009, Bitcoin đã trải qua tổng cộng 4 lần Halving (giảm một nửa nguồn cung), với lần thứ nhất được kích hoạt vào ngày 28/11/2012.
+
+Ở lần gần nhất, sự kiện Halving được diễn ra tại block thứ 840.000. Dù phần thưởng trong block này đã bị chia nửa từ 6,25 Bitcoin xuống 3,125 Bitcoin, nhưng block 840.000 vẫn ghi nhận số tiền phí trả cho thợ đào lên đến hơn 37 Bitcoin, tương đương hơn 2,4 triệu USD.

@@ -1,0 +1,23 @@
+Trong khuôn khổ chương trình hoạt động kết nối thương mại hoá sản phẩm, công nghệ cao năm 2022, ngày 24/11, Trung tâm Ươm tạo và Đào tạo Công nghệ cao (Ban Quản lý Khu Công nghệ cao Hoà Lạc) tổ chức “Ngày hội kết nối công nghệ 2022”- Techshow 2022 nhằm giới thiệu công nghệ, sản phẩm; tìm kiếm nhà đầu tư, khách hàng, đơn vị hợp tác sản xuất/phân phối.
+
+Đại diện Trung tâm ươm tạo và Đào tạo Công nghệ cao cho biết, 11 doanh nghiệp trong lĩnh vực công nghệ thông tin và y, dược phẩm tham gia kết nối lần này là các giải pháp công nghệ đã hoàn thiện, có nhiều triển vọng thực tế và đang hướng đến cung cấp giải pháp, sẵn sàng thương mại hóa, trong đó có những giải pháp đã phát triển trên thị trường.
+
+Cụ thể, trong lĩnh vực công nghệ thông tin, có công nghệ bản sao số (Digital Twin) giám sát hệ thống tự động hóa sản xuất cơ khí theo thời gian thực; Công nghệ AI dựng mô hình khuôn mặt 3D và hệ thống chụp ảnh đa góc; trợ lý ảo thông minh AI thuần Việt; thiết bị bay không người lái và hệ thống giám sát bằng radar tích cực…
+
+Điển hình như công nghệ bản sao số (Digital Twin) giám sát hệ thống tự động hóa sản xuất cơ khí theo thời gian thực cho một số doanh nghiệp sản xuất cơ khí.
+
+Hệ thống có khả năng thu thập 20 tham số giám sát (cường độ dòng điện, tốc độ gia công, tọa độ 3 trục XYZm...) theo thời gian thực với độ trễ < 0,2 giây, sai lệch về không gian giữa bản sao và hệ thống thực <5%, gia công vật liệu có chiều dày tối đa 25mm, mô phỏng và phân tích được trạng thái trong quá khứ, dự đoán được trạng thái, đề xuất hành vi trong tương lai <0.5 giây, tối ưu được các thông số công nghệ, tăng hiệu suất sản xuất 10%, giảm tiêu hao vật liệu 10%, giảm chi phí năng lượng 10% và dự đoán được lỗi hệ thống với sai số <20%.
+
+Công nghệ AI dựng mô hình khuôn mặt 3D và hệ thống chụp ảnh đa góc để nhận diện khuôn mặt được phát triển dựa trên công nghệ học sâu tích hợp công nghệ mô hình hoá khuôn mặt ba chiều và biến đổi vec-tơ nhúng DREAM cho phép nhận diện khuôn mặt trong điều kiện bị che lấp bởi khẩu trang hay các phụ kiện, khuôn mặt không ở vị trí chính diện so với camera. Giải pháp có thể được ứng dụng để phục vụ kiểm soát an ninh, theo dõi đối tượng...
+
+Trợ lý ảo thuần Việt MAIKA ứng dụng các đột phá công nghệ mới nhất trong lĩnh vực AI, cho phép người dùng giao tiếp với công nghệ và điều khiển các thiết bị gia đình bằng tiếng Việt, đa dạng các vùng miền với kho nội dung thuần Việt đồ sộ. OLLI MAIKA luôn được nâng cấp và phát triển cả về tính năng lẫn nội dung để giúp cuộc sống của người Việt tiện nghi và thú vị hơn mỗi ngày. OLLI MAIKA mang nhiều hoài bão về một sản phẩm công nghệ hoàn toàn dành cho người Việt, là sản phẩm "thuần Việt" hiếm hoi do người Việt làm chủ công nghệ cả phần cứng đến phần mềm. OLLI cam kết xây dựng một hệ sinh thái với trợ lý ảo tiếng Việt là trung tâm, thay đổi cách con người tương tác với công nghệ và xích lại gần nhau hơn trong kỷ nguyên giọng nói.
+
+Trong lĩnh vực y, dược phẩm có các giải pháp công nghệ tham gia kết nối như: Chế tạo nanobiochar từ cây Guột và ứng dụng trong Dược-Mỹ phẩm; Sản phẩm Yeast Peptamin từ thủy phân nấm men bia có tác dụng hỗ trợ điều trị bệnh lý tim mạch, ổn định huyết áp; Công nghệ nền tảng dịch vụ khám bệnh online kết hợp offline…
+
+Công nghệ nền tảng dịch vụ khám bệnh online kết hợp offline đã giải quyết các rào cản (thời gian, khoảng cách, chi phí...) để người bệnh có cơ hội tiếp cận được các dịch vụ chăm sóc y tế tốt nhất. Hệ thống đã liên kết được với 200 bác sĩ tay nghề cao, trên 20.000 lượt đăng ký sử dụng app, cung cấp dịch vụ thường xuyên cho 50 doanh nghiệp/tập đoàn và hàng chục nghìn lượt tư vấn y tế.
+
+Thông qua sự kiện, các nhà cung cấp giải pháp công nghệ sẽ gặp gỡ kết nối 1:1 với các nhà đầu tư (các quỹ đầu tư và nhà đầu tư cá nhân), các tổ chức nhà nước hỗ trợ….doanh nghiệp quan tâm, cùng phối hợp, trở thành đối tác khách hàng để thương mại hóa, phát triển mở rộng ứng dụng sản phẩm, công nghệ ra thị trường.
+
+Được biết, chương trình thu hút sự tham gia đồng hành của các quỹ đầu tư như BestB, ThinkZone, BKHolding, EarthVC… và nhiều tổ chức, doanh nghiệp.
+
+Như vậy, đây là lần thứ 4, sự kiện kết nối được tổ chức, thu hút sự quan tâm của các doanh nghiêp, nhà đầu tư… Ở những lần trước, tập trung kết nối công nghệ sinh học, kết nối công nghệ thông tin, kết nối các quỹ đầu tư. Qua đó nhiều dự án đã kết nối với các quỹ hoặc tìm được các chuyên gia hỗ trợ phát triển sản phẩm.

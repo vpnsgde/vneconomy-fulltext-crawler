@@ -1,0 +1,63 @@
+Trí tuệ nhân tạo (AI) đã len lỏi vào tất cả các lĩnh vực của cuộc sống chứ không chỉ lĩnh vực công nghệ. Công nghệ AI đã có những bước phát triển vượt bậc, trong đó nổi bật nhất là sự ra đời của trợ lý ảo ChatGPT có thể thực hiện nhiều tác vụ… Trong 1-2 năm tới, AI sẽ thay đổi rất lớn về công nghệ, nhân lực và thông tin. Gartner dự báo năm 2026, khoảng 50% công việc lập trình viết code sẽ do AI thực hiện.
+
+Trong cuộc cách mạng công nghệ đang phát triển mạnh mẽ như vũ bão, các doanh nghiệp công nghệ số Việt Nam như VNPT, FPT, Viettel, VinGroup… đều đã có những hướng tiếp cận, đầu tư, nghiên cứu, ứng dụng, làm chủ công nghệ, trong đó có AI.
+
+Đơn cử như VNPT đã có những định hướng đầu tư nghiên cứu AI với mong muốn tạo ra những trợ lý AI “Make in Vietnam” tối ưu trong các lĩnh vực đời sống kinh tế - xã hội phục vụ chính quyền, người dân, doanh nghiệp.
+
+Theo ông Nguyễn Tiến Cường, Giám đốc VNPT AI, để một doanh nghiệp công nghệ xây dựng AI riêng cần 4 trụ cột: con người, hạ tầng, tri thức (dữ liệu), chiến lược cụ thể đầu tư dài hạn. VNPT đang có hệ sinh thái chuyển đổi số toàn diện bao phủ các ngành nghề lĩnh vực: chính phủ số, thành phố thông minh, doanh nghiệp số, y tế điện tử, giáo dục điện tử…
+
+
+
+Đặc biệt, trong hệ sinh thái VNPT AI, trợ lý AI định danh điện tử đã được triển khai trong nhiều đơn vị, tổ chức tài chính. Các trợ lý AI của VNPT AI đã và đang hoạt động hiệu quả trong thực tiễn, phục vụ hơn 1,2 tỷ lượt yêu cầu trong toàn mạng.
+
+Đây là kho dữ liệu rất lớn cho ứng dụng AI, tạo ra các trợ lý AI chuyên biệt cho từng ngành nghề cụ thể phục vụ các cơ quan, người dân và doanh nghiệp. Ông Cường cho rằng trợ lý AI của người Việt nên phát triển theo hướng chuyên sâu cho một ngành, một lĩnh vực hay một nghiệp vụ cụ thể.
+
+Nhờ có hệ sinh thái chuyển đổi số toàn diện, VNPT đã tạo ra những trợ lý AI chuyên biệt. Hiện nay, trợ lý AI của VNPT đã được ứng dụng trong nhiều lĩnh vực như trợ lý AI định danh điện tử, trợ lý AI giám sát giao thông, trợ lý AI y tế cho bác sĩ; trợ lý AI tra cứu cho bộ, ngành; trợ lý AI chăm sóc khách hàng, hỗ trợ người dân tra cứu dịch vụ công; trợ lý AI hỗ trợ lãnh đạo ra quyết định (triển khai trong nhiều Trung tâm giám sát điều hành thông minh- IoC các tỉnh, thành)…
+
+Đặc biệt, trong hệ sinh thái VNPT AI, trợ lý AI định danh điện tử đã được triển khai trong nhiều đơn vị, tổ chức tài chính. Các trợ lý AI của VNPT AI đã và đang hoạt động hiệu quả trong thực tiễn, phục vụ hơn 1,2 tỷ lượt yêu cầu trong toàn mạng.
+
+Không nằm ngoài cuộc, Viettel cũng định hướng mạnh mẽ trong việc nghiên cứu, ứng dụng AI. Chia sẻ với Tạp chí Kinh tế Việt Nam/VnEconomy, ông Nguyễn Mạnh Quý, Giám đốc Trung tâm Không gian mạng Viettel (Viettel Cyberspace), cho rằng với những bước phát triển vượt trội trong AI, Viettel nói riêng hay Việt Nam nói chung phải sáng tạo không ngừng để nhanh chóng bắt kịp và song hành cùng thế giới.
+
+Đến nay, Trung tâm đã mở rộng nghiên cứu toàn diện các lĩnh vực của AI như: xử lý tiếng nói và ngôn ngữ tự nhiên, thị giác máy tính, phân tích dữ liệu lớn, người máy. Dựa trên việc làm chủ công nghệ lõi, Viettel Cyberspace đã định hình được hệ sinh thái Viettel AI toàn diện dựa trên các nền tảng cốt lõi (nền tảng AI, trợ lý ảo, phân tích dữ liệu, robot thông minh, bản sao kỹ thuật số) đáp ứng các nhu cầu của người dân, doanh nghiệp và chính quyền.
+
+Hiện tại, hệ thống Trợ lý ảo Pháp luật đã hỗ trợ tra cứu, hỏi đáp hơn 160.000 văn bản pháp luật, 63 án lệ, hơn 1 triệu bản án trong đó có hơn 1.200 quyết định giám đốc thẩm và hơn 80.000 bản án phúc thẩm. Hơn 12.000 tài khoản trợ lý ảo đã được cấp cho thẩm phán, cán bộ công chức của Tòa án... Có nhiều giải pháp đã được vinh danh tại các giải thưởng trong và ngoài nước; đồng thời nhiều doanh nghiệp, tổ chức, chính quyền đã lựa chọn Viettel Cyberspace là đối tác đồng hành trong chuyển đổi số.
+
+Đầu tháng 8/2023, Bộ Thông tin và Truyền thông giao Viettel nghiên cứu, thử nghiệm phát triển mô hình ngôn ngữ lớn tiếng Việt và trợ lý ảo cho cán bộ, công chức tại Bộ.
+
+
+
+Sự quan tâm và những chính sách thiết thực của Chính phủ đã thúc đẩy mạnh mẽ sự phát triển của AI những năm gần đây. Nhiều doanh nghiệp lớn sẵn sàng đầu tư mạnh mẽ để phát triển ứng dụng AI.
+
+Tại FPT, việc phát triển AI diễn ra rất sớm, đưa ra các ứng dụng AI vào cuộc sống, bắt đầu từ nền tảng FPT.AI Chat. Ông Vũ Anh Tú, Giám đốc Công nghệ Tập đoàn FPT, cho biết từ năm 2013, doanh nghiệp đã đẩy mạnh nghiên cứu AI và ra mắt nền tảng AI toàn diện đầu tiên ở Việt Nam- FPT.AI năm 2017. Năm 2020, FPT đã xây dựng Trung tâm AI tại Quy Nhơn với tổng đầu tư hơn 4.362 tỷ đồng.
+
+FPT đã đầu tư mạnh mẽ và toàn diện trên tất cả khía cạnh: con người, cơ sở hạ tầng, cơ sở dữ liệu và nghiên cứu. Đến năm 2024, dự kiến tổng đầu tư cho nghiên cứu công nghệ cloud khoảng 2.300 tỷ đồng. Về dữ liệu, mỗi năm đơn vị này đầu tư 100 tỷ đồng cho nghiên cứu, phát triển ứng dụng AI. Từ năm 2021, FPT công bố đầu tư thêm 300 tỷ đồng cho mảng này trong 5 năm tới.
+
+Sau 10 năm đầu tư cho nghiên cứu, FPT đã hình thành hệ sinh thái đa dạng các giải pháp, nền tảng cho doanh nghiệp và người dùng, trong đó, có những sản phẩm đã khẳng định được tên tuổi trên thị trường như chatbot, voice bot, nhận diện hình ảnh...
+
+Các giải pháp này giúp giải các bài toán vận hành của tổ chức doanh nghiệp như tự động hoá của tổng đài, xử lý và kiểm soát chất lượng tổng đài; Xử lý giấy tờ thông minh, Định danh điện tử (eKYC)... Hiện hệ sinh thái công nghệ AI của FPT có hơn 20 giải pháp với 200 triệu lượt sử dụng/tháng.
+
+VinGroup cũng là một trong những tập đoàn đầu tư mạnh mẽ cho AI với việc lập Công ty VinAI và VinBigData. VinAI đã lọt vào Top 20 công ty toàn cầu dẫn đầu về nghiên cứu AI do Thundermark Capital bình chọn. Ngoài ra, VinAI vừa có 2 bằng sáng chế do Hiệp hội sáng chế Hoa Kỳ công nhận trong lĩnh vực xử lý ngôn ngữ và nhận diện gương mặt khi vẫn đeo khẩu trang…
+
+Bên cạnh đó, trợ lý ảo ViVi- trợ lý giọng nói thuần Việt được phát triển bởi VinBigData. Giải pháp ứng dụng nền tảng công nghệ AI, phân tích dữ liệu lớn, xử lý ngôn ngữ tự nhiên, sinh trắc học giọng nói…
+
+Tháng 8/2023, VinBigdata đã công bố xây dựng thành công mô hình ngôn ngữ lớn tiếng Việt. Đây được xem như chìa khóa để phát triển công nghệ AI tạo sinh - công nghệ đứng sau sự thành công của các giải pháp đột phá như ChatGPT.
+
+Việc làm chủ công nghệ, xây dựng thành công mô hình ngôn ngữ lớn tiếng Việt, là bước tiến quan trọng giúp VinBigdata đưa AI tạo sinh vào hệ sinh thái sản phẩm, dịch vụ.
+
+
+
+Là công nghệ đột phá, với tiềm năng to lớn, AI được ứng dụng trong nhiều ngành ở Việt Nam. Hầu hết các giải pháp AI trên đều do các doanh nghiệp công nghệ Việt phát triển. Đây là kết quả của sự nỗ lực và đầu tư mạnh mẽ của các công ty vào AI.
+
+Theo các chuyên gia, những gì đạt được trong nghiên cứu, ứng dụng AI đã cho thấy, doanh nghiệp công nghệ Việt Nam hoàn toàn có thể tạo ra các sản phẩm cạnh tranh với thế giới.
+
+Ông Tú khẳng định: “Việt Nam không có khoảng cách quá xa so với các nước trong khu vực về cả nghiên cứu lẫn ứng ụng AI trong thực tế”.
+
+AI là công nghệ được hầu hết các hãng công nghệ quan tâm và đang dồn lực đầu tư, với quy mô hàng tỷ USD. Trong bối cảnh đó, FPT tìm những lĩnh vực, hướng đi khác biệt để làm chủ được cuộc chơi. FPT xác định AI là công nghệ lõi, là mái chèo chính để có thể bắt kịp được dòng chảy của thế giới.
+
+“Chúng tôi có một giấc mơ lớn hơn là “bứt phá dẫn đầu về AI, hiện thực mục tiêu đưa Việt Nam trở thành trung tâm AI của khu vực và thế giới”. Bên cạnh hành trình hiện thực hóa xây dựng “một trung tâm AI của thế giới”, FPT đang nỗ lực để đưa AI vào mọi ngõ ngách của cuộc sống, ông Tú nói.
+
+Còn theo Tổng Giám đốc VNPT Huỳnh Quang Liêm, AI là một lĩnh vực rất rộng lớn và nhiều tiềm năng phát triển. Để cạnh tranh, các doanh nghiệp cần phải phát triển các sản phẩm AI đặc thù. Điều quan trọng nhất cần phải đặt ra đề bài bài toán của trợ lý ảo AI...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 36-2023 phát hành ngày 04-09-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

@@ -1,0 +1,31 @@
+Ủy ban Chứng khoán Nhà nước đã có công văn số 4501/UBCK-CNTT về việc rà soát, chuẩn hóa dữ liệu nhà đầu tư. Theo yêu cầu cảu Ủy ban chứng khoán Nhà nước, các công ty chứng khoán đã có thông báo về việc cập nhật thông tin căn cước công dân để thực hiện giao dịch chứng khoán.
+
+Theo đó, kể từ ngày 1/10, để đảm bảo nguyên tắc giao dịch điện tử trên thị trường chứng khoán, trong trường hợp thông tin nhà đầu tư tại công ty chứng khoán chưa khớp với thông tin trên Cơ sở dữ liệu Quốc gia về dân cư, nhà đầu tư chỉ được giao dịch trực tiếp tại văn phòng của công ty chứng khoán và không được giao dịch trực tuyến.
+
+Ngay sau khi nhận được yêu cầu này, một loạt công ty chứng khoán đã gửi thông báo đề nghị nhà đầu tư cập nhật thông tin căn cước công dân để đảm bảo hoạt động giao dịch thuận lợi, thông suốt.
+
+“Từ ngày 1/10, để đảm bảo nguyên tắc giao dịch điện tử, các trường hợp không cập nhật căn cước công dân trên tài khoản sẽ phải đến trực tiếp tại công ty chứng khoán để thực hiện giao dịch", Chứng khoán FPT (FPTS) đưa ra thông báo.
+
+Tương tự, các công ty chứng khoán như Yuanta, LPBank (LPBS), DNSE, VPS,... cũng đồng loạt ra thông báo theo yêu cầu cảu Ủy ban chứng khoán Nhà nước.
+
+Đối với Chứng khoán DNSE, khách hàng có thể chuẩn hóa thông tin theo cả hình thức trực tuyến trên ứng dụng hoặc trực tiếp tại quầy ở các chi nhánh, hội sở.
+
+Chứng khoán Rồng Việt (VDSC) cho biết chỉ cung cấp dịch vụ giao dịch online với các tài khoản có thông tin nhà đầu tư khớp đúng với căn cước công dân tại Cơ sở Dữ liệu quốc gia về dân cư. Chẳng hạn, nếu trước đây nhà đầu tư đăng ký thông tin bằng chứng minh nhân dân khi mở tài khoản, thì tới đây cần cập nhật mới theo căn cước công dân mới nhất có gắn chip.
+
+Trong khi đó, Chứng khoán VIX đề nghị trong trường hợp khách hàng chưa thực hiện cập nhật thông tin để chuẩn hoá dữ liệu, công ty sẽ  dừng cung cấp các dịch vụ giao dịch trực tuyến trên tài khoản giao dịch. Đồng thời, mọi giao dịch trên tài khoản giao dịch sẽ thực hiện trực tiếp tại quầy giao dịch, nhưng vẫn phải tiếp tục thực hiện chuẩn hoá thông tin tại quầy.
+
+Theo ghi nhận, đa số các công ty chứng khoán đều hỗ trợ nhà đầu tư cập nhật thông tin căn cước công dân trên ứng dụng, email hoặc đường bưu điện.
+
+Hiện nay, giao dịch trực tuyến hiện là phương thức giao dịch chính và phổ biến nhất trên thị trường chứng khoán. Thông qua các ứng dụng trên thiết bị di động hoặc nền tảng trực tuyến, nhà đầu tư có thể đặt lệnh, quản lý tài khoản, nạp/rút tiền ở bất kỳ đâu, chỉ cần có mạng Internet.
+
+Khác với xác thực sinh trắc học của ngân hàng, việc cập nhật khi giao dịch chứng khoán nhằm đồng bộ, khớp thông tin cá nhân giữa tài khoản và trên căn cước công dân. Các bước bảo mật trong giao dịch chứng khoán online vẫn chủ yếu sử dụng qua ứng dụng Smart OTP hoặc OTP qua tin nhắn, email khách hàng đã đăng ký với công ty chứng khoán. Đây là một hình thức xác thực 2 yếu tố (2FA) được sử dụng để bảo mật các tài khoản và giao dịch trực tuyến.
+
+Như vậy, sau ngân hàng đến các công ty chứng khoán yêu cầu nhà dầu tư cập nhật căn cước công dân nhằm thực hiện việc chuẩn hóa dữ liệu, đảm bảo thông tin trên tài khoản giao dịch chứng khoán của Nhà đầu tư phải trùng khớp với thông tin tại Cơ sở dữ liệu Quốc gia về dân cư đã được xác thực của Cục Cảnh sát Quản lý hành chính về trật tự xã hội Bộ Công An (CO6) theo yêu cầu của Công văn 4501/UBCK-CNTT.
+
+“Việc điều chỉnh thông tin nêu trên sẽ góp phần làm giảm nguy cơ thuê, mượn giấy tờ tùy thân mở tài khoản, thao túng, lũng đoạn thị trường, giúp đẩy nhanh việc triển khai Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 của Thủ tướng Chính phủ”, Đại diện Chứng khoán Yuanta cho biết.
+
+
+
+Theo thống kê từ Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSD), thị trường chứng khoán Việt Nam đã đón thêm 330.199 tài khoản mở mới trong tháng 7. Đây là lượng tài khoản mở mới hàng tháng cao nhất trong vòng 2 năm qua, thậm chí cao gấp 3 lần tháng liền trước.
+
+Tính tới cuối tháng 7, thị trường chứng khoán Việt Nam có gần 8,33 triệu tài khoản đang giao dịch. Trong đó, nhà đầu tư cá nhân chiếm chủ yếu với khoảng 8,31 triệu tài khoản.

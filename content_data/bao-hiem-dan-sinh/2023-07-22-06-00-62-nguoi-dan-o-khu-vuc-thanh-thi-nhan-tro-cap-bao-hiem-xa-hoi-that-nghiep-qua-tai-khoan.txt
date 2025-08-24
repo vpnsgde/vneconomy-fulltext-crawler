@@ -1,0 +1,37 @@
+Đây là một trong những kết quả được Bảo hiểm xã hội Việt Nam thông tin tại Hội nghị sơ kết công tác chuyển đổi số, thực hiện Đề án 06 của Chính phủ 6 tháng đầu năm 2023, triển khai nhiệm vụ 6 tháng cuối năm 2023 và đánh giá kết quả thí điểm ứng dụng xác thực sinh trắc học trong khám chữa bệnh bảo hiểm y tế và tiếp nhận hồ sơ, trả kết quả giải quyết thủ tục hành chính.
+
+Thông tin về một số kết quả cụ thể, Bảo hiểm xã hội Việt Nam cho biết, đối với việc kết nối với cơ sở dữ liệu quốc gia về dân cư, tính đến ngày 15/7/2023, hệ thống đã xác thực được trên 88,7 triệu thông tin nhân khẩu trong cơ sở dữ liệu do Bảo hiểm xã hội Việt Nam quản lý (trong đó có hơn 80 triệu người đang tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, chiếm 91% tổng số người tham gia) với cơ sở dữ liệu quốc gia về dân cư.
+
+Đồng thời, Hệ thống cũng đã cung cấp, chia sẻ hơn 123,8 triệu lượt bản ghi thông tin bảo hiểm xã hội, bảo hiểm y tế cho cơ sở dữ liệu quốc gia về dân cư. Đây là cơ sở để tiến hành chuyển đổi sang sử dụng số định danh cá nhân, số căn cước công dân thay thế cho mã số bảo hiểm xã hội.
+
+Đối với đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi, tính đến ngày 15/7, Bảo hiểm xã hội 2 địa phương triển khai làm điểm (Hà Nam và Hà Nội) đã tiếp nhận và giải quyết hơn 45.500 hồ sơ đề nghị cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi. Thời gian chờ cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi được rút ngắn từ 5 ngày xuống còn 2 ngày.
+
+Cùng với đó, có hơn 1.500 hồ sơ đề nghị giải quyết hưởng mai táng phí được giải quyết qua nhóm dịch vụ công trên, rút ngắn thời gian giải quyết từ 10 ngày xuống còn 7 ngày.
+
+Đối với dịch vụ công trực tuyến "Đăng ký tham gia bảo hiểm xã hội tự nguyện" trên Cổng Dịch vụ công, tính đến 15/7, Hệ thống đã tiếp nhận và xử lý 2.664 giao dịch đăng ký, đóng bảo hiểm xã hội tự nguyện.
+
+Riêng đối với dịch cụ công "Giải quyết hưởng bảo hiểm xã hội một lần” hiện thuộc nhóm áp dụng thí điểm xác thực chữ ký số được tích hợp trong ứng dụng trên thiết bị di động, Bảo hiểm xã hội Việt Nam đã hoàn thành việc tái cấu trúc quy trình nghiệp vụ; đã triển khai tích hợp thành công dịch vụ ký số từ xa (ký số trên thiết bị di động); đang hoàn thiện điều chỉnh phần mềm để triển khai trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam, tích hợp trên cổng Dịch vụ công quốc gia trong tháng 7/2023.
+
+Về giải quyết hưởng trợ cấp thất nghiệp, đã tiếp nhận từ Cổng Dịch vụ công quốc gia để xác nhận và trả quá trình đóng bảo hiểm thất nghiệp cho gần 187.700 trường hợp phục vụ giải quyết hưởng trợ cấp thất nghiệp cho người lao động.
+
+Bảo hiểm xã hội Việt Nam cũng phối hợp với các ngân hàng, các cơ quan liên quan đẩy mạnh chi trả các chế độ bảo hiểm xã hội, bảo hiểm y tế không dùng tiền mặt. Trong 6 tháng đầu năm 2023 có khoảng 62% số người hưởng nhận các chế độ bảo hiểm xã hội, trợ cấp thất nghiệp qua tài khoản cá nhân tại khu vực đô thị, vượt 2% (sớm 3 năm) so với chỉ tiêu do Thủ tướng Chính phủ giao.
+
+Ngoài ra, trên cơ sở dữ liệu tham gia bảo hiểm xã hội của người lao động (là sinh viên sau khi tốt nghiệp và đi làm), Bảo hiểm xã hội Việt Nam đã đồng bộ, chia sẻ cho Bộ Giáo dục và Đào tạo thông tin để theo dõi, đánh giá tình hình việc làm của sinh viên sau khi ra trường.
+
+Đây là thông tin rất quan trọng giúp đánh giá các trường đại học cũng như dự báo xu hướng nghề nghiệp và hoạch định chiến lược giáo dục, đào tạo. Ngược lại, Bộ Giáo dục và Đào tạo chia sẻ thông tin về học sinh, sinh viên chưa tham gia bảo hiểm y tế bắt buộc.
+
+Phát biểu tại hội nghị, Tổng Giám đốc Bảo hiểm xã hội Việt Nam Nguyễn Thế Mạnh đánh giá, những kết quả đạt được trong triển khai công tác chuyển đổi số, thực hiện Đề án 06 đã mang lại những thay đổi mang tính “bước ngoặt” trong mọi hoạt động của Ngành.
+
+Đây là tiền đề để toàn Ngành tiếp tục triển khai thành công các nhiệm vụ được giao trong thời gian tới với quyết tâm xây dựng thành công ngành Bảo hiểm xã hội Việt Nam số, theo đúng định hướng về Chính phủ số, đáp ứng yêu cầu đảm bảo an sinh xã hội quốc gia, phục vụ ngày càng tốt hơn người dân và doanh nghiệp.
+
+Trong 6 tháng cuối năm 2023, Bảo hiểm xã hội Việt Nam tiếp tục triển khai hiệu quả công tác chuyển đổi số, Đề án 06, trong đó tập trung củng cố, phát huy thế mạnh của hệ thống cơ sở dữ liệu sẵn có; tích cực phối hợp với các bộ, ngành, địa phương xác thực, chia sẻ, liên thông.
+
+Đồng thời, triển khai hiệu quả 2 nhóm thủ tục hành chính liên thông trên phạm vi toàn quốc; an toàn thông tin tiến tới xây dựng cơ sở dữ liệu lớn (big Data), điện toán đám mây…, tiếp tục tạo ra nhiều tiện ích, dịch vụ mang lại lợi ích thiết thực cho người dân, doanh nghiệp.
+
+
+
+Bảo hiểm xã hội Việt Nam đã hỗ trợ ngành Y tế liên thông dữ liệu khám sức khỏe lái xe, giấy chứng sinh, giấy báo tử từ cơ sở khám chữa bệnh qua hạ tầng của Bảo hiểm xã hội Việt Nam, đây là đầu vào quan trọng để phục vụ triển khai 2 nhóm thủ tục hành chính liên thông và dịch vụ công cấp đổi, cấp lại giấy phép lái xe trực tuyến.
+
+Tính đến ngày 15/7, toàn quốc có 1.080 cơ sở khám chữa bệnh đã gửi dữ liệu giấy khám sức khỏe lái xe, với 684.290 dữ liệu được gửi; có 1.170 cơ sở khám chữa bệnh gửi dữ liệu giấy chứng sinh, với 200.792 dữ liệu được gửi; 375 cơ sở khám chữa bệnh gửi dữ liệu giấy báo tử, với 2.266 dữ liệu được gửi.
+
+Với việc liên thông giấy khám sức khỏe lái xe tiếp nhận qua Bộ Giao thông vận tải đã giúp người dân có thể đề nghị cấp lại giấy phép lái xe trực tuyến (trước đây phải đến nơi cấp giấy phép lái xe để nộp bản giấy khám sức khỏe lái xe).

@@ -1,0 +1,19 @@
+Ngày nay, một số con chip máy tính có thể được bán với giá ngang một chiếc BMW mới. Khi máy tính càng trở nên hữu dụng và được ứng dụng gần như mọi lĩnh vực của cuộc sống, thì các con chip cung cấp năng lượng càng trở nên quan trọng.
+
+Các doanh nghiệp thiết kế, sản xuất ra chip từ đó cũng tăng doanh thu đáng kể. Dưới đây là bảng xếp hạng các công ty sản xuất chip bán dẫn lớn nhất theo tỷ lệ phần trăm doanh thu của ngành vào năm 2023. Dữ liệu được sử dụng từ nghiên cứu của Omdia.
+
+Công ty chip nào kiếm được nhiều tiền nhất vào năm 2023? Dẫn đầu thị trường và là công ty lâu đời về việc sản xuất chip bán dẫn, Intel vẫn giữ “vương miện” về doanh thu cao nhất của ngành. Năm 2023, doanh thu của Intel vượt 50 tỷ USD, tương đương 10% tổng doanh thu của ngành.
+
+Tuy nhiên, sau khi công bố khoản lỗ hàng tỷ USD trong hoạt động kinh doanh, tương lai của Intel đang trở nên xấu đi khi giá cổ phiếu tính đến thời điểm hiện tại đã giảm hơn 20%. Trong khi đó, Nvidia đang tăng trưởng nhanh, tiến gần đến việc vượt qua Intel.
+
+Doanh thu của Nvidia năm 2023 được công bố là 49 tỷ USD, con số này cao hơn gấp đôi doanh thu năm 2022 (khoảng 21 tỷ USD). Tỷ trọng doanh thu của hãng từ đó được nâng lên 9%.
+
+Sự trỗi dậy nhanh chóng của Nvidia đã nhận được sự quan tâm lớn từ các nhà đầu tư. Cổ phiếu của Nvidia tăng trưởng liên tục và phá vỡ kỷ lục tăng vốn hóa thị trường trong một ngày đầu năm 2024.
+
+Tuy nhiên, ở chiều hướng ngược lại, các nhà sản xuất chip khác không thành công như vậy. Trong số 20 công ty sản xuất chip bán dẫn hàng đầu theo doanh thu, 12 công ty không đạt được doanh thu như năm 2022, bao gồm những tên tuổi lớn như Intel, Samsung và AMD.
+
+Các công ty sản xuất nhiều loại chip khác nhau, không tập trung vào cùng một lĩnh vực. Theo Investopedia, có bốn loại chip chính, tùy thuộc vào chức năng của chúng: bộ vi xử lý, chip ghi nhớ, chip tiêu chuẩn và hệ thống vi mạch của chip.
+
+Hoạt động kinh doanh cốt lõi của Nvidia từng là GPU cho máy tính (bộ xử lý đồ họa), nhưng trong những năm gần đây, hoạt động này đã chuyển hướng mạnh mẽ sang bộ vi xử lý để phân tích và hỗ trợ trí tuệ nhân tạo - AI.
+
+Những con chip chuyên dụng này dường như là nơi diễn ra phần lớn sự tăng trưởng trong ngành sản xuất chip bán dẫn. Ví dụ: Các công ty chủ yếu hoạt động trong phân khúc chip bộ nhớ – Samsung, SK Hynix và Micron Technology – đạt doanh thu cao nhất vào giữa những năm 2010.

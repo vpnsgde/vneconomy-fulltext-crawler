@@ -1,0 +1,57 @@
+Nửa đầu năm 2024 ghi nhận 46 vụ lộ lọt dữ liệu tại Việt Nam với khoảng 13 triệu bản ghi dữ liệu khách hàng… Các mối đe dọa trên không gian mạng như mã độc tống tiền, giả mạo thông tin, các cuộc tấn công có chủ đích… sẽ ngày càng phức tạp và gia tăng.
+
+Theo báo cáo tình hình nguy cơ mất an toàn thông tin tại Việt Nam trong 6 tháng đầu năm 2024, hệ thống Viettel Threat Intelligence của Công ty An ninh mạng Viettel (VCS) đã ghi nhận nhiều nguy cơ mất an toàn thông tin mới xuất hiện có ảnh hưởng tới các tổ chức, doanh nghiệp tại Việt Nam, trong đó nổi bật là lộ lọt, rò rỉ dữ liệu, thông tin cá nhân bị đánh cắp tăng 50% so với cùng kỳ năm 2023; lừa đảo gian lận tài chính tăng và xu hướng tấn công mã hóa dữ liệu đòi tiền chuộc với số lượng dữ liệu bị mã hóa lớn.
+
+Dựa trên tình hình 6 tháng đầu năm, có thể thấy loại hình tấn công mạng chủ yếu diễn ra tại Việt Nam gần đây đa phần là tấn công mã hóa đòi tiền chuộc (ransomware), gây ra nhiều thiệt hại cho các doanh nghiệp cả về danh tiếng và kinh tế. Thống kê cho thấy có tới 56 tổ chức bước đầu đã bị tấn công ransomware.
+
+Cụ thể, trong nửa đầu năm 2024, số lượng dữ liệu bị tấn công mã hóa lên đến 3 Terabyte với tổng thiệt hại ước tính hơn 10 triệu USD. Điển hình có thể kể đến vụ tấn công của nhóm Lockbit vào một công ty tài chính vào hồi tháng 3 năm nay đã gây ra gián đoạn dịch vụ trong thời gian dài.
+
+Ngoài ra còn nhiều chiến dịch tấn công khác nhắm vào các mục tiêu trải dài trên nhiều lĩnh vực như bán lẻ, tài chính và công nghệ thông tin. Trong đó, Lockbit là nhóm mã độc có số lượng nạn nhân hàng đầu trên toàn thế giới trong vòng 2 năm trở lại đây.
+
+Kể từ tháng 9/2023, mã độc Lockbit và Affiliate yêu cầu mức tiền chuộc tối thiểu là 3% doanh thu công ty hàng năm và chỉ được giảm xuống thấp nhất là mức 1,5%. Bên cạnh mô hình RaaS, Lockbit sử dụng mô hình tống tiền kép, mã hóa tống tiền và đồng thời dọa sẽ công khai các dữ liệu đã đánh cắp, nếu nạn nhân không trả tiền trong khoảng thời gian yêu cầu thì dữ liệu sẽ bị đẩy lên trang web công khai của nhóm mã độc.
+
+Nghiên cứu chỉ rõ, các vụ tấn công ransomware có dấu hiệu tăng mạnh về số lượng và mức độ ảnh hưởng khi các công ty, tổ chức lớn trở thành mục tiêu bị nhắm đến nhiều nhất. Tin tặc thường tận dụng nhiều phương thức để phát tán ransomware bao gồm email lừa đảo, tạo ra các trang web giả mạo và sử dụng các lỗ hổng bảo mật để xâm nhập vào hệ thống mục tiêu. Mục tiêu chính của Ransomware là các máy chủ dễ bị tấn công, nơi có nhiều dữ liệu quan trọng và cơ hội lớn để đòi tiền chuộc.
+
+Hệ thống ghi nhận nhiều nguy cơ tấn công ransomware mã hóa dữ liệu và hạ tầng ảo hóa của các tổ chức, doanh nghiệp tại Việt Nam. Kẻ tấn công leo thang, nằm sâu trong hệ thống và thực hiện mã hóa qua các phương thức: lợi dụng lỗ hổng của các ứng dụng công khai trong tổ chức (email, website…); tài khoản đăng nhập các hệ thống quan trọng của các tổ chức bị đánh cắp…
+
+Trong hai quý đầu năm, có nhiều cảnh báo về các loại mã độc Stealer (đánh cắp thông tin) khác nhau nhắm mục tiêu vào khu vực Đông Nam Á và Việt Nam.
+
+Thống kê trong 6 tháng đầu năm đã ghi nhận 2.364 tên miền lừa đảo nhắm vào người dùng, khách hàng của các tổ chức lớn tại Việt Nam. Số lượng tên miền lừa đảo tăng 1,2 lần so với cùng kỳ năm 2023. Sự gia tăng về số lượng qua hàng năm cho thấy đây vẫn đang là xu hướng chính của các nhóm tội phạm công nghệ cao tại Việt Nam. Ngoài ra, Viettel Threat Intelligence cũng đã phát hiện và cảnh báo 496 trang giả mạo, sử dụng trái phép thương hiệu của các tổ chức lớn tại Việt Nam, tăng gấp 4 lần so với cùng kỳ năm 2023.
+
+Về mặt hình thức, trong nửa đầu năm 2024, các nhóm tội phạm áp dụng công nghệ AI (sử dụng AI tạo kịch bản lừa đảo, sử dụng DeepFake/DeepVoice, …) trong các chiến dịch lừa đảo. Một số hình thức lừa đảo phổ biến được các nhóm tội phạm mạng sử dụng trong các chiến dịch tấn công như: Lừa đảo, giả mạo các dịch vụ liên quan đến thẻ tín dụng; Lừa đảo, giả mạo cơ quan chức năng để cài đặt ứng dụng Android độc hại trên các thiết bị di động; Lừa đảo hỗ trợ thu hồi vốn, thu hồi tiền bị treo.
+
+Trong số các ngành, ngành tài chính ngân hàng vẫn là nhóm đứng đầu về các cuộc tấn công lừa đảo, giả mạo, chiếm tới 71% tổng số các cuộc tấn công.
+
+Trong nửa đầu năm 2024, số lượng lỗ hổng ghi nhận trên thế giới đã tăng 42% so với cùng kỳ năm 2023. Qua giám sát và xử lý sự cố, số lượng lỗ hổng phát hiện trong 6 tháng đầu năm 2024 tăng mạnh từ 12.410 của năm 2023 lên 17.648 lỗ hổng.
+
+Trong đó, tổng số lượng lỗ hổng mức cao và nghiêm trọng chiếm tỷ lệ 51% trên tổng số lỗ hổng được công bố trên không gian mạng. Viettel Threat Intelligence ghi nhận có 71 lỗ hổng trong 6 tháng đầu năm 2024 có nguy cơ ảnh hưởng lớn tới các tổ chức, doanh nghiệp tại Việt Nam.
+
+Ngoài ra, hệ thống Viettel Anti-DDoS của VCS đã ghi nhận tổng số cuộc tấn công từ chối dịch vụ phân tán (DDoS) lên tới gần 495.000 cuộc tấn công, tăng 16% so với tổng số cuộc tấn công trong 6 tháng đầu năm 2023. Trong đó, hơn 50% số lượng cuộc tấn công tập trung vào tháng 2.
+
+Đặc biệt trong quý 1 đã xuất hiện nhiều cuộc tấn công lợi dụng giao thức DNS để tấn công vào các khách hàng của VCS thuộc lĩnh vực tài chính, kết hợp với kiểu tấn công phức tạp Hitand-Run nhằm gây gián đoạn các dịch vụ của khách hàng.
+
+Nguyên nhân dẫn tới số lượng tấn công tăng cao hơn so với cùng kỳ năm 2023 là do sự thay đổi về hình thức tấn công. Nếu như trước đây, các cuộc tấn công DDoS là các cuộc tấn công với cường độ rất lớn, lên tới hàng trăm Gbps, tấn công với tần suất không quá nhiều thì giờ đây cuộc chơi về DDoS đã thay đổi.
+
+Trong nửa đầu năm 2024, Viettel Threat Intelligence ghi nhận hơn 61 triệu tài khoản bị lộ lọt, tăng 1,5 lần so với cùng kỳ năm 2023. Sự phát triển của các nhóm tấn công đánh cắp mã độc, cũng như mô hình Stealer-as-a-Service dẫn tới sự gia tăng mạnh mẽ số lượng tài khoản lộ lọt.
+
+Các chuyên gia cho biết có rất nhiều trường hợp lộ lọt thông tin tài khoản đăng nhập vào các hệ thống quan trọng và nhạy cảm như hệ thống Email, hệ thống quản lý tập trung SSO hoặc hệ thống VPN dùng để truy cập nội bộ. Điều này dẫn tới nguy cơ hệ thống doanh nghiệp sẽ bị ảnh hưởng lớn nếu các thông tin này rơi vào tay kẻ xấu với mục đích phá hoại, đánh cắp thông tin.
+
+Đầu năm 2024 chứng kiến sự bùng nổ của việc rao bán thông tin người dùng, dữ liệu hệ thống cùng nhiều dữ liệu nhạy cảm của các doanh nghiêp lớn tại Việt Nam. Số lượng các vụ rao bán, chia sẻ dữ liệu nhạy cảm tăng vọt vào tháng 5 và tháng 6. Nửa đầu năm 2024 ghi nhận 46 vụ lộ lọt dữ liệu tại Việt Nam với khoảng 13 triệu bản ghi dữ liệu khách hàng, 12,3GB mã nguồn, 16GB dữ liệu.
+
+Việc lộ lọt dữ liệu cũng có nguyên nhân do vô tình tải lên các nền tảng công khai. Trong 6 tháng đầu năm 2024, Viettel Threat Intelligence đã phát hiện nhiều trường hợp lộ lọt dữ liệu, trong đó có 7 trường hợp mức độ cao liên quan tới các lĩnh vực ngân hàng và công nghệ.
+
+
+
+Dự báo các xu hướng tấn công mạng 6 tháng cuối năm 2024:
+
+Với xu hướng công cụ AI ngày càng phát triển, các kỹ thuật mới và tội phạm công nghệ cao sẽ có chiều hướng gia tăng nhờ sự hỗ trợ đắc lực của AI. Qua đó, việc tấn công người dùng để thu lợi bất chính từ mã độc nhằm kiếm tiền trở nên phổ biến và phức tạp hơn rất nhiều. Trong đó, nhiều con đường tấn công nhắm vào người dùng sẽ có xu hướng:
+
+Thứ nhất,gia tăng các cuộc tấn công bằng mã độc không lưu trữ. Mã độc không lưu trữ sẽ tiếp tục gia tăng, do tính khó phát hiện của chúng. Các phần mềm bảo mật gặp khó khăn trong việc phát hiện loại mã độc này vì mã độc hoạt động chủ yếu trong bộ nhớ và không để lại dấu vết trên ổ đĩa.
+
+Thứ hai,tấn công chuỗi cung ứng. Các cuộc tấn công vào chuỗi cung ứng sẽ trở nên phổ biến hơn khi kẻ tấn công nhắm vào các nhà cung cấp dịch vụ hoặc phần mềm để xâm nhập vào hệ thống của khách hàng.
+
+Thứ ba,mã độc ransomware ngày càng tinh vi. Ransomware sẽ tiếp tục là mối đe dọa lớn với sự xuất hiện của các biến thể mới có khả năng mã hóa dữ liệu nhanh chóng và yêu cầu tiền chuộc cao hơn.
+
+Thứ tư,gia tăng sử dụng kỹ thuật Living off the Land (LotL). Kỹ thuật này được sử dụng nhiều hơn khi kẻ tấn công tận dụng các công cụ hợp pháp sẵn có trên hệ thống mục tiêu để thực hiện hành vi độc hại mà không cần tải xuống thêm công cụ hay mã độc nào khác.
+
+Ngoài ra, theo dự báo trong nửa cuối năm 2024, các chiến dịch tấn công lừa đảo, giả mạo sử dụng thương hiệu các tổ chức lớn tại Việt Nam vẫn sẽ tiếp tục gia tăng. Đặc biệt là hình thức lừa đảo mạo danh cơ quan chức năng để cài đặt ứng dụng độc hại trên thiết bị di động.

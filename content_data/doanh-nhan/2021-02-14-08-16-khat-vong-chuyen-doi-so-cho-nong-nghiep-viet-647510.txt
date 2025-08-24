@@ -1,0 +1,43 @@
+Với những kinh nghiệm và kiến thức chuyên ngành học ở nước ngoài, Tiến sĩ UAV Trần Phi Vũ và Thạc sĩ ngành Deep Learning Phạm Thanh Toàn đã sáng lập MiSmart - công ty chuyên nghiên cứu, chế tạo và sản xuất các thiết bị bay không người lái (UAV).
+
+Dự án này vừa giành giải nhất tại cuộc thi "Tìm kiếm giải pháp chuyển đổi số Việt Nam" do Bộ Thông tin và truyền thông tổ chức. Chia sẻ với Kinh tế Việt Nam, CEO MiSmart Phạm Thanh Toàn nói về những nhiệt huyết sáng tạo và khát khao mong muốn đóng góp cho chuyển đổi số nền nông nghiệp của đất nước.
+
+Lý do nào khiến một thạc sỹ về Deep Learning, trí tuệ nhân tạo (AI) du học tại Nhật Bản lại về nước làm những thiết bị bay không người lái (UAV) phục vụ cho những cánh đồng và ngành nông nghiệp, thưa anh?
+
+Vì tôi sinh ra trong một gia đình làm nông nghiệp. Chứng kiến những "nỗi đau" của người nông dân Việt Nam về được mùa mất giá, phải giải cứu các sản phẩm nông nghiệp như thanh long, dưa hấu đã đi sâu vào tâm trí tôi. Một trong những nguyên nhân dẫn đến tình trạng này là do cách thức canh tác của người nông dân hiện nay hoàn toàn thủ công, chưa áp dụng các công nghệ tiên tiến để số hóa được dữ liệu một cách đầy đủ để giải quyết thực trạng này.
+
+Theo tôi, muốn chuyển đổi số cho nông nghiệp thì trước tiên phải cơ giới hóa cho nông nghiệp. Với ý nghĩ và khát khao cống hiến, giúp điều gì đó cho người nông dân và đất nước, chúng tôi đã tiếp cận bằng cách tạo ra các thiết bị không người lái (drone) để phun tưới, xác định sức khỏe cho cây trồng.
+
+Dự án phát triển thiết bị không người lái có tên gọi MiSmart do tôi và đồng sáng lập, tiến sỹ về UAV Trần Phi Vũ (có 10 năm kinh nghiệm về thiết bị bay không người lái). Với thế mạnh của cả hai chúng tôi nên việc nghiên cứu đưa ra giải pháp và sản phẩm rất nhanh, đáp ứng đúng nhu cầu của người dùng.
+
+Anh có thể chia sẻ cụ thể hơn về cơ chế "thăm đồng và khám bệnh" cho cây trồng của các thiết bị này như thế nào?
+
+Đầu tiên, các thiết bị bay drone sẽ bay ra thăm các cánh đồng, thu thập hình ảnh gửi dữ liệu về máy chủ để xác định những dấu hiệu bất thường của cánh đồng. Sau khi tính toán cụ thể, drone thăm đồng sẽ tiếp tục bay ra các vùng thất thường này để zoom cận cảnh và sau đó dùng công nghệ trí tuệ nhân tạo (AI) để xác định bệnh cho cây trồng, sau đó gửi dữ liệu cho thiết bị drone phun tưới để bay ra phun tưới chính xác khu vực cần thiết.
+
+Thiết bị này đến nay đã được ứng dụng như thế nào vào thực tế nền nông nghiệp Việt Nam và mang lại hiệu quả thế nào? Với đặc thù nền nông nghiệp Việt Nam hiện nay còn manh mún thì làm thế nào để cơ giới hóa, chuyển đổi số, mở rộng ứng dụng các thiết bị tự động hóa như drone này?
+
+Chúng tôi bắt tay vào triển khai từ năm 2018 và đến năm 2020 chúng tôi đã thương mại hóa các sản phẩm thiết bị bay không người lái drone. Các thiết bị bay của chúng tôi đã được ứng dụng tại các tỉnh có mức độ chuyển đổi số mạnh cho nông nghiệp như Đồng Tháp, Tây Ninh, Long An...
+
+Ở những nơi đã ứng dụng thiết bị bay đã ghi nhận sản lượng mỗi ha đã tăng lên 1,2 lần do không phải dẫm đạp lên cây lúa, giảm 90% lượng nước tưới và 30% lượng thuốc trừ sâu. Hướng tới nền nông nghiệp chính xác, khi bắt đúng bệnh, phun đúng điểm, không tràn lan, giảm được lượng thuốc trừ sâu sẽ là yếu tố cốt lõi, quan trọng để giúp cho nền nông nghiệp Việt Nam càng ngày càng sạch, giảm dư lượng thuốc trừ sâu trong sản phẩm, tăng giá trị cho nông sản, đáp ứng đúng đủ các các yêu cầu quy trình của GlobalGap. Điều này sẽ tạo cơ hội cho các sản phẩm nông sản của Việt Nam xuất khẩu sang nước với giá cao hơn.
+
+Thiết bị này chủ yếu được ứng dụng trong các đơn vị cung cấp dịch vụ phun tưới, các trang trại, công ty, hợp tác xã nông nghiệp... Tôi cho rằng cơ giới hóa, hiện đại hóa nông nghiệp không có nghĩa là mỗi người nông dân phải sở hữu một thiết bị bay như thế này. Chỉ cần có những đơn vị vận hành đúng, chính xác các thiết bị công nghệ để hỗ trợ người nông dân bớt vất vả cơ cực. Thay vì trước đây người nông dân phải bỏ công và chi phí khoảng 50 triệu mỗi ha thì nay, với việc ứng dụng công nghệ thiết bị tự động hóa, vẫn mức đầu tư đó nhưng họ đỡ vất vả hơn mà sản lượng và giá trị sản phẩm lại tăng cao hơn.
+
+Hiện nay trên thị trường đã có rất nhiều thiết bị bay tương tự của nước ngoài phục vụ cho nông nghiệp. Vậy đâu là yếu tố để các doanh nghiệp, trang trại ứng dụng công này của Mismart?
+
+Yếu tố quan trọng và vượt trội của các thiết bị bay này so với các sản phẩm khác của nước ngoài hiện nay trên thị trường đó chính là phần mềm bay, phần mềm quản lý bay và tất cả các dữ liệu thu thập đều nằm ở trong lãnh thổ Việt Nam. Các phần mềm này cũng đơn giản và dễ dàng tương tác với người dùng Việt Nam. Điều đặc biệt, giá thành của các thiết bị bay drone mà chúng tôi cung cấp chỉ bằng một nửa so với các công nghệ nhập khẩu. Hiện nay các mẫu thiết bị bay tải trọng 25 kg của Trung Quốc có giá gần 500 triệu đồng nhưng các drone của Mismart chỉ có giá 250 triệu đồng.
+
+Theo tôi, muốn cơ giới hóa và để nhiều người nông dân được tiếp cận cơ giới hóa nhanh chóng nhất để có được nhiều dữ liệu trong ngành thì các thiết bị công nghệ phải có giá cả hợp lý và cạnh tranh. Do những thiết bị drone này hoàn toàn do người Việt Nam tạo ra nên chi phí sẽ thấp hơn. Ngoài ra việc bảo hành sửa chữa cũng thuận lợi, tức thời và dễ dàng cập nhật các tính năng mới cho thiết bị.
+
+Hiện đại hóa, chuyển đổi số nền nông nghiệp không chỉ là các thiết bị như drone phun tưới mà còn cần nhiều công nghệ thiết bị khác nữa? Mismart có kế hoạch phát triển tiếp các thiết bị sản phẩm khác phục vụ tự động hóa cho nông nghiệp?
+
+Để cơ giới hóa, hiện đại hóa nền nông nghiệp Việt Nam, ngoài thiết bị bay không người lái drone như hiện nay, chúng tôi đang hướng tới sản xuất, số hóa các máy cày, máy gặt tự động. Với những loại cây trồng không phun tưới bằng thiết bị bay drone như cà phê thì chúng tôi sẽ cung cấp các xe tự động chạy dưới đất để phun xịt từ dưới lên.
+
+Cũng trong thời gian tới chúng tôi sẽ triển khai dự án cung cấp các sản phẩm tàu ngầm lặn cho các bể nuôi thủy sản ngoài biển để quan sát, theo dõi sự sinh trưởng, phát triển của con tôm, cá... Với những dự án và giải pháp công nghệ tự động này, chúng tôi mong muốn khát khao mang đến nhiều lợi ích hơn cho nền nông nghiệp, cho nuôi trồng và người nông dân.
+
+Trong quá trình nghiên cứu phát triển và ứng dụng các giải pháp công nghệ thiết bị hiện đại hóa nền nông nghiệp, nhất là các thiết bị công nghệ mới có thách thức khó khăn gì không? Liệu các ngành hỗ trợ của Việt Nam hiện nay đã đáp ứng được nhu cầu trong sản xuất các thiết bị của Mismart?
+
+Tôi cho rằng, chuyển đổi số nền nông nghiệp sẽ không xảy ra khi chưa được cơ giới hóa toàn bộ các hoạt động, quy trình sản xuất của người nông dân bằng các công nghệ thiết bị tự động, có thể thu thập phân tích dữ liệu. Chỉ khi có nguồn dữ liệu đầy đủ, phong phú thì mới có thể ứng dụng trí tuệ nhân tạo (AI) vào phân tích.
+
+Hiện nay, khó khăn lớn nhất với việc nhân rộng các mô hình ứng dụng thiết bay drone cho nông nghiệp chính là vấn đề giấy phép bay. Ngoài ra, ở Việt Nam hiện nay chưa có nhiều thiết bị phụ trợ cho sản xuất của chúng tôi. Đơn cử như để có những thiết bị mạch như điều khiển tốc độ của drone chúng tôi phải nhập khẩu từ nước ngoài. Việt Nam cũng chưa có đơn vị nào cung cấp được mô tơ đảm bảo tiêu chuẩn yêu cầu cho thiết bị drone. Do đó, chúng tôi hy vọng trong thời gian tới sẽ ngành công nghiệp phụ trợ của Việt Nam sẽ phát triển để hỗ trợ cho lĩnh vực drone cũng như cơ khí để đáp ứng yêu cầu và có những ứng dụng rõ ràng, hiệu quả hơn.
+
+Hiện nay, tỷ lệ nội địa hóa của các thiết bị bay drone do chúng tôi sản xuất đang có tỷ lệ nội địa hóa khoảng 60% nhưng chúng tôi phấn đấu trong thời gian tới sẽ nâng tỷ lệ này lên 80%. Mismart đang và sẽ hợp tác với một số đối tác trong nước về phần cứng, có các xưởng lắp ráp sản xuất, cơ khí chính xác, sản xuất khung carbon. Sắp tới chúng tôi cũng sẽ hợp tác với một đối tác nước ngoài để chuyển giao, mở nhà máy sản xuất pin cung cấp cho phát triển drone và các thiết bị khác ở Việt Nam. Hiện nay, pin và mô tơ của drone vẫn phải nhập khẩu.

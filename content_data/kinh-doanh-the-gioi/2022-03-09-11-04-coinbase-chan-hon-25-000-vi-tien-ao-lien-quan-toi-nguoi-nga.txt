@@ -1,0 +1,23 @@
+Nền tảng giao dịch tiền ảo Coinbase Global Inc. ngày 8/3 cho biết đã chặn hơn 25.000 ví điện tử có liên quan tới các cá nhân và thực thể Nga mà sàn này cho là tham gia vào hoạt động bất hợp pháp.
+
+Các ví điện tử bị chặn này chiếm khoảng 0,2% trong tổng số 11,4 triệu người dùng giao dịch hàng tháng của Coinbase, theo dữ liệu năm 2021.
+
+Trong một bài đăng trên blog công ty, giám đốc pháp lý của Coinbase, Paul Grewal, cho biết sàn tiền ảo lớn nhất tại Mỹ đã cấm truy cập đối với các cá nhân Nga nằm trong diện bị Washington trừng phạt do cuộc tấn công vũ trang của Moscow nhằm vào Ukraine.
+
+Coinbase sử dụng phân tích chuỗi khối (blockchain) để xác định những ví điện tử có khả năng liên quan tới các cá nhân này, đồng thời đưa họ vào danh sách chặn nội bộ của công ty.
+
+“Hôm nay, Coinbase đã chặn hơn 25.000 địa chỉ ví điện tử liên quan tới các cá nhân và thực thể mà chúng tôi tin là đang tham gia vào hoạt động phi pháp, trong đó nhiều ví được xác định thông qua các cuộc điều tra chủ động của chúng tôi”, ông Grewal viết trên blog ngày 8/3. “Chúng tôi đã chia sẻ danh sách này với các cơ quan chính phủ để hỗ trợ thực thi các lệnh trừng phạt (với Nga)”.
+
+Theo nguồn tin của Bloomberg, sau khi Nga bắt đầu tấn công vũ trang vào Ukraine hồi cuối tháng 2, Chính quyền của Tổng thống Mỹ Joe Biden đã yêu cầu các sàn tiền ảo hỗ trợ nhằm đảm bảo rằng các cá nhân và tổ chức của Nga không sử dụng tiền điện tử để lách trừng phạt,
+
+Trong khi đó, các sàn tiền ảo lớn, bao gồm Coinbase và Binance nói rằng họ sẽ tuân thủ thực thi biện pháp trừng phạt nhằm hạn chế những cá nhân bị trừng phạt, nhưng sẽ không cấm toàn bộ người dùng Nga.
+
+Brian Armstrong, CEO của Coinbase, trước đó cho biết nhiều người dùng bình thường của Nga đang sử dụng tiền điện tử như một “cứu cánh khi đồng nội tệ của họ sụp đổ”.
+
+Giới phân tích nhận định, các biện pháp trừng phạt mà Mỹ cùng đồng minh phương Tây áp đặt lên các công ty và cá nhân Nga về cơ bản có thể cô lập họ khỏi thế giới phương Tây. Tuy nhiên, họ có khả năng tránh được lệnh trừng phạt nếu sử dụng tiền ảo với công nghệ chuỗi khối để giúp ẩn danh các giao dịch của mình. Tiền điện tử có thể giúp họ mua hàng hóa và dịch vụ, cũng như đầu tư vào các tài sản bên ngoài nước Nga mà các ngân hàng và tổ chức tài chính ở đó không thể phát hiện giao dịch.
+
+Không giống như tiền pháp định, vốn cần được chuyển các tổ chức thuộc bên thứ ba - có khả năng theo dõi, đóng băng và chặn dòng tiền - tiền ảo có thể được gửi trực tiếp từ người này cho người khác mà không phải lo lắng về lệnh hạn chế hay trừng phạt của các chính phủ.
+
+Người sở hữu tiền ảo cũng có thể mở nhiều ví ảo với nhiều địa chỉ khác nhau trên nhiều sàn giao dịch tiền ảo. Điều này khiến cho việc theo dõi các hoạt động trở nên cực kỳ khó khăn và càng khó hơn nữa để liên hệ các giao dịch với một cá nhân cụ thể. Ngoài ra, họ cũng có thể chọn các sàn tiền ảo không đặt trụ sở tại các khu vực pháp lý đang áp lệnh trừng phạt.
+
+Theo một tài liệu gần đây của Chính phủ Nga, hàng triệu người dân nước này đã tham gia vào thế giới tiền ảo và đang sở hữu tài sản tiền ảo trị giá hơn 2.000 tỷ Rúp (tương đương 22,9 tỷ USD). Còn theo dữ liệu từ cổng thanh toán TripleA, có trụ sở tại Singapore, hơn 17 triệu người Nga, tức khoảng 12% dân số, hiện sở hữu tiền ảo.

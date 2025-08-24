@@ -1,0 +1,17 @@
+Thông tư 15/2025/TT-BKHCN đặt ra các yêu cầu kỹ thuật cao hơn, chặt chẽ hơn đối với các phần mềm ký số và kiểm tra chữ ký số nhằm bảo đảm giá trị pháp lý của văn bản điện tử, bảo vệ quyền lợi của người dùng và thúc đẩy sự phát triển của thị trường thông qua việc nâng cao các yêu cầu từ phía người dùng.
+
+Theo đó, một trong những yêu cầu quan trọng của phần mềm ký số là chức năng kiểm tra hiệu lực của chứng thư chữ ký số trước khi cho phép người dùng thực hiện ký số. Phần mềm cũng phải hỗ trợ gắn dấu thời gian khi cần thiết và đảm bảo tính toàn vẹn của thông điệp dữ liệu sau khi ký.
+
+Phần mềm kiểm tra chữ ký số sẽ kiểm tra chữ ký số theo một "đường dẫn tin cậy", bảo đảm chứng thư số của người ký có liên kết đến chứng thư chữ ký số gốc của Trung tâm Chứng thực điện tử quốc gia (NEAC) hoặc thuộc danh sách tin cậy của nước ngoài được Việt Nam công nhận. Đặc biệt, phần mềm phải hiển thị thông báo kết quả kiểm tra hợp lệ hay không hợp lệ bằng tiếng Việt, cùng các thông tin chi tiết về người ký, thời điểm ký và tính toàn vẹn của dữ liệu.
+
+Về cập nhật tiêu chuẩn quốc tế, phụ lục của Thông tư yêu cầu áp dụng các tiêu chuẩn an toàn mới, trong đó yêu cầu về độ dài khóa tối thiểu cho thuật toán RSA là 2048 bit và cho ECDSA là 256 bit, đồng thời khuyến nghị áp dụng các bộ tiêu chuẩn ký số cho PDF (PAdES), XML (XAdES) và CMS (CAdES) theo chuẩn châu Âu.
+
+Bên cạnh đó, Thông tư 15/2025/TT-BKHCN giới thiệu Cổng kết nối dịch vụ chứng thực chữ ký số công cộng (gọi tắt là Cổng eSign) do Bộ Khoa học và Công nghệ xây dựng. Đây là một cổng kết nối tập trung, phục vụ việc kết nối dịch vụ của tất cả các Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng (CA) với các hệ thống thông tin phục vụ giao dịch điện tử (như Cổng dịch vụ công, hệ thống của ngân hàng, thuế, hải quan...).
+
+Các tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng và các hệ thống thông tin phục vụ giao dịch điện tử có sử dụng chữ ký số kết nối đến Cổng eSign để thực hiện ký số. Việc kết nối đến một hệ thống tập trung sẽ giúp đơn giản hóa quá trình tích hợp cho các đơn vị phát triển ứng dụng (chỉ cần kết nối đến một đầu mối thay vì kết nối tới từng CA riêng lẻ), đồng thời đảm bảo tính đồng bộ, an toàn và khả năng tương thích trên toàn quốc. Trung tâm Chứng thực điện tử quốc gia (NEAC) là đơn vị đầu mối hỗ trợ, hướng dẫn việc kết nối đến Cổng eSign.
+
+Để thông tư nhanh chóng phát huy hiệu quả trong thực tiễn, bảo đảm sự đồng bộ trong triển khai các phần mềm ký số, kiểm tra chữ ký số và kết nối dịch vụ chứng thực chữ ký số công cộng, Trung tâm Chứng thực điện tử quốc gia (NEAC) đóng vai trò nòng cốt trong việc tổ chức triển khai.
+
+Trong thời gian qua, NEAC đang tiến hành biên soạn các tài liệu hướng dẫn chi tiết, hệ thống câu hỏi cho các tổ chức, cá nhân phát triển phần mềm, các Tổ chức cung cấp dịch vụ chứng thực chữ ký số (CA) và các chủ quản hệ thống thông tin thực hiện đúng các nội dung kỹ thuật của Thông tư. Đồng thời Trung tâm cũng thiết lập các kênh trực tuyến để giải đáp thắc mắc về quy trình, tiêu chuẩn để giải quyết kịp thời.
+
+Thông tư 15/2025/TT-BKHCN được xây dựng dựa trên Luật Giao dịch điện tử 2023 và Nghị định 23/2025/NĐ-CP, tạo ra một hành lang pháp lý kỹ thuật thống nhất, an toàn và hiện đại cho các hoạt động giao dịch điện tử tại Việt Nam. Thông tư số 15/2025/TT-BKHCN được xem là nền tảng pháp lý – kỹ thuật vững chắc, thúc đẩy chuẩn hóa, bảo đảm minh bạch, tăng cường an toàn cho mọi giao dịch số của cá nhân, tổ chức tại Việt Nam, thúc đẩy niềm tin số quốc gia, tạo động lực cho chuyển đổi số thành công.

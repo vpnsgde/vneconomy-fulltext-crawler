@@ -1,0 +1,37 @@
+Bộ Tài chính, Ủy ban Chứng khoán Nhà nước đang hoàn thiện dự thảo Thông tư sửa đổi, bổ sung một số điều của Thông tư số 119/2020/TT-BTC và Thông tư số 96/2020/TT-BTC đã được sửa đổi, bổ sung theo Thông tư số 68/2024/TT-BTC. Dự thảo đã sửa đổi, bổ sung một số quy định mới để hoạt động đăng ký, lưu ký, bù trừ và thanh toán giao dịch chứng khoán diễn ra thông suốt, an toàn, vừa phù hợp với tính năng của Hệ thống KRX, vừa đảm bảo tiêu chí nâng hạng
+
+Dự kiến Thông tư này sẽ sớm được trình Bộ Tài chính để xem xét ban hành theo trình tự thủ tục rút gọn. Việc ban hành Thông tư theo trình tự, thủ tục rút gọn là rất cần thiết để kịp thời gian dự kiến vận hành chính thức của Hệ thống KRX vào đầu tháng 5 tới, khi hệ thống này có nhiều tính năng mới so với hệ thống hiện tại.
+
+Theo thông tin từ Ủy ban Chứng khoán Nhà nước, trên hệ thống hiện tại, thông tin nhận diện người sở hữu chứng khoán là số hiệu (số đăng ký sở hữu), ngày cấp các loại giấy tờ còn hiệu lực do cơ quan có thẩm quyền của Việt Nam hoặc nước ngoài cấp cho tổ chức, cá nhân sở hữu chứng khoán được Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC) ghi nhận để xác định, theo dõi và quản lý thông tin người sở hữu chứng khoán trên hệ thống của VSDC.
+
+Tuy nhiên, trên Hệ thống KRX, thông tin nhận diện người sở hữu chứng khoán, nhà đầu tư (SID) là mã số định danh nhà đầu tư gồm 15 ký tự được hệ thống tự sinh cho nhà đầu tư căn cứ trên thông tin số đăng ký sở hữu, ngày cấp số đăng ký sở hữu và loại hình của nhà đầu tư.
+
+Vì thế, để phù hợp với cách xác định thông tin nhận diện người sở hữu, nhà đầu tư của Hệ thống KRX, dự thảo Thông tư mới sẽ bổ sung giải thích từ ngữ "thông tin nhận diện người sở hữu chứng khoán, nhà đầu tư" theo tính năng thiết kế của Hệ thống KRX để thành viên lưu ký, VSDC sử dụng thống nhất trong quá trình xử lý hồ sơ nghiệp vụ đăng ký, lưu ký chứng khoán.
+
+Cùng với đó, trên hệ thống hiện tại, VSDC đồng thời sử dụng cả hai phương thức văn bản giấy và giao dịch điện tử trên hệ thống kết nối giữa VSDC và thành viên. Trong khi đó, Hệ thống KRX đã phát triển tính năng xử lý qua điện tử cho tất cả các nghiệp vụ đăng ký, lưu ký chứng khoán.
+
+Chính vì vậy, nhằm khai thác tốt tính năng hệ thống mới cũng như đáp ứng yêu cầu về chuyển đổi số theo chủ trương chung của Chính phủ, dự thảo Thông tư quy định rõ việc gửi nhận chứng từ điện tử, nguyên tắc xử lý hồ sơ nghiệp vụ của thành viên với VSDC phù hợp với tính năng điện tử nghiệp vụ trên hệ thống mới và quy định rõ trách nhiệm của thành viên để đảm bảo tính chính xác trong các thông tin gửi đến VSDC.
+
+Một điểm mới khác là tại hệ thống hiện tại, cổ phiếu lẻ, phần lẻ cổ phần phát sinh do thực hiện quyền trên tài khoản nào sẽ được phân bổ về đúng tài khoản đó. Song trên Hệ thống KRX, trường hợp nhà đầu tư có nhiều tài khoản mở tại nhiều công ty chứng khoán và các tài khoản này đều có cùng một mã chứng khoán thực hiện quyền thì cổ phiếu lẻ, phần lẻ cổ phần phát sinh do thực hiện quyền sẽ được phân bổ về tài khoản chưa lưu ký của nhà đầu tư tại tổ chức phát hành (là tài khoản mặc định được Hệ thống KRX tạo ra cho nhà đầu tư). Theo đó, dự thảo thông tư sẽ sửa đổi, bổ sung quy định về việc phân bổ phần lẻ cổ phần cộng dồn để phù hợp tính năng của hệ thống KRX.
+
+Ngoài ra, về hoạt động chuyển khoản chứng khoán, hệ thống hiện tại cho phép chuyển khoản quyền chưa được thực hiện giữa các tài khoản của cùng một nhà đầu tư ngay cả khi nhà đầu tư đã bán toàn bộ chứng khoán. Trong khi đó, Hệ thống KRX chỉ cho phép chuyển khoản quyền khi còn chứng khoán gốc đã phát sinh quyền. Vì thế, dự thảo cũng sẽ sửa đổi, bổ sung quy định chuyển khoản chứng khoán và quyền phát sinh kèm theo (nếu có) để phù hợp với Hệ thống KRX và giải quyết vướng mắc phát sinh thực tiễn.
+
+Đặc biệt, dự thảo cũng sẽ bổ sung thêm trường hợp chuyển quyền sở hữu để xử lý cho giao dịch mua cổ phiếu của nhà đầu tư nước ngoài là tổ chức không yêu cầu có đủ tiền khi đặt lệnh (giao dịch Non-Prefunding) khi áp dụng KRX và xử lý tài sản đảm bảo để thu hồi tiền đã sử dụng từ quỹ hỗ trợ thanh toán do Hệ thống KRX không cho phép lùi, hủy đối với các giao dịch thiếu tiền.
+
+Theo Ban soạn thảo, hoạt động bù trừ, thanh toán hiện tại chưa theo Cơ chế đối tác bù trừ trung tâm (CCP) được thực hiện theo quy định tại Thông tư số 05/2015/TT-BTC, Thông tư số 68/2024/TT-BTC. Theo đó, quy định hiện hành cho phép lùi, hủy thanh toán đối với các giao dịch thiếu tiền thanh toán, chưa có quy định thực hiện vay chứng khoán qua hệ thống vay và cho vay chứng khoán theo cơ chế khớp lệnh, chưa có quy định loại bỏ thanh toán mặc định từ hệ thống.
+
+Đồng thời, quy định hiện tại cho phép nhà đầu tư nước ngoài là tổ chức khi mua cổ phiếu chỉ phải chuyển tiền vào tài khoản thanh toán của thành viên lưu ký mở tại ngân hàng thanh toán vào sáng T 2; và không phân chia theo các khu vực thị trường liên quan đến thành viên của VSDC.
+
+Trong khi đó, Hệ thống KRX có các tính năng khác như: không cho phép lùi, hủy thanh toán đối với các giao dịch thiếu tiền thanh toán đã hoàn tất việc sửa lỗi vào ngày T 1, giao dịch thiếu tiền vào ngày T 2; cho phép vay chứng khoán qua hệ thống vay và cho vay chứng khoán theo cơ chế khớp lệnh để đảm bảo đủ chứng khoán thanh toán; mặc định loại bỏ thanh toán trong một số trường hợp mà hệ thống KRX nhận diện không đủ trường thông tin dữ liệu nhập vào; và có phân chia theo 4 khu vực thị trường, liên quan đến thành viên của VSDC (gồm thành viên lưu ký và thành viên bù trừ).
+
+Vì những điểm mới nêu trên nên dự thảo Thông tư mới sẽ sửa đổi giải thích từ ngữ “Khu vực thị trường” để giải thích bao quát thành viên của VSDC do quy định hiện tại chỉ gồm thành viên bù trừ mà chưa có thành viên lưu ký.
+
+Cùng với đó, dự thảo sẽ bổ sung Chương IVa để hướng dẫn hoạt động bù trừ, thanh toán giao dịch chứng khoán khi chưa triển khai cơ chế CCP và phù hợp với Hệ thống KRX. Các nội dung tại Chương IVa được xây dựng trên cơ sở kế thừa các quy định còn phù hợp tại Thông tư số 05/2015/TT-BTC và sửa đổi, bổ sung thêm các quy định mới cho phù hợp tính năng hệ thống KRX và vẫn đáp ứng tiêu chí nâng hạng thị trường chứng khoán như đã đề ra tại Thông tư số 68/2024/TT-BTC.
+
+Đối với giao dịch mua cổ phiếu của nhà đầu tư nước ngoài là tổ chức không yêu cầu có đủ tiền khi đặt lệnh đang thực hiện theo Thông tư số 68/2024/TT-BTC sẽ điều chỉnh để đảm bảo phù hợp với hoạt động xử lý nghiệp vụ của hệ thống KRX và hạn chế thấp nhất sự khác biệt trong áp dụng giao dịch Non-Prefunding so với quy định tại Thông tư số 68/2024/TT-BTC.
+
+Để hạn chế một phần rủi ro trong trường hợp thành viên lưu ký mất khả năng thanh toán sử dụng khoản đóng góp của thành viên lưu ký khác, dự thảo Thông tư quy định VSDC được phong tỏa, bán chứng khoán trên tài khoản tự doanh của thành viên lưu ký mất khả năng thanh toán, chứng khoán nhận về từ giao dịch thiếu tiền.
+
+Đồng thời, VSDC được yêu cầu ngân hàng thanh toán trích số tiền nhận về từ giao dịch bán chứng khoán trên tài khoản tự doanh của thành viên lưu ký sang tài khoản của quỹ hỗ trợ thanh toán để thu hồi số tiền thành viên lưu ký mất khả năng thanh toán đã sử dụng từ khoản đóng góp của thành viên lưu ký khác và bù đắp các chi phí phát sinh có liên quan.
+
+Ngoài ra, tăng chế tài xử lý vi phạm như đình chỉ hoạt động thanh toán giao dịch chứng khoán, đình chỉ hoạt động giao dịch của thành viên trong trường hợp thành viên không hoàn trả tiền sử dụng quỹ hỗ trợ thanh toán đúng thời hạn.

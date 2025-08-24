@@ -1,0 +1,47 @@
+Tại “Hội thảo Phòng, chống lừa đảo trên không gian mạng” gần đây do Hiệp hội An ninh mạng quốc gia (NCA) tổ chức, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) cho biết, có 24 phương thức lừa đảo trực tuyến khác nhau. Tất cả những phương thức này đều có điểm chung là khi kẻ xấu đều có sẵn nguồn dữ liệu cá nhân của nạn nhân trước khi thực hiện ý đồ.
+
+Theo ông Đào Đức Triệu, Phó Tổng thư ký, Trưởng ban Ban Nghiên cứu, tư vấn Chính sách, Pháp luật NCA, đến nay, số lượng các vụ lộ lọt dữ liệu cá nhân lên đến cả chục triệu, trong đó, dữ liệu liên quan đến thông tin cá nhân và tài khoản mạng xã hội bị đánh cắp nhiều nhất. Hơn nữa, vi phạm về mua bán trái phép dữ liệu cá nhân đang diễn ra tràn lan nên rất dễ dàng để tìm mua trái phép trên các nền tảng mạng xã hội.
+
+Theo trên, những trường hợp bị lộ dữ liệu nhạy cảm từ camera giám sát đều xuất phát từ nguyên nhân chủ quan của người dân khi không thay đổi mật khẩu mặc định hoặc không đặt cấu hình riêng tư cho camera.
+
+
+
+“Trong tương lai, khi công nghệ phát triển, trí tuệ nhân tạo có thể định danh, cung cấp thông tin cá nhân thông qua hình ảnh trong video thì mối nguy về an toàn càng lớn hơn”.
+
+ÔngĐào Đức Triệu,Phó Tổng thư ký, Trưởng ban Ban Nghiên cứu, tư vấn Chính sách, Pháp luật NCA.
+
+Ông Triệu cho biết thêm, lộ lọt dữ liệu cá nhân còn xuất phát ngay từ việc mất cảnh giác khi đặt mật khẩu các tài khoản cũng như nhận thức bảo vệ dữ liệu cá nhân của người dân chưa cao.
+
+Thực tế cho thấy, bình quân mỗi người dân đều đang sở hữu một vài tài khoản như tài khoản mạng xã hội, tài khoản ngân hàng hay các dịch vụ tiện ích khác trên Internet.
+
+Đó là cơ hội vàng đối với những người chuyên đi “chôm chỉa” dữ liệu cá nhân phục vụ ý đồ xấu.
+
+Rất nhiều trường hợp đặt mật khẩu các tài khoản này thường chỉ xoay quanh họ tên, ngày tháng năm sinh hoặc họ tên người thân của chủ tài khoản. Cũng có người chỉ đặt một mật khẩu chung cho rất nhiều tài khoản. Ngược lại, có những trường hợp lại sử dụng quá nhiều mật khẩu đến mức không thể nhớ được hết và phải ghi vào ghi chú trên thiết bị.
+
+Chính việc đặt mật khẩu quá dễ đoán hay lưu trữ thông tin mật khẩu tài khoản bằng ghi chú, khi thất lạc điện thoại hoặc bị chiếm quyền điều khiển, kẻ gian dễ dàng đánh cắp dữ liệu cá nhân.
+
+Ngoài ra, thủ đoạn của các đối tượng vô cùng tinh vi khi tấn công trực tiếp vào lòng tham. Ông Triệu chia sẻ về trường hợp mới đây tại một khu công nghiệp, một doanh nghiệp “núp bóng” tổ chức tài chính đặt bàn mở thẻ tín dụng cho công nhân, mỗi một người đăng kí sẽ được cho một ít tiền.
+
+Nhiều người được tiền đã “hồn nhiên” cung cấp mọi thông tin cá nhân từ số điện thoại, số căn cước công dân. Từ đó, kẻ xấu đánh cắp thông tin cá nhân lập ra các tài khoản “ma” và rất khó để truy vết.
+
+Theo ông Nguyễn Thanh Bình, chuyên gia tư vấn An ninh mạng toàn cầu của FPT IS, các đối tượng lừa đảo sẽ tấn công vào điểm yếu tâm lý mang tính bản năng của con người. Đó có thể là lòng tham, sự lo lắng, tò mò, sự quan tâm hay trắc ẩn. Khác với hệ thống công nghệ phần mềm, rất khó có thể đưa ra những bản cập nhật, bản “vá” những vấn đề về mặt tâm lý.
+
+Do đó, nâng cao tuyên truyền, nâng cao nhận thức là một trong những phương pháp hàng đầu để phòng, chống lừa đảo trực tuyến.
+
+
+
+Mộtđiều gây bất ngờ là khi triển khai phishing chủ động tại một doanh nghiệp có 5 chi nhánh ở ba miền trêntoàn quốc thì trung bình 50% nhân viên mở email lừa đảo mà không phát hiện ra thông tin giả mạo. Trong đó, có 60% trong số này đã bấm vào đường linkdẫn tới website giả mạo; số lượng nhân viên ở chi nhánh miền Nam bấm vào website giả mạo ít hơn so với miền Bắc.
+
+Ông Nguyễn Thanh Bình,chuyên gia tư vấn An ninh mạng toàn cầu của FPT IS
+
+Theo chuyên gia, các giải pháp tuyên truyền trên các phương tiện truyền thông hiện nay đều là những phương thức bị động bởi phải chờ người dùng quan tâm, tìm kiếm. Tuy nhiên, các sự việc lừa đảo vẫn diễn ra thường xuyên và người dùng thường chỉ quan tâm khi đã trở thành nạn nhân.
+
+Giải pháp của chuyên gia đề ra có tính chủ động hơn khi trực tiếp tạo ra tình huống giả định khi người dùng bị lừa, được gọi là “phishing chủ động”.
+
+Phishinglà hình thức giả hành vi giả mạo nhằm lấy được các thông tin nhạy cảm như tên người dùng, mật khẩu và các chi tiết thẻ tín dụng bằng cách giả dạng thành một chủ thể tin cậy.
+
+Phishing chủ động là sự phối hợp có chủ đích của nhà cung cấp với khách hàng nhằm thu thập, tổng hợp dữ liệu về hành vi như mở email lừa đảo, bấm vào website giả mạo hay để lại thông tin trên website giả mạo,… của người dùng trong trường hợp giả định, từ đó đưa ra những bản tin cảnh báo trực tiếp tới người dùng tại các doanh nghiệp.
+
+Vị chuyên gia này tin rằng, phishing chủ động khi được sử dụng thường xuyên với tần suất 6 tháng hoặc 1 năm lần sẽ “vá” được tâm lý chủ quan của người dân trong bảo vệ dữ liệu cá nhân thông qua tăng khả năng nhận thức các trường hợp lừa đảo.
+
+Nếu được triển khai với quy mô quốc gia sẽ cho phép cơ quan nhà nước nắm được cấu trúc của dân cư về mặt địa lý, lứa tuổi, đặc thù công việc,… ứng với các điểm yếu bảo mật, từ đó đưa ra những chiến dịch đào tạo ở quy mô lớn hiệu quả hơn, góp phần nâng cao nhận thức toàn dân, tạo ra môi trường mạng an toàn, lành mạnh.

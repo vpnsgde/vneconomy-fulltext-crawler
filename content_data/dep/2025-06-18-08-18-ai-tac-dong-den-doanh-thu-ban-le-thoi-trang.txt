@@ -1,0 +1,37 @@
+AI sử dụng học máy để xử lý khối lượng dữ liệu khổng lồ và đưa ra dự đoán. Dữ liệu được thu thập từ các trang mạng xã hội, trang thương mại điện tử, các buổi trình diễn thời trang,… giúp AI có thể phân tích và dự đoán chính xác các xu hướng thời trang tiếp theo.
+
+Chẳng hạn, AI thu thập dữ liệu từ các nền tảng như Instagram, Pinterest và TikTok để phân tích các bài đăng, hashtag và nguồn cấp dữ liệu từ những người có tầm ảnh hưởng, để xác định các xu hướng hàng đầu về kiểu dáng và màu sắc.
+
+Công nghệ này cũng có thể phân tích dữ liệu mua sắm trực tuyến cung cấp cho AI thông tin về sự lựa chọn và thói quen của khách hàng cũng như mặt hàng nào đang được ưa chuộng. Đặc biệt AI phân tích hồ sơ bán hàng của các cửa hàng bán lẻ để tìm ra hiệu suất của từng mặt hàng trong quá trình bán hàng.
+
+Trên thế giới, nhiều thương hiệu thời trang và nhà bán lẻ đã sử dụng AI để dự báo xu hướng và từ đó tác động trực tiếp đến doanh thu bán lẻ của mình. Nhờ tích hợp AI vào quy trình vận hành, Zara có thể kiểm tra dữ liệu từ phản hồi của khách hàng và kết quả bán hàng. Với những thông tin và dữ liệu có giá trị đó, Zara có thể thiết kế và sản xuất các bộ sưu tập mới, phù hợp xu hướng để đáp ứng tốt hơn nhu cầu của khách hàng.
+
+H&M sử dụng AI để dự đoán nhu cầu và giảm thiểu số lượng quần áo tồn kho bằng cách phân tích kiểu dáng và kích cỡ nào có khả năng bán chạy nhất, từ đó kiểm soát hàng tồn kho hiệu quả hơn. Stitch Fix thông qua việc ứng dụng AI để cung cấp giải pháp thời trang cá nhân hóa dựa trên sở thích của khách hàng, giúp tăng tỷ lệ hài lòng và lòng trung thành của khách hàng.
+
+Dù phải đối mặt với nhiều thách thức, một số công ty khác cũng đang từng bước đưa AI vào hỗ trợ kinh doanh. Theo tờ The Guardian, thương hiệu Marks & Spencer (M&S) đang ứng dụng AI gợi ý trang phục phù hợp dựa trên những thông tin mà khách hàng cung cấp, giúp việc mua sắm cá nhân hóa trở nên dễ dàng hơn. Hệ thống này đang giúp M&S tăng doanh số bán quần áo trực tuyến và thu hút khách hàng tương tác nhiều hơn.
+
+Vào tháng 10/2024, Who What Wear đã ra mắt trợ lý ISA (viết tắt của Intelligent Shopping Assistant - Trợ lý Mua sắm Thông minh) dưới dạng chatbot giúp khách hàng tìm sản phẩm họ cần. Một số ví dụ khác về trợ lý AI hiện có như: Virtual Artist của Sephora, Rufus của Amazon, ShopBot của eBay và Room Planner của IKEA.
+
+Theo AnalyticsInsight, với tiềm năng to lớn của mình, AI sẽ ngày càng được sử dụng phổ biến trong việc dự đoán cũng như hoạt động vận hành của các hãng thời trang và nhà bán lẻ. Dựa trên những tiến bộ hiện tại, phân tích xu hướng theo thời gian thực sẽ ngày càng được coi trọng, do đó nó sẽ được tích hợp vào các hệ thống AI đang hoạt động của các doanh nghiệp, cho phép phân tích các nguồn thông tin đa dạng theo thời gian thực để hỗ trợ kinh doanh.
+
+Công ty khởi nghiệp Hangzhou Zhiyi Technology (Trung Quốc) thời gian qua đã áp dụng AI vào thiết kế và sản xuất trang phục, giúp các thương hiệu nổi tiếng như Nike, Gap và Urban Revivo dự đoán các xu hướng thời trang tiếp theo.
+
+Được thành lập vào năm 2018, Hangzhou Zhiyi Technology tập trung vào việc tổng hợp dữ liệu kiểu dáng cùng doanh số từ các trang mua sắm và mạng xã hội lớn trên thế giới, cung cấp cho khách hàng những phân tích về xu hướng thị trường thời trang dựa trên dữ liệu.
+
+Zheng Zeyu, nhà sáng lập kiêm Giám đốc điều hành Hangzhou Zhiyi Technology, nói trong một cuộc phỏng vấn với tờ SCMP rằng chuyên môn của công ty này giúp nhà bán lẻ thời trang nhanh Urban Revivo tăng khả năng tạo ra các mặt hàng bán chạy nhất lên 5 điểm phần trăm trong ba năm đầu hợp tác. Urban Revivo thường tung ra hơn 100.000 mẫu thiết kế mỗi năm.
+
+Hangzhou Zhiyi Technology cũng giúp Urban Revivo cải thiện tỷ lệ bán ra từ 60% lên 80% trong cùng kỳ ba năm đó. Trong số khoảng 12 công cụ mà Hangzhou Zhiyi Technology cung cấp, Urban Revivo chủ yếu sử dụng Zhiyi, có nghĩa là “hiểu về quần áo”, vốn là phần mềm chủ lực của công ty khởi nghiệp này kể từ năm 2018.
+
+Zhiyi giúp người dùng cập nhật các mẫu thiết kế bán chạy nhất được tìm thấy trên thị trường Taobao và Tmall của gã khổng lồ thương mại điện tử Alibaba, cũng như trên Douyin (thuộc sở hữu của ByteDance) và RedNote, đồng thời theo dõi doanh số và đánh giá của các đối thủ cạnh tranh.
+
+Với Nike, Hangzhou Zhiyi Technology cung cấp dữ liệu và phân tích, gồm cả các chủ đề như màu sắc cho giày tập gym và liệu giày thể thao ngoài trời có nên có thiết kế cổ cao hay không...
+
+Năm 2024, Hangzhou Zhiyi Technology đã ra mắt dịch vụ Trendscopes cho các khách hàng nước ngoài. Dịch vụ này theo dõi xu hướng trên các nền tảng bán lẻ gồm Amazon.com, Shein, Temu và TikTok, cũng như những trang mạng xã hội như Instagram.
+
+Tom Standage, phó tổng biên tập của The Economist, dự đoán rằng năm 2025, trí tuệ nhân tạo sẽ là canh bạc lớn nhất trong lịch sử kinh doanh. Hơn 1 nghìn tỷ USD đã được chi cho các trung tâm dữ liệu phục vụ AI, mặc dù các công ty có thể vẫn chưa thực sự biết cách tận dụng tối đa và tỷ lệ sử dụng còn thấp, nhưng các dữ liệu quan trọng thực sự có thể định hình tương lai của ngành bán lẻ.
+
+Còn theo Dmitry Shevelenko, Giám đốc kinh doanh của Perplexity AI, tiềm năng của AI trong phân tích dữ liệu bán lẻ là vô cùng lớn. Trong thời gian tới, các trợ lý bán hàng này có thể đáp ứng chính xác nhu cầu của người tiêu dùng dựa trên sự kết hợp giữa lịch sử mua sắm, hành vi duyệt web và hoạt động trên mạng xã hội - mặc dù việc tích hợp này sẽ ảnh hưởng đến quyền riêng tư và sử dụng dữ liệu cá nhân.
+
+Do đó, tại các cửa hàng bán lẻ, việc tích hợp những hệ thống này cần được nghiên cứu kỹ lưỡng. Thực tế cho thấy, trải nghiệm mua sắm không chỉ đơn thuần là việc tìm kiếm sản phẩm với giá tốt. Đó còn là một hành trình khám phá, nơi cảm xúc và sự bất ngờ đóng vai trò quan trọng trong quyết định mua hàng.
+
+Thách thức đặt ra cho các nhà bán lẻ là tìm ra điểm cân bằng: tận dụng công nghệ AI để phân tích số liệu, xác định xu hướng, nâng cao hiệu quả kinh doanh,… đồng thời vẫn phải kích thích cảm xúc cho khách hàng. Có lẽ, thành công trong tương lai sẽ thuộc về những thương hiệu biết kết hợp hài hòa giữa sự tiện lợi của công nghệ và giá trị cốt lõi của ngành bán lẻ - tạo ra những trải nghiệm mua sắm đáng nhớ.

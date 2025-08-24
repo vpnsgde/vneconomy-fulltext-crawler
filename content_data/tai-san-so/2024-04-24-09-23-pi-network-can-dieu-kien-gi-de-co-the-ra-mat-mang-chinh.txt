@@ -1,0 +1,25 @@
+Mới đây,Pi Networkđã thông báo, 10 triệu người dùng, được gọi là “Những người tiên phong”, đã hoàn tất xác minh danh tính thông qua giải pháp xác minh danh tính gốc của ứng dụng, Pi KYC. Thông báo cho biết, giải pháp này cung cấp “một cách tiếp cận độc đáo và độc quyền, kết hợp tự động hóa nhằm xác minh người dùng, đảm bảo sự chính xác, an toàn và hiệu quả”.
+
+Ông Nicolas Kokkalis, người đồng sáng lập và giám đốc công nghệ của Pi, tuyên bố dấu mốc này “chứng tỏ rằng lĩnh vực này không cần phải phụ thuộc vào các dịch vụ tiền pháp định để thành công”. Ông cũng tuyên bố rằng hệ thống KYC mới sẽ “cho phép các dịch vụ Web3 khác liên quan đến quyền sở hữu tài sản đạt được nhu cầu xác minh danh tính thông qua Pi Network”.
+
+Người đại diện tuyên bố rằng Pi đã hoàn thành nhiều mục tiêu kể từ khi ra mắt, bao gồm việc tạo ra “ứng dụng di động khai thác Pi, ứng dụng di động Pi Browser làm giao diện của hệ sinh thái Web3, ứng dụng Node, chuỗi khối Testnet và Mainnet, Ví, nền tảng dành cho nhà phát triển, một cuốn tiểu thuyết Giải pháp KYC" và hơn thế nữa.
+
+Người đại diện lập luận rằng quyết định không khởi chạy mạng mở ngay lập tức là đáng giá, đồng thời nêu rõ "chúng tôi tin rằng bất cứ điều gì đáng giá đều cần có thời gian và sự kiên nhẫn và các thành phần như vậy là cần thiết để khởi chạy Mạng mở một cách lành mạnh".
+
+Dự án được ra mắt vào năm 2019 dưới dạng một ứng dụng tập trung, nơi người dùng được yêu cầu nhấp vào nút để khai thác mỗi ngày. Mặc dù Pi chưa bước vào giai đoạn mainnet nhưng người dùng có thể chuyển tài sản trong chính mình. Tuy nhiên, họ cần phải hoàn thành KYC được yêu cầu và đảm bảo rằng mã thông báo của họ được phản ánh trong vùng số dư có thể chuyển nhượng của ví.
+
+Vào tháng 12/2023, dự án đã công bố kế hoạch ra mắt “Mạng mở” hay còn gọi là mạng chính vào năm 2024, nếu đáp ứng một số điều kiện nhất định. Những điều kiện này bao gồm 100 ứng dụng Pi phải được phát triển, bên cạnh 15 triệu người dùng đã vượt qua KYC.
+
+Ngoài ra, nhóm phải hoàn thành tất cả công việc “công nghệ, sản phẩm, kinh doanh và pháp lý” cần thiết để khởi chạy mạng và không được có “môi trường bên ngoài không thuận lợi” có thể cản trở sự thành công. Nhưng nhóm vẫn chưa công bố ngày cụ thể cho việc ra mắt mainnet.
+
+ĐểPi Networkkhởi chạy thành công mạng chính mở của mình, cần có nhiều người tiên phong hoàn thành quy trình KYC. Những người tiên phong này rất quan trọng trong việc bảo mật mạng và duy trì tính chất phi tập trung. Tuy nhiên, nếu số lượng người tiên phong đã hoàn thành quy trình KYC vẫn rất thấp và cần tăng thêm, điều đó sẽ thách thức việc ra mắt mạng chính mở của mạng.
+
+Với cột mốc quan trọng mới, mạng lưới cần hơn 5 triệu người dùng hoàn thành KYC của họ để đưa nó lên mạng chính.
+
+Bất chấp thành tựu quan trọng này, vẫn còn nhiều sự nghi ngờ xung quanh dự án và token của Pi của nó. Nhà phân tích Cem Dilmegani của AI Multiple chia sẻ rằng Pi Network có thể sẽ không mang lại lợi ích cho người dùng. Ông nói: “Tôi không mong đợi bất kỳ ai ngoại trừ những người sáng lập sẽ được hưởng lợi đáng kể từ PI Network. Đó là bởi vì dự án hoạt động giống như một hệ thống tiếp thị liên kết hoặc bán hàng trực tiếp, hứa hẹn mang lại những phần thưởng trong tương lai cho người dùng khi thu hút được người dùng mới”.
+
+Ông Dilmegani chia sẻ, hệ thống tiếp thị liên kết được sử dụng để tăng lưu lượng truy cập vào ứng dụng, do đó, hệ thống này được sử dụng để bán quảng cáo vì lợi ích của nhà phát triển ứng dụng. “Những người sáng lập đã được hưởng lợi từ ứng dụng, họ đưa quảng cáo video tùy chọn khi ra mắt để kiếm tiền từ cơ sở người dùng đang hoạt động”, ông nói.
+
+Dự đoán về tương lai của Pi Network, ông Dilmegani vẫn cho rằng dự án Pi cuối cùng sẽ có thể ra mắt mạng chính Blockchain. Tuy nhiên, ông cũng cho biết điều này khó xảy ra vì sẽ khiến token nhanh chóng giảm giá trị khi người dùng bán ra thị trường.
+
+Nếu ban lãnh đạo dự án có thể giải quyết các rào cản còn lại để mở khóa mạng chính trong năm tới như mong đợi, Pi có thể có cơ hội được áp dụng rộng rãi. Cách tiếp cận sáng tạo nhằm khai thác tiền điện tử trên điện thoại thông minh đã sớm tạo ra một cộng đồng tương tác gồm hơn 10 triệu thành viên. Chỉ riêng cơ sở người dùng này đã mang lại cho Pi một lợi thế mà nhiều dự án khác chỉ có thể mơ ước.

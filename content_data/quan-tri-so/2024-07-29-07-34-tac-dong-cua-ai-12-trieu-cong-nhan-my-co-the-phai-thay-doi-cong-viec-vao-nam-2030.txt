@@ -1,0 +1,21 @@
+Một báo cáo mới đây từ công ty tư vấn McKinsey đưa ra những định lượng thay đổi sắp xảy ra dưới sự tác động của trí tuệ nhân tạo. Quan trọng là nghiên cứu của McKinsey đã đưa ra một quan điểm chưa từng thấy trong các cuộc thảo luận cho đến nay rằng AI sẽ không xóa sổ việc làm.
+
+Mặc dù nghiên cứu vẫn chú ý rằng "không thể loại trừ khả năng người lao động mất việc làm, ít nhất là trong ngắn hạn". Các lĩnh vực có khả năng được tự động bằng AI vẫn sẽ tạo thêm việc làm cho đến năm 2030 nhưng với tốc độ chậm hơn so với dự đoán trước đây.
+
+AIsẽ thay đổi cách thức người lao động thực hiện nhiệm vụ hoặc tạo cơ hội cho nhân viên ở những công việc lương thấp chuyển sang các vị trí lương cao, miễn là họ được đào tạo đầy đủ. Báo cáo của McKinsey ước tính 12 triệu người sẽ chuyển nghề vào năm 2030, nhiều hơn 25% so với dự kiến ​​chỉ hai năm trước.
+
+Người lao động sẽ thay đổi nghề nghiệp do nhiều yếu tố khác nhau. Một số người cảm thấy công việc có thể bị thay thế, những người khác sẽ hướng đến các lĩnh vực trả lương cao hơn hoặc những lĩnh vực mà kỹ năng của họ có nhu cầu cao hơn.
+
+Theo McKinsey, lĩnh vực chăm sóc sức khỏe đã có khoảng 1,9 triệu việc làm tính đến tháng 4 và sẽ còn bổ sung khoảng 5,5 triệu việc làm mới cho đến năm 2030. AI có khả năng đảm nhiệm các nhiệm vụ hành chính có nghĩa là nhu cầu về các công việc như hỗ trợ văn phòng và dịch vụ khách hàng sẽ giảm lần lượt 18% và 13% cho đến năm 2030. Dịch vụ thực phẩm dự kiến có thể giảm ​​khoảng 2% lực lượng lao động.
+
+Do đó, thách thức hiện nay là cần đảm bảo rằng người lao động được đào tạo để đáp ứng các vai trò mới. Và một trong những giải pháp quan trọng đã được các chuyên gia tại McKinsey đưa ra là cần đẩy mạnh đào tạo các lĩnh vực STEM ngay tại các trường trung học.
+
+Đối với những công việc hiện tại, bản chất công việc của họ sẽ thay đổi đáng kể vì 30% giờ làm việc của họ sẽ được AI tự động hóa nhiệm vụ. Báo cáo cho biết "Điều quan trọng cần lưu ý là việc áp dụng tự động hóa không giống như việc loại bỏ việc làm. Nhiều công việc có một số nhiệm vụ tự động hóa sẽ vẫn tồn tại, nhưng bản chất hàng ngày của những gì mọi người làm và cách họ làm sẽ thay đổi”.
+
+McKinsey ước tính nếu không có AI tạo sinh, các công nghệ hiện tại có thể tự động hóa khoảng 22% giờ làm việc của nhân viên Mỹ. Con số này tăng lên 30% có thể là do các công cụ AI có khả năng thực hiện các nhiệm vụ chuyên môn, thậm chí là sự sáng tạo mà các công nghệ trước đây không thể đạt được. Điều này sẽ khiến AI tạo sinh trở thành một trong những công nghệ đầu tiên loại bỏ công việc đòi hỏi kiến ​​thức cũng như các công việc lương thấp hơn.
+
+Chẳng hạn, luật sư sẽ không phải xem xét luật hợp đồng nữa, vì các mô hình ngôn ngữ tự nhiên có thể làm điều đó thay họ. Hoặc các nhà thiết kế đồ họa, những người thường có bằng mỹ thuật ngoài ít nhất một số tài năng thiên bẩm, có thể thấy rằng Midjourney và DALL-E có thể giảm số lượng bản nháp cần thiết cho một hình minh họa.
+
+Thị trường việc làm sẽ sắp xếp lại 12 triệu lao động cũng cho thấy cơ hội tăng lương đối với một số ngành nghề. Cụ thể, McKinsey tính toán sẽ mất 1,1 triệu việc làm với những ngừoi có thu nhập 38.200 USD/năm, tuy nhiên sẽ tăng 3,8 triệu việc làm có mức lương 68.700 USD một năm.
+
+Báo cáo của McKinsey đưa ra "nhận xét lạnh lùng" rằng một số công việc được trả lương thấp nhất có thể không bị ảnh hưởng vì mức lương này còn “rẻ hơn” so với việc cài đặt hệ thống AI.

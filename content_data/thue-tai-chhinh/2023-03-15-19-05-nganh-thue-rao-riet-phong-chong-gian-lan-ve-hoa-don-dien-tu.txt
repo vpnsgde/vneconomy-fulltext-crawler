@@ -1,0 +1,25 @@
+Tổng cục Thuế vừa ban hành Quyết định sửa đổi, bổ sung Quy chế tổ chức và hoạt động của Ban Quản lý rủi ro trực thuộc Tổng cục Thuế.
+
+Theo đó, Tổng cục Thuế giao Ban Quản lý rủi ro nghiên cứu, xây dựng và tổ chức triển khai ứng dụng các biện pháp, kỹ thuật nghiệp vụ quản lý rủi ro; đề xuất trang thiết bị, phương tiện kỹ thuật đáp ứng yêu cầu quản lý rủi ro và chủ trì xây dựng cơ sở dữ liệu phân tích về hóa đơn điện tử; tổ chức quản lý, kiểm tra, phân tích dữ liệu hóa đơn điện tử phục vụ công tác áp dụng quản lý rủi ro trong quản lý hóa đơn điện tử nói riêng và quản lý thuế nói chung.
+
+Ban Quản lý rủi ro được giao xác định yêu cầu thiết lập Hệ thống cơ sở dữ liệu phân tích hóa đơn điện tử (bao gồm hạ tầng, dữ liệu, ứng dụng) đảm bảo dữ liệu được cập nhật đầy đủ, kịp thời theo thời gian quy định, hệ thống đáp ứng được yêu cầu phân tích dữ liệu lớn.
+
+
+
+"Ban Quản lý rủi ro chủ trì nghiệp vụ trong việc xây dựng, triển khai ứng dụng phục vụ kiểm soát dữ liệu, phân tích dữ liệu hóa đơn điện tử; tổ chức phân tích thông tin thuế, thông tin hóa đơn điện tử; xây dựng tiêu chí đánh giá rủi ro; đề xuất các biện pháp phòng ngừa, quản lý; xây dựng kế hoạch nâng cao tuân thủ trong tạo lập và sử dụng hóa đơn điện tử", quyết định rêu rõ.
+
+Cùng đó, ban có trách nhiệm hướng dẫn, kiểm tra, giám sát, đánh giá việc tổ chức thực hiện quản lý và phân tích dữ liệu hóa đơn điện tử, áp dụng quản lý rủi ro trong quản lý hóa đơn điện tử của người nộp thuế tại cơ quan thuế các cấp; quản lý việc trao đổi, thu thập và cung cấp thông tin hóa đơn điện tử với các cơ quan quản lý trong và ngoài ngành theo yêu cầu quản lý và theo quy chế trao đổi thông tin.
+
+Cũng theo thông tin từ Tổng cục Thuế, đến cuối tháng 2, số lượng hoá đơn điện tử cơ quan thuế tiếp nhận và xử lý là 3,1 tỷ hoá đơn điện tử, trong đó, 808 triệu hoá đơn điện tử có mã và 2,2 tỷ hoá đơn điện tử không mã.
+
+Về triển khai hoá đơn điện tử khởi tạo từ máy tính tiền, Tổng cục Thuế đã xây dựng lộ trình thực hiện theo 2 giai đoạn: giai đoạn 1 từ ngày 15/12/2022 đến ngày 31/3/2023; giai đoạn 2 từ ngày 1/4/2023. Trong đó tập trung triển khai đối với các ngành, lĩnh vực trực tiếp đến người tiêu dùng như: ăn uống, nhà hàng, khách sạn, bán lẻ hàng tiêu dùng, siêu thị, trung tâm thương mại, dịch vụ vui chơi giải trí…
+
+Tính đến đầu tháng 3 đã có hơn 5.000 doanh nghiệp, hộ, cá nhân kinh doanh đăng ký sử dụng hoá đơn điện tử khởi tạo từ máy tính tiền thành công, đạt 136,2% so với kế hoạch giai đoạn 1 đã đề ra, với số lượng hoá đơn điện tử khởi tạo từ máy tính tiền là gần 1 triệu hóa đơn.
+
+Lãnh đạo Bộ Tài chính và Tổng cục Thuế nhiều lần nhấn mạnh nhiệm vụ nâng cao hiệu quả quản lý thuế thông qua việc đẩy mạnh áp dụng công cụ phân tích dữ liệu lớn, ứng dụng trí tuệ nhân tạo (AI) vào công tác quản lý thuế, quản lý hóa đơn, kiểm soát rủi ro, phòng chống gian lận về hoá đơn điện tử...
+
+Cụ thể, lãnh đạo Tổng cục Thuế yêu cầu các đơn vị có liên quan chủ động nghiên cứu, đề xuất yêu cầu nghiệp vụ phân tích dữ liệu hoá đơn điện tử; rà soát, bổ sung hoàn thiện bộ chỉ số tiêu chí rủi ro, chống gian lận về hoá đơn điện tử; đối chiếu dữ liệu hoá đơn điện tử với tờ khai thuế giá trị gia tăng để sớm triển khai trung tâm phục vụ yêu cầu lưu trữ dữ liệu lớn (big data) theo đúng kế hoạch.
+
+Tháng 1 năm nay, Tổng cục Thuế cũng đã trình báo cáo Bộ Tài chính về việc thành lập Trung tâm xây dựng cơ sở dữ liệu hoá đơn điện tử, sớm xây dựng công cụ kiểm soát hóa đơn điện tử bằng trí tuệ nhân tạo nhằm nâng cao hiệu quả quản lý, kiểm tra giám sát, chống các hành vi vi phạm pháp luật trong sử dụng hóa đơn điện tử...
+
+Hiện Tổng cục Thuế đang thực hiện rà soát, bổ sung nhân lực, bổ sung, điều chỉnh, hoàn thiện lại quy chế hoạt động, bổ sung trang thiết bị, cơ sở vật chất kỹ thuật để vận hành bộ phận xây dựng cơ sở dữ liệu hoá đơn điện tử của Tổng cục Thuế đặt tại Ban Quản lý rủi ro.

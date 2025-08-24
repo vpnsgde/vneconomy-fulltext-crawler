@@ -1,0 +1,21 @@
+Qualcomm mới đây đã tiết lộ 4 lỗ hổng zero-day trong chip sử dụng cho hàng tỷ điện thoại thông minh và các thiết bị khác trên khắp thế giới. Các lỗ hổng đã bị khai thác trong một số cuộc tấn công có mục tiêu này có thể cho phép hacker chiếm quyền kiểm soát thiết bị hoặc đánh cắp dữ liệu nhạy cảm.
+
+Theo thông tin từ Google Threat Analysis Group và Google Project Zero, 4 lỗ hổng như CVE-2023-33106, CVE-2023-33107, CVE-2022-22071 và CVE-2023-33063 có thể đang bị khai thác nhắm vào mục tiêu cụ thể.
+
+Qualcomm cho biết, đã phát hành các bản vá cho các lỗ hổng và kêu gọi các nhà sản xuất thiết bị (OEMs) cập nhật sớm nhất có thể. Tuy nhiên, cho đến khi các bản vá được triển khai rộng rãi, người dùng các thiết bị ảnh hưởng bởi lỗ hổng vẫn sẽ đối diện nguy cơ tấn công.
+
+
+
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), nhận định việc các phần mềm như trình duyệt hay các ứng dụng có lỗ hổng là chuyện tương đối phổ biến. Người dùng có thể phòng tránh bằng cách tạm thời không sử dụng ứng dụng bị lỗi trong thời gian chờ bản cập nhật.
+
+“Tuy nhiên, nếu lỗ hổng nằm ở chip của điện thoại thì người dùng chỉ có thể chờ bản cập nhật từ nhà sản xuất. Trong thời gian chờ đợi bản cập nhật, người dùng hạn chế bấm vào các đường link được gửi qua chat, email, không mở các file nếu chưa biết rõ nguồn gốc”, ông Sơn nhấn mạnh.
+
+Trước đó, Qualcomm đã phát hành bản vá cho hơn 20 lỗ hổng trong tháng 9/2023. Trong đó, nổi bật là hai lỗ hổng nghiêm trọng: CVE-2023-28562 và CVE-2023-28581. Cả hai đều là lỗi thực thi mã từ xa được phát hiện trong firmware ESL và WLAN của hãng.
+
+Trong đó, lỗi CVE-2023-28562 sao chép bộ đệm mà không kiểm tra kích thước đầu vào trong QESL. CVE-2023-28562 được đánh giá có mức độ nghiêm trọng. Bằng cách khai thác lỗ hổng trong cách quản lý payload ESL từ xa, hacker có thể thực thi mã tùy ý trên một loạt chipset Qualcomm, từ Snapdragon 460 Mobile Platform đến Vision Intelligence 400 Platform.
+
+Trong khi đó, lỗi CVE-2023-28581 xử lý tính năng hạn chế hoạt động không đúng cách trong firmware WLAN. Lỗ hổng bắt nguồn từ lỗi bộ nhớ trong firmware WLAN. Bất kỳ kẻ tấn công nào gửi yêu cầu đặc biệt sử dụng key GTK trong GTK KDE đều có thể khai thác CVE này. Các chipset bị ảnh hưởng bao gồm Snapdragon 870 5G Mobile Platform và Snapdragon XR2 5G Platform. CVE-2023-28581 cũng được đánh giá mức điểm nghiêm trọng.
+
+Thực tế, Qualcomm còn giải quyết thêm 30 lỗ hổng có mức độ nghiêm trọng cao khác. Những lỗ hổng này có thể cho phép tin tặc thực thi mã, leo thang đặc quyền và tiết lộ thông tin hay thực hiện các cuộc tấn công từ chối dịch vụ (DoS) khi khai thác thành công. Tuy nhiên, đến này chưa có bằng chứng nào cho thấy các lỗ hổng này đang bị khai thác trong thực tế.
+
+Với việc chip Qualcomm được sử dụng trong khoảng 40% điện thoại thông minh trên thế giới, bao gồm các thiết bị của Google, LG, OnePlus, Samsung, Xiaomi và nhiều hãng khác, số lượng người dùng có khả năng bị ảnh hưởng bởi các lỗ hổng có thể đã vượt mốc 1 tỷ. Qualcomm đã phát hành bản cập nhật để giải quyết các lỗ hổng trong nhiều loại chipset của hãng. Người dùng các thiết bị tồn tại lỗ hổng nên cập nhật các bản vá mới nhất càng sớm càng tốt.

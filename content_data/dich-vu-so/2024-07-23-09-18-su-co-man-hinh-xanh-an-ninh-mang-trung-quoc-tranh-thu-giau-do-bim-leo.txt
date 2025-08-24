@@ -1,0 +1,25 @@
+Công ty an ninh mạng CrowdStrike có trụ sở tại Austin, Texas (Mỹ) đã gây ra một trong những sự cố lớn nhất trong lịch sử vào cuối tuần vừa qua. Sự cố ngừng hoạt động này đã ảnh hưởng đến các sân bay, ngân hàng, bệnh viện và nhiều hoạt động kinh doanh khác.
+
+Theo Microsoft, số lượng máy tính bị ảnh hưởng trong vụ việc lên đến 8,5 triệu, tức khoảng 1% số lượng máy tính trên toàn cầu. Lỗi xảy ra đối với phần mềm bảo mật Falcon được sử dụng phổ biến do Crowdstrike cung cấp.
+
+Tại thị trường Trung Quốc, Công ty 360 Security Technology - đơn vị an ninh mạng lớn nhất Trung Quốc đã tận dụng cơ hội này để quảng bá các sản phẩm của họ với tuyên bố “đáng tin cậy, ổn định, toàn diện và thông minh hơn”.
+
+Trong bài đăng trên mạng xã hội vào ngày 19/7, công ty cho biết: “Khi lựa chọn phần mềm bảo mật thiết bị đầu cuối, điều quan trọng là phải đánh giá đầy đủ các khả năng phòng thủ để tránh các rủi ro bảo mật tiềm ảnh và đảm bảo tính liên tục trong kinh doanh, bảo mật dữ liệu không bị đe dọa”.
+
+QAX, một công ty nổi tiếng khác trong cùng lĩnh vực đã viết trong một bài đăng trên blog rằng “các nhà cung cấp phần mềm liên quan đến sự ổn định của hệ thống cần phải kiểm soát chất lượng phần mềm của họ chặt chẽ hơn”.
+
+Tencent Holdings, công ty vận hành nền tảng Tencent PC Manager, cho biết rằng vào ngày xảy ra sự cố, họ đã nhận được báo cáo từ một số người dùng gặp phải lỗi màn hình xanh và đã hướng dẫn người dùng đến các bước giải quyết chính thức của CrowdStrike để giải quyết vấn đề.
+
+Vụ việc này đã bổ sung thêm vào danh sách các lý do khiến Trung Quốc tìm cách hạn chế các công nghệ nước ngoài và theo đuổi sự tự chủ về công nghệ. Điều này diễn ra trong bối cảnh các hạn chế xuất khẩu và lệnh trừng phạt ngày càng tăng từ Mỹ. Cơ sở hạ tầng quan trọng hầu như không bị ảnh hưởng ở Trung Quốc, nơi chỉ có các doanh nghiệp nước ngoài và khách sạn sang trọng bị ảnh hưởng.
+
+Trong khi Microsoft cho biết trong ngày 19/7 rằng hệ thống của họ đã được khôi phục, nhiều doanh nghiệp vẫn tiếp tục quá trình khắc phục hậu quả.Sân bay quốc tế Hong Kong, nơi có hệ thống làm thủ tục hành khách bị sập, đã đưa ra thông báo vào ngày sau đó cho biết hoạt động đã trở lại bình thường.
+
+Thị trường an ninh mạng của Trung Quốc hiện đang được thống lĩnh bởi những người chơi địa phương. Bắc Kinh từ lâu đã loại bỏ dần phần mềm của các công ty như Kaspersky Lab của Nga và Symantec có trụ sở tại Mỹ. Theo trang web của CrowdStrike, họ không bán sản phẩm và dịch vụ ở Trung Quốc.
+
+Cổ phiếu CrowdStrike đã giảm 11,1% xuống còn 304,96 USD trên sàn giao dịch Nasdaq vào phiên giao dịch ngày 19/7, trong khi Microsoft giảm 0,74%. Các đối thủ cạnh tranh SentinelOne và Palo Alto Networks lần lượt tăng 7,85% và 2,16%.
+
+Theo một báo cáo năm 2014 của China News Service thuộc sở hữu nhà nước, Chính phủ Trung Quốc đã nỗ lực phối hợp để chuyển đổi hoàn toàn sang phần mềm an ninh nội địa từ một thập kỷ trước. Báo cáo cho biết tất cả các cơ quan của Bộ Công nghiệp và Công nghệ thông tin đã cài đặt phần mềm 360 và các doanh nghiệp nhà nước sẽ làm theo bằng cách cài đặt các giải pháp thay thế trong nước.
+
+Tại Trung Quốc, uy tín của các nhà cung cấp dịch vụ bảo mật phương Tây xuống rất thấp từ sau vụ Edward Snowden tiết lộ các phương pháp được NSA sử dụng nhằm truy cập thông tin doanh nghiệp.
+
+CrowdStrike đã coi việc giám sát các cuộc tấn công mạng của Trung Quốc là một phần quan trọng trong hoạt động kinh doanh của mình, vì các nước phương Tây đã cảnh báo về số lượng các cuộc tấn công ngày càng tăng đến từ các tác nhân có liên quan đến Trung Quốc.

@@ -1,0 +1,9 @@
+Theo hồ sơ vụ án, đối tượng Nguyễn Nhật Trường (sinh năm 2000, trú tại xã Sơn Thủy, huyện A Lưới, tỉnh Thừa Thiên Huế) đã sử dụng máy tính cá nhân thực hiện xâm nhập vào email của các nhân viên trong Công ty MGI. Sau đó, Trường lập ra một email nặc danh để giả danh mình là nhóm hacker tại Nhật Bản rồi nhắn nội dung đe dọa gửi email đến đối tác Công ty MGI tại Hoa Kỳ.
+
+Trước đó, vì mâu thuẫn cá nhân nên Nguyễn Nhật Trường sử dụng máy tính cá nhân thực hiện xâm nhập vào các thư điện tử (email) của các nhân viên trong Công ty MGI (địa chỉ tại khu đô thị mới An Cựu, phường An Đông, TP. Huế).
+
+Sau khi xâm nhập vào các tài khoản trên, Trường đọc các nội dung trao đổi nội bộ trong công ty và phát hiện địa chỉ các trang web của khách hàng của công ty MGI tại Hoa Kỳ.
+
+Sau đó, Trường lập ra một email nặc danh để giả danh mình là nhóm hacker tại Nhật Bản nhắn tin đe dọa tới các thư điện tử của các nhân viên đối tác công ty MGI tại Hoa Kỳ.
+
+Qua điều tra, Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao Công an tỉnh Thừa Thiên Huế làm rõ, ngoài tấn công website đối tác của Công ty MGI, đối tượng Trường còn thực hiện 3 đợt tấn công vào 2 website do Công ty MGI quản lý gây nên mối đe dọa thường xuyên, liên tục đến hệ thống của Công ty MGI.

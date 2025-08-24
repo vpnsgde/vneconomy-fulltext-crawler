@@ -1,0 +1,43 @@
+Thống kê về số lượng người dân bị tội phạm sử dụng công nghệ cao để lừa đảo và chiếm đoạt tiền và tài khoản của người dân ngày càng tăng, một lần nữa cho thấy cần thiết phải nâng mức cảnh báo lên cao hơn. Năm 2023, tổng số tiền người dân bị lừa đảo khoảng 8.000 - 10.000 tỉ đồng, tăng 1,5 lần so với năm 2022, trong đó 91% liên quan lĩnh vực tài chính, 73% người dùng thiết bị di động, mạng xã hội… nhận tin nhắn, cuộc gọi lừa đảo.
+
+Tại hội thảo “Nâng cao bảo mật, an toàn giao dịch không tiền mặt" diễn ra chiều ngày 14/6, đại diệnNgân hàng Nhà nước cho biết hoạt động thanh toán không dùng tiền mặt đã phát triển mạnh mẽ với hơn 182 triệu tài khoản thanh toán của khách hàng cá nhân, tương ứng với hơn 87% người trưởng thành có tài khoản tại ngân hàng. Đặc biệt, số lượng giao dịch thanh toán qua kênh di động và QR code tăng trưởng nhanh chóng.
+
+Theo ông Phạm Anh Tuấn, Vụ trưởng Vụ Thanh toán (Ngân hàng Nhà nước), bên cạnh sự phát triển mạnh mẽ này thì ngành ngân hàng cũng phải đối mặt với những rủi ro và thách thức về an ninh, bảo mật. Đặc biệt, tội phạm sử dụng công nghệ cao để lừa đảo, chiếm đoạt tiền và tài khoản của người dân bằng nhiều thủ đoạn tinh vi như giả mạo cơ quan, tổ chức, lừa đảo chiếm đoạt thông tin đăng nhập và xác thực giao dịch, dẫn dụ khách hàng truy cập các đường link giả mạo, cài đặt phần mềm độc hại...
+
+Để tăng cường bảo mật, từ ngày 1/7, Ngân hàng Nhà nước yêu cầu các tổ chức tín dụng, trung gian thanh toán phải xác thực sinh trắc học với giao dịch chuyển tiền trên 10 triệu đồng trở lên hoặc tổng giá trị giao dịch trong ngày trên 20 triệu đồng. Việc xác thực khuôn mặt khách hàng phải khớp với khuôn mặt được lưu trong chip của thẻ căn cước công dân.
+
+Bên cạnh đó, khi khách hàng lần đầu thực hiện giao dịch trên ứng dụng mobile banking hoặc trên thiết bị mới đều phải xác thực bằng dấu hiệu nhận dạng sinh trắc học. Các ngân hàng cũng đang tích cực làm sạch dữ liệu khách hàng, loại bỏ các tài khoản không chính chủ để tăng cường bảo mật.
+
+Năm 2023, Trung tâm Giám sát an toàn không gian mạng quốc gia (trực thuộc Cục An toàn thông tin – Bộ Thông tin và Truyền thông) ghi nhận khoảng 13.900 vụ tấn công mạng vào các cơ quan, tổ chức, doanh nghiệp. Gần 16.000 phản ánh lừa đảo trực tuyến, gây thiệt hại hơn 390.000 tỉ đồng (tương đương 3,6% GDP).
+
+Theo Thiếu tướng Nguyễn Văn Giang, Phó cục trưởng Cục An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (Bộ Công an - A05), thời gian qua, mặc dù cơ quan chức năng liên tục cảnh báo, nhiều giải pháp đã triển khai quyết liệt, tuy nhiên, nhiều người vẫn sập bẫy. Trong năm 2023, tổng số tiền người dân bị lừa đảo trên mạng khoảng 8.000 - 10.000 tỉ đồng, tăng gấp rưỡi so với năm 2022. Trong đó, có 91% thông tin liên quan lĩnh vực tài chính và 73% người dùng thiết bị di động, mạng xã hội… liên tục nhận tin nhắn, cuộc gọi lừa đảo.
+
+Theo Cục A05, các đối tượng tội phạm hoạt động mang tính chuyên nghiệp, xây dựng kịch bản và phân công vai trò cụ thể, triệt để lợi dụng khoa học, công nghệ để tấn công người dùng. Thậm chí, tội phạm cư trú tại các địa phương ở các quốc gia láng giềng như Campuchia, Myanmar… Các đối tượng cầm đầu thường là người nước ngoài.
+
+Bên cạnh đó, hành vi thiếu ý thức của người dùng mạng xã hội: chia sẻ hình ảnh, thông tin cá nhân và thiếu cảnh giác trước phương thức, thủ đoạn tinh vi trên không gian mạng.
+
+Để ngăn chặn hoạt động lừa đảo trực tuyến, Cục A05 đang phối hợp với Hiệp hội An ninh mạng quốc gia để cung cấp miễn phí phần mềm giúp phát hiện lừa đảo qua mạng. Dự kiến, phần mềm sẽ được ra mắt trong quý 3 năm 2024.
+
+Từ ngày 1/7, quyết định 2345 của Ngân hàng Nhà nước chính thức có hiệu lực, tăng cường các biện pháp xác thực trong giao dịch trực tuyến. Tuy nhiên, với mức độ tinh vi và tận dụng công nghệ triệt để, tội phạm đang tìm cách đối phó với quy định mới này.
+
+Trước tình hình đó, Cục A05 đã đưa ra một số khuyến cáo để người dân nâng cao ý thức cảnh giác, bảo vệ bản thân trước các hành vi lừa đảo. Cụ thể, người dùng cần tìm hiểu và kiểm tra kỹ thông tin trước khi thực hiện giao dịch, không vay tiền online từ các ứng dụng không rõ nguồn gốc; Không cung cấp thông tin cá nhân, mã OTP, tài khoản e-banking, tải các ứng dụng/link/email theo yêu cầu của người lạ.
+
+Ngoài ra, tuyệt đối không mua bán, trao đổi, cho thuê, mượn tài khoản thanh toán, thẻ ngân hàng, giấy tờ tùy thân. Đặc biệt, cài đặt bảo mật 2 lớp và hạn chế chia sẻ thông tin cá nhân của bản thân, gia đình, bạn bè trên mạng.
+
+Ngoài sự cảnh giác của người dân, việc ngăn chặn tội phạm lừa đảo qua mạng cần sự phối hợp chặt chẽ giữa các bộ, ngành, cơ quan và doanh nghiệp liên quan. Người dân cần hiểu rõ về phương thức, thủ đoạn của kẻ lừa đảo và trang bị những kỹ năng cần thiết để phòng, chống các hoạt động này.
+
+Theo thống kê của Bộ Công an, Bộ Thông tin và Truyền thông, hiện nay có 3 nhóm lừa đảo chính (giả mạo thương hiệu, chiếm đoạt tài khoản và các hình thức kết hợp khác) với 24 thủ đoạn lừa đảo.
+
+Cục An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (Bộ Công an - A05) đã chỉ ra 5 phương thức lừa đảo phổ biến.
+
+Thứ nhất,lừa đảo thông qua dịch vụ viễn thông: Tội phạm yêu cầu người dùng nâng cấp SIM điện thoại hoặc cung cấp thông tin cá nhân với lý do chuẩn hóa thông tin, kê khai thuế, định danh tài khoản. Từ đó, chúng gửi đường link chứa mã độc để chiếm đoạt số điện thoại và tài sản trong tài khoản ngân hàng, ví điện tử của nạn nhân.
+
+Thứ hai,lừa đảo trong lĩnh vực tài chính, ngân hàng: Tội phạm giả mạo tin nhắn thương hiệu, email hoặc nhân viên ngân hàng để lừa người dùng cung cấp thông tin tài khoản, mã OTP với mục đích đăng ký vay online hoặc chuyển khoản. Sau đó, chúng chiếm đoạt tiền của nạn nhân.
+
+Thứ ba,lừa đảo qua nền tảng OTT (Zalo, Facebook, Wechat): Tội phạm lợi dụng sự thiếu hiểu biết của người bán hàng online, dẫn dụ họ nhập vào đường link giả mạo và cung cấp mã OTP để chiếm đoạt tiền trong tài khoản.
+
+Thứ tư,kêu gọi đầu tư tài chính: Tội phạm lôi kéo nhiều người tham gia vào các hội nhóm kín trên mạng, giả mạo "chuyên gia" để dụ đầu tư vào các sàn giao dịch giả mạo. Ban đầu, chúng tạo ra lợi nhuận ảo để thu hút người chơi nạp tiền, nhưng khi muốn rút thì không thể thực hiện được.
+
+Thứ năm,lừa đảo qua việc tuyển cộng tác viên cho các sàn thương mại điện tử như Shopee, Lazada, Tiki.
+
+Trước tình hình lừa đảo phức tạp, người dùng cần nâng cao cảnh giác, tìm hiểu kỹ thông tin trước khi thực hiện các giao dịch trực tuyến và không cung cấp thông tin cá nhân, tài khoản cho bất kỳ ai.

@@ -1,0 +1,49 @@
+CoinDesk cũng dành một dung lượng lớn cho bài chân dung phân tích dành riêng để khắc họa về Nguyễn Thành Trung.
+
+Theo đó, nhà sáng lập của Axie Infinity từng bị thu hút bởi CryptoKitties, một kết hợp đầy thú vị giữa hai thứ Trung yêu và ghét là game và blockchain.
+
+Đó là thời điểm cuối năm 2017 khi thị trường đang diễn ra đợt bùng nổ ICO (đợt phát hành coin đầu tiên), một hình thức huy động vốn cộng đồng. Tất cả những gì Trung thấy trong trào lưu ấy là kẻ xấu cố gắng moi nhiều tiền nhất có thể. Và hầu hết các ICO chỉ là để gây quỹ trong khi tất cả các ứng dụng có vẻ đều nhàm chán. Đó hoàn toàn chỉ là những thứ về công nghệ tài chính cùng các con số trên màn hình.
+
+Nhưng Trung cũng không khỏi cảm thấy tò mò về ý tưởng áp dụng công nghệ blockchain vào một điều gì đó thú vị. “Nén đau thương vào trong”, Trung bắt đầu mua ETH, mở ví MetaMask và bắt đầu với Kitty. Bản thân trò chơi này rất đơn giản - giống như cách người ta chơi Neopets của Nickelodeon. Nhưng game này mới lạ hơn bởi bổ sung của các giao dịch tiền điện tử.
+
+
+
+Với “máu kỹ sư” chảy trong người, Trung hoàn toàn say mê với cơ chế chăn nuôi phức tạp làm nền tảng cho cơn sốt mèo kỹ thuật số sau này. Crypto Kitties là một trò chơi nuôi mèo ảo, nhiệm vụ của người chơi là lai tạo các giống mèo và sau đó trao đổi, buôn bán bằng tiền ảo.
+
+Những con mèo này là độc nhất vô nhị và 100% thuộc sở hữu của người chơi hay người mua lại. Mỗi con mèo trong tựa game này có các đặc điểm khác nhau và hiếm có khiến chúng trở nên khác biệt so với những con còn lại. Hầu hết người dùng đều cố gắng lai tạo hoặc thu thập mèo hiếm vì chúng rất đắt.
+
+Crypto Kitties đã truyền cảm hứng để Trung tạo ra Axie Infinity, một trò chơi vụt trở thành hiện tượng trên toàn cầu và đưa toàn bộ lĩnh vực game blockchain trở thành tâm điểm trong năm nay.
+
+Bắt đầu bằng các thông tin hạn chế mà mình có về những chú Kitties hiện có và gen của bố mẹ chúng, Trung tìm hiểu cách thức thuật toán lai tạo hoạt động. “Đó là một điều khá tự nhiên với một kỹ sư, bởi vì chúng tôi nhìn thấy mọi thứ ở mức độ sâu hơn” Trung giải thích. “Chúng tôi cố gắng hiểu mọi thứ diễn ra phía sau màn hình, thay vì chỉ thấy những thứ bề nổi”.
+
+Với niềm tin rằng việc áp dụng Blockchain có thể cho ra ứng dụng đơn giản, nhẹ nhàng, phi tập trung, thay vì các phần mềm tài chính nhàm chán, Trung đã nảy ra ý tưởng xây dựng một trò chơi của riêng mình - tương tự như Crypto Kitties nhưng thú vị hơn.
+
+Nhà sáng lập liên hệ với Tú Đoàn (biệt danh là Masamune ) để trình bày ý tưởng. Nhiều năm trước đó, Trung và Masamune đều là đồng sáng lập của Lozi, một mạng xã hội dành cho các blogger về ẩm thực.
+
+Trong những ngày còn ở Lozi, cả hai thường thảo luận về niềm đam mê chung của họ đối với trò chơi điện tử. Là một game thủ "hạng nặng", Trung nghiên cứu các game mà mình chơi, chọn ra các cơ chế và quy tắc, trong khi Masamune nghiên cứu về cốt truyện và đồ họa.
+
+Đối với ý tưởng trò chơi Blockchain mới của Trung, Masamune không hiểu lắm về công nghệ cơ bản nhưng rất hào hứng với triển vọng làm một trò chơi cùng người đồng hành lâu năm của mình.
+
+Masamune trở về nhà sau cuộc họp, phác thảo thứ đầu tiên hiện ra trong đầu. Đó là sự pha trộn giữa con thú cưng axolotl (thường được gọi là kỳ giông Mexico) và nghệ thuật ẩm thực mà anh thường làm khi còn nhỏ.  Kết quả là Axie đầu tiên - Puff ra đời.
+
+Nhiều người từng tự hỏi tại sao Sky Mavis lại lãng phí thời gian xây dựng chuỗi khối của riêng mình trong khi những người sáng lập có thể dễ dàng sử dụng thứ gì đó đã tồn tại. Nhưng Trung không tin rằng các nền tảng hiện có phù hợp với Axie.
+
+Ngày nay, công ty có một đội ngũ gồm 87 người trên khắp thế giới, với khoảng 60 thành viên ở Việt Nam đang làm việc trên nhiều dự án, bao gồm Axie, Ronin - sidechain Ethereum được thiết kế đặc biệt cho cộng đồng Axie Infinity để hỗ trợ mở rộng quy mô và trải nghiệm trò chơi mượt mà hơn cho hàng triệu người dùng, một ví di động và một sàn giao dịch phi tập trung có tên Katana.
+
+Cùng với vẻ ngoài cứng rắn của mình, ở Trung có điều gì đó bí ẩn, phù hợp với khuôn mẫu của một thiên tài sống nội tâm, ẩn dật. Trung hiếm khi tham gia các cuộc phỏng vấn, không tương tác nhiều với các nhà đầu tư. Trung cũng bị dị ứng với sự phân tâm và tin vào sự phân công lao động.
+
+Đó cũng là một trong những lý do tại sao Sky Mavis có 5 người đồng sáng lập. Đối với các vấn đề đối ngoại, hai nhà đồng sáng lập khác là Zirlin tràn đầy năng lượng cống hiến cho cộng đồng và Larsen kín đáo chịu trách nhiệm gây quỹ và quan hệ nhà đầu tư.
+
+Các thành viên trong nhóm cũng cho biết, Trung là người thích chất lượng và luôn quan tâm đến từng chi tiết. Trung cũng làm việc chăm chỉ nhất trong số họ và có kỳ vọng cao nhất về sản phẩm.
+
+Trong năm đầu tiên, tất cả nhân viên của công ty được ký hợp đồng làm việc 6 ngày/tuần, từ thứ Hai đến thứ Bảy. Sự nghiêm khắc của Trung khiến một số nhân viên sợ hãi nhưng điều đó khiến đội ngũ trở nên tốt hơn.
+
+Tuy nhiên, cho đến giữa năm 2018, Trung đã phải làm việc nhiều hơn. Nhà sáng lập này thực hiện phần lớn công việc mã hóa, thiết kế sản phẩm và trải nghiệm người dùng, đảm bảo chất lượng và triển khai.
+
+Đó cũng là khoảng thời gian khó khăn với công ty. Tiền đã cạn kiệt, những người đồng sáng lập đã không thể chi trả cho cuộc sống của chính mình trong một thời gian vào năm 2018 khi công ty gần như vẫn chưa có thành công nào.
+
+Việc bán trước các sinh vật Axie đã huy động lượng vốn cần thiết cho công ty khởi nghiệp non trẻ này. Sky Mavis cũng bán các phần NFT của trò chơi cho các thành viên cộng đồng của mình để gây quỹ phát triển. Một vòng seed round trị giá 1,5 triệu đô la được công bố vào đầu năm 2019 do Animoca Brands dẫn đầu đã giúp dự án tiếp tục đi đúng hướng.
+
+Trong suốt năm 2021, thành công của Sky Mavis ngày một tăng cao. Công ty huy động được 7,5 triệu đô la trong vòng tài trợ Series A do Libertus Capital dẫn đầu và 152 triệu đô la trong vòng Series B do Andreessen Horowitz và Accel Partners dẫn đầu.
+
+Với chiến lược toàn cầu thực sự ngày từ những ngày đầu tiên, Axie Infinity đã thu hút người chơi từ mọi nơi trên trái đất theo cách chưa từng thấy trong lĩnh vực game dựa trên blockchain. Thành công của tựa game này đã thúc đẩy làn sóng khởi nghiệp mới tại Việt Nam, với sự ra đời của nhiều studio game cũng như một số dự án có sức ảnh hưởng trên toàn cầu như Cyball, Sipher và Thetan Arena.

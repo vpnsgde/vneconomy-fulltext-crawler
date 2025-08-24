@@ -1,0 +1,29 @@
+Thông tư được xem là cơ sở pháp lý quan trọng cho Bộ Thông tin và Truyền thông tiến hành các bước tiếp theo để đấu giá băng tần triển khai thương mại hóa 5G.
+
+Theo thông tư, băng tần 3560-4000 MHz được quy hoạch cho hệ thống thông tin di động mặt đất công cộng IMT gồm những nội dung chính sau:
+
+Thứ nhất,băng tần 3560-4000 MHz được sử dụng để triển khai hệ thống thông tin di động mặt đất công cộng theo tiêu chuẩn IMT-2020 và các phiên bản tiếp theo (từ công nghệ 5G trở lên).
+
+Thứ hai,ngoại trừ các đoạn băng tần 3560-3600 MHz và 3980-4000 MHz được sử dụng làm băng tần bảo vệ, phần băng tần còn lại (3600-3980 MHz) được quy hoạch phân chia làm 04 khối băng tần C1, C2, C3 và C4. Độ rộng tương ứng của các khối là 100 MHz, 100 MHz, 100 MHz, 80 MHz và được sử dụng theo phương thức song công phân chia theo thời gian (Time Division Duplex).
+
+Trong đó, các khối băng tần C2, C3, C4 có thể đưa vào sử dụng khi Thông tư có hiệu lực. Riêng thời điểm khối C1 được sử dụng do Bộ Thông tin và Truyền thông quyết định căn cứ vào khả năng xử lý nhiễu có hại cho các đài trái đất thuộc hệ thống cố định qua vệ tinh hoạt động trong băng tần 3400-3560 MHz.
+
+Thứ ba,giới hạn tối đa tổng độ rộng băng tần mà một tổ chức được cấp phép sử dụng trong nhóm hai băng tần 2500-2600 MHz và 3600-3980 MHz (bao gồm cả khối C1 khi đưa vào sử dụng) là 200 MHz. Trước mắt, khi chưa đưa khối C1 vào sử dụng thì áp dụng mức giới hạn 180 MHz đối với băng tần 2500-2600 MHz và 3700-3980 MHz.
+
+Việc phân chia các khối băng tần và giới hạn lượng băng tần một doanh nghiệp được sở hữu nhằm bảo đảm các nguyên tắc cơ bản của Luật Tần số vô tuyến điện về lập quy hoạch là phù hợp với xu hướng phát triển công nghệ trên thế giới, phù hợp với quy hoạch hạ tầng thông tin và truyền thông quốc gia, tránh tích tụ đối với băng tần sử dụng trong hoạt động viễn thông. Đồng thời phù hợp với chính sách của nhà nước về viễn thông là bảo đảm thị trường viễn thông cạnh tranh lành mạnh, phát triển bền vững, hài hòa.
+
+Thứ tư,quy định một số điều kiện bổ sung áp dụng đối với các hệ thống thông tin di động IMT khi được cấp phép sử dụng trong băng tần này, các đài trái đất đang hoạt động trong băng tần này và các băng tần lân cận. Mục đích là để tránh nhiễu có hại cho các đài trái đất thuộc hệ thống cố định qua vệ tinh và các đài vô tuyến đo cao khi hoạt động trong các khu vực sân bay (chi tiết quy định tại Điều 3 Thông tư).
+
+Thứ năm,quy định đối với các đài vệ tinh trái đất người dùng thuộc hệ thống cố định qua vệ tinh hoạt động trong băng tần 3560-4000 MHz và các băng tần liền kề (chi tiết tại Điều 4 Thông tư): Đài trái đất hoạt động trong băng tần 3560-4000 MHz phải chuyển đổi tần số hoạt động ra khỏi băng tần này trước ngày 01 tháng 4 năm 2024. Đài trái đất hoạt động trong băng tần 3400-3560 MHz và 4000-4200 MHz phải lắp đặt bộ lọc đáp ứng mức suy hao tối thiểu 60 dB đối với tín hiệu thu trong băng tần 3600-3980 MHz.
+
+Thứ sáu, quy định trách nhiệm phối hợp xử lý nhiễu có hại giữa hệ thống IMT với các hệ thống khác (chi tiết tại Điều 5 Thông tư).
+
+Thông tư 13/2023/TT-BTTTT có hiệu lực thi hành kể từ ngày 7/1/2024.
+
+Như vậy, Thông tư 13 có ý nghĩa quan trọng đối với kế hoạch thương mại hóa 5G tại Việt Nam; là định hướng cho doanh nghiệp trong việc nghiên cứu phát triển, sản xuất và sử dụng thiết bị 5G tại Việt Nam; đồng thời, là hướng dẫn kỹ thuật cho doanh nghiệp áp dụng khi sử dụng băng tần 3560-4000 MHz triển khai 5G nhằm tránh nhiễu có hại cho các hệ thống khác.
+
+
+
+Theo Hiệp hội Thông tin di động toàn cầu (GSMA), mặc dù để triển khai mạng 5G hoàn chỉnh với đầy đủ các khả năng thì cần sử dụng các băng tần thấp (low-band), băng tần trung (mid-band) và băng tần cao (mmWave), tuy nhiên trong giai đoạn đầu triển khai 5G thì băng tần trung đóng vai trò quan trọng nhất. Bởi vì các băng tần này có thể cân bằng giữa khả năng đáp ứng băng thông rộng, liên tục để cung cấp tốc độ cao và khả năng phủ sóng rộng.
+
+Theo Báo cáo quý 2/2023 của GSMA, đến hết quý 2/2023, số các mạng 5G sử dụng băng tần trung chiếm 71% tổng số mạng 5G đã triển khai. Chính vì vậy, các quốc gia đều có định hướng, quy hoạch các băng tần trung, trọng tâm là các phần của băng tần 3400-4200 MHz để cấp phép cho các nhà mạng triển khai 5G.

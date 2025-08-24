@@ -1,0 +1,37 @@
+Theo CoinTelegraph, vào ngày 12/5, 2ví Bitcoincá voi đã giao dịch 61 triệu USD Bitcoin sau một thập kỷ không hoạt động. Cụ thể, 2 ví này đã mua tổng cộng 1.000 Bitcoin cách đây hơn 10 năm, khi Bitcoin chỉ có giá 134 USD mỗi đơn vị.
+
+Theo CoinTelegraph, vào ngày 12/5, 2 víBitcoin cá voiđã giao dịch 61 triệu USD Bitcoin sau một thập kỷ không hoạt động. Cụ thể, 2 ví này đã mua tổng cộng 1.000 Bitcoin cách đây hơn 10 năm, khi Bitcoin chỉ có giá 134 USD mỗi đơn vị.
+
+Ví Bitcoin là ứng dụng hoặc thiết bị được sử dụng để lưu trữ và quản lý Bitcoin. Ví Bitcoin cho phép người dùng kiểm soát và thực hiện giao dịch liên quan đến Bitcoin. Nói cách khác, ví Bitcoin hoạt động tương tự như tài khoản ngân hàng, nơi người dùng có thể gửi, nhận Bitcoin thông qua hai thành phần chính là địa chỉ ví và khoá riêng tư.
+
+Crypto whale (cá voi crypto) là thuật ngữ ám chỉ những cá nhân/tổ chức nắm giữa một lượng lớn token nhất định, đi cùng với kích thước mua bán có thể lên tới hàng triệu/tỷ USD. Ví dụ, cá voi Bitcoin ám chỉ những thực thể sở hữu trên 1,000 BTC với khả năng giao dịch đủ lớn và đủ để làm dao động giá của Bitcoin.
+
+Địa chỉ ví “16vRq…qjzEa” đã chuyển 500 Bitcoin tại khối 843.131 vào ngày 12 tháng 5 lúc 7:10 tối UTC, trong khi 500 Bitcoin còn lại được gửi theo địa chỉ “1DUJuH…NgfC5” hai khối sau đó, theo khối Bitcoin của Blockchain sẽ.com.
+
+Theo CoinGecko, mỗi ví đã nhận được 500 Bitcoin vào ngày 12 tháng 9 và ngày 13 tháng 9 năm 2013, khi Bitcoin có giá 134 USD. Ở mức giá hiện tại, tổng số tiền được chuyển nhượng hiện có giá trị gấp 456 lần so với giá mua lại của họ, ở mức 61,2 triệu USD.
+
+Kể từ khi chuyển tiền, một trong những địa chỉ nhận từ “16vRq…qjzEa” đã chuyển 500 Bitcoin sang vô số địa chỉ , trong khi người nhận từ địa chỉ “1DUJuH…NgfC5” vẫn đang giữ 500 Bitcoin.
+
+Các giao dịch chuyển tiền vào và ra diễn ra gần nhau đã thúc đẩy công ty phân tích blockchain Lookonchain ghép hai giao dịch lại với nhau và tin rằng hai ví này thuộc sở hữu của cùng một người hoặc tổ chức. Trước khi chuyển tiền, hai địa chỉ này là những con cá voi Bitcoin lớn thứ 4.353, theo BitInfoCharts.
+
+Chưa đầy một tuần trước, một ví Bitcoin thời Satoshi Nakamoto cũng đã chuyển 687 Bitcoin, trị giá 43,9 triệu USD sang hai địa chỉ riêng biệt.Theo một phân tích gần đây của Chainalysis và Fortune, mặc dù ít nhất một trong những ví Bitcoin đầu tiên này có xu hướng hoạt động trở lại mỗi tháng, nhưng có gần 1,8 triệu địa chỉ Bitcoin vẫn không hoạt động trong hơn một thập kỷ.
+
+Fortune cho biết những chiếc ví này, không bao gồm ví của Nakamoto, chứa khối lượng Bitcoin trị giá khoảng 121 tỷ USD. Mặc dù không thể biết số tiền này liệu có còn hoạt động hay thực sự bị mất nhưng 1,8 triệu địa chỉ chiếm 8,5% trong tổng số nguồn cung 21 triệu Bitcoin.
+
+Mọi người thường suy đoán rằng các ví không hoạt động có thể thức dậy để bán Bitcoin vào thời điểm thích hợp, những người khác cho rằng đó có thể là chuyển tiền đến một địa chỉ khác, có thể là dưới một nhà cung cấp dịch vụ ví không giám sát an toàn hơn.
+
+Bitcoin hiện có giá khoảng hơn 62.000 USD (tính tại thời điểm ngày 13/5) và tăng hơn 130% trong 12 tháng qua.
+
+Trong một bài đăng mới trên nền tảng X, Santiment tiết lộ rằng hoạt động on-chain trên mạng Bitcoin đang tiến đến mức thấp lịch sử. Tiết lộ này dựa trên xu hướng giảm đáng chú ý ở nhiều số liệu khác nhau, đặc biệt là khối lượng giao dịch, địa chỉ hoạt động hàng ngày và số lượng giao dịch cá voi. (On-chain (giao dịch trên blockchain) là các giao dịch tiền điện tử diễn ra trực tiếp trên blockchain và được ghi lại và xác minh bằng các cơ chế của nó).
+
+Theo nền tảng trí tuệ blockchain, các nhà đầu tư đã giao dịch ít hơn với BTC kể từ khi loại tiền điện tử hàng đầu đạt mức giá cao mới mọi thời đại. Kết quả là hoạt động trên chuỗi của Bitcoin đã giảm xuống mức thấp nhất kể từ năm 2019.
+
+Phân tích các số liệu, Santiment nhận thấy rằng khối lượng giao dịch trên blockchain đang giảm xuống mức thấp nhất trong thập kỷ qua.
+
+Hơn nữa, Santiment đã đề cập trong báo cáo của mình rằng số lượng địa chỉ hoạt động hàng ngày, đo lường số lượng địa chỉ riêng biệt tham gia giao dịch BTC vào bất kỳ ngày nào, đã đạt mức thấp nhất kể từ tháng 1 năm 2019.
+
+Nền tảng trí tuệ blockchain cũng tiết lộ rằng hoạt động của cá voi đã chậm lại trên mạng Bitcoin. Theo dữ liệu của Santiment, số lượng giao dịch của cá voi (lớn hơn 100.000 USD) đã giảm xuống mức thấp nhất kể từ cuối năm 2018.
+
+Nhìn bề ngoài, sự suy giảm hoạt động trên chuỗi có vẻ như là một xu hướng đáng lo ngại và có thể là biểu hiện của thị trường không ổn định. Tuy nhiên, Santiment lưu ý rằng đợt giảm giá này có thể không liên quan đến đợt giảm giá BTC sắp xảy ra – như đã thấy trong những tuần qua.
+
+Công ty phân tích cho biết sự sụt giảm trong hoạt động trên chuỗi là dấu hiệu rõ ràng hơn cho thấy “nỗi sợ hãi và sự thiếu quyết đoán của đám đông” giữa các nhà giao dịch. Cuối cùng, điều này nhấn mạnh mối liên hệ giữa hoạt động trên chuỗi và tâm lý trên thị trường Bitcoin.

@@ -1,0 +1,41 @@
+Ngày 16/1, Bộ trưởng Bộ Công an đã ký Quyết định số 170/QĐ-BCA cấp giấy chứng nhận đủ điều kiện kinh doanh dịch vụ xác thực điện tử cho Trung tâm nghiên cứu, ứng dụng dữ liệu dân cư và căn cước (là đơn vị sự nghiệp thuộc Bộ Công an). Đây là cơ sở pháp lý quan trọng để cung cấp dịch vụ xác thực điện tử phục vụ triển khai Đề án 06 của Chính phủ, chuyển đổi số quốc gia, hướng tới cung cấp dịch vụ trực tuyến cho người dân, tổ chức, doanh nghiệp.
+
+Bước đầu, Trung tâm nghiên cứu, ứng dụng dữ liệu dân cư và căn cước đã triển khai thí điểm các dịch vụ về xác thực điện tử như: Tích hợp ví điện tử, mở tài khoản thanh toán, chữ ký số, an sinh xã hội, lý lịch tư pháp, thuê bao di động…
+
+Tuy nhiên, quá trình triển khai có một số quy định cần phải điều chỉnh, bổ sung để tháo gỡ những khó khăn, vướng mắc như:
+
+Một là, quy định về xác thực điện tử trước đây chỉ bó hẹp với việc xác thực các dữ liệu được tạo lập từ hệ thống định danh điện tử, trong khi đó dữ liệu của người dân, doanh nghiệp được tạo lập, lưu trữ, xác thực từ nhiều nguồn khác nhau. Do vậy, cần thiết phải mở rộng các dữ liệu và dịch vụ được xác thực qua Tổ chức cung cấp dịch vụ xác thực điện tử.
+
+Hai là, tổ chức cung cấp dịch vụ xác thực điện tử chưa quy định các phương án tổ chức hoạt động thông qua các đại lý phân phối dịch vụ dẫn tới việc cung cấp dịch vụ xác thực điện tử có nhiều hạn chế, khó mở rộng và tiếp cận dịch vụ tới nhiều ngành, nhiều lĩnh vực, tổ chức, doanh nghiệp và cá nhân.
+
+Ba là, mức độ xác thực tài khoản định danh điện tử chưa bổ sung các yếu tố xác thực theo quy định của Luật Căn cước như sinh trắc giọng nói, mống mắt.
+
+Bốn là, chưa có quy định về giá trị của các dịch vụ xác thực điện tử đối với các giao dịch để khẳng định chủ thể danh tính, xác minh cho các giao dịch được đảm bảo và bên sử dụng dịch vụ tự quyết định về các mức độ xác thực được cung cấp từ Tổ chức cung cấp dịch vụ xác thực điện tử.
+
+Theo Bộ Công an, để tháo gỡ khó khăn, vướng mắc trong quá trình triển khai thực tiễn, hướng dẫn thi hành nội dung theo quy định của Luật Căn cước, đáp ứng yêu cầu, nhiệm vụ đặt ra trong tình hình hiện nay, cần thiết phải sửa đổi, bổ sung Nghị định quy định về định danh và xác thực điện tử để hoàn thiện hành lang cơ sở pháp lý triển khai thực hiện, tạo bước đột phá về chuyển đổi số ở nước ta.
+
+Bộ Công an cho rằng, việc sửa đổi, bổ sung Nghị định số 59/2022/NĐ-CP cho phù hợp với quy định của Luật Căn cước năm 2023 và đáp ứng yêu cầu thực tiễn là cần thiết.
+
+Thực tế, trong quá trình triển khai công tác cấp, quản lý, sử dụng tài khoản định danh điện tử đã xuất hiện một số tồn tại và các vấn đề phát sinh cần phải được xem xét để sửa đổi, bổ sung
+
+Cụ thể, việc người dân sử dụng thuê bao chưa đăng ký thông tin người sử dụng, thuê bao ít sử dụng, không sử dụng để đăng ký tài khoản định danh điện tử, dẫn đến khó khăn trong việc kích hoạt, sử dụng tài khoản định danh điện tử; Chưa quy định rõ các tiện ích của ứng dụng định danh quốc gia.
+
+Ngoài ra, đối với tổ chức không có mã số thuế khi cấp tài khoản định danh điện tử sẽ được hệ thống định danh và xác thực điện tử tạo lập mã định danh riêng để sử dụng; tuy nhiên, sau đó tổ chức này được cơ quan quản lý thuế cấp mã số thuế riêng. Như vậy, chưa có sự đồng nhất giữa mã định danh điện tử của tổ chức và mã số thuế, gây khó khăn cho công tác quản lý.
+
+Do đó, Bộ Công an đề xuất cần chỉnh lý quy định về mã định danh điện tử đối với tổ chức cho phù hợp, theo hướng đây là dãy số tự nhiên do hệ thống định danh và xác thực điện tử tạo lập cho tổ chức, thông tin về mã số thuế của tổ chức (nếu có) sẽ là 01 thông tin thuộc danh tính điện tử của tổ chức được đồng bộ vào hệ thống định danh và xác thực điện tử.
+
+Đến nay, Bộ Công an đã cấp trên 70,2 triệu tài khoản định danh điện tử cho người dân (vượt chỉ tiêu Chính phủ giao). Triển khai các tiện ích trên ứng dụng định danh quốc gia (VneID) vượt chỉ tiêu đề ra, trong đó có những nội dung mang lại nhiều tiện ích cho người dân như:
+
+Một là, đã tích hợp, sử dụng tài khoản định danh điện tử đăng nhập Cổng dịch vụ công Quốc gia với trung bình 15.312 lượt sử dụng tài khoản định danh điện tử đăng nhập/01 ngày, giúp người dân khắc phục tình trạng công dân không có số điện thoại chính chủ để tạo tài khoản đăng nhập, sử dụng dịch vụ công.
+
+Hai là, tích hợp 169,5 triệu thông tin mũi tiêm Covid-19 với tài khoản định danh điện tử. Giúp người dân không phải mang giấy chứng nhận đã tiêm vắcxin Covid-19 khi tham gia giao thông trong năm 2022.
+
+Ba là, triển khai dịch vụ công thông báo lưu trú trên tài khoản định danh điện tử với 1,1 triệu lượt. Giúp người dân không phải đến cơ quan Công an để thực hiện khai báo lưu trú.
+
+Bốn là, tích hợp thẻ căn cước trên tài khoản định danh điện tử. Giúp người dân không phải mang theo nhiều giấy tờ, sử dụng tài khoản định danh điện tử làm thủ tục tại các cảng hàng không nội địa mà không cần xuất trình thẻ căn cước gắn chip.
+
+Năm là, tích hợp thông tin cư trú của công dân, gồm thông tin hành chính của chủ hộ và các thành viên khác trong hộ gia đình lên tài khoản định danh điện tử, là giải pháp thay thế sổ hộ khẩu giấy.
+
+Sáu là, triển khai tiện ích kiến nghị, phản ánh về an ninh - trật tự trên tài khoản định danh điện tử: Đã có 5.974 kiến nghị phản ánh từ người dân. Tạo thuận tiện cho người dân trong việc phản ánh về tình hình an ninh - trật tự mà không phải đến cơ quan Công an, góp phần giúp phòng ngừa tội phạm từ sớm, từ xa.
+
+Bảy là, triển khai tuyên truyền, cảnh báo thủ đoạn tội phạm trên tài khoản định danh điện tử với các nội dung cảnh báo thủ đoạn giả danh các cơ quan Công an để lừa đảo chiếm đoạt tài sản.

@@ -1,0 +1,35 @@
+Ngày 1/8, trong khuôn khổ sự kiện GM Vietnam 2025 – Tuần lễ công nghệ blockchain lớn nhất Đông Nam Á, Hiệp hội An ninh mạng quốc gia (NCA) phối hợp cùng Công ty Verichains tổ chức GM Blockchain Security Forum 2025 với chủ đề “Resilience & Trust in the Digital Future”.
+
+Tại đây, ông Vũ Ngọc Sơn, Trưởng Ban Nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế, Hiệp hội An ninh mạng quốc gia, khẳng định Blockchain và tài sản số là một xu thế mà chúng ta không thể đứng ngoài.
+
+Ngay cả các quốc gia phát triển hàng đầu thế giới cũng đã bắt đầu tích lũy tài sản số từ sớm. Vấn đề nằm ở chỗ khi người dùng tham gia vào sàn, nếu sàn không được thiết kế và vận hành bài bản, thì rủi ro sẽ rất lớn.
+
+Sàn giao dịch tài sản số giống như một ngân hàng nhưng là ngân hàng hoạt động trên không gian mạng, lại không chịu sự giám sát hoặc áp dụng đầy đủ các tiêu chuẩn quản trị của ngân hàng truyền thống.
+
+Ví dụ, trong hệ thống ngân hàng hiện nay, khi tuyển dụng nhân sự, lý lịch được kiểm tra rất chặt chẽ. Các quy định nội bộ như máy tính cá nhân không được kết nối với hệ thống core banking, hay nhân viên làm việc từ xa phải qua lớp máy chủ bảo mật, đều là những rào chắn thiết yếu.
+
+Trong khi đó, nhiều sàn tài sản số hiện nay lại cho phép hệ thống kết nối linh hoạt từ bên ngoài, thậm chí từ mọi nơi và điều này đặt ra những thách thức cực lớn về an toàn thông tin.
+
+“Chúng ta đang đứng trước một loại hình ‘ngân hàng trên không gian mạng’ mà lại thiếu các chuẩn mực bảo mật cơ bản. Rủi ro có thể đến từ con người, quy trình, hay từ chính mô hình vận hành mở hiện nay. Các sàn này đang nắm giữ lượng tài sản rất lớn, nhưng lại thiếu những rào cản kiểm soát như trong ngân hàng truyền thống”, ông Sơn nói.
+
+Nói về mức độ sẵn sàng nguồn nhân lực cho vấn đề phòng thủ rủi ro từ các sản phẩm, dịch vụ công nghệ Blockchain, ông Nguyễn Lê Thành, CTO Verichains, cho rằng nếu so về mặt bằng chất lượng nhân lực an toàn thông tin trong khu vực, Việt Nam luôn là một trong những quốc gia nổi bật với đội ngũ kỹ sư có trình độ rất cao. Nhiều chuyên gia an toàn thông tin của chúng ta hiện đang giữ vai trò quan trọng tại các tập đoàn công nghệ lớn trên thế giới, trải rộng ở nhiều quốc gia khác nhau.
+
+Đặc biệt trong lĩnh vực Blockchain, Việt Nam cũng có những đơn vị được xếp vào nhóm hàng đầu toàn cầu về bảo mật Blockchain. Blockchain là một công nghệ mới, nhưng không phải quá khó để tiếp cận, vấn đề chỉ là chúng ta có thực sự ưu tiên và đầu tư đúng mức cho nó hay không.
+
+Các kỹ sư an toàn thông tin vốn đã có nền tảng vững chắc, khi chuyển sang mảng Blockchain security hoàn toàn có thể thích nghi nhanh chóng mà không gặp rào cản đáng kể nào.
+
+“Tôi tin rằng, nếu được định hướng và đầu tư bài bản, Việt Nam hoàn toàn có thể trở thành một trong những quốc gia có đội ngũ chuyên gia hàng đầu về bảo mật Blockchain, không chỉ trong khu vực mà cả trên phạm vi toàn cầu”, ông Thành nhấn mạnh.
+
+Trước đó, vụ tấn công mạng xảy ra vào tháng 2 từng khiến sàn Bybit bị đánh cắp lượng Ethereum trị giá 1,5 tỷ USD từ ví lạnh, trở thành vụ hack lớn nhất trong lịch sử ngành tiền điện tử. Đáng nói là nhóm kỹ sư từ Việt Nam, cụ thể là đội ngũ Verichains, đã giúp Bybit điều tra nguyên nhân vụ việc, góp phần làm rõ cơ chế tấn công và truy vết thủ phạm.
+
+
+
+Để phát triển hệ sinh thái blockchain Việt Nam một cách an toàn, lành mạnh và bền vững theo Trung tướng Nguyễn Minh Chính, Phó chủ tịch thường trực Hiệp hội An ninh mạng quốc gia, cần tập trung vào 3 chiến lược.
+
+Thứ nhất,thiết kế hệ sinh thái an toàn ngay từ đầu. Mọi lớp công nghệ từ hạ tầng chuỗi khối, hợp đồng thông minh, ví lưu ký  và hệ thống định danh cần được tích hợp các tiêu chuẩn an ninh, mã hóa và giám sát ngay từ khâu thiết kế bảo mật, cần phải là cấu phần mặc định không phải là giải pháp tình thế sau sự cố.
+
+Thứ hai,nâng cao khả năng phát hiện sớm và phản ứng nhanh, cần thiết lập cơ chế cảnh báo, chia sẻ thông tin ứng phó liên ngành giữa các bên. Mỗi nền tảng có quy trình xử lý khủng hoảng rõ ràng từ phát hiện, xử lý minh bạch, phục hồi trên nền tảng đó, từng bước hình thành năng lực phòng thủ chủ động cho toàn hệ sinh thái tài sản số.
+
+Thứ ba,đảm bảo tuân thủ pháp luật tiếp cận chuẩn mực quốc tế phát triển phải gắn với các quy định về phòng, chống rửa tiền, bảo vệ dữ liệu cá nhân, kiểm soát dòng vốn, đồng thời cần tích cực tham gia vào quá trình chuẩn chuẩn hóa công nghệ và hoàn thiện hành lang pháp lý, tạo nền tảng cho sự phát triển minh bạch và bền vững.
+
+Để phát triển hệ sinh thái blockchain Việt Nam một cách an toàn, lành mạnh và bền vững theo Trung tướng Nguyễn Minh Chính, Phó chủ tịch thường trực Hiệp hội An ninh mạng quốc gia, cần tập trung vào 3 chiến lược.Thứ nhất,thiết kế hệ sinh thái an toàn ngay từ đầu. Mọi lớp công nghệ từ hạ tầng chuỗi khối, hợp đồng thông minh, ví lưu ký  và hệ thống định danh cần được tích hợp các tiêu chuẩn an ninh, mã hóa và giám sát ngay từ khâu thiết kế bảo mật, cần phải là cấu phần mặc định không phải là giải pháp tình thế sau sự cố.Thứ hai,nâng cao khả năng phát hiện sớm và phản ứng nhanh, cần thiết lập cơ chế cảnh báo, chia sẻ thông tin ứng phó liên ngành giữa các bên. Mỗi nền tảng có quy trình xử lý khủng hoảng rõ ràng từ phát hiện, xử lý minh bạch, phục hồi trên nền tảng đó, từng bước hình thành năng lực phòng thủ chủ động cho toàn hệ sinh thái tài sản số.Thứ ba,đảm bảo tuân thủ pháp luật tiếp cận chuẩn mực quốc tế phát triển phải gắn với các quy định về phòng, chống rửa tiền, bảo vệ dữ liệu cá nhân, kiểm soát dòng vốn, đồng thời cần tích cực tham gia vào quá trình chuẩn chuẩn hóa công nghệ và hoàn thiện hành lang pháp lý, tạo nền tảng cho sự phát triển minh bạch và bền vững.

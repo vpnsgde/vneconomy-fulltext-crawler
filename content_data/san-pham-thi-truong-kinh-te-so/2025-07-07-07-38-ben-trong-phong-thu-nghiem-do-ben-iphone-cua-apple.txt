@@ -1,0 +1,29 @@
+Tại đây, các thiết bị sẽ phải trải qua những bài kiểm tra khắt khe nhằm đảm bảo hoạt động bền bỉ trong điều kiện sử dụng thực tế.
+
+Chính nhờ quy trình thử nghiệm nghiêm ngặt để đảm bảo độ bền trước khi ra mắt, iPhone luôn giữ được giá trị cao hơn tới 40% so với các mẫu điện thoại Android. Theo báo cáo của Counterpoint, Apple hiện chiếm tới 56% thị phần điện thoại thông minh toàn cầu.
+
+Ngoài iPhone, những thiết bị khác của Apple như Mac, iPad, Apple Watch hay AirPods cũng được đánh giá cao về độ bền, góp phần giúp chúng giữ giá lâu dài.
+
+Các thiết bị của Apple hiện được sử dụng ở hơn 175 quốc gia, thế nên Apple cho biết họ phải đảm bảo các sản phẩm luôn hoạt động ổn định, ngay cả trong điều kiện khí hậu khắc nghiệt.
+
+Apple có những bài kiểm tra thiết bị ở môi trường nóng ẩm, thậm chí thử ngâm thiết bị trong hơi muối suốt 100 giờ để xem có bị ăn mòn hay không. Một thử nghiệm khác là cho iPhone tiếp xúc với cát từ sa mạc Arizona để đánh giá xem bụi có lọt vào loa hay cổng sạc hay không.
+
+Thậm chí, Apple còn tạo ra mồ hôi và ráy tai nhân tạo trong phòng thí nghiệm, nghe có vẻ kỳ lạ nhưng rất thực tế, để kiểm tra khả năng chịu đựng của thiết bị với các yếu tố thường gặp trong đời sống hằng ngày.
+
+Một tiêu chí là khả năng kháng nước. Apple có hẳn một khu vực mô phỏng mưa, trong đó trần nhà nhỏ từng giọt nước xuống thiết bị – tuy không phải mưa thật nhưng cũng đủ để đánh giá hiệu quả chống nước. Nếu vượt qua bài kiểm tra này, thiết bị sẽ đạt chuẩn IPX5, trong đó chữ “X” nghĩa là chưa kiểm tra khả năng chống bụi.
+
+Tiếp theo, Apple đo khả năng chịu tia nước mạnh từ khoảng cách xa. Nếu thiết bị vượt qua được bài test này, nó sẽ đạt chuẩn chống nước IPX6. Với các mức chống nước cao hơn như IPX7 và IPX8 – tương đương khả năng ngâm nước ở độ sâu lần lượt khoảng 1 mét và 6 mét. Theo đó, Apple sử dụng các bể điều áp để mô phỏng môi trường thực tế.
+
+Đáng chú ý, không chỉ dừng lại ở nước sạch, Apple còn kiểm tra thiết bị trong nhiều loại chất lỏng như nước ngọt, nước trái cây, kem chống nắng hay nước hoa – những thứ rất dễ dây vào điện thoại trong đời sống hằng ngày.
+
+Hiện tại, chuẩn chống nước cao nhất trên dòng iPhone 16 vừa ra mắt là IP68, áp dụng cho iPhone 16 Pro và 16 Pro Max. Điều này có nghĩa thiết bị vừa kháng bụi hoàn toàn, vừa có thể chịu được độ sâu hơn 6 mét nước trong suốt 30 phút mà vẫn hoạt động bình thường.
+
+Apple cũng không bỏ qua các tình huống rơi vỡ – một trong những nguyên nhân phổ biến nhất khiến điện thoại cần sửa chữa.
+
+Counterpoint tiết lộ sau chuyến thăm phòng thử nghiệm chuyên dụng của Apple rằng hãng đã mô phỏng nhiều tình huống rơi tự nhiên, bất ngờ, tương tự như trong quá trình sử dụng hằng ngày.
+
+Apple thậm chí còn tạo ra một “robot vụng về” để thả rơi thiết bị theo nhiều góc độ, trên các bề mặt khác nhau như nhựa đường, sỏi hay đá granit. Sau mỗi lần rơi, thiết bị được kiểm tra bằng phần mềm riêng do chính các kỹ sư của Apple phát triển.
+
+Một bài kiểm tra khác đánh giá khả năng chịu rung, mô phỏng các tình huống mà thiết bị có thể gặp phải trong quá trình vận chuyển hoặc sử dụng lâu dài. Các thiết bị được đặt lên bàn rung để thử nghiệm mức độ ổn định và độ bền linh kiện.
+
+Counterpoint cho biết họ rất ấn tượng với mức độ tỉ mỉ trong quy trình thử nghiệm của Apple. Trung bình, trước khi một mẫu iPhone mới được ra mắt Apple có thể kiểm tra tới 10.000 thiết bị để đảm bảo chất lượng.

@@ -1,0 +1,21 @@
+CyberRush là sân chơi kỹ thuật chuyên sâu, quy tụ 20 chuyên gia an ninh mạng đến từ các tổ chức công nghệ và bảo mật lớn tại Việt Nam. Với thể thức thi đấu “rush” độc đáo - mỗi phần thi chỉ kéo dài 60 phút, CyberRush đòi hỏi thí sinh phải phân tích, phản ứng và xử lý tình huống tấn công mạng thực tế trong thời gian giới hạn.
+
+Tham dự cuộc thi, CMC Telecom cử 4 đại diện là những chuyên gia bảo mật trẻ: Nguyễn Công Thành (tsuwu), Lưu Minh Thắng (al3x), Trần Phi Long (NotSunde) và Huỳnh Lê Hữu Phước (OxB16D4ddy).
+
+Với số điểm 1.350, chuyên gia Nguyễn Công Thành đã xuất sắc giành ngôi Quán quân vòng thi Credential Rush, vượt xa các đối thủ. Vòng thi yêu cầu thí sinh giải quyết chuỗi bài toán thực chiến như: Phát hiện cấu hình sai trong hạ tầng Cloud; Triển khai kỹ thuật credential harvesting trên mạng truyền thống và môi trường Cloud; Áp dụng các kỹ thuật chuyên sâu như password dumping, password spraying, credential shuffling; Khai thác lỗ hổng trong hệ thống xác thực và dịch vụ đám mây.
+
+Chiến thắng này không chỉ thể hiện kỹ năng kỹ thuật xuất sắc, mà còn cho thấy khả năng phản ứng nhanh, đánh giá rủi ro và ứng phó linh hoạt trong tình huống tấn công phức tạp - đúng với triết lý vận hành an toàn mà CMC Telecom đang áp dụng cho hệ thống bảo vệ hạ tầng số của hàng ngàn khách hàng doanh nghiệp.
+
+Với đặc thù là nhà cung cấp hạ tầng số với mạng lưới tích hợp phức tạp, đội ngũ an toàn thông tin của CMC Telecom được huấn luyện trong môi trường có cường độ cao và sát thực tế. Các chuyên gia thường xuyên đối mặt với tình huống giả lập tấn công đa lớp, giúp rèn luyện phản xạ, cập nhật kỹ năng và làm chủ công nghệ mới. Đây là nền tảng giúp đội Red Team CMC Telecom luôn sẵn sàng ứng phó và xử lý hiệu quả các mối đe dọa ngày càng tinh vi mà doanh nghiệp phải đối mặt.
+
+Không chỉ dừng lại ở chiến thắng cá nhân, cả 4 đại diện của CMC Telecom đều lọt Top 5 chung cuộc, khẳng định sức mạnh đồng đều của đội ngũ bảo mật nội bộ. Đây là những chuyên gia đã và đang trực tiếp vận hành, giám sát, ứng phó với các rủi ro an ninh mạng cho khách hàng mỗi ngày trong môi trường thực tế khắt khe.
+
+Đội ngũ Security của CMC Telecom sở hữu hàng loạt chứng chỉ quốc tế như: CISA, CISM, CRISC.... chứng chỉ về quản lý rủi ro và chiến lược bảo mật; OSCP, OSCE, OSEP, OSCE3 - chứng chỉ chuyên sâu về tấn công và khai thác lỗ hổng; CREST - chứng nhận uy tín toàn cầu về năng lực kiểm thử bảo mật.
+
+Đặc biệt, CMC Telecom là một trong số rất ít doanh nghiệp Việt Nam có nhiều chuyên gia liên tục được vinh danh trên Hall of Fame toàn cầu của Apple - bảng vàng ghi nhận các cá nhân phát hiện và công bố lỗ hổng bảo mật có ảnh hưởng lớn đến hệ sinh thái của Apple. Thành tích này không chỉ thể hiện trình độ kỹ thuật cao, mà còn khẳng định năng lực nghiên cứu, phân tích và đóng góp tích cực vào cộng đồng an toàn thông tin quốc tế - một minh chứng rõ nét cho chiều sâu chuyên môn của đội ngũ CMC Telecom.
+
+Chiến thắng tại CyberRush 2025 là minh chứng cho định hướng “Security First” mà CMC Telecom kiên định theo đuổi - bảo mật không chỉ là lớp phòng vệ, mà là nền tảng thiết yếu trong mọi kiến trúc công nghệ.
+
+“Bảo mật phải là năng lực lõi, không chỉ trong hệ thống mà trong tư duy, phản xạ và hành động của con người. Những chiến thắng thực chiến như thế này chính là kết quả từ quá trình rèn luyện không ngừng của đội ngũ chúng tôi", chuyên gia Nguyễn Công Thành, người đã suất sắc dành giải nhất vòng thi Credential Rush, chia sẻ.
+
+CMC Telecom hiện đang bảo vệ hạ tầng số cho hơn 3.000 tổ chức, doanh nghiệp tại Việt Nam và quốc tế trong các lĩnh vực: tài chính - ngân hàng, bảo hiểm, viễn thông, sản xuất, thương mại điện tử và logistics. Với nền tảng bảo mật toàn diện, đội ngũ chuyên gia giàu kinh nghiệm và khả năng phản ứng linh hoạt, CMC Telecom cam kết tiếp tục là lá chắn vững chắc cho hành trình số của doanh nghiệp.

@@ -1,0 +1,23 @@
+Báo cáo từ Liên minh Viễn thông Quốc tế (ITU), cơ quan của Liên Hợp Quốc về công nghệ kỹ thuật số phối hợp thực hiện với Liên minh Chuẩn mực Thế giới (WBA) công bố ngày 5/6 cho thấy việc sử dụng trí tuệ nhân tạo (AI) của Amazon, Microsoft, Alphabet và Meta đã làm tăng lượng khí thải gián tiếp toàn cầu của họ, do lượng năng lượng khổng lồ cần thiết để vận hành các trung tâm dữ liệu.
+
+Khí thải gián tiếp bao gồm khí thải từ điện, hơi nước, sưởi ấm và làm mát mà các công ty này sử dụng.
+
+Cụ thể, lượng khí thải carbon từ hoạt động của Amazon tăng mạnh nhất với 182% vào năm 2023 so với ba năm trước, tiếp theo là Microsoft với 155%, Meta với 145% và Alphabet với 138%.
+
+ITU đã theo dõi lượng khí thải nhà kính của 200 công ty số hàng đầu từ năm 2020 - 2023.
+
+Meta, công ty sở hữu Facebook và WhatsApp, đã công bố báo cáo bền vững, trong đó cho biết họ đang nỗ lực giảm khí thải, năng lượng và nước sử dụng cho các trung tâm dữ liệu.
+
+Amazon cam kết vận hành bền vững hơn bằng cách đầu tư vào các dự án năng lượng không carbon mới, bao gồm năng lượng hạt nhân và năng lượng tái tạo.
+
+Trong khi đó, Microsoft nhấn mạnh báo cáo bền vững của mình, nêu rõ họ đã tăng gấp đôi mức tiết kiệm năng lượng vào năm ngoái và đang chuyển sang các thiết kế làm mát bằng chất lỏng ở cấp độ chip, thay vì các hệ thống làm mát truyền thống, để giảm năng lượng tiêu thụ tại các trung tâm dữ liệu.
+
+Báo cáo của ITU cho biết khi đầu tư vào AI tăng, lượng khí thải carbon từ các hệ thống AI hàng đầu được dự đoán có thể đạt tới 102,6 triệu tấn CO2 tương đương mỗi năm.
+
+Các trung tâm dữ liệu cần thiết cho sự phát triển AI cũng có thể gây áp lực lên cơ sở hạ tầng năng lượng hiện có.
+
+"Sự phát triển nhanh chóng của AI đang thúc đẩy nhu cầu điện toàn cầu tăng mạnh, với việc sử dụng điện của các trung tâm dữ liệu tăng nhanh gấp 4 lần so với mức tăng chung về mức tiêu thụ điện", báo cáo cho biết.
+
+Báo cáo nhấn mạnh các công ty kỹ thuật số đang tích cực đóng góp vào mục tiêu toàn cầu là đạt được một hành tinh không carbon. Các công ty cũng đang có những nỗ lực đáng kể như mua năng lượng tái tạo, đầu tư vào việc loại bỏ carbon, phát hành trái phiếu xanh và vận động cho các chính sách về môi trường.
+
+Ngoài ra, các sản phẩm và dịch vụ số đang cho phép giảm phát thải trong nhiều lĩnh vực khác nhau. Tuy nhiên, nhưng những tham vọng đó vẫn chưa chuyển thành mục tiêu giảm phát thải thực tế.

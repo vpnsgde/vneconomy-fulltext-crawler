@@ -1,0 +1,31 @@
+Bộ Nội vụ đã ban hành công văn 5034 về việc triển khai cơ sở dữ liệu quốc gia về cán bộ công chức, viên chức trong các cơ quan nhà nước theo mô hình chính quyền địa phương 2 cấp.
+
+Việc này để bảo đảm duy trì hoạt động “đúng - đủ - sạch - sống - thống nhất - dùng chung” của cơ sở dữ liệu quốc gia về cán bộ công chức, viên chức trong các cơ quan nhà nước, kết nối với cơ sở dữ liệu quốc gia về dân cư và cơ sở dữ liệu Đảng viên, công chức, viên chức.
+
+Theo đó, Bộ Nội vụ đề nghị các Bộ, ngành, cơ quan ngang Bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương thực hiện rà soát, đánh giá hiện trạng và lựa chọn các phần mềm/cơ sở dữ liệu.
+
+Cụ thể, rà soát, đánh giá các phần mềm/cơ sở dữ liệu quản lý cán bộ công chức, viên chức của các cơ quan trước khi sáp nhập, hợp nhất, để lựa chọn sử dụng thống nhất một hệ thống phần mềm cho Bộ, ngành, địa phương sau sáp nhập, hợp nhất đáp ứng các yêu cầu về chức năng, tính năng và tiêu chuẩn kỹ thuật đã được Bộ Nội vụ hướng dẫn.
+
+Kết quả lựa chọn đề nghị các đơn vị thông báo về Bộ Nội vụ để làm cơ sở phối hợp triển khai theo kịch bản phù hợp, thời gian hoàn thành trước ngày 20/7/2025.
+
+Cùng với đó, các đơn vị rà soát lại công tác quản lý khoá kết nối tới cơ sở dữ liệu quốc gia về cán bộ công chức, viên chức đã được Bộ Nội vụ cấp, thực hiện báo cáo kèm theo các thông tin về đầu mối liên hệ của cán bộ quản trị khoá kết nối.
+
+Bộ Nội vụ sẽ thực hiện công tác hủy các khóa kết nối của các phần mềm/cơ sở dữ liệu không còn sử dụng nữa, kích hoạt khoá kết nối cho phần mềm/cơ sở dữ liệu được Bộ, ngành, địa phương lựa chọn sử dụng chính thức và thông báo lại cho cán bộ đầu mối quản trị của đơn vị trước ngày 20/7/2025.
+
+Bộ Nội vụ cũng đề nghị các đơn vị tực hiện công tác nâng cấp, điều chỉnh phần mềm/cơ sở dữ liệu đáp ứng mô hình tổ chức mới và chính quyền địa phương 2 cấp, và thực hiện tích hợp với các API đồng bộ cây tổ chức đơn vị và API dữ liệu hồ sơ của cơ sở dữ liệu quốc gia về cán bộ công chức, viên chức.
+
+Việc nâng cấp, xây dựng phải đảm bảo tiết kiệm, hiệu quả, tránh lãng phí; đáp ứng yêu cầu về tích hợp dữ liệu với cơ sở dữ liệu quốc gia về cán bộ công chức, viên chức.
+
+Công tác hoàn thành nâng cấp phần mềm và dữ liệu bảng mã định danh đơn vị các cấp của Bộ, ngành địa phương cần được hoàn thành trước ngày 1/8/2025.
+
+Với các Bộ, ngành, địa phương được tổ chức sáp nhập từ nhiều đơn vị trước đây (ví dụ 3 tỉnh sáp nhập về 1 tỉnh, hoặc 2 bộ sáp nhập về 1 bộ, hoặc một số đơn vị thuộc cũ sáp nhập về 1 bộ mới), Bộ Nội vụ đề nghị các đơn vị tham khảo các kịch bản điều chuyển dữ liệu cụ thể giữa các phần mềm của một hay nhiều nhà cung cấp để đẩy nhanh tốc độ triển khai.
+
+Các đơn vị thực hiện triển khai công tác cập nhật điều chỉnh dữ liệu hồ sơ cán bộ, công chức, viên chức của đơn vị mình theo các thông tin mới về đơn vị công tác, chức danh, chức vụ, địa chỉ địa danh,… theo cây đơn vị mới, hoàn thành trước ngày 15/8/2025.
+
+Sau khi hoàn tất chuyển đổi và cập nhật dữ liệu, các Bộ, ngành, địa phương phải thực hiện ký số hồ sơ cán bộ, công chức, viên chức, thông báo lịch trình đồng bộ dữ liệu với Bộ Nội vụ trước ngày 30/8/2025. Việc đồng bộ chính thức sẽ được thực hiện từ ngày 1/9 đến hết 10/9/2025.
+
+Từ ngày 11/9/2025 trở đi, Bộ Nội vụ sẽ thực hiện đối khớp dữ liệu với cơ sở dữ liệu quốc gia về dân cư, trả kết quả để các đơn vị hoàn thiện hiệu chỉnh dữ liệu sai lệch. Việc đối khớp được thực hiện định kỳ hằng ngày.
+
+Trong thời gian chưa xây dựng “Nền tảng quản lý cán bộ, công chức, viên chức quốc gia”, Bộ Nội vụ cũng đề nghị các Bộ, ngành, địa phương thực hiện duy trì hoạt động thường xuyên hệ thống cơ sở dữ liệu cán bộ, công chức, viên chức thuộc phạm vi quản lý theo đúng quy định hiện hành của pháp luật.
+
+Việc này cần bảo đảm chỉ đạo của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.

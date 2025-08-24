@@ -1,0 +1,29 @@
+Hệ thống đo tốc độ truy cập Internet i-Speed do Trung tâm Internet Việt Nam (VNNIC), Bộ Thông tin và Truyền thông phát triển vừa công bố, cập nhật số liệu mới nhất về tốc độ, độ trễ mạng băng rộng di động Việt Nam trong tháng 7/2024.
+
+Đây là hệ thống đo trung lập, người dùng có thể chủ động lựa chọn điểm đo, thực hiện đo, và tự đánh giá tốc độ truy cập Internet của mình theo các tiêu chuẩn và gói cước cung cấp bởi các nhà mạng.
+
+Số liệu mới nhất cho thấy, chất lượng mạng di động băng rộng của các nhà mạng Viettel, VNPT, MobiFone, Vietnamobile liên tục tăng trưởng.
+
+Cụ thể, Viettel hiện đã vượt lên đứng đầu về tốc độ Internet di động. Cụ thể, trong tháng 7/2024, tốc độ download Internet di động của người dùng Viettel trung bình đạt 65.89 Mbps; tốc độ upload Internet di động trung bình đạt 21.71 Mbps.
+
+Ghi nhận trong 2 tháng qua, tốc độ mạng di động băng rộng của Viettel đã có sự tăng trưởng vượt bậc (tháng 6, tốc độ download là 63.81 Mbps, trong khi tháng 5 là 45.09 Mbps và tháng 4 là 43.9 Mbps).
+
+Ở vị trí thứ 2 là nhà mạng VNPT, (với tốc độ download Internet di động của người dùng VNPT trung bình đạt 52.99 Mbps; tốc độ upload Internet di động trung bình đạt 21.5 Mbps).
+
+Xếp vị trí thứ 3 và 4 lần lượt là hai nhà mạng di động MobiFone (download 37.19 Mbps, upload 20.59 Mbps) và Vietnamobile (download 10.59 Mbps, upload 3.99 Mbps).
+
+Như vậy, tốc độ download Internet di động băng rộng trung bình tại Việt Nam đã có 5 tháng liên tiếp tăng trưởng, kể từ tháng 3/2024. Trong giai đoạn này, tốc độ download di động đã tăng từ 38.69 Mbps (tháng 3) lên 54.34 Mbps (tháng 7), tăng nhẹ so với hồi tháng 6 (52.4 Mbps), nhưng là mức tăng cao nhất trong 1 năm qua. Tốc độ Internet upload băng rộng di động trung bình đạt 21.19 Mbps, tương đương tháng 6/2024.
+
+Thống kê tại 5 thành phố lớn, tốc độ băng rộng di động tháng 7 ghi nhận mức tăng mạnh, dẫn đầu là Đà Nẵng (75.84 Mbps); tiếp đó là Hải Phòng (59 Mbps), Cần Thơ (57.87 Mbps), Tp.HCM (52.56 Mbps), Hà Nội (51.47 Mbps).
+
+Ở mảng băng rộng cố định, tốc độ ghi nhận sự ổn định trên cả nước trong những tháng qua. Theo đó, tốc độ Internet tải xuống trung bình trên cả nước trong tháng 7 là 100.28 Mbps. Tốc độ tải lên trung bình tháng 7 là 102.34 Mbps. Trong 3 tháng gần đây, tốc độ Internet cố định cả đường lên lẫn đường xuống giữ ở mức ổn định, biến động không đáng kể, ở mức 1%.
+
+Kết qua đo các nhà mạng, nhà cung cấp có tốc độ download Internet cố định tốt nhất Việt Nam trong tháng 7 là Viettel (128.97 Mbps). Xếp vị trí thứ 2 là FPT Telecom (100.59 Mbps). VNPT đứng ở vị trí thứ 3 (95.82 Mbps).
+
+CMC Telecom đã có sự giảm mạnh về tốc độ mạng và không còn dẫn đầu về tốc độ Internet như ở các tháng trước. Số liệu thống kê về tốc độ download Internet cố định của CMC Telecom đã giảm từ 318.52 Mbps trong tháng 5 và 299.24 Mbps trong tháng 6 xuống còn 74.58 Mbps trong tháng 7. Kết quả này đẩy CMC Telecom xuống vị trí thứ 4. Theo sau ở vị trí thứ 5 và 6 là SCTV (73.26 Mbps) và Netnam (60.77 Mbps). Riêng SPT không đủ mẫu để đánh giá.
+
+Còn theo thống kê của Ookla Speedtest mới đây, tốc độ Internet cố định tại Việt Nam tháng 7 đạt 146,79 Mbps chiều tải xuống và 127,56 Mbps tải lên, đưa thứ hạng của Việt Nam từ 37 của tháng trước đó lên thứ 32. Tốc độ Internet băng rộng cố định tại Việt Nam tăng 15 bậc sau năm tháng, hiện đứng thứ 32 thế giới.
+
+Đây cũng là tháng thứ năm liên tiếp tốc độ băng rộng cố định tại Việt Nam tăng về cả về kết quả và xếp hạng. Hồi tháng 2, tốc độ đo tại Việt Nam đạt 107 Mbps, sau đó duy trì tăng đến nay.
+
+Trong khi đó, Internet băng rộng di động cũng chứng kiến việc tăng về tốc độ và xếp hạng qua bốn tháng. Ở kết quả đo tháng 7, chỉ số này đạt 55,41 Mbps tải về, 20,58 Mbps tải lên, xếp 44 toàn cầu.

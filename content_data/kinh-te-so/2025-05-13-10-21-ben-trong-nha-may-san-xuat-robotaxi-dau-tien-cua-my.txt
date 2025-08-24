@@ -1,0 +1,35 @@
+Nhà máy có diện tích gần 22.000 m², đi vào hoạt động từ tháng 10 năm ngoái, do Waymo, công ty con của Alphabet (tập đoàn mẹ của Google) điều hành.
+
+Chỉ cách nhà máy chừng 20 phút di chuyển, ngay tại sân bay Sky Harbor ở thành phố Phoenix, dễ dàng bắt gặp hình ảnh những chiếc taxi Waymo không người lái đậu cạnh các hãng xe dịch vụ truyền thông Uber hay Lyft truyền thống, sẵn sàng chở khách mà không cần tài xế.
+
+Phoenix, bang Arizona, Mỹ là một trong những nơi đầu tiên trên thế giới triển khai dịch vụ taxi tự lái, từ năm 2020. Họ đã thử nghiệm, cải tiến và vận hành công nghệ xe tự hành trong điều kiện thực tế suốt nhiều năm. Giờ đây, thành phố này không chỉ là "sân nhà" của Waymo mà còn trở thành trung tâm sản xuất robotaxi của hãng.
+
+So với những nhà máy sản xuất ô tô truyền thống có thể xuất xưởng hàng trăm nghìn xe mỗi năm, quy mô sản xuất của nhà máy Waymo ở Mesa (cách thành phố Phoenix 20 dặm), vẫn còn khá nhỏ. Thế nhưng, hiệu suất khai thác của đội xe robotaxi lại cho thấy một câu chuyện rất khác.
+
+Hiện có khoảng 1.500 xe tự lái Waymo đang hoạt động và mỗi tuần, đội xe này thực hiện hơn 250.000 chuyến đi có thu phí – tương đương trung bình 24 chuyến/ngày cho mỗi phương tiện.
+
+Và nếu nhà máy tại Mesa đạt mục tiêu đưa 10.000 robotaxi ra đường, đội xe này hoàn toàn có thể phục vụ tới 250.000 chuyến/ngày – tương đương hơn 1,5 triệu chuyến mỗi tuần.
+
+Waymo đặt mục tiêu đưa 10.000 xe tự lái vào vận hành trong tương lai gần. Khi đó, đội xe có thể phục vụ tới 250.000 chuyến đi mỗi ngày, tương đương hơn 1,5 triệu chuyến mỗi tuần. Với tần suất hoạt động như vậy, doanh thu hàng năm của công ty có thể đạt mốc 2 tỷ USD – cao gấp nhiều lần so với mức khoảng 100 triệu USD mà tạp chí Forbes từng ước tính vào năm ngoái. Dù công ty từ chối bình luận về con số này, nhưng tiềm năng tăng trưởng là điều khó có thể phủ nhận.
+
+Nhà máy mới của Waymo tại Mesa là một trong những mắt xích chiến lược quan trọng nhất trong kế hoạch mở rộng quy mô của công ty. Đây là dự án trị giá hàng triệu USD, được kỳ vọng sẽ mở ra chương tiếp theo trong hành trình thương mại hóa xe tự lái.
+
+Sau hơn một thập kỷ nghiên cứu âm thầm, thử nghiệm bền bỉ và triển khai các chương trình thí điểm kể từ năm 2009, cùng với hơn 11 tỷ USD huy động qua ba vòng gọi vốn và khoản đầu tư khởi đầu từ Google, Waymo cuối cùng đã bước ra khỏi “phòng thí nghiệm”. Waymo không còn là giấc mơ công nghệ trong phòng thí nghiệm.
+
+Cơ sở mới này thay thế trung tâm lắp ráp nhỏ hơn ở Detroit, từng đi vào hoạt động năm 2019 và đóng cửa vào cuối năm 2024.
+
+Bên trong nhà máy tại Mesa không có những dây chuyền băng tải rầm rập hay tiếng dập kim loại ầm ĩ như các nhà máy lắp ráp truyền thống. Thay vào đó là một quy trình lắp ráp thủ công tỉ mỉ: những chiếc xe thô được đưa vào từ một đầu nhà máy, với phần thân nhựa đã được cắt sẵn để chuẩn bị cho việc lắp đặt cảm biến.
+
+Từng chiếc một được các kỹ thuật viên tháo dỡ các bộ phận bên ngoài như nắp capo, cản xe, trước khi tiến hành gắn các bộ điều khiển, máy tính, cảm biến tại từng góc xe, cùng với thiết bị tích hợp lidar, camera và cảm biến âm thanh, mang lại tầm nhìn 3D cho xe tự lái.
+
+Toàn bộ công nghệ cốt lõi của Waymo, từ hệ thống lidar, radar, camera đến nền tảng máy tính, đều do chính công ty tự phát triển, và được sản xuất bởi mạng lưới đối tác toàn cầu thuộc tập đoàn mẹ Alphabet.
+
+Đến năm 2024, công ty đã chuyển mình từ một dự án công nghệ tiên phong trở thành một doanh nghiệp vận tải thực thụ. Các chuyến xe trả phí bắt đầu từ Phoenix giờ đây đã lan rộng đến San Francisco, Los Angeles, và gần đây nhất là Austin.
+
+Trong khi đó, các cuộc thử nghiệm cũng đang được tiến hành ở Nashville và thậm chí cả Tokyo. Nếu mọi việc suôn sẻ, Waymo có thể sẽ sớm vận hành hàng triệu lượt di chuyển mỗi tuần – nếu không muốn nói là mỗi ngày.
+
+Sau gần 16 năm, vụ đặt cược lớn của Alphabet có vẻ đang tiến gần đến thời điểm gặt hái thành quả.
+
+Phía sau bức tường cao bao quanh nhà máy, khu vực lưu trữ phương tiện được giữ kín với công chúng đang chứa hơn 2.000 chiếc Jaguar I-PACE màu trắng, nằm im lìm dưới nắng chói chang của bang Arizona, chờ ngày được “hô biến” thành robotaxi. Từ năm ngoái, Jaguar đã ngừng sản xuất mẫu SUV điện cao cấp này (từng có giá khoảng 72.000 USD). Nhưng Waymo đã kịp mua một số lượng lớn và sẽ tiếp tục sử dụng trong nhiều năm tới.
+
+Trong thời gian tới, đội xe của Waymo sẽ có thêm hai mẫu mới. Một là mẫu xe van điện đến từ Zeekr, thương hiệu thuộc Tập đoàn Geely của Trung Quốc, công ty mẹ của Volvo và Polestar. Mẫu còn lại là phiên bản Ioniq 5 chạy điện do Hyundai phát triển riêng cho Waymo. Những chiếc Ioniq 5 đầu tiên dự kiến sẽ lăn bánh vào cuối năm nay, được sản xuất tại “siêu nhà máy” Metaplant của Hyundai đặt tại Ellabell, bang Georgia.

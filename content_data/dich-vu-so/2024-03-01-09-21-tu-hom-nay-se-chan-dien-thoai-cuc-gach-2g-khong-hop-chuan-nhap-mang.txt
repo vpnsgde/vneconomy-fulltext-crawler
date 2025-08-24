@@ -1,0 +1,39 @@
+Danh sách của Cục Viễn thông thông báo, có 1.500 đơn vị đã được cấp hợp quy cho máy điện thoại di động chỉ hỗ trợ công nghệ 2G, với khoảng hơn 4.000 thiết bị. Cục Viễn thông cho biết, người dùng có thể tra cứu các dòng máy này tại link: https://tqc.gov.vn/2g-only.
+
+Từ tháng 7/2021, các mẫu điện thoại 2G only đã bị dừng cấp phép nhập khẩu vào Việt Nam. Do vậy, những thiết bị không hợp quy có thể được hiểu là máy xách tay, nhập lậu, tuồn vào Việt Nam qua đường tiểu ngạch... được đưa vào tiêu thụ ở thị trường trong nước từ sau thời điểm trên. Những máy nhập khẩu trước ngày 1/7/2021, được cấp chứng nhận hợp quy vẫn sử dụng bình thường cho tới thời điểm cắt sóng 2G trên toàn quốc.
+
+Thông báo nêu rõ, các doanh nghiệp viễn thông di động có trách nhiệm truyền thông rộng rãi việc triển khai giải pháp kiểm soát, ngăn chặn kết nối vào mạng viễn thông di động này tới khách hàng của mình; đồng thời, công bố các thông tin đầu mối giải quyết khiếu nại của khách hàng.
+
+Người dân có thắc mắc và khiếu nại về máy điện thoại 2G không được kết nối mạng cần gọi điện đến tổng đài chăm sóc khách hàng của doanh nghiệp di động để được hỗ trợ, hướng dẫn.
+
+Theo Công văn số 3095/BTTTT-CTS của Bộ Thông tin và Truyền thông về thông báo quy hoạch các băng tần 900/1800/2100MHz định hướng lộ trình dừng công nghệ 2G, từ tháng 9/2024 đến tháng 9/2026, hệ thống 2G hiện có được sử dụng cho dịch vụ thoại và nhắn tin cho thuê bao sử dụng máy điện thoại 3G và máy 4G không hỗ trợ công nghệ VoLTE. Các thuê bao sử dụng máy điện thoại 2G không được sử dụng trên hệ thống 2G trên băng tần 900MHz. Từ tháng 9/2026, băng tần 900MHz chỉ sử dụng cho 4G (IMT– Advanced) (dừng hệ thống di động 2G).
+
+
+
+Ngoài ra, theo Nghị định 25/2011/NĐ-CP quy định chi tiết và hướng dẫn thi hành Luật Viễn thông “Thiết bị đầu cuối, thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện, thiết bị công nghệ thông tin, thiết bị điện, điện tử thuộc danh mục thiết bị viễn thông, thiết bị vô tuyến điện, thiết bị ứng dụng sóng vô tuyến điện, thiết bị công nghệ thông tin, thiết bị điện, điện tử có khả năng gây mất an toàn do Bộ Thông tin và Truyền thông ban hành phải thực hiện chứng nhận hợp quy hoặc công bố hợp quy đối với từng chủng loại thiết bị và sử dụng dấu hợp quy trước khi lưu thông trên thị trường hoặc kết nối vào mạng viễn thông công cộng”.
+
+Bộ và các doanh nghiệp viễn thông di động triển khai giải pháp kiểm soát, ngăn chặn kết nối vào mạng viễn thông di động: không cho phép các máy điện thoại di động mặt đất 2G không được chứng nhận hợp quy nhập kết nối vào mạng di động.
+
+Việc triển khai giải pháp ngăn chặn máy điện thoại di động 2G không được chứng nhận hợp quy mới kết nối vào mạng là hoạt động nhằm triển khai lộ trình dừng công nghệ 2G, phổ cập điện thoại thông minh để thúc đẩy kinh tế số, xã hội số.
+
+Thời gian qua, các nhà mạng như Viettel, VinaPhone, MobiFone đã chủ động thông báo đến các khách hàng, khuyến nghị nhanh chóng kiểm tra SIM và điện thoại đang sử dụng có hỗ trợ 4G hay không để thực hiện chuyển đổi sớm nhất.
+
+Các nhà mạng lớn tại Việt Nam cũng đồng hành cùng khách hàng thông qua nhiều chương trình ưu đãi dành cho thuê bao 2G chuyển đổi lên 4G. Theo đó, Viettel đã ra mắt nhiều dòng máy feature phone và smartphone 4G giá rẻ đi kèm với chính sách ưu đãi trợ giá tới 50% một số dòng máy 4G giá rẻ có tính năng nghe gọi.
+
+Từ ngày 9/1/2024 đến hết 15/9/2024, người dùng đang sử dụng máy 2G và nhận được tin nhắn mời tham gia ưu đãi của VinaPhone khi thực hiện chuyển đổi sang máy 3G/4G/5G sẽ có ngay 30GB Data (1GB/ngày).
+
+Theo Giấy phép tần số cấp cho các nhà mạng triển khai mạng 2G sẽ hết hạn vào tháng 9/2024. Bộ Thông tin và Truyền thông sẽ quy hoạch lại, và các băng tần 1800MHz, 1900MHz không phục vụ cho máy 2G Only.
+
+Chia sẻ tại tọa đàm về vấn đề tắt sóng 2G mới đây, ông Nguyễn Phong Nhã, Phó Cục trưởng Cục Viễn Thông, Bộ Thông tin và Truyền thông nhấn mạnh, chủ trương tắt sóng 2G nhằm thúc đẩy cuộc cách mạng công nghiệp lần thứ 4, đảm bảo người dân có thể tiếp cận được các dịch vụ hành chính công trên môi trường hiện đại, với tốc độ cao. Việt Nam đã thử nghiệm 5G từ năm 2019, các nhà mạng đã sẵn sàng cho 5G
+
+Theo ông Nhã, một nhà mạng không thể tồn tại cùng lúc các công nghệ 2G, 3G, 4G, 5G, sẽ rất tốt kém cho việc khai thác, bảo dưỡng, vận hành. Do vậy, chủ trương tắt sóng 2G đạt được sự đồng thuận cao.
+
+Khi tắt sóng 2G và 3G, trên mạng sẽ chỉ còn công nghệ 4G. Khi đó hạ tầng viễn thông của nhà mạng sẽ triển khai phục vụ 5G, tạo điều kiện cơ hội để đến năm 2030 Việt Nam có thể khai thác 6G, đại diện Cục Viễn thông phân tích.
+
+Với chủ trương này, đại diện các nhà mạng, các chuyên gia đều khẳng định, việc dừng công nghệ 2G là phù hợp với xu thế, tối ưu quy hoạch tần số, hạ tầng mạng lưới và chi phí được đặt ra, đáp ứng yêu cầu chuyển đổi số quốc gia, đưa người dân lên môi trường số.
+
+Theo Viettel Telecom, việc tắt sóng 2G với mục đích chuyển đổi các khách hàng dùng 2G lên mạng 4G, sử dụng smartphone là chủ trương rất đúng đắn, phù hợp với xu thế cũng như mong muốn của các nhà cung cấp dịch vụ viễn thông, phù hợp với nhu cầu của khách hàng, xã hội trong giai đoạn hiện nay. Nhà mạng xác định mục tiêu đến tháng 9/2024, cần dịch chuyển, đưa số lượng thuê bao 2G trên mạng chỉ còn dưới 5% thì mới có thể tắt sóng.
+
+VinaPhone đã xác định chiến lược tắt sóng 2G, đưa vào hoạt động xây dựng kế hoạch, phát triển mạng lưới. Phần thiết bị trước đó chỉ có 2G, nhà mạng đang tiến hành tắt từng trạm riêng lẻ. Nhà mạng kết hợp cả hoạt động kỹ thuật cũng như tuyên truyền cho thuê bao trong khu vực đó, tiến hành tắt sóng khoảng 10% trạm riêng 2G. Nhà mạng đã xây dựng kế hoạch, giải pháp để đến tháng 9/2024 cam kết thực hiện chuyển đổi tất cả thuê bao, thiết bị 2G only.
+
+Còn với nhà mạng MobiFone, về mặt công nghệ và xu hướng, nhà mạng ủng hộ chủ trương tắt sóng 2G, chuyển khách hàng sử dụng 2G Only sang 4G, 5G để tối ưu tần số, hạ tầng, triển khai thêm nhiều dịch vụ số.

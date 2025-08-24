@@ -1,0 +1,27 @@
+Ngày 13/9/2024, Bộ Thông tin và Truyền thông đã ban hành Thông tư số 10/2024/TT-BTTTT ngưng hiệu lực thi hành một số nội dung của Thông tư số 03/2024/TT-BTTTT và Thông tư số 04/2024/TT-BTTTT liên quan đến quy hoạch băng tần cho hệ thống thông tin di động mặt đất công cộng IMT.
+
+Với Thông tư này, sẽ kéo dài thời hạn cung cấp dịch vụ 2G Only thêm một tháng, tức sẽ tắt sóng 2G vào ngày 15/10 thay cho thời điểm ngày 15/9 như quy định.
+
+Trước đó, Thông tư số 03/2024/TT-BTTTT và 04/2024/TT-BTTTT đã quy định từ ngày 16/9/2024, các hệ thống thông tin di động theo tiêu chuẩn GSM trên băng tần 1710-1785 MHz, 1805-1880 MHz, 880-915 MHz và 925-960 MHz sẽ ngừng cung cấp dịch vụ cho các thiết bị đầu cuối chỉ hỗ trợ tiêu chuẩn 2G Only. Ngoại lệ được áp dụng cho các thiết bị sử dụng mạng 2G Only cho mục đích truyền nhận dữ liệu giữa các thiết bị (M2M) hoặc tại các khu vực đặc biệt như Trường Sa, Hoàng Sa, và nhà giàn DK.
+
+Chiều cùng ngày, tại buổi họp báo thường kỳ tháng 9/2024, ông Nguyễn Phong Nhã, Phó Cục trưởng Cục Viễn thông, đã giải thích lý do tại sao phải lùi thời hạn tắt sóng 2G.
+
+Cục Viễn thông cho biết, tính đến ngày 8/9, trên mạng lưới còn khoảng 3,4 triệu máy thuê bao 2G Only.
+
+Có thể thấy, kể từ tháng 5/2024 đến nay, khi Thông tư quy hoạch băng tần cho hệ thống thông tin di động mặt đất được ban hành, số lượng thuê bao 2G Only trên mạng đã giảm rất nhanh.
+
+Đây là nỗ lực của các nhà mạng trong chuyển đổi thuê bao 2G Only, để thực hiện kế hoạch dừng công nghệ 2G theo Thông tư số 03, Thông tư số 04 về quy hoạch các băng tần của Bộ Thông tin và Truyền thông.
+
+Tuy nhiên, cơn bão số 3 Yagi vừa qua đã làm ảnh hưởng tới việc tiếp cận người sử dụng, mức độ quan tâm chuyển đổi của người dùng cũng hạn chế bởi bão. Trong thời gian qua, các doanh nghiệp di động tập trung dành mọi nguồn lực để khắc phục hậu quả thiên tai do cơn bão số 3 gây ra nên việc hỗ trợ chuyển đổi 2G cũng bị gián đoạn.
+
+Do ảnh hưởng của thiên tai và bão lũ, các doanh nghiệp viễn thông kiến nghị với Bộ lùi thời hạn tắt sóng 2G để không làm gián đoạn liên lạc.
+
+Căn cứ kiến nghị của các doanh nghiệp viễn thông cũng như tình hình thực tế, ông Nhã cho biết Cục Tần số đang phối hợp với Cục Viễn thông và các đơn vị đang tham mưu, đề xuất với lãnh đạo Bộ Thông tin và Truyền thông cho phép dừng một phần việc thực hiện các Thông tư 03, 04 về quy hoạch các băng tần, điều chỉnh thời điểm tắt sóng 2G Only.
+
+Điều này nhằm giúp các nhà mạng có thêm thời gian hỗ trợ người dân, cũng như tiếp tục thông tin tới người dân về quy định tắt sóng 2G. Các nhà mạng có thể hỗ trợ 100% thiết bị đầu cuối điện thoại 4G phím bấm tới người sử dụng khi chuyển đổi và đảm bảo quyền lợi người dùng, chất lượng dịch vụ được duy trì ổn định.
+
+Đại diện Cục Viễn thông cũng cho biết hạ tầng kỹ thuật mạng 2G vẫn tiếp tục phát sóng trong 2 năm tới để duy trì các dịch vụ IoT; theo dõi giám sát hành trình, đo công tơ điện nước; các thiết bị cảm biến dùng công nghệ 2G…; đồng thời phục vụ cho các thuê bao 4G chưa có tính năng Voice Over LTE thực hiện thoại và nhắn tin.
+
+Quyết định ngưng thời hạn tắt sóng 2G không làm thay đổi mục tiêu chiến lược của Bộ Thông tin và Truyền thông về việc dừng cung cấp dịch vụ 2G, mà chỉ nhằm xử lý tình huống khẩn cấp trước mắt, đảm bảo thông tin liên lạc cho người dân giữa lúc thiên tai diễn biến phức tạp.
+
+Ngoài ra, việc tạm hoãn này cũng sẽ giúp hỗ trợ quá trình chuyển đổi công nghệ, giúp giảm thiểu khó khăn trong việc tắt sóng 2G và đẩy nhanh tiến độ triển khai các công nghệ di động tiên tiến hơn tại Việt Nam.

@@ -1,0 +1,65 @@
+Theo Ngân hàng Nhà nước, đến giữa năm 2023, khoảng 75% người trưởng thành tại Việt Nam đã có tài khoản ngân hàng. Nhiều ngân hàng có hơn 90% giao dịch khách hàng thực hiện trên môi trường số. Chuyển đổi số mang lại nhiều lợi ích song cũng làm phát sinh nhiều rủi ro mới, mà nổi lên là sự gia tăng của các loại tội phạm lừa đảo trên không gian mạng.
+
+Theo số liệu của Cục An toàn thông tin, Bộ Thông tin và Truyền thông, trong 6 tháng đầu năm, tình hình lừa đảo trực tuyến tại Việt Nam tăng 64,78% so với cùng kỳ năm ngoái; tăng 37,82% so với 6 tháng cuối năm 2022.
+
+Mọi ngả đường mà những kẻ lừa đảo vẽ ra đều hướng tới túi tiền của người dân. Mục đích cuối cùng của chúng là chiếm đoạt tiền của những người bị hại.
+
+Trên website của Trung tâm Giám sát an toàn không gian mạng quốc gia (Bộ Thông tin và Truyền thông), danh sách các chiêu trò/kịch bản lừa đảo trên không gian mạng được cập nhật liên tục và đã nối dài lên con số 22 (tại ngày 29/9/2023).
+
+Anh Hoàng Thắng, Thành viên của dự án Chống lừa đảo trên mạng, cho biết sau 2 năm hoạt động, dự án đã ngăn chặn hơn 17.000 website độc hại, chuyên lấy cắp thông tin và dữ liệu người dùng để thực hiện các hành vi lừa đảo chiếm đoạt tiền trong tài khoản ngân hàng.
+
+Tội phạm lừa đảo len lỏi khắp mọi ngõ ngách, song theo các chuyên gia thì đối tượng bị lừa nhiều nhất là những người sống ở khu vực nông thôn. Người dân ở nông thôn thiếu kinh nghiệm trong việc sử dụng những dịch vụ ngân hàng trên nền tảng số.
+
+Theo Công ty cổ phần Bảo hiểm Ngân hàng Nông nghiệp (ABIC), các vụ lừa đảo chủ yếu dao động ở ngưỡng dưới 50 triệu đồng. Quy mô lừa đảo dưới 50 triệu đồng/vụ thường không gây sự chú ý của cơ quan điều tra; hơn nữa số tiền này cũng phù hợp với thu nhập của đại bộ phận người dân; đồng thời, phù hợp với mức thấu chi mà các ngân hàng thường áp dụng.
+
+Khi rủi ro phát sinh trên quy mô lớn thì các sản phẩm bảo hiểm ra đời nhằm cung cấp giải pháp quản trị rủi ro. Một số doanh nghiệp bảo hiểm ở Việt Nam đã đưa ra các sản phẩm bảo hiểm để bảo vệ người sử dụng dịch vụ ngân hàng trên nền tảng số.
+
+Bảo hiểm Agribank (ABIC là công ty con của Agribank) là một trong những doanh nghiệp tiên phong ra mắt sản phẩm Bảo an tài khoản để bảo vệ tổn thất về mặt tài chính cho khách hàng của Agribank khi sử dụng dịch vụ ngân hàng số bi lừa đảo mất tiền.
+
+Ông Đỗ Minh Hoàng, Thành viên Hội đồng quản trị của ABIC, cho biết kể từ khi ra mắt sản phẩm Bảo an tài khoản từ 21/3/2023 đến nay, ABIC đã chi trả cho 13 trường hợp là nạn nhân của lừa đảo trên mạng.
+
+“Mức bồi thường bình quân của một vụ là 20 triệu đồng. Con số thực tế này cũng khẳng định nghiên cứu và thống kê của các chuyên gia tính toán về món tiền mà các kẻ xấu nhắm tới và nó không gây sự chú ý cơ quan công an; nó không đủ lớn để cơ quan điều tra mở chuyên án”, ông Đỗ Minh Hoàng cho biết.
+
+Lãnh đạo ABIC cho biết qua tổng hợp thông tin của các khách hàng đã bị lừa mất tiền ở Bến Tre, Tây Ninh, Phú Yên, Đắk Lắk, Hà Nội, Hòa Bình và Hải Phòng thì có thể thấy kịch bản lừa đảo gồm 3 bước.
+
+Đầu tiên là phải đánh cắp được các thông tin của cá nhân, đây là bước đệm quan trọng nhất.
+
+Bước thứ hai là xây dựng các kịch bản lừa đảo phù hợp từng tình huống, phù hợp từng đối tượng, phù hợp với trình độ phát triển công nghệ hoặc những lỗ hổng bảo mật, lỗ hổng về an ninh.
+
+Sau 2 bước trên thì đến bước 3 là lấy tiền. Việc lấy tiền đã xảy ra trong chớp mắt, rất nhanh.
+
+“Có một khách hàng của chúng tôi bị lừa bằng công nghệ Deepfake. Anh ấy nhận được cuộc gọi của người thân qua Facebook, thấy đúng là khuôn mặt, giọng nói người nhà mình rồi nhưng thực ra nó là lừa đảo. Nói được mấy câu nó tắt máy vì lý do sóng kém và chuyển sang nhắn tin yêu cầu chuyển tiền. Thế là anh ấy tình nguyện chuyển 75 triệu đồng cho bọn lừa đảo. Nhưng tài khoản ở Agribank chỉ còn có 35 triệu thôi, lại phải lấy 40 triệu từ một ngân hàng khác. Cũng may, 35 triệu đồng chuyển từ tài khoản Agribank thì anh ấy có mua bảo hiểm Bảo an tài khoản nên được bồi hoàn lại.…”, ông Đỗ Minh Hoàng chia sẻ.
+
+Các sản phẩm bảo hiểm giúp người sử dụng Internet hạn chế tổn thất tài chính nếu không may bị lừa đảo khi sử dụng các giao dịch điện tử đã tương đối phổ biến trên thế giới.
+
+Thống kê của Liên hợp quốc cho thấy, tính đến tháng 4/2023, thế giới có khoảng 5,18 tỷ người sử dụng Internet (chiếm gần 65% dân số) với gần 29 tỷ thiết bị kết nối.
+
+Việt Nam cũng đang hòa mình vào xu hướng chuyển đổi số, phát triển chính phủ điện tử, kinh tế số, xã hội số, công dân số với hơn 77,93 triệu người sử dụng Internet (chiếm hơn 79% dân số), xếp thứ 12 trên thế giới về tỷ lệ người sử dụng Internet.
+
+
+
+"Kể từ khi ra mắt sản phẩm Bảo an tài khoản từ 21/3/2023 đến nay, ABIC đã chi trả cho 13 trường hợp là nạn nhân của lừa đảo trên mạng.
+
+Mức bồi thường bình quân của một vụ là 20 triệu đồng. Con số thực tế này cũng khẳng định nghiên cứu và thống kê của các chuyên gia tính toán về món tiền mà các kẻ xấu nhắm tới và nó không gây sự chú ý cơ quan công an; nó không đủ lớn để cơ quan điều tra mở chuyên án".
+
+"Kể từ khi ra mắt sản phẩm Bảo an tài khoản từ 21/3/2023 đến nay, ABIC đã chi trả cho 13 trường hợp là nạn nhân của lừa đảo trên mạng.Mức bồi thường bình quân của một vụ là 20 triệu đồng. Con số thực tế này cũng khẳng định nghiên cứu và thống kê của các chuyên gia tính toán về món tiền mà các kẻ xấu nhắm tới và nó không gây sự chú ý cơ quan công an; nó không đủ lớn để cơ quan điều tra mở chuyên án".
+
+Theo các chuyên gia, với tốc độ số hóa như hiện nay, các sản phẩm bảo hiểm an ninh mạng cho cá nhân mang lại ý nghĩa lớn cho các chủ thể trong nền kinh tế. Không chỉ phân tán rủi ro, giúp hạn chế tổn thất, việc bảo vệ an toàn cho người dân khi sử dụng các dịch vụ tài chính ngân hàng trên không gian mạng cũng góp phần thúc đẩy chuyển đổi số theo mục tiêu mà Chính phủ đã đề ra.
+
+Các sản phẩm này cần dễ hiểu; nhất là các thủ tục mua bảo hiểm cũng như bồi thường bảo hiểm phải cực kỳ đơn giản và mức phí phải phù hợp với thu nhập của đại bộ phận người dân.
+
+Theo cập nhật từ thị trường, ở Việt Nam hiện nay đã có khoảng 6-7 doanh nghiệp bảo hiểm triển khai sản phẩm bảo hiểm tài khoản ngân hàng. Song, mức độ hấp thụ sản phẩm chưa cao.
+
+Đơn cử như sản phẩm Bảo an tài khoản của ABIC được thiết kế với phí bảo hiểm chỉ 6.500 đồng/tháng, mức bảo hiểm lên đến 40.600.000 đồng.
+
+Tuy nhiên, ông Đỗ Minh Hoàng, Thành viên Hội đồng quản trị ABIC cho biết, sau 6 tháng triển khai thì bình quân mỗi tháng chỉ có khoảng 10.000 chủ tài khoản biết đến và mua bảo hiểm bảo an tài khoản. Trong đó, người mua bảo hiểm chủ yếu là những chủ tài khoản đến mở mới. Ông Hoàng cho rằng con số trên là khiêm tốn so với quy mô 21 triệu khách hàng đang có tài khoản giao dịch tại Agribank.
+
+Theo ông Đỗ Minh Hoàng, một trong những nguyên nhân khiến mức độ hấp thụ sản phẩm bảo hiểm tài khoản ngân hàng còn thấp là do dư chấn của cuộc khủng hoảng niềm tin trên thị trường bảo hiểm đầu năm 2023 mà nổi cộm là kênh bán chéo bảo hiểm qua ngân hàng (bancassurance).
+
+“Đã có một cuộc khủng hoảng niềm tin xảy ra nhưng căn nguyên không nằm ở nhóm bảo hiểm rủi ro mà thuộc về khối nhân thọ. Khối nhân thọ có cái đặc tính là tích lũy và sinh lời, còn bên phi nhân thọ thì mục tiêu là bảo vệ, hai cái này khác nhau. Thế nhưng bây giờ cứ nói bán bảo hiểm qua ngân hàng là lập tức bị người dân đặt nghi vấn”, ông Hoàng giải thích.
+
+Còn khi được hỏi về sản phẩm bảo hiểm tài khoản ngân hàng, chị Hương Lan, nhân viên văn phòng ở Láng Hạ, Hà Nội, tỏ ra ngạc nhiên. Theo chị Lan, nếu phí bảo hiểm tài khoản ngân hàng khoảng 70.000 đồng – 80.000 đồng/tháng thì cũng chấp nhận được. Hiện nay, người dùng cũng phải trả nhiều khoản phí khác để sử dụng các cái dịch vụ tài chính ngân hàng trực tuyến. “Điều quan trọng là nếu không may bị lừa mất tiền thì thủ tục chi trả phải dễ dàng”, chị Lan nhấn mạnh.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 41-2023 phát hành ngày 09-10-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

@@ -1,0 +1,21 @@
+IDC Hòa Lạc có tổng diện tích sử dụng lên tới 23.000 m2 sàn, có quy mô đến 2.000 tủ racks – lớn nhất tại Việt Nam tính tới thời điểm hiện. IDC Hoà Lạc đã đạt chứng chỉ Uptime Tier III cho hạng mục thiết kế (TCDD), xây dựng lắp đặt (TCCF) và sắp tới sẽ là chứng chỉ về vận hành (TCOS).
+
+Các thiết bị trong IDC được cung cấp bởi các hãng nổi tiếng tới từ các nước G7: Cumin, Hitachi, Siemens…; Đặc biệt, trung tâm IDC có khả năng kết nối mạng siêu tốc, trung bình 2Gbps/rack đối với kết nối trong nước và 0.5Gbps/rack với kết nối mạng quốc tế.
+
+VNPT IDC Hòa Lạc được trang bị dự phòng N 1 đảm bảo vận hành an toàn và liên tục ngay cả khi thực hiện sửa chữa, bảo trì, giúp dịch vụ của khách hàng luôn được liên tục, ổn định và không gặp bất kỳ gián đoạn nào. Đặc biệt, hệ thống giám sát an ninh theo 6 lớp bảo mật từ ngoài vào trong Data Hall của Trung tâm dữ liệu đạt tiêu chuẩn quốc tế giúp đảm bảo an toàn dữ liệu của khách hàng ở mức cao nhất.
+
+Ông Huỳnh Quang Liêm, Tổng Giám đốc Tập đoàn VNPT, cho biết cùng với IDC Hòa Lạc, hiện VNPT đang sở hữu 8 trung tâm dữ liệu hiện diện tại các tỉnh, thành phố lớn gồm Hà Nội, Đà Nẵng, TP.HCM. Tất cả các Trung tâm này đều đáp ứng đầy đủ các tiêu chuẩn khắt khe trong nước và quốc tế. Trong đó IDC Hòa Lạc là lớn nhất và hiện đại nhất tại Việt Nam, có khả năng cung cấp các dịch vụ dữ liệu cao cấp nhất Việt Nam, sẵn sàng đáp ứng yêu cầu mang tính “may đo” của mọi phân khúc khách hàng trong nước và quốc tế.
+
+Ông Liêm cũng cho biết, dự kiến trong thời gian tới, VNPT sẽ tiếp tục tìm kiếm cơ hội hợp tác với đối tác và nhà đầu tư để xây dựng thêm các trung tâm dữ liệu mới tầm cỡ khu vực và thế giới, sử dụng công nghệ xanh và bền vững.
+
+Tại sự kiện, Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng, nhấn mạnh định hướng của Bộ Thông tin và Truyền thông về hạ tầng số Việt Nam gồm viễn thông, hạ tầng IOT, hạ tầng dữ liệu và hạ tầng cung cấp công nghệ như dịch vụ và các nền tảng số có tính hạ tầng.
+
+Theo Bộ trưởng Hùng, hạ tầng số thì phải có dung lượng siêu lớn, băng thông siêu rộng, phổ cập cập bền vững, xanh, thông minh, mở và an toàn. Hạ tầng này phải được ưu tiên đầu tư, hiện đại hóa và đi trước từng bước để thúc đẩy chuyển đổi số quốc gia, phát triển kinh tế số, xã hội số.
+
+Hạ tầng dữ liệu là hạ tầng quan trọng bậc nhất của hạ tầng số, các nhà mạng viễn thông đã đi đầu về hạ tầng viễn thông thì nay phải đi đầu về hạ tầng dữ liệu. Đầu tư trung tâm dữ liệu là đầu tư mới của các nhà mạng viễn thông, không đầu tư vào đâu thì nhà mạng không có không gian tăng trưởng mới và sẽ bị thay thế.
+
+Cũng theo Bộ trưởng Hùng, cứ mỗi 3 năm dữ liệu thế giới lại tăng gấp đôi. Việt Nam tăng nhanh hơn. Hiện Việt Nam đang có 29 trung tâm dữ liệu vừa và nhỏ, tương đương với 15 trung tâm dữ liệu tại Hòa Lạc khai trương hôm nay. Như vậy mỗi năm phải khánh thành được 5 trung tâm như này mới có thể cơ bản đáp ứng được nhu cầu dữ liệu của Việt Nam.
+
+Người đứng đầu ngành thông tin và truyền thông, cho rằng VNPT là tập đoàn hàng đầu về hạ tầng số của Việt Nam phải có những đầu tư đi trước như VNPT IDC hòa lạc hoặc lớn hơn. Dữ liệu là tài nguyên quan trọng nhất của kinh tế số, sự giàu có của một quốc gia trong tương lai sẽ được đo bằng dữ liệu. Dữ liệu lớn và xử lý dữ liệu lớn sẽ là ngành công nghiệp lớn nhất. VNPT và các nhà mạng lớn khác ở Việt Nam phải có một tầm nhìn đúng về hạ tầng dữ liệu của một quốc gia.
+
+Ông cũng yêu cầu thời gian tới, VNPT xây dựng trung tâm dữ liệu ngang tầm quốc tế, là nhà cung cấp hạ tầng số đáp ứng được các nhu cầu của Chính phủ số, kinh tế số và xã hội số, để các doanh nghiệp Việt Nam không còn lo lắng tìm nơi lưu trữ, xử lý dữ liệu bên ngoài Việt Nam cũng như thu hút được khách hàng trên toàn cầu.

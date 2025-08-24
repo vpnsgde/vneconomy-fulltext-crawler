@@ -1,0 +1,43 @@
+Tuy nhiên, khi sử dụng công nghệ phân tích dữ liệu, sẽ khắc phục được nhược điểm này. Tạp chí Kinh tế Việt Nam/VnEconomy đã có cuộc trao đổi với ông Nguyễn Hải Nam, Giám đốc Công ty TNHH Credit 360.AI, xung quanh chủ đề trên.
+
+Thưa ông, có ý kiến cho rằng cách thức tiếp cận tín dụng ở các ngân hàng và công ty tài chính lâu nay vẫn chủ yếu dựa vào tài sản đảm bảo mà thiếu đi các kênh thu thập thông tin khác, do đó để lọt rất nhiều khách hàng mà đáng lẽ họ có thể chấp nhận cho vay, ý kiến của ông về vấn đề này như thế nào?
+
+Phương pháp đánh giá truyền thống thông qua kiểm tra điểm tín dụng của Trung tâm Thông tin tín dụng quốc gia Việt Nam (CIC) chưa thể hiện được toàn bộ khả năng tín dụng của người đi vay. Mặc dù vậy, các tổ chức tín dụng và các ngân hàng đều phải kiểm tra CIC khách hàng. Đây gần như là bước đầu tiên của các tổ chức để đánh giá rủi ro.
+
+Như vậy, dựa vào CIC, có thể phân loại những người không tiếp cận được khoản vay thành các nhóm như sau.
+
+Nhóm thứ nhấtlà những người có CIC tốt nhưng không đáp ứng điều kiện cho khoản vay theo cách thẩm định hiện tại. Ví dụ như yêu cầu khách hàng cần có tài sản đảm bảo, có sao kê lương qua ngân hàng hoặc doanh nghiệp yêu cầu hoạt động trên 3 năm và có lợi nhuận,…
+
+Nhóm thứ hailà những người có CIC tốt, đáp ứng được điều kiện vay nhưng thủ tục vay lại không đáp ứng mong muốn của người vay như hạn mức được vay quá thấp so với kỳ vọng, thời gian giải ngân quá lâu hoặc mức phạt cao khi trả nợ trước kỳ hạn.
+
+
+
+Hiện nay,  đã có nhiều tổ chức tín dụng cầu thị, chủ động thích ứng và có giải pháp chấm điểm tín dụng từ nhiều kênh dữ liệu khác bên cạnh thông tin từ CIC.
+
+Nhóm thứ balà những người không có thông tin của CIC do không có tài khoản ngân hàng hoặc chưa từng có hoạt động vay tại ngân hàng, hoặc các tổ chức tín dụng, nên không có thông tin về lịch sử tín dụng. Nhóm này khi tiếp cận các tổ chức để vay tín chấp cũng gặp muôn vàn khó khăn trong việc yêu cầu cung cấp thông tin.
+
+Nhóm thứ tưlà những người có CIC xấu khi có những khoản nợ quá hạn. Nhóm này bắt buộc phải kiểm soát rủi ro nên luôn cần có những tài sản đảm bảo khi tiến hành lập hồ sơ vay tín dụng.
+
+Ngoại trừ nhóm thứ tư thì ba nhóm đầu có số lượng chiếm đông đảo trong xã hội hiện nay và là nhóm cần sự quan tâm, hỗ trợ để cải thiện việc tiếp cận nguồn vốn chính thống.
+
+Hiện nay,  đã có nhiều tổ chức tín dụng cầu thị, chủ động thích ứng và có giải pháp chấm điểm tín dụng từ nhiều kênh dữ liệu khác bên cạnh thông tin từ CIC. Bằng biện pháp này các tổ chức tín dụng có thể tiếp cận được tệp khách hàng sâu hơn, rộng hơn mà trước đây theo cách truyền thống khó có cơ hội chạm tới. Tuy nhiên việc này cũng chưa thực sự được ứng dụng rộng rãi và mạnh mẽ mà chỉ xuất hiện đơn lẻ ở một số tổ chức, đặc biệt là nhóm công ty tài chính và nhánh ngân hàng số tại các ngân hàng.
+
+Ông có thể chia sẻ thêm về những nguồn dữ liệu khác để có thể chấm điểm tín dụng của người đi vay là gì?
+
+Hiện nay có nhiều phương pháp chấm điểm tín dụng mới, có tích hợp công nghệ cao được nhiều ngân hàng và các tổ chức tín dụng áp dụng. Mô hình chấm điểm tín dụng sử dụng thuật toán tự học (AI) kết hợp với phân tích dữ liệu lớn đa dạng (Big Data) giúp phân tích dữ liệu người vay hiệu quả, nhanh chóng đưa ra kết quả chấm điểm toàn diện hơn, chính xác hơn.
+
+Ngoài ra, các bên cho vay có thể dựa vào các nguồn dữ liệu thay thế khác như lịch sử điện thoại, lịch sử thanh toán trên các nền tảng mua bán hàng trực tuyến, lịch sử giao dịch trên ví điện tử hay các khoản thanh toán hóa đơn điện/nước,…
+
+Thực tế chỉ ra có nhiều quốc gia đã áp dụng đồng thời cách chấm điểm truyền thống lẫn tích hợp công nghệ trong việc chấm điểm tín dụng cá nhân cho nhóm người dưới chuẩn.
+
+Trong tương lai, những mô hình cho vay mới theo xu hương tài chính nhúng (Embedded Finacing) và việc áp dụng phương pháp chấm điểm áp dụng công nghệ AI càng được phát triển, cho phép đánh giá ra quyết định cấp tín dụng tức thời ngay khi khách hàng có nhu cầu, giúp tăng trải nghiệm khách hàng.
+
+Thời gian gần đây, Nghị định số 13/2023/NĐ-CP về Bảo vệ dữ liệu cá nhân được ban hành, ông đánh giá thông tư này có tác động như thế nào đến hoạt động thu thập dữ liệu người dùng phục vụ chấm điểm tín dụng cá nhân?
+
+Nghị định số 13 là một bước cần thiết và quan trọng của cơ quan quản lý trong chấn chỉnh việc chia sẻ, lộ lọt dữ liệu cá nhân một cách tràn lan trong khoảng thời gian qua.
+
+Đi kèm với Nghị định số 13, việc Ngân hàng Nhà nước nỗ lực tích hợp dữ liệu người dân trên VNeID với hệ thống cơ sở dữ liệu của ngành ngân hàng đã giúp ích rất nhiều cho các tổ chức tín dụng. Đây là nguồn dữ liệu có độ chính xác, tin cậy cao nên các tổ chức tín dụng dễ dàng xác thực danh tính trước khi tiến hành thẩm định chấm điểm tín dụng người đi vay, giúp tiết kiệm thời gian và tiền bạc, giảm rủi ro gian lận danh tính khi đi vay...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 26-2024 phát hành ngày 24/6/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

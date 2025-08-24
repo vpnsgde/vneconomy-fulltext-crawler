@@ -1,0 +1,19 @@
+Ông Trần Kim Chung, Chủ tịch CT Group, khẳng định việc ra đời bản thiết kế chip đánh dấu bước phát triển công nghệ lõi tại Việt Nam. Mặc dù chip ADC (Analog-to-Digital Converter, chuyển đổi tín hiệu tương tự thành tín hiệu số) là một chip khó thường để ra được bản thiết kế phải mất 2 năm, nhưng đã được đội ngũ công ty thực hiện với một thời gian ngắn kỉ lục (6 tháng) theo tinh thần Nghị quyết 57.
+
+Ngoài ra, chip ADC này có tên thương mại CTDA200M được xem là bản thiết kế chip 12 bit tốc độ mẫu 200 MSPS đầu tiên của Việt Nam, do đội ngũ Diginal (một thành viên của CT Group) thiết kế. Chip CTDA200M sẽ được sản xuất bởi TSMC của Đài Loan (Trung Quốc) từ tháng 7/2025, sau đó được tiến hành đóng gói và hoàn thiện tại nhà máy sản xuất chip bán dẫn ATP của CT Semiconductor vào tháng 11/2025 và thương mại hoá vào tháng 12/2025.
+
+Mẫu chip này ứng dụng công nghệ thiết kế tiên tiến như CMOS và III/V Semi, phù hợp với các lĩnh vực đang có nhu cầu cao như UAV, quốc phòng, viễn thông 5G/6G, AI, cảm biến và hệ thống IoT. Đặc biệt, chip tích hợp các lõi IP có thể tùy chỉnh theo yêu cầu, đáp ứng nhiều tiêu chuẩn kỹ thuật khác nhau, từ ADC/DAC điều chế tín hiệu đến NPU và DSP.
+
+Theo đại diện của CT Group, không chỉ dừng lại ở thiết kế, tập đoàn này hiện đang hoàn thiện hệ sinh thái bán dẫn khép kín với các trung tâm thiết kế, nhà máy lắp ráp - đóng gói - kiểm thử (ATP) tại TP.HCM, Hà Nội cùng mạng lưới hợp tác quốc tế trong lĩnh vực quang khắc. Mô hình này giúp CT Group từng bước làm chủ toàn trình sản xuất chip bán dẫn, góp phần đảm bảo an ninh công nghệ cho Việt Nam.
+
+Tập đoàn CT Group cũng đặt mục tiêu tự chủ công nghệ quang khắc vào năm 2030, với phương án kết hợp đầu tư từ Nhà nước và doanh nghiệp, nhằm phát triển các dòng chip phục vụ an ninh, quốc phòng và các sản phẩm công nghệ chiến lược. Các nhà máy và trung tâm nghiên cứu hiện tại đã sẵn sàng cho việc thương mại hóa các sản phẩm chip “Made in Vietnam”.
+
+Phát biểu tại sự kiện, Ông Nguyễn Văn Được, Chủ tịch UBND TP.HCM đánh giá cao việc ra mắt bản thiết kế chip ADC - một sản phẩm công nghệ cao do chính các kỹ sư Việt Nam thiết kế, đánh dấu bước tiến quan trọng trong hành trình làm chủ công nghệ lõi, khẳng định năng lực sáng tạo và tinh thần vươn lên của người Việt trong kỷ nguyên số.
+
+Đồng thời, việc ra mắt thiết kế chip ADC không chỉ là niềm tự hào riêng của CT Group mà còn góp phần hiện thực hóa khát vọng về một Việt Nam làm chủ công nghệ. Điều đó cho thấy Tập đoàn CT Group đã rất năng động, sáng tạo, đi tắt - đón đầu với tầm nhìn chiến lược, sự quyết tâm “tự lực, làm chủ các công nghệ tiên tiến” để mở rộng đa ngành nghề sang lĩnh vực khoa học - công nghệ, đổi mới sáng tạo và chuyển đổi số. CT Group từ đóng gói, kiểm thử đến thiết kế chip… là minh chứng rõ nét cho phát huy nguồn lực nội sinh của doanh nghiệp Việt Nam.
+
+“Đây cũng là sự kiện rất có ý nghĩa chào mừng thành công của cuộc cách mạng sắp xếp bộ máy “tinh, gọn, mạnh, hiệu năng, hiệu lực, hiệu quả”, thực hiện chính quyền địa phương 02 cấp và sáp nhập đơn vị hành chính cấp tỉnh để hình thành một TP.HCM mới là một siêu đô thị quốc tế về tài chính - công nghiệp công nghệ cao - kinh tế biển của đất nước”, ông Được cho hay.
+
+Báo cáo sơ kết 6 tháng triển khai Nghị quyết 57, Tập đoàn CT Group cho biết, đã tổ chức thành công hơn 40 hội nghị cùng các đại học, trường đại học trong và ngoài nước về khoa học - công nghệ, đổi mới sáng tạo và chuyển đổi số. Song song là loạt chương trình “Ngày hội tuổi trẻ và Nghị quyết 57” diễn ra từ tháng 3 đến hết năm 2025.
+
+Hiện, CT Group là đối tác chiến lược trọng tâm của hơn 100 trường đại học trong nước và quốc tế. Để thu hút nguồn nhân lực chất lượng cao, CT Group ra mắt chương trình “An tâm để sáng tạo”, chương trình tuyển dụng dành riêng cho sinh viên xuất sắc toàn diện với mức lương khởi điểm 20 triệu đồng và cộng thêm 10% cho sinh viên có những thành tích về khoa học - công nghệ, đổi mới sáng tạo.

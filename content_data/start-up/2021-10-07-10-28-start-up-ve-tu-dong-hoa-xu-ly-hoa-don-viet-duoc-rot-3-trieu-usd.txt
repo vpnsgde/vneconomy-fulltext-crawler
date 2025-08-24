@@ -1,0 +1,17 @@
+Bizzi, nền tảng SaaS (dịch vụ phần mềm) giúp đơn giản hóa quy trình xử lý dữ liệu hóa đơn thủ công, đã huy động thành công vòng gọi vốn Pre-Series A trị giá 3 triệu USD do công ty FinTech/SaaS hàng đầu Nhật Bản Money Forward dẫn đầu, với sự tham gia của quỹ đầu tư mạo hiểm nội địa Do Ventures và nhà đầu tư vòng trước Qualgro đến từ Singapore.
+
+Bizzi là công ty đầu tiên tại Việt Nam cung cấp các giải pháp tự động hóa xử lý hóa đơn thông qua ứng dụng công nghệ AI và tự động hóa quy trình bằng robot (RPA). Nền tảng của Bizzi có thể được tích hợp dễ dàng với các giải pháp kế toán sẵn có, đồng thời kết nối các nhà cung cấp và khách hàng để tự động hóa các quy trình tài chính như kiểm tra, đối chiếu, thanh toán hóa đơn...
+
+Công nghệ RPA và machine learning (máy học) của Bizzi được cho là giúp giảm 80% thời gian xử lý và 50% chi phí xử lý hóa đơn, đồng thời tăng tính minh bạch và khả năng tuân thủ thuế cho doanh nghiệp.
+
+Cuộc khủng hoảng Covid-19 đã tạo ra những thay đổi mạnh mẽ trong hoạt động vận hành của mỗi công ty. Các thách thức trong đại dịch buộc doanh nghiệp phải tìm kiếm các công nghệ số hóa có tính đổi mới nhằm cắt giảm chi phí và tối ưu hóa kết quả kinh doanh. Chính vì vậy, quá trình chuyển đổi số trong doanh nghiệp đang được thúc đẩy nhanh chóng ở mọi lĩnh vực.
+
+Theo ông Tatsuya Kanto, Giám đốc chiến lược tại Money Forward, Bizzi tạo ra tác động lớn từ việc giúp đỡ hàng nghìn doanh nghiệp trong tiến trình chuyển đổi số. “Chúng tôi sẽ hỗ trợ công ty xây dựng nền tảng quản lý dữ liệu kế toán lớn nhất tại Việt Nam bằng cách chia sẻ lại những hiểu biết sâu sắc từ Money Forward Cloud”, ông Tatsuya nói thêm.
+
+Bà Lê Hoàng Uyên Vy, Giám đốc điều hành Do Ventures nhận định, Bizzi góp phần đẩy nhanh quá trình chuyển đổi số tại Việt Nam, cụ thể là cung cấp cho đội ngũ tài chính-kế toán quyền kiểm soát từ xa và khả năng tự động hóa các quy trình kế toán vốn mất rất nhiều nguồn lực. Thêm vào đó, đội ngũ sáng lập của Bizzi sở hữu năng lực vận hành dày dạn, đồng thời có am hiểu sâu sắc về thị trường trong nước.
+
+Ông Vũ Trọng Nghĩa, nhà đồng sáng lập kiêm CEO, có hơn 10 năm kinh nghiệm làm việc tại các tập đoàn đa quốc gia lớn như GlaxoSmithKline, Unilever, và Dairy Queen. Còn ông Nguyễn Bảo Nguyên, nhà đồng sáng lập kiêm CTO, trải qua hơn 10 năm trong vai trò lãnh đạo tại các công ty công nghệ hàng đầu, bao gồm “nhà máy sản xuất start-up" toàn cầu Rocket Internet và VNG.
+
+“Số vốn mới sẽ được chúng tôi sử dụng để tăng cường các tính năng của sản phẩm, đồng thời mở rộng mạng lưới khách hàng. Việt Nam vẫn là thị trường trọng tâm của Bizzi trong tương lai gần, tuy nhiên chúng tôi cũng sẽ xem xét khả năng mở rộng sang các thị trường Đông Nam Á với những bài toán tương tự,” hai nhà đồng sáng lập cho biết.
+
+Công ty hiện có hơn 100 khách hàng lớn bao gồm Grab, GS25, Circle K, Tiki, Guardian, Medicare, Pharmacity, cùng hơn 4.000 nhà cung cấp sử dụng nền tảng này hằng ngày. Tính đến nay, tổng giá trị hóa đơn xử lý hằng tháng thông qua nền tảng Bizzi đạt hơn 300 triệu USD.

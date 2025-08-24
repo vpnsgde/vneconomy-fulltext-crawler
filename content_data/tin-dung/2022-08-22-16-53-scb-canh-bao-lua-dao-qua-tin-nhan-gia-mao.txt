@@ -1,0 +1,15 @@
+Ngân hàng SCB vừa gửi đi cảnh báo về việc xuất hiện đối tượng mạo danh SCB gửi tin nhắn SMS lừa đảo về việc tài khoản của khách hàng bị khóa hoặc đã đăng nhập ở một thiết bị khác, thông báo về đăng ký dịch vụ mới, tài khoản bị trừ tiền,... và yêu cầu khách hàng BẤM vào đường link trong tin nhắn để HỦY/THANH TOÁN dịch vụ.
+
+Các nội dung này được gửi đến nhiều khách hàng, bất kể khách hàng có sử dụng hay không sử dụng dịch vụ của SCB.
+
+Đây là hình thức lừa đảo qua tin nhắn mạo danh Brandname đã được SCB và các cơ quan chức năng, nhà mạng cảnh báo nhiều lần trong thời gian qua. Do đó, Khách hàng cần chủ động bảo vệ thông tin tài khoản của mình.
+
+Nhiều đường link lừa đảo được cung cấp trong tin nhắn giả mạo như: scb.vn-eg.top, scb.vn-eg.xyz, scb.vn-tr.xyz, scb.vn-tr.xyz, scb.vn-zt.top, scb.vn-tr.top…
+
+Các đường link lừa đảo chỉ sai khác một vài ký tự hoặc chi tiết so với đường link thật nên rất dễ gây nhầm lẫn cho khách hàng. Đường link dẫn đến website mạo danh có giao diện gần giống với trang chủ tương ứng theo brandname bị mạo danh. Khi khách hàng nhập username/password/OTP, những kẻ lừa đảo sẽ chiếm đoạt tài khoản và đánh cắp tiền.
+
+Để đảm bảo an toàn khi sử dụng dịch vụ, SCB khuyến cáo khách hàng tuyệt đối KHÔNG BẤM VÀO đường link được cung cấp trong tin nhắn/Email; KHÔNG cung cấp tên đăng nhập, mật khẩu, OTP, số thẻ cho bất kỳ ai; CẢNH GIÁC với các cuộc gọi, tin nhắn/Email yêu cầu cung cấp thông tin; Nhanh chóng nhập sai mật khẩu đăng nhập SCB S-Connect 5 lần để khóa ứng dụng khi nghi ngờ bị kẻ gian lấy cắp thông tin.
+
+SCB cũng khuyến cáo khách hàng nên khóa tính năng thanh toán trực tuyến, khóa thẻ tín dụng ngay trên ứng dụng SCB S-Connect, khi nghi ngờ lộ thông tin thẻ. Chỉ đăng nhập vào dịch vụ ngân hàng điện tử thông qua website chính thức của SCB là https://www.scb.com.vn/. Đồng thời, thường xuyên theo dõi, cập nhật cảnh báo về an toàn bảo mật trong thanh toán trực tuyến từ SCB và phương tiện truyền thông đại chúng.
+
+* Liên hệ tổng đài hỗ trợ khách hàng 1900 6538 hoặc 1800 54 54 38 khi ở Việt Nam hoặc ( 84 28) 7300 6538 hoặc ( 84 28) 7302 5999 khi ở nước ngoài.

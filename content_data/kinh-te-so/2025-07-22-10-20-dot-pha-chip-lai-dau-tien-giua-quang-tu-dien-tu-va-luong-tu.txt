@@ -1,0 +1,33 @@
+Điều đặc biệt là con chip này được sản xuất bằng quy trình công nghệ CMOS 45 nm phổ biến, vốn đang được dùng để sản xuất các bộ xử lý như x86 hay ARM, mở ra triển vọng đưa phần cứng lượng tử tiến gần hơn với quy mô sản xuất hàng loạt.
+
+Dự án này được đăng trên tạp chí Nature Electronics, cho thấy tiềm năng ứng dụng rất lớn. Bên trong con chip là 12 vòng silicon cực nhỏ, gọi là “bộ cộng hưởng vòng vi mô”. Mỗi vòng này có khả năng tạo ra các cặp hạt ánh sáng (photon) với tính chất lượng tử đặc biệt, vốn là nền tảng cho nhiều công nghệ lượng tử hiện đại.
+
+Nếu như trước đây cần đến những thiết bị phòng thí nghiệm cồng kềnh và phức tạp để tạo ra photon, thì giờ đây, mọi thứ đã được tích hợp trên một con chip nhỏ xíu.
+
+Điều đáng nói là con chip này không chỉ tạo ra ánh sáng lượng tử, mà còn giúp giữ cho ánh sáng đó luôn ổn định.
+
+Tuy nhiên, các bộ cộng hưởng vòng vi mô tuy mạnh, nhưng lại dễ bị ảnh hưởng bởi những thay đổi nhỏ trong nhiệt độ hay sai số trong quá trình chế tạo, khiến chúng hoạt động lệch pha và làm ngắt dòng photon.
+
+Để khắc phục, nhóm nghiên cứu đã thiết kế một cơ chế tự điều chỉnh được tích hợp ngay trên chip. Mỗi bộ cộng hưởng đều có một đi-ốt quang nhỏ để theo dõi hiệu suất hoạt động, cùng với bộ gia nhiệt siêu nhỏ và mạch điều khiển đi kèm, cho phép điều chỉnh tức thì khi có sai lệch. Nhờ hệ thống này, cả 12 bộ cộng hưởng có thể vận hành đồng bộ một cách ổn định, mà không cần đến thiết bị ngoại vi cồng kềnh như trong các phòng thí nghiệm.
+
+“Đây là một bước tiến nhỏ nhưng có ý nghĩa rất lớn.Nó cho thấy chúng ta hoàn toàn có thể xây dựng các hệ thống lượng tử ổn định và có thể lặp lại trong môi trường sản xuất công nghiệp”, ông Miloš Popović, Phó giáo sư tại Đại học Boston, và đồng tác giả của nghiên cứu, chia sẻ.
+
+Điều quan trọng là đây không còn là một thí nghiệm riêng biệt trong phòng lab, mà là minh chứng cho thấy chip lượng tử có thể được sản xuất bằng những quy trình công nghiệp đang dùng để tạo ra CPU và GPU. Dù điện toán lượng tử vẫn cần thêm thời gian để phát triển và hoàn thiện, nhưng bước đi này giúp rút ngắn đáng kể khoảng cách đó.
+
+Dù quy trình 45 nanomet mà nhóm sử dụng không phải là công nghệ mới nhất hiện nay, nhưng nó đã được kiểm chứng là ổn định, tiết kiệm chi phí và có thể ứng dụng ngay trên dây chuyền sản xuất chip phổ biến hiện nay.
+
+Con chip trong nghiên cứu này được phát triển cùng với GlobalFoundries và Ayar Labs, một công ty đi đầu trong công nghệ kết nối quang học phục vụ trí tuệ nhân tạo (AI) và các hệ thống máy tính hiệu năng cao.
+
+Việc con chip lượng tử này có điểm chung với thế giới AI không phải là sự trùng hợp ngẫu nhiên. CEO của Nvidia, ông Jensen Huang, gần đây từng nói rằng các bộ cộng hưởng vòng vi mô, giống như loại dùng trong con chip này, là thành phần quan trọng để mở rộng phần cứng AI thông qua kết nối bằng ánh sáng.
+
+Nghiên cứu mới đã cho thấy công nghệ quang tử đó cũng có thể mở ra hướng phát triển cho máy tính lượng tử ở quy mô lớn. Không khó để hình dung một tương lai nơi phần cứng AI và lượng tử cùng được sản xuất trên một nền tảng silicon chung.
+
+Thực tế, Nvidia cũng đang đầu tư mạnh vào lĩnh vực này, nên tốc độ phát triển trong thời gian tới có thể sẽ còn nhanh hơn nữa.
+
+Khái niệm “nhà máy ánh sáng lượng tử” không chỉ là cách nói hình tượng. Giống như chip điện tử truyền thống cần dòng điện, hay mạng quang học cần ánh sáng laser, công nghệ lượng tử trong tương lai cũng sẽ cần nguồn ánh sáng lượng tử ổn định và đáng tin cậy.
+
+Bằng việc chứng minh có thể tạo ra và duy trì nguồn sáng này trực tiếp trên chip silicon, đồng thời có thể sao chép và sản xuất hàng loạt, nhóm nghiên cứu đã cho thấy phần cứng lượng tử hoàn toàn có thể vươn ra khỏi phòng thí nghiệm và bước vào sản xuất đại trà như cách mà máy tính truyền thống đã làm được.
+
+Nếu bộ vi xử lý Intel 4004 từng đánh dấu cột mốc đầu tiên đưa điện toán vào sản xuất hàng loạt, thì con chip “nhà máy ánh sáng lượng tử” chỉ rộng 1 mm² này có thể được xem là bước khởi đầu cho phần cứng lượng tử sản xuất đại trà trong tương lai.
+
+Điều này từng cần cả một bàn thí nghiệm để vận hành, giờ đây đã được thu gọn trên một mảnh silicon nhỏ như móng tay, và đó là một bước tiến đầy hứa hẹn.

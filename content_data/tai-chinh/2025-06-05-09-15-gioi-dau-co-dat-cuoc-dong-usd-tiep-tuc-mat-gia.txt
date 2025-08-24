@@ -1,0 +1,27 @@
+Tỷ giá đồng USD gần đây đã ổn định hơn sau một đợt sụt giảm mạnh, nhưng các nhà giao dịch trên thị trường quyền chọn ngoại hối đang đặt cược rằng đồng bạc xanh còn mất giá hơn nữa, trong bối cảnh có nhiều mối lo ngại về sức khỏe nền kinh tế Mỹ và căng thẳng thương mại dai dẳng.
+
+Khi mới bước sang năm 2025, giới đầu tư kỳ vọng rằng chính sách của chính quyền Tổng thống Donald Trump - gồm cắt giảm thuế hỗ trợ phát triển kinh tế trong nước và chủ nghĩa bảo hộ thương mại thúc đẩy nhu cầu phòng ngừa rủi ro - sẽ kích thích đồng USD tăng giá. Tuy nhiên, kỳ vọng này đã nhanh chóng suy yếu khi ông Trump vào đầu tháng 4 công cố một kế hoạch thuế quan đối ứng rộng và mạnh hơn so với dự báo. Thuế đối ứng đã khiến thị trường tài chính toàn cầu chao đảo và tỷ giá đồng USD rớt xuống mức thấp nhất 3 năm.
+
+Việc ông Trump sau đó hoãn phần lớn thuế đối ứng đã giúp thị trường nói chung hồi phục, nhưng thị trường quyền chọn (options) vẫn phản ánh triển vọng ảm đạm của đồng USD. Đây là thị trường phản ánh kỳ vọng của các nhà đầu tư và giao dịch về việc tỷ giá các đồng tiền ra sao trong những tháng tới.
+
+“Vị thế trên quyền chọn ngoại hối nói chung vẫn cho thấy khả năng cao đồng USD tiếp tục mất giá”, theo ông Tim Brooks - trưởng bộ phận quyền chọn ngoại hối của công ty Optiver - nói với hãng tin Reuters. “Từ góc nhìn của chúng tôi, không có một vị thế đơn lẻ nào lớn rõ ràng, nhưng trong tương quan so sánh với 5-10 năm qua, chúng tôi thấy nhu cầu của nhà đầu tư đối với quyền chọn bán (put options) đồng USD là lớn chưa từng có tiền lệ nếu so với quyền chọn mua (call options) USD”.
+
+Quyền chọn bán cho phép bán một tài sản ở mức giá cố định vào một thời điểm cố định, và các nhà giao dịch và nhà đầu tư thường mua quyền chọn này để đặt cược rằng một tài sản sẽ mất giá. Ngược với quyền chọn bán là quyền chọn mua, cho phép mua một tài sản ở mức giá cổ định vào một thời điểm định trước.
+
+Do thị trường ngoại hối báo giá các đồng tiền theo cặp tỷ giá như euro/USD hay USD/yên Nhật, nên một vị thế đầu cơ giá lên đối với một đồng tiền, chẳng hạn đồng euro, phản ánh quan điểm bi quan về tỷ giá đồng USD.
+
+Đảo ngược rủi ro ngoại hối (FX risk reversals), một chiến lược quyền chọn mà ở đó nhà giao dịch đồng thời mua một quyền chọn bán và bán một quyền chọn mua, hoặc ngược lại, là chỉ báo hữu ích cho thấy đồng tiền nào đang được ưa chuộng hơn. Theo dữ liệu của LSEG, vị thế đảo ngược rủi ro ngoại hối giữa đồng euro và đồng USD cho thấy thị trường đang lạc quan nhất kể từ ít nhất năm 2007 về triển vọng tăng giá của euro so với USD.
+
+“Vị thế trên thị trường vẫn đang cực kỳ bi quan về đồng USD”, chiến lược gia trưởng Karl Schamotta của công ty Corpay nhận xét.
+
+Một đặt cược phổ biến khác hiện nay là đặt cược vào sự mất giá của USD so với đồng yên Nhật - theo trưởng giao dịch quyền chọn ngoại hối của ngân hàng Nomura, ông Sagar Sambrani.
+
+Giới đầu tư hiện đang gia tăng nắm giữ các hợp đồng quyền chọn bán USD - giao dịch để bán đồng USD lấy những đồng như euro và bảng Anh, đồng nghĩa họ tin rằng đồng USD còn dư địa giảm giá. Dữ liệu quyền chọn của sàn giao dịch CME cho thấy hợp đồng quyền chọn bán USD đang thu hút lực cầu lớn. Trong tháng 5, quyền chọn bán USD chiếm hơn 59% tổng khối lượng giao dịch quyền chọn ngoại hối trên CME.
+
+Việc nhu cầu quyền chọn bán USD nhiều hơn so với quyền chọn mua USD đặc biệt rõ rệt ở cặp USD/yên và USD/đôla Australia, với quyền chọn bán chiếm hơn 65% của tổng lượng quyền chọn ở hai cặp tỷ giá này.
+
+Từ đầu năm đến nay, USD đã giảm giá khoảng 9% so với euro, và cũng giảm giá ở mức tương tự so với đồng yên. Những ngày gần đây, tỷ giá euro/USD giao dịch ở mức hơn 1,14 USD đổi 1 euro, và tỷ giá USD/yên giao dịch ở mức 142-143 yên đổi 1 USD.
+
+Niềm tin của nhà đầu tư rằng nền kinh tế Mỹ sẽ tiếp tục vượt trội so với phần còn lại của thế giới đã suy giảm mạnh trong những tháng gần đây. Thay vào đó, mối lo về nợ nần và thâm hụt ngân sách của Mỹ đã nổi lên hàng đầu, khiến nhà đầu tư suy giảm sự ham thích đối với các tài sản Mỹ.
+
+“Tôi không cho rằng chúng ta có lý lẽ để chống lại sự đồng thuận này. Sau tất cả những diễn biến từ đầu năm đến nay, cuối cùng cũng đã có những lý do căn bản để bi quan về tỷ giá USD”, chiến lược gia Jayati Bharadwaj của công ty TD Securities nhận xét với Reuters.

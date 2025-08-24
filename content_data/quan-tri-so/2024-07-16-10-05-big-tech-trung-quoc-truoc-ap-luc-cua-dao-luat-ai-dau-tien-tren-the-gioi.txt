@@ -1,0 +1,33 @@
+Bộ quy tắc về trí tuệ nhân tạo (AI) toàn diện đầu tiên trên thế giới sẽ có hiệu lực trên toàn Liên minh châu Âu (EU) vào ngày 1 tháng 8. Theo các chuyên gia trong ngành, các chuẩn mực mới này dự kiến ​​sẽ làm tăng chi phí đánh giá và tuân thủ đối với các doanh nghiệp công nghệ Trung Quốc đang kinh doanh tại 27 quốc gia thành viên của khối.
+
+Đạo luật AI đã được Hội đồng châu Âu phê duyệt vào tháng 5 vừa qua sau khi được Nghị viện châu Âu thông qua thành luật vào tháng 3, nhằm mục đích bảo vệ các quyền cơ bản, dân chủ, pháp quyền và tính bền vững của môi trường khỏi những rủi ro từ trí tuệ nhân tạo, đồng thời thúc đẩy các đổi mới và đưa châu Âu trở thành một khối dẫn đầu về công nghệ trên toàn cầu.
+
+Một số các công ty AI Trung Quốc sẽ phải tốn nhiều thời gian và tiền bạc hơn để tuân thủ các quy định mới của EU, trong khi nhiều công ty cũng lo ngại rằng việc quản lý quá mức có khả năng cản trở sự đổi mới.
+
+Công ty Dayta AI có trụ sở tại Hong Kong, chuyên cung cấp phần mềm phân tích bán lẻ trên toàn thế giới. Đồng sáng lập công ty và Giám đốc điều hành Patrick Tu cho biết để tuân thủ các quy định mới của EU, chi phí nghiên cứu và phát triển (R&D) của công ty dự kiến sẽ tăng lên từ 20 - 40% mỗi năm. Mức chi tiêu cao hơn sẽ dành cho tài liệu bổ sung, kiểm toán và các biện pháp công nghệ.
+
+Việc thông qua và thực thi các quy tắc mới của EU phản ánh cuộc chạy đua toàn cầu nhằm xây dựng các rào chắn AI trong bối cảnh bùng nổ các dịch vụ AI tổng hợp (GenAI) kể từ khi OpenAI phát hành ChatGPT vào tháng 11 năm 2022. GenAI đề cập đến các thuật toán có thể được sử dụng để tạo nội dung mới – bao gồm cả âm thanh, mã, hình ảnh, văn bản, mô phỏng và video.
+
+Tanguy Van Overstraeten, người đứng đầu nhóm công nghệ, truyền thông và viễn thông (TMT) của công ty luật Linklaters tại Brussels, Bỉ, cho biết: “Các cơ chế mới của EU đang cho thấy việc quản lý chặt chẽ đổi với AI nhằm tạo ra một môi trường tin cậy”.
+
+Đạo luật AI thiết lập các nghĩa vụ rong công nghệ dựa trên những rủi ro tiềm ẩn và mức độ tác động của nó. Quy định này bao gồm 12 tiêu đề chính bao gồm các hành vi bị cấm, hệ thống có rủi ro cao và nghĩa vụ minh bạch đối với quản trị, chia sẻ thông tin và giám sát thị trường.
+
+Quy định này cũng sẽ yêu cầu các quốc gia thành viên thiết lập hộp cát (sandbox) quản lý và thử nghiệm trong thế giới thực ở cấp quốc gia. Tuy nhiên, các quy tắc này không áp dụng cho các hệ thống AI hoặc mô hình AI, bao gồm cả kết quả đầu ra của chúng, được phát triển và đưa vào sử dụng cho mục đích duy nhất là nghiên cứu và phát triển khoa học.
+
+Theo đại diện Linklaters, nếu các công ty muốn thử nghiệm một ứng dụng AI trong đời thực, họ có thể hưởng lợi từ sandbox có thể tồn tại tới 12 tháng, trong thời gian đó họ có thể thử nghiệm trong những ranh giới nhất định.
+
+Việc không tuân thủ các quy định cấm đối với một số hoạt động AI nhất định sẽ bị phạt hành chính lên tới 35 triệu euro (38 triệu USD) hoặc lên tới 7% tổng doanh thu hàng năm trên toàn thế giới của công ty vi phạm trong năm tài chính trước đó, tùy theo điều kiện nào cao hơn.
+
+Đại diện Dayta AI thừa nhận rằng thêm các nhiệm vụ của EU đòi hỏi công ty phải siêng năng hơn nữa trong việc lựa chọn nguồn dữ liệu của mình. “Việc tập trung vào chất lượng dữ liệu cuối cùng sẽ nâng cao hiệu suất và tính công bằng cho giải pháp của chúng tôi”, đại diện Dayta AI nói.
+
+Đạo luật AI cung cấp một cách tiếp cận toàn diện, tập trung vào quyền của người dùng và áp đặt những hạn chế nghiêm ngặt đối với việc sử dụng dữ liệu cá nhân. Để so sánh, các quy định ở Trung Quốc và Hong Kong dường như tập trung nhiều hơn vào việc thúc đẩy tiến bộ công nghệ và phù hợp với các ưu tiên chiến lược của chính phủ.
+
+Vào ngày 15/8 năm ngoái, Bắc Kinh đã thực hiện các quy định GenAI mới. Nó quy định rằng: các nhà cung cấp dịch vụ GenAI phải tuân thủ các giá trị xã hội chủ nghĩa cốt lõi và không được tạo ra bất kỳ nội dung nào kích động đến quyền lực nhà nước và hệ thống xã hội chủ nghĩa, gây nguy hiểm cho an ninh và lợi ích quốc gia, làm tổn hại hình ảnh đất nước, kích động ly khai đất nước, làm suy yếu sự đoàn kết dân tộc và ổn định xã hội, thúc đẩy chủ nghĩa khủng bố, chủ nghĩa cực đoan, hận thù dân tộc và phân biệt chủng tộc, bạo lực, tục tĩu và khiêu dâm”. Nói chung, các mô hình AI và chatbot không được tạo ra thông tin sai lệch và có hại.
+
+“Các quy định của Trung Quốc yêu cầu các công ty và CÁC sản phẩm phải tuân thủ các giá trị xã hội chủ nghĩa và đảm bảo rằng kết quả đầu ra AI của họ không bị coi là có hại cho sự ổn định chính trị và xã hội”, Alex Roberts, đối tác tại Thượng Hải của Linklaters, cho biết.
+
+Trên thực tế, quy định của Trung Quốc cho đến nay chỉ tập trung vào GenAI và được coi giống như một cuốn sách quy tắc do nhà nước hoặc Chính phủ lãnh đạo, trong khi Đạo luật AI của EU tập trung vào quyền của người dùng. Tuy nhiên, Roberts mô tả các nguyên tắc chính trong các quy định về AI của EU và Trung Quốc là rất giống nhau, nhất là những điểm như minh bạch với khách hàng, bảo vệ dữ liệu, chịu trách nhiệm trước các bên liên quan và cung cấp hướng dẫn cũng như hướng dẫn về sản phẩm.
+
+Bắc Kinh cũng đang nỗ lực ban hành luật AI toàn diện. Hội đồng Nhà nước, nội các của Trung Quốc, đã liệt kê sáng kiến ​​đó vào kế hoạch lập pháp hàng năm cho năm 2023 và 2024. Tuy nhiên, dự thảo luật vẫn chưa được đề xuất.
+
+Các khu vực pháp lý khác ở châu Á cũng đang nghiên cứu các quy định về AI. Ví dụ, Hàn Quốc năm ngoái đã soạn thảo “Đạo luật thúc đẩy ngành công nghiệp AI và khuôn khổ để thiết lập AI đáng tin cậy”. Quy định đề xuất này vẫn đang được xem xét. “Chúng tôi hiện đang thấy một số chính phủ ở khu vực Châu Á-Thái Bình Dương đang hưởng lợi rất nhiều từ quy định của EU về dữ liệu và AI khi họ xây dựng luật AI của riêng mình”, đối tác của Linklaters nói.

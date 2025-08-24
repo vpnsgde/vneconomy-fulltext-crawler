@@ -1,0 +1,19 @@
+Theo Liu Honglie, người đứng đầu Cục Dữ liệu Quốc gia Trung Quốc, khoản đầu tư từ chính phủ Trung Quốc vào trung tâm dữ liệu đã khuyến khích thêm hơn 200 tỷ nhân dân tệ tiền đầu tư từ các bên khác, bao gồm cả vốn tư nhân, tính đến cuối tháng 6.
+
+Ông Liu Honglie cho biết các trung tâm điện toán có tổng công suất là 1,95 triệu giá đỡ máy chủ. Giá đỡ là một khung được thiết kế để chứa một số máy chủ điện toán.
+
+Trung Quốc đã bắt tay vào dự án được gọi là "dữ liệu đông, điện toán tây" vào năm 2022, với kế hoạch xây dựng tám trung tâm điện toán trên toàn quốc, tại khu vực Bắc Kinh - Thiên Tân - Hà Bắc, khu vực Đồng bằng sông Dương Tử, khu vực Quảng Đông - Hồng Kông - Ma Cao, tỉnh Quý Châu, khu vực Thành Đô - Trùng Khánh, tỉnh Cam Túc, Ninh Hạ và Nội Mông.
+
+Dự án do Chính phủ Trung Quốc hậu thuẫn nhằm mục đích xây dựng một mạng lưới công nghệ thông tin trên toàn quốc, theo đó các trung tâm dữ liệu ở vùng nội địa phía Tây của Trung Quốc sẽ xử lý khối lượng công việc điện toán được tạo ra ở các khu vực bờ biển phía đông đông dân hơn của nước này.
+
+Cơn sốt AI toàn cầu đã thúc đẩy đáng kể nhu cầu về các đơn vị xử lý đồ họa tiên tiến (GPU) ở cả Mỹ và Trung Quốc. Theo công ty nghiên cứu TrendForce của Đài Loan, các lô hàng GPU cao cấp dự kiến ​​sẽ tăng 55% vào năm 2025.
+
+Huawei Technologies là một trong những công ty Trung Quốc đóng góp vào dự án khổng lồ này. Công ty vận hành các cụm máy tính chạy trên chip AI Ascend tại 19 thành phố trên khắp Trung Quốc, bao gồm Bắc Kinh, Thượng Hải và Thâm Quyến. Huawei cũng có kế hoạch đưa các cụm mới trực tuyến tại các thủ phủ tỉnh lớn của Trung Quốc.
+
+Mặc dù lệnh trừng phạt chặt chẽ hơn của Hoa Kỳ hạn chế nhà vô địch chip GPU Nvidia vận chuyển các sản phẩm tiên tiến nhất của mình đến Trung Quốc, thị trường lớn thứ ba của công ty, công ty cho biết doanh thu trung tâm dữ liệu từ quốc gia này vẫn mạnh trong quý 2/2024 kết thúc vào ngày 28/7.
+
+"Doanh thu trung tâm dữ liệu của chúng tôi tại Trung Quốc tăng theo tuần tự trong quý thứ hai và là một yếu tố đóng góp đáng kể vào doanh thu trung tâm dữ liệu của chúng tôi", Colette Kress, Giám đốc tài chính của Nvidia cho biết.
+
+Tuy nhiên, bà nói thêm rằng doanh số bán hàng tại Trung Quốc tính theo tỷ lệ phần trăm tổng doanh thu của trung tâm dữ liệu đang ở mức thấp hơn so với trước khi áp dụng các biện pháp kiểm soát xuất khẩu của Mỹ và thị trường Trung Quốc dự kiến ​​sẽ rất cạnh tranh trong tương lai với sự tham gia của các tay chơi nội địa.
+
+Nvidia cho biết doanh thu trung tâm dữ liệu của họ đã tăng 154% so với cùng kỳ năm ngoái trong quý 2 lên 26,4 tỷ USD, tốt hơn so với tốc độ tăng trưởng 122% của tổng doanh thu, đạt 30 tỷ USD trong quý.

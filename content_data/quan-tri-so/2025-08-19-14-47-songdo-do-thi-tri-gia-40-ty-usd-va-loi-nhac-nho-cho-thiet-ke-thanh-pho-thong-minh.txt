@@ -1,0 +1,47 @@
+Markus Levin, đồng sáng lập XYO, là doanh nhân với hơn 15 năm kinh nghiệm gây dựng, phát triển và chuyển nhượng nhiều công ty trong các ngành công nghiệp tăng trưởng cao trên toàn cầu, đánh giá điều này khi phân tích những sai lầm trong mô hình thành phố thông minh của Songdo.
+
+Theo dự báo của Liên Hợp Quốc, đến năm 2050 sẽ có gần 70% dân số toàn cầu sống ở thành phố, so với mức 56% của năm 2021. Điều này đồng nghĩa, các đô thị buộc phải xây dựng và áp dụng những hệ thống mới để thích ứng với tốc độ tăng dân số chóng mặt.
+
+SONGDO - NHỮNG LỜI HỨA CHƯA TRỌN VẸN
+
+Mỗi quốc gia chọn một cách đi khác nhau. Có nơi khuyến khích người dân rời đô thị, chuyển về vùng nông thôn thưa dân để giảm tải. Có nơi lại dốc sức hiện đại hóa hạ tầng thành phố, tận dụng công nghệ mới để đón thêm cư dân mà vẫn duy trì chất lượng sống.
+
+Nhật Bản, Hàn Quốc, Singapore là những ví dụ đi đầu, mạnh tay đầu tư vào “thành phố tương lai”. Mục tiêu chung của họ rất rõ ràng: khai thác dữ liệu và tự động hóa để giữ cho hệ thống thiết yếu vận hành hiệu quả, bền vững, bất chấp áp lực ngày một lớn từ đô thị hóa.
+
+Songdo (Hàn Quốc) là thành phố có giá trị tới 40 tỷ USD được xây dựng trên vùng đất lấn biển ở ngoại ô Incheon từ năm 2002.
+
+Thành phố này từng được kỳ vọng trở thành biểu tượng cho đô thị thông minh của tương lai, với hơn 500.000 cảm biến được trang bị để ghi nhận dữ liệu theo thời gian thực về giao thông, chất thải hay an ninh.
+
+Cảm biến giao thông có thể điều chỉnh đèn tín hiệu hay đổi hướng dòng xe để giảm kẹt đường. Hệ thống rác thải dùng ống khí nén ngầm để phân loại và vận chuyển, đồng thời tận dụng nhiệt từ xử lý rác để sưởi ấm các tòa nhà…
+
+Ý tưởng là tạo ra một cỗ máy vận hành nhanh hơn cả khả năng của con người: dữ liệu được phân tích tức thì, hệ thống có thể phản ứng kịp thời, thậm chí dự đoán trước vấn đề. Toàn bộ hoạt động được đưa về Trung tâm điều hành tích hợp IOC, đúng với “khuôn mẫu” thành phố thông minh ban đầu: kết nối toàn diện, dữ liệu thời gian thực, điều khiển tập trung.
+
+Nhưng thực tế lại phũ phàng hơn nhiều. Xây một thành phố thông minh không khó bằng việc vận hành nó.
+
+Songdo, cũng như nhiều dự án khác, đã không đạt được những mục tiêu đầy tham vọng.
+
+Nhiều đô thị thông minh ngày nay mắc kẹt trong hai vòng luẩn quẩn. Hoặc bị chia cắt bởi lối quản lý đơn độc, thiếu sự phối hợp giữa các cơ quan vận hành. Hoặc rơi vào bẫy kiểm soát tập trung như Songdo, khiến cả hệ thống trở nên cứng nhắc, khó thích nghi khi hoàn cảnh thay đổi.
+
+SONGDO ĐÃ LÀM SAI ĐIỀU GÌ?
+
+Nhiều nhà phê bình cho rằng Songdo được thiết kế để kiểm soát hơn là để thích ứng. Giáo sư Saskia Sassen, tại Đại học Columbia, mô tả thành phố này như một “hệ thống phức tạp nhưng khép kín”, không biết tận dụng trí tuệ và sự sáng tạo của cư dân.
+
+“Đó là một không gian bị kiểm soát, nơi khó có thể thay đổi điều gì”, bà nói.
+
+Songdo từng đặt nền móng cho mô hình đô thị tích hợp, nhưng chính sự cứng nhắc đã khiến nó tách rời khỏi sức sống tự nhiên vốn làm nên thành công của các thành phố.
+
+Tại Trung tâm điều hành tích hợp (IOC), mọi hệ thống đều chờ lệnh từ trung tâm, thiếu linh hoạt để đáp ứng những nhu cầu mới nảy sinh. Thành phố này nhìn đời sống đô thị như một thứ cần “quản lý và kiểm soát”, chứ không phải là thứ có thể hợp tác và phát triển cùng.
+
+Nhưng đô thị vốn dĩ phát triển dựa vào con người. Công nghệ chỉ có thể hỗ trợ tốt nếu được thiết kế để gắn kết, thích nghi với môi trường, chứ không phải áp đặt lên nó.
+
+Vấn đề của Songdo không nằm ở công nghệ, mà ở kiến trúc quản lý quá cứng nhắc, không để lại khoảng trống cho sự thay đổi – yếu tố vốn là linh hồn của mọi thành phố lớn.
+
+Songdo từng được xem là ý tưởng đột phá về thành phố thông minh từ nhiều thập kỷ trước. Các kiến trúc sư đã vẽ nên bức tranh về một đô thị siêu kết nối, vận hành nhờ công nghệ và dữ liệu. Nhưng tầm nhìn ấy, dù táo bạo, lại mang dấu ấn hạn chế của tư duy “thành phố thông minh” giai đoạn đầu: coi con người như những mắt xích trong hệ thống, thay vì là trung tâm của sự phát triển đô thị.
+
+Songdo được xây dựng như thể tương lai có thể “lập trình sẵn”, với các hệ thống cố định và bộ máy điều khiển tập trung quyết định cách cư dân sẽ sống, đi lại và giao tiếp. Nhưng thực tế lại khác, thành phố luôn biến đổi, thích ứng theo đời sống và hành vi của con người - điều mà không một bản thiết kế nào có thể dự đoán trọn vẹn.
+
+Hạ tầng công nghệ của Songdo cho thấy rõ nghịch lý ấy. Nhiều hệ thống từng được coi là tối tân, chẳng hạn thiết bị họp trực tuyến tại gia do Cisco phát triển, nhanh chóng lỗi thời trước sự bùng nổ của công nghệ di động và điện toán đám mây.
+
+Những hạ tầng khác như mạng thu gom rác bằng khí nén hay các trung tâm điều khiển dày đặc cảm biến lại “gắn cứng” vào kết cấu đô thị, khiến việc thay thế hoặc nâng cấp trở nên tốn kém và khó khả thi. Hệ quả là một thành phố kết nối khắp nơi, nhưng lại lúng túng khi cần thích nghi và phát triển.
+
+Songdo vì thế trở thành lời nhắc nhở cho các dự án thành phố thông minh trong tương lai: nếu chỉ chú trọng kết nối mà thiếu nền tảng linh hoạt, phân tán, những thành phố ấy có nguy cơ biến thành “khối kiến trúc cứng nhắc”, không thể cùng lớn lên với nhịp sống hữu cơ, đầy biến động vốn làm nên sức sống thực sự của đô thị.

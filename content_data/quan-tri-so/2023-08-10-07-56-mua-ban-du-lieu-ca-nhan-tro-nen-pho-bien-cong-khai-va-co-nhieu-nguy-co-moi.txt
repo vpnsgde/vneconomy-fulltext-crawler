@@ -1,0 +1,30 @@
+Thực tế này vừa được các chuyên gia an ninh mạng cảnh báo. Theo bà Đỗ Hải Anh, Phó Trưởng phòng Quy hoạch và Phát triển, Cục An toàn thông tin, Bộ Thông tin và Truyền thông, trước đây nạn mua bán dữ liệu cá nhân chủ yếu diễn ra trong các hội nhóm kín trên mạng xã hội. Một người mới muốn tiếp cận cần phải có thành viên trong hội nhóm giới thiệu và add vào mới có thể mua bán được.
+
+Tuy nhiên, hiện nay, đã xuất hiện nhiều hình thức mới trong mua bán dữ liệu cá nhân như sử dụng chatbot, thực hiện qua các kênh, tài khoản trên Telegram, đặc biệt, các đối tượng còn bán lẻ từng dữ liệu cá nhân. Nếu như trước đây mua bán hàng loạt dữ liệu thì nay, có thể mua từng dữ liệu cụ thể, thậm chí họ tên cá nhân cụ thể từng người đều được các đối tượng cung cấp trên thị trường.
+
+Đại diện Cục An toàn thông tin nhận xét, vấn nạn mua bán dữ liệu cá nhân hiện nay đã trở nên phổ biến, công khai và có nhiều nguy cơ mới.
+
+Theo bà Đỗ Hải Anh nhóm đối tượng dễ bị ảnh hưởng bởi việc lộ lọt dữ liệu trước hết là các cơ quan hành chính công hoặc các doanh nghiệp, tập đoàn có lượng dữ liệu lớn và đặc biệt là dữ liệu nhạy cảm. Tiếp đó là nhóm người dùng yếu thế, có độ trưởng thành số thấp như người già, trẻ em, người ít kiến thức về an toàn thông tin.
+
+Qua số liệu về thực trạng lộ lọt, đánh cắp, mua bán dữ liệu cá nhân, có thể thấy, năng lực về bảo đảm thông tin của người dân cũng như doanh nghiệp và các cơ quan trong nước còn rất yếu. Không những thế, nhân sự làm về an toàn thông tin hiện nay chưa đáp ứng với nhu cầu thực tế.
+
+Theo thống kê của Cục An toàn thông tin, hiện cả nước có 3.600 nhân sự làm về an toàn thông tin. Tuy nhiên, số lượng nhân sự này chỉ đáp ứng được 1 phần 10 so với nhu cầu thực tế của xã hội, Cục An toàn thông tin nêu thực tế.
+
+Nhìn nhận về những khó khăn, thách thức trong công tác bảo vệ dữ liệu cá nhân hiện nay, bà Đỗ Hải Anh cho rằng nhận thức về an toàn thông tin, bảo vệ thông tin, dữ liệu cá nhân còn thấp. Các chủ thể thông tin bất cẩn, cung cấp thông tin tùy tiện, đặc biệt trên mạng xã hội.
+
+Các tổ chức, doanh nghiệp thu thập nhiều, nhưng không bảo vệ an toàn, chia sẻ trái phép cho bên thứ ba. Cùng với đó là tình trạng lộ lọt từ nhân viên quản lý dữ liệu và các hình thức lừa đảo trực tuyến để thu thập thông tin cá nhân… Một số hệ thống thông tin thu thập, xử lý, lưu trữ dữ liệu cá nhân của người dùng nhưng chưa bảo đảm an toàn, an ninh mạng, dẫn đến bị tấn công, khai thác.
+
+Để bảo vệ dữ liệu cá nhân, Bộ Thông tin và Truyền thông đang đề xuất và triển khai một số giải pháp, chỉ đạo các cơ quan thuộc lĩnh vực quản lý tăng cường bảo vệ dữ liệu cá nhân; triển khai các biện pháp quản lý, kỹ thuật để bảo vệ thông tin, dữ liệu cá nhân. Cùng với đó hướng dẫn các biện pháp bảo vệ dữ liệu cá nhân, bảo đảm an toàn thông tin mạng đối với các hệ thống thông tin có chứa dữ liệu cá nhân.
+
+Bộ cũng tiến hành kiểm tra, thanh tra các lĩnh vực quản lý, trong đó tập trung vào các đơn vị thu thập, xử lý số lượng lớn thông tin cá nhân như mạng xã hội, doanh nghiệp viễn thông, bưu chính, các nền tảng số có nhiều người dùng.
+
+Bộ phối hợp với các đơn vị liên quan, tiếp tục theo dõi, rà soát tình hình lộ lọt, mua bán dữ liệu thông tin cá nhân của cơ quan, tổ chức tại Việt Nam và cảnh báo, hỗ trợ xử lý kịp thời.
+
+Cùng với đó thúc đẩy triển khai hệ sinh thái Tín nhiệm mạng, để đánh giá, xác nhận website đảm bảo an toàn thông tin mạng, trong đó có bảo vệ dữ liệu cá nhân.
+
+Một trong những giải pháp quan trọng đó là tuyên truyền, phổ biến rộng rãi cho người dân về ý thức bảo vệ thông tin cá nhân và sử dụng các công cụ, phản ánh để bảo vệ thông tin cá nhân. Đại diện Cục an ninh mạng nhấn mạnh, cần nâng cao nhận thức người dùng để nhận biết và coi thông tin như một loại tài sản để có biện pháp bảo vệ, lưu trữ, phân loại, chia sẻ thông tin phù hợp, thông tin nào có thể chia sẻ và chia sẻ với những đối tượng nào…
+
+Bà Đỗ Hải Anh cũng lưu ý người dùng cần cân nhắc kỹ lưỡng trước khi cung cấp thông tin cá nhân của mình cho các dịch vụ trên môi trường mạng; đồng thời luôn có thói quen định kỳ thay đổi các thông tin xác thực để giảm thiểu các nguy cơ lộ lọt thông tin dữ liệu, mất an toàn thông tin.
+
+
+

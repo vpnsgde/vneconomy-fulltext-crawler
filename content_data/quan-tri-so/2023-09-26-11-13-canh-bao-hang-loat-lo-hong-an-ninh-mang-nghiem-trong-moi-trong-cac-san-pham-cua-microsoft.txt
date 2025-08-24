@@ -1,0 +1,23 @@
+Cục An toàn thông tin, Bộ Thông tin và Truyền thông vừa gửi cảnh báo tới các đơn vị chuyên trách về công nghệ thông tin các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các địa phương; các tập đoàn, tổng công ty Nhà nước; ngân hàng thương mại cổ phần; tổ chức tài chính về lỗ hổng an toàn thông tin ảnh hưởng cao và nghiêm trọng trong các sản phẩm Microsoft công bố tháng 9/2023.
+
+Theo Cục An toàn thông tin, vừa qua, Microsoft đã phát hành danh sách bản vá tháng 9 với 59 lỗ hổng an toàn thông tin trong các sản phẩm. Đặc biệt, bản phát hành tháng này có nhiều lỗ hổng an toàn thông tin có mức ảnh hưởng cao và nghiêm trọng cần chú ý.
+
+Cụ thể như, lỗ hổng an toàn thông tin CVE-2023-36761 trong Microsoft Word cho phép đối tượng tấn công thu thập thông tin về mã băm NTLM của người dùng. Hiện nay, lỗ hổng này hiện đang bị khai thác trong thực tế.
+
+Lỗ hổng an toàn thông tin CVE-2023-29332 trong dịch vụ Microsoft Azure Kubernetes Service cho phép đối tượng tấn công không cần xác thực thực hiện tấn công leo thang đặc quyền.
+
+Lỗ hổng an toàn thông tin CVE-2023-38148 trong Internet Connection Sharing (ICS) cho phép đối tượng tấn công không cần xác thực thực thi mã từ xa khi ICS được kích hoạt.
+
+Lỗ hổng an toàn thông tin CVE-2023-36802 trong Streaming Service Proxy cho phép đối tượng tấn công thực hiện tấn công leo thang đặc quyền. Các chuyên gia cho biết lỗ hổng này hiện đang bị khai thác trong thực tế.
+
+Lỗ hổng an toàn thông tin CVE-2023-38146 trong Windows Themes cho phép đối tượng tấn công thực thi mã từ xa.
+
+Ngoài ra, các chuyên gia Cục An toàn thông tin cũng cảnh báo về 4 lỗ hổng an toàn thông tin CVE-2023-36792, CVE-2023-36793, CVE-2023-36794, CVE-2023-36796 trong Visual Studio và 3 lỗ hổng an toàn thông tin CVE-2023-36744, CVE-2023-36745, CVE-2023-36756 trong Microsoft Exchange Server cho phép đối tượng tấn công thực thi mã từ xa.
+
+Nhằm đảm bảo an toàn thông tin cho hệ thống thông tin của các cơ quan, tổ chức, doanh nghiệp, góp phần bảo đảm an toàn cho không gian mạng Việt Nam, Cục An toàn thông tin khuyến nghị các đơn vị kiểm tra, rà soát, xác định máy sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng.
+
+Để khắc phục tình trạng này, các chuyên gia cho nhấn mạnh, biện pháp tốt nhất là cập nhật bản vá cho các lỗ hổng an toàn thông tin nói trên theo hướng dẫn của hãng nhằm tránh nguy cơ bị tấn công.
+
+Ngoài ra, cần tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng; đồng thời thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+
+Có thể thấy liên tục trong thời gian qua, các cơ quan an toàn an ninh mạng đã liên tục cảnh báo các lỗ hổng mới có nguy cơ tấn công mạng. Theo các chuyên gia, lỗ hổng bảo mật là một trong những nguyên nhân hàng đầu gây ra các cuộc tấn công mạng nhắm vào tổ chức, doanh nghiệp.

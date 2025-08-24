@@ -1,0 +1,23 @@
+Ngày 30/7/2024, Hiệp hội An ninh mạng quốc gia chính thức công bố phần mềm phòng chống lừa đảo nTrust. Đây là ứng dụng hoàn toàn miễn phí, sử dụng cho điện thoại thông minh (smartphone).
+
+nTrust là dự án phần mềm phi lợi nhuận, không sử dụng ngân sách nhà nước, kinh phí được huy động từ nguồn tài trợ xã hội.
+
+Phiên bản mới ra mắt được cập nhật, hoàn thiện tính năng theo các góp ý từ hàng trăm tình nguyện viên đã tham gia bản thử nghiệm (Beta) trong tháng 6/2024. Trong đó cải thiện đáng kể khả năng quét mã độc và tối ưu hiệu năng hoạt động của phần mềm.
+
+Người dùng có thể tải nTrust bắt đầu từ hôm nay để bảo vệ điện thoại và tham gia ngay cộng đồng phòng chống lừa đảo nTrust. Người dùng có thể tải phần mềm từ 2 chợ ứng dụng phổ biến là Google Play với hệ điều hành Android và App Store với hệ điều hành iOS.
+
+Theo đó, nếu phát hiện bất cứ dấu hiệu nào về lừa đảo, người dùng có thể gửi báo cáo số điện thoại, số tài khoản, đường link, app nghi ngờ về trung tâm thông qua tính năng tích hợp sẵn trên phần mềm. Các dữ liệu báo cáo này sẽ được tập hợp, xác minh và cập nhật cho toàn bộ cộng đồng người sử dụng nTrust.
+
+Phần mềm phòng chống lừa đảo nTrust đề cao việc đảm bảo tính riêng tư, cho phép người dùng chủ động hoàn toàn trong việc kiểm soát, lựa chọn các thông tin cần kiểm tra, báo cáo. Đặc biệt, khác với các phần mềm nước ngoài có tính năng tương tự trên thị trường, toàn bộ quá trình xử lý liên quan đến kiểm tra cuộc gọi lừa đảo, làm phiền sẽ chỉ được thực hiện trên điện thoại, không gửi bất cứ thông tin gì về máy chủ.
+
+Ông Vũ Ngọc Sơn, Trưởng ban Nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế, Hiệp hội An ninh mạng quốc gia thông tin: hiện tại cơ sở dữ liệu phòng chống lừa đảo nTrust đã có hơn 1 triệu bản ghi, được xác minh, tổng hợp từ nguồn dữ liệu của Bộ Công an, Bộ Thông tin và Truyền thông, Ngân hàng Nhà nước và các tổ chức an ninh mạng thành viên của Hiệp hội. Với sự tham gia của cộng đồng người dùng, bộ dữ liệu này sẽ tăng nhanh trong thời gian tới.
+
+Thời gian qua, các biện pháp phòng chống lừa đảo từ cơ quan quản lý như chuẩn hoá thuê bao viễn thông, phổ biến, hướng dẫn về bảo vệ dữ liệu cá nhân và mới nhất là yêu cầu xác thực sinh trắc học đã từng bước thu hẹp phạm vi hoạt động của các đối tượng lừa đảo.
+
+Tuy nhiên, theo các chuyên gia, lừa đảo trực tuyến có những biến tướng với hình thức, công nghệ mới xuất hiện. nTrust sẽ góp phần như một tấm khiên bảo vệ hữu hiệu, hỗ trợ người dùng phát hiện sớm các nguy cơ lừa đảo trước khi giao dịch trên không gian mạng.
+
+Lừa đảo trực tuyến chiếm 57% tổng số tội phạm mạng, gia tăng cả về phạm vi với thủ đoạn tinh vi. Các đối tượng tội phạm mạng trong và ngoài nước liên tục thay đổi phương thức, thủ đoạn, triệt để lợi dụng công nghệ mới để tấn công, xâm nhập, lừa đảo quy mô lớn, gây thiệt hại về kinh tế và ảnh hưởng xấu đến trật tự an toàn xã hội.
+
+Tại Việt Nam, trong năm 2023, các đối tượng tội phạm mạng liên tục thay đổi phương thức, thủ đoạn, triệt để lợi dụng công nghệ mới để tấn công, xâm nhập, lừa đảo quy mô lớn, gây thiệt hại lớn về kinh tế và ảnh hưởng xấu đến trật tự an toàn xã hội.
+
+Theo thống kê trên Cổng cảnh báo an toàn thông tin ghi nhận gần 16.000 phản ánh lừa đảo trực tuyến, gây thiệt hại 390.000 tỷ đồng, tương đương 3,6% GDP, trong đó 91% liên quan đến lĩnh vực tài chính, tăng 64,78% so với năm 2022; tỷ lệ người dùng nhận tin nhắn, cuộc gọi lừa đảo trực tuyến là 73%.

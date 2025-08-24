@@ -1,0 +1,45 @@
+Theo hãng tin Bloomberg, con số 81 tỷ USD nói trên mới chỉ làn sóng đầu tiên trong gần 380 tỷ USD mà các chính phủ trên toàn cầu đã cam kết trợ cấp cho những công ty như Intel và Taiwan Semiconductor Manufacturing Co. (TSMC) nhằm thúc đẩy việc chế tạo và sản xuất những con chip tiên tiến nhất.
+
+Những khoản trợ cấp khổng lồ cho ngành chip đã đẩy cuộc đối đầu công nghệ - giữa một bên là Mỹ cùng các nước đồng minh và một bên là Trung Quốc - tới một bước ngoặt quan trọng có thể định hình tương lai của nền kinh tế toàn cầu.
+
+“Chắc chắn là cuộc chiến công nghệ với Trung Quốc đã đến mức không thể đảo ngược, nhất là về con chip. Cả hai bên về cơ bản đều đã đưa vấn đề này trở thành một trong những mục tiêu chiến lược quốc gia hàng đầu”, ông Jimmy Goodrich, cố vấn cấp cao về Trung Quốc và công nghệ chiến lược của công ty RAND Corp., nhận định với Bloomberg.
+
+Cuộc chiến con chip bắt đầu khi mối lo về những bước tiến nhanh chóng của Trung Quốc ở các mặt hàng điện tử chủ chốt biến thành một cơn hoảng sợ trên diện rộng trong đại dịch Covid-19. Đó là thời điểm khi tình trạng khan hiếm chip làm nổi bật tầm quan trọng của những linh kiện có kích thước nhỏ bé này đối với an ninh kinh tế. Đối với Mỹ giờ đây, cuộc chiến này đã bao hàm gần như tất cả mọi vấn đề, từ việc khôi phục năng lức sản xuất con chip của Mỹ, tới khẳng định vị thế tiên phong về trí tuệ nhân tạo (AI), cho tới mối quan hệ giữa hai bờ eo biển Đài Loan.
+
+Việc Mỹ và các nước đồng minh đầu tư mạnh cho công nghiệp chip đặt ra một thách thức mới với Trung Quốc, làm căng thẳng thêm cuộc chiến thương mại Mỹ-Trung, và lôi kéo thêm nhiều quốc gia và khu vực khác vào xung đột này như Nhật Bản và Trung Đông. Đồng thời, nỗ lực của Mỹ cũng mang lại một luồng sinh khí mới cho Intel, công ty từng dẫn đầu thế giới về sản xuất chip nhưng những năm gần đây đã tụt lại sau các đối thủ như Nvidia và TSMC.
+
+Tháng trước, Mỹ công bố kế trợ cấp 6,1 tỷ USD cho Micron, hãng sản xuất chip nhớ lớn nhất của Mỹ. Đây là một phần trong chương trình trợ cấp 33 tỷ USD của Chính phủ Mỹ dành cho những công ty như Intel, TSMC và Samsung Electronics.
+
+Dòng chảy trợ cấp của Washington dành các hãng chip được khai mở bởi Đạo luật CHIPS và Khoa học năm 2022 của Tổng thống Joe Biden, trong đó cam kết cấp 39 trợ cấp cho các hãng chip, cộng thêm các khoản vay và bảo lãnh trị giá 75 tỷ USD, cùng tín dụng thuế lên tới 25%.
+
+Những khoản đầu tư kể trên của Mỹ cho ngành chip không chỉ nhằm ứng phó với Trung Quốc, quốc gia bị cho là còn đi sau phần còn lại của thế giới tới vài thế hệ về công nghệ bán dẫn tiên tiến. Ngoài không để Trung Quốc vượt lên, Mỹ còn muốn thu hẹp khoảng cách đã duy trì suốt nhiều thập kỷ về hỗ trợ trực tiếp của nhà nước cho ngành chip - điều mà Đài Loan và Hàn Quốc vẫn làm bấy lâu nay.
+
+Mặt khác, việc Mỹ ra sức trợ cấp cho ngành chip trong nước cũng đang làm gia tăng căng thẳng giữa Mỹ và các đồng minh của Mỹ ở châu Âu và châu Á - những nền kinh tế cũng vốn đang muốn giành một miếng bánh trong nhu cầu ngày càng lớn của thế giới đối với các loại con chip phục vụ AI và điện toán lượng tử.
+
+Về phần mình, EU đã vạch kế hoạch 46,3 tỷ USD để mở rộng năng lực sản xuất chip của khu vực. Uỷ ban châu Âu (EC) ước tính đầu tư công và tư vào ngành chip sẽ đạt hơn 108 tỷ USD. Hai dự án sản xuất chip lớn nhất ở châu Âu đều nằm ở Đức, một là nhà máy của Intel ở Magdeburg có trị giá khoảng 36 tỷ USD và sẽ nhận được số tiền trợ cấp gần 11 tỷ USD; và một là một liên doanh của hãng TSMC trị ía khoảng 11 tỷ USD, trong đó khoảng một nửa sẽ là tiền trợ cấp.
+
+Các nền kinh tế mới nổi cũng đang nhăm nhe nhảy vào cuộc chơi chip. Hồi tháng 2, Ấn Độ phê chuẩn kế hoạch rót 10 tỷ USD vốn ngân sách cho ngành chip, bao gồm trợ cấp cho dự án xây dựng cơ sở sản xuất chip lớn đầu tư tiên của nước này của tập đoàn Tata Group. Ở Saudi Arabia, quỹ đầu tư quốc gia đang xem xét một kế hoạch đầu tư lớn để đột phá vào lĩnh vực chip, một phần trong nỗ lực đa dạng hoá nền kinh tế khỏi lĩnh vực năng lượng hoá thạch.
+
+Bộ Thương mại Nhật Bản từ tháng 6/2021 đến nay đã giành được cam kết 25,3 tỷ USD vốn tài trợ cho ngành chip. Trong số này, 16,7 tỷ USD đã được phân bổ cho các dự án. Thủ tướng Nhật Bản Fumio Kishida đặt mục tiêu đầu tư 64,2 tỷ USD cho ngành chip, bao gồm cả tiền vốn từ khu vực tư nhân, để đến năm 2030 doanh thu từ bán chip của Nhật Bản tăng gấp 3 so với hiện nay, đạt 96,3 tỷ USD.
+
+Về phần mình, Hàn Quốc cho đến gần đây vẫn tránh việc trợ cấp trực tiếp cho ngành chip như Mỹ hay Nhật Bản, mà chủ yếu định hướng cho các tập đoàn lớn (cheabol) đầu tư vào ngành chip. Theo đó, Chính phủ Hàn Quốc giữ vai trò hỗ trợ cho việc đầu tư khoảng 246 tỷ USD vào lĩnh vực này. Tuy nhiên, vào cuối tuần vừa rồi, Bộ Tài chính Hàn Quốc công bố một chương trình đầu tư hơn 7 tỷ USD của Chính phủ dành cho ngành chip.
+
+Một vấn đề đặt ra là với những khoản đầu tư lớn như vậy cho ngành chip, thế giới có thể đối mặt với nguy cơ thừa mứa chip.
+
+“Đây đều là những kế hoạch đầu tư của chính phủ và chủ yếu không do nhu cầu của thị trường quyết định. Điều này có thể dẫn tới công suất quá lớn so với nhu cầu”, nhà phân tích Sara Russo của công ty Bernstein nhận định. Tuy nhiên, rủi ro này giảm bớt khi xét tới khoảng thời gian dài từ lúc xây dựng cho tới khi một nhà máy chip có thể đi vào vận hành.
+
+Trung Quốc hiện là nước có nhiều nhà máy chip đang được xây dựng hơn bất kỳ quốc gia nào khác trên thế giới. Đây hầu hết đều là các nhà máy sản xuất các loại chip thế hệ cũ, trong khi Trung Quốc tiếp tục tích luỹ kiến thức và kinh nghiệm cần thiết để có thể đạt được môt bước nhảy vọt về công nghệ. Hiện Trung Quốc đang nỗ lực tự tạo ra các loại chip để thay thế chi AI của Nvidia và các loại chip tiên tiến khác.
+
+Số tiền mà Trung Quốc rót cho ngành chip có thể vượt xa mức đầu tư của Mỹ. Theo ước tính của Hiệp hội Công nghiệp chip có trụ sở ở Washington, Trung Quốc sẽ đầu tư hơn 142 tỷ USD cho ngành công nghiệp chip trong nước. Trong đó, Chính phủ nước này đang huy động thêm 27 tỷ USD cho một quỹ đầu tư nhà nước dành cho ngành chip, với đối tượng rót vốn là các nhà sản xuất chip hàng đầu của nước này như SMIC và Huawei.
+
+Bước tiến về chip của Trung Quốc đang bị cản lại bởi hàng loạt hạn chế mà phía Mỹ áp đặt. Chính quyền Biden đã kêu gọi các đồng minh của Mỹ ở châu Âu và châu Á triển khai các biện pháp xuất khẩu đối với các loại chip tiên tiến và thiết bị sản xuất những con chip này, để các sản phẩm đó không lọt vào tay Trung Quốc.
+
+Từ trước khi các hạn chế này được đưa ra, Trung Quốc đã đạt một số bước tiến về chip, dẫn đầu là Huawei. Năng lực thiết kế một số loại chip của Huawei đã bắt đầu ngang ngửa với các hãng chip Mỹ trước khi “gã khổng lồ” công nghệ Trung Quốc này bị Mỹ đưa vào danh sách đen vào năm 2019. Tiếp đó, vào năm 2020, hãng sản xuất chip lớn nhất của Trung Quốc là SMIC cũng bị Chính phủ Mỹ đưa vào danh sách đen.
+
+Theo chuyên gia Paul Triolo của công ty Albright Stonebridge Group, cuộc chiến con chip khiến các công ty Trung Quốc càng cảm thấy cần thiết phải “tăng cường năng lực chip trong nước, đi lên trên chỗi giá trị, cộng tác với nhau, và giành nhiều sự hỗ trợ của Chính phủ cho những công ty như Huawei để kéo toàn ngành tiến về phía trước”.
+
+Đối với Tổng thống Biden, việc xây dựng các nhà máy chip để tái sinh ngành sản xuất chip tại Mỹ và tạo thêm nhiều công ăn việc làm cho người lao động tại các nhà máy này giữ một vai trò quan trọng đối với khả năng tái đắc cử của ông trong cuộc bầu cử vào tháng 11 năm nay. Nhiều khả năng, đối thủ của ông Biden trong cuộc bầu cử này sẽ là cựu Tổng thống Donald Trump.
+
+Đến nay, ông Trump vẫn chưa đưa ra kế hoạch của mình cho ngành chip. Hồi còn cầm quyền, ông Trump đã giành được cam kết của TSMC về xây dựng nhà máy chip tiên tiến đầu tiên của hãng này tại Mỹ vào năm 2020. Ông cũng đã áp nhiều lệnh trừng phạt về công nghệ lên Trung Quốc, bao gồm lên Huawei. Lần tranh cử này, ông đã đe doạ sẽ áp thuế quan 60% lên toàn bộ hàng Trung Quốc nếu trúng cử thêm một nhiệm kỳ nữa.
+
+“Cho dù Tổng thống Mỹ là ai trong nhiệm kỳ tới, cuộc chiến công nghệ Mỹ-Trung sẽ ngày càng xấu đi chứ chẳng thể tốt lên”, ông John Lee - Giám đốc công ty tư vấn East West Futures Consulting - nhận xét với Bloomberg.

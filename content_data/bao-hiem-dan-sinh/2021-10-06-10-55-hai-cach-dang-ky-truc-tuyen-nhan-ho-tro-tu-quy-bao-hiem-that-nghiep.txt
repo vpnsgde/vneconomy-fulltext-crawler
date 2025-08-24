@@ -1,0 +1,61 @@
+Bảo hiểm xã hội Việt Nam vừa có hướng dẫn người lao động, người sử dụng lao động cách nộp hồ sơ đề nghị hưởng chính sách hỗ trợ từ quỹ Bảo hiểm thất nghiệp theo Nghị quyết số 116/NQ-CP,  Quyết định số 28/2021/QĐ-TTg cho cơ quan bảo hiểm xã hội qua các hình thức trực tuyến.
+
+Theo đó,đối với người lao động, Bảo hiểm xã hội Việt Nam lưu ý, phương thức này chỉ áp dụng phương thức nộp hồ sơ đề nghị hỗ trợ từ quỹ Bảo hiểm thất nghiệp đối với nhóm đã dừng tham gia bảo hiểm thất nghiệp, do chấm dứt hợp đồng lao động hoặc hợp đồng làm việc trong khoảng thời gian từ ngày 1/1/2020 đến hết ngày 30/9/2021, có thời gian đóng bảo hiểm thất nghiệp được bảo lưu theo quy định của pháp luật về việc làm.
+
+Không áp dụng cho nhóm người lao động đang tham gia bảo hiểm thất nghiệp (đơn vị sử dụng lao động quản lý người lao động sẽ chịu trách nhiệm nộp danh sách người lao động nhận hỗ trợ của đơn vị cho cơ quan bảo hiểm xã hội).
+
+Người lao động nộp hồ sơ trực tuyến theo  2 cách: Qua ứng dụng VssID - Bảo hiểm xã hội số  hoặc trên Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam.
+
+Nộp hồ sơ qua ứng dụng VssID - Bảo hiểm xã hội số
+
+Bước 1:Đăng nhập ứng dụng VssID.
+
+Bước 2:Chọn menuDịch vụ công.
+
+Bước 3:Chọn dịch vụ côngHỗ trợ COVID-19 theo Nghị quyết số 116/NQ-CP(hỗ trợ người tham gia BHTN bị ảnh hưởng bởi đại dịch Covid-19).
+
+Bước 4:Kiểm tra lại thời gian tham gia BHTN chưa được tính hưởng trợ cấp thất nghiệp (số tháng).
+
+Bước 5:Lựa chọn hình thức nhận hỗ trợ:
+
+-Nhận bằng tiền mặt.
+
+-Nhận qua tài khoản, bạn chọn/điền các thông tin sau:
+
+Số tài khoản của người đề nghị nhận hỗ trợ.
+
+Chọn ngân hàng (chi nhánh ngân hàng).
+
+Bước 6:ChọnCơ quan tiếp nhận hồ sơ, bấm nútGửi.
+
+Bước 7:Nhập mãOTP, bấmXác nhậnđể gửi hồ sơ
+
+Nộp hồ sơ qua Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam
+
+Bước 1:Đăng nhập Cổng Dịch vụ công của BHXH Việt Nam tại địa chỉ https://dichvucong.baohiemxahoi.gov.vn bằng tài khoản đã đăng ký.
+
+Bước 2: Chọn mục “Kê khai hồ sơ”,màn hình hiển thị danh sách các dịch vụ công để kê khai như sau:
+
+Bước 3:Tại màn hình:“Danh sách thủ tục”,chọn mã thủ tục “653 - Hỗ trợ người tham gia BHTN bị ảnh hưởng bởi dịch Covid-19” và chọnKê khai.
+
+Bước 4:Kê khai hồ sơ.
+
+Thực hiện chọn“Kê khai”hệ thống sẽ kiểm tra thông tin quá trình tham gia của người lao động theo mã số bảo hiểm xã hội để hiển thị các thông tin như sau:
+
+Chọn các giấy tờ đính kèm:
+
+Bước 5:Nộp hồ sơ, nhập mã xác nhận như hình sau:
+
+Nhập OTPđể xác thực:
+
+Sau khi thực hiện xác nhận thành công, hệ thống sẽ thông báo nộp hồ sơ thành công. Như vậy là hồ sơ của người lao động đã được gửi đến cơ quan bảo hiểm xã hội thành công.
+
+Đối với đơn vị sử dụng lao động,nộp hồ sơ danh sách người lao động đề nghị hưởng hỗ trợ từ quỹ Bảo hiểm thất nghiệp cho cơ quan bảo hiểm xã hội chỉ dành cho các trường hợp người lao động đang tham gia bảo hiểm thất nghiệp tại thời điểm 30/9/2021.
+
+Không bao gồm người lao động tại các cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân và đơn vị sự nghiệp công lập do ngân sách nhà nước đảm bảo chi thường xuyên.
+
+Đơn vị sử dụng lao động nộp hồ sơ theo hai cách gồm: qua phần mềm kê khai của các nhà cung cấp dịch vụ I-VAN và Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam.
+
+Bảo hiểm xã hội Việt Nam cũng lưu ý, trong qua trình kê khai hồ sơ đề nghị hỗ trợ từ quỹ Bảo hiểm thất nghiệp qua hình thức giao dịch trực tuyến nêu trên, có thể sẽ có tình trạng hệ thống bị quá tải do số lượng hồ sơ kê khai lớn trong cùng một thời điểm.
+
+Tình trạng hệ thống quá tải tương tự cũng có thể xảy ra với Tổng đài 1900.9068 của Bảo hiểm xã hội Việt Nam, do có nhiều cuộc gọi đến trong cùng một thời điểm.

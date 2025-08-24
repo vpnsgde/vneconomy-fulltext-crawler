@@ -1,0 +1,25 @@
+Trung tâm dữ liệu là cơ sở vật chất chứa hệ thống máy tính và lượng lớn dữ liệu đòi hỏi rất nhiều năng lượng hoạt động đồng thời cũng để giữ mát. Cơ quan Năng lượng Quốc tế (IEA) ước tính đến năm 2026, các trung tâm dữ liệu có thể sử dụng tổng cộng 1.000 TWh mỗi năm, gần tương đương với mức tiêu thụ điện của Nhật Bản.
+
+Để giải quyết bài toán bền vững của các trung tâm dữ liệu, Thales Alenia Space, một liên doanh giữa Thales (Pháp) và Leonardo (Ý), đã tiến hành nghiên cứu phóng các trung tâm dữ liệu lên vũ trụ. Kết quả ghi nhận ý tưởng này khả thi về mặt kỹ thuật, môi trường và kinh tế, điều này sẽ góp phần giải quyết vấn đề áp lực của môi trường từ các trung tâm dữ liệu. Nghiên cứu đã mất 16 tháng để hoàn thành và tiêu tốn 2 triệu euro.
+
+Damien Dumestier, Giám đốc dự án cho biết: “Chúng tôi đề xuất chuyển một phần nhu cầu năng lượng của các trung tâm dữ liệu vào không gian bằng năng lượng mặt trời”.
+
+Nghiên cứu đã so sánh tác động môi trường của các trung tâm không gian và trên mặt đất, đồng thời tìm hiểu xem liệu trung tâm có thể hoạt động trên quỹ đạo hay không.
+
+Chuyến bay đầu tiên của dự án dự kiến sẽ ​​diễn ra vào năm 2026. Các trung tâm dữ liệu không gian sẽ được đặt ở độ cao khoảng 1400 km, gấp ba lần độ cao của Trạm vũ trụ quốc tế. Nghiên cứu cho thấy các trung tâm dữ liệu không gian có thể tạo ra doanh thu vài tỷ euro vào năm 2050.
+
+Tuy nhiên, Giám đốc dự án Damien Dumestie thẳng thắn cho biết, một dự án đầy tham vọng như vậy có lẽ chưa thể thực hiện vào năm 2036 như mục tiêu đã đề ra.
+
+Kevin Restivo, người đứng đầu bộ phận nghiên cứu trung tâm dữ liệu châu Âu tại công ty tư vấn bất động sản CBRE, chia sẻ với Euronews Next: “Tôi nghĩ nghiên cứu hướng tới xây dựng các trung tâm dữ liệu trong không gian hoặc trung tâm dữ liệu dưới nước là những nỗ lực xứng đáng. Việc thử nghiệm các thông số phát triển trung tâm dữ liệu là rất quan trọng để thực hiện hoá tham vọng này”.
+
+Ông cũng nói thêm: “Có một nhóm nhỏ khách hàng vô cùng quyền lực và khao khát thiết lập trung tâm dữ liệu không gian. Họ chính là các ông lớn Microsoft, Amazon Web Services và Google”.
+
+Theo nghiên cứu, để các trung tâm dữ liệu không gian tiết kiệm năng lượng, chúng sẽ cần một loại bệ phóng mới tạo ra lượng khí thải ít hơn 10 lần. Các trung tâm dữ liệu cũng cần phải ở trên quỹ đạo bằng nhiên liệu tên lửa, vì vậy có thể cần phải tìm ra giải pháp thay thế.
+
+Theo đó, ArianeGroup đang nghiên cứu một phương tiện phóng có thể giảm lượng khí thải các chất độc hại. Tên lửa sinh thái đầu tiên sẽ sẵn sàng vào năm 2035.
+
+Ông Damien Dumestier, Giám đốc dự án cho biết các trung tâm dữ liệu sẽ quay quanh độ cao khoảng 1.400 km, cao hơn so với các vệ tinh không gian. Ông cho biết thêm dự án đảm bảo rằng các trung tâm dữ liệu không gian có khả năng chống chịu lâu dài và các vật liệu có thể tái sử dụng, vì đây là chìa khóa để đáp ứng các mục tiêu bền vững.
+
+Ông tin rằng các trung tâm dữ liệu không gian có thể mang lại “chủ quyền dữ liệu cho người châu Â và có thể mang lại cho châu Âu cơ hội trở thành quốc gia dẫn đầu trong lĩnh vực vũ trụ. Về mặt lợi ích, đây là một thị trường lớn chưa ai tiếp cận và nó sẽ mở ra những cánh cửa mới cho các ứng dụng khác”.
+
+Ý tưởng về trung tâm dữ liệu không gian đã thu hút sự chú ý của các công ty khác. Theo đó, Microsoft đang hợp tác với Loft Orbital và các công ty khác trong một dự án tương tự nhằm đặt nền móng cho các giải pháp quản lý dữ liệu trong không gian trong tương lai.

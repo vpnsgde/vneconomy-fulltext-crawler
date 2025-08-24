@@ -1,0 +1,31 @@
+Đây là một trong những kế hoạch nhằm tận dụng công nghệ AI mà quốc gia vùng Vịnh này đã đầu tư hàng tỷ USD để phát triển.
+
+Theo mô tả của truyền thông UAE, kế hoạch này là “lập pháp do AI hỗ trợ” và chưa từng có ở nơi nào trên thế giới. Tại nhiều quốc gia trên thế giới, các chính phủ cũng đang cố gắng ứng dụng AI một cách hiệu quả, từ việc tóm tắt các dự luật cho tới cải thiện các dịch vụ công. Tuy nhiên, chưa nơi nào chủ động sử dụng AI để đưa ra đề xuất thay đổi các luật hiện hành.
+
+“Hệ thống lập pháp mới, với sự hỗ trợ của AI, sẽ thay đổi cách chúng tôi xây dựng pháp luật, giúp quy trình này trở nên nhanh hơn và chính xác hơn”, ông Sheikh Mohammad bin Rashid Al Maktoum, Phó Tổng thống kiêm Thủ tướng UAE, phát biểu trên kênh truyền thông của chính phủ.
+
+Tuần trước, nội các UAE đã thông qua việc thành lập một bộ phận mới là Văn phòng Trí tuệ Pháp lý, để giám sát công tác làm luật sử dụng AI.
+
+Theo giáo sư Rony Medaglia của Trường Kinh doanh Copenhagen (Đan Mạch), UAE có "tham vọng biến AI thành một công cụ lập pháp” - một hành động ông cho là “rất táo bạo”.
+
+Thời gian qua, Chính phủ UAE đầu tư mạnh vào AI. Năm ngoái, nước này thành lập quỹ đầu tư công nghệ MGX, hợp tác với BlackRock và Microsoft để ra mắt một quỹ đầu tư hạ tầng AI trị giá hơn 30 tỷ USD. Hội đồng quản trị của MGX cũng có một chuyên gia về AI.
+
+Ngoài công tác lập pháp, UAE dự kiến cũng sẽ sử dụng AI để theo dõi tác động của các bộ luật tới dân số và nền kinh tế bằng cách tạo ra một cơ sở dữ liệu khổng lồ về các luật chung và luật của các tiểu vương quốc. Cùng với đó là dữ liệu về các lĩnh vực công như phán quyết của tòa án và dịch vụ công.
+
+Theo truyền thông chính phủ UAE, ông Sheikh Mohammad cho biết AI sẽ "thường xuyên đề xuất cập nhật pháp luật". Chính phủ nước này kỳ vọng AI sẽ đẩy nhanh 70% quá trình lập pháp.
+
+Tuy nhiên, theo các nhà nghiên cứu, việc này cũng đối mặt nhiều thách thức và rủi ro, từ việc AI gây khó hiểu cho người sử dụng cho tới những định kiến do dữ liệu đầu vào. Bên cạnh đó là những hoài nghi về việc liệu AI có diễn giải luật theo cùng cách như con người hay không.
+
+“Dù các mô hình AI rất ấn tượng, chúng có thể gây ảo giác và tồn tại các vấn đề về khả năng đọc hiểu và mức độ mạnh mẽ”, ông Vincent Straub, nhà nghiên cứu tại Đại học Oxford, cảnh báo. “Chúng ta không thể tin tưởng chúng”.
+
+Theo ông Straub, kế hoạch của UAE là chưa từng có bởi nước này còn sử dụng AI để dự báo những thay đổi pháp luật cần thiết.
+
+“Có vẻ UAE đang tiến thêm một bước nữa từ việc coi AI như một trợ lý, một công cụ hỗ trợ, phân loại và soạn thảo, trở thành một công cụ thực sự có thể đưa ra dự báo”, ông Straub nhận xét.
+
+Còn theo ông Keegan McBride, giảng viên tại Viện Internet Oxford, so với các quốc gia khác, UAE có cơ cấu quản trị phù hợp để nhanh chóng số hóa toàn diện bộ máy chính phủ.
+
+“Họ có thể hành động nhanh và có thể thử nghiệm nhiều thứ”, ông McBride nhận xét với tờ báo Financial Times. “Các chính phủ đang sử dụng AI trong nhiều công đoạn lập pháp nhưng ứng dụng ở quy mô như này thì chưa từng thấy ở bất kỳ quốc gia nào. Về mặt tham vọng, UAE thuộc hàng đầu”.
+
+Hiện chưa rõ Chính phủ UAE sẽ sử dụng hệ thống AI nào nhưng theo các chuyên gia, họ có thể phải kết hợp nhiều hệ thống với nhau. Dù theo cách nào, việc thiết lập các giới hạn và sự giám sát của con người là điều tối quan trọng.
+
+“AI có thể đề xuất những thứ vô cùng kỳ quặc, có ý nghĩa với máy móc nhưng hoàn toàn vô nghĩa khi ứng dụng vào xã hội loài người”, bà Marina De Vos, nhà khoa học máy tính tại Đại học Bath, nhận xét.

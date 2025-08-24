@@ -1,0 +1,29 @@
+Sacombank là ngân hàng sớm xác định công nghệ là trụ cột trong chiến lược phát triển, đặc biệt chú trọng vào việc đầu tư để chuyển đổi số, tạo nền tảng vững chắc cho sự phát triển toàn diện của ngân hàng phù hợp với xu hướng công nghiệp 4.0.
+
+CHUYỂN ĐỔI SỐ TOÀN DIỆN
+
+Hai mục tiêu chính Sacombank hướng đến trên hành trình chuyển đổi số là tối ưu hóa trải nghiệm của khách hàng và tối ưu hóa hiệu quả hoạt động, nâng cao năng lực quản trị và năng suất lao động.
+
+Bà Nguyễn Đức Thạch Diễm, Thành viên Hội đồng quản trị kiêm Tổng giám đốc Sacombank, cho rằng chuyển đổi số là một hành trình đòi hỏi tổ chức phải có năng lực số tương ứng.
+
+"Chuyển đổi số không đơn thuần là các dự án công nghệ mới mà phải thay đổi tư duy, thay đổi mô hình kinh doanh và quy trình, nâng cao kỹ năng và năng lực số trong tổ chức mới có thể thành công", bà Diễm nhấn mạnh.
+
+Từ năm 2010, Sacombank đã ứng dụng công nghệ số để tạo ra các kênh giao dịch hiện đại như trung tâm dịch vụ khách hàng, hợp nhất các kênh giao dịch trực tuyến Internet Banking và Mobile Banking. Năm 2015, là ngân hàng đầu tiên phát hành và chấp nhận thẻ chuẩn EMV trên tất cả các máy POS và ATM. Năm 2017, phát hành thẻ thanh toán không tiếp xúc đầu tiên trên thị trường và triển khai phương thức thanh toán QR chuẩn EMV toàn cầu. Năm 2018, cho ra đời ứng dụng quản lý tài chính Sacombank Pay trên điện thoại thông minh.
+
+Tháng 8/2020 vừa qua, Sacombank ứng dụng nhiều công nghệ tiên tiến nhất để ra mắt tính năng xác thực trực tuyến (eKYC) giảm thiểu thủ tục khi sử dụng Sacombank Pay. Và trong tháng 11/2020 này sẽ đưa ra tính năng NFC biến điện thoại thông minh thành thẻ phi vật lý để thanh toán chạm và công nghệ Tap to Phone dành cho đơn vị chấp nhận thẻ biến điện thoại thông minh thành máy POS NFC để thực hiện thanh toán chạm cho khách hàng.
+
+Từ đó, Sacombank đã triển khai nhiều dịch vụ thanh toán không dùng tiền mặt như nộp thuế điện tử, hóa đơn điện tử, chuyển tiền trong và ngoài nước, thanh toán các dịch vụ công (điện, nước, viễn thông, truyền hình cáp, học phí...) trên các kênh điện tử. Bên cạnh đó là các dịch vụ thu/chi hộ, quản lý dòng tiền và thanh toán COD giúp doanh nghiệp dễ dàng chấp nhận các hình thức thanh toán như QR, thẻ, mobile app hoặc tiền mặt mà không cần quản lý nhân viên thu tiền mặt, tiết kiệm chi phí và hạn chế rủi ro.
+
+Song song đó, Sacombank còn chú trọng chuyển đổi số các hoạt động bên trong. Năm 2018 số hoá quy trình bán hàng, dịch vụ khách hàng và marketing (CRM), ứng dụng môi trường làm việc số (Microsoft Team), số hoá quy trình tác nghiệp và phê duyệt online hướng đến văn phòng không giấy, ứng dụng điện toán đám mây.
+
+Năm 2019, số hoá quy trình phê duyệt tín dụng (LOS), triển khai đào tạo trực tuyến, nâng cấp ngân hàng lõi T24-R17, ứng dụng trí tuệ nhân tạo (chatbot), công nghệ Robot (RPA)… Đặc biệt, năm 2020 Sacombank là ngân hàng đầu tiên chuyển đổi thành công phương thức tổ chức đại hội đồng cổ đông sang hình thức trực tuyến và bỏ phiếu điện tử. Đây cũng là năm Sacombank bước đầu vận hành Trung tâm điều hành an ninh mạng theo tiêu chuẩn quốc tế.
+
+CHÚ TRỌNG ĐẢM BẢO AN TOÀN THÔNG TIN
+
+Sacombank không chỉ đầu tư các nền tảng, công nghệ thanh toán mà còn chú trọng bảo đảm an toàn thông tin. Là ngân hàng duy nhất đạt chứng chỉ bảo mật thanh toán thẻ PCI DSS trong 7 năm liên tục kể từ năm 2013 và sẽ nỗ lực để duy trì trong các năm tới. Với chứng chỉ này, Sacombank luôn được các tổ chức thẻ chọn triển khai các công nghệ mới.
+
+Đối với các giao dịch thanh toán trực tuyến trên các trang thương mại điện tử, Sacombank đã áp dụng công nghệ bảo mật mã hóa thông tin thẻ (tokenization) và xác thực giao dịch thương mại điện tử 3D Secure nhằm bảo vệ chủ thẻ.
+
+Ngân hàng cũng đã triển khai cơ chế chống giả mạo trên ngân hàng điện tử, đồng thời trang bị công nghệ bảo mật IBM Trusteer dành cho thiết bị và điểm truy cập đầu cuối để tăng thêm lớp bảo mật cho các ứng dụng thanh toán.
+
+"Chuyển đổi số thực sự đã tạo nên những bước chuyển mình mạnh mẽ và mang lại hiệu quả to lớn cho Sacombank. Bên cạnh việc gia tăng năng suất lao động và chất lượng công việc đáng kể, ngân hàng còn tiết kiệm được một khoản lớn chi phí điều hành và chi phí nhân sự khi áp dụng quy trình tác nghiệp điện tử, hội họp trực tuyến; thời gian xử lý hồ sơ cũng được cải thiện nhiều so với trước đây.Hơn thế nữa, khi đáp ứng được các nhu cầu về tài chính, thanh toán điện tử phù hợp với xu hướng thì năng lực cạnh tranh của ngân hàng cũng tăng lên, từ đó gia tăng doanh thu, lợi nhuận và uy tín thương hiệu", bà Nguyễn Đức Thạch Diễm chia sẻ thêm.

@@ -1,0 +1,17 @@
+Trong cảnh báo gửi các đơn vị chuyên trách về công nghệ thông tin của các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; Sở Thông tin và Truyền thông các tỉnh, thành; các tập đoàn, tổng công ty Nhà nước; các ngân hàng thương mại cổ phần, các tổ chức tài chính và hệ thống các đơn vị chuyên trách về an toàn thông tin, Cục An toàn thông tin cho biết ngày 14/2, Microsoft đã phát hành danh sách vá tháng 2 với 75 lỗ hổng bảo mật trong các sản phẩm của mình.
+
+Trong đó, theo Cục An toàn thông tin, đặc biệt 12 lỗ hổng có mức độc ảnh hưởng cao và nghiêm trọng.
+
+Cụ thể, 4 lỗ hổng bảo mật CVE-2023-21529, CVE-2023-21710, CVE-2023- 21707, CVE-2023-21706 trong Microsoft Exchange Server cho phép đối tượng tấn công thực thi mã từ xa. Microsoft Exchange Server đã và đang là mục tiêu hàng đầu được các nhóm tấn công có chủ đích (APT) nhắm đến, các đối tượng tấn công khai thác triệt để. Vì vậy, theo Cục An toàn thông tin, các cơ quan, tổ chức cần đặc biệt chú ý cũng như có kế hoạch để khắc phục và tăng cường giám sát nhằm giảm thiểu và tránh nguy cơ bị tấn công thông qua các lỗ hổng này.
+
+Tiếp đến là các lỗ hổng bảo mật CVE-2023-21716 trong Microsoft Word cho phép đối tượng tấn công thực thi mã từ xa; lỗ hổng bảo mật CVE-2023-21715 trong Microsoft Publisher cho phép đối tượng tấn công thực hiện tấn công vượt qua cơ chế bảo mật (Bypass). Lỗ hổng này đang bị khai thác trong thực tế.
+
+Ngoài ra còn hai lỗ hổng bảo mật gồm CVE-2023-23376, CVE-2023-21812 trong Windows Common Log File System (CLFS) cho phép đối tượng tấn công thực hiện tấn công nâng cao đặc quyền. Lỗ hổng này đang bị khai thác trong thực tế. Ba lỗ hổng bảo mật CVE-2023-21705, CVE-2023-21713, CVE-2023- 21528 trong Microsoft SQL Server cho phép đối tượng tấn công thực thi mã từ xa.
+
+Và lỗ hổng bảo mật CVE-2023-21717 trong Microsoft SharePoint Server cho phép đối tượng tấn công thực hiện nâng cao đặc quyền.
+
+Nhằm đảm bảo an toàn thông tin cho hệ thống thông tin của cơ quan, tổ chức, doanh nghiệp, đồng thời góp phần bảo đảm an toàn cho không gian mạng Việt Nam, Cục An toàn thông tin khuyến nghị các đơn vị kiểm tra, rà soát, xác định những máy sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng. Thực hiện cập nhật bản vá kịp thời để tránh nguy cơ bị tấn công.
+
+Tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng; đồng thời thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+
+Cục An toàn thông tin cho biết trong trường hợp cần thiết, các đơn vị có thể liên hệ đầu mối hỗ trợ của Cục An toàn thông tin – Bộ TT&TT là Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) theo điện thoại 02432091616 và địa chỉ thư điện tử ais@mic.gov.vn.

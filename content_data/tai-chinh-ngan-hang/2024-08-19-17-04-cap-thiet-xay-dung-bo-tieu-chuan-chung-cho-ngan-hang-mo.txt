@@ -1,0 +1,41 @@
+Theo các chuyên gia, việc nhúng dịch vụ ngân hàng vào các ứng dụng trên thiết bị di động là xu thế tất yếu, giúp xóa nhòa yếu tố “ma sát” của lĩnh vực thanh toán trong đời sống hàng ngày. Việt Nam là quốc gia đứng thứ hai trong khu vực ASEAN, chỉ sau Singapore về tỷ lệ sử dụng di động thông minh để truy cập vào các dịch vụ ngân hàng số.
+
+Do vậy, việc đẩy nhanh các ứng dụng và công nghệ trong ngành ngân hàng là yêu cầu bắt buộc. Trong đó, mô hình ngân hàng mở là một giải pháp phát triển ngân hàng toàn diện, giúp xóa nhòa “ma sát” trong thanh toán cũng như thúc đẩy trải nghiệm liền mạch của khách hàng.
+
+Hiện nay, các ngân hàng thương mại cung cấp các giải pháp đa tiện ích như ngân hàng điện tử, QR Code, ngân hàng trực tuyến. Các lĩnh vực khác trong đời sống như thanh toán hóa đơn điện, nước, viễn thông, giáo dục, giao thông hay cả dịch vụ công trực tuyến,... đều được lồng ghép thông qua nền tảng của ngân hàng mở.
+
+Một trong số những ứng dụng nổi bật của ngân hàng mở đem lại là việc kết nối cơ sở dữ liệu về dân cư của Bộ Công an để làm sạch dữ liệu, định danh tài khoản ngân hàng, xóa bỏ vấn nạn tài khoản rác.
+
+Theo bà Nguyễn Thị Hồng, Thống đốc Ngân hàng Nhà nước, ngân hàng là ngành đầu tiên thực hiện kết nối tới hệ thống định danh và xác thực điện tử để ứng dụng tài khoản VNeID ngay khi Luật Căn cước và Nghị định 69/2024/NĐ-CP có hiệu lực. Trong đó, Vietcombank là ngân hàng đầu tiên mà khách hàng có thể xác minh tài khoản trực tiếp từ ứng dụng VneID.
+
+Không chỉ dừng lại ở việc định danh tài khoản, sự xuất hiện của ngân hàng mở còn là tiền đề cho hoạt động thanh toán không dùng tiền mặt phát triển mạnh mẽ. Theo số liệu của Ngân hàng Nhà nước, tính tới tháng 6/2024, Việt Nam đạt 9,13 triệu tài khoản Mobile-Money, 11.885 điểm kinh doanh được thiết lập, 275.575 đơn vị chấp nhận thanh toán và 128 triệu giao dịch trị giá 4.782 tỷ đồng.
+
+Còn theo Công ty cổ phần Thanh toán quốc gia Việt Nam (NAPAS), thị trường thanh toán tại Việt Nam năm 2023 có số lượng giao dịch thanh toán không dùng tiền mặt đạt khoảng 3,5 tỷ giao dịch, với tổng giá trị lên tới hơn 66 triệu tỷ đồng.
+
+
+
+Một trong số dịch vụ phát triển của ngân hàng mở (Open Banking) là công nghệ tài chính nhúng (Embedded Finance). Công nghệ này xóa nhòa khoảng cách địa lý cũng như rào cản về ranh giới, giúp khách hàng có thể sử dụng dịch vụ tài chính ở những môi trường khác nhau.
+
+Ông Phạm Anh Tuấn, Vụ trưởng Vụ thanh toán (Ngân hàng Nhà nước), cho rằng ngân hàng số được ứng dụng sâu trong cuộc sống thường ngày của xã hội. Theo đó, 60% các cơ sở khám, chữa bệnh trên địa bàn đô thị chấp nhận thanh toán dịch vụ y tế bằng phương pháp không dùng tiền mặt. Về lĩnh vực nhiên liệu, hiện nay có 2.500 cửa hàng xăng dầu của Petrolimex có thể xuất hóa đơn điện tử ngay sau khi thanh toán. Hơn nữa, việc mua hàng hóa hay sử dụng các dịch vụ trở nên thuận lợi, dễ dàng hơn thông qua hệ sinh thái kết nối liền mạch giữa nhà cung cấp, đơn vị vận chuyển và các ngân hàng cũng như các trung gian thanh toán.
+
+Theo ông Nguyễn Quang Minh, Tổng giám đốc CTCP Thanh toán Quốc gia Việt Nam (NAPAS), Ngân hàng mở tại Việt Nam đang trong giai đoạn đầu và có dư địa để phát triển hơn nữa. Một trong số những sự phát triển của ngân hàng mở (Open Banking) là công nghệ tài chính nhúng (Embedded Finance). Công nghệ này sẽ xóa nhòa khoảng cách địa lý cũng như rào cản về ranh giới, giúp cho khách hàng có thể sử dụng dịch vụ tài chính ở những môi trường khác nhau.
+
+Theo đó, nếu khách hàng muốn mua một sản phẩm, ngay lập tức hệ thống sẽ tự động đánh giá “sức khỏe tài chính” của người dùng thông qua thông tin được thu thập về hệ thống tài khoản ngân hàng, lịch sử giao dịch, chỉ số tín nhiệm tín dụng,… và đưa ra đề nghị chi trả phù hợp nhất.
+
+Công nghệ chấm điểm tín dụng mới sẽ dựa trên nhiều cơ sở dữ liệu, đặc biệt là hoạt động chi tiêu hàng ngày. Điều này khác với cách tính điểm tín dụng truyền thống qua hệ thống của Trung tâm Thông tin tín dụng Quốc gia Việt Nam (CIC) nên có thể phản ánh gần như chính xác khả năng tài chính của từng khách hàng.
+
+Dưới quan điểm là một trong số các ngân hàng triển khai hệ thống Open API riêng biệt, ông Trần Long, Phó Tổng giám đốc Ngân hàng Đầu tư và Phát triển Việt Nam (BIDV), dự báo sẽ có khoảng 500 nghìn doanh nghiệp, hàng triệu khách hàng tiểu thương và khách hàng cá nhân sẽ được cung cấp dịch vụ ngân hàng mở từ hệ thống BIDV Open API.
+
+Theo đánh giá của các chuyên gia công nghệ ngân hàng, ngân hàng mở cho phép khách hàng truy cập 3 loại dữ liệu chính: (i) dữ liệu chung liên quan đến sản phẩm, dịch vụ của ngân hàng cung cấp như lãi suất, phí, tỷ giá, vị trí phòng giao dịch, vị trí ATM,…; (ii) dữ liệu khách hàng như số tài khoản, họ tên, chi nhánh, loại tài khoản,… (iii) dữ liệu giao dịch như thông tin người nhận tiền, số tiền giao dịch, số dư tài khoản… Đây đều là những dữ liệu vô cùng quan trọng và cần có sự thống nhất về tiêu chuẩn kỹ thuật để tạo ra hiệu quả khi kết nối đa phương và phát triển hệ sinh thái số.
+
+Ngân hàng mở hay Open API là một lĩnh vực mới cả về kỹ thuật và pháp lý ở Việt Nam và trên thế giới. Các thách thức khi triển khai Open API không chỉ dừng lại ở câu chuyện công nghệ mà còn là thay đổi nhận thức và khung pháp lý. Mặc dù các ngân hàng bước đầu triển khai Open API, cho phép các đối tác kết nối, chia sẻ, trao đổi dữ liệu…, song hiện nay phát triển Open API đang diễn ra một cách cục bộ, ở từng ngân hàng.
+
+Cụ thể, mỗi một ngân hàng sử dụng một tiêu chuẩn API, tiêu chuẩn an ninh bảo mật khác nhau dẫn đến thị trường bị phân mảnh, việc hợp tác của các công ty Fintech với các ngân hàng sẽ gặp nhiều khó khăn khi cung cấp dịch vụ ra thị trường tốn nhiều nguồn lực, thời gian, chi phí để chỉnh sửa phần mềm phù hợp với tiêu chuẩn Open API của từng ngân hàng.
+
+Ngoài ra, vì chưa có quy định rõ ràng về bộ tiêu chuẩn bảo mật về Open API nên các ngân hàng phải tự đánh giá xem các bên thứ ba đó có đủ tin cậy và an toàn hay không trước khi quyết định hợp tác. Điều này rất quan trọng khi mà tỷ lệ tội phạm công nghệ cao tấn công vào cơ sở dữ liệu đang gia tăng trong thời gian qua.
+
+Theo các chuyên gia, hạ tầng dùng chung không “triệt tiêu” các API của các ngân hàng đã triển khai từ trước tới nay. Thay vào đó, nếu có API dùng chung sẽ giống như một cái “chợ” và các doanh nghiệp sẽ mang hàng lên “chợ” này để bán...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 34-2024 phát hành ngày 19/08/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

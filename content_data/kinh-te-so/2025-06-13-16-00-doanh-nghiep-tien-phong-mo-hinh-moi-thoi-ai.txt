@@ -1,0 +1,27 @@
+Mới đây, Microsoft Việt Nam đã công bố Báo cáo Chỉ số Xu hướng Công việc năm 2025 trên cơ sở thực hiện khảo sát 31.000 nhân viên ở 31 quốc gia, trong đó có Việt Nam. Kết quả cho thấy xuất hiện một mô hình tổ chức mới gọi là “Doanh nghiệp Tiên phong” (Frontier Firm).
+
+Khác với doanh nghiệp truyền thống, Doanh nghiệp Tiên phong được xây dựng xoay quanh các yếu tố như trí thông minh theo yêu cầu (intelligence on tap), đội ngũ kết hợp giữa con người và tác nhân (human-agent teams), và chủ quản tác nhân (agent boss). Dữ liệu cho thấy, tại Việt Nam, tốc độ phát triển của các doanh nghiệp thuộc nhóm này đang gấp đôi so với mức trung bình toàn cầu.
+
+Nhờ AI, mô hình tổ chức Doanh nghiệp Tiên phong đang chuyển sang mô hình “sơ đồ công việc (Work Chart)” – nơi cấu trúc được định hình theo nhiệm vụ cụ thể và có thể thay đổi linh hoạt.
+
+Hiện nay, 65% lãnh đạo Việt Nam đã sử dụng AI để tự động hóa một phần hoặc toàn bộ quy trình, đặc biệt trong các lĩnh vực như chăm sóc khách hàng, tiếp thị và phát triển sản phẩm.
+
+Sự phổ cập của các tác nhân AI (agents) dẫn đến một vai trò mới: chủ quản tác nhân (agent boss) – người trực tiếp thiết lập, phân công và giám sát hoạt động của các tác nhân. Theo khảo sát, 54% lãnh đạo Việt Nam kỳ vọng đội ngũ của họ sẽ đào tạo tác nhân và 48% sẽ trực tiếp quản lý chúng trong 5 năm tới.
+
+Tuy nhiên, trong khi 82% lãnh đạo đã khá quen thuộc với các tác nhân thì chỉ 71% nhân viên có cùng mức độ hiểu biết. Sự chênh lệch này cho thấy một nhu cầu cấp thiết về đào tạo và chuẩn bị kỹ năng AI ở mọi cấp độ.
+
+Thay vì cắt giảm biên chế, các doanh nghiệp Việt Nam đang ưu tiên tuyển dụng cho các vị trí mới liên quan tới AI như chuyên gia tác nhân, chuyên viên AI và quản lý lực lượng lao động AI – với tỷ lệ lên tới 91%, vượt xa mức trung bình toàn cầu là 78%.
+
+Theo bà Nguyễn Quỳnh Trâm, Tổng Giám đốc Microsoft Việt Nam, dù AI đã mở ra cánh cửa tiếp cận tri thức giúp mọi cá nhân và doanh nghiệp vươn tới thành công vượt trội, nhưng “công nghệ chỉ thực sự tạo ra giá trị khi con người sẵn sàng đón nhận và đồng hành cùng nó. Điều này đòi hỏi các nhà lãnh đạo không chỉ đầu tư vào công nghệ, mà còn cần ưu tiên phát triển tư duy số, kỹ năng số cho đội ngũ, và thúc đẩy sự cộng tác hiệu quả giữa con người và các tác nhân AI”.
+
+Một phát hiện rất đáng chú ý của báo cáo là khoảng cách ngày càng lớn giữa kỳ vọng tăng năng suất của lãnh đạo và khả năng thực hiện của nhân viên, đồng thời coi AI là một “tài nguyên bền vững” với mức chi phí hợp lý nhưng có khả năng mở rộng theo nhu cầu.
+
+Tại Việt Nam, 67% lãnh đạo muốn tăng năng suất, nhưng 84% nhân viên lại bảo họ không có đủ thời gian hay năng lượng để hoàn thành công việc(con số này trên toàn cầu lần lượt là 53% và 80%). Tuy vậy, 95% lãnh đạo Việt Nam kỳ vọng sẽ sử dụng lao động kỹ thuật số để mở rộng quy mô tổ chức trong 12–18 tháng tới, cao hơn nhiều so với mức trung bình toàn cầu là 82%.
+
+Sự dịch chuyển này đang tạo nên làn sóng đổi mới mạnh mẽ, khi ngày càng nhiều nhân tài rời bỏ các tập đoàn lớn để gia nhập các startup AI – một hiện tượng tương tự thời kỳ bùng nổ dot-com. Các quy tắc về nhân tài và sự cạnh tranh sẽ được định hình lạị.
+
+Qua báo cáo, Microsoft cũng giới thiệu những cập nhật mới trong hệ sinh thái Microsoft 365 Copilot, từ công cụ Researcher & Analyst, kho Agent Store, đến tính năng Copilot Notebooks, Copilot Search và Copilot Control System. Những cải tiến này góp phần tạo nên một hệ sinh thái AI mở, giúp doanh nghiệp nâng cao hiệu suất và thúc đẩy đổi mới sáng tạo.
+
+Cũng giống như Internet từng tạo ra nhiều công việc mới, kỷ nguyên AI hứa hẹn sẽ làm điều tương tự – nhưng với tốc độ nhanh hơn và phạm vi rộng hơn.
+
+Báo cáo cũng đưa ra khuyến cáo rằng để tận dụng cơ hội này, doanh nghiệp cần hành động ngay từ bây giờ: đào tạo lại kỹ năng, thay đổi tư duy tổ chức và đầu tư vào mô hình Doanh nghiệp Tiên phong.

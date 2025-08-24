@@ -1,0 +1,33 @@
+Những thay đổi gần đây trong việc thực thi hóa đơn điện tử, yêu cầu minh bạch hóa nguồn gốc hàng hóa và siết chặt chính sách thuế đang trở thành mối quan tâm hàng đầu của các hộ kinh doanh.
+
+Tại toạ đàm Hộ kinh doanh trước vấn nạn hàng giả và tuân thủ thuế ngày 22/6/2025, bà Lê Thị Duyên Hải, Phó Tổng Thư ký Hội Tư vấn thuế Việt Nam, cho biết phần lớn tâm lý bất an này đến từ việc thiếu thông tin, hiểu sai quy định về hóa đơn điện tử, máy tính tiền và nghĩa vụ thuế.
+
+Theo số liệu thống kê, Việt Nam có 5,2 triệu hộ kinh doanh nhưng chỉ có 3,6 triệu hộ được cơ quan thuế quản lý, đây là nhóm hộ kinh doanh cố định và thường xuyên. Trong số này có chưa đến 1 triệu hộ là hộ khoán và từ hồ sơ quản lý của cơ quan thuế, đã lọc ra 31.000 hộ có doanh thu ước tính đạt 1 tỷ trong năm 2025.  Con số 31 nghìn hộ khoán nói trên  được xem là hộ khoán lớn và trong diện thí điểm áp dụng hóa đơn điện tử khởi tạo từ máy tính tiền. TP. Hồ Chí Minh có 16 nghìn hộ và Hà Nội là 9 nghìn hộ, còn lại là một số ít ở các tỉnh thành phố lớn khác.
+
+“Thực tế các hộ tại vùng sâu, vùng xa hoàn toàn không thuộc diện bị ảnh hưởng, vì vậy, việc dư luận cho rằng các bà bán rau phải xuất hóa đơn trên 1 tỷ là không đúng”, bà Lê Thị Duyên Hải nói.
+
+Cũng theo Phó Tổng thư ký Hội tư vấn thuế Việt Nam,  3,6 triệu hộ kinh doanh được phân loại thành 4 nhóm gồm:(i) nhóm hộ kê khai khoảng 84.000, (ii) 37.000 hộ khoán lớn nhưng sử dụng hóa đơn điện tử từ máy tính tiền, (iii) các hộ khoán còn lại nộp thuế theo doanh thu khoán, hàng tháng đóng cố định và (iv) nhóm thuộc diện được nhà nước miễn thuế.
+
+
+
+Kể từ Nghị định 70/2025/NĐ-CP quy định bắt buộc hộ kinh doanh phát hành hóa đơn điện tử từ máy bán hàng khiến “vùng an toàn” của những hộ kinh doanh này dần biến mất. Bởi lẽ, nếu như trước đây, họ không cần hóa đơn, không đăng ký kinh doanh và không bị thanh kiểm tra về an toàn thực phẩm, phòng cháy chữa cháy, thì nay lại đối mặt với rủi ro bị “lộ” doanh thu và chịu áp lực thuế nặng hơn.
+
+Cũng liên quan đến vấn đề triển khai hóa đơn điện tử, ông Nguyễn Văn Phụng, nguyên Cục trưởng Cục Thuế doanh nghiệp lớn, Tổng cục Thuế, cho biết các doanh nghiệp dược đến các quầy bán lẻ, các hiệu thuốc đều được đưa vào nhóm ưu tiên kiểm tra thuế đầu tiên. Theo đó, từ mã số thuế của các quầy dược, cơ quan thuế có thể truy ngược toàn bộ chuỗi giao dịch và phát hiện ra nhiều sai lệch đáng chú ý.
+
+Ông Phụng nêu ví dụ: một hộ kinh doanh khai tổng chi phí (gồm giá vốn và nhân công) gần 7 tỷ đồng trong khi doanh thu kê khai chỉ 1,2 tỷ đồng. Điều này rõ ràng cho thấy sự bất hợp lý về mặt cơ cấu doanh thu – chi phí. Khi cán bộ thuế kiểm tra và phân tích, chủ hộ đã thừa nhận kê khai thiếu và chấp nhận nộp bổ sung thuế thu nhập với mức 1,5%. Nhờ vào việc áp dụng hóa đơn điện tử và dữ liệu từ cửa hàng thuốc, cơ quan thuế đã phát hiện ra điều phi lý trên.
+
+
+
+"Không chỉ vậy, hóa đơn điện tử cũng giúp minh bạch hóa các dòng tiền trong lĩnh vực y dược, làm rõ một số khoản thu nhập chưa được kiểm soát từ phía các bác sĩ và trình dược viên. Đây là hai nhóm đối tượng có thu nhập cao nhưng trước đây thường không kê khai đầy đủ".
+
+(ÔngNguyễn Văn Phụng, Nguyên Cục trưởng Cục Thuế doanh nghiệp lớn, Tổng cục Thuế)
+
+Tuy nhiên, theo ông Phụng, việc quản lý thuế hiện nay vẫn còn tồn tại nhiều “lỗ hổng”.
+
+Thứ nhất, cơ quan thuế vẫn triển khai theo hình thức tự khai, tự nộp và điều này vô hình chung đã dẫn tới hai tình huống: (i) các hộ kinh doanh dưới ngưỡng doanh thu khoán thường kê khai thấp để được hưởng mức thuế khoán; (ii) những hộ vượt ngưỡng lẽ ra phải chuyển sang phương thức kê khai thì lại không bị nhắc nhở.
+
+Thứ hai,cơ quan thuế hiện nay vẫn đang chủ yếu tập trung vào các doanh nghiệp lớn thay vì thể hiện sự quan tâm đúng mức đối với nhóm nhỏ lẻ. Trong bối cảnh như vậy thì việc thất thu thuế là điều hoàn toàn dễ hiểu, ông Phụng đánh giá.
+
+Ngoài ra, một vấn đề khác đang thu hút nhiều sự chú ý là vấn đề thanh toán không tiền mặt do lo ngại việc sử dụng mã QR hay chuyển khoản sẽ bị “soi” thuế. Câu chuyện từ thực tế cho thấy một người bán nước nhân trần mỗi ngày thu được khoảng 300 nghìn đồng cũng ngại việc bị truy xuất thuế dù hoàn toàn nằm trong diện miễn thuế.
+
+Chính vì vậy, nguyên Cục trưởng Cục Thuế doanh nghiệp lớn, Tổng cục Thuế, khẳng định hóa đơn điện tử và thanh toán không tiền mặt không nhằm “đánh” vào hộ kinh doanh nhỏ, mà là công cụ hữu hiệu để đảm bảo công bằng thuế. Khi quản lý minh bạch và hiệu quả, Nhà nước không chỉ giảm được thất thu mà còn tạo động lực cho kinh doanh chính thức phát triển bền vững, đúng pháp luật.

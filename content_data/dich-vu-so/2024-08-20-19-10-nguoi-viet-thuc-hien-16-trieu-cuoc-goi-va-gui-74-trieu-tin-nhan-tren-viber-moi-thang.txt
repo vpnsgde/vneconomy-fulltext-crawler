@@ -1,0 +1,23 @@
+Chia sẻ với báo chí về chiến lược phát triển hỗ trợ cộng đồng người dùng bằng các sáng chế tại sự kiện ngày 20/8/2024, ông David Tse, Giám đốc khu vực châu Á, Thái Bình Dương của Rakuten Viber, cho biết mỗi tháng người dùng Viber tại Việt Nam gửi 474 triệu tin nhắn, thực hiện 16 triệu cuộc gọi và trao đổi 36 triệu hình ảnh trên ứng dụng này.
+
+Những con số trên tiếp tục gia tăng và chủ yếu được thúc đẩy bởi những người năng động, có kỹ năng chuyên môn hiện đang sinh sống tại các thành phố lớn, với 67% trong số này đang ở độ tuổi từ 25 đến 50, đại diện Rakuten Viber chia sẻ.
+
+Đối với các tổ chức, doanh nghiệp, ông David Hoàng, Quản lý phát triển kinh doanh và bán hàng tại Việt Nam của Rakuten Viber, cho hay hiện đang hợp tác với nhiều đơn vị dịch vụ công của chính phủ và hơn 100 thương hiệu hàng đầu trong các lĩnh vực gồm viễn thông, công nghệ tài chính và hàng không...
+
+Trước những quan ngại về tình trạng mất an toàn thông tin, tấn công mạng ở Việt Nam như số liệu thống kê của Trung tâm Giám sát an toàn không gian mạng quốc gia (với 32.265 lượt tấn công mạng được báo cáo trong quý 1/2024), các chuyên gia cho rằng việc đưa ra các giải pháp bảo đảm an toàn cho người dùng và khách hàng sử dụng dịch vụ là rất cần thiết.
+
+Nhấn mạnh tầm quan trọng trong bảo mật an toàn người dùng, Rakuten Viber cho biết đã đưa ra giải pháp mã hóa đầu cuối cho tất cả các cuộc trò chuyện riêng tư, các nhóm hội thoại cũng như các cuộc gọi cá nhân.
+
+Viber sẽ không lưu trữ các tin nhắn của người dùng trên máy chủ nhưng vẫn sẽ đảm bảo khả năng kết nối luôn được bảo vệ bằng giao thức HTTPS (trao đổi thông tin bảo mật trên mạng), đảm bảo các thông điệp trao đổi giữa máy khách và máy chủ không bị người thứ ba (hackers) đọc được.
+
+Đặc biệt, Viber cũng công bố phương thức an toàn cho các doanh nghiệp để chia sẻ mật khẩu kích hoạt (mã OTP). Tính năng này đang được thử nghiệm với các thương hiệu Việt Nam.
+
+Trước đó, Viber đã đưa ra tính năng "tin nhắn bảo vệ nâng cao", giúp xác minh số điện thoại của người nhận không liên quan đến hoạt động lừa đảo. Tính năng này đặc biệt hữu ích cho các ngân hàng, tổ chức tài chính và các công ty xử lý thông tin nhạy cảm.
+
+Đại diện Viber nhấn mạnh mục tiêu của hãng ở thị trường Việt Nam trong thời gian tới là thiết lập niềm tin với người dùng và khách hàng về ứng dụng OTT bảo mật an toàn.
+
+Đại diện hãng này cũng cho biết trong kế hoạch ngắn hạn tới đây sẽ xem xét mở văn phòng đại diện tại thị trường Việt Nam.
+
+Việt Nam là một trong những quốc gia phát triển nhất thế giới về sử dụng điện thoại thông minh, và tin nhắn đã trở thành một phương tiện giao tiếp quan trọng trong đời sống hàng ngày. Hiện nay, tại Việt Nam có nhiều ứng dụng có thể nhắn tin và gọi điện qua mạng Internet miễn phí (OTT), trong đó có sản phẩm trong nước và dịch vụ cung cấp xuyên biên giới.
+
+Ứng dụng nhắn tin và gọi thoại Viber với gần 1,2 tỷ người dùng toàn cầu và xuất hiện tại Việt Nam từ năm 2014. Tại Việt Nam, Viber thu hút khoảng 13% người dùng Internet tại Việt Nam sử dụng vào năm 2023.

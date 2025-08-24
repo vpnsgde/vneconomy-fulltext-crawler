@@ -1,0 +1,25 @@
+“Mức tiêu thụ H20 thấp hơn nhiều so với dự báo, dựa trên phản hồi mới nhất từ khách hàng của chúng tôi”, một giám đốc của một nhà phân phối công nghệ lớn tại Trung Quốc chia sẻ với Nhật báo Trung Hoa.
+
+Theo vị này, nhu cầu đối với H20 phụ thuộc phần lớn vào các tập đoàn lớn. Tuy nhiên, nhiều doanh nghiệp bắt đầu e dè sản phẩm của Nvidia sau khi công ty này bị Cơ quan Quản lý Không gian mạng Trung Quốc triệu tập vì rủi ro đe dọa an ninh mạng.
+
+Một kỹ sư giấu tên tại công ty Internet Trung Quốc cho biết: “An ninh mạng là ưu tiên hàng đầu. Chúng tôi không thể chấp nhận bất kỳ rủi ro tiềm ẩn nào. Ngay cả khi chip H20 đã sẵn hàng, chúng tôi cũng không vội mua”.
+
+Ông Pan Helin, thành viên Ủy ban Chuyên gia Kinh tế Thông tin và Truyền thông thuộc Bộ Công nghiệp và Công nghệ Thông tin Trung Quốc, nhận định: “Nếu chip Nvidia thực sự tồn tại rủi ro cửa hậu, đó sẽ là "nấm mồ tự đào". Không chỉ doanh nghiệp Trung Quốc, mà cả khách hàng toàn cầu cũng có thể quay lưng vì lo ngại nguy cơ bị tắt máy từ xa hoặc mất dữ liệu”.
+
+Đáp lại truyền thông Trung Quốc, Nvidia khẳng định trong tuyên bố gửi Nhật báo Trung Hoa: “Chúng tôi tuân thủ các quy định do chính phủ Mỹ ban hành để hoạt động tại các thị trường trên toàn cầu”.
+
+Ông Charlie Dai, Phó Chủ tịch kiêm nhà phân tích trưởng của công ty nghiên cứu thị trường Forrester, nhận xét mức phí 15% mà Nvidia phải trích cho Nhà trắng lại là “động thái chưa từng có”.
+
+Theo ông, điều này cho thấy căng thẳng thương mại đang làm đội chi phí tiếp cận thị trường, tạo áp lực tài chính đáng kể và khiến các tập đoàn công nghệ toàn cầu rơi vào thế khó định hình chiến lược dài hạn.
+
+Ông Xiang Ligang, Tổng giám đốc Liên minh Công nghệ Công nghiệp Ứng dụng Tiêu dùng Thông tin Hiện đại Zhongguancun (một hiệp hội trong ngành viễn thông Trung Quốc), cho rằng động thái của chính phủ Mỹ sẽ khiến các doanh nghiệp Trung Quốc thêm dè dặt với Nvidia, đồng thời thúc đẩy họ nhanh chóng chuyển sang dùng chip AI do trong nước sản xuất.
+
+Theo ông Xiang, sức mạnh của Nvidia trên thị trường chip AI toàn cầu không chỉ đến từ hiệu suất sản phẩm, mà còn dựa vào hệ sinh thái CUDA đã được xây dựng suốt 20 năm - nền tảng giúp chip tương thích rộng rãi với các ứng dụng AI.
+
+Về kỹ thuật, một số dòng chip Trung Quốc như Ascend của Huawei có thể cạnh tranh với H20, nhưng vẫn thiếu khả năng tương thích phổ quát như CUDA đối với các mô hình ngôn ngữ lớn.
+
+Hệ sinh thái chip AI của Trung Quốc đang phát triển nhanh chóng. Tháng 7 vừa qua, StepFun, công ty AI đặt trụ sở tại Thượng Hải, đã thành lập “Liên minh đổi mới hệ sinh thái sức mạnh tổng hợp chip – mô hình”, quy tụ gần 10 doanh nghiệp hàng đầu trong lĩnh vực hạ tầng và chip AI trong nước, gồm Huawei, Moore Threads, Beijing Biren Technology Development và Cambricon Technology.
+
+Mục tiêu của liên minh rất rõ ràng, đó là phối hợp tối ưu hóa các mô hình ngôn ngữ lớn để chạy hiệu quả trên chip AI do Trung Quốc sản xuất. StepFun kỳ vọng tạo ra một “vòng tuần hoàn tích cực”  khi nhiều tác vụ AI được chuyển sang chạy trên chip nội địa, quy mô sản xuất sẽ tăng, giúp giảm chi phí, cải thiện hiệu suất và hoàn thiện hệ sinh thái, từ đó khiến giải pháp trong nước ngày càng cạnh tranh và hấp dẫn hơn.
+
+Ông Zhang Wen, nhà sáng lập kiêm Chủ tịch và Tổng giám đốc Công ty Phát triển Công nghệ Biren Bắc Kinh, nhấn mạnh: “Để chip AI trong nước hỗ trợ tốt hơn các mô hình ngôn ngữ lớn, ưu tiên hàng đầu là đảm bảo nguồn cung sức mạnh tính toán tiên tiến. Năng lực sản xuất chip AI hiện đại trong nước sẽ là yếu tố then chốt cho tương lai ngành AI của Trung Quốc”.

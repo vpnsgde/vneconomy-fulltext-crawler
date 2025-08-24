@@ -1,0 +1,23 @@
+Tối 22/5, sự kiện BlockStar Meetup Hanoi: Thúc đẩy tương lai Web3 của Việt Nam diễn ra tại Hà Nội, quy tụ hơn 150 nhà sáng lập, nhà đầu tư, chuyên gia và cộng đồng yêu thích Web3 tại Việt Nam và khu vực châu Á. Đây là hoạt động do IDGX phối hợp cùng SSI Digital (SSID) tổ chức.
+
+Web3 hay còn gọi là website 3.0 là hệ thống Internet thế hệ thứ 3, nơi mà các ứng dụng và dịch vụ được xây dựng trên công nghệ Blockchain. Thế hệ Internet này hướng tới việc tạo ra môi trường mạng phân tán (phi tập trung), trong đó người dùng có thể tự do sở hữu, quản lý dữ liệu của mình. Web3 được biết tới là phiên bản nâng cấp của Web2, và được kỳ vọng là bước tiến quan trọng tạo ra hệ thống internet công bằng và minh bạch.
+
+Sự kiện nhằm giới thiệu chương trình ươm tạo BlockStar Incubation kéo dài 10 tuần dành cho các startup Web3, đồng thời kết nối cộng đồng startup Việt với nhà đầu tư, cố vấn và các đối tác hệ sinh thái. Thông qua chương trình này, các doanh nghiệp khởi nghiệp sẽ được hỗ trợ toàn diện về phát triển sản phẩm, chiến lược tiếp cận thị trường, thiết kế token, gọi vốn và pháp lý.
+
+Đặc biệt, startup tham gia có cơ hội tiếp cận hơn 200 đối tác trong hệ sinh thái và khoản đầu tư lên tới 5 triệu USD.
+
+Tại sự kiện, nhiều chuyên gia, đặc biệt là giới khởi nghiệp trong lĩnh vực Blockchain cho rằng thị trường web3 ở Việt Nam nếu được tiếp cận bằng cơ chế mở trong đó vẫn đảm bảo minh bạch và kiểm soát rủi ro thì có thể phát triển bền vững, thậm chí có cơ hội dẫn đầu trên thế giới về ứng dụng và sử dụng web3. Trong khi, các công ty khởi nghiệp trong lĩnh vực web3 cũng sẽ có môi trường thuận lợi và đảm bảo để phát triển các sản phẩm dịch vụ phi tập trung trên nền tảng công nghệ Blockchain.
+
+Ông Nguyễn Duy Hưng, Chủ tịch Hội đồng quản trị Công ty CP Chứng khoán SSI, Blockchain ở đây không đơn thuần là công nghệ lưu trữ, mà là cơ chế liên kết tất cả thành viên theo hướng minh bạch, công bằng, không gian lận. Theo ông Hưng, nếu mọi giao dịch đều được ghi nhận và xác minh tự động, tốc độ xử lý sẽ nhanh hơn, dữ liệu rõ ràng hơn, và không thể bị can thiệp.
+
+“Blockchain không chỉ là công nghệ, mà là một hạ tầng xã hội dựa trên niềm tin tập thể”, Chủ tịch SSI nhấn mạnh.
+
+Theo ông Hưng, với nền tảng công nghệ Blockchain, Việt Nam có thể xây dựng các hệ thống tùy biến cao, ứng dụng trong các lĩnh vực quan trọng như y tế, giáo dục, hành chính công. Tuy nhiên, theo ông cần có sự phối hợp giữa cơ quan quản lý, doanh nghiệp và cộng đồng phát triển để định hình những tiêu chuẩn chung.
+
+Liên quan đến quy định yêu cầu nhà đầu tư tiền mã hóa (crypto) mở tài khoản và chuyển crypto về Việt Nam để lưu giữ, giao dịch tại các tổ chức được cấp phép (trong dự thảo sửa đổi các nghị định liên quan đến xử phạt trong lĩnh vực chứng khoán - PV), ông Hưng cho rằng từ nghiên cứu một nơi trên thế giới, những nơi tổ chức mô hình sàn giao dịch tập trung thì thường không thành công – điển hình như Đài Loan. Còn các mô hình sàn phi tập trung và được kiểm soát ở nhiều nước thì thành công.
+
+Chia sẻ về tính ứng dụng thực tiễn của Web3, ông Lưu Trần, Giám đốc Công nghệ SSI Digital, Blockchain có tiềm năng ứng dụng vào nhiều lĩnh vực dịch vụ công như: cấp giấy phép, quản lý hồ sơ, xác minh thông tin… Ngoài ra, khi kết hợp với công nghệ định danh, mọi tài nguyên đều có thể theo dõi và xác thực trong hệ thống mở, phi tập trung.
+
+Theo ông Lưu Trần, công nghệ Blockchain có ba điểm mạnh nhất. Thứ nhất là mã nguồn mở, bất kỳ ai cũng có thể tham gia xây dựng và đóng góp. Thứ hai là khả năng tự động hóa quy trình thông qua hợp đồng thông minh. Thứ ba là tính minh bạch, điều này đã được cộng đồng nhắc đến suốt hơn một thập kỷ qua.
+
+Hiện một trong những khó khăn nhất của startup Việt trong lĩnh vực Blockchain/web3 khi bước ra sân chơi quốc tế theo Giám đốc Công nghệ SSI là nhân sự, theo đó đội ngũ nhân sự trong nước vẫn đang thiếu kinh nghiệm thực chiến, nhất là khó thích nghi nhanh với yêu cầu toàn cầu.

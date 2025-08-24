@@ -1,0 +1,33 @@
+Tổng cục Thuế cho biết tên website giả mạo: https://tracuutthvt.com/ (có đuôi:.com) đã lấy giao diện, biểu tượng logo của Tổng cục Thuế và thông tin tín nhiệm mạng NCSC (National Cyber Security Center) của Trung tâm Giám sát an toàn không gian mạng quốc gia để đính vào website.
+
+Đây là hành vi giả mạo website của Tổng cục Thuế có thể gây nhầm lẫn cho người nộp thuế. Tổng cục Thuế đã có kiến nghị cơ quan chức năng có biện pháp xử lý. Hiện khi truy cập vào trang web giả mạo đã hiển thị thông báo "Không thể truy cập trang web này".
+
+Tổng cục Thuế thông báo để người nộp thuế biết thông tin và khẳng định địa chỉ trang website trên là không phải của ngành thuế. Tên website của Tổng cục Thuế là: https://tracuunnt.gdt.gov.vn.
+
+Cùng với sự phát triển mạnh mẽ của công nghệ thông tin, các đối tượng xấu có thể thực hiện việc giả mạo một trang web khi có các kiến thức như một lập trình viên. Các đối tượng này có thể tạo trang web có giao diện gần giống trang web của cơ quan, doanh nghiệp từ hình ảnh, giao diện và nội dung để người dùng nhầm tưởng là trang web của đơn vị cung cấp.
+
+
+
+Các đối tượng xấu giả mạo cơ quan thuế gọi điện mời chào, dụ dỗ, dọa nạt, lừa đảo ép buộc người nộp thuế mua sách, tài liệu, cẩm nang về thuế với hình thức đặt hàng và thanh toán qua bưu điện…
+
+Sau đó, các đối tượng sử dụng tin nhắn giả mạo thương hiệu với các nội dung yêu cầu người dùng phải truy cập vào liên kết giả mạo, khai báo thông tin cá nhân, tài khoản ngân hàng và từ đó thực hiện hành vi đánh cắp, chiếm đoạt thông tin dữ liệu người dùng, lừa đảo.
+
+Khi truy cập vào trang thông tin điện tử ngành thuế, Tổng cục Thuế lưu ý người nộp thuế về đường dẫn URL trên thanh địa chỉ của trình duyệt phải được bắt đầu bằng “https://” và có một biểu tượng ổ khóa trên thanh địa chỉ. Nếu cụm từ https:// chuyển sang màu đỏ và xuất hiện biểu tượng ổ khóa bị đánh dấu chéo, tức là có thể website mà người dùng truy cập vào đang sử dụng chứng chỉ số SSL hết hạn hoặc được cấp bởi một nguồn không đáng tin cậy.
+
+Cùng đó, khi người dùng vừa truy cập website mà đã yêu cầu cung cấp những thông tin cá nhân như địa chỉ nhà, số điện thoại, số chứng minh nhân dân/căn cước công dân thì nên cảnh giác và không thực hiện theo yêu cầu.
+
+Bên cạnh giả mạo các trang thông tin điện tử của cơ quan thuế, trước đó, Tổng cục Thuế nhiều lần cảnh báo đến cộng đồng doanh nghiệp và người nộp thuế về một số dấu hiệu nhận biết thủ đoạn giả mạo cơ quan thuế như: giả mạo cán bộ thuế để gọi điện thoại cung cấp, hướng dẫn người nộp thuế cài đặt các phần mềm, ứng dụng; hay giả mạo SMS brand name của Tổng cục thuế để phát tán tin nhắn giả.
+
+Theo đó, nhiều đối tượng giả mạo cơ quan thuế hướng dẫn người nộp thuế cài đặt các phần mềm giả mạo ứng dụng của cơ quan thuế nhằm lấy cắp thông tin cá nhân, thông tin tài khoản ngân hàng với mục đích chiếm đoạt tài sản.
+
+Tổng cục Thuế cũng khuyến nghị người nộp thuế tuyệt đối không tải hoặc cài đặt ứng dụng của cơ quan thuế cho máy tính/điện thoại thông minh qua các đường dẫn không phải do Tổng cục Thuế cung cấp. Đồng thời, không cho phép bất kỳ cá nhân nào truy cập trực tiếp vào máy tính/điện thoại của mình để hỗ trợ cài đặt, sử dụng phần mềm của cơ quan thuế.
+
+Thậm chí, có đối tượng giả mạo cơ quan thuế để gọi điện hăm dọa, sử dụng chiêu trò lừa đảo nhằm chiếm đoạt tài sản của người nộp thuế.
+
+Điển hình, các đối tượng xấu giả mạo cơ quan thuế gọi điện mời chào, dụ dỗ, dọa nạt, lừa đảo ép buộc người nộp thuế mua sách, tài liệu, cẩm nang về thuế với hình thức đặt hàng và thanh toán qua bưu điện… Nếu người nộp thuế không mua sẽ bị kiểm tra, thanh tra thuế hoặc gây khó dễ khi làm việc với cơ quan thuế.
+
+Mạo danh cơ quan thuế gửi mail thông báo người nộp thuế cần hoàn thành thủ tục cập nhật căn cước công dân gắn chip cho người đại diện theo pháp luật trên đăng ký kinh doanh và có thu phí từ vài trăm đến vài triệu đồng.
+
+Giả mạo cơ quan thuế phát hành thông báo về việc ủy quyền đóng thuế cho công ty/cá nhân trung gian (trừ hệ thống bưu điện được ủy quyền thu thuế hộ kinh doanh) nhằm chiếm đoạt tiền của người nộp thuế.
+
+Để tránh tình trạng lừa đảo khi thực hiện giao dịch với cơ quan thuế hoặc thực hiện các nghiệp vụ về thuế, người nộp thuế có thể liên hệ cán bộ, công chức đầu mối của cục thuế, chi cục thuế trên địa bàn để được hỗ trợ qua số điện thoại được công bố trên trang thông tin điện tử của cơ quan thuế quản lý.

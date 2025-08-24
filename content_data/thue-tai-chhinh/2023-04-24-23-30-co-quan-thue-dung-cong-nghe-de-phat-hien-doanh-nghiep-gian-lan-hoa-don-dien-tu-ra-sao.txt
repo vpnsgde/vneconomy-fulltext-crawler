@@ -1,0 +1,65 @@
+Ngày 24/4, Tổng cục Thuế tổ chức Hội nghị trực tuyến công bố triển khai “Hệ thống phân tích cơ sở dữ liệu và quản lý hóa đơn điện tử”. Tại đây, lãnh đạo Tổng cục Thuế cho biết việc triển khai hoá đơn điện tử đến nay đạt 4 tỷ đơn vị. Tuy nhiên, trong thời gian vừa qua, qua theo dõi, Tổng cục Thuế nhận thấy xuất hiện hiện tượng một số tổ chức, cá nhân gian lận trong việc phát hành, sử dụng hoá đơn điện tử nhằm chiếm đoạt tiền thuế.
+
+"Với số lượng hóa đơn ngày càng lớn đòi hỏi cơ quan thuế cần tăng cường công tác kiểm tra, kiểm soát và áp dụng kỹ thuật hiện đại để phân tích dữ liệu lớn", Tổng cục Thuế lưu ý.
+
+Trung tâm Cơ sở dữ liệu hoá đơn điện tử mà Tổng cục Thuế vừa triển khai có chức năng phân tích dữ liệu hoá đơn điện tử, phục vụ  công tác quản lý rủi ro về hoá đơn điện tử trong toàn ngành thuế.
+
+Phát biểu tại hội nghị, Quyền Tổng cục trưởng Tổng cục Thuế Mai Xuân Thành nhấn mạnh rằng với việc thành lập Trung tâm cơ sở dữ liệu hoá đơn điện tử giúp cơ quan thuế đẩy mạnh áp dụng phân tích dữ liệu lớn (big data) và trí tuệ nhân tạo (AI) để quản lý thuế, quản lý hóa đơn góp phần kiểm soát, phát hiện nhanh người nộp thuế gian lận về hóa đơn.
+
+
+
+"Việc chính thức đưa vào vận hành, triển khai “Hệ thống phân tích cơ sở dữ liệu và quản lý hoá đơn điện tử”, cơ quan thuế các cấp sẽ tập trung thực hiện rà soát, phân tích để kịp thời phát hiện các dấu hiệu rủi ro trong việc phát hành hoá đơn điện tử, giúp ngăn ngừa, xử lý các trường hợp vi phạm pháp luật về hóa đơn chứng từ nói riêng và về thuế nói chung.
+
+Từ đó, góp phần tăng cường hiệu lực, hiệu quả quản lý thuế cũng như tạo môi trường kinh doanh lành mạnh bình đẳng cho cộng đồng doanh nghiệp và người nộp thuế".
+
+Theo đó, ngành thuế tiếp tục thực hiện tuyên truyền cảnh báo đến các doanh nghiệp nhằm ngăn chặn, phòng ngừa việc sử dụng hóa đơn bất hợp pháp từ sớm, từ xa; chủ động triển khai các biện pháp nghiệp vụ và tăng cường công tác phối hợp với các cơ quan chức năng trong công tác quản lý hoá đơn điện tử.
+
+Ông Mai Xuân Thành cũng yêu cầu lãnh đạo các vụ, đơn vị liên quan thuộc Tổng cục Thuế; lãnh đạo các cục thuế địa phương giao nhiệm vụ phân tích, rà soát, kiểm tra dữ liệu hoá đơn điện tử đến từng phòng, chi cục thuế; chi tiết, cụ thể trách nhiệm tới đội thuế, từng công chức thuế.
+
+"Chủ động khai thác nguồn cơ sở dữ liệu hoá đơn điện tử toàn quốc được phân quyền khai thác và chủ động rà soát, đối chiếu, sàng lọc và xác định rủi ro, lập danh sách các doanh nghiệp có phát sinh các dấu hiệu bất thường, rủi ro cao để áp dụng kịp thời các biện pháp nghiệp vụ phù hợp nhằm phòng chống, ngăn chặn và xử lý nghiêm các hành vi gian lận về hoá đơn điện tử", lãnh đạo Tổng cục Thuế lưu ý.
+
+Thông tin cụ thể về hệ thống này có thể khắc chế gian lận hoá đơn điện tử, Tổng cục Thuế cho biết, về kiểm soát dữ liệu hoá đơn điện tử, hệ thống có chức năng đối chiếu dữ liệu hóa đơn điện tử với tờ khai thuế.
+
+Theo đó, dựa trên danh sách người nộp thuế có số liệu chênh lệch giữa giá trị kê khai và giá trị thực tế trên hóa đơn đã lập, cơ quan thuế quản lý thực hiện các biện pháp nghiệp vụ phù hợp như: kiểm tra tại bàn, thanh tra, kiểm tra tại trụ sở người nộp thuế, Tổng cục Thuế thông tin. Trong trường hợp cần thiết có thể chuyển hồ sơ sang cơ quan điều tra, để thực hiện đánh giá tình hình thực hiện và tuân thủ pháp luật thuế của người nộp thuế.
+
+Đối với chức năng đánh giá tình hình sử dụng hóa đơn của người nộp thuế trong tháng, trước khi người nộp thuế thực hiện nghĩa vụ nộp tờ khai, cơ quan thuế có thể thực hiện đánh giá dữ liệu ngay sau khi kết thúc tháng gồm: thông tin liên quan đến người nộp thuế như: thời gian thành lập, người đại diện theo pháp luật, có liên quan, vốn đăng ký…
+
+Cơ quan thuế cũng nắm bắt được dữ liệu hóa đơn người nộp thuế đã mua vào bán ra, hoặc thực hiện so sánh đánh giá dữ liệu hóa đơn mua vào bán ra của các kỳ liền kề để có thể thấy được sự biến động tăng giảm đột biến, từ đó, đưa ra biện pháp quản lý kịp thời và phù hợp.
+
+Lãnh đạo Tổng cục thuế cũng nhấn mạnh rằng ngành thuế cũng đánh giá người nộp thuế theo bộ chỉ số tiêu chí rủi ro về hóa đơn.
+
+Cụ thể, Tổng cục Thuế đã ban hành Quyết định số 78/QĐ-TCT về bộ chỉ số tiêu chí đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn nhằm giúp cơ quan thuế phân tích thông tin, xác định người nộp thuế có dấu hiệu rủi ro cao, để chuyển sang hình thức sử dụng hóa đơn có mã của cơ quan thuế hoặc đưa vào diện kiểm tra việc quản lý và sử dụng hóa đơn.
+
+
+
+Để triển khai thực hiện bộ chỉ số tiêu chí theo Quyết định số 78/QĐ-TCT được thống nhất tại cơ quan thuế các cấp, quy trình hướng dẫn áp dụng quản lý rủi ro trong quản lý và sử dụng hóa đơn được thực hiện tự động bằng ứng dụng công nghệ thông tin sẽ được Tổng cục Thuế ban hành ngay trong tháng 4.
+
+Bộ chỉ số tiêu chí ban hành theo Quyết định số 78 nêu trên gồm 3 nhóm.
+
+Nhóm 1là nhóm các chỉ số tiêu chí xác định người nộp thuế chuyển từ sử dụng hoá đơn điện tử không có mã của cơ quan thuế sang hoá đơn điện tử có mã của cơ quan thuế.
+
+Trường hợp nếu người nộp thuế có dấu hiệu rủi ro thuộc một trong các chỉ số tiêu chí này, người nộp thuế sẽ phải chuyển đổi áp dụng từ sử dụng hoá đơn điện tử không có mã của cơ quan thuế sang sử dụng hoá đơn điện tử có mã của cơ quan thuế.
+
+Nhóm 2là nhóm các chỉ số tiêu chí xác định người nộp thuế có dấu hiệu rủi ro phải thực hiện rà soát, kiểm tra việc quản lý và sử dụng hóa đơn.
+
+Nhóm chỉ số tiêu chí này áp dụng phương pháp tính điểm, xếp hạng rủi ro. Trên cơ sở đó, cơ quan thuế lựa chọn số lượng người nộp thuế để đưa ra danh sách người nộp thuế cần rà soát, kiểm tra xác định vi phạm về hóa đơn nói riêng và vi phạm về thuế nói chung.
+
+Nhóm 3là nhóm các chỉ số tiêu chí tham khảo xác định người nộp thuế có dấu hiệu rủi ro phải thực hiện rà soát, kiểm tra việc quản lý và sử dụng hóa đơn.
+
+Trường hợp người nộp thuế có dấu hiệu rủi ro thuộc một trong các tổ hợp chỉ số tiêu chí này, cơ quan thuế sẽ lựa chọn người nộp thuế để đưa vào danh sách người nộp thuế cần rà soát, kiểm tra mà không qua chấm điểm rủi ro.
+
+Tổng cục Thuế cho biết với việc xác định giá mua bán bất thường, công nghệ trí tuệ nhân tạo được áp dụng vào việc phân tích ngôn ngữ tự nhiên, xác định các hóa đơn mua bán cùng loại hàng hóa, từ đó, sẽ xác định hóa đơn có giá mua bán bất thường.
+
+Hàng tỷ hóa đơn với đa dạng các hàng hóa, dịch vụ khác nhau. Khi cần tập trung kiểm soát những hàng hóa trọng điểm rủi ro, công cụ sẽ giúp cơ quan thuế lọc được những hóa đơn mua bán mặt hàng trọng điểm để phân tích chuyên sâu.
+
+
+
+"Nhiều trường hợp gian lận hoàn thuế qua xuất khẩu đã nâng khống giá hàng hóa xuất khẩu gấp hàng chục lần. Kiểm soát giá bất thường giúp sàng lọc các trường hợp cần giám sát, giúp ngăn chặn kịp thời gian lận hoàn thuế", Tổng cục Thuế nhấn mạnh.
+
+Trong việc xác định chuỗi doanh nghiệp có phát sinh giao dịch mua bán, với công nghệ mạng Bayes, hệ thống thiết lập được chuỗi các doanh nghiệp có phát sinh giao dịch mua bán.
+
+Từ xâu chuỗi các doanh nghiệp có giao dịch mua bán cùng loại mặt hàng sẽ giúp cho cơ quan thuế truy được nguồn gốc của hàng hóa và giá trị gia tăng giữa các khâu.
+
+Trên cơ sở phân tích chuỗi, cơ quan thuế sẽ tìm những chuỗi có đặc điểm bất thường như chuỗi có nút đầu và nút cuối trùng nhau; chuỗi chỉ có mua, không có bán; chuỗi có nhiều doanh nghiệp bỏ địa điểm kinh doanh… để tìm ra đầu mối nghi ngờ có hành vi mua bán hóa đơn bất hợp pháp.
+
+Từ đó, cơ quan thuế xác định chuỗi cần phân tích chi tiết, xác định các giao dịch trong chuỗi cần phân tích chuyên sâu, kết quả có thể bổ sung vào kế hoạch thanh tra, kiểm tra. Kết hợp phân tích chuỗi mua bán mặt hàng rủi ro, doanh nghiệp ở cuối chuỗi có đề nghị hoàn lớn để phát hiện các trường hợp nghi ngờ gian lận hoàn thuế.

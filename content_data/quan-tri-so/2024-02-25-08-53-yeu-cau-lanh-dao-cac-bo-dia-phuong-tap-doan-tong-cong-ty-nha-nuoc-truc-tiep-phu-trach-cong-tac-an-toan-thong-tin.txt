@@ -1,0 +1,37 @@
+Theo chỉ thị, bảo đảm an toàn hệ thống thông tin theo cấp độ là biện pháp trọng tâm, cốt lõi để bảo vệ hệ thống thông tin theo quy định tại Luật An toàn thông tin mạng, tuy nhiên, bên cạnh những kết quả đạt được, còn gần 40% hệ thống thông tin của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và địa phương chưa hoàn thành việc phê duyệt cấp độ an toàn hệ thống thông tin.
+
+Hầu hết các hệ thống thông tin được phê duyệt cấp độ an toàn thông tin chưa được triển khai đầy đủ phương án bảo đảm an toàn theo hồ sơ đề xuất cấp độ được phê duyệt. Nhiều cơ quan, địa phương chưa tuân thủ quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ.
+
+Nguyên nhân dẫn đến tình trạng trên,thứ nhấtlà các cơ quan chủ quản hệ thống thông tin chưa thấy hết trách nhiệm, vai trò, tầm quan trọng của việc phê duyệt cấp độ an toàn thông tin và triển khai đầy đủ các biện pháp bảo đảm an toàn thông tin cho các hệ thống thông tin thuộc phạm vi quản lý.
+
+Thứ hailà nhiều đơn vị, tổ chức được giao quản lý, vận hành hệ thống thông tin chưa nhận thức được tầm quan trọng của công tác này, dẫn đến chưa chú trọng thực hiện các nhiệm vụ một cách hiệu quả, chất lượng theo quy định của pháp luật.
+
+Thứ ba, hoạt động thanh tra, kiểm tra, đánh giá tuân thủ các quy định, giám sát việc thực hiện công tác bảo đảm an toàn thông tin theo cấp độ trong phạm vi quản lý tại các bộ, ngành, địa phương hầu như chưa được tổ chức để nắm bắt tình hình, hướng dẫn triển khai và xử lý vi phạm.
+
+Thứ tư, nguồn lực dành cho công tác bảo đảm an toàn thông tin nói chung, trong đó có công tác bảo đảm an toàn hệ thống thông tin theo cấp độ còn thiếu, chưa đáp ứng yêu cầu thực tiễn.
+
+Để đẩy mạnh công tác tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn hệ thống thông tin theo cấp độ, Thủ tướng yêu cầu Bộ trưởng, Thủ trưởng cơ quan ngang bộ, cơ quan thuộc Chính phủ; Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương; Chủ tịch Hội đồng quản trị, Hội đồng thành viên, Tổng Giám đốc các tập đoàn, tổng công ty nhà nước, ngân hàng thương mại nhà nước, Ngân hàng Phát triển Việt Nam, Ngân hàng Chính sách xã hội, Ngân hàng Hợp tác xã Việt Nam và tổ chức tín dụng, tài chính nhà nước khác trên toàn quốc tập trung chỉ đạo thực hiện đồng bộ các giải pháp sau.
+
+Một là, trực tiếp chỉ đạo và phụ trách công tác bảo đảm an toàn thông tin trong hoạt động của cơ quan, địa phương mình; chịu trách nhiệm trước Thủ tướng Chính phủ và pháp luật nếu các đơn vị thuộc phạm vi quản lý không tuân thủ các quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ hoặc để xảy ra mất an toàn thông tin, lộ lọt thông tin, dữ liệu cá nhân, bí mật nhà nước.
+
+Hai là, tổ chức phổ biến, quán triệt các đơn vị thuộc phạm vi quản lý rà soát, nghiêm túc tuân thủ các quy định pháp luật về bảo đảm an toàn thông tin mạng. Chỉ đạo các đơn vị vận hành hệ thống thông tin thuộc phạm vi quản lý thay đổi căn bản về nhận thức, xác định hồ sơ đề xuất cấp độ là cơ sở để triển khai các biện pháp bảo đảm an toàn thông tin theo quy định, là căn cứ quan trọng để xác định và bố trí nguồn lực triển khai cũng như đánh giá mức độ tuân thủ pháp luật về an toàn thông tin mạng.
+
+Ba là, bảo đảm 100% hệ thống thông tin đang trong quá trình thiết kế, xây dựng, nâng cấp, mở rộng trước khi đưa vào vận hành, khai thác phải được phê duyệt cấp độ an toàn hệ thống thông tin và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt.
+
+Bốn là, tổ chức rà soát, thống kê, cập nhật danh mục hệ thống thông tin thuộc phạm vi quản lý; bảo đảm 100% hệ thống thông tin từ cấp độ 1 đến cấp độ 5 (nếu có) đang vận hành phải được phê duyệt cấp độ an toàn hệ thống thông tin chậm nhất trong tháng 9 năm 2024 và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt chậm nhất trong tháng 12 năm 2024.
+
+Năm là, ưu tiên triển khai hệ thống thông tin trên các hạ tầng số (như Trung tâm dữ liệu, dịch vụ Điện toán đám mây) đã được triển khai đầy đủ phương án bảo đảm an toàn thông tin để kế thừa các biện pháp bảo đảm an toàn thông tin đã có.
+
+Sáu là, sử dụng thường xuyên, hiệu quả các nền tảng hỗ trợ bảo đảm an toàn thông tin do Bộ Thông tin và Truyền thông cung cấp nhằm từng bước chuyển đổi số các hoạt động quản lý nhà nước và thực thi pháp luật về an toàn thông tin mạng trong phạm vi quản lý.
+
+Bảy là, tổ chức thực thi hiệu quả, thực chất, thường xuyên, liên tục công tác bảo đảm an toàn thông tin theo mô hình 4 lớp, đặc biệt là nâng cao năng lực của lớp giám sát, bảo vệ chuyên nghiệp và duy trì liên tục, ổn định kết nối, chia sẻ thông tin với Trung tâm Giám sát an toàn không gian mạng quốc gia trực thuộc Cục An toàn thông tin, Bộ Thông tin và Truyền thông; ưu tiên sử dụng các sản phẩm, giải pháp, dịch vụ an toàn thông tin mạng do doanh nghiệp Việt Nam sản xuất hoặc làm chủ công nghệ.
+
+Tám là,định kỳ tổ chức hoạt động thanh tra, kiểm tra, đánh giá tuân thủ các quy định, giám sát việc thực hiện công tác bảo đảm an toàn thông tin theo cấp độ trong phạm vi quản lý, tối thiểu 01 lần/01 năm. Báo cáo kết quả thực hiện về Bộ Thông tin và Truyền thông trước ngày 25 tháng 12 hàng năm để tổng hợp, báo cáo Thủ tướng Chính phủ.
+
+Chín là, ưu tiên bố trí nguồn lực theo đúng quy định của pháp luật để triển khai thực thi hiệu quả công tác bảo đảm an toàn hệ thống thông tin theo cấp độ, công tác bảo đảm an toàn thông tin theo mô hình 4 lớp, đặc biệt đối với Trung tâm dữ liệu và các hệ thống thông tin quan trọng, dùng chung.
+
+Thủ tướng yêu cầu Bộ Thông tin và Truyền thông có trách nhiệm phát triển, phổ biến, tập huấn sử dụng và duy trì hoạt động các nền tảng hỗ trợ bảo đảm an toàn thông tin, như: Nền tảng hỗ trợ quản lý bảo đảm an toàn hệ thống thông tin theo cấp độ; Nền tảng điều phối xử lý sự cố an toàn thông tin mạng quốc gia; Nền tảng hỗ trợ điều tra số… để hỗ trợ các cơ quan, tổ chức, doanh nghiệp triển khai các hoạt động bảo đảm an toàn thông tin thuận lợi, hiệu quả, đồng bộ từ trung ương đến địa phương.
+
+Tổ chức đánh giá, xếp hạng công tác bảo đảm an toàn hệ thống thông tin theo cấp độ của các bộ, ngành, địa phương thông qua Nền tảng hỗ trợ quản lý đảm bảo an toàn hệ thống thông tin theo cấp độ.
+
+Đồng thời tăng cường thanh tra, kiểm tra việc tuân thủ quy định của pháp luật về an toàn thông tin tại các cơ quan, tổ chức nhà nước; các doanh nghiệp triển khai Nền tảng số phục vụ chuyển đổi số, phát triển Chính phủ điện tử, Chính phủ số, kinh tế số, xã hội số; các doanh nghiệp cung cấp các dịch vụ nền tảng hạ tầng số, dịch vụ viễn thông, Internet và các doanh nghiệp khác có liên quan tại Việt Nam. Xử lý nghiêm các cơ quan, tổ chức, doanh nghiệp có hành vi vi phạm pháp luật về an toàn thông tin mạng.

@@ -1,0 +1,17 @@
+Cách đây hơn 1 tuần, những người ủng hộ dự án blockchain (công nghệ chuỗi khối) Terra đã nhất trí việc “hồi sinh” đồng Luna, nhưng không khôi phục TerraUSD - đồng stablecoin đã rớt giá sâu khỏi mức neo 1 TerraUSD đổi 1 USD. Cú rơi tự do của TerraUSD đã gây ra một cơn hoảng loạn trên thị trường tiền ảo trong tháng 5 vừa qua, trước khi thị trường ổn định trở lại vào cuối tháng.
+
+TerraUSD, hay UST, là một đồng stablecoin thuật toán. Đồng này dựa vào mã hoá (code) và đồng tiền ảo “chị em” là Luna để duy trì mức neo tỷ giá 1 TerraUSD tương đương 1 USD. Tuy nhiên, khi trên thị trường tiền ảo có biến động, nhà đầu tư bắt đầu tháo chạy khỏi TerraUSD, khiến đồng này giảm chóng mặt và kéo đồng Luna giảm theo.
+
+Từ mức neo tỷ giá trên, giá của TerraUSD hiện chỉ còn hơn 0,02 USD.
+
+Ở mức đỉnh, đồng Luna cũ có giá trị vốn hoá thị trường hơn 40 tỷ USD. Giá của đồng tiền ảo này khi đó, theo dữ liệu của Coinmarketcap.com, là gần 120 USD. Khi rớt xuống đáy, giá của đồng Luna cũ chỉ còn khoảng 0,0001 USD.
+
+Giờ đây, phiên bản mới của Luna, được nhà đầu tư gọi là Terra 2.0, đã bắt đầu được giao dịch trên các sàn gồm Bybit, Kucoin, Huobi và Binance.
+
+Sau khi lập đỉnh ở mức 19,53 USD vào hôm thứ Bảy vừa rồi, đồng Luna mới rớt giá còn 4,39 USD chỉ sau vài giờ đồng hồ. Sau đó, giá đồng tiền ảo này tiếp tục giằng co và hiện đang giao dịch ở mức 8,46 USD – theo dữ liệu từ trang Coinmarketcap.com.
+
+Theo hãng tin CNBC, các nhà phân tích đang hoài nghi về khả năng thành công của dự án Terra. Hệ thống này sẽ phải cạnh tranh với các mạng lưới có tên “Layer 1” - hạ tầng của các tiền ảo khác như Ethereum, Solana và Cardano.
+
+Terra hiện đang phân bổ đồng Luna mới thông qua phương thức “airdrop”. Phần lớn số Luna mới sẽ được phân bổ cho những người nắm giữ đồng Luna cũ và đồng TerraUSD trước khi sụp đổ. Đây được xem là một cách để bồi thường cho nhà đầu tư.
+
+Tuy nhiên, giới chuyên gia cho rằng nhiều nhà đầu tư thua lỗ vì sự sụp đổ của Luna cũ và TerraUSD khó có thể dành cho dự án Terra sự tin tưởng lần nữa. Ông Vijay Ayyar, trưởng bộ phận quốc tế tại sàn tiền ảo Luno, nói rằng đã có “sự mất mát to lớn về niềm tin” vào dự án này.

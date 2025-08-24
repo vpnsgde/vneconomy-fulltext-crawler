@@ -1,0 +1,25 @@
+Bảo hiểm xã hội Việt Nam mới đây đã triển khai hình thức cấp lại mật khẩu đăng nhập ứng dụng VssID – Bảo hiểm xã hội số qua phương thức nhắn tin đến đầu số 8079.
+
+Theo đó, từ ngày 22/10/2021, để lấy lại mật khẩu đăng nhập ứng dụng VssID hoặc Cổng dịch vụ công của Bảo hiểm xã hội Việt Nam, người dùng có thể sử dụng dịch vụ tin nhắn với cú pháp tin nhắn “BH MK {Mã số bảo hiểm xã hội}” gửi tới đầu số 8079.
+
+Trường hợp hệ thống kiểm tra số điện thoại gửi tin nhắn là đúng mã số bảo hiểm xã hội trong nội dung tin nhắn và đã đăng ký giao dịch điện tử với cơ quan bảo hiểm xã hội, hệ thống sẽ trả về nội dung tin nhắn: “Cap lai mat khau thanh cong. Tai khoan: 1234567xxx/Mat khau: 22xx99”.
+
+Các trường hợp số điện thoại nhắn tin không đúng số điện thoại đã đăng ký với mã số bảo hiểm xã hội, hoặc mã số bảo hiểm xã hội sai cấu trúc (không phải 10 ký tự số), tin nhắn sai cú pháp... hệ thống sẽ gửi phản hồi đến số điện thoại đã gửi tin nhắn.
+
+Người dùng ứng dụng VssID lưu ý, với đầu số 8079 nhà mạng sẽ thu phí dịch vụ 1.000 đồng/1 tin nhắn.
+
+Theo Bảo hiểm xã hội Việt Nam, thực tiễn quá trình sử dụng ứng dụng VssID của người dùng cho thấy, nhiều người dùng quên mật khẩu, để đăng nhập ứng dụng và sử dụng chức năng “Quên mật khẩu” để lấy mật khẩu mới với nội dung tin nhắn Brandname như sau: “Cap lai mat khau thanh cong. Mat khau moi: 279419”.
+
+Tiện ích này được cơ quan bảo hiểm xã hội cung cấp hoàn toàn miễn phí nên đa phần người dùng ứng dụng không có thói quen ghi nhớ mật khẩu của mình, mỗi lần sử dụng thay vì tìm mật khẩu đã được cấp để hoàn tất việc đăng nhập, lại thao tác quên mật khẩu.
+
+Theo số liệu thống kê của Bảo hiểm xã hội Việt Nam, tính đến thời điểm 14h ngày 18/10, số lượng tài khoản VssID đã được phê duyệt là 21.635.070; số lượng tin nhắn quên mật khẩu (gồm: 1 tin nhắn OTP để xác thực số điện thoại   1 tin nhắn thông báo mật khẩu mới) là 11.366.788 tin nhắn.
+
+Như vậy, đã có khoảng gần 5,7 triệu lượt người (tương đương 26% số người có tài khoản giao dịch điện tử cá nhân với cơ quan bảo hiểm xã hội) sử dụng chức năng quên mật khẩu.
+
+Đáng chú ý, trong khoảng thời gian từ ngày 29/9/2021 đến ngày 15/10/2021 số người quên mật khẩu là 1.791.924 người, tăng 200% so với bình quân các tháng trước. Đặc biệt có những người trong 1 tháng báo quên mật khẩu tới hơn 40 lần.
+
+Do đó, để giảm tải cho hệ thống, đồng thời nâng cao trách nhiệm của người dùng ứng dụng VssID, Bảo hiểm xã hội Việt Nam triển khai hình thức cấp lại mật khẩu đăng nhập ứng dụng VssID qua phương thức nhắn tin đến đầu số 8079 được xem là giải pháp hữu hiệu.
+
+Trong thời gian tới, Bảo hiểm xã hội Việt Nam sẽ điều chỉnh ứng dụng VssID, phần mềm để người dùng có thể thực hiện thao tác cấp lại mật khẩu đăng nhập miễn phí qua email, thông qua ứng dụng VssID hoặc Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam.
+
+Với dịch vụ lấy lại mật khẩu đăng nhập ứng dụng VssID qua nhắn tin đến đầu số 8079 nhà mạng sẽ thu phí dịch vụ 1.000 đồng/1 tin nhắn…

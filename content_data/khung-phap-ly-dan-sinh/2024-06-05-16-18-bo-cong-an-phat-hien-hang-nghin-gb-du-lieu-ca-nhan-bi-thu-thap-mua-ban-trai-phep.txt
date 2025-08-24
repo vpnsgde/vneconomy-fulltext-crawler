@@ -1,0 +1,41 @@
+Ngày 5/6, Bộ Công an phối hợp với Hiệp hội An ninh mạng quốc gia và Cục an ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao tổ chức hội thảo “Xây dựng chính sách bảo vệ dữ liệu cá nhân”.
+
+Chương trình có sự tham gia của đại diện các bộ, ngành chức năng của Việt Nam; một số cơ quan đại diện ngoại giao nước ngoài tại Việt Nam; các tổ chức, doanh nghiệp trong và ngoài nước; các chuyên gia, học giả về công nghệ thông tin, an ninh mạng, bảo vệ dữ liệu cá nhân…
+
+Phát biểu khai mạc, Thượng tướng Lương Tam Quang, Ủy viên Trung ương Đảng, Thứ trưởng Bộ Công an, Chủ tịch Hiệp hội An ninh mạng quốc gia, nhấn mạnh Việt Nam hiện có gần 80 triệu người sử dụng Internet, chiếm tới hơn 2/3 dân số, đứng thứ 7 thế giới, đặt ra bài toán thời cơ và thách thức rõ ràng.
+
+Tuy vậy, nhận thức về bảo vệ thông tin cá nhân trên mạng còn hạn chế; nhiều thông tin sinh trắc học, lý lịch cá nhân, mối quan hệ, tình trạng sức khỏe, tài chính được đăng tải công khai, trở thành nguồn dữ liệu cho các chương trình thu thập thông tin tự động.
+
+Tình trạng lộ, lọt, đánh cắp, buôn bán thông tin cá nhân trên không gian mạng cũng thường xuyên diễn ra. Ngày càng nhiều chủ thể thu thập, phân tích, xử lý dữ liệu cá nhân cho mục đích khác nhau nhưng không thông báo cho khách hàng hoặc để xảy ra hành vi vi phạm về bảo vệ dữ liệu cá nhân.
+
+Nhiều dịch vụ trên không gian mạng mới xuất hiện, có hoạt động thu thập, khai thác, phân tích thông tin, dữ liệu cá nhân như mạng xã hội, thanh toán trực tuyến, thương mại điện tử, trò chơi trực tuyến... nhưng không có cơ chế quản lý dữ liệu người dùng đặt ra nhiều vấn đề liên quan tới an ninh quốc gia, trật tự an toàn xã hội, xâm hại đến quyền và lợi ích hợp pháp của tổ chức, cá nhân.
+
+Trong báo cáo "Quan điểm, định hướng xây dựng Luật Bảo vệ dữ liệu cá nhân của Việt Nam", Trung tướng Nguyễn Minh Chính, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an; Phó Chủ tịch Thường trực Hiệp hội An ninh mạng quốc gia cho biết quyền bảo vệ dữ liệu cá nhân được nhiều quốc gia trên thế giới ghi nhận như là quyền riêng tư và được pháp luật bảo vệ. Trong đó, Pháp là một trong những quốc gia đầu tiên ban hành luật về bảo vệ thông tin cá nhân.
+
+“Tham khảo kinh nghiệm của các nước, chúng tôi thấy có 3 bài học Việt Nam có thể tiếp thu là: xây dựng và hoàn thiện cơ chế pháp lý về bảo đảm thực hiện quyền bảo vệ dữ liệu cá nhân; xây dựng các thiết chế bảo đảm thực hiện quyền bảo vệ dữ liệu cá nhân như Ủy ban quốc gia về bảo vệ dữ liệu cá nhân tại một số nước; sử dụng cơ chế giải quyết khiếu nại, tranh chấp để bảo đảm thực hiện quyền bảo vệ dữ liệu cá nhân”, trung tướng Nguyễn Minh Chính nhấn mạnh.
+
+Theo Trung tướng Nguyễn Minh Chính, tình trạng lộ dữ liệu cá nhân diễn ra phổ biến trên không gian mạng. Người sử dụng chưa có ý thức bảo vệ dữ liệu cá nhân, đăng tải công khai hoặc lộ trong quá trình chuyển giao, lưu trữ, trao đổi phục vụ hoạt động kinh doanh hoặc do biện pháp bảo vệ không tương xứng dẫn tới bị chiếm đoạt và đăng tải công khai.
+
+Tình trạng mua bán dữ liệu cá nhân diễn ra phổ biến, công khai, với các dữ liệu thô và dữ liệu cá nhân đã qua xử lý… Các doanh nghiệp, công ty kinh doanh dịch vụ có thu thập dữ liệu cá nhân của khách hàng, cho phép các đối tác thứ ba tiếp cận thông tin dữ liệu cá nhân nhưng không có yêu cầu, quy định chặt chẽ để đối tác thứ ba chuyển giao, buôn bán cho đối tác khác.
+
+Các doanh nghiệp chủ động thu thập thông tin cá nhân của khách hàng, hình thành kho dữ liệu cá nhân, phân tích, xử lý các loại dữ liệu đó để tiến hành kinh doanh, buôn bán.
+
+Việc buôn bán dữ liệu cá nhân được tiến hành có hệ thống, có tổ chức, cam kết “bảo hành” và có khả năng cập nhật dữ liệu, trích xuất dữ liệu theo yêu cầu người mua.
+
+Đặc biệt, nhiều dữ liệu bị rao bán công khai, trong thời gian dài, với số lượng lớn. Việc mua bán không chỉ diễn ra đơn lẻ, giữa cá nhân với cá nhân, mà còn có sự tham gia của các công ty, tổ chức, doanh nghiệp.
+
+Một số công ty xây dựng các phần mềm chuyên thu thập thông tin cá nhân, cài ẩn trong các trang mạng thu thập tự động, phân tích thành tệp dữ liệu cá nhân có giá trị; tán phát mã độc; tổ chức tấn công, xâm nhập hệ thống máy tính của cơ quan, tổ chức, doanh nghiệp để chiếm đoạt dữ liệu cá nhân…
+
+Trung tướng Nguyễn Minh Chính cho biết, số lượng dữ liệu cá nhân bị thu thập, mua bán trái phép phát hiện được lên tới hàng nghìn GB dữ liệu, trong đó có nhiều dữ liệu cá nhân nội bộ, nhạy cảm.
+
+“Năm 2023, Bộ Công an đã chủ động phát hiện, điều tra, xác minh 16 vụ việc lộ mất, rao bán thông tin, bí mật nhà nước và dữ liệu nội bộ trên không gian mạng”, Trung tướng Nguyễn Minh Chính nói thêm.
+
+Từ tình hình trên, việc xây dựng Luật Bảo vệ dữ liệu cá nhân đang trở nên cấp bách và cần thiết.
+
+
+
+Dự thảo luật quy định 4 đối tượng áp dụng chính là Cơ quan, tổ chức, cá nhân Việt Nam; Cơ quan, tổ chức, cá nhân nước ngoài tại Việt Nam; Cơ quan, tổ chức, cá nhân Việt Nam hoạt động tại nước ngoài; Cơ quan, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc liên quan đến hoạt động xử lý dữ liệu cá nhân tại Việt Nam.
+
+Dự thảo quy định 11 quyền và 5 nghĩa vụ của chủ thể dữ liệu.
+
+Ngoài ra, dự thảo quy định về điều kiện bảo vệ dữ liệu cá nhân đối với các tổ chức kinh doanh dịch vụ xử lý dữ liệu cá nhân; dịch vụ cung cấp tổ chức, nhân sự bảo vệ dữ liệu cá nhân (DPO); yêu cầu đánh giá tác động xử lý dữ liệu cá nhân và chuyển dữ liệu cá nhân ra nước ngoài như một bản cam kết trước pháp luật về hoạt động xử lý dữ liệu cá nhân…

@@ -1,0 +1,27 @@
+Cục Viễn thông (Bộ Thông tin và Truyền thông) vừa ban hành 4 kết luận kiểm tra về việc chấp hành quy định chống cuộc gọi rác dịch vụ điện thoại cố định tại Viettel, VNPT, CMC Telecom và FPT Telecom
+
+Cụ thể, Đoàn kiểm tra của Cục Viễn thông đã xác minh 14 nội dung như hướng dẫn người dùng về cách thức chống cuộc gọi rác; cung cấp các công cụ, ứng dụng để phản ánh cuộc gọi rác; thực hiện triệt để biện pháp ngăn chặn cuộc gọi quảng cáo đến danh sách không nhận quảng cáo; ngăn chặn, thu hồi địa chỉ điện tử được dùng để phát tán cuộc gọi rác…
+
+Kết quả, cả 4 doanh nghiệp đã áp dụng các biện pháp kỹ thuật để xác định thuê bao nghi ngờ phát tán cuộc gọi rác, vận hành hệ thống kỹ thuật ngăn chặn cuộc gọi rác.
+
+Tuy nhiên, tại thời điểm kiểm tra, Viettel chưa thực hiện triệt để các biện pháp ngăn chặn cuộc gọi quảng cáo đến danh sách không quảng cáo. Trong thời gian kiểm tra, có 1.165 cuộc gọi sử dụng tên định danh gọi đến 921 thuê bao đã đăng ký trong danh sách không nhận quảng cáo, vi phạm quy định tại Khoản 3, Điều 9, Nghị định số 91/2020/NĐ-CP ngày 14-8-2020 của Chính phủ về chống tin nhắn rác, thư điện tử rác, cuộc gọi rác.
+
+Còn CMC Telecom đã để 63.390 cuộc gọi quảng cáo đến 41.917 thuê bao đã đăng ký trong danh sách không nhận quảng cáo. Trong thời kỳ kiểm tra, có 2 cá nhân và 18 tổ chức là khách hàng của CMC Telecom có thuê bao cố định thực hiện cuộc gọi quảng cáo.
+
+Trong khi đó, FPT Telecom cũng chưa thực hiện triệt để các biện pháp ngăn chặn cuộc gọi quảng cáo, để 526.159 cuộc gọi quảng cáo đến 137.125 thuê bao đã đăng ký trong danh sách không nhận quảng cáo. Trong thời kỳ kiểm tra, FPT Telecom chưa thực hiện đầy đủ việc thống kê, cập nhật số liệu cuộc gọi rác theo quy định.
+
+Với các hành vi vi phạm nêu trên, Viettel, CMC Telecom và FPT Telecom cùng bị đề nghị xử phạt hành chính mỗi đơn vị 140 triệu đồng, áp dụng hình thức xử phạt bổ sung đình chỉ hoạt động cung cấp dịch vụ 2 tháng đối với các thuê bao vi phạm.
+
+Thực hiện chỉ đạo của Thủ tướng Chính phủ về việc xử lý triệt để tình trạng SIM rác, ngày 15/3, Bộ Thông tin và Truyền thông đã ban hành thông báo về việc quán triệt trách nhiệm của doanh nghiệp viễn thông trong việc thực hiện nghiêm công tác quản lý, đăng ký thông tin thuê bao.
+
+Trong thông báo, Bộ Thông tin và Truyền thông yêu cầu người đứng đầu doanh nghiệp trực tiếp chỉ đạo và chịu trách nhiệm nghiêm túc triển khai, xử lý xong tất cả các SIM tồn kênh chuyển về SIM không có thông tin thuê bao, đảm bảo SIM thuê bao phải chính xác, đúng quy định, trùng khớp với cơ sở dữ liệu quốc gia về dân cư, chỉ có thể kích hoạt, phát triển mới bởi chính các nhà mạng.
+
+Liên quan đến vấn đề dẹp SIM rác, cuộc gọi rác, Bộ Thông tin và Truyền thông đã quán triệt, từ ngày 15/4/2024, các doanh nghiệp viễn thông di động phải chịu hoàn toàn trách nhiệm nếu trên thị trường còn xuất hiện SIM được phát triển mới không đúng quy định.
+
+Trường hợp phát hiện vi phạm, Bộ Thông tin và Truyền thông sẽ tổ chức thanh tra, xử lý nghiêm, đồng thời có văn bản nhắc nhở người đứng đầu các doanh nghiệp và báo cáo Thủ tướng xem xét có hình thức kỷ luật.
+
+Nhiều ý kiến cho rằng, việc gắn trách nhiệm của nhà mạng, đặc biệt là cá nhân người đứng đầu đối với vấn đề SIM rác là giải pháp phù hợp bởi ngoài vai trò quản lý thì nhà mạng còn là đối tượng được hưởng lợi từ SIM rác.
+
+Thực tế cho thấy, các SIM rác thường là nguồn phát tán tin nhắn, cuộc gọi rác lớn, có những SIM rác thực hiện gửi hàng trăm tin nhắn, hàng chục cuộc gọi rác mỗi ngày. Và điều này mang về doanh thu cho nhà mạng nên việc xử lý dứt điểm SIM rác trước tiên phải thuộc về nhà mạng.
+
+Tuy vậy, do SIM thuê bao hiện nay chỉ là một trong những phương thức được các đối tượng lợi dụng để thực hiện các hành vi phát tán tin nhắn rác, cuộc gọi rác nên để ngăn chặn tình trạng này một cách triệt để, rất cần sự tham gia của toàn xã hội, đặc biệt là các tổ chức, doanh nghiệp đang kinh doanh, cung cấp dịch vụ.

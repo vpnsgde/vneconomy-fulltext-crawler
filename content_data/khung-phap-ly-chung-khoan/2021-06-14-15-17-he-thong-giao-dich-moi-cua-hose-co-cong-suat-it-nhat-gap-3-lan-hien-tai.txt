@@ -1,0 +1,35 @@
+“Cho đến thời điểm này, hệ thống khớp lệnh được nhà đầu tư kỳ vọng đã hoàn thành 80%, cuối tháng 6 có thể vận hành. Dự kiến việc chuyển đổi được thử nghiệm trong 3 cuối tuần của tháng, để hệ thống có thể vận hành vào cuối tháng 6, đầu tháng 7 tới”, ông Dương Dũng Triều xác nhận.
+
+Hơn 3 tháng trước, khi nhận nhiệm vụ cùng với Sở GDCK TPHCM xây dựng phương án giải quyết tình trạng tắc nghẽn mạng trong giao dịch chứng khoán, FPT và HOSE lên kế hoạch những thứ cần làm chi tiết đến từng ngày. Trong đó có 3 đầu việc chính được tập trung thực hiện là: sửa phần mềm giao dịch chứng khoán của Sở GDCK Hà Nội (HNX) cho phù hợp với đặc tính giao dịch của HOSE; viết lại hệ thống giao tiếp với các công ty chứng khoán; và tích hợp thêm phần mềm từ các đơn vị khác như Ủy ban Chứng khoán Nhà nước (UBCKNN), Trung tâm Lưu ký Chứng khoán Việt Nam (VSD). Những đầu việc này nhằm giảm thiểu việc chỉnh sửa hệ thống của các bên liên quan theo yêu cầu của HOSE.
+
+Quá trình thực hiện dự án được thực hiện trong 100 ngày và chia làm 5 giai đoạn gồm: Khảo sát; phát triển hệ thống; HOSE kiểm tra tính đúng đắn; kiểm thử diện hẹp tại 24 CTCK hàng đầu; và mở ra kiểm thử diện rộng tại 73 thành viên toàn thị trường.
+
+Hiện tại, dự án đã bước vào giai đoạn kiểm thử diện rộng, về cơ bản, theo ông Triều, đã xử lý được trên 80% tình huống kỹ thuật, nghiệp vụ có thể xảy ra.
+
+Công việc còn lại là xử lý thêm những yêu cầu đặc biệt hơn về hiệu năng hệ thống, an toàn bảo mật, lên kịch bản đóng hệ thống cũ để chuyển sang hệ thống mới thông suốt. Việc xây dựng cơ chế vận hành cũng đang được thực hiện song song để có quy trình tiếp nhận, phân loại và xử lý trong trường hợp gặp sự cố.
+
+“Áp lực cũng nhiều, nhưng áp lực lớn nhất đó chính là sự kỳ vọng quá lớn của nhà đầu tư. Bởi chúng ta biết rằng, đây là khối lượng công việc không hề nhỏ và phức tạp để thay thế cả một hệ thống giao dịch chứng khoán lớn, chứ không phải đơn thuần chỉ là việc xử lý sự cố kỹ thuật của một phần mềm”, ông Dương Dũng Triều nói.
+
+
+
+FPT đã có dịp tham khảo Sở Giao dịch Chứng khoán Indonesia khi thay hệ thống giao dịch mới mua từ Nasdaq OMX. Họ đã tổ chức một lực lượng 144 người chuyên trách phối hợp cùng nhà thầu triển khai dự án trong vòng 14 tháng, từ đầu tháng 1/2008 đến tháng 3/2009.
+
+Trong khi đó, kế hoạch “100 ngày” xây dựng hệ thống thay thế của FPT chỉ có vẻn vẹn 50 nhân sự phối hợp với 30 chuyên gia HOSE làm việc liên tục trong điều kiện dịch bệnh phức tạp lẫn yêu cầu kỹ thuật cao hơn. “Chúng tôi nhận bài toán nâng công suất xử lý 3 - 5 triệu lệnh/ngày, ít nhất gấp 3 lần hiện tại và bỏ cơ chế phân bổ cho các công ty chứng khoán để tránh nghẽn cục bộ”, ông Dương Dũng Triều chia sẻ.
+
+Bên cạnh đó, Lãnh đạo Bộ Tài chính, Uỷ ban chứng khoán Nhà nước đặc biệt quan tâm và chỉ đạo rất quyết liệt FPTvà HOSE đẩy nhanh tiến độ, nhằm đáp nhanh nhất kỳ vọng của nhà đầu tư. Tuy nhiên, kế hoạch đã được các bên chốt duyệt dường như đã không còn khe hở nào, vì thế tiến độ muốn nhanh cũng không thể hơn được.
+
+Trong khi đó, để có lời giải chính xác và hạn chế sai sót xuống mức thấp nhất, sự thận trọng, không đốt cháy giai đoạn là một trong những ưu tiên hàng đầu.
+
+“Trước áp lực các nhà đầu tư đang kỳ vọng quá nhiều về việc xử lý dứt điểm tình trạng nghẽn lệnh kéo dài từ cuối năm 2020 đến giờ, nhưng từ góc độ người làm công nghệ, tôi khẳng định rằng, việc giải quyết dứt điểm nghẽn lệnh trong “một sớm một chiều” là bất khả thi. Mặt khác, việc đầu tư một hệ thống mới để thay thế khẩn cấp hệ thống hiện tại cũng vướng những quy định của Nhà nước do HOSE đang trong quá trình triển khai một hệ thống khác (KRX)”, ông Dương Dũng Triều lưu ý.
+
+Trong lúc cùng FPT xây dựng một hệ thống khớp lệnh thay thế, HOSE cũng song song làm việc với chuyên gia của KRX để phát triển hệ thống mới dài hạn và đồng thời cắt cử nhân sự duy trì hoạt động thông suốt cho hệ thống hiện tại. HOSE cũng nghiên cứu, thử nghiệm nhiều giải pháp ngắn hạn để khơi thông tạm thời ách tắc và thực tế đã có hiệu quả. Ví dụ như, việc tối ưu hóa hệ thống giúp thanh khoản mới cải thiện từ 12.000-13.000 tỷ đồng/ngày lên trên 30.000 tỷ đồng/ngày như hiện nay; song rõ ràng để giải quyết được triệt để thì vẫn phải chờ hệ thống mới vận hành.
+
+Theo ông Dương Dũng Triều, FPT được giao vận hành hệ thống mới một năm trong thời gian chờ hệ thống của KRX hoàn thiện. Hệ thống của Sở Giao dịch Chứng khoán Hàn Quốc (KRX) phức tạp hơn rất nhiều bởi đơn vị thụ hưởng không chỉ riêng HOSE mà còn HNX và VSD.
+
+“Dù vậy, chúng tôi vẫn đồng hành và tư vấn để HOSE vận hành hệ thống này trơn tru và không bị lệ thuộc vào công nghệ nước ngoài như đang xảy ra với hệ thống hiện tại và sẵn sàng có thể cùng HOSE nhanh chóng nâng cấp, mở rộng năng lực hệ thống khớp lệnh này để đáp ứng yêu cầu cao hơn”, lãnh đạo FPT IS cam kết.
+
+Hiện nay, hệ thống giao dịch của HOSE đang hoạt động theo cơ chế phân bổ lệnh cho các CTCK nên có hai khả năng dẫn đến tình trạng nghẽn như đã thấy trong tình hình bùng nổ thanh khoản giao dịch vừa qua.
+
+Thứ nhất,lệnh vào hệ thống của một số công ty đột biến, dẫn đến nghẽn cục bộ tại đây, trong khi hệ thống các công ty khác vẫn trơn tru.
+
+Thứ hai, khi nhà đầu tư sử dụng hơn 90% công suất lệnh thì hệ thống phải chạy chậm lại và xử lý thông tin không còn mượt mà, nhưng không ngừng hoạt động.

@@ -1,0 +1,23 @@
+Đây là hai sản phẩm đầu tiên trong hệ sinh thái Cốc Cốc AI Lab - Bộ phận nghiên cứu và phát triển các sản phẩm Trí tuệ nhân tạo do Cốc Cốc mới thành lập, với mục tiêu giúp người dùng có được nhiều lợi ích hơn từ không gian số, đồng thời khẳng định có đủ năng lực làm chủ những công nghệ tiên tiến, sẵn sàng cạnh tranh sòng phẳng với các gã khổng lồ công nghệ trên thế giới.
+
+Cốc Cốc AI Lab sẽ đảm nhiệm sứ mệnh nghiên cứu, phát triển và tích hợp những sản phẩm ứng dụng công nghệ trí tuệ nhân tạo (AI) mới nhất, tiện lợi nhất trên Trình duyệt và Công cụ tìm kiếm Cốc Cốc. Đặc biệt, người dùng sẽ được trải nghiệm các ứng dụng này hoàn toàn miễn phí.
+
+Cốc Cốc AI Chat và Cốc Cốc AI Search là hai sản phẩm đầu tiên khẳng định cho những nỗ lực của Cốc Cốc trong lĩnh vực này.
+
+Cụ thể, Cốc Cốc AI Chat là chatbot ứng dụng mô hình ngôn ngữ lớn (Large Language Model - LLM), được phát triển dựa trên mô hình GPT 3.5 và dữ liệu từ Tìm kiếm Cốc Cốc. Do vậy, sản phẩm có khả năng cung cấp câu trả lời bằng văn bản nhanh, cập nhật và chính xác. Sản phẩm hỗ trợ tốt nhất cho ngôn ngữ tiếng Việt và có hỗ trợ dịch truy vấn bằng tiếng Anh để trả lời bằng tiếng Việt.
+
+Điểm khác biệt nổi bật của Cốc Cốc AI Chat nằm ở năng lực hiểu tiếng Việt và xử lý linh hoạt, chính xác những nội dung truy vấn mang đặc trưng văn hoá Việt Nam - điểm hạn chế của hầu hết các sản phẩm tương tự trên thị trường. Bằng việc đưa ra phản hồi tự nhiên, gần gũi, Cốc Cốc AI Chat có thể hỗ trợ người dùng như một trợ lý AI người Việt.
+
+Người dùng có thể trò chuyện với Cốc Cốc AI Chat để tham khảo câu trả lời về đa dạng chủ đề, sáng tạo nội dung, xử lý các tác vụ liên quan đến ngôn ngữ như tóm tắt, dịch văn bản và hơn thế nữa.
+
+Hiện tại, người dùng có thể truy cập Cốc Cốc AI Chat bằng các điểm truy cập trên trình duyệt Cốc Cốc. Cụ thể, với trình duyệt máy tính, người dùng có thể truy cập bằng lối tắt trên thanh bên (trái hoặc phải). Đối với trình duyệt di động, người dùng có thể truy cập qua lối tắt trên màn hình trang chủ và đề xuất tìm kiếm trong thanh địa chỉ. Sau khi đăng ký tham gia danh sách chờ, Cốc Cốc sẽ gửi email xác nhận và email thông báo khi Cốc Cốc AI Chat sẵn sàng để trải nghiệm.
+
+Đối với Cốc Cốc AI Search - tính năng cung cấp câu trả lời bằng cách sử dụng AI để tóm tắt nội dung từ các kết quả liên quan đến truy vấn của người dùng, cho phép người dùng nhận kết quả nhanh, chính xác và an toàn hơn mà không phải truy cập nhiều trang web. Cốc Cốc AI Search sẽ tổng hợp và tóm tắt thông tin ngắn gọn từ những nguồn uy tín chỉ trong khoảng 2 giây.
+
+Ông Nguyễn Vũ Anh, Tổng Giám đốc Cốc Cốc, cho biết việc tích hợp miễn phí 2 sản phẩm mới này trên Trình duyệt và Công cụ tìm kiếm Cốc Cốc là bước khởi đầu trong hành trình phát triển và đóng góp giá trị của hệ sinh thái Cốc Cốc AI Lab cho cộng đồng. Cốc Cốc AI Lab sẽ là nền tảng kết nối hợp tác với các đối tác trong và ngoài nước, giúp mang lại các giải pháp AI tốt nhất cho người dùng và doanh nghiệp Việt.
+
+“Cốc Cốc mong muốn sẽ giúp công nghệ AI trở nên gần gũi và dễ sử dụng hơn cho người dùng Việt. Chúng tôi sẽ tiếp tục đầu tư tâm sức và nguồn lực để hiện thực hoá mục tiêu lớn hơn là đưa Việt Nam lên bản đồ AI thế giới”, ông Vũ Anh chia sẻ.
+
+Theo Cốc Cốc, cả hai sản phẩm này hiện đang trong quá trình thử nghiệm (phiên bản Beta) nên không tránh khỏi một số hạn chế nhất định như giới hạn về số lượng người dùng, nội dung trả lời chưa thực sự đầy đủ hoặc còn nhầm lẫn do sản phẩm đang tiếp tục học từ cơ sở dữ liệu mới...
+
+Sau 10 năm xây dựng và phát triển tại thị trường Việt Nam (2013 - 2023), Cốc Cốc hiện đang có hơn 29 triệu người dùng. Đặc biệt, riêng Công cụ tìm kiếm Cốc Cốc thu hút hơn 600 triệu lượt truy vấn hàng tháng.

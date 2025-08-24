@@ -1,0 +1,33 @@
+Dù không nổi bật như các “ông lớn” công nghệ, Scale AI, công ty chuyên gắn nhãn dữ liệu để huấn luyện các mô hình trí tuệ nhân tạo, lại chính là hạ tầng thầm lặng phía sau nhiều đột phá AI hiện nay, từ xe tự lái cho tới các mô hình ngôn ngữ lớn (LLM).
+
+Với tầm nhìn chiến lược, vị tỷ phú trẻ Alexandr Wang đã biến Scale trở thành đối tác thân thiết của nhiều công ty trong hệ sinh thái AI hiện nay.
+
+Sau thỏa thuận với Meta, Alexandr Wang sẽ có một vai trò mới – dẫn dắt phòng thí nghiệm AI của Meta, nơi quy tụ khoảng 50 chuyên gia hàng đầu, với nhiệm vụ phát triển các hệ thống AI tiên tiến nhất. Thỏa thuận cũng kéo theo việc chuyển nhượng các nhân sự chủ chốt từ Scale sang Meta.
+
+India Express thậm chí đưa tin Meta sẽ còn chi đậm để hút nhân tài, trong đó có những gói đãi ngộ lên tới hàng chục triệu USD nhằm chiêu mộ các chuyên gia từ OpenAI, Google hay Microsoft.
+
+Bước đi này diễn ra trong thời điểm quan trọng với Meta, khi họ đang nỗ lực vượt qua các đối thủ như Google, Microsoft và đặc biệt là OpenAI – những cái tên đang chiếm ưu thế rõ rệt trong cuộc đua AI. Dù CEO Mark Zuckerberg đã thúc đẩy mạnh mẽ việc tích hợp AI vào các sản phẩm chủ lực như kính Ray-Ban thông minh, Facebook, Instagram và WhatsApp, Meta vẫn chưa thực sự tạo được dấu ấn khác biệt.
+
+Tuy nhiên, nội bộ Meta cũng đang tiềm ẩn nhiều vấn đề, từ rò rỉ nhân tài, hiệu quả ra mắt sản phẩm thấp và những khác biệt quan điểm trong định hướng nghiên cứu, khiến gã khổng lồ khó tăng tốc.
+
+Do đó, Meta kỳ vọng Wang sẽ trở thành nhân tố mới không chỉ giúp gã khổng lồ giành lại vị thế dẫn đầu, mà còn mở ra một chương mới cho năng lực công nghệ AI của công ty.
+
+Sinh ra tại New Mexico (Mỹ), Alexandr Wang lớn lên trong một gia đình gốc Hoa có truyền thống khoa học. Cả bố và mẹ anh đều là nhà vật lý hạt nhân, làm việc tại Phòng thí nghiệm Quốc gia Los Alamos hàng đầu của Mỹ. Ngay từ nhỏ, Wang đã bộc lộ năng khiếu về công nghệ và khoa học máy tính. Trước khi vào đại học, anh từng làm việc tại Quora – một nền tảng hỏi đáp kiến thức nổi tiếng trên mạng.
+
+Sau đó, Wang theo học Viện Công nghệ Massachusetts (MIT), cái nôi của những bộ óc xuất sắc nhất thế giới, nhưng đã quyết định bỏ học chỉ sau một năm để theo đuổi con đường khởi nghiệp. Anh gia nhập chương trình tăng tốc khởi nghiệp Y Combinator, nơi từng do Sam Altman (hiện là CEO của OpenAI) điều hành. Tại đây, Wang gặp Lucy Guo, một cựu nhân viên Quora, và cả hai đã cùng sáng lập công ty Scale AI vào năm 2016.
+
+Vậy là Scale AI ra đời với mục tiêu cung cấp dữ liệu đã gắn nhãn để huấn luyện các mô hình trí tuệ nhân tạo. Chỉ hai năm sau, cả Wang và Guo đã lọt vào danh sách “30 Under 30” của Forbes trong lĩnh vực công nghệ doanh nghiệp. Tuy nhiên, Guo sau đó rời khỏi Scale AI vì “khác biệt trong tầm nhìn sản phẩm và chiến lược phát triển”, theo một báo cáo của Forbes.
+
+Trong khi đó, Wang tiếp tục lèo lái Scale AI trở thành một trong những ngôi sao sáng của làn sóng AI. Năm 2019, công ty trở thành “kỳ lân” sau khi gọi vốn thành công 100 triệu USD từ Quỹ Founders Fund. Một vòng gọi vốn khác sau đó đã mang về thêm 580 triệu USD, đưa định giá của Scale lên 7 tỷ USD. Ở tuổi 24, Wang trở thành tỷ phú tự thân trẻ nhất thế giới. Lucy Guo, đồng sáng lập của anh, cũng vừa gia nhập câu lạc bộ tỷ phú nhờ cổ phần còn lại trong công ty.
+
+Ngoài thương trường, Wang cũng duy trì mối quan hệ thân thiết với các nhân vật quyền lực trong giới công nghệ. Trong thời gian đại dịch COVID-19, anh từng sống cùng nhà với Sam Altman. Cả hai gần đây còn xuất hiện cùng nhau trong lễ nhậm chức của cựu Tổng thống Mỹ Donald Trump vào tháng 1 năm nay. Đây là khoảnh khắc gây nhiều chú ý trong giới công nghệ và chính trị.
+
+Ra đời năm 2016, Scale AI là một công ty khởi nghiệp chuyên cung cấp dữ liệu đã được gắn nhãn – một mắt xích quan trọng để huấn luyện các hệ thống trí tuệ nhân tạo (AI). Ban đầu, công ty tập trung vào phục vụ các hãng xe phát triển công nghệ xe tự lái, bằng cách thu thập và xử lý hàng loạt dữ liệu giúp máy móc nhận diện vật thể, tín hiệu và tình huống giao thông thực tế.
+
+Với các mô hình ngôn ngữ lớn (LLM), Scale AI đóng vai trò "hậu phương dữ liệu", cung cấp đầu vào đã được xử lý, sàng lọc và làm sạch để các công ty công nghệ huấn luyện mô hình sinh văn bản, tạo nội dung. Để làm được điều đó, công ty thuê hàng nghìn cộng tác viên hợp đồng, chủ yếu ở các nước đang phát triển để thực hiện các công việc thủ công như dán nhãn và chú thích dữ liệu.
+
+Khách hàng của Scale AI trải rộng từ các hãng xe lớn như Toyota, Honda đến công ty xe tự lái Waymo thuộc Google. Ngoài ra, Scale AI còn hợp tác với Accenture trong các dự án AI cho doanh nghiệp, đồng thời cung cấp dữ liệu cho nhiều tên tuổi lớn như OpenAI, Microsoft và startup Cohere tại Canada.
+
+Không chỉ phục vụ khu vực tư nhân, Scale AI còn là đối tác của chính phủ Mỹ trong việc phân tích hình ảnh vệ tinh, điển hình như hỗ trợ theo dõi tình hình tại Ukraine.
+
+Tốc độ phát triển của Scale AI cũng đáng kinh ngạc. Được định giá gần 14 tỷ USD vào năm 2024 với doanh thu khoảng 870 triệu USD, công ty được kỳ vọng sẽ đạt doanh thu 2 tỷ USD trong năm 2025, có thể nâng mức định giá lên tới 25 tỷ USD, theo Bloomberg.

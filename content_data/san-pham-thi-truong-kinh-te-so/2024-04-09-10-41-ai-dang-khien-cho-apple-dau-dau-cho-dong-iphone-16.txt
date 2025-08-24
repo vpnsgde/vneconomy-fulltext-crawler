@@ -1,0 +1,17 @@
+Từ trước tới nay, Apple đã luôn nỗ lực tách biệt dòngiPhonevà iPhone Pro bằng một vài tính năng khác biệt và đi kèm với sự chênh lệch giá. Tuy nhiên, sự khác biệt giữa hai loại này về cơ bản có thể thay đổi vào cuối năm nay và nguyên nhân không ai khác là trí tuệ nhân tạo (AI).
+
+Sự ra mắt Pixel 8 và Pixel 8 Pro của Google diễn ra chỉ vài tuần sau khi ra mắt dòng iPhone 15, khơi mào cuộc đua smartphone trang bị AI. Google kỳ vọng Pixel sẽ là điện thoại thông minh AI đầu tiên và dẫn đầu cuộc đua. Galaxy AI của Samsung cũng gây được tiếng vang lớn trên thị trường khi Galaxy S24 ra mắt khiến các nhà sản xuất khác tập trung vào phát triển trí tuệ nhân tạo.
+
+Bởi Apple ra mắt iPhone 15 trước 2 gã khổng lồ Android này, iPhone có vẻ đã bỏ lỡ bước đi đầu tiên trong cuộc cách mạng smartphone AI. Xem xét kỹ hơn cách Apple bổ sung các tính năng cho iPhone cho thấy việc sử dụng AI trong Siri, chụp ảnh tính toán và tự động sửa lỗi. Tất cả đều hợp lệ nhưng lại bị giới chuyên môn đánh giá “không hấp dẫn”.
+
+Rõ ràng AI không đột ngột xuất hiện chỉ sau một đêm, cần có thời gian để hiểu các nguyên tắc đằng sau AI, lập trình phần mềm và phát triển phần cứng. Apple đang tập trung vào việc tạo ra một hệ thống AI sáng tạo bao nhiêu và kế hoạch dài hạn để phát hành Apple AI vào đầu chu kỳ sản phẩm năm 2024 hay không, điều này vẫn chưa được tiết lộ. Điều rõ ràng là dòng iPhone 16 sẽ xuất xưởng với nhiều hệ thống AI đa dạng khác nhau, cả cục bộ và trên iCloud. Người tiêu dùng sẽ thấy những điều này được giải thích chi tiết hơn tại Hội nghị nhà phát triển toàn cầu sắp tới của Apple vào tháng 6.
+
+Chạy Generative AI cục bộ đòi hỏi một lượng sức mạnh xử lý đáng chú ý. Các chipset Android mới nhất của Qualcomm, Mediatek và Samsung đều có phần cứng dành riêng cho AI tổng hợp, giúp tăng hiệu quả của quy trình cả về tốc độ và năng lượng cần thiết. Điều đáng chú ý là ngay cả việc quay trở lại thế hệ chipset 2023 cũng sẽ hạn chế khả năng thực hiện AI trên thiết bị cầm tay, khiến không còn lựa chọn nào khác ngoài việc sử dụng cloud — hoặc hoàn toàn không cung cấp các tính năng này trong các bản cập nhật phần mềm.
+
+iPhone 15 năm ngoái xuất xưởng với chipset A16 của Apple, trong khi iPhone 15 Pro xuất xưởng với A17 Pro – chênh lệch rõ ràng giữa “trái tim” của hai thiết bị cầm tay.
+
+Khi Apple chuyển sang đưa AI (theo cách hiểu của người tiêu dùng hiện nay) vào iPhone, mọi người đều kỳ vọng rằng Apple sẽ muốn thực hiện càng nhiều thao tác xử lý trên thiết bị càng tốt. Như các nhà sản xuất Android đã phát hiện ra, nếu muốn AI hoạt động mượt mà trên thiết bị, bạn sẽ cần hỗ trợ phần cứng trong chipset.
+
+Rất may, Apple đã cung cấp chipset A17 mới cho dòng iPhone 2024 và gần như đảm bảo rằng A17 sẽ có phần cứng cụ thể dành riêng cho việc xử lý AI tổng hợp. Giờ đây, câu hỏi đặt ra là làm thế nào để xử lý các thông số kỹ thuật nhân tạo bị phân chia giữa hai thiết bị cầm tay.
+
+Điều này đã khiến giới chuyên môn hoài nghi rằng liệu Apple sẽ hạn chế AI chỉ ở iPhone 16 Pro và 16 Pro Max. Apple AI sẽ cần phải có sẵn trên tất cả các thiết bị mới. Nếu đúng như vậy thì Apple sẽ cần phải nâng iPhone 16 lên một bậc cao hơn nhiều người mong đợi vào thời điểm này năm ngoái. Phù hợp với A17 của các mẫu Pro hiện tại là chưa đủ, iPhone 16 sẽ cần phải có khả năng phần cứng AI tương tự.

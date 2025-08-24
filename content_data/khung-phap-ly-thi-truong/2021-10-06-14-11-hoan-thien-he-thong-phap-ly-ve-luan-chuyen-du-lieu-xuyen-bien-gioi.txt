@@ -1,0 +1,61 @@
+Dữ liệu xuyên biên giới đem lại 3 lợi ích: cho phép người dùng tiếp cận với các dịch vụ tốt nhất; doanh nghiệp tham gia vào chuỗi cung ứng toàn cầu, tiếp cận thị trường nước ngoài; hầu hết các ngành, lĩnh vực từ sản xuất đến y tế, giáo dục, tài chính được hưởng lợi.
+
+Trái lại, nếu hạn chế dữ liệu xuyên biên giới sẽ tạo ra 4 tác động tiêu cực: làm suy giảm tăng trưởng kinh tế vĩ mô và phúc lợi xã hội; tạo rào cản doanh nghiệp muốn gia nhập thị trường; gia tăng chi phí tuân thủ; gây suy giảm an toàn, an ninh dữ liệu.
+
+Báo cáo “Luân chuyển dữ liệu cá nhân xuyên biên giới – từ tin cậy đến tự do” vừa được Viện Nghiên cứu chính sách và phát triển truyền thông (IPS) phát hành đã nêu lên những lỗ hổng và kiến nghị chính sách pháp luật về luân chuyển dữ liệu xuyên biên giới.
+
+Theo IPS, Việt Nam hiện là quốc gia có tốc độ tăng trưởng về luân chuyển dữ liệu xuyên biên giới cao nhất khu vực Châu Á trong giai đoạn 2001-2019, và là một trong 10 quốc gia có lượng dữ liệu xuyên biên giới lớn nhất thế giới.
+
+
+
+Luồng dữ liệu di chuyển xuyên biên giới này mở ra cơ hội to lớn cho mỗi quốc gia để phát triển kinh tế số, mang lợi lợi ích cho tất cả các lĩnh vực, từ sản xuất đến dịch vụ tài chính, giáo dục, chăm sóc sức khỏe.
+
+“Việt Nam đang đứng trước cơ hội rõ ràng để phát triển và hưởng lợi từ nền kinh tế số, vươn lên thành nước phát triển. Do đó, cần thiết có một tiếp cận chính sách phù hợp để quản trị dòng dữ liệu cá nhân xuyên biên giới một cách an toàn, tin cậy và cho phép tự do”, Báo cáo nhận định.
+
+Sự ra đời của Internet cho phép con người gửi lượng lớn dữ liệu một cách nhanh chóng và hầu như không mất chi phí đến hầu hết mọi nơi trên thế giới.
+
+Dữ liệu xuyên biên giới tạo điều kiện cho người tiêu dùng có nhiều lựa chọn hơn, được tiếp cận với công nghệ và dịch vụ tốt nhất có thể đến từ nhà cung cấp trong và ngoài nước.
+
+Đồng thời cho phép các doanh nghiệp tham gia vào chuỗi cung ứng toàn cầu, thúc đẩy khả năng đổi mới và cạnh tranh của bản thân doanh nghiệp.
+
+Một Nghiên cứu của Diễn đàn Kinh tế Thế giới năm 2020 cho thấy rằng: “Khoảng một nửa hoạt động thương mại xuyên biên giới được vận hành nhờ kết nối kỹ thuật số… cho phép các nước đang phát triển và doanh nghiệp siêu nhỏ, nhỏ, và vừa xuất khẩu thông qua khả năng tiếp thị, tiếp cận thị trường dễ dàng hơn và phân phối ít tốn kém hơn”.
+
+Nghiên cứu của AlphaBeta năm 2019 ước tính rằng các công cụ kỹ thuật số đã giúp các doanh nghiệp vừa và nhỏ trên khắp châu Á giảm 82% chi phí xuất khẩu và 29% thời gian giao dịch.
+
+
+
+Đối với Việt Nam, yêu cầu về địa phương hóa dữ liệu sẽ dẫn đến mất quyền truy cập vào các nhà cung cấp dịch vụ quốc tế và khả năng tiếp cận thị trường bên ngoài; ước tính tổng thiệt hại  1,7% GDP; mất 3,1% đầu tư trong nước và 1,5 tỷ USD tổn thất phúc lợi tiêu dùng.
+
+Tuy tạo ra cơ hội lớn cho các quốc gia hưởng lợi từ việc chuyển đổi nền kinh tế truyền thống sang nền kinh tế số, nhưng dữ liệu xuyên biên giới cũng tạo ra nhiều lo lắng về an toàn dữ liệu, an ninh quốc gia trên không gian mạng, khả năng thực thi pháp luật ngoài lãnh thổ quốc gia...
+
+Một nghiên cứu của Hiệp hội Hệ thống thông tin di động toàn cầu (GSMA) năm 2021 được thực hiện ở Nam Mỹ, Đông Nam Á và Châu Phi chỉ ra rằng các biện pháp địa phương hóa dữ liệu trên các ứng dụng IoT và dữ liệu M2m có thể dẫn đến: tổn thất đầu tư từ 4-5 tỷ USD.
+
+Về mặt pháp lý, IPS chỉ ra rằng, Hệ thống pháp luật Việt Nam về bảo vệ dữ liệu cá nhân xuyên biên giới hiện có 8 “lỗ hổng”.
+
+Thứ nhất, chưa có văn bản quy phạm pháp luật về việc chuyển dữ liệu cá nhân ra khỏi biên giới quốc gia.
+
+Thứ hai, thiếu quy định về việc ẩn danh/phi ẩn danh hóa dữ liệu cá nhân.
+
+Thứ ba, thiếu quy định về quyền được ‘lãng quên’ (xóa dữ liệu cá nhân sau một khoảng thời gian bao lâu).
+
+Thứ tư, thiếu quy định về cho phép khai thác giá trị kinh tế của dữ liệu cá nhân (quyền đối với dữ liệu được coi là một quyền nhân thân phi truyền thống và có gắn yếu tố kinh tế).
+
+Thứ năm, thiếu cơ chế xử lý các hành vi mua bán dữ liệu cá nhân (chưa có một đạo luật riêng biệt, toàn diện).
+
+Thứ sáu là chế tài hành chính và hình sự chưa thực sự phù hợp với thực tế, mức xử phạt tương đối thấp so với một số quốc gia, khu vực trên thế giới.
+
+Thứ bảy là chưa có một đạo luật riêng biệt, toàn diện và nhất quán để bảo vệ dữ liệu cá nhân và tránh những hệ lụy.
+
+Thứ tám, qua quá trình rà soát văn bản quy phạm pháp luật đang được soạn thảo, là Dự thảo Nghị định quy định về bảo vệ dữ liệu cá nhân, thấy rằng quy định về điều kiện chuyển dữ liệu cá nhân qua biên giới được xây dựng nhưng chưa rõ ràng, có sự trùng lặp giữa điều kiện chuyển với ngoại lệ chuyển, giữa ngoại lệ chuyển với điều kiện Ủy ban bảo vệ dữ liệu cá nhân ra văn bản đồng ý chuyển.
+
+Tham khảo cả điểm mạnh và điểm hạn chế từ kinh nghiệm thiết kế chính sách và pháp lý đối với dữ liệu xuyên biên giới của Liên minh Châu Âu, Trung Quốc, Nhật Bản, Singapore, cho thấy cần kết hợp giữa giải pháp công nghệ với công cụ pháp lý để điều chỉnh hành vi chuyển dữ liệu cá nhân qua biên giới.
+
+
+
+Thiết kế chính sách bảo vệ dữ liệu cá nhân xuyên biên giới dựa nên trên 3 trụ cột: Quy định pháp luật, Hợp tác liên quốc gia trong các khuôn khổ đa phương, Cơ chế tự quản trong nội bộ ngành.
+
+IPS khuyến nghị thiết kế quy định pháp luật bảo vệ dữ liệu cá nhân xuyên biên giới cần thúc đẩy trách nhiệm giải trình của các chủ thể liên quan đến hoạt động xử lý dữ liệu
+
+Cùng với đó, xây dựng quy định pháp luật có sự thống nhất trong hệ thống pháp luật nội bộ của quốc gia cũng như có sự tương đồng giữa các quốc gia trong khu vực, thế giới.
+
+Trong đó, 3 khía cạnh chính cần quan tâm: những khái niệm chính (dữ liệu cá nhân, ẩn danh, phân định chủ thể kiểm soát và xử lý dữ liệu); cơ sở pháp lý để xử lý dữ liệu cá nhân (sự đồng ý, lợi ích hợp pháp, lợi ích công, nghiên cứu khoa học); bộ quy tắc ứng xử (chứng nhận bảo mật dữ liệu, yêu cầu địa phương hóa dữ liệu).

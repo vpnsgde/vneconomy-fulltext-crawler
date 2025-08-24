@@ -1,0 +1,25 @@
+Thương hiệu thời trang Gucci đã tiến xa hơn trong việc ứng dụng Web 3.0 với việc bắt đầu cho chấp nhận thanh toán nhiều sản phẩm bằng các loại tiền số từ cuối tháng 5/2022. Cụ thể, Gucci sẽ chấp nhận 12 loại tiền mã hóa gồm Bitcoin (BTC), Bitcoin Cash (BCH), Ether (ETH), Wrapped Bitcoin (wBTC), Litecoin (LTC), Shiba Inu (SHIB), Dogecoin (DOGE) và 5 loại stablecoin USD.
+
+Ban đầu, Gucci sẽ thử nghiệm thanh toán bằng tiền mã hóa tại 5 cửa hàng ở Mỹ, trước khi nhân rộng mô hình ra 111 cửa hàng trên khắp đất nước này. Năm cơ sở được Gucci lựa chọn đầu tiên cho việc thanh toán bằng tiền mã hóa đặt tại New York, Los Angeles, Miami, Atlanta và Las Vegas. Người dùng muốn thanh toán bằng tiền mã hóa sẽ nhận được một email có chứa mã QR. Họ sẽ sử dụng mã QR này để hoàn tất việc thanh toán thông qua ví điện tử và được Gucci gửi hoá đơn qua email, theo Vogue Business.
+
+Kering, tập đoàn mẹ của Gucci vào tuần trước cũng đã thông báo bổ nhiệm giám đốc điều hành Google Yonca Dervisoglu vào ban giám đốc của mình, với mục tiêu tập trung hơn nữa vào công nghệ kỹ thuật số và metaverse. Động thái này được xem là cột mốc lớn của Gucci trong việc kỹ thuật số hóa thương hiệu.
+
+Hồi tháng 2, Francois-Henri Pinault, Giám đốc điều hành của Kering cho biết Gucci và các hãng thời trang khác như Balenciaga đang có đội ngũ riêng để tìm kiếm các cơ hội liên quan đến metaverse và web3, phiên bản của internet được xây dựng dựa trên công nghệ blockchain, tiền điện tử và các token không thể thay thế (NFT).
+
+"Chúng tôi đang ở trong giai đoạn rất sớm về những gì có thể xảy ra, không có gì là chắc chắn", ông Pinault chia sẻ vào thời điểm đó. Theo ông Pinault, các hành động của Kering được thực hiện như một cách để "thử nghiệm và học hỏi" thay vì tâm lý "ngồi đợi và xem". Đồng thời ông cũng cho biết rằng việc thanh toán bằng tiền điện tử có nhiều tác động về pháp lý và tài chính "rất nặng nề".
+
+Trước đó, Gucci cũng rất tích cực theo xu hướng Blockchain với việc cho ra mắt 2 bộ sưu tập NFT “SuperGucci” và “Gucci Grail”. NFT đầu tiên của hãng này là một bộ phim dài 4 phút có tựa đề Aria. Đây là bộ phim lấy cảm hứng từ bộ sưu tập quần áo cùng tên được bán với giá 25.000 USD vào tháng 6/2021 trong một cuộc đấu giá trực tuyến do Christie's tổ chức.
+
+Gucci cũng đã mở rộng sang mảng Web 3.0 với việc mua đất ảo tại dự án The Sandbox vào tháng 2 năm nay nhằm phát triển mảng trải nghiệm bán lẻ trên thế giới ảo của mình. Hãng này thậm chí còn ra mắt Gucci Vault - một cửa hàng trực tuyến đại diện cho “sự hiện diện của Gucci trong Metaverse”.
+
+Trong một thông báo gần đây với kênh Discord của mình, Gucci đã chia sẻ rằng các chủ sở hữu của SuperGucci và Gucci Grail sẽ có quyền truy cập đặc biệt để đặt hàng trước một bộ sưu tập của Gucci trước khi ra mắt công chúng. Đây là một động thái rõ rệt nhằm ràng buộc các bộ sưu tập NFT và cộng đồng Web3 mới chớm nở của Gucci với khách hàng tiêu dùng của thế giới thực – một nước đi liên kết quan trọng đối với một thương hiệu xa xỉ.
+
+Theo Vogue Business, Gucci sẽ hợp tác với một nhà cung cấp dịch vụ (chưa được tiết lộ) để hỗ trợ tổng hợp trị giá của Bitcoin từ nhiều sàn giao dịch tiền điện tử, theo thời gian thực, nhằm cố gắng xác định số BTC chính xác nhất để tính phí cho khách hàng. Đây là điều mà từ trước đến nay, chưa bao giờ được ai khám phá sâu.
+
+Chủ tịch kiêm Giám đốc điều hành Gucci Marco Bizzarri cho biết: “Gucci luôn tìm cách nắm bắt các công nghệ mới để có thể mang lại trải nghiệm nâng cao cho khách hàng. Giờ đây, chúng tôi đã có thể tích hợp tiền điện tử trong hệ thống thanh toán, như một sự cấp tiến tự nhiên mà Gucci dành cho những vị khách có nhu cầu.”
+
+Theo Stefano Rosso, giám đốc điều hành của Brave Virtual eXperience, một công ty chuyên nghiên cứu, đầu tư vào mảng metaverse, metaverse sẽ đem lại nhiều cơ hội chuyển mình mạnh mẽ cho ngành công nghiệp thời trang. “Các thương hiệu, nhà mốt cần nhanh chóng sẵn sàng cho cuộc chơi mới”, Rosso nói. “Mục đích không chỉ là thu hút khách hàng mới mà còn nhằm mở ra một phương tiện mới để kết nối, trò chuyện với khách hàng”.
+
+Theo đó, quyết định chấp nhận thanh toán bằng tiền điện tử của Gucci cho thấy các thương hiệu xa xỉ đang cố gắng thu hút thế hệ người tiêu dùng trẻ hơn bằng cách đáp ứng các xu hướng mới nổi. Điều này cũng cho thấy sự thay đổi trong tư duy của một bộ phận giới tinh hoa về giá trị của các loại tài sản ảo. Tuy vậy, áp lực về mặt pháp lý có thể tăng lên vì tại phần lớn quốc gia trên thế giới, trong đó có Việt Nam, Bitcoin nói riêng và các loại tiền điện tử khác nói chung hiện không được xem là một phương tiện thanh toán hợp pháp.
+
+Ngoài ra, các mô hình bán hàng hiện tại không dễ phù hợp với thế giới ảo, ngay cả với những tập đoàn dồi dào tài chính nhất và tiên phong trong việc thúc đẩy. Louis Vuitton, đối thủ cạnh tranh của Gucci, hiện không có kế hoạch tung ra xa xỉ phẩm ảo nào trong thời gian tới. “Việc thúc đẩy phát hành sản phẩm kỹ thuật số quá mạnh mẽ có nguy cơ biến thương hiệu thành một nhãn hiệu dành cho thị trường đại chúng, làm giảm giá trị của các món đồ hiệu có số lượng giới hạn,” đại diện của Louis Vuitton bình luận.

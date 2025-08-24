@@ -1,0 +1,39 @@
+Đây là một sự kiện quốc tế do Trung tâm eXtended Reality và Trường Hội tụ Ảo (thuộc Đại học Chung-Ang, Hàn Quốc) tổ chức vào tháng 9/2024, quy tụ sinh viên từ 13 trường đại học trên 9 quốc gia tranh tài về các giải pháp công nghệ sáng tạo với tiềm năng ứng dụng trong đời sống thực tiễn.
+
+Trong đó, dự án “SpeakEase”, một ứng dụng sử dụng trí tuệ nhân tạo (AI) để hỗ trợ trẻ em gặp khó khăn về ngôn ngữ giao tiếp với phụ huynh của sinh viên Nguyễn Thiện Quang (sinh viên năm 3, chương trình Khoa học Máy tính, Đại học Anh Quốc Việt Nam) và tổ đội đã đạt giải Vàng chung cuộc.
+
+Cùng với đó, dự án “Transparity”, thúc đẩy minh bạch hóa hoạt động của các quỹ từ thiện của nữ sinh viên Phan Lê Ngọc Trang (sinh viên năm 2 chương trình Tài chính & Kinh tế, Đại học Anh Quốc Việt Nam – BUV) xây dựng đã đạt giải Đồng.
+
+Thiện Quang là sinh viên gặp khó khăn trong vận động và giao tiếp bẩm sinh nên hơn ai hết Quang hiểu những khó khăn mà các bạn trẻ mắc bệnh về giao tiếp đang gặp phải, cũng như gia đình và người thân của các bạn.
+
+Từ đó, Thiện Quang đã truyền cảm hứng, thuyết phục và dẫn dắt đồng đội đến từ Thái Lan, Hàn Quốc và Indonesia, phát triển dự án xây dựng SpeakEase.
+
+Đáp ứng yêu cầu “thần tốc” của chương trình, SpeakEase được nhóm của Thiện Quang lên ý tưởng, xây dựng kế hoạch phát triển hoàn thiện chỉ trong 48 giờ đồng hồ.
+
+Áp đảo về tính sáng tạo, ý nghĩa xã hội và tính ứng dụng cao, dự án SpeakEase đã xuất sắc vượt qua 12 dự án khác để giành giải vàng cao nhất cuộc thi.
+
+“Em nghĩ trẻ em khuyết tật nên được quan tâm, thấu hiểu, và tạo cơ hội kết nối bình đẳng giống các bạn đồng lứa. Em cũng mong giải pháp của nhóm có thể hỗ trợ các bậc phụ huynh có con khó khăn trong ngôn ngữ phần nào trong hành trình kết nối với con mình,” Thiện Quang chia sẻ.
+
+Về hướng đi tiếp theo, Quang và các thành viên trong nhóm vẫn đang tích cực kết nối và tiếp tục hợp tác để phát triển dự án.
+
+Với mong muốn hoàn thiện SpeakEase và mang đến những trải nghiệm tốt nhất cho các em nhỏ, nhóm đang tìm kiếm sự hỗ trợ từ các chuyên gia trong nhiều lĩnh vực khác nhau.
+
+Bản thân Quang cũng đang lên kế hoạch nghiên cứu ứng dụng mô hình ngôn ngữ lớn “thuần Việt” cho ứng dụng, giúp các trẻ em kém may mắn ở Việt Nam cũng có thể tiếp cận.
+
+Còn dự án “Transparity” nhằm thúc đẩy minh bạch hóa hoạt động của các quỹ từ thiện do sinh viên Phan Lê Ngọc Trang xây dựng.
+
+Hiện nay, hoạt động từ thiện ngày càng nhận được sự quan tâm lớn từ cộng đồng. Tuy nhiên, bên cạnh những tấm lòng hảo tâm, cũng không ít những vụ việc gây xôn xao dư luận liên quan đến việc sử dụng quỹ từ thiện không đúng mục đích.
+
+Ý tưởng cho dự án này được nhen nhóm từ chính những câu hỏi mà Ngọc Trang và các bạn luôn quan tâm: "Làm sao để đảm bảo rằng những khoản tiền quyên góp được sử dụng đúng mục đích? Làm sao để tạo ra một cộng đồng từ thiện minh bạch và đáng tin cậy?"
+
+Từ ý tưởng ban đầu đó, Transparity được nhóm của Ngọc Trang nghiên cứu và phát triển, dựa trên blockchain được thiết kế để đảm bảo tính minh bạch và trách nhiệm giải trình trong các khoản giải ngân từ thiện.
+
+Bằng cách sử dụng hợp đồng thông minh, nền tảng này cho phép các nhà tài trợ theo dõi quá trình quyên góp theo thời gian thực, đảm bảo rằng các khoản đóng góp của họ được sử dụng hiệu quả và cung cấp thông tin cập nhật thường xuyên về tác động của các khoản quyên góp từ thiện.
+
+Với nền tảng kiến thức về kinh doanh và tài chính, Trang đã đóng vai trò quan trọng trong việc nghiên cứu và xây dựng trải nghiệm người dùng, đảm bảo rằng ứng dụng không chỉ có tính năng mạnh mẽ mà còn dễ tiếp cận và hữu ích cho cộng đồng.
+
+Dự án này được Ban giám khảo đánh giá cao về tiềm năng và tính khả thi, mang lại sự thay đổi tích cực cho các hoạt động từ thiện.
+
+Ngọc Trang cho biết hiện nhóm đang tìm kinh phí đầu tư để dự án sớm đưa vào ứng dụng.
+
+Theo ông Hoàng Bảo Long - Giảng viên cao cấp, trường Đại học Anh Quốc Việt Nam – BUV, sự tham gia và thành công của sinh viên BUV nói riêng và sinh viên Việt Nam nói chung trong cuộc thi Global Start-up Design Thinking Hackathon 2024 không chỉ đánh dấu một thành tựu đáng kể cho các bạn trẻ, mà còn nhấn mạnh cam kết của trường trong việc nuôi dưỡng sự đổi mới, tinh thần kinh doanh và sự tham gia toàn cầu.

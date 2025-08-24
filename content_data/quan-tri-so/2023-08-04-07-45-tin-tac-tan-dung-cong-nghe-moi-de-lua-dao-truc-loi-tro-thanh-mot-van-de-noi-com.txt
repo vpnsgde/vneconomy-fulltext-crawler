@@ -1,0 +1,25 @@
+Nội dung trên sẽ được các chuyên gia bàn luận tại Hội thảo và Triển lãm An toàn thông tin năm 2023 sẽ diễn ra vào ngày 25/8 tại TP.HCM, do Chi hội An toàn Thông tin phía Nam phối hợp với Cục An toàn Thông tin (Bộ Thông tin và Truyền thông) và Sở Thông tin và Truyền thông TP.HCM đồng tổ chức, dưới sự bảo trợ của UBND TP.HCM.
+
+Tại buổi họp báo ngày 3/8, bà Võ Thị Trung Trinh, Phó giám đốc Sở Thông tin và Truyền thông TP.HCM, cho biết thời gian gần đây, những mặt tiêu cực của các công nghệ mới làm ảnh hưởng nhiều đến công tác đảm bảo an toàn thông tin, do vậy cần sự chung tay của cả cộng đồng, gồm các hiệp hội, doanh nghiệp…
+
+Theo ông Ngô Vi Đồng, Phó Chủ tịch VNISA, Chủ tịch VNISA phía Nam, năm 2023 được đánh dấu bằng sự tăng tốc của xu hướng chuyển đổi số - quá trình này dẫn đến những chiến lược mới, những công nghệ mới và cả những rủi ro mới.
+
+Lĩnh vực an toàn thông tin cũng đã có nhiều ứng dụng AI/ML nhưng chưa bao giờ xã hội chứng kiến một làn sóng ồ ạt hay trào lưu tương tự như ChatGPT vào tháng 11/2022. Sau đó, những ứng dụng về hỏi đáp thông tin, ứng dụng chuyển đổi văn bản (text) sang giọng nói, hình ảnh cũng phát triển nhanh chóng.
+
+“Ngay khi cộng đồng còn chưa kịp nắm bắt thông tin và chưa có sự đề phòng thì tin tặc đã tận dụng công nghệ mới để lừa đảo trục lợi, trở thành một vấn đề nổi cộm đáng quan ngại. Rõ ràng việc triển khai một công nghệ, dịch vụ mới trên không gian mạng, bên cạnh những hiệu quả và tiện ích mang đến, cần cảnh giác khả năng công nghệ bị khai thác để lừa đảo. Việc nâng cao nhận thức cho người dân là cần thiết”, Phó Chủ tịch VNISA Ngô Vi Đồng cho hay.
+
+Năm nay, bên cạnh những vấn đề truyền thống của an toàn thông tin như mã độc, kiến trúc Zero-Trust, điện toán đám mây, hệ thống giám sát phát hiện sự cố và ứng dụng xử lý tự động, huấn luyện đội ngũ kỹ sư an toàn thông tin, bảo vệ dữ liệu..., sự kiện còn tập trung vào những vấn đề mới, cấp thiết như bảo vệ hệ thống công nghiệp và hạ tầng trọng yếu, ứng dụng AI/ML trong một số lĩnh vực như thị giác máy tính, phát hiện mã độc, lừa đảo công nghệ cao...
+
+Khảo sát an toàn thông tin 2023 của Chi hội VNISA phía Nam, cho biết 69% ý kiến khảo sát cho biết tổ chức có đơn vị/bộ phận chuyên trách về an toàn thông tin. Tuy nhiên, 37% ý kiến cho rằng, số nhân sự cho bộ phận này còn chưa nhiều (1-2 người).
+
+So với nhu cầu thực tế, chương trình đào tạo, tập huấn về an toàn thông tin thì khoảng 50% tổ chức cần triển khai các chương trình đào tạo cho nhóm chuyên gia quản lý an toàn thông tin (chiếm 49,1%); Đào tạo các kỹ thuật phòng thủ, chống tấn công (48,3%); Đào tạo các kỹ thuật bảo vệ an toàn hệ thống và ứng dụng (51,3%); Nhóm chuyên gia kỹ thuật kiểm tra, đánh giá an toàn thông tin đều có nhu cầu lớn (53,2%).
+
+Trong khi đó, chỉ có 47% khảo sát cho biết tổ chức có dành chi phí cho kế hoạch đào tạo và tập huấn, trong đó, 17% khảo sát cho biết mức chi phí này từ 100 triệu đồng trở lên.
+
+Ngoài ra, 92% khảo sát cho biết tổ chức có tuyên truyền, phổ biến nâng cao nhận thức của người sử dụng về an toàn thông tin, chủ yếu thông qua các hình thức như đào tạo nâng cao nhận thức tập trung (43% khảo sát); Đưa việc bảo đảm an toàn thông tin vào các quy định chung của tổ chức (51% khảo sát); Nâng cao nhận thức về an toàn thông tin cho cán bộ nhân viên (61%).
+
+Đặc biệt, tỷ lệ kinh phí đầu tư cho an toàn thông tin trong tổng nguồn vốn đầu tư dành cho công nghệ thông tin như sau: Có 29% khảo sát cho biết chi phí này chiếm trên 5% chi phí công nghệ thông tin. Kết quả này cao hơn so với khảo sát năm 2022, và là dấu hiệu tích cực trong việc các tổ chức đầu tư nhiều hơn cho an toàn thông tin. Tuy nhiên, có 24% khảo sát cho rằng chi phí đầu tư cho an toàn thông tin chưa đến 5% chi phí công nghệ thông tin của đơn vị.
+
+Theo đánh giá của VNISA phía Nam, các đơn vị đã tăng cường việc ghi nhận các hành vi bị tấn công (có 46% ý kiến khảo sát năm 2022, và tăng lên 61% ý kiến khảo sát năm 2023).
+
+Việc phòng chống tin tặc (hacker) và có khả năng nhận dạng tấn công của tin tặc là trọng yếu của an toàn thông tin. Phần lớn ý kiến cho rằng đối tượng đáng lo ngại nhất là tội phạm máy tính như hacker 54,4% (khảo sát năm 2022) và 52% (khảo sát năm 2023).

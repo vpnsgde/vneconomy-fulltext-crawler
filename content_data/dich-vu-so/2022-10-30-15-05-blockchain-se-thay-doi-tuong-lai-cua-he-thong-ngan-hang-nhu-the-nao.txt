@@ -1,0 +1,33 @@
+Ông Phan Đức Trung, Phó Chủ tịch Thường trực Hiệp hội Blockchain Việt Nam, trong một hội thảo “cơ hội, thách thức ứng dụng Blockchain vào vận hành trong ngành tài chính ngân hàng" mới đây có đưa ra 7 xu hướng ứng dụng Blockchain trong lĩnh vực tài chính ngân hàng.
+
+Cụ thể, xu hướng thứ nhất là Smart contract (hợp đồng thông minh). Smart contract duy trì trách nhiệm giải trình thông qua việc tự động giám sát tài liệu, gồm các câu lệnh if-then được mã hóa trên sổ cái Blockchain. Khi các điều kiện trong hợp đồng được đáp ứng thì thuật toán sẽ tự thực hiện kết quả được chỉ định. Lợi ích của hợp đồng thông minh là tính minh bạch, mang đến hiệu quả cao, giảm chi phí và quá trình trung gian.
+
+Xu hướng thứ hai là ICO (quá trình gọi vốn). Quy trình phát hành tiền mã hóa lần đầu (ICO) tương tự như quy trình phát hành cổ phiếu lần đầu ra công chúng (IPO) nhưng chưa được pháp luật quy định. Theo ông Trung, ICO đầu tiên xuất hiện vào năm 2013 do nhóm đằng sau tiền mã hóa Mastercoin tiến hành. Sau đó, bong bóng ICO năm 2017- 2018 xảy ra khiến chính phủ trên thế giới phải quản lý chặt chẽ hơn.
+
+
+
+ICO cũng đang trở thành phương tiện cho vốn tổ chức, đầu tư mạo hiểm và vốn cổ phần tư nhân. Và các ngân hàng thương mại và đầu tư có thể tham gia vào các ICO với tư cách là đơn vị bảo lãnh và trung gian, như cách họ đang làm với các IPO.
+
+Xu hướng thứ ba là Token được thế chấp bằng tài sản. Token hóa các công cụ tài chính và tài sản vật chất là một xu hướng mới nổi trong thế giới DLT. Tính linh hoạt của Blockchain cho phép chủ sở hữu theo dõi hoạt động của các token. Token được thế chấp bằng tài sản liên kết với một nguồn giá trị riêng biệt. Các token loại này bao gồm: token chứng khoán, token bất động sản, stablecoin, token tiện ích.
+
+Xu hướng thứ tư là NFT (tài sản không thể thay thế). NFT là token đại diện cho một thực thể duy nhất, không thể thay thế, như tác phẩm nghệ thuật, danh tính số..., giá trị của NFT phản ánh giá trị của tài sản được liên kết với nó, nhưng tài sản đó không nhất thiết phải bao gồm bản thân tác phẩm nghệ thuật. Thời gian qua, NFT đã tạo cơ hội cho nhiều nghệ sĩ và nhà sưu tập, mở rộng đối tượng khách hàng tiềm năng trên toàn cầu.
+
+Xu hướng thứ năm là CBDC (tiền điện tử của ngân hàng trung ương). Hiện trên 80% ngân hàng trên thế giới đều nghiên cứu tiền kỹ thuật số của Ngân hàng Trung ương (CBDC). Ngoài Nigeria và Bahamas, chưa có ngân hàng nào công bố CBDC mà hầu hết đang trong giai đoạn thử nghiệm. Ngân hàng Thụy Điển đang phát triển e-krona, Ngân hàng Trung Quốc thí điểm e-CNY.
+
+Xu hướng thứ sáu là Defi (tài chính phi tập trung). Các sản phẩm tài chính phi tập trung có nhiều loại nhưng tất cả đều chia sẻ một tính năng chung, đó là giúp chuyển đổi các sản phẩm tài chính truyền thống thành những biến thể mới không yêu cầu trung gian, như cho phép giao dịch P2P, dùng smart contract để giám sát hoạt động và đảm bảo tính toàn vẹn của các giao dịch. Gần như tất cả các dự án DeFi đều được xây dựng trên Ethereum.
+
+Và xu hướng thứ bảy là Robo-advisor (tư vấn tài chính tự động). Các ứng dụng tự động sử dụng các thuật toán hoặc AI để theo dõi hoạt động tiền mã hóa, phát hiện các tín hiệu cho thấy cơ hội tốt để mua hoặc bán và thông tin đến cho nhà đầu tư, giúp quản lý danh mục đầu tư cũng như giao dịch theo chương trình. Hầu hết các robo-advisor hiện tại được phát triển ở Mỹ hoặc Trung Quốc và vẫn chưa rõ hệ thống hoặc công ty nào sẽ dẫn đầu thị trường.
+
+Theo Hiệp hội Blockchain Việt Nam, công nghệ Blockchain sẽ thay đổi tương lai của hệ thống ngân hàng, thứ nhất, giúp chuyển tiền quốc tế nhanh chóng. Hiện tại, khi chuyển tiền từ quốc gia này sang quốc gia khác, các giao dịch có thể mất nhiều ngày và liên quan đến nhiều bên thứ ba; và một ngân hàng hay các bên đang tính toán cắt giảm giao dịch này do nhiều thủ tục trong khâu xử lý.
+
+Với đặc tính của Blockchain thì cho phép các giao dịch ngang hàng nhanh hơn và đơn giản hơn, hiệu quả hơn cho cả doanh nghiệp và người tiêu dùng quốc tế.
+
+Thứ hai, giúp tăng cường bảo mật và giảm gian lận. Mạng lưới Blockchain được duy trì bởi hàng nghìn máy tính, có nghĩa là không có điểm trung tâm nào mà tin tặc có thể tấn công mạng và thay đổi dữ liệu mà không để lại bằng chứng.
+
+Đặc tính này của Blockchain khiến nó trở nên cực kỳ phù hợp trong bối cảnh toàn cầu hiện nay về tội phạm mạng tràn lan hay các cuộc tấn công ransomware lan rộng, có thể xâm phạm thông tin nhạy cảm và dẫn đến thiệt hại hàng trăm nghìn đô la cho các nạn nhân.
+
+Thứ ba, Blockchain có khả năng giảm đáng kể chi phí dịch vụ ngân hàng và nâng cao chất lượng sản phẩm: Một số tác vụ có thể được tự động hóa khi sử dụng blockchain, chẳng hạn như thanh toán hoặc phát hành các khoản vay.
+
+Thứ tư, giúp giảm thiểu lỗi của con người: Nhiều báo cáo khác nhau cho thấy những sai sót của con người trong công tác kế toán, ghi chép và đối chiếu là một trong những nguyên nhân hàng đầu gây ra gian lận. Bằng cách sử dụng phương pháp tự động ghi lại các giao dịch của Blockchain mà sau này không thể thay đổi được, nhiều quy trình thủ công sẽ được loại bỏ dần, do đó giảm thiểu sai sót của con người, nâng cao hiệu quả và giảm thiểu tác động của các mối đe dọa mạng.
+
+Và thứ năm, Blockchain có thể giúp đẩy nhanh tiến trình cho vay ngang hàng (P2P). Việc cho vay sẽ dần trở nên dễ dàng hơn vì sẽ có các giao dịch được giải quyết ngay lập tức. Điều này có thể giúp tránh các vấn đề như chi tiêu gấp đôi và vỡ nợ. Blockchain cũng có thể giảm thời gian mở tài khoản ngân hàng từ vài ngày xuống còn vài phút.

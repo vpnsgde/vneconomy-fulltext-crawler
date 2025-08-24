@@ -1,0 +1,27 @@
+Tờ New York Times trong một bài viết đã cho rằng thành công của DeepSeek chính là minh chứng rõ nhất cho chất lượng giáo dục của Trung Quốc, đã có thể sánh ngang hoặc vượt qua Mỹ.
+
+Trong hàng chục năm qua, Chính phủ Trung Quốc đã đầu tư mạnh vào lĩnh vực giáo dục, đặc biệt là các ngành khoa học và công nghệ, giúp số lượng sinh viên tốt nghiệp mỗi năm tăng gấp 14 lần trong hai thập kỷ qua.
+
+Một số trường đại học Trung Quốc hiện được đánh giá là đẳng cấp của thế giới, chẳng hạn như các trường đại học Thanh Hoa và Bắc Kinh. Không ít nhân viên của DeepSeek cũng xuất thân từ những ngôi trường này.
+
+Giáo sư Yiran Chen từ Đại học Duke nhận xét: “Trung Quốc có rất nhiều nhà nghiên cứu và kỹ sư trẻ tài năng. Về mặt giáo dục, tôi không nghĩ có sự chênh lệch lớn giữa Trung Quốc và Mỹ trong lĩnh vực AI”.
+
+Một số dữ liệu gần đây cũng cho thấy Trung Quốc đang rút ngắn khoảng cách về nhân lực công nghệ so với các nước phương Tây. Năm 2020, số sinh viên tốt nghiệp các ngành khoa học, công nghệ, kỹ thuật và toán học (STEM) ở Trung Quốc cao gấp bốn lần so với Mỹ.
+
+Riêng trong lĩnh vực AI, từ năm 2018 đến nay, Trung Quốc đã bổ sung hơn 2.300 chương trình đào tạo đại học, theo báo cáo của MacroPolo–một tổ chức nghiên cứu về Trung Quốc có trụ sở tại Chicago.
+
+MacroPolo cũng phát hiện rằng đến năm 2022, gần một nửa số nhà nghiên cứu AI hàng đầu thế giới từng học tại các trường đại học Trung Quốc, trong khi con số này ở Mỹ chỉ khoảng 18%. Dù phần lớn trong số họ vẫn đang làm việc tại Mỹ, song cũng ngày càng có nhiều người chọn quay về hoặc ở lại Trung Quốc.
+
+Một phần nguyên nhân cũng xuất phát từ việc Mỹ ngày càng thắt chặt chính sách cấp thị thực cho sinh viên Trung Quốc theo học các lĩnh vực nhạy cảm như AI, do lo ngại an ninh quốc gia. Điều này vô tình thúc đẩy nhiều nhân tài AI Trung Quốc trở lại quê nhà, thành lập công ty hoặc làm việc cho các doanh nghiệp trong nước.
+
+Pavel Durov, nhà sáng lập ứng dụng nhắn tin Telegram, từng nhận định môi trường học tập cạnh tranh khốc liệt tại Trung Quốc đã góp phần thúc đẩy sự phát triển của nước này trong lĩnh vực trí tuệ nhân tạo. Ông cảnh báo: "Nếu Mỹ không cải cách hệ thống giáo dục, họ cũng có thể sẽ đánh mất vị thế dẫn đầu về công nghệ vào tay Trung Quốc".
+
+Theo giáo sư Marina Zhang từ Đại học Công nghệ Sydney, chính phủ Trung Quốc đã thúc đẩy mối liên kết chặt chẽ giữa trường đại học và doanh nghiệp so với phương Tây. Nhà nước đã rót vốn mạnh mẽ vào các dự án nghiên cứu và khuyến khích các học giả đóng góp vào các sáng kiến AI quốc gia.
+
+Đến nay, lĩnh vực AI ở Trung Quốc phần nào đã tránh được tình trạng chảy máu chất xám, nhờ vào sự ủng hộ của chính phủ, theo lời Giáo sư Yanbo Wang từ Đại học Hồng Kông, người nghiên cứu về tinh thần khởi nghiệp công nghệ ở Trung Quốc.
+
+Ông cho rằng trong tương lai, các startup AI thành công hơn sẽ xuất hiện tại Trung Quốc, do sự đóng góp mạnh mẽ của thế hệ trẻ.
+
+Tuy nhiên, mặc dù có những chính sách tạo điều kiện cho ngành công nghệ phát triển mạnh mẽ, nhưng cũng có những rào cản đối với một số ông lớn trong ngành. Theo nhiều hãng tin, năm 2020, lo ngại mất quyền kiểm soát đối với các tập đoàn công nghệ như Alibaba, Trung Quốc đã thực hiện một chiến dịch siết chặt quy định kéo dài nhiều năm nhằm hạn chế tầm ảnh hưởng của các ông lớn công nghệ.
+
+Liên quan đến vấn đề này, Giáo sư Yanbo Wang cho biết: "Khả năng cạnh tranh AI lâu dài của Trung Quốc không chỉ phụ thuộc vào hệ thống giáo dục STEM mà còn vào cách chính phủ đối xử với các nhà đầu tư và các công ty".

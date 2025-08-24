@@ -1,0 +1,23 @@
+Hội thảo nằm trong khuôn khổ hợp tác giữa TP.HCM và Ngân hàng Thế giới (World Bank) về chuyển đổi số, kết hợp với kinh nghiệm thành công của Singapore.
+
+Phó Giám đốc Sở Thông tin và Truyền thông TP.HCM Võ Thị Trung Trinh, cho biết TP.HCM xác định dữ liệu là một trong những yếu tố then chốt để thúc đẩy quá trình chuyển đổi số của Thành phố cũng như của Việt Nam. Hiện nay, để thúc đẩy công cuộc chuyển đổi số cũng như triển khai đô thị thông minh, TP.HCM đã tập trung tạo lập, chia sẻ và quản trị dữ liệu của Thành phố sao cho hiệu quả nhất.
+
+“Do đó, TP.HCM rất mong muốn các tổ chức quốc tế, các chuyên gia trong và ngoài nước cùng góp sức xây dựng Thành phố thông minh. Những kinh nghiệm thực tế trong việc quản trị dữ liệu từ các cơ quan của Singapore sẽ hỗ trợ và là bài học, kinh nghiệm cho TP.HCM cũng như Đà Nẵng, Thừa Thiên Huế trong việc triển khai quản trị dữ liệu, xây dựng chính quyền số”, bà Trinh khẳng định.
+
+Theo ông Kai Bin Lai, Phó giám đốc Chính sách dữ liệu, Quốc gia thông minh và Văn phòng Chính phủ số Singapore (PMO), việc sử dụng dữ liệu và đặc biệt chia sẻ dữ liệu ngày càng quan trọng. Văn phòng Dữ liệu Chính phủ cho phép chia sẻ và sử dụng dữ liệu an toàn trên toàn Singapore để khai thác sức mạnh của dữ liệu, cải thiện các chính sách và dịch vụ cho công dân. Điều này bao gồm kiến trúc dữ liệu của Chính phủ cung cấp cho các công chức quyền truy cập vào dữ liệu chất lượng, nhanh chóng và an toàn.
+
+Từ tháng 5/2017, Singapore đã thành lập Tổ chức Chính phủ Điện tử và Quốc gia Thông minh (SNDGG) trực thuộc văn phòng Thủ tướng. Theo đó, quốc gia thông minh sẽ bao gồm 03 trụ cột chính: (1) Chính phủ số bao gồm các dịch vụ chính phủ tích hợp và liền mạch, cung cấp thông tin hữu ích hơn cho công tác hoạch định chính sách và vận hành; (2) Xã hội số thúc đẩy hòa nhập số và tăng cường tham gia vào xã hội số, thúc đẩy tinh thần tích cực và cơ hội; (3) Kinh tế số chuyển đổi số các ngành để nâng cao hiệu quả hoạt động, tạo việc làm và cơ hội mới.
+
+Tham vọng của Singapore là xây dựng một Chính phủ với châm ngôn số hóa toàn diện, phục vụ tận tâm; phát triển dịch vụ tập trung vào các bên liên quan để đáp ứng nhu cầu của người dân và doanh nghiệp; Giao dịch với Chính phủ số sẽ liền mạch và an toàn. Từ đó, cán bộ công chức sẽ có thể liên tục nâng cao kỹ năng, thích nghi với các thử thách mới và làm việc hiệu quả với các bên liên quan.
+
+“Khối lượng dữ liệu tăng trưởng theo cấp số nhân, sự xuất hiện của các công cụ mới và năng lực tính toán vượt trội mang đến những cơ hội to lớn để Chính phủ sử dụng dữ liệu hiệu quả và sâu rộng hơn. Tuy nhiên, điều này chỉ khả thi khi có các khung quản lý dữ liệu và bảo vệ dữ liệu chặt chẽ, kèm theo sự hỗ trợ của văn bản pháp luật, hướng dẫn nội bộ và các biện pháp bảo vệ kỹ thuật”, ông Kai Bin Lai cho hay.
+
+Ông Yeong Zee Kin, Giám đốc điều hành Học viện Luật pháp Singapore, Ủy viên Ủy ban Bảo vệ Dữ liệu Cá nhân (PDPC) Singapore, đã giới thiệu đề xuất Khung Bảo vệ dữ liệu cá nhân ASEAN (2016) và Khung Quản trị Dữ liệu Số (2018).
+
+Theo đó, Khung Quản lý dữ liệu ASEAN sẽ giúp quản trị và bảo vệ dữ liệu xuyên suốt vòng đời, hệ sinh thái dữ liệu. Cụ thể bao gồm 6 hoạt động: Quản trị và giám sát; Chính sách và văn bản thủ tục; Kiểm kê dữ liệu; Đánh giá rủi ro/tác động; Kiểm soát; Giám sát và cải tiến liên tục. Các yếu tố này sẽ giúp tạo điều kiện chia sẻ dữ liệu đáng tin cậy và xác định mức độ bảo vệ phù hợp đối với các loại dữ liệu khác nhau.
+
+Đối với Khung chia sẻ dữ liệu tin cậy, tạo điều kiện chia sẻ dữ liệu trong nền kinh tế nội địa, thúc đẩy việc chia sẻ dữ liệu tin cậy giữa các doanh nghiệp và các bên liên quan bằng cách cung cấp một "phương tiện chia sẻ dữ liệu" chung.
+
+Về việc bảo vệ dữ liệu, cần xác định mức độ bảo vệ phù hợp đối với từng loại dữ liệu. Chẳng hạn có thể tìm hiểu: Tại sao doanh nghiệp lại thu thập, sử dụng và lưu trữ dữ liệu này? Truy cập dữ liệu như thế nào? Đang truy cập loại dữ liệu nào (dữ liệu cá nhân hay doanh nghiệp)? Dữ liệu được lưu trữ ở đâu? Ai là nhân viên và bộ phận chịu trách nhiệm về dữ liệu này trong doanh nghiệp?
+
+Ông Yeong Zee Kin giải thích, cần đảm bảo trách nhiệm giải trình thông qua kế hoạch quản lý vi phạm dữ liệu, hướng dẫn về quản lý và thông báo vi phạm dữ liệu theo Đạo luật Bảo vệ Dữ liệu Cá nhân (PDPA). Nếu thực hành tốt các thông lệ này sẽ giúp các tổ chức xác định và chuẩn bị ứng phó trong trường hợp xảy ra vi phạm dữ liệu bằng kế hoạch quản lý vi phạm dữ liệu và những cân nhắc chính cho các tổ chức trong ứng phó với vi phạm dữ liệu.

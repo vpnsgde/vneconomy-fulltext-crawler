@@ -1,0 +1,21 @@
+Chỉ mất 22 phút từ khi các lỗ hổng mới được công khai những kẻ tấn công đã có thể khai thác thành công. Đây là một trong những lưu ý quan trọng trong nghiên cứu của Cloudflare (công ty cung cấp mạng phân phối nội dung, dịch vụ bảo mật Internet và các dịch vụ phân phối máy chủ tên miền của Mỹ) về các mối đe dọa.
+
+Cloudflare lưu ý những kẻ tấn công sẽ nhắm tới những mục tiêu dễ dàng nhất trước tiên, có nghĩa là các lỗ hổng cũ, đã biết.
+
+Báo cáo này cũng tiết lộ gần 7% lưu lượng truy cập Internet vào năm 2024 là độc hại. Các cuộc tấn công từ chối dịch vụ phân tán (DDoS) là một trong những cuộc tấn công phổ biến và nguy hiểm nhất. Đây là một sự cố bảo mật làm cho website của người dùng cạn kiệt tài nguyên và mất khả năng truy cập.
+
+Chỉ trong quý đầu tiên của năm 2024, Cloudflare đã chặn được 4,5 triệu cuộc tấn công DDoS. Tuy nhiên, vấn đề không chỉ là về số lượng lớn các cuộc tấn công DDoS. Mức độ tinh vi của các cuộc tấn công này cũng ngày càng gia tăng.
+
+Cloudflare cho biết các cuộc tấn công như vậy ngày càng gia tăng, cả về tần suất và mức độ phức tạp. Động cơ của các cuộc tấn công DDoS khi nhắm mục tiêu các tổ chức là nhằm gây thiệt hại tài chính và nhắm mục tiêu vào các tổ chức quốc gia vì lý do chính trị.
+
+Ví dụ, một cuộc tấn công gần đây đã nhắm vào các trang web của chính phủ Pháp do nhóm hacker Nga Anonymous Sudan điều phối. Cuộc tấn công này đã ảnh hưởng đến hàng nghìn địa chỉ IP và ảnh hưởng đến nhiều trang web của chính phủ khiến người dùng không thể truy cập.
+
+Khoảng 38% trong số tất cả các yêu cầu xử lý vấn đề kết nối giữa máy chủ của doanh nghiệp và máy khách hàng cần được Cloudflare xử lý, liên quan đến lưu lượng truy cập tự động của bot. Cloudflare báo cáo 93% trường hợp được phát hiện là gây hại.
+
+Thuật ngữ bot không nhất thiết phải tốt hay xấu, tất cả phụ thuộc vào mục đích của bot. Một số bot tốt vì thực hiện một số dịch vụ cần thiết, chẳng hạn như chatbot chăm sóc khách hàng hay chatbot có khả năng thu thập thông tin giống như một công cụ tìm kiếm.
+
+Trong khi đó, bot cũng có thể là một mã độc được phân tán nhằm mục đích giảm hiệu suất của trang web, làm suy giảm trải nghiệm người dùng bằng cách gửi tin nhắn rác hoặc quảng cáo, khiến người dùng khó sử dụng trang web hoặc dịch vụ; thu thập dữ liệu từ trang web mà không được phép, làm chậm trang web hoặc làm hỏng dữ liệu.
+
+Cuối cùng, báo cáo của Cloudflare nhấn mạnh tầm quan trọng ngày càng tăng của bảo mật giao diện lập trình ứng dụng (API). Với 60% lưu lượng truy cập web động hiện có liên quan đến API và vì vậy các giao diện này là mục tiêu hàng đầu của những kẻ tấn công. Lưu lượng truy cập API đang tăng nhanh gấp đôi so với lưu lượng truy cập web truyền thống.
+
+Trong khi đó, điều đáng lo ngại là nhiều tổ chức thậm chí không biết đến 1/4 điểm cuối API của họ. Và đây chính là cơ hội cho những kẻ tấn công. Trung bình, một ứng dụng doanh nghiệp sử dụng 47 tập lệnh của bên thứ ba và kết nối với gần 50 điểm đến của bên thứ ba, với mỗi kết nối đều tiềm ẩn một rủi ro.

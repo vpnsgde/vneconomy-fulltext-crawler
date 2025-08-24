@@ -1,0 +1,37 @@
+Phần mềm Quản lý tài sản công là phần mềm do Bộ Tài chính xây dựng nhằm ứng dụng công nghệ thông tin hỗ trợ Bộ Tài chính, các bộ, cơ quan trung ương, ủy ban nhân dân cấp tỉnh tin học hóa quá trình báo cáo kê khai tài sản công; đồng thời, theo dõi tình hình biến động, tình hình khai thác, xử lý các loại tài sản công phải báo cáo kê khai vào phần mềm.
+
+Thông tư quy định tài sản công cập nhật thông tin vào phần mềm gồm: tài sản công tại cơ quan nhà nước, đơn vị sự nghiệp công lập, cơ quan Đảng Cộng sản Việt Nam, Mặt trận Tổ quốc Việt Nam, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp, tổ chức khác được thành lập theo quy định của pháp luật về hội; tài sản phục vụ hoạt động của các dự án sử dụng vốn nhà nước; tài sản được xác lập quyền sở hữu toàn dân.
+
+Việc quản lý, sử dụng, khai thác phần mềm theo quy định tại thông tư này không áp dụng đối với tài sản công của cơ quan Việt Nam ở nước ngoài; tài sản công tại đơn vị lực lượng vũ trang nhân dân.
+
+Về quản lý về nghiệp vụ, thông tư hướng dẫn rõ Bộ Tài chính (Cục Quản lý công sản) có trách nhiệm xây dựng yêu cầu về nghiệp vụ báo cáo kê khai tài sản công phù hợp với quy định của pháp luật về quản lý, sử dụng tài sản công trong từng thời kỳ làm cơ sở để xây dựng, nâng cấp phần mềm.
+
+Đồng thời, tạo lập, duyệt tài khoản của đơn vị quy định tại điểm a khoản 1 Điều 8 Thông tư này; duyệt tài khoản của đơn vị được phân cấp nhập dữ liệu quy định tại điểm b, điểm c khoản 1 Điều 8 Thông tư này trên cơ sở đề nghị bằng văn bản của cơ quan tài chính các bộ, cơ quan trung ương, Sở Tài chính.
+
+Bên cạnh đó, tổ chức tập huấn, hỗ trợ cơ quan tài chính các bộ, cơ quan trung ương, sở tài chính thực hiện nhập, duyệt, chuẩn hóa dữ liệu trong phần mềm; khai thác, sử dụng thông tin trong phần mềm và các nghiệp vụ liên quan khác.
+
+Cùng với đó, hướng dẫn, kiểm tra, đôn đốc cơ quan tài chính các bộ, cơ quan trung ương, sở tài chính thực hiện việc nhập, duyệt, chuẩn hóa dữ liệu trong phần mềm; phối hợp với các cơ quan có liên quan xử lý các vấn đề liên quan trong trường hợp phát sinh thay đổi chỉ tiêu quản lý tài sản công trong phụ lục I, phụ lục II ban hành kèm theo thông tư này.
+
+"Tiếp nhận, xử lý nhu cầu kết nối của các bộ, cơ quan trung ương, ủy ban nhân dân cấp tỉnh; hướng dẫn các yêu cầu nghiệp vụ phát sinh trong quá trình kết nối dữ liệu để báo cáo cấp có thẩm quyền quyết định việc kết nối dữ liệu của bộ, cơ quan trung ương, ủy ban nhân dân cấp tỉnh vào phần mềm", Thông tư số 48 nêu rõ.
+
+Còn các bộ, cơ quan trung ương, ủy ban nhân dân cấp tỉnh chỉ đạo việc nhập, duyệt, chuẩn hóa dữ liệu tài sản công thuộc phạm vi quản lý; đảm bảo và chịu trách nhiệm về tính logic, thống nhất, đầy đủ, kịp thời, bảo mật của dữ liệu tài sản công của bộ, cơ quan trung ương, tỉnh, thành phố trực thuộc trung ương trong phần mềm.
+
+Về khai thác, sử dụng thông tin trong Phần mềm Quản lý tài sản công, Thông tư số 48 quy định việc khai thác, sử dụng thông tin trong phần mềm thực hiện theo quy định tại Điều 114 Nghị định số 151/2017/NĐ-CP và văn bản sửa đổi, bổ sung (nếu có).
+
+Bộ Tài chính có quyền khai thác, sử dụng thông tin về tài sản công trên phạm vi cả nước trong phần mềm; bộ, cơ quan trung ương, ủy ban nhân dân cấp tỉnh, các đơn vị được phân cấp nhập dữ liệu có quyền khai thác, sử dụng thông tin về tài sản công thuộc phạm vi quản lý trong phần mềm.
+
+
+
+Thông tin khai thác từ phần mềm được sử dụng để phục vụ công tác lập kế hoạch (ngắn hạn, dài hạn), công tác chỉ đạo, điều hành, báo cáo, phân tích dự báo của Chính phủ, của Bộ Tài chính và cơ quan nhà nước có thẩm quyền.
+
+Thông tin khai thác từ phần mềm được sử dụng để phục vụ công tác lập kế hoạch (ngắn hạn, dài hạn), công tác chỉ đạo, điều hành, báo cáo, phân tích dự báo của Chính phủ, của Bộ Tài chính và cơ quan nhà nước có thẩm quyền; thực hiện báo cáo tình hình quản lý, sử dụng tài sản công theo quy định của pháp luật về quản lý, sử dụng tài sản công.
+
+Bên cạnh đó, thông tin khai thác từ phần mềm làm căn cứ để lập dự toán, xét duyệt quyết toán, quyết định, kiểm tra, kiểm toán, thanh tra, giám sát việc giao đầu tư xây dựng, mua sắm, thuê, khoán kinh phí sử dụng tài sản công, nâng cấp, cải tạo, sửa chữa, khai thác, xử lý tài sản công.
+
+Bộ, cơ quan trung ương, ủy ban nhân dân cấp tỉnh quyết định việc phối hợp cung cấp thông tin để kiểm tra, đối chiếu kết quả đăng nhập dữ liệu tài sản công vào phần mềm và sử dụng thông tin lưu giữ trong phần mềm vào các mục đích được quy định tại khoản 4 Điều này.
+
+
+
+Theo Bộ Tài chính, cơ sở dữ liệu quốc gia về tài sản công vẫn chưa bao quát hết các loại tài sản công theo quy định của Luật Quản lý, sử dụng tài sản công năm 2017. Đến cuối năm 2021, cơ sở dữ liệu quốc gia mới chỉ phản ánh được trên 5% tổng tài sản công, do đó, việc cung cấp số liệu để nghiên cứu, đánh giá, xây dựng chính sách về quản lý tài sản công gặp nhiều hạn chế.
+
+Sau đó, từ ngày 15/1/2022, Bộ Tài chính chính thức triển khai hệ thống Cơ sở dữ liệu quốc gia về tài sản công sau khi đã được nâng cấp gồm: phần mềm quản lý tài sản công và kho cơ sở dữ liệu quốc gia về tài sản công.

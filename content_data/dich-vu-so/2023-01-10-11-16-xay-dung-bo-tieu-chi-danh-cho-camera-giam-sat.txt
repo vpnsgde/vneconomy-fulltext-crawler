@@ -1,0 +1,31 @@
+Trên thị trường Việt Nam hiện nay, hàng triệu camera giám sát đã được triển khai sử dụng. Do phần lớn các thiết bị này chưa được quản lý nên tiềm ẩn nhiều nguy cơ bảo mật có thể bị khai thác nhằm phục vụ các hành vi vi phạm pháp luật, như: thu thập trái phép dữ liệu, thông tin của cơ quan, tổ chức, người dùng cho các mục đích lừa đảo, chiếm đoạt tài sản; chiếm quyền điều khiển thiết bị và sử dụng cho các cuộc tấn công mạng, phát tán phần mềm độc hại...
+
+Camera là một thành phần quan trọng không thể thiếu trong hệ thống chính phủ điện tử, chính quyền số và thành phố thông minh, giúp giám sát giao thông, an ninh trật tự...
+
+Nhu cầu thị trường camera thông minh phục vụ cho các hộ gia đình, tòa nhà và cho các đơn vị tổ chức cũng như phục vụ công tác giám sát quản lý xã hội rất lớn. Theo thống kê của B&Company Vietnam, thị trường camera tại Việt Nam có tốc độ phát triển nhanh nhất trong khu vực với tỷ lệ tăng trưởng lũy kế hàng năm ước đạt 8,6% trong giai đoạn 2020-2026.
+
+Số lượng camera nhập khẩu năm 2021 ước tính lên tới 5 triệu chiếc, chỉ đứng sau smartphone. Nhu cầu về camera tại thị trường Việt Nam sẽ bùng nổ trong vài năm tới, đặc biệt khi Chính phủ và các doanh nghiệp đang đẩy mạnh quá trình chuyển đổi số cũng như xu hướng phát triển của đô thị thông minh, nhu cầu giám an ninh trong các gia đình.
+
+The Statista cho hay trên thị trường camera thế giới, camera hạ tầng chiếm 40% thị phần; camera thương mại là 30% và 15% thuộc về camera gia đình. Tại Việt Nam phổ biến chủ yếu là camera gia đình và thương mại (doanh nghiệp).
+
+Quy mô thị trường camera ở Việt Nam đạt khoảng 2 camera/100 người. Tỷ lệ này còn thấp so với các quốc gia phát triển trên thế giới. Ở Mỹ và Trung Quốc, tỷ lệ này là 15 camera/100 dân.
+
+Tuy nhiên, một thực tế là hơn 90% thị phần camera tại Việt Nam là camera xuất xứ nước ngoài, chủ yếu từ Trung Quốc. Thậm chí một số dòng camera hoạt động theo cơ chế cloud kết nối với server đặt tại nước ngoài và người dùng ở Việt Nam phải đi "vòng" qua server này trước khi kết nối vào camera của mình.
+
+Theo các chuyên gia, các sản phẩm camera đang dịch chuyển qua xu thế tương tác trực tiếp với người dùng thông qua ứng dụng di động, thông tin được đẩy lưu trữ trên đám mây (cloud). Việc thông tin đi vòng qua cloud của các hãng đặt ở nước ngoài là một rủi ro về an toàn thông tin. Việc truyền và lưu trữ thông tin cá nhân qua một bước trung gian khi không có các cơ chế bảo mật sẽ gây rủi ro khi người dùng không biết server bị tấn công, khai thác hay kiểm soát thế nào. Thông tin cá nhân, các hành vi riêng tư có thể bị công khai khi kênh truyền bị chặn hoặc server bị tấn công.
+
+Ngoài ra, không loại trừ các thông tin cá nhân sẽ bị khai thác mà không có sự xin phép. Điều này rất nguy hiểm về bảo mật an toàn thông tin. Camera là một phần của Internet vạn vật (IoT), nếu một cuộc tấn công mạng xảy ra, hacker có thể sử dụng những camera này như một phần của cuộc chiến. Với số lượng camera rất lớn như hiện nay, điều này sẽ rất nguy hiểm.
+
+
+
+Cũng theo các chuyên gia, IP camera là một thiết bị có vi xử lý, có hệ điều hành, hoạt động như một máy tính kết nối Internet, có khả năng bị điều khiển từ xa. Do vậy có nhiều rủi ro nguy cơ về bảo mật thông tin cho người dùng, đặc biệt khi thiết bị được kết nối trực tiếp với máy chủ ở nước ngoài.
+
+Ông Nguyễn Việt Bằng, Phó Tổng giám đốc VNPT Technology, cho hay camera không rõ nguồn gốc có thể có những lỗ hổng bảo mật do vô tình hoặc cố ý, phần mềm cài trên camera có thể chủ động gửi thông tin ra bên ngoài, hoặc “mở cửa” cho truy nhập từ bên ngoài. Khi camera bị cài đặt các phần mềm có mục đích xấu, có thể dò quét/truy nhập các thiết bị khác trong gia đình thông qua mạng nội bộ (wifi, cắm dây) nhằm thu thập thông tin nhạy cảm. Thông tin gửi đi không chỉ là thông tin video từ camera, mà có thể còn có các thông tin cá nhân của người dùng trong mạng nội bộ gia đình, cơ quan, doanh nghiệp do camera thu thập được.
+
+Ngoài ra khi bị điều khiển từ xa, camera có thể được huy động cùng lúc với số lượng rất lớn để thực hiện tấn công DDoS vào các trang web, mạng cơ quan nhà nước. Thực tế trên thế giới và cả Việt Nam đã có nhiều cuộc tấn công như vậy.
+
+Theo ông Khương Duy, Giám đốc Trung tâm Camera của Viettel High Tech, các camera hiện nay đều có mic như tai nghe, cảm biến ảnh như mắt nhìn, có thể chủ động quay 360 độ. Việc duy trì kết nối server ở nước ngoài chỉ cần một thay đổi nhỏ về phần mềm thì toàn bộ số cam trên trở thành một hệ thống tai mắt quan sát do thám khổng lồ.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 2 phát hành ngày 9-1-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

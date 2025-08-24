@@ -1,0 +1,41 @@
+Ông Trần Đăng Khoa, Phó Cục trưởng Cục An toàn thông tin (Bộ Thông tin và Truyền thông), cho rằng theo Luật An toàn thông tin mạng, việc bảo đảm an toàn thông tin mạng là yêu cầu “bắt buộc, không phải là yếu tố để lựa chọn”. Bảo đảm an toàn thông tin mạng vừa là bảo vệ tổ chức, nhưng cũng là trách nhiệm của tổ chức. Nếu không tuân thủ, tổ chức sẽ phải đối mặt với rủi ro và chịu trách nhiệm trước pháp luật khi xảy ra sự cố.
+
+Năm 2023, lĩnh vực an toàn thông tin mạng ghi nhận nhiều kết quả tích cực. Cụ thể, doanh thu lĩnh vực an toàn thông tin mạng ước đạt 5.522 tỷ đồng, tăng 20% so với cùng kỳ năm 2022 (4.062 tỷ đồng).
+
+Tổng số tiền nộp ngân sách nhà nước của doanh nghiệp hoạt động an toàn thông tin mạng đạt 322,3 tỷ đồng, tăng 38,68% so với năm 2022. Tổng số lao động của doanh nghiệp hoạt động trong lĩnh vực an toàn thông tin mạng đến nay là 3.866 người, tăng 13% so với cùng kỳ năm 2022.
+
+Số doanh nghiệp hoạt động trong lĩnh vực này cũng không ngừng tăng lên. Đến nay, tổng số doanh nghiệp được cấp phép là 109 doanh nghiệp (3 tập đoàn nhà nước, 69 công ty cổ phần và 34 công ty trách nhiệm hữu hạn).
+
+Trong đó, 74 doanh nghiệp được cấp phép nhập khẩu sản phẩm; 30 doanh nghiệp được cấp phép sản xuất sản phẩm và 80 doanh nghiệp được cấp phép cung cấp dịch vụ. Tổng số hệ thống thông tin trong cơ quan, tổ chức nhà nước là 3.192 hệ thống. Trong đó, 2.074 hệ thống đã được phê duyệt cấp độ an toàn hệ thống thông tin, đạt 65%.
+
+Ngoài các điểm nhấn trên, báo cáo của Bộ Thông tin và Truyền thông cũng cho biết: năm 2023 đơn vị chức năng đã ghi nhận, cảnh báo và hướng dẫn xử lý 12.846 cuộc tấn công mạng, trong đó có: 11.511 cuộc Phishing, 451 cuộc Deface, 884 cuộc Malware, tăng 5,3% so với cùng kỳ năm 2022. Số lượng địa chỉ IP Việt Nam nằm trong các mạng botnet là 456.699 địa chỉ, giảm 4,7% so với năm 2022; đồng thời, đã xử lý 3.478 website lừa đảo, vi phạm pháp luật.
+
+Bên cạnh đó, đã có 3,7 triệu người dân được bảo vệ, không truy cập vào các website lừa đảo trực tuyến, vi phạm pháp luật trên không gian mạng; 17 bộ, ngành, địa phương được hỗ trợ rà soát, triển khai các biện pháp an toàn, an ninh mạng; 4.500 lượt cán bộ chuyên trách an toàn thông tin trong các cơ quan, tổ chức nhà nước, doanh nghiệp được tham gia diễn tập thực chiến.
+
+Bộ Thông tin và Truyền thông cũng đặt mục tiêu cho năm 2024 tiếp tục duy trì thứ hạng của Việt Nam nằm trong top 30 trên thế giới về Chỉ số an toàn, an ninh mạng toàn cầu (GCI) của Liên minh Viễn thông quốc tế (ITU). Tốc độ tăng trưởng doanh thu lĩnh vực an toàn thông tin mạng đạt 20%; tốc độ tăng trưởng chứng thư số công cộng đạt 7-10%...
+
+Đặc biệt, định hướng đến năm 2025, Việt Nam sẽ trở thành “cường quốc an toàn thông tin mạng” với sứ mệnh bảo vệ sự thịnh vượng của Việt Nam trên không gian mạng, tạo niềm tin số, làm chủ hệ sinh thái sản phẩm an toàn thông tin mạng Việt Nam, xây dựng nguồn nhân lực chất lượng cao góp phần xây dựng nền công nghiệp an toàn thông tin mạng hùng mạnh.
+
+Đồng thời, Việt Nam cũng xuất khẩu sản phẩm, dịch vụ an toàn thông tin mạng ra các quốc gia trong khu vực và trên thế giới. Đến năm 2025, tỷ lệ chủng loại sản phẩm, giải pháp an toàn thông tin mạng do doanh nghiệp Việt Nam sản xuất đạt 100%. Tốc độ tăng trưởng doanh thu của doanh nghiệp Việt Nam đạt tối thiểu 20%.
+
+Phó Cục trưởng phụ trách Cục An toàn thông tin cho rằng mặc dù bảo đảm an toàn thông tin mạng vừa là bảo vệ tổ chức nhưng cũng là trách nhiệm của tổ chức; tuy nhiên, nhiều cơ quan chưa nhận thức hoặc nhận thức chưa đầy đủ vấn đề này. Vì vậy, mức độ tuân thủ các quy định về bảo đảm an toàn thông tin của các đơn vị trực thuộc các bộ, ngành, địa phương còn lỏng lẻo, hạn chế, chưa được quan tâm thực hiện đầy đủ.
+
+Theo ông Khoa, dù luật đã quy định, Thủ tướng Chính phủ đã chỉ đạo, Bộ Thông tin và Truyền thông đôn đốc quyết liệt, nhưng đến nay mới có khoảng 63% hệ thống thông tin của các cơ quan, tổ chức nhà nước được phê duyệt cấp độ, tăng thêm gần 10% so với năm 2022. Số lượng lớn trong đó chưa được triển khai đầy đủ phương án bảo đảm an toàn hệ thống thông tin theo cấp độ đã phê duyệt.
+
+Công tác bảo đảm an toàn thông tin theo mô hình “4 lớp” (lực lượng tại chỗ; tổ chức hoặc doanh nghiệp giám sát, bảo vệ chuyên nghiệp; tổ chức hoặc doanh nghiệp độc lập kiểm tra, đánh giá định kỳ; kết nối, chia sẻ thông tin với hệ thống giám sát quốc gia) của các cơ quan vẫn ở mức cơ bản, chưa đáp ứng được đầy đủ yêu cầu để bảo đảm an toàn thông tin.
+
+Lãnh đạo của Cục An toàn thông tin phân tích rằng trên không gian mạng, hệ thống thông tin của tổ chức có thể bị tấn công mạng bất cứ lúc nào, hoặc đã bị tấn công mạng chiếm quyền điều khiển từ trước, nhưng có thể tổ chức chưa nhận ra.
+
+Có một hiện trạng đang diễn ra là một số tổ chức tập trung vào đầu tư rất nhiều cho an toàn thông tin trước những nguy cơ mới, nhưng lại quên rằng còn rất nhiều lỗ hổng, điểm yếu đã biết nhưng chưa được vá trên hệ thống; có thể hệ thống của tổ chức đang bị chiếm quyền điều khiển mà không biết vì kẻ tấn công đang nằm im chờ thời cơ hoặc đang đánh cắp thông tin, bí mật của tổ chức.
+
+“Hãy giải quyết những nguy cơ đã nhận biết, những nguy cơ đang tồn tại trên hệ thống trước khi nghĩ đến việc đầu tư để bảo vệ mình trước nguy cơ mới”, ông Khoa nhấn mạnh.
+
+Chuyển đổi số tại Việt Nam đang diễn ra mạnh mẽ. Công nghệ số len lỏi vào trong mọi lĩnh vực và hầu hết mọi hoạt động của người dân đang chuyển dần lên mỗi trường số. Quá trình chuyển đổi số cũng như các lợi ích, thuận tiện mà công nghệ số mang lại đang khiến nhiều người quên đi những mặt trái của thế giới mạng.
+
+Ông Ngô Tuấn Anh, Tổng giám đốc Công ty Cổ phần An ninh mạng SCS, cho rằng nhiều người dùng vẫn còn thiếu hiểu biết, coi nhẹ việc đảm bảo an toàn thông tin, trang bị các kiến thức, kỹ năng trên môi trường mạng. Điều này đã vô tình khiến họ trở thành những nạn nhân của các cuộc tấn công lừa đảo đang diễn ra ngày càng phổ biến trên Internet.
+
+Thống kê cho thấy, Việt Nam có 78 triệu người sử dụng Internet, chiếm 79% dân số. Trung bình mỗi người dân Việt Nam dành gần 7 tiếng mỗi ngày để tham gia vào không gian mạng. Tuy nhiên, chỉ có 20% người dùng có cơ hội tiếp cận với các hoạt động nâng cao nhận thức, kỹ năng và công cụ bảo đảm an toàn, an ninh mạng; 80% người dùng chưa được tiếp cận với các kỹ năng và chưa có công cụ để tự bảo vệ mình an toàn trên mỗi trường mạng. Điều này có nghĩa có khoảng hơn 62 triệu người dân có nguy cơ trở thành những nạn nhân của các cuộc tấn công, lừa đảo trên mạng. Đây là một con số rất lớn.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 03-2024 phát hành ngày 15-1-2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

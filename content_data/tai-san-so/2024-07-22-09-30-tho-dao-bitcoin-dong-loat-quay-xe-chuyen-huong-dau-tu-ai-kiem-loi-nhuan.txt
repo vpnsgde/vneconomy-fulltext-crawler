@@ -1,0 +1,23 @@
+Trong một cuộc phỏng vấn gần đây với truyền thông, công ty công nghệ Lancium có trụ sở tại Houston và Công ty Crusoe Energy Systems có trụ sở tại Denver (Mỹ) đã công bố một thỏa thuận trị giá hàng tỷ USD để xây dựng một trung tâm dữ liệu có công suất 200 MW ngay bên ngoài Abilene, bang Texas.
+
+Trung tâm mới được thiết kế để đáp ứng nhu cầu đặc biệt của các công ty trí tuệ nhân tạo (AI). Sự kiện này cũng đánh dấu bước tiến mới của hai ông lớn vốn trước đây đã từng huy động được hàng trăm triệu USD cho cơ sở hạ tầng khai thác Bitcoin.
+
+Giai đoạn đầu tiên của cơ sở Abilene là một phần nhỏ trong kế hoạch mở rộng 1,2 GW lớn hơn. Chủ tịch Lancium Ali Fenn tuyên bố trong một cuộc phỏng vấn rằng một khi đi vào hoạt động đầy đủ, đây sẽ là một trong những cơ sở trung tâm dữ liệu trí tuệ nhân tạo lớn nhất thế giới. Sự phát triển này là bằng chứng mới nhất về làn sóng thay đổi sang đầu tư cơ sở hạ tầng AI và việc khat thác Bitcoin bị bỏ lại phía sau.
+
+Chase Lochmiller, đồng sáng lập và CEO của Crusoe chia sẻ: “Các trung tâm dữ liệu đang phát triển nhanh chóng để hỗ trợ khối lượng công việc AI hiện đại, đòi hỏi không gian cho dữ liệu ở mức độ mới, làm mát bằng chất lỏng trực tiếp trên chip và nhu cầu năng lượng tổng thể lớn chưa từng có”.
+
+Theo một báo cáo nghiên cứu ngày 17 tháng 6 từ ngân hàng JPMorgan, tổng vốn hóa thị trường của 14 công ty khai thác bitcoin lớn được niêm yết tại Mỹ đã đạt mức cao kỷ lục 22,8 tỷ USD vào ngày 15 tháng 6 - tăng thêm 4,4 tỷ USD chỉ sau hai tuần nhờ vào việc chuyển hướng đầu tư.
+
+Bit Digital, một công ty khai thác Bitcoin hiện có khoảng 27% doanh thu từ AI, cho biết vào tháng 6 rằng họ đã ký thỏa thuận với khách hàng để cung cấp GPU Nvidia trong ba năm tại một trung tâm dữ liệu ở Iceland, dự kiến ​​sẽ tạo ra doanh thu hàng năm là 92 triệu USD. Họ đang trả tiền cho các đơn vị xử lý chung một phần bằng cách thanh lý một số khoản nắm giữ tiền điện tử của mình.
+
+Công ty Hut 8 có trụ sở tại Miami, cho biết họ đã huy động được khoản đầu tư 150 triệu USD từ công ty cổ phần tư nhân Coatue để xây dựng danh mục trung tâm dữ liệu cho AI.
+
+Giám đốc điều hành Hut 8, ông Asher Genoot cho rằng công ty của ông đã hoàn tất các thỏa thuận thương mại cho ngành AI của họ theo mô hình GPU dưới dạng dịch vụ, bao gồm cả thỏa thuận khách hàng cung cấp các khoản thanh toán cơ sở hạ tầng cố định cộng với chia sẻ doanh thu.
+
+Bitcoin đã trải qua một sự kiện kỹ thuật quan trọng vào đầu năm nay có tên halving (giảm một nửa Bitcoin). Sự kiện này bên cạnh làm giảm nguồn cung cũng đã giảm một nửa phần thưởng cho việc khai thác Bitcoin mới. Do sự kiện halving, phần thưởng của những người khai thác Bitcoin khi tạo ra Bitcoin đã giảm từ 6,25 Bitcoin xuống còn 3,125 Bitcoin.
+
+Việc giảm một nửa Bitcoin đã được tích hợp vào mã Bitcoin ngay từ đầu để đảm bảo sự khan hiếm và bảo vệ chống lại lạm phát. Tuy nhiên, sau sự kiện này, một số công ty khai thác Bitcoin đang gặp khó khăn trong việc duy trì lợi nhuận khi sử dụng thiết bị khai thác Bitcoin cũ hơn và hiện đang xem xét các cơ hội kinh doanh khác.
+
+Các doanh nghiệp khai thác bitcoin và cơ sở hạ tầng AI có một số điểm tương đồng. Các công ty khai thác Bitcoin vận hành các trung tâm dữ liệu rộng lớn đòi hỏi tiêu thụ năng lượng, tối ưu hóa phần cứng, làm mát và tiến bộ công nghệ.
+
+Khi ngành công nghiệp AI tiếp tục phát triển và đòi hỏi nhiều năng lực hơn cũng như những người khai thác Bitcoin đang tìm kiếm những cách mới để tạo và đa dạng hóa thu nhập, AI trở thành một lựa chọn có vẻ an toàn cho họ.

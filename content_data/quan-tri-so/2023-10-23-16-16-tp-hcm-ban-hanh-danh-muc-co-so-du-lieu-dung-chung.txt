@@ -1,0 +1,11 @@
+UBND TP.HCM vừa ban hành quyết định Danh mục cơ sở dữ liệu dùng chung của TP.HCM. Theo đó, có tới 45 Danh mục cơ sở dữ liệu dùng chung của thành phố được ban hành theo quyết định, như: Cơ sở dữ liệu quản lý cán bộ, công chức, viên chức; Cơ sở dữ liệu đăng ký doanh nghiệp; Cơ sở dữ liệu dự án đầu tư vốn nước ngoài; Cơ sở dữ liệu dự án đầu tư công, Cơ sở dữ liệu hộ kinh doanh; Cơ sở dữ liệu báo cáo tổng hợp về thuế; Cơ sở dữ liệu kết cấu hạ tầng giao thông đường bộ; Cơ sở dữ liệu cấp phép xây dựng; Cơ sở dữ liệu quản lý nhà; Cơ sở dữ liệu quản lý hạ tầng kỹ thuật đô thị…
+
+Sở Thông tin và Truyền thông TP.HCM sẽ là đơn vị chủ trì, phối hợp với các đơn vị liên quan thực hiện tích hợp các cơ sở dữ liệu thuộc Danh mục cơ sở dữ dùng chung của thành phố về Kho dữ liệu dùng chung; Thực hiện công bố tài liệu hướng dẫn kỹ thuật các dịch vụ chia sẻ dữ liệu cho các đơn vị có nhu cầu khai thác và sử dụng trên cổng thông tin dữ liệu TP.HCM tại địa chỉhttp://data.hochiminhcity.goc.vn.
+
+Ngoài ra, Sở Thông tin và Truyền thông TP.HCM cũng tham mưu cho UBND TP.HCM điều chỉnh, bổ sung Danh mục cơ sở dữ liệu dùng chung khi có thay đổi trong quá trình triển khai thực tế.
+
+Theo Quyết định của UBND Thành phố, các đơn vị quản lý cơ sở dữ liệu thuộc Danh mục cơ sở dữ liệu dùng chung TP.HCM có trách nhiệm: Xây dựng, cập nhật quản lý các cơ sở dữ liệu thuộc Danh mục cơ sở dữ liệu dùng chung của thành phố; Phối hợp với Sở Thông tin và Truyền thông TP.HCM trong việc kết nối, chia sẻ dữ liệu về kho dữ liệu dùng chung, xây dựng, công bố các tài liệu hướng dẫn kỹ thuật dịch vụ chia sẻ dữ liệu trên Cổng thông tin dữ liệu TP.HCM.
+
+Bên cạnh đó, các đơn vị quản lý cơ sở dữ liệu sẽ chủ trì, rà soát cơ sở dữ liệu đảm bảo phù hợp với quy định về các cơ sở dữ liệu thuộc thẩm quyền quản lý của bộ, ngành; Đề xuất nội dung cập nhật, điều chỉnh, bổ sung Danh mục cơ sở dữ liệu dùng chung và gửi cho Sở Thông tin và Truyền thông TP.HCM.
+
+Việc ban hành quyết định Danh mục cơ sở dữ liệu dùng chung thể hiện tầm nhìn của TP.HCM là sẽ điều hành nền hành chính của thành phố trên nền tảng số. Năm 2023, Thành phố xác định chủ đề về chuyển đổi số và xây dựng đô thị thông minh là dữ liệu số. Thành phố sẽ tập trung vào các hoạt động phát triển, kết nối, chia sẻ, khai thác, phân tích dữ liệu phục vụ chuyển đổi số, phát triển Chính phủ số, kinh tế số và xã hội số.

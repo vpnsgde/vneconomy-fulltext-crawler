@@ -1,0 +1,31 @@
+Bộ Thông tin và Truyền thông vừa xây dựng và lấy ý kiến góp ý về dự thảo Tiêu chuẩn quốc gia về về trí tuệ nhân tạo - quy trình vòng đời và yêu cầu chất lượng gồm 2 phần (siêu mô hình chất lượng và độ bền vững). Dự thảo tiêu chuẩn do Bộ Thông tin và Truyền thông đề nghị, Tổng cục Tiêu chuẩn Đo lường chất lượng thẩm định, Bộ Khoa học và Công nghệ sẽ công bố.
+
+Công nghệ AI hiện đang phát triển với tốc độ “hàm mũ”, có nhiều đóng góp quan trọng vào sản xuất, kinh doanh, dịch vụ và đời sống con người. Tuy nhiên, AI là một lĩnh vực rất phức tạp và cũng tạo ra nhiều thách thức rất đáng lo ngại. Hiểu biết đúng về AI để nắm bắt đúng và kịp thời các cơ hội và thách thức từ AI là rất cần thiết đối với mỗi con người, mỗi tổ chức và mỗi quốc gia.
+
+Mặc dù cơ hội dành cho AI trong ngành ICT hầu như là vô hạn, nhưng tập trung vào một số cơ hội chính bao gồm AI trong dữ liệu lớn, chatbot, chipset, an ninh mạng, IoT, máy thông minh và người máy.
+
+AI sẽ nâng cao đáng kể hiệu suất của truyền thông, ứng dụng, nội dung và thương mại kỹ thuật số. Công nghệ này cũng sẽ thúc đẩy các mô hình kinh doanh mới và tạo ra các cơ hội kinh doanh hoàn toàn mới.
+
+AI được xem là một trong những công nghệ cốt lõi của Cuộc cách mạng 4.0. Tại Việt Nam, AI đã và đang được ứng dụng mạnh mẽ trong nhiều lĩnh vực như y tế, giáo dục, nông nghiệp, giao thông, thương mại điện tử... Công nghệ AI cũng đã mang lại cho Việt Nam sự phát triển vượt bậc thời gian qua.
+
+Năm 2021, Thủ tướng Chính phủ đã ban hành Quyết định số 127 Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng AI đến năm 2030 trong đó nhấn mạnh quan điểm xác định AI là một lĩnh vực công nghệ nền tảng của cách mạng 4.0, góp phần quan trọng tạo bước phát triển đột phá về năng lực sản xuất, nâng cao năng lực cạnh tranh quốc gia, thúc đẩy phát triển kinh tế tăng trưởng bền vững.
+
+Hiện nay, ngày càng có nhiều người nhận thức được rằng cần có một cách tiếp cận có trách nhiệm đối với AI để đảm bảo việc sử dụng các công nghệ này một cách an toàn, có lợi và hợp lý. Điều này cũng bao gồm nhu cầu xem xét ý nghĩa đạo đức của các quyết định do máy móc đưa ra và xác định tình trạng pháp lý của AI.
+
+Thiết kế, phát triển và sử dụng có trách nhiệm các hệ thống AI có liên quan tối đa đến các ứng dụng AI như phương tiện tự lái, người đồng hành, rô-bốt chăm sóc sức khỏe cũng như các thuật toán xếp hạng và lập hồ sơ, những thứ đã và đang ảnh hưởng đến xã hội hoặc sẽ ảnh hưởng trong một vài năm tới.
+
+Trong tất cả các ứng dụng này, lý luận của AI sẽ có thể tính đến các giá trị xã hội, cân nhắc về đạo đức và luân lý, cân nhắc các ưu tiên tương ứng của các giá trị do các bên liên quan nắm giữ và trong các bối cảnh đa văn hóa khác nhau, giải thích lý do của nó và đảm bảo tính minh bạch.
+
+Theo các chuyên gia, ba lĩnh vực sử dụng chính trong ngành công nghệ thông tin là các ứng dụng do AI điều khiển: đảm bảo chất lượng, quản lý dịch vụ và qự động hóa quy trình. Do vậy, vấn đề tiêu chuẩn hóa AI về “Quy trình vòng đời và yêu cầu chất lượng” được đặt ra nhằm bảo đảm yêu cầu về chất lượng đối với sản phẩm và ứng dụng trí tuệ nhân tạo trong lĩnh vực ICT.
+
+Nghiên cứu cho thấy, hiện nay các tổ chức tiêu chuẩn hóa quốc tế và khu vực trên thế giới đã công bố những tiêu chuẩn kỹ thuật có liên quan tới AI. Tuy nhiên, trong lĩnh vực tiêu chuẩn hóa về AI ở Việt Nam đến nay hầu như vẫn còn trống, chưa có một tiêu chuẩn cụ thể nào. Hiện Việt Nam chỉ có một số tiêu chuẩn có liên quan tới AI.
+
+Các tiêu chuẩn và thông số kỹ thuật có thể góp phần tạo nên một AI an toàn, chất lượng cao, đáng tin cậy và dễ giải thích: Chúng tạo cơ sở cho chủ quyền kỹ thuật, thúc đẩy tính minh bạch và đưa ra định hướng.
+
+Theo dự thảo, mục đích của tiêu chuẩn nhằm thiết lập vòng đời đảm bảo chất lượng và minh bạch của các mô-đun AI. Các tiêu chí chất lượng quan trọng được xác định và các vấn đề AI cụ thể sẽ được giải quyết. Để đạt được điều này, tiêu chuẩn trình bày một tập hợp các yêu cầu chất lượng được cấu trúc trong siêu mô hình chất lượng cụ thể cho AI.
+
+Dự thảo nhấn mạnh, điều quan trọng cần lưu ý rằng không phải tất cả các mô-đun AI đều áp đặt các yêu cầu chất lượng giống nhau. Do đó, tiêu chuẩn này đề xuất sự khác biệt giữa các mô-đun AI liên quan đến tính an toàn, bảo mật, quyền riêng tư và mức độ phù hợp về đạo đức của chúng. An toàn, bảo mật, quyền riêng tư hoặc đạo đức của một mô-đun AI yêu cầu phải xem xét và đáp ứng tất cả các yêu cầu chất lượng, trong khi các yêu cầu này ít nghiêm ngặt hơn, khi không đưa ra mức độ phù hợp này…
+
+Tiêu chuẩn này áp dụng cho tất cả các giai đoạn vòng đời của mô-đun AI từ khái niệm, phát triển, triển khai, vận hành và ngừng hoạt động; đồng thời đề cập đến các quy trình vòng đời khác nhau.
+
+Do thực tế các công nghệ AI được sử dụng cho một phạm vi rộng lớn của các nhiệm vụ khác nhau, nên tiêu chuẩn này không chỉ nhắm đến một lĩnh vực cụ thể mà còn áp dụng cho các công ty và sản phẩm AI trên tất cả các lĩnh vực.

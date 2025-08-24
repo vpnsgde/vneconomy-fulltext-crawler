@@ -1,0 +1,31 @@
+Tái nhiễm lần đầu tiên được đưa vào thống kê tổng quan chính thức về Covid-19 ở Anh, tính ngược trở lại thời điểm bắt đầu đại dịch. Cho đến nay, chỉ những trường hợp nhiễm lần đầu được ghi nhận, nhưng với những biến thể như Omicron tiếp tục xuất hiện, thì việc tái nhiễm sẽ trở nên phổ biến hơn. Từ đó, các quan chức y tế cũng sử dụng một định nghĩa nghiêm ngặt nhưng được khuyến nghị nên sử dụng phổ biến về tái nhiễm, để chỉ ra sự khác biệt giữa các trường hợp có hơn một lần xét nghiệm dương tính với virus SARS-CoV-2.
+
+TÁI DƯƠNG TÍNH VÀ TÁI NHIỄM: LƯU Ý KHI XÉT NGHIỆM
+
+Theo định nghĩa của WHO, tái nhiễm Covid-19 được định nghĩa là tình trạng một người đã bị nhiễm virus SARS-CoV-2, sau khi khỏi bệnh (âm tính hoàn toàn) lại nhiễm virus gây bệnh Covid-19 một lần nữa. Xét nghiệm RT-PCR thường cho kết quả CT thấp hơn 30 ít nhất 2 lần. Khi giải trình tự gene của virus, kết quả cho thấy 2 bộ gene virus ở 2 lần dương tính là khác nhau, bao gồm cả trường hợp giải mã gene ra 2 biến chủng khác nhau. Các xét nghiệm sâu hơn còn cho thấy, khi nuôi cấy, những virus này vẫn còn sống, vẫn đang hoạt động và có thể nhân lên.
+
+Nguyên nhân của trường hợp này là do sau khi khỏi bệnh hoặc sau khi tiêm đủ 2 mũi vaccine phòng ngừa Covid-19, mặc dù cơ thể đã tạo kháng thể chống lại virus gây bệnh, nhưng số lượng kháng thể ở mỗi người là khác nhau. Những người có ít kháng thể, kháng thể không đủ mạnh, bị bệnh nền, cơ địa kém, lại không tuân thủ nghiêm ngặt 5K, thì khi tiếp xúc với F0 do biến chủng mới gây ra, sẽ có nguy cơ cao bị tái nhiễm.
+
+Trong khi đó, tái dương tính Covid-19 là tình trạng người bệnh có kết quả xét nghiệm Covid-19 âm tính – dương tính lẫn lộn nhiều lần trong vòng 90 ngày kể từ lần bị bệnh đầu tiên. Cụ thể hơn, tái dương tính là khi một người bị nhiễm virus SARS-CoV-2, sau quá trình điều trị, test nhanh cho ra kết quả âm tính, nhưng sau vài tuần lại có kết quả xét nghiệm RT-PCR dương tính (thường CT trên 30) dù không có bất kỳ triệu chứng nào của bệnh.
+
+Nguyên nhân của hiện tượng này được cho là do độ nhạy của xét nghiệm RT-PCR rất cao. Đồng thời, vì virus có thể tồn tại trong cơ thể từ vài tuần cho đến vài tháng sau khi khỏi bệnh, nên xét nghiệm này cho ra kết quả dương tính. Tuy nhiên, khi giải trình tự gene virus SARS-CoV-2 của 2 lần dương tính thì cho ra kết quả 2 bộ gene virus giống nhau. Khi đem nuôi cấy, những virus này không còn hoạt động, không có sự nhân lên. Các nhà nghiên cứu khẳng định đây chỉ là các mảnh xác virus còn sót lại.
+
+OMICRON LÀM GIA TĂNG TỶ LỆ TÁI NHIỄM?
+
+Mặc dù tỷ lệ tái nhiễm thấp hơn so với tỷ lệ tái dương tính, sự xuất hiện của các chủng mới có nguy cơ lây nhiễm nhanh khiến tỷ lệ tái nhiễm tăng lên trong thời gian gần đây. Tại New York, Hoa Kỳ, tính đến giữa tháng 2/2022 đã có khoảng 200.000 trường hợp tái nhiễm, chiếm khoảng 4% tổng số ca bị Covid-19.
+
+
+
+Tương tự tại Anh, hơn 650.000 người tại nước này được cho là có thể đã mắc Covid-19 tới 2 lần và phần lớn xảy ra kể từ khi biến thể Omicron được phát hiện. Theo Cơ quan An ninh Y tế Anh, một người bị coi là tái nhiễm nếu như lần mắc sau cách lần mắc trước đó ít nhất 3 tháng. Cho đến giữa tháng 11 năm ngoái, tỷ lệ tái nhiễm chỉ chiếm khoảng 1% trong tổng số các ca mắc, nhưng tỷ lệ này hiện nay là 10%.
+
+Một nghiên cứu khác được tiến hành tại Qatar và được đăng trên Tạp chí Y học New England hồi tháng này cho thấy, mặc dù miễn dịch tạo ra từ lần nhiễm bệnh trước đó có hiệu quả ngăn ngừa tới 90% đối với các biến thể Alpha, Beta hay Delta, nhưng với Omicron chỉ khoảng 56%. "Tình hình hiện nay thực sự khác biệt. Chúng ta đang nói về một loại biến thể với nhiều đặc tính tấn công hệ miễn dịch hơn", Laith Abu-Raddad, chuyên gia dịch tễ học bệnh truyền nhiễm tại trung tâm y khoa Weill Cornell Medicine-Qatar ở Doha nói.
+
+Những nghiên cứu đã chỉ ra rằng, Omicron có thể vượt qua hàng rào miễn dịch tạo ra bởi vaccine. Giờ đây, Abu-Raddad và các chuyên gia khác đang nghiên cứu xem Omicron có thể tấn công các kháng thể sản sinh từ các lần nhiễm virus SARS-CoV-2 trước đó như thế nào. "Xác định tỷ lệ tái nhiễm là điều quan trọng nhằm đánh giá làn sóng lây nhiễm và tiên lượng trước khả năng ứng phó của các bệnh viện," Catherine Bennett- nhà dịch tễ học tại ĐH Deakin ở Melbourne, Australia cho biết.
+
+Theo tờ The Times of India, nhiều dữ liệu nghiên cứu vào năm 2021 cho biết với những người hồi phục sau Covid-19, khả năng miễn dịch của họ có thể kéo dài khoảng 3 tháng đến 1 năm. Tuy nhiên, tiến sĩ S.N Aravinda, chuyên gia tư vấn - nội khoa, Bệnh viện Aster RV Bangalore (Ấn Độ), lưu ý khả năng miễn dịch có thể đã rút ngắn xuống còn 4 - 8 tuần trong thời gian gần đây.
+
+Ông Aravinda cũng nhận định, lý do chính đằng sau việc giảm khả năng miễn dịch là sự xuất hiện của các biến thể Covid-19 khác nhau. Cơ thể liên tục phát triển và thích nghi với môi trường. Khi một người được tiêm vaccine, cơ thể sẽ ghi nhớ mô hình hành vi của virus loại đó và chuẩn bị sẵn sàng để chống lại nó, đây được gọi là trí nhớ miễn dịch. Theo thời gian, trí nhớ này sẽ dần suy giảm.
+
+Trước những thông tin này, WHO đã lên tiếng cảnh báo những người từng mắc Covid-19 vẫn có thể tái nhiễm với biến chủng Omicron và nguy cơ này đang gia tăng trên toàn cầu. Tổng giám đốc Tổ chức Y tế thế giới Tedros Adhanom Ghebreyesus cho rằng, virus vẫn đang lưu hành mạnh và nhiều người vẫn dễ bị tổn thương. Vì thể việc tuân thủ các quy định về phòng chống dịch vẫn rất quan trọng.
+
+“Tôi kêu gọi mọi người cố gắng hết sức để giảm nguy cơ lây nhiễm để giúp giảm bớt áp lực cho hệ thống y tế. Bây giờ không phải là lúc để từ bỏ và vẫy cờ trắng. Chúng ta vẫn có thể giảm thiểu đáng kể tác động của làn sóng tái nhiễm hiện tại bằng cách chia sẻ và sử dụng hiệu quả các công cụ y tế cũng như thực hiện các biện pháp xã hội và sức khỏe cộng đồng đã được chứng minh hiệu quả,” Ông Tedros nói.

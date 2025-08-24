@@ -1,0 +1,9 @@
+Chất bán dẫn là thành phần thiết yếu của vi mạch (chip) được dùng trong hầu như mọi thiết bị điện tử hiện đại. Trong bối cảnh mọi thứ ngày càng trở nên “thông minh” hơn và nhu cầu về thiết bị điện tử ngày càng lớn, nhu cầu về chất bán dẫn đang tiếp tục tăng mạnh.
+
+Hiện tại, Đài Loan, Trung Quốc đại lục và Hàn Quốc chiếm tổng cộng gần 87% thị phần chất bán dẫn toàn cầu. Dưới đây là 10 công ty sản xuất chất bán dẫn lớn nhất thế giới, tập trung chủ yếu tại ba nơi này.
+
+Đây là các công ty chuyên chế tạo hoặc sản xuất chất bán dẫn (gọi là foundry), chuyên nhận thầu sản xuất theo hợp đồng cho những công ty chỉ thiết kế chip mà không sản xuất (gọi là fabless).
+
+Trong đó, TSMC - tên viết tắt Taiwan Semiconductor Manufacturing Company - hiện là nhà sản xuất bán dẫn theo hợp đồng lớn nhất thế giới. Đây cũng là công ty có vốn hóa lớn thứ 6 trên thế giới với hơn 600 tỷ USD. TSMC sản xuất chip cho các công ty công nghệ hàng đầu như Apple, Intel, Nvidia.
+
+TSMC và Samsung hiện là hai công ty duy nhất có khả năng sản xuất con chip tiên tiến 5 nanomet, dùng cho iPhone. Tuy nhiên, TSMC đang tiến tới sản xuất con chip 3 namomet vào năm 2022 với công nghệ tiên tiến hơn. Các công ty sản xuất bán dẫn lớn khác gồm SMIC – công ty chip lớn nhất tại Trung Quốc và là một trong 60 doanh nghiệp Trung Quốc bị Mỹ đưa vào “danh sách đen” hạn chế đầu tư năm 2020.

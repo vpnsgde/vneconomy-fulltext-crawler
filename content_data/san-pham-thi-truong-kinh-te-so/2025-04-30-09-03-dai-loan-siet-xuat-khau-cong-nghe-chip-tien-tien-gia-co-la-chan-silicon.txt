@@ -1,0 +1,19 @@
+Trước đây, các quy định hiện hành của Đài Loan chưa đưa ra yêu cầu cụ thể đối với việc kiểm soát các công nghệ sản xuất chip tiên tiến. Lần điều chỉnh lần này dựa trên Điều 22 của Đạo luật Đổi mới Công nghiệp Đài Loan đã được sửa đổi, dự kiến sẽ chính thức có hiệu lực vào cuối năm 2025.
+
+Tuy nhiên, đáng chú ý TSMC hiện đang sở hữu một trong những công nghệ tiên tiến nhất là N3P, nhưng chỉ trong thời gian ngắn nữa, hãng sẽ bước sang giai đoạn sản xuất chip bằng quy trình N2 – công nghệ tiên tiến nhất của họ hiện nay. Khi đó, ranh giới giữa “N” và “N-1” sẽ không chỉ là vấn đề kỹ thuật, mà còn trở thành rào cản pháp lý khiến chiến lược mở rộng toàn cầu của TSMC thêm phần phức tạp.Từ cuối năm 2026 trở đi, TSMC dự kiến sẽ sở hữu cùng lúc hai công nghệ sản xuất chip hàng đầu. Trong đó, N2P sẽ phục vụ các ứng dụng không yêu cầu cấp điện cao cấp, còn A16 với thiết kế cấp nguồn phía sau (Super Power Rail) sẽ dành riêng cho các hệ thống tính toán hiệu năng cao (HPC) vốn tiêu tốn nhiều năng lượng.
+
+Tuy nhiên, vẫn còn những dấu hỏi lớn, rằng Đài Loan sẽ xác định công nghệ nào là “tối mật” và bị cấm xuất khẩu? Liệu cả hai công nghệ này đều bị hạn chế, hay chỉ một trong số đó? Và khi TSMC ra mắt các thế hệ kế nhiệm như A14 hay A16P, liệu danh sách cấm có mở rộng theo?
+
+Ngoài việc siết công nghệ, luật sửa đổi vừa được thông qua sau lần đọc thứ ba tại Quốc hội Đài Loan còn trao quyền cho cơ quan chức năng Đài Loan từ chối toàn bộ hoặc một phần khoản đầu tư ra nước ngoài nếu chúng bị đánh giá là có nguy cơ gây tổn hại đến an ninh quốc gia, làm suy yếu nền kinh tế, vi phạm các cam kết quốc tế hoặc kéo theo tranh chấp lao động lớn chưa được giải quyết.
+
+Hoặc các nhà cầm quyền Đài Loan được phép áp đặt các điều kiện kèm theo khi phê duyệt dự án. Trong trường hợp một doanh nghiệp được chấp thuận đầu tư nhưng sau đó phát sinh bất kỳ rủi ro nào trong số các điều kiện đã nêu, cơ quan chức năng Đài Loan có thẩm quyền yêu cầu biện pháp khắc phục hoặc thu hồi hoàn toàn khoản đầu tư nếu mức độ vi phạm nghiêm trọng. Luật mới không chỉ nâng các hạn chế đầu tư từ cấp quy định lên thành luật chính thức, mà còn bổ sung các chế tài pháp lý rõ ràng đối với hành vi không tuân thủ.
+
+Bộ Kinh tế Đài Loan cho biết thời điểm chính thức thi hành luật sẽ chỉ được công bố sau khi hoàn tất sửa đổi các quy định phụ, dự kiến trong vòng sáu tháng tới. Điều này đồng nghĩa các điều khoản mới sớm nhất cũng phải đến cuối năm 2025 mới có hiệu lực.
+
+Quyết định này được đưa ra trong bối cảnh căng thẳng địa chính trị ngày càng leo thang, và ngay sau khi TSMC, tập đoàn sản xuất chip lớn nhất thế giới, tuyên bố nâng tổng mức đầu tư vào các nhà máy tại Mỹ từ 65 tỷ USD lên 165 tỷ USD, dù không tiết lộ khung thời gian cụ thể.
+
+Đáng chú ý, lần sửa đổi này đi kèm các chế tài mạnh mẽ chưa từng có, nhưng nếu so với tình hình kinh doanh thực tế của các doanh nghiệp Đài Loan, mức xử phạt có vẻ chưa đủ sức răn đe. Những doanh nghiệp đầu tư ra nước ngoài mà không được phê duyệt trước có thể đối mặt với mức phạt từ 50 nghìn đến 1 triệu Đài tệ (tương đương khoảng 1,5 nghìn đến 30,8 nghìn USD).
+
+Trong trường hợp khoản đầu tư đã được chấp thuận nhưng hoạt động của doanh nghiệp đe dọa tới an ninh hoặc gây tổn hại đến sự phát triển kinh tế, cơ quan chức năng có quyền áp dụng các mức phạt định kỳ, từ 500 nghìn đến 10 triệu Đài tệ (15,4 nghìn đến 308,2 nghìn USD).
+
+Tuy nhiên, nhiều nhà quan sát cho rằng mức phạt dù đã lên đến vài trăm nghìn USD cũng vẫn là con số nhỏ nếu so với các tập đoàn khổng lồ như TSMC, vốn đang chuẩn bị rót tới 165 tỷ USD vào các dự án tại Mỹ.

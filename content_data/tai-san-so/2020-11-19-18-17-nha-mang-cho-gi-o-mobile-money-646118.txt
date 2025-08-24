@@ -1,0 +1,31 @@
+Giấy phép triển khai dịch vụ Mobile Money (tiền di động) vẫn chưa được cơ quan quản lý khai sinh. Còn các doanh nghiệp viễn thông đã sẵn sàng và đang "mắc màn" chờ giấy phép để được chính thức cung cấp dịch vụ ra thị trường.
+
+THỊ TRƯỜNG TỶ USD
+
+Một trong những nội dung trong đề án triển khai thí điểm tiền di động (Mobile Money) là nghiệp vụ chuyển tiền, theo đó, quy định chuyển tiền giữa các tài khoản Mobile Money của khách hàng trong cùng hệ thống của doanh nghiệp viễn thông; chuyển tiền giữa tài khoản Mobile Money của khách hàng với tài khoản thanh toán tại ngân hàng; chuyển tiền giữa tài khoản Mobile Money với ví điện tử do chính doanh nghiệp viễn thông cung ứng.
+
+Hạn mức giao dịch tối đa 10 triệu đồng/tháng/tài khoản Mobile Money cho tổng tất cả các giao dịch rút tiền, chuyển tiền và thanh toán.
+
+Nếu hạn mức giao dịch dự kiến trên được giữ nguyên, giả sử chỉ cần 20-30% trong tổng số khoảng 130 triệu thuê bao điện thoại di động hiện nay sử dụng dịch vụ với hạn mức tối đa (10 triệu đồng) thì lượng tiền luân chuyển qua "kênh" Mobile Money này có thể lên tới hàng chục, hàng trăm nghìn tỷ đồng.
+
+"Tất nhiên, trong giai đoạn đầu nhà mạng chỉ đứng ra thu hộ khách hàng, không được hưởng gì trong "miếng bánh" dòng tiền lưu chuyển này, nhưng về sau, khi mọi người thấy tiện lợi và quen với dịch vụ gửi tiền qua hệ thống kênh của nhà mạng (Mobile Money) thì nhà mạng có thể tính đến việc thu phí cho mỗi giao dịch", đại diện một nhà mạng đang mong muốn triển khai Mobile Money cho hay.
+
+Theo ông, thị trường chuyển tiền mỗi năm lên tới hàng chục nghìn tỷ đồng nên đây sẽ là một trường lớn, nếu kinh doanh tốt (qua kênh Mobile Money , dòng tiền chảy qua nhiều, thì có thể nó còn là "mỏ vàng", được lợi từ những thứ "vô hình", bổ trợ khác, chứ không đơn thuần từ thu phí từ những dịch vụ chính của Mobile Money. Tất nhiên, viễn cảnh tươi sáng này để thực hiện không hề đơn giản.
+
+Ông Trương Quang Việt, Phó tổng giám đốc Tổng công ty Dịch vụ số Viettel (Viettel Digital) cho biết, trong lộ trình phát triển của Viettel đối với dịch vụ Mobile Money là đến năm 2025, Viettel dự kiến có khoảng 26 triệu thuê bao sử dụng dịch vụ Mobile Money, trong đó riêng dịch vụ thanh toán (với các hàng hóa, dịch vụ có giá trị nhỏ) với mức chi tiêu trung bình qua kênh này là 300.000 đồng/thuê bao.
+
+Như vậy, doanh thu trung bình một tháng đối với dịch vụ Mobile Money (chỉ riêng dịch vụ thanh toán) của Viettel vào năm 2025, theo tính toán mức chi tiêu trung bình như trên sẽ rơi vào khoảng 7.000 – 8.000 tỷ đồng. Cộng thêm hai mạng lớn VinaPhone và MobiFone với hàng chục triệu thuê bao nữa, con số doanh thu/thanh toán qua Mobile Money chắc chắn sẽ còn lớn hơn
+
+KHÔNG PHẢI "CÂY ĐŨA THẦN"
+
+Lãnh đạo một nhà mạng lớn cho rằng, dịch vụ Mobile Money mang lại tiện ích lớn với người dùng vì người dùng sẽ không phải mang theo ví mỗi lần ra đường, không phải tiếp xúc với đồng tiền…, ngoài ra Chính phủ cũng dễ kiểm soát lượng tiền mặt, các vấn đề về thuế cũng tốt hơn, an toàn hơn. Tuy nhiên, do Mobile Money áp dụng cho các dịch vụ thanh toán có giá trị nhỏ nên so với doanh rất lớn của viễn thông, đặc biệt là di động thì Mobile Money không phải là cây đũa thần, không phải là đòn bẩy gì ghê gớm cho miếng bánh doanh thu nói chung của các doanh nghiệp viễn thông.
+
+Ông Bùi Sơn Nam, Phó tổng giám đốc Tổng công ty Viễn thông MobiFone, cho rằng, hiện vẫn còn trên 40% người dân chưa có tài khoản ngân hàng và chưa quen với các hình thức thanh toán hiện đại. Vì thế Mobile Money vẫn là một xu thế thanh toán phù hợp với Việt Nam, một thị trường đang phát triển, bởi tính tiện dụng của nó là thanh toán các dịch vụ, hàng hóa có giá trị nhỏ, như các dịch vụ thiết yếu điện, nước, truyền hình, hay thanh toán tiền ăn sáng, mua mớ rau, hộp bánh, rồi thanh toán viện phí, học phí… mà không cần phải có tài khoản ngân hàng.
+
+"Nếu Mobile Money cung cấp cho số người dân này, đặc biệt là người dân ở vùng nông thôn, vùng sâu vùng xa một phương thức thanh toán tiện lợi thì Mobile Money rõ ràng vẫn là một mảnh đất màu mỡ", ông Bùi Sơn Nam nhìn nhận. Tuy nhiên, theo ông, việc khai thác mảnh đất màu mỡ này cần phải có thời gian để người dân (40% chưa có tài khoản ngân hàng) tiếp cận, làm quen và sử dụng.
+
+Hiện cũng có ý kiến ở thời điểm hiện tại, năm 2020 này Việt Nam mới cung cấp Mobile Money là muộn, sẽ phù hợp hơn nếu dịch vụ được triển khai cách đây 3-5 năm. Tuy nhiên, tất cả các nhà mạng lớn đều cho rằng, dịch vụ Mobile Money vẫn là một xu hướng phát triển và phù hợp với điều kiện của Việt Nam, thậm chí trong nhiều năm tới vẫn phát triển, bởi đây là một phương thức thanh toán tiện lợi mới cho số lượng lớn người dân có nhu cầu được đáp ứng.
+
+"Giống như câu chuyện tài chính vi mô khi ra đời, nhiều người cũng cho rằng tài chính truyền thống (ngân hàng) đã khá phát triển rồi thì khó mà có thể tồn tại. Nhưng tài chính vi mô vẫn rất phát triển đấy thôi", ông Nguyễn Trường Giang, Quyền Tổng giám đốc VNPT-VinaPhone ví dụ, đồng thời cho rằng, ngay cả khi hầu hết người dân đều có tài khoản ngân hàng thì Mobile Money vẫn có "cửa" để phát triển vì Mobile Money tiện lợi và chi phí cho rẻ hơn nhiều so với các phương thức thanh toán khác.
+
+Một dịch vụ mang lại tiện ích lớn cho người dân thì sẽ luôn phát triển nếu chính sách thúc đẩy, hỗ trợ chứ không kiểu "kìm kẹp". Theo quan điểm của nhiều nhà mạng, Mobile Money là khoản tiêu dùng nhỏ và phát sinh nhiều nên cơ chế quản lý cũng cần phải khác với cơ chế quản lý của việc chuyển tiền, rút tiền của những khoản lớn, có như thế dịch vụ mới này mới có điều kiện để "cất cánh".

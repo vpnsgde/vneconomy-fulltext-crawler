@@ -1,0 +1,35 @@
+Để ngăn chặn tình trạng gian lận thuế, trốn thuế, Tổng cục Thuế cho biết đã ban hành và áp dụng đồng bộ các biện pháp bao gồm: (i) quy trình áp dụng quản lý rủi ro, đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn; (ii) hệ thống phân tích cơ sở dữ liệu hoá đơn điện tử đã hỗ trợ khả năng tự động chấm điểm và đưa ra danh sách người nộp thuế có rủi ro cao về hóa đơn để phục vụ quản lý thực hiện linh hoạt, phù hợp, đúng quy định; (iii) quy trình kiểm tra thuế mới được ban hành.
+
+Những giải pháp nêu trên góp phần quan trọng giúp ngành thuế ngăn chặn tình trạng gian lận thuế, trốn thuế, từ đó phục vụ hiệu quả công tác chống thất thu cho ngân sách của nhà nước.
+
+Gần đây nhất, Tổng cục trưởng Tổng cục Thuế vừa có Quyết định số 970/QĐ-TCT ban hành Quy trình kiểm tra thuế.
+
+Theo đó, quy trình được ban hành nhằm mục đích tăng cường công tác kiểm tra thuế theo quy định của Luật Quản lý thuế trên cơ sở áp dụng cơ chế quản lý rủi ro, ứng dụng công nghệ thông tin vào kiểm tra thuế nhằm phát hiện, ngăn chặn và xử lý kịp thời những vi phạm về thuế, chống thất thu thuế.
+
+Đồng thời, quy trình này cũng nhằm nâng cao tính tự giác tuân thủ pháp luật thuế của người nộp thuế trong việc thực hiện quy định pháp luật về thuế; thực hiện cải cách hành chính trong việc kiểm tra thuế, tạo điều kiện thuận lợi cho người nộp thuế phát triển sản xuất, kinh doanh hàng hóa, dịch vụ...
+
+Đáng chú ý, Tổng cục Thuế chính thức triển khai trung tâm cơ sở dữ liệu hoá đơn điện tử với chức năng phân tích dữ liệu hoá đơn điện tử, phục vụ cho công tác quản lý rủi ro về hoá đơn điện tử trong toàn ngành thuế. Hệ thống sẽ giúp các cán bộ ngành thuế có công cụ, nguồn dữ liệu để tập trung thực hiện rà soát, phân tích, phát hiện các dấu hiệu rủi ro trong việc phát hành, sử dụng hoá đơn điện tử.
+
+Hệ thống phân tích cơ sở dữ liệu hoá đơn điện tử cũng giúp phát hiện các giao dịch mua bán bất thường và tiến tới phòng ngừa từ sớm, từ xa việc mua bán khống hoá đơn điện tử, đồng thời sẽ có cảnh báo tới người nộp thuế về sự bất thường trong việc sử dụng hóa đơn ngay khi xuất hóa đơn.
+
+Trước đó, Tổng cục Thuế ban hành Quyết định 575/QĐ-TCT về việc ban hành quy trình áp dụng quản lý rủi ro đánh giá, xác định người nộp thuế của dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn.
+
+Việc phân tích, đánh giá, phân loại người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn được thực hiện tự động trên ứng dụng quản lý rủi ro theo từng cơ quan thuế quản lý trực tiếp người nộp thuế. Việc đánh giá, phân loại người nộp thuế được thực hiện định kỳ vào ngày 25 hàng tháng.
+
+
+
+Tổng cục Thuế nêu rõ ngưỡng rủi ro là căn cứ phân loại rủi ro của người nộp thuế theo 3 hạng: rủi ro cao, rủi ro trung bình và rủi ro thấp. Ngưỡng rủi ro phải phê duyệt trên hệ thống và có hiệu lực kể từ ngày được phê duyệt. Ngưỡng rủi ro được điều chỉnh, ban hành theo yêu cầu quản lý từng thời kỳ.
+
+Việc phân ngưỡng rủi ro cao thực hiện theo hai phương pháp. Cụ thể, phương pháp số tuyệt đối, số lượng người nộp thuế có dấu hiệu rủi ro cao được ấn định cụ thể cho từng cơ quan thuế theo số lượng người nộp thuế hoặc theo tổng điểm rủi ro.
+
+Còn phương pháp số tương đối, số lượng người nộp thuế có dấu hiệu rủi ro cao xác định theo tỷ lệ % tính trên số lượng người nộp thuế đang hoạt động đưa vào phân tích theo phạm vi phân tích.
+
+Cùng với đó, Tổng cục Thuế cho biết trong thời gian vừa qua đã ban hành các công văn chỉ đạo tăng cường công tác thanh tra, kiểm tra, tập trung vào các doanh nghiệp thuộc ngành nghề, lĩnh vực có dư địa thu lớn, rủi ro cao như: thương mại điện tử, kinh doanh trên nền tảng số; các doanh nghiệp có rủi ro cao về hoàn thuế, hóa đơn; dầu khí, xăng dầu, điện lực, ngân hàng, bảo hiểm, bất động sản; linh kiện điện tử; các doanh nghiệp được hưởng ưu đãi miễn giảm thuế...
+
+Đồng thời, ngành thuế cũng triển khai áp dụng nguyên tắc thanh tra, kiểm tra theo cơ chế quản lý rủi ro; tăng cường thanh tra, kiểm tra hoàn thuế giá trị gia tăng đối với các hồ sơ xác định có rủi ro cao, đặc biệt với một số mặt hàng: tinh bột sắn, cao su, hạt điều, dăm gỗ, nông sản; kiểm soát hoạt động thanh tra, kiểm tra doanh nghiệp trên địa bàn đảm bảo tránh chồng chéo, trùng lắp với kế hoạch của cơ quan thuế cấp trên và cơ quan chức năng khác theo quy định.
+
+Đồng thời, ngành thuế tiếp tục tăng cường phối hợp, trao đổi thông tin với các bộ, ngành có liên quan để kịp thời nắm bắt thông tin, phát hiện các hành vi vi phạm; thực hiện thanh tra, kiểm tra xác định sai phạm để chấn chỉnh kịp thời, nhằm nâng cao tính tuân thủ pháp luật thuế của người nộp thuế.
+
+Bên cạnh đó, ngành thuế cũng tăng cường tuyên truyền đến người nộp thuế về việc nhận diện hành vi mua bán, sử dụng hóa đơn không hợp pháp; đặt mục tiêu mỗi một công chức thuế là một kênh tuyên truyền đến người nộp thuế về việc nhận diện hành vi mua bán, sử dụng hóa đơn không hợp pháp và chế tài xử lý đối với từng hành vi vi phạm...
+
+Ngoài ra, “ngành thuế đã và đang phối hợp với chặt chẽ với cơ quan công an để thực hiện xác minh các giao dịch kinh tế phát sinh, phát hiện các hành vi gian lận hóa đơn, chiếm đoạt tiền hoàn thuế; phối hợp với ngân hàng để xác minh việc thanh toán qua ngân hàng...”, lãnh đạo Cục Thanh tra Kiểm tra (Tổng cục Thuế) thông tin.

@@ -1,0 +1,11 @@
+Được xem là giải pháp quản lý số toàn diện nhất cho ngành giáo dục, giải pháp Hồ sơ số Giáo dục (vnEdu HSS) gồm 2 tính năng chính là Hồ sơ giáo dục và Quản lý giáo án.
+
+Trong đó, Hồ sơ giáo dục gồm các quyển sổ cơ bản dành cho nhà trường theo Thông tư 28 và Thông tư 32 của Bộ Giáo dục và Đào tạo như: Học bạ học sinh, Sổ ghi đầu bài, Sổ theo dõi và đánh giá học sinh…và có thể xuất file PDF để thực hiện ký số. Quản lý giáo án là hệ thống giúp quản lý danh sách các giáo án của nhà trường, trong đó giáo viên và tổ trưởng chuyên môn có thể tải giáo án lên hệ thống, gửi phê duyệt và phê duyệt giáo án theo nghiệp vụ của nhà trường.
+
+vnEdu HSS sẽ giúp giáo viên chủ nhiệm và bộ môn tiết kiệm thời gian, công sức hoàn thiện sổ sách tại nhà trường thay vì làm thủ công như trước đây. Với vnEdu HSS, các thầy cô giáo có thể tự thiết lập, quản lý chữ ký theo phong cách riêng. Chữ ký này sẽ được lưu trữ trên hệ thống và ký sổ sách ở bất cứ đâu bằng máy tính có kết nối mạng.
+
+Với Ban giám hiệu Nhà trường, vnEdu HSS là công cụ đắc lực hỗ trợ quản lý và thống kê báo cáo các loại hồ sơ sổ sách thuận tiện, dễ dàng. Hơn nữa, nhờ được tích hợp sẵn ký số nên nhà trường không phải tốn kém chi phí in ấn, bảo quản và lưu trữ.
+
+Đối với Sở/Phòng Giáo dục, vnEdu HSS giúp tổng hợp số liệu thống kê chính xác và báo cáo nhanh chóng, giảm thiểu hồ sơ sổ sách trong ngành.
+
+Với những tiện ích mang lại, giải pháp vnEdu HSS kết hợp với ký số đã và đang phát huy hiệu quả tại nhiều trường học, cơ sở giáo tục trong việc số hóa toàn bộ hồ sơ, nghiệp vụ của nhà trường, góp phần chuyển đổi số cho ngành giáo dục.

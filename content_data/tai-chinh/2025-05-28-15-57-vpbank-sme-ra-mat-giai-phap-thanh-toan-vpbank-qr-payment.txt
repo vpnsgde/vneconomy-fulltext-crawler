@@ -1,0 +1,37 @@
+Trong bối cảnh thói quen tiêu dùng không tiền mặt ngày càng phổ biến, khách hàng muốn lựa chọn nhiều phương thức thanh toán khác nhau như tiền mặt, chuyển khoản, thanh toán bằng thẻ tín dụng... khiến nhiều chủ doanh nghiệp khá đau đầu tìm giải pháp tối ưu.
+
+NHU CẦU SỐ HÓA HOẠT ĐỘNG THANH TOÁN CỦA CỬA HÀNG, HỘ KINH DOANH
+
+Nhằm hỗ trợ nhóm khách hàng này ngay lập tức có thể tiếp cận với phương thức quản lý dòng tiền hiện đại và phương thức thanh toán số hóa mới nhất, VPBank SME đã triển khai giải pháp thanh toán VPBank QR Payment - một hình thức thanh toán bằng mã QR tích hợp các chuẩn QR của Visa, Mastercard, UnionPay và VietQR.
+
+Với giải pháp này, người bán hàng chỉ cần sử dụng một mã QR duy nhất có thể chấp nhận thanh toán đa dạng nguồn tiền của khách hàng, từ chuyển khoản, ví điện tử đến thẻ tín dụng, thay vì phải tạo và quản lý nhiều mã QR tương ứng với từng nguồn/phương thức thanh toán khác nhau từ người mua hàng.
+
+VPBank QR Payment được thiết kế hướng tới tính linh hoạt, đơn giản và dễ ứng dụng, đặc biệt phù hợp với các cửa hàng nhỏ lẻ, hộ kinh doanh hoặc các doanh nghiệp mới khởi nghiệp. Người bán chỉ cần in mã QR cố định và dán tại quầy, không cần đầu tư thiết bị thanh toán chuyên dụng, sắm thêm máy POS hay thiết kế hạ tầng công nghệ phức tạp, giúp tiết kiệm đáng kể chi phí đầu tư ban đầu.
+
+Việc tích hợp nhiều chuẩn thanh toán quốc tế và nội địa vào một mã QR duy nhất giúp các doanh nghiệp mang lại nhiều lợi ích hơn cho khách hàng, như rút ngắn thời gian thanh toán, loại bỏ rủi ro liên quan đến tiền mặt (như tiền giả, tiền rách, thiếu hụt tiền lẻ)...
+
+Đặc biệt, trong môi trường bán lẻ có độ cạnh tranh cao về giá cả cũng như nhịp độ giao dịch, phương thức thanh toán QR Payment thực sự gia tăng lợi thế cạnh tranh cho doanh nghiệp và nâng cao sự hài lòng của khách hàng.
+
+TĂNG HIỆU QUẢ QUẢN LÝ DÒNG TIỀN, BẮT NHỊP XU HƯỚNG KHÔNG TIỀN MẶT
+
+Một trong những ưu điểm nổi bật khác của VPBank QR Payment là khả năng hỗ trợ quản lý dòng tiền minh bạch theo thời gian thực. Cụ thể, mỗi cửa hàng hoặc chi nhánh sẽ được gắn với bộ thông số định danh riêng, liên kết trực tiếp với tài khoản chính của doanh nghiệp hoặc chủ cửa hàng mở tại VPBank. Điều này cho phép chủ doanh nghiệp hoặc chủ cửa hàng theo dõi tình hình doanh thu của từng cửa hàng/chi nhánh một cách thuận tiện.
+
+Hơn nữa, việc sử dụng một mã QR duy nhất tương ứng với một tài khoản duy nhất để nhận toàn bộ tiền từ mọi nguồn/phương thức thanh toán giúp doanh nghiệp dễ dàng quản lý dòng tiền, giảm thiểu sai sót trong đối soát cũng như hạn chế rủi ro thất thoát.
+
+Đây cũng là yếu tố thể hiện quy trình tinh giản tối đa, thay cho quy trình thông thường mỗi mã QR khác nhau cần có tài khoản khác nhau, việc quản lý, theo dõi dòng tiền có phần cồng kềnh. Sự tối ưu trong quản lý dòng tiền của VPBank QR Payment cũng mở ra khả năng kết nối linh hoạt với các hệ thống phần mềm quản lý bán hàng khác như POS, quản lý kho hoặc CRM, góp phần hoàn thiện toàn bộ quy trình vận hành từ thanh toán đến tồn kho và chăm sóc khách hàng.
+
+Yếu tố an toàn và bảo mật cũng được đảm bảo tuyệt đối trong giải pháp VPBank QR Payment. Mọi giao dịch đều có lớp xác thực từ ngân hàng hoặc đối tác thanh toán, và tiền được chuyển khoản trực tiếp vào tài khoản chính chủ, không thông qua trung gian.
+
+Bên cạnh các tính năng chính, giải pháp này còn mở rộng khả năng hỗ trợ các chiến dịch tiếp thị và tăng trưởng doanh số như hoàn tiền, tích điểm, giảm giá... thông qua việc triển khai mã QR động. Theo đó, các cửa hàng dễ dàng tổ chức các chương trình ưu đãi, khuyến mãi linh hoạt để thu hút khách hàng mới và gia tăng sự quay lại của khách hàng cũ.
+
+Không chỉ là một công cụ thanh toán thông minh, VPBank QR Payment còn là “chìa khóa” giúp các cửa hàng nhỏ lẻ và hộ kinh doanh bắt nhịp xu hướng tiêu dùng hiện đại, nơi thanh toán không tiền mặt đang dần trở thành thói quen chi tiêu phổ biến của người tiêu dùng trẻ.
+
+Bên cạnh đó, trong bối cảnh người tiêu dùng ngày càng được trang bị đa dạng phương thức thanh toán như: QR chuyển khoản, thẻ tín dụng vật lý, thẻ tín dụng ảo, các phương thức giao dịch qua smartphone (Apple Pay, Samsung Pay…), VPBank QR Payment còn nâng tầm trải nghiệm cho người mua, mở rộng phạm vi thanh toán khi đáp ứng nhu cầu chi tiêu qua thẻ mà không cần dùng thẻ vật lý.
+
+Người mua có thể thanh toán mọi lúc, mọi nơi bằng các hình thức thẻ tín dụng của mình - ngay cả tại những điểm bán không trang bị máy POS chỉ bằng cách quét mã QR. Giao dịch diễn ra nhanh chóng, an toàn, đồng thời vẫn đảm bảo tận dụng tối đa các chương trình hoàn tiền và chiết khấu từ ngân hàng khi chi tiêu qua thẻ.
+
+“Với VPBank QR Payment, chúng tôi kỳ vọng mang đến một giải pháp tiện lợi, tiết kiệm và hiện đại, bắt kịp xu thế. Từ đó, hỗ trợ các hộ kinh doanh và doanh nghiệp nhỏ giảm chi phí vận hành và kiểm soát dòng tiền hiệu quả hơn. Đây cũng là bước đi chiến lược thể hiện tinh thần đồng hành cùng cộng đồng doanh nghiệp trong hành trình chuyển đổi số, hướng đến một hệ sinh thái tài chính không tiền mặt an toàn và bền vững”, đại diện VPBank SME chia sẻ.
+
+Khách hàng có thể chủ động tạo mã QR tĩnh hoặc động thông qua ứng dụng NEOBiz trên điện thoại di động, hoặc tạo từ các website, ứng dụng bán hàng đã tích hợp với hệ thống thanh toán của VPBank. Đặc biệt, trong giai đoạn đầu triển khai, VPBank SME áp dụng chính sách ưu đãi phí hấp dẫn dành cho khách hàng đăng ký sử dụng dịch vụ QR Payment.
+
+* Khách hàng quan tâm dịch vụ có thể đăng ký sử dụng tại các điểm giao dịch VPBank, liên hệ hotline 1900 234 568 để được tư vấn cụ thể hoặc truy cập https://www.vpbank.com.vn/doanh-nghiep-vua-va-nho/giai-phap-thanh-toan/QRPayment

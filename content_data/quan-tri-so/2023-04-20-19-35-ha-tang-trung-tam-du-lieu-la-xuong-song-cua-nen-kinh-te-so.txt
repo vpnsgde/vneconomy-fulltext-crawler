@@ -1,0 +1,19 @@
+Trong những năm gần đây, Việt Nam được đánh giá là một trong 10 thị trường trung tâm dữ liệu (data center) và điện toán đám mây (cloud) phát triển nhanh nhất trên thế giới, đặc biệt là sau khi ngành cloud và data center được xác định chính là trụ cột của quá trình chuyển đổi số.
+
+Sự tăng trưởng này đang được thúc đẩy bởi quá trình số hóa từ các doanh nghiệp vừa và nhỏ; dân số trẻ với độ hiểu biết cao về kỹ thuật số; công nghệ 5G; nhu cầu tự chủ về cơ sở hạ tầng kỹ thuật số; luật và các nghị định hỗ trợ phát triển từ Chính phủ, các bộ ngành và quá trình sử dụng của người dân…
+
+Mục đích chung của tất cả các yếu tố trên chuẩn bị nền tảng để Việt Nam trở thành một trong những trung tâm kỹ thuật số quan trọng của ASEAN. Tuy nhiên, tăng trưởng nhanh cũng mang đến nhiều những rủi ro và trách nhiệm trong việc đảm bảo quyền riêng tư dữ liệu, an ninh mạng, tính bền vững, mức tiêu thụ tài nguyên, độ tin cậy và chất lượng dịch vụ,…
+
+Hội thảo Điện toán đám mây (cloud) và Trung tâm dữ liệu (data center) Việt Nam 2023 do WMedia tổ chức, diễn ra sáng 20/4 tại TP.HCM. Hội thảo mong muốn tạo diễn đàn thảo luận những vấn đề, xu hướng cấp bách trong ngành, cũng như cầu nối trao đổi giữa các chuyên gia và các giải pháp, giải quyết các thách thức cũng như cơ hội đối với điện toán đám mây, trung tâm dữ liệu, cũng như vai trò của ngành này trong việc thúc đẩy tương lai kỹ thuật số của đất nước.
+
+Tại Hội thảo, đại diện VNG cùng nhiều doanh nghiệp quốc tế đã chia sẻ về sự phát triển của của hạ tầng dữ liệu, đám mây tại Việt Nam và giải pháp thích ứng dành cho doanh nghiệp. Đặc biệt, chiến lược xây dựng hạ tầng số Quốc gia, Việt Nam đặt mục tiêu đến 2025 sẽ có 100% cơ quan chính phủ sử dụng điện toán đám mây, 70% doanh nghiệp Việt sử dụng dịch vụ điện toán đám mây do các đơn vị trong nước cung cấp...
+
+Ông Gary McKinnon, Giám đốc Phát triển Kinh doanh - VNG Digital Business cho biết, VNG Data Center là một trong 3 trung tâm dữ liệu đạt chuẩn Uptime Tier III tại Việt Nam cả về thiết kế và hạ tầng, được trang bị đầy đủ các thiết bị cơ điện, mạng, bảo mật. Với sức chứa hiện tại hơn 400 rack, có thể mở rộng tối đa 1.600 rack, VNG Data Center hiện là DC có sức chứa rack lớn nhất Việt Nam, sẵn sàng đáp ứng nhu cầu lớn hiện tại và trong tương lai của mọi loại hình doanh nghiệp.
+
+“Cùng với những chính sách khuyến khích phát triển của Chính phủ, mạng lưới hạ tầng trung tâm dữ liệu cung ứng cho doanh nghiệp sẽ là “xương sống” của nền kinh tế số”, ông Gary McKinnon khẳng định.
+
+Tại hội thảo, các chuyên gia cũng cho rằng, xu hướng thị trường cho thuê colocation (không gian vật lý đặt máy chủ, hệ thống điện, băng thông, các thiết bị liên quan) tại trung tâm dữ liệu đang ngày càng mở rộng. Các doanh nghiệp trong và ngoài nước khi thuê dịch vụ colocation sẽ được đảm bảo hoàn toàn về cơ sở hạ tầng, sự ổn định của hệ thống máy chủ, khả năng phục hồi kết nối và tính bảo mật. Từ đó, giúp doanh nghiệp tối ưu nguồn lực và tiết kiệm chi phí.
+
+Đồng thời, việc hợp tác với các trung tâm dữ liệu uy tín sẽ là chìa khóa để doanh nghiệp dẫn đầu xu hướng chuyển đổi số nhanh chóng, tăng khả năng cạnh tranh. Ngoài ra, khi hàng loạt các công nghệ, dịch vụ được đưa ra phục vụ cho doanh nghiệp chắc chắn sẽ cần có một giải pháp khác giám sát hiệu suất của chúng. Việc tự động hóa trong giám sát cơ sở hạ tầng số giúp doanh nghiệp tối ưu hóa tài nguyên và cải thiện hiệu suất hoạt động.
+
+Trong khuôn khổ sự kiện, nhiều chuyên gia, đại diện đến từ các công ty công nghệ toàn cầu còn chia sẻ các chủ đề như cơ sở hạ tầng trong kỷ nguyên AI; Việt Nam trong hệ sinh thái trung tâm dữ liệu Châu Á - Thái Bình Dương; các vấn đề liên quan đến trách nhiệm của doanh nghiệp trong việc đảm bảo quyền riêng tư dữ liệu, an ninh mạng, tính bền vững và mức tiêu thụ tài nguyên.

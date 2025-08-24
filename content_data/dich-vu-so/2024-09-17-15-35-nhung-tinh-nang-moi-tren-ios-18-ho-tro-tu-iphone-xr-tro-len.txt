@@ -1,0 +1,26 @@
+Sau một tuần kể từ sự kiện Apple Glowtime, phiên bản iOS 18 đã được phân phối đến người dùng, rạng sáng 17/9. iOS 18 tương thích từ iPhone Xs/Xr (ra mắt vào năm 2018) trở về sau.
+
+Trước đó, Apple đã tinh chỉnh các bản cập nhật beta của iOS 18 trong ba tháng gần đây với các nhà phát triển cũng như nhận về phản hồi từ những người dùng beta.
+
+Theo đánh giá của các chuyên gia công nghệ, phiên bản này khá ổn định và đáng tin cậy để có thể cập nhật cho iPhone. Ngoài việc tiếp cận với các tính năng mới trên phiên bản iOS 18, việc cập nhật phần mềm điện thoại lên phiên bản mới nhất cũng góp phần cải thiện bảo mật và giúp điện thoại của bạn an toàn hơn.
+
+Chỉ có một điểm đáng tiếc, các tính năng Apple Intelligence vẫn chưa khả dụng trên phiên bản iOS 18. Vì vậy, người dùng iPhone có thể sẽ phải chờ thêm các bản cập nhật tiếp theo để trải nghiệm loạt tính năng hấp dẫn nhất của Apple trong năm nay. Dưới đây là loạt tính năng mới:
+
+Phiên bản iOS 18 chính thức giới thiệu một số tùy chỉnh mới cho phép người dùng cá nhân hóa Màn hình chính trên chiếc iPhone. Người dùng có thể tự do đặt các biểu tượng và widget ứng dụng ở bất cứ đâu. iOS 18 cũng cho phép tạo không gian trống và có toàn quyền kiểm soát vị trí của các biểu tượng và widget.
+
+iOS 18 cũng cung cấp tùy chọn tô màu các biểu tượng và widget ứng dụng màn hình chính. Người dùng có thể chọn bất kỳ màu nào yêu thích hoặc chọn cài đặt Chế độ tối mới để chuyển đổi hầu hết các biểu tượng ứng dụng trên màn hình thành chủ đề tối, bao gồm cả các ứng dụng của bên thứ ba.
+
+Nâng cấp ứng dụng Tin nhắn - iMessage. Người dùng sẽ được trải nghiệm hiệu ứng văn bản mới với cho từng từ cụ thể trong tin nhắn. Ngoài ra, ứng dụng cũng cho phép định dạng văn bản như in đậm, gạch chân, in nghiêng và gạch ngang cho chữ cái, từ hoặc cụm từ riêng lẻ. Cải tiến Tapbacks cũng giúp người dùng có thể phản ứng với tin nhắn bằng nhiều biểu tượng cảm xúc hoặc nhãn dán.
+
+Hơn nữa, Apple cũng bổ sung ứng dụng Mật khẩu mới, hiện là trình quản lý mật khẩu xác thực hai yếu tố (2FA), chia sẻ mật khẩu và hỗ trợ đa nền tảng. Ứng dụng này hoạt động trên iPhone, iPad, Mac, Apple Vision Pro và thậm chí cả Windows thông qua iCloud.
+
+Ứng dụng Tin nhắn này cũng được tích hợp thêm khả năng hẹn lịch cho tin nhắn, kết nối vệ tinh để gửi tin nhắn SMS và iMessages, gửi hình ảnh chất lượng cao lên đến 100MB cũng như cho phép giảm chất lượng hình ảnh đến ức tối thiểu.
+
+Bên cạnh đó, Trung tâm điều khiển cũng nhận được bản cập nhật lớn nhằm cho phép người dùng thêm nhiều điều khiển hơn từ các ứng dụng của bên thứ ba, thay đổi kích thước các thành phần, cuộn qua các trang khác nhau… Màn hình khóa cũng cho phép cá nhân các điều khiển, bao gồm cả các điều khiển từ ứng dụng bên thứ ba.
+
+Khả năng chơi game của iPhone cũng tốt hơn khi chế độ Game chuyên dụng có thể giảm thiểu hoạt động nền để duy trì hiệu suất và tốc độ khung hình cao hơn, giảm độ trễ âm thanh khi kết nối với AirPods và giảm độ trễ đầu vào của bộ điều khiển.
+
+Phản chiếu iPhone là một tính năng khá thú vị trên phiên bản iOS lần này. Tính năng này cho phép người dùng điều khiển iPhone từ máy Mac và nhận thông báo iPhone trên máy Mac. Ứng dụng Ảnh cũng được thiết kế bố cục hợp lý hơn, giới thiệu Bộ sưu tập theo chủ đề và cải tiến chức năng tìm kiếm. Lưu ý rằng các bố cục ứng dụng này hoàn toàn có thể tùy chỉnh bởi người dùng.
+
+Những thay đổi khác trong iOS 18 bao gồm theo dõi mắt, khả năng khóa bất kỳ ứng dụng nào bằng Face ID, Touch ID và mật mã, Máy tính được thiết kế lại, cải tiến Lịch, tính năng ghi âm cuộc gọi mới cho ứng dụng Nhà, Reader được thiết kế lại trong Safari, cập nhật ứng dụng Ảnh... Nhiều khả năng, cuối năm nay, iOS 18 cũng sẽ nhận được hỗ trợ Apple Intelligence (chỉ hỗ trợ dòng iPhone 15 Pro và iPhone 16) và cải tiến cho ứng dụng Thư.
+

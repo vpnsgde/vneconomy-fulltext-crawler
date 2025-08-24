@@ -1,0 +1,27 @@
+Chatbot của MobiFone với nhiều ưu điểm sẽ đưa đến cho khách hàng những giải đáp tự động dù là ngày hay đêm, ngày thường hay ngày nghỉ, bất cứ khi nào "thượng đế" cần.
+
+Nở rộ chatbot hỗ trợ khách hàng
+
+Một nhân viên mẫn cán không cần lương, chăm chỉ làm việc, không quản ngại ngày đêm, chẳng bao giờ ốm… là điều mà bất cứ nhà tuyển dụng nào cũng mong muốn có được. Nhưng nghe có vẻ như là điều không tưởng vì chẳng có nhân viên nào chấp nhận điều đó. Thế nhưng, trong thời công nghệ 4.0, con người hoàn toàn có thể có được sự hỗ trợ đắc lực từ một chức năng tự động có tên là chatbot.
+
+Thực tế là nhiều doanh nghiệp ở Việt Nam đã sử dụng chatbot trong việc hỗ trợ bán hàng, giải đáp các thắc mắc của khách hàng một cách tự động...
+
+Anh Phương (nhân viên bán hàng ở Hà Nội) cho hay, khoảng nửa năm nay, công ty đã ứng dụng công nghệ chatbot để hỗ trợ khách hàng. Mặc dù, chatbot chỉ tư vấn được một số nội dung cơ bản, song như vậy cũng là góp phần giảm bớt nhân sự cũng như quá tải cho nhân viên.
+
+"Chatbot có thể hỗ trợ bất cứ lúc nào từ nửa đêm cho đến ban ngày, từ ngày thường cho đến ngày lễ, rất cần mẫn và chăm chỉ. Nhờ sự tư vấn này mà nhân viên như chúng tôi cũng đỡ việc hơn chỉ cần tư vấn sâu nếu khách gọi điện đến hoặc có các câu hỏi khó, phức tạp", anh Phương cho hay.
+
+Nhiều công ty khác đã nhận thấy tiềm năng to lớn và không có giới hạn của chatbot nên đã đưa vào ứng dụng thời gian qua. Bởi, chatbot cho phép cung cấp dịch vụ tới các khách hàng tiềm năng suốt 24/7 mà không cần có nhân viên trực ngày, đêm. Khi đã có chatbot lo đảm nhận tiếp cận và trò chuyện với khách một cách tự động thì nhân viên vốn dĩ làm việc này có thể sang các công việc khác và doanh nghiệp có nhiều thời gian hơn để đầu tư ở các khía cạnh khác như tìm thị trường mới, phát triển sản phẩm, nâng cao chất lượng, nâng cao dịch vụ sau bán hàng...
+
+Theo dự báo thị trường của Grand View Reseach cho hay thị trường chatbot toàn thế giới sẽ đạt 1,23 tỷ USD vào năm 2025 và tốc độ tăng trưởng hằng năm là 24,3%. Nghiên cứu khác của Credence chỉ ra, 85% tương tác của khách hàng sẽ được quản lý mà không cần con người vào năm 2020.
+
+Chatbot của MobiFone nhiều ưu điểm vượt trội
+
+Hiện MobiFone đang triển khai chatbot qua 4 kênh: website chính thức www.mobifone.vn, ứng dụng My MobiFone, Zalo OA (MobiFone), facebook messenger (thông qua fanpage MobiFone).
+
+Chatbot của MobiFone với ưu thế càng nói chuyện nhiều thì chatbot sẽ càng thông minh hơn, liên tục cập nhật bổ sung để làm phong phú tri thức và ngày càng có thể trả lời nhiều hơn các câu hỏi của khách hàng.
+
+Nếu khách hàng chọn câu hỏi theo menu mà chatbot gợi ý thì câu trả lời "đảm bảo chính xác tuyệt đối". Các câu hỏi chủ yếu thuộc lĩnh vực quan tâm phổ biến của các thuê bao như xác thực thuê bao MobiFone; tra cứu thông tin thuê bao liên quan đến gói cước, chương trình Kết Nối Dài Lâu, chương trình chuyển mạng giữ số MNP và danh sách cửa hàng MobiFone…
+
+Chatbot của MobiFone với nhiều ưu điểm như khả năng xử lý ngôn ngữ tự nhiên, cụ thể là hiểu được ngôn ngữ tiếng Việt. Ngoài ra, cũng có khả năng tự học tập dựa trên các thuật toán (Machine Learning) và công nghệ AI.
+
+Trong phiên bản thử nghiệm chatbot của MobiFone có thể tự động trả lời/cung cấp thông tin (trong phạm vi kiến thức mà chatbot đã được training) cho khách hàng một cách nhanh chóng mà không cần có sự hỗ trợ của con người. Không những thế, công cụ này có thể tương tác với nhiều khách hàng tại cùng một thời điểm, hỗ trợ 24/24.

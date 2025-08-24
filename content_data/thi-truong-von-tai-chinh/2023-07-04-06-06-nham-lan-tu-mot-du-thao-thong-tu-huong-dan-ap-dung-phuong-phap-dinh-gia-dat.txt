@@ -1,0 +1,85 @@
+Vừa qua, Bộ Tài nguyên và Môi trường đã công bố dự thảo Thông tư sửa đổi, bổ sung Thông tư số 36/2014/TT-BTNMT ngày 30/6/2014 của Bộ Tài nguyên và Môi trường quy định chi tiết phương pháp định giá đất; xây dựng, điều chỉnh bảng giá đất; định giá đất cụ thể và tư vấn xác định giá đất (sau đây gọi là Dự thảo Thông tư).
+
+Dự thảo Thông tư đã đưa ra 2 phương án sửa đổi bổ sung Điều 6 trong Thông tư 36/2014/TT-BTNMT hướng dẫn về phương pháp thặng dư. Cả hai phương án đều có nhiều bất ổn trong hướng dẫn áp dụng phương pháp thặng dư.
+
+Thực tế hiện nay, phương pháp thặng dư (residual method) thường được sử dụng để định giá lô đất trống hay các bất động sản có tiềm năng phát triển...
+
+Bên cạnh những điểm bất hợp lý của phương án 1 Dự thảo đã được chỉ ra trong bài viết trước, bài viết này sẽ phân tích và chỉ ra những điểm bất hợp lý trong phương án 2 của Dự thảo.
+
+Theo phương án 2, trường hợp dự án đầu tư phát triển bất động sản kéo dài trong nhiều năm thì ước tính các khoản doanh thu, chi phí thực hiện theo từng nămthực hiện dự ánvà phải chiết khấu về giá trị hiện tại tại thời điểm định giá đất.
+
+Việc ước tính tổng doanh thu phát triển, tổng chi phí phát triển của bất động sản thực hiện theo công thức sau:
+
+Trong đó:
+
+- TRilà doanh thu năm thứ i của dự án
+
+- Cilà chi phí năm thứ i của dự án
+
+- r là tỷ lệ chiết khấu tính theo lãi suất cho vay trung hạn bình quân của loại tiền vay VNDtạicác ngân hàng thương mại mà Nhà nước sở hữu trên 50% vốn điều lệ trên địa bàn cấp tỉnhcủanăm (được tính từ ngày 01 tháng 01 đến hết ngày 31 tháng 12)trước thời điểm định giáđể thực hiện dự án đầu tư phát triển bất động sản.
+
+- n là số năm bán hàngcủa dự án (1, 2, ..., n)
+
+- m làsố năm xây dựngcủa dự án (1, 2, ..., m)
+
+Giá trị của thửa đất cần định giá được xác định theo công thức sau:
+
+Trong trường hợp điều kiện thị trường không có sẵn thông tin hoặc các tài sản so sánh không tương đồng, hoặc độ nhiễu lớn thì việc xác định giá chuyển nhượng bất động sản đã phát triển theo phương pháp so sánh là không phù hợp; tương tự với cả phương pháp chiết trừ (và có thể bao gồm cả việc xác định giá trị hao mòn gặp khó khăn).
+
+Hãy hình dung một ví dụ đơn giản sau: Tài sản cần định giá là một lô đất trống có tiềm năng phát triển. Phương án sử dụng cao nhất và tốt nhất là xây một chung cư để bán.
+
+
+
+Việc ước tính doanh thu phát triển giả định theo phương án 2 của Dự thảo có nhiều điểm phù hợp hơn phương án 1 và tương đối giống với Thông tư hiện hành. Tuy nhiên, việc quy định “ước tính giá chuyển nhượng” chỉ giới hạn trong 2 phương pháp: phương pháp so sánh trực tiếp và phương pháp chiết trừ là chưa phù hợp.
+
+Giả sử không có bất kỳ thông tin tài sản so sánh tương đồng nào trên địa bàn được bán (hoặc có nhưng không thể sử dụng được vì thông tin quá cũ, sử dụng thông tin khu vực lân cận thì không tương đồng) nhưng lại có thông tin tương đối đầy đủ về giá cho thuê tương tự.
+
+Lúc này ngay cả khi dự án phát triển của lô đất cần định giá không phải là xây chung cư để cho thuê mà là bán đứt, vẫn có thể sử dụng cách tiếp cận thu nhập để ước tính giá hợp lý cho chung cư với giả định nếu chung cư được chuyển nhượng tại thời điểm hoàn thành, thì người mua tiềm năng và đầy đủ hiểu biết sẽ không sẵn lòng trả cao hơn thu nhập mà chung cư đó mang lại (được chiết khấu về thời điểm dự án hoàn thành).
+
+Phương pháp dòng tiền chiết khấu cũng phù hợp đối với các dự án bán/chuyển nhượng trước một phần khi chưa hoàn thiện, việc thu thập bằng chứng thị trường phù hợp là khó khăn (tất nhiên nếu tồn tại bằng chứng thị trường có thể so sánh thì phương pháp so sánh trực tiếp nên được ưu tiên sử dụng).
+
+Lúc này, các phương pháp thuộc cách tiếp cận thu nhập (phương pháp dòng tiền chiết khấu, phương pháp vốn hóa trực tiếp) có thể được sử dụng để ước tính giá chuyển nhượng.
+
+Theo hướng dẫn của RICS (2019), giá trị chuyển nhượng của bất động sản sau khi hoàn thành (completed property value) cũng có thể được xác định theo cách tiếp cận thu nhập, nhưng cần nêu rõ các giả định được sử dụng.
+
+Người viết cho rằng, để phù hợp với tiêu chuẩn quốc tế, thuật ngữ “doanh thu phát triển” nên được đổi thành giá trị tài sản phát triển gôp (GDV) vì trong hướng dẫn của Dự thảo, doanh thu phát triển không phải đơn thuần chỉ là tổng doanh thu của dự án sau khi hoàn thành được chiết khấu về hiện tại.
+
+Trong phụ lục 04 của Thông tư 36 hiện nay, khi ước tính doanh thu phát triển vẫn phải lấy doanh thu cho thuê trừ đi chi phí vận hành (kết quả của phép trừ chính là thu nhập thuần của bất động sản đã hoàn thành tạo ra được chiết khấu về hiện tại, không phải hoàn toàn là “doanh thu”). Đồng thời, ban soạn thảo nên xem xét bỏ cụm “bằng phương pháp so sánh trực tiếp, phương pháp chiết trừ” và thay bằng “bằng các phương pháp định giá phù hợp”.
+
+Trước hết,cần hiểu đúng bản chất tỷ suất chiết khấu dùng để chuyển đổi giá trị không chắc chắn ở tương lai về hiện tại, do đó tỷ suất chiết khấu phải phản ánh được rủi ro của dòng tiền.
+
+Tỷ suất chiết khấu được ước tính dựa trên chi phí cơ hội của việc sử dụng vốn, bằng cách xem xét các cơ hội sinh lời tốt nhất của các phương án/dự án tương đương có cùng mức độ rủi ro.
+
+Những dự án khác nhau sẽ có mức độ rủi ro khác nhau, vì vậy tỷ suất chiết khấu được sử dụng phải khác nhau. Những dự án rủi ro hơn đòi hỏi phải được chiết khấu tại tỷ suất chiết khấu cao hơn để bù đắp rủi ro mà nhà đầu tư/nhà phát triển phải chịu.
+
+Suất sinh lợi đòi hỏi của nhà đầu tư đối với các dự án bất động sản cao cấp, nhà ở xã hội, dự án sử dụng đất làm khu công nghiệp, dự án nông nghiệp… là khác nhau vì rủi ro của các dự án này khác nhau. Việc áp dụng chung một tỷ suất chiết khấu là “lãi suất cho vay thực hiện dự án đầu tư phát triển bất động sản” cho các dự án sử dụng đất khác nhau vô hình chung đang cào bằng rủi ro của các dự án.
+
+Thứ hai,lãi suất cho vay của ngân hàng không phải cơ hội tốt nhất có cùng mức độ rủi ro của dự án.
+
+Về mặt trực quan rất dễ thấy việc cho vay không có cùng rủi ro với việc đầu tư dự án vì lãi suất cho vay phản ánh rủi ro của chủ nợ, không phải của dự án. Trường hợp dự án phá sản và thanh lý thì chủ nợ sẽ được ưu tiên thanh toán trước. Do đó với cùng một dự án, rủi ro của chủ nợ luôn thấp hơn rủi ro của chủ đầu tư. Do vậy, không khó để nhận ra lãi suất cho vay không phản ánh rủi ro của dự án phát triển để lựa chọn làm tỷ suất chiết khấu.
+
+Thứ ba,việc sử dụng lãi suất cho vay làm tỷ suất chiết khấu thể hiện giả định ngầm rằng dự án được tài trợ hoàn toàn bằng nợ vay (tỷ trọng nợ chiếm 100% cơ cấu vốn).
+
+Theo PwC (2009), đây là một giả định kém chặt chẽ và phi thực tế. Điều này không chỉ mâu thuẫn với quy định “Lợi nhuận của nhà đầu tư có tính đến yếu tố rủi ro kinh doanh và chi phí vốn (nhà đầu tư có 100% vốn đầu tư dự án)” nêu tại Dự thảo, mà còn vi phạm các nguyên tắc cơ bản về tài chính.
+
+Khi tỷ trọng nợ vay tăng lên 100%, toàn bộ rủi ro của chủ sở hữu lúc này được chuyển sang cho chủ nợ và lãi suất cho vay sẽ cao hơn nhiều so với lãi suất cho vay thông thường.
+
+Hiện nay theo quy định tại một số địa phương và cả theo thông lệ ở Việt Nam, lợi nhuận nhà đầu tư đơn giản là tỷ lệ của chi phí xây dựng và giá đất, và không thay đổi bất kể thời gian khai thác của dự án mà chỉ phụ thuộc vào thời gian xây dựng.
+
+Giả sử lợi nhuận nhà đầu tư được xác định bằng 14% chi phí xây dựng cộng với giá đất như thông lệ hiện nay, sẽ không có sự khác biệt về tổng lợi nhuận nhà đầu tư nhận được khi phải thực hiện và theo đuổi một dự án có thời gian khai thác kéo dài 5 năm với một dự án kéo dài 50 năm.
+
+Trong khi trên thực tế, giai đoạn phát sinh dòng tiền của dự án càng dài thì kết quả càng nhạy cảm hơn với cùng một tỷ suất lợi nhuận đòi hỏi nhà đầu tư.
+
+Theo đúng phương pháp phần dư sử dụng kỹ thuật chiết khấu dòng tiền, tỷ suất chiết khấu phải là IRR của chủ sở hữu (hoặc là IRR của dự án tùy theo nhà phân tích sử dụng dòng tiền nào được tính toán). IRR là thước đo tỷ suất lợi nhuận đòi hỏi của nhà đầu tư chính xác hơn cách xác định lợi nhuận nhà đầu tư theo phương pháp thặng dư truyền thống.
+
+Theo đúng nguyên lý tài chính, lợi nhuận đòi hỏi của nhà đầu tư nếu đã được biểu thị bằng suất sinh lợi yêu cầu trong tỷ suất chiết khấu thì việc trừ đi lợi nhuận nhà đầu tư trong Tổng chi phí phát triển sẽ dẫn tới việc tính trùng 2 lần. Do vậy, đối với trường hợp phương pháp thặng dư sử dụng kỹ thuật chiết khấu dòng tiền, ban soạn thảo cần bỏ quy định trừ đi lợi nhuận nhà đầu tư trong chi phí phát triển.
+
+Hai hạng mục khác trong chi phí phát triển được hướng dẫn chưa phù hợp là việc Dự thảo đề xuất bỏ chi phí dự phòng cho khối lượng công việc phát sinh và yếu tố trượt giá trong thời gian thực hiện dự án và không tính tới chi phí lãi vay.
+
+Trong khi theo phương pháp thặng dư được thực hành trên thế giới, chi phí lãi vay (chi phí tài chính) và chi phí dự phòng thường được tính trong tổng chi phí phát triển. Trường hợp dự án không vay nợ sẽ không có có chi phí lãi vay, lúc này rủi ro của dự án không vay nợ sẽ khác dự án có vay nợ và phải được phản ánh trong tỷ suất chiết khấu.
+
+Đồng thời, nếu trong dòng tiền chưa tính tới chi phí dự phòng, sự không chắc chắn trong dòng tiền tăng lên (do nguy cơ đội vốn) và sẽ phải được phản ánh trong tỷ suất chiết khấu.
+
+
+
+Đất đai là nguồn lực quan trọng của nền kinh tế. Những bất cập tiềm ẩn trong quy định hướng dẫn phương pháp định giá có thể sẽ dẫn tới những bất cập trong việc thực hiện công tác định giá và ảnh hưởng đến việc phân bổ hiệu quả nguồn tài nguyên này. Qua việc chỉ ra những điểm bất hợp lý, người viết kỳ vọng trong thời gian tới, vấn đề sẽ được nghiên cứu sâu hơn để có những sự thay đổi tích cực.

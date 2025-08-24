@@ -1,0 +1,35 @@
+Theo các nguồn tin thân cận của Nikkei Asia, nhà sản xuất chip Đài Loan Taiwan Semiconductor Manufacturing Co. (TSMC) đã thông báo với các khách hàng của mình về việc hãng có thể tăng giá sản phẩm lần thứ hai trong chưa đầy 1 năm qua.
+
+Nguyên nhân được đưa ra là lạm phát và chi phí gia tăng, cũng như các kế hoạch mở rộng quy mô lớn của công ty nhằm giúp giảm bớt tình trạng thiếu chip toàn cầu.
+
+TSMC, hiện là nhà sản xuất chip theo hợp đồng lớn nhất thế giới, dự kiến tăng giá ở “mức phần trăm một chữ số” với cả các sản phẩm sản xuất theo công nghệ chip thông thường và cao cấp, 6 nguồn tin của Nikkei Asia cho biết. Việc tăng giá sẽ có hiệu lực từ đầu năm 2023.
+
+Hai trong số các nguồn tin nói rằng mức tăng giá có thể là khoảng 5-8% tùy vào công nghệ sản xuất, từ chip cao cấp cho tới chip theo công nghệ “nút trưởng thành” (mature node) (ít tiên tiến hơn), từ chip kết nối và cảm biến, cho tới bộ vi điều khiển và IC nguồn điện.
+
+"Việc thông báo sớm nhằm giúp khách hàng có sự chuẩn bị cho việc điều chỉnh giá. Còn với TSMC, việc tăng giá nhằm giải quyết tình trạng chi phí tăng cao và có nguồn tiền cần thiết để thực hiện kế hoạch mở rộng lịch sử của công ty”, một nguồn tin cho biết.
+
+Theo một nguồn tin khác, trong bối cảnh nhu cầu đối với các sản phẩm như điện thoại thông minh và máy tính cá nhân suy giảm, khách hàng của TSMC khó có thể chấp nhận hoàn toàn việc điều chỉnh tăng giá này.
+
+“Với các loại chip cao cấp còn có thể được, nhưng với các con chip ít tiên tiến hơn, khách hàng rất khó chấp nhận”, người này cho biết.
+
+
+
+"Tất cả các nhà sản xuất chip đều bị ảnh hưởng bởi giá cả linh kiện và nguyên vật liệu tăng, và việc này khiến cho chi phí sản xuất bị đội lên".
+
+Chủ tịch TSMC Mark Liu
+
+Chi phí sản xuất gia tăng đang gây áp lực lớn đối với các nhà sản xuất chip, trong bối cảnh nhu cầu đối với điện thoại thông minh và máy tính cá nhân sụt giảm do những yếu tố bất ổn trên thị trường gây ra bởi lạm phát, chiến tranh ở Ukraine và các đợt phong tỏa phòng dịch Covid ở Trung Quốc.
+
+Việc tăng giá cũng phản ánh chi phí khổng lồ của TMSC cho kế hoạch đầu tư mở rộng hoạt động của mình. Công ty này dự kiến đầu tư 100 tỷ USD từ nay tới năm 2023 để tăng công suất, trong đó riêng năm nay là 40-44 tỷ USD.
+
+Thông báo nói trên của TSMC được đưa ra chưa đầy một năm sau đợt tăng giá mạnh nhất trong một thập kỷ trở lại đây của công ty này. Tháng 8 năm ngoái, hãng chip Đài Loan cho biết sẽ tăng giá tới 20% trong bối cảnh toàn cầu rơi vào cuộc khủng hoảng thiếu chip chưa từng thấy và công ty đang triển khai kế hoạch tăng công suất lịch sử.
+
+Một số đối thủ nhỏ hơn của TSMC như United Microelectronics và Semiconductor Manufacturing International Co. cũng đã tăng giá vài lần trong năm ngoái. Một số hãng thậm chí tăng giá mạnh hơn so với TSMC. Tuy nhiên, động thái hiếm thấy của TSMC năm ngoái đã làm chao đảo ngành công nghiệp chip.
+
+Cũng gây bất ngờ không kém là việc TSMC quyết định dừng việc giảm giá hàng quý cho các khách hàng thiết kế chip sau khi sản phẩm của họ được đưa vào sản xuất hàng loạt với quy trình trơn tru.
+
+"Tất cả các nhà sản xuất chip đều bị ảnh hưởng bởi giá cả linh kiện và nguyên vật liệu tăng, và việc này khiến cho chi phí sản xuất bị đội lên", Chủ tịch Mark Liu của TSMC cho biết hồi tháng 3.
+
+Động thái của TSMC cũng diễn ra giữa lúc ngành công nghiệp thiết bị sản xuất chip đang vật lộn với tình trạng thiếu hụt nghiêm trọng từ linh kiện cho tới nguyên vật liệu. Tình trạng này khiến thời gian giao thiết bị kéo dài tới 18 tháng với một số khách hàng như TSMC và có nguy cơ cản trở kế hoạch tăng công suất của các nhà sản xuất chip.
+
+ASML, hãng thiết bị sản xuất chip lớn nhất châu Âu, gần đây bày tỏ quan ngại về tình trạng lạm phát, chi phí lao động, nguyên vật liệu và năng lượng gia tăng cũng như chi phí phát sinh để nhập linh kiện. Công ty này dự báo tất cả các yếu tố đó sẽ khiến tỷ suất lợi nhuận gộp của mình giảm 1 điểm phần trăm trong năm nay.

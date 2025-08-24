@@ -1,0 +1,33 @@
+Theo báo cáo của JLL Việt Nam, thị trường trung tâm dữ liệu Việt Nam hiện do các công ty viễn thông trong nước thống trị, như: VNPT, Viettel IDC, FPT Telecom và CMC Telecom, với sự tăng trưởng đáng kể về nhu cầu dịch vụ đám mây và phân tích dữ liệu lớn.
+
+Tuy nhiên, thị trường đã bắt đầu có sự tham gia của các doanh nghiệp quốc tế, với một số dự án đáng chú ý, như: trung tâm dữ liệu công suất 20MW của Gaw Capital tại Khu Công nghệ cao TP.HCM; dự án công suất 30MW của Worldwide DC Solution, nhà phát triển trung tâm dữ liệu có trụ sở tại Singapore; dự án hợp tác giữa gã khổng lồ viễn thông Nhật Bản NTT với DQ Tek.
+
+Đáng chú ý, Alibaba đã công bố kế hoạch thành lập trung tâm dữ liệu tại Việt Nam và dự kiến theo sau là các nhà cung cấp dịch vụ đám mây toàn cầu, đặc biệt từ Hoa Kỳ.
+
+Nhiều nhà cung cấp dịch vụ điện toán đám mây từ Mỹ được JLL dự báo sẽ theo chân hãng thương mại điện tử Trung Quốc, khiến thị trường ngày càng cạnh tranh và đa dạng hóa dịch vụ.
+
+"Việc Google, Amazon, Microsoft, Tencent đầu tư trung tâm dữ liệu riêng tại Việt Nam chỉ là vấn đề thời gian", JLL cho biết.
+
+Trong một báo cáo về thị trường châu Á - Thái Bình Dương, Savills cũng nhìn nhận ngành trung tâm dữ liệu của Việt Nam là một trong những thị trường phát triển nhanh nhất thế giới.
+
+Hiện, Việt Nam có 28 trung tâm dữ liệu tại 3 miền với tổng công suất đạt 45MW. Savills đánh giá nguồn cung lĩnh vực này tại Việt Nam, Thái Lan, Indonesia, Malaysia vẫn ít hơn Hong Kong hay Singapore, dù dân số đông hơn khoảng 30 lần.
+
+Theo báo cáo tại hội nghị Data Center & Cloud Infrastructure Summit, tổng dung lượng thị trường lĩnh vực Data Center (trung tâm dữ liệu) đạt khoảng 321 tỷ USD năm 2024, với tốc độ tăng trưởng trung bình 7,3%. Tại Việt Nam, dự báo những năm tới sẽ có sự bùng nổ về Data Center với quy mô đạt 1,27 tỷ USD vào năm 2030, tốc độ tăng trưởng kép bình quân 10,8%...
+
+JLL Việt Nam cho biết trung tâm dữ liệu ở Việt Nam có chi phí xây dựng từ 6 - 13 triệu USD/megawatt. Mức dao động lớn này thể hiện tính đặc trưng của việc xây dựng trung tâm dữ liệu, như các thoả thuận đặc thù và chi phí xây dựng khác nhau ở các địa phương.
+
+Tuy nhiên, chi phí xây dựng tại Việt Nam vẫn đang là lợi thế khi so với các quốc gia như Nhật Bản, Singapore và Hàn Quốc đang phải đối mặt với chi phí xây dựng leo thang. Dù vậy, Trung Quốc và Ấn Độ cũng đang là nơi để lựa chọn thay thế tiết kiệm chi phí hơn cho việc phát triển trung tâm dữ liệu.
+
+Về chi phí vận hành, về giá dịch vụ cho thuê chỗ đặt máy chủ thì chi phí có thể dao động đáng kể dựa trên mức tiêu thụ kilowatt mỗi tháng. Các nhà vận hành trung tâm dữ liệu cần cân nhắc khi lập kế hoạch đầu tư vào các thị trường khác nhau ở Châu Á.
+
+Để đảm bảo nguồn điện, Việt Nam đang thực hiện quy hoạch điện VIII của Việt Nam nhằm nâng tổng công suất phát điện của quốc gia từ khoảng 80 GW lên 155 GW thông qua đa dạng hóa cơ cấu năng lượng, giảm phụ thuộc vào điện than và chuyển sang các nguồn năng lượng bền vững hơn.
+
+“Quá trình chuyển đổi này rất quan trọng để đảm bảo nguồn cung năng lượng ổn định và tin cậy để đáp ứng nhu cầu ngày càng tăng của lĩnh vực trung tâm dữ liệu vốn tiêu tốn nhiều năng lượng và đang phát triển nhanh chóng ở Việt Nam”, JLL Việt Nam nhấn mạnh.
+
+Bên cạnh đó, Luật Viễn thông 2023 có hiệu lực từ tháng 01/2025, sẽ cung cấp một khung pháp lý có cấu trúc chặt chẽ hơn với các định nghĩa và hướng dẫn rõ ràng cho các dịch vụ trung tâm dữ liệu và điện toán đám mây dưới dạng dịch vụ viễn thông.
+
+Với cách tiếp cận quản trị linh hoạt, Luật Viễn thông 2023 được kỳ vọng sẽ cung cấp một khuôn khổ pháp lý thuận lợi cho sự phát triển của ngành, có khả năng thu hút thêm đầu tư nước ngoài với việc tự do hóa các điều kiện tiếp cận thị trường.
+
+“Luật cho phép đầu tư nước ngoài 100% vào các dịch vụ trung tâm dữ liệu. Tuy nhiên, các hạn chế về tiếp cận thị trường sẽ được áp dụng nếu nhà cung cấp dịch vụ trung tâm dữ liệu cung cấp dịch vụ kết nối mạng”, JLL Việt Nam lưu ý.
+
+Bà Celina Chua, Giám đốc Giải pháp Khách hàng Trung tâm Dữ liệu (APAC) tại JLL, nhấn mạnh Việt Nam đang ở vị trí ưu tiên trong danh sách các quốc gia mà nhà đầu tư và nhà vận hành đang tìm hiểu khi xây dựng chiến lược thâm nhập thị trường. Việt Nam cũng sẵn sàng tận dụng các cơ hội này, với sự hỗ trợ ngày càng tăng từ chính phủ và nhu cầu ngày càng lớn về các dịch vụ kỹ thuật số, giúp định hình một tương lai đầy hứa hẹn cho ngành này tại đây.

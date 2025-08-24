@@ -1,0 +1,63 @@
+Đã là nhà đầu tư trên thị trường chứng khoán, chắc chắn ít nhất ai cũng từng một lần đọc các bản phân tích thị trường từ các tổ chức đầu tư. Phân tích kỹ thuật luôn chỉ ra đâu là ngưỡng hỗ trợ, kháng cự, thậm chí còn dự phóng cả tương lai của thị trường trong cả năm.
+
+Lời nói luôn rất dễ dàng, sai cũng không có vấn đề gì, vì mọi thứ chỉ là lời nói.
+
+Nhưng thị trường phái sinh ra đời, đây sẽ là phép thử cho độ khả tín, cũng như độ tự tin của những lời nói đó. Sẽ không còn là lời nói gió bay nữa, bởi nếu “chắc cú”, thì hãy đặt cửa đi!
+
+Bản chất của giao dịch đầu cơ hợp đồng tương lai chỉ số là hoạt động đặt cược vào xu thế biến động giá của hợp đồng cũng như xu thế biến động của chỉ số cơ sở. Ngay cả việc giao dịch trong ngày (day trading) cũng là đặt cược vào xu thế, chỉ là với một xu thế rất ngắn, thường tính bằng phút hoặc giờ.
+
+Đối với các giao dịch đầu cơ theo xu thế dài hơn, hoạt động của thị trường phái sinh có tính dự báo và là thước đo tâm lý thị trường.
+
+Thanh khoản của thị trường
+
+Tính thanh khoản của một thị trường vẫn thường được nhìn qua lăng kính khối lượng giao dịch. Tuy nhiên tính thanh khoản có nhiều ý nghĩa hơn, đặc biệt là trên một thị trường có khả năng giao dịch trong ngày và các giao dịch chênh lệch giá như hợp đồng tương lai chỉ số.
+
+Tính thanh khoản thể hiện khả năng thực thi một lệnh Long/Short với một quy mô bất kỳ một cách nhanh chóng mà không làm giá biến động mạnh. Tính thanh khoản thường được đo lường bằng các thông số định lượng như mức chênh lệch giữa giá mua/bán tốt nhất (bid/ask spread); độ lớn của khối lượng mua/bán phía sau cặp giá mua/bán tốt nhất…
+
+Thị trường được cho là có tính thanh khoản cao khi có mức chênh lệch giá mua/bán ở mức tối thiểu và độ sâu đủ để các lệnh lô lớn vào ra mà không ảnh hưởng quá nhiều lên giá hay hạn chế tối đa rủi ro khớp không đúng giá dự tính (slippage).
+
+Như đã nói ở các bài trước, đầu cơ ngắn hạn hay giao dịch trong ngày đối với hợp đồng tương lai chỉ số chủ yếu là dựa trên biến động giá cực ngắn hạn. Mức dao động thường không lớn nên lợi nhuận chỉ nhiều khi giao dịch quy mô lớn. Nếu tính thanh khoản kém, giao dịch lô lớn sẽ không thực hiện được như kế hoạch mong muốn.
+
+Hay như với các giao dịch arbitrage, mức giá lý thuyết sẽ tạo chênh lệch bất lợi với giá khớp thực tế khi giao dịch làm sai lệch, giảm lợi nhuận. Giao dịch tần suất cao dựa trên thuật toán tự động (High Frequency Trading - HFT) cũng cần điều kiện tiên quyết là thanh khoản đủ lớn.
+
+Yếu tố khối lượng trên thị trường phái sinh cũng không giống hoàn toàn với thị trường cổ phiếu. Khối lượng giao dịch của thị trường phái sinh là tổng số lượng hợp đồng được giao dịch trong một khoảng thời gian, thường là tính theo ngày.  Khối lượng hàng ngày chính là số lượng cặp hợp đồng được khớp với nhau.
+
+Ví dụ tại hôm nay, nhà đầu tư A mở 01 vị thế Long thành công, tức là cũng sẽ có nhà đầu tư B mở 01 vị thế Short thành công (đối ứng với nhà đầu tư A). Khối lượng hôm đó được ghi nhận là 1. Ngày hôm sau nhà đầu tư C mở 5 vị thế Short (sẽ có 5 vị thế Long đối ứng) thì khối lượng được ghi nhận là 5.
+
+Khối lượng giao dịch đối với một hợp đồng tương lai chỉ số thường giảm đi đáng kể khi hợp đồng đó tiến gần sát thời điểm đáo hạn. Do tại thời điểm đáo hạn, giá thanh toán của hợp đồng sẽ chính là giá (điểm số) của chỉ số cơ sở nên càng gần đến ngày đáo hạn, dao động càng giảm. Nhà đầu tư có xu hướng chuyển sang giao dịch với hợp đồng nối tiếp (tháng kế tiếp hoặc các hợp đồng dài hơn).
+
+Tuy nhiên ví dụ trên chưa đề cập tới số lượng hợp đồng còn đang được duy trì cộng dồn qua hai ngày. Cụ thể, tuy khối lượng giao dịch tại ngày thứ hai được ghi nhận là 5, nhưng nếu nhìn theo số vị thế mà các nhà đầu tư còn duy trì trong hai ngày đó thì lại là 6 (1 vị thế ngày đầu tiên cộng 5 vị thế ngày thứ hai).
+
+Từ đó, trên thị trường phái sinh còn có một khái niệm nữa là vị thế mở (Open Interest - OI). Đó là số lượng cộng dồn các vị thế chưa được đóng lại của một loại hợp đồng. Cụ thể với ví dụ trên, OI tại ngày thứ 2 sẽ là 6 vì đang có 6 vị thế còn được các nhà đầu tư duy trì.
+
+Trên thế giới, do thị trường phái sinh giao dịch liên tục và từ khắp các vị trí địa lý khác nhau nên thông thường số liệu Open Interest chỉ được công bố sau một ngày. Đối với thị trường Việt Nam, thị trường phái sinh kết thúc cùng giờ với thị trường cơ sở nên số liệu sẽ được công bố ngay trong ngày.
+
+Futures thực sự dự báo tương lai?
+
+Khối lượng giao dịch hàng ngày thể hiện mức độ thanh khoản của hợp đồng, bao gồm cả các giao dịch đầu cơ ngắn hạn “day trading”. Số lượng vị thế mở thể hiện quy mô đặt cược với tầm nhìn dài hơn và có nhiều ý nghĩa hơn.
+
+Nếu nhà đầu tư cho rằng thị trường sẽ giảm, vị thế Short sẽ được mở và ngược lại. Chừng nào nhà đầu tư vẫn giữ quan điểm của mình về thị trường và chấp nhận được rủi ro thì sẽ còn duy trì vị thế.
+
+Do đó vị thế mở - Open Interest - trong một khía cạnh nào đó phản ánh quan điểm về thị trường.
+
+Để có được một vị thế mở thì cần một cặp vị thế đối ứng Long/Short. Số lượng vị thế mở càng cao tức là càng có nhiều nhà đầu tư tham gia trên thị trường phái sinh. Vì thế nếu giá của hợp đồng tương lai tăng theo số vị thế mở cũng tương tự như khối lượng giao dịch tăng cùng với giá cổ phiếu tăng. Các giao dịch ngắn hạn day trading sẽ được đóng mở ngay trong ngày và không thể hiện ở số lượng Open Interest.
+
+Điểm khác đối với giao dịch hợp đồng tương lai chỉ số là để sửa sai với vị thế Short trong trường hợp giá hợp đồng tăng, nhà đầu tư không BÁN cắt lỗ mà là MUA (Long), giống với việc mua lại khi bán khống cổ phiếu. Như vậy khi một bên sửa sai sẽ làm vị thế đối nghịch mạnh hơn.
+
+Thị trường phái sinh thường mở cửa trước thị trường cơ sở, tại Việt Nam sẽ là mở cửa trước 15 phút. Đó là thời gian cho thị trường phái sinh phản ánh trước các thông tin sau giờ giao dịch của thị trường cơ sở. Do đó giá của hợp đồng tương lai thường dự báo trước xác suất tăng hay giảm của chỉ số cơ sở. Nếu các nhà đầu tư thể hiện lạc quan và đặt cược tăng giá trên thị trường tương lai nghĩa là đặt cược vào diễn biến tăng của thị trường cơ sở sẽ mở cửa sau đó.
+
+Tuy nhiên tín hiệu dự báo này thường chỉ có hiệu lực trong thời gian ngắn, hầu hết là trong diễn biến của đợt mở cửa. Trong 15 phút mở cửa sớm này và 15 phút dồn lệnh cho đợt mở cửa của thị trường cổ phiếu, sẽ không có các giao dịch chênh lệch giá (arbitrage) do thị trường cơ sở chưa giao dịch.
+
+Vì thế cũng sẽ không có các giao dịch điều chỉnh sai lệch trong định giá của hợp đồng tương lai. Khi thị trường cơ sở giao dịch, hiện tượng định giá sai sẽ sớm được kiểm tra. Chỉ số cơ sở - trường hợp này là VN30-Index - là do tập hợp giá của 30 cổ phiếu không phải lúc nào cũng có cung cầu bám sát tương đồng với sự lạc quan thể hiện trên thị trường hợp đồng tương lai.
+
+Ý nghĩa hơn trong việc dự báo tương lai thông qua giao dịch hợp đồng tương lai là các điểm cực đại của tâm lý đám đông. Nếu số đông nhà đầu tư lo sợ và cho rằng thị trường sẽ sụt giảm, thông thường sẽ có hiện tượng đổ xô đi Short hợp đồng tương lai.
+
+Điều ngược lại cũng thường xảy ra. Một nghịch lý là đám đông thường sai lầm nên diễn biến nói trên ở thị trường tương lai có thể lại là chỉ báo ngược.
+
+Ngoài ra, nếu các tổ chức lớn thực hiện phòng vệ cho danh mục cổ phiếu bằng khối lượng lớn hợp đồng tương lai cũng có thể xem là dấu hiệu tiêu cực vì thể hiện quan điểm thận trọng của các tay chơi lớn.
+
+Với bất kỳ thị trường nào yếu tố quan trọng nhất cũng là dòng tiền mạnh hay yếu. Số liệu Open Interest thể hiện số lượng hợp đồng còn đang mở, cũng đồng nghĩa với thể hiện số tiền đang chảy vào thị trường lớn hay nhỏ thông qua khả năng chấp nhận đặt cược vào xu thế.
+
+Khác với khối lượng, số lượng Open Interest sẽ tăng nếu có thêm vị thế hoàn toàn mới được mở và sẽ giảm nếu vị thế cũ được đóng lại. Số lượng Open Interest giảm tức là có nhiều nhà đầu tư rời khỏi cuộc chơi. Open Interest tăng lên không hàm ý về xu hướng của giá – vì trên lý thuyết cung cầu với hợp đồng tương lai chỉ số là không giới hạn, nhưng phản ánh khía cạnh tâm lý trên thị trường mạnh hay yếu trên cơ sở sự sẵn sàng đặt cược vào xu thế.
+
+Như trên đã nói, để Open Interest tăng lên thì phải có thêm vị thế mới được mở. Sẽ có trường hợp khối lượng giao dịch hợp đồng tương lai tăng, nhưng Open Interest không tăng. Đó là do vị thế cũ được đổi vai, khi một bên Long/Short thực hiện đóng vị thế của mình nhưng phía đối ứng là một nhà đầu tư khác hoàn toàn mới thay thế để duy trì vị thế hiện có. Open Interest chỉ tăng nếu có một cặp lệnh Long/Short mới được khớp. Open Interest giảm nếu lệnh của nhà đầu tư đang giữ vị thế khớp với lệnh của nhà đầu tư khác cũng đang giữ vị thế đối nghịch trên hợp đồng cùng kỳ hạn.

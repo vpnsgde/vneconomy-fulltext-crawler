@@ -1,0 +1,71 @@
+Bảy tháng trước, Fujitsu đã quyết định kết hợp với FPT trong việc đưa ứng dụng công nghệ thông tin (IT) vào hỗ trợ phát triển nông nghiệp tại Việt Nam.
+
+Thông tin này được giới quan sát chú ý, khi Fujitsu là công ty lớn nhất về IT của Nhật Bản, và hiện cũng là một trong những công ty IT có vốn nước ngoài lâu đời nhất tại Việt Nam.
+
+Từ một chuyến thăm
+
+Trong cuộc trò chuyện với VnEconomy mới đây, ông Kudo Sei, Tổng giám đốc Fujitsu Vietnam, kể:
+
+- Câu chuyện bắt đầu từ chuyến thăm Nhật Bản của một số nhân vật cao cấp trong Chính phủ Việt Nam, trong chuyến thăm này, chúng tôi có tổ chức một buổi tiệc thân mật tại trụ sở Fujitsu.
+
+Trong câu chuyện, chúng tôi được nghe lời khuyến khích: công ty Fujitsu đã ứng dụng rất nhiều công nghệ IT vào phát triển để nâng cao hiệu suất sản phẩm nông nghiệp, các ông thử áp dụng những công nghệ này vào để phát triển nông nghiệp ở Việt Nam có được không?
+
+Và thế là chúng tôi bắt tay với FPT, một trong những công ty IT lớn nhất của Việt Nam, từ tháng 10/2014, chương trình này chính thức khởi động.
+
+Cụ thể, chương trình này sẽ được tiến hành như thế nào, thưa ông?
+
+Chúng tôi có dự định vào khoảng nửa cuối năm 2015 sẽ thực nghiệm trên môi trường thực tế.
+
+Chúng tôi sẽ thực nghiệm ở ngoại thành Hà Nội để tạo điều kiện lý tưởng trong nhà kính, sau đó sẽ thu thập thông tin về các sản phẩm nông nghiệp, rồi gửi chúng về phòng nghiên cứu của chúng tôi tại Nhật Bản để phân tích dữ liệu.
+
+Dựa trên những kết quả này, chúng tôi sẽ biết được ở môi trường như Việt Nam thì trồng cây gì là thích hợp nhất, rồi sẽ tính tiếp là có làm hay không.
+
+Việc mang kĩ thuật cao từ Nhật Bản sang Việt Nam là một điều đáng hoan nghênh, tuy nhiên với mặt bằng giá cả nông sản tại Việt Nam còn thấp như hiện nay, các ông sẽ tính như thế nào ?
+
+Tôi nghĩ rằng đây là điều đáng quan tâm nhất. Chính xác là để làm ra những loại nông phẩm không dùng thuốc bảo vệ thực vật hoặc ít thuốc thì giá thành sẽ đội lên rất cao.
+
+Tuy nhiên, những người được hưởng lợi từ chương trình này là không ít, hơn nữa khi trồng các loại rau sạch và đưa ra thị trường thì người nông dân sẽ tăng thu nhập, càng ngày càng có nhiều loại nông sản chất lượng cao ra đời.
+
+Sản phẩm không chỉ nhắm vào tiêu dùng trong nước, mà còn có thể đưa ra xuất khẩu đến các nước tiên tiến khác nữa. Bằng cách này, chúng tôi nghĩ sẽ giúp phát triển nông nghiệp Việt Nam một cách hiệu quả hơn.
+
+Chúng tôi biết rằng các ông cũng có đề án về hệ thống phòng chống tai nạn, thiên tai cho người dân tại Huế, xin hỏi vì đâu mà có ý tưởng này?
+
+Nhật bản là đất nước có nhiều thiên tai. Vì thế chúng tôi có rất nhiều kinh nghiệm phong phú trong lĩnh vực phòng chống thiên tai. Công ty chúng tôi cũng nắm giữ nhiều kinh nghiệm đó và chúng tôi muốn đóng góp vào việc ứng dụng phòng chống thiên tai ở Việt Nam.
+
+Việt Nam, đặc biệt là khu vực miền Trung, hàng năm hứng chịu nhiều thiệt hại do các cơn bão gây ra. Do ngân sách cũng có phần giới hạn nên khó có thể giải quyết vấn đề này một cách triệt để. Đối với vấn đề này, công nghệ thông tin có thể giúp ích gì?
+
+Chúng tôi đã có có những suy nghĩ và thực nghiệm thực tế. Cụ thể, chúng tôi đã phân phát nhiều smartphone có cài chương trình quan trắc cho những quan sát viên tại nhiều địa phương, với chương trình này mức nước trên sông, lượng mưa rơi, và các dữ liệu liên quan về thời tiết sẽ được thu thập và gửi về trung tâm.
+
+Hệ thống có chức năng định vị (GPS) do đó mực nước ở nơi nào cũng dễ dàng được đánh dấu và theo dõi. Dựa theo mực nước đánh dấu qua hình ảnh gửi về, các chuyên gia sẽ phân tích và dự báo khả năng có thể hình thành lũ hay không, từ đó đưa ra những cảnh báo chính xác.
+
+Hiện nay hầu như ai cũng có điện thoại và gửi thông tin đi là những thao tác bình thường mà ai cũng làm được. Điều này giúp cho tiết kiệm chi phí thấp nhất mà vẫn có khả năng dự báo nhanh chóng nhỉ.
+
+Hiện nay chúng tôi đã lắp đặt được 3 vị trí quan trắc. Tiếp tục chúng tôi sẽ mở rộng ra thực nghiệp trên toàn tỉnh Thừa Thiên - Huế. Nếu đạt hiệu quả tốt chúng tôi sẽ nhân rộng mô hình này ra khắp Việt Nam.
+
+Đặt mục tiêu là Việt Nam
+
+Hiện các ông đã có 3 pháp nhân tại Việt Nam, hoạt động trong các lĩnh vực buôn bán phần mềm và phần cứng, xây dựng hệ thống... Xin cho biết có bao nhiêu người Việt Nam đang làm việc trong tất cả các lĩnh vực đó?
+
+Tổng số là gần 3.000 người Việt Nam cho cả 3 công ty. Nhân viên Nhật chỉ chiếm khoảng 1/100 con số đó, có thể nói công ty của chúng tôi gần như là công ty của người Việt.
+
+Với quy mô đa quốc gia và có mặt hầu hết các nước, các ông có nhận xét gì về trình độ của các kỹ thuật viên người Việt Nam?
+
+Tôi cảm thấy họ có trình độ rất tốt. Kiên nhẫn và rất chịu khó, khi gặp những vấn đề cần phải giải quyết thì ngay cả phải làm thêm thì họ cũng cố gắng làm cho xong việc.
+
+Tuy nhiên, nếu có vấn đề phát sinh, họ thường bám theo cẩm nang hướng dẫn một cách thành thực, nên giả sử tư liệu có sai sót thì công việc cũng sẽ bị sai. Nhiều khi quá trung thành với cẩm nang hướng dẫn tưởng là hay lại hóa dở là vậy.
+
+Để nâng cao trình độ của công nhân Việt Nam, các ông có những giải pháp gì?
+
+Công ty chúng tôi chủ trương cho nhân viên những khóa đào tạo tổng quát, những khóa huấn luyện bán hàng cụ thể, chọn những kỷ thuật viên để gửi họ về công ty mẹ tại Nhật để đào tạo trực tiếp từ 1 đến 3 tháng.
+
+Bằng cách này, ngoài kỹ thuật ra họ còn học được phong cách làm việc và văn hóa theo phong cách Fujitsu nữa.
+
+Các ông có ý định mở rộng qui mộ của mình tại Việt Nam trong tương lai không ?
+
+Hiện nay 80% tỉ lệ offshore của Fujitsu là tại Trung Quốc. Trong tương lai chúng tôi vẫn duy trì khối lượng công việc như vậy tại Trung Quốc và mở rộng quy mô ra các nước xung quanh. Lúc đó, như tôi nói ở trên, chúng tôi đang đặt mục tiêu là Việt Nam.
+
+Trong rất nhiều ứng cử viên nặng ký như Ấn Độ chẳng hạn, lý do nào các ông có ý định chọn Việt Nam ?
+
+Đầu tiên,  người Việt Nam cần cù siêng năng, và thứ nữa đó là giá nhân công rẻ. Bên cạnh đó chúng tôi được biết người Việt Nam có tình cảm tốt với Nhật Bản, đây là thuận lợi lớn.
+
+Hơn nữa so với những nước trong khu vực thì trình độ hiểu tiếng Nhật của nhân sự IT Việt Nam cũng nhiều hơn. Trong tương lai chúng tôi sẽ tăng số lượng nhân viên của mình hơn nữa.

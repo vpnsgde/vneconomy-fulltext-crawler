@@ -1,0 +1,29 @@
+Ngân hàng Nhà nước Việt Nam đã chính thức ban hành Thông tư 14/2025/TT-NHNN có hiệu lực từ ngày 15 tháng 9 năm 2025, thay thế Thông tư 41/2016, với mục tiêu tiệm cận hơn với tiêu chuẩn Basel III.
+
+Thông tư 14 giới thiệu phương pháp xếp hạng nội bộ (IRB) bên cạnh phương pháp tiêu chuẩn (SA). IRB yêu cầu mức độ chi tiết dữ liệu tương đương chuẩn IFRS, mang lại lợi thế cho các ngân hàng đã và đang tuân thủ IFRS. Độ phức tạp của IRB - đặc biệt phải có mô hình phân tích và hạ tầng công nghệ thống kê và lưu trữ dữ liệu lớn, có thể là thách thức đối với các ngân hàng quy mô nhỏ hơn.
+
+Tuy nhiên, lộ trình triển khai theo từng giai đoạn sẽ tạo điều kiện cho phép các ngân hàng từng bước thích nghi và tuân thủ các yêu cầu mới.
+
+Giai đoạn chuyển tiếp (đến ngày 31/12/2029): Các ngân hàng có thể lựa chọn phương pháp tính tỷ lệ an toàn vốn (theo Thông tư 14 hoặc Thông tư 41) sau khi đăng ký với Ngân hàng Nhà nước.
+
+Giai đoạn triển khai toàn diện (từ ngày 01/01/2030): Tất cả các ngân hàng bắt buộc phải tuân thủ phương pháp SA theo Thông tư 14.
+
+Đối với phương pháp IRB: Các ngân hàng phải hoàn thành ít nhất hai năm triển khai thử nghiệm thành công trước khi xin phê duyệt từ Ngân hàng Nhà nước.
+
+Thông tư 14 nhấn mạnh tầm quan trọng của chất lượng và độ an toàn của cấu trúc vốn ngân hàng, bằng cách đưa ra các yêu cầu riêng biệt đối với vốn lõi cấp 1 và vốn cấp 1, thay vì chỉ tập trung vào tổng giá trị vốn. Cụ thể, quy định đặt ra tỷ lệ tối thiểu vốn lõi cấp 1 (CET1) là 4,5% và tỷ lệ vốn cấp 1 là 6%. Ngoài ra, quy định tỷ lệ Bộ đệm bảo toàn vốn (CCB) ở mức 2,5% và Bộ đệm vốn phản chu kỳ (CCyB) dao động từ 0% đến 2,5%, tùy thuộc vào điều kiện kinh tế vĩ mô.
+
+Những yêu cầu này nâng tỷ lệ CET1 tối thiểu lên 7% và tỷ lệ an toàn vốn tổng thể (CAR), bao gồm cả bộ đệm, lên ít nhất 10,5%. Đặc biệt, CCyB được thiết kế để Ngân hàng Nhà nước có thể linh hoạt quản lý nhằm: giảm thiểu rủi ro liên quan đến tăng trưởng tín dụng quá mức trong giai đoạn kinh tế mở rộng, và tăng cường khả năng chống chịu của ngành ngân hàng bằng cách yêu cầu bộ đệm mạnh hơn khi dự báo có khả năng xảy ra suy thoái.
+
+Ở khía cạnh khác, Thông tư 14 giảm hệ số rủi ro đối với một số loại tài sản nhất định theo phương pháp tiêu chuẩn (SA) – đặc biệt đối với cho vay doanh nghiệp vừa và nhỏ, cho vay lĩnh vực nông nghiệp và cho vay cá nhân. Những điều chỉnh này nhằm giảm chi phí vốn và tạo điều kiện tiếp cận tín dụng cho một số lĩnh vực.
+
+Việc tối ưu hóa RWA nói trên trực tiếp làm giảm yêu cầu vốn đối với các khoản vay đủ điều kiện (có tỷ lệ cho vay trên giá trị tài sản (LTV) thấp, tài sản đảm bảo đủ điều kiện và dòng tiền mạnh để trả nợ), cho phép các ngân hàng mở rộng tín dụng mà không vi phạm ngưỡng an toàn vốn.
+
+Theo đánh giá của SSI Reseacrh, Thông tư 14 là bước chuyển mình tích cực của Ngân hàng Nhà nước, để đưa Việt Nam tiến gần hơn đến các chuẩn mực an toàn quốc tế – nâng cao mức độ an  toàn hệ thống, tính minh bạch và khả năng phản ứng với rủi ro.
+
+Tuy nhiên, bằng cách giảm hệ số rủi ro theo phương pháp SA ở một vài phân khúc cho vay và cho phép lộ trình triển khai theo từng giai đoạn, Thông tư 14 tạo điều kiện mở rộng tín dụng bền vững, phù hợp với mục tiêu tăng trưởng GDP theo định hướng của Chính phủ.
+
+Mặc dù Thông tư 14 tạo điều kiện tăng trưởng tín dụng hiệu quả hơn về mặt vốn, nó cũng tiềm ẩn rủi ro nếu không được quản lý một cách thận trọng, đặc biệt trong bối cảnh tỷ lệ tín dụng trên GDP của Việt Nam đang ở mức cao.
+
+Theo quan điểm của SSI Research, trong bối cảnh không còn áp dụng hạn mức tăng trưởng tín dụng, Ngân hàng Nhà nước sẽ cần áp dụng bộ công cụ giám sát linh hoạt hơn, bao gồm Bộ đệm vốn phản chu kỳ (CCyB), ICAAP, và tăng cường giám sát rủi ro thanh khoản cũng như rủi ro lãi suất.
+
+Trong ngắn hạn, kỳ vọng các ngân hàng sẽ chuyển sang áp dụng Thông tư 14 theo phương pháp SA, vì điều này giúp cải thiện CAR và hỗ trợ mở rộng danh mục cho vay có chọn lọc. Một số ngân hàng sẽ có nhu đầu đẩy mạnh vốn cấp 1 để để hỗ trợ tăng trưởng dài hạn bền vững hơn.

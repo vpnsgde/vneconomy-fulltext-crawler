@@ -1,0 +1,15 @@
+Sự ra đời của trí tuệ nhân tạo (AI) báo hiệu một kỷ nguyên mới trên mọi lĩnh vực, trong đó chuyển đổi sâu sắc lĩnh vực công nghệ thông tin và truyền thông (ICT). Không giống như những thay đổi công nghệ trước đây chủ yếu tác động đến lao động thủ công và liên quan đến các nhiệm vụ lặp đi lặp lại, AI hiện đang thâm nhập vào các vai trò đòi hỏi các kỹ năng nhận thức ở mức độ nâng cao hơn.
+
+Trong 47 vị trí công nghệ thông tin phổ biến, nghiên cứu chỉ ra rằng hơn 70% các kỹ năng chính có thể thay thế bởi AI và 50% các kỹ năng sẽ bị ảnh hưởng ở mức độ vừa phải. Ước tính AI cũng có thể thay đổi các công việc ICT cấp cao và một lượng lớn các công việc cấp trung và sơ cấp sẽ bị tác động bởi AI thậm chí là thay thế.
+
+Theo đó, trong phân tích về các cấp độ nghề nghiệp, hiện nay 37% các vị trí sơ cấp có thể được thực hiện bới AI 37% và trình độ trung cấp là 40%. Điều này cho thấy, các vị trí cấp thấp trong lĩnh vực công nghệ thông tin sẽ còn bị tác động mạnh mẽ bởi sự tiến bộ của AI trong thời gian sắp tới.
+
+Báo cáo nhận định các công cụ AI có khả năng hỗ trợ những người lao động mới vào nghề có được các khả năng tương đương với những người làm việc có kinh nghiệm chỉ trong 3 tháng thay vì 10 tháng.
+
+Trong khi đó, theo Báo cáo Tương lai việc làm năm 2023 của Diễn đàn Kinh tế Thế giới, trong 5 năm tới, dự kiến ​​sẽ có 83 triệu việc làm bị mất và dự kiến ​​sẽ có 69 triệu việc làm được tạo ra, tạo nên sự thay đổi về mặt cấu trúc của thị trường lao động là 152 triệu việc làm, hoặc 23% trong số 673 triệu việc làm được phản ánh trong tập dữ liệu.
+
+Theo khảo sát của Viện Giá trị Kinh doanh (IBV) của IBM, 87% giám đốc điều hành mong đợi các vai trò công việc sẽ được tăng cường, thay vì thay thế, bằng Gen AI, họ tin rằng những tiến bộ này sẽ nâng cao chất lượng công việc và cân bằng giữa công việc và cuộc sống cho nguời lao động. Đồng thời, một nghiên cứu trong năm nay của Microsoft và Linklde cho thấy nhu cầu về nhân tài kỹ thuật AI đã tăng 323% trong 8 năm.
+
+Sự ra đời của ChatGPT và các công cụ AI thế hệ mới khác đã dẫn đến việc áp dụng AI nhanh chóng trong ngành công nghệ thông tin, kể từ đó, nhu cầu về các kỹ năng AI mới này đã tăng 65% trong năm năm theo phân tích từ Indeed 2024. Theo dữ liệu từ Indeed từ năm 2021 - 2023, cứ 40 bài đăng tuyển dụng cho các nhà phát triển phần mềm tại Mỹ thì có một bài đề cập đến các kỹ năng liên quan đến Gen AI
+
+Đứng trước những thay đổi này, tổ chức thực hiện báo cáo kêu gọi các tổ chức chủ động chuyển đổi để hỗ trợ những người lao động có nguy cơ bị tụt hậu do tự động hóa và AI để đảm bảo rằng tất cả người lao động đều có thể tham gia và hưởng lợi từ nền kinh tế do AI thúc đẩy.

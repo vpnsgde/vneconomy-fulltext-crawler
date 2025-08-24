@@ -1,0 +1,33 @@
+Ở nhiều quốc gia, các doanh nghiệp dịch vụ đang gặp không ít khó khăn trong việc thuê nhân công để khôi phục việc kinh doanh. Bên cạnh đó, quay trở lại thị trường lao động sau thời gian dịch bệnh, nhiều nhân viên cũng không mấy mặn mà với công việc phục vụ vất vả với nhiều áp lực.
+
+Một nghiên cứu trên Science Robotics vào giữa tháng 4/2022 cho thấy những công việc liên quan đến chuẩn bị thức ăn và phục vụ có nguy cơ cao sẽ bị thay thế bởi robot AI hơn là các công việc liên quan đến giáo dục hoặc chăm sóc sức khỏe.
+
+Khi xã hội e ngại và hạn chế tiếp xúc giữa người với người, thì những chú robot phục vụ đang được "trọng dụng" trong ngành ẩm thực. Một quán cà phê ở TP.HCM mới đây đã tậu về một Robot AI có xuất xứ từ Trung Quốc mang tên BellaBot. Công việc chính của con robot này là giao thức ăn, nước uống cho khách hàng. "Cảm giác vô cùng hiện đại và hướng về tương lai. Đặc biệt trong khi dịch Covid-19 còn nhiều phức tạp, cách phục vụ này cũng khá lý tưởng”, một thực khách tại quán chia sẻ.
+
+Nhà hàng Roger trong khách sạn Ameswell mới khai trương năm ngoái tại Mountain View, California (Mỹ) hiện cũng đang có hai nhân viên robot tên Servi, cao 104 cm làm việc. Hai nhân viên này do Hãng Bear Robotics tại Silicon Valley chế tạo, chịu trách nhiệm dọn dẹp chén đĩa dơ, mang vào trong bếp và đưa vào máy rửa chén. Nhân viên nhà hàng cho biết nhờ có Servi, họ đỡ cực hơn rất nhiều. Do đó, khách sạn Ameswell đang muốn triển khai robot phục vụ tiệc đứng. Những cỗ máy sẽ mang đồ khai vị và thức uống chạy đi chạy lại trong sảnh phục vụ khách.
+
+Servi không phải là những robot đầu tiên trong ngành dịch vụ nhà hàng, khách sạn tại Mỹ. Tại hạt Santa Monica, cư dân đã nhìn thấy một vài robot giao hàng chạy trên vỉa hè. Những robot này đang vận chuyển các món từ nhiều nhà hàng trong thị trấn đến các nơi đặt hàng trong bán kính 1,6 km. White Castle – chuỗi cửa hàng bánh mì kẹp thịt - đang thử nghiệm Flippy - một robot đầu bếp có thể nấu khoai tây chiên và một số loại thực phẩm khác.
+
+Ở những nơi khác trên thế giới cũng tương tự. Tại Nga, KFC đã mở một cửa hàng sử dụng hệ thống chuẩn bị gà rán hoàn toàn tự động. Nhà bếp ảo của Grab tại Hillview ở Singapore sử dụng robot để đưa các món đã hoàn tất từ nhà bếp ra cho shipper. Tại một cửa hàng Pizza mới mở ở Paris (Pháp), toàn bộ quy trình làm bánh, từ nhào bột đến đóng gói vào hộp, đều do robot đảm nhiệm. Trong căn bếp làm bằng kính trong suốt có đội ngũ nhân viên là những con robot màu bạc đa năng - có tên là Pazzi - hoàn thành tới 80 hộp bánh pizza mỗi giờ…
+
+Mặc dù công nghệ chế tạo robot thô sơ trong lĩnh vực dịch vụ đã tồn tại vài năm nay, nhưng chính Covid-19 đã thúc đẩy quá trình tự động hóa này diễn ra nhanh hơn. Cùng với chủ trương "sống chung với Covid-19" và nhu cầu “không chạm”, nhiều công ty chế tạo robot báo cáo nhu cầu đối với những nhân viên máy móc này đang tăng lên ổn định.
+
+Tuần trước, Công ty Miso Robotics có trụ sở tại California thông báo rằng họ sẽ hợp tác với Panera Bread thử nghiệm một hệ thống pha chế cà phê sử dụng trí tuệ nhân tạo có tên CookRight. Còn Công ty Keenon Robotics có trụ sở tại Thượng Hải hiện đang phát triển những robot AI được hỗ trợ với nền tảng clould của SoftBank, giúp robot có thể phát triển kỹ năng phát hiện và tránh chướng ngại vật khi giao nhận hàng.
+
+Với trị giá ước tính khoảng 800 tỷ USD, ngành dịch vụ ăn uống đang có sự trở lại chậm chạp trong năm nay. Để thúc đẩy quá trình phục hồi của ngành này, có vẻ như robot phục vụ sẽ tiếp tục được trọng dụng trong tương lai.
+
+
+
+
+
+Tuy nhiên, theo Business Insider, chính những ông chủ nhà hàng ở Anh, Pháp hoặc Mỹ lại cho rằng tuy các robot về cơ bản khá tiện lợi nhưng chúng chưa thể thay thế hoàn toàn con người. Ở hình thái hiện tại, những robot này không phải là không có thiếu sót. Chúng không xử lý tốt ở tất cả các cài đặt. Nhiều chủ nhà hàng cho biết không thể thay thế hoàn toàn nhân viên phục vụ bằng robot, vì những cỗ máy này đôi khi bỏ sót các tín hiệu xã hội hoặc trở nên bối rối bởi đồ trang sức sáng bóng có thể gây nhiễu tín hiệu.
+
+Vì bất biến, robot cũng không dễ dàng thích nghi với môi trường mới, những tình huống không thể đoán trước hoặc sự cố hỗn loạn bất ngờ, trong khi đây là một phần trong hoạt động thường nhật của các nhà hàng đông khách. Vì vậy, mặc dù robot rất tuyệt để thay thế cho các hoạt động tẻ nhạt, mất vệ sinh hoặc nguy hiểm, nhưng chúng lại thiếu một dạng trí thông minh nhất định của con người khi cần hiểu các yêu cầu phức tạp như xử lý các tai nạn, đổ nước… Thậm chí, một số chủ nhà hàng đã phải tắt tính năng tương tác, vì robot sẽ bỏ bê công việc để “buôn chuyện” với khách.
+
+Bên cạnh đó, chúng cũng không hề rẻ. Theo CNBC, robot của Miso khiến các nhà hàng tiêu tốn khoảng 5.000 USD tiền lắp đặt và lên tới 3.000 USD/tháng để bảo trì. Còn Servi, máy phục vụ tự động của Bear Robotics, tiêu tốn khoảng 999 USD/tháng bao gồm cả cài đặt và hỗ trợ. Việc chi số tiền không nhỏ để sở hữu robot phục vụ sẽ buộc các chủ nhà hàng phải cân nhắc: liệu chúng có thể tạo ra lợi ích tương xứng với sự đầu tư?
+
+Đầu bếp nổi tiếng Daniel Boulud – người đã cùng với bốn sinh viên Viện Kỹ thuật Massachusetts (MIT) phối hợp để tạo ra tay phụ bếp (kitchen hand) – cho rằng công việc của robot chỉ nên dừng ở mức độ phụ việc. “Có lẽ, phải còn rất lâu để những robot phụ bếp được trang bị thêm các thiết bị AI mới có cái lưỡi nhạy bén, cái mũi cực thính bên cạnh cánh tay làm việc không mệt mỏi”, đầu bếp Michelin nói.
+
+Ngoài ra, tuy làn sóng tự động hóa ảnh hưởng không nhỏ trong phạm vi một doanh nghiệp, cho phép họ tiết kiệm nhân công và cắt giảm lao động, nhưng tự động hóa cũng sản sinh ra những vị trí mới và nhiều ngành lại "khát" nhân lực hơn trước. Báo cáo về công việc năm 2020 của Diễn đàn Kinh tế Thế giới cho biết tới năm 2025, 85 triệu công việc có thể bị thay thế bằng tự động hóa, trong khi 97 triệu công việc mới sẽ được tạo ra.
+
+Theo Kenichi Yoshida, CEO SoftBank Robotics,  robot hóa không chỉ giúp năng suất tăng rõ rệt mà cũng giúp cải thiện dịch vụ. Bởi khi đó con người có thể tập trung hơn vào các công việc mang lại giá trị gia tăng cao bao gồm chăm sóc khách hàng, trong khi robot sẽ xử lý các công việc tầng dưới. “Kỹ sư chế tạo robot sẽ đắt hàng hơn trên thị trường lao động. Chúng tôi cũng cần kỹ sư hỗ trợ kỹ thuật cho khách hàng. Chắc chắn là một số công việc phải thay đổi hay bị thay thế, nhưng các vai trò mới, công việc mới cũng sẽ hình thành”, ông Yoshida nói.

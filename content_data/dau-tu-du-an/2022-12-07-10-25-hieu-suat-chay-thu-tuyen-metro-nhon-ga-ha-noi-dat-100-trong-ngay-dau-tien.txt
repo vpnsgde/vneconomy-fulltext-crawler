@@ -1,0 +1,31 @@
+Cụ thể, tuyến đường sắt đô thị thí điểm của TP. Hà Nội, đoạn Nhổn - ga Hà Nội từ ngày 5/12 bắt đầu chạy thử đoạn trên cao, vận hành theo biểu đồ chạy tàu cho ngày trong tuần.
+
+Vào các khung giờ thấp điểm, dự án vận hành 3 - 4 đoàn tàu, vào các khung giờ cao điểm vận hành tối đa 8 đoàn tàu.
+
+Tham gia quá trình chạy thử, ngoài chủ đầu tư dự án là Ban Quản lý đường sắt đô thị Hà Nội (MRB), đơn vị tư vấn, các nhà thầu, Công ty TNHH MTV Đường sắt Hà Nội là đơn vị sẽ tiếp nhận vận hành, còn có sự chứng kiến của tư vấn ABC - đơn vị đánh giá độc lập để đánh giá kết quả chạy thử, cách quản lý/kiểm soát an toàn trong và sau chạy thử...
+
+Bắt đầu từ 8h30 sáng 5/12, sau khi triển khai các công tác chuẩn bị kỹ thuật, dự án đã liên tục chạy thử đến 20h00. Quá trình chạy thử diễn ra thuận lợi, tính khả dụng của hệ thống đạt 100%.
+
+Theo MRB, quá trình vận hành thử gồm 2 giai đoạn. Cụ thể,giai đoạn 1vận hành hệ thống để đo lường hiệu suất RAMs. Trong giai đoạn này, dự án sẽ vận hành theo 2 lịch chạy tàu: vận hành tối đa 4 đoàn tàu theo lịch chạy tàu cuối tuần, vận hành tối đa 8 đoàn tàu theo lịch chạy tàu ngày trong tuần, thời gian từ 9h00 -19h00.
+
+Các đoàn tàu khởi hành từ depot - Nhổn đến ga S8 - Đại học Giao thông vận tải và ngược lại. Đoàn tàu sẽ dừng tại mỗi ga 20 giây, thời gian chạy 1 chiều khoảng 16 phút và thời gian đoàn tàu chạy 1 vòng (cả chiều đi và về) bao gồm cả quay đầu khoảng 32 phút.
+
+Hiệu suất được đo đạc hàng ngày qua hệ thống ATS và được báo cáo, tóm tắt tại cuộc họp 19h00 hàng ngày.
+
+"Trường hợp mục tiêu hiệu suất chạy thử trong 5 ngày liên tiếp không đạt được khi tính khả dụng của hệ thống đạt dưới 98%, việc chạy thử có thể kéo dài tới 6 tuần cho đến khi đạt kết quả", MRB nêu rõ.
+
+Giai đoạn 2diễn ra ngay sau khi hoàn thành đánh giá hiệu suất RAMs, với 5 kịch bản vận hành đoàn tàu hạn chế ở các chế độ: mất điện kéo trên toàn tuyến, mất điện kéo ở một đoạn trên tuyến, mất nguồn cấp điện phụ trợ, phát hiện cháy tại một ga và tàu cứu hộ trên tuyến chính.
+
+MRB cũng cho biết, quá trình thử nghiệm bao gồm 8 giai đoạn, lần lượt là kiểm tra sản xuất (Factory Acceptance Test - FAT); hồ sơ lắp đặt (Installation release Note - IRN); phát hiện lỗi sau lắp đặt (Post Installation Check Out - PICO); thử nghiệm độc lập (Standalone Test); thử nghiệm tích hợp tĩnh (Intergration Static Test); thử nghiệm tích hợp động (Intergration Dynamic Test); chạy thử hệ thống (Test Run); khai thác thử hệ thống (Trial Run).
+
+Dự án đã hoàn tất 6/8 giai đoạn. Hiện dự án đang triển khai giai đoạn 7 - chạy thử hệ thống. Giai đoạn vận hành thử (Trial Run) là giai đoạn cuối cùng trước khi đưa dự án vào vận hành thương mại.
+
+Được biết, theo quy hoạch giao thông vận tải Hà Nội đến năm 2030, tầm nhìn 2050, TP. Hà Nội sẽ xây dựng 10 tuyến đường sắt đô thị. Hệ thống đường sắt đô thị này được kỳ vọng là xương sống của giao thông vận tải Thành phố, gắn kết với xe buýt và các phương thức vận tải công cộng khác. Sau khi hoàn thành, hệ thống đường sắt đô thị này sẽ tạo nên những trục chính của mạng lưới vận tải hành khách công cộng tại Thủ đô.
+
+Trong số 10 tuyến đường sắt đô thị được quy hoạch cho giai đoạn từ nay đến năm 2030, tầm nhìn đến năm 2050, tuyến đường sắt đô thị Cát Linh-Hà Đông đã được đưa vào hoạt động, phát huy hiệu quả và được người dân đón nhận.
+
+
+
+Dự án đường sắt đô thị Nhổn - ga Hà Nội có tổng chiều dài chính tuyến là 12,5km (8,5km đoạn đi trên cao và khoảng 4km đoạn đi ngầm), gồm 12 ga (8 ga trên cao, 4 ga ngầm), 1 depot rộng 15,5 ha.
+
+Do một số vướng mắc, dự án đã được đề xuất kéo dài thời gian hoàn thành, vận hành toàn tuyến vào năm 2027 (gồm cả đoạn ngầm). Riêng đoạn trên cao sẽ được khai thác, vận hành trong năm 2022. Tổng mức đầu tư dự án được đề xuất tăng từ trên 32.900 tỷ đồng lên hơn 34.800 tỷ đồng, tương ứng tăng thêm hơn 1.900 tỷ đồng.

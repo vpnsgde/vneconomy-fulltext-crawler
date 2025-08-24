@@ -1,0 +1,21 @@
+Đây là một trong những kết quả vừa được công bố từ công trình khoa học điều tra cắt ngang khảo sát tình hình miễn dịch cộng đồng của người dân TP. HCM đối với virus SARS-CoV-2 do Trung tâm kiểm soát bệnh tật TP. HCM phối hợp với Bệnh viện Bệnh nhiệt đới và Đơn vị Nghiên cứu lâm sàng Đại học Oxford (OUCRU) thực hiện vào tháng 9/2022.
+
+Vào tháng 9/2022, nhóm nghiên cứu đã tiến hành chọn mẫu ngẫu nhiên có bảo đảm tính đại diện cao về độ tuổi (từ 0 đến trên 70 tuổi), giới tính và các khu vực địa lý khác nhau trên địa bàn TP. HCM.
+
+Tổng cộng có 839 đối tượng đã được thu thập mẫu huyết thanh để tiến hành đo các kháng thể kháng protein N (anti-N protein) nhằm đánh giá tỷ lệ người dân đã từng nhiễm SARS-CoV-2 và tỷ lệ người dân có kháng thể kháng protein S (anti-Spike protein) nhằm đánh giá người dân đã có kháng thể phòng ngừa/bảo vệ do được chủng ngừa Covid-19 hoặc nhiễm bệnh trước đó.
+
+Kết quả cho thấy, có 88,2% trong tổng số 839 mẫu thu nhận có kháng thể kháng N protein và có đến 98,7% người dân đã có kháng thể kháng protein S từ nhiễm tự nhiên hoặc đã tiêm vaccine.
+
+Về kháng thể kháng N protein, đây là kháng thể chỉ xuất hiện từ việc nhiễm Covid-19 tự nhiên hoặc sau khi tiêm vaccine bất hoạt Sinopharm. Tuy nhiên trên địa bàn TP. HCM, vaccine Sinopharm được sử dụng rất hạn chế và vaccine này không được sử dụng ở nhóm dưới 18 tuổi.
+
+Tỷ lệ dương tính với kháng thể kháng N ở các nhóm tuổi khác nhau có phân bố khá tương đồng, dao động từ 86% đến 97% ở các nhóm tuổi từ dưới 5 đến dưới 70 tuổi. Riêng nhóm 70 tuổi trở lên, tỷ lệ này là 76%. Kết quả này là tương đồng với kết quả nghiên cứu đánh giá đáp ứng miễn dịch ở nhân viên y tế Bệnh viện Bệnh Nhiệt đới thực hiện vào thời điểm tháng 11/2022 (có 371 trong tổng số 400 nhân viên được khảo sát đã từng nhiễm SARS-CoV-2, chiêm tỷ lệ 93%).
+
+Từ đây, nhóm nghiên cứu kết luận rằng tính đến tháng 9/2022, đã có 88% người dân TP. HCM đã từng nhiễm SARS-CoV-2. Dựa vào tình hình dịch tễ chung của TP. HCM và thời điểm mở cửa trường học là sau Tết Nhâm Dần (tháng 3/2022), cùng lúc với sự xuất hiện của biến chủng Omicron, có thể nhận định làn sóng Omicron là tác nhân chính của việc nhiễm tự nhiên ở người dân trên địa bàn TP. HCM.
+
+Về kháng thể kháng protein S, có đến 98,7% người dân đã có kháng thể kháng protein S (từ nhiễm tự nhiên hoặc do tiêm vaccine). Tỷ lệ này cũng khá tương đồng ở tất cả các địa bàn được khảo sát của thành phố. Tỷ lệ cao người dân có kháng thể cho biết độ phủ của vaccine cũng như vai trò của nhiễm tự nhiên trong việc tạo kháng thể kháng SARS-CoV-2 trong cộng đồng.
+
+Chỉ còn một tỷ lệ rất nhỏ (1,3%) người dân là không có kháng thể kháng protein S (nồng độ kháng thể ở mức dưới ngưỡng phát hiện của kỹ thuật xét nghiệm). Tuy nhiên điều này cũng không đồng nghĩa với việc họ không được bảo vệ trước SARS-CoV-2, vì đợt khảo sát này không đánh giá đáp ứng miễn dịch tế bào (nếu đã có đáp ứng miễn dịch tế bào thì ngay sau khi virus xâm nhập vào cơ thể, các tế bào Lympho B nhớ sẽ kích hoạt lập tức và sản xuất ra kháng thể, đồng thời các tế bào Lympho T cũng kích hoạt và tiêu diệt virus).
+
+Bên cạnh đó, khi phân tích nồng độ kháng thể kháng protein S ở nhóm tuổi 12 trở xuống, kết quả cho thấy nhóm này có xu hướng thấp hơn so với các nhóm tuổi còn lại. Điều này cũng phù hợp với thực tế về độ phủ vaccine ở nhóm này thấp hơn so với các nhóm tuổi còn lại. Tuy nhiên mức ngưỡng nồng độ kháng thể dương tính là bao nhiêu thì bảo đảm đạt mức độ bảo vệ trước biến chủng Omicron hiện nay các nhà khoa học trên thế giới vẫn đang tìm hiểu, chưa có đủ cơ sở khoa học để xác định.
+
+Nhóm nghiên cứu sẽ tiếp tục khảo sát diễn tiến huyết thanh học cộng đồng trong đợt tháng 12/2022 và mối liên quan giữa dữ liệu về kháng thể với mức độ nặng của bệnh theo các nhóm tuổi trên địa bàn TP. HCM để có thể xem xét đánh giá thêm mức độ hiệu quả của miễn dịch cộng đồng đối với SARS-CoV-2.

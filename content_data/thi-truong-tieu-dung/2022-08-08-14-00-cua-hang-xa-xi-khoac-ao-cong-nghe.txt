@@ -1,0 +1,33 @@
+Một cuộc khảo sát năm 2020 đối với người tiêu dùng châu Âu cho thấy, 60% người được hỏi muốn tận mắt nhìn hoặc chạm vào sản phẩm trước khi mua, trong khi 50% thích mua sắm tại các cửa hàng để có thể mang đồ về nhà ngay lập tức.
+
+Khi đại dịch bước vào thời kỳ căng thẳng, mua sắm trực tuyến lên ngôi và tưởng chừng như các cửa hàng truyền thống sẽ dần phải đóng cửa. Nhưng ngay khi các hạn chế được nới lỏng, tỷ lệ khách hàng mua sắm trực tuyến dự kiến sẽ giảm 3 điểm phần trăm trong năm 2022 so với năm 2021 trên các thị trường chính, bao gồm châu Âu, Mỹ và Trung Quốc. Điều này khiến các chủ thương hiệu phải định hình lại vai trò của các cửa hàng trong quy trình bán lẻ.
+
+Vào tháng 4/2021, nhà bán lẻ trực tuyến Farfetch đã công bố hợp tác với Gucci để ra mắt “Cửa hàng của tương lai”. Kết hợp giữa công nghệ bán lẻ tại cửa hàng và công nghệ thời trang trực tuyến, Farfetch đã giúp Gucci thu thập dữ liệu của khách hàng trực tuyến và ngoại tuyến.
+
+Theo Bloomberg, công nghệ tại cửa hàng cho phép những người mua sắm sang trọng sử dụng điện thoại thông minh của họ để đăng nhập khi họ bước vào, từ đó nhận các đề xuất được cá nhân hóa từ nhân viên bán lẻ. Bản thân nhân viên sẽ có thể truy cập hồ sơ các khách hàng giàu có, bao gồm lịch sử mua hàng và danh sách sản phẩm mong muốn.
+
+Hiện người tiêu dùng Millennials và thế hệ Z đang thúc đẩy 85% mức tăng trưởng doanh số bán hàng xa xỉ toàn cầu. Những người mua sắm giàu có trẻ tuổi này có những kỳ vọng khác nhau khi nói đến bán lẻ. Họ muốn một trải nghiệm được cá nhân hóa và tích hợp liền mạch cả trực tuyến và ngoại tuyến. Song song đó, sự phát triển của các công nghệ như thương mại bằng giọng nói và Internet of Things (IoT) đang định hình lại lĩnh vực bán lẻ hàng xa xỉ để trở nên tập trung vào khách hàng hơn và được cá nhân hóa theo cách có thể mở rộng.
+
+Đối với người mua sắm theo hướng tiện lợi, các ứng dụng dành cho thiết bị di động có thể kết hợp trải nghiệm mua sắm kỹ thuật số và mua sắm vật lý trong một hành trình hiệu quả từ đầu đến cuối. Ví dụ: ứng dụng khách hàng của Zara cho phép người mua sắm đặt phòng thử đồ, xem hàng có sẵn, tìm sản phẩm trên sàn cửa hàng và tham gia xếp hàng ảo để hoàn tất giao dịch mua. Lúc này, công nghệ có thể xây dựng dựa trên phần mềm phụ trợ hiện có, chẳng hạn như phần mềm quản lý hàng tồn kho và điểm bán hàng.
+
+Đối với những khách hàng đang tìm kiếm trải nghiệm, kết nối xã hội và giải trí, ứng dụng dành cho thiết bị di động có thể giúp cá nhân hóa lượt truy cập. Tại cửa hàng Burberry Thâm Quyến (Trung Quốc), thương hiệu khuyến khích khách hàng tương tác trên một chương trình nhỏ của WeChat, đăng ảnh và nhận các lợi ích như “vật phẩm bí mật” tại quán cà phê trong cửa hàng. Những công nghệ này cũng cung cấp cho các thương hiệu thông tin chi tiết về dữ liệu quan trọng về khách hàng ngay cả khi họ không mua hàng, thông qua các thẻ sản phẩm được quét hoặc theo dõi các mặt hàng được đưa vào phòng thử đồ.
+
+Gần đây, các trung tâm thương mại lớn tại Singapore cũng đã đẩy mạnh kết hợp công nghệ tương tác thực tế ảo (AR), làm mờ lằn ranh giữa bán lẻ xa xỉ truyền thống và kỹ thuật số, mang đến tiềm năng rất lớn để tăng cường sự gắn kết với khách hàng. Chẳng hạn như ứng dụng Buzz AR đang triển khai tính năng AR wayfinding, một bảng hướng dẫn khách hàng về những điều thú vị, độc đáo để khám phá trong một “mê cung” mua sắm của các trung tâm thương mại ở Singapore. Dù đang trong quá trình phát triển, nhưng Buzz AR cũng đã nhận được sự chào đón của các thương hiệu lớn.
+
+Với sự phổ biến hơn bao giờ hết của internet tốc độ cao, sự kết hợp của công nghệ tương tác thực tế ảo (AR), thực tế ảo (VR) và trí thông minh nhân tạo (AI) sẽ làm thay đổi tương lai ngành xa xỉ. Chẳng hạn như sức mạnh phân tích dữ liệu của AI vốn đã được ngành F&B ứng dụng nhằm đo lường cảm xúc, thói quen và sở thích người tiêu dùng.
+
+
+
+Ban đầu, các hãng sử dụng A.I nhằm đề xuất những sản phẩm phù hợp với từng cửa hàng ở từng thời điểm cũng như đo lường phản ứng của khách để đề xuất những sự lựa chọn phù hợp về màu sắc, kiểu dáng trang phục. Uniqlo đã áp dụng phương thức đo lường này tại Mỹ từ năm 2019 với cửa hàng A.I Umood.
+
+Alibaba cũng đã ứng dụng A.I từ năm 2018 với việc ra mắt cửa hàng FashionAI. Các tính năng đặc biệt tại cửa hàng bao gồm tag mua sắm thông minh, gương thông minh, chip Bluetooth được tích hợp trong mỗi sản phẩm, cung cấp cho người dùng trải nghiệm liền mạch và nhất quán.
+
+Sắp tới, một số công nghệ mới nổi thậm chí còn định hình cách mọi người mua sắm. Công nghệ tương tác thực tế ảo (AR) được đánh giá là một công nghệ chủ đạo vì nó giúp mang lại một trải nghiệm hoàn toàn mới cho người mua - cơ thể của họ được nhận diện thông qua chức năng đo lường kích thước ảo (virtual size) đem lại độ chính xác cao và cảm giác đã “dùng thử” sản phẩm trước khi quyết định mua, dẫn đến kết quả là người tiêu dùng sẽ sẵn lòng để “móc hầu bao” nhiều hơn.
+
+Bên cạnh đó, công nghệ AR/VR đã cải thiện đáng kể quy trình sản xuất thời trang. Chúng sẽ tự nhận định các thành phần thiết yếu của một thiết kế, biến đổi thành dạng mô phỏng 3D và cho phép nhà sản xuất nhanh chóng thực hiện tất cả các điều chỉnh thông số cần thiết trước khi sản xuất hàng loạt, nhờ đó giúp cải thiện chất lượng và giảm thiểu sự lãng phí... Sự phức tạp nay đã trở thành “bình thường mới”, khiến cho một số công ty thậm chí đẩy nhanh quá trình chuyển đổi kỹ thuật số của họ cả trong việc tối ưu hóa chuỗi cung ứng.
+
+Michele Taranzano, người đứng đầu kế hoạch bộ phận hàng xa xỉ của Tập đoàn dệt may cao cấp LVMH cho biết: “Chúng tôi đang tìm kiếm phần mềm cho phép chúng tôi điều chỉnh tất cả các chức năng kinh doanh của công ty để quản lý các nhu cầu thương mại khác nhau và hàng tồn kho, cho chúng tôi khả năng phân tích bất kỳ “ nút thắt cổ chai” nào trong chuỗi bán lẻ”. Do đó, hầu hết các thương hiệu bán lẻ khác cũng nhận thức được sự chuyển đổi sắp xảy ra và đang nghiên cứu cách thức và thời điểm đổi mới.
+
+Tuy nhiên, cách mà các thương hiệu tận dụng công nghệ di động có sẵn tùy thuộc vào các ưu tiên chiến lược của họ. Bởi gương thực tế ảo, hay hàng loạt công nghệ AR khác được áp dụng vào cửa hàng bán lẻ là một giải pháp để tăng lượng khách đến và tương tác với cửa hàng nhưng lại đòi hỏi chi phí lắp đặt đắt đỏ.
+
+Do đó, thay vì đầu tư vào những gì tân tiến nhất, chủ thương hiệu nên phân tích những điểm khó khăn trong trải nghiệm mua sắm để khắc phục và cải tiến nhờ sự hỗ trợ của công nghệ. Như Bridget Dolan, người đứng đầu Sephora Innovation Labs đã giải thích: “Chúng tôi muốn đi trước khách hàng về công nghệ số, nhưng không cần đi trước quá xa”.

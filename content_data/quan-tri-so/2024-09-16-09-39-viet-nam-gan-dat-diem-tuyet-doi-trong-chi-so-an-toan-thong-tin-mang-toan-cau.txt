@@ -1,0 +1,27 @@
+Chỉ số An toàn an ninh mạng toàn cầu (GCI) 2024 lần thứ 5 do Liên minh Viễn thông Quốc tế công bố mới đây, cho biết các quốc gia trên toàn cầu đang cải thiện các nỗ lực an ninh mạng, nhưng cần có những hành động mạnh mẽ hơn để đáp ứng các mối đe dọa mạng đang phát triển.
+
+Báo cáo chỉ ra mối đe dọa đáng lo ngại là các cuộc tấn công ransomware nhắm vào các dịch vụ của chính phủ cùng nhiều lĩnh vực khác.
+
+Theo báo cáo, chỉ trong năm 2023 đã diễn ra 8 tỷ vụ vi phạm an ninh mạng và chi phí trung bình cho một vụ tấn công dữ liệu đã tăng 15% trong ba năm qua (kể từ Chỉ số An toàn thông tin mạng toàn cầu 2020). Chỉ riêng các doanh nghiệp nhỏ ở Bắc Mỹ, ước tính thiệt hại trung bình cho một vụ vi phạm là 3,3 triệu USD.
+
+Năm 2020, trong Chỉ số An toàn thông tin mạng toàn cầu (GCI) lần thứ 4 của Liên minh Viễn thông quốc tế, Việt Nam từng giữ thứ hạng khá cao trong bảng xếp hạng (25/182 quốc gia).
+
+Mặc dù vậy, Tiến sĩ Cosmas Luckyson Zavazava, Giám đốc Cục Phát triển Viễn thông Liên minh Viễn thông Quốc tế khẳng định kết quả của các quốc gia đã cải thiện đáng kể do các quốc gia đang tăng cường thiết lập hành lang pháp lý, nỗ lực ứng phó sự cố, phát triển các kế hoạch quốc gia rõ ràng hơn, đào tạo người dân và hợp tác với các đối tác trong nước và quốc tế tốt hơn.
+
+Ấn bản thứ năm của GCI – Chỉ số an ninh mạng toàn cầu 2024 đánh giá và xếp hạng năng lực an ninh mạng của các quốc gia dựa trên 5 yếu tố: pháp lý, kỹ thuật, tổ chức, phát triển năng lực và hợp tác.
+
+Theo đó, tổng điểm của Việt Nam là 99,74, trừ phát triển năng lực đạt 19,74/20, 4 tiêu chí còn lại của Việt Nam ghi nhận đều đạt điểm tuyệt đối. Tổng điểm này đã giúp Việt Nam ghi danh vào nhóm 46 quốc gia hàng để có chỉ số An toàn thông tin mạng cao nhất thế giới.
+
+Cùng với Việt Nam, 4 quốc gia Đông Nam Á khác cũng xuất hiện trong nhóm bao gồm Indonesia (100), Thái Lan (99,22), Malaysia (98,82) và Singapore (99,86).
+
+Hay một số quốc gia khác trong khu vực châu Á cũng đã xuất hiện trong bảng xếp hạng chẳng hạn như Ấn Độ hay Nhật Bản,...
+
+Theo báo cáo, 177 quốc gia đã có ít nhất một quy định về bảo vệ dữ liệu cá nhân, bảo vệ quyền riêng tư hoặc thông báo vi phạm có hiệu lực hoặc đang được tiến hành; 132 quốc gia có Chiến lược An ninh mạng Quốc gia tính đến năm 2024, tăng từ 107 quốc gia trong chỉ số năm 2021.
+
+139 quốc gia có CIRT (Nhóm ứng phó sự cố máy tính), tăng từ 109 trong chỉ số năm 2021; 152 quốc gia đã tiến hành các sáng kiến nâng cao nhận thức về mạng nhắm vào dân số nói chung; 110 quốc gia đã có khuôn khổ để thực hiện các tiêu chuẩn an ninh mạng được quốc gia hoặc quốc tế công nhận, tăng từ 103 vào năm 2021.
+
+Bên cạnh đó, đối với đào tạo nhân lực cho ngành an ninh mạng, các chính phủ đang thúc đẩy ngành an ninh mạng thông qua các ưu đãi, tài trợ và học bổng, nhằm nâng cao kỹ năng an ninh mạng và thúc đẩy nghiên cứu trong lĩnh vực này; 123 quốc gia báo cáo có các khóa đào tạo cho các chuyên gia an ninh mạng, tăng từ 105 vào năm 2021; 153 quốc gia đã tích hợp an ninh mạng vào chương trình giảng dạy quốc gia ở một số cấp.
+
+Bên cạnh đó, phát triển một ngành công nghiệp an ninh mạng trong nước mạnh mẽ là điều cần thiết để duy trì tiến bộ, báo cáo khẳng định
+
+Chỉ số an ninh mạng toàn cầu (GCI) được Liên minh Viễn thông Quốc tế (ITU) – cơ quan chuyên môn của Liên Hợp Quốc về công nghệ thông tin và truyền thông, đưa ra lần đầu vào năm 2015, nhằm giúp các quốc gia xác định các lĩnh vực cần cải thiện và khuyến khích các quốc gia hành động để xây dựng năng lực các tiêu chí an ninh mạng.

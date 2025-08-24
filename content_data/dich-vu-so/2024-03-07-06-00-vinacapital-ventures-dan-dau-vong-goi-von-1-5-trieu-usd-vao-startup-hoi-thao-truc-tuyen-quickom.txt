@@ -1,0 +1,21 @@
+Theo VinaCapital Ventures, Quỹ đầu tư công nghệ của Tập đoàn VinaCapital, thị trường hội thảo/hội nghị trực tuyến đang tăng trưởng nhanh chóng do nhu cầu sử dụng mô hình làm việc từ xa của các doanh nghiệp ngày càng lớn.
+
+Nghiên cứu của McKinsey cho thấy, sau khi đại dịch Covid-19 kết thúc, 9/10 tổ chức đã kết hợp mô hình làm việc từ xa và làm việc tại văn phòng. Để đáp ứng cho nhu cầu tăng vọt này, phần lớn các nhà cung cấp dịch vụ họp trực tuyến đều phụ thuộc vào những trung tâm dữ liệu tập trung và phải đối mặt với những thách thức như việc sử dụng tài nguyên thiếu hiệu quả và chi phí tốn kém khi mở rộng quy mô.
+
+Ngoài ra, các trung tâm dữ liệu này cần đầu tư và duy trì trữ lượng băng thông đủ lớn để truyền tải dữ liệu lên và xuống, vì các trung tâm này là điểm truy cập tập trung nên thường xuyên đối mặt với rủi ro bị nghẽn mạng trong những thời điểm lưu lượng sử dụng cao.
+
+Quickom được sáng lập vào năm 2021 bởi Tiến sĩ William H. Nguyen, một nhà tiên phong trong lĩnh vực công nghệ và là doanh nhân người Việt Nam được đánh giá cao qua các dự án thành công trong lĩnh vực công nghệ truyền thông, giáo dục, mạng máy tính và bảo mật dữ liệu, cung cấp dịch vụ cho hàng chục triệu người dùng trên toàn thế giới. Tiến sĩ William H. Nguyen đang sở hữu ba bằng sáng chế tại Mỹ trong lĩnh vực công nghệ thông tin và truyền thông.
+
+Tiến sĩ William H. Nguyen, Nhà sáng lập kiêm Tổng Giám đốc Quickom, cho biết, sự đồng hành của VinaCapital Ventures sẽ đóng vai trò then chốt để thúc đẩy Quickom mở rộng trên quy mô toàn cầu trong lĩnh vực dịch vụ hội thảo/ hội nghị trực tuyến, đồng thời cho phép công nghệ phi tập trung tiếp cận đến hàng tỷ người dùng trên toàn thế giới trong các lĩnh vực như giáo dục, kinh doanh, giải trí và chăm sóc sức khỏe…
+
+Giám đốc Điều hành VinaCapital Ventures Hoàng Đức Trung cho biết, Việt Nam đang nhanh chóng thu hẹp khoảng cách về tiến bộ công nghệ và quá trình chuyển đổi số của nền kinh tế đang diễn ra mạnh mẽ. Quickom là một công ty khởi nghiệp dẫn đầu xu thế này. Các giải pháp của Quickom sáng tạo và tiên tiến, giải quyết những vấn đề quan trọng hiện nay như an ninh mạng và bảo mật dữ liệu, cũng như những rủi ro trực tuyến trong tương lai.
+
+Được biết, giải pháp của Quickom khác biệt so với các nhà cung cấp dịch vụ hội thảo/hội nghị trực tuyến khác qua việc sử dụng kiến trúc mạng lưu trữ phân tán phi tập trung (“decentralized peer-hosted network”), cho phép truyền dữ liệu trực tiếp giữa người dùng với nhau hoặc các nút mạng (“nodes”) mà không cần thông qua một trung tâm dữ liệu tập trung.
+
+Hơn nữa, mạng phi tập trung sử dụng các thuật toán nhằm khai thác băng thông và công suất xử lý chưa được sử dụng để xử lý và truyền tải video, âm thanh và các dữ liệu khác, giúp giảm đáng kể chi phí tổ chức các cuộc họp trực tuyến. Giải pháp của Quickom cũng giúp giảm tình trạng nghẽn mạng, mang đến các cuộc gọi ổn định và chất lượng cao cũng như giảm chi phí vận hành, bảo trì và lãng phí năng lượng.
+
+Quickom đã triển khai thành công các giải pháp dành cho nhiều doanh nghiệp lớn trong và ngoài nước, cũng như nhiều cơ quan nhà nước Việt Nam. Ngoài ra, công ty còn cung cấp dịch vụ truyền thông trực tuyến theo hình thức đăng ký định kỳ. Trong năm 2023, công ty đã tổ chức thành công hơn 500 sự kiện trực tuyến trên nền tảng Quickom cả trong và ngoài nước. Công ty đã hợp tác với các tổ chức tiêu biểu như Trung tâm Đổi mới sáng tạo Quốc gia (NIC), Techfest Vietnam, HOZO và ETH Vietnam.
+
+Hiện, Quickom đã và đang đổi mới công nghệ theo định hướng Web3, thực hiện bước đi đầu tiên trong Chat3, một nền tảng mang tính đột phá trong lĩnh vực SocialFi. Kết hợp mạng xã hội với tài chính phi tập trung (“decentralized finance”), Chat3 cho phép người dùng kiếm tiền từ hình ảnh và các tương tác trực tuyến của họ thông qua công nghệ blockchain.
+
+Kể từ khi ra mắt cách đây bốn tháng, Chat3 đã thu hút được sự quan tâm của cộng đồng Web3 toàn cầu và gần đây đã nhận được đầu tư từ Arche Fund, một quỹ đầu tư mạo hiểm Web3 ở Đông Nam Á và tài trợ từ Mantle, một dự án blockchain được hỗ trợ bởi Mirana Ventures và Bybit Exchange.

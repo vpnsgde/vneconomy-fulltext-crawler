@@ -1,0 +1,17 @@
+Từ đầu năm 2024 đến nay đã xảy ra một số sự cố an toàn thông tin mạng, đặc biệt là các sự cố tấn công mã độc mã hóa tống tiền (ransomeware) gây thiệt hại và làm gián đoạn dịch vụ trực tuyến của các cơ quan, tổ chức, doanh nghiệp.
+
+Việc khắc phục và phục hồi sau sự cố an toàn thông tin mạng còn chậm và lúng túng; nguyên nhân chủ yếu là do chưa tuân thủ và triển khai đầy đủ các quy định về bảo đảm an toàn thông tin mạng…
+
+Để tăng cường hiệu quả công tác bảo đảm an toàn thông tin và phục hồi nhanh hoạt động sau sự cố, bên cạnh việc triển khai đầy đủ các quy định của pháp luật và bảo đảm an toàn hệ thống thông tin theo cấp độ, Công an thành phố Hà Nội khuyến cáo các cơ quan, doanh nghiệp, người dân, cần thực hiện theo hướng dẫn của Bộ Thông tin và Truyền thông về một số giải pháp trọng tâm bảo đảm an toàn thông tin cho các hệ thống thông tin, cụ thể như sau:
+
+Thứ nhất,Định kỳ thực hiện sao lưu dữ liệu ngoại tuyến “offline”  với chiến lược sao lưu dữ liệu theo nguyên tắc 3-2-1: có ít nhất 03 bản sao dữ liệu, lưu trữ bản sao trên 02 phương tiện lưu trữ khác nhau, với 01 bản sao lưu ngoại tuyến offline; dữ liệu sao lưu offline phải được tách biệt hoàn toàn, không kết nối mạng, cô lập để phòng chống tấn công leo thang vào hệ thống lưu trữ.
+
+Thứ hai,Triển khai giải pháp để sẵn sàng phục hồi nhanh hoạt động của hệ thống thông tin khi gặp sự cố, đưa hoạt động của hệ thống thông tin trở lại bình thường trong vòng 24 giờ hoặc theo yêu cầu nghiệp vụ.
+
+Thứ ba,Triển khai các giải pháp, đặc biệt là giải pháp giám sát an toàn thông tin để ngăn ngừa, kịp thời phát hiện sớm nguy cơ tấn công mạng đối với 03 giai đoạn: (1) xâm nhập vào hệ thống; (2) nằm gián điệp trong hệ thống; (3) khởi tạo quá trình phá hoại hệ thống.
+
+Thứ tư,Phân tách, kiểm soát truy cập giữa các vùng mạng và chuyển đổi, nâng cấp các ứng dụng, giao thức, kết nối lạc hậu, không còn được hỗ trợ kỹ thuật sang phương án sử dụng các nền tảng, ứng dụng để giảm thiểu nguy cơ tấn công mạng leo thang vào hệ thống thông tin thông qua máy tính, thiết bị đầu cuối của người dùng.
+
+Thứ năm,Tăng cường giám sát, quản lý các tài khoản quan trọng, tài khoản quản trị để phòng ngừa bằng giải pháp xác thực 02 lớp (OTP,…) hoặc quản lý tài khoản đặc quyền (PIM/PAM) nhằm phòng ngừa, giảm thiểu thiệt hại trong trường hợp kẻ tấn công chiếm được mật khẩu của tài khoản quản trị.
+
+Thứ sáu,Rà soát, khắc phục và không để xảy ra các lỗi cơ bản dẫn đến mất an toàn hệ thống thông tin.

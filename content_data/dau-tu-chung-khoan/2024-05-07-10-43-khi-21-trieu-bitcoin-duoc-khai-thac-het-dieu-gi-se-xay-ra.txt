@@ -1,0 +1,31 @@
+Chính Satoshi Nakamoto (được coi là cha đẻ của Bitcoin) tạo ra nguyên tắc giới hạn nguồn cung Bitcoin. Điều này nhằm nâng cao giá trị của đồng tiền này và đồng thời hạn chế tình trạng lạm phát trên thị trường.
+
+Phần mềmBitcoinquy định, số lượng Bitcoin thưởng cho mỗi block mới được thêm vào sẽ giảm còn một nửa theo thời gian sau mỗi 210.000 blocks. Cụ thể, 210.000 blocks đầu tiên sẽ nhận được 50 Bitcoin cho mỗi block mới thêm vào mạng lưới.
+
+210.000 blocks tiếp theo sẽ nhận được 25 Bitcoin cho mỗi block. Cứ như thế cho đến khi số lượng Bitcoin thưởng cho mỗi Block giảm về 0. Do mỗi block sẽ được thêm vào chuỗi (chain) sau khoảng 10 phút, để thêm mỗi 210.000 blocks cần khoảng thời gian là 1.438 ngày, tương đương 3,94 năm.
+
+Cũng theo lập trình, mỗi Bitcoin có thể được phân chia tối đa đến 8 chữ số thập phân. Block đầu tiên được khai thác vào ngày 1/1/2009 bởi Shatoshi Nakamoto, người (hoặc nhóm người) được cho là cha đẻ của đồng Bitcoin.
+
+Theo quy tắc giảm dần tới 8 chữ số thập phân đề cập ở trên, đến năm 2140, sau 32 lần điều chỉnh giảm, sốBitcointhưởng cho mỗi block mới thêm vào mạng lưới sẽ giảm về 0. Khi đó, tổng số Bitcoin đã được khai thác là xấp xỉ 21.000.000 Bitcoin. Tính đến ngày 18/12/2023, đã có 19.573.975 Bitcoin và như vậy, chúng ta sẽ chỉ còn khoảng 1,4 triệu Bitcoin để khai thác.
+
+Câu hỏi được đặt ra: Sau khi đồng Bitcoin cuối cùng đã được khai thác hết, những “thợ đào” có còn thu được lợi nhuận hay không? Hóa ra, câu trả lời lại là có.
+
+Các thợ đào đóng vai trò không thể thiếu trong việc tạo ra token Bitcoin; họ phải giải quyết mật mã để xác minh và xác thực một khối giao dịch. Khi giải quyết xong phần của họ, các thợ đào sẽ nhận được một phần thưởng.
+
+Bên cạnh việc được thưởng Bitcoin mỗi khi hoàn thành một khối, thì những thợ mỏ còn được thanh toán chi phí xử lý và xác thực giao dịch.
+
+Con số phí giao dịch này hiện nay rất nhỏ, chỉ vài trăm USD/khối, số tiền nhỏ so với giá trị Bitcoin. Nói cách khác, mục tiêu của những thợ đào Bitcoin bây giờ là số Bitcoin được thưởng sau khi hoàn thành mỗi khối.
+
+Quá trình khai thác đòi hỏi việc giải các câu đố toán học phức tạp, yêu cầu các phần cứng tính toán bậc cao (như GPU và CPU) tiêu thụ một lượng lớn năng lượng. Các thợ đào sử dụng số tiền họ kiếm được từ phần thưởng để bù đắp chi phí khai thác, từ đó tạo ra lợi nhuận.
+
+Nhưng khi phần thưởng giảm đi một nửa sau mỗi bốn năm, chi phí vận hành hoạt động cuối cùng cũng sẽ vượt quá phần thưởng dành cho thợ đào. Kết quả, có thể phần thưởng đối với họ sẽ không còn đủ hấp dẫn, và rất nhiều thợ mỏ sẽ từ bỏ.
+
+Ngược lại, phí giao dịch sẽ tăng dần lên vì chỉ có một lượng giao dịch giới hạn có thể được xác nhận sau mỗi 10 phút. Mặc dù điều này có thể bù đắp phần nào cho các thợ đào, nhưng số lượng giao dịch phụ thuộc vào trạng thái mạng trong tương lai.
+
+Và đến khi Bitcoin mới không còn được tạo ra nữa, thì phần thưởng cho việc hoàn thành khối Bitcoin chính là mức phí giao dịch, từ đó, phí xử lý giao dịch có thể tăng gấp nhiều lần. Chừng nào còn giao dịch mua, bán Bitcoin, thì những khối mới sẽ được tạo ra, và thợ đào sẽ còn được nhận tiền.
+
+Với các nhà đầu tư Bitcoin, những người giao dịch để kiếm lời, thì việc lượng đồng tiền mã hóa này bị giới hạn sẽ là tin mừng cho họ. Bitcoin càng khan hiếm, giá của mỗi đồng sẽ càng cao.
+
+Thực tế, sau 3 lần halving trước đây, diễn ra vào tháng 11/2012, tháng 7/2016 và tháng 5/2020 thì giá Bitcoin đều tăng cao chỉ trong khoảng 1 năm, chạm các cột mốc 1.000 USD, 19.000 USD và gần nhất là 40.000 USD.
+
+Sau sự khiệnhalvinglần thứ 4 vừa rồi, đa số các chuyên gia đồng thuận giá Bitcoin trong tương lai sẽ chỉ nằm trong phạm vi 100.000-175.000 USD.

@@ -1,0 +1,25 @@
+Theo phân tích của S&P Global, lượng nước mà ngành bán dẫn tiêu thụ trong năm 2021 bằng với lượng nước tiêu thụ của Hong Kong (Trung Quốc). Các cơ sở sản xuất chip hiện sử dụng hàng triệu thùng nước mỗi ngày để rửa sạch các tấm bán dẫn và làm mát thiết bị.
+
+Lượng nước tiêu thụ cho các nhà máy sản xuất chip và trung tâm dữ liệu sẽ tăng lên khi nhu cầu về chip tăng lên. Những loại chip càng tiên tiến sẽ càng cần nhiều bước xử lý. Giờ đây khi khí hậu dần khô hơn và các quy định về tài nguyên nước ngày càng thắt chặt buộc các nhà máy phải nỗ lực giảm lượng nước thải.
+
+Việc sản xuất chip tiêu tốn một lượng nước lớn vì đòi hỏi nguồn nước siêu tinh khiết, không chứa chất gây ô nhiễm, vi khuẩn và ion. Nguyên nhân là bởi tấm bán dẫn rất nhạy cảm với các hạt nhỏ, có thể làm gián đoạn quá trình sản xuất và khiến các công ty thiệt hại hàng tỷ USD.
+
+Prakash Govindan, người đồng sáng lập và là COO của Công ty Công nghệ nước Gradiant, cho biết: " Khi kích thước chip giảm, lượng nước cần thiết sẽ tăng lên, độ tinh khiết mà họ cần đòi hỏi chất lượng nguồn nước ngày càng trở nên nghiêm ngặt hơn".
+
+Intel đã công bố kế hoạch phát thải bằng 0 vào năm 2030, nghĩa là họ sẽ khôi phục và trả lại nhiều nước hơn mức tiêu thụ thông qua việc giảm sử dụng và tài trợ cho các dự án khôi phục lưu vực sông. Vào năm 2023, công ty cho biết đã bảo tồn và phục hồi 13 tỷ gallon nước. Ngoài Intel, người phát ngôn của TSMC cũng cho rằng các nhà máy sản xuất chip của công ty ở Đài Loan đạt tỷ lệ tái chế nước gần 90% và các nhà máy ở Mỹ của họ cũng sẽ sớm đạt được điều đó.
+
+Sự khan hiếm nước tiếp tục là mối quan tâm hàng đầu của các công ty sản xuất chip. Bang Arizona, nơi đặt trụ sở của nhiều nhà máy Intel và TSMC, tiếp tục đối mặt với tình trạng thiếu nước do hạn hán ở sông Colorado.
+
+Một số nhà nghiên cứu đang tìm hiểu các cách để giảm thiểu và tái chế nước trong sản xuất chip. Paul Westerhoff, Giáo sư kỹ thuật bền vững tại Đại học bang Arizona đang tích cực làm việc với các nhóm nghiên cứu để chỉ cho các nhà sản xuất chip cách lọc nước thải từ quá trình xử lý chip và sử dụng để rửa những con chip tiếp theo.
+
+TSMC cũng đang tái chế nước của mình. Người phát ngôn của công ty cho biết đối với nhà máy sản xuất chip được đề xuất ở Phoenix, 65% lượng nước sử dụng sẽ đến từ hệ thống tái chế nước nội bộ và sẽ được sử dụng cho máy lọc không khí và tháp giải nhiệt. Họ có kế hoạch tái chế ít nhất 90% lượng nước bằng cách xây dựng một nhà máy cải tạo nước công nghiệp.
+
+Govindan cho biết công ty khởi nghiệp dịch vụ nước của ông - Gradiant có thể giúp các công ty như Micron, AMD và GlobalFoundries tái chế hơn 95% lượng nước trong một số trường hợp.
+
+Trong khi Nvidia không có nhà máy sản xuất chip, CEO Jensen Huang cho biết các trung tâm dữ liệu của họ - một nguồn tiêu tốn lượng nước khổng lồ có thể được đặt ở những khu vực xa xôi hơn, ít dân cư hơn.
+
+Anuradha Murthy Agarwal, người đứng đầu nhóm tại Phòng thí nghiệm Nghiên cứu Vật liệu của MIT và đang tiến hành nghiên cứu về chuyển đổi lĩnh vực sản xuất vi mạch bền vững hơn, cho biết một trong những thách thức hiện nay là thiếu tiêu chuẩn hóa.
+
+Agarwal hy vọng rằng các công ty sẽ nhanh chóng nghiên cứu về việc giảm thiểu tiêu thụ năng lượng và nước.
+
+“Ngành công nghiệp của chúng tôi đã quen với việc thay đổi. Cứ sau 18 tháng, chúng tôi lại tăng gấp đôi số lượng chip trên một tấm bán dẫn. Vì vậy, nếu chúng tôi tìm ra giải pháp trong ngành để phát triển bền vững hơn, rất có thể một số giải pháp này sẽ được áp dụng ở các lĩnh vực khác", Anuradha Murthy Agarwal cho hay.

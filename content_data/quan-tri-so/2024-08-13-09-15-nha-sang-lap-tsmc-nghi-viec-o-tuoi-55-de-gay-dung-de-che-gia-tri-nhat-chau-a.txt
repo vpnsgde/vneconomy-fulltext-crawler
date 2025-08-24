@@ -1,0 +1,33 @@
+Bill Gates khởi nghiệp khi chỉ mới 19 tuổi. Steve Jobs bắt đầu xây dựng Apple từ năm 21 tuổi, nhà sáng lập của Amazon Jeff Bezos và nhà sáng lập Nvidia Jensen Huang bắt đầu khởi nghiệp khi 30 tuổi. Tuy nhiên, Morris Chang, nhà sáng lập TSMC (tập đoàn sản xuất chất bán dẫn lớn nhất thế giới) phải đến khi 55 tuổi, mới bắt đầu xây dựng một đế chế của riêng mình.
+
+Nhà sáng lập TSMC, Morris Chang sinh năm 1931 tại Trung Quốc. Trong thế chiến thứ II, năm 1948, chạy trốn khỏi Thượng Hải do Nhật Bản chiếm đóng, gia đình ông đã sang Hồng Kông. Năm 1949, ông đến Hoa Kỳ, theo học tại Harvard.
+
+Năm 1955, sau hai lần trượt kỳ thi tiến sĩ tại MIT, ông nhận được hai lời đề nghị làm việc, một từ Ford Motor Company, một từ Sylvania, một công ty điện tử ít được biết đến. Morris Chang đã nhận công việc kỹ sư tại Sylvania. "Đó là khởi đầu cho sự nghiệp bán dẫn của tôi. Nhìn lại, đó là một điều tuyệt vời", ông từng chia sẻ trong cuốn tự truyện về mình.
+
+Sau đó không lâu, Sylvania đã phá sản và ông đã học được một điều "Ngành công nghiệp bán dẫn là một ngành công nghiệp có nhịp độ nhanh. Một khi để tụt lại phía sau, việc bắt kịp là chuyện vô cùng khó khăn".
+
+
+
+Năm 1958, ông chuyển sang công ty bán dẫn nổi tiếng, Texas Instruments. Tại đây, nhận thấy hoạt động sản xuất chip không hiệu quả, ông đã tìm cách thiết lập lại hoạt động của nhà máy. Chỉ trong vài tuần, nhà máy thực sự tăng năng suất lên 20% rồi 30%.
+
+Nhận thấy tiềm năng của người thanh niên trẻ, Texas Instruments đã thăng chức, trả tiền để Morris Chang lấy bằng Tiến sĩ và giao cho ông những trách nhiệm ngày càng lớn hơn.
+
+25 năm làm việc tại Texas Instruments, Morris Chang dần hình thành những ý tưởng sơ khai, sẽ thay đổi cuộc đời ông và tương lai của thế giới.
+
+Giống như Texas Instruments, tất cả các công ty công nghệ thời điểm đó đều dành rất nhiều thời gian và công sức để tìm ra cách vận hành các nhà máy sản xuất vi mạch nội bộ. Nhưng Morris Chang không nghĩ vậy. Theo ông, vi mạch có lẽ là thứ khó sản xuất nhất trên thế giới, đòi hỏi những cỗ máy phức tạp và đắt tiền hoạt động trong môi trường sạch nhất.
+
+Vì vậy, trong thời gian còn đi làm thuê, ông đã nghĩ rằng các công ty công nghệ nên tập trung vào thiết kế vi mạch và thuê ngoài sản xuất. Morris Chang đã đề xuất điều này với Texas Instruments nhiều lần nhưng không có bất kỳ phản hồi nào từ phía lãnh đạo. Cuối cùng, ông quyết định nghỉ việc. Năm 1984, Morris Chang gia nhập General Instrument, một công ty chip khác.
+
+Những năm 1980, Đài Loan có kế hoạch chuyển đổi từ công nghiệp nặng sang nền kinh tế công nghệ cao và đặt mục tiêu phát triển ngành công nghiệp bán dẫn, Morris Chang được mời dẫn đầu dự án chip.
+
+Năm 1985, Morris Chang từ chức Giám đốc tại General Instrument để bay đến Đài Loan. Ông được giao trọng trách xây dựng một công ty sẽ biến Đài Loan thành thủ phủ vi mạch của thế giới — nơi mà tất cả các công ty công nghệ đều đến để đặt hàng sản xuất chip của họ. Công ty này sẽ không thiết kế một vi mạch hoàn hảo mà sẽ thiết kế một nhà máy vi mạch hoàn hảo.
+
+Năm 1987, Moris Chang thành lập TSMC với vốn góp là 45 triệu USD, tiên phong trong sản xuất chip theo hợp đồng cho các công ty thiết kế chip không có nhà máy riêng. Tầm nhìn của ông đã được chứng minh là chính xác. Khi chất bán dẫn trở nên phức tạp hơn và tốn kém hơn để sản xuất, TSMC trở thành đối tác lý tưởng đối với bất kỳ công ty thiết kế nào muốn sản xuất.
+
+Năm 2010, Morris Chang nhận được lời mời đề nghị hợp tác từ Apple. Trước đó, Apple đã hợp tác với Samsung để sản xuất vi mạch cho iPhone, nhưng khi đó họ muốn tìm kiếm một đối tác mới vì Samsung đã trở thành đối thủ cạnh tranh trong phân khúc điện thoại thông minh.
+
+Có một thời điểm, Apple tuyên bố tạm dừng đàm phán với TSMC trong hai tháng vì có ý định hợp tác với Intel. Lo lắng, Morris Chang đã bay đến San Francisco để gặp Tim Cook, Giám đốc điều hành của Apple. Trong một cuộc phỏng vấn năm 2013, Paul Otellini, khi đó là Giám đốc điều hành của Intel, cho biết ông đã từ chối cơ hội sản xuất chip cho iPhone vì Apple không trả đủ tiền.
+
+Khi thỏa thuận với Apple hoàn tất, ông Morris Chang đã vay 7 tỷ USD để xây dựng năng lực sản xuất hàng triệu chip cho iPhone. Hiện nay, Apple là khách hàng lớn nhất của TSMC, chiếm khoảng 20% doanh thu của công ty.
+
+Năm 2018, ông Morris Chang lui về nghỉ hưu. Sau 40 năm kể từ khi thành lập, TSMC hiện đang là những nhà sản xuất chip lớn nhất thế giới, sản xuất gần 60% chip bán dẫn trên toàn thế giới và 90% vi mạch tiên tiến nhất được sử dụng trong điện thoại và máy tính xách tay cho đến hệ thống tên lửa. Hiện nay, TSMC đang đóng góp đến 5% GDP và 7% lượng điện tiêu thụ cho Đài Loan.

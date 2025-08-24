@@ -1,0 +1,19 @@
+Ngày 18/1, Công an TP Hà Nội cảnh báo về thủ đoạn lừa đảo khi cài đặt dịch vụ công giả mạo.
+
+Theo đó, mặc dù đã tuyên truyền, cảnh báo về chiêu lừa đảo bằng ứng dụng dịch vụ công giả mạo, tuy nhiên, thời gian gần đây, liên tiếp có nhiều bị hại tiếp tục bị các đối tượng giả mạo cán bộ công an, yêu cầu hỗ trợ cài đặt dịch vụ công “giả mạo” - chứa mã độc chiếm quyền điều khiển điện thoại của bị hại, thực hiện chuyển tiền từ tài khoản ngân hàng và các ứng dụng thanh toán để chiếm đoạt.
+
+Thủ đoạn của những đối tượng là tạo ra những ứng dụng có giao diện giống với ứng dụng Cổng dịch vụ công. Sau đó, để tạo uy tín thực hiện hành vi lừa đảo, chúng giả danh là cán bộ Công an phường/Công an quận thông báo: Căn cước công dân chưa được đồng bộ dữ liệu đất đai thành công, chưa cập nhật thông tin thẻ bảo hiểm y tế, cập nhật thông tin bằng lái xe chưa thành công… và hướng dẫn cập nhật qua mạng vì: công an quận phải hoàn thành công việc ngay trong ngày, cập nhật trực tiếp trên ứng dụng được, cài phần mềm để lấy số thứ tự nhanh không phải chờ đợi…
+
+Các đối tượng sẽ dẫn dắt người dân cài đặt ứng dụng giả mạo về điện thoại hoặc truy cập vào đường link cài đặt ứng dụng giả mạo gần giống với Cổng dịch vụ công.
+
+Mã độc sẽ song song được tải về điện thoại, cho phép đối tượng truy cập vào thiết bị để hoạt động truy cập dữ liệu, chụp ảnh màn hình, đọc tin nhắn, đặc biệt là quyền trợ năng để chiếm quyền điều khiển điện thoại. Chiếm được quyền điều khiển điện thoại, các đối tượng lấy cắp mật khẩu đăng nhập tài khoản ngân hàng và mã OTP giao dịch, thực hiện các lệnh chuyển tiền, chiếm đoạt tài sản.
+
+Tinh vi hơn, chúng thường nhằm vào những người cao tuổi ít am hiểu về công nghệ để thực hiện hành vi lừa đảo.
+
+Anh V., trú tại Long Biên, Hà Nội sau khi truy cập đường dẫn do “cán bộ công an phường giả mạo” cung cấp, tải ứng dụng giả mạo dịch vụ công để “bốc số thứ tự trước, không phải chờ khi lên quận làm thủ tục” đã bị chiếm đoạt 1,3 tỷ đồng trong 03 giao dịch chuyển tiền.
+
+Tương tự, chị A., trú tại Hai Bà Trưng, Hà Nội được một người đàn ông gọi điện xưng là “cán bộ công an quận Hai Bà Trưng” yêu cầu 10h sáng lên công an quận cập nhật thông tin bằng lái xe. Do chị A. bận nên được “cán bộ công an quận giả mạo” hướng dẫn cập nhật qua mạng. Sau khi tải ứng dụng Dịch Vụ Công giả mạo do đối tượng cung cấp, đối tượng đã chiếm đoạt gần 1 tỷ đồng trong tài khoản ngân hàng của chị.
+
+Trong tháng 01/2024, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Công an TP Hà Nội đã tiếp nhận đơn trình báo của 06 bị hại với tổng số tiền bị chiếm đoạt gần 20,6 tỷ đồng; bị hại bị chiếm đoạt nhiều nhất 15,3 tỷ đồng; ít nhất là 252 triệu đồng.
+
+Để tránh trở thành nạn nhân của chiêu lừa đảo sử dụng ứng dụng dịch vụ công giả mạo, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Công an TP Hà Nội, khuyến cáo người dân cần nâng cao cảnh giác trước các cuộc gọi lạ, tin nhắn có liên quan tới cán bộ của các cơ quan chức năng; Không làm việc, không cung cấp thông tin cá nhân và cũng không làm theo các yêu cầu thông qua điện thoại. Đồng thời, liên hệ với các cơ quan chức năng, có thẩm quyền để xác minh về người gọi điện; Cảnh giác với những yêu cầu cài đặt phần mềm; Tuyệt đối không bấm vào các đường link nhận được qua tin nhắn, không cài đặt ứng dụng không rõ nguồn gốc qua link hoặc file Apk; Khi cài đặt bất kỳ ứng dụng nào, người dùng cũng nên đọc kỹ thông tin, đừng vội đồng ý tất cả các điều khoản; Chỉ truy cập, tải và cài đặt ứng dụng chính thức thông qua Google Play và Apple Store, kiểm tra thông tin tác giả (nhà phát triển); Nên sử dụng những phương thức bảo vệ tài khoản sinh trắc học như vân tay, nhận diện khuôn mặt... để đăng nhập ứng dụng ngân hàng và các ứng dụng thanh toán khác; Không lưu thông tin bảo mật dịch vụ ngân hàng trên các phần mềm ứng dụng của điện thoại.

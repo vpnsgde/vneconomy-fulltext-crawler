@@ -1,0 +1,43 @@
+Trước đây, các sàn giao dịch thương mại điện tử phải cung cấp thông tin cho các cơ quan thuế theo hình thức thủ công như bản giấy, file excel gửi qua email, gửi bằng USB... Tuy nhiên, các mẫu biểu yêu cầu cung cấp thông tin không thống nhất giữa các cơ quan thuế, có thể xảy ra trường hợp nhiều cơ quan thuế cùng yêu cầu cung cấp thông tin.
+
+Để giải quyết khó khăn cho các sàn giao dịch thương mại điện tử trong việc cung cấp thông tin, Tổng cục Thuế chính thức vận hành Cổng thông tin thương mại điện tử để tiếp nhận thông tin từ các sàn giao dịch thương mại điện tử từ ngày 15/12/2022. Đây là kênh tiếp nhận tổ chức tập trung một đầu mối dữ liệu toàn ngành để các cục thuế, chi cục thuế và các bộ phận chức năng thực hiện các nghiệp vụ quản lý thuế theo quy định.
+
+Theo thống kê của Tổng cục Thuế, tính đến ngày 6/2 có 258 sàn giao dịch thương mại điện tử cung cấp thông tin trên Cổng thông tin thương mại điện tử với thông tin chi tiết về 14.883 tổ chức và 53.212 cá nhân đăng ký bán hàng trên sàn giao dịch thương mại điện tử.
+
+Việc các sàn giao dịch thương mại điện tử phải cung cấp thông tin cho cơ quan thuế được quy định tại Nghị định số 91/2022/NĐ-CP ngày 30/10/2022 sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
+
+Trong đó, quy định về trách nhiệm của tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử phải cung cấp thông tin cho cơ quan thuế định kỳ hàng quý, bằng phương thức điện tử qua cổng thông tin điện tử Tổng cục Thuế.
+
+Việc cung cấp thông tin theo quy định tại Nghị định số 91/2022/NĐ-CP có hiệu lực từ kỳ cung cấp thông tin của quý 4/2022, chậm nhất vào ngày 31/1/2023. Đối với các kỳ cung cấp thông tin của các quý tiếp theo thì thời hạn chậm nhất vào ngày cuối cùng của tháng đầu quý sau.
+
+Về nội dung cung cấp thông tin, tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử có trách nhiệm cung cấp đầy đủ, chính xác, đúng hạn các thông tin chung của thương nhân, tổ chức, cá nhân kinh doanh trên sàn thương mại điện tử bao gồm: tên người bán hàng, mã số thuế hoặc số định danh cá nhân hoặc chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu, địa chỉ, số điện thoại liên lạc.
+
+
+
+Tính đến ngày 6/2 có 258 sàn giao dịch thương mại điện tử cung cấp thông tin trên Cổng thông tin thương mại điện tử với thông tin chi tiết về 14.883 tổ chức và 53.212 cá nhân đăng ký bán hàng trên sàn giao dịch thương mại điện tử.
+
+Trường hợp sàn giao dịch thương mại điện tử không lưu giữ đầy đủ các thông tin chung nêu trên thì vẫn phải thực hiện việc cung cấp các thông tin đầy đủ, chính xác, đúng hạn theo đúng thực tế thông tin lưu giữ tại sàn giao dịch thương mại điện tử.
+
+Đối với các kỳ cung cấp thông tin tiếp theo, sàn giao dịch thương mại điện tử có trách nhiệm yêu cầu thương nhân, tổ chức, cá nhân bổ sung để sàn giao dịch thương mại điện tử cập nhật thông tin chung theo đúng quy định tại Nghị định số 52/2013/NĐ-CP và Nghị định số 85/2021/NĐ-CP để cung cấp cho cơ quan thuế theo quy định.
+
+Trường hợp tổ chức là chủ sở hữu sàn thương mại điện tử không cung cấp thông tin theo quy định thì cơ quan thuế xử lý vi phạm hành chính theo quy định tại Điều 19 Nghị định số 125/2020/NĐ-CP.
+
+Tổng cục Thuế nhìn nhận quy định này đã tạo điều kiện thuận lợi cho các tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử khi cung cấp thông tin cho cơ quan thuế như: cắt giảm thủ tục hành chính, tiết kiệm chi phí tuân thủ pháp luật thuế theo định hướng của Chính phủ lấy người dân, doanh nghiệp làm trung tâm của chuyển đổi số. Đồng thời, cổng thông tin đi vào vận hành kỳ vọng sẽ dần chống thất thu thuế trong lĩnh vực thương mại điện tử.
+
+Cổng có khả năng tiếp nhận thông tin với quy mô lớn, thường xuyên, liên tục từ các sàn giao dịch thương mại điện tử thông qua hệ thống công nghệ thông tin hiện đại, tích hợp.
+
+Thông tin thu thập được từ các sàn được dùng để xây dựng cơ sở dữ liệu tập trung phục vụ quản lý thuế theo rủi ro đảm bảo bảo mật thông tin theo quy định của pháp luật.
+
+Cổng thông tin thương mại điện tử của Tổng cục Thuế hỗ trợ 3 chức năng chính.
+
+Thứ nhất,hỗ trợ cung cấp thông tin, các sàn chỉ cần đăng nhập vào chức năng này là được cung cấp thông tin theo quy định. Khi đăng nhập vào chức năng này, giao diện màn hình sẽ thể hiện đầy đủ các thông tin chỉ dẫn đảm bảo các sàn được cung cấp thông tin thuận tiện.
+
+Thứ hai,hỗ trợ khai thuế thay cho cá nhân kinh doanh thông qua sàn.
+
+Tại chức năng này, chủ sở hữu sàn giao dịch thương mại điện tử có thể thực hiện khai thay cho các cá nhân kinh doanh qua sàn theo quy định của pháp luật dân sự.
+
+Mức thuế suất áp dụng trên doanh thu theo quy định hiện hành đối với cá nhân kinh doanh, chẳng hạn kinh doanh phân phối, cung cấp hàng hóa: thuế suất thuế giá trị gia tăng là 1%, thuế suất thuế thu nhập cá nhân là 0,5%…
+
+Thứ ba,hỗ trợ cá nhân khai thuế trực tiếp trên cổng.
+
+Cá nhân, hộ kinh doanh trên sàn giao dịch thương mại điện tử có thể trực tiếp khai thuế tại cổng. Mức thuế suất áp dụng trên doanh thu theo quy định hiện hành đối với cá nhân kinh doanh.

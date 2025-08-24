@@ -1,0 +1,15 @@
+Những người trong ngành và các nhà phân tích cho biết, lệnh cấm sắp tới của OpenAI sẽ góp phần vào sự phát triển của lĩnh vực trí tuệ nhân tạo (AI) của Trung Quốc.
+
+Ông Zhou Hongyi, người sáng lập và giám đốc điều hành của công ty an ninh mạng Qihoo 360 chia sẻ: “Việc OpenAI tạm dừng tiếp cận thị trường Trung Quốc sẽ chỉ thúc đẩy sự phát triển của ngành công nghiệp về trí tuệ nhân tạo - AI hay mô hình ngôn ngữ lớn (LLM) của Trung Quốc”.
+
+Công ty của ông Zhou cũng đang phát triển LLM của riêng mình, công nghệ tương tự đằng sau ChatGPT của OpenAI và các dịch vụ AI tổng quát khác. Mọi người trong công ty đều cho rằng lệnh cấm của công ty Mỹ đối với các nhà phát triển có trụ sở tại Trung Quốc sẽ chỉ khiến người dùng buộc phải chọn mô hình AI địa phương. Điều này thậm chí, còn giúp thúc đẩy thị trường và các công ty ở Trung Quốc đang tranh giành nhau ngày càng quyết liệt hơn.
+
+Được biết, OpenAI chưa chính thức cung cấp dịch vụ của mình tại Trung Quốc, bao gồm cả Hồng Kông. Đất nước tỷ dân này không nằm trong danh sách 188 quốc gia và khu vực nơi OpenAI cung cấp dịch vụ. Các nhà phát triển ở Trung Quốc đã sử dụng mạng ảo để vượt qua các hạn chế và có thể có quyền truy cập thông qua giao diện lập trình ứng dụng (API) của OpenAI.
+
+Nguồn tin cho biết, các công ty công nghệ Trung Quốc đang lên kế hoạch hành động nhanh chóng để tận dụng lệnh cấm của OpenAI. Được biết, lệnh cấm sẽ có hiệu lực từ ngày 9/7. Các công ty Trung Quốc đang liên tục đăng tải các bài quảng cáo, mã thông báo dịch vụ miễn phí để thu hút khách hàng địa phương sử dụng dịch vụ của họ.
+
+Zhipu AI, một công ty khởi nghiệp về AI có trụ sở tại Bắc Kinh, được coi là một trong những “đối thủ” địa phương tốt nhất của Trung Quốc để cạnh tranh với OpenAI. Ngay sau tuyên bố lệnh cấm truy cập ChatGPT, Zhipu AI đã công bố “kế hoạch chuyển nhà đặc biệt” để giúp người dùng OpenAI tại Trung Quốc dễ dàng chuyển sang mô hình LLL “cây nhà lá vườn” hơn. Bài đăng thông báo được đăng công khai trên tài khoản WeChat chính thức của công ty.
+
+Tham gia cùng kế hoạch này của Zhipu còn có các công ty Big Tech và những công ty AI khác, bao gồm Alibaba Group Holding, gã khổng lồ công cụ tìm kiếm Baidu, và các công ty khởi nghiệp AI Baichuan. Tất cả đều cung cấp các đặc quyền mới cũng như quà tặng miễn phí, giảm giá, hỗ trợ kỹ thuật nhằm thu hút khách hàng. Họ đều tự hào rằng LLM của mình phù hợp với người dùng Trung Quốc hơn của OpenAI.
+
+Baichuan, một dự án AI mới của Wang Xiaochuan, người sáng lập công cụ tìm kiếm Sogou của Trung Quốc, đã hứa rằng sẽ chỉ mất ít nhất 5 phút để thực hiện chuyển đổi từ OpenAI sang nền tảng Baichuan của Wang Xiaochuan.

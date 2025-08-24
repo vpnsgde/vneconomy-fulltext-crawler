@@ -1,0 +1,11 @@
+Bà Võ Dương Tú Diễm, Giám đốc Kaspersky khu vực Việt Nam, Campuchia và Myanmar, tại buổi ra mắt giải pháp bảo mật toàn diện Kaspersky 2023 mới chiều 20/4, cho biết, năm 2022 các giải pháp của Kaspersky đã ngăn chặn 505.879.385 cuộc tấn công từ các nguồn trực tuyến trên toàn cầu. Trong đó, Web Anti-Virus của Kaspersky cũng đã ngăn chặn 109.183.489 đối tượng độc hại độc lập, tăng 69% so với năm 2021.
+
+Tại Đông Nam Á, số vụ tấn công bằng phần mềm độc hại bị Kaspersky ngăn chặn là 207.506 vụ, trong đó, Việt Nam chiếm 15.499 vụ. Việt Nam đứng ở vị trí thứ 3 trong số các quốc gia có nhiều vụ tấn công bằng phần mềm độc hại nhất trong khu vực.
+
+Theo bà Diễm, một giải pháp bảo mật không chỉ chống virus cho PC mà còn là một hệ sinh thái toàn diện bao gồm các dịch vụ bảo mật cho mọi nền tảng và thiết bị, phục vụ mọi nhu cầu của người dùng. Kaspersky đã cải tiến toàn bộ cấu trúc cũng như trải nghiệm tổng thể cho người dùng để giúp họ hiểu và đánh giá cao phạm vi, mức độ bảo vệ về bảo mật, hiệu suất, quyền riêng tư và danh tính.
+
+Ngoài ra, các loại mối đe dọa mới tiếp tục xuất hiện từ những kẻ đánh cắp nâng cao nhằm mục tiêu vào tài khoản trên nền tảng trò chơi trực tuyến phổ biến hoặc ví tiền điện tử, cho đến phần mềm theo dõi cho phép tội phạm bí mật theo dõi cuộc sống riêng tư của người dùng thông qua thiết bị di động, đặc biệt việc xuất hiện các cuộc gọi lừa đảo đang có chiều hướng gia tăng tại Việt Nam. Vì vậy, điều quan trọng là người dùng phải có sự chuẩn bị cho tất cả các tình huống có thể xảy ra để họ có thể tự tin tiếp tục cuộc sống trên môi trường số.
+
+Theo bà Diễm, người dùng có thể truy cập vào ví bảo vệ danh tính (Identity Protection Wallet), nơi lưu trữ các bản sao dữ liệu nhạy cảm chẳng hạn như hộ chiếu hoặc bằng lái xe ở định dạng được mã hóa và ngăn chặn hành vi trộm cắp danh tính, cho phép người dùng truy cập an toàn vào dữ liệu trên tất cả các thiết bị cá nhân; cũng như các giải pháp bảo vệ trẻ em, đối tượng dễ bị tổn thương nhất khỏi các nguy cơ trên không gian mạng.
+
+Trong tương lai, Kaspersky đang có kế hoạch phát triển hơn nữa hệ sinh thái và mở rộng danh sách quan hệ đối tác, tích hợp và cung cấp nhiều giá trị, dịch vụ cho người dùng.

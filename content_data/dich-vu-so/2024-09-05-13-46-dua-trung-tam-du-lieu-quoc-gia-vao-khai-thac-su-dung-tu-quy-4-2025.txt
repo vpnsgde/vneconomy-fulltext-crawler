@@ -1,0 +1,43 @@
+Ngày 4/9/2024, Thủ tướng Chính phủ ban hành Chỉ thị số 32/CT-TTg về việc đẩy mạnh thực hiện Nghị quyết số 175/NQ-CP của Chính phủ phê duyệt Đề án Trung tâm dữ liệu quốc gia.
+
+Dữ liệu tại Trung tâm dữ liệu quốc gia là nền tảng cốt lõi cung cấp các dịch vụ liên quan đến dữ liệu, hỗ trợ hoạch định chính sách, xây dựng Chính phủ số, xã hội số và kinh tế số. Trung tâm dữ liệu quốc gia cung cấp hạ tầng công nghệ thông tin cho các tổ chức chính trị xã hội, các hệ thống cơ sở dữ liệu quốc gia và các cơ quan có nhu cầu sử dụng để khai thác, vận hành, nâng cao hiệu quả, bảo đảm an ninh, an toàn thông tin.
+
+Tuy nhiên, Chỉ thị của Thủ tướng nêu rõ quá trình triển khai thực hiện vẫn còn nhiều khó khăn, vướng mắc. Theo đó, các cơ sở dữ liệu quốc gia theo Nghị định số 47/2024/NĐ-CP chưa được xây dựng đầy đủ; nhiều cơ sở dữ liệu được thu thập, lưu trữ trùng lặp, chồng chéo, chưa được chuẩn hóa, thống nhất về tiêu chuẩn, danh mục nên không có khả năng kế thừa, khó khăn khi kết nối, chia sẻ, khai thác dùng chung.
+
+Bên cạnh đó, một số bộ, ngành chưa có hạ tầng để triển khai các hệ thống công nghệ thông tin cốt lõi phục vụ cho công tác nghiệp vụ. Chủ quản cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành chưa xác định được cụ thể lộ trình, công việc cần thực hiện để di chuyển hạ tầng, đồng bộ dữ liệu bảo đảm phù hợp với quá trình xây dựng Trung tâm dữ liệu quốc gia…
+
+Để triển khai đồng bộ, đạt mục tiêu đưa Trung tâm dữ liệu quốc gia vào khai thác, sử dụng từ quý 4/2025, Thủ tướng Chính phủ yêu cầu Bộ Công an chủ trì, xây dựng Luật Dữ liệu, đề xuất cấp có thẩm quyền trình Quốc hội xem xét, cho ý kiến tại Kỳ họp thứ 8 (tháng 10/2024) và thông qua tại Kỳ họp thứ 9 (tháng 5/2025).
+
+Bộ Công an cũng được giao xây dựng Quyết định của Thủ tướng về Chiến lược dữ liệu tại Trung tâm dữ liệu quốc gia; ban hành Quy chuẩn kỹ thuật quốc gia về cấu trúc thông điệp dữ liệu trao đổi với Cơ sở dữ liệu tổng hợp quốc gia dữ liệu, hoàn thành trong tháng 9/2024.
+
+Thủ tướng yêu cầu Bộ Thông tin và Truyền thông hoàn thiện, trình Chính phủ ban hành Nghị định quy định về cơ sở dữ liệu dùng chung; trình Thủ tướng ban hành Quyết định phê duyệt danh mục cơ sở dữ liệu quốc gia, thời gian hoàn thành trong tháng 9 năm 2024.
+
+Cùng với đó xây dựng, ban hành quy định về quy chuẩn, tiêu chuẩn của Trung tâm dữ liệu (Trung tâm dữ liệu quốc gia, Trung tâm dữ liệu vùng, Trung tâm dữ liệu ngành) để phục vụ vận hành Trung tâm dữ liệu quốc gia, thời gian hoàn thành trong năm 2024.
+
+Nghiên cứu, tham mưu sửa đổi Khung kiến trúc Chính phủ điện tử 3.0 để xem xét bổ sung nền tảng chia sẻ, điều phối dữ liệu của Trung tâm dữ liệu quốc gia theo quy định của pháp luật, hoàn thành trong tháng 9/2024; chủ trì, phối hợp với các bộ: Tài nguyên và Môi trường, Xây dựng, Công an, Khoa học và Công nghệ và các đơn vị có liên quan xây dựng, ban hành tiêu chuẩn về địa chỉ số quốc gia, hoàn thành trong quý 3/2024.
+
+Bộ Khoa học và Công nghệ xây dựng, trình Chính phủ ban hành Nghị định quy định một số nội dung về đổi mới sáng tạo và khởi nghiệp sáng tạo, thời gian hoàn thành trong quý 4/2024.
+
+Các bộ, ngành, địa phương rà soát, sửa đổi hoặc đề xuất cấp có thẩm quyền sửa đổi văn bản pháp luật phục vụ đồng bộ dữ liệu từ cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành về Cơ sở dữ liệu tổng hợp quốc gia theo phạm vi, lĩnh vực quản lý.
+
+Thủ tướng yêu cầu các bộ, cơ quan đã thống nhất phương án chuyển hạ tầng hệ thống thông tin về Trung tâm dữ liệu quốc gia chưa ban hành kế hoạch chuyển hạ tầng về Trung tâm dữ liệu quốc gia chủ trì, phối hợp Bộ Công an và các đơn vị có liên quan xây dựng kế hoạch, lập danh sách thông tin tài nguyên của các hệ thống dự kiến di chuyển, hoàn thành trong tháng 9/2024.
+
+Thực hiện di chuyển hệ thống công nghệ thông tin về Trung tâm dữ liệu quốc gia theo lộ trình thống nhất với Bộ Công an, thực hiện từ quý 2/2025.
+
+Các bộ, cơ quan đã thống nhất phương án tích hợp hạ tầng hệ thống thông tin vào nền tảng điện toán đám mây của Trung tâm dữ liệu quốc gia chưa ban hành kế hoạch chủ trì, phối hợp Bộ Công an và các đơn vị có liên quan xây dựng kế hoạch, lập danh sách thông tin về nhu cầu sử dụng tài nguyên hạ tầng điện toán đám mây đối với các hệ thống dự kiến di chuyển hoặc triển khai mới, hoàn thành trong tháng 9/2024;
+
+Chỉ thị cũng yêu cầy bảo đảm hệ thống ứng dụng công nghệ thông tin có khả năng hoạt động trên nền tảng điện toàn đám mây, sẵn sàng thực hiện di chuyển và tích hợp lên nền tảng điện toán đám mây của Trung tâm dữ liệu quốc gia, thực hiện từ quý 3/2025.
+
+Với các bộ, ngành là chủ quản cơ sở dữ liệu quốc gia, trong trường hợp có hạ tầng nhà trạm không đáp ứng tiêu chuẩn Trung tâm dữ liệu hạng III (TCVN 9250:2021) khẩn trương phối hợp với Bộ Công an hoàn thành xây dựng kế hoạch trong tháng 9/2024 để triển khai phương án chuyển hệ thống về Trung tâm dữ liệu quốc gia vào quý 4/2025;
+
+Trường hợp có hạ tầng nhà trạm bảo đảm theo các tiêu chuẩn Trung tâm dữ liệu hạng III (TCVN 9250:2021, TIA-942 hoặc Uptime Tier-3), tiếp tục quản trị, vận hành Trung tâm dữ liệu; Đồng thời phối hợp Trung tâm dữ liệu quốc gia và các cơ quan liên quan nghiên cứu, đánh giá việc đầu tư nâng cấp hạ tầng nhà trạm phù hợp với lộ trình triển khai Trung tâm dữ liệu quốc gia và thời gian hết khấu hao của các thiết bị.
+
+Trường hợp đang thuê dịch vụ hạ tầng Trung tâm dữ liệu do doanh nghiệp cung cấp: Phối hợp với Trung tâm dữ liệu quốc gia xây dựng kế hoạch và phương án chuyển hệ thống thông tin khi kết thúc hợp đồng dịch vụ, hoàn thành việc xây dựng kế hoạch trong tháng 9/2024.
+
+Thủ tướng yêu cầu Bộ Công an nghiên cứu, xây dựng mô hình nghiệp vụ triển khai tại Trung tâm dữ liệu quốc gia (gồm nghiệp vụ dữ liệu đầu vào, nghiệp vụ dịch vụ đầu ra, nghiệp vụ lõi), bảo đảm trước mắt phục vụ hiệu quả việc giải quyết thủ tục hành chính và việc phân tích các chỉ tiêu kinh tế xã hội quốc gia, chỉ tiêu thống kê các bộ, ngành, hoàn thành trong tháng 9 năm 2024.
+
+Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Công an rà soát, đánh giá hệ thống thông tin thống kê quốc gia, thống nhất thông tin, dữ liệu cần thiết tạo lập trong Cơ sở dữ liệu tổng hợp tại Trung tâm dữ liệu quốc gia để phục vụ công tác thống kê từ dữ liệu của các bộ, cơ quan nhằm giảm thiểu gánh nặng cho các đối tượng cung cấp thông tin thống kê; khẩn trương xây dựng Đề án cơ sở dữ liệu doanh nghiệp, hoàn thành trong tháng 9/2024.
+
+Văn phòng Chính phủ thực hiện phát triển Cổng Dịch vụ công quốc gia tại Trung tâm dữ liệu quốc gia theo Nghị quyết phiên họp Chính phủ thường kỳ tháng 5/2024 theo lộ trình tại Nghị quyết số 175/NQ-CP, đáp ứng yêu cầu là một Cổng duy nhất trên toàn quốc để thực hiện thủ tục hành chính, dịch vụ công phục vụ người dân, doanh nghiệp, bảo đảm kế thừa các kết quả đã triển khai Cổng Dịch vụ công quốc gia thời gian qua và có lộ trình phù hợp với sự trưởng thành của dữ liệu;…
+
+Thủ tướng cũng yêu cầu Bộ Tài nguyên và Môi trường xây dựng cơ sở dữ liệu quốc gia về đất đai bảo đảm đồng bộ về Trung tâm dữ liệu quốc gia. Bảo hiểm xã hội Việt Nam xây dựng cơ sở dữ liệu quốc gia về Bảo hiểm bảo đảm đồng bộ về Trung tâm dữ liệu quốc gia.

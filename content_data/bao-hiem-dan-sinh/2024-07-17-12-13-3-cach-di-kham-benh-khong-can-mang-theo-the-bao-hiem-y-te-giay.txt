@@ -1,0 +1,31 @@
+Cụ thể,Cách 1:Người dân xuất trình thẻ căn cước công dân gắn chip tại cơ sở khám, chữa bệnh. Khi quét mã QR đã có thông tin hợp lệ về tham gia bảo hiểm y tế, cơ sở khám, chữa bệnh thực hiện kiểm tra, đối chiếu thông tin về bảo hiểm y tế, và tiếp đón người bệnh theo quy trình khám, chữa bệnh bảo hiểm y tế hiện hành.
+
+Cách thứ 2:Người dân có thể sử dụng thẻ bảo hiểm y tế đã được xác thực trên ứng dụng VNeID mức 2, bằng cách mở cài đặt VNeID trên điện thoại di động, sau đó đăng nhập tài khoản VNeID.
+
+Tiếp đó chọn mục “Ví giấy tờ”, sau đó chọn “Thẻ BHYT”; nhập mã để xác minh người dùng và xuất trình hình ảnh thẻ bảo hiểm y tế trên ứng dụng VNeID cho nhân viên y tế.
+
+Theo Nghị định 75/2023/NĐ-CP sửa đổi Nghị định 146/2018/NĐ-CP hướng dẫn Luật Bảo hiểm y tế, trong đó, chính thức quy định việc dùng VNeID thay thẻ bảo hiểm y tế giấy khi đi khám bệnh.
+
+Theo đó, người tham gia bảo hiểm y tế khi khám bệnh, chữa bệnh cần xuất trình thẻ bảo hiểm y tế có ảnh hoặc căn cước công dân.
+
+Trường hợp xuất trình thẻ bảo hiểm y tế chưa có ảnh, thì cần xuất trình thêm một trong các giấy tờ tùy thân có ảnh do cơ quan, tổ chức có thẩm quyền cấp, hoặc giấy xác nhận của công an cấp xã, hoặc giấy tờ khác có xác nhận của cơ sở giáo dục nơi quản lý học sinh, sinh viên; các giấy tờ chứng minh nhân thân hợp pháp khác hoặc giấy tờ được định danh điện tử mức độ 2 theo quy định tại Nghị định 59/2022/NĐ-CP.
+
+Như vậy, theo quy định trên, khi đi khám bảo hiểm, ngoài xuất trình thẻ bảo hiểm y tế giấy, trường hợp người dân đã tích hợp thẻ bảo hiểm y tế vào ứng dụng VNeID thì có thể dùng VNeID thay thẻ bảo hiểm y tế giấy.
+
+Cách thứ 3:Người dân cũng có thể sử dụng ứng dụng VssID trên điện thoại để thay thế thẻ bảo hiểm y tế giấy khi đi khám chữa bệnh. Sau khi đăng nhập thành công ứng dụng VssID, người dân cần chọn mục “Quản lý cá nhân”. Tiếp đó chọn mục “Thẻ BHYT” và sau đó chọn “Sử dụng thẻ” hoặc “Hình ảnh thẻ” xuất trình cho cơ sở y tế.
+
+Trường hợp cấp cứu, người bệnh có thể vào điều trị tại các cơ sở khám chữa bệnh, tuy nhiên sẽ cần xuất trình thẻ bảo hiểm y tế trước khi ra viện để được hưởng quyền lợi bảo hiểm y tế.
+
+Hiện nay, Bảo hiểm xã hội Việt Nam vẫn đang sử dụng song hành giữa sổ bảo hiểm xã hội, thẻ bảo hiểm y tế giấy và ứng dụng VssID.
+
+Từ đó, người tham gia bảo hiểm xã hội, bảo hiểm y tế tiếp cận thông tin, thực hiện các dịch vụ công một cách tiện lợi, dễ dàng, nhanh chóng, từng bước thay thế sổ bảo hiểm xã hội và thẻ bảo hiểm y tế giấy.
+
+Thống kê của Bảo hiểm xã hội Việt Nam cho thấy hiện cả nước có gần 13.000 cơ sở khám chữa bệnh bảo hiểm y tế.
+
+Thực hiện Đề án số 06, đến nay, Bảo hiểm xã hội Việt Nam đã xác thực hơn 95 triệu thông tin nhân khẩu trong cơ sở dữ liệu do ngành quản lý với cơ sở dữ liệu quốc gia về dân cư. Trong đó, có khoảng 86,6 triệu người đang tham gia, thụ hưởng chính sách bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Đến nay, 100% cơ sở khám chữa bệnh bảo hiểm y tế trên toàn quốc đã triển khai khám chữa bệnh bảo hiểm y tế bằng căn cước công dân, vừa rút ngắn thời gian, thủ tục khám chữa bệnh, nâng cao chất lượng phục vụ, vừa giúp quản lý, sử dụng hiệu quả Quỹ Bảo hiểm y tế, chống trục lợi quỹ.
+
+Qua đó, không chỉ giúp người bệnh được đơn giản hóa thủ tục khám chữa bệnh, không phải lo lắng việc bảo quản hay quên thẻ bảo hiểm y tế khi đi khám chữa bệnh, mà còn đảm bảo tính bảo mật, an toàn dữ liệu thông tin khám chữa bệnh. Đồng thời, tiết kiệm thời gian đón tiếp, hướng dẫn của cơ sở khám chữa bệnh; quản lý Quỹ Bảo hiểm y tế hiệu quả, chống trục lợi quỹ.
+
+Cùng với đó, Bảo hiểm xã hội Việt Nam cũng phối hợp với Bộ Y tế xây dựng hồ sơ sức khỏe điện tử cho mỗi người dân, phục vụ cho mục đích chuyên môn của cơ sở y tế cũng như trong quản lý chi phí khám chữa bệnh; liên thông dữ liệu Giấy khám sức khỏe lái xe phục vụ dịch vụ công trực tuyến cấp đổi, cấp lại giấy phép lái xe...

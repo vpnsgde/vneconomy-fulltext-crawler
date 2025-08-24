@@ -1,0 +1,21 @@
+Ngày 23/10, Tòa án Nhân dân TP. Hà Nội đã mở phiên tòa hình sự sơ thẩm xét xử bị cáo Phạm Thị Thái (sinh năm 1985, Hà Nội) về tội “Sử dụng mạng máy tính, mạng viễn thông, phương tiện điện tử thực hiện hành vi chiếm đoạt tài sản”.
+
+Cùng hầu tòa về tội danh trên, còn có các bị cáo: Tống Văn Thắng (sinh năm 1988, Hà Nội), Phạm Mạnh Hùng (sinh năm 1985, TP.HCM), Nguyễn Ngọc Lương (sinh năm 1991, TP.HCM) và Vũ Đình Hùng (sinh năm 1983, TP.HCM).
+
+Theo cáo trạng của Viện Kiểm sát Nhân dân TP.Hà Nội, tháng 3/2018, các bị cáo Vũ Đình Hùng, Phạm Mạnh Hùng và Nguyễn Ngọc Lương đã cùng nhau tạo lập ra sàn giao dịch Rforex, giả là sàn giao dịch ngoại hối quốc tế. Ba bị cáo này có trình độ về công nghệ thông tin, biết rõ việc lập trang web trên nền tảng phần mềm MetaTrader 5 (MT5), kết nối với sàn giao dịch ngoại hối Rforex do các bị cáo tạo lập, sau đó sử dụng kỹ thuật can thiệp trái phép vào tài khoản của khách hàng để chiếm đoạt tiền là vi phạm pháp luật, nhưng vẫn cùng nhau thực hiện.
+
+Khi sàn Rforex đi vào hoạt động, Thái tham gia là một đại lý (IB) cấp 1 của Mạnh Hùng, chỉ được cấp quyền quản lý các khách hàng của mình. Từ tháng 7/2018, Thái đồng ý nhận chuyển nhượng quyền chủ sàn Rforex từ Đình Hùng và Mạnh Hùng với giá 20.000 USD.
+
+Đặc biệt, chủ sàn quản lý các tài khoản admin có thể can thiệp vào toàn bộ dữ liệu tài khoản khách hàng, tự thay đổi tên, mật khẩu, điều chỉnh số tiền nạp vào tài khoản, giao dịch ngẫu nhiên các lệnh dẫn đến “cháy” tài khoản, chặn kết nối đường truyền… Thực tế, sàn Rforex không có tính năng đối ứng ra thị trường thế giới. Tiền của khách hàng được chuyển đến ví điện tử do chủ sàn quản lý. Tuy nhiên, khách hàng chỉ nhìn thấy tài khoản của mình được cộng tiền USD khiến họ lầm tưởng rằng giao dịch trên sàn quốc tế.
+
+Sau khi bàn giao quyền quản trị sàn cho Thái, bị cáo Mạnh Hùng và Đình Hùng có trách nhiệm duy trì hoạt động của sàn, cũng như hỗ trợ Thái về mặt kỹ thuật khi vận hành sàn. Thái đã thuê nhân viên tư vấn nhiều khách hàng tham gia đầu tư tiền vào sàn ngoại hối.
+
+Thái lấy tên Anna, thuê trụ sở, đăng thông tin tuyển dụng nhân viên và đào tạo để lôi kéo khách hàng tham gia sàn Rforex thông qua danh nghĩa Công ty TNHH Five Tech Media. Thái quy định mức hoa hồng nhân viên được hưởng từ 1-5% trên số tiền khách hàng nạp vào.
+
+Tháng 7/2018, Thái chính thức tham gia với nhóm của Vũ Đình Hùng với vai trò quản trị sàn. Trong số khách hàng của Thái có chị Hoàng Thúy Q ở Hà Nội, từng là đồng nghiệp của bị cáo Tống Văn Thắng.
+
+Tháng 4/2020, Thắng giới thiệu với chị Q tham gia sàn Rforex lợi nhuận cao. Thắng cho chị Q xem tài khoản của mình có số dư 52.025,68 USD khiến chị Q tin tưởng nên lập tài khoản chơi forex. Từ ngày 16/4/2020 đến ngày 9/11/2020, chị Q đã nạp hơn 8,2 tỷ đồng vào tài khoản trên để chơi forex. Thái và Thắng đã bàn bạc với nhau dùng tài khoản quản trị để tắt truy cập khiến tài khoản của chị Q bị ngừng giao dịch. Phạm Mạnh Hùng và Vũ Đình Hùng dùng quyền quản trị, sử dụng 86 lệnh khiến chị Q bị “cháy” tài khoản. Số tiền chị Q bị chiếm đoạt là hơn 7,8 tỷ đồng. Khi chị Q hỏi thì Thái đổ lỗi hệ thống lỗi do ảnh hưởng bởi cuộc bầu cử Tổng thống Mỹ, sau đó Thái cắt đứt liên lạc với chị Q.
+
+Tương tự, chị N cũng tham gia sàn Rforex từ tháng 6/2019, nộp hơn 394 triệu đồng vào tài khoản. Nhưng chưa đầy một tháng, chị N không truy cập được tài khoản.
+
+Được biết, Vũ Đình Hùng, Phạm Mạnh Hùng và Nguyễn Ngọc Lương cùng một số cá nhân khác đã tạo lập, vận hành sàn forex trên các website khác như Vistaforex.com, Exswiss.com, Yailbrokien.com, Fmarkets.com… Cơ quan điều tra đã tìm khách hàng bị chiếm đoạt tiền trên các sàn giao dịch trên nhưng đến nay chưa xác định được ai là bị hại. Do đó, cơ quan điều tra đã tách rút tài liệu để xử lý sau.

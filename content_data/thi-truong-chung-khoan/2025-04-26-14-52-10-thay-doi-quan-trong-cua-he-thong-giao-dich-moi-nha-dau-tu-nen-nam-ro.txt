@@ -1,0 +1,41 @@
+Như VnEconomy đưa tin, Sở Giao dịch Chứng khoán Tp.HCM (HoSE) vừa thông báo chính thức đưa vào vận hành Hệ thống công nghệ thông tin mới kể từ ngày 05/5/2025.
+
+HoSE đề nghị các thành viên thị trường tập trung bố trí đầy đủ các nguồn lực để đưa Hệ thống công nghệ thông tin mới vào vận hành theo đúng kế hoạch; tăng cường giám sát, phổ biến, tuyên truyền đến các nhà đầu tư về các tính năng mới của Hệ thống, đảm bảo thị trường giao dịch an toàn, liên tục, ổn định.
+
+Theo đánh giá của VnDirect, việc triển khai hệ thống KRX vào ngày 05/05/2025 tới đâyđược kỳ vọng sẽ góp phần đưa thị trường chứng khoán Việt Nam tiến gần hơn đến mục tiêu nâng hạng từ thị trường cận biên sang thị trường mới nổi.
+
+Nhà đầu tư cần lưu ý 10 thay đổi quan trọng sau của hệ thống KRX:
+
+Thứ nhất, thứ tự hiển thị giá ATO/ATC. Lệnh ATO/ATC sẽ không được ưu tiên trước lệnh giới hạn (lệnh giới hạn mua giá trần và lệnh giới hạn bán giá sàn) đã nhập vào hệ thống trước đó khi so khớp lệnh. Giá hiển thị của lệnh ATO/ATCđược hiển thị 1 mức giá xác định như lệnh giới hạn LO.
+
+Thông tin 3 giá chào mua, chào bán tốt nhất được hiển thị là khối lượng tương ứng 3 mức giá dư mua/dư bán tốt nhất còn lại sau khi trừ khối lượng dự kiến khớp.
+
+Thứ hai, thay đổi về lệnh MTL và PLO. Lệnh PLO được đổi thành lệnh LO không có giá. Lệnh MP được đổi tên thành lệnh MTL (Market To Limit) với logic không thay đổi .
+
+Thứ ba, thay đổi quy định về việc sửa/hủy lệnh. Nhà đầu tư được sửa giá hoặc khối lượng của lệnh giới hạn (lệnh LO) chưa thực hiện hoặc phần còn lại của lệnh chưa thực hiện trong phiên khớp lệnh liên tục. Trong đó: Lệnh sửa giảm khối lượng sẽ không làm thay đổi thứ tự ưu tiên của lệnh;
+
+Lệnh sửa tăng khối lượng hoặc sửa giá sẽ làm thay đổi thứ tự ưu tiên của lệnh. Lưu ý: Nhà đầu tư không được sửa đồng thời thông tin khối lượng và giá trên cùng 01 lệnh.
+
+Thứ tư, mở rộng thời gian giao dịch đối với chứng khoán bị hạn chế trên HoSE.
+
+Thứ năm, thay đổi thời gian giao dịch đối với chứng khoán lô lẻ. Lô lẻ được giao dịch theo phương thức khớp lệnh liên tục, phương thức khớp lệnh thỏa thuận và phương thức khớp lệnh định kỳ (chỉ áp dụng giá LO).
+
+Bổ sung giao dịch lô lẻ trong 02 phiên khớp lệnh định kỳ mở cửa ATO (9h00 ến 9h15) và khớp lệnh định kỳ đóng cửa ATC (14h30 đến 14h45). Giao dịch thỏa thuận lô lẻ được bắt đầu từ 9h00 - 11h30 và 13h00 đến 15h00.
+
+Thứ sáu, những thay đổi trong giao dịch thỏa thuận. Lệnh thỏa thuận đã thực hiện không được phép sửa/hủy. Lệnh thỏa thuận chưa thực hiện, bên khởi tạo thỏa thuận có thể hủy lệnh đã khởi tạo. Cả bên mua và bán đều được khởi tạo lệnh.
+
+Thứ bảy, giải tỏa lệnh. Lệnh ATC, PLO, LO không được thực hiện hoặc phần còn lại khôngđược thực hiện hết sẽ hết hiệu lực và không tự động bị huỷ.
+
+Thứ tám, giao dịch của nhà đầu tư nước ngoài. Với giao dịch khớp lệnh, room giảm ngay khi lệnh mua nhà đầu tư nước ngoài được nhập vào hệ thống. Room tăng lên sau khi kết thúc thanh toán giao dịch chứng khoán. Lệnh mua vào nhà đầu tư nước ngoài nhập vào hệ thống giao dịch không được chấp nhận nếu Room < khối lượng đặt mua.
+
+Trường hợp sửa lệnh mua nhà đầu tư nước ngoài: Sửa giảm khối lượng: Room tăng bằng khối lượng giảm của lệnh ngay sau khi lệnh sửa được nhập vào hệ thống.
+
+Sửa tăng khối lượng: Room giảm bằng khối lượng được tăng ngay sau khi lệnh sửa vào hệ thống. Nếu Room nhỏ hơn khối lượng được tăng, hệ thống giao dịch không chấp nhận sửa lệnh. Trường hợp lệnh mua nhà đầu tư nước ngoài bị hủy bởi nhà đầu tư hoặc hệ thống giao dịch: Room tăng bằng khối lượng bị hủy.
+
+Với giao dịch thỏa thuận: Room giảm ngay khi lệnh mua được nhập vào hệ thống giao dịch nếu đó là giao dịch giữa nhà đầu tư nước ngoài mua với nhà đầu tư nước ngoài bán.
+
+Room tăng ngay khi lệnh hủy của nhà đầu tư nước ngoài được nhập vào hệ thống đối với nhà đầu tư nước ngoài mua và nhà đầu tư nước ngoài bán. Room tăng ngay sau khi kết thúc việc thanh toán giao dịch nếu giao dịch đó giữa nhà đầu tư nước ngoài bán với nhà đầu tư nước ngoài mua. Room không thay đổi nếu giao dịch thỏa thuận ược thực hiện giữa hai nhà đầu tư nước ngoài với nhau.
+
+Thứ chín, thay đổi tên mã hợp đồng phái sinh.
+
+Cuối cùng, thay đổi về phí và nghĩa vụ ký quỹ phái sinh. Khi giao dịch, với mỗi hợp đồng vị thế khớp, khách hàng trả phí dịch vụ bù trừ chứng khoán phái sinh cho VSDC là: 2.550/hợp đồng vị thế.

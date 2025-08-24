@@ -1,0 +1,25 @@
+Dân số am hiểu công nghệ, cơ sở hạ tầng công nghệ tiên tiến và hệ sinh thái đổi mới mạnh mẽ là những yếu tố đưa Trung Quốc đi đầu trong cuộc cách mạng Fintech toàn cầu hiện nay. Đến cuối năm 2023, tỷ lệ thâm nhập thanh toán di động của quốc gia này đạt 86%, cao nhất thế giới. Để thị trường chín muồi như hiện tại, từ cách đây 20 năm, lĩnh vực Fintech Trung Quốc đã manh nha hình thành.
+
+Giai đoạn công nghệ tài chính 1.0 của Trung Quốc, bắt đầu từ năm 1993 đến năm 2012, được coi là thời kỳ điện tử hóa tài chính của Trung Quốc. Nhìn chung, thời điểm này, Ngân hàng Nhân dân Trung Quốc và các tổ chức tài chính ngân hàng khác bắt đầu số hóa các dịch vụ hỗ trợ tài chính. Các ứng dụng điển hình bao gồm ATM, POS, hệ thống tín dụng,... đã bắt đầu xuất hiện.
+
+Năm 1993, hệ thống ngân hàng Trung Quốc xây dựng mạng máy tính đã chính thức mở ra kỷ nguyên điện tử hóa tài chính của Trung Quốc. Đến năm 1997, Ngân hàng Thương mại Trung Quốc ra mắt ngân hàng trực tuyến đầu tiên tại Trung Quốc. Năm 2004, sự thành lập của Alipay đánh dấu sự xuất hiện lần đầu tiên của một nền tảng thanh toán thứ ba tại Trung Quốc.
+
+Sau năm 2000, những doanh nghiệp thuộc danh mục nhóm ngành Fintech bắt đầu xuất hiện nhiều hơn tại Trung Quốc. Theo đó, năm 2006, nền tảng cho vay P2P đầu tiên của Trung Quốc được thành lập và ngay sau đó một năm, PPDAI, nền tảng cho vay trực tuyến hàng đầu Trung Quốc cũng được ra mắt. Tuy nhiên, mãi đến năm 2011, Ngân hàng Nhân dân Trung Quốc mới cấp giấy phép thanh toán bên thứ ba đầu tiên.
+
+Bước sang giai đoạn công nghệ tài chính 2.0, được cho là bắt đầu từ năm 2013 đến năm 2018, đánh dấu sự trỗi dậy của tài chính Internet. Trong 5 năm này, các tổ chức tài chính và công ty Internet bắt đầu kết hợp xây dựng các nền tảng trực tuyến, thu hút lượng lớn người dùng và sử dụng công nghệ internet di động để chuyển đổi các dịch vụ tài chính truyền thống.
+
+Ở giai đoạn này, doanh nghiệp Fintech Trung Quốc trong một số danh mục như mở tài khoản chứng khoán trực tuyến, hệ thống ngân hàng trực tuyến, cho vay P2P và thanh toán di động đã có điều kiện mở rộng nhanh chóng hơn so với giai đoạn đầu tiên.
+
+Năm 2015, khái niệm Fintech đã được giới thiệu đến thị trường Trung Quốc, các dịch vụ thanh toán, cho vay, huy động vốn từ cộng đồng, đầu tư thông minh, thu tín dụng và bảo hiểm Internet phát triển nhanh chóng. 2013 – 2016 là thời điểm hàng loạt các công ty Fintech được thử nghiệm và tự do phát triển. Tuy nhiên, đến năm 2017, Chính phủ Trung Quốc dần đưa ra nhiều biện pháp thắt chặt giám sát nhằm quản lý rủi ro tài chính, duy trì sự ổn định của thị trường Fintech quốc gia.
+
+Năm 2019 bắt đầu được coi là kỷ nguyên Fintech 3.0 của Trung Quốc, các công nghệ như dữ liệu lớn, trí tuệ nhân tạo, Blockchain, điện toán đám mây và 5G được tích hợp sâu với các dịch vụ tài chính. Vào tháng 8/2019, Ngân hàng Nhân dân Trung Quốc ban hành kế hoạch phát triển Fintech, trong đó thảo luận các ý tưởng về Fintech từ nhiều khía cạnh khác nhau, như một kim chỉ nam có thể định hướng sự phát triển của Fintech trong tương lai.
+
+Đại dịch đã dẫn đến việc tăng cường sử dụng thanh toán kỹ thuật số trên toàn thế giới. Các báo cáo ghi nhận 100 triệu người Trung Quốc trưởng thành đã thực hiện thanh toán kỹ thuật số lần đầu sau khi bắt đầu đại dịch. Mã QR thời điểm từ năm 2019 trở nên hết sức phổ biến trong việc cung cấp giải pháp không tiếp xúc trong toán, nhất là khi Trung Quốc đã thực hiện nhiều biện pháp chống Covid nghiêm ngặt.
+
+Theo Chỉ số chấp nhận công nghệ tài chính của Ernst & Young được công bố vào năm 2019, 87% dân số hoạt động kỹ thuật số của Trung Quốc sử dụng ít nhất một dịch vụ công nghệ tài chính (thanh toán di động, ngân hàng trực tuyến, bảo hiểm, vay mượn,...) trong cuộc sống hàng ngày.
+
+Đến cuối năm 2020, các cơ quan quản lý Trung Quốc tiếp tục đẩy mạnh thắt chặt hơn nữa hoạt động của các công ty công nghệ Trung Quốc, chẳng hạn ban hành luật chống độc quyền nhằm đàn áp tài chính của những ông lớn trong thị trường như Ant Financial hay Tencent.
+
+Tháng 11/2020, cơ quan quản lý Trung Quốc đã đình chỉ đợt IPO được nhiều người mong chờ của Ant Group. Tháng 4/2021, Cơ quan Quản lý Thị trường Quốc gia Trung Quốc (SAMR) phạt Alibaba 18,23 tỷ nhân dân tệ (~2,8 tỷ USD)– tương đương 4% doanh thu năm 2019 của Alibaba với cáo buộc đại gia công nghệ đã có nhiều động thái lạm dụng quyền thống trị thị trường từ năm 2015.
+
+Theo nghiên cứu khảo sát, sự khắt khe của các cơ quan quản lý trong nước đã khiến các doanh nghiệp Fintech Trung Quốc hiện có xu hướng tìm kiếm những cơ hội phát triển mới tại thị trường quốc tế. Một cuộc khảo sát của các CEO Fintech gần đây ghi nhận 52% các công ty Fintech Trung Quốc đã mở rộng ra nước ngoài hoặc đang xem xét mở rộng ra nước ngoài với các điểm đến thị trường mới là Hồng Kông/Ma Cao/Đài Loan (65%) và Đông Nam Á (57%)...

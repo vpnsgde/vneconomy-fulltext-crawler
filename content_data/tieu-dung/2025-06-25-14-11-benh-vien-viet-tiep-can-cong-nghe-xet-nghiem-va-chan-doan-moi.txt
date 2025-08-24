@@ -1,0 +1,35 @@
+Hiện nay, nhiều bệnh viện lớn đã tích cực ứng dụng AI để nâng cao chất lượng dịch vụ y tế. Bệnh viện Trung ương Quân đội 108 sử dụng AI trong chẩn đoán hình ảnh, hỗ trợ phát hiện sớm các bệnh lý nguy hiểm. Bệnh viện Hùng Vương triển khai AI CerviCare trong tầm soát ung thư cổ tử cung. Bệnh viện Chợ Rẫy đã ứng dụng AI trong phân tích kết quả X quang ngực thẳng…
+
+Với sự trợ giúp của công nghệ, hiện phần lớn xét nghiệm hóa sinh, huyết học, vi sinh, di truyền, sinh học phân tử, tế bào, giải phẫu bệnh… đã và đang được thực hiện tự động hóa, cho ra kết quả nhanh chóng, rút ngắn thời gian chờ đợi,… giúp chỉ định phù hợp trong điều trị cá thể hóa.
+
+Ngày 23/6/2025, Viện Y dược học dân tộc TP.HCM cho biết vừa tiếp nhận và đưa vào ứng dụng thiết bị CerviCare AI – hệ thống sàng lọc ung thư cổ tử cung ứng dụng trí tuệ nhân tạo (AI). Đây là bước tiến mới của Viện khi tích hợp công nghệ hiện đại vào công tác khám chữa bệnh, đặc biệt là trong y học cổ truyền.
+
+Công nghệ này sử dụng camera y khoa để thu nhận hình ảnh, tích hợp trực tiếp với phần mềm AI cho phép phát hiện tổn thương tiền ung thư và ung thư cổ tử cung với độ nhạy lên đến 98%; ghi lại và lưu trữ hồ sơ hình ảnh, giúp theo dõi tiến triển bệnh lý một cách hệ thống và thực hiện tầm soát quy mô lớn. Theo đại diện Viện Y dược học dân tộc TP.HCM, thiết bị sẽ được tích cực ứng dụng trong các hoạt động ngoại viện, đặc biệt tại các vùng sâu vùng xa – nơi phụ nữ ít có cơ hội tiếp cận dịch vụ y tế chuyên sâu.
+
+Tương tự, đầu tháng 6/2025, Bệnh viện E đã tổ chức hội thảo khoa học chuyên đề “Nâng tầm chẩn đoán bệnh lý gan: Tối ưu hóa hiệu quả và độ chính xác nhờ công nghệ và AI trong siêu âm”. TS.BS. Nguyễn Công Hựu, Giám đốc Bệnh viện E, nhấn mạnh rằng ứng dụng trí tuệ nhân tạo trong y tế là xu hướng tất yếu, không chỉ giúp giảm tải công việc cho nhân viên y tế mà còn nâng cao chất lượng dịch vụ và hiệu quả điều trị.
+
+Theo đó, hệ thống chẩn đoán hình ảnh tại Bệnh viện E đã và đang được trang bị nhiều thiết bị tiên tiến có tích hợp AI như máy cộng hưởng từ, máy Spectral CT 7500, máy chụp X-quang vú 3D kèm chức năng sinh thiết, máy siêu âm trong lòng mạch… Đây là nền tảng quan trọng giúp đội ngũ y tế tiếp cận với các công nghệ chẩn đoán hiện đại, tối ưu hóa quy trình chuyên môn và mang lại giá trị thiết thực trong chăm sóc sức khỏe cộng đồng.
+
+Trong khi đó, Bệnh viện Đại học Y Hà Nội cũng vừa chính thức trang bị hệ thống cộng hưởng từ tân tiến 3.0 Tesla SIGNA Architect được phát triển và sản xuất bởi GE HealthCare, nhằm đáp ứng công tác khám chữa bệnh chất lượng cao, phục vụ mục tiêu đào tạo y khoa chuẩn quốc tế và nghiên cứu y học tiên tiến của bệnh viện.
+
+Đại diện Bệnh viện Đại học Y Hà Nội cho biết hệ thống cộng hưởng từ 3.0 Tesla SIGNA Architect sẽ hỗ trợ phát hiện sớm và chính xác nhiều bệnh lý phức tạp, nhờ các công nghệ trí tuệ nhân tạo và phần mềm y học hình ảnh hiện đại. Bên cạnh các chỉ định cộng hưởng từ cơ bản, hệ thống còn mang đến giá trị chẩn đoán vượt trội trong nhiều chỉ định thăm khám chuyên sâu như: thần kinh, mạch máu, ung thư, cơ xương khớp…
+
+Ở cấp độ địa phương, Bệnh viện đa khoa tỉnh Thái Bình mới đây đã khai trương và đưa vào vận hành Hệ thống chụp cắt lớp vi tính (CT Scanner) 512 lát cắt với số kinh phí đầu tư hơn 42 tỷ đồng. Ứng dụng trí tuệ nhân tạo, hệ thống CT 512 lát cắt cho phép thu nhận hình ảnh có độ phân giải cực cao, thời gian quét chụp cực nhanh, đồng thời giảm liều tia tối đa cho người bệnh. Thiết bị có khả năng dựng hình 3D hỗ trợ phát hiện sớm tổn thương vi thể ở nhiều cơ quan như tim mạch, thần kinh, hô hấp, tiêu hóa…
+
+Đặc biệt, máy cho kết quả vượt trội trong phát hiện sớm ung thư, chẩn đoán bệnh lý mạch vành, tai biến mạch máu não, đa chấn thương và các trường hợp cấp cứu khẩn cấp. Khả năng định lượng chính xác và phân biệt vật chất với công nghệ CT quang phổ giúp phát hiện và chẩn đoán sớm các bệnh lý, giảm liều bức xạ đến 96%, an toàn, thân thiện cho mọi bệnh nhân, đặc biệt là bệnh nhi.
+
+Thực tế cho thấy, sự phát triển của y học hiện đại không chỉ phụ thuộc vào những phác đồ điều trị tiên tiến mà còn nằm ở khả năng chẩn đoán chính xác ngay từ giai đoạn đầu. Tại Bệnh viện Ung bướu tỉnh Thanh Hóa, kỹ thuật xạ hình xương toàn thân bằng hệ thống SPECT/CT đã mở ra hướng đi mới trong phát hiện sớm di căn xương, yếu tố quan trọng quyết định hiệu quả điều trị và tiên lượng sống cho bệnh nhân ung thư.
+
+Kỹ thuật SPECT tạo hình ảnh 3 chiều, cắt ngang, đứng dọc và đứng ngang kết hợp với hình ảnh giải phẫu từ CT, giúp định vị rõ vị trí tổn thương trong cấu trúc xương. Đặc biệt, với chức năng định lượng giá trị hấp thu chuẩn (SUV), SPECT/CT còn cung cấp thông tin về chuyển hóa tế bào - điều mà X-quang hay CT đơn thuần không thể làm được.
+
+Không dừng lại ở chẩn đoán ung thư di căn xương, hệ thống SPECT/CT còn được kỳ vọng mở rộng ứng dụng cho nhiều chuyên khoa khác như tim mạch, thần kinh, thận, gan - mật, phổi... Trong các bệnh viện tuyến tỉnh, đây là thiết bị có giá trị đặc biệt trong chẩn đoán chức năng nội tạng, theo dõi sau ghép tạng hoặc trước điều trị các bệnh lý phức tạp.
+
+Tại Hội nghị khoa học "Tiếp cận xét nghiệm mới trong chẩn đoán và điều trị" diễn ra ngày 20/6 vừa qua, PGS.TS.BS. Nguyễn Hoàng Định, Phó giám đốc Bệnh viện Đại học Y Dược TP.HCM, nhấn mạnh: "Trong bối cảnh khoa học và công nghệ y học không ngừng đổi mới, việc tiếp cận và ứng dụng các phương pháp xét nghiệm mới là điều kiện tiên quyết để nâng cao hiệu quả điều trị, đồng thời giảm gánh nặng cho hệ thống y tế.
+
+Dù còn nhiều thách thức trong việc triển khai thực tiễn, song mục tiêu chung là tìm ra các giải pháp tối ưu, đảm bảo mọi tiến bộ khoa học đều mang lại lợi ích thiết thực cho người bệnh và toàn xã hội".
+
+Đồng tình, PGS.TS.BS. Nguyễn Thị Băng Sương, Trưởng khoa Xét nghiệm Bệnh viện Đại học Y Dược TP.HCM, khẳng định: "Các nội dung ứng dụng trí tuệ nhân tạo, chỉ dấu sinh học mới, hay quản lý chất lượng hiện đại sẽ là trụ cột trong phát triển ngành xét nghiệm tại Việt Nam".
+
+Hiện tại là thời điểm “vàng” để các bệnh viện, bác sỹ chia sẻ chiến lược phát triển hệ thống xét nghiệm hiện đại, từ đầu tư trang thiết bị tự động hóa, sinh học phân tử, đến chuẩn hóa quy trình quản lý chất lượng theo tiêu chuẩn quốc tế.
+
+BS. Nguyễn Thị Băng Sương nhấn mạnh: "Chúng tôi kỳ vọng từ đây Việt Nam sẽ hình thành những mô hình hợp tác bền vững, góp phần xây dựng hệ sinh thái xét nghiệm y học hiện đại, thúc đẩy chuyển giao công nghệ, kiểm chuẩn chất lượng và đào tạo nhân lực".

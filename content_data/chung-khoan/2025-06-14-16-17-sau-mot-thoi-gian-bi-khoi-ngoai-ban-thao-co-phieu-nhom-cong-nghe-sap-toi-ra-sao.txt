@@ -1,0 +1,29 @@
+Mirae Asset vừa có báo cáo cập nhật triển vọng ngành công nghệ thông tin sau một thời gian dài nhóm cổ phiếu này lình xình đi ngang do áp lực bán tháo từ khối ngoại trước làn sóng chốt lời cổ phiếu công nghệ trên thị trường chứng khoán toàn cầu.
+
+Tại Việt Nam, trong 3 tháng năm 2025, ngành Công nghệ thông tin ghi nhận doanh thu 19.020 tỷ đồng, tăng 20% so với cùng kỳ. Biên lợi nhuận gộp cải thiện lên 32,4%, từ mức 31,9% năm 2024, nhờ lạm phát hạ nhiệt và kiểm soát chi phí chặt chẽ. Ngành công nghệ tiếp tục tăng trưởng hai chữ số, được hỗ trợ bởi nguồn nhân lực chất lượng và chính sách khuyến khích từ Chính phủ.
+
+Nhu cầu vẫn cao tại các thị trường nước ngoài chính như Nhật Bản, Mỹ và ASEAN, đặc biệt trong các lĩnh vực đang đẩy mạnh chuyển đổi số như tài chính, sản xuất và bán lẻ. Khi các doanh nghiệp chuyển dịch sang cloud, tự động hóa và AI, các doanh nghiệp công nghệ thông tin Việt Nam hiện đang có vị thế tốt về mặt chi phí để có thể cạnh tranh và mở rộng thị phần.
+
+FPT - doanh nghiệp đầu ngành - ghi nhận doanh thu tăng gần 20% trong 2024 (2,17 tỷ US$) và duy trì đà tăng trong quý 1/2025, với dịch vụ Công nghệ thông tin toàn cầu tăng 17% so với cùng kỳ, riêng thị trường Nhật tăng mạnh 30%.  CMG cũng tập trung vào Nhật Bản, đặt mục tiêu thị trường này đóng góp ~50% doanh thu nước ngoài vào 2028.
+
+Tuy nhiên, tính đến 4T2025, doanh thu ký mới dịch vụ Công nghệ thông tin toàn cầu (một chỉ báo sớm) của FPT chỉ đạt 15.000 tỷ đồng tăng 10,4% chậm hơn tốc độ tăng trưởng lịch sử 20%, phản ánh việc chi tiêu cho các dự án công nghệ có thể đã chậm đi do những lo ngại thương mại toàn cầu.
+
+Chính phủ đã có những chính sách tập trung phát triển công nghệ như  Nghị quyết 57-NQ/TW (12/2024) nhấn mạnh khoa học, đổi mới sáng tạo và chuyển đổi số là “động lực quyết định” tăng trưởng. Để thúc đẩy hướng đi này, Nhà nước đang mở rộng chính sách ưu đãi tín dụng, đất đai và thuế. Tháng 3/2025, gói tín dụng 500 nghìn tỷ (tương đương 20 tỷ USD) huy động qua 21 ngân hàng được triển khai; sẽ cấp vốn dài hạn lãi suất thấp cho dự án hạ tầng số như trung tâm dữ liệu và băng thông rộng.
+
+Đến nay, Việt Nam thu hút 174 dự án FDI bán dẫn, tổng vốn đăng ký gần 11.6 tỷ USD (gồm 50 doanh nghiệp thiết kế IC) và đã phê duyệt 10 khu Công nghệ thông tin quốc gia (Đà Nẵng, Hòa Lạc, Thủ Đức), hướng tới 16–20 khu vào năm 2030.
+
+Hạ tầng ứng dụng AI: Dưới tác động của khối lượng nhu cầu AI gia tăng và nhu cầu cloud mở rộng, Việt Nam đang bước vào giai đoạn xây dựng hạ tầng số quan trọng—đặc biệt là trung tâm dữ liệu và mạng 5G. Trung tâm dữ liệu đang tách thành hai mảng: tính toán (compute) và lưu trữ đám mây, mỗi mảng có nhu cầu công suất và quy mô riêng.
+
+Các “ông lớn” Viettel, CMG, FPT, VNPT, VNG mở rộng mạnh: Viettel 14 TTDL (~87 MW), FPT 4 TTDL (~30 MW), VNPT 8 TTDL (~38 MW). Kế hoạch 2025-2030 của Viettel bổ sung 11 TTDL hyperscale, nâng công suất lên 400 MW; CMG dự chi 500 triệu USD tại Việt Nam và Nhật trước 2028.
+
+Chi phí hạ tầng vẫn cạnh tranh: Cushman & Wakefield ước tính chi phí xây data center tại Việt Nam ở mức 5,4–8,4 triệu USD/MW, bình quân 6,9 triệu USD tăng 3,5% so với cùng kỳ, chỉ cao hơn Đài Loan (6,4 triệu USD) nhưng thấp hơn Trung Quốc đại lục (7,1), Thái Lan (7,6), Indonesia (8,7) và Malaysia (9,0).
+
+Tuy nhiên, thách thức vẫn còn. Data center cho AI ước tính có thể tiêu thụ điện gấp 2–5 lần mô hình truyền thống, gây áp lực lên mạng lưới điện. Nếu không nâng cấp kịp thời và bảo đảm nguồn điện ổn định, nguồn điện vận hành sẽ thành nút thắt lớn nhất cho hạ tầng số. KPMG dự báo công suất data center khu vực APAC tăng trưởng CAGR 13.1% giai đoạn 2025-2030 (cao hơn so với mức 9,2 % ở Bắc Mỹ, 5,3 % ở EU).
+
+Viettel dự kiến rót 1,2 tỷ USD vào triển khai 5G, hỗ trợ mục tiêu phủ sóng toàn quốc của Bộ Thông tin & Truyền thông vào năm 2030. Dù chưa tạo ra lợi nhuận trực tiếp, 5G là nền tảng quan trọng để triển khai ứng dụng AI độ trễ thấp trong logistics, y tế và sản xuất thông minh. Bộ cũng đang xem xét cấp phép băng tần 6GHz, mở ra dư địa tăng trưởng cho IoT và an ninh mạng—những lĩnh vực mà doanh nghiệp CNTT Việt Nam mới bắt đầu xây dựng năng lực.
+
+Về mặt định giá, tháng 1/2025, cổ phiếu Nvidia giảm 17% tương đương 593 tỷ USD vốn hóa, kéo theo đà bán tháo nhóm cổ phiếu bán dẫn, năng lượng và AI tại Mỹ với tổng giá trị giảm hơn 1.000 tỷ USD. Việc DeepSeek—một mô hình AI giá rẻ—ra mắt đã làm dấy lên lo ngại về bong bóng định giá. Căng thẳng thuế quan từ tháng 4/2025 càng khiến thị trường thêm bất ổn.
+
+Dù không chịu ảnh hưởng trực tiếp, ngành Công nghệ thông tin Việt Nam—với định hướng xuất khẩu và liên kết sâu với chuỗi cung ứng toàn cầu—vẫn bị tác động về tâm lý, khiến các cổ phiếu đầu ngành giảm 20–30% khi kỳ vọng tăng trưởng bị điều chỉnh. Tuy vậy, PEG của FPT và CMG vẫn dao động quanh 0.9x–1x, (Ấn Độ: 2-3x) phản ánh mức định giá hấp dẫn.
+
+Trên cơ sở đó, Mirae Asset khuyến nghị mua vào FPT với giá mục tiêu 134.800 đồng/cổ phiếu; CTR giá mục tiêu 106.700 đồng/cổ phiếu.

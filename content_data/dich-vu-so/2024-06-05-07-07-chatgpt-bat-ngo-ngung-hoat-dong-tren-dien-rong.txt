@@ -1,0 +1,21 @@
+OpenAI vừa đã xác nhận tình trạng ChatGPT bất ngờ ngừng hoạt động trên diện rộng. Công ty cho biết họ đang tích cực khắc phục để giảm thiểu các tác động và khôi phục quyền truy cập. Theo Techradar, sự cố ngừng hoạt động bất ngờ xảy ra vào ngày 3/6 (ngày 4/6 theo giờ Việt Nam) với báo cáo về việc người dùng không thể khởi chạy ChatGPT từ Chrome.
+
+Người dùng Mobile đặc biệt là trên các thiết bị Android cũng gặp khó khăn. Trong khi một số người dùng vẫn có thể truy cập dịch vụ, những người khác lại nhận được trạng thái “Lỗi máy chủ nội bộ” khi thực hiện truy vấn. Ngoài ra, những người đăng ký trả phí của ChatGPT cũng bị ảnh hưởng khi chứng kiến phản hồi chậm hoặc không phản hồi.
+
+OpenAI cho biết họ đang điều tra vấn đề này. Tuy nhiên, vẫn chưa có thêm thông tin chi tiết nào về thời gian khắc phục dự kiến. Trước đó ChatGPT đã gặp phải tình trạng bị sập vào ngày 23/5, kéo dài hơn 8 giờ. Bất chấp những lần ngừng hoạt động này, OpenAI vẫn duy trì tỷ lệ thời gian hoạt động ấn tượng 99,67% trong 90 ngày qua.
+
+Theo Down detector, khiếu nại của người dùng OpenAI đã tăng vọt lên 2.632 trong vòng vài giờ do sự cố ngừng hoạt động ChatGPT gần đây. Trong số các báo cáo này, 81% khiếu nại của người dùng cho thấy có vấn đề với chatbot AI phổ biến của OpenAI.
+
+Trong khi đó, trang web OpenAI chiếm 14% số khiếu nại với 5% người dùng gặp sự cố khi chạy ứng dụng di động. Hàng loạt người dùng bày tỏ sự thất vọng của họ lên mạng xã hội X, kèm theo #ChatGPTDown để bày tỏ tình huống của họ.
+
+Lần ngừng hoạt động gần đây với quy mô trên toàn cầu đã thu hút sự chú ý của người dùng ChatGPT trên toàn thế giới. Họ cũng báo cáo đã gặp phải lỗi khi cố gắng truy cập các tính năng của chatbot. Hơn nữa, ChapGPT đã cung cấp thông tin lỗi thời trong một số trường hợp.
+
+Tuy nhiên, nhiều người dùng cho rằng giao diện ChatGPT vẫn hoạt động tốt ở chế độ ẩn danh đối với một số người dùng. Họ cho rằng sự cố ngừng hoạt động hiện tại chủ yếu ảnh hưởng đến người dùng đã đăng nhập. Do đó, những người chưa đăng nhập hoặc đã thử truy cập dịch vụ qua chế độ ẩn danh của Chrome có thể nhận thấy sự cải thiện về thời gian phản hồi và hiệu quả.
+
+Đây có vẻ là đợt ngừng hoạt động lớn nhất và dài nhất trong năm của ChatGPT. Lần cuối cùng thực sự nghiêm trọng là hơn một năm trước vào tháng 5 năm 2023, khi dịch vụ ngừng hoạt động trong khoảng 8 giờ.
+
+Theo một nghiên cứu mới hấp dẫn của Viện Reuters và Đại học Oxford, ChatGPT có thể không được sử dụng một cách đại trà nhưng hàng triệu người vẫn dựa vào nó để viết mã, lên ý tưởng, viết báo cáo và hơn thế nữa.Dịch vụ này có khoảng 180 triệu người dùng đang hoạt động trên toàn thế giới và tăng vọt lên 100 triệu người dùng trong năm đầu tiên kể từ cuối năm 2022.
+
+Những người sử dụng ChatGPT thường xuyên đã coi công cụ này trở thành một phần quan trọng trong quy trình làm việc của họ. Đó là lý do tại sao thời gian ngừng hoạt động ngày càng kéo dài này kéo theo sự bất tiện đến nhiều người dùng.
+
+OpenAI cho biết họ vẫn đang tiếp tục khắc phục sự cố.

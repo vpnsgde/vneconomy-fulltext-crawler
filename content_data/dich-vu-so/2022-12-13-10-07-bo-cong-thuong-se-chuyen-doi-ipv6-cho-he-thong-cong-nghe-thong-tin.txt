@@ -1,0 +1,11 @@
+Bộ trưởng Bộ Công Thương vừa ký Quyết định 2685/QĐ-BCT ban hành Kế hoạch chuyển đổi IPv6 (Giao thức liên mạng thế hệ 6) cho hệ thống công nghệ thông tin của Bộ giai đoạn 2022 – 2025.
+
+Theo Bộ Công Thương, việc chuyển đổi IPv6 thành công trên hệ thống công nghệ thông tin của Bộ Công Thương nhằm đảm bảo đồng bộ, hiện đại, an toàn, an ninh mạng, thúc đẩy quá trình chuyển đổi số, phục vụ tốt cho hoạt động chỉ đạo, điều hành của cơ quan, người dân, doanh nghiệp về nhu cầu truy cập, sử dụng ứng dụng, dịch vụ công nghệ thông tin của Bộ Công Thương, phù hợp với xu thế chuyển đổi công nghệ IPv6 chung của Việt Nam và thế giới.
+
+Bộ Công Thương đề ra mục tiêu đến năm 2025, 100% cán bộ kỹ thuật công nghệ thông tin được đào tạo về công nghệ IPv6; 100% cổng/trang thông tin điện tử, cổng dịch vụ công trực tuyến, hệ thống thông tin và cơ sở dữ liệu, phần mềm ứng dụng do các đơn vị thuộc Bộ quản lý vận hành hoạt động tốt với IPv6, sẵn sàng khả năng hoạt động thuần IPv6.
+
+Ngoài ra, 100% mạng nội bội (LAN), mạng diện động (WAN) của Bộ Công Thương được chuyển đổi IPv6 thành công; 100% các kênh truyền kết nối với CPNet và các nhà cung cấp dịch vụ hoạt động tốt với IPv6, sẵn sàng kết nối hoạt động thuần IPv6.
+
+Đảm bảo Bộ Công Thương có tài nguyên Internet độc lập (IPv4/IPv6, ASN) để quy hoạch sử dụng cho mạng lưới, dịch vụ. Tỷ lệ sử dụng IPv6 trong các đơn vị thuộc Bộ đạt mức 80%, sẵn sàng sử dụng thuần IPv6 vào năm 2025.
+
+Đại diện của Bộ Công Thương cho biết, kế hoạch chuyển đổi IPv6 cho hệ thống công nghệ thông tin của Bộ Công Thương bám sát Chương trình IPv6 For Gov (Chương trình thúc đẩy, hỗ trợ chuyển đổi IPv6 cho cơ quan nhà nước giai đoạn 2021-2025), tập trung truyền thông và phát triển nguồn nhân lực, chính sách và tài nguyên, công nghệ để thúc đẩy, hỗ trợ hoàn thành mục tiêu chuyển đổi IPv6 và sẵn sàng triển khai công nghệ thuần IPv6. Tiến hành thử nghiệm, đánh giá chất lượng, sự ổn định của các hệ thống, thiết bị, ứng dụng trước khi thực hiện chuyển đổi chính thức.

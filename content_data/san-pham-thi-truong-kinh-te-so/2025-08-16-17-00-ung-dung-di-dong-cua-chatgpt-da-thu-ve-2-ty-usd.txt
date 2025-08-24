@@ -1,0 +1,25 @@
+Thành tích này vượt xa các đối thủ cùng lĩnh vực trên di động như Claude, Copilot hay Grok, với mức chi tiêu gấp khoảng 30 lần tổng cộng cả ba nền tảng cộng lại.
+
+Trong bảy tháng đầu năm nay, ứng dụng di động ChatGPT đã mang về 1,35 tỷ USD doanh thu, tăng tới 673% so với cùng kỳ năm ngoái, khi con số chỉ dừng lại ở mức 174 triệu USD.
+
+Trung bình mỗi tháng, ứng dụng này tạo ra gần 193 triệu USD, trong khi một năm trước đó chỉ khoảng 25 triệu USD.
+
+Khoảng cách với các đối thủ là vô cùng lớn. Grok - cái tên đứng gần nhất - mới đạt 25,6 triệu USD trong cùng giai đoạn, tức doanh thu hàng tháng trung bình khoảng 3,6 triệu USD, chỉ bằng 1,9% so với ChatGPT.
+
+Những con số này cho thấy, dù thị trường chatbot tiêu dùng ngày càng đông đảo, khoảng cách để bắt kịp sự thống trị của ChatGPT trên nền tảng di động vẫn còn rất xa.
+
+Dù vậy, cần lưu ý, dữ liệu nói trên chỉ phản ánh chi tiêu trực tiếp từ người dùng di động, chưa tính đến doanh thu qua web, gói dành cho nhóm, doanh nghiệp hay nguồn thu từ API.
+
+Thực tế, dữ liệu này phản ánh rõ sức hút mà các ứng dụng AI tạo ra với người tiêu dùng, sẵn sàng khám phá và chi tiền cho trợ lý ảo thông qua các cửa hàng ứng dụng di động.
+
+Cũng cần nhắc lại, Grok của xAI ra mắt muộn hơn ChatGPT (tháng 11/2023) và ban đầu không hề có ứng dụng iOS hay Android độc lập. Người dùng chỉ có thể trải nghiệm Grok thông qua nền tảng X. Mãi đến tháng 1/2025, ứng dụng Grok mới xuất hiện trên iOS và sau đó có mặt trên Google Play vào ngày 4/3.
+
+Tính trên mỗi lượt tải xuống, ChatGPT cũng vượt trội so với các đối thủ. Trung bình, mỗi lượt tải mang lại 2,91 USD, trong khi Claude đạt 2,55 USD, Grok chỉ 0,75 USD và Copilot khiêm tốn ở mức 0,28 USD, theo số liệu từ Appfigures.
+
+Tại Mỹ, giá trị này còn cao hơn nhiều 10 USD cho mỗi lượt tải, đóng góp tới 38% tổng doanh thu của ứng dụng. Đức đứng thứ hai, chiếm 5,3% tổng chi tiêu trọn đời.
+
+Về số lượt cài đặt, ChatGPT cũng áp đảo. Ứng dụng này đã được tải xuống khoảng 690 triệu lần trên toàn cầu, bỏ xa Grok với chỉ 39,5 triệu. Con số này cũng giúp lý giải rõ hơn những lời phàn nàn gần đây của Elon Musk - chủ sở hữu X - rằng App Store thiên vị ChatGPT trên bảng xếp hạng ứng dụng.
+
+Hiện trung bình mỗi tháng, ChatGPT có thêm khoảng 45 triệu lượt tải, tăng 180% so với mức 16 triệu trong giai đoạn từ tháng 1 đến tháng 7/2024. Riêng trong bảy tháng đầu năm 2025, ứng dụng đã đạt 318 triệu lượt cài đặt, gấp 2,8 lần so với 113 triệu lượt cùng kỳ năm trước.
+
+Nếu xét theo thị trường, Ấn Độ dẫn đầu về số lượt tải xuống, chiếm 13,7% tổng số cài đặt trọn đời của ChatGPT, theo sau là Mỹ với 10,3%.

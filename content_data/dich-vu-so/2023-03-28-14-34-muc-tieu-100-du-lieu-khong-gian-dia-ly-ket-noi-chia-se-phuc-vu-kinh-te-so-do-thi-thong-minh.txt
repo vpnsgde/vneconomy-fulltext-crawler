@@ -1,0 +1,17 @@
+Ngày 27/3/2023, Chính phủ ban hành Nghị quyết số 40/NQ-CP phê duyệt Chiến lược phát triển ngành Đo đạc và Bản đồ Việt Nam và xây dựng hạ tầng dữ liệu không gian địa lý quốc gia đến năm 2030, tầm nhìn đến năm 2045.
+
+Chiến lược xác định mục tiêu đến năm 2030 hoàn thiện thể chế, chính sách pháp luật về đo đạc và bản đồ; xây dựng, cập nhật cơ sở dữ liệu nền địa lý quốc gia và hệ thống bản đồ địa hình quốc gia đồng bộ, thống nhất trong cả nước trên đất liền, vùng biển và hải đảo Việt Nam, đảm bảo được cập nhật đầy đủ, chính xác, kịp thời đáp ứng yêu cầu quản lý nhà nước của các bộ, ngành, địa phương, phục vụ phát triển kinh tế xã hội, đảm bảo quốc phòng, an ninh, phòng chống thiên tai, ứng phó với biến đổi khí hậu.
+
+Cùng với đó xây dựng, hoàn thiện hạ tầng đo đạc: mạng lưới tọa độ quốc gia, mạng lưới trạm định vị vệ tinh quốc gia, mạng lưới độ cao quốc gia, mạng lưới trọng lực quốc gia, mô hình geoid (mô hình mặt trọng trường Trái Đất) để thiết lập hệ quy chiếu và hệ tọa độ không gian quốc gia thống nhất trên đất liền và trên biển.
+
+Xây dựng và quản lý hạ tầng dữ liệu không gian quốc gia đảm bảo tích hợp, chia sẻ dữ liệu không gian địa lý giữa các cơ quan, ban ngành, giữa trung ương với địa phương phục vụ xây dựng Chính phủ điện tử, hướng tới Chính phủ số, nền kinh tế số, xã hội số; tham gia, kết nối vào mạng lưới hạ tầng dữ liệu không gian địa lý khu vực. Đảm bảo 100% dữ liệu không gian địa lý kết nối, chia sẻ trên toàn quốc phục vụ cung cấp thông tin, dịch vụ công cho tổ chức, cá nhân.
+
+Đến năm 2045 phát triển ngành Đo đạc và Bản đồ Việt Nam trở thành ngành điều tra cơ bản hiện đại, ngang tầm với các nước phát triển, phấn đấu làm chủ 80% các công nghệ tiên tiến, hiện đại.
+
+Phát triển hạ tầng dữ liệu không gian địa lý quốc gia đảm bảo tạo dựng, duy trì, nâng cao giá trị thông tin, dữ liệu, sản phẩm đo đạc và bản đồ, đáp ứng yêu cầu về dữ liệu không gian địa lý của toàn xã hội, phục vụ các nhiệm vụ về quốc phòng, an ninh, Chính phủ số, nền kinh tế số, xã hội số; tham gia, kết nối vào mạng lưới hạ tầng dữ liệu không gian địa lý toàn cầu.
+
+Để đạt được các mục tiêu trên, Chiến lược đưa ra 10 nhiệm vụ, giải pháp quan trọng. Chiến lược nhấn mạnh sẽ triển khai rà soát, xây dựng, hoàn thiện hệ thống tiêu chuẩn, quy chuẩn kỹ thuật về đo đạc và bản đồ tiếp cận với các tiêu chuẩn quốc tế; xây dựng tiêu chuẩn, quy chuẩn kỹ thuật về dữ liệu không gian địa lý, siêu dữ liệu; các chuẩn phương pháp, chuẩn quy trình, chuẩn dịch vụ.
+
+Đồng thời, xây dựng, cập nhật cơ sở dữ liệu nền địa lý quốc gia và bản đồ địa hình quốc gia phủ trùm phần đất liền, đảo, quần đảo; xây dựng, cập nhật cơ sở dữ liệu nền địa lý quốc gia và bản đồ địa hình đáy biển trên vùng biển Việt Nam; xây dựng, cập nhật cơ sở dữ liệu địa danh phục vụ công tác thành lập bản đồ.
+
+Xây dựng Cổng thông tin không gian địa lý Việt Nam theo mô hình trung tâm dữ liệu không gian địa lý đảm bảo liên kết và quản lý thống nhất các cơ sở dữ liệu không gian địa lý thông qua địa chỉ truy cập trên mạng Internet; có khả năng kết nối, đồng bộ với Cổng dữ liệu quốc gia; phát triển các dịch vụ dữ liệu thông qua Cổng thông tin không gian địa lý Việt Nam. Kiến tạo thể chế, đổi mới cơ chế triển khai các nhiệm vụ đo đạc và bản đồ, tạo môi trường thuận lợi cho doanh nghiệp đổi mới, sáng tạo, cung cấp sản phẩm, giải pháp về đo đạc và bản đồ hướng đến nền kinh tế số, xã hội số...

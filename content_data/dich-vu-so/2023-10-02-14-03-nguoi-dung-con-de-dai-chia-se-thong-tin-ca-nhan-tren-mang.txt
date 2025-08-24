@@ -1,0 +1,59 @@
+Thực trạng này được các chuyên gia nêu ra tại toạ đàm trực tuyến với chủ đề: “Phòng ngừa rủi ro khi sử dụng dịch vụ ngân hàng trên nền tảng số” diễn ra ngày 2/10/2023 trên nền tảng điện tử VnEconomy và Fanpage VnEconomy...
+
+Chia sẻ về tình trạng lộ lọt thông tin cá nhân hiện nay ở Việt Nam,  ông Nguyễn Hải Nam, Giám đốc Công ty trách nhiệm hữu hạn Credit 360.AI, cho rằng vấn nạn lộ lọt thông tin cá nhân thật sự là vấn đề nhức nhối. Đây chính là tiền đề để tội phạm mạng có thể lợi dụng, xây dựng các kịch bản và phương án lừa đảo.
+
+Theo chuyên gia, cùng với sự bùng nổ của Internet cũng như smartphone và mạng xã hội, nhiều người dùng Việt Nam còn dễ dãi khi chia sẻ thông tin dữ liệu cá nhân. Ông Nam lấy ví dụ đơn cử như tình trạng Deepfake hiện nay hay những thủ đoạn lừa đảo bằng công nghệ hiện đại khác như AI, Chat… giả  giọng đối tượng muốn nói như thật.
+
+Để làm được điều này, quan trọng nhất cần phải có dữ liệu để công cụ AI học. Vậy các thông tin dữ liệu này được lấy từ đâu?
+
+Đặt vấn đề, ông Nam cho biết thời gian gần đây trên mạng nở rộ ứng dụng chụp hình ảnh quay các góc độ để tạo hình ảnh 3D nhân vật hoạt hình được nhiều người dùng chia sẻ tràn lan, vô tội vạ. Qua quan sát, cho thấy, cách khai thác hình ảnh này đủ để tạo ra một hình ảnh Deepfake của người dùng đó một cách hoàn hảo.
+
+
+
+"Vấn nạn lộ lọt thông tin cá nhân là vấn đề nhức nhối. Đây là tiền đề để tội phạm có thể lợi dụng, xây dựng các kịch bản và phương án lừa đảo.
+
+Điểm mấu chốt khi người dùng chưa ý thức đầy đủ về vấn đề này cũng như việc bảo vệ dữ liệu hình ảnh cá nhân trên môi trường mạng đã vô tình tiếp tay cho các đối tượng lừa đảo có cơ hội lợi dụng để thực hiện những mục đích xấu, lừa đảo".
+
+"Vấn nạn lộ lọt thông tin cá nhân là vấn đề nhức nhối. Đây là tiền đề để tội phạm có thể lợi dụng, xây dựng các kịch bản và phương án lừa đảo.
+Điểm mấu chốt khi người dùng chưa ý thức đầy đủ về vấn đề này cũng như việc bảo vệ dữ liệu hình ảnh cá nhân trên môi trường mạng đã vô tình tiếp tay cho các đối tượng lừa đảo có cơ hội lợi dụng để thực hiện những mục đích xấu, lừa đảo".
+
+Từ thực tế phân tích so sánh dữ liệu ở các quốc gia khác cho thấy người dùng Việt Nam đăng tải thông tin trên mạng xã hội rất nhiều, một cách vô tội vạ. Nếu điều này tiếp tục diễn ra thì hệ quả để lại sẽ rất phức tạp, khôn lường bởi theo cảnh báo của ông Nam, không gian mạng mở nên tội phạm mạng có ở khắp mọi nơi. Những thông tin mang tính chất cá nhân của người dùng cũng sẽ dần bị khai thác ở nhiều góc độ.
+
+Chia sẻ điều này, ông Vũ Ngọc Sơn, Giám đốc Công nghệ - Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS) nêu quan điểm, việc lộ lọt dữ liệu cá nhân một phần do người dùng đã chủ động chia sẻ các thông tin này lên mạng. Tuy nhiên ở góc độ an ninh dữ liệu, ông Sơn đánh giá, việc lộ lọt dữ liệu người dùng đến từ việc thu thập hệ thống dữ liệu tập trung là chủ yếu.
+
+Việt Nam đang triển khai các chương trình kế hoạch chuyển đổi số một cách toàn diện, được nhiều người dân, doanh nghiệp quan tâm. Với việc chuyển đổi số, các dữ liệu sẽ được tập trung lưu trữ về máy chủ, kho dữ liệu để có thể khai thác, chia sẻ. Tuy nhiên, đây cũng là một cơ hội cho những đối tượng lừa đảo, hacker có thể khai thác.
+
+Trước đây, một hacker muốn có được nhiều dữ liệu sẽ phải xây dựng các hệ thống và thu thập ở rất nhiều nơi khác nhau. Nhưng khi chuyển đổi số diễn ra với dữ liệu là trung tâm, được tập trung sẽ là cái kho để hacker có thể vào lấy.
+
+Theo ông Sơn, tình trạng này không chỉ ở Việt Nam mà trên thế giới cũng đã xảy ra rất nhiều vụ lộ lọt dữ liệu. Gần đây nhất là trường hợp của Microsoft- hãng phần mềm nổi tiếng nhất thế giới hiện nay đã bị lộ lọt lượng dữ liệu khổng lồ lên đến 38 terabyte (TB) dữ liệu riêng tư, thậm chí tình trạng lộ lọt diễn ra 3 năm rồi mới phát hiện ra.
+
+Có thể thấy những kho dữ liệu tập trung dữ liệu của người dùng cũng là cái đích ngắm đến của các hacker. Sau khi hacker thu thập được dữ liệu từ các kho này sẽ có rất nhiều hình thức để phân phối lại. Ví dụ ở Việt Nam, nếu muốn mua thông tin của một người dùng nào đó, có thể vào kênh chat Telegram, trả mức chi phí khoảng 0,5 USD, sẽ có ngay kết đầy đủ tên, tuổi, địa chỉ, thậm chí cả số căn cước công dân và điểm giao dịch gần nhất ở đâu...
+
+Có thể thấy, người dùng đang phải đối mặt với rất nhiều nguy cơ rủi ro khi các thông tin cá nhân, những dữ liệu bị lộ lọt. Các đối tượng có thể khai thác các thông tin dữ liệu này để quảng cáo, mời chào mua bán sản phẩm dịch vụ và người dùng sẽ gặp rất nhiều các cuộc gọi spam hàng ngày. Đây là hình thức diễn ra phổ biến nhất hiện nay với nhiều người dùng.
+
+Ngoài ra, một dạng khác nguy hiểm hơn là tình trạng các đối tượng có thể dựng các kịch bản lừa đảo để khống chế và lấy tiền của người dùng.
+
+
+
+"Với người dùng luôn luôn phải giữ nguyên tắc là tối thiểu. Điều này có nghĩa khi cung cấp thông tin cho một dịch vụ hoặc giao dịch nào đó, người dùng chỉ cung cấp các thông tin tối thiểu và phải biết rõ những thông tin, dữ liệu đó sẽ được phục vụ vào mục đích gì.
+
+Khuyến cáo người dùng khi thực hiện các giao dịch trên mạng không nên cung cấp các thông tin quá nhạy cảm, đặc biệt là những thông tin cá nhân kiểu định danh để tránh trường hợp các đối tượng xấu có thể thu thập và bán lại cho những cái đối tượng khác để khai thác, xử lý".
+
+"Với người dùng luôn luôn phải giữ nguyên tắc là tối thiểu. Điều này có nghĩa khi cung cấp thông tin cho một dịch vụ hoặc giao dịch nào đó, người dùng chỉ cung cấp các thông tin tối thiểu và phải biết rõ những thông tin, dữ liệu đó sẽ được phục vụ vào mục đích gì.
+Khuyến cáo người dùng khi thực hiện các giao dịch trên mạng không nên cung cấp các thông tin quá nhạy cảm, đặc biệt là những thông tin cá nhân kiểu định danh để tránh trường hợp các đối tượng xấu có thể thu thập và bán lại cho những cái đối tượng khác để khai thác, xử lý".
+
+Từ thực trạng này, theo ông Sơn, một mặt người dùng cần phải có trách nhiệm bảo vệ thông tin dữ liệu cá nhân của mình nhưng mặt khác, các cơ sở, nhà cung cấp dịch vụ cũng cần phải nâng cao ý thức để bảo vệ dữ liệu cho người dùng. Đặc biệt với việc đẩy mạnh thực thi Nghị định 13, các cơ quan chức năng sẽ thường xuyên rà soát, kiểm tra và xử lý những tình huống vi phạm liên quan đến việc bảo vệ dữ liệu cá nhân cho người dùng.
+
+Ông Vũ Ngọc Sơn cho rằng với người dùng luôn luôn phải giữ nguyên tắc là tối thiểu. Điều này có nghĩa khi cung cấp thông tin cho một dịch vụ hoặc giao dịch nào đó, người dùng chỉ cung cấp các thông tin tối thiểu và phải biết rõ những thông tin, dữ liệu đó sẽ được phục vụ vào mục đích gì.
+
+Trong mua bán giao dịch online, hiện nay có rất nhiều người bán hàng dùng hình thức là livestream. Người dùng vào xem để lại tên tuổi và địa chỉ để người bán hàng liên hệ lại. Điều này sẽ rất khó khăn trong bảo mật thông tin bởi trên môi trường mạng xã hội sẽ có rất nhiều người thấy các thông tin này.
+
+Do đó, ông Sơn khuyến cáo người dùng khi thực hiện các giao dịch trên mạng không nên cung cấp các thông tin quá nhạy cảm, đặc biệt là những thông tin cá nhân kiểu định danh để tránh trường hợp các đối tượng xấu có thể thu thập và bán lại cho những cái đối tượng khác để khai thác, xử lý.
+
+Ngoài ra, người dùng cũng tuyệt đối không nên cài các phần mềm không rõ nguồn gốc, đặc biệt các phần mềm được gửi qua đường link, email, qua chat… Nếu muốn cài phần mềm nào, người dùng nên vào các trang web chính thức của nhà cung cấp dịch vụ hoặc lên các chợ ứng dụng dành cho điện thoại để tải phần mềm chính chủ, tránh tình trạng cài những ứng dụng có khả năng theo dõi và lấy cắp thông tin trên điện thoại.
+
+Đưa ra lời khuyên với người dùng trên không gian mạng trong bối cảnh công nghệ hiện nay, ông Nguyễn Hải Nam nhấn mạnh, cách mà tốt nhất để phòng, chống đó là phải thích ứng với sự phát triển. Người dùng cần tự bảo vệ mình bằng cách nâng cao kiến thức về vấn đề này. Việc nâng cao ý thức trong chia sẻ dữ liệu cá nhân cần phải cập nhật liên tục và rộng rãi với mọi người dùng để ngăn chặn tình trạng này.
+
+Trong thời đại công nghệ phát triển như hiện nay, tất cả những yếu tố liên quan đến hình ảnh cá nhân, người dùng cần phải hết sức hạn chế và cẩn trọng khi chia sẻ trên không gian mạng.
+
+“Quan điểm của tôi là kẻ lừa đảo càng càng mưu mô thì người dùng càng cần phải tinh thông”. Trong mọi tình huống, người dùng luôn luôn phải áp dụng nguyên tắc 360 trước khi ra quyết định. Ví dụ như trong thanh toán QR Pay, người dùng luôn luôn phải kiểm tra kỹ dòng tiền đã về tài khoản. Hoặc trong trường hợp lừa đảo Deepfake, người dùng có thể kiểm tra chéo, kiểm chứng thông tin…

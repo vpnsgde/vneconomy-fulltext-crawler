@@ -1,0 +1,43 @@
+Chỉ hơn một tuần, hai doanh nghiệp khá nổi tiếng của Việt Nam và VNDriect và PVOil đã bị hacker tấn công hệ thống thông tin và để lại hệ quả khá nghiêm trọng. Ông Trương Đức Lượng, Chủ tịch Công ty cổ phần An ninh mạng Việt Nam (VSEC), trả lời VnEconomy cho rằng đó chỉ là phần nổi của tảng băng, phần không thống kê được còn nhiều không kém, và an ninh mạng là con đường dài chứ không chỉ dừng lại ở từng sự vụ.
+
+Ông đánh giá như thế nào về các cuộc tấn công mạng vào các doanh nghiệp lớn của Việt Nam trong thời gian gần đây, đặc biệt với những công ty có tính bảo mật cao như chứng khoán, hay những công ty năng lượng vốn ít tương tác với mạng lưới Internet và chưa phải lại “địa chỉ ưa thích” của tội phạm mạng lâu nay?
+
+Tấn công mạng không như tấn công thông thường. Ở bình diện chung, nó diễn ra liên tục và âm thầm. Tức là ngay khi mọi người đang đọc bài này, nhiều khả năng đang có tấn công mạng đâu đấy tại Việt Nam. Thống kê năm 2023, thế giới có khoảng 2.200 cuộc tấn công mỗi ngày, Việt Nam có khoảng 13.900 sự cố an ninh mạng trong năm.
+
+Những phần không thống kê được, theo tôi, còn nhiều không kém. Những vụ tấn công mạng gần đây được chú ý vì tác động trực tiếp đến người dân, chỉ là phần nổi của tảng băng. Điểm tích cực của những sự cố như thế này là khiến cộng đồng quan tâm, tăng cường nhận thức và nhìn thấy trực quan hơn tác hại của tấn công mạng.
+
+Tuy vậy, an ninh mạng là con đường dài chứ không chỉ dừng lại ở việc chúng ta xử lý các sự vụ tấn công như thế nào, những bài học sau đó được rút ra và cách thức áp dụng vào thực tế quan trọng hơn nhiều. An ninh mạng nếu không nhận thức đúng, sẽ là thứ được nhắc đến nhiều và cũng bị cắt bỏ đi đầu tiên trong bài toán tối ưu chi phí.
+
+Những doanh nghiệp mới đây bị tấn công, có cả doanh nghiệp mà tôi có quen biết hỗ trợ từ lâu. Nhận định của tôi là, tiền không phải là vấn đề. Doanh nghiệp đầu tư không ít cho công nghệ nói chung cũng như cho giải pháp đảm bảo an toàn thông tin. Vậy vấn đề nằm ở đâu?
+
+Theo ông thì nằm ở đâu?
+
+Tôi cho rằng, nguyên nhân chính là ý thức của lãnh đạo doanh nghệp. Các lãnh đạo ý thức được về đảm bảo an toàn thông tin nhưng việc áp dụng vào thực tế thế nào cho phù hợp thì còn chưa được chú ý nhiều. An toàn thông tin vẫn được coi là chi phí của tổ chức nên luôn có xu hướng bị xem xét tối ưu - cắt giảm, an toàn thông tin nên được xem là một cơ quan bắt buộc trong bộ máy chứ không phải một thành phần trang trí, một phụ kiện.
+
+Nghĩa là theo ông các doanh nghiệp, mà trực tiếp là người lãnh đạo vẫn chưa xem trọng về đầu tư cho an toàn an ninh mạng của doanh nghiệp mình?
+
+Sau nhiều năm tăng trưởng kinh tế, các doanh nghiệp tích luỹ được nguồn lực kinh tế khá tốt. Chính phủ cũng nỗ lực rất nhiều để tạo ra các hành lang pháp lý, các hướng dẫn để tổ chức và người dân biết cách bảo vệ trên không gian mạng. Việc còn lại là áp dụng sao cho phù hợp và hiệu quả đối với tổ chức.
+
+Hiện nay, nhiệm vụ đang phổ biến ở Việt Nam đó là chuyển đổi số. Nhiệm vụ này dẫn tới việc tổ chức đưa vào thực tế rất nhiều ứng dụng phần mềm, ứng dụng công nghệ thông tin khác nhau.
+
+Chính phủ có quy định, hướng dẫn rất thiết thực về việc đánh giá bảo mật các ứng dụng này trước khi đưa vào sử dụng. Nhưng công tác này chưa được chú ý đúng mức thể hiện qua nỗ lực dành cho việc này không nhiều, chỉ chiếm chưa đến 5% tổng khối lượng ứng dụng đó. Chính vì vậy công tác này thường được làm chiếu lệ và không thực chất.
+
+Trong khi đó, thực hiện việc này tốt sẽ phòng tránh rất nhiều rủi ro tiềm tàng về an toàn thông tin khi sử dụng. Minh chứng trực quan chính là các sự cố tấn công mạng vừa qua. Khi đo điếm thiệt hại, thì tất cả các khoản chi phí hoặc đầu tư trước đó đều quá nhỏ.
+
+Vậy các tổ chức, doanh nghiệp cần thay đổi cách làm về an toàn thông tin như thế nào cho phù hợp trước bối cảnh các cuộc tấn công mã hóa dữ liệu tống tiền của các nhóm tội phạm mạng với các phương thức thủ đoạn hết sức tinh vi và nguy hiểm?
+
+Trên thực tế, chính trong điều kiện đại dịch và kinh tế khó khăn đã tạo ra rất nhiều cách làm mới, nhiều tổ chức đổi mới. Các tổ chức đổi mới vẫn tăng trưởng tốt trong khó khăn. Và các đổi mới này thường đi kèm theo ứng dụng công nghệ. Điều này rất dễ nhận thấy.
+
+An toàn thông tin là chi phí cần thiết để một bộ máy hoạt động. Một hệ thống công nghệ đang vận hành tạo ra doanh thu hoặc hỗ trợ cho doanh nghiệp cần đi kèm theo là thành phần giải pháp an toàn thông tin. Trong cấu trúc chi phí của doanh nghiệp như vậy cần có cấu trúc chi phí về an toàn thông tin. Chi phí này khi phân bổ trên mỗi đồng doanh thu hoặc khách hàng thì thực sự không đáng kể.
+
+Xu hướng chung của thế giới hiện nay (theo Accenture), hơn 53% tổ chức thực hiện các kế hoạch về chuyển đổi số hay chuyển hoá kinh doanh đều được tích hợp theo đó các kiểm soát các sáng kiến về an toàn thông tin. Đây là xu hướng không thể tránh khỏi cho các tổ chức hướng tới đổi mới.
+
+Còn giải pháp căn cơ và lâu dài trong vấn đề bảo đảm an toàn thông tin, bảo đảm an ninh mạng của mỗi doanh nghiệp, tổ chức thì sao, theo ông?
+
+Thời điểm hiện tại, áp dụng an toàn thông tin cũng đã có nhiều đổi mới và tiếp cận phù hợp cho nhiều loại hình doanh nghiệp khác nhau. Điểm đầu tiên là trong tổ chức cần có một người có chuyên môn và được giao KPI về an toàn thông tin. Các tổ chức trưởng thành có vị trí Giám đốc bảo mật (CSO/CISO), nhiệm vụ này cũng có thể tích hợp vào vị trí giám đốc công nghệ (CTO) hoặc tương đương của tổ chức.
+
+Sau đó tổ chức có thể xây dựng đội ngũ nhân sự đảm bảo an toàn thông tin nội bộ, thuê ngoài hoặc lai. Với trường hợp xây dựng trong nội bộ thì chi phí nhân sự sẽ lớn nhưng việc phối hợp, phản hồi nhanh. Các nhân sự nội bộ nên được rèn luyện nhiều các kĩ năng phòng thủ đi kèm theo là việc ban hảnh và tuân thủ quy định. Tham chiếu đến các hướng dẫn có sẵn của Chính phủ cũng là điểm tham khảo tốt.
+
+Thuê ngoài cũng là xu hướng hiện nay và được Chính phủ khuyến khích khi mà lĩnh vực này ngày càng thiếu hụt nhân sự do nhu cầu lớn từ thị trường. Thuê ngoài có thể tiết kiệm hơn về tổng chi phí nhưng đi kèm là rủi ro đến từ đối tác hoặc việc phối hợp sẽ trở nên chậm hơn, việc này có thể khắc phục bằng quy định và kiểm soát cũng như nhiều tiêu chí đánh giá đối tác.
+
+Tình huống phổ biến là phối hợp cả hai. Các công nghệ lõi, nhân sự quan trọng thiết kế công nghệ, giám sát,... sẽ thuộc về nội bộ, còn lại thuê ngoài. Nhiệm vụ thuê ngoài thường là các nhiệm vụ phức tạp, chi phí lớn như rà soát tấn công thử nghiệm, theo dõi giám sát đơn giản,... Doanh nghiệp, tổ chức nên áp dụng phương pháp mới về đảm bảo an toàn thông tin như DevSecOps hoặc các công nghệ đám mây để tối ưu chi phí.

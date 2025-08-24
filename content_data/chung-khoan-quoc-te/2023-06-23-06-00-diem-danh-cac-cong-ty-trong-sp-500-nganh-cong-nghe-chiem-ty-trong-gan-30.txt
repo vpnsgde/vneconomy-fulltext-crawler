@@ -1,0 +1,5 @@
+Biểu đồ dưới đây thể hiện 500 công ty trong chỉ số S&P 500, được chia theo nhóm ngành và tỷ trọng vốn hóa.
+
+Trong thập kỷ qua, ngành công nghệ thống trị chỉ số này với các mã công nghệ chiếm tỷ trọng vốn hóa hơn 26%, dẫn dầu là Apple, Microsoft, Nvidia... Amazon là công ty có vốn hóa lớn thứ ba trong chỉ số này và được phân vào nhóm hàng tiêu dùng không thiết yếu.
+
+Trong lĩnh vực tài chính, Berkshire Hathaway là công ty có tỷ trọng vốn hóa lớn nhất (1,7%). Dẫn đầu lĩnh vực y tế là UnitedHealth Group (1,3%).

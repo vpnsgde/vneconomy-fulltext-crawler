@@ -1,0 +1,47 @@
+TS. Padmanabhan Anandan, nhà khoa học nổi tiếng toàn cầu về Thị giác máy tính và Trí tuệ nhân tạo (AI); nhà sáng lập của AI Matters Advisors LLC và Chủ tịch Hội đồng điều hành của Telangana AI Mission (T-AIM) Graphic đã chia sẻ điều này với VnEconomy bên lề tọa đàm “AI: Tiềm năng đột phá và thách thức” do Quỹ VinFuture tổ chức ngày 19/12/2023. Ông Anandan trước đó là Giám đốc Điều hành của Microsoft Research ở Ấn Độ và Giáo sư Khoa học Máy tính tại Đại học Yale.
+
+Thời gian qua AI đã có sự phát triển mạnh mẽ và ứng dụng trong nhiều ngành, lĩnh vực. AI đã giúp thay đổi thế giới như thế nào, thưa ông?
+
+Theo tôi là mọi khía cạnh của cuộc sống ngày nay đều được AI chạm đến, từ mua sắm, thuê một chiếc ô tô, giao dịch ngân hàng... đều có thể sử dụng AI. Ngày càng có nhiều phương pháp điều trị và chẩn đoán y tế được thực hiện bằng AI. Các doanh nghiệp vận hành trên nền tảng AI.
+
+Vì vậy, AI đã trở thành một phần của mọi khía cạnh của cuộc sống. Nó đang thay đổi cách chúng ta làm mọi việc, tạo nên khác biệt và có thể tốt hơn và hiệu quả hơn. Bây giờ, AI cũng có những hậu quả tiêu cực, nhưng nhìn chung nó đang thay đổi những gì chúng ta làm, cách chúng ta sống.
+
+AI có thể giúp con người giải quyết được nhiều vấn đề. Ví dụ, AI có thể giúp người nghèo, người yếu thế không có được những tiếp cận đầy đủ như dịch vụ về y tế. Tiếp đó, công nghệ này có thể hỗ trợ những người nông dân trong bối cảnh biến đổi khí hậu. Đó chính là những điểm rất tích cực về công nghệ AI.
+
+AI là một công cụ, giống như mọi thứ khác. Việc sử dụng công nghệ này có cho tác động tích cực hay tiêu cực là tùy thuộc vào chúng ta. Thành thật mà nói, nó có thể sẽ là sự kết hợp của cả hai. Nó sẽ có tác động tích cực khi giúp con người làm mọi việc tốt hơn, nhanh hơn, hiệu quả hơn.
+
+Tuy nhiên, nó cũng được dùng với mục đích tiêu cực. Chúng ta đã biết nó dùng để chia rẽ mọi người, tuyên truyền những thông tin sai sự thật, tin giả. Và nó có thể được sử dụng để thiên vị mọi người theo nhiều cách khác nhau. Vì vậy, nó có thể được sử dụng cho cả hai.
+
+Như vậy, AI phát triển sẽ tạo ra những thách thức và tiềm ẩn những nguy cơ. Đã từng có những cảnh báo AI sẽ là mối đe dọa lớn cho xã hội con người. Theo ông, chúng ta có thể kiểm soát điều này không?
+
+Tôi có thể chỉ ra các cách khác nhau về những tác động tiêu cực. Điều đầu tiên tôi đã đề cập, đó là nó cho phép mọi người lan truyền thông tin sai lệch, có thể tạo ra tin tức giả, những hình ảnh, video giả mạo nhưng giống như thật. Và nó sẽ bị những người xấu sử dụng để làm những việc không tốt.
+
+Tôi nghĩ là chúng ta chưa điều chỉnh cách AI sẽ thay đổi lực lượng lao động và cuộc sống. Vì vậy, một câu hỏi lớn là chúng ta sẽ thích ứng như thế nào với thực tế là AI có thể tự động hóa rất nhiều công việc. Và đây là một thách thức. Nhiều việc làm mới sẽ được tạo ra, nhưng chúng ta phải ứng phó với nó.
+
+Bản thân AI không phải là mối đe dọa đối với con người. Bởi vì nó giống như bất kỳ công nghệ nào khác, chỉ là một công cụ, có một lượng kiến thức đáng kinh ngạc, học hỏi từ những gì con người và có thể áp dụng, làm cho nó tốt hơn.
+
+Ví dụ như trong nghiên cứu khoa học, AI thực sự đang có những tiến bộ vượt bậc. Nhưng nó có thể bị người ta lợi dụng để làm điều xấu.
+
+Làm thế nào để chúng ta giảm thiểu những tiêu cực này? Các nhà khoa học có thể giúp phát hiện khi nào AI đang bị sử dụng sai mục đích, tạo ra thông tin sai lệch... Đồng thời có thể xây dựng các biện pháp kiểm soát để đảm bảo rằng các câu trả lời mà AI đưa ra là có trách nhiệm hoặc phù hợp với các giá trị đạo đức. Tuy nhiên, xã hội sẽ phải ngăn chặn việc AI bị sử dụng cho các mục đích xấu. Điều quan trọng là con người phải có sự kiểm soát đối với việc sử dụng AI.
+
+Ông đánh giá thế nào về cuộc đua AI trên toàn cầu cũng như là những xu hướng phát triển của AI trong thời gian tới? Theo ông, đâu là cơ hội cho Việt Nam có thể tham gia lĩnh vực này?
+
+Chúng ta đều biết rằng AI hiện nay đang rất phổ biến và tất cả mọi người, tất cả các bên, tất cả các doanh nghiệp, các tập đoàn lớn đều muốn tham gia vào cuộc đua này và làm cho công nghệ AI trở nên ngày càng hoàn hảo hơn.
+
+Để chiến thắng trong cuộc đua này trên toàn cầu, trước đây chúng ta đã biết đến một công nghệ nằm trong công nghệ AI, đó chính là công nghệ về deep-learning. Deep-learning được sử dụng trong rất nhiều lĩnh vực, trong đó có cả các lĩnh vực về giám sát và theo dõi.
+
+Tuy nhiên, không ai biết chắc được là xu hướng sẽ phát triển cụ thể như thế nào. Nhưng rõ ràng trong 5 năm tới sẽ là thời điểm mà chúng ta chứng minh những công nghệ nào sẽ tồn tại và những công nghệ nào sẽ biến mất.
+
+Xin được lấy một ví dụ về ChatGPT là một công nghệ AI hỗ trợ rất mạnh về mặt ngôn ngữ. Thế nhưng, công nghệ ChatGPT vẫn chỉ bằng tiếng Anh và chưa có ở nhiều ngôn ngữ khác. Trong cuộc đua này, việc tích hợp tiếng Việt vào trong ChatGPT sẽ không tự động xảy bởi các doanh nghiệp lớn cũng không muốn đầu tư. Khi đó, đòi hỏi nỗ lực của Chính phủ. Và đó chính là điểm mà tôi muốn nói rằng, Việt Nam sẽ phải cần hành động để có được thành tựu, vị thế của riêng mình trong cuộc đua về AI này.
+
+Với tốc độ phát triển của AI hiện nay, theo ông với các nước phát triển như Việt Nam, hướng tiếp cận, phát triển, ứng dụng như thế nào là phù hợp?
+
+Tôi cho rằng có 3 bước chính sẽ cần phải thực hiện. Thứ nhất, phải có một hạ tầng số bền vững. Hạ tầng số này để thu thập, để lưu trữ và chia sẻ dữ liệu. Bởi vì chúng ta đều biết dữ liệu đóng một vai trò rất quan trọng trong công nghệ về AI. Liên quan đến hạ tầng số thì sẽ cần nỗ lực của cả khu vực tư nhân và khu vực công. Tuy nhiên về hạ tầng của một quốc gia thì khu vực công vẫn sẽ là khu vực sẽ dẫn dắt câu chuyện chuyển đổi này.
+
+Thứ hai, cần phải có một hệ sinh thái toàn diện và sôi động. Trong đó các doanh nghiệp, các công ty khởi nghiệp có được một môi trường thuận lợi để có thể phát triển ý tưởng đột phá về công nghệ, những đổi mới sáng tạo có thể dẫn đầu. Điều này có thể nhìn vào những nỗ lực của doanh nghiệp công nghệ Việt Nam.
+
+Bên cạnh đó cũng cần phải có sự tham gia rất chặt chẽ của Chính phủ và tất cả các bên liên quan cũng như là sự chung tay của cộng đồng. Chúng ta đều biết rằng mọi ý tưởng nếu như chúng không được ươm mầm, không được hỗ trợ để phát triển thì chúng sẽ mãi nằm đó và sẽ không trở thành một giải pháp để đóng góp cho cộng đồng.
+
+Bước thứ ba, đơn cử như trong lĩnh vực về chăm sóc sức khỏe, y tế công cộng, khi có một hạ tầng về dữ liệu sẽ phải có tập huấn và đào tạo cho đội ngũ y, bác sĩ, đội ngũ y tá, điều dưỡng. Họ có thể sử dụng những hạ tầng về công nghệ đó, làm sao để có thể mang lại chất lượng tốt hơn trong dịch vụ chăm sóc sức khỏe cho người dân.
+
+Tôi nghĩ đó là 3 bước quan trọng mà một đất nước như Việt Nam cần thực hiện.

@@ -1,0 +1,17 @@
+Cơ quan thuế cho biết, hệ thống cơ sở dữ liệu tự động ngành Thuế đã tạo lệnh hoàn thuế và gửi điện tử cho Kho bạc Nhà nước để chi hoàn thuế cho người nộp thuế.
+
+Để thực hiện hoàn thuế thu nhập cá nhân tự động, cơ quan thuế khuyến cáo các cá nhân và người nộp thuế cần tải và cài đặt ứng dụng eTaxMobile trên điện thoại và các thiết bị di động thông minh, qua đó giúp cá nhân có thể thực hiện thao tác trên ứng dụng và được hoàn thuế được nhanh chóng, tiết kiệm thời gian và không phải đến cơ quan thuế.
+
+Qua rà soát số liệu tại cơ quan thuế, đến nay có 94.165 đơn vị đã khấu trừ tiền thuế thu nhập cá nhân nhưng chưa thực hiện nộp tiền thuế thu nhập cá nhân đã khấu trừ vào ngân sách nhà nước.
+
+Theo đó, cơ quan thuế khuyến cáo các đơn vị chi trả thu nhập khẩn trương nộp tiền thuế thu nhập cá nhân đã khấu trừ của các cá nhân vào ngân sách nhà nước để tránh bị phạt, bị tính tiền chậm nộp theo quy định của pháp luật và không để ảnh hưởng đến quyền lợi được hoàn thuế tự động của cá nhân thực hiện quyết toán hoàn thuế.
+
+Bắt đầu từ ngày 3/4/2025, cơ quan thuế đã triển khai thực hiện việc hoàn thuế thu nhập cá nhân tự động từ kỳ quyết toán thuế thu nhập cá nhân năm 2024.
+
+Việc triển khai hoàn thuế thu nhập cá nhân tự động nhằm tạo điều kiện thuận lợi nhất và tạo ra những tiện ích thuận lợi nhất cho người nộp thuế trong quá trình hoàn thuế, góp phần quan trọng trong việc giải phóng nguồn lực cho cơ quan thuế trong việc xét duyệt hồ sơ hoàn thuế của người nộp thuế.
+
+Cơ quan thuế khẳng định, hiện nay hệ thống cơ sở dữ liệu lớn (BigData) về hoàn thuế tự động đã tổng hợp cơ bản thông tin của người nộp thuế từ cơ sở dữ liệu của cơ quan chi trả thu nhập, dữ liệu khai thuế của các cá nhân và dữ liệu từ cơ sở dữ liệu quốc gia về dân cư.
+
+Để thực hiện hoàn thuế thu nhập cá nhân tự động, người nộp thuế vào ứng dụng eTaxMobile để xác nhận thông tin trên Tờ khai quyết toán thuế thu nhập cá nhân gợi ý, điền sẵn thông tin hoàn thuế cho người nộp thuế. Sau khi người nộp thuế xác nhận thông tin ứng dụng sẽ tự động rà soát thông tin hoàn thuế.
+
+Nếu thông tin hoàn toàn hợp lệ, đúng pháp luật, hệ thống tự động tạo quyết định hoàn thuế và tạo lệnh hoàn truyền thông tin sang Kho bạc Nhà nước để trả tiền hoàn thuế cho người nộp thuế.

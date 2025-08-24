@@ -1,0 +1,31 @@
+Theo số liệu thống kê từ Ngân hàng Nhà nước, tính đến cuối năm 2024, hơn 87% người trưởng thành có tài khoản thanh toán tại ngân hàng. Tại nhiều tổ chức tín dụng, trên 95% số lượng giao dịch được xử lý trên kênh số.
+
+Tuy nhiên, quá trình chuyển đổi số mạnh mẽ cũng đang đặt ra bài toán nan giải về an ninh mạng.
+
+"Từ đầu năm đến nay, Bộ Công an tập trung phối hợp chặt chẽ  với các ngân hàng, đặc biệt là các ngân hàng lớn để kiểm soát rủi ro an ninh mạng”, ông Vũ Thành Trung, Phó Chủ tịch Hội đồng quản trị MB, cho biết.
+
+Theo ông Trung, MB đang phục vụ khoảng 33 triệu khách hàng cá nhân, với 99% giao dịch được thực hiện qua kênh số. Vì vậy, an ninh mạng là yếu tố bắt buộc, sống còn.
+
+
+
+"Từ đầu năm đến nay, Bộ Công an tập trung phối hợp chặt chẽ  với các ngân hàng, đặc biệt là các ngân hàng lớn để kiểm soát rủi ro an ninh mạng.
+
+Chúng tôi hoạt động ngoài sáng, còn tội phạm mạng thì trong bóng tối. Chính vì thế, tất cả các dự án công nghệ thông tin giờ đây đều phải song hành với giải pháp an ninh mạng ngay từ đầu”.
+
+"Từ đầu năm đến nay, Bộ Công an tập trung phối hợp chặt chẽ  với các ngân hàng, đặc biệt là các ngân hàng lớn để kiểm soát rủi ro an ninh mạng.Chúng tôi hoạt động ngoài sáng, còn tội phạm mạng thì trong bóng tối. Chính vì thế, tất cả các dự án công nghệ thông tin giờ đây đều phải song hành với giải pháp an ninh mạng ngay từ đầu”.
+
+Từ tháng 6/2024, Ngân hàng Nhà nước yêu cầu xác thực sinh trắc học và từ 1/1/2025 bắt buộc đối chiếu khớp đúng giấy tờ tùy thân với khách hàng cá nhân.
+
+Đại diện nhiều ngân hàng cho biết giải pháp nhờ giải pháp này, số vụ lừa đảo nhắm đến tài khoản cá nhân giảm khoảng 95%. Tuy nhiên, các đối tượng đã chuyển hướng sang mở tài khoản doanh nghiệp để thực hiện hành vi gian lận. Hiện, toàn ngành đang đẩy mạnh  làm sạch dữ liệu khách hàng doanh nghiệp để bịt kín khe hở có thể dẫn đến lừa đảo.
+
+Song song đó, từ năm ngoái, Ngân hàng Nhà nước xây dựng và triển khai hệ thống giám sát SIMO – nền tảng chia sẻ thông tin về tài khoản và ví điện tử có dấu hiệu gian lận hoặc giả mạo. Hệ thống cho phép các tổ chức thành viên báo cáo và nhận cảnh báo về những tài khoản nghi vấn. Ngân hàng Nhà nước cho biết tính đến cuối năm 2024, đã có 103 tổ chức tín dụng và trung gian thanh toán kết nối với hệ thống này, góp phần hình thành mạng lưới phòng ngừa rủi ro toàn ngành.
+
+Lãnh đạo MB thông tin, từ sau 31/7/2025, hệ thống SIMO sẽ vận hành chính thức. Khi tất cả các ngân hàng và trung gian thanh toán cùng chia chia sẻ thông tin về những tài khoản liên quan đến lừa đảo sẽ tạo được cơ sở dữ liệu đồ sộ để cảnh báo người dùng trong quá trình giao dịch.
+
+Các ngân hàng sẽ dùng dữ liệu đó kiểm tra tài khoản nhận tiền trước khi hoàn tất giao dịch. Nếu tài khoản nằm trong danh sách có nguy cơ lừa đảo, hệ thống sẽ chặn giao dịch và gửi cảnh báo đến khách hàng.
+
+Ông Trung cho biết cùng với việc thực hiện hiệu quả các chủ trương của Ngân hàng Nhà nước và Bộ Công an, MB cũng phát triển 3 trụ cột riêng biệt để đảm bảo an ninh mạng. Cụ thể: tính năng “app protection” nhằm phát hiện và chặn ứng dụng giả mạo, bảo hiểm an ninh mạng cho tài khoản khách hàng, và ứng dụng trí tuệ nhân tạo (AI) để phát hiện giao dịch bất thường.
+
+“Tình trạng khách hàng bị lừa cài các ứng dụng giả mạo rất phổ biến. Do đó, chúng tôi đã phát triển tính năng app protection, nghĩa là khi khách hàng bật app MB lên, hệ thống sẽ kiểm tra xem trên điện thoại có cài ứng dụng giả mạo hay không. Với nền tảng Android, chúng tôi đã chặn được 99% các app giả mạo, tuy nhiên, với hệ điều hành iOS thì việc này khó khăn hơn”, ông Trung nói.
+
+Khi các thủ đoạn lừa đảo ngày càng tinh vi, các ngân hàng đang rốt ráo dựng "hàng rào số" thiết yếu để bảo vệ người dùng, củng cố nền tảng phát triển bền vững cho ngân hàng số.

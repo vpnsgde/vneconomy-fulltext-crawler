@@ -1,0 +1,11 @@
+Theo đó, dữ liệu về mức độ ô nhiễm không khí được đo dựa trên số lượng hạt bụi mịn PM2.5 có trong mỗi mét khối không khí và được tính bình quân theo năm. Hạt bụi PM2.5 có đường kính nhỏ hơn 2,5 micron - tức nhỏ hơn khoảng 28 lần so với đường kính tóc người, được hình thành từ những thứ như phần tử không khí cháy, hợp chất và kim loại.
+
+Bụi mịn không chỉ khiến không khí trở nên mờ đục mà còn gây ra mối đe dọa lớn nhất đối với sức khỏe con người, so với các chất gây ô nhiễm khác. Khi được hít vào phổi, chúng có thể gây ra các bệnh về đường hô hấp, thậm chí tử vong. Trên thực tế, ô nhiễm không khí là một trong yếu tố nguy cơ gây tử vong hàng đầu thế giới và có liên quan đến 12% số ca tử vong trên toàn cầu.
+
+Mức độ ô nhiễm không khí không giống nhau trên thế giới. Các nền kinh tế có GDP bình quân đầu người thấp thường có ô nhiễm không khí cao hơn do các quy định về chất lượng không khí kém nghiêm ngặt hơn, cùng với đó là hệ thống giao thông tắc nghẽn và các ngành công nghiệp phát triển nhanh. Các nền kinh tế này cũng ưu tiên những nhu cầu cơ bản như thức ăn và chỗ ở, thay vì chi trả cho các công nghệ làm sạch không khí như các nền kinh tế phát triển.
+
+Theo biểu đồ, Ấn Độ là nơi có nồng độ hạt bụi mịn PM2.5 cao nhất thế giới, 83 trên mỗi mét khối không khí, cao gấp gần 14 lần so với New Zealand - nơi có nồng độ PM2.5 thấp nhất.
+
+Cũng nằm trong top 5 nền kinh tế có mức độ ô nhiễm không khí cao nhất là Pakistan, Bangladesh, Trung Quốc và Peru.
+
+Nga, Anh và Mỹ nằm trong nhóm có mức độ ô nhiễm không khí thấp với nồng độ PM2.5 trong mỗi mét khối không khí lần lượt là 12, 8 và 8. Việt Nam nằm ở nhóm trung bình với nồng độ PM2.5 là 20 trong một mét khối không khí.

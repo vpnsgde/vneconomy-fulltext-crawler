@@ -1,0 +1,25 @@
+Thời gian qua, một số đối tượng thu thập được hàng triệu thông tin cá nhân, trong đó có những thông tin nhạy cảm thuộc bí mật đời tư, dữ liệu cá nhân của người dùng như số điện thoại, email, căn cước công dân... thường là thông tin bất biến.
+
+Các dữ liệu trên được mua bán trao đổi trên các diễn đàn, nhóm Zalo, fanpage… Khi có được các dữ liệu trên, các đối tượng gọi điện thoại, gửi tin nhắn quảng bá, tiếp thị, chào bán sản phẩm như: cho vay tài chính lãi suất ưu đãi, chào bán bất động sản, nghỉ dưỡng, resort, vay tiêu dùng, tiền ảo, tiền kỹ thuật số… giá trị giao dịch mỗi thông tin cá nhân thường từ 50 đồng đến 600 đồng/1 thông tin.
+
+Mới đây, Phòng An ninh điều tra Công an tỉnh Phú Thọ đã điều tra, làm rõ vụ án Vũ Hồng Anh và Nguyễn Phi Long phạm tội “Đưa hoặc sử dụng trái phép thông tin mạng máy tính, mạng viễn thông” xảy ra tại tỉnh Phú Thọ và TP.Hà Nội.
+
+Trong vụ án này, Anh và Long đã trao đổi, thu thập trên mạng Internet từ những người khác bằng cách đăng bài hỗ trợ bán data miễn phí cho người có nhu cầu bán trong nhóm “Data khách hàng tiềm năng” với hơn 11.000 thành viên; giúp họ bán được data đồng thời thu thập thêm dữ liệu thông tin cá nhân của người khác, phục vụ việc mua bán.
+
+Trong thời gian từ tháng 3/2021 đến tháng 5/2022, Anh và Long đã thu thập được 2.382.620 thông tin cá nhân. Các đối tượng mua dữ liệu gồm hơn 600 đối tượng, cư trú tại 55 tỉnh, thành trong cả nước. Ngoài ra, các đối tượng sử dụng các tài khoản ngân hàng “ảo” do người khác đứng tên để nhận tiền từ khách hàng; sử dụng các số điện thoại “rác” để liên hệ, trao đổi,…
+
+Đặc biệt, các đối tượng còn sử dụng các phần mềm chat OTT mã hóa, tự động xóa tin nhắn, xóa tin nhắn hai chiều, sử dụng các tài khoản mạng xã hội ẩn danh, luôn cảnh giác, chủ động xóa dấu vết, qua mặt cơ quan an ninh.
+
+Một số đối tượng còn thu thập, mua bán dữ liệu thông tin cá nhân gồm số điện thoại, vị trí địa chỉ truy cập của người sử dụng mạng 3G, 4G truy cập vào địa chỉ website bất kỳ. Điển hình là nhóm đối tượng do Vũ Tiến Dũng, Đinh Việt Hải và Vũ Gia Anh.
+
+Theo Phòng An ninh điều tra phối hợp với Phòng An ninh kinh tế Công an tỉnh Phú Thọ, trong thời gian từ tháng 3/2021 đến ngày 1/8/2021, Dũng, Gia Anh và Hải đã thu thập và bán hơn 400 nghìn dữ liệu thông tin cá nhân chứa số điện thoại và địa chỉ truy cập, hưởng lợi khoảng hơn 1,1 tỷ đồng.
+
+Thời gian qua, hơn 16.100 dữ liệu người dùng của nền tảng công nghệ hỗ trợ bán lẻ và thương mại điện tử Sapo; dữ liệu thông tin hơn 119.000 khách hàng của một công ty bảo hiểm tư nhân tại Việt Nam đang bị hacker rao bán…
+
+Tuy nhiên, trả lời VnEconomy, đại diện Sapo, CTO Nguyễn Minh Khôi, cho biết Sapo đã rà soát tất cả các quy trình bảo mật của công ty và khẳng định thông tin bị mất dữ liệu khách hàng là không chính xác: "Chúng tôi đã kiểm tra và đối chiếu thông tin hacker rao bán trên diễn đàn. Đây không phải dữ liệu thông tin của khách hàng Sapo, mà là thông tin giả lập được sử dụng trong lập trình phần mềm. Trong thời gian tới, Sapo chúng tôi sẽ tiếp tục tăng cường công tác bảo mật để bảo đảm dữ liệu của Sapo được an toàn trên môi trường mạng".
+
+Cơ quan an ninh cũng khuyến cáo, thông tin bị thu thập, bị chia sẻ gần như không còn khả năng thu hồi. Khi những dữ liệu thông tin cá nhân này được trao đổi, mua bán tràn lan sẽ gây hệ luỵ rất lớn, gây ảnh hưởng không nhỏ đến quyền riêng tư, bí mật cá nhân của mỗi người, có thể dẫn đến tình trạng lừa đảo công nghệ cao, cũng như các hành vi phạm pháp khác.
+
+Được biết, Bộ Thông tin và Truyền thông cũng đang đề nghị Bộ Công an hoàn thiện, trình ban hành Nghị định quy định về bảo vệ dữ liệu cá nhân, tiến tới xây dựng Luật Bảo vệ dữ liệu cá nhân.
+
+Đồng thời, Bộ Thông tin và Truyền thông cùng các đơn vị trực thuộc xây dựng, phát hành Cẩm nang Bảo đảm An toàn thông tin, hướng dẫn các biện pháp để bảo vệ thông tin cá nhân, tài khoản và triển khai chiến dịch đẩy lùi mã độc trên toàn quốc. Trong trường hợp gặp phải vấn đề liên quan đến việc lộ lọt dữ liệu cá nhân, người dân có thể phản ánh tại địa chỉkhonggianmang.vn; gửi nhắn tin,gọi điện phản ánh qua tổng đài 156.

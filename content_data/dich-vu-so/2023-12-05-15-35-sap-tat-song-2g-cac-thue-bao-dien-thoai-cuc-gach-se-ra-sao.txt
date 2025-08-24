@@ -1,0 +1,50 @@
+Vấn đề này đã được đại diện cơ quan quản lý viễn thông, chuyên gia và các nhà mạng chia sẻ tại Tọa đàm “Tắt sóng 2G đưa người dân lên môi trường số” do Câu lạc bộ Nhà báo Công nghệ Thông tin Việt Nam (ICT Press Club) tổ chức ngày 5/12/2023.
+
+Giấy phép tần số cấp cho các nhà mạng triển khai mạng 2G sẽ hết hạn vào tháng 9/2024. Bộ Thông tin và Truyền thông sẽ quy hoạch lại và các băng tần 1800MHz, 1900MHz tới đây sẽ không phục vụ cho máy 2G Only.
+
+Việt Nam đã lựa chọn phương án tắt sóng 2G để thúc đẩy thực hiện mục tiêu trong Chương trình chuyển đổi số quốc gia đến 2025, định hướng đến năm 2030 mà Thủ tướng đã phê duyệt là phổ cập mạng di động 4G/5G và điện thoại thông minh đến từng người dân Việt Nam.
+
+Theo các chuyên gia, đây sẽ là cuộc cách mạng để thúc đẩy Chính phủ điện tử, kinh tế số, xã hội số... một cách nhanh chóng và cũng là động lực quan trọng đưa Việt Nam phát triển nhanh và mạnh hơn. Khi 100% người dân sử dụng smartphone sẽ thúc đẩy những dịch vụ số phong phú hơn, dịch vụ dữ liệu được sử dụng nhiều hơn, nhà mạng có thêm doanh thu và cơ hội phát triển mới.
+
+Chia sẻ tại tọa đàm, ông Nguyễn Phong Nhã, Phó Cục trưởng Cục Viễn Thông, Bộ Thông tin và Truyền thông, nhấn mạnh chủ trương tắt sóng 2G nhằm thúc đẩy cuộc cách mạng công nghiệp lần thứ 4, đảm bảo người dân có thể tiếp cận được các dịch vụ hành chính công trên môi trường hiện đại, với tốc độ cao.
+
+Chủ trương dừng 2G, tiến tới dừng 3G sẽ là nội dung trong kế hoạch từ 2023-2026. Đến nay Bộ đã có nhiều giải pháp, chủ trương dừng mạng 2G. Từ năm 2020, các nhà mạng đã có tính toán và đồng thuận với chủ trương dừng công nghệ 2G.
+
+Các đơn vị của Bộ đã có đề xuất với lãnh đạo Bộ từ năm 2016, khi cấp phép 4G. Tại thời điểm đó, tất cả giấy phép đều được đề xuất có hạn đến tháng 9/2024. Điều này sẽ giúp nhà mạng có định hướng trong việc phát triển thuê bao để đến thời điểm tháng 9/2024 có thể xem lại giấy phép. Đây là sở cứ tốt để quy hoạch lại các băng tần, ông Nhã nói.
+
+Về mặt thực thi, các doanh nghiệp đã xây dựng được kế hoạch để phù hợp với thuê bao, vùng phủ sóng và công nghệ mà các doanh nghiệp đang khai thác. Việt Nam đã thử nghiệm 5G từ năm 2019, các nhà mạng đã sẵn sàng cho 5G
+
+Theo ông Nhã, một nhà mạng không thể tồn tại cùng lúc các công nghệ 2G, 3G, 4G, 5G, sẽ rất tốt kém cho việc khai thác, bảo dưỡng, vận hành. Khi tắt sóng 2G và 3G, trên mạng sẽ chỉ còn công nghệ 4G. Khi đó hạ tầng viễn thông của nhà mạng sẽ triển khai phục vụ 5G, tạo điều kiện cơ hội để đến năm 2030 Việt Nam có thể khai thác 6G, đại diện Cục Viễn thông phân tích.
+
+Với chủ trương này, đại diện các nhà mạng, các chuyên gia đều khẳng định, việc dừng công nghệ 2G là phù hợp với xu thế chung của thế giới.
+
+Theo ông Nguyễn Duy Luân, chuyên gia mạng không dây Huawei, xu hướng tắt công nghệ cũ như 2G, 3G là xu hướng chung của thế giới. Theo thống kê của GSMA, đến cuối tháng 6/2023, có 149 nhà mạng đã và đang tắt công nghệ cũ. Đại đa số tắt ở những quốc gia tiên tiến, 63% ở châu Âu và hơn 20% ở châu Á. Nhiều quốc gia đã tắt từ lâu như Mỹ năm 2017 và năm 2020, Australia và Singapore tắt từ 2017.
+
+Theo ông Luân, lợi ích thiết thực nhất của việc tắt công nghệ cũ với nhà mạng là tiết kiệm chi phí vận hành. Thiết bị cũ thường tốn điện, chi phí sửa chữa, vật tư... Một phần quan trọng nữa là 2G và 3G đang sử dụng băng tần “vàng” (hầu hết 2G dùng băng tần 900MHz). So với băng tần 1800MHz của 4G, băng tần 900MHz có lợi thế vùng phủ rộng hơn nhiều…
+
+Sau khi có chỉ đạo của Bộ Thông tin và Truyền thông, các nhà mạng đã rất tích cực trong việc xây dựng kế hoạch tắt sóng 2G đến tháng 9/2024. Các điện thoại chỉ có 2G không sẽ không được sử dụng trên mạng lưới. Bộ Thông tin và Truyền thông cũng ban hành thông tư cấm nhập khẩu, lưu thông điện thoại chỉ có kết nối 2G.
+
+Theo các chuyên gia, vòng đời thiết bị 2G Only thường chỉ 3 năm. Các đơn vị trong Bộ đã rà soát, yêu cầu các đơn vị kinh doanh không nhập khẩu thiết bị 2G Only. Do vậy các thiết bị này đã giảm dần trên mạng lưới.
+
+
+
+Đến nay, các nhà mạng đã xây dựng kế hoạch chi tiết trên từng quận huyện, nhà mạng sẽ hỗ trợ người sử dụng trên địa bàn để giảm thiểu thuê bao 2G, xây dựng kế hoạch phát triển hạ tầng 4G. Tốc độ 4G trong 2 năm qua đã tăng lên. Tốc độ 4G tại Việt Nam khoảng 44,92Mbps, đứng thứ 57 thế giới. Các nhà mạng cũng có chính sách hỗ trợ, chuyển đổi thuê bao 2G sang 3G, 4G.
+
+Ngoài ra, ông Nhã cho biết thêm rằng trong chương trình viễn thông công ích, Bộ cũng đã tham mưu chính phủ phê duyệt khoản hỗ trợ các hộ gia đình ở vùng sâu vùng xa, hỗ nghèo để chuyển đổi thiết bị đầu cuối 2G sang thiết bị thông minh. Một số tỉnh cũng muốn phổ cập điện thoại thông minh cho người sử dụng, thông qua chương trình hỗ trợ, triển khai ứng dụng dịch vụ công trực tuyến để người dân khai thác, sử dụng.
+
+Về phía nhà mạng, ông Nguyễn Trọng Tính, Phó Tổng giám đốc Viettel Telecom, khẳng định việc tắt song 2G với mục đích chuyển đổi các khách hàng dùng 2G lên mạng 4G, sử dụng smartphone. Đây là chủ trương rất đúng đắn, phù hợp với xu thế cũng như phù hợp với mong muốn của các nhà cung cấp dịch vụ viễn thông, và phù hợp với nhu cầu của khách hàng, xã hội trong giai đoạn hiện nay.
+
+Việc tắt các công nghệ cũ, dịch chuyển lên công nghệ mới là việc rất thiết thực, mang lại lợi ích cho doanh nghiệp. Hiện nay số lượng thuê bao 2G của nhà mạng còn cao. Do đó, nhà mạng xác định mục tiêu đến tháng 9/2024, cần dịch chuyển, đưa số lượng thuê bao 2G trên mạng chỉ còn dưới 5% thì mới có thể tắt sóng.
+
+Đại diện Viettel Telecom cho biết đã có nhiều biện pháp để thúc đẩy quá trình chuyển đổi 2G lên 4G của các khách hàng Viettel một cách nhanh chóng hơn. Từ cách đây 4 năm, nhà mạng này đã thực hiện việc chuyển đổi. Hiện nay, Viettel cũng là nhà mạng đầu tiên chuyển đổi gần như toàn bộ thuê bao 3G lên 4G thành công.
+
+Về phía nhà mạng Vinaphone- VNPT, ông Nguyễn Phúc Khánh, Phó Ban công nghệ VNPT, nhận thấy công nghệ 2G đã triển khai hơn 20 năm với 2 dịch vụ truyền thống là Voice và SMS. Sau khi 3G, 4G xuất hiện, 2G gần như đã hoàn thành vai trò của mình.
+
+Từ lúc lưu lượng 2G còn khá cao, VNPT đã xác định chiến lược tắt sóng 2G, đưa vào hoạt động xây dựng kế hoạch, phát triển mạng lưới, ưu tiên chỉ còn triển khai 2G kết hợp 3G và 4G. Phần thiết bị trước đó chỉ có 2G, VNPT đang tiến hành tắt từng trạm riêng lẻ. Nhà mạng đã kết hợp cả hoạt động kỹ thuật cũng như tuyên truyền cho thuê bao trong khu vực, tiến hành tắt sóng khoảng 10% trạm riêng 2G. Hoạt động kinh doanh kết hợp theo các chương trình đều ưu tiên phát triển thuê bao sử dụng data, 4G.
+
+VNPT cũng cho biết đã xây dựng kế hoạch, giải pháp để đến tháng 9/2024 cam kết thực hiện chuyển đổi tất cả thuê bao, thiết bị 2G only. Các thuê bao này hiện đang chiếm khoảng gần 3 triệu, tương đương 8% tổng số thuê bao VNPT.
+
+Còn với nhà mạng MobiFone, về mặt công nghệ và xu hướng, nhà mạng ủng hộ chủ trương tắt sóng 2G, chuyển khách hàng sử dụng 2G Only sang 4G, 5G để tối ưu tần số, hạ tầng, triển khai thêm nhiều dịch vụ số. Đây là chủ trương đúng đắn, phù hợp với công nghệ và thời đại.
+
+Hiện nhà mạng còn khoảng 3 triệu thuê bao 2G trên 20 triệu thuê bao. Do đó trong quá trình chuyển đổi cần đảm bảo hài hoà  quyền lợi khách hàng và tiến độ thực hiện chủ trương. MobiFone cũng cho biết, đã tắt dòng sóng 2G ở những khu vực có lưu lượng thấp. Trước khi tắt đã có phương án đánh giá ảnh hưởng đến người dân...
+

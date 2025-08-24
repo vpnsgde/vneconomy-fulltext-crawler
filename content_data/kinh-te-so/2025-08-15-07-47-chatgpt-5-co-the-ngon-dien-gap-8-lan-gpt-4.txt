@@ -1,0 +1,15 @@
+Dù OpenAI chưa công bố số liệu chính thức, nhóm nghiên cứu ước tính một phản hồi trung bình của GPT-5 (dài khoảng 1.000 token) có thể tiêu thụ tới 40 Wh điện, với mức trung bình hơn 18,35 Wh – so với chỉ 2,12 Wh của GPT-4. Con số này khiến GPT-5 vượt hầu hết các mô hình khác trong thử nghiệm, chỉ xếp sau o3 của OpenAI (25,35 Wh) và R1 của DeepSeek (20,90 Wh).
+
+Nếu áp dụng mức tiêu thụ trung bình này cho toàn bộ 2,5 tỷ lượt yêu cầu mỗi ngày trên ChatGPT, lượng điện cần thiết có thể lên tới 45 GWh/ngày - tương đương công suất của 2–3 lò phản ứng điện hạt nhân, đủ để cấp năng lượng cho một quốc gia nhỏ.
+
+Tuy nhiên, các nhà nghiên cứu cũng thừa nhận phương pháp thử nghiệm chưa thật tối ưu, nên kết quả chỉ mang tính tham khảo. Dẫu vậy, câu chuyện về “dấu chân năng lượng” của AI vẫn đang ngày càng đáng lo ngại.
+
+Nhóm nghiên cứu đo mức tiêu thụ điện của GPT-5 dựa trên hai yếu tố: thời gian mô hình trả lời một yêu cầu và mức tiêu thụ điện trung bình của hệ thống phần cứng vận hành nó.
+
+Vì OpenAI không công bố chi tiết, họ phải đưa ra giả định. Theo nhóm, nhiều khả năng GPT-5 đang chạy trên hệ thống máy chủ Nvidia DGX H100 hoặc DGX H200, đặt tại trung tâm dữ liệu của Microsoft Azure. Dựa vào thời gian phản hồi mỗi câu hỏi và lượng điện tiêu thụ của phần cứng, họ tính được mức tiêu thụ theo đơn vị watt-giờ, lấy mốc 1.000 từ máy (token) để so sánh.
+
+Ước tính này không chỉ tính phần điện cho chip xử lý đồ họa (GPU) mà còn cho bộ vi xử lý trung tâm (CPU), bộ nhớ, ổ lưu trữ, hệ thống làm mát… Đồng thời, họ cũng cộng thêm các yếu tố môi trường đặc thù của Azure như hiệu quả sử dụng năng lượng (PUE), hiệu quả sử dụng nước (WUE) và hệ số phát thải carbon (CIF). Nếu thực tế Azure và OpenAI dùng thế hệ máy mới hơn như Nvidia Blackwell (nhanh gấp bốn lần), kết quả sẽ sai lệch đáng kể.
+
+GPT-5 được thiết kế theo dạng “hỗn hợp chuyên gia”, nên không phải mọi tham số đều hoạt động trong mỗi yêu cầu. Điều này giúp tiết kiệm điện với câu hỏi ngắn hoặc đơn giản. Nhưng khi chạy ở chế độ “lý luận” – đòi hỏi xử lý lâu hơn – lượng điện tiêu thụ có thể tăng gấp 5–10 lần, vượt quá 40 Wh cho một câu trả lời, theo nhà nghiên cứu Shaolei Ren được The Guardian dẫn lại.
+
+Dù các con số chỉ mang tính ước lượng, so sánh này vẫn cho thấy GPT-5 tốn điện hơn nhiều so với các thế hệ trước…

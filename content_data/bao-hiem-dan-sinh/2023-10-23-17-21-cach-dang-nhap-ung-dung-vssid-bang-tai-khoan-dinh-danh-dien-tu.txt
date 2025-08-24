@@ -1,0 +1,27 @@
+Bảo hiểm xã hội Việt Nam cho biết, cơ quan này đã phối hợp với Bộ Công an thực hiện điều chỉnh, nâng cấp ứng dụng VssID – Bảo hiểm xã hội số đáp ứng yêu cầu kết nối, tích hợp tài khoản VNeID (ứng dụng định danh điện tử quốc gia) với ứng dụng VssID (đăng nhập ứng dụng VssID bằng tài khoản VNeID).
+
+Đây cũng là một trong những lợi ích mang lại từ việc triển khai Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030.
+
+Để sử dụng tính năng "Đăng nhập bằng tài khoản định danh điện tử" trên ứng dụng VssID, Bảo hiểm xã hội Việt Nam cho biết, người dùng cần đáp ứng các yêu cầu sau: Đã có tài khoản giao dịch điện tử với cơ quan Bảo hiểm xã hội (tài khoản VssID); đã có tài khoản định danh điện tử (tài khoản VNeID) mức 2; đã cài đặt ứng dụng VNeID phiên bản 2.1.0 và ứng dụng VssID phiên bản 1.6.7 trở lên.
+
+Người tham gia cài đặt phiên bản mới nhất của hai ứng dụng nêu trên tại kho ứng dụng AppStore (dành cho điện thoại sử dụng hệ điều hành IOS), hoặc trên Google Play (đối với điện thoại sử dụng hệ điều hành Android).
+
+Bảo hiểm xã hội Việt Nam hướng dẫn thực hiện như sau:
+
+Bước 1:Tại màn hình đăng nhập ứng dụng VssID, người tham gia chọn "Đăng nhập bằng tài khoản định danh điện tử".
+
+Ứng dụng VssID sẽ điều hướng sang ứng dụng VNeID.
+
+Bước 2:Tại màn hình đăng nhập ứng dụng VNeID, người tham gia đăng nhập bằng tài khoản định danh điện tử mức 2:
+
+Sau khi đăng nhập tài khoản định danh điện tử thành công, ứng dụng VNeID sẽ điều hướng về lại ứng dụng VssID và hiển thị như sau:
+
+Như vậy, chỉ với vài thao tác đơn giản, người tham gia đã có thể sử dụng tài khoản định danh điện tử do Bộ Công an cấp để đăng nhập và sử dụng đầy đủ các tính năng, tiện ích trên ứng dụng VssID.
+
+Bảo hiểm xã hội Việt Nam cho biết, sau gần 3 năm triển khai, với hơn 32 triệu người dùng, ứng dụng VssID ngày càng khẳng định và phát huy vai trò hữu ích trong việc cung cấp thông tin về chính sách bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Với ứng dụng này, người dùng có thể quản lý, kiểm soát các thông tin về quá trình tham gia - thụ hưởng các chính sách bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; thực hiện các giao dịch với cơ quan Bảo hiểm xã hội; sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để khám chữa bệnh bảo hiểm y tế…, một cách tiện lợi, nhanh chóng, dễ dàng, tiết kiệm được thời gian và chi phí đi lại.
+
+Ngoài việc sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để đi khám chữa bệnh, người dân còn có thể sử dụng thẻ căn cước công dân gắn chíp, ứng dụng định danh điện tử quốc gia (VNeID) để thay thế thẻ bảo hiểm y tế giấy.
+
+Việc làm này không chỉ góp phần giảm bớt áp lực cho nhân viên y tế mà còn tạo điều kiện thuận lợi cho người dân khi đi khám chữa bệnh bảo hiểm y tế.

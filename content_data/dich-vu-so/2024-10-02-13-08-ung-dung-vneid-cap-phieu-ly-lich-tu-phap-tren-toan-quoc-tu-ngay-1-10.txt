@@ -1,0 +1,37 @@
+Từ ngày 1/10, người dân cả nước có thể đăng ký cấp Phiếu lý lịch tư pháp trên ứng dụng VNeID cho công dân Việt Nam có tài khoản định danh điện tử mức độ 2 mà không phải đến trực tiếp Sở Tư pháp để làm các thủ tục, hồ sơ đến việc cấp Phiếu LLTP.
+
+Theo Quy trình 570/TTLLTPQG-QLHG năm 2024, việc thực hiện thí điểm cấp Phiếu lý lịch tư pháp trên ứng dụng định danh quốc gia VNeID gồm 10 bước:
+
+(1), Công dân kê khai hồ sơ và thực hiện thanh toán phí cung cấp thông tin lý lịch tư pháp trên Ứng dụng VNeID;
+
+(2), Gửi hồ sơ;
+
+(3), Tiếp nhận hồ sơ;
+
+(4), Đẩy dữ liệu sang hệ thống Phần mềm Quản lý lý lịch tư pháp dùng chung của Bộ Tư pháp;
+
+(5), Tiếp nhận hồ sơ từ Hệ thống thông tin giải quyết thủ tục hành chính sang Phần mềm Quản lý lý lịch tư pháp dùng chung của Bộ Tư pháp;
+
+(6), Tra cứu, xác minh thông tin;
+
+(7), Cơ quan Công an thực hiện tra cứu, xác minh;
+
+(8), Nhận, cập nhật kết quả tra cứu, xác minh;
+
+(9), Lập Phiếu lý lịch tư pháp điện tử;
+
+Và (10), Trả kết quả cho người dân.
+
+Công dân có thể thực hiện tra cứu tình trạng hồ sơ và kết quả Phiếu lý lịch tư pháp điện tử tại ứng dụng VNeID, Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh, thành phố và Cổng dịch vụ công quốc gia.
+
+Trường hợp Phiếu lý lịch tư pháp đã cấp có nội dung không chính xác hoặc trái pháp luật theo quy định tại Điều 50 Luật lý lịch tư pháp, Sở Tư pháp ra quyết định (bổ sung, đính chính, thu hồi, hủy bỏ) phiếu lý lịch tư pháp điện tử đã cấp và cấp lại phiếu điện tử cho công dân (nếu có).
+
+Phiếu đã cấp có nội dung không chính xác hoặc trái pháp luật phải thể hiện trạng thái đã được bổ sung, đính chính, thu hồi hoặc hủy bỏ.
+
+Thời hạn cấp Phiếu lý lịch tư pháp là 3 ngày làm việc; trường hợp phức tạp (có thông tin về án tích và công tác nghiệp vụ khác) là 9 ngày làm việc. Trường hợp trả Phiếu lý lịch tư pháp bằng giấy cho công dân thì cộng thêm 1 ngày so với ngày trả phiếu điện tử.
+
+Theo đó, thực hiện chỉ đạo của Thủ tướng Chính phủ tại văn bản số 656/TTg-KSTT ngày 24/8/2024 về việc mở rộng thí điểm cấp Phiếu lý lịch tư pháp (LLTP) qua Ứng dụng VNeID, được sự chỉ đạo của Lãnh đạo Bộ Tư pháp và Lãnh đạo Bộ Công an, Trung tâm LLTP quốc gia và Cục Cảnh sát quản lý hành chính về trật tự xã hội (C06), Bộ Công an đã ban hành Quy trình số 570/TTLLTPQG-QLHC ngày 20/9/2024 Thực hiện thí điểm cấp Phiếu lý lịch tư pháp trên Ứng dụng định danh quốc gia VNeID.
+
+Trên cơ sở Quy trình số 570/TTLLTPQG-QLHC, Cục C06, Bộ Công an và Cục Công nghệ thông tin, Bộ Tư pháp đã hoàn chỉnh Phần mềm Ứng dụng VNeID và Phần mềm quản lý Phiếu lý lịch tư pháp, bảo đảm phù hợp với nội dung quy trình.
+
+Các Sở Tư pháp đặc biệt lưu ý đến các vấn đề: thời hạn tra cứu, xác minh; các trường hợp tra cứu tại cơ sở dữ liệu lý lịch tư pháp và các trường hợp tra cứu tại cơ quan công an; thời hạn cấp phiếu lý lịch tư pháp; việc bổ sung, đính chính, thu hồi, hủy bỏ Phiếu lý lịch tư pháp. Xác định đây là những điểm mang tính chất "đột phá" nhằm bảo đảm chất lượng, hiệu quả hoạt động cấp Phiếu lý lịch tư pháp trên Ứng dụng VNeID.

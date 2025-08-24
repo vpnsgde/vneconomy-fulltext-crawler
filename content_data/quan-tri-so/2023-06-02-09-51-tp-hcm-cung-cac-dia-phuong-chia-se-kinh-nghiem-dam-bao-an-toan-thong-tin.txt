@@ -1,0 +1,21 @@
+Chiều 1/6, Chương trình Diễn tập thực chiến đảm bảo an toàn thông tin mạng 2023 do Cục An toàn thông tin (Bộ Thông tin và Truyền thông) phối hợp Sở Thông tin và Truyền thông TP.HCM tổ chức đã bế mạc.
+
+Trước đó, nhằm tăng cường khả năng đảm bảo an toàn thông tin cho các hệ thống thông tin quan trọng, Bộ Thông tin và Truyền thông chỉ đạo Cục An toàn thông tin phối hợp với Sở Thông tin và Truyền thông TP.HCM lựa chọn một hệ thống thông tin đang vận hành và tổ chức Diễn tập quốc gia.
+
+Cuộc diễn tập bắt đầu từ ngày 15/5 và kết thúc vào lúc 20 giờ ngày 19/5, các chuyên gia đến từ các đội tấn công đã phát hiện một số lỗ hổng thông tin quan trọng, những sai sót về công nghệ, quy trình được phát hiện.
+
+Ngoài ra, các lỗ hổng bảo mật được phát hiện qua đợt diễn tập đã được Sở Thông tin và Truyền thông, Đội ứng cứu an toàn an ninh mạng Thành phố, các đơn vị cung cấp dịch vụ hạ tầng, sản phẩm phần mềm nghiêm túc ghi nhận, nghiên cứu và tập trung khắc phục, hoàn thành nhằm tăng cường các biện pháp đảm bảo an toàn thông tin.
+
+Chương trình Diễn tập quy tụ hơn 70 chuyên gia, kỹ sư hàng đầu đến từ các đơn vị bao gồm: Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT); Công ty Cổ phần Viễn thông FPT; Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank); Công ty Misoft; Công ty Cổ phần Chứng khoán SSI; Công ty Giao hàng tiết kiệm; Công ty TNHH SL International; Công ty Cổ phần An ninh mạng quốc gia Việt Nam; Tổng công ty Hàng không Việt Nam (Vietnam Airlines); Bộ Tư lệnh 86; Công ty TNHH Phát triển Công viên phần mềm Quang Trung; Công ty Cổ phần Dịch vụ An toàn thông tin TP.HCM; Trung tâm Công nghệ thông tin và Truyền thông TPHCM.
+
+Thông qua cuộc diễn tập, các cơ quan, đơn vị tham gia và thành viên đội ứng cứu sự cố có cơ hội tham gia, rèn luyện kỹ năng, quy trình ứng phó sự cố thực tế thông qua hoạt động diễn tập thực chiến trên hệ thống thực đang vận hành. Trang bị những kiến thức, kỹ năng cần thiết cho cán bộ chuyên trách công nghệ thông tin tại các cơ quan, đơn vị kịp thời ứng phó, giải quyết các vấn đề mất an toàn thông tin.
+
+Diễn tập thực chiến giúp hệ thống vận hành của các cơ quan, tổ chức, doanh nghiệp được tập dượt trước với các tình huống tấn công mạng có thể kiểm soát, được thực hiện bởi những chuyên gia thiện chiến, qua đó các tổ chức sẽ có nhiều cơ hội để phát hiện kịp thời các điểm yếu, lỗ hổng đang tồn tại trong công nghệ, quy trình, con người để kịp thời xử lý, khắc phục, tăng cường các biện pháp đảm bảo an toàn thông tin.
+
+Ông Trần Đăng Khoa, Phó Cục trưởng Cục An toàn thông tin, cho biết việc thực hiện diễn tập thực chiến thay vì diễn tập tình huống như trước đây mang lại hiệu quả trong công tác bảo đảm an toàn thông tin. Bởi diễn tập thực chiến không có kịch bản trước, đội tấn công chủ động, còn đội phòng thủ luôn phải túc trực để ứng phó, xử lý các vấn đề phát sinh.
+
+“Diễn tập thực chiến lần này giúp hệ thống thông tin cơ quan được tập duyệt các tình huống tấn công, có nhiều cơ hội phát hiện lỗ hổng điểm yếu tồn tại trên hệ thống thông tin về cả công nghệ, quy trình và con người, từ đó kịp thời khắc phục chứ không đợi bị tấn công mới tìm cách khắc phục”, ông Khoa khẳng định.
+
+Theo Giám đốc Sở Thông tin và Truyền thông TP.HCM Lâm Đình Thắng, qua đợt diễn tập này, Sở Thông tin và Truyền thông đã ghi nhận được nhiều kinh nghiệm, nhiều nội dung quan trọng trong công tác đảm bảo an toàn an ninh thông tin của Hệ thống thông tin giải quyết thủ tục hành chính Thành phố nói riêng và các hệ thống thông tin khác của Thành phố khác nói chung trong thời gian sắp tới.
+
+Các lỗ hổng bảo mật phát hiện qua đợt diễn tập đã được Sở, các đơn vị cung cấp dịch vụ hạ tầng, sản phẩm phần mềm nghiêm túc ghi nhận, nghiên cứu và tập trung khắc phục hoàn toàn, từ đó tăng cường các biện pháp đảm bảo an toàn thông tin tốt hơn cho các hệ thống lớn của Thành phố.

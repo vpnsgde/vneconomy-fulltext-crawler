@@ -1,0 +1,21 @@
+Thông tin vừa được Cục An toàn thông tin (Bộ Thông tin và Truyền thông) phát đi cho biết trong tổng số địa chỉ IP trên, có 194 địa chỉ IP của cơ quan, tổ chức nhà nước (15 địa chỉ IP Bộ/ngành, 179 địa chỉ IP Tỉnh/Thành).
+
+Thông tin chi tiết về các địa chỉ IP nằm trong mạng botnet đơn vị chuyên trách về công nghệ thông tin, an toàn thông tin tại Bộ/ngành, Tỉnh/Thành có thể tra cứu, cập nhật thông tin thường xuyên thông qua tài khoản đã có trên Hệ thống giám sát từ xa do Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) cấp.
+
+Theo Cục An toàn thông tin, trong tháng 11/2023, thông qua kết nối chia sẻ dữ liệu về mã độc từ 88 đơn vị, Hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) ghi nhận 82/88 đơn vị có kết nối thường xuyên.
+
+Trong thời gian vừa qua, có rất nhiều website của cơ quan nhà nước bị lợi dụng để cài cắm, đăng tải, chuyển hướng hoặc liên kết với nội dung quảng cáo không phù hợp như: game bài, cờ bạc….
+
+Ngày 19/12/2022, Bộ Thông tin và Truyền thông đã phát hành cảnh báo số 6327/BTTT-CATTTT về việc rà soát nội dung không phù hợp trên website của cơ quan nhà nước (.gov.vn). Cục An toàn thông tin phát hành cảnh báo diện rộng số 381/CATTTNCSC ngày 17/3/2023 và cảnh báo diện rộng số 972/CATTT-NCSC ngày 19/6/2023 về việc rà soát nội dung không phù hợp trên website của cơ quan nhà nước (.gov.vn).
+
+Tuy nhiên, theo Cục An toàn thông tin, đến thời điểm hiện tại, Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) tiếp tục ghi nhận có 23 đơn vị (14 Tỉnh/Thành, 09 Bộ/Ngành) còn tồn tại các website của đơn vị bị lợi dụng để tải lên số lượng lớn tệp tin có nội dung độc hại.
+
+Những tệp tin trên xuất hiện trong kết quả tìm kiếm của Google và thực hiện chuyển hướng người dùng sang website khác khi người dùng truy cập đường dẫn. Điều này sẽ trở nên nguy hiểm và nghiêm trọng nếu bị lợi dụng để đăng tải, phát tán những nội dung xấu độc, xuyên tạc về chủ quyền, chủ trương của Đảng và chính sách, pháp luật của Nhà nước.
+
+Về tình hình triển khai công tác dán nhãn Tín nhiệm mạng cho các trang, cổng thông tin điện tử theo Quyết định số 17/QĐ-UBQGCĐS năm 2023, tính đến hết tháng 11/2023 đã có 80 đơn vị (59 Tỉnh/Thành, 21 Bộ/Ngành) triển khai công tác dán nhãn Tín nhiệm mạng cho các trang, cổng thông tin điện 5 tử.
+
+Tổng số trang, cổng thông tin điện tử của các đơn vị cơ quan nhà nước đã được cấp nhãn Tín nhiệm mạng 3.857 website (553 website của 21 Bộ/ngành, 3304 website của 59 Tỉnh/Thành).
+
+Đối với điểm yếu, lỗ hổng tồn tại trên máy tính của các cơ quan tổ chức thì trong tháng, Hệ thống kỹ thuật của NCSC đã ghi nhận có 71.998 điểm yếu, lỗ hổng an toàn thông tin tại các hệ thống thông tin của các cơ quan tổ chức nhà nước.
+
+Số lượng điểm yếu, lỗ hổng nêu trên là rất lớn, do đó Cục An toàn thông tin đã chỉ đạo Trung tâm Giám sát an toàn không gian mạng quốc gia triển khai đánh giá, xác định các lỗ hổng nguy hiểm, có ảnh hưởng trên diện rộng và hướng dẫn các Bộ/ngành khắc phục.

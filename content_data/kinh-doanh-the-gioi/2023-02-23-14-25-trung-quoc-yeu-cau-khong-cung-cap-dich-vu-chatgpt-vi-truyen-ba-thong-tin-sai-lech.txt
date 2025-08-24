@@ -1,0 +1,23 @@
+Tencent Holdings và Ant Group, công ty liên kết thuộc tập đoàn Alibaba, đã được hướng dẫn để không cho phép ngươi dùng internet tiếp cận dịch vụ ChatGPT trên các nền tảng của mình, dù dưới hình thức trực tiếp hay thông qua các bên thứ ba - nguồn tin của Nikkei Asia cho hay.
+
+Ngoài ra, các công ty công nghệ cũng phải báo cáo cho nhà chức trách trước khi cung cấp các dịch vụ tương tự ChatGPT của riêng mình.
+
+ChatGPT là phần mềm trò chuyện (chatbot) trên nền tảng trí tuệ nhân tạo do công ty khởi nghiệp Mỹ OpenAI phát triển và được tập đoàn Microsoft đầu tư. Dù dịch vụ này hiện không khả dụng tại Trung Quốc, một số người dùng internet vẫn truy cập được thông qua mạng riêng ảo (VPN). Ngoài ra, tại Trung Quốc hiện cũng có hàng chục “chương trình nhỏ” được cho là dịch vụ từ ChatGPT do các nhà phát triển bên thứ ba phát hành trên ứng dụng mạng xã hội WeChat của Tencent.
+
+Dưới áp lực từ cơ quan quản lý, Tencent đã cho dừng các dịch vụ như vậy, dù chúng có liên quan tới ChatGPT hay là chỉ phiên bản sao chép của chatbot Mỹ, theo nguồn tin thân cận của Nikkei Asia.
+
+Đây không phải lần đầu tiên Trung Quốc chặn các trang web hoặc ứng dụng do nước ngoài phát triển. Bắc Kinh đã cấm hàng chục trang web và ứng dụng nổi tiếng của Mỹ. Trong năm 2009-2010, nước này đã chặn Google, Facebook, YouTube vàTwitter, và tiếp tục cấm Reddit và Wikipedia vào năm 2018 và 2019.
+
+Động thái mới nhất của nhà chức trách Trung Quốc diễn ra trong bối cảnh ChatGPT vấp phải phản ứng dữ dội từ các cơ quan truyền thông chính thống nước này. Trong một bài đăng trên mạng xã hội Weibo đầu tuần này, tờ Trung Quốc nhật báo nói rằng ChatGPT có thể là công cụ giúp Chính phủ Mỹ "truyền bá thông tin sai lệch" và thao túng các câu chuyện trên toàn cầu vì lợi ích địa chính trị của nước Mỹ.
+
+Trong khi đó, giới quan sát trong ngành nói rằng họ không ngạc nhiên trước động thái này của Bắc Kinh.
+
+“Ngay từ đầu chúng tôi đã biết rằng ChatGPT không bao giờ có thể bước chân vào Trung Quốc do các vấn đề về kiểm duyệt. Và Trung Quốc sẽ cần các phiên bản ChatGPT của riêng mình”, giám đốc tại một công ty công nghệ lớn cho biết.
+
+Giám đốc tại một công ty công nghệ lớn khác của Trung Quốc cho biết dù không có cảnh báo trực tiếp từ cơ quan chức năng, công ty của ông cũng sẽ không sử dụng ChatGPT.
+
+"Chúng tôi vốn đã là mục tiêu của nhà chức trách giữa chiến dịch siết quản lý ngành công nghệ những năm gần đây ở Trung Quốc. Do đó, kể cả không có lệnh cấm như vậy, chúng tôi không bao giờ đưa ChatGPT vào các nền tảng của mình, vì các phản hồi của chatbot này nằm ngoài tầm kiểm soát của chúng tôi”, vị giám đốc cho biết. “Chắc chắn sẽ có nhiều người dùng sử dụng chatbot này để hỏi các câu hỏi nhạy cảm chính trị, nhưng nền tảng mới là bên phải chịu trách nhiệm về câu trả lời của những câu hỏi đó”.
+
+Kể từ khi cơn lốc ChatGPT ập tới thế giới công nghệ, các hãng công nghệ khổng lồ của Trung Quốc như Tencent, Alibaba và Baidu, đều gấp rút công bố kế hoạch phát triển các dịch vụ tương tự. Tuy nhiên, các công ty này cũng thận trọng trong cách diễn đạt khi thông báo về kế hoạch mình. Tất cả đều nhấn mạnh dịch vụ của mình tương tự như ChatGTP nhưng không tích hợp với dịch vụ của Mỹ.
+
+Trong đó, Baidu cho biết sẽ hoàn thành thử nghiệm nội bộ một dự án tương tự ChatGPT có tên là "Ernie Bot" vào tháng 3 tới. Theo nguồn tin thân cận, dịch vụ này có thể không phải một phần mềm trí tuệ nhân tạo mà chỉ là một tính năng tích hợp vào một số sản phẩm của công ty.

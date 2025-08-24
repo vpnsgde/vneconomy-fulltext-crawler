@@ -1,0 +1,29 @@
+Thông tư 40/2025/TT-BCT của Bộ Công Thương quy định việc cấp Giấy chứng nhận xuất xứ hàng hóa (C/O) và tự chứng nhận xuất xứ hàng hóa xuất khẩu chính thức có hiệu lực từ 1/7/2025.
+
+Một trong những điểm nhấn quan trọng của Thông tư là việc triển khai bắt buộc Hệ thống eCoSys trong toàn bộ quy trình khai báo, cấp phát và quản lý xuất xứ điện tử.
+
+Hệ thống eCoSys với sự quản lý hạ tầng kỹ thuật bởi Trung tâm Phát triển thương mại điện tử và Công nghệ số (eComDX), Cục Thương mại điện tử và Kinh tế số, thực hiện các chức năng như tạo tài khoản, cấp mã số đơn vị có thẩm quyền, công khai danh sách tổ chức được phép cấp C/O và đảm bảo kết nối dữ liệu với Cổng thông tin một cửa quốc gia.
+
+eCoSys đóng vai trò trung tâm trong việc chuẩn hóa, số hóa và liên thông toàn bộ dữ liệu xuất xứ hàng hóa, góp phần nâng cao hiệu quả quản lý và tạo thuận lợi cho hoạt động xuất khẩu.
+
+Để hỗ trợ triển khai hiệu quả các thủ tục liên quan đến khai báo và chứng nhận xuất xứ hàng hóa (C/O) trên Hệ thống eCoSys, doanh nghiệp cần tuân thủ đầy đủ các hướng dẫn kỹ thuật và quy trình nghiệp vụ do Bộ Công Thương và các cơ quan quản lý có thẩm quyền ban hành.
+
+Trong quá trình thực hiện khai báo dịch vụ công trực tuyến, doanh nghiệp có trách nhiệm bảo đảm tính chính xác của hồ sơ và thực hiện đúng trình tự theo quy định pháp luật hiện hành, đặc biệt là Thông tư 40/2025/TT-BCT.
+
+Trường hợp phát sinh các vướng mắc về kỹ thuật hoặc nghiệp vụ như lỗi hiển thị mẫu eC/O, thiếu mã HS, lỗi tích hợp chữ ký số, sự cố trong đăng ký hồ sơ thương nhân điện tử hay khai báo theo từng loại C/O như Form A, B, D, E, CPTPP…, doanh nghiệp có thể phản ánh trực tiếp đến cơ quan có thẩm quyền hoặc liên hệ với các kênh hỗ trợ kỹ thuật chính thức được công bố tại địa chỉ www.ecosys.gov.vn.
+
+Thông tư này cũng quy định rõ về cơ cấu thẩm quyền trong hoạt động cấp Giấy chứng nhận xuất xứ hàng hóa và chấp thuận văn bản tự chứng nhận, bao gồm: Cục Xuất nhập khẩu trực thuộc Bộ Công Thương và các tổ chức được Ủy ban nhân dân cấp tỉnh giao nhiệm vụ.
+
+Hai nhóm chủ thể này có trách nhiệm triển khai cấp phát khi đáp ứng đầy đủ các điều kiện tối thiểu như: nhân lực chuyên trách, cơ sở vật chất phù hợp, tài khoản thu phí và đặc biệt là hạ tầng số đảm bảo kết nối vận hành thông suốt với Hệ thống eCoSys.
+
+Tại địa phương, UBND cấp tỉnh được yêu cầu triển khai công tác cấp C/O trong vòng 90 ngày kể từ ngày Thông tư có hiệu lực. Ngoài ra, UBND tỉnh cần thực hiện công bố công khai thông tin, theo dõi tiến độ triển khai và xử lý các vi phạm nếu phát sinh trong quá trình thực hiện tại các đơn vị trực thuộc.
+
+Với các tổ chức được giao nhiệm vụ cấp C/O và văn bản chấp thuận, Thông tư yêu cầu phải công khai quy trình nghiệp vụ, tiếp nhận và giải quyết vướng mắc của doanh nghiệp một cách đầy đủ và minh bạch.
+
+Đồng thời, các đơn vị này cũng có trách nhiệm báo cáo định kỳ tình hình thực hiện lên Cục Xuất nhập khẩu và Ủy ban nhân dân cấp tỉnh, để phục vụ công tác tổng hợp, đánh giá và kiểm tra.
+
+Để việc triển khai tự chứng nhận xuất xứ trên Hệ thống eCoSys thuận lợi, ông Phạm Ngọc Dương, đại diện Trung tâm eComDX khuyến nghị doanh nghiệp cần chủ động tìm hiểu thông tin về Tổ chức cấp C/O, kiểm tra kỹ Hồ sơ thương nhân để nắm bắt quy trình khai báo trên hệ thống eCoSys, cập nhật đầy đủ các hướng dẫn kỹ thuật và quy định pháp lý liên quan tại Thông tư 40/2025/TT-BCT.
+
+Mặc khác, doanh nghiệp xuất khẩu khẩn trương rà soát năng lực thực hiện, chuẩn bị hồ sơ thương nhân điện tử đúng chuẩn, và thực hành khai báo thử nghiệm trước trên eCoSys để đảm bảo tính sẵn sàng trước khi triển khai chính thức.
+
+"Việc chủ động phối hợp sớm với các đơn vị cấp C/O và đội ngũ hỗ trợ kỹ thuật sẽ giúp hạn chế tối đa rủi ro phát sinh trong quá trình khai báo điện tử và góp phần đảm bảo việc hưởng ưu đãi thuế quan được thực hiện đầy đủ, đúng hạn", ông Dương nhấn mạnh.

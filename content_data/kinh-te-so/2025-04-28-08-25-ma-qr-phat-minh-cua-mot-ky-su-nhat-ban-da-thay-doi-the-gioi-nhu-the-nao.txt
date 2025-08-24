@@ -1,0 +1,35 @@
+Ông Masahiro Hara, kỹ sư của Denso Wave (công ty con chuyên sản xuất phụ tùng ô tô thuộc tập đoàn Toyota), đã nảy ý tưởng tạo ra một hệ thống mã hóa mới từ những ô vuông đan xen trong lúc chơi cờ vây. Sau này, hệ thống ấy được gọi là mã QR (Quick Response Code).
+
+Thực tế, mã vạch đã ra đời từ rất sớm, vào năm 1949, nhờ phát minh của hai nhà sáng chế người Mỹ, Joseph Woodland và Bernard Silver. Trong bằng sáng chế của họ, mã vạch được thiết kế dưới dạng các cặp đường thẳng để biểu thị thông tin số – một nguyên lý mà đến nay vẫn còn được sử dụng. Thế nhưng, hệ thống mã vạch đầu tiên không sử dụng những vạch thẳng như ngày nay, mà lại được tạo thành từ những vòng tròn đồng tâm.
+
+Sáng chế của Joseph Woodland và Bernard Silver ban đầu không nhận được nhiều sự chú ý. Phải đến những năm 1960, khi kỹ sư và nhà vật lý Theodore H. Maiman thành công chế tạo tia laser đầu tiên. Khả năng quét và giải mã mã vạch mới có lời giải.
+
+Lúc này, công nghệ mã vạch bắt đầu được ứng dụng trong một số ngành công nghiệp tại Mỹ. Tuy nhiên, thời điểm đó, mã vạch còn tồn tại dưới nhiều kiểu dáng khác nhau, gây thiếu đồng nhất và khó khăn trong việc áp dụng rộng rãi. Nhận thấy tiềm năng to lớn từ công nghệ này, Mỹ bắt đầu nỗ lực thống nhất một chuẩn chung cho toàn ngành.
+
+Đầu những năm 1970, ngành bán lẻ Mỹ thành lập một ủy ban đặc biệt nhằm xây dựng một hệ thống mã vạch thống nhất. Kết quả là Mã sản phẩm phổ quát (UPC) – tiêu chuẩn mã vạch đầu tiên – ra đời, đảm bảo tính tương thích và khả năng sử dụng rộng rãi trên toàn thị trường.
+
+Ủy ban này sau đó tổ chức thêm cuộc thi để chọn ra thiết kế mã vạch tiêu chuẩn. Sau ba năm xem xét kỹ lưỡng sản phẩm của không ỉt công ty, thiết kế của IBM cuối cùng được chọn, sau đó được công nhận là chuẩn chung trong ngành bán lẻ. Vào ngày 26/6/1974, mã vạch UPC đầu tiên được quét thành công tại một cửa hàng tạp hóa ở Troy, Ohio, đánh dấu bước ngoặt lớn trong quá trình tự động hóa thương mại.
+
+Thế nhưng, khi xem xét mã vạch UPC, người kỹ sư Nhật Bản Masahiro Hara biết rằng nó vẫn chưa hoàn hảo. Dù đã trở thành tiêu chuẩn, mã vạch này chỉ có thể mã hóa thông tin theo một chiều duy nhất – từ trái qua phải, thông qua các vạch đen và trắng. Nếu mã vạch bị rách hay bị mờ đi dù chỉ một chút, máy quét sẽ không thể nhận diện được nó. Thêm vào đó, mã vạch này chỉ có thể chứa khoảng 20 ký tự, một dung lượng quá ít ỏi khi mà thông tin cần lưu trữ ngày càng nhiều.
+
+Masahiro Hara cùng nhóm của mình bắt tay vào nghiên cứu tạo ra một "mã vạch mới". Sau nhiều tháng thử nghiệm, họ đã phát triển thành công mã QR. Không giống như mã vạch truyền thống, mã QR có thể chứa đến 7.000 ký tự, nhanh gấp 10 lần trong việc giải mã, và có thể quét được ở mọi hướng.
+
+Theo đó, Masahiro Hara đã thiết kế một mã vạch hai chiều, hình vuông, thay vì những vạch dài một chiều như trước. Đây là bước tiến lớn, nhưng cũng không thiếu thử thách. Khi mã QR được in cùng với các văn bản khác, máy quét lại gặp khó khăn trong việc nhận diện.
+
+Trong một khoảnh khắc tình cờ trên chuyến tàu điện ngầm, qua cửa số, Masahiro Hara nhìn thấy những tòa nhà chọc trời nổi bật lên giữa bầu trời. Một ý tưởng lóe lên trong đầu người kỹ sư này, nếu các góc của mã vạch được làm nổi bật như những "dấu hiệu" đặc biệt, thì máy quét sẽ dễ dàng nhận ra mã ở bất kỳ hướng nào.
+
+Masahiro Hara không chần chừ, ông bắt tay vào thay đổi thiết kế. Ba hình vuông nhỏ được đặt ở ba góc của mã, mỗi hình vuông có tỷ lệ màu đen trắng đặc biệt. Thiết kế mới này khiến cho mã QR trở nên dễ nhận diện hơn bao giờ hết. Và một điều tuyệt vời hơn nữa là, mã QR có thể được quét ngay cả khi bị mờ, nhòe hay hư hỏng một phần – điều mà mã vạch truyền thống không thể làm được.
+
+Đặc biệt, mã QR có thể được quét từ nhiều góc độ và khoảng cách khác nhau, điều này cực kỳ hữu ích trong môi trường sản xuất, nơi các bộ phận máy móc có hình dạng đa dạng và không đồng đều.
+
+Khi Masahiro Hara bắt tay vào phát triển mã QR, ông không nghĩ rằng phát minh của mình sẽ thay đổi thế giới. Mã QR ban đầu được thiết kế để phục vụ ngành công nghiệp ô tô. Toyota, nhà sản xuất xe ô tô hàng đầu, đã nhận ra giá trị to lớn của nó. Họ bắt đầu ứng dụng mã QR trong các nhà máy để cải tiến quy trình sản xuất. Nhưng đó chỉ là bước đầu trong câu chuyện của mã QR.
+
+Sự phổ biến của mã QR thực sự bắt đầu khi Denso Wave (công ty mà Masahiro Hara làm việc), chủ sở hữu sáng chế, quyết định cung cấp công nghệ này miễn phí, không yêu cầu phí cấp phép. Một cột mốc quan trọng khác là vào năm 2000, khi mã QR chính thức được chứng nhận ISO tại Nhật Bản, đánh dấu bước chuyển lớn trong việc công nhận và ứng dụng rộng rãi công nghệ này.
+
+Mã QR sau đó nhanh chóng vươn mình sang mọi ngành nghề tại Nhật Bản, không chỉ trong công nghiệp mà còn trong những hoạt động tiêu dùng hàng ngày, từ thanh toán điện tử đến việc quản lý kho hàng và vô vàn ứng dụng khác.
+
+Vào khoảng những năm 2010, mã QR dường như đã bị lãng quên, mức độ áp dụng không như dự báo ban đầu. Mã QR từng được kỳ vọng sẽ thay đổi thế giới, giờ đây, tưởng chừng đã thành công nghệ lỗi thời. Mã QR từng được hy vọng sẽ thay đổi thế giới, thời điểm ấy chỉ còn được xem như công nghệ lỗi thời.
+
+Tuy nhiên, sự bùng nổ của điện thoại thông minh tại Trung Quốc đã mở ra cơ hội vàng cho mã QR. Người Trung Quốc bắt đầu sử dụng mã QR để thực hiện các giao dịch thanh toán di động, truy cập dịch vụ, nhận ưu đãi giảm giá, thậm chí xây dựng các ứng dụng mới dựa trên mã QR. WeChat là một ví dụ tiêu biểu, ứng dụng này đã tích hợp mã QR và tạo dựng một hệ sinh thái dịch vụ hoàn toàn mới, từ thanh toán đến tương tác xã hội.
+
+Chẳng mấy chốc, các quốc gia cũng nhận ra tiềm năng vô hạn của mã QR. Không chỉ dừng lại ở Trung Quốc, mã QR nhanh chóng được ứng dụng rộng rãi trên toàn cầu. Khi đại dịch bùng phát, mã QR càng chứng tỏ giá trị. Mã QR, từng bị xem là một công nghệ lỗi thời, đã “tái sinh” và hiện trở thành một phần không thể thiếu trong cuộc sống hàng ngày của hàng tỷ người, từ thanh toán đến kết nối với các dịch vụ trực tuyến.

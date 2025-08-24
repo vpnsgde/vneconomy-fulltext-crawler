@@ -1,0 +1,15 @@
+Theo thông cáo từ Foxconn, trung tâm này sẽ tích hợp nền tảng hạ tầng NVIDIA Blackwell mới nhất – dòng kiến trúc GPU tiên tiến được ví như “bộ não” của thời đại AI nhằm phục vụ cho các nhu cầu điện toán hiệu suất cao trong công nghiệp, chính phủ và giáo dục.
+
+Cùng với dự án này, Foxconn cũng thành lập một công ty con Big Innovation Company, đơn vị sẽ đảm nhiệm việc xây dựng và vận hành “nhà máy AI”.
+
+Đồng thời, doanh nghiệp này cũng trở thành đối tác đám mây Nvidia đầu tiên tại Đài Loan, đánh dấu một bước phát triển mới trong quan hệ hợp tác giữa hai tập đoàn công nghệ hàng đầu thế giới.
+
+“Nhà máy AI” của Foxconn sẽ được trang bị các hệ thống tính toán hàng đầu thế giới như Nvidia Blackwell Ultra, hệ thống GB300 NVL72 cùng với mạng NVLink, Quantum InfiniBand và Spectrum-X Ethernet. Đây là nền tảng hạ tầng có khả năng xử lý khối lượng dữ liệu khổng lồ, phục vụ cho ba định hướng chiến lược mà Foxconn đang theo đuổi: sản xuất thông minh, xe điện thông minh và thành phố thông minh.
+
+Từ phía NVIDIA, nhà sáng lập kiêm CEO Jensen Huang nhấn mạnh: “các nhà máy AI chính là hạ tầng cốt lõi của thời đại trí tuệ nhân tạo. Cùng với Foxconn, chúng tôi đang chung tay xây dựng một nền tảng công nghệ vững chắc cho Đài Loan, nơi hội tụ những doanh nghiệp điện tử và công nghệ hàng đầu thế giới”.
+
+Dự án cũng nhận được sự hưởng ứng từ phía TSMC, nhà sản xuất bán dẫn lớn nhất thế giới. Ông C.C. Wei, Chủ tịch kiêm CEO của TSMC, cho biết: “Hạ tầng AI tiên tiến này sẽ giúp các nhà nghiên cứu của chúng tôi rút ngắn thời gian nghiên cứu và phát triển công nghệ bán dẫn thế hệ mới, tạo ra những đột phá mang tính toàn cầu”.
+
+Gã khổng lồ trong lĩnh vực sản xuất chip AI, Nvidia, đang tích cực mở rộng hoạt động nghiên cứu và phát triển (R&D) trên toàn cầu. Chỉ mới tuần trước, nhiều nguồn tin cho biết Nvidia đang lên kế hoạch xây dựng một trung tâm R&D mới tại Thượng Hải (Trung Quốc).
+
+Song song đó, Nvidia cũng đang triển khai kế hoạch xây dựng hệ thống máy chủ AI trị giá hơn 500 tỷ USD tại Mỹ, với tham vọng thiết lập một chuỗi cung ứng hoàn chỉnh từ sản xuất chip silicon cho đến lắp ráp máy chủ ngay trong lãnh thổ Hoa Kỳ.

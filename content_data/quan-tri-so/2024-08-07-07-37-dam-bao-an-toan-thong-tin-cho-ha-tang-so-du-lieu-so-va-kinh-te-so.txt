@@ -1,0 +1,47 @@
+Hội thảo do Cục An toàn thông tin, Sở Thông tin và Truyền thông TP.HCM và Hiệp hội An toàn Thông tin Việt Nam – Chi hội phía nam (VNISA phía Nam) phối hợp đồng tổ chức dưới sự bảo trợ của Bộ Thông tin và Truyền thông và UBND TP.HCM.
+
+Đây là sự kiện quan trọng hằng năm thu hút sự quan tâm của giới khoa học công nghệ trong lĩnh vực công nghệ thông tin và an ninh mạng cũng như sự quan tâm của lãnh đạo các cơ quan, doanh nghiệp đang triển khai các ứng dụng chuyển đổi số, các cơ quan quản lý nhà nước.
+
+Năm 2024 chứng kiến sự phát triển vượt bậc của công nghệ thông tin, với sự bùng nổ của các ứng dụng trí tuệ nhân tạo (AI), Internet of Things (IoT) và 5G. Tuy nhiên, đi kèm với những cơ hội mới là những thách thức rất lớn về an toàn thông tin.
+
+Tại buổi họp báo chiều 6/8, Chủ tịch VNISA phía Nam Ngô Vi Đồng cho biết, các cuộc tấn công mạng trở nên tinh vi và phức tạp hơn, nhắm vào các hệ thống hạ tầng quan trọng, dữ liệu cá nhân và cơ sở dữ liệu của doanh nghiệp. Tình hình an toàn thông tin trở thành mối quan tâm hàng đầu của các chính phủ, doanh nghiệp và người dùng trên toàn cầu.
+
+Ngoài ra, chương trình Chuyển đổi số Quốc gia là một chương trình lớn của Việt Nam. Bộ Thông tin và Truyền thông đã thành lập Cục Chuyển đổi số từ tháng 10/2022. TP.HCM cũng đã quyết định thành lập Trung tâm Chuyển đổi số từ đầu năm 2024. Các bộ, ngành, địa phương, doanh nghiệp cũng hình thành các bộ phận chuyên trách về chuyển đổi số.
+
+“Có thể nói, một trong những bước đi chủ đạo hiện nay là tạo ra một xã hội số, kinh tế số và công dân số. Mặt khác, an toàn thông tin đã được công nhận như một trụ cột quan trọng, đóng vai trò quyết định cho việc chuyển đổi số thành công. Vì vậy, nội dung chính của hội thảo và triển lãm, các trao đổi, tọa đàm cũng xoay quanh các vấn đề của an toàn thông tin cho chuyển đổi số”, ông Đồng cho hay.
+
+Cụ thể, hội thảo xoay quanh những thảo luận như: An toàn trong giao dịch không tiền mặt; Bảo vệ các hệ thống công nghệ thông tin phục vụ chuyển đổi số của TP.HCM; Vai trò “nhạc trưởng” của các cơ quan quản lý nhà nước trong an toàn thông tin; Trí tuệ nhân tạo và học máy (AI/ML) trong việc tạo ra sản phẩm mới hoặc hỗ trợ các giải pháp truyền thống của an toàn thông tin; Xác thực trong bối cảnh tin tặc thông minh hơn; Xu hướng phổ cập và mở rộng của cộng đồng, nguồn nhân lực chất lượng cao an toàn thông tin…
+
+Đặc biệt, trong nửa đầu năm 2024, hàng loạt vụ tấn công ransomware (mã độc tống tiền) nổi lên mạnh mẽ đã nhắm vào các doanh nghiệp lớn tại Việt Nam, gây ra thiệt hại lớn đối với các doanh nghiệp và cộng đồng. Các cuộc tấn công này đã làm tê liệt hệ thống thông tin, gián đoạn hoạt động vận hành và kinh doanh, và gây ra tổn thất tài chính đáng kể.
+
+Thực tế, nhiều doanh nghiệp bị buộc phải trả khoản tiền chuộc lớn để lấy lại dữ liệu và khôi phục hệ thống, làm mất lòng tin của khách hàng và đối tác. Những thiệt hại không chỉ dừng lại ở kinh tế mà còn ảnh hưởng lâu dài đến uy tín và khả năng cạnh tranh của các doanh nghiệp Việt Nam trên thị trường quốc tế.
+
+Ví dụ gần đây nhất là sự cố “màn hình xanh chết chóc” tháng 7/2024 vừa qua đã gây ra gián đoạn một số lượng lớn các tổ chức do phụ thuộc nhiều vào điện toán đám mây và hệ điều hành. Đây được xem là hồi chuông cảnh báo cho sự mỏng manh dễ vỡ của công nghệ thông tin nói chung và chuyển đổi số nói riêng.
+
+Trong kỷ nguyên số, dữ liệu đã trở thành tài sản quý giá của tổ chức. Tuy nhiên, việc bảo vệ khối lượng dữ liệu khổng lồ này đang trở thành một thách thức lớn. Các vụ rò rỉ dữ liệu vẫn liên tục xảy ra, gây ra hậu quả nghiêm trọng và thiệt hại lớn về tài chính và uy tín doanh nghiệp.
+
+Năm 2024, các quy định về bảo vệ dữ liệu ngày càng được siết chặt trên toàn cầu và ở Việt Nam (Nghị định 13/2023/NĐ-CP về việc bảo vệ dữ liệu cá nhân). Các doanh nghiệp phải đối mặt với những yêu cầu nghiêm ngặt hơn về việc thu thập, lưu trữ và xử lý dữ liệu cá nhân. Điều này buộc các doanh nghiệp phải đầu tư vào các giải pháp bảo mật mạnh mẽ hơn để đảm bảo tuân thủ pháp luật và bảo vệ dữ liệu của khách hàng.
+
+Theo khảo sát của Chi hội VNISA phía nam, 10 điểm nổi bật nhất trong năm 2024:
+
+Một là,gần 200 ý kiến tham gia khảo sát của các doanh nghiệp, tổ chức, cơ quan nhà nước.
+
+Hai là,xu hướng nhận rõ vai trò quan trọng của việc xây dựng hệ thống quy định theo các chuẩn quốc tế hoặc Việt Nam được ghi nhận rõ trong khảo sát năm nay với 74% (so với 44% năm 2023) các tổ chức triển khai theo ISO 27000 hoặc tiêu chuẩn Việt Nam.
+
+Ba là,các tổ chức, doanh nghiệp hiểu được tầm quan trọng của an toàn thông tin cũng như việc phải đầu tư mạnh mẽ hơn cho an toàn thông tin. Có sự dịch chuyển từ 20% lên trên 50% về việc thuê ngoài dịch vụ giám sát an toàn thông tin để tối ưu chi phí.
+
+Bốn là,nhu cầu về đào tạo, đặc biệt là đào tạo nhận thức người dùng được các tổ chức quan tâm. Điều này cũng cho thấy việc rút kinh nghiệm kịp thời của các tổ chức từ các bài học thực tế trong thời gian qua, khi các tấn công mạng đều sử dụng con đường lừa đảo phi kỹ thuật và nằm vùng khá lâu trước khi hành động phá hoại.
+
+Năm là,tấn công có chủ đích, tấn công vì mục tiêu tài chính và tấn công từ nội bộ là những nỗi lo lớn nhất của các doanh nghiệp.
+
+Sáu là,tầm quan trọng của xây dựng quy trình chuẩn sẵn sàng xử lý sự cố. Quy trình chuẩn sẽ giúp tổ chức, doanh nghiệp không bị hoảng loạn và có những kế hoạch, bước đi dự phòng tốt. Tuy nhiên, vẫn có hơn 50% các tổ chức chưa quan tâm công tác này.
+
+Bảy là,sau nhiều năm, công tác đánh giá hệ thống công nghệ thông tin thông qua việc thuê các tổ chức thực hiện xâm nhập thử nghiệm, tìm kiếm sơ hở, đánh giá quy trình nhân lực đã trở thành quen thuộc và được nhiều tổ chức thực hiện.
+
+Tám là,phân loại cấp độ của hệ thống thông tin đã là một yêu cầu khá quen thuộc. Tuy nhiên việc triển khai thực hiện vẫn còn nhiều khó khăn với trên 50% các tổ chức chưa làm hoặc đã làm đánh giá nhưng chưa được phê duyệt.
+
+Chín là,chống lại mã độc tống tiền bằng sao lưu dữ liệu là cách làm hiệu quả. Tuy nhiên có tới 59% các tổ chức còn chưa thực hiện hoặc có vấn đề về sao lưu dữ liệu quan trọng.
+
+Mười là,biện pháp sử dụng bảo hiểm an ninh mạng để giảm thiệt hại khi bị tấn công chưa được phổ biến (với 61% tổ chức chưa biết về cách làm này). Một số đơn vị (13%) quan tâm nhưng chưa có đủ thông tin về biện pháp này.
+
+Bên cạnh sự kiện trung tâm là Hội thảo và Triển lãm An toàn thông tin khu vực phía Nam 2024 còn có chuỗi các hoạt động: Hội nghị lãnh đạo dành riêng cho lãnh đạo các cơ quan quản lý nhà nước và một số doanh nghiệp; Hội thảo khoa học về an toàn thông tin do Trung tâm 286 – Bộ Tư lệnh 86 phối hợp cùng VNISA chủ trì vào ngày 11/9; Diễn tập thực chiến an toàn thông tin TP.HCM dự kiến vào quý 4/2024; Cuộc thi sinh viên với an toàn thông tin ASEAN 2024 do VNISA phối hợp cùng Bộ Giáo dục và Đào tạo tổ chức vào 19/10/2024 tại TP.HCM…

@@ -1,0 +1,13 @@
+Đạo luật Thị trường Kỹ thuật số (DMA) là luật chống độc quyền đầu tiên được các cơ quan quản lý EU soạn thảo nhằm nhằm giám sát các công ty công nghệ lớn. Trong quy định, EU yêu cầu các nhà phát triển ứng dụng phải thông báo cho người dùng về các lựa chọn thay thế rẻ hơn bên ngoài cửa hàng ứng dụng.
+
+Thông cáo báo chí từ Uỷ ban Châu Âu (EC) cho biết: "Ủy ban Châu Âu đã thông báo cho Apple sơ bộ rằng các quy tắc của App Store của họ vi phạm Đạo luật Thị trường Kỹ thuật số (DMA), vì chúng ngăn cản các nhà phát triển ứng dụng tự do hướng người tiêu dùng đến các kênh thay thế cho các ưu đãi và nội dung”.
+
+Theo tờ Washington Post, Liên minh châu Âu cho biết họ đã mở một cuộc điều tra mới về các điều khoản hợp đồng của Apple với các nhà phát triển. Cụ thể, họ đang xem xét khoản phí 0,5 euro mà các nhà phát triển phải trả cho mỗi ứng dụng được cài đặt và chương trình thành viên Apple dành cho nhà phát triển. Các khoản phí này được cho là không đáp ứng với quy định quản lý của khu vực.
+
+“Ủy ban lo ngại các yêu cầu của Apple đối với các nhà phát triển ứng dụng và cửa hàng ứng dụng của bên thứ ba, bao gồm phí công nghệ cốt lõi (CTF) mới của Apple không đảm bảo tuân thủ hiệu quả các nghĩa vụ của Apple theo DMA", thông cáo báo chí viết.
+
+“Các cơ quan quản lý châu Âu đã nói rõ rằng Apple phải cải tổ toàn bộ và có thể phải loại bỏ hầu hết các khoản phí áp dụng cho các nhà phát triển”, Gene Kimmelman, Cựu phó Bộ trưởng của Bộ Tư pháp Mỹ cho biết. “Quy định phí hiện tại của Apple sẽ không đủ để làm hài lòng các nhà quản lý”.
+
+Apple vẫn còn cơ hội xoay chuyển tình thế trước khi Ủy ban Châu Âu có phán quyết cuối cùng vào tháng 3/2025. Nếu kháng cáo thất bại, Apple có thể bị phạt tới 10% doanh thu tổng doanh thu toàn cầu, tương đương khoảng 38 USD tỷ dựa trên doanh thu năm 2023 (383,3 tỷ USD). Và mức phạt này có thể nâng lên 20% đối với trường hợp vi phạm nhiều lần.
+
+Đầu năm nay, Apple đã bị các cơ quan quản lý chống độc quyền của EU phạt 1,84 tỷ euro (khoảng 2 tỷ USD) vì bị Spotify nộp đơn khiếu nại về việc Apple cấm các nhà phát triển ứng dụng phát nhạc trực tuyến thông báo đầy đủ cho người dùng iOS về các dịch vụ đăng ký nhạc thay thế và rẻ hơn có sẵn bên ngoài ứng dụng.

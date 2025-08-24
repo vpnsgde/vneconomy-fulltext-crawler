@@ -1,0 +1,15 @@
+Katalon cung cấp nền tảng hỗ trợ kiểm thử phần mềm tự động (Software Automation Testing), giúp các doanh nghiệp đang phát triển ứng dụng có thể tối ưu việc kiểm thử tự động để hoàn thiện và phát hành phần mềm nhanh hơn.
+
+
+
+Hiện Katalon là công ty công nghệ toàn cầu với nhân sự đa quốc tịch, được vận hành bởi đội ngũ lãnh đạo, kỹ sư, chuyên viên kinh doanh và marketing, làm việc tại Việt Nam, Mỹ và một số quốc gia khác.
+
+Ông Lâm Quốc Vũ, Nhà sáng lập kiêm Giám đốc điều hành KMS Technology và Katalon, cho biết: Khoản đầu tư này đến từ quỹ Elephant Partners cùng một số nhà đầu tư cá nhân lớn tại Mỹ, đều là những tên tuổi đầu ngành trong lĩnh vực đầu tư sản phẩm công nghệ và bảo mật.
+
+Katalon do đội ngũ lãnh đạo KMS Technology sáng lập và điều hành từ năm 2015. Công ty này cũng vừa cho ra mắt nền tảng mới mang tên TestOps, giúp tối ưu hóa quy trình kiểm thử liên tục (continuous testing).
+
+Được biết, hai năm liên tiếp nằm trong danh sách bình chọn của khách hàng toàn cầu do Gartner công bố, Katalon giữ vị trí đầu bảng xếp hạng năm 2020, vượt qua những ông lớn như Parasoft, Broadcom, Tricentis… Hiện, hơn 100.000 doanh nghiệp trên toàn cầu đang sử dụng nền tảng hỗ trợ kiểm thử phần mềm tự động Katalon.
+
+Đội ngũ kỹ thuật Katalon cho biết đang nghiên cứu phát triển các tính năng mới giúp việc kiểm thử phần mềm hiệu quả hơn thông qua việc ứng dụng trí tuệ nhân tạo (AI) - được coi là tương lai của thử nghiệm tự động hóa và sẽ đóng một vai trò lớn trong việc khai thác, tạo dữ liệu trong tương lai.
+
+Sự kết hợp của AI và học máy (Machine Learning/ML) sẽ được sử dụng rộng rãi hơn để làm cho kiểm thử tự động tốt hơn, đẩy nhanh quá trình tự động hóa thử nghiệm. AI và ML sẽ trở thành một phần không thể thiếu trong quá trình tạo thử nghiệm và thực hiện thử nghiệm.

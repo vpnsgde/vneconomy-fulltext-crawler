@@ -1,0 +1,31 @@
+Nhằm giúp khách hàng thực hiện các giao dịch tài chính liên tục, thông suốt và bảo mật sau khi Quyết định 2345/QĐ-NHNN của Ngân hàng Nhà nước có hiệu lực từ 1/7/2024, SHB chính thức triển khai cập nhật và bổ sung dữ liệu sinh trắc học từ thẻ căn cước công dân (CCCD) gắn chíp để bảo vệ an toàn tài khoản và đối chiếu với cơ sở dữ liệu của Bộ Công an.
+
+Cụ thể, ngay từ lúc này, khách hàng có thể bắt đầu bổ sung thông tin sinh trắc học (khuôn mặt) tại các điểm giao dịch hoặc trên ứng dụng ngân hàng điện tử và đồng bộ với dữ liệu được lưu trong chíp trên CCCD. Việc cập nhật sớm thông tin sinh trắc học từ trước thời điểm Quyết định 2345 có hiệu lực sẽ giúp khách hàng tăng cường bảo mật, chủ động các kế hoạch tài chính và tránh ảnh hưởng giao dịch trong tương lai.
+
+Khách hàng cần chuẩn bị thẻ CCCD gắn chip và truy cập ứng dụng SHB Mobile/SHB SAHA phiên bản mới nhất để thực hiện cài đặt dễ dàng với 5 bước sau đây:
+
+- Tải/cập nhật ứng dụng, đăng nhập và chọn “Xem thêm” tại thông báo trên màn hình trang chủ;
+
+- Chụp hình CCCD gắn chíp;
+
+- Đọc thẻ chíp trên CCCD;
+
+- Xác thực khuôn mặt theo hướng dẫn;
+
+- Hoàn tất đăng ký thông tin sinh trắc học.
+
+Ngoài ra, khách hàng có thể trực tiếp xác thực tại tất cả điểm giao dịch, chi nhánh của SHB trên toàn quốc.
+
+Khách hàng lưu ý chỉ cập nhật dữ liệu sinh trắc học thông qua ứng dụng ngân hàng điện tử SHB Mobile/SHB SAHA hoặc trực tiếp tại các điểm giao dịch SHB trên toàn quốc. Đồng thời, khách cũng có thể liên hệ Trung tâm CSKH 24/7 qua hotline *6688 để được tư vấn.
+
+Để tránh rủi ro giả mạo, lừa đảo, khách hàng vui lòng KHÔNG cập nhật dữ liệu sinh trắc học qua bất kỳ trang web hay ứng dụng khác. SHB không yêu cầu khách hàng cung cấp OTP, mật khẩu, số thẻ, mã khóa bảo mật hoặc bất kỳ thông tin cá nhân qua điện thoại hoặc qua đường link.
+
+Theo Quyết định 2345/QĐ-NHNN, bắt đầu từ ngày 1/7/2024, các giao dịch như chuyển tiền qua tài khoản, nạp tiền vào ví điện tử... trên 10 triệu đồng/lần; hoặc dưới 10 triệu đồng/lần nhưng tổng số tiền các giao dịch trong ngày từ 20 triệu đồng trở lên, thì lần chuyển tiếp theo trong ngày đó phải thực hiện xác thực bằng sinh trắc học. Các giao dịch chuyển tiền dưới 10 triệu đồng/lần hoặc tổng giá trị giao dịch không quá 20 triệu đồng/ngày thì xác thực bằng mã Smart OTP như thông thường.
+
+Ngoài ra, theo Điều 2 của Quyết định 2345, khách hàng cá nhân trước khi giao dịch lần đầu bằng ứng dụng ngân hàng điện tử (mobile banking) hoặc trước khi giao dịch trên thiết bị khác với thiết bị đang giao dịch lần gần nhất, cũng phải được nhận dạng sinh trắc học.
+
+Đại diện SHB cho biết, dữ liệu về sinh trắc học khuôn mặt có độ bảo mật cao, phù hợp với xu hướng chuyển đổi số trên thế giới và Việt Nam hiện nay khi các giao dịch điện tử được mở rộng. Đây cũng là một trong những giải pháp tiên tiến, đảm bảo an toàn, cần thiết trong thời điểm các vụ gian lận và lừa đảo giao dịch có dấu hiệu tăng mạnh, đồng thời được xem là đòn bẩy thúc đẩy các ngân hàng nhanh chóng triển khai những giải pháp ứng dụng công nghệ AI liên quan đến nhận diện sinh trắc học nhằm tuân thủ và đơn giản hóa quy trình định danh khách hàng.
+
+“Việc sớm thu thập thông tin sinh trắc học của khách hàng nhằm mục tiêu đảm bảo trải nghiệm thuận tiện, liền mạch và liên tục trên các nền tảng số cũng như tăng cường bảo mật, bảo vệ khách hàng trong các giao dịch chuyển tiền, đáp ứng Quyết định 2345 của NHNN. Chúng tôi kỳ vọng và tin tưởng Quyết định mới sẽ là một trong những biện pháp xác thực quan trọng góp phần bảo vệ an toàn tiền gửi của khách hàng trong hệ thống tín dụng”, vị đại diện nhấn mạnh.
+
+Là một trong 4 ngân hàng tư nhân lớn nhất Việt Nam với trên 92% số lượng giao dịch toàn hàng thực hiện trên kênh số, SHB nhận thấy sự cấp thiết của việc thực thi Quyết định 2345 để bảo vệ khách hàng khi giao dịch trực tuyến.

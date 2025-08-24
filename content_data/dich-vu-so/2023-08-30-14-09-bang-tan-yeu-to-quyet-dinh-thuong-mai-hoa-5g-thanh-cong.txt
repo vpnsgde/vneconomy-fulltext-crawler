@@ -1,0 +1,77 @@
+Theo các chuyên gia, để triển khai 5G thành công ở Việt Nam phải hội tụ đủ các yếu tố hạ tầng mạng lưới, trong đó có giấy phép, băng tần và sự sẵn sàng của hệ sinh thái thiết bị, các ứng dụng. Việt Nam chưa cấp phép tần số cho các nhà mạng chính thức triển khai 5G.
+
+5G được xác định là hạ tầng quan trọng cho thúc đẩy chuyển đổi số, phát triển kinh tế số, phục vụ nhu cầu kết nối IoT, phát triển thông minh. Vừa qua, Bộ Thông tin và Truyền thông thực hiện đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 2300-2400 MHz với 3 khối băng tần A1(2300-2330 MHz), A2 (2330-2360 MHz), A3 (2360-2390 MHz) (dùng cho 4G và 5G). Theo đó mỗi khối băng tần có giá khởi điểm 5.798 tỷ đồng và thời hạn sử dụng 15 năm. Đến hết thời hạn nộp hồ sơ đăng ký tham gia đấu giá, không có doanh nghiệp nộp hồ sơ và nộp tiền đặt trước đăng ký tham gia.
+
+Hiện nay, công nghệ 5G đang phát triển rất mạnh trên thế giới với 247 nhà mạng tại khoảng 100 quốc gia đã triển khai và khoảng 270 nhà mạng khác đang đầu tư chuẩn bị đưa công nghệ 5G đến với người dùng. Dự kiến đến hết năm 2023 sẽ có thêm 30 thị trường tham gia vào sân chơi 5G.
+
+Ở Việt Nam, Bộ Thông tin và Truyền thông đã cấp phép triển khai thử nghiệm 5G cho 3 nhà mạng (Viettel, VNPT, MobiFone) tại 40 tỉnh, thành phố trực thuộc Trung ương. Cơ quan quản lý khuyến khích các doanh nghiệp thử nghiệm các ứng dụng của 5G, đánh giá nhu cầu thị trường và phương án kỹ thuật để xây dựng mô hình kinh doanh hiệu quả nhất khi được cấp phép chính thức.
+
+Tại thời điểm năm 2022, một số nhà mạng cho rằng chưa đủ điều kiện để thương mại hóa 5G do hạn chế về băng tần, phát triển hệ sinh thái 5G và chi phí triển khai lớn.
+
+Nhìn nhận các yếu tố trên, tại Tọa đàm trực tuyến với chủ đề “Phát triển mạng 5G Make in Vietnam và cơ hội thúc đẩy thương mại hóa 5G” do Tạp chí Kinh tế Việt Nam/VnEconomy vừa tổ chức, ông Đoàn Quang Hoan, Phó Chủ tịch Hội Vô tuyến- Điện tử Việt Nam, nguyên Cục trưởng Cục Tần số vô tuyến điện, Bộ Thông tin và Truyền thông cho rằng để triển khai một mạng viễn thông di động thế hệ mới có hiệu quả, cần phải có thời gian chuẩn bị cho tất cả các bên liên quan cũng như thị trường đủ chín muồi, đảm bảo hiệu quả kinh tế cao nhất khi triển khai.
+
+
+
+Ông Đoàn Quang Hoan nhìn nhận so với 97 nước đã triển khai thương mại 5G, Việt Nam có thể hơi chậm. Trong khu vực Đông Nam Á, nhiều nước như Thái Lan, Singapore, Philippines, Malaysia… cũng đã triển khai 5G. Tuy nhiên, nếu so với yêu cầu có ứng dụng, thiết bị giá thành hợp lý, có người dùng và đạt hiệu quả kinh tế cao thì điều này là hoàn toàn phù hợp.
+
+Để đồng bộ với sự phát triển, việc thúc đẩy 5G là rất cần thiết. Hầu hết các ý kiến đều khẳng định, đây là thời điểm thuận lợi, chín muồi để có thể triển khai thương mại hóa 5G ở Việt Nam trong năm 2023 và đầu năm 2024.
+
+Thực tế đến nay, Việt Nam vẫn chưa thương mại hóa mạng 5G do chưa cấp phép tần số cho các doanh nghiệp chính thức triển khai 5G. Ông Thiều Phương Nam, Tổng Giám đốc Qualcomm tại Việt Nam, Lào và Campuchia, cho rằng để triển khai 5G thành công ở Việt Nam phải hội tụ đủ 3 yếu tố trong đó có hạ tầng mạng lưới (tài nguyên băng tần), thiết bị và ứng dụng.
+
+Nếu 3G và 4G là băng tần tầm trung và thấp thì 5G là những ứng dụng dùng băng tần cao. Với băng tần cao, dải băng tần lớn, đáp ứng nhu cầu đòi hỏi cần tốc độ cao, độ trễ thấp. Khi chính sách có đủ cho các dải băng tần sẽ tạo điều kiện thuận lợi hơn cho nhà mạng triển khai 5G tại Việt Nam.
+
+Đối thoại với chủ đề “phát triển mạng 5G Make in Vietnam và cơ hội thúc đẩy thương mại hóa 5G” diễn ra lúc 9 giờ sáng 25/8/2023 trên nền tảng điện tử VnEconomy và Fanpage VnEconomy...
+
+Từ góc nhìn của chuyên gia tần số, ông Hoan chia sẻ mặc dù độ sẵn sàng của tần số đã có từ rất sớm nhưng vì nhiều lý do mà quá trình cấp phép bị chậm. Đơn cử như băng tần 2,6 GHz- băng tần quý hiếm nhất cho 5G đã được giải phóng và quy hoạch từ đầu những năm 2000.
+
+Ông Hoan cho biết, tháng 5/2017 đã hoàn thành quá trình thẩm định giá, hồ sơ mời đấu giá và đã ký thông báo gửi các nhà mạng sẽ phát hồ sơ mời đấu giá vào tháng 6/2017, nhưng quá trình cấp phép băng tần này đã bị dừng lại từ đó đến nay.
+
+Các băng tần khác cũng rất có ý nghĩa cho 5G như băng tần 700 MHz đã hoàn thành số hóa truyền hình để giải phóng từ rất sớm. Với băng tần 3,5 GHz, sau thời hạn của vệ tinh VinaSat1, cơ quan quản lý đã có giải pháp để sử dụng băng tần này cho mạng 5G.
+
+Vừa qua, Bộ Thông tin và Truyền thông thực hiện đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 2,3 GHz nhưng đến hết thời hạn nộp hồ sơ đăng ký tham gia đấu giá, không có doanh nghiệp nào nộp hồ sơ và nộp tiền đặt trước. Chuyên gia tần số nhận xét, đây là điều đáng tiếc nhưng hoàn toàn hợp lý.
+
+Theo ông Hoan, mục tiêu đầu tiên của việc đấu giá băng tần là minh bạch hóa việc cấp phép. Khối lượng băng tần có hạn, trong khi đó có nhiều doanh nghiệp tham gia nên rất khó để lựa chọn cấp cho doanh nghiệp nào và không cấp cho doanh nghiệp nào. Chính yêu cầu minh bạch hóa đòi hỏi phải đấu giá băng tần.
+
+Đặc biệt tại thời điểm xây dựng Luật Tần số vô tuyến điện năm 2009, xu hướng cổ phần hóa, cũng như xu hướng các nhà mạng, hình thành thị trường hoàn chỉnh, đầy đủ, bao gồm cả thành phần kinh tế tư nhân và thành phần kinh tế nước ngoài, do đó để cấp phép, phải thực hiện đấu giá sẽ là phương án tốt nhất, vị chuyên gia này cho biết.
+
+Trước đây, việc cấp phép 3G đã vận dụng hình thức thi tuyển và điểm chốt vẫn là nộp tiền đặt cọc, bảo lãnh, dự thầu lớn sẽ trúng. Điều này thể hiện được năng lực tài chính của các nhà mạng để triển khai sau khi được cấp phép, không gây lãng phí băng tần. Vì vậy, vấn đề đấu giá băng tần đã được đề cập quy định trong luật tần số.
+
+
+
+Ngoài ra, việc đấu giá cũng nhằm thu trước một phần giá trị tần số cho ngân sách. Ông Hoan phân tích, giá trị của tần số không chỉ thu qua đấu giá hoặc phí mà còn nằm ở giá trị mang lại khi sử dụng trong tất cả các ngành kinh tế, giá trị dịch vụ, thuế giá trị gia tăng… Điều quan trọng hơn là lợi ích mang lại cho các đối tượng sử dụng các dịch vụ có băng tần.
+
+Chuyên gia này nhận xét quy định về giá băng tần hơi cao, nên khi tổ chức đấu giá, các nhà mạng Việt Nam không nộp hồ sơ và nộp tiền đặt trước đăng ký tham gia.
+
+Bên cạnh việc xây dựng cách tính giá khởi điểm của băng tần một cách phù hợp để các doanh nghiệp tham gia, cách tổ chức đấu giá phải thể hiện để thị trường quyết định một cách hợp lý.
+
+Với việc cơ quan quản lý sửa đổi, thông qua cách tính giá khởi điểm đấu giá tần số, chuyên gia này hy vọng trước cuối năm nay, việc đấu giá băng tần 5G để cấp phép cho các nhà mạng sẽ thành công.
+
+Đánh giá cao công tác quy hoạch băng tần cho 3G, 4G và 5G phù hợp ở Việt Nam, ông Thiều Phương Nam khẳng định, điều này sẽ tạo thuận lợi cho các nhà mạng khi triển khai dịch vụ, tiết kiệm chi phí, hiệu quả thương mại hóa thành công sẽ cao…
+
+Theo ông Nam, nhiều quốc gia đã đấu giá băng tần với các công thức tính giá khác nhau, trong đó có những quốc gia điều kiện tương đồng mà Việt Nam có thể tham khảo kinh nghiệm để có thông tin khi đưa ra công thức tính giá băng tần.
+
+Ở nhiều quốc gia, khi đấu giá băng tần, mục tiêu quan trọng nhất không phải là thu tiền của các nhà mạng, mà tìm cách tạo điều kiện cho các nhà mạng triển khai dịch vụ thành công. Nếu thu quá cao, các nhà mạng sẽ mất nhiều chi phí cho băng tần, khi đó giá thành dịch vụ sẽ cao. Do đó, điều cần thiết và quan trọng nhất là có băng tần thuận lợi, phù hợp với hệ sinh thái thiết bị và có mức chi phí hợp lý để các nhà mạng triển khai dịch vụ thành công, ông Nam phân tích.
+
+Từ góc độ nhà mạng, ông Lê Bá Tân, Giám đốc Kỹ thuật, Tập đoàn công nghiệp- viễn thông Quân đội (Viettel), cho biết qua theo dõi và phối hợp với cơ quan quản lý nhà nước trong xây dựng cơ chế chính sách, doanh nghiệp nhận thấy Bộ Thông tin và Truyền thông đã và đang quyết liệt, nỗ lực thực hiện nhiều chính sách đồng bộ như Luật Tần số, Luật Viễn thông, Nghị định hướng dẫn Luật Tần số sửa đổi, các Thông tư về quy hoạch băng tần quan trọng để triển khai 5G và nâng cao chất lượng mạng 4G với mục tiêu phấn đấu sẽ cấp phát các băng tần trong năm nay.
+
+Bộ cũng đã đồng bộ các chính sách nghiên cứu tiềm năng, điều kiện để triển khai hạ tầng mạng lưới ở Việt Nam; các tiêu chuẩn, quy chuẩn chất lượng dịch vụ 5G và thiết bị đầu cuối đảm bảo đủ các tính năng tiêu chuẩn, tận dụng hết công nghệ hạ tầng mạng lưới, hỗ trợ phù hợp tất cả các băng tần, phục vụ nhu cầu người dùng.
+
+Như vậy, đối với việc cấp phát tần số, Bộ đã nghiên cứu rất kỹ lưỡng trong thời gian qua và đồng bộ các chính sách, giải pháp để triển khai thành công mạng di động 5G.
+
+Doanh nghiệp tin tưởng quá trình cấp phát tần số sẽ đảm bảo đầy đủ cho các nhà mạng có thể sử dụng. Các doanh nghiệp tham gia đấu giá để có được băng tần mong muốn, phù hợp với chiến lược của đơn vị.
+
+Với các chính sách đồng bộ, chi phí các nhà mạng tham gia đấu giá sẽ ở mức phù hợp. Ngoài ra, khi điều kiện thời điểm đã ở mức độ chín muồi, chi phí thiết bị rẻ hơn, việc triển khai sẽ thuận lợi hơn, phổ cập nhanh hơn.
+
+Đại diện Viettel nhìn nhận cuối năm 2023, sang năm 2024, khi được cấp phép, các nhà mạng ở Việt Nam sẽ bắt đầu thương mại hóa dịch vụ 5G trên toàn quốc. Theo đó, trước mắt sẽ phủ ở các thành phố lớn, các trung tâm tỉnh, khu công nghiệp, sau đó dần phát triển rộng khắp.
+
+
+
+Kế hoạch mục tiêu hướng đến cuối thập kỷ này, Việt Nam sẽ hình thành mạng 5G có độ phủ rộng lớn trên cả nước như mạng 4G hiện nay. Để đảm bảo triển khai mạng, cần chuẩn bị các điều kiện rất khẩn trương, tỉ mỉ, kỹ càng.
+
+Vấn đề băng tần đã được Bộ Thông tin và Truyền thông quyết tâm thúc đẩy triển khai trong thời gian qua để cuối năm 2023 sẽ cấp phép các băng tần 5G cho các nhà mạng triển khai thương mại hóa. Phó Chủ tịch Hội Vô tuyến điện tử hy vọng quyết tâm này sẽ sớm thành hiện thực.
+
+Theo ông Thiều Phương Nam, cuối năm nay và đầu sang năm, dịch vụ 5G sẽ phát triển mạnh ở Việt Nam. Về thiết bị đầu cuối, khi có mạng lưới, các nhà sản xuất thiết bị sẽ mở 5G. Với việc giá thành thiết bị đã xuống thấp, khi Việt Nam triển khai thương mại 5G cuối năm nay hoặc đầu sang năm, tốc độ sử dụng của người dân sẽ tăng rất nhanh.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 35-2023 phát hành ngày 28-08-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

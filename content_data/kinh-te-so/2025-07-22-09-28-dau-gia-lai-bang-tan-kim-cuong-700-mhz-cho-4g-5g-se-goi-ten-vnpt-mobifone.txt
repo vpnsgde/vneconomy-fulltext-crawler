@@ -1,0 +1,21 @@
+Bộ Khoa học và Công nghệ vừa ban hành quyết định phê duyệt phương án đấu giá lại quyền sử dụng tần số vô tuyến điện đối với băng tần 703-713 MHz và 758-768 MHz (khối băng tần B1-B1’) và băng tần 723-733 MHz và 778-788 MHz (khối băng tần B3-B3’).
+
+Khối băng tần B1-B1' và B3-B3' đều có giá khởi điểm hơn 1.955 tỷ đồng, được quy hoạch để triển khai hệ thống thông tin di động theo tiêu chuẩn IMT-Advanced (4G) và các phiên bản tiếp theo. Các khối băng tần trên có thời hạn sử dụng là 15 năm.
+
+Trong thời hạn 30 ngày kể từ ngày Bộ Khoa học và Công nghệ thông báo công khai phương án tổ chức đấu giá, tổ chức muốn tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 703-713 MHz và 758-768 MHz (khối băng tần B1-B1') và băng tần 723-733 MHz và 778-788 MHz (khối băng tần B3-B3') phải nộp hồ sơ đề nghị xác nhận đáp ứng điều kiện tham gia đấu giá tới Cục Viễn thông.
+
+Doanh nghiệp có thể nộp hồ sơ thông qua hệ thống dịch vụ công trực tuyến, qua đường bưu chính hoặc nộp trực tiếp. Các hồ sơ nộp không đúng thời hạn trên sẽ không được tiếp nhận và giải quyết.
+
+Doanh nghiệp đã trúng giá khối băng tần B2-B2’ (713-723 MHz và 768-778 MHz) không được tham gia đấu giá hai khối này. Ngoài ra, các doanh nghiệp phải tuân thủ nghĩa vụ tài chính, như đặt cọc trước theo quy định là 100 tỷ đồng. Bước giá của mỗi khối băng tần là 20 tỷ đồng.
+
+Từ cuối năm 2024, Cục Tần số vô tuyến điện (Bộ Thông tin và Truyền thông) nay là Bộ Khoa học và Công nghệ, đã thông báo tổ chức đấu giá khối băng tần B1-B1' (703-713 MHz và 758-768 MHz), khối băng tần B2-B2' (713-723 MHz và 768-778 MHz) và khối băng tần B3-B3' (723-733 MHz và 778-788 MHz).
+
+Đầu năm 2025, Bộ tổ chức ba đợt đấu giá ba khối băng tần B1-B1’, B2-B2’, B3-B3’. Tuy nhiên, cuộc đấu giá đã không diễn ra do chỉ có một doanh nghiệp tham gia nộp tiền đặt trước.
+
+Đến ngày 20/5/2025, bộ quản lý đã thực hiện lại phiên đấu giá khối băng tần B2-B2’ (713-723 MHz và 768-778 MHz). Tại phiên này giá có sự tham gia của hai doanh nghiệp là Tập đoàn Công nghiệp - Viễn thông quân đội (Viettel) và Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT).
+
+Giá khởi điểm của khối B2-B2' là 1.955.613.000.000 đồng, được thực hiện bằng cách bỏ phiếu trực tiếp nhiều vòng, với bước giá 20 tỷ đồng. Sau hai vòng đấu giá, tập đoàn Viettel đã trúng giá khối băng tần B2-B2’ này.
+
+Như vậy, với việc thực hiện đấu giá lại băng tần 703-713 MHz và 758-768 MHz (khối băng tần B1-B1’) và băng tần 723-733 MHz và 778-788 MHz (khối băng tần B3-B3’), cùng việc Viettel đã trúng khối băng tần B2-B2’ trước đó và không được tham gia đấu giá hai khối này, thì rất có thể chủ nhân của các khối băng tần B1-B1’ và B3-B3’ sẽ là một trong hai nhà mạng lớn VNPT hoặc MobiFone.
+
+Tất nhiên, cũng có thể không có doanh nghiệp nào sở hữu băng tần nếu việc đấu giá không đảm bảo theo quy định (nếu chỉ có một doanh nghiệp bỏ giá như lần đầu) hoặc không doanh nghiệp nào tham gia đấu giá.

@@ -1,0 +1,39 @@
+Tại buổi họp báo thường kỳ tháng 9 diễn ra chiều ngày 6/9/2023, Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long cho biết, trong thời gian qua, Bộ đã triển khai nhiều biện pháp quyết liệt để xử lý thông tin thuê bao, thuê bao không chính chủ.
+
+Trước kia, khi chưa có cơ sở dữ liệu quốc gia về dân cư, Bộ Thông tin và truyền thông chưa có thước đo nhằm kiểm tra thông tin thuê bao nghi ngờ của người sử dụng có chính xác hay không mà thông qua đối chiều hình ảnh chứng minh thư để xử lý. Do đó, trong nhiều năm qua, việc xử lý vấn đề này vẫn chưa hiệu quả.
+
+Điều này đã thay đổi khi Bộ Công an có Cơ sở dữ liệu Quốc gia về dân cư, xây dựng hệ thống cho phép kết nối, đối soát thông tin. Đây là căn cứ để các doanh nghiệp viễn thông tiến hành đối soát thông tin thuê bao sai lệch, nghi ngờ giả mạo, thuê bao có giấy tờ hết hạn đăng ký…
+
+Qua quá trình đối soát với Cơ sở dữ liệu Quốc gia về dân cư, Bộ Thông tin và Truyền thông đã xử lý 19,6 triệu thuê bao có thông tin không trùng khớp (gồm cả thuê bao sở hữu trên 10 sim). Sau đó, khách hàng đã đến các nhà mạng chuẩn hóa, cập nhật lại thông tin thuê bao chính chủ là 7,15 triệu thuê bao.
+
+Đến nay, các doanh nghiệp viễn thông đã xử lý 12,5 triệu SIM không chính chủ trên hệ thống, khóa 1 chiều, 2 chiều. Đây là các SIM mà chủ thuê bao không tiến hành cập nhật, chuẩn hóa lại thông tin dù đã quá thời hạn.
+
+Trong đợt rà soát vừa qua, tính đến ngày 31/8, các nhà mạng đã rà soát có khoảng 8,6 triệu thuê bao là trường hợp đứng tên trên 10 sim. Trong đó, đã có 3,6 triệu thuê bao đến cam kết, chuẩn hóa lại thông tin; số còn lại khoảng trên 5 triệu sim đã bị khóa 1 chiều, 2 chiều và thu hồi.
+
+Số liệu của Bộ Thông tin và Truyền thông cho thấy, hàng tháng hiện có 1,5 triệu thuê bao mới xuất hiện trên thị trường. Cơ bản các thuê bao mới đều đã được đối soát với Cơ sở dữ liệu Quốc gia về dân cư.
+
+Thực tế hiện nay, 3 nhà mạng lớn là Viettel, VNPT, MobiFone đang chiếm 85% thuê bao phát triển mới. Các nhà mạng này đã kết nối online trực tiếp tới Cơ sở dữ liệu Quốc gia về dân cư. Điều này đồng nghĩa khi phát triển thuê bao mới ở các nhà mạng này sẽ được đối soát online thông tin, hình ảnh nếu khớp với Cơ sở dữ liệu Quốc gia về dân cư, thuê bao mới được chấp nhận.
+
+Còn 15% thuê bao phát triển mới hàng tháng ở các nhà mạng như Vietnamobile và các mạng ảo MVNO chưa kết nối được với Cơ sở dữ liệu Quốc gia về dân cư. Tuy nhiên, định kỳ hàng tháng, các nhà mạng này sẽ phải gửi số liệu về thuê bao mới đến Bộ để thực hiện đối soát thông tin. Trong trường hợp nếu sau khi đối soát, thông tin thuê bao mới không đúng với Cơ sở dữ liệu Quốc gia về dân cư, thuê bao sẽ bị xóa khỏi mạng.
+
+Đại diện Bộ Thông tin và Truyền thông khẳng định, đến nay, tất cả các thuê bao đăng ký mới đều được đối soát thông tin với cơ sở dữ liệu quốc gia về dân cư.
+
+Câu hỏi đặt ra, liệu 100% các thuê bao đã được đối soát có hoàn toàn chính chủ hay không? Làm rõ vấn đề này, ông Long nêu thực tế hiện có tình trạng rất nhiều người sẵn sàng đứng hộ tên để đăng ký thuê bao. Điều này dẫn đến một thuê bao khi kiểm tra, đối soát với cơ sở dữ liệu quốc gia về dân cư vẫn có thông tin chính xác, đăng ký thật, tên tuổi, địa chỉ thật nhưng sau khi đăng ký đã được bán cho người khác sử dụng. Do vậy, hiện nay vẫn có nhiều sim không chính chủ. Điều này lý giải vì sao người dùng vẫn có thể mua được sim có sẵn trên thị trường một cách dễ dàng.
+
+Theo thống kê, có tới 80% trong số 1,5 triệu sim mới ra thị trường hàng tháng được phát hành thông qua kênh đại lý ủy quyền của nhà mạng; 10% sim được bán trực tiếp từ nhà mạng (cửa hàng giao dịch của nhà mạng…) và 10% qua kênh chuỗi (là các hệ thống bán lẻ điện thoại lớn.
+
+Qua thanh tra cho thấy, cơ bản các sim này được đại lý bán ra thông qua thuê người đăng ký đứng tên, có đầy đủ thông tin chính xác. Bộ Thông tin và Truyền thông đã làm việc với các nhà mạng yêu cầu chấn chỉnh vấn đề này.
+
+Các nhà mạng đã cam kết với Bộ sẽ rà soát, đánh giá, dừng những đại lý vi phạm, phát triển thuê bao rác ra thị trường theo hình thức này từ ngày 10/9/2023 và chỉ tập trung phát triển các kênh chính của doanh nghiệp, kênh chuỗi có uy tín.
+
+Để ngăn chặn tình trạng sim rác tồn tại, lưu thông trên thị trường, giải phát quan trọng nhất là quản lý, giám sát phát triển thuê bao chặt chẽ. Bộ sẽ xử lý nghiêm các doanh nghiệp tiếp tục vi phạm, để xảy ra tình trạng này, đình chỉ phát triển thuê bao mới từ 3-12 tháng, ông Long nhấn mạnh.
+
+Liên quan đến vấn nạn tin nhắn rác, cuộc gọi rác vẫn diễn ra nhiều, ông Long cho biết, sim rác là sim có thông tin thuê bao không đúng hoặc đúng nhưng không chính chủ. Các sim rác này sẽ tạo ra cuộc gọi rác nhưng cuộc gọi rác có thể tạo ra bởi các sim chính chủ để marketing sản phẩm dịch vụ.
+
+Tin nhắn rác và tin nhắn lừa đảo là vấn đề nhức nhối. Với các tin nhắn lừa đảo chủ yếu mạo danh các cơ quan công quyền như công an, cảnh sát giao thông, tòa án, viện kiểm sát, ngân hàng. Bộ Thông tin và Truyền thông trao đổi với các đơn vị tiến hành thí điểm định danh cuộc gọi của các đơn vị này.
+
+Đối với các cuộc gọi rác, cuộc gọi quảng cáo, việc ngăn chặn là rất khó khăn. Cơ quan quản lý đã triển khai các biện pháp và yêu cầu các doanh nghiệp có thực hiện cuộc gọi quảng cáo phải đăng ký voice brandname. Trước mắt, Bộ sẽ tăng cường thanh tra, xử lý vi phạm các đơn vị doanh nghiệp khi thực hiện cuộc gọi quảng cáo nhưng không đăng ký…
+
+Các cơ quan nhà nước khi gọi đến công dân đều phải có định danh, cuộc gọi phải hiện tên đích danh cơ quan. Những số máy không hiển thị brandname gọi đến xưng danh đại diện cơ quan công quyền đều là lừa đảo.
+
+Hiện nay, các nhà mạng đã xây dựng xong giải pháp kỹ thuật và trong tháng 9, tháng 10 sẽ triển khai đến các cơ quan quản lý nhà nước, các bộ ngành, địa phương có liên hệ với người dân để giải quyết vấn nạn tin nhắn lừa đảo, cuộc gọi lừa đảo.

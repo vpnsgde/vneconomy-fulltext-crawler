@@ -1,0 +1,29 @@
+Ngày 10 và 26/4, các Sở Khoa học và Công nghệ Hải Dương, Hải Phòng đã phối hợp làm việc, đưa ra 6 tiêu chí tiến hành rà soát, phân tích, đánh giá, gồm: chức năng, tính năng của hệ thống; nền tảng công nghệ; thời điểm triển khai; hình thức đầu tư; số lượng người dùng; cơ sở dữ liệu.
+
+Trước đó, hai sở ký biên bản thống nhất phương án triển khai rà soát, đánh giá 12 hệ thống ứng dụng dùng chung cho chuyển đổi số; thống nhất các tiêu chí để lựa chọn giải pháp công nghệ và xây dựng phương án đồng cấu hình; đồng bộ hệ thống.
+
+Tại Hội nghị vận hành thử nghiệm chính quyền địa phương hai cấp, các phương án phối hợp đồng bộ hạ tầng chuyển đổi số giữa hai địa phương đã cơ bản hoàn tất, kết nối trực tuyến tới 114 điểm cầu cấp xã, phường, đặc khu, 12 hệ thống ứng dụng dùng chung đã được xác định, phân công triển khai theo phương án kế thừa và tích hợp từ hai địa phương.
+
+Theo đó, 5 hệ thống do Hải Dương triển khai tiếp tục sử dụng, gồm: Trung tâm Dữ liệu (DC); Trung tâm giám sát điều hành thông minh (IOC); Hệ thống giám sát an toàn thông tin (SOC); Hệ thống hội nghị truyền hình trực tuyến và Hệ thống đường truyền số liệu chuyên dùng.
+
+Thành phố Hải Phòng triển khai 7 hệ thống gồm: Hệ thống thông tin giải quyết thủ tục hành chính; Cổng thông tin điện tử; Ứng dụng dành cho người dân; Hệ thống phản ánh kiến nghị 1022; Kho dữ liệu dùng chung; Hệ thống quản lý văn bản và điều hành; Hệ thống thư điện tử công vụ và Trục tích hợp dữ liệu LGSP.
+
+Tại Trung tâm dữ liệu của tỉnh Hải Dương, nơi lưu trữ và vận hành phần lớn các ứng dụng dùng chung sau hợp nhất, công tác rà soát tài nguyên, chuẩn bị hạ tầng đã được hoàn tất. Dự kiến đến ngày 30/6, một số hệ thống của Hải Phòng sẽ được di chuyển, cài đặt và chạy thử tại đây.
+
+Hệ thống SOC đã được vận hành ổn định, giám sát liên tục, bảo đảm an toàn cho toàn bộ trung tâm dữ liệu mới. Đặc biệt, hệ thống hội nghị truyền hình trực tuyến đã được triển khai rộng khắp với 114 điểm cầu cấp xã, phường, đặc khu. Hạ tầng đường truyền chuyên dùng được hoàn thiện đúng tiến độ.
+
+Phó Chủ tịch UBND thành phố Hải Phòng Hoàng Minh Cường đặc biệt nhấn mạnh, thành phố xác định hạ tầng số là yếu tố sống còn để bảo đảm việc hợp nhất diễn ra suôn sẻ, không gián đoạn.
+
+Hải Phòng đã cập nhật 1.553/1.835 dịch vụ công lên Cổng dịch vụ công quốc gia, trong đó có 481 dịch vụ toàn trình, từ ngày 1/7, toàn bộ hệ thống Cổng dịch vụ công cấp tỉnh cũ sẽ ngừng vận hành, chuyển sang hệ thống Cổng dịch vụ công quốc gia, tập trung, đồng bộ.
+
+Cổng thông tin điện tử thành phố đã hoàn thành mẫu giao diện mới cho các đơn vị hành chính cấp xã, sẵn sàng cập nhật sau khi có quyết định chính thức về tổ chức bộ máy. Các cổng thông tin cũ sẽ được chuyển sang trạng thái tra cứu để đảm bảo dữ liệu không mất mát.
+
+Ứng dụng dành cho người dân được nâng cấp thành một ứng dụng dùng chung cho toàn thành phố mới. Các chức năng như tiếp nhận phản ánh; đăng ký dịch vụ công; theo dõi tiến độ giải quyết hồ sơ sẽ được tích hợp đồng bộ, với giao diện thân thiện và dữ liệu đồng nhất.
+
+Về nền tảng chia sẻ và tích hợp dữ liệu cấp tỉnh (LGSP), hệ thống của Hải Phòng được chọn làm nền tảng chính, đã tích hợp hơn 41 dịch vụ và kết nối với nhiều cơ sở dữ liệu quốc gia. Hệ thống LGSP của Hải Dương sẽ giữ vai trò dự phòng trong thời gian chuyển tiếp. Việc chuyển đổi toàn bộ tích hợp từ LGSP cũ sang nền tảng mới dự kiến sẽ hoàn tất trong tháng 8.
+
+Hệ thống quản lý văn bản, thư điện tử công vụ đang được nâng cấp, mở rộng dung lượng, cập nhật cơ cấu tổ chức mới để phục vụ hoạt động điều hành thông suốt tại tất cả các cấp chính quyền. Công tác cấp mới tài khoản, tập huấn cán bộ đã được lên kế hoạch triển khai đồng bộ ngay sau khi có quyết định tổ chức bộ máy.
+
+Theo kế hoach của Ban Chỉ đạo Thành ủy, mô hình chính quyền địa phương 02 cấp tại thành phố Hải Phòng mới sẽ được vận hành thử nghiệm giai đoạn 2 vào ngày 25/6/2025. Từ ngày 26 đến 30/6/2025, tổ chức sơ kết, đánh giá, rút kinh nghiệm toàn diện để hoàn thiện mô hình; việc vận hành chính thức sẽ được triển khai đồng loạt từ ngày 01/7/2025.
+
+Sự phối hợp đồng bộ giữa Hải Phòng - Hải Dương trong nhiệm vụ duy trì kết nối chặt chẽ, minh bạch và an toàn giữa các tổ công tác kỹ thuật với lãnh đạo quản lý trong mỗi bước chuyển đổi cả trước, trong và sau sáp nhập có thể trở thành điểm sáng cho các địa phương khác tham khảo, tạo nền tảng vững để khởi động chính quyền số hai cấp ngay từ ngày 1/7.

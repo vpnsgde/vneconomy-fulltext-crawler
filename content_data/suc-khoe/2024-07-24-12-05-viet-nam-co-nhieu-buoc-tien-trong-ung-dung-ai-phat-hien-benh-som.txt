@@ -1,0 +1,37 @@
+Tại tọa đàm “Bức tranh Blockchain và AI toàn cầu - Những ứng dụng trong ngành y” cho hơn 400 sinh viên và giảng viên Trường Đại học Y khoa Phạm Ngọc Thạch ngày 20/7 vừa qua, các chuyên gia, bác sỹ cho rằng ngày nay AI đã có thể hỗ trợ các bác sĩ chẩn đoán bệnh, dự đoán nguy cơ mắc bệnh, hỗ trợ trong quá trình điều trị, quản lý hồ sơ y tế, nghiên cứu phát triển thuốc, theo dõi chuỗi cung ứng vật tư y tế, hỗ trợ điều trị... Bên cạnh đó, AI và các giải pháp công nghệ tiên tiến đang góp phần thay đổi cách thức chăm sóc sức khỏe cộng đồng.
+
+BỆNH CƠ XƯƠNG KHỚP
+
+Tại Hội nghị Khoa học thường niên Liên chi hội nội soi cơ xương khớp TP.HCM cũng diễn ra ngày 20/7, bác sĩ Trương Nguyễn Khánh Hưng, bệnh viện Chợ Rẫy, cho biết nghiên cứu dựa vào AI để chẩn đoán tổn thương khớp gối, dây chằng chéo và ứng dụng AI để hỗ trợ bệnh nhân sau phẫu thuật xương khớp tập luyện phục hồi chức năng của bệnh viện đang được giới chuyên gia rất quan tâm.
+
+Theo đó, bệnh nhân phục hồi chức năng sẽ đứng trước máy tính có webcam và tập luyện theo hướng dẫn. Tất cả các động tác tập được AI theo dõi, phân tích. Động tác nào đúng, sai sẽ hiển thị trực tiếp lên màn hình. Hiểu đơn giản là bệnh nhân có một người hướng dẫn ảo để tập luyện, nhắc nhở tập phục hồi chức năng đúng và đều.
+
+Trong khi đó, công trình sử dụng AI để chẩn đoán chấn thương nếu được ứng dụng thì sẽ giải quyết rất hiệu quả cho việc chẩn đoán, điều trị. Bác sĩ Hưng cho biết tốc độ đọc hình ảnh của máy rất tốt, 1 bộ hình ảnh máy đọc khoảng 20 -25 giây, rút ngắn thời gian đọc hình ảnh của bác sĩ rất nhiều. "Trí tuệ nhân tạo không thể thay thế bác sĩ trong việc đưa ra quyết định điều trị bệnh thế nào, nhưng sẽ là nút chặn, hạn chế sai sót y khoa. Bởi sẽ có những chấn thương mà đôi khi bác sĩ không phát hiện ra, bỏ qua thì máy sẽ phát cảnh báo", bác sĩ Hưng nói.
+
+Tương tự, PGS.TS Lê Mạnh Cường, Giám đốc Bệnh viện Tuệ Tĩnh (Học Viện Y Dược cổ truyền Việt Nam) cho hay Bệnh viện Tuệ Tĩnh cũng đang cập nhật Al, robot trong điều trị các bệnh cơ xương khớp, phục hồi chức năng, kết hợp với giải pháp y học cổ truyền. Chuyên gia này cho biết, trong điều trị các bệnh lý cơ xương khớp, phục hồi chức năng rất quan trọng. Với sự phát triển của y học, AI và robot đang được ứng dụng trong điều trị bệnh cơ xương khớp nói riêng, phục hồi chức năng nói chung khá rộng, từ những chức năng nhỏ như bàn chân, bàn tay, đau vai gáy, cột sống, thoát vị đĩa đệm, các vấn đề sau đột quỵ như liệt nửa người, yếu chi…
+
+UNG THƯ VÚ
+
+Tháng 5/2024, Cục quản lý Thực phẩm và Dược phẩm Mỹ (FDA) chính thức cấp phép cho ứng dụng VinDr lưu hành trên thị trường nước này. Đồng nghĩa, Việt Nam trở thành quốc gia thứ 5 có sản phẩm AI cho chẩn đoán X-quang tuyến vú được FDA công nhận, sau Mỹ, Pháp, Hà Lan và Hàn Quốc. Theo VinBigdata, VinDr có khả năng tự động phân loại ảnh chụp X-quang tuyến vú, phát hiện các ca nghi ngờ ung thư vú, độ chính xác 96,5% với dữ liệu người Việt và 95,8% với dữ liệu người Mỹ.
+
+Với việc áp dụng công nghệ AI và thị giác máy tính tiên tiến nhất, sản phẩm có khả năng đánh giá mật độ tuyến vú, phân loại ca chụp theo chuẩn BI-RADS, phát hiện các tổn thương tuyến vú giai đoạn sớm. Theo TS Nguyễn Quý Hà, Giám đốc Khối Công nghệ Phân tích hình ảnh VinBigdata, sản phẩm giúp bác sĩ có thêm căn cứ để chỉ định các xét nghiệm chuyên sâu và phát hiện bệnh kịp thời. “Chúng tôi kỳ vọng, sau khi đạt chứng nhận của FDA, VinDr sẽ tiếp cận nhiều thị trường, hỗ trợ y bác sĩ và nhiều người bệnh", tiến sĩ Hà chia sẻ.
+
+Ngoài chẩn đoán ảnh X-quang tuyến vú, sản phẩm được tích hợp các công cụ hỗ trợ chẩn đoán thông minh cho 6 loại ảnh khác gồm: X-quang lồng ngực, X-quang cột sống, CT sọ não, CT lồng ngực, CT gan mật, MRI sọ não. Máy có thể phát hiện, khoanh vùng gần 70 loại bất thường phổ biến và chẩn đoán đồng thời nhiều ca chụp một lúc với độ chính xác và tốc độ không đổi.
+
+UNG THƯ TUYẾN GIÁP
+
+Cuối năm 2023, Bệnh viện Nội tiết Trung ương và Tập đoàn VNPT đã nghiên cứu đưa AI vào ứng dụng để hỗ trợ sàng lọc, chẩn đoán ung thư tuyến giáp. Theo PGS.TS.BS Phan Hướng Dương, Phó Giám đốc Bệnh viện Nội tiết Trung ương, dựa trên phim siêu âm, hệ thống sẽ đưa ra tỷ lệ khả năng nhân tuyến giáp lành tính hoặc ác tính. Đây là công cụ góp phần tối ưu và gia tăng hiệu quả trong quá trình sàng lọc bệnh, giúp bệnh nhân tiết kiệm chi phí và thời gian.
+
+"Hệ thống giúp mang lại cơ sở khoa học, gia tăng tính chính xác khi bác sĩ đưa ra quyết định nhân giáp là lành tính hay ác tính, giảm thiểu tình trạng chỉ định chọc tế bào không hợp lý, bỏ sót ung thư tuyến giáp, hoặc chỉ định chọc tế bào không cần thiết", bác sĩ Dương nói. Hiện, Bệnh viện Nội tiết Trung ương đang trong quá trình thu thập và chuẩn hóa dữ liệu ảnh phục vụ dự án. Mục tiêu là thu thập và chuẩn hóa 30.000 dữ liệu ảnh siêu âm từ hơn 10.000 bệnh nhân tại miền Bắc (Bệnh viện Nội tiết Trung ương), miền Trung (Bệnh viện Đại học Y - Dược Huế) và miền Nam (Bệnh viện Chợ Rẫy).
+
+Quá trình thu thập dự liệu này đóng vai trò quyết định tới tính đa dạng của dữ liệu, độ chính xác của hệ thống và khả năng chẩn đoán đa dạng ca bệnh của người Việt trên toàn quốc. Dự án cũng hướng tới triển khai trên thực tế, đặc biệt phục vụ các bệnh viện tuyến dưới. Bác sỹ Dương cho biết: “Tới nay, quy trình vận hành đã trở nên nhuần nhuyễn hơn. Đó là tín hiệu rất tích cực của dự án".
+
+UNG THƯ CỔ TỬ CUNG
+
+Năm 2023, Bệnh viện Hùng Vương (TP.HCM) đã tham gia chương trình khám, tư vấn, tầm soát bệnh lý ung thư cổ tử cung bằng công nghệ AI cho chị em phụ nữ tại nhiều địa phương. Công nghệ AI được sử dụng để tầm soát ung thư cổ tử cung là CerviCare AI. Đây là một kỹ thuật mới, giúp tầm soát ung thư cổ tử cung mà không phải thực hiện kỹ thuật Pap smear quen thuộc. Ngay sau khi thực hiện tầm soát các chị em phụ nữ sẽ nhận được hình ảnh soi cổ tử cung, AI sẽ thông báo ngay kết quả.
+
+Được biết, trong thời gian sắp tới, ứng dụng AI sẽ được triển khai thử nghiệm tại các bệnh viện chuyên khoa Sản của TP.HCM. Không chỉ tại Bệnh viện Hùng Vương, năm 2023 ghi dấu chặng đường ứng dụng trí tuệ nhân tạo từng bước được quan tâm, chú trọng đẩy mạnh thực hiện tại Việt Nam ở một số bệnh viện như: Bệnh viện Chợ Rẫy, Bệnh viện K, Bệnh viện 199 (Bộ Công an)...
+
+
+
+Theo Bộ Y tế, ứng dụng AI trong việc khám chữa bệnh đang là xu thế chung trên toàn thế giới. Ngành y tế Việt Nam đang ứng dụng mạnh mẽ công nghệ AI giúp nâng cao khả năng chẩn đoán bệnh, ngay cả những căn bệnh hiểm nghèo. Ngoài ra, AI còn giúp quản lý hồ sơ y tế và cơ sở dữ liệu, theo dõi sức khỏe, tư vấn và quản lý dược phẩm...

@@ -1,0 +1,45 @@
+Ngày 30/06/2023, tại văn phòng Microsoft Hà Nội, đã diễn ra workshop "Khai thác giá trị dữ liệu doanh nghiệp: Từ chiến lược đến thực thi". Đây là một trong chuỗi sự kiện hợp tác giữa Datapot và Microsoft với khách mời diễn giả đến từ CMC Technology Solution, nhằm tạo ra một cộng đồng hỗ trợ cho việc chuyển đổi số trong doanh nghiệp và giới thiệu những xu hướng mới nhất cùng các giải pháp và công nghệ sáng tạo.
+
+Chuỗi sự kiện liên quan đến Power Platform và ứng dụng trong hoạt động chuyển đổi số của doanh nghiệp sẽ tiếp tục diễn ra từ nay đến 28/07/2023 tại văn phòng Microsoft Việt Nam và trên nền tảng Microsoft Teams.
+
+Theo các chuyên gia, giá trị doanh nghiệp sẽ được định nghĩa lại trong nền kinh tế số và dữ liệu sẽ trở thành tài sản lớn của doanh nghiệp. Việc thu thập, khai thác dữ liệu đúng và khoa học là một trong những yếu tố giúp doanh nghiệp tăng năng lực sản xuất, kinh doanh.
+
+Các doanh nghiệp cũng có thể sử dụng dịch vụ dữ liệu để mở rộng thị trường và quản trị rủi ro cho hoạt động sản xuất, kinh doanh của doanh nghiệp mình. Trí tuệ nhân tạo (AI), dữ liệu lớn… sẽ là công cụ hỗ trợ giúp doanh nghiệp phân tích dữ liệu dễ dàng hơn, năng suất hơn.
+
+Theo đánh giá của Liên Hợp Quốc, xếp hạng dữ liệu mở của Việt Nam năm 2022 đứng thứ 87/193 quốc gia, vùng lãnh thổ, tăng 10 bậc so với xếp hạng năm 2020, nhưng vẫn ở vị trí rất khiêm tốn, mục tiêu của chúng ta là tối thiểu phải lọt vào nhóm 70 nước dẫn đầu vào năm 2024, tức là năm 2023 phải tiếp tục nỗ lực vượt bậc gấp mấy lần nữa.
+
+Trong quá trình thực hiện chuyển đổi số, cơ sở dữ liệu (data) được xem là nguồn lực sống còn, là tài sản quan trọng của doanh nghiệp. Nếu doanh nghiệp biết cách khai thác, dữ liệu là nguồn thông tin có giá trị rất lớn phục vụ đắc lực cho việc mở rộng kinh doanh, xuất khẩu.
+
+Có rất nhiều lợi ích khi doanh nghiệp biết cách tổ chức quản lý và khai thác tốt cơ sở dữ liệu bên trong và bên ngoài. Điều này sẽ góp phần giúp doanh nghiệp giảm thiểu các rủi ro tiềm ẩn, nhất là trong lĩnh vực xuất khẩu. Việc cải tiến quy trình và chính sách sẽ hỗ trợ rất nhiều cho việc ra quyết định cũng như phát triển hoạt động sản xuất, kinh doanh nhằm đáp ứng hiệu quả hơn những thay đổi của thị trường và nhu cầu của khách hàng.
+
+Ông Phí Đăng Khoa, Trưởng nhóm kỹ thuật đối tác của Microsoft Viet Nam, cho rằng 90% thời gian của nhiều doanh nghiệp hiện nay làm trên công cụ của Microsoft như Office, 365 và các công cụ khác. Vì vậy nguồn tài nguyên dữ liệu của doanh nghiệp đang được lưu trữ trên nền tảng của Microsoft là rất lớn do đó việc tích hợp với nền tảng khai thác dữ liệu đến từ Microsoft như PowerBI, Azure hay Power Platform sẽ giúp doanh nghiệp triển khai nhanh chóng, thuận tiện và đem lại nhiều giá trị.
+
+
+
+"Doanh nghiệp cần kết nối được giữa chiến lược, kiến trúc kinh doanh và dữ liệu nhằm tạo ra hiệu quả cao nhất cho doanh nghiệp… Cần tuân thủ quy trình chính sách, quy định của pháp luật về dữ liệu, quyền riêng tư, hoà nhập với văn hoá".
+
+Ông Lê Minh, Giám đốc Công nghệ CMC Technology and Solution.
+
+Tuy nhiên, theo ông Khoa, nếu chỉ có công cụ công nghệ mà người dùng không có kỹ năng quản trị hoặc các đối tác cung cấp nền tảng dữ liệu thì cũng khó có thể thành công trong thực hiện các chiến lược áp dụng công nghệ vào kinh doanh.
+
+Ông Lê Minh - Giám đốc Công nghệ CMC Technology and Solution nhận định hiện nay dữ liệu được coi như “dầu mỏ mới” để các doanh nghiệp khai thác giá trị. Sự gia tăng chóng mặt về khối lượng các nguồn dữ liệu như: mạng xã hội, thiết bị di động, cảm biến IoT và các nền tảng trực tuyến là khối lượng thông tin khổng lồ tạo cơ hội cho việc khai thác và phân tích dữ liệu để sản sinh ra giá trị trong kinh doanh.
+
+Tuy nhiên, để khai thác tốt dữ liệu chúng ta cần tư duy, ý tưởng, công cụ và kỹ năng để sử dụng dữ liệu… Các doanh nghiệp cần chú trọng đến mức độ sẵn sàng trong cung cấp dữ liệu, thời điểm, tính chính xác, an toàn và chi phí của dữ liệu.
+
+Ông Tô Mạnh Hoàng, Giám đốc Datapot Analytics nhận định, các doanh nghiệp hiện nay vẫn thiếu cách thức thực thi hiệu quả các chiến lược công nghệ, dữ liệu. Có đến 85% dự án lớn đã thất bại (thống kê của Gartner năm 2017), có 62% nguyên nhân thất bại không nằm ở các vấn đề kỹ thuật mà do các doanh nghiệp không xác định rõ mục tiêu và đầu tư dữ liệu chưa đúng cách… dẫn đến giá trị tạo ra ít.
+
+Ngoài ra, một nguyên nhân quan trọng là do người dùng gặp khó khăn khi sử dụng các sản phẩm công nghệ, thiếu dữ liệu và các hiểu biết cần thiết, dữ liệu không đảm bảo, tính tin cậy hoặc doanh nghiệp chuyển mục tiêu, chiến lược kinh doanh hay do thay đổi trong hệ thống công nghệ thông tin hoặc do mục tiêu quá cao so với nhu cầu thực tế…
+
+
+
+"Mặc dù các quyết định về việc chọn lựa kiến trúc tổ chức, và công cụ khai thác dữ liệu rất quan trọng, nhưng để thành công trong việc khai thác giá trị tối đa của dữ liệu, các doanh nghiệp còn cần vượt qua những rào cản phi kỹ thuật liên quan đến con người và quy trình – đây thường là những thách thức lớn nhất. Hơn nữa, việc cân bằng quyền kiểm soát và giám sát với sự tự do và linh hoạt cho người dùng cũng là một thách thức đối với các hệ thống Phân tích dữ liệu".
+
+Ông Tô Mạnh Hoàng, Giám đốc Datapot Analytics.
+
+Để giúp doanh nghiệp tháo gỡ khó khăn trong việc xây dụng, khai thác dữ liệu, Giám đốc Datapot Analytics Tô Mạnh Hoàng cho rằng khi triển khai dự án, các doanh nghiệp cần xây dựng tầm nhìn, lựa chọn “hạt giống” là các nhân sự để đào tạo, xác định rõ các yếu tố còn thiếu để bổ sung…
+
+Tiếp đó, doanh nghiệp cần ưu tiên khảo khảo sát, tiếp cận cách thức sử dụng dữ liệu hiện nay để đưa ra định hướng phát triển về hạ tầng, công nghệ và các nguồn lực khác. Doanh nghiệp cũng cần chú trọng đến nhu cầu kinh doanh, thị hiếu khách hàng, xu hướng kiến trúc dữ liệu trong tương lai… nhằm xây dựng sản phẩm thân thiện, tối ưu cho khách hàng và phát triển doanh nghiệp một cách bền vững.
+
+Để có thể khai thác tối đa giá trị của dữ liệu trong quá trình chuyển đổi số, theo ông Tô Mạnh Hoàng, việc xây dựng văn hóa dữ liệu là một yếu tố sống còn. Việc xây dựng văn hóa dữ liệu trong quá trình chuyển đổi số sẽ giúp cho doanh nghiệp tạo ra sự nhất quán và tin cậy trong việc thu thập, lưu trữ, xử lý và sử dụng dữ liệu. Ngoài ra, văn hóa dữ liệu giúp cho doanh nghiệp khuyến khích sự chia sẻ và sử dụng dữ liệu một cách hiệu quả, đồng thời đẩy mạnh sự đổi mới và sáng tạo.
+
+Thêm vào đó, việc thúc đẩy phân tích và ra quyết định dựa trên dữ liệu và rèn luyện sự nhạy bén với dữ liệu cũng là tiêu chí quan trọng trong quá trình xây dựng văn hóa doanh nghiệp. Từ đó tăng cường khả năng ra quyết định chính xác và nhanh chóng.

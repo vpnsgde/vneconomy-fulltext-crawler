@@ -1,0 +1,33 @@
+Bộ Khoa học và Công nghệ vừa cho biết, tổ chức Oxford Insights (Vương quốc Anh) vừa công bố báo cáo "Chỉ số sẵn sàng AI của chính phủ (Government AI Readiness Index) năm 2022”. Trong lần đánh giá này, Việt Nam đứng thứ 55 trên thế giới và đứng thứ 6 trong ASEAN (tăng 7 bậc so với với năm 2021 theo xếp hạng trên thế giới là 62/160). Điểm trung bình của Việt Nam đạt mức 53.96 (tăng so với năm 2021 là 51.82), vượt qua ngưỡng trung bình của thế giới (44.61).
+
+Đây là lần thứ 5 báo cáo chỉ số sẵn sàng AI toàn cầu được xuất bản, sau bốn lần vào năm 2017, 2019, 2020 và 2021.
+
+Như vậy trong những năm gần đây, Việt Nam đã có sự tăng hạng mạnh về chỉ số này. Trước đó, năm 2021 Việt Nam đứng ở vị trí thứ 62 trong 160 quốc gia được đánh giá xếp hạng trên thế giới, tăng 14 bậc so với năm 2020. Trong khu vực ASEAN, Việt Nam đứng thứ 6 về chỉ số sẵn sàng AI.
+
+Báo cáo đánh giá sự sẵn sàng AI của chính phủ từ 181 quốc gia trong việc khai thác những ứng dụng của AI để vận hành và cung cấp dịch vụ của mình. Chỉ số được sử dụng như một công cụ để so sánh tình trạng hiện tại về mức độ sẵn sàng cho AI của chính phủ ở các quốc gia so sánh với các nước trong khu vực trên toàn cầu để học tập kinh nghiệm hữu ích phát triển.
+
+Phương pháp đánh giá năm 2022 sử dụng 39 chỉ số trên ba trụ cột (chính phủ, trình độ công nghệ, hạ tầng và dữ liệu) với 10 khía cạnh thuộc nhóm cơ sở hạ tầng, tính sẵn sàng của dữ liệu, tính đại diện của dữ liệu, nguồn nhân lực, năng lực đổi mới, quy mô, khả năng thích ứng, năng lực kỹ thuật số, quản trị và đạo đức, tầm nhìn.
+
+Trình độ công nghệ trong toàn khu vực Đông Á đang ngày càng phát triển. Theo số liệu có 9 quốc gia Đông Á có công ty kỳ lân (công ty trị giá hơn 1 tỷ USD) trong năm nay, so với 6 công ty trong báo cáo xếp hạng năm ngoái. Philippines, Việt Nam và Malaysia đều có thêm công ty đáp ứng điều kiện trên.
+
+Theo nhận định đây là khu vực có vị trí tốt cho sự phát triển của ngành công nghệ bởi dân số trẻ, có kỹ năng kỹ thuật số cao, có khả năng thích nghi nhanh với các giải pháp kỹ thuật số.
+
+Trong những năm qua, Việt Nam đã có các chủ trương cụ thể trong thúc đẩy phát triển ứng dụng công nghệ AI. Rõ ràng nhất là việc Thủ tướng Chính phủ đã ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng AI đến năm 2030.
+
+Chiến lược đưa ra mục tiêu đẩy mạnh nghiên cứu, phát triển và ứng dụng, đưa AI trở thành lĩnh vực công nghệ quan trọng của Việt Nam trong cuộc Cách mạng 4.0, góp phần phát triển kinh tế xã hội và từng bước đưa Việt Nam trở thành điểm sáng về nghiên cứu, phát triển và ứng dụng AI trong khu vực và trên thế giới.
+
+Công nghệ AI đã ngày càng trở nên thiết yếu trong mọi mặt đời sống tại Việt Nam, được ứng dụng mạnh mẽ, tích cực, nhất là trong các lĩnh vực như đô thị thông minh, y tế- bảo hiểm, nông nghiệp thông minh, công nghệ môi trường...
+
+Bắt nhịp với xu thế công nghệ mới, một số doanh nghiệp lớn ở Việt Nam đã xây dựng và phát triển các Trung tâm nghiên cứu và phát triển AI, thu hút nhiều chuyên gia hàng đầu thế giới trong lĩnh vực này đến làm việc. Đồng thời, đã có một lực lượng tương đối các doanh nghiệp khởi nghiệp sáng tạo áp dụng công nghệ AI trong các sản phẩm, dịch vụ mới, hứa hẹn sẽ là những lực lượng doanh nghiệp đủ sức cạnh tranh trên thị trường quốc tế trong lĩnh vực AI.
+
+Tại AI Summit 2022, đại diện FPT cho biết, AI là một trong 4 công nghệ cốt lõi trong chiến lược công nghệ của FPT và Tập đoàn đang tập trung đưa AI vào tất cả các sản phẩm, dịch vụ, giải pháp Made by FPT, tạo ra những sản phẩm, giải pháp thông minh với những tính năng vượt trội cho từng ngành, từng lĩnh vực. Hiện hệ sinh thái công nghệ AI của FPT có hơn 20 giải pháp đang phục vụ hơn 20 triệu người dùng cuối và 600 triệu lượt sử dụng/năm.
+
+Là công ty công nghệ hàng đầu Việt Nam, FPT đón đầu những xu hướng công nghệ mới trên thế giới, dẫn dắt sự phát triển của thị trường công nghệ trong nước, đáp ứng nhu cầu bức thiết của các doanh nghiệp, tổ chức, cá nhân trên toàn cầu, đồng thời tạo động lực tăng trưởng cho Tập đoàn trong dài hạn.
+
+Ngoài FPT, một số Tập đoàn công nghệ khác cũng đang có bước đầu tư mạnh mẽ cho AI. Theo đại diện Công ty nghiên cứu và ứng dụng trí tuệ nhân tạo VinAI, ứng dụng AI không chỉ giúp các nước phát triển mà còn cả nước đang phát triển. Đơn vị này muốn tiến hành những nghiên cứu hàng đầu thế giới tại Việt Nam để đưa Việt Nam lên bản đồ thế giới.
+
+Mới đây, Công ty Cổ phần VinBigData (Tập đoàn Vingroup) vừa công bố nền tảng Trí tuệ nhân tạo đa nhận thức toàn diện VinBase, hỗ trợ doanh nghiệp Việt ứng dụng các giải pháp AI và Big Data vào hoạt động sản xuất kinh doanh. Đây là một trong những nền tảng tiên phong tại Việt Nam đưa Trợ lý ảo tới gần hơn với các doanh nghiệp, giúp nâng cao chất lượng dịch vụ và trải nghiệm tốt hơn cho khách hàng. Tại Việt Nam, VinBase hiện là nền tảng AI đa nhận thức duy nhất hỗ trợ đa ngôn ngữ, với hơn 100 ngôn ngữ khác nhau
+
+Mới đây nhất, dẫn một nghiên cứu mới đây, các chuyên gia cho biết, lần đầu tiên, Việt Nam xếp thứ 26 trên toàn thế giới về năng lực nghiên cứu AI, vượt qua cả UAE, đồng thời là một trong hai quốc gia Đông Nam Á góp mặt trong bảng xếp hạng này.
+
+Trong khu vực Đông Nam Á, Việt Nam hiện cùng Singapore là hai quốc gia nằm trong bảng xếp hạng này. Các nghiên cứu về trí tuệ nhân tạo trong nước được đánh giá không có khoảng cách quá xa so với các nước châu Âu.

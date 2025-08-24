@@ -1,0 +1,19 @@
+Từ ngày 16-18/5/2023 tại Hà Nội, Hiệp hội An toàn thông tin Việt Nam (VNISA) sẽ phối hợp Công ty Công nghệ An ninh mạng Quốc gia Việt Nam (NCS) tổ chức đào tạo nâng cao năng lực về phân tích, xử lý và phòng chống mã độc cho các chuyên gia an toàn thông tin thuộc các tổ chức, doanh nghiệp là hội viên và đối tác của VNISA.
+
+Nêu thực trạng tấn công mã độc hiện nay, ông Vũ Ngọc Sơn, Giám đốc Công nghệ Công ty Công nghệ An ninh mạng Quốc gia Việt Nam cho biết, trong năm 2022 và những tháng đầu năm 2023 đã và đang chứng kiến tình trạng các cuộc tấn công có chủ đích APT, tấn công mã hoá dữ liệu đòi tiền chuộc, tấn công đánh cắp thông tin người dùng tại Việt Nam gia tăng mạnh mẽ.
+
+Theo phân tích của các chuyên gia, vũ khí mạng được tin tặc sử dụng chính trong các cuộc tấn công kiểu này là mã độc. Cụ thể, hacker tìm cách xâm nhập vào một máy tính ít được để ý của hệ thống và để lại các mã độc nằm vùng nhằm thu thập thêm các thông tin, tài khoản, mật khẩu người dùng, từ đó tiếp tục mở rộng tấn công vào sâu trong hệ thống.
+
+Trên thế giới, các cuộc tấn công mạng gây thiệt hại nặng nề nhất cũng đều có nguyên nhân từ các loại mã độc. Điển hình như cuộc tấn công mạng bằng mã độc Stuxnet để phá hủy hệ thống máy điều khiển công nghiệp của Iran gây thiệt hại nặng nề cho quốc gia này. Cuộc tấn công mã độc mã hoá dữ liệu Wannacry làm mã hóa dữ liệu trên hàng trăm nghìn máy tính chỉ trong vài giờ.
+
+Hay cuộc tấn công cài mã độc vào phần mềm của chuỗi cung ứng Solar Winds, gây hậu quả ảnh hưởng đến hàng trăm tổ chức trên toàn thế giới, bao gồm Bộ Tài chính, Bộ Ngoại giao, Bộ An ninh Nội địa, Cơ quan An ninh Quốc gia Mỹ, Microsoft, FireEye và nhiều tổ chức khác.
+
+Khóa Đào tạo nâng cao năng lực về phân tích, xử lý và phòng chống mã độc của VNISA là hoạt động khởi đầu cho chuỗi hoạt động nhằm nâng cao năng lực chuyên môn cho các hội viên và đối tác của Hiệp hội trong năm 2023. Qua đó giúp học viên có những trải nghiệm thực chiến với các mối đe dọa liên quan đến mã độc. Thông qua khoá học, các học viên sẽ biết cách rà soát, phát hiện, xử lý mã độc, được định hướng để có thể tiếp tục nghiên cứu, phát triển các kỹ năng phân tích mã độc trong tương lai.
+
+Học viên sẽ được tìm hiểu về tình hình mã độc, an toàn mạng tại Việt Nam và trên thế giới; kỹ thuật rà soát, xử lý mã độc, webshell, cũng như tiếp cận các kỹ năng phân tích mã độc tiên tiến nhất.
+
+Các học viên sẽ được cấp Chứng chỉ đã tham gia khóa đào tạo an toàn thông tin, với chuyên đề phòng chống mã độc của Hiệp hội An toàn thông tin Việt Nam.
+
+Dự báo của NCS cho thấy, đi cùng với xu hướng chuyển đổi số đang diễn ra mạnh mẽ là thách thức về đảm bảo an toàn an ninh cho hệ thống thông tin. Các cuộc tấn công có chủ đích APT sẽ diễn ra nhiều hơn, đặc biệt các cuộc tấn công đánh cắp dữ liệu từ các kho dữ liệu được hình thành trong quá trình chuyển đổi số. Bên cạnh đó, các hệ thống vận hành công nghiệp (OT) có thể là đích nhắm mới tiếp theo của các cuộc tấn công có chủ đích.
+
+Cũng theo dự báo, xu hướng sử dụng mã độc để tấn công APT sẽ là một xu hướng phổ biến trong năm 2023. Mã độc mã hoá dữ liệu tống tiền sẽ gần như sẽ chuyển dịch hẳn sang tấn công vào hệ thống máy chủ...

@@ -1,0 +1,41 @@
+Ngày 6/4/2024, Cục An toàn thông tin, Bộ Thông tin và Truyền thông cho biết chính thức cho ra mắt Cẩm nang phòng chống, giảm thiểu rủi ro từ tấn công ransomware.
+
+Qua theo dõi, giám sát hoạt động tấn công mạng trong thời gian qua, Cục An toàn thông tin nhận thấy đang xuất hiện các chiến dịch tấn công mã hóa tống tiền (Ransomware) nhằm vào các cơ quan, tổ chức, doanh nghiệp tại Việt Nam, đặc biệt là các tổ chức hoạt động trong lĩnh vực quan trọng như: tài chính, ngân hàng, năng lượng, viễn thông,… gây thiệt hại về tài sản, ảnh hưởng đến danh tiếng, và gián đoạn hoạt động kinh doanh đối với các đơn vị gặp sự cố gây ra bởi Ransomware.
+
+Theo Cục An toàn thông tin, cuộc tấn công Ransomware hiện nay thường được bắt đầu từ một điểm yếu bảo mật của cơ quan, tổ chức, kẻ tấn công xâm nhập hệ thống, duy trì sự hiện diện, mở rộng phạm vi xâm nhập, và kiểm soát hạ tầng công nghệ thông tin của tổ chức, làm tê liệt hệ thống, nhằm bắt buộc các tổ chức nạn nhân thực hiện hành vi tống tiền mà kẻ tấn công hướng tới.
+
+Trong 3 tháng đầu năm nay, qua phân tích hơn 150 triệu cảnh báo về các nguy cơ bảo mật trên không gian mạng Việt Nam được ghi nhận từ hệ thống kỹ thuật, Cục An toàn thông tin đã xác định được có hơn 300.000 nguy cơ tấn công mạng nhắm vào các hệ thống thông tin trên toàn quốc.
+
+Cũng trong quý I/2024, qua hệ thống của Trung tâm Giám sát không gian mạng quốc gia đã ghi nhận hơn 13.000 sự kiện an toàn thông tin liên quan đến ransomware trên các hệ thống thông tin.
+
+Trước thực trạng này, Cục An toàn thông tin đã xây dựng cẩm nang về một số biện pháp phòng chống, giảm thiểu rủi ro từ tấn công Ransomware cho các cơ quan, tổ chức, doanh nghiệp, hướng đến mục tiêu bảo đảm an toàn không gian mạng quốc gia.
+
+Cẩm nang phòng chống, giảm thiểu rủi ro từ tấn công Ransomware sẽ là tài liệu hữu ích giúp cho các cơ quan, tổ chức, doanh nghiệp chủ động phòng tránh và bảo vệ hệ thống thông tin quan trọng của đơn vị trước các nguy cơ tấn công mạng tiềm ẩn.
+
+Cẩm nang đã hướng dẫn cụ thể 9 biện pháp phòng chống, giảm thiểu rủi ro từ tấn công ransomware cho các cơ quan, tổ chức và doanh nghiệp, hướng đến mục tiêu chung bảo đảm an toàn không gian mạng quốc gia.
+
+Thứ nhất, xây dựng kế hoạch sao lưu, phục hồi dữ liệu với hệ thống, thông tin quan trọng. Mục tiêu của các cuộc tấn công sử dụng Ransomware là cố gắng ngăn chặn việc khôi phục dữ liệu sau khi bị mã hóa. Kẻ tấn công thường tìm và thu thập thông tin xác thực được lưu trữ trong hệ thống, sử dụng những thông tin xác thực đó để truy cập vào các giải pháp sao lưu, phục hồi, từ đó xóa hoặc mã hóa các bản sao lưu đó.
+
+Cục An toàn thông tin khuyến nghị thực hiện việc sao lưu “offline”, không để các bản sao lưu đặt trong môi trường kết nối với hạ tầng mạng.
+
+Thực hiện sao lưu thường xuyên và đảm bảo dữ liệu của các bản sao lưu được đầy đủ, từ đó hạn chế, giảm thiểu ảnh hưởng của việc mất dữ liệu (khi bị mã hóa) và đẩy nhanh quá trình khôi phục khi có sự cố.
+
+Đặc biệt phải thực hiện quy tắc sao lưu dự phòng 3-2-1. Theo đó có 03 bản sao lưu dự phòng trên các phương tiện lưu trữ khác nhau giúp hệ thống có khả năng chống lại các rủi ro ransomware cao hơn. Lưu trữ ít nhất trên 2 loại phương tiện khác nhau: có thể lưu trữ lên cloud, NAS, SAN,…; đồng thời có 1 bản được lưu giữ “offline”
+
+Thứ hai,triển khai các biện pháp xác thực mạnh cho các tài khoản truy cập hệ thống.
+
+Thứ ba,thực hiện phân vùng truy cập mạng đến các tài nguyên một cách chặt chẽ. Điều này giúp hạn chế việc truy cập trái phép giữa các phân vùng, giữa các máy tính với nhau, ngăn chặn rủi ro lây lan thông qua mạng nội bộ.
+
+Thứ tư,áp dụng nguyên tắc đặc quyền tối thiểu cho các hệ thống, giúp giảm khả năng bị tấn công, hạn chế lây lan mã độc, dễ dàng phát hiện các bất thường, hành vi cố gắng xâm nhập hệ thống.
+
+Thứ năm,rà quét, cập nhật bản vá lỗ hổng an toán thông tin trên các thiết bị, phần mềm và ứng dụng.
+
+Thứ sáu,hạn chế sử dụng các dịch vụ điều khiển máy tính từ xa.
+
+Thứ bảy,giám sát liên tục, phát hiện sớm các hành vi xâm nhập.
+
+Thứ tám,chủ động tìm kiếm dấu hiệu tấn công, rà quét mã độc, yêu cầu đơn vị chuyên trách xử lý.
+
+Thứ chín,xây dựng kế hoạch ứng phó sự cố để kịp thời phản ứng với Ransomware. Bằng cách xây dựng và thực hiện một số kế hoạch ứng phó sự cố đầy đủ sẽ giúp tổ chức giảm thiểu rủi ro và tăng cường khả năng ứng phó khi gặp phải sự cố bảo mật.
+
+Ngoài ra, cẩm nang cũng đưa ra một số chỉ dẫn giúp các tổ chức, doanh nghiệp khôi phục hệ thống sau khi phát hiện tấn công Ransomware.

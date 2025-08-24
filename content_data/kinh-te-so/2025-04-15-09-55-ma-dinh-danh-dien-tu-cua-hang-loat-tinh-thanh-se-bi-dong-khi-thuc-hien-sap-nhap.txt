@@ -1,0 +1,19 @@
+Phó Thủ tướng Chính phủ Nguyễn Chí Dũng vừa ký Quyết định số 09/2025/QĐ-TTg ngày 14/4/2025 sửa đổi, bổ sung Quyết định số 20/2020/QĐ-TTg ngày 22/7/2020 của Thủ tướng Chính phủ về mã định danh điện tử của các cơ quan, tổ chức phục vụ kết nối, chia sẻ dữ liệu với các bộ, ngành, địa phương.
+
+Cụ thể, Quyết định số 09/2025/QĐ-TTg sửa đổi, bổ sung Mã cấp 1 của các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, các cơ quan, đơn vị khác do Thủ tuớng Chính phủ quyết định thành như sau:
+
+Quyết định số 09/2025/QĐ-TTg cũng sửa đổi Mã cấp 1 của Ủy ban nhân dân Thành phố Huế là H57, Mã cấp 1 của Hội đồng nhân dân Thành phố Huế là K57.
+
+Quyết định số 09/2025/QĐ-TTg có hiệu lực thi hành từ ngày 14/4/2025. Quyết định cũng hướng dẫn cụ thể trường hợp sáp nhập các tỉnh, thành phố trực thuộc trung ương thành một tỉnh, thành phố.
+
+Cụ thể, trường hợp tên tỉnh, thành phố mới trùng với tên của một trong các tỉnh, thành phố trước khi sáp nhập, thì tỉnh, thành phố mới sẽ sử dụng Mã cấp 1 của tỉnh, thành phố trước khi sáp nhập trùng tên, Mã cấp 1 của tỉnh, thành phố trước khi sáp nhập còn lại sẽ bị đóng.
+
+Trường hợp tên tỉnh, thành phố mới không trùng với tên các tỉnh, thành phố trước khi sáp nhập, thì tỉnh, thành phố mới sử dụng Mã cấp 1 của một trong các tỉnh, thành phố trước khi sáp nhập, Mã cấp 1 của tỉnh, thành phố trước khi sáp nhập còn lại sẽ bị đóng.
+
+Trước đó, theo Quyết định số 20/2020/QĐ-TTg, mã định danh điện tử của các cơ quan, tổ chức là chuỗi ký tự để phân biệt, xác định duy nhất các cơ quan, tổ chức khi kết nối, chia sẻ dữ liệu với các hệ thống thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương.
+
+Mã định danh điện tử của các bộ, ngành, địa phương là chuỗi ký tự có độ dài tối đa là 35 ký tự và được chia thành các nhóm ký tự. Các ký tự gồm: dấu chấm (.), các chữ số từ 0 đến 9 và các chữ cái từ A đến Z (dạng viết hoa trong bảng chữ cái tiếng Anh). Mỗi nhóm ký tự được sử dụng để xác định các cơ quan, tổ chức tại cấp tương ứng; các nhóm ký tự được phát triển từ trái qua phải và được phân tách với nhau bằng dấu chấm.
+
+Nhóm ký tự thứ nhất, ở vị trí ngoài cùng bên trái trong Mã định danh điện tử của các bộ, ngành, địa phương để xác định các cơ quan, tổ chức cấp 1 (gọi là Mã cấp 1). Mã cấp 1 có dạng MX1X2, trong đó: M là chữ cái trong phạm vi từ A đến Y; X1, X2 nhận giá trị là một trong các chữ số từ 0 đến 9.
+
+Các nhóm ký tự nối tiếp sau Mã cấp 1 trong Mã định danh điện tử của các cơ quan, tổ chức lần lượt xác định các cơ quan, tổ chức từ cấp 2 trở đi; cơ quan, tổ chức tại một cấp nhất định trừ cấp 1 là các đơn vị thuộc, trực thuộc cơ quan, tổ chức cấp liền trước.

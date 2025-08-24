@@ -1,0 +1,19 @@
+Ngày 14/8, UBND TP. Đà Nẵng đã đưa vào vận hành Trung tâm giám sát, điều hành thông minh TP. Đà Nẵng (Trung tâm IOC Đà Nẵng). Trung tâm IOC Đà Nẵng là một hợp phần quan trọng được xác định trong kiến trúc tổng thể thành phố thông minh của Đà Nẵng và trong Khung tham chiếu ICT phát triển đô thị thông minh của Bộ Thông tin và Truyền thông.
+
+Trung tâm IOC Đà Nẵng được triển khai theo mô hình toàn diện, gồm IOC cấp thành phố, các trung tâm điều hành quận, huyện (OC quận huyện) và các trung tâm điều hành chuyên ngành (OC chuyên ngành), đáp ứng yêu cầu phân cấp, ủy quyền trong bối cảnh xây dựng chính quyền đô thị tại Đà Nẵng.
+
+Ông Nguyễn Quang Thanh, Giám đốc Sở Thông tin và Truyền thông TP. Đà Nẵng cho biết, khác với nhiều địa phương trên cả nước, TP. Đà Nẵng xây dựng Trung tâm IOC theo mô hình: kế thừa dữ liệu số hiện có, trang bị công cụ phân tích tại tập trung (IOC cấp thành phố); các quận, huyện, sở, ngành (hay trung tâm điều hành - OC) được phân quyền dùng chung, cung cấp thông tin, số liệu, cảnh báo để chỉ đạo, điều hành theo mô hình chính quyền đô thị.
+
+Trong đó, IOC thành phố là Trung tâm giám sát điều hành cấp cao nhất của thành phố, là đầu mối thu thập thông tin, dữ liệu từ các OC chuyên ngành, quận huyện và các hệ thống ứng dụng, cảm biến IoT, phân tích, đưa ra số liệu tổng hợp về tình hình hoạt động của Thành phố để lãnh đạo Thành phố có thông tin chỉ đạo và điều hành.
+
+Dữ liệu số từ các ứng dụng, hệ thống của các cơ quan, đơn vị, cộng đồng sẽ được Trung tâm IOC thu thập, sử dụng lại, kết nối tập trung và thực hiện giám sát trên hệ thống, tạo ra các nhóm dịch vụ đô thị thông minh từ nhiều nguồn khác nhau như dữ liệu từ ứng dụng chính quyền điện tử (dịch vụ công, phản ánh - góp ý, y tế - khám chữa bệnh, giáo dục, chỉ tiêu kinh tế - xã hội,…).
+
+Dữ liệu từ các hệ thống quản lý đô thị thông minh (quan trắc môi trường, thu gom, xử lý nước thải, theo dõi mưa, ngập, giám sát tàu cá, phân tích camera…) và dữ liệu từ các doanh nghiệp, cộng đồng triển khai (đo mưa, camera…).
+
+Đối với người dân, ngoài thụ hưởng các nhóm dịch vụ đô thị thông minh do Thành phố cung cấp; còn được trực tiếp sử dụng các dịch vụ, tiện ích đô thị thông minh trên ứng dụng Danang Smart City, kịp thời nhận được các thông báo khi có các tình huống xấu, khẩn cấp xảy ra trên địa bàn…góp phần nâng cao chất lượng đời sống cho người dân và cộng đồng.
+
+Bên cạnh đó, IOC Đà Nẵng phố còn giúp phát hiện, cảnh báo sớm các vấn đề, sự kiện bất thường liên quan đến hoạt động của đô thị, thông báo cho các cơ quan chức năng để xử lý kịp thời; hỗ trợ làm trung tâm chỉ huy tập trung của TP. Đà Nẵng trong xử lý các tình huống khẩn cấp, thiên tai, dịch bệnh…
+
+Thời gian qua, Sở Thông tin và Truyền thông TP. Đà Nẵng đã tham mưu UBND TP Đà Nẵng ứng dụng các công nghệ mới để tiếp tục bổ sung chức năng, dịch vụ cho IOC; tham vấn các chuyên gia, nhà khoa học và nghiên cứu các mô hình tại các quốc gia khu vực ASEAN và trên thế giới để liên kết, hợp tác, hoàn thiện mô hình; phối hợp với KOICA Hàn Quốc hoàn thành Trung tâm tích hợp kiểm soát khả năng phục vụ đô thị xanh và thông minh... Đến nay, Trung tâm IOC Đà Nẵng cơ bản hoàn thiện các chức năng, cung cấp 15 dịch vụ đô thị thông minh phục vụ lãnh đạo các cấp và người dân, doanh nghiệp.
+
+Theo lãnh đạo TP. Đà Nẵng, việc đưa Trung tâm IOC vào hoạt động trong thời gian đến được kỳ vọng sẽ góp phần xây dựng một đô thị Đà Nẵng thân thiện và thông minh hơn; đồng thời, hướng đến mục tiêu hoàn thành xây dựng đô thị thông minh, kết nối đồng bộ với các mạng lưới đô thị thông minh trong nước và khu vực ASEAN.

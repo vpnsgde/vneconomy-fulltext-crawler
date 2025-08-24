@@ -1,0 +1,23 @@
+Cục Thương mại điện tử và Kinh tế số (Bộ Công Thương) vừa yêu cầu sàn thương mại điện tử gỡ bỏ các thiết bị kích sóng điện thoại di động không có chứng nhận hợp quy và công bố hợp quy.
+
+Theo Cục Thương mại điện tử và Kinh tế số, mới đây, Cục Tần số vô tuyến điện (Bộ Thông tin và Truyền thông) có văn bản gửi Cục, phản ánh về việc một số website/ứng dụng đăng bán thiết bị kích sóng điện thoại di động không có chứng nhận hợp quy và công bố hợp quy trên các website thương mại điện tử, các sàn thương mại điện tử.
+
+Cụ thể, danh sách các thiết bị lặp thông tin di động, kích sóng thuộc các nhãn hiệu bao gồm: Pro DM1, DM2 Pro, Pro DM1/DM2/DM3, ST960, GSM FTECH 930, GSM AT-980, ELE AT-980, ANTN889-340-01, ANTN889-085-01, ANTN889-305-01, ANTN889-230-01, Model DM2, Lintratek KW20L-GWYT-7001, SDAS, ATNJ-GM-80-27, KW20L-GW, GSM 980, RF-1000, GS-AL, RF 2000.
+
+Thiết bị kích sóng di động là loại thiết bị vô tuyến điện hoạt động theo nguyên lý thu sóng tại nơi có cường độ sóng tốt rồi chuyển tiếp, khuếch đại và phát lại ở nơi có sóng yếu, nhằm cải thiện cường độ sóng.
+
+Ngoài ra, việc các cá nhân tự ý lắp đặt thiết bị kích sóng di động có thể sẽ gây can nhiễu, khó khăn trong việc kết nối các cuộc gọi của các thuê bao di động khác trong khu vực. Thậm chí, các thiết bị này có thể ảnh hưởng tới trạm thu phát sóng di động của các nhà cung cấp dịch vụ thông tin di động mặt đất công cộng...
+
+Theo quy định, chỉ các doanh nghiệp cung cấp dịch vụ thông tin di động, có giấy phép sử dụng băng tần mới được sử dụng thiết bị kích sóng điện thoại di động trong hệ thống mạng thông tin di động, để lắp đặt tại các khu vực bị hạn chế vùng phủ sóng.
+
+Nhằm ngăn ngừa việc gây nhiễu có hại tới mạng thông tin di động, Cục Thương mại điện tử và Kinh tế số đề nghị các doanh nghiệp kiểm tra, rà soát và gỡ bỏ các sản phẩm vi phạm trên website và ứng dụng thương mại điện tử như phản ánh.
+
+Đồng thời, triển khai các biện pháp kỹ thuật, nhân sự kiểm duyệt… nhằm ngăn chặn, loại bỏ và xử lý các sản phẩm vi phạm như đã phản ánh trên website và ứng dụng theo quy định.
+
+Cục Thương mại điện tử và Kinh tế số cũng đề nghị người dân, doanh nghiệp nếu phát hiện các website bán các sản phẩm vi phạm nêu trên thì gửi thông tin về Cục Thương mại điện tử và Kinh tế số để có phương án giải quyết.
+
+Theo Cục Tần số vô tuyến điện (Bộ Thông tin và Truyền thông), người dân không được tự ý lắp đặt hay sử dụng thiết bị kích sóng. Trường hợp tự ý lắp đặt, sử dụng thiết bị kích sóng gây nhiễu có hại đối với mạng viễn thông di động công cộng, người lắp đặt trái phép sẽ bị xử phạt vi phạm hành chính đến 30 triệu đồng và tịch thu tang vật, phương tiện thực hiện. Người kinh doanh thiết bị cũng bị xử phạt vi phạm hành chính đến 50 triệu đồng.
+
+Được biết, thời gian qua, Cục Tần số vô tuyến điện đã thanh kiểm tra sử dụng tần số do có nhiều vụ kẻ gian sử dụng trạm BTS giả để phát tán tin nhắn lừa đảo, hoặc người dân sử dụng các thiết bị không hợp quy, phát sóng gây nhiễu tín hiệu khóa thông minh.
+
+Cục Tần số vô tuyến điện đã phát hiện và xử phạt 17 vụ vi phạm, đồng thời giải quyết nhiễu cho 108 đài vô tuyến điện bị nhiễu, chủ yếu là trạm gốc di động.

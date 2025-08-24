@@ -1,0 +1,39 @@
+Nghiên cứu mới nhất của hãng bảo mật Kaspersky cho thấy những người sử dụng thanh toán điện tử ở Đông Nam Á ngày càng nhận thức được tầm quan trọng của việc bảo vệ dữ liệu tài chính trong bối cảnh việc sử dụng thanh toán kỹ thuật số gia tăng nhanh chóng trong khu vực.
+
+Người dùng hiểu rõ về các tính năng bảo mật bổ sung và hy vọng sẽ được các ngân hàng và nhà cung cấp ví điện tử triển khai trong tương lai.
+
+Nghiên cứu cũng tiết lộ danh sách những mong muốn liên quan đến bảo mật của khách hàng đối với các ngân hàng và nhà cung cấp dịch vụ thanh toán di động trong khu vực.
+
+Báo cáo với tiêu đề "Xây dựng lộ trình an toàn hướng tới tương lai của thanh toán số ở khu vực châu Á – Thái Bình Dương” đã phát hiện ra rằng hơn ba phần năm (67%) người dùng các ứng dụng ngân hàng số và ví điện tử ở Đông Nam Á thích triển khai OTP (One Time Password - mật khẩu dùng một lần) qua SMS cho mọi giao dịch.
+
+Hơn nữa, đa số người được hỏi cũng muốn xem xét việc triển khai xác thực hai yếu tố (2FA) (57%) cũng như các tính năng bảo mật sinh trắc học như nhận dạng khuôn mặt hoặc vân tay (56%).
+
+Cụ thể, việc triển khai OTP là ưu tiên hàng đầu của người tiêu dùng ở hầu hết các nước Đông Nam Á, bao gồm Indonesia (67%), Malaysia (66%), Philippines (75%), Thái Lan (63%) và Việt Nam (74%) - ngoại trừ Singapore, nơi xác thực hai yếu tố là mối quan tâm cấp thiết nhất (65%).
+
+Khách hàng thanh toán kỹ thuật số cũng hoan nghênh việc sử dụng máy học trong việc chống lại các cuộc tấn công phi kỹ thuật. Gần một nửa (40%) cho rằng các công ty nên tự động ngăn chặn các cuộc gian lận hoặc lừa đảo dựa trên hành vi chi tiêu và/hoặc lịch sử chuyển khoản.
+
+Ngoài ra, hơn một phần tư (28%) cũng cho biết Tokenization - quá trình bảo vệ dữ liệu nhạy cảm bằng cách thay thế nó bằng một con số mã hoá gọi là mã token - cũng có thể tăng cường bảo mật cho các ứng dụng ngân hàng di động và thanh toán điện tử trong khu vực.
+
+Ông Yeo Siang Tiong, Tổng Giám đốc Kaspersky khu vực Đông Nam Á cho biết: Quy mô thị trường lớn mạnh của Đông Nam Á về thanh toán kỹ thuật số mở ra một chặng đường dài cho sự phát triển. Trong lĩnh vực cạnh tranh, các công ty thanh toán không chỉ được đánh giá dựa trên những đổi mới mà còn về chương trình bảo mật.
+
+“Chúng tôi nhận thấy khách hàng ngày càng nhận thức được giá trị của công nghệ để bảo vệ tài chính trực tuyến của họ. Tuy nhiên, chúng ta không nên nhìn nhận các lựa chọn này một cách đơn lẻ mà hãy coi đấy là một phần của khuôn khổ an ninh mạng toàn diện”, ông Tiong nói.
+
+Đại diện Kaspersky Đông Nam Á cũng thừa nhận việc sử dụng xác thực hai yếu tố có những hạn chế của nó, đặc biệt là xác thực dựa trên SMS. Tin nhắn SMS mang mật khẩu có thể bị chặn bởi một Trojan nằm bên trong điện thoại thông minh hoặc do lỗi trong giao thức SS7 được sử dụng để truyền tin nhắn, khiến 2FA dựa trên SMS đôi khi không đáng tin cậy.
+
+Trong những trường hợp như vậy, người dùng nên sử dụng các ứng dụng xác thực độc lập, còn SMS chỉ nên sử dụng như phương án cuối cùng để hạn chế lỗ hổng.
+
+Theo chuyên gia Kaspersky, với tính chất phức tạp của việc bảo mật ứng dụng và tài chính trực tuyến, không ngạc nhiên khi hơn ba phần năm (65%) số người được hỏi cho rằng các ngân hàng và công ty ví điện tử nên cung cấp nhiều tính năng hơn để duy trì bảo mật như thay đổi mật khẩu thường xuyên; 60% khác cho rằng các nhà cung cấp nên phổ cập người dùng nhiều hơn về các mối đe dọa trực tuyến.
+
+58% CẦN TÍNH NĂNG BẢO MẬT BỔ SUNG TRÊN VÍ ĐIỆN TỬ
+
+Về việc chọn nhà cung cấp ví điện tử, nghiên cứu Kaspersky cũng tiết lộ hơn một nửa (58%) người dùng ví điện tử có các tính năng bảo mật bổ sung như vân tay và 2FA, trong khi hơn một phần ba (37%) cho biết họ sẽ sử dụng các ứng dụng ngân hàng hoặc ví điện tử từ các nhà cung cấp chưa tham gia vào bất kỳ vụ vi phạm dữ liệu hoặc cuộc tấn công an ninh mạng nào trước đây.
+
+Một số người trả lời cũng cho rằng ví điện tử cần phải độc lập - có thể được sử dụng trực tiếp bởi ngân hàng hoặc thông qua bên thứ ba (42%) hoặc một ví khép kín - được liên kết với những người bán cụ thể, nơi người dùng chỉ có thể sử dụng tiền để thực hiện thanh toán cho các giao dịch với người bán cụ thể (35%).
+
+Một số cân nhắc khác trong việc lựa chọn công ty cung cấp ví điện tử bao gồm các ứng dụng nên cung cấp khuyến mại, hoàn tiền, phí chuyển khoản thấp hơn (49%); cung cấp tính năng ẩn danh - người dùng không cần tiết lộ chi tiết thẻ tín dụng cho quá nhiều người bán (35%); không có ngân hàng - không cần chi tiết tài khoản ngân hàng (25%); và được phát triển trong nước (16%).
+
+Theo ông Tiong, để phát triển một chiến lược tăng trưởng lâu dài và bền vững, các công ty thanh toán kỹ thuật số cần suy xét đến một số mong muốn và nhu cầu của người dùng. Mặc dù có một số biện pháp phòng ngừa không hoàn toàn mới và đã xuất hiện được một thời gian, nhưng điều quan trọng là phải xem xét các tính năng bảo mật có thể được tích hợp theo cách mà không ảnh hưởng đến trải nghiệm người dùng.
+
+
+
+Để bảo vệ khỏi các thủ thuật gian lận, mối đe dọa mạng, Kaspersky khuyến nghị các nhà cung cấp dịch vụ thanh toán kỹ thuật số:

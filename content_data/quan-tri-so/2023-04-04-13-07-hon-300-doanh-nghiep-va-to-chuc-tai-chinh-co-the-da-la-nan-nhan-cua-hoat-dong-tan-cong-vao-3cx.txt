@@ -1,0 +1,21 @@
+Thông tin vừa được Tập đoàn công nghệ Bkav phát ra sáng nay (4/4), cho biết 3CXDesktopApp là ứng dụng dành cho việc gọi điện và chăm sóc khách hàng của các doanh nghiệp. Ứng dụng này có phiên bản cho các hệ điều hành phổ biến gồm: Windows, macOS và Linux.
+
+Ngoài ra, các nền tảng bị ảnh hưởng bao gồm các phiên bản framework Electron cho ứng dụng máy tính để bàn 3CX trên cả macOS (phiên bản 18.11.1213, 18.12.402, 18.12.407 và 18.12.416) và Windows (phiên bản 18.12.407 và 18.12.416).
+
+Hiện, 3CX đang có hơn 600.000 khách hàng và 12 triệu người dùng mỗi ngày ở 190 quốc gia, bao gồm những thương hiệu lớn như American Express, BMW, Honda, IKEA, Pepsi, Toyota…
+
+Theo đánh giá của các chuyên gia an ninh mạng, tấn công có chủ đích (APT) lần này, hacker đã chuẩn bị cơ sở hạ tầng cho việc tấn công từ tháng 2/2022 và truy cập vào hệ thống của 3CX ít nhất từ tháng 11 đến 12/2022.
+
+Cụ thể, hacker đã chèn mã độc gián điệp APT vào bản cập nhật, được ký số bởi chính 3CX, rồi gửi đến máy người dùng thông qua quá trình cập nhật tự động hoặc thủ công. Sau đó, máy tính nạn nhân sẽ bị kiểm soát toàn bộ thông tin và bị chiếm quyền điều khiển. Đây cũng là bàn đạp để hacker thọc sâu vào các hệ thống nội bộ của doanh nghiệp, tổ chức bằng cách leo thang đặc quyền.
+
+Tại Việt Nam, Công ty an ninh mạng Bkav ghi nhận có ít nhất 318 đơn vị, tổ chức sử dụng 3CXDesktopApp bị ảnh hưởng, trong đó có nhiều doanh nghiệp và tổ chức tài chính lớn.
+
+Với mức độ ảnh hưởng đặc biệt nghiêm trọng của chiến dịch tấn công này, Bkav khuyến cáo các đơn vị đang sử dụng phần mềm 3CXDesktopApp cần lập tức thực hiện những việc sau: Đóng, ngắt toàn bộ kết nối ra Internet của hệ thống nhằm chặn đứng các hành vi xâm nhập, điều khiển của hacker; Cập nhật phiên bản mới nhất của 3CXDesktopApp.
+
+Đồng thời, liên hệ với các đơn vị chuyên môn về an ninh mạng để thực hiện rà soát tổng thể toàn bộ hệ thống của mình, bao gồm: các máy chủ, máy trạm và hệ thống cloud, nhằm bóc tách triệt để phần mềm gián điệp.
+
+Theo đánh giá của ông Nguyễn Văn Cường, Giám đốc An ninh mạng Bkav, mã độc tấn công APT ngày càng trở nên tinh vi, thay vì nhắm trực tiếp vào các đơn vị tổ chức, chúng tấn công các đơn vị cung cấp phần mềm, biến các phần mềm đó thành gián điệp cho chúng. Từ đó, đánh cắp, mã hóa dữ liệu và thực hiện hành vi phá hoại khác…
+
+“Chúng tôi khuyến cáo, đơn vị, tổ chức cần triển khai các giải pháp giám sát an ninh mạng SOC để có thể lập tức phát hiện dấu hiệu bất thường của các cuộc tấn công như thế này, nhằm ứng cứu, xử lý kịp thời”, ông Cường cảnh báo.
+
+Ngày 4/4, Bkav đã cập nhật mã độc này và khuyến cáo người dùng kiểm tra còn tồn tại các phiên bản 3CXDesktopApp có chứa mã độc hay không, có thể dùng phần mềm diệt virus miễn phí Bkav Home.

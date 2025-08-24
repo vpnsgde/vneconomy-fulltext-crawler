@@ -1,0 +1,19 @@
+Vietcombank ứng dụng công nghệ QR vào dịch vụ rút tiền tại ATM, giúp khách hàng có thể rút tiền dễ dàng và nhanh chóng mà không cần mang theo thẻ.
+
+Ngày nay, mọi người dân Việt Nam không còn ai xa lạ với thuật ngữ ATM (Automated Teller Machine) - một thiết bị của các ngân hàng được lắp đặt để giúp người dân rút tiền mặt và thực hiện các giao dịch chuyển khoản, thanh toán hóa đơn dịch vụ...ngay khi có nhu cầu mà không cần đến giao dịch tại ngân hàng.
+
+Theo số liệu thống kê của Ngân hàng Nhà nước Việt Nam, tính đến hết quý 4/2020, số lượng giao dịch tại ATM đạt hơn 1 tỷ giao dịch. Số liệu cho thấy nhu cầu giao dịch của người dân tại ATM hiện nay vẫn đang rất lớn và tăng lên qua các năm, trong đó rút tiền mặt là nhu cầu thiết yếu nhất.
+
+Để đáp ứng nhu cầu của khách hàng, số lượng máy ATM được các ngân hàng lắp đặt cũng tăng trưởng liên tục. Kể từ năm 2002, khi Vietcombank lắp đặt ATM đầu tiên tại Việt Nam, thì đến hết năm 2020, số lượng ATM đã đạt đến con số hơn 19.000 máy (theo số liệu thống kê của Ngân hàng nhà nước).
+
+Nỗ lực của Ngân hàng Nhà nước cũng như các ngân hàng thương mại đã giúp cho giao dịch tại ATM trở nên thuận tiện và phổ biến. Tuy nhiên, với sự phát triển nhanh chóng về công nghệ, nhằm mang lại dịch vụ và trải nghiệm tốt nhất cho khách hàng, giúp cho việc rút tiền mặt tại ATM trở nên dễ dàng và tiện lợi hơn, Vietcombank là một trong những ngân hàng đầu tiên nghiên cứu và phát triển dịch vụ mới: "Rút tiền không cần thẻ vật lý" bằng việc áp dụng công nghệ QR với ứng dụng ngân hàng trên điện thoại di động.
+
+Từ tháng 6/2020, Vietcombank đã ra mắt dịch vụ rút tiền bằng QR tại ATM áp dụng cho các chủ thẻ ghi nợ nội địa Vietcombank Connect24. Theo đó, các chủ thẻ ghi nợ nội địa Vietcombank Connect24 có thể mở ứng dụng VCB-Digibank trên điện thoại và quét mã QR hiển thị tại màn hình ATM để rút tiền một cách nhanh chóng mà không cần mang theo thẻ vật lý.
+
+Dịch vụ này mang đến sự tiện lợi cho khách hàng, giúp tránh được các trường hợp bất tiện khi sử dụng thẻ vật lý để rút tiền mặt trong các trường hợp khách hàng làm mất thẻ, quên mang thẻ theo người, thẻ bị gãy hoặc ATM nuốt thẻ. Ngoài ra, tính bảo mật khi rút tiền bằng mã QR cũng rất cao, kẻ gian không thể lợi dụng sao chép thông tin cá nhân trên thẻ.
+
+Trong tương lai, Vietcombank đặt ra kế hoạch mở rộng dịch vụ này cho thẻ quốc tế để tất cả các chủ thẻ của Vietcombank đều được trải nghiệm dịch vụ ưu việt này.
+
+* Thông tin chi tiết:
+
+Trung tâm hỗ trợ khách hàng: 1900545413.

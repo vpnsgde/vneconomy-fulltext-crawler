@@ -1,0 +1,13 @@
+Đối tượng của chương trình là học sinh đã hoàn thành trung học phổ thông, được cấp bằng tốt nghiệp hoặc các chứng chỉ tương đương đều có thể đăng ký. Việc đăng ký vào chương trình sẽ được thực hiện thông qua một bài kiểm tra đầu vào. Sau khi hoàn thành chương trình đào tạo 12 tháng, ứng viên sẽ gia nhập HCL Việt Nam và được trả lương tương xứng với vị trí công việc phù hợp.
+
+
+
+Ông Sanjay Gupta, Phó Chủ tịch Tập đoàn HCL Technologies, cho biết: Việt Nam là thị trường có tiềm năng lớn và nguồn nhân lực dồi dào, đáp ứng yêu cầu từ các công ty công nghệ toàn cầu. Chương trình sẽ cung cấp cho các sinh viên một khởi đầu sớm ở các nghề nghiệp thuộc lĩnh vực công nghệ cao.
+
+“Với chương trình TechBee, HCL đặt mục tiêu tuyển dụng những tài năng trong nước và giúp các em sớm độc lập về tài chính trong cuộc sống. Tôi đặc biệt khuyến khích tất cả các học sinh đã tốt nghiệp trung học đăng ký tham gia chương trình và bắt đầu sự nghiệp của mình trong lĩnh vực công nghệ thông tin”, ông Sanjay Gupta nói.
+
+HCL đã bắt đầu chương trình này tại Ấn Độ vào năm 2017 với mục tiêu tìm kiếm nhân tài và tạo điều kiện giúp người tham gia đạt được sự độc lập về tài chính. Sau khi được tổ chức thành công tại Ấn Độ, Úc và Sri Lanka, chương trình TechBee của HCL đang đào tạo các ứng viên được lựa chọn trong các ngành công nghệ cao để giúp các nhân tài sẵn sàng bắt đầu sự nghiệp sớm.
+
+Tính đến hiện tại, đã có hơn 3.000 sinh viên hoàn thành chương trình TechBee và hiện đang làm việc với HCL và các doanh nghiệp trong Fortune 500 và Global 2000.
+
+Tại Việt Nam, HCL bắt đầu hoạt động kinh doanh vào tháng 7/2020. Một phần quan trọng trong chiến lược phát triển và kinh doanh của HCL tại đây là cung cấp kỹ năng và nền tảng phù hợp để đào tạo các nhân tài trong nước, bao gồm các học sinh tốt nghiệp trung học để giúp các em có những cơ hội nghề nghiệp trong các lĩnh vực công nghệ cao và cung cấp môi trường cần thiết để có thể làm việc tại các vị trí trên toàn cầu.

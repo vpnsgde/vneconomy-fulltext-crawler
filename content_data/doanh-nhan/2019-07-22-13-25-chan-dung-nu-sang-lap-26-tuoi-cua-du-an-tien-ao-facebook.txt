@@ -1,0 +1,33 @@
+Ngày 12/2/2018, nhà đầu tư, nhà công nghệ tiền ảo Howard Wu được mời tới trụ sở của Facebook tại Menlo Park để thảo luận về những cơ hội và rủi ro khi giới thiệu công nghệ chuỗi khối (Blockchain) cho hơn 2 tỷ người dùng của mình. Lời mời này không đến từ CEO Mark Zuckerberg hay David Marcus, lãnh đạo hiện tại của dự án tiền ảo của Facebook.
+
+Thay vào đó, Wu đến để gặp Morgan Beller, một nhân vật khá mới trong mảng phát triển doanh nghiệp của Facebook và là một trong ba người đứng đầu dự án Libra cùng ví điện tử Calibra.
+
+Theo CNBC, kể từ khi công bố dự án tiền ảo Libra và ví điện tử Calibra hồi tháng 6, David Marcus nổi lên là bộ mặt của hai dự án này, khi công bố chi tiết dự án trên các đăng tải, thực hiện phỏng vấn với báo chí và điều trần trước các nhà lập pháp của Quốc hội. Tuy nhiên, trong cộng đồng Blockchain, Morgan Beller được biết đến là động lực đầu tiên đứng sau bước tiến của Facebook vào lĩnh vực tiền ảo.
+
+Trên trang LinkedIn, Beller tự giới thiệu là giám đốc chiến lược của Calibra cũng như đồng sáng lập của Libra. Beller là một trong ba nhân viên Facebook đồng sáng lập dự án này, cùng với Marcus và Phó chủ tịch Kevin Weil.
+
+"Beller Morgan thực sự là người sáng lập đầu tiên của dự án này, ít nhất là theo hiểu biết của tôi", Wu cho biết. "Cô ấy đã làm được việc tuyệt vời là giúp những người khác trong cộng đồng tiền ảo đứng về phía Libra".
+
+CNBC đã tiến hành phỏng vấn 10 chuyên gia trong lĩnh vực công nghệ từng làm việc với Beller, bao gồm những người từng làm việc cùng trước và sau khi Beller gia nhập Facebook.
+
+Beller, năm nay 26 tuổi, được mô tả là người lạc quan, đầy năng lượng và có sức hút. Trước khi cùng hợp tác với Marcus và Weil, Beller là người duy nhất làm việc với sáng kiến Blockchain của Facebook. Trong nhiều tháng của năm 2017, Beller đã dành thời gian để nghiên cứu công nghệ này và làm việc với các chuyên gia trong lĩnh vực, theo Wu và một nguồn thân cận khác.
+
+Beller đã thuyết phục Facebook xem xét công nghệ Blockchain một cách nghiêm túc và vào ngày 8/5/2018, dự án chính thức được khởi động với sự tham gia phát triển của Beller cùng Marcus - người trước đó từng điều hành dịch vụ nhắn tin Messenger của Facebook. Vài tháng sau đó, Marcus và Beller chiêu mộ thêm vài tài năng hàng đầu khác của Facebook, bao gồm Weil, cùng phát triển Libra và ví Calibra.
+
+Theo Bill Barhydt, CEO của startup ví tiền ảo Abra, có trụ sở tại Mountain View, California (Mỹ), Beller đã có chỗ đứng nhất định trong lĩnh vực tiền số. Ông cho biết Beller đã dành nhiều thời gian với cộng đồng tiền ảo, gặp gỡ các chuyên gia như Wu và tham gia các hội thảo về công nghệ Blockchain.
+
+"Cô ấy (Morgan Beller) đặc biệt tin tưởng vào những tác động tích cực mà công nghệ tiền ảo có thể mang lại cho các cộng đồng chưa được tiếp cận được với dịch vụ tài chính trên khắp thế giới", Barhydt cho biết.
+
+Tinh thần này được Facebook và Marcus lặp lại từ sau công bố Libra và Calibra vào tháng 6. Tuần trước, trong phiên điều trần trước Hội đồng Ngân hàng Thượng viện, Marcus nói rằng: "Hiện tại, việc sử dụng và chuyển tiền trên khắp thế giới có chi phí quá đắt đỏ. Chúng tôi tin rằng Libra có thể là một lựa chọn thay thế an toàn, hiệu quả với chi phí thấp hơn".
+
+Ngoài ra, nhiều người trong cộng đồng tiền ảo cũng đánh giá cao cho những nỗ lực của Beller khi tiếp thu các phản hồi của họ - cả khen lẫn chê - và truyền đạt lại cho các đồng nghiệp ở Facebook.
+
+"Facebook đã bị nhiều người hoài nghi sau loạt bê bối vi phạm quy định về dữ liệu và quyền riêng tư, vì vậy thật tốt khi có ai đó trong công ty này cố gắng duy trì vươn tới các tiêu chuẩn tốt nhất".
+
+Trước khi gia nhập Facebook, vị trí cấp cao đầu tiên của Beller là tại công ty quỹ đầu mạo hiểm Andreessen Horwitz từ năm 2013 đến 2016. Tại đây, Beller chứng tỏ năng lực khi nhanh chóng xây dựng mạng lưới và phát hiện các cơ hội.
+
+"Morgan Beller có tư duy tuyệt vời về sản phẩm và luôn rất sắc bén khi chúng tôi còn làm việc cùng nhau", Steve Sinofsky, đối tác tại Andreessen Horwitz và từng đảm nhiệm một vị trí cấp cao tại Microsoft, cho biết.
+
+Sau Andreessen Horowitz, Beller làm việc cho Medium, công ty có trụ sở tại San Francisco, cho phép các cây bút đăng tải bài viết của họ dưới dạng dài. Beller làm việc một năm tại bộ phận phát triển sản phẩm doanh nghiệp của công ty này. Thành tựu lớn nhất của Beller là đứng đầu thương vụ mua lại startup công nghệ Embedly của Medium.
+
+"Nếu cần một người để tìm hiểu thứ gì đó, bạn sẽ tìm đến Morgan. Cô ấy sẽ ra ngoài, gặp gỡ mọi người, tìm hiểu mọi thứ và trở lại để trình bày về nó", Edward Lichty, người từng là giám sát của Beller tại Medium, cho biết. "Tôi luôn cho rằng Morgan sẽ làm được những điều tuyệt vời và tôi không ngạc nhiên khi cô ấy trở thành tâm điểm của một dự án lớn như Libra của Facebook".

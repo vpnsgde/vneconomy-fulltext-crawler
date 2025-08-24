@@ -1,0 +1,39 @@
+Những năm gần đây, việc ứng dụng công nghệ thông tin trong công tác quản trị bệnh viện, bảo vệ, chăm sóc, nâng cao sức khỏe người dân có bước phát triển quan trọng. Ðiều này đặt nền móng xây dựng nền y tế thông minh với ba trụ cột chính là phòng bệnh, chăm sóc sức khỏe thông minh; khám, chữa bệnh thông minh và quản trị y tế thông minh. Người dân bước đầu được hưởng lợi từ các thành tựu công nghệ trong hoạt động y tế.
+
+ỨNG DỤNG TRA CỨU THUỐC CẤP CỨU
+
+Ngày 4/9, Sở Y tế TP.HCM cho biết vừa triển khai ứng dụng tra cứu nhanh thuốc cấp cứu tại các bệnh viện trên địa bàn. Theo đó, ứng dụng tra cứu thuốc cấp cứu được xây dựng nhằm tạo ra một hệ thống thông tin liên kết giữa các bệnh viện đa khoa, chuyên khoa.
+
+Ứng dụng gồm các chức năng chính như: Cập nhật thông tin tình hình tồn kho thuốc cấp cứu; Tra cứu và tìm kiếm thuốc cấp cứu tại các cơ sở khám bệnh, chữa bệnh; Theo dõi, cảnh báo tình hình tồn kho thuốc cấp cứu tại các cơ sở… Giám đốc Sở Y tế TP.HCM Tăng Chí Thượng, cho biết dựa trên thông tin về tình trạng sẵn có của thuốc, bác sĩ có thể đưa ra quyết định nhanh chóng, đồng thời phối hợp các bệnh viện khác trong trường hợp cần chuyển viện hoặc chia sẻ thuốc. Các bệnh viện cũng được theo dõi, cảnh báo tình hình tồn kho thuốc cấp cứu để có các biện pháp can thiệp kịp thời.
+
+Ứng dụng này ra đời trong bối cảnh những loại thuốc hiếm, thuốc cấp cứu thường có nhu cầu sử dụng thấp, không thường xuyên, một số thuốc chi phí rất cao. Những năm gần đây, một số thuốc cấp cứu trở nên khan hiếm, khiến một bệnh viện đảm bảo phải có đủ tất cả loại thuốc cấp cứu là điều rất khó khăn. "Việc đảm bảo cung ứng thuốc kịp thời và đầy đủ, đặc biệt là những loại thuốc cấp cứu đặc trị theo từng chuyên khoa là một yêu cầu mang tính sống còn cho hoạt động cấp cứu hàng ngày của từng bệnh viện", ông Thượng nói.
+
+Trước mắt, từ tháng 9, Sở Y tế triển khai thực hiện cập nhật dữ liệu tồn kho thuốc cấp cứu hiện có của một số bệnh viện đa khoa và chuyên khoa tuyến cuối của Thành phố (về Sản, Nhi, Nhiễm, Huyết học…). Sau đó, Sở sẽ mở rộng sự tham gia chia sẻ của các bệnh viện thuộc bộ ngành, các bệnh viện tư nhân trên địa bàn, góp phần đảm bảo nguồn cung ứng thuốc cấp cứu.
+
+KI ỐT Y TẾ THÔNG MINH
+
+Đây là các ki ốt tự đáp ứng yêu cầu tiếp đón khám chữa bệnh sử dụng CCCD/VNeID, sử dụng sinh trắc học với các tính năng: đăng ký khám chữa bệnh qua xác thực thẻ CCCD/nhận diện khuôn mặt; tự động liên kết thông tin bảo hiểm xã hội theo số CCCD; tạo tài khoản ngân hàng để thanh toán chi phí khám chữa bệnh không dùng tiền mặt... Đồng thời, các y bác sĩ có thể chủ động tiếp nhận thông tin, theo dõi lịch sử khám bệnh của người bệnh nhanh chóng, dễ dàng, thuận tiện hơn, giúp giảm thời gian chờ đợi xếp hàng chờ lượt khám.
+
+Hiện nay, trên địa bàn thành phố Hà Nội, Sở y tế đã triển khai thí điểm 5 ki ốt tự phục vụ tiếp đón khoảng 1.600 bệnh nhân/ngày tại Bệnh viện đa khoa Xanh Pôn và 1 ki ốt tại Bệnh viện đa khoa Đống Đa. Bên cạnh đó, Sở y tế thành phố Hà Nội tiếp tục triển khai thí điểm ki ốt tự phục vụ tại Bệnh viện đa khoa Ba Vì và Bệnh viện Hòe Nhai. Với ki ốt y tế thông minh, trong lần đầu tiên đến khám bệnh, người dân sử dụng căn cước công dân gắn chíp và nhận diện khuôn mặt để đăng ký cũng như thanh toán viện phí.
+
+Tại Bệnh viện Hòe Nhai, thay vì tiếp đón 5 phút cho 1 bệnh nhân giờ chỉ còn 30 giây cho 1 bệnh nhân, nhân lực tiếp đón cũng chỉ cần duy nhất 1 người. Bác sĩ CKII Đỗ Ngọc Phan, Phó giám đốc Bệnh viện Hòe Nhai, Hà Nội nhận định: "Tất cả thông tin bệnh nhân được liên kết hồ sơ bệnh án điện tử, lưu lại dữ liệu trên hồ sơ khám của bệnh nhân, những lần sau bệnh nhân đã được lưu lại thông tin, dữ liệu đó được sử dụng lên cổng bảo hiểm y tế đồng thời giúp chúng tôi có thể lập kế hoạch điều trị và chăm sóc bệnh nhân nhanh hơn và chính xác hơn".
+
+Sở Y tế Hà Nội đã yêu cầu các đơn vị nghiên cứu, đăng ký triển khai mô hình ki ốt y tế thông minh góp phần chuyển đổi số ngành y tế, thúc đẩy thanh toán không dùng tiền mặt trong bệnh viện. Đặc biệt, sau khi triển khai, cần tiếp tục kiểm tra, theo dõi, đánh giá hiệu quả mô hình để có những giải pháp điều chỉnh kịp thời.
+
+LIÊN THÔNG ĐƠN THUỐC, NHẬN THUỐC
+
+Tại Bệnh viện Đa khoa Đức Giang (Hà Nội), mặc dù số lượng bệnh nhân đến khám khá đông, nhưng khu vực cửa nhận thuốc bảo hiểm y tế (BHYT) không bị quá tải. TS.BS Trần Thị Oanh, Phó Giám đốc Bệnh viện Đa khoa Đức Giang cho biết: nhờ ứng dụng số hóa, ngay khi quy trình tại bàn khám kết thúc, đơn thuốc được bác sĩ kê xong thì dữ liệu đơn thuốc đã được chuyển lên phần mềm tới bộ phận cấp phát thuốc cho bệnh nhân.
+
+Nhân viên dưới khu vực cấp phát thuốc đã sẵn sàng chuẩn bị thuốc cho người bệnh; để khi người bệnh xuống đến quầy thuốc là mọi thứ đã sẵn sàng, chỉ cần đối chiếu mã số đơn thuốc để khớp nhận thuốc và có thể ra về.
+
+Là “điểm sáng” của Hà Nội về áp dụng công nghệ trong khám, chữa bệnh, đến nay, Bệnh viện Đức Giang đã triển khai số hóa được nhiều khâu: Từ quy trình tiếp đón, phân luồng sử dụng CCCD gắn chip, face ID, đặt lịch khám theo mô hình khoang máy bay… đến liên thông dữ liệu giữa các khoa phòng, các khâu… giúp bệnh nhân chủ động được thời gian, tránh việc quá tải dồn vào một vài thời điểm. Đa phần bệnh nhân đi khám tại bệnh viện có thể kết thúc quy trình khám và nhận thuốc trong một buổi khám mà không phải chờ đợi trong ngày.
+
+MÔ HÌNH BỆNH VIỆN THÔNG MINH
+
+Với phương châm “bệnh viện không giấy tờ”, quản lý tài sản công khai, minh bạch, thời gian vừa qua, Bệnh viện Hữu nghị Việt Đức đã chuyển đổi thành công ứng dụng phần mềm quản lý tài sản. TS Dương Đức Hùng, Giám đốc bệnh viện cho biết, để giảm chi phí, Bệnh viện không mua tem QR, mà mua máy in tem và huy động nhân lực tại các khoa để thống kê tài sản.
+
+Hiện tại, Ban lãnh đạo, giám đốc Bệnh viện có thể biết được từng vật tư, máy móc ở mỗi khoa, phòng một cách chi tiết như: Ngày sản xuất, ngày mua, nguồn mua hay tài trợ, mới hay cũ, khấu hao còn bao nhiêu, cần sửa chữa hay phải mua mới… Việc tính khấu hao theo quy định do phần mềm tự thực hiện, còn vật tư tiêu hao cập nhật theo thời gian thực, giúp Bệnh viện chủ động lập kế hoạch mua sắm, đấu thầu, thay vì đợi hết, hỏng mới mua sắm, sửa chữa.
+
+Cùng với các mô hình khám, tư vấn bệnh từ xa, “bệnh viện không giấy tờ”, Bệnh viện Hữu nghị Việt Đức cũng triển khai mô hình bệnh viện thông minh. Sử dụng hệ thống PACS (truyền và lưu trữ hình ảnh, bệnh viện đã số hoá toàn bộ hình ảnh nội soi, điện tim, chiếu chụp, tích hợp kết quả xét nghiệm của bệnh nhân và giao bệnh án điện tử cho bệnh nhân, để có thể sử dụng khám chữa bệnh ở nơi khác.
+
+Đối với công tác khám chữa bệnh, mỗi bệnh nhân đến bệnh viện đều có một ID là số căn cước công dân, đảm bảo thống nhất, an toàn, không lo nhầm lẫn. Cạnh đó, Bệnh viện Việt Đức cũng đang triển khai mã vân tay để thuận tiện cho bệnh nhân khi đi khám, chữa bệnh, không lo quên hay thất lạc giấy tờ.

@@ -1,0 +1,39 @@
+Tuần vừa rồi, giá bitcoin liên tục lập kỷ lục mới, đỉnh điểm là vượt qua mốc 70.000 USD vào hôm thứ Sáu. Một số nhà đầu tư và chuyên gia tin rằng quy luật cung-cầu chính là một lý do quan trọng phía sau sự bùng nổ này của đồng tiền ảo lớn nhất thế giới.
+
+Tương tự giá của các loại hàng hoá cơ bản như vàng, dầu hay đậu tương, giá bitcoin rất nhạy cảm với sự biến động của nhu cầu. Trong khi đó, nhu cầu bitcoin đã tăng mạnh sau khi các quỹ giao dịch hoán đổi (ETF) bitcoin giao ngay được nhà chức trách Mỹ cho phép thành lập ở nước này vào tháng 1 năm nay, sau một thời gian dài trì hoãn. Các quỹ này trực tiếp mua và nắm giữ bitcoin thay cho các nhà đầu tư rót vốn vào quỹ - những người muốn đầu tư bitcoin nhưng không muốn phải trực tiếp giao dịch  loại tài sản này. Dòng tiền từ các nhà đầu tư như vậy đã thúc đẩy các quỹ ETF mua bitcoin để đáp ứng nhu cầu, dẫn tới giá được đẩy lên cao.
+
+Tuy nhiên, bitcoin khác biệt so với các hàng hoá cơ bản ở chỗ nguồn cung bitcoin hữu hạn, và điều này là một động lực có thể dẫn đến sự tăng giá đột ngột.
+
+Mã máy (computer code) giữ vai trò nền tảng của bitcoin áp đặt giới hạn không thể xê dịch là tối đa chỉ có 21 triệu đồng bitcoin. Hơn 90% số bitcoin trong giới hạn này đã được tạo ra. Để tạo thêm bitcoin trong khoảng giới hạn, các máy tính làm công việc “đào” (mine) bitcoin sẽ chạy các thuật toán và phần thưởng nhận được là những đồng bitcoin mới. Nhưng việc đào tiền ảo này chỉ có thể tạo ra khoảng 900 bitcoin mới mỗi ngày ở thời điểm hiện nay, và tốc độ này ​​sẽ giảm vào tháng tới sau một sự kiện định kỳ được gọi là “phân đôi” (halving). Nguồn cung bitcoin cuối cùng sẽ ngừng tăng khi đồng bitcoin cuối cùng được “đào”, dự kiến vào khoảng năm 2140.
+
+“Bitcoin là một trong những tài sản khan hiếm nhất trên thế giới và đang trở nên hiếm hơn mỗi ngày”, trưởng nghiên cứu Alex Thorn của công ty tiền số Galaxy Digital nhận định với tờ báo Wall Street Journal.
+
+Không ai dám chắc bitcoin sẽ tiếp tục tăng giá. Mức giá cao hiện tại có thể khuyến khích nhà đầu tư bán ra bitcoin để chốt lợi nhuận. Các đợt thị trường tăng giá trước đây của Bitcoin đã được nối tiếp  bởi những đợt sụt giảm nghiêm trọng. Chẳng hạn, sau khi lập kỷ lục vào tháng 11/2021, giá bitcoin đã giảm hơn 70% trong năm 2022. Ngoài ra, những người có quan điểm hoài nghi về tiền ảo vẫn coi bitcoin là một tài sản đầu cơ không có giá trị nội tại nào.
+
+Theo dữ liệu từ trang Coinmarketcap.com, giá bitcoin vào lúc gần 9h sáng nay (11/3) theo giờ Việt Nam giao dịch ở mức gần 67.900 USD. Tuy đã giảm từ mức kỷ lục hơn 70.000 USD thiết lập hôm thứ Sáu, giá bitcoin hiện vẫn tăng gần 60% từ đầu năm đến nay.
+
+Xét về mặt kinh tế học, nguồn cung bitcoin về cơ bản không có độ co giãn, tức là nguồn cung của tiền ảo này không phản ứng linh hoạt với biến động giá. Những hàng hóa có đặc tính này thường có mức độ biến động giá cao hơn so với các hàng hoá khác.
+
+Các nhà sản xuất khí đốt tự nhiên không thể bơm nhiều khí đốt hơn trong thời gian ngắn để tranh thủ mức giá cả. Tuy nhiên, trong dài hạn, giá khí đốt cao kéo dài sẽ khuyến khích các nhà khai thác tìm kiếm các mỏ khí đốt mới. Tương tự, khi giá vàng tăng cao trong thời gian dài, các nhà khai mỏ vàng sẽ đổ đi tìm các mỏ mới.
+
+Nhưng bitcoin lại không như vậy.
+
+Các quy tắc được đưa vào mã bitcoin chỉ định tốc độ mà các thợ đào (miner) có thể những đồng bitcoin mới ra thị trường, và tốc độ này giảm đi một nửa mỗi lần “phân đôi” - sự kiện diễn ra 4 năm một lần. Trước đây, giá bitcoin đã tăng trước những đợt “phân đôi” như vậy, vì các nhà đầu tư tin rằng nguồn cung bitcoin sẽ thắt chặt hơn. Ý tưởng bitcoin nên có nguồn cung tối đa cố định như vậy đến từ Satoshi Nakamoto, “cha đẻ” ẩn danh của bitcoin, người viết rằng thiết kế đó sẽ giúp bitcoin trở thành một tài sản không bị ảnh hưởng bởi lạm phát.
+
+“Về cơ bản, việc mang lại nguồn cung bổ sung cho thị trường bitcoin là điều không thể”, ông Steven Lubka - người đứng đầu dịch vụ khách hàng tư nhân tại công ty đầu tư tiền ảo Swan Bitcoin - phát biểu.
+
+Chính vì điều này, bitcoin có độ nhạy cảm cao với sự gia tăng nhu cầu.  Các quỹ ETF bitcoin giao ngay mới được thành lập ở Mỹ đã gom mạnh bitcoin kể ngay từ khi được thành lập vào tháng 1. Hôm 11/1, 9 quỹ ETF bitcoin giao ngay đầu tiên đã đi vào giao dịch, cộng thêm một quỹ uỷ thác đã có trước đó là Grayscale Bitcoin Trust được chuyển đổi thành ETF. Từ đó, gần 8 tỷ USD đã chảy ròng vào các ETF này.
+
+Tính đến hôm thứ Ba tuần trước, 5% tổng nguồn cung bitcoin trên thế giới nằm trong tay các quỹ ETF hoặc các quỹ đầu tư khác, tăng từ mức 4,4% vào thời điểm trước khi các quỹ ETF bitcoin giao ngay được thành lập ở Mỹ - theo ước tính từ công ty nghiên cứu đầu tư tiền ảo ByteTree.
+
+Khi các quỹ ETF mua bitcoin mới để đáp ứng nhu cầu của nhà đầu tư, họ thường dựa vào các công ty giao dịch tự doanh như Cumberland - một thành viên của công ty giao dịch khổng lồ DRW Holdings có trụ sở tại Chicago - hoặc công ty Jane Street Capital có trụ sở tại New York. Các bàn giao dịch tiền điện tử được điều hành bởi các công ty này đảo khắp các thị trường tiền kỹ thuật số để tìm kiếm những lượng bitcoin lớn đủ đáp ứng đơn đặt hàng của quỹ.
+
+Một số nhà phân tích cho rằng việc mua được bitcoin từ những người nắm giữ lớn ngày càng trở nên khó khăn hơn. Dữ liệu blockchain công khai cho thấy phần lớn nguồn cung khoảng 19,6 triệu bitcoin trên thế giới hiện nay nằm trong các ví kỹ thuật số gần như bất động - có thể vì lượng tiền số này thuộc sở hữu của những người nắm giữ bitcoin lâu dài không có ý định bán, hoặc có lẽ vì chủ sở hữu đã mất mật khẩu nên không thể truy cập vào ví.
+
+Trong một báo cáo công bố vào tuần trước, nhà phân tích Manuel Villegas của ngân hàng phục vụ tư nhân Thụy Sĩ Julius Baer cho biết khoảng 80% nguồn cung bitcoin trên toàn thế giới đã không được chuyển nhượng trong 6 tháng qua. Với dòng vốn ETF và dữ liệu cho thấy lượng bitcoin tồn trữ có sẵn để bán chỉ ở mức hạn chế trên các sàn giao dịch, đây “có thể là tiền đề cho nguồn cung thắt chặt hơn nữa”, ông Billegas nhấn mạnh.
+
+Nhưng cũng có những chuyên gia nói rằng đã có nhiều người nắm giữ bitcoin bán sẵn sàng bán trong đợt tăng giá tuần vừa rồi, và đây là lý do khiến giá bitcoin đang có dấu hiệu chững lại.
+
+Ông Rob Strebel, một nhà quản lý của DRW, cho biết Cumberland không gặp khó khăn gì trong việc tìm kiếm nguồn bitcoin để đáp ứng nhu cầu của các quỹ ETF trong những tuần gần đây. Ông tiết lộ công ty đã mua được phần lớn số bitcoin đó từ các nhà đầu tư lớn - những người đã mua bitcoin ở mức giá thấp và tận dụng cơ hội giá tăng cao hiện này để chốt lời.
+
+“Khi giá một tài sản tăng theo đường parabol, như chúng ta đang thấy với bitcoin, đó đương nhiên là cơ hội để bán. Nhất là khi nhà đầu tư nhớ đến đợt tăng giá bitcoin vào năm 2021 và những gì diễn ra sau đó, họ thấy đã đến lúc bán bớt bitcoin”, ông Strebel phát biểu.

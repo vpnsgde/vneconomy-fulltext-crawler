@@ -1,0 +1,29 @@
+Ngày 4/5, Hội thảo “Internet vạn vật: Nguyên lý - Thực thi - Giải pháp” do “bậc thầy” IoT là TS. Timothy Chou thuyết trình sẽ mở ra một cơ hội mới cho cộng đồng doanh nghiệp Việt Nam.
+
+Trong bài viết về cuộc cách mạng công nghiệp 4.0 mới đây, GS.John Vu, Viện trưởng Viện Công nghệ sinh học Ðại học Carnegie Mellon (Mỹ) cho biết, đến năm 2020, người ta ước lượng rằng sẽ có 50 tỷ thiết bị được kết nối trên thế giới.
+
+Từ điện thoại thông minh, nhà thông minh, thành phố thông minh, ôtô tự lái, cơ xưởng thông minh, robot thông minh…. Tổ hợp này của thế giới vật lý và số thức là bản chất cho cuộc cách mạng công nghiệp lần thứ tư, một lực mạnh sẽ tác động tới mọi thứ, mọi công ty, và mọi nước. Giá trị thị trường kinh tế của Internet vạn vật (IoT) được ước lượng là từ 11.000 tỷ USD và nó có thể cung cấp xấp xỉ 12 triệu việc làm mới trên toàn cầu.
+
+Thị trường IoT có thể lớn hơn việc tổ hợp thị trường PC, thị trường điện thoại di động và Internet. Nếu thị trường PC tạo ra Microsoft, thị trường điện thoại di động tạo ra Apple, và thị trường Internet tạo ra Google và Facebook, thì tới đây sẽ nổi lên một số công ty công nghệ lớn nhất trên thế giới.
+
+Công ty này là ai vẫn là câu hỏi, nhưng cách nhìn thông thường là ai kiểm soát thị trường IoT sẽ kiểm soát cuộc cách mạng công nghiệp thứ tư.
+
+Cuộc cách mạng 4.0, với Việt Nam, có vẻ như xa vời và tương đối khó hiểu. IoT là một phần của cuộc cách mạng 4.0 và đang rất gần gũi, hiện diện ngay trước mắt, quanh ta và đang được phổ biến ngày càng sâu rộng ở Việt Nam.
+
+Hiện nay một số bệnh viện tại Tp.HCM và Hà Nội đã thực hiện ca mổ với sự hỗ trợ của robot. Hiện các công nghệ như ngôi nhà thông minh (Smart Home), thành phố thông minh, y tế thông minh, giao thông thông minh… những lĩnh vực thuộc IoT đang được triển khai rất rầm rộ tại Việt Nam.
+
+Các nhà mạng cũng không nằm ngoài guồng quay đó. Điển hình là MobiFone cũng đang nhanh chóng chuyển dịch từ một công ty viễn thông đơn thuần trở thành nhà cung cấp đa dịch vụ, cung cấp các giải pháp cho người dùng di động và doanh nghiệp thông qua hạ tầng viễn thông và Internet.
+
+MobiFone giờ không chỉ còn là doanh nghiệp chỉ cung cấp dịch vụ viễn thông mà đã trở thành tổng công ty đa dịch vụ với 4 trụ cột: Viễn thông - công nghệ thông tin, truyền hình, kênh phân phối - bán lẻ và đa dịch vụ.
+
+Điển hình nhất là MobiFone đã ứng dụng công nghệ IoT vào 2 sản phẩm mới là đồng hồ thông minh TioKid và MobiTrack. TIO là đồng hồ thông minh dành cho trẻ em, vừa là đồng hồ thời trang, máy điện thoại di động. Còn GPS tracker là sản phẩm giúp bố mẹ, người thân luôn kiểm soát và liên lạc được với con cái mọi lúc mọi nơi.
+
+Hay như MobiTrack là dịch vụ giải pháp định vị phương tiện, giám sát hành trình cung cấp cho các chủ phương tiện vận tải giải pháp định vị phương tiện phù hợp với quy chuẩn của Tổng cục Đường bộ.
+
+Để đóng góp cho cộng đồng doanh nghiệp, góp phần vào cuộc cách mạng công nghiệp 4.0 theo chủ trương của Chính phủ và Bộ thông tin và Truyền thông, MobiFone đã đồng hành cùng TS. Timothy Chou đến Việt Nam để chia sẻ phương thức giúp các tổ chức, doanh nghiệp, ngành nghề nhìn nhận được rõ hơn về một bộ khung IoT, công nghệ và các giải pháp trong các lĩnh vực kinh doanh.
+
+Đồng thời, đưa ra các giải pháp thương mại IoT như những cơ hội kinh doanh trong tương lai để các doanh nghiệp chuẩn bị chiến lược và kế hoạch phát triển kinh doanh.
+
+Đại diện MobiFone cho biết, MobiFone hy vọng rằng, qua các cuộc thuyết trình của “bậc thầy” IoT Timothy Chou sẽ giúp các doanh nghiệp Việt Nam nhìn ra cơ hội kết nối toàn cầu, phương án đầu tư sản xuất ra các sản phẩm IoT theo từng thế mạnh riêng của mỗi doanh nghiệp.
+
+“Còn riêng với MobiFone, chúng tôi đang tiếp tục phát triển hàng loạt các các sản phẩm IoT cho khách hàng cá nhân và doanh nghiệp, dựa trên Hệ sinh thái Công nghệ 4G, Internet tốc độ cao, MobiTV…của MobiFone. Các sản phẩm, dịch vụ IoT này sẽ len lỏi đến từng hộ gia đình, đáp ứng nhu cầu giải trí, sinh hoạt và làm việc theo phương thức kết nối trên nền tảng công nghệ hiện đại nhất hiện nay”, đại diện MobiFone cho biết.

@@ -1,0 +1,13 @@
+Ngày 30/8, tài khoản Twitter của người sáng lập, CEO mạng xã hội này, Jack Dorsey, đã bị tin tặc tấn công.
+
+Cụ thể, trong khoảng 20 phút chiều ngày 30/8 (giờ Mỹ), tài khoản Twitter của Dorsey có hàng loạt đăng tải (tweet) mang tính phân biệt chủng tộc và xúc phạm. Twitter nhanh chóng nhận ra vấn đề và khắc phục tình hình, theo CNN.
+
+Người phát ngôn của Twitter cho biết công ty đã nắm được sự việc tài khoản của CEO bị tấn công và công ty đang tiến hành điều tra. Không lâu trước đó, các vụ tấn công tương tự cũng xảy ra với tài khoản của các ngôi sao YouTube như James Charles và Shane Dawson.
+
+Các dòng tweet trên không hẳn được đăng tải bằng việc có được tài khoản của Dorsey, mà tin tặc đã thuyết phục được hệ thống của Twitter rằng chúng đã lấy được điện thoại của Dorsey và đăng tải lên Twitter bằng cách gửi tin nhắn từ chiếc điện thoại này. Chúng thậm chí không cần tới mật khẩu tài khoản của Dorsey.
+
+Theo CNN, bằng phương thức tương tự, tin tặc hoàn toàn có thể gửi các dòng tweet lên tài khoản của nhiều nhân vật nổi tiếng khác, gồm cả Tổng thống Mỹ Donald Trump - người thường xuyên sử dụng Twitter. Hiện Nhà Trắng và Mật vụ Mỹ chưa có bình luận về việc liệu tài khoản Twitter của ông Trump có kích hoạt đăng tải bằng việc gửi tin nhắn từ điện thoại hay chưa.
+
+Trong một đăng tải vào tối ngày 30/8, Twitter viết: "Số điện thoại gắn với tài khoản Twitter đã bị tấn công do lỗ hổng an ninh của nhà mạng. Việc này khiến một người không có thẩm quyền soạn thảo và gửi các dòng tweet qua tin nhắn điện thoại từ số điện thoại đó. Vấn đều này đã được giải quyết".
+
+Trước đây, các nhà nghiên cứu về an ninh mạng từng giả mạo một số điện thoại gắn với một tài khoản Twitter và đăng tải tweet bằng cách gửi tin nhắn như vụ việc vừa xảy ra. Khi đó, Twitter nói rằng đây chỉ là một lỗi nhỏ và đã được giải quyết. Năm 2012, Twitter cũng phủ nhận rằng người dùng Twitter tại Mỹ có thể bị tin tặc tấn công theo cách này.

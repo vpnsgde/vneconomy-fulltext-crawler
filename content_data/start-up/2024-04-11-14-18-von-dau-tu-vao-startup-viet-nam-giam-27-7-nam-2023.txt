@@ -1,0 +1,21 @@
+Theo báo cáo do Enterprise Singapore và DealStreetAsia mới công bố, các startup tại Việt Nam nhận được 510 triệu USD vốn đầu tư năm 2023, thu hẹp từ mức 700 triệu USD hồi 2022. Thị trường có 54 thương vụ rót vốn, giảm hơn 34%.
+
+Vốn đầu tư vào startup Việt Nam giảm trong bối cảnh "mùa đông rót vốn" tại Đông Nam Á. Năm ngoái, số thương vụ và giá trị giao dịch của 6 thị trường khởi nghiệp lớn nhất khối (Singapore, Indonesia, Việt Nam, Malaysia, Philippines, Thái Lan) giảm lần lượt gần 29% và gần 53%. Trong đó vốn đầu tư vào các startup Việt Nam năm qua giảm 27,7% so với 2022 nhưng vẫn là mức giảm nhẹ nhất khu vực Đông Nam Á.
+
+Ảnh hưởng nặng nề nhất là Malaysia và Thái Lan, đều giảm trên 80%.
+
+Xét về giá trị tuyệt đối, dòng vốn chảy vào startup Việt Nam năm qua đứng thứ 3, sau Singapore (6,1 tỷ USD) và Indonesia (1,28 tỷ USD). Singapore vẫn là quốc gia khởi nghiệp khu vực, chiếm gần 64% số thương vụ và hơn 73% giá trị rót vốn. Dù vậy, đảo quốc cũng chứng kiến mức suy giảm về dòng vốn gần 45% trong năm qua, từ mức 11,04 tỷ USD vào 2022.
+
+Trước áp lực về vốn và thị trường, các công ty khởi nghiệp Đông Nam Á chọn tái cơ cấu quỹ lương, thu hẹp tuyển dụng và tận dụng trí tuệ nhân tạo (AI). Báo cáo của Glints và Monk's Hill Ventures khảo sát hơn 10.000 điểm dữ liệu từ 183 nhân sự cấp cao và nhà sáng lập cho biết startup có xu hướng giảm lương IT và nâng lương bộ phận kinh doanh.
+
+Tại Việt Nam, vị trí có mức lương sụt giảm nhiều nhất là lập trình viên Back-end, lên đến 8,2%, do dư thừa nhân sự từ các đợt cắt giảm và tái cơ cấu bộ máy của nhiều công ty trong giai đoạn kinh tế khó khăn.
+
+Theo Báo cáo Xu hướng nhân tài khởi nghiệp Đông Nam Á 2024 của nền tảng tuyển dụng trực tuyến Glints, mức lương của các công ty khởi nghiệp ở Đông Nam Á dành cho nhân viên mới trong bộ phận phát triển kinh doanh và bán hàng đã tăng tới 20%, phản ánh nhu cầu cấp thiết của các công ty non trẻ là tạo ra tiền mặt trong bối cảnh hoạt động gọi vốn đã trở nên khó khăn hơn.
+
+Ngoài ra, trong năm 2023, mức lương trung bình cho bộ phận phát triển kinh doanh và bán hàng tăng nhiều hơn so với mức lương trung bình của bốn bộ phận quan trọng khác, gồm kỹ thuật, tiếp thị, dữ liệu và phát triển sản phẩm.
+
+Trong đó, các vị trí kỹ sư có mức lương giảm mạnh nhất, dưới sự ảnh hưởng của làn sóng sa thải nhân viên công nghệ đang diễn ra trên khắp thế giới và các biện pháp cắt giảm chi phí của doanh nghiệp. Những yếu tố này dẫn đến nguồn cung nhân tài công nghệ ngày càng tăng, gây áp lực giảm lương. Lương của kỹ sư đã giảm 2% trong năm ngoái, và các vị trí nhân sự mới vào nghề đối diện mức giảm mạnh, tới 6%.
+
+Giám đốc điều hành Glints, Oswald Yeo cho rằng, những thách thức trong bối cảnh nguồn vốn thắt chặt đã làm nổi bật khả năng thích ứng và khả năng phục hồi của giới startup. Thị trường Singapore đang phát triển tốt hơn Indonesia và Việt Nam, với mức lương vẫn tăng, mặc dù tốc độ chậm hơn so với những năm trước. Mức lương khởi nghiệp ở Singapore cho cả vị trí công nghệ và phi công nghệ đều tăng 5%, trong khi Indonesia và Việt Nam đều giảm 3% vào năm ngoái.
+
+Theo khảo sát của Glints, hơn 40% công ty khởi nghiệp nói rằng họ đã cắt giảm ngân sách tuyển dụng trong năm qua, trong khi 22% cho biết ngân sách tuyển dụng không thay đổi. Với những startup có nguồn ngân sách tuyển dụng thấp hơn, 43% cho rằng việc cắt giảm là do doanh nghiệp ít khả năng tiếp cận nguồn vốn mới.

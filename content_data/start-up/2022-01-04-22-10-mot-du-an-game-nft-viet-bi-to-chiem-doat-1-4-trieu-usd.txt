@@ -1,0 +1,25 @@
+Vào trưa ngày 1/1, giá trị của CB (token của CryptoBike) - một tựa game thuộc thể loại Click-to- Earn (click chuột để nhận token)  bất ngờ “bốc hơi” tới 42 lần, từ mức 0,81 USD/ xuống 0,019 USD chỉ trong vài phút.
+
+Nguyên nhân là do một số địa chỉ ví đã đặt lệnh bán ra thị trường 6 triệu token CB, tương đương 60% tổng nguồn cung dự án, với giá trị lên tới gần 1,4 triệu USD.
+
+Được phát triển trên nền tảng Binance Smart Chain bởi một nhóm ẩn danh, người chơi CryptoBike muốn tham gia ban đầu phải đầu tư một số tiền để mua và mở những hộp quà có chứa vật phẩm NFT (xe đạp) trong game. Các vật phẩm NFT này sẽ được dùng để tham gia trò chơi và giúp người chơi nhận về phần thưởng là các token của game.
+
+Nhóm phát triển CryptoBike ngay sau đó đã lên tiếng khẳng định đây là số token được dùng để trả thưởng cho người chơi nhưng đã bị hack và bán tháo ra ngoài thị trường. Đại diện nhóm phát triển này cũng hứa hẹn sẽ sớn kiểm tra và xử lý vụ việc.
+
+Tuy nhiên, đi kèm với vụ việc này, một loạt các kênh cộng đồng trên Telegram của CryptoBike đã bị nhóm quản lý chặn bình luận và website chính của dự án này thì không thể truy cập.
+
+Truy theo nguồn gốc của địa chỉ ví thực hiện việc bán tháo, một điểm trùng hợp là các ví này thực tế có liên quan đến đội ngũ phát triển. Nhiều nhà đầu tư lúc này mới tá hỏa nhận ra rằng đây rất có thể là một dự án lừa đảo.
+
+Một số nhà đầu tư đã xác định được thành công được danh tính nhóm phát triển đứng sau CryptoBike. Theo đó, nhóm này được cho là đang sinh sống và làm việc ngay tại Việt Nam thay vì ở Mỹ như từng công bố.
+
+Trước sức ép từ nhiều phía, CryptoBike buộc phải mở lại bình luận trong nhóm Telegram và tuyên bố sẽ hoàn trả 70% số tiền đã bỏ vào dự án cho nhà đầu tư bị lỗ hôm 2/1.
+
+Khi một loạt các dự án game blockchain hay NFT nở rộ trên thị trường, nhiều chuyên gia từng đưa ra các cảnh báo cho các nhà đầu tư khi tham gia “sân chơi này”.
+
+Theo những người trong cuộc, đối với người chơi, để có thể lựa chọn các dự án tốt và tránh được các dự án lừa đảo thì cần phải có kiến thức về crypto. Ít nhất phải biết cách mở ví, thêm hợp đồng hay địa chỉ… vì chơi crypto sai thông tin là mất luôn.
+
+Tiếp đến là cần phải biết rõ về dự án mà mình nên đầu tư như mô hình, cách thức phát hành và vận hành game ra sao. Ngoài ra, người chơi cũng cần phải biết thu thập thông tin từ các đơn vị uy tín.
+
+Theo các nhà quan sát, điều đáng nói ở vụ việc của CryptoBike là dù không được chăm chút về game hay đồ họa, tựa game này vẫn thu hút được một lượng lớn nhà đầu tư tham gia nhờ tỷ lệ lợi nhuận ròng trên tổng chi phí đầu tư lớn và khả năng hồi vốn nhanh.
+
+Theo số liệu từ Coinmaketcap, khối lượng giao dịch trong ngày của tựa game này từng đạt mốc 41,6 triệu USD, dù mới chỉ ra mắt từ 25/12/2021.

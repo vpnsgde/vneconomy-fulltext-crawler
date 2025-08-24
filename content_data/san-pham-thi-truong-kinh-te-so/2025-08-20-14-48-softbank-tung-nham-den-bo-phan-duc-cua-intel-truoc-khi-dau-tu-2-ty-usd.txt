@@ -1,0 +1,31 @@
+SoftBank mới đây công bố kế hoạch chi 2 tỷ USD để mua khoảng 2% cổ phần Intel, qua đó trở thành một trong những cổ đông lớn nhất của hãng sản xuất chip Mỹ. Nhưng theo Financial Times, chỉ vài ngày trước khi thỏa thuận hoàn tất, tập đoàn Nhật Bản thậm chí đã cân nhắc việc mua đứt bộ phận đúc bán dẫn (foundry) của Intel.
+
+SOFTBANK "QUEN MẶT" VỚI NGÀNH CHIP
+
+Đáng chú ý, thông tin này xuất hiện cùng lúc với việc Nhà Trắng được cho là đang tính tới phương án nắm giữ 10% cổ phần của Intel, sử dụng nguồn vốn từ Đạo luật CHIPS và chuyển đổi thành vốn chủ sở hữu. Điều kiện kèm theo các khoản tài trợ này là Intel không được tách riêng các nhà máy sản xuất vì chúng đóng vai trò địa chính trị quan trọng trong cuộc đua bán dẫn tiên tiến.
+
+Bản thân Intel hiện nay đang loay hoay với nhiều khó khăn nội bộ. Tân CEO Lip-Bu Tan, được bổ nhiệm đầu năm nay, đã nhanh chóng triển khai tái cấu trúc, siết chặt chi phí và củng cố các mảng kinh doanh cốt lõi. Dù vậy, ông vẫn chịu áp lực lớn, đặc biệt là những chỉ trích xoay quanh mối quan hệ trước đây với Trung Quốc, thậm chí từng bị Tổng thống Donald Trump công khai kêu gọi từ chức.
+
+Còn với SoftBank, đây không phải lần đầu tập đoàn Nhật Bản đặt cược lớn vào ngành chip. SoftBank hiện là cổ đông lớn nhất của Arm - công ty nắm giữ kho tài sản trí tuệ bán dẫn khổng lồ và duy trì quan hệ thân thiết với ông Trump thông qua dự án Stargate.
+
+Dự án này từng được quảng bá như một cam kết trị giá 500 tỷ USD, nhằm xây dựng hạ tầng AI tại Mỹ, tạo 100.000 việc làm, thúc đẩy sản xuất chip nội địa và đưa nước Mỹ trở thành trung tâm toàn cầu về ứng dụng AI tiên tiến.
+
+SoftBank khi đó nắm giữ tới 40% cổ phần Stargate, và nay tiếp tục sở hữu thêm 2% cổ phần Intel. Một khoản đầu tư không chỉ mang tính tài chính, mà còn thể hiện tầm nhìn địa chính trị, đó là giữ công nghệ bán dẫn tiên tiến ở lại trên đất Mỹ.
+
+TÂN CEO INTEL TỪNG NGỒI GHẾ HỘI ĐỒNG QUẢN TRỊ SOFTBANK
+
+Trong khi đó, ông Lip-Bu Tan cũng không xa lạ với SoftBank. Ông từng ngồi ghế hội đồng quản trị tập đoàn này cho đến năm 2022, trước khi rời đi trong bối cảnh SoftBank hứng chịu nhiều áp lực sau những khoản đầu tư thất bại. Giờ đây, vài năm sau, ông Masayoshi Son, nhà sáng lập SoftBank, lại quay trở lại đặt cược vào Intel.
+
+“Masa và tôi đã gắn bó nhiều thập kỷ, và tôi thực sự trân trọng niềm tin mà ông dành cho Intel qua khoản đầu tư này”, ông Tan chia sẻ. Thương vụ này cũng phù hợp với chiến lược dài hơi của SoftBank: mở rộng chỗ đứng trong kỷ nguyên AI và tìm vị thế trong những công nghệ mới nổi.
+
+Trước đây, SoftBank từng là cổ đông lớn của Nvidia với khoảng 4,9% cổ phần, nhưng đã bán ra vào năm 2019, đúng lúc giá cổ phiếu hãng này đang lao dốc. Quyết định “ra hàng” quá sớm khiến SoftBank bỏ lỡ khoản lợi nhuận hàng chục tỷ USD khi Nvidia bùng nổ trong những năm sau đó.
+
+Để bù đắp, đầu năm 2025 SoftBank đã quay lại tăng đầu tư vào Nvidia, với số vốn khoảng 3 tỷ USD.
+
+Trong khuôn khổ sáng kiến Dự án Izanagi, SoftBank từng bắt tay với Intel năm 2024 để nghiên cứu phát triển bộ tăng tốc AI riêng. Tuy nhiên, do thiếu niềm tin vào khả năng Intel đáp ứng các mục tiêu về hiệu năng và sản lượng, SoftBank đã chuyển sang đặt hàng tại TSMC, đồng thời mua lại Graphcore để sở hữu thêm tài sản trí tuệ trong lĩnh vực tăng tốc AI.
+
+Hiện tại, mảng đúc chip của Intel vẫn gặp nhiều khó khăn. Các tiến trình 18A và 14A thế hệ mới, từng kỳ vọng mở rộng cho khách hàng bên ngoài, đang có nguy cơ “chết yểu” nếu không thu hút đủ đơn hàng. Dù vậy, Intel khẳng định họ vẫn là khách hàng lớn nhất của chính mình và kiên định với chiến lược tự sản xuất chip.
+
+Khoản đầu tư 2 tỷ USD mà SoftBank rót vào Intel cho thấy niềm tin đáng kể vào vai trò lãnh đạo của CEO Lip-Bu Tan. Nhưng theo trang tin tức công nghệ Tom’s Hardware. với lịch sử những quyết định đầu tư gây tranh cãi của ông Masayoshi Son, tương lai phục hưng của Intel vẫn còn là dấu hỏi.
+
+Intel đã để thua Nvidia trong cuộc đua AI, đồng thời tiếp tục mất thị phần CPU x86 ở cả máy tính cá nhân lẫn máy chủ vào tay AMD. Liệu sự can thiệp của người đứng đầu Nhà trắng và người đứng đầu SoftBank có đủ để xoay chuyển vận mệnh Intel hay không, vẫn cần thời gian trả lời.

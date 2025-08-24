@@ -1,0 +1,29 @@
+Khi Wu Cunsong và Chen Binghui thành lập công ty khởi nghiệp về trí tuệ nhân tạo (AI) cách đây hai năm tại Hàng Châu, Trung Quốc, họ nhanh chóng gặp phải trở ngại bao gồm cả việc thiếu vốn đầu tư mạo hiểm. Vào tháng 3 vừa qua, họ đã chính thức gia nhập vào làn sóng mà nhiều công ty AI khác của Trung Quốc đã làm: chuyển công ty Tabcut của họ tới Singapore.
+
+Quốc đảo thân thiện với doanh nghiệp này giúp Wu và Chen tiếp cận tốt hơn với các nhà đầu tư và khách hàng toàn cầu. Các căng thẳng địa chính trị gia tăng gần đây khiến nhiều công ty Mỹ và quốc tế tránh xa Trung Quốc. Điều quan trọng hơn cả là họ có thể mua chip mới nhất của Nvidia và các công nghệ tiên tiến khác ở Singapore, điều không thể xảy ra ở Trung Quốc do các biện pháp kiểm soát xuất khẩu của Mỹ.
+
+Đặt trụ sở ở Singapore cũng là một cách để các công ty giảm bớt sự giám sát từ khách hàng và cơ quan quản lý ở các quốc gia là đối thủ của Trung Quốc, chẳng hạn như Mỹ.
+
+Tuy nhiên chiến lược này không phải lúc nào cũng hiệu quả: ByteDance có trụ sở tại Bắc Kinh đã chuyển trụ sở TikTok của mình sang Singapore, tuy nhiên họ vẫn bị ảnh hưởng bởi luật mới của Mỹ yêu cầu bán hoặc cấm hoạt động tại Mỹ vì lo ngại về an ninh. Gã khổng lồ thời trang Trung Quốc Shein cũng chuyển trụ sở đến Singapore, tuy nhiên họ phải đối mặt với sự chỉ trích dữ dội ở Mỹ và hiện đang nhắm đến việc IPO ở London thay vì New York.
+
+Nhưng đối với các công ty khởi nghiệp AI, mọi chuyện lại khác hoàn toàn. Các công ty AI thu thập lượng lớn dữ liệu và dựa vào các chip tiên tiến để đào tạo hệ thống của họ và nếu quyền truy cập bị hạn chế thì chất lượng sản phẩm của họ sẽ bị ảnh hưởng. Mỹ đã chặn việc bán những con chip phức tạp nhất và các công nghệ khác cho Trung Quốc để ngăn chặn việc chúng được sử dụng cho mục đích quân sự và các mục đích khác. OpenAI, công ty hàng đầu về AI của Mỹ đang hạn chế quyền truy cập của Trung Quốc vào các công cụ phần mềm của họ.
+
+Về phía Trung Quốc, quốc gia này đã thực hiện một trong những động thái lớn đầu tiên trên thế giới nhằm quản lý công nghệ non trẻ này vào tháng 7 năm ngoái, yêu cầu các công ty đăng ký thuật toán của họ với Chính phủ trước khi triển khai các dịch vụ hướng tới người tiêu dùng.
+
+“Điều đó có nghĩa là các nhà phát triển AI sẽ không thể tham gia vào các cuộc thử nghiệm miễn phí nếu họ ở Trung Quốc”, người sáng lập công ty tư vấn Linkloud cho biết. Ông ước tính rằng 70% đến 80% các công ty khởi nghiệp về phần mềm và AI của Trung Quốc nhắm đến khách hàng trên toàn cầu, trong đó nhiều người hiện đã chọn bỏ qua thị trường Trung Quốc hoàn toàn. Linkloud đang xây dựng một cộng đồng dành cho các doanh nhân AI Trung Quốc khám phá thị trường toàn cầu.
+
+Các quy định về AI của Singapore ít nghiêm ngặt hơn và nước này nổi tiếng với việc dễ dàng thành lập công ty. Chan Ih-Ming, Phó Chủ tịch điều hành của Ban Phát triển Kinh tế Singapore cho biết, đất nước này muốn trở thành cầu nối giữa các doanh nhân từ châu Á và thế giới.
+
+Ông nói: “Nhiều doanh nghiệp và công ty khởi nghiệp, bao gồm cả các doanh nghiệp Trung Quốc, chọn Singapore làm trung tâm Đông Nam Á và coi Singapore là bàn đạp để tiếp cận thị trường toàn cầu”. Ông cho biết, thành phố này là nơi có hơn 1.100 công ty khởi nghiệp AI vào cuối năm 2023 và các công ty AI có trụ sở tại Trung Quốc đang đến đây ngày một gia tăng.”
+
+Jianfeng Lu là người tiên phong trong xu hướng này khi chuyển đến Singapore từ thành phố Nam Kinh phía đông Trung Quốc để thành lập công ty khởi nghiệp AI Wiz Holdings vào năm 2019. Với sự hỗ trợ từ Tiger Global, GGV Capital và Hillhouse Capital, anh đã xây dựng công cụ AI nhận dạng giọng nói ngay từ đầu và bán bot dịch vụ khách hàng cho các khách hàng ở Châu Mỹ Latinh, Đông Nam Á và Bắc Phi. Anh ấy không bán hàng ở Trung Quốc, một động thái mà những người đồng sáng lập của anh ấy đã biết trước.
+
+Trong khi đó, việc gây quỹ ở Trung Quốc trở nên khó khăn hơn do nền kinh tế đang chậm lại và căng thẳng gia tăng với Mỹ, điều này đang khiến các công ty đầu tư mạo hiểm toàn cầu giảm đầu tư vào nước này.
+
+Wu và Chen ở câu chuyện ban đầu đã có một trải nghiệm đầy thất vọng và gian khổ khi tìm kiếm người ủng hộ ở Trung Quốc. Thay vào đó, Tabcut đã hợp tác với Kamet Capital có trụ sở tại Singapore và huy động được 5,6 triệu USD từ công ty này vào cuối năm ngoái. Công ty khởi nghiệp này đã chuyển trụ sở chính toàn cầu của mình đến Singapore vào tháng 3, đồng thời tung ra phiên bản beta của công cụ tạo video AI cho người dùng toàn cầu.
+
+Ngoài mối quan hệ về văn hóa và ngôn ngữ, Singapore còn hấp dẫn vì Chính phủ nước này còn ủng hộ bằng cách hỗ trợ về tài chính và kỹ thuật.Chắc chắn là một số công ty AI của Trung Quốc đã sớm đạt được những thành công ở thị trường nội địa và vẫn ở đó.
+
+Bản thân Trung Quốc đang thúc đẩy AI, robot và các công ty khởi nghiệp công nghệ sâu khác duy trì trụ sở trong nước và cuối cùng là niêm yết trên thị trường chứng khoán địa phương. Bắc Kinh hỗ trợ những nước có triển vọng nhất bằng cách hỗ trợ vốn, cung cấp các khoản vay lãi suất thấp và giảm thuế.
+
+Tuy nhiên, Yiu-Ting Tsoi, đối tác sáng lập của HB Ventures có trụ sở tại Hong Kong, chuyên đầu tư vào công nghệ và AI của Trung Quốc cũng như khu vực cho biết, những công ty như vậy sẽ gặp khó khăn trong việc mở rộng trên toàn cầu vì dịch vụ của họ thường được điều chỉnh cho phù hợp với khán giả và môi trường pháp lý Trung Quốc.

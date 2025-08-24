@@ -1,0 +1,57 @@
+Lộ trình tắt sóng 2G vừa được Bộ Thông tin và Truyền thông vừa công bố thông tin ngày 5/7/2024.
+
+Về lộ trình dừng công nghệ di động 2G tại Việt Nam, Bộ Thông tin và Truyền thông cho biết hệ thống thông tin di động tiêu chuẩn GSM (hệ thống 2G) hiện có được cấp lại giấy phép băng tần 900Mhz, 1800MHz tại thời điểm tháng 9/2024 khi đáp ứng điều kiện.
+
+Cụ thể, từ ngày 16/9/2024, không cung cấp dịch vụ cho thiết bị đầu cuối thuê bao chỉ hỗ trợ tiêu chuẩn GSM, trừ trường hợp cung cấp dịch vụ cho thiết bị đầu cuối thuê bao kết nối vào mạng GSM cho mục đích truyền, nhận dữ liệu giữa thiết bị với thiết bị (M2M) hoặc cung cấp dịch vụ tại khu vực quần đảo Trường Sa, Hoàng Sa, nhà giàn DK.
+
+Hệ thống thông tin di động GSM (2G) được tiếp tục sử dụng đến hết ngày 15/9/2026, trừ trường hợp cung cấp dịch vụ tại khu vực quần đảo Trường Sa, Hoàng Sa, nhà giàn DK.
+
+Ngoài ra, căn cứ quy hoạch các băng tần 900MHz/1800MHz, Bộ Thông tin và Truyền thông sẽ không cấp phép lại việc sử dụng các băng tần 900MHz/1800MHz nếu doanh nghiệp không có phương án đảm bảo không còn thuê bao sử dụng thiết bị đầu cuối chỉ hỗ trợ tiêu chuẩn GSM (2G only) hoạt động trên mạng từ ngày 16/9/2024.
+
+Về sở cứ pháp lý dừng công nghệ di động 2G, Bộ Thông tin và Truyền thông căn cứ chủ trương, định hướng dừng công nghệ di động 2G, phổ cập điện thoại thông minh tại các văn bản: Quyết định 749/QĐ-TTg của Thủ tướng Chính phủ ban hành Chương trình Chuyển đổi số quốc gia đến năm 2025, tầm nhìn 2030 đặt mục tiêu phổ cập dịch vụ dịch vụ mạng di động 4G/5G và phổ cập điện thoại di động thông minh tại Việt Nam.
+
+Quyết định số 36/QĐ-TTg ngày 11/01/2024 của Thủ tướng Chính phủ phê duyệt Quy hoạch hạ tầng thông tin và truyền thông thời kỳ 2021- 2023, tầm nhìn năm 2050 đưa ra định hướng về phát triển hạ tầng viễn thông trong đó yêu cầu thực hiện lộ trình dừng công nghệ di động cũ (2G/3G) và Thúc đẩy việc triển khai chương trình “Mỗi người dân một máy điện thoại thông minh” là nội dung của phương án phát triển Băng rộng di động đến người sử dụng.
+
+Cùng với đó, Thông tư số 43/2020/TT-BTTTT ngày 31/12/2020 về ban hành “quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất- phần truy nhập vô tuyến”; Thông tư số 20/2023/TT-BTTTT ngày 29/12/2023 ban hành “quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất - phần truy nhập vô tuyến”.
+
+Mới đây, Bộ trưởng Bộ Thông tin và Truyền thông đã ban hành Thông tư số 03/2024/TT-BTTTT ngày 30/4/2024 về quy hoạch băng tần 1800 MHz có hiệu lực kể từ ngày 14/6/2024; Thông tư số 04/2024/TT-BTTTT ngày 10/5/2024 về quy hoạch băng tần 900 MHz cho hệ thống thông tin di động mặt đất công cộng IMT của Việt Nam có hiệu lực kể từ ngày 24/6/2024 tạo sở cứ pháp lý cho lộ trình dừng công nghệ di động cũ và phổ cập điện thoại thông minh.
+
+Để triển khai dừng công nghệ 2G, thúc đẩy chuyển đổi điện thoại thông minh, lộ trình nêu 4 giải pháp cụ thể.
+
+Thứ nhất, doanh nghiệp hỗ trợ thuê bao chuyển đổi sang sử dụng máy điện thoại công nghệ cao hơn: thực hiện chương trình hỗ trợ kinh phí mua máy smart phone 4G hoặc điện thoại feature phone 4G và ban hành các gói cước hỗ trợ thuê bao chuyển đổi, thực hiện đến 16/9/2024.
+
+Thứ hai, các doanh nghiệp thực hiện ngăn chặn nhập mạng các máy điện thoại 2G không chứng nhận hợp quy.
+
+Thứ ba, doanh nghiệp phát triển các trạm thu phát sóng di động đảm bảo vùng phủ mạng 4G thay thế mạng 2G khi dừng hệ thống 2G và hoàn thành trước tháng 9/2026.
+
+Thứ tư, Bộ Thông tin và Truyền thông, Sở Thông tin và Truyền thông, doanh nghiệp viễn thông di động thực hiện truyền thông tới từng đối tượng người sử dụng trên các phương tiện truyền thông phù hợp để nắm bắt chủ trương và chủ động chuyển đổi sang sử dụng máy điện thoại công nghệ 4G trở lên.
+
+Về vấn đề này, tại họp báo thường kỳ tháng 5/2024, Cục Viễn thông cho hay, để thúc đẩy quá trình tắt sóng 2G, Bộ Thông tin và Truyền thông, Sở Thông tin và Truyền thông và các doanh nghiệp di động triển khai nhiều biện pháp hỗ trợ thuê bao chuyển đổi sang sử dụng.
+
+Theo đó, triển khai Quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất về máy điện thoại di động; yêu cầu các nhà mạng di động thực hiện ngăn chặn các máy điện thoại di động không tuân thủ quy định về chứng nhận hợp quy kết nối vào mạng viễn thông công cộng.  Việc triển khai giải pháp này bắt đầu thực hiện từ ngày 01/3/2024, qua hơn 2 tháng triển khai, các nhà mạng đã chặn nhập mạng mới 856.873 lượt máy 2G Only không chứng nhận hợp quy.
+
+Trong thời gian qua, các doanh nghiệp cũng đang chủ động triển khai các giải pháp dừng công nghệ 2G trong đó có các giải pháp hỗ trợ người sử dụng chuyển đổi: Truyền thông, tiếp cận khách hàng qua nhiều kênh khác nhau; trợ giá máy điện thoại smartphone cho các thuê bao đang sử dụng máy 2G.
+
+Đồng thời, xây dựng các gói cước chuyển đổi (ví dụ, thiết kế gói cước dành cho đối tượng chuyển đổi, ưu đãi 3-6 tháng data cho khách hàng chuyển đổi lên 4G; tặng lưu lượng data cho các khách hàng mua điện thoại tại cửa hàng hợp tác bán lẻ); đổi SIM 4G cho khách hàng…
+
+Tại tọa đàm trước đó về vấn đề tắt sóng 2G, đại diện Viettel Telecom đánh giá việc tắt sóng 2G là chủ trương rất đúng đắn, phù hợp với xu thế cũng như với mong muốn của các nhà mạng và nhu cầu của khách hàng, xã hội trong giai đoạn hiện nay. Trên thực tế, Viettel đã có nhiều biện pháp để thúc đẩy quá trình chuyển đổi từ 2G lên 4G của người dùng di động từ cách đây 4 năm trước. Viettel cũng là nhà mạng đầu tiên chuyển đổi toàn bộ thuê bao 3G lên 4G thành công.
+
+Viettel xác định mục tiêu đến tháng 9/2024, cần dịch chuyển, đưa số lượng thuê bao 2G trên mạng chỉ còn dưới 5% thì mới có thể tắt sóng. Để chuẩn bị cho việc tắt sóng 2G, Viettel đã phủ sóng 4G cho tất cả các khu vực có khách hàng, bao gồm cả vùng sâu, vùng xa, biên giới, hải đảo.
+
+Ngoài ra các chính sách kích thích, thúc đẩy người dùng chuyển dịch lên dùng data, dùng máy smartphone, 4G cũng đã được nhà mạng triển khai liên tục trong 2- 3 năm nay. Nhà mạng cũng đã điều chỉnh một số chính sách, như hạn chế cung cấp các sản phẩm, dịch vụ trên nền tảng 2G, tăng khuyến mại sử dụng các dịch vụ 4G cho khách hàng; hỗ trợ giảm giá các thiết bị đầu cuối…
+
+Đối với nhà mạng VinaPhone, từ năm 2015, khi 2G vẫn chiếm khoảng khoảng 60% lưu lượng mạng, nhà mạng đã xác định chiến lược và xây dựng kế hoạch tắt sóng 2G, triển khai các bài toán 2G kết hợp với triển khai 3G, 4G.
+
+Trong 2 năm qua, đơn vị đã chủ động tắt các trạm riêng lẻ không phát sinh hoặc phát sinh rất ít lưu lượng. Nhà mạng đã kết hợp cả hoạt động kỹ thuật cũng như tuyên truyền cho thuê bao trong khu vực và tiến hành tắt sóng khoảng 10% trạm riêng 2G.
+
+Đơn vị này đã xây dựng kế hoạch, giải pháp để đến tháng 9/2024 cam kết thực hiện chuyển đổi tất cả thuê bao, thiết bị 2G only theo định hướng của Bộ.
+
+Nhằm đảm bảo dịch vụ, liên lạc thông suốt, nhà mạng khuyến cáo khách hàng tra cứu thông tin thiết bị 2G sử dụng và chuyển đổi, nâng cấp sang các máy 3G/4G/5G. Đồng thời, từ 9/1- 15/9/2024, khách hàng chuyển đổi máy 2G sẽ được ưu đãi tặng 30GB Data tốc độ cao (khách hàng nhận được tin nhắn).
+
+Chia sẻ với VnEconomy, VinaPhone cho biết Chương trình "Tặng điện thoại 4G" vừa được VNPT địa bàn Kiên Giang triển khai bắt đầu từ cuối tuần qua, cùng những điều kiện nhận ưu đãi cụ thể đối với khách hàng. Theo đó, nội dung ưu đãi trong chương trình là: Khách hàng hiện hữu VinaPhone sử dụng máy điện thoại 2G thuộc tập thuê bao ưu đãi sẽ được tặng 1 điện thoại SMP ZTE A33 , hoặc điện thoại 4G Hapi20; Trải nghiệm dùng thử 30GB data miễn phí (1GB/ngày trong 30 ngày) khi chuyển đổi thiết bị….
+
+Đây là chương trình hành động nhằm tuân thủ theo lộ trình tắt sóng 2G của bộ, chuẩn bị cho việc dừng công nghệ kết nối cũ 2G và hỗ trợ khách hàng chủ động chuyển đổi thiết bị mà không gây ảnh hưởng đến thông tin liên lạc khi tắt sóng 2G.
+
+Đại diện nhà mạng MobiFone cũng ủng hộ chủ trương tắt sóng 2G, chuyển khách hàng sử dụng 2G Only sang 4G, 5G để tối ưu tần số, hạ tầng, triển khai thêm nhiều dịch vụ số. MobiFone đã tắt sóng 2G ở những khu vực có lưu lượng thấp.
+
+Nhà mạng đã có nhiều chương trình hấp dẫn như tặng gói cước data, tặng gói thoại, miễn phí đổi SIM 4G… Đặc biệt triển khai trên toàn quốc chương trình tặng miễn phí điện thoại 4G, ưu đãi cho khách hàng mua điện thoại 4G với giá chỉ hơn 300.000 đồng...

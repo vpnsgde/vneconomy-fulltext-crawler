@@ -1,0 +1,15 @@
+Dựa trên danh mục thành phần chỉ số mới công bố, VN30 và VNFinlead không thay đổi về cổ phiếu thành phần, chỉ có một số điều chỉnh về tỷ trọng tính toán cho các quỹ tham chiếu. Trong khi đó đối với các quỹ sử dụng VNDiamond làm chỉ số tham chiếu lại có phần điều chỉnh mạnh hơn khi chỉ số thêm mới CTD và loại ra cổ phiếu VRE.
+
+Lưu ý, bộ chỉ số VN30, VNDiamond và VNFin Lead sẽ có hiệu lực bắt đầu từ 05/05/2025 và các quỹ ETF mô phỏng theo chỉ số này phần lớn sẽ được giao dịch trong tuần từ 22-28/04/2025 và chốt cơ cấu vào ngày 28/04/2025.
+
+Hiện tại có 4 quỹ đang sử dụng chỉ số VN30 làm bộ chỉ số tham chiếu gồm có E1VFVN30, FUEMAV30, FUEKIV30, FUESSV30. Với tổng quy mô tài sản ròng ước tính hơn 8 nghìn tỷ đồng. Trong kỳ này, chỉ số VN30 không có sự thay đổi về cổ phiếu thành phần. Bộ quy tắc chỉ số mới phiên bản 4.0 đã được áp dụng và bổ sung thêm nguyên tắc về giới hạn tỷ trọng vốn hóa một nhóm cổ phiếu cùng ngành. Vì vậy nhóm cổ phiếu Tài chính trong rổ VN30 sẽ bị điều chỉnh tỷ lệ tỷ trọng về 40% so với mức khoảng 57% trước đây.
+
+Mirae Asset dự báo, HPG sẽ được các quỹ mua vào hơn 12 triệu cổ phiếu, ngược lại VPB sẽ bị bán ra hơn 9,3 triệu cổ phiếu.
+
+Với VnDiamond, hiện tại có 3 quỹ ETF đang sử dụng chỉ số này tham chiếu VFMVNDiamond, MAFM VNDiamond và BVFVN Diamond. Tuy nhiên, do tỷ trọng của VFMVN Diamond chiếm 95% tỷ trọng giao dịch.
+
+Trong kỳ này chỉ số VNDiamond có sự thay đổi về cổ phiếu thành phần khi mà VRE bị loại ra do không đạt tiêu chí về FOL. Thay vào đó CTD sẽ được thêm vào rỗ chỉ số giúp cho tổng số cổ phiếu trong rổ vẫn duy trì ở 19 mã. Bên cạnh đó, mã cổ phiếu VIB bị rớt vào nhóm đánh giá chờ loại ra khiến cho giới hạn trọng số trạng thái giảm từ 100% xuống 50%
+
+Mirae Asset ước tính, FPT và MWG là 2 mã cổ phiếu được mua vào nhiều nhất kỳ này với số lượng lần lượt đạt 2 triệu và 1,7 triệu cổ phiếu. Ngược lại, VIB và ACB sẽ bị bán ra nhiều nhất với số lượng lần lượt ở mức 8 triệu và 6,7 triệu.
+
+Trong kỳ này, chỉ số VNFinlead không có sự thay đổi về thành phần cổ phiếu, chỉ điều chỉnh trọng số tính toán. Mirae Asset cũng dự báo HDB và VIB sẽ được mua vào với số lượng lần lượt là 226 nghìn và 122 nghìn cổ phiếu. Ngược lại, VND và MBB có thể bị bán ra, với số lượng tương ứng là 138 nghìn và 113 nghìn cổ phiếu.

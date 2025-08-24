@@ -1,0 +1,43 @@
+Token là một loại tài sản kỹ thuật số, được hình thành trên nền tảng công nghệ Blockchain sẵn có của các dự án, mà không có một nền tảng riêng biệt. Token được sử dụng thanh toán trong phạm vi phạm cụ thể là trong hệ sinh thái của các dự án mà chúng phát triển.
+
+Tap-to-Earn có thể được hiểu là một dạng thức khác của Play to Earn, người dùng sẽ kiếm được lợi nhuận thông qua thao tác chạm (tap) trên điện thoại di động thông minh. Điều đáng lo ngại khác là các token chạm để kiếm tiền như Notcoin và Pixelverse (PIXFI) đã gặp sự cố trong vài tuần qua.
+
+Cơn sốt lớn nhất trong ngành tiền điện tử năm nay là trên các nền tảng chạm để kiếm tiền của Telegram như Hamster Kombat, Notcoin và Tapswap.
+
+Những nền tảng này đã trở nên rất phổ biến đối với người dùng, trong đó Hamster Kombat có hơn 300 triệu người dùng từ khắp nơi trên thế giới.
+
+TapSwap đã tích lũy được hơn 70 triệu người dùng trong khi Pixelverse có 75 triệu thành viên.
+
+Nền tảng chạm để kiếm tiền cho phép người dùng kiếm token thông qua các web app tích hợp trực tiếp vào ứng dụngTelegram và sau đó chuyển đổi chúng thành tiền pháp định sau khi lên sàn.
+
+Mặc dù những nền tảng này còn mới nhưng hình thức đằng sau chúng thì không. Nó có thể bắt nguồn từ nền tảng của Bitcoin, cho phép người dùng được thưởng khi giải các phép tính toán học phức tạp.
+
+Khái niệm này sau đó đã trở thành xu hướng chủ đạo với Pi Network, một dự án được triển khai vào năm 2018 nhằm cho phép người dùng khai thác token trên điện thoại của họ. Sự khác biệt lớn nhất giữa Mạng Pi và mạng chạm để kiếm tiền là người ta cần được mời để sử dụng mạng trước.
+
+Điểm khác biệt nữa là Pi Network sử dụng một ứng dụng chuyên dụng để khai thác token. Mặt khác, các nền tảng nhấn để kiếm tiền sử dụng các ứng dụng nhỏ có trong Telegram để thực hiện điều đó. Đây là cách tiếp cận tốt hơn vì hơn 900 triệu người đã sử dụng Telegram.
+
+Sau đó, người dùng Pi Network tích lũy token bằng cách mở ứng dụng và nhấn vào nút của ứng dụng đó mỗi ngày. Trong những năm qua, nhiều người tiên phong đã tích lũy được hàng nghìn token mà họ hy vọng một ngày nào đó sẽ chuyển đổi thành tiền tệ pháp định.
+
+Không giống như Pi Network, tính năng chạm để kiếm tiền chỉ mất vài tháng để token của họ được niêm yết. Notcoin được niêm yết sau chưa đầy ba tháng trong khi các nhà phân tích kỳ vọng rằng Hamster Kombat và Tapswap sẽ được niêm yết chỉ sau vài tháng.
+
+Pi Network đã biện minh cho việc tiếp tục trì hoãn niêm yết là do nhu cầu tạo ra một mạng blockchain thực sự có tiện ích. Để đạt được điều đó, họ đã tung ra một số cuộc đua lập trình với hy vọng thu hút sự quan tâm của các nhà phát triển đối với hệ sinh thái.
+
+Rủi ro chính mà những người dùng Pi Network cần lưu ý là hầu hết các token chạm để kiếm tiền đều giảm mạnh và điều tương tự có thể xảy ra khi Pi Coin niêm yết. Giá Notcoin đạt đỉnh 0,030 USD vào tháng 6 và đã giảm hơn 64% xuống còn 0,01 USD, khiến người nắm giữ thiệt hại hàng tỷ USD.Tương tự, mã thông báo Pixelverse cũng đã giảm hơn 78% so với mức cao nhất trong tháng 7.
+
+Những token này đã giảm do hầu hết những người tích lũy chúng trong phiên niêm yết trước đều bán chúng đi.
+
+Thật không may, xu hướng này có thể xảy ra với Pi Network khi nó niêm yết. Mặc dù các nhà phát triển hy vọng rằng nhiều người dùng sẽ tiếp tục giữ token, tuy nhiên tỷ lệ này chỉ ở mức rất nhỏ sau 1 thời gian dài chờ đợi.
+
+Vào tháng 12 năm ngoái, các nhà phát triển Pi Network đã ám chỉ rằng họ muốn niêm yết token vào cuối năm nay. Để điều đó xảy ra, họ lưu ý rằng trước tiên cần phải thực hiện ba điều: KYC, dApps (các ứng dụng phi tập trung) trong hệ sinh thái và một môi trường thân thiện.
+
+Các nhà phát triển đã làm việc về quy trình xác minh KYC và đã xác minh hơn 12 triệu người dùng. Họ tin rằng việc xác minh này là một cách tiếp cận tốt và tin rằng sẽ đạt được mục tiêu 15 triệu người dùng đã được xác minh vào cuối năm nay.
+
+Hai yếu tố còn lại sẽ khó đạt được hơn đối với các nhà phát triển. Đầu tiên, mục tiêu có ít nhất 100 dApp trên hệ sinh thái của họ có thể là một thách thức. Mặc dù các nhà phát triển đã tổ chức một số cuộc thi hackathons nhưng vẫn chưa có dApp chính thống nào ra đời từ nền tảng này.
+
+Các mạng Blockchain phổ biến như Ethereum và Solana đã hoạt động tốt nhờ hệ sinh thái sôi động của chúng. Toncoin đã trở thành một loại tiền điện tử hàng đầu nhờ hệ sinh thái mạnh mẽ như các ứng dụng chạm để kiếm tiền.
+
+Thứ hai, các nhà phát triển muốn có một môi trường bên ngoài thuận lợi khi họ khởi chạy token. Tuy nhiên, diễn biến thị trường gần đây cho thấy hầu hết các token có thể tiếp tục giảm trong những tháng tới khiBitcoinbước vào đà giảm mạnh nhất kể từ đầu năm đến nay.
+
+Nếu tình hình không được cải thiện, rất có thể ngành công nghiệp tiền điện tử đã chuyển sang ngủ đông và có thể tiếp tục trong một thời gian. Mùa đông tiền điện tử gần nhất đã kéo dài từ tháng 11 năm 2021 đến tháng 1 năm 2023.
+
+Các nhà phát triển có thể sẽ không muốn niêm yết token vào thời điểm mà giá các loại tiền điện tử khác đang có xu hướng giảm mạnh. Do đó, những người nắm giữ Pi Network đang phải đối mặt với nguy cơ tiếp tục chờ đợi trong thời gian dài.

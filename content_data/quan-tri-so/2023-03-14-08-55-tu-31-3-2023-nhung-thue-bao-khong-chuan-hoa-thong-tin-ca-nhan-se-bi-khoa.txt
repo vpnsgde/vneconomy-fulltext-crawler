@@ -1,0 +1,19 @@
+Cục Viễn thông, Bộ Thông tin và Truyền thông vừa cho biết thực hiện Đề án “Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022- 2025, tầm nhìn đến năm 2030” (Đề án 06) của Thủ tướng Chính phủ, các doanh nghiệp viễn thông di động triển khai những biện pháp kết nối, cung cấp dữ liệu, đối soát trong cơ sở dữ liệu thông tin thuê bao của doanh nghiệp với Cơ sở dữ liệu quốc gia về dân cư.
+
+Trên cơ sở đó, phát hiện các trường hợp có thông tin chưa trùng khớp hoặc không đúng quy định nhằm nâng cao hiệu quả công tác quản lý, góp phần giải quyết triệt để tình trạng sử dụng SIM thuê bao di động có thông tin không đúng quy định, đảm bảo đến ngày 31/3/2023, các thuê bao đang hoạt động đều có thông tin đúng quy định và trùng khớp với Cơ sở dữ liệu quốc gia về dân cư.
+
+Sau khi đối soát, Cục Viễn thông đề nghị các doanh nghiệp viễn thông di động nếu phát hiện thuê bao có thông tin chưa chuẩn thì phải rà soát, đối chiếu, triển khai những giải pháp xác thực.
+
+Việc rà soát, chuẩn hóa thông tin thuê bao của người sử dụng dịch vụ viễn thông di động để đảm bảo trùng khớp với thông tin trong Cơ sở dữ liệu quốc gia về dân cư là hoạt động cần thiết, phải có sự tham gia, phối hợp của cơ quan quản lý nhà nước, doanh nghiệp và người dân nhằm góp phần ổn định trật tự xã hội, kịp thời ngăn chặn, xử lý các hành vi sử dụng SIM điện thoại có thông tin đăng ký không đúng quy định thực hiện các hành vi lừa đảo, quảng cáo sai sự thật, thiếu văn hoá, trái với thuần phong mỹ tục…
+
+Đối với các thông tin thuê bao nghi ngờ không đúng quy định, doanh nghiệp thực hiện nghiêm túc quy định buộc tạm dừng hoạt động nếu không đăng ký lại thông tin cá nhân.
+
+Theo đó, từ 31/3/2023, các nhà mạng sẽ bắt đầu khóa 1 chiều với những thuê bao có thông tin không trùng khớp với thông tin đối soát với cơ sở dữ liệu quốc gia về dân cư. Sau đó sẽ khóa thông tin 2 chiều với những thuê bao này và sau 2 tháng sẽ chấm dứt hợp đồng nếu thuê bao không đăng ký chuẩn hóa thông tin cá nhân theo quy định. "Các nhà mạng phải cương quyết dừng hoạt động của các thuê bao có thông tin không chính xác theo quy định", đại diện Cục Viễn thông nhấn mạnh yêu cầu.
+
+Đồng thời, Cục Viễn thông cũng yêu cầu các doanh nghiệp trong quá trình thực hiện phải đảm bảo quyền lợi của người sử dụng, tránh làm ảnh hưởng đến những thuê bao đã có thông tin đúng quy định, đồng thời tạo điều kiện thuận lợi cho người dùng trong việc phối hợp chuẩn hóa thông tin thuê bao.
+
+Trong trường hợp người sử dụng nhận được đề nghị chuẩn hoá thông tin thuê bao từ doanh nghiệp di động nghĩa là thông tin đăng ký có thể chưa đầy đủ, chưa trùng khớp với Cơ sở dữ liệu quốc gia về dân cư, Cục Viễn thông đề nghị người sử dụng phối hợp với doanh nghiệp để chuẩn hoá, tránh các trường hợp mạo danh thực hiện hành vi trái pháp luật. Người dân cần biết thêm thông tin chi tiết có thể truy cập vào các trang web hoặc gọi điện đến tổng đài chăm sóc khách hàng của doanh nghiệp di động để được hướng dẫn.
+
+Các nhà mạng cho biết, trong thời gian từ nay đến 31/3 sẽ triển khai các biện pháp hướng dẫn và hỗ trợ khách hàng có thông tin thuê bao chưa chính xác thực hiện chuẩn hóa thông tin với cơ sở dữ liệu quốc gia về dân cư.
+
+Theo đó, từ ngày 15/3, các nhà mạng sẽ gửi tin nhắn liên tục để yêu cầu người dùng cập nhật dữ liệu. Khách hàng sử dụng điện thoại di động nếu không thực hiện chuẩn hóa thông tin sau 15 ngày nhận thông báo sẽ bị dừng cung cấp dịch vụ viễn thông một chiều và bị dừng hai chiều nếu không thực hiện sau 15 ngày tiếp theo. Sau 30 ngày, thuê bao di động không cập nhật sẽ bị chấm dứt hợp đồng.

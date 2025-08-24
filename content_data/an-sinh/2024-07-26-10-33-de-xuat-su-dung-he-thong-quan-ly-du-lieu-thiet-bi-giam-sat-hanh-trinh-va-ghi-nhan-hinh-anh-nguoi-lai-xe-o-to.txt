@@ -1,0 +1,41 @@
+Dự thảo Thông tư này dự kiến áp dụng đối với các đơn vị kinh doanh vận tải, bến xe khách, bến xe hàng, các đơn vị cung cấp dịch vụ giám sát hành trình và các cơ quan, tổ chức, cá nhân có liên quan đến việc cung cấp, quản lý, vận hành, sử dụng hệ thống quản lý dữ liệu thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh người lái xe của xe ô tô trong phạm vi toàn quốc.
+
+Theo dự thảo, dữ liệu từ thiết bị giám sát hành trình và thiết bị ghi nhận hình ảnh của người lái xe được khai thác, sử dụng để phục vụ cho công tác bảo đảm trật tự, an toàn giao thông, trật tự xã hội; quản lý nhà nước về kinh doanh vận tải; quản lý vận tải của đơn vị kinh doanh vận tải; phục vụ nghiên cứu khoa học và công tác khác.
+
+Thông tin, dữ liệu trong cơ sở dữ liệu từ thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe trên môi trường mạng được bảo mật theo quy định của pháp luật về công nghệ thông tin.
+
+Các thông tin tổng hợp về vi phạm được ghi nhận qua thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái lái xe trên hệ thống thông tin của Cục Cảnh sát giao thông được công bố công khai trên trang Thông tin điện tử của Cục Cảnh sát giao thông.
+
+Dữ liệu từ thiết bị giám sát hành trình phải được truyền về máy chủ dịch vụ với tần suất không quá 30 giây trên một lần khi xe chạy
+
+Dữ liệu cung cấp được chia thành 02 loại, bao gồm các dữ liệu định danh và dữ liệu giám sát hành trình, dữ liệu hình ảnh người lái xe.
+
+Dữ liệu định danh bao gồm: tên đơn vị kinh doanh vận tải; tên Sở Giao thông vận tải (nơi cấp giấy phép kinh doanh vận tải); biển số xe; trọng tải xe (số lượng hành khách hoặc khối lượng hàng chuyên chở cho phép tham gia giao thông); loại hình kinh doanh. Dữ liệu định danh này phải được gắn kết với dữ liệu giám sát hành trình.
+
+Dữ liệu giám sát hành trình, dữ liệu hình ảnh người lái xe phải được cập nhật liên tục các thông tin bao gồm: tốc độ, thời gian, tọa độ, tuyến đường đã di chuyển, số lần và thời gian dừng đỗ của xe gắn liền với hoạt động của người lái xe.
+
+Dữ liệu từ thiết bị giám sát hành trình, dữ liệu hình ảnh người lái xe phải được truyền về máy chủ dịch vụ với tần suất không quá 30 giây trên một lần khi xe chạy và không quá 15 phút trên một lần khi xe dừng không hoạt động (khi xe dừng, đỗ để nghỉ trên hành trình, xe chờ vào nốt xếp khách tại các bến xe đối với tuyến cố định).
+
+Dữ liệu thiết bị giám sát hành trình, dữ liệu hình ảnh người lái xe từ máy chủ dịch vụ phải được truyền về máy chủ của Cục Cảnh sát giao thông trong thời gian không quá 02 phút, kể từ thời điểm máy chủ dịch vụ nhận được dữ liệu;
+
+Dữ liệu từ thiết bị giám sát hành trình, dữ liệu hình ảnh người lái xe được truyền thông qua máy chủ dịch vụ về máy chủ của Cục Cảnh sát giao thông phải đảm bảo theo trình tự thời gian. Trường hợp đường truyền bị gián đoạn thì cho phép gửi đồng thời cả dữ liệu cũ và dữ liệu hiện tại khi đường truyền hoạt động bình thường;
+
+Máy chủ dịch vụ và máy chủ Cục Cảnh sát giao thông tham gia việc truyền, nhận dữ liệu từ thiết bị giám sát hành trình, dữ liệu hình ảnh người lái xe phải được đồng bộ với thời gian chuẩn Quốc gia.
+
+Dữ liệu cung cấp phải bảo đảm kịp thời, chính xác, không được sửa chữa và làm sai lệch dữ liệu trước hoặc trong khi truyền.
+
+Theo dự thảo, các vi phạm về tốc độ xe chạy, thời gian lái xe liên tục, thời gian làm việc của lái xe trong ngày, vi phạm về truyền dữ liệu được tính toán, xác định theo một phương pháp thống nhất trên máy chủ dịch vụ và máy chủ của Cục Cảnh sát giao thông.
+
+Xác định vi phạm tốc độ xe chạy: Phần mềm trên máy chủ phải thực hiện tính toán tốc độ vi phạm theo tốc độ giới hạn dựa trên biển báo hoặc khu vực hạn chế tốc độ để phục vụ cho việc giám sát và xử lý vi phạm theo quy định.
+
+Xác định vi phạm thời gian lái xe liên tục: Phần mềm trên máy chủ phải thực hiện tính toán thời gian lái xe liên tục, thời gian dừng nghỉ giữa hai lần lái xe liên tục, thời gian lái xe trong ngày và thời gian lái xe trong tuần của người lái xe ô tô kinh doanh vận tải và vận tải nội bộ theo quy định tại khoản 1 Điều 64 Luật Trật tự, an toàn giao thông đường bộ để phục vụ cho việc giám sát và xử lý vi phạm theo quy định.
+
+Vi phạm không truyền dữ liệu được xác định khi phương tiện có sự dịch chuyển về vị trí so với vị trí được ghi nhận tại thời điểm bắt đầu ngừng truyền dữ liệu và không có dữ liệu trong khoảng thời gian phương tiện di chuyển giữa hai vị trí.
+
+Vận hành hệ thống quản lý dữ liệu thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe
+
+Hệ thống quản lý dữ liệu thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe được lắp đặt tại Trung tâm thông tin chỉ huy Cục Cảnh sát giao thông phải được bảo đảm hoạt động liên tục để truyền dẫn, lưu trữ dữ liệu, hình ảnh, phương tiện vi phạm pháp luật về giao thông đường bộ.
+
+Khi vận hành hệ thống dữ liệu thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe phải đảm bảo kiểm soát sự thay đổi của phiên bản phần mềm, cấu hình phần cứng, quy trình vận hành: ghi chép lại các thay đổi; lập kế hoạch, thực hiện kiểm tra, thử nghiệm sự thay đổi, báo cáo kết quả và phải được phê duyệt trước khi áp dụng chính thức. Có phương án dự phòng cho việc phục hồi hệ thống trong trường hợp thực hiện thay đổi không thành công hoặc gặp các sự cố không có khả năng dự tính trước.
+
+Người được giao nhiệm vụ vận hành hệ thống dữ liệu thiết bị giám sát hành trình, thiết bị ghi nhận hình ảnh người lái xe phải kiểm tra tình trạng hoạt động của thiết bị, đường truyền và hệ thống; phải ghi sổ theo dõi việc vận hành hệ thống giám sát giao thông và báo cáo ngay các sự cố của các thiết bị cho lãnh đạo, chỉ huy đơn vị.

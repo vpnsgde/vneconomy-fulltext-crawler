@@ -1,0 +1,31 @@
+Dự báo năm 2024 sẽ còn chứng kiến nhiều dòng vốn đầu tư hơn nữa vào thị trường tiền mã hóa, nhờ ba sự kiện chính được kỳ vọng, đó là: Bitcoin Halving, Fed hạ lãi suất và Bitcoin ETF có thể được thông qua.
+
+Theo CoinMarketCap 2023, tính đến tháng 12/2023, toàn bộ thị trường tiền mã hóa đang có hơn 23.000 đồng coin các loại đang được giao dịch, 686 sàn giao dịch tập trung và phi tập trung đang hoạt động, với tổng vốn hóa thị trường đạt hơn 1,67 nghìn tỷ USD. So với mức đỉnh mọi thời đại đạt gần 3,1 nghìn tỷ USD thiết lập hồi tháng 11/2021, thì hiện nay vốn hóa của toàn bộ thị trường đã giảm gần 2 lần. Điểm đáng chú ý là mới cách đây 2 tháng, mức vốn hóa thị trường đang ở mức 1,17 nghìn tỷ USD và đã tăng hơn 40% trong chưa đầy 2 tháng qua. Đây là mức tăng có tính tương quan với thị trường chứng khoán toàn cầu hiện nay.
+
+Trước kỳ vọng tình hình kinh tế thế giới đang dần thoát khỏi và lạm phát và có triển vọng tăng trưởng, nhiều nhà đầu tư đang tìm đến thị trường tài chính truyền thống nói chung và tiền mã hóa nói riêng, giúp thị trường này đã tăng gần gấp đôi so với mức vốn hóa hơn 900 triệu USD hồi năm 2022.
+
+Trong quý IV/2023, thị trường tiền mã hóa chứng kiến tốc độ tăng trưởng đáng kể so với hồi đầu năm. Chúng bao gồm sự xuất hiện của tài sản thế giới thực (RWA), việc triển khai thành công các giải pháp Layer 2 mới, cũng như các ví dụ đáng chú ý về việc SocialFi có được lực phát triển mạnh mẽ hơn. Trong suốt quý này, một chủ đề cơ bản chung là động lực thu hút nhiều người dùng Web2 hơn vào Web3.
+
+Ngoài ra, đã có sự tham gia đáng chú ý từ giới tài chính truyền thống (TradFi) vào không gian tiền mã hóa. Đặc biệt, thị trường Hoa Kỳ đã chứng kiến các đơn đăng ký BTC Spot ETF và ETH Futures & Spot ETF tăng mạnh, cho thấy các tổ chức tài chính truyền thống đang muốn đẩy mạnh đầu tư nghiêm túc vào tiền mã hóa thông qua các công cụ được nhà nước quản lý. Ngoài ra, các ngân hàng lớn và nhà giao dịch đã đưa ra thông báo về việc thành lập phòng ban giao dịch tiền mã hóa của riêng họ, điều này càng thể hiện sự quan tâm và tham gia ngày càng tăng của những người chơi tổ chức vào thị trường tiền mã hóa.
+
+Top 2 coin dẫn đầu về vốn hóa hiện nay là Bitcoin (837 tỷ USD, tương đương 50,15% tổng vốn hóa thị trường) và ETH (277 tỷ USD, tương đương 16,5% tổng vốn hóa thị trường) (CoinMarketCap 2024). Theo sau là các stablecoin USDT và USDC. Riêng đồng stablecoin BUSD năm nay đã biến mất khỏi bảng xếp hạng do các rắc rối pháp lý giữa SEC và Binance tại Mỹ. Các blockchain tiếp theo thu hút vốn đầu tư là Binance chain, XRP, Cardano, Solana, memecoin Dogecoin và Tron (bảng 1).
+
+Thị trường tiền mã hóa năm 2023 có diễn biến tương đối ảm đạm trong 3 quý đầu năm. Tuy nhiên càng về cuối năm, thị trường tiền mã hóa càng chứng kiến mức tăng trưởng tích cực, với Ethereum và DeFi là động lực chính của thị trường. Riêng Bitcoin đã chứng kiến mức tăng trưởng hơn 50% chỉ trong 3 tháng, khiến cả giới đầu tư và chuyên gia tài chính bất ngờ.
+
+Vào tháng 6 năm 2023, BlackRock - tập đoàn quản lý tài sản lớn nhất thế giới -  đã đệ trình kế hoạch thành lập Quỹ giao dịch trao đổi giao ngay (ETF) cho BTC. Nhiều tổ chức khác cũng làm theo, trong đó có WisdomTree, ARK Invest và những tổ chức khác nộp đơn đăng ký đầu tiên hoặc cập nhật các đơn đăng ký hiện có ngay sau thông báo của BlackRock. Đây là các tín hiệu tích cực, phản ánh mong muốn tiếp cận Bitcoin nhiều hơn của các tổ chức trong suốt năm 2023, là động lực lớn đẩy giá Bitcoin lên mức cao gần 45.000 USD/1 Bitcoin vào tháng 12/2023.
+
+Hiện tại có gần 10 đơn đăng ký gửi đến Ủy ban Chứng khoán và Sàn giao dịch Mỹ (SEC) và có một khoảng thời gian giới hạn trước khi đưa ra quyết định phê duyệt hoặc từ chối chúng. Ngày 10/1/2024 được coi là ngày quyết định đơn đăng ký của BlackRock.
+
+Nhìn chung, năm 2023 được kỳ vọng là năm tích lũy, đặt nền móng cho chu kỳ tiếp theo. Nếu lịch sử lặp lại, đây là thời điểm thị trường tiền mã hóa có thể hình thành đáy vào quý 1/2024 trước khi bước vào xu hướng tăng vào giữa năm 2024, sau khi sự kiện Bitcoin Halving sẽ diễn ra vào tháng 4/2024.
+
+Thị trường năm 2023 chứng kiến bê bối lớn, liên quan chủ yếu đến chủ các sàn giao dịch tập trung đông người dùng nhất thế giới. Nếu như năm 2022 xoay quanh Sam Bankman-Fried, đồng sáng lập FTX - từng là sàn giao dịch tiền điện tử lớn thứ hai thế giới, thì sang năm 2023 lại đến Changpeng Zhao, CEO của sàn giao dịch Binance lớn nhất thế giới, vướng vào lao lý.
+
+Sam Bankman-Fried đã bị tòa án Mỹ tuyên án với 7 tội danh gồm: lừa đảo khách hàng; âm mưu lừa đảo khách hàng; lừa đảo người cho vay; âm mưu lừa đảo người cho vay; âm mưu lừa đảo chứng khoán; âm mưu lừa đảo hàng hóa; âm mưu rửa tiền.
+
+Không lâu sau đó, cũng tại Mỹ, Changpeng Zhao, nhà sáng lập sàn giao dịch tiền điện tử Binance, bị buộc tội “rửa tiền”. Zhao đã nhận tội vi phạm và khiến một tổ chức tài chính vi phạm Đạo luật Bảo mật ngân hàng. Anh ta đồng ý nộp phạt 50 triệu USD. Binance cũng sẽ nhận ba tội danh bao gồm: âm mưu cố ý thực hiện, kiểm soát, quản lý, giám sát, chỉ đạo và sở hữu toàn bộ hoặc một phần hoạt động kinh doanh chuyển tiền không có giấy phép; tiến hành, kiểm soát, quản lý, giám sát, chỉ đạo và sở hữu toàn bộ hoặc một phần dịch vụ kinh doanh chuyển tiền không có giấy phép ảnh hưởng đến thương mại giữa các tiểu bang và nước ngoài; cố ý thực hiện việc xuất khẩu, bán và cung cấp, trực tiếp và gián tiếp các dịch vụ cho Iran mà không có sự cho phép hoặc giấy phép từ Văn phòng Kiểm soát tài sản nước ngoài của Bộ Tài chính Hoa Kỳ.
+
+Changpeng Zhao cũng đã rời vị trí CEO của sàn Binance và sàn giao dịch này cũng sẽ hợp tác với chính phủ “trong mọi vấn đề liên quan đến hành vi”. Họ cũng sẽ đồng ý mức phạt 1,8 tỷ USD. Tuy nhiên, Binance vẫn là sàn giao dịch tiền điện tử lớn nhất tính theo khối lượng giao dịch nói chung...
+
+Nội dung bài viết được đăng tải trên ẩn phẩm đặc biệt Kinh tế 2023-2024:  Việt Nam & Thế giới phát hành ngày 06/03/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

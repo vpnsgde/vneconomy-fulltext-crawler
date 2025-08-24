@@ -1,0 +1,7 @@
+Tiền kỹ thuật số (còn gọi là tiền số, tiền ảo) đã xuất hiện từ những năm thập niên 80 nhưng chỉ trở nên phổ biến khi đồng Bitcoin ra đời vào năm 2009. Hiện nay, trên thị trường có hàng chục nghìn tiền số.
+
+Một đặc điểm quan trọng của tiền kỹ thuật số là chúng hoạt động dựa trên sổ cái blockchain (chuỗi khối). Chuỗi khối có thể phi tập trung hoặc tập trung, nhưng hầu hết các loại tiền số hiện nay (như Bitcoin, Ethereum) có bản chất phi tập trung. Điều này khiến cho khó truy vết các giao dịch chuyển tiền và thanh toán bởi không một thực thể nào nắm quyền kiểm soát hoàn toàn hệ thống.
+
+Ngược lại, tiền số do một chính phủ phát hành sẽ do ngân hàng trung ương nước đó kiểm soát và có thể dễ dàng truy vết. Loại tiền này có giá trị tương đương với đồng nội tệ của nước đó nhưng được phát hành điện tử.
+
+Trên thế giới hiện có 105 quốc gia đang khám phá tiền số do ngân hàng trung ương phát hành. Các quốc gia này chiếm khoảng 95% tổng GDP toàn cầu. Biểu đồ thông tin dưới đây thể hiện tình trạng phát triển tiền số của ngân hàng trung ương các nước.

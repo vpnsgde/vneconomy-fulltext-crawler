@@ -1,0 +1,17 @@
+Ngân hàng Nhà nước đang lấy ý kiến của nhân dân đối với dự thảo Thông tư quy định về việc quản lý, vận hành Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia.
+
+Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia là hệ thống tổng thể gồm: Trung tâm Xử lý Quốc gia; Trung tâm xử lý Quốc gia dự phòng, phần mềm cài đặt tại các thành viên và đơn vị thành viên để xử lý các lệnh thanh toán.
+
+Cụ thể, Trung tâm Xử lý Quốc gia sẽ tiếp nhận và kiểm tra tính hợp lệ của chứng từ điện tử; Thực hiện xử lý các lệnh thanh toán, lệnh hủy lệnh thanh toán hợp lệ; thông báo theo yêu cầu về lệnh thanh toán và kết quả xử lý lệnh thanh toán; Đối chiếu Lệnh thanh toán với các thành viên, đơn vị thành viên trong Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia; Từ chối thực hiện thanh toán các lệnh thanh toán, lệnh hủy lệnh thanh toán không hợp lệ,…
+
+Đồng thời, từ chối thực hiện thanh toán các lệnh thanh toán giá trị cao, lệnh thanh toán bằng ngoại tệ đối với các thành viên không đủ số dư trong tài khoản thanh toán của loại tiền tương ứng; Thông báo trạng thái lệnh thanh toán cho đơn vị khởi tạo lệnh sau thời điểm ngừng nhận lệnh thanh toán; Tự động gửi tin điện kết quả bù trừ giá trị thấp cho cấu phần xử lý tài khoản để hạch toán cho các thành viên tham gia quyết toán bù trừ giá trị thấp trong ngày; Xử lý kết quả quyết toán ròng từ các hệ thống khác được thực hiện theo quy định tại Điều 21 Thông tư này.
+
+Trong khi đó, Trung tâm Xử lý Quốc gia dự phòng hoạt động thay thế cho Trung tâm Xử lý Quốc gia khi Trung tâm Xử lý Quốc gia bị sự cố không thể vận hành bình thường hoặc do chuyển đổi theo kế hoạch nhằm đảm bảo tính sẵn sàng hoạt động của Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia. Trong thời gian thay thế Trung tâm Xử lý Quốc gia, Trung tâm Xử lý Quốc gia dự phòng có chức năng hoạt động như quy định tại Điều 4 Thông tư này. Mọi dữ liệu và kết quả xử lý tại Trung tâm Xử lý Quốc gia dự phòng có giá trị pháp lý như đối với Trung tâm Xử lý Quốc gia.
+
+Dự thảo nêu rõ, chứng từ sử dụng trong Hệ thống Thanh toán điện tử liên ngân hàng Quốc gia là chứng từ bằng giấy hoặc dưới dạng chứng từ điện tử theo quy định của pháp luật hiện hành. Lệnh thanh toán phải được lập dưới dạng chứng từ điện tử theo đúng mẫu, đáp ứng các chuẩn dữ liệu do Thống đốc Ngân hàng quyết định.
+
+Theo dự thảo, dữ liệu điện tử phải lưu trữ bao gồm: Đối với mỗi thành viên, đơn vị thành viên, lưu trữ dữ liệu điện tử về các yêu cầu giao dịch và tin điện kết quả; đối với Trung tâm Xử lý Quốc gia, lưu trữ dữ liệu điện tử về các tin điện giao dịch, giao dịch hạch toán, dữ liệu đối chiếu và kết quả xử lý.
+
+Việc quản lý tài liệu, dữ liệu điện tử được thực hiện theo quy định của pháp luật về lưu trữ. Trường hợp cần thiết phục vụ cho công tác thanh tra, kiểm soát, giải quyết tranh chấp, các đơn vị có trách nhiệm phải xuất trình dữ liệu nhật ký điện tử cho các cơ quan chức năng có thẩm quyền và tuân thủ quy định của pháp luật về bảo mật thông tin của khách hàng.
+
+Ngoài ra, lệnh thanh toán bằng đồng Việt Nam có giá trị từ 500 trăm triệu đồng trở lên phải sử dụng dịch vụ thanh toán giá trị cao. Lệnh thanh toán có giá trị nhỏ hơn 500 trăm triệu đồng có thể sử dụng dịch vụ thanh toán giá trị cao hoặc dịch vụ thanh toán giá trị thấp.

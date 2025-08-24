@@ -1,0 +1,23 @@
+Nghiên cứu mới từ hãng bảo mật Kaspersky cho thấy xu hướng sử dụng ví điện tử và dịch vụ ngân hàng di động trong khu vực đang theo sát việc sử dụng tiền mặt. Nghiên cứu gần đây của Kaspersky cho thấy xu hướng này vẫn tiếp tục nhưng có thể sẽ không kéo dài.
+
+
+
+Tại tọa đàm trực tuyến chiều ngày 14/10 với tiêu đề "Xây dựng lộ trình an toàn hướng tới tương lai của thanh toán số ở khu vực châu Á - Thái Bình Dương" do Kaspersky tổ chức, một trong những thông tin đáng chú ý trong nghiên cứu của Kaspersky là phần lớn (90%) những người châu Á được hỏi đã sử dụng ứng dụng thanh toán di động ít nhất một lần trong 12 tháng qua, khẳng định sự bùng nổ của công nghệ Fintech trong khu vực; 15% trong số đó mới bắt đầu sử dụng các nền tảng này sau đại dịch.
+
+Trong đó, Philippines ghi nhận tỷ lệ người lần đầu sử dụng phương thức thanh toán điện tử cao nhất ở mức 37%, tiếp theo là Ấn Độ (23%), Úc (15%), Việt Nam (14%), Indonesia (13%) và Thái Lan (13%). Trong khi đó, tỷ lệ này ở Trung Quốc là 5%, Hàn Quốc 9% và Malaysia 9%.
+
+Trung Quốc là quốc gia đi đầu trong lĩnh vực thanh toán di động ở khu vực châu Á – Thái Bình Dương (APAC). Từ trước khi đại dịch xảy ra, các nền tảng địa phương hàng đầu của Trung Quốc là Alipay và WeChat Pay được ứng dụng rất rộng rãi và trở thành hình mẫu cho các quốc gia châu Á.
+
+Ông Chris Connell, Giám đốc điều hành Kaspersky khu vực APAC cho biết: “Một khảo sát của Kaspersky mới đây, có 70% số người vẫn sử dụng tiền mặt cho các giao dịch hàng ngày. Tuy nhiên, các ứng dụng thanh toán di động và ngân hàng di động cũng không bị bỏ lại quá xa, khi 58% và 52% người tham gia khảo sát sử dụng các nền tảng này ít nhất một lần một tuần. Có thể nói rằng, đại dịch thúc đẩy người dân thử nghiệm kinh tế số, và có thể trong 3 đến 5 năm tới khu vực này có thể không còn sử dụng tiền mặt”.
+
+Các công nghệ tài chính đang ngày càng thu hút được sự chú ý của người dùng tại APAC nhờ sự an toàn và tiện lợi. Hơn một nửa số người tham gia khảo sát cho rằng họ bắt đầu sử dụng các phương thức thanh toán số trong thời kỳ đại dịch vì nó an toàn và thuận tiện hơn so với giao dịch trực tiếp.
+
+Những người tham gia khảo sát cũng nói rằng các nền tảng này giúp họ thanh toán trong thời gian giãn cách xã hội (45%) và đây là cách duy nhất họ có thể thực hiện các giao dịch tiền tệ trong thời gian này (36%); người dùng cho rằng các cổng thanh toán số hiện an toàn hơn so với thời gian trước đại dịch Covid-19 (29%); tỷ lệ người dùng đánh giá cao các ưu đãi và chương trình điểm thưởng từ nhà cung cấp cũng đạt giá trị tương đương.
+
+Mặc dù chỉ chiếm một phần nhỏ, nhưng những người mới ứng dụng công nghệ cũng chịu tác động từ bạn bè và người thân (23%) và từ việc chính quyền địa phương (18%) thúc đẩy sử dụng các phương thức thanh toán số.
+
+Khi được hỏi về những băn khoăn lo lắng trước khi sử dụng các ứng dụng thanh toán và ngân hàng di động, những người sử dụng các ứng dụng này lần đầu tiên thừa nhận rằng họ cảm thấy sợ hãi: bị mất tiền trên mạng (48%) và sợ dữ liệu tài chính của họ bị lưu trữ trên mạng (41%). Khoảng 40% những người tham gia phỏng vấn nói họ không tin tưởng vào tính bảo mật của các nền tảng này.
+
+Hơn 25% người tham gia phỏng vấn cho rằng công nghệ này quá rắc rối, yêu cầu quá nhiều mật khẩu hoặc câu hỏi (26%), trong khi 25% nói rằng thiết bị cá nhân của họ không đủ an toàn.
+
+“Một phát hiện đáng khích lệ của nghiên cứu là công chúng đã nhận thức được những rủi ro đi kèm với các giao dịch trực tuyến. Do đó, các nhà phát triển và nhà cung cấp ứng dụng thanh toán di động đã chú ý tới các lỗ hổng an ninh mạng trong từng bước của quy trình thanh toán và triển khai các tính năng bảo mật, thậm chí là áp dụng cách tiếp cận an toàn từ thiết kế để chiếm được lòng tin của người dùng ứng dụng thanh toán số hiện tại và trong tương lai”, ông Connell cho biết thêm.

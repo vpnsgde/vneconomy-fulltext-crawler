@@ -1,0 +1,29 @@
+Công nghệ TTS của MobiFone không chỉ giúp đọc báo điện tử một cách tự động mà còn hứa hẹn mở ra nhiều ứng dụng hữu ích khác.
+
+Nhiều tờ báo điện tử áp dụng công nghệ TTS của MobiFone
+
+Trước đây, muốn đọc báo điện tử, độc giả sẽ phải dùng đôi mắt. Thế nhưng nếu tập trung mắt như vậy quá lâu sẽ gây nên mỏi mắt, căng thẳng, đặc biệt là sau một ngày làm việc mệt mỏi. Sự phát triển khoa học công nghệ đã hỗ trợ giúp con người vẫn có thể tiếp cận được thông tin trên báo chí online mà không cần tập trung mắt quá lâu vào màn hình máy tính nhờ công nghệ chuyển văn bản thành giọng nói TTS.
+
+Công nghệ TTS có nghĩa là copy toàn bộ chữ của bài báo đó đưa vào hệ thống rồi công nghệ sẽ đọc bài báo đó theo cách tự động. Tiếng Việt phong phú và đa dạng trong từng văn cảnh cụ thể nên giải pháp của MobiFone là hướng công nghệ này trở thành hệ thống từ điển các từ viết tắt, văn phạm, định dạng của mỗi báo.
+
+Đến nay, có 5 tờ báo điện tử ở Việt Nam áp dụng công nghệ trí tuệ nhân tạo (AI) - giải pháp công nghệ chuyển văn bản thành giọng nói TTS của nhà mạng MobiFone. Đây được xem là bước phát triển theo kịp xu thế của làng báo thế giới khi nhiều hãng tin, tòa soạn quốc tế đã ứng dụng công nghệ này để tích hợp giữa báo nói và báo mạng.
+
+Cách thức này tạo sự thuận tiện tối đa cho độc giả. Người đọc có thể không phải ngồi một chỗ,  tranh thủ làm công việc khác trong khi nghe thông tin đang được phát trên màn hình máy tính, điện thoại.
+
+Một số ứng dụng về công nghệ AI - TTS của MobiFone có thể kể đến như: tích hợp báo nói cho Cổng thông tin điện tử hoặc các trang tin tức địa phương, thông báo thiên tai, cháy nổ, tình huống khẩn cấp qua hệ thống gọi tự động - Mobile Alert, tự động báo vi phạm giao thông, thông báo tình trạng giao thông qua radio một cách tự động,…
+
+Ứng dụng công nghệ TTS của MobiFone cực kỳ hữu dụng
+
+Khi trí tuệ nhân tạo (AI) chưa được sử dụng, nếu muốn có file âm thanh đọc bài báo, kỹ thuật viên tòa soạn sẽ phải thu âm vào máy rồi chuyển thành file và đính kèm cùng bài viết. Với cách làm đó mất nhiều thời gian, chưa kể tốn kém nguồn nhân lực, ít nhất một người đọc và một người cắt ghép chỉnh sửa sau đó đính kèm chức năng vào trong bài viết. Còn với công nghệ TTS của MobiFone, tiết kiệm thời gian và nhân lực là ưu điểm thấy rõ ràng nhất.
+
+Công nghệ chuyển đổi văn bản thành giọng nói của MobiFone thể hiện rõ tính ưu việt, là giọng nói nhân tạo có cảm xúc. MobiFone TTS xử lý được ngôn ngữ tiếng Việt theo nhiều cấp độ khác nhau, phù hợp quy chuẩn ngôn ngữ báo chí, các tòa soạn khác nhau với chất giọng tự nhiên, có cảm xúc gần giống giọng người thật. Sản phẩm cho phép tất cả tòa soạn cập nhật từ điển, gồm các từ ngữ mới và các từ ngữ thường sử dụng theo đặc trưng của báo.
+
+Bên cạnh đó, một trong những yếu tố quan trọng mà giải pháp báo nói của MobiFone hướng tới là tính an toàn và tính "đọc đúng" của báo nói. Tiếng Việt mang nhiều ngữ cảnh và ý nghĩa, văn phong của mỗi báo cũng theo từng lĩnh vực mà hoàn toàn khác nhau.
+
+Mặt khác, ứng dụng công nghệ TTS của MobiFone để đọc bài báo dưới dạng audio là cách thức tốt hỗ trợ người khiếm thị. Hiện ở Việt Nam có đến 3 triệu người khiếm thị, nhưng không phải ai cũng có thể đọc được chữ nổi. Vì vậy, khi có file audio đọc bài báo, người khiếm thị có thể tiếp cận thông tin nhanh, hiệu quả, đơn giản nhất mà không hề tốn kém.
+
+Ngoài người khiếm thị, những độc giả cao tuổi cũng khá khó khăn khi đọc trên màn hình, khi có hình thức đọc bài báo bằng công nghệ TTS, họ cũng không phải nhìn vào màn hình quá lâu hay căng mắt để đọc hết một bài báo như trước đây.
+
+Đặc biệt, công nghệ này hứa hẹn mở ra ứng dụng trong các lĩnh vực như: tổng đài với trợ lý ảo thông minh, giải pháp nhà thông minh, sản xuất nội dung thông minh…
+
+Chi tiết về giải pháp TTS tại đây (https://marketplace.mobifone.vn/)

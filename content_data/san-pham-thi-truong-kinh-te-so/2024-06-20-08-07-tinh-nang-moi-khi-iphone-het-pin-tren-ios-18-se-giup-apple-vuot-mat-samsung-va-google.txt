@@ -1,0 +1,13 @@
+Một tính năng mới sắp ra mắt trên iPhone trong phiên bản cập nhật iOS 18 sẽ cho phép người dùng xem được thời gian ngay cả khi điện thoại đã cạn pin. Đặc biệt hơn, thiết bị vẫn sẽ hiển thị biểu tượng hết pin và dòng chữ “iPhone is Findable” cho biết tính năng Find My vẫn hoạt động.
+
+Theo trang tin công nghệ 9to5Mac, Apple đang cải thiện những gì người dùng nhìn thấy trên màn hình khi pin yếu đến mức không thể bật iPhone. Từ lâu, Apple đã có một tính năng rất hữu ích đó là “Dự trữ năng lượng”. Điều này có nghĩa là trong một khoảng thời gian sau khi pin iPhone đã xả hết, thiết bị vẫn sẽ giữ lại một ít pin dự phòng để thực hiện tính năng “Find my iPhone”.
+
+Ngay cả khi hết pin và chẳng may không tìm thấy điện thoại, người dùng vẫn có thể báo mất điện thoại trên iCloud và bật chế độ “Find my iPhone”. Chức năng này hoạt động trong khoảng năm giờ. Với iOS 18, tính năng này được bổ sung thêm 1 thông tin hữu ích, đó là góc trên cùng bên trái của màn hình sẽ hiển thị thời gian.
+
+Bằng cách này, Apple cho người dùng thông tin chính xác về vị trí, hiển thị thời gian ngay cả iPhone đã hết pin. Thoạt nhìn thay đổi này không lớn nhưng nếu bạn đang đi trên đường và bỗng dưng điện thoại hết pin thì vẫn có thể xem được thời gian. Nhiều người dùng đánh giá cao thay đổi nhỏ nhưng hữu ích này. Một số điện thoại Android của Samsung, Google hoặc các điện thoại khác, tính năng tìm kiếm điện thoại có thể có nhưng chưa có tính năng bổ sung đồng hồ mới.
+
+Theo MacRumors, tính năng này dường như chỉ giới hạn ở các mẫu iPhone 15 ở thời điểm hiện tại. Một số người đã thử nghiệm trên iPhone 15 Pro Max và tính năng đã hoạt động nhưng không có thời gian hiển thị trên iPhone 14 Pro Max.
+
+Ngoài ra, đây không phải là cải tiến pin duy nhất sắp tới, vì có thông tin cho rằng iOS 18 sẽ mang đến các mức giới hạn sạc mới cho các điện thoại mới nhất. Theo báo cáo của MacRumors, Apple sắp cải thiện giới hạn sạc hiện tại có trên dòng iPhone 15.
+
+Hiện tại, cài đặt mặc định đang ngăn điện thoại sạc quá 80%. Nhưng iOS 18 sẽ cung cấp khả năng kiểm soát chi tiết hơn. Với các giới hạn bổ sung mới được đặt ở mức 85%, 90% và thậm chí 95% mức sạc đầy. Báo cáo cho biết: “Với các tùy chọn giới hạn mới, iOS 18 hiện có cách tiếp cận chủ động để cải thiện tuổi thọ pin bằng cách đề xuất giới hạn sạc cụ thể cho người dùng thông qua thông báo”.

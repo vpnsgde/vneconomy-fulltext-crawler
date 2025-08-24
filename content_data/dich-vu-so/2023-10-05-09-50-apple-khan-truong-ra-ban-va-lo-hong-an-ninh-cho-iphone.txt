@@ -1,0 +1,17 @@
+Qualcomm mới đây đã tiết lộ 4 lỗ hổng zero-day trong chip khiến cho nguy cơhàng tỷ smartphone có thể bị ảnh hưởng do lỗ hổng bảo mật trong chip Qualcommkhắp thế giới.
+
+Bên cạnh việc vá lỗ hổng, bản vá iOS 17.0.3 được thông báo là sẽ giúp cải thiện tình trạng nóng máy xảy ra trên iPhone 15 mới ra mắt.
+
+Đặc biệt, bản cập nhật an ninh khẩn cấp của Apple để vá lỗ hổng zero-day mới, bị khai thác trong các cuộc tấn công nhắm vào người dùng iPhone và iPad. Cụ thể, lỗ hổng zero-day (CVE-2023-42824) xuất phát từ điểm yếu được phát hiện trong nhân XNU, cho phép kẻ tấn công cục bộ leo thang đặc quyền trên iPhone và iPad.
+
+Theo Apple, nhiều khả năng lỗ hổng bảo mật này có thể đã bị khai thác thực tế trên các phiên bản iOS trước iOS 16.6.
+
+Apple đã khắc phục vấn đề trong iOS 17.0.3 và iPadOS 17.0.3 bằng các biện pháp kiểm tra được cải tiến. Tuy nhiên, Hãng chưa tiết lộ ai đã tìm thấy và báo cáo lỗ hổng.
+
+Danh sách các thiết bị bị ảnh hưởng khá rộng, bao gồm: iPhone XS trở lên; iPad Pro 12,9 inch thế hệ thứ 2 trở lên, iPad Pro 10,5 inch, iPad Pro 11 inch thế hệ 1 trở lên, iPad Air thế hệ thứ 3 trở lên, iPad thế hệ thứ 6 trở lên và iPad mini thế hệ thứ 5 trở lên
+
+Để phòng tránh bị tấn công, người dùng cần nâng cấp sớm bản cập nhật mới này. Truy cập vào phần Cài đặt -> Cài đặt chung -> Giới thiệu -> Cập nhật phần mềm, sau đó tiến hành nâng cấp theo hướng dẫn.
+
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), khuyến cáo: Người dùng chỉ có thể chờ bản cập nhật từ nhà sản xuất. Trong thời gian chờ đợi bản cập nhật, người dùng hạn chế bấm vào các đường link được gửi qua chat, email, không mở các file nếu chưa biết rõ nguồn gốc.
+
+Qualcomm cũng cho biết, đã phát hành các bản vá cho các lỗ hổng và kêu gọi các nhà sản xuất thiết bị (OEMs) cập nhật sớm nhất có thể. Tuy nhiên, cho đến khi các bản vá được triển khai rộng rãi, người dùng các thiết bị ảnh hưởng bởi lỗ hổng vẫn sẽ đối diện nguy cơ tấn công.

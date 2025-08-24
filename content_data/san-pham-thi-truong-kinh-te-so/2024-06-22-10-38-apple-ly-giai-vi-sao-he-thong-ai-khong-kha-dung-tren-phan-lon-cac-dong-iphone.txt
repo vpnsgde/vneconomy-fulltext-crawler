@@ -1,0 +1,11 @@
+Lý giải thắc mắc về việc Apple giới hạn phần mềm AI Apple Intelligence chỉ trên hai phiên bản iPhone đời cũ là iPhone 15 Pro và iPhone 15 Pro Max, đội ngũ kỹ sư Apple cho biết: “Các thuật toán AI khi chạy đòi hỏi sức mạnh tính toán rất lớn. Đó là sự kết hợp của băng thông trong thiết bị, kích thước của Neural Engine và sức mạnh xử lý đủ mạnh để chạy các mô hình này đủ nhanh. Thực tế, Apple Intelligence hoàn toàn có thể chạy trên một số đời iPhone trước đây, nhưng tốc độ sẽ chậm đến mức không còn hữu ích nữa".
+
+Nhìn lại lịch sử các đời iPhone, Apple luôn duy trì mức RAM ở mức thấp nhất có thể. Trước đây, điều này là một trong những lợi thế của iOS so với Android. Sự tích hợp chặt chẽ giữa phần mềm và phần cứng của Apple cho phép iOS được tối ưu hóa cho một cấu hình duy nhất.
+
+Ngược lại, việc Android cần chạy trên nhiều loại chipset và thiết bị I/O khác nhau, điều này đòi hỏi các nhà sản xuất phải tăng dung lượng RAM của thiết bị lên.
+
+Tuy nhiên, đến thời điểm hiện tại, đặc điểm dung lượng RAM lớn của Android đang thực sự hữu ích khi tích hợp AI vào điện thoại ở giai đoạn đầu của kỷ nguyên “smartphone AI”.
+
+Bộ nhớ bổ sung giờ đây có thể được sử dụng để hỗ trợ xử lý AI trực tiếp trên máy. Chẳng hạn như, Samsung đã đưa hệ thống trí tuệ nhân tạo của họ Galaxy AI trên nhiều dòng như S24, Z Fold 5, Z Flip 5 và dòng Galaxy S23 cũ hơn. Trong khi đó, Apple không thể đưa bộ công cụ AI của mình lên hầu hết các iPhone cũ hơn bởi dung lượng RAM hạn chế.
+
+Theo các chuyên gia, Apple có thể triển khai AI của mình lên MacBook Air 2020 sử dụng chip M1 và iPad Pro 2021 nhưng lại không thể triển khai lên iPhone 12 2020, mặc dù M1 và chip A14 Bionic của iPhone đều được xây dựng trên cùng một kiến trúc, mặc dù cả hai chipset đều có NPU của Apple và cung cấp 11 TOPS trên 16 lõi thần kinh neural. Thế nhưng, thông số kỹ thuật trên iPhone đời cũ thấp hơn máy tính bảng và máy tính xách tay nên việc mở rộng AI trên thiết bị di động bị hạn chế.

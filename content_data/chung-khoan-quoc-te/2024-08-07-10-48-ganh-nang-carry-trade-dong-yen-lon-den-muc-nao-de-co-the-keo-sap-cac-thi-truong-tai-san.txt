@@ -1,0 +1,35 @@
+Có một lý do quan trọng phía sau biến động mạnh của thị trường tài chính toàn cầu thời gian gần đây. Đó là việc giới đầu tư ồ ạt rút khỏi giao dịch chênh lệch lãi suất (carry-trade) đồng Yên Nhật Bản.
+
+Giao dịch carry-trade cần có hai yếu tố là đồng tiền được vay tiếp tục có lãi suất thấp và biến động thị trường duy trì ở mức thấp. Nhưng ở thời điểm hiện tại, những yếu tố này đều đang đảo chiều...
+
+Dưới đây là một số điều cần biết về giao dịch carry-trade, theo tờ Wall Street Journal:
+
+Trong carry-trade, nhà đầu tư đi vay bằng đồng tiền tại một thị trường có lãi suất thấp, như Nhật Bản hoặc Trung Quốc, và lấy số vốn đó đầu tư vào một đồng tiền khác có lãi suất cao hơn, hoặc các tài sản có lợi tức cao hơn, như đồng peso Mexico hoặc đồng USD hay cổ phiếu công nghệ ở Mỹ.
+
+Đồng yên là đồng tiền cấp vốn (funding currency) phổ biến nhất trong hoạt động carry-trade những năm gần đây do lãi suất siêu thấp ở Nhật Bản. Ngân hàng Trung ương Nhật Bản (BOJ) mới chấm dứt chính sách lãi suất âm vào tháng 4 năm nay, dù các ngân hàng trung ương ở phương Tây đã tăng lãi suất quyết liệt từ năm 2022 để chống lạm phát.
+
+Giao dịch carry-trade cần có hai yếu tố là đồng tiền được vay tiếp tục có lãi suất thấp và biến động thị trường duy trì ở mức thấp. Nhưng ở thời điểm hiện tại, những yếu tố này đều đang đảo chiều.
+
+Lãi suất ở Nhật đã tăng hai lần từ tháng 4 đến nay, gồm đợt tăng vào ngày 31/7. Trong khi đó, Cục Dự trữ Liên bang Mỹ (Fed) đang tiến tới bắt đầu tăng lãi suất vào tháng 9, Ngân hàng Trung ương Anh (BOE) và Ngân hàng Trung ương châu Âu (ECB) đều đã tăng lãi suất. Những động thái này rút ngắn chênh lệch lãi suất giữa Nhật Bản và các nền kinh tế lớn khác, khiến khả năng sinh lời của carry-trade yên Nhật giảm xuống.
+
+Bên cạnh đó, khi đồng yên tăng giá, thị trường tài chính toàn cầu chao đảo những phiên gần đây, dẫn tới sức hấp dẫn của carry-trade càng thêm phần suy giảm.
+
+Giới phân tích cho rằng khó có thể đưa ra một câu trả lời chính xác cho câu hỏi này, vì các giao dịch tiền tệ không được theo dõi tập trung như giao dịch trên thị trường chứng khoán. Tuy nhiên, vẫn có những cách để đánh giá độ phổ biến của hoạt động carry-trade đồng yên.
+
+Một cách trong số đó là xem số liệu về các loại hợp đồng mà Ủy ban Giao dịch hàng hóa tương lai Mỹ (CFTC) giám sát. Dữ liệu này cho thấy ở thời điểm đầu tháng 7, các quỹ phòng hộ và các nhà đầu tư khác nắm ròng 180.000 hợp đồng đặt cược vào sự mất giá của đồng yên, trị giá hơn 14 tỷ USD. Đến tuần trước, các vị thế này được cắt giảm chỉ còn khoảng 6 tỷ USD.
+
+Một các nữa là nhìn vào số liệu cho vay đối với khách hàng nước ngoài của các ngân hàng Nhật Bản. Con số này đạt mức 1 nghìn tỷ USD ở thời điểm tháng 3, tăng 21% so với thời điểm năm 2021 - theo dữ liệu từ Ngân hàng Thanh toán Quốc tế (BIS). Phần lớn tăng trưởng gần đây trong hoạt động vay yên xuyên biên giới là tiền vay trên thị trường liên ngân hàng - tức là các ngân hàng vay lẫn nhau - và ngân hàng cho các tổ chức phi ngân hàng vay, chẳng hạn các công ty quản lý tài sản.
+
+Một báo cáo của ngân hàng JPMorgan Chase nói rằng những khoản vay đó “thường là nhu cầu của nhà đầu tư toàn cầu để cấp vốn cho giao dịch carry trade đồng yên”.
+
+Việc đồng yên tăng giá gần 8% trong tuần trước đã khiến các nhà giao dịch carry-trade khốn đốn.
+
+Những người vay đồng yên phải đối mặt với lệnh ký quỹ (margin calll) khi yên tăng giá mạnh, đồng nghĩa bên cho vay yêu cầu bên vay có thêm tài sản thế chấp. Các nhà đầu tư này buộc phải bán các tài sản khác để mua vào đồng yên để bù lỗ cho vị thế carry-trade, đẩy đồng yên tăng giá mạnh hơn và dẫn tới các lệnh ký quỹ khác, giống như một vòng xoáy tự mạnh lên.
+
+Phiên giao dịch ngày 6/8, thị trường toàn cầu đã hồi phục và đồng yên giảm giá nhẹ trở lại. Tuy nhiên, nhà đầu tư vẫn lo ngại về những biến động mới có thể xảy ra.
+
+“Chúng tôi dự báo tình trạng bán tháo có thể trở lại trong vài ngày nữa vì các giao dịch carry-trade thường khá lớn. Nhà giao dịch carry-trade có thể còn chưa rút hết khỏi vị thế của họ vì còn đợi thị trường hồi phục để giảm lỗ”, trưởng chiến lược Zhe Shen của công ty TIFF Investment Management nhận định với hãng tin Reuters.
+
+Theo ông Zhe, việc rút hoàn toàn khỏi các vị thế carry-trade yên Nhật có thể phải mất nhiều ngày. “Lượng giao dịch carry-trade đồng yên vẫn còn lớn”, CEO Ulf Lindahl của công ty tư vấn Currency Research Associates phát biểu.
+
+Theo chuyên gia Chris Turner của ngân hàng ING, một nhân tố có thể đẩy đồng yên tăng giá mạnh hơn nữa là nhà đầu tư triển khai các vị thế phòng hộ (hedge) mới. Trong mấy năm qua, việc phòng hộ rủi ro tỷ giá là một việc tốn kém, nên một số nhà đầu tư và ngân hàng có các giao dịch liên quan tới đồng yên đã không phòng hộ. Khi phòng hộ tăng lên, nhu cầu đồng yên sẽ tăng theo. Điều này sẽ dẫn tới một vòng xoáy tự mạnh lên, vì đồng yên tăng giá sẽ khiến các nhà đầu tư khác đóng vị thế đặt cược vào sự mất giá của đồng yên, bằng cách mua thêm yên.

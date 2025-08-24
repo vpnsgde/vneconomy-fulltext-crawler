@@ -1,0 +1,45 @@
+Ngày 26/6/2025 tại Hà Nội, Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia (STAMEQ) phối hợp với Chương trình Phát triển Liên Hợp Quốc (UNDP) tổ chức hội thảo “Trao đổi kinh nghiệm về tiêu chuẩn, quy chuẩn và quản lý hệ thống pin lưu trữ năng lượng" nhằm hướng đến thúc đẩy sự hài hòa giữa tiêu chuẩn quốc gia với thông lệ quốc tế, đồng thời nâng cao năng lực xây dựng, thử nghiệm và chứng nhận BESS (Hệ thống pin lưu trữ năng lượng) tại Việt Nam.
+
+Sự kiện quy tụ các chuyên gia hàng đầu đến từ Hoa Kỳ, Hàn Quốc, Trung Quốc, Singapore, Malaysia và Việt Nam, cùng đại diện cơ quan quản lý, doanh nghiệp, viện nghiên cứu và tổ chức quốc tế hoạt động trong lĩnh vực tiêu chuẩn và năng lượng.
+
+Phát biểu khai mạc hội thảo, ông Hà Minh Hiệp, Chủ tịch STAMEQ cho biết từ khi Tuyên bố Chính trị về thiết lập Quan hệ đối tác chuyển đổi năng lượng công bằng với Việt Nam (JETP) được công bố vào tháng 12/2022, Việt Nam đã nhanh chóng vào cuộc, thiết lập Ban Thư ký thực hiện JETP và các nhóm công tác chuyên môn, xây dựng Kế hoạch huy động nguồn lực (JETP RMP). Trong đó, nêu bật các chính sách và danh mục dự án ưu tiên để hiện thực hóa lộ trình chuyển đổi năng lượng tại Việt Nam.
+
+Trong tiến trình này, việc đầu tư phát triển hệ thống lưu trữ năng lượng đóng vai trò nền tảng để xử lý tính gián đoạn của năng lượng tái tạo, tăng cường tính linh hoạt của hệ thống và cải thiện độ tin cậy và khả năng phục hồi của lưới điện và góp phần phát triển hệ thống truyền tải điện thông minh và đảm bảo an ninh năng lượng quốc gia.
+
+“Trong tiến trình đó, hệ thống lưu trữ năng lượng không chỉ là một giải pháp công nghệ, mà còn là một cấu phần thiết yếu để đảm bảo ổn định hệ thống điện, tối ưu hóa nguồn tái tạo và nâng cao khả năng dự phòng trong điều kiện khí hậu ngày càng bất định. Để triển khai BESS an toàn, hiệu quả và quy mô lớn, cần một hệ thống tiêu chuẩn, quy chuẩn kỹ thuật và cơ chế quản lý phù hợp”, ông Hiệp nhấn mạnh.
+
+
+
+"Xây dựng các tiêu chuẩn và quy chuẩn quốc gia cho BESS có ý nghĩa then chốt trong việc giảm rủi ro kỹ thuật và tài chính, tạo hành lang pháp lý rõ ràng cho việc huy động đầu tư trong nươc và quốc tế cho các dự án chuyển đổi năng lượng tại Việt Nam nói chung và các dự án JETP nói riêng".
+
+Ông Hà Minh Hiệp – Chủ tịch Ủy ban Tiêu chuẩn Đo lường Chất lượng Quốc gia (STAMEQ).
+
+Đại diện Tổng công ty Điện lực TP Hà Nội (EVNHANOI) chia sẻ kinh nghiệm ứng dụng thực tế các hệ thống lưu trữ trong lưới điện của thành phố, góp phần tăng tính linh hoạt truyền tải và phân phối điện. Theo đó, trước nhu cầu ngày càng tăng cao về công suất điện, đặc biệt trong các thời điểm cao điểm nắng nóng hoặc khi phụ tải đỉnh tăng đột biến, TP Hà Nội đang từng bước nghiên cứu, triển khai hệ thống tích trữ năng lượng (BESS – Battery Energy Storage System) nhằm đảm bảo vận hành lưới điện an toàn, ổn định và nâng cao độ tin cậy cung cấp điện.
+
+Trong định hướng của EVNHANOI, việc ứng dụng hệ thống tích trữ năng lượng sẽ giúp tối ưu công suất truyền tải và phân phối điện, đặc biệt hữu ích trong các tình huống ngừng giảm cung cấp điện phục vụ thi công hoặc khắc phục sự cố do thiên tai. Hệ thống BESS có thể thực hiện nhiều chức năng quan trọng như điều tần, điều áp, dự phòng, điều chỉnh thời gian sử dụng năng lượng, cải thiện chất lượng điện năng… Đồng thời, hệ thống này còn giúp điều tiết phụ tải và tối ưu hóa vận hành tại các nút nguồn trung tâm của lưới điện.
+
+Theo đại diện EVNHANOI, công nghệ pin lưu trữ hiện nay phát triển nhanh, với nhiều chủng loại như pin Lithium-ion, Vanadium Redox Flow (VRB), và Natri-lưu huỳnh (NAS). Trong số đó, pin Lithium-ion đang là lựa chọn ưu tiên hàng đầu nhờ đặc tính kỹ thuật ổn định, hiệu suất cao và chi phí ngày càng cạnh tranh. Tuy nhiên, việc lựa chọn công nghệ pin cũng cần xét đến các yếu tố như tính an toàn, độ tin cậy, khả năng tái chế và bảo trì.
+
+EVNHANOI hiện đang chọn phương án khả thi nhất để thí điểm triển khai hệ thống BESS. Theo đó, các vị trí ưu tiên sẽ là nơi có điều kiện mặt bằng thuận lợi, thuộc quyền quản lý của EVNHANOI, thường xuyên xảy ra tình trạng quá tải vào giờ cao điểm hoặc có phụ tải lớn, tập trung tại các trạm biến áp 110kV hoặc các khu công nghiệp như Bắc Thăng Long, Quang Minh…
+
+Tiêu chí đặt ra cho địa điểm lắp đặt bao gồm diện tích mặt bằng trống tối thiểu 300m², không vướng hành lang lưới điện hoặc công trình ngầm, và nằm gần các trung tâm phụ tải lớn để thuận tiện trong vận hành, giám sát. Việc triển khai BESS cũng đòi hỏi tính toán chi tiết về cấu hình, công suất, điện áp, dung lượng, và hệ thống phụ trợ điều khiển tương ứng.
+
+Tại hội thảo, nhiều chuyên gia quốc tế trong lĩnh vực điện đã chia sẻ những kinh nghiệm về xây dựng hệ thống lưu trữ điện, các rào cản kỹ thuật về pin lưu trữ điện và các giải pháp tháo gỡ. Ông Kolin Low, đại diện UL Standards & Engagement (ULSE), đã giới thiệu về hệ thống tiêu chuẩn quốc tế liên quan đến an toàn và lắp đặt BESS, cùng các thông lệ kỹ thuật đang được áp dụng rộng rãi.
+
+Từ Trung Quốc, ông LiangTang, Phó Tổng thư ký Hiệp hội Lưu trữ Năng lượng Trung Quốc (CNESA) đã nêu bật các quy định kỹ thuật và chiến lược hợp tác quốc tế nhằm xây dựng hệ sinh thái BESS bền vững.
+
+Ông Kim Taemin – nghiên cứu viên cao cấp tại Viện Thử nghiệm và Chứng nhận Hàn Quốc (KTC) giới thiệu chương trình chứng nhận BESS tại Hàn Quốc, với các yêu cầu kỹ thuật và quy trình kiểm định nghiêm ngặt.
+
+
+
+“Việc xây dựng tiêu chuẩn cho hệ thống lưu trữ năng lượng là điều then chốt để bảo đảm an toàn và độ tin cậy, thúc đẩy tính nhất quán kỹ thuật và bảo đảm chất lượng, hài hòa với thông lệ quốc tế, hỗ trợ khả năng huy động tài chính và tạo niềm tin cho nhà đầu tư, đồng thời giúp tích hợp hiệu quả vào lưới điện”.
+
+“Việc xây dựng tiêu chuẩn cho hệ thống lưu trữ năng lượng là điều then chốt để bảo đảm an toàn và độ tin cậy, thúc đẩy tính nhất quán kỹ thuật và bảo đảm chất lượng, hài hòa với thông lệ quốc tế, hỗ trợ khả năng huy động tài chính và tạo niềm tin cho nhà đầu tư, đồng thời giúp tích hợp hiệu quả vào lưới điện”.
+
+Đại diện Viện Năng lượng (Bộ Công Thương) cũng đã trình bày các định hướng chính sách của Việt Nam, trong đó nhấn mạnh vai trò của lưu trữ năng lượng trong điều tiết phụ tải và nâng cao hiệu quả vận hành hệ thống điện.
+
+Ở góc độ doanh nghiệp, ông Phan Quang Minh, Trưởng phòng Kinh doanh BESS, Công ty Cổ phần Năng lượng VINENERGO, đánh giá năng lực phát triển BESS trong nước có thể góp phần giảm chi phí nhập khẩu, tăng tính tự chủ công nghệ và thúc đẩy chuỗi cung ứng trong nước. Một nội dung nổi bật khác đến từ Công ty POEN, giới thiệu công nghệ tái sản xuất và tái sử dụng pin từ xe điện (EV), mở ra cơ hội thúc đẩy kinh tế tuần hoàn và giảm thiểu chất thải điện tử tại Việt Nam.
+
+Kết thúc hội thảo, ông Patrick Haverman, Phó Trưởng Đại diện Thường trú UNDP tại Việt Nam, đánh giá cao chất lượng nội dung và tinh thần hợp tác giữa các bên; đồng thời nhấn mạnh đến tiềm năng to lớn của BESS trong quá trình chuyển đổi công bằng, và đưa ra những bước đi cụ thể để biến tham vọng thành hành động.
+
+Theo ông Patrick Haverman, việc tháo gỡ rào cản kỹ thuật và xây dựng môi trường thuận lợi sẽ là chìa khóa để nâng cao năng lực lưu trữ năng lượng theo đúng mục tiêu Quy hoạch điện 8.

@@ -1,0 +1,19 @@
+Theo dữ liệu từ Coin Market Cap và một số sàn giao dịch như CoinGecko, Pi Network - ứng dụng khai thác tiền ảo được giới thiệu từ năm 2019 đã bất ngờ giảm gần 98% so với mức giá “ghi nợ” gần 40 USD gần đây, điều này có thể khiến đồng Pi gặp nhiều rắc rối.
+
+Thực tế đây không phải giá trị thực của Pi mà là mức giá các sàn đưa ra dưới dạng IOU (I Owe You - hình thức mua trước và thường không thể bán ra lúc đó mà sẽ trả bằng đồng thật khi dự án phát hành chính thức). Mức giá này đã đột ngột giảm mạnh xuống 0,62 USD vào ngày 4 tháng 4.
+
+Tuy nhiên, trên các sàn giao dịch khác, Pi vẫn được giao dịch ở mức gần 40 USD, điều này dấy lên một số nghi vấn rằng một số sàn giao dịch đang chứng kiến áp lực bán tăng đột biến.
+
+Theo phân tích kỹ thuật từ các chuyên gia, vào tháng 4, hashrate của đồng Pi (tỷ lệ băm - đơn vị đo lường khả năng giải thuật toán của thiết bị đào tiền mã hóa) đã giảm mạnh xuống 0,0036654, đánh dấu mức giảm rõ rệt -49,96% so với con số được ghi nhận là 0,0073365 vào tháng 3. Sự suy giảm này không chỉ thu hút sự chú ý của những người tham gia thị trường mà còn đặt ra câu hỏi về tính ổn định và tương lai của Pi Network cũng như tác động của nó đối với toàn bộ hệ sinh thái tiền điện tử.
+
+Diễn biến giảm đột ngột của bất kỳ token nào là điều bất thường và thường xảy ra do các yếu tố tiêu cực bên ngoài. Pi Network thực chất vẫn là mạng lưới thử nghiệm dù đã có nhiều cam kết về việc chính thức ra mắt. Do đó, người dùng đang bắt đầu rời xa nền tảng Blockchain này bất chấp chiến dịch tiếp thị tích cực của đội ngũ dự án. Đã có những thông tin về mainnet mở sẽ diễn ra vào tháng 6 năm 2024, tuy nhiên có thể bị đẩy sang tháng 12/2024 khiến người dùng ngày càng suy giảm lòng tin.
+
+Bất chấp dữ liệu biểu đồ của từ CoinMarketCap, có vẻ mức giá lao dốc đó chỉ dao động trên một số sàn giao dịch. HTX và BitMart - 2 sàn giao dịch chiếm phần lớn khối lượng giao dịch của đồng PI đang niêm yết với giá 38 USD.
+
+Nhiều dự đoán khác lại cho rằng giá Pi sụt giảm có thể là kết quả của lỗi kỹ thuật trong mạng lưới Pi và CoinMarketCap (CMC). Tuy nhiên, cả CoinMarketCap và Pi Network đều không đưa ra bình luận về vấn đề này.
+
+Một người dùng trên X cho rằng giá giảm là do CMC niêm yết sai mã thông báo, tuy nhiên trang web biểu đồ vẫn chưa sửa lỗi tại thời điểm viết bài.Tin tức về sự sụt giảm giá có thể tạo ra hiệu ứng FUD (Fear, Uncertainty, Doubt - sợ hãi, không chắc chắn, nghi ngờ), dẫn đến tình trạng hoảng loạn bán tháo và tăng áp lực giảm giá đối với token.
+
+Pi Network đã trở thành một biểu tượng toàn cầu trong hệ sinh thái Blockchain và tiền điện tử. Được tạo ra vào năm 2019 bởi một nhóm kỹ sư Stanford, Pi Network cung cấp nền tảng cho phép người dùng kiếm tiền điện tử Pi miễn phí thông qua việc "điểm danh" hàng ngày tại ứng dụng.
+
+Theo Hoka News, Hàn Quốc, Trung Quốc và Việt Nam là 3 quốc gia có số Pi Node (nút mạng Pi - phần mềm trên máy tính với vai trò tạo và lưu trữ Pi) cao nhất với lần lượt 26.691 node, 20.326 node và 19.142 node.

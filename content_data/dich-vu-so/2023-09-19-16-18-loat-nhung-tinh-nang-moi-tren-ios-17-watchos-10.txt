@@ -1,0 +1,25 @@
+Đầu tiên, iOS 17 giúp người dùng iPhone cá nhân hóa, trực quan hơn với những cập nhật quan trọng cho các ứng dụng giao tiếp, trải nghiệm khi sạc, chia sẻ dễ dàng hơn với AirDrop, cùng phương thức nhập thông minh hơn…
+
+Tính năng Widget tương tác là một trong những điểm nổi bật, cho phép người dùng thực hiện nhiều tác vụ trên Màn hình chính mà không cần phải mở ứng dụng.
+
+Các tính năng xã hội và khả năng tùy chỉnh đã được cập nhật mạnh mẽ. Ứng dụng Danh bạ cho phép người dùng thiết lập Áp phích liên hệ hoạt động theo ý muốn, mang đến một trải nghiệm gọi điện thuận tiện hơn. Cuộc gọi FaceTime cũng nhận được sự cập nhật quan trọng, cho phép người dùng để lại tin nhắn video khi cuộc gọi bị nhỡ.
+
+Ngoài ra, tin nhắn bổ sung những tính năng mới giúp ứng dụng này dễ sử dụng và thú vị hơn khi liên lạc với những người quan trọng nhất. Tính năng tìm kiếm trở nên mạnh mẽ và chính xác hơn với các bộ lọc tìm kiếm, tin nhắn thoại được tự động chép thành lời để người dùng có thể đọc ngay hoặc nghe lại sau, trả lời tin nhắn tức thì. Đồng thời, người dùng nay đã có thể tùy chỉnh tin nhắn của mình theo cách khác với trải nghiệm nhãn dán hoàn toàn mới khi bổ sung thêm khả năng tạo nhãn dán động, sáng tạo.
+
+Tính năng kiểm tra, một tính năng mới trên ứng dụng tin nhắn, giúp người dùng thông báo khi họ đã đến địa điểm của mình an toàn cho thành viên trong gia đình hoặc bạn bè.
+
+Chế độ chờ mang đến cho người dùng trải nghiệm toàn màn hình với thông tin được thiết kế để xem từ xa khi iPhone nằm nghiêng và đang sạc. Ngoài ra, chế độ này còn có thể được cá nhân hóa để hiển thị nhiều kiểu đồng hồ đẹp mắt, ảnh yêu thích hoặc các tiện ích, bao gồm ngăn xếp thông minh hiển thị tiện ích phù hợp vào đúng thời điểm. Chế độ chờ cũng hiển thị toàn màn hình hoạt động trực tiếp, kết quả Siri, cuộc gọi đến cũng như khung thông báo lớn hơn.
+
+Với màn hình luôn bật, chế độ chờ vẫn hiển thị những thông tin hữu ích và với chế độ ban đêm, chế độ chờ thích nghi với ánh sáng yếu. Khi sử dụng bộ sạc MagSafe, chế độ chờ sẽ ghi nhớ chế độ yêu thích của người dùng cho dock sạc MagSafe.
+
+Hơn nữa, iOS 17 cho phép chia sẻ AirDrop và NameDrop dễ dàng hơn. NameDrop, một tính năng mới của AirDrop, giúp người dùng trao đổi thông tin liên hệ, bao gồm áp phích liên hệ, chia sẻ SharePlay để nghe nhạc, xem phim hoặc chơi game khi ở khoảng cách gần. Apple Music hỗ trợ SharePlay trong ô tô, giúp mọi hành khách đều có thể dễ dàng điều khiển nhạc từ chính thiết bị của mình, kể cả khi họ không có thuê bao Apple Music.
+
+Và cuối năm nay, AirDrop sẽ bổ sung tính năng vẫn tiếp tục truyền tải thông qua mạng Internet khi người dùng ra khỏi phạm vi AirDrop. AirPlay sẽ được hoàn thiện hơn nữa khi iPhone dùng trí thông minh trên thiết bị để học tùy chỉnh của người dùng. Tính năng này sẽ hỗ trợ TV trong khách sạn giúp người dùng có thể dễ dàng tận hưởng những nội dung yêu thích trên TV khi đi du lịch.
+
+Đi kèm với đó là hàng loạt cải tiến và nâng cấp thông minh khác. Từ chia sẻ mật khẩu đến kiểm soát các thiết bị nhà thông minh, iOS 17 mang đến một loạt tính năng mới hấp dẫn. Cùng với đó, Apple cũng giới thiệu các tính năng sức khỏe tâm thần và hỗ trợ bên đường qua vệ tinh.
+
+Ngoài iOS 17, Apple cũng ra mắt watchOS 10 kết nối Bluetooth hỗ trợ công cụ đo lực, cảm biến tốc độ và cảm biến nhịp đạp ra mắt dành cho người đạp xe, đồng thời hỗ trợ các chỉ số mới và chế độ xem bài tập. Bên cạnh đó, tính năng tọa độ điểm la bàn và các tính năng bản đồ mới sẽ hữu ích hơn nữa.
+
+Bắt đầu từ hôm nay, người dùng Apple sẽ có thêm hai tùy chọn cho gói iCloud  là 6TB với giá 749.000 đồng mỗi tháng và 12TB với giá 1.499.000 đồng mỗi tháng. Với iCloud , người dùng có thể lưu trữ thư viện lớn gồm ảnh và video gốc chất lượng cao một cách an toàn trên iCloud và dễ dàng truy cập trên mọi thiết bị cũng như trang web.
+
+Bên cạnh đó, Apple công bố thông tin tvOS 17 sẽ ra mắt trong năm nay dưới dạng bản cập nhật phần mềm miễn phí cho Apple TV 4K và Apple TV HD.

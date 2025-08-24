@@ -1,0 +1,51 @@
+Ngày 9/12, Phòng An ninh mạng và Phòng chống tội phạm sử dụng công nghệ cao (PA05) - Công an TP.HCM, cho biết thời gian gần đây xuất hiện tình trạng tội phạm dùng các loại mã độc đánh cắp thông tin, mã hóa dữ liệu của người dùng để chiếm đoạt tài sản. Đặc biệt là giả mạo các ứng dụng trực tuyến tăng cao vào dịp cuối năm 2023.
+
+Một nạn nhân của chiêu trò trên, chị P. đã đến Công an Quận 1 trình báo về việc bị đối tượng giả danh Công an phường (TP.HCM) đề nghị lên phường để cập nhật số điện thoại chính chủ cho CCCD trên hệ thống VNeID. Tiếp đó, đối tượng hướng dẫn chị P. truy cập vào link gdla.gov.vn để tải ứng dụng của Bộ Công an.
+
+Vì tin tưởng đường link có đuôi .gov.vn là của cơ quan Nhà nước nên chị P. đã thực hiện theo tạo cơ hội cho đối tượng cài mã độc vào thiết bị. Sau đó, đối tượng tự động chuyển khoản chiếm đoạt số tiền gần 40 triệu đồng.
+
+Có thể thấy, các đối tượng sử dụng câu chuyện ngụy trang hợp lý và bài bản để dẫn dụ nạn nhân cài đặt ứng dụng mã độc. Đặc biệt, các đối tượng đã lợi dụng lỗ hổng trên một số trang mạng điện tử có đuôi .gov.vn hay .com.vn để cài ứng dụng chứa mã độc, mục đích là để nạn nhân tải về và chiếm quyền điều khiển trên thiết bị.
+
+Sau khi khống chế điện thoại nạn nhân, khai thác thông tin riêng tư, truy cập vào danh bạ, … để tìm cách đe doạ hoặc tiếp tục dẫn dụ các nạn nhân khác là người quen trong danh bạ. Mã độc này có thể chứa các tính năng không cho phép người dùng gỡ cài đặt nó. Vì vậy, để có thể loại bỏ mã độc này nạn nhân sẽ phải khôi phục cài đặt gốc cho điện thoại của mình.
+
+Trước tình trạng trên, Cục An toàn thông tin (Bộ Thông tin và Truyền thông), khuyến cáo người dân tuyệt đối không truy cập vào các đường link lạ hoặc cài các ứng dụng từ trang web, cổng thông tin bên ngoài; bật chức năng Google Play Protect. Người dân cần thường xuyên nâng cấp hệ điều hành điện thoại và sử dụng phần mềm diệt virus có bản quyền. Nếu phát hiện ra thiết bị nhiễm mã độc, người dân cần nhanh chóng phong tỏa tài khoản cá nhân, công ty nếu nghi vấn và báo cho cơ quan có thẩm quyền.
+
+Cũng liên quan đến vấn đề an ninh mạng, gần đây, tình trạng tấn công, chiếm quyền kiểm soát tài khoản mạng xã hội của người khác rồi thực hiện hành vi lừa đảo, chiếm đoạt tài sản ngày một trở nên dày đặc. Mục tiêu của các nhóm tội phạm lừa đảo trực tuyến đang có xu hướng tập trung vào nhóm người cao tuổi, phụ nữ thất nghiệp.
+
+Thực tế, các đối tượng tội phạm không dùng cách thức chiếm đoạt tài khoản Facebook theo kiểu cũ, mà tạo dựng lên kịch bản chi tiết, theo dõi, thu thập đầy đủ thông tin của nạn nhân.
+
+Cụ thể, bà Trần Thị H. (sinh năm 1965, trú TP.HCM) kể lại, vào cuối tháng 11/2023, đối tượng mạo danh tài khoản Facebook của con gái bà H. (hiện đang sinh sống ở nước ngoài) bằng cách sử dụng hình ảnh đại diện, ảnh bìa và các thông tin giống hệt với tài khoản của con gái bà H. để giả mạo nhắn tin cho mẹ nạn nhân chuyển tiền để giúp đỡ đồng hương.
+
+Để lấy lòng tin, các đối tượng còn thu thập hình ảnh, video khuôn mặt của con gái bà H. và sử dụng công nghệ AI Deepfake gọi video với bà H.
+
+Thậm chí, khi bà H. thắc mắc về số tài khoản lạ thì đối tượng lấy lý do là chuyển tiền ra nước ngoài phải mất phí nên chuyển tiền qua số tài khoản trung gian nhằm tránh phí. Tin tưởng đây là con gái, bà H. đã chuyển cho đối tượng 70 triệu đồng và bị chiếm đoạt.
+
+Trước thực trạng tội phạm lừa đảo chiếm đoạt tài sản qua mạng xã hội ngày càng diễn biến phức tạp, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) cho biết điều quan trọng nhất là người dân cần hết sức cảnh giác. Khi có hoạt động vay mượn, chuyển khoản cho người thân, nhất là ở nước ngoài, người dân cần phải gọi điện thoại xác thực để tránh mất tiền oan.
+
+Theo Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (PA05) - Công an TP.HCM ghi nhận phản ánh của người dân về thủ đoạn lừa đảo giả mạo tuyển thí sinh dự thi áo dài nhằm chiếm đoạt tài sản. Tuy nhiên, đơn vị cũng đã kịp thời ngăn chặn nạn nhân chuyển tiền cho đối tượng.
+
+Với thủ đoạn tạo lập các trang mạng xã hội "Quảng bá về lễ hội áo dài xuân Giáp Thìn 2024", các đối tượng đăng tải thông tin tuyển thí sinh dự thi áo dài với giải thưởng hấp dẫn và nhiều quyền lợi đi kèm.
+
+Khi nạn nhân tin tưởng sẽ bị dẫn dụ truy cập đến website giả mạo Đài truyền hình Việt Nam (VTV), tại đây, đối tượng lừa đảo lợi dụng danh nghĩa quy định và thể lệ chương trình, tiến hành tiếp cận, thu thập thông tin cá nhân, đồng thời yêu cầu nạn nhân chuyển tiền theo tài khoản ngân hàng chỉ định nhằm thực hiện các thử thách trực tuyến hay nhiều lý do khác.
+
+Trước thủ đoạn này, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) khuyến cáo: Người dân cần đề cao cảnh giác và tuyệt đối không tham gia các hội thi, lễ hội quảng bá trên mạng khi chưa trực tiếp xác minh, kiểm tra thông tin ngoài đời thực. Không chuyển tiền theo yêu cầu lừa đảo. Về cơ bản thủ đoạn trên không còn quá xa lạ, các đối tượng chỉ thay đổi thông tin, lợi dụng dịp Tết, Xuân Giáp Thìn 2024 để dẫn dụ nạn nhân, nhất là các chị em phụ nữ nên cần hết sức lưu ý.
+
+Một thông tin đáng chú ý khác, trên mạng xã hội gần đây cũng xuất hiện một phương thức lừa đảo mới, với mục tiêu là những người tiêu dùng ham mua xe giá rẻ. Các đối tượng tạo lập các trang Facebook giả mạo các cơ quan Nhà nước, như: “Cục Hải quan thanh lý xe”, “Xe thanh lý đợt 1/2023 Hải quan chính ngạch”…; liên tục chạy quảng cáo và đăng tải những hình ảnh, video về những sản phẩm xe chất lượng nhưng giá bán chỉ bằng ⅓ ; ⅔ so với giá thị trường, nhằm tiếp cận tối đa số lượng người dùng có nhu cầu mua xe hoặc quan tâm đến thị trường xe.
+
+Tiếp đó, nhắn tin trực tiếp với những tài khoản tương tác thông qua Messenger hoặc Zalo, Telegram. Để tăng độ uy tín, các đối tượng còn làm giả giấy tờ của cơ quan Nhà nước về việc thanh lý xe hoặc các loại giấy tờ chứng minh nguồn gốc xe, qua đó dễ dàng đánh vào lòng tham của các nạn nhân để tiếp tục thực hiện hành vi lừa đảo của mình.
+
+Trong quá trình trao đổi, các đối tượng sẽ yêu cầu khách hàng gửi ảnh CCCD để làm giấy tờ xe (cavet, đăng kiểm, bảo hiểm, biển số); yêu cầu chuyển khoản tiền đặt cọc 20% giá trị xe và nhiều khoản phí khác để giữ xe; xin địa chỉ nhà để giao xe tận nơi. Tuy nhiên, sau khi nạn nhân chuyển tiền cọc, các đối tượng sẽ lập tức chặn mọi liên lạc với các nạn nhân. Trong một vài trường hợp khác, các đối tượng sẽ lấy đủ các loại lý do để yêu cầu nạn nhân chuyển thêm tiền rồi chiếm đoạt toàn bộ.
+
+Trước tình trạng người dân liên tục bị lừa đảo bằng hình thức bán xe giá rẻ, Cục An toàn thông tin đưa ra khuyến cáo, người dân nên lựa chọn những địa điểm uy tín và chính thống để tránh sập bẫy lừa đảo. Người tiêu dùng cần tỉnh táo để suy xét kỹ càng bởi không có cơ quan nhà nước hay cá nhân nào được phép thanh lý xe nhập lậu, trốn thuế, giá rẻ như thông tin trang các trang mạng xã hội.
+
+Ngày 9/12, Phòng An ninh mạng và phòng, chống tội phạm sử dụng Công nghệ cao Công an TP. Đà Nẵng phát cảnh báo về hình thức lừa đảo bằng dịch vụ hẹn hò trực tuyến cách tiếp cận mới, nhắm tới nạn nhân là nam giới. Hàng loạt các tài khoản mạng xã hội Facebook mạo danh các nhà hàng, khách sạn, bar, vũ trường nổi tiếng ở Đà Nẵng quảng cáo dịch vụ hẹn hò trực tuyến nhằm lừa đảo bằng hình thức làm nhiệm vụ.
+
+Cụ thể, các đối tượng tạo tài khoản Facebook và sử dụng tên, hình ảnh, logo thương hiệu của các nhà hàng, khách sạn, bar, vũ trường có thật trên địa bàn TP. Đà Nẵng nhằm tạo lòng tin với nạn nhân, sau đó chạy quảng cáo.
+
+Khi có nạn nhân sập bẫy, các đối tượng dẫn dụ nạn nhân tham gia vào các hội nhóm Telegram, hướng dẫn nạn nhân truy cập website giả mạo để đăng ký tài khoản và sử dụng các dịch vụ. Tại đây, các đối tượng tiếp tục yêu cầu nạn nhân nạp thêm tiền để tham gia nhiệm vụ mới rồi nhận tiền hoa hồng.
+
+Tuy nhiên, khi số tiền nạp ngày càng lớn thì đối tượng liên tục lấy cớ nạn nhân thao tác sai và yêu cầu nạp tiền tiếp thì sẽ được rút hết toàn bộ số tiền. Đến khi nạn nhân không còn khả năng nạp tiền đối tượng nhanh chóng chặn nạn nhân và chiếm đoạt số tiền nạn nhân đã nạp vào.
+
+Việc các đối tượng sử dụng tên, hình ảnh, logo thương hiệu của các nhà hàng, khách sạn, bar vũ trường gây ảnh hưởng nghiêm trọng đến uy tín của các doanh nghiệp nói riêng này và của môi trường du lịch, dịch vụ TP. Đà Nẵng nói chung.
+
+"Người dân cần đề cao cảnh giác khi tham gia các ứng dụng hẹn hò trực tuyến, tránh bị kẻ xấu lợi dụng, đồng thời, tuyên truyền với người thân, bạn bè về thủ đoạn của loại tội phạm này. Khi gặp các trường hợp như trên, người dân phải báo ngay cho cơ quan công an gần nhất để có biện pháp xử lý theo quy định của pháp luật", Cục An toàn thông tin khuyến cáo.

@@ -1,0 +1,17 @@
+Ngày 10/2, ứng dụng ChatGPT thông báo chính thức hỗ trợ gói Plus cho người dùng tại Việt Nam. Đây là động thái gây bất ngờ của OpenAI - Công ty phát triển ChatGPT vì trước đó Việt Nam vẫn nằm trong khu vực giới hạn, không được công cụ này hỗ trợ.
+
+Theo đó, khi khách hàng mở ứng dụng chatbot AI này và không sử dụng VPN, trang web hiện lên bảng thông báo với nội dung "ChatGPT Plus hiện đã khả dụng tại Việt Nam".
+
+ChatGPT Plus được xem là phiên bản nâng cao so với ChatGPT và có các tính năng như truy cập sử dụng bình thường ngay cả những lúc cao điểm, lượng truy cập lớn và thời gian trả lời của máy nhanh hơn, được trải nghiệm những tính năng mới.
+
+Theo thông báo, người dùng có thể thanh toán ChatGPT Plus bằng các loại thẻ ghi nợ quốc tế, với địa chỉ, số điện thoại Việt Nam. Giá dịch vụ mở rộng của chatbot AI này là 20 USD mỗi tháng. Tuy nhiên, đến ngày 11/2, nhiều người dùng thử đăng ký phiên bản Plus để trải nghiệm nhưng lại không được chấp nhận thanh toán.
+
+Trước đó, để đăng ký và sử dụng ChatGPT tại Việt Nam, người dùng sẽ phải dùng đến một số thủ thuật mạo danh địa chỉ IP,  thuê số điện thoại của người dùng ở các nước khác. Sự khó khăn trong việc tiếp cận với ChatGPT cũng góp phần tạo ra một dịch vụ mới là bán tài khoản ChatGPT cho người có nhu cầu.
+
+Thực tế, việc thuê số điện thoại quốc tế hoặc mua tài khoản cũng có thể khiến người dùng gặp nhiều rủi ro như bị mất tiền oan khi gặp phải trường hợp lừa đảo. Ngoài ra, việc nhiều người cùng vào một tài khoản ChatGPT cùng lúc sẽ khiến AI hoạt động chậm, kém hiệu quả,…
+
+Anh Bùi Thái Sơn, người trải nghiệm ChatGPT cho biết, dù thông báo mở phiên bản Plus cho thị trường Việt Nam nhưng ChatGPT vẫn chưa cho người dùng tại Việt Nam đăng ký tài khoản bình thường mới.
+
+“Tôi đã thử dùng nhiều loại thẻ thanh toán quốc tế như Visa, MasterCard nhưng vẫn không được chấp nhận và yêu cầu thử cách khác. Hi vọng, dịch vụ này sẽ mở hoàn toàn và thời gian tới việc thanh toán sẽ diễn ra bình thường", anh Sơn nói.
+
+Trao đổi với Tạp chí Kinh tế Việt Nam – VnEconomy, một chuyên gia công nghệ cho biết, hiện tại, người dùng trong nước, muốn truy cập ứng dụng AI này phải đi đường vòng. Các cách phổ biến được sử dụng là thuê số điện thoại nước ngoài để đăng ký hoặc mua tài khoản được tạo sẵn. Tuy nhiên, việc dùng những cách thức không chính chủ khiến khách hàng chịu rủi ro tiềm ẩn.

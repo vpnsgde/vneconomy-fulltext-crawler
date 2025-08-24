@@ -1,0 +1,23 @@
+Chính phủ vừa ban hành Nghị định số 117/2025/NĐ-CP, quy định về quản lý thuế đối với hoạt động kinh doanh trên các nền tảng thương mại điện tử và nền tảng số của hộ, cá nhân kinh doanh.
+
+Theo đó, từ ngày 1/7/2025, các sàn thương mại điện tử phải thực hiện việc khấu trừ và nộp thuế thay cho người bán hàng là các hộ và cá nhân kinh doanh (gồm cá nhân cư trú ở trong nước và ngoài nước) trên cả hai phương diện là thuế giá trị gia tăng và thuế thu nhập cá nhân.
+
+Cụ thể, đối với thuế giá trị gia tăng, các sàn thương mại điện tử, các khoản thuế trên sẽ được khấu trừ ngay khi đơn hàng được xác nhận thành công và người mua chấp nhận thanh toán. Đồng thời, số thuế cũng được xác định dựa trên tỷ lệ phần trăm theo doanh thu của mỗi giao dịch sau khi hoàn thành. Theo đó, thuế giá trị gia tăng với nhóm hàng hóa có tỷ lệ là 1%, dịch vụ là 5%, vận tải và dịch vụ kèm hàng hóa là 3%.
+
+Đối với thuế thu nhập cá nhân, nếu các cá nhân kinh doanh thuộc diện cư trú trong nước, tỷ lệ thu thuế là 0,5% đối với hàng hóa, 2% đối với dịch vụ, vận tải và dịch vụ kèm hàng hóa là 1,5%.
+
+Tuy nhiên, nếu thuộc nhóm các cá nhân kinh doanh cư trú ở nước ngoài thì mức chịu thuế thu nhập cá nhân khi bán hàng trên các sàn thương mại điện tử là 1%, dịch vụ là 5%, vận tải và dịch vụ kèm hàng hoá là 2%.
+
+
+
+Trong trường hợp các tổ chức quản lý sàn thương mại điện tử không xác định được rõ ràng giao dịch phát sinh doanh thu từ nền tảng là hàng hóa hay dịch vụ thì số thuế khấu trừ sẽ tính theo mức tỷ lệ cao nhất, Nghị định 117/2025 của Chính phủ nêu rõ.
+
+Đối với các giao dịch bị hủy hoặc hàng được trả lại, tổ chức quản lý nền tảng thương mại điện tử sẽ thực hiện việc bù trừ số thuế đã khấu trừ và nộp thay cho giao dịch bị hủy hoặc trả lại với số thuế phải khấu trừ và nộp thay của các giao dịch bán hàng hóa, cung cấp dịch vụ.
+
+Số thuế mà tổ chức quản lý nền tảng thương mại điện tử phải nộp thay được tính bằng tổng số thuế của các giao dịch bán hàng hóa và cung cấp dịch vụ sau khi đã trừ đi số thuế từ các giao dịch bị hủy hoặc trả lại của các hộ và cá nhân kinh doanh.
+
+Cũng theo nghị định, đối với công dân Việt Nam, các hộ và cá nhân kinh doanh trên nền tảng thương mại điện tử có trách nhiệm cung cấp đầy đủ và chính xác thông tin về mã số thuế hoặc số định danh cá nhân. Công dân nước ngoài cần cung cấp số hộ chiếu hoặc thông tin định danh do cơ quan có thẩm quyền nước ngoài cấp kèm theo các thông tin bắt buộc khác theo quy định của pháp luật về thương mại điện tử cho tổ chức quản lý nền tảng thương mại điện tử.
+
+Ngoài ra, nhóm đối tượng này phải có trách nhiệm kê khai và nộp thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường, thuế tài nguyên và các khoản thu khác phải nộp ngân sách nhà nước do cơ quan thuế quản lý thu theo quy định của pháp luật về thuế, pháp luật về quản lý thuế và pháp luật khác có liên quan.
+
+Các hộ và cá nhân kinh doanh đã được tổ chức quản lý nền tảng thương mại điện tử khấu trừ, kê khai và nộp thay thuế giá trị gia tăng, thuế thu nhập cá nhân sẽ không cần phải khai và nộp lại thuế giá trị gia tăng, thuế thu nhập cá nhân đối với các hoạt động kinh doanh đã được khấu trừ và nộp thay trên nền tảng thương mại điện tử.

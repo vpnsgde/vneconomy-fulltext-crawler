@@ -1,0 +1,17 @@
+Đặc biệt, khi kết hợp khai thác 2 trong số các lỗ hổng này, hacker có thể kiểm soát sâu vào hệ thống và duy trì truy cập lâu dài. Đây là "môi trường lý tưởng" cho các chiến dịch tấn công gián điệp APT (Advanced Persistent Threat), đánh cắp hoặc mã hóa dữ liệu nhạy cảm.
+
+Chuyên gia Bkav cũng cho biết các lỗ hổng này đang bị khai thác trên diện rộng tại nhiều quốc gia. Ít nhất 85 máy chủ SharePoint đã bị cài mã độc web shell, gây ảnh hưởng đến 29 tổ chức trên toàn cầu. Trong số nạn nhân có nhiều tập đoàn đa quốc gia và cơ quan chính phủ, bao gồm cả Cơ quan an ninh hạt nhân quốc gia Hoa Kỳ (NNSA).
+
+Tại Việt Nam, SharePoint Server được sử dụng trong quản lý văn bản tại nhiều cơ quan, tổ chức và các doanh nghiệp công nghệ, tài chính lớn. Đến hiện tại, tuy chưa ghi nhận trường hợp bị tấn công, nguy cơ bị khai thác bởi các lỗ hổng này được đánh giá ở mức rất cao, đặc biệt là tại các đơn vị đang triển khai SharePoint Server theo mô hình cài đặt tại chỗ (on-premise) mà chưa kịp thời cập nhật vá lỗi.
+
+Quá trình tấn công có thể xuất phát từ một điểm trong mạng nội bộ, sử dụng kỹ thuật tinh vi, khó bị phát hiện. Tin tặc có thể bí mật cài cắm mã độc trên một máy trạm nội bộ, từ đó âm thầm rà quét, mở rộng kiểm soát và từng bước chiếm quyền toàn bộ hệ thống.
+
+Các nhóm tấn công APT thường tận dụng những thời điểm như thế này, khi các hệ thống tồn tại lỗ hổng chưa được vá, để xâm nhập và duy trì sự hiện diện lâu dài. Vì vậy, Bkav đặc biệt kiến nghị các nhà quản trị hệ thống khẩn trương rà soát, siết chặt lại các quyền truy cập từ nội bộ để chặn đứng nguy cơ bị tấn công từ bên trong.
+
+Đối với các cơ quan cấp Bộ có phân quyền truy cập cho các đơn vị địa phương, chuyên gia đề nghị cần lập tức rà soát và giới hạn các quyền này nếu hệ thống chưa được cập nhật bản vá hoặc chưa có biện pháp khắc phục triệt để. Việc cập nhật bản vá lỗ hổng cần thực hiện càng sớm càng tốt.
+
+Đồng thời, cần tăng cường các biện pháp giám sát, giới hạn quyền truy cập từ bên ngoài, triển khai tường lửa ứng dụng web (WAF), theo dõi nhật ký truy cập hệ thống và thiết lập cơ chế cảnh báo sớm khi có dấu hiệu bất thường.
+
+Đối với các đơn vị chưa có đội ngũ chuyên trách về an toàn thông tin, cần chủ động liên hệ với các trung tâm ứng cứu sự cố để được tư vấn, hỗ trợ kịp thời.
+
+SharePoint Server là nền tảng quản lý tài liệu và cộng tác doanh nghiệp do Microsoft phát triển. Hệ thống cho phép lưu trữ, chia sẻ, tìm kiếm và quản lý tài liệu tập trung, đồng thời hỗ trợ xây dựng các trang web nội bộ (Intranet), cổng thông tin doanh nghiệp, tích hợp sâu với Microsoft Office và Microsoft 365 nhằm nâng cao hiệu suất làm việc nhóm.

@@ -1,0 +1,57 @@
+Ngày 18/9/2024, AWS công bố danh sách 80 startup toàn cầu tham gia chương trình AWS Global Generative AI Accelerator. Đây là một phần trong cam kết trị giá 230 triệu USD của đơn vị nhằm thúc đẩy các startup trên toàn thế giới phát triển và sáng tạo các ứng dụng AI tạo sinh.
+
+Vượt lên hơn 4.700 startup đăng ký đến từ 129 quốc gia, 3 startup AI Đông Nam Á trong đó có 2 startup Việt Nam là AI Hay và Kompato AI đã được lựa chọn nhờ vào tầm nhìn ý tưởng, khả năng kỹ thuật, tính hiệu quả của giải pháp và việc ứng dụng AI một cách sáng tạo cũng như khát vọng phát triển, tăng trưởng toàn cầu.
+
+Theo đại diện AWS, đây là những startup tiên phong trong làn sóng chuyển đổi kinh doanh mới, vượt qua giới hạn của AI để sáng tạo các giải pháp tiềm năng cho thị trường, góp phần giải quyết các thách thức lớn trên thế giới.
+
+Chương trình hỗ trợ startup sẽ kéo dài 10 tuần, bắt đầu từ ngày 30/9 sẽ kết nối các startup với các cố vấn kinh doanh, và kỹ thuật trong các lĩnh vực liên quan, đào tạo để hỗ trợ việc ứng dụng công nghệ AI và máy học, tiếp cận thị trường...
+
+Chương trình sẽ cung cấp cho các doanh nghiệp khởi nghiệp startup, đặc biệt là những startup giai đoạn đầu các khoản tính dụng AWS credit 1 triệu USD để xây dựng, huấn luyện, thử nghiệm và ra mắt các giải pháp AI tạo sinh,
+
+Những startup tham gia sẽ được tiếp cận với công nghệ điện toán, lưu trữ và cơ sở dữ liệu của AWS; đồng thời sử dụng các công nghệ mới của đơn vị này để đạt hiệu suất cao với chi phí tối ưu.
+
+Ngoài ra, các nhà sáng lập startup sẽ được kết nối với mạng lưới các chuyên gia đến từ AWS và các đối tác chương trình như NVIDIA, Meta, Mistral AI và các quỹ đầu tư mạo hiểm đang đầu tư vào các công ty AI tạo sinh.
+
+Các công ty khởi nghiệp được coi là sinh khí của nền kinh tế. Các chương trình của AWS hướng đến hỗ trợ các công ty khởi nghiệp mở rộng và sử dụng công nghệ mới.
+
+Giám đốc kinh doanh khởi nghiệp AWS khu vực ASEAN Priya Lakshmi khẳng định: “các startup là nguồn sống của đổi mới sáng tạo”.
+
+Cam kết trị giá 230 triệu USD cùng sự mở rộng phạm vi chương trình toàn cầu là một nỗ lực nhắm hướng mục tiêu hỗ trợ các startup phát triển các giải pháp đột phá với AI tạo sinh. Những startup như AI Hay đang dẫn đầu một làn sóng chuyển đổi, thúc đẩy giới hạn của AI và mang đến những giải pháp sáng tạo mới cho thị trường.
+
+Theo thống kê của PitchBook Data, tính đến nay đã có 765 công ty AI và máy học (ML) tại Việt Nam đã huy động được hơn 47,3 triệu USD đầu tư. Tuy nhiên, 35% các công ty AI tạo sinh trên toàn cầu có văn phòng tại các quốc gia khác ngoài trụ sở chính.
+
+Điều này cho thấy còn rất nhiều cơ hội để hỗ trợ các startup trong nước mở rộng phạm vi hoạt động quốc tế, các chuyên gia khởi nghiệp nhấn mạnh.
+
+Theo các chuyên gia nghiên cứu của PitchBook Data, các công ty khởi nghiệp AI tạo sinh khu vực châu Á- Thái Bình Dương đã huy động được hơn 2,5 tỷ USD vào năm 2024, vượt qua tổng số tiền của 3 năm trước cộng lại.
+
+Các nhà phát triển và startup đang tận dụng cơ hội này để đào tạo các mô hình tùy chỉnh dựa trên dữ liệu ngôn ngữ và văn hóa độc đáo. Tương lai của ứng dụng AI sẽ dựa trên các kiến trúc mô hình chuyên biệt và các startup cần một hạ tầng đám mây hàng đầu để thực hiện hóa tầm nhìn.
+
+Theo thống kê, Việt Nam đứng thứ 2 trong khu vực, sau Singapore về số lượng các công ty khởi nghiệp sử dụng AI tạo sinh.
+
+Là 1 trong 80 công ty khởi nghiệp đã được lựa chọn tham gia chương trình tăng tốc AI tạo sinh trên toàn cầu, đại diện AI Hay tin tưởng đây là cột mốc quan trọng đối với doanh nghiệp, giúp đẩy nhanh quá trình phát triển AI và nâng tầm các giải pháp sáng tạo.
+
+Chương trình này sẽ hỗ trợ AI Hay phát triển thành một nền tảng khám phá tri thức tiên tiến, được hỗ trợ bởi mô hình ngôn ngữ lớn. Nền tảng này đặc biệt hướng đến những người dùng sử dụng ngôn ngữ có nguồn lực hạn chế đến trung bình, cho phép người dùng tiếp cận AI tập thể thông qua sự kết hợp giữa tìm kiếm, mạng xã hội và AI.
+
+AI Hay cho biết trước xu thế phát triển của AI, chúng tôi mong muốn xây dựng các ứng dụng AI cho người dùng và khởi đầu tư 100 triệu người Việt Nam. Đây là một nền tảng khám phá tri thức toàn diện và được cá nhân hóa, giúp chuyển đổi cách tiếp cận kiến thức bằng cách kết hợp giữa tìm kiếm, mạng xã hội và AI vượt trội hơn so với các giải pháp tìm kiếm truyền thống.
+
+TS Nguyễn Thọ Chương, Giám đốc bộ phận AI của AI Hay, chia sẻ khi muốn tìm hiểu thông tin kiến thức một vấn đề, lĩnh vực, người dùng sẽ dùng công cụ tìm kiếm truyền thống. Các công cụ này hỗ trợ tốt cho các câu hỏi ngắn, câu hỏi dữ liệu. Tuy nhiên, với những câu hỏi chi tiết nhỏ, câu hỏi mở, mang tính địa phương sẽ khó hơn.
+
+Đây là bài toán AI Hay tập trung giải, trả lời các câu hỏi này dựa trên xây dựng công cụ trả lời tạo sinh, sử dụng các kỹ thuật tối ưu hóa các câu trả lời liên quan đến kiến thức, thông tin đặc thù địa phương, các câu hỏi mở. Khi triển khai, AI Hay đã trả lời khoảng 10 triệu câu hỏi mỗi tháng.
+
+Là một công ty khởi nghiệp cần phải mở rộng rất nhanh và có nhiều ý tưởng cần phải thử mức độ đúng đắn, chính xác. Trong quá trình này cần có những đơn vị có kinh nghiệm đã hỗ trợ các công ty khởi nghiệp hoạt động.
+
+Thông qua hợp tác hỗ trợ từ chương trình, AI Hay phát huy được cơ sở hạ tầng, nền tảng tính toán hiệu năng cao. Với tài nguyên và năng lực này, doanh nghiệp khởi nghiệp như AI Hay có thể thúc đẩy đa dạng, nhanh chóng đưa giải pháp, huấn luyện các mô hình lớn mà trước đó không thể làm được, ví dụ như mô hình với 8 tỷ tham số thay vì 100 triệu tham số như trước đây, giúp tạo ra các giải pháp khác biệt trên thị trường.
+
+Việc tham gia vào chương trình tăng tốc khởi nghiệp với AI tạo sinh sẽ giúp AI Hay về mặt hạ tầng, tiếp cận với các cố vấn công nghệ hỗ trợ tiếp cận các thị trường mới, đào tạo, tín dụng, đặc biệt là được chia sẻ kinh nghiệm từ những startup đi trước đã thành công… Đây là những nguồn lực rất giá trị với các startup như AI Hay trong hành trình phát triển và mở rộng, ông Chương nói.
+
+Hiện nay AI Hay đang phục vụ nhu cầu của người dùng Việt Nam nhưng mục tiêu trong tương lai sẽ mở rộng ra thị trường quốc tế.
+
+Quá trình phát triển AI tạo sinh của các startup sẽ cần nguồn lực hạ tầng công nghệ phù hợp. Ông Chương chia sẻ, với những startup mới khởi nghiệp, việc đầu tư vào hạ tầng là rất tốn kém, trong khi đó quá trình thử nghiệm nhiều ý tưởng và nhanh chóng nhưng không chắc chắn sẽ thành công. Do đó, các nền tảng công nghệ như AWS sẽ mang lại cho startup nhiều cơ hội lớn, thử nhanh. Nếu không có những chương trình hỗ trợ sẽ rất khó khăn cho các startup nhỏ, giai đoạn đầu phát triển.
+
+Một startup AI khác của Việt Nam với sự hỗ trợ đã có sự phát triển tăng tốc. Eklipse.gg là nền tảng được hỗ trợ bởi AI giúp các streamer và người sáng tạo nội dung biến những video dài thành clip ngắn với sức lan truyền lớn. Công cụ này giúp người sáng tạo nội dung trong các lĩnh vực từ gaming đến thương mại điện tử tập trung vào sáng tạo ra nội dung hấp dẫn.
+
+Với đặc thù hoạt động của doanh nghiệp, ông Quân Bùi, Đồng sáng lập, Giám đốc công nghệ của Eklipse.gg, chia sẻ, “chúng tôi cần năng lực tính toán rất lớn để có thể xử lý được hàng nghìn giờ video. Việc ứng dụng hệ thống AWS giúp rút ngắn thời gian triể khai, tự động, mở rộng linh hoạt.
+
+Ứng dụng phát triển của các mô hình AI giúp startup đẩy nhanh quá trình phát triển và giảm chi phí tới 40%, tạo trải nghiệm tốt hơn cho người dùng. Với cơ sở hạ tầng này giúp startup phát triển nhanh chóng, đạt hơn 500 nghìn người dùng từ 80 nước trên thế giới, xử lý 10 nghìn giờ video hàng ngày.
+
+Các startup đều có chung nhận định, AI tạo sinh đã mở cánh cửa cho các doanh nghiệp khởi nghiệp Việt Nam. Không những thế, với các doanh nghiệp startup, tốc độ là rất quan trọng, đi nhanh, thường xuyên lặp đi lặp lại quá trình thử nghiệm, phát triển sản phẩm nhanh chóng, để đưa sản phẩm ra thị trường nhanh nhất có thể.

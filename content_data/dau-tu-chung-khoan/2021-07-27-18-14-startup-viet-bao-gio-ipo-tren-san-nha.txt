@@ -1,0 +1,39 @@
+Theo số liệu từ Eikon/Reuters, chỉ có 2,18% doanh nghiệp niêm yết là nằm trong lĩnh vực công nghệ với mức vốn hóa trung bình vào khoảng 150 triệu USD/doanh nghiệp.
+
+Đã vậy mới đây, một startup có tiếng là Tiki lập pháp nhân mới ở Singapore, được đồn đoán là chuẩn bị cho bước phát hành chứng khoán lần đầu tiên (IPO) thông qua SPAC (Special Purpose Acquisition Company). Bao giờ thì startup Việt IPO ngay trên sân nhà?
+
+Cho đến ngày 22/7/2021, có tổng cộng 36 doanh nghiệp niêm yết trên cả ba sàn ở Việt Nam được xếp vào ngành công nghệ. Tuy nhiên trong số này chỉ có 6 doanh nghiệp là niêm yết ở sàn HOSE, 12 doanh nghiệp trên sàn HNX, và 18 doanh nghiệp trên sàn UPCoM. Nếu so với tổng số 1.648 doanh nghiệp niêm yết thì các doanh nghiệp trong ngành công nghệ chỉ chiếm có 2,18%.
+
+Nhưng không chỉ số lượng ít, mức độ vốn hóa của các doanh nghiệp này cũng là một tín hiệu không được vui. Doanh nghiệp có mức vốn hóa lớn nhất là VGI.HNO với 3,7 tỷ USD, kế tiếp đó là FOX.HNO với 1,08 tỷ USD và CMG.HM với 153,96 triệu USD. Doanh nghiệp có mức vốn hóa nhỏ nhất là VIE.HN, chưa tới 1 triệu USD, chỉ ở 644,53 ngàn USD. Tính trung bình, vốn hóa của doanh nghiệp ngành công nghệ niêm yết ở Việt nam là 153,85 triệu USD, và phổ biến nhất (giá trị trung vị) là 8,34 triệu USD.
+
+Những con số này nếu so với top 100 doanh nghiệp niêm yết trên sàn HOSE thì quá khiêm tốn. Vốn hóa trung bình của top 100 là 1,94 tỷ USD, cao nhất là 15,95 tỷ USD (VCB.HM) và thấp nhất là 173,17 triệu USD (GTN.HM)
+
+Số lượng ít, vốn hóa thấp, nhưng chất lượng của các cổ phiếu này cũng là câu chuyện đáng quan tâm. Chỉ số P/E trung bình của các doanh nghiệp này tính đến ngày 22/7/2021 là 33,28, cao hơn nhiều so với mức trung bình của top 100 doanh nghiệp có mức vốn hóa lớn nhất thị trường là 23,32, cũng như nhóm ngành ngân hàng là 15,85.
+
+Chỉ số ROE (TTM) trung bình của nhóm ngành công nghệ chỉ ở mức 5,09%, và mức biến động giá trung bình trong ba năm gần nhất của 36 doanh nghiệp kể trên là 47,87%. Có điều, chỉ riêng năm gần nhất đã là 45,30%, coi như hai năm trước đó là không tăng được là bao nhiêu.
+
+Cũng trong số 36 doanh nghiệp này, tuyệt nhiên không có startup đình đám nào trong những năm gần đây. Phần lớn là các doanh nghiệp điện tử, viễn thông truyền thống hay các doanh nghiệp có đăng ký kinh doanh lĩnh vực chính là công nghệ nhưng không thấy được sản phẩm riêng nổi bật của chính doanh nghiệp, rất có thể các doanh nghiệp này chỉ là nhà phân phối.
+
+Chuyện Tiki lập pháp nhân mới ở Singapore, được đồn đoán là chuẩn bị cho bước IPO thông qua SPAC là không bất ngờ chút nào. Trước đó, đã có nhiều startup của Việt Nam tìm đường đăng kí ở nước ngoài như Base, Cốc Cốc, Luxstay, Telio, Topica, Vntrip OTA.
+
+Có nhiều lý do để startup Việt tìm đường đăng ký ở nước ngoài như Singapore, Hongkong vì cơ hội gọi vốn, các chính sách ưu đãi, hệ sinh thái cho doanh nghiệp ở những nơi này rất phát triển và hoàn chỉnh. Đây được xem là đầu mối (hub) về tài chính, nhân lực cấp cao. Một startup đến giai đoạn phát triển nhanh không chỉ cần vốn, mà còn là các vấn đề pháp lý phức tạp, đòi hỏi phải có đội ngũ tham vấn ở mức độ chuyên nghiệp rất cao.
+
+Gần đây, môi trường khởi nghiệp, đổi mới sáng tạo ở Việt Nam được quan tâm và đẩy mạnh, nhiều startup với các sản phẩm hay giải pháp tiềm năng cần thêm nhiều vốn để phát triển và mở rộng. Tuy nhiên, nguồn đầu tư chính cho các startup này chủ yếu vẫn là qua các quỹ đầu tư mạo hiểm (venture capital), các nhà đầu tư thiên thần (angel investor), hay gọi vốn cộng đồng (crowdfunding).
+
+Ở một số nước, để khuyến khích và tạo điều kiện cho các startup trong lĩnh vực công nghệ tăng khả năng kêu gọi vốn, IPO cũng là một kênh được sử dụng phổ biến.
+
+Do đặc thù của các startup công nghệ trong những năm đầu là “đốt tiền” nên không thể có yêu cầu báo cáo tài chính lành mạnh như thông thường, đặc biệt là các chỉ tiêu về lợi nhuận, tỷ suất sinh lợi. Chính vì vậy, mô hình IPO qua SPAC trở nên phổ biến. Tuy nhiên cũng cần phải lưu ý những mặt trái của SPAC, đặc biệt là bảo vệ quyền lợi của các nhà đầu tư cá nhân.
+
+Tổng số tiền mà startup Việt Nam nhận đầu tư trong quý 1 năm 2021 là khoảng hơn 150 triệu USD so với khoảng 100 triệu USD cùng kỳ năm ngoái...
+
+Một điều cần quan tâm khác là phần lớn các startup đang ở quy mô nhỏ, nên khi IPO sẽ được hưởng một số chính sách ưu đãi đối với các doanh nghiệp nhỏ và vừa. Trong trường hợp có những ưu đãi riêng cho lĩnh vực công nghệ, các startup trong lĩnh vực này lại có thêm ưu đãi. Nhiều nước đã có chỉ số chứng khoán dành riêng cho nhóm doanh nghiệp nhỏ và vừa.
+
+Để khuyến khích đầu tư vào các doanh nghiệp này, chính phủ còn có thêm các chính sách ưu đãi thêm về thuế cho nhà đầu tư, chẳng hạn nắm giữ cổ phiếu các doanh nghiệp này sau một số năm nhất định, thì phần lời từ chênh lệch giá (capital gain) hay cổ tức sẽ được hưởng thuế suất thuế thu nhập ưu đãi.
+
+Việt Nam là một nền kinh tế năng động, có nhiều tiềm năng về nhân lực và thị trường để phát triển các doanh nghiệp trong lĩnh vực công nghệ. Bên cạnh các chính sách khuyến khích hỗ trợ tạo môi trường kinh doanh thuận lợi thì việc phát triển khả năng gọi vốn, tăng vốn của các startup công nghệ thông qua IPO là cần nghiên cứu và triển khai sớm.
+
+Một bộ phận nhà đầu tư ở Việt Nam cũng cần có những cổ phiếu công nghệ, tăng trưởng trong danh mục của mình. Và nếu một startup nào đó có tiềm năng thực sự, tại sao không chia sẻ sự phát triển của mình với các nhà đầu tư trong nước?
+
+------------
+
+(*) Đại học Kinh tế Tp.HCM, IPAG Business School Paris AVSE Global.

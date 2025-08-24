@@ -1,0 +1,19 @@
+Công nghệ đã mở ra tương lai cho ngành bán lẻ trở nên hấp dẫn và đầy triển vọng. Từ việc áp dụng trí tuệ nhân tạo (AI) và học máy (ML) để phân tích dữ liệu, đến việc sử dụng thực tế tăng cường (AR), thực tế ảo (VR) và internet vạn vật (IoT) để tạo ra những trải nghiệm mua sắm cá nhân hóa, công nghệ đã mở ra nhiều cánh cửa mới và sáng tạo cho ngành bán lẻ.
+
+Cho đến gần đây, robot trong ngành bán lẻ chủ yếu hoạt động ở phía sau. Ví dụ, Amazon sử dụng robot trong các trung tâm hoàn tất đơn hàng để cải thiện hiệu quả cũng như độ an toàn khi di chuyển các pallet nặng. Amazon cho biết robot đã giúp họ lưu trữ thêm 40% hàng tại các kho.
+
+Trong khi đó, các công ty khởi nghiệp ở Mỹ như Agility Robotics, Figure AI và Boston Dynamics nằm trong số các doanh nghiệp đang chạy đua thiết kế robot có hình dạng và cách vận động linh hoạt giống như con người để sử dụng trong các trung tâm phân phối hàng hóa. Các robot này có khả năng đi bộ xung quanh nhà kho, tiếp cận các thùng hàng nằm trên kệ cao, lấy và di chuyển thùng hàng, thậm chí cả đóng gói, phân loại…
+
+Một trong những đột phá đổi mới nhất trong ngành bán lẻ hiện đại là việc sử dụng robot và phương tiện không người lái để thực hiện giao hàng tự động. Điều này không chỉ cách mạng hóa lĩnh vực vận chuyển và giao nhận, mà còn đem lại tốc độ, hiệu quả và tiện lợi cho người tiêu dùng. Chẳng hạn, tại Nhật Bản - một trong những quốc gia có dân số già nhất thế giới, việc các vùng nông thôn dân cư thưa thớt khó tiếp cận các nhu yếu phẩm hàng ngày đã thúc đẩy các doanh nghiệp thử nghiệm robot giao hàng.
+
+Hisashi Taniguchi, Chủ tịch Công ty chế tạo robot ZMP có trụ sở tại Tokyo, cho biết công ty đã hợp tác với Tập đoàn bưu chính Japan Post Holdings trong quá trình thử nghiệm robot giao hàng ở Tokyo. Robot DeliRo được trang bị phần mềm lái xe tự động độc quyền của ZMP và có khả năng chịu tải tối đa là 50kg. Với nhiều camera tích hợp, robot DeliRo có thể phát hiện mọi thứ xung quanh nó. Rrobot được quy định tốc độ tối đa ở mức 6km/h để giảm thiểu khả năng “bị thương nặng” trong trường hợp va chạm.
+
+Trong khi đó, robot Hakobo của Panasonic có thể tự đánh giá khi nào nên rẽ và có thể phát hiện chướng ngại vật, chẳng hạn như công trình xây dựng và xe đạp đang đến gần và dừng lại. Mỗi nhân viên tại trung tâm điều khiển Fujisawa giám sát 4 robot thông qua camera và được cảnh báo khi robot bị mắc kẹt hoặc dừng lại do chướng ngại vật. Ở những khu vực có nguy cơ cao như nút giao thông, Hakobo được lập trình để chụp và gửi hình ảnh đèn giao thông ngay lúc đó cho người điều khiển và chờ hướng dẫn.
+
+FedEx, Amazon, Uber và những hãng khác cũng đã tung ra các robot giao hàng trên vỉa hè. Andrew Curtis, người đứng đầu các hoạt động của Starship Technologies, nhà sản xuất robot giao hàng lớn nhất thế giới có trụ sở chính ở Mỹ và Vương quốc Anh, cho biết robot không phải là chuyện của tương lai mà là chuyện của hiện tại. Starship Technologies cho biết số lượng đơn hàng của họ trên toàn cầu đã tăng gấp 3 lần vào năm ngoái. Robot của hãng được thiết lập sẵn lộ trình giao hàng, di chuyển dọc theo vỉa hè, sử dụng camera cũng như cảm biến để băng qua đường và tránh chướng ngại vật.
+
+Tại Hàn Quốc, Công ty Korea Seven Co., nhà điều hành chuỗi cửa hàng tiện lợi 7-Eleven, cho biết công ty này sẽ cung cấp dịch vụ giao hàng bằng robot tự lái tại một số khu vực có chọn lọc ở phía Nam thủ đô Seoul cho đến tháng 10 năm nay. Tùy từng khu vực, chi phí giao hàng bằng robot sẽ ở mức 1.000 won (0,78 USD). Ngoài ra, Korea Seven cũng đã thử nghiệm dịch vụ giao hàng bằng máy bay không người lái. Một lãnh đạo của Korea Seven cho hay sau đại dịch, dịch vụ giao hàng của các cửa hàng tiện lợi trong khoảng cách ngắn đã trở nên quan trọng hơn, làm dấy lên hy vọng về dịch vụ giao hàng bằng robot...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 32-2023 phát hành ngày 07-08-2023.Kính mời Quý độc giả tìm đọc tạiđây.
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

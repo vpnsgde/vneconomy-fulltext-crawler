@@ -1,0 +1,43 @@
+Nhưng điều cũng gây ngạc nhiên không kém là thay vì vui mừng, Trung Quốc lại khá thờ ơ với quyết định này của Mỹ. Trước đó, Bắc Kinh đã không ngừng thúc giục Washington nới lỏng các biện pháp kiểm soát xuất khẩu nghiêm ngặt trong lĩnh vực công nghệ để các công ty Trung Quốc có thể tiếp cận với chip Mỹ.
+
+Sau khi ông Trump cho phép cấp giấy phép xuất khẩu cho Nvidia để hãng này bán con chip H20 cho Trung Quốc, Bắc Kinh lại gọi con chip này là một rủi ro an ninh, yêu cầu Nvidia đưa ra giải thích, đồng thời khuyến cáo các công ty trong nước không nên sử dụng con chip này.
+
+Theo nhận định của giới phân tích, thái độ không mấy chào đón này phản ánh nỗ lực của Bắc Kinh trong việc xây dựng chuỗi cung ứng bán dẫn tự cung tự cấp, cũng như niềm tự tin vào những tiến bộ mà ngành công nghiệp chip đang phát triển nhanh chóng của Trung Quốc đã đạt được.
+
+Tuy nhiên, sự lạnh nhạt này cũng có thể có những hàm ý khác. Mặc dù có những tiến bộ đáng kể trong lĩnh vực bán dẫn, Trung Quốc vẫn cần chip và công nghệ của Mỹ. Các chuyên gia cho biết Huawei - hãng công nghệ đi đầu của Trung Quốc - đã phát triển các chip có hiệu suất tương đương, và trong một số trường hợp vượt trội - so với chip H20. Tuy nhiên, Trung Quốc vẫn muốn có các bộ xử lý AI tiên tiến hơn mà Mỹ còn đang hạn chế xuất khảu.
+
+Trong những năm kể từ khi ông Trump bắt đầu áp đặt các hạn chế công nghệ đối với Huawei trong nhiệm kỳ cầm quyền trước, công nghệ chip của Trung Quốc đã có những bước tiến mạnh mẽ, một phần do chính việc Washington liên tục áp đặt các biện pháp kiểm soát xuất khẩu - theo nhận định của ông Xiang Ligang - Tổng giám đốc của công ty công nghệ ở Bắc Kinh và là cố vấn của Bộ Công nghiệp và Công nghệ thông tin Trung Quốc. “Chúng tôi có khả năng này, chứ không phải như họ nghĩ. Mỹ cứ nghĩ rằng nếu Trung Quốc bị chặn, Trung Quốc sẽ không thể vận hành, hoặc Trung Quốc thế là xong”, ông nói với hãng tin CNN.
+
+Đối với ông Xiang, sự thay đổi chính sách của Mỹ càng phản ánh tầm quan trọng của việc Trung Quốc phải có một chuỗi cung ứng chip hoàn toàn nội địa. Ông Xiang: “Đối với các công ty Trung Quốc, chúng tôi có thể chỉ có một lựa chọn nếu muốn đảm bảo nguồn cung chip tương đối an toàn.  Đó là dựa vào chip do chính mình sản xuất trong nước”.
+
+Đó có thể là mục tiêu của Trung Quốc, nhưng trong cuộc đua AI đầy rủi ro, cùng với tất cả những tác động đến an ninh quốc gia của cuộc đua này , Mỹ vẫn là quốc gia đi đầu, ít nhất là ở thời điểm hiện tại.
+
+TRUNG QUỐC KHÔNG “NGÂY THƠ”
+
+H20 là con chip được Nvidia phát hành vào năm ngoái nhằm mục đích duy trì quyền tiếp cận thị trường Trung Quốc sau khi Mỹ các biện pháp kiểm soát xuất khẩu nghiêm ngặt dưới thời chính quyền Tổng thống Joe Biden - những biện pháp không cho phép bán cho Trung Quốc các loại chip có sức mạnh xử lý cao. Tháng trước, ông Trump đã “bật đèn xanh” cho việc bán chip này cho Trung Quốc, đảo ngược lệnh cấm vào tháng 4 trong bối cảnh căng thẳng thương mại giữa Mỹ và Trung Quốc leo thang. Để đổi lấy việc được bán chip H20 cho Trung Quốc, Nvidia phải chia sẻ với Chính phủ Mỹ 15% doanh thu sản phẩm này.
+
+Ông Trump đã biện minh cho quyết định “quay xe” của mình bằng cách gọi con chip này là “lỗi thời” vì chậm hơn với các bộ xử lý AI tiên tiến nhất của Nvidia như Blackwell hoặc H100 - loại chip mà  H20 dựa vào để biến thể. Ông Trump và các quan chức trong chính quyền của ông dường như đã chấp nhận quan điểm từ lâu được CEO Jensen Huang của Nvdiia quảng bá - rằng Mỹ có thể duy trì vị thế dẫn đầu công nghệ của mình chỉ cần bằng cách đảm bảo chip Mỹ vẫn là tiêu chuẩn toàn cầu.
+
+Bộ trưởng Thương mại Howard Lutnick nói vào tháng 7: “Chúng ta sẽ bán cho Trung Quốc chỉ ở mức đủ để các nhà phát triển của họ nghiện hệ sinh thái công nghệ của Mỹ”. Nhưng sự đảo ngược mạnh mẽ từ hạn chế sang cho phép bán chip H20 cho Trung Quốc đã làm dấy lên những câu hỏi về cách tiếp cận mang tính đổi chác của ông Trump trong lĩnh vực an ninh quốc gia - vốn từng được coi là không được phép mặc cả.
+
+Về phần mình, Trung Quốc bày tỏ lo ngại về những điều mà họ cho là rủi ro an ninh mà chip H20 đặt ra, như các tính năng “theo dõi và định vị” và “tắt máy từ xa”. Đây là những tính năng mà một số nhà lập pháp Mỹ đã đề cập tới nhưng Nvidia phủ nhận việc đã đưa vào chip của mình.
+
+Cơ quan giám sát không gian mạng và Bộ Công nghiệp và Công nghệ thông tin của Trung Quốc đã triệu tập đại diện Nvidia để giải thích về các vấn đề an ninh liên quan tới chip H20, đồng thời và kêu gọi các công ty trong nước tránh dùng con chip này. Một công ty công nghệ lớn của Trung Quốc có phát triển các mô hình AI đã nhận được thông báo từ chính quyền kêu gọi công ty thận trọng trong việc sử dụng H20 và khuyên không nên mua loại chip này - một nguồn thạo tin tiết lộ.
+
+Trao đổi với CNN, một người phát ngôn của Nvidia khẳng định “không có 'cửa sau’ trong chip của chúng tôi để cho phép bất kỳ ai có thể truy cập hoặc kiểm soát chúng từ xa”. Phát ngôn viên này cũng nói việc cấm bán H20 ở Trung Quốc “sẽ chỉ gây tổn hại đến vị thế dẫn đầu về kinh tế và công nghệ của Mỹ mà không mang lại lợi ích nào cho an ninh quốc gia”.
+
+Nhưng Trung Quốc cho rằng Mỹ không chơi công bằng - ông Xiang nói. “Những gì chúng tôi thực sự muốn, các bạn lại từ chối bán cho chúng tôi. Đối với những thứ mà các bạn đã coi là lỗi thời, các bạn lại muốn bán cho chúng tôi và chiếm lĩnh thị trường của chúng tôi. Các bạn có thực sự nghĩ rằng chúng tôi ngây thơ đến vậy không?” ông phát biểu.
+
+CHIP H20 VẪN ĐƯỢC ƯA CHUỘNG Ở TRUNG QUỐC
+
+Bất chấp những lo ngại của Bắc Kinh và hiệu suất đã bị cắt giảm của H20, loại chip này vẫn được các công ty Trung Quốc khao khát. Công ty nghiên cứu Bernstein ước tính doanh số bán chip H20 của Nvidia cho Trung Quốc trong năm nay sẽ đạt 1,5 triệu đơn vị sản phẩm, tương đương doanh thu khoảng 23 tỷ USD, nếu không có các hạn chế xuất khẩu của Trump.
+
+Những khách lớn mua loại chip bao gồm các công ty công nghệ hàng đầu của Trung Quốc như ByteDance, Alibaba và Tencent. Trong khi các chip AI hàng đầu của Huawei vượt trội về sức mạnh tính toán - một trong những thước đo chính để đánh giá hiệu suất của bộ xử lý - so với H20, các chip đó lại thua kém H20 về băng thông bộ nhớ, yếu tố quyết định lượng dữ liệu có thể di chuyển giữa bộ nhớ và đơn vị tính toán của chip. Băng thông đó phụ thuộc vào một công nghệ được gọi là bộ nhớ băng thông cao (HBM) được sử dụng trong chip AI để đảm bảo truyền dữ liệu hiệu quả trong quá trình đào tạo mô hình AI.
+
+Theo ông MS Hwang, Giám đốc nghiên cứu tại công ty nghiên cứu công nghệ Counterpoint Research, nhà sản xuất HBM hàng đầu của Trung Quốc là CXMT, còn có tên gọi khác là ChangXin Memory Technologies, vẫn chậm hơn khoảng khoảng 3-4 năm so với các công ty đi đầu về lĩnh vực này như SK Hynix và Samsung của Hàn Quốc, hay Micron của Mỹ.
+
+Năm ngoái, chính quyền Tổng thống Biden đã thắt chặt hơn nữa các biện pháp kiểm soát xuất khẩu đối với Trung Quốc, bao gồm các hạn chế đối với việc bán HBM cho nước này, buộc các công ty Trung Quốc phải dựa vào hàng tồn kho.
+
+Tuần vừa rồi, Financial Times đưa tin nói rằng Bắc Kinh đã đề nghị Washington dỡ bỏ các hạn chế đối với HBM như một phần trong cuộc đàm phán thương mại song phương.
+
+Nhà phân tích cấp cao Qingyuan Lin của Bernstein cho rằng yếu tố hấp dẫn chính của H20 đối với các công ty Trung Quốc cũng nằm ở năng lực sản xuất còn hạn chế của Huawei và hệ sinh thái đã phát triển của Nvidia. Ông nói: “Ngay cả khi các công ty Trung Quốc muốn thay thế hoàn toàn chip H20 bằng các loại chip trong nước, các nhà cung ứng chip Trung Quốc cũng không thể cung cấp đủ số lượng chip cần thiết”.

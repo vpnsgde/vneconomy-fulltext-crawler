@@ -1,0 +1,29 @@
+Ngày 19/6, tại Hà Nội, Trung tâm Chứng thực điện tử quốc gia (NEAC) tổ chức Hội thảo quốc tế về Dịch vụ tin cậy với chủ đề “Cơ hội và thách thức trong kỷ nguyên lượng tử”.
+
+Đây là diễn đàn chuyên sâu nhằm nâng cao nhận thức của các cơ quan, tổ chức, doanh nghiệp và chuyên gia về những nguy cơ, thách thức đặt ra trong kỷ nguyên lượng tử đối với bảo mật và dịch vụ xác thực điện tử.
+
+Hội thảo cũng cập nhật chính sách pháp lý, tiêu chuẩn kỹ thuật quốc tế mới do Liên minh châu Âu (EU) thiết lập cùng xu hướng triển khai các mô hình dịch vụ tin cậy hiện đại, xuyên biên giới, đảm bảo an toàn, tuân thủ và đáp ứng các tiêu chuẩn quốc tế.  Qua đó thúc đẩy chia sẻ kinh nghiệm giữa các quốc gia, tổ chức, doanh nghiệp trong nước và quốc tế; tăng cường hợp tác, phát triển đồng bộ hạ tầng dịch vụ tin cậy tại Việt Nam.
+
+Hội thảo quy tụ nhiều nhà hoạch định chính sách, chuyên gia công nghệ, tổ chức chứng thực, doanh nghiệp và đối tác quốc tế cùng thảo luận, chia sẻ giải pháp, xác lập tầm nhìn chung về nền tảng tin cậy trong tương lai số.
+
+Các chuyên gia cho biết dịch vụ tin cậy là một khái niệm mới trong hành lang pháp lý Việt Nam, được quy định chính thức tại Luật Giao dịch điện tử năm 2023 và cụ thể hóa tại Nghị định 23/2025/NĐ-CP. Theo đó, dịch vụ tin cậy trong giao dịch điện tử là các dịch vụ do nhà cung cấp dịch vụ thực hiện thông qua môi trường mạng nhằm xác minh, chứng thực sự tin cậy trong giao dịch điện tử.
+
+Trong đó, việc bổ sung hai loại hình dịch vụ mới là chứng thực thông điệp dữ liệu và cấp dấu thời gian theo quy định mới của Nghị định 23/2025/NĐ-CP, đánh dấu bước hoàn thiện hạ tầng tin cậy tại Việt Nam, phù hợp với thông lệ quốc tế và góp phần tạo lập niềm tin pháp lý cho các giao dịch số trong mọi lĩnh vực của đời sống kinh tế- xã hội.
+
+Nghị định số 23/2025/NĐ-CP về chữ ký điện tử và dịch vụ tin cậy lần đầu tiên đưa ra quy định toàn diện về ba loại hình dịch vụ tin cậy gồm: dịch vụ chứng thực chữ ký số công cộng, dịch vụ cấp dấu thời gian và dịch vụ chứng thực thông điệp dữ liệu. Đồng thời, quy định rõ điều kiện cấp phép, nghĩa vụ của tổ chức cung cấp dịch vụ và thời hạn giấy phép kinh doanh dịch vụ tin cậy là 10 năm. Nghị định chính thức có hiệu lực từ tháng 4/2025.
+
+Bà Tô Thị Thu Hương, Giám đốc NEAC nhấn mạnh: “trong kỷ nguyên dữ liệu trở thành tài nguyên mới và giao dịch số trở nên phổ biến, việc đảm bảo niềm tin số là điều kiện tiên quyết”. “Tại Việt Nam, chúng tôi xác định chữ ký số và các dịch vụ tin cậy không chỉ là công cụ kỹ thuật, mà là nền tảng để đảm bảo niềm tin trong các giao dịch điện tử, định hình kinh tế số, chính phủ số và xã hội số”, bà Hương nói.
+
+Với vai trò là cơ quan cung cấp dịch vụ chứng thực điện tử quốc gia- Root CA quốc gia, NEAC đang tích cực phối hợp với các bộ, ngành, doanh nghiệp và đối tác quốc tế để thúc đẩy xây dựng và nâng cấp khung tiêu chuẩn kỹ thuật cho các thuật toán hậu lượng tử, kết nối với lộ trình quốc tế và khuyến nghị từ các tổ chức như NIST, ETSI và eIDAS 2.0…
+
+Đồng thời, Trung tâm Chứng thực điện tử quốc gia cũng khuyến khích ứng dụng công nghệ Blockchain trong dịch vụ tin cậy, đặc biệt là các mô hình chữ ký phi tập trung, lưu trữ không thể sửa đổi và cơ chế xác thực đa chiều– trên nguyên tắc tuân thủ pháp luật và tương thích với hạ tầng PKI hiện tại.
+
+Để nhận diện các mối đe dọa an toàn thông tin trong bối cảnh điện toán lượng tử đang ngày càng hiện thực hóa, ông Lai Seow Yong, Giám đốc Kỹ thuật khu vực châu Á– Thái Bình Dương của Utimaco (Đức) đã chia sẻ về các nguy cơ phá vỡ hệ thống mã hóa hiện tại bởi máy tính lượng tử, đồng thời nhấn mạnh sự cấp thiết của việc nghiên cứu, chuẩn bị và chuyển đổi sang các thuật toán mật mã hậu lượng tử (PQC).
+
+Trong khí đó, đại diện Công ty Ascertia (Anh) đưa ra khung pháp lý định danh điện tử của Liên minh châu Âu- eIDAS 2.0, cùng với tầm nhìn phát triển dịch vụ tin cậy theo hướng xuyên biên giới, minh bạch và an toàn.
+
+Đây được xem là định hướng tham khảo quan trọng cho Việt Nam trong việc nâng cấp hành lang pháp lý và triển khai các dịch vụ chữ ký số từ xa tích hợp với nền tảng định danh điện tử quốc gia như VNeID.
+
+Giới thiệu mô hình triển khai chữ ký số trên nền tảng công nghệ Blockchain, ông Trần Dinh, Chủ nhiệm Ủy ban ứng dụng Fintech và Web3 thuộc Hiệp hội Blockchain Việt Nam cho rằng công nghệ này mở ra hướng đi tiềm năng cho các dịch vụ ký số phi tập trung, có khả năng mở rộng cao và đảm bảo tính bất biến của dữ liệu.
+
+Theo Chủ nhiệm Ủy ban ứng dụng Fintech, Hiệp hội Blockchain Việt Nam, đối với cơ sở pháp lý cho chữ ký số tại Việt Nam, Luật Công chứng năm 2024 đã quy định về công chứng điện tử, cho phép sử dụng chữ ký số, dấu thời gian điện tử và nền tảng số để lập văn bản công chứng. Hồ sơ công chứng điện tử có giá trị pháp lý như bản giấy nếu đáp ứng điều kiện lưu trữ, xác thực và truy xuất theo quy định.

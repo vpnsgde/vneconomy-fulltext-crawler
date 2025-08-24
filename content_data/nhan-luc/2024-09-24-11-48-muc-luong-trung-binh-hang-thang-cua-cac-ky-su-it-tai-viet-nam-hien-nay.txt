@@ -1,0 +1,49 @@
+Thông tin được đề cập trongBáo cáo thị trường IT Việt Nam 2024-2025 do TopDev (nền tảng tuyển dụng chuyên IT) vừa phát hành.
+
+Theo báo cáo này, thị trường việc làm công nghệ thông tin (IT) tại Việt Nam đang chứng kiến ​​sự bùng nổ chưa từng có, đặc biệt trong các lĩnh vực như trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data), điện toán đám mây và an ninh mạng. Nhu cầu tuyển dụng nhân sự công nghệ cao đang tăng mạnh.
+
+Mặc dù vậy, trong môi trường kinh tế và công nghiệp đầy biến động, mức lương trung bình của nhân sự IT không có nhiều thay đổi. Mức lương trung bình của lập trình viên tại Việt Nam vào năm 2024 ước tính dao động từ 1.100 đến 3.000 USD mỗi tháng (khoảng 27 đến hơn 73 triệu đồng), tùy thuộc vào kỹ năng và kinh nghiệm​.
+
+Đặc biệt, các vị trí chuyên sâu như kỹ sư AI và chuyên gia bảo mật thông tin có thể nhận được mức lương vượt xa số trung bình, nhờ vào khan hiếm nhân lực, và tầm quan trọng của những vai trò này trong các doanh nghiệp.
+
+Do tình hình kinh tế toàn cầu, hầu hết các doanh nghiệp đều rơi vào tình trạng khó khăn với nhiều vấn đề liên quan đến dòng tiền, mở rộng và tăng trưởng kinh doanh.
+
+Cùng với chi phí marketing & vận hành, chi phí nhân công tiếp tục được quản lý chặt chẽ hơn bao giờ hết, trong đó tập trung vào việc tăng năng suất, tinh gọn quy trình làm việc để đảm bảo hiệu quả kinh doanh, và ổn định tài chính.
+
+Tuy nhiên, so với các ngành khác, mức lương của các vị trí liên quan đến công nghệ thông tin vẫn cao hơn. Hơn 70% vị trí liên quan đến công nghệ thông tin nhận mức lương từ 1.000 USD.
+
+Tại TP. HCM, mức lương phổ biến nhất là 1.100 -1.500 USD (33,3%). Mức lương từ 600 USD đến 1.000 USD cũng chiếm 27,49%. Mức lương cao hơn (1.600 USD trở lên) có khoảng 32,1%.
+
+Còn tại Hà Nội, mức lương phổ biến cũng là 1.100 USD - 1.500 USD (41,11%). Mức lương từ 600 -1.000 USD chiếm 33,2%. Phạm vi 1.600 – 2.000 USD thấp hơn một chút so với ở TP. HCM, chiếm 20,55%. Đây là tổng tiền lương hàng tháng trước thuế, và không bao gồm các phúc lợi khác như làm thêm giờ, tiền thưởng…
+
+Đáng chú ý, xu hướng tăng rõ ràng ở cả mức lương và mức lương trung bình khi mức độ kinh nghiệm tăng lên. Điều này phản ánh sự phát triển nghề nghiệp điển hình trong lĩnh vực kỹ thuật, nơi kinh nghiệm nhiều hơn mang lại trách nhiệm và mức lương cao hơn.
+
+Một Fresher trong thị trường công nghệ thông tin, dự kiến sẽ nhận được mức lương từ 415 - 510 USD, với mức trung bình là 480 USD. Sau 2 năm làm việc trong ngành IT, tốc độ tăng lương sẽ nhanh hơn 2 năm đầu, trong khi các lập trình viên đã tích lũy được nhiều kinh nghiệm làm việc hơn.
+
+Báo cáo ghi nhận hầu hết các vị trí công nghệ thông tin đều bắt đầu sự nghiệp với mức lương không có sự chênh lệch quá lớn. Nhưng sau 2 năm đầu tiên trong sự nghiệp, mô hình lương sẽ đi theo hướng khác liên quan đến công nghệ, và có thể bị ảnh hưởng rất nhiều từ thị trường việc làm, tình hình kinh tế, và các yêu cầu kinh doanh mới nổi.
+
+Nhìn chung, hầu hết các nhóm công nghệ cơ bản như Java, Python, .Net, C   & PHP vẫn được trả lương cao liên tục qua nhiều năm. Các kỹ năng công nghệ cao mới như liên quan đến Đám mây/AI/ML/DevOps đang được đầu tư nhiều hơn với mức lương cao hơn.
+
+Theo báo cáo, sự phát triển nhanh chóng của thị trường công nghệ cũng tạo ra những thay đổi đáng kể trong xu hướng tuyển dụng của các doanh nghiệp. Nhà tuyển dụng đang vật lộn với số lượng đơn xin việc ngày càng tăng trên mỗi cơ hội việc làm.
+
+Gần 90% công ty có kế hoạch thuê ít hơn 50 lập trình viên trong năm nay. Gần 30% công ty ngừng tuyển dụng lập trình viên vào năm 2023-2024 so với năm 2022. So với giai đoạn trước, hầu hết các công ty đã thu hẹp kế hoạch tuyển dụng từ năm 2023, và tình trạng này vẫn tiếp tục diễn ra vào năm 2024, với số lượng nhân viên vị trí tuyển dụng mới giảm.
+
+Cùng với nhu cầu tuyển dụng giảm, ngân sách tuyển dụng cho năm 2024 này cũng bị ảnh hưởng rất nhiều, khi chỉ có 6% công ty cho biết họ tăng ngân sách tuyển dụng, 70% giữ nguyên số lượng, và 24% công ty quyết định giảm. Dù tăng trưởng không nhiều, nhưng so với giai đoạn 2022-2023, thì giai đoạn hiện tại đã ổn định hơn trước.
+
+Cùng với đó, do thị trường lao động công nghệ thông tin có tính cạnh tranh cao, nên thời gian tìm kiếm ứng viên cho các vị trí tuyển dụng gần đây sẽ mất ít thời gian hơn. Ngoài ra, các lập trình viên cũng phải phải tham gia nhiều cuộc phỏng vấn, trước khi nhận được lời đề nghị hơn kỳ trước.
+
+TP. HCM vẫn đóng vai trò quan trọng như một Trung tâm công nghệ tại Việt Nam, nơi có hơn 55% lập trình viên công nghệ thông tin đang làm việc tại đây, và 58% cơ hội tham gia thị trường lao động.
+
+Các quốc gia nước ngoài tuyển dụng nhiều lập trình viên nhất năm 2024 tại Việt Nam là Nhật Bản & Hàn Quốc, sau đó là Mỹ & Singapore.
+
+Phần lớn các nhà tuyển dụng mong đợi các lập trình viên ít nhất phải có trình độ cơ bản cho vị trí công nghệ. Những công ty này, có cả cấp quản lý và khách hàng thường xuyên sử dụng tiếng Anh, đều nhấn mạnh tầm quan trọng của trình độ tiếng Anh.
+
+Đáng chú ý, tiếng Nhật và tiếng Hàn nổi lên như hai yêu cầu ngoại ngữ phổ biến trong các bản mô tả công việc gần đây. Các nhà tuyển dụng từ Nhật Bản và Hàn Quốc, những người tìm kiếm các lập trình viên có kỹ năng ngoại ngữ, thường yêu cầu trình độ làm việc chuyên nghiệp. Yêu cầu tương tự cũng được áp dụng cho các ngoại ngữ khác như tiếng Pháp, tiếng Trung và tiếng Nga.
+
+Tỷ lệ việc làm trên thị trường yêu cầu tiếng Nhật chiếm 3,5 - 4%, và dưới 1% đối với tiếng Hàn, nhưng hầu hết yêu cầu trình độ “làm việc chuyên nghiệp” khi các lập trình viên sử dụng tiếng Nhật/tiếng Hàn cho cả công việc, và giao tiếp hàng ngày.
+
+Mức lương trung bình của bản mô tả công việc (JD) yêu cầu trình độ làm việc chuyên nghiệp bằng tiếng Anh cao hơn 27%, so với mức trung bình của tất cả các JD, trong khi trình độ tiếng Nhật hoặc tiếng Hàn cao hơn mức trung bình ít nhất 38%.
+
+Bên cạnh kỹ năng chuyên môn, kỹ năng mềm đã trở thành một tiêu chí quan trọng trong quá trình các nhà tuyển dụng/nhân sự đánh giá ứng viên công nghệ thông tin.
+
+Các kỹ năng mềm quan trọng dành cho lập trình viên bao gồm: Trách nhiệm & đạo đức công việc; giao tiếp & giải quyết vấn đề. Yêu cầu nâng cao & đào tạo lại kỹ năng cũng đã tăng lên gần đây, do ngân sách tuyển dụng chặt chẽ hơn, cũng như áp lực tối ưu hóa nguồn lực doanh nghiệp hiện tại.

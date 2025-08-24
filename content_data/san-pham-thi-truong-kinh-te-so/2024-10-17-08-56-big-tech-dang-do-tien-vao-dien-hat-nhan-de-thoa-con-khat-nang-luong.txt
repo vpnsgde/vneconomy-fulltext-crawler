@@ -1,0 +1,23 @@
+"Lưới điện cần những nguồn năng lượng sạch như điện hạt nhân để hỗ trợ xây dựng các công nghệ mới", Michael Terrell, giám đốc cấp cao về năng lượng và khí hậu tại Google, cho biết trong cuộc gọi với các phóng viên CNBC. "Chúng tôi cho rằng năng lượng hạt nhân có thể đóng vai trò quan trọng trong đáp ứng nhu cầu của chúng tôi một cách sạch sẽ hơn".
+
+Google sẽ mua năng lượng từ Kairos Power. Lò phản ứng hạt nhân đầu tiên của Kairos Power sẽ đi vào hoạt động vào năm 2030 với nhiều lò phản ứng khác sẽ đi vào hoạt động vào năm 2035.
+
+Gã khổng lồ công nghệ này không phải là công ty duy nhất tìm đến năng lượng hạt nhân để hiện thực hóa tham vọng AI của mình. Tháng trước, Microsoft đã ký một thỏa thuận với công ty năng lượng Constellation để khôi phục lại một lò phản ứng đã ngừng hoạt động 5 năm tại nhà máy điện hạt nhân Three Mile Island ở Pennsylvania. Nhà máy Three Mile Island là nơi xảy ra sự cố tan chảy hạt nhân và rò rỉ bức xạ nghiêm trọng nhất trong lịch sử nước Mỹ vào tháng 3/1979.
+
+Trong khi đó, Amazon đã công bố khoản đầu tư lớn của riêng mình vào sản xuất năng lượng hạt nhân bằng một thỏa thuận trị giá 500 triệu USD với Dominion Energy để phát triển một lò phản ứng hạt nhân mô-đun nhỏ gần nhà máy điện hạt nhân North Anna của công ty.
+
+Những gã khổng lồ công nghệ này đã được hưởng lợi từ sự gia tăng quan tâm đến các ứng dụng AI. Nhưng nhu cầu tăng cao đó cũng khiến năng lượng cần thiết cho các trung tâm dữ liệu và các ứng dụng AI tăng đột biến, tạo nên gánh nặng cho môi trường.
+
+Theo báo cáo nghiên cứu của Cơ quan Năng lượng Quốc tế, lượng điện tiêu thụ toàn cầu từ các trung tâm dữ liệu, trí tuệ nhân tạo và lĩnh vực tiền điện tử dự kiến ​​sẽ tăng gấp đôi từ mức ước tính 460 terawatt-giờ (TWh) vào năm 2022 lên hơn 1.000 TWh vào năm 2026.
+
+Các nhà nghiên cứu tại Đại học California, Riverside, đã công bố một nghiên cứu vào tháng 4 năm ngoái cho thấy mô hình AI phổ biến nhất hiện nay, ChatGPT tiêu thụ 500ml nước cho 10 - 50 câu hỏi, tùy thuộc vào thời điểm và địa điểm triển khai mô hình AI. Tính đến tháng 8, có hơn 200 triệu người gửi câu hỏi trên chatbot ChatGPT của OpenAI mỗi tuần, theo OpenAI. Con số này gấp đôi so với 100 triệu người dùng hoạt động hàng tuần mà OpenAI báo cáo vào tháng 11 năm ngoái.
+
+Điều này đặt ra thách thức cho các công ty công nghệ trong việc tìm kiếm những giải pháp năng lượng thay thế để hạn chế tác động đến môi trường và năng lượng hạt nhân là lời giải của họ.
+
+Nhiều nhà hoạt động vì khí hậu phản đối các nguồn cung năng lượng từ điện hạt nhân vì những rủi ro nguy hiểm với môi trường và thực tế điện hạt nhân không cung cấp nguồn năng lượng tái tạo thực sự. Tổ chức từ thiện về khí hậu Greenpeace cho biết trên trang web của mình rằng "Năng lượng hạt nhân cực kỳ tốn kém, nguy hiểm và chậm xây dựng".
+
+“Nó thường được gọi là năng lượng sạch vì nó không tạo ra carbon dioxide hoặc các khí nhà kính khác khi tạo ra điện nhưng thực tế là nó không phải là giải pháp thay thế khả thi cho các nguồn năng lượng tái tạo”, tổ chức tuyên bố.
+
+Ngược lại, những người ủng hộ năng lượng hạt nhân cho rằng nó cung cấp một dạng điện gần như không có carbon và đáng tin cậy hơn các nguồn năng lượng tái tạo như năng lượng mặt trời và gió.
+
+“Nếu được xây dựng theo đúng cách, tôi nghĩ rằng hạt nhân chính là tương lai”, Rosanne Kincaid-Smith, Giám đốc điều hành của Northern Data Group, một nhà cung cấp trung tâm dữ liệu toàn cầu nhận định. “Mọi người sợ hạt nhân vì những thảm họa trong quá khứ. Nhưng lưới điện truyền thống không phải là nguồn năng lượng bền vững đặc biệt trong bối cảnh AI phát triển”.

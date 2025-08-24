@@ -1,0 +1,15 @@
+Ngày 18/1, cuốn sách vật lý số đầu tiên tại Việt Nam mang tên “Nghê nơi cửa Khổng sân Trình” đã chính thức ra mắt tại Văn Miếu-Quốc Tử Giám, Hà Nội. Sự kiện là thành quả của chiến dịch “Tầm Chân” trong khuôn khổ dự án “Ứng dụng công nghệ vật lý số nâng tầm giá trị di sản” do Liên hiệp các hội UNESCO Việt Nam chủ trì.
+
+“Tầm Chân” được tạo thành từ hai từ Hán Việt: Tầm - tìm kiếm, và Chân - cái thực. Theo đó, mạng lưới các học giả của dự án sẽ tìm kiếm các giá trị văn hóa truyền thống có nguy cơ bị mai một. Tiếp đó, đội ngũ chuyên gia văn hóa do Trung tâm Thông tin UNESCO (UNET) tập hợp, thực hiện các nghiên cứu hiện vật hay những giá trị văn hóa. Các giá trị này được lưu giữ và phát huy nhờ ứng dụng công nghệ định danh số Nomion do Phygital Labs cung cấp.
+
+Các nghiên cứu kết hợp giữa công nghệ và văn hóa truyền thống này sẽ được phát triển thành các sản phẩm vật lý số, được định danh số trên nền tảng Blockchain và truyền tải thông tin qua chip NFC.
+
+Bằng việc dùng smartphone tương tác với chip RFID gắn trên tượng Nghê Văn Miếu, là vật phẩm được đúc bằng đồng thau, theo nguyên mẫu của Nghê đang chầu trên cột tứ trụ của Văn Miếu - Quốc Tử Giám Thăng Long, người tương tác sẽ được trải nghiệm sách vật lý số đầu tiên tại Việt Nam, mở ra thế giới tri thức phong phú, là sự kết nối quá khứ với hiện tại trong không gian số sinh động. Để gia tăng tính trải nghiệm, thể hiện tính độc bản, nội dung sách này chỉ truy cập được khi tương tác với chip RFID gắn trên tượng Nghê Văn Miếu.
+
+Ông Huy Nguyễn, CEO Phygital Labs, cho rằng công nghệ định danh số thích hợp cho việc chứng thực độc bản và lan tỏa thông tin kiến thức, là một điểm chạm rất tự nhiên với các di tích di sản văn hóa. Sự kết hợp này không chỉ là chìa khóa kết nối các giá trị di sản, văn hóa Việt Nam mà còn phát huy được hết các tiềm năng, thúc đẩy sự phát triển của một nền công nghiệp văn hóa Việt.
+
+“Theo ông Nguyễn Hùng Sơn, Phó Chủ tịch Liên hiệp các Hội UNESCO Việt Nam, trong bối cảnh chuyển đổi Số hiện nay, văn hóa càng cần được chú trọng phát triển nhiều hơn để không bị đi sau nhiều lĩnh vực hiện đại khác. Chúng ta cũng cần những động lực mới cho tăng trưởng kinh tế nên tôi tin rằng việc ứng dụng công nghệ mới là bước chuyển để nâng tầm giá trị nền văn hóa nước nhà.
+
+
+
+Dự án “Nghê Văn Miếu” đánh dấu sự hợp tác sáng tạo giữa UNET, Phygital Labs cùng với Trung tâm Hoạt động Văn hóa-Khoa học Văn Miếu-Quốc Tử Giám và Tiến sỹ mỹ thuật Trần Hậu Yên Thế, người có công trình nghiên cứu sâu sắc về Nghê Việt nhằm đưa hình ảnh Nghê - một linh thú thuần Việt đang canh giữ không gian thiêng liêng của Văn Miếu-Quốc Tử Giám tại Hà Nội… đến gần hơn với người dân Việt Nam và bạn bè quốc tế.

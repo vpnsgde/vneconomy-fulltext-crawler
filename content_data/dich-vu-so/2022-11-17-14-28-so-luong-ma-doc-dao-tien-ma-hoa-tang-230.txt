@@ -1,0 +1,21 @@
+Trong quý 3/2022, các nhà nghiên cứu tại Kaspersky nhận thấy sự gia tăng mạnh mẽ của mã độc đào tiền ảo với tỷ lệ tăng 230% so với cùng kỳ năm ngoái, hiện đang vượt hơn con số 150.000.
+
+Theo Kaspersky, tội phạm mạng sử dụng khả năng xử lý dữ liệu của máy tính nạn nhân để đào tiền ảo và kiếm được đến 40.500 đô la Mỹ (2 BTC) mỗi tháng. Đồng tiền ảo thường bị đào là Monero (XMR).
+
+Khởi đầu “mùa đông tiền mã hóa 2022”, giá trị đồng tiền này sụt giảm đáng kể khiến thị trường tiền mã hóa đang đối mặt với khủng hoảng về thanh khoản. Dù vậy, hoạt động của tội phạm mạng dường như không chậm lại, theo Kaspersky.
+
+Hãng bảo mật này cho rằng kiếm tiền bằng mã độc đào tiền điện tử mang đến lợi nhuận cao cho tội phạm mạng khi không mất chi phí cho thiết bị, hay nguồn điện. Tội phạm mạng cài đặt phần mềm đào tiền vào máy nạn nhân để sử dụng bộ nguồn xử lý dữ liệu mà nạn nhân không hay biết.
+
+Phần mềm này không đòi hỏi chuyên môn cao về kỹ thuật, tất cả các kẻ tấn công đều chỉ cần biết cách tạo mã độc đào tiền bằng mã nguồn mở, hoặc nơi có thể mua được những loại phần mềm này. Nếu mã độc đào tiền mã hóa được cài đặt thành công trên máy nạn nhân, nó sẽ mang lại nguồn thu ổn định cho người vận hành chúng.
+
+Năm 2022 chứng kiến sự gia tăng mạnh mẽ của các biến thể từ chương trình đào tiền độc hại. Đến cuối quý 3/2022, các chuyên gia phân tích ghi nhận 215.843 mã độc đào tiền mới, gấp 2 lần so với năm ngoái.
+
+Đáng chú ý, sự gia tăng đột biến này là do số lượng phần mềm độc hại ghi nhận trong quý 3/2022. So với cùng kỳ năm ngoái, con số này tăng 230%, nâng tổng số phần mềm đào tiền độc hại hơn 150.000.
+
+48% mẫu phần mềm đào tiền độc hại được phân tích cho thấy đã bí mật đào đồng Moreno (XMR) trên máy nạn nhân. Đồng tiền này được biết đến với các công nghệ tiên tiến giúp ẩn danh dữ liệu giao dịch để đạt được sự riêng tư tối đa. Những người theo dõi nó không thể giải mã địa chỉ giao dịch Monero, số tiền giao dịch, số dư hoặc lịch sử giao dịch – tất cả những yếu tố này cực kỳ hấp dẫn đối với tội phạm mạng.
+
+Ví Bitcoin được sử dụng để khai thác bất hợp pháp đã tích lũy trung bình khoảng 1,5 nghìn USD bằng Bitcoin mỗi tháng. Các nhà nghiên cứu tại Kaspersky đã ghi nhận lại một giao dịch đến 2 BTC, tương đương hơn 40.500 đô la Mỹ, cho mỗi một ví được phân tích.
+
+Thông thường, những kẻ tấn công phát tán công cụ khai thác thông qua các tệp độc hại giả dạng nội dung vi phạm bản quyền - phim, nhạc, trò chơi và phần mềm. Đồng thời, các lỗ hổng chưa được vá đặt ra thách thức đối với người dùng trở thành mồi nhử hấp dẫn khi tội phạm mạng khai thác chúng để phát tán công cụ đào tiền.
+
+Phép đo từ xa của Kaspersky cho thấy gần như mỗi 6 cuộc tấn công khai thác lỗ hổng đều đi kèm với việc lây nhiễm công cụ đào tiền. Trong quý 3, công cụ khai thác thậm chí còn trở nên phổ biến hơn so với cửa hậu, vốn là lựa chọn hàng đầu của tội phạm mạng trong suốt nửa đầu năm 2022.

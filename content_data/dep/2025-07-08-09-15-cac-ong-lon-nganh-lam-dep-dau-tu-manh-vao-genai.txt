@@ -1,0 +1,45 @@
+Các tập đoàn mỹ phẩm lớn nhất thế giới dường như đang quyết tâm biến dự báo đó thành hiện thực. Từ việc Estée Lauder bắt tay với Microsoft nhằm rút ngắn chu kỳ phát triển sản phẩm, đến việc Unilever triển khai nội bộ hơn 500 công cụ AI trong chuỗi cung ứng, nghiên cứu & phát triển và marketing... toàn ngành làm đẹp đang gấp rút tích hợp AI vào hệ thống vận hành của mình.
+
+L’Oréal đặc biệt gây chú ý với hợp tác cùng IBM và Nvidia để xây dựng một phòng thí nghiệm nội dung ứng dụng AI tạo sinh. Nỗ lực này nhằm hỗ trợ L’Oréal đạt được mục tiêu trong chiến lược “L’Oréal for the Future”: đến năm 2030, phần lớn công thức sản phẩm sẽ được phát triển từ nguyên liệu có nguồn gốc sinh học và tuân theo mô hình kinh tế tuần hoàn.
+
+Tại sự kiện bán lẻ Shoptalk Europe 2025, “gã khổng lồ” làm đẹp đến từ Pháp này đã chia sẻ cách họ đang chuẩn bị cho tương lai, khi các trợ lý tìm kiếm AI có thể trở thành “người gác cổng” mới trong hành trình khám phá sản phẩm — từ các cuộc trò chuyện qua WhatsApp với bác sĩ da liễu, cho đến công cụ thử trang điểm và tạo kiểu tóc ảo.
+
+“Chúng ta đang chứng kiến ngành công nghiệp làm đẹp bắt kịp rất nhanh, đặc biệt trong 12 tháng qua,” ông Guilhem Souche, cố vấn cấp cao tại Sthrive.AI và từng là giám đốc điều hành tại L’Oréal, Parfums Christian Dior và Coty, nhận định.
+
+“Ban đầu, các lĩnh vực như fintech và giải trí đi trước vì họ cần tự động hóa và sẵn sàng đầu tư lớn […] Nhưng ngày nay, AI đang được dân chủ hóa. Ngành làm đẹp có những cơ hội đặc thù để tận dụng công nghệ này, đặc biệt trong cá nhân hóa, sáng tạo nội dung và tương tác người tiêu dùng, với tỷ suất hoàn vốn (ROI) tốt – và đó chính là nơi động lực đang hình thành”.
+
+Melissa Alcocer, nhà sáng lập và giám đốc của công ty nghiên cứu thị trường Inluxury, cũng đồng tình. “Để đánh giá mức độ ứng dụng, chúng ta cần phân biệt giữa AI truyền thống và AI tạo sinh. AI truyền thống phân tích dữ liệu và hỗ trợ tự động hóa. Trong khi đó, AI tạo sinh tạo ra nội dung — từ ý tưởng sản phẩm, nội dung truyền thông đến các gợi ý và quy trình chăm sóc cá nhân hóa.
+
+Nó đang được sử dụng không chỉ trong marketing và cá nhân hóa, mà còn ở các giai đoạn đầu của phát triển sản phẩm, mô phỏng xu hướng và hình thành ý tưởng R&D — mang lại sự sáng tạo và tốc độ cho những quy trình vốn mất hàng tháng trời”.
+
+Bên cạnh nỗi lo bị bỏ lại phía sau, làn sóng đầu tư này còn được thúc đẩy bởi nhận thức ngày càng rõ ràng rằng AI tạo sinh có thể mang lại những lợi ích đo lường được — đặc biệt trong các lĩnh vực như cá nhân hóa, tạo nội dung và rút ngắn thời gian đưa sản phẩm ra thị trường. Tuy nhiên, song hành với cơ hội là không ít thách thức, từ rủi ro về quyền riêng tư dữ liệu cho đến sự thay đổi của các quy định pháp lý.
+
+CÁC THƯƠNG HIỆU BẮT KỊP VỚI GEN AI
+
+So với các lĩnh vực như fintech hay giải trí – những ngành đi đầu trong ứng dụng AI tạo sinh nhờ hạ tầng kỹ thuật số sẵn có và ít rào cản sáng tạo – ngành mỹ phẩm ban đầu có phần chậm chân hơn. Nhưng điều đó đang thay đổi nhanh chóng.
+
+Theo ông Guilhem Souche, các công ty như Coty đã bắt đầu thử nghiệm với AI tạo sinh từ sớm, ngay từ năm 2021, bao gồm việc sử dụng avatar AI trong các buổi livestream trên nền tảng Tmall tại Trung Quốc. Gần đây hơn, Coty tuyên bố họ có khả năng tạo ra tới 1.000 nội dung tiếp thị chỉ trong vài phút, được cá nhân hóa phù hợp với từng nền tảng và từng thị trường.
+
+Trong khi đó, các “tân binh” như E.L.F. Beauty đang thử nghiệm nhiều ứng dụng của GenAI, bao gồm tối ưu hóa tìm kiếm bằng giọng nói, lên ý tưởng chiến dịch và công nghệ thực tế tăng cường (AR).
+
+Hội nghị Viva Tech năm nay là minh chứng cho mức độ nghiêm túc của L’Oréal trong cuộc chuyển dịch sang AI tạo sinh. Tại sự kiện, tập đoàn đa quốc gia của Pháp đã trình diễn công nghệ người dẫn chương trình ảo tiên tiến do Topview.ai phát triển, dựa trên kinh nghiệm từ làn sóng thương mại điện tử và livestream đang bùng nổ tại Trung Quốc. L’Oréal đã thành công trong việc “xuất khẩu” sáng kiến này từ các phòng phát livestream trực tiếp tại Trung Quốc ra sân khấu toàn cầu.
+
+MỞ RỘNG QUY MÔ MARKETING VÀ TÁI ĐỊNH HÌNH BÁN LẺ BẰNG AI
+
+Khi các thương hiệu hướng đến việc tiếp cận người tiêu dùng trên hàng chục kênh và thị trường khác nhau, công nghệ AI tạo sinh đang chứng tỏ sức ảnh hưởng rõ rệt nhất trong lĩnh vực vận hành marketing.
+
+Theo ông Souche, công nghệ này giúp tăng tốc sản xuất nội dung, tự động hóa dịch thuật và bản địa hóa theo thời gian thực, đồng thời đảm bảo tính nhất quán trong khi vẫn đáp ứng yêu cầu đặc thù của từng nền tảng.
+
+“Không chỉ nhanh hơn, mà còn đồng bộ hơn và dễ thích ứng với từng nền tảng cụ thể,” ông chia sẻ.
+
+Sự quan tâm của ngành làm đẹp đối với AI tạo sinh không chỉ dừng lại ở các điểm chạm kỹ thuật số. Khi bán lẻ trực tiếp đang dần lấy lại đà tăng trưởng, đặc biệt tại châu Á, các thương hiệu cũng bắt đầu khám phá cách GenAI có thể tối ưu hóa hiệu suất tại cửa hàng. Theo bà Melissa Alcocer, tác động của công nghệ này ở cấp độ bán lẻ đã bắt đầu thể hiện rõ.
+
+“Chỉ riêng gương AR đã được chứng minh có thể tăng tỷ lệ chuyển đổi lên tới 90% và tăng giá trị giỏ hàng lên 30%,” bà cho biết. “Nhưng khi kết hợp với AI tạo sinh, những trải nghiệm này còn mạnh mẽ hơn nữa – mang đến các giao diện cá nhân hóa, lựa chọn tông màu phù hợp riêng và chẩn đoán theo thời gian thực được điều chỉnh dựa trên dữ liệu từng người dùng.”
+
+“Người tiêu dùng giờ đây không còn chỉ muốn thử sản phẩm ảo; họ kỳ vọng sản phẩm đó được thiết kế dành riêng cho họ, vào đúng thời điểm ấy,” bà nói thêm.
+
+Các nền tảng như Sthrive.AI đã xuất hiện nhằm hỗ trợ bán hàng ngoại tuyến thông qua công nghệ GenAI. Dù vẫn giữ phong cách trung lập với từng nền tảng, ông Guilhem Souche cho biết những công cụ này có khả năng kết hợp dữ liệu bán hàng tại cửa hàng, hệ thống CRM và thông tin đào tạo để tạo ra các kế hoạch hành động giúp cải thiện hiệu suất cho đội ngũ bán hàng tuyến đầu.
+
+“Trong một trường hợp gần đây, chúng tôi nhận thấy một sản phẩm chủ lực không mang lại doanh số ở một số cửa hàng, dù lưu lượng khách và mức độ hiển thị đều ổn. Dữ liệu cho thấy các nhân viên mới chưa tự tin khi tư vấn sản phẩm đó. Chúng tôi đã triển khai chương trình đào tạo nhắm mục tiêu, và chỉ sau vài ngày, tỷ lệ chuyển đổi đã được cải thiện,” ông chia sẻ.
+
+Khi AI ngày càng được tích hợp sâu vào các quy trình bán lẻ và tiếp thị, lợi thế cạnh tranh của các thương hiệu sẽ không còn nằm ở việc chỉ sở hữu công nghệ, mà ở cách họ triển khai và ứng dụng nó thực tế ở cấp độ vận hành.

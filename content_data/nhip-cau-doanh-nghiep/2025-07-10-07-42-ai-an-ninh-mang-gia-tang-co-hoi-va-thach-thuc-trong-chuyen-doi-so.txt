@@ -1,0 +1,23 @@
+Ngày 9/7, Khu Công viên phần mềm Quang Trung (QTSC) phối hợp cùng Hội Tin học TP.HCM (HCA) và Trung tâm Hỗ trợ và Tư vấn Chuyển đổi số TP.HCM (DXCenter) tổ chức hội thảo “AI và an ninh mạng - Thách thức và cơ hội trong chuyển đổi số”.
+
+Hội thảo được tổ chức nhằm tạo ra một không gian đối thoại chuyên sâu, nơi các chuyên gia công nghệ, doanh nghiệp và cơ quan quản lý cùng nhau thảo luận, chia sẻ và cập nhật những xu hướng công nghệ mới nhất. Đây cũng là dịp để cùng nhìn nhận lại các mô hình ứng dụng AI đang triển khai, từ đó nâng cao năng lực số, tăng cường khả năng phòng thủ và đảm bảo an toàn không gian mạng cho các đơn vị nói riêng và cho hạ tầng số quốc gia nói chung.
+
+Phát biểu tại hội thảo, ông Trần Hữu Dũng, Giám đốc QTSC, Phó Chủ tịch HCA, cho biết: Trong bối cảnh AI đang được ứng dụng mạnh mẽ trong hầu hết các lĩnh vực, từ sản xuất, tài chính, y tế đến năng lượng và quản trị công… Đồng thời, thế giới đang đối mặt với sự gia tăng nhanh chóng của các mối đe dọa an ninh mạng, cả về quy mô lẫn mức độ tinh vi. AI không chỉ mở ra nhiều cơ hội đổi mới vượt bậc, mà còn đặt ra thách thức lớn về bảo mật, khi chính công nghệ này đang bị lợi dụng như những công cụ tấn công mạng hiện đại.
+
+Theo các chuyên gia an toàn thông tin, làn sóng chuyển đổi số diễn ra mạnh mẽ ở Việt Nam nhưng cũng kéo theo nhiều áp lực ngày càng lớn lên hạ tầng bảo mật, nguồn nhân lực an toàn thông tin và năng lực giám sát hệ thống.
+
+Ngoài ra, việc thiếu hụt công cụ quản lý thông minh, quy trình phản ứng tự động và khả năng phân tích dữ liệu quy mô lớn đang đẩy các tổ chức và doanh nghiệp, đặc biệt trong các lĩnh vực trọng yếu như tài chính, công nghiệp và chính phủ điện tử đứng trước nhiều rủi ro an ninh mạng.
+
+“Do đó, chuyển đổi số không thể tách rời yếu tố bảo mật và tối ưu vận hành. Việc ứng dụng AI không chỉ giúp doanh nghiệp xử lý dữ liệu thông minh hơn, mà còn chủ động ứng phó với các mối đe dọa an ninh mạng ngày càng tinh vi”, ông Trần Hữu Dũng khẳng định.
+
+Theo số liệu của Bộ Khoa học và Công nghệ, tính đến cuối năm 2024, Việt Nam có gần 74.000 doanh nghiệp trong lĩnh vực công nghiệp công nghệ số, tăng hơn 10,1% so với năm 2023 và đóng góp 11% vào GDP quốc gia. Cùng với đó, số lượng giải pháp ứng dụng AI trong quản lý, sản xuất và điều hành ngày càng phổ biến, cho thấy tầm ảnh hưởng sâu rộng của công nghệ này trong mọi mặt đời sống.
+
+Thực tế, AI ngày nay không còn là khái niệm của tương lai mà đã và đang hiện diện rõ nét trong nhiều lĩnh vực, đặc biệt là trong các hoạt động chuyển đổi số và đảm bảo an toàn thông tin mạng. Đây chính là những nền tảng quan trọng để kiến tạo một nền kinh tế số năng động, hiệu quả và bền vững. Tuy nhiên, bên cạnh những cơ hội vượt bậc, người dùng cũng đang đối mặt với những thách thức ngày càng nghiêm trọng về an ninh mạng.
+
+Theo báo cáo của Fortinet vào tháng 6/2025, các cuộc quét tự động đạt đến 36.000 lượt mỗi giây, tăng gần 17%, trong đó có tới 42% là tấn công theo hình thức chiếm đoạt tài khoản (credential-based), với tổng cộng 1,7 tỷ thông tin xác thực bị rò rỉ.
+
+Tại Việt Nam, theo thống kê từ Hiệp hội An ninh mạng Quốc gia, năm 2024 có tới 659.000 vụ tấn công an ninh mạng khác nhau, ảnh hưởng tới khoảng 46,15% cơ quan, doanh nghiệp.
+
+Theo báo cáo của Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05 - Bộ Công an), chỉ tính riêng các đơn vị trọng yếu đã có tới hơn 74.000 cảnh báo tấn công mạng, trong đó có 83 chiến dịch tấn công có chủ đích APT.
+
+Tại hội thảo, các chuyên gia an ninh mạng đều nhận định mức độ tinh vi, nguy hiểm của các chiến dịch tấn công ngày càng có xu hướng gia tăng, đặc biệt tấn công có chủ đích vào các hệ thống thông tin quan trọng, chứa nhiều dữ liệu của các doanh nghiệp, tổ chức hoạt động trong các lĩnh vực trọng yếu như viễn thông, năng lượng, chứng khoán, logistics bị tấn công bằng mã độc mã hóa dữ liệu tống tiền - ransomware.

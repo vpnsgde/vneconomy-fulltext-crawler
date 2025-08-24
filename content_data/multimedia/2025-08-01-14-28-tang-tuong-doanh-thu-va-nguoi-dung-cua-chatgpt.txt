@@ -1,0 +1,5 @@
+ChatGPT là ứng dụng AI tạo sinh do công ty OpenAI của Mỹ phát triển và ra mắt vào ngày 30/11/2022.
+
+Theo ước tính của ngân hàng J.P. Morgan, trong 6 tháng kể từ tháng 9/2024 đến tháng 3/2025, số lượng người dùng hoạt động hàng tuần của ChatGPT đã tăng gấp đôi từ 250 triệu lên 500 triệu. Trong khi đó, doanh thu định kỳ hàng năm từ khách hàng ước tính tăng gấp ba lần từ 3,3 tỷ USD lên 7,2 tỷ USD.
+
+Ước tính về doanh thu dược tính dựa trên giả định rằng tỷ lệ chuyển đổi của người dùng từ miễn phí sang trả phí là 5,5% và doanh thu bình quân hàng năm từ mỗi người dùng trả phí là 262 USD.

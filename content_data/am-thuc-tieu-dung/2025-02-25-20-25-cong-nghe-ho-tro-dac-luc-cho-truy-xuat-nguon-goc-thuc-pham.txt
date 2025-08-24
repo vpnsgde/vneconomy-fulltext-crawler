@@ -1,0 +1,31 @@
+Việc cung cấp thông tin rõ ràng và minh bạch về nguồn gốc giúp tạo ra sự tin cậy và lòng tin từ phía khách hàng, đồng thời truy xuất nguồn gốc cũng là công cụ giúp doanh nghiệp quản lý, kiểm soát hàng hóa trên thị trường. Theo phân tích của Emergen Research năm 2021, quy mô thị trường truy xuất nguồn gốc thực phẩm toàn cầu dự kiến ​​sẽ tăng lên 9,75 tỷ USD vào năm 2028.
+
+Với sự trợ giúp của công nghệ, Nestle và Carrefour - tập đoàn siêu thị lớn thứ hai thế giới - đã hợp tác sử dụng blockchain cho dòng sản phẩm sữa dành cho trẻ sơ sinh từ năm 2019. Tập đoàn này cũng bắt đầu áp dụng công nghệ blockchain cho 20 sản phẩm nông sản khác và dự tính tăng lên con số 100 sản phẩm truy xuất được nguồn gốc, tập trung vào những sản phẩm cần độ an toàn cao, như thực phẩm cho trẻ em và những dòng sản phẩm hữu cơ.
+
+Auchan - tập đoàn bán lẻ của Pháp - cũng đang ứng dụng công nghệ blockchain để truy xuất nguồn gốc sản phẩm trong chuỗi siêu thị của họ. Thử nghiệm ban đầu diễn ra tại Việt Nam giúp truy xuất nguồn gốc thịt lợn, gà và trứng tại TP.HCM đã đem lại kết quả ngoài mong đợi. Hiện nay, nền tảng này đang được Auchan triển khai ở Pháp, tương lai ở Tây Ban Nha, Bồ Đào Nha và Senegal.
+
+Walmart cũng đã sử dụng blockchain để số hóa chuỗi cung ứng thực phẩm của họ và giảm thời gian theo dõi nguồn ô nhiễm thực phẩm. Công ty yêu cầu tất cả các nhà cung cấp thương mại các loại rau lá xanh phải tuân thủ đầu vào bản ghi dữ liệu vào nền tảng dựa trên blockchain có thể truy nguyên sản phẩm của họ. Công nghệ blockchain đã giúp Walmart đã giảm thời gian truy xuất nguồn gốc sản phẩm từ 7 ngày xuống chỉ còn 2,2 giây.
+
+Tại Đông Nam Á, CP Foods, công ty thực phẩm có trụ sở tại Thái Lan đang tích hợp công nghệ blockchain vào chuỗi sản phẩm của công ty. Công ty này có hệ thống truy xuất nguồn gốc kỹ thuật số để giám sát các sản phẩm thịt lợn và thịt gà nhằm đảm bảo chất lượng và an toàn. CP Foods in mã QR trên bao bì để cung cấp cho khách hàng thông tin về nguồn gốc, tính bền vững và chứng nhận an toàn của thực phẩm.
+
+Mới đây, cơ quan khoa học quốc gia Australia đã ra mắt công cụ Isotopes.au có tính năng xác minh nguồn gốc và tính bền vững của các sản phẩm thực phẩm. Bà Nina Welti, nhà khoa học chính của dự án, mô tả đồng vị là "dấu vân tay" có thể được phân tích để tìm ra nguồn gốc của sản phẩm, các yếu tố đầu vào cũng như các nhân tố môi trường như chất dinh dưỡng trong đất và nguồn nước ngầm. Từ đó sẽ giúp chứng minh được “uy tín xanh” cao hơn với người tiêu dùng và các đối tác thương mại.
+
+Văn phòng Tổ chức Y tế Thế giới (WHO) tại Việt Nam thông tin mỗi năm, thế giới có khoảng 600 triệu ca bệnh và 420.000 ca tử vong do 31 mối nguy thực phẩm gây ra. Trẻ em dưới 5 tuổi có nguy cơ cao nhất với 125.000 trẻ tử vong mỗi năm vì bệnh do thực phẩm. Các quy trình thủ công, hồ sơ giấy và hệ thống cũ thường mất vài ngày đến vài tuần để xác định nguồn thực phẩm bị ô nhiễm.
+
+Hệ thống truy xuất nguồn gốc thực phẩm hiện nay thường dựa vào hệ thống lưu trữ hồ sơ thủ công và mạng lưới các nhà cung cấp phức tạp, khiến việc truy tìm các sản phẩm bị ô nhiễm và đảm bảo an toàn cho nguồn cung cấp thực phẩm trở nên khó khăn. Các hồ sơ lưu trữ dễ dàng bị thao túng hay gian lận bởi con người để phục vụ lợi ích riêng, gây ảnh hưởng đến sức khỏe chung của cộng đồng.
+
+Tại Hội thảo tập huấn về tăng cường an toàn thực phẩm, bà Hạ Thúy Hạnh, Phó Chủ tịch Hiệp hội Trang trại và Doanh nghiệp nông nghiệp, khẳng định trong thời đại số hóa, minh bạch thông tin sản phẩm là yếu tố then chốt giúp doanh nghiệp chiếm lĩnh lòng tin của người tiêu dùng. Các công cụ như blockchain và mã QR đang được áp dụng rộng rãi, cho phép khách hàng dễ dàng kiểm tra thông tin về nguồn gốc và quy trình sản xuất. Điều này không chỉ tạo sự minh bạch mà còn giúp quản lý chuỗi cung ứng hiệu quả hơn.
+
+Công nghệ blockchain với kỹ thuật tiên tiến sở hữu nhiều đặc điểm nổi bật: không thể làm giả hoặc phá hủy chuỗi dữ liệu; đảm bảo tính minh bạch; loại bỏ sự phụ thuộc vào các đơn vị trung gian; vận hành phi tập trung và mang lại độ tin cậy cao, đáp ứng hiệu quả các yêu cầu ngày càng cao của doanh nghiệp cũng như người tiêu dùng.
+
+Vụ Khoa học và Công nghệ (Bộ Công Thương) mới đây vừa có đề xuất xây dựng Thông tư quy định về truy xuất nguồn gốc thực phẩm thuộc phạm vi quản lý của Bộ Công Thương, tiến độ hoàn thành tháng 12/2025. Cụ thể, Vụ đề xuất 8 nhóm sản phẩm bắt buộc áp dụng truy xuất nguồn gốc, nhóm sản phẩm ưu tiên triển khai truy xuất nguồn gốc thuộc phạm vi quản lý của Bộ Công Thương.
+
+Đó là: bia; rượu, cồn và đồ uống có cồn; nước giải khát; sữa chế biến; dầu thực vật; bột, tinh bột; bánh, mứt, kẹo; dụng cụ, vật liệu bao gói, chứa đựng thực phẩm trong quá trình sản xuất, chế biến, kinh doanh thực phẩm thuộc lĩnh vực được phân công quản lý.
+
+Vụ Khoa học và Công nghệ đã phối hợp với Cục Thương mại điện tử và Kinh tế số xây dựng, quản lý hệ thống truy xuất nguồn gốc đối với sản phẩm, hàng hóa thuộc phạm vi quản lý của Bộ Công Thương tại địa chỉ https://votas.vn/. Hệ thống truy xuất nguồn gốc bảo đảm kết nối với Cổng thông tin truy xuất nguồn gốc sản phẩm hàng hóa quốc gia, cơ sở dữ liệu, ứng dụng cập nhật thông tin sản phẩm hàng hóa vào Hệ thống truy xuất nguồn gốc.
+
+Nhằm cung cấp bộ giải pháp truy xuất nguồn gốc trực tuyến giúp các doanh nghiệp, hợp tác xã và hộ nông dân cập nhật thông tin về nguồn gốc sản phẩm gồm thông tin chung, nhật ký điện tử trong quá trình canh tác, sản xuất chế biến, vận chuyển, phân phối... Cục Xúc tiến thương mại cũng phối hợp với các đơn vị liên quan đã xây dựng và đang triển khai hệ thống truy xuất nguồn gốc xúc tiến thương mại tại https://itrace247.com/.
+
+Hệ thống truy xuất nguồn gốc xúc tiến thương mại itrace247 hỗ trợ doanh nghiệp tăng cường hơn nữa việc tận dụng công cụ số, xây dựng được hình ảnh và thương hiệu của sản phẩm trên thị trường, cả nội địa và xuất khẩu theo đúng định hướng của quốc gia hướng đến. Đồng thời, hỗ trợ người tiêu dùng không những được trải nghiệm quá trình sản xuất ra sản phẩm mà còn có cơ hội hiểu thêm về giá trị về lịch sử, địa lý, hiểu rõ về cách thức chăm sóc và quy trình để tạo nên sản phẩm.
+
+Hiện nay, iTrace247 đang được nâng cấp phiên bản áp dụng công nghệ chuỗi khối mang tính minh bạch hơn để đáp ứng được yêu cầu của các thị trường khác nhau.

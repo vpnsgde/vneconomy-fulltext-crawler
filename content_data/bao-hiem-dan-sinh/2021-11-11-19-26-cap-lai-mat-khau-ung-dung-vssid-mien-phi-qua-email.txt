@@ -1,0 +1,35 @@
+Bảo hiểm xã hội Việt Nam vừa thông báo đã điều chỉnh chức năng “Quên mật khẩu” trên Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam và ứng dụng "VssID - Bảo hiểm xã hội số". Theo đó, người sử dụng có thể lấy lại mật khẩu qua email trong trường hợp quên mật khẩu.
+
+Như vậy, đối với chức năng “Quên mật khẩu” trên ứng dụng VssID và Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam, bên cạnh việc nhắn tin tới đầu số 8079 theo cú pháp “BH MK Mã số BHXH” để lấy lại mật khẩu (người dùng trả phí dịch vụ 1.000 đồng/tin nhắn cho nhà mạng), từ ngày 10/11, cơ quan này sẽ cung cấp thêm tính năng lấy lại mật khẩu miễn phí qua email của người dùng.
+
+Trong đó,trên ứng dụng VssID,bước 1: Mở ứng dụng VssID, nhập mã số bảo hiểm xã hội vào ô "Mã số BHXH". Chọn "Quên mật khẩu".
+
+Bước 2: Nhập địa chỉ email đã đăng ký để nhận mã xác thực (OTP).
+
+Bước 3: Nhập OTP (được gửi đến email). Mật khẩu mới sẽ được gửi đến email đã đăng ký.
+
+Đối vớitrên Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam, bước 1: Để thực hiện chức năng “Quên mật khẩu”, truy cập Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam theo đường dẫn: https://dichvucong.baohiemxahoi.gov.vn.
+
+Bước 2: Trên màn hình trang chủ, chọn “Đăng nhập” để hiển thị màn hình đăng nhập.
+
+Bước 3: Chọn “Quên mật khẩu”.
+
+Bước 4: Nhập mã số bảo hiểm xã hội và địa chỉ email đã đăng ký với cơ quan bảo hiểm xã hội, nhập mã Capcha. Chọn: “Lấy mật khẩu”, hệ thống sẽ gửi mã xác thực về email.
+
+Bước 5: Thực hiện “Nhập mã OTP” để xác nhận thông tin. Hệ thống sẽ gửi thông tin tài khoản và mật khẩu vào địa chỉ email đã đăng ký.
+
+Trong thời gian vừa qua, Bảo hiểm đã điều chỉnh, bổ sung để đồng bộ các ứng dụng của ngành đáp ứng chức năng quên mật khẩu miễn phí qua email.
+
+Bên cạnh đó, do phải chờ xác nhận của Appstore và Google Play để có thể đưa được ứng dụng VssID lên các kho ứng dụng, nên đến thời điểm này mới chính thức công bố triển khai dịch vụ xác thực và gửi mật khẩu qua email cho những người quên mật khẩu.
+
+Bảo hiểm xã hội Việt Nam cho biết, cũng đang nghiên cứu để tích hợp và sớm triển khai các hình thức xác thực theo công nghệ mới như smart OPT, dịch vụ xác thực không mật khẩu.....
+
+Trường hợp cá nhân chưa có thông tin email khi đăng ký giao dịch điện tử, có thể bổ sung thông tin email cá nhân để nhận thông báo, mã xác thực (OTP) khi thực hiện các giao dịch với cơ quan bảo hiểm xã hội tại chức năng“Thông tin tài khoản”trên Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam.
+
+Trước đó, từ ngày 22/10/2021, Bảo hiểm xã hội Việt Nam đã triển khai dịch vụ tin nhắn tới đầu số 8079 để lấy lại mật khẩu đăng nhập ứng dụng VssID hoặc Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam. Nhà mạng sẽ thu phí dịch vụ 1.000 đồng.
+
+Tuy nhiên, theo lý giải của cơ quan bảo hiểm xã hội, chỉ trường hợp quên mật khẩu đăng nhập ứng dụng VssID, người dùng mới sử dụng cách nhắn tin đến đầu số 8079 để lấy lại mật khẩu.
+
+Với mật khẩu cấp lần đầu, Bảo hiểm xã hội Việt Nam đã gửi tin nhắn SMS về số điện thoại đăng ký (đối với các tài khoản được phê duyệt trước ngày 22/10/2021), gửi về email đăng ký (đối với tài khoản được phê duyệt từ ngày 22/10/2021). Và khi người dùng ứng dụng chủ động đổi mật khẩu thì sẽ không mất phí.
+
+Để tiết kiệm chi phí cá nhân, cơ quan này khuyến nghị người dùng ứng dụng VssID nên chủ động nhớ mật khẩu hoặc nếu quên mật khẩu (với mật khẩu người dùng chưa chủ động thay đổi) nên tìm lại mật khẩu đã được cơ quan bảo hiểm xã hội cấp (trong tin nhắn hoặc email) và chủ động đổi mật khẩu dễ nhớ.

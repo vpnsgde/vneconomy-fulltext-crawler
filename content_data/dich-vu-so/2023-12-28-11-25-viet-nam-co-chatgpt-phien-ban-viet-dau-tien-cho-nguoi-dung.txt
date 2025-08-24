@@ -1,0 +1,17 @@
+Ngày 27/12/2023, Công ty VinBigdata chính thức công bố đưa vào hoạt động ứng dụng ViGPT- phiên bản ChatGPT đầu tiên ở Việt Nam mở cho người dùng cuối. Đồng thời, một phiên bản khác dành riêng cho doanh nghiệp với hệ tri thức ngành sâu rộng được tích hợp trong nền tảng trí tuệ nhân tạo đa nhận thức cũng chính thức ra mắt.
+
+ViGPT phiên bản cộng đồng là một “ChatGPT phiên bản Việt" dành cho người dùng cuối. Phiên bản sở hữu lượng tri thức rộng lớn, với khả năng sáng tạo nội dung, tìm kiếm, tổng hợp, trích xuất thông tin, giải đáp các câu hỏi thường thức. Điểm khác biệt và là lợi thế nổi trội của ViGPT so với các ứng dụng khác đã ra mắt là thông tin tập trung vào các lĩnh vực đặc thù của Việt Nam như pháp luật, lịch sử, văn hóa, danh nhân, danh lam thắng cảnh, đặc trưng vùng miền…
+
+Phiên bản cộng đồng của ViGPT sẽ mở cho 1000 người dùng đầu tiên trải nghiệm trong 15 ngày từ 27/12/2023 đến hết 10/1/2024, sau đó sẽ được tinh chỉnh và cung cấp miễn phí cho đơn vị phi lợi nhuận có nhu cầu.  Người dùng có thể trực tiếp truy cập ứng dụng và tương tác với ViGPT bằng tiếng Việt trên giao diện web, tương tự như với ChatGPT của OpenAI. Thông qua đó, VinBigdata mong muốn lắng nghe góp ý của người dùng để tiếp tục cải thiện và nâng cấp ViGPT ngày một hoàn thiện.
+
+Trong phiên bản doanh nghiệp, ViGPT được tích hợp trong nền tảng trí tuệ nhân tạo VinBase 2.0. Phiên bản sẽ góp phần làm thay đổi thói quen vận hành và nâng tầm hiệu quả kinh doanh, marketing, dịch vụ khách hàng, quản trị rủi ro. Đây cũng là công nghệ mở đường cho sự ra đời của hệ sinh thái các giải pháp tích hợp AI tạo sinh như ViChat, ViVoice và Trợ lý ảo ViVi.
+
+Với việc làm chủ từ những tầng lõi mô hình sâu nhất cho tới phát triển ứng dụng dành cho người dùng cuối của VinBigdata, ViGPT sở hữu hơn 600GB dữ liệu tiếng Việt tinh chỉnh lấy từ nhiều lĩnh vực.
+
+Hiện nay, VinBigdata cũng đang ứng dụng công nghệ trên trong các sản phẩm như trợ lý ảo pháp lý cho người dân của cơ quan nhà nước...
+
+Trong tương lai, ViGPT sẽ được tích hợp trong các lĩnh vực khác nhau như vận tải, ngân hàng, tài chính, bảo hiểm… Công nghệ tiên tiến sẽ hỗ trợ người dùng tìm kiếm, tổng hợp thông tin nhanh chóng và đơn giản hơn so với trước đây.
+
+Chia sẻ về sự ra đời của ViGPT, GS. Vũ Hà Văn, Giám đốc Khoa học VinBigdata nhấn mạnh, việc ra mắt một “ChatGPT phiên bản Việt" đánh dấu khả năng làm chủ công nghệ của Việt Nam, qua đó có thể tự chủ khai thác, bảo vệ an ninh dữ liệu quốc gia, cùng hệ tri thức, tư tưởng mang bản sắc Việt Nam. Hướng đi này sẽ cho phép chúng ta không chỉ xoá bỏ sự phụ thuộc vào những sản phẩm quốc tế, mà còn có thể dần dần nâng cao tính chính xác của thông tin chứa giá trị lịch sử, văn hoá Việt và giảm thiểu dòng chảy dữ liệu ra nước ngoài.”
+
+Việc làm chủ công nghệ và tự phát triển, cho ra đời “ChatGPT" phiên bản Việt đầu tiên dành cho người dùng cuối là bước tiến giúp VinBigdata đưa công nghệ AI tạo sinh vào hệ sinh thái các sản phẩm, dịch vụ trên thị trường; kiến tạo những sản phẩm AI "Make in Vietnam" mang đẳng cấp quốc tế, thúc đẩy và nâng tầm cuộc sống người Việt.

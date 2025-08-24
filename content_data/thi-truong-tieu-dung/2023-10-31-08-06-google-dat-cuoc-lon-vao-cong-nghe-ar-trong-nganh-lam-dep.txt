@@ -1,0 +1,27 @@
+Google đang giới thiệu các công cụ thực tế tăng cường mới dành cho người tiêu dùng và thương hiệu làm đẹp, bao gồm cả quảng cáo AR và thử sản phẩm ảo bổ sung thêm tính năng, đồng thời giới thiệu chức năng này cho web di động. Đây là một phần trong nỗ lực lớn hơn của Google nhằm cung cấp rộng rãi công nghệ AR trong tìm kiếm trên thiết bị di động.
+
+Theo đó, Google sẽ cho phép mọi người thử màu tóc và phấn nền trên hình ảnh của chính họ cũng như hình ảnh người mẫu trong cả ứng dụng Google và trên web di động. Người dùng sẽ có thể tìm kiếm loại kem nền, màu thuốc nhuộm tóc hoặc tên sản phẩm từ một thương hiệu tham gia Google trên trình duyệt web với điện thoại thông minh, sau đó chọn một sản phẩm và nhấn vào “thử”. Đây là lần đầu tiên Google cung cấp tính năng dùng thử làm đẹp AR trên web di động; trước đây, nó chỉ có sẵn trong ứng dụng Google.
+
+Trong những tuần tới, chức năng này sẽ được mở rộng cho tất cả các danh mục sản phẩm làm đẹp AR hiện có của Google, bao gồm cả mắt và môi. Mac, Urban Decay và Covergirl nằm trong số 50 thương hiệu cung cấp dịch vụ dùng thử tính năng thực tế ảo AR cho các sản phẩm làm đẹp thông qua Google, trong khi các thương hiệu Revlon, Splat và L'Oréal nằm trong số những thương hiệu có sản phẩm nhuộm tóc để người dùng "thử màu" tại nhà.
+
+Google cũng đang giới thiệu dịch vụ quảng cáo AR cho các mỹ phẩm môi và mắt cùng với nền tảng sắp ra mắt này, nghĩa là mọi người sẽ có thể xem các sản phẩm làm đẹp trong quảng cáo trên nhiều hình ảnh người mẫu khác nhau.
+
+Google bắt đầu cung cấp tính năng "dùng thử" sản phẩm làm đẹp AR trong ứng dụng của mình vào năm 2020, cho phép người dùng dùng thử các sản phẩm lên mắt và môi trên cả người mẫu và hình ảnh của chính họ, đồng thời thử kem nền trên hình ảnh người mẫu được cung cấp.
+
+Lilian Rincon, giám đốc cấp cao về mua sắm tiêu dùng của Google cho biết, việc mở rộng sang web di động là một thay đổi đáng kể vì giúp mở rộng nhóm khách hàng tiềm năng sẽ sử dụng các tính năng làm đẹp AR của Google. Bà Rincon cho biết, trong sáu tháng qua, Google đã nhận thấy động lực mua sắm thực tế ảo ngày càng tăng từ cả thương hiệu và người tiêu dùng. Một sự kiện quảng Google AR kéo dài 3 ngày diễn ra ở New York vào cuối tuần vừa qua cùng với thương hiệu Pat McGrath Labs đã thu hút rất đông người tiêu dùng.
+
+Theo dữ liệu nội bộ của Google, người mua hàng tương tác với các sản phẩm làm đẹp nhiều hơn 10% khi có tính năng AR. Người mua hàng cũng có nhiều khả năng dành nhiều thời gian hơn trên trang web của thương hiệu và có khả năng thực hiện hành động (chẳng hạn như nghiên cứu sản phẩm mới hoặc mua hàng) sau khi tương tác với tính năng AR Beauty trên Google.
+
+Google đã và đang nỗ lực nâng cao khả năng mua sắm của mình với hy vọng nâng cao vị thế của mình như một công cụ mua sắm. Đổi lại, điều này làm cho quảng cáo của họ có giá trị hơn đối với các thương hiệu. Đối với Google, mua sắm nhiều hơn có nghĩa là chi nhiều tiền hơn cho quảng cáo.
+
+Theo Vogue Business Beauty Index, 65% người tiêu dùng làm đẹp quan tâm đến việc dùng thử sản phẩm AR từ các thương hiệu, tuy nhiên chỉ có 33% thương hiệu trong khảo sát Beauty Index cung cấp tính năng này. Đây là công nghệ phổ biến nhất với những người từ 35 đến 44 tuổi và đặc biệt là khách hàng Mỹ.
+
+Tính năng dùng thử AR cho các sản phẩm làm đẹp đặc biệt phổ biến vì nó có thể cung cấp cho người tiêu dùng tùy chọn dùng thử trước khi mua khi mua sắm trực tuyến, đồng thời có thể cung cấp cho thương hiệu thông tin chi tiết về sản phẩm hoặc màu sắc nào đang là xu hướng. Mùa thu này, Google đã phát hiện ra rằng các màu thử phổ biến nhất là son môi màu đỏ mâm xôi và phấn mắt màu hoa hồng bụi và màu hoa cà.
+
+Mỹ phẩm từ trước đến nay luôn là hạng mục đầu tiên thử nghiệm tính năng thử AR, dựa trên sự ra đời của các bộ lọc khiến khuôn mặt người chụp hình trông vui tươi, xinh đẹp hơn trên các ứng dụng trong 10 năm qua. Tuy nhiên, việc kích hoạt AR trên web di động khó khăn hơn đáng kể so với trên các ứng dụng di động độc lập.
+
+Điều này một phần là do trình duyệt trên thiết bị di động dựa vào sức mạnh của kết nối di động hoặc internet để hoạt động, trong khi các ứng dụng có thể chứa các chuông báo và tính năng phức tạp hơn mà không cần dựa vào kết nối. Bà Rincon cho biết trước đây, trải nghiệm dùng thử AR dựa trên dữ liệu trên đám mây không được tốt lắm.
+
+Đây là lý do tại sao các thương hiệu trước đây thường cung cấp trải nghiệm AR trong ứng dụng, chẳng hạn như ứng dụng của riêng họ hoặc ứng dụng truyền thông xã hội. Ngay cả Snapchat, công ty đi đầu trong lĩnh vực trải nghiệm AR dành cho ngành thời trang và làm đẹp, cũng không chịu nổi thách thức phải cập nhật công nghệ này. Tháng trước, họ đã thông báo rằng họ sẽ đóng cửa các dịch vụ AR mới dành cho doanh nghiệp một phần vì họ nhận ra rằng họ không thể đáp ứng nhu cầu AR của thương hiệu trên web di động.
+
+Bà Rincon cho biết các sản phẩm dành cho mái tóc là khó khăn nhất để có thể thử AR. Google hợp tác với các nhà sản xuất thuốc nhuộm tóc để phát triển mã kết xuất cho từng màu và xây dựng mô hình máy học cho khách hàng để cung cấp tính năng này, sử dụng tới 10.000 điểm dữ liệu về các kiểu tóc hiện đại. Trên thực tế, đó là một thử thách lớn đến nỗi bà Rincon đã hứa với nhóm thực hiện dự án này rằng bản thân bà sẽ nhuộm tóc màu hồng nếu họ có thể hoàn thành tính năng trước kỳ nghỉ lễ. Giờ đây, sự thật là bà đang phải chuẩn bị thay đổi màu tóc của mình.

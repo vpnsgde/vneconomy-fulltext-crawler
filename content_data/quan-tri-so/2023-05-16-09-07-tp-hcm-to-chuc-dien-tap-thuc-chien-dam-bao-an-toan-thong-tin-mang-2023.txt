@@ -1,0 +1,11 @@
+Sở Thông tin và Truyền thông TP.HCM vừa cho biết, đơn vị đã phối hợp với Cục An toàn thông tin – Bộ Thông tin và Truyền thông tổ chức “Diễn tập thực chiến đảm bảo an toàn thông tin mạng 2023” trong 5 ngày liên tục, bắt đầu từ 10 giờ ngày 15/5 đến hết 20 giờ ngày 19/5/2023.
+
+Theo Sở Thông tin và Truyền thông TP.HCM, chương trình có ý nghĩa quan trọng trong công tác đánh giá khả năng phòng ngừa xâm nhập và khả năng phát hiện kịp thời các điểm yếu về quy trình, công nghệ, con người; nâng cao kiến thức và kỹ năng thực hành về an toàn thông tin mạng cho Đội Ứng cứu sự cố an toàn thông tin mạng và các đơn vị trên địa bàn Thành phố.
+
+Đối tượng diễn tập là hệ thống thông tin đang vận hành tại TP.HCM. Tiêu chí xác định đối tượng diễn tập là hệ thống thông tin cấp độ 3 trở lên, đáp ứng các yêu cầu của Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ và Chỉ thị số 60/CT-BTTTT ngày 16/9/2021 của Bộ Thông tin và Truyền thông; được triển khai, áp dụng trên các nền tảng giải pháp công nghệ mới, cung cấp nhiều tiện ích và lợi ích cho người dùng nhưng cũng đem lại nhiều rủi ro an ninh khi hệ thống thông tin không được thiết lập, cấu hình các chính sách bảo mật phù hợp.
+
+Từ đó, các cơ quan, đơn vị tham gia diễn tập và thành viên Đội Ứng cứu sự cố có cơ hội tham gia, rèn luyện kỹ năng, quy trình ứng phó sự cố thực tế thông qua hoạt động diễn tập thực chiến trên hệ thống thực đang vận hành; trang bị những kiến thức, kỹ năng cần thiết cho cán bộ chuyên trách công nghệ thông tin tại các cơ quan, đơn vị kịp thời ứng phó, giải quyết các vấn đề mất an toàn thông tin.
+
+Để đảm bảo diễn tập thực chiến đúng quy định của Bộ Thông tin và Truyền thông theo Quyết định số 1439/QĐ-BTTTT ngày 26/7/2022, Ban Tổ chức (Cục An toàn thông tin, Trung tâm ứng cứu khẩn cấp không gian mạng Việt Nam, Sở Thông tin và Truyền thông) đã ban hành Nội quy về diễn tập thực chiến và thành lập Ban Tổ chức, Ban Giám khảo chương trình diễn tập thực chiến đối với hệ thống thông tin của TP.HCM.
+
+Dự kiến, Diễn tập sẽ ghi nhận và công bố kết quả cuộc diễn tập, dự kiến tổ chức vào thời gian đầu tháng 6/2023.

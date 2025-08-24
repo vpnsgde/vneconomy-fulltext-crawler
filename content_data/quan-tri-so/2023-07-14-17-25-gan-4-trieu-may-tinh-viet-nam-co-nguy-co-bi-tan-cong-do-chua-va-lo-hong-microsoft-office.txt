@@ -1,0 +1,20 @@
+Chiều ngày 14/7/2023, Bkav đã phát đi cảnh báo về việc có gần 4 triệu máy tính bị đe dọa tấn công bằng virus qua lỗ hổng Microsoft Office.
+
+Theo Bkav, lỗ hổng (mã định danh CVE-2023-21716) có điểm mức độ nghiêm trọng gần tuyệt đối (9,8/10) cho phép thực thi mã từ xa trên thiết bị mục tiêu. Lợi dụng lỗ hổng, hacker có thể triển khai các chiến dịch lây nhiễm virus trên diện rộng, từ đó chiếm quyền điều khiển thiết bị từ xa, thu thập, mã hóa dữ liệu, tải và thực thi các virus khác.
+
+Ông Nguyễn Tiến Đạt, Tổng giám đốc Trung tâm nghiên cứu mã độc của Bkav, cho biết những lỗ hổng kiểu này luôn hấp dẫn tin tặc do tồn tại trên loại file văn bản phổ biến. Trong khi đó, với thiết bị không bật chế độ cập nhật tự động, việc cập nhật bản vá không đơn giản, không phải người dùng nào cũng làm được.
+
+Mặc dù lỗ hổng này đã có bản vá từ tháng 2, nhưng theo thống kê của Bkav, có gần 4 triệu máy tính Việt Nam vẫn có nguy cơ bị virus tấn công do chưa được vá.
+
+Để trợ giúp người sử dụng trước nguy cơ này, Bkav đã phát hành công cụ miễn phí kiểm tra nhanh máy tính của mình có lỗ hổng hay không, đồng thời cung cấp hướng dẫn cập nhật bản vá. Người dùng không cần phải cài đặt mà có thể khởi chạy luôn để quét tại: Bkav.com.vn/Tool/CVE-2023-21716Scan.
+
+Để quét và vá lỗ hổng CVE-2023-21716, người dùng chạy công cụ, bấm Kiểm tra. Công cụ sẽ thông báo máy tính có lỗ hổng hay không.
+
+Nếu có sẽ vá lỗ hổng theo một trong 2 cách. Hoặc là cập nhật bản vá thông qua Windows Update, bằng cách vào Windows Update trong Settings, tìm và cập nhật các bản; hoặc là tải thủ công bản vá, bằng cách bấm OK trong thông báo kết quả quét của Công cụ để mở trang download bản vá chính thức từ Microsoft.
+
+Trước đó, lỗ hổng CVE-2023-21716 điểm gần như cực đại 9.8/10 đã được các chuyên gia cảnh báo. Dù đã được Microsoft xử lý trong tháng 2 nhưng nguy cơ bị khai thác với người dùng là không hề nhỏ.
+
+Cách đơn giản nhất để khai thác lỗ hổng là qua con đường phishing. Hacker sẽ lừa người dùng tải về một tệp tin Word có chứa định dạng. RTF (Rich Text Format) độc hại, từ đó khai thác lỗ hổng CVE-2023-21716 tồn tại trong thư viện động “wwlib.dll”. Tuy nhiên, nguy hiểm nhất là người dùng có thể không cần mở tài liệu Word mà chỉ cần xem ở chế độ Preview Pane cũng có thể bị tấn công.
+
+
+

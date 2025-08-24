@@ -1,0 +1,15 @@
+Thông qua Thỏa thuận hợp tác, BIDV và KiotViet sẽ triển khai dịch vụ thu hộ qua tài khoản định danh cho khách hàng doanh nghiệp và tiểu thương trên phần mềm KiotViet, tạo tiện ích thanh toán bằng mã QR cho người mua, hỗ trợ người bán quản lý doanh số hiệu quả trên không gian số.
+
+Các sản phẩm ngân hàng khác như dịch vụ chấp nhận thanh toán online (e-com), cho vay online, thẻ ghi nợ và tín dụng, các dịch vụ thanh toán và quản lý tài chính trực tuyến sẽ tiếp tục được triển khai để thúc đẩy chuyển đổi số cho khách hàng trên nền tảng KiotViet.
+
+Đồng thời, để đánh dấu sự kiện hợp tác này, BIDV và KiotViet đã cùng phối hợp triển khai chương trình khuyến mại với nhiều ưu đãi hấp dẫn dành cho khách hàng đăng ký sử dụng dịch vụ BIDV tích hợp trên phần mềm KiotViet.
+
+Phát biểu tại chương trình, bà Đỗ Thị Thanh Huyền - Giám đốc Ban Chính sách sản phẩm bán buôn BIDV - nhấn mạnh: “Sự kết hợp giữa các giải pháp ngân hàng tài chính tiên phong của BIDV và nền tảng quản lý bán hàng thông minh của KiotViet sẽ mang lại giá trị thiết thực cho khách hàng, thúc đẩy hoạt động thanh toán không dùng tiền mặt và ứng dụng công nghệ số trong hoạt động kinh doanh tại thị trường Việt Nam”.
+
+Phó Tổng giám đốc KiotViet - đánh giá cao cơ hội được hợp tác với BIDV - một trong những ngân hàng thương mại hàng đầu tại Việt Nam. KiotViet rất vui mừng khi BIDV đã đạt được những kết quả ấn tượng trong hành trình chuyển đổi số nói chung và trong việc triển khai tích hợp thành công các công nghệ mới để hỗ trợ hoạt động kinh doanh của khách hàng.
+
+Là ngân hàng tiên phong đón đầu xu thế ngân hàng mở tại Việt Nam với việc ra mặt hệ thống BIDV Open API vào tháng 11/2023. Đến nay, đã có gần 250.000 lượt gọi API trải nghiệm, 750 tài khoản trải nghiệm, 150 đối tác đăng ký tích hợp.
+
+Hệ thống cũng mở ra cơ hội hợp tác giữa BIDV và nhiều đối tác phát triển phần mềm, fintech, bigtech, hỗ trợ đẩy nhanh việc tích hợp dịch vụ ngân hàng lên các nền tảng số mới.
+
+Với những thành tựu vượt trội trong cung cấp các giải pháp và sản phẩm dịch vụ số cho khách hàng tổ chức, BIDV được The Asian Banker vinh danh “Ngân hàng ứng dụng API và Ngân hàng mở tốt nhất Việt Nam 2024” và Tạp chí Euromoney vinh danh “Ngân hàng cung cấp giải pháp số hàng đầu Việt Nam năm 2024”.

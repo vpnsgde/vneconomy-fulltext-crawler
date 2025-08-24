@@ -1,0 +1,27 @@
+Căn cứ theo nội dung làm việc với các cơ quan chức năng, Cục An toàn thông tin đã thu hồi 6 tên định danh được sử dụng để phát tán tin nhắn rác, cuộc gọi rác. Cụ thể gồm: 04 tên định danh DVKH-247, CSKH-247, CSKH.24H, DVKH24H của Công ty Cổ phần Giải pháp Công nghệ thông tin Quốc tế ITS và 2 tên định danh PMCARD, CTPMC của Công ty Cổ phần Power Membership Card.
+
+Việc xử lý các đơn vị quảng cáo sử dụng tên định danh - brandname được cấp để phát tán tin nhắn, cuộc gọi rác là một trong những biện pháp đang được Bộ Thông tin và Truyền thông thực hiện để bảo vệ người dùng dịch vụ viễn thông.
+
+
+
+Ngày 14/8/2020, Chính phủ đã ban hành Nghị định số 91/2020/NĐ-CP về chống tin nhắn rác, thư điện tử rác, cuộc gọi rác, trong đó quy định rõ việc sử dụng tên định danh trong hoạt động quảng cáo bằng tin nhắn, gọi điện thoại và trách nhiệm của đơn vị quảng cáo khi sử dụng tên định danh để quảng cáo.
+
+Theo đó, đơn vị quảng cáo chỉ được gửi tin nhắn quảng cáo, gọi điện thoại quảng cáo khi đã được cấp tên định danh và không được phép sử dụng số điện thoại để gửi tin nhắn quảng cáo hoặc gọi điện thoại quảng cáo; Không được phép gửi tin nhắn quảng cáo, gọi điện thoại quảng cáo đến các số điện thoại nằm trong Danh sách không quảng cáo; Chỉ được phép gửi tin nhắn quảng cáo, gọi điện thoại quảng cáo đến người sử dụng khi được người sử dụng đồng ý trước về việc nhận quảng cáo...
+
+Thực tế quá trình theo dõi, quản lý và vận hành cho thấy, Hệ thống tiếp nhận phản ánh tin nhắn rác, cuộc gọi rác qua đầu số 5656/156 trong 06 tháng đầu năm nay, Cục An toàn thông tin đã tiếp nhận 479.398 phản ánh của người sử dụng. Trong đó, có 1.493 phản ánh liên quan đến tên định danh, chiếm 0,35% trên tổng số phản ánh tiếp nhận được. Như vậy, ước tính mỗi tháng có gần 250 phản ánh liên quan đến tên định danh.
+
+Trên cơ sở đó, Cục An toàn thông tin đã làm việc với 40 đơn vị sở hữu tên định danh bị phản ánh, đã có 32 đơn vị phải giải trình và thừa nhận sai phạm, sau đó đã có 21/32 đơn vị thực hiện khắc phục các vi phạm này.
+
+Theo đánh giá của Cục An toàn thông tin, hầu hết các đơn vị đã vi phạm quy định về trách nhiệm của người quảng cáo. Cụ thể là đã gửi tin nhắn, gọi điện quảng cáo vào các số thuê bao nằm trong Danh sách không quảng cáo; Gửi tin nhắn, gọi điện quảng cáo khi chưa có sự đồng ý trước của người nhận.
+
+Thời gian qua, đã có những chuyển biến tích cực sau khi cơ quan chức năng tổ chức làm việc và có biện pháp xử lý với những cá nhân, tổ chức quảng cáo có hành vi vi phạm khi sử dụng tên định danh.
+
+Theo thống kê, số lượng phản ảnh hợp lệ liên quan đến tên định danh gửi về “Hệ thống tiếp nhận phản ánh tin nhắn rác, cuộc gọi rác” trong thời gian từ 19/7 – 18/8 là 138 phản ánh hợp lệ, giảm khoảng 45% so với trung bình phản ánh các tháng trước.
+
+Về định hướng tới gian tới, song song với việc tiếp tục theo dõi, giám sát tình hình sử dụng tên định danh của các cá nhân, tổ chức, Cục An toàn thông tin xác định sẽ phối hợp chặt chẽ hơn nữa với Thanh tra Bộ Thông tin và Truyền thông để xử lý, xử phạt nghiêm các tổ chức/cá nhân có hành vi vi phạm quy định về tin nhắn rác, cuộc gọi rác nói chung và sử dụng tên định danh trong hoạt động quảng cáo nói riêng.
+
+
+
+Để tránh bị làm phiền từ các tin nhắn/cuộc gọi quảng cáo sử dụng brandname, người dùng có thể đăng ký vào danh sách không quảng cáo (DNC) theo các cách sau:– Để đăng ký, soạn tin nhắn theo cú pháp:DNCgửi5656– Để hủy đăng ký soạn tin nhắn theo cú pháp:HUY DNCgửi5656(Tất cả các tin nhắn gửi tới đầu số 5656 là miễn phí)
+
+Hoặc truy cập website:https://khongquangcao.ais.gov.vn/Bước 1:Nhập số thuê bao muốn đăng ký không nhận tin nhắn, cuộc gọi rác– ChọnĐĂNG KÝđể thực hiện đăng ký vào danh sách không quảng cáo– ChọnHỦY ĐĂNG KÝđể thực hiện rút khỏi danh sách không quảng cáoBước 2:Nhập mãOTPmà hệ thống gửi tin nhắn về cho thuê baoBước 3:Hệ thống thông báo kết quả xử lý

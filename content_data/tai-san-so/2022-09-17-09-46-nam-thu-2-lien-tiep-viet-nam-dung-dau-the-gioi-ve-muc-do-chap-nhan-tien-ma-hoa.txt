@@ -1,0 +1,13 @@
+Như vậy, trong 3 năm thực hiện nghiên cứu của Blockchain Chainalysis thì đây là năm thứ 2 liên tiếp (2021 và 2022) Việt Nam đứng đầu thế giới ở thứ hạng này.
+
+Chỉ số chấp nhận tiền mã hóa đo lường mức độ sử dụng tiền số của người dân thuộc 146 quốc gia trên thế giới.
+
+Theo Chainalysis, chỉ số được đánh giá dựa trên 5 khía cạnh gồm: (1), giá trị tiền mã hóa on-chain ghi nhận tại các sàn giao dịch tập trung tính theo sức mua tương đương (PPP) trên đầu người (đây là thước đo mức độ giàu có của mỗi người dân ở quốc gia, theo đó tỷ lệ giá trị trên chuỗi nhận được trên PPP bình quân đầu người càng cao thì xếp hạng càng cao); (2), giá trị bán lẻ on-chain tính theo PPP trên đầu người (ước tính hoạt động tiền điện tử của các cá nhân bằng cách đo lượng tiền điện tử được di chuyển trong các giao dịch bán lẻ, với giá trị tiền điện tử dưới 10.000 USD).
+
+(3), khối lượng giao dịch trao đổi ngang hàng (P2P) tính theo PPP trên đầu người và số lượng người dùng Internet; (4), giá trị tiền mã hóa on-chain ghi nhận từ các giao thức DeFi tính theo PPP trên đầu người; và (5), giá trị bán lẻ on-chain ghi nhận từ các giao thức DeFi tính theo PPP trên đầu người (chỉ số này xếp hạng mỗi quốc gia theo khối lượng giao dịch DeFi được thực hiện trong các chuyển khoản quy mô bán lẻ, có trọng số ưu tiên các quốc gia có PPP trên đầu người thấp hơn).
+
+Theo Chainalysis, để tính toán các chỉ số, công ty đã ước tính khối lượng giao dịch tiền điện tử của các quốc gia cho các dịch vụ và giao thức khác nhau dựa trên các mẫu lưu lượng truy cập website. Và dựa vào dữ liệu lưu lượng truy cập lên tới hàng trăm triệu giao dịch, việc người dùng sử dụng dịch vụ VPN để che giấu hoạt động trên Internet không đủ để gây sai lệch số liệu.
+
+Điểm tổng kết của quốc gia càng gần với 1, thứ hạng càng cao. Theo xếp hạng, Việt Nam là quốc gia duy nhất đạt mốc điểm này (mốc 1), các vị trí lần lượt tiếp theo thuộc về Philippines, Ukraine, Ấn Độ, Mỹ, Pakistan, Brazil, Thái Lan, Nga và Trung Quốc. Các khu vực có mức độ chấp nhận tiền mã hóa cao tập trung chủ yếu tại châu Á - Thái Bình Dương, châu Mỹ, Đông Âu và Trung Đông. Trong khi đó, khu vực Bắc Âu hay Trung Phi có mức độ chấp nhận thấp hơn.
+
+Chainalysis cho biết mức độ áp dụng toàn cầu đã chững lại trong năm ngoái sau khi tăng trưởng liên tục kể từ giữa năm 2019. Tuy nhiên, hoạt động giao dịch và sử dụng tiền mã hóa đã đạt mức cao nhất mọi thời đại hiện tại vào quý 2/2021. Nhưng thị trường đã chứng kiến đợt giảm mạnh vào quý 3 và phục hồi vào quý 4/2021. Dù vậy, hai quý gần đây (năm 2022) thị trường liên tục trong chiều hướng giảm sút cho dù theo Chainalysis, mức độ giao dịch tiền mã hóa toàn cầu vẫn cao hơn mức trước thị trường tăng giá 2019.

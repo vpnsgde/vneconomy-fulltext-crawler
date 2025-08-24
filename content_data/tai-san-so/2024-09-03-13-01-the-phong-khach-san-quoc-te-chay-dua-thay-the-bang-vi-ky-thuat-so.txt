@@ -1,0 +1,31 @@
+Theo theo CNBC, nhiều chuỗi khách sạn lớn đang lưu chìa khóa phòng vào ứng dụng ví điện tử của Apple và Google. Với tính năng này, khách hàng có thể vào phòng chỉ bằng cách chạm mặt sau của điện thoại vào đầu đọc gần tay nắm cửa.
+
+Khách sạn Harpeth Hotel (Mỹ) hiện cho phép khách làm thủ tục nhận phòng và lưu trữ chìa khóa trong ứng dụng ví Google hoặc Apple. Kimberly Elder, Giám đốc kinh doanh của khách sạn, cho biết: "Lợi ích của thủ tục nhận phòng kỹ thuật số là điện thoại chính là chìa khóa", tuy nhiên bà nói thêm rằng nhiều khách vẫn thích dùng thẻ chìa khóa bằng nhựa.
+
+Eli Fuchs, Giám đốc điều hành khu vực tại Valor Hospitality Partners cho biết kỹ thuật số là làn sóng tiếp theo trong công nghệ cửa phòng khách sạn: "Chìa khóa phòng khách sạn truyền thống đang dần biến mất".
+
+Các chuyên gia an ninh mạng coi thẻ khóa nhựa đang là công nghệ thấp và lỗi thời. Chad Spensky, Tổng giám đốc điều hành của Allthenticate, công ty phát triển giải pháp xác thực bằng điện thoại, cho rằng lợi ích thực sự của thẻ kỹ thuật số không phải tính bảo mật mà là sự tiện lợi. Yếu tố tiện lợi cho người tiêu dùng đang thúc đẩy các chuỗi khách sạn tiến đến chuyển đổi sang chìa khóa kỹ thuật số.
+
+“Khi phát hiện thẻ vật lý có lỗ hổng, không cách cách nào để vá lỗ hổng ngay lập tức, nhưng với điện thoại thông minh, các bản vá có thể được tung ra gần như ngay lập tức qua hệ thống", ông Chad Spensky nói.
+
+Tuy nhiên, một số chuyên gia an ninh cảnh báo rằng ngay cả các phương pháp khóa mới hơn cũng không phải là hoàn hảo.
+
+Lee Clark, Giám đốc tình báo về mối đe dọa mạng tại Trung tâm, chia sẻ và phân tích thông tin bán lẻ và khách sạn (RH-ISAC) cho biết: "Các hệ thống bảo mật mới vẫn có thể tạo ra các vectơ đe dọa hoàn toàn mới để quản lý hoạt động an ninh của khách sạn".
+
+Mặc dù ông cho biết những mối đe dọa này có thể được giảm thiểu thông qua các chính sách và cấu hình kiểm soát an ninh, chẳng hạn như xác thực đa yếu tố (MFA), nhưng đối với khách hàng bận rộn, quá trình xác thực có thể sẽ mang lại trải nghiệm không thật sự thoải mái đối với họ.
+
+Ông Lee Clark cho rằng rất khó để tất cả các khách sạn thay thế tất cả các thẻ vật lý bằng chìa khóa kỹ thuật số vì một số khách có thể thích thẻ vật lý hoặc có thể không có thiết bị cá nhân tương thích với hệ thống khóa kỹ thuật số. Ông Lee Clark cũng cho biết thêm: "Việc chuyển đổi sang hệ thống khóa kỹ thuật số và không cần chìa khóa sẽ tốn kém đáng kể về thiết bị, lắp đặt, bảo trì và an ninh".
+
+Dữ liệu từ nghiên cứu của J.D. Power về các khách sạn cho thấy chỉ có 14% tổng số khách hàng Mỹ sử dụng chìa khóa kỹ thuật số trong thời gian lưu trú tại khách sạn. Ngay cả những khách đã tải ứng dụng của thương hiệu xuống điện thoại của họ cũng sử dụng thẻ chìa khóa nhựa.
+
+Mặc dù khách hàng chậm áp dụng các tùy chọn kỹ thuật số, tuy nhiên, theo dữ liệu của J.D. Power, khách hàng vẫn cảm thấy “chìa khóa kỹ thuật số” an toàn hơn thẻ nhựa.
+
+Andrea Stokes, một chuyên viên tại J.D. Poơer, cho biết: “Khách sử dụng khóa kỹ thuật số đánh giá khách sạn sẽ an toàn hơn so với những khách sạn không sử dụng khóa kỹ thuật số”.
+
+GS. Mehmet Erdem, chủ nhiệm khoa quản lý khu nghỉ dưỡng, trò chơi và sân golf tại Cao đẳng Khách sạn William F. Harrah của Đại học Las Vegas, cảnh báo không có hệ thống nào là hoàn hảo và nhập dữ liệu kỹ thuật số cũng vậy.
+
+"Mọi thứ đều có thể bị hack, mọi thứ đều có thể bị xâm phạm. Nếu tin tặc muốn tấn công, điều đó vẫn có thể xảy ra”, GS. Mehmet Erdem cho biết.
+
+Vì vậy, GS. Mehmet Erdem cho biết không nên loại trừ thẻ khóa nhựa ngay. Có những thẻ khóa từ yêu cầu phải quẹt và thẻ nhận dạng tần số vô tuyến (RFID) mới hơn chỉ cần đặt gần hoặc có thể tải vào điện thoại. Erdem cho biết công nghệ RFID đang được cải tiến, giúp chìa khóa nhựa trở nên linh hoạt hơn.
+
+“Vì tính bền vững và chi phí, các khách sạn sẽ thúc đẩy ứng dụng di động. Mọi người quên ví, quên chứng minh nhân dân, nhưng họ sẽ không quên điện thoại”, GS. Mehmet Erdem cho biết, nhưng ông cũng nói thêm rằng một số người sẽ luôn thích chìa khóa nhựa vật lý.

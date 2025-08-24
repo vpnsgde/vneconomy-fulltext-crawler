@@ -1,0 +1,31 @@
+Sáng ngày 16/7/2025, Tạp chí Một Thế Giới phối hợp với Thời báo Ngân hàng tổ chức Diễn đàn Nhân lực ngành Ngân hàng trước làn sóng công nghệ với chủ đề “Ngân hàng thời đại số: Đổi mới mô hình và tái cấu trúc nhân lực”.
+
+Phát biểu khai mạc Diễn đàn, Phó Thống đốc Ngân hàng Nhà nước Phạm Tiến Dũng khẳng định nhân lực ngành Ngân hàng đã dần dịch chuyển. Nếu như trước đây đa số giao dịch là nhân viên ngân hàng tiếp xúc trực tiếp với khách hàng thì hiện nay các dịch vụ ngân hàng đã chuyển sang tự động.
+
+Thứ nhất,đối với kênh bán hàng, theo thống kê từ Ngân hàng Nhà nước, hiện nay trên 90% giao dịch của khách hàng thực hiện qua kênh số. Điều này đồng nghĩa không còn bất kể giao dịch viên nào, con người nào đọc chứng từ ngân hàng nữa
+
+Để thực hiện được điều đó, đòi hỏi ngành ngân hàng phải tái cấu trúc quy trình và xây dựng quy trình nghiệp vụ thông minh. Quan trọng là phải xây dựng một đội ngũ không chỉ thành thạo nghiệp vụ mà còn am hiểu công nghệ thông tin. Ngân hàng nào không làm được điều đó thì không tham gia được cuộc chơi, Phó Thống đốc Ngân hàng Nhà nước nhấn mạnh.
+
+Thứ hai,cán bộ ngân hàng trước kia rất hiểu về kế toán và công việc chính của họ là hạch toán. Tuy nhiên hiện nay máy tự động hạch toán ngay từ khâu quẹt tiền qua điện thoại trả tiền bán cá, bán rau... lập tức hệ thống trừ tiền của người mua hàng và chuyển qua người bán hàng. Thực tế khiến ngân hàng sinh ra đội ngũ nhân viên hoàn toàn khác trước đây.
+
+Thứ ba,theo thống kê mỗi ngày có 50-100 triệu giao dịch tài chính. Do đó, phải xây dựng hệ thống áp dụng AI, áp dụng công nghệ mới để  kiểm soát, phát hiện những lỗi về giao dịch.
+
+Theo thống kê từ Ngân hàng nhà nước, đến nay có gần 87% người Việt Nam trưởng thành có tài khoản ngân hàng. Giá trị thanh toán không dùng tiền mặt gấp 25 lần GDP 5 tháng đầu năm 2025, đặc biệt là giao dịch qua mã QR tăng tới 78,09% về số lượng và 216,24% về giá trị.
+
+Do sự gia tăng của khối lượng giao dịch và tài khoản, lãnh đạo Ngân hàng Nhà nước nhận định nhiều ngân hàng đang coi rủi ro về công nghệ thông tin tương tự như rủi ro về tín dụng.
+
+
+
+"Chưa bao giờ ngành ngân hàng khát nhân lực về an ninh công nghệ thông tin như hiện nay. Chúng ta thấy một bức tranh thay đổi hoàn toàn, từ tiếp xúc trực tiếp đến cách thức quản trị, cách thức giám sát, nhân lực, và đương nhiên phải thích nghi với thay đổi này".
+
+Chính vì vậy, một trong vấn đề đặt ra đối với ngành Ngân hàng trong bối cảnh chuyển đổi số mạnh mẽ đó chính là thiết hụt nguồn nhân lực.
+
+Ông Trần Văn Tùng, Chủ tịch Hội Thông tin Khoa học và Công nghệ Việt Nam, cho biết đây là một thực tế mà ngành Ngân hàng buộc phải đối mặt và thích nghi. Vấn đề này càng trở nên khó khăn hơn khi tự động hóa (RPA) đang thay thế hàng loạt vị trí truyền thống như giao dịch viên, kiểm soát nội bộ, thẩm định tín dụng.
+
+Trước thực trạng này, một trong những giải pháp quan trọng và cần tập trung là đào tạo và đào tạo lại đội ngũ nhân sự ngành Ngân hàng. "Chúng ta cần trang bị cho nhân lực những kiến thức mới, kỹ năng số, hiểu biết về công nghệ để có thể làm chủ và sử dụng hiệu quả các công cụ số như: chatbot, hệ thống phân tích dữ liệu", Chủ tịch Hội Thông tin Khoa học và Công nghệ Việt Nam, cho biết.
+
+Cũng liên quan đến đề xuất tăng nguồn nhân lực ngân hàng về công nghệ, Bà Phạm Thị Hoàng Anh, Phó Giám đốc Phụ trách Học viện Ngân hàng, cho biết nhu cầu nhân lực có chuyên môn sâu về công nghệ thông tin tăng lên rất mạnh.
+
+Nếu như năm 2018, ngành ngân hàng cần 320.000 nhân lực về công nghệ thì đến 2026, con số này là 750.000 người. Trong khi đó, tình trạng thiếu hụt nguồn cung đang xảy ra dù đây là nguồn nhân lực có ý nghĩa quyết định năng lực cạnh tranh của ngân hàng.
+
+Theo Phó Giám đốc Phụ trách Học viện Ngân hàng, để có được một nguồn cung nhân lực công nghệ đáp ứng đủ cầu trong ngành ngân hàng cần ban hành khung năng lực số cho ngành ngân hàng, tăng cường hợp tác theo “mô hình 3 nhà”: Ngân hàng nhà nước - Các cơ sở đào tạo - các cơ sở tài chính, khoa học công nghệ.

@@ -1,0 +1,65 @@
+Công nghệ ngày càng lan tỏa vào cuộc sống con người, người dùng càng cung cấp nhiều dữ liệu, dữ liệu cá nhân hơn lên không gian mạng. Các tổ chức, doanh nghiệp thanh toán trực tuyến, thương mại điện tử, bất động sản, bán lẻ… ngày càng sử dụng nhiều sản phẩm, dịch vụ phân tích dữ liệu khách hàng, dữ liệu cá nhân để tối đa hóa lợi nhuận. Tuy nhiên, mức độ phổ biến của dữ liệu trên không gian mạng tỷ lệ thuận với hậu quả xảy ra khi dữ liệu không được bảo vệ tương xứng, đúng cách.
+
+Theo báo cáo về tình hình nguy cơ mất an toàn thông tin tại Việt Nam 6 tháng đầu năm 2024 vừa công bố, hệ thống Viettel Threat Intelligence của Công ty An ninh mạng Viettel đã ghi nhận nhiều nguy cơ mất an toàn thông tin mới xuất hiện có ảnh hưởng tới các tổ chức, doanh nghiệp tại Việt Nam, trong đó nổi bật là lộ lọt, rò rỉ dữ liệu, thông tin cá nhân bị đánh cắp tăng mạnh so với cùng kỳ năm 2023.
+
+Trong nửa đầu năm 2024, Viettel Threat Intelligence ghi nhận hơn 61 triệu tài khoản bị lộ lọt, tăng 1,5 lần so với cùng kỳ năm 2023 (hơn 41 triệu tài khoản). Mạng xã hội, ngân hàng, giao dịch trực tuyến, giáo dục, y tế… là những lĩnh vực có số lượng bản ghi thông tin cá nhân bị đánh cắp nhiều.
+
+Đầu năm 2024 chứng kiến sự bùng nổ của việc rao bán thông tin người dùng, dữ liệu hệ thống cùng nhiều dữ liệu nhạy cảm của các doanh nghiêp lớn tại Việt Nam. Số lượng các vụ rao bán, chia sẻ dữ liệu nhạy cảm tăng vọt vào tháng 5 và tháng 6. Nửa đầu năm 2024 ghi nhận 46 vụ lộ lọt dữ liệu tại Việt Nam với khoảng 13 triệu bản ghi dữ liệu khách hàng, 12,3 GB mã nguồn, 16 GB dữ liệu.
+
+Việc lộ lọt dữ liệu cũng có nguyên nhân do vô tình tải lên các nền tảng công khai. Trong 6 tháng đầu năm 2024, đã phát hiện nhiều trường hợp lộ lọt dữ liệu, trong đó có 7 trường hợp mức độ cao liên quan tới lĩnh vực ngân hàng và công nghệ.
+
+Theo Trung tâm An ninh mạng VNPT, 6 tháng đầu năm 2024, Việt Nam thuộc nhóm 10 nước bị tấn công mã hóa dữ liệu tống tiền (ransomware) nhiều nhất thế giới. Những lĩnh vực bị tấn công đánh cắp dữ liệu nhiều nhất là sản xuất tiêu dùng, y tế, tài chính, giáo dục. Điển hình như một doanh nghiệp ví điện tử lớn bị rao bán 58.000 thông tin; một hệ thống y tế bị rao bán 257.000 thông tin; hay một trường đại học bị lộ lọt 15.000 thông tin sinh viên; hoặc một công ty điện máy lớn bị rao bán 83.000 dữ liệu khách hàng…
+
+Diễn biến phức tạp của tình trạng lộ lọt, mua bán dữ liệu cũng được nhấn mạnh tại hội thảo “An ninh dữ liệu trên không gian mạng” mới đây. Theo Trung tướng Nguyễn Minh Chính, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm phạm sử dụng công nghệ cao (Bộ Công an), Phó Chủ tịch Thường trực Hiệp hội An ninh mạng quốc gia, tình trạng lộ dữ liệu cá nhân diễn ra phổ biến trên không gian mạng. Người sử dụng chưa có ý thức bảo vệ dữ liệu cá nhân, đăng tải công khai hoặc lộ trong quá trình chuyển giao, lưu trữ, trao đổi phục vụ hoạt động kinh doanh hoặc do biện pháp bảo vệ không tương xứng dẫn tới bị chiếm đoạt và đăng tải công khai.
+
+Các công ty kinh doanh dịch vụ có thu thập dữ liệu cá nhân của khách hàng, cho phép các đối tác thứ ba tiếp cận thông tin dữ liệu cá nhân nhưng không có yêu cầu, quy định chặt chẽ, để đối tác thứ ba chuyển giao, buôn bán cho đối tác khác.
+
+Các doanh nghiệp chủ động thu thập thông tin cá nhân của khách hàng, hình thành kho dữ liệu cá nhân, phân tích, xử lý các loại dữ liệu đó để tiến hành kinh doanh, buôn bán. Việc buôn bán dữ liệu cá nhân được tiến hành có hệ thống, có tổ chức, cam kết “bảo hành” và có khả năng cập nhật dữ liệu, trích xuất dữ liệu theo yêu cầu người mua. Nhiều dữ liệu bị rao bán công khai, trong thời gian dài, với số lượng lớn trên không gian mạng.
+
+Việc mua bán dữ liệu cá nhân không chỉ diễn ra đơn lẻ, giữa cá nhân với cá nhân, mà còn có sự tham gia của các công ty, tổ chức, doanh nghiệp. Một số công ty được thành lập mới, đầu tư xây dựng, vận hành các hệ thống kỹ thuật chuyên thu thập trái phép dữ liệu cá nhân để kinh doanh thu lợi nhuận...
+
+Thời gian gần đây, Bộ Công an phát hiện hàng trăm cá nhân, tổ chức liên quan bán dữ liệu cá nhân. Một số đường dây chiếm đoạt, mua bán dữ liệu quy mô lớn tại Việt Nam đã bị phát hiện, đấu tranh, xử lý. Số lượng dữ liệu cá nhân bị thu thập, mua bán trái phép phát hiện được lên tới hàng nghìn GB dữ liệu, trong đó có nhiều dữ liệu cá nhân nội bộ, nhạy cảm.
+
+Về những thách thức mới trong bảo vệ an ninh dữ liệu cá nhân, ông Lê Quang Hà, Phó Giám đốc phụ trách công nghê, Công ty An ninh mạng Viettel nhận xét: các hình thức tấn công đe dọa trên không gian mạng đang ngày càng phức tạp.
+
+Liên quan đến an ninh và lộ lọt dữ liệu, bên cạnh mã hóa dữ liệu, tấn công APT, một vấn đề nhức nhối khác là các nguy cơ từ nội bộ. Thống kê có đến 74% các vụ lộ lọt dữ liệu liên quan đến vấn đề con người trong nội bộ, từ việc vô ý lộ lọt đến cố ý bán dữ liệu ra bên ngoài hoặc bị làm bàn đạp tấn công xâm nhập để hacker lấy dữ liệu.
+
+Dữ liệu trên không gian mạng hiện nay đang phải đối mặt với các nguy cơ: vô ý lộ lọt, rò rỉ dữ liệu, cho đến cố ý trục lợi, mua bán dữ liệu, tấn công từ bên ngoài vào để đánh cắp, mã hóa dữ liệu... Vấn đề này gây nhiều hệ lụy, hậu quả từ cuộc gọi rác, tin nhắn rác, thư rác đến việc lừa đảo người dùng trên không gian mạng dựa trên các dữ liệu cá nhân đã bị lộ lọt, đánh cắp.
+
+Bên cạnh dữ liệu cá nhân, dữ liệu của các cơ quan tổ chức, dữ liệu quan trọng cũng bị rò rỉ. Nhiều tổ chức, doanh nghiệp bị tấn công mã hóa dữ liệu gây đình trệ hoạt động, thiệt hại về kinh tế, mất tiền, ảnh hưởng đến danh dự và uy tín.
+
+Với thực trạng này, các chuyên gia cho rằng cần có giải pháp để ngăn chặn các cuộc tấn công gây phá hủy hoặc rò rỉ, lộ lọt dữ liệu quan trọng của các tổ chức, cá nhân. Đồng thời phải ngăn chặn được các hành động cố ý trục lợi hoặc vô ý xâm phạm dữ liệu cá nhân, tổ chức.
+
+Tuy nhiên, theo ông Hà, để giải quyết hai vấn đề này phải đối mặt với những thách thức lớn về tính đặc thù của dữ liệu số, không gian mạng và các công nghệ mới; tính tuân thủ chính sách, quy định pháp luật...
+
+Thứ nhất,đặc thù của dữ liệu số và không gian mạng. Dữ liệu số là loại tài sản có thể dễ dàng nhân bản, sao chép trái phép. Ngoài ra, đặc thù không gian mạng là xuyên biên giới, ẩn danh, tức thì và dễ giả mạo. Do đó, người dùng không chỉ đối mặt với tội phạm mạng trong nước mà cả hacker xuyên biên giới, có tổ chức, có kỹ thuật cao.
+
+Thứ hai,sự phát triển của công nghệ mới như AI, Cloud…mang lại nhiều lợi ích nhưng sự thích ứng và dịch chuyển an toàn thông tin của nhiều tổ chức còn độ trễ. Chính sự không đồng tốc giữa an toàn thông tin và các công nghệ mới đã tạo ra khoảng trống, để tội phạm mạng lợi dụng, tấn công, gây lộ lọt dữ liệu.
+
+Thứ ba,việc tuân thủ các chính sách pháp luật về bảo vệ dữ liệu và an toàn thông tin. Việt Nam đã có các quy định pháp luật về an toàn thông tin và bảo vệ dữ liệu, nằm trong nhóm 71% các quốc gia đã có các quy định về bảo vệ dữ liệu cá nhân. Tuy nhiên, nhiều đơn vị gặp khó khi hiểu đúng và triển khai đầy đủ, thực chất các quy định pháp luật này.
+
+Thứ tư,nhận thức, kỹ năng tự bảo vệ an toàn trên không gian mạng của người dùng còn hạn chế. Trong 13 triệu bản ghi dữ liệu khách hàng được rao bán trên không gian mạng có nhiều dữ liệu bị lấy cắp bởi mã độc đã được cài đặt trên máy tính cá nhân do cài đặt phần mềm không an toàn.
+
+Người dùng cũng thiếu thận trọng trong bảo vệ thông tin cá nhân, dễ dàng bị thao túng trên không gian mạng, thiếu hiểu biết về luật pháp an toàn thông tin, bảo vệ dữ liệu cá nhân, không hiểu quyền của mình với dữ liệu…
+
+Theo ông Hà, muốn chuyển đổi số bền vững cần phải chuyển đổi an toàn thông tin tốt, cần sử dụng các công nghệ để giải quyết các thách thức của công nghệ tạo ra. Bên cạnh đó cần phải tuân thủ các quy định pháp luật và chính sách bảo vệ dữ liệu cá nhân và đảm bảo an toàn thông tin. Nâng cao nhận thức pháp luật và kỹ năng bảo vệ an toàn trên không gian mạng cho người dùng, nhận diện được các hình thức lừa đảo để có biện pháp phòng tránh.
+
+Bên cạnh đó, một trong các giải pháp hiệu quả trong phòng chống tấn công từ sớm chính là việc tăng cường chia sẻ thông tin, phát hiện dữ liệu lộ lọt và các nguy cơ an ninh mạng mới.
+
+
+
+
+
+Các chuyên gia an ninh mạng cho rằng doanh nghiệp cần thường xuyên đào tạo và nâng cao nhận thức về an ninh mạng bởi con người vẫn là điểm yếu nhất của các tổ chức; đồng thời phải kiểm soát, giám sát tuân thủ.
+
+Về phía Nhà nước cần đảm bảo tính nhất quán và đồng bộ giữa các quy định pháp luật; tương đồng với luật pháp quốc tế.
+
+Theo thống kê, đến nay đã có hơn 140 quốc gia ban hành văn bản quy phạm pháp luật về bảo vệ dữ liệu cá nhân, gần nhất là Ấn Độ và Thái Lan. Năm 2018, Quy định về bảo vệ dữ liệu cá nhân tại Liên minh châu Âu (EU) chính thức có hiệu lực, quy định chặt chẽ về bảo vệ dữ liệu cá nhân của các quốc gia thành viên...
+
+Tại Việt Nam, trong thời gian qua, Đảng, Nhà nước đã ban hành và lãnh đạo tổ chức thực hiện nhiều chủ trương, chính sách tạo nền tảng và cơ sở tham gia cách mạng công nghiệp lần thứ tư.
+
+Chuyển đổi số được Đại hội Đảng lần thứ XIII xác định là một trong những nhiệm vụ trọng tâm. Nhiều chủ trương, giải pháp đẩy mạnh ứng dụng khoa học, công nghệ phục vụ công cuộc chuyển đổi số quốc gia, xây dựng Chính phủ điện tử, Chính phủ số, kinh tế số, xã hội số đã được ban hành…
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 34-2024 phát hành ngày 19/08/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

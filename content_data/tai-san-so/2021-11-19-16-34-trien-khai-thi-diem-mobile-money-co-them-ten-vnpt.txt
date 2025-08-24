@@ -1,0 +1,21 @@
+Quyết định do Phó Thống đốc Ngân hàng Nhà nước Phạm Tiến Dũng cấp phép ngày 19/11.
+
+Như vậy hai nhà mạng MobiFone và VNPT-VinaPhone đã chính thức được Ngân hàng Nhà nước Việt Nam chấp thuận triển khai thí điểm dùng tài khoản viễn thông thanh toán cho các hàng hóa, dịch vụ có giá trị nhỏ (Mobile Money).
+
+Đối với nhà mạng lớn còn lại - Viettel, theo tìm hiểu, Viettel dự kiến sẽ được cơ quan chức năng cấp phép triển khai thí điểm dịch vụ Mobile Money vào tuần sau.
+
+Ngay sau khi được cấp phép, trong thông tin mới phát ra VNPT-VinaPhone cho biết sẽ hướng dẫn khách hàng đủ điều kiện đăng ký sử dụng dịch vụ Mobile Money.
+
+Để sử dụng thanh toán bằng Mobile Money, các thuê bao chỉ cần đăng ký dịch vụ là có thể nạp, rút tiền, thanh toán tiêu dùng nhỏ lẻ, thanh toán trực tuyến, thanh toán qua mã QR và chuyển tiền bằng tài khoản Mobile Money mà không cần đến tài khoản ngân hàng.
+
+Ngoài ra, người dùng mạng Vinaphone có thể cài đặt ứng dụng VNPT Pay có sẵn trên các chợ ứng dụng hoặc có thể sử dụng qua tin nhắn điện thoại ngay cả khi không có 3G/4G. Việc chuyển tiền cũng dễ dàng khi chỉ cần nhớ số điện thoại của người nhận, có thể chuyển tiền qua lại tới mọi tài khoản ngân hàng và hàng triệu ví điện tử VNPT Pay.
+
+Được biết, tài khoản Mobile Money của VNPT được quản lý trên các hệ thống hạ tầng kỹ thuật an toàn, đạt các tiêu chuẩn bảo mật quốc tế như PCI-DSS. Tiền trong tài khoản Mobile Money cũng được Ngân hàng nhà nước Việt Nam bảo đảm bằng các quy định như đối với tài khoản ngân hàng.
+
+Trước đó ngày 18/11,nhà mạng MobiFone cũng cho biết đã được Ngân hàng Nhà nước ký quyết định 1818/QĐ-NHNN viêc triển khai thí điểm cung cấp dịch vụ Mobile Moneytrên phạm vi toàn quốc, thời gian thí điểm đến ngày 18/11/2023.
+
+Theo thống kê hiện nay hơn 50% dân số Việt Nam chưa có tài khoản thanh toán tại ngân hàng. Mobile Money sẽ là giải pháp đưa họ tiếp cận tới các dịch vụ (có trả phí) mang tính đổi đời trên nền tảng Internet như y tế, giáo dục, tài chính, việc làm, an sinh xã hội…
+
+Đặc biệt, với người dân nông thôn, nhờ Mobile Money, họ sẽ được trải nghiệm việc mua sắm tiện ích và phương thức thanh toán nhanh, chính xác, hạn chế tiền mặt và phù hợp với mua sắm online nhỏ, lẻ.
+
+Việc Chính phủ cho phép thí điểm Mobile Money sẽ mở ra chính sách Sandbox cho hàng loạt dịch vụ và ngành nghề mới được cung cấp sớm trong xã hội số.

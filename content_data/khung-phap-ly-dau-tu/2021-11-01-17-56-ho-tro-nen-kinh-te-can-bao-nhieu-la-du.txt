@@ -1,0 +1,37 @@
+Các cơ quan hoạch định chính sách ở Việt Nam mỗi khi đưa ra các con số thường không có tài liệu kỹ thuật kèm theo.
+
+Vì thế những người quan tâm không biết các tính toán này dựa trên mô hình, giả định, dữ liệu nào. Ví dụ, vì sao gói kích thích kinh tế là 800.000 tỷ đồng mà không phải là một con số khác?
+
+Mỗi nền kinh tế có một mô hình tăng trưởng khác nhau, và cần được kiểm định lại với các dữ liệu trong quá khứ. Quan trọng nhất trong đó là hàm sản xuất của cả nền kinh tế là theo mô hình lý thuyết nền tảng nào. Bởi vì GDP (Y) của một nền kinh tế là phụ thuộc vào các biến số như tiêu dùng (C), đầu tư (I), chi tiêu của chính phủ (G) và xuất nhập khẩu (X-M).
+
+Rồi từ đó, thay đổi của nhu cầu vốn (K) có mối quan hệ như thế nào với thay đổi của GDP (Y), hay nói cách khác nếu biết sự thay đổi của Y chúng ta có thể tính toán được sự thay đổi của K. Chẳng hạn, nếu muốn trong ngắn hạn GDP tăng trưởng x% thì sẽ tính được con số cụ thể của lượng vốn cần thiết.
+
+Các cơ quan hoạch định chính sách có thể có mô hình và cách tính riêng của mình, nhưng vì không tiếp cận được nên người viết đã tham khảo một nghiên cứu  của GS. Lê Văn Cường và các đồng tác giả năm 2019 để ước tính nhu cầu vốn là bao nhiêu khi Chính phủ đặt ra mục tiêu tăng trưởng GDP.
+
+Với dữ liệu giai đoạn 2005-2017, nhóm tác giả đã phát hiện ra rằng hàm sản xuất của nền kinh tế Việt Nam là một dạng đặc biệt, là hàm Leontief. Từ đó, với các giả định về tỷ lệ khấu hao tài sản từ 5-7%, tốc độ tăng trưởng năm 2018 đã có cũng như tỷ lệ đầu tư, TFP của Việt Nam tính toán được là 0,36-0,40, và hệ số vốn (v) là 2,8.
+
+Ở một cách tiếp cận khác, nếu cần tăng trưởng của quý IV/2021 là 8% để kéo tăng trưởng cả năm là 3% sau khi quý III/2021 bị âm 6,17% thì chi tiêu của Chính phủ cũng phải ở mức xoay quanh 8% GDP là tối đa, với giả định hỗ trợ cho người dân là 4% và doanh nghiệp là 4% (trường hợp doanh nghiệp kiệt quệ hoàn toàn).
+
+Lý do phải hỗ trợ cả người dân và doanh nghiệp để kinh tế phục hồi là bởi vì GDP còn phụ thuộc vào chi tiêu của người dân, nếu chỉ hỗ trợ doanh nghiệp mà không tăng khả năng chi tiêu của người dân thì nền kinh tế cũng không thể hấp thụ hết lượng hàng hóa dịch vụ được cung ứng.
+
+Mặc dù đã có nhiều cố gắng nhưng nghiên cứu của nhóm tác giả nói trên vẫn còn một số điểm yếu cần khắc phục.
+
+Vấn đề khó khăn nhất của nghiên cứu là có đủ nguồn dữ liệu để kiểm chứng lại tính hiệu quả của mô hình. Chẳng hạn để tăng sự chắc chắn hàm sản xuất của Việt Nam là Leontief thì cần phải có dữ liệu đầy đủ, tương đối chính xác về lương (wage), vốn (captial stock) và lao động (labor).
+
+Nhưng cái khó là sự tồn tại chênh lệch giữa lương danh nghĩa và thu nhập thực tế của một bộ phận không nhỏ lao động ở Việt Nam. Ngay cả trong trường hợp có số liệu về thu nhập thì số liệu chưa được tổng hợp và công bố hàng năm.
+
+Các nhóm nghiên cứu ở các cơ quan hoạch định chính sách có thể có nhiều nguồn dữ liệu hơn nhưng người viết có cảm giác các dữ liệu này đang rời rạc và chưa được thống kê theo đúng chuẩn để có thể chia sẻ, sử dụng lại cho nhiều mục đích khác nhau.
+
+Đây cũng là một trách nhiệm rất lớn của Tổng cục Thống kê, vì nếu dữ liệu không đủ, không đúng, thì khó có thể kết luận được mô hình nào là tốt hơn. Mà nếu mô hình không được kiểm định chặt chẽ (robust test) thì có khả năng bị sai sót, kéo theo các mô phỏng hay ước lượng sẽ không còn giá trị. Tuy vậy, vấn đề dữ liệu thống kê kinh tế của Việt Nam cho đến nay vẫn là nỗi niềm của nhiều người làm nghiên cứu, chuyên gia kinh tế.
+
+Việc tính toán tương đối chính xác nhu cầu vốn để kích thích nền kinh tế là rất quan trọng bởi vì quy mô nền kinh tế của Việt nam còn nhỏ, có nhiều ràng buộc khác. Không có khả năng vung tay chi thoải mái như một số quốc gia khác nhưng nếu liều lượng không đủ thì hiệu quả cũng không đạt được như mong muốn, có khi còn rơi vào tình trạng “đá ném ao bèo”.
+
+Mà ngay cả trong trường hợp đã ước lượng được nguồn vốn cần thiết thì vẫn còn nhiều câu hỏi quan trọng ở các bước tiếp theo: nguồn lực sẽ lấy từ đâu, có tiền như phần cứng nhưng phần mềm là thể chế kinh tế có tích hợp được với nhau, và rồi việc phân bổ thực hiện như thế nào để nguồn lực đến kịp thời, đến đúng đối tượng cần nhận hỗ trợ?
+
+Nhiều nền kinh tế khác trên thế giới có thể nói là đã khống chế được dịch bệnh và đã bắt đầu quá trình hồi phục nền kinh tế. Kinh nghiệm của các nước này cũng đã được tổng kết và chia sẻ, thông qua các định chế quốc tế như IMF, WB, OECD... Việt Nam đã rất thành công trong giai đoạn đầu chống lại dịch bệnh nhưng những diễn biến phức tạp đã khiến cho Việt Nam gặp rất nhiều khó khăn ở giai đoạn này.
+
+Gói kích thích kinh tế lớn là điều cần phải làm sớm lúc này, và cần phải ước lượng được liều lượng phù hợp. Những lo ngại về lạm phát, nguồn vốn sử dụng không hiệu quả lúc này không quan trọng bằng vực dậy doanh nghiệp, vực dậy nền kinh tế.
+
+Một khi doanh nghiệp được khỏe lại, nền kinh tế lấy lại đà thì việc xử lý lạm phát hay những sai phạm là trong khả năng. Vì Việt Nam gần đây đã từng có kinh nghiệm với giai đoạn 2011-2012. Điều quan trọng là thông tin đến với người dân, doanh nghiệp, và những người đại diện thực thi một cách nhất quán, rõ ràng về chương trình hành động, những khích lệ và những biện pháp mạnh xử lý các sai phạm.
+
+(*) Trường Đại học Kinh tế TP.HCM, IPAG Business School và AVSE Global

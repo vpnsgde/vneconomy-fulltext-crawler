@@ -1,0 +1,19 @@
+Viettel Threat Intelligence (VTI) vừa công bố báo cáo cập nhật về tình trạng lừa đảo và gian lận tài chính tại Việt Nam trong 6 tháng đầu năm 2025.
+
+Cụ thể, VTI ghi nhận 4.532 tên miền lừa đảo nhắm đến người dùng và khách hàng của các tổ chức lớn tại Việt Nam, tăng hơn 90% so với cùng kỳ năm 2024. Đáng chú ý, các hình thức lừa đảo không còn chỉ tập trung vào người dùng dịch vụ tài chính – ngân hàng mà đang mở rộng sang nhóm đối tượng mới.
+
+Kẻ tấn công chuyển hướng sang người dùng dịch vụ công bằng cách giả mạo cơ quan chức năng, đồng thời gia tăng hoạt động nhắm vào lĩnh vực bán lẻ – thương mại điện tử, năng lượng và vận tải. Mức độ chuyên nghiệp trong việc thiết kế giao diện và kịch bản lừa đảo cho thấy đây không còn là những vụ việc đơn lẻ mà là chiến dịch có tổ chức rõ ràng.
+
+Theo thống kê, ngành tài chính – ngân hàng tiếp tục là mục tiêu hàng đầu với tỷ lệ bị tấn công lên đến 41,18%; dịch vụ công và bán lẻ, thương mại điện tử mỗi ngành chiếm 17,65%, còn lại 23,53% thuộc về các lĩnh vực khác.
+
+Tổng cộng, trong 6 tháng đầu năm, VTI ghi nhận 18 chiến dịch lừa đảo quy mô, với nhiều thủ đoạn táo tợn. Nổi bật trong số này là các chiến dịch giả mạo dịch vụ tín dụng để lừa người dùng cung cấp thông tin cá nhân, hoặc giả danh cơ quan chức năng nhằm dụ cài đặt ứng dụng Android độc hại lên thiết bị di động.
+
+Một số chiến dịch khác đánh vào tâm lý lo lắng của người dân bằng cách mạo danh nhân viên giao hàng, nhân viên điện lực hoặc tung tin tuyển dụng giả nhằm chiếm đoạt thông tin. Hình thức tấn công phổ biến nhất vẫn là gửi liên kết giả mạo kèm theo thông tin lừa đảo, với mục đích dẫn dụ người dùng nhập dữ liệu cá nhân hoặc vô tình cài đặt phần mềm độc hại.
+
+Hệ thống tài chính – ngân hàng tiếp tục là tâm điểm bị tấn công. Các phương thức hiện tại ngày càng tinh vi, từ khai thác lỗ hổng bảo mật, phát tán mã độc tống tiền (ransomware), tấn công từ chối dịch vụ (DDoS), sử dụng công nghệ deepfake để lừa đảo, cho tới các vụ rò rỉ dữ liệu nhạy cảm. Những nền tảng bị nhắm đến nhiều nhất là ngân hàng trực tuyến, ví điện tử, cổng thanh toán kỹ thuật số và dịch vụ tài chính công.
+
+Đáng lo ngại hơn, báo cáo của VTI chỉ ra rằng trong thời gian tới, các công cụ trí tuệ nhân tạo (AI) và deepfake sẽ đóng vai trò then chốt trong việc thúc đẩy làn sóng tấn công mạng tinh vi hơn. Đối với lĩnh vực lừa đảo chiếm đoạt thông tin (phishing), AI sẽ được dùng để tự động hóa toàn diện các chiến dịch.
+
+Những thủ đoạn như gửi email, tin nhắn SMS giả, gọi điện giả (vishing) hoặc video/giọng nói giả dạng bằng deepfake sẽ ngày càng được cá nhân hóa dựa trên dữ liệu thu thập từ mạng xã hội. Khi đó, cả người dùng lẫn các hệ thống bảo mật truyền thống sẽ gặp khó khăn trong việc nhận diện, dẫn đến nguy cơ bị đánh lừa cao hơn.
+
+Ở mảng mã độc, các nhóm tấn công có thể tận dụng AI để tạo ra loại mã độc mới có khả năng thay đổi hành vi theo thời gian nhằm né tránh các hệ thống phòng vệ như phần mềm diệt virus, hệ thống phát hiện và phản ứng điểm cuối (EDR) hoặc sandbox. Với sự hỗ trợ từ AI, chi phí tạo và triển khai mã độc giảm mạnh, mở đường cho khả năng bùng phát các chiến dịch phát tán mã độc trên diện rộng.

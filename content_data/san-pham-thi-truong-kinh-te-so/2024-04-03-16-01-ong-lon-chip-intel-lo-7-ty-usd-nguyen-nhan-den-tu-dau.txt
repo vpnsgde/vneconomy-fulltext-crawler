@@ -1,0 +1,25 @@
+Tập đoàn Intel mới đây đã công bố khoản lỗ 7 tỷ USD trong năm 2023 ở mảng kinh doanh xưởng đúc, một đòn giáng mạnh vào nhà sản xuất chip Hoa Kỳ khi họ đang nỗ lực giành lại vị trí dẫn đầu ngành công nghệ khi đã đánh mất vào tay nhà sản xuất chất bán dẫn Đài Loan TSMC.
+
+Khoản lỗ tương đương với mức tăng 34% so với năm trước đó. Về doanh thu của Intel đạt 18,9 tỷ USD trong năm 2023, giảm 31% so với 27,49 tỷ USD trong năm trước đó.
+
+Ngay sau khi tài liệu được nộp lên Ủy ban Chứng khoán và Giao dịch Hoa Kỳ (SEC), cổ phiếu của Intel đã giảm 4,3%.
+
+Bình luận về kết quả kinh doanh này, Giám đốc điều hành Pat Gelsinger cho biết năm 2024 sẽ là năm hoạt động thua lỗ tồi tệ nhất đối với mảng kinh doanh sản xuất chip của công ty và dự kiến sẽ đạt điểm hòa vốn vào khoảng năm 2027.
+
+Ông cho biết thêm rằng kết quả thua lỗ này không phải là điều hoàn toàn bất ngờ. Gelsinger cho biết những con số mới nhất này một phần là kết quả của những sai lầm trong quá khứ của Intel trong việc xử lý hoạt động kinh doanh xưởng đúc của mình, khiến nhà sản xuất chip này phải gia công khoảng 30% tổng sản lượng wafer (đĩa bán dẫn) của mình cho các xưởng đúc khác, bao gồm cả TSMC - một trong những đối thủ cạnh tranh lớn nhất của Intel hiện nay.
+
+Hiện tại Intel đã đầu tư sử dụng máy cực tím (EUV) của công ty ASML của Hà Lan, trong khi trước đó họ quyết định không thực hiện biện pháp này. Ông Gelsinger hy vọng tính hiệu quả về mặt chi phí của những công cụ đó sẽ giúp Intel hòa vốn vào năm 2027. ASML cũng thông báo trên trang web của mình rằng công nghệ của họ giúp việc mở rộng quy mô sản xuất chip máy tính trở nên hợp lý hơn đối với các xưởng đúc chip như Intel.
+
+Tổng cộng, Intel có kế hoạch chi khoảng 100 tỷ USD để xây dựng hoặc mở rộng các xưởng đúc chip của mình ở bốn bang. Họ cũng sẽ nhận được khoản tài trợ lên tới 8,5 tỷ USD từ chính phủ Hoa Kỳ như một phần của Đạo luật CHIPS mới.
+
+Để mọi thứ có thể diễn ra theo đúng kế hoạch, Intel sẽ cần thuyết phục các công ty sử dụng dịch vụ sản xuất chip của mình. Microsoft gần đây đã đăng ký với tư cách là khách hàng của xưởng đúc, nhưng không rõ Intel sẽ cần thêm bao nhiêu công ty nữa để hòa vốn theo kế hoạch trong vài năm tới.
+
+Bên cạnh đó, Intel cũng tiết lộ với các nhà đầu tư rằng họ sẽ bắt đầu báo cáo kết quả hoạt động sản xuất của mình dưới dạng một đơn vị độc lập. Công ty đã đầu tư rất nhiều để bắt kịp các đối thủ sản xuất chip chính của mình như TSMC và Samsung Electronics Co.
+
+Tại Việt Nam, Intel bắt đầu gia nhập nước ta với nhà máy sản xuất và kiểm định chip tại Khu công nghệ cao TP.HCM. Sau khoản đầu tư thêm 475 triệu USD đầu năm 2021, tính đến nay, tổng vốn đầu tư của Tập đoàn vào Việt Nam là 1,5 tỷ USD.
+
+Intel Products Việt Nam là một trong 10 địa điểm sản xuất của Intel trên toàn cầu. Tính từ năm 2010 đến nay, Tập đoàn này đã xuất khẩu 85 tỷ USD sản phẩm sản xuất tại Việt Nam ra thế giới. Riêng trong năm 2023, tổng kim ngạch xuất khẩu của Intel ước đạt 10 - 11 tỷ USD.
+
+Tháng 11/2023, trước thông tin Intel tạm hoãn kế hoạch đầu tư vào Việt Nam, đại diện truyền thông của Intel Products Việt Nam từ chối bình luận, và chỉ cho biết “Việt Nam là một phần quan trọng trong hoạt động sản xuất toàn cầu của Intel… Intel rất vui được hỗ trợ phát triển hệ sinh thái công nghệ rộng lớn, lực lượng lao động Việt Nam và mong muốn tiếp tục thực hiện việc này trong thời gian tới”.
+
+Hiện ngoài Intel, các tập đoàn đa quốc gia khác đổ cũng đang đổ vốn vào ngành bán dẫn Việt Nam phải kể đến như Samsung, Qualcomm, Texas Instruments, SK Hynix, Hayward Quartz Technology, Synopsys và NXP Semiconductors.

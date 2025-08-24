@@ -1,0 +1,21 @@
+Ngày 3/7, Cơ quan Cảnh sát điều tra Công an tỉnh Bắc Ninh vừa phá thành công Chuyên án, ra quyết định khởi tố vụ án, khởi tố bị can đối với nhóm 4 đối tượng ở tỉnh Nghệ An và tỉnh Thanh Hóa về hành vi “Lừa đảo chiếm đoạt tài sản” qua hình thức truy cập trái phép tài khoản của người dùng ứng dụng Binance.
+
+Trước đó, qua công tác nắm tình hình và chủ động triển khai các biện pháp công tác,  Phòng An ninh mạng và phòng chống tội phạm sử dụng Công nghệ cao Công an tỉnh Bắc Ninh đã phát hiện tài khoản “HOANG_COIN_247” có dấu hiệu lừa đảo, truy cập trái phép tài khoản để chiếm đoạt tài sản của người dùng ứng dụng Binance. Tiến hành xác minh, điều tra, cơ quan Công an đã làm rõ 4 đối tượng.
+
+Chủ mưu, cầm đầu là Nguyễn Đức Hùng, 25 tuổi, ở huyện Nghĩa Đàn, tỉnh Nghệ An. Bước đầu đấu tranh, cơ quan Công an làm rõ, Hùng học được cách thức truy cập trái phép tài khoản của người dùng trên sàn giao dịch tiền điện tử Binance.com trên mạng xã hội, rồi mua những tài khoản Binance sau đó gắn thông tin số điện thoại (sim rác) để làm phương thức liên lạc và cài đặt liên kết với tài khoản ngân hàng (không chính chủ) để làm phương thức thanh toán.
+
+Sau khi hoàn thiện tài khoản này, nhóm của Hùng truy cập vào website Binance.com, đặt lệnh mua một lượng tiền điện tử (USDT) nhất định rồi nhanh chóng chào bán trên sàn này với giá rẻ nhằm thu hút người mua.
+
+Khi có người mua USDT do Hùng rao bán, Hùng gửi tin nhắn không xác nhận mã lệnh giao dịch chuyển USDT để người mua lầm tưởng là giao dịch bị có lỗi. Từ đó yêu cầu người mua quét vào mã QR do Hùng cung cấp để hỗ trợ cài đặt lệnh chuyển USDT thủ công.
+
+Khi người mua click vào tài khoản QR, ngay lập tức bị nhóm Hùng chiếm quyền điều khiển tài khoản rồi vào rút tất cả tiền điện tử trong ví của tài khoản và đặt lệnh bán toàn bộ số USDT đó.
+
+Cùng thực hiện hành vi với Hùng có Hoàng Đình Tài, 27 tuổi, ở huyện Nghĩa Đàn; Nguyễn Phùng Hoàng, 22 tuổi, ở huyện Thanh Chương, tỉnh Nghệ An và Nguyễn Anh Tuấn, 26 tuổi, ở huyện Như Xuân, tỉnh Thanh Hóa.
+
+Từ đầu năm 2024 đến nay, với thủ đoạn trên, bước đầu các đối tượng khai nhận đã thực hiện trót lọt hơn 50 vụ, chiếm đoạt khoảng 10 tỷ đồng của nhiều bị hại ở các tỉnh, thành trên toàn quốc, trong đó có 1 bị hại ở tỉnh Bắc Ninh. Số tiền chiếm đoạt được, các các đối tượng đặt cọc mua ô tô, nạp tiền game và chi tiêu cá nhân .
+
+Kết quả kiểm tra, khám xét: thu giữ 06 điện thoại di động; 04 máy tính xách tay; 03 USB; 130.000.000 đồng tiền mặt và 37 tài khoản ngân hàng các loại. Phong tỏa 01 tài khoản ngân hàng, tạm dừng giao dịch mua bán xe ô tô với tổng số tiền hơn 1 tỷ đồng.
+
+Đấu tranh với các loại tội phạm trên không gian mạng đang thực sự trở thành mặt trận không tiếng súng. Do đó, bên cạnh sự nỗ lực và việc triển khai đồng bộ các giải pháp của lực lượng Công an, thì chính mỗi người dùng cần tạo sức “đề kháng” như không truy cập đường link lạ; không tự ý cài đặt phần mềm.
+
+Đặc biệt, người dân cần tuyệt đối không chuyển tiền theo mã QR hoặc kích hoạt theo hướng dẫn của người lạ để tránh bị các đối tượng lợi dụng, lừa đảo chiếm đoạt tài sản.

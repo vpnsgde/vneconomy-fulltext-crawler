@@ -1,0 +1,27 @@
+Qua hệ thống giám sát xử lý tấn công mạng, Cục An toàn thông tin – Bộ Thông tin và Truyền thông đã ghi nhận và cảnh báo 508 cuộc tấn công mạng trong đợt nghỉ Tết, tăng 23% so với một tuần trước nghỉ Tết và tăng 13% so với cùng kỳ năm trước.
+
+Hình thức lừa đảo trực tuyến phổ biến nhất là giả mạo thương hiệu, chiếm 72,6%; giả mạo chiếm đoạt tài khoản trực tuyến chiếm 11,4%; 16% còn lại là lừa đảo trúng thưởng, việc làm online, app cho vay...
+
+Theo phân tích của các chuyên gia, những ngày giáp Tết là thời gian các cơ quan, doanh nghiệp phải bận rộn hoàn thành các kế hoạch năm cũ và chuẩn bị, lên kế hoạch cho năm mới. Đồng thời, đây cũng là thời điểm tương đối nhạy cảm khi các loại số liệu và kế hoạch sẽ được cập nhật liên tục.
+
+Hệ thống công nghệ thông tin theo đó cũng hoạt động hết công suất, thậm chí một số cơ quan, doanh nghiệp mở cổng cho phép kết nối từ xa để thuận tiện cho các nhân viên làm việc từ xa khi đi công tác... Do đó, sẽ xuất hiện các cuộc tấn công có chủ đích APT hoặc tấn công mã hoá dữ liệu đòi tiền chuộc.
+
+Đặc biệt, dịp nghỉ Tết Nguyên đán Quý Mão 2023 kéo dài từ 20 - 26/1 là cơ hội cho các nhóm tội phạm mạng gia tăng tấn công mạng, phát tán thông tin xấu độc. Do đó, người dùng Internet cá nhân cần đề phòng các chương trình giả mạo giảm giá, khuyến mãi nhân dịp lễ Tết để lừa đảo hay phát tán mã độc.
+
+Ngoài ra, các cơ quan, tổ chức, doanh nghiệp cần tăng cường rà soát, phát hiện sớm tấn công mạng. Người dùng cá nhân cần nâng cao cảnh giác, không vội tin và làm theo ngay khi nhận được thông tin về các chương trình trúng thưởng hay khuyến mãi, cần xác minh lại rõ nguồn gốc.
+
+Theo ghi nhận của Cục An toàn thông tin trong thời gian nghỉ Tết Nguyên đán 2023, đã hỗ trợ ứng cứu 41 sự cố an toàn thông tin mạng trong dịp Tết. Các sự cố được đánh giá mức trung bình và thấp, không gây hậu quả nghiêm trọng do các đơn vị đã sớm triển khai giải pháp đảm bảo an toàn. Hệ thống hỗ trợ xử lý tin nhắn rác đã tiếp nhận 394 phản ánh về tin nhắn rác, tăng 11% so với năm trước.
+
+Trước đó, Bộ Thông tin và Truyền thông đã đề nghị các bộ, ngành, địa phương cùng các tập đoàn, tổng công ty Nhà nước, doanh nghiệp cung cấp dịch vụ Internet, viễn thông và các tổ chức tài chính, ngân hàng tăng cường bảo đảm an toàn thông tin mạng trong thời gian nghỉ Tết.
+
+Cụ thể, Cục An toàn thông tin đã tổ chức 3 nhóm trực 24/7 suốt kỳ nghỉ Tết gồm: nhóm giám sát, hỗ trợ ứng cứu xử lý tấn công mạng; nhóm giám sát thông tin trên không gian mạng và nhóm hỗ trợ xử lý tin nhắn rác.
+
+Đồng thời, các cơ quan, đơn vị chuyên môn đã chủ động phối hợp với các mạng xã hội, trang tin điện tử tổng hợp, đặc biệt là các mạng xã hội xuyên biên giới để xử lý kịp thời các thông tin xấu độc, thông tin sai sự thật, thông tin giả.
+
+Công ty an ninh mạng toàn cầu Kaspersky mới đây đã chia sẻ bối cảnh về Managed Security Service Provider (MSSP - Nhà cung cấp dịch vụ bảo mật được quản lý) trong khu vực Đông Nam Á. Các chuyên gia công nghệ dự báo sự tăng trưởng ổn định của thị trường MSSP ở Đông Nam Á trong những năm tới do sự thúc đẩy chung của khu vực đối với các sáng kiến chuyển đổi số trên quy mô toàn quốc.
+
+Theo Báo cáo Kinh tế Bảo mật công nghệ thông tin mới nhất của Kaspersky, các doanh nghiệp trong khu vực thuê ngoài các tính năng bảo mật của MSSP chủ yếu để đạt được hiệu quả trong việc cung cấp các giải pháp bảo mật (73,9%), nhằm giải quyết tình trạng thiếu nhân viên công nghệ thông tin hoặc thiếu nhân sự (57,9%) và nhằm đáp ứng yêu cầu về chuyên môn bảo mật đặc biệt (55,8%).
+
+Ông Yeo Siang Tiong, Tổng Giám đốc Kaspersky khu vực Đông Nam Á cho biết, Đông Nam Á vẫn là khu vực có nền kinh tế số phát triển nhanh nhất ở châu Á Thái Bình Dương. Các chính phủ ở đây đã và đang thực hiện các biện pháp mạnh mẽ để hỗ trợ các nỗ lực số hóa tại địa phương, đồng thời tăng cường khả năng bảo vệ dữ liệu và an ninh mạng của quốc gia. Khi các doanh nghiệp địa phương ở đây nắm bắt quá trình chuyển đổi số, đồng nghĩa với việc cần các giải pháp an ninh mạng toàn diện và nhân tài phù hợp để quản lý hệ thống phòng thủ của họ.
+
+Tuy nhiên, nghiên cứu gần đây đã ghi nhận sự thiếu hụt 2,1 triệu nhân viên an ninh mạng có sẵn tại địa phương đang cần tuyển dụng gấp trong khu vực châu Á Thái Bình Dương. Nỗ lực số hóa khu vực Đông Nam Á cũng bị trì hoãn do thiếu các chuyên gia an ninh mạng có chuyên môn phù hợp để chống lại các mối đe dọa mạng tinh vi.

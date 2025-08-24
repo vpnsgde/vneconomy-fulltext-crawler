@@ -1,0 +1,25 @@
+Thị trường Việt Nam liên tục chứng kiến sự ra đời của các Data Center mới. Trong 10 năm qua, lưu lượng dữ liệu tại Việt Nam đã tăng gấp 7 lần, lưu lượng kết nối trong nước tăng 40 lần về băng thông, lưu lượng kết nối quốc tế tăng 25 lần. Thị trường trung tâm dữ liệu Việt Nam đạt tốc độ tăng trưởng 12,69% trong giai đoạn 2016-2020 với quy mô thị trường năm 2020 đạt 858 triệu USD. Dự báo thị trường này có mức tăng trưởng kép hàng năm gần 15% cho đến năm 2026.
+
+Về điện toán đám mây, dự báo quy mô toàn ngành sẽ tăng lên 291 triệu USD (năm 2024). Thị trường Việt Nam hiện có hơn 40 doanh nghiệp cung cấp các dịch vụ điện toán đám mây. Bên cạnh các doanh nghiệp nước ngoài Google, Microsoft, Amazon và các doanh nghiệp trong nước như Viettel, VNPT, CMC, FPT… còn có sự tham gia của một số doanh nghiệp nhỏ.
+
+Thời gian gần đây ở thị trường Việt Nam đã liên tục chứng kiến các hoạt động xúc tiến đầu tư, xây dựng, khai trương trung tâm dữ liệu mới.
+
+Tháng 4/2022, Tập đoàn Viettel công bố kế hoạch xây dựng trung tâm dữ liệu lớn nhất Việt Nam với tổng đầu tư 6.000 tỷ đồng. Đặc biệt ngày 14/10/2022, Tập đoàn này ra mắt hệ sinh thái Viettel Cloud bao gồm trung tâm dữ liệu, các nền tảng công nghệ, phần mềm dịch vụ trên Cloud cho đến các công nghệ bảo mật, dịch vụ quản trị, vận hành. Viettel Cloud hiện đang sở hữu hạ tầng trung tâm dữ liệu lớn nhất Việt Nam với 13 trung tâm dữ liệu, quy mô hơn 9.000 rack trên 60.000m2 mặt sàn.
+
+Chia sẻ với VnEconomy, ông Hoàng Văn Ngọc, CEO Viettel IDC, nhấn mạnh Viettel đã và đang đầu tư mạnh về hạ tầng và hệ sinh thái sản phẩm dịch vụ, nghiên cứu phát triển công nghệ mới, đào tạo nguồn nhân lực chất lượng cao cho ngành dịch vụ hạ tầng công nghệ thông tin với lộ trình đầu tư lớn, lâu dài.
+
+Kế hoạch trong năm 2025, Viettel Cloud sẽ mở rộng quy mô lên 17.000 rack. Lộ trình tới năm 2030, mức đầu tư sẽ được nâng lên 40.000 tỷ đồng với quy mô 34.000 rack...
+
+Cùng với Viettel, các doanh nghiệp công nghệ lớn khác như FPT, VNPT, CMC… cũng chú trọng đầu tư, xây dựng phát triển trung tâm dữ liệu hiện đại, quy mô lớn, đáp ứng tiêu chuẩn quốc tế.
+
+Đại diện FPT cho biết đã đầu tư hàng nghìn tỷ đồng để xây dựng các trung tâm dữ liệu lớn ở Hà Nội và TP.HCM trong nhiều năm qua. Tập đoàn này hiện có 4 trung tâm dữ liệu, trong đó đã đưa vào hoạt động 3 trung tâm rộng hàng nghìn m2, đáp ứng tiêu chuẩn quốc tế nghiêm ngặt. Tương lai, FPT tiếp tục đầu tư 2.300 tỷ đồng cho các trung tâm dữ liệu mới. Tại Khu công nghệ cao quận 9, TP.HCM, FPT đang xây dựng Data Center 20.000m2, cung cấp 3.600 rack.
+
+Là một trong những nhà cung cấp dịch vụ Data Center lớn nhất tại Việt Nam, Tập đoàn VNPT cũng đang sở hữu 8 trung tâm dữ liệu đặt tại Hà Nội, TP.HCM, Đà Nẵng, Cần Thơ… đạt chuẩn phòng máy chủ Tier 3.
+
+CMC cũng là cái tên nổi bật, với dự án Trung tâm dữ liệu Tân Thuận (tại TP.HCM) có số vốn 1.500 tỷ đồng vừa khai trương tháng 8/2022 - trung tâm dữ liệu thứ 3 của tập đoàn này .
+
+Ngoài ra, lĩnh vực này cũng đang thu hút nhiều doanh nghiệp khác. Đặc biệt, theo Nghị định 53 quy định chi tiết một số điều của Luật An ninh mạng có hiệu lực từ ngày 1/10/2022, tất cả các dữ liệu của Việt Nam phải được lưu trữ tại Việt Nam. Vì vậy, các nhà cung cấp hàng đầu thế giới như Amazon, Microsoft muốn mở rộng ở thị trường Việt Nam phải có kế hoạch sử dụng dịch vụ lưu trữ dữ liệu của các nhà cung cấp nội địa. Các nhà cung cấp nước ngoài cũng đang có những động thái tích cực tìm kiếm các cơ hội, dự án trung tâm dữ liệu ở Việt Nam...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 46 phát hành ngày 14-11-2022. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

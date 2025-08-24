@@ -1,0 +1,19 @@
+Ngoài các chứng chỉ quốc tế đã đạt được trước đây như ISO 9001 (Quản lý chất lượng), ISO 27001 (Quản lý An toàn thông tin), TIA 942 rated 3 (Tiêu chuẩn thiết kế, triển khai Trung tâm dữ liệu), chứng chỉ bảo mật dữ liệu PCI DSS phiên bản 3.2.1 level 1 là tiêu chuẩn quốc tế mới nhất được trao cho hệ thống trung tâm dữ liệu của Viettel IDC.
+
+Tại thời điểm hiện tại, Viettel IDC là nhà cung cấp dịch vụ trung tâm dữ liệu duy nhất tại Việt Nam đáp ứng tiêu chuẩn PCI DSS trên phạm vi toàn quốc.
+
+Chứng chỉ được trao bởi tổ chức đánh giá quốc tế uy tín và độc lập Control Case, có giá trị với 4 trung tâm dữ liệu của Viettel IDC bao gồm: Trung tâm dữ liệu Hòa Lạc, Trung tâm dữ liệu Pháp Vân, Trung tâm dữ liệu Hoàng Hoa Thám, Trung tâm dữ liệu Bình Dương.
+
+Với việc đạt được chứng chỉ PCI DSS 3.2.1, cùng với các tiêu chuẩn quốc tế đã được trao trước đó, Viettel IDC cam kết tuân thủ các yêu cầu cao nhất của thế giới, đáp ứng yêu cầu ngày càng khắt khe của khách hàng về chất lượng dịch vụ, tính liên lục, tính toàn vẹn và tính bảo mật của dữ liệu, đặc biệt là các khách hàng liên quan đến tài chính, ngân hàng, giao dịch qua các hệ thống thẻ tín dụng.
+
+PCI DSS (Payment Card Industry Data Security Standard) là tiêu chuẩn bắt buộc dành cho các doanh nghiệp lưu trữ, truyền tải và xử lý thẻ thanh toán được xác lập bởi Hội đồng Tiêu chuẩn Bảo mật (PCI Security Standards Council) gồm các thành viên: Visa, MasterCard, American Express, Discover Financial Services, JCB International.
+
+Tiêu chuẩn này được phát triển nhằm mục đích gia tăng kiểm soát, bảo vệ dữ liệu chủ thẻ và hạn chế các lỗ hổng bảo mật, gian lận, đánh cắp dữ liệu thẻ thanh toán. PCI DSS 3.2.1 là phiên bản mới nhất, bổ sung chi tiết các yêu cầu về xác thực đa nhân tố, chuẩn an toàn trong mã hóa dữ liệu và yêu cầu chính sách duy trì tuân thủ xuyên suốt trên quy mô toàn tổ chức và thực hiện rà soát định kỳ.
+
+PCI DSS được ra đời vào năm 2005 nhằm đáp ứng nhu cầu về an toàn dữ liệu vào thời điểm có tới 40 triệu thẻ bị lộ thông tin, gây ra tổn thất gần 1 triệu USD và ảnh hưởng đến sự uy tín của các tổ chức tài chính.
+
+Để được cấp chứng chỉ này ở mức độ cao nhất (Level 1 - Mức độ đáp ứng trên 6 triệu giao dịch/năm), hệ thống trung tâm dữ liệu của Viettel IDC phải đáp ứng các yêu cầu rất khắt khe, bao gồm quy trình vận hành, xử lý dữ liệu, kiểm soát xâm nhập, chính sách an ninh thông tin và nhân sự nhằm đảm bảo an toàn dữ liệu thẻ trong suốt quá trình xử lý và lưu trữ. Đồng thời, Viettel IDC đã tổ chức bộ máy để thường xuyên giám sát, kiểm tra nhằm đảm bảo duy trì đáp ứng và tuân thủ các nguyên tắc về bảo mật, từ đó thực hiện đánh giá, duy trình chứng chỉ hàng năm.
+
+Viettel IDC là đơn vị sở hữu hệ thống trung tâm dữ liệu lớn nhất Việt Nam, với quy mô: 23.000m2 sàn, 4.000 rack thiết bị, được xây dựng và vận hành đáp ứng các tiêu chuẩn quốc tế: TIA 942 rated 3, ISO 9001, ISO 27001,… Với việc giành chứng chỉ PCI DSS, Viettel IDC đã trở thành nhà cung cấp dịch vụ trung tâm dữ liệu duy nhất tại Việt Nam có thể đáp ứng chuẩn PCI DSS trên phạm vi toàn quốc tại tất cả các trung tâm dữ liệu trong hệ thống.
+
+Không dừng ở đó, Viettel IDC đang tiếp tục khẳng định mục tiêu mang những dịch vụ chất lượng tốt nhất tới khách hàng với kế hoạch xây dựng các trung tâm dữ liệu lớn (Hyperscale) tại Hà Nội (4 ha) và Tp.Hồ Chí Minh (3 ha), với việc ứng dụng thêm các công nghệ mới tiết kiệm năng lượng và thân thiện với môi trường theo xu hướng Green Data center…

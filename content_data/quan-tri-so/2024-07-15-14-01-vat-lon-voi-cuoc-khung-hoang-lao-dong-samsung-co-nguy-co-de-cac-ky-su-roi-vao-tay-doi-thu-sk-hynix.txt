@@ -1,0 +1,27 @@
+Đầu tháng này, người khổng lồ công nghệ Hàn Quốc đã khiến nhiều nhà đầu tư hài lòng với kỳ vọng lợi nhuận hoạt động trong quý hai sẽ tăng gần 1.500% so với cùng kỳ năm ngoái. Tuy nhiên, có vẻ vấn đề nội bộ sẽ cản trở bước tiến của Samsung.
+
+Theo Financial Times, Samsung đang theo sau SK Hynix và nhà sản xuất chip Micron của Mỹ trong việc phát triển chip bộ nhớ băng thông cao (HBM), một thành phần quan trọng của hệ thống AI và vẫn chưa vượt qua các bài kiểm tra cần thiết để đủ điều kiện trở thành nhà cung cấp HBM cho công ty dẫn đầu ngành là Nvidia.
+
+Myron Xie, nhà phân tích tại công ty tư vấn chip SemiAnalysis, đánh giá: “Điều này cực kỳ đáng lo ngại đối với một công ty từng là nhà sản xuất bộ nhớ hàng đầu”.
+
+Bên cạnh đó, trong bối cảnh các ông lớn công nghệ đang tìm cách giảm sự phụ thuộc vào nhà sản xuất chip Đài Loan TSMC, Samsung vẫn chưa thể đuổi kịp sức sản xuất TSMC để chứng minh tiềm năng thay thế ông lớn Đài Loan. “Mặc dù khách hàng muốn có giải pháp thay thế xưởng đúc thứ hai, nhưng họ vẫn ưu tiên chất lượng công nghệ và khả năng có nguồn cung cấp ổn định, điều mà xưởng đúc Samsung chưa cung cấp được”, nhà phân tích Myron Xie cho biết.
+
+Thậm chí trong lĩnh vực di động, Samsung cũng đang chịu áp lực cạnh tranh từ các tính năng AI mới của Apple và các đối thủ Trung Quốc với giá rẻ hơn. Bên cạnh đó, các đối thủ Trung Quốc cũng đang đe dọa thị phần của họ trong lĩnh vực sản xuất màn hình.
+
+Vào tháng 5, chủ tịch Samsung Lee Jae-yong đã bổ nhiệm người đứng đầu bộ phận chip mới của Samsung Electronics, Jun Young-hyun, người kỳ cựu trong ngành, người để đổi mới công ty. Tuy nhiên, một kỹ sư chip của Samsung, nói với Financial Times rằng họ “không thấy nhiều thay đổi ngay cả sau khi giám đốc của chúng tôi đã bị thay thế”.
+
+Kỹ sư này cho biết: “Bầu không khí bên trong thật u ám khi chúng tôi tụt lại phía sau SK Hynix về HBM và không thể bắt kịp TSMC về lĩnh vực đúc”.
+
+“Mọi người đang cảm thấy không hài lòng về mức lương vì họ nghĩ rằng họ bị đối xử tệ hơn so với các đồng nghiệp tại SK Hynix. Nhiều người đang nghĩ đến việc rời công ty để gia nhập đối thủ cạnh tranh của chúng tôi”, người này cho biết thêm.
+
+Một nhà nghiên cứu tại bộ phận kinh doanh điện thoại thông minh của Samsung giấu tên cho biết: “Tinh thần của người lao động đang xuống thấp. Họ không nhận được thù lao thương xứng. Họ cảm thấy bất lực vì chiến lược hiện tại của công ty”.
+
+Một nhân viên bán hàng thiết bị gia dụng của Samsung nói thêm: “Từ lúc tôi bắt đầu làm việc cho Samsung, tôi luôn thấy doanh số bán hàng tăng trưởng, nhưng mức tăng trưởng giảm sút. Đồng nghiệp của tôi đang cảm thấy khủng hoảng”.
+
+Công đoàn Samsung Electronics (NSEU) tuyên bố sẽ tiếp tục “cuộc đình công vô thời hạn” nhằm vào các dây chuyền sản xuất, bao gồm cả những dây chuyền được sử dụng để sản xuất chip HBM. “Ban quản lý không có ý định đối thoại, công ty sẽ hối tiếc về quyết định này”, NSEU nói với Financial Times. Trong khi đó, Samsung cho biết họ “vẫn cam kết tham gia vào các cuộc đàm phán thiện chí với công đoàn”, nhưng từ chối bình luận về các vấn đề nhân sự.
+
+Các nhà phân tích cho rằng cuộc đình công sẽ cản trở nỗ lực thu hẹp khoảng cách với SK Hynix trong cuộc đua HBM. Trong khi đó, các công ty Hàn Quốc đều đang đối mặt với cơn khát nhân tài.
+
+Mặc dù vậy, Samsung vẫn tự tự tuyên bố với tư cách là công ty duy nhất có năng lực về chip nhớ tiên tiến, cũng như các kỹ thuật “đóng gói tiên tiến” thế hệ tiếp theo, họ sẽ có đủ khả năng để cạnh tranh với liên minh đang phát triển giữa SK Hynix và TSMC.
+
+Myron Xie, nhà phân tích tại công ty tư vấn chip SemiAnalysis cho biết: “Có vẻ như ​​khả năng công nghệ của Samsung bị tụt lại trong nhiều lĩnh vực kinh doanh nằm xuất phát nguyên nhân từ sự lãnh đạo và văn hoá của công ty. Và việc thiết lập lại văn hóa có thể khiến Samsung tiếp tục mất thêm nhiều thời gian, nhưng nó là điều tốt nhất cho công ty về lâu dài”.

@@ -1,0 +1,27 @@
+Theo Reuters, Công ty Baidu cho biết chatbot AI 'Ernie Bot' của họ đã thu hút được 200 triệu người dùng sau 8 tháng ra mắt. Công ty đang nỗ lực duy trì vị thế là chatbot tương tự như ChatGPT phổ biến nhất tại Trung Quốc trong bối cảnh cạnh tranh ngày càng khốc liệt.
+
+Robin Li, Giám đốc điều hành của Baidu đã tiết lộ con số này tại một hội nghị ở Thâm Quyến vào ngày 16/4 - tròn 8 tháng chatbot này được phát hành ra công chúng. Trong lần gần nhất, công ty đã chia sẻ số lượng người dùng của mình đạt hơn 100 triệu người dùng vào tháng 12/2023.
+
+Li cũng cho biết giao diện lập trình ứng dụng - API (một giao diện mà một hệ thống máy tính hay ứng dụng cung cấp để cho phép các yêu cầu dịch vụ có thể được tạo ra từ các chương trình máy tính khác) của Ernie Bot đang được sử dụng 200 triệu lần mỗi ngày, nghĩa là chatbot được người dùng yêu cầu thực hiện các tác vụ nhiều lần trong ngày.
+
+Li cho biết thêm, số lượng khách hàng doanh nghiệp sử dụng chatbot chính thức đạt ngưỡng 85.000.
+
+Tháng 3 năm ngoái, Ernie Bot là chatbot tương tự ChatGPT nội địa đầu tiên được công bố tại Trung Quốc, nhưng nó chỉ được cấp phép phát hành ra công chúng vào tháng 8, một trong 8 chatbot AI đầu tiên được Trung Quốc phê duyệt. Không giống như nhiều quốc gia khác, Trung Quốc cấm các công ty triển khai các dịch vụ AI trước khi được Chính phủ chấp thuận.
+
+Dữ liệu gần đây cho thấy các dịch vụ AI khác tại Trung Quốc, đặc biệt là chatbot “Kimi” (từ một công ty khởi nghiệp 12 tháng tuổi được Alibaba hậu thuẫn có tên Moonshot AI), đang nhanh chóng bắt kịp Ernie Bot dù được chấp thuận sau đó.
+
+Dữ liệu từ AIcpb.com, một trang web theo dõi lượt truy cập của người dùng vào các dịch vụ AI trực tuyến, cho thấy Ernie Bot đã được truy cập tổng cộng 14,9 triệu lần trên ứng dụng và trang web vào tháng 3.
+
+Tuy nhiên, Kimi cũng không hề kém cạnh với tổng số 12,6 triệu lượt truy cập trong cùng tháng.
+
+Kimi được chấp thuận phát hành công khai vào tháng 11 sở hữu tốc độ tăng trưởng thần tốc với số lượt truy cập tăng 321,6% trong tháng 3, trong khi số lượt truy cập vào Ernie Bot tăng hơn 48%, dữ liệu AIcpb.com cho thấy.
+
+Trên toàn cầu, các dịch vụ AI của Trung Quốc vẫn tụt hậu rất xa so với các đối tác phương Tây. Theo AIcpb.com, ChatGPT của OpenAI vẫn là dịch vụ AI phổ biến nhất thế giới, với tổng lưu lượng truy cập vào sản phẩm tăng 9% để đạt 1,86 tỷ lượt xem vào tháng trước.
+
+Công ty mẹ của Ernie Bot là gã khổng lồ internet Baidu. Đây là website đầu tiên tại Trung Quốc cung cấp giao thức không dây (WAP) và hỗ trợ tìm kiếm trên thiết bị số kỹ thuật với các công cụ hỗ trợ người dùng tra cứu và tìm kiếm tại hơn 700 triệu trang web, 80 triệu hình ảnh và khoảng 10 triệu tập tin đa truyền thông như nhạc, phim,…
+
+Tính đến thời điểm này, Baidu được biết đến là 'Google của Trung Quốc', là công cụ tìm kiếm lớn thứ hai trên thế giới chỉ sau gã khổng lồ tìm kiếm Google, tuy nhiên thị trường chính của Baidu đa phần đều diễn ra ở trong nước chứ chưa tấn công sang thị trường thế giới.
+
+Ernie Bot là đứa con tinh thần của Baidu - gã khổng lồ công nghệ Trung Quốc đã nhiều năm bị lấn át bởi các đối thủ. Đây là ứng dụng AI nội địa đầu tiên được cung cấp đầy đủ cho công chúng ở Trung Quốc. Giờ đây, nhờ có AI, công ty này đang dần trở lại và nếu thành công sẽ cho thấy rất nhiều triển vọng của công nghệ Trung Quốc.
+
+Baidu cho biết Ernie Bot có sẵn trên toàn cầu nhưng phải dùng số điện thoại Trung Quốc để đăng ký và đăng nhập. Những người dùng đầu tiên đã hỏi chatbot này hơn 33,42 triệu câu trong 24 giờ, theo Weibo, tuy nhiên trong một vài trường hợp, Ernie Bot vẫn chưa thể đưa ra câu trả lời chính xác nhất.

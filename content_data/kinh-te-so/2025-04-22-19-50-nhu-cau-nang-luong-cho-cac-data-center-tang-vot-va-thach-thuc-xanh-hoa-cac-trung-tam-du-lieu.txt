@@ -1,0 +1,57 @@
+Lượng dữ liệu trên toàn cầu đang tăng nhanh từng phút, từng giờ theo cấp số nhân. Tất cả các dữ liệu đều được kết nối, lưu trữ tại các trung tâm tâm dữ liệu. Theo thống kê, hiện nay các trung tâm dữ liệu trên thế giới đang tiêu thụ tới 3% lượng điện và chiếm khoảng 5% lượng phát thải khí nhà kính toàn cầu.
+
+Con số này sẽ không dừng lại khi dữ liệu ngày càng được sinh ra nhiều hơn, nhanh hơn và các trung tâm dữ liệu ngày dữ vị trí quan trọng hơn trong phát triển kinh tế số toàn cầu.
+
+Tại Hội nghị Data Center & Cloud Infrastructure Summit (DCCI Summit) 2025 do Viettel IDC phối hợp cùng các đối tác công nghệ hàng đầu thế giới tổ chức ngày 22/4/2025, với chủ đề "Green Tech, Green Future", các chuyên gia khẳng định, AI đã trở thành một công nghệ vượt trội, có mặt ở tất cả mọi lĩnh vực của đời sống kinh tế xã hội.
+
+Trong thời gian tới, AI sẽ tiếp tục tiến hóa với 2 xu hướng mới đột phá đó là Agentic AI và Physical AI… Đây sẽ là 2 làn sóng chiến lược của AI trong thời gian tới mà các Tập đoàn công nghệ hàng đầu thế giới cũng như các quốc gia đang hướng đến, giúp tăng năng suất lao động, thúc đẩy phát triển mạnh mẽ nền kinh tế số.
+
+Với điện toán đám mây, từ khi đại dịch Covid-19, khiến tăng trưởng lĩnh vực suy giảm. Tuy nhiên, trong năm 2023 với sự xuất hiện của AI tạo sinh, điện toán đám mây bắt đầu tăng trưởng trở lại, đạt 22% vào năm 2024. Dự báo thế giới kỳ vọng lĩnh vực này sẽ phát triển và trở lại thời hoàng kim với mức tăng trưởng 30-40%.
+
+Khi AI xuất hiện, toàn bộ hạ tầng điện toán đám mây không theo cách truyền thống (DC và Cloud) mà có những khái niệm, mô hình mới (AI Platform).
+
+Theo ông Lê Bá Tân, CEO Viettel IDC, AI phát triển mạnh mẽ kéo theo gia tăng đột biến của tài nguyên tính toán. Từ thực tế mức tăng trưởng đầu tư cho hạ tầng của 4 nhà cung cấp dịch vụ Cloud lớn nhất của Mỹ (Meta, Google, Microsoft, Amazon), cho thấy lần đầu tiên trong lịch sử vào quý 3/2024, tổng đầu tư đã vượt 2 lĩnh vực vốn chiếm tỷ trọng lớn nhất trong ngành công nghiệp (viễn thông và dầu khí). Con số này minh chứng cho việc AI đã và đang làm thay đổi toàn diện chiến lược hoạt động, hạng mục đầu tư của các Big Tech công nghệ.
+
+Bên cạnh xu hướng DC AI, các DC truyền thống cũng tiếp tục duy trì tốc độ tăng trưởng. Theo thống kê, tổng số trung tâm dữ liệu trên thế giới trong năm 2025 đã ở con số 11.800, tăng 30% chỉ trong 2 năm (năm 2023 khoảng 9.000 DC).
+
+Thị trường DC toàn cầu dự báo sẽ tiếp tục tăng trưởng ổn định đến năm 2030 với tốc độ khoảng hơn 7%. Dự báo năm 2025, thị trường DC toàn cầu đạt khoảng 345 tỷ USD và tăng trưởng đều từ nay đến cuối thập kỷ.
+
+Với mức tăng trưởng lớn như trên, xuất hiện xu hướng triển khai các DC sang thị trường mới có lợi thế về tài nguyên (năng lượng, giá thuê hạ tầng, đất đai…) thay vì ở các nước phát triển.
+
+Dự báo tổng quy mô thị trường dữ liệu DC tại Việt Nam năm 2025 khoảng 630 triệu USD và sẽ tăng trưởng tốt từ nay đến cuối thập kỷ, đạt hơn 1,1 tỷ USD.
+
+Với AI và máy chủ AI, một trong những vấn đề lớn đặt ra là điều kiện hoạt động. Một máy chủ AI với 8 GPU tiêu thụ điện khoảng 10,2 kW. Đây là con số rất lớn. Thông thường 1 rack thiết kế theo tiêu chuẩn sẽ tiêu tốn khoảng 40 kW điện, còn theo theo kiến trúc máy chủ mới thì con số này có thể lên đến 72-120 kW điện.
+
+Ông Tân chia sẻ, với các DC trước đây được thiết kế trung bình khoảng 5KW/rack thì hiện nay đã phải thay đổi thiết kế DC với công suất rack trung bình khoảng 10 KW điện/giờ và tiến tới trong tương lai có những cấu phần trong DC chạy máy chủ AI có thể lên đến 20 hoặc 30 KW, thậm chí lớn hơn.
+
+Như vậy, toàn bộ hạ tầng DC nếu theo thiết kế công suất như hiện nay sẽ không thể nào đáp ứng được. Chính vì điều này đã thúc đẩy việc xây dựng những DC thế hệ mới để đáp ứng điều kiện hạ tầng, làm mát cho máy chủ cũng như cung cấp đủ điện năng cho máy chủ hoạt động. Đây là một trong những thách thức lớn nhất với các đơn vị cung cấp hạ tầng, DC.
+
+AI đặt ra nhiều thách thức nhưng công nghệ này cũng là động lực tăng trưởng chính cho các trung tâm dữ liệu trong tương lai.
+
+Theo thống kê của McKinsey, công suất trung tâm dữ liệu toàn cầu phục vụ AI vào năm 2023 chỉ khoảng 21 GW điện nhưng đến năm 2030 con số này sẽ lên đến 155 GW, với tốc độ tăng trưởng trung bình 33%/năm. AI tiêu tốn năng lượng và tốc độ tăng trưởng rất lớn, đặt ra thách thức, sức ép lớn cho các nhà cung cấp hạ tầng máy chủ AI.
+
+Bên cạnh xu hướng phát triển DC và ứng dụng các công nghệ mới như AI, các nhà cung cấp dịch vụ DC phải có giải pháp cân bằng giữa mở rộng, nâng cao lực hiệu quả với phát triển bền vững các DC.
+
+Tại Hội nghị COP26, Việt Nam đã cam kết đạt mục tiêu phát thải ròng bằng 0 vào năm 2050. Do đó việc các doanh nghiệp lựa chọn các công nghệ mới, các chứng chỉ năng lượng cho các trung tâm DC cũng như xây dựng chiến lược phát triển bền vững hướng tới mục tiêu NetZero là rất quan trọng.
+
+Ông Tân cho biết trong năm 2023, Viettel IDC đã công bố báo cáo phát triển bền vững là một trong những cam kết mạnh mẽ với chiến lược phát triển xanh.
+
+
+
+Theo báo cáo của WB phát hành đầu năm 2025, ước tính, tổng lượng điện tiêu thụ tại các trung tâm dữ liệu ASEAN sẽ tăng từ 2% lên 3-6% tổng mức tiêu thụ trên toàn khu vực, gấp 1,5-3 lần hiện nay.
+
+Trong bức tranh chung khu vực, thực trạng chung ở các nước đều có nguồn cung đang nhiều hơn cầu, nhưng ở Việt Nam thì ngược lại, nhu cầu đang vượt khả năng cung cấp của các nhà cung cấp hạ tầng DC 38%.
+
+“Đây là cơ hội để các nhà cung cấp dịch vụ cloud phát triển, đầu tư. Dự kiến trong ngày tới, Viettel sẽ động thổ DC lớn nhất Việt Nam tại Tp.Hồ Chí Minh với công suất 140 MW”, CEO Viettel IDC thông tin.
+
+Sự tăng trưởng bùng nổ của AI và trung tâm dữ liệu với nhu cầu tiêu thụ năng lượng này đặt ra những thách thức lớn về quản trị năng lượng và quy hoạch hạ tầng năng lượng quốc gia.
+
+Quy hoạch điện 7 và 8 cũng như quy hoạch điện 8 điều chỉnh đã tính toán, phân tích nhu cầu sử dụng năng lượng trong tương lai phục vụ phát triển. Chiến lượng năng lượng quốc gia đã nhấn mạnh việc sử dụng các nguồn năng lượng tái tạo, năng lượng xanh (như điện gió, điện mặt trời và trong tương lai gần là điện hạt nhân…).
+
+Giám đốc Viettel IDC cho rằng điều này sẽ tạo điều kiện thuận lợi cho hạ tầng DC của Việt Nam phát triển rộng khắp. Việc đảm bảo nguồn năng lượng cho phát triển kinh tế xã hội đất nước, đáp ứng nhu cầu phát triển xanh, chuyển đổi xanh, chuyển đổi số là rất quan trọng. Điều này cũng góp phần để Việt Nam hướng đến mục tiêu Net Zero vào năm 2050 như cam kết…
+
+"Các DC của Viettel hiện đã ứng dụng các công nghệ tiết kiệm năng lượng hiện đại như công nghệ làm mát, công nghệ làm mát bằng điều hòa trực tiếp, công nghệ làm lạnh Chiller và tương lai là làm mát bằng chất lỏng… sẽ giúp tiết kiệm, tối ưu hiệu quả sử dụng năng lượng", ông Tân chia sẻ.
+
+Tập đoàn cũng sẽ có chiến lược giảm phát thải carbon, góp phần hiện thực hóa mục tiêu Net Zero của Việt Nam vào năm 2050. Năm 2023, Viettel đã phát hành báo cáo phát triển bền vững và chiến lược phát triển bền vững của Viettel IDC đang được xây dựng hoàn thiện.
+
+Đại diện Viettel IDC cũng cho biết sẽ công bố các hành động phát triển xanh hóa và bền vững hạ tầng DCmỗi năm, giúp các khách hàng có DC với công nghệ xanh, thỏa mãn các điều kiện khắt khe nhất về tiêu chuẩn xanh của đối tác, thị trường...

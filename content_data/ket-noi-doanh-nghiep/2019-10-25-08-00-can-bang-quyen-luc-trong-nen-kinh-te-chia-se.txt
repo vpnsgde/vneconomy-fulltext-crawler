@@ -1,0 +1,35 @@
+Làm thế nào để có thể tạo ra một "sân chơi" cân bằng được quyền lực của người dùng, người cung cấp dịch vụ cũng như đơn vị cung cấp nền tảng vẫn là câu hỏi khó mà nhiều doanh nghiệp hoạt động theo mô hình "kinh tế chia sẻ" đã và đang miệt mài đi tìm lời đáp.
+
+Kinh tế chia sẻ được nhận định là một mô hình kinh doanh mới, được kỳ vọng sẽ giúp hạn chế tình trạng tiêu thụ quá mức và ảnh hưởng của nó lên môi trường.
+
+Nhà nghiên cứu Harald Heinrichs cho rằng kinh tế chia sẻ "là con đường mới dẫn tới sự bền vững". Chuyên gia Annie Leonard của Greenpeace cho rằng "kinh tế chia sẻ giúp bảo tồn nguồn tài nguyên, tạo cơ hội cho mọi người tiếp cận những tài sản họ không thể sở hữu và xây dựng cộng đồng". Kinh tế chia sẻ còn hứa hẹn kết nối mọi người trong thời đại kỹ thuật số, tạo thêm việc làm với thu nhập ổn định nhằm giảm khoảng cách giàu nghèo trên phạm vi toàn cầu.
+
+"Nền kinh tế chia sẻ" còn giúp kết nối nhiều đối tượng là các thành phần cấu thành nên mô hình kinh tế này lại với nhau, có thể kể đến như người sử dụng dịch vụ, người cung cấp dịch vụ và đơn vị cung cấp nền tảng. Khi một trong những thành phần cấu thành nên mô hình này thực hiện không đúng chức năng của mình, các doanh nghiệp hoạt động theo mô hình kinh tế chia sẻ chắc chắn sẽ gặp khó khăn.
+
+Vậy thì, quyền lực của mỗi thành phần ra sao và đóng vai trò là người nắm giữ nền tảng, các công ty hoạt động theo mô hình "kinh tế chia sẻ" cần phải làm gì để tạo nên sự kết nối hài hoà và thống nhất?
+
+Quyền lực của người dùng
+
+Dù là truyền thống hay chia sẻ, người dùng luôn đóng vai trò quan trọng cũng như nắm giữ quyền lực to lớn. Nhắc đến kinh tế chia sẻ là đề cập đến sự cạnh tranh mạnh mẽ giữa các nền tảng và ứng dụng; người dùng có quyền cân nhắc để lựa chọn cho mình nền tảng và ứng dụng phù hợp nhất. Do đó, đây là thành tố mà các doanh nghiệp, các đơn vị cung cấp nền tảng cần đặt lên hàng đầu để thoả mãn nhu cầu của họ một cách hoàn hảo nhất.
+
+Đề cập đến khía cạnh này, Grab đã làm rất tốt khi đổi giao diện ứng dụng, phục vụ người dùng tại Việt Nam vào ngày 7/11/2018.
+
+Giao diện này mang đến những trải nghiệm hoàn toàn mới khi khách hàng có thể thao tác một chạm đơn giản để dễ dàng truy cập và điều hướng đến các dịch vụ của Grab. Bên cạnh đó, Grab còn đưa ra những chương trình giúp nâng cao trải nghiệm khách hàng như tặng tiền vào tài khoản khách hàng khi tài xế đến trễ hoặc hủy chuyến.
+
+Những chương trình hoàn tiền 20% khi thanh toán bằng ví điện tử Moca trên ứng dụng Grab, những tiện ích khi thanh toán không tiền mặt tại cửa hàng (P2M), chuyển tiền giữa các ví điện tử với nhau (P2P)...đã kéo khách hàng gần hơn với thuật ngữ "thanh toán điện tử". Điều này không những mang lại những lợi ích về khía cạnh tài chính cho khách hàng mà còn thúc đẩy thói quen không sử dụng tiền mặt trong các giao dịch - điều mà cả nền kinh tế hiện đang muốn hướng đến.
+
+Quyền lực của người cung cấp dịch vụ và đơn vị cung cấp nền tảng
+
+Đứng thứ 2, ngay sau người dùng trong cấu trúc phân bố quyền lực của các thành tố cấu thành nên mô hình kinh tế chia sẻ, người cung cấp dịch vụ cũng nắm trong tay mình những quyền lực to lớn không kém.
+
+Đóng vai trò là đơn vị cung cấp dịch vụ và nguồn tài nguyên, người cung cấp dịch vụ cũng đối mặt với rất nhiều những rủi ro đến từ người dùng và đôi khi là những đơn vị cung cấp nền tảng ứng dụng.
+
+Nói một cách dễ hiểu, thời gian gần đây, cộng đồng mạng và công chúng Việt đã không còn lạ gì với câu chuyện hàng loạt những shipper (người giao hàng) bị khách "im hơi lặng tiếng" sau khi đơn hàng đã hoàn thành. Có những thời điểm, câu chuyện này gây nên một làn sóng phẫn nộ rất lớn trong cộng đồng.
+
+Vậy, câu hỏi được đặt ra ở đây chính là: Đứng ở góc độ là đơn vị cung cấp nền tảng, các ứng dụng kết nối đặt người cung cấp dịch vụ ở vị trí nào và biện pháp để hỗ trợ, ngăn chặn cũng như giảm thiểu những rủi ro này là gì?
+
+Để trả lời cho câu hỏi này, một số ứng dụng kết nối đã cho phép người cung cấp dịch vụ là các tài xế và người giao hàng được bồi hoàn toàn bộ hoặc một phần đơn hàng bị tổn thất để phần nào hỗ trợ họ đối mặt với những rủi ro khó tránh khỏi này.
+
+Đứng ở góc độ của những đơn vị cung cấp nền tảng, các doanh nghiệp hoạt động theo mô hình "kinh tế chia sẻ" có thể tạo nên một "sân chơi" đủ lớn để các thành tố có thể kết nối với nhau, tạo nên một nền kinh tế chia sẻ lớn mạnh và bền vững.
+
+Và quyền lực nổi bật nhất ở vai trò là đơn vị cung cấp nền tảng chính là khả năng thay đổi mức chi phí sao cho phù hợp và cân bằng được giữa người dùng cũng như đơn vị cung cấp dịch vụ. Sự thành công của nhà cung cấp nền tảng được đặt nặng trên khả năng cân bằng quyền lực giữa bên khách hàng và bên đối tác cung cấp dịch vụ.

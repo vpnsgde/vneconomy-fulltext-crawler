@@ -1,0 +1,19 @@
+Cục An toàn thông tin (Bộ Thông tin và Truyền thông) cũng gửi cảnh báo tới tất cả các đơn vị chuyên trách công nghệ thông tin, an toàn thông tin của các bộ, ngành, địa phương cùng các tập đoàn, tổng công ty nhà nước, các ngân hàng và tổ chức tài chính.
+
+Đáng chú ý, trong 6 lỗ hổng mới tồn tại ở sản phẩm Microsoft thì có tới 5 lỗ hổng sau khi khai thác thành công, hacker có thể tấn công thực thi mã từ xa.
+
+Cụ thể, các lỗ hổng an toàn thông tin trong các sản phẩm Microsoft lần này, bao gồm: Lỗ hổng CVE-2024-21408 trong Windows Hyper-V cho phép đối tượng tấn công thực hiện tấn công từ chối dịch vụ (DoS); 5 lỗ hổng gồm CVE-2024-26198 trong Microsoft Exchange Server, CVE-2024-21407 trong Windows Hyper-V, CVE-2024-21334 trong Open Management Infrastructure (OMI), CVE-2024-21426 trong Microsoft SharePoint và CVE-2024-21411 trong Skype for Consumer đều cho phép đối tượng tấn công thực thi mã từ xa.
+
+Để đảm bảo an toàn thông tin cho hệ thống thông tin của các cơ quan, tổ chức, doanh nghiệp, Cục An toàn thông tin đề nghị các đơn vị kiểm tra, rà soát để xác định những máy tính sử dụng hệ điều hành Windows có 2 khả năng bị ảnh hưởng bởi 6 lỗ hổng an toàn thông tin mức cao và nghiêm trọng kể trên. Trường hợp bị ảnh hưởng, các đơn vị cần khẩn trương cập nhật bản vá kịp thời nhằm tránh nguy cơ bị hacker tấn công mạng.
+
+“Các cơ quan, tổ chức và doanh nghiệp cũng được yêu cầu phải tăng cường hơn nữa công tác giám sát, sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng. Đồng thời, các đơn vị còn cần thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin nhằm phát hiện kịp thời các nguy cơ tấn công mạng”, Cục An toàn thông tin khuyến cáo.
+
+Theo Cục An toàn thông tin, việc đơn vị chưa quan tâm cập nhật và xử lý những lỗ hổng, điểm yếu đã được cảnh báo có thể khiến hệ thống của đơn vị đó có thể bị chiếm quyền điều khiển, bị tấn công mạng dẫn đến những tổn thất nặng nề về uy tín, tài sản.
+
+Các chuyên gia cũng dự báo rằng một xu hướng tấn công mạng nổi bật của năm 2024 là khai thác lỗ hổng an toàn thông tin, nhất là những lỗ hổng ảnh hưởng mức cao và nghiêm trọng trong các sản phẩm công nghệ phổ biến, từ đó dễ dàng xâm nhập vào hệ thống và từ đó chiếm quyền điều khiển, đánh cắp thông tin, tài sản của tổ chức.
+
+Trong đó, có một số lỗ hổng đã và đang được các nhóm tấn công lợi dụng để thực hiện các cuộc tấn công có chủ đích - APT. Những lỗ hổng an toàn thông tin nguy hiểm, có ảnh hưởng diện rộng đều đã được Cục An toàn thông tin cảnh báo và hướng dẫn các bộ, ngành, địa phương cách khắc phục; tuy vậy nhiều đơn vị vẫn chưa rà soát và xử lý.
+
+
+
+Trường hợp cần hỗ trợ, các đơn vị có thể liên hệ đầu mới của Cục An toàn thông tin là Trung tâm Giám sát an toàn không gian mạng quốc gia – NCSC theo số điện thoại 02432091616 hoặc email: ncsc@ais.gov.vn.

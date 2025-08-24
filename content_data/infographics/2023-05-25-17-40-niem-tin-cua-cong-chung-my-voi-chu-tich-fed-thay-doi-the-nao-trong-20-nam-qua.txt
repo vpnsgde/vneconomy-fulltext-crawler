@@ -1,0 +1,13 @@
+Hàng năm, công ty tư vấn quản lý Gallup thực hiện khảo sát với người trưởng thành tại Mỹ về niềm tin của họ đối với ngân hàng trung ương - Cục Dự trữ Liên bang Mỹ (Fed).
+
+Những người tham gia khỏa sát được hỏi về niềm tin của họ rằng Chủ tịch Fed đang làm những điều đứng đắn cho nền kinh tế Mỹ. Đồ thị dưới đây thể hiện kết quả cuộc khảo sát thường niên này từ năm 2001 đến 2023, cho thấy niềm tin của công chúng với vị trí đứng đầu Fed dao động thế nào theo thời gian.
+
+Dữ liệu của năm 2023 được thu thập trong giai đoạn từ ngày 3-25/4. Mức điểm được tính theo % dựa trên tỷ lệ những người được hỏi đặt "niềm tin lớn" vào Chủ tịch Fed.
+
+Có thể thấy, sự tin tưởng của người dân Mỹ đối với Chủ tịch Fed có sự thay đổi lớn những năm gần đây. Ví dụ, dưới thời ông Alan Greenspan, niềm tin của người dân ban đầu tương đối cao nhờ nền kinh tế tương đối ổn định. Tuy nhiên, vụ nổ bong bóng dotcom mà nguyên nhân một phần đến từ các chính sách tín dụng nới lỏng của ông Greenspan đã kéo tụt niềm tin của công chúng.
+
+Gần đây hơn, niềm tin của công chúng Mỹ với ông Jerome Powell tăng cao trong đại dịch Covid-19, chủ yếu nhờ những hành động quyết đoán của ông trong việc đưa ra các chính sách hỗ trợ nền kinh tế Mỹ vượt qua khủng hoảng. Các biện pháp này bao gồm đưa lãi suất về mức gần 0%, thực hiện các chương trình nới lỏng định lượng (mua trái phiếu chính phủ bằng tiền mới in) và các chương trình cho vay khẩn cấp đối với doanh nghiệp.
+
+Tuy nhiên, sau khi đạt đỉnh với tỷ lệ người được hỏi đặt "niềm tin lớn"vào Chủ tịch Fed lên tới 58%, con số này hiện đã giảm xuống chỉ còn 36%, mức thấp nhất trong 20 năm qua. Nguyên nhân được cho là lập trường cứng rắn của ông Powell trong cuộc chiến chống lạm phát hậu đại dịch thông qua các đợt tăng lãi suất mạnh với tốc độ nhanh chưa từng thấy. Dù tăng lãi suất là cần thiết, việc này cũng gây ra nhiều tác động tiêu cực tới thị trường chứng khoán, gia tăng gánh nặng với những người đang có khoản nợ với lãi suất biến động, gây khó khăn cho thị trường nhà ở...
+
+Lãi suất cao cũng khiến nhiều công ty công nghệ Mỹ sa thải nhân viên và là một nhân tố gây ra cuộc khủng hoảng ngân hàng tại Mỹ gần đây.

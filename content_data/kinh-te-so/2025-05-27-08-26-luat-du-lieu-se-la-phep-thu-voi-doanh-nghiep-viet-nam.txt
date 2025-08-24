@@ -1,0 +1,57 @@
+Trong bối cảnh chuyển đổi số, dữ liệu khách hàng ngày càng trở thành tài sản cốt lõi giúp doanh nghiệp nâng cao năng lực cạnh tranh. Tuy nhiên, tình trạng lạm dụng và mua bán dữ liệu cá nhân đang đe dọa nghiêm trọng đến lòng tin của người tiêu dùng.
+
+Tại hội nghị Dữ liệu khách hàng 2025 (Customer Data Summit) với chủ đề “Từ thấu hiểu đến thấu cảm”, các chuyên gia công nghệ và bảo mật đã “hiến kế” giúp doanh nghiệp xây dựng chiến lược bảo mật dữ liệu để tạo dựng niềm tin đối với khách hàng, cũng như tuân thủ các tiêu chuẩn về khai thác dữ liệu trong mạng lưới từ quốc gia đến quốc tế.
+
+Ông Huỳnh Lê Tấn Tài, đồng Chủ tịch Cộng đồng CIO Việt Nam, cho rằng dữ liệu là “mỏ vàng” của nền kinh tế số và cần có cơ chế bảo vệ nghiêm ngặt khi việc khai thác đang ngày càng mở rộng. Việc ra mắt các nền tảng dữ liệu quốc gia cùng Luật Dữ liệu sắp được ban hành sẽ là bước ngoặt trong công cuộc bảo vệ quyền riêng tư và điều tiết thị trường dữ liệu tại Việt Nam.
+
+Chia sẻ bên lề hội nghị về thách thức bảo vệ dữ liệu người dùng trong kỷ nguyên số, ông Hà Hoàng, Giám đốc điều hành của Data Protectify - đơn vị hỗ trợ doanh nghiệp trong việc triển khai lộ trình tuân thủ dữ liệu, cho rằng minh bạch trong thu thập và xử lý dữ liệu là yêu cầu bắt buộc, không chỉ để tuân thủ pháp luật mà còn là trách nhiệm với thị trường và người dùng. Ông chia quá trình này thành hai giai đoạn chính.
+
+
+
+"Dữ liệu chính là nền tảng cốt lõi của trí tuệ nhân tạo và được ví như “mỏ vàng” mà giới công nghệ luôn tìm cách khai thác.
+
+Trong bối cảnh Chính phủ ngày càng quan tâm đến việc xây dựng nền kinh tế số, điều cấp thiết hiện nay là thiết lập một cơ chế để “canh gác mỏ vàng” và đảm bảo việc khai thác dữ liệu diễn ra đúng đắn, minh bạch, mang lại giá trị thực chất cho cả doanh nghiệp lẫn người dùng".
+
+Một,giai đoạn thu thập dữ liệu: doanh nghiệp phải thông báo rõ mục đích, phương thức sử dụng và khả năng chia sẻ với bên thứ ba, đảm bảo người dùng đồng ý một cách minh bạch. Quy định này được cụ thể hóa tại Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân (Nghị định 13), có hiệu lực từ ngày 1/7/2023.
+
+Hai,giai đoạn xử lý dữ liệu: trong trường hợp nếu sử dụng công nghệ như trí tuệ nhân tạo (AI), người dùng phải được thông báo và có quyền từ chối. Việc xử lý dữ liệu mà không có sự đồng thuận có thể vi phạm pháp luật.
+
+Ông Hoàng cho biết trước khi Nghị định 13 có hiệu lực, nhiều doanh nghiệp còn xem nhẹ việc bảo vệ dữ liệu cá nhân. Tuy nhiên, từ sau thời điểm 1/7/2023, đã có nhiều chuyển biến tích cực, với các chính sách bảo mật được công khai rõ ràng hơn.
+
+Theo Nghị định 13, người dùng có 11 quyền cơ bản liên quan đến dữ liệu cá nhân, bao gồm quyền biết, quyền đồng ý, truy cập, chỉnh sửa, phản đối, xóa, rút lại sự đồng ý, khiếu nại và yêu cầu bồi thường. Việc nâng cao nhận thức cho người dân về các quyền này là điều kiện tiên quyết để bảo vệ dữ liệu hiệu quả.
+
+“Ví dụ, nếu bị gọi điện chào bán bất động sản từ nguồn dữ liệu không rõ ràng, người dùng hoàn toàn có quyền khiếu nại hoặc báo cáo hành vi vi phạm,” ông Hoàng khuyến nghị.
+
+Trong bối cảnh AI đang làm thay đổi nhanh chóng cách vận hành thị trường thì “niềm tin số” (digital trust) là yếu tố cốt lõi để doanh nghiệp giữ được khách hàng, vốn được xây dựng dựa trên hai nền tảng
+
+Thứ nhất,tuân thủ pháp lý ngay từ đầu. Thay vì vá lỗi khi đã ra mắt sản phẩm, doanh nghiệp cần tích hợp bảo vệ dữ liệu vào giai đoạn đầu khi bắt đầu thiết kế, phát triển sản phẩm.
+
+Thứ hai,thường xuyên cập nhật quy định pháp luật. Sau Nghị định 13, sắp tới Việt Nam dự kiến ban hành Luật Bảo vệ dữ liệu cá nhân toàn diện. Điều này đòi hỏi doanh nghiệp phải liên tục rà soát, điều chỉnh hoạt động khai thác dữ liệu để đảm bảo tính hợp pháp và phù hợp với kỳ vọng người tiêu dùng.
+
+Chuẩn bị cho quy định pháp luật về dữ liệu và bảo vệ dữ liệu cá nhân đang được xây dựng và dự kiến ban hành trong thời gian tới, nhiều doanh nghiệp tại Việt Nam được khuyến nghị cần sớm thiết lập nền tảng vững chắc về bảo vệ dữ liệu, không chỉ ở hệ thống công nghệ mà còn ở văn hoá nội bộ.
+
+Theo ông Hà Hoàng, yếu tố đào tạo và nâng cao nhận thức trong doanh nghiệp đóng vai trò then chốt để giảm thiểu rủi ro. Chương trình đào tạo thường chia thành ba cấp độ: cấp lãnh đạo, cấp phòng ban chức năng và nhân viên nội bộ. Theo đó, doanh nghiệp cần cá nhân hóa quy trình quản trị dữ liệu theo từng đơn vị, nhằm đảm bảo việc phân luồng, bảo vệ và sử dụng dữ liệu hiệu quả, đúng quy định.Trung tâm Dữ liệu quốc gia là một dự án trọng điểm, có thể trở thành cổng thông tin một cửa, phá bỏ các rào cản trong chia sẻ dữ liệu giữa các cơ quan nhà nước và giữa khu vực công với doanh nghiệp.
+
+Một trong những điểm đáng chủ ý của Nghị định 13/2023/NĐ-CP là đặt ra yêu cầu về việc thành lập bộ phận và cá nhân phụ trách bảo vệ dữ liệu cá nhân trong doanh nghiệp. Theo ông Hoàng, dù có thể kiêm nhiệm chức danh này ở giai đoạn đầu, doanh nghiệp vẫn nên tham khảo các đơn vị tư vấn chuyên môn có kinh nghiệm trong nước và quốc tế để xây dựng lộ trình tuân thủ, vận hành theo đúng tiêu chuẩn ngành và thông lệ quốc tế.
+
+Trong tương lai, xu hướng quy định và xử phạt đối với các hành vi vi phạm bảo mật dữ liệu sẽ được kiểm soát chặt chẽ hơn. Đặc biệt là sắp tới khi Luật Dữ liệu được hoàn thiện và sự ra mắt của Trung tâm Dữ liệu quốc gia.
+
+Theo phương án trình Quốc hội dự án Luật Bảo vệ dữ liệu cá nhân, có thể sẽ áp dụng mức xử phạt hành chính từ 1% đến 5% doanh thu năm liền trước của tổ chức, doanh nghiệp có vi phạm quy định về bảo vệ dữ liệu cá nhân.
+
+“Nếu như mức phạt 1-5% được áp dụng, sẽ tác động lớn đến hành động doanh nghiệp, đồng thời sẽ thay đổi về mặt nhận thức và vận hành doanh nghiệp trong thời gian sắp tới”,ông Hoàng Hà nhận định.
+
+
+
+"Trung tâm Dữ liệu quốc gia là một dự án trọng điểm, có thể trở thành cổng thông tin một cửa, phá bỏ các rào cản trong chia sẻ dữ liệu giữa các cơ quan nhà nước và giữa khu vực công với doanh nghiệp.
+
+Dữ liệu nhạy cảm như thông tin về giao dịch tài chính hiện tại đều phải được đối chiếu với các cơ quan quản lý. Việc sử dụng dữ liệu định danh tài khoản cá nhân hiện nay đã phải tuân thủ chặt chẽ theo quy định và sắp tới sẽ là Luật Bảo vệ dữ liệu cá nhân và Luật Dữ liệu".
+
+Đối với vấn đề bảo mật dữ liệu trong lĩnh vực tài chính – ngân hàng, ông Lương Tuấn Thành, Giám đốc công nghệ Ngân hàng TMCP Phương Đông (OCB), cho biết Thông tư 13/2022 của Ngân hàng Nhà nước đã đưa ra những quy định cụ thể về hệ thống kiểm soát nội bộ đối với các ngân hàng thương mại và chi nhánh ngân hàng nước ngoài, trong đó có những yêu cầu về quản trị dữ liệu.
+
+Hiện nay, mọi thông tin đặc biệt là dữ liệu cá nhân của khách hàng đều phải được phân loại rõ ràng và chỉ được khai thác khi có sự cho phép hợp lệ từ cả khách hàng và cả cơ quan quản lý. Đồng thời, đa số các hệ thống các ngân hàng hiện nay đều kết nối với cơ sở dữ liệu quốc gia về dân cư (VNeID) cũng như Trung tâm Dữ liệu quốc gia để xác thực tính chính xác của thông tin, chẳng hạn như mã định danh cá nhân.
+
+“Dữ liệu nhạy cảm như thông tin về giao dịch tài chính hiện tại đều phải được đối chiếu với các cơ quan quản lý. Việc sử dụng dữ liệu định danh tài khoản cá nhân hiện nay đã phải tuân thủ chặt chẽ theo quy định và sắp tới sẽ là Luật Bảo vệ dữ liệu cá nhân và Luật Dữ liệu”,ông Thành nhấn mạnh...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 21-2025,phát hành ngày 26/5/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1414

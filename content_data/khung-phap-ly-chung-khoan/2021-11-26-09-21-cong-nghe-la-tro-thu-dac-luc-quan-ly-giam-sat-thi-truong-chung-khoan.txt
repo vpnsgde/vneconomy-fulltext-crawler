@@ -1,0 +1,33 @@
+Cục Công nghệ Thông tin, Uỷ ban Chứng khoán Nhà nước, cho biết trải qua 25 năm, cùng với sự phát triển thị trường chứng khoán, việc ứng dụng công nghệ thông tin hiện đại trong công tác quản lý nhà nước về chứng khoán và thị trường chứng khoán tại Ủy ban Chứng khoán Nhà nước liên tục phát triển và đạt được nhiều thành tựu.
+
+Thứ nhất, xây dựng và hình thành hạ tầng công nghệ đảm bảo an toàn bảo mật và làm nền tảng cho việc triển khai các ứng dụng công nghệ thông tin.
+
+Hạ tầng kỹ thuật công nghệ thông tin trong Ủy ban Chứng khoán Nhà nước được phát triển, nâng cấp đảm bảo khả năng triển khai các hệ thống thông tin, cơ sở dữ liệu cốt lõi cho ngành.
+
+Hệ thống máy chủ và lưu trữ cơ bản đáp ứng được các yêu cầu cho các ứng dụng hiện có của Ủy ban Chứng khoán Nhà nước. Hệ thống mạng diện rộng được hình thành bằng cách kết nối mạng cục bộ của Ủy ban Chứng khoán Nhà nước với mạng diện rộng của Bộ Tài chính, với các Sở Giao dịch Chứng khoán, Trung tâm Lưu ký chứng khoán. Xây dựng và triển khai hệ thống an toàn bảo mật theo tiêu chuẩn cao và đáp ứng các quy định về an toàn bảo mật cho các hệ thống thông tin theo yêu cầu của Bộ Tài chính.
+
+Thứ hai, nâng cao năng lực quản lý, giám sát thị trường chứng khoán để bảo vệ nhà đầu tư.
+
+Hệ thống giám sát giao dịch chứng khoán (MSS) được triển khai xây dựng và đưa vào sử dụng từ năm 2013 và nâng cấp năm 2020. Từ khi được đưa vào sử dụng, hệ thống MSS là một trong những công cụ hỗ trợ đắc lực cho hoạt động giám sát của Ủy ban Chứng khoán Nhà nước nhằm đảm bảo các hoạt động giao dịch trên thị trường chứng khoán tuân thủ các quy định của Luật Chứng khoán và quy định khác có liên quan.
+
+Thứ ba, nâng cao tính minh bạch, công bằng của thị trường trong việc tiếp cận thông tin công bố.
+
+Hệ thống công bố thông tin dành cho công ty đại chúng (IDS) được xây dựng nhằm hỗ trợ các công ty đại chúng thực hiện việc báo cáo và công bố thông tin điện tử, thay thế cho việc báo cáo bằng văn bản giấy như trước đây.
+
+Đến nay, có hơn 2.000 công ty đại chúng đăng ký và thực hiện công bố thông tin điện tử qua hệ thống IDS. Thông tin nhanh chóng được xử lý và công bố công khai trên thị trường giúp các đối tượng tham gia thị trường được tiếp cận thông tin một cách nhanh chóng và công bằng; kịp thời nắm bắt được các thông tin về các doanh nghiệp, đưa ra những quyết định chính xác và phù hợp.
+
+Thứ tư, xây dựng hệ thống công nghệ thông tin để hỗ trợ công tác quản lý giám sát các thành viên thị trường: công ty chứng khoán, công ty quản lý quỹ và quỹ đầu tư, ngân hàng lưu ký giám sát, văn phòng đại diện, chi nhánh công ty quản lý quỹ nước ngoài tại Việt Nam, người hành nghề chứng khoán.
+
+Các hệ thống này tạo lập một cơ sở dữ liệu quản lý tập trung về các đối tượng tham gia thị trường từ đó giúp cho Uỷ ban khai thác thông tin, thực hiện phân tích, đánh giá và dự báo để phục vụ cho công tác quản lý giám sát hiệu quả hơn.
+
+Thứ năm, hiện đại hóa hệ thống công nghệ thông tin góp phần cải cách thủ tục hành chính, đẩy mạnh dịch vụ công trực tuyến.
+
+Cổng thông tin điện tử của Ủy ban Chứng khoán Nhà nước tại địa chỉ: www.ssc.gov.vn được xây dựng và nâng cấp, đáp ứng là cổng giao tiếp giữa Ủy ban với người dân và doanh nghiệp.
+
+Cổng thông tin kết nối các chương trình ứng dụng để tiếp nhận và công bố các báo cáo điện tử từ công ty đại chúng, công ty chứng khoán, các công ty quản lý quỹ và quỹ đầu tư. Đây cũng là cầu nối quan trọng giữa cơ quan quản lý là Ủy ban Chứng khoán Nhà nước với các doanh nghiệp và người dân thông qua việc cung cấp các chính sách và các thông tin trên thị trường chứng khoán một cách nhanh chóng và chính xác. Ủy ban cũng hệ thống dịch vụ công trực tuyến mức độ 3, 4, tích hợp với Cổng dịch vụ công quốc gia.
+
+Thứ sáu, đẩy mạnh ứng dụng công nghệ thông tin trong công tác quản lý nội bộ như nâng cấp Chương trình quản lý văn bản điều hành, Chương trình quản lý tài sản ngành tài chính, chương trình kế toán hành chính sự nghiệp IMAS.
+
+Đây là các chương trình phần mềm dùng chung được triển khai tại Bộ Tài chính nhằm đảm bảo tính thống nhất và tiết kiệm chi phí.
+
+Ủy ban Chứng khoán Nhà nước cũng triển khai các ứng dụng phục vụ hoạt động nội bộ phục vụ cho công tác chuyên môn như cổng thông tin nội bộ, phần mềm quản lý thu phí, hệ thống cơ sở dữ liệu phục vụ công tác thanh tra chứng khoán, hệ thống quản lý thống kê nội bộ.

@@ -1,0 +1,51 @@
+Theo các chuyên gia, trong bối cảnh doanh nghiệp trên toàn thế giới tăng tốc trong cuộc đua chuyển đổi số, phát triển hệ sinh thái thiết bị, việc sản xuất chip vi mạch bán dẫn tích hợp trở thành xương sống cho hệ thống điện tử và ngành công nghệ phát triển. Việc áp dụng ngày càng nhiều công nghệ IoT và công nghệ nhà thông minh thúc đẩy sự phát triển của thị trường chất bán dẫn tại Việt Nam và các nhà máy sản xuất linh kiện bán dẫn đang được xúc tiến để giải quyết tình trạng thiếu hụt toàn cầu.
+
+Để làm ra một chip, có ba khâu cơ bản gồm: thiết kế, sản xuất và đóng gói. Việt Nam hiện đóng vai trò quan trọng trong ngành bán dẫn toàn cầu, trong đó chủ yếu tập trung vào lắp ráp, thử nghiệm và đóng gói.
+
+Đặc biệt, khi nói tới đầu tư vào lĩnh vực chất bán dẫn không thể không nhắc tới Intel- một trong 3 nhà sản xuất bán dẫn hàng đầu thế giới, từ hơn 10 năm trước đã bắt đầu phát triển nhà máy tại Việt Nam, với quy mô 1 tỷ USD. Việt Nam hiện là nơi đặt nhà máy lắp ráp và kiểm định lớn nhất của hãng công nghệ này tại Khu công nghệ cao Tp.Hồ Chí Minh. Ước tính, nhà máy này chiếm hơn 50% tổng sản lượng của Intel trên toàn cầu.
+
+Năm 2021, Intel đã tăng vốn đầu tư dự án này lên gần 1,5 tỷ USD và đang có kế hoạch đầu tư thêm để mở rộng nhà máy tại Việt Nam. Việt Nam trở thành một phần quan trọng trong mạng lưới sản xuất toàn cầu của Intel.
+
+Hana Micron Vina sẽ phát triển một hệ sinh thái ngành công nghiệp chất bán dẫn mới tại Việt Nam, góp phần đa dạng các loại hình công nghệ, kỹ thuật sáng tạo mà Việt Nam đang theo đuổi...
+
+Cùng với Intel, Samsung cũng tuyên bố kế hoạch sản xuất linh kiện bán dẫn ở Việt Nam. Việc sản xuất đại trà các sản phẩm lưới bóng chíp bán dẫn của Nhà máy Samsung Electro-Mechanics Việt Nam tại Thái Nguyên dự kiến được thực hiện vào cuối năm 2023, sau khi công tác sản xuất thử nghiệm hoàn tất.
+
+Ngoài ra thị trường còn chứng kiến sự hiện diện của Hana Micron Vina, Amkor Technology, và nhiều công ty khác, tích cực đầu tư vào các dự án này.
+
+Ở miền Bắc, ngày 16/9 vừa qua, Hana Micron Vina (Hàn Quốc) khánh thành dự án nhà máy sản xuất chất bán dẫn tại Khu công nghiệp Vân Trung (Bắc Giang). Đây là dự án sản xuất chất bán dẫn đầu tiên tại miền Bắc. Nhà máy tại Việt Nam sẽ là cơ sở sản xuất số một trong hoạt động kinh doanh toàn cầu của Tập đoàn.
+
+Hana Micron Vina là doanh nghiệp sản xuất và gia công bảng vi mạch tích hợp sử dụng cho điện thoại di động và các sản phẩm điện tử thông minh khác, có tổng vốn đăng ký đầu tư gần 600 triệu USD.
+
+Ông Choi Chang Ho, Chủ tịch Hana Micron Vina, cho biết đến năm 2025, công ty có kế hoạch tăng tổng mức đầu tư lên trên 1 tỷ USD. Hana Micron Vina sẽ phát triển một hệ sinh thái ngành công nghiệp chất bán dẫn mới tại Việt Nam, góp phần đa dạng các loại hình công nghệ, kỹ thuật sáng tạo mà Việt Nam đang theo đuổi.
+
+Một dự án cả tỷ USD khác (1,6 tỷ USD) trong lĩnh vực bán dẫn đang được Công ty Amkor Technology Việt Nam (Hàn Quốc) triển khai tại Bắc Ninh dự kiến hoàn thành vào tháng 9 tới và đưa vào sản xuất thử nghiệm ngay sau đó. Đây là nhà máy lớn, hiện đại nhất của Amkor trên toàn cầu.
+
+Gã khổng lồ sản xuất chip Hàn Quốc, Hanmi Semiconductor, cuối tháng 5/2023 công bố đưa Chi nhánh Hanmi Việt Nam tại Bắc Ninh vào hoạt động. Hanmi Semiconductor là một trong những nhà thiết kế, phát triển và sản xuất hàng đầu trong ngành thiết bị bán dẫn.
+
+Cũng cuối tháng 5/2023, công ty Infineon Technologies AG (Đức) về các giải pháp bán dẫn cho hệ thống điện và IoT đã thông báo việc mở rộng quy mô hoạt động tại Việt Nam, đồng thời thành lập một đội ngũ phát triển chip điện tử làm việc tại Hà Nội. Lực lượng này sẽ tập trung vào việc kiểm thử và tùy chỉnh các mạch kỹ thuật số, mạch tín hiệu analog và tích hợp, hỗ trợ các ứng dụng lái xe tự động, giám sát và cân bằng pin.
+
+Theo ông Hartmut Hiller, Phó Chủ tịch điều hành bộ phận Thiết kế và các dịch vụ hỗ trợ (DES), Infineon Technologies AG, trung tâm phát triển mới tại Hà Nội sẽ giúp hãng đáp ứng nhu cầu ngày càng tăng, liên quan đến kiểm thử chức năng và thiết kế mạch tùy chỉnh cho các giải pháp về hệ thống trên chip (SoC) của Infineon.
+
+Còn Synopsys (trụ sở tại California) triển khai một trung tâm ươm tạo và thiết kế chất bán dẫn phối hợp với Khu công nghệ cao TP.Hồ Chí Minh. Cũng tại Tp Hồ Chí Minh, Marvell- một trong những tập đoàn dẫn đầu thế giới về thiết kế vi mạch bán dẫn thành lập một trung tâm thiết kế chất bán dẫn đẳng cấp thế giới.
+
+Ngoài ra, Victory Giant Technology, tập đoàn chuyên sản xuất linh kiện điện tử, chất bán dẫn của Trung Quốc đã quyết định lựa chọn để xây dựng nhà máy với tổng mức đầu tư 400 triệu USD tại Bắc Ninh.
+
+Với sự sôi động của các dự án, một số chuyên gia trong ngành cho rằng Việt Nam đang nổi lên như một trung tâm sản xuất của nhiều doanh nghiệp bán dẫn thế giới và có thể sẽ tiếp tục sôi động hơn.
+
+Một chuyên gia công nghệ nhìn nhận, việc các công ty thiết kế vi mạch của Hàn Quốc đi theo Samsung vào Việt Nam như một số công ty gần đây cho thấy quy mô của ngành điện tử Việt Nam đã đủ lớn để kéo theo sự phát triển của ngành vi mạch bán dẫn, đầu tiên là trong các khâu thiết kế và đóng gói…
+
+Ngành công nghiệp bán dẫn ở Việt Nam đang mở ra những cơ hội phát triển, thu hút đầu tư. Việt Nam được đánh giá có hệ sinh thái bán dẫn phát triển nhanh, tiềm năng nâng cao vị trí trong chuỗi cung ứng toàn cầu. Việc thúc đẩy một hệ sinh thái doanh nghiệp hỗ trợ sẽ giúp Việt Nam thu hút các doanh nghiệp lớn trong ngành chip bán dẫn.
+
+Trong tuyên bố chung về quan hệ Đối tác Chiến lược Toàn diện Việt- Mỹ mới đây, hai bên ghi nhận tiềm năng to lớn của Việt Nam trở thành quốc gia chủ chốt trong ngành công nghiệp bán dẫn, đồng thời "ủng hộ sự phát triển nhanh chóng của hệ sinh thái bán dẫn tại Việt Nam, tích cực phối hợp nhằm nâng cao vị trí của Việt Nam trong chuỗi cung ứng bán dẫn.
+
+Việt Nam và Hoa Kỳ tuyên bố khởi động các sáng kiến phát triển nguồn nhân lực trong lĩnh vực bán dẫn, trong đó Chính phủ Hoa Kỳ sẽ cấp khoản tài trợ gieo mầm ban đầu trị giá 2 triệu USD.
+
+Điều này được nhận định là bước tiến mới của Việt Nam trên con đường thâm nhập ngành công nghiệp trị giá hàng trăm tỷ USD.
+
+Thống kê, Việt Nam đã chiếm hơn 10% số lượng chip nhập khẩu của Mỹ trên toàn thế giới trong 7 tháng liên tiếp. Bộ Thông tin và Truyền thông cho biết, xét về mặt doanh số, Việt Nam đứng hạng 3 châu Á, sau  Malaysia và Đài Loan trong xuất khẩu chip bán dẫn vào Mỹ.
+
+Bên cạnh các dự án nước ngoài, Việt Nam một số đơn vị, doanh nghiệp công nghệ đã nghiên cứu, thiết kế, sản xuất chip như FPT Semiconductor, CMC, Viettel... Đây sẽ là con đường để Việt Nam tham gia sâu hơn vào ngành chip bán dẫn toàn cầu. Đơn cử như FPT đã tuyên bố thiết kế sản xuất thành công chip thương mại cung cấp cho nhiều thị trường và mục tiêu vươn tới vị trí công ty thiết kế chip lớn nhất Đông Nam Á.
+
+Theo báo cáo của Gartner, doanh thu ngành sản xuất chip toàn cầu năm 2022 tăng khoảng 1,2% so với năm 2021, đạt 601,7 tỷ USD. Dự báo, thị trường bán dẫn toàn cầu có quy mô khoảng 1.400 tỷ USD vào năm 2029.
+
+Tham gia thị trường bán dẫn toàn cầu, Việt Nam sẽ có được các cơ hội tỷ USD. Dự báo đến năm 2024, công nghiệp bán dẫn Việt Nam sẽ vượt giá trị 6,16 tỷ USD.

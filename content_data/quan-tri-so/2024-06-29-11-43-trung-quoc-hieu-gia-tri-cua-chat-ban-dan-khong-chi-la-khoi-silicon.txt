@@ -1,0 +1,29 @@
+Không có phần cứng thì phần mềm không thể thực thi được. Tuy nhiên, nếu không có phần mềm thì phần cứng chỉ là một khối silicon vô nghĩa.Phần cứng của chip đề cập đến nền tảng vật lý, bao gồm bộ xử lý, bộ nhớ, thiết bị lưu trữ... Trong khi đó, phần mềm bao gồm chương trình cơ sở, trình điều khiển, hệ điều hành, ứng dụng, toán tử, trình biên dịch, công cụ phát triển, hệ sinh thái ứng dụng, cùng nhiều thứ khác.
+
+Phần mềm hướng dẫn phần cứng cách phản hồi hướng dẫn của người dùng, xử lý dữ liệu và tác vụ, đồng thời tối ưu hóa việc sử dụng tài nguyên phần cứng thông qua các thuật toán và chiến lược cụ thể. Vậy nên, không có phần cứng thì phần mềm không thể thực thi được. Tuy nhiên, nếu không có phần mềm thì phần cứng chỉ là một khối silicon vô nghĩa.
+
+Vào năm 2012, sự kết hợp giữa deep learning và GPU đã tạo nên sản phẩm là trí tuệ nhân tạo trong một cuộc thi quốc tế. Chỉ sau một đêm, công nghệ này đã trở thành một hiện tượng toàn cầu, khiến thế giới công nghệ tập trung vào lĩnh vực này. Nvidia, công ty phát triển mạnh về chất bán dẫn, một phần không thể thiếu của công nghệ trí tuệ nhân tạo, đã chứng kiến ​​giá cổ phiếu của mình tăng vọt, trở thành thế lực thống trị kỷ nguyên mới.
+
+
+
+Để phá vỡ thế độc quyền của Nvidia, cựu lãnh đạo chip Intel và một tay chơi khác trong ngành là AMD lần lượt tung ra OneAPI và ROCm để cạnh tranh với CUDA.
+
+Theo KrAsia, Quỹ Linux, cùng với Intel, Google, Qualcomm, Arm và Samsung, cùng nhiều tổ chức khác, đã thành lập Quỹ UXL, và nhiều người gọi tổ chức của họ là “liên minh chống CUDA”, để phát triển một bộ phần mềm nguồn mở cho phép các nhà phát triển AI lập trình trên chip của bất kỳ công ty thành viên nào, cố gắng thay thế CUDA trong nền tảng phát triển AI
+
+Vào năm 2022, Nvidia được chính phủ yêu cầu ngừng cung cấp chip GPU cao cấp cho thị trường Trung Quốc, nhằm cản trở nỗ lực phát triển công nghệ của quốc gia này. Tuy nhiên, cũng từ đây, nỗ lực phát triển độc lập cả phần cứng và phần mềm của quốc gia này cũng được đẩy mạnh.
+
+Trên thực tế, rất lâu trước khi lệnh cấm này được ban hành, các công ty chip Trung Quốc đã chuẩn bị sẵn sàng cho một động thái từ Mỹ. Năm 2015, ngành công nghiệp AI bắt đầu Trung Quốc bùng nổ. Trong làn sóng AI này, các công ty Trung Quốc đặc biệt quan tâm đến mạng thần kinh tích chập (CNN) và họ nhận ra tầm quan trọng của việc sản xuất chip AI trong nước.
+
+Trong giai đoạn này, gần một trăm công ty chip AI của Trung Quốc đã xuất hiện, bao gồm các công ty khởi nghiệp như Cambricon, Biren Technology và Houmo.ai, cũng như những gã khổng lồ công nghệ như Huawei, Alibaba và Baidu, cùng với các nhà sản xuất chip truyền thống và nhà sản xuất thiết bị khai thác mỏ.
+
+Tất cả các công ty đều nhảy vào cuộc và ngành công nghiệp chip của Trung Quốc trở nên sôi động, dường như họ có một mục tiêu chung: tạo ra một hệ sinh thái chip AI nội địa độc lập.
+
+Trong bối cảnh này, các nhà sản xuất chip AI Trung Quốc cũng nhận ra tầm quan trọng của phần mềm, công cụ và đầu ra của hệ sinh thái chip. Từ đó, họ cũng đầu tư đáng kể thời gian và công sức để phát triển phần mềm bên cạnh sản phẩm phần cứng.
+
+Các công ty khởi nghiệp về chip AI của Trung Quốc đang phát triển mạnh mẽ trong lĩnh vực đám mây. Đơn cử như Biren đã phát triển nền tảng phần mềm BIRENSUPA, bao gồm phần cứng, mô hình lập trình, trình biên dịch BRCC, thư viện tăng tốc máy tính và học sâu, chuỗi công cụ, hỗ trợ cho các khung học sâu chính thống, công cụ tăng tốc suy luận tự phát triển, và SDK ứng dụng cho các tình huống khác nhau. Đây là một trong số ít nền tảng phát triển phần mềm AI toàn diện ở Trung Quốc.
+
+Một công ty khác của Trung Quốc là Cambricon, tập trung vào đám mây và chip AI ô tô, đã ra mắt Houmo.ai, chip lái xe thông minh tích hợp cùng nền tảng phần mềm Houmo Dadao.
+
+Tuy nhiên, hiểu được tầm quan trọng của phần mềm sau cùng, trong khoảng thời gian từ 2015 đến 2022, các công ty sản xuất chip của Trung Quốc đã đẩy mạnh nỗ lực xây dựng hệ sinh thái phần cứng và phần mềm của riêng mình. Họ đã cố gắng bắt kịp ở một mức độ nào đó trên cấp độ quốc tế, mặc dù vẫn đứng sau đáng kể so với những gã khổng lồ toàn cầu như Nvidia.
+
+Song song, các công ty Trung Quốc hiện cũng đang tích cực phát triển phần mềm mô hình lớn, sức mạnh tính toán và các lớp điện toán đám mây. Sức mạnh tính toán đã trở thành chiến trường của kỷ nguyên AI. Giám đốc điều hành của OpenAI, Sam Altman từng nói rằng “sức mạnh tính toán sẽ là tiền tệ của tương lai”, cho thấy rằng sự phát triển của AI sẽ biến thành một cuộc tranh giành quyền lực lớn giữa các công ty, tổ chức và thậm chí cả các quốc gia.

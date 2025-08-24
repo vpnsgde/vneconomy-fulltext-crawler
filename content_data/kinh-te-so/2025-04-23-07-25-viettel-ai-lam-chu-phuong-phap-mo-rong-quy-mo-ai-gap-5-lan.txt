@@ -1,0 +1,15 @@
+Trí tuệ nhân tạo (AI) ngày càng đóng vai trò quan trọng trong mọi lĩnh vực, việc mở rộng quy mô mô hình AI, tức là tăng khả năng xử lý lượng thông tin của các mô hình AI, mà không ảnh hưởng đến hiệu suất là một thách thức lớn. Các kỹ thuật hợp nhất mô hình tiên tiến cho phép các nhà phát triển AI kết hợp điểm mạnh của nhiều mô hình, cải thiện độ chính xác mà không cần tái huấn luyện.
+
+CAMEx là phương pháp hợp nhất mô hình AI do Trung tâm Dịch vụ dữ liệu và Trí tuệ nhân tạo Viettel (Viettel AI) và Đại học Quốc gia Singapore (NUS) phối hợp nghiên cứu. Phương pháp này sẽ được Viettel AI công bố tại ICLR 2025 (International Conference on Learning Representations) - một trong những hội nghị quốc tế uy tín hàng đầu trong lĩnh vực trí tuệ nhân tạo.
+
+Viettel AI cho biết trong bối cảnh các mô hình ngôn ngữ lớn ngày càng mở rộng về quy mô và chi phí huấn luyện tăng chóng mặt, CAMEx giúp giải quyết bài toán hóc búa: tạo ra mô hình có quy mô lớn hơn gấp 5 lần mà không sử dụng quá nhiều tài nguyên hay ảnh hưởng đến tốc độ xử lý. Nhờ đó, mô hình không chỉ xử lý dữ liệu nhanh như các phiên bản nhỏ hơn mà còn cải thiện vượt bậc về độ chính xác, khả năng biểu đạt và hiệu quả trong việc giải quyết các tác vụ phức tạp.
+
+Nếu như các phương pháp hợp nhất mô hình ngôn ngữ truyền thống dễ làm mất thông tin quan trọng và giảm độ chính xác của các mô hình thì CAMEx bảo toàn tối đa các yếu tố này, đồng thời, tiết kiệm tài nguyên, giảm chi phí tính toán và mở rộng khả năng ứng dụng của các mô hình trong nhiều lĩnh vực.
+
+Đại diện nhóm nghiên cứu Viettel AI cho biết, các kết quả thử nghiệm cho thấy phương pháp này có tiềm năng đáng kể trong việc nâng cao hiệu suất trên nhiều tác vụ xử lý ngôn ngữ tự nhiên, như mô hình hóa ngôn ngữ, phân loại văn bản và suy luận; trong các lĩnh vực như phân loại hình ảnh, phát hiện vật thể, kiểm duyệt nội dung…
+
+Hội nghị ICLR 2025 là một trong những sự kiện uy tín bậc nhất thế giới trong lĩnh AI và học sâu (Deep Learning), diễn ra tại Singapore từ ngày 24-28/4/2025. Hội nghị được tổ chức bởi các nhà khoa học và chuyên gia hàng đầu trong lĩnh vực và được tài trợ bởi các công ty công nghệ lớn trên thế giới như Google Research, Meta, Microsoft… nhằm giới thiệu các đột phá công nghệ và là bệ phóng cho những công trình tiên phong ứng dụng AI vào thực tế trong nhiều lĩnh vực như khoa học dữ liệu, nhận dạng giọng nói hay thị giác máy tính.
+
+
+
+Viettel AI là đơn vị trực thuộc Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel), tiên phong làm chủ và phát triển các sản phẩm, dịch vụ thuộc lĩnh vực AI, Big Data, Robotics và Digital Twin.

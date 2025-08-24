@@ -1,0 +1,21 @@
+Chiều 24/5, Thứ trưởng Bộ Giáo dục và Đào tạo Hoàng Minh Sơn có buổi làm việc với Bảo hiểm Xã hội Việt Nam về việc kết nối, chia sẻ dữ liệu ngành giáo dục với cơ sở dữ liệu quốc gia về bảo hiểm.
+
+Đại diện Bộ Giáo dục và Đào tạo và Bảo hiểm Xã hội Việt Nam đã thảo luận và thống nhất rằng kết nối cơ sở dữ liệu ngành giáo dục với cơ sở dữ liệu quốc gia về bảo hiểm là việc cần thiết. Sự kết nối này cần đảm bảo yêu cầu về bảo mật và dữ liệu được liên thông, kết nối phải được sử dụng đúng quy định.
+
+Thứ trưởng Hoàng Minh Sơn yêu cầu việc rà soát, kết nối và phối hợp để những trường dữ liệu được sử dụng phục vụ tốt nhất cho công tác điều hành của Bộ Giáo dục và Đào tạo và công tác chuyên môn của Bảo hiểm Xã hội Việt Nam.
+
+Thứ trưởng đề nghị hai bên thống nhất, kết nối đồng bộ và làm giàu dữ liệu của nhau phù hợp với các quy định của pháp luật. Trong đó, ngay trong tháng 5 và tháng 6 năm 2023, Bộ Giáo dục và đào tạo và Bảo hiểm Xã hội Việt Nam sẽ thành lập các tổ công tác, phối hợp làm sạch, chuẩn hoá dữ liệu để kết nối cơ sở dữ liệu.
+
+Cùng với đó, hai bên cũng cần nghiên cứu xây dựng quy chế phối hợp trong thực hiện nhiệm vụ, tập trung vào kết nối dữ liệu để phục vụ mục đích quản lý của hai bên.
+
+Việc Bộ Giáo dục và Đào tạo và Bảo hiểm Xã hội Việt Nam phối hợp để kết nối, chia sẻ cơ sở dữ liệu là một trong những công tác nhằm thực hiện Quyết định số 06/QĐ-TTg của Thủ tướng phê duyệt “Đề án phát triển ứng dụng dữ liệu về dân cư, định danh điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022- 2025, tầm nhìn đến năm 2030”.
+
+Triển khai Đề án 06, đến nay, Bộ Giáo dục Đào tạo đã kết nối thành công cơ sở dữ liệu quốc gia ngành Giáo dục với cơ sở dữ liệu quốc gia về dân cư; kết nối, xác thực, định danh hồ sơ cán bộ, giáo viên và học sinh trên tổng số gần 24 triệu học sinh (đạt 91,6%). Đồng thời, cũng đã đồng bộ, làm giàu cho cơ sở dữ liệu quốc gia về dân cư thông tin (về lĩnh vực giáo dục, đào tạo) của hơn 23,34 triệu công dân.
+
+Kết nối thành công Hệ thống phần mềm quản lý thi của Bộ và Hệ thống đăng ký xét tuyển đại học, cao đẳng (trong đó cung cấp dịch vụ thanh toán trực tuyến lệ phí xét tuyển cho thí sinh) với Cơ sở dữ liệu quốc gia về dân cư và Cổng dịch vụ công quốc gia, đảm bảo an toàn thông tin và sử dụng ổn định.
+
+Trong năm 2023, Bộ Giáo dục và Đào tạo tiếp tục triển khai kết nối dữ liệu người học (cơ sở dữ liệu về giáo dục đại học) với dữ liệu bảo hiểm (cơ sở dữ liệu quốc gia về bảo hiểm) nhằm hỗ trợ công tác thống kê tình hình việc làm của sinh viên sau tốt nghiệp, dự báo nguồn nhân lực và xu hướng nghề nghiệp của sinh viên ra trường.
+
+Hiện nay, cơ sở dữ liệu về giáo dục mầm non - phổ thông đã thu thập thông tin của 100% trường học (gần 54,000 trường), bao gồm: 1,6 triệu hồ sơ giáo viên và cán bộ quản ly giáo dục;  24 triệu hồ sơ cá nhân, kết quả học tập, thông tin thể chất của học sinh; kết nối, liên thông dữ liệu với hơn 17.083 trường học.
+
+Đối với cơ sở dữ liệu về giáo dục đại học, Bộ Giáo dục Đào tạo đã hoàn thành việc xây dựng về hạ tầng kỹ thuật và đang triển khai thu thập dữ liệu từ các cơ sở giáo dục trên cả nước.

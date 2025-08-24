@@ -1,0 +1,37 @@
+Ngày 11/6, Phó Thủ tướng Nguyễn Chí Dũng đã ký Quyết định số 1121/QĐ-TTg phê duyệt Chương trình hành động quốc gia về phát triển và chuyển đổi sang sử dụng nền tảng điện toán đám mây giai đoạn 2025 - 2030 (gọi tắt Chương trình).
+
+Chương trình đặt mục tiêu chung là ưu tiên nguồn lực, từng bước làm chủ công nghệ, thúc đẩy đổi mới, phát triển và ứng dụng mạnh mẽ điện toán đám mây để góp phần xây dựng hạ tầng số Việt Nam tiên tiến, hiện đại, đồng bộ, an ninh, an toàn và bền vững, có khả năng cung cấp tài nguyên tính toán hiệu năng cao;
+
+Đồng thời, nâng cao toàn diện năng lực cạnh tranh quốc gia, thúc đẩy mạnh mẽ kinh tế số, tạo động lực hiện thực hóa các mục tiêu phát triển kinh tế - xã hội, phấn đấu đưa Việt Nam vào nhóm các quốc gia dẫn đầu khu vực ASEAN về trung tâm dữ liệu, dịch vụ điện toán đám mây vào năm 2030, hướng tới quốc gia phát triển, thu nhập cao vào năm 2045.
+
+Mục tiêu cụ thể của Chương trình đến năm 2030, cơ bản hoàn thành các mục tiêu: Phát triển, thu hút vốn đầu tư trong và ngoài nước để xây dựng các trung tâm dữ liệu quy mô lớn, hiện đại, tính toán hiệu năng cao, đạt tiêu chuẩn quốc tế, an toàn, bền vững, theo tiêu chuẩn xanh, cho phép cung cấp các dịch vụ điện toán đám mây và đáp ứng các yêu cầu kỹ thuật để triển khai ứng dụng trí tuệ nhân tạo (AI).
+
+Phát triển các trung tâm dữ liệu quốc gia, trung tâm dữ liệu đa mục tiêu cấp quốc gia; trung tâm dữ liệu đa mục tiêu cấp vùng ứng dụng điện toán đám mây để phục vụ hoạt động của các cơ quan nhà nước và phát triển kinh tế - xã hội.
+
+Cụ thể, 100% các cơ quan nhà nước ưu tiên triển khai các hệ thống thông tin, dịch vụ công nghệ thông tin mới trên nền tảng điện toán đám mây nếu đủ điều kiện. Tổ chức đánh giá, phân loại và chuyển đổi tối thiểu 70% hệ thống thông tin, dịch vụ công nghệ thông tin hiện có của các bộ, ngành, địa phương (theo thứ tự ưu tiên nếu đủ điều kiện) sang môi trường điện toán đám mây.
+
+Đặc biệt, 100% cơ quan nhà nước, doanh nghiệp nhà nước; 70% doanh nghiệp tư nhân và trên 50% người dân sử dụng các dịch vụ điện toán đám mây do doanh nghiệp trong nước cung cấp.
+
+Ngoài ra, 100% các cơ sở dữ liệu quốc gia được triển khai trên nền tảng điện toán đám mây tại Trung tâm dữ liệu quốc gia theo các quy định pháp luật, bảo đảm an toàn thông tin mạng, an ninh mạng và được quản lý, vận hành ổn định, hiệu quả.
+
+Trong đó, có ít nhất 3 sản phẩm nền tảng điện toán đám mây "Make in Vietnam" được chứng nhận đạt tiêu chuẩn quốc tế, có khả năng cung cấp các dịch vụ hỗ trợ triển khai các ứng dụng AI và cạnh tranh trong khu vực.
+
+Quyết định 1121 nêu rõ mục tiêu đưa Việt Nam vào nhóm 3 quốc gia dẫn đầu ASEAN về quy mô, chất lượng trung tâm dữ liệu; kết nối các trung tâm dữ liệu ứng dụng công nghệ điện toán đám mây trong nước hợp thành mạng lưới cho phép chia sẻ dữ liệu, năng lực tính toán hiệu năng cao phục vụ đẩy mạnh triển khai các ứng dụng AI, phát triển Chính phủ số và chuyển đổi số toàn diện tại Việt Nam.
+
+Để đạt được các mục tiêu trên, Chương trình đặt ra các nhiệm vụ và giải pháp, trước hết là hoàn thiện thể chế phục vụ thúc đẩy phát triển hạ tầng, dịch vụ sử dụng công nghệ điện toán đám mây.
+
+Trong đó, nghiên cứu, xây dựng và ban hành kế hoạch triển khai chi tiết thực hiện Chương trình hành động quốc gia về phát triển và chuyển đổi sang sử dụng nền tảng điện toán đám mây; nghiên cứu, xây dựng và ban hành văn bản pháp lý quy định về nền tảng đám mây Chính phủ để tạo cơ sở pháp lý cho việc xây dựng, triển khai nền tảng này phục vụ phát triển Chính phủ số và chuyển đổi số toàn diện tại Việt Nam.
+
+Nghiên cứu, xây dựng và ban hành chính sách khuyến khích các doanh nghiệp nhà nước, các doanh nghiệp tư nhân và người dân tham gia sử dụng các sản phẩm, dịch vụ điện toán đám mây do doanh nghiệp trong nước cung cấp.
+
+Nghiên cứu, xây dựng và ban hành chính sách ưu đãi, hỗ trợ các doanh nghiệp khởi nghiệp công nghệ, các doanh nghiệp số đầu tư vào nghiên cứu, phát triển, sáng tạo, tự làm chủ công nghệ hạ tầng, sản phẩm và dịch vụ điện toán đám mây "Make in Vietnam" được chứng nhận đạt các tiêu chuẩn quốc tế, có khả năng cạnh tranh trong khu vực.
+
+Bên cạnh đó, Chương trình cũng đặt ra nhiệm vụ và giải pháp nâng cao toàn diện năng lực hạ tầng kỹ thuật, ứng dụng, dịch vụ và thúc đẩy ứng dụng công nghệ điện toán đám mây phục vụ chuyển đổi số trong các cơ quan nhà nước và toàn xã hội.
+
+Phát triển các Trung tâm dữ liệu quốc gia, Trung tâm đổi mới sáng tạo ứng dụng công nghệ điện toán đám mây; triển khai các cơ sở dữ liệu quốc gia trên hạ tầng điện toán đám mây của Trung tâm dữ liệu quốc gia; tổ chức công tác xây dựng, quản lý, khai thác và vận hành theo Luật Dữ liệu năm 2024, Nghị quyết số 175/NQ-CP ngày 30/10/2023 của Chính phủ phê duyệt Đề án Trung tâm dữ liệu quốc gia.
+
+Phát triển các trung tâm dữ liệu đa mục tiêu cấp quốc gia; các trung tâm dữ liệu đa mục tiêu cấp vùng sử dụng nền tảng điện toán đám mây theo Quyết định số 36/QĐ-TTg ngày 11/1/2024 của Thủ tướng Chính phủ phê duyệt quy hoạch hạ tầng thông tin và truyền thông thời kỳ 2021 - 2030, tầm nhìn đến năm 2050.
+
+Khuyến khích, hỗ trợ, thúc đẩy các doanh nghiệp số, các doanh nghiệp viễn thông, các doanh nghiệp đầu tàu trong các lĩnh vực thiết yếu, lĩnh vực mũi nhọn của nền kinh tế (công nghiệp, y tế, giáo dục, logistics, xuất nhập khẩu, tài chính, nông nghiệp, môi trường...) từng bước chuyển đổi các hệ thống thông tin sang môi trường điện toán đám mây, ứng dụng mạnh mẽ các giải pháp điện toán đám mây để tối ưu hóa chi phí sản xuất, cải tiến quy trình, nâng cao năng lực cạnh tranh và tạo hiệu ứng lan tỏa đến toàn xã hội.
+
+Trong đó đặc biệt chú trọng thực hiện triển khai các giải pháp bảo đảm an toàn thông tin mạng, an ninh mạng, bảo vệ dữ liệu cho các hệ thống thông tin triển khai trên môi trường điện toán đám mây theo quy định pháp luật; Công bố các chính sách, cam kết quan trọng (quản lý dữ liệu, kiểm toán độc lập, bảo đảm an toàn thông tin mạng, an ninh mạng, dự phòng thảm họa, khả năng chuyển đổi giữa các nền tảng điện toán đám mây); đồng thời, khuyến khích các doanh nghiệp nghiên cứu, sản xuất và làm chủ công nghệ, giải pháp, sản phẩm bảo đảm an toàn thông tin mạng, an ninh mạng trên môi trường điện toán đám mây.

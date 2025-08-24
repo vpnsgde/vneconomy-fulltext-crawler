@@ -1,0 +1,57 @@
+Theo Research and Markets, thị trường trung tâm dữ liệu Việt Nam dự kiến sẽ tăng trưởng với tốc độ CAGR 10,68% trong giai đoạn 2022 - 2028, tăng từ 561 triệu USD năm 2022 lên 1,037 tỷ USD năm 2028.
+
+Tại Hội nghị Data Center & Cloud Infrastructure Summit diễn ra mới đây, Giám đốc Viettel IDC Hoàng Văn Ngọc cho biết tổng dung lượng thị trường trung tâm dữ liệu toàn cầu sẽ đạt khoảng 321 tỷ USD trong năm 2024, với tốc độ tăng trưởng trung bình khoảng 7,3%. Trong đó, châu Á- Thái Bình Dương (APAC) hiện là khu vực năng động, có tốc độ phát triển trung tâm dữ liệu cao hơn hẳn các khu vực khác.
+
+Quy mô của APAC đạt giá trị khoảng 30 tỷ USD với tốc độ tăng trưởng kép đạt 18,9% tới năm 2028. Đây là một trong những khu vực có tốc độ tăng trưởng cao nhất trên thế giới. Sự phát triển này diễn ra đồng đều ở cả thị trường sơ cấp và thứ cấp.  Đặc biệt, trong những năm gần đây đã chứng kiến sự dịch chuyển từ thị trường sơ cấp (các nước phát triển) sang các thị trường thứ cấp (các nước đang phát triển, trong đó có Việt Nam). Dự báo trong những năm tới, thị trường Việt Nam, Philippines, Indonesia, Malaysia, Thái Lan sẽ có sự bùng nổ về trung tâm dữ liệu.
+
+Theo ông Ngọc, Việt Nam có nhiều động lực thúc đẩy phát triển thị trường như: nguồn nhân lực giá rẻ, lực lượng lao động công nghệ thông tin đông đảo, chi phí xây dựng rẻ hơn các nước, có hành lang pháp lý và sự hỗ trợ thúc đẩy chương trình chuyển đổi số của Chính phủ…
+
+Tuy nhiên một trong những rào cản khiến lĩnh vực trung tâm dữ liệu Việt Nam chưa bùng nổ như kỳ vọng là do kết nối cáp quang biển, nguồn điện còn thiếu và không ổn định.
+
+Một số nghiên cứu dự báo, thị trường trung tâm dữ liệu Việt Nam đến năm 2030 sẽ giữ tốc độ tăng trưởng hai con số (khoảng 11-12%). Trong đó có bốn nhà cung cấp lớn trong nước (Viettel, VNPT, FPT, CMC) chiếm tỷ trọng 97% thị trường.
+
+Riêng thị trường điện toán đám mây (Cloud), sau thời gian phát triển nóng thì đã chững lại trong các năm 2022, 2023. Nguyên nhân do các doanh nghiệp, tổ chức sau khi thực hiện chuyển dịch vụ lên đám mây, có xu hướng tối ưu chi phí, nhưng đó chỉ là xu hướng ngắn hạn. Thị trường dự báo sẽ phục hồi vào quý 4/2024 và đến năm 2025, năm 2026 sẽ có tốc độ tăng trưởng đi lên.
+
+Thị trường điện toán đám mây Việt Nam có tốc độ tăng trưởng cao nhất khu vực Đông Nam Á, đứng thứ ba châu Á. Dự báo tốc độ tăng trưởng thị trường điện toán đám mây Việt Nam trong 5-10 năm tới sẽ ở mức 19-20%; quy mô thị trường đến năm 2025 sẽ đạt khoảng 768 triệu USD và 1,2 tỷ USD vào năm 2030.
+
+Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030 với ba trụ cột là chính phủ số, kinh tế số, xã hội số; trong đó chiến lược “dịch chuyển lên mây” được coi là quan trọng. Đây cũng là cơ hội lớn để lĩnh vực trung tâm dữ liệu và điện toán đám mây Việt Nam tăng tốc bứt phá.
+
+Các chuyên gia cho rằng, một trong những xu hướng sẽ thay đổi “cuộc chơi số” năm 2024 được cho là công nghệ bền vững. Theo nghiên cứu của Gartner, công nghệ bền vững là một trong số 10 xu hướng công nghệ chiến lược hàng đầu cho năm 2024.
+
+Theo dự báo của CBInsight về các loại hình trung tâm dữ liệu, thế giới đã bắt đầu hướng đến “ngày mai” (tomorrow) với việc lựa chọn các vị trí có khí hậu nền nhiệt thấp để giảm năng lượng tiêu thụ, ưu tiên sử dụng công nghệ và nguồn năng lượng tái tạo, áp dụng AI trong vận hành và khai thác, cùng với việc sử dụng các công nghệ làm mát cao cấp.
+
+Đơn cử như Google và Facebook đã có các trung tâm dữ liệu lớn đặt tại Iceland, và Microsoft đã triển khai trung tâm dữ liệu dưới lòng đại dương. Đây là các đột phá lớn và thế giới đang hướng đến “tương lai” (future), xây dựng DC ngoài khơi và hoàn toàn sử dụng năng lượng tái tạo.
+
+Ở Việt Nam, các loại hình trung tâm dữ liệu hiện gần như ở mức “hôm nay” (today), với các kiến trúc và thiết kế truyền thống, giải pháp làm mát thông thường và hầu hết sử dụng điện lưới của EVN, chưa có sự lựa chọn cho việc sử dụng năng lượng tái tạo.
+
+Để đạt được mục tiêu kép và thực hiện cam kết tại COP26, hạ tầng trung tâm dữ liệu của Việt Nam sẽ tiến tới “ngày mai” trong 3-5 năm tới và đồng hành với thế giới hướng đến “tương lai” sau năm 2030.
+
+Đại diện Viettel IDC cho biết, trong các DC mới của đơn vị này trong thời gian tới sẽ đưa AI vào vận hành khai thác, áp dụng các công nghệ làm mát lỏng (liquid cooling) và hướng đến việc sử dụng năng lượng tái tạo sau khi có hành lang pháp lý rõ ràng.
+
+Ông Khương Nguyễn, Giám đốc Kinh doanh toàn quốc Climaveneta Việt Nam, một trong những công nghệ sẽ được áp dụng khá phổ biến trong tương lai gần tới đây đó là làm lạnh bằng chất lỏng.
+
+Còn theo đại diện Phòng phát triển dữ liệu của Nokia, mặc dù thị trường trung tâm dữ liệu rất hấp dẫn, nhưng lĩnh vực này đang đứng trước áp lực phải giảm lượng khí thải carbon và điều này đang trở thành một tiêu chuẩn.
+
+Trong thời gian qua, Việt Nam đã ban hành nhiều quy định pháp lý như Luật An ninh mạng, Luật Viễn thông, Nghị định 13 nhấn mạnh tầm quan trọng của dữ liệu, yêu cầu các tổ chức, doanh nghiệp phải lưu trữ dữ liệu cá nhân tại Việt Nam. Các chuyên gia cho rằng đây được xem như một động lực thúc đẩy quá trình phát triển của lĩnh vực trung tâm dữ liệu và điện toán đám mây tại Việt Nam.
+
+Bên cạnh đó, quy hoạch hạ tầng viễn thông thụ động đến năm 2030 đã nhấn mạnh các hạ tầng kết nối trong đó có cáp quang biển và 5G được đầu tư.
+
+Đối với cáp quang biển, các doanh nghiệp như FPT, Viettel, VNPT đã tham gia nhiều dự án mở rộng, hứa hẹn đến năm 2025, sẽ có sự ổn định các tuyến kết nối.
+
+
+
+Ông Hoàng Văn Ngọc, Giám đốc Viettel IDC
+
+Ngoài ra, việc phát triển 5G cũng sẽ là động lực phát triển các dịch vụ công nghệ mới như AI, VR, AR. Từ đó là tăng nhu cầu sử dụng dữ liệu, tăng nhu cầu lưu trữ, thúc đẩy sự phát triển của các dịch vụ hạ tầng số đi kèm như DC và Cloud.
+
+AI bùng nổ cũng thúc đẩy phát triển các dịch vụ đầu tư hạ tầng. AI đang và sẽ tiếp tục tác động lớn đến các lĩnh vực trung tâm dữ liệu và điện toán đám mây. Theo chuyên gia Trung tâm dữ liệu của Cushman & Wakefield, với tốc độ tăng trưởng nhanh chóng như hiện nay, AI có thể làm thay đổi cuộc chơi, sẽ định hình lại thị trường trung tâm dữ liệu vào năm 2024.
+
+Trung tâm dữ liệu và điện toán đám mây là một trong những thành phần quan trọng nhất của hạ tầng số. Thị trường trung tâm dữ liệu Việt Nam đang thu hút sự đầu tư lớn của nhiều doanh nghiệp trong và ngoài nước. Các doanh nghiệp công nghệ như VNPT, Viettel, CMC, FPT… thời gian qua rất chú trọng đầu tư, xây dựng phát triển các trung tâm dữ liệu hiện đại, quy mô lớn, đáp ứng tiêu chuẩn quốc tế và cung cấp các dịch vụ đẳng cấp thế giới.
+
+Theo Bộ Thông tin và Truyền thông, đầu tư vào các trung tâm dữ liệu là một loại đầu tư mới của các nhà mạng viễn thông, mở ra không gian tăng trưởng mới; đồng thời đáp ứng nhu cầu phát triển chính phủ số, kinh tế số và xã hội số.
+
+Thống kê, hiện nay Việt Nam mới chỉ có 29 trung tâm dữ liệu, chiếm khoảng 1% so với số lượng trung tâm dữ liệu trên toàn cầu, điều này cho thấy dư địa thị trường còn rất lớn...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 13-2024 phát hành ngày 25/03/2024. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

@@ -1,0 +1,41 @@
+Sự bối rối của các nhà hoạch định chính sách tiền tệ diễn ra trong bối cảnh việc Mỹ tích cực hỗ trợ các đồng tiền số do tư nhân phát hành đã đưa stablecoin - một lĩnh vực đang phát triển với tốc độ nhanh chóng - xâm nhập vào thị trường tài chính truyền thống.
+
+Tuần vừa rồi, các chính trị gia ở Washington nỗ lực thúc đẩy một dự luật với mục đích cấm Cục Dự trữ Liên bang Mỹ (Fed) phát hành tiền kỹ thuật số (digital currency), đồng thời nhằm cung cấp khuôn khổ pháp lý cho các stablecoin do tư nhân phát hành. Đối với chính quyền của Tổng thống Donald Trump, những đồng tiền số (token) chủ yếu được đảm bảo bởi tài sản USD này có thể giữ vai trò như một phương tiện gia tăng sức mạnh của đồng USD trên toàn cầu.
+
+Nhưng Ngân hàng Thanh toán Quốc tế (BIS) - định chế được coi là “ngân hàng trung ương của các ngân hàng trung ương” - tháng trước đã cảnh báo rằng sự gia tăng không kiểm soát của stablecoin có thể đe dọa niềm tin của công chúng vào tiền tệ, gây nguy hiểm cho chủ quyền tiền tệ và có khả năng gây ra rủi ro đối với ổn định tài chính. Các nhà hoạch định chính sách cũng cảnh báo rằng những token này có thể giữ vai trò như mạch dẫn cho các hoạt động tội phạm.
+
+Thay vào đó, một số quốc gia đang cố gắng phát triển tiền kỹ thuật số của ngân hàng trung ương (CBDC) - hướng đi sẽ cho phép công chúng tiếp cận tiền tệ an toàn do ngân hàng trung ương phát hành dưới dạng kỹ thuật số và có thể hạn chế làn sóng đôla hóa. Tuy nhiên, những dự án như vậy đến nay mới chỉ đạt được thành công hạn chế.
+
+Ông Christian Catalini, nhà sáng lập tổ chức nghiên cứu kinh tế học tiền số Cryptoeconomics Lab tại Viện Công nghệ Massachusetts (MIT), nói với Financial Times: “Chúng ta đang sống trong một thế giới kỳ lạ, nơi các đồng stablecoin được đảm bảo bằng USD đang phát triển mạnh. Nếu không được kiểm soát, đây sẽ là con đường dẫn đến tình trạng đôla hóa tràn lan”.
+
+Ông nói thêm: “Nhưng việc kiểm soát stablecoin không có nghĩa là trạng thái cân bằng, và các quốc gia khác trên thế giới đều hiểu điều này. Vấn đề nan giải bây giờ là liệu có nên cố gắng làm chậm quá trình này hay đón nhận stablecoin như một nguồn đổi mới, sáng tạo trong lĩnh vực tài chính bằng cách thúc đẩy các đồng stablecoin nội địa?”
+
+Hiện đang có khoảng 250 tỷ USD stablecoin đang lưu hành trên toàn cầu, và hầu như tất cả đều được liên kết với đồng USD. Các nhà đầu tư đã đổ xô mua những đồng tiền số như vậy - công cụ có thể được sử dụng để lưu trữ tiền mặt trước khi giao dịch tiền ảo hoặc dùng làm phương tiện thanh toán. Các giao dịch dùng stablecoin được giải quyết trong vài phút thay vì vài ngày và thường với chi phí chỉ bằng một phần nhỏ so với phí ngân hàng.
+
+Giới phân tích tin rằng lĩnh vực stablecoin sẽ mở rộng nhanh chóng. Viện nghiên cứu Citi Institute gần đây dự báo nguồn cung stablecoin sẽ đạt 1,6 nghìn tỷ USD vào năm 2030 và có khả năng đạt tới 3,7 nghìn tỷ USD, nhờ được thúc đẩy bởi các chính sách luật pháp thân thiện hơn với tiền điện tử của Mỹ. Tuy nhiên, sự tăng trưởng nhanh chóng của stablecoin đặt ra rủi ro mà ở đó các quốc gia không đi theo xu hướng này có thể bỏ lỡ sự tăng trưởng của stablecoin cũng như cơ hội định hình các quy chế giám sát liên quan.
+
+Tháng trước, Ngân hàng Trung ương Hàn Quốc (BOI) đã tạm dừng các cuộc thử nghiệm tiền kỹ thuật số của ngân hàng trung ương và 8 ngân hàng thương mại trong nước của Hàn Quốc đang hợp tác phát triển một đồng stablecoin chung được bảo đảm bằng đồng won. Trong những tháng gần đây, Ngân hàng Trung ương Anh (BOE) đã báo hiệu rằng họ sẽ nới lỏng lập trường hạn chế trước đây đối với các đơn vị phát hành tiền số stablecoin.
+
+“Giới chức trách Anh đã có sự thay đổi quan điểm vì họ đột nhiên lo ngại về việc mất khả năng cạnh tranh trong một thế giới mà Mỹ muốn đưa stablecoin trở nên phổ biến” ông  Varun Paul - Giám đốc cấp cao phụ trách thị trường tài chính tại Fireblocks và từng là người đứng đầu đơn vị công nghệ tài chính của BoE - nhận xét.
+
+Ông Paul nói thêm rằng nhiều thứ đã thay đổi kể từ khi BoE triển khai cuộc tham vấn đầu tiên về điều tiết stablecoin vào năm 2023. “Khi đó, công nghệ này còn nằm ngoài hệ thống tài chính nhưng giờ đây tốc độ tăng trưởng của stable đang rất mạnh. BoE hiểu rằng nếu không nới lỏng cách tiếp cận, họ sẽ mất khả năng thiết lập các quy tắc giám sát stablecoin”.
+
+Tuy nhiên, trong tháng 7 này, Thống đốc BOE Andrew Bailey đã nói với tờ báo The Times rằng việc các ngân hàng lớn phát hành stablecoin có thể đe dọa sự ổn định tài chính. Ông cũng nói sẽ là “hợp lý” nếu Anh chuyển sang mô hình tiền gửi được mã hóa (tokenised deposit) - phiên bản kỹ thuật số của tiền gửi tại ngân hàng thương mại, cho phép thanh toán nhanh hơn - thay vì phát hành tiền kỹ thuật số của ngân hàng trung ương.
+
+Tại khu vực đồng tiền chung châu Âu (eurozone) - nơi một số nhà hoạch định chính sách hy vọng sẽ thúc đẩy đồng euro như một loại tiền tệ dự trữ thay thế cho đồng USD - Ngân hàng Trung ương châu Âu (ECB) đã mạnh mẽ ủng hộ tiền kỹ thuật số do ngân hàng trung ương phát hành. Từ năm 2021 đến nay, ECB đã và đang triển khai dự án đồng euro kỹ thuật số của riêng mình để sử dụng cho mục đích bán lẻ và mong muốn hạn chế sự phụ thuộc của khối vào các công ty Mỹ về cơ sở hạ tầng thanh toán.
+
+Nhưng theo tổ chức nghiên cứu Atlantic Council, trong số 69 dự án CBDC bán lẻ được phát triển trên toàn cầu, chỉ có 3 dự án còn được duy trì và 2 dự án đã bị hủy bỏ.
+
+Những gì mà Nigeria đã trải qua đang phủ bóng lên các dự án CBDC. Năm 2021, quốc gia châu Phi này đã ra mắt đồng tiền kỹ thuật số riêng, nhưng người tiêu dùng Nigeria đón nhận thờ ơ. Thay vào đó, người tiêu dùng nước này hứng thú với các stablecoin được bảo chứng bằng USD do khu vực tư nhân phát hành. Thất bại của dự án CBDC đã dẫn đến việc Chính phủ Nigeria siết chặt các sàn giao dịch tiền ảo.
+
+Thử nghiệm tiền số do ngân hàng trung ương phát hành ở Nigeria thất bại một phần vì đông tiền số có tên e-naira chỉ là phiên bản kỹ thuật số của đồng nội tệ naira - vốn cũng không được công chúng tin tưởng, theo ông Nitin Datta, chánh văn phòng của UNDCIF, một cơ quan của Liên Hợp Quốc về tài sản kỹ thuật số.
+
+“Câu chuyện của Nigeria là một cuộc thử nghiệm trên thị trường mở. Các sàn giao dịch và tiền stablecoin sẽ có vai trò nhất định vì nhà chức trách không thể đóng cửa thị trường”, ông Datta nói.
+
+Nhưng bà Ruth Wandhofer, Chủ tịch cơ quan quản lý hệ thống thanh toán của Anh, cho rằng stablecoin vẫn phải chứng minh được rằng chúng có thể được sử dụng trên quy mô lớn. Một thủ quỹ doanh nghiệp toàn cầu “không thể sử dụng stablecoin để thực hiện các giao dịch có giá trị lớn xuyên biên giới” - bà Ruth phát biểu tại một hội nghị vào tháng trước, khi đề cập đến vận đề chi phí tỷ giá.
+
+“Ở một số quốc gia, giáo dục tài chính tiêu dùng, mạng lưới thanh toán, phần cứng công nghệ thông tin và tính minh bạch đều còn yếu. Điều đó có nghĩa là nếu bắt đầu sử dụng stablecoin để nhận tiền mặt vào và rút tiền mặt, người tiêu dùng có thể phải trả nhiều hơn so với khi sử dụng dịch vụ của Western Union”, bà Ruth nói.
+
+Bà cũng nói thêm rằng việc có nhiều giao dịch diễn ra bằng tiền số hơn sẽ đồng nghĩa rằng thu thuế của chính phủ sẽ giảm. “Vì vậy, cuối cùng chúng ta buộc phải có đồng bảng Anh kỹ thuật số và đồng euro kỹ thuật số”, bà nói.
+
+Đối với những dự án như vậy, việc tạo ra một đồng euro kỹ thuật số hiện đang là phép thử quan trọng - theo ông Josh Lipsky, Giám đốc cấp cao của trung tâm địa kinh tế thuộc Atlantic Council. “Nếu khu vực đồng euro làm được điều này, họ sẽ cho thế giới thấy rằng tiền kỹ thuật số của khu vực công là khả thi, và eurozone sẽ trở thành người thiết lập tiêu chuẩn toàn cầu cho lĩnh vực này”, ông nói.

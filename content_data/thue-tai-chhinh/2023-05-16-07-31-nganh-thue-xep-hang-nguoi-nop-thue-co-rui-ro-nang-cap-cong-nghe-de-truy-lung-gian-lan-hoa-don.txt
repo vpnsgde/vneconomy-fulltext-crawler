@@ -1,0 +1,41 @@
+Ngày 15/5, Tổng cục Thuế tổ chức tập huấn trực tuyến hướng dẫn triển khai áp dụng quản lý rủi ro trong quản lý và sử dụng hóa đơn.
+
+Phó Tổng cục trưởng Tổng cục Thuế Đặng Ngọc Minh cho biết, thời gian qua, ngành thuế triển khai hóa đơn điện tử trên toàn quốc và tính đến nay, trên hệ thống hóa đơn điện tử đã tiếp nhận trên 4 tỷ hóa đơn. Đây vừa là thành tích được ghi nhận nhưng cũng tạo sức ép rất lớn về mặt quản lý hóa đơn điện tử, đặc biệt trong bối cảnh gian lận thương mại điện tử ngày càng gia tăng.
+
+Nhìn lại những lợi ích mà việc triển khai hóa đơn điện tử mang lại, Phó Tổng cục trưởng Đặng Ngọc Minh nêu rõ, đối với bên sử dụng như tiết kiệm thời gian, tiết kiệm chi phí vận chuyển, bảo quản hóa đơn, giảm thiểu các thủ tục hành chính, an toàn, bảo mật thông tin...
+
+Đồng thời, việc triển khai hóa đơn điện tử cũng giúp cơ quan thuế thực hiện phân tích thông tin, đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hoá đơn.
+
+Tuy nhiên, trên thực tế triển khai hóa đơn điện tử, cơ quan thuế đã phối hợp với các cơ quan chức năng phát hiện các vụ việc vi phạm về hóa đơn điện tử.
+
+Để kịp thời phát hiện, dự báo những trường hợp nghi ngờ gian lận trong sử dụng hóa đơn điện tử, ngày 2/2/2023, Tổng cục Thuế ban hành Bộ chỉ số tiêu chí áp dụng quản lý rủi ro trong quản lý và sử dụng hóa đơn theo Quyết định số 78/QĐ-TCT ngày 10/5/2023, Tổng cục Thuế đã ban hành Quy trình áp dụng quản lý rủi ro đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn theo Quyết định 575/QĐ-TCT.
+
+Đồng thời, Tổng cục Thuế cũng nâng cấp ứng dụng quản lý rủi ro phân hệ quản lý hóa đơn và chức năng đối chiếu dữ liệu hóa đơn điện tử và tờ khai thuế giá trị gia tăng (GTGT).
+
+Lãnh đạo Tổng cục Thuế cũng chia sẻ những điểm nhấn trong quản lý thuế, đáp ứng nhu cầu quản lý và sử dụng hóa đơn.
+
+Cụ thể,thứ nhất,bộ chỉ tiêu áp dụng quản lý rủi ro trong quản lý và sử dụng hóa đơn theo Quyết định 78/QĐ-TCT nêu trên; quy trình áp dụng quản lý rủi ro đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn ban hành theo Quyết định 575/QĐ-TCT.
+
+Thứ hai,chức năng quản lý rủi ro trên phân hệ quản lý hóa đơn.
+
+Thứ ba,chức năng đối chiếu dữ liệu hóa đơn điện tử và tờ khai thuế GTGT.
+
+Thứ tư,triển khai hệ thống phân tích dữ liệu hóa đơn điện tử.
+
+Cũng theo Tổng cục Thuế, các nội dung về mục đích, nguyên tắc, nội dung, kỳ đánh giá và phương pháp xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn được xác định trong bộ chỉ số tiêu chí đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn.
+
+
+
+"Đây chính là cơ sở giúp cơ quan thuế phân tích thông tin đánh giá xếp hạng người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn và là cơ sở để chuyển hình thức sử dụng hóa đơn của người nộp thuế, rà soát, kiểm tra thực tế việc quản lý và sử dụng hóa đơn", đại diện Ban quản lý rủi ro, Tổng cục Thuế nhấn mạnh.
+
+Bên cạnh đó, hệ thống phân tích dữ liệu hóa đơn điện tử là một trong những cấu phần trọng tâm trong công tác điện tử, số hóa hóa công tác quản lý hóa đơn, nâng cao hiệu quả quản lý thuế.
+
+Như vậy, "bộ chỉ số tiêu chí đánh giá, xác định người nộp thuế có dấu hiệu rủi ro trong quản lý và sử dụng hóa đơn được thực hiện theo nguyên tắc tự động bằng ứng dụng quản lý rủi ro, kết hợp với thực tiễn công tác quản lý thuế của cơ quan thuế", Tổng cục Thuế khẳng định.
+
+Phát biểu tại hội nghị, Phó Tổng cục Trưởng Đặng Ngọc Minh đề nghị Ban quản lý rủi ro là đầu mối tiếp nhận các báo cáo, thông tin kiến nghị trong quá trình triển khai để báo cáo kịp thời Tổng cục Thuế.
+
+Cục Công nghệ thông tin tập trung triển khai, hướng dẫn các đơn vị tin học của Cục Thuế các địa phương sử dụng ứng dụng, đào tạo, hỗ trợ người sử dụng và xử lý các vấn đề kỹ thuật phát sinh.
+
+Đối với các bộ phận liên quan tại cục thuế, chi cục thuế, Phó Tổng cục trưởng Đặng Ngọc Minh đề nghị phòng, đội kiểm tra thực hiện rà soát, đánh giá kết quả phân tích từ hệ thống để thực hiện theo quy trình áp dụng quản lý rủi ro về hóa đơn, quy trình kiểm tra hóa đơn và các quy trình kiểm tra thuế hiện hành.
+
+“Với mục tiêu tận dụng tối đa thế mạnh về hạ tầng công nghệ thông tin, trong quá trình triển khai, khi có vướng mắc về bộ tiêu chí, quy trình nghiệp vụ, về ứng dụng… cần báo cáo trực tiếp qua hệ thống quản lý tại cơ quan Tổng cục Thuế yêu cầu hỗ trợ để được hỗ trợ và giải quyết kịp thời”,  Phó Tổng cục trưởng Đặng Ngọc Minh đề nghị.

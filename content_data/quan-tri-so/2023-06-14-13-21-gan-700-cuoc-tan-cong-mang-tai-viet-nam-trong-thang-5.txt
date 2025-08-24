@@ -1,0 +1,15 @@
+Thống kê từ hệ thống của Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) thuộc Cục An toàn thông tin – Bộ Thông tin và Truyền thông, trong tháng 5/2023, Trung tâm đã ghi nhận, cảnh báo và hướng dẫn xử lý 695 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, tăng 39,6% so với tháng 4 năm nay giảm 17,9% so với cùng kỳ tháng 5 năm ngoái.
+
+Ngoài ra, lũy kế 5 tháng đầu năm nay, tổng số sự cố tấn công mạng gây ra sự cố vào các hệ thống tại Việt Nam được hệ thống của NCSC ghi nhận, cảnh báo và hướng dẫn xử lý là 4.639. Trong khi đó, số sự cố tấn công mạng vào các hệ thống thông tin Việt Nam trong 5 tháng đầu năm ngoái là 5.463.
+
+Trước đó, tháng 4/2023, Trung tâm Giám sát an toàn không gian mạng quốc gia đã ghi nhận, cảnh báo và hướng dẫn xử lý 498 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, giảm 5,1% so với tháng 3/2023 và giảm 46,9% so với tháng 4/2022.
+
+Tháng 3/2023, số cuộc tấn công mạng vào các hệ thống tại Việt Nam gây ra sự cố là 525 cuộc, giảm 68,9% so với tháng 02/2023 và giảm 49,3% so với cùng kỳ năm 2022.
+
+Để bảo đảm an toàn thông tin mạng, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) sẽ tiếp tục tăng cường giám sát an toàn hệ thống thông tin, chủ động rà quét trên không gian mạng Việt Nam, đánh giá, thống kê và tiếp tục đẩy mạnh tuyên truyền, cảnh báo trên các phương tiện thông tin đại chúng để người dùng biết, phòng tránh. Đồng thời, tiếp tục có các văn bản cảnh báo cho các bộ, ngành, địa phương và các thành viên trong mạng lưới ứng cứu sự cố để đôn đốc việc rà soát điểm yếu lỗ hổng, dấu hiệu tấn công mạng.
+
+Bên cạnh đó, các đơn vị chuyên trách về công nghệ thông tin, quản trị hệ thống cần thường xuyên rà soát từ thiết kế hạ tầng, cấu hình an ninh, quy trình vận hành đến mã nguồn của website, cập nhật đầy đủ các bản vá lỗ hổng. Cùng với đó, cần xây dựng các phương án giám sát 24/24h để phát hiện chủ động và kịp thời ứng phó với các cuộc tấn công mạng.
+
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty Công nghệ an ninh mạng Việt Nam (NCS), nhận định, trong các tháng đầu năm 2023, một hiện tượng đáng chú ý là việc các nhóm tin tặc tấn công chèn quảng cáo cờ bạc, cá độ vào các website của cơ quan nhà nước và khối giáo dục. Các đối tượng này tấn công thông qua những lỗ hổng cơ bản, từ đó chiếm được quyền điều khiển máy chủ và thực hiện chèn code quảng cáo, SEO cho các trang cá độ, cờ bạc. Ngoài ra, hacker còn thực hiện tấn công khai thác lỗ hổng bảo mật để chiếm quyền kiểm soát, đánh cắp dữ liệu từ các cơ quan, tổ chức…
+
+Được biết, trong báo cáo tháng 5 đối với tình hình thực hiện Nghị quyết 17 của Chính phủ về Chính phủ điện tử, Bộ Thông tin và Truyền thông đã nêu rõ, một trong những tồn tại, hạn chế thời gian qua là công tác an toàn, an ninh mạng ở nhiều nơi còn chưa được bảo đảm.

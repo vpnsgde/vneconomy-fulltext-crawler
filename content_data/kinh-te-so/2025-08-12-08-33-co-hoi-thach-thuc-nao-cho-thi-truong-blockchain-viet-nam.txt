@@ -1,0 +1,31 @@
+Diễn ra trong hai ngày 9-10/8 tại TP.HCM, sự kiện công nghệ Conviction 2025 do Hội Truyền thông Điện tử TP.HCM tổ chức, tập trung vào hai lĩnh chính: Blockchain và trí tuệ nhân tạo (AI). Sự kiện mang đến bức tranh toàn cảnh về xu hướng công nghệ mới, nguồn lực tại thị trường blockchain Việt Nam, trong bối cảnh khung pháp lý được mở ra khi Chính phủ vừa ban hành Quyết định số 1131/QĐ-TTg.
+
+THỊ TRƯỜNG BLOCKCHAIN KHÔNG CÒN "ĐIỂM NGHẼN" PHÁP LÝ
+
+Theo báo cáo của Triple-A và Chainalysis, Việt Nam hiện xếp thứ 7 toàn cầu về tỷ lệ dân số sở hữu tiền mã hóa và thuộc nhóm 5 quốc gia dẫn đầu thế giới về mức độ phổ cập loại tài sản này. Số liệu từ Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (VSDC) kết hợp cùng Chainalysis cho thấy, đến năm 2024, số người nắm giữ tiền mã hóa tại Việt Nam đã đạt 17 triệu, gần gấp đôi con số 9 triệu tài khoản chứng khoán trên thị trường.
+
+Xu hướng quan tâm cũng đang dịch chuyển rõ rệt khi dữ liệu Google Trends đầu năm 2025 ghi nhận lượng tìm kiếm liên quan đến tiền mã hóa tại Việt Nam đã vượt qua cả bất động sản và chứng khoán.
+
+Ông Nguyễn Thanh Hòa, Phó giám đốc Trung tâm Chuyển đổi số TP.HCM, cho biết Việt Nam có hơn 73.000 doanh nghiệp công nghệ số, trong đó chỉ 45 đơn vị đạt chuẩn công nghệ cao với đầu tư sâu vào R&D.
+
+Ở mảng Web3, Việt Nam nằm trong nhóm quốc gia chấp nhận cao, với nhiều công ty được quốc tế công nhận như KyberSwap với trình tổng hợp giao dịch phi tập trung hàng đầu, hay Sky Mavis là một trong những đơn vị tiên phong trong lĩnh vực Blockchain gaming. Ninety Eight cũng đang cung cấp sản phẩm cho hàng chục triệu người dùng toàn cầu.
+
+Nếu như điểm nghẽn lớn nhất của thị trường Blockchain trước đây là thiếu hành lang pháp lý, thì bước ngoặt đã đến vào tháng 10/2024 khi Chính phủ ban hành Quyết định 1236, phê duyệt chiến lược phát triển công nghệ này. Mục tiêu đặt ra đến năm 2030, Việt Nam sẽ nằm trong nhóm quốc gia dẫn đầu khu vực và thế giới về nghiên cứu, ứng dụng và phát triển chuỗi khối (Blockchain).
+
+Đáng chú ý ngày 12/6 vừa qua, Blockchain được chính thức xác lập là công nghệ chiến lược quốc gia theo Quyết định số 1131/QĐ-TTg. Theo đó, Việt Nam sẽ tập trung phát triển công nghệ này ở ba trụ cột chính: tài sản số, tiền số và tiền mã hóa; hạ tầng mạng Blockchain; cùng hệ thống truy xuất nguồn gốc.
+
+CÒN NHIỀU KHOẢNG TRỐNG
+
+Các chuyên gia cho rằng đầu tư vào tài sản mã hóa đang là một phần của xu hướng dịch chuyển toàn cầu, khi nhiều tổ chức lớn lựa chọn tiền mã hóa hoặc cổ phiếu liên quan nhằm đa dạng hóa danh mục. Chính sách thay đổi kịp thời mở ra cơ hội để Việt Nam trở thành điểm đến của đổi mới Blockchain trên thế giới.
+
+Thị trường tài sản số ghi nhận nhiều dấu mốc quốc tế, như việc BlackRock ra mắt Bitcoin/Ethereum ETF. Mô hình này được kỳ vọng sẽ sớm xuất hiện trong nước. Một số tổ chức tài chính truyền thống, điển hình là Dragon Capital, cũng nhìn thấy tiềm năng thông qua việc đóng vai trò trung gian và cung cấp dịch vụ lưu ký, giúp giảm rào cản tiếp cận cho nhà đầu tư mới.
+
+Bà Vy Lê, đồng sáng lập quỹ Do Ventures, nhận định các quy định mới vừa áp dụng sẽ tạo điều kiện để nhà đầu tư tổ chức tự tin hơn khi đưa ra quyết định rót vốn vào các nền tảng Blockchain tiềm năng, đồng thời giúp quá trình thoái vốn diễn ra thuận lợi hơn. “Đây là cơ hội để toàn ngành tăng trưởng bền vững”, bà nhấn mạnh.
+
+Ở góc độ nhân lực, ông Lê Mạnh, Giám đốc Công nghệ Kyber Network, cho biết các doanh nghiệp Blockchain Việt Nam sở hữu đội ngũ kỹ thuật chất lượng cao trong mảng phát triển nền tảng và xây dựng hệ thống, với thế mạnh ở tốc độ triển khai và khả năng giải quyết vấn đề nhanh. Ông Lê Thanh, nhà sáng lập Ninety Eight, bổ sung rằng các nhóm phát triển trong nước còn được đánh giá cao về sự sáng tạo và nền tảng kỹ thuật.
+
+Tuy vậy, theo giới chuyên môn, các nhà phát triển Việt vẫn thiếu sự tự tin, tư duy thiết kế sản phẩm cho thị trường toàn cầu và hiểu biết về các thị trường xa lạ. Đây là những yếu tố cần sớm cải thiện nếu muốn doanh nghiệp đạt quy mô lớn hơn.
+
+Về cơ hội sản phẩm, ông Nguyễn Thế Vinh, CEO Ninety Eight, cho rằng Blockchain hiện ở giai đoạn tương tự Internet cách đây 40 năm mạnh mẽ, tiềm năng lớn nhưng chưa phổ biến với người dùng phổ thông. “Cần đặt mục tiêu là tái định nghĩa trải nghiệm người dùng dựa trên sự tin cậy và bảo mật, bằng cách tích hợp sâu AI vào mọi lớp hạ tầng, để Blockchain trở nên dễ dùng và gần gũi hơn”, ông nói.
+
+Ở góc độ nhà đầu tư quốc tế, ông Will Ross, Giám đốc Tiếp thị & Phân phối của Dragon Capital, nhận định: “Chính phủ đang cho chúng ta cơ hội lớn để đạt mức tăng trưởng cao hơn”, đồng thời khẳng định hành lang pháp lý sẽ tạo nền tảng cho tài sản số phát triển.

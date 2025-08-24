@@ -1,0 +1,33 @@
+Chứng khoán Yuanta vừa đưa ra phân tích và đánh giá xu hướng ngành ngân hàng dựa trên 5 yếu tố trong mô hình CAMEL (Capital, Asset, Management, Earnings, và Liquidity).
+
+Thứ nhất, về nguồn vốn (Capital) – xu hướng cắt giảm cổ tức và tái khởi động kế hoạch bán vốn. Nhiều ngân hàng đã cắt giảm cổ tức tiền mặt trong năm 2025, như MBB, VPB, và TCB. Trong đó, MBB lên kế hoạch mua lại 100 triệu cổ phiếu trong giai đoạn 2025- 2026. VPB và TCB sẽ thành lập công ty bảo hiểm nhân thọ, và VPB cũng có mục tiêu thành lập công ty quản lý quỹ, điều này sẽ làm giảm hệ số an toàn vốn của các ngân hàng.
+
+Đó có thể cũng là lí do các ngân hàng quyết định giảm chi trả cổ tức bằng tiền mặt để duy trì tỷ lệ an toàn vốn.
+
+Việc áp dụng Basel III trong thời gian tới sẽ buộc các ngân hàng phải có hệ sốCAR cao hơn, ở mức 10,5% (so với mức 8,0% đối với Basel II). Hiện, hệ số CAR toàn ngành khoảng 12%, cao hơn mức yêu cầu của Basel II; tuy nhiên, phần lớn là được đóng góp chủ yếu bởi các ngân hàng tư nhân có quy mô lớn như VPB (14,7%) và TCB (15,3%). Do đó, các ngân hàng – nhất là các ngân hàng có vốn nhà nước – cần phải huy động thêm vốn để cải thiện hệ số CAR.
+
+VCB công bố sẽ phát hành 543,1 triệu cổ phiếu (tương đương 6,5% tổng SLCP đang lưu hành hiện tại) đến tối đa 55 nhà đầu tư, bao gồm cả nhà đầu tư chiến lược và nhà đầu tư chuyên nghiệp trong năm 2025-2026.
+
+Chất lượng tài sản - Aset: Chất lượng tài sản suy giảm trong Q1/2025 khi tỷ lệ nợ xấu (NPL) gia tăng và tỷ lệ bao phủ nợ xấu (LLR) sụt giảm. Dựa trên trao đổi với một số ngân hàng, nguyên nhân NPL tăng lên chủ yếu đến từ việc gia tăng các khoản nợ xấu mới thay vì đến từ các khoản nợ đã được cơ cấu theo Thông tư 02 và bão Yagi.
+
+Yuanta kỳ vọng chất lượng tài sản sẽ cải thiện trong nửa cuối năm 2025 cùng với sự phục hồi của thị trường bất động sản. Tăng trưởng cho vay mua nhà vẫn khá khiêm tốn trong Q1/2025. Không phải tất cả các ngân hàng đều công bố số liệu về khoản cho vay mua nhà, và chỉ có số liệu này của 5 ngân hàng, bao gồm ACB, MSB, TCB, VCB, và VPB với mức tăng trưởn  trung bình là 2,0% so với quý liền kề trong Q1/2025. Những ngân hàng này chiếm khoảng 30% tổng tài sản ngành (gồm 28 ngân hàng).
+
+Tuy nhiên, sự thúc đẩy mạnh mẽ của Chính phủ trong việc phát triển hạ tầng, tháo gỡ nút thắt pháp lý và việc sáp nhập tỉnh thành sẽ hỗ trợ tốt hơn cho sự phục hồi của thị trường bất động sản trong thời gian tới. Điều này sẽ giúp cải thiện chất lượng tài sản ngân hàng, từ đó giúp giảm áp lực trích lập phòng và thúc đẩy lợi nhuận cho các ngân hàng.
+
+Hiệu quả quản lí (Management): Số hóa giúp giảm chi phí. Tỷ lệ chi phí trên thu nhập trung vị (đã điều chỉnh-loại bỏ thu nhập ròng khác) của toàn ngành (28 ngân hàng) là 39% trong Q1/2025. Mức CIR cao có thể phản ánh sự thiếu hiệu quả trong công tác vận hành và kiểm soát chi phí, và các ngân hàng có tỷ lệ CIR trên > 50% sẽ gặp nhiều khó khăn trong việc thúc đẩy lợi nhuận.
+
+Chỉ số CIR ngành ngân hàng tại Việt Nam cho thấy sự phân hóa rõ rệt. Tỷ lệ CIR (đã điều chỉnh) trung vị của ngành là 39%. Các ngân hàng như ACB, CTG, HDB, LPB, MBB, SHB, SSB, TCB, TPB, VCB, VIB, và VPB có tỷ lệ CIR (điều chỉnh) ở dưới mức trung vị ngành, nhờ vào lợi thế về quy mô và chuyển đổi số. Trong đó VPB là ngân hàng có hiệu quả quản lí chi phí vượt trội với CIR (điều chỉnh) chỉ ở mức 25% trong Q1/2025.
+
+Trái lại, một vài ngân hàng quy mô nhỏ lại có CIR cao hơn đáng kể so với mức trung vị ngành tác động tiêu cực đến khả năng sinh lời. Nhìn chung thì CIR toàn ngành có thể giảm xuống với xu hướng chuyển đổi số mạnh mẽ của các ngân hàng.
+
+Lợi nhuận (Earning): Nỗ lực đa dạng nguồn thu ngoài lãi. Lợi nhuận toàn ngành ngân hàng (28 niêm yết và OTC) trong Q1/2025 được đóng góp chủ yếu bởi thu nhập đột biến từ việc thoái vốn tại công ty con của SSB – Công ty Tài chính TNHH MTV Bưu Điện (PTF) cho AEON Financial Service. Nếu loại trừ đi khoản này, PATMI toàn ngành là 63 nghìn tỷ đồng (đi ngang so quý trước /  9,8% so với cùng kỳ).
+
+Về thanh khoản: Chính phủ kiên định với mục tiêu tăng trưởng GDP đầy tham vọng là 8,0% trong năm 2025, bất chấp bất ổn thị trường như là vấn đề thuế quan của Mỹ. Do đó, Ngân hàng Nhà nước sẽ tiếp tục duy trì chính sách tiền tệ nới lỏng để hỗ trợ nền kinh tế, đặc biệt là trong bối cảnh đồng USD suy yếu và lạm phát trong nước ở mức thấp và đang trên đà giảm.
+
+Từ đầu năm đến 16/05, Ngân hàng Nhà nước đã bơm 814 nghìn tỷ đồng (~31 tỷ USD) vào hệ thống tài chính thông qua kênh OMO và đã ngưng hút thanh khoản kể từ 24/02/2025.
+
+Trên thị trường chứng khoán, cổ phiếu nhóm ngân hàng đã trải qua 3 đợt giảm mạnh kể từ năm 2019. Đợt giảm đầu tiên là thời kỳ Covid năm 2020. Đợt thứ hai diễn ra vào năm 2022 sau đợt bê bối của thị trường trái phiếu doanh nghiệp, và đợt gần đây nhất là vào 2025 do ảnh hưởng của thuế quan Mỹ. Tuy nhiên, giá cổ phiếu đã phục hồi nhanh chóng sau mỗi lần bị bán tháo.
+
+Theo nhận định của Yuanta, các cổ phiếu nhóm ngân hàng vẫn đang được định giá thấp, hiện đang giao dịch thấp hơn 01 độ lệch chuẩn so với mức trung bình lịch sử 10 năm.
+
+Yuanta cập nhật giá mục tiêu đối với danh mục khuyến nghị sau khi chuyển cơ sở định giá sang năm 2026. Trong đó ưu tiên lựa chọn ACB, HDB, TCB, và VCB. Kế họach bán vốn của HDB và VCB, cùng với việc IPO của TCBS đều sẽ là những chất xúc tác mạnh mẽ cho HDB, VCB, và TCB. Đồng thời, khuyến nghị mua đối với MBB và VPB.

@@ -1,0 +1,18 @@
+Đó là khẳng định của ông Nguyễn Hồng Thắng, Giám đốc Trung tâm Internet Việt Nam (VNNIC, Bộ Thông tin và Truyền thông) tại Hội nghị về Internet (VNNIC Internet Conference 2023) với chủ đề “Quản trị Internet trong kỷ nguyên thông minh” sáng 30/6.
+
+Hiện nay, sự phát triển, cải tiến của công nghệ Internet diễn ra ngày càng mạnh mẽ, gắn với các công nghệ mới Internet of Things (IoT), điện toán đám mây (cloud computing), trí tuệ nhân tạo (AI), blockchain, 5G/6G, cloud, dữ liệu lớn (big data)... Internet được chuyển đổi sang thế hệ mới hoạt động với IPv6; Kết nối Internet được thực hiện mọi lúc mọi nơi, trở thành Internet của vạn vật (Internet of Things).
+
+“Trong kỷ nguyên thông minh, Việt Nam cần hướng đến Internet thông minh, an toàn, bền vững. Với những thách thức đối mặt trong việc đảm bảo cho môi trường lành mạnh, an toàn, bảo vệ người dùng thì việc quản trị Internet là một bài toán lớn cần được các cơ quan nhà nước, tổ chức, doanh nghiệp trong nước, quốc tế và người sử dụng chung tay đưa ra lời giải”, đại diện VNNIC khẳng định.
+
+Sự kiện VNNIC Internet Conference 2023 sẽ thảo luận các giải pháp, công nghệ, các định hướng lớn trong quản trị Internet kỷ nguyên thông minh, hướng tới các mục tiêu: Phát triển Internet, môi trường số nhanh, mạnh, thông minh; tạo ra, quản lý và khai thác dữ liệu giá trị; phát triển các công nghệ mới, ứng dụng các giải pháp mới (5G, IoT, Cloud, IPv6 , AI), đảm bảo tài nguyên (IPv6) cho môi trường số…
+
+Đồng thời, đảm bảo sự an toàn, tin cậy, bền vững cho Internet thông qua các giải pháp, công nghệ phát triển và đảm bảo an toàn cho hạ tầng Internet, an toàn kết nối, an toàn cho các hạ tầng trọng yếu như DNS.
+
+Bên cạnh đó, thúc đẩy người sử dụng lên môi trường số, song song với việc đem lại các giá trị và bảo vệ người sử dụng trên môi trường số thông qua các giải pháp phát triển các ứng dụng, nền tảng mới, không gian tài nguyên mới trong kỷ nguyên số; Bảo vệ người sử dụng thông qua các giải pháp làm sạch môi trường mạng, chống lạm dụng để Internet trở nên an toàn tin cậy hơn.
+
+Điều quan trọng, quản trị Internet văn minh, bền vững thông qua xây dựng cộng đồng, với sự tham gia, đóng góp của các bên trong hệ sinh thái Internet, chung tay cùng phát triển.
+
+Tại hội thảo, ông Dean Samuels, Giám đốc công nghệ khu vực ASEAN của AWS, cho rằng, độ khả dụng các dịch vụ điện toán đám mây (cloud) đã thay đổi rất nhiều và nhu cầu lưu trữ dữ liệu rất lớn. Theo thời gian, phần lớn các dữ liệu của doanh nghiệp sẽ phải lưu trữ trên cloud. Do đó, cần phải có các phương pháp để bảo quản dữ liệu đó một cách an toàn, khai thác sức mạnh dữ liệu và sử dụng hiệu quả.
+
+Tiếp nối thành công của sự kiện năm 2022, VNNIC Internet Conference 2023 hướng đến vấn đề quản lý, quản trị, xây dựng mạng Internet sạch, an toàn, hỗ trợ, bảo vệ quyền lợi người dùng, tên miền/DNS và lạm dụng DNS (DNS Abuse)... Đây là cơ hội để cộng đồng Internet Việt Nam học hỏi, kết nối, hợp tác với các chuyên gia, các tổ chức, doanh nghiệp lĩnh vực Internet, ICT hàng đầu thế giới. Hội thảo còn có hoạt động dành riêng, mở rộng cho sinh viên nhằm tạo điều kiện giới trẻ ứng dụng, khai thác giá trị Internet và tài nguyên Internet trong học tập và khởi nghiệp. VNNIC Internet Conference là diễn đàn hiệu quả, thiết thực cho chuyên gia công nghệ, kỹ thuật trong nước và quốc tế, nơi doanh nghiệp, tổ chức, các thành viên cộng đồng Internet Việt Nam chia sẻ, thảo luận, chung tay xây dựng, phát triển Internet Việt Nam hiện đại, thông minh, an toàn, bền vững.
+

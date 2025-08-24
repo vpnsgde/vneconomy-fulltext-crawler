@@ -1,0 +1,21 @@
+“Câu lạc bộ” doanh nghiệp đạt mốc vốn hóa thị trường 4 nghìn tỷ USD đã có thêm thành viên thứ hai, sau khi hãng chip khổng lồ Nvidia gần đây trở thành công ty đầu tiên trên thế giới đạt tới cột mốc này.
+
+Sau khi công bố kết quả kinh doanh tốt hơn dự báo vào ngày 30/7, giá cổ phiếu của Microsoft có lúc tăng 9% trong phiên giao dịch ngoài giờ, đưa giá trị vốn hóa thị trường đạt khoảng 4,1 nghìn tỷ USD. Nếu mức vốn hóa này duy trì, hãng phần mềm khổng lồ sẽ là công ty thứ hai trên thế giới cán mốc vốn hóa 4 nghìn tỷ USD, sau thành quả tương tự mà Nvidia đạt được trong tháng 7 này.
+
+Động lực cho cú bứt phá mới của cổ phiếu Microsoft là mức tăng trưởng doanh thu 18% trong quý 2 vừa qua, mạnh nhất trong hơn 3 năm trở lại đây. Sự tăng trưởng này chủ yếu đến từ mảng điện toán đám mây Azure - theo báo cáo tài chính được Microsoft công bố sau khi thị trường đã đóng cửa phiên giao dịch chính thức ngày 30/7.
+
+Báo cáo lần này đánh dấu lần đầu tiên Microsoft công bố số liệu doanh thu cụ thể của Azure, cho biết doanh thu của Azure và các dịch vụ đám mây khác vượt 75 tỷ USD trong tài khóa 2025, tăng 34% so với tài khóa trước.
+
+Tính đến khi đóng cửa phiên giao dịch ngày 30/7, cổ phiếu Microsoft đã tăng 22% trong năm nay, vượt xa mức tăng 8% của chỉ số S&P 500 - thước đo rộng nhất của chứng khoán Mỹ. Mức đóng cửa cao kỷ lục của cổ phiếu Microsoft được ghi nhận vào hôm 25/7, ở mức 513,71 USD/cổ phiếu. Trong phiên ngoài giờ ngày 30/7, cổ phiếu này có lúc vượt 553 USD/cổ phiếu.
+
+Nvidia và Microsoft, hai trong số những công ty hưởng lợi nhiều nhất từ sự phát triển bùng nổ của công nghệ trí tuệ nhân tạo (AI), đã vượt qua Apple trên bảng xếp hạng vốn hóa thị trường. “Táo khuyết” hiện  đang ở vị trí thứ ba với mức vốn hóa 3,2 nghìn tỷ USD, sau khi chứng kiến giá cổ phiếu giảm 17% trong năm nay vì nhà đầu tư lo ngại rằng nhà sản xuất iPhone đang ngày càng tụt lại phía sau trong cuộc đua AI. Báo cáo tài chính quý 2 của Apple sẽ được công bố vào ngày 31/7.
+
+Trong số các cổ phiếu công nghệ vốn hóa lớn, Nvidia là cổ phiếu tăng mạnh nhất từ đầu năm đến nay, với mức tăng 33%. Bộ vi xử lý đồ họa (GPU) của Nvidia giữ vai trò xương sống trong các mô hình ngôn ngữ lớn mà Microsoft, OpenAI, Google, Meta và các công ty khác đang phát triển, đồng thời được sử dụng phổ biến trong các trung tâm dữ liệu mà các công ty này xây dựng. Báo cáo tài chính quý 2 của Nvidia sẽ được công bố vào cuối tháng 8.
+
+Cổ phiếu một Big Tech khác là Meta Platforms cũng tăng mạnh trong phiên ngoài giờ ngày 30/7 nhờ kết quả kinh doanh khả quan. Có thời điểm Meta tăng 9%, đưa vốn hóa công ty tăng 152 tỷ USD. Mức tăng 9% của cổ phiếu Microsoft đưa vốn hóa tăng 288 tỷ USD. Như vậy, chỉ riêng vốn hóa của hai thành viên nhóm Magnificent 7 này đã tăng thêm 440 tỷ USD chỉ sau vài tiếng đồng hồ.
+
+Microsoft cho biết tổng doanh thu quý 2 đạt 76,4 tỷ USD, vượt dự báo 73,9 tỷ USD mà giới phân tích đưa ra và đưa doanh thu cả năm tài khóa kết thúc vào ngày 30/6 lên 282 tỷ USD.
+
+Lợi nhuận ròng tăng 24% so với cùng kỳ năm ngoái, đạt 27,2 tỷ USD, vượt con số dự báo 25,3 tỷ USD.
+
+Dựa trên những dấu hiệu cho thấy AI đang thúc đẩy lợi nhuận, Giám đốc tài chính Amy Hood của Micrososft dự báo đầu tư của các công ty vào trung tâm dữ liệu AI sẽ tiếp tục tăng trong 12 tháng tới. Bà nhận định đầu tư cơ bản vào AI sẽ đạt mức 30 tỷ USD trong quý 3 năm nay, đưa con số cả năm lên 120 tỷ USD, so với mức 88,2 tỷ USD vào năm 2025 và 32 tỷ USD vào năm 2024.

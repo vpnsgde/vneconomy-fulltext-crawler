@@ -1,0 +1,23 @@
+Một nghiên cứu mới từ Đại học Oxford đã nhấn mạnh những thách thức sắp xảy ra đối với các công nghệ mới nổi, đáng chú ý việc sử dụng dữ liệu do máy tính tạo ra để đào tạo các mô hình trí tuệ nhân tạo (AI) có nguy cơ khiến chúng tạo ra những kết quả vô nghĩa.
+
+Các công ty AI hàng đầu bao gồm OpenAI và Microsoft đã thử nghiệm việc sử dụng dữ liệu tổng hợp - những thông tin do hệ thống AI tạo ra để sau đó đào tạo các mô hình ngôn ngữ lớn (LLM) khi những dữ liệu do con người tạo ra ngày một cạn kiệt.
+
+Nghiên cứu được công bố trên tạp chí Nature ngày 24/7 cho thấy việc sử dụng dữ liệu như vậy có thể dẫn đến sự xuống cấp nhanh chóng của các mô hình AI. Một thử nghiệm sử dụng văn bản đầu vào về kiến ​​trúc thời Trung cổ đã dẫn đến những thông tin về thỏ rừng sau chưa đầy 10 thế hệ đầu ra.
+
+Bằng chứng này đã nhấn mạnh lý do vì sao các nhà phát triển AI lại vội vã mua rất nhiều những dữ liệu do con người tạo ra để đào tạo, đồng thời đặt ra câu hỏi rằng điều gì sẽ xảy ra khi những nguồn hữu hạn này cạn kiệt.
+
+Ilia Shumailov, tác giả chính của nghiên cứu cho biết: “Dữ liệu tổng hợp thật tuyệt vời nếu chúng tôi có thể làm cho nó hoạt động được. Tuy nhiên điều chúng tôi đang nói là dữ liệu tổng hợp hiện tại có thể sai ở một số khía cạnh. Điều đáng ngạc nhiên nhất là chuyện này diễn ra nhanh đến mức nào".
+
+Nghiên cứu tìm hiểu ra xu hướng sụp đổ của các mô hình AI theo thời gian do sự tích tụ và những sai lệch không thể tránh khỏi từ các thế hệ đào tạo kế tiếp. Tốc độ suy giảm có liên quan đến mức độ nghiêm trọng của những thiếu sót trong thiết kế mô hình, quá trình học tập và chất lượng dữ liệu được sử dụng. Các giai đoạn đầu của sự sụp đổ thường liên quan đến việc sai lệch từ những thông tin nhỏ, thiểu số và dần dần dẫn đến sai lệch trong đa số thông tin. Trong giai đoạn cuối của sự sụp đổ, tất cả các phần của dữ liệu có thể trở nên vô nghĩa.
+
+Shumailov, người thực hiện công việc tại trường đại học Oxford cùng các đồng nghiệp từ Cambridge, Imperial College London, Edinburgh, cho biết: “Các mô hình mất đi tính hữu ích vì chúng tràn ngập tất cả các lỗi và quan niệm sai lầm do các thế hệ thông tin trước đưa ra".
+
+Các nhà nghiên cứu nhận thấy vấn đề thường trở nên trầm trọng hơn do sử dụng dữ liệu tổng hợp được đào tạo dựa trên thông tin do các thế hệ trước tạo ra. Hầu như tất cả các mô hình ngôn ngữ được đào tạo mà họ kiểm tra đều bắt đầu tạo ra các cụm từ lặp lại.
+
+Trong trường hợp thỏ rừng nêu trên, văn bản đầu vào đầu tiên khảo sát việc xây dựng tháp nhà thờ ở Anh trong thế kỷ 14 và 15. Ở giai đoạn đào tạo thứ nhất, đầu ra cung cấp thông tin về các vương cung thánh đường ở Rome và Buenos Aires. Thế hệ thứ năm chuyển sang dịch ngôn ngữ, trong khi thế hệ thứ chín liệt kê các loài thuộc họ Lagomorph với các màu đuôi khác nhau.
+
+Một ví dụ khác là cách một mô hình AI được đào tạo dựa trên thông tin đầu ra của chính nó để xử lý một tập dữ liệu về hình ảnh giống chó, theo một bài viết trên tạp chí Nature của Emily Wenger thuộc Đại học Duke ở Mỹ.
+
+Ban đầu, những loại phổ biến như chó tha mồi vàng sẽ chiếm ưu thế trong khi những giống ít phổ biến hơn như chó đốm biến mất. Cuối cùng, hình ảnh của những chú chó tha mồi vàng sẽ trở thành một mớ hỗn độn về mặt giải phẫu, với các bộ phận cơ thể ở sai vị trí.
+
+Wenger cho biết, việc giảm thiểu vấn đề cho đến nay không hề đơn giản. Một kỹ thuật đã được các công ty công nghệ hàng đầu triển khai là nhúng hình mờ gắn cờ nội dung do AI tạo ra để loại trừ khỏi tập dữ liệu đào tạo. Khó khăn là điều này đòi hỏi sự phối hợp giữa các công ty công nghệ có thể không thực tế hoặc không khả thi về mặt thương mại.

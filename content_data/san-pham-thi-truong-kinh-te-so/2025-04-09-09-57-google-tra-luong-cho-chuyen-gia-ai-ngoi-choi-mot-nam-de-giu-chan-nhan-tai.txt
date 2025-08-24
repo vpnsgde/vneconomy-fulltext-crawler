@@ -1,0 +1,13 @@
+Cụ thể, theo một bài đăng chia sẻ trên X của cựu chuyên gia DeepMind, Nando de Freitas, một số kỹ sư AI tại Google DeepMind có thể bị "đóng băng" hoạt động tới một năm, không thể làm việc cho đối thủ dù không còn đảm nhiệm công việc tại Google.
+
+Business Insider nhận định đây là chiến lược của gã khổng lồ công nghệ nhằm ngăn chặn làn sóng chảy máu chất xám trong bối cảnh cuộc đua AI ngày càng nóng lên trên toàn bộ giới công nghệ. Tuy nhiên, việc này cũng đặt các chuyên gia vào tình trạng lấp lửng: không được làm việc, nhưng cũng không thể rời đi để bắt đầu hành trình mới.
+
+De Freitas, hiện giữ vị trí Phó Chủ tịch mảng AI tại Microsoft, khuyên rằng cách tốt nhất để tránh bị kẹt trong những hợp đồng như vậy là... đừng ký. Tuy nhiên, ông cũng hiểu rằng điều đó không dễ với những người đang cần một nguồn thu nhập ổn định, đặc biệt khi mức lương được đề nghị thường rất hấp dẫn.
+
+Dù Ủy ban Thương mại Liên bang Mỹ (FTC) đã cấm các điều khoản không cạnh tranh trong quản lý nhân sự ở nhiều bang như California (trụ sở của Google), tuy nhiên DeepMind lại có trụ sở tại Anh nên không ràng buộc bởi những quy định như vậy.
+
+De Freitas cho biết ông thường xuyên nhận được tin nhắn từ các đồng nghiệp cũ, hỏi cách thoát khỏi các điều khoản trên hợp đồng với DeepMind. Dù đồng cảm với hoàn cảnh của các kỹ sư AI đang bị mắc kẹt trong hợp đồng, de Freitas cho biết ông không thể giúp từng người và khuyên họ nên tìm đến các lãnh đạo của DeepMind để tìm giải pháp.
+
+Vụ việc này chỉ là một lát cắt cho thấy rõ mức độ khốc liệt của cuộc chiến giành giật nhân tài trong ngành AI – nơi các tập đoàn công nghệ sẵn sàng chi trả mức lương cao ngất ngưởng chỉ để giữ chân nhân sự, kể cả khi họ… không làm gì. De Freitas gọi đây là “một hình thức lạm dụng quyền lực hợp pháp thông qua hợp đồng”, "chiêu trò" sử dụng quy định của các công ty lớn để khóa chặt người tài.
+
+Phản hồi Business Insider về vấn đề trên, Google cho biết: “Hợp đồng lao động của chúng tôi tuân thủ các chuẩn mực thị trường. chúng tôi chỉ áp dụng điều khoản không cạnh tranh một cách có chọn lọc, nhằm bảo vệ quyền lợi chính đáng của công ty”.

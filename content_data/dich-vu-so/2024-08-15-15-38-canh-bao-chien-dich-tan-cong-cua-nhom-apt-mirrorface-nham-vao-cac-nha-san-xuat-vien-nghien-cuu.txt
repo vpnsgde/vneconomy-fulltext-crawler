@@ -1,0 +1,15 @@
+Cục An toàn thông tin, Bộ Thông tin và Truyền thông, vừa phát đi cảnh báo tới các đơn vị chuyên trách công nghệ thông tin, an toàn thông tin các bộ, ngành, địa phương; tập đoàn, tổng công ty Nhà nước; doanh nghiệp cung cấp dịch vụ viễn thông, Internet và nền tảng số cùng các tổ chức tài chính, ngân hàng thương mại trên toàn quốc; các đơn vị chuyên trách an toàn thông tin về chiến dịch tấn công mạng của nhóm APT MirrorFace.
+
+Cục An toàn thông tin cho biết trong quá trình giám sát an toàn thông tin trên không gian mạng, gần đây, Trung tâm Giám sát an toàn không gian mạng quốc gia- NCSC thuộc Cục đã phát hiện và ghi nhận những thông tin liên quan đến chiến dịch tấn công mạng được thực hiện bởi nhóm APT MirrorFace.
+
+Chiến dịch tấn công mạng của nhóm APT MirrorFace có mục tiêu là các tổ chức tài chính, viện nghiên cứu và nhà sản xuất. Nhóm tấn công có chủ đích này đã thực hiện khai thác các lỗ hổng an toàn thông tin trên các sản phẩm phần mềm Array AG và FortiGate để phát tán mã độc NOOPDOOR.
+
+Theo phân tích của các chuyên gia Cục An toàn thông tin, mã độc NOOPDOOR được gài vào ứng dụng hợp pháp trên hệ thống và có 2 biến thể dưới dạng file “.XML” và “.DLL”. Cả hai biến thể này chỉ khác về bước xâm nhập; còn giống nhau về chức năng, đều cho phép nhóm tấn công MirrorFace thiết lập kết nối thông qua các cổng 443 và 47000 để tải xuống file và thực thi câu lệnh.
+
+Sau khi phát tán mã độc OOPDOOR trong chiến dịch tấn công, nhóm APT MirrorFace thực hiện tiếp các hành vi trái phép như: Truy cập vào nơi lưu trữ thông tin xác thực của hệ thống mạng; phát tán mã độc tới các thiết bị khác trong mạng cục bộ; theo dõi, trích xuất thông tin người dùng.
+
+Ngoài ra, nhằm tránh bị phát hiện, nhóm tấn công có chủ đích APT MirrorFace còn thực hiện các bước chỉnh sửa dấu thời gian- Timestamp, thêm luật vào tường lửa hệ thống để cho phép mã độc được kết nối tới các cổng nhất định, ẩn đi các dịch vụ được kích hoạt, xóa ghi chép của Windows Event, xóa file mã độc sau khi khai thác... Chiến dịch sử dụng kỹ thuật DLL side-loading và khai thác MSBuild để thực thi mã độc trên hệ thống
+
+Để đảm bảo an toàn thông tin cho hệ thống thông tin của đơn vị, góp phần bảo đảm an toàn cho không gian mạng Việt Nam, Cục An toàn thông tin khuyến nghị các cơ quan, tổ chức, đơn vị, doanh nghiệp kiểm tra, rà soát hệ thống thông tin đang sử dụng có khả năng bị ảnh hưởng bởi chiến dịch tấn công do nhóm APT MirrorFace phát động. Đồng thời, chủ động theo dõi các thông tin liên quan đến chiến dịch tấn công này để ngăn chặn, phòng tránh nguy cơ bị tấn công.
+
+Các cơ quan, tổ chức, doanh nghiệp cần tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng. Bên cạnh đó, các đơn vị cần thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng…

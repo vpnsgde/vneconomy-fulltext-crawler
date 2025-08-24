@@ -1,0 +1,129 @@
+Bộ Y tế vừa ban hành hướng dẫn mới về thủ
+tục khám bệnh, chữa bệnh bảo hiểm y tế, với trình tự thực hiện qua 2 bước.
+
+Trong đó, ở bước 1, người tham gia bảo hiểm y tế khi khám chữa bệnh
+phải xuất trình thông tin về thẻ bảo hiểm y tế, giấy tờ chứng minh nhân thân và
+các giấy tờ liên quan theo quy định cho cơ sở khám chữa bệnh.
+
+Tại bước 2, cơ sở khám chữa bệnh tiếp nhận người bệnh vào cơ sở
+để chẩn đoán và điều trị.
+
+Về thành phần hồ sơ, Bộ Y tế cũng hướng
+dẫn phân loại đối với các trường hợp cụ thể.
+
+Trường hợp 1,người tham gia bảo hiểm y tế khi khám chữa bệnh
+phải xuất trình thông tin về thẻ bảo hiểm y tế theo một trong các hình thức sau
+đây: Căn cước hoặc căn cước công dân hoặc tài khoản
+định danh điện tử (VNeID) mức độ 2 đã tích hợp thông tin về thẻ bảo hiểm y tế. Thẻ bảo hiểm y tế bản điện tử hoặc bản giấy.
+
+Đối với đối tượng tham gia bảo hiểm y tế quy định tại các điểm a,
+b, c và d khoản 3 Điều 12 của Luật Bảo hiểm y tế chưa có thông tin về thẻ tra
+cứu được trên hệ thống công nghệ thông tin, thì phải xuất trình thẻ bản giấy.
+
+Trường hợp sử dụng thẻ chưa có ảnh hoặc mã số, thì phải xuất trình
+thêm một trong các giấy tờ chứng minh thân nhân như: Căn cước, căn cước công
+dân, giấy chứng nhận căn cước, hộ chiếu, liên kết với tài khoản định danh điện
+tử (VNeID) mức độ 2, hoặc ứng dụng VssID – Bảo hiểm xã hội số, hoặc giấy tờ
+chứng minh nhân thân khác do cơ quan, tổ chức có thẩm quyền cấp hoặc giấy xác
+nhận của công an cấp xã.
+
+Trường hợp 2,đối với trẻ em dưới 6 tuổi chỉ xuất trình thẻ bản
+giấy hoặc bản điện tử, hoặc mã số bảo hiểm y tế. Trường hợp chưa được cấp thẻ,
+thì xuất trình giấy chứng sinh bản gốc hoặc bản chụp.
+
+Đối với trẻ vừa sinh, cha hoặc mẹ hoặc thân nhân của trẻ ký xác
+nhận trên hồ sơ bệnh án, hoặc người đại diện cơ sở khám chữa bệnh xác
+nhận trên hồ sơ bệnh án trong trường hợp trẻ không có cha, mẹ hoặc thân nhân.
+
+Trường hợp 3,người tham gia bảo hiểm y tế trong thời gian chờ
+cấp hoặc thay đổi thông tin về thẻ, khi đến khám chữa bệnh phải xuất trình giấy
+tiếp nhận hồ sơ và hẹn trả kết quả cấp, cấp lại và đổi thẻ, thông tin về thẻ do
+cơ quan Bảo hiểm xã hội hoặc tổ chức, cá nhân được cơ quan Bảo hiểm xã hội ủy
+quyền tiếp nhận hồ sơ cấp lại thẻ, đổi thẻ cấp và một loại giấy tờ chứng minh
+về nhân thân của người đó.
+
+Trường hợp 4,người đã hiến bộ phận cơ thể người phải xuất
+trình thông tin về thẻ bảo hiểm y tế theo trường hợp 1 hoặc trường hợp 3 tại
+thủ tục này.
+
+Trường hợp chưa có thẻ, thì phải xuất trình giấy ra viện do cơ sở
+khám chữa bệnh nơi lấy bộ phận cơ thể người cấp cho người đã hiến bộ phận cơ
+thể người, và một trong các giấy tờ chứng minh nhân thân của người đó.
+
+Trường hợp chưa có thẻ nhưng phải điều trị ngay sau khi hiến, cơ
+sở khám chữa bệnh và người bệnh hoặc thân nhân của người bệnh xác nhận vào hồ
+sơ bệnh án.
+
+Trường hợp 5,trường hợp cấp cứu, người tham gia bảo hiểm y tế
+phải xuất trình các giấy tờ theo trường hợp 1 hoặc trường hợp 2 hoặc trường hợp
+3 tại thủ tục này trước khi kết thúc đợt điều trị.
+
+Trường hợp 6,trường hợp người bệnh có thẻ bảo hiểm y tế bản
+điện tử khi đi khám chữa bệnh, mà không xuất trình được do liên kết với tài
+khoản định danh điện tử (VNeID) mức độ 2, hoặc ứng dụng VssID bị lỗi, hoặc do
+lỗi kết nối internet được thực hiện như sau:
+
+Người bệnh cung cấp thông tin mã số thẻ để cơ sở khám chữa bệnh
+thực hiện tra cứu thông tin trên Cổng tiếp nhận dữ liệu của Bảo hiểm xã hội
+Việt Nam. Trường hợp cổng này không tra cứu được, thì cơ sở ghi nhận thông tin
+mã số thẻ, tiếp nhận người bệnh để khám chữa bệnh.
+
+Cơ sở phối hợp với cơ quan Bảo hiểm xã hội thực hiện tra cứu lại
+thông tin thẻ của người bệnh để xác định phạm vi, quyền lợi, chế độ hưởng bảo
+hiểm y tế.
+
+Trường hợp tại thời điểm người bệnh kết thúc lượt khám chữa bệnh,
+ra viện mà hệ thống dữ liệu quản lý thẻ bảo hiểm y tế bản điện tử vẫn bị lỗi,
+không trích xuất được thông tin, và cơ quan Bảo hiểm xã hội chưa xác minh, làm
+rõ được, thì cơ sở có trách nhiệm gửi toàn bộ hồ sơ khám chữa bệnh, thông tin
+liên hệ của người bệnh, kèm ảnh màn hình tra cứu cho cơ quan Bảo hiểm xã hội để
+tiếp tục xác minh thông tin khi hệ thống được khôi phục và giám định, thanh
+toán chi phí khám bệnh, chữa bệnh theo quy định.
+
+Trường hợp 7,người đăng ký khám chữa bệnh bảo hiểm y tế ban đầu
+tại cơ sở cấp chuyên sâu và cấp cơ bản không đúng nơi đăng ký khám chữa bệnh ban
+đầu do thay đổi nơi tạm trú, nơi lưu trú, thì được khám chữa bệnh tại cơ sở cấp
+cơ bản phù hợp với nơi tạm trú, phải xuất trình các giấy tờ theo một trong
+những trường hợp 1, 2, 3, 4 tại thủ tục này.
+
+Ngoài ra, là một trong các giấy tờ sau: Văn bản cử đi công tác; thẻ
+học sinh, sinh viên, học viên; văn bản về việc nghỉ phép có xác nhận của cơ
+quan, đơn vị quản lý người tham gia bảo hiểm y tế; văn bản cử hoặc phân công
+nhiệm vụ làm việc lưu động của cơ quan, đơn vị quản lý người tham gia; giấy tờ
+thể hiện quan hệ thành viên gia đình theo pháp luật về hôn nhân và gia đình và
+thông tin về lưu trú đã cập nhật trên tài khoản định danh điện tử mức độ 2 trên
+ứng dụng VNeID.
+
+Trường hợp 8,người bệnh trong trường hợp được cơ sở khám chữa bệnh
+hẹn khám lại, cơ sở ghi nội dung, lịch hẹn khám lại trong phiếu hẹn khám lại
+(bản giấy hoặc bản điện tử), hoặc ghi trong đơn thuốc, giấy ra viện. Mỗi phiếu hẹn khám lại chỉ sử
+dụng 1 lần.
+
+Trường hợp 9,người bệnh trong trường hợp chuyển cơ sở khám
+chữa bệnh, trong đó trường hợp chuyển cơ sở theo yêu cầu chuyên
+môn, thì cơ sở nơi chuyển người bệnh phải có phiếu chuyển cơ sở khám chữa bệnh bằng
+bản giấy hoặc bản điện tử. Phiếu này có giá trị
+sử dụng trong 10 ngày làm việc, kể từ ngày ký.
+
+Người tham gia bảo hiểm y tế mắc các bệnh, nhóm bệnh và các trường
+hợp quy định tại Phụ lục III ban hành kèm theo Thông tư số 01/2025/TT-BYT, được
+sử dụng phiếu chuyển cơ sở khám chữa bệnh có giá trị sử dụng trong 1 năm
+kể từ ngày ký.
+
+Về phí, lệ phí, thực hiện theo quy
+định của Bộ trưởng Bộ Y tế đối với các cơ sở khám chữa bệnh thuộc Bộ này và các
+Bộ khác về giá cụ thể dịch vụ khám chữa bệnh thuộc danh mục do Quỹ Bảo hiểm y tế
+thanh toán, giá cụ thể dịch vụ khám chữa bệnh do ngân sách nhà nước thanh toán,
+giá cụ thể dịch vụ khám chữa bệnh không thuộc danh mục do Quỹ Bảo hiểm y tế
+thanh toán mà không phải là dịch vụ khám chữa bệnh theo yêu cầu cơ quan nhà nước
+có thẩm quyền quy định.
+
+Đồng thời, theo giá dịch vụ khám
+chữa bệnh của cơ sở thuộc danh mục do Quỹ Bảo hiểm y tế thanh toán được cấp có
+thẩm quyền phê duyệt theo quy định.
+
+Bộ Y tế yêu cầu trường hợp cơ sở
+khám chữa bệnh, cơ quan Bảo hiểm xã hội cần sao chụp thẻ bảo hiểm y tế, các giấy
+tờ liên quan đến khám chữa bệnh của người bệnh để phục vụ cho công tác quản lý,
+thì phải tự sao chụp sau khi có ý kiến đồng ý của người bệnh hoặc người giám hộ,
+không được yêu cầu người bệnh sao chụp hoặc chi trả cho khoản chi phí này.

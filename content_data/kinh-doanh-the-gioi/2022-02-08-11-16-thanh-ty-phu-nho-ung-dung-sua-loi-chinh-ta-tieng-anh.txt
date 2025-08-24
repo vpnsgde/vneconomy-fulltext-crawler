@@ -1,0 +1,31 @@
+Brad Hoover, 43 tuổi, muốn thế giới có thể viết tiếng Anh tốt hơn, không mắc lỗi, không đạo văn và đúng ngữ pháp, nhưng ông không phải là giáo viên hay chính trị gia. Với ý tưởng này, Hoover - người từng là một nhà đầu tư mạo hiểm, hiện là giám đốc điều hành (CEO) của Grammarly Inc. tại San Francisco - dựa vào trí tuệ nhân tạo để nâng cao chất lượng bản viết bằng tiếng Anh.
+
+Được thành lập bởi 3 người Ukraine vào năm 2009, Grammarly hiện có hơn 600 nhân viên và làm việc với hơn 500.000 ứng dụng để phân tích khoảng 14.000 tỷ từ mỗi năm cho 30 triệu người dùng hoạt động hàng ngày của mình trên toàn cầu. Theo ông Hoover, với phần lớn người sử dụng tiếng Anh trên thế giới là ở những nơi mà tiếng Anh không phải ngôn ngữ chính, Grammarly vẫn còn nhiều dự địa để phát triển.
+
+Theo Bloomberg, Grammarly hiện là một trong những “startup kỳ lân” (thuật ngữ dùng để chỉ công ty khởi nghiệp có định giá trên 1 tỷ USD) lớn nhất thế giới sau khi huy động được 200 triệu USD hồi tháng 11/2021 từ các nhà đầu tư gồm BlackRock Inc. và Baillie Gifford.
+
+Startup này hiện được định giá khoảng 13 tỷ USD, tăng gần 7 lần so với mức định giá tại vòng gọi vốn gần đây nhất năm 2019 – thời điểm chỉ vài tháng trước khi đại dịch Covid-19 ập đến khiến hàng chục triệu nhân viên văn phòng phải làm việc ở nhà và viết nhiều thứ hơn để gửi cho đồng nghiệp, khách hàng của mình.
+
+“Chúng tôi chứng kiến hoạt động kinh doanh tăng trưởng mạnh khi mọi người phải chuyển sang làm việc từ xa”, ông Hoover cho biết. “Trước đây, mọi người thường dựa vào các thiết bị của mình để tìm ra cách giao tiếp tốt. Hiện tại, chúng ta đang ở một thời điểm lý tưởng để sử dụng phần mềm cho phép mọi người giao tiếp”.
+
+Grammarly đã giúp ít nhất hai người đồng sáng lập trở thành tỷ phú, Max Lytvyn và Alex Shevchenko, mỗi người hiện sử hữu khoảng 2,4 tỷ USD, theo Bloomberg Billionaires Index. Theo dữ liệu từ PitchBook và Bloomberg, những nhà đầu tư tham gia vào các vòng gọi vốn của startup này hiện nắm giữ khoảng 23% cổ phần.
+
+Ông Hoover từ chối tiết lộ tỷ lệ cổ phần của ông cũng như của người đồng sáng lập thứ ba, Dmytro Lider, và chỉ cho biết ông cùng các nhà đồng sáng lập nắm giữ cổ phần đa số.
+
+Grammarly là một trong một vài startup công công nghệ có nguồn gốc từ Liên Xô cũ, thời kỳ mà “trùm” kinh doanh thường làm giàu nhờ buôn bán hàng hóa.
+
+“Chúng tôi tự hào khi đại diện cho Ukraine trên trường quốc tế”, nhà đồng sáng lập Shevchenko của Grammarly cho biết.
+
+Shevchenko và Lytvyn trở thành bạn bè khi cùng học ngành quản trị kinh doanh tại Đại học Cơ đốc giáo quốc tế Kyiv vào cuối những năm 1990, trước khi họ chuyển tới Mỹ và Canada để học thạc sĩ. Họ nảy ra ý tưởng Grammarly từ một công ty mà họ thành lập trước đó để ngăn chặn tình trạng đạo văn.
+
+“Chúng tôi thành lập Grammarly với mục tiêu ứng dụng công nghệ để giúp mọi người truyền đạt điều họ muốn viết - sứ mệnh được tạo ra từ trải nghiệm của chính chúng tôi với tư cách là những người không nói tiếng Anh như tiếng mẹ đẻ. Chính nguồn gốc của mình đã cho chúng tôi có cái nhìn độc đáo về sự phức tạp và sức mạnh của ngôn ngữ trong việc giúp mọi người đạt được mục tiêu của họ”, Shevchenko nói.
+
+Grammarly có bước ngoặt lớn vào năm 2014 khi ra mắt gói dịch vụ miễn phí với các tính năng cơ bản và người dùng có thể trả phí để hưởng các tính năng nâng cao. Một năm sau đó, công ty này ra mắt tiện ích mở rộng miễn phí trên trình duyệt web, giúp xây dựng lòng trung thành của khách hàng và khoảng 30.000 đội nhóm tại các công ty lớn như Expedia Group Inc. và Cisco Systems Inc.
+
+Tuy nhiên, hiện tại, Grammarly đối mặt với hàng loạt thách thức mới trong giai đoạn phát triển tiếp theo của mình. Đơn cử, nhiều nhà nghiên cứu bày tỏ quan ngại về việc phần mềm của công ty này về cơ bản có thể thay đổi việc thể hiện của con người. Điều này tương tự như những mối lo ngại về việc trí tuệ nhân tạo, từ cảnh báo của tỷ phú Elon Musk rằng công nghệ này có thể được dùng như một "thứ vũ khí kinh hoàng" cho đến dự báo của cựu giám đốc điều hành Google, Kai Fu Lee, rằng tự động hóa có thể thay thế 40% việc làm của con người trong 15 năm tới.
+
+“Giao tiếp mang bản sắc cá nhân là điều rất quan trọng. Các sinh viên có thể không nỗ lực làm bài tập nếu họ phụ thuộc vào Grammarly”, Andrea Lee, giám sư Đại học Austin Peay State ở bang Tennessee (Mỹ), nhận xét. Ông từng nghiên cứu về việc các phần mềm như Grammarly ảnh hưởng thế nào tới những ngườ học tiếng Anh ở những quốc gia như Hàn Quốc.
+
+Phản ứng trước những quan ngại này, ông Hoover cho biết Grammarly đưa ra những phản hồi giúp người dùng học hỏi thay vì hoàn toàn tự động hóa việc viết tiếng Anh của họ. Tuy nhiên, ông cũng khẳng định công ty biết rõ về những rủi ro liên quan tới việc làm mất đi khả năng thể hiện ngôn ngữ của người dùng.
+
+Bên cạnh đó, Grammarly cũng đang phải cạnh tranh với nhiều công cụ hỗ trợ viết dùng trí tuệ nhân tạo như Microsoft Editor. Do đó, công ty này đang cố gắng dẫn trước với việc tung ra nhiều sản phẩm mới như phiên bản dành cho máy tính để bàn, Grammarly cho nhà lập trình hay hợp tác phát triển bàn phím với Samsung.

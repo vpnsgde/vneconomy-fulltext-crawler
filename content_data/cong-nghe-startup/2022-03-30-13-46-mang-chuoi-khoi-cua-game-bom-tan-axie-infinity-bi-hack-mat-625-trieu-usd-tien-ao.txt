@@ -1,0 +1,31 @@
+Ronin Network, mạng chuỗi khối được phát triển cho trò chơi trực tuyến nổi tiếng Axie Infinity, vừa bị tấn công mạng (hack) và đánh cắp số tiền ảo trị giá khoảng 625 triệu USD.
+
+Cụ thể, Ronin cho biết những kẻ tấn công (hacker) đã nắm quyền kiểm soát hệ thống và gửi 173.600 Ethereum – trị giá khoảng 600 triệu USD – tới một ví Ethereum ẩn danh. Ngoài ra, chúng cũng rút khoảng 25,5 triệu USD bằng tiền ảo USD – tiền ảo gắn với giá trị của đồng Đôla Mỹ.
+
+Theo thông báo trên Twitter ngày 29/3, Ronin nói hệ thống có lỗ hổng và bị tấn công. Đây là một trong những vụ tấn công đánh cắp tiền ảo lớn nhất trong lịch sử, xảy ra trong bối cảnh thị trường tiền ảo và trò chơi trực tuyến phi tập trung phát triển bùng nổ những năm gần đây.
+
+Ronin,  mạng chuỗi khối được vận hành bởi Sky Mavis - công ty phát triển Axie Infinity, có khoảng 2 triệu người dùng hàng ngày và lượng giao dịch hàng chục triệu USD mỗi ngày.
+
+Cũng giống như Bitcoin, Ethereum là tiền ảo dựa trên công nghệ chuỗi khối – trong đó nhiều máy tính đóng góp vào một cơ sở dữ liệu chung và không được kiểm soát bởi một thực thể riêng lẻ nào. Khác với các tiền tệ pháp định như Đôla Mỹ, mọi giao dịch tiền ảo được ghi lại trên một sổ cái máy tính phi tập trung gọi là chuỗi khối.
+
+Axie Infinity, được phát hành vào năm 2018, cho phép người chơi thu thập và tạo ra các nhân vật thần thoại và sau đó dùng chúng để chiến đấu với các người chơi khác. Trò chơi này được xây dựng và phát triển trên nền tảng công nghệ blockchain, cho phép người chơi thu thập các vật phẩm dưới dạng non-fungible token (NFT) với đồng tiền mã hóa AXS. Bên cạnh tính cách giải trí, trò chơi này còn cho phép người chơi kiếm tiền, được chuyển đổi các vật phẩm thu thập được thành tài sản để giao dịch.
+
+Trò chơi này được điều hành bởi Sky Mavis, một nhà phát triển trò chơi tại Việt Nam đã thu hút được đầu tư lớn từ công ty đầu tư mạo hiểm Andreessen Horowitz và tỷ phú “Shark Tank” Mỹ Mark Cuban.
+
+Axie Infinity hiện là một trong những trò chơi trực tuyến NFT hàng đầu thế giới với vốn hóa của đồng AXS đạt khoảng 4 tỷ USD tính tới chiều ngày 29/3, theo Coinmarketcap.com.
+
+Theo các trang web theo dõi Axie Infinity, người chơi có thể phải trả khoảng 100 USD để bắt đầu chơi. Nhiều game thủ cho biết, trong trò chơi này, việc chi tới 1.000 USD để lập một nhóm các nhân vật không phải điều hiếm thấy.
+
+Chia sẻ trên Twitter, Jeffrey Zirlin, người đồng sáng lập Sky Mavis, nói rằng: “Đây là lúc chúng tôi thể hiện các giá trị của mình. Sự hỗn loạn chính là nấc thang”.
+
+Các vụ tấn công đánh cắp tiền ảo những năm gần đây không chỉ gia tăng về số lượng mà còn tăng về giá trị. Các chủ sở hữu tiền kỹ thuật số và cơ quan thực thi pháp luật vẫn đang vật lộn xử lý các vụ tấn công quy mô lớn.
+
+Năm 2018, sàn giao dịch Coincheck ở Tokyo cũng bị đánh cắp 530 triệu USD. Còn năm 2014, sàn Mt. Gox cũng ở Tokyo sụp đổ sau khi mất số Bitcoin trị giá khoảng nửa tỷ USD.
+
+Hiện chưa rõ các hacker đứng sau vụ tấn công của Ronin có thể rút số Ethereum đã đánh cắp không bởi tiền ảo này có thể dễ dàng được truy vết khi được chuyển giữa các ví điện tử. Trong một số vụ tấn công gần đây, các hacker đã đồng ý trả lại tài sản đã đánh cắp để đổi lại được hưởng một phần giá trị tài sản này.
+
+Năm ngoái, Poly Network - một nền tảng tài chính phi tập trung dành cho các giao dịch ngang hàng (peer-to-peer) - cũng bị tấn công và đánh cắp hơn 600 triệu USD tiền ảo. Sau đó, các hacker đã trả lại 260 triệu USD.
+
+Tháng trước, Cục Điều tra Liên bang Mỹ (FBI) đã thành một đơn vị chuyên trách về tội phạm tiền điện tử.
+
+Vụ tấn công vào Ronin đang ảnh hưởng tới tất cả người dùng Axie Infinity khi họ không thể rút hay gửi thêm tiền vào nền tảng này. Sky Mavis cho biết đang làm việc với các cơ quan thực thi pháp luật để giải quyết vụ việc.

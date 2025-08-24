@@ -1,0 +1,19 @@
+Một quan chức cấp cao của Ngân hàng Trung ương châu Âu (ECB) lên tiếng cảnh báo rằng sự trỗi dậy của tiền số stablecoin được bảo đảm bằng USD có thể làm suy yếu khả năng kiểm soát chính sách tiền tệ của cơ quan này - theo tờ báo Financial Times.
+
+Ông Jurgen Schaaf, cố vấn cơ sở hạ tầng thị trường và thanh toán của ECB, cho rằng việc áp dụng nhanh chóng stablecoin có thể khiến khu vực đồng euro phải đối mặt với tình trạng tương tự như các nền kinh tế mới nổi bị “đôla hóa” - nơi việc sử dụng rộng rãi đồng tiền của Mỹ có thể cản trở nỗ lực của các nhà hoạch định chính sách của các quốc gia đó trong việc thiết lập lãi suất hoặc kiểm soát cung tiền.
+
+Giá trị lưu hành toàn cầu của stablecoin - các đồng tiền số được neo giá vào tiền giấy và giữ vai trò nền tảng đối với hoạt động giao dịch tiền số -  đã tăng lên mức khoảng 250 tỷ USD. Phần lớn trong số này là những đồng stablecoin gắn liền với đồng USD. Tại Mỹ, Tổng thống Donald Trump đang có những động thái nhằm thúc đẩy các đồng stablecoin được bảo đảm bằng USD trở thành một trụ cột của thị trường tài chính chính thống.
+
+Ông Schaaf viết trong một bài đăng trên blog của ECB hôm thứ Hai: "Nếu stablecoin dựa trên USD được sử dụng rộng rãi trong khu vực đồng euro - cho dù là để thanh toán, tiết kiệm hay thanh toán bù trừ - thì sự kiểm soát của ECB đối với các điều kiện tiền tệ có thể bị suy yếu”. Ông cũng nói rằng một “sự sụp đổ hỗn loạn” của các đồng stablecoin do khu vực tư nhân phát hành có thể “ảnh hưởng khắp hệ thống tài chính”, và các ngân hàng trung ương ngày càng lo ngại về ảnh hưởng lây lan của những sự cố như vậy.
+
+Hai công ty Tether và Circle là các nhà vận hành hai đồng stablecoin lớn nhất hiện nay, nhưng việc Mỹ mới đây thông qua một đạo luật mang tính bước ngoặt nhằm điều tiết lĩnh vực stablecoin được dự báo sẽ mở đường cho các ngân hàng Phố Wall tung ra các sản phẩm của riêng họ.
+
+Các đồng stablecoin được đảm bảo theo tỷ lệ 1-1 bởi các tài sản an toàn như trái phiếu chính phủ và được thiết kế để hoạt động như một cầu nối giữa tiền điện tử và hệ thống tài chính chính thống. Những người ủng hộ loại tiền số này lập luận rằng stablecoin hiệu quả hơn so với chuyển khoản ngân hàng quốc tế, nhưng tính ẩn danh đã khiến stablecoin trở thành công cụ được sử dụng phổ biến cho hoạt động buôn bán ma túy và rửa tiền.
+
+Cảnh báo của ECB một lần nữa cho thấy mối lo ngại của các ngân hàng trung ương về sự phát triển mạnh mẽ của stablecoin. Tháng trước, Ngân hàng Thanh toán Quốc tế (BIS) nói rằng stablecoin “vận hành kém” xét ở phương diện tiền tệ, vì các đồng tiền số này không được các ngân hàng trung ương hậu thuẫn, thiếu các biện pháp bảo vệ đầy đủ để chống lại việc sử dụng bất hợp pháp và không có tính linh hoạt về nguồn vốn cần thiết để tạo ra các khoản vay.
+
+Khả năng xuất hiện những đồng stablecoin trả lãi cho người gửi tiền có thể hút bớt lượng gửi tại các ngân hàng truyền thống, cản trở khả năng của các tổ chức cho vay trong việc cung cấp tín dụng cho nền kinh tế.
+
+Ông Schaaf viết: “Những rủi ro liên quan đến stablecoin là rất dễ nhận thấy, và chúng ta không được xem nhẹ những rủi ro đó”. Ông cũng cho rằng kế hoạch của ECB về phát hành một đồng euro kỹ thuật số giữ vai trò là “một tuyến phòng thủ vững chắc cho chủ quyền tiền tệ của châu Âu”.
+
+Theo vị quan chức này, nỗ lực của ông Trump nhằm thúc đẩy sự phát triển của stablecoin sẽ củng cố vị thế thống trị toàn cầu của đồng bạc xanh và có thể làm giảm chi phí đi vay của Mỹ. “Đối với châu Âu, điều này có nghĩa là chi phí tài chính cao hơn so với Mỹ, quyền tự chủ về chính sách tiền tệ giảm đi và sự phụ thuộc địa chính trị”, ông viết.

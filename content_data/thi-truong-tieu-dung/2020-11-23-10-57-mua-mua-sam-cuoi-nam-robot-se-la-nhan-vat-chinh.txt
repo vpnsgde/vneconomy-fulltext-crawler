@@ -1,0 +1,23 @@
+Ra đời đầu tiên ngay sau khi dịch Covid-19 lan rộng có lẽ là dịch vụ robot giao hàng của Công ty Starship Technologies - hiện đã có mặt tại hàng chục TP trên thế giới như Washington, Arizona, California và một số TP khác tại Anh. Robot tự vận hành với thiết kế 6 bánh xe, vận tốc di chuyển khoảng 6km/h, có thể vận chuyển tối đa 3 túi hàng cùng lúc, nó tự điều chỉnh hướng di chuyển trên đường phố... Nhằm phục vụ người tiêu dùng ở nhà tránh dịch, giảm thiểu lây nhiễm cho cả khách hàng và nhân viên giao hàng, giờ đây có ngày càng nhiều "nhân viên" robot được các cửa hàng hay trung tâm mua sắm "tuyển dụng".
+
+Trong bối cảnh tình hình dịch viêm đường hô hấp cấp COVID-19 diễn biến phức tạp tại Nhật Bản, để kiềm chế sự lây lan của dịch bệnh, nước này đang hướng tới sử dụng robot nhắc nhở người dân đeo khẩu trang khi đi mua sắm.Robot có tên "Robovie" do Viện nghiên cứu ATR có trụ sở tại Kyoto chế tạo và tiến hành thử nghiệm tại cửa hàng bán đồ thể thao ở thành phố Osaka. Robovie được gắn camera và máy quét bằng laser có thể phát hiện người không đeo khẩu trang để nhắc nhở: "Tôi xin lỗi vì đã làm phiền bạn, nhưng vui lòng hãy đeo khẩu trang". Robovie cũng có khả năng phát hiện và nhắc nhở nếu khách hàng đứng quá gần nhau khi xếp hàng. Theo Viện nghiên cứu ATR, Robovie cũng có thể chỉ dẫn cho người mua hàng đến khu vực của cửa hàng mà họ muốn đến.
+
+Mỹ: robot đóng gói thực phẩm
+
+Tại thành phố Boston, các cánh tay robot công nghiệp đang được giao trọng trách thu thập đồ ăn quyên góp trong dịp nghỉ lễ Tạ ơn tới đây, thay thế những tình nguyện viên lớn tuổi. Việc này có ý nghĩa vô cùng lớn bởi người già được coi là đối tượng dễ tổn thương trong bối cảnh đại dịch viêm đường hô hấp cấp Covid-19 bùng phát. Đại dịch này còn khiến số hộ gia đình rơi vào cảnh nghèo đói tăng gấp đôi.Trong khi đó, ở thị trấn Bedford, bang Massachusetts, các cánh tay robot có gắn phễu cao su, đảm nhiệm việc phân loại và đóng gói các nguyên liệu như khoai tây và hỗn hợp nhồi bên trong món gà Tây. Sau đó, các tình nguyện viên sẽ chuyển những nguyên liệu này tới các tổ chức phi lợi nhuận để phân phát cho những người có nhu cầu.
+
+Thái Lan: robot phát nước rửa tay
+
+Người dân đi mua sắm tại trung tâm Central World ở thủ đô Bangkok thời gian gần đây sẽ được gặp một số nhân viên đặc biệt đảm nhận công tác phòng chống dịch COVID-19. Đó là những robot sử dụng các công nghệ tiên tiến, được triển khai để giúp người dân đi mua sắm an toàn trong thời điểm dịch bệnh. Những "nhân viên" đặc biệt này gồm chó robot K9 chuyên phân phát nước rửa tay, robot đo thân nhiệt ROC và robot phục vụ khách hàng LISA.
+
+Hiện Thái Lan đã bắt đầu nới lỏng các biện pháp phong tỏa từng được áp dụng để kiềm chế dịch bệnh, trong đó nhiều trung tâm mua sắm sầm uất đã được mở cửa hoạt động trở lại.
+
+Đức: robot nhắc xếp hàng thanh toán
+
+Giúp khách hàng mua sắm an toàn là công việc một robot đặc biệt đang làm trong bối cảnh dịch COVID-19 diễn biến phức tạp tại Đức. Vì thế, hàng loạt chú robot có tên Pepper đã được đặt ở quầy thanh toán của một loạt siêu thị ở Đức. Nhiệm vụ của robot đặc biệt này là nhắc nhở khách hàng cần giữ khoảng cách khi mua sắm, hay kêu gọi mọi người không mua số lượng lớn các mặt hàng.Pepper đã nhận được nhiều thiện cảm của khách hàng. Nhiều người cho biết, Pepper đã mang lại nụ cười cho họ trong thời điểm khó khăn này.
+
+Pháp: robot giúp mang vác hàng hóa
+
+Việc mua sắm giờ đây trở nên dễ dàng hơn với người già và người khuyết tật ở Pháp nhờ sự giúp đỡ của robot chở hàng tự động. Thiết bị này do công ty Twinsheel phát triển, được thiết kế để hỗ trợ người già, người khuyết tật mang vác hàng hóa khi đi mua sắm. Robot này không giúp thay đổi thói quen mua sắm của đa số người dân, nhưng lại giúp ích rất nhiều. Người lớn tuổi – đối tượng nguy cơ cao của Covid-19 – không phải tự tay mang vác hàng hóa nữa, mà họ chỉ cần lựa chọn và rồi robot sẽ giúp chuyên chở hàng hóa tới tận nhà.
+
+"Robot luôn đi theo sau khách hàng," ông Vincent Talon, nhà sáng lập của Twinsheel cho biết. "Khi gặp đám đông nó sẽ di chuyển khó khăn một chút, nhưng đó là loại robot được thiết kế với khả năng tránh va chạm để không làm tổn thương bất cứ ai. Nó cũng giúp làm giảm nguy cơ lây nhiễm Covid-19 trong mùa mua sắm khi mà những nhân viên giao hàng cứ phải chạy đi chạy lại khắp nơi".

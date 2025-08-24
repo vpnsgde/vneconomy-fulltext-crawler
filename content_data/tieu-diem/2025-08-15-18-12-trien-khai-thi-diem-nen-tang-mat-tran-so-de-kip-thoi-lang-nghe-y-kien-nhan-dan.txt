@@ -1,0 +1,141 @@
+Ngày 15/8, Ban Thường trực Ủy ban Trung ương Mặt trận Tổ quốc
+Việt Nam tổ chức Hội nghị trực tuyến toàn quốc triển khai thí điểm nền tảng
+"Mặt trận số" và tập huấn "Ứng dụng AI trong công tác mặt trận tổ
+quốc các cấp".
+
+Hội nghị tổ chức trực tiếp tại điểm cầu trụ sở cơ quan Ủy
+ban Trung ương Mặt trận Tổ quốc Việt Nam Việt Nam và trực tuyến đến 34 tỉnh,
+thành phố, 3.321 xã, phường, đặc khu trong cả nước.
+
+Theo bà Nguyễn Thị Thu Hà, Ủy viên Trung ương Đảng, Phó Bí
+thư Thường trực Đảng ủy Mặt trận Tổ quốc Việt Nam, các đoàn thể Trung ương, Phó
+Chủ tịch - Tổng Thư ký Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam Việt Nam, Nghị
+quyết số 43-NQ/TW của Ban Chấp hành Trung ương Đảng khóa XIII đã tiếp tục khẳng
+định vai trò nòng cốt chính trị của Mặt trận Tổ quốc Việt Nam trong việc phát
+huy truyền thống, sức mạnh đại đoàn kết toàn dân tộc.
+
+Sứ mệnh của Mặt trận là tập hợp, đoàn kết rộng rãi các tầng
+lớp nhân dân, là cầu nối vững chắc giữa Đảng, Nhà nước với nhân dân.
+
+Trong kỷ nguyên số, Mặt trận phải chủ động đi vào không gian
+số, phải hiện diện ở nơi có người dân, lắng nghe người dân bằng những phương thức
+mới, phù hợp với xu thế của thời đại. "Mặt trận số" là bước đi tất yếu,
+một đòi hỏi cấp thiết.
+
+Đây không chỉ là việc nâng cấp công cụ làm việc, mà là một
+cuộc cách mạng về phương thức hoạt động, giúp chuyển từ phương pháp làm việc thủ
+công, phân tán sang một phương pháp hiện đại, có hệ thống, dựa trên dữ liệu.
+
+Ông Nguyễn Bá Cát, Phó Chánh văn phòng, Giám đốc Trung tâm
+Thông tin và chuyển đổi số cơ quan Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam
+cho biết "Mặt trận số" có địa chỉ truy cập:http://app.mattranso.vn.
+
+Đây là nền tảng số được thiết kế bám sát vào các nhiệm vụ cốt
+lõi của công tác Mặt trận, là công cụ cần thiết cho Mặt trận Tổ quốc các cấp
+trong tình hình mới.
+
+Nền tảng này có 5 phần mềm "cốt lõi" gồm: phần mềm
+cơ sở dữ liệu online; phần mềm tiếp nhận, xử lý phản ánh, kiến nghị của người
+dân; phần mềm Thư viện số cộng đồng hỗ trợ nhân dân; trợ lý ảo phục vụ công tác
+tham mưu Mặt trận Tổ quốc các cấp; phần mềm theo dõi tiến độ, kết quả đại hội Mặt
+trận Tổ quốc các cấp.
+
+Tất cả các hệ thống trên nền tảng "Mặt trận số" được
+kết nối với nhau qua nền tảng đăng nhập một lần OpenID. Một tài khoản có thể
+đăng nhập tất cả các phần mềm.
+
+Dự kiến, các giai đoạn tiếp theo, Mặt trận Tổ quốc sẽ phối hợp
+với các đơn vị liên quan tích hợp, đồng bộ với Cơ sở dữ liệu dân cư quốc gia và
+xác thực tập trung qua ứng dụng VNeID.
+
+Phần mềm cơ sở dữ liệu online được thiết kế nhằm tổng hợp
+thông tin, góp phần xây dựng cơ sở dữ liệu tổ chức về Mặt trận Tổ quốc, các tổ
+chức chính trị - xã hội, các Hội quần chúng được Đảng nước giao nhiệm vụ ở các
+cấp.
+
+Về phương thức truy cập, tỉnh, thành phố; xã, phường, đặc
+khu; thôn, bản, tổ dân phố truy cập vào nền tảng "Mặt trận số" tại địa
+chỉ http://app.mattranso.vn và lựa chọn biểu tượng phần mềm "Phần mềm cơ sở
+dữ liệu online" hoặc truy cập thẳng vào địa chỉ http://csdl.mattranso.vn.
+
+Phần mềm tiếp nhận, xử lý phản ánh, kiến nghị của người dân
+được thiết kế nhằm hiện thực hóa vai trò giám sát, phản biện xã hội của Mặt trận
+một cách mạnh mẽ, trực tiếp nhất.
+
+Mọi người dân, dù ở bất cứ đâu, chỉ cần có một chiếc điện
+thoại thông minh là có thể gửi ý kiến, kiến nghị trực tiếp đến hệ thống của Mặt
+trận. Mỗi ý kiến sẽ được ghi nhận, phân loại, chuyển đến các cơ quan có thẩm
+quyền và theo dõi quá trình xử lý, giải quyết.
+
+Các phần phản ánh, kiến nghị trên phần mềm được cập nhật là
+xử lý nhanh chóng giúp Mặt trận Tổ quốc gần dân hơn, kịp thời lắng nghe phản
+ánh kiến nghị của người dân.
+
+Người dân truy cập vào nền tảng "Mặt trận số" tại
+địa chỉ http://app.mattranso.vn và lựa chọn biểu tượng phần mềm "Hệ thống
+tiếp nhận, xử lý phản ánh, kiến nghị của người dân" hoặc truy cập thẳng
+vào địa chỉ http://pakn.mattranso.vn.
+
+Hệ thống quản trị của phần mềm gồm 3 cấp Trung ương; tỉnh,
+thành phố; xã, phường, đặc khu được phân quyền quản trị để tiếp nhận và giải
+đáp các phản ánh, kiến nghị của người dân.
+
+Kiến nghị của cấp nào sẽ được gửi đến Mặt trận Tổ quốc cấp
+đó tiếp nhận và phản hồi. Các ý kiến phản hồi về phản ánh, kiến nghị của người
+dân được công khai, minh bạch trên trang chủ của Hệ thống.
+
+Phần mềm Thư viện số cộng đồng hỗ trợ nhân dân được thiết kế
+là một kênh thông tin tổng hợp, hướng dẫn người dân tra cứu các thông tin cần
+thiết. Phần mềm không chỉ là công cụ tra cứu hữu ích, còn là một kênh thông tin
+chính thống, tin cậy để người dân có thể tiếp cận, tìm hiểu, nâng cao nhận thức
+pháp luật, tham gia tích cực hơn vào các hoạt động tại cộng đồng.
+
+Hiện nay, phần mềm đang được kết nối, tích hợp 2 nhóm nội
+dung "Dịch vụ công" và "Thư viện pháp luật". Giai đoạn tiếp
+theo, dự kiến sẽ tiếp tục nâng cấp, bổ sung các thông tin gắn với các lĩnh vực
+đời sống người dân quan tâm.
+
+Người dân truy cập vào nền tảng "Mặt trận số" tại
+địa chỉ http://app.mattranso.vn và lựa chọn biểu tượng phần mềm "Thư viện
+số cộng đồng - Hỗ trợ người dân" hoặc truy cập thẳng vào địa chỉ http://hotronguoidan.mattranso.vn.
+Tại đây, người dân có thể nhanh chóng tìm kiếm, tra cứu thông tin về các lĩnh vực
+quan tâm.
+
+Trợ lý ảo phục vụ công tác tham mưu Mặt trận Tổ quốc các cấp
+được thiết kế dưới dạng chatbot thông minh nhằm hỗ trợ cán bộ Mặt trận Tổ quốc
+các cấp tra cứu các thông tin liên quan đến nghiệp vụ các mảng công tác của Mặt
+trận.
+
+Người dùng đưa vào các câu, từ khóa về vấn đề, lĩnh vực quan
+tâm. Trên cơ sở dữ liệu được cài đặt, hệ thống sẽ tự động trích xuất ra các
+thông tin phù hợp.
+
+Hệ thống có ưu điểm là phản hồi tức thì 24/7; độ chính xác
+cao, cập nhật thông thường xuyên, hỗ trợ đa nền tảng.
+
+Cán bộ Mặt trận Tổ quốc các cấp truy cập vào nền tảng
+"Mặt trận số" tại địa chỉ http://app.mattranso.vn và lựa chọn biểu tượng
+phần mềm "Chatbot MTTQVN" hoặc truy cập thẳng vào địa chỉ http://sotay.mattranso.vn.
+Tại đây, người dùng có thể đặt câu hỏi, tra cứu thông tin về các nghiệp vụ công
+tác của Mặt trận phục vụ cho công tác tham mưu.
+
+Phần mềm theo dõi tiến độ, kết quả đại hội Mặt trận Tổ quốc
+các cấp theo dõi tiến độ, kết quả đại hội Mặt trận Tổ quốc các cấp được thiết kế
+nhằm tổng hợp thông tin nhanh chóng, kịp thời các thông tin cơ bản của Đại hội
+(về thời gian tổ chức Đại hội, về kết quả hiệp thương nhân sự, thông tin tin tức
+đại hội).
+
+Các thông tin được quản lý tập trung, đồng bộ và theo dõi trực
+quan trên một hệ thống duy nhất nhằm cung cấp tổng thể, chính xác, theo thời
+gian thực về công tác Đại hội Mặt trận Tổ quốc Việt Nam cấp tỉnh, xã.
+
+Cán bộ Mặt trận Tổ quốc các cấp truy cập vào nền tảng
+"Mặt trận số" tại địa chỉ http://app.mattranso.vn và lựa chọn biểu tượng
+phần mềm "Hệ thống theo dõi tiến độ, kết quả Đại hội Mặt trận Tổ quốc các
+cấp" hoặc truy cập thẳng vào địa chỉ http://daihoi.mattranso.vn.
+
+"Mặt trận số" sẽ là bộ công cụ sẽ gắn bó mật thiết
+với mỗi cán bộ Mặt trận ở cơ sở, góp phần đưa Mặt trận Tổ quốc Việt Nam đóng
+góp tích cực vào quá trình chuyển đổi số quốc gia - đưa Mặt trận Tổ quốc Việt
+Nam, các tổ chức chính trị -xã hội đến gần dân, sát dân và sẵn sàng phục vụ vì
+dân.

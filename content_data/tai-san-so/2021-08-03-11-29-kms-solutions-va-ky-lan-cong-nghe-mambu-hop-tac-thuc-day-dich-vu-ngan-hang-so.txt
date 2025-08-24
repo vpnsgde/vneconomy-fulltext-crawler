@@ -1,0 +1,19 @@
+Hợp tác này sẽ giúp doanh nghiệp khối BFSI (ngân hàng tài chính) mang đến những cải tiến về công nghệ và trải nghiệm khách hàng thông qua một nền tảng số duy nhất. Nhờ vào công nghệ điện toán đám mây và giao thức API (giao diện lập trình ứng dụng), nền tảng ngân hàng số giúp các ngân hàng và tổ chức tài chính hiện đại hóa hệ thống, giảm thời gian phát triển sản phẩm mới, chuyển từ mô hình chi phí Capex sang Opex, và giảm thiểu chỉ số CIR (tỷ lệ chi phí trên thu nhập).
+
+
+
+Ngoài ra, hai bên cũng dự kiến ra mắt một nền tảng ngân hàng số (digital banking) toàn diện, đáp ứng mọi nhu cầu chuyển đổi số của doanh nghiệp khối ngành ngân hàng. Về mặt nghiệp vụ, nền tảng cung cấp các giải pháp tự động hóa quy trình, giúp ngân hàng nâng cao hiệu quả hoạt động và tối ưu hóa chi phí quản lý.
+
+Về phía khách hàng, nền tảng được tích hợp một loạt các tính năng và mô hình dịch vụ mới nổi như Payment Account (tài khoản thanh toán), Buy Now Pay Later (mua trước trả sau), Peer-to-Peer Payment (thanh toán ngang hàng), hay Revolving Credit (tín dụng tuần hoàn), đáp ứng nhu cầu sử dụng dịch vụ ngân hàng mọi lúc mọi nơi của người dùng.
+
+Ông Lê Hữu Tấn Tài, Phó tổng giám đốc KMS Solutions, cho biết: Dựa vào kiến trúc Composable Banking trên nền tảng đám mây của Mambu, KMS tự tin xây dựng và cung cấp các giải pháp ngân hàng số hiện đại cho ngành dịch vụ tài chính ngân hàng.
+
+“Mô hình chuyển đổi số của KMS giúp ngân hàng và các tổ chức tài chính giải quyết ba bài toán cốt lõi: Cung cấp một trải nghiệm khách hàng ưu việt, xây dựng một hệ thống vận hành tối ưu, và liên tục phát triển các sản phẩm ngân hàng tiên tiến.”, ông Tài nói.
+
+Đồng hành cùng doanh nghiệp trên hành trình chuyển đổi số, KMS Solutions liên tục đẩy mạnh xây dựng và cải tiến bộ giải pháp đặc thù cho khối BFSI (ngân hàng tài chính) có tên gọi BankTech. Trong đó, nổi bật với các giải pháp số hóa như định danh khách hàng điện tử (eKYC), ngân hàng di động (mobile banking), ngân hàng online (online banking), phân tích dữ liệu nghiệp vụ (banking analytics), hay dịch vụ kiểm định chất lượng chuyển đổi số (digital testing)…
+
+Ông Phạm Quang Minh, Tổng giám đốc Mambu Việt Nam chia sẻ: “Ngành dịch vụ tài chính ngân hàng ở Việt Nam đang chứng kiến rất nhiều sự đổi mới và tiếp nhận các công nghệ ngân hàng số. Sai lầm lớn nhất mà bất kỳ một ngân hàng nào cũng có thể mắc phải vào thời điểm này, đó là thờ ơ với xu hướng, họ cần hoạt động như fintech, nhanh nhẹn, nhạy bén và linh hoạt để tăng cường khả năng tồn tại và cạnh tranh".
+
+Bắt đầu từ tháng 8/2018 khi Chính phủ ban hành quyết định 986/QĐ-TTg về chiến lược phát triển ngành ngân hàng tới năm 2025, làn sóng số hóa ngân hàng trong nước diễn ra mạnh mẽ, và càng được củng cố sau quyết định 810/QĐ-NHNN mới đây vào tháng 5/2021 phê duyệt kế hoạch chuyển đổi số ngành ngân hàng trong thời gian tới.
+
+Trong tình hình dịch bệnh hiện nay, việc ứng dụng các công nghệ số tiên tiến là tối quan trọng để duy trì hiệu quả hoạt động và giữ chân khách hàng, đặc biệt là trong ngành ngân hàng.

@@ -1,0 +1,53 @@
+Vì sao những startup công nghệ cung cấp ứng dụng gọi xe như Grab, Uber đang lấy đi ngày càng nhiều khách hàng của các hãng taxi truyền thống và cả những khách hàng tiềm năng của các hãng sản xuất xe hơi trên toàn cầu? Vì sao đối thủ cạnh tranh lớn nhất của các ngân hàng không phải là những ngân hàng khác mà sẽ là những công ty fintech với các ứng dụng như AliPay, Samsung Pay, Viettel Pay...
+
+Vì sao khách hàng thế hệ Millennials ngày càng thích đặt hàng qua mạng và chỉ đến các cửa hàng vật lý để xem chứ không phải để mua hàng? Liệu có tồn tại một công thức hay lộ trình chung về chuyển đổi kỹ thuất số dành cho mọi tổ chức hay không? Vì sao một số tổ chức chuyển đổi thành công trong kỷ nguyên số, một số khác lại thất bại?
+
+Để trả lời những câu hỏi trên, dường như các nhà quản trị, các học giả tại các trường kinh doanh hàng đầu trên thế giới đang phải rà soát và cập nhật lại các nguyên lý cũng như các giả định đã là tiền đề cho sự thành công của nhiều mô hình kinh doanh ở các ngành công nghiệp khác nhau trong nhiều thập kỷ qua.
+
+Trong khá nhiều cuốn sách được ra mắt trong những năm gần đây liên quan đến chiến lược chuyển đổi số, "The Digital Transformation Playbook, rethinking your business in the digital age", chính là một tác phẩm nổi bật và có tính tổng thể nhất. Đây là công trình của nhóm nghiên cứu tại trường kinh doanh Columbia, đứng đầu bởi Giáo sư David Rogers, chuyên gia hàng đầu thế giới và tác giả nổi bật hiện nay về chiến lược số trong kinh doanh.
+
+Cuốn sách cung cấp cho các lãnh đạo doanh nghiệp một cuốn "Playbook", hay một sơ đồ chiến thuật giúp doanh nghiệp ở mọi lĩnh vực có cách tiếp cận tổng thể và phù hợp để chuyển đổi và thích nghi thành công trong kỷ nguyên số ẩn chứa rất nhiều biến động. Với những phân tích chuyên sâu, các dẫn chứng thực tế, và cả những công cụ thực tiễn, hình thành từ quá trình giảng dạy và tư vấn trực tiếp cho các doanh nghiệp hàng đầu trên thế giới của tác giả, cuốn sách dẫn dắt người đọc khám phá năm phương diện chiến lược trong chuyển đổi kỹ thuật số: cạnh tranh, khách hàng, dữ liệu, tuyên bố giá trị và đổi mới sáng tạo.
+
+Chuyển đổi số không phải là vấn đề về công nghệ
+
+Thật kỳ lạ, một cuốn sách về chiến lược kinh doanh trong kỷ nguyên số nhưng trong năm phương diện chiến lược của chuyển đổi kỹ thuật số lại không hề nhắc đến cụm từ "công nghệ".  Lý do là trong nền kinh tế kỹ thuật số, cạnh tranh và khách hàng, chứ không phải công nghệ, mới là những yếu tố chính dẫn dắt quá trình chuyển đổi kỹ thuật số tại các tổ chức.
+
+Để minh họa, Rogers cảnh báo rằng trong lĩnh vực sản xuất tin tức, các công ty truyền thông không nên bị cuốn vào công nghệ: "Công nghệ là lý do tại sao các ngành công nghiệp trên toàn thế giới phải thay đổi, nhưng lựa chọn công nghệ của riêng họ không phải là một phần quan trọng của quá trình chuyển đổi", ông nói.
+
+Dòng tiền đang chảy từ nền tảng này sang nền tảng khác
+
+Ở phương diện cạnh tranh, cuốn sách giúp chúng ta biết được thực tế dòng tiền kinh doanh đang chảy từ nền tảng kinh doanh này sang nền tảng kinh doanh khác, chứ không phải là từ doanh nghiệp hay sản phẩm này sang doanh nghiệp hay sản phẩm khác. Cạnh tranh ngày càng diễn ra ít hơn bên trong các ngành công nghiệp cũng như giữa các doanh nghiệp tương đồng đang tìm cách thay thế lẫn nhau.
+
+Trên thực tế, địa bàn cạnh tranh đang ngày càng mở rộng, giữa các doanh nghiệp "bất đối xứng" cả về quy mô, tuổi đời và kinh nghiệm chuyên sâu trong từng ngành công nghiệp cụ thể. Bên cạnh đó, công nghệ kỹ thuật số đang thúc đẩy xu hướng "vừa hợp tác vừa cạnh tranh", khi mà nhiều doanh nghiệp đang cạnh tranh trực tiếp trong một lĩnh vực nhận thấy họ có thể cùng hiệp lực tạo ra giá trị lớn hơn khi trở thành đối tác trong những lĩnh vực khác. Chẳng hạn Samsung đối đầu với Apple ở mạng điện thoại thông minh nhưng mỗi chiếc điện thoại iPhone vẫn đang sử dụng màn hình do Samsung sản xuất.
+
+Hành vi thay đổi của khách hàng
+
+Về phương diện khách hàng, cuốn sách giúp các doanh nghiệp hiểu được vai trò và tính chất thay đổi của khách hàng trong thời đại số. Khách hàng không còn là những cá nhân đơn lẻ nữa, theo nghĩa tiếp nhận thông tin truyền thông một chiều và đại trà từ nhà sản xuất mà ngày nay, sự thực là khách hàng đang nằm trong các mạng lưới khác nhau như Facebook, Twitter, Linkedin...
+
+Để thành công, mọi doanh nghiệp phải hiểu được những đặc thù của phễu tiếp thị hiện đại và năm hành vi căn bản của khách hàng trong mạng lưới: tiếp cận (reach), kết nối (connect), gắn kết (engage), tùy chỉnh (customize) và hợp tác (collaborate). Ví dụ, Coca-Cola đã từng tạo ra những chiến dịch tiếp thị thành công vang dội ở nhiều thị trường khi tung ta các vỏ lon được in tên riêng của khách hàng, như một phần của chiến lược tùy chỉnh và kết nối với khách hàng. Nâng cao trải nghiệm khách hàng đa kênh (omnichannel) trong kỷ nguyên số chính là trọng tâm của nhiều dự án chuyển đổi kỹ thuật số diễn ra ở hàng loạt các ngành công nghiệp như: bán lẻ, ngân hàng, chăm sóc sức khỏe, du lịch khách sạn...
+
+Dữ liệu là nguyên liệu chính của nền kinh tế sáng tạo
+
+Trong thời đại kỹ thuật số, khả năng và tiềm năng của dữ liệu là khía cạnh các ngành công nghiệp có thể chuyển giao và phát huy những thành công trước đây đối với thị trường đại chúng nhằm kết nối tốt hơn với các cá nhân. Rogers đã chỉ ra các chương trình khách hàng thân thiết như một phần năng động trong cách các thương hiệu quản lý theo thời gian thực mối quan hệ của họ với khách hàng.
+
+Cuốn sách cung cấp bốn kế sách giúp doanh nghiệp biến dữ liệu thành tài sản, bao gồm: sự thấu hiểu, nhắm mục tiêu, tùy chỉnh và gắn dữ liệu với bối cảnh. Các quyết định quan trọng trong sản xuất, kinh doanh tại các tập đoàn lớn trên thế giới ngày càng lệ thuộc vào dữ liệu. Ví dụ, Disney Land trang bị cho toàn bộ khách tham quan một vòng cổ tay thông minh cho phép họ thu thập được dữ liệu theo thời gian thực về lưu lượng giao thông trong các công viên chủ đề, từ đó có thể điều chỉnh ngay lập tức các phương án giao thông, bố trí các khu vực ăn uống, hay cho phép nhân viên gọi đúng khách hàng trẻ em theo tên riêng hoặc thói quen của chúng.
+
+Đổi mới sáng tạo thông qua thử nghiệm nhanh – công thức thành công chung
+
+Đổi mới sáng tạo trong thời đại số cần sử dụng một cách tiếp cận mới để theo kịp tốc độ thay đổi nhanh chóng về nhu cầu và hành vi của khách hàng trong kỷ nguyên số. Trong cuốn sách này, Rogers dành hẳn một chương để diễn giải vì sao các doanh nghiệp cần thực thi đổi mới sáng tạo thông qua thử nghiệm nhanh.
+
+Ý tưởng có thể rất rẻ, nhưng một sản phẩm mới được tạo ra dựa trên ý tưởng mới mà không được phát triển thông qua các vòng lặp với kết quả đầu ra ở mỗi vòng lặp là một MVP (mẫu thử khả thi tối thiểu) thì lãng phí và chi phí học hỏi cho doanh nghiệp có thể là rất lớn. Trong thời đại số, việc bạn đã thành công trong một lĩnh vực nào đó không có nghĩa là bạn sẽ thành công ở một lĩnh vực khác khi bạn cố gắng lặp lại những kinh nghiệm hay thực tiễn trong quá khứ vào một lĩnh vực hay địa bàn mới mà không qua thử nghiệm.
+
+Làm sao để doanh nghiệp của bạn tiếp tục phù hợp với khách hàng tương lai?
+
+Cuối cùng về mặt giá trị, các doanh nghiệp trên thế giới đang nỗ lực để những giá trị mà họ cung cấp tiếp tục phù hợp với thị trường. Chẳng hạn, Rogers trích dẫn lời của Sree Sreenivasan, cựu giám đốc kỹ thuật số cho bảo tàng nghệ thuật Metropolitan tại New York, rằng hiện nay các viện bảo tàng khác không phải là đối thủ cạnh tranh của Met, mà chính là Netflix và Candy Crush.
+
+Trong khi Sreenivasan nói rằng bảo tàng đang chiến đấu để thu hút sự chú ý, Rogers lập luận rằng họ đang cạnh tranh vì tính phù hợp: "Tôi cho rằng mọi doanh nghiệp nên nỗ lực để phù hợp với khách hàng tương lai như cách bạn đang chứng tỏ phù hợp với khách hàng hiện tại". Ngay cả Apple, đứng trước sự sụt giảm về doanh số bán ra trên toàn cầu của điện thoại iPhone, cũng cần xem lại càng dòng điện thoại iPhone càng mới có tiếp tục phù hợp với nhu cầu thay đổi của khách hàng không.
+
+Thay đổi mô hình đang diễn ra ở hầu hết các ngành công nghiệp
+
+Đặc biệt, cuốn sách đưa ra những phân tích rất sâu sắc giải thích hiện tượng gián đoạn mô hình kinh doanh (business model disruption) đang xảy ra ở hầu hết các ngành công nghiệp như cách iPhone làm gián đoạn Nokia, Netflix xóa sổ Blockbuster... Người đọc sẽ hiểu rõ chiến lược thu hút khách hàng của những kẻ phá bĩnh kỹ thuật số, và khi nào thì sự gián đoạn trong kinh doanh xảy ra, cũng như nắm được những kỹ thuật đáp trả dành cho các doanh nghiệp truyền thống trước sự "xâm lăng" của những kẻ phá bĩnh này.
+
+The Digital Transformation Playbook thực sự là một cuốn sách cần phải có trên bàn làm việc của mọi lãnh đạo doanh nghiệp. Với một khuôn khổ chiến lược sắc bén và các công cụ "thực chiến", nó sẽ giúp các lãnh đạo doanh nghiệp có cái nhìn rõ hơn về những mối đe dọa tiềm tàng đang tới dần trong lĩnh vực kinh doanh của họ trong kỷ nguyên 4.0, và tự xây dựng được chiến lược chuyển đổi kỹ thuật số phù hợp với những đặc thù trong ngành kinh doanh của họ cũng như phù hợp với cấp độ phát triển hiện tại của doanh nghiệp của họ. Cuốn sách đã được dịch ra nhiều thứ tiếng trên thế giới, và bản dịch tiếng Việt vừa ra mắt độc giả Việt Nam vào dịp đầu năm mới 2019 với tựa đề "Cải tổ doanh nghiệp trong thời đại số".
+
+"Chủ động thích nghi để đón đầu sự thay đổi bao giờ cũng tốt hơn là chỉ thay đổi khi bắt buộc phải làm như vậy", đó cũng là một lời nhắn nhủ quan trọng mà Rogers dành cho các lãnh đạo doanh nghiệp trong cuốn sách rất tuyệt vời này.

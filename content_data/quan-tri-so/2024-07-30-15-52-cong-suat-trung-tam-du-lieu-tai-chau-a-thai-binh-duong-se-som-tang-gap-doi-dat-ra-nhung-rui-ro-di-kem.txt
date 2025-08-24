@@ -1,0 +1,31 @@
+Theo các nhà phân tích, công suất trung tâm dữ liệu ở thị trường Châu Á - Thái Bình Dương (APAC), nơi đang có tốc độ phát triển nhanh nhất toàn cầu sẽ tăng gấp đôi trong vòng 5 năm tới. Sự bùng nổ về nhu cầu đến từ việc tăng cường áp dụng trí tuệ nhân tạo (AI) và điện toán đám mây.
+
+Cụ thể, Moody's - tổ chức đánh giá tín dụng uy tín hàng đầu trên thế giới đã cho biết trong báo cáo vào tuần trước rằng công suất trung tâm dữ liệu ở APAC dự kiến sẽ tăng với tốc độ trung bình gộp hàng năm gần 20% cho đến năm 2028 lên khoảng 24.800 megawatt (MW) - cao hơn gấp đôi công suất hiện tại là 10.500MW.
+
+Cơ quan xếp hạng cho biết khu vực này dự kiến sẽ chiếm khoảng 30% việc mở rộng công suất toàn cầu trong 5 năm tới, với hơn 564 tỷ USD đầu tư.
+
+Theo S&P Global, các khoản đầu tư bùng nổ vào phát triển phần mềm AI tổng quát ở APAC sẽ thúc đẩy sự tăng trưởng của thị trường trung tâm dữ liệu trong khu vực.
+
+“Bắc Mỹ là thị trường lớn nhất khi nói đến AI tổng hợp, thúc đẩy khoảng 63% doanh thu toàn cầu,” Bà Melissa Incera, nhà phân tích nghiên cứu về dữ liệu, AI và phân tích tại S&P Global Market Intelligence cho biết trong hội thảo trực tuyến vào tuần trước.
+
+Bà cho biết thêm do sự đầu tư mạnh mẽ vào các khu vực khác để phù hợp với nhu cầu địa phương ngày càng tăng, S&P Global dự kiến doanh thu từ Bắc Mỹ sẽ giảm và tăng ở các khu vực khác trên thế giới, đặc biệt là APAC.
+
+S&P Global ước tính APAC sẽ có thị phần tăng đáng kể nhất trong lĩnh vực phần mềm AI tổng hợp vào năm 2028, với thị phần doanh thu toàn cầu tăng từ 14% hiện tại lên 20% trong 5 năm, trong khi thị phần của Bắc Mỹ sẽ giảm từ 63% xuống còn 55%.
+
+Theo Moody's, có một mạng lưới mạnh mẽ với công suất trung tâm dữ liệu hơn 4.400MW đang được xây dựng tại các thị trường trọng điểm ở APAC, khoảng 75% trong số đó là ở Trung Quốc, Nhật Bản, Úc và Ấn Độ. Hầu hết công suất mới sẽ được hoàn thành trước năm 2025.
+
+Theo Nidhi Dhruv, Phó Chủ tịch và Giám đốc tín dụng cấp cao của Moody's, việc mở rộng trung tâm dữ liệu ở APAC có thể gây ra rủi ro lớn hơn cho các nhà khai thác về chuyển đổi carbon và quản lý nước cũng như các nhà đầu tư.
+
+Dhruv cho biết trong một báo cáo tuần trước: “Các trung tâm dữ liệu chủ yếu được phục vụ bởi các nguồn năng lượng không bền vững và nhu cầu tăng nhanh có thể sẽ vượt xa sự phát triển của năng lượng carbon thấp. Điều này có thể gây khó khăn cho những gã khổng lồ công nghệ và nhà phát triển trung tâm dữ liệu trong việc đạt được cam kết phát thải bằng 0.”
+
+Theo Cơ quan Năng lượng Quốc tế, nhu cầu ngày càng tăng và việc áp dụng AI tổng hợp, chẳng hạn như ChatGPT của OpenAI sẽ khiến mức tiêu thụ điện của trung tâm dữ liệu toàn cầu tăng hơn gấp đôi từ năm 2022 đến năm 2026. Nguyên nhân là bởi cần một lượng lớn năng lượng để duy trì hoạt động của các máy chủ chạy và làm mát chúng.
+
+Tuy nhiên, hầu hết các quốc gia ở APAC chủ yếu dựa vào nhiên liệu hóa thạch để tạo ra điện. Trung Quốc là thị trường trung tâm dữ liệu lớn nhất ở APAC với công suất 3.956MW, phụ thuộc rất nhiều vào năng lượng than. Nước này đã tạo ra gần 2/3 lượng điện từ than vào năm ngoái.
+
+Căng thẳng về nguồn nước ở một số thị trường châu Á cũng có thể dẫn đến gián đoạn dịch vụ vì nước vẫn rất cần thiết để làm mát và duy trì độ ẩm trong các trung tâm dữ liệu.
+
+Tổ chức phi lợi nhuận China Water Risk có trụ sở tại Hong Kong cho biết trong một báo cáo năm nay rằng các trung tâm dữ liệu của Trung Quốc tiêu thụ khoảng 1,3 tỷ mét khối nước mỗi năm, đủ cho 26 triệu người. Khi nhiều trung tâm dữ liệu được xây dựng ở Trung Quốc, con số đó có thể đạt hơn 3 tỷ mét khối vào năm 2030, nhiều hơn nhu cầu nước của Hàn Quốc cộng lại.
+
+Để đáp ứng các cam kết về khí hậu, Chính phủ các nước APAC đã bắt đầu điều chỉnh tác động môi trường của các trung tâm dữ liệu. Tuần trước, Trung Quốc đã công bố kế hoạch hành động về phát triển bền vững các trung tâm dữ liệu, đặt mục tiêu cải thiện hiệu quả sử dụng năng lượng và sử dụng năng lượng tái tạo.
+
+Moody's cho biết các nhà phát triển và người thuê trung tâm dữ liệu, đặc biệt là ở các thị trường có mục tiêu không phát thải ròng, được khuyến khích ký các thỏa thuận mua bán điện dài hạn với doanh nghiệp để cung cấp năng lượng tái tạo và hạn chế rủi ro chuyển đổi carbon của họ.

@@ -1,0 +1,33 @@
+Tại dự thảo Thông tư quy định về an toàn, bảo mật cho việc cung cấp dịch vụ trực tuyến trong ngành ngân hàng (online banking), Ngân hàng Nhà nước đề xuất nguyên tắc chung về đảm bảo an toàn, bảo mật hệ thống công nghệ thông tin cho việc cung cấp dịch vụ online banking.
+
+Theo dự thảo, hệ thống online banking phải tuân thủ theo quy định về bảo đảm an toàn hệ thống thông tin cấp độ 3 trở lên theo quy định của pháp luật về bảo đảm an toàn hệ thống thông tin theo cấp độ và quy định của Ngân hàng Nhà nước về an toàn hệ thống thông tin trong hoạt động ngân hàng.
+
+Đảm bảo tính bí mật, tính toàn vẹn của thông tin khách hàng; đảm bảo tính sẵn sàng của hệ thống online banking để cung cấp dịch vụ một cách liên tục.
+
+Ngoài ra, các giao dịch của khách hàng được đánh giá mức độ rủi ro tối thiểu theo từng nhóm khách hàng, loại giao dịch, hạn mức giao dịch (nếu có) và trên cơ sở đó cung cấp hình thức xác thực giao dịch phù hợp cho khách hàng lựa chọn, tuân thủ các quy định: Áp dụng xác thực đa yếu tố khi thay đổi thông tin định danh khách hàng; áp dụng các hình thức xác thực cho từng nhóm khách hàng, loại giao dịch, hạn mức giao dịch theo quy định; đối với giao dịch gồm nhiều bước, phải áp dụng tối thiểu biện pháp xác thực tại bước phê duyệt cuối cùng.
+
+Thực hiện kiểm tra, đánh giá an ninh, bảo mật hệ thống online banking theo định kỳ hàng năm.
+
+Thường xuyên nhận dạng rủi ro, nguy cơ gây ra rủi ro và xác định nguyên nhân gây ra rủi ro, kịp thời có biện pháp phòng ngừa, kiểm soát và xử lý rủi ro trong cung cấp dịch vụ ngân hàng trên Internet.
+
+Các trang thiết bị hạ tầng kỹ thuật công nghệ thông tin cung cấp dịch vụ online banking phải có bản quyền, nguồn gốc, xuất xứ rõ ràng. Với các trang thiết bị sắp hết vòng đời sản phẩm và sẽ không được nhà sản xuất tiếp tục hỗ trợ, đơn vị phải có kế hoạch nâng cấp, thay thế theo thông báo của nhà sản xuất, bảo đảm các trang thiết bị hạ tầng có khả năng cài đặt phiên bản phần mềm mới.
+
+Theo dự thảo, đơn vị cung cấp dịch vụ online banking phải thiết lập hệ thống mạng, truyền thông và an ninh bảo mật đạt yêu cầu tối thiểu sau:
+
+Có các giải pháp an ninh bảo mật tối thiểu gồm: Tường lửa ứng dụng; tường lửa cơ sở dữ liệu; hệ thống giám sát, cảnh báo tập trung đối với các hành vi tấn công hoặc hành vi bất thường.
+
+Thông tin khách hàng không được lưu trữ tại phân vùng kết nối Internet và phân vùng DMZ (phân vùng trung gian giữa mạng nội bộ và mạng Internet).
+
+Thiết lập chính sách hạn chế tối đa các dịch vụ, cổng kết nối vào hệ thống online banking.
+
+Ngoài ra, kết nối từ bên ngoài mạng nội bộ vào hệ thống online banking để quản trị chỉ được thực hiện trong trường hợp không thể kết nối từ mạng nội bộ và bảo đảm an toàn, tuân thủ tối thiểu các quy định sau: Phải được người có thẩm quyền phê duyệt sau khi xem xét mục đích, cách thức kết nối; phải có phương án quản lý truy cập, quản trị hệ thống từ xa an toàn như sử dụng mạng riêng ảo hoặc phương án tương đương;
+
+Đồng thời, thiết bị kết nối phải được cài đặt các phần mềm bảo đảm an ninh bảo mật; phải sử dụng biện pháp xác thực đa yếu tố khi đăng nhập hệ thống; sử dụng giao thức truyền thông được mã hóa an toàn và không lưu mã khóa bí mật tại các phần mềm tiện ích; Đường truyền kết nối mạng cung cấp dịch vụ phải bảo đảm tính sẵn sàng cao và khả năng cung cấp dịch vụ liên tục.
+
+Dự thảo cũng nêu rõ, các đơn vị phải thực hiện quản lý các lỗ hổng, điểm yếu của hệ thống online banking, thiết lập cơ chế phát hiện, phòng chống xâm nhập, tấn công mạng vào hệ thống.
+
+Cụ thể, các đơn vị có biện pháp phòng, chống, dò tìm phát hiện các thay đổi của trang tin điện tử, phần mềm ứng dụng online banking; Phối hợp với các đơn vị quản lý nhà nước, các đối tác công nghệ thông tin kịp thời nắm bắt các sự cố tình huống mất an toàn, bảo mật thông tin để có biện pháp ngăn chặn kịp thời.
+
+Cập nhật thông tin các lỗ hổng bảo mật được công bố có liên quan đến phần mềm hệ thống, hệ quản trị cơ sở dữ liệu và phần mềm ứng dụng theo thông tin từ hệ thống tính điểm lỗ hổng phổ biến.
+
+Thực hiện dò quét lỗ hổng, điểm yếu của hệ thống online banking tối thiếu mỗi năm một lần hoặc khi tiếp nhận được những thông tin liên quan đến lỗ hổng, điểm yếu mới. Đánh giá mức độ tác động, rủi ro của từng lỗ hổng, điểm yếu về mặt kỹ thuật được phát hiện của hệ thống và đưa ra phương án, kế hoạch xử lý; Thực hiện triển khai cập nhật các bản vá bảo mật hoặc các biện pháp phòng ngừa kịp thời căn cứ theo đánh giá mức độ tác động, rủi ro.

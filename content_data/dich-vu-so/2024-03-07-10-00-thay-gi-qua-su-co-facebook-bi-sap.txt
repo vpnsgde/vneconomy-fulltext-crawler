@@ -1,0 +1,41 @@
+Trước đó, vào khoảng 22 giờ 30 phút tối 5/3 (giờ Việt Nam), nhiều người dùng Facebook tại Việt Nam bị mất kết nối, buộc phải đăng nhập lại. Hệ thống chỉ hiển thị thông báo "Phiên làm việc đã kết thúc" trên mọi thiết bị đang đăng nhập và bị thoát không rõ lý do.
+
+Sự cố này không chỉ ảnh hưởng đến ứng dụng Facebook mà còn lan sang Messenger và nền tảng web, gây ra sự bất tiện lớn và làm gián đoạn trải nghiệm người dùng. Không chỉ Việt Nam, sự cố này cũng diễn ra trên toàn cầu.
+
+Phản hồi về sự cố này, người phát ngôn của Meta cho biết: “Vào tối ngày 5/3, một sự cố kỹ thuật đã khiến mọi người gặp khó khăn khi truy cập một số nền tảng của chúng tôi. Chúng tôi đã giải quyết vấn đề nhanh nhất có thể và rất xin lỗi nếu quá trình này gây ra bất kỳ sự bất tiện nào”.
+
+Chia sẻ tại họp báo thường kỳ của Bộ Thông tin và Truyền thông tổ chức chiều ngày 6/3, ông Trần Quang Hưng, Phó Cục trưởng Cục An toàn thông tin, Bộ Thông tin và Truyền thông cho rằng Facebook gặp lỗi kỹ thuật khiến nhiều người dùng bị đăng xuất khỏi tài khoản, nhìn từ góc độ an toàn thông tin, đây là tín hiệu tích cực.
+
+
+
+
+
+Bởi phần lớn người dùng khi gặp tình trạng này đều có chung câu hỏi: có phải tài khoản Facebook của mình bị hack không và nếu bị hack thì làm thế nào?
+
+Ông Hưng cũng nêu thực tế, hầu hết người dùng đều chưa hoặc ít dùng biện pháp xác thực hai bước (qua số điện thoại hoặc phương tiện khác) để bảo vệ tài khoản.
+
+Đó là lý do người dùng thường xuyên gặp phải tình trạng bị lừa đảo trực tuyến, bị mất tài khoản nếu bị lộ mật khẩu.
+
+Do đó, nếu tất cả người dùng Internet nói chung và mạng xã hội nói riêng đều có kỹ năng cơ bản, áp dụng biện pháp bảo mật cơ bản, có thể bảo vệ tài khoản trước nguy cơ bị tấn công, xâm nhập và đánh cắp.
+
+Qua sự cố sẽ có không ít người giật mình vì tưởng rằng bản thân là nạn nhân của một vụ tấn công mạng. “Đây là biện pháp tuyên truyền tốt nhất vì chỉ sau một đêm, hàng chục triệu người dùng Facebook Việt Nam cảm giác mình bị hack và tự có ý thức đổi mật khẩu, tạo xác thực hai bước”, ông Hưng nói.
+
+Ngay sau khi sự cố xảy ra, các chuyên gia an ninh mạng cảnh báo người dùng cũng cần hết sức cảnh giác trước các dịch vụ “ăn theo” lấy lại tài khoản Facebook, để lừa đảo tấn công người dùng. Tin tặc rất nhạy cảm với những sự kiện như vậy. Nếu không đề phòng, người dùng sẽ sập bẫy kẻ xấu và làm theo hướng dẫn không có căn cứ trên mạng, truy cập vào website lừa đảo, từ đó bị mất thông tin đăng nhập, mật khẩu. Khi không thể đăng nhập Facebook hay một mạng xã hội bất kỳ, người dùng nên bình tĩnh và hỏi thêm bạn bè, chờ đợi nhà cung cấp dịch vụ đưa ra thông báo, giải quyết sự cố.
+
+
+
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty CP Công nghệ An ninh mạng Quốc gia NCS.
+
+Cũng theo chuyên gia này, sự cố mạng Facebook bị sập toàn cầu vừa qua cho thấy, người dùng đang bị phụ thuộc rất nhiều vào các nền tảng mạng xã hội như Facebook, TikTok…
+
+Trước đó, chia sẻ với báo chí về sự ảnh hưởng, tác động từ vấn đề này, ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS) nhấn mạnh, sự cố facebook cho thấy sự phụ thuộc quá lớn vào nền tảng nước ngoài. Khi xảy ra sự cố thì quyền lợi của người dùng sẽ bị ảnh hưởng và sẽ không được bảo vệ như nếu dùng các dịch vụ do công ty trong nước cung cấp.
+
+“Với một số người dùng chỉ sử dụng mạng xã hội với mục đích chia sẻ thông tin thì mức độ ảnh hưởng có thể ít, nhưng với những tổ chức, cá nhân sử dụng mạng xã hội để kinh doanh thương mại điện tử thì các sự cố như vậy sẽ ảnh hưởng tương đối nghiêm trọng”, ông Sơn nêu.
+
+Thực tế một số đơn vị đang cung cấp dịch vụ Digital Marketing khi trao đổi với báo chí cho biết bị ảnh hưởng, khi Facebook sập sẽ tác động tới các kênh quảng bá, hệ thống fanpage có hàng chục triệu người dùng. Chưa kể, tài khoản Facebook được dùng để liên kết với TikTok hay các nền tảng cho phép đăng nhập bằng tài khoản mạng xã hội này cũng sẽ bị ảnh hưởng…
+
+Theo số liệu của Sở Thông tin và Truyền thông Tp.Hồ Chí Minh, Việt Nam có hơn 70 triệu người dùng Facebook.
+
+Mạng xã hội này không chỉ là môi trường cho người dùng giao lưu giải trí, chia sẻ thông tin mà còn là nền tảng để các doanh nghiệp kinh doanh thương mại điện tử, marketing...
+
+Theo nghiên cứu mới đây, có tới 45% người tiêu dùng thường xuyên mua sắm trên các nền tảng thương mại điện tử sau khi xem thông tin trên Facebook/Instagram, và 20% người tiêu dùng mua hàng trực tiếp trên Facebook.

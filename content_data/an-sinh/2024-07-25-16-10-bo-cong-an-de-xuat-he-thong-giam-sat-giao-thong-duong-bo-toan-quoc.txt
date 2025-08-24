@@ -1,0 +1,41 @@
+Theo dự thảo, hệ thống giám sát giao thông được xây dựng, kết nối, đồng bộ, chia sẻ dữ liệu, quản lý và vận hành tại cấp Trung ương và cấp tỉnh theo mô hình:
+
+Trung tâm giám sát cấp 1 có chức năng:
+
+- Tiếp nhận, quan sát hình ảnh về tình hình an ninh, trật tự, an toàn giao thông đuờng bộ trên phạm vi toàn quốc; tiếp nhận và lưu trữ các thông tin thu thập, dữ liệu chuyển đến từ các Trung tâm giám sát cấp 2;
+
+- Kết nối với các cơ sở dữ liệu khác sẵn có trong Công an nhân dân và các cơ sở dữ liệu do các cơ quan, tổ chức khác ngoài ngành Công an quản lý để khai thác, bổ sung các thông tin cần thiết cho các thông tin thu thập, xử lý do Trung tâm giám sát cấp 2 chuyển đến và chia sẻ dữ liệu cho Trung tâm giám sát cấp 2 để phát hiện, xử lý vi phạm.
+
+- Là đầu mối kết nối, chia sẻ dữ liệu thông tin vi phạm giữa các Trung tâm giám sát cấp 2 để phối hợp xử lý vi phạm đối với các trường hợp phương tiện vi phạm chưa được xử lý tại tuyến đường phát hiện vi phạm và đang di chuyển sang tuyến đường khác và truy vết xe liên quan đến an ninh trật tự.
+
+Trung tâm giám sát cấp 2 có chức năng: Tiếp nhận, lưu trữ tất cả hình ảnh về tình hình trật tự, an toàn giao thông đường bộ và các thông tin vi phạm từ các thiết bị giám sát lắp đặt trên tuyến đường thuộc phạm vi đơn vị quản lý; Truyền dữ liệu hình ảnh về tình hình trật tự, an toàn giao thông đường bộ; các thông tin vi phạm và dữ liệu các camera nhận dạng biển số về Trung tâm giám sát cấp 1, Trung tâm chỉ huy giao thông của Công an tỉnh, thành phố để quản lý, khai thác, sử dụng và chia sẻ dữ liệu;
+
+Trung tâm giám sát cấp 2 tiếp nhận thông tin chia sẻ từ Trung tâm giám sát cấp 1 để hiệu chỉnh, bổ sung các thông tin cần thiết đối với dữ liệu thông tin vi phạm của Trung tâm giám sát cấp 2, gửi cho lực lượng Cảnh sát giao thông để xử lý trực tiếp hoặc lập thông báo vi phạm gửi đến chủ phương tiện vi phạm;
+
+Trung tâm giám sát cấp 2 truyền dữ liệu hình ảnh, video, thông tin vi phạm đến các thiết bị hỗ trợ Hệ thống giám sát giao thông của lực lượng Cảnh sát giao thông trên tuyến theo thời gian thực;
+
+Trung tâm giám sát cấp 2 được kết nối, trao đổi dữ liệu với các cơ sở dữ liệu khác của địa phương đảm bảo theo đúng các quy định của pháp luật về an ninh, an toàn thông tin.
+
+Dự thảo đề xuất yêu cầu, tiêu chuẩn cán bộ làm nhiệm vụ quản lý, vận hành, khai thác và sử dụng hệ thống giám sát giao thông. Đó là nắm vững và thực hiện đúng các quy định của pháp luật về giao thông đường bộ, Thông tư này và quy định khác của pháp luật có liên quan.
+
+Thực hiện đúng, đầy đủ nhiệm vụ được phân công vận hành, quản lý, bảo trì và bảo vệ Hệ thống giám sát giao thông. Có trình độ Đại học Công an nhân dân hoặc tương đương trở lên (đối với cán bộ tốt nghiệp các trường ngoài ngành Công an phải thuộc chuyên ngành Viễn thông hoặc Công nghệ thông tin... và đã qua lớp bồi dưỡng nghiệp vụ Công an nhân dân); được tập huấn về công tác quản lý, vận hành, khai thác và sử dụng Hệ thống giám sát giao thông.
+
+Dự thảo đề xuất các hành vi bị nghiêm cấm làm sai lệch thông tin trên hệ thống giám sát giao thông.
+
+- Ngăn chặn việc trao đổi thông tin trên mạng, can thiệp, truy cập, gây nguy hại, xóa, thay đổi, sao chép và làm sai lệch thông tin trên hệ thống giám sát giao thông.
+
+- Gây ảnh hưởng, cản trở trái phép hoạt động bình thường của hệ thống thông tin hoặc khả năng truy cập hệ thống giám sát giao thông của người dùng.
+
+- Tấn công, vô hiệu hóa làm mất tác dụng của các biện pháp bảo đảm an toàn thông tin; tấn công chiếm quyền điều khiển, phá hoại hệ thống giám sát giao thông.
+
+- Phát tán thư rác, phần mềm độc hại, thiết lập hệ thống thông tin giả mạo, lừa đảo.
+
+- Tự ý thay đổi, gỡ bỏ biện pháp bảo đảm an toàn thông tin của hệ thống.
+
+- Chia sẻ tài khoản, mật khẩu; sử dụng tài khoản, mật khẩu của người khác để tiến hành các hoạt động nghiệp vụ khi chưa được ủy quyền bằng văn bản.
+
+- Kết nối, cài đặt thêm các phần mềm, thiết bị và hệ thống khác vào hệ thống giám sát giao thông khi chưa được đơn vị quản lý cho phép.
+
+- Sao chép dữ liệu của Hệ thống giám sát giao thông khi chưa được sự cho phép của cấp có thẩm quyền hoặc sử dụng, cung cấp thông tin, dữ liệu trái quy định.
+
+Các hành vi bị cấm khác theo quy định của pháp luật và của Bộ Công an.

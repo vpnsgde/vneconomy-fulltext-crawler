@@ -1,0 +1,19 @@
+Thời gian gần đây, một số trường hợp bệnh nhân được điều trị kịp thời nhờ chia sẻ thuốc cấp cứu, thuốc giải độc tại TP.HCM, như việc cứu sống 2 bệnh nhân bị Methemoglobin nặng tại Bệnh viện Trưng Vương nhờ sự chia sẻ thuốc Xanh methylen từ Bệnh viện Nhi Đồng. Tương tự, việc điều trị các bệnh nhân ngộ độc thực phẩm do độc tố của vi khuẩn Clostridium botulinum tại Bệnh viện Nhi Đồng 2 nhờ sự chia sẻ từ Bệnh viện Chợ Rẫy. Điều này cho thấy nhu cầu chia sẻ thông tin về thuốc cấp cứu để phục vụ công tác điều phối thuốc giữa các cơ sở y tế là hết sức cần thiết.
+
+Từ thực tế trên, Sở Y tế TP.HCM vừa triển khai ứng dụng tra cứu nhanh thuốc cấp cứu giữa các bệnh viện trên địa bàn. Ứng dụng tra cứu thuốc cấp cứu được xây dựng nhằm mục đích tạo ra một hệ thống thông tin liên kết giữa các bệnh viện đa khoa, chuyên khoa tại Thành phố.
+
+“Hệ thống này sẽ giúp theo dõi, cập nhật và giúp điều phối các loại thuốc cấp cứu. Từ đó, hỗ trợ các bệnh viện trong việc tiếp cận nhanh chóng các loại thuốc cần thiết khi đối mặt với các ca cấp cứu khẩn cấp”, Sở Y tế Thành phố cho biết.
+
+Theo đó, phần mềm gồm các chức năng chính như cập nhật thông tin tình hình tồn kho thuốc cấp cứu; tra cứu và tìm kiếm thuốc cấp cứu tại các cơ sở khám, chữa bệnh. Đồng thời, theo dõi, cảnh báo tình hình tồn kho thuốc cấp cứu tại các cơ sở khám, chữa bệnh để có các biện pháp can thiệp kịp thời.
+
+Bên cạnh đó, việc triển chia sẻ dữ liệu về tồn kho thuốc cấp cứu mang lại nhiều lợi ích quan trọng, đặc biệt trong các tình huống cấp cứu, cụ thể: Các bệnh viện có thể ngay lập tức tra cứu tình trạng tồn kho của các loại thuốc cấp cứu, đảm bảo khả năng điều trị kịp thời, cứu sống bệnh nhân trong những tình huống nguy cấp; các bác sĩ có thể đưa ra quyết định nhanh chóng dựa trên thông tin về tình trạng sẵn có của thuốc, đồng thời phối hợp với các bệnh viện khác trong trường hợp cần chuyển viện hoặc chia sẻ thuốc.
+
+Ngoài ra, hệ thống còn giúp tối ưu hóa quy trình quản lý và điều phối thuốc, đảm bảo chất lượng hoạt động cung ứng bệnh viện, từ đó nâng cao hiệu quả điều trị cho bệnh nhân.
+
+Theo Sở Y tế TP.HCM, để hệ thống hoạt động hiệu quả, cần có sự hợp tác chặt chẽ từ các bệnh viện. Các bệnh viện cần chủ động cập nhật tình trạng tồn kho, chia sẻ dữ liệu và phối hợp khi cần thiết để đảm bảo mọi ca cấp cứu đều nhận được sự hỗ trợ nhanh chóng và đầy đủ.
+
+Trước mắt, từ tháng 9/2024, Sở Y tế Thành phố sẽ thực hiện cập nhật dữ liệu tồn kho thuốc cấp cứu hiện có của một số bệnh viện đa khoa thành phố, bệnh viện chuyên khoa tuyến cuối của Thành phố (sản, nhi, nhiễm, huyết học…).
+
+Thời gian tiếp theo, Sở sẽ tiếp tục mở rộng sự tham gia chia sẻ dữ liệu, sử dụng phần mềm với các bệnh viện bộ, ngành và các bệnh viện tư nhân trên địa bàn.
+
+Bên cạnh việc triển khai phần mềm tra cứu thuốc cấp cứu, trong khi chờ Bộ Y tế triển khai mô hình các kho dự trữ thuốc quý hiếm, cấp cứu, Sở Y tế Thành phố sẽ đề xuất Ủy ban Nhân dân Thành phố cho phép xây dựng và dự phòng một số loại thuốc cấp cứu thuộc danh mục thuốc hiếm. Mục tiêu là đảm bảo khả năng ứng phó kịp thời với các tình huống cấp cứu khẩn cấp trên địa bàn, góp phần nâng cao chất lượng chăm sóc sức khỏe cho người dân.

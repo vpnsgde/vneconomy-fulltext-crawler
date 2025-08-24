@@ -1,0 +1,9 @@
+Ủy ban Chứng khoán Nhà nước (UBCKNN) vừa có công văn số 1109/UBCK-PTTT hướng dẫn một số nội dung liên quan tới việc chuyển giao dịch cổ phiếu niêm yết từ Sở Giao dịch chứng khoán Tp.HCM (HOSE) sang Sở Giao dịch chứng khoán Hà Nội (HNX) nhằm giảm bớt áp lực cho hệ thống HSX.
+
+Cụ thể, đối với các cổ phiếu chuyển giao dịch, giá tham chiếu cho ngày giao dịch đầu tiên tại HNX là mức giá đóng cửa tại HOSE trong ngày giao dịch cuối cùng và bước giá sẽ được làm tròn lên 100 đồng gần nhất.
+
+Về biên độ dao động giá cho ngày giao dịch đầu tiên được áp dụng như đối với các cổ phiếu đang niêm yết tại HNX là ±10% (khác với cổ phiếu niêm yết mới tại HNX có biên độ dao động giá ngày giao dịch đầu tiên là ± 30%).
+
+Về cơ chế chuyển ngược lại các cổ phiếu từ HNX về HOSE, UBCKNN sẽ có văn bản về việc chấm dứt cơ chế chuyển giao dịch cổ phiếu niêm yết từ HOSE sang HNX khi chuẩn bị xong giải pháp công nghệ giải quyết hiện tượng nghẽn lệnh tại hệ thống giao dịch của HOSE. Khi đó, các đơn vị sẽ phối hợp thực hiện chuyển ngược lại các cổ phiếu về HOSE khi có hướng dẫn của UBCKNN.
+
+Đến nay, đã có 4 mã cổ phiếu là BBC, SSC, ABT và VFG đã được giao dịch tại HNX theo hình chuyển giao dịch từ HOSE sang HNX theo hướng dẫn của UBCKNN và trong đầu tuần sau sẽ có thêm 2 mã cổ phiếu nữa là VND và NSC tiếp tục được giao dịch trên HNX theo hình thức này.

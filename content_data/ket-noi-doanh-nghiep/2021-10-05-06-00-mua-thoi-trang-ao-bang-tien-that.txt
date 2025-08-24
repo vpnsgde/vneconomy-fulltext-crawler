@@ -1,0 +1,31 @@
+Các vật phẩm NFT (Non-Fungible Token) đang tạo nên cơn sốt trong giới sưu tầm toàn cầu. Về cơ bản, NFT là một chứng chỉ xác thực kỹ thuật số không thể sao chép, được lưu trữ trên blockchain và dùng để đại diện cho quyền sở hữu các loại hàng hóa điện tử. Hồ sơ quyền sở hữu NFT luôn có sẵn, không thể sửa đổi và đảm bảo rằng chỉ có một người sở hữu một loại vật phẩm NFT nhất định tại một thời điểm.
+
+NFT giúp chuyển đổi hàng may mặc kỹ thuật số từ một hình thức tiếp thị phức tạp thành một vật phẩm có thể giao dịch. Bằng cách ghi lại quyền sở hữu trên blockchain, chúng đảm bảo quyền sở hữu, tính xác thực và tính khan hiếm cho chủ nhân vật phẩm. Nhiều thương hiệu thời trang sang trọng như Louis Vuitton, Burberry và Gucci đã nhanh chóng nắm bắt xu hướng này và tung ra các sản phẩm trò chơi cho phép người dùng có thể thu thập NFT hoặc tạo ra các phụ kiện NFT.
+
+Trong bài phỏng vấn với tạp chí Vogue Business mới đây, đại diện Gucci tuyên bố: "Việc các nhà mốt lớn tham gia xu hướng NFT chỉ là vấn đề thời gian". Hãng thời trang xa xỉ nước Ý gần đây đã bán thành công phiên bản kỹ thuật số của chiếc túi Dionysus trên nền tảng Roblox với giá 4.115 USD - cao hơn mức giá một chiếc túi thực (3.400 USD).
+
+"Mọi người ngày càng định giá hàng hóa ảo tương tự cách họ đánh giá hàng hóa trong thế giới thực. NFT có thể hoạt động như một "chị em song sinh kỹ thuật số" của quần áo ngoài đời thực, giúp chứng minh tính xác thực và xuất xứ sản phẩm. Vì vậy, nhiều thương hiệu như Louis Vuitton và Nike đang tích cực đầu tư vào công nghệ blockchain," ông John Egan, CEO L’Atelier BNP Paribas, chia sẻ.
+
+Bên cạnh các “ông lớn” xa xỉ, một vài thương hiệu nhỏ cũng đã tiến nhanh và xa trong lĩnh vực này. Hãng RTFKT được coi là công ty tiên phong trong xu hướng thời trang NFT khi bán thành công 600 đôi giày thể thao kỹ thuật số với giá 3,1 triệu USD chỉ sau 7 phút mở bán vào tháng 2/2021. RTFKT có cách tiếp cận khôn khéo khi tặng kèm cho người mua giày kỹ thuật số một đôi giày thật để mang, khiến những người sưu tầm không thể làm ngơ.
+
+Ngoài ra, công ty này còn hợp tác cùng Snapchat cho phép khách hàng "thử" giày ảo thông qua bộ lọc của ứng dụng. "Tôi tin vào một tương lai, nơi kỹ thuật số sẽ trở thành một phần quan trọng trong xã hội. Ở đó, bạn sẽ dạo phố và nhìn thấy mọi người mặc quần áo NFT trên người," Chris Le, đồng sáng lập RTFKT nhận định.
+
+
+
+Đối với những người khác, quần áo kỹ thuật số là một cơ hội kinh doanh mới. DressX - một trang web chủ yếu bán quần áo kỹ thuật số - hiện đã có 70 nhà thiết kế riêng; doanh số bán hàng tăng gấp đôi mỗi tháng kể từ tháng 10/2020. Còn trong các thế giới ảo như Decentraland, quần áo cho hình đại diện có thể được mua bán hàng ngày, với giá trị hơn 100 USD cho một giao dịch. Người ta thiết kế quần áo ảo, nhưng lại bán lấy tiền thật.
+
+Anh Hiroto Kai, một nghệ sĩ kỹ thuật số đã thiết kế nên các bộ Kimono có giá khoảng 140 USD, hơn 3 triệu đồng. Các sản phẩm được bán dưới dạng NFT, để hiện thân ảo của người dùng mặc trên trang web. "Các thương hiệu không chỉ đến gần hơn với khách hàng hiện tại mà còn tiếp cận với một nhóm khách hàng mới - những nhà đầu tư vốn không hâm mộ sản phẩm của các tập đoàn xa xỉ nhưng lại quan tâm đến công nghệ blockchain," tiến sĩ Angel Zhong, giảng viên cao cấp tại Đại học RMIT Melbourne, nhận xét.
+
+Ngày nay, các nhãn hiệu thời trang rất quan tâm tới việc quảng bá các chiến dịch “xanh”, tuy nhiên do việc sản xuất quần áo thường liên quan tới các chuỗi cung ứng toàn cầu phức tạp, họ không thể đảm bảo rằng các chất liệu thân thiện với môi trường sẽ luôn được sử dụng. Tập đoàn TextileGenesis (có trụ sở tại Hồng Kông và Ấn Độ) tin rằng việc sử dụng công nghệ hỗ trợ các loại tiền điện tử như bitcoin có thể giúp ích.
+
+Công ty này mong muốn ngành công nghiệp thời trang sẽ trở nên minh bạch hơn, bằng cách sử dụng blockchain để số hóa chuỗi cung ứng, giúp các thương hiệu theo dõi quá trình sản xuất từ nguyên liệu thô tới khi sản phẩm được hoàn thiện. Người sáng lập TextileGenesis, ông Amit Gautam cho biết sau khi hoàn tất việc ghi chép, các mã này sẽ không thể bị thay đổi.
+
+Từ nhu cầu của khách hàng Gen Z mê game online và áp lực chứng minh “thời trang xanh”, cuộc chơi blockchain đã thu hút sự chú ý lớn của làng mốt và của cả giới đầu tư siêu giàu. Các tập đoàn thời trang xa xỉ như Kering và LVMH đã công bố nhiều kế hoạch trong việc lấn sân sang thị trường NFT đầy tiềm năng.
+
+Liên minh các thương hiệu thời trang xa xỉ nhất thế giới hồi đầu năm đã cho họ đang tiến hành dự án Aura Blockchain để cung cấp giải pháp hỗ trợ công nghệ chuỗi khối cho tất cả các thương hiệu cao cấp, đảm bảo với khách hàng về tính xác thực và truy xuất nguồn gốc sản phẩm một cách minh bạch. “Niềm tin là chìa khóa duy nhất mà ngành công nghiệp chúng tôi hình thành và cũng là điều chúng tôi thực sự muốn gìn giữ,” Giám đốc điều hành LVMH, ông Antonio Belloni nói.
+
+Gần đây nhất, hãng thời trang xa xỉ Karl Lagerfeld đã cho ra mắt bộ sưu tập NFT dưới dạng các bức tượng nhỏ lấy cảm hứng từ hình ảnh đặc trưng của nhà thiết kế quá cố. Đối với phiên bản đầu tiên của NFT, tổng cộng 777 bức tượng kỹ thuật số sẽ có sẵn với chi phí 77 euro (65,75 bảng Anh). Marjorie Hernandez, đồng sáng lập của The Dematerialized nhận định: “Công nghệ chuỗi khối đã mở ra cánh cửa cho các hình thức tiêu dùng và sản xuất mới, và sự hợp tác này là một cột mốc to lớn cho ngành công nghiệp thời trang bước vào thế giới phi vật chất hóa”.
+
+Vậy là, thay vì lướt các trang thương mại điện tử, bạn có thể trải nghiệm những thương hiệu thời trang nổi tiếng thông qua việc khám phá không gian bán hàng ảo của họ. Bất kể bạn chọn trang phục ảo cho nhân vật đại diện của mình hay là những bộ đồ thật để mặc đi làm hàng ngày, đều có thể được vận chuyển đến tận cửa nhà.
+
+Mặc dù công nghệ mới được kích hoạt bởi blockchain, nhưng không chấp nhận thanh toán hàng hóa bằng tiền điện tử. Microsoft và ConsenSys là đơn vị giúp các tập đoàn thời trang xa xỉ phát triển cơ sở hạ tầng công nghệ cho giải pháp này. Mua những món hàng thời trang ảo, nhưng bạn vẫn phải thanh toán bằng tiền thật.

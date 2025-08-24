@@ -1,0 +1,31 @@
+Theo hãng CNN, ngành vận chuyển du lịch đã trải qua một chặng đường dài và sẽ tiếp tục biến đổi trong những năm tới. Không sớm thì muộn, khả năng ngành du lịch có thể sử dụng taxi bay để dạo quanh Singapore hoặc khách du lịch đến San Francisco (California, Mỹ) sẽ "bắt" những chiếc xe taxi "ma thuật" tự động chạy khắp thành phố với chỗ lái trống không.
+
+CHƯƠNG TRÌNH THÍ ĐIỂM TẠI MỸ
+
+Sự tiện lợi của những chiếc taxi không người lái đã thu hút nhiều du khách cũng như người dân địa phương quan tâm sử dụng tại Mỹ những ngày này. Cùng với dịch vụ taxi không người lái, thành phố San Francisco cũng đã ra mắt dịch vụ xe buýt không người lái miễn phí.
+
+Xe hoạt động hằng ngày trên tuyến cố định mang tên Vòng quanh đảo Treasure, nơi từng là căn cứ hải quân của Mỹ trên vịnh San Francisco. Xe buýt chạy hoàn toàn bằng điện, không có ghế lái hay vô lăng, nhưng có 1 nhân viên có thể lái ô tô bằng bộ điều khiển cầm tay nếu cần. Xe có thể chở tối đa 10 hành khách, hoạt động từ 9h đến 18h hằng ngày.
+
+Việc đưa vào sử dụng dịch vụ xe buýt không người lái này là một phần của chương trình thí điểm được tài trợ, nhằm đánh giá khả năng các phương tiện tự lái có phù hợp để bổ sung cho hệ thống giao thông cộng hay không. California đã chính thức cấp phép cho hãng Waymo, một công ty con của tập đoàn Alphabet và hãng Cruise của tập đoàn GM, được vận hành các xe taxi không người lái, thu phí hành khách như các xe taxi truyền thống. Các hãng này cộng với Zoox của tập đoàn Amazon đang có kế hoạch mở rộng đội xe hoàn toàn tự động ra khắp nước Mỹ, trước tiên tại Austin, Texas, Los Angeles, Miami và thành phố New York.
+
+Công ty nghiên cứu thị trường Research&Market dự đoán rằng thị trường xe không người lái toàn cầu sẽ đạt 2,16 nghìn tỷ USD vào năm 2030, với tốc độ tăng trưởng trung bình hàng năm là 40,1%. Các phóng viên của tờ New York Times mới đây đã thử gọi xe taxi không người lái để trải nghiệm và có bài tường thuật chi tiết.
+
+Theo đó, cách gọi xe thông qua ứng dụng trên điện thoại di động cũng giống như gọi Uber hay Grab. Khách nhập địa chỉ muốn đến và ứng dụng sẽ đưa ra thời gian chờ xe ước tính. Nếu khách đồng ý, Waymo sẽ điều một xe trong đội xe gồm 250 chiếc Jaguar, mỗi chiếc trị giá khoảng 200.000 đô la Mỹ đến đón. Chờ khoảng 10 phút, khi xe đến, khách không thể thò tay mở cửa xe như bình thường được; họ phải bấm nút “Mở khóa” trên ứng dụng để bảo đảm đón đúng người.
+
+Ngoài cảm giác lạ lẫm ban đầu khi vào chiếc xe không có tài xế, vô lăng tự quay như có người vô hình đang điều khiển, các phóng viên cho biết việc đi xe cũng bình thường như khi đi xe taxi truyền thống. Xe biết nhường đường cho người đi bộ băng qua đường, biết tránh qua một bên cho xe ưu tiên, không bao giờ chạy quá tốc độ tối đa cho phép, bật đèn xi nhan sớm khi chuyển làn...
+
+Ở Mỹ và hầu hết các quốc gia khác, xe tự lái đang được các công ty công nghệ phát triển, chứ không phải từ các nhà sản xuất xe hơi. Họ lấy một số mẫu xe tiêu chuẩn trên thị trường tiêu dùng đại chúng, và sau đó lắp đặt các thiết bị cần thiết như thiết bị đo khoảng cách bằng ánh sáng, cảm biến, phần mềm - để đạt được khả năng tự hoạt động ở một mức độ nào đó.
+
+TƯƠNG LAI ĐẦY HỨA HẸN Ở CHÂU Á
+
+Ở châu Á, taxi không người lái được thử nghiệm từ rất sớm trên đường phố Singapore từ gần 8 năm trước. Dự án liên kết nghiên cứu về công nghệ hiện đại phục vụ cho di chuyển thông minh của chính phủ Singapore và Viện Công nghệ Massachusetts đã vượt qua vòng lái thử nghiệm tại Singapore mà không gây ra bất kỳ tai nạn nào. Xe có thể tự chọn quãng đường đi tốt nhất để tránh kẹt xe và làm hài lòng hành khách.
+
+Trung Quốc cũng đã chính thức cấp phép cho loại hình giao thông đặc biệt này từ năm ngoái. Hồi tháng 8/2022, dịch vụ robot taxi đã được cung cấp tại 10 thành phố của Trung Quốc bao gồm Bắc Kinh, Thượng Hải, Quảng Châu và Thâm Quyến, Quảng Đông và đã đạt 1 triệu lượt gọi xe. Cho đến nay, hành khách chưa gặp bất cứ rắc rối nào với hệ thống này. Đến nay, những chiếc taxi hoàn toàn không có người lái đã di chuyển trên các tuyến đường ở Trùng Khánh và Vũ Hán, đánh dấu bước ngoặt quan trọng cho tương lai ngành ô tô tự lái của Trung Quốc.
+
+“Chúng tôi tin việc cấp giấy phép là một cột mốc quan trọng khi ngành công nghiệp này cuối cùng có thể triển khai các dịch vụ lái xe hoàn toàn tự động trên quy mô lớn”, Wei Dong, Giám đốc điều hành an toàn nhóm lái xe thông minh của Baidu, nói. Công nghệ luôn được củng cố nhờ những dữ liệu được thu thập thông qua hoạt động thực của phương tiện trên đường phố công cộng. Tần suất phục vụ của một xe taxi tự lái tương đương taxi truyền thống, ở mức 29 - 30 chuyến/ngày. Biểu phí tương tự dịch vụ cao cấp khoảng 58 nhân dân tệ - khoảng 202.000 đồng cho một chuyến đi 10 km.
+
+Công ty tư vấn quản lý toàn cầu McKinsey dự đoán rằng đến năm 2030, Trung Quốc sẽ trở thành thị trường ô tô không người lái lớn nhất thế giới, với doanh số bán ô tô mới và các dịch vụ di chuyển dự kiến vượt 500 tỷ USD, uớc tính lợi nhuận từ dịch vụ xe tự lái có thể lên đến 1,1 nghìn tỷ USD đến năm 2040.
+
+Ngoài Baidu, còn có một công ty khởi nghiệp khác là Pony.ai (đang được hãng xe Tokyo đầu tư, ước tính định giá khoảng 8,5 tỷ USD), cũng đang tham gia đặt những nền móng đầu tiên cho ngành taxi tự lái tại Trung Quốc và cùng được phép vận hành thử nghiệm tại Bắc Kinh. AutoX, do Alibaba hậu thuẫn, cũng đang cung cấp dịch vụ robotaxi ở khu vực rộng 168 km2 ở quận Bình Sơn, Thâm Quyến, với các phương tiện sử dụng công nghệ lái xe tự động thế hệ thứ năm.
+
+Trên đường đua phát triển taxi tự lái, Trung Quốc bắt đầu có quy định quản lý thử nghiệm xe tự lái muộn hơn Mỹ khoảng 2 năm và vẫn thận trọng trong quá trình cấp phép thử nghiệm trên đường phố. Tuy nhiên, hãng tin Nikkei Asia cũng chỉ ra một số điểm mạnh có thể giúp Trung Quốc vượt Mỹ trên đường đua xe tự lái như: trong khi ở Mỹ, mỗi bang lại có quy định khác nhau thì Trung Quốc có sự thống nhất về quy định, thậm chí có tầm nhìn quốc gia về việc đưa dịch vụ xe tự lái cấp độ cao vào phục vụ thương mại tính đến năm 2025. Đồng nghĩa đến thời điểm đó, Bắc Kinh có thể đã chuẩn bị đầy đủ các quy định liên quan cho phép taxi tự lái hoạt động.

@@ -1,0 +1,29 @@
+Tờ South China Morning Post trích một số nguồn tin am hiểu, trong thời gian tới, các doanh nghiệp vận hành trung tâm dữ liệu thuộc sở hữu Nhà nước của Trung Quốc sẽ phải đảm bảo ít nhất một nửa số chip sử dụng đến từ các nhà sản xuất trong nước.
+
+Trang tin công nghệ của Mỹ, Tom's Hardwaer đánh giá chính sách mới của Trung Quốc không chỉ mang ý nghĩa bảo đảm nguồn cung linh kiện chiến lược, mà còn là lời đáp trả trực tiếp trước các rào cản thương mại từ Mỹ.
+
+Thực tế, chính sách này được mở rộng từ quy định của Thượng Hải công bố từ tháng 3/2024 (tỷ lệ sử dụng máy tính và chip lưu trữ tại các trung tâm dữ liệu của Thượng Hải phải đạt trên 50% từ các nguồn nội địa vào năm 2025).
+
+Nếu triển khai đồng loạt trên quy mô toàn quốc, quy định này sẽ ảnh hưởng sâu rộng tới thị trường chip của Trung Quốc, dòng vốn đầu tư và cả “quan hệ” chip giữa Mỹ và Trung Quốc như hiện nay.
+
+Những năm vừa qua, các tập đoàn công nghệ Mỹ như Nvidia và AMD dù liên tục gặp trở ngại khi bán chip tiên tiến cho Trung Quốc do các lệnh cấm xuất khẩu của chính phủ Mỹ, song họ chưa bao giờ có ý định từ bỏ thị trường này.
+
+Thế nên, hàng loạt phiên bản “hạ cấp” của các GPU mới nhất liên tục được các ông lớn bán dẫn của Mỹ tung ra. Thậm chí mới đây, các hãng chip đã chấp nhận chia 15% doanh thu từ Trung Quốc như điều kiện để được cấp phép xuất khẩu các dòng chip tiên tiến, bao gồm H20 của Nvidia hay MI308 của AMD sang Trung Quốc.
+
+Nhưng trước rủi ro từ thương chiến và nghi ngại về nguy cơ “cài cắm phần cứng giám sát” trong chip nhập khẩu, nhất là dòng GPU H20 của Nvidia, nhiều nguồn tin cho hay, Trung Quốc đang gia tăng sức ép buộc doanh nghiệp phải lựa chọn chip nội.
+
+Tuy nhiên, theo một số chuyên gia, chính sách “nội địa hóa” chip có thể khiến tốc độ đổi mới AI của Trung Quốc bị kìm hãm. Dù chip nội địa hiện đủ mạnh để xử lý tác vụ suy luận AI, vận hành các mô hình đã được đào tạo, nhưng vẫn tụt lại nhiều năm so với GPU Nvidia và AMD trong khả năng huấn luyện.
+
+Việc bị hạn chế tiếp cận công nghệ mới nhất sẽ ảnh hưởng trực tiếp đến sức cạnh tranh của các công ty AI Trung Quốc. Chẳng hạn như mô hình DeepSeek R2 từng được báo cáo gặp trục trặc khi phải đào tạo trên chip Huawei thay vì phần cứng Nvidia.
+
+Một vấn đề khác là hệ sinh thái phần mềm. GPU Nvidia được hỗ trợ bởi nền tảng CUDA gần như thống trị toàn cầu, trong khi chip nội địa Trung Quốc chưa có được hệ sinh thái tương thích mạnh mẽ tương tự.
+
+Điều này đặt ra câu hỏi về khả năng vận hành đồng bộ với các bộ xử lý Mỹ hiện hữu, cũng như mức độ sẵn sàng của Trung Quốc trong việc thay thế hoàn toàn công nghệ ngoại nhập.
+
+Thế nhưng, Trung Quốc cũng đang thực sự chuẩn bị cho một hệ sinh thái AI hoàn chỉnh.
+
+Theo tờ Nhật báo Trung Hoa, tháng 7 vừa qua, StepFun, một công ty AI đặt trụ sở tại Thượng Hải, đã thành lập “Liên minh đổi mới hệ sinh thái sức mạnh tổng hợp chip - mô hình”, quy tụ gần 10 doanh nghiệp hàng đầu trong lĩnh vực hạ tầng và chip AI trong nước, gồm Huawei, Moore Threads, Beijing Biren Technology Development và Cambricon Technology.
+
+Mục tiêu của liên minh rất rõ ràng, đó là phối hợp tối ưu hóa các mô hình ngôn ngữ lớn để chạy hiệu quả trên chip AI do Trung Quốc sản xuất.
+
+StepFun kỳ vọng tạo ra một “vòng tuần hoàn tích cực”  khi nhiều tác vụ AI được chuyển sang chạy trên chip nội địa, quy mô sản xuất sẽ tăng, giúp giảm chi phí, cải thiện hiệu suất và hoàn thiện hệ sinh thái, từ đó khiến giải pháp trong nước ngày càng cạnh tranh và hấp dẫn hơn.

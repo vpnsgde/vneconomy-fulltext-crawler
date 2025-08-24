@@ -1,0 +1,27 @@
+Ngày 22/7, tại TP. Đà Nẵng, sự kiện Google I/O Extended MienTrung 2023 đã chính thức diễn ra, mang đến nhiều cập nhật, các chương trình học tập quan trọng của Google trong mảng Google Play, Cloud, Web, AI… đến gần hơn với cộng đồng lập trình viên tại địa phương, được trình bày bởi các diễn giả là đại diện từ cộng đồng Google Developer Group thuộc hệ sinh thái của Google. Sự kiện do nhóm cộng đồng GDG MienTrung tổ chức cùng sự đồng hành của nhà tài trợ Đồng KMS Technology Vietnam và Nhà tài trợ Đồng Paradox Vietnam…
+
+Google I/O Extended MienTrung 2023 được thiết kế với 2 phòng hội nghị, 10 phiên chia sẻ và 12 diễn giả nổi tiếng trong và ngoài nước.
+
+Google I/O Extended MienTrung 2023 được xây dựng với mục tiêu là một ngày hội công nghệ mang đến nhiều cập nhật công nghệ nổi bật, các chương trình học tập - nâng cao kỹ năng từ Google cho cộng đồng lập trình viên và sinh viên công nghệ thông tin tại địa phương.
+
+Bà Nguyễn Thị Tuyết Nhi, đồng quản lý Nhóm cộng đồng GDG MienTrung, Trưởng Ban tổ chức, cho biết Chương trình năm nay lấy cầu Sông Hàn - cây cầu xoay biểu tượng của Đà Nẵng làm hình ảnh chính của sự kiện, mang đến tinh thần “Spin2Win”, cập nhật kiến thức, kết nối cơ hội và tạo động lực thay đổi, vươn mình cho cộng đồng công nghệ tại địa phương, nhằm thích ứng với những nhu cầu, chuyển biến liên tục của ngành công nghệ.
+
+“Tinh thần “Spin2Win” cũng được thể hiện qua việc chọn lựa các diễn giả tham dự chương trình. Tuy mỗi diễn giả đều có một chủ đề chia sẻ khác nhau, nhưng tựu trung lại, họ đều là những người liên tục học tập, thay đổi bản thân và sử dụng công nghệ để mang lại những ảnh hưởng tích cực đến cộng đồng.
+
+Nội dung chương trình năm nay tập trung xoay quanh các công nghệ đang được quan tâm như Google Play, Cloud, Web, AI… cũng như mang đến cơ hội học tập - nâng cao kỹ năng đến từ Google. Bên cạnh đó, chương trình cũng mong muốn phần nào đưa ra định hướng phát triển kỹ năng phù hợp cho các lập trình viên trong thời đại bùng nổ của Trí tuệ Nhân tạo (AI).”, bà Tuyết Nhi thông tin thêm.
+
+Phát biểu tại sự kiện, bà Lê Thị Thục, Phó Giám đốc Sở Khoa hoạc & Công nghệ TP. Đà Nẵng mong rằng Sự kiện Google I/O Extended MienTrung 2023 sẽ là cơ hội để cộng đồng công nghệ tìm hiểu các xu hướng công nghệ dẫn đầu, trải nghiệm các chủ đề kỹ thuật đa dạng cập nhật mới trong các lĩnh vực về trí tuệ nhân tạo, thực tế ảo, phát triển ứng dụng di động và web, dữ liệu lớn, điện toán đám mây và những công nghệ mới, xu hướng nổi bật hiện nay. Đồng thời, chương trình cũng sẽ tạo sân chơi cho các bạn trẻ ngành CNTT để luyện tập "pitching", lan tỏa thông tin về các dự án/ sản phẩm công nghệ bản thân đã xây dựng đến cộng đồng người tham dự tại sự kiện.
+
+Bà Thục cũng cho biết thêm: Sở Khoa học và Công nghệ - Cơ quan thường trực Hội đồng Điều phối mạng lưới khởi nghiệp đổi mới sáng tạo thành phố Đà Nẵng, luôn đồng hành hỗ trợ các sự kiện, cuộc thi và triển lãm các dự án khởi nghiệp đổi mới sáng tạo thông qua các chương trình, cơ chế, chính sách hiện hành của thành phố như: tổ chức sự kiện ngày hội khởi nghiệp đổi mới sáng tạo (KNĐMST) và Cuộc thi KNĐMST hàng năm, hỗ trợ tham gia Triển lãm KNĐMST thực tế ảo; hỗ trợ các chương trình ươm tạo tại các Vườn ươm, các doanh nghiệp KNĐMST phát triển sản phẩm, hoàn thiện công nghệ thông qua các dự án KNĐMST; hỗ trợ phát triển tài sản trí tuệ, hỗ trợ doanh nghiệp đổi mới công nghệ và tham gia các sự kiện, kết nối trong nước và quốc tế về khởi nghiệp đổi mới sáng tạo, …
+
+Chia sẻ về các hoạt động của nhóm cộng đồng GDG MienTrung, bà Nguyễn Thị Phương Nhi, nhà Quản lý Cộng đồng lập trình viên của Google tại Việt Nam và khu vực Mekong, cho biết, GDG MienTrung là một trong những chapter luôn có nhiều hoạt động nổi bật với quy mô lớn trong khu vực, mang lại nhiều cơ hội học tập và kết nối cho cộng đồng công nghệ tại địa phương.
+
+“Năm 2022, Google I/O Extended MienTrung đã được chọn để tham gia chia sẻ các hoạt động về cộng đồng địa phương tại Hội nghị cộng đồng các Google Developer Group Leaders khu vực Đông Nam Á diễn ra tại Bali, Indonesia”, bà Phương Nhi cho biết thêm.
+
+Bên cạnh các phiên hội thảo, sự kiện còn quy tụ nhiều gian hàng - triển lãm đến từ các tập đoàn nổi tiếng trên thế giới, cũng như các startup công nghệ nổi bật, gây được nhiều tiếng vang trong cộng đồng lập trình viên tại địa phương.
+
+Nhằm đáp ứng nhu cầu cập nhật kiến thức từ người tham dự, ngoài các chủ đề liên quan đến công nghệ của Google, Chương trình còn khai thác những nội dung, lĩnh vực khác liên quan, như: Nhận thức an ninh mạng trong thời kỳ chuyển đổi số, Tư duy thiết kế sản phẩm công nghệ hay Chủ nghĩa Agile trong quy trình phát triển phần mềm.
+
+Cũng trong khuôn khổ Google I/O Extended MienTrung 2023, các tài năng trẻ trong lĩnh vực công nghệ thông tin cũng có cơ hội được tỏa sáng với chuyên mục Talent Talk - gồm các bài thuyết trình về dự án công nghệ tiềm năng đã từng gọi vốn thành công và đạt nhiều giải thưởng tại các cuộc thi trong nước và quốc tế.
+
+Là lần thứ 7 tổ chức sự kiện này, Google I/O Extended MienTrung đã và đang nỗ lực trở thành diễn đàn cập nhật các kiến thức công nghệ, đồng thời kết nối các doanh nghiệp công nghệ thông tin tại địa phương. Từ đó, GDG MienTrung mong muốn phần nào đóng góp vào việc nâng cao chất lượng nguồn nhân lực, cũng như lan toả động lực phát triển cho cộng đồng công nghệ tại TP. Đà Nẵng nói riêng và khu vực miền Trung nói chung.

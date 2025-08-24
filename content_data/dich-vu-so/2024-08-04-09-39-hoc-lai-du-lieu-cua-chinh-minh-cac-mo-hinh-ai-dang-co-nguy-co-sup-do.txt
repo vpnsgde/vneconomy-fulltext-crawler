@@ -1,0 +1,31 @@
+Lâu dài, điều này có thể dẫn đến suy giảm hiệu suất của mô hình, cuối cùng dẫn đến việc tạo ra nội dung vô nghĩa, hiện tượng này được gọi là "Mô hình sụp đổ"...
+
+Các nhà nghiên cứu từ Đại học Cambridge và Đại học Oxford đã tiến hành nghiên cứu chứng minh các thế hệ mô hình AI tiếp theo nếu được đào tạo trên dữ liệu tổng hợp từ AI sẽ tạo ra kết quả vô nghĩa.
+
+Phương pháp nghiên cứu là đào tạo lặp lại nội dung của mô hình, kết quả là thông tin do AI tạo ra “làm ô nhiễm” bộ dữ liệu đào tạo, đầu ra của mô hình ngày càng trở nên không mạch lạc. Đến lần lặp thứ chín, mô hình đã tạo ra những từ vô nghĩa, chẳng hạn như đưa một chuyên luận về đuôi thỏ vào một bài viết về tháp nhà thờ Anh.
+
+Những phát hiện của nghiên cứu đã tạo ra làn sóng lan tỏa trong cộng đồng AI. Julia Kempe, một nhà khoa học máy tính tại Đại học New York, mô tả đây là "một bài báo tuyệt vời" và "lời kêu gọi hành động" để các nhà nghiên cứu tìm ra giải pháp cho vấn đề.
+
+Sự sụp đổ xảy ra vì mỗi lần lặp lại mô hình chỉ lấy mẫu từ dữ liệu đào tạo của nó, khuếch đại lỗi và sai lệch qua mỗi thế hệ. Các từ thông dụng trở nên phổ biến hơn, trong khi các thuật ngữ hiếm hơn ngày càng bị bỏ qua.
+
+Hany Farid, một nhà khoa học máy tính tại Đại học California, ví hiện tượng này giống như cận huyết di truyền: "Nếu một loài cận huyết với con cháu của chính mình và không đa dạng hóa nhóm gen của chúng, điều đó có thể dẫn đến sự sụp đổ của loài".
+
+Mô hình sụp đổ về cơ bản được xác định bởi hai giai đoạn. Giai đoạn đầu tiên, một mô hình học hỏi dữ liệu từ một mô hình khác, vì vậy nếu mô hình ban đầu không hiểu đầy đủ các khía cạnh nội dung, đương nhiên chất lượng của mô hình tiếp theo cũng sẽ giảm đi do được đào tạo trên các đầu ra của mô hình trước đó.
+
+Giai đoạn thứ hai là các mô hình sau sụp đổ. Đây là lúc các mô hình AI không còn hữu ích nữa do các mô hình trước đó đưa các lỗi của riêng chúng vào dữ liệu. Các lỗi có trong dữ liệu ban đầu được chuyển sang mô hình tiếp theo, mô hình này cũng thêm tập hợp lỗi của riêng mình và chuyển tiếp. Khi dữ liệu liên tục được tạo ra và tái chế, các mô hình bắt đầu hiểu sai thực tế và tạo ra nhiều lỗi hơn.
+
+“Nếu có một số lỗi bên trong dữ liệu do mô hình một tạo ra, về cơ bản chúng sẽ lan truyền sang mô hình tiếp theo. Và cuối cùng, điều này dẫn đến việc mô hình về cơ bản nhận thức sai thực tế”, nhà nghiên cứu của thí nghiệm cho biết.
+
+Thí nghiệm chỉ ra mô hình có thể mắc phải ba lỗi phổ biến: lỗi kiến ​​trúc, lỗi quy trình học và lỗi thống kê. Lỗi kiến ​​trúc xảy ra khi cấu trúc của mô hình AI không phù hợp để nắm bắt tất cả các yếu tố phức tạp trong dữ liệu mà nó được cung cấp, dẫn đến sự không chính xác vì một số phần bị mô hình hiểu sai hoặc đơn giản hóa quá mức.
+
+Còn lỗi quy trình học xảy ra khi các phương pháp được sử dụng để đào tạo các mô hình có thành kiến ​​cố hữu, khiến mô hình mắc một số loại lỗi nhất định.
+
+Cuối cùng, lỗi thống kê xuất hiện khi không có đủ dữ liệu để thể hiện chính xác những gì mô hình đang cố gắng học. Điều này có thể khiến mô hình tạo ra các dự đoán dựa trên thông tin không đầy đủ, dẫn đến lỗi.
+
+Các mô hình AI phụ thuộc rất nhiều vào chất lượng dữ liệu mà chúng được đào tạo.
+
+Tuy nhiên, khi chúng được đào tạo trên nội dung do AI tạo ra, dữ liệu này liên tục đưa lỗi vào hệ thống. Vì vậy, nghiên cứu cho rằng có khả năng các công ty sẽ phải dành thêm công sức để lọc dữ liệu. Và điều này có thể có nghĩa là quá trình nâng cấp các mô hình có thể chậm lại.
+
+"Chúng ta cần phải cực kỳ cẩn thận trong việc đảm bảo rằng các mô hình của mình công bằng và không bỏ sót dữ liệu thiểu số bên trong chúng", một nhà nghiên cứu cho biết.
+
+Để giải quyết vấn đề này, các tác giả của nghiên cứu đề xuất một số giải pháp tiềm năng. Bao gồm phát triển các phương pháp để đóng dấu nội dung do AI tạo ra, tạo động lực để con người tiếp tục tạo nội dung gốc và triển khai các quy trình lọc và quản lý chặt chẽ đối với dữ liệu đào tạo.

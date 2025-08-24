@@ -1,0 +1,27 @@
+Trong một chương trình mới đây của CNBC, ông Andy Jassy – CEO của hãng thương mại điện tử Amazon – đã chia sẻ quan điểm về tiền ảo và NFT (Non-fungible Token- Mã không thể thay thế).
+
+“Chúng tôi (Amazon) hiện chưa tiến tới việc sử dụng tiền ảo như một phương tiện thanh toán trong hoạt động bán lẻ của mình, nhưng tôi tin rằng theo thời gian, các bạn sẽ thấy tiền ảo trở nên lớn mạnh hơn. Đây là một thứ tuyệt vời", ông nói.
+
+Vị CEO cũng nhận định NFT sẽ sẽ tiếp tục phát triển rất mạnh, dù tiết lộ bản thân không sở hữu bất kỳ NFT và Bitcoin nào.
+
+Nói về việc Amazon bán NFT trên nền tảng của mình, ông Jassy nói rằng việc này “hoàn toàn có thể xảy ra”.
+
+Ông Jassy từng có nhiều năm điều hành mảng dịch vụ điện toán đám mây Amazon Web Services của Amazon trước khi được bổ nhiệm làm CEO thay cho Jeff Bezos – người sáng lập công ty – vào tháng 7/2021. Ông cũng là người đặt nền mỏng cho dịch vụ chuỗi khối Amazon Managed Blockchain của công ty này.
+
+NFT là một loại tài sản số sử dụng công nghệ blockchain (chuỗi khối) - tương tự như Bitcoin - để tạo ra một chuỗi mã độc nhất đại diện cho một vật phẩm nào đó và không thể thay thế. Các chuỗi mã này thường được dùng để định danh phiên bản số của các tác phẩm nghệ thuật, bài hát hay hiện tượng mạng.
+
+NFT được mua qua các cuộc đấu giá trực tuyến và được thanh toán bằng USD hoặc tiền ảo. NFT bất ngờ trở thành cơn sốt thời gian gần đây sau khi nhiều tác phẩm nghệ thuật số được bán với giá hàng triệu USD và giới nổi tiếng, lãnh đạo doanh nghiệp đua nhau tham gia vào thị trường.
+
+Tháng 3/2021, nhóm nhạc rock Kings of Leon phát hành album mới nhất dưới dạng các chuỗi mã NFT. Hay Mike Winkelmann, một nhà thiết kế đồ họa, đã đưa lên sàn thương mại điện tử Nifty Gateway nhiều tác phẩm nghệ thuật phiên bản số dưới dạng NFT và thu về hàng chục triệu USD. Tuần trước, ông bán một tác phẩm số tại nhà đấu giá Christie's với giá 69,3 triệu USD.
+
+Cách đó không lâu, nhạc sĩ Claire Boucher, còn được biết đến là Grimes và cũng là bạn gái của tỷ phú Elon Musk, cũng bán được NFT của một tác phẩm nghệ thuật với giá 6 triệu USD.
+
+Tuy nhiên, thời gian gần đây, thị trường NFT xảy ra nhiều biến động mạnh. Theo NonFungible, hồi tháng 1, giá bình quân của một NFT là hơn 6.800 USD với lượng doanh thu hàng ngày hơn 160 triệu USD. Tuy nhiên, trong tháng 3, giá bình quân giảm xuống chỉ còn 2.000 USD với doanh thu 26 triệu USD.
+
+CEO của Bridge Oracle, Sina Estavi, từng mua một NFT của dòng đăng tải trên Twitter đầu tiên của Jack Dorsey – người đồng sáng lập, cựu CEO mạng xã hội này – với giá 2,9 triệu USD với kế hoạch sẽ bán đi sau đó và quyên góp một nửa số tiền thu về để làm từ thiện. Tuy nhiên, kế hoạch này không diễn ra như mong đợi. Khi được mang ra đấu giá, NFT này chỉ được trả mức giá cao nhất là 280 USD, thay vì 25 triệu USD như kỳ vọng của ông Estavi.
+
+Từng ví NFT trên với NFT của bức họa nổi tiếng Mona Lisa, ông Estavi nói rằng sẽ không bao giờ bán NFT của mình trừ khi được trả giá cao hơn.
+
+Theo trang Coindesk, những tính chất tạo nên giá trị của NFT bao gồm: không thể phá hủy (bởi dữ liệu được lưu trữ trên chuỗi khối) và có thể xác minh (bởi blockchain cho phép truy xuất ngược nguồn gốc của sản phẩm mà không cần qua một bên thứ ba). Bên cạnh đó, không giống các loại tiền ảo, NFT là duy nhất và không thể sao chép. Do đó, các nhà đầu tư NFT có thể thu giá trị từ sự độc nhất này, tương tự như việc mua bán các món hàng sưu tầm.
+
+Tuy nhiên, nhiều người cho rằng không ai thể bảo đảm giá trị của các đoạn mã token sẽ tồn tại sau vài chục năm tới bởi công nghệ luôn thay đổi mỗi ngày. Một vấn đề nữa đặt ra là nếu chủ sở hữu quên mật khẩu ví thì làm sao để lấy lại quyền sở hữu NFT bởi, cũng giống như tiền ảo, NFT không được quản lý hay vận hành bởi bất kỳ thực thể nào.

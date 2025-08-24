@@ -1,0 +1,11 @@
+Theo đó, Bộ yêu cầu các doanh nghiệp viễn thông xây dựng phương án cụ thể, bố trí nhân lực trực sẵn sàng 24/7 trong suốt kỳ nghỉ Lễ để đảm bảo hệ thống thông tin liên lạc không bị gián đoạn, đáp ứng kịp thời nhu cầu phát sinh của người dân, tổ chức và cơ quan nhà nước.
+
+Đặc biệt, để tránh tình trạng nghẽn mạng tại các khu vực tập trung đông người, các nhà mạng được yêu cầu tăng cường triển khai các xe trạm phát sóng di động lưu động (BTS lưu động) đến các điểm nóng như quảng trường, công viên, phố đi bộ, khu vực tổ chức bắn pháo hoa, địa điểm diễn ra các hoạt động kỷ niệm 50 năm ngày giải phóng miền Nam, thống nhất đất nước. Các khu vực tổ chức Lễ diễu binh, diễu hành của các lực lượng vũ trang cũng được đưa vào diện tăng cường đặc biệt.
+
+Song song với việc triển khai BTS lưu động, các doanh nghiệp viễn thông cũng được yêu cầu xây dựng kế hoạch mở rộng dung lượng đường truyền, tăng băng thông kết nối trong nước và quốc tế để tránh hiện tượng quá tải, nghẽn mạng vào các thời điểm cao điểm truy cập.
+
+Bộ cũng nhấn mạnh yêu cầu các doanh nghiệp chủ động triển khai các giải pháp bảo đảm an toàn hệ thống mạng lưới, duy trì thông tin liên lạc ổn định phục vụ các nhiệm vụ chính trị, quốc phòng - an ninh và nhu cầu dân sinh trong dịp nghỉ dài ngày. Các phương án ứng cứu thông tin, xử lý sự cố mạng cũng cần được chuẩn bị kỹ lưỡng, bao gồm cả cơ chế hỗ trợ lẫn nhau giữa các nhà mạng thông qua roaming, chia sẻ hoặc sử dụng chung hạ tầng viễn thông khi cần thiết.
+
+Bên cạnh yếu tố kỹ thuật, công tác bảo đảm an ninh mạng cũng được đặt lên hàng đầu. Bộ đề nghị các doanh nghiệp phối hợp chặt chẽ với cơ quan chức năng nhằm kịp thời phát hiện, ngăn chặn các hành vi lợi dụng mạng viễn thông và Internet để phát tán thông tin sai lệch, trái pháp luật, cũng như cảnh báo người dân về các thủ đoạn lừa đảo trên không gian mạng.
+
+Ngoài ra, các doanh nghiệp cũng cần đảm bảo các điều kiện an toàn, phòng chống cháy nổ tại trụ sở, điểm làm việc và hạ tầng kỹ thuật; sẵn sàng các phương án ứng phó với thiên tai, thảm họa bất ngờ, đảm bảo thông tin liên lạc trong các tình huống khẩn cấp.

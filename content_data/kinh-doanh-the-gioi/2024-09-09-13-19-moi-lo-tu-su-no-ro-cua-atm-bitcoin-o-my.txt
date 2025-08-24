@@ -1,0 +1,33 @@
+Tương tự như các máy rút tiền tự động thông thường, ATM bitcoin chỉ yêu cầu người dùng nhập mã pin và thu phí giao dịch. Tuy nhiên, điểm khác biệt là các giao dịch bitcoin trên máy thường có giá trị lớn. Do đó, đây trở thành mục tiêu béo bở cho tội phạm.
+
+“Rõ ràng những chiếc máy này đứng trước mối đe dọa lớn từ cả tội phạm thực lẫn tội phạm mạng, gồm cả những kẻ tấn công mạng và trộm cắp”, ông Timothy Bates, giáo sư về an ninh mạng tại Cao đẳng Đổi mới sáng tạo và Công nghệ thuộc Đại học Michigan (Mỹ), nhận xét.
+
+Theo ông Bates, các ATM bitcoin thường là mục tiêu cài đặt phần mềm độc hại để ăn cắp mã pin, trộm tiền hoặc thao túng các giao dịch tiền số. Điều này càng đáng lo ngại hơn khi các ATM kiểu này không thường xuyên được cập nhật phần mềm hoặc vá lỗi bảo mật.
+
+“Nếu thông tin liên lạc hệ thống của máy không được bảo vệ đầy đủ, những kẻ tấn công mạng có thể chặn dữ liệu truyền giữa ATM và máy chủ, từ đó đánh cắp dữ liệu hoặc truy cập bất hợp pháp”, ông Bates cho biết.
+
+Theo báo cáo của Ủy ban Thương mại Liên bang Mỹ (FTC) tuần trước, số lượng các vụ tội phạm liên quan tới ATM bitcoin tại Mỹ đã tăng 1.000% so với năm 2020.
+
+“Điều đáng nói là, các rủi ro của máy ATM bitcoin có mối liên hệ trực tiếp với sức mạnh của loại tiền số này”, ông Joe Dobson, nhà phân tích tại công ty an ninh mạng Mandiant thuộc sở hữu của Google Cloud, nhận xét. “Bitcoin là loại tiền ảo phi tập trung và bất biến. Một giao dịch bitcoin không thể đảo ngược nếu tiền được gửi vào nhầm địa chỉ. Dù nhiều người ủng hộ thấy rằng việc ít bị kiểm soát là sức hấp dẫn của bitcoin, đây lại là vấn đề của các ATM bitcoin. Bởi không có nhà chức trách nào quản lý và cũng không thể quản lý các ATM bitcoin. Do đó, nhiều tổ chức vận hành độc lập ATM bitcoin”.
+
+Ông Sai Patel, thành viên gia đình sở hữu siêu thị Middletown Food Mart ở Middletown, Ohio, nơi đặt một máy ATM bitcoin, cho biết chiếc máy này không mấy khi bận rộn.
+
+“Có lẽ một tháng mới có người sử dụng một lần”, ông cho biết.
+
+Nếu đó là người lần đầu sử dụng, ông Patel sẽ giải thích cho họ cách vận hành máy và thường để mắt xem có hoạt động nào bất thường hay không. Dù chiếc máy không thu hút nhiều người dùng, nhưng ông Patel cho biết đa số người dùng là người cao tuổi – đối tượng thường là mục tiêu của tội phạm.
+
+Ông nhớ lại một lần một phụ nữ lớn tuổi vào siêu thị và tiến tới ATM bitcoin, cố gắng gửi một số tiền lớn cho ai đó nhưng không biết cách sử dụng. Khi ông tiến lại và hỏi người phụ nữ một vài câu, bà nói: “Elon Musk đã yêu cầu tôi chuyển tiền”. Ông Patel nhanh chóng nhận ra bà đang bị lừa và cảnh báo, giúp bà không bị mất số tiền tiết kiệm cả đời qua chiếc ATM.
+
+Theo bà Alice Frei, giám đốc bộ phận an ninh và tuân thủ tại công ty tư vấn và truyền thông blockchain Outset PR, các vụ lừa đảo và gian lận qua ATM bitcoin thường có giá trị rất lớn.
+
+“Tiền ảo có thể dễ dàng trao đổi trên mạng, mà các bên tham gia không cần có danh tính rõ ràng”, bà cho biết. “Tội phạm thường lợi dụng tính ẩn danh này".
+
+Một thực tế là một vụ lừa đảo ATM bitcoin thường không bắt nguồn ở địa điểm mà vụ việc diễn ra.
+
+“Nhiều giao dịch tiền ảo liên quan tới các hoạt động ở ngoài biên giới, nằm ngoài sự kiểm soát của các nhà chức trách, do đó rất khó để truy vết và thu hồi số tiền bị đánh cắp”, bà Frei cho biết.
+
+Trên toàn cầu, gần 74% ATM bitcoin thuộc quyền quản lý của 10 công ty hàng đầu, bao gồm bitcoin Depot, CoinFlip, Athena bitcoin, RockItCoin, Bitstop, Margo, Coinhub, Localcoin, Byte Federal và Cash2bitcoin. Trong đó, công ty lớn nhất, bitcoin Depot, vận hành hơn 8.000 máy.
+
+Theo ông Dobson của Mandiant, điều đáng nói là trong thế giới bitcoin và ATM bitcoin – các sản phẩm công nghệ, vũ khí chống lừa đảo mạnh mẽ nhất lại không liên quan tới công nghệ mà liên quan tới trách nhiệm của nguòi dùng.
+
+“Trách nhiệm của người dùng là điều tối quan trọng trong thế giới tiền ảo. Sẽ chẳng có ai được đền bù nếu xảy ra mất mát. Trách nhiệm chủ yếu nằm ở quá trình thực hiện các bước giao dịch của người dùng”, ông Dobson nói.

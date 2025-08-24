@@ -1,0 +1,27 @@
+Lặp lại quan điểm của CEO Tesla Elon Musk về sự phát triển của AI “hiện thân”, CEO của Nvidia, Jensen Huang nhấn mạnh rằng AI sẽ có hình dạng vật lý và được tích hợp trực tiếp vào môi trường sống của con người.
+
+CEO của Nvidia, Jensen Huang cho rằng AI đã và đang đi qua hai giai đoạn phát triển. Giai đoạn AI thứ nhất là AI tiên phong, giai đoạn tạo ra các mô hình nền tảng và công cụ cần thiết để tinh chỉnh cho các vai trò cụ thể.
+
+Giai đoạn thứ hai là thời điểm hiện tại – AI doanh nghiệp. Đây là giai đoạn các chatbot và mô hình AI đóng vai trò như những trợ lý để cải thiện phần nào năng suất của con người.
+
+Và giai đoạn thứ ba cũng là giai đoạn sắp tới, đó là AI vật lý – trí thông minh có hình dạng và có khả năng tương tác với thế giới xung quanh – robot. CEO của Nvidia Jensen Huang tuyên bố trong một sự kiện rằng kỷ nguyên của robot đã đến.
+
+Ông nhấn mạnh thị trường robot nhà máy thông minh đang phát triển ngày càng mạnh mẽ, nhờ vào những tiến bộ trong công nghệ cảm biến và các mô hình AI cơ bản, giúp nâng cấp từ các robot công nghiệp bốn trục và sáu trục truyền thống thành hình người tinh vi hơn.
+
+CEO của Nvidia tin rằng robot sẽ cần phải có hình dạng con người vì các nhà máy và môi trường mà chúng hoạt động đều được thiết kế cho người vận hành. Thiết kế robot giống người tiết kiệm hơn nhiều so với thiết kế lại các nhà máy và không gian đồng thời thiết kế như vậy cho phép chúng đào tạo dữ liệu mở rộng, nâng cao khả năng nhận thức và vận hành của chúng trong tương lai.
+
+Các chuyên gia trong ngành cũng đồng tình và cho rằng robot hình người sẽ phù hợp hơn để thích nghi với hạ tầng hiện tại, chẳng hạn như tay nắm cửa và cầu thang, được thiết kế theo công thái học dành cho con người. Do đó, thiết kế robot hình người là cách tiếp cận tối ưu để đạt được khả năng làm việc tương đương.
+
+Theo Nvidia, công ty hiện có hơn năm triệu robot được lập trình sẵn đang được thử nghiệm và xác thực trên toàn thế giới, bao gồm cả thông qua mô phỏng song sinh kỹ thuật số trong Omniverse của Nvidia để sử dụng robot trong các nhà máy. "Tất cả các nhà máy sẽ là robot. Các nhà máy sẽ điều khiển robot và những robot đó sẽ chế tạo các sản phẩm là robot", ông Jensen Huang nói.
+
+NVIDIA Omniverse Cloud là nền tảng tạo ra các ứng dụng và quy trình công việc song sinh kỹ thuật số trên toàn bộ hệ sinh thái của các nhà sản xuất để thử nghiệm và xác thực các máy móc tự động như robot hoặc xe tự lái.
+
+Theo đó, Foxconn đang hợp tác với Siemens trong nhà máy thông minh của mình tại Mexico, sử dụng nền tảng Omniverse của Nvidia để đào tạo robot và tạo ra các nhà máy song sinh kỹ thuật số. Cách tiếp cận này tối ưu hóa bố trí nhà máy và cấu hình dây chuyền sản xuất, giúp giảm đáng kể chi phí liên quan đến việc triển khai và sửa đổi vật lý.
+
+Ngoài Foxconn, Delta Electronics, Pegatron và Wistron là những công ty Đài Loan khác tận dụng nền tảng Omniverse để phát triển các nhà máy song sinh kỹ thuật số.
+
+"Robot đã ở đây. AI vật lý đã ở đây. Đây không phải là khoa học viễn tưởng. Nó thực sự, thực sự thú vị", ông Jensen Huang cho biết. “Các công nghệ hỗ trợ đang kết hợp lại với nhau để các nhà nghiên cứu robot hàng đầu trên thế giới có những bước tiến lớn hướng tới sản xuất robot nhân tạo nói chung”.
+
+Thậm chí, theo Universal Robots, chắc chắn một ngày nào đó robot hình người có thể suy nghĩ và tìm ra cách tự giải quyết vấn đề mà không cần lập trình trước. Mặc dù vẫn cần rất nhiều các kỹ sư và các chuyên gia để quản lý robot trong tương lai, nhưng tiềm năng của tự động hóa robot lớn đến mức không cần chuyên gia ở mọi công đoạn.
+
+Robot hiện mới chỉ đảm nhiệm khoảng 2% công việc trong các ngành công nghiệp, tuy nhiên tác động của chúng sẽ gia tăng nhanh chóng chỉ trong vài năm tới.

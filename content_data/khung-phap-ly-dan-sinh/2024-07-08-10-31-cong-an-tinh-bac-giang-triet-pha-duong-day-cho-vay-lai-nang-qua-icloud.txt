@@ -1,0 +1,33 @@
+Trước đó, qua công tác nắm tình hình địa bàn và trên không gian mạng, Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao - Công an tỉnh Bắc Giang đã phát hiện đường dây hoạt động “tín dụng đen” trên không gian mạng với quy mô lớn, thu hút hàng chục nghìn người vay trên cả nước với hình thức thế chấp điện thoại iPhone thông qua tài khoản iCloud.
+
+Ngày 24/6, Ban chuyên án đã quyết định phá án. 60 cán bộ, chiến sĩ của Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao, Công an thành phố Bắc Giang và một số đơn vị nghiệp vụ có liên quan đã khám xét khẩn cấp tại 3 địa điểm gồm:căn hộ chung cư ở Tòa CT10A, Khu đô thị Nam Trung Yên, quận Cầu Giấy, thành phố Hà Nội; một căn hộ chung cư Tòa CT10C, Khu đô thị Kim Văn Kim Lũ, phường Đại Kim, quận Hoàng Mai, thành phố Hà Nội và tại thôn 3, xã Đông Sơn, thành phố Tam Điệp, tỉnh Ninh Bình.
+
+Lực lượng Công an tỉnh Bắc Giang đã thu giữ nhiều thiết bị, đồ vật, tài liệu liên quan gồm: 4 bộ máy vi tính, 158 điện thoại iPhone các loại, 5 thiết bị phát sóng Internet và nhiều đồ vật, tài liệu khác có liên quan.
+
+Căn cứ vào các tài liệu, chứng cứ, ngày 5/7, Cơ quan Cảnh sát điều tra Công an thành phố Bắc Giang đã khởi tố vụ án, khởi tố bị can, ra lệnh tạm giam đối với 13 đối tượng về hành vi cho vay nặng lãi trong giao dịch dân sự. Các đối tượng này là người ở nhiều tỉnh, thành khác nhau trong cả nước.
+
+Bước đầu xác định, đây là một đường dây hoạt động “tín dụng đen” cho vay lãi nặng trên không gian mạng có tổ chức, quy mô lớn trên phạm vi toàn quốc, có sự phân công vai trò, nhiệm vụ rõ ràng; bao gồm đối tượng tổ chức cầm đầu đường dây, cung cấp tiền, hệ thống thiết bị để cả nhóm hoạt động.
+
+Đối tượng quản lý nhóm, trực tiếp quản lý nhân viên, thẩm định khách hàng và giải ngân khoản vay; được nhận lương khoảng 12 triệu đồng/tháng.
+
+Đối tượng hỗ trợ kỹ thuật thực hiện việc liên lạc với đối tượng cộng tác viên, thẩm định khách hàng, hướng dẫn cài đặt máy, quản lý việc nhắc nợ, đòi nợ, thu nợ, được nhận lương khoảng 8 triệu đồng/tháng.
+
+Đối tượng cộng tác viên thực hiện việc đăng bài quảng cáo cho vay trên nền tảng mạng xã hội, tìm kiếm người vay, thu thập thông tin người vay, được hưởng lợi nhuận từ 25% đến 30% khoản vay thành công.
+
+Các đối tượng cầm đầu các nhóm cho vay tiền trong đường dây này là Đỗ Thành Tôn (SN 2000), ở xã Đông Sơn, thành phố Tam Điệp, tỉnh Ninh Bình; Vũ Văn Phong (SN 2004) ở xã Hồng Phong, huyện Thanh Miện, tỉnh Hải Dương; Đào Văn Thái (SN 1993) ở xã Vụ Bản, huyện Đoan Hùng, tỉnh Phú Thọ; Nguyễn Ngọc Linh (SN 1992), ở xã Phú Lộc, huyện Nho Quan, tỉnh Ninh Bình.
+
+Người vay tiền có thể vay được từ vài triệu đến hàng chục triệu đồng tùy thuộc vào đời của điện thoại iPhone; nghĩa là đời điện thoại càng cao thì tương ứng với số tiền được vay càng nhiều.
+
+Để được vay tiền thì người vay phải cung cấp hình ảnh thẻ căn cước công dân, ảnh chân dung, số điện thoại, danh bạ, địa chỉ thường trú, nghề nghiệp, địa chỉ nơi làm việc, nơi ở hiện tại, họ tên bố, mẹ, vợ, chồng, tên Facebook của người thân, số tài khoản ngân hàng và yêu cầu thoát khỏi tài khoản iCloud của bản thân rồi đăng nhập tài khoản iCloud theo chỉ định của đối tượng trên điện thoại iPhone của mình.
+
+Sau khi kiểm tra các thông tin trùng lặp, đối tượng quản lý tiến hành giải ngân khoản vay vào tài khoản ngân hàng của người vay sau khi đã cắt lãi trước khoảng từ 3 đến 10 ngày, phí hồ sơ bằng 5% khoản vay. Sau đó, hàng ngày, người vay phải trả tiền gốc và lãi bằng cách chuyển tiền đến tài khoản ngân hàng cho các đối tượng chỉ định.
+
+Nếu người vay không trả tiền đúng theo định mức và thời gian quy định, đối tượng sẽ khóa máy điện thoại iPhone của người vay bằng tính năng khóa điện thoại từ xa của tài khoản iCloud, không cho người vay sử dụng điện thoại, buộc người vay phải trả tiền để mở điện thoại.
+
+Khi người vay tất toán khoản vay, đối tượng sẽ thoát tài khoản iCloud đã đăng nhập, khi đó, người vay sẽ sử dụng điện thoại của mình bình thường.
+
+Thiếu tá Chu Văn Hiệu – Phó trưởng phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao, Công an tỉnh Bắc Giang cho biết việc người dân vay tiền qua tài khoản iCloud tiềm ẩn nhiều rủi ro.
+
+Người vay có nguy cơ cao bị thu thập dữ liệu, thông tin cá nhân. Việc thế chấp vay qua tài khoản iCloud cũng đồng nghĩa với việc người vay đã trao quyền truy cập vào  điện thoại Iphone của mình như: ảnh, video, danh bạ... Khi người vay không trả tiền thì sẽ bị đối tượng nhắc nợ, đòi nợ; gọi điện, nhắn tin nhiều lần làm phiền người thân và đối tượng sẽ khóa máy điện thoại iPhone…
+
+Công an tỉnh Bắc Giang khuyến cáo người dân cần thận trọng, nói “không” với vay tiền qua mạng nói chung và qua iCloud nói riêng; đồng thời, không nên chia sẻ hoặc cung cấp tài khoản iCloud cho người lạ; không đăng nhập tài khoản iCloud của người khác vào điện thoại iPhone của mình để tránh những rủi ro, hậu quả đáng tiếc xảy ra.

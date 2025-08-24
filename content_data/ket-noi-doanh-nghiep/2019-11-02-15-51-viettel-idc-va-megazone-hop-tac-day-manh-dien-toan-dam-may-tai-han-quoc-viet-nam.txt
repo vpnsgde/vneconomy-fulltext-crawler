@@ -1,0 +1,19 @@
+Ngày 2/11, Viettel IDC và Megazone chính thức công bố hợp tác chiến lược, với mục tiêu cung cấp dịch vụ và trao đổi công nghệ Cloud tại hai thị trường thị trường Hàn Quốc - Việt Nam.
+
+Theo đó, Megazone - một trong những đối tác lớn nhất của AWS tại khu vực châu Á – Thái Bình Dương và Viettel IDC - công ty dẫn đầu thị trường Việt Nam trong mảng điện toán đám mây (Cloud) và trung tâm dữ liệu, chính thức hợp tác với nhau trong việc hỗ trợ các doanh nghiệp Hàn Quốc đầu tư vào Việt Nam, đẩy mạnh hỗ trợ các doanh nghiệp tại thị trường Việt Nam chuyển dịch hệ thống công nghệ thông tin lên Cloud.
+
+Lễ ký kết có sự tham gia của ông Tào Đức Thắng - Phó tổng giám đốc Tập đoàn Viettel, ông Joo Wan Lee - Chủ tịch Tập đoàn Megazone, ông Hoàng Văn Ngọc - Giám đốc Viettel IDC và các đại diện đến từ hai đơn vị.
+
+Ở giai đoạn đầu của thỏa thuận, hai bên sẽ phối hợp cung cấp các dịch vụ "make in Viettel" đến các doanh nghiệp Hàn Quốc hiện đang hoạt động tại Việt Nam.
+
+Trong tương lai, hai đơn vị này mong muốn sẽ hợp tác trong lĩnh vực chính phủ điện tử, thành phố thông minh, nhà máy thông minh tại Việt Nam… nhằm thúc đẩy việc chuyển đổi số cho các doanh nghiệp theo định hướng của chính phủ. Bên cạnh đó, Megazone và Viettel IDC sẽ định hướng hợp tác đầu tư, trao đổi công nghệ trong các ngành như trí thông minh nhân tạo (AI) và dữ liệu lớn (Big Data), hướng tới cung cấp đa dạng hơn các dịch vụ trên nền tảng AI, Big Data tại Việt Nam.
+
+Ông Joo Wan Lee, Chủ tịch tập đoàn Megazone phát biểu tại lễ ký kết: "Bước đầu hợp tác, Megazone và Viettel IDC sẽ cung cấp các dịch vụ Cloud cho các doanh nghiệp Hàn Quốc đang hoạt động tại Việt Nam. Chúng tôi hy vọng việc hợp tác sẽ tạo ra một hệ sinh thái đối tác toàn cầu giữa các công ty hàng đầu về công nghệ thông tin tại Hàn Quốc và Việt Nam."
+
+"Chúng tôi tin tưởng rằng việc hợp tác này sẽ mở ra nhiều cơ hội cho cả hai bên trong lĩnh vực kinh doanh và công nghệ. Trong giai đoạn đầu hợp tác, Viettel IDC kỳ vọng sẽ cùng Megazone cung cấp  cho hơn 3.000 doanh nghiệp Hàn Quốc đang đầu tư tại Việt Nam những giải pháp công nghệ thông tin chất lượng nhất", ông Hoàng Văn Ngọc - Giám đốc Viettel IDC chia sẻ.
+
+Megazone là một trong những nhà cung cấp dịch vụ điện toán đám mây (MSP) lớn nhất tại khu vực châu Á - Thái Bình Dương. Megazone là đối tác tư vấn AWS Premier đầu tiên của Hàn Quốc và hiện đang dẫn đầu thị trường điện toán đám mây trong khu vực châu Á - Thái Bình Dương. Gần đây, công ty đã tích cực mở rộng thị trường toàn cầu bằng cách thành lập các công ty con ở nước ngoài tại Hoa Kỳ, Nhật Bản, Trung Quốc và các thị trường khác.
+
+Viettel IDC là nhà cung cấp dịch vụ trung tâm dữ liệu và điện toán đám mây hàng đầu tại Việt Nam, với 5 trung tâm dữ liệu đạt tiêu chuẩn quốc tế Rated 3 - TIA 942, và hệ sinh thái gồm hơn 20 dịch vụ, đáp ứng nhu cầu của tất cả các khách hàng thuộc nhiều quy mô, lĩnh vực.
+
+Hiện tại, Viettel IDC đang là đối tác hàng đầu của các nhà cung cấp giải pháp công nghệ hàng đầu thế giới như: Akamai, Microsoft, VMWare, Veeam,… Viettel IDC đã giành được các tiêu chuẩn quốc tế như: Rated 3 - TIA 942, PCI DSS, ISO 27017, ISO 27001, ISO 9001…c ho hệ thống trung tâm dữ liệu và điện toán đám mây của mình.

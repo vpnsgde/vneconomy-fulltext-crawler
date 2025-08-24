@@ -1,0 +1,43 @@
+Theo nghiên cứu về năng lượng trong các ngành công nghệ, năng lượng cần thiết để vận hành các hệ thống trí tuệ nhân tạo (AI) đã vượt quá mức năng lượng được dùng để khai thác Bitcoin. Tuy nhiên đây lại không phải tin tốt đối với các thợ đào Bitcoin - ngành công nghiệp vốn thường xuyên bị chỉ trích vì mức độ tiêu thụ điện năng.
+
+Theo nghiên cứu về năng lượng trong các ngành công nghệ, năng lượng cần thiết để vận hành các hệ thống trí tuệ nhân tạo (AI) đã vượt quá mức năng lượng được dùng để khai thác Bitcoin.
+
+Báo cáo từ Viện chính sách Bitcoin cho biết AI đang trở thành đối thủ cạnh tranh khốc liệt với Bitcoin về điện và thiết bị. Nguồn vốn dồi dào của ngành trí tuệ nhân tạo đã giúp các công ty AI có đủ khả năng chi trả cao hơn cho năng lượng để có được lượng điện năng cần thiết.
+
+Doanh thu từ AI mang lại cao hơn tới 25 lần so với Bitcoin tính trên mỗi kWh. Điều này đã khiến một số thợ đào Bitcoin đang bổ sung AI vào trung tâm dữ liệu của họ hoặc thậm chí chuyển hoàn toàn từ Bitcoin sang AI. Nhà nghiên cứu Margot Paez của BPI cho biết: “Xu hướng này sẽ vẫn còn tiếp tục kéo dài miễn là doanh thu trên mỗi MWh của AI cao hơn Bitcoin”.
+
+Ngành công nghiệp AI vẫn đang ở giai đoạn đầu, nhưng nhu cầu năng lượng của các mô hình AI tổng hợp là rất lớn. Theo Goldman Sachs, một truy vấn ChatGPT tiêu tốn gần 10 lần năng lượng so với một tìm kiếm thông thường trên Google. MIT Technology Review báo cáo rằng việc tạo ra hình ảnh AI có thể sử dụng nhiều năng lượng như sạc đầy một chiếc điện thoại thông minh.
+
+Việc tiêu tốn năng lượng lớn trong khai thác Bitcoin đã dẫn đến nguy cơ bị cấm ở châu Âu và lệnh cấm ở New York. Theo BPI, mức sử dụng năng lượng hàng năm của các cơ sở khai thác Bitcoin tại Mỹ là khoảng 121,13 TWh, trong khi AI tiêu thụ từ 20 đến 125 TWh vào năm 2023.
+
+Nhưng với sự phát triển mạnh mẽ của AI thế hệ trong năm nay, báo cáo ước tính rằng AI sẽ sử dụng 169 TWh vào năm 2024 và tốc độ tăng trưởng sẽ tiếp tục vượt xa hoạt động khai thác Bitcoin với mức tiêu thụ khoảng 240 TWh vào năm 2027 lên mức 160 TWh.
+
+Các trung tâm dữ liệu chứa các mô hình AI cũng cần một lượng nước đáng kể để làm mát máy móc nhằm duy trì hiệu quả. Nghiên cứu của Shaolei Ren từ Đại học California Riverside ước tính rằng cứ 5 đến 50 câu hỏi được hỏi cho ChatGPT sẽ tiêu tốn khoảng 500 ml nước.
+
+Để so sánh, chỉ riêng việc khai thác Bitcoin ở Mỹ ước tính cần từ 10.000 - 13.000 lít nước mỗi năm, với mỗi giao dịch được cho là sử dụng đủ nước để lấp đầy một bể bơi.
+
+Tỷ suất lợi nhuận của AI hiện cao hơn nhiều so với khai thác Bitcoin. Hoạt động khai thác tiền điện tử tạo ra doanh thu từ 0,17 USD đến 0,20 USD/kWh, trong khi doanh thu từ các đơn vị xử lý đồ họa Nvidia được sử dụng cho AI có thể dao động từ 3 đến 5 USD/kWh, chênh lệch gấp 17–25 lần.
+
+Câu hỏi được đặt ra là với chênh lệch như vậy, tại sao các công ty khai thác Bitcoin không tái sử dụng giàn khoan của họ để chạy AI nhằm kiếm nhiều tiền hơn?
+
+Cố vấn tài sản tiền điện tử và khai thác Bitcoin Anibal Garrido cho rằng không dễ để thực hiện bước nhảy vọt này. Nguyên nhân là vì các công ty khai thác Bitcoin sử dụng máy móc mạch tích hợp dành riêng cho ứng dụng (ASIC) được thiết kế chỉ để tính toán giá trị băm của giao thức PoW, không thể sử dụng lại cho mục đích khác như AI.
+
+Các giàn khai thác Bitcoin linh hoạt hơn nhiều và có thể tắt hoặc bật nguồn để tận dụng nguồn điện dư thừa, lãng phí hoặc giá rẻ. Ngược lại, AI yêu cầu 99,9% thời gian hoạt động để các mô hình hoạt động bình thường. Nhu cầu này có thể dẫn đến việc sử dụng các nguồn năng lượng ít thân thiện với môi trường. Các nhà máy điện được kích hoạt để giải quyết nhu cầu tăng đột biến thường sử dụng nhiên liệu hóa thạch, làm trầm trọng thêm tác động môi trường.
+
+Tính linh hoạt mà hoạt động khai thác Bitcoin mang lại cũng cho phép các nhà khai thác thực hiện các thỏa thuận với Chính phủ để đảm bảo họ ngừng tiêu thụ năng lượng trong trường hợp lưới điện bị bão hòa. Sau khi lưới ổn định, thợ mỏ có thể tiếp tục hoạt động, cung cấp cho lưới tính linh hoạt hơn để duy trì sự cân bằng.
+
+Báo cáo BPI cho thấy các công ty khai thác Bitcoin của Mỹ đã ngừng hoạt động từ 5% đến 31% thời gian khi giá điện quá cao hoặc khi có chỉ đạo của các nhà khai thác lưới điện.
+
+Nghiên cứu thu thập dữ liệu từ 8 cơ sở khai thác của Mỹ trong khoảng thời gian từ tháng 7 đến tháng 9 năm 2023 ước tính rằng những gián đoạn này đã ngăn chặn việc phát thải 13,6 triệu tấn CO2. Mức giảm này tương đương với việc loại bỏ 2.951 ô tô khỏi đường.
+
+Một điểm khác biệt quan trọng giữa hai công nghệ là yêu cầu về vị trí. Khai thác Bitcoin không phụ thuộc vào vị trí, trong khi AI yêu cầu độ trễ thấp để cung cấp phản hồi cực nhanh, đòi hỏi các trung tâm dữ liệu phải được đặt gần các khu vực đô thị lớn.
+
+Điều đó có nghĩa là các trung tâm dữ liệu AI phải tiêu thụ bất kỳ năng lượng nào có sẵn tại các địa điểm cụ thể đó trong khi những người khai thác Bitcoin có thể chuyển đến các địa điểm dư thừa năng lượng, chẳng hạn như các cơ sở năng lượng tái tạo ở những địa điểm xa nơi có nhiều thủy điện, năng lượng mặt trời hoặc gió.
+
+Bản chất không xác định vị trí của hoạt động khai thác Bitcoin cũng cho phép tận dụng năng lượng lãng phí. Điều này bao gồm khai thác bằng năng lượng bị mắc kẹt từ thủy điện từ xa, thu giữ lượng khí thải mêtan dư thừa, sưởi ấm bằng điện khí hóa bằng cách tái sử dụng nhiệt lãng phí hoặc khai thác năng lượng tái tạo từ các nguồn năng lượng mặt trời và gió có thể bị mắc kẹt do hạn chế truyền tải.
+
+Về việc thúc đẩy sử dụng năng lượng tái tạo để khai thác Bitcoin, Juan Calvo, kỹ sư dữ liệu cao cấp và kỹ sư AI thế hệ tại Datatonic, tin rằng AI có nhiệm vụ trở nên bền vững hơn.
+
+Kỹ sư này giải thích rằng các nhà phát triển AI có nhiều kỹ thuật khác nhau để nâng cao hiệu quả sử dụng năng lượng. Chúng bao gồm tinh chỉnh các mô hình hiện có, sử dụng các mô hình nhỏ hơn cho các nhiệm vụ cụ thể và tận dụng các giải pháp đám mây có thể giảm đáng kể mức tiêu thụ năng lượng tổng thể.
+
+Những tiến bộ về phần cứng cũng có thể đóng một vai trò quan trọng. Các nhà sản xuất đồ họa như Nvidia luôn đi đầu trong việc phát triển phần cứng chuyên dụng giúp cải thiện hiệu suất trong khi tiêu thụ ít năng lượng hơn. Sự kết hợp giữa các thuật toán hiệu quả hơn và phần cứng tiên tiến có thể giúp giải quyết nhu cầu năng lượng ngày càng tăng của AI theo cách bền vững hơn.

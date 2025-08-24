@@ -1,0 +1,29 @@
+Theo một báo cáo mới về năng lực trung tâm dữ liệu được Nikkei trích dẫn, Ấn Độ đang vượt Nhật Bản, Singapore và Hong Kong (Trung Quốc) về đầu tư vào trung tâm dữ liệu và được thúc đẩy bởi các cam kết tài trợ lớn của các tập đoàn quốc tế như Amazon và trong nước là Reliance Industries.
+
+Các nhà phân tích cho biết, sự bùng nổ trung tâm dữ liệu của Ấn Độ là điều đã được dự báo trước. Các yếu tố thúc đẩy bao gồm dân số hiểu biết về Internet đang tăng tốc sử dụng thanh toán, thương mại điện tử và các dịch vụ kỹ thuật số khác, cũng như các công ty công nghệ đặt văn phòng tại quốc gia Nam Á này và được thu hút bởi nguồn nhân tài dồi dào.
+
+Theo nghiên cứu của công ty đầu tư và bất động sản có trụ sở tại Mỹ CBRE, quốc gia đông dân nhất thế giới đang trên đà bổ sung tới 850 MW công suất mới trong vòng 3 năm cho đến năm 2026, tăng gần gấp đôi so với mức khoảng 950 MW vào cuối năm ngoái.
+
+Nếu loại trừ người dẫn đầu ngành là Trung Quốc, Ấn Độ sẽ vượt lên trên các đối thủ trong khu vực là Hàn Quốc (dự kiến sẽ bổ sung thêm 495 MW trong cùng kỳ) cũng như Nhật Bản ở mức 407 MW và Úc ở mức 314 MW.
+
+Các công ty vận hành trung tâm dữ liệu đang tăng mở rộng gấp đôi trong bối cảnh nhu cầu tăng cao. Amazon Web Services đã cam kết đầu tư 12,7 tỷ USD vào hoạt động kinh doanh điện toán ở Ấn Độ đến năm 2030. Trung tâm Dữ liệu Toàn cầu ST Telemedia có trụ sở tại Singapore sẽ bơm khoảng 900 triệu USD vào Ấn Độ cho đến năm 2033.
+
+Trong vài năm qua, họ đã ký các biên bản ghi nhớ với các bang Tamil Nadu, Karnataka và Uttar Pradesh của Ấn Độ. Công ty có hơn 300 MW trên 28 cơ sở tại 10 thành phố của Ấn Độ. Colt Data Center Services Holdings, một công ty của Anh đã công bố kế hoạch vào tháng 3 để bổ sung một trung tâm dữ liệu ở Chennai vào năm 2027 với công suất tối thiểu 70 MW.
+
+Các công ty lớn của Ấn Độ bao gồm Adani Group và Reliance Industries cũng đã tham gia vào cuộc đua này.
+
+AdaniConneX, một liên doanh giữa Adani Enterprises và nhà cung cấp trung tâm dữ liệu EdgeConneX cho biết vào tháng 4 rằng họ đã đảm bảo khoản vay 1,44 tỷ USD từ các nhà đầu tư để tài trợ cho việc xây dựng hai địa điểm mới ở Chennai và Mumbai với công suất tích lũy là 67 MW.
+
+Họ đặt mục tiêu xây dựng công suất 1GW vào năm 2030, với tổng vốn đầu tư là 5 tỷ USD. Reliance cũng thành lập liên doanh với Brookfield vào tháng 7 năm ngoái và đầu tư 122 triệu USD vào Ấn Độ.
+
+Nhu cầu sử dụng dữ liệu đang tăng lên trên toàn cầu, nhưng tốc độ này đặc biệt nhanh ở Ấn Độ, với dân số khổng lồ và tốc độ tăng trưởng kinh tế nhanh chóng. Tổng sản phẩm quốc nội (GDP) tăng 8,4% trong quý cuối năm 2023 và Chính phủ dự kiến nền kinh tế Ấn Độ sẽ tăng trưởng từ 8% trở lên trong quý đầu tiên của năm 2024.
+
+Anshuman, Giám đốc điều hành tại CBRE Ấn Độ cho biết các ngân hàng, công ty bảo hiểm và các công ty dịch vụ tài chính khác có thể sẽ là động lực chính cho các trung tâm dữ liệu mới của Ấn Độ. “Hơn nữa, các công ty kỹ thuật và sản xuất, cùng với các công ty công nghệ có khả năng thành lập các trung tâm dữ liệu dành riêng cho các phòng thí nghiệm R&D.”
+
+Ngoài ra, đại dịch COVID-19 đã thúc đẩy hầu hết mọi doanh nghiệp - từ ngân hàng đến công ty hàng tiêu dùng phải tăng tốc số hóa, làm tăng thêm nhu cầu về trung tâm dữ liệu địa phương. Công ty tư vấn Bain & Company ước tính Ấn Độ sẽ trở thành nền kinh tế tiêu dùng internet trị giá 1 nghìn tỷ USD vào cuối thập kỷ này.
+
+Mikhail Jaura, nhà nghiên cứu cấp cao tại công ty tư vấn công nghệ IDC, cho biết dân số đông là một trong những lợi thế mạnh nhất của Ấn Độ. Các yếu tố khác có lợi cho Ấn Độ bao gồm giá đất tương đối rẻ và khả năng xảy ra thiên tai ít hơn so với một số quốc gia châu Á khác, bao gồm Nhật Bản và Indonesia.
+
+Tuy nhiên, Ấn Độ vẫn còn nhiều thách thức phải đối mặt như bổ sung nhân lực phần cứng quan trọng, Franco Chiam, Phó Chủ tịch Nhóm nghiên cứu cơ sở hạ tầng, đám mây, trung tâm dữ liệu, viễn thông và cơ sở hạ tầng tại IDC cảnh báo.
+
+Ông nói: “Một trong những thách thức lớn nhất là sự ổn định của cơ sở hạ tầng. Điều đó cần được giải quyết như bước đầu tiên để tạo niềm tin rằng các doanh nghiệp sẽ có thể lưu trữ các trung tâm dữ liệu trong môi trường đó".

@@ -1,0 +1,27 @@
+MacBook của Apple đã bùng nổ trong vài năm qua nhờ chipset Silicon mang lại tốc độ nhanh hơn, bền hơn và có màn hình LED chất lượng tốt hơn so với nhiều dòng máy tính xách tay hệ điều hành Windows. Tuy nhiên, máy tính Window cũng đang cho thấy khả năng cạnh tranh đáng gờm nhờ những tính năng vượt trội so với những chiếc máy tính xách tay của nhà Apple.
+
+Tính năng mở khóa bằng Touch ID, sử dụng đầu đọc dấu vân tay của Macbook đã không còn quá xa lạ. Touch ID cho phép người dùng dễ dàng đăng nhập và xác thực ủy quyền để đăng nhập hay mua hàng trên nhiều ứng dụng và nền tảng.
+
+Tuy nhiên, Microsoft đã đưa tính năng này lên một bước tiến mới với Windows Hello. Tính năng này cũng hỗ trợ đầu đọc dấu vân tay, nhưng mở rộng sang nhận dạng khuôn mặt. Nhiều máy tính xách tay Windows hiện được trang bị camera hồng ngoại có thể ánh xạ khuôn mặt người dùng để dễ dàng đăng nhập bằng khuôn mặt.
+
+Mặc dù Apple cũng có hệ thống nhận dạng khuôn mặt, Face ID. Tuy nhiên, công nghệ này mới có trên trên iPhone và iPad. Ở một khía cạnh nào đó, công nghệ của Apple thậm chí còn tốt hơn. Nhưng cho đến khi Face ID xuất hiện trên MacBook, máy tính xách tay Windows đang có lợi thế hơn trong hỗ trợ người dùng đăng nhập nhanh chóng và an toàn.
+
+OLED là công nghệ màn hình quen thuộc, có sẵn trên những nhiều dòng máy window với mức giá rất phải chăng, chưa tới 1.000 USD khách hàng đã có thể sở hữu những chiếc máy tính với công nghệ này. Trong khi đó để sở hữu một chiếc máy tính xách tay công nghệ màn hình mini-LED của Apple, người dùng sẽ phải chi từ 1.500 USD trở lên.
+
+Theo chuyên gia của Digitaltrend, OLED có màu sắc chính xác hơn cũng như độ tương phản cao hơn. Tuy vậy, công nghệ mini-LED trên MacBook cho độ sáng cao hơn cũng như hỗ trợ dải động cao (HDR) tốt hơn. Nhưng chung quy lại, mini-LED chưa thể hiển thị màu đen đạt chuẩn hay màu sắc tươi sáng và sống động như của OLED.
+
+Theo Apple, hãng hiện vẫn chọn sử dụng màn hình mini-LED cho máy tính bảng và Macbook vì độ chuẩn màu với thông số cao cấp. Đồng thời nhà phát triển này cho biết độ bền của màn hình OLED thường không quá cao, vì vậy, Apple vẫn chung thành với màn hình mni-LED.
+
+Trong khi màn hình mini-LED của Apple có tần số quét lên tới 120Hz, một số màn hình OLED thậm chí còn chạy ở tốc độ làm mới nhanh hơn nhưng có thời gian phản hồi cực thấp. Điều này có nghĩa người dùng sẽ không nhìn thấy bất kỳ vệt đen chuyển động nào, đặc biệt là khi chơi game.
+
+Nói về chơi game, đây là lĩnh vực mà Windows được cho là có lợi thế hơn cả. Chipset M3 của Apple được tạo nên từ công nghệ 3 nanômét dẫn đầu thị trường, mang đến công nghệ đổ bóng dạng lưới tốc độ cao giúp tiết kiệm điện hơn khi xử lý hình học, hỗ trợ các cảnh có hình ảnh phức tạp hơn. Đồng thời, công nghệ dò tia tốc độ cao bằng phần cứng xuất hiện trên Mac M3 cũng hỗ trợ các trò chơi kết xuất đổ bóng và phản chiếu chính xác hơn, tạo nên hình ảnh chân thực hơn.
+
+Tuy nhiên, theo Digitaltrends, vẫn chưa có trò chơi nào có thể tận dụng được tất cả sức mạnh đó. Số lượng tựa game AAA chạy nguyên bản trên Mac có thể đếm được trên cả hai tay và điều đó đã hạn ché MacBook trở thành một nền tảng chơi game.
+
+Trong khi đó, mọi tựa game PC mới đều có sẵn trên Windows. Và máy tính xách tay chơi game hệ điều hành Windows có thể trang bị GPU di động Nvidia GeForce RTX 4090 cực kỳ nhanh, nhanh hơn đáng kể so với GPU tốt nhất của Apple. Sử dụng nhiều loại màn hình hơn với tốc độ làm mới cao và thời gian phản hồi thấp, máy tính xách tay Windows trở thành một lựa chọn lý tưởng dành cho game thủ.
+
+Một số dòng máy Window mang đến trải nghiệm 2 trong 1 cho người dùngApple có dòng sản phẩm iPhone và iPad có màn hình cảm ứng, nhưng họ kiên quyết từ chối thêm cảm ứng vào MacBook. Lập luận của Apple là màn hình cảm ứng có khiếm khuyết về mặt công thái học ở chỗ chúng ta không được thiết kế để giơ tay lên màn hình máy tính xách tay.
+
+Mặt khác, màn hình cảm ứng ngày càng có xu hướng được tích hợp nhiều hơn trên các dòng máy tính xách tay Window. Nhờ công nghệ cảm ứng, các nhà sản xuất máy tính chạy hệ điều hành Windows mang đến cho người dùng các sản phẩm 2 trong 1 – máy tính xách tay có thể tháo rời thành máy tính bảng, mang lại trải nghiệm cảm ứng giống như máy tính bảng.
+
+Có thể một ngày nào đó Apple sẽ cung cấp màn hình cảm ứng trên MacBook hoặc điều này sẽ mãi mãi không xảy ra vì nhiều lý do kĩ thuật khác nhau. Tuy nhiên, không thể phủ nhận màn hình cảm ứng cũng là yếu tố để nhiều khách hàng cân nhắc chọn những chiếc Window thay vì Macbook.

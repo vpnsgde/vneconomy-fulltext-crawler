@@ -1,0 +1,47 @@
+Ngày 16/9, TAND TP Hà Nội xét xử 13 bị cáo về tội Xâm nhập trái phép vào mạng máy tính mạng viễn thông hoặc phương tiện điện tử của người khác. Các bị cáo gồm Nguyễn Văn Anh (SN 1994, ở quận Thanh Xuân), Nguyễn Đức Hiếu (SN 1996, ở quận Cầu Giấy), Đỗ Khắc Tiến (SN 1996, ở Khánh Hòa)…
+
+Theo cáo trạng, Văn Anh và Tiến biết nhau từ năm 2019. Năm 2023, Tiến bàn bạc với Văn Anh cài mã độc vào phương tiện điện tử của người khác để lấy cắp thông tin tài khoản Facebook, chạy quảng cáo bán hàng thu lời bất chính.
+
+Văn Anh đề nghị nên Tiến gửi 1 flie chứa mã độc qua ứng dụng Telegram.
+
+Biết Hiếu có kiến thức, trình độ về công nghệ thông tin nên Văn Anh gửi file trên cho Hiếu, đề nghị Hiếu phân tích, phát triển thành “mã độc” tương tự và tạo ra các file gắn mã độc (file “.exe” nhưng ẩn dưới dạng file văn bản như word, excel, pdf…) và đưa lên trang Linkedin.com để lấy cắp thông tin. Văn Anh thỏa thuận sẽ trả cho Hiếu 30% số tiền thu lợi từ quảng cáo bán hàng.
+
+Hiếu đã sử dụng phần mềm phân tích mã nguồn file “mã độc” , dùng ngôn ngữ lập trình và phần mềm để phát triển, hoàn thiện chương trình “mã độc” có chức năng tự động xâm nhập vào máy tính người khác; tự động thu thập thông tin máy tính, thông tin tài khoản lưu trên trình duyệt máy tính, thông tin tài khoản Facebook….
+
+Hoàn thiện xong chương trình, Văn Anh đã thống nhất với 10 bị cáo khác và chia thành 7 nhóm để thực hiện các hành vi sử dụng, phát tán mã độc, xâm nhập trái phép vào phương tiện điện tử của người khác, lấy cắp dữ liệu, sử dụng trái phép dịch vụ.
+
+Để công việc được thuận lợi, các bị cáo thuê căn hộ chung cư ở quận Thanh Xuân, thiết lập 5 bước cơ bản.
+
+Bước 1là xây dựng file kịch bản tuyển dụng (thông tin tuyển dụng lao động giả mạo các công ty nước ngoài bằng tiếng Anh) được nén trong thư mục lớn đuôi “.zip”, được gửi cho Văn Anh qua Telegram có tên “Về ăn cơm” để Văn Anh gửi cho Hiếu trực tiếp gắn “mã độc”.
+
+Bước 2, Hiếu có trách nhiệm gắn “mã độc” hoặc nâng cấp, cải tiến “mã độc” để hoạt động hiệu quả nhất, không bị các phần mềm diệt virut vô hiệu hóa.
+
+Bước 3, các bị cáo tạo đường link chứa kịch bản tuyển dụng có gắn “mã độc”.
+
+Bước 4là phát tán đường link trên lên mạng xã hội Linkedin.com bằng cách đăng bài viết giả mạo các nhà tuyển dụng lao động thu hút sự chú ý của người dùng mạng….
+
+
+
+Cơ quan tố tụng cũng xác định vụ án này có các nạn nhân ở nước ngoài, không có đầy đủ thông tin nên không xác định được thiệt hại.
+
+Khi có người quan tâm, nhấn xem bài đăng, nhắn tin, các bị cáo sẽ trao đổi công việc, vị trí tuyển dụng. Lúc ứng viên đã thực sự quan tâm đến công việc, các bị cáo gửi cho họ đường link file kịch bản tuyển dụng việc làm có gắn “mã độc”. Nếu bị hại tải file thì máy tính cá nhân của họ bị nhiễm “mã độc” và lấy cắp các thông tin.
+
+Bước cuối cùng, các bị cáo sử dụng “Cookie” đã bị lấy cắp để đăng nhập, quản trị trái phép và sử dụng Facebook của các nạn nhân để chạy quảng cáo, bán hàng trên các sàn thương mại điện tử quốc tế như AliExpress, Drropify, Onepags hoặc các trang bán hàng trực tuyến… để thu lợi.
+
+Các bị cáo cũng thay đổi, làm giả IP để tránh bị nghi ngờ.
+
+Vậy làm thế nào để kiếm tiền? Cáo trạng thể hiện, tại mục quảng cáo trên tài khoản Facebook của nạn nhân, các bị cáo chọn “pixel” (định hướng sở thích mua sắm cá nhân) đúng ngành hàng cần bán như đồ gia dụng, thời trang… rồi tạo chiến dịch chuyển đổi lượt mua hàng với “target” (nhắm mục tiêu) như chọn ngành hàng cần bán, độ tuổi từ 25-55 tuổi, quốc gia Hoa Kỳ, tải video và hình ảnh sản phẩm, tải ảnh giới thiệu sản phẩm, thêm “content”, thêm link bán hàng, đăng bài quảng cáo.
+
+Các bị cáo cũng thường xuyên kiểm tra tài khoản quảng cáo có hoạt động không, theo dõi tài khoản này cho đến khi bị phát hiện hoặc hết hạn phiên đăng nhập.
+
+Cáo trạng thể hiện, khi người mua nhấn vào link bán hàng, họ sẽ thông qua Cổng thanh toán trực tuyến để thanh toán tiền mua hàng. Người bán sẽ đóng hàng và gửi đến người mua. Người mua thanh toán tiền hàng cho các sàn thương mại điện tử. Trong giá của từng sản phẩm bao gồm chi phí nhập gốc sản phẩm, đóng gói sản phẩm, vận chuyển và lợi nhuận của người bán.
+
+Các bị cáo được hưởng một phần lợi nhuận do đã quảng cáo và bán được sản phẩm đó. Các sàn thương mại điện tử cộng dồn lợi nhuận từ các sản phẩm rồi chuyển vào tài khoản đăng ký trước. Sau đó, các bị cáo rút tiền về thẻ ngân hàng để chia nhau.
+
+Ngoài ra, các bị cáo còn sử dụng các tài khoản Facebook đã chiếm quyền điều khiển để chạy quảng cáo thuê cho các web bán hàng trực tuyến, page livestream để thu lợi.
+
+Với hành vi trên, các bị cáo thu lời bất chính hơn 14 tỷ đồng. Trong đó, Văn Anh hưởng lợi hơn 2,7 tỷ đồng; Hiếu hơn 3,7 tỷ đồng, Tiến hơn 674 triệu đồng… Sau khi xem xét, Văn Anh, Hiếu đều nhận mức án 4 năm 6 tháng tù. Các bị cáo còn lại bị tuyên với hình phạt tương xứng với hành vi phạm tội.
+
+
+
+Có 16 cá nhân là nhân viên cổng thanh toán, chủ các trang web bán hàng đã thuê quảng cáo hoặc các cá nhân đã cho các bị cáo mượn tài khoản, nhận tiền. Công an xác định họ không biết việc các bị cáo sử dụng tài khoản vào việc gì, không được chia lợi nhuận nên không có căn cứ xử lý hình sự.

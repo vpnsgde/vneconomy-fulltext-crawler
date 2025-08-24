@@ -1,0 +1,29 @@
+Điểm nhấn đầu tiên trong hợp tác lần này là việc hai bên phối hợp triển khai giải pháp thanh toán số toàn diện mobiPOS dành cho lĩnh vực hành chính công. Giải pháp này tích hợp hệ thống thanh toán không tiền mặt giữa nền tảng mobiPOS của MobiFone và các giải pháp thanh toán của VPBank như SmartPOS, SoftPOS, QR Payment, Ecompay… qua đó hỗ trợ các cơ quan nhà nước, trung tâm hành chính công, và các điểm giao dịch công cộng trong việc hiện đại hóa quy trình thu - chi, tăng cường tính minh bạch, tiện lợi và an toàn cho người dân. Hệ thống này đã được triển khai thí điểm thành công và sẵn sàng để nhân rộng tại các điểm giao dịch của MobiFone trên quy mô toàn quốc trong thời gian tới.
+
+Hai bên cũng đang hợp tác triển khai mô hình ngân hàng đại lý (Agent Banking) trên mạng lưới điểm bán, cửa hàng MobiFone trên toàn quốc. Mô hình này khi được triển khai sẽ cho phép người dân tại các khu vực nông thôn, vùng sâu vùng xa tiếp cận các dịch vụ tài chính cơ bản như mở tài khoản eKYC, nạp/rút tiền liên ngân hàng, thanh toán hóa đơn, nạp cước viễn thông, đăng ký thẻ tín dụng và vay tiêu dùng… thông qua hạ tầng sẵn có của MobiFone. Đây là một hướng đi giàu tiềm năng để thúc đẩy tài chính toàn diện và hỗ trợ mục tiêu phổ cập dịch vụ ngân hàng đến người dân chưa có tài khoản ngân hàng truyền thống.
+
+Hợp tác chiến lược giữa VPBank và MobiFone tập trung phát triển danh mục sản phẩm tài chính số tích hợp, lấy thiết bị di động làm điểm tiếp xúc trung tâm, bao gồm:
+
+Mở tài khoản VPBank, đăng ký thẻ tín dụng, và sử dụng dịch vụ tiết kiệm qua ứng dụng My MobiFone và ví điện tử MobiFone Money.
+
+Chấm điểm thuê bao di động (MobiScoring) – dựa trên phân tích hành vi tiêu dùng từ dữ liệu viễn thông.
+
+Mô hình thanh toán “tiêu trước trả sau” (Buy Now Pay Later) cho các dịch vụ viễn thông.
+
+Giải pháp định danh eKYC qua căn cước công dân gắn chip.
+
+Trong trung hạn, hai bên thống nhất cùng xây dựng nền tảng “SME Biz Hub” - một giải pháp tài chính – viễn thông toàn diện dành cho doanh nghiệp nhỏ và vừa. Giải pháp tích hợp đồng bộ các dịch vụ như hóa đơn điện tử, tín dụng doanh nghiệp, thẻ thanh toán chuyên biệt, gói data ưu đãi… nhằm hỗ trợ chuyển đổi số cho khối doanh nghiệp vừa và nhỏ tại Việt Nam.
+
+QUAN HỆ HỢP TÁC CÓ CHIỀU SÂU VÀ TẦM NHÌN DÀI HẠN
+
+Hợp tác giữa VPBank và MobiFone không chỉ dừng lại ở cấp độ sản phẩm, mà là kết quả của quá trình gắn kết chiến lược được khởi đầu từ năm 2017. Trong giai đoạn đầu, hai bên đã hợp tác triển khai dịch vụ vay tiêu dùng qua thuê bao, thẻ tín dụng đồng thương hiệu, chương trình ưu đãi và chăm sóc khách hàng chéo.
+
+Trong thời kỳ dịch Covid-19 (2020-2022), hai bên nhanh chóng phối hợp phát triển các giải pháp thanh toán không tiếp xúc (QR Pay), tích hợp ví điện tử và kết nối hệ sinh thái ngân hàng - viễn thông, góp phần đáp ứng nhu cầu giao dịch số tăng đột biến.
+
+Từ 2023-2025, hợp tác tiếp tục được nâng tầm với việc tích hợp sâu các giải pháp thanh toán và nền tảng vận hành của hai bên. Ngoài lĩnh vực tài chính - viễn thông, VPBank và MobiFone còn mở rộng hợp tác sang các dịch vụ công nghệ số như hệ thống CRM, eOffice, Cloud, truyền hình ClipTV, giải pháp y tế số và đào tạo tiếng Anh trực tuyến cho doanh nghiệp.
+
+Ông Nguyễn Đức Vinh - Tổng giám đốc Ngân hàng VPBank chia sẻ: “MobiFone không chỉ là đối tác cung cấp viễn thông, mà đã trở thành đối tác chuyển đổi số toàn diện của VPBank. Chúng tôi mong muốn mở rộng hợp tác cả về chiều sâu sản phẩm lẫn chiều rộng thị trường, tiếp tục kiến tạo các giá trị mới cho khách hàng và định hình hệ sinh thái số đa ngành kiểu mẫu tại Việt Nam.”
+
+Ông Tô Mạnh Cường - Thành viên HĐTV, Tổng giám đốc Tổng công ty Viễn thông MobiFone phát biểu tại lễ ký kết: “MobiFone và VPBank đã có mối quan hệ lâu dài qua hàng chục năm. Tôi tin tưởng rằng, với sự đồng lòng và quyết tâm từ hai phía, chúng ta sẽ xây dựng nên một mô hình hợp tác kiểu mẫu: hiệu quả, bền vững, đóng góp thiết thực vào công cuộc chuyển đổi số quốc gia và phát triển đất nước trong thời kỳ mới.”
+
+Thỏa thuận hợp tác chiến lược giữa VPBank và MobiFone đánh dấu bước tiến quan trọng trong quá trình tích hợp công nghệ viễn thông và tài chính số, hướng tới xây dựng hệ sinh thái dịch vụ toàn diện, lấy người dùng làm trung tâm. Sự hợp lực này không chỉ nâng cao trải nghiệm khách hàng mà còn mở rộng khả năng tiếp cận dịch vụ số tới toàn xã hội - đặc biệt tại các khu vực còn hạn chế về hạ tầng tài chính. Qua đó, hai bên cùng góp phần thúc đẩy nền kinh tế số, xây dựng quốc gia số an toàn, toàn diện và phát triển bền vững.

@@ -1,0 +1,15 @@
+Theo Bảo hiểm xã hội Việt Nam, hiện nay hệ thống cơ sở dữ liệu của ngành liên tục được làm giàu, cập nhật với thông tin của trên 98,7 triệu người dân; kết nối liên thông với gần 13.000 cơ sở khám chữa bệnh; có khoảng 620.000 đơn vị đăng ký và sử dụng dịch vụ công trực tuyến.
+
+Hệ thống giao dịch điện tử và Hệ thống Thông tin giám định bảo hiểm y tế tiếp nhận khoảng 300 triệu hồ sơ giao dịch trực tuyến/năm; thực hiện hơn 500 triệu xác thực và chia sẻ thông tin với các Bộ, ngành địa phương…
+
+Thực hiện Đề án 06 của Thủ tướng Chính phủ, Bảo hiểm xã hội Việt Nam đã kết nối thành công với cơ sở dữ liệu quốc gia về dân cư ngay khi được đưa vào vận hành chính thức. Hệ thống đã xác thực trên 74,1 triệu thông tin nhân khẩu có trong cơ sở dữ liệu quốc gia về bảo hiểm với cơ sở dữ liệu quốc gia về dân cư.
+
+Đồng thời, đã cung cấp, chia sẻ gần 72,3 triệu lượt thông tin cho cơ sở dữ liệu quốc gia về dân cư. Đến nay đã có trên 12.200 cơ sở khám chữa bệnh tra cứu thông tin thẻ bảo hiểm y tế bằng căn cước công dân gắn chíp (chiếm 95,4% tổng số cơ sở khám chữa bệnh bảo hiểm y tế), với hơn 10,5 triệu lượt tra cứu thông tin bảo hiểm y tế bằng căn cước công dân gắn chip thành công phục vụ khám chữa bệnh bảo hiểm y tế.
+
+Cùng với đó, ngành đã đưa vào triển khai ứng dụng “VssID – Bảo hiểm xã hội số” trên nền tảng thiết bị di động, hiện đã có trên 28 triệu tài khoản sử dụng để quản lý, kiểm soát quá trình tham gia, thụ hưởng chính sách. Thực hiện các dịch vụ công về bảo hiểm xã hội, bảo hiểm y tế; sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID và thẻ căn cước công dân gắn chíp để đi khám chữa bệnh...
+
+Việc tích hợp, triển khai các dịch vụ công trên Cổng Dịch vụ công quốc gia được triển khai tích cực, theo đó, ngành đã tiếp nhận từ Cổng Dịch vụ công quốc gia hơn 134.800 lượt giao dịch gia hạn thẻ bảo hiểm y tế theo hộ gia đình; triển khai thí điểm tích hợp công nghệ xác thực sinh trắc vân tay trên căn cước công dân gắn chíp trong khám chữa bệnh bảo hiểm y tế và tiếp nhận hồ sơ, trả kết quả giải quyết thủ tục hành chính tại bộ phận “Một cửa”.
+
+Tổng Giám đốc Bảo hiểm xã hội Việt Nam Nguyễn Thế Mạnh cho biết, với nguồn cơ sở dữ liệu được cập nhật thường xuyên và hệ thống công nghệ thông tin phủ rộng, việc kết nối liên thông, chia sẻ dữ liệu của ngành Bảo hiểm xã hội Việt Nam với các Bộ, ngành giúp chuẩn hóa dữ liệu, vừa phục vụ công tác quản lý vừa phục vụ cho việc cải cách, liên thông thủ tục hành chính, vì quyền - lợi ích của người dân, đơn vị và doanh nghiệp.
+
+Trong thời gian tới, Bảo hiểm xã hội Việt Nam tập trung đẩy mạnh ứng dụng công nghệ thông tin, chuyển đổi số, hoàn thiện cơ sở hạ tầng, hệ thống cơ sở dữ liệu chuyên ngành về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, đặc biệt là cơ sở dữ liệu quốc gia về bảo hiểm; tích hợp, kết nối, chia sẻ thông tin, dữ liệu với các Bộ, ngành…

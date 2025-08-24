@@ -1,0 +1,21 @@
+Đạo luật AI của châu Âu đã chính thức hiệu lực vào tháng 8, thiết lập các quy tắc để các hệ thống AI không trở thành mối đe dọa đối với xã hội. Tuy nhiên, đến nay, một số công ty công nghệ như Meta và Apple vẫn chưa triển khai các mô hình AI tại châu Âu do chưa có bộ đánh giá quy tắc cụ thể theo Đạo luật AI.
+
+Do đó, một công ty khởi nghiệp Thụy Sĩ là LatticeFlow cùng các đối tác, dưới sự hỗ trợ của các quan chức Liên minh Châu Âu đã phát triển công cụ LLM Checker để thử đo lường mức độ đáp ứng quy định của các mô hình AI được phát triển bởi các công ty công nghệ lớn như Meta và OpenAI trên.
+
+Công cụ này chấm điểm cho các mô hình AI trên hàng chục danh mục đánh giá như an ninh mạng, phúc lợi môi trường, quyền riêng tư và quản trị dữ liệu để xác định mức độ tuân thủ của các mô hình với thang điểm từ 0 đến 1. Theo đó, các mô hình AI do Alibaba, Anthropic, OpenAI, Meta và Mistral AI phát triển đều nhận được điểm trung bình từ 0,75 trở lên.
+
+Nghiên cứu phát hiện ra rằng một số mô hình AI chủ yếu không đạt yêu cầu về phân biệt đối xử và an ninh mạng. Chẳng hạn GPT-4 Turbo của OpenAI và Cloud của Alibaba đều đưa ra kết quả có tính phân biệt giới tính, chủng tộc.
+
+Được biết, các công ty không tuân thủ Đạo luật AI của EU phải đối mặt với khoản tiền phạt 35 triệu euro hoặc 7% doanh thu hàng năm toàn cầu. Điều này đã khiến các công ty dè dặt phát hành các mô hình của mình tại châu Âu do chưa có bất kỳ hướng dẫn kỹ thuật chi tiết nào. Bởi vậy, EU đang triệu tập các chuyên gia để soạn thảo một bộ quy tắc thực hành điều chỉnh công nghệ và sẽ ban hành khoảng đầu năm 2025.
+
+Song công cụ LLM Checker đã cung cấp những đánh giá cần thiết để cảnh báo các công ty về các nguy cơ không tuân thủ luật pháp của các mô hình. LatticeFlow cho biết LLM Checker sẽ được cung cấp miễn phí rộng rãi cho các nhà phát triển để tự kiểm tra mức độ tuân thủ của mô hình.
+
+Petar Tsankov, Giám đốc điều hành và đồng sáng lập của công ty, nói với Reuters rằng kết quả thử nghiệm nhìn chung là tích cực và cung cấp cho các công ty một lộ trình để họ tinh chỉnh các mô hình của mình phù hợp với Đạo luật AI.
+
+"EU vẫn đang tìm ra tất cả các tiêu chuẩn tuân thủ, nhưng chúng ta có thể thấy một số lỗ hổng trong các mô hình. Với công cụ này, chúng tôi tin rằng các nhà cung cấp mô hình có thể được chuẩn bị tốt để đáp ứng các yêu cầu quy định", Giám đốc điều hành của LatticeFlow nói.
+
+Một phát ngôn viên của Ủy ban Châu Âu nói với Euronews Next rằng Ủy ban hoan nghênh nghiên cứu này và khen ngợi nền tảng đánh giá mô hình AI "như một bước đầu tiên trong việc chuyển đổi Đạo luật AI của EU thành các yêu cầu kỹ thuật, giúp các nhà cung cấp mô hình AI triển khai Đạo luật AI".
+
+Trong khi đó, Tiến sĩ Ilia Kolochenko, Trợ lý Giáo sư về An ninh mạng tại Đại học Công nghệ Capitol, cho rằng báo cáo tóm tắt rất nhiều vấn đề về quyền riêng tư, an toàn và độ tin cậy với các mô hình GenAI lớn nhất, vốn đã được báo cáo ngày càng nhiều kể từ cuối năm 2022, thực tế, báo cáo chỉ là phần nổi của tảng băng.
+
+"Một cuộc kiểm toán toàn diện về các mô hình LLM, có toàn quyền truy cập vào dữ liệu đào tạo, thuật toán và lan can của LLM, có thể sẽ phơi bày hàng chục vi phạm khác, không chỉ Đạo luật AI của EU mà còn Quy định bảo vệ dữ liệu của EU (GDPR)”. Chưa kể, thiệt hại không thể khắc phục đối với môi trường cần thiết để đào tạo hoặc tinh chỉnh các LLM. "Tương lai của GenAI có vẻ nghiệt ngã, nói một cách nhẹ nhàng", ông đánh giá.

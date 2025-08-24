@@ -1,0 +1,41 @@
+Báo cáo tổng hợp tình hình an ninh mạng 2023 và dự đoán xu hướng năm 2024 vừa được Công ty An ninh mạng Việt Nam (VSEC) công bố cho biết bản đồ an ninh mạng thế giới trong năm 2023, theo đó các khu vực bị nhắm mục tiêu nhiều nhất, trong đó Ukraine là mục tiêu hàng đầu ở châu Âu tính theo số lượng hoạt động được quan sát, do các hoạt động liên quan đến cuộc chiến tranh với Nga.
+
+Israel cho đến nay vẫn là quốc gia bị nhắm mục tiêu nhiều nhất ở khu vực Trung Đông và Bắc Phi do vẫn là điểm nóng chính trị cũng như các hoạt động quân sự tại dải Gaza.
+
+Các nhóm hoạt động nhà nước Bắc Triều Tiên và Trung Quốc đã khiến Hàn Quốc và Đài Loan trở thành hai khu vực địa lý bị nhắm mục tiêu nhiều nhất và thứ hai trong khu vực châu Á-Thái Bình Dương.
+
+Đối với các lĩnh vực bị nhắm mục tiêu nhiều nhất theo khu vực gồm các hoạt động mạng cấp quốc gia thường nhắm vào nhiều lĩnh vực khác nhau trên toàn cầu.
+
+Các mục tiêu mềm dễ tấn công như các viện nghiên cứu, tổ chức phi chính phủ và các trường đại học, vẫn là các mục tiêu hàng đầu tương tự năm ngoái, vì các nhóm đe doạ dường như vẫn đang coi đây là các mục tiêu tiếp cận ban đầu dễ dàng hơn để tìm hiểu về chính sách hay khoa học và cộng đồng công nghệ của một quốc gia.
+
+
+
+Đồng thời việc nhắm vào các mục tiêu truyền thông như cơ quan chính phủ hay ngành công nghiệp quốc phòng sẽ khó khăn hơn khi khi căng thẳng địa chính trị gia tăng xung quanh chiến tranh Ukraine, Eo biển Đài Loan và các chương trình hạt nhân của Iran và Bắc Triều Tiên. Các tác nhân ngày càng tinh vi cũng cho phép các đối tượng nâng cao khả năng tiếp cận tới các mục tiêu khó tấn công hơn.
+
+Báo cáo của VSEC cũng dẫn báo cáo thống kê của Cybersecurity Ventures, trong năm 2023, thiệt hại bởi các vụ tấn công mạng là khoảng 8 nghìn tỷ USD (tương đương gần 196 triệu tỷ VNĐ) trên toàn thế giới. Điều đó cũng có nghĩa, một tháng thế giới thiệt hạ 667 tỷ USD, mỗi tuần thiệt hại 154 tỷ USD, mỗi ngày thiệt hại 21,9 tỷ USD, mỗi giờ thiệt hại 913 triệu USD, mỗi phút thiệt hại 15,2 triệu USD, và mỗi giây thiệt hại 255.000USD (gần 6,2 tỷ VNĐ).
+
+Ngoài ra, theo báo cáo Triển vọng Kinh tế thế giới năm 2023 do Quỹ Tiền tệ Quốc tế (IMF) dự báo thế giới đạt tổng sản phẩm quốc nội (GDP) là 105 nghìn tỷ USD năm 2023, như vậy thiệt hại bởi các vụ tấn công mạng năm 2023 chiếm tới 8% GDP của toàn thế giới.
+
+Các hình thức tấn công mạng phổ biến 2023, gồm: (1), đánh cắp danh tính (Identify attack) - các cuộc tấn công nhắm vào thông tin cá nhân của người dùng như tên đăng nhập, mật khẩu và thông tin cá nhân khác. Tội phạm đánh cắp sẽ sử dụng các thông tin cá nhân này để thực hiện lừa đảo, đánh cắp tài khoản ngân hàng hoặc tiến hành các hoạt động giả mạo khác/
+
+(2), tấn công lừa đảo (Phishing) - tấn công phishing là việc lừa đảo người dùng bằng cách giả mạo thông tin để thu thập thông tin cá nhân hoặc tài khoản. Nhằm đánh cắp thông tin cá nhân, tài khoản ngân hàng hoặc thông tin đăng nhập. Hình thức lừa đảo có thể từ email giả mạo, trang web giả, tin nhắn text giả hoặc các phương tiện trực tuyến khác.
+
+(3), mã độc (Ransomware) - một loại mã độc hại có khả năng mã hoá dữ liệu trên máy tính hoặc hệ thống, sau đó đòi tiền chuộc để giải mã.
+
+(4), xâm phạm mail doanh nghiệp (BEC) - các cuộc tấn công BEC liên quan đến việc lừa đảo qua email, thường là giả mạo các bên liên quan trong tổ chức để thực hiện các giao dịch tài chính mà doanh nghiệp không hề mong muốn. Mục đích để lấy cắp tiền hoặc thông tin tài khoản ngân hàng bằng cách thay đổi thông tin thanh toán trong các giao dịch kinh doanh
+
+(5), tấn công từ chối dịch vụ (DoS/DDoS) - hay còn gọi là tấn công từ chối dịch vụ phân tán. Đây là hình thức tấn công mạng khiến cho một dịch vụ trực tuyến hoặc một hệ thống trở nên không khả dụng đối với người dùng. Kẻ tấn công sử dụng nhiều máy tính hoặc thiết bị kết nối internet (botnet) để gửi lượng lớn yêu cầu đến một dịch vụ hoặc hệ thống mục tiêu khiến hệ thống không thể xử lý được.
+
+Tại Việt Nam, báo cáo của VSEC cho biết trong 9 tháng đầu năm 2023, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã ghi nhận, cảnh báo và hướng dẫn xử lý 9.503 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam. Trong đó, Cục An toàn thông tin ghi nhận 8.168 cuộc tấn công lừa đảo, 451 cuộc tấn công Deface (thay đổi nội dung website), 884 cuộc tấn công mã độc.
+
+Ngoài ra, các cuộc tấn công sử dụng mã độc tống tiền nhắm vào các tổ chức, cơ sở hạ tầng công nghiệp đã tăng gần gấp đôi so với năm 2022. Trong đó với hơn 70% tổng số cuộc tấn công bằng mã độc tống tiền tập trung vào ngành sản xuất, cho thấy tin tặc tiếp tục nhắm mục tiêu rộng rãi vào lĩnh vực quan trọng này.
+
+“Việt Nam đứng đầu trong top 10 quốc gia có số lượng mục tiêu bị tấn công bởi phần mềm độc hại Infostealer tại khu vực Châu Á Thái Bình Dương – theo nghiên cứu từ Cyberint tại Châu Á năm 2023”, báo cáo nhấn mạnh.
+
+Cũng theo báo cáo của VSEC, trong năm 2023, tỷ lệ sự cố về truy cập trái phép, chiếm quyền điều khiển đang là sự cố an toàn thông tin có tỷ trọng lớn nhất, đặc biệt chủ yếu nhằm vào các doanh nghiệp thuộc nhóm ngân hàng - tài chính - bảo hiểm. Tổng số lượng sự cố VSEC giám sát bảo mật trong năm 2023 là 148.615 sựcố và 2.630 lỗ hổng bảo mật.
+
+Ghi nhận trong năm 2023 cho khối ngân hàng - tài chính - bảo hiểm cho thấy tỷ lệ truy cập trái phép, chiếm quyền điều khiển 28%, sự cố bảo mật trên web 26%, tiếp sau là sựcố bảo mật Kết hợp nhiều kỹ thuật 23%, mã độc 8%, phishing lừa đảo 7% và chỉ có 1% là tấn công bằng DoS/DDoS.
+
+Đối với các khối doanh nghiệp và khối hành chính công hình thức tấn công bằng web chiếm tỷ lệ tới 62% (Enterprise) và 59% (Public Sector) còn lại là hình thức tấn công bằng mã độc là 38% và 41%. Và dường như các hệ thống công nghệ thông tin với đích đến yếu nhất là website mà các kẻ tấn công nhắm đến vẫn tập trung vào các kênh hiện diễn dễ dàng tìm kiếm nhất trên Internet.
+
+Về xu hướng năm 2024, VSEC cho rằng các loại hình tấn công mạng sẽ trở thành xu hướng năm 2024 là tấn công bằng mã độc tốc tống tiền (ransomeware) và các vụ tấn công liên quan đến trí tuệ nhân tạo. Các hệ thống nguồn mở, hệ thống IoT, hệ thống vận hành (OT), email doanh nghiệp và môi trường điện toán đám mây sẽ là những mục tiêu bị nhắm đến phổ biến bởi tin tặc.

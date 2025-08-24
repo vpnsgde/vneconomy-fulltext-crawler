@@ -1,0 +1,69 @@
+Theo Tổ chức Năng lượng Quốc tế (IEA), việc đốt nhiên liệu hóa thạch chiếm hơn 75% tổng lượng phát thải GHG trên toàn cầu, trong khi ngành dầu khí chịu trách nhiệm trực tiếp cho gần 15% lượng phát thải từ năng lượng.
+
+Các doanh nghiệp không thích ứng kịp thời với quá trình chuyển đổi sẽ đối mặt tình trạng “chôn vùi tài sản”, làm giảm giá trị đầu tư và sức cạnh tranh trên thị trường. Ngược lại, những doanh nghiệp chuyển hướng sang các giải pháp năng lượng sạch sẽ có cơ hội phát triển trong thị trường năng lượng tái tạo, công nghệ điện khí hóa và quản lý carbon đang phát triển mạnh mẽ.
+
+Một nghiên cứu toàn diện của Đại học Stanford (2018) dựa trên dữ liệu từ gần 9.000 mỏ dầu tại 90 quốc gia- chiếm đến 98% sản lượng toàn cầu đã vẽ nên một bức tranh đáng lo ngại về mức độ phát thải khí nhà kính của ngành công nghiệp dầu khí. Trung bình, mỗi megajoule (MJ) năng lượng từ dầu thô tạo ra khoảng 10,3 gram CO₂ tương đương (CO₂eq). Tuy nhiên, sự khác biệt giữa các quốc gia là rất lớn, từ mức thấp 3,3 gram ở Đan Mạch đến mức cao kỷ lục 20,3 gram tại Algeria, chênh nhau 6 lần.
+
+Nghiên cứu cho thấy có 3 yếu tố chính quyết định mức phát thải carbon trong quá trình khai thác dầu khí.
+
+Thứ nhất,quá trình đốt khí đồng hành (gas flaring) là một trong những nguyên nhân phát thải nghiêm trọng nhất. Đây là hành động đốt bỏ khí tự nhiên mà chủ yếu là methane vốn được giải phóng cùng với dầu thô trong quá trình khai thác. Thay vì thu gom và tái sử dụng nguồn khí này để phát điện hoặc phục vụ công nghiệp, nó bị đốt cháy ngay tại miệng giếng dầu,  thường là bởi thiếu cơ sở hạ tầng hoặc lý do kinh tế.
+
+Việc đốt bỏ này không chỉ lãng phí tài nguyên mà còn tạo ra lượng lớn khí nhà kính, bao gồm CO₂ và các chất ô nhiễm khác. Hoạt động này là nguồn phát thải lớn tại nhiều quốc gia, điển hình như Algeria (chiếm 41% tổng phát thải ngành), Iraq (40%), Nigeria (36%) và Iran (21%). Đáng lưu ý, tại Mỹ, sản lượng khí bị đốt bỏ đã tăng từ 36 lên 122 scf/bbl trong giai đoạn 2010–2015.
+
+Thứ hai, thách thức đến từ việc khai thác dầu nặng và cát dầu- những dạng dầu có độ nhớt cao và chứa nhiều tạp chất, khiến quá trình khai thác và xử lý trở nên khó khăn và tiêu tốn năng lượng hơn nhiều so với dầu nhẹ thông thường. Để tách được dầu ra khỏi cát hoặc bơm lên từ lòng đất, cần sử dụng các kỹ thuật như bơm hơi nước, đốt nóng tại chỗ hoặc dùng dung môi hóa học, vốn đòi hỏi lượng nhiên liệu đầu vào rất lớn.
+
+Ở Canada và Venezuela, quá trình này phát thải khí nhà kính nhiều hơn gấp 2-3 lần so với dầu thông thường, khiến loại hình khai thác này trở thành một trong những nguồn phát thải carbon cao nhất trong ngành dầu khí. Riêng tại California (Mỹ), việc ứng dụng phương pháp bơm hơi đã tăng 30% trong giai đoạn 2012–2015, kéo theo lượng khí thải tăng đáng kể.
+
+Thứ ba, tình trạng rò rỉ methane- một loại khí nhà kính có sức giữ nhiệt cao hơn CO₂ nhiều lần. Methane trong trường hợp này không bị đốt, mà rò rỉ trực tiếp ra môi trường trong quá trình khai thác, vận chuyển hoặc lưu trữ dầu khí. Đây là vấn đề nghiêm trọng vì methane giữ nhiệt mạnh gấp 25-30 lần CO₂ trong vòng 100 năm và tới hơn 80 lần nếu xét trong 20 năm đầu. Ước tính năm 2022, riêng ngành dầu khí đã làm rò rỉ khoảng 135 triệu tấn methane- tương đương hơn 3 tỷ tấn CO₂eq, theo báo cáo của Global Methane Tracker.
+
+Tuy nhiên, không phải quốc gia dầu khí nào cũng chịu chung mức phát thải cao. Na Uy và Ả Rập Xê-út là hai ví dụ điển hình cho việc kiểm soát hiệu quả khí thải nhờ công nghệ tiên tiến và quản trị tốt. Na Uy đã hạ tỷ lệ đốt khí đồng hành xuống dưới 1% thông qua hệ thống thu gom và tái sử dụng khí, đồng thời vận hành các giàn khoan ngoài khơi bằng nguồn điện sạch từ thủy điện…
+
+Những phát hiện này cho thấy sự chênh lệch đáng kể giữa các nước sản xuất dầu về hiệu suất môi trường mà còn mở ra cơ hội cắt giảm phát thải khí nhà kính thông qua việc ưu tiên khai thác những mỏ dầu có cường độ carbon thấp, đồng thời đẩy mạnh đầu tư công nghệ nhằm cải thiện hiệu quả tại các mỏ có mức phát thải cao. Nếu được tận dụng đúng cách, những khoảng chênh này có thể trở thành đòn bẩy giúp ngành dầu khí góp phần đáng kể vào nỗ lực toàn cầu ứng phó với biến đổi khí hậu.
+
+Trên thực tế, quá trình chuyển đổi sang nền kinh tế ít carbon đang tạo ra cả cơ hội và thách thức cho ngành dầu khí. Theo Tổ chức Năng lượng Quốc tế (IEA), sự thay đổi trong hệ thống năng lượng toàn cầu đã bắt đầu, nhờ vào các tiến bộ công nghệ, sự thay đổi thói quen tiêu dùng và các chính sách khí hậu nghiêm ngặt. Tuy nhiên, để đạt mục tiêu phát thải ròng bằng không vào giữa thế kỷ, tiến trình này cần phải được đẩy nhanh hơn nữa.
+
+Một trong những rủi ro lớn là các "rủi ro vật lý" liên quan đến tác động trực tiếp của biến đổi khí hậu như các hiện tượng thời tiết cực đoan ngày càng gia tăng, có thể gây hại cho cơ sở hạ tầng của ngành dầu khí. Đồng thời, "rủi ro chuyển đổi" liên quan đến những thay đổi trong thị trường, các chính sách khí hậu mới và các vụ kiện pháp lý có thể ảnh hưởng đến khả năng sinh lợi của các hoạt động khai thác và chế biến dầu khí truyền thống.
+
+Những rủi ro này sẽ gây tác động tài chính nghiêm trọng. Các doanh nghiệp không thể thích ứng kịp thời với quá trình chuyển đổi sẽ gặp phải tình trạng “chôn vùi tài sản”, làm giảm giá trị đầu tư và mất đi sức cạnh tranh trên thị trường. Ngược lại, những doanh nghiệp chuyển hướng sang các giải pháp năng lượng sạch sẽ có cơ hội phát triển trong các thị trường năng lượng tái tạo, công nghệ điện khí hóa và quản lý carbon đang phát triển mạnh mẽ.
+
+
+
+Đầu tư ban đầu là rất quan trọng để tránh tình trạng "khóa chặt cơ sở hạ tầng" và đảm bảo quá trình chuyển đổi suôn sẻ. Hành động chậm trễ sẽ làm tăng chi phí dài hạn, gián đoạn nguồn cung và tài sản bị chôn vùi. IEA chỉ rõ: “mỗi đô la không chi cho năng lượng sạch hôm nay sẽ cộng dồn thành 4,5 đô la chi phí chuyển đổi trong tương lai”.
+
+Giảm phát thải methane là một trong những cơ hội chi phí thấp, có hiệu quả cao nhất nhưng cũng là thách thức trong giảm phát thải khí nhà kính của ngành dầu khí.
+
+Theo IEA, khoảng 75% lượng phát thải methane từ các hoạt động dầu khí có thể được giảm thiểu thông qua ứng dụng các công nghệ hiện có. Các công nghệ này bao gồm các chương trình phát hiện và sửa chữa rò rỉ (LDAR), cải tiến các máy nén khí và thay thế các bộ điều khiển bằng khí nén.
+
+Những biện pháp trên không chỉ khả thi về mặt kỹ thuật mà còn mang lại lợi ích kinh tế rõ rệt, đặc biệt là tại các khu vực có quy định về đốt khí hay có hệ thống giá carbon.
+
+Thực tế cho thấy, tuy có cơ hội trong việc giảm phát thải methane nhưng triển khai các biện pháp này vẫn còn thiếu sự đồng bộ và hiệu quả. Theo phân tích của IEA, chỉ khoảng 10% lượng phát thải methane từ ngành dầu khí hiện nay đang được kiểm soát thông qua các quy định bắt buộc. Do đó, việc tăng cường hợp tác quốc tế, xây dựng các tiêu chuẩn báo cáo minh bạch và thúc đẩy các sáng kiến giảm phát thải methane như Chương trình Đối tác Methane Dầu khí (OGMP 2.0) là yếu tố then chốt để đẩy nhanh tiến trình này.
+
+Mặc dù cam kết khí hậu đang gia tăng nhưng chi tiêu vốn của các công ty dầu khí vẫn nghiêng mạnh về các dự án nhiên liệu hóa thạch truyền thống. Theo IEA, chỉ có 2,5% chi tiêu vốn dầu khí thượng nguồn được hướng tới các lựa chọn giảm phát thải vào năm 2022. Mức độ đầu tư này phải tăng lên hơn 50% vào năm 2030 trong kịch bản phát thải ròng bằng 0.
+
+Các doanh nghiệp cần theo đuổi chiến lược đầu tư dài hạn, biết cân đối giữa lợi nhuận ngắn hạn và khả năng thích ứng trong tương lai. Điều này đòi hỏi việc áp dụng các công cụ quản trị khí hậu tiên tiến như thiết lập giá carbon nội bộ, lập kế hoạch theo kịch bản biến đổi khí hậu, và công bố rủi ro phù hợp với khuyến nghị của Nhóm công tác về công bố thông tin tài chính liên quan đến khí hậu (TCFD).
+
+Các tổ chức tài chính cũng đóng vai trò then chốt trong quá trình chuyển đổi này. Thông qua việc định hướng lại hoạt động cho vay và bảo lãnh theo các mục tiêu phát thải ròng bằng 0, họ không chỉ điều phối dòng vốn vào các giải pháp năng lượng bền vững, mà còn có thể gây áp lực buộc các doanh nghiệp chưa đáp ứng chuẩn mực phải chịu trách nhiệm và cải thiện hiệu suất môi trường.
+
+Các chuyên gia cho rằng hệ quả của việc không đồng bộ hóa ngành dầu khí với các con đường NetZero là rất nghiêm trọng. Việc tiếp tục đầu tư vào các dự án phát thải cao có thể làm vượt quá mục tiêu khí hậu, gia tăng các rủi ro vật lý và gây ra bất ổn xã hội và kinh tế.
+
+Theo đánh giá của Ủy ban Liên Chính phủ về Biến đổi Khí hậu (IPCC), việc vượt quá mức tăng nhiệt 1,5°C có thể dẫn đến các tác động khí hậu không thể đảo ngược, bao gồm sự tăng mực nước biển, mất đa dạng sinh học và các sự kiện thời tiết cực đoan. Những phát triển này sẽ ảnh hưởng không tương xứng đến các nhóm dễ bị tổn thương và làm suy yếu các mục tiêu phát triển toàn cầu.
+
+Hơn nữa, các rủi ro pháp lý và quy định đang gia tăng. Chính phủ đang ngày càng áp dụng giá carbon, các tiêu chuẩn khí thải và các kế hoạch loại bỏ nhiên liệu hóa thạch. Các nhà đầu tư yêu cầu các chiến lược phù hợp với khí hậu trong khi các vụ kiện chống lại các công ty phát thải cao đang gia tăng.
+
+Trong bối cảnh này, sự lãnh đạo chủ động của ngành dầu khí không chỉ là một nghĩa vụ đạo đức mà còn là một yêu cầu chiến lược. Các công ty nắm bắt quá trình chuyển đổi có thể xây dựng các dòng doanh thu mới, tăng cường lòng tin của các bên liên quan và định vị mình là đối tác trong hành động khí hậu.
+
+Theo các chuyên gia, để giảm phát thải khí nhà kính từ ngành dầu khí, đòi hỏi cần triển khai một loạt giải pháp chiến lược dựa trên khoa học và công nghệ.
+
+Thứ nhất, cần xây dựng và mở rộng các tiêu chuẩn nhiên liệu dựa trên đánh giá vòng đời (Life Cycle Assessment– LCA) nhằm đánh giá đầy đủ lượng phát thải từ khai thác đến sử dụng nhiên liệu. Các chính sách như tiêu chuẩn nhiên liệu sạch của California (Mỹ), British Columbia (Canada) hay Liên minh châu Âu (EU) đã chứng minh tính hiệu quả trong việc tạo động lực thị trường để cải tiến công nghệ mà không áp đặt loại nhiên liệu cụ thể. Việc mở rộng những chính sách này ở cấp quốc gia và quốc tế có thể tạo ưu đãi rõ ràng cho các nhà sản xuất dầu có cường độ carbon thấp, tức là phát thải ít CO₂ trên mỗi đơn vị năng lượng.
+
+Thứ hai, cần tăng cường minh bạch trong báo cáo và công bố dữ liệu phát thải. Sự thiếu minh bạch về dữ liệu kỹ thuật là rào cản lớn trong việc theo dõi và giảm phát thải. Các quốc gia như Na Uy, Canada, Anh, Đan Mạch đã đi đầu trong việc bắt buộc công bố thông tin từ các cơ sở khai thác dầu khí. Điều này đặc biệt quan trọng trong bối cảnh Thỏa thuận Paris yêu cầu báo cáo phát thải thường niên một cách minh bạch và có trách nhiệm.
+
+Thứ ba, nên ưu tiên khai thác các nguồn tài nguyên có cường độ carbon thấp. Sự khác biệt về cường độ carbon giữa các mỏ dầu có thể dẫn đến chênh lệch lớn trong tổng lượng phát thải. Việc lựa chọn các mỏ dầu ít phát thải như dầu đá phiến thay vì cát dầu là yếu tố quan trọng để giảm phát thải tích lũy toàn cầu.
+
+Thứ tư, thúc đẩy công nghệ khai thác và xử lý dầu khí ít phát thải. Các sáng kiến như sử dụng năng lượng mặt trời để tạo hơi nước tại các mỏ dầu nặng ở Oman và California cho thấy tiềm năng giảm đáng kể lượng phát thải CO₂. Bên cạnh đó, có thể sử dụng hydro sạch từ gió hoặc sinh khối, công nghệ hạt nano, hay các giải pháp thu hồi, sử dụng và lưu trữ carbon (Carbon Capture, Utilization, and Storage– CCUS) để giảm phát thải tại nguồn.
+
+Thứ năm, cần kiểm soát chặt chẽ việc đốt bỏ khí đồng hành (flaring) và rò rỉ methane- những nguồn phát thải lớn nhưng có thể tránh được. Ví dụ, Canada yêu cầu giảm sản lượng nếu không kiểm soát được flaring. Các quốc gia cần gắn khai thác dầu với đầu tư hạ tầng thu hồi khí đồng hành để tránh lãng phí và giảm phát thải.
+
+Thứ sáu, khí methane cần được giám sát và thu hồi hiệu quả hơn thông qua công nghệ cảm biến hiện đại như vệ tinh. Theo IEA, khoảng 40-50% lượng methane từ ngành dầu khí có thể được loại bỏ mà không phát sinh chi phí ròng, thậm chí có thể mang lại lợi nhuận.
+
+Thứ bảy, hợp tác quốc tế đóng vai trò thiết yếu trong quá trình chuyển đổi. Các diễn đàn như G20, Clean Energy Ministerial và COP có thể thúc đẩy chia sẻ công nghệ, đồng bộ hóa tiêu chuẩn phát thải và hỗ trợ các quốc gia đang phát triển thông qua tài chính khí hậu và chuyển giao công nghệ. Chỉ khi các quốc gia hành động cùng nhau, quá trình hướng đến mục tiêu phát thải ròng bằng 0 mới có thể đạt được một cách công bằng và hiệu quả...

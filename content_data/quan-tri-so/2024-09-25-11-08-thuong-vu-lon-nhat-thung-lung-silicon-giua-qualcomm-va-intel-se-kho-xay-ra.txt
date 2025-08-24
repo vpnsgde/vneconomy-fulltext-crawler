@@ -1,0 +1,27 @@
+Vào tuần trước, truyền thông đồng loạt đưa tin về một thương vụ chấn động Thung lũng Silicon với động thái của công ty bán dẫn Qualcomm tiếp cận Intel với ý định mua lại.
+
+Qualcomm không phải là cái tên xa lạ ở Thung lũng Silicon. Công ty được thành lập vào năm 1985, nghĩa là 39 năm trước về trước. Kể từ đó, họ đã phát triển thành một công ty trị giá hơn 188 tỷ USD, chuyên về các lĩnh vực như mạng không dây, bộ xử lý điện thoại thông minh và modem.
+
+Đối với Intel, công ty thiết kế và sản xuất chip đã có lịch sử hoạt động 56 năm, nhiều hơn Qualcomm. Tuy nhiên những rắc rối gần đây nảy sinh tại Intel đã khiến công ty mất hơn một nửa giá trị trong năm nay, vốn hóa thị trường giảm xuống chỉ còn hơn 93 tỷ USD.
+
+Trong khi một số đối thủ cạnh tranh hàng đầu của Intel như Nvidia - đã vươn lên tầm cao mới nhờ sự bùng nổ của AI, Intel lại phải vật lộn đối với công nghệ mới này. Họ cũng phải vật lộn với những thách thức về sản xuất và chiến lược. Công ty đã sa sút nghiêm trọng vào tháng 8 - tháng mất gần 30 tỷ USD giá trị thị trường sau khi tuyên bố sa thải 15.000 nhân viên và tạm dừng chia cổ tức từ quý 4/2024.
+
+Các cuộc đàm phán của Qualcomm để tiếp quản hoạt động kinh doanh đang ở giai đoạn đầu và mang tính thăm dò, tuy nhiên vẫn vấp phải nhiều rào cản.
+
+Phát biểu đối với truyền thông vào tuần trước, Patrick Moorhead - một nhà phân tích trong ngành cho biết việc Intel sở hữu các lĩnh vực chính như trung tâm dữ liệu và thị trường PC, cũng như khả năng sản xuất chip của họ là điều mà Qualcomm đang thiếu và họ phải thuê công ty TSMC (Đài Loan) để xử lý những quy trình đó.
+
+Giám đốc điều hành Intel, ông Pat Gelsinger đã công bố một loạt các biện pháp quyết liệt vào tuần trước nhằm mang lại sự thay đổi cho công ty, từ đó có thể đưa công ty đi theo con đường tươi sáng hơn. Ông cho biết những điều này bao gồm một thỏa thuận nhiều năm, trị giá nhiều tỷ USD để thực hiện các thiết kế chip tùy chỉnh với Amazon Web Services - một công ty công nghệ “nặng ký”, tạm dừng kế hoạch xây dựng nhà máy ở châu u và tách đơn vị sản xuất Intel - Foundry, thành thực thể riêng của mình. Điều đó nói lên rằng không phải ai cũng tin rằng việc mua lại sẽ là một ý tưởng hay cho cả hai công ty.
+
+Richard Windsor, một nhà phân tích đồng thời là người sáng lập Radio Free Mobile, cho rằng nghe có vẻ sẽ rất hấp dẫn khi sáp nhập một công ty chuyên thiết kế chip và một công ty sở hữu nhà máy sản xuất, tuy nhiên rất nhiều công ty con của Intel sẽ không phù hợp.
+
+Bộ xử lý x86 của Intel tụt hậu so với các sản phẩm của Qualcomm và đối thủ Arm. Ông nói thêm việc thiết kế lại chip để Intel sản xuất nghe có vẻ là một đề xuất mạo hiểm. Nguyên nhân là vì Qualcomm đã thiết lập được mối quan hệ hoàn chỉnh với các nhà sản xuất như Taiwan Semiconductor Manufacturing Co (TSMC).
+
+Ming-Chi Kuo, nhà phân tích thị trường Đài Loan tại công ty dịch vụ tài chính TF International Securities thậm chí đã chia sẻ trên bài đăng mạng xã hội vào cuối tuần qua rằng việc tiếp quản Intel có thể là “thảm họa” đối với Qualcomm.
+
+Lý do của ông là trọng tâm quan trọng nhất của Qualcomm là thiết lập khả năng cạnh tranh về chip AI cho các phân khúc như điện thoại thông minh và ông không thấy việc mua lại Intel sẽ giúp ích gì. Nó có thể nâng cao vị thế của Qualcomm trên thị trường PC AI, nhưng nhà phân tích cho biết ông nghĩ Qualcomm đã có chỗ đứng vững chắc trong lĩnh vực đó, với bộ xử lý được sử dụng trong nền tảng Windows on Arm của Microsoft - một phiên bản Windows chạy trên công nghệ Arm.
+
+Ông viết: “Mặc dù việc mua lại Intel có thể nhanh chóng tăng thị phần PC của Qualcomm nhưng nó lại có chi phí đáng kể. Qualcomm có thể phát triển trên thị trường PC AI ngay cả khi không mua lại".
+
+Cũng chưa rõ Qualcomm sẽ huy động vốn để mua Intel bằng cách nào khi tiền mặt hiện có của công ty là 13 tỷ USD. Những tác động đến cạnh tranh có thể sẽ gây ra cảnh báo cho các cơ quan quản lý. Việc Qualcomm chào mua Intel có thể phải đối mặt với những trở ngại pháp lý tương tự đối với nỗ lực tiếp quản Arm của Nvidia vào năm 2020, dự án mà hãng này đã từ bỏ vào năm 2022. Tất nhiên, Intel sẽ muốn xem xét các lựa chọn của mình.
+
+Vào ngày 22/9, Bloomberg đưa tin một lựa chọn mới đã được đưa ra sau khi gã khổng lồ đầu tư Apollo đề nghị thực hiện khoản đầu tư hàng tỷ USD vào Intel. Lựa chọn mới có thể mang lại cho công ty chip nguồn vốn quan trọng cho các kế hoạch mới và giúp công ty có thể tự đứng vững trên đôi chân của mình.

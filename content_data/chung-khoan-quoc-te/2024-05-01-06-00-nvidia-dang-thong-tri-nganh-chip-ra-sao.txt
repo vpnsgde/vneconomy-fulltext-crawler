@@ -1,0 +1,25 @@
+Kể từ tháng 1/2023, giá cổ phiếu của Nvidia - nhà sản xuất chip hàng đầu thế giới đã tăng gần 450%. Với vốn hóa lên tới gần 2 nghìn tỷ USD, Nvidia hiện là công ty có giá trị thứ ba ở Mỹ, sau Microsoft và Apple. Hầu hết các nhà phân tích đều kỳ vọng rằng Nvidia, công ty kiểm soát hơn 95% thị trường chip AI chuyên dụng, sẽ tiếp tục phát triển với tốc độ chóng mặt trong tương lai gần.
+
+Điều gì làm cho chip của hãng trở nên đặc biệt? Chip AI của Nvidia, còn được gọi là bộ xử lý đồ họa (GPU) ban đầu được thiết kế cho trò chơi điện tử. Họ sử dụng quá trình xử lý tác vụ song song, chia mỗi phép tính thành các phần nhỏ hơn, sau đó phân phối chúng giữa nhiều “lõi” trong chip. Điều đó có nghĩa GPU có thể chạy các thuật toán nhanh hơn nhiều so với khi thực hiện các yêu cầu theo tuần tự.
+
+Cách tiếp cận này rất lý tưởng cho việc chơi game: đồ họa sống động như thật đòi hỏi vô số pixel được hiển thị đồng thời trên màn hình. Chip hiệu năng cao của Nvidia hiện chiếm 4/5 GPU chơi game.
+
+Các con chip của hãng đã có những ứng dụng rộng rãi hơn nhiều trong các lĩnh vực như khai thác tiền điện tử, xe tự lái và quan trọng nhất là đào tạo các mô hình AI. Các thuật toán học máy, làm nền tảng cho AI, sử dụng một nhánh của học sâu có tên mạng thần kinh nhân tạo.
+
+Trong các mạng này, máy tính trích xuất các quy tắc và mẫu từ bộ dữ liệu khổng lồ. Việc huấn luyện mạng bao gồm các phép tính quy mô lớn—nhưng vì các tác vụ có thể được chia thành các phần nhỏ nên khi xử lý song song giúp dễ dàng tăng tốc mọi tác vụ. Một GPU hiệu suất cao có thể có hơn một nghìn lõi nên nó có thể xử lý hàng nghìn phép tính cùng một lúc.
+
+Khi Nvidia nhận ra rằng các máy tăng tốc của mình có hiệu quả cao trong việc đào tạo các mô hình AI, họ đã tập trung vào việc tối ưu hóa chúng. Các chip của Nvidia giờ đây đã bắt kịp với các mô hình AI phức tạp hơn bao giờ hết: trong thập kỷ đến năm 2023, Nvidia đã tăng tốc độ tính toán lên 1.000 lần.
+
+Nhưng mức định giá tăng vọt của Nvidia không chỉ nhờ tốc độ chip nhanh hơn mà còn bởi 2 yếu tố quan trọng khác. Một là kết nối mạng. Khi các mô hình AI tiếp tục phát triển, các trung tâm dữ liệu cần hàng nghìn GPU được kết hợp với nhau để tăng sức mạnh xử lý (hầu hết các máy tính chỉ sử dụng một số ít).
+
+Nvidia kết nối GPU của mình thông qua mạng hiệu suất cao dựa trên các sản phẩm của Mellanox, nhà cung cấp công nghệ mạng mà họ mua lại vào năm 2019 với giá 7 tỷ USD. Điều này cho phép họ có khả năng tối ưu hóa hiệu suất của mạng chip theo cách mà các đối thủ không thể sánh được.
+
+Thế mạnh khác của Nvidia là cuda, một nền tảng phần mềm cho phép khách hàng tinh chỉnh hiệu suất của bộ xử lý. Nvidia đã đầu tư vào phần mềm này từ giữa những năm 2000 và từ lâu đã khuyến khích các nhà phát triển sử dụng nó để xây dựng và thử nghiệm các ứng dụng AI. Điều này đã làm cho cuda trở thành tiêu chuẩn công nghiệp trên thực tế.
+
+Tỷ suất lợi nhuận hấp dẫn của Nvidia và sự tăng trưởng nhanh chóng của thị trường máy gia tốc AI (dự kiến đạt 400 tỷ USD mỗi năm vào năm 2027) đã thu hút các đối thủ cạnh tranh. Amazon và Alphabet đang chế tạo chip AI cho trung tâm dữ liệu của họ Các nhà sản xuất chip và công ty khởi nghiệp lớn khác cũng muốn có một phần hoạt động kinh doanh của Nvidia. Vào tháng 12/2023, Advanced Micro Devices, một nhà sản xuất chip khác, đã tiết lộ một con chip mạnh gấp đôi con chip tiên tiến nhất của Nvidia.
+
+Nhưng ngay cả việc xây dựng phần cứng tốt hơn cũng có thể vẫn chưa đủ. Nvidia thống trị ngành sản xuất chip AI vì cung cấp những con chip tốt nhất, bộ kết nối mạng tốt nhất và phần mềm tốt nhất. Bất kỳ đối thủ cạnh tranh nào muốn thay thế gã khổng lồ bán dẫn sẽ cần phải đánh bại Nvidia ở cả ba lĩnh vực này, điều này sẽ cần một khoảng thời gian rất dài.
+
+Gần đây nhất, Nvidia đã có một thương vụ lớn tại Việt Nam là ký kết hợp tác với FPT. Với hợp tác này, FPT dự kiến đầu tư 200 triệu USD để xây dựng AI Factory cung cấp nền tảng điện toán đám mây phục vụ nghiên cứu phát triển AI và có chủ quyền tại Việt Nam.
+
+Nhà máy bao gồm các hệ thống siêu máy tính hoạt động trên công nghệ mới nhất của NVIDIA (bao gồm bộ ứng dụng - khung công nghệ phát triển NVIDIA AI Enterprise và chip đồ họa GPU H100 Tensor Core).

@@ -1,0 +1,25 @@
+Cục An toàn thông tin vừa cho biết, trong tháng 10/2022, Hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) đã ghi nhận 517.627 địa chỉ IP của Việt Nam nằm trong mạng botnet (giảm 2,49% so với tháng 9/2022). Trong số đó có 224 địa chỉ IP của cơ quan, tổ chức nhà nước (20 địa chỉ IP Bộ/Ngành, 204 địa chỉ IP Tỉnh/Thành).
+
+Cụ thể, trong tháng 10, Bộ Khoa học và Công nghệ có số địa chỉ IP nằm trong mạng botnet nhiều nhất (8 địa chỉ); Đài Tiếng nói Việt Nam (7 địa chỉ); Kiểm toán Nhà nước và Bộ Tư Pháp (1 địa chỉ).
+
+Về phía các địa phương, Lai Châu có số lượng địa chỉ IP nằm trong mạng botnet lớn nhất (33 địa chỉ); tiếp đó là Thanh Hóa (18); Nam Định (12), Hà Nam (11), Hà Nội (10), Điện Biên (9), Đắk Nông (9)….
+
+Cũng trong tháng 10, Hệ thống kỹ thuật đã ghi nhận có 1.768 điểm yếu, lỗ hổng an toàn thông tin tại các hệ thống thông tin của các cơ quan tổ chức nhà nước. Các chuyên gia an ninh mạng nhận xét, số lượng điểm yếu, lỗ hổng nêu trên là rất lớn.
+
+Do đó, Cục An toàn thông tin đã chỉ đạo Trung tâm Giám sát an toàn không gian mạng quốc gia triển khai đánh giá, xác định các lỗ hổng nguy hiểm, có ảnh hưởng trên diện rộng và hướng dẫn các Bộ/Ngành khắc phục. Đặc biệt, có một số lỗ hổng đã và đang được các nhóm tấn công lợi dụng để thực hiện các cuộc tấn công APT.
+
+Trong số đó có một số lỗ hổng vẫn còn tồn tại trên nhiều máy chưa được xử lý. Một số điểm yếu lỗ hổng có số lượng máy bị ảnh hưởng nhiều như: CVE-2019-0708 (hơn 107.000 máy), CVE-2018-18688 (1.898 máy), CVE-2018-18688 (1.898 máy), CVE-2021-1674 (1.370 máy), CVE-2022-0655 (1.100 máy).
+
+Bên cạnh các điểm yếu/lỗ hổng ghi nhận, Hệ thống kỹ thuật của Trung tâm NCSC còn phân tích và phát hiện nhiều máy tính của cơ quan nhà nước có kết nối đến địa chỉ IP/Domain nghi ngờ độc hại do các phần mềm phòng chống mã độc đã ghi nhận. Thống kê Top 4 kết nối nghi ngờ phát sinh trong tháng là: disorderstatus.ru; sunvn.net; atomictrivia.ru và differentia.ru.
+
+Để đảm bảo an toàn hệ thống, Cục an toàn thông tin đề nghị đơn vị chuyên trách về công nghệ thông tin, an toàn thông tin tại cơ quan, tổ chức phối hợp với các đơn vị thực hiện rà soát xác định và tiến hành “vá” các lỗi trên hệ thống đặc biệt là các lỗ hổng nêu trên.
+
+
+
+Thông tin thêm về tình hình triển khai công tác phòng chống phần mềm độc hại và chia sẻ dữ liệu mã độc theo Chỉ thị của Thủ tướng Chính phủ, Cục An toàn thông tin cho biết, đến hết tháng 10/2022 đã có 84 đơn vị (62 Tỉnh/Thành, 22 Bộ/Ngành) triển khai giải pháp phòng chống mã độc tập trung và thực hiện kết nối chia sẻ thông tin về mã độc với Trung tâm Giám sát an toàn không gian mạng quốc gia.
+
+Trong tháng 10/2022, thông qua kết nối chia sẻ dữ liệu về mã độc từ 84 đơn vị, Hệ thống kỹ thuật của Trung tâm NCSC đã ghi nhận 74/84 đơn vị có kết nối thường xuyên, 70/74 đơn vị có chia sẻ về hệ điều hành các máy (với tổng số máy là 33.539).
+
+Về tình hình triển khai công tác giám sát an toàn thông tin và kết nối chia sẻ dữ liệu giám sát theo Chỉ thị của Thủ tướng Chính phủ, đến hết tháng 10/2022 đã có 87 đơn vị (63 Tỉnh/Thành, 24 Bộ/Ngành) triển khai công tác giám sát an toàn thông tin và thực hiện kết nối chia sẻ dữ liệu giám sát với Trung NCSC.
+
+Trong tháng 10/2022, thông qua kết nối chia sẻ dữ liệu giám sát từ 87 đơn vị, Hệ thống kỹ thuật của Trung tâm Giám sát an toàn không gian mạng quốc gia ghi nhận 66/87 đơn vị có kết nối chia sẻ dữ liệu tương đối đầy đủ, 21/87 đơn vị bị mất kết nối chia sẻ dữ liệu.

@@ -1,0 +1,24 @@
+Không áp dụng biện pháp kỹ thuật và xây dựng quy định về bảo vệ dữ liệu cá nhân, vi phạm quy định về đăng ký xử lý dữ liệu cá nhân nhạy cảm, vi phạm quy định về chuyển dữ liệu cá nhân qua biên giới… có thể bị phạt tới 100 triệu đồng, hoặc trường hợp bên xử lý dữ liệu cá nhân vi phạm nhiều lần, với hậu quả lớn có thể bị phạt tối đa 5% tổng doanh thu tại Việt Nam.
+
+Các quy định trên được đưa ra tại Dự thảo Nghị định quy định về bảo vệ dữ liệu cá nhân, vừa được Bộ Công an hoàn thành và đang lấy ý kiến đóng góp.
+
+Dự thảo gồm 6 chương 30 điều, quy định rõ dữ liệu cá nhân là dữ liệu về cá nhân hoặc liên quan đến việc xác định hoặc có thể xác định một cá nhân cụ thể. Dữ liệu cá nhân cơ bản, gồm: họ, chữ đệm và tên khai sinh, bí danh (nếu có); ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích; nhóm máu, giới tính; nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi ở hiện tại, quê quán, địa chỉ liên hệ, địa chỉ thư điện tử; trình độ học vấn; số điện thoại; số chứng minh nhân dân, số hộ chiếu, số căn cước công dân, số giấy phép lái xe, số biển số xe, số mã số thuế cá nhân, số bảo hiểm xã hội; tình trạng hôn nhân...
+
+Dữ liệu cá nhân nhạy cảm gồm các dữ liệu cá nhân về tình trạng sức khỏe; di truyền; sinh trắc học; tình trạng giới tính; tài chính; các mối quan hệ xã hội dữ liệu cá nhân về đời sống, xu hướng tình dục; dữ liệu cá nhân về tội phạm, hành vi phạm tội và các dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện pháp bảo mật cần thiết…
+
+Dự thảo quy định không tiết lộ dữ liệu cá nhân của người khác trong trường hợp dữ liệu được đề cập là dữ liệu cá nhân nhạy cảm; làm tổn hại đến lợi ích hợp pháp của chủ thể dữ liệu.
+
+Bên xử lý dữ liệu cá nhân, bên thứ ba có thể tiết lộ dữ liệu cá nhân mà không cần có sự đồng ý của chủ thể dữ liệu trong các trường hợp: theo quy định của pháp luật; vì lợi ích, an ninh quốc gia, trật tự an toàn xã hội; được pháp luật quy định là khẩn cấp, nguy cơ đe dọa tới tính mạng hoặc ảnh hưởng nghiêm trọng tới sức khỏe cho chủ thể dữ liệu hoặc sức khỏe cộng đồng; phục vụ điều tra, xử lý hành vi vi phạm pháp luật; xử lý dữ liệu cá nhân phục vụ công tác nghiên cứu khoa học hoặc thống kê…
+
+Được chia sẻ dữ liệu cá nhân hoặc cấp quyền truy cập vào dữ liệu cá nhân cho bên thứ ba mà không có sự đồng ý của chủ thể dữ liệu trong trường hợp: theo quy định của pháp luật hoặc thỏa thuận quốc tế, điều ước quốc tế mà Việt Nam là thành viên; bảo vệ tính mạng, sức khỏe hoặc tự do của chủ thể dữ liệu; không ảnh hưởng tới quyền và lợi ích của chủ thể dữ liệu và việc có được sự đồng ý của chủ thể dữ liệu là bất khả thi; xử lý dữ liệu cá nhân phục vụ công tác nghiên cứu khoa học hoặc thống kê…
+
+Dự thảo Nghị định cũng quy định, các cơ quan, tổ chức vi phạm quy định bảo vệ dữ liệu cá nhân tùy theo mức độ có thể bị xử phạt vi phạm hành chính hoặc xử lý hình sự, áp dụng các hình phạt bổ sung theo quy định của pháp luật.
+
+Theo đó, mức phạt từ 50 triệu đồng đến 80 triệu đồng đối với các hành vi vi phạm quy định về quyền của chủ thể dữ liệu liên quan đến xử lý dữ liệu cá nhân; vi phạm quy định về tiết lộ dữ liệu cá nhân; vi phạm quy định về hạn chế quyền tiếp cận dữ liệu cá nhân; vi phạm quy định về xử lý dữ liệu cá nhân trong trường hợp không có sự đồng ý của chủ thể dữ liệu; vi phạm quy định về xử lý dữ liệu cá nhân tự động; vi phạm quy định về xử lý dữ liệu cá nhân của trẻ em…
+
+Phạt từ 80 triệu đồng đến 100 triệu đồng được đề xuất áp dụng đối với một trong các hành vi: không áp dụng biện pháp kỹ thuật và xây dựng quy định về bảo vệ dữ liệu cá nhân; vi phạm quy định về đăng ký xử lý dữ liệu cá nhân nhạy cảm; vi phạm quy định về chuyển dữ liệu cá nhân qua biên giới.
+
+Ngoài mức phạt được quy định, trường hợp bên xử lý dữ liệu cá nhân vi phạm nhiều lần, với hậu quả lớn có thể bị phạt tối đa 5% tổng doanh thu của bên xử lý dữ liệu cá nhân tại Việt Nam.
+
+Việc xử lý vi phạm quy định bảo vệ dữ liệu cá nhân được áp dụng với toàn bộ các tổ chức, doanh nghiệp, cá nhân trong và ngoài nước có hoạt động kinh doanh tại Việt Nam.
+

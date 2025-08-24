@@ -1,0 +1,15 @@
+Ngân hàng Thương mại Cổ phần Đông Nam Á (SeABank) vừa lần thứ hai liên tiếp được tổ chức đánh giá chất lượng quốc tế ControlCase (trụ sở tại Virginia, Hoa Kỳ) cấp chứng chỉ PCI DSS phiên bản mới nhất v3.2. Đây là một trong những chứng chỉ quan trọng được nhiều tổ chức cung cấp thẻ lớn trên thế giới áp dụng cho các thành viên để bảo đảm tiêu chuẩn an toàn và bảo mật cho khách hàng.
+
+Tiêu chuẩn PCI DSS do Hội đồng Tiêu chuẩn Bảo mật - SSC (Security Standards Council) thiết lập dành cho thẻ thanh toán. Tham gia Hội đồng là các tổ chức thẻ quốc tế lớn trên thế giới như: Visa, MasterCard, American Express (AMEX), Discover Financial Services, JCB International...
+
+Để đạt được tiêu chuẩn PCI DSS, các đơn vị cần đáp ứng 12 yêu cầu khắt khe dành cho hệ thống. Đó là các yêu cầu về chính sách an ninh thông tin, quy trình xử lý dữ liệu, cấu trúc mạng máy tính… nhằm đảm bảo an toàn cho dữ liệu thẻ trong suốt quá trình xử lý và lưu trữ tại các ngân hàng hoặc các đơn vị có chức năng thanh toán trực tuyến. Qua đó, các đơn vị hạn chế được các lỗ hổng bảo mật và rủi ro bị đánh cắp thông tin, đồng thời tăng cường bảo vệ dữ liệu lưu trên thẻ và giao dịch thanh toán thẻ.
+
+Đặc biệt, với các đơn vị đã từng đạt được chứng chỉ PCI DSS,  để tiếp tục nhận được chứng chỉ PCI DSS duy trì cần có mức độ đáp ứng tiêu chuẩn cao hơn so với năm trước.
+
+Nhận thức được tầm quan trọng của PCI DSS trong việc cung cấp các dịch vụ thẻ đạt tiêu chuẩn bảo mật quốc tế, đồng thời đảm bảo lợi ích cho khách hàng, SeABank đã triển khai thực hiện dự án chuẩn hóa hệ thống nhằm tiếp tục đạt chứng nhận PCI DSS cùng các tiêu chuẩn bảo mật khác do Visa, Master quy định.
+
+Ngoài ra, SeABank còn được nhận chứng chỉ về Hệ thống quản lý An ninh thông tin (ISMS) theo tiêu chuẩn ISO/IEC-2001:2013 từ TUV NORD - tổ chức quốc tế uy tín chuyên đánh giá cấp chứng chỉ ISO.
+
+Bảo mật thông tin là một trong những yêu cầu tối quan trọng đối với hoạt động ngân hàng và được SeABank đặc biệt chú trọng đầu tư.
+
+Lần thứ hai liên tiếp được cấp chứng chỉ quốc tế về bảo mật hệ thống thẻ thanh toán PCI DSS và chứng chỉ Hệ thống quản lý An ninh thông tin (ISMS) theo tiêu chuẩn ISO/IEC-2001:2013 từ TUV NORD khẳng định cam kết và quyết tâm của SeABank trong việc áp dụng các tiêu chuẩn bảo mật cao cho dữ liệu quan trọng của ngân hàng, nhằm đảm bảo mức độ bảo mật cao nhất cho khách hàng và đối tác. Qua đó cũng góp phần nâng cao chất lượng dịch vụ, uy tín của ngân hàng, kịp thời đáp ứng tốc độ phát triển nhanh các sản phẩm, dịch vụ ngân hàng bán lẻ hiện đại.

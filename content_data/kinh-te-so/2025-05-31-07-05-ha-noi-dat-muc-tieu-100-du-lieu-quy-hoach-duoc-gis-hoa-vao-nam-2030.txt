@@ -1,0 +1,25 @@
+Chủ tịch UBND Thành phố Hà Nội Trần Sỹ Thanh vừa ký ban hành Kế hoạch số 150/KH-UBND ngày 28/5/2025 về Triển khai thực hiện Quyết định số 06/QĐ-TTg ngày 2/1/2025 của Thủ tướng Chính phủ về Đề án xây dựng và quản lý Hệ thống thông tin và cơ sở dữ liệu quốc gia về quy hoạch.
+
+Theo Kế hoạch, mục tiêu đến năm 2026, 100% cơ sở dữ liệu hồ sơ Quy hoạch Thủ đô được thu thập, xây dựng trên nền tảng công nghệ ứng dụng hệ thống thông tin địa lý GIS hóa.
+
+Bên cạnh đó, 100% văn bản điện tử của cơ sở dữ liệu hồ sơ quy hoạch các loại bao gồm cả cơ sở dữ liệu hồ sơ quy hoạch có tính chất kỹ thuật, chuyên ngành theo quy định được thu thập, tạo lập.
+
+30% cơ sở dữ liệu hồ sơ quy hoạch các loại bao gồm cả cơ sở dữ liệu hồ sơ quy hoạch có tính chất kỹ thuật, chuyên ngành theo quy định được xây dựng trên nền tảng công nghệ ứng dụng hệ thống thông tin địa lý GIS hóa.
+
+Đến năm 2030, 100% cơ sở dữ liệu hồ sơ quy hoạch các loại bao gồm cả cơ sở dữ liệu hồ sơ quy hoạch có tính chất kỹ thuật, chuyên ngành của Thành phố hoặc thuộc trách nhiệm Thành phố theo quy định được thu thập, xây dựng trên nền tảng công nghệ ứng dụng hệ thống thông tin địa lý GIS hóa.
+
+Cũng trong năm 2030, Hà Nội đặt mục tiêu hoàn thành đầu tư 100% các phần mềm, ứng dụng cho phép các cơ quan nhà nước, các tổ chức, doanh nghiệp, người dân.
+
+Đến năm 2035, 100% cơ sở dữ liệu hồ sơ quy hoạch các loại bao gồm cả cơ sở dữ liệu hồ sơ quy hoạch có tính chất kỹ thuật, chuyên ngành được thu thập, xây dựng trên nền tảng công nghệ ứng dụng hệ thống thông tin địa lý GIS hóa.
+
+Hệ thống cơ sở dữ liệu quy hoạch của thành phố sẽ tích hợp đầy đủ bản đồ, sơ đồ và hồ sơ quy hoạch các cấp, từ quy hoạch quốc gia, vùng, tỉnh, đơn vị hành chính - kinh tế đặc biệt (nếu có), đến quy hoạch đô thị, nông thôn, sử dụng đất cấp huyện và các loại quy hoạch chuyên ngành khác theo quy định pháp luật.
+
+Các sở, ban, ngành, đoàn thể tổ chức phổ biến Quyết định số 06 của Thủ tướng Chính phủ và Kế hoạch này đến toàn thể cán bộ, công chức, viên chức, người lao động bằng hình thức phù hợp. Trên cơ sở chức năng, nhiệm vụ, các đơn vị xây dựng, quản lý, cập nhật và chia sẻ cơ sở dữ liệu quy hoạch; rà soát, nâng cấp hạ tầng công nghệ thông tin; đơn giản hóa thủ tục hành chính liên quan đến quy hoạch; bố trí nhân lực phù hợp; đồng bộ dữ liệu với hệ thống điều hành của Thành phố; chủ động phối hợp với các bộ, ngành Trung ương triển khai hiệu quả các nhiệm vụ của Đề án.
+
+Các sở, ngành, địa phương phối hợp với Sở Tài chính rà soát, đơn giản hóa các thủ tục hành chính liên quan đến quy hoạch, trên cơ sở khai thác và tái sử dụng Hệ thống cơ sở dữ liệu quốc gia về quy hoạch (dự kiến hoàn thành vào năm 2035).
+
+Đồng thời, theo chức năng, nhiệm vụ được giao, các đơn vị cùng Viện Nghiên cứu Phát triển KTXH Hà Nội (đối với Quy hoạch Thủ đô) phối hợp thu thập, biên tập và xây dựng cơ sở dữ liệu các loại quy hoạch như sử dụng đất, không gian biển, ngành quốc gia, quy hoạch tỉnh... trên nền tảng công nghệ hệ thống thông tin địa lý (GIS) để cập nhật vào Hệ thống theo lộ trình.
+
+Cụ thể: giai đoạn 2025–2030 tập trung xây dựng dữ liệu hồ sơ quy hoạch; năm 2026 tạo lập văn bản điện tử và dữ liệu quy hoạch kỹ thuật, chuyên ngành; giai đoạn 2027–2030 chuẩn hóa và cập nhật các dữ liệu này theo quy định; và từ 2030–2035 tiếp tục thu thập, cập nhật đầy đủ dữ liệu quy hoạch thuộc phạm vi quản lý của các sở, ngành, địa phương trên nền tảng GIS.
+
+UBND Thành phố giao Giám đốc, Thủ trưởng các sở, ngành; Chủ tịch UBND các cấp căn cứ Kế hoạch này và Quyết định số 06 của Thủ tướng Chính phủ, xây dựng kế hoạch cụ thể để triển khai các nhiệm vụ được giao. Sở Tài chính chủ trì tham mưu UBND Thành phố tổ chức thực hiện Đề án; hướng dẫn các đơn vị triển khai các nội dung liên quan; phối hợp Bộ Tài chính xây dựng dự toán, bố trí kinh phí theo quy định; đồng thời huy động nguồn lực trong và ngoài nước phục vụ triển khai Đề án.

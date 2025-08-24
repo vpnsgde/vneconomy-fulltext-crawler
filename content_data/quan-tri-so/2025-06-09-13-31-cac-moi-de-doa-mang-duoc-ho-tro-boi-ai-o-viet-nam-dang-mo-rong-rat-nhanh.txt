@@ -1,0 +1,33 @@
+Đó là khảo sát 550 nhà lãnh đạo công nghệ thông tin và bảo mật tại 11 thị trường trong khu vực châu Á - Thái Bình Dương của IDC được thực hiện từ tháng 2 đến tháng 4/2025.
+
+Theo đó, những kẻ tấn công đang nhanh chóng sử dụng trí tuệ nhân tạo (AI) để mở rộng quy mô các cuộc tấn công âm thầm và với tốc độ nhanh, khiến các đội ngũ bảo mật gặp khó khăn trong việc phát hiện và phản ứng kịp thời. Các mối đe dọa không gian mạng ngày càng phức tạp và có xu hướng khai thác sâu vào những điểm yếu của khả năng hiển thị, quản trị và cấu trúc hạ tầng, đặt ra thách thức ngày càng lớn cho các đội ngũ an ninh mạng vốn đã quá tải.
+
+Theo kết quả khảo sát, gần 52% tổ chức tại Việt Nam cho biết đã gặp phải các mối đe dọa mạng được hỗ trợ bởi AI trong năm qua. Các mối đe dọa này đang mở rộng rất nhanh, với 54% tổ chức ghi nhận mức tăng gấp 2 lần và 36% báo cáo tăng gấp 3 lần.
+
+Tại Việt Nam, các mối đe dọa an ninh mạng phổ biến do AI hỗ trợ gồm: các cuộc tấn công dò mật khẩu (brute force) hay sử dụng mật khẩu bị thất thoát để đăng nhập thử vào hàng loạt hệ thống (credential stuffing), tấn công Social Engineering do AI hỗ trợ, sử dụng công nghệ deepfake trong các vụ lừa đảo qua email doanh nghiệp (BEC), tự động thu thập thông tin chi tiết về bề mặt tấn công, AI đối nghịch và đầu độc dữ liệu (data poisoning).
+
+Mặc dù các cuộc tấn công được hỗ trợ bởi AI đang gia tăng, nhưng chỉ có 8% tổ chức cảm thấy tự tin vào khả năng phòng thủ hiện tại. Trong khi đó, 30% thừa nhận rằng các mối đe dọa do AI điều khiển đã vượt quá khả năng phát hiện và 33% tổ chức được khảo sát tại Việt Nam hoàn toàn không có khả năng giám sát các loại hình tấn công này. Điều này phản ánh rõ những hạn chế và khoảng trống trong công tác chuẩn bị và sẵn sàng trước làn sóng tấn công mới.
+
+Theo nhận định của IDC, các tổ chức tại Việt Nam ngày càng trở nên dễ tổn thương trước các mối đe dọa ẩn danh, hoạt động âm thầm. Các mối đe dọa được báo cáo nhiều nhất bao gồm: phần mềm tống tiền (64%), các cuộc tấn công chuỗi cung ứng phần mềm (58%), lỗ hổng đám mây (56%), các mối đe dọa từ nội bộ (52%), cũng như các lỗ hổng chưa vá và zero-day (50%).
+
+Ngoài ra, các mối đe dọa truyền thống như lừa đảo và phần mềm độc hại vẫn đang tăng khoảng 10% mỗi năm. Tuy nhiên, mức tăng này tương đối khiêm tốn có thể là do các biện pháp phòng thủ như bảo vệ điểm cuối và đào tạo nhận thức đã hoàn thiện hơn.
+
+Ngược lại, các mối đe dọa gia tăng nhanh nhất là: phần mềm mã hoá tống tiền (32%), lỗ hổng đám mây (28%), các cuộc tấn công vào hệ thống IoT/OT (24%), tấn công chuỗi cung ứng (22%), các lỗ hổng chưa vá và zero-day (20%). Những mối đe dọa này đang leo thang và mở rộng nhanh chóng nhờ tập trung vào khai thác các “khoảng trống” trong quản trị, khả năng hiển thị và độ phức tạp của hệ thống, khiến chúng khó bị phát hiện hơn và có khả năng gây thiệt hại lớn hơn khi thành công.
+
+Ông Simon Piff, Phó Chủ tịch bộ phận Nghiên cứu Tập đoàn IDC khu vực châu Á - Thái Bình Dương, nhận định: Các tổ chức đang đối mặt với làn sóng đe dọa ngày càng tinh vi và khó lường – từ lỗi cấu hình, hành vi nội gián cho đến các cuộc tấn công được hỗ trợ bởi AI – vốn dễ dàng vượt qua các phương thức phát hiện truyền thống. Việc chuyển sang các mô hình an ninh mạng tích hợp, lấy đánh giá rủi ro làm trọng tâm là điều tất yếu để duy trì vị thế chủ động.
+
+Cũng theo kết quả khảo sát của IDC, nguồn nhân lực tiếp tục là điểm nghẽn lớn đối với các đội ngũ bảo mật tại Việt Nam. Trung bình chỉ 7% lực lượng lao động của một tổ chức chuyên trách về công nghệ thông tin nội bộ, và chỉ 13% trong số đó chuyên trách về an ninh mạng. Điều này đồng nghĩa với việc chưa có đến một chuyên gia an ninh mạng (được trả lương toàn thời gian) trên mỗi 100 nhân viên trong một tổ chức.
+
+Cụ thể, chỉ 15% số tổ chức có vị trí Giám đốc An ninh Thông tin (CISO) riêng biệt, trong khi phần lớn (63%) ngoài chịu trách nhiệm quản lý và giám sát các hoạt động an ninh mạng phải kiêm nhiệm thêm nhiều trọng trách công nghệ khác. Chỉ 6% tổ chức có đội ngũ chuyên biệt cho các chức năng như săn tìm mối đe dọa mạng (threat hunting) và hoạt động bảo mật.
+
+Đồng thời, đội ngũ nhân sự an ninh mạng rất mỏng trong khi đang phải đối mặt với áp lực ngày càng tăng từ sự gia tăng của các mối đe dọa. Các thách thức hàng đầu được báo cáo bao gồm: khối lượng lớn các mối đe dọa (54%), khó khăn trong việc giữ chân các nhân sự an ninh mạng có chuyên môn cao (52%), sự phức tạp của các công cụ (44%). Thực trạng đó dẫn đến tình trạng quá tải, phân mảnh và suy giảm hiệu quả hoạt động của đội ngũ an ninh mạng.
+
+Theo IDC, dù nhận thức đã được nâng cao, mức đầu tư vào an ninh mạng vẫn chưa tương xứng. Trung bình chỉ 15% ngân sách công nghệ thông tin được phân bổ cho an ninh mạng, tương đương khoảng 1,4% tổng doanh thu – một tỷ lệ khá nhỏ so với quy mô và mức độ nghiêm trọng của các mối đe dọa. Tuy vậy, ngân sách bảo mật đang có dấu hiệu tăng, với gần 90% tổ chức tại Việt Nam cho biết đã tăng mức đầu tư. Tuy nhiên, phần lớn các mức tăng này vẫn dưới 10%, cho thấy một sự thận trọng trong đầu tư.
+
+Hiện, 80% tổ chức đang trong quá trình hợp nhất công cụ bảo mật, tuy nhiên vẫn còn nhiều thách thức. Việc hợp nhất nhà cung cấp bảo mật đang ngày càng được xem là đòn bẩy chiến lược bởi việc này không chỉ giúp giảm chi phí mà còn cải thiện tốc độ phát hiện, xử lý sự cố và khả năng hiển thị. Những lợi ích chính mà các tổ chức mong đợi từ việc hợp nhất bao gồm: hỗ trợ nhanh hơn (59%), tiết kiệm chi phí (53%), tích hợp tốt hơn (53%), tăng cường thế trận bảo mật (51%).
+
+Ông Nguyễn Gia Đức, Giám đốc Quốc gia Fortinet Việt Nam, cho biết trong bối cảnh các mối đe dọa không ngừng biến đổi như hiện nay, tốc độ, sự đơn giản và chiến lược là những yếu tố quan trọng hơn bao giờ hết. Fortinet tập trung giúp các tổ chức, doanh nghiệp chuyển đổi từ các biện pháp phòng thủ rời rạc sang hệ sinh thái bảo mật thông minh, ứng dụng AI có khả năng mở rộng và thích ứng linh hoạt với các mối đe dọa ngày càng tinh vi.
+
+
+
+Theo kết quả khảo sát IDC, tác động lớn nhất của các cuộc tấn công mạng đối với doanh nghiệp bao gồm: gián đoạn hoạt động (58%), trộm cắp dữ liệu và xâm phạm quyền riêng tư (54%), mất niềm tin của khách hàng (50%), bị xử phạt theo quy định (20%). Thiệt hại tài chính cũng rất nặng. Có 44% số người tham gia khảo sát cho biết họ đã bị vi phạm dữ liệu dẫn đến thiệt hại tài chính, trong đó cứ bốn vụ thì một vụ có chi phí trên 500.000 USD.

@@ -1,0 +1,41 @@
+Từ ngày 10-12/9/2024, tại Ninh Bình, Kiểm toán nhà nước Việt Nam đăng cai tổ chức Hội nghị lần thứ 8 của Nhóm công tác về Dữ liệu lớn của Tổ chức quốc tế các cơ quan kiểm toán tối cao (INTOSAI WGBD) với chủ đề: "Quản trị dữ liệu- công cụ hiệu quả mới trong kiểm toán- từ góc độ chất lượng dữ liệu".
+
+Hơn 100 đại biểu trong nước và quốc tế, trong đó có hơn 40 đại biểu đến từ 23 cơ quan kiểm toán tối cao (SAI), đã tham dự hội nghị, trao đổi thảo luận, chia sẻ kiến thức, kinh nghiệm về quản trị dữ liệu nói riêng và hoạt động kiểm toán dữ liệu lớn nói chung.
+
+Phát biểu tại Hội nghị, Tổng Kiểm toán Nhà nước Ngô Văn Tuấn nhấn mạnh trong những năm qua, Kiểm toán nhà nước ngày càng khẳng định là công cụ trọng yếu, hữu hiệu của Đảng và Nhà nước trong kiểm tra, kiểm soát việc quản lý, sử dụng tài chính, tài sản công; nâng cao trách nhiệm giải trình và đảm bảo tính công khai, minh bạch của các cơ quan sử dụng ngân sách nhà nước; đóng góp quan trọng vào hoàn thiện thể chế trong tiến trình phát triển đất nước...
+
+Những năm qua, Nhóm công tác về kiểm toán dữ liệu lớn của INTOSAI (WGBD) đã có những bước phát triển, đặc biệt chia sẻ kiến thức về kiểm toán chất lượng cao thông qua việc sử dụng các công nghệ tiên tiến.
+
+Trước những thách thức, yêu cầu mới và các vấn đề mới nổi cũng như những kỳ vọng của Đảng, Nhà nước, Quốc hội và nhân dân về chất lượng kiểm toán, về vai trò chủ động, tích cực của Kiểm toán nhà nước giúp Quốc hội trong hoạt động giám sát và quyết định những vấn đề quan trọng của đất nước, Kiểm toán nhà nước đã xây dựng và ban hành các cơ chế, chính sách nền tảng, làm cơ sở cho việc triển khai các hoạt động công nghệ thông tin, bước đầu xây dựng được kiến trúc cơ sở dữ liệu của ngành.
+
+Theo ông Tuấn, việc triển khai dự án xây dựng kiến trúc cơ sở dữ liệu, phát triển đồng bộ hạ tầng công nghệ thông tin, Trung tâm dữ liệu đạt tiêu chuẩn kỹ thuật, ứng dụng công nghệ thông tin phục vụ công tác quản lý điều hành và hỗ trợ hoạt động kiểm toán cũng như đảm bảo an toàn thông tin theo từng cấp độ là bước đi mang tính đột phá của Kiểm toán nhà nước.
+
+Điều này phù hợp với quá trình chuyển đổi số và bước đầu hình thành một lĩnh vực kiểm toán mới dựa trên AI với các phương pháp kiểm toán mới, tiếp cận trực tiếp hệ thống công nghệ thông tin và dữ liệu gốc, tổ chức đối chiếu kiểm tra dữ liệu lớn mang tính hệ thống, phạm vi quốc gia.
+
+Cũng tại hội nghị, Phó Chủ tịch Quốc hội Nguyễn Đức Hải cho biết Ủy ban thường vụ Quốc hội đã ban hành Nghị quyết về Chiến lược phát triển Kiểm toán Nhà nước Việt Nam đến năm 2030 (giai đoạn 2011– 2030), với mục tiêu nâng cao chất lượng, hiệu quả và hiệu lực của hoạt động kiểm toán; thích ứng nhanh với các công nghệ mới, đặc biệt là dữ liệu lớn và AI; bảo đảm minh bạch, công khai và chính xác trong công tác kiểm toán; tăng cường năng lực chuyên môn và kỹ thuật của đội ngũ kiểm toán viên.
+
+Theo Phó Chủ tịch Quốc hội, một trong những mục tiêu quan trọng được xác định tại Chiến lược là hoàn thiện môi trường làm việc điện tử của Kiểm toán Nhà nước theo hướng xây dựng hạ tầng dữ liệu, hệ thống quản trị dữ liệu lớn tập trung, kết nối với các hệ thống cơ sở dữ liệu liên quan để thu thập, ứng dụng các công cụ phân tích, dự báo đáp ứng yêu cầu quản lý, phát triển hoạt động kiểm toán trong môi trường số;
+
+Cùng với đó, đẩy mạnh việc ứng dụng công nghệ số, tiêu biểu là công nghệ dữ liệu lớn, AI, công cụ xử lý ngôn ngữ tự nhiên, kết nối vạn vật trong hoạt động kiểm toán và chỉ đạo điều hành nội bộ...
+
+“Quản trị dữ liệu tốt, chuyển đổi số thành công của Kiểm toán Nhà nước Việt Nam là một trong những nội dung có quan hệ mật thiết với “Đề án xây dựng Quốc hội điện tử hướng Quốc hội số” của Quốc hội Việt Nam đang được xây dựng và triển khai”, ông Hải nhấn mạnh.
+
+Đại diện Kiểm toán nhà nước Việt Nam bày tỏ đây là Hội nghị thường niên có số lượng diễn giả lớn nhất trong số các cuộc họp của INTOSAI WGBD từ trước đến nay. Điều này thể hiện Nhóm công tác INTOSAI WGBD ngày càng thu hút sự quan tâm của cộng đồng kiểm toán quốc tế nhờ vai trò thúc đẩy ứng dụng dữ liệu lớn trong kiểm toán, đồng thời, phản ánh tầm quan trọng của dữ liệu lớn để tối ưu hóa quy trình và hiệu quả kiểm toán.
+
+Theo Phó Tổng Kiểm toán nhà nước Bùi Quốc Dũng, dữ liệu vừa là tài sản của quản trị, vừa là công cụ để các SAI xây dựng chính sách, động lực thúc đẩy giải trình. Nhưng tiềm năng của dữ liệu lớn cũng đi kèm với thách thức nếu muốn khai thác dữ liệu hiệu quả. Vì vậy, tại Hội nghị, các đại biểu cùng trao đổi những cách làm hay và cùng giải quyết thách thức phải đối mặt, thể hiện chí hướng cùng nhau định hình kiểm toán công của thời đại số.
+
+Tại hội nghị, các thành viên SAI, quan sát viên đã thảo luận xoay quanh chủ đề “Quản trị dữ liệu- công cụ hiệu quả mới trong kiểm toán- từ góc độ chất lượng dữ liệu”, chia sẻ kiến thức, bài học thành công và kinh nghiệm nhằm hoàn thiện công tác quản trị dữ liệu nói riêng và hoạt động kiểm toán dữ liệu lớn nói chung.
+
+Ông Ma Wenhui, Phó Tổng Kiểm toán nhà nước Trung Quốc, nhận xét những công nghệ mới với dữ liệu lớn, Internet vạn vật, AI đang nở rộ. Tất cả các quốc gia trên thế giới hàng ngày đều sử dụng dữ liệu lớn để hiện đại hóa hệ thống quản trị xã hội, quản trị quốc gia và kiểm toán công là một cấu phần rất quan trọng quản trị quốc gia.
+
+Các SAI toàn cầu đều ghi nhận tầm quan trọng của dữ liệu lớn trong việc thúc đẩy nâng cao chất lượng của kiểm toán. Trong 8 năm vừa qua, các nguồn lực dữ liệu do các thành viên của INTOSAI thực hiện đã gia tăng nhanh chóng và các công nghệ cũng được nâng cấp để ứng dụng được dữ liệu lớn rộng rãi hơn.
+
+Tuy nhiên, ông Ma Wenhui cho rằng các SAI đang gặp nhiều thách thức khi dữ liệu chưa được chuẩn hoá, việc ứng dụng công nghệ còn nhiều dư địa để có thể làm tốt hơn. Theo Hiệp hội Quản trị dữ liệu quốc tế, quản trị dữ liệu bao gồm quản lý dữ liệu tài nguyên thông qua việc cấp phép, trong đó có việc phân tích dữ liệu để làm sao dữ liệu được quản trị hiệu quả. Quản trị dữ liệu là nhiệm vụ mang tính hệ thống, phức tạp, liên quan nhiều bên để cùng giải quyết các khâu trong chuỗi giá trị.
+
+Ông Ma Wenhui nhấn mạnh rằng quản trị dữ liệu là nhiệm vụ mang tính hệ thống và phức tạp liên quan đến nhiều bên và nó giải quyết tất cả các khâu trong chuỗi giá trị.
+
+“Để tăng cường quản trị dữ liệu, chúng ta cần phải tập trung để phát triển, nâng cao năng lực kiểm toán và có được nỗ lực hợp tác của tất cả các bên nhằm thúc đẩy thực hiện 6 nhiệm vụ để kích hoạt dữ liệu”, đại diện Kiểm toán nhà nước Trung Quốc nói.
+
+Theo đó, cần xây dựng hệ thống dữ liệu và xác định rõ trách nhiệm giữa các cơ quan quản lý dữ liệu và cơ quan kiểm toán; cải thiện cơ chế quản lý, phân tích dữ liệu và chuẩn hóa dữ liệu. Đồng thời cần nâng cao hệ thống tối ưu hóa việc lưu trữ dữ liệu và các thuật toán; nâng cao hệ thống cấp phép dữ liệu để giúp các kiểm toán viên có thể tiếp cận dễ dàng hơn, hiệu quả hơn;
+
+Nâng cao hiệu suất của việc ứng dụng cơ chế sáng tạo, tạo điều kiện thuận lợi cho việc tích hợp dữ liệu, phối hợp giữa kiểm toán tại chỗ và kiểm toán từ xa; đảm bảo việc tuân thủ cũng như an ninh dữ liệu thông qua việc tăng cường các hệ thống về quản lý an ninh dữ liệu.

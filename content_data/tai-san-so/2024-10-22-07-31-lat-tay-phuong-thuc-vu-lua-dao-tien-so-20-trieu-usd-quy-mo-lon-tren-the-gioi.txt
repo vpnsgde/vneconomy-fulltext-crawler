@@ -1,0 +1,41 @@
+Một vụ lừa đảo tiền điện tử nhắm vào người dùng của Coinbase đã gây xôn xao trong cộng đồng tiền số trên khắp thế giới thời gian vừa qua. Chirag Tomar - một công dân Ấn Độ đã bị kết án vì đứng sau kế hoạch này bằng cách tạo ra các trang web giả mạo bắt chước Coinbase.
+
+Cụ thể, Bộ Tư pháp (DOJ) cho biết vào ngày 17/10 rằng kế hoạch lừa đảo tiền điện tử phức tạp liên quan đến các trang web Coinbase giả mạo đã dẫn đến việc đánh cắp hơn 20 triệu USD từ hàng trăm nạn nhân trên toàn thế giới, bao gồm cả ở Mỹ.
+
+Coinbase là sàn giao dịch tiền mã hoá hàng đầu thế giới được rất nhiều người dùng tại Mỹ tin dùng. Sàn giao dịch này cho phép giao dịch lên đến hơn 120 loại tiền mã hoá. Ngoài dịch vụ giao dịch tiền mã hoá, Coinbase còn cung cấp nhiều sản phẩm crypto khác nhằm phục vụ các nhiều đối tượng người dùng khác nhau: Coinbase Pro, Coinbase Custody, Coinbase Prime, Coinbase Earn, Coinbase Wallet,...
+
+Theo Chính quyền Mỹ, những kẻ lừa đảo đã sử dụng các chiến thuật tiên tiến, bao gồm truy cập máy tính từ xa và đóng giả làm nhân viên hỗ trợ để rút tiền khỏi tài khoản, sau đó chuyển tiền thành tiền mặt, tạo điều kiện cho Tomar có lối sống xa hoa. Kết quả, Tomar đã bị kết án 5 năm tù.
+
+
+
+Các trang web giả mạo đã lừa nạn nhân cung cấp thông tin đăng nhập và mã xác thực hai yếu tố, cho phép những kẻ lừa đảo lấy toàn bộ số tiền trong tài khoản của họ.
+
+Vụ lừa đảo bắt đầu vào tháng 6/2021, liên quan đến một phiên bản giả mạo của Coinbase Pro, nền tảng giao dịch của Coinbase dành cho các nhà đầu tư chuyên nghiệp. Những kẻ lừa đảo đã tạo một URL tương tự, đánh lừa người dùng nghĩ rằng họ đang truy cập trang web hợp pháp.
+
+Khi người dùng nhập chi tiết đăng nhập của họ, những kẻ tấn công đã chặn họ, thuyết phục cài đặt phần mềm truy cập từ xa để cho phép những kẻ lừa đảo kiểm soát trực tiếp máy tính của họ và toàn quyền truy cập vào tài khoản Coinbase thực.
+
+Một phương pháp chính được những kẻ lừa đảo sử dụng là giả làm đại lý dịch vụ khách hàng của Coinbase. Nạn nhân được hướng dẫn gọi đến đường dây hỗ trợ giả mạo hoặc nhận các cuộc gọi không mong muốn từ những kẻ lừa đảo.
+
+Trong các cuộc trò chuyện này, nạn nhân đã bị thuyết phục giao mã xác thực hai yếu tố, mã này rất cần thiết để truy cập vào tài khoản Coinbase thực tế. Khi thâm nhập được vào tài khoản người dùng, tội phạm đã nhanh chóng chuyển tiền vào ví mà họ kiểm soát.
+
+Hồ sơ tòa án cho thấy Tomar và đồng phạm đã nhanh chóng chuyển số tiền điện tử bị đánh cắp qua nhiều ví trước khi chuyển nó thành tiền mặt. Số tiền này sau đó được sử dụng cho mục đích cá nhân bao gồm mua xe cao cấp, đồng hồ sang trọng và du lịch quốc tế.
+
+Vào tháng 2/2022, một cư dân Bắc Carolina trở thành nạn nhân của vụ lừa đảo sau khi cố gắng đăng nhập vào một trang Coinbase giả mạo. Cho rằng tài khoản đã bị khóa, nạn nhân đã được gợi ý liên hệ đến địa chỉ của tổng đài và vô tình chia sẻ mã xác thực. Sau đó đã bị mất hơn 240.000 USD tại ví tiền điện tử và trở thành một trong những nạn nhân lớn nhất trong vụ lừa đảo này.
+
+Các vụ lừa đảo tiền điện tử đang trở nên tinh vi hơn vào năm 2024, với hàng tỷ USD được bị đánh cắp. Theo Chainalysis, 43% các vụ lừa đảo trong năm nay đã chuyển đến các ví chỉ bắt đầu hoạt động vào năm 2024.
+
+Ngoài ra, những kẻ lừa đảo cũng thực hiện hành vi phạm tội bằng cách truy cập vào các công cụ trên chuỗi và ngoài chuỗi, tên miền giả và tài khoản mạng xã hội để lừa nạn nhân. Sau đó sẽ nhanh chóng rút tiền, phân tán chúng trên nhiều ví và dễ dàng thiết lập các kế hoạch mới dưới các tên khác nhau, khiến chính quyền khó theo dõi và ngăn chặn chúng hơn.
+
+Dưới đây là những lời khuyên từ Cục Điều tra Liên bang Mỹ (FBI), Ủy ban Chứng khoán và Hối đoái Mỹ (SEC) và các chuyên gia về tiền điện tử:
+
+(1), Cần thận trọng với những lời mời chào đầu tư từ người lạ trên không gian mạng, ngay cả khi bạn đã nói chuyện qua điện thoại/trò chuyện video và cho dù họ quảng cáo tin cậy đến đâu.
+
+(2), Kiểm tra kỹ lưỡng tên miền hoặc tên trang web, đặc biệt là các sàn giao dịch tiền điện tử. Những kẻ lừa đảo thường sử dụng các trang web bắt chước trang web của các công ty tài chính thực sự, chỉ khác biệt rất nhỏ để người dùng dễ bị đánh lừa.
+
+(3), Không tải xuống hoặc sử dụng các ứng dụng có vẻ đáng ngờ để đầu tư trừ khi có thể xác minh tính hợp pháp của chúng.
+
+(4), Luôn cẩn trọng với những lời mời đầu tư dễ sinh lời, mang lại lợi nhuận cao một cách nhanh chóng.
+
+Tại Việt Nam, Ngân hàng Nhà nước đã nhiều lần phát đi thông điệp: Bitcoin và các loại tiền ảo tương tự khác không phải là tiền tệ và phương thức thanh toán hợp pháp tại Việt Nam. Việc phát hành, cung ứng, sử dụng Bitcoin và các loại tiền điện tử tương tự khác làm phương tiện thanh toán là hành vi không đúng với pháp luật hiện hành.
+
+Người dân được khuyến cáo cần cảnh giác về hoạt động kinh doanh của các sàn giao dịch tiền ảo theo như quảng cáo, mời chào theo phương thức đa cấp với lời hứa đạt lợi nhuận cao, nhưng lại an toàn không mất vốn, không cần đầu tư trí tuệ, thời gian... đều có dấu hiệu lừa đảo chiếm đoạt tài sản.

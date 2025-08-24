@@ -1,0 +1,5 @@
+Theo đó, phần mềm diệt virus CMC IS của CMC Cyber Security sẽ được tích hợp vào giải pháp công nghệ Multiscanning của OPSWAT. Việc này sẽ tăng cường khả năng ngăn chặn các mối đe dọa, đặc biệt là đối với những mã độc mới, có nguồn gốc từ Việt Nam và các khu vực lân cận. Hợp tác này mang lại lợi ích lớn cho các khách hàng, giúp 2 bên phát hiện tới hơn 99% mã độc, đẩy mạnh hiệu quả an ninh mạng trước các cuộc tấn công ngày càng phức tạp.
+
+Phát biểu trong Lễ ký kết, ông Trần Quốc Chính - Chủ tịch công ty CMC Cyber Security chia sẻ: “Hợp tác với OPSWAT sẽ mở ra cơ hội lớn cho việc giới thiệu các sản phẩm và giải pháp của CMC CS tới global market, đồng thời chúng tôi cũng sẽ có thêm nhiều giải pháp cung cấp cho khách hàng tại Việt Nam”.
+
+Chia sẻ về ý nghĩa hợp tác, ông Hà Thế Phương - Tổng giám đốc CMC Cyber Security cho biết: “Hợp tác chiến lược giữa CMC Cyber Security và OPSWAT là một bước quan trọng, đánh dấu sự phát triển không ngừng của hai công ty. Hợp tác này không chỉ mở rộng năng lực công nghệ cho chúng tôi mà còn tạo nên sự thống nhất trong việc bảo vệ dữ liệu, hệ thống của khách hàng.”

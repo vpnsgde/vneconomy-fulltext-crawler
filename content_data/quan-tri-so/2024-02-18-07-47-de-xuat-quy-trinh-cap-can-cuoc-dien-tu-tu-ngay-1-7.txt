@@ -1,0 +1,37 @@
+Dự thảo Thông tư của Bộ Công an quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước, trong đó có các nội dung như: Tiếp nhận và xử lý thông tin về căn cước của cơ quan, tổ chức, cá nhân; Nội dung thể hiện trên thẻ căn cước đối với thông tin về nơi cư trú.
+
+Đồng thời, dự thảo cũng quy định việc cấp, cấp đổi, cấp lại căn cước cho các trường hợp không có hoặc không thu nhận được đầy đủ thông tin quy định tại khoản 2 và khoản 3 Điều 18 Luật căn cước; Xác nhận thông tin số Chứng minh nhân dân 9 số với số định danh cá nhân; số định danh cá nhân đã hủy với số định danh cá nhân đã xác lập lại; Tổ chức thu nhận hồ sơ cấp, cấp đổi, cấp lại thẻ căn cước công dân lưu động trong trường hợp cần thiết...
+
+Nội dung thể hiện trên thẻ căn cước đối với thông tin về nơi cư trú. Theo dự thảo Thông tư, thông tin nơi cư trú thể hiện trên thẻ căn cước là thông tin nơi thường trú của người được cấp thẻ trong Cơ sở dữ liệu quốc gia về dân cư.
+
+Trường hợp người đề nghị cấp, cấp đổi, cấp lại thẻ căn cước không có nơi thường trú nhưng có nơi tạm trú thì thông tin nơi cư trú thể hiện trên thẻ căn cước là thông tin nơi tạm trú của người được cấp thẻ trong Cơ sở dữ liệu quốc gia về dân cư.
+
+Trường hợp người đề nghị cấp, cấp đổi, cấp lại thẻ căn cước không có nơi thường trú, nơi tạm trú do không đủ điều kiện đăng ký thường trú, đăng ký tạm trú thì thông tin nơi cư trú thể hiện trên thẻ căn cước là thông tin nơi ở hiện tại của người được cấp thẻ đã được cập nhật trong Cơ sở dữ liệu quốc gia về dân cư.
+
+Trường hợp người đề nghị cấp, cấp đổi, cấp lại thẻ căn cước không có thông tin về nơi cư trú trong Cơ sở dữ liệu quốc gia về dân cư thì Cơ quan quản lý căn cước có trách nhiệm hướng dẫn công dân thực hiện thủ tục đăng ký thường trú, đăng ký tạm trú hoặc khai báo thông tin về cư trú.
+
+Tổ chức thu nhận hồ sơ cấp, cấp đổi, cấp lại thẻ căn cước lưu động trong trường hợp cần thiết. Dự thảo Thông tư quy định cơ quan quản lý căn cước tổ chức cấp, cấp đổi, cấp lại thẻ căn cước tại cơ quan, tổ chức khi có văn bản đề nghị và cơ quan quản lý căn cước có đủ điều kiện về phương tiện, trang thiết bị kỹ thuật, nguồn nhân lực thực hiện.
+
+Cơ quan quản lý căn cước tổ chức cấp thẻ căn cước tại chỗ ở của công dân đối với trường hợp người già yếu, bệnh tật, ốm đau, khuyết tật không thể đi lại và cơ quan quản lý căn cước có đủ điều kiện về phương tiện, trang thiết bị kỹ thuật, nguồn nhân lực thực hiện.
+
+Ngoài ra, xác nhận thông tin số chứng minh nhân dân 9 số với số định danh cá nhân; số định danh cá nhân đã hủy với số định danh cá nhân đã xác lập lại. Thông tin số chứng minh nhân dân 9 số được mã hóa, tích hợp trong mã QRcode trên thẻ căn cước. Cơ quan, tổ chức, cá nhân quét mã và truy xuất thông tin về số chứng minh nhân dân 9 số của công dân khi có yêu cầu khai thác, sử dụng phục vụ giải quyết thủ tục hành chính, dịch vụ công, các giao dịch và hoạt động khác.
+
+Công dân yêu cầu xác nhận thông tin số chứng minh nhân dân 9 số với số định danh cá nhân; số định danh cá nhân đã hủy với số định danh cá nhân đã xác lập lại trực tiếp tại Cơ quan quản lý căn cước nơi công dân cư trú hoặc gửi yêu cầu qua cổng dịch vụ công quốc gia, cổng dịch vụ công Bộ Công an hoặc qua Ứng dụng định danh quốc gia.
+
+Trường hợp thông tin số chứng minh nhân dân 9 số, số định danh cá nhân đã hủy và được xác lập lại được cập nhật vào Cơ sở dữ liệu quốc gia về dân cư thì trong thời hạn 03 ngày làm việc, cơ quan quản lý căn cước nơi công dân cư trú có trách nhiệm cấp xác nhận thông tin về số chứng minh nhân dân 9 số, số định danh cá nhân.
+
+Trường hợp thông tin số chứng minh nhân dân 9 số chưa được cập nhật vào Cơ sở dữ liệu quốc gia về dân cư thì trong thời hạn 05 ngày làm việc, cơ quan quản lý căn cước nơi công dân cư trú có trách nhiệm tra cứu, xác minh để cấp xác nhận thông tin về số chứng minh nhân dân 9 số, số định danh cá nhân.
+
+Trường hợp từ chối cấp xác nhận thì trả lời công dân bằng văn bản và nêu rõ lý do.
+
+Bộ Công an đang lấy ý kiến dự thảo nghị định của Chính phủ quy định về định danh và xác thực điện tử để thi hành Luật Căn cước, có hiệu lực thi hành từ 1/7/2024.
+
+Trước đó, Thủ tướng Phạm Minh Chính đã ký Quyết định số 175/QĐ-TTg ban hành Kế hoạch triển khai thi hành Luật Căn cước. Nội dung của Kế hoạch gồm: Tổ chức tuyên truyền, phổ biến, giáo dục pháp luật về căn cước; tổ chức tập huấn chuyên sâu, bồi dưỡng nghiệp vụ cho cán bộ lãnh đạo cơ quan, tổ chức và người trực tiếp làm công tác quản lý căn cước; biên soạn tài liệu phục vụ công tác phổ biến Luật Căn cước và các văn bản hướng dẫn thi hành, tài liệu tập huấn, bồi dưỡng nghiệp vụ quản lý căn cước; rà soát văn bản quy phạm pháp luật; xây dựng các văn bản quy phạm pháp luật quy định chi tiết các nội dung được giao trong Luật Căn cước; tổ chức triển khai việc kết nối, chia sẻ thông tin với Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước.
+
+Đồng thời, bảo đảm điều kiện về phương tiện, giải pháp kỹ thuật để tổ chức triển khai việc thu nhận sinh trắc học về mống mắt, ADN, giọng nói; tích hợp, khai thác thông tin trong thẻ căn cước và căn cước điện tử; mở rộng việc kết nối, chia sẻ thông tin trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước; tổ chức kiểm tra việc thi hành Luật Căn cước và văn bản quy phạm pháp luật quy định chi tiết, hướng dẫn thi hành Luật.
+
+Được biết, căn cước điện tử là căn cước của công dân Việt Nam được thể hiện thông qua tài khoản định danh điện tử, do hệ thống định danh và xác thực điện tử tạo lập. Mỗi công dân Việt Nam được cấp một căn cước điện tử. Căn cước điện tử gồm danh tính điện tử (số định danh cá nhân; họ tên; ngày, tháng, năm sinh; giới tính; ảnh khuôn mặt; vân tay).
+
+Cùng với đó là một số thông tin cá nhân khác trong Cơ sở dữ liệu quốc gia về dân cư, Cơ sở dữ liệu căn cước. Ngoài ra, căn cước điện tử có thể được tích hợp các thông tin như thẻ bảo hiểm y tế, sổ bảo hiểm xã hội, giấy phép lái xe, giấy khai sinh, giấy chứng nhận kết hôn…
+
+Căn cước điện tử có giá trị chứng minh về căn cước và thông tin khác đã được tích hợp vào căn cước điện tử để thực hiện thủ tục hành chính, dịch vụ công, các giao dịch và hoạt động khác...

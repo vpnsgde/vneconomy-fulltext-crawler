@@ -1,0 +1,52 @@
+Các tuyến cáp quang biển Việt Nam liên tục gặp sự cố với tần suất mỗi năm xảy ra khoảng 10 lần đứt cáp biển. Tuy nhiên, đây có lẽ là lần đầu tiên có tới 4/5 tổng số tuyến cáp quang biển Việt Nam cùng bị sự cố.
+
+Theo thông tin từ một số nhà cung cấp dịch vụ Internet (ISP) tại Việt Nam, tuyến Liên Á (IA) gặp trục trặc từ ngày 28/1. Nguyên nhân được xác định do đứt cáp tại vị trí cách trạm cập bờ Singapore khoảng 130 km, làm mất toàn bộ dung lượng kết nối quốc tế từ Việt Nam đi Singapore qua IA. Đây là tuyến cáp quang kết nối Singapore, Việt Nam, Philippines, Hồng Kông và Nhật Bản.
+
+Vào sáng ngày 21/1/2023 (tức 30 tết Quý Mão), tuyến cáp quang biển quốc tế APG (Asia Pacific Gateway) đã gặp sự cố trên nhánh S9 hướng kết nối đi Singapore. Cuối tháng 12/2022, tuyến cáp này đang xảy ra lỗi trên nhánh S6 gần HongKong (Trung Quốc).
+
+Đây là tuyến cáp có sự tham gia đầu tư của các nhà mạng Việt Nam như VNPT, Viettel, FPT, CMC và được đánh giá là tuyến cáp quang biển quốc tế góp phần mang lại đường truyền ổn định với dung lượng lớn hơn cho người dùng Internet tại Việt Nam.
+
+Trước đó, từ cuối năm 2022, hai tuyến cáp quang biển kết nối quốc tế khác của Việt Nam là AAG (Asia America Gateway) và AAE-1 (Asia- Africa- Europe 1) cũng đã gặp sự cố từ cuối năm 2022 và chưa được khắc phục xong. Trong đó, hai tuyến AAG và APG mất toàn bộ dung lượng. Tuyến AAE-1 mất dung lượng trên hướng kết nối đi Hong Kong (Trung Quốc), còn tuyến cáp IA mất hướng kết nối đi Singapore.
+
+
+
+Ba tuyến cáp này cùng với sự cố đã IA nâng tổng số cáp quang biển gặp lỗi lên 4 tuyến. Có lẽ đây là lần đầu tiên có đến 4 trong tổng số 5 tuyến cáp quang biển nối Việt Nam đi quốc tế gặp sự cố, chỉ còn lại tuyến cáp quang SMW-3 (Đông Nam Á- Trung Đông- Tây Âu) hoạt động bình thường.
+
+Theo nhìn nhận của các chuyên gia Internet cũng như các nhà mạng, đây là tình huống khá hy hữu, bất khả kháng, gây ảnh hưởng đến tất các nhà cung cấp dịch vụ internet của Việt Nam.
+
+Được biết, trong số 4 tuyến cáp biển này, đa số các nhà mạng sử dụng AAG, APG, AAE-1, còn lại tuyến IA chỉ có khoảng 2-3 đơn vị sử dụng khai thác chính. Việc cùng lúc cả 4 tuyến cáp biển bị sự cố đã và đang ảnh hưởng tới chất lượng kết nối Internet của người dùng Việt Nam đi quốc tế, truy cập mạng chậm.
+
+Trong 4 tuyến cáp bị lỗi, đến nay, mới chỉ có tuyến APG có thông tin dự kiến về lịch sửa chữa khắc phục sự cố xảy ra ngày 26/12 trên nhánh S6 gần HongKong (Trung Quốc) trong thời gian từ ngày 23-27/3/2023.
+
+Trước thực trạng trên, các nhà mạng đều đã đưa ra những phương án để đảm bảo chất lượng kết nối Intetnet đi quốc tế cho người dùng Việt Nam. Các nhà mạng lớn như VNPT, Viettel… đang làm việc với các đơn vị quản lý cáp quang biển quốc tế để nhanh chóng xử lý sự cố trên 4 tuyến.
+
+Một nhà mạng cho hay, với việc sự cố xảy ra đồng thời trên cả 4 hệ thống cáp biển, việc truy cập Internet quốc tế của người dùng Việt Nam đều bị ảnh hưởng ít nhiều, mạng chậm đặc biệt trong các giờ cao điểm và đối với các hoạt động đòi hỏi băng thông internet tốc độ cao như chơi game trực tuyến, xem phim,…
+
+Chia sẻ với VnEconomy, Tập đoàn VNPT cho biết đang khẩn trương làm việc với các đơn vị quản lý cáp quang biển quốc tế để nhanh chóng  xử lý các sự cố. Song song với đó, ngay sau sự cố, nhà mạng này đã chủ động thực hiện các phương án ứng cứu để đảm bảo kết nối Internet quốc tế cho các khách hàng, bao gồm việc chia sẻ tải giữa các link quốc tế, chủ động làm việc với các đối tác Facebook, Tiktok, Youtube, tối ưu lưu lượng theo các hướng cáp, mở ứng cứu bổ sung tài nguyên cáp đất.
+
+Với những giải pháp này, các khách hàng có thể sử dụng và trải nghiệm gần như bình thường các nền tảng Facebook, Tiktok, Youtube cũng như các giao dịch chứng khoán tài chính, bảo hiểm, ngân hàng. Đặc biệt, chất lượng dịch vụ data di động hoàn toàn đảm bảo.
+
+Tập đoàn VNPT cũng đang tiếp tục triển khai thêm các phương án ứng cứu nhằm cải thiện hơn nữa chất lượng truy nhập Internet quốc tế cho khách hàng trong thời khắc phục sự cố cáp quang biển quốc tế.
+
+
+
+Còn với nhà mạng Viettel đã nâng 30% dung lượng đường truyền quốc để để đảm bảo dự phòng sau sự cố đứt 4/5 tuyến cáp biển. Trước sự cố nghiêm trọng trên, các dịch vụ của Viettel về cơ bản vẫn được đảm bảo ngay cả khung giờ cao điểm. Đặc biệt, nhóm khách hàng kênh thuê riêng, data 3G và 4G không bị ảnh hưởng do đã được cấu hình ưu tiên từ trước.
+
+Do có nhiều tuyến cáp đứt nên các hướng kết nối quốc tế đến các dịch vụ không được đảm bảo tối ưu (phải đi vòng) gây cảm nhận chậm như dịch vụ game online...
+
+Nhà mạng này cho hay, trước đó là đơn vị duy nhất duy trì được hai tuyến cáp quang biển gồm tuyến AAE-1 đi Singapore và tuyến IA hướng đi Hồng Kông. Trong đó tuyến cáp IA là tuyến chỉ có duy nhất Viettel khai thác từ trước đến nay.
+
+Trước đó, Tổng Công ty Mạng lưới Viettel (Viettel Networks) luôn dự phòng 40% dung lượng đi quốc tế để sẵn sàng cho các tình huống đứt cáp, tránh ảnh hưởng đến trải nghiệm dịch vụ của khách hàng. Khi có hiện tượng cao tải, các hệ thống của Viettel xây dựng sẽ tự động cân bằng tải, định tuyến và điều tiết dung lượng trên những hướng cáp biển còn lại và cáp đất liền.
+
+Bên cạnh đó, để đảm bảo dự phòng, ngay khi sự cố xảy ra, Viettel đã đầu tư bổ sung thêm 30% dung lượng đường truyền quốc tế, và sẵn sàng bổ sung tiếp 400Gbps trong tháng 2/2023 khi chờ sửa chữa các tuyến cáp biển bị đứt.
+
+Hiện Viettel Networks đang khẩn trương phối hợp với đối tác để đẩy nhanh tiến độ khôi phục các tuyến cáp biển. Dự kiến, tuyến cáp APG sẽ là tuyến cáp được khôi phục đầu tiên trong tháng 3/2023, giúp khôi phục 25% dung lượng kết nối quốc tế cho Viettel.
+
+Nhìn vào lịch sử có thể thấy, mỗi năm Việt Nam xảy ra khoảng 10 lần đứt cáp biển, thời gian đứt trung bình một tháng do việc sửa chữa cáp quang biển vô cùng phức tạp, và phải xin cấp phép ra vào địa phận các quốc gia cáp đi qua.
+
+Việt Nam hiện có 5 hệ thống cáp quang biển. Theo kế hoạch, một số nhà mạng lớn sẽ chính khai thác thêm hai tuyến cáp quang biển mới, góp phần tăng số lượng cáp quang biển của Việt Nam lên. Khi các tuyến này hoạt động cố định sẽ giải quyết căn bản khả năng dự phòng cho các nhà mạng. Một chuyên gia trong ngành cho rằng, với tình trạng sự cố các tuyến cáp quang biển ngày càng nhiều và càng dày, nhu cầu bổ sung các tuyến cáp mới càng trở nên cấp bách. Trong 5 năm tới, Việt Nam có thể sẽ cần thêm ít nhất 2- 3 tuyến cáp quang biển nữa để đáp ứng nhu cầu.
+
+Nhà mạng Viettel thông tin, đã lên kế hoạch triển khai thêm 4 tuyến cáp biển từ nay đến năm 2030. Tuyến cáp ADC hiện đã hoàn thành triển khai cập bờ và dự kiến đưa vào hoạt động trong Quý 3/2023. Tuyến ADC có dung lượng 18.000Gbps, giúp nâng gấp 3 lần dung lượng hiện tại của Viettel.
+
+Đại diện Hiệp hội Internet Việt Nam nhận xét, đường kết nối internet của Việt Nam đã thay đổi. Hệ thống hạ tầng kết nối cáp quang đi quốc tế của Việt Nam đa dạng hơn, giảm thiểu các tình huống “độc đạo”- nếu có sự cố là lập tức Internet Việt Nam có thể chất lượng xấu ngay. Theo chuyên gia này, độ ổn định của Internet Việt Nam đã tốt hơn rất nhiều. Mặc dù nhiều lúc có sự cố cáp quang biển nhưng chất lượng dịch vụ cơ bản không bị ảnh hưởng lớn do các doanh nghiệp viễn thông đã đầu tư kết nối đa dạng hơn, cả trên đất liền và cáp quang biển...
+

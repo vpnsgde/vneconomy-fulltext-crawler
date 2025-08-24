@@ -1,0 +1,27 @@
+Có thể nhiều nơi trên thế giới, người dùng vẫn chưa có cơ hội chạm tay vào chiếc kính Vision Pro của “gã khổng lồ” Apple. Tuy nhiên, giờ đây mọi người đã có những lựa chọn khác thay thế rẻ hơn nhiều tại trung tâm công nghệ Thâm Quyến (Trung Quốc).
+
+Nhà sản xuất EmdoorVR, có trụ sở tại Thâm Quyến đã tạo ra một chiếc kính thực tế ảo mang tên Vision SE. Chỉ với mức giá dưới 2.000 nhân dân tệ (khoảng 280 USD), Vision SE cho phép người dùng xem video, trang web và ứng dụng nơi làm việc trong môi trường VR và AR thông qua màn hình LCD 5,5 inch có độ phân giải 3664 x 1920 pixel.
+
+Số tiền người dùng phải bỏ ra để sở hữu chiếc kính Vision SE rẻ hơn gấp 12 lần so với số tiền để mua Vision Pro của Apple (với mức giá khởi điểm là 3.499 USD). Tuy nhiên, thiết bị của EmdoorVR chỉ được trang bị bộ xử lý AR và VR cấp thấp Snapdragon XR1 của Qualcomm, do đó thiếu trải nghiệm tương tác theo dõi bằng mắt và cử chỉ tay như Apple Vision Pro.
+
+Ông Shi Qing, CEO của EmdoorVR, cho biết công ty hy vọng tận dụng được sự quan tâm xung quanh kính thực tế hỗn hợp Apple Vision Pro để tồn tại trong thời kỳ suy thoái của ngành thực tế ảo (VR) và thực tế tăng cường (AR). Vị CEO chia sẻ: “Chúng tôi không muốn bỏ lỡ cơ hội từ Apple Vision Pro, vì vậy chúng tôi đã tận dụng thời gian và tạo ra sản phẩm tương tự”.
+
+Từ dây đeo màu trắng, màn hình cong phía trước cho đến tên gọi, Vision SE cho thấy những điểm tương đồng đáng chú ý với tai nghe của Apple. Tuy nhiên, chức năng và giá cả của chúng hoàn toàn khác nhau.
+
+Ông Shi cho biết trong khi kính của Apple đi sâu vào khái niệm mới về điện toán không gian thì Vision SE của Emdoor tập trung nhiều hơn vào việc cung cấp trải nghiệm giải trí. Ông cũng nhấn mạnh rằng công ty đã nộp đơn xin cấp bằng sáng chế liên quan và trải qua quá trình kiểm toán để tránh rủi ro về mặt pháp lý.
+
+Vision SE và Vision Pro xuất hiện sau một năm khó khăn với ngành công nghiệp VR và AR, trong đó doanh số giao hàng toàn cầu giảm 8,3% xuống còn 8,1 triệu đơn vị vào năm 2023, theo ước tính của công ty nghiên cứu IDC. Nhu cầu bị giảm bớt do áp lực kinh tế toàn cầu với cả người tiêu dùng và doanh nghiệp.
+
+Tại Trung Quốc, Pico (thương hiệu VR lớn thứ hai thế giới và là công ty con của ByteDance - chủ sở hữu TikTok) đã tiến hành ít nhất hai đợt sa thải vào năm 2023. Hàng trăm nhân viên đã buộc cho thôi việc trong năm vừa rồi. Theo bản tin của hãng truyền thông Caixin (Trung Quốc) hồi tháng 4/2023, chi nhánh VR của trang web phát video trực tuyến iQiyi đã trì hoãn việc trả lương và cắt giảm số lượng nhân viên.
+
+Tuy nhiên, theo IDC, năm 2024 sẽ khác. Dự kiến thị trường AR và VR toàn cầu sẽ tăng trưởng hơn 46% nhờ Vision Pro của Apple cũng như sự sẵn có của Quest 3, được Meta Platforms (chủ sở hữu Facebook) bán ra vào tháng 10/2023.
+
+Được thành lập vào năm 2015, EmdoorVR là startup khởi đầu bằng việc sản xuất thiết bị VR theo hợp đồng cho các hãng công nghệ Trung Quốc, gồm cả iQiyi và ZTE, cũng như các khách hàng khác.
+
+Theo CEO của EmdoorVR, hoạt động kinh doanh hướng tới doanh nghiệp đóng góp khoảng 90% tổng doanh thu cho công ty. Công ty đã xuất xưởng 200.000AX161, chiếc kính dành cho doanh nghiệp có cùng thông số kỹ thuật như Vision SE, kể từ khi ra mắt sản phẩm vào năm 2023.
+
+Vision SE là bước đi của EmdoorVR nhằm tiếp cận phân khúc người dùng phổ thông và công ty đang hy vọng Apple sẽ mở đường cho thị trường này. Việc tiếp thị và lịch ra mắt Vision SE cũng được lên kế hoạch bám sát lịch trình của Apple. Vision SE trình làng vào tháng 10/2023, chỉ vài tháng sau khi Apple giới thiệu Vision Pro hồi tháng 6/2023.
+
+EmdoorVR sau đó đã giới thiệu Vision SE tại CES, triển lãm điện tử tiêu dùng hàng đầu thế giới diễn ra tại thành phố Las Vegas (Mỹ) vào tháng 1/2024, ngay trước khi Vision Pro được bán ra ngày 2/2.
+
+Việc Apple gia nhập thị trường VR và AR đã thu hút sự quan tâm của các nhà phát triển ứng dụng Trung Quốc. DingTalk, nền tảng cộng tác công việc do gã khổng lồ thương mại điện tử Alibaba điều hành, gần đây đã ra mắt ứng dụng gốc dành cho Vision Pro, cho phép người dùng gửi tin nhắn và tổ chức các cuộc họp video trong môi trường ảo ba chiều (3D).

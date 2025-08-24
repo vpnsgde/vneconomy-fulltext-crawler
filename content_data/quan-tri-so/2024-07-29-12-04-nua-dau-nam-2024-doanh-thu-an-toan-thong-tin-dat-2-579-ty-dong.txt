@@ -1,0 +1,25 @@
+Theo báo cáo tại hội nghị sơ kết 6 tháng đầu năm 2024 ngành thông tin và truyền thông sáng ngày 29/7, doanh thu lĩnh vực an toàn thông tin mạng đạt 2.579 tỷ đồng, tăng 19,7% so với cùng kỳ năm 2023 và đạt 37,1% kế hoạch năm 2024. Số lượng lao động của doanh nghiệp hoạt động trong lĩnh vực an toàn thông tin mạng ước khoảng 3.903 lao động, tăng 8,4% so với cùng kỳ năm 2023 và đạt 92,1% kế hoạch năm 2024.
+
+Tổng số chứng thư số công cộng đã cấp tính đến hết tháng 6/2024 hơn 9,1 triệu chứng thư số (9.131.496 chứng thư số) tăng 39,6% so với cùng kỳ năm 2023 (6.540.927 chứng thư số).
+
+Trong đó, tổng số chứng thư số công cộng đang hoạt động tháng 6/2024 đạt 3.270.251 chứng thư số, tăng 46,4% so với cùng kỳ năm 2023 (là 2.233.718 chứng thư số). Tổng số chứng thư số chuyên dùng Chính phủ đang hoạt động tháng 6/2024 đạt 729.626 chứng thư số tăng 24,05 % so với cùng kỳ năm 2023 (là 588.133 chứng thư số). Nhờ đó, ngân sách từ nguồn thu phí duy trì hệ thống kiểm tra trạng thái chứng thư số đạt hơn 29,5 tỷ đồng, đóng góp vào ngân sách nhà nước khoảng 4,4 tỷ đồng.
+
+Trong 6 tháng đầu năm, nhằm nâng cao công tác quản lý nhà nước và thực thi pháp luật về an toàn thông tin, Bộ Thông tin và Truyền thông đã tham mưu trình Thủ tướng Chính phủ: Chỉ thị số 09/CT-TTg ngày 23/2/2024 về tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn thông tin theo cấp độ; Công điện số 33/CĐ-TTg ngày 7/4/2024 về việc tăng cường bảo đảm an toàn thông tin mạng.
+
+Ngoài ra, Bộ Thông tin và Truyền thông cũng đã chỉ đạo ứng cứu sự cố, hỗ trợ khắc phục các cuộc tấn công mạng nhằm vào các hệ thống lớn của PVOil, VNDirect, VNPOST…; triển khai hoạt động giám sát an toàn không gian mạng Việt Nam và bảo đảm an toàn thông tin mạng đối với các hệ thống thông tin quan trọng; theo dõi, giám sát, phát hiện xử lý sớm các nguy cơ mất an toàn thông tin mạng, dấu hiệu tấn công mạng,…
+
+Bộ Thông tin và Truyền thông cũng đã ban hành các văn bản, tài liệu Sổ tay hướng dẫn tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn hệ thống thông tin theo cấp độ; cẩm nang phòng chống, giảm thiểu rủi ro từ tấn công mã độc tống tiền (ransomware); bộ tiêu chí về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát.
+
+Đồng thời chỉ đạo tăng cường phối hợp với các địa phương và các bộ, ngành còn lại hoàn thành việc tích hợp giải pháp ký số từ xa với Cổng dịch vụ công quốc gia, với hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh; chỉ đạo kiểm tra việc chấp hành pháp luật về chữ ký số và dịch vụ chứng thực chữ ký số đối với các doanh nghiệp CA công cộng.
+
+Tuy nhiên, ngành thông tin và truyền thông cũng đối mặt không ít khó khăn, thách thức như: lừa đảo trực tuyến gia tăng, đối tượng xấu lợi dụng sự phát triển của Internet, mạng xã hội, ứng dụng OTT,... để thực hiện lừa đảo, chiếm đoạt tài sản; tấn công ransomware vào lĩnh vực quan trọng, các chiến dịch tấn công ransomware nhắm vào cơ quan, tổ chức, doanh nghiệp quan trọng như chứng khoán, tài chính, năng lượng, viễn thông...
+
+Trước thực trạng đó, Bộ Thông tin và Truyền thông đã phát triển cơ sở dữ liệu chống lừa đảo trực tuyến quốc gia; thúc đẩy hệ sinh thái tín nhiệm mạng; giám sát không gian mạng, phát hiện website/đối tượng giả mạo; thúc đẩy trình duyệt/nền tảng/ứng dụng Việt Nam; Phối hợp xử lý hình sự đối tượng lừa đảo; tuyên truyền nâng cao nhận thức người dân.
+
+Về giải pháp chống tấn công ransomware, ngành thông tin và truyền thông đã tổng rà soát an toàn thông tin các lĩnh vực quan trọng (bao gồm cả hạ tầng kỹ thuật của doanh nghiệp); tăng cường rà soát, đánh giá, phát hiện lỗ hổng bảo mật. Đồng thời, yêu cầu đơn vị vá lỗi, đảm bảo an toàn thông tin theo quy định; phát triển và hỗ trợ sử dụng nền tảng hỗ trợ bảo đảm an toàn thông tin.
+
+Đặc biệt, nhiệm vụ xây dựng và phát triển các nền tảng quốc gia dùng chung thực hiện quản lý nhà nước và thực thi pháp luật về an toàn thông tin đang là nhiệm vụ được ưu tiên thực hiện để hỗ trợ các bộ, ngành, địa phương trong bối cảnh thiếu nguồn nhân lực an toàn thông tin mạng tại các cơ quan, tổ chức, đơn vị.
+
+Trong 6 tháng cuối năm 2024, Bộ Thông tin và Truyền thông tiếp tục xây dựng và triển khai nền tảng hỗ trợ diễn tập thực chiến; đào tạo chuyên sâu cho đội ngũ chuyên gia an toàn thông tin của các bộ, ngành, địa phương; tổ chức chiến dịch làm sạch mã độc trên không gian mạng 2024; 02 diễn tập thực chiến quốc gia về an toàn thông tin; đánh giá sản phẩm, dịch vụ an toàn thông tin chất lượng cao
+
+Bên cạnh đó, tiếp tục triển khai chiến dịch nâng cao nhận thức cho người dân về an toàn thông tin mạng; xây dựng và triển khai Nền tảng Kết nối Internet an toàn (SafeNet); phối hợp với 4 địa phương và 18 bộ, ngành còn lại, hoàn thành việc tích hợp giải pháp ký số từ xa với Cổng dịch vụ công quốc gia, với hệ thống thông tin giải quyết thủ tục hành chính cấp bộ, cấp tỉnh.

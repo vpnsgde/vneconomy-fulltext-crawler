@@ -1,0 +1,29 @@
+MPoC (Mobile Payments on Commercial Off-The-Shelf) là tiêu chuẩn do Hội đồng Tiêu chuẩn Bảo mật Ngành Thẻ Thanh toán (PCI SSC) công bố, nhằm thiết lập các yêu cầu nghiêm ngặt cho các giải pháp thanh toán không tiếp xúc bằng thiết bị di động thông minh.
+
+MPoC - “TẤM HỘ CHIẾU” BẢO MẬT MỚI CHO THANH TOÁN DI ĐỘNG
+
+Khác với các tiêu chuẩn trước đây chỉ áp dụng cho thiết bị chuyên dụng, MPoC mở rộng phạm vi bảo mật sang cả thiết bị di động. Nhờ đó, người dùng có thể vừa nhập mã PIN, vừa thực hiện thanh toán không tiếp xúc ngay trên smartphone, mà không cần đến máy POS vật lý. Điều này mở ra cơ hội tiếp cận công nghệ thanh toán hiện đại theo cách linh hoạt và thân thiện hơn với người dùng.
+
+Để đạt được chứng chỉ MPoC, giải pháp thanh toán phải đáp ứng hơn 190 yêu cầu kỹ thuật liên quan đến bảo mật, giám sát và vận hành hệ thống. Ngoài mã hóa dữ liệu đầu – cuối, tiêu chuẩn này còn yêu cầu khả năng phát hiện tấn công, kiểm tra bảo mật định kỳ, và đảm bảo an toàn trong toàn bộ quá trình cài đặt, sử dụng và cập nhật phần mềm trên thiết bị.
+
+Theo công bố chính thức từ Hội đồng Tiêu chuẩn Bảo mật Ngành Thẻ Thanh toán (PCI SSC), VNPAY là đại diện đầu tiên đến từ Việt Nam đạt chứng chỉ MPoC, với giải pháp thanh toán di động VNPAY PhonePOS.
+
+Khi một doanh nghiệp công nghệ tài chính Việt được công nhận cùng chuẩn với những ‘ông lớn’ như Apple, Visa, Mastercard… là một sự ghi nhận về mặt kỹ thuật, cho thấy năng lực công nghệ của doanh nghiệp Việt đang tiến sát tới những chuẩn mực quốc tế cao nhất trong lĩnh vực tài chính số.
+
+Đáng chú ý, MPoC không đơn thuần là một “tấm hộ chiếu kỹ thuật”, mà còn là cánh cửa để các doanh nghiệp sở hữu chứng chỉ có thể mở rộng hợp tác khi phần lớn các hệ thống thanh toán quốc tế đều đặt yếu tố tuân thủ bảo mật làm điều kiện tiên quyết.
+
+Trong bối cảnh Việt Nam đang đẩy mạnh hội nhập và xây dựng hạ tầng thanh toán quốc gia theo hướng hiện đại, việc một đơn vị trong nước đạt chuẩn MPoC được cho là một tín hiệu tích cực.
+
+Được biết, giải pháp VNPAY PhonePOS hiện đã được triển khai tại hơn 10.000 doanh nghiệp và tiếp tục được nâng cấp về bảo mật sau khi đạt chứng chỉ MPoC. Thay vì phải đầu tư máy POS chuyên dụng tốn kém chi phí, các đơn vị kinh doanh giờ chỉ cần một chiếc điện thoại Android có hỗ trợ NFC để chấp nhận thanh toán thẻ.
+
+Tích hợp trong ứng dụng VNPAY Merchant, PhonePOS cho phép thanh toán nhanh bằng thao tác chạm, hỗ trợ đa dạng thanh toán thẻ không tiếp xúc (contactless) như Visa, Master, JCB, Napas,.., hay thanh toán qua Samsung Pay, Google Pay hoặc Apple Pay. Giải pháp này đặc biệt phù hợp với mô hình kinh doanh nhỏ như quán ăn, tiệm cà phê, cửa hàng bán lẻ, hay cả các shipper cần công cụ thanh toán linh hoạt mà vẫn đảm bảo an toàn dữ liệu.
+
+Ngoài chức năng nhận thanh toán, PhonePOS còn cung cấp hệ thống báo cáo giao dịch trực quan, giúp người bán theo dõi dòng tiền, kiểm soát doanh thu và tối ưu hoạt động kinh doanh.
+
+MỞ RỘNG CƠ HỘI THANH TOÁN KHÔNG TIỀN MẶT TỚI MỌI NGÓC NGÁCH
+
+Theo số liệu từ Ngân hàng Nhà nước, năm 2024 ghi nhận mức tăng 53% về lượng giao dịch không tiền mặt so với cùng kỳ. Trong bối cảnh đó, những giải pháp đáp ứng chuẩn quốc tế như MPoC được kỳ vọng sẽ góp phần thúc đẩy phổ cập thanh toán số trên phạm vi rộng hơn, không chỉ ở đô thị mà cả ở vùng sâu, vùng xa.
+
+PhonePOS là ví dụ cho cách công nghệ có thể được triển khai linh hoạt, chi phí thấp nhưng vẫn đảm bảo yếu tố bảo mật và thân thiện với người dùng. Đây là bước đi phù hợp với định hướng số hóa toàn diện trong lĩnh vực tài chính - ngân hàng và chiến lược thúc đẩy thanh toán không dùng tiền mặt của Việt Nam.
+
+Bà Nguyễn Ánh Tuyết - Phó Tổng giám đốc VNPAY- cho biết: “Chứng chỉ MPoC giúp chúng tôi khẳng định các giải pháp của VNPAY đã đáp ứng được những yêu cầu bảo mật khắt khe nhất hiện nay. Chúng tôi sẽ tiếp tục tập trung vào việc phát triển các giải pháp thanh toán linh hoạt, dễ triển khai và đảm bảo tiêu chuẩn quốc tế, góp phần thúc đẩy thanh toán không tiền mặt tiếp cận rộng rãi hơn trên toàn quốc".

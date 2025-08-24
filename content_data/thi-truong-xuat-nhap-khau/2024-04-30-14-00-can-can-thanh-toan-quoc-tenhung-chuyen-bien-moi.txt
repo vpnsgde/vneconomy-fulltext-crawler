@@ -1,0 +1,33 @@
+Các giao dịch của cán cân thanh toán quốc tế bao gồm: (1) cán cân vãng lai: gồm toàn bộ các giao dịch về hàng hóa, dịch vụ, thu nhập của người lao động, thu nhập từ đầu tư, chuyển giao vãng lai; (2) cán cân vốn: gồm toàn bộ các giao dịch về chuyển giao vốn và mua, bán các tài sản phi tài chính, phi sản xuất của khu vực chính phủ và khu vực tư nhân; (3) Cán cân tài chính bao gồm toàn bộ các giao dịch về đầu tư trực tiếp, đầu tư gián tiếp, giao dịch phát sinh tài chính, vay, trả nợ nước ngoài, tín dụng thương mại, tiền và tiền gửi.
+
+(4) Lỗi và sai sót là phần chênh lệch giữa tổng của cán cân vãng lai, cán cân vốn, cá cân tài chính với cán cân thanh toán tổng thể; (5) cán cân tổng thể (E) được xác định bằng việc thay đổi cán cân tổng thể, làm thay đổi dự trữ ngoại hối nhà nước chính thức do các giao dịch cụ thể tạo ra trong kỳ (E=-F); (6) dự trữ và các khoản có liên quan (F) được xác định bằng thay đổi dự trữ ngoại hối nhà nước chính thức do giao dịch tạo ra trong kỳ.
+
+Cán cân thanh toán quốc tế có vai trò về nhiều mặt.
+
+Một, giúp cân đối cụ thể các khoản giao dịch giữa người cư trú ở Việt Nam và người không cư trú ở Việt Nam về các khoản cụ thể có thặng dư hay bị thâm hụt; từ đó có giải pháp quản lý, điều hành quan hệ giao dịch cụ thể này.
+
+Hai, trên cơ sở tổng hợp các quan hệ này để xác định cán cân thanh toán quốc tế của Việt Nam đạt thặng dư hay thâm hụt. Nếu cán cân thanh toán quốc tế đạt thặng dư thì sẽ làm tăng dự trữ ngoại hối. Nếu cán cân thanh toán quốc tế bị thâm hụt sẽ làm giảm dự trữ ngoại hối.
+
+Ba, nếu dự trữ ngoại hối đạt quy mô vượt qua 3 tháng nhập khẩu theo thông lệ quốc tế và vượt số nợ nước ngoài ngắn hạn thì an toàn tài chính quốc gia được bảo đảm. Nếu dự trữ ngoại hối của quốc gia ở dưới mức trên thì an toàn tài chính của quốc gia chưa được đảm bảo.
+
+Bốn, nếu an toàn tài chính quốc gia được đảm bảo thì Nhà nước có thể an tâm trong việc can thiệp để ổn định thị trường ngoại hối (tỷ giá), hoặc đưa ra các gói hỗ trợ/kích cầu khi có những tác động bất lợi.
+
+Cán cân vãng lai của Việt Nam qua một số năm thể hiện ở hình 1. Theo đó, cán cân vãng lai đã có sự cải thiện tích cực, không bị thâm hụt như một số năm trước kia; từ năm 2015 đến năm 2021 chỉ bị thâm hụt trong vài năm, còn đạt thặng dư liên tục trong 3 năm; kỳ vọng năm 2024 đạt thặng dư lớn, nhờ thặng dư thương mại lớn.
+
+Cán cân vãng lai bao gồm 4 khoản: cán cân hàng hóa; cán cân dịch vụ; cán cân thu nhập; chuyển giao vãng lai.
+
+Cán cân hàng hóa, trong một số năm qua luôn đạt trị giá lớn nhất trong 4 khoản. Điều đó là phù hợp đối với nền kinh tế đang trong quá trình chuyển đổi, có lợi thể về tỷ trọng kinh tế thực/GDP lớn, có lợi thế về số lao động đông, có giá nhân công rẻ, đã tham gia Tổ chức Thương mại thế giới (WTO) từ năm 2007, đến nay đã ký 16 hiệp định thương mại tự do (FTA) với khoảng 60 thị trường… Bên cạnh đó, cán cân hàng hóa liên tục đạt thặng dư trong nhiều năm (năm 2015 là 7.375 triệu USD; 2018: 16.540 triệu USD; 2020: 30.708 triệu USD; sơ bộ 2021: 15.672 triệu USD).
+
+Cán cân dịch vụ  liên tục bị thâm hụt, có năm ở mức rất lớn (năm 2021 là 15.395 triệu USD, gần bằng với mức thặng dư của cán cân hàng hóa là 15.672 triệu USD). Thâm hụt do nhập khẩu liên tục lớn hơn xuất khẩu (năm 2015 là 4.765 triệu USD; 2019: 945 triệu USD; 2020: 10.287 triệu USD; 2021: 15.395 triệu USD). Nguyên nhân chủ yếu do các dịch vụ cho xuất, nhập khẩu dịch vụ, nhất là dịch vụ vận tải, bởi vận tải viễn dương của Việt Nam còn yếu; một số dịch vụ khác, kể cả dịch vụ tài chính, phần nhiều là nhập siêu; ngay cả dịch vụ du lịch trong mấy năm đại dịch Covid-19 cũng chuyển sang nhập siêu, từ năm 2023 mới trở lại xuất siêu. Do vậy, vấn đề đặt ra là cần khẩn trương phát triển đội tàu viễn dương, tăng năng lực đường sắt, nhất là đường sắt liên vận.
+
+Cán cân thu nhập cũng liên tục bị thâm hụt lớn (năm 2015 là 12.150 triệu USD; 2018: 15.818 triệu USD; 2019: 16.795 triệu USD; 2021: 18.749 triệu USD), cao hơn mức thâm hụt về xuất, nhập khẩu dịch vụ, đóng góp lớn vào thâm hụt cán cân vãng lai hoặc làm giảm đáng kể thặng dư cán cân vãng lai. Cán cân thu nhập bị thâm hụt lớn cũng góp phần làm cho tổng thu nhập quốc gia (GNI) chỉ bằng trên dưới 94% GDP. Cán cân thu nhập thâm hụt lớn do chi lớn gấp nhiều lần thu nhập, chủ yếu do thu nhập về đầu tư ra nước ngoài thu nhập từ đầu tư vào Việt Nam.
+
+Cán cân chuyển giao vãng lai liên tục thặng dư (năm 2015 là 7.501 triệu USD; 2018: 8.857 triệu USD; 2020: 9.456 triệu USD; 2021: 10.322 triệu USD), góp phần làm giảm thâm hụt cán cân vãng lai. Mức thặng dư tăng cao qua các năm, nguyên nhân chủ yếu do thu lớn hơn chi, nhất là thu từ kiều hối (trong đó có thu từ người lao động làm việc theo hợp đồng dài hạn với nước ngoài gửi về).
+
+Cán cân vốn và cán cân tài chính gồm 3 khoản lớn: cán cân đầu tư trực tiếp, cán cân đầu tư gián tiếp và cán cân đầu tư khác.
+
+Cán cân đầu tư trực tiếp một số năm qua (hình 2) cho thấy: Việt Nam tuy là nước đang phát triển, nhưng đã có một số doanh nghiệp vươn ra nước ngoài với lượng vốn đầu tư không nhỏ; đầu tư sang khoảng 40 nước và vùng lãnh thổ, trong đó có 8 nơi đạt trên 1 tỷ USD; không chỉ là những nước đang phát triển mà cả những nước phát triển...
+
+Nội dung bài viết được đăng tải trên ẩn phẩm đặc biệt Kinh tế 2023-2024:  Việt Nam & Thế giới phát hành ngày 06/03/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

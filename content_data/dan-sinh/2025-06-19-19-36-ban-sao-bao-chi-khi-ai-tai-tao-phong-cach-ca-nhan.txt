@@ -1,0 +1,68 @@
+Hồi tháng 3/2025, nhà báo công nghệ Alex Kantrowitz - cây bút kỳ cựu chuyên viết về ảnh hưởng của công nghệ tới truyền thông và kinh doanh - đã chia sẻ trên blog Medium một trải nghiệm khiến ông “thực sự bắt đầu nghĩ rằng AI có thể làm thay công việc của mình”.
+
+Trong bài viết, ông kể lại cuộc gặp với Evan Ratliff - một nhà báo Mỹ khác - người đã tạo ra bản sao giọng nói của chính mình bằng AI, huấn luyện nó dựa trên dữ liệu cá nhân và để nó... đi làm thay.
+
+Điều đáng nói là: bot AI mang giọng Ratliff ấy đã thực hiện một cuộc phỏng vấn với một giám đốc công nghệ, không chỉ suôn sẻ mà còn thu được thông tin chất lượng đến mức bản thân Ratliff phải thừa nhận bot này làm tốt hơn cả mình - bởi đối phương dường như cởi mở hơn khi nói chuyện với một “cỗ máy biết lắng nghe”.
+
+
+
+Câu chuyện không chỉ là công nghệ. Nó là một cuộc chất vấn ngầm nhưng day dứt về bản sắc nghề báo trong kỷ nguyên của những “bản sao” hoàn hảo.
+
+Kantrowitz viết rằng: “Nếu như trước đây ông tin rằng nghề báo - vốn gắn với trực giác, quan hệ và lập trường cá nhân - sẽ khó bị thay thế, thì giờ đây niềm tin ấy đang lung lay nghiêm trọng”.
+
+Câu chuyện của Kantrowitz và Ratliff không còn là một thí nghiệm ngoại lệ. Khi các hệ thống trí tuệ nhân tạo ngày càng học được cách viết tin, dựng video, dẫn chương trình, thậm chí nhập vai thành nhà báo với quan điểm và lối hành văn riêng biệt, chúng ta buộc phải đặt ra một câu hỏi vừa chuyên môn, vừa đạo đức: Chuyện gì sẽ xảy ra khi sản phẩm và chủ thể sáng tạo báo chí bắt đầu được “sao chép” bằng máy móc? Đâu là ranh giới giữa công cụ hỗ trợ và bản sao thay thế?
+
+Nếu như trước đây, các công cụ AI chủ yếu dừng lại ở việc hỗ trợ biên tập - sửa lỗi chính tả, gợi ý tiêu đề, hoặc tóm tắt văn bản - thì giờ đây, chúng đang bước vào một giai đoạn mới: tái tạo toàn bộ trải nghiệm của một bài báo, từ cách hành văn, nhịp điệu, đến lập luận và quan điểm.
+
+
+
+"Báo chí, về bản chất, không chỉ là hệ thống sản xuất thông tin mà còn là không gian công - nơi con người tranh luận, phản biện và tái khẳng định quyền lực diễn ngôn trong đời sống dân chủ. Nếu quyền diễn ngôn ấy dần dịch chuyển vào tay những mô hình phi nhân tính - được kiểm soát bởi một vài tập đoàn công nghệ lớn - thì vấn đề không chỉ là nghề báo bị ảnh hưởng, mà là chính cấu trúc tri thức và quyền lực trong xã hội bị tái thiết theo những cách khó lường.
+
+Tại Việt Nam, các cơ quan báo chí cũng đang chịu áp lực chuyển đổi số và tìm cách tận dụng AI. Tuy nhiên, quá trình này cần được đặt trong một tầm nhìn dài hạn - nơi công nghệ hỗ trợ chứ không thay thế báo chí và nơi giá trị con người vẫn phải là trung tâm. Việc hợp tác với các công ty công nghệ, nếu có, cần dựa trên nguyên tắc minh bạch, tôn trọng quyền sở hữu nội dung và bảo vệ vai trò nghề nghiệp của nhà báo - như người gìn giữ sự thật trong một xã hội ngày càng nhiễu loạn bởi thông tin và chủ thể tạo ra nó".
+
+"Báo chí, về bản chất, không chỉ là hệ thống sản xuất thông tin mà còn là không gian công - nơi con người tranh luận, phản biện và tái khẳng định quyền lực diễn ngôn trong đời sống dân chủ. Nếu quyền diễn ngôn ấy dần dịch chuyển vào tay những mô hình phi nhân tính - được kiểm soát bởi một vài tập đoàn công nghệ lớn - thì vấn đề không chỉ là nghề báo bị ảnh hưởng, mà là chính cấu trúc tri thức và quyền lực trong xã hội bị tái thiết theo những cách khó lường.
+Tại Việt Nam, các cơ quan báo chí cũng đang chịu áp lực chuyển đổi số và tìm cách tận dụng AI. Tuy nhiên, quá trình này cần được đặt trong một tầm nhìn dài hạn - nơi công nghệ hỗ trợ chứ không thay thế báo chí và nơi giá trị con người vẫn phải là trung tâm. Việc hợp tác với các công ty công nghệ, nếu có, cần dựa trên nguyên tắc minh bạch, tôn trọng quyền sở hữu nội dung và bảo vệ vai trò nghề nghiệp của nhà báo - như người gìn giữ sự thật trong một xã hội ngày càng nhiễu loạn bởi thông tin và chủ thể tạo ra nó".
+
+Thử gõ một đề tài đơn giản như “Chiến sự tại Gaza nhìn từ quan điểm nhân đạo” vào GPT-4, chỉ vài giây sau, người dùng sẽ nhận được một bài viết dài 700-1.000 từ, cấu trúc mạch lạc, giọng điệu tương tự như các bài phân tích của BBC hoặc The Guardian. Không chỉ “đúng kiểu”, bài viết còn có thể linh hoạt chuyển “tông giọng” - tùy theo câu lệnh (prompt) yêu cầu phong cách “lạnh lùng dữ kiện” như Reuters, hay “thiên về cảm xúc” như Al Jazeera.
+
+Nhiều nhà báo đã thử nghiệm điều này. Nhà báo Kevin Roose của New York Times từng yêu cầu một chatbot AI viết lại một bài xã luận với giọng điệu y hệt ông - chính xác đến mức “khó phân biệt đâu là thật”. Tác giả kiêm nhà phê bình công nghệ Casey Newton (từng làm ở The Verge) thì yêu cầu Claude viết lại bản tin hằng ngày của mình, và nhận được bản nháp có chất lượng đến mức có thể đưa lên mạng mà không cần chỉnh sửa nhiều.
+
+Đi xa hơn, các nền tảng AI hiện nay còn có thể tạo ra bản sao cá nhân hóa của các nhà báo cụ thể - mô phỏng lại giọng văn, tư duy và “cái tôi” nghề nghiệp của họ. Tháng 5/2024, startup HeyGen đã tung ra một bản demo cho phép người dùng “clone” một nhà báo nổi tiếng (chẳng hạn như Fareed Zakaria, Tucker Carlson hay Anderson Cooper) và để bản sao này dẫn chương trình bình luận thời sự theo đúng phong cách gốc.
+
+Cũng trong năm 2024, công cụ NewsPilot AI được thử nghiệm nội bộ tại một số tòa soạn ở châu Âu, cho phép tạo ra một “phóng viên AI” với tính cách, lĩnh vực chuyên môn và quan điểm chính trị xác định, rồi dùng nó để sản xuất bài viết định kỳ.
+
+Như vậy, những “bản sao báo chí” không chỉ dừng ở khả năng mô phỏng ngôn ngữ, chúng đang học cách nhập vai như một nhà báo thật sự. Chúng viết như thể có một con người phía sau, đôi khi còn sắc sảo hơn nhờ khả năng tổng hợp dữ liệu tức thì và không mỏi mệt.
+
+Như vậy, nếu một bản sao có thể viết ra nội dung theo đúng phong cách của một nhà báo cụ thể, thậm chí làm thay họ trong cả quy trình sản xuất, thì đâu là phần không thể sao chép? Cái gì còn giữ cho nghề báo tính nguyên bản (original) của nó? Cũng từ đây, khái niệm “bản quyền của giọng điệu”, hay “sở hữu lập trường” trong báo chí, vốn chưa từng được quy định rõ ràng, bắt đầu trở thành một chủ đề tranh luận gay gắt.
+
+Một trong những điều từng là “đặc quyền” nghề nghiệp của nhà báo, nếu không muốn nói là “linh hồn” của công việc này, chính là lập trường và giọng điệu cá nhân. Nó thể hiện trong cách chọn đề tài, khung diễn giải vấn đề, cấu trúc lập luận và cả lối dùng từ. Những yếu tố đó tạo nên cái mà giới báo chí hay gọi là “voice” - giọng điệu. Nhưng giờ đây, AI không chỉ học cách viết mà còn học cả cách thể hiện quan điểm.
+
+Hồi tháng 5/2024, Reuters đưa tin Open AI đã ký các thỏa thuận bản quyền nội dung với The Atlantic và Vox Media, trong đó có thỏa thuận cho phép AI truy cập kho bài viết của họ để “huấn luyện phong cách viết” cho ChatGPT và các hệ thống tương tự. Các thỏa thuận này được kỳ vọng sẽ góp phần phát triển các sản phẩm AI mới như “Atlantic Labs” - nơi kiểm nghiệm mô hình AI được thiết kế riêng theo giọng điệu, lập luận báo chí.
+
+Các thỏa thuận tương tự còn được Open AI ký với nhiều tổ chức truyền thông như News Corp, Axel Springer, hay The Financial Times; tuy nhiên, nó cũng gây ra tranh cãi trong giới báo chí Mỹ. Liệu một hệ thống có thể tái hiện lối hành văn kiểu Ezra Klein, hay mô phỏng giọng bình luận của Anne Applebaum, thì đâu là ranh giới giữa “tham khảo” và “xâm phạm tinh thần tác giả”?
+
+Ngay khi thỏa thuận với The Atlantic được ký, chính tờ này đăng bài viết của Damon Beres với tiêu đề khá gắt: Thỏa thuận với quỷ dữ (A devil’s bargain). Beres bày tỏ lo ngại rằng việc này có thể đe dọa quyền sở hữu trí tuệ, khi AI sử dụng nội dung báo chí mà không đảm bảo bảo vệ đầy đủ giá trị sáng tạo của nhà báo. Ông cảnh báo về nguy cơ AI làm suy yếu ngành báo chí, đặc biệt khi các tổ chức truyền thông phụ thuộc vào công nghệ mà không có khung pháp lý rõ ràng.
+
+Về nguyên lý, các mô hình ngôn ngữ lớn LLM được cá nhân hóa (personalized) đang được xây dựng không chỉ để bắt chước văn phong mà còn học cả góc nhìn tư tưởng của từng tác giả, từ đó tạo nên bản sao “triết học” của họ - một kiểu avatar lập luận không còn là người thật, nhưng vẫn phát ngôn như thể họ vẫn đang viết bài từng ngày.
+
+Một số cây bút độc lập trên YouTube và Substack đã dùng HeyGen để “nhân bản” chính mình, phát hành video song song cùng lúc bằng tiếng Anh, tiếng Tây Ban Nha - tất cả đều mang cùng một điệu bộ lý lẽ và thái độ lập luận.
+
+Tình huống này đặt ra một khủng hoảng pháp lý mới: bản quyền về quan điểm, giọng điệu và lập trường có thể được sở hữu không? Trước đây, luật bản quyền chỉ bảo vệ văn bản (tác phẩm hữu hình), không bảo vệ ý tưởng (ideas). Nhưng khi AI bắt đầu học được không chỉ nội dung, mà cả cách tư duy, logic và điệu bộ biểu đạt tư tưởng, thì đường biên giữa ý tưởng và cách thể hiện trở nên nhòe mờ. Sự nhòe này là mối đe dọa kép: nó vừa phá vỡ nền tảng tác quyền truyền thống, vừa thách thức năng lực định danh của nhà báo - ai là người thực sự “nói” ở đây?
+
+Trở lại với câu chuyện của Evan Ratliff ở trên: nhà báo đã để bot mang giọng mình thực hiện phỏng vấn. Nếu người phỏng vấn là một AI có giọng và lập trường giống hệt nhà báo thật, thì liệu ai chịu trách nhiệm về nội dung được tạo ra? Khi người đọc dần quen với việc nghe “giọng AI” mô phỏng giọng báo chí, họ còn cần phân biệt đâu là người, đâu là máy nữa không?
+
+Câu hỏi này không chỉ mang tính triết lý, mà còn là mối lo nghề nghiệp. Bởi nếu giọng viết, lập luận và tư duy - những yếu tố từng là giá trị riêng của nhà báo - đều có thể bị nhân bản và tái sử dụng, thì bản sắc báo chí, vốn mang đậm dấu ấn cá nhân, sẽ biến thành một tài nguyên mở, thậm chí là một loại tài nguyên có thể bị “khai thác không hoàn lại”.
+
+Trong một thế giới nơi nội dung được trích lọc, tái chế bởi thuật toán mà không gắn với con người cụ thể, giá trị đạo đức, chính trị và văn hóa của báo chí có nguy cơ bị xói mòn, làm phẳng. Câu hỏi không còn là “AI có thể làm được những gì?” mà là “Chúng ta sẵn sàng từ bỏ những gì để AI làm thay?”
+
+Báo chí, về bản chất, không chỉ là hệ thống sản xuất thông tin mà còn là không gian công - nơi con người tranh luận, phản biện và tái khẳng định quyền lực diễn ngôn trong đời sống dân chủ. Nếu quyền diễn ngôn ấy dần dịch chuyển vào tay những mô hình phi nhân tính - được kiểm soát bởi một vài tập đoàn công nghệ lớn - thì vấn đề không chỉ là nghề báo bị ảnh hưởng, mà là chính cấu trúc tri thức và quyền lực trong xã hội bị tái thiết theo những cách khó lường.
+
+Tại Việt Nam, các cơ quan báo chí cũng đang chịu áp lực chuyển đổi số và tìm cách tận dụng AI. Tuy nhiên, quá trình này cần được đặt trong một tầm nhìn dài hạn - nơi công nghệ hỗ trợ chứ không thay thế báo chí và nơi giá trị con người vẫn phải là trung tâm. Việc hợp tác với các công ty công nghệ, nếu có, cần dựa trên nguyên tắc minh bạch, tôn trọng quyền sở hữu nội dung và bảo vệ vai trò nghề nghiệp của nhà báo - như người gìn giữ sự thật trong một xã hội ngày càng nhiễu loạn bởi thông tin và chủ thể tạo ra nó.
+
+——————————
+
+(*)TS. Đỗ Anh Đức, Trưởng Bộ môn Truyền thông số, Viện Đào tạo báo chí và Truyền thông, Trường Đại học Khoa học Xã hội và Nhân văn.
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 24 25-2025 phát hành ngày 16/6/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

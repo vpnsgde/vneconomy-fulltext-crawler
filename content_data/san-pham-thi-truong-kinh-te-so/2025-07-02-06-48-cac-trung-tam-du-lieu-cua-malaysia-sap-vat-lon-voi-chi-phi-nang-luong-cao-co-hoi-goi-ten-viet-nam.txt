@@ -1,0 +1,29 @@
+Theo các chuyên gia trong ngành, giá điện tăng đang làm giảm sức hút vốn đầu tư vào hạ tầng số của Malaysia.
+
+Trước đây, nhờ giá điện rẻ, Malaysia từng được đánh giá hấp dẫn hơn cả nước láng giềng như Singapore, để thu hút được những khoản đầu tư lớn từ các “ông lớn” công nghệ như Microsoft và Google vào các trung tâm dữ liệu.
+
+Tuy nhiên, giá điện mới của Malaysia có thể khiến chi phí điện tăng từ 10% đến 14% đối với những khách hàng tiêu thụ điện lớn như các trung tâm dữ liệu, theo chia sẻ từ đại diện cơ quan chức năng và các doanh nghiệp tại Malaysia.
+
+Theo đó, điều khiến các doanh nghiệp lo ngại là cách tính giá điện theo bậc, tức chia theo mức sử dụng. Trong khi đó, hầu hết các trung tâm dữ liệu lớn tại Malaysia được cho là sẽ rơi vào nhóm sử dụng điện áp cực cao, tức chịu mức giá cao nhất.
+
+Ông Gary Goh, Giám đốc Công ty tư vấn trung tâm dữ liệu Sprint DC Consulting, cho biết: “Nhiều doanh nghiệp trong ngành chưa kịp chuẩn bị cho mức tăng mạnh này. Với một trung tâm dữ liệu công suất 100 megawatt (MW), chi phí có thể đội lên thêm 15 đến 20 triệu USD mỗi năm, chưa kể các khoản phụ phí nhiên liệu”.
+
+Ông cũng cho biết thêm với mức chi phí tăng cao như vậy, một số nhà đầu tư hiện đang chọn giải pháp “án binh bất động”, theo dõi thêm tình hình trước khi quyết định có tiếp tục rót vốn hay không.
+
+Chính phủ Malaysia dự kiến sắp công bố phụ phí nhiên liệu hàng tháng. Tuy nhiên, theo thông báo trên trang web của Tập đoàn điện lực quốc gia Tenaga Nasional Berhad (TNB) mới đây, mức phụ phí trong tháng này vẫn giữ nguyên ở mức 0.
+
+Malaysia hiện được đánh giá là quốc gia có tốc độ gia tăng nhu cầu năng lượng cho trung tâm dữ liệu nhanh nhất khu vực.
+
+Theo báo cáo được công bố vào tháng 5 của công ty tư vấn Bain & Co cùng các tập đoàn công nghệ như Google và quỹ đầu tư nhà nước Temasek (Singapore), tỷ trọng nhu cầu năng lượng từ các trung tâm dữ liệu tại Malaysia dự kiến sẽ tăng gấp ba, từ 7% năm 2022 lên 21% vào năm 2027.
+
+Ông Cheam Tat Inn, Giám đốc điều hành Equinix Malaysia, chi nhánh của nhà cung cấp hạ tầng trung tâm dữ liệu đến từ Mỹ, nhận định rằng biểu giá điện mới sẽ khiến các nhà vận hành trung tâm dữ liệu lớn phải gánh chi phí cao hơn trong việc duy trì hạ tầng lưới điện so với các đơn vị nhỏ hơn.
+
+Equinix, doanh nghiệp hiện đang vận hành hai trung tâm dữ liệu tại Malaysia, cho biết đang xem xét các nguồn cung cấp điện thay thế để chuẩn bị ứng phó với việc giá điện tăng trong thời gian tới.
+
+Tập đoàn điện lực quốc gia Tenaga Nasional (TNB) từ chối đưa ra bình luận, đồng thời chuyển các câu hỏi liên quan đến Ủy ban Năng lượng Malaysia. Tuy nhiên, cơ quan này cũng chưa phản hồi hãng tin Reuters.
+
+Về phía Chính phủ Malaysia, Thủ tướng Anwar Ibrahim khẳng định việc tăng giá điện là cần thiết để có thêm nguồn lực chi cho các chương trình an sinh xã hội.
+
+Trước đây, Malaysia thu hút đầu tư vào các trung tâm dữ liệu nhờ giá điện thấp và hệ thống điện ổn định. Nhưng theo ông Mahadhir Aziz, Chủ tịch Hiệp hội Trung tâm Dữ liệu Malaysia, chính sách thuế mới có thể khiến các nhà đầu tư cân nhắc chuyển hướng sang các quốc gia khác như Việt Nam hoặc Thái Lan.
+
+“Chính phủ cần sớm xem xét lại vấn đề này, ít nhất là trong phạm vi khu vực. Ngay cả khi các doanh nghiệp đã đầu tư vào đất đai và xây dựng trung tâm dữ liệu tại Malaysia, họ vẫn có thể tính chuyện rút lui hoặc điều chỉnh kế hoạch nếu chi phí vận hành tiếp tục tăng cao”, ông Mahadhir Aziz, Chủ tịch Hiệp hội Trung tâm Dữ liệu Malaysia, cho biết.

@@ -1,0 +1,39 @@
+Nếu có cách nhìn dòng tiền một cách thực chất hơn thì hôm nay không có gì đáng ngại cả.
+
+Thị trường ngày 8/6/2017:
+
+Thị trường điều chỉnh hôm nay và yếu hơn hôm qua. Dòng tiền vẫn ổn.
+
+Hôm nay là lý do tại sao cần phải loại giao dịch của ROS ra khỏi dòng tiền chung trên thị trường. Tuy giao dịch lớn nhưng tiền ở ROS là loại tiền không luân chuyển một cách bình thường. Nói cách khác, tiền hoạt động ở ROS không có tác động đến các cổ phiếu khác và đó là câu chuyện tách biệt trên thị trường chung.
+
+Nếu không tính ROS thì dòng tiền hôm nay vẫn rất tốt, không có cú sốc nào cả. Vốn nội thuần giảm khoảng 17% so với hôm qua nhưng vẫn là 3.592 tỷ, đủ cao.
+
+Thị trường điều chỉnh và cổ phiếu vẫn duy trì được mức độ phân hóa nhất định dù mức độ có giảm xuống một chút. Nếu nhìn từ mức độ tổn hại đạt mức nguy hiểm cho danh mục thì chỉ khoảng 11% thị trường. Đây là trạng thái điều chỉnh bình thường ở trong biên dao động chấp nhận được.
+
+Điểm số vẫn có thể bị tác động xấu thêm trong phiên tới do ảnh hưởng của những cổ phiếu như ROS, nhưng cung cầu có cơ hội cân bằng ở những cổ phiếu bình thường khác. Phiên điều chỉnh hôm nay không phải là khó đoán vì kể cả khi ROS không giảm thì nhiều cổ phiếu gặp kháng cự cũng phải vất vả một chút. Chẳng hạn hôm nay ngân hàng không giảm mới là lạ.
+
+Biến động giá từ hôm qua tới hôm nay vẫn tiếp tục thể hiện hoạt động chốt lời. Hôm nay bán có hạ giá một chút. Hai nhịp “mini panic” đầu giờ sáng và đầu giờ chiều không dẫn đến thảm họa nào và vẫn xuất hiện tiền bắt đáy.
+
+Hiện tại dòng tiền trên thị trường đang duy trì ở mức cao liên tục. Yếu tố quyết định vẫn là lượng hàng tháo ra có đủ làm bão hòa sức mua hay không. Chừng nào chưa có các dấu hiệu của hiện tượng đó thì thị trường vẫn có triển vọng đi theo xu thế tăng. Một xu thế khi đã định hình thì sẽ vẫn tiếp tục xu thế đó đến khi sức mạnh kiến tạo xu thế không còn nữa.
+
+Giao dịch:
+
+Quan sát.
+
+Danh mục theo dõi:
+
+SSI:
+
+Nhịp giảm sớm ngay đầu phiên đẩy SSI xuống 25.75 nhưng chỉ khớp 2k và tổng khớp dưới tham chiếu là 51,7k, rất nhỏ. SSI hôm nay có cầu nội đánh lên mạnh mẽ, nước ngoài chỉ toàn bán, xả 330k giá bình quân 26.09 là khá cao.
+
+Nhịp giảm xuống 25.75 là đợt test 25.8, mức hỗ trợ khá ổn này hôm qua. Lúc thị trường sụp mạnh nhất buổi chiều, SSI rơi trở lại sâu nhất là 25.85. Như vậy vùng 25.8 coi như được kiểm tra thành công.
+
+Chiều tăng SSI gặp nhiều khó khăn ở quanh 26. Lượng hàng thoát ra trên 26 khá dày, tập trung vào buổi sáng. Buổi chiều SSI được đánh ngược lên 26.05 không có gì khó khăn và cung cũng chỉ treo từ 26.2 trở lên. Có khả năng cao SSI sẽ kiểm tra vùng 26 lần nữa.
+
+BID:
+
+Hôm nay định chốt tiếp BID ở 19.25 khi giá bị ép xuống dưới mức Low hôm qua. Tuy nhiên BID có vùng hỗ trợ ngắn hạn ở 19 nên chấp nhận chờ xem phản ứng thế nào. Lúc thị trường yếu nhất BID bị ép xuống tận 18.9. Giao dịch ở 19 rất dày(505k ~ 13,4% Vol). Tổng khớp từ 19 trở xuống là 717k ~ 19% Vol.
+
+Cuối ngày BID được nâng trở lại 19 và đóng cửa lên 19.1. Như vậy mức 19 xác nhận có tính hỗ trợ tốt hôm nay. Nếu BID không thủng 19 thì có triển vọng kiểm tra đỉnh lần nữa, nếu thủng 19 thì giải tán.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

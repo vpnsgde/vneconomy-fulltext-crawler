@@ -1,0 +1,5 @@
+Biểu đồ dưới đây sử dụng dữ liệu của Cục Dự trữ Liên bang Mỹ (Fed), xếp hạng 100 nhà băng lớn nhất tại Mỹ theo giá trị tài sản hợp nhất.
+
+Tài sản hợp nhất là tổng tất cả tài sản của một ngân hàng. Cũng như tiền mặt lưu động, tài sản hợp nhất gồm các tài sản điều này bao gồm các tài sản không có tính thanh khoản như cổ phiếu, trái phiếu, tài sản cố định và trừ đi các khoản nợ.
+
+Ngân hàng lớn nhất tại Mỹ là JP Morgan Chase với tài sản hơn 3.300 tỷ USD, theo sau là Bank of America với 2.500 tỷ USD. Top 5 nhà băng dẫn đầu chiếm tới hơn 50% tổng giá trị tài sản của top 100.

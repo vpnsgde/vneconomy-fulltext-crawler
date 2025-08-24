@@ -1,0 +1,38 @@
+Công an TP.HCM mới đây cho biết về thủ đoạn của đối tượng là giả dạng cán bộ cơ quan chức năng (cán bộ Công an, cơ quan thuế...) hoặc người thân, quen của nạn nhân (đối tượng sử dụng công nghệ Deepfake để giả dạng hình ảnh và giọng nói) thực hiện video call với nạn nhân để tạo sự tin tưởng.
+
+Trong lúc video call, bằng nhiều thủ đoạn, đối tượng sẽ yêu cầu nạn nhân thực hiện nhìn thẳng, nghiêng trái, nghiêng phải... Sau đó, đối tượng sẽ ghi lại video và dùng nó để mở tài khoản ngân hàng, ví điện tử với đứng tên nạn nhân.
+
+Deepfake là công nghệ mô phỏng hình ảnh khuôn mặt con người, được đặt tên theo cụm từ được kết hợp giữa “deep learning” (máy học) và “fake” (giả). Hiện tại công nghệ AI và đặc biệt là Deepfake ngoài được dùng để nhằm phục vụ mục đích tốt, nhưng một số thành phần lại sử dụng cho mục đích lừa đảo, giả mạo, bôi nhọ hay thậm chí là làm ra tin giả kiểu video.
+
+Cụ thể, các đối tượng gọi video call và hướng dẫn người dùng nhìn thẳng, nghiêng trái, nghiêng phải... để thu thập đầy đủ hình ảnh chân dung người dùng ở các góc cạnh khác nhau, mục tiêu để tái tạo video hình ảnh chất lượng và chính xác hơn, sắc nét hơn thay vì thu thập hình ảnh trên Internet.
+
+Theo chuyên gia bảo mật Vũ Ngọc Sơn, Giám đốc công nghệ Công ty công nghệ an ninh mạng NCS, về bản chất, các đối tượng sẽ sử dụng clip hình ảnh này để làm đầu vào cho công nghệ AI, Deepfake để thực hiện hành vi lừa đảo hoặc bán dữ liệu này cho các đối tượng để thực hiện nhiều mục đích khác, chứ không thể dùng để làm eKYC trực tiếp được. Các công nghệ eKYC của ngân hàng hiện có thể nhận biết, phân biệt được đó có phải là người thật hay là một clip, hình ảnh chụp.
+
+Nếu như trước đây các cuộc gọi giả mạo hình ảnh, âm thanh, clip không sắc nét… có thể do thiết bị đối tượng sử dụng để thực hiện hành vi lừa đảo có cấu hình thấp hoặc thuật toán phần mềm AI, Deepfake chưa cao. Tuy nhiên, nếu các đối tượng lừa đảo có tổ chức nhận thấy việc lừa đảo thu lợi bất chính lớn, rất có thể các đối tượng này sẽ đầu tư thêm máy móc thiết bị phần cứng, phần mềm chất lượng cao hơn, nâng cao chất lượng hình ảnh đầu ra, tạo video hình ảnh Deepfake giống như thật, khó có thể phát hiện bằng mắt thường.
+
+“Clip Deepfake lừa đảo sẽ gây ra những hệ lụy, bất tiện cho người dùng mỗi khi nhận được các cuộc gọi kiểu như thế này sẽ phải xác minh lại. Tuy nhiên, dần dần trong xã hội, người dùng sẽ hình thành một thứ giống như “vaccine”, phòng chống lại các hình thức lừa đảo này, “vaccine” thích nghi với xã hội số. Người dùng sẽ ngày càng đề phòng, cảnh giác, cẩn trọng và luôn xác minh khi tiếp cận với tất cả các nội dung thông tin trên không gian số”, ông Sơn cho hay.
+
+Nguy hiểm hơn, trước các vụ lừa đảo Deepfake, việc người dùng chứng minh với ngân hàng mình bị lừa là rất phức tạp, mất thời gian và phải có sự tham gia của nhiều bên như nhà mạng hoặc công an. Với những vụ lừa đảo với số tiền không quá lớn, để huy động các lực lượng vào cuộc xử lý là không hề đơn giản.
+
+Ông Sơn đã dẫn chứng trường hợp cuộc gọi Deepfake lừa đảo chuyển tiền cho con đang nằm cấp cứu ở bệnh viện. Các đối tượng lừa đảo đã sử dụng những chiêu thức tinh vi, lợi dụng hoàn cảnh và tâm lý của nạn nhân. Các đối tượng lừa đảo kiểu này không khác tội phạm lừa đảo người đời thực.
+
+Các chuyên gia an ninh mạng khuyến cáo người dùng không nên tin ngay những cuộc gọi yêu cầu cung cấp thông tin, số tài khoản, chuyển tiền… qua mạng xã hội. Người dùng cần phải nhận biết, nâng cao cảnh giác trước các thủ đoạn lừa đảo này.
+
+Chuyên gia an ninh mạng Trung tâm Giám sát An toàn không gian mạng quốc gia (NCSC) – Cục An toàn thông tin (Bộ Thông tin và Truyền thông) Ngô Minh Hiếu (Hiếu PC) cho biết, lừa đảo Deepfake được tội phạm quốc tế đã và đang áp dụng từ hai ba năm qua. Do vậy, khi tội phạm trong mạng trong nước bắt đầu biết nhiều hơn cách làm, đánh cắp video, hình ảnh, rồi cắt ghép sau đó dùng những công cụ để tạo Deepfake thì lúc đó có thể sẽ tạo ra "một làn sóng lừa đảo thế hệ 4.0".
+
+“Làn sóng lừa đảo này sẽ khiến nhiều người lâu nay rất khó bị lừa, người cẩn thận nhưng giờ cũng có thể sẽ là đối tượng bị lừa. Đối tượng cũng có thể là những người trung niên trở lên sẽ dễ bị lừa nhất vì họ thiếu kiến thức về an toàn thông tin, hiểu biết về công nghệ và khó nhận biết kiểu lừa này nếu không có được sự chia sẻ hướng dẫn an toàn trên không gian mạng”, Hiếu PC nói.
+
+Chuyên gia an ninh mạng NCSC nêu một "kịch bản" về dấu hiệu lừa đảo Deepfake. Như, người dùng khi xem một số video hoặc hình ảnh mà nhân vật trong đó có một số dấu hiệu kỳ lạ, như khuôn mặt thiếu tính cảm xúc và khá "trơ" khi nói, tư thế lúng túng, không tự nhiên… Hay màu da của nhân vật trong video bất thường, ánh sáng kỳ lạ và bóng đổ không đúng vị trí khiến cho video trông "giả tạo" và không tự nhiên. Hoặc âm thanh không đồng nhất với hình ảnh, có nhiều tiếng ồn bị lạc vào clip hoặc clip không có âm thanh.
+
+Và cuối cùng có thể xảy ra tình huống mà tài khoản chuyển tiền không phải của người đang thực hiện cuộc gọi. Và thường kẻ gian sẽ ngắt giữa chừng, bảo là mất sóng, sóng yếu...
+
+Theo chuyên gia Ngô Minh Hiếu, tất cả các "yếu tố kỳ lạ" như trên là “báo hiệu đỏ” của Deepfake. Ông Hiếu cho rằng, người dùng nên tỉnh táo khi có một ai đó trên mạng xã hội trong danh sách bạn bè tự nhiên hỏi mượn tiền hay gửi link lạ thì không nên vội, mà hãy bình tĩnh, kiểm chứng và nên xác thực mọi thứ.
+
+Đồng thời chủ động xác thực bằng cách gọi điện thoại trực tiếp hoặc Facetime ít nhất trên 1 phút, sau đó đặt ra những câu hỏi cá nhân mà chỉ có bạn và người kia mới biết. Vì Deepfake sẽ không thể giả được một cuộc trò chuyện thật sự trong thời gian thực mà có tính chuẩn xác cao, vì dù sao cảm xúc hay biểu cảm của AI hay Deepfake vẫn không thể bắt chước được như người thật tính tới thời điểm này.
+
+Còn theo chuyên gia bảo mật Vũ Ngọc Sơn, lừa đảo sử dụng AI sẽ là xu hướng an ninh mạng nổi bật trong năm 2023 và sẽ còn tiếp diến trong thời gian tới. Tình trạng lừa đảo trên mạng sẽ ngày càng nhiều và liên tục biến tướng. Các đối tượng xấu sẽ tận dụng những lợi thế của công nghệ mới làm công cụ cho các hành vi tấn công, lừa đảo người dùng.
+
+Do đó, người dùng cần thực hiện những quy tắc: không tin tưởng các thông tin yêu cầu (cài phầm mềm, đăng nhập vào website, cung cấp thông tin, chuyển tiền…) trên mạng mà cần phải xác minh lại. Ngoài ra, không nên truy cập vào các địa chỉ website lạ, không cài đặt các phần mềm lạ không rõ nguồn gốc, những phần mềm đòi hỏi yêu cầu cấp quyền truy cập cao vào thông tin người dùng, truy cập thẻ nhớ, danh bạ, vị trí, chụp ảnh,…
+
+Đồng thời, các cơ quan nhà nước cần phải tích cực tuyên truyền để người dân nâng cao hiểu biết về các hình thức tấn công, lừa đảo mới. Các nhà mạng, tổ chức cung cấp dịch vụ thường xuyên cập nhật giải pháp công nghệ hiện đại để phát hiện, phòng chống tội phạm mạng hiệu quả hơn, bảo vệ khách hàng tốt hơn.
+

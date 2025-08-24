@@ -1,0 +1,29 @@
+Theo tiết lộ từ Financial Times, trong văn bản gửi Giám đốc điều hành Perplexity AI Aravind Srinivas, BBC khẳng định đã thu thập được bằng chứng cho thấy nội dung của họ bị sử dụng trong quá trình huấn luyện mô hình AI của Perplexity.
+
+Tập đoàn yêu cầu startup AI này dừng ngay việc thu thập dữ liệu, xóa toàn bộ bản sao đã thu thập.
+
+Động thái cứng rắn được BBC đưa ra chỉ vài tuần sau khi Tổng Giám đốc BBC Tim Davie và lãnh đạo nhiều tập đoàn truyền thông lớn như Sky bày tỏ lo ngại về các đề xuất chính sách mới từ chính phủ Anh, trong đó có khả năng hợp pháp hóa việc sử dụng nội dung có bản quyền để huấn luyện AI mà không cần sự đồng ý từ chủ sở hữu.
+
+“Nếu cứ để tình trạng này tiếp diễn, chúng ta sẽ lâm vào khủng hoảng. Chúng ta cần hành động dứt khoát để bảo vệ quyền sở hữu trí tuệ”, ông Davie phát biểu tại một hội nghị truyền thông.
+
+Về phần mình, Perplexity phủ nhận cáo buộc từ BBC và cho rằng những tuyên bố này là “thiển cận và mang tính cơ hội”. Công ty cũng nói rằng BBC đang hiểu sai bản chất công nghệ, internet và luật sở hữu trí tuệ.
+
+Perplexity khẳng định họ không trực tiếp phát triển hay huấn luyện mô hình AI, mà chỉ cung cấp công cụ để người dùng truy cập các hệ thống do các bên thứ ba phát triển như OpenAI, Google hay Meta.
+
+BBC khẳng định đã phát hiện nội dung bị sao chép nguyên văn, và công cụ của Perplexity có thể khiến người dùng không còn truy cập vào nền tảng chính thức của BBC nữa. Điều này, theo BBC, là cạnh tranh không lành mạnh.
+
+Tháng 10 năm ngoái, BBC đã bắt đầu đăng ký bản quyền tại Mỹ cho các bài viết trên nền tảng tin tức của mình, nhằm đủ điều kiện đòi hỏi các khoản bồi thường theo luật định trong trường hợp bị vi phạm.
+
+Cũng trong năm ngoái, tờ New York Times cũng gửi thông báo yêu cầu Perplexity AI chấm dứt việc sử dụng nội dung của tòa soạn cho mục đích phát triển mô hình AI của họ. Các cáo buộc tương tự cũng được đưa ra bởi các tờ Wired và Forbes, khi những cơ quan báo chí này phát hiện nội dung của họ bị thu thập và sử dụng mà không có sự cho phép.
+
+Trong một vụ kiện khác do Dow Jones, đơn vị sở hữu Wall Street Journal và New York Post đệ trình, Perplexity bị cáo buộc đã tạo ra những nội dung "ảo giác thông tin” (hiện tượng hallucination) và gán nhầm nguồn, khiến người đọc tưởng rằng các bài viết này thuộc về những ấn phẩm chính thống.
+
+Trước làn sóng chỉ trích ngày càng tăng về hành vi khai thác dữ liệu báo chí, Perplexity từng đưa ra sáng kiến chia sẻ doanh thu với các nhà xuất bản tin tức vào năm 2023, nhằm xoa dịu căng thẳng và thiết lập mối quan hệ hợp tác.
+
+Tính đến tháng 12 cùng năm, chương trình đối tác của công ty đã có sự tham gia của một số tên tuổi lớn như Fortune, Time, Los Angeles Times, World History Encyclopedia, cùng nhiều đơn vị xuất bản quốc tế ngoài khối ngôn ngữ tiếng Anh.
+
+Mâu thuẫn này không chỉ xảy ra giữa Perplexity AI và các tổ chức truyền thông. Theo nguồn tin từ SiliconRepublic, hơn một chục nhà xuất bản lớn, bao gồm Forbes, Condé Nast, Vox, The Guardian và Politico, mới đây đã cùng đệ đơn kiện công ty AI Cohere của Canada với cáo buộc vi phạm bản quyền và nhãn hiệu một cách có hệ thống.
+
+Trong khi đó, cuộc chiến pháp lý giữa New York Times với OpenAI và Microsoft (khởi động từ cuối năm 2023) vẫn đang tiếp diễn và được xem là vụ kiện bản quyền có sức ảnh hưởng lớn nhất từ trước đến nay liên quan đến AI và báo chí.
+
+Mặc dù vậy, một số cơ quan truyền thông trên thế giới đã lựa chọn giải pháp đàm phán trực tiếp với các công ty AI. Financial Times, Axel Springer, Hearst và News Corporation đã ký thỏa thuận cấp phép nội dung với OpenAI. Reuters bắt tay với Meta, trong khi công ty mẹ của Daily Mail cũng đã đạt được thỏa thuận với ProRata.ai.

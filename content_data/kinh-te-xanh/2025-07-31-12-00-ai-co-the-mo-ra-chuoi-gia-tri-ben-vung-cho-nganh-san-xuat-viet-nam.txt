@@ -1,0 +1,49 @@
+Các ngành công nghiệp như điện tử, dệt may, logistics và bao bì tại Việt Nam từ lâu đã dựa vào mô hình tuyến tính "khai thác - sản xuất - vứt bỏ", tức là tài nguyên được khai thác, chế biến thành sản phẩm, rồi thải bỏ dưới dạng rác thải. Tuy nhiên, mô hình này không còn bền vững.
+
+Các nhà nghiên cứu đã chỉ ra các nguyên tắc kinh tế tuần hoàn (giúp sản phẩm và vật liệu được sử dụng càng lâu càng tốt) như một giải pháp thay thế cho tương lai.
+
+Theo PGS. Phạm Công Hiệp, Phó trưởng khoa phụ trách Nghiên cứu và Đổi mới tại Khoa Kinh doanh, Đại học RMIT Việt Nam, trí tuệ nhân tạo (AI) đang nổi lên như một công cụ quan trọng giúp nền kinh tế tuần hoàn trở nên thiết thực và dễ dàng mở rộng quy mô.
+
+“AI không chỉ cải thiện hoạt động mà còn biến đổi cách chúng ta thiết kế, sản xuất và thu hồi giá trị trong chuỗi cung ứng”, ông nói.
+
+AI có thể được sử dụng trong tự động hóa thiết kế thông minh. Với thiết kế bằng AI tạo sinh và công nghệ máy học, các kỹ sư có thể phát triển sản phẩm dạng mô-đun, có trọng lượng nhẹ, dễ sửa chữa và phù hợp với tính tuần hoàn. Họ có thể tạo ra hàng ngàn cấu hình sản phẩm chỉ bằng một chương trình phần mềm duy nhất. Điều này giúp giảm thiểu vật liệu cần sử dụng, đồng thời hỗ trợ tháo lắp và tái sử dụng ở các chu kỳ sản phẩm trong tương lai.
+
+Thực tế trong ngành dệt may Việt Nam, các công cụ AI đã và đang được nghiên cứu để thiết kế những mẫu quần áo giúp giảm thiểu vải thừa, hỗ trợ sản xuất không chất thải.
+
+
+
+PGS. Phạm Công Hiệp, Phó trưởng khoa phụ trách Nghiên cứu và Đổi mới tại Khoa Kinh doanh, Đại học RMIT Việt Nam.
+
+Tối ưu hóa quy trình theo thời gian thực cũng có thể được thực hiện bằng AI. Hệ thống phân tích dự đoán và AI kết hợp với Internet vạn vật (IoT) giúp các nhà sản xuất theo dõi tình trạng máy móc, mức sử dụng năng lượng và hiệu quả sản xuất.
+
+Ví dụ, Siemens MindSphere kết nối thiết bị công nghiệp với đám mây và sử dụng phân tích dựa trên AI để phát hiện bất thường, dự báo sự cố thiết bị và đề xuất lịch bảo trì chủ động.
+
+Tại các nhà máy may ở Việt Nam, hệ thống như vậy có thể phân tích dữ liệu từ máy may theo thời gian thực, dự đoán hao mòn và lên lịch bảo dưỡng để ngăn ngừa thời gian ngừng hoạt động bất ngờ.
+
+Cuối cùng, các hệ thống thị giác và robot được hỗ trợ bởi AI đang chuyển đổi cách thức nhận dạng, phân loại và thu hồi vật liệu trong các hoạt động tái chế, từ đó tối đa hóa giá trị thu hồi. AMP Robotics, một công ty tiên phong trong lĩnh vực này, sử dụng cánh tay robot được hỗ trợ bởi AI để nhận dạng và phân loại vật liệu có thể tái chế từ các dòng chất thải với độ chính xác lên đến 99%.
+
+Tại các nhà máy lắp ráp điện tử, hệ thống tương tự có thể quét thiết bị được trả lại, phân loại các bộ phận theo tình trạng và tự động tháo rời để tái sử dụng hoặc tái chế. Phương pháp này đẩy nhanh quá trình thu hồi vật liệu và ngăn chặn các nguồn tài nguyên quý giá như kim loại đất hiếm bị chôn lấp, giúp nhà sản xuất khép kín vòng tuần hoàn trong chuỗi cung ứng của họ.
+
+“Những năng lực này không còn là lý thuyết nữa”, PGS. Hiệp nhận định. “Chúng đã và đang định hình lại chuỗi cung ứng toàn cầu và nằm trong tầm với của doanh nghiệp Việt”.
+
+Các dịch vụ đám mây với giá cả phải chăng và khuôn khổ AI hoàn thiện sẵn sẽ cho phép doanh nghiệp, bao gồm cả doanh nghiệp vừa và nhỏ, triển khai các mô hình dự đoán, công nghệ nhận dạng hình ảnh và công cụ tối ưu hóa mà không mất nhiều công sức cài đặt.
+
+Kinh doanh tuần hoàn dựa trên AI cũng mang lại lợi nhuận có thể đo lường được: ít thời gian máy móc ngừng hoạt động hơn, giảm lãng phí vật liệu và tạo ra nguồn doanh thu mới từ việc làm mới lại sản phẩm. “Lợi nhuận thu được từ khoản đầu tư thường cao hơn chi phí triển khai ban đầu," PGS. Hiệp cho biết.
+
+Theo PGS. Hiệp, có ba bước chính để doanh nghiệp sản xuất có thể bắt đầu ứng dụng AI.
+
+Thứ nhất,bắt đầu với các ứng dụng dự đoán và mô tả. Theo đó, các nhà sản xuất Việt Nam có thể bắt đầu bằng việc ứng dụng AI vào những hoạt động có ảnh hưởng lớn.
+
+Ví dụ, thuật toán AI kết hợp với dữ liệu cảm biến có thể giúp theo dõi tình trạng hoạt động của máy móc quan trọng theo thời gian thực, dự đoán các sự cố tiềm ẩn trước khi chúng xảy ra. Điều này không chỉ giảm thiểu thời gian ngừng hoạt động tốn kém mà còn kéo dài tuổi thọ thiết bị và giảm thiểu lãng phí các bộ phận bị loại bỏ sớm.
+
+"Bằng cách bắt đầu với những ứng dụng thực tế này, doanh nghiệp có thể đạt được hiệu quả hoạt động nhanh chóng và xây dựng sự tự tin để tích hợp AI rộng rãi hơn," PGS. Hiệp cho biết.
+
+Thứ hai,kết hợp AI với dữ liệu và cảm biến. Tính tuần hoàn đòi hỏi khả năng hiển thị trên toàn bộ chuỗi cung ứng, vì vậy doanh nghiệp cần trang bị cho sản phẩm và dây chuyền sản xuất cảm biến IoT tạo ra dữ liệu chất lượng cao cho các hệ thống AI. Các cảm biến này theo dõi thói quen sử dụng, độ hao mòn linh kiện và điều kiện môi trường, cho phép mô hình AI đề xuất quyết định sửa chữa, nâng cấp hoặc tái chế kịp thời.
+
+Ví dụ, một nhà máy dệt may có thể sử dụng thẻ RFID và công nghệ nhận dạng hình ảnh AI để theo dõi vải thừa trong suốt các công đoạn sản xuất, xác định nơi vải thừa có thể được tái sử dụng hoặc bán lại. Trong sản xuất linh kiện cơ khí, AI có thể sử dụng dữ liệu cảm biến để đề xuất điều chỉnh quy trình nhằm giảm tiêu thụ vật liệu mà không ảnh hưởng đến chất lượng.
+
+PGS. Hiệp cho rằng "đây chính là nơi phép màu xảy ra. Doanh nghiệp càng cung cấp nhiều dữ liệu cho hệ thống AI, chúng càng trở nên thông minh hơn và càng mang lại nhiều giá trị hơn cho chuỗi cung ứng”.
+
+Thứ ba,thiết kế lại cho mô hình kinh doanh tuần hoàn. Xét cho cùng, áp dụng AI vào vòng tuần hoàn không đơn thuần là chuyển đổi công nghệ mà đòi hỏi phải chuyển đổi văn hóa và lãnh đạo trong nội bộ doanh nghiệp. Lãnh đạo phải nuôi dưỡng tư duy đổi mới trong toàn bộ đội ngũ, trao quyền cho nhân viên thử nghiệm các công cụ AI và tái định hình quy trình làm việc truyền thống. Quản lý cần kết hợp các mục tiêu phát triển bền vững với chiến lược kinh doanh, thúc đẩy hợp tác giữa đội ngũ kỹ thuật và phi kỹ thuật.
+
+“Để AI thúc đẩy thành công kinh doanh tuần hoàn, các công ty phải đầu tư vào nguồn nhân lực, phát triển năng lực số và tạo ra văn hóa tổ chức nơi đổi mới và tính bền vững được coi là trách nhiệm chung," PGS. Hiệp nhấn mạnh.

@@ -1,0 +1,22 @@
+Ngày 23/4/2024, Tập đoàn công nghệ FPT công bố hợp tác chiến lược toàn diện với NVIDIA- Tập đoàn công nghệ đa quốc gia hàng đầu thế giới để thúc đẩy nghiên cứu Trí tuệ nhân tạo (AI), cung cấp dịch vụ, giải pháp cho khách hàng Việt Nam và trên toàn cầu.
+
+Hai bên dự kiến xây dựng Nhà máy Trí tuệ nhân tạo (AI Factory), đào tạo nguồn nhân lực chất lượng cao và trở thành Đối tác phát triển dịch vụ (Service Delivery Partner) trong mạng lưới đối tác của NVIDIA.
+
+Theo Biên bản ghi nhớ, FPT dự kiến đầu tư 200 triệu USD để xây dựng AI Factory cung cấp nền tảng điện toán đám mây phục vụ nghiên cứu phát triển AI và có chủ quyền tại Việt Nam. Nhà máy bao gồm các hệ thống siêu máy tính hoạt động trên công nghệ mới nhất của NVIDIA (bao gồm bộ ứng dụng- khung công nghệ phát triển NVIDIA AI Enterprise và chip đồ họa GPU H100 Tensor Core).
+
+AI Factory sẽ cung cấp dịch vụ đám mây GPU giúp khách hàng doanh nghiệp của FPT trên toàn cầu tiếp cận với nguồn lực cốt lõi nhất để nâng cao năng lực nghiên cứu, đẩy nhanh tốc độ ứng dụng AI, đặc biệt là AI tạo sinh (Generative AI), đạt được những đột phá trong nâng cao năng suất, trải nghiệm khách hàng.
+
+Đồng thời nhà máy này cũng giúp FPT tăng tốc xây dựng, phát triển các nền tảng, ứng dụng AI có giá trị cao hơn cho khách hàng mọi ngành nghề. Dự kiến sau 3 tháng ký kết hợp tác, nhà máy có thể sẽ bắt đầu kế hoạch khởi công xây dựng.
+
+Là một trong những đối tác phát triển dịch vụ trong mạng lưới đối tác của NVIDIA, FPT đặt mục tiêu trở thành Global Systems Integrator, cung cấp phần mềm, phần cứng, dịch vụ điện toán đám mây và đặc biệt là các giải pháp Generative AI cho doanh nghiệp trong các lĩnh vực: Công nghệ ô tô, Sản xuất chế tạo, Tài chính, Ngân hàng và Bảo hiểm, giúp các doanh nghiệp nâng cao hiệu suất và tự động hóa vận hành. Hai bên cũng mở rộng dự án nghiên cứu AI với mô hình AI Labs.
+
+FPT dự kiến đưa nội dung đào tạo của NVIDIA vào giảng dạy chính quy tại Đại học và Trung học phổ thông để phát triển nguồn nhân lực công nghệ cao. Tập đoàn đặt mục tiêu có ít nhất 30.000 sinh viên và học sinh được tiếp cận chương trình trong vòng 5 năm.
+
+Bên cạnh đó, FPT và NVIDIA hợp tác thúc đẩy phát triển cộng đồng thể thao điện tử và sáng tạo nội dung số trên nền tảng đám mây thông qua nền tảng Cloud Gaming tại Việt Nam. FPT sẽ cung cấp cơ sở hạ tầng và triển khai dịch vụ GeForce NOW của NVIDIA tới các khách hàng.
+
+“FPT đặt mục tiêu nâng cao năng lực nghiên cứu phát triển công nghệ, thiết lập hệ sinh thái toàn diện các sản phẩm và dịch vụ tiên tiến nhất dựa trên nền tảng AI và Cloud, từ cơ sở hạ tầng, chuyên gia công nghệ đến chuyên môn nghiệp vụ ngành, đáp ứng nhu cầu của thị trường quốc tế. Chúng tôi cam kết đưa Việt Nam trở thành Trung tâm phát triển AI của thế giới”, ông Trương Gia Bình, Chủ tịch HĐQT FPT khẳng định.
+
+Theo Chủ tịch FPT, trong 12 năm tới, FPT đặt mục tiêu có 1 triệu kỹ sư, và tập đoàn sẽ đầu tư vào nền tảng điện toán siêu AI, nghiên cứu và phát triển, phát triển nguồn lực, giải pháp và dịch vụ để tạo ra giá trị to lớn. "FPT có lẽ lần đầu tiên trên thế giới vừa hợp tác với Nvidia về phương diện đầu tư hạ tầng nhà máy trí tuệ nhân tạo vừa xây dựng dịch vụ toàn cầu", ông Bình cho biết thêm.
+
+Còn theo Phó Chủ tịch Sáng kiến AI toàn cầu của NVIDIA Keith Strier, “công nghệ AI sở hữu tiềm năng to lớn trong việc nâng cao chất lượng cuộc sống và củng cố nền kinh tế cho mọi quốc gia thông qua việc thúc đẩy đổi mới sáng tạo trong nhiều lĩnh vực như y tế, nông nghiệp, khí tượng học và sản xuất. NVIDIA và FPT sẽ đồng hành cùng các doanh nghiệp Việt Nam với mục tiêu tăng tốc chuyển đổi số, đưa Việt Nam trở thành cường quốc AI”.
+

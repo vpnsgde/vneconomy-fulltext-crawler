@@ -1,0 +1,15 @@
+Tập đoàn Bảo hiểm FWD vừa thông báo mở rộng quan hệ hợp tác với Microsoft thông qua thỏa thuận thời hạn 4 năm, cung cấp quyền truy cập những sáng kiến Trí tuệ nhân tạo (AI) tạo sinh mới nhất, đồng thời tiếp tục hỗ trợ chiến lược công nghệ đám mây đang là ưu tiên tại FWD.
+
+Được biết, FWD bắt đầu hành trình ứng dụng AI năm 2019 và hiện có gần 200 mô hình AI đang được ứng dụng trên toàn bộ tập đoàn, với hơn 600 trường hợp sử dụng AI được triển khai thực tế.
+
+Ông Ryan Kim, Phó Tổng Giám đốc Kỹ thuật số FWD, cho biết: “Đổi mới kỹ thuật số luôn là trọng tâm trong tầm nhìn thay đổi cảm nhận của mọi người về bảo hiểm của FWD. Hợp tác này là sự kết hợp giữa tinh thần tiên phong của FWD ở Châu Á với một số thị trường bảo hiểm đang phát triển nhanh nhất thế giới, với quy mô toàn cầu và năng lực của Microsoft về công nghệ và AI”.
+
+“FWD tin tưởng việc ứng dụng các sáng kiến công nghệ tương lai để thiết lập nên những tiêu chuẩn và mô hình triển khai AI thực tiễn cho ngành bảo hiểm sẽ giúp Tập đoàn định hình hành trình trải nghiệm bảo hiểm trong tương lai”, ông Ryan Kim nói.
+
+Tập đoàn FWD cho biết luôn nỗ lực nâng cao trải nghiệm khách hàng và cải tiến các hoạt động trong lĩnh vực tiếp quản, tiếp thị, quản lý chất lượng các kênh phân phối và tư vấn tài chính, thẩm định, giải quyết quyền lợi bảo hiểm và chăm sóc khách hàng. FWD là một trong những doanh nghiệp sớm ứng dụng Copilot cho Microsoft 365, một trợ lý AI hỗ trợ công việc hàng ngày của nhân viên.
+
+Còn ông Bill Borden, Phó Chủ tịch Tập đoàn, phụ trách Dịch vụ tài chính toàn cầu của Microsoft, cho biết: “AI đang thúc đẩy sự chuyển đổi trong ngành dịch vụ tài chính, mở ra những cơ hội mới cho sự đổi mới và tăng trưởng kinh doanh một cách linh hoạt ở quy mô lớn”.
+
+Ông Bill Borden nhận định, mối quan hệ hợp tác trong lĩnh vực AI với FWD được tăng cường hơn nữa thông qua Dịch vụ Azure OpenAI và Copilot cho Microsoft 365, sẽ giúp nâng cao trải nghiệm khách hàng cũng như đảm bảo các hoạt động kinh doanh một cách an toàn, có trách nhiệm.
+
+Là khu vực có vai trò quan trọng trong lĩnh vực tài chính toàn cầu, Châu Á- Thái Bình Dương được biết đến nhờ sự năng động và khả năng thích ứng, góp phần thúc đẩy sự tăng trưởng, đổi mới. Microsoft cam kết trao quyền cho khách hàng trong khu vực với AI tạo sinh một cách có trách nhiệm.

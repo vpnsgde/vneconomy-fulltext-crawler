@@ -1,0 +1,33 @@
+Bất chấp các thông tin hỗ trợ xuất hiện ngày càng nhiều, thị trường vẫn bị bán phá giá dữ dội trên diện rộng.
+
+Thị trường ngày 21/7/2017:
+
+Diễn biến giao dịch hôm nay cho thấy phản ứng rất tiêu cực của người cầm cổ. Nếu không vì giải chấp thì hẳn phải thất vọng lắm mới bán ra dữ dội như vậy ở mức giá thấp.
+
+Hiệu ứng bắt đáy rồi kết quả kinh doanh tốt đã không dẫn đến một nhịp tăng dài như dự kiến. Chỉ riêng điều đó cũng đã là một dấu hiệu tiêu cực. VNI xanh chưa đầy 1 giờ đầu tiên, sau đó toàn là giảm. Rất có thể phản ứng quá yếu ớt này đã dẫn đến quyết định thoát hàng mạnh trong buổi chiều.
+
+Phản ứng giao dịch hôm nay sau phiên bắt đáy hôm qua cho thấy lượng hàng cần thoát ra vẫn quá dồi dào. Mặc dù hôm nay bắt đáy khá mạnh và một số mã còn được đẩy lên bất ngờ lúc đóng cửa, nhưng đó chỉ là diễn biến trong một thời điểm quá ngắn. Cần nhấn mạnh rằng không có thông tin gì đặc biệt để khiến nhà đầu tư hoảng loạn bất thường, vì thế giao dịch thuần túy chỉ là cung cầu. Lúc này cũng cầu vẫn chưa cho biết liệu thị trường có hoàn hồn được hay chưa.
+
+Khi các trụ quỵ gối nhiều hơn thì đến lượt VNI cũng phản ánh một tình hình xấu đi rõ hơn. Thật ra các chỉ số khác đã thể hiện điều này từ trước, chẳng qua thói quen nhìn VNI nên nghĩ rằng mức điều chỉnh còn nhẹ. Cổ phiếu giảm tương đối mạnh và nếu dùng margin có thể đã nguy hiểm rồi.
+
+Các mức hỗ trợ kỹ thuật vẫn tồn tại và không có gì khó để xác định. Vấn đề là thị trường có tôn trọng các ngưỡng đó hay không. Nếu một nét vẽ mà làm nên chuyện thì thật là đơn giản. Vì thế tốt nhất là chờ đợi thị trường tạo đáy một cách ổn định. Với quán tính giảm và mức độ tổn thương quá cao trên cổ phiếu, rất khó để khiến tình hình đảo ngược chỉ trong 1 ngày.
+
+Dòng tiền quá chậm chạp hôm nay cho thấy chưa có sự tham lam nào đáng kể. Trừ một vài cổ phiếu có đột biến lạ vào cuối ngày, đa số vẫn sụt giảm nhiều và thanh khoản chung thì quá kém. Vốn nội vào trừ ROS chỉ có 3.134 tỷ đồng. Nếu nhìn vào các phiên giao dịch có tính chất tương tự ở đầu tuần hay tuần trước, sự tham lam là rất rõ.
+
+Chu kỳ “buy – die” trong 2 tuần nay có lẽ khiến các giao dịch ngắn hạn co rút lại nhiều. Nếu quản lý rủi ro đúng mực thì rất nhiều cổ phiếu đã đến ngưỡng cắt lỗ. Nếu xài margin thì khả năng bị call rất cao. Nói tóm lại là khi vòng quay bắt đáy chưa đẩy thị trường đến ngưỡng cực đại thì chưa cân bằng được.
+
+Giao dịch:
+
+May mắn trong việc đảo SSI hôm nay, bán 25.7 và 25.6 ngay đầu phiên, cover 25.25 lúc 11h nhưng sau đó giá lại còn tụt thảm hơn. Thế nào đóng cửa lại phục hồi lên 25.4.
+
+Danh mục theo dõi:
+
+SSI:
+
+Giao dịch có vẻ hoảng loạn trong buổi chiều. Buổi sáng hiệu ứng kết quả kinh doanh gặp phải lực bán mạnh nhưng giá vẫn trụ được ở 25.2. Buổi chiều vùng 25 bị ép cực mạnh, giá Low xuống 24.95 giao dịch hơn 161k. Giá 25 cũng khớp 366k. Đóng cửa có hơn 400k bán ATC và giá dự khớp lúc đầu xuống tận sàn chứng tỏ phía mua hủy lệnh đặt trong phiên liên tục. Tuy nhiên sau đó cầu mới vào đẩy ngược lên 25.4.
+
+SSI vẫn bị nước ngoài bán dữ dội nhưng dường như trong nước đang cố giữ 25. SSI chính thức đỏ là buổi chiều, giao dịch gần 2,4 triệu cổ. Lực bán xả thẳng vào dư mua áp đảo. Có thể SSI đang bị cắt lỗ nhiều. Nước ngoài bán 1,49 triệu giá bình quân 25.29, chiếm trên 36% Vol.
+
+Hôm nay là phiên thứ 2 SSI bị ép thủng 25 và lại vượt lên trên thành công. Vol giảm so với hôm qua là một dấu hiệu tốt. Tuy nhiên nước ngoài giảm bán về cuối ngày nên vẫn chưa rõ ràng lắm. Nước ngoài bán là lực cản chính ở SSI.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.

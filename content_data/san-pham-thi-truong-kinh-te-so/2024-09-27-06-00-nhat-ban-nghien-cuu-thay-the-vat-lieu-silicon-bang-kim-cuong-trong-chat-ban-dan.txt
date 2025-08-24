@@ -1,0 +1,23 @@
+Theo các chuyên gia, kim cương đặc biệt thích hợp để sử dụng trong chất bán dẫn vì độ bền điện môi gấp khoảng 33 lần so với chất cách điện như silicon. Chất bán dẫn kim cương cũng có thể hoạt động trong môi trường nóng gấp khoảng 5 lần so với chất bán dẫn bình thường và về mặt lý thuyết có khả năng dẫn điện gấp khoảng 50.000 lần.
+
+Mặc dù hiện nay các vật liệu SiC (một hợp chất của silic và carbon) và GaN (hợp chất gali và nitơ) cũng đã thu hút sự chú ý như các chất nền bán dẫn thế hệ tiếp theo, nhưng hiệu suất của kim cương vẫn cao hơn rất nhiều.
+
+Nghiên cứu về kim cương như một vật liệu bán dẫn đã được tiến hành trong hơn ba thập kỷ, nhưng đã gặp phải nhiều trở ngại.
+
+Độ cứng của kim cương khiến việc mài và xử lý vật liệu với độ chính xác tuyệt đối gặp nhiều khó khăn. Kim cương cũng có thể bị hỏng khi sử dụng trong chất bán dẫn trong thời gian dài. Việc cố gắng tạo ra các chất nền lớn hơn bằng kim cương là một thách thức đặc biệt, trong khi chi phí đã cản trở việc thương mại hóa.
+
+Kim cương cho thấy hiệu suất cao hơn các vật liệu SiC hơn 80 lần và hiệu suất cao hơn vật liệu GaN hơn 10 lần đồng thời tiết kiệm đáng kể điện năng tiêu thụ so với hai loại hợp chất này.
+
+Chất bán dẫn kim cương được các chuyên gia đánh giá sẽ phù hợp cho các ứng dụng đòi hỏi nguồn cung cấp điện lớn và ổn định, bao gồm ứng dụng cho xe điện, nhà máy phát điện,... Khả năng chống chịu nhiệt độ cao và bức xạ của kim cương cũng được kỳ vọng sẽ khiến chất bán dẫn này phù hợp để sử dụng trong năng lượng hạt nhân và lĩnh vực không gian.
+
+Sau những tiến bộ trong vài năm qua, chất bán dẫn kim cương dự kiến ​​sẽ bước vào giai đoạn thương mại hóa trong khoảng từ năm sau đến năm 2030 và Nhật Bản hiện là quốc gia dẫn đầu về R&D trong lĩnh vực này.
+
+Năm 2023, một nhóm nghiên cứu tại Đại học Saga của Nhật Bản đã phát triển thành công mạch điện đầu tiên trên thế giới kết hợp kim cương vào chất bán dẫn. Orbray, một nhà sản xuất linh kiện có trụ sở tại Tokyo, đã phát triển công nghệ để sản xuất hàng loạt các tấm kim cương 2 inch, vượt qua giới hạn trước đó là 1 inch. Công ty này dự kiến ​​sẽ sớm phát triển một tấm kim cương 4 inch.
+
+Vào tháng 12, công ty khởi nghiệp Power Diamond Systems của Tokyo đã phát triển một thành phần kim cương có khả năng xử lý dòng điện 6,8A đầu tiên thế giới.
+
+Ookuma Diamond Device, một công ty khởi nghiệp khác ở Hokkaido, đang xây dựng một nhà máy tại tỉnh Fukushima để sản xuất hàng loạt chất bán dẫn kim cương. Nhà máy dự kiến ​​sẽ đi vào hoạt động vào năm tài chính 2026, với mục tiêu lắp đặt chất bán dẫn vào thiết bị được sử dụng để loại bỏ mảnh vỡ tại nhà máy điện hạt nhân Fukushima Daiichi bị thảm họa.
+
+JTEC Corporation, công ty sản xuất thiết bị chính xác cho các cơ sở nghiên cứu, có một công nghệ độc đáo để đánh bóng bề mặt của các vật liệu có độ cứng cao bằng plasma.Công ty đã thành công trong việc đánh bóng các chất nền kim cương đơn tinh thể mà không gây hư hỏng.
+
+Nếu chất bán dẫn kim cương thực sự phổ biến trong tương lai, nguồn cung kim cương chất lượng cao ổn định cho hoạt động sản xuất sẽ rất quan trọng. Bên cạnh đó, bên cạnh hiệu suất, bản chất ngành công nghiệp bán dẫn còn là cạnh tranh về giá, nhưng đương nhiên chất bán dẫn kim cương sẽ không rẻ. Đây sẽ là những bài toán nan giải đối với tiến trình phát triển tiếp theo của ngành bán dẫn.

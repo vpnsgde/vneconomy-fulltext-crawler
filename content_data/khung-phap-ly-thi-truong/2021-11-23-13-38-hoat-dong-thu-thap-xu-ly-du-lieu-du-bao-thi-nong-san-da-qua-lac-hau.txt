@@ -1,0 +1,43 @@
+Cục Chế biến và Phát triển thị trường nông sản đang gấp rút hoàn thiện Đề án “Đẩy mạnh ứng dụng công nghệ thông tin trong thu thập thông tin, dự báo tình hình thị trường nông sản” để sẽ trình lên Chính phủ vào tháng 12/2021.
+
+Ông Nguyễn Quốc Toản, Cục trưởng Cục Chế biến và Phát triển thị trường nông sản, cho biết năm 2021, Cục Chế biến và Phát triển thị trường nông sản đã tiến hành khảo sát hoạt động thu thập số liệu và xử lý thông tin thị trường tại các cơ quan của các bộ, ngành, địa phương, các hiệp hội, doanh nghiệp.
+
+Rất nhiều cơ quan, tổ chức đang thực hiện thu thập cơ sở dữ liệu, thông tin về các ngành hàng nông sản, bao gồm: Tổng cục Thống kê (Bộ Kế hoạch và Đầu tư); Trung tâm Tin học và Thống kê (Bộ Nông nghiệp và Phát triển nông thôn); các cơ quan chuyên ngành của Bộ Nông nghiệp và Phát triển nông thôn; Trung tâm Thông tin thương mại và Công nghiệp (Bộ Công Thương); Tổng cục Hải quan (Bộ Tài chính); Sở Nông nghiệp và Phát triển nông thôn các tỉnh; các hiệp hội ngành hàng; các doanh nghiệp...
+
+Do có sự chồng chéo, nên cùng một loại số liệu nhưng có sự sai khác giữa các cơ quan, đặc biệt là các chỉ tiêu liên quan đến tình hình sản xuất của các mặt hàng nông sản giữa các cơ quan của Bộ Nông nghiệp và Phát triển nông thôn và Tổng cục Thống kê (Bộ Kế hoạch và đầu tư).
+
+Đề cập về ứng dụng công nghệ trong thu thập dữ liệu, ông Nguyễn Quốc Toản cho hay, hiện tại khoảng 80% các đơn vị hiện nay vẫn được thu thập theo phương pháp thủ công, thông qua các bảng biểu trình bày dưới dạng excel, word để báo cáo theo đường hành chính. Hiện vẫn chưa có các phần mềm thu thập cơ sở dữ liệu trực tuyến ứng, khiến thông tin thường chậm, và mất nhiều công sức trong tổng hợp của các cơ quan cấp trên.
+
+Thực trạng ứng dụng công nghệ thông tin trong xử lý và phân tích thông tin thị trường nông sản cũng không "khá khẩm" hơn. Qua khảo sát cho thấy, có tới 73% đối tượng được khảo sát chỉ sử dụng phần mềm excel để phân tích dữ liệu, thông tin. Rất ít người sử dụng các phần mềm thống kê chuyên ngành (6%), trong khi đó vẫn còn tới 15% sử dụng phương pháp tính toán thủ công nhờ máy tính cầm tay.
+
+
+
+"Khảo sát cho thấy, thông tin, dữ liệu trong nước phổ biến là gửi qua đường công văn, email chiếm 73%; tỷ lệ sử dụng các ứng dụng phần mềm chỉ chiếm 27%. Đối với dữ liệu quốc tế cũng chủ yếu được trao đổi giữa các cơ quan, tổ chức qua gửi email, công văn, báo cáo giấy chiếm  63%".
+
+Ông Nguyễn Quốc Toản, Cục trưởng Cục Chế biến và Phát triển thị trường nông sản.
+
+Về ứng dụng công nghệ thông tin để dự báo tình hình thị trường nông sản, có tới 52% các cơ quan, tổ chức được hỏi cho biết chỉ sử dụng các công thức tính tăng trưởng để ước tính các chỉ số tăng trưởng khi xây dựng các báo cáo, kế hoạch của ngành.
+
+Một số tổ chức, doanh nghiệp có sử dụng các hàm toán kinh tế đơn giản như hồi quy theo chuỗi thời gian để dự báo (chiếm 10%), không có cơ quan, tổ chức nào sử dụng phương pháp dự báo hiện đại như “máy học (machine learning)” hay “dữ liệu lớn (bigdata)”. Ngoài ra, có khoảng 38% sử dụng các thông tin dự báo của các tổ chức khác trong nước và quốc tế.
+
+“Hiện vẫn thiếu các thông tin quan trọng trong phân tích và dự báo như: hông tin về dự trữ, tồn kho, sơ chế, chế biến nông sản. Thiếu các thông tin về tình hình thị trường xuất khẩu, các yêu cầu của nước nhập khẩu về tiêu chuẩn chất lượng và tiêu chuẩn về an toàn thực phẩm, nhu cầu, thị hiếu tiêu dùng… của các thị trường nên khó khăn trong công tác phân tích và dự báo. Thông tin về chính sách chưa được cập nhật thường xuyên cho các tác nhân trong chuỗi cung ứng nông sản”, ông Nguyễn Quốc Toản nêu thực tế.
+
+Đề án “Đẩy mạnh ứng dụng công nghệ thông tin trong thu thập thông tin, dự báo tình hình thị trường nông sản” hướng đến mục tiêu cung cấp thông tin đầy đủ, chính xác, kịp thời cho các tổ chức, cá nhân, doanh nghiệp, hợp tác xã và nông dân nhằm tăng khả năng cạnh tranh, nâng cao giá trị gia tăng, phát triển bền vững cho nông sản Việt Nam.
+
+Mục tiêu cụ thể được đề ra trong Đề án: đến năm 2025, sẽ hình thành Trung tâm quản lý dữ liệu tập trung của ngành nông nghiệp; xây dựng, vận hành mạng lưới giám sát, thu thập, phân tích thông tin dữ liệu nông nghiệp tự động từ cấp trung ương, địa phương và doanh nghiệp.
+
+Trên 90% các tổ chức, cá nhân, doanh nghiệp hoạt động sản xuất, kinh doanh trong lĩnh vực nông nghiệp được tiếp cận thông tin phân tích và dự báo tình hình thị trường hàng ngày qua nền tảng công nghệ số.
+
+Thu hút mọi thành phần doanh nghiệp đầu tư thích đáng vào khoa học dữ liệu và ứng dụng công nghệ số để tự động hóa các quy trình sản xuất, kinh doanh; quản lý, giám sát nguồn gốc, chuỗi cung ứng nông sản, đồng thời kết nối thông tin với trung tâm dữ liệu quốc gia.
+
+
+
+Định hướng đến năm 2030, sẽ ứng dụng đồng bộ công nghệ dữ liệu lớn (Bigdata), Trí tuệ nhân tạo (AI), Kết nối vạn vật (ToT) trong thu thập thông tin, phân tích, dự báo tình hình thị trường nông sản của ngành nông nghiệp.
+
+Đề án đề ra các nhiệm vụ: Xây dựng và hoàn thiện chính sách hỗ trợ, đẩy mạnh đầu tư, quản lý công tác thu thập thông tin, phân tích và dự báo tình hình thị trường nông sản. Xây dựng hệ thống chỉ tiêu và quy chuẩn dữ liệu quốc gia về dữ liệu ngành nông nghiệp, tiến đến hình thành cơ sở dữ liệu quốc gia của ngành.
+
+Đề án đưa ra kế hoạch sẽ đầu tư, xây dựng Trung tâm dữ liệu tập trung, chuyên sâu phân tích và dự báo tình hình thị trường nông sản. Đối với dự báo tình hình thị trường nông sản, ứng dụng công nghệ viễn thám (giải đoán ảnh vệ tinh) để dự báo diện tích, sản lượng một số cây trồng chủ lực (lúa, cà phê, cây ăn quả, cao su, hồ tiêu…).
+
+Đề án cũng thúc đẩy ứng dụng các mô hình toán kinh tế, mô hình kinh tế lượng để dự báo xu hướng biến động của cung, cầu, giá cả, xuất khẩu, nhập khẩu của các ngành hàng chủ lực. Ứng dụng dữ liệu bigdata và các thuật toán “máy học” để dự báo tình hình biến động về cung – cầu, giá các mặt hàng nông sản.
+
+Xây dựng tính năng hỗ trợ bằng AI (trí tuệ nhân tạo) cho các hoạt động quản lý, phân tích và dự báo thị trường để hỗ trợ ra quyết định cho người dùng. Cung cấp thông tin thị trường nông sản thông qua liên kết thiết bị số cho mọi người dùng trên cơ sở kết nối dữ liệu với cổng thông tin cơ sở dữ liệu số quốc gia.

@@ -1,0 +1,23 @@
+Theo báo cáo mới đây của hãng tư vấn toàn cầu McKinsey & Company, ngành bán dẫn toàn cầu đã có bước nhảy vọt về lợi nhuận trong hai thập kỷ qua. Nếu như trong giai đoạn 2000–2009, lợi nhuận kinh tế toàn ngành chỉ ở mức 38 tỷ USD, thì đến thập kỷ tiếp theo (2010–2019), con số này đã tăng lên 450 tỷ USD. Dự kiến đến năm 2040, ngành này có thể tạo ra giá trị kinh tế lên tới 1.700–2.400 tỷ USD.
+
+Tuy nhiên, dù nhu cầu về chip bán dẫn tăng mạnh nhờ sự phát triển của trí tuệ nhân tạo (AI), lợi nhuận lại không được phân bổ đồng đều.
+
+Chỉ 5% doanh nghiệp hàng đầu trong ngành bán dẫn, bao gồm những “ông lớn” như NVIDIA, TSMC, SK Hynix và Broadcom, đã thu gần như toàn bộ lợi nhuận của toàn ngành trong năm qua.
+
+Cụ thể, nhóm công ty dẫn đầu này bỏ túi tới 159 tỷ USD lợi nhuận, trong khi 90% doanh nghiệp ở nhóm giữa chỉ kiếm được tổng cộng 5 tỷ USD. Nhóm 5% công ty yếu nhất thậm chí còn lỗ tới 37 tỷ USD. Tổng lợi nhuận kinh tế mà cả ngành bán dẫn tạo ra trong năm qua là 147 tỷ USD, tức là nhóm dẫn đầu còn lãi nhiều hơn cả mức trung bình toàn ngành.
+
+Chênh lệch lợi nhuận này mới chỉ bùng nổ trong 2–3 năm trở lại đây. Trong giai đoạn dịch COVID-19 (2021–2022), nhóm 90% công ty ở giữa vẫn có lãi đều đặn hơn 30 tỷ USD mỗi năm, tương đương khoảng 130 triệu USD/công ty. Nhưng kể từ năm 2023, khi cơn sốt AI lên ngôi, lợi nhuận trung bình của nhóm này lao dốc: còn 38 triệu USD vào năm 2023 và chỉ còn 17 triệu USD trong năm 2024, giảm tới 88% sau hai năm.
+
+McKinsey dự báo các công ty bán dẫn phục vụ ngành AI sẽ tăng trưởng ở mức 18–29%/năm từ nay đến 2030. Ngược lại, các công ty không liên quan trực tiếp đến AI chỉ đạt mức tăng trưởng 2–3%/năm. “Chỉ một số rất ít công ty có thể tạo ra giá trị đột phá nhờ AI, phần lớn còn lại đang đối mặt với một thực tại hoàn toàn khác”, McKinsey nhận định.
+
+Lý do khiến một số công ty có thể “thắng lớn” là vì họ có khả năng đặt ra các tiêu chuẩn kỹ thuật cho các dòng chip mới. Với những sản phẩm bán dẫn truyền thống, các tiêu chuẩn chung thường do tổ chức JEDEC ban hành. Nhưng với những dòng chip mới có thông số kỹ thuật hoàn toàn khác biệt, công ty tiên phong có thể tự đưa ra tiêu chuẩn, qua đó chiếm thế chủ động và đẩy lùi sự cạnh tranh từ các đối thủ đến sau.
+
+Ví dụ, SK Hynix là công ty đầu tiên phát triển bộ nhớ HBM vào năm 2013. Đây là một dòng chip hoàn toàn mới vào thời điểm đó, nên vừa phát triển sản phẩm, vừa đồng thời tạo ra tiêu chuẩn kỹ thuật. Tương tự, mô-đun bộ nhớ SOCAMM, đang được NVIDIA quảng bá cho các siêu máy tính AI cá nhân, cũng là một dạng chip có tiêu chuẩn riêng do công ty tự xây dựng.
+
+“Khi sản phẩm còn quá mới, chưa từng có tiền lệ, việc đặt ra tiêu chuẩn phần lớn dựa vào ý kiến từ chính nhà sản xuất. Trong bối cảnh ngày càng nhiều chip được thiết kế riêng theo nhu cầu khách hàng, xu hướng này sẽ còn phát triển mạnh hơn trong thời gian tới”, một người trong ngành cho biết.
+
+Để các doanh nghiệp có thể trụ vững, giới chuyên gia nhấn mạnh cần có sự hỗ trợ mạnh mẽ và chiến lược từ nhà nước, tương tự như cách Đài Loan đã phát triển ngành bán dẫn trong suốt 40 năm qua với mô hình hợp tác chặt chẽ giữa khu vực công và tư.
+
+Điều này có nghĩa có thể chuyển từ những chính sách hỗ trợ đơn thuần như ưu đãi thuế sang các hình thức hỗ trợ tài chính như trợ cấp trực tiếp hoặc đầu tư cổ phần vào doanh nghiệp.
+
+Bên cạnh đó, với những công nghệ khó có thể tự phát triển trong nước, các nước có thể tính đến việc thu hút các trung tâm R&D của doanh nghiệp nước ngoài để bổ sung năng lực công nghệ và nhân lực, đồng thời làm giàu hệ sinh thái bán dẫn nội địa.

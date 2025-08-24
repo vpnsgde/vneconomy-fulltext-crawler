@@ -1,0 +1,17 @@
+Trí tuệ nhân tạo (AI) đã có sự phát triển đột phá vào năm 2023, với các mô hình ngôn ngữ lớn (LLM) và trình tạo văn bản thành hình ảnh. Giống như các công nghệ đột phá khác trước đó như Internet hay điện thoại thông minh, giai đoạn đầu của chu kỳ áp dụng công nghệ AI đã chứng kiến sự ra đời của một loạt các sản phẩm phần mềm có tính ứng dụng cao.
+
+Hình ảnh trực quan dưới đây được tổng hợp từ báo cáo Chuỗi dự báo toàn cầu năm 2024, sử dụng dữ liệu từ Writerbuddy và Coatue để xếp hạng và trực quan hóa các công cụ AI phổ biến nhất năm 2023. Bên cạnh đó, người xem cũng có thể có cái nhìn rõ hơn về các chu kỳ áp dụng công nghệ quan trọng gần đây và các sản phẩm phần mềm xuất hiện vào thời điểm đó.
+
+Không ngạc nhiên khi ChatGPT, “siêu phẩm” của OpenAI trở thành công cụ AI phổ biến nhất năm 2023. ChatGPT chính là phần mềm AI tạo ra sự bùng nổ về trí tuệ nhân tạo được ra mắt vào cuối năm 2022.
+
+ChatGPT thống trị số lượt truy cập web trong ngành với hơn 60% lượt truy cập từ tháng 9 năm 2022 đến tháng 8 năm 2023, thu về 14,6 tỷ lượt truy cập vào trang web của mình.
+
+Theo sau ChatGPT là một chatbot khác, Character.AI, chatbot là một tập hợp các ký tự mà người dùng có thể tự do trò chuyện. Một công cụ viết khác, QuillBot, lọt vào top ba sản phẩm web AI phổ biến nhất năm 2023. Đáng chú ý, ba sản phẩm hàng đầu này chiếm tổng cộng hơn 80% lượt truy cập vào các trang web về sản phẩm AI.
+
+Bên cạnh ngôn ngữ lớn (LLM), trình tạo hình ảnh AI hàng đầu Midjourney là công cụ AI phổ biến thứ tư vào năm 2023 và theo sau là Hugging Face, một cộng đồng nguồn mở có hàng trăm mô hình AI độc đáo bao gồm LLM, trình tạo hình ảnh và các công cụ AI có thể truy cập miễn phí khác.
+
+Mặc dù vẫn đang ở giai đoạn đầu áp dụng, trí tuệ nhân tạo đã tạo ra các công cụ thu hút hàng tỷ lượt truy cập và hàng nghìn người dùng trả tiền cho các phiên bản cao cấp của sản phẩm AI.
+
+Việc ra mắt và phổ biến các sản phẩm phần mềm là động lực chính thúc đẩy người dùng áp dụng các công nghệ đột phá. Các ứng dụng như Uber và Airbnb đã giúp chúng ta định nghĩa lại coi những tiện ích của điện thoại thông minh như một công nghệ, tương tự như những gì các trang web ban đầu như Google, Amazon và YouTube đã làm với Internet.
+
+Mặc dù làn sóng công cụ AI đầu tiên này đã vượt xa những gì thế giới có thể tưởng tượng dù chỉ cách đây vài năm, nhưng khi việc áp dụng AI một cách công khai vẫn đang tiếp tục diễn ra, có thể trong tương lai sẽ xuất hiện những công cụ và sản phẩm AI mạnh mẽ và độc đáo hơn.

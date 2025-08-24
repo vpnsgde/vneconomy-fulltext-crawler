@@ -1,0 +1,19 @@
+Bộ Thông tin và Truyền thông ngày 21/2/2023 đã ban hành Quyết định số 219/QĐ-BTTTT về việc phê duyệt phương án tổ chức đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 2300-2400MHz cho hệ thống thông tin di động mặt đất theo tiêu chuẩn IMT.
+
+Theo đó, băng tần đấu giá là băng tần 2300-2400 MHz. Băng tần này được quy hoạch cho hệ thống thông tin di động mặt đất IMT của Việt Nam theo Thông tư số 29/2021/TT-BTTTT ngày 31/12/2021 của Bộ trưởng Bộ Thông tin và Truyền thông. Cụ thể, các khối băng tần đấu giá gồm: A1: 2300 - 2330 MHz; A2: 2330 - 2360 MHz; A3: 2360 - 2390 MHz.
+
+Ngoài ra, khối băng tần 2390-2400 MHz được quy hoạch làm băng tần bảo vệ, không đấu giá cho hệ thống thông tin di động mặt đất IMT tại cuộc đấu giá này. Quyết định có hiệu lực kể từ ngày kí.
+
+Điều kiện tham gia đấu giá được quy định tại Điều 11 Nghị định số 88/2021/NĐ-CP ngày 1/10/2021 của Chính phủ quy định về thu tiền cấp quyền sử dụng tần số vô tuyến điện, đấu giá, cấp phép, chuyển nhượng quyền sử dụng tần số vô tuyến điện đối với băng tần cũng như tuân thủ quy định của pháp luật về viễn thông đối với sở hữu trong kinh doanh dịch vụ viễn thông, hình thức, điều kiện và tỷ lệ phần vốn góp của nhà đầu tư nước ngoài.
+
+Doanh nghiệp tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 2300-2400 MHz có thể triển khai mạng và dịch vụ viễn thông sử dụng công nghệ IMT-Advanced (4G) hoặc IMT-2020 (5G). Doanh nghiệp tham gia đấu giá quyền sử dụng tần số vô tuyến điện đối với băng tần 2300-2400 MHz theo nguyên tắc triển khai công nghệ nào (căn cứ hồ sơ đề nghị xét duyệt đủ điều kiện tham gia đấu giá) sẽ áp dụng yêu cầu triển khai mạng viễn thông với công nghệ tương ứng (IMT-Advanced/ IMT-2020).
+
+Doanh nghiệp trúng đấu giá băng tần 2300-2400 MHz được cấp giấy phép sử dụng với thời hạn 15 năm và được sử dụng để triển khai hệ thống thông tin di động mặt đất theo tiêu chuẩn IMT-Advanced và các phiên bản tiếp theo theo quy định tại Thông tư số 29/2021/TT-BTTTT ngày 31/12/2021 của Bộ trưởng Bộ Thông tin và Truyền thông.
+
+Các doanh nghiệp được cấp phép sử dụng các khối băng tần khác nhau trong cùng băng tần 2300-2400 MHz phải tuân thủ các quy định, điều kiện kỹ thuật sử dụng băng tần được cấp phép như sau: Tuân thủ các Quy chuẩn kỹ thuật quốc gia có liên quan về thiết bị thu phát vô tuyến điện, an toàn bức xạ và tương thích điện từ trường; Có trách nhiệm phối hợp với nhau để tránh can nhiễu có hại, đồng bộ về khung dữ liệu của phương thức TDD và thực hiện đúng các nội dung của giấy phép sử dụng băng tần theo quy định tại khoản 2 Điều 2 Thông tư số 29/2021/TT-BTTTT ngày 31/12/2021 của Bộ trưởng Bộ Thông tin và Truyền thông.
+
+Đồng thời phối hợp với tổ chức được cấp giấy phép ở băng tần liền kề trong việc sử dụng tần số vô tuyến điện và phòng tránh nhiễu có hại; Phối hợp với các tổ chức, cá nhân có liên quan để thực hiện việc phối hợp sử dụng tần số biên giới để tránh can nhiễu có hại; Thực hiện các quy định khác của Luật Tần số vô tuyến điện, Luật Viễn thông và các văn bản quy phạm pháp luật có liên quan.
+
+Theo Điều 1 Quyết định số 120/QĐ-BTTTT ngày 08/02/2023 của Bộ trưởng Bộ Thông tin và Truyền thông về việc mức thu cơ sở đối với băng tần 2300-2400 MHz, mức thu cơ sở đối với băng tần 2300-2400 MHz là 12.885.557.936 VNĐ/MHz/năm. Thời gian được phép sử dụng băng tần là 15 năm.
+
+Trong thời hạn 15 ngày kể từ ngày nhận được biên bản đấu giá, Bộ trưởng Bộ Thông tin và Truyền thông ra Quyết định phê duyệt kết quả đấu giá và công bố công khai trên Cổng thông tin điện tử của Bộ Thông tin và Truyền thông theo quy định tại khoản 1 Điều 15 Nghị định 88/2021/NĐ-CP.

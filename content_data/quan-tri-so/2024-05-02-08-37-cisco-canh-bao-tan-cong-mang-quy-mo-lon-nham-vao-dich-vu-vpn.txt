@@ -1,0 +1,17 @@
+Tấn công brute force là một phương pháp bẻ khóa phổ biến, liên quan đến việc kẻ tấn công cố gắng “thử và đoán” tên người dùng và mật khẩu để đăng nhập trái phép vào hệ thống. Sau khi có quyền truy cập vào thông tin xác thực, kẻ tấn công có thể sử dụng chúng để chiếm quyền điều khiển thiết bị hoặc giành quyền truy cập vào mạng nội bộ.
+
+Theo Cisco Talos, chiến dịch brute force mới này sử dụng kết hợp tên người dùng nhân viên hợp lệ và chung chung liên quan đến các tổ chức cụ thể. Các nhà nghiên cứu cho biết các cuộc tấn công bắt đầu vào ngày 18/3/2024, trong khi tất cả các cuộc tấn công đều bắt nguồn từ các nút thoát TOR và nhiều công cụ và proxy ẩn danh khác, mà các tác nhân đe dọa sử dụng để trốn tránh các khối.
+
+Ngoài ra, tùy thuộc vào môi trường mục tiêu, các cuộc tấn công thành công thuộc loại này có thể dẫn đến truy cập mạng trái phép, khóa tài khoản hoặc các điều kiện từ chối dịch vụ.
+
+Một số dịch vụ được sử dụng để thực hiện các cuộc tấn công bao gồm TOR, VPN Gate, IPIDEA Proxy, BigMama Proxy, Space Proxy, Nexus Proxy và Proxy Rack. Hoạt động độc hại thiếu sự tập trung cụ thể vào các ngành hoặc khu vực cụ thể, cho thấy một chiến lược rộng lớn hơn về các cuộc tấn công ngẫu nhiên, cơ hội.
+
+Các nhà nghiên cứu của Cisco Talos cho rằng các dịch vụ sau đang được các tin tặc tích cực nhắm tới là: Cisco Secure Firewall VPN; Checkpoint VPN; Fortinet VPN; SonicWall VPN; RD Web Services; Miktrotik và Draytek.
+
+Theo các nhà nghiên cứu, chiến dịch tấn công này không tập trung cụ thể vào các ngành hoặc khu vực cụ thể. Cisco Talos đã chia sẻ danh sách đầy đủ các dấu hiệu xâm phạm (IoC) cho hoạt động này trên GitHub, bao gồm địa chỉ IP của kẻ tấn công để đưa vào danh sách chặn cũng như danh sách tên người dùng và mật khẩu được sử dụng trong các cuộc tấn công Brute Force.
+
+Trước thông tin trên, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) khuyến cáo người dân nên bật tính năng Firewall Posture (HostScan). Người dùng cần nâng cao kiến thức về các hình thức tấn công mạng, nhận biết dấu hiệu như số lượng yêu cầu xác thực bất thường được ghi lại bởi nhật ký hệ thống.
+
+Vào cuối tháng 3/2024, Cisco đã cảnh báo một chiến dịch tấn công password-spraying nhắm vào các dịch vụ VPN truy cập từ xa (RAVPN) được cấu hình trên các thiết bị tường lửa Cisco Secure Firewall.
+
+Xác suất của các cuộc tấn công này sẽ rất hiệu quả đối với các tổ chức thiết lập chính sách mật khẩu yếu, nhắm mục tiêu vào nhiều tên người dùng bằng một tập hợp nhỏ mật khẩu thường được sử dụng.

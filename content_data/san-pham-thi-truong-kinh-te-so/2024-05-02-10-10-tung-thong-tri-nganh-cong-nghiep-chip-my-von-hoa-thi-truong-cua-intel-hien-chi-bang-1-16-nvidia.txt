@@ -1,0 +1,59 @@
+Intel, nhà sản xuất chip từng có giá trị nhất tại Mỹ, hiện có quy mô vốn hoá thị trường chỉ bằng 1/16 Nvidia, cũng nhỏ hơn cả Qualcomm, Broadcom, Texas Instruments và AMD. Nhiều thập kỷ trước, Intel từng được mệnh danh là công ty bán dẫn lớn nhất thế giới tính theo doanh số bán hàng, nhưng gần đây doanh thu của họ đã giảm 7 quý liên tiếp và chính thức bị Nvidia vượt mặt vào năm ngoái.
+
+Theo một số nhà đầu tư, Intel là cổ phiếu công nghệ tệ nhất trong S&P 500 năm nay, giảm 37%. Trong khi đó, hai cổ phiếu tốt nhất trong chỉ số hiện rahu là nhà sản xuất chip Nvidia và Super Micro Computer.
+
+Mặc dù vậy, các quan chức Hoa Kỳ bao gồm cả Tổng thống Biden vẫn gọi Intel là nhà vô địch chip của Mỹ và nói rằng công ty này là một phần quan trọng trong chuỗi cung ứng bộ xử lý của Hoa Kỳ.
+
+Phát biểu trong cuộc họp với các nhà đầu tư sau khi công bố doanh thu, Giám đốc điều hành của Intel, Pat Gelsinger nhấn mạnh: “Một trong những nhiệm vụ ưu tiên của chúng tôi là đẩy nhanh nỗ lực thu hẹp khoảng cách công nghệ do thiếu đầu tư trong hơn một thập kỷ vừa qua”.
+
+Ông Pat Gelsinger đang đặt cược Intel vào sự thay đổi mô hình kinh doanh đầy rủi ro. Theo đó, Intel không còn chỉ sản xuất bộ vi xử lý của riêng mình mà còn hoạt động như một nhà máy cho các công ty sản xuất chip khác thuê ngoài sản xuất, bao gồm Nvidia, Apple và Qualcomm.
+
+Nicholas Brathwaite, đối tác quản lý tại Celesta Capital, cho biết: “Intel là một công ty bán dẫn lớn, mang tính biểu tượng và đã dẫn đầu trong nhiều năm. Và tôi nghĩ họ đáng để cứu vãn”.
+
+Bên cạnh những ý kiến ủng hộ, Intel cũng nhận về nhiều hoài nghi của những người có tiếng trong ngành. Nhà phân tích Akshara Bassi của Counterpoint cho biết: “Tôi nghĩ mọi người đều đã nghe họ nói rằng quý tiếp theo sẽ tốt hơn trong hai, ba năm nay”. Intel đã lóng ngóng trong nhiều năm, trước hết, họ đã bỏ lỡ thời kỳ bùng nổ chip di động – quan hệ đối tác với iPhone vào năm 2007, sau đó, họ đứng bên lề cơn sốt AI trong khi các công ty như Meta, Microsoft và Google chạy đua đặt mua chip Nvidia, theo CNBC.
+
+Trên thực tế, Intel đã có thể xuất hiện bên trong iPhone, dòng điện thoại bán chạy nhất thế giới hiện nay. Khi Apple phát triển chiếc iPhone đầu tiên, Giám đốc điều hành công ty lúc đó là Steve Jobs đã đến thăm cựu Giám đốc điều hành Intel, Paul Otellini, theo cuốn tiểu sử “Steve Jobs” năm 2011 của Walter Isaacson.
+
+
+
+Steve Jobs đã ngỏ lời sử dụng sức mạnh của chip Intel cho điện thoại của họ. Tuy nhiên, thoả thuận đã thất bại vì hai bên đã không thể thống nhất về giá cả và sở hữu tài sản trí tuệ. Sau đó, Apple đã chọn chip Samsung cho dòng iPhone đầu tiên được ra mắt vào năm 2007. Năm 2008, Apple mua PA Semi và ra mắt chip iPhone đầu tiên do họ tự thiết kế vào năm 2010.
+
+Trong khi đó, gần như mọi hãng điện thoại thông minh hiện nay đều sử dụng chip của Arm thay vì công nghệ x86 của Intel (dùng cho PC từ năm 1981). Chip Arm do Apple và Qualcomm sản xuất tiêu thụ ít năng lượng hơn bộ xử lý của Intel, phù hợp với các thiết bị nhỏ như điện thoại thông minh chạy bằng pin.
+
+Năm 2014, để gia tăng sản lượng chip, Apple bắt tay với TSMC để sản xuất số lượng lớn, bắt đầu với A8 vào năm 2014. Nguồn lợi nhuận khổng lồ thu được từ Apple đã giúp TSMC vượt mặt Intel.
+
+Khoảng năm 2017, chip di động của Apple và Qualcomm bắt đầu được bổ sung các bộ phận AI được gọi là bộ xử lý thần kinh, một tiến bộ lớn so với bộ xử lý PC của Intel. Kể từ đó, Intel đã mất thị phần trong hoạt động kinh doanh chip PC cốt lõi vào tay những con chip phát triển từ cuộc cách mạng di động.
+
+Apple cũng đã ngừng sử dụng Intel trong PC của mình vào năm 2020. Máy Mac hiện sử dụng chip dựa trên Arm và một số máy tính xách tay Windows có chip Arm sẽ ra mắt vào cuối năm nay. Nhà phân tích Mikako Kitagawa của Gartner cho biết: “Intel đã mất phần lớn thị phần vì Apple đã chiếm khoảng 10% thị trường”.
+
+Những người trong ngành không ai không biết đến “Định luật Moore” do chính người đồng sáng lập Intel, Gordon Moore đặt ra. Định luật này cho biết lượng sức mạnh tính toán sẽ tăng gấp đôi và trở nên rẻ hơn theo thời gian có thể dự đoán được, khoảng hai năm một lần. Thế nhưng, có vẻ chính intel mới chậm trễ trong nỗ lực cải tiến này.
+
+Bộ vi xử lý đầu tiên của Intel xuất hiện từ năm 1971, 4004, có khoảng 2.000 bóng bán dẫn và hiện nay chip của Intel có hàng tỷ bóng bán dẫn. Tuy nhiên, các công ty bán dẫn khác không chỉ lắp nhiều bóng bán dẫn hơn vào chip mà còn thu nhỏ kích thước của chúng. Giờ đây, những con chip tốt nhất của TSMC đều sử dụng quy trình 3 nanomet, trong khi chip của Intel có kích thước 7 nanomet.
+
+Vào năm 2015, việc ra mắt chip 10nm của Intel đã bị trì hoãn, đến mãi năm 2017, Intel vẫn chỉ sản xuất được chip 14nm, với nguyên nhân được cho là do thiếu đầu tư. Và đương nhiên, công ty đã bỏ lỡ thời hạn cải tiến bản cập nhật 7nm tiếp theo.
+
+
+
+Trong khi Intel đang vật lộn, Advanced Micro Devices (AMD), đối thủ của Intel về chip máy chủ và PC, đã tận dụng được lợi thế từ bên ngoài. Theo đó, AMD thiết kế chip của mình ở California và để TSMC hoặc GlobalFoundries sản xuất chúng. AMD gần như từng không có thị phần về CPU máy chủ cách đây một thập kỷ, tuy nhiên, sự chậm trễ của Intel đã cho phép họ “đảm nhận” hoạt động kinh doanh của công ty trong lĩnh vực này.
+
+Năm 2022, AMD đã bán được hơn 20% số CPU máy chủ và số lượng xuất xưởng đã tăng 62% trong năm đó, theo ước tính từ Counterpoint Research năm ngoái. Thành công này đã giúp AMD vượt qua mức vốn hóa thị trường của Intel trong cùng năm.
+
+Các bộ xử lý đồ họa hay GPU ban đầu chỉ được thiết kế để sản xuất các máy tính chuyên để chơi trò chơi. Nhưng các nhà khoa học máy tính biết rằng chúng cũng rất lý tưởng để chạy các loại tính toán song song mà thuật toán AI yêu cầu.
+
+Sau khi OpenAI phát hành ChatGPT vào năm 2022, các công ty công nghệ cũng nhanh chóng tăng tốc. Và cuộc đua này đã giúp doanh số bán hàng của Nvidia tăng gấp ba lần trong năm qua. Các máy chủ dựa trên GPU định hướng AI đôi khi ghép tới tám GPU Nvidia với một CPU Intel. Trong các máy chủ cũ, CPU Intel hầu như luôn là bộ phận đắt tiền và quan trọng nhất. Trong máy chủ mới, GPU của Nvidia đã thay thế vị trí này.
+
+Nvidia gần đây đã công bố phiên bản GPU “Blackwell” mới nhất, loại bỏ hoàn toàn Intel. Hai GPU Nvidia B100 được ghép nối với một bộ xử lý dựa trên Arm.
+
+Hầu như tất cả GPU Nvidia dùng cho AI đều do TSMC sản xuất tại Đài Loan, sử dụng các kỹ thuật tiên tiến để tạo ra con chip tiên tiến nhất. Trong khi đó, Intel không có GPU cạnh tranh với bộ tăng tốc AI của Nvidia, nhưng họ có chip AI có tên Gaudi 3. Intel bắt đầu tập trung vào AI cho máy chủ vào năm 2018 khi mua lại Habana Labs, công nghệ của công ty nền tảng cho chip Gaudi. Con chip này được sản xuất trên tiến trình 5nm phải dựa vào xưởng đúc bên ngoài.
+
+Intel cho biết họ dự kiến sẽ đạt doanh thu 500 triệu USD từ Gaudi 3 trong năm nay, chủ yếu là trong nửa cuối năm. Trong khi đó, AMD kỳ vọng doanh thu chip AI hàng năm của mình đạt khoảng 3,5 tỷ USD. Các nhà phân tích được FactSet thăm dò dự kiến hoạt động kinh doanh trung tâm dữ liệu của Nvidia – GPU AI – sẽ đạt doanh thu 57 tỷ USD trong nửa cuối năm nay.
+
+Tuy nhiên, Intel đã nhìn thấy một cơ hội khác. Họ cho biết họ có thể trở thành nhà sản xuất chip AI của Mỹ, thậm chí có thể là cho Nvidia. Theo đó, Chính phủ Hoa Kỳ đang trợ cấp khoản vay cho một nhà máy khổng lồ của Intel ở ngoại ô Columbus, Ohio, Mỹ. Đại diện Intel cho biết nhà máy sẽ cung cấp khả năng sản xuất hàng đầu khi đi vào hoạt động vào năm 2028 và sẽ sản xuất chip AI của bất kỳ công ty bán dẫn nào.
+
+Intel cho biết gần đây rằng họ vẫn đang trên đà bắt kịp các đổi thủ vào năm 2026. Vào thời điểm đó, TSMC sẽ xuất xưởng chip 2nm. Và Intel cho biết họ sẽ bắt đầu sản xuất tiến trình “18A”, tương đương 2nm, vào năm 2025. Mới đây, Intel báo cáo đã đầu tư khoảng 2,5 tỷ USD vào cơ sở vật chất và công cụ để tạo ra những con chip tiên tiến hơn.
+
+Bassi, nhà phân tích của Counterpoint cho biết: “Chi phí thiết lập cao và đó là lý do khiến lượng tiền mặt bị đốt rất nhiều… Điều hành một xưởng đúc là một công việc đòi hỏi nhiều vốn. Đó là lý do tại sao hầu hết các đối thủ cạnh tranh đều rất vui khi giao việc đó cho TSMC”. Tháng trước, Intel đã báo cáo khoản lỗ hoạt động 7 tỷ USD tại xưởng đúc của mình vào năm 2023.
+
+Theo CNBC, Microsoft cho biết họ sẽ sử dụng nhà máy của Intel để sản xuất chip máy chủ của mình. Intel cho biết họ đã ký hợp đồng trị giá 15 tỷ USD với các công ty bên ngoài để cung cấp dịch vụ này.
+
+Gần đây, Giám đốc điều hành của Intel, Pat Gelsinger cho biết nhu cầu đối với các chip máy chủ sắp ra mắt của họ – Intel 3nm là rất cao. Ông tự tin công ty có thể giành được những khách hàng đã bỏ sang đối thủ cạnh tranh. “Chúng tôi đang xây dựng lại niềm tin của khách hàng. Rồi tất cả mọi người sẽ nhìn chúng tôi và nói ‘Ô, Intel đã quay trở lại”, Giám đốc điều hành chia sẻ.

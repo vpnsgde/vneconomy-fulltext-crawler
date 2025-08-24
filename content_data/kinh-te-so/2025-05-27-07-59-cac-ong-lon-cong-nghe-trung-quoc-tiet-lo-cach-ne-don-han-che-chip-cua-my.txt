@@ -1,0 +1,39 @@
+CNBC thông tin Tencent và Baidu đang áp dụng nhiều biện pháp như tích trữ chip, cải tiến phần mềm, sử dụng mô hình AI gọn nhẹ hơn, thậm chí tính đến việc dùng các loại chip “cây nhà lá vườn” do Trung Quốc sản xuất.
+
+Martin Lau, Chủ tịch Tencent, tập đoàn đứng sau siêu ứng dụng WeChat, cho biết công ty đã sớm dự trữ một lượng lớn chip cao cấp trước khi các biện pháp kiểm soát được thắt chặt.
+
+“Chúng tôi nhận thấy với lượng chip hiện có, vẫn có thể tiếp tục huấn luyện các mô hình AI trong vài thế hệ tới”, ông nói.
+
+Không như quan điểm phổ biến rằng AI tiên tiến đòi hỏi cụm GPU khổng lồ, Tencent đang chứng minh rằng vẫn có thể đạt kết quả đào tạo tốt với một cụm chip nhỏ hơn nhờ cải tiến về mô hình và tối ưu quy trình huấn luyện.
+
+Ngoài ra, Tencent cũng tập trung cải thiện phần mềm để giảm tải cho phần cứng. Ở giai đoạn vận hành AI, tức là khi đưa mô hình vào ứng dụng thực tế, công ty đang dùng các kỹ thuật lập trình nhằm giúp hệ thống chạy hiệu quả hơn mà không cần thêm nhiều chip mới.
+
+Một hướng đi khác là sử dụng những mô hình nhỏ hơn, ít tiêu tốn tài nguyên hơn nhưng vẫn đảm bảo chất lượng. Tencent cũng cân nhắc sử dụng các loại chip được thiết kế và sản xuất ngay tại Trung Quốc để giảm phụ thuộc vào nguồn chip từ Mỹ.
+
+“Có nhiều cách để đáp ứng nhu cầu xử lý AI ngày càng lớn, không nhất thiết phải mua thêm GPU bằng mọi giá. Quan trọng là chúng tôi phải đầu tư nhiều hơn vào phần mềm và giải pháp thông minh”, ông Lau khẳng định.
+
+Thay vì bị động, họ đang từng bước triển khai những giải pháp mang tính lâu dài từ dự phòng trước nguồn lực, tối ưu công nghệ, đến tận dụng năng lực nội địa để duy trì vị thế trong một cuộc đua công nghệ ngày càng khốc liệt.
+
+Không chỉ riêng Tencent, Baidu, công ty công nghệ sở hữu công cụ tìm kiếm lớn nhất Trung Quốc, cũng đang cho thấy cách tiếp cận riêng để thích ứng với bối cảnh bị hạn chế tiếp cận chip tiên tiến từ Mỹ.
+
+Thay vì phụ thuộc vào phần cứng nhập khẩu, Baidu đang tự xây dựng cả một hệ thống hoàn chỉnh, từ hạ tầng điện toán đám mây, các mô hình trí tuệ nhân tạo cho đến những ứng dụng cụ thể như chatbot ERNIE.
+
+Ông Dou Shen, Chủ tịch phụ trách mảng điện toán đám mây và AI của Baidu, khẳng định: “Ngay cả khi không thể sử dụng các loại chip tiên tiến nhất, hệ sinh thái AI toàn diện và tự chủ của chúng tôi vẫn đủ khả năng tạo ra những ứng dụng mạnh mẽ, mang lại giá trị thực tiễn”.
+
+Lợi thế của Baidu, theo ban lãnh đạo công ty, nằm ở việc kiểm soát gần như toàn bộ chuỗi công nghệ từ phần mềm đến phần cứng. Nhờ vậy, họ có thể tối ưu hóa hiệu quả vận hành các mô hình AI, đồng thời tiết kiệm đáng kể chi phí.
+
+“Với sự bùng nổ của các mô hình nền tảng, nhu cầu về sức mạnh tính toán đang tăng mạnh. Khả năng xây dựng và quản lý các cụm GPU quy mô lớn, cũng như tận dụng tối đa hiệu suất GPU, chính là lợi thế cạnh tranh của chúng tôi,” ông Shen nói.
+
+Một điểm đáng chú ý khác trong chiến lược của Baidu là đầu tư mạnh vào các loại chip AI “nội địa hóa”. Ông  Dou Shen cho biết các chip do Trung Quốc tự phát triển đang ngày càng hoàn thiện, kết hợp với phần mềm do chính công ty xây dựng, tạo thành một nền tảng vững chắc trong dài hạn.
+
+“Những con chip tự sản xuất trong nước, cùng với hệ sinh thái phần mềm phát triển độc lập, sẽ là nền móng cho sự phát triển bền vững của AI tại Trung Quốc, bất chấp các rào cản từ bên ngoài”, ông nhấn mạnh.
+
+Trong vài năm trở lại đây, Trung Quốc đã dồn lực tự thiết kế và sản xuất các loại chip. Dù vẫn bị đánh giá là đi sau Mỹ trong các lĩnh vực như chip xử lý đồ họa (GPU) và chip phục vụ trí tuệ nhân tạo, không thể phủ nhận nước này đã đạt những bước tiến đáng kinh ngjac,
+
+Theo ông Gaurav Gupta, chuyên gia phân tích mảng bán dẫn tại hãng nghiên cứu Gartner, việc dự trữ chip là một trong những cách mà các công ty Trung Quốc đang sử dụng để đối phó với các lệnh cấm xuất khẩu. Đồng thời, ông cũng nhận định rằng công nghệ bán dẫn nội địa của Trung Quốc, dù còn khoảng cách, đã có những tín hiệu tiến bộ rõ rệt.
+
+Dù các loại chip AI do Trung Quốc sản xuất chưa thể cạnh tranh trực tiếp với các sản phẩm cao cấp từ Mỹ, nhưng chúng đủ đáp ứng nhu cầu trong nước và tiếp tục cải thiện theo thời gian. Điều này giúp Trung Quốc có thêm lựa chọn trong bối cảnh bị hạn chế nguồn cung từ bên ngoài.
+
+Chính sự vươn lên này đã khiến nhiều lãnh đạo các công ty công nghệ Mỹ lo ngại. Không ít người đã lên tiếng kêu gọi Chính phủ Mỹ nới lỏng các lệnh hạn chế, vì lo rằng những biện pháp này đang “phản tác dụng”.
+
+Ông Jensen Huang, Giám đốc điều hành của Nvidia, tuần qua đã thẳng thắn chỉ trích các chính sách kiểm soát xuất khẩu, cho rằng chúng “đang làm tổn hại đến doanh nghiệp Mỹ nhiều hơn là kìm hãm Trung Quốc”.

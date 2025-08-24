@@ -1,0 +1,47 @@
+Bắt đầu từ cuối tháng 8/2023, người dân thuộc Liên minh châu Âu (EU), gồm 27 quốc gia, thấy cuộc sống trực tuyến của mình có điểm khác lạ so với trước. Họ có thể thay đổi một số nội dung hiển thị khi tìm kiếm, lướt và chia sẻ trên các nền tảng truyền thông xã hội lớn nhất như TikTok, Instagram và Facebook cũng như những gã khổng lồ công nghệ khác như Google và Amazon.
+
+Ngày 25/8/2023, Đạo luật Dịch vụ Kỹ thuật số (DSA) và Đạo luật Thị trường kỹ thuật số (DMA) của Liên minh châu Âu (EU) chính thức có hiệu lực, với đối tượng tập trung là các Big Tech, chủ yếu đến từ Mỹ.
+
+Nỗ lực của EU nhằm kiểm soát tầm ảnh hưởng ngày càng tăng của các “ông lớn” ngành công nghệ vốn manh nha từ năm 2020. Lý do chính yếu là cán cân cạnh tranh trên thị trường quá nghiêng lệch về một bên. Với vị thế gần như thống trị, các Big Tech hưởng nhiều lợi thế nổi trội, trong nhiều trường hợp là tuyệt đối, so với các đối thủ cạnh tranh. Các công ty vừa và nhỏ hơn phải chịu sự lép vế.
+
+Để hạn chế sự mất cân bằng này, EU đưa ra 2 đạo luật DMA và DSA, tạo ra bộ quy tắc thống nhất trên toàn khối. Trong đó, nhiều động thái thể hiện sự “rắn tay” nhất từ trước đến nay như sẵn sàng phạt nặng, thậm chí tiến tới cấm hoạt động. Các tập đoàn công nghệ hiện đứng trước thách thức tiến hành những thay đổi sâu rộng với các nền tảng và dịch vụ của họ để đáp ứng quy định của EU.
+
+Trong khi các quy định của DSA hướng tới chuyện các nền tảng lớn, có trên 45 triệu người dùng ở EU, có trách nhiệm hơn với nội dung phân phối trên Internet, thì DMA ra đời để buộc các “ông lớn” thay đổi phương thức kinh doanh - yếu tố bị cho là đe dọa đến tính cạnh tranh lành mạnh.
+
+Các quan chức của EU muốn đạo luật DSA sẽ thúc đẩy những tập đoàn công nghệ cần mạnh tay trong việc kiểm soát, loại bỏ nội dung độc hại trên không gian mạng, áp dụng với toàn bộ dịch vụ kỹ thuật số hoạt động tại EU.
+
+DSA được chia thành nhiều cấp độ, trong đó những yêu cầu chặt chẽ nhất sẽ áp dụng với 17 tập đoàn công nghệ được mô tả là "nền tảng trực tuyến cực lớn" như Facebook và Amazon, cùng hai "công cụ tìm kiếm cực lớn" là Google và Bing.
+
+Sally Broughton Micova, Phó Giáo sư tại Đại học East Anglia (Vương quốc Anh), đánh giá: “Các quan chức EU một mặt lo ngại về hành vi của người dùng, như bắt nạt và phát tán nội dung bất hợp pháp, nhưng họ cũng lo ngại về cách các nền tảng hoạt động và cách chúng góp phần tạo ra những tác động tiêu cực”.
+
+Theo đó, các nền tảng phải tìm cách gỡ bỏ dữ liệu bất hợp pháp, có thể tác động đến hành vi người dùng như tin giả, phát ngôn thù địch, kích động khủng bố, tội phạm. Người dùng thường xuyên vi phạm phải bị “cấm cửa”, còn các trang bán hàng phải xác minh danh tính người cung cấp dịch vụ trước khi sản phẩm được phép chào bán online.
+
+DSA cũng bao gồm các biện pháp buộc các công ty công nghệ lớn phải giao dữ liệu liên quan đến các thuật toán của họ cho các nhà quản lý, minh bạch hơn về các thuật toán mà họ sử dụng để đề xuất nội dung cho người dùng.Ở đạo luật còn lại, DMA nhắm vào các hãng công nghệ có doanh thu hàng năm trên 6,5 tỷ Euro tại châu Âu trong 3 năm gần nhất, có giá trị thị trường trên 65 tỷ USD và cung cấp một dịch vụ nền tảng cốt lõi ở ít nhất 3 quốc gia thuộc EU, cùng một số tiêu chí khác.
+
+
+
+Đạo luật DMA can thiệp cách các Big Tech kiểm soát dữ liệu người dùng và quyền truy cập các nền tảng phổ biến. Theo đó, các bên như Apple, Meta, Amazon không được phép ưu tiên dịch vụ của mình, hoặc cấm người dùng gỡ bỏ các phần mềm, ứng dụng được cài sẵn, như mạng xã hội, công cụ tìm kiếm, dịch vụ chia sẻ video, trình duyệt web và trợ lý ảo…
+
+Ngoài ra, các gã khổng lồ công nghệ phải cho phép các dịch vụ nhắn tin có thể tương tác và liên thông với nhau. Người dùng doanh nghiệp sẽ có quyền truy cập dữ liệu của họ và có thể quảng cáo sản phẩm và dịch vụ cạnh tranh trên một nền tảng cũng như giao dịch với khách hàng ngoài nền tảng.
+
+Với hai đạo luật DMA và DSA, các công ty nếu không tuân thủ có thể đối mặt với số tiền phạt tương đương 6% doanh thu toàn cầu và sẽ bị cấm hoạt động tạm thời nếu liên tiếp tái phạm. Số tiền phạt có thể lên tới hàng tỷ USD. Các nhà làm luật cũng kêu gọi áp mức phạt tới 10% doanh thu toàn cầu hoặc thậm chí phải chia tách hoạt động kinh doanh nếu các công ty này cố tình vi phạm nhiều lần.
+
+Nguyên nhân đằng sau động thái cứng rắn của EU với Big Tech trong những năm gần đây chủ yếu đến là do tính cạnh tranh trên thị trường không được đảm bảo. Các gã khổng lồ công nghệ lớn mạnh với tốc độ nhanh, đạt được lợi thế quá mức cho phép, tỷ lệ nghịch với cơ chế về dịch vụ kỹ thuật số đã cũ kỹ của EU và các cơ quan pháp lý về chống độc quyền phản ứng chậm chân.
+
+Nếu không can thiệp, các công ty lớn sẽ tiếp tục được đà ngăn cản nhiều doanh nghiệp và người tiêu dùng hưởng lợi từ thị trường kỹ thuật số cạnh tranh, dẫn đến vị thế độc quyền. Mặt khác, các Big Tech liên tục bị chỉ trích vì giám sát lỏng lẻo các nội dung trên nền tảng của mình, dẫn đến những vi phạm tràn lan trên không gian mạng.
+
+Về phía các Big Tech, dù không hài lòng, nhưng để tiếp tục cuộc chơi, họ buộc phải chạy đua tuân thủ các quy định kiểm soát mới ở châu Âu, bằng cách triển khai những cách mới, cho phép người dùng Châu Âu gắn cờ nội dung trực tuyến và sản phẩm bị cho là bất hợp pháp.
+
+Còn các công ty sẽ có nghĩa vụ phải gỡ bỏ một cách nhanh chóng và khách quan. Họ cũng sẽ chịu sự giám sát thường xuyên của các cơ quan quản lý ở EU. Amazon đã mở một kênh mới để báo cáo các sản phẩm bị nghi ngờ và đang cung cấp thêm thông tin về người bán bên thứ ba.
+
+TikTok cung cấp cho người dùng “tùy chọn báo cáo bổ sung” đối với nội dung, bao gồm cả quảng cáo, mà họ cho là vi phạm, độc hại. Các danh mục báo cáo chỉ ra từng lý do cụ thể như ngôn từ căm thù và quấy rối, tự tử hoặc tự làm hại bản thân, thông tin sai lệch hoặc lừa đảo sẽ giúp người dùng xác định chính xác vấn đề.
+
+Sau đó, một “nhóm người kiểm duyệt và chuyên gia pháp lý chuyên trách mới” sẽ xác định xem nội dung bị gắn cờ có vi phạm chính sách hay không, theo phát ngôn từ phía công ty mẹ ByteDance. TikTok cho biết lý do gỡ xuống sẽ được giải thích cho người đăng video và người đã gắn cờ nó, đi đôi với quyền khiếu nại.
+
+Mặt khác, người dùng có thể tắt đề xuất video được cá nhân hóa - hệ thống nhiều lần bị chỉ trích là giúp phát tán nội dung xấu. Thay vào đó, nguồn cấp dữ liệu của TikTok sẽ đề xuất video cho người dùng dựa trên nội dung phổ biến ở khu vực của họ và trên toàn thế giới.
+
+Nền tảng Snapchat cho biết nhà quảng cáo sẽ không thể sử dụng các công cụ cá nhân hóa và tối ưu hóa cho thanh thiếu niên ở EU và Vương quốc Anh. Người dùng Snapchat từ 18 tuổi trở lên cũng sẽ có được sự minh bạch và kiểm soát tốt hơn đối với các quảng cáo mà họ nhìn thấy, bao gồm cả “chi tiết và thông tin chi tiết” về lý do các quảng cáo này xuất hiện.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 37-2023 phát hành ngày 11-09-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

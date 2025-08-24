@@ -1,0 +1,21 @@
+Tình huống khá thú vị đặt ra đối với dịch vụ thanh toán qua tài khoản viễn thông (Mobile Money) là những thuê bao vừa nhận chuyển nhượng, chủ mới chưa sử dụng tới 3 tháng thì có được dùng Mobile Money.
+
+BởiQuyết định 316về phê duyệt triển khai thí điểm dùng tài khoản viễn thông thanh toán cho các hàng hóa, dịch vụ có giá trị nhỏ (Mobile Money) được Thủ tướng ban hành tháng 3/2021, trong đó có quy định: Số thuê bao di động phải có thời gian kích hoạt và sử dụng liên tục trong ít nhất 3 tháng liền kề tính đến thời điểm đăng ký mở và sử dụng dịch vụ Mobile Money.
+
+
+
+"Chẳng hạn như mình có thuê bao số đẹp, dùng 10 năm, giờ muốn chuyển nhượng cho người thân, bạn bè, thì người đó cũng có quyền được đăng ký sử dụng dịch vụ Mobile Money".
+
+Như vậy xuất hiện tình huống những thuê bao được sử dụng thường xuyên, lâu năm, nhất là những thuê bao đẹp, vừa được chuyển nhượng, người chủ mới có thời gian sử dụng liên tục chưa tới 3 tháng, liệu có được dùng dịch vụMobile Money?
+
+Ông Nguyễn Sơn Hải, Phó Tổng giám đốc Tổng công ty Truyền thông VNPT (thuộc Tập đoàn VNPT), đơn vị phụ trách triển khai Mobile Money của VNPT, cho biết đây là chi tiết gây “lúng túng” mà doanh nghiệp đang phải làm việc, giải trình với cơ quan quản lý để thống nhất cụ thể về thuê bao hoạt động liên tục 3 tháng.
+
+“Chẳng hạn như mình có thuê bao số đẹp, dùng 10 năm, giờ muốn chuyển nhượng cho người thân, bạn bè, thì người đó cũng có quyền được đăng ký sử dụng dịch vụ Mobile Money, cho dù thời gian làm chủ thuê bao chưa tới 3 tháng”, ông Hải nêu quan điểm.
+
+Theo lãnh đạo Tổng công ty Truyền thông VNPT, Quyết định 316 của Chính phủ chỉ quy định thuê bao có thời gian kích hoạt và sử dụng liên tục trong ít nhất 3 tháng liền kề chứ không nói chủ thuê bao đó sử dụng liên tục trong 3 tháng.
+
+Nếu quy định chủ sở hữu như trong trường hợp chuyển nhượng trên phải đủ 3 tháng thì doanh nghiệp sẽ phải thay đổi hẳn cách thức tiếp cận khách hàng – cách thức phải kiểm soát dữ liệu, trong khi thuê bao trên hệ thống đang được nhà mạng theo dõi tốt rồi, giờ nếu chuyển nhượng với quy định như vậy thì doanh nghiệp lại phải cập nhật lại.
+
+Phó Tổng giám đốc Tổng công ty Viễn thông MobiFone Bùi Sơn Nam, cho rằng trường hợp chuyển nhượng thuê bao (không đủ thời gian sử dụng 3 tháng) chỉ là tình huống, thuộc dạng nghiệp vụ không quy định cụ thể nên nhà mạng có thể chủ động xử lý được. Do quy định (Quyết định 316) không nói cụ thể, chỉ đưa ra quy định chuẩn, không nói chi tiết về việc chuyển chủ quyền sở hữu thuê bao, do đó nhà mạng tự chủ động quy định thuê bao trong việc sử dụng Mobile Money.
+
+Theo ông Nam, bản chất ở đây là xác thực tài khoản (KYC). Việc chuyển chủ quyền sở hữu này phải ra cửa hàng của nhà mạng để chuyển đổi, đăng ký xác thực thông tin, chụp ảnh chứ không thể tự chuyển đổi. Do vậy thông tin của chủ mới thuê bao là xác thực, đầy đủ, chính xác nên hoàn toàn có thể được sử dụng dịch vụ Mobile Money.

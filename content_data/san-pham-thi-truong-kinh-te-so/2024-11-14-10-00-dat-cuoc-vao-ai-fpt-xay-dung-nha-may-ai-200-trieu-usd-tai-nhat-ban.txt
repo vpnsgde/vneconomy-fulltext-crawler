@@ -1,0 +1,23 @@
+FPT AI Factory tại Nhật Bản cung cấp ba nhóm sản phẩm chính gồm: FPT AI Infrastructure - các dịch vụ đám mây GPU với năng lực siêu tính toán để xây dựng và triển khai các mô hình AI lớn; Nền tảng FPT AI Studio cung cấp các công cụ thông minh xây dựng, đào tạo và tinh chỉnh chuyên sâu các mô hình AI nhờ ứng dụng NVIDIA NeMo; FPT AI Inference, kết hợp với NVIDIA NIM và NVIDIA AI Blueprints, cho phép triển khai và mở rộng các mô hình này về quy mô và số lượng sử dụng một cách hiệu quả. Bên cạnh đó, FPT AI Factory còn cung cấp hơn 20 sản phẩm AI tạo sinh.
+
+Nhà máy AI sẽ khai thác sức mạnh từ hàng nghìn chip đồ họa NVIDIA Hopper GPU, bộ ứng dụng và khung công nghệ NVIDIA AI Enterprise mới nhất mang tới hạ tầng tính toán hiệu năng cao với khả năng bảo mật và mở rộng linh hoạt,... để phát triển và đưa các giải pháp AI đột phá trong thời gian ngắn.
+
+Hiện tại, FPT triển khai chương trình trải nghiệm FPT AI Factory độc quyền, dành cho doanh nghiệp Nhật Bản sử dụng hệ sinh thái sản phẩm, dịch vụ AI và Cloud, nhận tín dụng Cloud và tiếp cận sớm các giải pháp cao cấp. Ngoài ra, khách hàng sẽ được chuyên gia dày dặn trong lĩnh vực AI và Cloud tư vấn chuyên sâu để phát triển giải pháp AI thiết thực và giá trị cao.
+
+Nhật Bản đang phải đối mặt với tình trạng thiếu hụt các giải pháp điện toán GPU cần thiết để thúc đẩy phát triển kinh tế, đối mới sáng tạo và chuyển đổi số một cách an toàn. Với cơ sở hạ tầng phát triển AI của FPT tại Nhật Bản, Chính phủ và doanh nghiệp có thể sử dụng năng lực siêu tính toán, với hiệu suất cao và độ trễ thấp để nâng cao năng lực nghiên cứu & phát triển, đồng thời bảo vệ dữ liệu nhạy cảm và duy trì chủ quyền công nghệ.
+
+Trên trang cá nhân, ông Đỗ Cao Bảo, thành viên HĐQT tập đoàn FPT, cho biết, FPT "xuống tiền", tiếp tục đặc cược vào AI, bán dẫn. Cụ thể, sau vụ đầu tư 200 triệu USD vào AI Factory (nhà máy AI) tại Hà Nội, FPT đã quyết định đầu tư 200 triệu USD nữa cho AI Factory tại Nhật Bản để đáp ứng nhu cầu AI ngày càng tăng ở thị trường Nhật Bản.
+
+Theo ông Trương Gia Bình, Chủ tịch Hội đồng quản trị kiêm Nhà sáng lập Tập đoàn FPT: “Trí tuệ nhân tạo sẽ thay đổi toàn thế giới. FPT đang hợp tác chặt chẽ với các đối tác chiến lược để phát triển cơ sở hạ tầng đám mây thiết yếu cho các ứng dụng AI trên toàn thế giới, đặc biệt là tại Nhật Bản, theo sáng kiến toàn cầu của NVIDIA. Thông qua dự án quan trọng này, chúng tôi đang mở rộng ứng dụng công nghệ AI trên quy mô toàn cầu, đồng thời hiện thực hóa tầm nhìn chung của Nhật Bản và Việt Nam trong việc trở thành các quốc gia AI”.
+
+Vào tháng 4/2024, FPT đã công bố phát triển Nhà máy AI thông qua chương trình hợp tác chiến lược toàn diện với NVIDIA. Sự kiện là cột mốc quan trọng trong hành trình AI của FPT, hướng tới mục tiêu thúc đẩy nghiên cứu và phát triển AI trong khu vực, cung cấp các giải pháp AI và Cloud trên quy mô toàn cầu.
+
+Là tập đoàn công nghệ toàn cầu, FPT tiên phong trong lĩnh vực chuyển đổi số và là công ty công nghệ hàng đầu trong lĩnh vực tư vấn, cung cấp và triển khai các dịch vụ, giải pháp công nghệ, viễn thông và giáo dục. AI được xem là một trong những công nghệ mũi nhọn của Tập đoàn FPT.
+
+AI được kỳ vọng sẽ tạo ra những lợi thế cạnh tranh khác biệt để FPT nhanh chóng hoàn thành mục tiêu 5 tỷ USD doanh thu dịch vụ công nghệ thông tin từ thị trường nước ngoài vào năm 2030 và nâng cao vị thế trong nhóm doanh nghiệp công nghệ thông tin tỷ đô trên toàn cầu.
+
+
+
+Với 20 năm hoạt động tại thị trường Nhật Bản, FPT là một trong những công ty công nghệ có vốn đầu tư nước ngoài lớn nhất Nhật Bản xét về nguồn nhân lực. FPT Japan hiện có hơn 3.500 nhân viên làm việc tại 17 văn phòng, trung tâm phát triển ngay tại Nhật Bản cùng gần 15.000 chuyên gia toàn cầu chuyên trách thị trường Nhật Bản cung cấp các dịch vụ và giải pháp kỹ thuật số cho hơn 450 khách hàng trên thế giới.
+
+FPT Japan đặt mục tiêu phát triển đội ngũ nhân sự làm việc trực tiếp tại Nhật Bản lên 5.000 nhân viên vào cuối năm 2025 và đạt doanh thu tỷ USD đầu tiên vào năm 2027.

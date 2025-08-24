@@ -1,0 +1,41 @@
+Tại Hội thảo chuyên đề “Vai trò của chữ ký số cá nhân trong các giao dịch thanh toán điện tử”, ông Nguyễn Quốc Hùng, Phó Chủ tịch kiêm Tổng thư ký Hiệp hội Ngân hàng Việt Nam, cho biết hiện các ngân hàng thương mại mới chỉ ghi nhận 5% tổng số khách hàng giao dịch đã có và đang sử dụng chữ ký số. Thực tế này quá nhỏ so với yêu cầu đặt ra, nhất là khi chữ ký số là một trong những yếu tố quan trọng để thực hiện giao dịch điện tử.
+
+Hội thảo do Trung tâm Chứng thực điện tử quốc gia, Bộ Thông tin và Truyền thông phối hợp với Hiệp hội Ngân hàng Việt Nam và Câu lạc bộ Chữ ký số và Giao dịch điện tử Việt Nam tổ chức ngày 17/10/2023 cũng đã nhận được nhiều ý kiến đóng góp quan trọng và thiết thực.
+
+Tại hội thảo, Thứ trưởng Bộ Thông tin và Truyền thông Nguyễn Huy Dũng cho biết Việt Nam đã xác định 3 trụ cột chuyển đổi số quốc gia gồm chính phủ số, kinh tế số và xã hội số. “Cả 3 trụ cột này đều không thể thực hiện được nếu thiếu công dân số. Chữ ký số của người dân là mảnh ghép cuối cùng để hoàn thiện một phiên bản cơ bản của công dân số trên môi trường mạng”.
+
+Việt Nam xác định thúc đẩy phát triển xã hội số với 8 yếu tố đặc trưng gồm: mỗi hộ gia đình có một đường Internet cáp quang băng rộng; mỗi người dân có 1 điện thoại thông minh. Trên smartphone đó, mỗi người dân có một danh tính điện tử, có một tài khoản thanh toán số, có một tài khoản sử dụng dịch vụ công trực tuyến; có kỹ năng số cơ bản để sử dụng các dịch vụ trên môi trường số. Mỗi người dân có điện thoại smartphone được cài đặt phần mềm đảm bảo an toàn thông tin mạng ở mức cơ bản. Cuối cùng, mỗi người dân sẽ có một chữ ký số.
+
+"Như vậy, chữ ký số là 1 trong 8 yếu tố cơ bản để hình thành nên công dân số và xã hội số", ông Dũng nhấn mạnh.
+
+Nhu cầu của người dân sử dụng chữ ký số trước hết và quan trọng nhất cho các giao dịch điện tử và phục vụ các mục đích thanh toán giao dịch điện tử tin cậy. Năm 2023 được xác định là năm dữ liệu số quốc gia, bảo vệ dữ liệu số của người dân và doanh nghiệp, thúc đẩy các hoạt động giao dịch trên môi trường số một cách an toàn.
+
+Luật giao dịch diện tử (sửa đổi) vừa được Quốc hội thông qua và sẽ chính thức có hiệu lực từ ngày 1/7/2024, trong đó cấu phần quan trọng nhất là thúc đẩy chữ ký số cá nhân trong các giao dịch thanh toán điện tử.
+
+Các chuyên gia cho rằng đây là một nỗ lực quan trọng góp phần triển khai có hiệu quả Luật giao dịch điện tử (sửa đổi) vào cuộc sống, hướng tới mục tiêu mỗi người dân có một chữ ký số cá nhân và sử dụng hàng ngày trong các hoạt động có nhu cầu.
+
+Theo Ủy ban Pháp luật Quốc hội, Luật giao dịch điện tử sửa đổi đã bổ sung quy định cụ thể về chữ ký điện tử an toàn, biện pháp, tiêu chuẩn bảo đảm chữ ký điện tử an toàn. Đây là cơ sở để ứng dụng đa dạng chữ ký điện tử, thiết lập giao dịch điện tử an toàn, gia tăng niềm tin với người dùng, cơ quan, tổ chức khi tiến hành giao dịch trên môi trường điện tử.
+
+Trong bối cảnh chuyển đổi số là xu hướng bắt buộc, ngày càng nhiều các doanh nghiệp, tổ chức và cá nhân thực hiện các giao dịch điện tử. Một trong những yếu tố quan trọng để thực hiện giao dịch điện tử là có chữ ký số.
+
+Chữ ký điện tử được sử dụng trong các giao dịch dân sự kể từ khi luật Giao dịch điện tử 2005 có hiệu lực. Phó Chủ tịch kiêm Tổng thư ký Hiệp hội Ngân hàng Việt Nam Nguyễn Quốc Hùng, cho biết trên thực tế chữ ký điện tử đã được sử dụng phổ biến trong lĩnh vực tài chính ngân hàng để ký kết và xác thực hợp đồng điện tử; ký số cho hoá đơn điện tử; Xác minh danh tính của khách hàng khi thực hiện các giao dịch trực tuyến, mở tài khoản mới hoặc truy cập vào dịch vụ trực tuyến.
+
+
+
+Ngoài sử dụng chữ ký điện tử trong hoạt động ngân hàng, các ngân hàng còn  thỏa thuận với khách hàng sử dụng phương thức xác thực là mật khẩu đăng nhập kết hợp với mã xác thực được ngân hàng gửi tới khách hàng để xác thực khách hàng (như OTP, Token OTP…) trong các giao dịch ngân hàng trực tuyến.
+
+Tuy nhiên, theo quy định mới tại Luật Giao dịch điện tử mới năm 2023, có hiệu lực từ 1/7/2024, chữ ký điện tử có giá trị pháp lý chỉ gồm chữ ký điện tử chuyên dùng đảm bảo an toàn và chữ ký số.
+
+Để không gián đoạn các giao dịch điện tử trong hoạt động của các ngân hàng vào thời điểm Luật Giao dịch điện tử năm 2023 có hiệu lực (ngày 1/7/2024), ngoài việc sử dụng các hình thức xác nhận khác bằng phương tiện điện tử để thể hiện sự chấp thuận của chủ thể ký đối với thông điệp dữ liệu (mà các ngân hàng hiện nay đang thực hiện theo các quy định chuyên ngành) thì việc sử dụng chữ ký số cũng là một lựa chọn.
+
+Song, theo ông Hùng, hiện tại, hầu hết chữ ký số mới chỉ được sử dụng trong các giao dịch nội bộ ngân hàng hoặc giao dịch của các doanh nghiệp mà chưa áp dụng rộng rãi đến với khách hàng cá nhân, vốn chiếm đa số trong các giao dịch của ngành ngân hàng.
+
+Theo báo cáo sơ bộ của các ngân hàng thì chỉ ghi nhận 5% tổng số khách hàng giao dịch là đã có và đang sử dụng chữ ký số.
+
+Nói về nguyên nhân dẫn đến tình trạng này, Phó Chủ tịch Hiệp hội Ngân hàng Việt Nam cho rằngtrước hết,chi phí cho chữ ký số cá nhân vẫn còn khá lớn nên đa phần người dân chưa có chữ ký số cá nhân. Ngân hàng cũng cần chi phí đầu tư để tích hợp hệ thống, mua chữ ký số cho cán bộ nhân viên, chi phí hạ tầng cho các nền tảng ký số, xác thực chữ ký số.
+
+Thứ hai,việc tiếp cận, mua và sử dụng chữ ký số còn chưa thực sự thuận tiện với khách hàng. Hệ thống hạ tầng của các nhà cung cấp chữ ký số cũng chưa đảm bảo;
+
+Thứ ba,nhiều khách hàng vẫn chưa quen với việc ký số, quan ngại về giá trị pháp lý của chữ ký số, nhất là khi xảy ra tranh chấp, tham gia thủ tục tố tụng tại Tòa.
+
+Thứ tư,việc áp dụng chữ ký số với các giao dịch ngân hàng, nhất là với số lượng khổng lồ các giao dịch giá trị nhỏ có thể làm hệ thống trở nên nặng nề và làm ảnh hưởng đến chất lượng dịch vụ và tính phổ cập các dịch vụ điện tử ngân hàng đòi hỏi tốc độ nhanh trong công tác xử lý...

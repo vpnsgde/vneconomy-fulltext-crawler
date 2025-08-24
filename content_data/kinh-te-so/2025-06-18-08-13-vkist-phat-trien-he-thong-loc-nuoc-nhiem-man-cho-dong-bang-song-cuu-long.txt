@@ -1,0 +1,41 @@
+Tại Đồng bằng sông Cửu Long (ĐBSCL), vựa lúa của cả nước, tỷ lệ sử dụng nước sạch đạt quy chuẩn quốc gia là khoảng 57%.
+
+Theo báo cáo của Cục Thủy lợi, toàn vùng ĐBSCL có 3928 công trình cấp nước nông thôn tập trung, trong đó, số lượng công trình hoạt động bền vững khoảng 2.450 công trình, chiếm 62%.
+
+Tuy nhiên, vào thời điểm mùa khô, nhiều công trình cấp nước tập trung cũng gặp khó khăn trong việc cung cấp nước sạch cho người dân.
+
+Mùa khô năm 2019-2020 có khoảng 96.000 hộ thiếu nước sinh hoạt, trong đó có 20.600 hộ là các hộ dùng nước từ công trình cấp nước tập trung, còn lại là các hộ được cấp nước từ hộ gia đình. Như vậy, có thể thấy rằng trong bối cảnh biến đổi khí hậu và xâm nhập mặn ngày càng gay gắt, việc tiếp cận nguồn nước sạch, an toàn và bền vững sẽ là bài toán lớn và lâu dài đối với các tỉnh ĐBSCL.
+
+Vào mùa khô, tại một số nơi ở ĐBSCL diễn ra tình trạng không có nước cấp cho các trạm cấp nước tập trung do nguồn nước mặt bị nhiễm mặn. Tuy nhiên, việc xây dựng một nhà máy xử lý nước nhiễm mặn tập trung tại từng địa phương sẽ không tận dụng được những nhà máy cấp nước tập trung sẵn có cũng như đòi hỏi nguồn kinh phí rất lớn.
+
+Từ hiện trạng này, Viện Khoa học và Công nghệ Hàn Quốc (KIST) và Viện Khoa học và Công nghệ Việt Nam - Hàn Quốc (VKIST) đã tiếp cận theo hướng xử lý nước nhiễm mặn quy mô nhỏ, có thể đáp ứng nhu cầu về nước uống cho khoảng 500-1000 người/ngày. Hệ thống xử lý nước nhiễm mặn đầu tiên phát triển bởi KIST và VKIST được đặt tại trường tiểu học Thạnh Hải, ấp Hưng Thạnh B, huyện Thạnh Phú, tỉnh Bến Tre vào năm 2021 với công suất 2 m3/ngày.
+
+Tại thời điểm lắp đặt hệ thống xử lý nước nhiễm mặn, một số điểm trường tại Bến Tre đã được trang bị hệ thống lọc khử mặn thẩm thấu ngược (RO) thông qua chương trình "Nước sạch học đường với công suất vào khoảng 0,5 m3/ngày đêm.
+
+Tuy nhiên, vẫn còn nhiều điểm trường trên địa bàn tỉnh Bến Tre chưa có hệ thống lọc nước khử mặn, nhiều em học sinh phải mang nước từ nhà đi, đây cũng là nguồn nước mưa hoặc nước giếng, không đảm bảo chất lượng. Để đảm bảo nước uống cho học sinh và hoạt động ăn bán trú tại trường, nhiều trường đã phải mua nước đóng chai, do đó, chi phí cho nước uống không hề nhỏ.
+
+Bên cạnh đó, do đặc điểm nguồn nước tại Bến Tre nói riêng và các tỉnh ĐBSCL nói chung là chứa các hợp chất dạng hữu cơ của sắt, mangan, nếu không có biện pháp xử lý phù hợp sẽ dễ làm tắc màng lọc RO, giảm hiệu quả hoạt động cũng như tuổi thọ của màng lọc RO.
+
+Ưu điểm của hệ thống xử lý nước nhiễm mặn do VKIST và KIST phối hợp phát triển là sự bổ sung bể keo tụ lắng trước khi đi qua hệ thống lọc gồm lọc thô và RO. Hệ thống keo tụ lắng cùng với các cột lọc thô sẽ giảm đến mức tối đa các hợp chất hữu cơ chứa sắt, mangan, cũng như các chất rắn hòa tan có trong nước trước khi đi qua màng lọc RO, hạn chế hiện tượng tắc màng lọc, từ đó tăng hiệu quả làm việc, kéo dài tuổi thọ thiết bị và tiết kiệm chi phí.
+
+Nước sau khi đi qua bể keo tụ, lắng sẽ lần lượt đi qua các cột lọc của bộ lọc thô gồm cột lọc cát mangan để loại bỏ sắt, mangan, cột lọc than hoạt tính để loại bỏ mùi, cột vi lọc để loại bỏ cặn còn sót lại trước khi đi vào hệ thống màng lọc RO.
+
+Sau khi đi qua hệ thống màng lọc RO, các thành phần như muối, các ion hòa tan, các vi sinh vật có trong nước sẽ được loại bỏ, cuối cùng nước sẽ đi qua bộ khử trùng UV để loại bỏ lần cuối các vi sinh vật còn sót lại. Nước sau khi xử lý sẽ được trữ trong bể chứa.
+
+Ngoài ra, hệ thống xử lý nước nhiễm mặn lắp tại trường tiểu học Thạnh Hải sử dụng năng lượng mặt trời, tận dụng được đặc điểm năng lượng bức xạ dồi dào, đặc biệt vào mùa khô, với số giờ nắng có thể lên đến 8,5h/ngày của tỉnh Bến Tre. Việc lắp đặt toàn bộ hệ thống xử lý nước trong một container cho phép di chuyển linh hoạt hệ thống tới các địa điểm mong muốn.
+
+Hệ thống xử lý nước nhiễm mặn hiện tại có thể cung cấp nước uống phục vụ hơn 500 giáo viên và học sinh tại trường tiểu học Thạnh Hải.
+
+Từ thành công của hệ thống lọc nước nhiễm mặn đầu tiên tại Bến Tre, VKIST tiếp tục cải tiến và tối ưu hóa hệ thống lọc nước dựa trên điều kiện của địa phương, đồng thời nội địa hóa linh kiện, thiết bị nhằm tối ưu hóa chi phí lắp đặt. Hệ thống lọc nước thứ hai được đặt tại trường Phổ thông Dân tộc nội trú Trung học cơ sở Trần Đề, huyện Trần Đề, tỉnh Sóc Trăng vào tháng 8 năm 2024, đảm bảo cung cấp nước uống cho hơn 300 giáo viên và học sinh.
+
+Nếu như đợt hạn mặn năm 2015-2016 được xem là mặn kỷ lục, 100 năm mới lặp lại thì đợt hạn mặn năm 2019-2020 đã phá vỡ mọi kỷ lục được xác lập. Mùa khô năm 2019-2020, hạn mặn bắt đầu từ giữa tháng 12 năm 2019, sớm hơn gần 1 tháng so với mùa khô năm 2015-2016 và sớm hơn 3 tháng so với trung bình các năm.
+
+Nếu năm 2016, vào lúc cao điểm vùng cách biển 25km vẫn có thể lấy được nước ngọt thì năm 2020 vùng lấy nước ngọt phải từ 40 km trở vào. Cá biệt trên sông Hàm Luông cách biển đến 75km vẫn chưa lấy được nước ngọt. Trên sông Vàm Cỏ nước có độ mặn 4 phần nghìn đã xâm nhập sâu vào đất liền khoảng 100km; trên sông Hậu, sông Cổ Chiên vào sâu gần 70km; trên các sông Cửa Tiểu, Cửa Đại, Cái Lớn vào sâu gần 60km.
+
+Phạm vi xâm nhập mặn trên các sông này đã vào sâu hơn cùng kỳ năm 2016 khoảng 3 - 11km. Có thể thấy rằng, do biến đổi khí hậu, xâm nhập mặn đang trở nên ngày càng gay gắt và không ngừng biến đổi. Do đó, việc phát triển các hệ thống xử lý nước nhiễm mặn phù hợp với điều kiện của địa phương là rất cần thiết.
+
+Để đối phó với tình trạng thiếu nước sạch tại nông thôn, Chính phủ Việt Nam và các cấp chính quyền đã rất nỗ lực nhằm thực hiện mục tiêu đảm bảo nước sạch cho khu vực nông thôn, đặc biệt là vùng ĐBSCL.
+
+Các chương trình trọng điểm như Chương trình Mục tiêu Quốc gia về nước sạch và vệ sinh môi trường nông thôn đã được triển khai rộng rãi, kết hợp với việc đầu tư xây dựng hàng ngàn công trình cấp nước tập trung, hỗ trợ kỹ thuật cho người dân và ban hành nhiều văn bản pháp luật quan trọng như Quyết định 1978/QĐ-TTg (2021) và Luật Tài nguyên nước (sửa đổi năm 2023). Những nỗ lực này đã giúp tỷ lệ người dân nông thôn sử dụng nước hợp vệ sinh đạt khoảng 92% và tỷ lệ sử dụng nước đạt chuẩn quốc gia đạt khoảng 57%.
+
+Việc tiếp tục phát triển và nhân rộng các mô hình như hệ thống lọc nước nhiễm mặn phát triển bởi VKIST và KIST, hay các công nghệ xử lý nước nhiễm mặn khác là hết sức cần thiết và cần sự hỗ trợ về nguồn lực và kinh phí từ chính quyền địa phương cũng như các tổ chức xã hội, nhằm đảm bảo mục tiêu tiếp cận nguồn nước sạch cho tất cả mọi người.

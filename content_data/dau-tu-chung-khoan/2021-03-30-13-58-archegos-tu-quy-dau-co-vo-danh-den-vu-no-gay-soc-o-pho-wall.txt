@@ -1,0 +1,55 @@
+Nhân vật chính không giống nhau, nhưng câu chuyện và bài học rút ra có quá nhiều điểm tương đồng.
+
+Vụ nổ quỹ đầu cơ Archegos Capital Management, cũng giống như "cơn điên" cổ phiếu GameStop hồi đầu năm nay, là một lời nhắc nhở về những mối hiểm nguy đến từ việc lạm dụng đòn bẩy, những công cụ phái sinh bí mật, và lãi suất siêu thấp.
+
+MỘT BÀI HỌC NỮA VỀ ĐÒN BẨY
+
+Cổ phiếu ViacomCBS, Discovery và một loạt cổ phiếu truyền thông lớn khác lao dốc trong phiên ngày thứ Sáu, khi các ngân hàng đầu tư ở Phố Wall cho Archegos vay ký quỹ trước đó buộc quỹ đầu cơ này phải bán tháo cổ phiếu. Tính cả tuần trước, giá trị vốn hóa thị trường của ViacomCBS bị thổi bay hơn một nửa.
+
+Theo trang CNN Business, các ngân hàng đầu tư lớn đang đối mặt nguy cơ thua lỗ hàng tỷ USD vì dính đến Archegos. Đến lượt cổ phiếu ngân hàng Credit Suisse và Nomura bị bán tháo phiên ngày thứ Hai, sau khi hai nhà băng cảnh báo lợi nhuận có thể bị ảnh hưởng nặng nề. Trong đó, cổ phiếu Credit Suisse sụt 13,8%, cổ phiếu Nomura lao dốc 16%.
+
+Gây giật mình nhất trong câu chuyện về Archegos là việc đây là một quỹ đầu cơ gần như vô danh trước khi được truyền thông đồng loạt nhắc tới vào cuối tuần vừa rồi. Trong kỷ nguyên tiền rẻ, Archegos đã vay nợ rất nhiều, đến nỗi sự cố xảy ra ở quỹ đầu cơ vô danh này tạo ra được những con sốc đủ lớn để gây chao đảo ở Phố Wall, thậm chí ảnh hưởng đến tài khoản lương hưu của nhiều thường dân Mỹ.
+
+"Đây là một hồi chuông cảnh tỉnh. Đòn bẩy đi kèm với rủi ro", chiến lược gia Art Hogan thuộc National Securities Corporation nhận định. "Đây là lầ thứ hai trong năm nay chúng ta học được bài học về đòn bẩy".
+
+Hồi tháng 1, một quỹ đầu cơ khác là Melvin Capital Management thiếu chút nữa thì sập tiệm, sau khi đặt cược lớn vào các giao dịch bán khống cổ phiếu GameStop. Khi lực lượng nhà đầu tư cá nhân tập hợp trên diễn đàn Reddit ồ ạt mua GameStop, cổ phiếu này tăng giá chóng mặt, khiến trạng thái bán khống của Melvin lỗ nặng. Cuối cùng, Melvin buộc phải nhận sự giải cứu của những đối thủ lớn hơn trong một thỏa thuận trị giá 2,8 tỷ USD.
+
+"Trong vụ GameStop, bài học về đòn bẩy tài chính được nhìn từ góc độ bán khống (short). Giờ đây, chúng ta đang nhìn thấy bài học này từ góc độ đầu cơ giá lên (long)", ông Hogan nói.
+
+Bằng một lượng tiền "khủng" đi vay, Archegos đặt cược lớn vào sự tăng giá của các cổ phiếu truyền thông. Việc sử dụng thái quá đòn bẩy này được tạo điều kiện bởi mức lãi suất siêu thấp từ Cục Dự trữ Liên bang Mỹ (Fed). Hiện còn chưa rõ quy mô của những giao dịch này lớn tới mức nào.
+
+Dường như trong một nỗ lực nhằm tránh phải công bố thông tin, Archegos bị cho là đã sử dụng công cụ phái sinh có tên hợp đồng hoán đổi tổng lợi tức (total return swap) để che giấu một số trạng thái đầu tư quy mô lớn. Thông thường, nhà đầu tư sở hữu hơn 5% lượng lưu hành của một cổ phiếu sẽ phải báo cáo về cổ phần này với Ủy ban Chứng khoán và giao dịch Mỹ (SEC), nhưng Archegos đến nay chưa có công bố thông tin nào như vậy.
+
+"Bất cứ khi nào có sự tham gia của công cụ phái sinh, bạn sẽ không thể biết cái tua của con bạch tuộc dài đến đâu", nhà giao dịch Joe Saluzzi thuộc Themis Trading phát biểu.
+
+Tuần trước, chiến lược này bắt đầu phản lại Archegos.
+
+Tranh thủ giá cổ phiếu công ty đang tăng mạnh, ViacomCBS công bố kế hoạch phát hành 3 tỷ USD cổ phiếu. Ở thời điểm đó, cổ phiếu ViacomCBS đã tăng gấp 3 lần từ đầu năm. Tuy nhiên, kế hoạch chào bán cổ phiếu mà công ty đưa ra có vẻ là quá lớn đối với thị trường, và cơn sốt cổ phiếu truyền thông lập tức đảo chiều.
+
+Và Archegos nhận được cuộc gọi ký quỹ (margin call) từ các công ty chứng khoán Phố Wall. Cuộc gọi ký quỹ từ công ty chứng khoán yêu cầu khách hàng phải đổ thêm tiền vào tài khoản ký quỹ nếu giá trị tài sản cầm cố giảm dưới một mức nhất định. Nếu khách hàng không nộp thêm tiền ký quỹ - như Archegos trong trường hợp này - công ty chứng khoán sẽ "ra tay" bằng cách bán tháo cổ phiếu ký quỹ.
+
+Golman Sachs, một trong những công ty đã cho Archegos vay ký quỹ, đã thu cổ phiếu ký quỹ của quỹ đầu cơ này và bán tháo trong phiên giao dịch ngày thứ Sáu, nguồn thạo tin cho hay. Hành động thanh lý này đã dẫn tới một cuộc "tắm máu", với giá cổ phiếu ViacomCBS và Discovery sụt hơn 25% mỗi cổ phiếu.
+
+Credit Suisse nói rằng vụ vỡ nợ vay ký quỹ của một "quỹ đầu cơ lớn có trụ sở ở Mỹ" sẽ ảnh hưởng mạnh đến lợi nhuận của nhà băng Thụy Sỹ này. Nguồn thạo tin nói rằng quỹ đầu cơ mà Credit Suisse nói đến chính là Archegos.
+
+Nomura cho biết có thể thua lỗ tới 2 tỷ USD vì "giao dịch với một khách hàng Mỹ".
+
+PHẦN NỔI CỦA TẢNG BĂNG CHÌM?
+
+Câu chuyện đang dần hé lộ cho thấy mối liên hệ chồng chéo và phức tạp giữa các công ty ở Phố Wall, cũng như rủi ro đối với các ngân hàng cung cấp lượng đòn bẩy tài chính lớn.
+
+"Rủi ro hệ thống từ mạng lưới bí mật và rối rắm của đòn bẩy tài chính, các giao dịch và công cụ phái sinh, với giá trị không cụ thể, tiếp tục phủ vây hệ thống ngân hàng ngầm", CEO Dennis Kelleher của Better Markets nhận định.
+
+Ông Hogan thì nhấn mạnh rằng nhà đầu tư nên ghi nhớ những rủi ro tiếp nối trong dây chuyền kinh doanh của các nhà băng. "Các ngân hàng đánh giá mức độ đáng tin cậy của khách hàng, nhưng không phải lúc nào cũng đưa ra được đánh giá chuẩn xác", ông nói.
+
+Mức độ đáng tin cậy của Archegos là một câu hỏi lớn. Nhà sáng lập của quỹ đầu cơ này, Bill Hwang, trước đây từng dính vào bê bối giao dịch tại Tiger Asia Management, một quỹ đầu cơ khác cũng do Hwang sáng lập.
+
+Hồi năm 2012, SEC nghi ngờ Tiger Asia kiếm lợi bất chính 17 triệu USD trong một phi vụ liên quan đến cổ phiếu ngân hàng Trung Quốc. Năm đó, Hwang thay mặt Tiger Asia nhận tội đối với một cáo buộc về gian lận điện tín. Tiger Asia bị quản chế một năm và bị tịch thu hơn 16 triệu USD tài sản.
+
+Sau bê bối giao dịch nội gián đó, Goldman Sachs đã ngừng giao dịch với Hwang trong một thời gian, nguồn thạo tin cho hay. Nhưng rồi Goldman đã nối lại mối quan hệ với Hwang và trở thành một trong những công ty cho vay ký quỹ đối với nhà đầu cơ này.
+
+Vụ nổ quỹ Archegos khơi lại những ký ức đen tối về Long-Term Capital Management. Quỹ đầu cơ khổng lồ này sụp đổ vào năm 1998, đe dọa toàn bộ hệ thống tài chính và buộc Chính phủ liên bang phải can thiệp.
+
+"Nhưng đây có lẽ không phải là một Long-Term Capital thứ hai", ông Hogan nói, đề cập đến những cải cách giúp giảm rủi ro đối với các ngân hàng so với hồi khủng hoảng 2008. "Tôi không nghĩ đây là phần nổi của một tảng băng chìm".
+
+Nhưng nhà giao dịch Saluzzi của Themis Trading lại không chắc chắn như vậy. Ông chỉ ra rằng lúc đầu, thị trường cũng chẳng mấy lo ngại khi quỹ đầu cơ Bear Stearns sụp đổ vào mùa hè năm 2007. "Chúng ta không biết xúc tu của con bạch tuộc dài tới đâu", ông Saluzzi nói. "Ở thời điểm đầu của cuộc khủng hoảng Bear Stearns, thị trường vẫn ổn, cho tới khi không thể tiếp tục ổn nữa".

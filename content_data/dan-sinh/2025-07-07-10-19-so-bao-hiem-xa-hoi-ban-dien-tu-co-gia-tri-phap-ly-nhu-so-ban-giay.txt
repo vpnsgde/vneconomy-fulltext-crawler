@@ -1,0 +1,31 @@
+Thực hiện quy định tại Luật Bảo hiểm xã hội năm 2024 và Nghị định số 164/2025/NĐ-CP của Chính phủ quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội và cơ sở dữ liệu quốc gia về bảo hiểm, sổ bảo hiểm xã hội sẽ được cấp bằng bản điện tử, chậm nhất là ngày 1/1/2026.
+
+Bảo hiểm xã hội Việt Nam cho biết sổ bảo hiểm xã hội điện tử có giá trị pháp lý như sổ bảo hiểm xã hội bằng bản giấy; sổ bản giấy được cấp khi người tham gia có yêu cầu.
+
+Nghị định số 164/2025 quy định, sổ bảo hiểm xã hội bản điện tử là sổ bảo hiểm xã hội được Bộ Tài chính tạo lập bằng phương tiện điện tử.
+
+Hiện nay, Bảo hiểm xã hội Việt Nam đang nghiên cứu, xây dựng để hoàn thiện sổ bảo hiểm xã hội bản điện tử để xin ý kiến chỉ đạo của Bộ Tài chính ban hành, đảm bảo thời gian theo quy định.
+
+Sổ bảo hiểm xã hội điện tử chứa đựng thông tin và có giá trị pháp lý như sổ bảo hiểm xã hội bản giấy. Dự kiến, quy trình cấp, quản lý sổ bảo hiểm xã hội bản điện tử không có thay đổi so với quy định trước.
+
+Trong trường hợp phát hiện gian lận, giả mạo, cơ quan Bảo hiểm xã hội sẽ tạm thời thu hồi sổ bảo hiểm xã hội bản điện tử trên cơ sở dữ liệu, nhằm đảm bảo quyền lợi và quản lý thông tin tham gia bảo hiểm xã hội của người lao động được chính xác, minh bạch.
+
+Theo Bảo hiểm xã hội Việt Nam, việc triển khai sổ bảo hiểm xã hội bản điện tử nhằm thực hiện chủ trương của Đảng, Nhà nước về cải cách thủ tục hành chính, ứng dụng công nghệ thông tin, đẩy mạnh giao dịch điện tử, mở rộng cung cấp các dịch vụ công trực tuyến mức độ 3, 4.
+
+Đồng thời, nâng cao hiệu quả hoạt động quản lý bảo hiểm xã hội và tạo thuận lợi, tăng sự hài lòng cho người dân và doanh nghiệp trong lĩnh vực bảo hiểm xã hội.
+
+Cụ thể, đối với người tham gia bảo hiểm xã hội, có thể theo dõi thường xuyên, cập nhật kịp thời mọi lúc, mọi nơi kết quả đóng bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động – bệnh nghề nghiệp, và có thể sử dụng sổ bảo hiểm xã hội điện tử để thực hiện các thủ tục hành chính liên quan trên môi trường điện tử.
+
+Mặt khác, người lao động tiết kiệm được thời gian do không phải làm thủ tục cấp lại sổ bảo hiểm xã hội nếu không may sổ bị mất, hỏng. Đồng thời, không phải bảo quản như sổ giấy, và không phải xuất trình sổ giấy khi làm thủ tục thanh toán các chế độ bảo hiểm xã hội, bảo hiểm thất nghiệp.
+
+Đối với đơn vị sử dụng lao động, giảm được khối lượng công việc phát sinh khi thực hiện các thủ tục hành chính liên quan đến việc cấp sổ bảo hiểm xã hội cho người lao động.
+
+Sổ bảo hiểm xã hội bản điện tử được cung cấp trên ứng dụng VNeID (định danh điện tử), VssID (bảo hiểm xã hội số), giúp tiết kiệm chi phí in, phát hành sổ bảo hiểm xã hội, thẻ bảo hiểm y tế bản giấy và giảm thiểu nhân lực làm công tác cấp sổ, thẻ.
+
+Đặc biệt, giải quyết được tình trạng mua bán, cầm cố, chuyển nhượng, thế chấp sổ bảo hiểm xã hội, làm ảnh hưởng đến quyền lợi của người lao động.
+
+Ngoài ra, khi thực hiện liên thông được dữ liệu với Trung tâm Dịch vụ việc làm sẽ phát hiện, ngăn chặn được kịp thời việc giải quyết hưởng bảo hiểm thất nghiệp không đúng quy định.
+
+Việc lưu trữ trên cơ sở dữ liệu còn tạo thuận lợi, giúp dễ tra cứu, theo dõi, kiểm tra, giảm không gian lưu trữ hồ sơ.
+
+Bên cạnh đó, thực hiện triển khai sổ bảo hiểm xã hội điện tử trên ứng dụng VNeID, VssID, kết nối dữ liệu giữa Trung tâm Dịch vụ việc làm và cơ quan Bảo hiểm xã hội, có thể cho phép người tham gia nộp hồ sơ bằng hình thức trực tuyến, mà không cần trực tiếp đến tận nơi, giảm tải cho các Trung tâm Dịch vụ việc làm và tạo thuận lợi cho người tham gia.

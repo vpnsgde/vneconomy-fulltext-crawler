@@ -1,0 +1,30 @@
+Đại diện Cục An toàn thông tin, Bộ Thông tin và Truyền thông đã nhấn mạnh điều này khi chia sẻ về tình trạng an ninh mạng trong các startup nói chung và startup Blockchain, tài chính phi tập trung nói riêng từ vụ tấn công startup Blockchain Kyber Network mới đây gây hệ quả, thiệt hại lớn.
+
+Cuối tháng 11/2023, startup Kyber Network của Việt Nam vừa trở thành nạn nhân của một vụ tấn công mạng nghiêm trọng. Theo đó, hacker đã thực hiện tấn công nhằm vào sàn giao dịch phi tập trung (DEX) KyberSwap. Các pool thanh khoản của sàn giao dịch này đã bị kẻ xấu rút một lượng tiền mã hóa lớn. Sau vụ tấn công, hacker còn cố tình để lại thông điệp, cho biết sẵn sàng đàm phán với KyberSwap sau vài giờ nữa, khi đã nghỉ ngơi xong.
+
+KyberSwap là nền tảng tài chính phi tập trung dựa trên công nghệ Blockchain. Nền tảng này được phát triển bởi Kyber Network, startup thành công nhất Việt Nam năm 2017 khi từng gọi vốn được 52 triệu USD. Trong nhiều năm qua, Kyber Network được biết đến như là startup đi đầu về mảng Blockchain tại Việt Nam.
+
+Theo ước tính ban đầu, hậu quả của vụ việc khiến người dùng của Kyber Network phải gánh chịu thiệt hại 48,8 triệu USD.
+
+Thông tin với VnEconomy về vấn đề này, Cục an toàn thông tin, cho rằng công nghệ Blockchain là một công nghệ tiềm năng, đang được nhiều startup tại Việt Nam nghiên cứu phát triển, triển khai nhiều ứng dụng và mô hình kinh doanh dựa trên công nghệ Blockchain.
+
+Vụ tấn công startup Blockchain Kyber Network là một vụ tấn công gây thiệt hại lớn cho doanh nghiệp về tài sản và uy tín của công ty. Từ vụ việc này cho thấy tình trạng an toàn thông tin trong các startup nói chung và startup Blockchain, đơn vị cung cấp dịch vụ tài chính phi tập trung (DeFi) nói riêng đang tiềm ẩn nhiều rủi ro, bà Đỗ Hải Anh, đại diện Cục An toàn thông tin đánh giá.
+
+Cũng theo bà Đỗ Hải Anh, startup Blockchain, tài chính phi tập trung lại là những lĩnh vực mới, phức tạp, pháp lý chưa rõ ràng, đòi hỏi yêu cầu cao về an toàn thông tin để đảm bảo tính đúng đắn của các hoạt động. Vì toàn bộ các hoạt động đều dựa trên hợp đồng thông minh (smartcontract) được triển khai trên các nền tảng Blockchain. Do đó, các startup trong lĩnh vực này thường là mục tiêu tấn công của tin tặc.
+
+Theo phân tích của đại diện Cục an toàn thông tin, một trong những nguyên nhân chính dẫn đến tình trạng an toàn, an ninh mạng kém trong các startup Blockchain, đơn vị cung cấp dịch vụ tài chính phi tập trung (DeFi) chính là do hiểu biết về an toàn thông tin, an ninh mạng còn chưa đầy đủ, chưa nhận thức được tầm quan trọng của an toàn thông tin, an ninh mạng, chưa có quy trình, phương án kỹ thuật, chính sách bảo mật rõ ràng.
+
+Ngoài ra trong quá trình phát triển và triển khai ứng dụng, dịch vụ Blockchain còn tồn tại lỗ hổng. Nhiều ứng dụng, dịch vụ được triển khai trong khi vẫn tồn tại lỗi ảnh hưởng đến an ninh, an toàn thông tin, tạo cơ hội cho tin tặc lợi dụng tấn công khai thác…
+
+Trước thực trạng trên, để bảo vệ an ninh, an toàn bảo mật cho doanh nghiệp, đại diện Cục an toàn thông tin lưu ý các startup Blockchain, đơn vị cung cấp dịch vụ tài chính phi tập trung (DeFi) cần sớm hoàn thiện xây dựng quy trình, phương án kỹ thuật, chính sách bảo mật.
+
+Cùng với đó triển khai đào tạo phát triển nguồn nhân lực an toàn thông tin; tuyên truyền nâng cao nhận thức và kỹ năng an toàn thông tin cho nhân viên.
+
+Chuyên gia an ninh mạng cũng nhấn mạnh việc triển khai các biện pháp theo dõi, giám sát; định kỳ thường xuyên kiểm tra, đánh giá an toàn bảo mật nhằm phát hiện và xử lý kịp thời các lỗ hổng bảo mật.
+
+Cục An toàn thông tin khuyến cáo các startup Blockchain, và các đơn vị cung cấp dịch vụ tài chính phi tập trung cần chủ động áp dụng các biện pháp bảo mật an toàn để bảo vệ doanh nghiệp khỏi các cuộc tấn công mạng; tập trung vào nâng cao an toàn bảo mật mã nguồn ứng dụng.
+
+Thường xuyên cập nhật các lỗ hổng của các ứng các nền tảng tương tự để đánh giá ảnh hưởng đến các ứng dụng Blockchain hiện tại của startup.
+
+Các startup Blockchain, tài chính phi tập trung cũng cần nghiên cứu triển khai áp dụng thêm các giải pháp bảo hiểm Blockchain cho các giao dịch lớn, nhằm giảm thiểu tối đa thiệt hại cho doanh nghiệp trong trường hợp bị tấn công khai thác lỗ hổng.
+

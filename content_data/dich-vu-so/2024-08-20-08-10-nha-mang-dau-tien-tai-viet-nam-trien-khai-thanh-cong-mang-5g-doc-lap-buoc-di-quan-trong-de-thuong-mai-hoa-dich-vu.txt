@@ -1,0 +1,21 @@
+Tổng Công ty Viễn thông Viettel (Viettel Telecom) vừa cho biết đã nghiên cứu và triển khai thành công mạng 5G độc lập- 5G Standalone (SA) đầu tiên tại Việt Nam.
+
+Công nghệ 5G SA– 5G độc lập được kỳ vọng sẽ thúc đẩy sự phát triển của hệ sinh thái 5G, tạo điều kiện và thúc đẩy chuyển dịch sang các công nghệ hiện đại tại Việt Nam, mở cơ hội cung cấp nhiều ứng dụng mới giúp giải quyết các thách thức cho người dùng và doanh nghiệp.
+
+Như vậy chỉ trong thời gian hơn 3 tháng kể từ khi được Bộ Thông tin và Truyền thông cấp giấy phép sử dụng tần số để nhà mạng thương mại hóa 5G, Viettel đã trở thành đơn vị đầu tiên tại Việt Nam triển khai thành công mạng 5G độc lập- 5G Standalone.
+
+Khác với 5G Non-Standalone (NSA) được phát triển trên hạ tầng mạng 4G, 5G SA là phiên bản tiên tiến hơn và hoàn toàn độc lập giúp nâng cao tính linh hoạt, khả năng mở rộng và cung cấp nhiều dịch vụ mới.
+
+Với mạng 5G SA hứa hẹn sẽ nhiều dịch vụ hấp dẫn dành cho cả đối tượng khách hàng cá nhân và khách hàng doanh nghiệp như nhóm dịch vụ data tốc độ cao, cuộc gọi thông minh có chức năng tự dịch ngôn ngữ, hiển thị phụ đề.
+
+Gói cước tính tiền theo dịch vụ cho phép người dùng được linh hoạt lựa chọn chất lượng dịch vụ khác nhau theo từng thời điểm mong muốn. Người dùng được chủ động lựa chọn ưu tiên về tốc độ cao, độ trễ thấp… theo nhu cầu. Người dùng được cung cấp dịch vụ Internet tốc độ cao trên mạng 5G, có thể thay thế cho dịch vụ Internet cáp quang đến hộ gia đình hiện tại…
+
+Để triển khai 5G SA, ngoài việc nhà mạng phải bỏ ra chi phí lớn để đầu tư hoàn toàn hệ thống mạng lõi mới, thì thách thức lớn nhất đó là cấu hình để kết nối hệ thống này với các thiết bị vô tuyến khi tất cả phải tuân theo tiêu chuẩn 5G.
+
+Viettel đang tiếp tục phối hợp chặt chẽ với các hãng smartphone lớn, phổ biến trên thị trường Việt Nam để nâng cấp firmware thương mại cho thiết bị smartphone hỗ trợ mạng 5G SA, với mục tiêu cung cấp mạng 5G hiện đại nhất cho khách hàng ngay tại thời điểm khai trương.
+
+Trên thế giới, các nhà mạng thường mất từ 1 đến 2 năm để hoàn thành xây dựng mạng 5G SA thương mại. Theo báo cáo của GSA, tính đến hết quý 1/2024, có khoảng 58 quốc gia đã thử nghiệm thành công 5G SA trên tổng số 175 quốc gia thương mại hoặc thử nghiệm 5G. Nguyên nhân chính do sự khó khăn và phức tạp trong việc triển khai mạng 5G SA so với 5G NSA.
+
+Theo Báo cáo di động Ericsson vừa công bố, số lượng thuê bao 5G toàn cầu dự kiến sẽ đạt gần 5,6 tỷ vào cuối năm 2029. Hiện tại, có khoảng 300 nhà cung cấp dịch vụ truyền thông (CSP) trên toàn thế giới đã cung cấp dịch vụ 5G, trong đó khoảng 50 CSP đã triển khai 5G Độc lập (5G SA). Báo cáo cũng nhấn mạnh sự cần thiết phải tăng cường triển khai công nghệ 5G Độc lập để khai thác tối đa tiềm năng của 5G.
+
+5G đang tiếp tục phát triển mạnh mẽ ở tất cả các khu vực và dự kiến sẽ chiếm khoảng 60% tổng số thuê bao di động vào cuối năm 2029. Trong ba tháng đầu năm 2024, đã có thêm khoảng 160 triệu thuê bao 5G mới trên toàn cầu, nâng tổng số lên hơn 1,7 tỷ. Dự kiến sẽ có tổng gần 600 triệu thuê bao mới vào năm 2024.

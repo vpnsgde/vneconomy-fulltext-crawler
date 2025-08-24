@@ -1,0 +1,41 @@
+Cuộc đua để giành quyền thống trị trong lĩnh vực AI đang ngày càng trở nên gay gắt đối với những gã khổng lồ công nghệ. Trong khi các công ty đến từ Mỹ như OpenAI, Nvidia và Google đang ở vị thế dẫn đầu, Trung Quốc cũng không hề kém cạnh với các ông lớn như Baidu và Alibaba.
+
+Đáng chú ý, một cái tên đang đạt được những bước tiến đáng kể là Huawei đang âm thầm đe dọa vị thế dẫn đầu của các công ty đến từ Mỹ. Những phát triển gần đây của công ty và chiến lược từ gã khổng lồ công nghệ Trung Quốc báo hiệu một sự thúc đẩy mạnh mẽ, toàn diện vào trí tuệ nhân tạo tạo sinh (GenAI), chạm đến mọi khía cạnh từ phần cứng đến phần mềm và dịch vụ đám mây.
+
+Vậy Huawei đang nắm giữ những quân bài chiến lược gì để cạnh tranh với Nvidia?
+
+Yếu tố cốt lõi trong tham vọng về GenAI của Huawei nằm ở cơ sở hạ tầng điện toán Ascend AI, bằng cách đào tạo các mô hình ngôn ngữ lớn với hàng trăm tỷ tham số. Phát triển mới nhất của Huawei, chip Ascend 910C, đã thu hút sự quan tâm lớn từ các gã khổng lồ công nghệ Trung Quốc, với số lượng đơn đặt hàng trước vượt quá 2 tỷ USD.
+
+Công ty khẳng định rằng hiệu quả chip AI của họ không chỉ ngang bằng mà còn vượt qua Nvidia, với các chỉ số hiệu suất đã làm lu mờ chip A100 của Nvidia. Gần 50% mô hình ngôn ngữ lớn của Trung Quốc áp dụng công nghệ Ascend.
+
+Sức mạnh tính toán của con chip này đã thiết lập nền tảng quan trọng cho những nỗ lực trong GenAI của Huawei, giúp công ty kỳ vọng sẽ có được những bước đột phá hơn nữa.
+
+Mô hình ngôn ngữ AI Pangu Model 5.0 của Huawei vượt trội trong việc xử lý các tác vụ trên văn bản, hình ảnh, video và âm thanh, thích ứng với nhiều ngôn ngữ và tình huống khác nhau. Các ứng dụng của Pangu trải rộng trên nhiều lĩnh vực khác nhau, bao gồm lái xe tự động, thiết kế công nghiệp, khí tượng học và dược phẩm.
+
+Khả năng cách mạng hóa thiết kế công nghiệp của nó đã rút ​​ngắn đáng kể quy trình thiết kế cho các phương tiện mới, minh họa cho tiềm năng biến đổi trong các ngành công nghiệp. Đáng chú ý, mô hình dự báo thời tiết Pangu Wheather của Huawei là mô hình AI đầu tiên vượt qua các phương pháp dự báo truyền thống về độ chính xác, đưa ra dự báo thời tiết toàn cầu trong vòng vài giây.
+
+HarmonyOS NEXT đại diện cho bước phát triển then chốt trong nỗ lực của Huawei về một hệ điều hành di động độc lập, được hỗ trợ bởi AI. Bằng cách tích hợp sức mạnh tính toán từ công nghệ Ascend và các khả năng xử lý của mô hình Pangu Model, HarmonyOS NEXT được trang bị các tính năng do AI điều khiển như vẽ bằng AI Drawing, chỉnh sửa với AI Removal và chỉnh sửa giọng nói AI Voice Repair.
+
+Những cải tiến này không chỉ nâng cao trải nghiệm người dùng mà còn vượt qua ranh giới về khả năng tiếp cận và tương tác, khiến hệ điều hành trở thành một thành phần quan trọng trong chiến lược GenAI của Huawei.
+
+Huawei Cloud đóng một vai trò quan trọng trong việc củng cố hệ sinh thái GenAI của Huawei. Giải quyết những thách thức chính trong đào tạo mô hình ngôn ngữ lớn, Huawei đã ra mắt công nghệ lưu trữ mới có tên Elastic Memory Storage Service và tận dụng công nghệ Memory Pooling đã được cấp bằng sáng chế của mình để vượt qua những rào cản trong đào tạo.
+
+Với việc thành lập các trung tâm điện toán AI lớn và nguồn tài nguyên điện toán AI mở rộng, Huawei Cloud củng cố vai trò của mình như một xương sống cho sự phát triển GenAI.
+
+Bên cạnh nghiên cứu và phát triển những công nghệ tiên tiến, Huawei cũng đang xây dựng hệ sinh thái GenAI thông qua quan hệ đối tác chiến lược với các công ty hàng đầu trong ngành như Mianbi Intelligence, Honor và ByteDance.
+
+Những sự hợp tác nhằm khám phá các ứng dụng trên nhiều lĩnh vực khác nhau, từ các giải pháp văn phòng di động thông minh đến những sự hợp tác tại thiết bị đầu cuối trên nền tảng đám mây.
+
+Sự ra mắt của Mô hình Y học cổ truyền Trung Quốc Huatuo và Mô hình khai thác Pangu, được phát triển với sự hợp tác của Tập đoàn Năng lượng Sơn Đông đã minh họa các ứng dụng cụ thể trong ngành của công nghệ GenAI của Huawei.
+
+Chiến lược trong GenAI của Huawei thể hiện tham vọng dẫn đầu trong lĩnh vực đầy biến đổi này. Huawei đang nỗ lực ở nền tảng Ascend AI, được minh họa bằng chip Ascend 910C, đến các ứng dụng đổi mới khác đang định vị Huawei như một công ty dẫn đầu toàn cầu.
+
+Đối với các giám đốc điều hành cấp cao khác, cách tiếp cận của Huawei đã nhấn mạnh tầm quan trọng đặc biệt của đổi mới toàn diện, hợp tác chiến lược và tầm nhìn dài hạn trong việc đảm bảo vị trí dẫn đầu trong bối cảnh AI đang phát triển nhanh chóng.
+
+Về tình hình kinh doanh của Huawei, hãng công nghệ Trung Quốc đã thông báo lợi nhuận trong năm 2023 đã tăng hơn gấp đôi chủ yếu đến từ kết quả tích cực của mảng kỹ thuật số và điện toán đám mây, bất chấp lệnh trừng phạt của Mỹ.
+
+Cụ thể, hãng đã đạt được 87 tỷ nhân dân tệ lợi nhuận (tương đương 12 tỷ USD) trong năm 2023, tăng mạnh so với 35,6 tỷ nhân dân tệ của năm 2022. Tuy nhiên con số này vẫn chưa bằng mức lợi nhuận kỷ lục 113,7 tỷ nhân dân tệ của năm 2021.
+
+Doanh thu của hãng cũng tăng 9,6% so với năm 2022, lên 704,2 tỷ nhân dân tệ (tương đương 97,4 tỷ USD). Trong đó, doanh thu từ mảng điện toán đám mây tăng 22% so với cùng kỳ vào năm 2022, đạt 55,3 tỷ nhân dân tệ (7,7 tỷ USD). Doanh thu từ hoạt động kinh doanh kỹ thuật số tăng 3,5%.
+
+Bộ phận tiêu dùng của Huawei, chuyên bán điện thoại thông minh và các thiết bị điện tử khác, cũng công bố doanh thu tăng 17,3% vào năm 2023.

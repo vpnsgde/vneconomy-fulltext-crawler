@@ -1,0 +1,35 @@
+TAND TP Hà Nội thụ lý và sớm đưa ra xét xử vụ án lừa đảo chiếm đoạt tài sản đối với bị cáo Bùi Trung Đức (SN 1992, ở phường An Khánh, TP Thủ Đức, TP.HCM) và 18 đồng phạm.
+
+Cáo buộc thể hiện, lợi dụng sự thiếu hiểu biết của người dân, các đối tượng cấu kết với nhau để tạo lập quản lý, điều hành các trang web có tên tiếng Anh giống với các sàn giao dịch chứng khoán quốc tế, dụ dỗ các bị hại chuyển tiền tham gia đầu tư và chiếm đoạt tài sản.
+
+Theo cáo trạng, từ năm 2022, Đức cùng các đối tượng (chưa xác định được nhân thân) thành lập nhiều công ty "ma" để tuyển dụng nhân viên. Mặc dù không được cấp giấy phép hoạt động nhưng Đức cùng đồng phạm điều hành nhân viên hoạt động trong lĩnh vực tư vấn chứng khoán, tài chính… để lôi kéo khách hàng tham gia.
+
+Thủ đoạn phạm tội là các đối tượng tạo lập, quản lý các trang web như ZenoMarkets, Londonex, CHMarkets, TradeTime, LPLtrade, DexInvesting để mọi người lầm tưởng là chứng khoán quốc tế.
+
+Bản chất các trang web trên được lập trình sẵn, không có tính năng đối ứng ra thị trường thế giới, mỗi sàn giao dịch đều được kết nối với ứng dụng MetaTrader (MT4, MT5). Tiền khách hàng nạp vào đều nằm trong các tài khoản do các bị cáo đăng ký mở tại các ngân hàng dưới tên các công ty.
+
+Thực chất khi tham gia, khách hàng chơi với chủ sàn (admin). Nếu khách hàng thua thì chủ sàn được hưởng tiền đó. Ban đầu khách hàng sẽ được các đối tượng cho thắng vài lệnh với số tiền nhỏ, có thể rút về tài khoản. Sau đó, khách hàng tiếp tục nạp tiền, gỡ vốn sẽ bị thua sạch.
+
+Để thực hiện hành vi, nhóm của Đức mở 27 công ty, sử dụng 3 công ty trách nhiệm hữu hạn để tuyển dụng nhân sự; dùng 2 công ty để ký hợp đồng cung cấp thuê máy chủ, thuê các đầu số điện thoại. Ngoài ra, nhóm này lập ra 7 công ty đăng ký mở 9 tài khoản ngân hàng; thành lập 16 công ty khác nhau để thuê 15 văn phòng rải khắp TP.HCM và Bình Dương.
+
+Điểm chung là các văn phòng làm việc không treo biển, nhân viên được cấp tài khoản mang tên giả. Các nhân viên được quán triệt là không tiếp xúc, gặp gỡ người khác trong thời gian làm việc, không ra khỏi văn phòng khi không có việc cấp bách. Bộ phận nhân sự bố trí máy tính xách tay, tai nghe, cơm trưa đến tận nơi cho nhân viên. Các nhân viên đi làm không sử dụng xe công nghệ để tránh bị lộ vị trí văn phòng làm việc.
+
+Các nhân viên sale được tuyển dụng không cần bằng cấp, không được đào tạo về chứng khoán cổ phiếu mà làm theo kịch bản có sẵn dể dụ dỗ khách hàng.
+
+Về mô hình hoạt động, Đức quản lý, điều hành mọi hoạt động. Đức yêu cầu nhân viên tự học, nâng cao kỹ năng thông qua việc nghe các file ghi âm những lần Đức trực tiếp thuyết trình, các cuộc hội thoại mẫu, kịch bản sẵn…
+
+Bộ phận kế toán do Mai Thị Xuân Cầm (tức Selia, SN 1995, ở xã Vạn Bình, huyện Vạn Ninh, tỉnh Khánh Hòa) làm trưởng bộ phận, chuyên nhận thông tin khách hàng rồi giao cho bộ phận kinh doanh để liên hệ, hướng dẫn khách hàng nạp tiền…
+
+Còn Lê Thị Trung Ái (tức Mộc Tâm, Jade, SN 1994, ở xã Nhơn Phong, TP An Nhơn, Bình Định) và Bùi Ngọc Trinh (tức Bùi Trung Hậu, SN 1998, ở xã Thủy Tây, huyện Thạch Hòa, tỉnh Long An) là trưởng bộ phận nhân sự, checkbill và pháp lý.
+
+Quá trình điều tra xác định, Phó Đức Nam (SN 1994, ở TP Vũng Tàu, tỉnh Bà Rịa – Vũng Tàu) quản lý nhóm tra cứu (checkbill) nhằm điều phối dòng tiền qua tài khoản ngân hàng sau khi nhận tiền từ các bị hại.
+
+Ngoài ra, Bùi Duy Hoàng (SN 1984, ở xã Hoa Thủy, huyện Lệ Thủy, tỉnh Quảng Bình) là trưởng bộ phận công nghệ thông tin – IT.
+
+Bộ phận kinh doanh, chăm sóc khách hàng do Nguyễn Hoài Nhân (SN 1997, ở xã Long Thượng, huyện Cần Giuộc, tỉnh Long An) và Thái Anh Đào là tổng quản lý. Các nhân viên thuộc bộ phận này làm việc tại 14 văn phòng gồm 19 nhóm.
+
+Các đối tượng cài sẵn ứng dụng “Zoiper Free”. Sau khi nói chuyện, nhân viên sẽ đánh giá khả năng tài chính, tính cách khách hàng để lựa chọn cách tiếp cận đạt hiệu quả. Khi khách có nhu cầu, các bị cáo đưa ra các loại tài khoản Vip với nhiều cơ chế tốt của sàn như thưởng, đưa ra các gói bảo hộ, các thương vụ đầu tư…
+
+Các đối tượng dùng nhiều chiêu trò để xử lý “lệnh âm” như làm cho khách rối, cắt- đặt lệnh liên tục và đổ cho khách làm sai, vốn vào không đủ để xử lý; cho những mã lời, cần vốn mạnh hơn để mua khối lượng nhiều hơn; vờ tham gia góp vốn để khách cảm thấy mình là người đồng hành, dùng group -  “chân gỗ” tương tác truyền cảm hứng…
+
+Cơ quan tố tụng xác định, nhóm của Đức thực hiện 12 vụ lừa đảo, chiếm đoạt hơn 11,2 tỷ đồng của các bị hại. Trong đó, Đức hưởng lợi hơn 1,3 tỷ đồng; Đào 100 triệu đồng; Ái 1 tỷ đồng…

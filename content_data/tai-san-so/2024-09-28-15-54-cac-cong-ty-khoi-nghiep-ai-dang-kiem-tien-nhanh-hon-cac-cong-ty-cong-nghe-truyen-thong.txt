@@ -1,0 +1,29 @@
+Theo dữ liệu mới từ nhóm fintech Stripe, các công ty khởi nghiệp về trí tuệ nhân tạo (AI) đang tạo ra doanh thu nhanh hơn làn sóng của các công ty phần mềm trước đây. Điều này đã chứng minh rằng làn sóng công nghệ mới này đang tạo ra các hoạt động kinh doanh mạnh mẽ với tốc độ chưa từng có.
+
+Cụ thể, theo phân tích thông tin thanh toán, nhóm các công ty AI hàng đầu đang đạt doanh thu hàng triệu USD trong vòng một năm - tốc độ nhanh hơn rất nhiều so với các nhóm công nghệ không phải AI tương đương trong vòng đời của một công ty khởi nghiệp.
+
+Những phát hiện này được đưa ra khi các nhà đầu tư đặt ra câu hỏi về lợi ích kinh tế của AI tạo ra và khả năng mang lại lợi nhuận từ khoản đầu tư nghìn tỷ USD dự kiến ​​​​của Big Tech vào cơ sở hạ tầng máy tính để hỗ trợ công nghệ này trong năm tới. Dữ liệu chỉ ra rằng các công ty AI trẻ có nhiều động lực hơn các công ty khởi nghiệp công nghệ được đánh giá cao từ các thời kỳ trước, đặc biệt là trong danh mục phân phối dịch vụ ứng dụng phần mềm (SaaS).
+
+Stripe, công ty trị giá 65 tỷ USD ở Thung lũng Silicon, đã thu thập dữ liệu về doanh thu hàng năm của 100 công ty AI tư nhân có doanh thu cao nhất sử dụng nền tảng thanh toán của họ tính đến ngày 31 tháng 7 năm 2024, so với nhóm các công ty khởi nghiệp SaaS đầy hứa hẹn tính đến tháng 7 năm 2018. Khách hàng của Stripe bao gồm OpenAI, Anthropic, Mistral, GitHub và Midjourney, cùng nhiều nhóm AI nổi tiếng nhất.
+
+Dữ liệu cho thấy các công ty khởi nghiệp AI mất trung bình 11 tháng để đạt doanh thu hàng năm 1 triệu USD sau lần bán hàng đầu tiên trên Stripe, so với 15 tháng đối với thế hệ công ty SaaS trước đó.
+
+Các công ty khởi nghiệp AI có quy mô doanh thu hàng năm đạt hơn 30 triệu USD đã đạt được cột mốc quan trọng này trong 20 tháng - nhanh gấp 5 lần so với các công ty SaaS trước đây.
+
+Tuy nhiên, một báo cáo của Goldman Sachs trong tháng này đã làm dấy lên mối lo ngại về lợi nhuận của các doanh nghiệp AI vì họ đang ngày càng cần nhiều vốn đầu tư hơn do chi phí cho cơ sở hạ tầng máy tính để chạy và đào tạo các mô hình AI ngày càng nhiều.
+
+Các công ty khởi nghiệp AI - nhiều trong số đó là doanh nghiệp SaaS mới nhất - đang nỗ lực xây dựng các sản phẩm thử nghiệm mà khách hàng sẵn sàng trả tiền. ChatGPT, chatbot AI của OpenAI ra mắt vào tháng 11 năm 2022 đã trở thành ứng dụng tiêu dùng phát triển nhanh nhất trong lịch sử khi đạt 100 triệu người dùng trong vòng 2 tháng kể từ khi ra mắt.
+
+OpenAI đã tạo ra một dịch vụ đăng ký để các doanh nghiệp truy cập ChatGPT, giúp doanh thu của họ đạt 3,6 tỷ USD hàng năm. Tuy nhiên, công ty cũng đang đốt hơn 5 tỷ USD mỗi năm khi đầu tư vào đào tạo các mô hình mới.
+
+Emily Sands, người đứng đầu bộ phận thông tin tại Stripe cho biết: “Không giống như các thế hệ công ty phần mềm trước đây, các công ty AI phải trả khoản chi phí đáng kể ngay từ đầu, do đó chịu áp lực phải tạo ra khả năng kiếm tiền nhanh hơn”.
+
+Nhu cầu về AI tổng hợp – phần mềm có thể tạo ra văn bản, mã, hình ảnh, âm thanh và video cùng với các dịch vụ đa phương tiện khác đang lan rộng ra toàn cầu. Theo dữ liệu của Stripe, khoảng 56% doanh thu của các công ty AI đến từ nước ngoài. Nhu cầu này đã mang lại lợi ích cho các nhóm tạo ra âm thanh và hình ảnh AI như công ty kỳ lân ElevenLabs có trụ sở tại London - chuyên sản xuất phần mềm giọng nói AI và liên doanh dịch thuật ngôn ngữ AI của Đức DeepL.
+
+Sands cho biết: “Tại các quốc gia bao gồm Singapore và Iceland, chúng tôi thấy hơn 3% dân số đã mua hàng từ 100 công ty AI hàng đầu này. Đó thực sự là một hiện tượng có quy mô toàn cầu".
+
+Bản thân Stripe hiện đang đào tạo các mô hình AI về dữ liệu khổng lồ của mình (bao gồm hơn 1 nghìn tỷ USD mỗi năm qua hàng tỷ giao dịch và hàng triệu công ty) để xây dựng các quy trình thanh toán và cá nhân hóa quy trình thanh toán.
+
+Tốc độ kiếm tiền phản ánh khả năng của các công ty khởi nghiệp trong việc đưa ra các sản phẩm và tính năng mới được xây dựng dựa trên các mô hình AI đang thay đổi nhanh chóng như OpenAI, Anthropic, Google và Meta, tạo thành nền tảng của các ứng dụng bao gồm cả phiên âm và trợ lý mã hóa.
+
+Byron Deeter, một đối tác tại Bessemer Ventures, công ty đầu tư vào các công ty SaaS cho biết vấn đề với các công ty phần mềm lớn hơn là kiến ​​trúc công nghệ cũ hơn và bản chất chuyển động chậm hơn. Deeter cho biết: “Chúng tôi đang chứng kiến ​​​​rất nhiều công ty AI đi từ con số 0 lên hàng chục triệu USD doanh thu trong một vài năm”.

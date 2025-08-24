@@ -1,0 +1,21 @@
+Kế toán là một trong những nghề đối mặt nguy cơ nhiều nhất từ năng lực của trí tuệ nhân tạo (AI) phổ quát - tờ Wall Street Journal dẫn một nghiên cứu mới cho biết. Theo nhóm tác giả thực hiện nghiên cứu, ít nhất một nửa nhiệm vụ kế toán có thể được hoàn thành nhanh hơn nhiều nếu dùng công nghệ này.
+
+Đó cũng là nguy cơ đối với các nhà toán học, phiên dịch viên, người viết nội dung và gần 20% lực lượng lao động của Mỹ. Nghiên cứu này được thực hiện bởi Đại học Pennsylvania và OpenAI - công ty tạo ra công cụ AI đình đám có tên ChatGPT.
+
+Thời gian qua, công nghệ GPT (viết tắt của Generative Pre-training Transformer) đã tạo ra sự hưng phấn và cả lo lắng tại các công ty, trường học, chính phủ và công chúng về khả năng xử lý khối lượng thông tin khổng lồ và nội dung tinh vi - dù đôi khi còn chưa chính xác hoặc có sự thiên lệch - khi trả lời các câu hỏi từ người dùng. ChatGPT là một chatbot sử dụng công nghệ này.
+
+Nhóm nghiên cứu đã tìm hiểu về nguy cơ mà GPT - tức AI phổ quát dựa trên phần mềm gọi là mô hình ngôn ngữ lớn có khả năng phân tích và tạo ra văn bản - đặt ra với các công việc khác nhau.
+
+Các nhà nghiên cứu đã phân tích tỷ lệ nhiệm vụ trong một công việc mà GPT có thể giúp giảm thời gian xử lý ít nhất 50%. Nghiên cứu cũng phát hiện thấy rằng ngoài công việc kế toán, GPT cũng xuất sắc trong các nhiệm vụ như phiên dịch, phân loại, viết nội dung sáng tạo, và tạo mã máy tính.
+
+Kết quả nghiên cứu cho thấy phần lớn các công việc sẽ bị GPT làm thay đổi theo một cách nào đó, với 80% người lao động ở Mỹ thuộc về những nghề nghiệp mà ít nhất một nhiệm vụ có thể được công nghệ AI phổ quát thực thi nhanh chóng hơn. Các công việc về xử lý thông tin - gồm chuyên viên quan hệ công chúng (PR), thư ký toà án và kỹ sư chuỗi khối - là những nghề có mức độ rủi ro lớn trước sự cạnh tranh của GPT. Những nghề bị ảnh hưởng ít nhất bởi công nghệ này là đầu bếp, thợ cơ khí mô-tô, và công nhân giàn khoan dầu khí.
+
+Nhóm nghiên cứu không dự báo nghề nào sẽ mất việc làm vào tay GPT. “Rủi ro không dự báo điều gì sẽ thay đổi và thay đổi nhanh như thế nào. Con người sẽ từ chối những thay đổi có thể gây thiệt hại cho lợi ích của họ, và quy trình thực thi công nghệ mới thường phải trải qua các cuộc đàm phán, sự phản kháng, nỗi sợ hãi và hy vọng”, giáo sư Matt Beane thuộc Đại học California, Santa Barbara phát biểu.
+
+Theo ông Beane, thách thức thực sự ở đây là các công ty, trường học và nhà hoạch định chính sách cần giúp mọi người thích nghi. “Đây là một vấn đề nghìn tỷ USD” và có thể bao gồm những công việc như đào tạo người lao động để cộng tác hiệu quả với công nghệ mới và thiết kế lại các công việc để cải thiện tự chủ, tiền lương và triển vọng cho nhiều vai trò khác nhau - ông nói.
+
+Hiện nay, nhiều người đã bắt đầu sử dụng AI phổ quát để làm việc nhanh hơn, dù không ít người còn lo ngại về tính an ninh và chính xác của công nghệ này.
+
+Một số nghiên cứu khác cũng phát hiện thấy rằng AI phổ quát có thể tiết kiệm thời gian và mang lại kết quả tốt hơn những gì con người có thể làm. Trong một thí nghiệm của Học viện Công nghệ Massachusetts (MIT), 444 người viết nội dung, chuyên viên tiếp thị, tư vấn, nhà quản trị nhân lực và thuộc các ngành nghề khác được chia thành hai nhóm. Cả hai nhóm đều được yêu cầu hoàn thành các nhiệm vụ viết lách ngắn, và một nhóm được dùng ChatGPT. Kết quả, nhóm dùng ChatGPT hoàn thành nhiệm vụ sớm hơn nhóm kia 10 phút, kết quả công việc cũng tốt hơn.
+
+Một nghiên cứu công bố vào tuần trước bởi Microsoft, công ty đang đầu tư hàng tỷ USD vào OpenAI, đã phân tích khả năng của GPT-4, phiên bản mới nhất của ChatGPT. Nghiên cứu này nói rằng GPT-4 có thể giải quyết “những nhiệm vụ mới và khó” với “mức độ hiệu quả như con người” trong những lĩnh vực như toán học, mã hoá, dược, luật, và tâm lý.

@@ -1,0 +1,33 @@
+Sáng 23/8, Thông tin và Truyền thông TP.HCM phối hợp cùng Hiệp hội An toàn thông tin Việt Nam – Chi hội VNISA phía Nam tổ chức hội thảo và triển lãm an toàn thông tin với chủ đề “Đảm bảo an toàn thông tin cho hạ tầng số, dữ liệu số và kinh tế số trước tội phạm mạng”.
+
+Giám đốc Sở Thông tin và Truyền thông TP.HCM, ông Lâm Đình Thắng cho biết sự phát triển mạnh mẽ của chuyển đổi số đã mang lại nhiều cơ hội, đem đến sự phát triển vượt bậc thì cũng đi kèm với nhiều thách thức và rủi ro, đặc biệt tình trạng tội phạm mạng đang ngày càng gia tăng.
+
+Trong năm 2023, Việt Nam có gần 14.000 cuộc tấn công mạng, tăng 10% so với năm 2022, tính chất của tội phạm mạng ngày càng tinh vi và đa dạng hơn, gây ảnh hưởng lớn đến kinh tế, xã hội và an ninh quốc gia.
+
+Theo ông Thắng, hiện nay, TP.HCM đang tăng tốc cho chuyển đổi số, xây dựng hạ tầng số…, và đây cũng là môi trường hấp dẫn cho tội phạm mạng. Thành phố cũng đang nỗ lực chống chọi với các cuộc tấn công mạng ngày càng lớn, nhắm vào các hệ thống cơ quan nhà nước, doanh nghiệp gây ra hậu quả nghiêm trọng.
+
+Hiện nay nhận thức của người dân, các cơ quan, doanh nghiệp về an toàn thông tin vẫn còn chưa cao; nguồn nhân lực có trình độ am hiểu, chi phí đầu tư về an toàn thông tin chưa được chú trọng; các chính sách pháp luật còn nhiều mặt hạn chế…
+
+Theo khảo sát của Chi hội VNISA phía Nam, trong năm 2024 nhiều đơn vị, doanh nghiệp đã thực hiện việc thuê ngoài các dịch vụ giám sát về an toàn thông tin để tối ưu chi phí, tăng từ 20% (năm 2023) lên trên 50%.
+
+Ngoài ra, việc sao lưu dữ liệu nhằm chống lại mã độc tống tiền là cách làm hiệu quả, tuy nhiên có tới 59% các tổ chức, doanh nghiệp chưa thực hiện hoặc chưa chú trọng sao lưu dữ liệu quan trọng.
+
+Kết quả khảo sát cũng cho thấy hiện đã có đến 61% tổ chức sử dụng các biện pháp đảm bảo an toàn an ninh mạng nhằm giảm thiệt hại khi bị tấn công, 13% đơn vị quan tâm nhưng chưa có đủ thông tin, nguồn lực để thực hiện.
+
+Trí tuệ nhân tạo (AI) đã trở thành động lực chính thúc đẩy sự phát triển của công nghệ thông tin trong năm 2024. AI không chỉ được ứng dụng để nâng cao hiệu quả làm việc mà còn đóng vai trò quan trọng trong việc bảo vệ hệ thống. Các thuật toán học máy tiên tiến giúp phát hiện các hành vi bất thường và ngăn chặn các cuộc tấn công mạng một cách nhanh chóng.
+
+Tuy nhiên, mặt trái của công nghệ này là việc kẻ tấn công có thể sử dụng AI để tạo ra các cuộc tấn công tinh vi hơn, chẳng hạn như giả mạo “Deepfake”, khiến việc phân biệt giữa thông tin thật và giả trở nên khó khăn hơn bao giờ hết. Đặc biệt, sự phát triển của AI đã mở ra một kỷ nguyên mới trong các cuộc tấn công mạng, khi AI được sử dụng để tự động hóa quá trình tìm kiếm lỗ hổng, tạo ra các mã độc tinh vi và thực hiện các cuộc tấn công quy mô lớn.
+
+Ngoài ra, chuyển đổi số dẫn tới sự bùng nổ của Internet of Things (IoT) và tạo ra một làn sóng thiết bị kết nối mới. Tuy nhiên, sự gia tăng nhanh chóng của các thiết bị IoT cũng đi kèm với những rủi ro về an ninh mạng, tạo ra một bề mặt tấn công rộng lớn cho kẻ tấn công, đe dọa đến sự an toàn của dữ liệu cá nhân và hệ thống mạng.
+
+Trong nửa đầu năm 2024, hàng loạt vụ tấn công ransomware (mã độc tống tiền) nhắm vào các doanh nghiệp lớn tại Việt Nam, làm tê liệt hệ thống, gián đoạn hoạt động vận hành và kinh doanh, gây ra tổn thất tài chính đáng kể.
+
+Thực tế, không ít doanh nghiệp đã phải trả khoản tiền chuộc lớn để lấy lại dữ liệu bị mã hóa, khôi phục hệ thống, làm mất lòng tin của khách hàng và đối tác. Những thiệt hại không chỉ dừng lại ở kinh tế mà còn ảnh hưởng lâu dài đến uy tín và khả năng cạnh tranh của các doanh nghiệp Việt Nam trên thị trường quốc tế.
+
+Gần đây nhất, sự cố “màn hình xanh chết chóc” tháng 7 vừa qua làm gián đoạn một số lượng lớn các tổ chức do phụ thuộc nhiều vào điện toán đám mây và hệ điều hành là hồi chuông cảnh báo cho sự mỏng manh dễ vỡ của công nghệ thông tin nói chung, và chuyển đổi số nói riêng.
+
+Nhiều chuyên gia an ninh mạng phải thừa nhận, còn nhiều việc phải làm, tuy tốn kém gian nan nhưng cần thiết để tăng khả năng chống chọi với sự cố, giảm mức độ phụ thuộc vào một cá nhân, hay một tổ chức.
+
+Ông Phạm Văn Hậu, đại diện VNISA phía Nam, khẳng định dữ liệu đã trở thành tài sản quý giá của tổ chức trong kỷ nguyên số, nhưng việc bảo vệ khối lượng dữ liệu khổng lồ này đang trở thành một thách thức lớn. Các vụ rò rỉ dữ liệu vẫn liên tục xảy ra, gây ra hậu quả nghiêm trọng và thiệt hại lớn về tài chính và uy tín doanh nghiệp.
+
+Năm 2024, các quy định về bảo vệ dữ liệu ngày càng được siết chặt trên toàn cầu và ở Việt Nam (Nghị định 13/2023/NĐ-CP về việc bảo vệ dữ liệu cá nhân). Các doanh nghiệp phải đối mặt với những yêu cầu nghiêm ngặt hơn về việc thu thập, lưu trữ và xử lý dữ liệu cá nhân. Điều này buộc các doanh nghiệp phải đầu tư vào các giải pháp bảo mật mạnh mẽ hơn để đảm bảo tuân thủ pháp luật và bảo vệ dữ liệu của khách hàng.

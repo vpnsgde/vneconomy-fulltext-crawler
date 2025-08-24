@@ -1,0 +1,39 @@
+Mở đầu tuần giao dịch 24/6 - 30/4, Bitcoin đã chứng kiến tuần giao dịch đầy biến động. Trong phiên giao dịch đầu tuần, Bitcoin giảm mạnh đến 7,8% còn 59.215 USD. Đây được cho là mức giảm mạnh nhất của Bitcoin kể từ tháng 5. So với lúc lập đỉnh 73.798 USD hồi tháng 3 năm nay, đồng tiền điện tử mất giá hơn 15%. Một trong những áp lực đè nặng lên giá Bitcoin hiện nay nằm ở yếu tố nguồn cung với 2 sự kiện nổi bật trong tuần.
+
+Một diễn biến đáng chú ý đối với thị trường tiền điện tử trong thời gian gần đây là người được ủy thác của Mt. Gox - từng là sàn giao dịch Bitcoin giao ngay lớn nhất thế giới đã thông báo rằng việc phân phối các khoản hoàn trả Bitcoin (BTC) và Bitcoin Cash (BCH) sẽ bắt đầu vào đầu tháng 7 năm 2024.
+
+Nền tảng có trụ sở tại Tokyo không còn tồn tại và đã đóng cửa vào năm 2014 sau một loạt vụ hack. Trong số 950.000 Bitcoin bị mất, khoảng 140.000 Bitcoin đã được phục hồi sau khi MtGox tuyên bố phá sản, khiến hàng nghìn chủ nợ trên khắp thế giới mắc kẹt. Chín năm sau, chính quyền đã xác định được các hacker, trong đó có hai công dân Nga bị Bộ Tư pháp Hoa Kỳ buộc tội âm mưu rửa khoảng 647.000 Bitcoin từ sàn giao dịch.
+
+Các tín hiệu đã có từ tháng 5 khi Mt. Gox đã chuyển toàn bộ 9,6 tỷ USD Bitcoin đến địa chỉ mới. Bên ủy thác trước đó của sàn giao dịch đã thông báo rằng các chủ nợ sẽ được hoàn trả 142.000 Bitcoin là 143.000 Bitcoin Cash, cũng như tiền pháp định với tổng trị giá 69 tỷ yên Nhật (510 triệu USD) trước tháng 10/2024.
+
+Vì một phần yên Nhật đã được trả lại vào ngày 23/4 nên lần hoàn trả tới đây là bằng BTC và BCH. Hoạt động kiểm kê chuyển tiền được sàn đẩy nhanh nên người dùng sẽ có thể nhận lại tài sản sớm vào đầu tháng 7, chứ không phải như hẹn vào tháng 10.
+
+Trong những năm qua, MtGox đã phải đối mặt với nhiều sự chậm trễ trong việc trả nợ cho các chủ nợ. Các khoản hoàn trả sẽ bao gồm Kraken, Bitstamp và BitGo vào tháng tới. Sàn giao dịch này phát triển từ một dịch vụ giao dịch thẻ trực tuyến và MtGox là viết tắt của Magic: The Gathering Online Exchange.
+
+Theo Georgi Koreli, đồng sáng lập và CEO của giao thức bảo mật Hinkal, phản ứng của thị trường tiền điện tử diễn ra nhanh chóng, với hơn 200 triệu USD bị bán tháo sau 12h thông báo.
+
+Alex Thorn, người đứng đầu bộ phận nghiên cứu tại Galaxy Digital, một công ty đầu tư tập trung vào tiền điện tử do tỷ phú Mike Novogratz thành lập, tin rằng thị trường đang hoảng sợ thái quá trước những thông tin.
+
+Trong số 140.000 Bitcoin do công ty phá sản nắm giữ, chỉ có khoảng 65.000 bitcoin được thiết lập để giao cho 20.000 chủ nợ cá nhân, nhiều người trong số họ là những người theo dõi sớm hiểu biết về công nghệ và những người chơi bitcoin nổi tiếng. Những người đó bao gồm những người đồng sáng lập công ty công nghệ bitcoin Blockstream Adam Back và Greg Maxwell và người tăng cường bitcoin thời kỳ đầu Roger Ver.
+
+Một lý do quan trọng khiến các chủ nợ không bán tất cả token của họ cùng một lúc là nguy cơ bị đánh thuế cao do lãi lớn. Nhiều chủ nợ đã mua Bitcoin của họ ở mức tối đa là 451 USD (giá khi MtGox nộp đơn xin phá sản) và với Bitcoin hiện được giao dịch quanh ngưỡng 60.000 USD, tác động về thuế là rất đáng kể.
+
+Các mã thông báo còn lại sẽ được gửi đến các quỹ yêu cầu bồi thường lớn và phá sản riêng biệt. Trái ngược với kỳ vọng của thị trường, Thorn cho rằng những quỹ này sẽ không tràn ngập thị trường. “Từ việc trao đổi với một số cá nhân trong các quỹ này, chúng tôi không nghĩ rằng sẽ có lượng bán ra đáng kể từ nhóm này.
+
+Tương tự, Bitcoinica (một sàn giao dịch bitcoin cũng đã bị hack và người được ủy thác đã đưa số tiền đã thu hồi được của họ vào Mt. Gox để bảo quản an toàn) sẽ không thể bán sau khi thanh toán vì số tiền sau đó sẽ đi vào quy trình phá sản của họ ở New Zealand”.
+
+Theo phân tích trên chuỗi, các nhà chức trách Đức dường như đang bán thêm Bitcoin sau khi bán phá giá khoảng 170 triệu USD tiền điện tử trong tuần qua.
+
+Văn phòng Cảnh sát Hình sự Liên bang (BKA) của đất nước đã chuyển 400 BTC, trị giá khoảng 25 triệu USD, sang các sàn giao dịch tiền điện tử Coinbase và Kraken vào ngày 25/6. Theo dịch vụ giám sát blockchain Arkham, 500 BTC khác (trị giá hơn 30 triệu USD) đã được chuyển đến một địa chỉ không xác định.
+
+Việc bán tháo xảy ra khi thị trường tiền điện tử tiếp tục xu hướng giảm giá, với BTC có giá khoảng 61.700 USD tại thời điểm 00h ngày 26/6 theo giờ Việt Nam. Trước đó giá bitcoin đã giảm xuống dưới mốc 60.000 USD nhiều lần trước khi tăng trở lại.
+
+Tuần trước, chính phủ Đức đã bán một phần đáng kể số Bitcoin bị tịch thu. Arkham cho biết khoảng 170 triệu USD Bitcoin đã được gửi đến các sàn giao dịch trước đợt chuyển tiền mới nhất,.
+
+Arkham cho biết trên Twitter: “Hiện tại, Chính phủ Đức nắm giữ 46.359 BTC, trị giá 2,8 tỷ USD theo giá hiện tại”.
+
+Số Bitcoin được bán nằm trong số tài sản bị tịch thu từ trang web vi phạm bản quyền phim, Movie2k.to. Cảnh sát Đức đã thu giữ 50.000 BTC từ trang web vi phạm bản quyền vào tháng 1, được mô tả là sự bảo mật Bitcoin sâu rộng nhất của các cơ quan thực thi pháp luật ở Cộng hòa Liên bang Đức cho đến nay.
+
+Tại thị trường Việt Nam, dù chưa được pháp luật công nhận nhưng các giao dịch tài sản số vẫn diễn ra sôi động thông qua các sàn quốc tế hoặc hình thức thỏa thuận trực tiếp, tiềm ẩn rủi ro về rửa tiền và thất thoát cho nền kinh tế. Top các sàn giao dịch điện tử lớn nhất Việt Nam hiện tại là Binance, Remitano, MEXC Global, BitMart, Huobi Global, Gate.io… Diễn biến giá Bitcoin biến động mạnh trong thời gian gần đây làm gia tăng áp lực bán tháo, đồng thời tiềm ẩn nhiều rủi ro tại các sàn giao dịch.
+
+Báo cáo từ Công ty Boston Consulting Group nhận định, tổng giá trị tài sản số đến năm 2030 dự kiến lên tới 16.000 tỷ USD, chiếm 10% GDP toàn cầu. Còn theo số liệu thống kê mới đây của Crypto Crunch App, Việt Nam đứng thứ ba thế giới về giao dịch tiền số (sau Ấn Độ và Mỹ), với gần 26 triệu người sở hữu tiền số.

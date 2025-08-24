@@ -1,0 +1,11 @@
+Thông tin từ VNPost cho biết, vào lúc 3h10 ngày 4/6/2024, hệ thống công nghệ thông tin của Tổng công ty Bưu điện Việt Nam (Vietnam Post) bị tấn công bất hợp pháp (ransomware), gây ảnh hưởng trực tiếp đến việc thực hiện các hoạt động liên quan đến dịch vụ bưu chính chuyển phát.
+
+Tuy vậy, công ty này cho biết, các dịch vụ tài chính bưu chính, hành chính công và phân phối hàng hóa đến thời điểm này vẫn hoạt động bình thường.
+
+Ngay khi phát hiện sự cố, Bưu điện Việt Nam đã kích hoạt kịch bản hành động, bám sát theo hướng dẫn của Cục An toàn thông tin (Bộ Thông tin và Truyền thông), trong đó có việc ngắt kết nối các hệ thống công nghệ thông tin để cô lập sự cố và bảo vệ dữ liệu. Do vậy, các website (có chứa “vnpost.vn” trong tên miền) và các ứng dụng liên quan sẽ tạm thời bị gián đoạn trong thời gian khắc phục sự cố.
+
+VNPost gửi lời xin lỗi với khách hàng và đối tác vì sự gián đoạn không mong muốn này, đồng thời cho biết đang làm việc với các cơ quan chức năng và phối hợp với các đối tác là các tập đoàn công nghệ thông tin hàng đầu Việt Nam để nỗ lực xử lý, khắc phục sự cố trong thời gian sớm nhất, đảm bảo tối đa quyền lợi khách hàng.
+
+Ransomware là hình thức tấn công mạng nguy hiểm bằng mã độc, là một dạng phần mềm độc hại chuyên mã hóa dữ liệu hoặc khóa quyền truy cập thiết bị của người dùng. Để được trả lại quyền truy cập thiết bị hoặc dữ liệu, người dùng phải trả cho hacker một khoản tiền nhất định, gọi là tiền chuộc.
+
+Theo thống kê của Bộ Thông tin và truyền thông, trong ba tháng đầu năm 2024, các hệ thống thông tin tại Việt Nam đã chịu 2.323 cuộc tấn công mạng. Xu hướng tấn công mạng, đặc biệt là tấn công mã hóa dữ liệu tống tiền có xu hướng tăng cao. Theo đó, cứ 11 giây sẽ có một tổ chức trở thành mục tiêu của mã độc Ransomware.

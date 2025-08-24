@@ -1,0 +1,15 @@
+Ngày 17/8, Trường Đại học Y Hà Nội phối hợp với Hội Nghiên cứu và Ứng dụng Công nghệ Y - Sinh Việt Nam (VAMBRA), Công ty Cổ phần Hành trình Việt Nam Khỏe mạnh (VietHealth), cùng sự hỗ trợ từ Google và Ngân hàng Phát triển Châu Á tổ chức khóa tập huấn “Cơ hội AI dành cho nhân viên y tế” tại Thanh Hóa.
+
+Khóa tập huấn thu hút sự tham gia của gần 400 chuyên gia công nghệ, cán bộ, giảng viên Phân hiệu Trường Đại học Y Hà Nội tại Thanh Hóa, cùng cán bộ, nhân viên y tế của Sở Y tế và các bệnh viện trên địa bàn.
+
+Tiến sĩ Cầm Bá Thức, Phó Giám đốc Phân hiệu Trường Đại học Y Hà Nội tại Thanh Hóa, nhấn mạnh trí tuệ nhân tạo (AI) đang trở thành công cụ không thể thiếu trong mọi lĩnh vực, đặc biệt là y tế.
+
+Các ứng dụng AI trong chăm sóc sức khỏe có thể kể đến như thiết bị cấy ghép, thiết bị đeo thông minh, robot y tế, hệ thống chẩn đoán và điều trị thông minh. “AI chưa thể thay thế khả năng sáng tạo của con người, nhưng việc ứng dụng đúng cách sẽ giúp nâng cao năng suất, cải thiện chất lượng công việc và đóng góp tích cực vào cải cách hành chính, hiện đại hóa hệ thống y tế công”, tiến sĩ Thức nói.
+
+Chương trình tập huấn được thiết kế dựa trên nền tảng Google AI Essentials, tích hợp các nội dung đào tạo chuẩn quốc tế cùng thực tiễn ngành y tế Việt Nam. Khóa học gồm 5 module chính, do các chuyên gia được Google chứng nhận toàn cầu trực tiếp hướng dẫn.
+
+Các nội dung tập trung vào việc giúp học viên tối ưu hiệu suất công việc với công cụ AI; thiết kế câu lệnh hiệu quả để khai thác AI; ứng dụng AI có trách nhiệm và đạo đức; đồng thời cập nhật xu hướng phát triển AI trong lĩnh vực y tế.
+
+Không chỉ được tiếp cận kiến thức nền tảng, học viên còn được thực hành trực tiếp với chuyên gia công nghệ và giảng viên đầu ngành. Việc này giúp đội ngũ cán bộ, giảng viên và nhân viên y tế nắm bắt phương pháp sử dụng AI đúng cách trong công tác khám chữa bệnh, học tập và nghiên cứu khoa học, đảm bảo tính hiệu quả và an toàn.
+
+Điểm đáng chú ý là chương trình được tùy biến theo từng nhóm đối tượng: lãnh đạo quản lý, cán bộ hành chính, bác sĩ, dược sĩ hay giảng viên đại học. Cách tiếp cận này nhằm hỗ trợ từng vị trí công việc ứng dụng AI hiệu quả nhất, từ quản lý điều hành đến hoạt động chuyên môn.

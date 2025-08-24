@@ -1,0 +1,17 @@
+Đó là khẳng định của Phó Chủ tịch UBND TP. Thủ Đức Nguyễn Kỳ Phùng tại buổi ra mắt Hệ thống quản lý thông tin trên địa bàn TP. Thủ Đức, ngày 7/8. Buổi lễ có sự tham gia của đại diện các sở ban ngành TP. HCM, lãnh đạo TP. Thủ Đức và các phường, đơn vị liên quan.
+
+Theo đó, mô hình Hệ thống quản lý thông tin trên địa bàn TP. Thủ Đức có 5 thành phần chính, tương ứng T1, T2, T3, T4, T5. Trong đó,T1là nền tảng chia sẻ dữ liệu, có vai trò kết nối giữa các thành phần khác trong cả hệ thống để luồng thông tin, dữ liệu được trao đổi giữa các thành phần trong hệ thống được thông suốt và là nơi tạo ra giá trị mới từ các nguồn dữ liệu khác nhau.
+
+T2là kho dữ liệu dùng chung, có vai trò tập hợp các dữ liệu từ các hệ thống khác nhau để xử lý nhằm tạo ra các giá trị mới.
+
+T3là các hệ thống/phần mềm chuyên ngành. Các hệ thống, phần mềm chuyên ngành theo Danh mục Đề án chuyển đổi số và đô thị thông minh TP. Thủ Đức.
+
+T4là các ứng dụng khai thác và sử dụng.
+
+T5là tiêu chuẩn hóa, theo quy định Tiêu chuẩn ứng dụng công nghệ thông tin trong cơ quan Nhà nước (Thông tư 39/2017/TT-BTTTT ngày 15/12/2017); Tiêu chuẩn Việt Nam về thông tin địa lý; Các quy định về tiêu chuẩn chuyên ngành khác như đất đai...
+
+Phó Chủ tịch UBND TP. Thủ Đức Nguyễn Kỳ Phùng cho biết hệ thống quản lý thông tin trên địa bàn TP. Thủ Đức đảm bảo các nguyên tắc về dữ liệu, nghiệp vụ, công nghệ, triển khai. Dữ liệu phải được sinh ra trong hoạt động nghiệp vụ hàng ngày. Dữ liệu cũng được tạo lập, cập nhật bởi các đơn vị theo đúng chức năng, nhiệm vụ của từng đơn vị. Đồng thời, còn có dữ liệu khác của các sở ban ngành. Tất cả dữ liệu đều được công bố và sử dụng để nâng cao hiệu quả hoạt động công vụ trong và ngoài TP. Thủ Đức.
+
+Ngoài ra, hệ thống dữ liệu phải được chia sẻ cho người dân và doanh nghiệp, đặc biệt là các doanh nghiệp sử dụng để chủ động phổ cập thông tin quản lý của nhà nước trên nền tảng số.
+
+Được biết, phần mềm của hệ thống giai đoạn đầu đã thu thập được 157/392 lớp dữ liệu từ các sở ngành, đơn vị. Theo Công văn số 6142/UBND-KHCNTT ngày 8/7/2024, UBND TP. Thủ Đức ban hành danh mục dữ liệu công bố cho người dân gồm 45 lớp dữ liệu, trong đó 28 lớp dữ liệu được thu thập từ hệ thống bản đồ số dùng chung TP.HCM, 17 lớp dữ liệu từ hệ thống quản lý thông tin của TP. Thủ Đức. Người dân có thể tra cứu trực tiếp tại Bản đồ số TP. Thủ Đức thông qua website hay app TP. Thủ Đức.

@@ -1,0 +1,25 @@
+Nước đi này được cho là nhằm mục đích tránh gây tổn hại đến các cuộc đàm phán thương mại với Bắc Kinh và xúc tiến một cuộc gặp giữa Tổng thống Donald Trump với Chủ tịch Tập Cận Bình trong năm nay.
+
+Những tháng gần đây, Cục Công nghiệp và An ninh thuọc Bộ Thương mại Mỹ - cơ quan điều hành kiểm soát xuất khẩu của nước này - đã được yêu cầu tránh các động thái cứng rắn đối với Trung Quốc - theo nguồn tin bao gồm các quan chức đương nhiệm và cựu quan chức Mỹ.
+
+Ngày 28/7, các quan chức cấp cao của  Mỹ và Trung Quốc đã khởi động vòng đàm phán thương mại thứ ba giữa hai nước, diễn ra tại Stockholm, Thụy Điển, sau hai vòng đàm phán trước đó ở Geneva và London.
+
+Ngoài việc Mỹ muốn tránh gây tổn hại đến nỗ lực tổ chức một cuộc gặp thượng đỉnh giữa ông Trump và ông Tập, một số quan chức cho rằng Mỹ cũng muốn giảm bớt việc kiểm soát xuất khẩu vì nguy cơ Trung Quốc trả đũa bằng cách hạn chế xuất khẩu đất hiếm và nam châm quan trọng sang Mỹ như Bắc Kinh đã làm vào tháng 5 năm nay.
+
+Trước đó trong năm nay, ông Trump đã sẵn sàng hạn chế xuất khẩu công nghệ sang Trung Quốc. Hồi tháng 4, chính quyền Mỹ đã nói với hãng chip Nvidia rằng nhà chức trách sẽ chặn việc xuất khẩu chip H20 - loại chip được thiết kế cho thị trường Trung Quốc  - thay vì chỉ hạn chế đối với các chip tiên tiến hơn như biện pháp của chính quyền Tổng thống tiền nhiệm Joe Biden.
+
+Tuy nhiên, ông Trump đã đổi ý sau khi CEO Nvidia Jensen Huang trực tiếp vận động hành lang. Vì vậy, H20 đã trở thành tâm điểm của cuộc tranh luận giữa các quan chức an ninh Mỹ,  những người cho rằng chip này sẽ giúp ích cho quân đội Trung Quốc, và Nvidia - công ty cho rằng việc chặn xuất khẩu công nghệ của Mỹ sẽ chỉ khuyến khích các tập đoàn Trung Quốc đẩy nhanh đổi mới, sáng tạo.
+
+20 chuyên gia an ninh và cựu quan chức, bao gồm ông Matt Pottinger - người từng là phó cố vấn an ninh quốc gia trong chính quyền Trump nhiệm kỳ đầu tiên - dự kiến sẽ gửi thư tới Bộ trưởng Bộ Thương mại Howard Lutnick vào ngày 28/7 để bày tỏ lo ngại. “Động thái này thể hiện một sai lầm chiến lược gây nguy hiểm cho lợi thế kinh tế và quân sự của Mỹ trong lĩnh vực trí tuệ nhân tạo”, nhóm này viết trong bức thư mà Financial Times xem được.
+
+Trong thư, các chuyên gia nhận định H20 là một “nhân tố tăng tốc mạnh mẽ cho năng lực AI tiên tiến của Trung Quốc”, thậm chí mạnh hơn H100 - một chip tiên tiến của Nvidia đã bị chặn xuất khẩu sang Trung Quốc - ở một khía cạnh quan trọng. Theo các chuyên gia này, H20 vượt trội hơn H100 trong “suy luận” - tức là thực hiện các chức năng AI, khác với đào tạo các mô hình AI - và sẽ giúp sản xuất các hệ thống vũ khí tự động, nền tảng giám sát tình báo và các tiến bộ quân sự khác.
+
+Về phần mình, Nvidia cho rằng những lời chỉ trích trong lá thư là “không đúng sự thật” và “không nhất quán” với kế hoạch hành động AI gần đây được Tổng thống Trump công bố đặt trọng tâm vào xuất khẩu công nghệ AI của Mỹ. Hãng nói H20 sẽ “không tăng cường khả năng quân sự của bất kỳ ai, mà sẽ giúp Mỹ giành được sự ủng hộ của các nhà phát triển trên toàn thế giới”.
+
+Tuy nhiên, các nhà phê bình không đồng ý với quan điểm mà Nvidia đưa ra. Ông Jimmy Goodrich, cố vấn cấp cao về phân tích công nghệ của công ty Rand, cho biết sức mạnh của các con chip được đo bằng băng thông bộ nhớ và công suất, và H20 “vượt trội về băng thông bộ nhớ so với bất kỳ chip nội địa Trung Quốc hiện tại nào”. Ông cho rằng điều này rất quan trọng cho sự phát triển quy mô lớn của AI và “H20 là nhiên liệu cung cấp năng lượng cho động cơ AI của Trung Quốc”.
+
+Ông Steve Bannon, cựu chiến lược gia Nhà Trắng trong chính quyền Trump nhiệm kỳ đầu tiên, cho rằng việc cho phép bán H20 cho Trung Quốc là một sai lầm lớn. “Chính phủ đang sẵn sàng mắc phải sai lầm… theo đòi hỏi của các công ty muốn thúc đẩy lợi nhuận của riêng mà không quan tâm đến an ninh quốc gia”, ông nói.
+
+Một người phát ngôn của chính quyền Mỹ nói ông Trump đã đưa ra các yêu cầu về giấy phép xuất khẩu đối với H20 và sẽ xem xét các hồ sơ xin cấp phép “một cách cẩn trọng, xét tới cả lợi ích và tổn hại đối với Mỹ” từ việc bán con chip này cho Trung Quốc.
+
+Nvidia nói Chính phủ Mỹ có “đầy đủ tầm nhìn và thẩm quyền đối với mỗi giao dịch chip H20”. Giới thạo tin thì cho biết chính quyền Trump hiện chưa cấp giấy phép nào cho việc bán con chip này cho Trung Quốc.

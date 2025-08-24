@@ -1,0 +1,35 @@
+Theo dự báo của Hiệp hội ngành công nghiệp toàn cầu (SEMI), từ nay đến năm 2030, ngành bán dẫn toàn cầu sẽ cần thêm khoảng một triệu lao động lành nghề. Sự thiếu hụt không chỉ diễn ra ở các vị trí kỹ thuật viên hay kỹ sư, mà còn lan sang cả các cấp quản lý trung và cao cấp.
+
+Tại Mỹ, Hiệp hội Công nghiệp Bán dẫn (SIA) ước tính đến năm 2030 sẽ thiếu khoảng 67.000 nhân sự. Ở châu Âu, con số này có thể vượt 100.000 kỹ sư, còn khu vực châu Á - Thái Bình Dương dự kiến sẽ thiếu hơn 200.000 người.
+
+Theo Tom's Hardware, không chỉ thiếu người làm kỹ thuật, ngành bán dẫn cũng đang "khát" nhà quản lý: ít nhất 100.000 quản lý cấp trung và 10.000 lãnh đạo cấp cao sẽ cần được bổ sung trong 5 năm tới. Điều đáng nói là nhiều vị trí quản lý có thể phải tuyển từ các lĩnh vực khác, do nguồn nhân lực trong ngành không đủ đáp ứng.
+
+Năm 2024, ngành bán dẫn toàn cầu ghi nhận doanh thu lên tới 627,6 tỷ USD, tăng gần 20% so với năm trước. Sự phát triển vượt bậc này đến từ làn sóng ứng dụng trí tuệ nhân tạo (AI), sự phổ biến của mạng 5G, nhu cầu ngày càng tăng trong lĩnh vực ô tô và sự ổn định của ngành điện tử tiêu dùng. Dự báo trong 4 năm tới, gần 20% lãnh đạo các doanh nghiệp trong ngành vẫn kỳ vọng vào tăng trưởng cao, mà không lo tình trạng dư cung.
+
+Để nắm bắt cơ hội chiến lược này, nhiều chính phủ trên thế giới đang rót vốn đầu tư quy mô lớn vào ngành bán dẫn. Liên minh châu Âu đặt mục tiêu đạt 20% thị phần toàn cầu vào năm 2030, với gói hỗ trợ lên tới 43 tỷ euro để thu hút các hãng chip đến xây dựng nhà máy tại khu vực. Mỹ cũng dành khoảng 52,7 tỷ USD cho sản xuất và nghiên cứu bán dẫn trong nước, thông qua Đạo luật CHIPS và Khoa học.
+
+Tuy vậy, không phải nơi nào cũng theo kịp cuộc đua. Vương quốc Anh dù đã công bố chương trình hỗ trợ trị giá 1 tỷ bảng Anh trong 10 năm, nhưng số tiền này vẫn quá ít để xây dựng được một nhà máy sản xuất chip hoàn chỉnh.
+
+Trong khi đó, các "ông lớn" như Intel, Samsung, TSMC, STMicroelectronics, NXP, Infineon hay GlobalFoundries đang tăng tốc mở rộng sản xuất ở nhiều quốc gia, khiến nhu cầu tuyển dụng lao động kỹ thuật càng trở nên cấp thiết.
+
+Các chuyên gia cho rằng vấn đề nằm ở chính hệ thống đào tạo. Số lượng sinh viên theo học các ngành kỹ thuật liên quan đến bán dẫn đang sụt giảm.
+
+Tại Đức, số sinh viên các ngành khoa học - kỹ thuật (STEM) đã giảm 6,5% chỉ trong năm 2021. Năm 2018, nước này chỉ có chưa đến 82.000 sinh viên ngành kỹ thuật điện. Tình hình ở Ireland còn nghiêm trọng hơn, khi năm 2017 chỉ có 742 sinh viên mới nhập học ngành này. Tại Mỹ, số bằng cử nhân kỹ thuật điện được cấp năm 2018 cũng chỉ ở mức 13.767.
+
+Bên cạnh đó, lực lượng lao động trong ngành cũng đang già hóa nhanh chóng. Tại Mỹ, một phần ba lao động trong ngành bán dẫn đã ngoài 55 tuổi. Tại Đức, khoảng một phần ba lực lượng hiện tại sẽ nghỉ hưu trong vòng 10 năm tới.
+
+Không chỉ thiếu người, yêu cầu công việc trong ngành cũng đang thay đổi. Ở châu Âu, các nhà tuyển dụng ngày càng ưu tiên ứng viên có kiến thức về AI, học máy và phần mềm nhúng, thay vì chỉ giỏi thiết kế vi mạch theo cách truyền thống. Điều này càng làm bài toán nhân lực thêm phức tạp, khi thị trường không chỉ cần người, mà cần người có kỹ năng mới, phù hợp với bước chuyển của công nghệ.
+
+Tình trạng khan hiếm nhân lực trong ngành bán dẫn đang dẫn đến một cuộc cạnh tranh ngày càng khốc liệt giữa các công ty công nghệ. Theo tổ chức SEMI, có tới 92% giám đốc điều hành ngành công nghệ gặp khó khăn trong việc tuyển dụng ứng viên phù hợp.
+
+Thêm vào đó, cơ cấu sản xuất chip toàn cầu cũng khiến việc tìm kiếm và giữ chân nhân sự ngày càng phức tạp. Đài Loan hiện sản xuất 65% lượng chip của thế giới, tiếp theo là Trung Quốc (15%), Hàn Quốc và Mỹ đều ở mức 12%. Trong khi đó, các công ty Mỹ lại nắm gần một nửa thị phần bán dẫn toàn cầu (46,3%).
+
+Do nhân lực lành nghề thường tập trung tại một số khu vực nhất định, nên việc điều chuyển các vị trí lãnh đạo cấp cao giữa các quốc gia là điều không dễ dàng, trừ khi đi kèm chế độ đãi ngộ hấp dẫn hoặc cơ hội thăng tiến rõ ràng.
+
+Trước thực tế đó, nhiều doanh nghiệp đang tích cực cải thiện hình ảnh của mình để trở thành nơi làm việc hấp dẫn hơn. Khoảng 60% nhà quản lý cấp cao cho rằng các công ty bán dẫn đang tụt hậu so với những tên tuổi công nghệ lớn trong mắt ứng viên. Các nỗ lực đang được đẩy mạnh nhằm cải thiện mức lương, cân bằng giữa công việc và cuộc sống cũng như lộ trình thăng tiến rõ ràng.
+
+Đáng chú ý, hiện nay có tới 73% doanh nghiệp trong ngành đang chuyển hướng sang tuyển dụng dựa trên kỹ năng và năng lực thực tế, thay vì chỉ xét đến bằng cấp hay kinh nghiệm chuyên ngành. Một số công ty còn chủ động chiêu mộ nhân sự cấp cao từ các lĩnh vực liên quan như phần mềm hay tự động hóa công nghiệp.
+
+Tại Mỹ, chính phủ đã khởi động một sáng kiến có tên Liên minh Đối tác Lực lượng lao động (Workforce Partnership Alliance), sử dụng nguồn ngân sách 5 tỷ USD của Trung tâm Công nghệ Bán dẫn Quốc gia (NSTC) để đào tạo lực lượng lao động kỹ thuật cao. Trong khuôn khổ chương trình này, NSTC dự kiến sẽ cấp tài trợ từ 500.000 đến 2 triệu USD cho 10 dự án đào tạo nhân lực, với các vòng hỗ trợ tiếp theo sẽ được mở rộng trong tương lai.
+
+Bên cạnh việc tuyển dụng, các công ty còn tập trung vào chiến lược giữ chân người giỏi. Khi mà toàn ngành công nghệ đang chứng kiến tỷ lệ nghỉ việc trung bình 13,2%, thì môi trường làm việc linh hoạt và lộ trình phát triển nghề nghiệp rõ ràng là yếu tố ngày càng được chú trọng.

@@ -1,0 +1,18 @@
+2025-08-24 06:34:41,938 - INFO - Connected to database at /home/vpnsg8668/Documents/vneconomy-full-crawler/scripts/../database/vneconomy_news.db
+2025-08-24 06:34:41,938 - INFO - 78 categories exported to /home/vpnsg8668/Documents/vneconomy-full-crawler/scripts/../tmp/categories.csv
+2025-08-24 06:34:41,938 - INFO - Found 4 tables in database
+2025-08-24 06:34:41,938 - INFO - Table 'categories': 78 records, 2 columns
+2025-08-24 06:34:41,938 - INFO - Table 'links': 0 records, 3 columns
+2025-08-24 06:34:41,938 - INFO - Table 'sqlite_sequence': 0 records, 2 columns
+2025-08-24 06:34:41,938 - INFO - Table 'contents': 0 records, 5 columns
+2025-08-24 06:34:41,938 - INFO - Tables info exported to /home/vpnsg8668/Documents/vneconomy-full-crawler/scripts/../tmp/tables_info.txt
+2025-08-24 06:34:41,939 - INFO - Database export and tables info dump completed
+2025-08-24 14:58:32,122 - INFO - Connected to database at /home/vpnsg8668/Documents/vneconomy-full-crawler/scripts/../database/vneconomy_news.db
+2025-08-24 14:58:32,123 - INFO - 78 categories exported to /home/vpnsg8668/Documents/vneconomy-full-crawler/scripts/../tmp/categories.csv
+2025-08-24 14:58:32,123 - INFO - Found 4 tables in database
+2025-08-24 14:58:32,123 - INFO - Table 'categories': 78 records, 2 columns
+2025-08-24 14:58:32,126 - INFO - Table 'links': 62137 records, 3 columns
+2025-08-24 14:58:32,126 - INFO - Table 'sqlite_sequence': 2 records, 2 columns
+2025-08-24 14:58:32,128 - INFO - Table 'contents': 57986 records, 5 columns
+2025-08-24 14:58:32,128 - INFO - Tables info exported to /home/vpnsg8668/Documents/vneconomy-full-crawler/scripts/../tmp/tables_info.txt
+2025-08-24 14:58:32,128 - INFO - Database export and tables info dump completed

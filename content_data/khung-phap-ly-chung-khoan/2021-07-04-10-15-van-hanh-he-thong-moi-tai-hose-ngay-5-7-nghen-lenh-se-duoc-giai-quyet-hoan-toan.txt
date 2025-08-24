@@ -1,0 +1,49 @@
+Ngày mai, 5/7, hệ thống giao dịch mới do Sở GDCK TP. Hồ Chí Minh (HOSE) và FPT phối hợp xây dựng, chính thức vận hành. Trao đổi với báo giới trước giờ “G”, ông Dương Dũng Triều - Chủ tịch Công ty TNHH Hệ thống thông tin FPT (FPT IS) khẳng định rằng, tình trạng nghẽn lệnh sẽ được giải quyết hoàn toàn sau khi hệ thống mới đi vào vận hành chính thức từ đầu tuần tới (05/7/2021).
+
+Ba tháng qua, FPT và HOSE đã tiến hành sửa lại phần mềm giao dịch chứng khoán của Sở GDCK Hà Nội (HNX) cho phù hợp với đặc tính giao dịch của HOSE, viết lại hệ thống giao tiếp với các công ty chứng khoán và tích hợp thêm phần mềm từ các đơn vị khác như Ủy ban Chứng khoán Nhà nước (UBCKNN), Trung tâm Lưu ký Chứng khoán Việt Nam (VSD)… để giải quyết tình trạng nghẽn lệnh tại HOSE.
+
+
+
+Hệ thống giao dịch mới có công suất xử lý 3 - 5 triệu lệnh một ngày, đồng thời cũng bỏ cơ chế phân bổ số lượng lệnh hàng ngày cho các công ty chứng khoán và cũng được cải thiện khả năng xử lý số lượng lệnh gửi vào trong một giây. Năng lực hệ thống mới trong quá trình kiểm thử đã chứng minh được các tham số trên đã đạt yêu cầu.
+
+Bên cạnh việc hỗ trợ hệ thống đi vào vận hành, chúng tôi còn hoàn toàn làm chủ hệ thống này thông qua việc đã lên các kịch bản xử lý tình huống để nhanh chóng khắc phục sự cố (nếu có) và dễ dàng nâng cấp, hiệu chỉnh để đáp ứng theo sự phát triển của nhu cầu thị trường.
+
+Để chuẩn bị kỹ càng cho vận hành chính thức vào ngày 5/7, các công việc hoàn tất cuối cùng đã được thực hiện ra sao, thưa ông?
+
+Chúng tôi đã hoàn thành việc chuyển đổi từ hệ thống cũ sang hệ thống mới trong ngày thứ Sáu (02/7).
+
+Trong ngày thứ Bảy (03/7), các công ty chứng khoán đã vận hành thử trên hệ thống mới như một phiên giao dịch bình thường. Việc chuyển đổi từ hệ thống cũ sang hệ thống mới cũng được thực hiện trong tối cùng ngày để chuẩn bị cho phiên thử nghiệm tiếp theo vào Chủ Nhật (04/7).
+
+Tối Chủ Nhật là lần chuyển đổi cuối cùng, đảm bảo hệ thống đạt trạng thái sẵn sàng 100% cho ngày vận hành chính thức (05/7).
+
+Như ông chia sẻ, các khâu chuẩn bị đã sẵn sàng và nhà đầu tư có thể kỳ vọng tình trạng nghẽn lệnh được xử lý dứt điểm. Tuy nhiên, với bất kỳ hệ thống công nghệ thông tin nào, đặc biệt lại là hệ thống giao dịch chứng khoán, thì không thể khẳng định chắc chắn là không có rủi ro phát sinh. Ông có thể cho biết rủi ro mà các bên liên quan cần lưu ý để đảm bảo hệ thống hoạt động tốt nhất là gì?
+
+Đúng vậy! Chúng ta không thể khẳng định là không có rủi ro. Tuy nhiên, chúng tôi, HOSE và các bên liên quan đã nghiên cứu rất kỹ để lên các kịch bản phòng ngừa, cũng như lên giải pháp xử lý nếu phát sinh rủi ro.
+
+
+
+Theo đó, để lên các kịch bản phòng ngừa, các bên liên quan đã liệt kê rất nhiều tình huống, rủi ro có thể xảy ra và phân loại chúng thành 3 nhóm gồm: hạ tầng, hệ thống, con người. Khả năng xảy ra rủi ro cũng được chia làm 4 cấp độ từ gần như “Không thể”, “Rất thấp”, “Thấp” đến “Vừa” và luôn có phương án hành động, nhân sự chịu trách nhiệm xử lý.
+
+Ví dụ, rủi ro một hoặc nhiều công ty chứng khoán xoá dữ liệu không chính xác khiến hệ thống bị ảnh hưởng, làm chậm hoặc thất bại quá trình chuyển đổi được đánh giá có khả năng xảy ra ở cấp độ “Vừa”.
+
+Trong trường hợp một hoặc nhiều công ty chứng khoán vì lý do nào đó không kết nối được vào hệ thống trong các phiên giao dịch chính thức, chúng tôi cũng đã có phương án khắc phục và nếu trong trường hợp không khắc phục được HOSE sẽ ra quyết định không cho công ty đó giao dịch nữa.
+
+Thậm chí là HOSE và FPT còn lên cả kịch bản nhân sự tham gia dự án cách ly vì Covid-19, nhưng các bên đã thống nhất được phương án giải quyết là dự phòng nhân sự cho hầu hết vị trí, có thêm nhân sự hỗ trợ từ xa còn đảm bảo nhân sự tại địa điểm chuyển đổi không giao tiếp với bên ngoài.
+
+Với những chuẩn bị chu đáo và kỹ càng của ban chuyên án như ông  nói thì giả thiết tình huống đã được đặt lên bàn để có giải pháp phù hợp. Tuy nhiên, vẫn có thể có một giả thiết không ai mong muốn là trong trường hợp hệ thống mới vận hành có sự cố thì giải pháp nào sẽ được triển khai để đảm bảo nhu cầu đầu tư và giao dịch của nhà đầu tư, thưa ông?
+
+Chúng tôi đánh giá rủi ro lớn nhất của ngày chính thức vận hành là chuyển đổi dữ liệu và trục trặc từ các công ty chứng khoán.
+
+Nếu việc chuyển đổi không suôn sẻ, HOSE sẽ thông báo trước để các C công ty chứng khoán quay trở lại phiên bản cũ. Nếu trục trặc cục bộ ở một công ty chứng khoán thì các bên hỗ trợ xử lý ngay. Trong kịch bản rất xấu là không thể khắc phục, HOSE có thể đề xuất và xin chỉ đạo từ các cơ quan quản lý để ra quyết định cắt giao dịch của công ty đó để không ảnh hưởng quá trình chuyển đổi.
+
+Tuy nhiên, những trục trặc này gần như không thể xảy ra bởi chúng tôi đã tiến hành giả lập trong quá trình kiểm thử và khắc phục thành công.
+
+Không ít nhà đầu tư lo ngại việc xây dựng và vận hành hệ thống giao dịch mới trong vòng 100 ngày, trong khi kinh nghiệm của các nước khác cho thấy quá trình này phải tính bằng năm, ảnh hưởng đến tính chính xác và bền vững?
+
+Dù chịu áp lực về thời gian nhưng tính chính xác là ưu tiên hàng đầu khi thực hiện dự án này. Chúng tôi lên kế hoạch những thứ cần làm chi tiết đến từng ngày, chạy đua với thời gian nhưng không đốt cháy giai đoạn.
+
+Kế hoạch 100 ngày vừa qua được chia làm 5 giai đoạn gồm khảo sát, phát triển hệ thống, HOSE kiểm tra tính đúng đắn, kiểm thử diện hẹp tại 24 công ty chứng khoán hàng đầu và mở ra kiểm thử diện rộng tại 73 thành viên toàn thị trường.
+
+Quá trình kiểm thử diễn ra liên tục và lặp đi lặp lại trong ba tuần cuối tháng 6, tức chiếm khoảng ¼ thời gian dự án, cho thấy sự cẩn trọng của các bên liên quan. Thực tế cho thấy không có vấn đề nghiêm trọng phát sinh. Tất cả CTCK đều kết nối và vận hành thử nghiệm thông suốt. Hiệu năng hệ thống cũng cải thiện, các lỗ hổng bảo mật được xử lý triệt để nên nhà đầu tư có thể an tâm.
+
+Xin cảm ơn ông!

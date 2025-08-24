@@ -1,0 +1,31 @@
+Bộ Công an cho biết hiện nay, trong hệ thống pháp luật Việt Nam chỉ có 1 văn bản là Nghị định số 13/2023/NĐ-CP ngày 17/4/2024 của Chính phủ về bảo vệ dữ liệu cá nhân đưa ra định nghĩa về dữ liệu cá nhân và bảo vệ dữ liệu cá nhân, chưa có văn bản Luật nào quy định về vấn đề này.
+
+Tuy nhiên, đây mới là văn bản nghị định, chưa phải văn bản Luật nên cần thống nhất thực hiện trong thực tiễn, cần có văn bản Luật làm "luật gốc", mang tính nguyên tắc, góp phần tiếp tục thể chế hóa quy định của Hiến pháp để các quy phạm khác tuân thủ, phát triển.
+
+Tại dự thảo, Bộ Công an đề xuất định nghĩa dữ liệu cá nhân là thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự trên môi trường điện tử gắn liền với một con người cụ thể hoặc giúp xác định một con người cụ thể, bao gồm: dữ liệu cá nhân cơ bản và dữ liệu cá nhân nhạy cảm.
+
+Dữ liệu cá nhân cơ bản là thông tin cơ bản của công dân hoặc các thông tin khác không phải dữ liệu cá nhân nhạy cảm, gắn liền với danh tính của công dân, gồm 11 trường thông tin sau:
+
+- a) Họ, chữ đệm và tên khai sinh, bí danh (nếu có); b) Ngày, tháng, năm sinh; ngày, tháng, năm chết hoặc mất tích; c) Giới tính; d) Nơi sinh, nơi đăng ký khai sinh, nơi thường trú, nơi tạm trú, nơi ở hiện tại, quê quán, địa chỉ liên hệ; đ) Quốc tịch; e) Hình ảnh của cá nhân; g) Số điện thoại, số chứng minh nhân dân, số định danh cá nhân, số hộ chiếu, số căn cước công dân, số giấy phép lái xe, số biển số xe, số mã số thuế cá nhân, số bảo hiểm xã hội, số thẻ bảo hiểm y tế; h) Tình trạng hôn nhân;
+
+- i) Thông tin về mối quan hệ gia đình (cha mẹ, con cái); k) Thông tin về tài khoản số của cá nhân; dữ liệu cá nhân phản ánh hoạt động, lịch sử hoạt động trên không gian mạng. l) Các thông tin khác gắn liền với danh tính của công dân không thuộc quy định tại 4 Điều này.
+
+Dữ liệu cá nhân nhạy cảm là thông tin khi bị xâm phạm sẽ gây ảnh hưởng trực tiếp tới quyền và lợi ích hợp pháp của tổ chức, cá nhân, gắn liền với quyền riêng tư của cá nhân, gồm 11 trường thông tin:
+
+-a)Quan điểm chính trị, quan điểm tôn giáo; b) Tình trạng sức khỏe và đời tư được ghi trong hồ sơ bệnh án, không bao gồm thông tin về nhóm máu; c) Thông tin liên quan đến nguồn gốc chủng tộc, thông tin liên quan đến nguồn gốc dân tộc, d) Thông tin về đặc điểm di truyền được thừa hưởng hoặc có được của cá nhân; đ) Thông tin về thuộc tính vật lý, đặc điểm sinh học riêng của cá nhân; e) Thông tin về đời sống tình dục, xu hướng tình dục của cá nhân; g) Dữ liệu về tội phạm, hành vi phạm tội được thu thập, lưu trữ bởi các cơ quan thực thi pháp luật;
+
+- h) Thông tin khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán, các tổ chức được phép khác, gồm: thông tin định danh khách hàng theo quy định của pháp luật, thông tin về tài khoản, thông tin về tiền gửi, thông tin về tài sản gửi, thông tin về giao dịch, thông tin về tổ chức, cá nhân là bên bảo đảm tại tổ chức tín dụng, chi nhánh ngân hàng, tổ chức cung ứng dịch vụ trung gian thanh toán; i) Thông tin về người sử dụng đất, dữ liệu đất đai có chứa thông tin về người sử dụng đất; k) Dữ liệu về vị trí của cá nhân được xác định qua dịch vụ định vị; l) Dữ liệu cá nhân khác được pháp luật quy định là đặc thù và cần có biện pháp bảo mật cần thiết.
+
+Dự thảo Luật nêu rõ, dữ liệu cá nhân không được mua, bán dưới mọi hình thức. Dữ liệu cá nhân được áp dụng các biện pháp bảo vệ, bảo mật trong quá trình xử lý, bao gồm cả việc bảo vệ trước các hành vi phạm quy định về bảo vệ dữ liệu cá nhân và phòng, chống sự mất mát, phá hủy hoặc thiệt hại do sự cố, sử dụng các biện pháp kỹ thuật.
+
+Dữ liệu cá nhân được xử lý công khai, minh bạch. Chủ thể dữ liệu được biết về hoạt động liên quan tới xử lý dữ liệu cá nhân của mình, trừ trường hợp luật có quy định khác.
+
+Theo Bộ Công an, qua thực tiễn triển khai công tác bảo vệ dữ liệu cá nhân cho thấy, hiện có nhiều tổ chức, doanh nghiệp thu thập thừa dữ liệu cá nhân so với ngành nghề, sản phẩm, dịch vụ kinh doanh, thiếu cơ sở pháp lý khi thu thập dữ liệu cá nhân theo quy định của pháp luật, không xác định được các luồng xử lý dữ liệu (dữ liệu cá nhân được sử dụng như thế nào, vào mục đích gì, chuyển giao cho ai, tác động thế nào).
+
+Nhiều hoạt động chưa lấy sự đồng ý của chủ thể dữ liệu (thu thập, xử lý dữ liệu cá nhân mà chưa có sự đồng ý của chủ thể dữ liệu), không thể lấy ý kiến về sự đồng ý đối với những dữ liệu cá nhân đã thu thập, thậm chí khi liên hệ lại chủ thể dữ liệu để lấy sự đồng ý thì chủ thể dữ liệu từ chối vì không biết tại sao các công ty này lại có dữ liệu của mình.
+
+Do đó, dự thảo Luật quy định các quyền và nghĩa vụ của chủ thể dữ liệu.
+
+Cụ thể, chủ thể dữ liệu có quyền được biết, quyền đồng ý, quyền truy cập, quyền rút lại sự đồng ý, quyền xóa dữ liệu, quyền hạn chế xử lý dữ liệu, quyền cung cấp dữ liệu, quyền phản đối xử lý dữ liệu, quyền khiếu nại, tố cáo, quyền yêu cầu bồi thường thiệt hại theo quy định của pháp luật khi xảy ra vi phạm quy định về bảo vệ dữ liệu cá nhân của mình, trừ trường hợp các bên có thỏa thuận khác hoặc luật có quy định khác, quyền tự bảo vệ.
+
+Bên cạnh các quyền trên, chủ thể dữ liệu có các nghĩa vụ là có trách nhiệm tự bảo vệ dữ liệu cá nhân của mình, yêu cầu các tổ chức, cá nhân khác có liên quan bảo vệ dữ liệu cá nhân của mình; tôn trọng, bảo vệ dữ liệu cá nhân của người khác; cung cấp đầy đủ, chính xác dữ liệu cá nhân khi đồng ý cho phép xử lý dữ liệu cá nhân; tham gia tuyên truyền, phổ biến kỹ năng bảo vệ dữ liệu cá nhân; chấp hành pháp luật về bảo vệ dữ liệu cá nhân và tham gia phòng, chống các hành vi vi phạm pháp luật về bảo vệ dữ liệu cá nhân.

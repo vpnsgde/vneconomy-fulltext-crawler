@@ -1,0 +1,23 @@
+Các nhà phân tích và lãnh đạo từ các doanh nghiệp công nghệ cho biết sự thúc đẩy chi tiêu cho trí tuệ nhân tạo (AI) đang dần dịu đi. Mặc dù vậy, khi các công ty bắt đầu “đốt tiền” cho AI, Microsoft là cái tên sẽ nhận về nhiều tiền nhất.
+
+Dan Ives, Giám đốc điều hành và nhà phân tích cấp cao tại Công ty đầu tư Wedbush Securities, cho biết ông ước tính khoảng 70% chi tiêu cho phần mềm trí tuệ nhân tạo trong 12 tháng qua gắn liền với hệ sinh thái Microsoft.
+
+Điều đó một phần nhờ vào công cụ Copilot của công ty có thể được tích hợp với bộ sản phẩm hiện có, đồng thời sự thu hút còn đến từ mối quan hệ của họ với OpenAI khi sở hữu mô hình GPT chạy trên cơ sở hạ tầng đám mây Azure của Microsoft.
+
+Doanh thu từ hoạt động kinh doanh trên nền tảng đám mây Azure đã tăng 29% trong quý 2/2024. Công ty mẹ của Google là Alphabet tuần trước đã báo cáo mức tăng trưởng doanh thu trong quý 2 chậm hơn so với dự đoán của các nhà đầu tư.
+
+Jason Ader, Trưởng bộ phận công nghệ, truyền thông và truyền thông tại công ty dịch vụ tài chính William Blair, cho biết chi tiêu của doanh nghiệp cho AI đã bớt “điên cuồng” so với thời điểm hơn một năm về trước. Theo công ty nghiên cứu thị trường International Data Corp, các tổ chức dự kiến sẽ chi 38,8 tỷ USD cho AI sáng tạo vào năm 2024, tăng từ mức 19,4 tỷ USD vào năm 2023.
+
+Chad Simpson, Giám đốc thông tin của City Furniture có trụ sở tại Florida, cho biết: “Vào thời điểm gần 2 năm trước, mọi người đều cảm thấy bị thôi thúc phải tham gia vào cuộc chơi này”.
+
+Ông Ader từ William Blair cho biết dựa trên nghiên cứu tài chính của mình, Copilot dành cho bộ Microsoft 365 dường như là công cụ phổ biến nhất dành cho các công ty muốn thử nghiệm AI. Ông nói: Điều đó một phần là do bộ 365 của Microsoft được sử dụng rất rộng rãi và việc kết nối Copilot là điểm khởi đầu tự nhiên đối với nhiều tổ chức.
+
+Nhiều CIO cho biết họ cũng đang sử dụng trợ lý mã hóa GitHub Copilot của Microsoft, công cụ đã được phát triển trong vài năm qua. Đối với các công ty chọn xây dựng ứng dụng nội bộ, mô hình GPT của OpenAI chạy trên Azure của Microsoft là một lựa chọn phổ biến khác.
+
+Simpson của City Furniture cho biết công ty của ông đang sử dụng Microsoft GitHub Copilot, ứng dụng này được triển khai cho khoảng 80 kỹ sư và cộng tác viên công nghệ tại công ty. Họ cũng đang dùng thử Copilot cho Microsoft 365, dành cho khoảng 5% lực lượng lao động.
+
+Tuy nhiên, Simpson cho biết anh ấy không hoàn toàn tin tưởng vào Copilot cho Microsoft 365. Những người có quyền truy cập không sử dụng nó hàng ngày hoặc tích hợp đầy đủ nó vào quy trình làm việc của họ, đồng thời không chắc chắn về giá trị mà Copilot dành cho Microsoft 365 mang lại với mức giá 30 USD cho một người dùng.
+
+Ngân sách hoạt động công nghệ thông tin của thương hiệu quần áo bảo hộ lao động Carhartt trong năm tài chính hầu hết không thay đổi, nhưng CIO Katrina Agusti cho biết cô đang đảm bảo một số quỹ sẽ dành cho AI sáng tạo, khoảng dưới 10% trong tổng ngân sách công nghệ thông tin. Phần lớn số tiền đó được chi cho Microsoft và bao gồm một nhóm dùng thử Copilot dành cho Microsoft 365.
+
+Và tại Radisson Hotel Group, CIO toàn cầu Jaime González-Peralta, cho biết chi tiêu cho AI tổng hợp và các công nghệ mới nổi được xếp là ưu tiên thứ ba của ông, sau hỗ trợ tăng trưởng kinh doanh và an ninh mạng. Ông nói: Số tiền mà công ty đang chi cho AI sáng tạo sẽ được chuyển cho cả EY và Microsoft.

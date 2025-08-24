@@ -1,0 +1,29 @@
+Theo hãng tin The Information, những con chip mới được cho là sẽ thay thế các bộ xử lý (GPU) đắt tiền của Nvidia. Nhất là trong bối cảnh, Trung Quốc ngày càng chịu kiểm soát xuất khẩu gay gắt của Mỹ.
+
+Hai dòng GPU AI của ByteDance bao gồm một GPU để đào tạo AI và một GPU khác để suy luận AI, hiện đang trong giai đoạn thiết kế và sẽ đi vào sản xuất hàng loạt trong một năm nữa, một số nguồn tin khác cho biết có thể sẽ muộn hơn.
+
+ByteDance đang đạt được những bước tiến trong phát triển phần mềm AI. Chatbot hỗ trợ AI của công ty, Doubao, đã vượt qua Ernie Bot của Baidu về số lượt tải xuống và số người dùng hoạt động hàng tháng trên iOS, đưa ByteDance trở thành một trong những công ty hàng đầu trong ngành AI.
+
+Theo báo cáo, chỉ trong năm nay, ByteDance đã chi hơn 2 tỷ USD cho hơn 200.000 GPU Nvidia H20 cho hoạt động phát triển hệ thống AI của mình và nhiều GPU trong số này vẫn chưa được giao cho công ty. Khoản đầu tư khủng này đã cho thấy tầm quan trọng của AI đối với chiến lược phát triển của ByteDance. Tuy nhiên, tình trạng thiếu hụt GPU Nvidia và mức giá quá cao là một trong những lý do khiến ByteDance quyết định xây dựng phần cứng AI của riêng mình.
+
+Hiện nay, Nvidia đã thiết kế DGX H20 và một số GPU khác dành riêng cho thị trường Trung Quốc để ứng phó với các biện pháp kiểm soát xuất khẩu của Mỹ. Tuy nhiên, mặc dù HGX H20 là GPU có hiệu năng thấp hơn đáng kể so với H100 song vẫn được bán với giá lên tới 10.000 USD, một số nguồn tin cho biết.
+
+Bộ xử lý từ một thiết bị di động Huawei gần đây cho thấy công nghệ bán dẫn của Trung Quốc chỉ còn chậm hơn 3 năm so với năng lực công ty đang dẫn đầu ngành – Taiwan Semiconductor Manufacturing Company (TSMC)...
+
+Ví dụ, trong khi HGX H20 của Nvidia chỉ cung cấp hiệu suất 296 INT8/FP8 TOPS/TFLOPS và 148 BF16/FP16 TFLOPS cho các phép tính AI, thì H100 hoàn chỉnh cung cấp hiệu suất 3.958 INT8/FP8 TOPS/TFLOPS cũng như hiệu suất 1.979 BF16/FP16 TFLOPS cho AI.
+
+Tuy nhiên, với bộ nhớ HBM3 96 GB tích hợp, băng thông bộ nhớ lên tới 4,0 TB/giây và khả năng GPU 8 chiều, HGX H20 của Nvidia vẫn được các công ty Trung Quốc săn đón, đánh bại các đối thủ cạnh tranh như Huawei.
+
+Mặc dù ByteDance khó có thể sản xuất GPU nhanh hơn so với HGX H20 của Nvidia do các quy định kiểm soát xuất khẩu của Hoa Kỳ (vì TSMC sẽ không thể vận chuyển các GPU như vậy cho ByteDance), nhưng kế hoạch mới này sẽ giúp công ty càng làm chủ công nghệ và tiết kiệm đáng kể chi phí.
+
+Cũng cần lưu ý hiện tại ByteDance đang dựa vào kiến trúc tính toán CUDA của Nvidia để đào tạo và suy luận AI. Vì vậy, công ty sẽ cần phát triển nền tảng phần mềm và đảm bảo ngăn xếp phần mềm hoàn toàn tương thích với phần cứng.
+
+Mặc dù nhiều công ty Trung Quốc đã phát triển GPU AI để giảm sự phụ thuộc vào Nvidia, nhưng những con chip chỉ được sử dụng cho một số công việc nhất định, trong khi vẫn phải tiếp tục dựa vào GPU của Nvidia cho những khối lượng công việc khác.
+
+Nvidia dự kiến ​​sẽ xuất xưởng hơn một triệu đơn vị HGX H20 cho khách hàng Trung Quốc trong năm nay, gần gấp đôi doanh số dự kiến ​​của Huawei là 550.000 GPU AI Ascend 910B vào năm 2024. GPU H20 của Nvidia có thể tạo ra doanh thu hơn 12 tỷ USD, vượt qua tổng doanh thu của công ty tại Trung Quốc trong năm trước, bao gồm cả doanh số bán các loại phần cứng khác, chẳng hạn như GPU dành cho game thủ.
+
+ByteDance không phải là công ty Trung Quốc duy nhất hướng tới tự cung tự sản xuất phần cứng AI. Baidu cũng đã thiết kế chip AI riêng, Kunlun 3, dự kiến ​​sẽ sớm được đưa vào sản xuất tại TSMC.
+
+Khi Hoa Kỳ tiếp tục thắt chặt kiểm soát xuất khẩu đối với các công nghệ quan trọng, các gã khổng lồ công nghệ của Trung Quốc ngày càng tập trung vào việc phát triển các giải pháp thay thế trong nước để duy trì những tiến bộ về AI.
+
+Cuộc cạnh tranh này không chỉ đánh dấu sự thay đổi trong bối cảnh AI toàn cầu mà còn cho thấy nỗ lực của Trung Quốc trong mục tiêu trở thành quốc gia dẫn đầu về đổi mới AI.

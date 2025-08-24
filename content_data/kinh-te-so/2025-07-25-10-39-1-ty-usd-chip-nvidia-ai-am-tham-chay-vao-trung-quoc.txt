@@ -1,0 +1,19 @@
+Bất chấp các lệnh hạn chế xuất khẩu của Mỹ, hàng loạt chip trí tuệ nhân tạo (AI) tiên tiến trị giá ít nhất 1 tỷ USD của Nvidia đã được buôn lậu vào Trung Quốc chỉ trong vòng ba tháng qua, theo báo cáo của Financial Times.
+
+Đáng chú ý, bộ xử lý cao cấp B200, sản phẩm bị các nhà chức trách Mỹ cấm Nvidia bán cho Trung Quốc, đang được phân phối rộng rãi trên thị trường chợ đen nước này.
+
+Báo cáo dẫn các hợp đồng giao dịch, hồ sơ doanh nghiệp và nguồn tin thân cận cho biết, các con chip này đã đến tay nhiều bên thứ ba trong ngành trung tâm dữ liệu Trung Quốc.
+
+Nvidia nói với Reuters rằng việc xây dựng trung tâm dữ liệu bằng các sản phẩm không chính ngạch là không khả thi, cả về mặt kỹ thuật lẫn tài chính, bởi công ty chỉ hỗ trợ kỹ thuật và bảo hành cho những sản phẩm được phân phối hợp pháp.
+
+Bộ Thương mại Mỹ và Nhà Trắng chưa đưa ra bình luận về thông tin trên.
+
+Theo nguồn tin, từ tháng 5/2025, các nhà phân phối tại Trung Quốc đã bắt đầu rao bán bộ xử lý B200 cho các nhà cung cấp hạ tầng phục vụ các nhóm phát triển AI trong nước. Các bộ xử lý khác cũng thuộc diện hạn chế như H100 và H200 cũng được cho là đã được bán ra từ các tỉnh Quảng Đông, Chiết Giang và An Huy.
+
+Trong bối cảnh Mỹ - Trung cạnh tranh gay gắt để giành ưu thế trong lĩnh vực AI và công nghệ cao, Nvidia ngày càng rơi vào thế khó khi phải cân bằng hoạt động kinh doanh giữa hai nền kinh tế lớn nhất thế giới.
+
+Tuần trước, công ty cho biết vẫn có thể tiếp tục thương mại với Trung Quốc sau khi một số quy định kiểm soát xuất khẩu áp dụng từ tháng 4 được điều chỉnh, cho phép các dòng chip như H20 được thông quan trở lại.
+
+Tuy nhiên, theo các chuyên gia, Đông Nam Á, đặc biệt là Thái Lan, đã trở thành điểm trung chuyển quan trọng cho các nhóm mua hàng Trung Quốc tìm cách tiếp cận các dòng chip tiên tiến bị hạn chế.
+
+Bộ Thương mại Mỹ được cho là đang xem xét mở rộng kiểm soát xuất khẩu đối với AI sang các nước như Thái Lan ngay từ tháng 9 tới.

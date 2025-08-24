@@ -1,0 +1,13 @@
+Một ứng dụng giúp thu gom và mua bán những vật dụng đã qua sử dụng như chai nhựa, giấy vụn… (dân gian gọi là mua bán ve chai) đang nhận được quan tâm thời gian gần đây, đó là ứng dụng với tên gọi VECA.
+
+Ý tưởng mới mẻ trên được sáng lập bởi 2 co-founder Bùi Thế Bảo và Đỗ Thị Minh Trang. Được biết, ông Bảo sinh năm 1982, tốt nghiệp ngành môi trường tại Đại học Bách Khoa Tp.HCM.
+
+VECA được đặt tên rút tắt từ "ve chai", để nhấn mạnh hướng tiếp cận mọi đối tượng, gồm cả những người thu mua ve chai dạo. Đây là một app kết nối với 2 nền tảng riêng: người cần bán và người thu mua. Trong đó, bên mua sẽ là bên ve chai truyền thống, mua lẻ bán lại cho các vựa hoặc các chủ vựa trực tiếp thu mua.
+
+Điều đặc biệt và là điểm khác so với nhưng ứng dụng gọi xe và giao hàng công nghệ hiện nay đó là mô hình của VECA không thu phí sử dụng nền tảng của bất cứ bên nào, cũng không thu chiết khấu.
+
+Giá thu mua hiển thị trên app cũng do thị trường quy định, không do VECA đặt ra. Để phát triển bền vững, VECA hoạch định doanh thu sẽ có ở giai đoạn 2, khi dòng khối lượng phế liệu đủ lớn, cũng là lúc VECA tiến hành thu mua lại từ các vựa và bán đến các nhà máy lớn.
+
+Hiện tại VECA mới chỉ được áp dụng tại Quận Phú Nhuận, TPHCM. Đến hết năm nay, lộ trình phát triển của app này là phủ rộng toàn thành phố Hồ Chí Minh. Trong năm thứ 2 - 3, sẽ phát triển ra các thành phố lớn trong nước.
+
+Theo 2 nhà sáng lập, họ vẫn đang tìm kiếm nhà đầu tư cho dự án để có thể đẩy nhanh kế hoạch phát triển. Kì vọng của VECA là trở thành một thành phần của hệ sinh thái tái chế tại Việt Nam, kết nối nhiều hơn các tổ chức, nhà máy hay công ty vào câu chuyện tái chế hiệu quả.

@@ -1,0 +1,21 @@
+“Mối đe doạ” mà Apple nhắc đến xuất phát từ phần mềm gián điệp Pegasus khét tiếng, được phát triển bởi công ty vũ khí mạng NSO Group của Israel. Công ty này được cho là đã bán phần mềm gián điệp cho các chính phủ nhằm theo dõi, thu thập dữ liệu cá nhân từ iPhone của các mục tiêu cụ thể như nhà báo, các chính trị gia,...
+
+Đây không phải lần đầu tiên Apple phát hiện và cảnh báo về các cuộc tấn công kiểu này. Năm 2021, hãng từng gửi thông báo đến một số người dùng iPhone bị tấn công bởi các nhóm tội phạm mạng "được nhà nước hậu thuẫn", nhắm vào một nhóm đối tượng rất nhỏ đã được chọn lọc kỹ lưỡng. Điều này khiến việc công ty phát hiện và ngăn chặn trở nên đặc biệt khó khăn.
+
+Được biết, nếu thiết bị bị nhiễm phần mềm độc hại, Apple sẽ gửi thông báo đến người dùng qua iMessage, email và trên tài khoản Apple ID.
+
+Lần này, ​​một trong số những người dùng nhận được cảnh báo là nhà báo người Ý, Ciro Pellegrino. Ông đã nhận được cảnh báo của Apple qua email rằng iPhone của ông có thể đã bị nhiễm Pegasus. Apple cũng tiết lộ rằng thông báo cũng đã được gửi đến người dùng ở 100 quốc gia.
+
+Một trường hợp khác là nhà hoạt động chính trị người Hà Lan, Eva Vlaardingerbroek. Cô đã chia sẻ công khai thông báo Apple gửi cho cô trên nền tảng X (Twitter). Trong đó, Apple nhấn mạnh: "Apple đã phát hiện một cuộc tấn công bằng phần mềm gián điệp nhắm trực tiếp vào iPhone của bạn. Cuộc tấn công này có thể xuất phát từ việc bạn là ai hoặc bạn làm gì. Xin hãy chú ý”.
+
+Apple khuyến cáo người dùng nhận được cảnh báo cần ngay lập tức kích hoạt Chế độ khóa bằng cách vào Cài đặt > Quyền riêng tư & Bảo mật > Chế độ khóa. Đây là cơ chế bảo vệ nâng cao được thiết kế để chống lại những mối đe dọa tinh vi nhất.
+
+Ngoài ra, Apple cũng nhấn mạnh rằng các cuộc tấn công có thể tiếp tục nhắm vào người dùng qua những kênh và thiết bị khác không thuộc hệ sinh thái Apple. Vì vậy, công ty khuyên người dùng:
+
+Thứ nhất,thay đổi mật khẩu cho các tài khoản quan trọng đã từng đăng nhập trên iPhone.
+
+Thứ hai,cập nhật iPhone lên bản iOS mới nhất (18.4.1) tại Cài đặt > Cập nhật phần mềm.
+
+Thứ ba,đảm bảo tất cả thiết bị Apple khác cũng được nâng cấp và bật Chế độ khóa.
+
+Thứ tư,cập nhật các ứng dụng nhắn tin, dịch vụ đám mây lên phiên bản mới nhất.

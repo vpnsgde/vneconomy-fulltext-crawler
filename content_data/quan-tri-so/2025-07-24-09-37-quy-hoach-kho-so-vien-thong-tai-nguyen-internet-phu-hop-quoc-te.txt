@@ -1,0 +1,23 @@
+Bộ Khoa học và Công nghệ đang dự thảo Thông tư quy định về nội dung, trình tự phê duyệt quy hoạch kho số viễn thông, quy hoạch tài nguyên Internet và thực hiện việc phê duyệt quy hoạch.
+
+Dự thảo Thông tư đề xuất quy định chi tiết khoản 2 Điều 49 Luật Viễn thông về nội dung, trình tự phê duyệt quy hoạch kho số viễn thông, quy hoạch tài nguyên Internet và thực hiện phê duyệt quy hoạch. Theo đó, quy hoạch kho số viễn thông, tài nguyên Internet là quy hoạch kỹ thuật chuyên ngành nhằm sắp xếp, phân bổ không gian hoạt động của các loại tài nguyên viễn thông gồm kho số viễn thông, tài nguyên Internet.
+
+Theo dự thảo, nội dung quy hoạch kho số viễn thông, tài nguyên Internet bao gồm quy định về cấu trúc, độ dài, tên, tính năng kỹ thuật của mã, số viễn thông, tài nguyên Internet đảm bảo phù hợp với quy hoạch của quốc tế và khả dụng trong mạng viễn thông.
+
+Nội dung quy hoạch kho số viễn thông bao gồm: Quy hoạch cấu trúc số quốc tế và số quốc gia; quy hoạch số quốc gia; quy hoạch mã, số dịch vụ; quy hoạch mã, số định tuyến kỹ thuật; quy hoạch số dịch vụ khẩn cấp, cứu nạn cứu hộ, cứu hoả, cấp cứu, số dùng chung; quy hoạch mã, số phục vụ lợi ích công cộng, quốc phòng, an ninh.
+
+Nội dung quy hoạch tài nguyên Internet bao gồm: Quy hoạch tên miền quốc gia Việt Nam ".vn"; quy hoạch địa chỉ IP; Quy hoạch số hiệu mạng.
+
+Dự thảo nêu rõ, cơ quan lập quy hoạch xây dựng nhiệm vụ lập quy hoạch trên cơ sở đánh giá về điều kiện, nguồn lực, thực trạng phát triển kinh tế - xã hội của đất nước, mục tiêu, các định hướng ưu tiên phát triển ngành.
+
+Nội dung nhiệm vụ lập quy hoạch bao gồm: Căn cứ lập quy hoạch; quan điểm, mục tiêu lập quy hoạch; phạm vi, đối tượng quy hoạch; xác định các nhiệm vụ trọng tâm của quy hoạch; dự thảo nội dung quy hoạch; thời hạn lập quy hoạch, kế hoạch lập quy hoạch và trách nhiệm của các cơ quan liên quan trong việc tổ chức lập quy hoạch; thời kỳ quy hoạch; phương pháp quy hoạch; chi phí lập quy hoạch; nội dung khác (nếu có).
+
+Cơ quan lập quy hoạch xây dựng Phiếu trình nhiệm vụ lập quy hoạch trình Bộ trưởng hoặc Thứ trưởng phụ trách lĩnh vực Bộ Khoa học và Công nghệ thẩm định và phê duyệt nhiệm vụ lập quy hoạch.
+
+Bộ trưởng Bộ Khoa học và Công nghệ thành lập Hội đồng thẩm định quy hoạch kho số viễn thông, tài nguyên Internet.
+
+Thành phần Hội đồng thẩm định quy hoạch bao gồm Chủ tịch Hội đồng và các thành viên. Chủ tịch Hội đồng thẩm định quy hoạch là Bộ trưởng hoặc Thứ trưởng phụ trách lĩnh vực. Thành viên của Hội đồng thẩm định bao gồm đại diện các Vụ, Cục, đơn vị thuộc Bộ, Sở Khoa học và Công nghệ và doanh nghiệp viễn thông liên quan (nếu có). Cơ quan thường trực Hội đồng thẩm định quy hoạch do chủ tịch Hội đồng thẩm định quyết định.
+
+Hội đồng thẩm định quy hoạch chịu trách nhiệm thẩm định nội dung quy hoạch theo nhiệm vụ được giao. Trong trường hợp cần thiết, cơ quan thường trực Hội đồng thẩm định tổ chức lấy ý kiến chuyên gia, tổ chức xã hội - nghề nghiệp và tổ chức khác có liên quan trước khi trình Hội đồng thẩm định quy hoạch. Hội đồng thẩm định quy hoạch tự giải tán sau khi hoàn thành nhiệm vụ.
+
+Hiện nay, Bộ Khoa học và Công nghệ đang lấy ý kiến dự thảo này trên Cổng thông tin điện tử.

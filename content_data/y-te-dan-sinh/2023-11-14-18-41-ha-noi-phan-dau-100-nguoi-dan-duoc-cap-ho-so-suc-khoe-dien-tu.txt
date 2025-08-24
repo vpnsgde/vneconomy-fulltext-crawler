@@ -1,0 +1,29 @@
+Đây là một trong những nội dung được nêu tại Kế hoạch triển khai thí điểm lập Hồ sơ sức khoẻ điện tử, Sổ sức khoẻ điện tử trên địa bàn TP. Hà Nội do Ủy ban nhân dân TP. Hà Nội ban hành.
+
+Việc ban hành kế hoạch với mục tiêu ứng dụng công nghệ thông tin, chuyển đổi số nhằm kết nối các thông tin, dữ liệu điện tử hình thành trong quá trình khám, chữa bệnh của người dân tại các cơ sở y tế nhà nước và tư nhân thành Hồ sơ sức khỏe điện tử, Sổ sức khỏe điện phục vụ công tác quản lý chuyên ngành Y tế được đầy đủ, chính xác, kịp thời.
+
+Trên cơ sở khai thác, sử dụng các tiện ích từ Hồ sơ sức khỏe điện tử, Sổ sức khỏe điện giúp người dân có thể theo dõi, quản lý thông tin sức khỏe của bản thân liên tục, suốt đời; chủ động trong việc phòng bệnh, chăm sóc sức khỏe bản thân, giảm các chi phí khám, chữa bệnh tại các cơ sở y tế trên địa bàn thành phố.
+
+Kế hoạch đặt mục tiêu 100% người dân sống, làm việc ổn định trên địa bàn TP. Hà Nội được cấp hồ sơ sức khỏe điện tử cá nhân, qua đó hình thành Cơ sở dữ liệu Hồ sơ sức khỏe điện tử TP. Hà Nội.
+
+Cùng với đó, 100% các thông tin sức khỏe y tế của người dân trên địa bàn thành phố được theo dõi, quản lý thông qua dữ liệu số; được chia sẻ, kết nối với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành phục vụ nhu cầu giải quyết công việc, thủ tục hành chính của người dân, doanh nghiệp và các cơ quan, đơn vị trên địa bàn thành phố. Đồng thời, kết nối, hiển thị thông tin sức khỏe người dân trên ứng dụng VneID.
+
+Các trường thông tin, dữ liệu để tạo lập Hồ sơ sức khỏe điện tử, Sổ sức khỏe điện tử (hiển thị trên các ứng dụng phục vụ người dân) cần đảm bảo tuân thủ theo hướng dẫn và quy định của ngành Y tế.
+
+Ủy ban nhân dân TP. Hà Nội lưu ý, việc xây dựng và triển khai thử nghiệm phần mềm quản lý Hồ sơ sức khỏe điện tử trên địa bàn thành phố cần đảm bảo đáp ứng các yêu cầu về nghiệp vụ chuyên môn trong công tác quản lý sức khỏe. Các chức năng, tính năng kỹ thuật phù hợp với hướng dẫn của Bộ Y tế; đảm bảo việc chia sẻ thông tin, dữ liệu và các quy định về an toàn thông tin.
+
+Đặc biệt là việc kết nối, chia sẻ và hiển thị thông tin sức khỏe người dân trên ứng dụng VneID theo hướng dẫn của Bộ Công an. Đảm bảo tuyệt đối an toàn, an ninh thông tin trong quá trình lưu trữ, khai thác dữ liệu Hồ sơ sức khỏe điện tử, Sổ sức khỏe điện tử của người dân; không để thất thoát, lộ lọt và sử dụng dữ liệu vào mục đích bất hợp pháp.
+
+Theo kế hoạch, thành phố sẽ thực hiện lộ trình thí điểm qua 3 giai đoạn.
+
+Trong đó,giai đoạn 1sẽ tập trung vào các nhiệm vụ như: Xây dựng và từng bước hoàn thiện phần mềm phục vụ theo yêu cầu nghiệp vụ, chuyên môn, quản lý của Sở Y tế; tập huấn, hướng dẫn sử dụng và cấp tài khoản, phân quyền cho 30 Trung tâm y tế quận/huyện/thị xã (54 phòng khám đa khoa quận/huyện/thị xã và 579 trạm y tế xã/phường/thị trấn).
+
+Cấp tài khoản cho các cơ sở khám, chữa bệnh trên địa bàn liên thông dữ liệu khám, chữa bệnh lên phần mềm quản lý Hồ sơ sức khỏe điện tử; tạo lập hồ sơ sức khoẻ người dân từ cơ sở dữ liệu đối tượng tham gia bảo hiểm xã hội, bảo hiểm y tế; dữ liệu dân cư của người dân trên địa bàn và chuẩn hoá thông tin. Thời gian hoàn thành giai đoạn 1 trước ngày 31/12/2023.
+
+Giai đoạn 2sẽ tập trung vào các hoạt động: Cập nhật kết quả khám, chữa bệnh người dân trên địa bàn lên kho dữ liệu Hồ sơ sức khỏe điện tử của thành phố; cập nhật dữ liệu tiêm chủng của người dân lên phần mềm quản lý Hồ sơ sức khỏe điện tử; kết nối dữ liệu Hồ sơ sức khỏe điện tử của TP. Hà Nội với Cơ sở dữ liệu quốc gia về dân cư để làm sạch, xác minh thông tin.
+
+Cùng với đó, kết nối, chia sẻ thông tin sức khỏe của người dân trên địa bàn lên ứng dụng VneID của Bộ Công an; kết nối dữ liệu Hồ sơ sức khỏe điện tử của thành phố với Cơ sở dữ liệu quốc gia về đối tượng tham gia bảo hiểm y tế của Bảo hiểm xã hội Việt Nam; rà soát, làm sạch dữ liệu người dân…Thời gian hoàn thành giai đoạn 2 trước ngày 31/3/2024.
+
+Giai đoạn 3,thành phố sẽ phối hợp với Công an địa bàn, các tổ chức đoàn thể thường xuyên rà soát thông tin hành chính của người dân biến động lên hệ thống; tiếp tục cập nhật lên hệ thống kết quả khám sức khoẻ của người dân.
+
+Đồng thời, tổ chức kiểm tra, giám sát tiến độ, đánh giá kết quả triển khai áp dụng Hệ thống để đưa vào tiêu chí đánh giá. Thời gian thực hiện giai đoạn 3 từ ngày 1/4/2024.

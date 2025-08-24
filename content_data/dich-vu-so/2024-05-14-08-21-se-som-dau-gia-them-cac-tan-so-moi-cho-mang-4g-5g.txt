@@ -1,0 +1,31 @@
+Tại họp báo thường kỳ tháng 5 của Bộ Thông tin và Truyền thông chiều ngày 14/5, ông Lê Văn Tuấn, Cục trưởng Cục Tần số Vô tuyến điện đã thông tin về thời gian đấu giá lại khối băng tần C3 (3.800-3.900 MHz) đã triển khai đấu giá hồi tháng 3/2024 nhưng chưa thành công.
+
+Theo đó, để tiến hành đấu giá lại khối băng tần C3, Bộ Thông tin và Truyền thông đã tổ chức các bước và hiện đã hoàn thiện khung cơ sở, tức giá khởi điểm cho khối băng tần này. Bộ đang triển khai những bước tiếp theo để trình đấu giá theo đúng trình tự, thủ tục đấu giá tần số, sớm thực hiện đấu giá sớm nhất khối băng tần này.
+
+Trước đó, Bộ Thông tin và Truyền thông đã đấu giá thành công khối băng tần B1 (2.500-2.600 MHz) và C2 (3.700-3.800 MHz). Viettel trúng đấu giá băng tần B1 với giá hơn 7.500 tỷ đồng, trong khi VNPT trúng đấu giá băng tần C2 với giá hơn 2.500 tỷ đồng. Với khối băng tần C3, do chỉ có một doanh nghiệp tham gia nên không đủ điều kiện đấu giá.
+
+Đối với băng tần 700 MHz, về lý thuyết, để đảm bảo hiệu quả, 4G cần cả 2 loại băng tần: Băng tần dùng nâng cao tốc độ truy nhập (băng tần cao) và băng tần nâng cao chất lượng vùng phủ sóng (băng tần thấp). Với 5G, cũng có những băng tần thiên về băng thông lớn và băng tần thiên về vùng phủ.
+
+Hiện các nhà mạng chủ yếu sử dụng các băng tần 1.800 MHz, 2.100 MHz cho 4G. Đây là các băng tần thiên về nâng cao tốc độ truy nhập. Các nhà mạng hiện chưa có băng tần thấp để triển khai 4G. Nhà mạng cũng cần băng tần thấp để tối ưu vùng phủ khi triển khai 5G SA (Stand-alone).
+
+Cục Tần số Vô tuyến điện cho rằng các nhà mạng cần băng thấp để giúp cân bằng lại vùng phủ giữa vùng lên vùng xuống. Chính vì vậy, Bộ Thông tin và Truyền thông thống nhất sẽ triển khai đấu giá băng tần 700 MHz trong thời gian sớm nhất, dự kiến trong năm 2024.
+
+Theo chuyên gia tần số, nhà mạng có thể sử dụng băng tần thấp được cấp như băng tần 900 MHz để dùng cho 4G. Thực tế, do chiến lược đầu tư hạ tầng của mỗi doanh nghiệp khác nhau, có doanh nghiệp sử dụng một phần băng tần này cho 4G, có doanh nghiệp dùng hoàn toàn cho công nghệ khác.
+
+Việc có thêm băng tần thấp như băng tần 700 MHz sẽ giúp một số doanh nghiệp vừa cải thiện chất lượng phủ sóng, đặc biệt là phủ sóng trong nhà, vừa giúp tăng thêm tốc độ truy nhập của 4G.
+
+Quy hoạch băng tần 700 MHz cho thông tin di động IMT được đánh giá là đáp ứng kỳ vọng của doanh nghiệp viễn thông và mang lại những tác động tích cực đến xã hội. Doanh nghiệp có định hướng để xây dựng kế hoạch đầu tư trang thiết bị, phát triển hạ tầng; cơ quan quản lý có cơ sở để tiến hành đấu giá và cấp phép sử dụng băng tần 700 MHz;  mang lại nhiều lợi ích hơn cho người dân khi dịch vụ thông tin di động 4G/5G được phát triển, đặc biệt là tại các khu vực nông thôn, miền núi.
+
+Liên quan đến việc thương mại hóa 5G, Cục Viễn thông cho biết đã được Bộ Thông tin và Truyền thông chính thức cấp phép triển khai từ ngày 11/4/2024. Hai nhà mạng là Viettel, VNPT đã nhận giấy phép kinh doanh dịch vụ viễn thông, giấy phép sử dụng băng tần 5G.
+
+Tuy nhiên, việc cấp giấy phép chỉ là một trong các điều kiện thương mại hóa 5G, các nhà mạng phải thực hiện đầu tư hạ tầng mạng viễn thông 5G để có thể chính thức cung cấp dịch vụ 5G trên toàn quốc.
+
+Trong thời gian qua, 2 nhà mạng đã thử nghiệm 5G trên phạm vi rộng tại tỉnh, thành phố trên cả nước. Tuy nhiên, do phục vụ mục đích thử nghiệm nên quy mô mạng 5G đã triển khai không đáng kể. Hiện nay, 02 nhà mạng đang thực hiện các thủ tục đấu thẩu, đầu tư thiết bị để triển khai mạng 5G thương mại.
+
+Tại thời điểm cấp giấy phép, các nhà mạng đã cam kết triển khai mạng viễn thông và chính thức cung cấp dịch vụ viễn thông muộn nhất 01 năm sau khi được cấp giấy phép. Đầu tư 3.000 trạm trạm theo nội dung yêu cầu cam kết sau 2 năm kể từ ngày được cấp phép.
+
+Theo kế hoạch dự kiến, trước mắt các doanh nghiệp sẽ triển khai tại các vị trí trung tâm, thủ phủ các quận huyện thuộc tỉnh, thành phố, sau đó tiếp tục phủ sóng 5G tại các địa bàn còn lại. Ngoài ra, 5G cũng sẽ được tập trung triển khai tại địa các khu công nghiệp, nhà máy thông minh tùy thuộc theo nhu cầu của thị trường về các tính năng đặc biệt của 5G như độ trễ thấp, mật độ cao, …
+
+Liên quan đến quá trình tắt sóng 2G, Bộ Thông tin và Truyền thông, Sở Thông tin và Truyền thông và các doanh nghiệp di động triển khai nhiều biện pháp hỗ trợ thuê bao chuyển đổi, trong đó có triển khai Quy chuẩn kỹ thuật quốc gia về thiết bị đầu cuối thông tin di động mặt đất với máy điện thoại di động; yêu cầu các nhà mạng di động thực hiện ngăn chặn các máy điện thoại không tuân thủ quy định về chứng nhận hợp quy kết nối vào mạng viễn thông công cộng. Việc triển khai giải pháp này bắt đầu thực hiện từ ngày 01/3/2024, qua hơn 2 tháng triển khai, các nhà mạng đã chặn nhập mạng mới 856,873 lượt máy 2G Only không chứng nhận hợp quy.
+
+Hiện nay, theo báo cáo kế hoạch dừng công nghệ của doanh nghiệp đến tháng 9/2024, với các giải pháp chuyển đổi, số thuê bao 2G của doanh nghiệp có thể giảm về 0 hoặc khoảng 5% tổng số thuê bao di động trên toàn mạng.

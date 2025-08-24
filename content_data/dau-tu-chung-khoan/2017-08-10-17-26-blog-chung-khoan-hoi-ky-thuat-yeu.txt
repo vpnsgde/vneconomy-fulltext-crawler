@@ -1,0 +1,28 @@
+Mức độ phục hồi giá sau tổn thương hai phiên trước là nhỏ. Dòng tiền cũng đang yếu đi.
+
+Thị trường ngày 10/8/2017:
+
+Thị trường đã phục hồi như bình thường trong ngày hôm nay. Dòng tiền giảm mạnh so với trung bình và độ hồi của cổ phiếu thì yếu.
+
+Sau các phiên biến động đột ngột thì giá thường có phục hồi. Vấn đề không nằm ở việc giá có tăng hay không mà là mức độ phục hồi được bao nhiêu sau tổn thương hôm qua. Điều này khó xác định chỉ trong một phiên, mà thường kéo dài 2-2,5 phiên. Nếu yếu thì chỉ trong 1-1,5 phiên.
+
+Nếu thị trường thật sự đã có sự thay đổi lớn trong quan điểm về xu hướng, các nhịp tăng kỹ thuật sẽ bị cản trở bởi lượng hàng cắt lỗ mới. Nếu chỉ nhìn từ khía cạnh thị trường bị cảnh hưởng bởi tin đồn thì sẽ khó hiểu vì sao thị trường lại không phục hồi được như cũ, sau khi thông tin đã hết. Cắt giảm rủi ro là điều cần thiết khi thị trường có biến động quá mạnh ngoài dự tính.
+
+Thị trường trong trường hợp tốt là không chịu những tác động xấu từ bên ngoài thì rủi ro điều chỉnh vẫn có khả năng xảy ra. Đơn giản là không có đợt tăng nào kéo dài mãi mà không điều chỉnh. Nếu điều chỉnh chỉ vì cung cầu và dòng tiền thay đổi thì rủi ro sụt giảm sâu sẽ không lớn. Tuy nhiên, chắc chắn là dòng tiền sẽ rụt rè hơn và chậm quay vòng hơn.
+
+Vốn nội hôm nay sụt xuống quanh 3.000 tỷ là sự co hẹp đáng kể. Không thể so sánh với phiên đột biến hơn 5.000 tỷ hôm qua, mà con số hôm nay cũng là thấp hơn nhiều so với bình quân cả tháng trước.
+
+Sau một phiên giao dịch cực lớn thì lượng hàng cần thoát ra cũng đã được giải phóng nhiều. Tuy nhiên, điều đó không có nghĩa là hàng cạn, mà tiền cũng có khả năng cạn. Tổng tiền là một con số tương đối cố định nhưng lượng tiền sẵn sàng giao dịch lại co dãn theo quan điểm về thị trường cũng như mức ngại rủi ro. Vì vậy nếu dòng tiền những ngày tới tiếp tục yếu đi, đặc biệt là yếu khi giá tăng thì có khả năng cao là tiền đã chọn đứng ngoài.
+
+Hôm nay thị trường phái sinh mở cửa, quá sớm để nói gì về thị trường này. Thanh khoản rất thấp và độ sâu không đủ để di chuyển các lô lớn. Đa số các giao dịch chỉ là thử nghiệm hệ thống. Thanh khoản thấp sẽ không thể có các giao dịch arbitrage hay các giao dịch tự động, nên thị trường không hiệu quả.
+
+Lợi thế lớn nhất của Futures là Long/Short hai chiều bất kỳ lúc nào (T 0) và ký quỹ nhỏ. Khái niệm ký quỹ dễ bị hiểu sai, thực ra là đặt cọc. Đây không phải tiền vay, cũng không phải là khi mua thì người mua bỏ ra 10% giá trị còn công ty chứng khoán cho vay 90% còn lại, không có lãi suất gì ở đây cả. Hiểu đơn giản thì khi mua 1 hợp đồng, chỉ phải trả 1/10 giá trị của nó (điểm số x 100k). Muốn chốt thì vào lệnh ngược với vị thế ở cùng loại hợp đồng. Mua bán liên tục trong ngày bất kỳ lúc nào, tiền nổi về tài khoản hôm sau.
+
+Hôm nay thị trường này giao dịch khoảng 36,5 tỷ. Số hợp đồng giao dịch là 367, số OI là 174, như vậy có 193 hợp đồng là daytrading (kỳ hạn tháng 8). Thông thường kỳ hạn ngắn nhất sẽ được tập trung giao dịch lớn nhất vì giảm được rủi ro thanh khoản cũng như dễ dự đoán biến động hơn. Hôm nay dao động của VN30F1708 rất rộng và những người Short sớm kiếm đủ. Không gì hấp dẫn hơn lợi nhuận qua những câu chuyện kể. Futures sẽ sớm thể hiện giá trị và thu hút thêm nhà đầu tư.
+
+Giao dịch:
+
+Short thử 2 hợp đồng với VN30F1708 giá 749.6, cover 746. Nói chung tốc độ nhanh và ổn. Vấn đề còn lại là chờ thanh khoản tốt hơn. Với độ sâu như hôm nay, di chuyển mới tầm 15-20 hợp đồng đã là rất khó.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.
+

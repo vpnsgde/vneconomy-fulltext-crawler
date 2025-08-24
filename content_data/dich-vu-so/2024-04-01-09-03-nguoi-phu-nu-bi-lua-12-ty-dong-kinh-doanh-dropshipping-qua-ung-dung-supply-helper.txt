@@ -1,0 +1,53 @@
+Tuần qua, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) liên tục cảnh báo nhiều hình thức lừa đảo trên không gian mạng, gây nhiều thiệt hại, bức xúc cho người dân.
+
+Ngày 26/3, Cổng thông tin điện tử Công an TP. Hà Nội đã cảnh báo tình trạng lừa đảo khi tham gia mô hình kinh doanh DropShipping. DropShipping là hình thức bán lẻ mà người bán không cần lưu trữ sản phẩm của mình trong kho. Thay vào đó, người bán chỉ cần chuyển các đơn hàng và chi tiết khách hàng mua sản phẩm tới nhà sản xuất hoặc đơn vị cung ứng sản phẩm. Đối tượng lợi dụng mô hình kinh doanh này để dụ dỗ nhiều nạn nhân tham gia, sau đó chiếm đoạt tiền của "người bán hàng".
+
+Mới đây, thêm một nạn nhân bị chiếm đoạt 12 tỷ đồng khi tham gia mô hình kinh doanh DropShipping qua ứng dụng Supply Helper. Cụ thể, chị H (trú tại Hà Nội) cho biết, có quen biết đối tượng giới thiệu bán hàng online và được khoe vừa lãi 80 triệu sau khi bán được 2 chiếc đồng hồ qua ứng dụng có tên Supply Helper.
+
+Thấy lợi nhuận lớn, chị H đã tải ứng dụng này để kinh doanh. Khi khách hàng đặt hàng, chị H phải gửi lệnh thanh toán bằng USD trên ứng dụng và quy đổi thành tiền Việt Nam để chuyển cho các đối tượng. Sau khi khách hàng nhận được tiền, chị H sẽ nhận lại được tiền gốc và 18% tiền lãi.
+
+Theo chia sẻ của chị H, đơn hàng đầu tiên, chị đã nạp 511,28 USD, lãi 61,35 USD. Chị nhận được đầy đủ tiền hàng và lãi. Sau đó, chị tiếp tục đặt 46 đơn hàng, rút được tiền của một số đơn hàng. Khi số tiền nạp mua đơn hàng là 12 tỷ đồng, các đối tượng đã chặn liên lạc với chị H và không cho rút tiền. Lúc này chị H mới biết mình bị lừa và đến cơ quan công an trình báo.
+
+Theo đó, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) khuyến cáo người dân đặc biệt là những người kinh doanh theo hình thức bán hàng online cần tuyệt đối cẩn trọng trên mạng xã hội. Người dân cần xác minh kỹ thông tin khi tham gia mô hình kinh doanh DropShipping và thực hiện giao dịch chuyển tiền; thận trọng khi đứng trước cơ hội nhận được lợi nhuận lớn nhờ vào các ứng dụng kinh doanh trực tuyến. Khi gặp các trường hợp có dấu hiệu lừa đảo, người dân cần liên hệ cơ quan công an để giải quyết kịp thời vụ việc theo quy định.
+
+Nhiều người có thói quen hỏi mật khẩu để truy cập vào các mạng WiFi miễn phí tại các địa điểm công cộng như nhà hàng, quán cà phê. Tuy nhiên, cùng với sự tiện lợi, đây cũng là những nơi ẩn chứa vô số rủi ro có thể ảnh hưởng trực tiếp đến thông tin cá nhân và túi tiền của người dùng.
+
+Mới đây, một người dùng di động đã gặp phải tình huống đáng ngờ khi kết nối vào mạng WiFi miễn phí. Cụ thể, anh Đức Huy (Hai Bà Trưng, TP. Hà Nội) cho hay, khi đang lướt Facebook bằng mạng WiFi ở một quán cà phê trên phố Triệu Việt Vương (Hai Bà Trưng, TP. Hà Nội), anh có ấn vào đường link website của một cơ quan nhà nước.
+
+Tuy nhiên, kết quả là anh Đức Huy bị dẫn đến một website lạ. Trước đó, trình duyệt đã hiện lên cảnh báo: “Trang web này không dùng kết nối bảo mật. Thông tin cá nhân của bạn, chẳng hạn như mật khẩu hoặc số thẻ tín dụng có thể không bảo mật khi kết nối với website này” và anh Đức Huy vẫn lựa chọn “Tiếp tục truy cập website”.
+
+“Ngay sau đó, từ Facebook, tôi được dẫn đến một trang web lạ có đuôi “.live” thay vì cổng thông tin điện tử của cơ quan chức năng. Một thông báo cũng hiện lên cho biết nếu hoàn tất khảo sát, tôi sẽ có thể nhận được chiếc iPhone 14 Pro. Cảm thấy nghi ngờ nên tôi không dám ấn tiếp vào link vì sợ nhiễm mã độc”, anh Đức Huy chia sẻ.
+
+Sau khi tắt đường link và truy cập lại một lần nữa vào website cơ quan nhà nước, thông báo “trúng thưởng” vẫn tiếp tục hiện lên. Tuy nhiên, sau khi ngắt truy cập WiFi free, sử dụng mạng 4G thì mọi thứ trở lại bình thường.
+
+Trước thông tin trên, Cục An toàn thông tin cho biết, về bản chất, mạng quảng cáo sẽ bán cho người khác đặt banner, cửa hàng, quán cafe, khi truy cập thông tin trả về còn có thể là bài đăng về hàng giả, hàng kém chất lượng, thậm chí là lừa đảo do các công ty bán quảng cáo trên WiFi không kiểm soát được nội dung. Vậy nên, những đường link đính kèm hoàn toàn có thể bị cài cắm mã độc.
+
+Do đó, Cục An toàn thông tin khuyến cáo người dùng di động cần luôn cảnh giác khi truy cập các hệ thống WiFi mới, đặc biệt tại địa điểm công cộng như khách sạn, nhà hàng, quán cafe. Bởi khi đó, kết nối của người dùng sẽ phụ thuộc vào cài đặt của cơ sở cung cấp WiFi. Trong trường hợp gặp các thông tin lạ, người dùng nên bỏ qua. Đặc biệt lưu ý, chỉ thực hiện các giao dịch quan trọng trên các mạng tin tưởng như WiFi tại nhà, ở công ty hay mạng 3G/4G từ điện thoại.
+
+Vừa qua, Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (Công an tỉnh Lạng Sơn) cho biết, sau khi tiếp nhận thông tin trình báo của một nạn nhân về việc bị chiếm đoạt tài sản, cơ quan chức năng đã truy vết và tiến hành làm rõ hành vi sử dụng công nghệ cao trên không gian mạng để lừa đảo chiếm đoạt tài sản của đối tượng Nguyễn Quang Linh (sinh năm 2001, trú tại xã Đội Bình, huyện Ứng Hòa, TP. Hà Nội).
+
+Cụ thể, nạn nhân cho biết, khi lái xe vận chuyển hàng hóa lên khu vực cửa khẩu, trong quá trình chờ xuất hàng đã lên mạng Facebook để vay tiền online nhưng sau đó đã bị chiếm đoạt số tiền đặt cọc 150 triệu đồng gửi vào tài khoản đối tượng yêu cầu.
+
+Theo điều tra, đối tượng bắt đầu thực hiện hành vi lừa đảo chiếm đoạt tài sản trên mạng thông qua việc giả danh Bùi Xuân Huấn (một nhân vật nổi tiếng trên mạng) làm dịch vụ cho vay tiền online.
+
+Thông qua các hội, nhóm mua bán tài khoản mạng xã hội, Linh mua các tài khoản Facebook có tên như: "Huấn", "Huấn Hoa Hồng", "Huấn Linh", "Bùi Huấn", "Bùi Xuân Huấn"… Tại đây, đối tượng đăng tải các hình ảnh bảng tính lãi suất, bảng tính tiền phải trả hàng tháng, bản hợp đồng cho vay tiền nhằm mời chào và lấy lòng tin của người vay tiền.
+
+Khi có người hỏi vay tiền trên trang Facebook, Linh yêu cầu cung cấp ảnh căn cước công dân, số điện thoại, số tài khoản ngân hàng và số tiền cần vay để chỉnh sửa hợp đồng vay tiền và chụp ảnh gửi cho khách.
+
+Khi khách hàng đồng ý vay, Linh sẽ yêu cầu chuyển tiền cọc trước (từ 900 nghìn đến 2 triệu đồng) hoặc chuyển số tiền để chứng minh thu nhập từ 3 triệu đồng trở lên tùy vào số tiền muốn vay. Sau đó, Linh tiếp tục yêu cầu nạn nhân đóng thêm các khoản phí khác như: tiền phí xác thực tài khoản, tiền chứng minh khả năng chi trả, mục đích nhằm chiếm đoạt tiền để chi tiêu cá nhân rồi chiếm đoạt và chặn liên lạc.
+
+Trước thông tin trên, Cục An toàn thông tin khuyến cáo người dân nên tìm đến các tổ chức cho vay uy tín như ngân hàng hoặc các công ty tài chính hợp pháp; cảnh giác trước những quảng cáo mang tính lôi kéo.
+
+“Tuyệt đối không cung cấp bất kỳ thông tin cá nhân hoặc tài khoản ngân hàng trên các trang web hoặc ứng dụng không đáng tin cậy; Không thực hiện giao dịch với các đối tượng không rõ danh tính; Tuyệt đối không tải hoặc vay tiền qua các ứng dụng di động không rõ nguồn gốc và hoạt động trái phép; Không truy cập vào các đường link lạ để tránh bị lộ lọt thông tin, danh bạ và hình ảnh cá nhân trong điện thoại hoặc bị các đối tượng xấu lợi dụng để thực hiện các hoạt động vi phạm pháp luật”, Cục An toàn thông tin khuyến cáo.
+
+Hiện nay, tại văn phòng cục thuế, cũng như các chi cục thuế đã tiếp nhận nhiều thông tin phản ánh của người dân về hành vi, thủ đoạn của nhiều đối tượng mạo danh cơ quan thuế, công chức thuế để lừa đảo như: Gọi điện thoại tự xưng là công chức của cục thuế, chi cục thuế đề nghị người nộp thuế cung cấp căn cước công dân, giấy chứng nhận đăng ký doanh nghiệp, giấy phép kinh doanh... đến cơ quan thuế để được gia hạn các loại thuế, làm thủ tục miễn, giảm, hưởng ưu đãi về thuế.
+
+Thủ đoạn chính của các đối tượng là giả mạo cán bộ thuế để gọi điện thoại, nhắn tin, kết bạn Zalo, cung cấp đường link và hướng dẫn người quyết toán thuế, hướng dẫn cài đặt các phần mềm giả mạo ứng dụng của cơ quan thuế, nhằm lấy cắp thông tin cá nhân, thông tin tài khoản ngân hàng với mục đích chiếm đoạt tài sản.
+
+Ngoài ra, đối tượng còn giả mạo là cơ quan chức năng gửi đường link dịch vụ công VNeID giả mạo để người dân truy cập tích hợp với quảng cáo là ‘tích hợp căn cước công dân và mã số thuế’ hoặc hướng dẫn cách điều chỉnh thông tin trên ứng dụng VNeID, sau đó gửi đường link dịch vụ công sửa VNeID giả mạo rồi từ đó chiếm quyền điều khiển điện thoại và lấy hết tiền trong tài khoản ngân hàng… Mục đích của đối tượng lừa đảo chiêu trò trên là đánh cắp thông tin cá nhân, thông tin tài khoản ngân hàng với mục đích chiếm đoạt tài sản.
+
+Để giúp người nộp thuế phòng tránh với vấn nạn lừa đảo trực tuyến, đặc biệt, trong thời điểm quyết toán thuế, Cục An toàn thông tin khuyến cáo, các trường hợp nhận được các tin nhắn, cuộc thoại trên các nền tảng mạng xã hội và cuộc gọi có dấu hiệu lừa đảo, người nộp thuế cần lưu lại các bằng chứng như tin nhắn hoặc ghi âm cuộc gọi, phản ánh tới doanh nghiệp viễn thông quản lý thuê bao để yêu cầu xử lý, đồng thời cung cấp các bằng chứng đã có tới các cơ quan chức năng của Bộ Công an và cơ quan thuế nơi gần nhất đề nghị xử lý hành vi sai phạm của các đối tượng.
+
+Đồng thời, người nộp thuế khi nhận được các tin nhắn, cần kiểm tra kỹ nội dung, không vội vã trả lời hay thực hiện theo nội dung hướng dẫn trong tin nhắn. Đồng thời lưu ý rằng, trang thông tin điện tử chính thức của cơ quan thuế sử dụng giao thức "https" và tên miền quốc gia Việt Nam ".vn".
+
+Nếu gặp phải các trường hợp như trên, cần liên hệ trực tiếp với cơ quan thuế qua kênh chính thức để được hỗ trợ tránh bị đối tượng lừa đảo lợi dụng.

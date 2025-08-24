@@ -1,0 +1,33 @@
+Theo báo cáo của Hiệp hội An ninh mạng quốc gia, năm 2024 có tới 46,15% cơ quan, doanh nghiệp ghi nhận sự cố an ninh mạng, ước tính hơn 659.000 vụ tấn công mạng xảy ra. Tuy nhiên, có tới 52,89% tổ chức tại Việt Nam vẫn chưa trang bị đầy đủ các giải pháp công nghệ để ứng phó với sự cố. 56,16% chưa có đủ nhân sự chuyên trách về an ninh mạng.
+
+Một báo cáo từ Cisco cũng chỉ ra, chỉ 11% doanh nghiệp Việt Nam đạt mức độ trưởng thành trong ứng phó sự cố an ninh mạng, cho thấy nhu cầu cấp thiết về các giải pháp bảo mật toàn diện.
+
+Trước bối cảnh tấn công mạng gia tăng cả về số lượng và chất lượng, trong khi cơ quan tổ chức vẫn loay hoay tìm kiếm giải pháp an ninh mạng đồng bộ, Công ty Cổ phần Công nghệ An ninh mạng Quốc gia Việt Nam (NCS), hiện đang hỗ trợ, giám sát an ninh mạng cho các đơn vị trọng yếu quốc gia và các doanh nghiệp lớn của Việt Nam đã công bố ra mắt Hệ sinh thái Sản phẩm an ninh mạng NCS.
+
+Bộ giải pháp toàn diện ứng dụng trí tuệ nhân tạo (AI), được thiết kế nhằm giúp các cơ quan, doanh nghiệp xây dựng nền tảng bảo mật vững chắc, hiệu quả, tiết kiệm chi phí vận hành và đáp ứng yêu cầu ngày càng cao của môi trường số.
+
+Các sản phẩm trong hệ sinh thái bao gồm: Tường lửa thế hệ mới NCS Next Generation Firewall, Nền tảng tình báo an ninh mạng NCS TI, An ninh mạng điểm cuối NCS EDR, Trung tâm giám sát an ninh mạng NCS SOC bao gồm Giải pháp quản lý, phân tích sự kiện an ninh mạng tập trung NCS SIEM và Nền tảng điều phối, ứng phó sự cố NCS SOAR.
+
+Ông Vũ Ngọc Sơn, Giám đốc Công nghệ, Kiến trúc sư trưởng Hệ sinh thái Sản phẩm an ninh mạng NCS, chia sẻ: “Chúng tôi cập nhật gần 300 kỹ thuật tấn công phổ biến của tin tặc, huấn luyện 12 mô hình AI chuyên biệt, giúp tăng khả năng nhận diện nguy cơ an ninh mạng và giảm bớt vận hành thủ công. Hệ sinh thái sẽ góp phần giúp các tổ chức, doanh nghiệp bảo vệ được thành quả của chuyển đổi số, đổi mới sáng tạo, ứng dụng khoa học công nghệ”.
+
+Theo nhà sản xuất, Tường lửa thế hệ mới của NCS hoạt động trên kiến trúc vi xử lý x86, tăng tốc bằng thuật toán, cho phép kiểm soát đến tầng ứng dụng, giám sát kết nối với băng thông lên đến 300 Gbps tại cửa ngõ hệ thống mạng. Công nghệ phân tích sâu gói tin (DPI), đọc trực tiếp, xử lý và gửi đi mà không cần sao chép nội dung gói tin, hạn chế tối đa sự can thiệp của hệ điều hành.
+
+Nhờ đó có thể xử lý tới hàng chục triệu gói tin trong 1 giây. Các tính năng nổi bật của tường lửa gồm: ngăn chặn truy cập theo bộ quy tắc (rule), giám sát, phát hiện bất thường và chống tấn công (IPS) với hơn 8500 mẫu nhận diện, kiểm soát ứng dụng (Application Control) và ngăn chặn mã độc.
+
+Nền tảng thông tin tình báo NCS TI dùng dữ liệu như một lớp phòng thủ an ninh mạng, chống tấn công từ sớm, từ xa. Dữ liệu được cập nhật, tổng hợp liên tục từ hơn 100 nguồn, chuẩn hoá, làm giàu bởi công cụ AI, kết hợp phân tích chuyên sâu của chuyên gia. Từ đó cho phép tích hợp trực tiếp vào các giải pháp, thiết bị an ninh mạng theo chuẩn quốc tế.
+
+Các dữ liệu đầu ra của NCS TI bao gồm: thông tin về mã độc, các tên miền nguy hiểm, các nhóm tội phạm, kỹ thuật tấn công, lỗ hổng mới… NCS TI cũng hỗ trợ phát hiện lộ lọt dữ liệu, lạm dụng thương hiệu, giúp tổ chức doanh nghiệp chủ động đối phó với các nguy cơ khủng hoảng có thể xảy ra.
+
+Giải pháp phòng chống tấn công điểm cuối NCS EDR được thiết kế theo triết lý “tất cả trong một”. Tích hợp tính năng diệt virus, chống thất thoát dữ liệu (DLP), chống mã hoá dữ liệu, kiểm soát chính sách an ninh, tường lửa cá nhân và điều tra sự cố trên cùng 1 giao diện duy nhất. Giúp khách hàng tiết kiệm chi phí đầu tư, tối ưu nhân lực vận hành hệ thống, bảo vệ mạnh mẽ điểm cuối với chỉ 1 giải pháp duy nhất.
+
+Trung tâm giám sát an ninh mạng NCS SOC với 2 sản phẩm NCS SIEM - Nền tảng quản lý, phân tích sự kiện an ninh mạng tập trung và NCS SOAR - Nền tảng điều phối, ứng phó sự cố.
+
+Trong đó NCS SIEM cho phép quản lý, phân tích sự kiện an ninh mạng, cảnh báo bất thường với hiệu suất xử lý lên tới 540.000 sự kiện mỗi giây (EPS). Cho phép phân tích toàn cảnh 360 độ các tài sản số, ứng dụng trí tuệ nhân tạo AI và hơn 1300 quy tắc (rules) để phát hiện, cảnh báo sự cố an ninh mạng.
+
+Bên cạnh khả năng điều tra dựa trên nhật ký an ninh mạng, NCS SIEM còn gợi ý xu hướng hướng tấn công tiếp theo của tin tặc, giúp quản trị xây dựng phương pháp phòng thủ hiệu quả. NCS SOAR tập trung vào quản lý các sự cố an ninh mạng, tối ưu quy trình điều phối, ứng phó, xử lý, tự động hoá phản ứng với các kịch bản được thiết lập sẵn (playbook).
+
+Ông Vũ Duy Hiền, Tổng Giám đốc Công ty cổ phần Công nghệ an ninh mạng Quốc gia Việt Nam, cho biết các sản phẩm trong Hệ sinh thái được định hướng xây dựng tuân theo các tiêu chuẩn quốc tế và Việt Nam, do các chuyên gia Việt Nam nghiên cứu, sáng tạo và làm chủ.
+
+Đồng thời có sự hợp tác, chuyển giao công nghệ từ các đối tác nước ngoài nhằm rút ngắn thời gian nghiên cứu, ứng dụng công nghệ mới nhất của thế giới.
+
+Hệ sinh thái sản phẩm NCS không chỉ cung cấp giải pháp bảo vệ Make in Việt Nam, mà còn theo đuổi sứ mệnh nâng cao nội lực trong nước, từng bước xây dựng công nghệ an ninh mạng chủ quyền của Việt Nam, góp phần phát triển nền công nghiệp an ninh mạng.

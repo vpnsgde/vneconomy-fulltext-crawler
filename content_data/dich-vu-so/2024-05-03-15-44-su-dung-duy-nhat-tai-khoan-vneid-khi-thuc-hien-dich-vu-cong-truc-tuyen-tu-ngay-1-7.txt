@@ -1,0 +1,25 @@
+Sáng 3/5, tại Trụ sở Chính phủ, Tổ công tác về cải cách thủ tục hành chính của Thủ tướng Chính phủ đã diễn ra phiên họp lần thứ tư hội nghị chuyên đề về giải pháp chuyển đổi sang sử dụng một loại tài khoản duy nhất VNeID trong thực hiện dịch vụ công trực tuyến theo nghị định số 59/2022/NĐ-CP.
+
+Phiên họp có sự tham dự của Phó Thủ tướng Trần Lưu Quang, Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ Trần Văn Sơn, Tổ phó Thường trực Tổ công tác; Thượng tướng Nguyễn Duy Ngọc, Thứ trưởng Bộ Công an, Tổ phó Tổ công tác; các thành viên của Tổ công tác là đại diện lãnh đạo các bộ, ngành Trung ương và lãnh đạo các địa phương: Hà Nội, TP.HCM, Đà Nẵng, Thừa Thiên Huế, Bình Dương, Hà Nam, Nghệ An, Quảng Ninh và Hải Phòng.
+
+Yêu cầu sử dụng duy nhất tài khoản VNeID khi thực hiện dịch vụ công trực tuyến được đưa ra trong bối cảnh hiện nay mỗi người dùng thường có nhiều tài khoản dịch vụ công được cấp bởi các bộ, ngành, địa phương khác nhau, gây ra nhiều bất tiện như khó quản lý thông tin cá nhân, phải nhớ nhiều tài khoản giao dịch và mật khẩu.
+
+VNeID (viết tắt của từ Viet Nam Electronic Identification) là một ứng dụng trên thiết bị di dộng, do Trung tâm dữ liệu quốc gia về dân cư của Bộ Công an phát triển nhằm mục đích thay thế cho giấy tờ truyền thống và cung cấp các tiện ích phục vụ cho công dân số, chính phủ số và xã hội số. Bên cạnh lợi ích thiết thực mang lại cho người dân, VNeID còn giữ vai trò đặc biệt quan trọng đối với công tác quản lý nhà nước; giúp giảm thiểu sự lãng phí và sai sót trong việc sử dụng giấy tờ truyền thống, tiết kiệm chi phí và thời gian cho người dân và nhà nước.
+
+Đơn cử, khi cấp Phiếu lý lịch tư pháp, nếu làm theo phương thức truyền thống, TP. Hà Nội tiếp đón khoảng 900-1.000 người mỗi ngày, tạo áp lực lớn cán bộ làm công tác cấp Phiếu lý lịch tư pháp. Để khắc phục tình trạng này, TP. Hà Nội bắt đầu triển khai thí điểm cấp Phiếu lý lịch tư pháp trên VNeID từ ngày 22/4/2024, theo đó công dân có thể yêu cầu cấp Phiếu lý lịch tư pháp trên ứng dụng VneID mọi lúc, mọi nơi thông qua điện thoại thông minh hoặc máy tính có kết nối internet, thanh toán trực tuyến không cần đến trực tiếp cơ quan có thẩm quyền.
+
+Trong lĩnh vực bảo hiểm, kể từ tháng 10/2023 đến nay, đã có hơn 8 triệu lượt sử dụng tài khoản VNeID để đăng nhập ứng dụng VssID của Bảo hiểm xã hội Việt Nam, giúp người dân có thêm lựa chọn khi có nhu cầu khai thác thông tin, sử dụng thẻ bảo hiểm y tế, thực hiện các dịch vụ công trực tuyến. Ngoài ra, nhiều địa phương triển khai giải pháp chi trả an sinh xã hội thông qua tài khoản VNeID, đặc biệt hữu ích đối với những đối tượng được bảo trợ xã hội, người có công, người cao tuổi ở vùng sâu, vùng xa.
+
+Số liệu của Bộ Công an, cho biết tổng số lượt sử dụng tài khoản định danh điện tử trên các Cổng dịch vụ công đến nay là hơn 29.375.000; lượt đăng nhập trên ứng dụng Etax của Tổng Cục thuế là 2.096.499 lượt, số lượt đăng nhập trên ứng dụng VssID của Bảo hiểm Xã hội Việt Nam là 10.403.048 lượt. Tổng số tiền tiết kiệm được cho nhà nước ước tính 469 tỷ đồng. Bộ Công an cũng đã hoàn thành vượt chỉ tiêu triển khai 12 tiện ích trên VNeID, với hơn 1,5 triệu lượt truy cập, sử dụng các tiện ích VNeID hằng ngày.
+
+Tại phiên họp, đánh giá những lợi ích của VNeID, Phó Thủ tướng Trần Lưu Quang yêu cầu các bộ, ngành, địa phương quyết tâm thực hiện mục tiêu thống nhất sử dụng một tài khoản là VNeID trong thực hiện thủ tục hành chính từ ngày 1/7/2024 để tiết kiệm thời gian, chi phí cho người dân và nhà nước.
+
+Phó Thủ tướng đề nghị các bộ, ngành, địa phương tăng cường công tác thông tin tuyên truyền sinh động, dể hiểu, dễ nhớ trên các phương tiện thông tin đại chúng và các nền tảng mạng xã hội, để người dân hiểu rõ tiện ích cũng như cách thức sử dụng tài khoản VNeID. Các bộ, ngành, địa phương tập trung rà soát, hoàn thiện cơ sở pháp lý, kết nối cơ sở dữ liệu và hạ tầng để bảo đảm việc sử dụng tài khoản VNeID được thông suốt; thiết lập kênh thông tin để trao đổi, phản hồi những khó khăn, vướng mắc nảy sinh.
+
+Phó Thủ tướng Quang cũng chỉ đạo Bộ Thông tin và Truyền thông, các nhà mạng làm sạch dữ liệu thuê bao di động, bảo đảm 100% SIM điện thoại phải có chính chủ; đồng thời nâng cao chất lượng hạ tầng kỹ thuật. Đối với các địa phương, ông Quang đề nghị tập trung đầu tư hạ tầng; tích cực tham khảo, chia sẻ kinh nghiệm, cách làm hay của các địa phương khác, nhất là về đầu tư hạ tầng và thuê dịch vụ công nghệ thông tin.
+
+
+
+Để sử dụng ứng dụng được thuận lợi, hiệu quả, người dân cần tải ứng VNeID trên điện thoại thông minh. Đối với công dân đã có hồ sơ đăng ký tài khoản định danh và xác thực điện tử, đang chờ phê duyệt, cấp tài khoản; công dân làm thủ tục cấp tài khoản định danh và xác thực điện tử gắn với cấp đổi, cấp mới, cấp lại CCCD gắn chip; công dân làm thủ tục cấp tài khoản định danh và xác thực điện tử khi đã có thẻ CCCD gắn chip.
+
+Trong quá trình tải và sử dụng ứng dụng, nếu gặp vấn đề khó khăn, người dân có thể liên hệ công an địa phương nơi gần nhất để được hướng dẫn kích hoạt tài khoản định danh và xác thực điện tử trên ứng dụng VNeID.

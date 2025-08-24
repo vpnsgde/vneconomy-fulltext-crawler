@@ -1,0 +1,27 @@
+Bộ chỉ số HOSE-Index, VNX-Index cùng các chỉ số đầu tư bao gồm VNDiamond, VNFin Lead và VNFIN Select sẽ thực hiện tái cơ cấu danh mục trong thời gian tới.
+
+Trong kỳ này, các chỉ số vốn hóa và chỉ số ngành của bộ chỉ số HOSE-Index, bao gồm chỉ số VN30 và VNFIN Lead sẽ thực hiện đổi rổ với các thay đổi về thành phần. Trong khi đó, chỉ số VNDiamond, VNFIN Select và bộ chỉ số VNX-Index sẽ chỉ cập nhật số liệu và tính toán lại tỷ trọng danh mục.
+
+Dựa trên số liệu chốt ngày 25/6/2025, SSI Research đưa ra dự báo về danh mục các chỉ số như sau:
+
+Đối với chỉ số VN30, DGC có thể được thêm vào chỉ số kỳ này do đã thỏa mãn các điều kiện yêu cầu. BVH có thể bị loại khỏi danh mục chỉ số do không thỏa mãn điều kiện về thanh khoản. Tính đến thời điểm hiện tại, giá trị giao dịch khớp lệnh của BVH ở mức khoảng 26 tỷ đồng, thấp hơn so với ngưỡng yêu cầu 30 tỷ đồng.
+
+VIC và VHM có thể giảm tỷ trọng sau đợt tăng giá gần đây. Kể từ ngày 5/5/2025 (ngày chỉ số có hiệu lực trong đợt rà soát Q2/2025), VIC và VHM đã ghi nhận mức tăng 37% và 28% về giá cổ phiếu và vốn hóa free-float. Theo đó, tỷ trọng của VIC và VHM trong chỉ số VN30 lần lượt tăng lên 10,6% và 7,7%, nâng tổng tỷ trọng của hai cổ phiếu này từ 15,1% lên 18,3% tính đến ngày 24/6/2025.
+
+Giới hạn tỷ trọng vốn hóa theo quy tắc bộ chỉ số HOSE: ngưỡng giới hạn tỷ trọng vốn hóa áp dụng cho một cổ phiếu đơn lẻ là 10%, một nhóm cổ phiếu có liên quan (công ty mẹ và công ty con) là 15%. Do đó, nếu VIC và VHM giảm tỷ trọng trong chỉ số, tỷ trọng các cổ phiếu còn lại có thể tăng lên tương ứng.
+
+Theo báo cáo tài chính kiểm toán năm 2024, Tập đoàn Vingroup nắm giữ 18,82% cổ phần tại VRE, do đó hiện VRE là công ty liên kết của VIC và không còn được tính vào nhóm cổ phiếu liên quan đến Vingroup trong chỉ số VN30.
+
+VPL, BSR: Cổ phiếu vốn hóa lớn có thể thêm vào chỉ số trong tương lai. VPL niêm yết trên HOSE vào ngày 13/5/2025, hiện đã đáp ứng các tiêu chí cơ bản về vốn hóa, tỷ lệ free-float và kết quả kinh doanh. Tuy nhiên, cổ phiếu này chưa đáp ứng được điều kiện thời gian niêm yết tối thiểu (6 tháng) và thanh khoản. Cụ thể, khối lượng và giá trị giao dịch trung bình 12 tháng lần lượt đạt 245.000 cổ phiếu và 22,7 tỷ đồng, thấp hơn mức yêu cầu là 300.000 cổ phiếu và 30 tỷ đồng.
+
+BSR niêm yết trên HOSE vào ngày 17/1/2025. Cổ phiếu này đáp ứng hầu hết các tiêu chí cần thiết, bao gồm quy mô, tỷ lệ free-float, thanh khoản và lợi nhuận. Tuy nhiên, BSR vẫn chưa đáp ứng yêu cầu về thời gian niêm yết tối thiểu, mặc dù đã trải qua 5,5 tháng kể từ ngày giao dịch lần đầu trên sàn HOSE.
+
+Hiện tại có 4 quỹ ETF đang theo dõi chỉ số VN30, bao gồm: DCVFMVN30 ETF, SSIAM VN30 ETF, KIM Growth VN30 ETF, và MAFM VN30 ETF, với tổng tài sản quản lý (AUM) ước tính khoảng 8.910 tỷ đồng (341 triệu USD) tính đến ngày 25/6/2025.
+
+Trong đó, DCVFMVN30 ETF có tổng giá trị tài sản ròng 5,9 nghìn tỷ đồng (225 triệu USD). Từ đầu năm 2025, tổng giá trị tài sản ròng giảm 13%, số lượng chứng chỉ quỹ cũng giảm 20,5% xuống còn 229 triệu đơn vị, do đó NAV/ đơn vị quỹ tăng 9,5%. Số lượng chứng chỉ quỹ giảm cũng phản ánh phần nào tình trạng rút vốn ròng khỏi quỹ, với giá trị lên tới 1,4 nghìn tỷ đồng (~52,7 triệu USD) kể từ đầu năm.
+
+Theo ước tính, các quỹ có thể bán ra 1,8 triệu cổ phiếu VIC, 1,5 triệu cổ phiếu VHM, và 310.000 cổ phiếu BVH và mua vào 2 triệu cổ phiếu DGC. Ngoài ra, quỹ có thể mua vào đáng kể FPT, ACB, TCB và bán ra MWG và VRE.
+
+Với chỉ số VNFIN Lead, SSI Research ước tính LPB có thể bị loại khỏi danh mục. Không có cổ phiếu nào được thêm mới kỳ này.
+
+Quỹ SSIAM VNFIN Lead ETF hiện đang quản lý tổng tài sản (AUM) khoảng 398 tỷ đồng (~15 triệu USD) tại ngày 25/6/2025, ước tính quỹ bán ra khoảng 741.000 cổ phiếu LPB và ngược lại có thể mua vào đáng kể SHB, MBB và bán ra TCB, EIB.

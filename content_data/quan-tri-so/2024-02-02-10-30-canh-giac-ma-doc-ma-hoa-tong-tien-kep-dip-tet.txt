@@ -1,0 +1,15 @@
+Mã độc tống tiền kép là một hình thức tấn công mang tính “khủng bố” với các nạn nhân. Đầu tiên các hệ thống máy tính của nạn nhân sẽ bị trì trệ khi toàn bộ dữ liệu sẽ không thể truy cập do đã bị mã hoá. Nạn nhân buộc phải trả một khoản tiền để “chuộc” lại khoá giải mã dữ liệu (key).
+
+Tiếp đến, hacker có thể bán tiếp các dữ liệu này lên chợ đen, gây ra nguy cơ lộ lọt dữ liệu, trong đó có thể có những dữ liệu nhạy cảm, ảnh hưởng tới hoạt động kinh doanh, sản xuất của doanh nghiệp, hình ảnh thương hiệu hoặc cơ quan tổ chức,…
+
+Gần đây nhất, mã độc tống tiền kép (Double Extortion Ransomware) liên tục xảy ra với các nạn nhân của hình thức tấn công này là Schneider Electric, Cơ quan giao thông công cộng Thành phố Kansas (Mỹ), Thư viện Anh, ESO Solutions (Mỹ)…
+
+Tại Việt Nam, mặc dù chưa chính thức ghi nhận một vụ việc tương tự nào với mã độc tống tiền kép trong thời gian qua. Tuy nhiên, các quản trị hệ thống cần hết sức cảnh giác vì cận Tết luôn là thời điểm ưa thích của các hacker.
+
+Ông Vũ Ngọc Sơn, Giám đốc Công ty Công nghệ An ninh mạng Quốc gia Việt Nam (NCS), cho biết, đây là thời điểm các hệ thống sẽ được “nghỉ” trong 1 thời gian dài. Các quản trị cũng sẽ không túc trực liên tục như ngày thường. Do đó, nếu bị tấn công sẽ khó phát hiện và thời gian xử lý sự cố cũng lâu hơn do không thể huy động lực lượng nhanh như ngày thường.
+
+Theo báo cáo của NCS, trong năm 2023 cũng ghi nhận nhiều vụ việc tấn công mã hoá dữ liệu ransomware gây hậu quả nghiêm trọng. Đã có tới 83.000 máy tính, máy chủ ghi nhận bị tấn công bởi mã độc mã hoá dữ liệu, tăng 8,4% so với năm 2022. Đặc biệt, quý 4/2023 số cuộc tấn công mã hoá dữ liệu tăng mạnh, vượt 23% so với trung bình 3 quý đầu năm. Một số cơ sở trọng yếu cũng ghi nhận bị tấn công mã hoá dữ liệu vào thời gian này. Số lượng biến thể mã độc mã hoá dữ liệu xuất hiện trong năm 2023 là 37.500 mã, tăng 5,7% so với năm 2022.
+
+Cùng là mã độc tống tiền, năm 2023, hệ thống giám sát và cảnh báo virus của Bkav ghi nhận hơn 19.000 máy chủ bị tấn công mã hóa tống tiền từ 130.000 địa chỉ IP độc hại trên toàn thế giới, tăng 35% so với năm 2022.
+
+Máy chủ luôn là đích nhắm của virus mã hóa vì thường chứa dữ liệu quan trọng, nhạy cảm, có giá trị cao. Khi máy chủ bị mã hóa có thể gây ngưng trệ toàn bộ hoạt động của doanh nghiệp trong thời gian dài, tạo ra áp lực lớn, buộc nạn nhân phải trả tiền chuộc, thậm chí với bất kỳ giá nào. Ngoài ra, máy chủ cũng là nơi công khai dịch vụ của doanh nghiệp ra Internet nên hacker dễ tiếp cận người dùng cá nhân hơn.

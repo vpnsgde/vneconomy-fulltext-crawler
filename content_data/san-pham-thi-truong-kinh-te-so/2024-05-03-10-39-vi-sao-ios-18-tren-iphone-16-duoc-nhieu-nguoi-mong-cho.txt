@@ -1,0 +1,29 @@
+Applehiếm khi là công ty đi đầu khi nói đến các công nghệ mới. Chẳng hạn, hiện nay, mặc cho xu hướng thiết kế màn hình gập đang lên ngôi, hãng vẫn chưa có ý định ra mắt bất kỳ dòng điện thoại nào có thiết kế tương tự.
+
+Hay gần một thập kỷ sau khi chiếc tai nghe thực tế hỗn hợp đầu tiên xuất hiện, phải đến năm nay, hãng mới phát hành tai nghe thực tế hỗn hợp của riêng mình. Vì vậy, bản cập nhật iOS 18 lần này cho thấy AI thực sự tác động mạnh mẽ khiến ngay cả Apple cũng không muốn nằm ngoài cuộc đua này.
+
+Không quá lời khi nói rằng AI tạo sinh đã tạo ra một làn sóng mới trong lĩnh vực công nghệ, thúc đẩy các công ty như Google và Microsoft tạo ra đột phá của riêng minh chỉ một đêm sau sự kiện ChatGPT của OpenAI ra mắt. Theo Counterpoint Research, hơn 100 triệu điện thoại thông minh chạy các mô hình AI và sử dụng AI để tạo nội dung, dự kiến sẽ xuất xưởng vào năm 2024.
+
+Apple không bao giờ thảo luận về sản phẩm trước khi sẵn sàng công bố ra công chúng. Tuy nhiên, CEO Tim Cook của Apple gần đây tiết lộ công ty có những kế hoạch lớn liên quan đến AI: “Tôi nghĩ rằng có một cơ hội lớn cho Apple với GenAI và AI. Chúng tôi chưa biết nó sẽ trông như thế nào. Nhưng nó sẽ rất thú vị trêniPhone 16”.
+
+
+
+Báo cáo của Bloomberg cho thấy các bản cập nhật phần mềm iPhone và iPad sắp tới của Apple sẽ tích hợp nhiều các tính năng AI mới. Đây sẽ là một trong những bản cập nhật có nhiều thay đổi nhất trong nhiều năm.
+
+Không rõ Apple có thể phát triển những tính năng cụ thể nào cho iOS 18, nhưng theo manh mối từ Bloomberg, Apple có kế hoạch tích hợp AI vào các ứng dụng hiện có và cho các tác vụ như tóm tắt thông báo và bài viết trên Safari, cũng như tạo văn bản.
+
+The Information và Bloomberg đưa tin rằng Apple đang phát triển một phiên bản Siri phức tạp hơn. Theo báo cáo từ Bloomberg, The New York Times và The Wall Street Journal, gã khổng lồ này được cho là đang thảo luận với Google và OpenAI về việc sử dụng các mô hình AI của họ để hỗ trợ các tính năng mới của iPhone.
+
+Samsung và Google đều đã tích hợp AI để thay đổi điện thoại thông minh của họ, có lẽ sẽ cung cấp gợi ý về những gì sẽ thấy trên iPhone của Apple. Cả hai công ty đều cung cấp các tính năng có thể viết lại tin nhắn văn bản và tích hợp AI vào các công cụ chỉnh sửa ảnh. Có thể Apple sẽ áp dụng cách tiếp cận tương tự, mặc dù chưa có gì chắc chắn cho đến khi hệ điều hành iOS 18 ra mắt.
+
+Cụ thể, cả dòng Galaxy S24 của Samsung và điện thoại Pixel 8 của Google đều tích hợp AI vào các công cụ chỉnh sửa ảnh. Họ cũng có một tính năng gọi là Vòng tròn để tìm kiếm, cho phép người dùng khởi chạy tìm kiếm Google cho hầu hết mọi thứ trên màn hình chỉ bằng cách khoanh tròn vật thể. Điện thoại mới của Samsung cũng có thể dịch các cuộc gọi điện thoại sang một ngôn ngữ khác trong thời gian thực.
+
+Theo báo cáo của nhà phân tích Ming-Chi Kuo của TF International Securities, trong số những thay đổi lớn nhất được mong đợi là sự hiện diện của nút chuyên dụng mới để quay video và ống kính tele hình tứ giác trên iPhone 16 Pro (Apple hiện chỉ trang bị loại ống kính này trên iPhone 15 Pro Max lớn hơn).
+
+Theo MacRumors, những chiếc iPhone tiếp theo của Apple có thể sẽ có bộ vi xử lý mới, nhà phân tích Jeff Pu dự đoán cả 4 mẫu máy sẽ có chip A18 mới. Một báo cáo khác của MacRumors cho biết iPhone 16 Pro và Pro Max cũng có thể có màn hình lớn hơn một chút.
+
+Theo Cnet, đối với các tín đồ iPhone, lần lên đời này rất xứng đáng vì họ sẽ được trải nghiệm những thay đổi thú vị đáng mong chờ trên hệ điều hành mới. Dựa trên thông tin trước đây, iOS 18 gần như chắc chắn sẽ ra mắt vào giữa tháng 9/2024, vì mọi bản phát hành iOS chính từ iOS 6 trở đi đã bắt đầu ra mắt từ ngày 13/9 đến ngày 20/9.
+
+Tuy nhiên, trên thực tế, những người yêu thích sản phẩm của Apple sẽ không phải đợi đến tháng 9 vì Apple thường công bố các phiên bản iOS mới tại WWDC (WWDC 2024 bắt đầu vào ngày 10/6). Sau đó Apple sẽ phát hành bản xem trước dành cho nhà phát triển, và bản beta công khai.
+
+Tuy nhiên, theo một số nguồn tin, cần lưu ý có thể với iOS 18, Apple sẽ ngừng hỗ trợ cập nhật cho các dòng iPhone ra mắt trước năm 2018 như iPhone XR, iPhone XS và iPhone XS Max. Điều đó có nghĩa là người dùng iPhone cần có iPhone 11 hoặc mới hơn nuế muốn cập nhật hệ điều hành mới này.

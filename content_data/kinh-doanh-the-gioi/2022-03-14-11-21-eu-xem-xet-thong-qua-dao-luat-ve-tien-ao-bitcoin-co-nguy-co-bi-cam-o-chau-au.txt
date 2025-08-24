@@ -1,0 +1,35 @@
+“Các tài sản tiền ảo được phát hành và/hoặc giao dịch tại Liên minh châu Âu (EU) sẽ phải tuân theo các tiêu chuẩn bền vững về môi trường tối thiểu, đồng thời thiết lập và duy trì kế hoạch triển khai theo từng giai đoạn để đảm bảo việc tuân thủ các yêu cầu đó”, theo dự thảo cuối cùng của đạo luật nói trên – có tên là MiCa, mà Bloomberg có được.
+
+Theo các nhà phân tích, các tiêu chuẩn bền vững tối thiểu cũng như yêu cầu về kế hoạch triển khai có thể là những thay đổi vào phút chót được đưa ra nhằm kiểm soát hoặc thậm chí cấm việc sử dụng các loại tiền ảo hoạt động dựa trên cơ chế đồng thuận “Proof of Work” (bằng chứng công việc) như Bitcoin và Ethereum.
+
+“Proof of Work” là một trong những cơ chế đồng thuận chính để quản trị chuỗi khối Bitcoin. Các nhà khai thác Bitcoin (thợ đào) đóng góp sức mạnh máy tính vào mạng lưới – thông qua việc thực hiện một lượng lớn các phép tính phức tạp – và được nhận thưởng cho sự đóng góp này bằng Bitcoin.
+
+Theo nghị sĩ Stefan Berger của Nghị viện châu Âu và cũng là một chuyên gia về tiền ảo của Đức, bản thảo trước đó của đạo luật này không đề cập tới khái niệm giao thức “proof of work”.
+
+Theo ghi nhận của Bloombeg, giới lãnh đạo trong ngành tiền ảo đã bắt đầu lo lắng về việc liệu dự luật mới và cứng rắn hơn này có bao gồm việc cấm sử dụng vối với Bitcoin hay không.
+
+“Ledger sẽ luôn bảo vệ quyền tự do và quyền tự chủ, đặc biệt trên nền tảng của mình. Chúng tôi kêu gọi tất cả các bạn hãy liên hệ với các nghị sĩ của Nghị viện châu Âu ở nước mình và nói với họ rằng các bạn phản đối lệnh cấm Bitcoin ở châu Âu”, Giám đốc điều hành Pascal Gaulthier của Ledger - một trong những nhà cung cấp ví tiền điện tử lớn nhất thế giới, nói trên tài khoản Twitter cá nhân hôm 12/3.
+
+“Vì Bitcoin không thể và sẽ không thực hiện một kế hoạch triển khai mà không sử dụng proof of work, đạo luật này sẽ ảnh hưởng lớn tới Bitcoin”, Patrick Hansen, giám đốc chiến lược tại nhà cung cấp ví tiền ảo Unstoppable Finance nói trên Twitter.
+
+Trước đó, Tổng thống Mỹ Joe Biden hôm 9/3 đã ký một sắc lệnh yêu cầu các cơ quan chính phủ xem xét các rủi ro và lợi ích của tiền ảo. Đây là sắc lệnh được mong chờ từ lâu trong bối cảnh những quan ngại về tính pháp lý của tiền ảo ngày càng gia tăng trên khắp thế giới. Sắc lệnh này được giới phân tích đánh giá là có lợi cho tiền ảo.
+
+Trong sắc lệnh của ông Biden, bảo vệ khách hàng là một nội dung quan trọng được đề cập, sau khi xảy ra vô số vụ nhà đầu tư bị lừa đảo tiền ảo hoặc mất số tiền lớn do các cuộc tấn công mạng trên các sàn giao dịch tiền ảo.
+
+Ông Biden yêu cầu Bộ Tài chính Mỹ đánh giá và đưa ra các khuyến nghị chính sách đối tới tiền ảo, đồng thời muốn các nhà lập pháp Mỹ “đảm bảo sự giám sát và bảo vệ đầy đủ chống lại các rủi ro tài chính mang tính hệ thống gây ra bởi tài sản số”.
+
+Sắc lệnh này cũng yêu cầu tập trung vào việc loại bỏ các hành vi bất hợp pháp trên thị trường tiền ảo. Tổng thống Mỹ kêu gọi các cơ quan liên bang “hành động phối hợp với sự tập trung chưa từng có” để giảm thiểu các rủi ro tài chính và an ninh quốc gia do tiền ảo gây ra. Ông cũng kêu gọi sự hợp tác quốc tế trong vấn đề này.
+
+Tháng trước, Chính phủ Mỹ đã tịch thu số Bitcoin trị giá 3,6 tỷ USD liên quan tới vụ tấn công sàn giao dịch tiền ảo Bitfinex vào năm 2016. Đây là vụ tịch thu tiền ảo quy mô lớn nhất từ trước tới nay tại Mỹ.
+
+Sau khi Nga tấn công vũ trang vào Ukraine, Mỹ cũng quan ngại về việc tiền ảo có thể được dùng để giúp các cá nhân và doanh nghiệp Nga lách trừng phạt của Washington và các nước phương Tây.
+
+Sắc lệnh của ông Biden cũng muốn các cơ quan liên bang nghiên cứu các phương thức để giảm những tác động tiêu cực của tiền ảo đối với môi trường.
+
+Một phần của sắc lệnh này nhấn mạnh tập trung gia tăng năng lực cạnh tranh của Mỹ so với các quốc gia khác trong việc phát triển tiền ảo. Đây là điều đặc biệt quan trọng khi mà Trung Quốc hiện đã cấm hoàn toàn tiền ảo. Ông Biden đã giao Bộ Thương mại Mỹ thiết lập một khuôn khổ để thúc đẩy năng lực cạnh tranh và khả năng dẫn đầu của Mỹ về công nghệ tài sản số.
+
+Ngoài ra, sắc lệnh nói trên cũng muốn xem xét khả năng phát hành một phiên bản số của đồng USD. Điều này được đề cập đến trong bối cảnh Trung quốc hiện dẫn đầu thế giới về việc phát hành tiền ảo của ngân hàng trung ương (CBDC) với ngày càng nhiều người dân sử dụng di động thông minh để thanh toán và giao dịch tài chính.
+
+Dù không nói rằng Mỹ nên phát hành tiền ảo riêng, ông Biden yêu cầu chính phủ “khẩn trương” nghiên cứu và phát triển CBDC.
+
+Theo Hiệp hội Chuỗi khối – tổ chức đại diện cho nhiều công ty tiền ảo nổi tiếng, với sắc lệnh này, ông Biden “đang có cơ hội duy trì vị thế dẫn đầu toàn cầu của Mỹ về đổi mới công nghệ trong nhiều năm tới”.

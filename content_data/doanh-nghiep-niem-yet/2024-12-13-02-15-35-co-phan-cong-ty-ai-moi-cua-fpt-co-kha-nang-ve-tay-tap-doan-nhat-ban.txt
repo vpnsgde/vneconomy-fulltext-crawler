@@ -1,0 +1,13 @@
+Tập đoàn FPT và SBI Holdings - Tập đoàn dịch vụ tài chính hàng đầu Nhật Bản mới đây đã ký kết Biên bản ghi nhớ hợp tác. Theo đó, SBI Holdings dự kiến đầu tư lên đến 35% cổ phần Công ty TNHH FPT Smart Cloud Japan - Công ty AI, Cloud mới được FPT thành lập tại thị trường Nhật
+
+Dự kiến, quá trình thực hiện hợp đồng đầu tư sẽ hoàn tất vào cuối tháng 1 năm 2025. Hợp tác này nhằm phát triển, nhà máy AI (AI Factory) và các giải pháp điện toán đám mây của FPT tại thị trường Nhật Bản.
+
+Được thành lập vào năm 1999, Tập đoàn SBI là một trong những doanh nghiệp tiên phong trong lĩnh vực dịch vụ tài chính trực tuyến tại Nhật Bản. Tập đoàn vận hành các dịch vụ tài chính, cung cấp các sản phẩm và dịch vụ tiện lợi thông qua Internet, chủ yếu trong các lĩnh vực chứng khoán, ngân hàng và bảo hiểm. Đồng thời, SBI cũng hoạt động trong các lĩnh vực quản lý tài sản, đầu tư khác trên toàn cầu.
+
+Theo các báo cáo của IDC, dự kiến quy mô thị trường Trí tuệ nhân tạo AI sẽ vượt 130 tỷ USD vào năm 2024 và đạt 1.300 tỷ USD vào năm 2032. Tại Nhật Bản, thị trường AI dự kiến đạt giá trị 5,9 tỷ USD trong năm nay, tăng trưởng 31,2%.
+
+Trước đó, Tập đoàn FPT đã công bố xây dựng AI Factory vào tháng 11/2024 và thành lập công ty chuyên mảng AI và Cloud tại Nhật Bản để phát triển hệ sinh thái sản phẩm, giải pháp ứng dụng công nghệ AI và Cloud, hướng đến phát triển AI có chủ quyền và đưa Nhật Bản trở thành quốc gia AI.
+
+Đại diện FPT cho biết AI Factory cung cấp cho doanh nghiệp các dịch vụ Cloud sử dụng hàng nghìn chip đồ họa NVIDIA Hopper GPU, bộ ứng dụng và khung công nghệ NVIDIA AI Enterprise mới nhất, bao gồm 3 nhóm sản phẩm chính: FPT AI Infrastructure mang tới các dịch vụ đám mây GPU để tăng tốc xây dựng và triển khai các mô hình AI lớn, Nền tảng FPT AI Studio cung cấp các công cụ thông minh, đào tạo và tinh chỉnh chuyên sâu các mô hình AI, FPT AI Inference cho phép triển khai và mở rộng các mô hình này về quy mô và số lượng sử dụng một cách hiệu quả.
+
+AI hiện là một trong những công nghệ mũi nhọn được Tập đoàn FPT đầu tư nghiên cứu và phát triển. FPT hiện đã bắt tay với NVIDIA, Landing AI, Viện nghiên cứu Mila,... gia nhập liên minh AI do IBM và Meta khởi xướng, hướng tới mục tiêu thúc đẩy nghiên cứu và phát triển AI trong khu vực, cung cấp các giải pháp AI và Cloud trên quy mô toàn cầu.

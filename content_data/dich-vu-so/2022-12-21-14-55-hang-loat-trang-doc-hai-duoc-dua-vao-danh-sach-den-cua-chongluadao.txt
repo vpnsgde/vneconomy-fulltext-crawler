@@ -1,0 +1,15 @@
+Hiện nay, xuất hiện chiến dịch mới về tấn công người dùng ngân hàng VPBank, ACB, Sacombank và VIB Bank diễn ra hằng loạt dưới dạng tin nhắn giả mạo SMS, các mạng xã hội… Mục đích của bọn tội phạm là đánh cắp thông tin, danh tính, tài khoản và chiếm đoạt tiền của người dung. Chiến dịch này bắt đầu từ 14/11/2022 cho tới nay.
+
+Chuyên gia an ninh mạng Trung tâm Giám sát An toàn không gian mạng quốc gia (NCSC) Ngô Minh Hiếu (tên gọi khác Hiếu PC) vừa đưa ra cảnh báo: Tội phạm mạng tăng cường tấn công lừa đảo qua tin nhắn văn bản SMS và các mạng xã hội. Chúng tiếp cận nạn nhân mong muốn nâng cấp hạn mức thẻ tín dụng và đánh vào tâm lý mua sắm cuối năm, lễ Tết có nhu cầu cần tiền.
+
+Chuyên gia Ngô Minh Hiếu khuyến cáo người dùng, tuyệt đối không click vào bất cứ đường link lạ được gửi trong tin nhắn SMS, mạng xã hội.
+
+“Không cung cấp thông tin danh tính như chứng minh nhân dân, căn cước công dân, số điện thoại, cũng như thông tin tài khoản ngân hàng. Khi có vấn đề nên gọi ngay lên ngân hàng bạn đang sử dụng và báo lên cơ quan chức năng", Ngô Minh Hiếu khuyến cáo.
+
+Đặc biệt, khi có nhu cầu chuyển tiền thì phải xác định đúng đối tượng cần chuyển, gọi điện xác nhận thông tin và người cần chuyển tiền… Người dùng có thể truy cập ChongLuaDao (https://chongluadao.vn/) để cập nhật những thủ đoạn lừa đảo và hướng dẫn mới nhất (đặc biệt là không cần phải cài đặt gì thêm trên thiết bị điện thoại hay máy tính của bạn) hoặc tham gia nhóm Chống Lừa Đảo trên không mạng tạihttps://t.me/cld_community
+
+Chuyên gia an ninh mạng cũng lưu ý, đối tượng thường xuyên tắt server sau khi xong chiến dịch và chỉ mở lại khi cần. Đối tượng thường sử dụng shared hosting ở Hostinger và dùng Wordpress để xây dựng trang độc hại.
+
+Về phía các tổ chức ngân hàng, doanh nghiệp, chuyên gia an ninh mạng khuyến cáo cần thường xuyên rà soát lỗ hổng, cập nhật bản vá lỗi và cảnh báo đến các khách hàng của mình một cách thường xuyên hơn qua website hay app để nâng cao nhận biết cho người dùng, tránh những thiệt hại cho khách hàng.
+
+Được biết, danh sách các trang độc hại lừa đảo người dùng trên không gian mạng đã được đưa vào danh sách đen của ChongLuaDao như:

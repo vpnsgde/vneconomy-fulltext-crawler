@@ -1,0 +1,37 @@
+Dịch bệnh với những đợt tấn công liên tiếp đã khiến các nhà khoa học đặt câu hỏi: Chúng ta có thể làm gì để khiến tình trạng này dừng lại? Biến chủng Omicron hiện nay, hoặc một biến thể nào đó được cho là có thể thoát khỏi sự bảo vệ của vaccine hiện có, có thể xuất hiện và gây ra đại dịch mới. Một số bài báo và báo cáo được xuất bản trong 6 tháng qua đã đề xuất một loại "vaccine phổ quát" có thể bảo vệ chống lại toàn bộ họ virus này. Tuy nhiên, đây là một dự án phức tạp, và mới chỉ có một vài nhóm khoa học tới gần mục tiêu.
+
+QUÂN ĐỘI MỸ VÀ VACCINE SpFN
+
+Viện Nghiên cứu quân đội Walter Reed của Mỹ đang thử nghiệm lâm sàng một loại vaccine phổ quát có tên gọi SpFN (Spike Ferritin Nanoparticle). Theo thông báo từ Viện ngày 23/12, kết quả nghiên cứu trên linh trưởng và thử nghiệm giai đoạn đầu ở người khá hứa hẹn. Vaccine cũng bảo vệ người dùng khỏi các mầm bệnh từ virus corona khác bên cạnh Covid-19.
+
+SpFN được điều chế dựa trên công nghệ "hạt nano protein tự lắp ráp", hoạt động thông qua một phân tử hình cầu, có 24 mặt giống quả bóng đá. Mỗi mặt mang một phần của protein gai virus, có thể kích hoạt cơ thể tạo chuỗi phản ứng miễn dịch. Hình dạng hạt nano cho phép các nhà khoa học gắn gai của các chủng virus corona trên các mặt khác nhau, từ đó bảo vệ cơ thể khỏi nhiều biến chủng cùng lúc.
+
+Ngoài ra, thử nghiệm SpFN trên linh trưởng cho thấy hai liều vaccine cách nhau 28 ngày đã sinh miễn dịch mạnh mẽ chống Alpha, Beta, Gamma và Delta. SpFN cũng hiệu quả ngăn ngừa virus SARS. "Sự xuất hiện nhanh chóng của nhiều loại virus corona trong suốt hai thập kỷ và sự gia tăng của Covid-19, trong đó có Omicron, nhấn mạnh sự cần thiết của vaccine thế hệ tiếp theo, một loại vaccine bảo vệ người dùng khỏi nhiều chủng virus," tiến sĩ Kayvon Modjarrad, giám đốc Cơ quan Các bệnh Truyền nhiễm Mới nổi, đồng sáng chế của vaccine, chỉ huy Quân đội Mỹ, cho biết.
+
+Thay vì tìm hiểu các đột biến, các nhà nghiên cứu xác định sẽ có nhiều biến thể xuất hiện trong tương lai. Tiến sỹ Modjarrad nhấn mạnh cách tiếp cận này của Viện Walter Reed sẽ giúp trang bị hiểu biết để sẵn sàng ứng phó. Theo Tiến sỹ Modjarrad, giai đoạn 1 thử nghiệm trên người vaccine SpFN, trong đó thử nghiệm hiệu quả của vaccine đối với biến thể mới Omicron và các biến thể khác, đã hoàn tất gần đây và các kết quả thử nghiệm tích cực đang được đánh giá. Tiếp theo sẽ tiến hành thử nghiệm giai đoạn 2 và giai đoạn 3.
+
+
+
+Trong khi đó, một tài liệu đăng tải trên trang web của Viện Walter Reed nêu rõ ngoài việc tập trung phòng ngừa các biến thể đã được biết đến cũng như chưa được biết đến của virus SARS-CoV-2, vaccine của viện này không đòi hỏi cơ sở hạ tầng lưu trữ và vận chuyển phức tạp, vẫn có hiệu quả tốt khi lưu trữ thời gian dài trong tủ lạnh hoặc ở nhiệt độ môi trường bình thường.
+
+MỘT SỐ NGHIÊN CỨU KHÁC
+
+Có thể nói, với loại vaccine đang thử nghiệm của quân đội Mỹ, triển vọng về một loại vaccine Covid-19 thế hệ tiếp theo, có thể bảo vệ chống lại các biến thể virus trong tương lai, đã tiến một bước gần hơn đến hiện thực. Đây có thể coi là một ứng cử viên vaccine lý tưởng cho các quốc gia nghèo. Viện Walter Reed cũng hy vọng rằng các nỗ lực nghiên cứu sẽ có thể xóa sổ đại dịch hiện nay và ngăn chặn nguy cơ bùng phát một đại dịch khác sau này.
+
+Trước đó, khi biến chủng Omicron còn chưa xuất hiện, nhà nghiên cứu Drew Weissman, Đại học Pennsylvania, Mỹ, từng nhận định: "Sau Delta sẽ xuất hiện phiên bản virus mới, cho đến khi chúng ta dùng hết bảng chữ cái Hy Lạp. Với chiến lược tiêm tăng cường, chúng ta luôn đi sau virus một bước".
+
+Ông Weissman khi đó đã bắt đầu tiến hành nghiên cứu một loại vaccine phổ quát, tập trung vào các loại virus có họ hàng khá gần với nCoV. Song mục tiêu tham vọng hơn là bảo vệ người dùng trước hàng loạt virus corona, kể cả chủng gây cảm cúm thông thường. Ý tưởng này được Anthony Fauci, Giám đốc Viện Dị ứng và Bệnh truyền nhiễm Quốc gia Mỹ ủng hộ.
+
+Hồi tháng 8 năm nay, Liên minh Đổi mới Sẵn sàng trước dịch bệnh (CEPI) cũng đã đồng ý cung cấp 20,6 triệu USD tài trợ cho một công ty công nghệ sinh học 6 năm tuổi có tên Gritstone, đặt trụ sở tại Emeryville, bang California (Mỹ), để giúp họ thử nghiệm một loại vaccine Covid-19 phổ quát. Số tiền tài trợ từ CEPI cũng sẽ giúp Gritstone tiến hành các nghiên cứu tiền lâm sàng, tăng năng lực nghiên cứu và sản xuất, đồng thời giúp công ty phát triển một loại vaccine ổn định hơn.
+
+Theo một phần của thoả thuận tài trợ từ CEPI, Gritstone đã đồng ý rằng, nếu họ thành công trong việc phát triển một loại vaccine Covid-19 phổ quát, vaccine này sẽ được cung cấp trên toàn cầu thông qua cơ chế Covax, sáng kiến vaccine toàn cầu được tài trợ bởi CEPI, GAVI và WHO. Điều đó đồng nghĩa các nước đang phát triển sẽ có khả năng tiếp cận với vaccine này.
+
+Một loại vaccine Covid-19 không dùng kim tiêm mới do Đại học Southampton phát triển bằng công nghệ DIOSvax cũng đang được thử nghiệm ở Anh. Tiến sĩ Saul Faust, Giám đốc Viện Nghiên cứu Y tế Quốc gia (NIHR) Southampton cho biết: "Loại vaccine Covid-19 này được hy vọng có thể giúp đối phó với cả các biến thể mới và virus corona trong tương lai".
+
+Giáo sư Jonathan Heeney, Đại học Cambridge, cho biết: "Khi các biến thể mới xuất hiện và khả năng miễn dịch bắt đầu suy yếu, chúng ta cần các công nghệ mới hơn, sẵn sàng giữ chúng ta an toàn trước các mối đe dọa của các chủng virus đột biến tiếp theo". Trong khi hầu hết các vaccine Covid-19 hiện có sử dụng công nghệ mRNA để nhắm mục tiêu vào protein đột biến của các mẫu virus được tìm thấy vào tháng 1/2020, vaccine DIOS-Covax nhắm vào cách virus có thể đột biến, cho phép nó nhắm mục tiêu vào các biến thể mới nổi.
+
+"Vaccine DIOS-Covax nhắm đến các yếu tố cấu trúc virus phổ biến đối với tất cả các beta-corona virus đã biết - đây là những cấu trúc cực kỳ quan trọng đối với vòng đời của virus," Giáo sư Heeney giải thích. Ngoài ra, cơ chế không dùng kim tiêm sẽ giúp những người mắc chứng sợ kim tiêm được tiêm chủng đầy đủ vaccine Covid-19. Nếu thành công, công nghệ này có tiềm năng được nhân rộng và sản xuất dưới dạng bột để thúc đẩy các nỗ lực tiêm chủng toàn cầu, đặc biệt là ở các nước có thu nhập thấp và trung bình.
+
+Hiện tại, để tiến gần hơn đến một loại vaccine Covid-19 phổ quát dành cho người, các nhà nghiên cứu cần phải đối mặt với một số câu hỏi như liệu mục tiêu của vaccine có phải là ngăn ngừa tất cả nguy cơ lan truyền và lây nhiễm hay không, hay chỉ để giảm thiểu nguy cơ bệnh nặng và tử vong. Các nhà khoa học cũng sẽ phải dự đoán nhánh nào của họ virus corona có thể gây ra mối đe dọa tiếp theo và xác định xem liệu khả năng bảo vệ của vaccine có thể kéo dài đến mức đó hay không.
+
+Thực tế là có rất nhiều loại virus có khả năng lây lan sang người và gây ra các đợt dịch bệnh bùng phát rộng lớn. Vì vậy, cần sự quan tâm để phát triển các biện pháp đối phó y tế chống lại các đợt dịch và các bệnh truyền nhiễm khác.

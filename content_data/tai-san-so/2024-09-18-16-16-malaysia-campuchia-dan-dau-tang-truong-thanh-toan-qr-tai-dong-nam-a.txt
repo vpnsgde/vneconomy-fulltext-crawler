@@ -1,0 +1,35 @@
+Việc thanh toán thông qua quét mã QR bằng điện thoại thông minh đang mở rộng nhanh chóng ở Đông Nam Á, với các quốc gia như Malaysia và Campuchia dẫn đầu về tốc độ tăng trưởng giao dịch.
+
+Thanh toán QR bắt đầu lan rộng vài năm trước do tỷ lệ sở hữu tài khoản ngân hàng thấp, mạng lưới ATM khan hiếm ở khu vực nông thôn và sự xuất hiện của điện thoại thông minh giá rẻ. Xu hướng này lan rộng một phần nhờ sự ra đời của các dịch vụ du lịch và liên kết xuyên biên giới.
+
+Theo Ngân hàng trung ương, tại Campuchia, thanh toán QR đã tăng 29% vào năm 2023 lên khoảng 601 triệu giao dịch, tăng 10 lần chỉ sau 3 năm.
+
+Vào tháng trước, Ngân hàng trung ương, Ngân hàng Quốc gia Campuchia đã khánh thành hệ thống thanh toán di động có tên Bakong Tourists, cho phép khách du lịch giao dịch không dùng tiền mặt và thúc đẩy việc sử dụng đồng tiền kỹ thuật số riel của Campuchia.
+
+Bakong Tourists được xây dựng trên hệ thống thanh toán kỹ thuật số Bakong, được ra mắt vào năm 2020 và được biết đến rộng rãi như một loại tiền kỹ thuật số của ngân hàng trung ương. Các khoản thanh toán Bakong được thực hiện bằng mã QR có tên KHQR (KHQR là hệ thống mã phản hồi nhanh phổ biến được tạo ra để thanh toán cho hoạt động bán lẻ ở Campuchia).
+
+"Đối với thanh toán KHQR, chúng tôi có tới 3,3 triệu địa điểm thanh toán trên toàn quốc. Tại Phnom Penh và Siem Reap, cả người bán hàng nhỏ và người bán hàng rong cũng chấp nhận mã QR", Thống đốc Chea Serey cho biết tại lễ ra mắt Bakong Tourists ở Siem Reap.
+
+Tại Malaysia, DuitNow QR, được ra mắt vào năm 2019 bởi Payments Network Malaysia (còn được gọi là PayNet) đã nhanh chóng trở thành nền tảng của hệ sinh thái thanh toán kỹ thuật số. Theo Ngân hàng trung ương Bank Negara Malaysia, trong 6 tháng đầu năm nay đã có 1,5 tỷ giao dịch, tổng trị giá lên tới 1,37 tỷ ringgit (320 triệu USD) - tăng lần lượt 64% và 37% so với một năm trước.
+
+DuitNow QR có thể được sử dụng thay thế cho các hệ thống ở các nước ASEAN khác, giúp khuyến khích người dùng sử dụng. Ví dụ: người dùng Malaysia có thể quét mã QR từ QRIS của Indonesia, NETS của Singapore, PromptPay của Thái Lan hoặc Alipay của Trung Quốc để thanh toán ở nước ngoài và khách quốc tế đến Malaysia cũng có thể quét mã QR DuitNow tương tự ở đó.
+
+Ở Đông Nam Á, Singapore là quốc gia sớm áp dụng thanh toán kỹ thuật số. Ra mắt vào năm 2017, PayNow đã trở thành cơ sở hạ tầng thiết yếu, cho phép chuyển tiền theo thời gian thực suốt ngày đêm.
+
+Theo Hiệp hội Ngân hàng Singapore, hệ thống này đã xử lý 437 triệu giao dịch với tổng giá trị 157 tỷ USD vào năm 2023, tăng lần lượt 41% và 28% so với các năm trước.
+
+Vào tháng 4/2021, hiệp hội đã liên kết PayNow với hệ thống tương đương ở Thái Lan - PromptPay, cho phép khách hàng bán lẻ của các ngân hàng từ cả hai quốc gia gửi tiền qua biên giới một cách an toàn. Đây là lần đầu tiên trên thế giới các hệ thống thanh toán tức thời tương tự được liên kết quốc tế.
+
+Ngày nay, PayNow cũng đã trở thành cơ sở hạ tầng cho các công ty khởi nghiệp và dịch vụ tài chính mới nổi, với tổng số 27 ngân hàng truyền thống và công ty fintech tham gia, bao gồm cả công ty gọi xe và giao đồ ăn Grab.
+
+Còn trước đó, tháng 3/2021, Wise, một công ty thanh toán và chuyển tiền hàng đầu có trụ sở tại Vương quốc Anh, đã kết nối với mạng PayNow để người dùng có thể thực hiện thanh toán QR trực tiếp thông qua ứng dụng của họ. Shrawan Saraogi, người đứng đầu bộ phận khu vực châu Á-Thái Bình Dương của Wise cho biết ứng dụng cho phép du khách thanh toán tại những nơi không chấp nhận thẻ tín dụng.
+
+Trong khi đó, Ngân hàng Thái Lan đã mở rộng phạm vi phủ sóng của PromptPay sang các nước ASEAN khác. Các mối liên kết cũng đang được thúc đẩy ngoài ASEAN với các nước có quan hệ kinh tế chặt chẽ với Thái Lan, đặc biệt là những nước cung cấp dòng lao động nhập cư và khách du lịch lớn.
+
+Vào năm 2023, các giao dịch trên PromptPay đã tăng lên mức cao kỷ lục 77,2 triệu, tăng 2,9 triệu so với năm trước và đạt trung bình 129 tỷ baht (3,8 tỷ USD) mỗi ngày.
+
+Indonesia và Việt Nam cũng chứng kiến ​​sự gia tăng thanh toán QR. Theo ngân hàng trung ương Indonesia, Bank Indonesia, các giao dịch liên quan đến mã QR chung (QRIS), đã đánh dấu mức tăng trưởng 226% trong quý 4/2023, với tổng số người dùng và người bán lần lượt là 50 triệu và 32 triệu.
+
+Ngân hàng Nhà nước Việt Nam công bố giao dịch QR trong 6 tháng đầu năm 2024 tăng 104,23% về số lượng và 99,57% về giá trị so với cùng kỳ năm 2023.
+
+Theo Ngân hàng trung ương Philippines, giao dịch thanh toán kỹ thuật số đạt 2,6 tỷ vào năm 2023, tăng 28,1% so với năm trước.

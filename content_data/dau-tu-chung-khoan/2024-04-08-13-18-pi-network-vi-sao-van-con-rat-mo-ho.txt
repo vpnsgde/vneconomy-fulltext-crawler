@@ -1,0 +1,39 @@
+Pi Networklà một trong những ứng dụng khai thác tiền ảo được giới thiệu từ năm 2019. Theo thống kê, tính đến năm 2023, ứng dụng này đã có hơn 10 triệu lượt tải từ Play Store và khoảng 12 triệu người tham gia khai thác. Nhiều người đang nắm giữ hàng trăm, thậm chí hàng nghìn Pi trong ví ảo và đang chờ đợi tiền ảo này được niêm yết. Tuy nhiên, tổng cung và khối lượng giao dịch hàng ngày của Pi Coin vẫn chưa được công bố.
+
+Ngày 14/3 có ý nghĩa đặc biệt đối với cộng đồng Pi Network bởi đây là ngày đánh dấu kỷ niệm ra mắt dự án vào năm 2019. Ngày Pi được tổ chức trên toàn cầu để tôn vinh hằng số toán học π (pi), phù hợp với đặc tính của Pi Network và sứ mệnh giúp tất cả mọi người có thể truy cập được tiền điện tử. Trong khi Pi Core Team vẫn chưa đưa ra ngày ra mắt chính xác, cộng đồng chọn ngày 14/3 để kỳ vọng mainnet được ra mắt.
+
+Khi một đồng coin bất kỳ được phát hành mạng lưới chính thức, đồng coin này có một hệ sinh thái riêng mà không phụ thuộc vào các hệ sinh thái lớn như Bitcoin hay Ethereum. Mainnet kết nối các phần mềm ví và thực hiện các giao dịch thông thường.
+
+
+
+Trước đó vào cuối năm 2023, đội ngũ dự án đã công bố trên blog về ý định chuyển sang giai đoạn Open Mainnet vào năm 2024, với điều kiện đáp ứng ba điều kiện thiết yếu.
+
+(1), Hoàn tất quá trình chuẩn bị: Tất cả các bước chuẩn bị quan trọng về công nghệ, sản phẩm, kinh doanh và pháp lý phải được hoàn thành trước khi mở mạng cho Internet công cộng. Mặc dù hầu hết các cột mốc kỹ thuật đã được nêu trong lộ trình cập nhật của dự án, công việc bổ sung vẫn là tối ưu hóa an ninh mạng, tính ổn định và khả năng mở rộng.
+
+(2), Đạt được các mục tiêu phi tập trung: Nhóm đặt mục tiêu thu hút 15 triệu người dùng đã được xác minh KYC (Know Your Customer là xác minh danh tính người dùng bằng giấy tờ tùy thân như hộ chiếu, CMND, CCCD, Selfie… Việc xác mình này để chứng minh chủ tài khoản là người thật, không phải tài khoản ảo hoặc của BOT) và di chuyển ít nhất 10 triệu người tiên phong sang chuỗi khối Mainnet. Ngoài ra, các nhà phát triển cần tung ra ít nhất 100 tiện ích và ứng dụng chất lượng cao, riêng biệt để cung cấp các trường hợp sử dụng thực sự cho Pi như một loại tiền tệ.
+
+(3), Môi trường bên ngoài thuận lợi: Là một loại tiền điện tử toàn cầu, thành công của Pi phụ thuộc rất nhiều vào điều kiện thực tế. Các yếu tố như chiến tranh, sự phát triển về quy định, xu hướng của ngành và việc không có khủng hoảng sẽ quyết định thời điểm tốt nhất để ra mắt Mainnet.
+
+Theo các chuyên gia phân tích kỹ thuật, việc khởi chạy mạng mainnet của Pi Network bị trì hoãn chủ yếu là do số lượng người tham gia KYC thấp, điều này rất quan trọng đối với việc tuân thủ và bảo mật mạng, đảm bảo rằng tất cả những người tham gia đều được xác minh và tuân thủ các quy định cần thiết.
+
+Để Pi Network khởi chạy thành công mạng chính mở của mình, cần có nhiều người tiên phong hoàn thành quy trình KYC. Những người tiên phong này rất quan trọng trong việc bảo mật mạng và duy trì tính chất phi tập trung. Tuy nhiên, nếu số lượng người tiên phong đã hoàn thành quy trình KYC vẫn rất thấp và cần tăng thêm, điều đó sẽ thách thức việc ra mắt mạng chính mở của mạng.
+
+Quy trình KYC sẽ nhằm chống lại các hoạt động gian lận, đánh cắp danh tính và các hành vi bất hợp pháp khác. Nó giúp duy trì tính toàn vẹn của mạng và bảo vệ lợi ích thực sự của những người tham gia. Nếu không có đủ người tham gia KYC, bảo mật của mạng có thể dễ bị tấn công.
+
+Một yếu tố khác góp phần gây ra sự chậm trễ trong việc ra mắt mainnet Pi Network là nhu cầu thử nghiệm và tối ưu hóa kỹ lưỡng. Việc ra mắt một mạng Blockchain mạnh mẽ và hiệu quả đòi hỏi phải thử nghiệm rộng rãi để xác định và khắc phục các lỗi, lỗ hổng hoặc vấn đề hiệu suất tiềm ẩn.
+
+Nhóm Pi Network có thể sẽ ưu tiên thử nghiệm kỹ lưỡng để đảm bảo tính ổn định và độ tin cậy của mainnet. Hệ sinh thái mạng thử nghiệm Pi, bao gồm nhiều ứng dụng phi tập trung Pi (dApp) với các tiện ích cải tiến, là một ví dụ điển hình về nỗ lực của nhóm nhằm phát triển một hệ sinh thái mạnh mẽ.
+
+Gần đây đồng Pi lại gây ồn ào trong giới tiền số khi chứng kiến mức giá lao dốc mạnh tại nhiều sàn giao dịch. Trong phiên giao dịch ngày 4/4, tại một số sàn giao dịch như Binance, CoinMarketCap và Onus, giá “ghi nợ” của tiền ảo Pi Network giảm mạnh từ mức 39,33 USD xuống 0,62 USD mỗi đồng, tương ứng mức giảm 98,43%. Tuy nhiên cùng thời điểm, tại HTX và BitMart - hai sàn giao dịch chiếm phần lớn khối lượng giao dịch của đồng PI đang niêm yết với giá 38 USD.
+
+Điều này làm dấy lên không ít lo ngại rằng đồng tiền kỹ thuật số này đang đứng trước áp lực bán tháo.
+
+Được tạo ra vào năm 2019 bởi một nhóm kỹ sư Stanford, Pi Network cung cấp nền tảng cho phép người dùng kiếm tiền điện tử Pi miễn phí thông qua việc "điểm danh" hàng ngày tại ứng dụng.
+
+Theo Hoka News, Hàn Quốc, Trung Quốc và Việt Nam là 3 quốc gia có số Pi Node (nút mạng Pi - phần mềm trên máy tính với vai trò tạo và lưu trữ Pi) cao nhất.
+
+Hàn Quốc có số Pi node là 26.691, đứng đầu toàn cầu khi người dân đang đặc biệt quan tâm đến blockchain và tiền số. Trung Quốc đứng thứ 2 với 20.326 node, đây là quốc gia được mệnh danh “cường quốc kỹ thuật số” với số lượng người dùng Internet lớn. Mặc dù Trung Quốc có các quy định nghiêm ngặt về tiền điện tử nhưng sự quan tâm của công chúng đối với công nghệ blockchain vẫn ở mức cao.
+
+Việt Nam đứng thứ 3 với 19.142 node Pi. Cục An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (A05) cũng đưa ra cảnh báo với người dân phải hết sức thận trọng khi tham gia các hoạt động giao dịch tiền ảo với lợi nhuận cao bất thường, có dấu hiệu lôi kéo, đa cấp.
+
+Về kế hoạch mở mạng chính của Pi, đã có những thông tin về mainnet mở sẽ diễn ra vào tháng 6/2024, tuy nhiên có thể bị đẩy sang tháng 12/2024 khiến người dùng ngày càng suy giảm lòng tin. Điều này là do cách tiếp cận thận trọng của nhóm nhằm đảm bảo sự thành công và bền vững lâu dài của mạng.

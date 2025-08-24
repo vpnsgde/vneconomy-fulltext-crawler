@@ -1,0 +1,15 @@
+Với mong muốn hạn chế rủi ro cho khách hàng trong trường hợp bị thất lạc hoặc mất thẻ, từ ngày 1/8/2019, Vietcombank cung cấp thêm một hình thức mới để khách hàng có thể khóa thẻ tạm thời một cách nhanh chóng thông qua gửi tin nhắn SMS đến tổng đài 6167.
+
+Cú pháp gửi tin nhắn khóa thẻ tạm thời như sau:
+
+
+
+Hình thức khóa thẻ tạm thời này áp dụng cho tất cả các khách hàng cá nhân đang sử dụng thẻ ghi nợ/thẻ tín dụng tại Vietcombank (bao gồm cả các cá nhân do công ty ủy quyền sử dụng thẻ).
+
+Số điện thoại của khách hàng phải là số điện thoại của chủ thẻ chính và đã đăng ký dịch vụ VCB - SMS B@nking. Phí gửi tin nhắn áp dụng theo quy định hiện hành về phí dịch vụ của Vietcombank.
+
+Trường hợp không nhớ cú pháp cụ thể, khách hàng có thể soạn tin nhắn theo cú pháp VCB HELP gửi đến tổng đài 6167, sau đó sẽ nhận được hướng dẫn.
+
+Như vậy, tính đến thời điểm hiện tại, chủ thẻ của Vietcombank có thể khóa thẻ tạm thời một cách nhanh chóng qua nhiều kênh bao gồm gửi tin nhắn SMS đến tổng đài 6167; ứng dụng VCB - Mobile B@nking; ngân hàng trực tuyến VCB - iB@nking; gọi điện đến tổng đài 24/7 và đến trực tiếp các điểm giao dịch của Vietcombank.
+
+Sau khi xác định thẻ của mình đã an toàn, chủ thẻ có thể mở khóa thẻ tạm thời ngay trên VCB - Mobile B@nking/ VCB - iB@nking hoặc đến trực tiếp các điểm giao dịch của Vietcombank trên toàn quốc.

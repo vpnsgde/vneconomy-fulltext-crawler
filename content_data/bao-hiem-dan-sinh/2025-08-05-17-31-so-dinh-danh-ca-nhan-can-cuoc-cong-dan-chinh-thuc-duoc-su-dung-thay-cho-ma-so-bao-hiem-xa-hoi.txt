@@ -1,0 +1,37 @@
+Bảo hiểm xã hội Việt Nam hướng dẫn Bảo hiểm xã hội các tỉnh, thành phố trực thuộc Trung ương (Bảo hiểm xã hội tỉnh) sử dụng mã định danh cá nhân/số căn cước công dân thay thế mã số bảo hiểm xã hội và bộ mã quản lý đơn vị.
+
+Đây là bước chuyển quan trọng nhằm thống nhất phương thức quản lý dữ liệu và tạo thuận lợi tối đa cho người dân, doanh nghiệp khi thực hiện các thủ tục hành chính về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Theo đó, từ ngày 1/8/2025, số định danh cá nhân/căn cước công dân chính thức được sử dụng để thay thế mã số bảo hiểm xã hội của người tham gia bảo hiểm xã hội, bảo hiểm y tế.
+
+Việc sử dụng mã số thống nhất này góp phần bảo đảm đồng bộ cơ sở dữ liệu, tăng tính liên thông với cơ sở dữ liệu quốc gia về dân cư và nâng cao hiệu quả quản lý.
+
+Đối với các đơn vị tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bao gồm: Cơ quan, đơn vị, doanh nghiệp, tổ chức sử dụng lao động; cơ quan quản lý đối tượng; cơ sở trợ giúp xã hội; cơ sở từ thiện, tôn giáo; cơ sở nuôi dưỡng, điều dưỡng thương binh; tổ chức hỗ trợ phát triển đối tượng tham gia bảo hiểm xã hội, bảo hiểm y tế theo quy định của pháp luật và các tổ chức khác, Bảo hiểm xã hội Việt Nam quy định bộ mã gồm 3 thành phần: ĐD, ĐT, LH.
+
+Trong đó, ĐD là mã định danh đơn vị được ghi trên các biểu mẫu trong giao dịch thủ tục hành chính giữa đơn vị và cơ quan Bảo hiểm xã hội.
+
+Đối với doanh nghiệp thuộc phạm vi điều chỉnh của Nghị định số 168/2025/NĐ-CP của Chính phủ về đăng ký doanh nghiệp, sử dụng mã số doanh nghiệp gồm 10 ký tự, do cơ quan đăng ký kinh doanh cấp.
+
+Đối với các đơn vị có quan hệ với ngân sách theo Thông tư số 185/2015/TT-BTC hướng dẫn đăng ký, cấp và sử dụng mã số đơn vị có quan hệ với ngân sách, sử dụng mã quan hệ ngân sách gồm 7 ký tự do cơ quan tài chính cấp.
+
+ĐT là mã đối tượng của người tham gia bảo hiểm y tế, gồm 2 ký tự chữ và được quản lý trong cơ sở dữ liệu của cơ quan Bảo hiểm xã hội.
+
+LH là mã loại hình sản xuất kinh doanh, gồm 3 ký tự, được ban hành tại Quyết định số 27/2018/QĐ-TTg của Thủ tướng Chính phủ ban hành hệ thống ngành kinh tế Việt Nam.
+
+Đối với các đơn vị thu hộ, bộ mã quản lý bao gồm: ĐD là mã định danh đơn vị, ghi trên các biểu mẫu giao dịch hành chính; TH là tên viết tắt của tổ chức thu hộ, được quản lý trong cơ sở dữ liệu của bảo hiểm xã hội.
+
+HC là mã đơn vị hành chính, gồm 7 ký tự (2 ký tự là mã đơn vị hành chính cấp tỉnh, 5 ký tự là mã đơn vị hành chính cấp xã) theo Quyết định số 19/2025/QĐ-TTg của Thủ tướng Chính phủ; DT là mã điểm thu, gồm 3 ký tự (bắt đầu từ 001 đến 999), đại diện cho từng điểm thu cụ thể.
+
+Bảo hiểm xã hội Việt Nam giao Ban Quản lý thu và phát triển người tham gia, phối hợp với các đơn vị trực thuộc ngành hướng dẫn, đôn đốc, kiểm tra, giám sát Bảo hiểm xã hội tỉnh/Bảo hiểm xã hội cơ sở tổ chức thực hiện.
+
+Trung tâm Công nghệ thông tin và Chuyển đổi số cập nhật, chỉnh sửa, nâng cấp các chức năng phần mềm, biểu mẫu, quy trình nghiệp vụ để đảm bảo thực hiện chuyển đổi đồng bộ, thống nhất trên toàn hệ thống.
+
+Đồng thời, đảm bảo liên thông dữ liệu giữa các phần mềm nghiệp vụ trong công tác thu, cấp sổ bảo hiểm xã hội, thẻ bảo hiểm y tế và thanh toán chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Ban Thực hiện chính sách bảo hiểm y tế hướng dẫn cơ sở khám chữa bệnh bảo hiểm y tế thực hiện tra cứu đầy đủ về mức hưởng bảo hiểm y tế theo quy định của pháp luật, tương ứng với từng mã đối tượng và mức hưởng (%) trên thẻ bảo hiểm y tế.
+
+Bảo hiểm xã hội quân đội, Công an nhân dân chủ động xây dựng bộ mã quản lý riêng theo quy định, gửi Bảo hiểm xã hội Việt Nam để thống nhất sử dụng trên toàn quốc.
+
+Trong thời gian chờ hoàn thiện phần mềm, Bảo hiểm xã hội Việt Nam cho phép tiếp tục sử dụng mã số bảo hiểm xã hội đã cấp (10 số) và bộ mã quản lý hiện hành để phục vụ công tác quản lý, phân loại, tra cứu thông tin nghiệp vụ liên quan đến cá nhân, đơn vị tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Việc chuyển đổi sẽ được thực hiện theo lộ trình thống nhất, bảo đảm không ảnh hưởng đến quyền lợi của người tham gia, thụ hưởng chính sách.

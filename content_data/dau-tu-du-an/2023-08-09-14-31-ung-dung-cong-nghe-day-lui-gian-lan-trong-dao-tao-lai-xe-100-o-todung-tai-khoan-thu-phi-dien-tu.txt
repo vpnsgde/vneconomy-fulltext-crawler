@@ -1,0 +1,37 @@
+Đề án tập trung phân tích, đánh giá hiện trạng ứng dụng công nghệ thông tin đối với lĩnh vực đường bộ, từ đó, đề ra các quan điểm chỉ đạo và mục tiêu để tăng cường ứng dụng công nghệ thông tin và chuyển đổi số trong lĩnh vực đường bộ giai đoạn 2023 - 2025, định hướng đến 2030.
+
+Thời gian qua, Cục Đường bộ Việt Nam tích cực xây dựng và đưa vào vận hành một số ứng dụng công nghệ thông tin bước đầu đạt được một số kết quả nhất định, các ứng dụng hầu hết được triển khai ở quy mô toàn quốc phục vụ công tác quản lý vận tải, đào tạo sát hạch, quản lý giấy phép lái xe, đặc biệt là các dịch vụ công phục vụ công tác cải cách hành chính và hướng tới tạo thuận lợi cho người dân và doanh nghiệp.
+
+Phát biểu tại hội nghị lấy ý kiến về đề án này gần đây, ông Lê Thanh Tùng, Giám đốc Trung tâm công nghệ thông tin (Bộ Giao thông vận tải), khẳng định đường bộ tác động lớn đến người dân và doanh nghiệp, chúng ta bước ra đường là đã sử dụng ngay đến dịch vụ liên quan đến đường bộ.
+
+Do đó, "trong thời gian qua, Cục tích cực triển khai các hệ thống công nghệ thông tin phục vụ cho công tác quản lý, điều hành của Cục, của các sở giao thông vận tải, đồng thời phục vụ công tác cho người dân và doanh nghiệp, chia sẻ dữ liệu này với các cơ quan quản lý nhà nước khác trong việc phát triển kinh tế số, hệ thống số”, ông Tùng nhấn mạnh.
+
+Để đẩy nhanh tiến trình chuyển đổi số trong lĩnh vực đường bộ giai đoạn tới, Bộ Giao thông vận tải yêu cầu các nhiệm vụ của Đề án được xây dựng phải có tính tổng thể, được triển khai theo lộ trình, kế thừa cơ sở dữ liệu và hạ tầng công nghệ thông tin hiện có.
+
+Có thể sử dụng, khai thác dữ liệu để thực hiện phân tích dự báo, tạo lập số liệu để hỗ trợ cho các quyết định chính sách và phục vụ công tác quản lý, điều hành của Cục Đường bộ Việt Nam và các sở giao thông vận tải.
+
+Theo đề án, đến năm 2025, 100% thủ tục hành chính lĩnh vực đường bộ đủ điều kiện được cung cấp dưới dạng dịch vụ công trực tuyến toàn trình; 100% hồ sơ thủ tục hành chính giải quyết thuộc thẩm quyền giải quyết của Cục Đường bộ Việt Nam được quản lý theo dõi tiến độ xử lý trên hệ thống thông tin giải quyết thủ tục hành chính Bộ Giao thông vận tải; tối thiểu 50% hồ sơ thủ tục hành chính được người dân và doanh nghiệp thực hiện trực tuyến từ xa.
+
+Đối với các hoạt động quản lý chuyên ngành sẽ hình thành các cơ sở dữ liệu tập trung, thống nhất trong toàn quốc để hỗ trợ cơ quan quản lý nhà nước trong việc ra các quyết định chính sách, xử lý vi phạm trong các lĩnh vực quản lý đường bộ để đảm bảo tính nghiêm minh của pháp luật; chia sẻ, kết nối và liên thông dữ liệu với các bộ, ngành, địa phương để phục vụ công tác quản lý nhà nước.
+
+Cùng với đó, 100% dữ liệu kết cấu hạ tầng giao thông đường bộ do Trung ương quản lý được thu thập và cập nhật vào cơ sở dữ liệu để phục vụ công tác theo dõi, thống kê, xây dựng chính sách, lập quy hoạch, kế hoạch đầu tư công, phê duyệt dự án bảo trì; phấn đấu 100% hồ sơ hoàn công trong xây dựng, sửa chữa được cập nhật và số hoá; tối thiểu 10% khối lượng kế hoạch bảo trì được lập tự động thông qua cơ sở dữ liệu trên hệ thống.
+
+Quyết định số 965 cũng đặt mục tieu cơ bản hoàn thành kết nối cơ sở dữ liệu kết cấu hạ tầng giao thông đường bộ do địa phương quản lý (đối với các địa phương đã sẵn sàng) phục vụ công tác thống kê, xây dựng chính sách, lập quy hoạch, kế hoạch đầu tư công để phát triển kết cấu hạ tầng giao thông đường bộ.
+
+Cũng tại Quyết định số 965, Bộ Giao thông vận tải đề nghị hoàn chỉnh các hệ thống công nghệ thông tin quản lý hoạt động vận tải phục vụ công tác quản lý nhà nước, tự động tổng hợp các lỗi vi phạm của đơn vị kinh doanh vận tải, xe kinh doanh vận tải, lái xe để hỗ trợ cơ quan quản lý nhà nước trong công tác thanh tra, kiểm tra, xử lý vi phạm của doanh nghiệp, phương tiện, người điều khiển phương tiện kinh doanh vận tải.
+
+Hình thành cơ sở dữ liệu chuyên ngành về vận tải đường bộ và dịch vụ hỗ trợ vận tải đường bộ gồm: đơn vị kinh doanh vận tải, bến xe, phương tiện và lái xe kinh doanh vận tải để phục vụ công tác xây dựng chiến lược, cơ chế chính sách thúc đẩy phát triển hoạt động vận tải đường bộ an toàn, tin cậy và thân thiện với môi trường.
+
+
+
+"Hoàn chỉnh các hệ thống công nghệ thông tin quản lý hoạt động đào tạo, sát hạch, cấp giấy phép lái xe để quản lý cơ sở đào tạo, trung tâm sát hạch lái xe trong việc nâng cao chất lượng công tác đào tạo, sát hạch cấp, đổi giấy phép lái xe, đảm bảo công khai, minh bạch, chống gian lận, tiêu cực", Quyết định số 965 nêu rõ.
+
+Tự động hóa các công tác liên quan đến kiểm tra, giám sát, xử lý vi phạm đối với doanh nghiệp, phương tiện và người lái xe tham gia kinh doanh vận tải; cơ sở đào tạo, sát hạch lái xe, học viên học lái xe thông qua các hệ thống thiết bị và phần mềm ứng dụng công nghệ thông tin; lập kế hoạch quản lý bảo trì, sửa chữa các tài sản kết cấu hạ tầng giao thông đường bộ
+
+Hình thành cơ sở dữ liệu chuyên ngành về đào tạo, sát hạch cấp, đổi giấy phép lái xe để quản lý thống nhất trong toàn quốc; chia sẻ, kết nối dữ liệu giấy phép lái xe với cơ sở dữ liệu quốc gia về dân cư để tạo điều kiện thuận lợi cho người dân trong quá trình cấp, đổi giấy phép lái xe và tham gia giao thông.
+
+Mục tiêu đến năm 2030, các hoạt động quản lý, điều hành của Cục Đường bộ Việt Nam được chuyển đổi số một cách toàn diện để có thể triển khai vận hành chủ yếu trên môi trường trực tuyến.
+
+Hệ thống giao thông thông minh được triển khai trên hệ thống đường bộ cao tốc và các đô thị, có sự kết nối với các lĩnh vực khác.
+
+"Tiến tới không sử dụng tiền mặt trong giao dịch hoạt động giao thông đường bộ; 100% phương tiện ô tô sử dụng tài khoản thu phí điện tử để thanh toán đa mục đích cho các dịch vụ giao thông đường bộ", đề án nêu rõ.

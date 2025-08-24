@@ -1,0 +1,35 @@
+Nếu làn sóng AI đầu tiên bị chi phối bởi các mô hình tổng quát phục vụ số đông, thì làn sóng tiếp theo đang cho thấy sự thay đổi đáng kể: AI ngành dọc (vertical AI) - AI dành cho từng lĩnh vực/ chuyên ngành đặc thù như chăm sóc sức khỏe, năng lượng, sản xuất, công nghệ ô tô,… đang dần khẳng định vị thế.
+
+Cũng theo nhiều chuyên gia công nghệ, đây chính là khu vực tạo ra giá trị kinh tế lớn tiếp theo trong hành trình thương mại hóa AI. AIM Research ước tính quy mô thị trường Vertical AI toàn cầu sẽ vượt 100 tỷ USD vào năm 2032.
+
+AI NGÀNH DỌC (VERTICAL AI) LÊN NGÔI
+
+Từ các hệ thống hỗ trợ chẩn đoán y khoa, quản lý vận hành trong nhà máy thông minh, đến trợ lý tài chính tại các ngân hàng…, AI đang được “cá nhân hóa” cho từng lĩnh vực chuyên biệt. Theo Gartner, đến năm 2026, 80% doanh nghiệp sẽ áp dụng các tác nhân AI (AI Agents) theo ngành dọc.
+
+Sự dịch chuyển này mở ra cơ hội cho những doanh nghiệp không chỉ mạnh về công nghệ, hạ tầng tính toán, giải pháp mà còn có khả năng hiểu sâu bài toán của từng ngành, từng lĩnh vực, triển khai nhanh và linh hoạt để tạo ra các tác nhân AI - các đồng nghiệp số đồng hành cùng con người gia tăng năng suất, hiệu quả và chất lượng công việc.
+
+Với năng lực công nghệ AI toàn diện - từ hạ tầng đến mô hình - cùng kinh nghiệm xử lý bài toán đặc thù tại nhiều thị trường trong và ngoài nước, FPT đang đón đầu xu hướng này bằng những cách tiếp cận thực tế, tập trung vào giá trị cụ thể cho khách hàng, giải các bài toán lớn trên toàn cầu.
+
+FPT VÀ HÀNH TRÌNH NẮM BẮT CƠ HỘI AI NGÀNH DỌC
+
+Tại Nhật Bản - một trong những thị trường phát triển nhưng chịu nhiều áp lực từ hệ thống công nghệ kế thừa (Legacy System), nhiều doanh nghiệp vẫn đang vận hành trên nền tảng phần mềm được xây dựng từ hàng chục năm trước.
+
+Những hệ thống này gồm hàng triệu dòng mã cũ, gây ra các vấn đề như chi phí vận hành cao, hiệu suất thấp và rất khó tích hợp với công nghệ mới. Một doanh nghiệp bất động sản lớn tại Nhật Bản từng phải mất hàng tháng để xử lý dữ liệu nội bộ, do hệ thống lỗi thời, rời rạc và khó tự động hóa.
+
+Theo đó, FPT đã tham gia cùng doanh nghiệp tại Nhật Bản và một số quốc gia khác trong quá trình hiện đại hóa, tận dụng sức mạnh của các mô hình AI để đọc hiểu, phân tích mã nguồn cũ và tự động hóa quy trình xử lý dữ liệu.
+
+Đặc biệt, nhờ công nghệ xMainframe - nền tảng công nghệ do FPT phát triển, thời gian triển khai dự án được rút ngắn 30% nhờ khả năng hỗ trợ kỹ sư nhanh chóng nắm bắt công nghệ và hệ thống cũ với độ chính xác tới 90%. Kết quả, khách hàng có thể cập nhật dữ liệu hàng tuần thay vì hàng tháng, nâng cao đáng kể hiệu quả vận hành.
+
+Đây chỉ là một trong nhiều ví dụ cho thấy cách FPT đang tận dụng AI để giải bài toán thực tế và đặc thù trong từng ngành, từng lĩnh vực. “Chúng tôi đang tập trung vào phát triển AI chuyên biệt cho từng lĩnh vực đặc thù - những ngách sâu mà các doanh nghiệp khác chưa chạm tới và AI có thể tạo ra giá trị thực sự”, ông Phạm Minh Tuấn, Phó Tổng Giám đốc Tập đoàn FPT kiêm Tổng Giám đốc FPT Software, chia sẻ.
+
+Chẳng hạn như trong lĩnh vực sản xuất, FPT phát triển nền tảng I2 giúp doanh nghiệp giám sát chất lượng, dự đoán bảo trì và tối ưu hiệu suất vận hành thông qua phân tích dữ liệu dây chuyền bằng hình ảnh và âm thanh. Trong lĩnh vực tài chính - bảo hiểm, giải pháp Ivychat ứng dụng mô hình ngôn ngữ lớn (LLMs) để tự động hóa quy trình phân tích dữ liệu, hỗ trợ đánh giá khả năng bán hàng và quản lý dữ liệu hiệu quả.
+
+Hay trong lĩnh vực y tế, giải pháp CareMate với tính năng iTelemate do đội ngũ kỹ sư FPT xây dựng giúp bác sĩ nhanh chóng nắm bắt tình trạng bệnh nhân nhờ khả năng tóm tắt tiền sử khám chữa bệnh và phiên âm đa ngôn ngữ trong thời gian thực, giúp nâng cao chất lượng tư vấn và giao tiếp cá nhân hóa.
+
+Những giải pháp này không chỉ dựa trên năng lực công nghệ, mà còn phản ánh hiểu biết sâu sắc về nghiệp vụ ngành và nhu cầu đặc thù tại từng thị trường, từ đó tạo ra giá trị thực tiễn cho doanh nghiệp.
+
+Một trong những yếu tố quan trọng giúp FPT đón đầu được xu hướng AI đặc thù chính là nâng cao năng lực tổ chức từ bên trong. Doanh nghiệp đang từng bước tái thiết lực lượng lao động theo hướng kết hợp con người với AI, hình thành một “AI-augmented workforce” - nơi mỗi nhân viên đều có một “AI đồng hành” hỗ trợ tối ưu công việc hàng ngày - từ làm việc, sáng tạo đến giao tiếp và hòa nhập toàn cầu.
+
+Theo ông Tuấn, những năng lực như thấu cảm người dùng, cảm nhận văn hóa hay thiết kế trải nghiệm, AI hiện nay vẫn chưa thể làm tốt. Nhưng AI lại có thể trở thành nền tảng đào tạo, hỗ trợ và phát triển thế hệ nhân sự kiểu mới với tốc độ và năng suất vượt trội. Đó là cách con người và công nghệ cùng phát triển - không cạnh tranh, mà bổ trợ cho nhau, hướng đến mục tiêu nâng cao chất lượng cả công việc và cuộc sống.
+
+Có thể thấy, trong bức tranh toàn cầu đang dịch chuyển mạnh mẽ theo hướng AI đặc thù, FPT đang từng bước khẳng định vai trò tiên phong, bứt phá không chỉ bằng năng lực công nghệ, mà còn bằng tinh thần sẵn sàng chuyển mình từ con người đến tổ chức. Chính khả năng thích nghi này sẽ tạo ra lợi thế cạnh tranh bền vững, giúp doanh nghiệp vươn mình trong kỷ nguyên AI.

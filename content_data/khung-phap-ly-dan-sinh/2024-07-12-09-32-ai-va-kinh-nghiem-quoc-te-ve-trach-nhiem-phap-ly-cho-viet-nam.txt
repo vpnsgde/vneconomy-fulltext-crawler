@@ -1,0 +1,43 @@
+Phát biểu tại Hội thảo, Thứ trưởng Bộ Tư pháp Trần Tiến Dũng cho rằng chúng ta đang chứng kiến những tác động sâu rộng và mạnh mẽ của cuộc Cách mạng công nghiệp lần thứ tư (CMCN 4.0) với các công nghệ đột phá như: chuỗi khối (Blockchain), dữ liệu lớn (Big Data), rôbốt, Internet kết nối vạn vật (IoT), điện toán đám mây... trong đó nổi bật là sự bùng nổ của công nghệ Trí tuệ nhân tạo (AI).
+
+Sự phát triển và ứng dụng rộng rãi của công nghệ AI trong nhiều lĩnh vực như giao thông, y tế, tài chính, bán lẻ, quảng cáo… mang đến nhiều cơ hội cũng như thách thức, trong đó có những thách thức về mặt pháp lý như vấn đề an ninh, an toàn; vấn đề bảo vệ quyền riêng tư của mỗi cá nhân; vấn đề bảo vệ quyền sở hữu trí tuệ; vấn đề xây dựng tiêu chuẩn ngành; vấn đề xác định trách nhiệm pháp lý của các đối tượng liên quan đến AI.
+
+Ngày 26/1/2021, Thủ tướng Chính phủ đã ban hành Quyết định số 127/QĐ-TTg về Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng Trí tuệ nhân tạo đến năm 2030, trong đó, Bộ Tư pháp được giao nhiệm vụ xây dựng và hoàn thiện bổ sung các văn bản pháp luật về trách nhiệm pháp lý của các đối tượng liên quan tới trí tuệ nhân tạo.
+
+Thứ trưởng Trần Tiến Dũng nhấn mạnh rằng để xây dựng và hoàn thiện bổ sung các văn bản pháp luật về trách nhiệm pháp lý của các đối tượng liên quan tới trí tuệ nhân tạo, chúng ta cần hiểu rõ những rủi ro mà Trí tuệ nhân tạo mang lại; tham khảo kinh nghiệm quốc tế trong đó có kinh nghiệm của Liên minh châu Âu và CHLB Đức trong việc ban hành hoặc sửa đổi, bổ sung các văn bản quy phạm pháp luật có liên quan đến trách nhiệm pháp lý của các đối tượng liên quan tới trí tuệ nhân tạo.
+
+Theo báo cáo, trên toàn cầu, quy mô thị trường trong thị trường AI được dự đoán đạt 184 tỷ USD vào năm 2024. Quy mô thị trường dự kiến sẽ có tốc độ tăng trưởng hàng năm (CAGR 2024-2030) là 28,46%; giá trị thị trường là 826,7 tỷ USD vào năm 2030.
+
+Ở Việt Nam, ngành y tế đang dần ứng dụng AI vào nhiều hoạt động như khám chữa bệnh, chuẩn đoán bệnh và quản lý bệnh nhân. Ngành ngân hàng là một trong những ngành tiên phong trong việc thử nghiệm và ứng dụng AI.
+
+Trong lĩnh vực giao thông vận tải, AI được sử dụng trong quản lý giao thông như hệ thống giao thông thông minh giám sát an ninh công cộng, cảnh báo ùn tắc, phát hiện vi phạm giao thông, đếm phương tiện giao thông…
+
+Trong lĩnh vực thương mại điện tử, AI giúp phân tích hành vi của khách hàng để đưa ra đề xuất sản phẩm được cá nhân hóa, nâng cao trải nghiệm mua sắm và thúc đẩy doanh số bán hàng…
+
+Trên thế giới, hiện nay một số nước đã xây dựng khung thể chế quản lý AI như Mỹ ban hành Chiến lược quốc gia về AI và các sắc lệnh hành pháp như hỗ trợ các quy định về an ninh mạng, bảo mật dữ liệu...; khung quản lý rủi ro AI; tiêu chuẩn hóa AI.
+
+Singapore cũng đã ban hành Chiến ược AI quốc gia phiên bản thứ 2, khung quản trị AI, khung đánh giá AI, khung quản trị mô hình AI sáng tạo...
+
+So với thế giới, Việt Nam còn thiếu các quy định về kế hoạch hành động quốc gia, quy tắc đạo đức AI, khung quản trị AI; khung thẩm định, đánh giá sản phẩm AI; cơ chế thử nghiệm AI; tiêu chuẩn, quy chuẩn AI; các luật/thể chế liên quan đến AI; chính sách thúc đẩy phát triển AI...
+
+Do đó, các chuyên gia kiến nghị chính sách thúc đẩy phát triển AI bao gồm hạ tầng, dữ liệu trí tuệ nhân tạo, thu hút nhân lực chất lượng cao.
+
+Đặc biệt là khuyến khích doanh nghiệp công nghệ số trong lĩnh vực AI tham gia cơ chế thử nghiệm để đảm bảo môi trường cho đổi mới sáng tạo và hạn chế rủi ro đối với xã hội.
+
+Đồng thời có quy định hướng dẫn với mô hình AI sáng tạo như trách nhiệm giải trình, bảo vệ dữ liệu cá nhân, dán nhãn sản phẩm công nghệ số tạo ra bởi AI...
+
+Theo bà Lê Thị Vân Anh, Vụ phó Vụ Pháp luật hình sự-hành chính, Bộ Tư pháp, liên quan đến AI có 4 đối tượng liên quan bao gồm (1) chủ thể tạo ra AI những người lập trình, tác giả thiết kể ra phần mềm, (2) chủ sở hữu AI là các nhà sản xuất, nhà đầu tư, (3) người sử dụng là những người đưa AI vào vận hành, giám sát quá trình hoạt động và cuối cùng là (4) bản thân, thực thể AI.
+
+Trong trường hợp những người sản xuất chế tạo, người sở hữu sản phẩm và người sử dụng sản phẩm AI sử dụng AI vào thực hiện thành vi phạm tội thì những đối tượng này phải chịu trách nhiệm hình sự.
+
+Bộ luật Hình sự năm 2015 đã quy định một số tội phạm trong lĩnh vực công nghệ thông tin trong đó có liên quan đến AI.
+
+Cụ thể, Điều 285 quy định tội Sản xuất, mua bán, trao đổi hoặc tặng cho công cụ, thiết bị, phần mềm để sử dụng vào mục đích trái pháp luật, Điều 286 quy định tội Phát tán chương trình tin học gây hại cho hoạt động của mạng máy tính, mạng viễn thông, phương tiện điện tử; Điều 287 tội Cản trở gây rối loạn hoạt động mạng máy tính, mạng viễn thông, phương tiện điện tử người khác; Điều 289 tội Xâm nhập trái phép vào mạng máy tính, mạng viễn thông, phương tiện điện tử; Điều 290 tội Sử dụng mạng máy tính, mạng viễn thông, phương tiện điện tử thực hiện hành vi chiếm đoạt tài sản.
+
+Tuy nhiên, với các trường hợp trực tiếp đưa AI vào phạm tội thì pháp luật hình sự hiện tại chưa quy định. Do đó, theo bà Lê Thị Vân Anh, những người liên quan đến AI bao gồm người sáng tạo, người sở hữu, người sử dụng sẽ là chủ thể phạm tội, chịu chế tài xử lý hình sự.
+
+Pháp luật hình sự cần quy định cụ thể để trực tiếp xử lý hành vi liên quan AI như hành vi sản xuất, thiết kế, lập trình sản phẩm AI nhằm mục đích dùng vào thực hiện tội phạm, hành vi sử dụng sản phẩm AI thực hiện hành vi phạm tội.
+
+Từ đó, bà Lê Thị Vân Anh cho rằng có thể quy định sử dụng sản phẩm trí tuệ nhân tạo thực hiện hành vi phạm tội là tình tiết tăng nặng trách nhiệm hình sự. Với hướng quy định này, có thể áp dụng với bất cứ tội danh nào được quy định trong Bộ luật Hình sự.
+
+Cùng với đó, có thể nghiên cứu quy định phân hóa trách nhiệm hình sự trong trường hợp sử dụng AI để phạm tội như vấn đề đồng phạm, phạm tội có tổ chức…

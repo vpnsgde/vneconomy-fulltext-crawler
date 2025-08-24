@@ -1,0 +1,23 @@
+Nguồn tin bao gồm một quan chức Mỹ nói Nvidia và AMD đã đồng ý với thỏa thuận tài chính này như một điều kiện để được Chính phủ Mỹ cấp giấy phép xuất khẩu chip sang thị trường Trung Quốc, và giấy phép đó đã được cấp vào tuần trước.
+
+Vị quan chức Mỹ này cho biết Nvidia đã đồng ý chia sẻ 15% doanh thu từ việc bán chip H20 tại Trung Quốc và AMD sẽ chia sẻ tỷ lệ tương tự từ doanh thu chip MI308. Hai nguồn thạo tin về thỏa thuận này cho biết chính quyền ông Trump vẫn chưa xác định cách sử dụng số tiền này.
+
+Hôm thứ Sáu vừa rồi, Financial Times đưa tin rằng Bộ Thương mại Mỹ đã bắt đầu cấp giấy phép xuất khẩu chip H20 cho Nvidia vào cùng ngày. Động thái này diễn ra 2 ngày sau khi CEO Nvidia Jensen Huang có cuộc gặp với Tổng thống Trump. Vị quan chức Mỹ này cho biết chính quyền cũng đã bắt đầu cấp giấy phép cho cho AMD bán chip MI308 cho Trung Quốc.
+
+Thỏa thuận có đi có lại này là chưa từng có tiền lệ. Theo các chuyên gia kiểm soát xuất khẩu, chưa từng có công ty Mỹ nào đồng ý nộp một phần doanh thu của họ cho Chính phủ Mỹ để xin giấy phép xuất khẩu. Tuy nhiên, thỏa thuận này được xem là phù hợp với mô hình của chính quyền ông Trump, mà ở đó vị Tổng thống kêu gọi các công ty thực hiện các biện pháp có lợi cho Mỹ, chẳng hạn như đầu tư trong nước, để tránh bị áp thuế quan. Ông Trump tin rằng cách làm này sẽ giúp mang lại việc làm và nguồn thu tài chính cho nước Mỹ.
+
+Các nhà phân tích của công ty Bernstein ước tính rằng, dựa trên dự báo doanh thu của Nvidia trước khi các biện pháp kiểm soát xuất khẩu của Mỹ có hiệu lực vào đầu năm nay, hãng này sẽ bán được khoảng 1,5 triệu đơn vị sản phẩm chip H20 cho Trung Quốc trong năm 2025, mang về doanh thu khoảng 23 tỷ USD.
+
+Việc Nvidia đi đến thỏa thuận chia sẻ doanh thu với Chính phủ Mỹ diễn ra sau nhiều tranh cãi về chip H20. Nvidia đã điều chỉnh loại chip này để tạo ra một sản phẩm dành riêng cho thị trường Trung Quốc sau khi Tổng thống Joe Biden - người tiền nhiệm của ông Trump - áp các biện pháp kiểm soát xuất khẩu chặt chẽ đối với các loại chip tiên tiến được sử dụng cho công nghệ trí tuệ nhân tạo (AI).
+
+Hồi tháng 4 năm na, chính quyền ông Trump tuyên bố sẽ cấm xuất khẩu H20 sang Trung Quốc. Tuy nhiên, ông Trump đã thay đổi quyết định vào tháng 6 sau khi CEO Huang tới gặp ông tại Nhà Trắng. Trong những tuần tiếp theo, Nvidia bất an vì Cục Công nghiệp và An ninh (BIS), cơ quan thuộc Bộ Thương mại Mỹ chuyên nhiệm vụ điều hành các biện pháp kiểm soát xuất khẩu, đã không cấp bất kỳ giấy phép nào.
+
+Theo nguồn thạo tin, trong cuộc gặp ông Trump vào hôm thứ Tư tuần vừa rồi, ông Huang đã nêu vấn đề này và BIS bắt đầu cấp giấy phép vào thứ Sáu.
+
+Thỏa thuận chia sẻ về doanh thu chip H20 được đưa ra trong bối cảnh Nvidia và chính quyền ông Trump đang phải đối mặt với những lời chỉ trích về quyết định bán chip cho Trung Quốc. Các chuyên gia an ninh Mỹ cho rằng H20 sẽ giúp Trung Quốc phát triển công nghệ quân sự, đồng thời làm suy yếu vị thế của Mỹ trong lĩnh vực AI. Trong một bức thư gần đây gửi Bộ trưởng Bộ Thương mại Mỹ Howard Lutnick, ông Matt Pottinger - một chuyên gia về Trung Quốc, từng là Phó cố vấn an ninh quốc gia trong nhiệm kỳ đầu của Trump - và 19 chuyên gia an ninh khác đã kêu gọi Mỹ không cấp giấy phép cho Nvidia bán chip H20 cho Trung Quốc.
+
+Trong thư, các chuyên gia này nói rằng chip H20 sẽ là “một động lực mạnh mẽ thúc đẩy năng lực AI của Trung Quốc” và rốt cục sẽ được quân đội Trung Quốc sử dụng. Nvidia nói những đánh giá này là “sai lầm” và bác bỏ quan điểm cho rằng Trung Quốc có thể sử dụng H20 cho mục đích quân sự.
+
+Trong một tuyên bố hôm thứ Bảy, Nvidia nói: “Mặc dù chúng tôi đã không xuất khẩu H20 sang Trung Quốc trong nhiều tháng, nhưng chúng tôi hy vọng các quy định kiểm soát xuất khẩu sẽ cho phép Mỹ cạnh tranh ở Trung Quốc và trên toàn thế giới. Mỹ không thể lặp lại sai lầm về 5G và đánh mất vị thế dẫn đầu về viễn thông. Nền tảng công nghệ AI của Mỹ có thể trở thành tiêu chuẩn của thế giới nếu chúng ta cạnh tranh”.
+
+Cuộc tranh luận tại Washington về chính sách kiểm soát xuất khẩu chip diễn ra trong bối cảnh Mỹ và Trung Quốc đang tiến hành đàm phán thương mại, với khả năng sẽ có một cuộc gặp thượng đỉnh giữa ông Trump với Chủ tịch Trung Quốc tập Cận Bình. Mới đây, Financial Times có một bài viết nói rằng Mỹ đã đóng băng các biện pháp kiểm soát xuất khẩu mới đối với Trung Quốc để tạo điều kiện thuận lợi cho đàm phán thương mại.

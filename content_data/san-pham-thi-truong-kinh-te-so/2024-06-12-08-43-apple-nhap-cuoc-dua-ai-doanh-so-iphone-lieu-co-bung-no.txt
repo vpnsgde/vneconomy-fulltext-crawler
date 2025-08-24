@@ -1,0 +1,31 @@
+Tại WWDC 2024 - sự kiện công nghệ lớn nhất trong năm của Apple diễn ra rạng sáng 11/6 ở Mỹ, Apple Intelligence đã được gã khổng lồ giới thiệu lần đầu tiên. Đây là hệ thống trí tuệ cá nhân dành cho iPhone, iPad và máy Mac. CEO Tim Cook gọi đây là "chương mới của Apple" và hứa hẹn thay đổi hoàn toàn cách người dùng sử dụng sản phẩm.
+
+Ở trình soạn thảo, người dùng có thể yêu cầu AI sửa lỗi, tạo các phiên bản email theo phong cách khác nhau, tóm tắt email nhận được hoặc hiểu nội dung để đưa ra lời nhắc kịp thời. Với hình ảnh, Apple Intelligence hỗ trợ tạo các biểu tượng cảm xúc riêng bằng Genmoji, tạo ảnh chân dung của bạn bè bằng Image Playground để đưa vào các cuộc trò chuyện hoặc ghi chú.
+
+Được hỗ trợ bởi Apple Intelligence, Siri được tích hợp sâu hơn vào trải nghiệm hệ thống. Với khả năng hiểu ngôn ngữ phong phú hơn, Siri trở nên tự nhiên hơn, phù hợp hơn với ngữ cảnh và cá nhân hóa hơn, đồng thời có khả năng đơn giản hóa và tăng tốc các tác vụ hàng ngày. Người dùng có thể chuyển đổi giữa văn bản và giọng nói để giao tiếp với Siri.
+
+Apple cũng đang tích hợp quyền truy cập ChatGPT vào các phiên bản cập nhật của hệ điều hành iOS 18, iPadOS 18 và macOS Sequoia. Khi người dùng đặt một câu hỏi cho Siri, Siri sẽ tự động cung cấp thông tin đó cho ChatGPT để có câu trả lời sau khi người dùng cho phép làm như vậy. Ngoài OpenAI, Apple cũng sẽ hợp tác với các bên khác bao gồm mô hình Gemini của Google.
+
+Đối mặt với sự sụt giảm chi tiêu của người tiêu dùng và sự trỗi dậy của các đối thủ công nghệ, Apple đã tìm đến AI như một cách để thúc đẩy những người hâm mộ với hơn 1 tỷ khách hàng, đảo ngược tình trạng sụt giảm doanh số trong dòng sản phẩm bán chạy nhất của hãng.
+
+Một số dự đoán chu kỳ nâng cấp lớn nhất sẽ diễn ra vào mùa thu kể từ khi Apple phát hành iPhone mới, tương tự như iPhone 12 ra mắt vào năm 2020 thu hút lượng lớn người tiêu dùng một phần nhờ kết nối 5G.
+
+Nhà phân tích Gil Luria tại Davidson đánh giá: “Công ty đã giới thiệu Apple Intelligence, sử dụng AI có khả năng tạo ra văn bản, hình ảnh, các biểu tượng cảm xúc tùy chỉnh, một phim hoạt hình để nhắn tin cho bạn bè hoặc chỉnh sửa để khiến email nghe chuyên nghiệp hơn. Trợ lý kỹ thuật số Siri của nó có thể nhắc nhở người dùng nếu họ cũng muốn ChatGPT trợ giúp.”
+
+Tuy nhiên ông cùng một số nhà phân tích tỏ ra hoài nghi, dự đoán người tiêu dùng sẽ không chạy đua đến các cửa hàng Apple để có thêm AI trên điện thoại của họ.
+
+Nhà phân tích Dipanjan Chatterjee của Forrester cho biết: “AI chỉ có thể hạn chế một phần doanh thu thiết bị đang bị sụt giảm gần đây của Apple, nhưng không đủ để tạo ra một nhóm các khách hàng tiềm năng mới.”
+
+Tejas Dessai của Global X nói thêm: "Các nhà đầu tư rõ ràng muốn có một chiến lược toàn diện và tham vọng hơn từ Apple khi nói đến AI."Cổ phiếu của công ty đã giảm 2% sau sự kiện này.
+
+Dù muốn hay không, các tính năng AI của Apple sẽ không xuất hiện trên mọi thiết bị iPhone. Công ty cho biết khách hàng sử dụng điện thoại thông minh phải nâng cấp lên iPhone 15 Pro hoặc Pro Max mà Apple bắt đầu bán vào tháng 9 năm 2023. AI, được xây dựng để có thể xử lý dữ liệu riêng tư trên thiết bị của người dùng phụ thuộc vào chip trong điện thoại thông minh mới hơn của Apple.
+
+Theo quan điểm của nhà phân tích Dan Ives của Wedbush Securities, điều đó thể hiện một cơ hội lớn. Ông ước tính khoảng 270 triệu chiếc iPhone đã không được nâng cấp trong 4 năm.
+
+Ives cho biết: “Chúng tôi ước tính hơn 15% khách hàng của Apple sẽ nâng cấp lên iPhone 16 vì Apple Intelligence là ứng dụng ‘sát thủ’ mà nhiều người đã chờ đợi”. Dự kiến, iPhone 16 sẽ ra mắt vào mùa thu năm nay.
+
+Gene Munster, một đối tác quản lý tại Deepwater Asset Management, cho biết một điểm nổi bật khác của Apple là khả năng tích hợp dễ sử dụng với ChatGPT. Ông nói: “Họ thực sự đang loại bỏ những trở ngại khi sử dụng AI.Báo cáo thường niên mới nhất của công ty cho thấy doanh thu từ iPhone của Apple trong năm tài chính kết thúc vào tháng 9 năm 2023 là 200,6 tỷ USD, giảm so với 205,5 tỷ USD của năm trước.
+
+Tuy nhiên, AI chỉ là một phần trong sức hút của Apple đối với người tiêu dùng. Ông Martin Yang của Oppenheimer & Co cho biết chủ yếu họ có thể muốn màn hình iPhone lớn hơn hoặc camera tốt hơn, nhưng các bản cập nhật AI sẽ thu hút những người dùng nhờ khả năng thao tác bằng trí tuệ nhân tạo trên các ứng dụng.
+
+Yang nói: “Những thao tác đó sẽ khiến Apple ngay lập tức trở thành người dẫn đầu về AI dành cho người tiêu dùng”.

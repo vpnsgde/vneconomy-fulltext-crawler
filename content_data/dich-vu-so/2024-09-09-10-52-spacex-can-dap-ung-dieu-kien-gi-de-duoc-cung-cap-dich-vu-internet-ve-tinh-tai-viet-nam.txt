@@ -1,0 +1,27 @@
+Gần đây nhất, hôm 6/9/2024, Thủ tướng Phạm Minh Chính đã có buổi tiếp Phó Chủ tịch cấp cao phụ trách quan hệ Chính phủ và kinh doanh toàn cầu của Tập đoàn SpaceX (Hoa Kỳ) Tim Hughes. Tại buổi tiếp, ông Tim Hughes bày tỏ SpaceX mong muốn đầu tư, cung cấp dịch vụ Internet vệ tinh Starlink tại Việt Nam, đồng thời đề nghị Việt Nam chuẩn bị hạ tầng và các điều kiện cần thiết khác để dự án phát huy hiệu quả cao, góp phần cùng Việt Nam phủ sóng Internet đến 100% dân số.
+
+Trước đó, sáng cùng ngày 6/9, trong buổi tiếp vị Phó Chủ tịch cấp cao phụ trách quan hệ Chính phủ và kinh doanh toàn cầu của Tập đoàn SpaceX, Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng và ông Tim Hughes cũng đã trao đổi, thảo luận về những cơ hội hợp tác giữa SpaceX và các nhà mạng Việt Nam về phủ sóng Internet vệ tinh. Và Bộ trưởng Hùng cho biết Bộ Thông tin và Truyền thông sẵn sàng hỗ trợ, đồng hành, tạo điều kiện thuận lợi trong quá trình hoạt động đầu tư, kinh doanh của SpaceX tại Việt Nam.
+
+Không phải giờ lãnh đạo SpaceX mới có các cuộc tiếp xúc với Chính phủ và cơ quan quản lý và bày tỏ mong muốn đầu tư kinh doanh tại Việt Nam. Khoảng 4 năm trước, công ty Space X của tỷ phú Elon Musk đã “đánh tiếng” và tiếp cận với đơn vị phụ trách viễn thông của Việt Nam, và đề nghị giới thiệu về dự án phủ sóng Internet bằng vệ tinh Starlink cũng như tìm hiểu về các quy định pháp lý cần thực hiện trong trường hợp Starlink muốn tiến hành cung cấp dịch vụ tại thị trường Việt Nam.
+
+Một hai năm qua, lãnh đạo cấp cao của SpaceX cũng có các cuộc gặp gỡ với Chính phủ và chia sẻ mong muốn đầu tư và kinh doanh dịch vụ Intetnet vệ tinh tại Việt Nam. Dù vậy, đến nay, việc hiện diện dịch vụ Internet vệ tinh Starlink của SpaceX tại thị trường Việt vẫn còn ở phía trước.
+
+Internet vệ tinh hiện là xu hướng công nghệ viễn thông mới của thế giới, có thể khắc phục những hạn chế của truyền tải Internet mặt đất nhờ vùng phủ sóng lớn, băng thông cao và tốc độ mạng nhanh. Vậy, để cung cấp dịch vụ Internet vệ tinh tại Việt Nam, SpaceX cần đáp ứng những điều kiện gì?
+
+Theo Luật viễn thông 24/2023/QH15, để được cấp phép đầu tư kinh doanh dịch vụ Internet, SpaceX hay bất cứ các doanh nghiệp nước ngoài nào cũng cần tuân thủ quy định của pháp luật Việt Nam và các cam kết quốc tế (WTO, AFAS,...) mà Việt Nam là thành viên.
+
+Hiện nay Nghị định và Thông tư để hướng dẫn thực thi các chính sách mới của Luật Viễn thông sửa đổi chỉ mới được trình Chính phủ. Vì vậy, căn cứ theo quy định hiện hành, nếu SpaceX muốn đề nghị cấp phép dịch vụ Internet vệ tinh Starlink, tập đoàn này sẽ cần hợp liên doanh hợp tác với doanh nghiệp Việt Nam như Viettel, VinaPhone hay MobiFone,...
+
+Hoặc SpaceX phải có thoả thuận thương mại với doanh nghiệp Việt Nam đã được cấp phép cung cấp dịch vụ viễn thông với phương thức truyền dẫn qua vệ tinh. Hiện nay VNPT là đơn vị duy nhất của Việt Nam sở hữu mạng thông tin vệ tinh.
+
+Ngoài ra, khi liên doanh hợp tác, SpaceX cũng cần đảm bảo tỷ lệ góp vốn phù hợp với các quy định của pháp luật Việt Nam và điều ước quốc tế. Theo đó, cam kết quốc tế WTO, VKFTA, VJEPA,... cho phép phần vốn góp của phía nước ngoài trong liên doanh không vượt quá 49% vốn pháp định của liên doanh. Tuy nhiên, theo quy định của Việt Nam, thực tế SpaceX sẽ không được sở hữu trên 20% vốn điều lệ hoặc cổ phần của doanh nghiệp liên doanh.
+
+Bên cạnh các điều kiện theo quy định của pháp luật về đầu tư, SpaceX cũng cần nghiên cứu bảo đảm tuân thủ các quy định khác để đảm bảo phát triển bền vững, bảo vệ quyền lợi của người sử dụng, đảm bảo an toàn, an ninh thông tin mạng,...
+
+Mới đây, trong dự thảo Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Viễn thông 2023, Bộ Thông tin và Truyền thông đề xuất doanh nghiệp nước ngoài muốn cung cấp dịch vụ viễn thông vệ tinh sẽ phải có trạm gateway (thiết bị mạng đặc biệt, được sử dụng để kết nối các mạng) đặt tại Việt Nam nhằm tránh nguy cơ mất dữ liệu, nguy cơ mất an toàn mạng lưới, an ninh thông tin và ảnh hưởng đến quyền lợi của người sử dụng dịch vụ tại Việt Nam.
+
+Bởi dịch vụ vệ tinh có thể hoạt động mà không cần hiện diện kỹ thuật tại nước sở tại, điều này có thể đặt ra thách thức về vấn đề an ninh quốc gia nếu không được giám sát, quản lý chặt chẽ. Đây cũng là lý do khiến một số nước trên thế giới, như Nga và Trung Quốc từ chối cấp giấy phép hoạt động cho SpaceX.
+
+Đến thời điểm hiện tại, dịch vụ Internet vệ tinh của SpaceX hiện đang hỗ trợ gần 3 triệu khách hàng trên hơn 100 quốc gia. Năm ngoái, công nghệ này bắt đầu thâm nhập vào khu vực Đông Nam Á. SpaceX hiện đã ra mắt công nghệ tại Philippines và Malaysia, và có kế hoạch mở rộng sang các quốc gia khác vào năm 2024, trong đó có Việt Nam và Thái Lan.
+
+Trong sự kiện trình diễn thử nghiệm năm ngoái tại Hà Nội, giải pháp của SpaceX được các chuyên gia đánh giá có thể giúp Việt Nam phủ sóng Internet cho những khu vực xa xôi, khó tiếp cận từ đó góp phần giúp Việt Nam thực hiện mục tiêu phủ sóng Internet đến 100% người dân.

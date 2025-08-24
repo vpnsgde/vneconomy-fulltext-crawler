@@ -1,0 +1,21 @@
+Thực hiện Kế hoạch số 908/KH-UBND ngày 14/3/2023 của UBND TP.HCM về việc triển khai thực hiện Đề án Phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 – 2025, tầm nhìn đến năm 2030 (gọi tắt là Đề án 06) năm 2023 trên địa bàn thành phố, đồng thời đưa các nội dung của Đề án 06 đi vào cuộc sống của người dân.
+
+Nhằm tạo điều kiện thuận lợi cho người dân, nhất là các trường hợp bệnh nhân, người nuôi bệnh tại các cơ sở Y tế trong việc thực hiện khai báo lưu trú theo quy định của Luật cư trú năm 2020. Sáng 7/4, Ban Chỉ đạo Đề án 06 TP.HCM đã tổ chức triển khai thực hiện thí điểm, nhân rộng thực hiện thông báo lưu trú qua phần mềm ASM tại cơ sở kinh doanh lưu trú và cơ sở y tế trên địa bàn thành phố. Điểm được chọn làm thí điểm đầu tiên là bệnh viện Nguyễn Tri Phương TP.HCM.
+
+Thượng tá Hồ Thị Lãnh, Phó Trưởng phòng Cảnh sát Quản lý hành chính về trật tự xã hội - Công an TP.HCM, cho biết phần mềm ASM được kết nối với Hệ thống Cơ sở dữ liệu quốc gia về dân cư đảm bảo dữ liệu thông tin khách lưu trú được cập nhật liên tục, bảo mật và đồng bộ.
+
+Ngoài ra, việc triển khai sử dụng phần mềm ASM sẽ giúp cơ sở có người đến lưu trú có nhiều tiện ích trong thực hiện quản lý các dịch vụ kinh doanh, giảm thời gian nhập liệu và cập nhật thông tin đăng ký lưu trú tự động gửi cơ quan Công an nhanh chóng, tạo điều kiện thuận lợi cho người dân, tổ chức thực hiện thủ tục thông báo lưu trú theo đúng quy định của pháp luật về cư trú và góp phần trong công tác đảm bảo an ninh trật tự.
+
+Nhằm phục vụ có hiệu quả công tác triển khai nhân rộng tại tất cả các cơ sở kinh doanh lưu trú và các cơ sở y tế trên địa bàn thành phố, Ban Chỉ đạo Đề án 06 TP.HCM tổ chức thí điểm thực hiện thông báo lưu trú qua phần mềm ASM tại 5 cơ sở (3 bệnh viện và 2 cơ sở kinh doanh dịch vụ lưu trú). Cụ thể: bệnh viện Nguyễn Tri Phương, Phụ sản Quốc tế Sài Gòn, bệnh viện Quận 4, khách sạn BROS (Quận l), khách sạn Subrise Boutique (Quận 1).
+
+Theo Thượng tá Hồ Thị Lãnh, chương trình triển khai thí điểm sẽ thực hiện 30 ngày (từ ngày 7/4 đến hết ngày 7/5). Sau thời gian trên sẽ tiến hành tổng kết rút kinh nghiệm và nhân rộng tại tất cả các cơ sở kinh doanh lưu trú và các cơ sở y tế trên địa bàn thành phố.
+
+Một quy trình từ khi tiếp nhận khách lưu trú tới khi trả phòng. Việc tiếp nhận thông tin khách lưu trú đã được tích hợp cùng chức năng quét mã QR trên thẻ căn cước công dân gắn chíp giúp việc tiếp nhận được nhanh chóng, thuận tiện nhất.
+
+
+
+Những điểm chính của phần mềm lưu trú ASM: Quản lý cơ sở lưu trú, quản lý khách lưu trú tại cơ sở, quản lý các dịch vụ cung cấp và quản lý nhân viên.
+
+Phần mềm đã được xây dựng để thiết lập mô hình sơ đồ cơ sở lưu trú theo từng tầng và các phòng. Các phòng cũng được phân chia theo từng loại phòng tùy theo đặc điểm riêng của từng nhân viên cơ sở. Trong phần mềm ASM đã tích hợp các nhóm chức năng quản lý các dịch vụ cung cấp có thể tùy biến riêng theo từng cơ sở lưu trú.
+
+Đối với tài khoản quản trị của cơ sở lưu trú, có thể thêm mới cùng thay đổi điều chỉnh thông tin nhân viên cơ sở. Tất cả các nhân viên sẽ được đăng nhập bằng tài khoản định danh điện tử từng người.

@@ -1,0 +1,17 @@
+Yếu tố cốt lõi thúc đẩy hiện đại hóa SmartVista tại BPC là sự xuất sắc về công nghệ và khát vọng bắt kịp xu hướng thị trường cũng như công nghệ thông tin hiện tại lẫn mới nổi. Mục tiêu là giúp nhiều khách hàng và người dùng cuối hưởng lợi từ công nghệ trong đời sống hàng ngày.
+
+Việc lựa chọn giải pháp phù hợp ngay từ đầu trong hành trình hiện đại hóa là điều thiết yếu. Những nâng cấp thiếu tầm nhìn có thể khiến hệ thống rơi vào "bẫy công nghệ di sản", nơi hệ thống trở nên phân mảnh, không tận dụng được trọn vẹn các lợi ích của hạ tầng hiện đại. Giải pháp thiết kế theo định hướng Cloud-Native là yếu tố then chốt giúp tránh được bẫy này. SmartVista của BPC được phát triển ngay từ đầu với định hướng này trong cấu trúc lõi.
+
+Evgeny Kozhin, Trưởng bộ phận POC tại BPC chia sẻ: “Bộ sản phẩm được phát triển dựa trên các thành phần mã nguồn mở và kiến trúc mô-đun, giúp khả năng tích hợp với các công nghệ mới nổi được thực hiện dễ dàng và nhanh chóng. Khi nhu cầu chuyển đổi sang đám mây gia tăng, SmartVista đã sẵn sàng để vận hành trơn tru trên các nền tảng hàng đầu như OCI, AWS và Google Cloud.”
+
+Từ đầu, hạ tầng đám mây với máy ảo hoặc trung tâm dữ liệu ảo được xem là giải pháp chi phí thấp, dễ quản lý hơn so với hệ thống nội bộ - một lựa chọn hấp dẫn cho khách hàng muốn tiết kiệm chi phí đầu tư phần cứng và bảo trì. Tuy nhiên, bước đột phá thực sự đến khi khả năng cluster hóa qua Kubernetes/OpenShift xuất hiện, kết hợp với kiến trúc microservices và container hóa.
+
+Công nghệ này mở ra khả năng mới cho đám mây trong triển khai, cập nhật và mở rộng hệ thống, đồng thời cải thiện khả năng chịu lỗi, phục hồi sau thảm họa và các đặc tính quan trọng khác. Khách hàng không còn bị giới hạn bởi phần cứng - họ có thể triển khai phiên bản đám mây tùy chỉnh trên các máy chủ đám mây công cộng.
+
+Việc tích hợp công nghệ đám mây mang đến các dịch vụ tiên tiến. Khách hàng không còn phải đầu tư vào thiết lập, giám sát hay sao lưu cơ sở dữ liệu vật lý. Thay vào đó, họ thuê không gian đám mây, khởi tạo cơ sở dữ liệu ảo với công suất tùy chọn, được hỗ trợ đầy đủ bởi nhà cung cấp. Họ có thể lưu trữ nhật ký qua OpenSearch, xác thực người dùng với IAM mà không cần cấu hình phức tạp, tiết kiệm chi phí thiết lập và bảo trì cơ sở hạ tầng.
+
+BPC không giới hạn chương trình hiện đại hóa chỉ trong đám mây. Sau thời gian ứng dụng, công nghệ này tạo hiệu ứng lan tỏa, giúp điều chỉnh sản phẩm để đáp ứng tốt hơn nhu cầu thị trường. Để hỗ trợ khát vọng hướng tới Cloud-Native, chúng tôi triển khai quy trình Triển khai Liên tục/Phát hành Liên tục với đội ngũ DevOps chuyên biệt.
+
+Các kỹ sư DevOps hợp tác chặt chẽ với nhóm phát triển sản phẩm, tự động hóa quy trình đóng gói Docker. Với mỗi lần phát hành, họ tổng hợp hình ảnh Docker từ kho lưu trữ tệp Java, triển khai vào cụm Kubernetes, thực hiện kiểm tra sức khỏe, xây dựng lại hệ thống, di chuyển dữ liệu từ phiên bản trước, kiểm tra kịch bản và triển khai lên đám mây công cộng.
+
+“Chúng tôi thực hiện hiện đại hóa sản phẩm để duy trì vị thế dẫn đầu và khẳng định uy tín của bộ giải pháp SmartVista - một nền tảng công nghệ đã được minh chứng bởi hơn 500 khách hàng và hàng tỷ người dùng trên toàn cầu,” ông Maxim Pavlov, Giám đốc Giao nhận Toàn cầu tại BPC, nhấn mạnh. “Đó chính là động lực để chúng tôi tiếp tục hành trình từ Cloud-Native đến Serverless và hơn thế nữa.”

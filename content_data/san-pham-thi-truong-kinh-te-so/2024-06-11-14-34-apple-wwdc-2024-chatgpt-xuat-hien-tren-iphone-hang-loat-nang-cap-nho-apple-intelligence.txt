@@ -1,0 +1,35 @@
+Hội nghị Các nhà phát triển Toàn cầu của Apple 2024 (WWDC 2024) đã giới thiệu nhiều tính năng phần mềm mới, tuy nhiên không có thông báo nào về các sản phẩm phần cứng mới. Trong khi đó, năm ngoái công ty đã ra mắt MacBook Air 15 inch, Mac Studio thế hệ tiếp theo, Mac Pro nâng cấp và Apple Vision Pro tại sự kiện thường niên này.
+
+Tại WWDC 2024, Apple xác nhận sẽ tích hợp ChatGPT vào các công cụ viết trên toàn hệ thống, nhất là tại Siri. Khi người dùng đặt một câu hỏi cho Siri, Siri sẽ tự động cung cấp thông tin đó cho ChatGPT để có câu trả lời sau khi người dùng cho phép làm như vậy. Ngoài OpenAI, Apple cũng sẽ hợp tác với các bên khác, bao gồm mô hình Gemini của Google.
+
+“Apple Intelligence sẽ hiểu bạn và dựa trên bối cảnh cá nhân của bạn, như thói quen, các mối quan hệ, thông tin liên lạc và hơn thế nữa”, CEO Tim Cook lưu ý tại WWDC hôm thứ Hai. “Và tất nhiên, những thông tin của bạn luôn được đề cao tính riêng tư. Tất cả những điều này vượt xa trí tuệ nhân tạo. Đó là trí tuệ cá nhân và đó là bước tiến lớn tiếp theo của Apple”.
+
+Apple Intelligence sẽ mang đến những tiện ích mới trên các ứng dụng, tuy nhiên Apple Intelligence chỉ xuất hiện từ iPhone 15 Pro và 15 Pro Max, cùng với iPad và Mac có chip M1 trở lên.
+
+Theo đó, Apple Intelligence, hệ thống trí tuệ cá nhân sẽ được sử dụng trên cả iPhone, iPad và Mac. Apple Intelligence được tích hợp sâu vào iOS 18, iPadOS 18 và macOS Sequoia. Trí tuệ này khai thác sức mạnh của AI tạo sinh và khả năng cá nhân hoá để đơn giản hóa và tăng tốc các công việc hàng ngày.
+
+Xuất hiện trên các công cụ viết toàn hệ thống, Apple Intelligence hỗ trợ người dùng tóm tắt, hiệu đính văn bản gần như ở mọi ứng dụng bao gồm Email, Ghi chú và các ứng dụng của bên thứ ba.
+
+Apple Intelligence sẽ cung cấp khả năng tạo hình ảnh thú vị để giúp người dùng giao tiếp và thể hiện bản thân theo những cách mới. Image Playground cho phép người dùng tạo những hình ảnh vui nhộn trong vài giây. Image Playground được tích hợp ngay trong các ứng dụng, bao gồm cả tin nhắn.
+
+Ngoài ra, Apple Intelligence cũng được sử dụng trong ứng dụng ảnh để người dùng dễ dàng tìm kiếm hình ảnh và video hơn, xoá những yếu tố gây nhiễu bức ảnh
+
+Được hỗ trợ bởi Apple Intelligence, Siri được đánh giá là ngày càng giống một trợ lý thực thụ. Với khả năng hiểu ngôn ngữ phong phú hơn, Siri đưa ra những câu hỏi ngày càng tự nhiên hơn và có khả năng thực hiện hành động trong và giữa các ứng dụng. Chẳng hạn, nếu một người gửi địa chỉ của họ, người dùng thiết bị có thể yêu cầu Siri "thêm địa chỉ này vào thẻ liên hệ".
+
+Apple chính thức giới thiệu iOS 18 với một số tính năng mới như tùy chỉnh màn hình chủ, cải thiện trong chế độ tối, sắp xếp biểu tượng ứng dụng ở bất kỳ đâu. Đặc biệt, IOS 18 cũng sẽ cung cấp nhiều quyền riêng tư hơn cho các ứng dụng. Người dùng sẽ có thể khóa một số trong số chúng, sau đó sẽ yêu cầu xác thực bằng Face Id hoặc mã truy cập.
+
+Trong iOS 18, ứng dụng nhắn tin có lẽ là ứng dụng chào đón nhiều tính năng mới nhất. Ngừoi dùng có thể in đậm, gạch chân hoặc in nghiêng chữ. Người dùng cũng có thể lên lịch gửi tin nhắn của mình sau. Ngoài ra, Apple cũng mở rộng tính năng Emergency SOS qua vệ tinh để cho phép người dùng nhắn tin ngay cả khi không có kết nối mạng, Wi-Fi.
+
+Để đảm bảo tính riêng tư, Với iOS 18, người dùng có thể khóa các ứng dụng bằng mật khẩu, sinh trắc học. iOS 18 hỗ trợ nhắn tin RCS cho iPhone.
+
+Ứng dụng ảnh được đánh giá là bản sửa đổi lớn nhất của Apple. Ứng dụng sẽ không còn bị chia thành các mục, thay vào đó chỉ có một chế độ xem duy nhất. Tuy nhiên, Apple sẽ cung cấp cho người dùng các bộ lọc (ảnh chụp màn hình, video...) hay tạo ra bộ sưu tập theo yêu cầu thiết lập chủ đề, địa điểm, thời gian...
+
+Bản cập nhật watchOS 11 là bản cập nhật hệ điều hành mới cho Apple Watch. Apple Watch sẽ bổ sung tính năng Training Load, giúp người dùng xem cường độ tập luyện của mình có thể ảnh hưởng đến cơ thể như thế nào theo thời gian. Vì vậy, người dùng có thể điều chỉnh cường độ và bài tập phù hợp với mục tiêu của bản thân.
+
+Ngoài ra còn có một ứng dụng Vitals mới sắp ra mắt, giúp hiển thị các chỉ số sức khỏe quan trọng trên cổ tay.
+
+Cải tiến mang thai cũng đang được giới thiệu về Sức khỏe trên Apple Watch. Khi người dùng nhập thai kỳ vào ứng dụng Sức khỏe trên iPhone hoặc iPad. Theo dõi chu kỳ sẽ hiển thị tuổi thai của bạn và theo dõi thai kỳ của bạn trên tất cả các biểu đồ sức khỏe của bạn.
+
+Hệ điều hành mới nhất dành cho máy tính Mac có tên gọi macOS Sequoia. Thông qua tính năng Continuity của macOS, người dùng có thể chiếu màn hình iPhone và điều khiển trực tiếp từ Mac. Thông báo iPhone cũng sẽ hiện trên với Mac và tương tác với chúng, ngay cả khi màn hình iPhone của bạn bị khóa.
+
+Bản cập nhật macOS cũng sẽ mang đến những thay đổi về cách sắp xếp các cửa sổ. Các cửa sổ có thể sắp xếp thành các ô cạnh nhau trên màn hình hoặc đặt chúng ở các góc để giữ nhiều ứng dụng hơn nữa trong tầm nhìn. Trong bản cập nhật macOS sắp tới, Safari sẽ giới thiệu các tính năng mới và cải tiến.

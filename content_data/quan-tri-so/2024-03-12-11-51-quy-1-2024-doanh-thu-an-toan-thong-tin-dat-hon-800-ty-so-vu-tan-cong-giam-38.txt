@@ -1,0 +1,15 @@
+Tại hội nghị giao ban Quản lý nhà nước quý 1/2024 với các Sở Thông tin và truyền thông ngày 11/3, báo cáo của Bộ Thông tin và Truyền thông cho thấy, doanh thu lĩnh vực an toàn thông tin mạng ước đạt 804 tỷ đồng, tăng 46,8% so với cùng kỳ năm 2023 (548 tỷ đồng); tỷ lệ doanh thu sản phẩm nội địa so với nước ngoài đạt 46% và nộp ngân sách nhà nước ước đạt 41 tỷ đồng, tăng 28,7% so với cùng kỳ năm 2023 (31,8 tỷ đồng).
+
+Lợi nhuận đạt 54 tỷ đồng, tăng 22,72% so với cùng kỳ 2023 (44 tỷ đồng).
+
+Ngoài ra, số doanh nghiệp hoạt động trong lĩnh vực an ninh mạng là 132, tăng 5% so với cùng kì năm 2023 (126 doanh nghiệp); Đồng thời, số lao động làm việc trong lĩnh vực này là 3.881 người, tăng 11,1% so với cùng kì năm 2023 (3.492 người).
+
+Cũng trong quý 1/2024, số vụ tấn công mạng 1.812 cuộc, giảm 38% so với cùng kỳ 2023 (2.921 cuộc). Số IP botnet tính đến tháng 2/2024 là 432.437 địa chỉ, tăng 13% so với cùng kỳ tháng 2/2023 (382.606 địa chỉ).
+
+Bên cạnh đó, tổng số chứng thư số công cộng đã cấp tính đến hết tháng 2/2024 là 7.916.979 chứng thư số tăng 34,26% so với cùng kỳ năm 2023 (là 5.896.657 chứng thư số); tổng số chứng thư số công cộng đang hoạt động tính đến tháng 2/2024 là 3.126.968 chứng thư số tăng 56,97% so với cùng kỳ năm 2023 (là 1.992.024 chứng thư số). Trong đó, số chứng thư số chuyên dùng Chính phủ đang hoạt động tính đến tháng 2/2024 là 695.268 chứng thư số tăng 29,6 % so với cùng kỳ năm 2022 (là 536.145 chứng thư số).
+
+Về nhiệm vụ trọng tâm quý 2/2024, Bộ Thông tin và Truyền thông cho biết sẽ xây dựng, ban hành Sổ tay Hướng dẫn bảo đảm an toàn hệ thống thông tin theo cấp độ; Xây dựng văn bản Hướng dẫn bảo đảm an toàn thông tin cấp bộ, tỉnh; Xây dựng văn bản bổ sung các chỉ tiêu an toàn thông tin tại Công văn 1552/BTTTT-THH về hướng dẫn kỹ thuật triển khai Đề án 06.
+
+Đồng thời, Bộ cũng xây dựng báo cáo Thủ tướng Chính phủ tình hình thực hiện Chiến lược An toàn an ninh mạng quốc gia đến hết năm 2024; Xây dựng Báo cáo Thủ tướng Chính phủ tình hình thực hiện Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông tin giai đoạn 2021 - 2025” đến hết năm 2024.
+
+Bộ Thông tin và Truyền thông cũng hoàn thiện và trình Chính phủ ban hành Nghị định quy định về chữ ký điện tử và dịch vụ tin cậy; Xây dựng Thông tư về công nhận tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử nước ngoài; công nhận chữ ký điện tử, chứng thư chữ ký điện tử nước ngoài.

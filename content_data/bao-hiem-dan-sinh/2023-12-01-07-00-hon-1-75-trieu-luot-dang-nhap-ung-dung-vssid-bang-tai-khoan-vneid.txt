@@ -1,0 +1,25 @@
+Tính năng này được chính thức triển khai từ ngày 19/10/2023 từ việc phối hợp giữa Bảo hiểm xã hội Việt Nam và Cục Cảnh sát Quản lý hành chính về trật tự xã hội (Cục C06) - Bộ Công an thực hiện điều chỉnh, nâng cấp ứng dụng VssID – Bảo hiểm xã hội số đáp ứng yêu cầu kết nối, tích hợp tài khoản VneID (tài khoản định danh điện tử) với ứng dụng VssID.
+
+Theo đó, hiện nay người dùng có thể đăng nhập ứng dụng VssID bằng tài khoản định danh điện tử (VneID). Đây là một bước tiến lớn, kết quả từ việc triển khai Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030 của Thủ tướng Chính phủ (Đề án 06); giúp người dùng không phải nhớ nhiều thông tin tài khoản, thuận tiện cho việc lấy lại mật khẩu, tăng tính bảo mật…
+
+Để sử dụng tính năng "Đăng nhập bằng tài khoản định danh điện tử" trên ứng dụng VssID, người dùng cần đáp ứng các yêu cầu sau: Đã có tài khoản giao dịch điện tử với cơ quan Bảo hiểm xã hội (tài khoản VssID); đã có tài khoản định danh điện tử (tài khoản VNeID) mức 2; đcài đặt ứng dụng VNeID phiên bản 2.1.0 và ứng dụng VssID phiên bản 1.6.7 trở lên.
+
+Người tham gia cài đặt phiên bản mới nhất của hai ứng dụng nêu trên tại kho ứng dụng AppStore (dành cho điện thoại sử dụng hệ điều hành IOS), hoặc trên Google Play (đối với điện thoại sử dụng hệ điều hành Android).
+
+Thời gian qua, Bảo hiểm xã hội Việt Nam cũng đã xây dựng, kết nối, liên thông cơ sở dữ liệu quốc gia về bảo hiểm với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành khác.
+
+Đơn cử như phối hợp với Bộ Công an kết nối chia sẻ, xác thực, đồng bộ thông tin liên quan đến bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp với cơ sở dữ liệu quốc gia về dân cư.
+
+Đến nay, Hệ thống đã xác thực hơn 93,7 triệu thông tin nhân khẩu trong cơ sở dữ liệu do Bảo hiểm xã hội Việt Nam quản lý với cơ sở dữ liệu quốc gia về dân cư, trong đó có hơn 84,7 triệu người đang tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, chiếm 96% tổng số người tham gia (không bao gồm lực lượng vũ trang, thân nhân quân đội).
+
+Đồng thời, Hệ thống đã đồng bộ hơn 132 triệu lượt bản ghi thông tin bảo hiểm xã hội, bảo hiểm y tế cho cơ sở dữ liệu quốc gia về dân cư.
+
+Cùng với đó, đã kết nối dữ liệu với Bộ Lao động - Thương binh và Xã hội chia sẻ, khai thác nhóm thông tin về bảo hiểm xã hội, bảo hiểm thất nghiệp.
+
+Đến nay, Bảo hiểm xã hội Việt Nam đã tiếp nhận từ Cổng Dịch vụ công quốc gia để xác nhận, và trả quá trình đóng bảo hiểm thất nghiệp cho trên 299.000 trường hợp phục vụ giải quyết hưởng trợ cấp thất nghiệp cho người lao động.
+
+Ngoài ra, phối hợp, hỗ trợ Bộ Y tế liên thông dữ liệu khám sức khỏe lái xe, giấy chứng sinh, giấy báo tử từ các cơ sở khám chữa bệnh trên toàn quốc phục vụ triển khai các dịch vụ công trực tuyến "Cấp đổi, cấp lại giấy phép lái xe trực tuyến" và 2 nhóm thủ tục hành chính liên thông "Đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi; Đăng ký khai tử - Xóa đăng ký thường trú - Hỗ trợ chi phí mai táng, Trợ cấp mai táng".
+
+Đến nay, trên toàn quốc có gần 1.200 cơ sở khám chữa bệnh đã gửi dữ liệu giấy khám sức khỏe lái xe, với gần 1,6 triệu dữ liệu được gửi; 1.500 cơ sở khám chữa bệnh gửi dữ liệu giấy chứng sinh, với hơn 636.000 dữ liệu được gửi; 540 cơ sở khám chữa bệnh gửi dữ liệu giấy báo tử, gần với 6.200 dữ liệu được gửi.
+
+Đồng thời, Bảo hiểm xã hội Việt Nam cũng đã chia sẻ dữ liệu thẻ bảo hiểm y tế cho các cơ sở khám chữa bệnh để phục vụ khám chữa bệnh bảo hiểm y tế; bàn giao toàn bộ cơ sở dữ liệu hộ gia đình tham gia bảo hiểm y tế cho Bộ Y tế để xây dựng hồ sơ sức khỏe...

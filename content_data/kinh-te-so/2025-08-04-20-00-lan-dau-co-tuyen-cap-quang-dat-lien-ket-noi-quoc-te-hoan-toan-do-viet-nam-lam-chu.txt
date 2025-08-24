@@ -1,0 +1,29 @@
+Ngày 4/8/2025, Tập đoàn VNPT chính thức vận hành, khai thác tuyến cáp đất liền VSTN – tuyến cáp quốc tế đầu tiên kết nối trực tiếp từ Việt Nam đến Singapore, đi qua nhiều quốc gia trong khu vực hoàn toàn qua hạ tầng đất liền.
+
+Với tổng chiều dài khoảng 3.900 km, tuyến cáp VSTN đi qua 5 quốc gia: Việt Nam – Lào – Thái Lan – Malaysia – Singapore, được xây dựng hoàn toàn trên đất liền và kết nối trực tiếp từ trung tâm kỹ thuật VNPT tại Đà Nẵng đến các trung tâm dữ liệu quốc tế hàng đầu khu vực như: IDC Telehouse (Thailand), MY01 Cyberjaya, Equinix JH01 Johor Bahru (Malaysia), Equinix và Global Switch (Singapore).
+
+Việc VNPT trực tiếp kiểm soát toàn tuyến từ Việt Nam đến Singapore từ điểm đầu đến điểm cuối không chỉ đảm bảo năng lực vận hành độc lập, mà còn giúp xử lý nhanh các tình huống sự cố. Trong bối cảnh các sự cố cáp biển liên tục xảy ra và kéo dài, ảnh hưởng đến chất lượng dịch vụ Internet và kết nối quốc tế, VSTN đóng vai trò như một tuyến dự phòng trọng yếu, bổ sung chiến lược cho các tuyến cáp biển hiện có, gia tăng tính ổn định, chủ động và an toàn cho hạ tầng viễn thông quốc gia.
+
+VSTN được sử dụng thiết bị truyền dẫn DWDM ghép bước sóng hiện đại, một trong những công nghệ tối tân nhất hiện nay. Mỗi bước sóng có thể truyền tải dung lượng tối thiểu 300 Gbps, tổng thiết kế toàn tuyến lên đến 4 Tbps và dễ dàng nâng cấp lên 12 Tbps hoặc hơn. Điều này giúp VSTN đáp ứng nhu cầu hiện tại, đồng thời sẵn sàng cho những bước phát triển mạnh mẽ trong tương lai.
+
+Tuyến cáp này không chỉ là một bước tiến kỹ thuật mà còn là bước đi chiến lược để Việt Nam bước ra khỏi thế bị động, tiến tới làm chủ hoàn toàn hạ tầng viễn thông quốc gia, bảo vệ an ninh dữ liệu, đảm bảo lưu lượng thông tin được truyền dẫn một cách thông suốt, an toàn trong mọi tình huống.
+
+Phát biểu tại sự kiện, Bộ trưởng Bộ Khoa học và Công nghệ Nguyễn Mạnh Hùng nêu rõ: hạ tầng viễn thông Việt Nam đã trở thành hạ tầng số, hạ tầng của nền kinh tế, vì thế an toàn, bền vững của hạ tầng số vô cùng quan trọng. “Muốn an toàn, bền vững, phải đa dạng hóa, phải có nhiều tuyến cáp quang biển, đi nhiều hướng khác nhau, đặc biệt phải có tuyến cáp quang đất liền, là tuyến cáp có tính hồi phục rất nhanh”, Bộ trưởng nói.
+
+Bộ trưởng cho biết tuyến cáp quang quốc tế đầu tiên của Việt Nam- TDH từ năm 1996, nhưng đây là tuyến cáp Việt Nam là đối tác tham gia. Gần 30 năm qua, Việt nam chưa từng có tuyến cáp quốc tế nào do người Việt Nam làm chủ đầu tư 100%. VNPT với tinh thần tiến công đã triển khai rất nhanh tuyến cáp quang quốc tế đất liền, đây là tuyến đầu tiên do người Việt Nam, doanh nghiệp Việt Nam đầu tư 100%.
+
+Chúc mừng VNPT khai trương tuyến cáp quang đầu tiên kết nối quốc tế, qua nhiều nước ASEAN, Bộ trưởng cho rằng đây là hình ảnh sinh động về một ASEAN, một ASEAN số. Bộ trưởng hy vọng các nhà mạng Việt Nam sẽ tiếp tục đầu tư xây dựng nhiều tuyến cáp quang quốc tế do Việt Nam làm chủ đầu tư.
+
+Với việc đưa tuyến cáp VSTN vào vận hành, VNPT không chỉ bổ sung một tuyến truyền dẫn mới, mà còn là lời khẳng định: Người Việt hoàn toàn có thể làm chủ hạ tầng công nghệ phức tạp, an toàn và hiện đại bậc nhất. Ông Tô Dũng Thái, Chủ tịch HĐTV Tập đoàn VNPT nhấn mạnh: “Đây không chỉ là một công trình hạ tầng kỹ thuật mà còn là biểu tượng cho tầm nhìn chiến lược, khát vọng làm chủ công nghệ, mở rộng kết nối, chủ động hội nhập toàn cầu” của Tập đoàn VNPT nói riêng và Việt Nam nói chung".
+
+Không chỉ góp phần nâng cao chất lượng kết nối viễn thông, VSTN còn mang ý nghĩa to lớn trong việc thúc đẩy hợp tác khu vực. Trong thời đại kinh tế số phát triển mạnh mẽ, dữ liệu được ví như "nguồn tài nguyên mới" và kết nối xuyên quốc gia chính là chìa khóa để các nền kinh tế ASEAN hội nhập sâu rộng. Với tuyến cáp VSTN, Việt Nam đã khẳng định vị thế trung tâm trung chuyển dữ liệu trong khu vực, góp phần thiết lập một hành lang số liền mạch giữa Đông Dương và Đông Nam Á.
+
+16 năm trước (năm 2009), VNPT lần đầu tiên tham gia tuyến cáp quang biển AAG với dung lượng 220 Gbps – là một trong những tuyến cáp quang biển đầu tiên của Việt Nam. Năm 2009 và 2012, VNPT chính thức vận hành 2 hệ thống vệ tinh Vinasat-1 và Vinasat-2 phục vụ cho nhu cầu dân dụng trong nước, quốc tế và phục vụ an ninh quốc phòng của đất nước.
+
+Ông Huỳnh Quang Liêm, Tổng Giám đốc VNPT cho biết đến nay, tập đoàn sở hữu và tham gia khai thác hệ thống hạ tầng truyền dẫn quốc tế với 5 tuyến cáp quang biển trọng yếu như AAG, APG, AAE-1… và gần đây nhất là SJC-2, nâng tổng dung lượng khai thác lên tới gần 36 Terabit/giây.
+
+Tuy nhiên, thực tế vận hành trong những năm gần đây cho thấy việc khai thác các tuyến cáp hiện nay cần phải được cải thiện và tính toán lại. Từ năm 2022 đến nay, hệ thống cáp biển đã trải qua gần 40 sự cố, trung bình hơn 10 sự cố mỗi năm. Đặc biệt, có những thời điểm 4/5 tuyến cáp biển quốc tế kết nối Việt Nam đồng loạt gặp sự cố, gây suy giảm nghiêm trọng lưu lượng quốc tế. Có thời điểm, VNPT bị mất hơn 73% dung lượng quốc tế. Thậm chí, lúc đỉnh điểm, dung lượng truyền dẫn quốc tế của VNPT chỉ còn gần 2 Tbps trên tổng số 8,8 Tbps.
+
+Không những thế, việc khắc phục sự cố cáp biển vốn phụ thuộc vào nhiều yếu tố khách quan khiến thời gian xử lý kéo dài.
+
+Chính vì vậy, theo ông Liêm, tuyến cáp mới đưa vào vận hành không chỉ tăng cường dung lượng kết nối mà còn tại thêm một hướng truyền dẫn ổn định, an toàn, giảm thiểu rủi ro mất kết nối  khi xảy ra sự cố với các tuyến cáp biển.

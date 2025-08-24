@@ -1,0 +1,21 @@
+Chiều 7/8, Bộ Công an và Ngân hàng Nhà nước phối hợp tổ chức Hội thảo Ứng dụng cơ sở dữ liệu quốc gia về dân cư trong đánh giá khả tín khách hàng vay. Hội thảo được tổ chức trực tiếp tại Bộ Công an, trực tuyến đến công an 63 tỉnh, thành phố trên cả nước.
+
+Trung tướng Nguyễn Duy Ngọc, Thứ trưởng Bộ Công an, Tổ phó Thường trực Tổ công tác triển khai Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022-2025, tầm nhìn đến năm 2030 của Chính phủ (Đề án 06); Phó Thống đốc Ngân hàng Nhà nước Phạm Tiến Dũng đồng chủ trì Hội thảo.
+
+Tại hội thảo, Thiếu tướng Phùng Đức Thắng, Phó Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội (Bộ Công an), cho biết trong thời gian vừa qua, tình hình hoạt động tội phạm “tín dụng đen” đang là vấn đề nhức nhối của xã hội. Chỉ trong 04 năm (từ năm 2015 – 2018), toàn quốc đã xảy ra 7.624 vụ việc liên quan tới “tín dụng đen”, gây ra các hệ lụy cho xã hội như: các vụ án giết người, cố ý gây thương tích, hủy hoại tài sản,... ảnh hưởng đến tình hình an ninh, trật tự trên địa bàn.
+
+Hiện nay, đa số người dân chưa được tiếp cận với các dịch vụ tài chính chính thống, các doanh nghiệp phải vay vốn “tín dụng đen”, lãi suất lên đến 46.5%/ năm. Mặc dù Chính phủ cũng đã triển khai các gói hỗ trợ lãi suất 2% với quy mô 40.000 tỷ đồng nhưng doanh nghiệp rất khó có thể tiếp cận.
+
+Do đó, để người dân được tiếp cận nhanh nguồn vốn chính thống, lãi suất phù hợp, dần giảm thiểu tội phạm và các hành vi vi phạm pháp luật liên quan đến “tín dụng đen”, Bộ Công an đã giao Trung tâm dữ liệu quốc gia về dân cư thuộc Cục Cảnh sát quản lý hành chính về trật tự xã hội xây dựng giải pháp đánh giá khả tín khách hàng vay.
+
+Báo cáo tổng thể giải pháp ứng dụng dữ liệu dân cư trong đánh giá khả tín khách hàng vay, Đại tá Vũ Văn Tấn, Phó Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội cho biết, Cục Cảnh sát quản lý hành chính về trật tự xã hội đã phối hợp với Trường Công nghệ thông tin và truyền thông (Đại học Bách khoa Hà Nội) ứng dụng dữ liệu dân cư để xây dựng giải pháp đánh giá khả tín khách hàng vay sử dụng công nghệ, trí tuệ nhân tạo theo tiêu chuẩn tham khảo tín dụng FICO tại Mỹ được sử dụng trong rất nhiều nghiệp vụ và hoạt động hàng ngày như: Ra quyết định cho vay, xác định lãi suất của các khoản vay, xin việc làm, mua và thuê nhà, mua và thuê ôtô, mua sản phẩm bảo hiểm, mua các sản phẩm viễn thông, sử dụng các dịch vụ công, và một số lĩnh vực khác.
+
+Đến nay, đã cơ bản hoàn thiện mô hình thuật toán đánh giá khả tín khách hàng vay với các trường thông tin dân cư, dữ liệu về căn cước công dân, định danh và xác thực điện tử, dữ liệu di biến động cư trú và các trường thông tin khác được làm giàu trong Cơ sở dữ liệu quốc gia về dân cư với độ chính xác cao.
+
+Cụ thể, Công ty tài chính TNHH MB Shinei thử nghiệm 10.000 dữ liệu công dân; Ngân hàng PVcomBank thử nghiệm 20.000 dữ liệu công dân; Công ty Datanest thử nghiệm 60.000 dữ liệu công dân. Kết quả giảm tỷ lệ rủi ro khi cho vay vốn và cho vay của các ngân hàng và tổ chức tín dụng từ 7-20%. Sau khi thử nghiệm các ngân hàng đều có mong muốn được triển khai chính thức trên quy trình cho vay của ngân hàng.
+
+Tại hội thảo, Thứ trưởng Nguyễn Duy Ngọc đánh giá về những kết quả triển khai Đề án 06 trong 6 tháng đầu năm 2023. Theo đó, từ Cơ sở dữ liệu quốc gia về dân cư đã cho phép ứng dụng để phục vụ phát triển kinh tế xã hội trên lĩnh vực bảo hiểm, y tế, thanh toán không dùng tiền mặt và hiện nay đang triển khai nhiều dịch vụ công liên thông trực tuyến… Những dịch vụ công này ngày càng tạo nên sự tin cậy của Cơ sở dữ liệu quốc gia về dân cư.
+
+Đề cập đến những nội dung liên quan đến cơ sở pháp lý, hạ tầng công nghệ, đảm bảo an ninh, an toàn, Thứ trưởng Nguyễn Duy Ngọc khẳng định đây là những nhóm vấn đề, nội dung rất then chốt, phải thực hiện đồng bộ, hiệu quả trong quá trình triển khai Đề án 06, chuyển đổi số, phục vụ người dân, xã hội.
+
+Được biết, thời gian vừa qua, Bộ Công an và Ngân hàng Nhà nước đã tích cực phối hợp, triển khai các giải pháp ứng dụng Cơ sở dữ liệu quốc gia về dân cư, căn cước công dân trong các hoạt động nghiệp vụ của ngành ngân hàng thông qua Kế hoạch phối hợp số 01/KHPH-BCA-NHNN ngày 24/4/2023 trong triển khai Đề án 06 với 11 nhóm nhiệm vụ và 35 nội dung.

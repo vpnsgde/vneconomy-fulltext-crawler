@@ -1,0 +1,19 @@
+Thông tin này được các chuyên gia công nghệ và tuyển dụng chia sẻ tại Hội thảo Phát triển sự nghiệp thời suy thoái kinh tế tổ chức chiều ngày 19/10/2023.
+
+Khó khăn chung của nền kinh tế phản ánh trực tiếp lên hoạt động của các doanh nghiệp. Đơn cử như trong ngành sản xuất, theo Báo cáo Thực trạng nhân sự ngành sản xuất được Navigos vừa công bố, ít nhất 50% doanh nghiệp đối mặt với sụt giảm doanh thu, trong đó có lĩnh vực bị ảnh hưởng lên đến 91% doanh nghiệp. Và phần lớn doanh nghiệp dự báo cần ít nhất 12 tháng để thị trường có thể hồi phục trở lại.
+
+Còn theo báo cáo mới nhất của Tổng cục Thống kê, trong quý 3/2023, số người thất nghiệp trong độ tuổi lao động tăng 6,3 nghìn người so với quý trước và tăng 22,1 nghìn người so với cùng kỳ năm trước, tương đương 1,08 triệu người thất nghiệp. Cũng theo báo cáo này cả nước có hơn 1,5 triệu thanh niên 15-24 tuổi không có việc làm và không tham gia học tập, đào tạo (chiếm 12,1% tổng số thanh niên). Như vậy, cứ 100 thanh niên sẽ có 12 người thất nghiệp.
+
+Mặc dù tỷ lệ thất nghiệp có xu hướng gia tăng, nhưng trong một số lĩnh vực vẫn “khát” nhân sự, đặc biệt là nhân sự chất lượng cao có bằng cấp chuyên môn và kinh nghiệm làm việc.
+
+Đơn cử như trong lĩnh vực công nghệ thông tin, theo báo cáo Thị trường IT Việt Nam năm 2023, mặc dù lương trung bình tăng đáng kể đạt mức 32 triệu đồng/tháng nhưng dự đoán từ năm 2023- 2025, Việt Nam vẫn sẽ thiếu hụt từ 150.000 đến 200.000 lập trình viên/kỹ sư hàng năm. Đến năm 2025, Việt Nam sẽ cần 700.000 nhân lực trong ngành công nghệ thông tin.
+
+Tuy nhiên, theo ông Hoàng Nam Tiến, Phó Chủ tịch Hội đồng trường Đại học FPT, thị trường lao động ngày hôm nay đã khác so với trước đây.
+
+Ông Tiến lấy ví dụ, trước đây, 1 kỹ sư khi ra trường chỉ cần biết hai ngôn ngữ: một là ngoại ngữ (tiếng Anh hoặc Nhật) và hai là một ngôn ngữ lập trình phù hợp là có mức lương 20-30 triệu đồng/tháng. Nhưng hiện nay điều này không còn đúng, và kỹ sư công nghệ thông tin, lập trình viên có thể mất việc bởi vì giờ đây các dòng lệnh thiết lập bằng java,… có thể lên ChatGPT lấy về, không cần code.
+
+Vì vậy, với các sinh viên công nghệ thông tin, kỹ sư IT mới ra trường muốn có vị trí công việc phù hợp và không bị trí tuệ nhân tạo thay thế phải học thêm về Bigdata, học về AI và Bllockchain,… Các sinh viên, kỹ sư không chỉ cần kiến thức đào tạo ở trường mà cần cập nhật kiến thức liên tục hoặc những bậc cao hơn.
+
+Sự phát triển của công nghệ có thể ảnh hưởng trực tiếp tới viêc làm của khoảng 2,6 triệu công nhân. 4 năm trước khi nêu vấn đề robot có thể thay thế lao động tại Việt Nam, nhiều người không tin. Tuy nhiên những con robot từng có giá 400.000 USD trước đây thì hiện nay chỉ còn 30.000 USD, có thể làm việc 24h mỗi ngày, 7 ngày trong tuần mà không đòi tăng lương.
+
+Thông tin về mức độ cạnh tranh nhân sự, bà Ngô Thị Ngọc Lan, Giám đốc khu vực miền Bắc Navigos Search, cho biết trong bối cảnh kinh tế khó khăn, tỷ lệ “chọi” trong tuyển dụng hiện nay tăng gấp 3 lần so với trước đây. Do đó, theo bà Lan, các nhân sự cần trang bị cho mình kỹ năng, kiến thức để thích ứng với “thời suy thoái kinh tế”. Yếu tố bằng cấp khá quan trọng bởi có thể quyết định đến vị trí cũng như thu nhập của ứng viên. Nhà tuyển dụng quan tâm đến cả bằng cấp và chứng chỉ của ứng viên.

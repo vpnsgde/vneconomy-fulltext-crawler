@@ -1,0 +1,25 @@
+Theo báo cáo tình hình triển khai Đề án 06 của Trung tâm Công nghệ Thông tin (Bộ Lao động – Thương binh và Xã hội), trong năm 2023, Bộ đã cơ bản hoàn thiện các nhiệm vụ thuộc Đề án 06 được Chính phủ giao thực hiện.
+
+Trong lĩnh vực bảo trợ xã hội, đến nay, hệ thống cơ sở dữ liệu đã có hơn 3,7 triệu đối tượng, trong đó có gần 3,3 triệu đối tượng đang hưởng trợ cấp đã được cấp định danh cá nhân/căn cước công dân, và gần 2,8 triệu đối tượng bảo trợ xã hội đang hưởng đã được xác thực thành công qua cơ sở dữ liệu quốc gia về dân cư.
+
+Trong công tác người có công, hiện nay, Bộ Lao động – Thương binh và Xã hội đã phối hợp cùng Bộ Công an, tiến hành nhập dữ liệu khoảng 850.000 hồ sơ người có công với cách mạng, trên hệ thống cơ sở dữ liệu quốc gia về dân cư hưởng trợ cấp hàng tháng.
+
+Đối với cơ sở dữ liệu về hộ nghèo, hộ cận nghèo, từ dữ liệu của 63 tỉnh, thành phố, Bộ đã tiếp nhận và quản lý dữ liệu của khoảng 1,9 triệu hộ nghèo, cận nghèo, tương đương 7,5 triệu người. Đồng thời, đã xác minh, bổ sung căn cước công dân, hoặc mã định danh cho hơn 5,5 triệu người thuộc các hộ nêu trên.
+
+Cũng từ tháng 9/2023, cơ sở dữ liệu về hộ nghèo, hộ cận nghèo chính thức được thực hiện kết nối với cơ sở dữ liệu quốc gia về dân cư.
+
+Trong công tác triển khai Chỉ thị 21/CT-TTg của Thủ tướng Chính phủ về thúc đẩy chuyển đổi số trong chi trả an sinh xã hội không dùng tiền mặt, Bộ đã ban hành 8 văn bản nhằm hướng dẫn, đôn đốc thực hiện chi trả an sinh xã hội không dùng tiền mặt tới 63 tỉnh, thành phố; tổ chức một hội nghị quán triệt, tháo gỡ các khó khăn trong thực hiện chi trả an sinh xã hội không dùng tiền mặt đến 63 Sở Lao động – Thương binh và Xã hội.
+
+Tính đến nay, tổng số đối tượng hưởng chính sách an sinh xã hội thuộc ngành Lao động quản lý tại các tỉnh, thành phố là hơn 5 triệu người. Trong đó, đã thực hiện rà soát được hơn 4,7 triệu người (chiếm tỷ lệ trên 94% tổng số đối tượng quản lý).
+
+Tổng số đối tượng an sinh xã hội đã có tài khoản mong muốn chi trả không dùng tiền mặt là trên 1,8 triệu người (chiếm tỷ lệ 36,03% tổng số đối tượng quản lý); gần 1,1 triệu người đã được chi trả qua tài khoản (chiếm tỷ lệ 60,30% tổng số đối tượng đã có tài khoản). Tổng kinh phí đã thực hiện chi trả từ tháng 1/2023 đến nay là gần 3,5 nghìn tỷ đồng.
+
+Về triển khai dịch vụ công trực tuyến thuộc lĩnh vực bảo trợ xã hội, theo thống kê, kết quả ghi nhận đến thời điểm hiện tại có hơn 108.000 hồ sơ sử dụng phần mềm dịch vụ công bảo trợ xã hội trên toàn quốc; thực hiện liên thông khai tử - hỗ trợ chi phí mai táng hơn 40.000 hồ sơ.
+
+Ngoài ra, cũng trong năm 2023, Bộ Lao động – Thương binh và Xã hội đã hướng dẫn các tỉnh, thành phố triển khai phần mềm hỗ trợ giải quyết mai táng phí khi người có công từ trần. Tính đến nay hệ thống đã tiếp nhận hơn 11.000 hồ sơ đề nghị trợ cấp.
+
+Với những kết quả như vậy, Bộ Lao động – Thương binh và Xã hội xác định trong năm 2024, vẫn còn nhiều nhiệm vụ cần tập trung thực hiện như: Khẩn trương cập nhật, hoàn thiện các trường thông tin thuộc cơ sở dữ liệu về người có công, và cơ sở dữ liệu về bảo trợ xã hội; đồng bộ triển khai các hoạt động liên quan tới hoàn thiện cơ sở dữ liệu về giáo dục nghề nghiệp; hoàn thiện phần mềm quản lý bảo hiểm thất nghiệp…
+
+Bộ Lao động – Thương binh và Xã hội cũng phấn đấu đến hết năm 2024, tỷ lệ đối tượng hưởng chính sách an sinh xã hội có tài khoản đạt tối thiểu 30% trên tổng số đối tượng thuộc địa phương quản lý.
+
+Hiện nay, hoạt động chi trả an sinh xã hội được thực hiện thông qua công chức văn hoá xã hội cấp xã từ ngày 1 đến ngày 10 hàng tháng tại trụ sở xã; thông qua các tổ chức dịch vụ chi trả (bao gồm các đối tượng có tài khoản thanh toán và chưa có tài khoản thanh toán; chi trả trực tiếp từ Kho bạc Nhà nước cấp huyện đến trực tiếp tài khoản đối tượng thụ hưởng.

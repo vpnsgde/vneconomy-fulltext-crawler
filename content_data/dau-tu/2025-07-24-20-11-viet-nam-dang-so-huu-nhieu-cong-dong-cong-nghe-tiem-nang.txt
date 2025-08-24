@@ -1,0 +1,57 @@
+Điện toán đám mây (cloud computing) đang trở thành một thành tố không thể thiếu trong tiến trình chuyển đổi số và thúc đẩy đổi mới sáng tạo tại Việt Nam. Trong bối cảnh đó, vấn đề bảo mật và giám sát an toàn thông tin trên môi trường đám mây tiếp tục là yêu cầu cấp thiết, đặc biệt khi số lượng doanh nghiệp, tổ chức chuyển sang vận hành trên cloud đang ngày càng gia tăng.
+
+Tại sự kiệnAWS Day 2025diễn ra tại TP.HCM mới đây, ông Shafraz Rahim, Giám đốc Chương trình cộng đồng Nhà phát triển và Quản lý cấp cao tại AWS (Amazon Web Services), cho biết các chương trình cộng đồng người dùng AWS đang được triển khai tại nhiều quốc gia, tạo điều kiện để các kỹ sư và nhà phát triển công nghệ kết nối, học hỏi và chia sẻ kinh nghiệm.
+
+Ông Rahim đặc biệt đánh giá cao sự phát triển của cộng đồng người dùng AWS tại Việt Nam, đây là một trong những cộng đồng năng động và tăng trưởng nhanh nhất trong khu vực châu Á – Thái Bình Dương. Điều này phản ánh sự quan tâm ngày càng lớn của đội ngũ công nghệ trong nước đối với các xu hướng hạ tầng mới, cộng đồng công nghệ sẽ là nơi để lực lượng chuyên gia phát triển và vươn ra toàn cầu.
+
+Theo ông Rahim, chính niềm đam mê học hỏi và tinh thần cộng đồng mạnh mẽ là yếu tố giúp cộng đồng AWS tại Việt Nam phát triển bền vững. Đồng thời, ông cho biết vai trò quan trọng của Việt Nam trên bản đồ công nghệ toàn cầu:
+
+"Việt Nam là một trong những nền kinh tế phát triển nhanh nhất thế giới, đồng thời cũng sở hữu nguồn nhân lực công nghệ đầy tiềm năng. Hiện có hơn 70% dân số Việt Nam được kết nối Internet, cùng với khoảng 56.000 sinh viên kỹ thuật tốt nghiệp mỗi năm từ các trường đại học kỹ thuật hàng đầu. Đây là lợi thế lớn cho hệ sinh thái công nghệ và đổi mới sáng tạo”.
+
+
+
+"Việt Nam là một trong những nền kinh tế phát triển nhanh nhất thế giới, đồng thời cũng sở hữu nguồn nhân lực công nghệ đầy tiềm năng. Hiện có hơn 70% dân số Việt Nam được kết nối Internet, cùng với khoảng 56.000 sinh viên kỹ thuật tốt nghiệp mỗi năm từ các trường đại học kỹ thuật hàng đầu. Đây là lợi thế lớn cho hệ sinh thái công nghệ và đổi mới sáng tạo”.
+
+Hiện, AWS đang vận hành 4 chương trình cộng đồng lớn tại Việt Nam:
+
+AWS User Groups– nơi các kỹ sư công nghệ gặp gỡ, học hỏi và chia sẻ kinh nghiệm thực chiến.
+
+AWS Community Builders– chương trình toàn cầu ghi nhận và hỗ trợ các thành viên có đóng góp tích cực cho cộng đồng công nghệ AWS. Việt Nam là một trong những quốc gia có số lượng Community Builders lớn nhất khu vực.
+
+AWS Heroes– danh hiệu cao nhất trong cộng đồng AWS toàn cầu, ghi nhận những cá nhân có ảnh hưởng sâu rộng và đóng góp xuất sắc. Việt Nam hiện có một đại diện duy nhất là ông Hồ Việt Anh, đồng sáng lập cộng đồng AWS Vietnam User Group.
+
+AWS Cloud Clubs– mô hình câu lạc bộ công nghệ trong các trường đại học, khuyến khích sinh viên tổ chức và dẫn dắt cộng đồng học tập về công nghệ đám mây từ sớm.
+
+Ông Rahim cũng nhấn mạnh tầm quan trọng của việc “bắt đầu sớm” trong hành trình công nghệ, khi đám mây đang trở thành nền tảng thúc đẩy các xu hướng mới như trí tuệ nhân tạo (AI), dữ liệu lớn (Big Data), và các mô hình không máy chủ (serverless).
+
+“Niềm đam mê công nghệ và tinh thần hỗ trợ lẫn nhau chính là cốt lõi tạo nên sức mạnh cộng đồng AWS tại Việt Nam. Và với đà phát triển này, tôi tin rằng sẽ còn nhiều cá nhân xuất sắc khác của Việt Nam được thế giới công nhận.”ông Shafraz Rahim khẳng định.
+
+Chia sẻ vớiVnEconomy, ông Hồ Việt Anh, Nhà sáng lập cộng đồng AWS Vietnam User Group, cho biết cộng đồng người dùng Amazon Web Services Việt Nam được hình thành từ năm 2016 với khoảng 30 thành viên ban đầu, đến nay đã phát triển lên hơn 15.000 người, trải rộng trên nhiều nền tảng như Facebook, Slack, Telegram… và chia thành ba nhóm lớn: AWS User Group Vietnam, Viet User Group và First Cloud Journey (chương trình đào tạo sinh viên do chính AWS vận hành).
+
+Theo ông Việt Anh, cách đây gần 10 năm, khái niệm "cloud" vẫn còn khá xa lạ tại Việt Nam, thậm chí bị hoài nghi. Nhưng đến nay, nhận thức về tầm quan trọng của hạ tầng số đã thay đổi rõ rệt.
+
+"Cloud giờ đây là điều kiện tiên quyết đối với mọi tổ chức, từ ngân hàng, doanh nghiệp tư nhân, doanh nghiệp nhà nước cho đến startup. Việc vận hành trên hạ tầng vật lý đã không còn đủ để đáp ứng nhu cầu tăng trưởng nhanh và linh hoạt của thị trường," ông nói.
+
+“Nếu một doanh nghiệp hôm nay có 1.000 khách hàng nhưng dự kiến có thể tiếp cận 1 triệu người dùng từ một chiến dịch bán hàng toàn quốc chỉ sau một đêm, thì với mô hình truyền thống trên máy chủ vật lý, không thể mở rộng hạ tầng nhanh chóng để đáp ứng lượng truy cập lớn như vậy. Nhưng với cloud, khả năng mở rộng (scalability) sẽ giải quyết hoàn toàn bài toán này”, ông đưa ra ví dụ cụ thể.
+
+
+
+"Nếu như cách đây gần 10 năm, khái niệm "cloud" vẫn còn khá xa lạ tại Việt Nam, thậm chí bị hoài nghi. Thì hiện tại, nền tảng "cloud" là điều kiện tiên quyết đối với mọi tổ chức, từ ngân hàng, doanh nghiệp tư nhân, doanh nghiệp nhà nước cho đến startup. Việc vận hành trên hạ tầng vật lý đã không còn đủ để đáp ứng nhu cầu tăng trưởng nhanh và linh hoạt của thị trường."
+
+Không chỉ có lợi thế về khả năng mở rộng, đặc điểm nổi trội của điện toán đám mây là tính sẵn sàng (availability), mức độ bảo mật trên toàn thế giới và tốc độ triển khai nhanh. Đặc biệt, khi các doanh nghiệp thuê dịch vụ từ bên thứ ba như Amazon Web Services (AWS) thay vì đầu tư hạ tầng riêng, giúp tập trung nguồn lực và tối ưu chi phí vận hành.
+
+“Trong bối cảnh trí tuệ nhân tạo (AI) đang phát triển mạnh, cloud đóng vai trò nền tảng để vận hành các mô hình AI hiện đại. Nếu không có hạ tầng đám mây đủ mạnh, rất khó để doanh nghiệp tiếp cận và triển khai AI một cách hiệu quả,” ông Hồ Việt Anh nhấn mạnh.
+
+Cũng theo ông, việc hình thành nhiều cộng đồng người dùng cloud tại Việt Nam là một tín hiệu tích cực, phản ánh mức độ phổ cập của công nghệ và sự trưởng thành về mặt nhận thức của thị trường. Ở nhiều quốc gia châu Á ví dụ như Nhật Bản, số lượng cộng đồng công nghệ đã lên tới hàng chục, thậm chí hàng trăm nhóm – mỗi nhóm có sứ mệnh riêng, nhưng đều góp phần thúc đẩy hệ sinh thái công nghệ và đổi mới.
+
+Nhìn lại gần một thập kỷ xây dựng cộng đồng, ông Việt Anh đánh giá giới trẻ Việt Nam có tinh thần học hỏi và tiếp thu công nghệ rất nhanh. Các cộng đồng người dùng dù ở bất kỳ quy mô nào đều hướng đến 4 mục tiêu chính:
+
+Thứ nhất,tạo sân chơi kết nối những người có chung đam mê công nghệ;
+
+Thứ hai,cập nhật, chia sẻ kiến thức và xu hướng công nghệ mới;
+
+Thứ ba,tổ chức các khoá đào tạo về cloud cho sinh viên và người trẻ;
+
+Thứ tư,hỗ trợ startup, đặc biệt trong giai đoạn đầu. Tại cộng đồng AWS Việt Nam, liên tục triển khai hỗ trợ phi tài chính như nguồn lực và ý tưởng, kèm theo gói hỗ trợ tài chính “Startup Credit” trị giá từ 10.000 USD đến 200.000 USD.
+
+Với vai trò là nền tảng hạ tầng cho đổi mới sáng tạo, điện toán đám mây được kỳ vọng sẽ tiếp tục đóng góp quan trọng vào quá trình hiện thực hóa Chiến lược quốc gia về chuyển đổi số, đồng thời tạo bệ phóng cho các mô hình kinh doanh mới, linh hoạt hơn, sáng tạo hơn trong tương lai gần.

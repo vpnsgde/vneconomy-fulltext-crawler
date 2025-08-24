@@ -1,0 +1,53 @@
+Theo Tom’s Hardware, trong một buổi đối thoại nội bộ, Giám đốc điều hành mới của hãng, ông Lip-Bu Tan, thẳng thắn thừa nhận: “Intel đã rơi khỏi nhóm 10 công ty bán dẫn hàng đầu thế giới”.
+
+Tham vọng làm mới dòng chip x86 của Intel với kiến trúc lai big.LITTLE, giống như ARM, không đem lại hiệu quả rõ rệt. Các chip thế hệ mới như Lunar Lake cũng không tạo được dấu ấn, đặc biệt khi so sánh với dòng chip X3D của AMD có hiệu suất vượt trội nhờ công nghệ bộ nhớ đệm tiên tiến.
+
+Trong lĩnh vực GPU, Intel gia nhập cuộc chơi quá muộn với những sản phẩm chưa hoàn thiện. Dù có tiềm năng, chúng vẫn chưa đủ sức cạnh tranh với các ông lớn như Nvidia hay AMD.
+
+Đáng chú ý, Intel còn vừa đánh mất một hợp đồng sản xuất quan trọng cho dòng chip sử dụng tiến trình 18A vốn được kỳ vọng là “cứu tinh” của hãng.
+
+Trang OregonTech cũng bình luận: “Một thời là biểu tượng đổi mới của Mỹ, giờ đây Intel đang chật vật để được xem là một trong những cái tên hàng đầu trong ngành”.
+
+Dù vậy, ông Tan cho rằng với bề dày công nghệ, Intel vẫn giữ được vị trí nhất định. Những cái tên như AMD, Nvidia, Apple, TSMC hay Samsung đang dẫn đầu thị trường, nhưng các hãng như Broadcom, MediaTek, Micron hay SK Hynix vẫn chưa thể vượt mặt Intel về mặt ảnh hưởng tổng thể.
+
+Trả lời câu hỏi của nhân viên trên toàn cầu trong buổi đối thoại, ông Tan chia sẻ với tâm trạng nặng nề: “Chúng ta cần đối diện với sự thật. Việc rơi khỏi nhóm dẫn đầu là hồi chuông cảnh tỉnh. Nếu muốn tồn tại và vươn lên, Intel buộc phải thay đổi mạnh mẽ, từ gốc”.
+
+Đã qua rồi cái thời Intel gần như độc chiếm thị trường CPU. Khi ấy, họ chỉ cần tung ra một vài cải tiến nhỏ qua từng thế hệ chip là đủ để giữ vững ngôi vương. Có lúc, Intel mạnh đến mức từng tính chuyện thâu tóm Nvidia với giá 20 tỷ USD.
+
+Nhưng trớ trêu thay, công ty chuyên sản xuất GPU năm xưa giờ đã trở thành “người khổng lồ” với giá trị thị trường lên tới 4.000 tỷ USD và bỏ xa Intel thời điểm hiện tại.
+
+Trong suốt một thời gian dài, Intel thậm chí còn không coi AMD là đối thủ đáng gờm. Nhưng rồi dòng chip Ryzen ra đời, thay đổi hoàn toàn cuộc chơi. “Đội xanh” đánh mất lợi thế, còn AMD vươn lên mạnh mẽ. Giờ đây, ngày càng nhiều người dùng ưu tiên lựa chọn hệ thống dùng chip AMD. Không chỉ phổ biến trên máy tính để bàn, AMD còn cung cấp sức mạnh cho các thiết bị cầm tay như Steam Deck, ROG Ally X, và cả những hệ máy chơi game hàng đầu như Xbox Series hay PlayStation 5.
+
+Thêm vào đó, AMD lại có mối quan hệ hợp tác rất chặt chẽ với TSMC, nhà máy gia công chip lớn nhất thế giới, đồng thời cũng là đối thủ lớn của Intel.
+
+Trong khi AMD chọn cách tập trung thiết kế và thuê ngoài sản xuất, thì Intel lại muốn tự làm tất cả. Mô hình “khép kín” từng là lợi thế giờ lại trở thành điểm yếu, khi các nhà máy của Intel không theo kịp tốc độ phát triển công nghệ của TSMC. Kết quả là những con chip của Intel không thể phát huy hết sức mạnh vốn có.
+
+Từ năm 2023, Intel buộc phải thay đổi, lần đầu tiên họ thuê TSMC sản xuất phần GPU trên dòng chip Meteor Lake. Tới nay, TSMC đã đảm nhiệm cả phần lõi tính toán của dòng Lunar Lake, và tính đến năm 2025, khoảng 30% sản phẩm của Intel đã được giao cho TSMC gia công.
+
+Đây là một quyết định mà đáng ra Intel nên đưa ra từ rất lâu, nếu không muốn nói là quá muộn. Việc cố chấp giữ lấy mọi công đoạn sản xuất trong tay rốt cuộc lại trở thành rào cản lớn nhất của họ.
+
+Trước áp lực ngày càng lớn, Intel đã phải cắt giảm hàng ngàn nhân viên trên toàn cầu để giảm chi phí. Trong khi đó, khoản đầu tư cho nghiên cứu công nghệ mới vẫn tiếp tục phình to. Quý III năm ngoái, công ty báo lỗ đến 16 tỷ USD – một con số đáng báo động.
+
+Dù AI không phải là công nghệ quá mới mẻ, nhưng phải tới khi ChatGPT ra đời, người ta mới thực sự cảm nhận được cú hích lớn thứ hai của lĩnh vực này. Và ai đang thống trị sân chơi đó? Chính là Nvidia, với các GPU phục vụ trung tâm dữ liệu – một mảng mà Intel từng có cơ hội bước vào từ sớm, nhưng lại để vuột khỏi tay.
+
+Thay vì tiếp tục chạy đua trong cuộc chiến AI trên nền tảng đám mây, nơi Nvidia đang bỏ xa phần còn lại, Intel đang chọn một hướng đi khác: tập trung vào AI biên (Edge AI).
+
+Đây là cách tiếp cận nhằm đưa khả năng xử lý trí tuệ nhân tạo trực tiếp xuống thiết bị đầu cuối như PC, thay vì phụ thuộc vào tính toán trên các trung tâm dữ liệu khổng lồ.
+
+CEO Lip-Bu Tan cũng đặc biệt nhấn mạnh tới AI đặc vụ – một lĩnh vực đang nổi lên, nơi các hệ thống AI có thể tự động vận hành mà không cần liên tục nhận lệnh từ con người. Ông xem đây là cơ hội tăng trưởng quan trọng cho Intel trong thời gian tới.
+
+CEO Intel bày tỏ lạc quan rằng những nhân sự cấp cao mới được tuyển dụng gần đây sẽ giúp Intel giành lại chỗ đứng trong cuộc đua AI. Ông còn hé lộ rằng vẫn còn một số “gương mặt đáng chú ý” sắp gia nhập.
+
+“Hãy chờ xem. Sẽ còn vài người nữa cùng lên tàu”, ông nói.
+
+Khi Nvidia đã quá dẫn trước, có thể thấy Intel đang chủ động chuyển hướng, tìm một con đường khác để rút ngắn khoảng cách thay vì mải mê đuổi theo vết xe cũ.
+
+Dù vậy, thách thức vẫn rất lớn. Intel hiện tụt lại phía sau trong cuộc đua chip xử lý trung tâm cho máy chủ, trong khi dòng sản phẩm EPYC của AMD đã vượt mặt và chiếm được thị phần trong năm qua, khiến niềm tin vào Intel tiếp tục sụt giảm.
+
+Cũng trong năm ngoái, hội đồng quản trị đã buộc Pat Gelsinger rời vị trí CEO – một dấu hiệu rõ ràng rằng công ty cần sự thay đổi. Người kế nhiệm là Lip-Bu Tan – một lãnh đạo có tầm nhìn thực tế với chủ trương không dàn trải, mà tập trung vào những gì Intel có thể làm tốt nhất tại một thời điểm.
+
+Song song với đó, lại rộ lên những đồn đoán về việc Intel có thể tách riêng mảng sản xuất (xưởng đúc) thành một công ty con độc lập. Mô hình này sẽ giúp "phần còn lại" của Intel tập trung vào thiết kế chip cạnh tranh hơn.
+
+Thực tế, các đối thủ lớn như AMD và Apple đều đã áp dụng mô hình này từ lâu, còn Nvidia thì luôn thuê ngoài sản xuất cho TSMC hoặc Samsung. Nếu Intel thực sự “giảm tải” và trở nên tinh gọn hơn, có thể công ty sẽ linh hoạt hơn khi tham gia cuộc cạnh tranh toàn cầu.
+
+Tuy nhiên, mọi chuyện vẫn còn quá sớm để khẳng định. Tiến trình 18A, được kỳ vọng là “cứu tinh” của Intel, phải tới năm sau mới chính thức vận hành. Và cho đến khi dòng chip Nova Lake ra mắt, Intel vẫn chỉ là một người chơi đang xoay xở tìm đường giữa cơn bão AI. Nếu không đủ kiên trì và quyết đoán, họ có thể sẽ phải bất lực chứng kiến con tàu của mình từ từ chìm xuống...

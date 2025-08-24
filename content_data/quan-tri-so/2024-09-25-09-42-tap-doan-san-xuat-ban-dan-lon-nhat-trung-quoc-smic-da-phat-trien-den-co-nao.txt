@@ -1,0 +1,41 @@
+Tập đoàn này đang sản xuất những con chip có độ dày chưa đến 1/15.000 so với một tờ giấy nhưng tích hợp đủ sức mạnh tính toán để tạo ra những tiến bộ như trí tuệ nhân tạo và mạng 5G.
+
+Tờ New York Times đánh giá đây là một kỳ tích mà chỉ một số ít công ty trên toàn cầu đạt được — và là kỳ tích đưa SMIC vào giữa một cuộc cạnh tranh địa chính trị quan trọng. Mỹ cho rằng công nghệ chip tiên tiến sẽ ảnh hưởng đến mọi lĩnh vực, trong đó có ưu thế quân sự. Họ đã thực hiện nhiều biện pháp để ngăn cản Trung Quốc tiếp cận công nghệ sản xuất vi mạch, bằng cách cấm Trung Quốc mua cả những con chip tiên tiến nhất thế giới và máy móc để sản xuất chúng. Thế nhưng một nghiên cứu mới đây cho thấy năng lực sản xuất của SMIC chỉ còn kém gã khổng lồ sản xuất chip Đài Loan 3 năm.
+
+SMIC là công ty được nhà nước hậu thuẫn hiện và hiện cũng là nhà sản xuất chip tiên tiến lớn nhất tại Trung Quốc. SMIC sản xuất hàng triệu con chip mỗi tháng cho các công ty thiết kế khác của Trung Quốc, thậm chí là Mỹ.
+
+Tuy nhiên, thực tế hiện nay, SMIC vẫn chưa thể sản xuất ra những con chip tiên tiến như các đối thủ TSMC Đài Loan hoặc các công ty khác ở Hàn Quốc và Hoa Kỳ. Tuy nhiên, nếu Huawei với sự giúp đỡ của SMIC, có thể sản xuất nhiều chip AI hơn trong những năm tới, có thể làm giảm tác động các hạn chế công nghệ của Mỹ và có lẽ một ngày nào đó sẽ cắt giảm vị thế dẫn đầu của Nvidia.
+
+Trung Quốc đã đầu tư hơn 150 tỷ USD vào ngành công nghiệp chip, bao gồm một quỹ đầu tư trị giá 47 tỷ USD được công bố vào tháng 5 năm nay, hỗ trợ mở rộng các nhà máy bán dẫn. Riêng SMIC vận hành hơn một chục cơ sở sản xuất chip, được gọi là fabs, trên khắp Trung Quốc và đang có kế hoạch hoặc xây dựng ít nhất 10 cơ sở nữa, theo Paul Triolo, một chuyên gia công nghệ.
+
+TSMC chuẩn bị một lần nữa cách mạng hóa ngành công nghiệp bán dẫn với tiến bộ thu nhỏ kích thước chip...
+
+SMIC hiện có gần 19.000 nhân viên, đã chi 4,5 tỷ USD cho chi phí vốn trong nửa đầu năm nay, nhiều hơn doanh thu mà công ty kiếm được, theo hồ sơ tài chính của công ty.
+
+Hiện nay, trong số các nhà sản xuất chip theo hợp đồng, công ty chỉ đứng sau TSMC tại Đài Loan và Samsung tại Hàn Quốc về doanh số. Công ty đã xuất xưởng gần bốn triệu tấm wafer trong nửa đầu năm, mỗi tấm có thể được chia thành hàng trăm hoặc hàng nghìn con chip.
+
+Chuyên gia công nghệ Paul Triolo cho biết, các biện pháp kiểm soát xuất khẩu của Mỹ đã “buộc Trung Quốc và các công ty Trung Quốc phải cải thiện trên mọi phương diện”. Mặc dù các công ty này phải đối mặt với những rào cản lớn, “họ đã đạt được những tiến bộ đáng kể để đạt vị trí hiện tại và không thể đánh giá thấp khả năng kiên trì theo đuổi mục tiêu của họ”.
+
+SMIC được thành lập tại phía đông Thượng Hải vào năm 2000 bởi Richard Chang, một người Mỹ gốc Đài Loan đã làm việc nhiều thập kỷ tại tập đoàn vi mạch có lịch sử lâu đời nhất của Mỹ, Texas Instruments và được biết đến là cha đẻ của ngành bán dẫn Trung Quốc.
+
+SMIC đã xây dựng các nhà máy mới với tốc độ chóng mặt, trở thành xưởng đúc chip lớn thứ ba thế giới trong vòng bốn năm kể từ khi thành lập. Công ty đã đưa ra mức giá sản xuất siêu cạnh tranh cho các công ty như Qualcomm, Broadcom và Texas Instruments. Năm 2004, công ty niêm yết trên các sàn giao dịch chứng khoán ở New York và Hồng Kông.
+
+Các cổ đông lớn nhất của công ty bao gồm Tập đoàn Công nghệ Thông tin và Truyền thông Trung Quốc, Datang Holdings và Quỹ đầu tư ngành công nghiệp vi mạch tích hợp Trung Quốc đều là công ty nhà nước. Đến năm 2015, khoảng một nửa số ghế trong hội đồng quản trị của SMIC do những người có quan hệ mật thiết với Chính phủ Trung Quốc nắm giữ.
+
+Tuy nhiên, vì một số lý do, đến năm 2019, công ty đã hủy niêm yết trên Sàn giao dịch chứng khoán New York và niêm yết tại Thượng Hải vào năm sau.
+
+Vào thời điểm đó, ngành công nghiệp chip của Trung Quốc đã thu hút sự chú ý của Mỹ như một mối lo ngại an ninh quốc gia. Năm 2019, chính quyền cựu Tổng thống Donald Trump đã thuyết phục Hà Lan yêu cầu công ty ASML của Hà Lan bán máy sản xuất chip tiên tiến nhất của mình cho SMIC vì lo ngại rằng công ty này sẽ hỗ trợ Trung Quốc về mặt quân sự.
+
+Năm 2020, Nhà Trắng đã áp đặt các hạn chế thương mại đối với SMIC sau khi công bố một báo cáo nêu chi tiết về mối liên hệ của công ty này với một tập đoàn quốc phòng lớn của Trung Quốc và các trường đại học liên kết với quân đội. SMIC phủ nhận mối liên hệ với quân đội. Tuy nhiên, Tổng thống Joe Biden đã quyết thắt chặt các hạn chế.
+
+Mặc dù vậy, các công ty của Mỹ bằng cách này hay cách khác vẫn đang cung cấp một phần các thiết bị, máy móc dù kém tiên tiến hơn cho các nhà máy mới của SMIC bằng cách xin giấy phép đặc biệt hoặc thương mại thông qua các công ty con và nhân viên không liên quan tới Mỹ.
+
+Với những lỗ hổng này, một số người cho biết không có gì bí ẩn khi SMIC đã phát triển nhanh tới vậy. "Hàng rào đã cao hơn, nhưng chúng tôi quyết định để ngỏ cổng trước, cổng bên và cổng sau", Jimmy Goodrich, cố vấn cấp cao về phân tích công nghệ cho Tập đoàn RAND cho biết. Ngày nay, khách hàng Bắc Mỹ chiếm khoảng một phần sáu doanh thu của SMIC.
+
+Theo dữ liệu hải quan Trung Quốc, lượng thiết bị sản xuất chip nhập khẩu của Trung Quốc trong bảy tháng đầu năm nay đã tăng 53% so với cùng kỳ năm 2023.
+
+Vào tháng 8/2023, Huawei đã phát hành một chiếc điện thoại có chip SMIC vượt quá giới hạn công nghệ do các hạn chế của Mỹ đặt ra trước đó. Phát minh mới này được coi là một “bóng ma” đối với Mỹ. Các nhà phân tích và giám đốc điều hành chip của Mỹ kết luận rằng SMIC đã tái sử dụng thiết bị kém tiên tiến hơn để tạo ra một con chip tiên tiến hơn.
+
+Cả TSMC và Intel, gã khổng lồ sản xuất chip của Mỹ, đều đã thử phương pháp tương tự trong quá khứ. Nhưng chiến lược này có thể dẫn đến nhiều chip lỗi và Intel thấy rằng nó không khả thi về mặt thương mại, các chuyên gia bán dẫn cho biết.
+
+Để ứng phó, các quan chức Mỹ đã soạn thảo các quy tắc chặt chẽ hơn nữa nhằm vào một số nhà máy của SMIC. Họ cũng đã thúc đẩy các quan chức Hà Lan và Nhật Bản ngừng cung cấp cho các nhà máy tiên tiến nhất của SMIC. Tháng này, Hà Lan đã ban hành các quy tắc mới đưa các biện pháp kiểm soát xuất khẩu của mình phù hợp với các quy định của Hoa Kỳ.

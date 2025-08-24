@@ -1,0 +1,35 @@
+Bộ Tài chính đang nghiên cứu hai phương pháp tính thuế chuyển nhượng bất động sản. Trong đó, có đề xuất áp dụng mức thuế suất 20% trên phần thu nhập chịu thuế (nghĩa là bằng giá bán trừ tổng chi phí liên quan đến bất động sản chuyển nhượng).
+
+Tuy nhiên, nhiều ý kiến nhận định phương án này mặc dù giúp tối ưu hóa nguồn thu ngân sách, đặc biệt với giao dịch bất động sản lợi nhuận cao, sẽ mang lại nguồn thu lớn, nhưng cũng không dễ thực hiện.
+
+Theo bà Dương Thùy Dung, Giám đốc điều hành CBRE Việt Nam, đề xuất tính thuế chuyển nhượng bất động sản bằng phương pháp áp mức thuế suất 20% trên thu nhập chịu thuế (giá bán trừ giá mua và các chi phí liên quan), có ưu điểm là người nộp thuế chỉ đóng thuế trên phần lợi nhuận thực sự kiếm được, không phải trên toàn bộ giá trị giao dịch. Những giao dịch lợi nhuận cao thì trả thuế cao, ngược lại, giao dịch có lợi nhuận thấp thì trả thuế thấp. So với việc áp thuế cố định như hiện tại (2% trên tổng giá trị chuyển nhượng), phương pháp này phản ánh đúng hơn mức thu nhập thực tế của cá nhân.
+
+Ngoài ra, còn có thể làm hạn chế tình trạng đầu cơ bất động sản bằng cách đánh thuế cao vào lợi nhuận, nhất là các giao dịch mua bán ngắn hạn, đầu cơ lướt sóng. Đồng thời, thông qua yêu cầu xác định giá mua và chi phí liên quan, cũng thúc đẩy sự minh bạch trong khai báo giá trị giao dịch, giảm hiện tượng kê khai giá thấp để trốn thuế…
+
+Song, vị chuyên gia này cho rằng để áp dụng được mức thuế trên, sẽ có nhiều thách thức khi thực hiện, bởi việc xác định chính xác giá mua và chi phí liên quan rất phức tạp và dễ bị gian lận.
+
+Trong đó, về giá, nếu không xây dựng một cơ sở dữ liệu minh bạch, lẫn cơ chế kiểm soát chặt chẽ, người nộp thuế có thể khai giá mua ban đầu cao hơn thực tế, để giảm thu nhập chịu thuế. Chưa kể, với những bất động sản mua từ lâu, hoặc bất động sản thừa kế cho tặng không có dữ liệu rõ ràng, việc xác định giá mua/giá vốn ban đầu càng không dễ dàng.
+
+Mặt khác, đối với chi phí liên quan cũng phải quy định rõ chi phí nào được tính trong chi phí được khấu trừ khi tính thuế, như: chi phí xây dựng, sửa chữa, môi giới, lãi vay, bồi thường. Tất cả các chi phí cần có hóa đơn chứng từ hợp lệ đi kèm. Làm sao để kiểm soát những chi phí này mà không bị lợi dụng khai khống, là một thách thức không nhỏ với cơ quan thuế.
+
+Vì vậy, “quá trình xác minh và kiểm tra chi phí hợp lệ đòi hỏi nhiều nguồn lực và thời gian sẽ gây áp lực lên cơ quan thuế. Với nguồn lực hiện tại, để kiểm soát chặt chẽ tất cả giao dịch bất động sản là điều gần như không thể của cơ quan thuế, dẫn tới việc kéo dài thời gian tính thuế và gây đình trệ quá trình hoàn tất thủ tục tính thuế cho những giao dịch mua bán”, chuyên gia nhận định.
+
+Cũng theo đại diện CBRE, áp dụng phương pháp mới có thể là con dao hai lưỡi. Mặc dù một trong những ưu điểm giúp tối ưu hóa nguồn thu ngân sách, nhưng nếu không đi kèm công cụ cùng cơ chế kiểm soát nguồn thông tin đầu vào chính xác, thì đánh thuế 20% trên lợi nhuận thậm chí có thể làm giảm nguồn thu thuế so với phương pháp hiện tại.
+
+Bà Dung cho rằng tính khả thi của phương án phụ thuộc vào hệ thống cơ sở dữ liệu quốc gia; hạ tầng công nghệ hỗ trợ quản lý và truy cập dữ liệu, cùng các chính sách chế tài đi kèm.
+
+Trong đó, cơ quan có thẩm quyền cần xây dựng cơ sở dữ liệu chính xác về lịch sử giao dịch của từng thửa đất, bao gồm: giá mua, giá bán và chi phí liên quan. Tuy nhiên, hiện nay, dữ liệu giao dịch bất động sản tại Việt Nam chưa đầy đủ và minh bạch; vẫn còn tình trạng giá trị giao dịch ghi trên hợp đồng không phản ánh đúng giá thực tế do tình trạng kê khai giá thấp để giảm thuế.
+
+Bên cạnh việc chính xác, cơ sở dữ liệu cần đồng bộ trên phạm vi quốc gia và liên thông giữa các cơ quan liên quan (cơ quan thuế, phòng đăng ký đất đai, phòng công chứng…). Nếu không có sự liên thông dữ liệu, cơ quan thuế cũng không thể kiểm tra và xác minh thông tin một cách nhanh chóng hiệu quả.
+
+Ngoài ra, hạ tầng công nghệ thông tin phải đủ mạnh, giúp quản lý dữ liệu giao dịch; áp dụng công nghệ kịp thời để phát hiện những giao dịch và kê khai bất thường.
+
+Đại diện CBRE lưu ý chỉ nên áp dụng khi chúng ta đã xây dựng được một hệ thống cơ sở dữ liệu đồng bộ, minh bạch dựa trên hạ tầng công nghệ số vững mạnh. Đồng thời, cần có các văn bản pháp lý cụ thể quy định về những loại chi phí hợp lệ và chứng từ đi kèm và có chế tài đủ mạnh nếu phát hiện khai gian, khai khống.
+
+Khi áp dụng, nên xây dựng lộ trình áp dụng song song với phương pháp thu thuế hiện tại (là thu 2% trên giá trị giao dịch) trong giai đoạn đầu để không bị gián đoạn quá trình thu thuế, những giao dịch nào không thể áp dụng theo phương pháp mới, thì vẫn áp dụng phương pháp cũ. Đặc biệt, nghiên cứu, áp dụng thử nghiệm ở một số địa phương lớn trước khi mở rộng ra toàn quốc.
+
+Đồng quan điểm, bà Đỗ Thu Hằng, Giám đốc Savills Việt Nam đánh giá phương án này sẽ là hợp lý khi xác định đúng, chính xác giá mua và chi phí từ tất cả các bên tham gia… nhưng nhìn vào điều kiện trước mắt thì chưa thể thực hiện tốt ngay. Việc lựa chọn áp dụng phải được xem xét toàn diện.
+
+Theo ông Đoàn Văn Bình, Chủ tịch Hội đồng quản trị CEO Group, còn rất nhiều thứ cần tranh luận, nhiều thủ tục phải hoàn thiện. Lãnh đạo CEO Group cũng nhấn mạnh quan điểm ủng hộ việc đánh thuế, đồng thời lưu ý nên quy định rõ mức thuế và thời gian triển khai phù hợp với điều kiện phát triển kinh tế - xã hội của đất nước và thu nhập, văn hoá của người dân.
+
+“Nếu đánh thuế hạn chế đầu cơ, điều tiết được cung - cầu, có nguồn thu cho ngân sách nhà nước, mà người dân vẫn tiếp cận được nhà ở, doanh nghiệp có thể phát triển dự án thì đó là một điều tốt”, ông Bình nhìn nhận.

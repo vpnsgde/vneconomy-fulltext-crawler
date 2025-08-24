@@ -1,0 +1,21 @@
+Những ngày đầu tháng 3/2020 khi Covid-19 vẫn đang diễn biến rất phức tạp ở Việt Nam, ELSA - startup về công nghệ giáo dục (Edtech) được sáng lập bởi Văn Đinh Hồng Vũ, đã làm một việc chưa từng có tiền lệ, đó là “mở toang” hệ thống để mọi người cùng được luyện phát âm tiếng Anh miễn phí trên nền tảng của mình. “Đó là một quyết định không dễ dàng”, bà Vũ từng chia sẻ. Lí do là bởi lúc bấy giờ startup này vẫn có rất ít nhân sự. Mở hệ thống đồng nghĩa với việc cả đội ngũ phải hoạt động gần như 24/7 để duy trì hoạt động...
+
+Sáng kiến trên hóa ra lại mang lại nhiều “quả ngọt” xứng đáng. Cùng với lượng truy cập và cài đặt tăng đột biến sau đó, hồi tháng 2 năm nay, nền tảng lên tới hàng chục triệu người sử dụng này cũng chính thức gọi vốn thành công vòng Series B. Con số đầu tư 15 triệu USD được cho là sẽ giúp Edtech này tiếp tục chinh phục các thị trường mới.
+
+
+
+Không chỉ ELSA, nửa đầu năm 2021 cũng chứng kiến những cột mốc đáng nhớ của các startup khác trong mảng giáo dục trong hành trình gọi vốn. Hồi tháng 6, Tập đoàn giáo dục EQuest bất ngờ tiết lộ nhận được khoản đầu tư từ một trong những công ty đầu tư lớn nhất thế giới KKR. Khoản đầu tư được cho là lên tới 100 triệu USD được kỳ vọng sẽ giúp EQuest mở rộng hoạt động và tiếp tục sứ mệnh mang đến cho học sinh, sinh viên Việt Nam cơ hội tiếp cận giáo dục chất lượng đẳng cấp thế giới với chi phí phù hợp.
+
+Lĩnh vực Edtech (công nghệ giáo dục) đang ngày càng phát triển. Vì sự an toàn, người dân có xu hướng chuyển sang học trực tuyến trong Covid-19. Báo cáo của Do Ventures, một quỹ đầu tư mạo hiểm tập trung vào lĩnh vực công nghệ tại Việt Nam và Đông Nam Á, cho rằng Việt Nam là điểm đầu tư hấp dẫn nhất trong khu vực, và thời gian tới, các nhà đầu tư sẽ tập trung vào ba lĩnh vực chính là giáo dục, chăm sóc sức khỏe và dịch vụ tài chính.
+
+Chia sẻ với Tạp chí Kinh tế Việt Nam/VnEconomy, bà Lê Hoàng Uyên Vy – Giám đốc điều hành của Do Ventures, cho biết trong EdTech có bốn mảng lớn là content (bài học ghi hình trước dưới dạng video hoặc ngân hàng đề thi), live-class (lớp học trực tuyến với giáo viên, có thể theo hình thức một-một hoặc theo nhóm), OMO (mô hình online kết hợp offline), B2B (giải pháp quản lý quy trình cho các trường học hoặc cơ sở giáo dục). Giai đoạn đầu thị trường EdTech Việt Nam xuất phát từ content và đang bắt đầu có sự dịch chuyển sang mảng live-class.
+
+Dù tiềm năng là vậy, song Edtech không phải là “mảnh đất” dễ khai phá và mang lại thành công cho số đông. Hầu hết các startup và mô hình kinh doanh làm về giáo dục cần phải có đam mê và sự bền bỉ lớn bởi xét hiệu quả kinh tế thì không sánh được với những mảng khác về tiêu dùng, ăn uống, hay giải trí.
+
+Theo bà Uyên Vy, dưới tác động của Covid-19, học trực tuyến đã trở nên thiết yếu và đây là thời điểm thuận lợi để các startup trong lĩnh vực Edtech tạo ra đột phá. Cụ thể, các startup có thể tận dụng công nghệ để nâng cao trải nghiệm cho cả học sinh và nhà trường. Ví dụ như áp dụng công nghệ AI, Machine Learning sẽ giúp định hướng, đề xuất chương trình học phù hợp theo năng lực và mục tiêu cụ thể của từng học sinh. Hoặc các giải pháp về quản lý trường học sẽ giúp giáo viên và nhà trường quản lý quy trình dạy học hiệu quả hơn và thúc đẩy việc số hoá trong giáo dục.
+
+Với câu chuyện của ELSA, CEO Văn Đinh Hồng Vũ cho biết khi mới khởi nghiệp chị đã phải tự xác định sẽ không thể chỉ tạo ra một sản phẩm tốt hơn những cái hiện có. “Điều chúng tôi có thể và phải làm là tạo ra một sản phẩm sáng tạo thật sự, khác với những cách thông thường, trong thời gian ngắn hơn là khoảng 3 năm”, CEO ELSA nói.
+
+Thêm nữa, làm sao để kêu gọi được những chuyên gia công nghệ hàng đầu thế giới về làm với mình, bởi nhân tài trong lĩnh vực trí tuệ nhân tạo và nhận diện giọng nói cũng như “lá mùa thu”, rất khan hiếm cũng là một bài toán khó. Dù nhiều khó khăn cộng với biết bao nhiêu lần phải thay đổi, chỉnh sửa, nhà sáng lập Edtech startup này vẫn chưa bao giờ muốn bỏ cuộc.
+
+“Vì bản thân Vũ, cũng như các cộng sự vẫn luôn biết rằng sản phẩm của mình rồi sẽ được đón nhận rộng rãi, khi nó có thể giúp người học tiếng Anh giải quyết được khó khăn muôn thuở, là học phát âm”, CEO ELSA chia sẻ.

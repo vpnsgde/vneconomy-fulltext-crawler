@@ -1,0 +1,19 @@
+Doanh số bán bán dẫn toàn cầu tăng từ 139,0 tỷ USD vào năm 2001 lên 526,9 tỷ USD vào năm 2023, theo Thống kê thương mại bán dẫn thế giới (WSTS) và Ước tính của Hiệp hội Công nghiệp Bán dẫn (SIA). Trong đó, doanh thu của các công ty bán dẫn Mỹ đã tăng từ 71,1 tỷ USD vào năm 2001 lên 264,6 tỷ USD vào năm 2023. Điều này có nghĩa chỉ riêng các công ty bán dẫn của Mỹ đã thống trị tới 50,2% thị phần ngành bán dẫn toàn cầu.
+
+Động lực đằng sau thúc đẩy thành công ngành công nghiệp vi mạch của Mỹ xuất phát từ việc quốc gia này sở hữu những công ty thiết kế chip có giá trị gia tăng hàng đầu. Và dù không có quá nhiều xưởng đúc, song các công cụ sản xuất tiên tiến đều do các công ty của Mỹ như Applied Materials, KLA và Lam Research sản xuất, dĩ nhiên, không có nhà máy sản xuất bán dẫn nào trên thế giới có thể được trang bị mà không sử dụng các công cụ từ ba công ty này.
+
+Intel mặc dù vẫn là nhà sản xuất CPU máy tính và máy chủ lớn nhất thế giới, tuy nhiên, gã khổng lồ đã bỏ lỡ những thay đổi quan trọng của thị trường, khiến tình hình kinh doanh của công ty gặp ngày càng nhiều khó khăn. Theo Tom’s Hardware, cuối những năm 2000, Intel bỏ lỡ miếng bánh thiết kế bộ xử lý cho điện thoại thông minh và máy tính bảng và cuối những năm 2010/đầu những năm 2020 là trí tuệ nhân tạo.
+
+Chính khoảng trống thị trường của Intel đã tạo điều kiện cho các đối thủ cạnh tranh như Nvidia, MediaTek và Qualcomm vươn lên. Thậm chí, Intel đã mất vị thế dẫn đầu về công nghệ sản xuất vào tay gã khổng lồ Đài Loan – TSMC. Hiện nay, TSMC đang có vốn hóa thị trường cao hơn Intel và là đối tác của nhiều công ty như AMD, Apple, Nvidia và Qualcomm.
+
+Để ứng phó với cuộc khủng hoảng này, hội đồng quản trị của Intel đã tái bổ nhiệm Pat Gelsinger, một cựu nhân viên đã rời công ty vào năm 2008, làm CEO vào năm 2021. Pat Gelsinger đã khởi xướng một kế hoạch phục hồi đầy tham vọng và tốn kém để khôi phục vị thế của Intel ở vị trí hàng đầu trong ngành.
+
+Ngay khi nhậm chức, vị CEO mới đã thực hiện chiến lược phát triển các sản phẩm tiên tiến, thiết kế các công nghệ quy trình tiên tiến và sản xuất chip cho các bên thứ ba để chi trả cho các quy trình sản xuất và nhà máy ngày càng đắt đỏ hơn. Điều này đòi hỏi công ty phải đầu tư ồ ạt, đổ hàng chục tỷ USD vào các nhà máy. Tất nhiên, gánh nặng tài chính của quá trình phục hồi này là rất lớn. Intel chi gần 16 tỷ USD hàng năm cho năng lực sản xuất mới mà không có lợi nhuận ngay lập tức.
+
+Trong khi Intel đánh mất cơ hội, Qualcomm và Nvidia đã tận dụng nhu cầu gia tăng điện thoại thông minh và trí tuệ nhân tạo, kiếm được hàng trăm tỷ USD trong những năm qua thông qua việc thiết kế những bộ xử lý hiệu suất cao.
+
+Hiện nay, mọi con chip của Mỹ chủ yếu dựa trên ba công ty sản xuất chip là Intel, Samsung và TSMC.
+
+Thông qua Đạo luật CHIPS vào năm 2022, Mỹ đã tăng cường đầu tư để giảm sự phụ thuộc vào chip do nước ngoài sản xuất và tăng cường sản xuất trong nước. Intel đã nhận được gói trợ cấp lớn nhất gồm các khoản tài trợ và bảo lãnh cho vay, khoảng 20 tỷ USD, để xây dựng các nhà máy mới ở Arizona và Ohio. Samsung Foundry và TSMC cũng nhận được sự hỗ trợ để xây dựng các nhà máy mới tại Hoa Kỳ.
+
+Mặc dù vậy, TSMC luôn đứng trước mối đe dọa gián đoạn nguồn cung chip toàn cầu xuất phát từ căng thẳng địa chính trị. Trong khi đó, AMD, Apple, Broadcom, Nvidia và Qualcomm đều đang phụ thuộc vào năng lực sản xuất tiên tiến của TSMC tại Đài Loan. Vì vậy, nếu Intel không thể lấy lại “phong độ”, một số nhà phân tích dự đoán điều này có thể làm lung lay ngành công nghiệp chip của Mỹ.

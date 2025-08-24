@@ -1,0 +1,103 @@
+Theo nguồn tin thân cận của hãng tin Bloomberg, việc gửi thư này không đồng
+nghĩa với một lệnh cấm hoàn toàn sử dụng H20. Trong thư, nhà chức trách Trung
+Quốc gọi con chip của công ty Mỹ - vốn được dùng trong một số ứng dụng trí tuệ
+nhân tạo (AI) quan trọng - là “kém tiên tiến”.
+
+Yêu cầu này có thể gây khó khăn cho hành trình trở lại thị
+trường Trung Quốc của nhà Nvidia sau khi công ty này được chính quyền Tổng thống
+Mỹ Donald Trump cho phép khôi phục bán hàng tại đây.
+
+Hôm thứ Hai (11/8), ông Trump cho biết con chip H20 của Nvidia “vẫn có thị trường” tại nền kinh tế lớn thứ hai thế giới, dù cũng nhận
+xét đây là loại chip “lỗi thời”.
+
+Các nhà chế tạo chip Mỹ gồm Nvidia và Advanced Micro Devices (AMD) gần đây được Washington cấp phép để tiếp tục bán chip AI công nghệ thấp cho
+Trung Quốc với một điều kiện gây tranh cãi là phải chia cho Chính phủ Mỹ 15% doanh thu từ việc bán chip tại Trung Quóc . Dù được mở đường để bán hàng sang Trung Quốc, nhưng hai công
+ty này vẫn đối mặc thách thức từ khách hàng tại đây trong bối cảnh Bắc Kinh gây
+áp lực buộc doanh nghiệp trong nước sử dụng con chip nội địa.
+
+Nguồn tin của Bloomberg cho biết yêu cầu của nhà chức trách
+Trung Quốc cũng có thể ảnh hưởng tới con chip AI MI308 của AMD, dù các lá thư
+không đề cập cụ thể tới loại chip này.
+
+Tin tức trên đã giúp giá cổ phiếu của công ty chế tạo chip
+Trung Quốc Cambricon Technologies tăng trần 20% trong phiên giao dịch ngày
+12/8. Giá cổ phiếu Semiconductor Manufacturing International cũng tăng mạnh.
+
+Tuy nhiên, theo các nhà phân tích, các công ty Trung Quốc có
+thể chưa sẵn sàng chuyển sang sử dụng con chip nội địa.
+
+“Chất lượng con chip do các doanh nghiệp Trung Quốc phát triển
+dù đang được cải thiện đáng kể nhưng có thể vẫn chưa đủ linh hoạt để dùng cho
+khối lượng công việc mà ngành AI nước này đang muốn tập trung vào”, ông
+Homin Lee, chiến lược gia vĩ mô cấp cao tại công ty Lombard Odier ở Singapore,
+nhận định.
+
+Ông Lee dự đoán nhu cầu đối với các con chip mà chính quyền
+ông Trump cho phép Nvidia và AMD bán cho Trung Quốc vẫn “rất lớn”.
+
+Đồng quan điểm, nhà phân tích Kevin Cassidy của công ty
+Rosenblatt Securities dự báo doanh số chip của Nvidia tại Trung Quốc sẽ không bị
+ảnh hưởng bởi doanh nghiệp nước này sẽ muốn dùng những con chip tốt nhất hiện
+có.
+
+“Con chip của Nvidia và AMD vượt trội hơn so với các loại
+chip do Trung Quốc phát triển”, ông Cassidy nhận xét.
+
+Nguồn tin của Bloomberg cho biết Bắc Kinh đã hỏi về vấn đề
+này trong thư gửi một số doanh nghiệp như tại sao họ mua chip Nvidia H20 thay
+vì phiên bản nội địa, liệu đó con chip này có phải là lựa chọn cần thiết so với
+các lựa chọn nội địa hay không.
+
+Truyền thông trong nước thời gian qua cũng đưa nhiều tin bài
+bày tỏ sự nghi ngờ về tính bảo mật và độ tin cậy của H20. Các cơ quan quản lý
+Trung Quốc đã trực tiếp đưa ra quan ngại này với Nvidia nhưng công ty Mỹ khẳng
+định con chip của mình không có lỗ hổng bảo mật như vậy.
+
+Trước đó, tờ báo Financial Times cũng đưa tin cho biết một số
+doanh nghiệp Trung Quốc đang có kế hoạch giảm đơn đặt hàng chip Nvidia để phản ứng
+lại yêu cầu của nhà chức trách.
+
+Nguồn tin của Bloomberg nói rằng yêu cầu qua thư trên của Bắc
+Kinh tương tự như yêu cầu hạn chế sử dụng xe điện Tesla và điện thoại iPhone
+trong một số lĩnh vực nhất định vì lo ngại an ninh quốc gia. Chính phủ Trung Quốc
+cũng từng cấm sử dụng con chip của công ty Mỹ Micron Technology trong các cơ sở hạ tầng
+quan trọng.
+
+AMD không đưa ra bình luận về thông tin trên, trong khi
+Nvidia khẳng định: “H20 không phải một sản phẩm quân sự hay dành cho cơ sở hạ tầng
+của chính phủ”.
+
+“Trung Quốc có nguồn cung cấp chip nội địa dồi dào và họ
+không bao giờ phụ thuộc vào con chip Mỹ cho các hoạt động của chính phủ”, thông
+cáo của Nvidia nêu rõ.
+
+Động thái của Bắc Kinh làm dấy lên hoài nghi về lời giải
+thích của chính quyền ông Trump trước đó rằng việc cấp phép để Nvidia và AMD
+bán con chip cho Trung Quốc như một điều khoản trong thỏa thuận thương mại song
+phương giữa hai nước. Trong khi đó, phía Trung Quốc công khai phủ nhận điều
+này. Yêu cầu gần đây của Bắc Kinh với các doanh nghiệp trong nước cho thấy ngay
+từ đầu nước này có thể đã không tìm kiếm sự nhượng bộ như vậy từ Washington.
+
+Theo các nhà phân tích, một mặt Chính phủ Trung Quốc lo ngại
+con chip Mỹ có thể đe dọa an ninh quốc gia, một mặt nước này đang tích cực thúc
+đẩy chế tạo chip nội địa. Bắc Kinh muốn doanh nghiệp trong nước tránh xa con
+chip phương Tây và ưu tiên hàng nội.
+
+Trước đó vào tháng 9 năm ngoái, theo tin từ Bloomberg vào nhà chức trách
+Trung Quốc đã yêu cầu doanh nghiệp nước này lựa chọn con chip nội địa thay vì
+chip H20 của Nvidia, đồng thời đưa ra các tiêu chuẩn về hiệu suất năng lượng mà
+H20 không đáp ứng được.
+
+H20 được Nvidia thiết kế dành riêng cho khách hàng Trung Quốc
+để tuân thủ các hạn chế xuất khẩu của Chính phủ Mỹ. H20 có năng lực tính toán
+thấp hơn so với các sản phẩm hàng đầu của Nvidia nhưng băng thông bộ nhớ mạnh
+giúp con chip này phù hợp với giai đoạn đầu phát triển của các ứng dụng AI.
+
+Do
+đó, đây là con chip được nhiều doanh nghiệp Trung Quốc như
+Aliababa, Tencent săn đón. Trong khi đó, Huawei, công ty chế tạo chip hàng đầu của
+Trung Quốc, đang gặp khó khăn trong việc nhập khẩu linh kiện để sản xuất.
+
+Theo ước tính từ các quan chức dưới thời cựu Tổng thống Mỹ
+Joe Biden, nếu không mua được chip H20 của Nvidia, các công ty Trung Quốc sẽ phải
+trả chi phí cao hơn từ 3-6 lần để chạy mô hình AI tiên tiến của mình.

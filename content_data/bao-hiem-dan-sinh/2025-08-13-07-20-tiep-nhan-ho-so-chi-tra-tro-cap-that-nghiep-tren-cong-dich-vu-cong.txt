@@ -1,0 +1,52 @@
+Để kịp thời chi trả các chế độ bảo hiểm thất nghiệp cho người lao động khi thực hiện triển khai thí điểm dịch vụ công đối với 6 thủ tục bảo hiểm thất nghiệp trên Cổng Dịch vụ công quốc gia, Bảo hiểm xã hội Việt Nam yêu cầu Bảo hiểm xã hội cấp tỉnh chủ động phối hợp với Sở Nội vụ, Sở Tài chính và Trung tâm Dịch vụ việc làm tỉnh/thành phố hướng dẫn người lao động thực hiện.
+
+Trong trường hợp Cổng Dịch vụ công quốc gia chưa đáp ứng được việc phản hồi cho Trung tâm Dịch vụ việc làm khi thông tin hưởng bảo hiểm thất nghiệp không hợp lệ, cần kiểm tra lại, thống nhất với Trung tâm Dịch vụ việc làm về phương thức phản hồi thông tin không hợp lệ bên ngoài hệ thống.
+
+Đồng thời, phân công, giao trách nhiệm cụ thể cho các đơn vị, cá nhân liên quan trong việc tiếp nhận hồ sơ, giải quyết chi trả cho người lao động, gửi thông tin thanh toán (số tiền, thời gian, trạng thái,…) về hệ thống Cổng Dịch vụ công quốc gia theo đúng quy trình.
+
+Trung tâm Công nghệ thông tin và Chuyển đổi số của Bảo hiểm xã hội Việt Nam  được giao nâng cấp các phần mềm nghiệp vụ của ngành, đảm bảo kết nối, nhận thông tin, dữ liệu kết quả giải quyết của các dịch vụ công trực tuyến về bảo hiểm thất nghiệp trên Cổng Dịch vụ công quốc gia, đáp ứng việc giải quyết chi trả; gửi thông tin thanh toán theo quy trình.
+
+Bảo hiểm xã hội Việt Nam hướng dẫn quy trình tiếp nhận hồ sơ, chi trả bảo hiểm thất nghiệp tại Cổng Dịch vụ công quốc gia qua 3 bước như sau:
+
+Bước 1: Cổng Dịch vụ công quốc gia gửi hồ sơ chi trả trợ cấp thất nghiệp cho Bảo hiểm xã hội tỉnh theo phương thức chia sẻ dữ liệu, tuân thủ các quy định về bảo mật thông tin.
+
+Dữ liệu chia sẻ phải có khả năng gửi, nhận, lưu trữ, xử lý được bằng thiết bị số và được ký số theo quy định.
+
+Bước 2: Bảo hiểm xã hội tỉnh tiếp nhận hồ sơ chi trả trợ cấp thất nghiệp do Cổng Dịch vụ công quốc gia gửi đến và kiểm tra thông tin. Việc phản hồi cho Trung tâm Dịch vụ việc làm bằng các hình thức bên ngoài hệ thống Cổng Dịch vụ công quốc gia.
+
+Trường hợp thông tin hợp lệ, cập nhật hồ sơ chi trả vào Hệ thống và tổ chức chi trả trợ cấp thất nghiệp, cấp thẻ bảo hiểm y tế cho người lao động trong thời hạn 5 ngày làm việc, kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp điện tử đối với người hưởng trợ cấp thất nghiệp tháng đầu tiên.
+
+Và trong thời hạn 5 ngày làm việc, tính từ thời điểm ngày thứ 7 của tháng hưởng trợ cấp thất nghiệp đối với người hưởng trợ cấp thất nghiệp từ tháng thứ hai trở đi theo quy định.
+
+Bước 3: Hệ thống của cơ quan Bảo hiểm xã hội tự động gửi thông tin thanh toán (số tiền, thời gian, trạng thái,...) về hệ thống Cổng Dịch vụ công quốc gia.
+
+Tại Hà Nội, đại diện
+Trung tâm Dịch vụ việc làm Hà Nội cho biết hiện nay, ngoài cách nộp hồ sơ đề
+nghị hưởng trợ cấp thất nghiệp trực tiếp tại Trung tâm, người lao động trên địa
+bàn có thể lựa chọn nộp trực tuyến qua Cổng Dịch vụ công quốc gia. Việc này để
+đảm bảo thuận tiện nhất theo điều kiện của bản thân.
+
+Với cách nộp hồ sơ hưởng
+trợ cấp thất nghiệp qua Cổng Dịch vụ công, người lao động sẽ nhập từ khóa tìm
+kiếm: ncovi.dichvucong.gov.vn để nộp hồ sơ trực tuyến theo quy định. Chụp sẵn
+văn bản chứng minh đã chấm dứt hợp đồng lao động/hợp đồng làm việc vào thiết bị
+di động hoặc máy tính để đính kèm khi nộp.
+
+Sử dụng tài khoản VNeID (tài khoản định danh điện tử)
+để nộp hồ sơ. Tìm kiếm nhanh “Giải quyết hưởng trợ cấp thất nghiệp” để nộp hồ
+sơ; nhập đầy đủ các thông tin theo quy định. Đính kèm văn bản chứng minh đã chấm
+dứt hợp đồng lao động/hợp đồng làm việc, và chọn tỉnh/thành phố, Trung tâm Dịch
+vụ việc làm để nộp hồ sơ.
+
+Theo quy định, người lao động cũng được ủy
+quyền cho người khác nộp hồ sơ, hoặc gửi hồ sơ theo đường bưu điện nếu thuộc một
+trong các trường hợp sau: Ốm đau, thai sản có xác nhận của cơ sở y tế có thẩm
+quyền; bị tai nạn có xác nhận của cảnh sát giao thông, hoặc cơ sở y tế có thẩm
+quyền; do hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận
+của Chủ tịch Ủy ban Nhân dân xã, phường, thị trấn.
+
+Ngoài chế độ trợ cấp thất
+nghiệp, người lao động có nhu cầu tìm kiếm việc làm khi đến Trung tâm Dịch vụ
+việc làm sẽ được tư vấn, giới thiệu việc làm miễn phí, để giúp họ sớm quay trở
+lại thị trường lao động. Trong thời gian hưởng trợ cấp thất nghiệp, nếu có nhu cầu
+học nghề thì được tư vấn, hỗ trợ học nghề theo quy định.

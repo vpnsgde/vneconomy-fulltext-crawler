@@ -1,0 +1,45 @@
+Thực trạng này được Trung tướng Nguyễn Minh Chính, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm phạm sử dụng công nghệ cao (Bộ Công an), Phó Chủ tịch Thường trực Hiệp hội An ninh mạng quốc gia chỉ ra tại hội thảo “An ninh dữ liệu trên không gian mạng” do Hiệp hội An ninh mạng quốc gia tổ chức chiều ngày 16/7/2024.
+
+Theo Trung tướng Nguyễn Minh Chính, công nghệ thông tin ngày càng lan tỏa vào cuộc sống, người dùng càng cung cấp nhiều dữ liệu, dữ liệu cá nhân hơn lên không gian mạng. Các doanh nghiệp ngày càng sử dụng nhiều sản phẩm, dịch vụ phân tích dữ liệu khách hàng, dữ liệu cá nhân để tối đa hóa lợi nhuận.
+
+"Mức độ phổ biến của dữ liệu trên không gian mạng tỷ lệ thuận với hậu quả xảy ra khi dữ liệu không được bảo vệ tương xứng, đúng cách”, Cục trưởng Nguyễn Minh Chính nhấn mạnh.
+
+Nêu những tồn tại, thách thức trong bảo vệ dữ liệu, ông Chính chỉ rõ, tình trạng lộ dữ liệu cá nhân diễn ra phổ biến trên không gian mạng. Người sử dụng chưa có ý thức bảo vệ dữ liệu cá nhân, đăng tải công khai hoặc lộ trong quá trình chuyển giao, lưu trữ, trao đổi phục vụ hoạt động kinh doanh hoặc do biện pháp bảo vệ không tương xứng dẫn tới bị chiếm đoạt và đăng tải công khai.
+
+Không những thế, tình trạng mua bán dữ liệu cá nhân hiện đang diễn ra phổ biến, công khai, với các dữ liệu thô và dữ liệu cá nhân đã qua xử lý, nhiều hành vi chưa được xử lý vì thiếu quy định pháp luật.
+
+Các công ty kinh doanh dịch vụ có thu thập dữ liệu cá nhân của khách hàng, cho phép các đối tác thứ ba tiếp cận thông tin dữ liệu cá nhân nhưng không có yêu cầu, quy định chặt chẽ, để đối tác thứ ba chuyển giao, buôn bán cho các đối tác khác.
+
+Các doanh nghiệp chủ động thu thập thông tin cá nhân của khách hàng, hình thành kho dữ liệu cá nhân, phân tích, xử lý các loại dữ liệu đó để tiến hành kinh doanh, buôn bán. Việc buôn bán dữ liệu cá nhân được tiến hành có hệ thống, có tổ chức, cam kết “bảo hành” và có khả năng cập nhật dữ liệu, trích xuất dữ liệu theo yêu cầu người mua.
+
+
+
+Trong năm 2023, hoạt động mua bán dữ liệu cá nhân, dữ liệu nhạy cảm tiếp tục diễn biến phức tạp với nhiều phương thức, thủ đoạn tinh vi. Bộ Công an đã chủ động phát hiện, điều tra, xác minh 16 vụ việc lộ mất, rao bán thông tin, bí mật nhà nước và dữ liệu nội bộ trên mạng.
+
+Nhiều dữ liệu bị rao bán công khai, trong thời gian dài, với số lượng lớn trên không gian mạng. Việc mua bán được tiến hành qua website, tài khoản, trang, nhóm trên mạng xã hội, diễn đàn tin tặc. Việc thanh toán được thực hiện thông qua tài khoản ngân hàng, nhiều giao dịch ghi rõ nội dung mua bán dữ liệu.
+
+Việc mua bán dữ liệu cá nhân không chỉ diễn ra đơn lẻ, giữa cá nhân với cá nhân, mà còn có sự tham gia của các công ty, tổ chức, doanh nghiệp.
+
+Một số công ty được thành lập mới, đầu tư xây dựng, vận hành hệ thống kỹ thuật chuyên thu thập trái phép dữ liệu cá nhân để kinh doanh thu lợi; xây dựng các phần mềm chuyên thu thập thông tin cá nhân, cài ẩn trong các trang mạng để thu thập thông tin tự động, phân tích thành tệp dữ liệu cá nhân có giá trị; tán phát mã độc có chức năng thu thập dữ liệu cá nhân trên môi trường mạng; tổ chức tấn công, xâm nhập hệ thống máy tính của cơ quan, tổ chức, doanh nghiệp để chiếm đoạt dữ liệu cá nhân.
+
+Đáng chú ý, thời gian gần đây, Bộ Công an phát hiện hàng trăm cá nhân, tổ chức liên quan bán dữ liệu cá nhân. Một số đường dây chiếm đoạt, mua bán dữ liệu quy mô lớn tại Việt Nam đã bị phát hiện, đấu tranh, xử lý. Số lượng dữ liệu cá nhân bị thu thập, mua bán trái phép phát hiện được lên tới hàng nghìn GB dữ liệu, trong đó có nhiều dữ liệu cá nhân nội bộ, nhạy cảm.
+
+Thông tin thêm thực trạng này, ông Lê Quang Hà, Phó Giám đốc (phụ trách công nghệ), Công ty An ninh mạng Viettel, cho biết trong 6 tháng đầu năm 2024 đã ghi nhận 46 vụ lộ lọt rao bán dữ liệu; 13 triệu bản ghi dữ liệu bị rao bán; 12,3 GB mã nguồn bị lộ lọt; 10 vụ tấn công mã hóa dữ liệu; 56 tổ chức có dấu hiệu bị bị tấn công bước đầu bởi các mã độc mã hóa dữ liệu.
+
+Chia sẻ về những hạn chế trong công tác quản trị dữ liệu, Phó Chủ tịch thường trực Hiệp hội an ninh mạnh quốc gia cho hay một số tổ chức, doanh nghiệp không có hoặc có nhưng chưa đầy đủ hạ tầng để triển khai các hệ thống công nghệ thông tin cốt lõi phục vụ cho các công tác thu thập, quản trị dữ liệu. Nhiều cơ sở dữ liệu được thu thập, lưu trữ trùng lặp, chồng chéo, chưa thống nhất về danh mục dữ liệu dùng chung gây khó khăn khi kết nối, chia sẻ, khai thác dữ liệu.
+
+Các trung tâm dữ liệu đầu tư thiếu đồng bộ, không đồng nhất về tiêu chuẩn, quy chuẩn kỹ thuật, không thường xuyên được kiểm tra, bảo trì, nâng cấp dẫn đến nguy cơ không bảo đảm an ninh, an toàn hệ thống. Một số tổ chức, doanh nghiệp thuê dịch vụ hạ tầng công nghệ thông tin tiềm ẩn nhiều rủi ro về an ninh, an toàn thông tin do chưa thực sự quản lý, kiểm soát được dữ liệu trên hạ tầng của doanh nghiệp.
+
+Bên cạnh đó, nhiều hệ thống thông tin còn lỗ hổng bảo mật, không đủ điều kiện kết nối với Cơ sở dữ liệu quốc gia về dân cư. Khó khăn trong việc khai thác, liên thông, cung cấp kịp thời dữ liệu để phục vụ giải quyết thủ tục hành chính, dịch vụ công liên thông, phân tích thống kê, đưa ra các chỉ tiêu, chỉ số phục vụ chỉ đạo điều hành của Chính phủ,…
+
+Từ những yêu cầu cấp bách trên, Bộ Công an đã tham mưu cho Chính phủ, Quốc hội xây dựng Nghị định số 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân, với 4 chương 44 Điều, quy định những nguyên tắc cơ bản về bảo vệ dữ liệu cá nhân, bước đầu đặt nền móng cho hoàn thiện hệ thống pháp luật về bảo vệ dữ liệu cá nhân của nước ta. “Vấn đề bảo vệ dữ liệu cá nhân trước thực trạng mua bán, sử dụng, trái phép như hiện nay đã được coi là vấn đề chủ quyền, an ninh dữ liệu”, Cục trưởng Nguyễn Minh Chính khẳng định.
+
+Thực hiện ý kiến chỉ đạo của Thủ tướng Chính phủ tại Quyết định số 843/QĐ-TTg ban hành Chương trình hành động quốc gia hoàn thiện chính sách và pháp luật nhằm thúc đẩy thực hành kinh doanh có trách nhiệm tại Việt Nam giai đoạn 2023-2025; Thông báo số 299/TB-VPCP về kết luận Hội nghị sơ kết 06 tháng đầu năm 2023 về chuyển đổi số quốc gia và Đề án 06 của Chính phủ giao Bộ Công an chủ trì, phối hợp xây dựng Luật Bảo vệ dữ liệu cá nhân…
+
+Việc xây dựng luật nhằm thể chế hóa quy định của Hiến pháp và pháp luật về quyền bảo vệ bí mật cá nhân, quyền con người, quyền công dân, an ninh mạng; bảo đảm hài hòa với thông lệ, quy định quốc tế về bảo vệ dữ liệu cá nhân; phát triển kinh tế xã hội, tạo nền tảng pháp lý cho hoạt động kinh doanh có liên quan tới dữ liệu cá nhân; hạn chế tiến tới khắc phục tình trạng dữ liệu cá nhân đang bị mua bán, lộ, mất tràn lan, nhiều hành vi vi phạm pháp luật thiếu quy định xử lý…
+
+Tại hội thảo, Ban Nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế, Hiệp hội An ninh mạng quốc gia, đã đề xuất xây dựng nền tảng chia sẻ thông tin an ninh mạng nhằm kết nối, chia sẻ thông tin an ninh mạng, giúp chủ động ứng phó sự cố, theo dõi các công cụ, kỹ thuật tấn công mới của tội phạm, cảnh báo sớm về các hiểm họa, hỗ trợ ra quyết định chiến lược, tăng cường các biện pháp bảo vệ.
+
+Giải pháp này sẽ đóng vai trò quan trọng trong các hệ thống an ninh mạng, giúp các tổ chức bảo vệ tài sản số và duy trì an toàn, an ninh dữ liệu.
+
+Nền tảng sẽ cung cấp thông tin cập nhật về các nhóm tin tặc đang hoạt động mạnh, trong đó nhấn mạnh những chiến dịch tấn công có chủ đích APT đang hướng tới Việt Nam. Đặc biệt, nền tảng sẽ cảnh báo sớm cho tổ chức khi phát hiện dữ liệu bị lộ lọt.

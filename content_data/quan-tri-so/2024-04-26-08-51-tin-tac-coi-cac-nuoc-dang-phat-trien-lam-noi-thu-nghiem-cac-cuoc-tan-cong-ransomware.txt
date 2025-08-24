@@ -1,0 +1,33 @@
+Theo Financial Times, một báo cáo mới được công bố bởi công ty an ninh mạng Performanceanta, cho biết tin tặc hiện áp dụng “chiến lược” xâm nhập trước vào hệ thống của các nước đang phát triển trước khi chuyển sang các mục tiêu có giá trị cao hơn như ở Bắc Mỹ và châu Âu.
+
+“Các tin tặc thử nghiệm tại các quốc gia đang phát triển để có thể kiểm tra chất lượng các chương trình độc hại của mình trước khi nhắm mục tiêu vào các quốc gia có nguồn lực dồi dào hơn”, công ty Performanceanta cho biết.
+
+Quỹ tiền tệ quốc tế (IMF) cho biết trong tháng Tư này các cuộc tấn công mạng đã tăng gần gấp đôi kể từ trước đại dịch Covid-19, trầm trọng hơn ở các nước đang phát triển do tốc độ số hóa nhanh chóng, mạng Internet tốt, tuy nhiên khả năng bảo vệ lại “không đầy đủ”.
+
+Theo IMF, thiệt hại do các sự cố mạng gây ra đối với các doanh nghiệp trên toàn thế giới kể từ năm 2020 đã lên tới gần 28 tỷ USD, với hàng tỷ hồ sơ bị đánh cắp hoặc bị xâm phạm, đồng thời cho biết thêm tổng chi phí có thể “cao hơn đáng kể”.
+
+Nadir Izrael, Giám đốc công nghệ của tập đoàn an ninh mạng Armis cho biết, tin tặc dễ dàng hoạt động ở các nước đang phát triển vì doanh nghiệp ở những quốc gia này thường có nhận thức kém hơn về an ninh mạng.
+
+“Giả sử chúng định tấn công các ngân hàng”, ông Nadir Izrael nói với Financial Times. “Chúng sẽ thử một gói vũ khí mới ở một quốc gia như Senegal hoặc Brazil, nơi có nhiều ngân hàng để thử nghiệm hoặc chi nhánh quốc tế của các công ty tương tự như những gì chúng muốn thử và tấn công”.
+
+Báo cáo của Performanceanta cho biết Medusa, một băng nhóm tội phạm mạng nguy hiểm nhất hiện nay, đang “biến tập tin thành đá” bằng cách đánh cắp và mã hóa dữ liệu của các công ty, bắt đầu tấn công các doanh nghiệp Nam Phi, Senegal và Tonga vào năm 2023. Medusa cũng là nhóm tội phạm gây ra 99 vụ vi phạm ở Mỹ, Anh, Canada, Ý và Pháp vào năm ngoái.
+
+Trước đó, dữ liệu cá nhân của công dân Betton, một thị trấn ở khu vực đô thị Rennes (Pháp), đã bị tiết lộ công khai trên trang web đen Medusa. Thành phố đã hứng chịu một cuộc tấn công bằng ransomware vào cuối tháng 8/2023 và từ chối trả khoản tiền chuộc 100.000 USD mà tin tặc yêu cầu. Do đó, tội phạm mạng đã phân phối công khai cơ sở dữ liệu chứa nhiều thông tin cá nhân, chẳng hạn như tài liệu nhận dạng, địa chỉ cũng như các trao đổi hành chính lên web đen.
+
+Hanah-Marie Darley, Giám đốc nghiên cứu mối đe dọa của công ty an ninh mạng Darktrace cho biết, Medusa tấn công cả máy tính cá nhân và tổ chức. Các đội bảo mật của tổ chức sẽ nhận được cảnh báo về một cuộc tấn công đang chờ xử lý. Tuy nhiên, những người dùng bình thường sẽ chỉ biết đến một cuộc tấn công khi họ bị khóa khỏi hệ thống máy tính của mình.
+
+Và sau đó, một tệp được gửi đến với lời nhắn !!!READ_ME_MEDUSA!!!.txt., sẽ hướng dẫn người dùng đăng nhập vào web đen và bắt đầu thương lượng tiền chuộc với “dịch vụ khách hàng”. Nếu nạn nhân từ chối, những kẻ tấn công mạng sẽ công bố dữ liệu bị đánh cắp.
+
+Các công ty an ninh mạng hiện đang giám sát trang web đen để tìm thông tin và sau đó thiết lập “honeypots” - các trang web giả mạo bắt chước các mục tiêu mà tội phạm mạng thường hướng đến ở các quốc gia đang phát triển để “làm mồi nhử” nhằm phát hiện các cuộc tấn công thử nghiệm ở giai đoạn đầu.
+
+Giám đốc công nghệ của Tập đoàn an ninh mạng Armis cho biết một nhóm kẻ tấn công mạng trong năm nay bắt đầu thảo luận về một lỗ hổng mới, có tên CVE-2024-29201, “nhắm mục tiêu vào một số máy chủ bị lộ ở các nước thuộc thế giới thứ ba để kiểm tra mức độ tin cậy của việc khai thác”. Các nhà phân tích của họ đang theo dõi các cuộc trò chuyện của băng đảng trên web đen.
+
+Thông qua bẫy honeypot, Tập đoàn an ninh mạng Armis sau đó đã xác nhận những nghi ngờ: băng nhóm này chỉ tấn công vào Đông Nam Á, trước khi sử dụng các kỹ thuật này ở giai đoạn sau một cách rộng rãi hơn. Thậm chí, theo Sherrod DeGrippo, Giám đốc chiến lược tình báo mối đe dọa tại Microsoft, tin tặc ở các nước đang phát triển đang mua lại ransomware giá rẻ và thực hiện các cuộc tấn công nhỏ của riêng họ.
+
+Darley, Giám đốc Darktrace cho biết, các nhóm tin tặc như Medusa đã bắt đầu bán phát minh của mình cho những tin tặc có quy mô nhỏ hơn. Bà cho biết thêm những tin tặc quy mô nhỏ hơn hầu hết không biết công nghệ này hoạt động như thế nào nhưng vẫn sử dụng nó để tấn công những tổ chức nhỏ nhiều lỗ hổng.
+
+Giám đốc Darktrace nhấn mạnh bất kỳ kẻ tấn công nào dành thời gian để “sandbox kỹ thuật của chúng” để thử nghiệm ở các khu vực còn kém phát triển rồi sẽ ngày càng trở nên tinh vi hơn.
+
+Teresa Walsh, Giám đốc của cơ quan tình báo mối đe dọa mạng toàn cầu FS-ISAC, cho biết các nhóm tin tặc sẽ hoạt động trong môi trường địa phương để "hoàn thiện" các phương pháp tấn công, sau đó "xuất khẩu" kế hoạch của chúng sang các quốc gia có thể sử dụng cùng một ngôn ngữ, chẳng hạn như từ Brazil đến Bồ Đào Nha.
+
+Brendan Kotze, Nhà phân tích mạng tại Performanceanta, cho biết tốc độ áp dụng kỹ thuật số ở Châu Phi “vượt xa sự phát triển của các biện pháp an ninh mạng mạnh mẽ thế những nhận thức chung về các mối đe dọa mạng còn thấp”. Ông nói thêm: “Kết hợp lại, điều này tạo ra một lỗ hổng ngày càng đáng lo ngại trong khả năng phòng thủ mà tội phạm mạng đang khai thác”.

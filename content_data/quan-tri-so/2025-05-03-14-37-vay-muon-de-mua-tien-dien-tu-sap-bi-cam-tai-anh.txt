@@ -1,0 +1,17 @@
+Động thái này diễn ra trong bối cảnh Chính phủ Anh chuẩn bị đưa tiền điện tử vào khuôn khổ quy định chính thức nhằm tăng cường bảo vệ người dân.
+
+Quy định này áp dụng bắt buộc đối với toàn bộ lĩnh vực tiền điện tử, bao gồm các sàn giao dịch, nhà môi giới và tổ chức phát hành tuân thủ các quy định hiện hành.
+
+Thị trường tiền điện tử đã phát triển mạnh tại Anh trong những năm qua. Khoảng 7 triệu người Anh – tương đương 12% dân số trưởng thành – đang sở hữu tiền mã hóa. Dù phổ biến, nhưng phần lớn các hoạt động liên quan đến loại tài sản này vẫn chưa được kiểm soát.
+
+Trong dự thảo quy định mới, FCA cho biết đang cân nhắc cấm hình thức dùng thẻ tín dụng để mua tiền mã hóa, cũng như không cho phép các công ty tiền mã hóa cung cấp hạn mức tín dụng cho khách hàng sử dụng để đầu tư.
+
+Tuy nhiên, người dân vẫn có thể dùng tiền vay để mua stablecoin (loại tiền mã hóa có giá trị ổn định gắn với các tài sản truyền thống như đồng USD) với điều kiện các stablecoin này được phát hành bởi công ty đã đăng ký và chịu sự quản lý của FCA.
+
+Theo khảo sát do FCA ủy quyền, có tới 14% nhà đầu tư từng sử dụng tiền vay để mua tiền mã hóa trong năm qua, tăng mạnh so với 6% của năm 2022. Cơ quan này lo ngại việc vay nợ để đầu tư tiềm ẩn nhiều rủi ro, đặc biệt trong các hoạt động cho vay và đi vay tiền mã hóa vốn thiếu minh bạch và dễ khiến người dùng mất trắng.
+
+Cho vay tiền mã hóa là hình thức người sở hữu tiền mã hóa cho người khác vay để lấy lãi. Ngược lại, người đi vay sẽ nhận được một khoản tiền mã hóa và phải trả lại kèm theo lãi suất. Tuy chỉ chiếm tỷ trọng nhỏ trong thị trường, nhưng các hoạt động này được FCA đánh giá là “có nguy cơ gây thiệt hại nghiêm trọng”, do thiếu đảm bảo tín dụng và nhiều nhà đầu tư chưa đủ hiểu biết.
+
+FCA cũng đang xem xét việc áp dụng các biện pháp kiểm tra tín dụng và đánh giá mức độ hiểu biết của người dùng trước khi cho phép họ tham gia vào các sản phẩm cho vay tiền điện tử. Các nhà đầu tư tổ chức sẽ không bị ảnh hưởng bởi những quy định này.
+
+Ngoài ra, cơ quan quản lý còn đặt mục tiêu tăng cường tính minh bạch và hiểu biết của người tiêu dùng về hoạt động “staking” — việc khóa các mã thông báo kỹ thuật số trong mạng blockchain để nhận phần thưởng. Một khảo sát khác cho thấy có tới 27% người trưởng thành sở hữu tiền điện tử ở Anh đã từng tham gia đặt cược tài sản theo hình thức này.

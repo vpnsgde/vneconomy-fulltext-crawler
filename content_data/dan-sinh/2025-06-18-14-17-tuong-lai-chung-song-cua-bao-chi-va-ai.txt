@@ -1,0 +1,37 @@
+Không còn là viễn cảnh xa vời, AI giờ đây đã trở thành một phần không thể thiếu trong quy trình sản xuất nội dung, phân phối thông tin và tương tác với công chúng. Thêm vào đó, khi công chúng ngày càng trẻ hóa, với sự nổi lên của thế hệ Z và Alpha, thì báo chí buộc phải tái định nghĩa lại vai trò của mình trong hệ sinh thái truyền thông số.
+
+Thế hệ Z (sinh từ khoảng năm 1997 đến 2012) và Alpha (sinh từ năm 2013 trở đi) không chỉ là những người tiêu dùng nội dung truyền thông, họ là những người tham gia chủ động trong quá trình tạo dựng và lan tỏa thông tin. Khác với các thế hệ trước, họ lớn lên trong một môi trường truyền thông số, nơi mọi thứ đều có thể được cá nhân hóa, phản hồi tức thì và tương tác hai chiều.
+
+Theo báo cáo của McKinsey (2023), hơn 60% người thuộc thế hệ Z cho biết họ tiếp cận thông tin qua TikTok, YouTube và các nền tảng xã hội hơn là báo chí truyền thống. Ở Việt Nam, khảo sát của Q&Me (năm 2024) chỉ ra rằng 71% Gen Z dùng mạng xã hội để theo dõi tin tức hàng ngày, trong đó Facebook, Zalo và TikTok là ba nền tảng phổ biến nhất.
+
+Thay vì chỉ tiếp nhận tin tức, thế hệ công chúng mới của thời đại ngày nay muốn tham gia vào cuộc trò chuyện: họ để lại bình luận, chia sẻ, “remix” (biên tập lại) nội dung qua TikTok, Instagram Reels, hoặc tạo ra các meme mang tính phê bình, châm biếm, tái hiện lại thông tin theo cách riêng. Điều này tạo ra một hình thức “tương tác đa chiều” - nơi mà công chúng không còn là đối tượng thụ động mà là chủ thể có quyền lực định hình cách thông tin được cảm nhận và lan truyền.
+
+AI hiện đã được tích hợp sâu vào nhiều công đoạn của nghề báo: từ tổng hợp dữ liệu, phân tích xu hướng, viết bản tin ngắn, dịch tự động, kiểm tra sự thật (fact-checking), đến cá nhân hóa nội dung theo từng nhóm độc giả. Một số hãng truyền thông lớn như The Washington Post sử dụng công cụ robot viết tin “Heliograf” để sản xuất hàng trăm bản tin nhanh mỗi tuần, đặc biệt là trong các dịp như bầu cử hay Olympic.
+
+Ở Việt Nam, một số tòa soạn như VnExpress, Tuổi Trẻ hay VietnamPlus đã bắt đầu thử nghiệm ứng dụng AI trong phân tích dữ liệu độc giả, tự động hóa phân loại bài viết và tối ưu hóa tiêu đề nhờ AI gợi ý. Tuy nhiên, AI vẫn chưa được sử dụng rộng rãi cho việc viết bài do các rào cản về đạo đức và độ tin cậy.
+
+Câu hỏi đang được đặt ra hiện nay là: liệu AI có thể thay thế nhà báo? Hay nó chỉ đơn thuần là một công cụ hỗ trợ?
+
+Câu trả lời phụ thuộc vào cách chúng ta hiểu về báo chí. Báo chí không chỉ là việc “thu thập và truyền tải thông tin”, mà còn là hoạt động gắn liền với đạo đức nghề nghiệp, sự nhạy cảm xã hội, góc nhìn nhân văn và khả năng kể chuyện - những điều mà AI, dù ngày càng tinh vi, vẫn còn xa mới có thể thay thế.
+
+Trong bối cảnh đó, một hướng đi đầy hứa hẹn là sự “chung sống” giữa báo chí và công nghệ AI - nơi mà nhà báo tận dụng AI như một công cụ để mở rộng khả năng sáng tạo và nâng cao hiệu quả công việc.
+
+AI có thể hỗ trợ phóng viên phân tích hàng ngàn tài liệu trong vài phút, nhận diện xu hướng dư luận qua dữ liệu mạng xã hội, thậm chí tạo ra các hình ảnh (visual/infographic) tự động từ dữ liệu. Đặc biệt, các công cụ AI tạo sinh (Generative AI) như ChatGPT, DALL·E, MidJourney... cho phép nhà báo hình dung nhanh những kịch bản, mô phỏng, hoặc minh họa ý tưởng một cách sống động.
+
+Trên thế giới, một số trường hợp mà AI đã hỗ trợ đắc lực cho các phóng viên báo chí trong quá trình tác nghiệp như: phóng viên ở ICIJ (Liên minh quốc tế các Nhà báo điều tra) đã dùng AI để rà soát và phân loại hơn 11 triệu tài liệu trong vụ Panama Papers - một nhiệm vụ bất khả thi nếu làm thủ công.
+
+Hay tại Hàn Quốc, Yonhap News Agency bắt đầu thử nghiệm hệ thống sản xuất bản tin tự động bằng AI trong lĩnh vực thể thao và tin ngắn, với mục tiêu rút ngắn thời gian đưa tin và tăng độ chính xác, đồng thời sẽ đưa dịch vụ tin tức bằng AI này tới thị trường nước ngoài (cụ thể là Việt Nam) trong thời gian tới.
+
+Ở Việt Nam, một số nhóm phóng viên đã sử dụng công cụ AI như Whisper hoặc Trint để tự động ghi và phiên âm phỏng vấn từ xa bằng giọng nói, tiết kiệm thời gian biên tập viên.
+
+Với các thể loại như báo chí dữ liệu (data journalism), báo chí giải thích (explanatory journalism), hoặc báo chí tương tác (interactive journalism), vai trò của công nghệ lại càng rõ ràng hơn. Trong khi nhà báo vẫn là người quyết định nội dung, thông điệp và góc nhìn, thì AI chính là người “thợ phụ” hỗ trợ về tốc độ, tính trực quan và khả năng cá nhân hóa nội dung.
+
+Khi công chúng thế hệ Z và Alpha ngày càng ít đọc báo theo cách truyền thống, các cơ quan báo chí buộc phải thay đổi cách phân phối nội dung, không chỉ nhanh hơn, ngắn gọn hơn, mà còn phải mang tính cá nhân hóa cao hơn.
+
+Một kịch bản có thể xảy ra là sự hình thành các nền tảng tin tức giống như nền tảng kinh doanh giải trí Netflix - nơi người dùng chọn chủ đề quan tâm, phong cách nội dung yêu thích (dữ liệu, video, meme, podcast...), và hệ thống AI sẽ phân phối nội dung phù hợp theo thời điểm, thói quen và hành vi tương tác của người dùng....
+
+(*)TS. Nguyễn Đồng Anh, Phó Trưởng Khoa Truyền thông và Văn hóa đối ngoại, Học viện Ngoại giao.
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 24 25-2025 phát hành ngày 16/6/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

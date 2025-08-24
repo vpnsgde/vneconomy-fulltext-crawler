@@ -1,0 +1,43 @@
+Các chuyên gia cho biết AI là công nghệ nền tảng quan trọng nhất dẫn dắt hoạt động chuyển đổi số trong các ngành, lĩnh vực và các tổ chức, doanh nghiệp. Theo dự báo của Công ty kiểm toán hàng đầu thế giới PriceWaterhouse Coopers, vào năm 2030, AI sẽ đóng góp thêm 15,7 nghìn tỷ USD cho nền kinh tế toàn cầu. Đồng thời AI sẽ tạo ra những ngành công nghiệp mới, việc làm mới. Sự phát triển của AI đã được công nhận như một biểu hiện sức mạnh toàn diện của một quốc gia thông qua năng lực thực hiện đổi mới, sáng tạo.
+
+Tại hội thảo “Thúc đẩy ứng dụng và phát triển AI trong quá trình công nghiệp hóa, hiện đại hóa” trong khuôn khổ Diễn đàn cấp cao thường niên về công nghiệp 4.0, do Ban Kinh tế Trung ương chủ trì phối hợp với các bộ tổ chức mới đây, ông Dương Duy Hưng, Trợ lý Trưởng Ban Kinh tế Trung ương, cho biết: những năm gần đây tại Việt Nam, công nghệ AI đã có bước phát triển nhanh chóng, ngày càng đi vào chiều sâu và mở rộng ở nhiều lĩnh vực.
+
+Lần đầu tiên, Việt Nam coi ngành công nghiệp công nghệ số trong đó ưu tiên phát triển AI, Big Data, Blockchain, điện toán đám mây, IoT, thiết bị điện tử viễn thông, thiết kế và sản xuất chíp bán dẫn là một trong 6 ngành công nghiệp nền tảng.
+
+
+
+Ông Thiều Phương Nam, Tổng giám đốc Qualcomm Vietnam, Cambodia và Lào, khẳng định AI là mảng phát triển nhanh nhất trong lĩnh vực công nghệ, với tốc độ gấp 3 lần các ngành công nghệ khác. Đặc biệt với sự ra mắt của ChatGPT, việc ứng dụng phát triển AI được đẩy nhanh hơn rất nhiều.
+
+Tại Việt Nam, ông Nam cho biết AI, ChatGPT sẽ được ứng dụng trong nhiều ngành, nhưng có ba ngành có tiềm năng và sẽ mang lại hiệu quả lớn nhất.
+
+Thứ nhất, đó là ngành sản xuất đang có xu hướng dịch chuyển vào Việt Nam, trong đó có mảng công nghệ. Các ứng dụng AI với công nghệ IoT, các nền tảng kết nối tốt như 5G, Wifi 7 sẽ được sử dụng nhiều tại các nhà máy thông minh, trong đó các thiết bị như robot, XR, VR có thể giúp cho quy trình vận hành nhà máy hiệu quả hơn, phát hiện ra các lỗi của sản phẩm, đưa ra các khuyến cáo bảo hành bảo trì thiết bị sớm...
+
+Thứ hai, là ngành bán lẻ dùng AI để thay đổi trải nghiệm khách hàng trong thanh toán, phân tích hành vi của khách hàng.
+
+Thứ ba là lĩnh vực quản lý giao thông trong đô thị, dùng camera AI để nâng cao hiệu quả đặc biệt trong xây dựng các đô thị thông minh và phát triển ô tô tự lái.
+
+Coi AI là chìa khóa tối ưu hóa vận hành cho doanh nghiệp, ông Nguyễn Anh Tú, kỹ sư phần mềm Noventiq Vietnam, cho rằng ChatGPT và các công nghệ OpenAI nổi lên trong thời gian gần đây là bởi những giá trị mà nó mang lại, giúp các doanh nghiệp tối ưu hóa trong nhiều lĩnh vực như chăm sóc khách hàng, nền tảng số…
+
+Thời gian qua, công nghệ AI trên thế giới đã có bước phát triển mạnh mẽ với sự ra đời của ChatGPT, hệ thống xử lý ảnh, video, kết hợp giữa dữ liệu lớn và mô hình AI tạo sinh. Việt Nam cũng đã có sự tiếp cận các xu hướng công nghệ khá sớm. Các chủ trương chính sách đã nhanh và bắt kịp xu thế công nghệ mới. Quá trình triển khai đã có những kết quả cụ thể ghi nhận từ các tập đoàn công nghệ như FPT, VNPT, Viettel, Vingroup…
+
+Mặc dù có những kết quả bước đầu khá tích cực trong phát triển ứng dụng AI nhưng Việt Nam cũng đang đứng trước không ít khó khăn, thách thức, nhất là về nguồn nhân lực còn hạn chế. Bên cạnh đó là vấn đề dữ liệu còn nhiều khó khăn, cần phải kết nối, chia sẻ liên thông, tạo cơ sở dữ liệu mở để các nhà khoa học, doanh nghiệp, cộng đồng khai thác phát triển.
+
+
+
+Theo Thứ trưởng Bộ Khoa học và Công nghệ Bùi Thế Duy, tốc độ triển khai AI của Việt Nam vẫn còn chậm hơn so với tốc độ triển khai của thế giới. Ông Duy cho rằng để triển khai AI cần phải đẩy nhanh xây dựng hàng loạt trụ cột.
+
+Thứ nhất, trụ cột nhân lực, vấn đề này hiện nay cùng với sự tham gia của các nhóm chuyên gia AI thì còn có sự vào cuộc mạnh mẽ của các trường đại học và cả doanh nghiệp công nghệ.
+
+Thứ hai, cần xây dựng một hạ tầng tính toán hiệu năng cao, hiện nay vẫn còn đặt rời rạc và chưa có một trung tâm tính toán lớn.
+
+Thứ ba, AI cần dữ liệu sạch, phải được “gán nhãn”, nhưng ở Việt Nam vấn đề này còn rất hạn chế, chưa sẵn sàng.
+
+Thứ tư, trụ cột thể chế và các quy định, đạo đức cho ứng dụng AI. ChatGPT, xử lý video, tạo sinh hình ảnh, hệ thống Deepfake đang đặt ra nhiều vấn đề quy định sử dụng, xây dựng các hệ thống AI…
+
+Do vậy, theo Thứ trưởng Bùi Thế Duy, cần phải chuẩn bị năng lực, nhân lực và hạ tầng tính toán; đặc biệt một trong những yếu tố tiên quyết để ứng dụng AI và các mô hình phân tích dữ liệu tối ưu chính là đảm bảo chất lượng dữ liệu.
+
+Nhìn nhận AI và dữ liệu trong vai trò thúc đẩy chuyển đổi số quốc gia, ông Nguyễn Quang Ngọc, Giám đốc kinh doanh Khối khách hàng chính quyền, Trung tâm không gian mạng Viettel, chia sẻ: trong chuyển đổi số có 4 nấc thang gồm: số hóa, quản lý dữ liệu (phải được làm sạch và tinh gọn), phân tích dữ liệu và cuối cùng là khai thác tạo ra giá trị mới.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 25-2023 phát hành ngày 19-06-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

@@ -1,0 +1,41 @@
+Nghị định 104/2025/NĐ-CP của Chính phủ mới đây đã quy định cụ thể về điều kiện cung cấp, sử dụng dịch vụ công chứng điện tử cũng như quy trình công chứng điện tử trực tiếp, quy trình công chứng điện tử trực tuyến. Trong đó, công chứng điện tử trực tiếp được áp dụng đối với tất cả các giao dịch dân sự, trừ di chúc và giao dịch dân sự là hành vi pháp lý đơn phương khác.
+
+Văn bản công chứng điện tử là văn bản giấy được chuyển đổi sang định dạng điện tử, có kèm chữ ký số của công chứng viên và tổ chức hành nghề công chứng. Các văn bản này vẫn được coi là hợp lệ như công chứng truyền thống.
+
+Công chứng viên, tổ chức hành nghề công chứng, viên chức ngoại giao và Cơ quan đại diện ngoại giao cần tạo tài khoản công chứng điện tử trên nền tảng được thiết kế riêng, đáp ứng các quy định tại Điều 51 của Nghị định này và quy định pháp luật có liên quan.
+
+Chữ ký số có sử dụng dịch vụ cấp dấu thời gian để thực hiện công chứng điện tử của công chứng viên, tổ chức hành nghề công chứng, viên chức ngoại giao, Cơ quan đại diện ngoại giao do tổ chức cung cấp dịch vụ tin cậy của Việt Nam cung cấp theo quy định của pháp luật Việt Nam.
+
+Công chứng viên, tổ chức hành nghề công chứng phải đăng ký chữ ký số để thực hiện công chứng điện tử tại Sở Tư pháp nơi tổ chức hành nghề công chứng đăng ký hoạt động.
+
+Các tổ chức cung cấp dịch vụ công chứng điện tử cần bảo đảm đủ điều kiện về máy tính, mạng Internet, thiết bị điện tử và các yếu tố kỹ thuật cần thiết.
+
+Đối với Cơ quan đại diện ngoại giao, việc cung cấp công chứng điện tử sẽ thực hiện theo điều kiện thực tế tại cơ quan đó.
+
+Cá nhân, tổ chức tham gia giao dịch công chứng điện tử phải sử dụng chữ ký số công cộng do các đơn vị chứng thực chữ ký số tại Việt Nam cung cấp, hoặc chữ ký số nước ngoài đã được Việt Nam công nhận (trừ khi pháp luật có quy định khác).
+
+Người dùng có thể đăng ký tài khoản công chứng điện tử trên nền tảng tương ứng, hoặc xác thực và cấp chứng thư chữ ký số thông qua ứng dụng VNelD hoặc ứng dụng tương đương tại thời điểm giao dịch.
+
+Công chứng viên và tổ chức hành nghề công chứng có trách nhiệm hướng dẫn người dân và doanh nghiệp cách đăng ký và sử dụng dịch vụ đúng quy định.
+
+Quy trình công chứng điện tử trực tiếp bao gồm 9 bước:
+
+Bước 1:  Người yêu cầu công chứng, công chứng viên thực hiện các công việc theo quy định tại khoản 1 và khoản 2 Điều 43 của Luật Công chứng.
+
+Bước 2: Công chứng viên tạo giao dịch trên nền tảng công chứng điện tử. Giao dịch này phải bao gồm tài khoản của công chứng viên và các bên tham gia giao dịch (nếu có).
+
+Bước 3: Công chứng viên tải văn bản giao dịch đã được soạn thảo (dưới dạng thông điệp dữ liệu), hoặc văn bản đã được người có thẩm quyền ký số, lên hệ thống điện tử theo quy định tại khoản 2 Điều 50 của Luật Công chứng.
+
+Bước 4: Người yêu cầu công chứng tự đọc lại văn bản giao dịch trên nền tảng. Trường hợp không thể đọc được, công chứng viên sẽ đọc to toàn bộ nội dung theo yêu cầu của người yêu cầu công chứng.
+
+Bước 5: Nếu đồng ý với toàn bộ nội dung giao dịch, người yêu cầu công chứng xuất trình các giấy tờ tùy thân theo quy định tại khoản 7 Điều 42 của Luật Công chứng.
+
+Công chứng viên kiểm tra tính xác thực của các giấy tờ này, đối chiếu thông tin với cơ sở dữ liệu (nếu có), sau đó chuyển đổi các giấy tờ sang dạng thông điệp dữ liệu và tải lên hệ thống để lưu trữ.
+
+Bước 6: Công chứng viên xác thực nhân thân của người tham gia giao dịch, chứng kiến họ thực hiện ký số vào văn bản giao dịch.
+
+Bước 7: Sau khi kiểm tra tính hợp lệ của chữ ký số, công chứng viên thực hiện ký số phần lời chứng và gắn dấu thời gian.
+
+Bước 8: Tổ chức hành nghề công chứng: Ghi số văn bản công chứng; Ký số và gắn dấu thời gian; Thu phí công chứng, giá dịch vụ và các chi phí liên quan; Gửi văn bản công chứng điện tử cho người yêu cầu qua email hoặc phương thức lưu trữ mà người này đã đăng ký.
+
+Bước 9: Tổ chức hành nghề công chứng thực hiện ghi vào sổ công chứng, lập và lưu trữ hồ sơ công chứng dưới dạng điện tử.

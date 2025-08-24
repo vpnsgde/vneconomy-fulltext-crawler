@@ -1,0 +1,27 @@
+Nhu cầu sử dụng nội dung số của người dùng Việt Nam đang tăng trưởng mạnh, và sự xuất hiện ngày càng nhiều ứng dụng truyền hình trả tiền OTT nước ngoài là thách thức và cơ hội chuyển mình của các nhà cung cấp dịch vụ nội dung trong nước.
+
+Nhu cầu truyền hình OTT tăng trưởng mạnh mẽ
+
+Theo đánh giá của Statisca vào tháng 7/2019, Việt Nam hiện tập hợp đầy đủ tất cả các yếu tố khiến dịch vụ OTT phát triển rực rỡ. Trong năm 2018, có hơn 54% dân số thường xuyên truy cập Internet, con số này được dự đoán sẽ tăng 38% vào năm 2023, người dân dành 6-7 giờ mỗi ngày để sử dụng các dịch vụ Internet.
+
+Doanh thu cho nhóm VoD (Video on Demand) năm 2018 là 75 triệu USD, và được dự đoán tăng lên 119 triệu USD vào năm 2023, tăng gần gấp đôi trong vòng 5 năm. Ở nhóm SVoD (Subsription Video on Demand) - nhóm nhu cầu lớn nhất, được dự đoán tăng trưởng lên 113% vào năm 2023. Con số này cho thấy Việt Nam là một thị trường tiềm năng cho các doanh nghiệp trong nước và nước ngoài.
+
+Theo số liệu từ Cục Phát thanh truyền hình và Thông tin điện tử, ở Việt Nam hiện có 297 kênh truyền hình trong nước, 70 kênh truyền hình nước ngoài được cung cấp dưới dạng dịch vụ truyền hình trả tiền. Ban đầu, hầu hết những người sử dụng dịch vụ truyền hình OTT xem video qua các màn hình nhỏ như điện thoại, máy tính bảng, tuy nhiên ngày nay đã có nhiều người (khoảng 17%) sử dụng TV gia đình để truy cập vào các nội dung OTT.
+
+Đây là cơ hội cho những nhà cung cấp nội dung số nước ngoài như Netflix, Amazon Prime video hay HBO…bước vào thị trường Việt Nam, nhưng cũng là thách thức cho các nhà cung cấp Việt về việc cần phải làm mới mình để cạnh tranh ngay tại thị trường trong nước.
+
+Hiện nay Bộ Thông tin và Truyền thông đang trình Chính phủ dự thảo Nghị định sửa đổi, bổ sung Nghị định số 06/2016/NĐ-CP ngày 18/01/2016 theo hướng hội nhập quốc tế, trong đó tạo điều kiện để cho các nhà cung cấp dịch vụ truyền hình xuyên biên giới được kinh doanh tại thị trường Việt Nam. Điều này càng khẳng định cho việc Việt Nam là một thị trường rất tiềm năng và cạnh tranh cao trong việc khai thác dịch vụ giải trí trực tuyến.
+
+Doanh nghiệp nội dung số tại Việt Nam cần làm gì?
+
+Ngoài yếu tố nội dung làm chủ đạo, những yếu tố liên quan đến trải nghiệm khách hàng như tốc độ, chất lượng xem video…ảnh hưởng lớn đến mức độ quan tâm, trung thành của người dùng với các nội dung số. Có đến 75% người xem sẽ rời dịch vụ nếu gặp phải các vấn đề lặp đi lặp lại và chất lượng nội dung tốt sẽ làm gia tăng sự trung thành của người dùng thêm 10%.
+
+Theo nghiên cứu của Akamai - Nhà cung cấp dịch vụ mạng phân phối nội dung (CDN) số 1 thế giới, đối với các nhà cung cấp nội dung, các yếu tố cơ bản về kỹ thuật có thể giúp mang lại trải nghiệm tốt nhất cho khách hàng bao gồm: khả năng mở rộng hệ thống và phạm vi truyền tải để đáp ứng số lượng người xem tăng đột biến, khả năng truyền tải nội dung tới nhiều loại thiết bị (điện thoại, desktop…), trên nhiều nền tảng khác nhau (Adroid, IOS, Windows…), và yếu tố đảm bảo bản quyền nội dung để đảm bảo doanh thu và khẳng định thương hiệu cho nhà cung cấp dịch vụ.
+
+Để khách hàng có thể trải nghiệm dịch vụ OTT, đồng thời tối ưu lợi nhuận, các doanh nghiệp hoạt động trong lĩnh vực truyền thông giải trí cần phải triển khai giải pháp giúp giải quyết các vấn đề về độ trễ, băng thông, tăng tốc khả năng kết nối và an toàn dữ liệu, đảm bảo cung cấp dịch vụ không gián đoạn.
+
+Với mong muốn đồng hành cùng doanh nghiệp nội dung số, Viettel IDC và Akamai đã hợp tác cung cấp các giải pháp về tăng tốc kết nối dữ liệu (Media, Web Performance) và chống tấn công mạng (Cloud Security).
+
+Mục tiêu của sự hợp tác này là mang những dịch vụ hàng đầu thế giới về Việt Nam,  giúp các doanh nghiệp ứng dụng những công nghệ tiên tiến, bắt nhịp kịp thời với nhu cầu của khách hàng, nâng cao khả năng cạnh tranh của danh nghiệp Việt Nam trước dòng chảy mạnh mẽ của các ứng dụng nội dung nước ngoài.
+
+Ông Hoàng Văn Ngọc – Giám đốc Viettel IDC, cho biết: Việt Nam là một thị trường rất hấp dẫn với lĩnh vực truyền thông giải trí, với tỷ lệ sở hữu các thiết bị thông minh, mức độ tiêu thụ và thói quen sử dụng các ứng dụng trực tuyến cao. Để cạnh tranh tốt và phát triển trong viễn cảnh ngày càng nhiều doanh nghiệp nước ngoài tiến vào thị trường Việt, các doanh nghiệp Việt Nam cần hành động nhiều hơn. Người Việt sẽ chỉ dùng dịch vụ Việt khi dịch vụ đó được đảm bảo về mặt chất lượng và nội dung đa dạng. Viettel IDC lựa chọn Akamai là đối tác chiến lược, với mong muốn cùng nhau mang tới cho khách hàng tại Việt Nam những giải pháp, dịch vụ tốt nhất với cam kết SLA uptime 100%. Với uy tín của những nhà cung cấp dịch vụ hàng đầu, chúng tôi sẽ đồng hành cùng khách hàng, giúp họ tối ưu chính dịch vụ của mình, mang đến cho người dùng Việt những trải nghiệm tốt nhất".

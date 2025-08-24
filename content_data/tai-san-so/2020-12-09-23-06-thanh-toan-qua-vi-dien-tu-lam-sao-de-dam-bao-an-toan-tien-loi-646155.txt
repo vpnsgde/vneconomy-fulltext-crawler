@@ -1,0 +1,29 @@
+Sử dụng ví điện tử thanh toán online thay cho tiền mặt đang trở thành xu hướng của người tiêu dùng Việt. Nhưng chính các loại ví công nghệ cũng đang là đích ngắm của hầu hết các cuộc tấn công mạng. Vậy người dùng nên lựa chọn loại ví điện tử như thế nào để vừa đảm bảo an toàn, đồng thời có thể hỗ trợ thanh toán thuận tiện ở mọi nơi?
+
+VÍ ĐIỆN TỬ LÀ ĐÍCH NGẮM CỦA HACKER
+
+Theo ông Lê Anh Dũng - Phó Vụ trưởng Vụ Thanh toán (Ngân hàng Nhà nước Việt Nam), Ngân hàng Nhà nước đã cấp phép cho 37 tổ chức trung gian thanh toán, trong đó có 34 ví điện tử. Tính đến hết quý I/2020, Việt Nam đang có 13 triệu tài khoản ví điện tử được kích hoạt, sử dụng với tổng số dư ví vào khoảng 1,36 nghìn tỷ đồng.
+
+Số liệu từ Ngân hàng Nhà nước cho thấy, trong quý 1/2020 có khoảng 225,6 triệu giao dịch được thực hiện thông qua ví điện tử với giá trị giao dịch 77,7 nghìn tỷ đồng. Đây là những con số biết nói, cho thấy tốc độ phát triển đáng kinh ngạc trong việc giao dịch thông qua ví điện tử tại Việt Nam. Các chuyên gia cho rằng tiềm năng của thị trường này tại Việt Nam vẫn còn vô cùng lớn. Tốc độ phát triển của các ví điện tử trong những năm tiếp theo đây tiếp tục tăng mạnh.
+
+Với người dùng, việc thanh toán qua ví điện tử cũng đang chứng minh sự tiện dụng chưa từng thấy. Với việc các đơn vị thanh toán đang ngày càng được mở rộng, người dùng có thể đi đến bất cứ đâu, mua hàng và thanh toán chỉ bằng một vài thao tác trên điện thoại, không cần mang theo tiền mặt, vừa tiện lợi lại đảm bảo tính minh bạch trong thanh toán.
+
+Tuy nhiên, có một thực tế là ví điện tử nói riêng, cũng như các cổng thanh toán trực tuyến nói chung đang là đích ngắm của hầu hết các cuộc tấn công mạng. Theo số liệu của Trung tâm giám sát và phản ứng trên không gian mạng (Công ty An ninh mạng Viettel - VSC), 8 tháng đầu năm 2020 đã phát hiện hơn 3 triệu cảnh báo tấn công mạng vào các hệ thống tài chính, ngân hàng, mạng công nghệ thông tin một số tỉnh thành trên cả nước, trong đó 90% nhắm vào các hệ thống tài chính, ngân hàng.
+
+Trên khắp mặt báo, mạng xã hội, không khó để tìm thấy những bài viết, cảnh báo về tình trạng người dùng bị tấn công, lừa đảo ăn cắp tài khoản thanh toán. Các đơn vị cung cấp dịch vụ thanh toán cũng phải liên tục cập, nâng cấp hệ thống để đảm bảo an toàn cho tài sản cũng như thông tin của người dùng.
+
+Do đó, an ninh, an toàn trong thanh toán trên ví điện tử được xem là ưu tiên hàng đầu của bất cứ đơn vị cung cấp dịch nào, cũng là ưu tiên số một của người dùng.
+
+TIÊU CHÍ NÀO CHO MỘT VÍ ĐIỆN TỬ AN TOÀN?
+
+Các chuyên gia tài chính đều khẳng định sử dụng ví điện tử đáp ứng các tiêu chuẩn bảo mật cao cấp như PCI DSS, Tokenization, 3D-Secure... là giải pháp an toàn bậc nhất cho tiền của bạn.
+
+Chỉ cách đây ít ngày, VinID Pay vừa chính thức đạt chứng nhận bảo mật quốc tế PCI DSS cấp độ cao nhất (Level 1) do Hội đồng tiêu chuẩn - PCI Security Standards Council cấp. Chứng nhận này là một hệ thống hơn 200 yêu cầu, chuẩn mực về an ninh dữ liệu, chính sách, quy trình, cấu trúc mạng, hệ thống phần mềm. Level 1 của PCS DSS là cấp độ cao nhất, dành cho các ngân hàng và đơn vị phát hành thẻ quốc tế hoặc nhà cung cấp sở hữu trên 6 triệu giao dịch/năm. Ngoài ra, VinID Pay cũng ứng dụng những công nghệ bảo mật tiên tiến nhất hiện nay, đảm bảo "chiếc ví" của người dùng được bảo vệ tối đa.
+
+Không chỉ đảm bảo an toàn, VinID Pay cũng là một trong những ví điện tử có độ phủ rộng nhất thị trường hiện nay. Ngoài các kênh liên kết "truyền thống" như siêu thị, thanh toán hóa đơn, mua sắm online, VinID Pay còn một số dịch vụ cực kỳ hữu ích như mua bảo hiểm ô tô, mua vé xe khách, mua nhà, thuê giúp việc từ xa hay những "mối độc quyền" như mua vé tham dự Sky Tour của Sơn Tùng M-TP hay vé live-concert "Truyện ngắn" của Hà Anh Tuấn (đều trong năm 2019).
+
+Đến năm 2020, người dùng VinID Pay còn được sở hữu thêm một "đặc quyền" khác là thanh toán online với toàn bộ các tiệm tạp hóa có liên kết với VinShop. Tạp hóa chính là một trong những giá trị truyền thống, không chỉ gắn liền với nhiều thế hệ người dùng Việt Nam mà còn đảm bảo tính tiện lợi cao nhất.
+
+Theo thống kê, Việt Nam hiện có khoảng 1,5 triệu tiệm tạp hóa trải dài từ Bắc vào Nam, hiện diện ở cả các thành phố lớn lẫn vùng nông thôn. Khoảng 40.000 trong số đó hiện đã liên kết với VinShop, và con số này đang không ngừng tăng trưởng qua từng ngày. Đồng nghĩa, người dùng chỉ cần bước ra khỏi nhà là có thể mua đồ, thanh toán online qua VinID, không cần tiền mặt. So với việc tìm kiếm các siêu thị mini, vốn chưa quá thịnh hành tại nhiều địa phương ở Việt Nam để có thể thanh toán online, đây thực sự là giải pháp tối ưu hơn nhiều.
+
+Vừa an toàn, tiện lợi, lại sở hữu hàng loạt "mối độc quyền", VinID Pay chính là một trong những lựa chọn ví điện tử đáng quan tâm nhất trên thị trường hiện nay.

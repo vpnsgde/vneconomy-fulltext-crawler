@@ -1,0 +1,27 @@
+Trước đó, nhiều ngân hàng lớn như Vietcombank, BIDV, Techcombank… đồng loạt thông báo thay đổi mức thu phí dịch vụ SMS Banking, theo đó thay vì mức phí thông thường là 11.000 đồng/tháng (đã bao gồm VAT) như trước đây, nhiều người dùng cho biết mức phí SMS Banking phải trả cho ngân hàng tăng gấp 5-7 lần.
+
+Một trong những lý do chính được các ngân hàng đưa ra là “ngân hàng phải mua dịch vụ gửi SMS và trả phí cho các nhà mạng viễn thông, mức phí gửi tin nhắn SMS đối với các dịch vụ tài chính ngân hàng cao hơn nhiều so với mức phí tin nhắn thông thường của khách hàng cá nhân hoặc tin nhắn áp dụng cho các lĩnh vực khác”. Đồng thời việc tăng phí này cũng nhằm khuyến khích khách hàng chuyển sang ử dụng dịch vụ ngân hàng số, bao gồm cả dịch vụ thông báo biến động số dư trên app banking (OTT) của ngân hàng.
+
+Chiều ngược lại, đại diện một số nhà mạng cho rằng, giá dịch vụ SMS ngân hàng cao hơn SMS thông thường là bởi tin nhắn SMS của các ngân hàng thuộc loại tin nhắn định danh cho doanh nghiệp nên yêu cầu về kỹ thuật, hệ thống mạng cũng cao hơn rất nhiều. Tin nhắn của ngân hàng yêu cầu mức độ dịch vụ cao nhất nên nhà mạng phải triển khai hệ thông riêng biệt để luôn đảm bảo dự phòng, tránh sự cố gây gián đoạn dịch vụ, cũng như đảm bảo tính bảo mật cao nhất cho khách hàng.
+
+
+
+Nhà mạng cũng cho rằng từ nhiều năm nay không hề tăng giá bán SMS cho khách hàng ngân hàng. Nhà mạng cung cấp SMS cho ngân hàng là theo gói và ngân hàng bán lại, thu tiền (phí) từ khách hàng sử dụng dịch vụ SMS banking.
+
+Sau cuộc họp trên, Ông Trần Duy Hải, Phó cục trưởng Cục Viễn thông, Bộ Thông tin và Truyền thông cho biết, dưới sự chỉ đạo của lãnh đạo Bộ Thông tin và Truyền thông, các doanh nghiệp viễn thông di động đã họp với các ngân hàng thương mại về giá dịch vụ tin nhắn ngân hàng, tại cuộc họp đã có nhiều phương án được đưa ra thảo luận như tính toán theo sản lượng, thay đổi phương pháp tính cước theo gói.
+
+“Các ngân hàng thương mại và doanh nghiệp viễn thông đã thống nhất phương án thu trọn gói một mức thu cố định 11.000 đồng/tháng (đã bao gồm VAT) và không giới hạn số lượng tin nhắn khi sử dụng các dịch vụ thanh toán không dùng tiền mặt”, ông Hải thông tin.
+
+Theo ông Hải, mức giá cước trọn gói không giới hạn lưu lượng đã nhận được sự chào đón và nhất trí cao của các ngân hàng thương mại tham dự cuộc họp do đáp ứng được xu hướng người dân, khách hàng ngày càng ưu thích sử dụng dịch vụ thanh toán không dùng tiền mặt nhưng không tăng cước thu của khách hàng.
+
+Về cơ bản, mức giá dựa trên mức thu khách hàng của đa số các ngân hàng thương mại trước đây, nhưng với việc áp dụng phương pháp tính cước mới, cũng cùng số tiền này, khách hàng sử dụng dịch vụ thanh toán không dùng tiền mặt sẽ không phải trả thêm chi phí tin nhắn do không giới hạn về lưu lượng (thay thế cho phương pháp hiện nay các ngân hàng thương mại đối soát với các doanh nghiệp viễn thông theo từng tin nhắn, dẫn đến phải ban hành nhiều gói cước do sản lượng tin nhắn thấp hoặc cao hơn số thu của khách hàng).
+
+Phó cục trưởng Cục Viễn thông Trần Duy Hải cũng cho rằng, việc áp dụng mức cước trọn gói này, trước mắt có ảnh hưởng đến doanh thu của các doanh nghiệp viễn thông, theo tính toán sơ bộ, mỗi doanh nghiệp viễn thông sẽ giảm doanh thu của chính dịch vụ này khoảng 20% - 30% doanh thu tuỳ theo từng nhà mạng.
+
+Đối với các ngân hàng thương mại, thực hiện chỉ đạo của Ngân hàng Nhà nước, hiện cũng đã giảm giá các dịch vụ liên quan đến hoạt động thanh toán không dùng tiền mặt… nên cũng sẽ có ảnh hưởng nhất định.
+
+Việc tính cước theo gói, không giới hạn lưu lượng đã được các doanh nghiệp viễn thông áp dụng đối với 1 số dịch vụ trong lĩnh vực viễn thông trong những năm qua, đều đã phát huy tác dụng tốt, với phương thức tính cước này, dịch vụ được kích cầu và phát triển mạnh mẽ, lưu lượng tăng cao nên nếu tính theo lưu lượng bình quân thì giá bán rất rẻ, khách hàng và người dân được thụ hưởng và từ đó lại có tác động kích cầu, khuyến khích người sử dụng dịch vụ.
+
+“Với kinh nghiệm đó, với xu thế của thanh toán không dùng tiền mặt, thương mại điện tử, trên nền tảng hạ tầng số (viễn thông) đang có chi phí thấp, nay cộng hưởng thêm giá dịch vụ tin nhắn ngân hàng được tính theo phương thức mới, sự hợp tác chặt chẽ giữa các doanh nghiệp viễn thông, các ngân hàng thương mại cũng như các doanh nghiệp tham gia vào chuỗi cung ứng , chúng tôi cho rằng dịch vụ thanh toán không dùng tiền mặt, thương mại điện tử sẽ tiếp tục có những bước phát triển bùng nổ hơn trong thời gian tới”, ông Trần Duy Hải nhấn mạnh.
+
+Ông Nguyễn Quốc Hùng, Tổng thư ký Hiệp hội Ngân hàng Việt Nam cho biết, mức giá cước trọn gói của nhà mạng đưa ra cho các ngân hàng là 11.000 đồng/tháng cũng là giá cước trung bình mà các ngân hàng đang thu của khách hàng. Với cách tính cước này thì khách hàng sử dụng ít hay nhiều tin nhắn thì vẫn trả 11.000 đồng vì đã tính trọn gói, và đây là mức phí phù hợp.

@@ -1,0 +1,39 @@
+Thời gian qua, tình hình tội phạm lừa đảo chiếm đoạt tài sản qua mạng có xu hướng gia tăng, có tính chất xuyên quốc gia, gây thiệt hại lớn. Các ngân hàng liên tục đưa ra cảnh báo về các hình thức, chiêu thức lừa đảo chiếm đoạt tiền của người tiêu dùng hay các cuộc tấn công mạng có chủ đích nhằm đánh cắp thông tin cá nhân, thông tin về thẻ tín dụng, tài khoản ngân hàng của các khách hàng đã được ghi nhận tại một số ngân hàng trong nước.
+
+Trung tâm Ứng cứu khẩn cấp không gian mạng Việt Nam (VNCERT/CC) thuộc Cục An toàn thông tin (Bộ Thông tin và Truyền thông), trong một báo cáo mới đây cho biết trong quá trình theo dõi, tiếp nhận phản ánh tin nhắn rác, thư điện tử rác, cuộc gọi rác, cơ quan này ghi nhận nhiều phản ánh liên quan tới việc giả mạo hệ thống các ngân hàng đề nghị hỗ trợ người dùng rút tiền mặt qua thẻ tín dụng với lãi suất 0% hoặc lãi suất thấp.
+
+Theo đó, kẻ lừa đã đảo gọi điện, nhắn tin mời chào người dân sử dụng dịch vụ rút tiền mặt từ thẻ tín dụng, với tiêu chí dễ dàng đáo hạn hằng tháng hoặc chuyển trả góp với phí, lãi suất thấp. Sau khi người dùng đồng ý, đối tượng yêu cầu chủ thẻ cung cấp thông tin của thẻ tín dụng vật lý hoặc thông tin thẻ bao gồm số thẻ và mã CVV - mã thẻ tín dụng Visa, hình ảnh Chứng minh nhân dân/căn cước công dân, mã hợp đồng gửi đến số điện thoại nếu cần (thực chất là mã OTP của giao dịch trừ tiền từ thẻ tín dụng) và số tiền cần rút. Kẻ lừa đảo còn tạo niềm tin cho khách hàng bằng cách yêu cầu che đi mã CVV trước khi cung cấp thông tin.
+
+Theo trung tâm VNCERT/CC, hiện nay, hầu hết các website thương mại điện tử đều chấp nhận cho khách hàng sử dụng mã CVV/CVC khi thanh toán online thay cho mã pin. Chỉ cần nhập 4 thông tin là số thẻ tín dụng, thời hạn hết hiệu lực của thẻ, họ tên chủ thẻ và mã CVV/CVC là có thể thực hiện giao dịch. Do đó, nếu người dùng để lộ dãy số thẻ tín dụng và mã CVV/CVC cho người khác biết thì nguy cơ bị mất tiền là rất cao do họ có thể lợi dụng những thông tin này để thực hiện các giao dịch bất chính thông qua thanh toán, mua hàng online.
+
+Một thông tin đáng chú ý nữa, đầu tháng 6 vừa qua, Công ty an ninh mạng Group-IB (trụ sở Singapore) đã phát cảnh báo phát hiện một vụ tấn công lừa đảo mạo danh 27 tổ chức tài chính quen thuộc của Việt Nam. Chiến dịch này nhắm đến các tổ chức tài chính lớn của Việt Nam với mỗi trang web lừa đảo, triển khai một kế hoạch đánh cắp mã OTP cùng các chiến thuật truyền thông có mức độ tùy biến cao, nhắm trúng đích.
+
+Group-IB thông tin, chiến dịch tấn công lừa đảo nhắm vào người dùng các ngân hàng, tổ chức tài chính tại Việt Nam đã khởi động vào tháng 5 năm 2019, với việc đăng ký tên miền đầu tiên. Tên miền lừa đảo mới nhất đã được kích hoạt vào ngày 1/6/2022. Đội ứng cứu máy tính khẩn cấp của Group-IB đã xác định được 240 tên miền liên kết nằm trong cơ sở hạ tầng của chiến dịch lừa đảo. Khi phát hiện có hoạt động bất thường, CERT-GIB đã thông báo cho Trung tâm Ứng cứu khẩn cấp không gian mạng Việt Nam (VNCERT/CC) thuộc Cục An toàn thông tin.
+
+Trước vấn nạn lừa đảo mạo danh tổ chức tài chính, ngân hàng ngày càng có xu hướng tăng mạnh trên, Tạp chí Kinh tế Việt Nam/VnEconomy phối hợp cùng các đơn vị liên quan tổ chức Đối thoại chuyên đề:“Đối phó với tội phạm công nghệ mạo danh tổ chức tài chính, ngân hàng".
+
+Theo đó các nội dung chính sẽ được thảo luận gồm:
+
+- Thực trạng vấn đề lừa đảo mạo danh các tổ chức tài chính, ngân hàng hiện nay;
+
+- Nhận diện các phương thức, cách thức và các xu hướng lừa đảo mới;
+
+- Những hệ lụy, thiệt hại của vấn nạn lừa đảo mạo danh tổ chức tài chính, ngân hàng tới người tiêu dùng và doanh nghiệp;
+
+- Bài học, giải pháp nhằm nâng cao nhận thức của người dùng trong vấn đề phòng chống lừa đảo mạo danh tổ chức tài chính, ngân hàng; kiến nghị, đề xuất để hạn chế tối đa vấn nạn lừa đảo trong lĩnh vực tài chính, ngân hàng.
+
+Khách mời của Đối thoại bao gồm:
+
+- Ông Ngô Tuấn Anh, Phó Chủ tịch Hiệp hội An toàn thông tin Việt Nam (VNISA);
+
+- Ông Văn Anh Tuấn, Giám đốc cao cấp An ninh thông tin - Khối Công nghệ, Ngân hàng Techcombank;
+
+- Ông Trương Đức Lượng, Chủ tịch Công ty cổ phần An ninh mạng Việt Nam (VSEC);
+
+- Ông Nguyễn Thành Đạt, Phó Tổng giám đốc Công ty cổ phần Công nghệ An ninh không gian mạng Việt Nam (VNCS);
+
+- Nhà báo Hoàng Thu, Tạp chí Kinh tế Việt Nam/VnEconomy điều hành buổi Đối thoại.
+
+Nội dung Đối thoại chuyên đề sẽ được phát trực tuyến vào lúc 9h00, thứ Hai, ngày 01/08/2022, trên VnEconomy.vn và Fanpage VnEconomy.
+
+Trân trọng kính mời quý độc giả quan tâm theo dõi!

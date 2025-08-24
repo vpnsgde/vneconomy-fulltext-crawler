@@ -1,0 +1,23 @@
+Theo Synergy, đây là quý thứ ba liên tiếp thị trường điện toán đám mây toàn cầu đạt tỷ lệ tăng trưởng trên 20% xuất phát từ sự phát triển của AI.
+
+Mặc cho những khó khăn của kinh tế, tiền tệ và chính trị vẫn còn, sức mạnh cơ bản của thị trường tiếp tục đẩy chi tiêu cho các dịch vụ đám mây lên mức cao mới, nhà phân tích trưởng của Synergy, John Dinsdale nhận định thị trường sẽ tiếp tục tăng trưởng. Ông kỳ vọng sẽ tăng gấp đôi trong 4 năm tới. Trước đó, điện toán đám mây toàn cầu đã phải mất 13 quý để doanh thu toàn thị trường tăng từ 40 tỷ USD lên gần 80 tỷ USD.
+
+Một điều bất ngờ trong quý này là doanh thu của Microsoft Intelligent Cloud – Azure không đạt kỳ vọng của các nhà phân tích. Công ty báo cáo doanh thu đạt 28,52 tỷ USD so với ước tính của các nhà phân tích là 28,68 tỷ USD, mặc dù vậy doanh thu của Azure vẫn tăng trưởng khoảng 30%.
+
+Amazon báo cáo doanh thu đạt 26,3 tỷ USD trong quý, tăng 19% so với năm trước, cho thấy tình hình kinh doanh đã ổn định trong thời điểm hiện tại sau khi giảm xuống mức 12% và 13% vào đầu năm 2023.
+
+Google Cloud ghi nhận kết quả khá tươi sáng khi doanh thu lần đầu tiên vượt qua 10 tỷ USD, tăng 29% so với cùng kỳ năm ngoái.
+
+Điều đáng chú ý là Microsoft đã mất khoảng 2% thị phần trong quý trước, theo Synergy, nhưng vẫn tiếp tục tăng trưởng với tốc độ nhanh chóng.
+
+"Mặc dù Azure không tăng trưởng so với quý đầu tiên, nhưng cả Amazon và Google đều tăng trưởng và thị phần của họ đều được cải thiện. Nếu xem xét tốc độ tăng trưởng hàng năm liên tục, Azure thực sự đã tăng trưởng nhiều hơn Google hoặc Amazon".
+
+Về mặt định vị cạnh tranh, Amazon đã duy trì vị trí dẫn đầu trên thị trường mặc dù Microsoft và Google có tỷ lệ phần trăm tăng trưởng cao hơn. Cả ba đều chứng kiến tốc độ tăng trưởng đáng kể kể từ giữa năm 2023. Thị phần quý 2 toàn cầu của Amazon, Microsoft và Google lần lượt là 32%, 23% và 12%. Microsoft đã mất khoảng 2% thị phần trong quý trước, theo Synergy.
+
+Những nhà cung cấp đám mây khác bao gồm Oracle, Huawei, Snowflake và MongoDB cũng đã tăng trưởng nhanh chóng. Trong đó, Oracle đã vượt qua IBM trong quý này và cùng Salesforce giữ vị trí là nhà cung cấp đám mây lớn thứ năm.
+
+Tuy nhiên các công ty này chỉ chiếm 3% thị phần với hơn 2% tỷ USD doanh thu, trong khi đó Big 3 (Amazon, Microsoft và Google) chiếm hơn 73% thị trường.
+
+Trong báo cáo, Synergy chú ý thị trường đám mây tiếp tục phát triển mạnh mẽ ở tất cả các khu vực trên thế giới. Tuy nhiên, khu vực Châu Á - Thái Bình Dương có mức tăng trưởng mạnh nhất, với Ấn Độ, Nhật Bản, Úc và Hàn Quốc đều có tốc độ tăng trưởng hằng năng từ 25% trở lên.
+
+Tuy vậy, cho đến nay, Mỹ vẫn là thị trường đám mây lớn nhất, với quy mô vượt xa toàn bộ khu vực APAC. Thị trường Mỹ tăng 22% trong quý 2. Ở châu Âu, các thị trường đám mây lớn nhất là Anh và Đức, nhưng các thị trường lớn có tốc độ tăng trưởng cao nhất là Ireland, Ý và Tây Ban Nha.

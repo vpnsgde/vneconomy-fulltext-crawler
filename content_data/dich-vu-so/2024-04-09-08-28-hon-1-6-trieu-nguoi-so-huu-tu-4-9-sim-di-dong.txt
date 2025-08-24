@@ -1,0 +1,27 @@
+Để chấn chỉnh SIM rác và kiểm tra người sở hữu nhiều SIM, tại buổi họp báo thường kỳ tháng 4 của Bộ Thông tin và Truyền thông chiều ngày 8/4, ông Nguyễn Phong Nhã, Cục trưởng Cục Viễn thông cho biết Bộ Thông tin và Truyền thông đã phát triển một công cụ giúp người sử dụng tra cứu xem mình đang sở hữu bao nhiêu SIM.
+
+Lãnh đạo Bộ đã chỉ đạo Cục Viễn thông phối hợp cùng các nhà mạng thay đổi cú pháp nhắn tin để kiểm tra thông tin thuê bao qua đầu số 1414 kèm theo số căn cước công dân của mình.
+
+Nhằm bảo đảm bí mật thông tin cho người sử dụng theo nguyên tắc là cá nhân, tổ chức chỉ kiểm tra được thông tin của số thuê bao của mình, không kiểm tra được thông tin của các thuê bao khác theo quy định tại Nghị định 49/2017/NĐ-CP, trên cơ sở trao đổi, thống nhất đề xuất của các nhà mạng, Bộ Thông tin và Truyền thông  đã đề nghị các nhà mạng nghiên cứu, thay đổi cú pháp tra cứu từ (TTTB thành TTTB   số giấy tờ gửi 1414). Đồng thời, yêu cầu các nhà mạng trong bản tin trả về phải gửi kèm Danh sách các số thuê bao mà Số giấy tờ đang đứng tên đăng ký sử dụng.
+
+Qua kết quả kiểm tra thống kê cho thấy, các nhà mạng đã nhận được 6 triệu lượt tin nhắn đến tổng đài 1414.
+
+Trong khoảng thời gian từ 1/3 đến hết 31/3/2024, Cục Viễn thông ghi nhận khoảng 1,62 triệu giấy tờ, tương ứng 7,9 triệu SIM thuộc tập thuê bao có giấy tờ từ 4- 9 SIM.
+
+Ông Nhã thông tin, đến nay, đã có khoảng 1.200 số thuê bao phản ánh tới các doanh nghiệp viễn thông, thắc mắc về số SIM lạ mà mình đang sở hữu. Trên cơ sở đó, các nhà mạng đã loại bỏ các số thuê bao trong danh sách mà khách hàng phản ánh, thực hiện các thủ tục khóa 1 chiều, 2 chiều với các thuê bao không đúng tên, giấy tờ.
+
+“Đã có khoảng 200 số thuê bao đã bị khóa. Điều này cho thấy các nhà mạng đã vào cuộc tích cực trong quá trình chuẩn hóa thông tin thuê bao”, ông Nhã cho biết.
+
+Ngoài ra, các nhà mạng đã xây dựng quy trình chặt chẽ, rõ ràng để giúp người sử dụng tìm hiểu thông tin. Người sử dụng di động cũng có thể đề nghị loại bỏ thông tin của mình khỏi các thuê bao không đúng. Điều này giúp đảm bảo quyền lợi, tránh việc khóa nhầm các thuê bao chính chủ mà người dùng đang sử dụng.
+
+
+
+Liên quan đến vấn nạn cuộc gọi rác, tin nhắn rác tấn công, lừa đảo người dùng, theo Bộ Thông tin và Truyền thông, để ngăn chặn tối đa tình trạng phát tán cuộc gọi rác trên không gian mạng cần sự chủ động vào cuộc của cơ quan, tổ chức có liên quan và của chính người dân.
+
+Trong đó việc Bộ chỉ đạo, đôn đốc các doanh nghiệp di động xử lý SIM có thông tin thuê bao không đúng quy định (SIM rác), chuẩn hoá thông tin thuê bao là một trong các biện pháp nhằm ngăn chặn các phương thức đối tượng lừa đảo có thể sử dụng.
+
+Bên cạnh đó Bộ sẽ chỉ đạo tăng cường triển khai việc sử dụng cuộc gọi định danh, tin nhắn định danh (Voice brandname); xử lý các website có dấu hiệu lừa đảo…
+
+Nghị định 91/2020/NĐ-CP đã quy định rõ các cuộc gọi quảng cáo phải sử dụng Tên định danh. Vì vậy các công ty chứng khoán, bất động sản, bảo hiểm…cần đăng ký, sử dụng dịch vụ Cuộc gọi định danh (Voice Brandname) để thực hiện cuộc gọi quảng cáo khi có nhu cầu, thay vì thuê các đối tượng sử dụng các dịch vụ quảng cáo qua điện thoại không đúng quy định).
+
+Các biện pháp nêu trên, cùng với việc từ 01/7/2024, Ngân hàng Nhà nước đã yêu cầu các Giao dịch chuyển tiền ngân hàng (khác chủ tài khoản) hoặc nộp tiền vào ví điện tử trên 10 triệu đồng hoặc tổng giá trị giao dịch chuyển tiền, thanh toán trong ngày vượt quá 20 triệu phải được xác thực bằng sinh trắc học sẽ góp phần hạn chế tối đa tình trạng lừa đảo trên không gian mạng…

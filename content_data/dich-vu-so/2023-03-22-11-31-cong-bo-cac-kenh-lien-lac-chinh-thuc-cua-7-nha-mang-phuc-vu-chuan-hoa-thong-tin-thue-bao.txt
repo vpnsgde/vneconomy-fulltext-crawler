@@ -1,0 +1,25 @@
+Cụ thể, danh sách kênh chính thức của 7 nhà mạng Viettel, VinaPhone, MobiFone, Vietnamobile và 3 nhà mạng không có hạ tầng (Itelecom, Local, Wintel) như sau:
+
+Với nhà mạng Viettel: Tên hiển thị khi nhắn tin mời khách hàng chuẩn hóa thông tin thuê bao VIETTEL. Số điện thoại tổng đài gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao 0246 266 0198 (tên hiển thị: VIETTELCSKH), 0246 688 8098 (tên hiển thị VIETTELCARE).
+
+Nhà mạng VinaPhone- VNPT: Tên hiển thị khi nhắn tin mời khách hàng chuẩn hóa thông tin thuê bao: VinaPhone. Số điện thoại gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao:  088800 1091, 091100 1091, cuộc gọi hiển thị VinaPhone.
+
+Nhà mạng MobiFone: Tên hiển thị khi nhắn tin mời khách hàng chuẩn hóa thông tin thuê bao MobiFone. Số điện thoại gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao: 9090.
+
+Với nhà mạng Vietnamobile: Số điện thoại gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao  0921 667 667.
+
+Nhà mạng “ảo” Đông Dương- Itelecom: Tên hiển thị khi nhắn tin mời khách hàng chuẩn hóa thông tin thuê bao iTel. Số điện thoại gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao 087902 8888
+
+Nhà mạng ASIM Telecom- Local: Tên hiển thị khi nhắn tin mời khách hàng chuẩn hóa thông tin thuê bao myLocal.vn. Số điện thoại gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao: 0899 096 854 (tên hiển thị Local).
+
+Nhà mạng WINTEL (Mobicast): Tên hiển thị khi nhắn tin mời khách hàng chuẩn hóa thông tin thuê bao Wintel. Số điện thoại gọi ra thông báo mời khách hàng chuẩn hóa thông tin thuê bao 0559 559 559, 0559 558 558.
+
+Cục Viễn thông cho biết, qua phản ánh của các cơ quan truyền thông cho thấy trong quá trình các doanh nghiệp tổ chức chuẩn hoá thông tin thuê bao có hiện tượng một số đối tượng lợi dụng để thực hiện các hành vi có dấu hiệu mạo danh lừa đảo, quảng cáo vi phạm pháp luật.
+
+Nhằm hạn chế tối đa các hành vi nêu trên, bảo vệ quyền lợi của người sử dụng dịch vụ viễn thông, Cục Viễn thông đề nghị người sử dụng dịch vụ viễn thông chỉ thực hiện theo các thông báo cập nhật, chuẩn hoá thông tin từ các kênh chính thức của các doanh nghiệp viễn thông di động sử dụng cho mục đích nhắn tin, gọi điện thông báo đề nghị chuẩn hóa thông tin thuê bao, chăm sóc khách hàng, tiếp nhận phản hồi. Cơ quan quản lý lưu ý người dùng không thực hiện theo các thông báo ngoài danh sách kênh chính thức của doanh nghiệp.
+
+Thực hiện Đề án “Phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022- 2025, tầm nhìn đến năm 2030”, các nhà mạng triển khai những biện pháp kết nối, cung cấp dữ liệu, đối soát trong cơ sở dữ liệu thông tin thuê bao của doanh nghiệp với Cơ sở dữ liệu quốc gia về dân cư. Qua đó, phát hiện các trường hợp có thông tin chưa trùng khớp hoặc không đúng quy định nhằm nâng cao hiệu quả công tác quản lý, góp phần giải quyết triệt để tình trạng sử dụng SIM có thông tin không đúng quy định.
+
+Đây là hoạt động cần thiết nhằm góp phần ổn định trật tự xã hội, kịp thời ngăn chặn, xử lý các hành vi sử dụng SIM điện thoại có thông tin đăng ký không đúng quy định thực hiện các hành vi lừa đảo, quảng cáo sai sự thật, thiếu văn hoá…
+
+Theo đó, từ 31/3/2023, các nhà mạng sẽ bắt đầu khóa 1 chiều với những thuê bao có thông tin không trùng khớp với thông tin đối soát với cơ sở dữ liệu quốc gia về dân cư. Sau đó sẽ khóa thông tin 2 chiều với những thuê bao này và sau 2 tháng sẽ chấm dứt hợp đồng nếu thuê bao không đăng ký chuẩn hóa thông tin cá nhân theo quy định.

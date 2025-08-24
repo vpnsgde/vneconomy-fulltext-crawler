@@ -1,0 +1,27 @@
+Theo một cuộc khảo sát của Deloitte năm 2024, phần lớn các nhà lãnh đạo doanh nghiệp muốn sử dụng AI tạo sinh để tăng hiệu quả và tiết kiệm chi phí, với 91% số người được hỏi báo cáo họ “mong đợi AI có thể cải thiện năng suất tổ chức của họ”.
+
+Một nghiên cứu của McKinsey năm 2023 cho thấy các công cụ AI tạo sinh có thể cải thiện đáng kể năng suất của các nhà phát triển phần mềm nhờ khả năng thực hiện các nhiệm vụ đơn giản: "Việc ứng dụng AI tạo sinh để ghi lại chức năng mã nhằm bảo trì giúp các lập trình viên tiết kiệm một nửa thời gian viết mã so với thời gian làm thủ công.
+
+Ngoài ra, AI có thể giúp tối ưu hóa các mã hiện có (được gọi là tái cấu trúc mã), thời gian để làm nhiệm vụ này chỉ bằng 2/3 thời gian so với thời gian các nhà lập trình tự làm". Nghiên cứu của GitHub, công ty con của Google cũng chỉ ra Copilot, công cụ AI phổ biến của họ giúp các nhà phát triển hoàn thành nhiệm vụ nhanh hơn tới 55%.
+
+Theo ông Remo Peduzzi, Giám đốc tài chính của PensionDynamics, các công cụ AI tạo sinh mang lại nhiều có giá trị trong hai ứng dụng chính.
+
+Thứ nhấtlà đề xuất và tự động hoàn thành mã. AI có thể phân tích mã của nhà phát triển khi họ làm việc, tự động tạo đề xuất cho các đoạn mã hoặc chức năng hoàn chỉnh dựa trên ngữ cảnh và thông tin đầu vào. Tính năng tự động hoàn thành giúp các lập trình viên giảm thời gian viết mã thủ công, đặc biệt khi có các khối mã lặp đi lặp lại trong một dự án.
+
+Thứ hailà phân tích mã và phát hiện lỗi. AI tạo sinh có khả năng đánh giá chi tiết chuỗi mã hoá để phát hiện lỗi trong quá trình các nhà lập trình phát triển mã. Các công cụ AI cũng có thể học hỏi từ dữ liệu lịch sử và tự động hóa việc phân tích mã nhằm đề xuất sửa đổi để cải thiện các khối mã.
+
+Đối với các nhà phát triển phần mềm, AI tạo sinh là yếu tố thay đổi cuộc chơi. Mặc dù AI có thể xử lý dữ liệu với tốc độ vượt quá khả năng của con người, tuy nhiên AI vẫn không thể thay thế kiến ​​thức chuyên môn và khả năng thực thi của con người.
+
+Để tối đa hóa lợi ích của AI trong phát triển phần mềm, ông Remo Peduzzi, Giám đốc tài chính của PensionDynamics đề xuất bốn chiến lược sau.
+
+Trước tiên các lập trình viên cần thử nghiệm với nhiều plugin và nền tảng AI khác nhau để tìm ra nền tảng phù hợp nhất với nhu cầu của mình. Kiểm tra từng công cụ đáp ứng các nhiệm vụ cơ bản, sau đó mở rộng quy mô sang các dự án lớn hơn, chẳng hạn như tạo mã chi tiết hoặc phân tích lỗi, để đánh giá xem hệ thống AI này có thể mang lại lợi ích ở những nhiệm vụ nào.
+
+Ngoài ra, có một điều các chất lượng kết quả viết mã phụ thuộc vào chất lượng lời nhắc đầu vào, các nhà phát triển cũng cần tìm hiểu cách thức và cụ thể hoá nội dung mệnh lệnh cho AI để tận dụng tối đa các công cụ lập trình. Nếu các lập trình viên không nhận được câu trả lời mình đang tìm kiếm với truy vấn đầu tiên, hãy lặp lại để tinh chỉnh lời nhắc. Bổ sung và cụ thể hoá các yêu cầu để hướng dẫn AI đạt được kết quả mong muốn.
+
+AI tạo sinh có thể cải thiện đáng kể hiệu quả tạo mã, nhưng nó vẫn cần sự giám sát của con người. AI chỉ là một công cụ trong hộp các loại công cụ của các nhà phát triển có kinh nghiệm. Không thể mong đợi trí tuệ nhân tạo viết mã hoàn hảo, mặc dù AI có thể tạo lập một cấu trúc vững chắc, tuy nhiên sẽ luôn có các chuỗi mã cần được sửa lỗi hoặc viết lại. Vì vậy, kết quả do AI tạo ra luôn cần ít nhất một một nhà phát triển cấp cao kiểm tra để ngăn ngừa các lỗi.
+
+Bên cạnh đó, các lập trình viên cũng cần lưu ý đến quyền riêng tư và bảo mật dữ liệu khi sử dụng AI tạo sinh để phát triển phần mềm. Đặt lệnh cấm chia sẻ dữ liệu nhạy cảm của khách hàng hoặc thông tin độc quyền với các nhà cung cấp AI.
+
+Cho dù AI tạo sinh có thể nâng cao đáng kể năng suất phát triển phần mềm nhưng công nghệ này không thể hoàn thành tất cả quy trình lập trình. AI là một công cụ có giá trị khi được đào tạo và sử dụng đúng cách. Mặc dù không thể mong đợi nó mang lại những kết quả hoàn hảo, nhưng các lập trình viên có thể tận dụng công nghệ này để tiết kiệm thời gian và tiền bạc trong quá trình mã hóa phần mềm.
+
+Sử dụng các công cụ AI một cách chiến lược, kết hợp với kiến ​​thức chuyên môn và sự giám sát của con người sẽ giúp việc phát triển các giải pháp phần mềm hiệu quả hơn bao giờ hết.

@@ -1,0 +1,41 @@
+Năm 2023 tiếp tục là một năm đầy khó khăn của kinh tế thế giới. Nhiều “cơn gió nghịch” đã đẩy kinh tế toàn cầu năm 2023 vào một trong những giai đoạn ảm đạm nhất kể từ cuộc khủng hoảng tài chính thế giới năm 2007-2008.
+
+Dẫn số liệu của Crunchbase, báo cáo Hệ sinh thái đổi mới sáng tạo mở Việt Nam 2023” của BambuUP dưới sự bảo trợ của Cục Phát triển thị trường và Doanh nghiệp khoa học và Công nghệ và Trung tâm Hỗ trợ khởi nghiệp sáng tạo quốc gia công bố mới đây đã chỉ ra: tính đến tháng 8/2023, tổng vốn đầu tư mạo hiểm cho khởi nghiệp toàn cầu trị giá 187,6 tỷ USD, giảm 46,4% so với cùng kỳ năm 2022. Trung bình mỗi tháng có 23,4 tỷ USD được đầu tư cho startup, sụt giảm rõ rệt so với 37 tỷ USD/tháng của năm 2022.
+
+Theo tổng hợp từ StartupBlink, Crunchbase, CBInsights, đến tháng 9/2023, trên thế giới có 1.233 công ty kỳ lân. Tuy nhiên, tốc độ tăng trưởng kỳ lân cũng đã giảm mạnh, chỉ tăng 8,5% (từ năm 2022 đến năm 2023) so với 67% (từ năm 2021 đến năm 2022) và 80% (từ năm 2020 đến năm 2021). Số lượng kỳ lân mới trung bình hàng tháng của năm 2023 cũng đánh dấu mốc thấp nhất trong vòng hơn 4 năm qua.
+
+Theo thống kê của Crunchbase, năm 2021 toàn thế giới có khoảng 620 kỳ lân mới thì đến năm 2022 con số này giảm gần một nửa, chỉ còn gần 330 kỳ lân, và trong 8 tháng đầu năm 2023 chỉ ghi nhận gần 60 kỳ lân.
+
+Tính trung bình, nếu như năm 2021 và nửa đầu năm 2022, mỗi tháng thế giới có từ 30-60 kỳ lân mới xuất hiện, thì sang năm 2023, con số này chỉ là vài kỳ lân và tháng cao nhất cũng chỉ đạt con số 10. Những kỳ lân có giá trị lớn nhất thế giới và cũng có mức tăng trưởng cao nhất trong năm qua chủ yếu là nhóm các kỳ lân công nghệ trí tuệ nhân tạo (AI), quản lý dữ liệu, thương mại điện tử…
+
+Trong năm 2023, phần mềm và dữ liệu tiếp tục là lĩnh vực được lựa chọn nhiều nhất để các nhà sáng lập thành lập ra các công ty khởi nghiệp mới, chiếm tỷ lệ 31,95%. Các lĩnh vực phổ biến ngay sau lần lượt là Healthtech (12,83%) và Fintech (10,43%). Phần mềm và dữ liệu cũng là hai lĩnh vực có số lượng kỳ lân nhiều nhất, chiếm 39,4%, tiếp đó là Fintech 20,6%…
+
+Ngành thương mại điện tử và bán lẻ; công nghệ xã hội và giải trí tỏ ra kém hấp dẫn hơn với startup. Các startup trong hai lĩnh vực này đã giảm so với năm 2022, từ 9,76% còn 9,47% cho ngành thương mại điện tử bán lẻ và từ 10,38% còn 9,74% cho ngành công nghệ xã hội và giải trí.
+
+Một chỉ số đáng chú ý khác là tỷ lệ kỳ lân trong lĩnh vực, thể hiện khả năng phát triển và tiềm năng đầu tư của lĩnh vực đó. Tuy nhiên, mức phân bổ của các kỳ lân không có sự thay đổi quá nhiều trong năm nay.
+
+Một lĩnh vực nổi bật hơn cả là vận chuyển, mặc dù chỉ có 2,7% số lượng startup hoạt động trong lĩnh vực này nhưng vận chuyển sản sinh ra đến 6,8% số kỳ lân của thế giới.  Mặt khác, Healthtech đứng thứ ba trong tất cả các lĩnh vực về số lượng startup, nhưng lại chỉ chiếm 7,3% tỷ lệ kỳ lân, cho thấy vẫn còn nhiều tiềm năng chưa được khai thác.
+
+Top 10 quốc gia có hệ sinh thái khởi nghiệp tốt nhất năm 2023 là Mỹ, Anh, Israel, Canada, Thụy Điển, Singapore, Đức, Pháp, Úc, Hà Lan. Còn tại khu vực châu Á - Thái Bình Dương, Singapore, Australia, Trung Quốc, Nhật Bản, Hàn Quốc, Ấn Độ, New Zealand, Indonesia, Malaysia là những nước có hệ sinh thái khởi nghiệp tốt nhất khu vực. Năm vừa qua đánh dấu sự suy giảm của các hệ sinh thái khởi nghiệp hàng đầu…
+
+Diễn biến hoạt động đầu tư mạo hiểm trong 10 năm qua cho thấy đầu tư vào startup Việt Nam đã có những bước phát triển mạnh. Từ chỗ chỉ có vài thương vụ với tổng giá trị đầu tư trong năm 2013 chỉ khoảng 10 triệu USD đã tăng mạnh ở các năm tiếp theo, nhất là từ năm 2019  và đạt đỉnh vào năm 2021 với 165 thương vụ, đạt tổng giá trị 1,442 tỷ USD.
+
+Tuy nhiên, con số này giảm trong 2 năm qua. Trong bối cảnh kinh tế toàn cầu hiện nay, hoạt động đầu tư mạo hiểm tại Việt Nam tiếp tục chững lại, đánh dấu mức giảm hai năm liên tiếp kể từ năm 2021. Trong 9 tháng đầu năm 2023, tổng giá trị các thương vụ giảm 13%, đạt tổng cộng 427 triệu USD. Xu hướng này thể hiện rõ hơn ở mức giảm mạnh 40% trong số lượng thương vụ, chạm mức thấp nhất kể từ năm 2018 với 56 giao dịch được ghi nhận.
+
+Theo các số liệu báo cáo của Do Venture và NIC, ngoại trừ các vòng đầu tư giai đoạn sau, số lượng giao dịch cũng đã giảm đáng kể ở các thương vụ với quy mô gọi vốn nhỏ và trung bình, với mức giảm đáng kể nhất là 50% trong các thương vụ có giá trị dưới 500 nghìn USD. Số lượng giao dịch trong phạm vi 10 triệu USD - 50 triệu USD giảm không đáng kể. Xu hướng này cho thấy sự có mặt ngày càng nhiều của các công ty công nghệ “trưởng thành” trong hệ sinh thái khởi nghiệp của Việt Nam.
+
+Cùng với sự sụt giảm về số lượng thương vụ, giá trị đầu tư cũng giảm rõ rệt ở các vòng đầu tư giai đoạn đầu, cho thấy sự thận trọng và khắt khe của các nhà đầu tư ngay cả với các khoản đầu tư quy mô nhỏ. Trong khi giá trị trung bình của các vòng Pre-A và Series A tiếp tục tăng lên, giá trị trung bình của các vòng Series B giảm 44%, cho thấy tác động mạnh mẽ của thị trường vốn đang thu hẹp lên các công ty ở quy mô tăng trưởng.
+
+Theo dữ liệu DealStreetAsia, vốn khởi nghiệp huy động tại các thị trường trọng điểm Đông Nam Á trong năm 2023 đều giảm mạnh so với trước. Tính đến giữa năm 2023, chỉ mới có một startup có thể gọi vốn và đạt đến trạng thái “kỳ lân” trong khu vực Đông Nam Á. Điều này cho thấy các kỳ lân mới ngày càng trở nên hiếm hoi hơn. Kỷ lục số lượng kỳ lân ở Đông Nam xuất hiện nhiều nhất năm 2021 với 23 kỳ lân.
+
+Tại Việt Nam, tính từ thời điểm kỳ lân đầu tiên ra đời (năm 2014) đến nay, mới chỉ có tổng số ba kỳ lân gồm: VNG, Momo và VnPay. Bên cạnh đó, Việt Nam đang có một số “cận kỳ lân” (soonicorn) được ghi nhận như: Kyber Network, Tiki, Kiot Viet, Giaohangtietkiem, GHN…
+
+Như vậy, từ 2021 đến nay vẫn chưa xuất hiện thêm kỳ lân nào khác. Trong khi đó, các soonicorn (công ty đang tăng trưởng mạnh mẽ) của Việt Nam đang gặp khó khăn nhất định do tình hình nền kinh tế vĩ mô. Theo các chuyên gia, việc các đối tác góp vốn trở nên thận trọng trong việc đầu tư và định giá các startup khiến việc các startup trở thành kỳ lân sẽ trở nên hiếm hoi trong giai đoạn này.
+
+Nhìn vào thực trạng hoạt động đầu tư vào khởi nghiệp startup hiện nay, ông Phạm Hồng Quất, Cục trưởng Cục Phát triển thị trường và Doanh nghiệp khoa học và công nghệ, cho rằng đây là bức tranh chung toàn cầu, là “mùa đông” của gọi vốn đầu tư. Bối cảnh chung đó đã ảnh hưởng tới thị trường Việt Nam, với tổng vốn đầu tư khởi nghiệp giảm và ít những thương vụ đầu tư lớn, chủ yếu là những khoản đầu tư nhỏ.
+
+Thực tế hiện nay cho thấy một số quỹ đầu tư tài chính lớn trên thế giới đang rất khó khăn, thậm chí phá sản. Tuy nhiên, các nhà đầu tư thiên thần và các quỹ nhỏ vẫn đang quan tâm tới thị trường Việt Nam...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 05-2024 phát hành ngày 29-01-2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

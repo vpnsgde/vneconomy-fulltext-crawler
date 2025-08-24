@@ -1,0 +1,37 @@
+Chiều 5/2, Cục An toàn thông tin (Bộ Thông tin và Truyền thông) đã phát đi cảnh báo về phương thức sử dụng thiết bị phát sóng di động giả mạo để phát tán tin nhắn rác lừa đảo nhắm vào người dùng của các tổ chức tài chính, ngân hàng.
+
+Cục này cho biết, thời gian qua nhiều thuê bao di động nhận được các tin nhắn mạo danh các tổ chức tài chính, ngân hàng như TPBank, Sacombank, ACB, Zalopay,… gửi các nội dung giả mạo, lừa đảo nhằm chiếm đoạt tiền của người dân.
+
+Qua xác minh, đánh giá cho thấy các tin nhắn giả mạo này không xuất phát từ hệ thống của các tổ chức tài chính, ngân hàng và doanh nghiệp viễn thông mà được phát tán thông qua các thiết bị phát sóng di động giả mạo.
+
+Đây là các thiết bị có nguồn gốc từ nước ngoài, được các đối tượng mua bán, sử dụng trái phép nhằm mục đích thực hiện các cuộc tấn công phát tán tin nhắn rác lừa đảo người dùng, đặc biệt là người dùng tại các khu vực đô thị.
+
+Theo Cục An toàn thông tin, các bước mà đối tượng tiến hành gồm 3 bước:
+
+Bước 1: Thực hiện phát tán tin nhắn rác lừa đảo
+
+Đối tượng tấn công sử dụng các thiết bị phát sóng giả mạo (IMSI Catcher/SMS Broadcaster) để thực hiện gửi tin nhắn rác trực tiếp vào điện thoại mà không thông qua mạng viễn thông di động.
+
+Các tin nhắn này bị các đổi tượng thay đổi thông tin nguồn gửi (số điện thoại, đầu số hoặc tên định danh) nhằm mục đích tạo lòng tin, đánh lừa người dùng.
+
+Nội dung tin nhắn thường là quảng cáo, hướng dẫn hoặc chứa đường link tới website giả mạo giống như các website chính thống của các tổ chức tài chính, ngân hàng để dẫn dụ và đánh cắp thông tin của người dùng như tài khoản, mật khẩu, mã OTP,…
+
+Bước 2: Người dùng cung cấp thông tin cá nhân
+
+Người dùng không nhận biết được website giả mạo nên sẽ cung cấp thông tin cá nhân truy cập vào tài khoản ngân hàng như điền tên tài khoản, mật khẩu. Sau khi người dùng cung cấp thông tin, website giả mạo sẽ điều hướng sang website khác hoặc thông báo đề nghị người dùng chờ đợi.
+
+Đối tượng dùng thông tin cá nhân của người dùng để đăng nhập vào website chính thức của các tổ chức tài chính, ngân hàng để lấy mã xác thực OTP (nếu cần).
+
+Bước 3: Lấy mã OTP của người dùng
+
+Sau khi điện thoại người dùng nhận được mã xác thực OTP, website giả mạo sẽ được điều hướng sang trạng thái yêu cầu người dùng cung cấp mã xác thực OTP. Người dùng mà không cảnh giác sẽ cung cấp thông tin mã OTP để đối tượng hoàn tất quá trình chiếm đoạt tiền trong tài khoản.
+
+Đây là hành vi rất tinh vi và nguy hiểm, Cục An toàn thông tin đang phối hợp chặt chẽ với lực lượng công an, các cơ quan chức năng, các doanh nghiệp viễn thông để triển khai các biện pháp ngăn chặn, điều tra, xác minh và xử lý đối tượng vi phạm pháp luật.
+
+Để phòng ngừa và phối hợp xử lý, Cục An toàn thông tin đề nghị người dân:
+
+(1) Kiểm tra, xác minh kỹ các website, ứng dụng (app) trong các tin nhắn mà người dùng nhận được, kể cả các tin nhắn thương hiệu, tin nhắn từ các đầu số ngắn; tuyệt đối không truy cập vào các website, ứng dụng có nguồn gốc, nội dung không rõ ràng.
+
+(2) Khi nhận được tin nhắn có nội dung lừa đảo, giả mạo, đề nghị phản ánh với Cục An toàn thông tin (Trung tâm VNCERT/CC) qua đầu số tin nhắn 5656 hoặc qua Websitehttps://thongbaorac.ais.gov.vn/để Cục An toàn thông tin kịp thời điều phối, phối hợp với các đơn vị liên quan xử lý.
+
+(3) Thông báo cho cơ quan công an hoặc Cục An toàn thông tin khi phát hiện các đối tượng sử dụng, mua bán, trao đổi các thiết bị phát sóng giả mạo (IMSI Catcher/SMS Broadcaster) qua số đường dây nóng của Cục An toàn thông tin 0339035656.

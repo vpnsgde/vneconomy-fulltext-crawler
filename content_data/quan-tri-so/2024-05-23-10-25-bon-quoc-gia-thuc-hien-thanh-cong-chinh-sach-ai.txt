@@ -1,0 +1,25 @@
+Sự ra đời của trí tuệ nhân tạo (AI) đã và đang tạo ra một làn sóng cách mạng không chỉ trong lĩnh vực công nghệ mà còn trong mọi khía cạnh của cuộc sống. Tuy nhiên, song hành với sự phát triển nhanh chóng, công nghệ này cũng đang làm tăng các mối lo ngại về đạo đức, pháp lý và xã hội. Vì vậy, nhiều quốc gia trên thế giới đã nỗ lực áp dụng các khuôn khổ pháp lý để quản lý và triển khai AI một cách an toàn.
+
+Chiến lược Trí tuệ Nhân tạo Pan-Canada được ra mắt vào năm 2017, là cam kết bắt buộc các doanh nghiệp phát triển AI có trách nhiệm. Chiến lược này bao gồm 3 trụ cột chính là thương mại hóa, thiết lập các tiêu chuẩn và thát triển tài năng và nghiên cứu.
+
+Với trụ cột thương mại hóa, một trong những sáng kiến cốt lõi đột phá của Chính phủ Canada là thành lập mạng lưới khoa học CIFAR với ba viện nghiên cứu quốc gia ở Montreal, Toronto và Edmonton. Ba viện này sẽ nghiên cứu trí tuệ nhân tạo để biến thành các ứng dụng thương mại và phát triển năng lực của các doanh nghiệp để áp dụng các công nghệ mới này. Chính phủ đang hỗ trợ sáng kiến này với 60 triệu đô la được cung cấp trong Ngân sách năm 2021, với mỗi viện đủ điều kiện nhận tới 20 triệu USD tài trợ trong năm năm, từ 2021-2022 đến 2025-2026.
+
+Thứ hai, để xây dựng tiêu chuẩn AI, Chính phủ Canada đã thông qua Hội đồng Tiêu chuẩn Canada với khoản tài trợ 8,6 triệu USD trong năm năm, từ 2021-2022 đến 2025-2026.
+
+Cuối cùng, CIFAR (mạng lưới khoa học Canada) tăng cường các chương trình để thu hút, giữ chân và phát triển tài năng nghiên cứu học thuật, đồng thời duy trì các trung tâm nghiên cứu và đào tạo học thuật thông qua khoản tài trợ 208 triệu USD.
+
+Trung Quốc đã vươn lên đáng kể trong lĩnh vực AI, trở thành một trong những quốc gia hàng đầu về phát triển AI. Mục tiêu của nước này là trở thành trung tâm đổi mới AI hàng đầu vào năm 2030 nhằm sớm trở thành quốc gia thống trị công nghệ.
+
+Đến nay, Trung Quốc đã phát triển các mô hình để kiểm soát sự tăng trưởng và hoạt động của AI. Luật An ninh mạng Trung Quốc và Kế hoạch Phát triển AI Thế hệ Mới cung cấp các biện pháp bảo vệ dữ liệu và an ninh mạng trong AI, nhấn mạnh việc các doanh nghiệp cần tuân thủ bộ quy tắc phát triển an toàn và cơ chế quản lý rủi ro kịp thời.
+
+Singapore đã thiết lập Khung quản trị AI từ năm 2019. Khuôn khổ này cung cấp hướng dẫn chi tiết cho các tổ chức khu vực tư nhân đáp ứng các vấn đề đạo đức và quản trị quan trọng khi triển khai các giải pháp AI. Bên cạnh đó, bằng cách giải thích cách các hệ thống AI hoạt động, xây dựng các thực tiễn trách nhiệm giải trình dữ liệu tốt và tạo ra giao tiếp cởi mở và minh bạch, khuôn khổ này cũng nhằm mục đích thúc đẩy sự hiểu biết và tin tưởng của công chúng vào công nghệ.
+
+Ngoài ra, cũng từ năm 2018, Singapore thành lập Hội đồng tư vấn sử dụng có đạo đức AI và dữ liệu nhằm tư vấn cho Chính phủ về các vấn đề đạo đức, chính sách và quản trị phát sinh từ việc sử dụng các công nghệ dựa trên dữ liệu trong khu vực tư nhân.
+
+Ngoài ra, Hội đồng tư vấn còn hỗ trợ Chính phủ trong việc cung cấp hướng dẫn chung cho các doanh nghiệp để giảm thiểu rủi ro về đạo đức, quản trị và bền vững, đồng thời giảm thiểu tác động bất lợi đến người tiêu dùng từ việc sử dụng các công nghệ dựa trên dữ liệu
+
+Tháng 11/2018, Chính phủ Liên bang Đức đã đưa ra chiến lược AI quốc gia nhằm đạt được các mục tiêu sau: Tăng cường và củng cố khả năng cạnh tranh trong tương lai của Đức bằng cách biến Đức và châu Âu trở thành trung tâm hàng đầu về AI; Đảm bảo sự phát triển và triển khai AI có trách nhiệm phục vụ lợi ích của xã hội; Tích hợp AI trong các lĩnh vực đời sống.
+
+Năm 2020, Chính phủ Liên bang Đức đã cập nhật chiến lược này bằng cách đưa ra các biện pháp cụ thể, tập trung vào các lĩnh vực sau: nghiên cứu, kiến thức và chuyên môn, chuyển giao và ứng dụng, khung pháp lý và xã hội.
+
+Dù cách tiếp cận của mỗi quốc gia đối với những thách thức của trí tuệ nhân tạo là khác nhau, song điểm chung vẫn là đảm bảo công nghệ này phát triển theo những cách có ý nghĩa đối với xã hội và doanh nghiệp. Khi công nghệ này ngày càng phát triển, việc thiết lập hành lang pháp lý là vô cùng cần thiết để công nghệ phát triển đúng hướng nhằm đảm bảo an sinh xã hội.

@@ -1,0 +1,29 @@
+Thủ đoạn của các đối tượng là giả danh cán bộ Công an gọi điện cho người dân thông báo Căn cước công dân bị lỗi trên hệ thống hoặc cần phải cập nhật dữ liệu dân cư, mã định danh rồi yêu cầu người dân đến cơ quan Công an để khắc phục. Các đối tượng sẽ thúc ép với lý do cần hoàn thiện gấp hồ sơ để yêu cầu người dân tải phần mềm giả mạo “Dịch vụ công” theo đường dẫn của đối tượng cung cấp.
+
+Khi cài đặt phần mềm giả mạo, các đối tượng sẽ chiếm quyền điều khiển điện thoại, thực hiện việc chuyển tiền từ thông tin tài khoản ngân hàng và các ứng dụng thanh toán được lưu trên điện thoại.
+
+Mới đây, 2 người phụ nữ ở quận Cầu Giấy đã bị mất hàng trăm triệu đồng khi cài đặt phần mềm “giả mạo” Dịch vụ công.
+
+Theo đó, ngày 22/3/2024, chị H (SN 1993) đến Công an phường Trung Hòa, quận Cầu Giấy trình báo việc bị mất hơn 300 triệu đồng khi khi cài đặt phần mềm “giả mạo” Dịch vụ công.
+
+Chị H. cho biết có nhận được cuộc gọi của một đối tượng tự xưng là cán bộ Công an phường yêu cầu chị cài đặt định danh cá nhân. Sau đó, đối tượng hướng dẫn chị cài đặt và đăng nhập phần mềm “giả mạo” Dịch vụ công. Một lúc sau chị phát hiện tài khoản bị mất hơn 320 triệu đồng.
+
+Cũng trong ngày, Công an phường Trung Hòa, quận Cầu Giấy nhận được tin trình báo của chị T. (SN 1984) về việc nhận được cuộc gọi của một đối tượng tự xưng là cán bộ Công an quận Hoàng Mai. Đối tượng hướng dẫn chị cài đặt và đăng nhập phần mềm “giả mạo” Dịch vụ công. Sau đó chị phát hiện tài khoản bị mất hơn 200 triệu đồng nên đã đến cơ quan Công an trình báo.
+
+Trước đó, có trường hợp mất tiền do cho người thân hoặc bạn bè mượn điện thoại để cài đặt phần mềm giả mạo Dịch vụ công.
+
+Một trong các nạn nhân là anh H. (trú tại Hà Nội) do cho bạn mượn điện thoại để cài đặt phần mềm giả mạo Dịch vụ công nên bị chiếm đoạt tài sản.
+
+Tại trụ sở Công an, anh H. cho biết bạn của mình là anh K. nhận được điện thoại của đối tượng tự xưng là cán bộ Công an phường yêu cầu đến cơ quan Công an để cập nhật tài khoản định danh cá nhân. Do anh K. bận công tác nên không thể trực tiếp đến cơ quan Công an làm việc.
+
+Đối tượng thông báo với anh K. là Bộ Công an có chủ trương hỗ trợ qua mạng để thuận tiện cho công dân và hướng dẫn anh K. sử dụng điện thoại có hệ điều hành Android để tải phần mềm và cài đặt ứng dụng giả mạo Dịch vụ công. Do anh K. không sử dụng điện thoại có hệ điều hành Android nên đã mượn điện thoại của anh H. để cài đặt ứng dụng giả mạo theo yêu cầu của đối tượng.
+
+Ngoài ra, đối tượng còn yêu cầu anh K. truy cập vào tài khoản ngân hàng để thanh toán phí dịch vụ. Mục đích của các đối tượng là thu thập thông tin về số tài khoản, mật khẩu đăng nhập tài khoản ngân hàng của anh K. khi đăng nhập trên điện thoại của anh H.
+
+Sau khi phần mềm cập nhật xong và chiếm được quyền điểu khiển điện thoại, các đối tượng lấy cắp mật khẩu đăng nhập tài khoản ngân hàng, mã OTP giao dịch và thực hiện các lệnh chuyển tiền, chiếm đoạt tài sản của tất cả các tài khoản ngân hàng lưu trong máy điện thoại của anh H. và tài khoản ngân hàng anh K. vừa đăng nhập.
+
+Để phòng tránh lừa đảo, Công an thành phố Hà Nội đề nghị người dân cảnh giác khi nhận các cuộc gọi điện thoại từ người lạ, tự xưng là cán bộ Công an để thông báo, yêu cầu bổ sung, cung cấp thông tin dữ liệu dân cư qua điện thoại. Tuyệt đối không cài đặt các phần mềm, ứng dụng theo yêu cầu của các đối tượng.
+
+Nếu cài đặt phần mềm giả mạo sẽ có nguy cơ sẽ bị chiếm quyền điều khiển toàn bộ điện thoại. Các tin nhắn, cuộc gọi đến máy điện thoại của nạn nhân sẽ được ứng dụng kiểm soát, ngầm chuyển về máy chủ do đối tượng quản lý, không hiển thị trên điện thoại của nạn nhân. Nguy hiểm hơn, các đối tượng chiếm quyền điều khiển điện thoại di động từ xa, sau đó truy cập vào tài khoản, chuyển tiền của bị hại.
+
+Trường hợp nhận được các tin nhắn và cuộc gọi có dấu hiệu lừa đảo, người dân cần kịp thời trình báo cơ quan Công an để ngăn chặn và xử lý theo quy định của pháp luật.

@@ -1,0 +1,21 @@
+Ngày 11/9, Bộ Thông tin và Truyền thông đã tổ chức Hội nghị trực tuyến giao ban quản lý Nhà nước quý 3/2023. Báo cáo tại hội nghị cho biết tháng 8/2023, doanh thu lĩnh vực an toàn thông tin mạng đạt 410 tỷ đồng (tăng 20,2% so với tháng 8/2022 là 341 tỷ đồng); tỷ lệ doanh thu sản phẩm nội địa so với nước ngoài đạt 45,4% (giảm 2,4% so với tháng 8/2022).
+
+Đáng chú ý, nộp ngân sách nhà nước 28,7 tỷ đồng (tăng 19,6 % so với cùng kỳ năm 2022); Lợi nhuận 41 tỷ đồng (tăng 20,2% so với cùng kỳ năm 2022).
+
+Theo thống kê của Bộ Thông tin và Truyền thông, toàn ngành có 104 doanh nghiệp hoạt động trong lĩnh vực an toàn thông tin (tăng 5,1% so với cùng kì năm 2022); Số lao động an toàn thông tin là 3.072 người (tăng 11% so với cùng kì năm 2022).
+
+Ngoài ra, trong tháng 8, số vụ tấn công mạng ghi nhận 1.402 cuộc (tăng 54,6% so với cùng kỳ tháng 8/2022 là 907 cuộc); IP botnet là 450.328 địa chỉ (giảm 27,3% so với cùng kỳ tháng 8/2022 là 619.610 địa chỉ).
+
+Đối với lĩnh vực chứng thực chữ ký số công cộng, tính đến hết tháng 8/2023, tổng số chứng thư số công cộng đã cấp là 5.385.932 chứng thư số (tăng 17,67% so với cùng kỳ năm 2022 là 5.426.914 chứng thư số). Tuy nhiên, tổng số chứng thư số công cộng đang hoạt động là 2.196.000 chứng thư số (tăng 19% so với cùng kỳ năm 2022 là 1.845.370 chứng thư số).
+
+Tính đến ngày 23/8/2023, số phí thu được lũy kế từ đầu năm của Trung tâm Chứng thực điện tử quốc gia đạt 25.306.218.000 đồng; lũy kế số nộp ngân sách nhà nước từ đầu năm 2023 đến 23/8/2023 đạt 3.797.821.650 đồng. Tổng số chứng thư số chuyên dùng phục vụ Chính phủ đang hoạt động tháng 8/2023 là 557.141 chứng thư số (tăng 14,95 % so với cùng kỳ năm 2022 là 496.360 chứng thư số).
+
+Cũng trong quý 3/2023, Bộ Thông tin và Truyền thông tiếp tục chỉ đạo điều hành xây dựng và ban hành Bản đồ công nghệ lĩnh vực an toàn thông tin; Xây dựng Kế hoạch tiến hành kiểm tra đột xuất về bảo đảm an toàn thông tin mạng cho hệ thống thông tin có thu thập, lưu trữ và xử lý dữ liệu nhà nước, thông tin cá nhân và dữ liệu cá nhân tại các đơn vị, doanh nghiệp thuộc Bộ; Tổ chức Chương trình diễn tập quốc tế Apcert năm 2023 với chủ đề “Digital Supply Chain Redemption - Mua ứng dụng qua chuỗi cung ứng số”;…
+
+Đồng thời, hoàn thiện dự thảo 1 của Chỉ thị của Thủ tướng Chính phủ về tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn hệ thống thông tin theo cấp độ; Gửi Bộ Tư pháp thẩm định Hồ sơ Nghị định sửa đổi Nghị định 130/2018/NĐ-CP; Ban hành văn bản gửi các cơ quan để cử đại diện tham gia Ban soạn thảo và Tổ biên tập Đề án xây dựng Nghị định hướng dẫn Luật Giao dịch điện tử.
+
+Trong quý 4/2023, Bộ Thông tin và Truyền thông sẽ xây dựng dự thảo Nghị định quy định chi tiết Luật Giao dịch điện tử; Hoàn thiện hồ sơ Nghị định sửa đổi Nghị định 130/2018/NĐ-CP quy định chi tiết thi hành Luật giao dịch điện tử về chữ ký số và dịch vụ chứng thực chữ ký số công cộng và trình Chính phủ; Hoàn thiện dự thảo Chiến lược quốc gia về ứng dụng và phát triển công nghệ chuỗi khối (blockchain) đến năm 2025, định hướng đến năm 2030 trình Thủ tướng Chính phủ;
+
+Bên cạnh đó, Bộ Thông tin và Truyền thông tiếp tục lấy ý kiến bộ, ngành, địa phương về Dự thảo Chỉ thị của Thủ tướng Chính phủ về tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn hệ thống thông tin theo cấp độ; Ban hành Hướng dẫn phát triển Đội ứng cứu sự cố cho một số lĩnh vực quan trọng cần ưu tiên bảo đảm an toàn thông tin mạng.
+
+Đồng thời đẩy mạnh hoạt động rà soát, phát hiện các hành vi lừa đảo trên không gian mạng; Kiểm tra tuân thủ quy định về bảo đảm an toàn thông tin theo cấp độ và bảo vệ dữ liệu, thông tin cá nhân; Giám sát, cảnh báo, điều phối, ứng cứu sự cố an toàn thông tin mạng quốc gia…

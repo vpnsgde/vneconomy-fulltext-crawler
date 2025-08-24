@@ -1,0 +1,15 @@
+Bộ Công an vừa tổ chức Lễ nhận chứng chỉ Uptime Tier IV giai đoạn thiết kế. Đây được xem là dấu mốc quan trọng trong hành trình xây dựng trung tâm dữ liệu, khẳng định hồ sơ thiết kế kỹ thuật của đơn vị đã đáp ứng đầy đủ các chỉ tiêu nghiêm ngặt về độ tin cậy, tính sẵn sàng và khả năng phục hồi của một Trung tâm dữ liệu Tier IV.
+
+Thiếu tướng Nguyễn Ngọc Cương, Giám đốc Trung tâm dữ liệu quốc gia, nhấn mạnh để đạt được chứng nhận này, thiết kế của Trung tâm dữ liệu đã trải qua quá trình kiểm tra khắt khe và đáp ứng hàng loạt tiêu chí kỹ thuật phức tạp, như thiết kế phải đảm bảo tính chống lỗi hoàn toàn, hệ thống có dự phòng kép hoàn chỉnh, cộng thêm một thành phần dự phòng, đồng thời đảm bảo vừa có thể bảo trì mà không bị gián đoạn dịch vụ, vừa có thể chịu lỗi bất ngờ.
+
+Ngoài ra, việc đạt được chứng chỉ ở giai đoạn thiết kế không chỉ thể hiện năng lực tư duy và tổ chức triển khai dự án bài bản, mà còn là cam kết mạnh mẽ của đơn vị trong việc hiện thực hoá một trung tâm dữ liệu có tiêu chuẩn vận hành cao nhất.
+
+Ông Patrick Chan, Phó Chủ tịch khu vực Châu Á, Uptime Institute cho biết: "Đây là trung tâm dữ liệu đạt chuẩn thiết kế Tier IV đầu tiên tại Việt Nam; mong được tiếp tục đồng hành trong hành trình với Uptime Institute thông qua đối tác của chúng tôi là công ty HME, bởi vì có 3 trụ cột tạo nên khả năng sẵn sàng và ổn định của một Trung tâm dữ liệu (đó là cơ sở hạ tầng vật lý (Facility)…; vận hành (Operations); an ninh mạng (Cybersecurity)".
+
+Theo ông Nguyễn Hoàng Minh, Tổng Giám đốc FPT IS, Tập đoàn FPT, trong dự án này, liên danh FPT và Aurecon, TwoG được Trung tâm dữ liệu quốc gia tin tưởng giao nhiệm vụ đồng hành tư vấn triển khai dự án; đồng thời cam kết song hành, bám sát yêu cầu và nhiệm vụ của Trung tâm Dữ liệu quốc gia và các bài toán trọng yếu về phát triển dữ liệu, đảm bảo tiêu chí "đúng - đủ - sạch - sống, thống nhất, dùng chung".
+
+Chứng chỉ Uptime Tier IV khẳng định, về mặt kỹ thuật và công nghệ, Trung tâm dữ liệu quốc gia đạt mức độ dự phòng hạ tầng cao nhất, có khả năng duy trì hoạt động liên tục và ổn định ngay cả khi xảy ra sự cố kỹ thuật hoặc trong quá trình bảo trì...
+
+Về mặt chính quyền số và an ninh dữ liệu, chứng chỉ Uptime Tier IV sẽ giúp Việt Nam giảm lệ thuộc vào hạ tầng nước ngoài, tăng chủ quyền số, đáp ứng yêu cầu nghiêm ngặt về an ninh mạng, bảo vệ dữ liệu công dân và các cơ sở dữ liệu quốc gia.
+
+Như vậy, Việt Nam đã sở hữu Trung tâm dữ liệu quốc gia đạt chuẩn, vững mạnh như những quốc gia hàng đầu đã đạt chứng nhận như Data Center NEXTDC (Australia); Data Center Switch SUPERNAP (Mỹ)...

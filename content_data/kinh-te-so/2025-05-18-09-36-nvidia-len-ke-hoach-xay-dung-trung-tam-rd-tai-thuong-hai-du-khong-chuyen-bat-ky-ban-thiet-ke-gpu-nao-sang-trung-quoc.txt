@@ -1,0 +1,23 @@
+Theo Financial Times, Tổng giám đốc điều hành Jensen Huang đã trao đổi về kế hoạch này với Thị trưởng Thượng Hải, ông Cung Chính, trong cuộc gặp tại thành phố vào tháng trước. Bên cạnh đó, Nvidia đang thuê một văn phòng mới tại Thượng Hải để đáp ứng nhu cầu làm việc của đội ngũ hiện tại cũng như tạo dư địa cho mở rộng trong tương lai.
+
+Trung tâm R&D mới của Nvidia sẽ tập trung nghiên cứu các giải pháp phù hợp với nhu cầu riêng của thị trường Trung Quốc, đồng thời xử lý các yêu cầu kỹ thuật phức tạp nhằm thích ứng với những quy định hạn chế từ Mỹ.
+
+Tuy nhiên, các hoạt động thiết kế và sản xuất cốt lõi của Nvidia vẫn sẽ được thực hiện ở nước ngoài, do lo ngại về mặt pháp lý liên quan đến việc chuyển giao quyền sở hữu trí tuệ cho Trung Quốc. Nvidia khẳng định: “Chúng tôi sẽ không chuyển bất kỳ bản thiết kế GPU nào sang Trung Quốc để điều chỉnh nhằm đáp ứng các quy định kiểm soát xuất khẩu”.
+
+Đội ngũ kỹ sư tại Thượng Hải của Nvidia sẽ tham gia vào nhiều dự án nghiên cứu và phát triển mang tính toàn cầu, bao gồm kiểm tra và xác minh thiết kế chip, cải tiến các sản phẩm hiện có, cũng như nghiên cứu các lĩnh vực công nghệ mới như xe tự lái, theo một số nguồn tin.
+
+Giám đốc điều hành Jensen Huang cho biết ông mong muốn tiếp cận nguồn nhân lực chất lượng cao trong lĩnh vực trí tuệ nhân tạo tại Trung Quốc. Hiện Nvidia đang tuyển dụng nhiều vị trí làm việc tại Thượng Hải, bao gồm kỹ sư phát triển phần cứng và phần mềm cho công nghệ học sâu thế hệ mới, cũng như các chuyên gia thiết kế vi mạch (ASIC) có khả năng cạnh tranh ở tầm quốc tế.
+
+Theo Financial Times, chính quyền Thượng Hải đã thể hiện sự ủng hộ bước đầu với các kế hoạch này, trong khi Nvidia đang tích cực làm việc với Chính phủ Mỹ để xin phê duyệt. Công ty công nghệ lớn của Thung lũng Silicon hiện có khoảng 2.000 nhân viên tại thành phố này, chủ yếu làm việc trong các mảng bán hàng và hỗ trợ.
+
+Nvidia đang mở rộng hoạt động nghiên cứu tại Trung Quốc để giữ vững vị trí dẫn đầu trên thị trường nước ngoài quan trọng này. Họ cũng lo ngại các đối thủ trong nước, đặc biệt là Huawei, có thể chiếm ưu thế bằng cách xây dựng hệ sinh thái trí tuệ nhân tạo riêng.
+
+Năm 2024, doanh thu của Nvidia từ thị trường Trung Quốc chiếm khoảng 14% tổng doanh thu, tương đương 17 tỷ USD. Ông Jensen Huang ước tính trong vài năm tới thị trường này có thể đạt giá trị đến 50 tỷ USD.
+
+CEO Nvidia đã phát biểu tại một sự kiện mới đây: "Chúng tôi muốn xây dựng công nghệ AI cho toàn thế giới, với những tiêu chuẩn của Mỹ được áp dụng rộng rãi. Nếu chúng ta rút lui khỏi thị trường này, chắc chắn sẽ có người khác thay thế. Huawei, chẳng hạn, là đối thủ rất mạnh và họ sẽ nhanh chóng nắm bắt cơ hội".
+
+Mỹ mới đây đưa ra cảnh báo rằng các công ty Mỹ nếu sử dụng chip AI do Huawei sản xuất có thể sẽ bị xử phạt hình sự vì vi phạm các quy định kiểm soát xuất khẩu của Mỹ. Ngày 17/4/2024, CEO Nvidia đã đến Bắc Kinh để gặp Phó Thủ tướng Trung Quốc Hà Lập Phong, chỉ vài ngày sau khi Mỹ áp đặt các hạn chế mới đối với chip H20 của Nvidia (một loại chip được thiết kế lại để tuân thủ các quy định kiểm soát xuất khẩu của Mỹ đối với Trung Quốc).
+
+Trước tình hình này, Nvidia đang cung cấp chip L20, dòng chip có hiệu năng thấp hơn, bộ nhớ băng thông nhỏ hơn, để thay thế cho khách hàng Trung Quốc, theo một số nguồn tin. Tuy nhiên, nhiều công ty công nghệ Trung Quốc lại đang ngần ngại đặt hàng, bởi chip L20 không thể cạnh tranh về hiệu năng so với các sản phẩm chip do Trung Quốc phát triển.
+
+“Chúng tôi đang đứng trước tình thế khó khăn: chọn dùng chip Nvidia có hiệu năng thấp hơn nhưng vẫn chạy trên phần mềm Cuda quen thuộc, giúp giảm chi phí vận hành; hoặc chuyển sang dùng chip do Trung Quốc sản xuất và phải đối mặt với nhiều khó khăn trong việc thay đổi toàn bộ hệ thống”, một giám đốc điều hành cấp cao tại một công ty công nghệ hàng đầu Trung Quốc chia sẻ.

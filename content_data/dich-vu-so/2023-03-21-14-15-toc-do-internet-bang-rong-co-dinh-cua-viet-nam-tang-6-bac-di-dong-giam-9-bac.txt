@@ -1,0 +1,17 @@
+Theo bảng xếp hạng Speedtest Global Index vừa được Ookla công bố, trên toàn cầu, trung bình tốc độ băng rộng di động tải xuống (download) đạt 33,79 Mbps, tốc độ tải lên (upload) là 10,18 Mbps. Còn tốc độ băng rộng di động tải xuống (download) đạt khoảng 78,62 Mbps, và tốc độ tải lên (upload) là 34,39 Mbps.
+
+5 quốc gia dẫn đầu bảng xếp hạng về tốc độ Internet di động tháng qua là các Tiểu vương quốc Ả Rập thống nhất, Quata, Hàn Quốc, Na Uy và Đan Mạch. Còn Singapore, Trung Quốc, Monaco, Chile, các Tiểu vương quốc Ả Rập thống nhất là 5 nước dẫn đầu toàn cầu về tốc độ Internet băng rộng cố định.
+
+Đứng số 1 toàn cầu là các Tiểu vương quốc Ả Rập thống nhất có tốc độ băng rộng di động tải xuống đạt tới 179,61 Mbps, và tốc độ tải lên đạt 22,9 Mbps. Còn tốc độ băng rộng cố định tải xuống là 219,47 Mbps và tải lên là 102,02 Mbps.
+
+Còn ở Việt Nam, theo bảng xếp hạng của Ookla, tốc độ Internet tại Việt Nam đã có sự thay đổi mạnh. Cụ thể, mạng băng rộng cố định đạt tốc độ tải xuống (download) trong tháng 2/2023 là 91,6 Mbps, tăng gần 9% so với mức 84,18 Mbps của tháng trước đó, thậm chí là tốc độ cao nhất từ trước đến nay. Còn tốc độ tải lên (upload) đạt 93,38 Mbps.
+
+Trong khi đó, tốc độ băng rộng di động tải xuống (download) của Việt Nam tháng này đạt 42,67Mbps, giảm so với tháng trước (tháng 1/2023 đạt tốc độ 46,66 Mbps), còn tốc độ tải lên (upload) là 18,27Mbps.
+
+Với kết quả này đã đưa tốc độ Internet băng rộng cố định tại Việt Nam trong tháng 2 tăng 6 bậc, đứng thứ 39, còn mạng di động lại giảm 9 bậc, xếp ở vị trí thứ 52 trên toàn cầu.
+
+Những kết quả đo và nhận định này của Ookla trung khớp với kết quả đưa ra của Trung tâm Internet Việt Nam (VNNIC) qua công cụ đo i-Speed. Theo thống kê từ tháng 1 đến tháng 2/2023, tốc độ tải xuống của mạng di động ở Việt Nam giảm từ 40,82 Mbps xuống 36,45 Mbps, trong khi internet mạng bằn rộng cố định tăng từ 85,8 Mpbs lên 89,73 Mbps.
+
+Từ kết quả đo trong nước lẫn quốc tế cho thấy, tốc độ Internet cố định Việt Nam trong tháng 2/2023 đã có dấu hiệu cải thiện hơn so với tháng trước khi từ cuối năm 2022 đến nay, liên tục xảy ra sự cố đối với cả 5 tuyến cáp quang biển kết nối Internet Việt Nam đi quốc tế.
+
+Ngay sau khi sự cố cáp biển xảy ra, cơ quan quản lý đã vào cuộc chỉ đạo các nhà mạng triển khai biện pháp ứng phó kịp thời để đảm bảo nhu cầu kết nối internet của người dùng.

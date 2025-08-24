@@ -1,0 +1,17 @@
+Việc triển khai hóa đơn điện tử khởi tạo từ máy tính tiền không chỉ tăng cường tính minh bạch trong giao dịch mà còn góp phần xây dựng môi trường kinh doanh công bằng, giảm thất thu ngân sách và thúc đẩy chuyển đổi số trong lĩnh vực thuế. Tuy nhiên, quá trình triển khai Nghị định 70 đã bộc lộ nhiều khó khăn, đặc biệt đối với các hộ kinh doanh nhỏ, vốn chưa quen với công nghệ số và quy trình kê khai thuế chuẩn hóa.
+
+Tại hội thảo, VCCI cùng các doanh nghiệp đề xuất sớm ban hành hướng dẫn cho phép người bán ghi chú “Người mua không cung cấp thông tin” trong các giao dịch mà người mua không cung cấp mã số thuế hoặc số định danh cá nhân. Quy định này nhằm đảm bảo tính khả thi trong vận hành và chuẩn hóa cơ sở pháp lý giữa các khâu trong chuỗi cung ứng.
+
+Theo Nghị định 70, hóa đơn điện tử phải ghi rõ mã số thuế hoặc số định danh cá nhân của người mua, trừ trường hợp bán hàng hóa, cung cấp dịch vụ cho cá nhân không kinh doanh. Tuy nhiên, thực tế cho thấy, nhiều khách hàng không cung cấp thông tin, và hộ kinh doanh khó xác định họ là cá nhân tiêu dùng hay cá nhân kinh doanh. Do không có quyền yêu cầu bắt buộc thông tin từ người mua, các hộ kinh doanh đối mặt với nguy cơ bị coi là vi phạm quy định về hóa đơn.
+
+Vì vậy, cần xem trách nhiệm của người bán là hoàn tất khi họ đã xuất hóa đơn đầy đủ cho các giao dịch, bất kể thông tin người mua có đầy đủ hay không. Sự thiếu linh hoạt trong quy định hiện hành đang gây ách tắc dòng hàng, gián đoạn chuỗi cung ứng hợp pháp, đi ngược mục tiêu hiện đại hóa quản lý thuế.
+
+Yêu cầu hóa đơn phải có đầy đủ thông tin người mua không chỉ gây gián đoạn ở khâu xuất hóa đơn mà còn dẫn đến rủi ro trong giai đoạn hậu kiểm. Nhiều doanh nghiệp và hộ kinh doanh, dù đã lập hóa đơn đầy đủ, kê khai chính xác và nộp thuế đúng quy định, vẫn có thể bị kiểm tra nếu không truy xuất được danh tính người mua. Nếu người bán đã hoàn thành nghĩa vụ kê khai và nộp thuế, việc hậu kiểm không nên trở thành cơ sở để quy kết vi phạm, trừ khi có bằng chứng rõ ràng về hành vi cố ý sai phạm.
+
+Hội thảo cũng ghi nhận một số kiến nghị quan trọng, bao gồm: không xử phạt hành chính trong giai đoạn từ 1/6 đến 31/12/2025; không truy thu và không xử phạt đối với các giao dịch trước thời điểm hộ kinh doanh chính thức chuyển sang phương pháp kê khai.
+
+Giai đoạn này là khoảng thời gian cần thiết để các đối tượng liên quan làm quen với hệ thống mới, đồng thời giúp cơ quan quản lý hoàn thiện hướng dẫn, chuẩn hóa phần mềm và tháo gỡ các vướng mắc kỹ thuật. Việc tạo dư địa chuyển đổi không chỉ giảm thiểu rủi ro thực thi mà còn thể hiện tinh thần đồng hành cùng người nộp thuế, thúc đẩy quá trình chuyển đổi diễn ra thuận lợi và hiệu quả.
+
+Nghị định 70/2025/NĐ-CP là bước đi quan trọng nhằm minh bạch hóa giao dịch, hiện đại hóa quản lý thuế và xây dựng môi trường kinh doanh công bằng, có kỷ cương. Việc số hóa hóa đơn, chuyển đổi từ thuế khoán sang kê khai, và truy xuất giao dịch theo mã định danh là những cải cách cần thiết trong tiến trình cải tổ thể chế tài chính quốc gia.
+
+Tuy nhiên, khả năng thực thi thực tế luôn là yếu tố quyết định. Chỉ khi chính sách được thiết kế khả thi, người nộp thuế mới an tâm thực hiện, và cơ quan quản lý mới có thể triển khai hiệu quả. Đây cũng là cách để thực hiện ưu tiên của Chính phủ: tạo điều kiện thuận lợi cho sản xuất - kinh doanh, đồng thời đảm bảo hài hòa giữa mục tiêu cải cách thể chế và ổn định sinh kế người dân.

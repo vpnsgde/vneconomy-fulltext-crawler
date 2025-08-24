@@ -1,0 +1,27 @@
+Chuyên gia Viện Chiến lược chuyển đổi số đã nhấn mạnh điều này tại Diễn đàn Thúc đẩy tiến trình chuyển đổi số quốc gia với chủ đề “Kiến tạo giá trị từ Chiến lược Dữ liệu trong bối cảnh AI” diễn ra ngày 5/7/2023. Diễn đàn do Hội Truyền thông số Việt Nam, Trung tâm Thông tin Truyền thông số tổ chức.
+
+Theo ông Vũ Kiêm Văn, Phó Chủ tịch kiêm Tổng Thư ký Hội Truyền thông số Việt Nam, Chuyển đổi số là chủ trương lớn của Đảng, Nhà nước, đã được Bộ Chính trị xác định trong Nghị quyết số 52-NQ/TW ngày 27/9/2019 về một số chủ trương, chính sách chủ động tham gia cuộc cách mạng công nghiệp lần thứ tư. Đặc biệt, Nghị quyết Đại hội Đảng lần thứ XIII định hướng phát triển đất nước giai đoạn 2021- 2030, khẳng định “Đẩy mạnh Chuyển đổi số Quốc gia, phát triển kinh tế số trên nền tảng khoa học và công nghệ, đổi mới sáng tạo; nâng cao năng suất, chất lượng, hiệu quả và sức cạnh tranh của nền kinh tế, gắn kết hài hòa, hiệu quả thị trường trong nước quốc tế”.
+
+Chương trình “Thúc đẩy tiến trình chuyển đổi số quốc gia” do Hội Truyền thông số Việt Nam chủ trì, dưới sự bảo trợ của Bộ Thông tin và Truyền thông được hình thành nhằm mục tiêu giúp cộng đồng xã hội nhận thức đúng đắn về chuyển đổi số, kết nối các nguồn lực trong hệ sinh thái chuyển đổi số, góp phần hình thành hệ sinh thái số quốc gia, chia sẻ và tìm giải pháp cho những vấn đề và thách thức mà các tổ chức, doanh nghiệp đang gặp phải, thúc đẩy tiến trình chuyển đổi số hiệu quả hơn.
+
+Chia sẻ thực trạng và giải pháp thúc đẩy tiến trình chuyển đổi số quốc gia, ông Lê Nguyễn Trường Giang, Viện trưởng Viện Chiến lược Chuyển đổi số, khẳng định chuyển đổi số không phải là một phong trào, cũng không phải là một nhiệm vụ chính trị.
+
+Để tiến trình chuyển đổi số quốc gia đi nhanh, đúng hướng, góp phần giải quyết những vấn đề cần phải tập hợp các bên liên quan cùng đồng hành. Hiện nay, tiến trình chuyển đổi số đang có xu hướng nghiêng về một số đơn vị. Nếu không tạo được sự đồng thuận các cơ quan cùng làm, cùng thực hiện mà coi đó là một nhiệm vụ chính trị sẽ là một trở ngại lớn nhất của các địa phương. Việc chuyển đổi số sẽ không thể thực hiện được nếu không có sự đồng thuận, đồng lòng của các bên cùng tham gia.
+
+Bên cạnh đó, các đơn vị chưa thực sự nhận thức được chuyển đổi số như một phương tiện giúp thay đổi hoạt động hiệu quả hơn, giúp đạt được các mục tiêu chính trị, kinh tế, xã hội. Nếu coi chuyển đổi số như một công việc mới phát sinh thêm, ngoài công việc chuyên môn đang phụ trách, nằm ngoài mục tiêu kinh tế chính trị đang thực hiện sẽ dễ dẫn đến tình trạng giao cho một cán bộ, bộ phận phụ trách là xong. Tư duy này đang trở thành rào cản, trở ngại lớn khiến chuyển đổi số không thực hiện được.
+
+Tuy nhiên, theo ông Giang, chuyển đổi số không phải là công việc mới phát sinh mà bao trùm, đi sâu và gắn với tất cả các công việc hoạt động hàng ngày của tổ chức doanh nghiệp.
+
+Do các đơn vị tiếp cận chuyển đổi số từ góc độ sản phẩm dịch vụ đã dẫn đến tranh luận đúng- sai trong sử dụng dịch vụ, sản phẩm, phương pháp. Trong khi đó, thực tế, chuyển đổi số là một tiến trình mới bắt đầu. Do đó, để thúc đẩy tiến trình chuyển đổi số phải tìm ra phương pháp hợp lý, phù hợp chứ không phải tranh luận đúng- sai, ông Giang nói.
+
+Ngoài ra, theo ông Giang, “chúng ta đang khuyến khích những nền tảng mở, dữ liệu mở, khuyến khích nền tảng chia sẻ trong kinh tế, dữ liệu và những cơ hội thúc đẩy tiến trình chuyển đổi số, dữ liệu để công nghệ trí tuệ nhân tạo (AI) có thể hoạt động. Để có thể thực hiện được những mục tiêu này cần phải có dữ liệu đầy đủ, chính xác, kịp thời và có chất lượng.
+
+Tuy nhiên, để làm được điều này, cần phải có nền tảng dữ liệu mở và dữ liệu phải mở. Thách thức lớn nhất hiện nay chính là nền tảng và dữ liệu không mở. Chính vì vậy việc ứng dụng công nghệ hiện đại và chuyển đổi số sẽ tắc nghẽn.
+
+Nhấn mạnh vai trò của dữ liệu trong chuyển đổi số, ông Trần Tịnh Minh Triết, Giám đốc Giải pháp SAP Việt Nam cho rằng chuyển đổi số không phải sự lựa chọn mà là con đường bắt buộc. Để chuyển đổi số bắt buộc phải có dữ liệu. Dữ liệu trở thành một loại tư liệu sản xuất, là một loại tài sản quý, vô hình không có trong các báo cáo tài chính của doanh nghiệp.
+
+Cũng theo ông Giang, vấn đề lớn đặt ra hiện nay trong tiến trình chuyển đổi số các cấp đó là thiếu nhân lực đủ sâu về chuyển đổi số để thực hiện tư vấn, đào tạo, quản lý, thực hiện. Việt Nam đang thiếu các chuyên gia tư vấn chuyển đổi số, chuyên gia đào tạo chuyển đổi số và chuyên gia chuyên trách về chuyển đổi số. Đây là điểm trống lớn nhất trong thực hiện chuyển đổi số ở Việt Nam. Điều này dẫn đến tình trạng nhân lực chuyển đổi số kiêm nhiệm, thiếu chuyên nghiệp.
+
+Chuyển đổi số là phương tiện, mang tính tiến trình và không phải mục tiêu. Chuyển đổi số không phải là một mô hình và không có hình mẫu chung để nhân rộng áp dụng. Vì cách hiểu chuyển đổi số là mô hình đã dẫn đến tình trạng các bên chờ nhau, nhìn nhau làm để học theo. Không thấy được rõ lợi ích nên các đơn vị không làm, làm đối phó, làm phong trào. Cũng vì không hiểu rõ bản chất nên đụng đâu làm đó; không biết cách hành động đúng sẽ nghĩ gì làm nấy. Khi không hiểu được mình thực sự muốn gì sẽ nhìn xung quanh làm theo…
+
+Để giải quyết những vấn đề này, thúc đẩy tiến trình chuyển đổi số quốc gia, đại diện Viện Chuyển đổi số cho rằng các đơn vị phải biết rõ, nắm chắc, hiểu sâu, biết mình muốn gì, làm gì và làm như thế nào. Khi biết rõ sẽ thấy được lợi ích để làm, để không đối phó, không làm kiểu phong trào…

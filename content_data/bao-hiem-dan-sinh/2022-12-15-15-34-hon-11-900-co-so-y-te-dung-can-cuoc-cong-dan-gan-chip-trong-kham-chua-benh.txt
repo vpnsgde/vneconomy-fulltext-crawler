@@ -1,0 +1,13 @@
+Theo Bảo hiểm xã hội Việt Nam, thời gian qua, cơ quan này đã phối hợp với các Bộ, ngành liên quan đẩy mạnh chuyển đổi số, thực hiện Đề án 06 của Chính phủ. Trong đó có việc kết nối, chia sẻ dữ liệu giữa cơ sở dữ liệu quốc gia về dân cư với cơ sở dữ liệu quốc gia về bảo hiểm, triển khai kỹ thuật đảm bảo từng bước sử dụng thẻ căn cước công dân, ứng dụng Định danh điện tử quốc gia (VNEID) thay thế thẻ bảo hiểm y tế giấy để khám chữa bệnh bảo hiểm y tế.
+
+Bảo hiểm xã hội Việt Nam cho biết, thống kê đến hết tháng 11/2022, Hệ thống của Bảo hiểm xã hội Việt Nam đã xác thực gần 68 thông tin nhân khẩu có trong cơ sở dữ liệu quốc gia về bảo hiểm với cơ sở dữ liệu quốc gia về dân cư (nếu tính theo số người đang tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp thì số được xác thực đúng là hơn 59.078.677 người, chiếm 69% tổng số người tham gia bảo hiểm xã hội, bảo hiểm y tế).
+
+Ngành Bảo hiểm xã hội Việt Nam cũng cố gắng đến hết năm 2022 sẽ bổ sung cập nhật, xác thực số định danh cá nhân với cơ sở dữ liệu quốc gia về dân cư cho tối thiểu 90% người tham gia.
+
+Đến nay, hệ thống của Bảo hiểm xã hội Việt Nam đã cung cấp, chia sẻ trên 62.044.274 lượt bản ghi thông tin bảo hiểm xã hội, bảo hiểm y tế cho cơ sở dữ liệu quốc gia về dân cư.
+
+Toàn quốc đã có 11.945 cơ sở khám chữa bệnh triển khai khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp (đạt 91,5% tổng số cơ sở khám chữa bệnh bảo hiểm y tế trên toàn quốc), với 6.745.162 lượt tra cứu, trong đó có 4.248.553 lượt tra cứu thành công phục vụ khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp.
+
+Liên quan đến vấn đề này, Bộ Y tế trước đó cho rằng qua 9 tháng triển khai thí điểm, số lượng người dân đi khám, chữa bệnh bảo hiểm y tế được cơ sở khám, chữa bệnh tra cứu thông tin bảo hiểm y tế qua căn cước công dân gắn chíp còn rất thấp, tỷ lệ tra cứu thành công cũng rất thấp.
+
+Vì vậy, Bộ Y tế đã đề nghị các đơn vị khẩn trương rà soát tình hình triển khai thí điểm thực hiện khám, chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp hoặc qua ứng dụng VNeID của Bộ Công an theo đúng chỉ đạo của Chính phủ và của Bộ Y tế.

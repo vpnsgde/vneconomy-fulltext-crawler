@@ -1,0 +1,27 @@
+Vincent Chok, Giám đốc điều hành của First Digital, nhà phát hành stablecoin FDUSD, cho biết công ty đã thấy nhu cầu thị trường "Chúng tôi biết rằng có rất nhiều người đang xếp hàng để đăng ký giấy phép stablecoin tại Hồng Kông".
+
+Trước đó, vào tháng 3 năm nay, nhằm thúc đẩy nỗ lực đưa Hồng Kông trở thành trung tâm kinh doanh tiền điện tử, Cơ quan Tiền tệ Hồng Kông (HKMA) đã ra mắt cơ chế thử nghiệm (sandbox) stablecoin.
+
+Mới đây, Cơ quan Tiền tệ Hồng Kông đã công bố những cái tên đầu tiên được tham gia thử nghiệm sandbox. Cơ chế thử nghiệm sẽ sớm bắt đầu tuy nhiên chỉ giới hạn với một số lượng nhỏ khách hàng. Stablecoin sẽ không được cung cấp cho công chúng trong thời gian này.
+
+Darryl Chan, Phó giám đốc điều hành của Cơ quan Tiền tệ Hồng Kông, cho biết: “Hộp cát cho phép chúng tôi hiểu rõ hơn về mô hình kinh doanh của các tổ chức phát hành stablecoin cũng như phát triển khung pháp lý tốt hơn”.
+
+Kể từ khi Ủy ban Chứng khoán và Tương lai Hồng Kông (SFC) năm ngoái bắt đầu quản lý các tài sản ảo, bao gồm các loại tiền điện tử truyền thống như bitcoin, các nhà quản lý Hồng Kông đã cố gắng tìm ra ranh giới giữa việc bảo vệ lợi ích của nhà đầu tư và tạo ra một môi trường pháp lý thuận lợi vẫn hấp dẫn các doanh nghiệp.
+
+Trước đó, Hồng Kông đã thiết lập các quy định stablecoin bao gồm yêu cầu stablecoin phải được hỗ trợ hoàn toàn bằng tài sản dự trữ “tại bất kỳ thời điểm nào” và các nhà phát hành phải công bố xác nhận hàng tháng về những tài sản đó từ một kiểm toán viên độc lập. Các tổ chức phát hành ở nước ngoài muốn cung cấp stablecoin ở Hồng Kông phải thành lập một công ty con địa phương với các nhân viên quản lý chủ chốt địa phương.
+
+Một số người trong ngành trước đây bày tỏ lo ngại rằng điều này sẽ ngăn cản những người chơi toàn cầu. Tuy nhiên, HKMA đã nới lỏng một số quy định so với đề xuất trước đó. Cụ thể, họ sẽ giảm yêu cầu về vốn cổ phần đã thanh toán tối thiểu từ 2% xuống 1% giá trị của stablecoin đang lưu hành, với mức tối thiểu là 25 triệu đô Hồng Kông (khoảng 3,2 triệu USD).
+
+Mặc dù vậy, những quy định của Hồng Kông vẫn đang nghiêm ngặt hơn so với Singapore. Cơ quan tiền tệ Singapore yêu cầu các nhà phát hành stablecoin phải có vốn cơ bản là 1 triệu đô la Singapore (745.446 USD) hoặc 50% chi phí hoạt động hàng năm.
+
+Ernest Ho, người đứng đầu bộ phận tài chính kỹ thuật số của HKMA, cho biết Hồng Kông là một trong những nơi đầu tiên quản lý các tổ chức phát hành stablecoin, cùng với EU và Nhật Bản cũng đã áp dụng khung pháp lý. Singapore và Anh đang trong quá trình chuẩn bị quy định, trong khi Mỹ đến nay chưa có quy định nào trong lĩnh vực này.
+
+Andrew Fei, chuyên gia đầu tư tại King & Wood Mallesons ở Hồng Kông, cho biết: “HKMA cung cấp nhiều hướng dẫn mang tính quy định hơn là đưa ra các hướng dẫn. Chẳng hạn, các tổ chức phát hành nên giữ tài sản dự trữ của mình tại các ngân hàng được cấp phép ở Hồng Kông”.
+
+Bên cạnh đó, Jason Jiang, nhà nghiên cứu cấp cao tại OKG Research, cho biết một số công ty sẽ phải đối mặt với những thách thức trong việc tuân thủ các quy tắc vì họ không đủ tài chính để trang trải chi phí pháp lý.
+
+“Tài chính sẽ là vấn đề đối với nhiều tổ chức vừa và nhỏ. Vì vậy, có thể thấy mặc dù đã thu hút được sự chú ý lớn và nhiều công ty tham gia vào cuộc tham vấn, nhưng cuối cùng sẽ không có nhiều công ty nộp đơn xin giấy phép và phát hành stablecoin”, ông Jason Jiang cho biết.
+
+Theo HKMA, một dự luật cuối cùng về quản lý stablecoin sẽ được đệ trình lên Hội đồng Lập pháp vào cuối năm nay. Các cơ quan quản lý cũng có kế hoạch đưa ra các hướng dẫn riêng để giải quyết các rủi ro rửa tiền liên quan đến stablecoin.
+
+Sau khi các quy tắc được thiết lập, các nhà phát hành stablecoin được phê duyệt có thể bán mã thông báo trên nền tảng tài sản ảo được cấp phép SFC (giấy phép quy định được cấp bởi Ủy ban Chứng khoán và Hợp đồng Tương lai Hồng Kông). Trong khi đó, Các tổ chức phát hành không được HKMA cấp phép vẫn có thể bán cho các nhà đầu tư chuyên nghiệp với danh mục đầu tư ít nhất là 8 đô la Hồng Kông.

@@ -1,0 +1,59 @@
+Thời gian qua, tình hình tội phạm lừa đảo chiếm đoạt tài sản qua mạng có xu hướng gia tăng, có tính chất xuyên quốc gia, gây thiệt hại lớn. Các ngân hàng liên tục đưa ra cảnh báo về các hình thức, chiêu thức lừa đảo chiếm đoạt tiền của người tiêu dùng hay các cuộc tấn công mạng có chủ đích nhằm đánh cắp thông tin cá nhân, thông tin về thẻ tín dụng, tài khoản ngân hàng của các khách hàng đã được ghi nhận tại một số ngân hàng trong nước.
+
+Trong một báo cáo vừa công bố mới đây, Trung tâm Ứng cứu khẩn cấp không gian mạng Việt Nam (VNCERT/CC) thuộc Cục An toàn thông tin (Bộ Thông tin và Truyền thông), đã lưu ý rằng trong quá trình theo dõi, tiếp nhận phản ánh tin nhắn rác, thư điện tử rác, cuộc gọi rác, cơ quan này ghi nhận nhiều phản ánh liên quan tới việc giả mạo hệ thống các ngân hàng đề nghị hỗ trợ người dùng rút tiền mặt qua thẻ tín dụng với lãi suất 0% hoặc lãi suất thấp.
+
+Vậythực trạng vấn đề lừa đảo mạo danh các tổ chức tài chính, ngân hàng hiện nayđã đến mức báo động?Có thể nhận diện các phương thức, cách thức và các xu hướng lừa đảo mới?
+
+Đâulà những hệ lụy, thiệt hại của vấn nạn lừa đảo mạo danh tổ chức tài chính, ngân hàngảnh hưởngtới người tiêu dùng và doanh nghiệp?Giải pháp nàođể hạn chế tối đa vấn nạn lừa đảo trong lĩnh vực tài chính, ngân hàng?
+
+Trong số báo ra sáng mai, thứ Hai, ngày 1/8/2022,Tạp chí Kinh tế Việt Namsẽ dành trọn chuyên mụcTiêu điểmcho chủ đề:"Chặn vấn nạn lừa đảo mạo danh các tổ chức tài chính, ngân hàng"để giải đáp phần nào các câu hỏi trên.
+
+Bao gồm các bài viết:
+
+-Cuộc chiến không có điểm dừng.Các vụ việc lừa đảo, mạo danh các tổ chức tài chính ngân hàng trên môi trường mạng có chiều hướng gia tăng mạnh trong thời gian qua khi nhu cầu sử dụng các dịch vụ của người dùng ngày càng nhiều. Do đó, chống lừa đảo trên môi trường mạng là cuộc chiến liên tục và sẽ không có điểm dừng.(Đỗ Phong).
+
+-Thiệt hại lớn từ lừa đảo mạo danhtổ chức tài chính, ngân hàng.Tội phạm mạng với thủ đoạn mạo danh các tổ chức tài chính, ngân hàng để lừa đảo nhằm chiếm đoạt tài sản, gây ra những thiệt hại và hệ lụy không nhỏ cho người tiêu dùng, làm ảnh hưởng đến thương hiệu của nhiều tổ chức tài chính, ngân hàng.(Hồng Vinh).
+
+-Ngăn chặn tội phạm công nghệtrong lĩnh vực tài chính ngân hàng.Tình hình tội phạm lừa đảo, mạo danh các tổ chức tài chính, ngân hàng để tấn công lấy cắp thông tin tài khoản, chiếm đoạt tài sản người dùng đang có xu hướng ngày càng gia tăng, diễn biến phức tạp với nhiều thủ đoạn tinh vi. Vậy giải pháp nào để ngăn chặn, hạn chế tối đa vấn nạn lừa đảo trong lĩnh vực tài chính ngân hàng, đảm bảo an toàn cho người dùng cũng như bảo vệ uy tín, thương hiệu của các tổ chức doanh nghiệp trong bối cảnh chuyển đổi số, thúc đẩy phát triển các dịch vụ, thanh toán online?(Đức Phan - Hồng Vinh - Hải Linh).
+
+Và nhiều chuyên mục hấp dẫn khác:
+
+-Quốc tế vẫn lạc quan khi dự báo về kinh tế Việt Nam.Điều này dường như cũng tương đồng với số liệu từ Tổng cục Thống kê công bố cuối tháng 6 với tăng trưởng GDP VIệt Nam trong quý 2/2022 chạm mốc 7,72% so với cùng kỳ năm ngoái và dễ dàng vượt xa những kỳ vọng trước đó của thị trường. Đây cũng là mức tăng trưởng GDP theo quý cao nhất mà Việt Nam từng đạt được kể từ năm 2011.(Vũ Phong).
+
+-Công nghiệp phục hồi: Tiếp tục gỡ khó, tiếp sức cho doanh nghiệp.Sản xuất công nghiệp tháng 7/2022 tiếp tục phục hồi do các doanh nghiệp nỗ lực mở rộng sản xuất bù lại khoảng thời gian 2 năm bị ảnh hưởng bởi dịch Covid-19. Trong đó, ngành chế biến, chế tạo tiếp tục đóng vai trò động lực dẫn dắt tăng trưởng của nền kinh tế, đồng thời cũng là ngành dẫn đầu về thu hút vốn đầu tư trực tiếp nước ngoài (FDI).(Huyền Vy).
+
+-Xuất khẩu tiếp tục đối mặt nhiều thách thức.Trong 7 tháng năm 2022, xuất khẩu hàng hóa của Việt Nam đạt 216,35 tỷ USD, tăng 16,1% so với cùng kỳ năm trước. Đây là kết quả tích cực trong bối cảnh hoạt động thương mại toàn cầu giảm tốc. Dự báo, trong những tháng cuối năm, việc duy trì tốc độ tăng trưởng xuất khẩu sẽ gặp không ít thách thức khi nhu cầu từ các thị trường nhập khẩu đang chịu ảnh hưởng do lạm phát và suy thoái.(Mạnh Đức).
+
+-Cơ hội “hút” nhà đầu tư lớn.Triển vọng tăng trưởng cùng môi trường đầu tư thân thiện tiếp tục là những “lực hút” của Việt Nam đối với nhà đầu tư nước ngoài.(Anh Nhi).
+
+-Giá giao dịch liên kết: Vấn đề “nóng” cần đặc biệt lưu ý.Thanh kiểm tra về giá giao dịch liên kết đang trở thành một chủ đề được các cơ quan thuế chú trọng, đặc biệt trong bối cảnh nền kinh tế đang vận hành bình thường mới sau đại dịch. Các doanh nghiệp có vốn đầu tư trực tiếp nước ngoài (FDI), các doanh nghiệp đại chúng tại Việt Nam cần có những lưu ý gì nhằm giảm thiểu rủi ro thuế liên quan đến vấn đề giá giao dịch liên kết, đặc biệt trong bối cảnh năng lực thanh tra, kiểm tra của cơ quan thuế ngày càng được cải thiện. P/v ông Phạm Ngọc Long, Phó Tổng giám đốc, Dịch vụ Thuế về Giá giao dịch liên kết, Công ty Cổ phần Tư vấn EY Việt Nam.(Vy Vy).
+
+-CPI tháng 7 tăng nhẹ nhưng áp lực lạm phát vẫn lớn.Chỉ số giá tiêu dùng tháng 7/2022 chỉ tăng 0,4% so với tháng trước, bình quân 7 tháng tăng 2,54%, nhưng áp lực lạm phát còn lớn. Do đó, việc tiếp tục kiểm soát lạm phát, ổn định vĩ mô, thúc đẩy phục hồi tăng trưởng kinh tế là nhiệm vụ trọng tâm từ nay đến cuối năm của các bộ, ngành.(Song Hà).
+
+-Ngành giao thông vận tải trước áp lực giải ngân gần 31.000 tỷ đồng.Ước tính đến hết tháng 7, Bộ Giao thông vận tải giải ngân được 19.664 tỷ đồng, đạt 45,5% kế hoạch giao chi tiết và đạt 39% kế hoạch Thủ tướng giao. Dù tỷ lệ giải ngân cao hơn so với bình quân chung cả nước (34,5%), nhưng áp lực giải ngân gần 31.000 tỷ đồng ngày càng nặng nề khi loạt hạng mục trọng điểm chậm tiến độ do ảnh hưởng của thời tiết và biến động giá vật liệu.(Anh Tú).
+
+-7 điểm mới trong Dự thảo Luật Đất đai (sửa đổi).Theo kế hoạch, dự án Luật Đất đai (sửa đổi) sẽ được trình Quốc hội cho ý kiến tại kỳ họp diễn ra vào tháng 10/2022 và tháng 5/2023; dự kiến thông qua tại kỳ họp tháng 10/2023.(Nhĩ Anh).
+
+-Chặn “đục nước béo… cò đất”Hải Phòng thanh lọc thị trường.Trong hơn hai năm cả nước “gồng mình” chống chọi với đại dịch Covid -19, Hải Phòng vẫn có mức tăng trưởng kinh tế, phát triển hạ tầng giao thông, đô thị xếp trong top đầu Việt Nam. Đó là thực tế rất thuận lợi giúp thị trường bất động sản Hải Phòng phát triển. Tuy nhiên, bất động sản Hải Phòng cũng bộc lộ những hệ lụy rất tiêu cực, cần sự kiểm soát chặt của các cơ quan quản lý từ Trung ương tới địa phương...(Trương Quốc Cường).
+
+-Phát triển kênh bancassurance: Làm gì để lượng đi cùng chất?Mặc dù sinh sau đẻ muộn, nhưng đến nay phân phối bảo hiểm qua ngân hàng (bancassurance) đã phát triển nhanh chóng và được các doanh nghiệp bảo hiểm, nhất là bảo hiểm nhân thọ, xác định là một trong hai kênh phân phối chủ lực cùng với kênh đại lý bảo hiểm.(Hoàng Lan).
+
+-Biến động thị trường nhà ở khi ngân hàng siết tín dụng.Vấn đề dòng tiền để phát triển dự án bất động sản đang là mối quan tâm lớn không chỉ của doanh nghiệp mà của cả giới đầu tư và người có nhu cầu thực. Trước tình hình các ngân hàng kiểm soát chặt vốn vay cho lĩnh vực bất động sản, nhiều người băn khoăn: nguồn cung và giá nhà ở sẽ ra sao trong thời gian tới?(Nam Huyền).
+
+-Dòng vốn đầu tư chảy vào thị trường Crypto.Trong 6 tháng đầu năm 2022, đã có 1.120 thương vụ gọi vốn được công bố, với hơn 28,8 tỷ USD tổng  giá trị các khoản đầu tư vào thị trường tiền điện tử Crypto (tiền kỹ thuật số) trên toàn cầu. Với những xu thế hiện nay, thị trường gọi vốn Crypto trong thời gian tới sẽ diễn biến theo chiều hướng nào? Đâu sẽ là những lĩnh vực sẽ hút dòng tiền từ các quỹ, nhà đầu tư?(Nhĩ Anh).
+
+-Tín hiệu khả quan sau động thái tăng lãi suất của Fed.Sau động thái nâng lãi suất ngày 27/7 của Cục Dự trữ Liên bang Mỹ (Fed), giới đầu tư dường như trở nên an tâm hơn về các thị trường mới nổi ở khu vực châu Á. Những phản ứng ban đầu cho thấy nhà đầu tư đặt cược rằng Fed có thể kiểm soát lạm phát mà không gây ra những cuộc tháo chạy của dòng vốn khỏi khu vực này như trong các chu kỳ thắt chặt trước đây.(An Huy).
+
+-Làm chủ trước các rào cản khi xuất khẩu sang thị trường CPTPP.Xuất khẩu sang các thị trường CPTPP tiếp tục tăng khi doanh nghiệp dần thích nghi với hiệp định, biết cách tận dụng ưu đãi thuế quan. Song, để “bội thu” từ các cơ hội hiệp định mang lại, doanh nghiệp cần phải nâng cao năng lực cạnh tranh, vượt qua các rào cản…(Vũ Khuê).
+
+-Khơi thông vốn tín dụng cho hợp tác xã nông nghiệp.Tiếp cận nguồn vốn tín dụng để phục vụ chuỗi liên kết sản xuất, chế biến, tiêu thụ nông sản của các hợp tác xã vẫn còn nhiều “chông gai”. Điều này khiến các hợp tác xã nói chung và hợp tác xã trong lĩnh vực nông nghiệp nói riêng chưa phát triển được như kỳ vọng.(Chu Khôi).
+
+-Giải “nỗi oan” chậm tiến độNhà máy điện rác lớn nhất cả nước. Sau nhiều năm loay hoay với vấn nạn ùn ứ, quá tải rác thải năm 2017, Hà Nội quyết định cấp phép chủ trương xây dựng một dự án điện rác lớn thứ 2 thế giới tại Sóc Sơn. Dự kiến khi hoàn thành, nhà máy điện rác này sẽ xử lý được khoảng 70% số rác thải sinh hoạt tại Thủ đô. Đến ngày 25/7 vừa qua, nhà máy điện rác Sóc Sơn do chủ đầu tư Công ty Cổ phần Năng lượng môi trường Thiên Ý Hà Nội đã được hòa lưới điện quốc gia với công suất phát điện đốt rác là 15 MW ở giai đoạn 1. P/v ông Lý Ái Quân, Tổng giám đốc Công ty cổ phần Năng lượng môi trường Thiên Ý Hà Nội.(Hoàng Việt).
+
+-“Kháng sinh” giúp doanh nghiệp nhỏ và vừa hồi phục.Giá cả hàng hóa leo thang, chuỗi cung ứng đứng trước rủi ro bị đứt gãy, biến động logistics khó lường… đang tạo áp lực lên các doanh nghiệp, nhất là các doanh nghiệp nhỏ và vừa. Trong bối cảnh đó, doanh nghiệp cần những liều “kháng sinh” trợ lực để phục hồi sau giai đoạn bị “bào mòn” vì Covid-19…(Anh Nhi).
+
+-Bức tranh tuyển dụng nhân lực cuối năm.Tái khởi động kinh doanh, sản xuất đẩy mạnh tăng trưởng sau dịch Covid-19, nhiều ngành nghề gia tăng nhu cầu nhân lực đáng kể trong quý 2/2022 và dự báo sẽ tiếp tục tăng trong những tháng cuối năm nay.(Dũng Hiếu).
+
+-Lao động xoay xở kiếm việc: Doanh nghiệp chật vật tuyển dụng.Có kinh nghiệm, ngoại ngữ, nhưng nhiều người lao động đi xuất khẩu từ Hàn Quốc, Nhật Bản về nước vẫn phải xoay xở để tìm được công việc với mức lương tương xứng, trong khi nhiều doanh nghiệp vẫn thiếu lao động.(Thu Hằng).
+
+-Xe đạp “quay vòng” thành thú chơi xa xỉ.Trong khi giá nhiên liệu vẫn tăng ở mức cao, lạm phát khiến chi phí sinh hoạt tăng chóng mặt, nhiều người ở khắp nơi trên thế giới đã dần quay lại với việc di chuyển bằng xe đạp thay vì tốn tiền xăng để đi lại trong thành phố bằng xe hơi…(Tường Bách).

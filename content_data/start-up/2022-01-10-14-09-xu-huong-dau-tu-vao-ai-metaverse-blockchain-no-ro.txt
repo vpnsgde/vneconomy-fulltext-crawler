@@ -1,0 +1,39 @@
+Tại Diễn đàn Tech Summit 2022 vừa được tổ chức ở TP.HCM, nhiều diễn giả và đại diện các doanh nghiệp công nghệ đã phân tích những cơ hội và thách thức mà giới trẻ sẽ đối diện để nắm bắt xu hướng blockchain, web 3.0 và metaverse.
+
+Thời gian qua, những công nghệ này bắt đầu có sự phát triển mạnh mẽ. Trong đó, web 3.0 hứa hẹn trở thành nơi lưu trữ dữ liệu chỉ thuộc về chính người dùng, tạo ra hệ thống xử lý dữ liệu phi tập trung khổng lồ.
+
+
+
+Nhiều dự báo, AI và tự động hóa dự kiến có quy mô thị trường khoảng 15.700 tỷ USD vào năm 2030. Toàn thế giới có khoảng 1.350 tỷ USD dành cho nghiên cứu, phát triển các công nghệ ảo, biến metaverse thành cuộc đua mới giữa các "ông lớn" Facebook, Apple, Google, Microsoft... 2022 hứa hẹn là năm bùng nổ của DeFi (tài chính phi tập trung) với khối lượng giao dịch NFT (đơn vị dữ liệu trên sổ cái kỹ thuật số blockchain) tăng hơn 700%, chạm mốc 10,7 tỷ USD chỉ trong quý III/2021.
+
+Ông Nguyễn Văn Khoa, Chủ tịch Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin Việt Nam (VINASA) khẳng định: kỷ nguyên phát triển tiếp theo của Internet trên phạm vi toàn cầu sẽ bao trùm bởi bốn xu hướng: metaverse, web3.0, AI và blockchain. Các doanh nghiệp công nghệ có thể cùng nhau đưa Việt Nam thành cường quốc về metaverse, blockchain, web3.0.
+
+Tại Việt Nam, nhiều doanh nghiệp đang đổ nhiều vốn và nguồn lực vào lĩnh vực này để tạo ra nền tảng, hệ sinh thái giải pháp và ứng dụng. Tuy nhiên, theo ông Khoa, doanh nghiệp công nghệ tại Việt Nam đang thiếu sự gắn kết.
+
+"Chúng ta có thể làm những cái nhỏ và vừa rất nhanh, nhưng vấn đề nảy sinh khi mở rộng quy mô. Chúng tôi mong muốn các doanh nghiệp công nghệ của Việt Nam cùng nhau hợp tác, sáng tạo và bứt phá trong kỷ nguyên Internet sắp tới, để cùng đưa Việt Nam thành cường quốc về AI, metaverse, blockchain, web 3.0." Ông Khoa nói.
+
+Ông Trí Phạm, Nhà sáng lập kiêm CEO Whydah, nhấn mạnh metaverse đang thực sự là cơn sốt mới khi chỉ trong hơn một năm, tính từ đầu 2020 đến giữa 2021, số người tham gia siêu vũ trụ ảo đã tăng gấp 10 lần.
+
+Còn ông Trần Dinh, CEO AlphaTrue, đánh giá web 3.0 là xu thế tất yếu, với ba viễn cảnh chính: mã hóa dữ liệu và phi tập trung; blockchain; quyền lực về tay người dùng. Khi web 3.0 lên ngôi, người dùng có thể nắm giữ quyền lực và tự bảo vệ tất cả thông tin cá nhân, khả năng bảo mật khỏi sự lợi dụng từ các bên thứ ba.
+
+Với mong muốn đồng hành cùng các doanh nghiệp Việt trong kỷ nguyên mới của Internet, VINASA đã và sẽ tiếp tục thúc đẩy hình thành hệ sinh thái cho từng xu hướng công nghệ. Đồng thời, Hiệp hội sẽ hỗ trợ toàn diện từ tư vấn chính sách, phát triển thị trường, nghiên cứu công nghệ, truyền thông, phát triển nguồn lực và khởi nghiệp.
+
+Năm 2021 có thể được xem là một năm thảm hoạ với nhiều ngành kinh tế khác nhau, nhưng lại là điểm sáng, là sự bùng nổ với thế giới blockchain. Nhiều dự án tiền điện tử, những khái niệm mới như DeFi (ứng dụng tài chính phi tập chung), GameFi và gần nhất là NFT-Metaverse…
+
+
+
+Hiện tại, người Việt tiếp tục hưởng ứng blockchain với các hoạt động cộng đồng trên mạng xã hội. 2021 là năm bùng nổ về cả số dự án game và số lượng người chơi game blockchain. Trong năm 2021 này, số lượng tiền kỹ thuật số (crypto) liên quan đến game tăng gấp 25 lần.
+
+Ông Nguyễn Thành Trung, nhà sáng lập Axie Infinity cho rằng game là cách tiếp cận nhanh nhất. Trong 2 năm vừa qua, thế giới công nghệ và blockchain đã phát triển rất nhanh và bằng 5 năm trước đó, thu hút sự quan tâm của mọi người. Trên lý thuyết có thể nghĩ ra rất nhiều ứng dụng blockchain nhưng thực tế thì không nhiều. Thực tế, ứng dụng blockchain đưa vào cuộc sống mới được khoảng 4 năm. Dễ dàng nhận thấy, ứng dụng blockchain trong quản lý tài chính, thị trường địa ốc đã tạo ra một thị trường mua bán công khai, minh bạch.
+
+"Chúng tôi thu hút sự chú ý của mọi người với blockchain bằng game. Facebook ban đầu cũng thu hút sự chú ý của mọi người bằng game. Đằng sau câu chuyện game, chúng tôi phải bỏ rất nhiều công sức thực, hoàn toàn không phải là ảo", ông Trung nói.
+
+Theo ông Trung, Việt Nam có nhiều lợi thế trong giai đoạn công nghệ mới, như nguồn nhân lực nhạy bén, nắm bắt tốt cơ hội thị trường; xuất phát điểm không có sự chênh lệch quá nhiều với các nước; các dự án khởi nghiệp mang tầm thế giới, thu hút đầu tư. Tuy nhiên để tận dụng tối đa lợi thế đang có, Việt Nam cần đẩy mạnh phát triển cơ sở hạ tầng công nghệ, ưu tiên lĩnh vực đang có lợi thế so sánh, thu hút thêm nhân lực trình độ cao ở nước ngoài, đồng thời hoàn thiện khung pháp lý cho blockchain và các ứng dụng liên quan như tiền điện tử, trò chơi điện tử.
+
+Để thử sức với blockchain, ông Trần Dinh, CEO AlphaTrue cho rằng: Các startup cần ở đủ lâu trong thị trường này mới hy vọng giúp doanh nghiệp startup của mình sống sót. Vì sự biến động của thị trường, startup dễ rơi vào những thời điểm "thăng hoa" hoặc rơi xuống "địa ngục" chỉ trong tích tắc.
+
+"Ở thời điểm này, blockchain đã thành ngành công nghiệp với nhiều mảng nhỏ mà các bạn trẻ có thể tiếp cận từ nhiều ngành nghề khác nhau. Bạn có thể hoàn toàn làm marketing, coding, chăm sóc khách hàng... trong một doanh nghiệp blockchain miễn bạn có nhu cầu và định hướng, việc tìm hiểu về blockchain không quá khó", ông Dinh chia sẻ.
+
+
+
+Ông Trí Phạm, Nhà sáng lập kiêm CEO Whydah.

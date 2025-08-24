@@ -1,0 +1,27 @@
+Chia sẻ tại Hội nghị NextGen Connectivity Summit 2025 diễn ra từ ngày 15-17/4 tại Hà Nội, ông Macky Zhang, Tổng Giám đốc Huawei Việt Nam, cho biết hiện nay tốc độ phát triển nhanh chóng của 5G đã tạo ra nền tảng mới cho sự kết nối toàn diện giữa con người, thiết bị và dữ liệu. Các ứng dụng công nghiệp đang trở nên phức tạp hơn và yêu cầu cao hơn về hiệu năng, độ trễ, độ tin cậy và bảo mật.
+
+Từ thực tiễn triển khai của doanh nghiệp, theo ông Macky Zhang, công nghệ mạng 5G-A (5G Advanced) sẵn sàng làm bệ phóng cho bước nhảy vọt này và 5GtoB (5G to Business) dành riêng cho doanh nghiệp đang trở thành hướng đi chiến lược của các nhà mạng, đặc biệt là tại các thị trường mới nổi như Việt Nam.
+
+Cụ thể, 5G-A và 5GtoB sẽ tạo cú hích cho chuyển đổi số trong các ngành công nghiệp. Với công nghệ mạng vượt trội và hệ sinh thái sẵn sàng, 5G-A sẽ trở thành nền tảng chính cho các ứng dụng AI, IoT, công nghiệp thông minh trong 10 năm tới. Trong khi đó, 5GtoB giúp các nhà mạng mở rộng thị trường kinh doanh B2B; giúp doanh nghiệp tăng năng suất, giảm chi phí và tạo ra mô hình kinh doanh mới.
+
+“Việt Nam đang sở hữu vị thế thuận lợi để tiến nhanh vào giai đoạn triển khai 5G-A và 5GtoB với hạ tầng công nghệ đổi mới, vốn đầu tư FDI mạnh mẽ từ 114 quốc gia với tỉ trọng 66.9% đổ vào lĩnh vực công nghiệp và nhiều ngành công nghiệp nội địa cần chuyển đổi số cấp bách”, lãnh đạo Huawei Việt Nam nhấn mạnh.
+
+Theo thống kê, trên thế giới đã có 64% nhà mạng triển khai mạng riêng 5G (Private 5G). Doanh thu mạng riêng tăng nhanh chóng, đặc biệt là tại Trung Quốc với trên 8 tỷ USD nhờ 5GtoB. Các lĩnh vực ứng dụng 5GtoB năng động nhất hiện nay bao gồm: sản xuất thông minh, logistics, giao thông, dầu khí, y tế, thành phố thông minh.
+
+Theo lãnh đạo Huawei Việt Nam, tập đoàn này đã hỗ trợ 55 nhà mạng triển khai mạng riêng 5G cho các doanh nghiệp, với hơn 470.000 đường truyền 5GtoB toàn cầu vào năm 2024. Trong vòng 3 năm (2021-2024), quy mô mạng riêng 5G đã tăng trưởng gấp hơn 4 lần - đạt mức 297 mạng 5GtoB.
+
+5G-A mang đến hiệu suất vượt trội về tốc độ tải xuống 10Gbps và tải lên 1Gbps, độ trễ cực thấp dưới 4ms với độ tin cậy cực cao, cùng khả năng định vị chính xác đến từng cm thích hợp cho vận hành robot hay xe tự lái, khả năng kết nối lên đến 100 tỷ thiết bị IoT phục vụ giám sát và sản xuất thông minh, khả năng kết nối AI để đáp ứng nhu cầu tương tác người-máy trong lĩnh vực robot dịch vụ và trợ lý ảo,…
+
+Về chiến lược tăng doanh thu cho các nhà mạng, ông Macky Zhang cho rằng gồm dịch vụ cho thuê mạng riêng (như mạng riêng ảo trên nền tảng mạng công cộng 5G của thành phố thông minh Pattaya - Thái Lan), dịch vụ hợp tác chia sẻ doanh thu giữa nhà mạng và đối tác ngành.
+
+Các mô hình dịch vụ được tùy biến linh hoạt theo quy mô doanh nghiệp vừa và nhỏ, cho đến lớn và lâu đời, ví dụ như mạng riêng sẽ phân loại gồm: đường truyền mạng riêng giữa các thiết bị, mạng riêng cho khuôn viên trong nhà (nhà máy, hầm mỏ, sân bay, cảng biển…), mạng riêng phạm vi rộng ngoài trời (giao thông, trường học, bệnh viện, thành phố…). Ngoài ra, các nhà mạng cũng có thể sử dụng công cụ để định giá dịch vụ, không chỉ dựa theo lưu lượng truy cập mà còn theo trải nghiệm và giá trị ứng dụng.
+
+5G-A và 5GtoB đã được triển khai thành công cho nhiều lĩnh vực tại nhiều quốc gia. Tại Trung Quốc, mạng riêng 5GtoB đã giúp trung tâm vận chuyển Cainiao tăng 50% năng suất xử lý đơn hàng, giảm 90% sai sót kiểm kê nhờ camera AI và cảm biến đồng bộ theo thời gian thực, hiệu suất kho vận tăng 2 lần so với mạng Wi-Fi công nghiệp trước đây.
+
+HongKong - thành phố 5.5G đầu tiên được Huawei triển khai, đạt tốc độ 10Gbps với độ trễ dưới 10ms, phủ sóng rộng khắp từ tàu metro đến bệnh viện, giảm 30% chi phí truyền thông vệ tinh nhờ dùng mmWave cho tuyến biển đảo, tăng khả năng phối hợp y tế cho trung tâm cấp cứu khẩn cấp.
+
+Tại Thái Lan, tập đoàn viễn thông của Trung Quốc cũng phối hợp chính quyền thành phố Pattaya triển khai 60 cột đèn thông minh với kết nối 5G tích hợp camera, cảm biến và phát Wi-Fi công cộng, giúp tăng 30% hiệu quả quản lý giao thông, cảnh báo môi trường sớm hơn 40% và tăng 25% lượng khách du lịch. Nhà máy thông minh dựa trên Private 5G của Midea cũng tăng 35% hiệu suất vận hành tổng thể, giảm 22% chi phí nhân công nhờ tự động hóa, tăng 60% hiệu quả kiểm định chất lượng với camera AI, độ trễ chỉ 10-20ms giúp robot AGV di chuyển chính xác hơn.
+
+Tổng Giám đốc Huawei Việt Nam cũng cho biết Tập đoàn còn triển khai mạng riêng 5G trong mỏ Vale (Brazil) để điều khiển từ xa xe tải, máy xúc, cảm biến giám sát môi trường; qua đó giảm được 15% chi phí nhân sự vận hành, tăng 12% sản lượng khai thác và tăng mức độ an toàn lao động. Hơn 10 thành phố trên thế giới cũng đã ứng dụng giải pháp mạng riêng 5G của Huawei cho hệ thống tàu metro.
+
+“Tại Việt Nam, các nhà mạng có thể tạo ra các giá trị mới từ doanh thu mảng B2B, tối ưu hoá sử dụng hạ tầng sẵn có và mở rộng hệ sinh thái dịch vụ công nghệ khác biệt. Ngoài ra cũng có thể triển khai các mô hình triển khai trọn gói từ thiết bị đầu cuối (CPE), hạ tầng mạng (AAU, MEC), đến phần mềm và ứng dụng (camera AI, IoT, ERP…), bên cạnh là các mô hình dịch vụ linh hoạt, phù hợp với doanh nghiệp vừa và nhỏ”, vị Tổng Giám đốc Huawei Việt Nam khuyến nghị.

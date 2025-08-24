@@ -1,0 +1,31 @@
+Mới đây, Apple cho biết họ sẽ cho phép bên thứ 3 sử dụng chip thanh toán trên iPhone để xử lý các giao dịch. Như vậy các ngân hàng và dịch vụ khác sẽ cạnh tranh tốt hơn với Apple Pay.
+
+Trước đây, Apple giới hạn quyền truy cập vào chip NFC, chỉ cho phép ứng dụng của họ, cụ thể là Apple Pay, sử dụng cho thanh toán không tiếp xúc. Động thái mới sẽ đe dọa doanh thu từ giao dịch Apple Pay - công ty tính phí tất cả thanh toán thông qua iPhone.
+
+Dẫn báo cáo của Cục Bảo vệ tài chính người tiêu dùng Mỹ, ước tính các giao dịch qua Apple Pay trong nước đạt 200 tỷ USD năm 2022. Dù không tiết lộ số tiền kiếm được từ các dịch vụ tài chính, doanh thu từ bộ phận dịch vụ của Apple – bao gồm Apple Pay – ghi nhận tăng trưởng hai chữ số và đạt mức cao nhất mọi thời đại trong quý 2/2024.
+
+Bởi vậy, nhà sản xuất iPhone vào ngày 14/8 đã thông báo rằng họ sẽ sớm cho phép các nhà phát triển ứng dụng ở Úc, Brazil, Canada, Nhật Bản, New Zealand, Vương quốc Anh và Mỹ sử dụng chip NFC (kết nối trường gần, là một giao thức kết nối giữa hai thiết bị điện tử ở khoảng cách gần) và một số tính năng bảo mật nhất định để thao tác tại các cổng thanh toán.
+
+Điều này diễn ra sau động thái cho phép cung cấp quyền truy cập NFC ở Châu u trước đó. Chính vì vậy người tiêu dùng ở nhiều thị trường trong tương lai có thể “chạm” vào iPhone của họ tại quầy thanh toán, quẹt thẻ lên tàu điện ngầm bằng các ví khác ngoài Apple Pay.
+
+Apple cũng cho biết thêm họ sẽ cho phép nhà phát triển bên thứ ba sử dụng chip thanh toán trên iPhone từ bản cập nhật iOS 18.1.
+
+Thay đổi giúp các nhà cung cấp bên ngoài dùng chip NFC để thanh toán không chạm tại cửa hàng, trả tiền vé giao thông, mở khóa nhà, khách sạn, thẻ tích điểm… Cho đến nay, ứng dụng bên thứ ba chỉ dùng NFC trên iPhone để đọc các thẻ. Người dùng cũng được thiết lập ứng dụng thanh toán bên thứ ba làm mặc định thay cho Apple Pay.
+
+Do Apple trước đây không cho phép điều này nên nhiều ví kỹ thuật số đã chuyển sang sử dụng những phương thức khác như mã QR hoặc các giải pháp khác để trở thành công cụ thanh toán tại cửa hàng.
+
+Giám đốc điều hành PayPal Alex Chriss cho biết: “Với động thái của Apple, đây rõ ràng đã trở thành cơ hội rất dễ dàng để chúng tôi cung cấp ví trong cả hệ điều hành Android hoặc iPhone và chúng tôi sẽ sẵn sàng”.
+
+Đầu tiên, việc sử dụng thêm một ứng dụng nhấn để thanh toán trên iPhone sẽ khiến khách hàng cảm thấy khó khăn thay vì đó là tùy chọn mặc định chạm để thanh toán trên điện thoại iPhone.
+
+Apple cho biết họ sẽ yêu cầu các nhà phát triển phải có thỏa thuận thương mại với Apple và trả các khoản phí liên quan. Mặc dù Apple Pay thường tính phí cho các nhà phát hành thẻ tín dụng khi thẻ của họ được sử dụng trong ví, nhưng việc khách hàng chạm vào thẻ thông qua ứng dụng riêng của nhà phát hành thẻ cuối cùng sẽ rẻ hơn hay có lợi hơn sẽ phụ thuộc vào các thỏa thuận trong tương lai.
+
+Tính tiện lợi của những giao dịch này cũng đang khiến người dùng hoài nghi. Về lý thuyết, dường như một cú chạm vào điện thoại có thể được nạp tiền bằng bất kỳ công cụ thanh toán nào (thẻ tín dụng, thẻ ghi nợ,...), tuy nhiên thực tế lại không đơn giản như vậy.
+
+Đầu tiên, loại thanh toán cần phải được thiết lập để thanh toán bằng chạm an toàn, sau đó sẽ cần được chấp nhận bởi thiết bị đầu cuối thanh toán ở phía người bán. Ngoài ra, nhiều ngân hàng số vẫn sẽ kiếm được doanh thu trao đổi liên quan đến việc quẹt thẻ.
+
+Về phía Apple Pay, họ cũng đang tiếp tục thúc đẩy việc chia sẻ thanh toán trên thiết bị di động và web, bao gồm cả thông qua một số cải tiến gần đây để giúp sử dụng dễ dàng hơn trên các trình duyệt khác ngoài Safari của Apple.
+
+Các nhà phân tích tại Financial Technology cho biết: “Những tác động mà chúng tôi thấy không nhất thiết nằm ở quy trình thanh toán mà là năng lực của PayPal, ngân hàng,... nhằm thúc đẩy sự tham gia của người tiêu dùng bằng cách thay thế Apple Wallet làm ứng dụng thanh toán mặc định”.
+
+Việc sử dụng ứng dụng nhiều hơn cũng có thể nhắc nhở người dùng thực hiện các giao dịch có giá trị cao hơn, chẳng hạn như vay tiền thông qua thanh toán trả góp, truy cập các ưu đãi của người bán, lưu trữ tiền,... Apple cũng đã tìm cách đóng gói ứng dụng ví của mình với các dịch vụ như tài khoản tiền mặt, thông tin số dư và những thứ khác mà bạn có thể tìm thấy trong ví vật lý, như ID và vé sự kiện.

@@ -1,0 +1,23 @@
+Từ ngày 1/7, hệ thống Cơ sở dữ liệu quốc gia về dân cư chính thức được vận hành. Theo Bảo hiểm xã hội Việt Nam, hiện nay, cơ sở dữ liệu của ngành đang quản lý thông tin của toàn bộ người tham gia, thụ hưởng chế độ, chính sách bảo hiểm xã hội, bảo hiểm y tế.
+
+Mới đây, Bảo hiểm xã hội Việt Nam là đơn vị đầu tiên ngoài ngành được Bộ Công an lựa chọn, triển khai dịch vụ kết nối và xác thực dữ liệu từ cơ sở dữ liệu quốc gia về dân cư.
+
+
+
+Đây là 2 trong số 6 cơ sở dữ liệu quốc gia quan trọng liên quan trực tiếp đến người dân được Chính phủ ưu tiên triển khai để tạo nền tảng phát triển chính phủ điện tử và chuyển đổi số của Quốc gia.
+
+Việc kết nối, chia sẻ dữ liệu với cơ sở dữ liệu quốc gia về dân cư nhằm thực hiện xác thực đối với thông tin nhân khẩu thuộc cơ sở dữ liệu hộ gia đình tham gia bảo hiểm y tế. Qua đó rà soát, đối chiếu, chuẩn hóa dữ liệu nhân khẩu trong dữ liệu của ngành.
+
+Tính đến nay, Bảo hiểm xã hội Việt Nam đã thực hiện việc rà soát đối chiếu với 8,1 triệu thông tin cá nhân từ cơ sở dữ liệu quốc gia về dân cư.
+
+Song song đó, cơ quan này đã chính thức triển khai việc xác thực thông tin công dân từ cơ sở dữ liệu quốc gia về dân cư, khi công dân đăng ký tài khoản giao dịch điện tử với cơ quan bảo hiểm xã hội trên Cổng Dịch vụ công Bảo hiểm xã hội Việt Nam, và trên ứng dụng VssID của ngành.
+
+Theo đó, khi công dân sử dụng căn cước công dân để đăng ký tài khoản giao dịch điện tử, hệ thống tự động đối chiếu, xác thực thông tin do công dân kê khai, thông tin trong cơ sở dữ liệu của ngành đang quản lý với thông tin được lưu trữ trong cơ sở dữ liệu quốc gia về dân cư.
+
+Đồng thời, công dân không cần phải cập nhật ảnh căn cước công dân đính kèm, cơ quan bảo hiểm xã hội không phải lưu giữ ảnh căn cước công dân, qua đó góp phần giảm nguy cơ lộ lọt thông tin, giấy tờ cá nhân.
+
+Theo số liệu thống kê, đến thời điểm này đã có khoảng 2 triệu lượt đăng ký được xác thực.
+
+Thời gian tới, Bảo hiểm xã hội Việt Nam cho biết, sẽ tiếp tục đồng bộ với cơ sở dữ liệu quốc gia về dân cư để hoàn thiện các thông tin gốc trong cơ sở dữ liệu quốc gia về bảo hiểm.
+
+Đồng thời, đề xuất cho phép sử dụng căn cước công dân có gắp chíp thay thẻ bảo hiểm y tế khi đi khám chữa bệnh; ứng dụng công nghệ sinh trắc xác thực vân tay của người dân trên thẻ căn cước công dân gắn chíp vào việc chống lạm dụng quỹ bảo hiểm xã hội, bảo hiểm y tế.

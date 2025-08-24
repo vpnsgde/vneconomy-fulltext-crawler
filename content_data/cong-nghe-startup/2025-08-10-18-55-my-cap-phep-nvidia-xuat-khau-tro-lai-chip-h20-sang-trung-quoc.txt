@@ -1,0 +1,15 @@
+Chip H20 ban đầu được phát triển như dòng sản phẩm mạnh nhất Nvidia có thể bán tại Trung Quốc sau hàng loạt lệnh cấm xuất khẩu trước đó. Tuy nhiên, đến tháng 4 vừa qua, Bộ Thương mại Mỹ bất ngờ siết chặt chính sách, yêu cầu dòng chip này phải có giấy phép đặc biệt để xuất khẩu. Động thái này gần như đóng sập cánh cửa của Nvidia với thị trường tỷ dân, buộc hãng phải cấp tốc tìm phương án ứng phó.
+
+Tuy nhiên, dù bị cấm, thì có không ít báo cáo thông tin hơn 1 tỷ USD chip H20 vẫn bị buôn lậu vào Trung Quốc.
+
+Bộ xử lý B200 cao cấp của Nvidia, dù bị Mỹ cấm xuất khẩu sang Trung Quốc, lại đang được bán rộng rãi trên thị trường chợ đen Trung Quốc...
+
+Sau đó, Nvidia đã phải tinh chỉnh thiết kế bộ vi xử lý này để đáp ứng các quy định kiểm soát xuất khẩu. Một trong những thay đổi lớn nhất là dung lượng bộ nhớ bị cắt giảm, trong khi một số cấu hình mô-đun cho phép khách hàng tùy chỉnh nhưng vẫn nằm trong giới hạn cho phép.
+
+Theo một nguồn tin giấu tên, cách đây ba ngày, tức ngày 7/8, CEO Nvidia Jensen Huang đã có cuộc gặp mặt với Tổng thống Donald Trump. Và đến ngày 8/8, Reuters thông tin một quan chức Mỹ cho biết Bộ Thương mại nước này bắt đầu cấp phép cho Nvidia xuất khẩu chip H20 sang Trung Quốc.
+
+Liên quan đến diễn biến này, mới đây, giới công nghệ cũng đã xôn xao khi Trung Quốc đã bày tỏ lo ngại về nguy cơ an ninh liên quan đến chip H20. Sau đó, Nvidia đã lên tiếng khẳng định các sản phẩm H20 không "không có cửa hậu" cho phép truy cập hoặc kiểm soát từ xa. Xuất khẩu các dòng chip AI tiên tiến khác của Nvidia, ngoại trừ H20, sang Trung Quốc vẫn bị hạn chế.
+
+CEO Jensen Huang từng cảnh báo vị thế dẫn đầu của Nvidia có thể lung lay nếu bỏ qua thị trường Trung Quốc, nơi các nhà phát triển đang được Huawei mời chào chip nội địa. Trong quý 1 năm nay, H20 mang về 4,6 tỷ USD doanh thu, riêng Trung Quốc đóng góp 12,5% tổng doanh thu của Nvidia.
+
+Ngoài ra, vị  CEO cũng dự báo quy mô thị trường AI Trung Quốc có thể đạt tới 50 tỷ USD trong 2-3 năm tới. Ông cảnh báo rằng nếu các công ty Mỹ đánh mất thị trường này, đây sẽ là tổn thất chiến lược trong cuộc cạnh tranh công nghệ toàn cầu.

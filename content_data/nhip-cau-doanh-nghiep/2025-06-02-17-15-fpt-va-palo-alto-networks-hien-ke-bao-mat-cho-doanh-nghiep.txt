@@ -1,0 +1,31 @@
+Hội nghị "Nâng cao an ninh mạng và sức mạnh phục hồi doanh nghiệp trong kỷ nguyên Đám mây và AI” do Palo Alto Networks Việt Nam phối hợp cùng Tập đoàn FPT, Công ty Cổ phần Công nghệ Elite và Eclypsium tổ chức, quy tụ gần 100 khách mời là lãnh đạo công nghệ thông tin, chuyên gia an ninh mạng. Tại đây, chủ đề được quan tâm và thảo luận là chiến lược bảo vệ hệ thống thông tin toàn diện thế hệ mới cùng cách thức phục hồi nhanh chóng dữ liệu của doanh nghiệp từ các cuộc tấn công mạng.
+
+SOC TĂNG CƯỜNG AI: GIẢI PHÁP CHO MÔI TRƯỜNG ĐA ĐÁM MÂY
+
+Phát biểu khai mạc, ông Lê Quang Vĩnh Phúc, Phó Chủ tịch cấp cao kiêm Phó Giám đốc Khối Doanh nghiệp FPT IS, Tập đoàn FPT, nhấn mạnh: “Sự bùng nổ của AI và điện toán đám mây đang định hình lại cách thức vận hành và môi trường làm việc doanh nghiệp, mang lại nhiều cơ hội tăng trưởng mới nhưng cũng kéo theo những rủi ro an ninh khó lường”.
+
+Môi trường đám mây đang đặt ra những thách thức mới cho Trung tâm Vận hành An ninh mạng (SOC). So với hạ tầng truyền thống, SOC trên môi trường đám mây có nhiều vùng biên cần giám sát hơn, số lượng tài sản cần giám sát tăng khoảng 10 lần, số lượng cảnh báo theo đó gia tăng đáng kể. Trong bối cảnh này, AI có thể trở thành giải pháp then chốt. Điều này được TS. Nguyễn Thanh Bình - Chuyên gia tư vấn an ninh mạng, FPT IS, Tập đoàn FPT chia sẻ tại hội thảo.
+
+"FPT hoạch định chiến lược, từng bước tích hợp AI vào các công cụ, quy trình SOC để nâng cao hiệu quả hoạt động. AI trong SOC đóng vai trò quan trọng trong việc phát hiện mối đe dọa có tính dự đoán, phân loại và lọc cảnh báo bảo mật để giảm thiểu cảnh báo sai, tự động phản hồi các kịch bản được định nghĩa trước, và cung cấp thông tin tình báo về mối đe dọa theo thời gian thực”, TS. Bình chia sẻ về ý nghĩa và khả năng ứng dụng thực tế của AI trong SOC.
+
+CLOUD VÀ AI: SỨC MẠNH BẢO MẬT THẾ HỆ MỚI
+
+Ông Lã Hồng Nguyên, Kiến trúc sư giải pháp, Khối Công nghệ Cloud, FPT Smart Cloud (Tập đoàn FPT), chia sẻ về xu hướng bảo mật trong chuyển đổi hạ tầng doanh nghiệp lên đám mây, đặc biệt khi AI ngày càng đóng vai trò trung tâm.
+
+Ông cho biết điện toán đám mây thế hệ mới giúp doanh nghiệp tăng 30–40% hiệu quả vận hành, tự động hóa 30 - 35% công việc công nghệ thông tin và giảm tới 20% chi phí sở hữu hệ thống. Tuy nhiên, để đạt hiệu quả bền vững, doanh nghiệp cần kiến trúc bảo mật linh hoạt, tích hợp sâu vào từng lớp hạ tầng và ứng dụng - điều mà các mô hình truyền thống không còn đáp ứng.
+
+“Trong kỷ nguyên AI, bảo mật cần thông minh, thích ứng và xuyên suốt từ vùng biên đến vùng lõi, từ vận hành đến phát triển ứng dụng,” ông Nguyên nhấn mạnh. FPT Cloud hiện cung cấp giải pháp ASPM, cho phép doanh nghiệp thiết lập, giám sát và điều chỉnh chính sách bảo mật ngay từ giai đoạn phát triển phần mềm. Nhờ đó, rủi ro được phát hiện và xử lý sớm, giảm thiểu nguy cơ khai thác lỗ hổng sau triển khai.
+
+PALO ALTO NETWORKS: MÔ HÌNH ZERO TRUST VÀ QUẢN TRỊ TẬP TRUNG
+
+Các chuyên gia đến từ Palo Alto Networks đã mang đến góc nhìn chuyên sâu về chiến lược bảo vệ doanh nghiệp trong bối cảnh AI bùng nổ. Các giải pháp được trình bày tập trung vào tự động hóa phản ứng, quản trị tập trung và mô hình bảo mật Zero Trust. Đây là những yếu tố then chốt giúp doanh nghiệp nâng cao khả năng phục hồi, đặc biệt khi hoạt động trên môi trường đa đám mây và phân tán.
+
+ECLYPSIUM: BẢO MẬT BẮT ĐẦU TỪ PHẦN CỨNG
+
+Một góc nhìn khác đến từ ông Ray Tan, Kiến trúc sư giải pháp công nghệ khu vực Châu Á, Eclypsium, cho rằng: “An ninh mạng không chỉ dừng lại ở phần mềm hay đám mây mà bắt đầu từ tận sâu bên trong vi mạch - mảnh ghép cuối cùng nhưng then chốt trong chuỗi bảo vệ”.
+
+Eclypsium cung cấp giải pháp bảo mật phần cứng và firmware tiên tiến, giúp phát hiện sớm các lỗ hổng và tấn công tiềm ẩn ngay từ cấp độ thiết bị. Kết hợp với nền tảng AI-driven, giải pháp này tự động hóa phản ứng và quản trị tập trung, mang lại khả năng bảo vệ toàn diện, giúp doanh nghiệp an tâm vận hành trong kỷ nguyên số.
+
+CxO TỌA ĐÀM: TƯ DUY MỚI VỀ NHÂN SỰ VÀ BẢO VỆ CHỦ ĐỘNG
+
+Điểm nhấn của hội nghị là tọa đàm "CxO: Chiến lược nâng cao an ninh mạng và tăng sức mạnh toàn diện cho doanh nghiệp trong kỷ nguyên đám mây và trí tuệ nhân tạo”, với sự tham gia của chuyên gia từ FPT, Palo Alto Networks và ông Nguyễn Vương Khoa - CTO Fonos. Tại đây, các diễn giả đồng thuận rằng con người vẫn là “tuyến đầu” trong chiến lược an ninh mạng. Doanh nghiệp cần đầu tư nghiêm túc vào đào tạo nhận thức bảo mật, xây dựng quy trình ứng phó rõ ràng và từng bước chuyển đổi tư duy từ bị động sang phòng thủ chủ động.

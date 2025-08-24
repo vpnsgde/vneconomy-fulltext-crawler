@@ -1,0 +1,23 @@
+UBND Thành phố Hà Nội vừa ban hành Văn bản về việc triển khai công nghệ thông tin và truyền thông (ICT) phát triển đô thị thông minh và Trung tâm giám sát, điều hành thông minh IOC.
+
+Theo đó, Thành phố giao Sở Xây dựng chủ trì, phối hợp Sở Tài nguyên và Môi trường, Sở Giao thông Vận tải, Sở Thông tin và Truyền thông, các đơn vị liên quan nghiên cứu, tiếp thu ý kiến của Bộ Thông tin và Truyền thông. Chủ động rà soát, tổng hợp các nội dung chỉ đạo của Trung ương và Thành phố liên quan phát triển đô thị thông minh, tham mưu UBND Thành phố ban hành chính sách khuyến khích áp dụng và có lộ trình từng bước áp dụng các bộ quy chuẩn, tiêu chuẩn, các quy định, hướng dẫn liên quan đến quy hoạch, xây dựng và phát triển đô thị thông minh, xây dựng hạ tầng kỹ thuật và quản lý phát triển đô thị đáp ứng yêu cầu phát triển đô thị thông minh, thành phố thông minh.
+
+Sở Thông tin và Truyền thông được giao chủ trì, phối hợp đơn vị liên quan nghiên cứu, tiếp thu ý kiến của Bộ Thông tin và Truyền thông, tham mưu UBND Thành phố chỉ đạo xây dựng IOC khi đã xác định rõ sự cần thiết, mục tiêu, yêu cầu cụ thể, bảo đảm hiệu quả, tiết kiệm, đúng quy định.
+
+Trước đó, Bộ Thông tin và Truyền thông có văn bản số 2333/BTTTT-CĐSQG gửi UBND các tỉnh, thành phố về triển khai ICT phát triển đô thị thông minh và Trung tâm giám sát, điều hành thông minh IOC.
+
+Theo Bộ Thông tin và Truyền thông, hiện nay, các địa phương hiện nay đang chủ yếu tập trung vào việc phát triển và cung cấp các dịch vụ, tiện ích đô thị thông minh gắn với các dịch vụ của chính quyền điện tử, chính quyền số, mới chỉ giải quyết được phần ngọn của vấn đề, chưa chú trọng đến công tác quy hoạch và quản lý đô thị thông minh để giải quyết các vấn đề căn cơ, bài toán lớn của đô thị như giao thông, năng lượng, môi trường,…Điều này dẫn đến hiệu quả mang lại chưa được như mong muốn, chưa thực sự đi vào chiều sâu nhằm đạt được kết quả cuối cùng là nâng cao chất lượng cuộc sống của người dân và quản lý đô thị hiệu quả, tinh gọn.
+
+Mỗi đô thị khác nhau phát triển đô thị thông minh theo những tiêu chí, những lĩnh vực khác nhau, tùy thuộc vào quy mô, tính chất đô thị, điều kiện kinh tế, văn hóa xã hội, mức độ đầu tư mong muốn và các vấn đề đô thị phải đối mặt.
+
+Kinh nghiệm cho thấy không có 2 đô thị thông minh giống hệt nhau và không có một hình mẫu hoàn hảo để có thể áp dụng chung cho các đô thị, thành phố. Do vậy, chính quyền địa phương, đô thị phải tự xác định các vấn đề bức thiết cần giải quyết của đô thị, từ đó tìm kiếm các giải pháp công nghệ phù hợp và áp dụng một cách thông minh, hiệu quả vào đô thị. Mức độ thông minh hoàn toàn không dựa vào sản phẩm, giải pháp sẵn có của các doanh nghiệp trên thị trường mà phụ thuộc vào tư duy đổi mới, tầm nhìn dài hạn và quyết tâm của người đứng đầu địa phương, đô thị…
+
+Đối với việc triển khai Trung tâm IOC, Bộ Thông tin và Truyền thông lưu ý các địa phương không nóng vội trong triển khai, không triển khai khi chưa xác định rõ sự cần thiết, mục tiêu, yêu cầu cụ thể, chưa bảo đảm sẵn sàng các yếu tố cần thiết cho việc duy trì, vận hành và chưa xác định rõ các tiêu chí, chỉ tiêu đo lường, đánh giá hiệu quả.
+
+Các địa phương phải chủ động xác định bài toán cụ thể khi triển khai Trung tâm IOC để giải quyết các vấn đề mang tính đặc thù, đặc trưng của địa phương, đô thị, không phụ thuộc vào các sản phẩm, giải pháp sẵn có của doanh nghiệp, chủ động xác định bài toán để đặt hàng với doanh nghiệp công nghệ và làm chủ công nghệ, làm chủ các nguồn dữ liệu của Trung tâm IOC.
+
+Các yếu tố thông minh và hiệu quả khai thác sử dụng Trung tâm IOC chủ yếu nằm ở hệ thống phần mềm của Trung tâm IOC, hệ thống màn hình hiển thị (dashboard) chỉ giúp hiển thị thông tin, dữ liệu một cách trực quan trên hệ thống màn hình lớn để dễ dàng quan sát, phù hợp với việc giám sát, điều hành các hoạt động thường ngày của đô thị gắn với hiện trường như giám sát giao thông, an ninh trật tự,... Do vậy, các địa phương cần cân nhắc việc triển khai phòng giám sát, điều hành với hệ thống dashboard nếu chỉ hiển thị các thông tin, dữ liệu mang tính thống kê, tổng hợp.
+
+Hiện nay, nhiều địa phương chưa quan tâm đúng mức đến việc hình thành hạ tầng dữ liệu, chưa có chiến lược dữ liệu trong khi dữ liệu là yếu tố cốt lõi của Trung tâm IOC. Do vậy, các địa phương cần sớm xây dựng kho dữ liệu dùng chung và nền tảng tổng hợp, phân tích dữ liệu cấp tỉnh phục vụ cho cả chuyển đổi số và phát triển đô thị thông minh.
+
+Cũng theo Bộ Thông tin và Truyền thông, mức đầu tư cho Trung tâm IOC giữa các địa phương là rất khác nhau, tiềm ẩn nguy cơ và rủi ro lãng phí trong triển khai nếu không xác định và đánh giá rõ được hiệu quả triển khai.

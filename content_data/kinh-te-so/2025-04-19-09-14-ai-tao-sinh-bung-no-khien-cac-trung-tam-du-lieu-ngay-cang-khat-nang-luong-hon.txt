@@ -1,0 +1,47 @@
+Sự phát triển nhanh chóng và triển khai rộng rãi các mô hình AI tạo sinh như GPT-4 hay DALL-E đã cách mạng hóa nhiều ngành công nghiệp. Tuy nhiên, sự bùng nổ của loại AI này đi kèm với chi phí môi trường đáng kể, đặc biệt là về tiêu thụ điện năng, sử dụng nước và sản xuất phần cứng. Nhu cầu ứng dụng AI tạo sinh tăng lên cũng đồng nghĩa với việc gia tăng áp lực lên nguồn tài nguyên năng lượng toàn cầu và hệ sinh thái, theo báo cáo của Viện Công nghệ Massachusetts (MIT). Thách thức đặt ra là làm thế nào để cân bằng giữa sự tiến bộ công nghệ này và các nguyên tắc của kinh tế xanh, bảo vệ môi trường và giảm thiểu tác động khí hậu.
+
+Các mô hình AI tạo sinh, đặc biệt là những mô hình lớn với hàng tỷ tham số, đòi hỏi một nguồn sức mạnh tính toán khổng lồ trong suốt quá trình huấn luyện, triển khai và tinh chỉnh. Tiêu thụ điện năng của những mô hình này đang trở thành một trong những mối quan ngại môi trường nghiêm trọng. Chẳng hạn, quá trình huấn luyện những mô hình như GPT-4 của OpenAI tiêu thụ một lượng điện rất lớn, góp phần gia tăng phát thải carbon và tạo ra áp lực lớn lên lưới điện toàn cầu.
+
+Đơn cử, chỉ riêng việc huấn luyện một mô hình như GPT-3 đã tiêu tốn khoảng 1.287 megawatt-giờ (MWh) điện- lượng điện đủ để cung cấp cho 120 hộ gia đình ở Mỹ trong suốt cả năm. Dấu chân carbon của quá trình này rất lớn vì phần lớn điện năng tiêu thụ đến từ các nhà máy điện sử dụng nhiên liệu hóa thạch thải ra lượng lớn carbon dioxide.
+
+Sau khi quá trình huấn luyện kết thúc, nhu cầu năng lượng không dừng lại. Việc triển khai các mô hình này trong các ứng dụng thực tế, từ tạo nội dung đến giải quyết dịch vụ khách hàng vẫn tiếp tục yêu cầu một lượng điện lớn.
+
+Khi một mô hình được sử dụng để đưa ra kết quả từ dữ liệu mới, năng lượng sẽ được tiêu thụ bởi các thiết bị phần cứng thực hiện quá trình tính toán. Khi những mô hình này ngày càng phổ biến và phức tạp hơn thì nhu cầu năng lượng cho suy luận dự kiến sẽ vượt xa nhu cầu cho huấn luyện.
+
+Một yếu tố quan trọng góp phần vào dấu chân môi trường của AI tạo sinh là sự gia tăng nhu cầu về các trung tâm dữ liệu. Những cơ sở này chứa đựng hạ tầng cần thiết để lưu trữ và xử lý dữ liệu cho các mô hình AI. Các trung tâm dữ liệu như những tòa nhà lớn, tiêu tốn năng lượng với đầy đủ các máy chủ, ổ cứng và thiết bị mạng để hỗ trợ các dịch vụ điện toán đám mây. Ví dụ, Amazon vận hành hơn 100 trung tâm dữ liệu trên toàn cầu, mỗi trung tâm chứa khoảng 50.000 máy chủ.
+
+Sự phát triển của AI tạo sinh đã thúc đẩy việc xây dựng các trung tâm dữ liệu mới để đáp ứng nhu cầu về sức mạnh tính toán ngày càng cao. Mức độ tiêu hao năng lượng của AI tạo sinh cần thiết cho mỗi đơn vị tính toán cũng khiến các trung tâm dữ liệu này trở nên "khát" năng lượng hơn.
+
+Chỉ riêng các trung tâm dữ liệu ở Bắc Mỹ, nhu cầu điện đã tăng từ 2.688 megawatt vào năm 2022 lên 5.341 megawatt vào cuối năm 2023 mà một phần lớn trong số đó đến từ sự bùng nổ ứng dụng AI tạo sinh. Trên toàn cầu, các trung tâm dữ liệu đã tiêu thụ 460 terawatt-giờ (TWh) điện trong năm 2022, xếp thứ 11 trong số các quốc gia và khu vực về mức độ tiêu thụ năng lượng.
+
+Dự báo đến năm 2026, nhu cầu điện của các trung tâm dữ liệu toàn cầu sẽ đạt gần 1.050 TWh, đưa chúng vào vị trí thứ 5 trong số các bên tiêu thụ điện lớn nhất toàn cầu. Sự gia tăng này đặt ra những thách thức lớn đối với mục tiêu bền vững trong ngành công nghệ.
+
+Bên cạnh nhu cầu về điện, các trung tâm dữ liệu còn tiêu thụ một lượng nước khổng lồ để làm mát các thiết bị. Mỗi kilowatt-giờ (kWh) điện năng tiêu thụ tại một trung tâm dữ liệu cần khoảng 2 lít nước để làm mát.
+
+Tác động môi trường từ việc sử dụng nước không chỉ nằm ở số lượng nước tiêu thụ. Nhiệt độ của nước, các hóa chất sử dụng để làm mát và việc xả nước nóng trở lại môi trường tự nhiên cũng có thể gây ra tác động tiêu cực tới môi trường xung quanh. Do đó, chi phí môi trường của việc vận hành các trung tâm dữ liệu không chỉ giới hạn ở việc sử dụng điện mà còn mở rộng ra các thách thức liên quan đến nước.
+
+Phần cứng sử dụng trong việc vận hành các mô hình AI tạo sinh cũng mang đến những chi phí môi trường không nhỏ. Các bộ vi xử lý đồ họa (GPU)- vốn rất quan trọng trong việc xử lý các yêu cầu tính toán của AI tạo sinh đặc biệt tốn tài nguyên. Việc sản xuất GPU yêu cầu các quy trình chế tạo phức tạp và tiêu thụ năng lượng lớn.
+
+Dấu chân carbon liên quan đến việc sản xuất và vận chuyển GPU càng làm tăng tác động môi trường của AI tạo sinh. Các hoạt động khai thác, đặc biệt là những hoạt động khai thác đất hiếm, thường liên quan đến việc sử dụng hóa chất độc hại và các phương thức khai thác gây hại cho môi trường. Việc vận chuyển những vật liệu này và sản phẩm cuối cùng cũng tạo ra phát thải carbon, làm tăng chi phí môi trường của việc sản xuất phần cứng.
+
+Công ty nghiên cứu thị trường TechInsights báo cáo rằng việc vận chuyển GPU cho các trung tâm dữ liệu đã tăng từ 2,67 triệu đơn vị (2022) lên 3,85 triệu đơn vị (2023). Sự gia tăng nhu cầu này dự kiến sẽ tiếp tục vào năm 2024, làm trầm trọng thêm tác động môi trường của việc sản xuất và tiêu thụ phần cứng trong ngành công nghiệp AI.
+
+Hơn nữa, tốc độ phát triển nhanh chóng trong ngành công nghiệp AI đồng nghĩa với việc các mô hình mới liên tục được ra mắt và thường tiêu thụ nhiều năng lượng hơn do độ phức tạp và quy mô tham số ngày càng tăng. Các mô hình cũ khi không còn được sử dụng vẫn yêu cầu năng lượng để duy trì và triển kha, nhưng năng lượng tiêu thụ trong quá trình huấn luyện ban đầu của chúng gần như bị lãng phí khi những mô hình mới, tiêu thụ năng lượng nhiều hơn, thay thế chúng.
+
+Việc phát triển các mô hình AI cần phải gắn liền với các chiến lược phát triển bền vững. GS. Elsa A. Olivetti tại MIT và là tác giả chính của một nghiên cứu năm 2024 về các tác động khí hậu và bền vững của AI tạo sinh, cho rằng chúng ta cần xem xét các hệ quả ở cấp độ hệ thống của những công nghệ trên. Điều này bao gồm lượng điện tiêu thụ, nước sử dụng để làm mát, chi phí môi trường của sản xuất phần cứng và tác động lâu dài đối với đa dạng sinh học và hệ sinh thái. Các tác giả cho rằng cần thiết phải có một phương pháp phát triển AI tạo sinh có trách nhiệm và bền vững.
+
+Cụ thể, một trong những hướng đi quan trọng là cải thiện hiệu quả sử dụng năng lượng trong các trung tâm dữ liệu. Việc sử dụng năng lượng tái tạo như điện mặt trời và điện gió cho các trung tâm dữ liệu có thể giảm thiểu được lượng khí thải carbon đáng kể.
+
+Thêm vào đó, việc áp dụng các công nghệ làm mát hiệu quả và tiết kiệm nước cũng đóng vai trò quan trọng trong việc giảm thiểu tác động môi trường từ AI. Một số công ty đang nghiên cứu các phương pháp làm mát không sử dụng nước, chẳng hạn như làm mát bằng không khí hoặc sử dụng chất lỏng thay thế cho nước.
+
+Bên cạnh đó, việc nghiên cứu và phát triển các mô hình AI tối ưu hóa tiêu thụ năng lượng cũng là một chiến lược quan trọng trong phát triển bền vững. Các nghiên cứu hiện nay đang hướng tới việc thiết kế các mô hình AI có khả năng giảm thiểu tài nguyên tính toán mà vẫn đạt được hiệu quả cao, qua đó giảm chi phí năng lượng và hạ thấp dấu chân carbon.
+
+Chính phủ và các ngành công nghiệp cũng cần phối hợp để đưa ra các chính sách khuyến khích đầu tư vào những giải pháp này, qua đó hỗ trợ quá trình chuyển đổi xanh trong lĩnh vực công nghệ.
+
+Ở một khía cạnh khác, theo bài viết của chuyên gia Andrew Winston trên MIT Sloan Management Review, AI có thể giúp doanh nghiệp phát triển bền vững hơn.
+
+Các ứng dụng này bao gồm: tối ưu hóa thiết kế và điều khiển tòa nhà, giúp giảm tiêu thụ năng lượng tới 29%; quản lý năng lượng và lưới điện, cân bằng cung cầu với sự phức tạp của hàng tỷ thiết bị tiêu thụ và tạo ra năng lượng; tăng hiệu quả nông nghiệp 20-40% thông qua dự đoán thời tiết và sử dụng tài nguyên chính xác hơn; giảm lãng phí thực phẩm và tiết kiệm carbon, nước; cải thiện vận tải, giảm tai nạn và tắc nghẽn; tối ưu hóa chuỗi cung ứng và giảm chi phí, lãng phí; thiết kế sản phẩm với tác động vòng đời thấp.
+
+Nhìn chung, mặc dù AI tạo sinh mang lại rất nhiều lợi ích và tiềm năng lớn trong việc phát triển các sản phẩm sáng tạo nhưng tác động môi trường của công nghệ này cũng cần được xem xét kỹ lưỡng. Việc xây dựng các hệ thống AI bền vững là một thách thức lớn, đòi hỏi sự hợp tác giữa các nhà khoa học, chính phủ và ngành công nghiệp để tìm ra các giải pháp tối ưu.
+
+Từ việc cải thiện hiệu quả sử dụng năng lượng đến việc thay đổi cách thức sản xuất và tiêu thụ phần cứng, những cải tiến này không chỉ giúp giảm thiểu tác động môi trường mà còn thúc đẩy sự phát triển của một nền kinh tế xanh thực sự. Chỉ khi AI tạo sinh được phát triển và triển khai theo cách bền vững, con người mới có thể tận dụng tối đa tiềm năng của nó mà không phải đánh đổi môi trường cho sự tiến bộ công nghệ.

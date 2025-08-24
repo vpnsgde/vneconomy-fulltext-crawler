@@ -1,0 +1,33 @@
+Tạp chí Kinh tế Việt Nam/VnEconomy đã có cuộc trao đổi với GS.TS.BS Lê Hữu Song, Giám đốc Bệnh viện Trung ương Quân đội 108, để hiểu rõ hơn về những rào cản và hướng đi trong công cuộc chuyển đổi số y tế.
+
+Thưa ông, từ những quan sát và nghiên cứu của mình, ông nhận thấy thách thức lớn nhất đối với hệ thống y tế Việt Nam trong việc ứng dụng AI và Dữ liệu lớn là gì?
+
+Công nghệ AI và Dữ liệu lớn đã mang lại cho chúng ta những công cụ vô cùng vĩ đại. Tuy nhiên, để ứng dụng hiệu quả trong y tế Việt Nam, chúng ta đang đối mặt với ba thách thức chính.
+
+Thứ nhấtlà về cơ sở hạ tầng công nghệ. Thực tế nền tảng băng thông, hệ thống máy chủ của chúng ta chưa thực sự chuẩn hóa. Giống như chúng ta có rất nhiều “xe” là dữ liệu, nhưng lại thiếu “đường cao tốc” để những chiếc xe đó lưu thông một cách trơn tru.
+
+Thứ hailà về chính dữ liệu (data). Chúng ta thường nói y tế là một kho dữ liệu khổng lồ, nhưng đó có phải là “dữ liệu sạch”, “dữ liệu sống” và có giá trị hay không? Nền tảng của chúng ta vốn xuất phát từ bệnh án giấy, nơi mỗi bác sĩ, điều dưỡng có cách viết khác nhau, không thống nhất. Khi chuyển sang bệnh án điện tử, đây là một vấn đề cực lớn. Đến nay, không phải tất cả bệnh viện đều có bệnh án điện tử đúng nghĩa. Dữ liệu có thể lớn nhưng chúng ta chưa khai thác được.
+
+Một trong những vấn đề nhức nhối nhất của y tế Việt Nam hiện nay là tình trạng quá tải tại các bệnh viện tuyến trên. Nguyên nhân một phần đến từ văn hóa của người dân, khi họ thường có mong muốn đến thẳng các bệnh viện tuyến trung ương và thực hiện nhiều xét nghiệm. Điều này tạo ra một tình trạng “quá tải giả” khiến hệ thống y tế phải giải quyết những việc đáng ra không cần thiết…
+
+Thứ ba, và cũng là yếu tố quyết định, chính là con người. Con người luôn có xu hướng làm những việc dễ, quen thuộc. Thay đổi một thói quen là một cuộc cách mạng với mỗi cá nhân, huống hồ là thay đổi cả một hệ thống gồm hàng ngàn con người với vô số đối tượng khác nhau. Ngoài ra, người Việt chúng ta đôi khi “sáng tạo” bằng cách làm tắt, bỏ qua các bước trong quy trình đã được chuẩn hóa. Điều này tạo ra dữ liệu “rác”, không nhất quán.
+
+Muốn ứng dụng AI, chúng ta phải giải quyết tận cùng vấn đề: con người phải thay đổi tư duy, tuân thủ quy trình để tạo ra dữ liệu chuẩn. Đó là nền tảng cốt lõi để AI có thể “học” và phát huy giá trị.
+
+Vậy thực tế tại một bệnh viện tuyến cuối như Bệnh viện Trung ương Quân đội 108, việc ứng dụng bệnh án điện tử và phân tích dữ liệu đang diễn ra như thế nào?
+
+Có một nghịch lý trong chuyển đổi số y tế là những bệnh viện càng lớn, càng có truyền thống lâu đời thì lại càng khó chuyển đổi. Một phòng mạch nhỏ có thể áp dụng quy trình mới ngay lập tức, nhưng một bệnh viện lớn thì vô cùng khó khăn. Những thói quen đã ăn sâu, trở thành “truyền thống”, niềm tự hào của từng chuyên khoa. Thay đổi nó là một câu chuyện không hề đơn giản.
+
+Với một bệnh viện lớn có hàng chục ngàn quy trình chuyên môn khác nhau, việc kết nối tất cả các đơn vị từ lâm sàng, cận lâm sàng đến các đơn vị hỗ trợ như dược, trang bị, kiểm soát nhiễm khuẩn là một thách thức khổng lồ. Sự kết nối đó phải hoàn thiện thì hệ thống mới thực sự có giá trị.
+
+Thẳng thắn mà nói, Bệnh viện Trung ương Quân đội 108 hiện nay mới đang ở giai đoạn “bệnh án máy tính hóa” chứ chưa phải “bệnh án điện tử” đúng nghĩa. Tức là chúng tôi mới chủ yếu chuyển hồ sơ từ giấy lên máy tính, chứ chưa thực sự tạo ra một dòng dữ liệu được cấu trúc hóa, sạch và liên thông ngay từ đầu. Chúng tôi đang nỗ lực để có thể vận hành bệnh án điện tử hoàn thiện theo đúng quy định của Chính phủ và Bộ Y tế. Bởi chỉ khi có dữ liệu chuẩn, chúng ta mới có thể quản lý hiệu quả, chẩn đoán chính xác, tiên lượng điều trị và nghiên cứu khoa học. Nếu không, mọi thứ chỉ dừng lại ở bề nổi.
+
+Trong bối cảnh đó, vai trò của hợp tác trong nước và quốc tế quan trọng như thế nào, thưa ông?
+
+Hợp tác là điều kiện bắt buộc. Việt Nam là một nước đang phát triển, chúng ta không thể tự mình làm tất cả. Vấn đề không phải là có nên hợp tác không mà là hợp tác như thế nào cho hiệu quả.
+
+Bệnh viện Trung ương Quân đội 108 rất tích cực trong hợp tác quốc tế, bởi chúng tôi ý thức rằng công nghệ của các nước tiên tiến có thể giúp chúng ta đi tắt đón đầu, rút ngắn quá trình phát triển tới hàng thập kỷ.
+
+Đặc biệt, tôi muốn nhấn mạnh đến nguồn lực vô giá là các chuyên gia người Việt ở nước ngoài. Họ đang giữ những vị trí quan trọng tại các tổ chức, viện nghiên cứu, tập đoàn lớn trên khắp thế giới. Chúng tôi nhận thấy họ có một tinh thần yêu nước, luôn mong muốn được trở về đóng góp cho quê hương. Nếu chúng ta thể hiện được thiện chí và có một cơ chế hợp tác thực chất, họ sẵn sàng đóng góp một cách vô điều kiện.
+
+Bệnh viện Trung ương Quân đội 108 xác định nhiệm vụ của mình không chỉ là tiếp nhận công nghệ cho riêng mình. Chúng tôi muốn trở thành trung tâm tiếp nhận, làm chủ và chuyển giao công nghệ cho toàn bộ hệ thống y tế trong nước, từ quân y đến dân y, một cách vô điều kiện. Đó là cách để chúng ta cùng nhau phát triển, cùng nhau đi lên trong cuộc cách mạng công nghệ này.

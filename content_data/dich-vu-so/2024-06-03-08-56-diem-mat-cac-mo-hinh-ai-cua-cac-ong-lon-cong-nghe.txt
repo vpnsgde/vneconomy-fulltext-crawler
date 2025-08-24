@@ -1,0 +1,35 @@
+Theo Business Insider, Amazon, Microsoft, Google, Meta và Apple dự kiến ​​sẽ chi thêm hàng tỷ USD cho cơ sở hạ tầng AI trong thời gian tới. Điều này có nghĩa hệ thống trí tuệ nhân tạo đang ngày càng trở nên thông minh. Dưới đây là một số mô hình và tính năng AI của Big Tech hàng đầu hiện nay.
+
+Mặc dù có quan hệ đối tác chiến lược với OpenAI, nhà phát triển AI hàng đầu hiện nay, Microsoft cũng đang xây dựng một mô hình AI của riêng mình. The Information tiết lộ mô hình AI của Microsoft có tên MAI-1 được cho là được đào tạo bằng cách sử dụng tập dữ liệu và văn bản công khai từ ChatGPT. Báo cáo cho biết thêm dự án đang được dẫn dắt và giám sát bởi Mustafa Suleyman, Giám đốc điều hành mới được bổ nhiệm của Microsoft AI.
+
+Bên cạnh đó, công ty có một trình tạo chuyển văn bản thành hình ảnh có tên Microsoft Designer, được ra mắt vào năm ngoái sau khi được thử nghiệm vào tháng 12/2022.
+
+Tháng 4 vừa qua, các nhà nghiên cứu của Microsoft cũng cho biết đang phát triển một công cụ chuyển văn bản thành video có tên VASA-1, có thể khiến hình ảnh tĩnh trở nên sống động. Tuy nhiên, công cụ này chưa có ngày dự tính ra mắt công chúng.
+
+Tại hội nghị nhà phát triển Microsoft Build vào tháng 5, Giám đốc điều hành Satya Nadella tiết lộ các sản phẩm AI tạo sinh mới nhất của công ty, bao gồm các bản cập nhật cho chatbot AI Copilot. Họ cũng tiết lộ sắp ra mắt Team Copilot, một công cụ AI hỗ trợ làm việc được đưa vào trong Microsoft Teams.
+
+Một tính năng AI lớn khác được tiết lộ tại hội nghị là Recall, tính năng được Microsoft ví như mang đến cho PC một "bộ nhớ chụp ảnh". Vì vậy, người dùng sẽ dễ dàng tìm kiếm ảnh, tài liệu, cuộc trò chuyện hoặc bất kỳ thứ gì khác trên PC.
+
+ChatGPT của OpenAI đã tạo ra cú nổ lớn trong lĩnh vực AI vào tháng 11/2022. Kể từ đó, công ty này đã chăm chỉ tung ra các phiên bản cập nhật của mô hình AI hàng đầu của mình, bao gồm GPT-3, GPT-3.5, GPT-4 và GPT-4 Turbo. Tuy nhiên, một trong những phiên bản, GPT-4 bị nhiều người chỉ trích là mô hình "lười biếng" và "ngu ngốc" hơn so với các phiên bản trước đó, về khả năng suy luận và đầu ra khác.
+
+Ngoài ChatGPT, Open AI còn có một trình tạo văn bản thành hình ảnh nổi tiếng có tên là Dall-E 3, trình tạo video tên là Sora.
+
+Đi đầu trong lĩnh vực trí tuệ nhân tạo, công ty này bị không ít các ông lớn khác để ý. Chẳng hạn như ông chủ Google, Sundar Pichai đang giám sát chặt chẽ công ty này. Ông cho biết OpenAI có thể đã vi phạm các điều khoản của YouTube vì họ đã sử dụng video của YouTube để đào tạo mô hình.
+
+Gần đây, OpenAI đã tiết lộ một mô hình đa phương thức có tên GPT-4o, về cơ bản là một trợ lý giọng nói có thể thực hiện tìm kiếm và hoạt động như một người bạn đồng hành khi thực hiện công việc và các nhiệm vụ khác. GPT-4o đã là một bản phát hành gây tranh cãi kể từ khi nó được công bố vào đầu tháng 5, khi Scarlett Johansson lên tiếng và nói rằng giọng nó cho chatbot của OpenAI "giống giọng nói của cô một cách kỳ lạ".
+
+Chatbot AI của Google có tên là Gemini đã được ra mắt vào tháng 3/2023. Gemini là một họ các mô hình AI, giống như GPT của OpenAI. Chúng có thể hiểu và tạo văn bản như một mô hình ngôn ngữ lớn thông thường, đồng thời cũng có thể hiểu, vận hành và kết hợp các loại thông tin khác như hình ảnh, âm thanh, video và mã. Tuy nhiên, tính năng tạo ra hình ảnh AI của Gemini đã bị tạm ngừng vì một số lý do.
+
+Tại hội nghị I/O vào tháng 5, Google đã công bố tính năng tóm tắt kết quả tìm kiếm do AI tạo ra. Tuy nhiên, Google đã phải đối mặt với phản ứng dữ dội và chế giễu của công chúng vì công cụ này đã giải thích sai thông tin và đưa ra những câu trả lời vô lý và đen tối.
+
+Tháng 1 năm nay, Google đã giới thiệu trình tạo chuyển văn bản thành video có tên Lumiere, nhưng gã khổng lồ chưa công bố ngày ra mắt chính thức.
+
+Meta có một trợ lý AI tên là Meta AI, được chạy trên LLM mã nguồn mở, Llama. Công cụ AI được nhúng vào hầu hết các nền tảng của họ, bao gồm Instagram và WhatsApp. Bên cạnh đó, Meta cũng có công cụ tạo video, có tên Make-A-Video, được công bố vào năm 2022.
+
+Gã khổng lồ này cũng có một trình tạo hình ảnh AI tên là Imagine, được ra mắt vào tháng 12 năm ngoái. Vào tháng 4, một số người dùng cáo buộc ứng dụng này có dấu hiệu phân biệt chủng tộc vì hệ thống không thể tạo ra hình ảnh xuất hiện những chủng tộc người hỗn hợp.
+
+Amazon được cho là đang xây dựng LLM có tên Olympus để cạnh tranh với các đối thủ hàng đầu khác trong cuộc đua AI. Olympus sẽ được phát triển để đưa vào các cửa hàng trực tuyến và tích hợp vào trợ lý ảo Alexa.
+
+Ngoài ra, Amazon còn có công cụ tạo hình ảnh là Titan, được tích hợp vào dịch vụ của Amazon Bedrock, một dịch vụ điện toán đám mây, cho phép các khách hàng tiếp cận nhiều mô hình bao gồm Claude của Anthropic, Jurassic-2 của AI2 và Stable Diffusion–một trình tạo hình ảnh mã nguồn mở.
+
+Tháng 9/2023, Amazon cam kết đầu tư tới 4 tỷ USD vào Anthropic. Công ty khởi nghiệp mà Amazon nắm giữ cổ phần thiểu số này được đồng sáng lập bởi hai cựu nhân viên OpenAI.

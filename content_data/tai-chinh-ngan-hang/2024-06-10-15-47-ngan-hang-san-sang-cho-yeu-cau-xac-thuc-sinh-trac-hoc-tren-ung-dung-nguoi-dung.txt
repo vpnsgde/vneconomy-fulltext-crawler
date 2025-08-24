@@ -1,0 +1,21 @@
+Các chuyên gia cho rằng các biện pháp xác thực giao dịch truyền thống như mật khẩu và mã xác thực một lần (OTP) ngày càng dễ bị tấn công. Mặt khác, xác thực bằng sinh trắc học, có những đặc điểm độc nhất của mỗi người, hoàn toàn có thể hạn chế tối đa khả năng làm giả, gian lận của đối tượng xấu.
+
+Giải pháp này cho phép cơ quan quản lý, tổ chức cung cấp dịch vụ xác định được chính xác chủ tài khoản, người thực hiện giao dịch, người thụ hưởng. Điều này không chỉ bảo vệ tài khoản của khách hàng mà còn giúp ngân hàng giảm thiểu rủi ro gian lận.
+
+Thời gian qua, các ngân hàng đã gửi thông báo cho khách hàng qua email, tin nhắn SMS và thông báo trên ứng dụng di động, đề nghị khách hàng cập nhật hình ảnh khuôn mặt và căn cước công dân gắn chip trước ngày 1/7 để tránh gián đoạn giao dịch.
+
+Song, cần lưu ý, với đối tượng người cao tuổi, do không quen sử dụng công nghệ hoặc điện thoại với đầu đọc chip từ căn cước công dân không thành công, người dùng có thể ra quầy để thực hiện các bước theo hướng dẫn.
+
+Hiện tại, việc tích hợp nhiều dữ liệu cá nhân trên các tài khoản ngân hàng gây lo lắng cho nhiều người dân với nguy cơ rò rỉ dữ liệu cá nhân. Đứng trước hiện trạng xuất hiện ngày càng nhiều hình thức lừa đảo với thủ đoạn ngày một tinh vi, bảo vệ dữ liệu cá nhân của người dùng là một trong số những điều tiên quyết mà các ngân hàng cần đảm bảo với người dân.
+
+Theo lãnh đạo một ngân hàng thương mại lớn, giải quyết những khó khăn, người dân có thể qua trực tiếp các phòng giao dịch, chi nhánh các ngân hàng để tiến hành định danh bằng máy đọc NFC tại quầy. Ngoài ra, với đối tượng là người nước ngoài cư trú tại Việt Nam không được cấp căn cước công dân gắn chip, khách hàng có thể sử dụng hộ chiếu và đến trực tiếp chi nhánh ngân hàng, để được nhân viên hỗ trợ kiểm tra và cập nhật thông tin sinh trắc học.
+
+
+
+Theo Quyết định số 2345/QĐ-NHΝΝ về triển khai các giải pháp an toàn, bảo mật trong thanh toán trực tuyến và thanh toán thẻ ngân hàng, từ ngày 1/7/2024, khách hàng phải xác thực sinh trắc học khi giao dịch ngân hàng lần đầu bằng Mobile Banking; mọi giao dịch chuyển tiền có giá trị từ 10 triệu đồng trở lên đều phải thông qua bước xác thực bằng sinh trắc học đối với người chuyển tiền; tổng số tiền các giao dịch trên 20 triệu đồng/ngày phải xác thực bằng sinh trắc học.
+
+Ông Phạm Anh Tuấn, Vụ trưởng Vụ Thanh toán, Ngân hàng Nhà nước cho biết đã có 60 tổ chức tín dụng triển khai xác thực khách hàng thông qua căn cước công dân gắn chip tại quầy, 49 tổ chức tín dụng thực hiện xác thực căn cước công dân gắn chip qua ứng dụng trên thiết bị di động, 22 đơn vị tham gia triển khai ứng dụng Định danh và xác thực điện tử công dân (VNeID).
+
+Trước đó, ngay sau khi Quyết định 2345 được ban hành, các tổ chức tín dụng đã khẩn trương, tích cực triển khai xây dựng lộ trình áp dụng, rà soát cơ sở dữ liệu, xây dựng các giải pháp công nghệ phù hợp. Các giải pháp do doanh nghiệp thực hiện đã hỗ trợ các tổ chức tín dụng trong việc thu thập dữ liệu khách hàng để so khớp với cơ sở dữ liệu quốc gia về dân cư.
+
+Để có thể xác thực sinh trắc học lần đầu theo Quyết định 2345 trên ứng dụng ngân hàng, người dân cần đăng nhập vào ứng dụng, lựa chọn tính năng Cập nhật thông tin (tên gọi có thể khác nhau đối với mỗi ứng dụng ngân hàng). Sau đó thực hiện quét khuôn mặt; chụp căn cước công dân mặt trước và mặt sau; quét thông tin từ căn cước công dân gắn chip vào đầu đọc NFC trên điện thoại để truyền dữ liệu. Cuối cùng, xác nhận thông tin và xác thực OTP là đã hoàn tất việc cập nhật dữ liệu.

@@ -1,0 +1,27 @@
+
+
+Sau medtech (công nghệ y tế) và fintech (công nghệ tài chính), Edtech (công nghệ giáo dục) tạm thời đang là điểm thu hút vốn nhiều thứ 3 và đứng đầu về số lượng thương vụ ở Việt Nam từ đầu năm tới nay. Theo báo cáo “Đầu tư công nghệ và đổi mới sáng tạo ở Việt Nam 2023”, tổng vốn đầu tư vào Edtech nửa đầu năm 2023 đã vượt qua con số 30 triệu USD của cả năm 2022. Điều này đã tạo sự quan tâm lớn trong các startup nói chung và trong lĩnh vực startup giáo dục nói riêng.
+
+Báo cáo của HolonIQ cho thấy tính đến quý 2/2023, chỉ có hơn 700 triệu USD đầu tư vào các công ty Edtech toàn cầu, giảm so với mức hơn 1 tỷ USD của cùng kỳ năm ngoái. Tính riêng trong quý 2/2023, vốn đầu tư mạo hiểm toàn cầu đã giảm gần 50% so với cùng kỳ. Tại Việt Nam, tổng vốn đầu tư cho các startup công nghệ trong 6 tháng đầu năm 2023 cũng giảm 41%, từ 113 triệu USD xuống còn 66 triệu USD.
+
+Trong khi đó, tháng 5 vừa qua, Tập đoàn Giáo dục Việt Nam EQuest cho biết đã huy động thành công 120 triệu USD vốn từ một đơn vị không được tiết lộ danh tính và nguồn vốn cổ phần từ nhà đầu tư hiện tại KKR thông qua Global Impact Fund.
+
+Cũng trong tháng 5/2023, một Edtech khác là Teky Alpha JSC đã gọi vốn thành công 5 triệu USD từ Quỹ đầu tư Sweef Capital của Singapore với sự tham gia của Strategic Year Holdings. Dự kiến, khoản đầu tư này sẽ giúp Teky mở rộng thêm dịch vụ giáo dục tại hệ thống giáo dục công lập và các chương trình ngoại khóa dành cho trẻ em từ 5 đến 18 tuổi.
+
+Cùng thời gian, Start-up Ruangguru (Indonesia) cho biết đã mua lại nền tảng học tập trực tuyến Mclass của Việt Nam, mức giá được hai bên bảo mật. Trước đó, vào tháng 4/2023, Start-up MindX, chuyên đào tạo kỹ năng công nghệ, lập trình cho người Việt, vừa nhận đầu tư 15 triệu USD từ Kaizenvest có trụ sở tại Singapore.
+
+Gần đây nhất, Vuihoc đã nhận được khoản đầu tư trị giá 6 triệu USD trong vòng gọi vốn Series A do TNB Aura dẫn đầu. Với khoản đầu tư mới, startup đặt mục tiêu đẩy mạnh khai thác công nghệ trí tuệ nhân tạo (AI), nhằm mang lại trải nghiệm học tập cá nhân hóa, đáp ứng nhu cầu đặc thù của từng học sinh.
+
+Có thể nói, giữa những biến động của nền kinh tế thế giới, lĩnh vực công nghệ giáo dục tại Việt Nam vẫn thu hút đầu tư mạnh mẽ.  Có nhiều nguyên nhân được giới chuyên gia đưa ra cho tín hiệu “ngược dòng” của Edtech Việt Nam.
+
+Tại tọa đàm “Edtech Việt Nam & xu hướng cá nhân hóa trong học tập” do Tạp chí Kinh tế Việt Nam - VnEcônmy tổ chức ngày 31/8/2023, bà Đào Lan Hương, CEO Học viện công nghệ Teky, cho biết động lực của sự hấp dẫn này đến từ quy mô dân số của Việt Nam, trong đó có 71% dân số sử dụng Internet. Mức độ chi trả mà người dân sẵn sàng đầu tư cho giáo dục cũng ngày càng tăng cao. Ước  tính gần 15% ngân sách nhà nước và 38% ngân sách hộ gia đình dành cho giáo dục. Theo Bain & Company, trung bình một gia đình Việt dành khoảng 20% thu nhập đầu tư cho giáo dục con cái, trong khi mức này ở các nước Đông Nam Á là 6 - 15%.
+
+“Sau đại dịch Covid-19, tại Việt Nam, tất cả các yếu tố như hạ tầng công nghệ, hay thiết bị di động và các đường hướng chiến lược về chuyển đổi số quốc gia đều trở thành những động lực, những môi trường hết sức thuận lợi cho sự phát triển các sản phẩm Edtech ở Việt Nam. Trong khi đó, tốc độ phát triển hàng năm của thị trường Edtech ở Việt Nam kể từ năm 2018 đến nay vào khoảng 20,2%. Đây là tốc độ phát triển nhanh thuộc loại hàng đầu trên thế giới. Đây cũng là một trong những động lực thúc đẩy quá trình đầu tư của các nhà đầu tư quốc tế vào Việt Nam,” bà Đào Lan Hương nhận định.
+
+Ông Nguyễn Trí Hiển, Chủ tịch Edtech Agency, Đồng trưởng Làng công nghệ giáo dục Techfest Việt Nam, cũng đưa ra phân tích Việt Nam nằm trong top 10 thị trường giáo dục trực tuyến phát triển nhanh nhất toàn cầu, với tốc độ tăng trưởng kép hàng năm là 44,3% và dự kiến đạt giá trị 3 tỷ USD vào năm 2023.
+
+“Chính phủ đặt mục tiêu đến năm 2030 đưa hình thức đào tạo trực tuyến tới 90% trường đại học và 80% trường trung học phổ thông và cơ sở dạy nghề. Điều này không những thúc đẩy các startup cũng như quỹ đầu tư phát triển thị trường Edtech, mà còn giúp Việt Nam chuẩn bị nguồn nhân lực chất lượng cao cho nhu cầu trong tương lai”, ông Hiển cho biết...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 36-2023 phát hành ngày 04-09-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

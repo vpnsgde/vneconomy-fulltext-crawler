@@ -1,0 +1,17 @@
+Theo Sở Thông tin và Truyền thông TP.HCM, đối tượng tham gia hội thi là cá nhân người Việt Nam ở trong và ngoài nước (bao gồm cả người Việt Nam ở nước ngoài), người nước ngoài đang sinh sống, học tập, làm việc tại Việt Nam đều có thể đăng ký tham gia dự thi.
+
+Hội thi được chia thành 2 bảng. Trong đó, bảng A dành cho sinh viên, thanh niên có quan tâm đến lĩnh vực công nghệ thông tin, trí tuệ nhân tạo và bảng B dành cho học sinh các trường trung học phổ thông trên địa bàn TP.HCM yêu thích công nghệ thông tin và muốn tìm hiểu về trí tuệ nhân tạo.
+
+Về nội dung thi, các thí sinh tham dự sẽ phát triển các thuật toán trí tuệ nhân tạo để giải quyết bài toán trong cuộc sống, ứng dụng phục vụ cho TP.HCM theo chủ đề của cuộc thi.
+
+Cuộc thi được tổ chức theo hình thức cuộc thi khoa học, tương tự các cuộc thi (challenge) thường được tổ chức trên thế giới nhằm tìm kiếm các giải pháp hiệu quả cho các vấn đề mới đang được quan tâm nhằm phục vụ cuộc sống. Trong đó, bài toán dự kiến là truy vấn sự kiện từ video, thể thức tương tự cuộc thi quốc tế Lifelog Search Challenge (LSC) và Video Browser Showdown (VBS).
+
+Riêng đối với thí sinh bảng B được phép sử dụng công cụ có sẵn do Ban tổ chức cung cấp để thực hiện các yêu cầu của cuộc thi đưa ra. Sau khi đăng ký tham dự cuộc thi, thí sinh được tập huấn kiến thức về các nội dung theo chủ đề cuộc thi.
+
+Sở Thông tin và Truyền thông TP.HCM cho biết, tiêu chí đánh giá dựa trên các thuật toán, sản phẩm tham gia hội thi phải có hàm lượng khoa học cao, có tính cập nhật; giải quyết được những vấn đề cụ thể theo chủ đề đặt ra. Đồng thời, kết quả được đánh giá trên các bộ test của Ban tổ chức, có sự thẩm định kết quả của Hội đồng giám khảo.
+
+Ngoài ra, Ban tổ chức còn cho biết việc tổ chức cuộc thi nhằm tìm kiếm và ứng dụng các giải pháp sử dụng trí tuệ nhân tạo giúp giải quyết các bài toán được đặt ra trong bối cảnh thành phố đang tập trung đầu tư phát triển và đẩy mạnh xây dựng đô thị thông minh. Hình thức khen thưởng sẽ gồm cúp, giấy khen của Ban tổ chức, tiền thưởng với tổng giá trị giải thưởng lên đến 200 triệu đồng.
+
+Được biết, phương pháp của các đội đạt kết quả tốt trong hội thi, qua quá trình phản biện của các chuyên gia trong nước và quốc tế, sẽ được chọn và mời trình bày trong Special Session về Lifelog and Multimedia Event Retrieval trong Hội thảo quốc tế The 12th International Symposium on Information and Communication Technology (SoICT 2023), được tổ chức từ vào ngày 7 và 8/12/2023 tại TP.HCM, đồng thời được đăng trong kỷ yếu hội thảo do ACM xuất bản.
+
+Đặc biệt, những giải pháp đạt giải sẽ được hỗ trợ kết nối giới thiệu thuật toán, giải pháp tới các đơn vị đang triển khai chính quyền điện tử, đô thị thông minh (nếu cá nhân, đơn vị đạt giải có nhu cầu) và được tạo điều kiện thuận lợi để đăng ký các giải pháp hữu ích, vườn ươm sản phẩm tiềm năng từ thuật toán, giải pháp đạt giải.

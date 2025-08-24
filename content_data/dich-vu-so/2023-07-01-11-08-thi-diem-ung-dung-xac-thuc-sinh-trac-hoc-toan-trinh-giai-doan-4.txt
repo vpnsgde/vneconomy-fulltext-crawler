@@ -1,0 +1,19 @@
+Cục Hàng Không Việt Nam vừa có công văn gửi Tổng công ty Cảng hàng không Việt Nam (ACV), Cảng Hàng không quốc tế Vân Đồn; Tổng công ty Hàng không Việt Nam - Công ty Cổ phần và các hãng hàng không (VietJet, Tre Việt, Vietravel Airlines, Pacific Airline) về việc tiếp tục triển khai ứng dụng xác thực sinh trắc học toàn trình và ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử đối với hành khách khi làm thủ tục đi tàu bay.
+
+Theo Cục Hàng không Việt Nam, với ứng dụng thẻ căn cước công dân gắn chip điện tử, hệ thống, thiết bị triển khai phải được Bộ Công an kiểm tra đảm bảo an ninh, an toàn và dán tem an ninh trước khi đưa vào sử dụng. Các dữ liệu cá nhân chỉ được xử lý đúng với mục đích các bên đã đăng ký và chỉ được lưu trữ trong khoảng thời gian phù hợp với mục đích xử lý dữ liệu.
+
+Đối với ứng dụng tài khoản định danh và xác thực điện tử (VNeID), trong giai đoạn thí điểm, triển khai giải pháp sử dụng App VNeID để kiểm tra theo hướng dẫn của Bộ Công an.
+
+Cục Hàng không Việt Nam cho biết sẽ tiếp tục phối hợp với Cục Cảnh sát quản lý hành chính về trật tự xã hội Bộ Công an (C06) để xây dựng giải pháp ứng dụng VNeID toàn trình thực hiện phục vụ hành khách đi tàu bay như thẻ căn cước công dân gắn chip.
+
+Ngoài ra, cơ quan này cũng đã nhất trí với đề nghị của Tổng công ty Cảng hàng không Việt Nam (ACV) về việc tiếp tục thí điểm giai đoạn 4, từ nay đến ngày 31/8 tại Cảng hàng không quốc tế Cát Bi (Hải Phòng) và Phú Bài (Thừa Thiên - Huế).
+
+Theo đó, ACV được yêu cầu phải bảo đảm và chịu trách nhiệm về việc hành khách được thông báo, tự nguyện tham gia thí điểm; bảo đảm bảo vệ dữ liệu hành khách, chỉ sử dụng dữ liệu hành khách vào mục đích cung cấp dịch vụ hàng không hoặc phục vụ nhiệm vụ của các cơ quan quản lý nhà nước có thẩm quyền; tuân thủ các quy định tại Nghị định 13/2023 về bảo vệ dữ liệu cá nhân.
+
+Trước đó, ACV đã thí điểm triển khai sử dụng tài khoản định danh điện tử mức độ 2 đối với hành khách làm thủ tục đi máy bay đồng loạt tại các cảng hàng không từ 1/6 – 1/8 đối với chuyến bay nội địa.
+
+Theo Đại diện Cục Hàng không Việt Nam, đây là thí điểm chỉ thực hiện với hành khách tự nguyện, nhân viên hàng không phải cam kết không sử dụng thông tin hành khách vào mục đích trái pháp luật. Trên các chuyến bay nội địa, hành khách có thể sử dụng tài khoản định danh điện tử mức độ 2 trên ứng dụng VNeID để làm thủ tục tại quầy làm thủ tục - checkin; cửa boarding - điểm kiểm tra an ninh hàng không và điểm kiểm tra tại cửa khởi hành.
+
+Với quy trình này, hành khách khi làm thủ tục chỉ cần xuất trình căn cước công dân gắn chip, quét vào hệ thống sẽ nhận diện được hành khách giúp cho các thủ tục được nhanh chóng. Thời gian thực hiện thí điểm sử dụng tài khoản định danh mức độ 2 tại toàn bộ các sân bay trên cả nước dự kiến kéo dài đến hết tháng 8.
+
+Tuy nhiên, Cục Hàng không cho biết, vẫn có một số vướng mắc khi triển khai thí điểm xác thực sinh trắc học kết hợp xác thực căn cước công dân gắn chip điện tử khi công dân đi máy bay như: hành khách tham gia tự nguyện sử dụng tài khoản điện tử mức độ 2 khi làm thủ tục phát sinh một số sự cố, xuất phát lỗi từ tài khoản định danh, lỗi mạng mất kết nối; một số hành khách chưa quen thao tác trên ứng dụng; những vấn đề còn gặp vướng mắc liên quan đến tính pháp lý, thiết bị và giải pháp xác thực…

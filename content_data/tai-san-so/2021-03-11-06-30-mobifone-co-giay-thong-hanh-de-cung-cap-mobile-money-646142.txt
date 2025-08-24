@@ -1,0 +1,11 @@
+Tổng công ty Viễn thông MobiFone vừa được Ngân hàng Nhà nước cấp giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán, là điều kiện để nhà mạng tham gia thí điểm cung ứng dịch vụ Mobile Money.
+
+Cụ thể, các dịch vụ trung gian thanh toán của MobiFone được Ngân hàng Nhà nước cấp phép bao gồm: địch vụ cổng thanh toán điện tử; dịch vụ hỗ trợ thu hộ, chi hộ; dịch vụ hỗ trợ chuyển tiền điện tử và dịch vụ ví điện tử.
+
+Trước MobiFone, đã có hai nhà mạng khác là Viettel và VinaPhone được cấp giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán. Việc có giấy phép trung gian thanh toán sẽ giúp MobiFone "bước lên chuyến tàu" Mobile Money cùng nhịp với Viettel và VinaPhone mà không phải phấp phỏng như trước đây nữa.
+
+Chia sẻ với VnEconomy ngày 10/3 về kế hoạch đưa dịch vụ Mobile Money ra thị trường, ông Bùi Sơn Nam, Phó tổng giám đốc MobiFone, cho biết, căn cứ vào các quy định tại văn bản của Thủ tướng mới ban hành về định phê duyệt triển khai thí điểm Mobile Money, MobiFone sẽ rà soát lại đề án xin cấp phép tử nghiệm dịch vụ Mobile Money trước đó của nhà mạng để căn chỉnh, bổ sung những nội dung, phương án cho phù hợp nhất, tốt nhất (như các phương án về kỹ thuật, bảo mật, chống rủi ro…), sau đó sẽ gửi hồ sơ xin cấp phép thử nghiệm lên Ngân hàng Nhà nước.
+
+Ông Nam cho biết, khoảng hai tuần nữa MobiFone sẽ gửi hồ sơ. Theo ông, MobiFone hiện đã chuẩn bị đầy đủ về hạ tầng kỹ thuật, đào tạo, huấn luyện cho bộ phần phụ trách về nạp thẻ, thanh toán (các merchant), giải pháp định danh và xác thực điện tử khách hàng (eKYC)…, khi cơ quan quản lý đồng ý cho triển khai thử nghiệm nhà mạng sẽ ngay lập tức cho khách hàng đăng ký và phát triển các merchant để chính thức cung cấp dịch vụ.
+
+Vị này cũng dự kiến khoảng trong quý 2/2021 MobiFone sẽ chính thức đưa dịch vụ Mobile Money đến tay người dùng.

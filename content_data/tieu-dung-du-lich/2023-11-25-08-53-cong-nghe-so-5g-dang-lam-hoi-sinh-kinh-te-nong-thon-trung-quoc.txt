@@ -1,0 +1,63 @@
+Nghiên cứu mới nhất từ Liên minh Viễn thông Quốc tế (ITU), cho thấy sự gia tăng 10% trong thâm nhập băng thông rộng di động đã dẫn đến mức tăng trung bình 1,5% GDP bình quân đầu người. Tại Trung Quốc, quốc gia này đang xây dựng cơ sở hạ tầng kỹ thuật số phù hợp và hữu ích cho các nền kinh tế nông thôn. Số liệu chính thức của chính phủ Trung Quốc cho thấy vào giữa năm 2023, khoảng 60% cư dân nông thôn Trung Quốc đã truy cập Internet, trong khi số người dùng băng thông rộng ở nông thôn dự kiến sẽ vượt quá 190 triệu người vào cuối năm nay.Có thể thấy những lợi ích của việc xây dựng kỹ thuật số ở Vân Nam, một tỉnh nông thôn kém phát triển, phần lớn ở phía tây nam Trung Quốc. Công thức thành công của Vân Nam có ba thành phần chính: mục tiêu đầy tham vọng, cơ sở hạ tầng ICT tốt hơn và kế hoạch chi tiết chiến lược (được soạn thảo vào năm 2020) để tập trung vào các ngành công nghiệp mà tỉnh có lợi thế tự nhiên.Trong nỗ lực khôi phục lại các khu vực nông thôn, các nhà khai thác đã đẩy mạnh việc triển khai các dịch vụ viễn thông toàn cầu, dần dần mở rộng kết nối 5G và cáp quang đến các vùng sâu vùng xa. Huawei, một nhà cung cấp cơ sở hạ tầng kỹ thuật số, đã đóng góp cho sự phát triển kỹ thuật số của Vân Nam. "Huawei và các nhà khai thác địa phương đã khám phá những cách sáng tạo để cải thiện độ bao phủ nông thôn và giảm chi phí của nó", Lei Lei, Giám đốc bộ phận kinh doanh thiết bị viễn thông của Huawei Vân Nam, cho biết.
+
+Nằm dọc theo các con sông và được bao quanh bởi các ngọn núi, phố cổ Heshun (Hòa Thuận) nằm ở Đằng Xung (Tengchong), một thành phố cấp quận thuộc thành phố Bảo Sơn, tỉnh Vân Nam, cách thủ phủ Côn Minh khoảng 650 km về phía Tây của tỉnh Vân Nam. Lịch sử Hòa Thuận trải dài hơn 600 năm. Trong thời nhà Minh, Hòa Thuận được thành lập như một tiền đồn thương mại và quân sự để củng cố sự hiện diện của triều đại khi Vân Nam chỉ là một miền biên giới xa xôi.
+
+Dù vậy, lịch sử hàng trăm năm của Hòa Thuận đã không biến nơi đây thành một di tích văn hóa đơn thuần. Thay vào đó, thị trấn đã chấp nhận công nghệ kỹ thuật số bằng cách kết hợp cổ xưa với cái mới theo những cách bất ngờ.
+
+
+
+Hòa Thuận được bao phủ hoàn toàn bởi mạng 5G. Mạng băng thông rộng tốc độ cao cho phép khách truy các dịch vụ tốt hơn, nhanh chóng và thuận tiện hơn. Đặc biệt, vùng phủ sóng 5G đầy đủ đã tạo ra cơ sở hạ tầng cần thiết để phân tích dữ liệu lớn (Big Data), cho phép tất cả các đối tượng được kết nối trong hệ sinh thái Internet of Things (IoT) và gửi dữ liệu đến trung tâm điều hành thông minh để phân tích.
+
+Hạ tầng số và kết nối 5G rộng khắp đã mang lại nhiều tiện ích cho du khách và giúp du khách trải nghiệm du lịch tại đây theo cách hoàn toàn “smart” (thông minh). Ví dụ như du khách có thể truy nhập vào hệ thống cảnh báo được lắp đặt tại nhiều vị trí. Nhờ kết nối mạng 5G tốc độ cao nên hệ thống cảnh báo này nhanh chóng giúp khách du lịch kết nối trực tiếp với nhân viên khu du lịch để hướng dẫn tìm nơi đỗ xe, khu vực nhà vệ sinh công cộng ở trong khu vực… để tối ưu thời gian tìm kiếm và tiết kiệm được quãng đường tốt nhất.
+
+Hạ tầng số và kết nối 5G rộng khắp đã mang lại nhiều tiện ích cho du khách và giúp du khách trải nghiệm du lịch tại đây theo cách hoàn toàn “smart”.
+
+Du khách các nơi khác trong nước, nhất là du khách nước ngoài lần đầu tiên đến đây cũng không phải lo lắng về việc bị lạc. Họ có thể sử dụng ứng dụng mini WeChat, có thể dễ dàng tìm đường, mua vé, định vị nhà hàng, bắt xe buýt và đặt khách sạn, hay thông báo bị mất đồ đạc hay bất cứ một thắc mắc nào trong lúc trải nghiệm du lịch tại Hòa Thuận.Quản lý thành phố có thể nhận được báo động từ 50 điểm trên toàn thị trấn để đáp ứng với bất kỳ trường hợp khẩn cấp nào trong thời gian thực. Khách du lịch dù bị mất điện thoại hoặc mất liên lạc với thành viên gia đình chỉ sau “một nút bấm” là lập tức được trợ giúp.
+
+Làng cổ Hòa Thuận còn được trang bị cơ sở hạ tầng vật lý nhằm phát triển một khu du lịch thông minh với các nền tảng số đem lại nhiều tiện ích và trải nghiệm khác biệt cho du khách. Cụ thể như máy in ảnh tự động đặt tại đây cho phép du khách quét mã QR trên máy in ảnh để tải ảnh từ điện thoại tới hệ thống và thanh toán thông qua ví điện tử Wechat Pay với giá 2 Nhân dân tệ - tương đương khoảng 6.700 VNĐ – cho một bức ảnh. Khu làng cổ này cũng được lắp đặt hàng loạt ghế ngồi được trang bị tấm pin mặt trời vừa giúp khách ngồi nghỉ chân vừa dùng để sạc pin điện thoại bằng cả hai cách thức không dây và có dây cắm. Bên cạnh đó là hệ thống vòi phun nước thông minh theo dõi chất lượng và tốc độ dòng chảy của nước, đảm bảo an toàn để uống và không bị lãng phí.
+
+Ghế ngồi được trang bị tấm pin mặt trời vừa giúp khách ngồi nghỉ chân vừa dùng để sạc pin điện thoại bằng cả hai cách thức không dây và có dây cắm.
+
+“Nếu bạn đến thăm vào tháng 7, nhưng muốn biết Hòa Thuận trông như thế nào khi được phủ tuyết, bạn có thể thấy nó được hiển thị sinh động bằng công nghệ kỹ thuật số VR (thực tế ảo) và 3D. Cơ sở hạ tầng kỹ thuật số của Hòa Thuận cũng được trang bị camera an ninh và hệ thống giám sát hỏa hoạn, đóng một vai trò quan trọng trong việc bảo vệ môi trường tự nhiên và các địa điểm quan trọng trong lịch sử. Tất cả các dữ liệu của khu du lịch được truyền trực tiếp theo thời gian thực về hệ thống trung tâm để ban quản lý có thể nắm được tình hình thực tế, hỗ trợ kịp thời khi cần thiết. Ngành du lịch Đằng Xung có những lợi thế độc đáo", bà Chang Zaifei, Phó Giám đốc Cục Văn hóa và Du lịch Đằng Xung cho biết.
+
+Từ tháng 1 đến tháng 9 năm 2023, Đằng Xung đã nhận được tổng cộng 13,37 triệu khách du lịch và tổng doanh thu du lịch đạt được là 17,1 tỷ Nhân dân tệ, tăng lần lượt 22% và 38% so với cùng kỳ năm ngoái. Trong đó, đặc biệt là phố cổ Hòa Thuận, hơn 4.000 cư dân địa phương đã tăng thu nhập do các cơ hội kinh tế mới trong ngành du lịch được tạo ra bởi việc xây dựng cơ sở hạ tầng kỹ thuật số và mạng 5G phủ khắp.
+
+Nếu phải chọn vị trí hoàn hảo để trồng cà phê, làng Tân Trại (tỉnh Vân Nam) là một lựa chọn khó có nơi nào tại Trung Quốc có thể tốt hơn. Nằm cạnh đập sông Nộ Giang khoảng 1.000 mét trên mực nước biển, độ cao và khí hậu ôn hòa nơi đây đã tạo ra đậu cao cấp để cung cấp nguyên liệu cho một loại bia thơm.
+
+Hầu hết mọi người trên thế giới và ngay cả người dân tại nhiều vùng miền khác trong nước từng không biết đến vùng cà phê của ngôi làng xa xôi này ở Trung Quốc. Nhưng cư dân của làng Tân Trại và thành phố Bảo Sơn gần đó, họ bắt đầu trồng cà phê từ năm 1952.
+
+
+
+"Tân Trại đã trở thành “Làng cà phê số 1 Trung Quốc” theo giấy chứng nhận do Bộ Nông nghiệp Trung Quốc cấp, đồng thời cũng là mô hình “Mỗi làng một sản phẩm” cấp quốc gia. Tổng giá trị sản lượng từ năm 2018 đến nay đã vượt 80 triệu. Năm ngoái đạt 120 triệu USD, một tốc độ tăng trưởng đáng kinh ngạc".
+
+"Tân Trại đã trở thành “Làng cà phê số 1 Trung Quốc” theo giấy chứng nhận do Bộ Nông nghiệp Trung Quốc cấp, đồng thời cũng là mô hình “Mỗi làng một sản phẩm” cấp quốc gia. Tổng giá trị sản lượng từ năm 2018 đến nay đã vượt 80 triệu. Năm ngoái đạt 120 triệu USD, một tốc độ tăng trưởng đáng kinh ngạc".
+
+Đến những năm 1980, các thương hiệu cà phê quốc tế đã bắt đầu tìm nguồn hạt cà phê cấp thấp từ Tân Trại để làm cà phê hòa tan rẻ tiền. Dân làng Tân Trại trồng nhiều cây hơn, nhưng họ không thể mở rộng chuỗi giá trị bởi chất lượng sản phẩm tương đối thấp, và giá trị mang lại từ cây cà phê cũng thấp khiến nhiều người dân muốn chặt cây cà phê và trồng các loại cây khác thay thế.
+
+Nhưng khoảng một thập kỷ trước, dân làng Tân Trại đã quyết định bắt đầu trồng các loại hạt cà phê cao cấp hơn. Thời điểm hiện tại, 906 ha tại Tân Trại đang được sử dụng cho cà phê, chiếm 95% tổng diện tích đất canh tác và tạo ra giá trị sản lượng hàng năm gần 14 triệu USD. Sự phát triển này đã giúp nâng cao mức sống của người dân địa phương.
+
+Các quận Napa và Sonoma của California nổi tiếng với việc trồng rượu vang và thu hút khách du lịch mong muốn nếm thử nó. Chỉ riêng thung lũng Napa đã đón gần 4 triệu du khách mỗi năm. Tân Trại cũng muốn làm điều tương tự với cà phê.
+
+Ảnh 1: (thứ tự từ trái sang phải): Phòng livestream của một công ty cà phê tại Tân Trại; Ảnh 2: Đại diện nhà mạng Mobile China tại Tân Trại giới thiệu về vùng phủ sóng 5G và việc kết nối các dữ liệu liên quan đến ngành cà phê tại Tân Trại; Trạm sóng 5G (ảnh 3) và đèn chiếu sáng sử dụng năng lượng mặt trờ ở các thôn ngõ của Tân Trại (ảnh 4).
+
+Bí thư Đảng ủy thôn Tân Trại Vương Gia Vệ nói với cánh phóng viên đến từ Việt Nam, Lào và Campuchia trong chuyến khảo sát thực tế tại địa phương: “Tân Trại đã trở thành “Làng cà phê số 1 Trung Quốc” theo giấy chứng nhận do Bộ Nông nghiệp Trung Quốc cấp, đồng thời cũng là mô hình “Mỗi làng một sản phẩm” cấp quốc gia. Làng có 9 tổ dân phố, 502 hộ gia đình với 2.082 nhân khẩu, một tổ chức đảng với 6 chi bộ thôn và 81 đảng viên. Tổng sản lượng hàng năm là 4.000 tấn. Tổng giá trị sản lượng từ năm 2018 đến nay đã vượt 80 triệu. Năm ngoái đạt 120 triệu USD, một tốc độ tăng trưởng đáng kinh ngạc”.
+
+Tân Trại cũng đã có một bảo tàng cà phê và một hội trường trải nghiệm cà phê, nơi mọi người có thể tìm hiểu về cách cà phê được trồng, chế biến, bán và tất nhiên, được thưởng thức thứ cà phê được xem là ngon nhất Trung Quốc. Mỗi năm có một lễ hội cà phê. Và tại các trang trại địa phương được chuyển đổi thành loại hình du lịch B&B (dịch vụ lưu trú “giường ngủ và bữa sáng”), trong đó khách du lịch có thể chọn loại hạt cà phê trên cánh đồng, và học các kỹ thuật pha cà phê từ những người pha chế (baristas) chuyên nghiệp và nếm thử các loại cà phê địa phương.
+
+Nơi đây đã thu hút khoảng 120.000 khách du lịch mỗi năm, là một làng du lịch nổi tiếng ở tỉnh Vân Nam.
+
+Theo Bí thư Đảng ủy thôn Tân Trại Vương Gia Vệ, công nghệ số đóng một vai trò quan trọng trong sự phát triển của cả "du lịch cà phê" và ngành cà phê. Tân Trại đã triển khai năm trạm gốc 5G để hỗ trợ thương mại điện tử, bán hàng trực tiếp (livestream) và các ứng dụng IoT liên quan đến trồng cà phê. Cảm biến IoT có thể thu được dữ liệu có ý nghĩa về canh tác cà phê, bao gồm nhiệt độ, độ ẩm và độ chua của đất. Bằng cách phân tích dữ liệu này, nông dân có thể trồng trọt hiệu quả hơn và gặt hái những lợi ích kinh tế lớn hơn.
+
+Khu vực trồng cà phê (ảnh 1) và nơi sinh sống của cư dân làng Tân Trại (ảnh 2).
+
+Ngành công nghiệp cà phê ở làng Tân Trại cũng đã thu hút nhiều người từ các nơi khác của Đại lục đến kinh doanh, như trường hợp cô Sha Susu đến từ tỉnh Sơn Đông. Có trụ sở tại làng Trân Trại từ năm 2017, cô hiện đang điều hành một quán cà phê và có trang trại trồng trọt của riêng mình.
+
+Susu cho biết cô rất vui mừng về khả năng của công nghệ kỹ thuật số: "Chúng tôi hy vọng sẽ sử dụng nhiều công nghệ hơn để trồng cà phê tốt hơn. Chúng tôi cũng rất thích sử dụng việc phát trực tiếp (livestream) và các phương tiện khác để nhiều người biết đến cà phê Vân Nam. Hy vọng cà phê Trung Quốc có thể đi ra khỏi Vân Nam vào các thị trường khác trên thế giới”, Susu cho hay.
+
+Ngành công nghiệp cà phê đang phát triển của Vân Nam được hỗ trợ bởi kết nối 5G ổn định, dung lượng cao. Các cảm biến IoT trong lĩnh vực thu thập dữ liệu quan trọng về nhiệt độ, độ ẩm, độ pH trong đất, mức độ xâm nhập của côn trùng hoặc các mối đe dọa của nấm và các bệnh khác có thể gây hại cho cây cà phê. Dữ liệu được phân tích và sau đó chuyển đổi thành những kiến thức để có thể sử dụng giúp nông dân hoạt động hiệu quả hơn.
+
+Ngoài năm trạm gốc 5G đặt tại làng Tân Trại, China Mobile, nhà khai thác địa phương, đã lắp đặt thêm 35 trạm để phủ sóng khu vực xung quanh. Kết nối này hỗ trợ thương mại điện tử, phát sóng trực tiếp, phát video và tất cả các ứng dụng IoT liên quan đến trồng cà phê.
+
+Các nghiên cứu điển hình của phố cổ Hoà Thuận và làng cà phê Tân Trại cho thấy công nghệ kỹ thuật số có thể thúc đẩy tăng trưởng nông thôn như thế nào. Để có được những thành công như vậy đòi hỏi những nỗ lực để lấp đầy khoảng trống số hóa và thu hẹp "khoảng cách cuối cùng", đặc biệt là ở các ngôi làng nhỏ ở các tỉnh xa xôi của Trung Quốc.
+
+"Các công nghệ như 5G, đám mây (cloud) và AI tạo thành nền tảng để nâng cấp cơ sở hạ tầng kỹ thuật số nông thôn", bà Su Ruiping, Giám đốc Bộ phận Phát triển Công nghệ thông tin – Truyền thông của Cục Quản lý tỉnh Vân Nam cho biết. Theo bà Su Ruiping, trong năm tới và xa hơn nữa, Vân Nam đặt mục tiêu nâng cấp cơ sở hạ tầng kỹ thuật số và thu hẹp khoảng cách kỹ thuật số. Bằng cách liên tục thúc đẩy Tân Trại, Bảo Sơn và các bộ phận khác của Vân Nam tiến lên trong lĩnh vực kỹ thuật số, các địa phương này như một mô hình phát triển kinh tế cho phần còn lại của Trung Quốc và phần còn lại của thế giới.

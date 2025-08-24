@@ -1,0 +1,21 @@
+Bảo hiểm xã hội Việt Nam ngày 20/5 cho biết chỉ sau 6 tháng đưa vào sử dụng ứng dụng “VssID - Bảo hiểm xã hội số”, tính đến hết ngày 16/5 toàn quốc đã có hơn 6,44 triệu lượt tải, cài đặt, đăng ký sử dụng ứng dụng, với hơn 5,6 triệu hồ sơ hợp lệ được duyệt.
+
+Tỷ lệ này đạt 22,18% so với tổng chỉ tiêu được giao (đến 31/12/2021 phấn đấu có 25.358.667 người cài đặt và sử dụng ứng dụng VssID).
+
+Mới đây, Bảo hiểm xã hội Việt Nam vừa cho ra mắt bản nâng cấp ứng dụng VssID phiên bản 1.5.3 trên cả 2 kho ứng dụng AppStore và Google Play.
+
+Tại phiên bản nâng cấp 1.5.3, ứng dụng VssID được cập nhật, bổ sung nhiều tính năng mới ưu việt, tiện dụng hơn cho người dùng.
+
+Cụ thể, tại bước đăng ký tài khoản VssID, bổ sung chức năng cho phép người dùng đăng ký giao dịch điện tử với cơ quan bảo hiểm xã hội ngay trên ứng dụng.
+
+Đồng thời, tích hợp thêm tính năng hỗ trợ tra cứu, quét mã QR thẻ bảo hiểm y tế, thẻ căn cước công dân để tự động điền các thông tin về: Mã số bảo hiểm xã hội, họ tên, địa chỉ… thay cho việc nhập bằng tay trong phần khai thông tin đăng ký tài khoản.
+
+Phiên bản mới cũng bổ sung tính năng lựa chọn gửi e-mail tờ khai. Theo đó, sau khi nhập xong tờ khai người dùng chọn gửi e-mail tờ khai tới cơ quan bảo hiểm xã hội đã chọn và chỉ cần xuất trình giấy tờ tùy thân khi đến cơ quan bảo hiểm xã hội để thực hiện bước xác minh tài khoản.
+
+Bên cạnh đó, bổ sung tiện ích "Mời cài đặt VssID" cho phép người dùng ứng dụng gửi tin nhắn với nội dung là đường dẫn để cài đặt VssID trên các kho ứng dụng của hệ điều hành AppStore và Google Play.
+
+Ngoài ra, bổ sung 1 dịch vụ công trực tuyến là “Cấp lại sổ bảo hiểm xã hội không thay đổi thông tin” dành cho cá nhân, nâng tổng số dịch vụ công trực tuyến đã được cung cấp trên ứng dụng lên 4 dịch vụ công.
+
+Phiên bản mới này còn bổ sung thêm một số tính năng khác như: Hiển thị ảnh cá nhân tại màn hình "Sử dụng thẻ bảo hiểm y tế"; phiếu điều chỉnh lương hưu tại mục "Thông tin hưởng/bảo hiểm xã hội hàng tháng”; bổ sung chức năng xem các loại “Giấy được cấp theo Thông tư 56/2017/TT-BYT” tại mục "Sổ khám chữa bệnh".
+
+Trước đó, Bảo hiểm xã hội Việt Nam cũng đã có công văn gửi Bộ Y tế, đề nghị Bộ này cho ý kiến thống nhất về việc sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID trong khám chữa bệnh bảo hiểm y tế trên phạm vi toàn quốc, kể từ ngày 1/6/2021.

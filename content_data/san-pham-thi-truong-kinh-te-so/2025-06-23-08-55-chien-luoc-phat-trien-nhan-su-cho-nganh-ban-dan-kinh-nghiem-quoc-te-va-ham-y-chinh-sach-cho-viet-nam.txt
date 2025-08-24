@@ -1,0 +1,59 @@
+Ngành công nghiệp bán dẫn đã và đang trở thành trụ cột của nền kinh tế toàn cầu, đóng vai trò then chốt trong việc thúc đẩy tiến bộ công nghệ và tăng trưởng kinh tế. Với doanh thu dự kiến đạt 600 tỷ USD vào năm 2025, ngành này đang trở thành một trong những lĩnh vực cạnh tranh khốc liệt nhất trên thế giới. Trong bối cảnh đó, Chính phủ Việt Nam đã ban hành nhiều chính sách thúc đẩy công nghiệp công nghệ cao, như chiến lược “Make in Vietnam” và quá trình chuyển đổi số quốc gia, trong đó ngành công nghiệp bán dẫn được xem là một trong những lĩnh vực ưu tiên, với tiềm năng tạo ra giá trị gia tăng cao và nâng cao vị thế của Việt Nam trong chuỗi giá trị toàn cầu.
+
+Việt Nam có nhiều lợi thế để phát triển ngành bán dẫn, bao gồm lực lượng lao động trẻ, chi phí nhân công cạnh tranh và vị trí địa lý chiến lược ở châu Á. Trong khi đó, nhu cầu chip bán dẫn toàn cầu ngày càng tăng cũng mở ra cơ hội cho Việt Nam tham gia vào các khâu sản xuất, lắp ráp và kiểm thử. Tuy nhiên, Việt Nam vẫn đối mặt với nhiều thách thức. Cơ sở hạ tầng công nghệ cao còn hạn chế, nguồn nhân lực chất lượng cao trong lĩnh vực bán dẫn còn thiếu hụt nghiêm trọng.
+
+Theo Bộ Khoa học và Công nghệ, nhu cầu nhân lực ngành công nghiệp bán dẫn của Việt Nam vào khoảng 5.000-10.000 kỹ sư mỗi năm, nhưng khả năng đáp ứng chỉ đạt khoảng 20%. Điều này cho thấy việc phát triển nguồn nhân lực là yếu tố then chốt để Việt Nam có thể cạnh tranh trong ngành công nghiệp bán dẫn.
+
+Ngành công nghiệp bán dẫn là một chuỗi giá trị phức tạp, bao gồm ba công đoạn chính: thiết kế, chế tạo, đóng gói/kiểm thử, mỗi công đoạn tạo ra những ngành nhỏ với yêu cầu nhân lực đặc thù.
+
+Trước hết, thiết kế là công đoạn sáng tạo nhất, nơi các kỹ sư phải sử dụng kiến thức sâu rộng về điện tử và phần mềm để phát triển các bản thiết kế vi mạch phức tạp. Công việc này không chỉ đòi hỏi hiểu biết kỹ thuật mà còn cần khả năng tư duy logic và sáng tạo để giải quyết các vấn đề tối ưu hóa chip, khiến đây trở thành công đoạn khó nhất về mặt kỹ năng.
+
+Tiếp theo, công đoạn chế tạo tập trung vào việc sản xuất wafer bán dẫn thông qua các quy trình vật lý và hóa học tinh vi. Tại đây, các kỹ sư quy trình đóng vai trò quan trọng với hiểu biết về vật liệu, hóa chất và công nghệ sản xuất, trong khi đội ngũ kỹ thuật viên cần tay nghề cao để vận hành các thiết bị hiện đại.
+
+Cuối cùng, công đoạn đóng gói và kiểm thử là bước hoàn thiện, nơi chip được lắp ráp và kiểm tra chất lượng trước khi xuất xưởng. Dù ít phức tạp hơn về mặt kỹ thuật, công đoạn này vẫn yêu cầu sự chính xác và tỉ mỉ từ các kỹ thuật viên để đảm bảo sản phẩm đạt tiêu chuẩn.
+
+Về nhu cầu nhân lực, kỹ sư thiết kế là nhóm khó đào tạo nhất do yêu cầu kiến thức chuyên sâu và khả năng sáng tạo vượt trội. Để trở thành một kỹ sư thiết kế giỏi, người học cần trải qua quá trình đào tạo dài hạn, thường từ 5 đến 10 năm, bao gồm cả học thuật và kinh nghiệm thực tiễn trong việc phát triển vi mạch.
+
+Ngược lại, kỹ thuật viên đóng gói và kiểm thử là nhóm dễ đào tạo hơn, vì công việc chủ yếu tập trung vào vận hành máy móc và thực hiện các quy trình kiểm tra chất lượng đã được chuẩn hóa, với thời gian đào tạo chỉ từ 6 tháng đến 2 năm. Kỹ sư quy trình nằm ở vị trí trung gian, đòi hỏi hiểu biết về lý thuyết và thực hành trong sản xuất, thường cần khoảng 3 đến 5 năm đào tạo. Sự khác biệt này xuất phát từ mức độ phức tạp và tính sáng tạo của từng công đoạn, do đó việc phát triển nhân lực cho ngành bán dẫn cần được ưu tiên theo mức độ khó khăn và vai trò nền tảng của từng nhóm.
+
+Chiến lược phát triển ngành công nghiệp bán dẫn của Đài Loan là một minh chứng cho tầm nhìn dài hạn và sự cam kết mạnh mẽ nhằm biến ngành này thành trụ cột kinh tế, với mục tiêu đóng góp khoảng 15-20% GDP. Chiến lược này kéo dài trong 30 năm, được chia thành ba giai đoạn rõ ràng, mỗi giai đoạn có mục tiêu cụ thể để từng bước nâng cao vị thế của Đài Loan trong ngành bán dẫn toàn cầu.
+
+Giai đoạn đầu tiên, từ 1980 đến 1990, Đài Loan tập trung vào xây dựng năng lực chế tạo giá rẻ, tận dụng chi phí lao động thấp để thu hút các công ty nước ngoài đặt nhà máy sản xuất tại Đài Loan. Đồng thời, Chính phủ Đài Loan cũng thành lập Viện Nghiên cứu công nghệ công nghiệp (ITRI) vào năm 1973, đào tạo và chuyển giao công nghệ, nhằm tạo nền móng cho công tác đào tạo và chuyển giao công nghệ trong những giai đoạn sau.
+
+Giai đoạn thứ hai - từ năm 1990 đến năm 2000 - đánh dấu sự chuyển dịch sang đầu tư mạnh mẽ vào nghiên cứu và phát triển (R&D) cùng thiết kế chip, nhằm tăng giá trị gia tăng và giảm phụ thuộc vào các tập đoàn nước ngoài. Trong giai đoạn này, các trường đại học như Đại học Quốc gia Đài Loan (NTU) và Đại học Giao thông Quốc gia (NCTU) hợp tác chặt chẽ với các công ty bán dẫn, phát triển chương trình đào tạo phù hợp và cung cấp cơ hội thực tập cho sinh viên.
+
+Bên cạnh đó, Đài Loan cũng mở rộng các chương trình thu hút nhân tài từ nước ngoài và khuyến khích người Đài Loan ở nước ngoài trở về làm việc. Các chính sách ưu đãi thuế và hỗ trợ nhà ở cũng được áp dụng để giữ chân nhân lực chất lượng cao.
+
+Giai đoạn thứ ba - từ năm 2000 đến nay - là thời kỳ Đài Loan phát triển công nghệ tiên tiến và mở rộng thị trường toàn cầu, với sự nổi lên của các công ty hàng đầu như TSMC và MediaTek, đưa Đài Loan trở thành một trong những quốc gia dẫn đầu thế giới về sản xuất chip.
+
+Về đào tạo nhân sự, Đài Loan ưu tiên phát triển kỹ sư chế tạo trước, sau đó mới đến kỹ sư thiết kế và R&D. Quyết định này xuất phát từ logic chiến lược: chế tạo là nền tảng cơ bản, giúp Đài Loan nhanh chóng tham gia chuỗi cung ứng toàn cầu và tạo nguồn thu để đầu tư vào các công đoạn phức tạp hơn. Trong giai đoạn đầu, họ tập trung vào kỹ sư chế tạo và kỹ thuật viên để vận hành nhà máy với chi phí thấp. Khi đã có nền tảng vững chắc, giai đoạn hai và ba chuyển hướng sang đào tạo kỹ sư thiết kế và nhà nghiên cứu, những người có thể phát triển công nghệ mới và cạnh tranh ở phân khúc cao cấp. Tổng cộng, Đài Loan đã đầu tư khoảng 100 tỷ USD vào chiến lược này, với hiệu quả được đảm bảo nhờ sự hợp tác chặt chẽ giữa chính phủ, doanh nghiệp và các học viện. Chính phủ đóng vai trò định hướng và hỗ trợ tài chính, doanh nghiệp triển khai sản xuất, còn các học viện cung cấp nguồn nhân lực chất lượng cao.
+
+Điểm mấu chốt cho sự thành công của Đài Loan nằm ở sự nhất quán trong chính sách, cam kết đầu tư dài hạn và văn hóa làm việc chăm chỉ của người Đài Loan. Chính sách nhất quán giúp duy trì định hướng chiến lược qua nhiều thập kỷ, đầu tư dài hạn đảm bảo nguồn lực cho các giai đoạn phát triển, còn văn hóa làm việc tạo nên lực lượng lao động có kỷ luật và hiệu quả cao. Vì vậy, bên cạnh sự cam kết của các cơ chế chính sách, yếu tố con người và văn hóa chính là chìa khóa quyết định sự thành công của chiến lược này.
+
+Để hiểu rõ hơn những nguyên nhân dẫn tới sự thành công của Đài Loan, chúng ta có thể nhìn lại những bài học kinh nghiệm từ Malaysia.
+
+Malaysia đã triển khai sáng kiến Hành lang siêu đa phương tiện (MSC) vào những năm 1990 và đầu tư vào giáo dục công nghệ cao nhằm thúc đẩy ngành bán dẫn. Tuy nhiên, các chính sách này thiếu sự nhất quán và dài hạn.
+
+Sự thiếu nhất quán thể hiện ở việc ưu tiên chính sách thay đổi theo từng giai đoạn chính trị, như thời Thủ tướng Mahathir Mohamad tập trung vào công nghệ thông tin, nhưng các chính phủ sau lại chuyển hướng sang dầu khí hoặc du lịch, làm gián đoạn sự phát triển của ngành bán dẫn. Sự thiếu dài hạn xuất hiện khi không có chiến lược liên tục qua nhiều thập kỷ, do biến động chính trị và thiếu cam kết đầu tư bền vững, khiến ngành này không thể cạnh tranh với các vùng lãnh thổ có kế hoạch rõ ràng như Đài Loan.
+
+Malaysia cũng đối mặt với tình trạng chảy máu chất xám, khi nhiều kỹ sư tài năng rời bỏ đất nước để tìm cơ hội tốt hơn ở nước ngoài, chủ yếu do mức lương thấp, điều kiện làm việc kém hấp dẫn và chính sách ưu đãi Bumiputera gây bất bình đẳng, đặc biệt với các nhóm gốc Hoa và Ấn Độ. Hệ sinh thái đổi mới trong ngành bán dẫn chưa phát triển mạnh mẽ vì thiếu sự hợp tác giữa trường đại học, viện nghiên cứu và doanh nghiệp; các trường đại học tập trung giảng dạy hơn nghiên cứu ứng dụng, còn doanh nghiệp chủ yếu là nhà máy lắp ráp nước ngoài như Intel, không thúc đẩy công nghệ bản địa. Nguyên nhân sâu xa là do quan liêu, thiếu cơ chế khuyến khích và hỗ trợ từ chính phủ.
+
+Cuối cùng, Malaysia thiếu sự hợp tác chặt chẽ giữa ngành công nghiệp và học thuật cũng như các chương trình thu hút, giữ chân nhân tài hiệu quả, bởi chính phủ chưa đầu tư đủ vào nghiên cứu chung hay ưu đãi như Đài Loan với “Reverse Brain Drain”, dẫn đến khoảng cách ngày càng lớn giữa hai quốc gia trong lĩnh vực này.
+
+Từ kinh nghiệm của Đài Loan và Malaysia, Việt Nam có thể rút ra một số bài học quan trọng để phát triển nguồn nhân lực cho ngành công nghiệp bán dẫn. Điểm mấu chốt là Việt Nam cần có chính sách hỗ trợ nhất quán và có thứ tự ưu tiên rõ ràng.
+
+Trước tiên và quan trọng nhất, Việt Nam cần đầu tư mạnh mẽ vào giáo dục và đào tạo, tăng cường các chương trình chuyên sâu về bán dẫn tại các trường đại học, viện nghiên cứu, đồng thời học hỏi Đài Loan để thành lập các trung tâm nghiên cứu và phòng thí nghiệm hiện đại. Đây là nền tảng để tạo ra đội ngũ nhân lực chất lượng cao.
+
+Tiếp theo, thúc đẩy hợp tác giữa ngành công nghiệp và học thuật bằng cách khuyến khích doanh nghiệp bán dẫn hợp tác với trường đại học, phát triển chương trình đào tạo thực tiễn và cung cấp cơ hội thực tập, giúp sinh viên tiếp cận công nghệ mới nhất. Sau đó, thu hút và giữ chân nhân tài thông qua chính sách đơn giản hóa visa, ưu đãi thuế, nhà ở cho chuyên gia quốc tế và khuyến khích người Việt Nam ở nước ngoài trở về.
+
+Tiếp đến, đầu tư vào R&D để phát triển công nghệ lõi và sản phẩm chip chuyên dụng, thông qua việc thành lập các trung tâm R&D thúc đẩy đổi mới.
+
+Cuối cùng, tạo môi trường thuận lợi cho doanh nghiệp bằng cách xây dựng khu công nghiệp chuyên biệt và cung cấp ưu đãi để thu hút các tập đoàn lớn như Samsung, Intel, TSMC. Trong đó, đầu tư vào giáo dục và đào tạo là quan trọng nhất, vì nó là cơ sở cho mọi hoạt động khác và quyết định sự phát triển bền vững của ngành bán dẫn tại Việt Nam.
+
+————————————
+
+(*) TS.Lê Trung Hiếu - TS.Nguyễn Đình Trung, Trường Đại học Kinh tế, Đại học Quốc gia Hà Nội
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 23-2025 phát hành ngày 09/06/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1440

@@ -1,0 +1,23 @@
+Khoảng một tuần trước, LinkedIn lặng lẽ đăng một bài đăng tiết lộ hiện tại họ đang sử dụng dữ liệu của người dùng để đào tạo các mô hình AI. Nhưng nhiều người dùng LinkedIn có thể không biết dữ liệu của họ đang bị “đánh cắp” để đào tạo AI ngay từ đầu, theo PCMag.
+
+LinkedIn và "các chi nhánh khác" đang sử dụng dữ liệu, bài đăng và nội dung trên các trang hồ sơ để đào tạo các mô hình AI, bao gồm cả những dữ liệu mà LinkedIn sử dụng để cung cấp dữ liệu đầu vào cho nhiều tính năng AI khác nhau của mình.
+
+LinkedIn không nêu rõ trong bài đăng chính xác "các chi nhánh" ở đây là tổ chức nào, nhưng LinkedIn thuộc sở hữu của Microsoft, công ty có mối quan hệ tài chính chặt chẽ với OpenAI.
+
+Khi được liên hệ để bình luận, một phát ngôn viên của LinkedIn trả lời PCMag qua email rằng "các chi nhánh" ám chỉ bất kỳ công ty nào thuộc sở hữu của Microsoft (Microsoft đã mua lại hơn 270 công ty kể từ năm 1986, bao gồm năm công ty AI).
+
+Tuy nhiên, người phát ngôn này nói thêm rằng LinkedIn không gửi dữ liệu người dùng đã thu thập được cho OpenAI. Tuy nhiên, LinkedIn sử dụng các mô hình OpenAI cho nền tảng của mình thông qua dịch vụ Azure AI của Microsoft.
+
+Thời điểm hiện tại, trong phần điều khoản bao gồm Thỏa thuận Người dùng, Chính sách Bảo mật và Chính sách Bản quyền của LinkedIn không chứa các từ "AI" hoặc "trí tuệ nhân tạo" ở bất kỳ khía cạnh nào. Nhưng các điều khoản của LinkedIn nêu rõ: "Bạn và LinkedIn đồng ý rằng chúng tôi có thể truy cập, lưu trữ, xử lý và sử dụng bất kỳ thông tin và dữ liệu cá nhân nào mà bạn cung cấp".
+
+LinkedIn cấm người dùng của mình bán hoặc kiếm tiền từ bất kỳ dữ liệu nào được công bố trên nền tảng truyền thông xã hội tập trung vào công việc. Tuy nhiên, LinkedIn mới đây lại thông báo họ đang triển khai các thay đổi đối với các chính sách này, cụ thể là Thỏa thuận Người dùng và Chính sách Bảo mật để thông báo về việc sử dụng dữ liệu của người dùng cho AI.
+
+Phó chủ tịch cấp cao kiêm Tổng cố vấn của LinkedIn Blake Lawit viết: "Chúng tôi đã thêm ngôn ngữ để làm rõ cách chúng tôi sử dụng thông tin bạn chia sẻ với chúng tôi để phát triển các sản phẩm và dịch vụ của LinkedIn và các chi nhánh của LinkedIn, bao gồm cả việc đào tạo các mô hình AI được sử dụng để tạo nội dung".
+
+Đáng chú ý là người dùng EU (hoặc những người dùng có VPN EU) được bảo vệ nhiều hơn từ chương trình đào tạo AI trên LinkedIn so với những người dùng ở nơi khác. Người dùng EU sẽ tự động được từ chối yêu cầu thu thập của LinkedIn. Vì vậy, LinkedIn sẽ không thu thập và đào tạo AI trên dữ liệu người dùng EU hoặc Thụy Sĩ "cho đến khi có thông báo mới".
+
+Đối với thông tin này, một số người cho rằng Microsoft nên trả tiền cho người dùng LinkedIn để thu thập dữ liệu của họ.
+
+Vì vậy, nếu không muốn Microsoft hay LinkedIn sử dụng dữ liệu và bài đăng trên LinkedIn của mình trong tương lai, bạn có thể tắt cài đặt trong Cài đặt > Quyền riêng tư dữ liệu > Dữ liệu để cải thiện AI tạo sinh.
+
+LinkedIn là một nền tảng mạng xã hội tuyển dụng phổ biến nhất trên toàn cầu, bắt đầu được thành lập từ năm 2002.

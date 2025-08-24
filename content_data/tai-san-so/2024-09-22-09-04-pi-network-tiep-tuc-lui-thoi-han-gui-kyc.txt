@@ -1,0 +1,37 @@
+Mới đây nhất, Pi Network đã thông báo gia hạn KYC (Know Your Customer – một quy trình xác minh danh tính người dùng). Việc gia hạn giúp người dùng của dự án này có đủ thời gian đăng ký KYC mà không làm trì hoãn các mục tiêu của Grace Period (thời gian ân hạn - là khoảng thời gian từ ngày khách hàng nhận tiền vay lần đầu tiên cho đến trước ngày bắt đầu của kì trả nợ đầu tiên, trong tiền số được hiểu là áp dụng với token).
+
+Mặc dù thời hạn KYC đã được gia hạn nhưng thời hạn cuối cùng để hoàn tất quá trình di chuyển sang mạng chính (mainnet) vẫn là ngày 31 tháng 12 năm 2024. Điều quan trọng là người dùng phải đáp ứng cả hai thời hạn, vì việc thiếu chúng có thể dẫn đến mất phần lớn số dư Pi trước đây của họ, ngoại trừ số Pi đã khai thác trong vòng 6 tháng qua.
+
+Theo thống kê, mới chỉ có 400.000 cuộc di cư mới diễn ra trong 75 ngày qua, nâng tổng số từ 5,8 triệu lên 6,2 triệu. Nhiều người ban đầu dự đoán con số này là khoảng 10 triệu.
+
+Tiện ích mở rộng này nhằm mục đích nâng cao tính toàn diện trong mạng, cho phép nhiều thành viên hơn đủ điều kiện di chuyển. Nó cũng giải quyết các vấn đề mà một số người dùng gặp phải sự không chính xác về bộ đếm thời gian KYC của họ, cung cấp thêm thời gian để đảm bảo mọi người đều có thể tham gia đầy đủ.
+
+Giá của token Pi Network dưới dạng ghi nợ (IoU) đã giảm hơn 75% so với mức cao nhất trong năm nay và đang dao động gần mức thấp nhất kể từ tháng 7. IoU này không liên kết với dự án chính thức và giao dịch với khối lượng thấp chỉ tại một số sàn giao dịch, nhưng giá của nó có thể sẽ hoạt động tốt hơn nếu có sự rõ ràng về việc ra mắt mạng chính.
+
+Diễn biến giá Pi coin (IoU) trong 3 tháng gần nhất (Theo Coin Gecko)
+
+Hành động sụt giá này đến từ mối lo ngại của các nhà phân tích và người dùng về việc liệu việc mở mạng chính (Open Mainnet) có diễn ra đúng hạn vào cuối năm 2024 hay không – một lời hứa mà các nhà phát triển đã đưa ra vào năm 2023.
+
+Các nhà phát triển đã đặt ra ba điều kiện thiết yếu phải đáp ứng để Pi có thể chuyển sang mạng mở. Điều kiện đầu tiên và đơn giản nhất là hầu hết những người tiên phong phải được xác minh để ngăn chặn thư rác. Cho đến nay, các nhà phát triển đã xác minh hơn 13 triệu người dùng.
+
+Hai điều kiện còn lại để ra mắt Pi coin khó đạt được hơn. Ví dụ: các nhà phát triển hướng tới một hệ sinh thái thịnh vượng gồm các ứng dụng phi tập trung (dApp), điều này sẽ mang lại cho đồng Pi nhiều tiện ích hơn. Việc khởi chạy mainnet sẽ diễn ra khi các dApp này đạt số lượng 100.
+
+Không rõ liệu có đủ dApp trong hệ sinh thái của Pi Network hay không. Một vài những ứng dụng đáng chú ý nhất trong hệ sinh thái bao gồm Pi Browser và Fireside Forum. Các nhà phát triển cũng đã ra mắt Pi Ad Network, mạng này sẽ được sử dụng để chạy quảng cáo trong dApps của Pi Network.
+
+Việc ra mắt đồng tiền Pi cũng sẽ phụ thuộc vào điều kiện thị trường thuận lợi hoặc thị trường tiền điện tử tăng giá.
+
+Mối quan tâm cơ bản về Pi Network là giá trị thực của các đồng Pi được khai thác, hiện vô giá trị vì chúng không thể đổi lấy tiền tệ fiat (tiền pháp định). Trong quá khứ, nhiều đồng tiền tương tự đã khiến các nhà đầu tư thất vọng sau khi ra mắt mạng chính.
+
+Gần đây nhất, DOGS, một token phổ biến trên Telegram, đã giảm hơn 41% so với mức cao nhất vào tuần trước. Tương tự, mã thông báo Sweat Economic đã giảm 95% so với mức cao nhất năm 2022. Trước khi ra mắt mạng chính, ứng dụng Sweatcoin đã có hơn 50 triệu lượt tải xuống trên toàn cầu.
+
+Một trong những vấn đề lớn chưa được giải quyết tiếp tục gây tranh cãi trong cộng đồng Pi Network là quản trị. Nhiều người mong đợi rằng Chương 3 của sách trắng hiện đang được thực hiện (White paper hay còn gọi là sách trắng giống như một bài báo giải thích vấn đề mà một dự án dự định giải quyết và cách thức dự định thực hiện). Khi hoàn thành, nó sẽ giải quyết các chủ đề thiết yếu như quản trị, cung ứng và phân cấp. Nếu không có chiến lược rõ ràng cho các lĩnh vực chính này, sự kiện Open Mainnet không thể tiếp tục.
+
+Việc mở rộng báo cáo chính thức sẽ cung cấp sự rõ ràng cần thiết về cách thức hoạt động của mạng sau khi Open Mainnet của Pi Network ra mắt. Dự kiến, mô hình quản trị, bao gồm cơ chế bỏ phiếu, hoạt động nút và quản lý cung cấp mã thông báo, sẽ được trình bày rõ ràng cho cộng đồng.
+
+Mặc dù vẫn còn một số trở ngại cần vượt qua, nhưng ngày càng có nhiều người lạc quan rằng Mainnet mở của Pi Network có thể xảy ra trên thực tế vào năm 2025.
+
+Tiền mã hóa hay tiền số vẫn chưa được pháp luật Việt Nam công nhận. Khoản 6, điều 26 Nghị định 88/2019/NĐ-CP về xử phạt hành chính trong lĩnh vực tiền tệ và hoạt động ngân hàng có quy định các hành vi phát hành, cung ứng, sử dụng các phương tiện thanh toán không hợp pháp (bao gồm cả bitcoin và các loại tiền mã hóa tương tự khác) sẽ bị xử phạt vi phạm hành chính mức từ 50 - 100 triệu đồng.
+
+Bên cạnh đó, trong Công văn 5747/NHNN-PC ngày 21-7-2017, Ngân hàng Nhà nước Việt Nam cũng khẳng định bitcoin, litecoin... và các loại tiền ảo, tiền mã hóa khác tiền tệ và không phải là phương tiện thanh toán hợp pháp theo quy định của pháp luật Việt Nam.
+
+Các chuyên gia an ninh mạng khuyến cáo người tham gia cần hết sức cân nhắc khi đầu tư thời gian, công sức hay tiền bạc vào bất cứ loại tiền ảo nào, không riêng gì Pi Network. Đặc biệt, cần thận trọng khi cung cấp các dữ liệu cá nhân cho các nền tảng này bởi không thể biết các dữ liệu này sẽ được dùng vào việc gì.

@@ -1,0 +1,19 @@
+Theo dự thảo chính sách mới này, Trung Quốc đang tìm cách thiết lập ít nhất 50 bộ tiêu chuẩn trí tuệ nhân tạo (AI) vào năm 2026, trong nỗ lực thu hẹp khoảng cách với Mỹ trong việc phát triển công nghệ này.
+
+Các tiêu chuẩn được đề xuất sẽ bao gồm những tiêu chuẩn liên quan đến đào tạo các mô hình ngôn ngữ lớn (LLM) – công nghệ làm nền tảng cho các dịch vụ AI tổng hợp như ChatGPT, cũng như các yêu cầu về an toàn, quản trị, ứng dụng công nghiệp, phần mềm, hệ thống máy tính, trung tâm dữ liệu và các yêu cầu kỹ thuật và các phương pháp thử nghiệm chất bán dẫn.
+
+Theo tài liệu được Bộ Công nghiệp và Công nghệ thông tin Trung Quốc (MIIT) công bố mới đây, ít nhất 1.000 công ty công nghệ Trung Quốc dự kiến ​​sẽ phải tuân thủ các tiêu chuẩn đó. Tài liệu cũng khẳng định Trung Quốc sẽ tham gia thiết lập ít nhất 20 tiêu chuẩn AI quốc tế.
+
+Sáng kiến ​​tiêu chuẩn hóa của MIIT cho thấy quyết tâm thực hiện nghị quyết của quốc gia này tại Liên Hợp Quốc mới đây. Cụ thể, Trung Quốc kêu gọi cộng đồng quốc tế tạo ra môi trường kinh doanh “tự do, cởi mở, toàn diện và không phân biệt đối xử” giữa các quốc gia giàu có và đang phát triển để phát triển AI. Nghị quyết này đã được nhất trí thông qua tại Đại hội đồng Liên hợp quốc.
+
+Dự thảo chính sách cho biết: “AI là công nghệ nền tảng và chiến lược thúc đẩy vòng cách mạng công nghệ và chuyển đổi công nghiệp mới”. Bằng cách đẩy nhanh quá trình hội nhập của AI vào nền kinh tế đất nước, MIIT cho biết điều này sẽ “thay đổi sâu sắc mô hình sản xuất công nghiệp và phát triển kinh tế”.
+
+Theo ông You Chuanman, Giám đốc Viện Trung tâm Quan hệ Quốc tế, dự thảo chính sách của MIIT đã cho thấy chính phủ nỗ lực tiếp cận thị trường thông qua luật mềm thay vì những văn bản chỉ đạo và kiểm soát thông thường nhằm thúc đẩy sự phát triển ngành AI của Trung Quốc.
+
+“Đó là một cách tiếp cận quản lý theo định hướng đổi mới và thân thiện với thị trường”, ông You Chuanman, Giám đốc Viện Trung tâm Quan hệ Quốc tế. “Điều này thiên về việc cho phép và thúc đẩy sự phát triển của công nghệ và hệ sinh thái”, ông cho rằng điều này sẽ mang đến những ảnh hưởng cho cả những ngành công nghiệp khác.
+
+Chính sách dự thảo của MIIT đã liệt kê tổng cộng 12 lĩnh vực là công nghệ quan trọng trong chuỗi cung ứng AI. Chúng bao gồm LLM, xử lý ngôn ngữ tự nhiên, thị giác máy tính và học máy – một lĩnh vực con của AI đề cập đến các hệ thống được sử dụng để thực hiện các nhiệm vụ phức tạp tương tự như cách con người giải quyết vấn đề.
+
+Chuỗi công nghiệp AI của Trung Quốc, theo dự thảo chính sách, sẽ được phân loại thành 4 danh mục: nền tảng – bao gồm sức mạnh tính toán, thuật toán và dữ liệu cần thiết để đào tạo LLM; khuôn khổ; mô hình và ứng dụng.
+
+Vào tháng 4, Alibaba Group Holding và Chủ tịch Alibaba Joe Tsai cho biết trong một cuộc phỏng vấn rằng Trung Quốc đã kém Mỹ hai năm trong cuộc đua toàn cầu để dẫn đầu phát triển AI và các doanh nghiệp nước này đang phải vật lộn với các hạn chế xuất khẩu công nghệ của Washington.

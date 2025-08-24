@@ -1,0 +1,37 @@
+Theo nghiên cứu, ước tính, doanh thu trên thị trường tài sản kỹ thuật số được dự đoán sẽ đạt 56.420 triệu USD vào năm 2023. Doanh thu dự kiến sẽ có tốc độ tăng trưởng hàng năm (CAGR 2023-2027) là 16,15%, dẫn đến tổng số tiền dự kiến vào năm 2027 sẽ đạt 102.700 triệu USD. Doanh thu trung bình trên mỗi người dùng trong thị trường tài sản kỹ thuật số lên tới 83,73 USD vào năm 2023.
+
+Trong thị trường tài sản kỹ thuật số, số lượng người dùng dự kiến sẽ lên tới 994,30 triệu người dùng vào năm 2027. Tỷ lệ thâm nhập của người dùng sẽ là 8,8% vào năm 2023 và dự kiến sẽ đạt 12,5% vào năm 2027. Việt Nam hiện đang đứng trong top 10 thế giới về tỷ lệ người sở hữu tiền mã hóa.
+
+Theo Boston Consulting Group, năm 2030 tài sản nằm ở dạng token chiếm 10% GDP toàn cầu, tương đương 16,1 nghìn tỷ USD. Trong năm 2022, con số này đang ở mức 0,31 nghìn tỷ USD và chiếm khoảng 0,4% GDP. Dự kiến trong năm 2023 sẽ đạt mức 0,6 nghìn tỷ USD và chiếm 0,6% GDP toàn cầu.
+
+Theo các chuyên gia, hiện nay nhiều quốc gia đã xây dựng chính sách, khuôn khổ pháp lý cho tài sản số như các nước châu Âu, Hàn Quốc, Hồng Kông (Trung Quốc). Đặc biệt trong nửa năm đầu 2023, thị trường tài sản số thế giới chứng kiến hai bước tiến về mặt pháp lý đó là: Đạo luật MiCA được Nghị viện châu Âu phê duyệt và Hồng Kông cho phép giao dịch bán lẻ tài sản số. Cùng với đó, một số nước khu vực châu Á như Trung Quốc, Thái Lan, Singapore… đã nêu quan điểm về tài sản số và đưa ra định hướng phát triển lâu dài.
+
+Theo ông Phan Đức Trung, Phó chủ tịch Thường trực Hiệp hội Blockchain Việt Nam, Luật MiCA dự kiến sẽ có hiệu lực vào năm 2024, nằm trong mục tiêu của Ủy ban châu Âu (EC) nhằm thiết lập khung pháp lý cho việc ứng dụng Blockchain và tài sản số trong ngành dịch vụ tài chính.
+
+Các tài sản số được MiCA quy định gồm: Asset- referenced tokens (ART), Electronic money tokens (EMT) và Tài sản mã hóa không phải ART hay EMT (ví dụ: utility token). MiCA đưa tất cả các nhà phát hành và nhà cung cấp dịch vụ tài sản mã hóa vào một khuôn khổ cấp phép theo quy định và tạo một khung pháp lý cụ thể cho các loại stablecoin.
+
+Hoa Kỳ đang tiếp cận với tài sản số và tiền điện tử bằng cách phát triển các quy định và chính sách mới để đảm bảo tính an toàn, minh bạch và tuân thủ pháp lý từ cấp tiểu bang cho các hoạt động liên quan đến tài sản số. Các tiểu bang có hệ thống luật chi tiết tốt hơn các điều chỉnh liên bang.
+
+Tại Hàn Quốc, Quốc hội nước này đã thông qua Đạo luật bảo vệ người dùng tài sản ảo hồi đầu tháng 7/2023. Đây được xem là bước tiến nhằm củng cố thị trường tài sản số tại Hàn Quốc sau vụ sụp đổ của hệ sinh thái Terra/LUNA.
+
+Còn Hồng Kông đang phát triển thành trung tâm fintech châu Á. Các văn bản luật được ban hành và điều chỉnh hướng vào tài sản ảo và tiền mã hoá do Ủy ban Chứng khoán và giao dịch hàng hóa tương lai SFC ban hành áp dụng từ 1/6/2023 hướng tới thúc đẩy 3 nhóm: sàn giao dịch tài sản ảo; quản lý tài sản ảo và các nhà cung cấp dịch vụ fintech/blockchain… Với bước đi này sẽ là nơi hấp dẫn để những tài sản số, tài sản ảo chưa có nơi “trú ngụ” sẽ lựa chọn, tìm đến.
+
+Liệu Việt Nam có phải là điểm đến để thúc đẩy phát triển trong nước, tạo điều kiện cho các nhà đầu tư nước ngoài tìm đến, phát triển sản phẩm không?
+
+Nêu thực tế kinh nghiệm của EU, Nhật Bản, Mỹ, Trung Quốc trong xây dựng chính sách pháp lý quản lý với tài sản số, đại diện nhóm nghiên cứu về chính sách tài sản số, ông Nguyễn Khánh Bảo, Vụ Kế hoạch tài chính, Bộ Thông tin và Truyền thông, cho rằng ở Việt Nam chưa có quy định pháp lý cụ thể về tài sản số cũng như nguyên tắc vận hành.
+
+Qua rà soát hệ thống pháp luật liên quan với 8 luật và bộ luật, các văn bản quy phạm pháp luật này chưa có quy định phân loại và định danh một cách dứt khoát, rõ ràng các loại “tài sản mã hóa”.
+
+Hiện nay, tiền mã hóa, tài sản mã hóa, tài sản ảo là ứng dụng phổ biến nhất của Blockchain. Bà Phạm Hồng Hạnh, Vụ Kinh tế, Văn phòng Quốc hội, cho rằng Việt Nam vẫn chưa có một hành lang pháp lý cụ thể để thúc đẩy doanh nghiệp khởi nghiệp trong lĩnh vực Blockchain, đặc biệt là chưa có khung pháp lý liên quan đến huy động vốn qua việc phát hành tài sản mã hóa, tiền mã hóa (như ICO, ITO hay STO) và giao dịch tài sản mã hóa, tiền mã hóa, trong đó chủ yếu liên quan đến việc vận hành sàn giao dịch tài sản mã hóa, tiền mã hóa.
+
+Điều này dẫn tới tình trạng “chảy máu chất xám”, các doanh nghiệp khởi nghiệp lĩnh vực Blockchain hiện phải đăng ký công ty ở nước ngoài, dù trụ sở làm việc, công nghệ, nhân lực… ở Việt Nam. Nếu có khung pháp lý phù hợp, việc quản lý tài sản, gọi vốn khởi nghiệp, ứng dụng công nghệ này sẽ hiệu quả hơn, bà Hạnh nói.
+
+Đối với tài sản ảo, chưa có nhiều nước chính thức thừa nhận trên văn bản pháp luật, nhưng đã có những hành vi thực tế để dần “luật hóa” vấn đề “tài sản ảo”. Trong hội nhập và phát triển, việc thừa nhận “tài sản ảo” là tài sản trong Bộ luật Dân sự sẽ tạo cơ sở pháp lý vững chắc xác định các giao dịch liên quan đến tài sản ảo với tư cách là tài sản trong giao dịch dân sự để có thể xác lập quyền sở hữu; đồng thời tạo cơ sở để giải quyết các hành vi phạm tội, trộm cắp, lừa đảo “tài sản ảo” đang ngày càng tăng.
+
+Đối với tài sản mã hóa là xu hướng phát triển tất yếu, do đó cần có phương án quản lý phù hợp. Do tính chất phức tạp của tài sản mã hóa, kinh nghiệm quốc tế về quản lý tài sản mã hóa rất phong phú, đa dạng. Hiện nay, Việt Nam cũng như nhiều quốc gia trên thế giới không công nhận tiền mã hóa là đồng tiền pháp định; đồng thời, cũng chưa ghi nhận giá trị pháp lý của tài sản mã hóa là một loại hàng hóa hay một loại tài sản.
+
+Tuy nhiên, trên thực tế các giao dịch liên quan tới tài sản mã hóa vẫn diễn ra trên thị trường và không ngừng phát triển. Do tài sản mã hóa chưa được công nhận tính pháp lý là phương tiện thanh toán, hay tài sản, hàng hóa,... nên việc áp dụng các chính sách thuế hoặc quản lý như một loại chứng khoán đối với hoạt động ICO, ITO, STO đều không có cơ sở. Điều này làm cho Nhà nước thất thu đối với các hoạt động phát sinh nhiều lợi nhuận...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 30 - 2023 phát hành ngày 24 - 7 - 2023. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

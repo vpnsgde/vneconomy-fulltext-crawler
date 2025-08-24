@@ -1,0 +1,27 @@
+Bảo hiểm xã hội Việt Nam vừa ban hành Quyết định số 1864/QĐ-BHXH phê duyệt Đề án kết nối, xác thực và chuẩn hoá cơ sở dữ liệu quốc gia về bảo hiểm.
+
+Mục tiêu tổng quát nhằm tạo ra một hệ thống quản lý dữ liệu liên thông, kịp thời, chính xác và hiệu quả, phục vụ tốt hơn cho công tác quản lý Nhà nước, nâng cao chất lượng dịch vụ công; đảm bảo quyền lợi cho người dân tham gia và thụ hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Về mục tiêu cụ thể, thông qua việc thực hiện đề án nhằm xác thực danh tính, thông tin cá nhân; loại bỏ thông tin trùng lặp, không chính xác như: họ và tên, ngày sinh, nơi sinh, giới tính, số định danh cá nhân/căn cước công dân, mã số bảo hiểm xã hội… giữa cơ sở dữ liệu quốc gia về bảo hiểm, với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành khác.
+
+Từ đó, đảm bảo mỗi cá nhân chỉ có một mã số bảo hiểm xã hội, một mã thẻ bảo hiểm y tế được bổ sung số định danh cá nhân, căn cước công dân, và xác thực đúng với cơ sở dữ liệu quốc gia về dân cư.
+
+Mục tiêu tiếp theo là đảm bảo 100% người tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp có số định danh cá nhân, trong cơ sở dữ liệu quốc gia về bảo hiểm được xác thực thông tin, với cơ sở dữ liệu quốc gia về dân cư.
+
+Qua đó, tạo điều kiện thuận lợi cho việc quản lý và kiểm soát dữ liệu của mỗi cá nhân qua một số định danh cá nhân duy nhất, tạo sự liên thông dữ liệu giữa các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành để dễ dàng truy cập, chia sẻ thông tin, mà không cần thu thập lại từ công dân, giảm bớt các giấy tờ và thủ tục không cần thiết.
+
+Đồng thời, nâng cao chất lượng và hiệu quả quản lý, ngăn chặn các hành vi gian lận trục lợi quỹ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Ngoài ra, thực hiện đề án cũng giúp tăng cường hiệu quả của các dịch vụ công, giúp người tham gia, thụ hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp dễ dàng sử dụng các dịch vụ công trực tuyến.
+
+Đơn cứ như: Đăng ký đóng, hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp; tra cứu thông tin, quyền lợi bảo hiểm trên Cổng Dịch vụ công quốc gia và Cổng dịch vụ công của ngành Bảo hiểm xã hội một cách nhanh chóng, chính xác, hiệu quả; đảm bảo quyền lợi và nghĩa vụ của người tham gia và thụ hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Bên cạnh đó, thúc đẩy cải cách hành chính, góp phần xây dựng và phát triển Chính phủ số, kinh tế số, xã hội số, phục vụ ngày càng tốt hơn cho người dân, đơn vị và doanh nghiệp.
+
+Đề án đưa ra 4 giải pháp về công nghệ. Đó là sử dụng công nghệ xác thực dữ liệu tự động như công cụ phân tích dữ liệu lớn (Big Data) và triển khai hệ thống AI tự động phân tích dữ liệu.
+
+(2) Phối hợp với các Bộ, ngành có cơ sở dữ liệu quốc gia và chuyên ngành liên quan xây dựng các dịch vụ dữ liệu để so sánh và đối chiếu dữ liệu thường xuyên.
+
+(3) Ứng dụng số định danh cá nhân và thông tin căn cước của người tham gia xuyên suốt trong các nền tảng, hệ thống thông tin của Bảo hiểm xã hội Việt Nam công bố trên trang Thông tin nền tảng số quốc gia; (4) Tái cấu trúc và xây dựng cơ sở dữ liệu quốc gia về bảo hiểm đồng bộ với Đề án 175 về xây dựng Trung tâm dữ liệu quốc gia.
+
+Đồng thời, Đề án cũng đưa ra các giải pháp cụ thể để thực hiện kết nối, xác thực, chuẩn hoá cơ sở dữ liệu quốc gia về bảo hiểm, với cơ sở dữ liệu quốc gia về dân cư, cơ sở dữ liệu quốc gia về đăng ký doanh nghiệp; thông tin, dữ liệu theo quy định tại Quyết định 3074/QĐ-BYT của Bộ Y tế quy định nhóm thông tin cơ bản về y tế thuộc cơ sở dữ liệu quốc gia về bảo hiểm, và với cơ sở dữ liệu chuyên ngành của Bộ Lao động - Thương binh và Xã hội.

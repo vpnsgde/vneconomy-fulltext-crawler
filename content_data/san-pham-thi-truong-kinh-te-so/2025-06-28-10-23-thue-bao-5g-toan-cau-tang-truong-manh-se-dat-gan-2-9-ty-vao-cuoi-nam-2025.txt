@@ -1,0 +1,25 @@
+Báo cáo di động Ericsson tháng 6/2025 vừa được hãng này công bố nhấn mạnh, 5G đang tiếp tục đà tăng trưởng mạnh mẽ và được dự báo sẽ có khoảng 2,9 tỷ người dùng, tương đương gần một phần ba tổng thuê bao di động toàn cầu sử dụng 5G vào cuối năm 2025.
+
+Tại khu vực Đông Nam Á và Châu Đại Dương, số thuê bao 5G dự kiến đạt khoảng 630 triệu vào năm 2030, chiếm khoảng 49% tổng số thuê bao di động của khu vực.
+
+Cũng theo nghiên cứu từ báo cáo này, lưu lượng dữ liệu trên mỗi điện thoại thông minh dự kiến sẽ tăng từ 19 GB/tháng vào năm 2024 lên 38 GB/tháng vào năm 2030. Các mạng 5G đã xử lý 35% lưu lượng di động toàn cầu vào cuối năm 2024, và các nhà phân tích dự báo con số này sẽ vượt 80% vào cuối năm 2030.
+
+Tại Việt Nam, báo cáo cho biết Việt Nam đang có những bước phát triển vững chắc khi đã triển khai dịch vụ 5G từ tháng 10/2024, với ba nhà mạng đang cung cấp dịch vụ này. Theo bà Rita Mokbel, Chủ tịch kiêm Tổng Giám đốc Ericsson Việt Nam, từ 5G đến nền kinh tế số, công nghệ đang thúc đẩy làn sóng tăng trưởng tiếp theo tại Việt Nam. Các nhà cung cấp dịch vụ viễn thông đang nỗ lực phủ sóng 4G/5G trên toàn quốc.
+
+
+
+Để khai thác toàn diện tiềm năng của 5G, cần tiếp tục triển khai mạng 5G SA, đồng thời cần tăng cường xây dựng các trạm phát sóng băng tần trung. Khả năng vượt trội của 5G SA sẽ là chất xúc tác thúc đẩy làn sóng tăng trưởng kinh doanh mới.
+
+“Thực tế có rất nhiều use case 5G hiện hữu và tiềm năng trong tương lai, có thể tạo nên bước chuyển đổi mang tính đột phá cho các doanh nghiệp, giúp họ hoạt động hiệu quả hơn, sẵn sàng cho tương lai và phát triển bền vững hơn. Những cơ hội mà 5G mang lại sẽ không chỉ giúp các doanh nghiệp nhanh chóng thích nghi với những yêu cầu của thế giới mới mà quan trọng hơn, còn đóng góp vào sự phát triển kinh tế- xã hội của Việt Nam”, Chủ tịch kiêm Tổng Giám đốc Ericsson Việt Nam nhấn mạnh.
+
+Những tiến bộ gần đây trong mạng 5G SA, cùng với sự phát triển của các thiết bị hỗ trợ 5G, đã góp phần tạo nên một hệ sinh thái vững mạnh, mở ra những cơ hội đột phá cho sự sáng tạo kết nối.
+
+Để khai thác toàn diện tiềm năng của 5G, bà Rita Mokbel cho rằng điều thiết yếu là tiếp tục triển khai mạng 5G SA, đồng thời cần tăng cường xây dựng các trạm phát sóng băng tần trung. Khả năng vượt trội của 5G SA sẽ là chất xúc tác thúc đẩy làn sóng tăng trưởng kinh doanh mới.
+
+“Việc tăng cường triển khai mạng 5G SA sẽ tạo tiền đề vững chắc hơn cho việc mở rộng ứng dụng, tạo ra các use case mới dành cho cả doanh nghiệp lẫn người tiêu dùng”, bà Rita Mokbel khuyến nghị.
+
+Trong bối cảnh các thiết bị tích hợp trí tuệ nhân tạo sinh (GenAI) ngày càng phổ biến và các ứng dụng AI ngày càng trở nên tinh vi hơn, báo cáo chỉ rõ: các nhà phát triển ứng dụng cũng như các nhà cung cấp dịch vụ viễn thông cần tập trung nhiều hơn vào năng lực truyền tải dữ liệu uplink và giảm độ trễ xuống mức tối thiểu.
+
+Báo cáo cũng nhấn mạnh thiết bị 5G đang không ngừng được cải tiến, trong đó công nghệ GenAI trên điện thoại thông minh không còn giới hạn ở các dòng cao cấp mà đang dần được tích hợp vào nhiều phân khúc phổ thông hơn. Kính thông minh tích hợp AI cũng ngày càng hữu ích hơn nhờ khả năng tương tác bằng âm thanh.
+
+Bên cạnh đó, nhu cầu kết nối chuyên biệt đang gia tăng nhằm phục vụ các ứng dụng mới dành cho cả người tiêu dùng và doanh nghiệp. Đây sẽ là yếu tố then chốt giúp mang lại trải nghiệm chất lượng cao cho các trợ lý AI cá nhân hóa và các ứng dụng hội thoại thế hệ mới.

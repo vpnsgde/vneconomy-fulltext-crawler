@@ -1,0 +1,27 @@
+Theo tin từ Reuters, Cơ quan Quản lý Không gian mạng Trung Quốc (CAC) ngày 21/5 thông báo các sản phẩm của nhà sản xuất chip nhớ Mỹ Micron Technology đã không vượt qua các cuộc điều tra về an ninh mạng. Do đó, CAC sẽ cấm các đơn vị khai thác hạ tầng thông tin quan trọng trong nước mua sản phẩm của công ty này.
+
+Theo định nghĩa về cơ sở hạ tầng thông tin quan trọng của Trung Quốc, lệnh cấm sẽ áp dụng với các lĩnh vực từ vận tải cho tới tài chính.
+
+“Cuộc đánh giá phát hiện các sản phẩm của Micron tiềm ẩn những rủi ro nghiêm trọng về an ninh mạng, theo đó gây ra mối đe dọa lớn về an ninh cho chuỗi cung ứng cơ sở hạ tầng thông tin quan trọng của Trung Quốc, từ đó ảnh hưởng tới an ninh quốc gia”, CAC nói trong một thông cáo.
+
+Theo Financial Times, phản ứng mềm mỏng của Bắc Kinh cho thấy sự phụ thuộc của Trung Quốc vào công nghệ chip nước ngoài và nước này cần thận trọng khi đưa ra bất kỳ biện pháp trả đũa nào...
+
+CAC không cung cấp chi tiết về những rủi ro này hay những sản phẩm của Micron sẽ bị ảnh hưởng bởi lệnh cấm.
+
+Về phía Micron, công ty cho biết đã nhận được thông báo kết luận về cuộc điều tra đối với sản phẩm đang bán tại Trung Quốc của mình. Công ty này khẳng định sẽ mong muốn “tiếp tục tham gia các cuộc thảo luận với nhà chức trách Trung Quốc”.
+
+Micron, có trụ sở tại bang Idaho, Mỹ, là một trong 3 công ty hàng đầu trên thị trường chip nhớ DRAM toàn cầu, cùng với Samsung Electronics và SK Hynix của Hàn Quốc.
+
+Hiện tại, khoảng 10% doanh thu của Micron đến từ Trung Quốc. Hiện chưa rõ quyết định của CAC sẽ ảnh hưởng thế nào tới hoạt động bán hàng của Micron cho các khách hàng nước ngoài ở Trung Quốc.
+
+Phần lớn sản phẩm của Micron bán tại Trung Quốc hiện được mua bởi các doanh nghiệp nước ngoài để sử dụng cho hoạt động sản xuất ở nước này. Do đó, theo các nhà phân tích, tác động về mặt thương mại của cuộc điều tra đối với Micron sẽ không lớn bởi công ty này vốn đã bắt đầu cắt giảm hoạt động tại thị trường Trung Quốc.
+
+“Micron có thể dễ dàng chuyển hướng tiêu thụ sản phẩm. Chip nhớ giờ đây đã được chuẩn hóa, vì vậy các mẫu chip dùng cho thiết bị của Lenovo có thể dễ dàng chuyển sang dùng cho sản phẩm của Dell”, ông Wang Lifu, nhà phân tích về chip tại công ty nghiên cứu ICwise ở Thượng Hải, nói.
+
+Trước đó, vào cuối tháng 3, nhà chức trách Trung Quốc thông báo mở cuộc điều tra đối với các sản phẩm của Micron. Thời điểm đó, công ty Mỹ cho biết đang hợp tác với nhà chức trách và hoạt động kinh doanh tại Trung Quốc của công ty vẫn diễn ra bình thường.
+
+Diễn biến mới nhất liên quan tới vụ việc này xảy ra trong bối cảnh căng thẳng giữa Mỹ và Trung Quốc liên quan tới công nghệ chip đang leo thang. Washington trước đó đã áp đặt một loạt biện pháp kiểm soát xuất khẩu công nghệ sản xuất chip cho Trung Quốc. Tháng 12 năm ngoái, Mỹ đã đưa Yangtze Memory Technologies Co., công ty sản xuất chip nhớ Trung Quốc, vào “danh sách đen”. Doanh nghiệp Mỹ bị cấm xuất khẩu công nghệ và dịch vụ cho những công ty nằm trong danh sách này nếu không có giấy phép và đây cũng không phải loại giấy phép dễ dàng được cấp.
+
+Phản ứng với cuộc điều tra của Bắc Kinh, cuối tháng 4, Mỹ đã đề nghị Hàn Quốc khuyến khích Samsung Electronics và SK Hynix không thúc đẩy hoạt động bán hàng ở Trung Quốc trong trường hợp Micron bị cấm bán hàng tại thị trường này.
+
+Về phía Trung Quốc, tháng 9/2021, nước này đưa ra một số quy định nhằm bảo vệ cơ sở hạ tầng thông tin quan trọng, theo đó yêu cầu các đơn vị khai thác cơ sở hạ tầng tuân thủ nghiêm ngặt các yêu cầu liên quan tới những lĩnh vực như bảo mật dữ liệu. Bắc Kinh định nghĩa các lĩnh vực được xem là “quan trọng” gồm truyền thông công cộng, vận tải… nhưng không nêu rõ chính xác loại công ty hoặc phạm vi kinh doanh áp dụng các quy định này.

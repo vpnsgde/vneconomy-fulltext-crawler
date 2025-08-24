@@ -1,0 +1,9 @@
+Đồ thị thông tin dưới đây thể hiện kết quả báo cáo Jobs of Tomorrow về chủ đề mô hình ngôn ngữ lớn và việc làm từ Diễn đàn Kinh tế Thế giới (WEF), trong đó thể hiện mức độ ảnh hưởng của AI tới các phòng ban trong tổ chức.
+
+Kết quả này có được thông qua phân tích hơn 19.000 nhiệm vụ thuộc gần 900 vị trí công việc trong các phòng ban để xác định những nhiệm vụ có mức độ phụ thuộc lớn vào ngôn ngữ, từ đó xác định mức độ tham gia của con người để hoàn thành nhiệm vụ đó.
+
+Với phân tích này, các nhà nghiên cứu có thể ước tính mức độ ảnh hưởng của trí tuệ nhân tạo tới các nhóm công việc khác nhau. Cụ thể trong bảng dưới đây:
+
+Những vị trí công việc bị “ảnh hưởng lớn” gồm vị trí có các nhiệm vụ có thể bị tự động hóa hoặc bị thay thế đáng kể bởi trí tuệ nhân tạo. Còn vị trí công việc có mức độ “ảnh hưởng nhỏ” gồm các nhiệm vụ về cơ bản không bị thay đổi.
+
+Có thể thấy, các công việc liên quan tới công nghệ thông tin (IT) và tài chính đứng trước nguy cơ bị trí tuệ nhân tạo tác động lớn nhất. Trong bộ phận IT, những nhiệm vụ có thể bị tự động hóa bao gồm bảo đảm chất lượng phần mềm và báo cáo khách hàng. Còn ở bộ phận tài chính, các nhà nghiên cứu đánh giá AI có thể là công cụ hữu dụng trong việc ghi sổ sách, kế toán và kiểm toán.

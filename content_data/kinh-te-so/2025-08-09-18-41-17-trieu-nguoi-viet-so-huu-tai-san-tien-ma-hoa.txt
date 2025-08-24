@@ -1,0 +1,27 @@
+Con số được ông Phan Đức Trung, Chủ tịch Hiệp hội Blockchain và Tài sản số Việt Nam (VBA) cho biết tại buổi tập huấn chuyên đề “Khung pháp lý và nhận diện nguy lừa đảo tài sản mã hoá” do VBA và Công ty 1Matrix tổ chức ngày 8/8.
+
+Tuy nhiên, theo số liệu của VBA, số người Việt Nam sở hữu tài sản tiền mã hóa (năm 2024) đã giảm khoảng 4 triệu người so với năm 2023 khi có tới 21 triệu người Việt sở hữu tài sản số này và đứng thứ 3 trên thế giới. Theo thống kê, trên 85% người làm việc tự do (freelancer) tại Việt Nam là sở hữu tài sản tiền mã hóa, xếp hạng số 1 toàn cầu.
+
+Cũng theo dữ liệu của VBA, dòng vốn từ thị trường Blockchain đổ vào Việt Nam giai đoạn 2023-2024 là trên 105 tỷ USD (lợi nhuận gần 1,2 tỷ USD trong năm 2023). Về sàn giao dịch, người Việt sử dụng nhiều sàn giao dịch tập trung quốc tế như Binance, OKX, BingX (quy trình mở tài khoản với các sàn này khá chặt chẽ, yêu cầu phải cung cấp email, số điện thoại, chứng minh nhân dân/căn cước công dân/hộ chiếu và ảnh chụp để xác minh danh tính).
+
+Ngoài ra, nhiều người Việt cũng sử dụng các sàn giao dịch phi tập trung như DYDX, Uniswap, PancakeSwap… Đặc điểm của các sàn này là không yêu cầu đăng ký, cho phép giao dịch ẩn danh và không cần cung cấp thông tin cá nhân, gây khó khăn cho việc quản lý và giám sát. Điều này cũng đồng nghĩa với việc tiềm ẩn rất nhiều rủi ro.
+
+Theo đánh giá của VBA, Blockchain và tài sản số đang là một lĩnh vực có tốc độ phát triển nhanh chóng chưa từng có. Bên cạnh việc ứng dụng để tạo ra các mô hình tài chính minh bạch, hiệu quả, công nghệ này cũng bị lợi dụng làm vỏ bọc cho các mô hình lừa đảo tinh vi dẫn đến những thiệt hại khổng lồ cho người dùng toàn cầu và Việt Nam cũng không ngoại lệ.
+
+Số liệu của Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05, Bộ Công an), cho biết chỉ tính riêng từ đầu năm 2025 đến nay, đã phát hiện gần 1.500 vụ việc lừa đảo qua mạng, gây thiệt hại hơn 1.660 tỉ đồng. Trong đó, riêng các hoạt động liên quan giao dịch tiền ảo, tiền mã hóa lên tới hơn 1.500 kênh, hội nhóm.
+
+Các hoạt động tấn công mạng cũng diễn ra ngày nguy hiểm hơn. Từ năm 2024 đến nay, phát hiện trên 42 triệu cảnh báo tấn công mạng, 420.000 cảnh báo phát hiện mã độc nhằm vào các hệ thống thông tin.
+
+Tại buổi tập huấn chuyên đề “Khung pháp lý và nhận diện nguy lừa đảo tài sản mã hoá”, ông Phạm Gia Khánh, Giám đốc Công nghệ CTCP NippyLabs, đưa ra 5 dấu hiệu tiềm ẩn rủi ro cao. Cụ thể, một trong những cảnh báo phổ biến là cam kết lợi nhuận vượt quá 15% mỗi năm – mức lãi suất phi thực tế thường được dùng để lôi kéo nhà đầu tư thiếu kinh nghiệm.
+
+Theo ông Khánh, cũng cần thận trọng với những token gần như không có thông tin rõ ràng trên các kênh truyền thông chính thống hay mạng xã hội, hay những lời mời gọi đầu tư vào lĩnh vực mà bản thân chưa từng tìm hiểu như meme coin, DeFi, Layer 1, Layer 2.
+
+Ngoài ra, token do cá nhân hoặc nhóm người mới quen giới thiệu nhưng không có thông tin công khai, chỉ được quảng cáo trong các hội nhóm kín hoặc có liên quan đến mô hình đa cấp hoặc KOLs trên mạng xã hội,… đều là những lưu ý quan trọng cần được truyền thông rộng rãi đến cộng đồng.
+
+Theo bà Nguyễn Vân Hiền, Phó Chủ tịch kiêm Tổng Thư ký VBA, mặc dù đi sau nhưng Việt Nam đang có tốc độ hoàn thiện pháp lý về công nghệ blockchain, tài sản mã hóa và các quy định liên quan rất nhanh chóng và có xu hướng thúc đẩy đổi mới sáng tạo hơn là quản lý hành chính.
+
+Theo bà Hiền, việc công nhận tài sản mã hoá là hợp pháp không những tạo ra cơ sở để bảo vệ nhà đầu tư và xử lý các hành vi vi phạm, mà còn thúc đẩy doanh nghiệp trong nước phát triển các mô hình đổi mới sáng tạo một cách chính danh.
+
+Ở góc độ truyền thông, ông Phan Đức Trung cho rằng trong kỷ nguyên số hóa mạnh mẽ, báo chí không chỉ là kênh truyền tải thông tin mà là cầu nối đa phương quan trọng, giúp kết nối giữa các nhà hoạch định chính sách - Chính phủ - doanh nghiệp và cộng đồng.
+
+Đồng thời, báo chí truyền thông cũng giữ vai trò định hướng dư luận theo hướng tích cực, góp phần định hình, nâng cao nhận thức, giúp cộng đồng theo kịp sự phát triển của các công nghệ kỹ thuật mới, giúp bảo vệ lợi ích cộng đồng, góp phần xây dựng một hệ sinh thái tài sản số an toàn, minh bạch và bền vững tại Việt Nam.

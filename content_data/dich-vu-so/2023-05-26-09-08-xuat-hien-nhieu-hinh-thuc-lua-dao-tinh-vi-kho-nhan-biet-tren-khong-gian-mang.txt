@@ -1,0 +1,33 @@
+Nhận định được ông Ngô Vi Đồng, Phó Chủ tịch Hiệp hội An toàn Thông tin Việt Nam, Chủ tịch Chi hội An toàn thông tin (VNISA phía Nam) tại hội thảo “Cảnh báo rủi ro và phòng chống lừa đảo qua mạng” ngày 25/5. Hội thảo do Hiệp hội An toàn Thông tin Việt Nam - VNISA phía Nam tổ chức.
+
+Tại hội thảo, các chuyên gia đến từ Sở Thông tin và Truyền Thông TP.HCM; Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao (PA05) - Công an TP.HCM; Cục Viễn thông – Bộ Thông tin và Truyền thông đã chia sẻ về tình hình tội phạm lừa đảo, cách thức tinh vi nguy hiểm của các đối tượng lừa đảo sử dụng công nghệ cao, đồng thời trao đổi những biện pháp phòng ngừa, những cơ sở pháp lý nhằm ngăn chặn và trấn áp tội phạm, đẩy mạnh công tác tuyên truyền nâng cao nhận thức và cảnh giác với tội phạm công nghệ cao, đảm bảo an toàn không gian mạng.
+
+Phó Giám đốc Sở Thông tin và Truyền thông TP.HCM Võ Minh Thành, cho biết, cách thức lừa đảo qua mạng phổ biến nhất hiện nay là các cuộc gọi lừa đảo qua mạng xã hội, từ đó chiếm dụng tài khoản qua mạng; hoặc gửi tin nhắn mạo danh ngân hàng… Mặc dù thông tin cảnh báo được gửi đi rất nhiều và phần lớn người dân ai cũng biết, thế nhưng vẫn có nhiều người bị mắc bẫy do hành vi lừa đảo quá tinh vi, khó nhận biết.
+
+
+
+Ông Lê Phạm Thiên Hồng Ân, chuyên gia nghiên cứu bảo mật IoT - Trung tâm An Toàn Thông Tin – VNPT cho biết: Gần đây, xuất hiện nhiều hiện tượng lừa đảo trên không gian mạng, đặc biệt là hạ tầng mạng viễn thông. Hacker đã lợi dụng các điểm yếu tồn tại trong hạ tầng mạng viễn thông để từ đó thực hiện các hành vi lừa đảo chiếm đoạt tài sản người sử dụng.
+
+Trong đó, một phương thức thường bị lợi dụng và xuất hiện nhiều trong thời gian gần đây là thực hiện giả mạo các trạm thu phát sóng di động gửi tin nhắn brand name (tin nhắn thương hiệu) đến khách hàng. Để đạt được điều này hacker tiếp tục sử dụng kỹ thuật chuyển chế độ từ 4G xuống 2G để gửi các tin nhắn giả mạo trên các thiết bị di động.
+
+Lợi dụng sự phát triển ngày càng vượt trội của công nghệ thông tin lẫn số lượng ví điện tử, trung gian thanh toán tại Việt Nam, tội phạm đánh bạc công nghệ cao đang có chiều hướng gia tăng và diễn biến phức tạp. Ông Phạm Lê Minh, Trưởng phòng An toàn thông tin Công ty cổ phần Dịch vụ Di động Trực tuyến (MoMo) đã có những chia sẻ về các giải pháp kỹ thuật mà MoMo đang áp dụng để xử lý vấn nạn này.
+
+Thời gian qua, MoMo liên tục chủ động nâng cấp, cải tiến hệ thống, sản phẩm, quy trình, quy định, xây dựng hệ thống bảo mật thông minh có khả năng nhận diện các giao dịch bất thường; từ đó, có thể phát hiện sớm, ngăn chặn kịp thời các hành vi lợi dụng MoMo để tổ chức cờ bạc và các hành vi vi phạm pháp luật khác trên không gian mạng.
+
+Theo chuyên gia Ngô Minh Hiếu (Hiếu PC) - Trung tâm Giám sát an toàn không gian mạng quốc gia Việt Nam (NCSC), đồng sáng lập Dự án Chống lừa đảo - rất nhiều vụ lừa đảo trên không gian mạng xảy ra gần đây. Trong đó, hình thức lừa đảo tiền bằng Deepfake video - sử dụng trí tuệ nhân tạo (AI) để lấy hình ảnh, giọng nói của một người ghép vào video người khác - đã xuất hiện. Nhiều vụ giả mạo khiến nhiều người mất tiền đã được nhóm Chống lừa đảo can thiệp.
+
+Còn chuyên gia Nguyễn Mạnh Luật, CEO Co-Founder CyberJutsu chia sẻ: Có đến 67% doanh nghiệp Việt Nam chưa hiểu an toàn về tấn công chuỗi cung ứng ("supply chain attack"). Những năm gần đây, số lượng các cuộc tấn công mã độc tống tiền (ransomware) tăng mạnh. Đặc biệt, trong các ngành y tế, bán lẻ, kinh doanh dịch vụ… gần đây nhất là vụ tấn công đòi tiền chuộc lên đến 40 triệu USD là CNA Financial.
+
+Chủ tịch VNISA phía Nam Ngô Vi Đồng cho biết, thời gian gần đây, hành vi lừa đảo trực tuyến trên không gian mạng đã trở nên phổ biến và phức tạp, có chiều hướng gia tăng hơn. Bằng nhiều thủ đoạn tinh vi, các đối tượng lừa đảo đã thu thập trái phép thông tin cá nhân của người dân hoặc giả mạo các tổ chức tài chính, ngân hàng để lừa đảo chiếm đoạt tiền.
+
+"Do đó, người dùng cá nhân và các tổ chức, doanh nghiệp cần nhanh chóng chuyển từ cách tiếp cận phản ứng sang chủ động bảo vệ trước các hình thức lừa đảo này trong kỷ nguyên số", ông Đồng khuyến cáo.
+
+
+
+Ngoài ra, xu hướng chuyển đổi số đang diễn ra mạnh mẽ với mục tiêu thúc đẩy năng suất, hiệu suất của toàn xã hội. Mọi hoạt động trong xã hội đang được số hóa, dữ liệu được hội tụ, hình thành các kho dữ liệu lớn. Bên cạnh đó, theo nghiên cứu của các chuyên gia bảo mật, những tiến bộ vượt bậc của công nghệ như hạ tầng Internet băng thông rộng, IoT, Big Data, AI… luôn đi kèm theo những rủi ro lớn. Thêm nữa những bất ổn về địa chính trị, sự đứt gãy chuỗi cung ứng, suy giảm kinh tế và tình trạng cạnh tranh, thù địch cũng là nguyên nhân gây mất an toàn thông tin, gia tăng tấn công lừa đảo sử dụng công nghệ cao…
+
+Trong năm 2023, VNISA phía Nam đã xây dựng một chương trình hành động mạnh mẽ về an toàn thông tin với nhiều hoạt động dành cho các cơ quan, tổ chức và doanh nghiệp. Qua đó, mong muốn cập nhật những thông tin mới nhất về khoa học công nghệ, kinh nghiệm thực tiễn trong lĩnh vực an toàn thông tin, chia sẻ và hợp tác giữa các công ty, chuyên gia an toàn thông tin với các cơ quan, tổ chức, doanh nghiệp và người dân nhằm thúc đẩy hoạt động chuyển đổi số.
+
+Bàn về giải pháp cho doanh nghiệp, chuyên gia Nguyễn Mạnh Luật cho rằng cần chia ra thành hai phương pháp tiếp cận là ngắn/trung hạn và dài hạn. Ở giải pháp ngắn hạn, các doanh nghiệp cần thường xuyên kiểm tra và cập nhật các bản vá bảo mật, sao lưu dữ liệu đầy đủ, thực hiện các xác thực đa yếu tố và thiết lập hệ thống theo dõi cũng như chống lừa đảo.
+
+“Ở dài hạn, doanh nghiệp cần nâng cao nhận thức, năng lực chuyên môn của đội ngũ chuyên trách lẫn nhân viên về an toàn, đồng thời tham vấn từ các chuyên gia hiểu biết và đầu tư đúng mức cho các hệ thống đề phòng rủi ro do các cuộc tấn công mạng”, ông Luận cho biết thêm.

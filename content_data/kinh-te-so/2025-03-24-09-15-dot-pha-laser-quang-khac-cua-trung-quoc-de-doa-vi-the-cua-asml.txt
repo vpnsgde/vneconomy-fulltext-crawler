@@ -1,0 +1,21 @@
+Nghiên cứu này được công bố bởi Hiệp hội Quang học và Quang tử Quốc tế (SPIE).
+
+Nếu công nghệ này có thể mở rộng quy mô sản xuất, nó sẽ trở thành một giải pháp thay thế cho các hệ thống in thạch bản hiện nay. Tuy nhiên, tính khả thi của việc ứng dụng laser trạng thái rắn trong sản xuất chip vẫn còn là một dấu hỏi lớn.
+
+Trước khi đi vào chi tiết về cách hoạt động của phương pháp Viện Hàn lâm Khoa học Trung Quốc, hãy cùng điểm qua cách mà ASML, Canon và Nikon tạo ra ánh sáng 193 nm – tiêu chuẩn công nghiệp cho các máy litho DUV hiện nay. Cũng cần lưu ý rằng, hệ thống Viện Hàn lâm Khoa học Trung Quốc vẫn đang trong giai đoạn thử nghiệm ban đầu và chưa thể so sánh trực tiếp với các hệ thống thương mại.
+
+Các máy in thạch bản DUV của ASML, Canon và Nikon tạo ra ánh sáng 193 nm bằng laser excimer argon fluoride (ArF). Quá trình này diễn ra theo các bước sau, bên trong buồng laser, hỗn hợp khí argon, flo và một loại khí đệm như neon được kích thích bằng các xung điện áp cao, khiến các nguyên tử argon và flo liên kết tạm thời thành phân tử ArF (excimer).
+
+Phân tử này nhanh chóng phân rã, nó giải phóng năng lượng dưới dạng photon – tức là phát ra ánh sáng có bước sóng 193 nm. Ánh sáng 193 nm có bước sóng rất ngắn, cho phép in các chi tiết cực nhỏ trên bề mặt tấm wafer bán dẫn, giúp chế tạo các vi mạch tiên tiến. Tuy nhiên, ánh sáng 193 nm từ laser không thể được sử dụng ngay lập tức mà cần tinh chỉnh qua hệ thống quang học để định hình, ổn định và dẫn hướng ánh sáng, trước khi đi vào máy quét thạch bản, nơi nó chiếu qua một mặt nạ quang (photomask) – tấm kính đặc biệt chứa bản thiết kế của con chip. Ánh sáng đi qua mặt nạ này sẽ tạo ra hình ảnh thu nhỏ của thiết kế trên tấm wafer silicon, giúp khắc các chi tiết mạch điện lên bề mặt chip.
+
+Trong khi đó, thiết bị thử nghiệm do Viện Hàn lâm Khoa học Trung Quốc phát triển tạo ra ánh sáng 193 nm bằng công nghệ laser trạng thái rắn, hoàn toàn không sử dụng laser excimer (nguồn sáng chính tạo ra tia sáng 193 nm) như các hệ thống truyền thống. Thay vào đó, quá trình này bắt đầu với một bộ khuếch đại tinh thể Yb:YAG tự chế, phát ra chùm laser 1030 nm. Sau đó, chùm tia được tách thành hai nhánh, mỗi nhánh trải qua một quá trình xử lý riêng để tạo ra các thành phần cần thiết cho bước sóng 193 nm.
+
+Ở nhánh đầu tiên, chùm tia 1030 nm được chuyển đổi thành 258 nm thông qua quá trình tạo sóng hài bậc bốn (FHG) – một kỹ thuật quang học giúp giảm bước sóng xuống còn một phần tư so với ban đầu. Nhánh này tạo ra công suất đầu ra 1,2 W.
+
+Ở nhánh thứ hai, phần còn lại của chùm tia 1030 nm được dùng để bơm một bộ khuếch đại tham số quang học (OPA), tạo ra chùm tia 1553 nm với công suất 700 mW.
+
+Cuối cùng, hai chùm tia 258 nm và 1553 nm được kết hợp trong các tinh thể lithium triborate (LBO) để tạo ra ánh sáng 193 nm, với công suất trung bình 70 mW và tần số 6 kHz. Viện Hàn lâm Khoa học Trung Quốc cho biết hệ thống thử nghiệm này có độ rộng quang phổ hẹp dưới 880 MHz, đạt độ tinh khiết tương đương với các hệ thống thương mại hiện nay.
+
+Tuy nhiên, so với các hệ thống laser excimer ArF của ASML, vốn có công suất 100–120W và tần số 9 kHz, hiệu suất của laser Viện Hàn lâm Khoa học Trung Quốc vẫn còn khá thấp.
+
+Dù công nghệ này bước đầu cho thấy tiềm năng, nhưng công suất đầu ra còn hạn chế, chưa thể đáp ứng nhu cầu sản xuất chip bán dẫn ở quy mô công nghiệp – đòi hỏi hiệu suất cao và quy trình ổn định. Có thể sẽ cần thêm nhiều thế hệ cải tiến nữa trước khi hệ thống này trở thành một lựa chọn thực tế trong ngành chế tạo chip.

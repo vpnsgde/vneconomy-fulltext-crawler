@@ -1,0 +1,37 @@
+Ngày 16/6, Bộ Công Thương tổ chức hội nghị “Phát triển hợp đồng điện tử tại Việt Nam - Triển khai Nghị định 85/2021/NĐ-CP”.
+
+Phát biểu tại hội nghị, Thứ trưởng Bộ Công Thương Nguyễn Sinh Nhật Tân cho rằng, từ lâu nay, trong hoạt động giao dịch xuyên biên giới, xuất nhập khẩu, các doanh nghiệp Việt Nam đã ký kết với các đối tác nước ngoài bằng các phương thức hợp đồng điện tử, đặc biệt với các đối tác tại các nước phát triển.
+
+Khảo sát của Bộ Công Thương trong sách trắng Thương mại điện tử 2021 cho thấy có 33% doanh nghiệp được khảo sát đã ứng dụng hợp đồng điện tử trong hoạt động thương mại.
+
+Mặt khác kể từ khi dịch Covid-19 bắt đầu xuất hiện cho đến nay, doanh nghiệp đang dần chuyển từ sử dụng hợp đồng, chứng từ bằng giấy thông thường sang sử dụng hợp đồng, chứng từ điện tử.
+
+Việc ứng dụng hợp đồng điện tử không chỉ giúp cho các doanh nghiệp và khách hàng của doanh nghiệp tiết kiệm thời gian, chi phí mà còn giúp giảm bớt ảnh hưởng của dịch bệnh, khoảng cách trong giao dịch thương mại.
+
+Ông Sinh cho rằng, đến thời điểm này hành lang pháp lý cho hoạt động chứng thực hợp đồng điện tử đã được hoàn thiện.
+
+Ngày 25/9/2021, Chính phủ đã ban hành Nghị định số 85/2021/NĐ-CP về việc sửa đổi, bổ sung một số điều của Nghị định số 52/2013/NĐ-CP về thương mại điện tử, quy định chi tiết về hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử; hoàn thiện hành lang pháp lý đối với các điều kiện, nghĩa vụ và quy trình đăng ký hoạt động đối với các Tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử (CeCA – Certified eContract Authority).
+
+Ngày 18/01/2022, Bộ Công Thương đã ban hành Thông tư số 01/2022/TT-BCT đổi, bổ sung một số điều của Thông tư 47/2014/TT-BCT và Thông tư số 59/2015/TT-BCT, quy định các hướng dẫn đối với quy chế hoạt động cung cấp dịch vụ chứng thực hợp đồng điện tử; hình thức công bố danh sách các thương nhân, tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử tại Việt Nam.
+
+“Như vậy, trong thời gian rất gần tới đây, trong năm 2022, người dân, doanh nghiệp sẽ có thể sử dụng hợp đồng điện tử thay thế hoàn toàn cho hợp đồng truyền thống với giải pháp chứng thực của các tổ chức cung cung cấp dịch vụ chứng thực hợp đồng điện tử được cấp đăng ký bởi Bộ Công Thương”, ông Tân nhấn mạnh.
+
+Với việc hành lang pháp lý cho hoạt động chứng thực hợp đồng điện tử tại Việt Nam đã được hoàn thiện, Bộ Công Thương đã giao Cục Thương mại điện tử và Kinh tế số phối hợp cùng các cơ quan quản lý nhà nước về cạnh tranh, bảo vệ quyền lợi người tiêu dùng, các tổ chức trọng tài thương mại, các cơ quan giải quyết tranh chấp… đẩy mạnh công tác chuyển đổi số, tạo thuận lợi cho doanh nghiệp trong hoạt động sản xuất, kinh doanh, phát triển thị trường.
+
+Ông Tân yêu cầu, việc phát triển hợp đồng điện tử tại Việt Nam cần phải đáp ứng đủ các tiêu chí, đóng vai trò xây dựng và phát triển thị trường ứng dụng thực tế của hợp đồng điện tử, giảm thiểu được việc lãng phí giấy tờ, tiết kiệm thời gian và tạo môi trường điều hành chuyên nghiệp.
+
+Đặc biệt các tổ chức cung cấp dịch vụ chứng thực hợp đồng điện tử (CeCA) sau khi được cấp đăng ký, có thể cung cấp dịch vụ chứng thực hợp đồng điện tử với quy trình đảm bảo tính bảo mật, chống chối bỏ, toàn vẹn dữ liệu và sẵn sàng khả năng kiểm tra, xác thực giá trị như bản gốc của hợp đồng điện tử.
+
+Tại hội nghị, đã diễn ra Lễ công bố Trục phát triển hợp đồng điện tử Việt Nam (www.CeCA.gov.vn). Hệ thống Trục sẽ đóng vai trò then chốt trong việc hỗ trợ các tổ chức Chứng thực hợp đồng điện tử trong hoạt động cung cấp dịch vụ, đồng thời cung cấp Cổng tra cứu, xác thực hợp đồng điện tử (xacthuc.CeCa.gov.vn) cho bên thứ ba.
+
+6 đơn vị CeCA tương lai các doanh nghiệp công nghệ đã ký kết triển khai tích hợp với Cục Thương mại điện tử và Kinh tế số về hệ thống Trục phát triển hợp đồng điện tử Việt Nam với mục tiêu thúc đẩy hoạt động chuyển đổi số tại Việt Nam, xây dựng hạ tầng thúc đẩy thương mại điện tử an toàn, nhanh chóng, tiện lợi, bảo mật.
+
+Ông Lê Đức Anh, Giám đốc Trung tâm tin học và Công nghệ số, Cục Thương mại điện tử và Kinh tế số (Bộ Công Thương) chia sẻ, đã có 17 đơn vị gửi công văn, hồ sơ đề nghị cấp đăng ký. Trong đó, 6 đơn vị đã tiến hành khảo sát và tích hợp với Trục phát triển hợp đồng điện tử Việt Nam để đảm bảo đáp ứng các tiêu chí nghiệp vụ, tiêu chuẩn kỹ thuật hệ thống khi kết nối, tích hợp.
+
+Cụ thể, mỗi giao dịch hợp đồng điện tử sẽ có gắn kèm với các quy chế về giải quyết tranh chấp, khiếu nại, xử lý các yếu tố phát sinh trong quá trình giao kết và thực thi hợp đồng. Điều này giúp cho doanh nghiệp, tổ chức, cá nhân, các bên thứ 3 có một cơ quan trung gian đủ tin cậy để giải quyết các vấn đề phát sinh khi thực hiện giao kết, hợp đồng dưới dạng điện tử.
+
+Dự kiến trong tháng 6, đầu tháng 7, các đơn vị đầu tiên đảm bảo đủ các yêu tố vận hành dịch vụ sẽ được cấp đăng ký.
+
+Ông Nguyễn Khơ Din, Tổng Giám đốc Công ty Nền tảng Chuyển đổi số Bkav SME, thành viên Tập đoàn Công nghệ Bkav, cho biết Bkav đã triển khai hợp đồng điện tử được hơn 3 năm nay và đã giúp Bkav mỗi năm tiết kiệm 70% chi phí về in ấn, chuyển phát, quy trình cung cấp sản phẩm cho khách hàng được rút ngắn 50% thời gian so với khi chưa  áp dụng hợp đồng điện tử.
+
+Ông Phan Hoàng Việt, Phó Tổng Giám đốc Tổng công ty viễn thông Viettel cũng nhận định, việc số hóa quy trình ký kết hợp đồng sẽ là nhu cầu thiết yếu trong tương lai gần. Đây chính là bước đệm để các doanh nghiệp bắt nhịp với xu thế chuyển đổi số toàn cầu.

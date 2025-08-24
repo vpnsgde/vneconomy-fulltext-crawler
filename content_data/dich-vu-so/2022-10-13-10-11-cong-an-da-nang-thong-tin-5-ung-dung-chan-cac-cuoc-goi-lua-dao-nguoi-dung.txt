@@ -1,0 +1,19 @@
+Trước các thủ đoạn lừa đảo qua điện thoại bằng nhiều hình thức, chiêu trò hù dọa người dùng vi phạm pháp luật như “liên quan đến các vụ án buôn bán hàng cấm” hoặc “nợ cước điện thoại với số tiền lớn” có nguy cơ bị kiện ra tòa và khóa thuê bao…, Phòng An ninh mạng và Phòng chống tội phạm công nghệ cao, Công an TP. Đà Nẵng đã có thông báo khuyến cáo người dân dùng các ứng dụng phổ biến để chặn các cuộc gọi đe dọa, đòi nợ...
+
+Theo đó, người dân dùng 5 ứng dụng dưới đây để chặn các cuộc gọi gây phiền hà trong cuộc sống, sinh hoạt hằng ngày. Các ứng dụng cụ thể bao gồm:
+
+Ứng dụng thứ nhất, Call Control – Call Blocker: Với ứng dụng này, ngoài việc ngăn chặn các cuộc gọi quấy rối, còn giúp lọc tin nhắn SMS lừa đảo. Người dùng có thể tìm kiếm danh tính, kích hoạt chế độ không làm phiền hoặc tạo danh sách đen để ngăn chặn các số điện thoại thường xuyên quấy rối.
+
+Ứng dụng thứ hai, Mr.Number – Caller ID & Spam: Đây là một trong những ứng dụng ngăn chặn thư rác phổ biến nhất trên Android. Khi khởi động ứng dụng, người dùng không cần thiết phải thiết lập thông số rườm rà bởi nó đã tạo sẵn một danh sách các số điện thoại quấy rối do cộng đồng người dùng đóng góp.
+
+Ưng dụng thứ ba, TrueCaller: Có khá nhiều cách ngăn chặn theo cách thủ công, chặn trong danh bạ, chặn từ nhật ký cuộc gọi và chế độ nâng cao (ví dụ như chặn các số điện thoại có chứa dãy 456 ở cuối, ở đầu hoặc nằm giữa). Những cuộc gọi xuất phát từ các số điện thoại bị chặn sẽ tự động được từ chối.
+
+Ứng dụng thứ tư, Call Blocker – Blacklist: Ứng dụng này sẽ giúp người dùng ngăn chặn những cuộc gọi lừa đảo, nhá máy một lần và dụ dỗ người dùng gọi lại để trừ tiền. Mặc định tính năng Block one-ring phone scam đã được kích hoạt sẵn trong phần cài đặt.
+
+Ứng dụng thứ năm, là Hiya: Spam Blocker & Caller ID: Khi có cuộc gọi đến, Hiya sẽ kiểm tra đây có phải là số quấy rối hay không. Ngoài ra, ứng dụng còn có khả năng phát hiện virus, phần mềm độc hại được đính kèm bên trong tin nhắn SMS.
+
+Ngoài ra, Cơ quan công an TP. Đà Nẵng cũng thường xuyên khuyến cáo người dân tuyệt đối không làm theo bất kỳ yêu cầu nào của các tin nhắn, cuộc gọi có dấu hiệu lừa đảo của các đối tượng như: tiếp cận bằng cách thực hiện liên tục các cuộc gọi thông báo tới số máy người dùng các thông tin không có thật, rằng chủ thuê bao sẽ bị cắt dịch vụ, muốn giải quyết, xử lý sự cố thì phải liên hệ tới số điện thoại "tổng đài" do đối tượng cung cấp, lưu lại bằng chứng như tin nhắn hoặc ghi âm cuộc gọi và phản ánh tới doanh nghiệp cung cấp dịch vụ viễn thông để xử lý…
+
+Nếu người dùng gọi lại số "tổng đài", đối tượng sẽ nhanh chóng khai thác, yêu cầu cung cấp đầy đủ thông tin cá nhân như họ tên, địa chỉ, số chứng minh nhân dân, căn cước công dân... để được hỗ trợ kỹ thuật. Nhưng thực chất các đối tượng ngay lập tức sẽ hướng dẫn người dùng làm các bước tiếp theo như thực hiện cú pháp sang tên đổi chủ thông tin số điện thoại, cú pháp chuyển hướng cuộc gọi và chiếm quyền.
+
+Khi đó, đối tượng lừa đảo sẽ đăng nhập ứng dụng ví điện tử, tài khoản mạng xã hội của người dùng và khai báo quên mật khẩu đăng nhập, chọn tính năng nhận thông báo mã OTP để dễ dàng chiếm đoạt tiền trong tài khoản ngân hàng liên kết với ví điện tử của người dùng.

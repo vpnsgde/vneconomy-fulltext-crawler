@@ -1,0 +1,39 @@
+Thủ tướng Chính phủ Phạm Minh Chính vừa gửi Công điện số 103/CĐ-TTg ngày 30/6/2025 yêu cầu các bộ, ngành và địa phương đẩy mạnh kết nối, chia sẻ dữ liệu giữa các cơ sở dữ liệu quốc gia và chuyên ngành, nhằm đảm bảo hoạt động trơn tru, hiệu quả, không gián đoạn.
+
+Công điện số 103/CĐ-TTg được ban hành trong bối cảnh nhiều hệ thống dữ liệu đã được xây dựng nhưng việc kết nối và khai thác vẫn còn nhiều bất cập. Đây là một phần trong lộ trình thực hiện Kế hoạch số 02-KH/BCĐTW của Ban Chỉ đạo Trung ương về phát triển khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.
+
+Trước mắt, Bộ Công an được giao chủ trì xây dựng các Nghị định hướng dẫn thi hành Luật Bảo vệ dữ liệu cá nhân – đạo luật vừa được Quốc hội thông qua tại Kỳ họp thứ 9.
+
+Ngoài ra, Bộ này cũng sẽ phối hợp với Bộ Khoa học và Công nghệ và các đơn vị liên quan xây dựng quy định cụ thể về việc chia sẻ dữ liệu giữa các cơ quan trong hệ thống chính trị, trong đó làm rõ danh mục dữ liệu bắt buộc phải chia sẻ, tiêu chuẩn kỹ thuật kết nối và trách nhiệm thực hiện. Mốc thời gian hoàn thành là trong tháng 8/2025.
+
+Song song đó, các bộ, ngành cũng sẽ xây dựng Khung kiến trúc dữ liệu quốc gia tổng thể, khung quản trị dữ liệu, từ điển dữ liệu dùng chung… nhằm tạo nền tảng thống nhất và đồng bộ giữa các cấp quản lý. Việc này đặc biệt cần thiết trong bối cảnh phân cấp, phân quyền ngày càng rõ nét trong quản lý nhà nước.
+
+Về phía Bộ Khoa học và Công nghệ, nhiệm vụ trọng tâm là hoàn thiện Khung Kiến trúc tổng thể quốc gia số – bộ khung kỹ thuật bảo đảm sự liên thông, kết nối giữa các khối cơ quan như Đảng, Nhà nước, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội, từ Trung ương đến cấp xã.
+
+Các địa phương và bộ ngành cũng được yêu cầu khẩn trương ban hành bộ tiêu chuẩn kỹ thuật riêng cho ngành mình, bảo đảm việc kết nối dữ liệu lên Trung ương diễn ra thông suốt. Đồng thời, cần chuẩn hóa dữ liệu đầu vào và thiết lập cơ chế chia sẻ dữ liệu với Trung tâm dữ liệu quốc gia theo các quy định chung của Chính phủ. Tất cả các nội dung này phải hoàn tất trong tháng 8/2025.
+
+Thủ tướng Chính phủ yêu cầu đẩy nhanh tiến độ xây dựng và đưa vào vận hành Trung tâm dữ liệu quốc gia vào ngày 19/8/2025. Đây sẽ là “trung tâm hạ tầng số dùng chung” cho toàn bộ hệ thống cơ quan nhà nước, bảo đảm an toàn, bảo mật và kết nối thông suốt giữa các bộ, ngành và địa phương.
+
+Trước đó, Bộ Công an được giao chủ trì rà soát toàn diện hiện trạng các cơ sở dữ liệu quốc gia, dữ liệu chuyên ngành. Trên cơ sở đó, các bộ, ngành, địa phương sẽ tiếp tục cập nhật, hoàn thiện dữ liệu theo từng lĩnh vực, bảo đảm thống nhất về cấu trúc, định dạng, tiêu chuẩn kỹ thuật để phục vụ kết nối liên thông toàn hệ thống.
+
+Song song, Bộ Khoa học và Công nghệ sẽ đánh giá năng lực hạ tầng số hiện có – từ mạng truyền số liệu chuyên dùng, nền tảng chia sẻ dữ liệu – để đảm bảo việc kết nối luôn được duy trì ổn định, không gián đoạn.
+
+Về phía dữ liệu, Thủ tướng giao Bộ Công an đôn đốc các bộ, ngành, địa phương đẩy nhanh quá trình xây dựng và đưa vào sử dụng các hệ thống dữ liệu thuộc danh mục ưu tiên.
+
+Cụ thể, 116 cơ sở dữ liệu quốc gia và chuyên ngành phải được hoàn thành và khai thác theo danh mục tại Nghị quyết 71/NQ-CP; 11 cơ sở dữ liệu trọng điểm cần hoàn thiện, chuẩn hóa và đưa vào sử dụng trong quý III/2025, theo Kế hoạch số 02 của Ban Chỉ đạo Trung ương; Dữ liệu từ các hệ thống chuyên ngành sẽ được đồng bộ với Cơ sở dữ liệu quốc gia về dân cư, theo Luật Căn cước 2023 và Nghị định 70/2024/NĐ-CP, hướng tới mục tiêu “người dân, doanh nghiệp chỉ phải cung cấp thông tin một lần”.
+
+Ngoài ra, Bộ Khoa học và Công nghệ sẽ hướng dẫn các địa phương, bộ ngành triển khai hệ thống cơ sở dữ liệu dùng chung, nhằm tránh trùng lặp, lãng phí và đảm bảo sự đồng bộ trong đầu tư công nghệ.
+
+Hoàn thiện các nền tảng dùng chung, chuẩn hóa và kết nối cơ sở dữ liệu, triển khai tích hợp, cung cấp giấy tờ điện tử trên VNeID, hoàn thành trong tháng 9/2025.
+
+Các doanh nghiệp công nghệ lớn như VNPT, Viettel, FPT, CMC, Mobifone, GTel… cũng được kêu gọi đồng hành, hỗ trợ các cơ quan trong việc nâng cấp, điều chỉnh hệ thống kỹ thuật để kết nối hiệu quả với cơ sở dữ liệu quốc gia về dân cư và định danh điện tử, bảo đảm dịch vụ công trực tuyến không bị gián đoạ
+
+Để các nhiệm vụ chuyển đổi số diễn ra đúng tiến độ, Thủ tướng yêu cầu các bộ, ngành, địa phương chủ động chuẩn bị đầy đủ về nguồn lực – cả tài chính lẫn nhân sự.
+
+Cụ thể, Bộ Tài chính sẽ phối hợp với Bộ Công an, Bộ Khoa học và Công nghệ cùng các đơn vị liên quan để bố trí kinh phí đầu tư, nâng cấp các hệ thống dữ liệu quốc gia, dữ liệu chuyên ngành và hạ tầng số.
+
+Về nhân lực, Bộ Nội vụ được giao rà soát thực trạng đội ngũ cán bộ làm công nghệ thông tin và chuyển đổi số tại các cơ quan nhà nước. Từ đó, xây dựng phương án tuyển dụng, đào tạo hoặc thuê chuyên gia công nghệ, tùy theo nhu cầu và đặc thù của từng ngành, địa phương.
+
+Chính quyền các tỉnh, thành phố cũng có trách nhiệm phân bổ ngân sách địa phương và huy động thêm các nguồn vốn hợp pháp để triển khai các nhiệm vụ được giao.
+
+Phó Thủ tướng Nguyễn Chí Dũng sẽ trực tiếp theo dõi, chỉ đạo việc thực hiện các nội dung của công điện.

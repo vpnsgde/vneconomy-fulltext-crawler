@@ -1,0 +1,33 @@
+Ngày 17/8/2024, HNX và Vietcombank tổ chức hội nghị Tổng kết 1 năm vận hành Hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ (19/7/2023-19/7/2024).
+
+Theo báo cáo của HNX, tại thời điểm khai trương (19/7/2023), thị trường có 19 mã trái phiếu doanh nghiệp riêng lẻ của 3 tổ chức phát hành đăng ký giao dịch với tổng giá trị đăng ký giao dịch 9.060 tỷ đồng. Dù vậy, sau một năm, đã có 1.146 mã trái phiếu của 301 doanh nghiệp với giá trị đăng ký giao dịch đạt gần 832.189,4 tỷ đồng được đưa lên hệ thống giao dịch. Tuy nhiên, có 103 mã trái phiếu doanh nghiệp đăng ký giao dịch thay đổi giảm; 120 mã trái phiếu doanh nghiệp huỷ đăng ký giao dịch. Do đó, đến ngày 19/7/2024, số lượng mã trái phiếu doanh nghiệp riêng lẻ đăng ký giao dịch là 1.026; giá trị đăng ký giao dịch là 747.485 tỷ đồng.
+
+Hiện tại đang có 151 tổ chức phát hành (doanh nghiệp) phát sinh giao dịch trên tổng số 301 tổ chức phát hành đăng ký giao dịch; tương ứng tỷ lệ 50,1%. Chỉ có 391 mã trái phiếu doanh nghiệp có giao dịch trên tổng số 1.026 mã trái phiếu đăng ký giao dịch, tỷ lệ 38,1%. Đáng chú ý trong đó, có 278 mã trái phiếu phi chuẩn hoặc không có đủ thông tin để tính giá trái phiếu (trái phiếu có kỳ trả lãi khác thường, trái phiếu có lãi suất thả nổi..). Theo HNX, tỷ lệ mã không đủ cơ sở để tính giá trái phiếu/ tổng số mã có phát sinh giao dịch là 71%.
+
+Thanh khoản trái phiếu doanh nghiệp riêng lẻ được cải thiện rõ rệt, giá trị giao dịch bình quân trong 1 tháng đầu tiên khai trương thị trường đạt 250,6 tỷ đồng/phiên. Sau 1 năm giá trị giao dịch trái phiếu doanh nghiệp riêng lẻ bình quân đạt 3.704,5 tỷ đồng/phiên. Thanh khoản trái phiếu doanh nghiệp riêng lẻ trên thị trường thứ cấp ghi nhận tăng mạnh vào tháng 12/2023 và đạt đỉnh trong tháng 6/2024 (5.000 tỷ đồng/phiên) sau đó quay đầu giảm trong tháng 7/2024.
+
+Về cơ cấu nhà đầu tư trên thị trường trái phiếu doanh nghiệp riêng lẻ thứ cấp, các tổ chức tín dụng là bên mua lớn nhất (chiếm 38,28% giá trị giao dịch toàn thị trường); đứng thứ hai là công ty chứng khoán (38,3%); các nhà đầu tư tổ chức khác như quỹ đầu tư (0,2%); công ty bảo hiểm (0,36%); nhà đầu tư nước ngoài (0,91%)… chiếm tỷ trọng nhỏ, mức độ tham gia thị trường trái phiếu doanh nghiệp còn hạn chế. Nhà đầu tư cá nhân chiếm 13,3% tỷ trọng giao dịch trên thị trường trái phiếu doanh nghiệp riêng lẻ thứ cấp.
+
+Với vai trò là ngân hàng thanh toán, Vietcombank đã thực hiện 243.146 giao dịch nộp/rút kể từ khi sàn giao dịch trái phiếu doanh nghiệp riêng lẻ đi vào hoạt động (19/7/2023-19/7/2024); tổng giá trị giao dịch đạt 1,6 triệu tỷ đồng. Vietcobank theo dõi thông tin giao dịch cho 193.161 nhà đầu tư với tổng giá trị giao dịch 793.000 tỷ đồng.
+
+Theo ông Vũ Quang Đông, Phó Giám đốc Phụ trách Khối Vốn Thị trường, Vietcombank, hệ thống của Vietcombank đã thực thiện thanh toán tức thời từng giao dịch, quản lý số dư tiền mua/bán trái phiếu tới từng nhà đầu tư.
+
+Theo đó, trái phiếu doanh nghiệp riêng lẻ được thanh toán tức thời vào ngày T0, đây là ưu điểm vượt trội của hệ thống so với các hệ thống thanh toán chứng khoán khác (T 1.5 với thị trường cơ sở và T 1 với thị trường phái sinh), giúp tăng khả năng thanh khoản của thị trường, đẩy nhanh tốc độ luân chuyển vốn.
+
+Hiệu năng hoạt động của hệ thống thanh toán giao dịch trái phiếu doanh nghiệp riêng lẻ đạt 2 triệu giao dịch/1 phút. Đại diện Vietcombank cho biết hệ thống được thiết kế đảm bảo hiệu năng xử lý và tốc độ mở rộng của thị trường qua các năm. Toàn bộ giao dịch kết nối với thành viên lưu ký được mã hóa và ký số đảm bảo an toàn, bảo mật. Quy trình vận hành, tác động hệ thống đảm bảo an toàn an ninh thông tin, tuân thủ các tiêu chuẩn, quy định của Ngân hàng Nhà nước đối với hệ thống thông tin cấp độ 3.
+
+Ngoài ra, ngân hàng thanh toán cũng quản lý thông tin số dư chi tiết của nhà đầu tư, giúp thông tin giao dịch của nhà đầu tư minh bạch, rõ ràng, hạn chế rủi ro, hướng tới mục tiêu tách biệt tài khoản giao dịch chứng khoán và tài toàn tiền gửi của nhà đầu tư theo định hướng của Uỷ ban Chứng khoán Nhà nước.
+
+Tại hội nghị, bà Vũ Thị Chân Phương, Chủ tịch Uỷ ban Chứng khoán Nhà nước, đã đề nghị các đơn vị nghiên cứu, triển khai 5 giải pháp cụ thể để xây dựng và phát triển thị trường trái phiếu doanh nghiệp riêng lẻ ngày càng bền vững.
+
+Thứ nhất,tiếp tục nâng cao chất lượng hàng hóa trên thị trường thông qua nâng cao chất lượng tổ chức phát hành. Có giải pháp cơ bản để kiểm soát chất lượng của trái phiếu doanh nghiệp riêng lẻ thông qua đẩy mạnh áp dụng định mức tín nhiệm đối với tổ chức phát hành trái phiếu doanh nghiệp riêng lẻ. Xem xét nâng điều kiện phát hành trái phiếu doanh nghiệp riêng lẻ để giảm thiểu việc nhiều doanh nghiệp mới thành lập chưa có hoạt động hoặc đã thành lập nhưng không có hoạt động có thể phát hành trái phiếu doanh nghiệp riêng lẻ với quy mô gấp nhiều lần vốn chủ sở hữu.
+
+Thứ hai,tiếp tục nâng cao chất lượng nhà đầu tư theo hướng thu hút nhà đầu tư chuyên nghiệp trong lĩnh vực tài chính, các nhà đầu tư tài chính, nhà đầu tư tổ chức nước ngoài.
+
+Thứ ba,sự phối hợp chặt chẽ giữa các cơ quan xây dựng chính sách, các tổ chức giám sát, các thành viên thị trường trong đề ra các giải pháp, sáng kiến thúc đẩy sự phát triển bền vững, lành mạnh của thị trường, giải quyết những khó khăn, tồn tại, vướng mắc trong quá trình hoạt động của thị trường.
+
+Thứ tư,xem xét thúc đẩy tiêu chuẩn hóa, nghiên cứu xây dựng và ứng dụng bộ tiêu chuẩn điều kiện, điều khoản mẫu cho trái phiếu doanh nghiệp tham khảo kinh nghiệm, thông lệ quốc tế để giải quyết thực trạng các trái phiếu có nhiều điều kiện, điều khoản khác như hiện nay.
+
+Thứ năm,nghiên cứu khuyến khích phát triển hệ sinh thái cho thị trường thông qua phát triển và nâng cao chất lượng các tổ chức cung cấp dịch vụ, tổ chức trung gian thị trường như tổ chức tư vấn, tổ chức bảo lãnh, tổ chức nâng cao tín nhiệm (CGIF-Credit Guarantee and Investment Facility)...
+
+Thứ sáu,tăng cường công tác truyền thông về hoạt động, vận hành và quy định trên thị trường trái phiếu doanh nghiệp riêng lẻ để doanh nghiệp, các nhà đầu tư nâng cao hiểu biết về quyền, nghĩa vụ, trách nhiệm trong tuân thủ pháp luật, thực hiện các nghĩa vụ theo quy định.

@@ -1,0 +1,31 @@
+Ngày 26/11, nhóm cộng đồng GDG MienTrung đã phối hợp thực hiện với Sở Khoa học và Công nghệ TP. Đà Nẵng, Vườn ươm doanh nghiệp (DNES) và Trường Đại học Đông Á, tổ chức cuộc thi hackathon GDG DevFest MienTrung 2023 với đề tài “Ứng dụng trí tuệ nhân tạo trong lĩnh vực Thương mại điện tử”.
+
+Cuộc thi hackathon gồm 8 đội thi xuất sắc nhất đã trải qua hơn 2 tháng chuẩn bị, được chọn lọc từ 44 đơn vị đăng ký dự thi, với 16 ý tưởng tiềm năng, 36 giờ lập trình liên tục…, cùng sự góp mặt của 10 đơn vị đối tác nổi bật trong hệ sinh thái công nghệ tại địa phương với sự tham gia của hơn 400 sinh viên và lập trình viên, cùng Hội đồng Ban giám khảo là các chuyên gia trong lĩnh vực công nghệ và thương mại điện tử.
+
+Bà Trần Thanh Hoài Vân, Quản lý Nhóm cộng đồng GDG MienTrung, Trưởng Ban tổ chức chương trình, cho biết điểm nổi bật của chương trình năm nay là các thí sinh đều đã có nhiều kinh nghiệm tham dự các kỳ thi hackathon, có các bạn đã từng đạt giải Quán quân, Á quân tại những cuộc thi nổi bật khác tại địa phương và khu vực. Đây chính là yếu tố khiến cuộc thi năm nay thêm phần gay cấn và chất lượng các ý tưởng cũng có sự đột phá hơn.
+
+“DevFest là sự kiện được tổ chức bởi hơn 1.100 cộng đồng Google Developer Group (GDG) với đa dạng hình thức trên quy mô toàn cầu. Tại TP. Đà Nẵng, GDG MienTrung tự hào là đơn vị tiên phong xây dựng thành công mô hình hackathon cho cộng đồng địa phương với 6 mùa liên tiếp được tổ chức thành công”, bà Hoài Vân khẳng định.
+
+Theo bà Hoài Vân, năm 2023, GDG MienTrung quyết tâm mang chương trình hackathon đến  với cộng đồng lập trình viên tại Đà Nẵng, cùng đề tài “Ứng dụng Trí tuệ Nhân tạo (AI) để giải quyết các công việc trong ngành Thương mại Điện tử” - mang tính thực tiễn cao, thu hút nhiều sự quan tâm của cộng đồng công nghệ.
+
+Tại cuộc thi, các đội thi đã mang đến nhiều ý tưởng mang tính sáng tạo và cạnh tranh cao, với các giải pháp đa dạng giúp giải quyết nhiều bài toán trong ngành thương mại điện tử, như hỗ trợ thử đồ giúp đưa ra quyết định mua hàng, quản lý bán hàng đa nền tảng hay tạo trang quảng cáo sản phẩm tự động…
+
+Bên cạnh đó, các đội thi cũng thể hiện sự tâm huyết và trình độ kỹ thuật của mình khi ứng dụng nhiều công nghệ khác nhau để hiện thực hóa ý tưởng, đặc biệt là các công nghệ từ Google, như Flutter, Firebase, TensorFlow…
+
+Với những ý tưởng có tính sáng tạo cao và đòi hỏi áp dụng nhiều công nghệ, kỹ thuật đa dạng, nhưng với đặc thù mô hình cuộc thi hackathon, các đội thi chỉ có ít thời gian để cùng nghiên cứu, lập trình, kiểm thử và hoàn thiện dự án của mình, để sao cho vừa tối ưu thời gian một cách hiệu quả, vừa thể hiện được đầy đủ chức năng của sản phẩm và đảm bảo được tính hiệu quả về mặt kỹ thuật để có thể hoàn thành được dự án của mình.
+
+Phát biểu tại cuộc thi, bà Lê Thị Thục, Phó Giám đốc Sở Khoa học và Công nghệ Đà Nẵng, cho biết cộng đồng Công nghệ thông tin Đà Nẵng đang ngày một lớn mạnh và phát triển không ngừng, nhiều sự kiện công nghệ, hoạt động giao lưu, chia sẻ kiến thức đã được tổ chức trong những thời gian qua. Kể từ năm 2016 (tổ chức lần đầu tiên), sự kiện GDG DevFest MienTrung là một trong những sự kiện công nghệ luôn được cộng đồng mong chờ tổ chức vào hằng năm tại Đà Nẵng.
+
+Theo bà Thục, sự kiện GDG DevFest MienTrung 2023, với cuộc thi Hackathon đầy sáng tạo, chúng ta được nghe phần trình bày ấn tượng từ các dự án, các diễn giả trong lĩnh vực AI,  Machine Learning với mong muốn gia tăng nhận thức và sự quan tâm cộng đồng về công nghệ nhằm tối ưu công việc; tiếp cận thêm nhiều kiến thức cũng thông tin mới nhất về công nghệ.
+
+Ban tổ chức cũng mong muốn tạo ra một cộng đồng học tập và nghiên cứu giữa các lập trình viên và sinh viên công nghệ thông tin, duy trì và tiếp tục các hoạt động đào tạo, nghiên cứu và ứng dụng công nghệ để phát triển các dự án; tạo ra môi trường kết nối, tuyển dụng, tìm kiếm thành viên tham gia vào các chương trình, dự án khởi nghiệp công nghệ; phát hiện và ươm mầm những tài năng.
+
+“Sở Khoa học và Công nghệ sẽ tiếp tục đồng hành cùng chương trình và tiếp tục hỗ trợ các dự án khởi nghiệp đổi mới sáng tạo như: Hỗ trợ tham giam các chương trình ươm tạo thông qua các vườn ươm như DNES, hỗ trợ các dự án nhằm hoàn thiện sản phẩm, hỗ trợ  đăng ký bảo hộ sở hữu trí tuệ, truyền thông …”, bà Lê Thị Thục khẳng định.
+
+Trong suốt thời gian diễn ra cuộc thi, các thí sinh cũng được tham gia các phiên hướng dẫn đa dạng chủ đề về phát triển ý tưởng, quản lý sản phẩm, kỹ năng thuyết trình, bên cạnh các buổi đào tạo chuyên sâu về các công nghệ AI hay Flutter đến từ các chuyên gia công nghệ thuộc hệ sinh thái cộng đồng của Google, cũng như từ các công ty công nghệ có tiếng vang tại địa phương.
+
+Kết quả,Giải Nhất thuộc về Evie - Nền tảng giúp các thương hiệu (brands) kết nối với KOLs ảo; Giải Nhì: Try - Giải pháp hỗ trợ người dùng mua sắm trực tuyến, giúp tìm kiếm sản phẩm theo mô tả hoặc hình ảnh sản phẩm, tham quan và thử đồ trên cửa hàng ảo. Giải Ba: ChopAI - Giải pháp giúp tương tác khách hàng trên các nền tảng trực tuyến quyết định đến ý định mua hàng
+
+Giải Tiềm năng:Eracop - Tạo ứng dụng cho phép người thử đồ từ link shop mà họ nhập & gợi ý sản phẩm dựa trên độ tuổi, chiều cao, cân nặng. và Shoptimizer - Giải pháp độc đáo được tạo ra để tối ưu hóa trải nghiệm mua sắm của người dùng bằng cách kết hợp thông tin từ các đánh giá sản phẩm, xếp hạng, và danh tiếng của cửa hàng.
+
+Giải đội thi được yêu thích nhất:Optimus - Hệ thống CRM dùng cho doanh nghiệp, cá nhân quản lí khách hàng đa kênh, cho phép quản lí thông tin khách hàng, giao tiếp với khách hàng trên một kênh duy nhất.

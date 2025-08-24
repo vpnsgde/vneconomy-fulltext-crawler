@@ -1,0 +1,19 @@
+Trước đây, nếu cá nhân hay doanh nghiệp chưa hoàn thành nghĩa vụ thuế, có thể sẽ bị tạm hoãn xuất cảnh theo quy định của Luật Quản lý thuế. Dù quy định nhằm đảm bảo công bằng và nghĩa vụ với ngân sách nhà nước, nhưng không ít trường hợp gặp khó khăn khi cần xuất cảnh gấp.
+
+Do đó, ngành Thuế đã chủ động triển khai nhiều kênh thông tin như ứng dụng eTax Mobile, tin nhắn SMS, cảnh báo trên phương tiện truyền thông, giúp người nộp thuế biết sớm thông tin tạm hoãn xuất cảnh đã tự giác và chủ động thực hiện đi nộp các khoản thuế nợ kéo dài để được gỡ bỏ hạn chế xuất cảnh.
+
+Tính đến nay, đã có hơn 61.000 thông báo tạm hoãn xuất cảnh được gửi đi, với tổng số tiền nợ thuế trên 83.000 tỷ đồng. Trong đó, khoảng 5.000 tỷ đồng đã được thu hồi, riêng từ nhóm doanh nghiệp bỏ địa chỉ kinh doanh là hơn 250 tỷ đồng. Những con số này cho thấy việc áp dụng tạm hoãn xuất cảnh đã có hiệu quả nhất định.
+
+Tuy nhiên, phương thức “Thông báo tạm hoãn xuất cảnh” thủ công hiện tại (chuyển phát văn bản, đối chiếu thủ công...) còn bị hạn chế về thời gian xử lý, thiếu tính đồng bộ trong công tác quản lý và có thể phát sinh chi phí hành chính, từ đó cũng sẽ tạo khó khăn nhất định trong quá trình rà soát dữ liệu liên quan đến nghĩa vụ thuế của tổ chức, cá nhân.
+
+Chính vì vậy,  Cục Thuế đã chủ động phối hợp với Cục Quản lý xuất nhập cảnh (Bộ Công an) kết nối dữ liệu lớn (Big Data) giúp đẩy nhanh quy trình xác nhận nghĩa vụ thuế với thủ tục xuất nhập cảnh. Qua ba đợt vận hành thử nghiệm, hai đơn vị đã thống nhất về mặt kỹ thuật, bảo mật và quy trình trao đổi thông tin. Hệ thống mới sẽ chính thức được đưa vào vận hành ngay sau khi Quy chế phối hợp được ký kết trong tháng 5 này.
+
+Ông Phạm Quang Toàn, Trưởng Ban Chuyển đổi số (Cục Thuế), cho biết: “Đây là một trong những giải pháp kết nối dữ liệu lớn từ phía cơ quan Thuế đến cơ quan Công an, từ đó tạo điều kiện thuận lợi và góp phần quan trọng tháo gỡ ‘nút thắt’ trong hoạt động quản lý nhà nước, từ đó tạo điều kiện để người nộp thuế có thể nhanh chóng khắc phục và thực hiện nghĩa vụ thuế trước khi thực hiện các thủ tục liên quan đến xuất nhập cảnh”.
+
+Không chỉ giúp người dân và doanh nghiệp tiết kiệm thời gian, giải pháp mới còn góp phần nâng cao tính minh bạch trong quản lý thuế, đặc biệt với các cá nhân, doanh nghiệp có hoạt động kinh doanh xuyên biên giới. Với cơ quan quản lý, việc chia sẻ thông tin kịp thời sẽ giúp giám sát tốt hơn, ngăn chặn hành vi trốn thuế và đảm bảo công bằng trong thực thi chính sách.
+
+Đối với xã hội, việc kết nối và chia sẻ thông tin kịp thời giữa cơ quan Thuế và cơ quan Quản lý xuất nhập cảnh (Bộ Công an) là biểu hiện rõ nét của một nền hành chính hiện đại, công khai và có trách nhiệm.
+
+Về phía cơ quan quản lý, việc chia sẻ dữ liệu theo thời gian thực sẽ giúp nâng cao hiệu quả giám sát, góp phần xây dựng môi trường kinh doanh công bằng, ngăn chặn hành vi trốn thuế, đồng thời tăng cường kỷ cương ngân sách. Đại diện Cục Thuế khẳng định: “Đây là minh chứng rõ ràng cho một nền hành chính hiện đại, lấy người dân làm trung tâm phục vụ”.
+
+Ông Nguyễn Đức Huy, Phó Trưởng ban Nghiệp vụ Cục Thuế, đánh giá việc triển khai Quy chế phối hợp theo phương thức điện tử không đơn thuần là một bước cải tiến kỹ thuật, mà còn là lời khẳng định cho vai trò tiên phong của ngành Thuế trong quá trình chuyển đổi số, hướng tới hệ sinh thái quản lý hiệu quả, trách nhiệm và minh bạch hơn.

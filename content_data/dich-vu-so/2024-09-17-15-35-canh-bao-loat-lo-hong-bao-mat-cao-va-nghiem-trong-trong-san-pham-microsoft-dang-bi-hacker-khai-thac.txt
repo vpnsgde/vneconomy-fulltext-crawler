@@ -1,0 +1,27 @@
+Microsoft vừa phát hành danh sách bản vá tháng 9/2024 với 79 lỗ hổng an toàn thông tin trong các sản phẩm của mình; trong đó có 7 lỗ hổng mức nghiêm trọng và 71 lỗ hổng mức độ cao. Ngoài ra, Microsoft cũng đã khắc phục được 4 lỗ hổng zero-day đang bị khai thác trong thực tế.
+
+Trung tâm Giám sát an toàn không gian mạng quốc gia, Cục An toàn thông tin đánh giá, các lỗ hổng này có mức độ ảnh hưởng cao và nghiêm trọng, có thể bị đối tượng tấn công khai thác để thực hiện các hành vi trái phép, gây ra nguy cơ mất an toàn thông tin và ảnh hưởng đến các hệ thống thông tin của cơ quan, tổ chức và doanh nghiệp.
+
+Lỗ hổng an toàn thông tin tồn tại trên một số sản phẩm của Microsoft như: Microsoft Office and Components, Windows Hyper-V, Windows DHCP Server, Microsoft Streaming Service, Microsoft Management Console, Windows MSHTML Platform, Microsoft Dynamics 365 (on-premise),…
+
+Thông tin về các lỗ hổng an toàn thông tin trong các sản phẩm của Microsoft tháng 9/2024, Trung tâm Giám sát an toàn không gian mạng quốc gia lưu ý bản phát hành tháng này đặc biệt đáng chú ý vào các lỗ hổng an toàn thông tin có mức ảnh hưởng cao và nghiêm trọng.
+
+Từ thông tin ghi nhận được về các lỗ hổng bảo mật trong sản phẩm của hãng Microsoft, qua phân tích, Trung tâm Giám sát an toàn không gian mạng quốc gia đã điểm ra 13 lỗ hổng bảo mật ảnh hưởng mức cao và nghiêm trọng mà các cơ quan, tổ chức, doanh nghiệp trên toàn quốc cần đặc biệt lưu ý.
+
+Cụ thể, có 8 lỗ hổng bảo mật cho phép đối tượng tấn công thực thi mã từ xa, gồm: CVE-2024-43491 trong Microsoft Windows Update; 4 lỗ hổng CVE-2024-38018, CVE-2024-38227, CVE-2024-38228, CVE-2024-43464 trong Microsoft SharePoint Server; 2 lỗ hổng CVE-2024-21416 và CVE-2024-38045 trong Windows TCP/IP; và CVE-2024-43463 trong Microsoft Office Visio.
+
+CVE-2024-43491, CVE-2024-38018, CVE-2024-38227, CVE-2024-38228, CVE-2024-43464 là những lỗ hổng có mức nghiêm trọng. Trong số đó, CVE-2024-4349 sẽ ảnh hưởng đến Windows 10; còn các lỗ hổng CVE-2024-38018, CVE-2024-38227, CVE-2024-38228, CVE-2024-43464 anh hưởng tới Microsoft SharePoint Server 2019, Microsoft SharePoint Enterprise Server 2016, Microsoft SharePoint Server Subscription Edition.
+
+Đặc biệt, các đơn vị, doanh nghiệp cũng cần đặc biệt chú ý 5 lỗ hổng bảo mật ảnh hưởng mức cao và nghiêm trọng khác trong sản phẩm Microsoft, đó là CVE-2024-43461 trong Windows MSHTML Platform cho phép đối tượng tấn công thực hiện tấn công giả mạo; CVE-2024-38014 trong Windows Installer cho phép đối tượng tấn công thực hiện leo thang đặc quyền; 2 lỗ hổng CVE-2024-38217, CVE-2024-43487 trong Windows Mark of the Web và CVE-2024-38226 trong Microsoft Publisher đều cho phép đối tượng tấn công có thể vượt qua cơ chế bảo vệ.
+
+Với lỗ hổng CVE-2024-43461, các sản phẩm Windows 10, Windows 11, Windows Server 2008, 2012, 2016, 2019, 2022 sẽ bị ảnh hưởng. Còn 2 lỗ hổng CVE-2024-38217, CVE-2024-43487, các sản phẩm Windows 10, Windows 11, Windows Server 2008, 2012, 2016, 2019, 2022 sẽ bị ảnh hưởng.
+
+Đáng chú ý, Trung tâm Giám sát an toàn không gian mạng quốc gia chỉ ra có 5 lỗ hổng hiện đang bị khai thác trong thực tế đó là CVE-2024-43491 trong Microsoft Windows Update; CVE-2024-38014 trong Windows Installer; CVE-2024-43463 trong Microsoft Office Visio; CVE-2024-38226 trong Microsoft Publisher; và 2 lỗ hổng CVE-2024-38217, CVE-2024-43487 trong Windows Mark of the Web.
+
+Để đảm bảo an toàn, Trung tâm Giám sát an toàn không gian mạng quốc gia đề nghị các đơn vị, doanh nghiệp trên toàn quốc nghiên cứu thông tin về các lỗ hổng bảo mật được khuyến nghị, rà soát và xử lý các vấn đề về an toàn thông tin mạng trong hệ thống.
+
+Các chuyên gia cũng khuyến nghị các tổ chức, đơn vị, doanh nghiệp tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng.
+
+Bên cạnh đó, cần thường xuyên theo dõi kênh cảnh báo của các cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời các nguy cơ tấn công mạng.
+
+Các đơn vị, doanh nghiệp cần kiểm tra, rà soát, xác định máy tính sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng. Biện pháp tốt nhất để khắc phục là cập nhật bản vá cho các lỗ hổng an toàn thông tin theo hướng dẫn của hãng.

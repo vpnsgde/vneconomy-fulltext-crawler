@@ -1,0 +1,23 @@
+Câu hỏi trên sẽ được làm sáng tỏ vào tuần tới khi một số công ty công nghệ lớn nhất phố Wall sẽ báo cáo thu nhập hàng quý mới nhất của họ.
+
+Những kỳ vọng về sự phát triển của trí tuệ nhân tạo sẽ thay đổi thế giới là động lực để các công ty công nghệ chi tiêu mạnh tay cho việc đào tạo ra công nghệ này. Tuy nhiên, thực tế là vẫn chưa có nhiều con số cho thấy khách hàng sẵn sàng trả tiền để sử dụng công nghệ này trong cuộc sống hàng ngày, theo Financial Times
+
+Các nhà quan sát cho biết báo cáo thu nhập vào thứ năm tới của Microsoft sẽ rất được ngành quan tâm. Sự liên minh chặt chẽ của gã khổng lồ này với OpenAI và tuyên bố sẽ sớm đưa công nghệ này vào tất cả các phần mềm của họ đã đưa Microsoft luôn trở thành một trong những cái tên tâm điểm của cuộc thảo luận AI.
+
+Ba tháng trước, Microsoft cho biết sau khi bắt đầu thử nghiệm công nghệ AI được tích hợp trên nền tảng đám mây Azure, nhu cầu khách hàng của họ bắt đầu tăng. Điều này đã giúp nền tảng này của hãng tăng thêm 6 điểm phần trăm, mang lại gần 3 tỷ USD doanh thu tăng thêm mỗi năm.
+
+Gần đây, tập đoàn này cũng tiết lộ doanh số của Azure đã đạt 34 tỷ USD vào năm 2022, trong khi thời điểm đó, quy mô Azure nhỏ hơn hiện tại. Con số nghe có vẻ ấn tượng nhưng vẫn chỉ chiếm hơn 1% tổng doanh thu mà Microsoft dự kiến báo cáo trong năm nay, theo thông tin từ Financial Times.
+
+Copilot là một trợ lý AI được Microsoft thiết kế để hỗ trợ người dùng tương tác với công nghệ và nâng cao năng suất làm việc. Nó được tích hợp vào Windows 11, Microsoft 365, trình duyệt Edge và công cụ tìm kiếm Bing, mang lại trải nghiệm AI mượt mà trên các ứng dụng và thiết bị. Copilot sử dụng giao diện trò chuyện và các mô hình ngôn ngữ lớn để không chỉ cung cấp thông tin hoặc câu trả lời mà còn tạo ra nội dung mới hoặc thực hiện các hành động cần thiết khi nhận được các yêu cầu bằng ngôn ngữ tự nhiên từ con người. Tuy nhiên, cho đến nay, Microsoft vẫn chưa dự đoán được tác động của nó đến doanh thu.
+
+Chắc chắn sẽ có rất nhiều cuộc thảo luận từ các giám đốc điều hành công nghệ trong những ngày tới về những thử nghiệm đầy hứa hẹn và những dấu hiệu đầy hy vọng khi khách hàng bắt đầu tin vào AI tạo sinh.
+
+Trái ngược với sự mơ hồ của AI tạo sinh đối với lợi nhuận, các công ty trong ngành không ngừng đổ tiền vào cơ sở hạ tầng công nghệ cần thiết để hỗ trợ nó. Trong đó, Nvidia là công ty hưởng lợi rõ ràng nhất: doanh số bán chip trung tâm dữ liệu của hãng tăng gấp ba lần lên 47 tỷ USD vào năm ngoái. Năm nay, Phố Wall dự báo doanh số đó sẽ tăng gấp đôi, lên gần 100 tỷ USD.
+
+Các chuyên gia cho rằng tác động của AI tạo sinh đến doanh số bán hàng sẽ bắt đầu trở nên rõ ràng vào cuối năm nay hoặc năm 2025. Và nếu AI không sớm mang về lợi nhuận, bất kỳ sự chậm trễ nào cũng có thể dẫn đến sự tồn đọng lớn cho ngành công nghiệp phần cứng. Các công ty công nghệ lớn ít nhất phải cung cấp những tin tức tốt từ hoạt động kinh doanh hiện tại của họ để làm hài lòng các nhà đầu tư.
+
+Doanh thu tổng hợp của 5 công ty nền tảng công nghệ lớn nhất (Alphabet, Amazon, Apple, Meta và Microsoft) được dự đoán sẽ tăng 9% trong ba tháng đầu năm nay, giảm so với mức 12% của quý trước đó. quý. Mặc dù vậy, thu nhập sau thuế của 5 công ty này được dự báo sẽ tăng 27% lên gần 85 tỷ USD, phản ánh sự hội tụ của các xu hướng tích cực.
+
+Cổ phiếu của Amazon, công ty thua lỗ kinh niên trong suốt 30 năm qua, đã đạt mức cao kỷ lục vào tuần trước vì các nhà đầu tư hy vọng công ty này đang bước vào một kỷ nguyên mới với lợi nhuận cao hơn, nhờ biên lợi nhuận bán lẻ mạnh hơn.
+
+Trong khi đó, Google và Microsoft đã ghi nhận tỷ suất lợi nhuận tăng đều đặn, một phần nhờ vào việc kiểm soát chi phí tốt hơn. Trong khi đó, dữ liệu của Counterpoint cho thấy Apple đang chứng kiến doanh số bán iPhone giảm 19,1% trong ba tháng đầu năm.

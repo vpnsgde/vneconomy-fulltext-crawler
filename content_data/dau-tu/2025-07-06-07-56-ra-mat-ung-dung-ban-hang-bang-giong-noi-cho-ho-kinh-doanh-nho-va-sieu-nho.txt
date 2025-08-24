@@ -1,0 +1,23 @@
+Đây được xem là một bước tiến đáng chú ý trong việc ứng dụng công nghệ cao vào phân khúc kinh doanh thường được cho là khó tiếp cận nhất. Knote được kỳ vọng sẽ “bình dân hóa” công nghệ, giúp các tiểu thương vận hành kinh doanh dễ dàng hơn trong nền kinh tế số.
+
+Điểm nhấn sáng tạo nhất của Knote là tính năng “Voice-to-Order”, cho phép người bán hàng tạo hóa đơn bằng cách ra lệnh bằng giọng nói hoặc qua chat. Thay vì phải loay hoay gõ từng món hàng trên điện thoại, giờ đây một chủ quán cà phê có thể chỉ cần nói vào ứng dụng: “Một cà phê sữa đá 20.000 đồng”, và hệ thống AI sẽ tự động nhận diện, tạo một đơn hàng với đúng mặt hàng và giá tiền.
+
+Theo KiotViet, phương pháp này đặc biệt hữu ích trong các khung giờ cao điểm, giúp người bán giải phóng đôi tay, xử lý đơn hàng nhanh hơn và tăng hiệu suất đáng kể.
+
+Để làm được điều này, Knote kết hợp công nghệ xử lý giọng nói trên thiết bị di động với một mô hình AI do KiotViet tự tinh chỉnh. Mô hình này được huấn luyện chuyên sâu cho tác vụ lên đơn, cho độ chính xác cao hơn từ 5% - 10% so với các mô hình ngôn ngữ lớn như ChatGPT.
+
+Đặc biệt, công nghệ này có khả năng nhận diện hiệu quả các từ lóng, giọng nói theo vùng miền và hoạt động tốt ngay cả trong môi trường nhiều tiếng ồn như ở các khu chợ hay quán ăn vỉa hè.
+
+Trong tương lai, AI trên Knote sẽ được cá nhân hóa sâu hơn, học hỏi thói quen của từng người bán để trở thành một “trợ lý ảo” thực thụ.
+
+Bên cạnh việc lên đơn, Knote còn là một công cụ quản lý kinh doanh đơn giản. Ứng dụng tự động lưu trữ các đơn hàng, tổng hợp và hiển thị doanh thu bằng biểu đồ trực quan, đồng thời báo cáo các mặt hàng bán chạy nhất, giúp chủ kinh doanh nắm bắt tình hình mà không cần sổ sách ghi chép.
+
+Một tính năng thực tế khác là khả năng tích hợp thanh toán QR. Khi liên kết với tài khoản ngân hàng (BIDV, Vietinbank, Vietcombank, MBBank), mỗi đơn hàng sẽ tự động tạo một mã QR. Điểm độc đáo là khi khách hàng thanh toán thành công, ứng dụng sẽ phát ra thông báo bằng loa ngoài trên điện thoại.
+
+Tính năng này giúp người bán hàng yên tâm xác nhận tiền đã về tài khoản ngay lập tức mà không cần phải kiểm tra ứng dụng ngân hàng hay nhìn vào màn hình chuyển khoản của khách, đảm bảo giao dịch an toàn và nhanh chóng.
+
+Chia sẻ về sản phẩm mới, ông Đỗ Tuấn Anh, Phó Tổng Giám đốc KiotViet, cho biết Knote là nỗ lực mới nhất của công ty trong việc hỗ trợ các hộ kinh-doanh-nhỏ.
+
+“Chúng tôi mong muốn đưa công nghệ hiện đại, đặc biệt là AI, vào một ứng dụng thật đơn giản, dễ tiếp cận, chi phí hợp lý và phù hợp với mọi người bán hàng”, ông Tuấn Anh nói. “Knote có thể cài đặt dễ dàng ngay trên điện thoại, giúp hộ kinh doanh lên đơn và thanh toán nhanh gọn. Đây cũng là cách để chúng tôi 'bình dân hóa' AI, biến nó thành công cụ hữu ích cho tất cả mọi người”.
+
+Với kinh nghiệm phục vụ hơn 300.000 nhà bán hàng trên cả nước, việc KiotViet ra mắt Knote được kỳ vọng sẽ tạo ra một cú hích, thúc đẩy quá trình chuyển đổi số trong cộng đồng kinh doanh nhỏ và siêu nhỏ, một bộ phận quan trọng của nền kinh tế Việt Nam.

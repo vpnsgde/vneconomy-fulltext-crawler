@@ -1,0 +1,19 @@
+Trong bảng xếp hạng về thị phần (theo Synergy Research Group), hầu hết các nhà cung cấp dịch vụ điện toán đám mây đến từ Mỹ, chỉ có 2 đại diện thuộc Trung Quốc.
+
+Điện toán đám mây (cloud) là việc phân phối các tài nguyên công nghệ thông tin theo nhu cầu qua Internet với chính sách thanh toán theo mức sử dụng. Thay vì mua, sở hữu và bảo trì các trung tâm dữ liệu và máy chủ vật lý, các công ty có thể tiếp cận các dịch vụ công nghệ, như năng lượng điện toán, lưu trữ và cơ sở dữ liệu, khi cần thiết, từ nhà cung cấp dịch vụ đám mây.
+
+Amazon, Microsoft và Google đã tạo ra hàng tỷ doanh thu thông qua cơ sở hạ tầng đám mây của mình. Đây được xem là nơi cung cấp sức mạnh điện toán mà các công ty cần để lưu trữ dữ liệu. Hơn nữa, hầu hết các mô hình AI đều chạy trên cloud, tạo ra nhu cầu điện toán tăng vọt đối với các nhà cung cấp cloud.
+
+Đồ họa trên cho thấy các nhà cung cấp dịch vụ điện toán đám mây lớn nhất trên toàn cầu, dựa trên dữ liệu từ Synergy Research Group.
+
+Thị trường điện toán đám mây được phân bổ ra sao? Dưới đây là các nhà cung cấp dịch vụ điện toán đám mây hàng đầu thế giới dựa trên doanh thu doanh nghiệp tính đến quý 4/2023.
+
+Với 31% thị phần toàn cầu, công ty cung cấp dịch vụ điện toán đám mây Amazon - AWS đạt doanh thu 24,2 tỷ USD tính đến quý 4. AWS là cỗ máy kiếm tiền chính của công ty, nhưng tốc độ tăng trưởng đã chậm lại vào năm 2023 do các doanh nghiệp và công ty khởi nghiệp cắt giảm chi tiêu cho công nghệ.
+
+Mức tăng trưởng doanh số hàng năm so với cùng kỳ năm ngoái tăng 13% - thấp hơn nhiều so với các đối thủ Microsoft và Google, những công ty có bộ phận cung cấp điện toán đám mây tăng lần lượt 30% và 26%.
+
+Thống kê cho thấy, các công ty của Mỹ chiếm thị phần lớn nhất trên thị trường, trong khi các công ty của Trung Quốc như Alibaba Cloud và Tencent Cloud tổng cộng chỉ chiếm khoảng 6% thị phần toàn cầu.
+
+Do một lượng lớn các mô hình AI được chạy trên cloud, ngành công nghiệp này đang được thúc đẩy mạnh mẽ và đang trên đà tăng tốc. Trên thực tế, các hệ thống AI mới yêu cầu về mặt dữ liệu lớn hơn gấp 10 đến 100 lần so với các mẫu cũ.
+
+Ngày nay, 98% các công ty trên toàn cầu đều sẽ có một bộ phận phải sử dụng đến dịch vụ cloud. Điều này có thể mang đến cơ hội lớn cho ngành khi những tiến bộ về trí tuệ nhân tạo - AI tiếp tục phát triển.

@@ -1,0 +1,21 @@
+Sở Giao dịch Chứng khoán Hà Nội cho biết, nhằm hỗ trợ nhà đầu tư tham gia giao dịch chứng khoán phái sinh trên hệ thống giao dịch mới (hệ thống KRX), Sở Giao dịch Chứng khoán Hà Nội giới thiệu một số quy định mới về giao dịch chứng khoán phái sinh như sau:
+
+Thứ nhất, về mã giao dịch của sản phẩm: Trước đây, mã giao dịch của sản phẩm phái sinh bao gồm 9 ký tự, thuộc 3 nhóm thông tin về tài sản cơ sở, loại hợp đồng tương lai và thời gian đáo hạn. Trên hệ thống mới, các mã giao dịch vẫn bao gồm 9 ký tự, biểu thị nhiều thông tin về sản phẩm hơn, trong đó: 1 ký tự thể hiện loại chứng khoán, 1 ký tự thể hiện nhóm chứng khoán phái sinh, 2 ký tự thể hiện tài sản cơ sở, 1 ký tự là năm đáo hạn, 1 ký tự là tháng đáo hạn và 3 ký tự là định danh của chứng khoán phái sinh.
+
+Ví dụ: Sản phẩm hợp đồng tương lai chỉ số VN30 đáo hạn tháng 8/2025 có mã giao dịch theo quy định hiện tại là VN30F2508, thì mã giao dịch theo quy định mới là 41I1F8000.
+
+So với mã giao dịch hiện tại, mã giao dịch mới độ dài 9 ký tự; Cung cấp 5 nhóm thông tin loại chứng khoán, nhóm chứng khoán, tài sản cơ sở, thời gian đáo hạn, ký tự định danh dùng cho các sản phẩm phái sinh phức tạp trong tương lai; Có thể biểu thị thông tin của các sản phẩm, công cụ phái sinh phức tạp trong tương lai.
+
+Tuy nhiên, mã giao dịch hiện tại khó đọc hơn do các nhóm thông tin được quy ước theo chuẩn cho ngắn gọn để tăng nội dung thông tin được cung cấp.
+
+Nội dung chi tiết về mã giao dịch vị trí ký tự, độ dài ký tự, loại ký tự, nhóm, quy ước, mô tả được quy định tại Hướng dẫn chi tiết giao dịch hợp đồng tương lai trên Hệ thống giao dịch chứng khoán phái sinh tại Sở Giao dịch Chứng khoán Hà Nội.
+
+Về lộ trình, tại thời điểm vận hành hệ thống mới, các mã sản phẩm hợp đồng tương lai đang niêm yết sẽ được giữ nguyên cho đến khi đáo hạn, các mã sản phẩm niêm yết sau thời điểm vận hành hệ thống mới sẽ được đánh mã theo quy định mới. Các sản phẩm mới được niêm yết sau ngày vận hành hệ thống mới sẽ áp dụng cách đánh mã giao dịch mới nêu trên.
+
+Các Hợp đồng tương lai sẽ được hiển thị trên website của HNX dưới dạng mã ISIN. Trong đó, mã giao dịch là 9 ký tự ở giữa của mã ISIN. Mã ISIN = VN (mã quốc gia Việt Nam)   Mã giao dịch (9 ký tự)   Checksum (1 ký tự, hệ thống tự sinh để tránh trùng lặp). HNX sẽ hỗ trợ hiển thị chi tiết theo sản phẩm và thời gian đáo hạn để người dùng có thể tham khảo và tra cứu thông tin dễ dàng.
+
+Cũng theo HNX, trước đây, tài khoản của nhà đầu tư bị VSDC hạn chế giao dịch sẽ bị cấm giao dịch trên tất cả các sản phẩm chứng khoán phái sinh. Nhà đầu tư không thể đặt lệnh cho đến khi VSDC gỡ bỏ trạng thái hạn chế giao dịch.
+
+Với hệ thống mới, phạm vi hạn chế giao dịch của tài khoản vi phạm được chia theo mức độ toàn thị trường, sản phẩm, hay mã giao dịch, tùy thuộc vào nguyên nhân và mức độ vi phạm được xác định trên hệ thống của VSDC như vi phạm quy định về giới hạn ký quỹ, giới hạn vị thế hoặc giới hạn khối lượng hợp đồng mở. Khi tài khoản ở trạng thái hạn chế giao dịch, nhà đầu tư có thể đặt lệnh có tham số close out để đóng bớt vị thế giúp khắc phục vi phạm.
+
+Về lệnh giao dịch, các quy định về lệnh giao dịch bao gồm thứ tự ưu tiên lệnh trong phiên ATO/ATC, hiển thị thông tin trong phiên khớp lệnh định kỳ, lệnh MTL khi chưa thực hiện được chuyển thành lệnh LO được áp dụng tương tự như trên thị trường cổ phiếu.

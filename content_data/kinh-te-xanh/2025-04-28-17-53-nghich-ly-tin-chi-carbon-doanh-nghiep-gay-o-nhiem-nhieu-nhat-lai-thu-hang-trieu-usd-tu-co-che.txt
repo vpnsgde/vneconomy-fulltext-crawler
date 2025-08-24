@@ -1,0 +1,51 @@
+Cuộc chiến toàn cầu chống biến đổi khí hậu đã thúc đẩy việc triển khai nhiều cơ chế nhằm giảm phát thải khí nhà kính (GHG) và khuyến khích thực hành kinh doanh bền vững. Một trong những cơ chế đó là hệ thống tín chỉ carbon, cho phép các doanh nghiệp bù đắp lượng phát thải bằng cách đầu tư vào các dự án môi trường hoặc mua tín chỉ từ các đơn vị khác đã giảm phát thải thành công.
+
+Chevron là một trong những tập đoàn dầu khí lớn nhất thế giới có trụ sở tại Mỹ, hoạt động chủ yếu trong lĩnh vực khai thác, chế biến và phân phối dầu mỏ và khí đốt tự nhiên. Tại Australia, dự án Gorgon của Chevron là một trong những cơ sở xuất khẩu khí tự nhiên hóa lỏng (LNG) lớn nhất. Dự án này được kỳ vọng sẽ giúp giảm phát thải khí nhà kính thông qua việc áp dụng công nghệ thu giữ và lưu trữ carbon (CCS).
+
+Theo báo cáo mới đây của The Guardian, nhà máy LNG Gorgon của Chevron nằm trong danh mục 219 cơ sở công nghiệp ô nhiễm và phát thải nhiều nhất Australia trong 3 năm gần đây. Đáng chú ý, mặc dù lượng phát thải từ dự án Gorgon tăng từ 8,1 triệu tấn CO₂ lên 8,8 triệu tấn trong năm 2023 nhưng Chevron vẫn thu về hơn 10 triệu USD từ việc bán tín chỉ carbon thặng dư.
+
+Điều này xảy ra do dự án vẫn nằm dưới giới hạn phát thải do chính phủ Australia đặt ra, qua đó đủ điều kiện nhận tín chỉ carbon theo Cơ chế bảo vệ (Safeguard Mechanism).
+
+Được triển khai lần đầu vào năm 2016 và cải cách vào năm 2023, Cơ chế Safeguard Mechanism của Australia yêu cầu các cơ sở phát thải lớn phải duy trì lượng phát thải ròng (phát thải trực tiếp) không vượt quá mức giới hạn định sẵn, gọi là baseline. Mức giới hạn này sẽ giảm dần hàng năm, với mục tiêu giảm 4,9% mỗi năm cho đến năm 2030, nhằm đạt mục tiêu giảm phát thải quốc gia 43% so với mức năm 2005 vào năm 2030 và đạt mức phát thải ròng bằng 0 vào năm 2050.
+
+Tuy nhiên, một số chuyên gia và tổ chức môi trường cho rằng cơ chế này có thể tạo ra lỗ hổng cho các doanh nghiệp tiếp tục gia tăng phát thải trong khi vẫn thu lợi từ việc bán tín chỉ carbon.
+
+Shell là tập đoàn dầu khí đa quốc gia có trụ sở tại Hà Lan chuyên hoạt động trong các lĩnh vực khai thác, chế biến và phân phối dầu mỏ và khí đốt tự nhiên. Shell đã công khai cam kết đạt mức phát thải ròng bằng 0 vào năm 2050.
+
+Một phần cốt lõi trong chiến lược trung hòa carbon của đơn vị là việc đầu tư vào tín chỉ carbon tự nguyện, đặc biệt là các dự án dựa trên thiên nhiên, như bảo vệ rừng nhiệt đới ở Amazon hay hỗ trợ các sáng kiến bếp cộng đồng ở châu Phi, theo báo cáo của Reuters. Phần lớn các dự án này được chứng nhận bởi Verra- tổ chức phát hành tín chỉ carbon tự nguyện lớn nhất thế giới.
+
+Tuy nhiên, theo một cuộc điều tra quy mô lớn năm 2023 do The Guardian, Die Zeit và tổ chức điều tra độc lập SourceMaterial tiến hành đã đặt ra câu hỏi về tính minh bạch và độ tin cậy của tín chỉ từ các dự án REDD  (Giảm phát thải từ mất rừng và suy thoái rừng). Báo cáo chỉ ra rằng trên 90% số tín chỉ từ các dự án bảo vệ rừng có thể không phản ánh được bất kỳ sự giảm phát thải thực tế nào do được cấp phát dựa trên các kịch bản giả định về phá rừng mà khả năng xảy ra vốn đã rất thấp.
+
+Verra đã lên tiếng bảo vệ phương pháp luận của mình, song cũng thừa nhận cần cải tổ tiêu chuẩn chứng nhận để phù hợp hơn với các yêu cầu khoa học và thực tiễn mới.
+
+British Petroleum (BP)- một trong những tập đoàn dầu khí hàng đầu thế giới cũng đã nỗ lực tái định vị mình như một người tiên phong trong cuộc chuyển đổi năng lượng. Thông qua chiến dịch “Beyond Petroleum” và việc chuyển hướng chiến lược sang năng lượng tái tạo cùng giao dịch carbon, BP đã coi việc bù đắp carbon là nền tảng trong chiến lược bảo vệ môi trường của mình.
+
+Tuy nhiên, tính hiệu lực lâu dài của các tín chỉ này đã bị đặt dấu hỏi sau khi một số khu rừng liên quan đến các dự án bù đắp carbon bị tàn phá bởi các trận cháy rừng quy mô lớn vào năm 2023. Theo Financial Times đưa tin, sự việc không chỉ làm mất hiệu lực của hàng nghìn tín chỉ carbon mà còn nhấn mạnh một rủi ro trong các giải pháp dựa vào tự nhiên: tính “vĩnh viễn” của việc lưu giữ carbon trong môi trường sống tự nhiên luôn có thể bị xóa sổ chỉ trong vài ngày bởi các hiện tượng thời tiết cực đoan đang gia tăng vì chính biến đổi khí hậu.
+
+Tesla- biểu tượng của cuộc cách mạng xe điện không chỉ tạo ra lợi nhuận từ việc bán xe mà còn từ một nguồn thu ít được công chúng để ý hơn: tín chỉ phát thải quy định (regulatory credits).
+
+Theo báo cáo tài chính năm 2022, Tesla đã thu về 1,78 tỷ USD từ việc bán các tín chỉ phát thải này cho các nhà sản xuất ô tô truyền thống như General Motors (GM), Stellantis, và một số hãng khác- những công ty vẫn chưa đáp ứng đầy đủ các yêu cầu giảm phát thải theo quy định khí hậu của Mỹ và châu Âu, theo trang Carbon Credits.
+
+Cơ chế tín chỉ phát thải được thiết kế nhằm khuyến khích các công ty tuân thủ giới hạn phát thải carbon thông qua hai cách: hoặc tự cắt giảm phát thải hoặc mua tín chỉ từ những đơn vị phát thải thấp hơn mức quy định. Nhờ không phát thải khí nhà kính từ các phương tiện chạy điện của mình, Tesla tích lũy được một lượng lớn tín chỉ và bán lại cho các công ty chưa đáp ứng được chuẩn khí thải.
+
+Mặc dù cơ chế này ban đầu được coi là một công cụ chuyển tiếp hữu ích để thúc đẩy toàn ngành công nghiệp ô tô tiến tới điện khí hóa nhưng ngày càng có nhiều chuyên gia lên tiếng cảnh báo về tính hai mặt của nó.
+
+Các nhà sản xuất ô tô truyền thống, thay vì đầu tư mạnh tay vào cải tiến công nghệ hoặc tái cấu trúc hệ sinh thái sản xuất để cắt giảm khí thải, lại có xu hướng "mua thời gian" bằng cách dựa vào tín chỉ từ các công ty xanh khác. Việc chi trả hàng tỷ USD cho tín chỉ vốn chỉ là một chi phí hoạt động dễ dàng hơn so với việc thay đổi mô hình kinh doanh căn bản để giảm phát thải.
+
+Một số nhà phân tích còn lo ngại rằng điều này có thể làm chậm lại đà phát triển của xe điện trên quy mô toàn ngành. Bởi lẽ, nếu các hãng lớn vẫn duy trì được lợi nhuận từ xe chạy xăng thông qua việc mua tín chỉ thay vì đầu tư chuyển đổi, thì động lực đổi mới sẽ bị suy yếu, đặc biệt trong bối cảnh chi phí phát triển pin, hạ tầng sạc và công nghệ điện khí hóa vẫn còn cao.
+
+Mặc dù được coi như một công cụ linh hoạt để hướng nền kinh tế toàn cầu tiến tới mục tiêu phát thải ròng bằng 0 nhưng thị trường carbon- đặc biệt là thị trường tín chỉ tự nguyện đang đối mặt với những vấn đề khiến nhiều chuyên gia nghi ngờ về hiệu quả thực chất của nó trong chống biến đổi khí hậu.
+
+Một trong những vấn đề cốt lõi của thị trường carbon là tính bổ sung(additionality)- tức là một tín chỉ chỉ có giá trị thực khi nó tài trợ cho một hoạt động giảm phát thải mà lẽ ra sẽ không xảy ra nếu không có nguồn tài trợ đó.
+
+Tuy nhiên, theo báo cáo từ tổ chức Carbon Market Watch (2023), nhiều dự án chẳng hạn như trang trại điện mặt trời hay chương trình bảo tồn rừng thực tế vẫn sẽ được triển khai dù không nhận được tín chỉ, vì đã có động lực từ lợi nhuận hoặc yêu cầu pháp lý.
+
+Vấn đề thứ hai là tính vĩnh viễn(permanence). Các dự án hấp thụ carbon từ thiên nhiên như trồng rừng hoặc bảo tồn rừng thường được cho là "kho lưu trữ" carbon. Tuy nhiên, tính vĩnh viễn của việc lưu giữ đó rất dễ bị phá vỡ bởi các yếu tố như cháy rừng, khai thác trái phép hoặc biến đổi khí hậu cực đoan. Ví dụ, BP đã mất hàng loạt tín chỉ rừng tại Mỹ do cháy rừng năm 2023 cho thấy rủi ro hiện hữu trong các giải pháp tự nhiên.
+
+Vấn đề thứ ba là tính minh bạch và tiêu chuẩn hóa(transparency & standardization). Không giống như thị trường tín chỉ bắt buộc có sự giám sát của cơ quan quản lý nhà nước, thị trường tự nguyện nơi các doanh nghiệp mua tín chỉ để "bù đắp" phát thải của mình hiện gần như không có quy chuẩn thống nhất toàn cầu.
+
+Các đơn vị chứng nhận hoạt động theo những bộ tiêu chí riêng biệt, với cách tính toán và xác minh không đồng nhất. Điều này không chỉ khiến thị trường trở nên khó đánh giá mà còn tạo điều kiện cho hành vi "greenwashing" khi các công ty tuyên bố trung hòa carbon dựa trên các tín chỉ chất lượng thấp, không thực sự tương đương với lượng phát thải đã sinh ra.
+
+Sự thiếu nhất quán trong đảm bảo "tính bổ sung", "tính vĩnh viễn", "tính minh bạch và tiêu chuẩn hóa" đang làm xói mòn niềm tin vào thị trường carbon như một giải pháp khí hậu. Nghiên cứu của Thompson trên Tạp chí Nature Climate Change (2023) thậm chí còn đặt vấn đề rằng một số tín chỉ carbon không những không góp phần giảm phát thải mà còn có thể khiến tổng lượng phát thải toàn cầu tăng thêm nếu được sử dụng để biện minh cho việc trì hoãn hành động khí hậu của một số doanh nghiệp lớn...
+
+Trong bối cảnh đó, nhiều tổ chức quốc tế đang kêu gọi cải cách toàn diện thị trường carbon, bao gồm thiết lập các tiêu chuẩn bắt buộc toàn cầu, tăng cường kiểm toán độc lập và làm rõ trách nhiệm pháp lý nếu tín chỉ bị vô hiệu do biến cố thiên tai hoặc gian lận.

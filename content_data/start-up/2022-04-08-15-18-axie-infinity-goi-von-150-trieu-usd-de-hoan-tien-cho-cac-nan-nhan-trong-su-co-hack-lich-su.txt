@@ -1,0 +1,19 @@
+Sky Mavis nhà sản xuất tựa game Axie Infinity vừa tuyên bố huy động được khoản đầu tư trị giá 150 triệu USD do Binance, sàn giao dịch tiền mã hóa lớn nhất thế giới dẫn đầu. Một số các nhà đầu tư khác tham gia vào vòng rót vốn này bao gồm Animoca Brands, Dialectic, Paradigm và A16Z.
+
+Theo thông báo của Sky Mavis, dòng vốn đầu tư mới sẽ được kết hợp với nguồn quỹ cân đối của công ty nhằm khắc phục sự cố tấn công vào mạng lưới Ronin và hoàn trả lại tiền cho những người dùng bị ảnh hưởng bởi vụ tấn công mạng. Startup này cam kết sẽ hoàn trả tất cả số tiền bị mất của người dùng, đồng thời tăng cường bảo mật để ngăn chặn các cuộc tấn công có thể xảy đến trong tương lai.
+
+Ông Changpeng Zhao (CZ), Giám đốc điều hành Binance chia sẻ, Sky Mavis và Binance bắt buộc phải làm việc cùng nhau, đặc biệt là về vấn đề bảo mật để hệ sinh thái Blockchain toàn cầu tiếp tục phát triển và trưởng thành. “Chúng tôi đã chứng kiến ​​sự phát triển và thành tích tuyệt vời của nhóm Sky Mavis kể từ khi làm việc cùng nhau trong dự án Axie Infinity trên Binance Launchpad”, ông CZ nói thêm.
+
+Nhà phát hành game Việt cho biết, cầu nối mạng Ronin sẽ mở lại sau khi nâng cấp bảo mật và trải qua một số đợt kiểm tra an toàn, dự kiến trong vài tuần nữa. Sky Mavis sẽ tăng số nút xác thực từ 9 lên 21 và chia đều sự quản lý giữa các bên bao gồm các đối tác, cộng đồng và thành viên.
+
+Trong thời gian chờ đợi, Binance đang hỗ trợ Ronin Network bằng cách cung cấp dịch vụ rút và gửi tiền Ethereum cho người chơi Axie Infinity.
+
+Nikkei Asia đánh giá động thái này là bước quan trọng nhằm lấy lại niềm tin từ người dùng sau vụ tấn công hôm 23/3 khi các nút xác thực Ronin của Sky Mavis và nút xác thực của Axie DAO đã bị hacker xâm phạm.
+
+Đây cũng là một trong những vụ tấn công nguy hại nhất từ trước đến nay nhằm vào một dự án Blockchain. Hậu quả của nó là 625 triệu USD tiền mã hóa bị đánh cắp. Số tiền này bao gồm 173.600 Ethereum và 25,5 triệu USDC.
+
+Trong khi hacker đã bắt đầu tẩu tán số tiền kiếm được bằng nhiều cách, các sàn giao dịch tiền mã hóa cũng cam kết phối hợp chặt chẽ để thu hồi khoản tiền bị đánh cắp.
+
+"Trong khi chạy đua để phát triển, chúng tôi phải đánh đổi một số thứ dẫn đến việc bị hacker tấn công. Đó là bài học khó khăn nhưng sẽ giúp chúng tôi xây dựng Ronin Network tốt hơn trong tương lai". Sky Mavis thừa nhận và cho biết hoàn toàn chịu trách nhiệm trong vụ việc nói trên.
+
+Mặc dù chứng kiến sự sụt giảm trong thời gian gần đây, có một thực tế là Axie Infinity vẫn đang duy trì sự thống trị của mình trong mảng game Blockchain. Tựa game này có tới 2,2 triệu người chơi tích cực hàng tháng và là game NFT được chơi nhiều nhất mọi thời đại.

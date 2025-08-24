@@ -1,0 +1,27 @@
+Apple đã mang đến cho iPhone 15 hàng loạt đổi mới như khung titan, bộ xử lý A17 Pro tích hợp GPU tương thích Ray-Tracing, chuyển cổng kết nối từ Lightning sang USB-C, v.v. Tới đây, iPhone 16, một trong những sản phẩm công nghệ được công chúng mong chờ nhất, cũng đã rò rỉ một số thông tin liên quan đến thiết kế và những thay đổi về kỹ thuật.
+
+Thông thường, iPhone sẽ được Apple trình làng vào nửa đầu tháng 9 hàng năm. Đơn cử như iPhone 11 đã được ra mắt vào thứ Ba, 10/9/2019; iPhone 12 được ra mắt vào thứ Ba, 23/10/2020 (ra chậm do Covid); iPhone 13 được ra mắt vào thứ Ba, 14/9/2021; iPhone 14 được ra mắt vào thứ ba, 7/9/2022; iPhone 15 được ra mắt vào thứ ba, 12/9/2023.
+
+Do đó, nhiều đồn đoán cho rằng có khả năng iPhone 16 cũng sẽ được Apple công bố vào thứ ba, ngày 10/9/2024.
+
+Kể từ iPhone 12, mỗi thế hệ iPhone (trừ dòng SE) đều có 4 phiên bản mỗi năm. Theo các nguồn tin rò rỉ, giống như những năm trước, iPhone 16 sẽ được bán với các phiên bản iPhone 16 tiêu chuẩn, iPhone 16 Plus, iPhone 16 Pro, iPhone 16 Pro Max (hoặc iPhone 16 Ultra).
+
+Hiện vẫn chưa có nhiều thông tin cụ thể liên quan đến mức giá bán ra của iPhone 16. Tuy nhiên, nhiều nguồn tin cho rằng thang giá của iPhone 16 sẽ chỉ tiệm cận với Iphone 15. Trước đó, khi mới ra mắt, mức giá thấp nhất của Iphone 15 là 799 USD (iPhone 15 128 GB) và cao nhất là 1599 USD (iPhone 15 Pro Max 1TB)
+
+Trong vài năm trở lại đây, các thế hệ iPhone có thiết kế khá giống nhau. Tuy nhiên, ở mỗi dòng điện thoại, Apple đều có những tinh chỉnh để phân biệt. Chẳng hạn như iPhone 15 đổi từ cổng kết nối từ Lightning sang USB-C, hay có thêm Dynamic Island (ở iPhone 14 chỉ bản Pro mới có) khi so sánh với iPhone 14.
+
+Với những hình ảnh rò rỉ của iPhone 16, có vẻ như Apple sẽ không thực hiện quá nhiều thay đổi vật lý so với iPhone 15. Tuy nhiên, camera của iPhone 16 có thể sẽ quay lại kiểu bố trí cụm camera xếp thẳng thay vì xếp chéo (tương tự iPhone X). Cụ thể, cụm camera của iPhone 16 gồm 2 ống kính đặt dọc bên trái, đèn flash đặt bên ngoài module hình chữ nhật 2 camera. Trong khi camera của iPhone X có dạng hình viên thuốc bầu dục, hẹp hơn, 2 ống kính đặt 2 đầu, chính giữa là đèn flash.
+
+Theo một số nguồn tin, Apple sẽ áp dụng công nghệ BRS giúp giảm đáng kể kích thước đường viền xung quanh màn hình, từ đó tối ưu hóa không gian hiển thị. Công nghệ này sẽ lần đầu tiên xuất hiện trên iPhone 16 Pro và Pro Max. Apple sẽ tăng kích thước màn hình của hai phiên bản, từ 6,1 và 6,7 inch lên chính xác là 6,27 và 6,86 inch.
+
+Ngoài ra, iPhone 16 sẽ có khung titan sáng bóng hơn và trông gần giống với thép không gỉ của iPhone 14 Pro Max. Khung titan mới này sẽ xuất hiện trên phiên bản Pro và Pro Max của iPhone 16.
+
+iPhone 16 sẽ được trang bị bộ xử lý mới, có thể là A18 hoặc A18 Pro, thay thế A17 Pro trên iPhone 15 Pro và 15 Pro Max. A18 Pro có sức mạnh đủ để vận hành một mô hình trí tuệ nhân tạo tạo sinh. Tuy nhiên, có thể bộ xử lý này sẽ chỉ được trang bị cho iPhone 16 Pro và Pro Max.
+
+Ở iPhone 16, Apple sẽ sử dụng một loại vật liệu mới để tăng tốc độ tản nhiệt của điện thoại, đó là graphene. Trên thực tế, vật liệu này đã sử dụng trong hệ thống làm mát của nhiều dòng điện thoại Android. Trước đó, Apple từng bị nhiều người dùng phàn nàn rằng iPhone 15 Pro và Pro Max thường khá nóng khi sử dụng nhiều (hoặc chỉ đơn giản là sạc)
+
+Để nâng cấp trải nghiệm chụp ảnh cho người dùng, Apple có khả năng sẽ tích hợp camera kính tiềm vọng cho iPhone 16 Pro, giúp nâng khả năng zoom quang học lên đến 5x cho các mẫu iPhone 16 Pro. Và một trong những đổi mới đang được đồn đoán nhiều nhất là sự xuất hiện của một nút mới (Capture button) lấy cảm hứng từ máy ảnh kỹ thuật số.
+
+Tin đồn này xuất hiện từ Weibo, nút chụp ảnh của iPhone 16 giống như thao tác của máy ảnh. Nhấn nhẹ sẽ khóa tiêu điểm, trong khi nhấn hoàn toàn sẽ chụp ảnh, đảm bảo điều chỉnh chính xác vật thể trung tâm và giảm mờ. Trên thực tế, chức năng này đã có trên một số điện thoại Xperia, Lumia và HTC.
+
+Nút chụp ảnh, có khả năng nằm ở bên phải, phía dưới nút nguồn của điện thoại. Trong khi iPhone 15 Pro đã nổi bật như một trong những sản phẩm dẫn đầu về nhiếp ảnh thời điểm hiện tại, Apple dường như đang định vị ngang hàng cùng thị trường nhiếp ảnh chuyên nghiệp.

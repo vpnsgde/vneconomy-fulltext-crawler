@@ -1,0 +1,23 @@
+Theo Bộ Y tế, mới đây Bộ đã ban hành Quyết định 4750/QĐ-BYT sửa đổi, bổ sung Quyết định 130/QĐ-BYT ngày 18/01/2023 quy định chuẩn và định dạng dữ liệu đầu ra phục vụ việc quản lý, giám định, thanh toán chi phí khám chữa bệnh và giải quyết các chế độ liên quan.
+
+Tại quyết định này, Bộ Y tế đã chính thức bổ sung thêm 2 bảng dữ liệu mới gồm bảng dữ liệu giấy chuyển tuyến bảo hiểm y tế và bảng dữ liệu giấy hẹn khám lại theo quy định tại Nghị định 75/2023/NĐ-CP của Chính phủ.
+
+Từ ngày 1/4, cơ quan Bảo hiểm xã hội và các bệnh viện trong cả nước sẽ bắt đầu triển khai kiểm thử việc gửi và nhận dữ liệu điện tử giấy chuyển tuyến bảo hiểm y tế và giấy hẹn khám lại, tiến tới triển khai chính thức trong toàn quốc từ ngày 1/7/2024.
+
+Cũng theo kế hoạch trong năm 2024, Bộ Y tế sẽ phối hợp cùng với Cục C06 - Bộ Công an, Bảo hiểm xã hội Việt Nam để nghiên cứu, triển khai tích hợp 2 loại giấy tờ này trên các ứng dụng VneID (ứng dụng định danh điện tử), VssID (Bảo hiểm xã hội số).
+
+“Đây là một nỗ lực của Bộ Y tế trong chuyển đổi số lĩnh vực bảo hiểm y tế, tiến tới loại bỏ hoàn toàn giấy chuyển tuyến và giấy hẹn khám lại bản giấy”, bà Trần Thị Trang, Vụ trưởng Vụ Bảo hiểm y tế (Bộ Y tế) cho hay.
+
+Khi 2 loại giấy tờ này được tích hợp trên ứng dụng VNeID, VssID, người bệnh khi làm thủ tục chuyển tuyến hoặc tái khám chỉ cần xuất trình giấy chuyển tuyến điện tử hoặc giấy hẹn khám lại điện tử trên ứng dụng VNeID hoặc VssID (có tích hợp sẵn mã QR).
+
+Việc triển khai giấy chuyển tuyến bảo hiểm y tế điện tử và giấy hẹn khám lại điện tử hứa hẹn sẽ mang lại nhiều ý nghĩa và giá trị thiết thực như, phục vụ quản lý nhà nước về công tác chuyển tuyến bảo hiểm y tế, tạo kho dữ liệu tập trung phục vụ phân tích, thống kê, kịp thời điều chỉnh chính sách bảo hiểm y tế sát với thực tế. Đồng thời, giúp công khai, minh bạch trong công tác chuyển tuyến đơn giản hoá thủ tục hành chính.
+
+Bên cạnh đó, rút ngắn thời gian, tạo thuận lợi, tiện ích cho người bệnh, cơ sở khám chữa bệnh khi tiếp nhận, làm các thủ tục chuyển tuyến hay tái khám. Cùng với đó, hạn chế các hành vi gian lận, giả mạo trong công tác chuyển tuyến và hỗ trợ cơ quan Bảo hiểm xã hội trong công tác giám định, thanh toán bảo hiểm y tế.
+
+Trước đó, trả lời đại biểu Quốc hội về vấn đề này tại Kỳ họp Quốc hội hồi tháng 11/2023, Bộ trưởng Bộ Y tế Đào Hồng Lan cũng nhấn mạnh vai trò của giấy chuyển viện rất cụ thể, ghi rõ tình trạng lịch sử điều trị cũng như bệnh án, do đó, khi chuyển tuyến dù là giấy hay điện tử cũng rất cần thiết.
+
+Việc giảm thủ tục gây phiền hà cho người dân khi đi khám chữa bệnh phải đảm bảo sự bền vững của hệ thống y tế, tránh quá tải, dồn lên tuyến trên.
+
+Hiện nay, việc chuyển tuyến đang được chia thành 2 luồng. Đó là từ tuyến dưới lên tuyến trên nếu cơ sở không đáp ứng được yêu cầu khám chữa bệnh cho người dân, và từ tuyến trên xuống tuyến dưới khi tình trạng sức khoẻ của người bệnh ổn định, đảm bảo công tác điều trị lâu dài.
+
+Tuy nhiên, để giảm thủ tục hành chính, Bộ Y tế đang triển khai các công việc liên quan để tiến tới thực hiện việc chuyển tuyến điện tử.

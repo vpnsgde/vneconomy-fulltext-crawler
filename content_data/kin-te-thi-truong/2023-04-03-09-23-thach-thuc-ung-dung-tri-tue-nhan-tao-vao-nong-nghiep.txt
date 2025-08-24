@@ -1,0 +1,43 @@
+Đưa ra bức tranh chuyển đổi số của ngành nông nghiệp tại hội thảo “Ứng dụng công nghệ AI trong nâng cao năng suất nông nghiệp”, TS. Nguyễn Quốc Toản, Giám đốc Trung tâm Chuyển đổi số và thống kê nông nghiệp (Bộ Nông nghiệp và Phát triển nông thôn), cho biết chuyển đổi số trong nông nghiệp Việt Nam đặt trong bối cảnh xu hướng số đang dịch chuyển nền kinh tế. Vùng nông thôn sẽ là nhân tố thúc đẩy giai đoạn bùng nổ tiếp theo của nền kinh tế số.
+
+Hiện, tỷ lệ sử dụng internet ở nông thôn tăng đáng kể, có khoảng 77% người dân nông thôn kết nối internet, 91% trong số đó lên mạng hàng ngày. Kinh nghiệm quốc tế cho thấy, áp dụng kinh tế số có thể đưa giá trị kinh tế nông nghiệp tăng gấp nhiều lần.
+
+Ví dụ, ở Trung Quốc, doanh thu kinh tế số từ nông nghiệp của nước này đã đạt 102 tỷ USD năm 2020 và dự báo sẽ tăng lên 189 tỷ USD vào năm 2025. Thái Lan, Ấn Độ đã xây dựng được hệ thống quản lý chất lượng đất và chương trình số hóa dữ liệu đất đai, từ đó hình thành bản đồ số nông nghiệp.
+
+Tại Việt Nam, Chính phủ đã đưa ra định hướng chuyển đổi số nông nghiệp trong 8 lĩnh vực: hình thành khu nông nghiệp công nghệ cao (như ở Nghệ An, Cần Thơ); tập trung xây dựng hệ thống dữ liệu lớn; thúc đẩy mạnh mẽ nông dân số; thúc đẩy ứng dụng công nghệ số; tự động hóa quy trình sản xuất; giám sát nguồn gốc chuỗi cung ứng sản phẩm; phát triển thương mại điện tử trong ngành nông nghiệp và chuyển đổi số trong quản lý, điều hành.
+
+Tuy nhiên, để thực hiện theo định hướng trên, TS. Toản cho rằng cần giải quyết 5 nút thắt theo lộ trình.
+
+Thứ nhất,vấn đề quản lý, điều hành, ứng dụng số của ngành chưa toàn diện.
+
+Thứ hai,chưa xây dựng được kiến trúc dữ liệu ngành nông nghiệp, cơ sở dữ liệu lớn về truy xuất nguồn gốc, mã số vùng trồng, vùng nuôi, dữ liệu chuỗi ngành hàng.
+
+Thứ ba,hạ tầng thiết bị cũ, thiếu đồng bộ, phân tán.
+
+Thứ tư,phần mềm phục vụ chỉ đạo điều hành chưa có liên kết chia sẻ dữ liệu.
+
+Thứ năm,nguồn lực đầu tư manh mún.
+
+Theo TS. Trần Quý, Viện trưởng Viện Phát triển Kinh tế số Việt Nam, áp dụng AI trong sản xuất nông nghiệp có thể giúp tăng cường hiệu quả sản xuất và giảm chi phí một cách đáng kể, giúp nông dân quản lý tốt hơn các hoạt động sản xuất, tăng cường độ chính xác và tốc độ trong quá trình sản xuất nông nghiệp, tuy nhiên, việc ứng dụng AI trong nông nghiệp tại Việt Nam đối mặt nhiều thách thức.
+
+Một là, giá cả phần cứng và phần mềm cho các hệ thống AI đang rất cao.
+
+Hai là, người nông dân Việt Nam chưa được đào tạo để sử dụng các công nghệ mới.
+
+Ba là,sản xuất nông nghiệp Việt Nam vẫn chưa đáp ứng nhu cầu người tiêu dùng. Nguyên nhân dẫn đến tình trạng này là do: các quy trình sản xuất chưa được tối ưu hóa; nông dân Việt Nam đang sử dụng nhiều phương pháp sản xuất truyền thống, không hiệu quả và tốn kém; hơn nữa, thiếu kỹ thuật viên nông nghiệp chuyên nghiệp; các sản phẩm chưa đạt tiêu chuẩn chất lượng. Ngoài ra, Việt Nam đang phải đối mặt với sự cạnh tranh giá cả từ các quốc gia khác trên thị trường nông sản quốc tế.
+
+Đề cập một số giải pháp thúc đẩy chuyển đổi số ngành nông nghiệp trong thời gian tới, TS. Toản cho biết trước hết phải đẩy mạnh truyền thông chính sách chuyển đổi số trong nội bộ ngành; xây dựng, ban hành kiến trúc dữ liệu ngành nông nghiệp; hoàn thiện các quy định liên quan chuyển đổi số; xây dựng trung tâm dữ liệu ngành, trung tâm điều hành thông minh.
+
+Đồng thời, phát triển các nền tảng số như hệ thống truy xuất nguồn gốc nông sản, nền tảng dữ liệu số nông nghiệp, ứng dụng công nghệ số phục vụ nông dân; nghiên cứu, hợp tác, đào tạo, chuyển giao công nghệ số…
+
+Theo TS. Quý, để ngành nông nghiệp cạnh tranh tốt hơn, Việt Nam cần tăng cường năng suất, cải tiến chất lượng sản phẩm và tối ưu hóa quy trình sản xuất nông nghiệp. Các công nghệ mới, bao gồm AI và robot tự động hóa, có thể giúp Việt Nam đạt được mục tiêu này.
+
+Ngoài ra, cần có sự hợp tác giữa các bên liên quan, bao gồm các nhà sản xuất công nghệ, chính phủ và các tổ chức nông nghiệp để phát triển các ứng dụng AI thích hợp và phù hợp với điều kiện của người nông dân và nhu cầu của thị trường.
+
+PGS.TS. Mai Quang Vinh, Chủ tịch HĐQT Liên hiệp Hợp tác xã Kinh tế số Việt Nam, cho rằng nông nghiệp Việt Nam đang tiến tới một giai đoạn phát triển về chất – giá trị của nông sản thay cho phát triển về lượng, tư duy sản xuất sang tư duy thị trường – tư duy giá trị khi tham gia vào các Hiệp định Thương mại tự do.
+
+Do vậy, Nhà nước cần có chế tài, quy định bắt buộc ứng dụng giải pháp thay cho quản lý hồ sơ cơ sở và nhật ký giấy thủ công (có thể bằng ứng dụng eGap.vn), có chương trình khuyến nông chuyển đổi số nông nghiệp, hỗ trợ chuyển giao công nghệ, tập huấn kỹ năng, trang thiết bị công nghệ phục vụ chuyển đổi số quản trị sản phẩm, quản trị doanh nghiệp cho vùng nuôi, trồng và sản xuất có hợp đồng tiêu thụ sản phẩm.
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 14-2023 phát hành ngày 03-04-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

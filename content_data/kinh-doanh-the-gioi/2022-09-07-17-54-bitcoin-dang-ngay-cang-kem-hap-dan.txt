@@ -1,0 +1,33 @@
+Thời gian gần đây, Bitcoin – được mệnh danh là “vua" biến động giá – chỉ giao dịch quanh mức khoảng 20.000 USD và chưa từng vượt xa ngưỡng này kể từ tháng 6 đến nay.
+
+Điều này gây rắc rối cho các nhà giao dịch và sàn giao dịch thu lợi nhuận từ biến động giá của Bitcoin và mở ra cánh cửa cho đồng tiền đối thủ Ether – tiền ảo lớn thứ hai thị trường. Đồng Ether đang chuẩn bị cho một đợt nâng cấp hợp nhất quan trọng, chuyển sang một hệ thống chuỗi khối (blockchain) đơn giản, tinh gọn và tiết kiệm tài nguyên hơn.
+
+"Ở thời điểm hiện tại, Bitcoin không chết mà chỉ nhàm chán mà thôi. Vì vậy, các nhà giao dịch đã tìm kiếm lựa chọn thay thế”, ông Martin Leinweber, chiến lược gia về sản phẩm tài sản số tại MarketVector, nhận xét.
+
+Theo dữ liệu từ công ty Coinglass, mức biến động bình quân 30 ngày qua của Bitcoin – thước đo sự biến động giá của tiền ảo này trong 30 ngày – đã giảm xuống 2,7% từ mức hơn 4% vào đầu tháng 7. Từ đầu năm, con số này luôn duy trì ở mức dưới 5% trong năm 2022, kể cả trong những tháng hỗn loạn nhất của “mùa đông tiền ảo” với giá giảm sâu. 5 năm qua, kể cả trong những giai đoạn biến động giá thấp hơn, con số này vẫn lên tới 7%.
+
+Tương tự, chỉ số biến động giá Bitcoin của trang CryptoCompare – sử dụng hợp đồng tương lai Bitcoin để dự báo mức biến động giá – hiện chỉ ở mức trên 77 điểm, giảm từ mức trên 90 điểm hồi đầu năm.
+
+Trước đây, Bitcoin từng trải qua các giai đoạn có sự biến động giá thấp, thường là những giai đoạn giá giảm, nhưng sau đó thường trở lại khi hoạt động giao dịch tăng lên.
+
+“Hiện tại, Bitcoin đã trải qua một giai đoạn tương đối dài với biến động về giá ở mức thấp, vượt xa những gì chúng ta từng chứng kiến, kể cả vào năm 2019 - thời điểm một giai đoạn như thế này kéo dài trong khoảng 1-1,5 quý”, ông Stéphane Ouellette, giám đốc điều hành tại nhà cung cấp sản phẩm phái sinh tiền điện tử FRNT Financial, cho biết.
+
+Theo ông Leinweber của MarketVector, hoạt động giao dịch đồng Ether và các sản phẩm phái sinh của tiền ảo này, cũng là một nguyên nhân khiến biến động giá của Bitcoin bớt “nóng” hơn.
+
+Trên thực tế, từ đầu tháng 7 đến nay, giá đồng Ether – đứng thứ 2 thị trường với vốn hóa gần 190 tỷ USD, so với 380 tỷ USD của Bitcoin – đã tăng 50%. Trong khi đó, giá Bitcoin gần như đi ngang.
+
+Theo công ty dữ liệu Messari, đồng Ether thường có biến động giá thấp hơn nhiều, với mức biến động cao nhất chỉ là hơn 2% vào tháng 3/2020 – thời điểm tồi tệ nhất của thị trường giữa lúc đại dịch Covid bùng phát mạnh.
+
+Tuy nhiên, Ether hiện thu hút nhiều sự chú ý của dư luận khi đang chuẩn bị “hợp nhất”– đợt nâng cấp dự kiến diễn ra vào giữa tháng này.
+
+Với các nhà đầu tư dài hạn với những tài sản truyền thống như cổ phiếu hay trái phiếu, giá ít biến động hơn có vẻ là một điều tích cực. Nhưng với nhiều nhà đầu tư và những bên tham gia lớn trong thế giới tiền ảo, đặc biệt là với tiền ảo Bitcoin, điều này hoàn toàn ngược lại. Ví dụ, các sàn giao dịch kiếm tiền từ phí giao dịch, do đó, biến động ít hơn đồng nghĩa rằng hoạt động giao dịch cũng ảm đạm hơn.
+
+Với các quỹ đầu cơ tiền ảo – có xu hướng giao dịch dựa trên những biến động về giá, giá ổn định đồng nghĩa có ít cơ hội để kiếm lời hơn.
+
+Câu hỏi đặt ra là vì sao biến động giá của đồng Bitcoin giảm xuống? Theo các nhà phân tích, nhà đầu tư giờ đây ít giao dịch Bitcoin hơn do tâm lý tháo chạy khỏi thị trường tiền ảo nói chung.
+
+Thị trường tiền ảo đã trải qua một năm tồi tệ khi các nhà đầu tư phải ồ ạt bán phá giá các tài sản rủi ro trong bối cảnh lạm phát tăng. Giá đồng Bitcoin đã giảm khoảng 60%, còn đồng Ether giảm 55%. Sự sụp đổ của 2 tiền ảo và vụ phá sản của một công ty cho vay đình đám cũng đã làm xói mòn niềm tin vào lĩnh vực này.
+
+Theo dữ liệu từ Blockchain.com, giá trị giao dịch đồng Bitcoin trên các sàn giao dịch lớn trong 7 ngày qua dao động trong khoảng 127-142 triệu USD – mức thấp nhất kể từ tháng 10/2020. Tương tự, giao dịch hợp đồng tương lai Bitcoin cũng đang ở mức thấp nhất kể từ tháng 11/2020.
+
+“Mức độ biến động tăng cao nhất thường trùng với giai đoạn mà mức độ quan tâm với tiền ảo lớn nhất", ông Stéphane cho biết. "Những người từng bị thua lỗ giờ đây nói rằng: Lúc này tôi không thực sự quan tâm đến tiền ảo”.

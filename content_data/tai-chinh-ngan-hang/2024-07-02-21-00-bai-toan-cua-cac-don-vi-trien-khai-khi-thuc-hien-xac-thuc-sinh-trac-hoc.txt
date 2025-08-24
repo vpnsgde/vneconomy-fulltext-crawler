@@ -1,0 +1,47 @@
+Theo ông Phạm Anh Tuấn, Vụ trưởng, Vụ Thanh toán (Ngân hàng Nhà nước), cùng với sự phát triển nhanh chóng của thanh toán không dùng tiền mặt, trong những năm qua, ngành ngân hàng cũng phải đối mặt đối với rủi ro, thách thức không nhỏ về đảm bảo an ninh, an toàn, bảo mật trong thanh toán; đặc biệt trong bối cảnh tội phạm công nghệ ngày càng gia tăng để lừa đảo chiếm đoạt tiền và tài khoản của người dân với nhiều thủ đoạn tinh vi, phức tạp.
+
+Vụ trưởng Vụ Thanh toán cho biết hiện nay, các đối tượng lừa đảo thường mạo danh cơ quan chức năng, người thân của khách hàng hoặc giả mạo tổ chức, doanh nghiệp; lợi dụng các kênh truyền thông liên lạc phổ biến như điện thoại, mạng xã hội, tin nhắn SMS… để lừa đảo. Hiện có 2 hình thức lừa đảo phổ biến.
+
+
+
+Theo các chuyên gia, mầm mống chính của tội phạm lừa đảo thời gian qua là vấn nạn mua bán, cho thuê tài khoản ngân hàng và sử dụng tài khoản không chính chủ.
+
+Thứ nhất,thao túng tâm lý của người dân; đánh vào lòng tham, nỗi sợ hãi hay tình cảm rồi đe dọa để yêu cầu người dân trực tiếp chuyển tiền.
+
+Thứ hai,lừa đảo chiếm đoạt thông tin đăng nhập và xác thực giao dịch qua ứng dụng ngân hàng điện tử.
+
+Tuy nhiên, kể từ 1/7/2024, việc triển khai các giải pháp an toàn, bảo mật trong thanh toán trực tuyến và thanh toán thẻ ngân hàng theo Quyết định 2345/QĐ-NHNN có hiệu lực thi hành, sẽ giúp ngăn chặn hiệu quả vấn nạn này.
+
+Vụ trưởng Vụ Thanh toán cho biết dữ liệu mà các ngân hàng sử dụng để xác thực sinh trắc học phải đáp ứng 1 trong 3 yêu cầu.
+
+Một là,dữ liệu sinh trắc học của chính khách hàng đó lưu trong chíp của thẻ căn cước công dân.
+
+Hai là, dữ liệu được xác thực tài khoản định danh điện tử (VneID) của chính khách hàng đó.
+
+Ba là, dữ liệu sinh trắc học được lưu trong cơ sở dữ liệu sinh trắc học về khách hàng đã được ngân hàng thu thập và kiểm tra, “làm sạch” với căn cước công dân gắn chip, VneID…
+
+Theo Quyết định 2345/QĐ-NHNN, khách hàng chuyển khoản từ 10 triệu đồng trở lên mỗi giao dịch hoặc chuyển khoản 20 triệu đồng/ngày phải xác thực sinh trắc học. Cùng đó, Quyết định 2345/QĐ-NHNN cũng yêu cầu khách hàng xác thực bằng dấu hiệu nhận dạng sinh trắc học khi lần đầu thực hiện giao dịch trên thiết bị mới đồng thời có thông báo về việc khách hàng đăng nhập lần đầu ứng dụng Internet Banking/Mobile Banking.
+
+Theo ông Phạm Anh Tuấn, khi lấy cắp thông tin khách hàng, kẻ gian thường cài đặt sang một máy khác để thực hiện hành vi chiếm đoạt tài sản. Nhưng, khi chúng thực hiện bước này, các ngân hàng sẽ yêu cầu xác thực sinh trắc học để cài đặt ứng dụng khiến kẻ gian không thực hiện được ý đồ.
+
+Tương tự, nếu chẳng may các ngân hàng bị hacker lấy cắp thông tin của khách hàng, khi áp dụng Quyết định 2345/QĐ-NHNN, kẻ gian không thể thực hiện được giao dịch, vì lúc này không chỉ yêu cầu xác thực bằng mã OTP mà còn bắt buộc phải xác thực khuôn mặt. Do kẻ gian không có xác thực khuôn mặt nên không thể so sánh với khuôn mặt trên hồ sơ gốc của ngân hàng, chính vì thế chúng không thể thực hiện lệnh chuyển tiền.
+
+Ngoài ra, khi thực hiện giao dịch chủ tài khoản phải vào xác thực khuôn mặt, vì thế người đi thuê tài khoản không thể sử dụng được tài khoản cho thuê.
+
+Theo Quyết định 2345/QĐ-NHNN, tổ chức tín dụng, trung gian thanh toán cũng phải lưu trữ thông tin về thiết bị thực hiện các giao dịch trực tuyến tối thiểu trong vòng 3 tháng. Đây chính là công cụ hữu hiệu giúp truy vết đối tượng lừa đảo.
+
+Ghi nhận ngày đầu triển khai Quyết định 2345/QĐ-NHNN, các ngân hàng đã và đang gấp rút thu thập dữ liệu sinh trắc học của khách hàng, song tốc độ vẫn còn chậm.
+
+Trước đó vào trung tuần tháng 6, tại hội nghị “Triển khai Quyết định 2345/QĐ-NHNN” do Hiệp hội Ngân hàng Việt Nam tổ chức, đại diện các ngân hàng nêu 5 nhóm vấn đề chính gây vướng mắc trong quá trình các tổ chức tín dụng chuẩn bị triển khai Quyết định 2345/QĐ-NHNN, bao gồm: giải pháp kỹ thuật, chi phí triển khai, trải nghiệm khách hàng, rủi ro lừa đảo gia tăng và chiêu thức thay đổi liên tục đòi hỏi cập nhật công nghệ; một số vấn đề khác liên quan đến điều kiện xác minh căn cước công dân; môi trường kiểm thử; cho phép xác thực eKYC qua ví điện tử; thiết bị lưu trữ dữ liệu; kết nối hệ thống…
+
+Các tổ chức tín dụng có mạng lưới điểm giao dịch rộng, trải dài trên toàn quốc, số lượng khách hàng lớn nên để triển khai đồng bộ trang thiết bị và hệ thống phần mềm cần nhiều thời gian và chi phí.
+
+
+
+Theo Quyết định 2345/QĐ-NHNN, khách hàng chuyển khoản từ 10 triệu đồng trở lên mỗi giao dịch hoặc chuyển khoản 20 triệu đồng/ngày phải xác thực sinh trắc học. Cùng đó, Quyết định 2345 cũng yêu cầu khách hàng xác thực bằng dấu hiệu nhận dạng sinh trắc học khi lần đầu thực hiện giao dịch trên thiết bị mới đồng thời có thông báo về việc khách hàng đăng nhập lần đầu ứng dụng Internet Banking/Mobile Banking.
+
+Theo chuyên gia, chi phí đầu tư cho hạ tầng công nghệ thông tin, đặc biệt cho các giải pháp về an toàn thông tin khá lớn. Vấn đề đầu tư vốn, lựa chọn công nghệ là thách thức cho các tổ chức tín dụng và trung gian thanh toán khi các công nghệ mới đang ngày càng thay đổi nhanh chóng. Chưa kể, tội phạm công nghệ cao ngày càng tinh vi với nhiều chiêu trò lừa đảo nhằm đánh cắp thông tin, dữ liệu, chiếm đoạt tiền trong tài khoản khách hàng. Trong khi đó, việc thu thập và xử lý dữ liệu sinh trắc học của khách hàng cùng tốn nhiều thời gian, đòi hỏi tính xác thực cao. Đây là thách thức không nhỏ với các tổ chức tín dụng trong việc thực hiện Quyết định 2345/QĐ-NHNN.
+
+Ngoài ra, để triển khai Quyết định 2345/QĐ-NHNN, các ngân hàng, trung gian thanh toán cũng phải thay đổi quy trình đăng ký tài khoản và sử dụng công nghệ xác thực sinh trắc khi thực hiện giao dịch.
+
+Bài toán đặt ra với các đơn vị là vừa phải áp dụng các công nghệ mới, có độ phức tạp cao nhưng phải đảm bảo dễ sử dụng, không ảnh hưởng đến trải nghiệm khách hàng. Khó khăn càng lớn tại các khu vực nông thôn, vùng sâu vùng xa, nơi trình độ sử dụng thiết bị công nghệ của khách hàng còn nhiều hạn chế nên có thể khó thực hiện thao tác theo quy trình khi giao dịch.

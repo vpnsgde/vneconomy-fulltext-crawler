@@ -1,0 +1,49 @@
+Theo Ngân hàng Thanh toán quốc tế (BIS), tiền kỹ thuật số là tài sản được thể hiện dưới dạng số, không có hình thái vật chất như tiền giấy và tiền xu truyền thống. Dựa trên đối tượng phát hành, tiền kỹ thuật số có thể được phân chia thành 2 loại là tiền kỹ thuật số của tư nhân (private digital currency) và CBDC.
+
+CBDC được gọi là tiền điện tử của ngân hàng trung ương - là tiền pháp định dưới dạng số, một dạng mới của tiền ngân hàng trung ương. CBDC có đơn vị tài khoản quốc gia, là một nghĩa vụ nợ của ngân hàng trung ương và được đảm bảo bằng tài sản do ngân hàng trung ương nắm giữ. Kết quả là ngân hàng trung ương công nhận độ tin cậy và sự hợp pháp của việc phát hành CBDC.
+
+Tại châu Á, việc áp dụng các loại tiền kỹ thuật số của Ngân hàng trung ương đang có những diễn biến khác nhau. Gần 5 năm sau khi Trung Quốc triển khai thử nghiệm đồng nhân dân tệ kỹ thuật số (e-CNY) đầu tiên, chỉ có hai quốc gia châu Á khác thực sự có CBDC bán lẻ đang hoạt động: Ấn Độ và Campuchia.
+
+Ở những nơi khác trong khu vực châu Á, nhiều thí điểm khác nhau đang được tiến hành tại Nhật Bản, Hàn Quốc và các quốc gia Đông Nam Á khác. Họ đang theo dõi chặt chẽ những quốc gia đã áp dụng sớm để cân nhắc những quyết định, tuy nhiên để đi đến việc ra mắt một loại tiền kỹ thuật số hay không vẫn còn là một ẩn số.
+
+Tại Trung Quốc, CBDC được thảo luận sôi nổi và đóng vai trò quan trọng trong phân khúc bán buôn. Các Ngân hàng trung ương của Hong Kong (Trung Quốc), Thái Lan, Các Tiểu vương quốc Ả Rập Thống nhất và Ả Rập Saudi đang hợp tác với Bắc Kinh và Ngân hàng Thanh toán Quốc tế về Dự án xuyên biên giới đầy tham vọng mBridge.
+
+Tuy nhiên, trong khi các Ngân hàng trung ương cùng với các Ngân hàng thương mại có thể đưa ra các điều khoản của mBridge, thì việc áp dụng trong phân khúc bán lẻ đòi hỏi phải có sự quan tâm của người tiêu dùng.
+
+Khi nói đến thanh toán kỹ thuật số, Trung Quốc đã xây dựng một hệ sinh thái toàn diện, trưởng thành được củng cố bởi sự độc quyền của Alipay và WeChat Pay. Có rất ít thứ còn lại mà đồng nhân dân tệ kỹ thuật số có thể cung cấp cho người tiêu dùng Trung Quốc bởi họ đã có thể tiếp cận hết thông qua các nền tảng thanh toán hiện có.
+
+Vì lý do đó, Chính phủ Trung Quốc đã thử những cách như trả lương cho nhân viên nhà nước bằng đồng nhân dân tệ kỹ thuật số. Người lao động thực sự đang nhận tiền lương của họ dưới dạng e-CNY, nhưng sau đó họ nhanh chóng chuyển chúng vào tài khoản ngân hàng của mình để chi tiêu dưới dạng tiền mặt. Không khó hiểu bởi lý do đằng sau nó: Các lựa chọn sử dụng e-CNY cả trực tuyến và ngoại tuyến đều bị hạn chế, trong khi Bắc Kinh chưa giải quyết thỏa đáng những lo ngại về quyền riêng tư xung quanh loại tiền pháp định kỹ thuật số.
+
+Ngân hàng Nhân dân Trung Quốc gần đây đã chia sẻ tổng khối lượng giao dịch cho e-CNY đã đạt giá trị 910 tỷ USD cho đến tháng 5 năm 2024. Do thị trường thanh toán tổng thể của Trung Quốc có giá trị khoảng 40,3 nghìn tỷ USD, chúng ta có thể thấy CNY điện tử còn một chặng đường dài trước khi nó chiếm được khối lượng giao dịch đáng kể.
+
+Tại thị trường Ấn Độ, trang CoinDesk đã báo cáo vào tháng 1 rằng các giao dịch rupee kỹ thuật số (e-rupee) của Ấn Độ đã vượt qua mức 1 triệu giao dịch/ngày, tuy nhiên đây không phải số lượng giao dịch trung bình hàng ngày sử dụng tiền tệ kỹ thuật số của Ấn Độ.
+
+Nhiều thông tin cũng chỉ ra rằng nhân viên ngân hàng đã được khuyến khích tham gia, dấy lên nghi ngờ cột mốc quan trọng này là nhằm đạt được mục tiêu do Ngân hàng Dự trữ Ấn Độ (RBI) đặt ra hơn là bất kỳ dấu hiệu nào cho thấy việc áp dụng đồng rupee kỹ thuật số đang gia tăng.
+
+Trong bối cảnh người dân không mấy quan tâm đến đồng rupee kỹ thuật số, RBI cho biết vào tháng 5 rằng nó sẽ được cung cấp ngoại tuyến, điều này sẽ hữu ích hơn đối với người tiêu dùng. Hệ thống thanh toán kỹ thuật số hiện tại của Ấn Độ đã rất thành công, nếu không muốn nói là phát triển như Trung Quốc, trong khi tiền mặt vẫn phổ biến trong các giao dịch thực tế.
+
+Vào cuối tháng 6, Reuters đưa tin rằng việc sử dụng đồng rupee điện tử đã giảm xuống chỉ còn 10% so với mức cao nhất đạt được vào tháng 12 năm 2023. Nguồn tin của Reuters cũng nói rằng điều này cho thấy có rất ít nhu cầu đối với việc sử dụng đồng rupee điện tử.
+
+Trong khi đó, các giao dịch vẫn tiếp tục diễn ra một phần vì các ngân hàng đang trả lương cho nhân viên của họ thông qua đồng rupee điện tử. Điều này có nghĩa là khối lượng giao dịch tăng lên vào cuối mỗi tháng, nhưng không phải là mức tăng bền vững.
+
+Trong khi người dùng bán lẻ ít quan tâm đến tiền pháp định kỹ thuật số ở Trung Quốc và Ấn Độ, họ lại đổ xô vào dự án tiền điện tử kỹ thuật số Bakong của Campuchia, dự án đã vượt qua 10 triệu tài khoản (tương đương 60% dân số Campuchia) vào tháng 12 năm 2023. Ngân hàng Quốc gia Campuchia (NBC) cùng phát triển Bakong với người Nhật thông qua công ty khởi nghiệp công nghệ chuỗi khối Soramitsu.
+
+Bakong được mô tả là một hệ thống thanh toán bán lẻ dựa trên blockchain do Ngân hàng trung ương Campuchia quản lý, cho phép khả năng tương tác trên toàn bộ phạm vi thanh toán của đất nước. Chính phủ Campuchia đã triển khai Dự án Bakong vì họ tin rằng CBDC bán lẻ có thể đạt được ba mục tiêu chính sách của họ: thúc đẩy tài chính toàn diện (tại thời điểm Bakong ra mắt, khoảng 75% dân số không có tài khoản ngân hàng), cải thiện cơ sở hạ tầng thanh toán kỹ thuật số và cuối cùng giảm việc sử dụng đồng USD trong các giao dịch hàng ngày.
+
+Làm việc với Soramitsu, NBC đảm bảo rằng giao dịch với Bakong sẽ đơn giản và nhanh chóng. Ví điện tử Bakong chỉ cần số điện thoại hoặc mã QR để chuyển tiền hoặc thanh toán.
+
+Về bản chất, Bakong là công ty đi đầu về thanh toán kỹ thuật số giống như Alipay ở Trung Quốc 20 năm trước. Vì lý do đó, và với sự hỗ trợ mạnh mẽ từ Chính phủ Campuchia, các chuyên gia kỳ vọng nó sẽ trở thành một phần nền tảng của cơ sở hạ tầng thanh toán kỹ thuật số của quốc gia này.
+
+Mặc dù Ngân hàng trung ương của cả Trung Quốc và Ấn Độ đều mong muốn thúc đẩy việc áp dụng CBDC tương ứng của họ, tuy nhiên những nỗ lực đó sẽ không mang lại kết quả nếu người tiêu dùng không thấy chúng hữu ích. Cả Trung Quốc và Ấn Độ đều đã rất thành công trong việc xây dựng cơ sở hạ tầng thanh toán kỹ thuật số nhhưng cả Ngân hàng Nhân dân Trung Quốc lẫn RBI đều chưa đưa ra bằng chứng thuyết phục về lý do tại sao việc sử dụng CBDC bán lẻ lại mang lại lợi ích đáng kể cho người dùng.
+
+Người dùng bán lẻ vẫn do dự khi sử dụng các loại tiền tệ kỹ thuật số vì họ lo ngại về việc sử dụng dữ liệu và quyền riêng tư. Nếu các Ngân hàng trung ương không giải quyết được những lo ngại này, các dự án CBDC của họ sẽ tiếp tục mất đà.
+
+Trong khi cả Nhật Bản và Hàn Quốc tiếp tục thử nghiệm thí điểm đồng yên kỹ thuật số và đồng won kỹ thuật số, họ thậm chí còn ít sử dụng CBDC bán lẻ thực tế hơn so với Trung Quốc và Ấn Độ mặc dù là những nền kinh tế tiên tiến. Một điều chắc chắn rằng Nhật Bản có những mục tiêu không dùng tiền mặt đầy tham vọng với cơ sở hạ tầng thanh toán kỹ thuật số hiện có với điều kiện cần tăng cường áp dụng. Xây dựng cơ sở hạ tầng mới cho tiền pháp định kỹ thuật số đang thực sự cần thiết đối với quốc gia này.
+
+Một quốc gia đang phát triển ở Đông Nam Á có khả năng áp dụng CBDC theo cách tương tự như Campuchia, đó là Lào. Trên thực tế, Lào đang tiến hành thí điểm CBDC với Soramitsu bắt đầu vào năm 2023.
+
+CBDC có ý nghĩa nhất đối với các quốc gia có nhu cầu cấp bách về tài chính toàn diện và cơ sở hạ tầng thanh toán hiện tại còn hạn chế, 2 yếu tố đang rất quan trọng đối với Lào. Lào có GDP bình quân đầu người khoảng 2.600 USD, cao hơn Campuchia và Myanmar, nhưng đứng sau mọi quốc gia khác ở Đông Á. Hơn nữa, chưa đến 30% dân số trưởng thành ở Lào có tài khoản ngân hàng.
+
+Có một lợi ích tiềm năng bổ sung cho Lào khi áp dụng đồng kip kỹ thuật số. Nếu Soramitsu triển khai một phiên bản tương tự của Dự án Bakong ở Lào thì việc có cùng cơ sở hạ tầng CBDC có thể tạo điều kiện thuận lợi cho các khoản thanh toán xuyên biên giới liền mạch giữa Lào và Campuchia.
+
+Đối với việc ra mắt kip kỹ thuật số, điều đó vẫn chưa chắc chắn vì chương trình thí điểm vẫn đang tiếp tục ở giai đoạn thứ hai. Hiện Ngân hàng trung ương Lào vẫn chưa bình luận về vấn đề này. Xét trên mọi khía cạnh, bất chấp sự quan tâm của Chính phủ trong việc độc quyền thị trường tiền điện tử, CBDC vẫn chưa thu hút được nhiều sự chú ý của người dùng bán lẻ ở châu Á.

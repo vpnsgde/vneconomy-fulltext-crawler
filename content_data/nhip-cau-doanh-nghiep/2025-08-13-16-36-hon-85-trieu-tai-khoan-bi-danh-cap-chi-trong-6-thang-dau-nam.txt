@@ -1,0 +1,37 @@
+Trong nửa đầu năm 2025, hệ thống Viettel Threat Intelligence của VCS ghi nhận gần 8,5 triệu tài khoản người dùng tại Việt Nam đã bị đánh cắp, chiếm 1,7% tổng số tài khoản bị rò rỉ trên toàn cầu. Đáng chú ý, nhiều tài khoản liên quan đến hệ thống nhạy cảm như email doanh nghiệp, VPN, SSO, tài khoản quản trị,… tác hại không chỉ dừng ở mất thông tin đăng nhập, mà còn là nguy cơ xâm nhập trái phép, đánh cắp tài sản nội bộ và phá hoại vận hành hệ thống.
+
+TÀI KHOẢN, DỮ LIỆU CÁ NHÂN TIẾP TỤC TRỞ THÀNH MỤC TIÊU CHÍNH
+
+Cùng với đó, 191 vụ rao bán dữ liệu tại Việt Nam đã được Viettel Threat Intelligence phát hiện, tăng gấp 3 lần so với cùng kỳ năm trước. Khối lượng dữ liệu bị rao bán lên tới gần 3 tỷ bản ghi và 482 GB dữ liệu, trong đó có nhiều thông tin định danh, hồ sơ khách hàng và hệ thống nội bộ của doanh nghiệp - phần lớn đến từ các doanh nghiệp và cơ quan tổ chức có uy tín thuộc đa lĩnh vực. Không ít trường hợp rò rỉ là do hệ thống có lỗ hổng chưa được vá, hoặc tài khoản bị chiếm quyền từ trước đó nhưng không phát hiện kịp thời.
+
+Trong giai đoạn này, 67 lỗ hổng bảo mật mới xuất hiện được xác định có khả năng ảnh hưởng trực tiếp đến doanh nghiệp Việt Nam. Đặc biệt, các nhóm tấn công không chỉ tập trung vào lỗ hổng mới mà còn khai thác lại các lỗ hổng cũ, đã có mã khai thác công khai. Nhiều lỗ hổng cho phép xâm nhập vào hệ thống (thực thi mã từ xa, vượt qua xác thực hoặc chiếm quyền quản trị) chỉ với một thao tác đơn giản.
+
+GIẢ MẠO THƯƠNG HIỆU VÀ LỪA ĐẢO CÓ CHỦ ĐÍCH: KHÔNG CÒN LÀ TẤN CÔNG ĐẠI TRÀ
+
+Báo cáo cũng chỉ ra hơn 4.500 tên miền lừa đảo và 1.067 trang web giả mạo đã được ghi nhận. Các kịch bản lừa đảo ngày càng “diễn như thật”: giả danh ngân hàng, cơ quan thuế, điện lực, công ty giao hàng, nhân viên tuyển dụng, thậm chí cả các chương trình thiện nguyện mùa hè.
+
+“Đặc biệt, nạn nhân không chỉ là người dùng cá nhân, mà còn là cả các chủ doanh nghiệp hoặc nhân viên nội bộ - những người có quyền truy cập hệ thống, tài chính hoặc dữ liệu khách hàng. Khi lừa đảo thành công, tin tặc có thể xâm nhập sâu vào chuỗi vận hành của tổ chức”, ông Trần Minh Quảng, Giám đốc Trung tâm Phân tích và chia sẻ nguy cơ an ninh mạng, VCS chia sẻ thêm.
+
+Các cuộc tấn công này ngày càng trở nên nguy hiểm khi được cá nhân hóa nhờ AI và dữ liệu thu thập từ mạng xã hội, khiến người dùng dễ bị mắc bẫy, trong khi các hệ thống bảo mật truyền thống lại khó phát hiện do hình thức ngày càng “thật”.
+
+LỘ DIỆN XU HƯỚNG TẤN CÔNG MỚI 6 THÁNG CUỐI NĂM
+
+Các chuyên gia của VCS dự báo rằng, từ nay đến cuối năm, AI và deepfake sẽ trở thành yếu tố trung tâm của làn sóng tấn công thế hệ mới. Các hình thức phishing tự động hóa, deepfake voice/video và mạo danh bằng giọng nói sẽ khiến người dùng, cả nhân viên doanh nghiệp khó lòng phân biệt thật giả.
+
+Cùng lúc, các dòng mã độc không cần lưu trữ dưới dạng file trên hệ thống (fileless malware) và ransomware dưới dạng dịch vụ (RaaS) đang bùng nổ. Tin tặc không cần nhiều kỹ năng cũng có thể mua gói tấn công trọn gói trên chợ đen, và triển khai mã độc vào doanh nghiệp mục tiêu chỉ với vài cú click chuột.
+
+Ngoài ra, các nền tảng IoT và hệ sinh thái blockchain cũng đang trở thành mục tiêu mới. Những thiết bị kém bảo mật, hoặc hệ thống phân tán không được giám sát chặt chẽ, đang là điểm yếu mà các nhóm tấn công khai thác mạnh.
+
+Như vậy, tấn công mạng không còn là chuyện “có thể xảy ra” – mà đang xảy ra hàng giờ, hàng ngày. Doanh nghiệp nào hành động sớm sẽ có cơ hội tồn tại và phát triển an toàn trong kỷ nguyên số.
+
+DOANH NGHIỆP CẦN LÀM GÌ ĐỂ PHÒNG NGỪA?
+
+Theo các chuyên gia VCS, doanh nghiệp cần chuyển từ tư duy "phòng thủ khi có sự cố" sang "giám sát chủ động và phòng ngừa từ sớm". Trước hết, cần triển khai hệ thống giám sát an toàn thông tin 24/7 kết hợp với nền tảng Threat Intelligence nội địa, nhằm kịp thời nhận diện các chiến dịch tấn công có chủ đích đang âm thầm diễn ra. Song song, việc rà soát, vá lỗ hổng định kỳ trên các hệ thống quan trọng - đặc biệt là các phần mềm, thiết bị đang được tin tặc khai thác phổ biến - phải trở thành hoạt động thường xuyên thay vì mang tính đối phó.
+
+Doanh nghiệp cũng cần đánh giá toàn diện mức độ rủi ro đến từ các nhà cung cấp và đối tác bên thứ ba, từ đó thiết lập yêu cầu bảo mật ngay từ khâu hợp đồng, hạn chế tình trạng rò rỉ dữ liệu qua chuỗi cung ứng.
+
+Ở khía cạnh con người, xây dựng văn hóa an toàn thông tin nội bộ là yếu tố then chốt: mỗi nhân sự cần được đào tạo để nhận biết dấu hiệu lừa đảo, giả mạo và tuân thủ quy tắc truy cập tối thiểu.
+
+Cuối cùng, doanh nghiệp cần cân nhắc đầu tư vào các giải pháp bảo mật thế hệ mới như Zero Trust, quản lý bề mặt tấn công bên ngoài (EASM), kiểm soát truy cập đặc quyền (PAM/PIM), đồng thời chủ động kiểm tra lại mức độ rủi ro hiện tại của hệ thống để xác định đâu là điểm yếu cần ưu tiên bảo vệ ngay lập tức.
+
+“Chỉ bằng cách hành động trước - thay vì đợi bị tấn công rồi mới phản ứng - doanh nghiệp mới có thể đứng vững trong bối cảnh không gian mạng đang ngày một khốc liệt hơn”, ông Quảng nhấn mạnh.

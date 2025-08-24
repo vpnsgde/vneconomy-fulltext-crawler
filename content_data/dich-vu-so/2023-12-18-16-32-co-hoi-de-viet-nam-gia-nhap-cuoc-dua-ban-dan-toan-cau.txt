@@ -1,0 +1,39 @@
+Ngày 18/12, tọa đàm "Công nghệ bán dẫn: Nền tảng của thế giới hiện đại" đã mở màn cho chuỗi tọa đàm "Khoa học vì cuộc sống" trong khuôn khổ Tuần lễ khoa học công nghệ VinFuture 2023. Đây là diễn đàn quốc tế quy tụ những nhà khoa học hàng đầu cùng với các nhà nghiên cứu trong nước kết nối và cùng bàn luận về tương lai của ngành công nghiệp bán dẫn đang bùng nổ trên toàn cầu.
+
+Là “huyết mạch” của nền kinh tế số, ngành bán dẫn được dự báo có thể mang lại doanh thu hơn 620 tỷ USD vào năm 2024 và tăng mạnh lên 1.000 tỷ USD vào năm 2030, theo Gartner- công ty tư vấn và nghiên cứu công nghệ hàng đầu thế giới. Ngành này cũng được xem là phần cốt lõi trong cuộc cạnh tranh công nghệ giữa các cường quốc trong thế kỷ 21.
+
+GS. Richard Henry Friend từ Đại học Cambridge (Vương quốc Anh), Chủ tịch Hội đồng Giải thưởng VinFuture, đồng thời là chủ tọa của phiên thảo luận nhấn mạnh, bán dẫn là công nghệ nền tảng của nhiều giải pháp công nghệ hiện tại. Mọi thứ từ hệ thống năng lượng, viễn thông, điện toán đều cần bán dẫn. Bán dẫn có vai trò quan trọng cho sự phát triển, đang mở ra nhiều cơ hội và thu hút nhiều ngành công nghiệp.
+
+
+
+Cũng theo chuyên gia, lĩnh vực bán dẫn rất rộng và đa dạng. Nguyên tắc là chip có kích thước càng nhỏ thì sẽ càng tiết kiệm năng lượng. Gần đây, đã có một bước tiến công nghệ đáng kể nhờ vào việc thay đổi nguồn sáng (light source), giúp các nhà khoa học thiết kế được các con chip có kích thước rất nhỏ. Điều này đã tạo ra sự bất ngờ lớn cho thế giới sản xuất linh kiện bán dẫn.
+
+Chia sẻ điều này, GS. Teck-Seng Low, Phó Chủ tịch cấp cao tại Đại học Quốc gia Singapore dự đoán, công nghệ bán dẫn sẽ là “xương sống” phát triển nhiều ngành công nghiệp cũng như thu hút nhân tài cho các quốc gia.
+
+Ông cho biết hiện nay trên toàn thế giới đang diễn ra cuộc đua thu nhỏ kích thước của chip bán dẫn. Chip đã được sản xuất với kích thước giảm dần từ 9nm, 7nm, 5nm, rồi 3nm. Những con chip đã nhỏ, nay còn nhỏ hơn, được dự đoán sẽ còn thống trị và cải thiện nhiều hơn nữa các lĩnh vực trong cuộc sống.
+
+Nói về hành trình phát triển bán dẫn ở Singapore, GS. Teck-Seng Low cho hay, đối với các nước có quỹ đất nhỏ như Singapore, phát triển những ngành công nghiệp có giá trị gia tăng gần như là bắt buộc. Bán dẫn là một trong những ngành có giá trị gia tăng và nền tảng kiến thức rất cao. "Khi đầu tư đúng cách, chúng tôi không chỉ thu hút các công ty, phát triển nhân tài mà còn phát triển được trên quy mô lớn để có được vị thế trên toàn cầu, từ đó hợp tác với các quốc gia khác để triển khai dự án".
+
+Kết quả là Singapore có số lượng nhà máy lớn thứ hai sau Đài Loan (Trung Quốc), với toàn bộ chuỗi giá trị thuộc sở hữu của chúng tôi, từ nhà sản xuất thiết bị đến cung cấp hệ thống vật liệu. Quốc gia này cũng nắm giữ hầu hết những trung tâm thiết kế vi mạch lớn như Qualcomm, Broadcom, Marvell, Media Tech… Nhìn vào nền kinh tế Singapore, trong danh sách những người giàu nhất có không ít người thuộc lĩnh vực vi điện tử, bán dẫn.
+
+Có thể nói, ngành vi điện tử và bán dẫn là một trong những ngành mũi nhọn giúp Singapore có được vị thế tốt. Nhấn mạnh bán dẫn điện tử ngành quan trọng với đất nước, chuyên gia này thông tin, hiện nay, ngành bán dẫn của Singapore đóng góp 9% GDP quốc gia. Bên cạnh Đài Loan (Trung Quốc), Singapore tập trung được nhiều nhà mày sản xuất, thiết kế lớn.
+
+Đến nay, Singapore đã hình thành hệ sinh thái hút các nhà sản xuất bán dẫn. Singapore cũng đang đầu tư để làm ra chip nhỏ nhất thế giới dưới 2Nm; hỗ trợ các nhà máy bán dẫn hàng đầu để có công nghệ hỗ trợ khoa học ở cấp độ dưới 2Nm, chuyên gia này tiết lộ.
+
+Chia sẻ về kinh nghiệm quốc gia mình đầu tư vào ngành bán dẫn, GS. Teck-Seng Low cho biết Singapore sao chép mô hình công nghệ bán dẫn của Đài Loan (Trung Quốc). Singapore không sử dụng nhiều ngân sách Chính phủ nhưng nguồn vốn này là mồi tốt cho chương trình, thu hút các công ty bán dẫn hàng đầu vào Singapore. Singapore cũng có các chính sách thu hút các nhà đầu tư.
+
+Để phát triển ngành này, tôi nghĩ cần phải thu hút nhà đầu tư nước ngoài và hai là phát triển công ty bán dẫn trong nước. Phải kết hợp sức mạnh nội tại và nhà đầu tư nước ngoài. “Tôi cho rằng cần phát triển thế hệ doanh nhân mới, không chỉ ở Singapore mà nhiều nước khác Trong giai đoạn dài, chúng ta chưa thấy sự xuất hiện nhà sản xuất chip mới", GS Teck-Seng Low chia sẻ.
+
+
+
+
+
+Hàng năm Singapore chi 5 tỷ USD cho nghiên cứu, nhưng số tiền này sẽ trở nên vô ích nếu chúng tôi không có nhân lực tài năng để phát triển. Vì vậy, chiến lược thu hút nhân lực giỏi trong lĩnh vực bán dẫn là yếu tố tiên quyết khi các bạn muốn bắt tay thực sự vào việc phát triển ngành công nghiệp công nghệ này”, GS. Teck-Seng Low nói.
+
+Nhấn mạnh các nguồn lực, tài chính và con người là yếu tố quan trọng để phát triển bán dẫn, GS. Teck-Seng Low chia sẻ, Việt Nam có thể nhìn Singapore bởi để bắt đầu phòng Lab cần cả triệu USD, hàng chục triệu USD. Chuyên gia này cho rằng Việt Nam có thể khởi động với chi phí ban đầu hợp lý khi hợp tác với mô hình khởi nghiệp. Trong kỉ nguyên mới đang mở ra những cơ hội đầu tư nhỏ nhưng vẫn hiệu quả cao.
+
+Còn theo TS. Sadasivan Shankar, Quản lý Nghiên cứu Phát triển Công nghệ tại Phòng thí nghiệm Máy gia tốc Quốc gia SLAC, Đại học Stanford, Hoa Kỳ, Trung Quốc khi mới tham gia không phải là nước hàng đầu và chỉ cung ứng linh kiện. Từ sản xuất họ tiến lên trong chuỗi cung ứng. Ngành điện tử có quy mô 600 tỉ USD hầu hết tập trung vào điện toán và dịch vụ. Các nước tham gia nên đi từ quy mô nhỏ để từng bước phát triển năng lực. Chuyên gia này tin rằng những quốc gia đang phát triển như Việt Nam có thể thiết lập các chương trình hoặc các phương án tài trợ để thúc đẩy giáo dục. Phần đóng gói chip đang là cơ hội lớn cho Việt Nam có thể nắm bắt.
+
+Cùng chung nhận định, Giáo sư Albert Pisano, Hiệu trưởng Trường Kỹ thuật Jacobs (Đại học California, San Diego, Hoa Kỳ), khẳng định Việt Nam là nơi tuyệt vời cho doanh nhân khởi nghiệp và sẽ có vai trò tích cực, đóng góp mạnh mẽ vào lĩnh vực bán dẫn.
+
+Trước câu hỏi Việt Nam cần làm gì để phát triển ngành này, GS Nguyễn Thục Quyên, Đồng Chủ tịch Hội đồng Sơ khảo Giải thưởng VinFuture, Giám đốc Trung tâm Polyme và Chất rắn Hữu cơ (CPOS) cho rằng các trường đại học cần đào tạo ra nguồn nhân lực cao cho bán dẫn, đào tạo các sinh viên vừa học, vừa thực hành tại doanh nghiệp. Việt Nam đang thiếu nguồn nhân lực cao này. "Việt Nam là quốc gia đang phát triển cần cơ sở hạ tầng dùng chung chia sẻ cùng là quan trọng để thúc đẩy thu hút nhà đầu tư", GS Quyên nói.

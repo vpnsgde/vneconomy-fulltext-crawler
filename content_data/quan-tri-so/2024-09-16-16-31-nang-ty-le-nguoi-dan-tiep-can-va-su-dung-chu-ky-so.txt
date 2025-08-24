@@ -1,0 +1,29 @@
+Tính đến hết tháng 7/2024, tỷ lệ người dân ở độ tuổi trưởng thành có chữ ký số đạt 13,5%, có khoảng 7,45 triệu chữ ký số. Trong khi đó, theo “Chiến lược quốc gia phát triển kinh tế số và xã hội số đến năm 2025, định hướng đến năm 2030” được Thủ tướng phê duyệt năm 2022, thì mục tiêu đến năm 2025 tỷ lệ dân số trưởng thành có chữ ký số hoặc chữ ký điện tử cá nhân phải đạt trên 50% và đến năm 2030 tỷ lệ này là trên 70%.
+
+Sau 3 năm triển khai chiến lược quốc gia nói trên, tỷ lệ dân số trưởng thành của Việt Nam có chữ ký số đã tăng khoảng 4 lần. Tuy nhiên, thực tế cho thấy tình hình hiện tại so với mục tiêu đề ra vẫn còn khoảng cách lớn.
+
+Chữ ký số đang được ứng dụng ngày càng phổ biến tại nhiều quốc gia trên thế giới. Hơn 60 quốc gia đã xây dựng luật riêng về chữ ký điện tử. Tại Trung Quốc và Nhật Bản, người dân từ lâu đã sử dụng chữ ký số trong nhiều lĩnh vực, từ chính phủ điện tử đến tài chính, y tế, giáo dục…
+
+Có thể thấy rõ, chữ ký số đang dần tạo ra cuộc cách mạng trong xác thực giao dịch vừa đảm bảo cơ sở pháp lý toàn vẹn vì có thể thay thế chữ ký tay, con dấu, vừa giúp cá nhân, doanh nghiệp tiết kiệm thời gian, chi phí một cách hiệu quả. Tuy nhiên, thực tế hiện nay, vẫn còn nhiều người chưa nhìn nhận đầy đủ giá trị của chữ ký số và ứng dụng trong môi trường thực tế của chữ ký số cũng chưa tương xứng với giá trị công nghệ cốt lõi của nó.
+
+Trao đổi với Tạp chí Kinh tế Việt Nam/VnEconomy, ông Lê Minh Quốc, nguyên CTO Công ty MK Smart thuộc Tập đoàn MK, cho rằng tỷ lệ chữ ký số ở người trưởng thành khó đạt kỳ vọng xuất phát từ nguyên nhân người dân chưa thực sự nhìn nhận, tin tưởng tác dụng của chữ ký số, môi trường ứng dụng chữ ký số tại Việt Nam vẫn còn hạn chế. Thực tế, chữ ký số cá nhân mới chỉ được sử dụng chủ yếu trong một dịch vụ khai và nộp thuế qua mạng; kê khai hải quan điện tử và các dịch vụ bảo hiểm xã hội điện tử.
+
+Trong khi đó, mặc dù ứng dụng dịch vụ công trực tuyến hiện đã được đẩy lên mức độ 3 và mức độ 4, song nhìn chung nhiều dịch vụ không bắt buộc cá nhân phải xác thực bằng chữ ký số. Bên cạnh đó, nhiều thủ tục hành chính, văn bản, giấy tờ vẫn chưa được chuyển đổi hoàn toàn trên môi trường điện tử, dẫn đến nhu cầu định danh điện tử vẫn chưa thực sự phổ biến.
+
+Một tín hiệu tốt cho thấy chữ ký số tại Việt Nam đang được quan tâm phát triển là hiện nay Việt Nam có khoảng 25 doanh nghiệp cung cấp dịch vụ chứng thực chữ ký số (CA) công cộng đã được Bộ Thông tin và Truyền thông đã cấp phép. Tuy nhiên, còn nhiều trở ngại khiến cho việc phát triển chữ ký số chưa đạt như kỳ vọng.
+
+Ngoài trở ngại là người dân chưa nhìn nhận đầy đủ lợi ích của chữ ký số, việc lựa chọn giữa nhiều nhà cung cấp chứng thực chữ ký số; còn một trở ngại khác là chi phí cho chữ ký số khá cao, chưa thực sự phù hợp với thu nhập của người dân, trong khi môi trường sử dụng chưa nhiều. Nếu người dân phải mua gói chữ ký số hết 1 - 2 triệu đồng nhưng một năm chỉ sử dụng vài lần, sau đó hết hạn lại phải mua gói mới, như thế rất tốn kém.
+
+Đến tháng 7/2024, theo chủ trương của Chính phủ và Bộ Thông tin và Truyền thông, nhiều nhà cung cấp dịch vụ xác thực chữ ký số đã cấp miễn phí hàng triệu chữ ký số cá nhân cho người dân ký dịch vụ công. Chi phí sử dụng dịch vụ được nhiều nhà cung cấp đưa ra cũng phù hợp với nhiều người dân, chẳng hạn như hình thức sử dụng thuê bao trọn gói không giới hạn lượt ký và ứng dụng ký có giá chỉ từ 5.000 đồng/tháng; hình thức theo lượt ký khi có phát sinh nhu cầu ký số với giá chỉ từ 1.000 đồng/lượt ký.
+
+Theo ông Lê Minh Quốc, việc giảm giá thành đăng ký dịch vụ chữ ký số và cho phép trả theo lượt ký nhằm phù hợp với nhu cầu của nhiều đối tượng khách hàng cần được đẩy mạnh triển khai tại tất cả các nhà cung cấp dịch vụ để người dân có thể sử dụng chữ ký số với chi phí thấp nhất, nếu được có thể không thu phí duy trì chữ ký số và chỉ thu phí 1.000 đồng mỗi lần cần ký và sử dụng ngay điện thoại thông minh có sẵn với ứng dụng ký số từ xa. Sau này cơ quan quản lý có thể cho phép phát triển thêm ứng dụng chữ ký số ngay trên chip của thẻ căn cước mà hầu hết mọi người dân đã có sẵn.
+
+Đến nay, Việt Nam đã thiết lập tương đối hoàn thiện hành lang pháp lý để hướng dẫn, đẩy mạnh sử dụng chữ ký số trong các giao dịch điện tử. Đơn cử như Thông tư 16/2019/TT-BTTTT chính thức cấp phép cung cấp dịch vụ chứng thực chữ ký số từ xa và dịch vụ chứng thực chữ ký số trên thiết bị di động mang lại thuận tiện cho người dân trong tiếp cận chữ ký số. Luật Giao dịch điện tử năm 2023 chính thức có hiệu lực từ ngày 1/7/2024 đã tăng cường tính pháp lý của chữ ký số và đẩy mạnh hiện diện của chữ ký điện tử trong nhiều dịch vụ, đặc biệt là dịch vụ tài chính.
+
+Tuy nhiên, chỉ đẩy mạnh gia tăng tỷ lệ chữ ký điện tử của người trưởng thành là chưa đủ, bởi mục tiêu cuối cùng là đưa người dân trở thành công dân số hướng tới chuyển đổi số.
+
+Để giải quyết căn cơ vấn đề này, ông Quốc cho rằng việc mở rộng môi trường ứng dụng chữ ký số là bài toán cần được giải. “Phải khiến người dân thấy họ có nhu cầu chữ ký số giống như nhu cầu sử dụng QR Code hiện tại, đưa chữ ký số thành một công cụ quen thuộc phục vụ cuộc sống hàng ngày, khi đó mới có công dân số từ đó hình thành chính phủ số, xã hội số. Tuy nhiên, cần sớm có Luật Công chứng điện tử tạo thuận lợi phát triển chữ ký số tới mỗi người dân”, ông Quốc nói...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 38-2024 phát hành ngày 16/09/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

@@ -1,0 +1,17 @@
+Sử dụng dữ liệu và dự báo theo xếp hạng chuỗi cung ứng pin lithium-ion của BloombergNEF, đồ thị thông tin dưới đây thể hiện công suất sản xuất pin của các quốc gia dẫn đầu trong năm 2022 và 2027.
+
+Năm 2022, công suất sản xuất pin của Trung Quốc nhiều hơn phần còn lại của thế giới cộng lại. Với công suất gần 900 gigawatt giờ (GWh), chiếm 77% tổng công suất toàn cầu, Trung Quốc hiện là nơi đặt trụ sở của 6/10 công ty sản xuất pin lớn nhất thế giới.
+
+Đằng sau sự thống trị về sản xuất pin của Trung Quốc là sự tích hợp theo chiều dọc của hoạt động sản xuất pin với phần còn lại của chuỗi cung ứng xe điện, từ khai thác kim loại cho tới sản xuất xe điện. Trung Quốc cũng là thị trường xe điện lớn nhất thế giới, chiếm 52% doanh số toàn cầu năm 2021.
+
+Ba Lan đứng thứ hai về công suất sản xuất pin năm 2022, dù công suất chỉ bằng gần 1/10 của Trung Quốc. Ba Lan là nơi đặt siêu nhà máy Wroclaw của LG Energy Solution, nhà máy pin lớn nhất tại châu Âu và là một trong những cơ sở lớn nhất thế giới. Tính chung, các quốc gia châu Âu chỉ chiếm 15% tổng công suất sản xuất pin toàn cầu năm 2022.
+
+Dù vẫn thua xa Trung Quốc, Mỹ cũng là một trong những nước sản xuất pin hàng đầu thế giới. Tính tới năm 2022, nước này có 8 nhà máy pin lớn đang hoạt động, chủ yếu đặt tại vùng Trung Tây và phía Nam.
+
+Tới năm 2027, công suất sản xuất pin toàn cầu được dự báo sẽ tăng gấp 8 lần. Tới năm này, Trung Quốc vẫn tiếp tục là nước dẫn dầu, theo sau là Mỹ, Đức và Hungary.
+
+Công suất của Mỹ được dự báo tăng gấp hơn 10 lần trong vòng 4 năm tới. Ưu đãi thuế với xe điện từ Luật Giảm lạm phát mới được thông qua năm ngoái sẽ tiếp tục thúc đẩy hoạt động sản xuất pin tại nước này. Cùng với Ford, General Motors, các công ty châu Á gồm Toyota, SK Innovation và LG Energy Solution đều đã công bố đầu tư sản xuất pin tại Mỹ những tháng gần đây.
+
+Châu Âu được dự báo sẽ có 6/10 quốc gia dẫn đầu về sản xuất pin vào năm 2027. Các nhà máy pin hiện tại và tương lai ở châu Âu đến từ cả các công ty nước ngoài và công ty tại châu lục này, bao gồm Volkswagen của Đức, CATL của Trung Quốc và SK Innovation của Hàn Quốc.
+
+Theo Bloomberg, để cạnh tranh với Trung Quốc, Mỹ và châu Âu sẽ phải đầu tư lần lượt 87 tỷ USD và 102 tỷ USD để đáp ứng nhu cầu nội địa với chuỗi cung ứng hoàn toàn từ nội địa vào năm 2030.

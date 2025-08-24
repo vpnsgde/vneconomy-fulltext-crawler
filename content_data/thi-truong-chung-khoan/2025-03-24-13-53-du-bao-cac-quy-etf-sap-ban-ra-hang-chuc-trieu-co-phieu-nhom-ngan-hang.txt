@@ -1,0 +1,25 @@
+Trên cơ sở dữ liệu tính đến ngày 20/03/2025, BSC dự báo như sau: Bộ chỉ số VN-Diamond (4 ETF tham chiếu: FUEBFVND, FUEVFVND, FUEKIVND, FUEMAVND) có thể sẽ thêm MWG vào rổ duy trì do đã nằm trong rổ lần đầu trong kỳ review trước và ở kỳ review này, MWG đã thỏa mãn tất cả các điều kiện của bộ chỉ số; CTD có thể vào rổ lần đầu do đã thỏa mãn các điều kiện của bộ chỉ số.
+
+VIB có thể vào rổ chờ loại ra do không đáp ứng tiêu chí về FOL (hệ số FOL – tính bình quân của 12 tháng đến ngày chốt số liệu nhỏ hơn ngưỡng quy định 65%) do VIB đã áp dụng room ngoại tối đa là 4.99% kể từ ngày 01/07/2024 sau khi cổ đông Commonwealth Bank of Australia thôi làm cổ đông lớn.  VRE có thể bị loại khỏi bộ chỉ số do không thỏa mãn điều kiện FOL.
+
+Lưu ý đối với trường hợp của cổ phiếu CTD: BSC Research sử dụng dữ liệu chốt vào ngày 20/03/2025 – thời điểm chốt dữ liệu để tính toán là 31/03/2025, do đó sẽ có sự sai lệch nhất định trong việc xác định các hệ số để dự báo chỉ số. Trong đó, hệ số P/E bình quân của nhóm và bản thân cổ phiếu CTD đang đánh giá có thể sẽ thay đổi, điều này sẽ ảnh hưởng đến khả năng lọt rổ chỉ số của CTD (theo quy định P/E của cổ phiếu lần đầu vào rổ chỉ số sẽ cần nhỏ hơn hoặc bằng 2 lần bình quân nhóm đó.
+
+Bộ chỉ số VN-FinSelect (1 ETF tham chiếu: FUEKIVFS): Đã chính thêm NAB.
+
+Trên cơ sở đó, BSC dự báo CTD được các ETF mua mới 1,1 triệu cổ phiếu; NAB được mua mới 364 nghìn cổ phiếu. Hàng loạt cổ phiếu khác được mua bổ sung như FPT 2,6 triệu cổ; MWG 3,5 triệu cổ; MBB được mua 2,6 triệu cổ; TCB được mua 3,3 triệu cổ; VPB được mua 2,2 triệu cổ; MSB được mua 1 triệu cổ.
+
+Ở chiều ngược lại, VIB bị bán ra toàn bộ 11,4 triệu cổ phiếu; VRE bị bán 5,3 triệu cổ. Hàng loạt cổ phiếu khác cũng bị bán ra như HDB bị bán 4,8 triệu cổ; OCB bị bán 2,8 triệu cổ; RÊ bị bán 678 nghìn cổ; KDH bị bán 1,5 triệu cổ; NLG bị bán 1,77 triệu cổ; ACB bị bán 7,4 triệu cổ; GMD bị bán 1,8 triệu cổ; PNJ bị bán 1,22 triệu cổ.
+
+Với chỉ số VN30, quyết định số 747/QĐ-SGDHCM ngày 30/12/2024 của HOSE sẽ có hiệu lực sau 60 ngày, như vậy những quy tắc mới của bộ chỉ số HOSE-Index 4.0 sẽ được áp dụng bắt đầu từ tháng 03/2025.
+
+Vấn đề đáng lưu ý đối với chỉ số VN30 trong kỳ đánh giá Quý 2/2025 sẽ tập trung vào quy tắc giới hạn các nhóm ngành theo chuẩn GICS 1 ở mức 40%. Hiện nay, nhóm ngành Tài chính theo chuẩn GICS 1 trong rổ chỉ số VN30 gồm các cổ phiếu thuộc nhóm phân ngành nhỏ hơn gồm: Ngân hàng, Chứng khoán, Bảo hiểm.
+
+Khi đến thời điểm cơ cấu định kỳ, các cổ phiếu nhóm ngành tài chính sẽ bị giảm tỷ trọng và các cổ phiếu thuộc nhóm ngành còn lại trong rổ VN30 sẽ được tái phân bổ dòng vốn (không có trường hợp cổ phiếu hiện tại bị loại bỏ để thêm mới các cổ phiếu khác) .
+
+Về dự báo các cổ phiếu mới dự kiến thêm vào/bị loại bỏ khỏi rổ VN30-Index, trong năm 2024, BSC cũng đã lưu ý về các trường hợp của LPB, POW, BSR, ACV...
+
+Nếu không có các trường hợp/sự kiện đặc biệt xảy ra khiến 1 cổ phiếu bị loại khỏi VN30, thông tin về thay đổi danh mục cổ phiếu thành phần định kỳ sắp tới sẽ được công bố vào thứ 4 lần thứ 3 của tháng 1 và tháng 7 (áp dụng kể từ ngày 28/02/2025) – kỳ công bố tiếp theo dự kiến sẽ vào ngày 16/07/2025.
+
+Một số điểm nhà đầu tư cần lưu ý là với nhóm Tài chính: Ngân hàng, Chứng khoán, Bảo hiểm sẽ bị bán để giảm tỷ trọng. Nhóm còn lại sẽ được tái phân bổ dòng tiền để mua gia tăng.
+
+Theo ước tính của BSC, một số cổ phiếu ước tính được mua thêm như VJC 1,37 triệu cổ; VIC 5,4 triệu cổ; VHM 5,3 triệu cổ; VNM 4,3 triệu cổ; MSN 3,7 triệu cổ; MWG 5,6 triệu cổ; VRE 4,47 triệu cổ; HPG 7 triệu cổ. Ở chiều ngược lại, LPB bị bán ra gần 6 triệu cổ; ACB bị bán 8,2 triệu cổ; TCB bị bán 9,3 triệu cổ; SHB 5,7 triệu cổ; HDB 5,3 triệu cổ; VPB 9,1 triệu cổ; SSB 4,1 triệu cổ...

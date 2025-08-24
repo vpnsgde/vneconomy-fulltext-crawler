@@ -1,0 +1,35 @@
+Bảo hiểm xã hội Việt Nam chiều 6/6 thông tin về việc thí điểm cấp lại mật khẩu ứng dụng VssID – Bảo hiểm xã hội số qua tổng đài.
+
+Bảo hiểm xã hội Việt Nam cho biết, cơ quan này đang thí điểm tích hợp trợ lý ảo vào Tổng đài Chăm sóc khách hàng của Bảo hiểm xã hội Việt Nam 1900.9068 để hỗ trợ người dân cấp lại mật khẩu tài khoản VssID.
+
+Việc này nhằm tiếp tục cung cấp thêm lựa chọn, tiện ích cho người sử dụng ứng dụng VssID, và thay thế cho phương thức nhắn tin đến đầu số 8079 để cấp lại mật khẩu tài khoản giao dịch điện tử cá nhân với cơ quan Bảo hiểm xã hội.
+
+Theo đó, để cấp lại mật khẩu thông qua Trợ lý ảo trên Tổng đài 1900.9068, người sử dụng có thể thực hiện qua 2 bước.
+
+Bước 1:Sử dụng số điện thoại đã đăng ký tài khoản VssID gọi điện đến Tổng đài 1900.9068, nhấn phím số 8 để lựa chọn chức năng cấp lại mật khẩu VssID và làm theo hướng dẫn.
+
+Bước 2:Trợ lý ảo đề nghị bạn cung cấp mã số bảo hiểm xã hội cần lấy lại mật khẩu. Sau khi cung cấp mã số bảo hiểm xã hội, hệ thống sẽ kiểm tra số điện thoại bạn đang gọi và mã số bảo hiểm xã hội.
+
+Nếu trùng khớp với dữ liệu do Bảo hiểm xã hội Việt Nam đang quản lý, Trợ lý ảo sẽ đọc mật khẩu mới cho bạn (mật khẩu mới sẽ được nhắc lại 1 lần để ghi nhớ).
+
+Nếu không trùng khớp trợ lý ảo sẽ thông báo “số điện thoại và mã số bảo hiểm không khớp hoặc chưa đăng ký với cơ quan Bảo hiểm xã hội”.
+
+Bước 3:Kết thúc cuộc gọi.
+
+Bảo hiểm xã hội Việt Nam cũng lưu ý, cước phí gọi đến Tổng đài 1900.9068 là 1.000 đồng/phút, cước phí này được trả cho nhà cung cấp dịch vụ Tổng đài.
+
+Như vậy, hiện nay, người sử dụng VssID có thể thực hiện cấp lại mật khẩu bằng 2 cách:
+
+Cách 1:Sử dụng chức năng Quên mật khẩu trên ứng dụng VssID hoặc chức năng Quên mật khẩu trên trang https://dichvucong.baohiemxahoi.gov.vn (cách này yêu cầu trong tài khoản VssID phải có thông tin địa chỉ email);
+
+Trường hợp khi đăng ký tài khoản giao dịch bảo hiểm xã hội điện tử mà người dân chưa có thông tin về địa chỉ email, người dân có thể bổ sung địa chỉ email qua các kênh sau:
+
+Thực hiện việc lập tờ khai TK1-TS để kê khai bổ sung thông tin email thông qua giao dịch bảo hiểm xã hội điện tử của đơn vị, tổ chức dịch vụ thu đang quản lý.
+
+Thực hiện lập tờ khai thay đổi, bổ sung thông tin đăng ký sử dụng phương thức giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo Mẫu số 02/SĐ-GD, đến nộp trực tiếp tại cơ quan Bảo hiểm xã hội nơi gần nhất.
+
+Cách 2:Cấp lại mật khẩu thông qua Trợ lý ảo trên Tổng đài 1900.9068 (nhánh số 8).
+
+Với việc triển khai thí điểm tích hợp Trợ lý ảo vào Tổng đài Chăm sóc khách hàng của Bảo hiểm xã hội Việt Nam để hỗ trợ người sử dụng ứng dụng VssID cấp lại mật khẩu thể hiện mong muốn cung cấp ngày càng nhiều các tính năng, tiện ích, tạo thuận lợi cho người dân khi tham gia giao dịch với cơ quan Bảo hiểm xã hội.
+
+Theo thống kê của cơ quan Bảo hiểm xã hội, tính đến hết tháng 5/2023, đã có hơn 28,8 triệu tài khoản VssID được phê duyệt và kích hoạt sử dụng.

@@ -1,0 +1,15 @@
+Với ý tưởng sử dụng công nghệ trí tuệ nhân tạo (AI) giúp quy trình đăng ký khám chữa bệnh, cấp cứu của người dân được tiện lợi, nhanh chóng, an toàn hơn mà không cần tiếp xúc trực tiếp, dự án “Nền tảng phòng xếp hàng ảo cho bệnh viện”- QQUEUE đã xuất sắc giành ngôi vị cao nhất tại cuộc thi phát triển ứng dụng AIoT Developer InnoWorks 2021. Đây là cuộc thi do Cục Công tác phía nam Bộ Khoa học và Công nghệ, Trường Đại học Khoa học tự nhiên- Đại học Quốc gia TP.HCM và Tập đoàn Advantech Việt Nam tổ chức.
+
+Trước tình hình dịch Covid-19 diễn biến phức tạp, QQUEUE mong muốn tạo ra một mô hình giúp người bệnh có thể đặt lịch, xếp hàng tại bệnh viện một cách dễ dàng mà không cần phải tiêu tốn quá nhiều thời gian trong việc chờ đợi. Nhóm đã hướng đến 3 mục tiêu chính là "Không bị động- Không gián đoạn- Không chạm".
+
+Bằng công nghệ AI, hệ thống sẽ phân tích thông số liên quan tới thời gian thực hiện quy trình thăm khám tại các bệnh viện, người bệnh chỉ cần đăng nhập, chọn phòng khám và thời gian mình muốn khám, sau đó người bệnh có thể căn cứ vào lịch khám để đến cơ sở y tế mà không phải chờ đợi.
+
+“Mô hình phòng xếp hàng ảo” sẽ giúp bệnh viện dễ dàng kiểm soát và quản lý số lượng người khám, hạn chế chi phí cơ sở vật chất cho phòng chờ và tăng năng suất làm việc của tất cả nhân viên y tế mà không phải lo quá tải. Cùng với đó, bệnh nhân chủ động hơn trong quá trình khám, chữa bệnh, giúp tiết kiệm được thời gian, tránh tụ tập, đặc biệt trong thời gian dịch bệnh như hiện nay.
+
+“AIoT InnoWorks” qua nhiều mùa thi, đến năm 2021 đã có 11 quốc gia tham gia. Các vòng thi tại mỗi quốc gia sẽ tìm ra đội quán quân để tiếp tục tham gia trong vòng giao lưu tài năng toàn cầu tại một số quốc gia đăng cai luân phiên. Các đội đoạt giải cao tại các vòng thi quốc gia có cơ hội tham gia chương trình phát triển tài năng trẻ toàn cầu trong lĩnh vực AI và I4.0 “Elite100”.
+
+Theo ông Nguyễn Mạnh Cường, Phó Cục trưởng phụ trách Cục công tác phía Nam, Bộ Khoa học và Công nghệ, nhiều ý tưởng có tính thực tiễn cao, khả thi và tiềm năng thương mại hóa. Các đội thi đã quan tâm đến những vấn đề đang nóng của đất nước như dịch Covid-19, an toàn giao thông, nông nghiệp công nghệ cao.
+
+Đây không chỉ đơn thuần là cuộc thi mà là chuỗi các trải nghiệm từ đào tạo đến xây dựng dự án có tiềm năng ứng dụng cao, qua đó sinh viên thoát khỏi giáo trình truyền thống, rút ngắn quá trình đào tạo tiếp, đào tạo lại sau khi tốt nghiệp, nhằm sẵn sàng cung cấp nguồn nhân lực cho đổi mới công nghệ của doanh nghiệp.
+
+Được biết, đứng sau QQUEUE trên bảng xếp hạng cuộc thi năm nay là dự án “Hệ thống nông trại thông minh”. Dự án “Mô hình nhà yến thông minh” giành giải ba. Hai dự án “Hệ thống phân tích camera thông minh” và “Siêu thị thông minh và xe đẩy tích hợp thanh toán tự động” cùng đoạt giải khuyến khích.

@@ -1,0 +1,35 @@
+Thực tế hiện nay cho thấy, có hai ý tưởng chính trong quá trình phát triển phương pháp điều trị ung thư. Đó là tìm ra mục tiêu cụ thể được biểu hiện ở nhiều người mắc bệnh ung thư, hoặc điều chỉnh một loại vaccine đặc hiệu phù hợp với các mục tiêu được biểu hiện trong chính khối u của bệnh nhân.
+
+Được công bố mới đây trên tạp chí Nature Biomedical Engineering, nghiên cứu của Đại học Florida, Mỹ cho thấy, việc kết hợp vaccine thử nghiệm với các loại thuốc chống ung thư thông thường gọi là chất ức chế điểm kiểm soát miễn dịch, giống như một cú đấm kép, đã kích hoạt phản ứng chống khối u mạnh mẽ.
+
+Trong các mô hình thử nghiệm trên chuột, vaccine này không chỉ giúp làm chậm mà còn khiến nhiều khối u teo nhỏ hoặc biến mất hoàn toàn, đặc biệt khi được kết hợp với thuốc ức chế PD-1 - loại thuốc miễn dịch đã có mặt trên thị trường. Vaccine mRNA nói trên được sản xuất bằng công nghệ tương tự như vaccine Covid-19. Tuy nhiên, thay vì đưa vào thông tin di truyền của virus, các nhà nghiên cứu chỉ sử dụng mRNA để kích thích hệ miễn dịch nói chung.
+
+Một yếu tố đáng ngạc nhiên là họ đạt được kết quả đầy hứa hẹn này không phải bằng cách tấn công một protein mục tiêu cụ thể xuất hiện trong khối u, mà chỉ đơn giản là kích thích hệ miễn dịch - thúc đẩy nó phản ứng như thể đang chống lại virus. Họ làm điều này bằng cách kích thích sự biểu hiện của một loại protein gọi là PD-L1 bên trong khối u, làm cho chúng dễ tiếp nhận điều trị hơn. Nghiên cứu này được hỗ trợ bởi nhiều cơ quan và Quỹ Liên bang Mỹ, bao gồm Viện Y tế Quốc gia Mỹ.
+
+Tác giả chính của nghiên cứu, Elias Sayour, Tiến sĩ, Bác sĩ chuyên khoa ung thư nhi khoa tại UF Health và Giáo sư Nghiên cứu Ung thư Nhi khoa của Quỹ Ngăn ngừa ung thư ở trẻ em, cho biết kết quả này cho thấy một phương pháp điều trị mới đầy tiềm năng - thay thế cho phẫu thuật, xạ trị và hóa trị - với tác động rộng rãi trong việc chống lại nhiều loại khối u kháng trị.
+
+Các nhà khoa học tin rằng bằng cách đánh thức lại “trí nhớ” của hệ miễn dịch và khiến nó cảnh giác hơn với sự hiện diện của tế bào lạ, vaccine có thể đóng vai trò như một công cụ phòng thủ từ sớm. Nhóm nghiên cứu hiện tiếp tục hoàn thiện công thức và đặt mục tiêu triển khai thử nghiệm trên người trong thời gian tới.
+
+Cũng tại Mỹ, các nhà khoa học vừa công bố một loại thuốc có thể ngăn chặn sự phát triển của khối u mà không gây ra tác dụng phụ thường gặp. Đặc biệt, thuốc được thiết kế hoàn toàn bằng trí tuệ nhân tạo (AI) và siêu máy tính, đánh dấu một bước tiến mới trong cách mạng hóa quá trình phát triển dược phẩm.
+
+Thuốc có tên BBO-10203, là kết quả hợp tác giữa Phòng thí nghiệm Quốc gia Lawrence Livermore (LLNL), công ty BridgeBio Oncology Therapeutics (BBOT) và Phòng thí nghiệm Quốc gia Frederick (FNLCR). Khác với nhiều loại thuốc trước đây, BBO-10203 không gây tăng đường huyết – một tác dụng phụ phổ biến khiến nhiều liệu pháp điều trị ung thư từng thất bại.
+
+Trong kết quả được công bố trên tạp chí Science, BBO-10203 nhắm vào tương tác giữa hai protein RAS và PI3Kα, vốn thường bị đột biến trong các loại ung thư phổ biến như vú, phổi và đại trực tràng. Hai protein này đóng vai trò như “công tắc” truyền tín hiệu tăng trưởng trong tế bào ung thư. Việc chặn được liên kết giữa chúng mà không làm rối loạn các chức năng sinh lý bình thường là điều từ lâu được xem là thách thức trong giới dược học.
+
+Các thử nghiệm trên động vật cho thấy BBO-10203 có thể làm chậm sự phát triển của nhiều loại khối u, đồng thời tăng hiệu quả khi kết hợp với các liệu pháp hiện hành. Hiện thuốc đang được thử nghiệm lâm sàng giai đoạn đầu trên bệnh nhân ung thư tiến triển để đánh giá độ an toàn và hiệu quả bước đầu.
+
+“Đây là một cuộc tấn công chính xác vào điểm yếu lâu nay của ung thư, và là ví dụ điển hình cho thấy AI có thể thay đổi cách chúng ta phát minh ra thuốc,” nhóm nghiên cứu nhận định. Nếu tiếp tục chứng minh hiệu quả trên người, BBO-10203 có thể mở đường cho một thế hệ thuốc điều trị ung thư mới – nhắm đúng mục tiêu, ít độc tính – đặc biệt dành cho các dạng ung thư từng bị xem là “khó tiếp cận” bằng thuốc.
+
+Trong khi đó, một nhóm các nhà khoa học Trung Quốc vừa công bố bước đột phá trong điều trị ung thư khi sử dụng virus biến đổi gene để tạo tế bào miễn dịch chống ung thư trực tiếp trong cơ thể bệnh nhân. Công nghệ này không chỉ giúp rút ngắn thời gian điều trị xuống còn 72 giờ, mà còn giảm hơn 80% chi phí so với liệu pháp truyền thống CAR-T.
+
+Công bố trên tạp chí The Lancet, nhóm nghiên cứu từ Bệnh viện Liên hiệp, Đại học Y khoa Đồng Tế (Vũ Hán) cho biết họ đã thử nghiệm thành công phương pháp điều trị mới trên 4 bệnh nhân mắc loại ung thư máu phổ biến, chứng đa u tủy. Sau một liều tiêm duy nhất, 2 bệnh nhân đạt mức thuyên giảm hoàn toàn khi các tổn thương khối u đã biến mất sau 2 tháng, trong khi 2 người còn lại ghi nhận khối u thu nhỏ đáng kể chỉ sau 28 ngày.
+
+Theo SCMP, trên mạng xã hội chuyên về liệu pháp tế bào tại Trung Quốc, công nghệ này được ca ngợi là “cột mốc quan trọng” và có tiềm năng thay đổi hoàn toàn mô hình điều trị cá nhân hóa hiện nay. Nếu được thử nghiệm trên quy mô lớn, phương pháp này có thể giúp liệu pháp miễn dịch tiếp cận với đông đảo bệnh nhân hơn, không chỉ trong điều trị ung thư mà cả với các bệnh mãn tính như hen suyễn và bệnh tự miễn.
+
+Thực tế, ngành y học toàn cầu đang đứng trước một bước ngoặt lớn trong cuộc chiến chống ung thư, khi các tiến bộ vượt bậc trong điều trị và phòng ngừa đang mở ra một “kỷ nguyên vàng”. Đây là nhận định của Sir Stephen Powis, Giáo sư, Giám đốc Y khoa của Dịch vụ Y tế Quốc gia Anh (NHS).
+
+“Chúng ta đang ở ngưỡng cửa của một thời kỳ đột phá trong điều trị nhiều loại ung thư. Ngày càng nhiều người sống lâu hơn, sống khỏe hơn sau chẩn đoán, và một số trường hợp thậm chí đã được chữa khỏi hoàn toàn,” Sir Stephen khẳng định.
+
+“Ung thư sẽ ngày càng được điều trị theo hướng cá nhân hóa – tức là mỗi bệnh nhân sẽ có một phác đồ riêng biệt, phù hợp với cấu trúc gen và đặc điểm khối u. Tất cả điều đó đang được thúc đẩy bởi khoa học di truyền”, Sir Stephen cho biết.
+
+Điểm nhấn trong bức tranh lạc quan này chính là sự phát triển của “y học chính xác” – tiếp cận điều trị dựa trên đặc điểm sinh học riêng biệt của từng bệnh nhân. Từ các liệu pháp miễn dịch “huấn luyện” hệ thống phòng vệ của cơ thể tấn công tế bào ung thư, đến công nghệ giải trình tự gen, ngành y học đang mở ra hy vọng lớn chưa từng có cho bệnh nhân.

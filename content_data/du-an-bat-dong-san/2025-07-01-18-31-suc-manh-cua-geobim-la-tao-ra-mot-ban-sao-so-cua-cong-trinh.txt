@@ -1,0 +1,29 @@
+Ông Nguyễn Tiến Thông, Ban quản lý Đường sắt đô thị Hà Nội, cho biết trên thế giới, hầu hết các dự án đường sắt và đường sắt đô thị được khởi công xây dựng từ khoảng 10 năm trở lại đây, nhất là trong và sau dịch Covid-19 đều áp dụng BIM để thiết kế và quản lý thi công xây dựng.  Điển hình là dự án Crossrail (tuyến đường sắt Elizabeth) tại Anh và các dự án đường sắt tại Trung Quốc. Ngoài ra ở khu vực ASEAN thì còn có dự án đường sắt cao tốc Jakarta - Bandung của Indonesia dài 143 km, trị giá 7,3 tỷ USD đưa vào khai thác hồi tháng 10/2023 cũng áp dụng BIM, từ giai đoạn thiết kế kỹ thuật.
+
+Theo đại diện Ban quản lý đường sắt đô thị Hà Nội, qua cập nhật thông tin về những dự án đường sắt được áp dụng BIM trong thiết kế và thi công xây dựng đã cho thấy sự thuận lợi về quản lý khai thác và vận hành, do thông tin liên quan đến tài sản được tích hợp đầy đủ trong mô hình BIM hoàn công và bàn giao cho bên quản lý khai thác, vận hành.
+
+Còn tại Việt Nam, thực hiện yêu cầu của Chính phủ, Bộ Xây dựng và UBND Thành phố Hà Nội, Ban quản lý Đường sắt đô thị Hà Nội cũng triển khai áp dụng BIM cho toàn bộ những tuyến đường sắt đô thị chuẩn bị đầu tư; các tuyến đang triển khai thiết kế và dự kiến khởi công từ năm 2025.
+
+Song, ông Thông cũng chia sẻ rằng tại Việt Nam, các dự án đường sắt đô thị hiện đang vận hành chưa áp dụng BIM trong quản lý khai thác, vận hành. Lý do vì những dự án này vốn khởi công từ những năm 2006 (Nhổn – Ga Hà Nội), 2008 (Bến Thành – Suối Tiên), 2011 (Cát Linh – Hà Đông) và chưa được áp dụng BIM trong giai đoạn thiết kế và thi công xây dựng.
+
+Ngoài ra, đối với doanh nghiệp Việt Nam để áp dụng mô hình này là còn nhiều khó khăn. Một trong những rào cản lớn nhất chính là chi phí đầu tư ban đầu, bao gồm: phần mềm chuyên dụng, thiết bị phần cứng và đặc biệt là chi phí đào tạo nhân lực, chuyển đổi quy trình.
+
+Bên cạnh đó cũng đòi hỏi sự thay đổi toàn diện từ tư duy của lãnh đạo, đến quy trình làm việc cộng tác giữa các phòng ban, vốn là một thói quen khó thay đổi...
+
+Dù vậy, ông Thông đánh giá thời gian tới, việc áp dụng BIM vào quản lý khai thác, vận hành các dự án giao thông, trong đó có dự án đường sắt của Việt Nam sẽ nhiều thuận lợi, do Chính phủ bắt buộc thực hiện BIM cho các dự án đầu tư công lớn kể từ năm 2024.
+
+Mặt khác, các dự án đường sắt quốc gia, đường sắt cao tốc và đường sắt đô thị đã được Quốc hội, Chính phủ và chính quyền Thành phố Hà Nội, Thành phố Hồ Chí Minh ban hành cơ chế chính sách đặc thù. Những cơ chế này có thể thúc đẩy tiến độ triển khai, đồng thời, tạo điều kiện để dự án tận dụng tối đa các thành tựu của khoa học - công nghệ hiện đại nói chung và BIM nói riêng vào toàn bộ quá trình thiết kế, xây dựng và khai thác vận hành công trình.
+
+Đặc biệt khi áp dụng BIM tích hợp với GIS (Geographic Information System - Hệ thống thông tin địa lý) từ giai đoạn lập dự án và thiết kế cơ sở sẽ giúp dữ liệu về tài sản, thiết bị được tích hợp đầy đủ trong mô hình thông tin tài sản tạo thành song sinh số. Tức là, bên cạnh tài sản thực là công trình, ta cũng có thêm tài sản số. Hai loại tài sản này kết nối với nhau qua IoT và quản lý bằng hệ thống quản lý tài sản của bên quản lý khai thác, vận hành. Đây là một giải pháp rất có ý nghĩa trong giao thông.
+
+“Tích hợp BIM-GIS sẽ hỗ trợ lập kế hoạch tuyến đường, cầu, hầm và các công trình hạ tầng, đảm báo tính chính xác, phù hợp với bối cảnh địa lý. Đồng thời, còn cho phép phân tích dữ liệu địa hình, môi trường, cơ sở hạ tầng hiện có, từ đó tối ưu hóa thiết kế công trình. Chẳng hạn, trong dự án giao thông, GIS cung cấp thông tin về địa hình, lưu lượng giao thông, tác động môi trường, thì BIM hỗ trợ mô phỏng cấu trúc công trình. Sự kết hợp này giúp phát hiện sớm những vấn đề tiềm ẩn, giảm thiểu sửa đổi trong giai đoạn thi công, tiết kiệm thời gian và chi phí”, chuyên gia nhấn mạnh.
+
+Đồng quan điểm, ông Tạ Ngọc Bình, Viện Kinh tế xây dựng (Bộ Xây dựng), cho rằng sáng kiến đưa BIM tích hợp với GIS là giải pháp toàn diện cho vòng đời dự án. Nếu BIM là mô hình chi tiết của công trình, GIS sẽ là bối cảnh không gian chứa đựng công trình đó. Tích hợp GIS và BIM hay còn gọi là GeoBIM, không chỉ là xu hướng mà còn trở thành giải pháp quản lý toàn diện cho toàn bộ vòng đời dự án. Sức mạnh của GeoBIM nằm ở chỗ nó tạo ra một “bản sao số” của công trình trong bối cảnh thực tế.
+
+Đối với lĩnh vực giao thông, lợi ích mà BIM và GIS mang lại vô cùng to lớn và toàn diện. Ở giai đoạn quy hoạch, thiết kế, chúng ta có thể đặt mô hình 3D của tuyến cao tốc, tuyến metro hay nhà ga vào bối cảnh địa lý thực tế, để phân tích hướng tuyến tối ưu, đánh giá tác động môi trường, xã hội, mô phỏng phương án đền bù giải phóng mặt bằng một cách trực quan nhất.
+
+Trong quá trình đoạn thi công, GeoBIM giúp theo dõi tiến độ thi công trong không gian thực, quản lý logistics, vật liệu và sự phối hợp giữa các nhà thầu trên một khu vực rộng lớn. Qua đó nâng cao tính hiệu quả, hạn chế rủi ro phát sinh.
+
+Đến giai đoạn vận hành, bảo trì cũng là lúc GeoBIM phát huy giá trị bền vững nhất. Mô hình cho phép kết nối dữ liệu từ các cảm biến (IoT) gắn trên cầu, đường bộ để theo dõi tình trạng kết cấu, mô phỏng lưu lượng giao thông, nhằm xây dựng phương án điều tiết hợp lý, hay lên kế hoạch bảo trì, ứng phó sự cố một cách chính xác.
+
+Hiện nay, “Viện Kinh tế xây dựng đang phối hợp chặt chẽ với đối tác nhằm nghiên cứu, xây dựng bộ hướng dẫn áp dụng cho các dự án hạ tầng giao thông trọng điểm quốc gia vào thời gian sắp tới”, ông Bình thông tin.

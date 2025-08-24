@@ -1,0 +1,29 @@
+Theo công ty nghiên cứu thị trường viễn thông TeleGeometry, chôn sâu dưới đại dương là hàng trăm sợi cáp viễn thông khổng lồ trải dài gần 1,4 triệu km. Một số loại cáp ngắn hơn như cáp CeltixConnect dài 131 km nối Ireland với Vương quốc Anh và những tuyến khác chạy với khoảng cách xa hơn - như cáp Cổng Châu Mỹ Châu Á dài 20.000 km.
+
+Số lượng cáp ngầm dưới biển trên khắp hành tinh dự kiến sẽ tăng trong những năm tới, phản ánh nhu cầu ngày càng tăng về lưu lượng dữ liệu được thúc đẩy bởi sự phổ biến của dịch vụ truyền phát video và đám mây. Tính đến đầu năm 2024, TeleGeometry cho biết dữ liệu của họ đã theo dõi 574 tuyến cáp ngầm dưới biển đang hoạt động và đã được lên kế hoạch.
+
+Cáp ngầm dưới biển là xương sống của Internet toàn cầu, vận chuyển 99% lưu lượng dữ liệu xuyên lục địa của thế giới. Andy Champagne, Giám đốc công nghệ của Akamai Labs cho biết: “Nếu bạn đã gửi e-mail, nhắn tin hoặc trò chuyện video với ai đó ở lục địa khác, bạn đã sử dụng cáp ngầm”.
+
+Champagne nói thêm: “Mặc dù chúng ta được liên kết với nhau bằng một mạng lưới cáp quang vật lý phức tạp trên đất liền, nhưng cấu trúc liên kết sẽ trở nên khó khăn hơn khi ở dưới đại dương. Việc lắp đặt cáp ngầm dưới biển thực sự rất phức tạp. Và khi có sự cố xảy ra với cáp ngầm dưới biển thì việc sửa chữa nó là một công việc không hề đơn giản".
+
+Theo Joe Vaccaro, Phó Chủ tịch kiêm tổng giám đốc của công ty giám sát internet ThousandEyes thuộc sở hữu của Cisco, một điều quan trọng khiến cáp ngầm trở nên quan trọng là tác động của chúng khi bị gián đoạn.
+
+Cáp ngầm dưới biển trước đây được sở hữu và vận hành bởi các hãng viễn thông. Gần đây hơn, những gã khổng lồ công nghệ của Mỹ bao gồm Meta, Google, Microsoft và Amazon đã đầu tư những khoản tiền lớn để lắp đặt hệ thống cáp của riêng họ.
+
+Vào năm 2021, Meta và Google đã công bố kế hoạch lắp đặt hai tuyến cáp ngầm khổng lồ nối liền Bờ Tây Hoa Kỳ với Singapore và Indonesia. Cáp xuyên Thái Bình Dương Echo và Bifrof dự kiến sẽ tăng 70% dung lượng dữ liệu giữa các khu vực và cải thiện độ tin cậy của Internet.
+
+Meta đang đầu tư vào cả hai loại cáp, trong khi Google chỉ hỗ trợ Echo. Meta trước đó đã công bố kế hoạch xây dựng một tuyến cáp dưới biển dài 37.000 km quanh châu Phi để cung cấp khả năng truy cập Internet tốt hơn, trong khi Google cũng đang nghiên cứu một tuyến cáp ngầm dưới biển có tên Equiano nhằm mục đích kết nối châu Phi với châu Âu.
+
+Trích dẫn các nguồn tin giấu tên trong Bộ Ngoại giao, tờ Wall Street Journal đưa tin vào tháng 5 rằng các quan chức Mỹ đã cảnh báo riêng các công ty công nghệ bao gồm Google và Meta rằng các tuyến cáp ngầm dưới biển ở khu vực Thái Bình Dương có thể dễ bị các tàu sửa chữa Trung Quốc do thám.
+
+Submarine Systems, một công ty do nhà nước Trung Quốc kiểm soát chuyên sửa chữa các tuyến cáp quốc tế, dường như đang che giấu vị trí của các tàu của mình khỏi hệ thống theo dõi vô tuyến và vệ tinh.
+
+Trong khi đó, Estonia cho biết Trung Quốc vẫn chưa phản hồi yêu cầu từ 6 tháng trước về việc giúp nước này điều tra một tàu Trung Quốc mà Estonia nghi ngờ đã cắt hai tuyến cáp ngầm của nước này. Bộ Ngoại giao Trung Quốc kể từ đó cho biết họ sẵn sàng hợp tác với Estonia để hợp tác điều tra.
+
+Những diễn biến này nêu bật việc cáp ngầm đang trở thành nguồn gây tranh cãi trong các vấn đề an ninh quốc gia. Dữ liệu mà các mạng này gửi có thể liên quan đến thông tin liên lạc có tính rủi ro cao, bao gồm việc điều phối các cơ quan ngoại giao, hoạt động an ninh và thu thập thông tin tình báo.
+
+Vào tháng 3/2023, một báo cáo của Reuters cho biết một ủy ban liên ngành có tên Team Telecom đang làm việc để ngăn chặn bất kỳ tuyến cáp ngầm nào kết nối trực tiếp lãnh thổ Hoa Kỳ với Trung Quốc và Hong Kong do lo ngại về hoạt động gián điệp của Trung Quốc.
+
+Nhiều dự án cáp ngầm quốc tế được cho là đang phá vỡ Trung Quốc hiện nay do lo ngại về bảo mật dữ liệu và ảnh hưởng địa chính trị ngày càng mở rộng của Bắc Kinh. Trung Quốc đã đầu tư hàng trăm triệu USD để xây dựng cơ sở hạ tầng cáp dưới nước của riêng mình nhằm cạnh tranh với Mỹ
+
+Một vấn đề quan trọng trong cách thiết lập cáp ngầm dưới biển hiện nay là các kết nối liên kết toàn bộ khu vực trên thế giới ảnh hưởng đến phần lớn cơ sở hạ tầng Internet.

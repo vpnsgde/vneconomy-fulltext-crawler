@@ -1,0 +1,33 @@
+Nhiều chuyên gia nói rằng phân đôi là một sự kiện quan trọng có thể làm gia tăng giá trị của bitcoin với tư cách một hàng hoá ngày càng khan hiếm. Nhưng cũng có những ý kiến cho rằng phân đôi chẳng qua là một sự thay đổi về mặt kỹ thuật mà các nhà đầu cơ lợi dụng để “thổi giá” bitcoin.
+
+Theo hãng tin Reuters, dưới đây là 4 điều cần biết về phân đôi:
+
+Phân đôi là một thay đổi trong chuỗi khối (blockchain) - công nghệ giữ vai trò nền tảng của bitcoin - nhằm giảm tốc độ tạo ra những đồng bitcoin mới. Theo thiết kế ngay từ đầu bởi Satoshi Nakamoto, vị “cha đẻ” bí ẩn của bitcoin, đồng tiền ảo này sẽ có nguồn cung tối đa là 21 triệu đồng.
+
+Chính Nakamoto đã viết sự kiện phân đôi vào mã của bitcoin và mã này hoạt động bằng cách làm giảm dần tốc độ mà những đồng bitcoin mới được tạo ra và được đưa vào lưu thông. Đến nay, đã có khoảng 19 triệu đồng bitcoin được tạo ra.
+
+Công nghệ chuỗi khối bao gồm việc tạo ra các hồ sơ thông tin - gọi là các “khối” (block). Các khối này được bổ sung vào “chuỗi” (chain) trong một quy trình được gọi là “đào” (mining). Các nhà đào bitcoin sử dụng những hệ thống máy tính với năng lực điện toán khổng lồ để giải các phép toán phức tạp, qua đó xây dựng chuỗi khối và nhận được phần thưởng dưới dạng những đồng bitcoin mới.
+
+Nhưng cứ mỗi lần phân đôi, tốc độ sản sinh ra những đồng bitcoin mới sẽ giảm đi một nửa, đồng nghĩa lợi nhuận của hoạt động đào bitcoin cũng giảm theo. Chuỗi khối được thiết kế để sự kiện phân đôi diễn ra mỗi khi 210.000 khối được bổ sung vào chuỗi, đồng nghĩa khoảng 4 năm một lần. Lần phân đôi tiếp theo của bitcoin sẽ diễn ra vào tháng 4 năm nay.
+
+Nhiều nhà đầu tư và chuyên gia tin rằng nguồn cung giới hạn mang đến giá trị cho bitcoin. Theo quy luật kinh tế, khi một hàng hoá có nguồn cung hạn chế, giá hàng hoá đó sẽ tăng khi có nhiều người cùng mua. Bởi vậy, khi lượng bitcoin mới được tạo ra ngày càng ít đi, giá bitcoin có lý do để tăng.
+
+Nhưng cũng có những nhà đầu tư và chuyên gia không đồng tình với quan điểm này, cho rằng ảnh hưởng của nguồn cung hạn chế đối với giá bitcoin thực chất đã được phản ánh vào mức giá hiện tại của bitcoin rồi.
+
+Nguồn cung của bitcoin trên thị trường phụ thuộc nhiều vào các mỏ đào, nhưng đây là một lĩnh vực có độ minh bạch thấp. Các dữ liệu về lượng tồn trữ và nguồn cung đều không có nhiều.
+
+Nếu các nhà đào bitcoin bán ra lượng bitcoin dự trữ của họ, giá bitcoin có thể đương đầu với áp lực giảm. Hiểu được những gì phía sau một đồng tiền ảo như bitcoin là một việc khó, vì mức độ minh bạch về việc ai đang mua tiền ảo và mua vì lý do gì là thấp hơn rất nhiều so với ở các loại tài sản khác.
+
+Theo quan điểm của nhiều người, sự kiện phân đôi thực chất không có nhiều vai trò trong sự tăng giá của bitcoin năm nay, mà giá bitcoin tăng chủ yếu do việc Uỷ ban Chứng khoán và giao dịch Mỹ (SEC) cho phép thành lập các quỹ giao dịch hoán đổi (ETF) bitcoin giao ngay hồi tháng 1, cũng như kỳ vọng rằng các ngân hàng trung ương sắp cắt giảm lãi suất.
+
+Tuy nhiên, trong thế giới có tính chất đầu cơ cao của hoạt động giao dịch tiền ảo, những lời giải thích của giới phân tích về biến động giá bitcoin có thể chuyển biến thành câu chuyện của thị trường với tác dụng tự nhân lên, qua đó khuyếch đại sự biến động.
+
+Không có bằng chứng nào cho thấy những đợt phân đôi trước đây là nguyên nhân khiến bitcoin tăng giá. Dù vậy, các nhà giao dịch và thợ đào bitcoin đã nghiên cứu các đợt phân đôi trước nhằm khẳng định việc này có lợi cho giá bitcoin.
+
+Khi diễn ra đợt phân đôi gần đây nhất vào ngày 11/5/2020, giá bitcoin đã tăng khoảng 12% trong tuần sau đó. Cũng trong năm đó, giá bitcoi bắt đầu tăng mạnh, nhưng có nhiều sự lý giải xung quanh việc tăng giá này, bao gồm chính sách tiền tệ nới lỏng và việc nhà đầu tư cá nhân trong thời gian giãn cách xã hội vì đại dịch Covid-19 dành nhiều thời gian ở nhà để chơi tiền ảo. Ngoài ra, không có dấu hiệu thực sự nào cho thấy sự kiện phân đôi có vai trò trong đợt tăng giá đó của bitcoin.
+
+Trong đợt phân đôi trước đó nữa vào tháng 7/2016, giá bitcoin tăng khoảng 1,3% trong tuần sau đó, nhưng lại sụt giảm chóng mặt trong vài tuần kế tiếp.
+
+Nói cách khác, rất khó để xác định các sự kiện phân đôi trước kia có ảnh hưởng như thế nào đến giá bitcoin, cũng như để dự đoán ảnh hưởng của đợt phân đôi sắp tới đối với giá tiền ảo này.
+
+Cơ quan chức năng nhiều nước đã liên tục cảnh báo rằng thị trường tiền ảo là một thị trường có mức độ đầu cơ lớn, thường được thúc đẩy bởi những đồn đoán và nỗi sợ bỏ lỡ cơ hội (FOMO), có thể gây ra thiệt hại thực sự cho nhà đầu tư. Cảnh báo này được đưa ra ngay cả khi nhà chức trách một số nước như Mỹ đã phê chuẩn các sản phẩm giao dịch bitcoin.

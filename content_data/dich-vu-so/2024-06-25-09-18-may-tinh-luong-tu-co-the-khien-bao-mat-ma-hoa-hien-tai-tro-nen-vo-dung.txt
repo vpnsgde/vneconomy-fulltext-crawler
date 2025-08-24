@@ -1,0 +1,33 @@
+Điện toán lượng tử (Quantum computing) là một trong những phương pháp xử lý thông tin tiến bộ trong tương lai. Phương pháp này sử dụng những nguyên lý của cơ học lượng tử để thực hiện các phép tính phức tạp chỉ trong một khoảng thời gian ngắn. Tuy nhiên, công nghệ này gần như vẫn đang ở giai đoạn nghiên cứu.
+
+Chính vì vậy, điện toán lượng tử sẽ ngày càng được áp dụng rộng rãi, mang lại nhiều lợi ích từ học máy và phân tích dữ liệu đến mật mã và an ninh mạng,... Tuy nhiên, phương pháp này cũng tạo ra những nguy cơ và rủi ro gây mất tính an toàn, đặc biệt khả năng phá vỡ hầu hết các mã hóa thời điểm hiện tại, vì vậy, các giải pháp an ninh mạng hiện tại phần lớn sẽ không đủ an toàn.
+
+Sáng kiến thiết lập cơ sở hạ tầng Mạng lượng tử an toàn (QSN) ​​này không chỉ giúp Singapore trở thành quốc gia đi đầu trong đổi mới an ninh kỹ thuật số mà còn tạo tiền đề cho các doanh nghiệp của quốc gia này tận dụng sức mạnh của công nghệ lượng tử để bước vào kỷ nguyên công nghệ.
+
+Mặc dù hoạt động của tội phạm mạng ngày càng khó lường nhưng vẫn có thể được kiểm soát thông qua các biện pháp phòng ngừa như mã hóa dữ liệu. Tuy nhiên, trong tương lai, công nghệ điện toán lượng tử sẽ khiến các biện pháp bảo mật mã hoá hiện tại trở nên lỗi thời.
+
+
+
+Sự phát triển của điện toán lượng tử cũng đồng nghĩa với sự xuất hiện của các siêu máy tính lượng tử quy mô lớn. Và những chiến máy tính này có thể giải mã hầu hết các giao thức an ninh mạng phổ biến cũng như tất cả lưu lượng được ghi lại trước đó, gây rủi ro an ninh mạng cho mọi tổ chức. Vào tháng 10/2021, các quan chức tình báo Mỹ đã chỉ ra điện toán lượng tử là một trong năm mối đe dọa chính bên ngoài, cùng với các mối đe dọa khác là trí tuệ nhân tạo, công nghệ sinh học, chất bán dẫn và hệ thống tự quản (autonomous system).
+
+Các chuyên gia dự đoán các máy tính lượng tử có khả năng khiến mã hóa hiện tại trở nên vô dụng vào khoảng năm 2030. Thời điểm đó được các chuyên gia gọi là Q-Day.
+
+Khi các mối đe dọa kỹ thuật số trở nên phức tạp hơn, theo ông Ming Kin Ngiam, Trưởng phòng Kinh doanh Cơ sở hạ tầng Mạng khu vực Đông Á của Nokia, điều quan trọng là cần có các giải pháp an ninh mạng cho các ngành cơ sở hạ tầng quan trọng để đáp ứng những thách thức mới này. Các biện pháp chủ động phải được thực hiện để giảm thiểu rủi ro do điện toán lượng tử gây ra. Và mạng lượng tử an toàn là giải pháp.
+
+Bất chấp những rủi ro liên quan, không thể phủ nhận điện toán lượng tử sẽ mang đến vô số cơ hội để các quốc gia tăng cường công nghệ để đổi mới mọi lĩnh vực.
+
+Chẳng hạn, những thiết bị đo khí tượng tốt nhất hiện nay vẫn có sai sót, thế nhưng, sự xuất hiện của máy tính lượng tử thì việc xây dựng một mô hình thời tiết cho một khu vực hay toàn cầu là hoàn toàn có thể làm được.
+
+Điện toán lượng tử cũng hứa hẹn tăng hiệu quả, tiết kiệm chi phí và tính bền vững trong các ngành như khai thác mỏ, dầu khí. Bằng cách cho phép xác định chính xác các vị trí khoan, công nghệ lượng tử có thể giảm chi phí vận hành và tác động đến môi trường.
+
+Ngoài ra, máy tính lượng tử có thể giúp giải quyết các vấn đề về máy học, tạo kết nối giữa các đầu vào và giúp các hệ thống học hỏi nhanh hơn, từ đó, cho phép các nhà nghiên cứu xây dựng các mô hình phức tạp và mạnh mẽ hơn và những robot tương lai có thể tự thu thập thông tin, xử lý chúng và tự thích nghi với những tình huống có thể xảy ra.
+
+Mặc dù Q-Day được dự đoán sẽ xảy ra vào năm 2030, tuy nhiên, một số nhà khoa học cho rẳng Q-Day thậm chí có thể đến sớm hơn dự kiến ​​ban đầu. Vì vậy, việc thiết lập mạng an toàn lượng tử quốc gia vì một cơ sở hạ tầng quốc gia bền vững là rất cần thiết cho bất kỳ quốc gia nào, theo ông Ming Kin Ngiam, Trưởng phòng Kinh doanh Cơ sở hạ tầng Mạng khu vực Đông Á của Nokia.
+
+Nhận thấy những cơ hội của điện toán lượng tử, chính phủ Singapore đã có những bước đi tích cực để phát triển công nghệ lượng tử. Đầu năm nay, chính phủ đã công bố kế hoạch đầu tư 23,5 triệu USD vào Chương trình Kỹ thuật Lượng tử (QEP) của quốc gia.
+
+Theo Business Times, khoản đầu tư sẽ được sử dụng để đào tạo 100 chuyên gia trong nước ở bậc cao học và tiến sĩ cũng như tài trợ cho các hoạt động nghiên cứu phát triển máy tính và thiết bị lượng tử trong nước.
+
+Ngoài ra, Cơ quan Phát triển Truyền thông Infocomm của Singapore (IMDA) đã ký Biên bản ghi nhớ với Cơ quan Xã hội Thông tin Quốc gia (NIA) của Hàn Quốc để hợp tác về công nghệ và tiêu chuẩn lượng tử nhằm trao đổi hiểu biết và kinh nghiệm giữa các nhà khai thác mạng, thúc đẩy việc triển khai mạng lượng tử một cách an toàn.
+
+Việc chính phủ Singapore hợp tác với các tập đoàn công nghệ hàng đầu để xây dựng mạng lượng tử an toàn từ sớm sẽ giúp quốc gia này vừa tận dụng lợi thế của điện toán lượng tử từ sớm, song vẫn bảo vệ an ninh hạ tầng cơ sở hạ tầng kỹ thuật số quốc gia.

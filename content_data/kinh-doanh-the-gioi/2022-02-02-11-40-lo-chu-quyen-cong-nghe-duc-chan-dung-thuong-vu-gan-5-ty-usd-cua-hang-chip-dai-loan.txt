@@ -1,0 +1,23 @@
+Công ty Đài Loan GlobalWafers, chuyên sản xuất tấm silicon cho chip máy tính, sẽ không thể mua lại công ty đối thủ Siltronic – có trụ sở tại Munich – do không nhận được cái gật đầu từ nhà chức trách Đức trước hạn chót.
+
+Thương vụ trị giá 4,35 tỷ Euro (tương đương 4,9 tỷ USD) này sụp đổ trong bối cảnh Đức cũng như nhiều quốc gia phát triển đang đẩy mạnh “chủ quyền công nghệ” để không bị phụ thuộc vào các nước khác trong những công nghệ quan trọng như chất bán dẫn. Châu Âu hiện đang phụ thuộc chủ yếu vào con chip được phát triển và sản xuất tại Mỹ và châu Á – nơi có những công ty chip hàng đầu thế giới như Samsung, TSMC và Intel.
+
+“Thương vụ mua lại của GlobalWafers và các thỏa thuận là kết quả của thương vụ này sẽ không được thực hiện và mất hiệu lực”, GlobalWafers cho biết ngày 1/2.
+
+Thương vụ thâu tóm này đã không được Bộ Kinh tế Đức thông qua trước hạn chót 31/1, đồng nghĩa không thể được triển khai theo đúng kế hoạch.
+
+“Chúng tôi không thể hoàn thành tất cả các bước xem xét cần thiết trong quy trình phê duyệt đầu tư – quy trình áp dụng riêng đối với việc phê duyệt chống động quyền của các nhà chức trách Trung Quốc được đưa ra vào tuần trước”, một người phát ngôn của Bộ Kinh tế Đức cho biết.
+
+Thương vụ này, được phía Trung Quốc phê duyệt hôm 21/1, có thể tạo ra nhà sản xuất tấm chip 300 mm lớn thứ hai thế giới, sau công ty Shin-Etsu của Nhật. Với việc không được nhà chức trách Đức thông qua, GlobalWafers sẽ phải trả khoản phí chấm dứt hợp đồng là 50 triệu Euro cho Siltronic. Tấm silicon là phần quan trọng trong con chip dùng trong mọi thứ từ điện thoại di động cho tới cảm biến ô tô.
+
+Đức, quê nhà của Infineon và nhiều nhà sản xuất chip khác, đang ngày thận trọng với các vấn đề liên quan tới chuỗi cung ứng chip toàn cầu sau khi cuộc khủng hoảng thiếu chip gây tác động nặng nề tới ngành công nghiệp ô tô nổi tiếng của nước này.
+
+Bộ Kinh tế Đức cho biết bộ này sẽ tiến hành xem xét phê duyệt đầu tư một lần nữa nếu GlobalWafers xin cấp phép lại.
+
+Phản ứng trước quyết định của Bộ Kinh tế Đức, ông Doris Hsu, CEO của GlobalWafers, nói rằng đây là “kết quả đáng thất vọng”, đồng thời cho biết công ty sẽ phân tích tác động của quyết định này tới chiến lược đầu tư trong tương lai của mình.
+
+“Châu Âu vẫn là một thị trường quan trọng với GlobalWafers và chúng tôi vẫn tiếp tục duy trì các cam kết với khách hàng và nhân viên của mình tại châu lục này", thông cáo của GlobalWafers nhấn mạnh.
+
+Trên thế giới, một số thương vụ thâu tóm của các hãng chip cũng đang bị Chính phủ và cơ quan quản lý các nước xem xét, điều tra. Trong đó, đáng chú ý là thương vụ Nvidia thâu tóm hãng thiết kế chip Anh. Arm với giá 40 tỷ USD. Arm hiện thuộc sở hữu của tập đoàn Nhật Bản SoftBank.
+
+Nhiều nhà phân tích lo ngại rằng việc sáp nhập Arm với Nvidia - công ty cũng tự thiết kế chip - có thể khiến nhiều nhà sản xuất gặp trở ngại trong việc tiếp cận các thiết kế chip "trung lập" của Arm, từ đó dẫn đến giá thành cao hơn, ít lựa chọn hơn và giảm sự đổi mới trong lĩnh vực này. Trong khi đó, Nvidia khẳng định thương vụ này sẽ tạo ra nhiều đổi mới hơn và Arm sẽ hưởng lợi nhờ được tăng cường đầu tư.

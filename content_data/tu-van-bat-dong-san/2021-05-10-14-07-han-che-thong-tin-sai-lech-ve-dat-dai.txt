@@ -1,0 +1,21 @@
+Covid-19 tiếp tục khiến nhiều hoạt động thường ngày trên nền tảng trực tuyến trở nên tích cực hơn. Lượng dữ liệu số gia tăng đáng kể cùng sự nở rộ của video, hội nghị trực tuyến, game online và mạng xã hội. Việc số hóa thông tin cũng là một trong những giải pháp đã được đưa ra sau những cơn sốt đất liên tục gần đây, khi giá đất bị đẩy lên cao chỉ vì thiếu nguồn tin chính xác.
+
+ĐẢM BẢO AN TOÀN TRONG ĐẠI DỊCH
+
+Dữ liệu của Savills trong quý 1/2021 cho thấy, nhu cầu sử dụng các dịch vụ số đã tăng đáng kể so với lượng tăng của thập kỷ trước. Riêng trong năm 2020, 59% dân số toàn cầu đã được kết nối Internet, con số này chỉ là 26% năm 2010. Song song với đó, lưu lượng internet toàn cầu đã lên gấp 12 lần. Lượng dữ liệu thu thập được cũng đồng thời tăng với tốc độ chưa từng có với sự phát triển không ngừng của Internet vạn vật (IoT), trí tuệ nhân tạo (AI), tương tác thực tế ảo (AR) hay blockchain.
+
+Ông Chris Marriot, Giám đốc điều hành Savills Châu Á - Thái Bình Dương cho biết: các phát triển công nghệ mới có khả năng thu thập và xử lý dữ liệu sẽ mang lại cơ hội cũng như hiệu quả cho hoạt động quản lý bất động sản theo hướng định lượng.
+
+Từ thực tế hoạt động, ông Mathew Powell, Giám đốc Savills Hà Nội cho biết: trong những năm qua, Savills đã có một số thành tựu nhất định trong hoạt động quản lý – vận hành bất động sản với phần mềm ứng dụng Property Cube. Phần mềm này mang đến giải pháp hỗ trợ công tác vận hành và quản lý tại hơn 100 dự án bất động sản do Savills quản lý tại Việt Nam. Qua đó, giúp tối ưu chi phí vận hành và đảm bảo cuộc sống an toàn, tiện lợi của cư dân trong bối cảnh đại dịch. Riêng trong mảng cho thuê thương mại ở lĩnh vực văn phòng và bán lẻ, Savills Việt Nam cũng đang vận hành một nền tảng khác có tên Commercial Cube, hỗ trợ đắc lực mọi hoạt động trong thị trường.
+
+Cũng theo ông Mathew Powell, việc số hóa thông tin còn mang lại lợi ích to lớn trong kiểm soát thông tin đất đai, nhằm đảm bảo tính minh bạch của thông tin. Đây là một trong những giải pháp đã được đưa ra sau những cơn sốt đất liên tục thời gian vừa qua, khi giá đất bị đẩy lên cao chỉ vì thiếu nguồn tin chính xác. Một trong những giải pháp có thể kể đến là việc thành lập dữ liệu quốc gia về giá đất - nơi mà toàn bộ thông tin về đất đai được lưu trữ trên nền tảng số.
+
+SỐ HOÁ VỀ ĐẤT ĐAI SẼ TẠO RA THỊ TRƯỜNG MINH BẠCH
+
+“Mọi thứ được kiểm soát bởi cơ quan Đăng ký đất đai, số hóa quốc gia về các giao dịch đất đai sẽ tạo ra sự minh bạch hơn cho thị trường. Hiện, giá cả đang được đẩy lên cao dựa trên các thông tin sai lệch hoặc bị hiểu nhầm. Việc này đã dẫn đến sự lẫn lộn trong giá cả và một số người sẽ ra quyết định đầu tư sai lầm dựa trên những thông tin không chính xác. Vì vậy, sự xuất hiện của một nguồn dữ liệu, nơi thông tin được công bố rộng rãi và chính xác sẽ cho phép thị trường bất động sản hoạt động ổn định và giảm thiểu những sự nhảy vọt về giá”, ông Mathew nói.
+
+Lấy ví dụ tại Anh quốc, thị trường này đã có một nền tảng quản lý thông tin đất đai quốc gia. Mọi mảnh đất và mọi giao dịch xảy ra trên mảnh đất đó được lưu giữ trong nhiều thế kỷ. Những thông tin ấy đều được tiếp cận và sử dụng bởi toàn bộ những đơn vị hoạt động trong thị trường bất động sản và chính phủ cũng đồng thời sử dụng như một công cụ hiệu quả về pháp lý. "Điều quan trọng là cải thiện việc lưu trữ và truyền tải thông tin, giảm thiểu những đặc tính đã trở nên lỗi thời trong ngành bất động sản như việc quá phụ thuộc vào các loại giấy tờ. Khi các loại giấy tờ được số hóa thì thông tin không chỉ được truyền tải hiệu quả hơn, mà còn đồng thời còn mang lại tính bảo mật cao hơn”, Giám đốc Savills Hà Nội cho biết thêm.
+
+Nhiều chuyên gia cũng nhìn nhận, Covid -19 đã khiến hoạt động chuyển đổi số và vai trò của các trung tâm lưu trữ số liệu trở nên quan trọng hơn đối với thế giới nói chung và Việt Nam nói riêng. Dựa trên các lợi thế sẵn có, có thể thấy nhu cầu cho các trung tâm lưu trữ sẽ phát triển hơn trong 5 năm tới.
+
+Việc dịch chuyển sang lưu trữ đám mây sẽ trở thành yếu tố then chốt của nhiều công ty. Vậy nên nhu cầu về các cơ sở trung tâm dữ liệu sẽ tiếp tục phát triển trong tương lai gần, tạo ra những yêu cầu thuê mới cho các bất động sản thương mại.

@@ -1,0 +1,33 @@
+Nhằm thực hiện thống nhất, đồng bộ, sử dụng hiệu quả thông tin trong các cơ sở dữ liệu, phục vụ công tác quản lý nhà nước và phát triển kinh tế xã hội, Bộ Công an đang đề nghị xây dựng Luật Dữ liệu. Hồ sơ đề nghị xây dựng Luật Dữ liệu đang được lấy ý kiến đóng góp các cơ quan, tổ chức, cá nhân.
+
+Theo Bộ Công an, những năm qua, thực hiện các quy định pháp luật có liên quan đến dữ liệu đã cho thấy sự quyết tâm, tập trung lãnh đạo, chỉ đạo của Quốc hội, Chính phủ, bộ, ngành, địa phương trong hoàn thiện thể chế nhằm tạo lập hành lang pháp lý giúp kiến tạo sự phát triển đối với lĩnh vực này, góp phần vào sự phát triển nhanh chóng của dữ liệu tại Việt Nam.
+
+Dữ liệu đã trở thành nguồn tài nguyên quý giá và là yếu tố quan trọng tạo ra giá trị kinh tế. Phát triển dữ liệu tạo nền tảng cho triển khai, đảm bảo cung cấp dữ liệu số cho các dịch vụ công trực tuyến, chia sẻ dữ liệu thông suốt giữa các cơ quan nhà nước, cung cấp các bộ dữ liệu mở có chất lượng và giá trị khai thác cao, mở dữ liệu theo quy định pháp luật để phát triển Chính phủ số, kinh tế số và xã hội số.
+
+Thực hiện văn bản pháp luật có quy định về dữ liệu đã xuất hiện nhiều mô hình, cách làm mới sáng tạo; nhiều bộ, ngành, địa phương đã thực hiện đẩy mạnh việc kết nối, tích hợp, chia sẻ dữ liệu giữa các cơ quan nhà nước, doanh nghiệp, địa phương; đặc biệt là dữ liệu từ các cơ sở dữ liệu quốc gia, các hệ thống thông tin có quy mô, phạm vi từ trung ương đến địa phương giúp tối đa hóa giá trị dữ liệu, nâng cao chất lượng dịch vụ công cung cấp cho người dân, doanh nghiệp theo hướng lấy người dùng làm trung tâm, người dân và doanh nghiệp không phải cung cấp thông tin thủ công, nhiều lần cho cơ quan nhà nước, đơn vị cung cấp dịch vụ, tránh đầu tư trùng lặp, gây lãng phí.
+
+Việc triển khai thi hành văn bản pháp luật về dữ liệu đã góp phần hoàn thiện pháp luật, đáp ứng yêu cầu quản lý nhà nước về dữ liệu, nâng cao vị trí của Việt Nam trên bản đồ công nghệ số thế giới và đảm bảo an ninh, an toàn, hướng tới Chính phủ số, nền kinh tế số, xã hội số và phục vụ tốt hơn cho người dân, doanh nghiệp.
+
+Tuy nhiên, hành lang pháp lý về dữ liệu của Việt Nam còn chưa đầy đủ; chưa có quy định về việc kết nối liên thông các kho dữ liệu số quốc gia để hình thành kho dữ liệu tập trung, hình thành cơ chế một cửa duy nhất trong truy cập và khai thác dữ liệu. Chưa có quy định cụ về thể phân phối, tái sử dụng dữ liệu nhằm tạo ra giá trị mới từ dữ liệu dẫn đến nguy cơ không phân loại được dữ liệu. Chưa có quy định pháp lý về việc xây dựng chiến lược dữ liệu, quản trị dữ liệu, bảo vệ dữ liệu; Chưa có nguyên tắc trong kết nối, chia sẻ, khai thác, sử dụng thông tin, dữ liệu dùng chung quốc gia;…
+
+Đồng thời, chưa có tiêu chuẩn về dữ liệu thống nhất dẫn đến đang có nhiều loại dữ liệu gồm các độ mật dữ liệu, dữ liệu nhạy cảm, dữ liệu mở… cơ chế kết nối, chia sẻ giữa các đơn vị không thống nhất và phù hợp. Các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, hạ tầng thông tin có quy mô từ trung ương đến địa phương có tính chất nền tảng chậm được triển khai, đưa vào khai thác trên quy mô quốc gia (điển hình như cơ sở dữ liệu đất đai quốc gia);
+
+Hạ tầng dữ liệu quốc gia còn rời rạc, chất lượng không đồng đều và chưa cao. Sự kết nối liên thông, chia sẻ dữ liệu để tạo lập nguồn tài nguyên dữ liệu quốc gia quan trọng còn yếu và thiếu đồng bộ chưa đáp ứng  tốt việc đẩy mạnh ứng dụng các thành tựu của cuộc cách mạng công nghiệp lần thứ 4.
+
+Việc chia sẻ dữ liệu quốc gia nói riêng và các cơ sở dữ liệu từ trung ương tới địa phương chưa đáp ứng được yêu cầu. Dữ liệu của doanh nghiệp nằm một cách rời rạc, cục bộ, khép kín. Dữ liệu cá nhân vẫn bị khai thác, mua bán trái pháp luật...
+
+Theo Bộ Công an, việc xây dựng cơ sở dữ liệu tập trung là xu thế chung của các nước trên thế giới hiện nay. Xây dựng, phát triển Cơ sở dữ liệu tổng hợp quốc gia với dữ liệu gắn với con người và các dữ liệu tổng hợp từ các cơ sở dữ liệu quốc gia sẽ là trụ cột dữ liệu chính để tạo nền tảng cho phát triển Chính phủ số, thúc đẩy kinh tế số và hình thành xã hội số.
+
+Hình thành các hệ thống dữ liệu tin cậy, ổn định của Nhà nước và doanh nghiệp từ đó triển khai các giải pháp kết nối để chia sẻ, sử dụng lại và phát triển các mô hình/ứng dụng phân tích dữ liệu chuyên sâu tạo ra nhiều giá trị mới, sản phẩm dịch vụ mới và động lực mới cho phát triển kinh tế xã hội trong giai đoạn chuyển đổi số của Việt Nam.
+
+Việc đầu tư, nâng cấp, mở rộng, lưu trữ thông tin trong Cơ sử dữ liệu tổng hợp quốc gia sẽ tiết kiệm rất nhiều so với việc đầu tư các hệ thống riêng biệt để lưu trữ các thông tin này.
+
+Các thông tin được lưu trữ trong Cơ sở dữ liệu tổng hợp quốc gia cũng sẽ được chia sẻ phục vụ để việc khai thác chung cho các bộ, ngành, địa phương; cơ quan quản lý dữ liệu không phải thiết lập thêm các kênh kết nối, chia sẻ riêng đối với các thông tin đã được bổ sung, lưu trữ trong Cơ sở dữ liệu tổng hợp quốc gia.
+
+Qua rà soát, Bộ Công an thấy có 69 Luật đang quy định về Cơ sở dữ liệu (Cơ sở dữ liệu quốc gia, Cơ sở dữ liệu chuyên ngành). Trong đó, chỉ có một số luật có quy định trách nhiệm của cơ quan chủ quản Cơ sở dữ liệu trong việc xây dựng, thu thập, quản lý, vận hành, kết nối, chia sẻ, khai thác, sử dụng thông tin trong Cơ sở dữ liệu. Hiện nay trên cơ sở các quy định pháp luật, các bộ ngành, địa phương đã triển khai xây dựng các cơ sở dữ liệu phục vụ công tác quản lý nhà nước, trong đó có gần 40 cơ sở dữ liệu quốc gia và gần 50 cơ sở dữ liệu chuyên ngành.
+
+Tuy nhiên, hầu hết các luật đều không quy định cụ thể hoặc thống nhất về việc xây dựng, thu thập, quản lý, vận hành, kết nối, chia sẻ, khai thác, sử dụng thông tin trong các cơ sở dữ liệu. Hiện chưa có luật nào quy định về các dịch vụ liên quan đến dữ liệu, điều chỉnh các nền tảng phát triển, ứng dụng dữ liệu đang có xu hướng phát triển phổ biến trên thế giới như công nghệ AI, điện toán đám mây, Blockchain, công nghệ truyền thông dữ liệu, IoT, BigData…
+
+Do đó, cần có Luật Dữ liệu để điều chỉnh các vấn đề trên nhằm thực hiện thống nhất, đồng bộ, sử dụng hiệu quả thông tin trong các cơ sở dữ liệu, phục vụ công tác quản lý nhà nước và phát triển kinh tế xã hội.
+
+Bộ Công an đề xuất, kiến nghị xây dựng Luật Dữ liệu với 4 chính sách lớn gồm: quy định về xây dựng, phát triển, xử lý, quản trị dữ liệu, ứng dụng khoa học công nghệ trong xử lý dữ liệu; quy định về cơ sở dữ liệu tổng hợp quốc gia; quy định về Trung tâm dữ liệu quốc gia và quy định về sản phẩm, dịch vụ liên quan đến dữ liệu.

@@ -1,0 +1,19 @@
+Tiếp theo công văn số 1837/UBCK-CNTT ngày 25/3/2024 của Uỷ ban Chứng khoán về việc cảnh báo bảo mật hệ thống giao dịch chứng khoán trực truyến, ngày 29/5/2024, Ủy ban Chứng khoán Nhà nước đã có công văn số 3351/UBCK-CNTT yêu cầu các công ty chứng khoán, các công ty quản lý quỹ tăng cường bảo đảm an toàn thông tin mạng, có biện pháp ứng phó với những tình huống cấp bách, bảo đảm an ninh, an toàn hệ thống giao dịch và quyền lợi cho nhà đầu tư.
+
+Theo đó, Uỷ ban Chứng khoán Nhà nước yêu cầu các công ty chứng khoán, công ty quản lý quỹ tổ chức kiểm tra, đánh giá an toàn thông tin cho hệ thống thông tin theo quy định của Bộ Thông tin và Truyền thông.
+
+Các công ty chứng khoán, công ty quản lý quỹ phải đảm bảo tuân thủ quy định về an toàn hệ thống thông tin theo cấp độ và triển khai các biện pháp bảo về đáp ứng yêu cầu an toàn thông tin theo quy định và tiêu chuẩn quốc gia.
+
+Các đơn vị xây dựng kế hoạch ứng phó sự cố an toàn bảo mật, tính huống cấp bách đối với hệ thống giao dịch chứng khoán trực tuyến; tổ chức tuyên truyền, phổ biến nâng cao nhận thức về an toàn thông tin cho cán bộ, nhân viên.
+
+Trước đó, công văn số 1837/UBCK-CNTT ngày 25/3/2024, Ủy ban Chứng khoán Nhà nước nêu rõ: Vừa qua, trên thị trường đã xuất hiện trường hợp công ty chứng khoán bị tấn công vào hệ thống công nghệ thông tin dẫn đến hệ thống giao dịch chứng khoán của công ty tạm thời ngừng hoạt động.
+
+Nhằm đảm bảo sự hoạt động an toàn, ổn định, thông suốt của thị trường chứng khoán, Ủy ban Chứng khoán Nhà nước yêu cầu công ty đảm bảo hệ thống công nghệ thông tin, cơ sở dữ liệu dự phòng hoạt động an toàn và liên tục theo quy định tại khoản 10 điều 89 Luật Chứng khoán 2019.
+
+Bên cạnh đó, chủ động rà soát, kiểm tra ngay các phương án bảo mật cho hệ thống công nghệ thông tin của công ty, đặc biệt là hệ thống giao dịch chứng khoán và các hệ thống có kết nối mạng internet để kịp thời khắc phục các lỗ hổng bảo mật (nếu có).
+
+Thực hiện kiểm tra các quy trình giao dịch trực tuyến; quy trình kiểm soát rủi ro; quy trình sao lưu dự phòng hệ thống, dữ liệu; quy trình quản trị vận hành các hệ thống công nghệ thông tin; xây dựng các biện pháp ứng phó và khắc phục các rủi ro về bảo mật tiềm ẩn.
+
+"Trong trường hợp công ty phát hiện các dấu hiệu mất an toàn bảo mật phải chủ động, tập trung nguồn lực để xử lý, khắc phục; kịp thời báo cáo Ủy ban Chứng khoán Nhà nước; các sở giao dịch chứng khoán, Tổng công ty Lưu ký và Bù trừ chứng khoán Việt Nam (đối với công ty chứng khoán thành viên) và các cơ quan chức năng để phối hợp chỉ đạo, xử lý", công văn nêu rõ.
+
+Ủy ban Chứng khoán Nhà nước cũng yêu cầu công ty nghiêm túc, khẩn trương thực hiện và báo cáo kết quả rà soát, kiểm tra, phương án khắc phục (nếu có) cho Ủy ban Chứng khoán Nhà nước và các đơn vị có liên quan.

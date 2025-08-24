@@ -1,0 +1,45 @@
+Một khu phức hợp rộng hơn 7.200 mét đã được khai trương vào tháng 9/2023 tại Dubai sau khi trải qua 18 tháng xây dựng. Đây được xem là minh chứng cho nỗ lực của các quốc gia vùng Vịnh về việc phát triển trí tuệ nhân tạo. Khi bước vào, khách bước lên tấm thảm trải sàn màu xanh được thiết kế nhằm ngăn các hạt cát lạc vào bên trong. Giống như cái nóng thiêu đốt bên ngoài, bất kỳ hạt bụi sa mạc nào cũng có thể gây nguy hiểm cho các thiết bị trị giá hàng triệu USD được cất giữ bên trong.
+
+Đây là cơ sở thứ 4 tại Các Tiểu vương quốc Ả Rập Thống nhất (UAE) được điều hành bởi Equinix, nhà phát triển trung tâm dữ liệu có trụ sở tại Thành phố Redwood, California. Công ty cũng đang cân nhắc việc mở rộng sang nước láng giềng Saudi Arabia.
+
+Saudi Arabia và UAE đều mong muốn trở thành siêu cường AI trong khu vực và khởi động một cuộc chạy đua để xây dựng các trung tâm dữ liệu đắt đỏ nhằm hỗ trợ công nghệ.
+
+Nếu chỉ sở hữu các trung tâm dữ liệu, không có quốc gia nào có thể trở thành cường quốc về AI. Tuy nhiên, không cường quốc về AI nào lại không sở hữu các trung tâm dữ liệu.
+
+Các quốc gia đều muốn sở hữu cơ sở hạ tầng trong chính lãnh thổ của họ bởi hai lý do. Thứ nhất, nếu được xây dựng ở gần khách hàng sẽ giúp dễ dàng truy cập dịch vụ và tăng tốc độ. Thứ hai là bởi yếu tố địa chính trị, vì dữ liệu có giá trị được lưu trữ trong máy chủ sẽ phải tuân theo các quy định của địa phương và được cách ly khỏi sự can thiệp của nước ngoài.
+
+Tại Saudi, nơi nền kinh tế vẫn phụ thuộc nhiều vào hydrocarbon, công nghệ AI là một phần trong chiến lược Tầm nhìn đến năm 2030 của Thái tử Mohammed bin Salman. Họ đã thành lập các trung tâm nghiên cứu lớn với các bộ chuyên trách về AI, đồng thời sản xuất các mô hình ngôn ngữ lớn tương tự như ChatGPT của OpenAI. Điều này cũng đang diễn ra tương tự tại UAE khi quốc gia này đang nỗ lực tích trữ hàng nghìn chip tùy chỉnh.
+
+
+
+Financial Times đã đưa tin rằng Giám đốc điều hành OpenAI, Sam Altman, gần đây đã gặp các quan chức Chính phủ và nhà đầu tư ở UAE để thảo luận về cách khu vực tư nhân có thể làm việc với các quốc gia để hỗ trợ cơ sở hạ tầng AI quy mô lớn.
+
+Vào đầu tháng 3, Abu Dhabi đã công bố một quỹ đầu tư AI và có thể tăng lên 100 tỷ USD trong vòng vài năm. Quỹ tài sản có chủ quyền của Saudi cũng đang đàm phán với quỹ đầu tư mạo hiểm Andreessen Horowitz về việc phân bổ tới 40 tỷ USD cho các khoản đầu tư vào AI. Kamel Al-Tawil, Giám đốc điều hành Equinix khu vực Trung Đông và Bắc Phi cho biết: “Khu vực này mang lại nhiều tiềm năng, hỗ trợ tốt cho các doanh nghiệp vì có nền kinh tế mạnh, giá điện ổn định…”.
+
+Trên thực tế, các nước vùng Vịnh đang tụt hậu so với Tây Âu về trung tâm dữ liệu. Theo công ty nghiên cứu DC Byte, vào cuối năm 2023, UAE có công suất trung tâm dữ liệu là 235 MW và Saudi có 123 MW, so với 1.060 MW của Đức. Để thu hẹp khoảng cách, UAE đang có kế hoạch mở rộng công suất thêm 343 MW và Saudi cho biết họ muốn bổ sung thêm 467 MW trong vài năm tới.
+
+Một báo cáo gần đây của PwC ước tính rằng đến năm 2030, AI sẽ đóng góp 96 tỷ USD cho nền kinh tế của UAE và 135 tỷ USD cho nền kinh tế của Saudi Arabia, đưa hai quốc gia này chỉ đứng sau Trung Quốc và Bắc Mỹ.
+
+Nhiều nhà quan sát cũng cảm nhận được cuộc đua ngầm giữa Saudi Arabia và UAE - ngay cả khi các quan chức cho biết không có bất kỳ sự cạnh tranh nào tồn tại. Omar Al Olama, Bộ trưởng Ngoại giao UAE cho biết: “Tôi không nghĩ Saudi Arabia từng là mối đe dọa đối với UAE và tôi không nghĩ UAE từng là mối đe dọa đối với Saudi Arabia”.
+
+UAE là quốc gia nhỏ hơn nhưng có một số lợi thế. Theo DC Byte, họ bắt đầu xây dựng các trung tâm dữ liệu cách đây hơn hai thập kỷ như một phần của sáng kiến Thành phố Internet Dubai, bao gồm cả các trung tâm đổi mới và không gian văn phòng. Đồng thời có 52 trung tâm dữ liệu đang hoạt động.
+
+Colm Shorten, Giám đốc cấp cao của Jones Lang LaSalle, công ty vận hành các trung tâm dữ liệu trong khu vực cho biết, UAE là quốc gia am hiểu công nghệ nhất trong số các quốc gia vùng Vịnh nhờ sẵn sàng thử nghiệm các kỹ thuật và thiết bị mới.
+
+Trọng tâm của các nỗ lực AI của UAE là tập đoàn công nghệ G42, do cố vấn an ninh quốc gia Sheikh Tahnoon bin Zayed Al Nahyan làm chủ tịch. G42 đang hợp tác với Cerebras Systems, một công ty khởi nghiệp có trụ sở tại Sunnyvale, California về các chip tùy chỉnh để cạnh tranh với Nvidia. Đơn vị trung tâm dữ liệu của nó là Khazna, hoạt động 23 trong nước và có 7 trung tâm khác đang được xây dựng. Một số cơ sở này sẽ được dành để lưu trữ các máy chủ đám mây cho Microsoft, một trong những đối tác của G42.
+
+
+
+Peng Xiao, Giám đốc điều hành của G42 cho biết: “Trọng tâm của chúng tôi hôm nay chắc chắn là phát triển một trong những cụm trung tâm dữ liệu lớn nhất thế giới ngay tại UAE”. Ngược lại, theo DC Byte, Saudi Arabia có 60 trung tâm dữ liệu, nhưng nhiều trung tâm có công suất điện thấp hơn các cơ sở tại UAE.
+
+Gần một nửa số khu phức hợp trong số 60 trung tâm nêu trên được xây dựng bởi Center3, một công ty con của Tập đoàn viễn thông lớn nhất Saudi Arabia. Các gã khổng lồ công nghệ Trung Quốc như Alibaba và Tencent cũng vận hành các trung tâm dữ liệu trong nước.
+
+Bên cạnh đó, nhà phát triển bất động sản cao cấp Damac Properties Dubai đã cam kết chi 600 triệu USD cho các trung tâm dữ liệu ở đó. Vào tháng 3, Vương quốc này đã công bố cam kết từ các công ty công nghệ bao gồm Amazon để đầu tư 10 tỷ USD vào các trung tâm dữ liệu.
+
+Thách thức lớn nhất có lẽ là đảm bảo các yếu tố như nước, tạo nhiệt cần thiết cho AI tiên tiến có thể hoạt động hiệu quả trên sa mạc. Al-Tawil của Equinix ước tính rằng các máy chủ cần thiết để chạy các mô hình AI tiên tiến cần lượng điện năng gấp 8 lần so với những máy chủ được sử dụng cho email công ty hoặc lưu trữ dữ liệu đám mây.
+
+Khi máy chủ sử dụng nhiều năng lượng như vậy, thiết bị sẽ nóng lên nhanh hơn rất nhiều, điều này có thể dẫn đến tình trạng ngừng hoạt động hoặc thậm chí hư hỏng. Nhiều nhà khai thác ở vùng Vịnh đang chuyển sang các kỹ thuật mới như làm mát bằng chất lỏng, một phương pháp làm lạnh thiết bị trực tiếp thay vì giảm nhiệt độ của không khí xung quanh. Các nhà phát triển khác đã thử nghiệm một chiến thuật khác là “làm mát ngâm”, trong đó các máy chủ được ngâm trong bồn chứa chất làm mát.
+
+Davide Ortisi, người đứng đầu công ty tư vấn Data Center Nation, cho biết các kỹ sư cơ khí, quản lý cơ sở và các loại kỹ thuật viên khác đang khan hiếm ở vùng Vịnh. Ông gọi sự thiếu hụt kỹ năng là một vấn đề lớn. UAE và Saudi Arabia đã cố gắng thu hút các công ty khởi nghiệp của Mỹ và châu Âu bằng những lời hứa về tài nguyên máy tính và giảm thuế, nhưng chỉ một số ít chấp nhận những lời đề nghị này.
+
+Cho đến nay, không có thách thức nào trong số này có thể ngăn cản Equinix. Cơ sở mới nhất ở vùng Vịnh của công ty được giữ ở nhiệt độ vừa phải quanh năm trong khi nhiệt độ bên ngoài thường xuyên vượt quá 110F vào mùa hè.

@@ -1,0 +1,27 @@
+Công an tỉnh Đồng Nai vừa triệt phá nhóm đối tượng hoạt động trên không gian mạng với thủ đoạn lập sàn giao dịch tiền ảo (MTC - Matrix Chain) dụ dỗ hàng chục nghìn người đầu tư.
+
+Trước đó, khoảng đầu năm 2024, Công an tỉnh Đồng Nai phát hiện nhóm đối tượng hoạt động lừa đảo chiếm đoạt tài sản trên không gian mạng với thủ đoạn lập sàn giao dịch tiền ảo (MTC - Matrix Chain), lôi kéo nạn nhân trên địa bàn các tỉnh thành trên toàn quốc tham gia với vai trò là nhà đầu tư tiền ảo. Mặc dù đồng tiền không giá trị nhưng các đối tượng lừa đảo đã đưa thông tin tiềm năng, lợi nhuận siêu khủng lôi kéo, dụ dỗ hàng chục nghìn người đầu tư với số tiền gần 10.000 tỷ đồng…
+
+Xác định đây hoạt động của nhóm đối tượng tinh vi, ẩn dưới nhiều lớp vỏ bọc rất phức tạp, Giám đốc Công an tỉnh đã chỉ đạo và giao Phòng Cảnh sát điều tra tội phạm về trật tự xã hội lập Chuyên án đấu tranh.
+
+Qua thời gian điều tra, xác minh, ngày 19/5/2025, Giám đốc Công an tỉnh Đồng Nai đã trực tiếp chỉ đạo nhiều mũi công tác của Công an tỉnh phối hợp Cục C02 – Bộ Công an; Công an TP. Hà Nội, Công an TP. HCM và Công an các tỉnh Hưng Yên, Bình Định, Đăklăk, Gia Lai, Bắc Giang... đồng loạt phá án, khống chế bắt giữ, áp giải và khám xét nơi ở, làm việc của các đối tượng giữ vai trò cầm đầu.
+
+Các đối tượng gồm Nguyễn Quốc Hùng, SN 1984, ở Hà Nội; Bùi Thị Thanh Nga, SN 1991, ở huyện Thanh Trì, TP. Hà Nội; Hồ Long Trí, SN 1980, ở huyện Củ Chi, TPHCM; Đinh Hữu Hay, SN 1991, ở huyện Hoài Nhơn, tỉnh Bình Định; Thân Văn Hiệp, SN 1982, ở thành phố Biên Hoà, tỉnh Đồng Nai và triệu tập số các đối tượng giúp sức để làm việc.
+
+Bước đầu các đối tượng khai nhận, khoảng tháng 2/2023, Nguyễn Quốc Hùng liên hệ với nhóm đối tượng ẩn danh trên Telegram thuê viết phần mềm Dự án đồng tiền ảo có tên Matrix Chaine (gọi tắt là MTC) trên nền tảng ví điện tử "SafePal", nền tảng B2B Smart trade với giá 20.000 USDT (tương ứng khoảng 520 triệu đồng).
+
+Sau đó Hùng bàn tính với Bùi Thị Thanh Nga góp vốn 400 triệu đồng. Để thực hiện hành vi chiếm đoạt tiền của người tham gia, Hùng tạo 1 ví điện tử "SafePal", nền tảng B2B Smart trade cung cấp cho nhóm ẩn danh để cài đặt vào hệ thống tiền điện tử MTC gọi là "ví thu phí nền tảng".
+
+Mỗi một người tham gia dự án phải đóng 1 USDT (tương đương khoảng 26.000 đồng) vào ví nền tảng, sau đó, Hùng giao cho Nga quản lý trên điện thoại.
+
+Số tiền thu được trong "ví thu phí nền tảng", Hùng và Nga sử dụng khoảng 40% chi cho các Leader (người dẫn đầu) khu vực, 5% sử dụng để quảng bá đồng tiền MTC và chi phí sự kiện, 55% còn lại Hùng và Nga rút ra để chi tiêu cá nhân.
+
+Ngoài ra, khi thực hiện việc đưa chương trình MTC lên sàn PancakeSwap, Hùng giữ lại 1 ví "SafePal" chứa khoảng 100.000.000 đồng MTC để thực hiện việc can thiệp chương trình điều tiết giá trị để kích thích người chơi hoặc rút và chiếm đoạt USDT người chơi nạp vào.
+
+Ngoài ra Hùng và Nga thường xuyên tổ chức đào tạo nhóm Leader và tổ chức nhiều sự kiện quảng bá tạo cộng đồng các hội, nhóm trên các nền tảng Telegram, facebook kêu gọi nhiều người tham gia, đưa ra các mục tiêu, cam kết “lợi nhuận siêu lớn, hoa hồng siêu khủng”, lôi kéo hàng chục nghìn người tham gia với hơn 138.000 tài khoản đăng ký, nạp số tiền 394.276.762USDT (tương đương khoảng hơn 10.000 tỷ đồng).
+
+Sau đó, Nguyễn Quốc Hùng và Bùi Thị Thanh Nga sử dụng phần mềm ví điện tử "SafePal" tạo lập nhiều ví phi tập trung mang tên Hùng, Nga và em gái là Bùi Thị Thanh Hoa để nhận tiền từ "ví thu phí nền tảng" và chuyển bán cho nhiều người chuyên mua bán đồng USDT tự do.
+
+Số tiền chiếm đoạt được của người chơi, Hùng và Nga bàn bạc mua bất động sản gồm chung cư, nhà, đất tại Hà Nội, Bắc Ninh, Hòa Bình, Hưng Yên, Thái Nguyên…, tất cả giao cho Nga, bố và mẹ ruột của Nga đứng tên. Cơ quan Cảnh sát điều tra (PC02) Công an tỉnh Đồng Nai thu giữ nhiều tang vật, vật chứng liên quan phục vụ công tác điều tra.
+
+Hiện Cơ quan Cảnh sát điều tra Công an tỉnh Đồng Nai đang khẩn trương điều tra, truy xét, xử lý các đối tượng theo quy định của pháp luật.

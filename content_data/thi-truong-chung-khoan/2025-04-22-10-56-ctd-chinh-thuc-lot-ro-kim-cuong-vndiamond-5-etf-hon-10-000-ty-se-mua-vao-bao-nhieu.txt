@@ -1,0 +1,29 @@
+Sở Giao dịch Chứng khoán Tp.HCM (HoSE) đã công bố kết quả rà soát danh mục các chỉ số cho kỳ Quý 2/2025. Các chỉ số mới sẽ có hiệu lực từ ngày 28/4/2025 và các ETF liên quan sẽ thực hiện tái cơ cấu danh mục với hạn cuối là ngày 25/4/2024.
+
+Cụ thể các thay đổi chính trong kỳ này như sau: Với chỉ số VNDiamond, CTD là cổ phiếu thuộc Rổ lần đầu vào chỉ số, VIB là cổ phiếu thuộc Rổ chờ loại ra, MWG vào Rổ duy trì. VRE bị loại khỏi chỉ số.
+
+Cần lưu ý rằng, theo quy tắc chỉ số VNDiamond 3.0, CTD và VIB đều được áp dụng giới hạn trọng số %wS (*) là 50%. Do đó, cổ phiếu lần đầu vào chỉ số hoặc cổ phiếu chờ loại ra sẽ được tăng/giảm tỷ trọng trong 2 kỳ liên tiếp. Đối với MWG, hệ số %wS áp dụng cho cổ phiếu này tăng từ 50% lên 100%.
+
+Rổ cổ phiếu mới sẽ gồm 19 cổ phiếu, trong đó có 9 cổ phiếu ngành ngân hàng và 10 cổ phiếu ngoài ngành này. Các cổ phiếu ngân hàng sẽ bị áp dụng mức tỷ trọng tối đa cho cả nhóm ngành là 40%.
+
+Hiện tại, có 5 ETF đang sử dụng chỉ số VNDiamond làm tham chiếu, bao gồm DCVFMVN Diamond ETF, MAFM VNDiamond ETF, BVFVN Diamond ETF, KIM Growth Diamond ETF, ABF VNDiamond ETF. Tổng tài sản ròng của các quỹ ETF này ước tính đạt 10,3 nghìn tỷ đồng tính đến ngày 21/4/2025.
+
+Trong đó, riêng quỹ DCVFMVN Diamond hiện có tổng giá trị tài sản khoảng 9,8 nghìn tỷ đồng. Từ đầu năm 2025 đến nay, tổng giá trị tài sản quỹ đã giảm 22,4%, và NAV giảm 14,3%, giá trị vốn rút ròng ở mức 1,06 nghìn tỷ đồng.
+
+SSI Research ước tính quỹ DCVFMVN Diamond sẽ mua vào 1,9 triệu cổ phiếu MWG và 1,1 triệu cổ phiếu CTD, trong khi bán ra khoảng 10 triệu cổ phiếu VIB và 4,7 triệu cổ phiếu VRE khỏi danh mục. Ngoài ra, một số cổ phiếu ước tính được mua vào đáng kể như: FPT (2,2 triệu cổ phiếu), TCB (2 triệu cổ phiếu), MBB (1,3 triệu cổ phiếu). Đồng thời, quỹ có thể bán ra một lượng lớn cổ phiếu ACB (6,9 triệu cổ phiếu) & HDB (4,3 triệu cổ phiếu).
+
+Chỉ số VNFIN Lead không có thay đổi về thành phần trong kỳ này. Danh mục chỉ số hiện tại bao gồm 23 cổ phiếu. Tại ngày 20/4/2025, Quỹ SSIAM VNFIN Lead ETF có tổng giá trị tài sản khoảng 423 tỷ đồng. Từ đầu năm 2025 đến nay, tổng giá trị tài sản quỹ đã giảm 12%, và NAV giảm 0,6%, giá trị vốn rút ròng ở mức 58 tỷ đồng.
+
+Ước tính ETF sẽ bán ra loạt cổ phiếu ngân hàng như TCB, MBB, STB, VPB, ACB, MSB, EIB và một số cổ phiếu chứng khoán như VND, SSI. Ở chiều ngược lại, quỹ mua vào LPB, SHB, VCB, CTG, OCB, NAB, BID và cổ phiếu chứng khoán như HCM, VCI.
+
+Kết quả rà soát danh mục sổ chỉ số khá sát với dự báo của nhiều công ty chứng khoán đưa ra truóc đó. Mirae Asset dự báo cổ phiếu VRE có khả năng bị loại khỏi rổ VNDiamond do không đáp ứng tiêu chí về (FOL). Ngược lại, cổ phiếu CTD có thể được thêm vào nhờ đáp ứng đầy đủ các điều kiện sàng lọc.
+
+Chứng khoán Mirae Asset dự phóng các quỹ ETF tham chiếu rổ chỉ số VNDiamond có thể bán ra gần 5 triệu cổ phiếu VRE trong kỳ cơ cấu này. Đồng thời các quỹ cũng sẽ bán bớt một số mã như ACB, VRE, VIB, HDB, OCB, CTG, GMD,…
+
+Ở chiều ngược lại, các quỹ ETF tham chiếu rổ chỉ số VNDiamond có thể mua hơn 16 triệu cổ phiếu MWG nhằm gia tăng tỷ trọng. FPT, TPB, HPG, VPB… cũng có thể được “gom” mạnh trong đợt cơ cấu này. Cổ phiếu CTD có thể được mua vào hơn 985 nghìn đơn vị nếu lọt rổ chỉ số.
+
+VnDirect cũng dự báo cổ phiếu CTD có thể sẽ được thêm mới vào rổ chỉ số VNDiamond trong kỳ rà soát này do cổ phiếu CTD đã thỏa mãn đầy đủ các tiêu chí của rổ chỉ số. Trường hợp CTD được thêm mới vào rổ chỉ số, CTD sẽ được áp giới hạn trọng số cổ phiếu lần đầu vào rổ chỉ số (%wS) là 50%.
+
+Dự báo cổ phiếu VRE có thể sẽ chính thức bị loại khỏi rổ chỉ số VNDiamond do VRE không thỏa mãn tiêu chí FOL 2 kỳ liên tiếp, trong kỳ rà soát Q4/24 cổ phiếu VRE đã bị chuyển sang rổ chờ loại do chỉ số FOL của cổ phiếu giảm xuống dưới 65%. FOL là tỷ số của tỷ lệ nhà đầu tư nước ngoài đang lắm giữ và tỷ lệ nhà đầu tư nước ngoài sở hữu tối đa.
+
+Đồng thời cổ phiếu VIB có thể bị chuyển sang rổ chờ loại do hệ số FOL của cổ phiếu VIB đã giảm xuống dưới 65%. VIB cũng sẽ bị áp hệ số giới hạn trọng số cổ phiếu chờ loại ra (%wS) là 50%, và trong kỳ rà soát Q4/25, nếu tỷ lệ FOL của VIB không tăng lên trên mức 65%, thì VIB sẽ chính thức bị loại khỏi rổ chỉ số VN Diamond.

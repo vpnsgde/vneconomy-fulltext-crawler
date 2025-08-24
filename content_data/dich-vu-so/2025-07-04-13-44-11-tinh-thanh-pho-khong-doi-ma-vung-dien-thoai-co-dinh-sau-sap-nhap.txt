@@ -1,0 +1,11 @@
+Ngày 12/6/2025, Quốc hội khóa XV thông qua Nghị quyết 202/2025/QH15 về việc sắp xếp lại đơn vị hành chính cấp tỉnh, giảm từ 63 xuống còn 34 tỉnh, thành phố. Do thay đổi này, Bộ Khoa học và Công nghệ đã ban hành văn bản 2784/BKHCN-CVT hướng dẫn điều chỉnh mã vùng điện thoại cố định từ ngày 01/7/2025.
+
+Theo quyết định mới, 11 tỉnh/thành phố không thay đổi mã vùng điện thoại cố định.
+
+Đối với 23 tỉnh, thành phố mới được sắp xếp từ hai đơn vị hành chính trở lên, tạm thời sẽ sử dụng song song mã vùng điện thoại cố định của các địa phương cũ. Ví dụ, tỉnh Tuyên Quang mới (gộp từ Tuyên Quang và Hà Giang) sẽ dùng cả hai mã vùng 207 và 219 cho đến khi có thông báo mới từ Bộ Khoa học và Công nghệ.
+
+Các thuê bao cố định trong cùng mã vùng được quay số trực tiếp và tính cước nội hạt. Nếu gọi giữa hai mã vùng khác nhau nhưng cùng trong một tỉnh/thành phố mới, vẫn phải quay mã vùng nhưng vẫn tính cước nội hạt. Trường hợp gọi tới tỉnh/thành phố khác, áp dụng quay mã vùng và tính cước liên tỉnh như hiện hành.
+
+Ví dụ, tỉnh Tuyên Quang mới (bao gồm 02 mã vùng 207 và 219), thuê bao cùng mã vùng 207 (hoặc mã vùng 219) được quay số trực tiếp và áp dụng mức cước nội hạt.  Thuê bao thuộc mã vùng 207 (hoặc mã vùng 219) quay mã vùng khi quay số tới thuê bao thuộc mã vùng của tỉnh/thành phố khác (hoặc ngược lại) và áp dụng mức cước liên tỉnh.
+
+Đối với mã vùng điện thoại cố định của các tỉnh/thành phố mới được sắp xếp từ 2 đơn vị hành chính cấp tỉnh cũ trở lên dự kiến sẽ sử dụng mã vùng đang gắn với tên của tỉnh/thành phố mới (ví dụ hai tỉnh Tuyên Quang (mã vùng 207) và Hà Giang (mã vùng 219) được sắp xếp thành tỉnh Tuyên Quang thì mã vùng của tỉnh Tuyên Quang mới sẽ là 207).

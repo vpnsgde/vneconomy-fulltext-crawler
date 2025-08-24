@@ -1,0 +1,51 @@
+Hôm thứ Sáu vừa rồi, Wall Street Journal đưa tin Qualcomm gần đây đã tiếp cận Intel để tìm cách mua lại - một diễn biến gần như chưa từng có tiền lệ trong lịch sử 56 năm của Intel. Vấn đề của Intel đã xuất hiện dưới dạng những trở ngại trong sản xuất trước khi ông Gelsinger trở thành CEO.
+
+Sau đó, câu chuyện trở nên tồi tệ hơn khi vị CEO này theo đuổi một chiến lược cải tổ kinh doanh đầy tốn kém nhưng không lường trước được việc cơn sốt AI sẽ khiến nhu cầu dịch chuyển một cách căn bản sang một loại chip mà Nvidia - đối thủ lớn của Intel - sản xuất.
+
+Ngay cả trong trường hợp Intel cởi mở với lời chào mua của Qualcomm, một thương vụ thành công giữa hai công ty này vẫn là một điều xa vời vì yếu tố pháp lý cũng như các lý do khác. Tuy nhiên, ý tưởng mà ở đó “gã khổng lồ” chip smartphone mua lại Intel là điều gần như không ai có thể nghĩ đến trong thời gian cách đây chưa lâu.
+
+Trong suốt nhiều thập kỷ, Intel giữ vững vị trí hãng sản xuất bán dẫn đắt giá nhất thế giới, và trong khoảng thời gian đó, chip Intel có mặt trong gần như tất cả các sản phẩm máy tính cá nhân (PC) và máy chủ. Trong một ngành công nghiệp nơi sự chuyên môn hóa ngày càng trở thành một thông lệ, hiếm có một công ty nào vừa thiết kế vừa sản xuất chip, trong khi Intel là công ty đi đầu trong cả hai lĩnh vực này.
+
+Nhưng cho tới khi ông Gelsinger trở thành CEO vào đầu năm 2021, Intel đã để mất một phần ưu thế, bị tụt lại phía sau các đối thủ châu Á trong cuộc đua sản xuất những loại chip nhanh nhất với bóng bán dẫn (transitor) nhỏ nhất.
+
+Ông Gelsinger - người đã có hàng thập kỷ làm việc tại Intel và là người đầu tiên giữ cương vị Giám đốc kỹ thuật của hãng - có kế hoạch giành lại ánh hào quang mà hãng đã có dưới thời những người tiền nhiệm như Andy Grove và Paul Otellini.
+
+Để làm được việc đó, Intel sẽ phải đuổi kịp các đối thủ châu Á như TSMC của Đài Loan hay Samsung Electronics của Hàn Quốc. Ông Gelsinger cũng dự định đầu tư mạnh tay để mở rộng hoạt động sản xuất của Intel, và bán lại năng lực sản xuất đó cho những công ty chỉ thiết kế chip như Qualcomm - đồng nghĩa xâm nhập vào lĩnh vực gia công chip mà TSMC và Samsung đang thống lĩnh.
+
+Đó là một sự đặt cược táo bạo và tốn kém, nhưng dường như Intel có đủ các yếu tố để thành công: một mảng kinh doanh cốt lõi là sản xuất chip cho PC và máy chủ, cùng với nhiều mảng kinh doanh vệ tinh có thể giúp mang lại dòng tiền cho giai đoạn tăng trưởng tiếp theo.
+
+Ông Gelsinger nhanh chóng tìm cách sử dụng nguồn lực tài chính của Intel để xây dựng mảng gia công chip theo hợp đồng, tham gia các cuộc đàm phán để mua lại công ty GlobalFoundries với giá khoảng 30 tỷ USD ngay trong mùa hè sau khi ông tiếp quản vị trí CEO.
+
+Thương vụ đó không thành công, nhưng trong một cuộc trả lời phỏng vấn vào tháng 8/2021, ông Gelsinger nói Intel vẫn có ý định thâu tóm. “Sẽ có sự hợp nhất diễn ra trong ngành. Xu hướng đó sẽ tiếp tục và tôi kỳ vọng chúng tôi sẽ là một công ty đi đến hợp nhất”, ông nói vơi Wall Street Journal khi đó.
+
+Không lâu sau, Intel đạt thỏa thuận mua lại một công ty sản xuất chip hợp đồng khác là Tower Semiconductor với giá hơn 5 tỷ USD, nhưng thương vụ này đã bị hủy vào năm ngoái do không nhận được sự phê chuẩn của cơ quan chức năng Trung Quốc.
+
+Mục tiêu của ông Gelsinger là đưa Intel trở thành nhà sản xuất chip theo hợp đồng lớn thứ hai thế giới vào năm 2030, nhưng kế hoạch này đã có một sự khởi động chậm chạp.
+
+Trong khi chi phí ở Intel gia tăng, công nghệ AI tạo sinh bắt đầu cất cánh. Sự phát triển bùng nổ này khiến nhu cầu chip dịch chuyển khỏi các sản phẩm bộ vi xử lý trung tâm của Intel sang “bộ vi xử lý đồ họa” (GPU) của Nvidia.
+
+Loại chip này của Nvidia có thiết kế khác biệt, phù hợp hơn cho việc tạo ra và triển khai những hệ thống AI tinh vi nhất. Giữa lúc các công ty công nghệ nài nỉ để mua được những con chip AI khan hiếm của Nvidia, nhiều loại chip của Intel trở nên ế ẩm.
+
+Trong bối cảnh đó, ông Gelsinger buộc phải cắt giảm chi phí để bảo toàn nỗ lực cải tổ công ty. Intel tiến hành sa thải hàng nghìn nhân viên bắt đầu vào năm 2022 và cắt giảm cổ tức vào năm ngoái. Nhưng những biện pháp đó là chưa đủ. Vào tháng trước, ông Gelsinger tuyên bố sẽ sa thải 15.000 nhân viên, cắt giảm chi phí 10 tỷ USD vào năm 2025 và tạm dừng việc trả cổ tức.
+
+“Làn sóng AI khắc nghiệt hơn so với những gì tôi kỳ vọng”, ông Gelsinger nói khi đó, và nhấn mạnh rằng những biện pháp cắt giảm này “là điều khó khăn nhất tôi từng phải làm trong sự nghiệp của mình”.
+
+Trong tuần qua, Intel đã công bố những động thái mới, bao gồm tăng cường kiểm soát chi tiêu và tiếp tục tách riêng hoạt động thiết kế và sản xuất chip. Tuy vậy, ông Gelsinger không đề cập tới việc bán bớt hay tách rời mảng sản xuất chip thành một công ty con theo lời kêu gọi của một số nhà đầu tư.
+
+“Chúng ta cần chiến đấu đến cùng và điều hành tốt hơn so với trước đây. Bởi đó là cách duy nhất để khiến các nhà phê bình phải im lặng và mang lại những kết quả mà chúng ta biết mình có khả năng đạt được”, vị CEO nói với nhân viên.
+
+Giới phân tích cho rằng triển vọng để Intel đạt được một bước ngoặt tích cực là thấp nhưng vẫn có. Cắt giảm chi phí có thể giúp hãng vượt qua giai đoạn chật vật hiện nay, dù giá cổ phiếu suy giảm đã khiến hãng dễ trở thành mục tiêu của các kế hoạch thâu tóm.
+
+Tính đến khi đóng cửa phiên giao dịch vào ngày thứ Năm tuần trước, giá cổ phiếu Intel đã giảm gần 70% so với thời điểm đầu năm 2020 - khi cổ phiếu này đạt mức giá cao nhất kể từ khi vỡ bong bóng dot.com. Trong cùng khoảng thời gian, giá cổ phiếu Nvidia tăng 18 lần.
+
+Phiên ngày thứ Sáu vừa rồi, cổ phiếu Intel tăng 3,3% sau khi có tin Qualcomm có ý định mua lại Intel.
+
+Nhà phân tích Stacy Rasgon của công ty Bernstein Research nhận định tương lai của Intel tùy thuộc vào thành công hay thất bại của công nghệ sản xuất loại chip thế hệ mới dự kiến đi vào sản xuất trong năm 2025, cũng như hy vọng của Intel về việc hãng sẽ vượt lên được các đối thủ, ít nhất về mặt công nghệ. Việc quay trở lại vị thế đi đầu về công nghệ có thể giúp cải thiện biên lợi nhuận và mang lại niềm tin cho khác hàng.
+
+Dù vậy, Intel có một vấn đề cốt lõi không dễ được giải quyết: mảng hoạt động chính của hãng là con chip được dự báo sẽ không phục hồi nhanh chóng trong bối cảnh ngành công nghệ tiếp tục đầu tư mạnh vào chip AI. “Chúng ta không thể nói chiến lược của Intel là đúng hay sai, nhưng vấn đề nằm ở chỗ mảng kinh doanh chính của hãng không hợp với lối đi bây giờ”, bà Stacy nói.
+
+Đối với Qualcomm, việc mua lại Intel của thể giúp hãng nhảy vào những lĩnh vực mới trong ngành công nghiệp chip. Qualcomm chuyên về chip điện thoại di động, là một nhà cung cấp chip cho điện thoại iPhone của Apple cùng nhiều thiết bị khác. Những năm gần đây, hãng cũng xây dựng một danh mục chip dành cho ô tô và Internet vạn vật (IoT). Nếu mua lại được Intel, Qualcomm sẽ sở hữu thêm một danh mục lớn các loại chip dành cho PC và máy chủ.
+
+Tuy vậy, chưa rõ liệu Qualcomm có ý định giữ lại mảng sản xuất chip của Qualcomm trong trường hợp hai bên đạt thỏa thuận. Mảng hoạt động đó khiến cho Intel rất khác so với Qualcomm - công ty hoàn toàn thuê ngoài việc sản xuất chip.
+
+Hoạt động sản xuất con chip là rất phức tạp và tốn kém. Intel đã rót 25,8 tỷ USD vốn đầu tư cơ bản trong năm ngoái, tương đương 48% doanh thu của hãng. Đầu tư cơ bản của Qualcomm trong tài khóa trước chỉ là 1,5 tỷ USD, tương đương 4% doanh thu.

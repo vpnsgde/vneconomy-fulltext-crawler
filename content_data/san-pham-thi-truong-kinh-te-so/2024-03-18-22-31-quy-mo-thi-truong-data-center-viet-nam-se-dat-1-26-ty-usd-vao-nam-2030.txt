@@ -1,0 +1,29 @@
+Hội nghị Data Center & Cloud Infrastructure Summit (DCCI Summit) diễn ra ngày 18/3/2024 tại Hà Nội với chủ đề “Phát triển tương lai số bền vững”.
+
+Theo báo cáo nghiên cứu được công bố tại hội nghị, tổng dung lượng thị trường lĩnh vực Data Center đạt khoảng 321 tỷ USD năm 2024, với tốc độ tăng trưởng trung bình khoảng 7,3%,
+
+Ông Hoàng Văn Ngọc, Giám đốc Viettel IDC, cho biết châu Á- Thái Bình Dường là một khu vực năng động với tỷ trọng đóng góp vào tốc độ tăng trưởng khoảng 19%. Đây là một trong những khu vực có tốc độ tăng trưởng cao nhất trên thế giới. Sự phát triển này diễn ra đồng đều ở cả thị trường sơ cấp và thứ cấp.
+
+Trong đó, thị trường sơ cấp chính là các thành phố ở các nước đang phát triển như Hàn Quốc, Nhật Bản, Úc, Singapore. Còn thị trường thứ cấp như Việt Nam, Philippines, Indonesia, Malaysia, Thái Lan.
+
+Tuy nhiên, những năm gần đây đã chứng kiến xu hướng sự chuyển dịch nhất định từ thị trường sơ cấp sang thị trường thứ cấp.
+
+Ông Ngọc dự báo những năm tới, thị trường Việt Nam, Philippines, Indonesia, Malaysia, Thái Lan sẽ có sự bùng nổ về Data Center.
+
+Trong đó, Việt Nam luôn là một thị trường tiềm năng và đi sau các nước. Thực tế nếu xét về quy mô, hiện nay, Việt Nam chỉ bằng 1/15 so với Singapore, 1/5 của Malaysia và Indonesia. Xét trong 3 năm gần nhất (từ năm 2020-2022), thị trường Data Center ở Indonesia và Malaysia tăng khoảng 6 lần nhưng Việt Nam chỉ tăng 1,5 lần. Điều này có nghĩa, so với các nước trong khu vực này, mặc dù có cơ hội tiềm năng và động lực thị trường nhưng Việt Nam đang có tốc độ tăng trưởng chậm.
+
+Theo đại diện của Viettel IDC, Việt Nam có nhiều động lực thúc đẩy phát triển thị trường như: nguồn nhân lực giá rẻ, lực lượng lao động công nghệ thông tin đông đảo, chi phí xây dựng rẻ hơn các nước, có hành lang pháp lý và sự hỗ trợ thúc đẩy chương trình chuyển đổi số của Chính phủ…
+
+Nghiên cứu dự báo, thị trường DC Việt Nam đến năm 2030 sẽ giữ tốc độ tăng trưởng 2 con số (khoảng 11-12%). Trong đó có 4 nhà cung cấp lớn trong nước (Viettel, VNPT, FPT, CMC) chiếm tỷ trọng lớn, khoảng 97% thị trường. Dự báo quy mô Trung tâm dữ liệu thị trường Việt Nam đến 2030 đạt 1.266 triệu USD, tốc độ tăng trưởng kép bình quân 10,8%.
+
+Riêng thị trường điện toán đám mây Cloud, xét về quy mô, thị trường Việt Nam chỉ bằng 58% của Philippines, 50% của Indonesia nhưng lại có tốc độ tăng trưởng lớn nhất khu vực Đông Nam Á, đứng thứ 3 châu Á. Dự báo tốc độ tăng trưởng thị trường Cloud của Việt Nam trong 5-10 năm tới sẽ ở mức 19-20%.
+
+Thị trường đám mây Châu Á- Thái Bình Dương được dự báo có tỷ lệ tăng trưởng lớn nhất cho tới năm 2030 nhờ quá trình công nghiệp hóa diễn ra nhanh chóng và mạnh mẽ, các sáng kiến và hỗ trợ của chính phủ, nhận thức rõ ràng về chuyển đổi số trong doanh nghiệp, các khoản đầu tư ngày càng tăng cho cơ sở hạ tầng công nghệ thông tin, sự chuyển dịch công nghiệp vào các thị trường mới nổi nằm trong khu vực, sự tập trung và tăng trưởng các ngành công nghệ thông tin.
+
+Tại thị trường Việt Nam, dự báo quy mô dịch vụ điện toán đám mây đạt hơn 1.200 triệu USD vào năm 2030, với tốc độ tăng trưởng gần 11%.
+
+Hội nghị lần thứ 3 về DCCI Summit được chia thành 3 phiên chuyên đề gồm: Trung tâm dữ liệu, Cloud Room (Điện toán đám mây) và AI Room (Trí tuệ nhân tạo). Tại phiên Trung tâm dữ liệu, bên cạnh những thông tin về thị trường, xu hướng xây dựng và vận hành trung tâm dữ liệu trên thế giới, các chuyên gia đã chia sẻ giải pháp cho rack mật độ công suất cao phục vụ nhu cầu hạ tầng ứng dụng AI, những thách thức khi đưa trung tâm dữ liệu của Việt Nam ngang tầm thế giới, đáp ứng các yêu cầu về tiêu chuẩn quốc tế và tính bền vững.
+
+Các chuyên gia cũng tập trung trao đổi các nội dung về việc triển khai điện toán đám mây vào những lĩnh vực thức tế: Điện toán biên ứng dụng rộng rãi ở nhiều lĩnh vực (tài chính ngân hàng, sản xuất, y tế, bán lẻ, thương mại điện tử,...); Nền tảng quản trị dữ liệu tự động trên đám mây lai; Đa đám mây và đám mây lai; Cloud FinOps; Chủ quyền dữ liệu và bảo vệ dữ liệu; Sử dụng công nghệ AI trong phân tích hành vi và tự động hóa quy trình.
+
+Các hãng công nghệ có tên tuổi trên thế giới và Việt Nam như: Qualcomm, Radware, Viettel AI cũng bàn về trí tuệ nhân tạo và các ứng dụng thực tiễn, phương án triển khai tối ưu tại Việt Nam; AI trong tấn công và phòng thủ an toàn thông tin; Ứng dụng AI trong chiến lược marketing và bán hàng, cho đến cơ sở hạ tầng AI hiệu suất cao và tiết kiệm chi phí- chìa khóa cho sự phát triển trong kỷ nguyên AI.

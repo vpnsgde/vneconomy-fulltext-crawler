@@ -1,0 +1,21 @@
+Cổ phiếu hãng phần mềm Oracle vừa có tuần tăng mạnh nhất kể từ năm 2001, nhờ đó khối tài sản ròng của nhà sáng lập hãng, Chủ tịch Larry Ellison, tăng mạnh theo. Hôm thứ Sáu vừa rồi, có lúc ông Ellison vượt qua nhà sáng lập Jeff Bezos của “đế chế” thương mại điện tử Amazon để trở thành người giàu thứ hai trên thế giới.
+
+Dữ liệu từ xếp hạng tỷ phú theo thời gian thực của tạp chí Forbes cho thấy tài sản ròng của ông Ellison có lúc đạt 208,4 tỷ USD sau khi thị trường chứng khoán Mỹ mở cửa, đưa ông lên vị trí thứ hai. Sau đó, khi mức tăng giá cổ phiếu của Oracle thu hẹp, giá trị tài sản của ông Ellison giảm về mức gần 198 tỷ USD vào cuối ngày và ông quay trở lại vị trí thứ ba trong xếp hạng.
+
+Ông Bezos, người đã liên trồi sụt ở vị trí giàu thứ hai thế giới trong những năm gần đây, có hơn 204 tỷ USD tài sản ròng sau khi thị trường chốt phiên giao dịch ngày thứ Sáu. Người giàu nhất là CEO Elon Musk của hãng xe điện Tesla, với khối tài sản gần 253 tỷ USD - theo Forbes.
+
+Trong khi đó, theo một xếp hạng tỷ phú khác là Bloomberg Billionaires Index, ông Ellison hiện đang là người giàu thứ 5 thế giới, sở hữu khối tài sản 174 tỷ USD. Ở vị trí này, ông Ellison đứng sau các tỷ phú Ellon Musk (251 tỷ USD), Jeff Bezos (209 tỷ USD), Mark Zuckerberg (186 tỷ USD), và Bernard Arnault (180 tỷ USD).
+
+Cổ phiếu Oracle chốt phiên giao dịch ngày thứ Sáu với mức tăng nhẹ, đạt 162,03 USD/cổ phiếu. Nhà đầu tư hưng phấn sau khi hãng tăng dự báo doanh thu của năm tài khóa 2026 và đưa ra triển vọng khả quan về tình hình kinh doanh cho tới năm 2029. Những dự báo lạc quan này được Oracle công bố tại hội nghị thường niên CloudWorld của hãng, một sự kiện thường niên tại Las Vegas.
+
+Hôm thứ Ba, cổ phiếu Oracle tăng 11% sau khi hãng đưa ra kết quả kinh doanh quý 2 vượt xa kỳ vọng. Cổ phiếu Oracle đã liên tục lập kỷ lục và hiện tăng khoảng 54% kể từ đầu năm đến nay. Trong số các cổ phiếu công nghệ vốn hóa lớn niêm yết tại Mỹ, cổ phiếu Oracle chỉ thua cổ phiếu hãng chip Nvidia về tốc độ tăng trong năm nay. Tính từ đầu năm, cổ phiếu Nvidia đã tăng 141%.
+
+Ông Ellison, người đồng sáng lập Oracle vào năm 1977, là người hưởng lợi nhiều nhất từ sự tăng giá cổ phiếu này. Ông sở hữu khoảng 40% cổ phiếu Oracle đang lưu hành và giữ vị trí cổ đông lớn nhất của hãng. Công ty này đã “hồi sinh” mạnh mẽ trong những năm gần đây nhờ vị thế gia tăng trong lĩnh vực hạ tầng đám mây và việc cơ sở dữ liệu đám mây của công ty được nhiều khách hàng lựa chọn.
+
+Cuộc cạnh tranh ngôi vị giàu thứ hai thế giới giữa ông Bezos, 60 tuổi, và ông Ellison, 80 tuổi, diễn ra chỉ 3 ngày sau khi công ty của hai vị tỷ phú thiết lập quan hệ đối tác mới. Hôm thứ Hai, Oracle cho biết khách hàng dùng dịch vụ đám mây AWS trong các trung tâm dữ liệu của Amazon sẽ được sử dụng phần mềm cơ sở dữ liệu của Oracle trên phần cứng Oracle.
+
+Trong những năm gần đây, Oracle cũng thiết lập quan hệ đối tác tương tự với Microsoft và Goolge - hai công ty hạ tầng đám mây hàng đầu khác. Trong một cuộc điện đàm với các nhà phân tích khi Oracle công bố kết quả kinh doanh trong tuần vừa rồi, ông Ellison nói rằng hãng đang ở vị thế cao nhất trong lĩnh vực đám mây và trung tâm dữ liệu truyền thống.
+
+“Việc cơ sở dữ liệu Oracle có thể vận thành trên AWS, Microsoft và Google là cực kỳ quan trọng”, ông Ellison nhấn mạnh trong cuộc điện đàm.
+
+“Điều này sẽ đẩy mạnh tốc độ tăng trưởng cơ sở dữ liệu trên đám mây công cộng. Nhưng chúng tôi cho rằng các đám mây tư nhân sẽ vượt các đám mây công cộng về số lượng vì các công ty thấy là họ không muốn dùng đám mây công cộng. Họ muốn đám mây Oracle ở phía sau tường lửa của họ, trong trung tâm dữ liệu của họ, mà không có một láng giềng nào khác”.

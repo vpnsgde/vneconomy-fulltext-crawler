@@ -1,0 +1,27 @@
+Một nghiên cứu năm 2021 trên tạp chí Nature đã đánh giá tác động đối với môi trường của Thế vận hội trong thời gian diễn ra. Ví dụ, Thế vận hội Rio de Janeiro 2016 đã gây tổn hại đến môi trường địa phương của thành phố khi ước tính có khoảng 77.000 người trong các cộng đồng khu ổ chuột phải di dời để nhường chỗ cho cơ sở hạ tầng của sự kiện.
+
+Từ quan điểm môi trường, Thế vận hội Rio de Janeiro đã tạo ra hơn 17.000 tấn chất thải, sử dụng 29.500 GW điện - phần lớn trong số đó không phải từ các nguồn tái tạo và gây ra 3,6 triệu tấn khí thải carbon.
+
+Đối với Thế vận hội Paris, việc hạn chế tác động đến môi trường là mối quan tâm lớn hơn so với các Thế vận hội trước đây với nỗ lực giảm thiểu chất thải của các ngành công nghiệp. Thay vì xây dựng một loạt địa điểm mới, những địa điểm hiện có đã được tái sử dụng.
+
+Chỉ có một địa điểm cố định mới được xây dựng và đồ nội thất cũng được thuê nhiều hơn là mua để giảm thiểu rác thải. Đáng chú ý, các sáng kiến ​​bền vững cũng mở rộng sang công nghệ 5G cung cấp năng lượng cho Thế vận hội Olympic.
+
+Orange, nhà cung cấp dịch vụ viễn thông cho Thế vận hội Paris, đã đặt mục tiêu hạn chế lượng khí thải carbon ở mức 10.000 tấn carbon dioxide. Nếu đáp ứng được, lượng khí thải carbon của Orange sẽ chiếm chưa đến 1% tổng lượng khí thải ước tính của Thế vận hội 2024. Đây là ví dụ mới nhất về cách các nhà cung cấp 5G đang hỗ trợ các nỗ lực bền vững tại các sự kiện trực tiếp quy mô toàn cầu.
+
+Các sáng kiến ​​​​bền vững xung quanh các địa điểm công cộng lớn đang ngày càng được chú ý. Kevin Swank, Giám đốc tiếp thị sản phẩm tại CommScope - chuyên cung cấp dịch vụ tại các sân vận động thể thao ở Pháp, Đức và Mỹ cho biết công nghệ thân thiện với môi trường có thể hỗ trợ nhiều hơn cho người hâm mộ.
+
+Mặc dù hệ thống 5G yêu cầu lắp đặt cơ sở hạ tầng nhưng công nghệ bền vững hơn các hệ thống kết nối cũ hơn, ví dụ như truyền hình analog với chiếc ăng ten dài huyền thoại.
+
+Swank nói rằng hệ thống 5G kỹ thuật số sử dụng ít năng lượng hơn và ít cần làm mát hơn so với các hệ thống khác vốn cần lượng điện năng lớn và hệ thống cáp để chạy. Và bởi vì hệ thống 5G chạy kỹ thuật số nên chúng không yêu cầu nhiều cơ sở hạ tầng vật lý như các hệ thống tiền nhiệm, Swank nói thêm.
+
+Swank đã chứng kiến ​​tác động tích cực đối với môi trường và trải nghiệm của người hâm mộ khi CommScope cập nhật cơ sở hạ tầng Internet tại Sân vận động AT&T ở Arlington, Texas vào năm 2020.
+
+“Địa điểm này đã đạt đến giới hạn hiệu suất của thiết bị và mạng lưới hiện tại của nó không thể đáp ứng nhu cầu ngày càng tăng của lượng người hâm mộ tập trung vào thiết bị di động”. Sân vận động cần mạng 5G có thể hỗ trợ các tính năng và yêu cầu từ các thiết bị di động để có thể phục vụ cho tối đa 100.000 khách tham quan cùng một lúc.
+
+Báo cáo dự án từ CommScope cho biết, bằng cách chuyển sang 5G, hiệu suất mạng của sân vận động tăng gấp 10 lần, trong khi mức tiêu thụ điện năng giảm khoảng 87% và yêu cầu làm mát giảm tới 75%. Swank cho biết, mức giảm này tương đương với việc tiết kiệm hơn 100 tấn khí thải CO2 mỗi năm.
+
+Hệ thống 5G của sân vận động chỉ có 5 giá lưu trữ thiết bị so với 30 đến 40 giá mà trước đây yêu cầu cho thiết bị analog của sân vận động. Vì những lợi thế này, 5G nhanh chóng tạo được tiếng vang trong ngành giải trí khi các sự kiện tiếp tục phát triển về quy mô và người tham dự mong đợi những trải nghiệm liền mạch hơn.
+
+Để hướng tới mục tiêu phát thải carbon cho Thế vận hội Paris, Orange đã giảm hoạt động sản xuất thiết bị và triển khai cơ sở hạ tầng. Công ty đang sử dụng nhiều nhà cung cấp địa phương hơn và vận chuyển các mặt hàng cồng kềnh bằng đường biển thay vì đường hàng không để giảm lượng khí thải. Orange cho biết họ có kế hoạch thuê 1/4 số thiết bị của mình và ước tính 75% số thiết bị này sẽ được tái sử dụng hoặc dành cho Thế vận hội tiếp theo.
+
+Kelvin Chaffer, Giám đốc điều hành của Lifecycle Software, công ty cung cấp hệ thống hỗ trợ cho các nhà khai thác mạng cho biết, nhìn chung mạng 5G được sử dụng tại các sự kiện lớn của địa điểm thể thao có thể được sử dụng lại sau khi sự kiện kết thúc và không cần tăng công suất nữa.

@@ -1,0 +1,23 @@
+Triển khai Đề án 06 của Chính phủ, Bảo hiểm xã hội Việt Nam cho biết đã phối hợp, hỗ trợ Bộ Y tế liên thông dữ liệu khám sức khỏe lái xe, giấy chứng sinh, giấy báo tử.
+
+Tính đến thời điểm tháng 9/2024, trên toàn quốc có 1.299 cơ sở khám chữa bệnh đã gửi dữ liệu giấy khám sức khỏe lái xe, với hơn 4,18 triệu dữ liệu được gửi; có 1.807 cơ sở khám chữa bệnh gửi dữ liệu giấy chứng sinh, với trên 1,63 triệu dữ liệu được gửi; 722 cơ sở khám chữa bệnh gửi dữ liệu giấy báo tử, với 19.817 dữ liệu được gửi.
+
+Việc liên thông giấy khám sức khỏe lái xe qua hạ tầng của Bảo hiểm xã hội Việt Nam giúp người dân có thể đề nghị cấp lại, cấp đổi giấy phép lái xe hoàn toàn trực tuyến. Trước đây, người dân buộc phải đến nơi cấp giấy phép lái xe để nộp bản giấy của giấy khám sức khỏe lái xe.
+
+Bên cạnh đó, việc liên thông giấy chứng sinh, giấy báo tử qua hạ tầng của Bảo hiểm xã hội đã tạo ra tiện ích rất quan trọng, là đầu vào giúp người dân có thể thực hiện dịch vụ công trực tuyến toàn trình đối với 2 nhóm thủ tục hành chính liên thông.
+
+Đó là, thủ tục Đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi; Đăng ký khai tử - xóa đăng ký thường trú - hỗ trợ chi phí mai táng, trợ cấp mai táng.
+
+Trước đây, người dân buộc phải đến Ủy ban nhân dân xã, phường để nộp bản giấy của giấy chứng sinh, giấy báo tử khi làm thủ tục đăng ký khai sinh, đăng ký khai tử.
+
+Đối với việc triển khai sổ sức khỏe điện tử, hiện Bảo hiểm xã hội Việt Nam cũng đang phối hợp với Bộ Công an triển khai theo phương án kỹ thuật thử nghiệm với Bệnh viện Xanh Pôn, Bệnh viện Đức Giang, và một số cơ sở khám chữa bệnh bảo hiểm y tế khác do Sở Y tế Hà Nội quản lý như: Đống Đa, Thanh Nhàn, Đông Anh, Sóc Sơn, Hoè Nhai, Mê Linh, Hà Đông…
+
+Hiện đã nâng cấp, điều chỉnh Cổng tiếp nhận dữ liệu để đáp ứng việc tiếp nhận bổ sung thêm 5 trường thông tin bao gồm: nhóm máu; chiều cao; lý do đến khám; tóm tắt phương pháp điều trị, hướng điều trị tiếp theo; ghi chú.
+
+Đồng thời, điều chỉnh phần mềm để tiếp nhận dữ liệu từ các cơ sở khám chữa bệnh có ký hợp đồng khám chữa bệnh bảo hiểm y tế với cơ quan Bảo hiểm xã hội.
+
+Đến nay, trên địa bàn TP. Hà Nội đã có 404 cơ sở y tế với hơn 4,3 triệu hồ sơ được được gửi lên Hệ thống của Bảo hiểm xã hội Việt Nam.
+
+Liên quan đến việc kết nối, chia sẻ dữ liệu và sử dụng thẻ căn cước công dân gắn chíp, ứng dụng định danh điện tử quốc gia thay thế thẻ bảo hiểm y tế giấy để khám chữa bệnh, hệ thống của Bảo hiểm xã hội Việt Nam đã xác thực trên 98,5 triệu thông tin nhân khẩu có trong cơ sở dữ liệu quốc gia về bảo hiểm, với cơ sở dữ liệu quốc gia về dân cư.
+
+Hiện 100% cơ sở khám chữa bệnh bảo hiểm y tế đã triển khai khám chữa bệnh bằng căn cước công dân gắn chíp, với trên 119 triệu lượt tra cứu thành công thông tin thẻ bảo hiểm y tế bằng số định danh cá nhân/căn cước công dân thành công phục vụ làm thủ tục khám chữa bệnh bảo hiểm y tế.

@@ -1,0 +1,31 @@
+Công nghệ AI đã giúp đẩy nhanh quá trình tìm ra loại thuốc mới, rút ngắn thời gian thử nghiệm và nghiên cứu. Các nghiên cứu tại Tây Ban Nha cho thấy, loài chuột thực sự đã sống lâu hơn khi các tế bào lão hóa của chúng bị tiêu diệt. Nhưng với con người thì sao? Chưa có kết luận cụ thể nào, nhưng một điều chắc chắn, là dù ai nắm được công nghệ cải lão hoàn đồng này, cũng như nắm được kho báu trong tay.
+
+Bằng chứng là các tỷ phú công nghệ đang ngày càng tỏ ra quan tâm với lĩnh vực chống lão hóa. Mới đây, Giám đốc điều hành OpenAI, Sam Altman, đã đầu tư 180 triệu USD vào Retro Bioscatics, một công ty có sứ mệnh "kéo dài thêm 10 năm tuổi thọ khỏe mạnh cho con người". Người đồng sáng lập Oracle, Larry Ellison, đã quyên góp hàng triệu USD cho nghiên cứu chống lão hóa kể từ năm 1997. Jeff Bezos, nhà sáng lập Amazon hay tập đoàn Google cũng nằm trong danh sách các nhà tài trợ tỷ đô cho các dự án tìm thuốc trường sinh - chống lão hóa.
+
+Theo SciTech Daily, nhóm nghiên cứu dẫn đầu bởi GS Seogang Hyun từ Đại học Chung-Ang (Hàn Quốc) mới đây đã phát triển một loại thuốc có tác dụng làm chậm sự lão hóa và giảm thiểu tác động của lão hóa lên cơ thể con người, từ đó giúp kéo dài tuổi thọ. Loại thuốc đó được đặt tên là IU1, có thể ngăn ngừa sự gián đoạn của cơ chế gọi là "proteostasis".
+
+Theo bài công bố trên tạp chí khoa học Autophagy, mặc dù lão hóa dẫn đến sự suy giảm dần dần của tất cả các hệ thống trong cơ thể, nhưng một trong những yếu tố chính góp phần là sự gián đoạn của các hệ thống cân bằng protein, còn được gọi là "proteostasis". Proteostasis là quá trình mà cơ thể tự kiểm tra, phát hiện các protein bị hư hỏng hoặc gấp sai và phá vỡ chúng. Điều này giúp ngăn chặn việc tồn đọng các protein lỗi, điều sẽ gây căng thẳng cho tế bào.
+
+Khi chúng ta già đi, các hệ thống kiểm soát chất lượng protein này hoạt động kém hiệu quả hơn, các protein lỗi tích tụ, tạo điều kiện cho nhiều bệnh thoái hóa liên quan đến tuổi tác và các tình trạng mạn tính. Do vậy, ngăn ngừa sự gián đoạn của các hệ thống proteostasis là chìa khóa để tăng tuổi thọ và cải thiện chất lượng cuộc sống ở người lớn tuổi.
+
+Nhóm của GS Hyun đã nhắm vào 2 hệ thống proteostasis gọi là proteasome và autophagy và tìm ra một hợp chất thú vị có thể giúp 2 hệ thống này duy trì hoạt động hiệu quả ở người cao tuổi. Từ đó, họ điều chế ra loại thuốc mang tên IU1. Nhóm nghiên cứu đã thử nghiệm loại thuốc kéo dài tuổi thọ mới này lên ruồi giấm và tế bào người. Cả hai thử nghiệm đều thành công.
+
+Trước đó, hồi tháng 4, công ty dược phẩm sinh học Rubedo Life Sciences có trụ sở tại California (Mỹ) đã thông báo rằng nhờ khoản tài trợ 40 triệu đô la Mỹ, công ty có thể bắt đầu thử nghiệm trên người loại thuốc RLS-1469, được thiết kế để nhắm vào các tế bào lão hóa gây ra bệnh liên quan đến tuổi tác.
+
+"Khi mọi người sống lâu hơn, việc cải thiện chất lượng cuộc sống là tối quan trọng", Alex Morgan, đối tác tại Khosla Ventures, người đã đóng góp để tài trợ cho vòng gọi vốn đầu tư mạo hiểm đầu tiên của Rubedo, cho biết. "Rubedo đang nhắm vào các tế bào lão hóa hoặc già đi, gây ra bệnh liên quan đến tuổi tác. Thử nghiệm đầu tiên này có thể đưa chúng ta tiến thêm một bước nữa đến mục tiêu đạt được tuổi thọ khỏe mạnh hơn".
+
+Các tế bào lão hóa già đi và ngừng phân chia vĩnh viễn, nhưng chúng không chết. Theo thời gian, chúng tích tụ trong các mô và giải phóng một lượng lớn hóa chất gây viêm và chất điều hòa miễn dịch góp phần gây lão hóa. Nền tảng khám phá thuốc tăng cường AI độc quyền của Rubedo, Alembic, xác định các mục tiêu có thể dùng thuốc cụ thể để phát triển thành liệu pháp điều trị bệnh.
+
+Tương tự, tờ South China Morning Post hồi tháng 5 cũng đưa tin, các nhà khoa học vừa cô lập được một thành phần chống lão hóa trong máu chuột non, giúp chúng sống lâu đến 1.266 ngày, tương đương 120 - 130 năm tuổi ở người. Các nhà nghiên cứu cho biết phát hiện của họ có thể mang lại hy vọng trong cuộc chiến của con người chống lại các bệnh liên quan tuổi tác và cải thiện sức khỏe suốt đời.
+
+Theo nghiên cứu đăng trên chuyên san Nature Ageing, chuột đực 20 tháng tuổi với vòng đời trung bình 840 ngày được tiêm thành phần máu trên vào hằng tuần. Kết quả cho thấy tuổi thọ của chúng tăng 22,7% lên 1.031 ngày. Ông Trương Chấn Vũ, đồng dẫn đầu nghiên cứu, cùng các đồng nghiệp tại Trường Khoa học Đời sống thuộc Đại học Nam Kinh (Trung Quốc) cho biết việc tiêm thuốc cũng cải thiện sự suy giảm chức năng liên quan tuổi tác ở chuột già, bao gồm cả hồi hải mã, cơ, tim, tinh hoàn và xương.
+
+Có thể nói, sự phát triển của công nghệ và tiến bộ của y học đang đến khiến cuộc đua tìm phương thuốc kéo dài tuổi thọ trở nên vô cùng sôi động. Thậm chí đã có tuyên bố rằng, nghiên cứu chống lão hóa vào năm 2023 có thể "khởi động cuộc cách mạng vĩ đại nhất trong y học kể từ khi phát hiện ra thuốc kháng sinh".
+
+Dẫu vậy, không thể không kể đến tác dụng phụ của những phương thuốc kéo dài tuổi thọ này một khi nó thực sự được điều chế. Khi khoa học chống lão hóa tiến gần hơn đến thị trường, cũng sẽ có những câu hỏi lớn liên quan đến đạo đức, về cách phân phối các phương pháp điều trị công bằng.
+
+Chính vì vậy, Hevolution Foundation, một tổ chức phi lợi nhuận chuyên nghiên cứu về tuổi thọ được hỗ trợ bởi hoàng gia Saudi Arabia đã cam kết tầm nhìn của tổ chức này là kéo dài tuổi thọ khỏe mạnh vì lợi ích của toàn nhân loại. Bởi, nếu đây là phương pháp điều trị trị giá hàng tỷ USD cho một số ít người, thì điều đó chẳng có ích lợi gì.
+
+Bên cạnh đó là câu hỏi về tính bền vững của môi trường. Khi sử dụng phương thuốc kéo dài tuổi thọ, con người có thể sống lâu hơn, nhưng môi trường lại chịu thêm áp lực. Mỗi năm lượng khí carbon thải ra môi trường một nhiều thêm, tài nguyên bị sử dụng nhiều hơn.
+
+Đến thời điểm hiện tại, chưa có phương thuốc nào được chứng thực là có thể đảo ngược quá trình lão hóa. Tất cả đều đang trong quá trình nghiên cứu và trong quá trình ấy, đã có nhiều người nhận ra nếu chỉ lệ thuộc vào một phương pháp là không hiệu quả. Như triệu phú 45 tuổi Bryan Johnson - người mong muốn trở về tuổi 18 - đã nhận ra mình không thu được lợi ích gì từ 6 lần truyền huyết tương của những người trẻ tuổi, trong đó có 1 lần từ con trai mình.

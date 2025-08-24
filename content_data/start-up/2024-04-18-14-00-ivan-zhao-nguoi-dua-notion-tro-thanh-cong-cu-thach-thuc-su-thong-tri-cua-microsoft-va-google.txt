@@ -1,0 +1,33 @@
+Năm 2013, ý tưởngkhởi nghiệpđộc đáo của Ivan Zhao đã giúp ông huy động thành công 2 triệu USD trong vòng hạt giống từ Josh Kopelman, nhà đồng sáng lập của First Round Capital. Tuy nhiên, hai năm sau, hoạt động kinh doanh của Notion trượt dài khi công cụ không còn thực sự khiến người dùng nhận thấy giá trị với họ.
+
+“Phần mềm vẫn chưa đủ tốt. Bạn hiểu cảm giác bạn biết mọi thứ còn có thể trở nên tốt hơn. Nhưng bạn không biết làm cách nào để đến được đó”, Ivan Zhao nói trong cuộc phỏng vấn với Forbes.
+
+Trong nỗ lực cuối cùng để cứu công ty, ông Zhao và người đồng sáng lập Simon Last đã sa thải tất cả nhân viên, cho thuê lại văn phòng ở San Francisco và chuyển đến Kyoto, Nhật Bản để cắt giảm chi phí. Ivan Zhao đã vay mẹ mình 150.000 USD để khởi động lại “Notion 1.0”.
+
+Vào tháng 8/2016, họ đã phát hành bản nâng cấp của công cụ trên trang ứng dụng Product Hunt. Ngay sau khi ra mắt, Notion đã trở thành sản phẩm phổ biến nhất trên trang web này. Chỉ trong vòng vài tuần sau khi ra mắt phiên bản mới, Notion đã nhanh chóng thu về lợi nhuận bằng cách thu phí 8 USD/người nếu họ muốn sử dụng các tính năng nâng cao. Và công ty này đã trở thành một trong những công ty khởi nghiệp hấp dẫn nhất ở thung lũng Silicon.
+
+Tháng 10/2016, 2 nhà đồng sáng lập của Notion hân hoan trở về San Francisco. Notion khi này đã trở nên phổ biến trên toàn cầu (80% người dùng ở bên ngoài Hoa Kỳ) chỉ nhờ truyền miệng, hàng loạt video “Cách tôi sử dụng Notion” tràn ngập YouTube. Sau đó, công cụ này đạt được một triệu người dùng đầu tiên vào năm 2019.
+
+Scott Belsky, Giám đốc sản phẩm của Adobe, cũng dùng Notion để sắp xếp tất cả các nghiên cứu của mình và viết bản thảo cho cuốn sách bán chạy nhất The Messy Middle của mình. Ông từng cho biết: “Notion đã thu gọn khái niệm về trang web và tài liệu một cách tuyệt vời”.
+
+Vào tháng 1/2021, một số video “cách tôi sử dụng Notion” đã lan truyền trên TikTok. Nhu cầu tải xuống gia tăng đột biến đã buộc công ty phải tạm dừng mọi hoạt động phát triển sản phẩm trong sáu tháng để duy trì ổn định nền tảng. Vào thời điểm đó, ứng dụng này có 20 triệu người dùng. Hiện tại, con số này đang sắp tiến gần đến 100 triệu người dùng. Theo ước tính của Forbes, công ty này đã kiếm được 250 triệu USD doanh thu vào năm ngoái.
+
+Trong thời điểm Notion đột ngột trở nên quá nổi tiếng, Ivan Zhao đã cố gắng duy trì quyền điều hành của công ty, bởi hàng loạt các nhà đầu tư mạo hiểm ngỏ lời đầu tư vào Notion. Tuy nhiên, Ivan Zhao đã thận trọng trong việc quyết định nhận sức mạnh tài chính nhằm hạn chế quyền lực bị phân tán.
+
+Forbes ước tính rằng người đàn ông 37 tuổi này vẫn sở hữu ít nhất 30% cổ phần công ty, trị giá 1,5 tỷ USD, dựa trên mức định giá 5 tỷ USD của Notion trên thị trường thứ cấp (Akshay Kothari, 37 tuổi, gia nhập công ty vào năm 2018 và Last, 30 tuổi, đồng sáng lập chính thức, có thể sở hữu ít hơn vì họ gia nhập công ty sau khi thành lập).
+
+Notion đã ra mắt bot trí tuệ nhân tạo vào tháng 11/2023, giúp hiển thị nhanh chóng bất kỳ thứ gì được lưu trữ bên trong Notion. Nỗ lực đặt cược vào AI tạo sinh đã giúp Notion nó có được một vị trí trong danh sách AI 50 hàng năm lần thứ sáu của Forbes. Với công nghệ AI mới được tích hợp vào công cụ, người dùng Notion không cần phải nhớ cụ thể nơi họ đặt dữ liệu, vì họ có thể hỏi bot và công cụ này này sẽ đưa ra những tài liệu họ cần.
+
+Trong cuộc phỏng vấn với Forbes, Ivan Zhao cho biết ông muốn xây dựng Notion thành một ứng dụng tích hợp đầy đủ những tính năng phục vụ cho công việc văn phòng. Điều này có thể thách thức sự thống trị của Microsoft và Google, hai công ty đang cùng kiểm soát 99% thị trường phần mềm văn phòng trị giá 52 tỷ USD (doanh thu năm 2022), theo Gartner.
+
+Theo nhà phân tích Dan Ives của Wedbush, phần mềm AI dành cho doanh nghiệp có thể là cơ hội thị trường trị giá 1 nghìn tỷ USD cho trong thập kỷ tới. “Đó là một con đường tăng trưởng bằng gạch vàng phía trước cho Notion”, ông nói, ngay cả khi Notion không đối đầu trực tiếp với Microsoft và Google.
+
+Danny Rimer, một đối tác tại Index Ventures, nhớ lại lần đầu tiên gặp Ivan Zhao tại cuộc họp hội đồng quản trị của Figma cách đây vài năm trước, tại đây, Ivan Zhao đã thẳng thừng tuyên bố: “Tôi đang cố gắng hiểu xem nhà đầu tư trong hội đồng quản trị có ý nghĩa gì”.
+
+Phải đến khi đại dịch gây ảnh hưởng nghiêm trọng đến hoạt động, Ivan Zhao mới quyết định gây quỹ, nhưng ông cương quyết không để bất kỳ nhà đầu tư nào ngồi vào ghế hội đồng quản trị. Mặc dù vậy, Notion vẫn thành công huy động vốn từ các nhà đầu tư. Index đã dẫn đầu khoản đầu tư 50 triệu USD với mức định giá 2 tỷ USD vào tháng 2/2020 trong vòng 36 giờ kể từ khi Zhao bắt đầu gây quỹ. Vào tháng 10/2020, Notion huy động được 275 triệu USD từ Coatue và Sequoia, đưa công ty này đạt giá trị 10 tỷ USD.
+
+Năm 2023, công ty đã phát triển bot hỏi đáp có thể truy xuất thông tin được lưu trữ trong Notion. Các công cụ AI của Notion chủ yếu được xây dựng trên GPT-4, Claude của Anthropic. Giờ đây, sau khoảng một năm rưỡi bùng nổ AI, Notion đang ở vị trí dẫn đầu trong số các ứng dụng năng suất. Công ty tiếp tục tính thêm 8 USD phí hàng tháng cho người dùng nếu họ muốn truy cập vào các tính năng AI. Hàng triệu người dùng chấp nhận khoản phí này và cho đến nay công việc kinh doanh của Notion “tốt hơn những gì chúng tôi hy vọng”, Ivan Zhao cho biết.
+
+Notion hiện đang có 650 nhân viên trải khắp các văn phòng ở Mỹ, Ireland, Ấn Độ, Hàn Quốc và Nhật Bản. Khách hàng của họ hiện chủ yếu là các doanh nghiệp chứ không phải cá nhân. Ivan Zhao ước tính một nửa các startup trong vườn ươm Y Combinator sử dụng Notion, cũng như nhiều ngôi sao đang lên trong danh sách AI 50 (của Forbes), bao gồm Perplexity, Pika và Runway.
+
+Ivan Zhao muốn Notion có mặt khắp nơi trong cuộc sống của người dùng. Để làm được điều đó, Notion phải trở nên cực kỳ linh hoạt - một ứng dụng phục vụ mọi thứ, không chỉ tổ chức công việc mà còn tổ chức cuộc sống hàng này…

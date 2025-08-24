@@ -1,0 +1,27 @@
+Bộ Kế hoạch và Đầu tư vừa ban hành Thông tư số 9/2024/TT-BKHĐT (Thông tư 9) quy định biểu mẫu thực hiện thủ tục đăng ký tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã và quy định về nội dung thông tin, việc cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã.
+
+Theo Thông tư 9, công tác xây dựng, cập nhật, khai thác và quản lý Hệ thống thông tin quốc gia về hợp tác xã được thực hiện thống nhất, đồng bộ, khoa học, phản ánh đầy đủ, chính xác và kịp thời thông tin của tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã; bảo đảm tập trung tối đa nguồn lực, rút ngắn thời gian trong việc thu thập, chỉnh sửa, cập nhật, khai thác thông tin.
+
+Cơ sở dữ liệu về hợp tác xã được lưu trữ, bảo mật, bảo đảm an ninh, an toàn thông tin theo quy định của pháp luật; việc xây dựng, quản lý, sử dụng, khai thác tuân thủ các quy định của pháp luật có liên quan.
+
+Bộ Kế hoạch và Đầu tư sử dụng thông tin từ cơ sở dữ liệu về hợp tác xã để tổng hợp, phân tích các nội dung thuộc lĩnh vực quản lý nhà nước về hợp tác xã, phục vụ sự lãnh đạo, chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ; kết nối, chia sẻ dữ liệu từ cơ sở dữ liệu về hợp tác xã với các hệ thống thông tin khác và khai thác thông tin theo quy định của pháp luật.
+
+Bộ, ngành, địa phương được khai thác, sử dụng dữ liệu tổng hợp, phân tích chung, dữ liệu về hợp tác xã của bộ, ngành, địa phương mình trong cơ sở dữ liệu về hợp tác xã; các dữ liệu này được chia sẻ mặc định để phục vụ công tác chỉ đạo, điều hành theo chức năng, nhiệm vụ.
+
+Tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã được khai thác dữ liệu của hệ thống; được truy cập, sử dụng và khai thác dữ liệu trên Hệ thống thông tin quốc gia về hợp tác xã đối với các dữ liệu dùng chung và tuân thủ việc khai thác, sử dụng theo quy định của pháp luật.
+
+Ngoài ra, Bộ Kế hoạch và Đầu tư thực hiện tạo lập tài khoản truy cập cho cơ quan đăng ký kinh doanh cấp tỉnh và cơ quan quản lý cơ sở dữ liệu về hợp tác xã tại các bộ, ngành liên quan có chức năng quản lý nhà nước về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã. Cơ sở dữ liệu về hợp tác xã được lưu trữ trong Hệ thống thông tin quốc gia về hợp tác xã theo phân cấp quản lý và được sao lưu trên phương tiện lưu trữ chuyên dụng để dự phòng rủi ro.
+
+Cơ quan đăng ký kinh doanh cấp tỉnh thực hiện tạo lập tài khoản truy cập cho cơ quan đăng ký kinh doanh cấp huyện.
+
+Cơ quan đăng ký kinh doanh cấp huyện thực hiện tạo lập tài khoản truy cập cho tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã.
+
+Cơ quan quản lý cơ sở dữ liệu về hợp tác xã có trách nhiệm tạo lập tài khoản truy cập, thực hiện cấp, hạn chế, mở rộng, khóa hoặc hủy quyền truy cập của tài khoản và thực hiện giao nhiệm vụ bằng văn bản cho cán bộ, công chức, viên chức được giao quản lý cơ sở dữ liệu về hợp tác xã.
+
+Cán bộ, công chức, viên chức khi được giao nhiệm vụ có trách nhiệm truy cập vào tài khoản đã được cấp để cập nhập thông tin về tổ hợp tác, hợp tác xã, liên hiệp hợp tác xã theo từng ngành, lĩnh vực, địa phương vào cơ sở dữ liệu về hợp tác xã; thông tin phải đầy đủ, chính xác theo mẫu đã được cấp có thẩm quyền quản lý xác nhận hoặc định dạng sẵn có trên Hệ thống thông tin quốc gia về hợp tác xã.
+
+Bộ Kế hoạch và Đầu tư thiết lập và công bố các dịch vụ chia sẻ thông tin thuộc phạm vi Hệ thống thông tin quốc gia về hợp tác xã.
+
+Việc kết nối, chia sẻ thông tin giữa Hệ thống thông tin quốc gia về hợp tác xã với các hệ thống thông tin, cơ sở dữ liệu khác phải bảo đảm tuân thủ quy định về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước.
+
+Thông tư này có hiệu lực thi hành từ ngày 1/7/2024.

@@ -1,0 +1,57 @@
+Các chuyên gia đã nhấn mạnh khuyến cáo này tại tọa đàm “Phòng chống tấn công mã hóa dữ liệu tống tiền” do Câu lạc bộ Nhà báo công nghệ thông tin Việt Nam (Vietnam ICT Press Club) phối hợp với Hiệp hội An ninh mạng Quốc gia tổ chức chiều ngày 5/4/2024.
+
+Trong kỷ nguyên số, các cơ quan, tổ chức, doanh nghiệp phải từng ngày, từng giờ đối mặt với các mối đe dọa, những nguy cơ mất an toàn, an ninh thông tin không ngừng gia tăng trên không gian mạng. Theo thống kê, tính từ đầu năm 2023 đến nay, đã có hơn 13.750 cuộc tấn công mạng vào các hệ thống thông tin tại Việt Nam gây ra sự cố. Trong đó, tính riêng 3 tháng đầu năm nay, số sự cố tấn công mạng vào các hệ thống thông tin tại Việt Nam là 2.323.
+
+Liên tiếp trong thời gian gần đây, nhiều doanh nghiệp của Việt Nam như VNDIRECT, VPOIL… đã bị tấn công mã hóa dữ liệu (Ransomware).
+
+Hiệp hội An ninh mạng quốc gia dự báo thời gian tới, các nhóm tin tặc gia tăng tấn công mạng bằng mã độc tống tiền, nhằm vào các cơ quan trọng yếu, các tổ chức kinh tế, tài chính, năng lượng tiếp tục diễn biến phức tạp, không loại trừ khả năng hoạt động tấn công mã độc đã được cài cắm sâu trong các hệ thống thông tin.
+
+Chia sẻ về tấn công mã hóa dữ liệu trong thời gian qua, ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), Trưởng ban Nghiên cứu công nghệ Hiệp hội An ninh mạng Quốc gia cho biết, hình thức tấn công của hacker trong thời gian vừa qua là tương đối giống nhau. Đó là đều nằm vùng một thời gian và sau đó mã hóa dữ liệu tống tiền.
+
+Tuy vậy, kỹ thuật được sử dụng của các vụ tấn công gần đây lại không giống nhau. Do đó khả năng đây là các cuộc tấn công của những nhóm tội phạm mạng khác nhau.
+
+"Chưa có bằng chứng cho thấy đây là một chiến dịch có tổ chức", tuy nhiên, cũng không loại trừ khả năng này vì các vụ việc liên tiếp xảy ra trong một thời gian khá ngắn".
+
+Chuyên gia an ninh mạng của NCS dự báo, câu chuyện này sẽ còn lặp lại trong thời gian tới, cũng sẽ còn gặp nhiều tình huống tấn công  như vậy trong tương lai.
+
+Cùng quan điểm, Trung tá Lê Xuân Thủy, Giám đốc Trung tâm an ninh mạng quốc gia, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Bộ Công an, nhận xét, tình hình an ninh mạng của Việt Nam ngày càng phức tạp, mức độ tấn công ngày càng dồn dập, thiệt hại ngày càng lớn. Cách đây 2-3 năm, tin tặc lấy đi 4-50 tỷ đồng là rất lớn nhưng năm nay có những vụ thiệt hại lên tới 200 tỷ đồng, “nuốt trôi” lợi nhuận của tổ chức lớn.
+
+
+
+Tháng 11/2023, một đơn vị trong lĩnh vực năng lượng đã bị tấn công và mã hóa toàn bộ khoảng 1.000 máy chủ; tháng 12/2023, một đơn vị trong ngành tài chính ngân hàng, tin tặc đã nằm vùng rất lâu, gây thiệt hại gần 200 tỷ đồng. Tháng 3/2024, một đơn vị trung gian thanh toán, VNDirect, PVOIl, hai nhà cung cấp dịch vụ viễn thông bị tấn công Ransomware. Có thể thấy, tần suất ngày càng dồn dập và nhằm vào các đơn vị có hệ thống trọng yếu.
+
+Qua giám sát, thu thập, phân tích, cảnh báo, ông Phạm Thái Sơn, Phó Giám đốc Trung tâm giám sát an toàn không gian mạng quốc gia (Bộ Thông tin và Truyền thông) cho hay, trong quý I/2024, ghi nhận có hơn 150 triệu cảnh báo về các nguy cơ bảo mật. Sau khi phân tích và phát hiện, có hơn 300.000 nguy cơ tấn công mạng nhắm vào các hệ thống thông tin trên toàn quốc.
+
+Nhiều hệ thống thông tin của nhiều cơ quan, tổ chức, doanh nghiệp hiện là đích nhắm đến của nhiều nhóm tin tặc. Về tấn công ransomware, vừa qua có 2 tổ chức lớn bị tấn công là VNDirect và PVoil.
+
+“Theo những thông tin thu thập, phân tích, tấn công ransomware, đánh cắp dữ liệu và tấn công APT sẽ là các xu hướng tấn công vào các cơ quan, tổ chức trong thời gian tới”, ông Sơn nhận định.
+
+Phân tích các bước tấn công, ông Vũ Ngọc Sơn, đối với một cuộc tấn công mã hóa dữ liệu của hacker gồm 8 bước bắt đầu từ công đoạn dò tìm, xâm nhập, nằm vùng, chạy công cụ mã hóa dữ liệu, dọn dẹp, đòi tiền chuộc, rửa tiền (hacker sẽ chọn hình thức thanh toán bằng tiền số để che dấu hành vi phạm tội).
+
+Sau đó, hacker sẽ có thể lặp lại cuộc tấn công với các nạn nhân khác hoặc chính nạn nhân đó khi đã lấy được tiền. “Một lần hacker lấy được tiền tức là nạn nhân có tiền. Hacker có thể quay lại với danh nghĩa nhóm này hay nhóm khác. Đây là các cuộc tấn công kiểu triệt hạ, vừa mất dữ liệu vừa mất tiền, thậm chí trở thành mục tiêu cho các đối tượng tấn công khác”, ông Sơn nói.
+
+Việc tấn công hệ thống có thể gây ngừng toàn bộ hoạt động, giao dịch và khó có thể thu hồi được dữ liệu nhạy cảm đã rơi vào tay tin tặc.Theo chuyên gia, một khi dữ liệu đã bị mã hóa, gần như không còn cơ hội giải mã dữ liệu mã hóa. Tỷ lệ phục hồi là rất thấp, gần như bằng không và điều này hoàn toàn phụ thuộc vào hạ tầng đã được thiết kế để có khả năng phục hồi trong các tình huống như vậy hay chưa.
+
+Mục tiêu chính mà các hacker hướng tới khi tấn công mã hóa dữ liệu là đòi tiền chuộc. Vấn đề đặt ra, khi bị hacker tấn công mã hóa dữ liệu, các tổ chức, doanh nghiệp có nên trả tiền chuộc không?
+
+Khi một hệ thống đã bị mã hóa dữ liệu, chỉ có 2 cách để "cứu" dữ liệu là trả tiền chuộc cho hacker và sử dụng các dữ liệu đã được sao lưu dự phòng trước đó để khôi phục. Hiện nay chưa có cách nào để bẻ khóa thuật toán của hacker để tự mở dữ liệu.
+
+
+
+Tuy nhiên, hiện nay, 90% nạn nhân các vụ tấn công mã hóa dữ liệu trên thế giới lựa chọn phương án không trả tiền cho hacker, ông Sơn thông tin.
+
+Hiện nay, sáng kiến quốc tế về chống mã độc tống tiền (CRI) do Mỹ khởi xướng đã đưa ra một tuyên bố chính sách chung giữa các nước, trong đó kêu gọi các nạn nhân không trả tiền chuộc cho tin tặc, nếu không sẽ tạo ra một tiền lệ xấu, đặc biệt nguy hiểm.
+
+Các chuyên gia khuyến cáo khi bị tấn công phải báo cáo các cơ quan chức năng liên quan đển xử lý. Bên cạnh tìm cách khôi phục lại hệ thống, cần phải bảo vệ chứng cứ, xác minh điều tra yếu tố bên trong và bên ngoài, làm rõ trách nhiệm và có biện pháp răn đe để tránh xảy ra chuyện tương tự với cơ quan khác.
+
+Ông Thủy nêu rõ, khi tham gia sáng kiến chống mã hóa tống tiền của thế giới đã thống nhất vận động không trả tiền vì tạo ra nhu cầu, kích thích các nhóm tấn công mạng tập trung tấn công. Nếu kiên cường trước các cuộc tấn công sẽ giảm động lực của các nhóm tin tặc tấn công mã hóa dữ liệu tống tiền.
+
+Trong số những sự cố tấn công vừa qua, có đơn vị ở Việt Nam đã chọn cách phải trả tiền chuộc để khôi phục hệ thống. “Chúng tôi đã khuyến cáo điều này sẽ tạo tiền lệ xấu cho chính doanh nghiệp đó và doanh nghiệp khác trên thị trường”, Giám đốc Trung tâm an ninh mạng quốc gia nói.
+
+Theo các chuyên gia, số tiền chuộc thu được khi nạn nhân trả sẽ tạo động cơ cho các hacker, đối tượng khác tiếp tục hướng tấn công vào các nạn nhân khác ở Việt Nam, đặc biệt là các nhóm tấn công đến từ thế giới với hy vọng thu được tiền từ những dữ liệu đã bị mã hóa.
+
+Hiện nay chưa có quy định cụ thể về vấn đề này nên đó vẫn là lựa chọn của doanh nghiệp. Trong một số trường hợp như một đơn vị trong lĩnh vực năng lượng ở Tp.Hồ Chí Minh, sau khi phối hợp với cơ quan chức năng của Mỹ triệt phá được vào hạ tầng của nhóm ransomware, thu được key giải mã mà không cần trả tiền chuộc. Tuy nhiên, theo chuyên gia này, không phải đơn vị nào cũng may mắn như vậy.
+
+Ngoài ra, phải chuẩn bị phương án phục hồi như sao lưu backup dữ liệu thường xuyên. chuyên gia khuyến cáo nên lựa chọn chiến lược phù hợp với điều kiện, khả năng, ít nhất với dữ liệu quan trọng nên theo chiến thuật  3 2 1 (tức là sao lưu ít nhất 3 bản, trên 2 định dạng khác nhau và ít nhất có 1 bản offline). Cùng với đó các tổ chức doanh nghiệp cần phải có biện pháp giám sát liên tục…
+
+An ninh mạng là cuộc chiến giữa con người với con người. Tấn công hiện nay sẽ nhắm đến các mục tiêu tổ chức có dữ liệu lớn, dữ liệu quan trọng. Vấn đề là giám sát và phát hiện sớm trước khi hacker mã hóa dữ liệu. Khi bị mã hóa dữ liệu, thiệt hại sẽ cao hơn rất nhiều đầu tư trang bị hệ thống an toàn, các chuyên gia nhấn mạnh.

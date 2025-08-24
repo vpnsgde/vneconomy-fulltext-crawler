@@ -1,0 +1,23 @@
+Ngay sau cáo buộc Apple hạn chế hoạt động tự do tiếp thị của các nhà phát triển ứng dụng trên AppStore, EU tiếp tục tuyên bố gã khổng lồ Microsoft có hành vi cạnh tranh không lành mạnh. Các nhà quản lý châu Âu cho biết việc Microsoft đưa nền tảng giao tiếp Teams vào bộ công cụ trả phí Office 365 đã vi phạm quy định về chống độc quyền tại khu vực.
+
+Theo Financial Times, EU hiện đang nỗ lực buộc các công ty công nghệ lớn phải tuân thủ quy tắc của khu vực sau khi bị các công ty khởi nghiệp và nhiều bên liên quan khác khiếu nại rằng xử lý quá chậm những hành vi phản cạnh tranh trong lĩnh vực công nghệ.
+
+Ủy ban Châu Âu hiện đã bắt đầu thực thi Đạo luật Thị trường Kỹ thuật số (DMA), một bộ luật mang tính đột phá được thông qua vào năm 2022 nhằm mở cửa thị trường cho các công ty khởi nghiệp phát triển mạnh trong khối. Song, DMA cũng yêu cầu đối với các công ty Big Tech phải vận hành nền tảng một cách công bằng nếu không sẽ phải đối mặt với các khoản phạt nặng.
+
+Theo quy định của DMA, các công ty vi phạm quy tắc lần đầu có thể phải đối mặt với mức phạt lên tới 10% doanh thu toàn cầu. Hình phạt đó có thể tăng gấp đôi lên 20% đối với những người tái phạm.
+
+
+
+Điều này có nghĩa chỉ cần mắc một sai lầm, các Big Tech sẽ phải trả giá bằng hàng tỷ euro. Chẳng hạn, năm ngoái Apple có doanh thu 383 tỷ USD, đồng nghĩa với việc gã khổng lồ sẽ bị phạt lên tới 38 tỷ USD nếu không thể kháng cáo. Trong khi đó, Microsoft cũng có thể chịu mức phạt hơn 20 tỷ USD bởi doanh thu năm vừa rồi của Microsofy là 212 tỷ USD. Tuy nhiên, Financial Times cho rằng trên thực tế, mức phạt lớn như vậy rất khó để thực hiện.
+
+Phản ứng trước những cáo buộc vi phạm DMA của EU, các công ty công nghệ cũng đưa ra những hành động đáp trả dứt khoát. Chẳng hạn, Apple cho biết họ đang trì hoãn việc ra mắt các tính năng trí tuệ nhân tạo trên iPhone của mình ở châu Âu, vì lo ngại quy định DMA.
+
+Ngoài ra, theo các chuyên gia, các công ty lớn nhất thế giới sẵn sàng hầu toà tại các tòa án EU ở Luxembourg trong nhiều năm tới nhằm trì hoãn hình phạt của Uỷ ban Châu Âu. Và các ông lớn sẽ cho các nhà cầm quyền châu Âu thấy quy định sẽ “giết chết” việc tiếp cận những đổi mới công nghệ của khu vực.
+
+Theo một số nguồn tin, cuộc chiến giữa các cơ quan quản lý EU và Big Tech không chỉ dừng lại ở hai vụ kiện của Microsoft và Apple, bởi một số cuộc điều tra các ông lớn khác cũng đang được các nhà lập pháp EU tiến hành.
+
+Theo đó, EU đang điều tra công ty mẹ Meta của Facebook vì nghi ngờ công ty này đang làm suy yếu các đối thủ trong lĩnh vực quảng cáo. Bên cạnh đó, Uỷ ban Châu Âu cũng điều tra thêm Meta về mô hình “trả tiền hoặc chấp thuận”, mô hình này cung cấp cho người dùng EU tùy chọn trả tiền đăng ký hoặc đồng ý với chính sách dữ liệu của nó.
+
+Ngoài ra, các nhà lập pháp EU cáo buộc Google lạm dụng quyền lực trong lĩnh vực công nghệ quảng cáo. Cụ thể, các nhà cầm quyền châu Âu đang mở thủ tục tố tụng Alphabet với nghi ngờ mô hình hoạt động của gã khổng lồ không lành mạnh. EU cho biết Google có vẻ đang "tự ưu tiên" các dịch vụ của riêng mình trong tìm kiếm.
+
+Trao đổi với Financial Times, một chuyên gia pháp lý tại EU cho biết, những động thái này cho thấy EU đang nỗ lực áp dụng bất kỳ công cụ nào để tạo ra thị trường mở cho các công ty khởi nghiệp công nghệ. “Mèo trắng hay mèo đen không quan trọng miễn là bắt được chuột”, vị chuyên gia pháp lý này cho biết.

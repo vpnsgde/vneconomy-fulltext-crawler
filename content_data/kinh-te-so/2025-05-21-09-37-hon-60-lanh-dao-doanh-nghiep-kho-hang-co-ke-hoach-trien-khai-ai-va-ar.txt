@@ -1,0 +1,37 @@
+Đây là một trong những phát hiện chính trong báo cáo nghiên cứu về tầm nhìn quản lý kho hàng (Warehousing Vision Study) được Zebra Technologies Corporation công bố chiều ngày 20/5. Nghiên cứu được thực hiện trên quy mô toàn cầu trong các lĩnh vực sản xuất, bán lẻ, vận tải, logistics và phân phối bán buôn. Tại Châu Á– Thái Bình Dương (APAC), nghiên cứu được tiến hành tại các thị trường trọng điểm bao gồm Úc, Trung Quốc, Ấn Độ, Nhật Bản, Singapore và Việt Nam.
+
+Các chuyên gia nghiên cứu cho rằng với sự phát triển tăng trưởng phát triển kinh tế cùng với sự bùng nổ của thương mại điện tử và xu hướng, nhu cầu mua sắm online ở Việt Nam, cũng như trên toàn cầu hiện nay là động lực cho sự tăng trưởng mạnh mẽ của logistics và kho hàng (ở mức 2 con số).
+
+Theo dự báo của Interact Analysis, diện tích kho hàng trên toàn cầu sẽ đạt 3,905 km2 (tương đương 42 tỷ feet vuông) vào năm 2030, tăng 27% so với 3.067 km2 (33 tỷ feet vuông) ở` năm 2023. Chi tiêu lao động trong ngành kho hàng cũng dự kiến được sự kiến sẽ tăng trong dài hạn, với tốc độ tăng trưởng kép hàng năm là 7% đến năm 2030.
+
+
+
+"Khi Việt Nam triển khai tự động hóa thông minh và tăng tốc đi tới một tương lai thông minh hơn, trong đó tuổi thọ kho hàng được kéo dài hơn, các nhà lãnh đạo kho hàng cần tích cực số hóa, tự động hóa và ứng dụng công nghệ thông minh để chuyển đổi nhân viên thành những người lao động tuyến đầu được kết nối, tăng cường năng lực vận hành".
+
+Việc đáp ứng yêu cầu tăng trưởng của thị trường và đòi hỏi của người dùng, đang đặt ra cho các doanh nghiệp vận chuyển, kho hàng những thách thức cũng như cơ hội phát triển.
+
+Trong bối cảnh quy mô liên tục mở rộng và khối lượng đơn hàng hàng ngày tăng, phản hồi mà nghiên cứu nhận được từ đội ngũ nhân viên tuyến đầu trong ngành kho hàng toàn cầu cho thấy các nhà lãnh đạo trong ngành cần hành động nhanh chóng hơn trong việc nâng cao năng lực cho lực lượng lao động.
+
+Nghiên cứu cho thấy 85% nhân viên kho hàng trên toàn cầu (88% ở APAC) báo cáo rằng nếu người sử dụng lao động không đầu tư vào công nghệ để cải thiện hoạt động kho, họ sẽ không thể đạt được các mục tiêu kinh doanh.
+
+Các nhà lãnh đạo ngành kho hàng thừa nhận rằng họ gặp khó khăn trong việc duy trì tỷ lệ lấp đầy (51% trên toàn cầu, 45% ở APAC) và chuẩn bị đơn hàng (47% trên toàn cầu, 51% ở APAC) được nêu trong các thỏa thuận cấp độ dịch vụ (SLA), với độ chính xác đơn hàng (41% trên toàn cầu, 43% ở APAC) và các quy trình xuất kho (41% trên toàn cầu, 40% ở APAC) được coi là hai thách thức vận hành hàng đầu được chỉ ra trong nghiên cứu.
+
+Hoạt động thương mại điện tử gia tăng cũng khiến việc "giao hàng nhanh hơn tới khách hàng cuối" (37% trên toàn cầu, 36% APAC) trở thành thách thức hàng đầu đối với các đội nhóm trong ngành kho hàng, ngay cả trong bối cảnh công nghệ được ứng dụng ngày càng nhiều.
+
+Trước thách thức đó, các doanh nghiệp đang từng bước đưa các công nghệ, tự động hóa, AI, AR vào hoạt động của đơn vị mình để tối ưu hóa, nâng cao hiệu suất, khả năng thích ứng và phát triển bền vững.
+
+Nghiên cứu chỉ rõ, 64% đối tượng tham gia khảo sát trên toàn cầu có kế hoạch tăng chi tiêu cho hiện đại hóa kho hàng trong 5 năm tới, với tỷ lệ tương tự là 63% ở APAC. Trong khi đó, 63% trên toàn cầu (64% tại APAC) có kế hoạch đẩy nhanh tiến độ hiện đại hóa vào năm 2029.
+
+Do sự chênh lệch ngày càng tăng giữa kỳ vọng của khách hàng và nguồn tuyển dụng hạn chế của các doanh nghiệp kho hàng, các nhân viên kho hàng đánh giá cao việc ứng dụng các công nghệ như robot cộng tác (88% trên toàn cầu, 91% ở APAC), thiết bị kiểm kho hiện đại (88% trên toàn cầu, 90% ở APAC), ứng dụng liên lạc (87% trên toàn cầu, 90% APAC) và các công cụ quản lý tác vụ (91% trên toàn cầu, 94% ở APAC) để giúp giải quyết các vấn đề tại nơi làm việc.
+
+Hơn 90% số nhân viên tham gia khảo sát trên toàn cầu cũng như ở APAC  tin rằng tăng cường ứng dụng công nghệ tự động hóa và di động sẽ giúp thu hút và giữ chân được nhiều nhân viên kho hàng hơn, đặc biệt là khi bản thân họ cảm thấy được người sử dụng lao động trân trọng hơn (89% trên toàn cầu, 90% ở APAC) khi được trang bị các công nghệ này.
+
+Tại Việt Nam, ngành kho hàng cũng đang nhanh chóng nắm bắt các công nghệ tiên tiến để nâng cao hiệu suất vận hành và giảm chi phí trong bối cảnh nhu cầu ngày càng tăng từ thương mại điện tử và thương mại toàn cầu.
+
+Cùng với sự phát triển của thương mại điện tử, quá trình toàn cầu hóa chuỗi cung ứng và kỳ vọng của người tiêu dùng về thời gian giao hàng nhanh hơn, các doanh nghiệp đang áp dụng ngày càng nhiều giải pháp kho hàng thông minh để tối ưu hóa quản lý hàng tồn kho, giảm chi phí vận hành và cải thiện sự hài lòng của khách hàng.
+
+Nhiều đơn vị vận hành kho hàng đang chuyển đổi từ hệ thống thủ công sang hệ thống quản lý kho thông minh (WMS), tích hợp tự động hóa, RFID và quét mã QR để hợp lý hóa việc theo dõi hàng tồn kho và thực hiện đơn hàng. Việc áp dụng các công nghệ như IoT, AI, giám sát bằng hình ảnh và dữ liệu lớn cũng gia tăng, tạo điều kiện dự báo nhu cầu chính xác hơn, hiển thị giám sát tài sản theo thời gian thực và tối ưu hóa mặt bằng kho.
+
+Các nhà lãnh đạo trong ngành kho hàng cho rằng các ứng dụng AI chạy trên thiết bị di động sẽ tạo ra tác động lớn nhất trong an toàn lao động, kiểm soát chất lượng và quản lý hàng tồn kho. Nhiều nhà lãnh đạo trong ngành kho hàng toàn cầu đã và đang lên kế hoạch thực hiện tăng cường tự động hóa cho biết mục tiêu giảm thiểu sai lỗi (71%) và đáp ứng SLA (thỏa thuận mức dịch vụ) (70%).
+
+Các doanh nghiệp cũng kỳ vọng tự động hóa sẽ nâng cao hiệu suất và năng suất của người lao động (54% trên toàn cầu) cũng như giảm lỗi đơn hàng và giảm lấy hàng thủ công (53%)...

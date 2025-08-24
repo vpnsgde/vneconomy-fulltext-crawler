@@ -1,0 +1,37 @@
+Ngày 29/7, Diễn đàn “Công nghệ năng lượng trong Kỷ nguyên mới” do Tạp chí Kinh tế Việt Nam – VnEconomy – Vietnam Economic Times tổ chức, với sự xuất hiện của nhiều chuyên gia đã trao đổi, đánh giá thực trạng, nhận diện cơ hội, thách thức nhằm đề xuất các giải pháp đột phá cho ngành năng lượng.
+
+Trình bày tại Diễn đàn, ông Kim Gyeng Chul, Tổng giám đốc Điều hành VINA Tech, Enersol, cho biết công nghệ siêu tụ điện (supercapacitor) và pin nhiên liệu hydro (fuel cell) hiện không chỉ đóng vai trò cải thiện hiệu suất trong lưu trữ và phát điện, mà còn đang định hình tương lai của các ngành công nghiệp chiến lược như giao thông, năng lượng tái tạo và điện tử thông minh.
+
+Siêu tụ điện là thiết bị lưu trữ năng lượng có khả năng sạc và xả điện cực nhanh, với mật độ công suất cao, tuổi thọ gấp 10 lần pin thông thường và độ ổn định nhiệt lên tới 85°C. Khả năng phản ứng gần như tức thời, ở cấp độ micro giây, khiến siêu tụ điện trở thành giải pháp tối ưu cho các hệ thống yêu cầu phản hồi nhanh và vận hành trong môi trường khắc nghiệt.
+
+Theo ông Kim Gyeng Chul, công nghệ này đã được ứng dụng vào các mẫu xe thể thao cao cấp như Lamborghini Sián, mẫu hybrid đầu tiên trên thế giới sử dụng siêu tụ điện để tăng tốc từ 0 lên 100 km/h trong chưa đầy 3 giây. Đồng thời, siêu tụ điện còn hiện diện trong hệ thống túi khí, giúp kích hoạt nhanh chóng trong các tình huống khẩn cấp, và đóng vai trò quan trọng trong phanh tái sinh, tăng hiệu quả năng lượng cho xe điện.
+
+Hơn nữa, đặc tính chống rung và chịu nhiệt tốt giúp siêu tụ điện thích nghi với các môi trường vận hành khắc nghiệt, chẳng hạn như máy bay cất-hạ cánh thẳng đứng (eVTOL), drone, hoặc hệ thống điều khiển cánh tuabin gió.
+
+“Ngoài ra, công nghệ này còn phát huy vai trò quan trọng trong ổn định điện áp cho các nhà máy điện mặt trời và điện gió, giúp điều hòa công suất, bảo vệ biến tần và giảm thiểu rủi ro sụt áp, đặc biệt hữu ích cho các trung tâm dữ liệu AI, nhà máy thông minh và hệ thống sản xuất chất bán dẫn”, ông Kim Gyeng Chul thông tin thêm.
+
+Song hành với siêu tụ điện, Tổng giám đốc VINA Tech cho biết công nghệ pin nhiên liệu hydro cũng được xem là một trụ cột trong hệ thống phát điện bền vững. Theo đó, pin nhiên liệu hoạt động bằng cách chuyển hóa LNG, hydro hoặc khí sinh học thành điện năng thông qua phản ứng điện hóa, với các thành phần chính gồm lớp hỗ trợ carbon, chất xúc tác, màng điện cực (MEA) và tấm lưỡng cực (bipolar plate).
+
+Trong đó, MEA đóng vai trò quyết định hiệu suất của hệ thống, tạo môi trường cho phản ứng giữa cực âm và cực dương, còn tấm lưỡng cực là kênh dẫn khí và truyền tải điện năng. Những cải tiến về thiết kế và vật liệu ở các thành phần này đang góp phần kéo dài tuổi thọ, tăng hiệu suất chuyển đổi và giảm chi phí vận hành cho pin nhiên liệu.
+
+Khi được tích hợp với siêu tụ điện, hai công nghệ này tạo nên hệ thống phát điện kết hợp, trong đó pin nhiên liệu cung cấp tải nền ổn định còn siêu tụ điện hỗ trợ công suất đỉnh – phù hợp cho những tình huống yêu cầu phản hồi tức thời hoặc cần hệ thống điện dự phòng. Một trong những mô hình thực tế mà Tổng giám đốc của VINA Tech giới thiệu là hệ thống năng lượng mô-đun gồm 3.000 tế bào với công suất 600V/2,5kWh.
+
+Theo ông Kim Gyeng Chul, giải pháp siêu tụ điện và pin nhiên liệu halogen cũng được ứng dụng tại nhiều phương tiện giao thông không phát thải như xe NEXO, xe tải XCIENT chạy pin nhiên liệu, phương tiện bay hydro thử nghiệm từ năm 2022, cũng như các tuyến tàu điện sử dụng pin nhiên liệu tại Ulsan (dự kiến khai thác 2027) và Daejeon, Hàn Quốc. Riêng năm 2024, Hàn Quốc đã đưa vào vận hành khoảng 40.000 phương tiện giao thông sử dụng công nghệ này.
+
+Từ kinh nghiệm tại Hàn Quốc, đại diện VINA Tech Group đưa ra một số đề xuất chính sách cụ thể nhằm tạo điều kiện cho Việt Nam đẩy nhanh ứng dụng các công nghệ năng lượng mới, đặc biệt là siêu tụ điện (SC) và pin nhiên liệu hydro (FC), hướng tới mục tiêu chuyển dịch năng lượng an toàn, ổn định và bền vững.
+
+Theo ông Kim Gyeng Chul, cần có sự tham gia chủ động từ phía các cơ quan chính phủ trong vai trò “Người mua đầu tiên” (First Buyer), giúp giảm thiểu rủi ro thị trường ban đầu đối với công nghệ mới. Cơ chế này được khuyến nghị áp dụng trong các chương trình thí điểm cấp quốc gia, với mô hình hợp tác công – tư (PPP) nhằm phát triển công nghệ năng lượng tiên tiến.
+
+Một ví dụ điển hình được ông nêu là dự án FR-ESS, hệ thống lưu trữ năng lượng nhanh, do Tập đoàn điện lực Hàn Quốc (KEPCO) triển khai hợp tác với VINA Tech từ năm 2016, hiện đã kéo dài 9 năm.
+
+Ông Kim cho biết thành phố Jeonju, Hàn Quốc đã được định vị là “Thủ đô sinh thái Hydro” và đang triển khai hệ thống giao thông sạch với 300 xe buýt chạy bằng hydro. Mô hình này cho thấy hiệu quả vận hành thực tế với phương tiện “không bụi, không rung”, đồng thời thể hiện niềm tự hào địa phương trong việc ứng dụng công nghệ thân thiện với môi trường.
+
+Đại diện của VINA Tech nhấn mạnh việc xây dựng một hệ sinh thái pin nhiên liệu hoàn chỉnh – bao gồm sản xuất, vận chuyển, lưu trữ và sử dụng – là yếu tố nền tảng để bảo đảm thành công lâu dài.
+
+Song song đó, cần tạo điều kiện cho các nhà sản xuất công nghệ năng lượng có vốn đầu tư nước ngoài (FDI) tham gia vào chuỗi cung ứng nội địa. Điều này bao gồm việc công nhận vai trò cung ứng nội địa của các doanh nghiệp FDI và khuyến khích họ hình thành liên doanh (JV) với các đối tác trong nước. Mục tiêu là thúc đẩy chuyển giao công nghệ và xây dựng năng lực sản xuất trong nước.
+
+Ngoài ra, ông Kim cũng đề xuất xây dựng các chương trình đào tạo nguồn nhân lực chất lượng cao trong lĩnh vực siêu tụ điện và pin nhiên liệu thông qua mô hình hợp tác giữa doanh nghiệp và các cơ sở đào tạo – viện nghiên cứu.
+
+Cùng với đó là việc hình thành cụm nghiên cứu và phát triển (R&D cluster) với sự phối hợp giữa doanh nghiệp, viện nghiên cứu và cơ quan quản lý, nhằm tạo ra hệ sinh thái đổi mới sáng tạo phù hợp với điều kiện tại Việt Nam.
+
+Khẳng định công nghệ siêu tụ điện và pin nhiên liệu hiện đã sẵn sàng để đồng hành cùng Việt Nam trong quá trình ổn định hệ thống điện quốc gia và hướng tới một tương lai năng lượng sạch, bền vững và độc lập, Tổng giám đốc của VINA Tech nhấn mạnh thông điệp “Tự do và hạnh phúc thực sự đến từ sự độc lập trong công nghệ.”

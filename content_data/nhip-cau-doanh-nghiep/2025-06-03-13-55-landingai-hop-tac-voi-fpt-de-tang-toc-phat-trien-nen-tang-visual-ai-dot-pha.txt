@@ -1,0 +1,15 @@
+Là một trong những công ty tiên phong trong lĩnh vực thị giác máy tính và trí tuệ nhân tạo, LandingAI đã xây dựng các nền tảng công nghệ phục vụ hơn 30.000 người dùng, ứng dụng trí tuệ nhân tạo để giải quyết hiệu quả các bài toán phân tích dữ liệu phi cấu trúc trong nhiều lĩnh vực như sản xuất, điện tử, y tế, logistics và tài chính.
+
+Các sản phẩm của LandingAI được phát triển dựa trên khung công nghệ tác nhân AI (agentic AI), cho phép hệ thống xử lý hiệu quả những tác vụ thị giác phức tạp – đặc biệt với dữ liệu đầu vào không có cấu trúc như hình ảnh và văn bản. Công nghệ này giúp hệ thống tự động nhận diện vật thể trong ảnh, trích xuất thông tin từ tài liệu dạng ảnh và phân tích hình ảnh trong nhiều tình huống đa dạng với độ chính xác cao.
+
+Để thực thi các tác vụ AI đòi hỏi khả năng xử lý sâu, liên tục học hỏi và thích ứng như vậy, LandingAI cần đến một hạ tầng tính toán mạnh mẽ nhằm tinh chỉnh các mô hình agentic AI, triển khai các chu trình học tăng cường (reinforcement learning) và liên tục tối ưu hiệu suất hệ thống.
+
+LandingAI khai thác hạ tầng tính toán hiệu năng cao của FPT AI Factory với siêu chip NVIDIA H100 để giải quyết các vấn đề về hiệu suất trong quá trình phát triển sản phẩm. FPT AI Factory cung cấp hạ tầng mạnh mẽ, dễ dàng mở rộng và tích hợp với hệ thống, giúp LandingAI phát triển các mô hình AI quy mô lớn hiệu quả với tốc độ và hiệu suất vượt trội. Từ đó cải thiện rõ rệt khả năng xử lý đa tác vụ thị giác, đẩy nhanh triển khai các tính năng mới gấp 3 lần, đồng thời đảm bảo hệ thống AI vận hành ổn định.
+
+“Nhờ dịch vụ từ FPT AI Factory cùng sự hỗ trợ tận tâm của đội ngũ FPT, chúng tôi đã có thể nhanh chóng phát triển và tích hợp các mô hình AI quy mô lớn vào giải pháp của mình, qua đó nâng cao hiệu quả vận hành và tối ưu đáng kể về thời gian lẫn chi phí,” ông Dan Maloney, CEO của LandingAI, chia sẻ.
+
+Theo ông Lê Hồng Việt, Tổng Giám đốc FPT Smart Cloud, Tập đoàn FPT, “FPT không ngừng đầu tư vào hạ tầng và các nền tảng công nghệ tiên tiến, với mục tiêu hỗ trợ các doanh nghiệp tạo nên những bước tiến mới trên hành trình phát triển và làm chủ AI. Thông qua FPT AI Factory, chúng tôi trao tay doanh nghiệp công cụ và nguồn lực cần thiết để tăng tốc đổi mới sáng tạo, đưa AI vào ứng dụng thực tiễn một cách hiệu quả, linh hoạt và bền vững trong mọi lĩnh vực đời sống xã hội”.
+
+FPT AI Factory là bộ giải pháp toàn diện, sử dụng hàng nghìn chip xử lý hiệu năng cao và phần mềm chuyên biệt, giúp các tổ chức, doanh nghiệp dễ dàng xây dựng, thử nghiệm và triển khai các ứng dụng trí tuệ nhân tạo, từng bước tiến tới làm chủ công nghệ AI.
+
+Theo dự báo, thị trường AI Agents (tác nhân AI) có thể đạt 52,6 tỷ USD vào năm 2030, với tốc độ tăng trưởng vượt bậc. Trong thời đại mà AI đang ngày càng “thông minh” và “tự động” hơn, việc có một hạ tầng mạnh như FPT AI Factory giúp doanh nghiệp bắt kịp xu hướng và đi đầu trong cuộc đua công nghệ.

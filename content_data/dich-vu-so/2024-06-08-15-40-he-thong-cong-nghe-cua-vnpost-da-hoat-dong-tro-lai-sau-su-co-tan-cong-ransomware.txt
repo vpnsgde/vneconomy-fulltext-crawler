@@ -1,0 +1,9 @@
+TheoVNPost, ngay khi phát hiện sự cố, Bưu điện Việt Nam đã nhanh chóng kích hoạt kịch bản hành động, bám sát theo hướng dẫn của Cục An toàn thông tin (Bộ Thông tin và Truyền thông), tập trung toàn lực để xử lý sự cố trong thời gian sớm nhất, đảm bảo tối đa quyền lợi khách hàng, giảm thiểu việc gián đoạn trong cung cấp dịch vụ.
+
+Với sự hỗ trợ kịp thời và tích cực của Cục An toàn thông tin (Bộ Thông tin và Truyền thông), Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05) - Bộ Công an, sự phối hợp chặt chẽ, hỗ trợ kịp thời của Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT), Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel), Tập đoàn Công nghệ CMC, Công ty FPT-IS và các đối tác công nghệ, cùng sự nỗ lực của đội ngũ cán bộ kỹ thuật, kỹ sư công nghệ, Bưu điện Việt Nam đã cô lập sự cố, bảo vệ dữ liệu, từng bước phục dựng hệ thống song song với việc điều tra, phân tích chuyên sâu nguyên nhân.
+
+Đến thời điểm 22h00 ngày 7/6/2024, hệ thống công nghệ thông tin phục vụ khách hàng và hoạt động quản lý vận hành của Bưu điện Việt Nam đã được phục hồi. Mọi hoạt động liên quan đến các dịch vụ đã cơ bản hoạt động bình thường và chưa ghi nhận bất cứ dấu hiệu thiệt hại về tài chính nào.
+
+Bên cạnh đó, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao đã điều phối lực lượng tiếp tục thu thập, củng cố tài liệu, chứng cứ phục vụ công tác điều tra, xử lý tội phạm mạng theo quy định của pháp luật.
+
+Thống kê của Bộ Thông tin và truyền thông, cho biết trong ba tháng đầu năm 2024, các hệ thống thông tin tại Việt Nam đã chịu 2.323 cuộc tấn công mạng. Xu hướng tấn công mạng, đặc biệt là tấn công mã hóa dữ liệu tống tiền có xu hướng tăng cao. Theo đó, cứ 11 giây sẽ có một tổ chức trở thành mục tiêu của mã độc Ransomware.

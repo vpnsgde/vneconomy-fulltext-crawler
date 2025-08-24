@@ -1,0 +1,21 @@
+Phân tích được thực hiện bởi một công ty có trụ sở tại Tokyo có tên TechanaLye cho thấy bộ xử lý từ điện thoại thông minh Huawei có thể cạnh tranh ngang sức với chip TSMC về khả năng xử lý. Những phát hiện được báo cáo trên Nikkei Asia.
+
+Hiroharu Shimizu, Tổng giám đốc điều hành của công ty nghiên cứu chất bán dẫn TechanaLye (Tokyo) đã trình bày sơ đồ mạch bán dẫn 2 bộ xử lý trong điện thoại thông minh Trung Quốc: một là chip điện thoại mới nhất của Huawei Kirin 9010 do SMIC sản xuất và một là chip Kirin 9000 (2021) do TSMC sản xuất trước khi có Mỹ thi hành hạn chế bán dẫn đối với Trung Quốc.
+
+Năm 2023, công bố chip Kirin 9010 có kích thước 7nm được coi là một kỳ tích mà giới chuyên môn đánh giá Trung Quốc không thể làm được nếu không có các máy công nghệ cực tím đã bị Mỹ hạn chế.
+
+Theo báo cáo của TechanaLye, chip Kirin 9010 7 nanomet (nm) do SMIC sản xuất có kích thước 118,4 mm2, trong khi chip 5 nm của TSMC là 107,8 mm2. Nói chung, kích thước càng nhỏ hiệu suất càng lớn. Tuy nhiên, TechanaLye chi ra rằng chip Kirin 9000 của TSMC và chip Kirin 9010 của SMIC gần như có hiệu suất tương đương, mặc dù sự khác biệt về năng suất vẫn tồn tại.
+
+Với xu hướng này, thực tế chip 7nm của SMIC hiện có khả năng xử lý ngang ngửa chip 5 nm của TSMC. Và điều này có thể có tác động lớn đến ngành công nghiệp bán dẫn. Bởi TSMC cũng phải đối mặt với những rào cản ngày càng tăng để vượt lên trước các đối thủ Trung Quốc về mặt công nghệ khi việc thu nhỏ mạch ngày càng trở nên khó khăn.
+
+Pura 70 Pro của Huawei được trang bị tổng cộng 37 chất bán dẫn hỗ trợ bộ nhớ, cảm biến, camera, nguồn điện và chức năng hiển thị. Trong số đó, 14 chất bán dẫn từ công ty con sản xuất bán dẫn của Huawei, 18 chất bán dẫn từ các nhà sản xuất Trung Quốc khác và chỉ có năm chất bán dẫn từ các nhà sản xuất nước ngoài, bao gồm SK Hynix của Hàn Quốc cho DRAM và Bosch của Đức cho cảm biến chuyển động. Khoảng 86% chip của điện thoại được sản xuất tại Trung Quốc.
+
+Theo Hiệp hội Quốc tế về Thiết bị và Vật liệu Bán dẫn (SEMI), các công ty Trung Quốc đã mua 34,4% thiết bị sản xuất chip toàn cầu vào năm 2023, gấp đôi con số của Hàn Quốc và Đài Loan. Nguyên nhân được cho là vì Trung Quốc đang mở rộng năng lực sản xuất hàng loạt bằng cách tập trung vào các thiết bị không bị hạn chế xuất khẩu đối với các công nghệ tiên tiến.
+
+"Cho đến nay, các quy định của Mỹ chỉ làm chậm một chút quá trình đổi mới của Trung Quốc, thậm chí còn thúc đẩy ngành công nghiệp chip trong nước của Trung Quốc nỗ lực tự chủ hơn nữa", ông Hiroharu Shimizu nói với Nikkei Asia.
+
+Theo Viện Nghiên cứu Chính sách Đối ngoại Hoa Kỳ, các biện pháp kiểm soát của Mỹ thực tế cũng đang gây áp lực nên chính nền kinh tế nước này. Đầu tiên, doanh thu các công ty chip của Mỹ bị ảnh hưởng do đã đánh mất thị trường Trung Quốc.
+
+Phòng Thương mại Hoa Kỳ tại Trung Quốc dự báo tổn thất hàng năm của Mỹ có thể lên đến 83 tỷ USD và 124.000 việc làm. Nguyên nhân xuất phát từ việc các công ty thiết bị bán dẫn của Mỹ phụ thuộc khá nhiều vào thị trường Trung Quốc, với ước tính 30-40% doanh số bán hàng.
+
+Nghịch lý thay, các biện pháp kiểm soát xuất khẩu cũng đang thúc đẩy các nỗ lực của Trung Quốc về thiết lập một chuỗi cung ứng chất bán dẫn độc lập. Các chính sách của Mỹ đang giúp Trung Quốc làm được điều mà nhiều năm sáng kiến của chính phủ Trung Quốc không thể làm được: buộc các công ty Trung Quốc phát triển các lựa chọn thay thế chip trong nước.

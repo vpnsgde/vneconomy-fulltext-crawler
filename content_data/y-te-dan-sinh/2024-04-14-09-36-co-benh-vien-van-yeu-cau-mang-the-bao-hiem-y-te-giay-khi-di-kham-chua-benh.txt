@@ -1,0 +1,29 @@
+Để đảm bảo quyền lợi và thuận tiện cho người bệnh khi đi khám chữa bệnh bảo hiểm y tế, Bộ Y tế đã có chỉ đạo mới đến Sở Y tế các địa phương, cơ sở khám chữa bệnh và các đơn vị liên quan về vấn đề này.
+
+Bộ Y tế cho biết trước đó đã nhận được thông tin phản ánh của Bảo hiểm xã hội Thành phố Hà Nội về việc người bệnh khi đi khám, chữa bệnh bảo hiểm y tế tại một số bệnh viện, có xuất trình căn cước công dân gắn chip, hoặc xuất trình hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID – Bảo hiểm xã hội số của Bảo hiểm xã hội Việt Nam, hoặc trên ứng dụng VNelD (ứng dụng định danh điện tử) của Bộ Công an.
+
+Tuy nhiên, có trình trạng bệnh viện không giải quyết hưởng chế độ bảo hiểm y tế, yêu cầu người bệnh phải về mang thẻ bảo hiểm y tế giấy để làm thủ tục khám chữa bệnh bảo hiểm y tế.
+
+Trước thực tế được phản ánh, để đảm bảo quyền lợi hợp pháp và thuận tiện cho người bệnh khi đi khám chữa bệnh bảo hiểm y tế theo đúng chỉ đạo của Chính phủ, Thủ tướng Chính phủ tại Đề án 06, Bộ Y tế đề nghị các bệnh viện chấn chỉnh ngay các khoa, phòng liên quan, nhân viên y tế để xảy ra tình trạng nêu trên.
+
+Cùng với đó, thực hiện giải quyết hưởng chế độ bảo hiểm y tế trong trường hợp người bệnh khi đi khám chữa bệnh bảo hiểm y tế xuất trình căn cước công dân gắn chip, hoặc xuất trình hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID, hoặc trên ứng dụng VNelD của Bộ Công an theo đúng hướng dẫn của Bộ Y tế tại Công văn số 4316/BYT-BH và Công văn số 931/BYT-BH.
+
+Theo hướng dẫn tại công văn 931, đối với người bệnh đã được cấp căn cước công dân có gắn chíp: Trường hợp khi kiểm tra căn cước công dân (quét mã QR code) hoặc qua ứng dụng VneID đã có thông tin hợp lệ về tham gia bảo hiểm y tế, thì cơ sở khám chữa bệnh thực hiện kiểm tra, đối chiếu thông tin về bảo hiểm y tế, và tiếp đón người bệnh theo quy trình khám chữa bệnh bảo hiểm y tế hiện hành.
+
+Đồng thời thông tin cho người bệnh biết để đi khám chữa bệnh bảo hiểm y tế kể từ lần sau bằng căn cước công dân gắn chip, hoặc bằng ứng dụng VneID.
+
+Trường hợp khi kiểm tra thông tin nhưng không có thông tin hợp lệ về tham gia bảo hiểm y tế: Giải thích để người bệnh đó biết tình trạng của thẻ bảo hiểm y tế trên căn cước công dân chưa thể thực hiện được; thực hiện tiếp đón người bệnh theo quy trình khám chữa bệnh bảo hiểm y tế hiện hành (xuất trình thẻ bảo hiểm y tế và giấy tờ tùy thân có ảnh).
+
+Đối với người bệnh chưa được cấp căn cước công dân có gắn chip, cũng cần xuất trình thẻ bảo hiểm y tế và giấy tờ tùy thân có ảnh.
+
+Bộ Y tế cũng đề nghị Sở Y tế các địa phương chỉ đạo các đơn vị liên quan thực hiện việc rà soát, chấn chỉnh kịp thời các cơ sở khám chữa bệnh, cá nhân thuộc quyền quản lý để xảy ra tình trạng chậm gửi dữ liệu.
+
+Hạn chế thấp nhất việc phải gửi đề nghị thay thế, làm ảnh hưởng đến công tác giám định, thanh toán chi phí khám chữa bệnh bảo hiểm y tế của cơ quan Bảo hiểm xã hội; tuân thủ việc gửi dữ liệu điện tử chi phí khám chữa bệnh bảo hiểm y tế theo đúng quy định tại Thông tư số 48/2017 của Bộ Y tế quy định trích chuyển dữ liệu điện tử trong quản lý và thanh toán chi phí khám chữa bệnh bảo hiểm y tế.
+
+Ngoài ra, các đơn vị nghiên cứu, chuẩn bị nguồn lực (phần cứng, phần mềm) để thực hiện triển khai ký số file XML xác thực dữ liệu điện tử chi phí khám chữa bệnh bảo hiểm y tế, theo quy định tại Thông tư số 48, trước khi gửi dữ liệu lên Cổng tiếp nhận dữ liệu thuộc Hệ thống thông tin giám định bảo hiểm y tế của Bảo hiểm xã hội Việt Nam.
+
+Cơ sở khám chữa bệnh sử dụng chứng thư số đã được cấp của cơ quan, đơn vị để ký số, xác thực dữ liệu XML theo hướng dẫn của Bảo hiểm xã hội Việt Nam.
+
+Theo Bảo hiểm xã hội Việt Nam, đến nay 100% cơ sở khám chữa bệnh bảo hiểm y tế đã triển khai khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chip, đáp ứng yêu cầu tra cứu thông tin thẻ bảo hiểm y tế bằng số định danh cá nhân/căn cước công dân. Do đó, người dân không cần mang thẻ bảo hiểm y tế giấy khi đi khám, chữa bệnh.
+
+Hiện đã có hơn 68,5 triệu lượt tra cứu thông tin thẻ bảo hiểm y tế bằng số định danh cá nhân/căn cước công dân thành công phục vụ làm thủ tục khám chữa bệnh bảo hiểm y tế.

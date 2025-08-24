@@ -1,0 +1,25 @@
+Nghiên cứu, phân tích các mối đe dọa ngụy trang dưới dạng trò chơi video phổ biến dành cho trẻ em vừa được chia sẻ, các chuyên gia Kaspersky đã phát hiện hơn 6,6 triệu vụ tấn công sử dụng thương hiệu trò chơi trẻ em làm mồi nhử.
+
+Trong số 18 trò chơi được chọn để nghiên cứu, phần lớn các cuộc tấn công liên quan đến các tựa game quen thuộc Minecraft, Roblox và Among Us. Theo thống kê, trong khoảng thời gian được lựa chọn để nghiên cứu, hơn 3 triệu cuộc tấn công đã được thực hiện dưới lớp “vỏ bọc ngụy trang” Minecraft.
+
+Theo các chuyên gia, sự phổ biến của Minecraft này khiến tựa game này trở thành công cụ tấn công hấp dẫn cho tội phạm mạng. Tội phạm mạng “đánh” vào nhu cầu của game thủ đối với các phiên bản cheat và mod được phân phối qua trang web của bên thứ ba. Theo đó ngụy trang phần mềm độc hại dưới “vỏ bọc” ứng dụng game để lừa người chơi tải về.
+
+Các chuyên gia Kaspersky phân tích: tỷ lệ thành công gia tăng của các cuộc tấn công mạng trong năm 2024 đến từ nguyên nhân cốt lõi: tội phạm mạng đang ngày càng trở nên tinh vi hơn. Thay vì sử dụng các phương thức tấn công đại trà, tội phạm mạng tận dụng các xu hướng và sự kiện thời sự, tạo ra các cuộc tấn công được cá nhân hóa cao, để thu hút sự chú ý của đối tượng mục tiêu.
+
+Mặt khác, tội phạm mạng ngày càng sử dụng trí tuệ nhân tạo (AI) nhiều hơn, để tự động hóa và cá nhân hóa các cuộc tấn công lừa đảo, nhằm dễ dàng đánh lừa các game thủ trẻ.
+
+Bộ công cụ phục vụ mục đích tấn công lừa đảo nâng cao như: template trang giả mạo được tạo sẵn bằng những công cụ tự động- liên tục xuất hiện trên web đen. Điều này lý giải vì sao ngày càng có nhiều kẻ tấn công sử dụng các trang lừa đảo tinh vi, mô phỏng nền tảng game phổ biến.
+
+Một trong những chiêu trò lừa đảo phổ biến nhất nhắm vào game thủ trẻ hiện nay là lời chào mời nhận “skin” mới cho nhân vật. “Skin” thường là trang phục hoặc áo giáp giúp nâng cao kỹ năng hoặc sức mạnh. Một số “skin” khá phổ biến, trong khi số khác lại rất khan hiếm, trở thành vật phẩm được cộng đồng game thủ săn đón.
+
+Quan theo dõi, phân tích, các chuyên gia đã phát hiện trò lừa đảo sử dụng cả tên game nổi tiếng Valorant và YouTuber đình đám Mr. Beast. Những kẻ lừa đảo sử dụng hình ảnh của Mr. Beast để thu hút sự chú ý của trẻ em, lôi kéo các nạn nhân vào bẫy.
+
+Để nhận “skin” độc quyền của Mr. Beast, tội phạm mạng yêu cầu nạn nhân cung cấp tên đăng nhập và mật khẩu tài khoản, từ đó đánh cắp thông tin cá nhân.
+
+Ngoài ra, một trong những chiêu trò lừa đảo phổ biến khác mà game thủ dễ mắc phải là những lời mời hấp dẫn về việc nhận được tiền ảo miễn phí dùng trong game. Trong vụ lừa đảo mới được phát hiện, lợi dụng thương hiệu Pokémon GO, tội phạm mạng yêu cầu người dùng nhập tên đăng nhập tài khoản, sau đó tham gia một cuộc khảo sát để chứng minh họ không phải là bot tự động.
+
+Sau khi hoàn thành khảo sát, người dùng sẽ bị chuyển hướng đến một trang web giả mạo, thường hứa hẹn giải thưởng hoặc quà tặng miễn phí. Những kẻ lừa đảo không thực sự nhắm đến dữ liệu cá nhân như chi tiết thẻ tín dụng, mà sử dụng vỏ bọc của trò chơi để dẫn dắt người dùng tham gia vào một trò lừa đảo khác, như tải xuống phần mềm, ứng dụng, tệp giả mạo, đăng ký để nhận thưởng, hoặc các lời đề nghị khác. Toàn bộ quá trình này là một chiêu trò tinh vi nhằm chuyển hướng người dùng đến trò lừa đảo nguy hiểm hơn, dưới lớp vỏ bọc của bước xác minh hợp lệ.
+
+Chuyên gia bảo mật Kaspersky, ông Vasily M. Kolesnikov cho biết trong quá trình nghiên cứu nhận thấy các cuộc tấn công nhắm vào trẻ em đang ngày càng trở thành phương thức hoạt động phổ biến của tội phạm mạng. Đó là lý do tại sao việc giáo dục an toàn mạng cho trẻ em và sử dụng các giải pháp bảo mật đáng tin cậy là điều bắt buộc để xây dựng môi trường trực tuyến an toàn.
+
+“Chúng ta cần nuôi dưỡng tư duy phản biện, hành vi trực tuyến có trách nhiệm, giúp trẻ hiểu rõ các rủi ro tiềm ẩn. Hành động này sẽ tạo tiền đề tạo nên trải nghiệm trực tuyến tích cực, an toàn hơn, cho thế hệ sinh ra và lớn lên cùng thế giới kỹ thuật số”, ông Vasily M. Kolesnikov nói.

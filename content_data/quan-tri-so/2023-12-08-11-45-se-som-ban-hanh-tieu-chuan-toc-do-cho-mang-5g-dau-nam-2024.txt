@@ -1,0 +1,23 @@
+Tại Hội nghị, Bộ trưởng Bộ Thông tin và Truyền thông Nguyễn Mạnh Hùng đã chỉ ra các biện pháp, giải pháp khắc phục khó khăn, vướng mắc cho các cơ quan, đơn vị thuộc Bộ trong việc thực hiện nhiệm vụ được giao thuộc trên một số lĩnh vực, như: Viễn thông, bưu chính, xuất bản, phát thanh truyền hình… Đồng thời định hướng một số nội dung cần triển khai thực hiện.
+
+Về lĩnh vực viễn thông, Bộ trưởng nhấn mạnh, các doanh nghiệp viễn thông cần phát triển 5G và đảm bảo chất lượng của dịch vụ 5G. Bộ Thông tin và Truyền thông sẽ công bố tiêu chuẩn tốc độ, chất lượng 5G để doanh nghiệp có căn cứ công bố 5G của mình.
+
+Để đảm bảo chất lượng 5G, theo Bộ trưởng Nguyễn Mạnh Hùng, các doanh nghiệp viễn thông cần chi cho nghiên cứu phát triển với tỷ lệ từ 15-20%. Đặc biệt là phát triển các hạ tầng mới như AI. Ngoài ra, các nhà mạng cũng cần thành lập Viện nghiên cứu AI, hay công ty AI để phát triển AI như là một dịch vụ đáp ứng cho sự phát triển của các lĩnh vực.
+
+Bộ trưởng giao Thứ trưởng Phạm Đức Long chỉ đạo các Vụ, Cục chức năng sớm xây dựng để ban hành tiêu chuẩn tốc độ cho mạng 5G. Trước khi công bố 5G trong đầu năm 2024 thì phải đo lường được tốc độ của mạng 5G.
+
+Về lĩnh vực viễn thông, tính đến tháng 11/2023, tỷ lệ hộ gia đình sử dụng cáp quang đạt 79,1 % tăng 7,8% so với cùng kỳ 11/2022. Số thuê bao sử dụng điện thoại thông minh đạt 100,4 triệu thuê bao tăng 6 % so với cùng kỳ tháng 11/2022. Số thuê bao BRDĐ đạt 84,9 triệu thuê bao (tương ứng với 85,3 thuê bao/100 dân) tăng 2,4 % so với cùng kỳ tháng 11/2022. Tốc độ băng rộng cố định của Việt Nam (tháng 10/2023) đạt 104,08 Mbps, xếp thứ 41/181 quốc gia/vùng lãnh thổ, tăng 31,9% so với cùng kỳ năm ngoái. Tốc độ băng rộng di động đạt 44,92 Mbps xếp thứ 57/181 quốc gia/vùng lãnh thổ, tăng 13,8% so với cùng kỳ năm ngoái.
+
+Theo thống kê của Bộ Thông tin và Truyền thông, trong tháng 11/2023, hệ thống cảnh báo ghi nhận 915 cuộc tấn công mạng, tăng 9,3% so với cùng kỳ tháng 11/2022 (837 cuộc). Trong đó, IP botnet là 456.699 địa chỉ, giảm 4,7% so với cùng kỳ tháng 11/2022 (479.115 địa chỉ).
+
+Về công tác đấu tranh với các nền tảng mạng xã hội xuyên biên giới, trong tháng 11/2023, Facebook đã chặn, gỡ bỏ hơn 246 bài viết vi phạm; gỡ bỏ 6 tài khoản giả mạo và 66 group vi phạm với số lượng thành viên lên đến hơn 200 nghìn người; gỡ 17 trang quảng cáo, mua bán hóa đơn trái phép (tỷ lệ 90%).
+
+Ngoài ra, Google đã gỡ 262 video vi phạm trên Youtube (tỷ lệ 96%); gỡ 3 tài khoản có nội dung chống phá Đảng, Nhà nước chứa hơn 11.366 video. TikTok đã chặn gỡ 12 nội dung vi phạm (tỷ lệ 92%), xóa 10 tài khoản có nội dung vi phạm.
+
+Đặc biệt, tỷ trọng kinh tế số/GDP của quý III năm 2023 ước tính đạt 16,56%, tăng trưởng 8,5% so với quý II năm 2023. Tỷ trọng kinh tế số/GDP 9 tháng đầu năm 2023 ước tính đạt 15,52%.
+
+Tháng 10/2023, ghi nhận tổng số lượt tải ứng dụng mới trên thiết bị di động đạt hơn 237 triệu lượt tải với top 3 nhóm ứng dụng được tải về nhiều nhất tháng là: Ứng dụng phục vụ đọc tin tức, báo chí; ứng dụng quản lý dữ liệu từ thiết bị điện tử đeo; ứng dụng tài chính ngân hàng.
+
+Nhóm ứng dụng dẫn đầu về số lượng tài khoản người dùng sử dụng nhiều nhất tháng 10/2023 (với trên 10 triệu tài khoản hoạt động) thuộc về Zalo, Zing, Báo Mới, VneID, Ví MoMo, MB Bank, My Viettel, Vietcombank.
+
+Bộ Thông tin và Truyền thông cũng sẽ sơ kết Chiến lược quốc gia phát triển kinh tế số và xã hội số đến năm 2025, định hướng đến năm 2030; tổ chức Diễn đàn quốc gia về phát triển doanh nghiệp công nghệ số Việt Nam lần thứ V và Lễ trao giải Giải thưởng Sản phẩm công nghệ số Make in Viet Nam năm 2023; công bố kết quả đánh giá mức độ trưởng thành chuyển đổi số báo chí năm 2023; tổ chức trao giải Cuộc thi ảnh, video “Việt Nam hạnh phúc - Happy Vietnam” dành cho người Việt Nam và người nước ngoài năm 2023.

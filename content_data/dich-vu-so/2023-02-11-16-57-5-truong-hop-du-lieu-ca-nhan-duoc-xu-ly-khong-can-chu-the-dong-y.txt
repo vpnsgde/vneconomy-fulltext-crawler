@@ -1,0 +1,37 @@
+Chính phủ vừa ban hành Nghị quyết số 13/NQ-CP ngày 7/2/2023 thông qua hồ sơ xây dựng Nghị định bảo vệ dữ liệu cá nhân. Trong đó, đồng ý quy định 5 trường hợp dữ liệu cá nhân được xử lý không cần sự đồng ý của chủ thể dữ liệu.
+
+Một là,bảo vệ tính mạng, sức khỏe của chủ thể dữ liệu hoặc người khác trong tình huống khẩn cấp. Theo đó, bên kiểm soát dữ liệu cá nhân, bên Xử lý dữ liệu cá nhân, bên Kiểm soát và xử lý dữ liệu cá nhân, bên thứ ba có trách nhiệm chứng minh trường hợp này.
+
+Hai là,công khai dữ liệu cá nhân theo quy định của luật.
+
+Ba là,việc xử lý dữ liệu của cơ quan nhà nước có thẩm quyền trong trường hợp tình trạng khẩn cấp về quốc phòng, an ninh quốc gia, trật tự an toàn xã hội, thảm họa lớn, dịch bệnh nguy hiểm; khi có nguy cơ đe dọa an ninh, quốc phòng nhưng chưa đến mức ban bố tình trạng khẩn cấp; phòng, chống bạo loạn, khủng bố, phòng, chống tội phạm và vi phạm pháp luật theo quy định của luật.
+
+Bốn là,thực hiện nghĩa vụ theo hợp đồng của chủ thể dữ liệu với cơ quan, tổ chức, cá nhân có liên quan theo quy định của luật.
+
+Năm là,phục vụ hoạt động của cơ quan nhà nước đã được quy định theo luật chuyên ngành.
+
+Theo tờ trình của Chính phủ, việc quy định xử lý dữ liệu cá nhân trong trường hợp không cần sự đồng ý của chủ thể dữ liệu xuất phát từ yêu cầu bảo đảm phù hợp với thông lệ quốc tế, khi nhiều quốc gia đã ban hành quy định về bảo vệ dữ liệu cá nhân đều có nội dung đó.
+
+Ngoài ra, việc này cũng nhằm đáp ứng yêu cầu thực tiễn, cần được quy định để bảo đảm quốc phòng, an ninh, trật tự xã hội, đấu tranh phòng chống các hoạt động vi phạm pháp luật, bảo đảm hoạt động của cơ quan nhà nước, phát triển kinh tế xã hội; bảo đảm quyền con người, quyền công dân, bảo đảm quyền của chủ thể dữ liệu trong trường hợp xảy ra sự cố, không ảnh hưởng tới quyền công dân.
+
+Theo đánh giá của nhiều chuyên gia, Việt Nam là một trong những quốc gia có tốc độ phát triển Internet cao nhất thế giới. Bên cạnh đó, Chính phủ đang quyết liệt chỉ đạo đẩy mạnh xây dựng Chính phủ điện tử, hướng tới Chính phủ số, nền kinh tế số và đã đạt được nhiều kết quả quan trọng. Tuy nhiên, tình trạng lộ, lọt, hoạt động đánh cắp, mua bán dữ liệu cá nhân hiện đang diễn ra phổ biến ở hầu hết các quôc gia trên thế giới trong đó có Việt Nam.
+
+Liên minh châu Âu đã ban hành Luật Bảo vệ dữ liệu chung châu Âu (GDPR) vào tháng 5/2018. GDPR yêu cầu các doanh nghiệp phải tuân thủ các quy định cụ thể, rõ ràng về cách thu thập thông tin cá nhân, địa điểm lưu trữ dữ liệu, loại hình dữ liệu được phép chia sẻ, khai thác. Bất kỳ doanh nghiệp nào vi phạm sẽ có nguy cơ đối mặt với mức phạt lên tới 20 triệu Euro hoặc 4% doanh thu toàn cầu hàng năm.
+
+Những năm qua, nhiều nước có các cơ quan giám sát bảo vệ dữ liệu cá nhân liên tục mở cuộc điều tra nhằm vào các công ty công nghệ. Vào tháng 8 năm 2022, Cơ quan Giám sát quyền bảo mật dữ liệu Pháp (CNIL) đã mở cuộc điều tra sơ bộ với ứng dụng TikTok. Ứng dụng TikTok cũng bị các cơ quan quản lý của Mỹ, Liên minh châu Âu (EU) và Hà Lan điều tra nghi vấn vi phạm luật bảo mật. Họ lo ngại với những dữ liệu cá nhân mà TikTok thu thập và xử lý có thể gây ra nguy cơ an ninh.
+
+Không chỉ có Tik tok của ByteDance mà nhiều công ty công nghệ khác đã từng bị điều tra hoặc chịu các án phạt hàng tỷ USD vì những hành vi thu thập trái phép dữ liệu người dùng qua các ứng dụng di động. Hồi cuối năm 2018, Ủy ban Bảo vệ Dữ liệu (DPC) của Ireland - cơ quan thực hiện giám sát các công ty theo Luật Bảo vệ dữ liệu chung châu Âu (GDPR) đã mở hơn một chục cuộc điều tra vào các công ty công nghệ lớn bao gồm Facebook, Apple, Google và Twitter.
+
+Tháng 7/2019, Facebook bị Ủy ban Thương mại Mỹ (FTC) phạt 5 tỷ USD vì bê bối dữ liệu Cambridge Analytica để lộ dữ liệu của hơn 50 triệu người dùng. Tháng 9/2019, FTC đã phạt Google 150 triệu USD vì thu thập dữ liệu trẻ em trái phép qua ứng dụng Youtube.
+
+Ngoài ra, Nhật Bản đã ban hành Luật Bảo vệ thông tin cá nhân (APPI) vào tháng 5/2017, điều chỉnh đối với tất cả các công ty kinh doanh có trụ sở tại Nhật Bản hay ở nước ngoài kinh doanh tại Nhật Bản, thành lập Ủy ban bảo vệ thông tin cá nhân (PPC), tăng cường quản lý các doanh nghiệp nước ngoài liên quan đến hoạt động Internet như Google, Facebook, Amazon…
+
+Israel đã ban hành Quy định bảo mật dữ liệu vào tháng 5/2017, tiến hành quy trình kiểm toán đối với hơn 150 công ty thuộc các lĩnh vực khác nhau để đánh giá mức độ tuân thủ bảo mật dữ liệu, thành lập Cơ quan bảo vệ quyền riêng tư.
+
+Tại khu vực Đông Nam Á, ngoại trừ Singapore đã có đạo luật riêng về bảo vệ dữ liệu cá nhân thì hầu hết các quốc gia còn lại cũng giống như Việt Nam đều chưa có Luật Bảo vệ dữ liệu cá nhân.
+
+Tại Việt Nam, việc bảo vệ bí mật đời sống riêng tư và bí mật thông tin của cá nhân đã được Nhà nước Việt Nam công nhận và bảo vệ. Trong đó, Hiến pháp năm 2013 đã mở rộng một cách toàn diện phạm vi quy định quyền được bảo vệ bí mật đời sống riêng tư, bí mật cá nhân, bí mật gia đình.
+
+Bên cạnh đó, Luật An toàn thông tin mạng năm 2015, quy định Tổ chức, cá nhân xử lý thông tin cá nhân có trách nhiệm: Tiến hành thu thập thông tin cá nhân sau khi có sự đồng ý của chủ thể thông tin cá nhân về phạm vi, mục đích của việc thu thập và sử dụng thông tin đó; Chỉ sử dụng thông tin cá nhân đã thu thập vào mục đích khác mục đích ban đầu sau khi có sự đồng ý của chủ thể thông tin cá nhân; Không được cung cấp, chia sẻ, phát tán thông tin cá nhân mà mình đã thu thập, tiếp cận, kiểm soát cho bên thứ ba, trừ trường hợp có sự đồng ý của chủ thể thông tin cá nhân đó hoặc theo yêu cầu của cơ quan nhà nước có thẩm quyền.
+
+Các chuyên gia cũng cho rằng, để nâng cao hiệu qua thực thi pháp luật về bảo vệ dữ liệu cá nhân Việt Nam cũng cần thành lập Uỷ ban quốc gia về bảo vệ dữ liệu cá nhân với chức năng như: tham mưu, tư vấn cho Chính phủ, tổ chức, cá nhân; Nâng cao nhận thức thông qua các hoạt động giáo dục; Giám sát thực hiện pháp luật về bảo vệ dữ liệu cá nhân; Điều tra và xử lý hành vi có dấu hiệu vi phạm pháp luật về bảo vệ dữ liệu cá nhân.

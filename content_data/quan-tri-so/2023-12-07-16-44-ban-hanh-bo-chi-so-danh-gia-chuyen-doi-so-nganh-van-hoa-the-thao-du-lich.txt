@@ -1,0 +1,21 @@
+Bộ Văn hóa, Thể thao và Du lịch vừa có Quyết định số 3708/QÐ-BVHTTDL ban hành Bộ chỉ số đánh giá chuyển đổi số của các đơn vị quản lý nhà nước và các đơn vị sự nghiệp công lập phục vụ chức năng quản lý nhà nước thuộc Bộ Văn hóa, Thể thao và Du lịch…
+
+Bộ chỉ số đánh giá chuyển đổi số (DTI) được ban hành nhằm theo dõi, đánh giá một cách thực chất, khách quan và công bằng kết quả thực hiện chuyển đổi số hằng năm của các đơn vị thuộc Bộ; Đánh giá được hiện trạng thực hiện chuyển đổi số hằng năm để thúc đẩy chuyển đổi số ở các cơ quan đơn vị thuộc Bộ.
+
+Đồng thời, xác định được thang điểm, phương pháp đánh giá cho các chỉ số chính, chỉ số thành phần, từ đó xác định được giá trị DTI của Bộ. Bên cạnh đó, bộ chỉ số còn góp phần phát hiện các điển hình, mô hình chuyển đổi số làm tốt để nhân rộng, tạo phong trào thực hiện chuyển đổi số trong toàn ngành.
+
+Bộ chỉ số gồm 07 nhóm tiêu chí thành phần, bao gồm: Thông tin chung; Nhận thức số; Thể chế số; Hạ tầng số; Nhân lực số; An toàn thông tin mạng; Hoạt động chuyển đổi số.
+
+Về thang điểm đánh giá, thang điểm đánh giá đối với các đơn vị có thủ tục hành chính là 640 điểm; thang điểm đối với các đơn vị không có thủ tục hành chính là 500 điểm.
+
+Ngoài ra, về phương pháp và trình tự đánh giá được thực hiện theo 2 bước. Bước 1, đơn vị tự đánh giá với các chỉ số thành phần do cơ quan, đơn vị cung cấp số liệu và tự đánh giá được thể hiện tại mục "Điểm tự đánh giá" trên phần mềm. Số liệu báo cáo, đánh giá của cơ quan, đơn vị theo từng chỉ số thành phần sẽ do đơn vị nhập vào Phần mềm và được tự động tính toán điểm số.
+
+Điểm số này được tự động thay đổi liên tục theo kỳ cập nhật số liệu. Cơ quan, đơn vị có thể theo dõi được thay đổi điểm số của mình mỗi khi có số liệu mới của các chỉ số thành phần đánh giá được cập nhật vào phần mềm.
+
+Bước 2, Trung tâm Công nghệ thông tin đánh giá. Trung tâm Công nghệ thông tin sẽ thực hiện đánh giá độc lập các chỉ số thành phần có số liệu qua các hệ thống thông tin. Điểm tự đánh giá của cơ quan, đơn vị được Trung tâm Công nghệ thông tin chủ trì, phối hợp với các cơ quan liên quan thẩm định để xem xét, công nhận hoặc điều chỉnh nếu cần thiết. Kết quả điểm do Trung tâm Công nghệ thông tin quyết định được thể hiện tại mục "Trung tâm Công nghệ thông tin đánh giá" trên Phần mềm.
+
+Được biết, việc công bố kết quả đánh giá DTI của Bộ do Trung tâm Công nghệ thông tin thực hiện và công bố hằng năm. Kết quả đánh giá, xếp hạng được công bố công khai trên Cổng thông tin điện tử của Bộ tại địa chỉ: https://bvhttdl.gov.vn
+
+Để triển khai thực hiện, Bộ Văn hóa, Thể thao và Du lịch giao Trung tâm Công nghệ thông tin hằng năm, xây dựng Kế hoạch triển khai xác định mức độ chuyển đổi số; theo dõi, đôn đốc, hướng dẫn các đơn vị triển khai rà soát, tập hợp số liệu, đánh giá, tự chấm điểm theo Bộ chỉ số chuyển đổi số của các đơn vị quản lý nhà nước và các đơn vị sự nghiệp công lập phục vụ chức năng quản lý nhà nước thuộc Bộ.
+
+Đồng thời, định kỳ hằng năm vào quý 4, chủ trì phối hợp với các đơn vị thuộc Bộ và các đơn vị có liên quan tổ chức đánh giá, xếp hạng trình Lãnh đạo Bộ phê duyệt và công bố công khai kết quả chuyển đổi số của các đơn vị quản lý nhà nước và các đơn vị sự nghiệp công lập phục vụ chức năng quản lý nhà nước thuộc Bộ theo quy định.

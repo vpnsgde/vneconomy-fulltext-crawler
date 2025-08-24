@@ -1,0 +1,29 @@
+Một khu vực rộng hơn 6 héc ta nằm giữa khu công nghiệp Borneo đã bị bỏ hoang từ rất lâu. Tuy nhiên đến năm 2023, một ngành công nghiệp khai thác mới đã xuất hiện và thay đổi nơi này chính là hoạt động đào Bitcoin. Việc khai thác bitcoin đã thay đổi khu vực này với hiện có hơn 1.000 chiếc máy đang “gầm rú”, trong khi hàng trăm chiếc khác nằm gần đó đang nằm trong các hộp chờ được "đập hộp".
+
+Địa điểm ở Tanjung Manis, Sarawak, là địa điểm lớn nhất trong số bốn cơ sở khai thác bitcoin trong khu vực do công ty khai thác Bityou điều hành. Chủ sở hữu công ty - ông Peter Lim đã chọn địa điểm này sau khi ông buộc phải đóng cửa một giàn khoan lớn hơn có công suất 10.000 máy, công suất 20 megawatt ở Trung Quốc sau lệnh cấm đối với các công ty khai thácBitcoinvào năm 2021.
+
+Lim là một trong nhiều thợ đào đang nổi lên ở khu vực Đông Nam Á và cho rằng các hoạt động của Bityou là hoàn toàn minh bạch. Trung Quốc từng là quốc gia thống trị về khai thác Bitcoin - một quá trình sử dụng sức mạnh tính toán để giải các câu đố mã hóa, sau đó đổi lấy token mới. Theo dữ liệu do Đại học Cambridge thu thập, năm 2019, Trung Quốc chiếm khoảng 3/4 hoạt động đào bitcoin trên toàn cầu. Nhưng khi chính quyền Trung Quốc tuyên bố rằng bất kỳ giao dịch nào liên quan đến tiền điện tử sẽ bị coi là hoạt động tài chính bất hợp pháp, ngành công nghiệp này đã bị tàn phá.
+
+Tính từ 2013 đến nay, Bitcoin đã chứng kiến mức tăng trưởng “phi mã” đến 5 chữ số, nhưng liệu 10 năm nữa, giá Bitcoin có tiếp tục tăng thêm 12.000%?
+
+Alex Loh, đồng nghiệp của Lim tại Bityou cho biết khoảng 3.000 chiếc máy móc của ông đã bị thu giữ tại mỏ mà ông từng điều hành ở Nội Mông. Ông cũng là cổ đông của một nhà máy có công suất 120 MW ở tỉnh Tứ Xuyên và cũng chịu số phận tương tự. “Chúng tôi đã dành khoảng ba tháng để xây dựng nơi đó. Nhưng khi bắt đầu hoạt động chưa đầy một tháng, chúng tôi phải dừng lại”.
+
+Bất chấp sự kiểm soát khai thác của Trung Quốc, giá Bitcoin đã tăng phi mã kể từ đầu năm đến nay, một phần nhờ vào hoạt động thông qua quỹ ETF Bitcoin giao ngay của Mỹ. Theo dữ liệu được theo dõi bởi The Block Research, sự quan tâm ngày càng lớn đến bitcoin đã mang lại lợi ích cho các thợ mỏ - những người đã kiếm được doanh thu 960 triệu USD trong tháng 5. Hiệu suất mạnh mẽ của Bitcoin nhờ một phần tác động của sự kiện “halving” vào tháng 4 - một sự kiện bốn năm một lần nhằm cắt giảm phần thưởng mà các thợ đào kiếm được khi duy trì mạng.
+
+Cũng theo dữ liệu của Đại học Cambridge, Mỹ đã trở thành nước dẫn đầu toàn cầu về hashrate (tỷ lệ băm - thước đo sức mạnh tính toán được sử dụng để xử lý các giao dịch trên mạng Bitcoin) vào tháng 1 năm 2022. Hiện nay các quốc gia Đông Nam Á cũng đang leo hạng khi Malaysia đóng góp 2,5% hashrate toàn cầu, xếp hạng nước này trong số 10 quốc gia hàng đầu vào năm 2022. Alexander Neumüller, trưởng nhóm nghiên cứu tại Cambridge, cho biết kết quả sơ bộ từ nghiên cứu khai thác gần đây hơn cho thấy hoạt động ở Indonesia cũng đã tăng rõ rệt trong cùng thời điểm.
+
+Lim cho biết, sự sẵn có của nguồn điện với giá cạnh tranh, lao động lành nghề và quan trọng nhất là cơ sở hạ tầng có sẵn đã làm tăng thêm sức hấp dẫn của khu vực đối với các thợ mỏ.
+
+Các giàn khoan đang xuất hiện khắp Đông Nam Á trong các trung tâm mua sắm bỏ hoang, các nhà máy thép cũ và bên cạnh các dự án thủy điện khi các thợ mỏ cố gắng tìm kiếm những địa điểm mà họ có thể tiếp cận nguồn điện dồi dào mà họ cần.
+
+Các nhà sản xuất giàn khai thác đã theo chân các thợ mỏ đến Đông Nam Á, chuyển một số hoạt động sang khu vực này khi họ tìm cách đáp ứng nhu cầu đang phát triển. Không chỉ vậy còn nhằm mục đích tránh thuế quan của Mỹ đối với Trung Quốc. Theo Ben Gagnon, Giám đốc khai thác tại Bitfarms, trước thời điểm năm 2018 (khi cựu Tổng thống Donald Trump áp thuế 25% đối với một loạt hàng hóa điện tử từ Trung Quốc) hoạt động sản xuất giàn khoan Bitcoin gần như hoàn toàn có trụ sở tại Thâm Quyến và Quảng Châu.
+
+“Phần lớn các máy khai thác hiện nay được sản xuất tại Malaysia” Gagnon, người đã đến thăm các cơ sở sản xuất ở Penang và Indonesia để tiến hành kiểm soát chất lượng cho công ty khai thác có trụ sở tại Toronto cho biết. Ông chia sẻ thêm rằng cũng có các địa điểm sản xuất khác ở Thái Lan, Indonesia, Đài Loan, Mỹ.
+
+Nhiều công ty đang bén rễ ở những nơi không ngờ tới, thường dẫn đến sự tồn tại bấp bênh do sự thay đổi thường xuyên trong lập trường của các cơ quan quản lý cũng như các điều kiện có xu hướng ủng hộ các công ty quy mô nhỏ hơn.
+
+Hoạt động khai thác mỏ ở Lào, nơi có ngành thủy điện đang phát triển đã bị đình trệ do đợt hạn hán khắc nghiệt trong năm nay và công ty điện lực nhà nước đã rút nguồn cung cấp điện từ các thợ mỏ. Ngày nay, khai thác tiền điện tử chiếm hơn 1/3 tổng nhu cầu năng lượng trong nước, Somboun Sangxayarath, cố vấn tại Electricite Du Laos cho hay.
+
+Các cuộc đột kích của cảnh sát đối với những người khai thác Bitcoin hút năng lượng bất hợp pháp là chuyện thường xuyên xảy ra ở Malaysia, Indonesia và Lào. Theo Takiyuddin Hassan, Bộ trưởng năng lượng và tài nguyên thiên nhiên của Malaysia,, hành vi trộm cắp điện của những người khai thácBitcoinđã khiến Malaysia thiệt hại ước tính khoảng 2,3 tỷ ringgit (tương đương 550 triệu USD) và con số này còn tăng vào đầu năm 2022.
+
+Bất chấp những thách thức, dự kiến sẽ có sự tăng trưởng đáng kể trong cả khai thác Bitcoin và sản xuất máy đào. Taras Kulyk, người sáng lập và CEO của SunnySide Digital, nhà phân phối phần cứng trung tâm dữ liệu cho biết: “Đông Nam Á đã sẵn sàng cất cánh trong vài năm tới".

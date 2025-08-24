@@ -1,0 +1,31 @@
+Đây là Trung tâm dữ liệu AI được đặt tại thành phố Gwangju, phía tây nam Hàn Quốc, là một phần của khu tổ hợp công nghiệp AI, được Chính phủ Hàn Quốc đầu tư xây dựng với mục tiêu hỗ trợ các trường đại học và doanh nghiệp nhỏ Hàn Quốc tiếp cận hệ thống máy tính hiệu năng cao.
+
+Từ năm 2020 - 2024, trung tâm được đầu tư gần 90 tỷ won (tương đương 65 triệu USD) để mua sắm hơn 2.000 chip AI, trong đó có 880 GPU H100 hiện đại của Nvidia. Tuy nhiên, bước sang năm nay, trung tâm không nhận được thêm bất kỳ khoản tài trợ nào, khiến hàng loạt hoạt động bị đình trệ.
+
+Giáo sư Lim Kyung-tae của Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc (KAIST), người đang phát triển mô hình ngôn ngữ Hàn Quốc, cũng đã phải tạm dừng dự án nghiên cứu đầu năm nay.
+
+“Chúng tôi đã duy trì được nghiên cứu nhờ vào hỗ trợ từ chính phủ. Nhưng giờ đây, sinh viên không còn cơ hội tiếp cận với trải nghiệm thực tiễn”, Giáo sư Lim Kyung-tae chia sẻ.
+
+
+
+“Thế giới đang tăng tốc phát triển AI. Nếu chúng ta vấp phải những ‘cú hụt hơi’ vì thiếu ngân sách, chúng ta sẽ bị bỏ lại phía sau”
+
+Một chuyên gia Hàn Quốc nhận định
+
+Tờ Chosun Daily (Hàn Quốc) nhận định sự chững lại của trung tâm dữ liệu AI Gwangju đặt ra dấu hỏi lớn về tính nhất quán trong chính sách phát triển AI của Hàn Quốc. Dù chính phủ nhiều lần tuyên bố sẽ đầu tư mạnh tay vào AI, từ nghiên cứu chip đến phát triển siêu máy tính, thì thực tế lại cho thấy một nghịch lý: hạ tầng đang vận hành cũng không được đảm bảo ngân sách duy trì.
+
+Hiện trung tâm Gwangju do công ty tư nhân NHN Cloud quản lý và vận hành. Trong khi chính phủ từng đầu tư gần 90 tỷ won để hỗ trợ quyền truy cập GPU cho các tổ chức nghiên cứu, năm nay lại không có khoản tài trợ nào mới. Điều này khiến khả năng sử dụng bị hạn chế đáng kể, đặc biệt là với các nhóm nghiên cứu nhỏ và doanh nghiệp khởi nghiệp – những đối tượng vốn phụ thuộc vào hạ tầng chung.
+
+Năm ngoái, trung tâm hoạt động tối đa công suất, hỗ trợ tới 1.186 dự án từ 873 công ty và viện nghiên cứu. Tính từ năm 2021 đến nay, đã có gần 2.000 dự án được hưởng lợi. Nhưng chỉ sau một năm, tình hình đã thay đổi, công suất sử dụng giảm xuống còn 50%. Hiện chỉ một nửa số GPU được khai thác, trong đó khoảng 30% vẫn hoạt động nhờ hợp đồng dài hạn với NHN Cloud kéo dài đến năm 2029, phần còn lại phụ thuộc vào ngân sách còn sót lại từ các năm trước.
+
+Kết quả là số lượng dự án được hỗ trợ sụt giảm mạnh. Từ 125 dự án năm 2021 tăng đều qua các năm, chạm đỉnh với 1.186 dự án vào năm ngoái. Nhưng đến nay, trong năm 2025, con số chỉ còn 121, tức chưa tới 1/10 so với cùng kỳ năm trước.
+
+Nguyên nhân chính đến từ sự chậm trễ trong khâu lập kế hoạch ngân sách. Bộ Khoa học và Công nghệ Thông tin Hàn Quốc từng đề xuất một chương trình mới nhằm hỗ trợ GPU thông qua sáng kiến thử nghiệm AI, nhưng do bỏ lỡ thời hạn phê duyệt, ngân sách cho năm nay không được thông qua. Bộ này cho biết việc phối hợp chậm trễ giữa các cơ quan trung ương, địa phương và Bộ Tài chính đã khiến quy trình bị đình trệ.
+
+Hiện nay, đề xuất ngân sách điều chỉnh cho trung tâm Gwangju đang phải chờ thẩm định tính khả thi sơ bộ, đồng nghĩa với việc nguồn vốn mới khó có thể được cấp trước năm sau.
+
+Các chuyên gia trong ngành cảnh báo, sự gián đoạn này có thể làm xói mòn vị thế của Hàn Quốc trong cuộc đua AI toàn cầu. “Thế giới đang tăng tốc phát triển AI. Nếu chúng ta vấp phải những ‘cú hụt hơi’ vì thiếu ngân sách, chúng ta sẽ bị bỏ lại phía sau”, một chuyên gia nhận định.
+
+Được biết, Chính phủ Hàn Quốc vẫn tiếp tục đưa ra các kế hoạch đầy tham vọng, trong đó có việc xây dựng Trung tâm Điện toán AI Quốc gia và mục tiêu triển khai 10.000 GPU tiên tiến ngay trong năm nay, với tổng vốn đầu tư lên tới 1,46 nghìn tỷ won.
+
+Tuy vậy, các nhà quan sát cảnh báo rằng nếu không đi kèm cơ chế tài trợ ổn định và triển khai đồng bộ, ngay cả những khoản đầu tư lớn cũng có thể rơi vào tình cảnh “xây xong rồi để đấy".

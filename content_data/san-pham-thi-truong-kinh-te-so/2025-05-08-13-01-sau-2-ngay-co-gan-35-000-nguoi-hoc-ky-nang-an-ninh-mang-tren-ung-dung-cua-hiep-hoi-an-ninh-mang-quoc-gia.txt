@@ -1,0 +1,15 @@
+Khóa học với tên gọi “Cẩm nang an ninh mạng” nhằm trang bị kiến thức cơ bản về an toàn thông tin, giúp người dùng nhận diện các rủi ro mạng thường gặp, phòng tránh lừa đảo trực tuyến và bảo vệ thông tin cá nhân trong môi trường số. Người dùng có thể tham gia bằng máy vi tính hoặc điện thoại thông minh bằng cách truy cập nCademy.vn và bấm nút “Tham gia” trong mục “Cẩm nang an ninh mạng”.
+
+“Chúng tôi thiết kế cẩm nang sao cho thật dễ học, dễ nhớ, dễ thực hành để tiếp cận được nhiều người. Cẩm nang bao gồm các tình huống thực tế, được trình bày dưới dạng clip hoạt hình ngắn. Sau khi xem từng tình huống, người học sẽ trả lời câu hỏi trắc nghiệm, thông qua đó được hướng dẫn cụ thể về kỹ năng an toàn, chống lừa đảo được đúc rút từ các chuyên gia của Hiệp hội”, ông Vũ Ngọc Sơn, Trưởng ban Nghiên cứu công nghệ, Hiệp hội An ninh mạng quốc gia, cho biết.
+
+Năm tình huống được đưa ra trong khóa học là những tình huống lừa đảo, tấn công mạng phổ biến nhất trong thời gian qua. Bao gồm: Nhận được cuộc gọi từ người xưng là công an và yêu cầu làm theo hướng dẫn; Tìm được gói khách sạn và vé máy bay giá rẻ cho kỳ nghỉ; Nhận được tin nhắn phát hiện lộ lọt nội dung riêng tư, nhạy cảm; Được thông báo trúng thưởng từ chương trình quay số may mắn; Nhận thông báo điện thoại bị nhiễm virus cần phải tải phần mềm để xử lý.
+
+Theo Hiệp hội An ninh mạng quốc gia, các khóa đào tạo miễn phí sẽ được cung cấp liên tục trên Nền tảng nCademy. Định kỳ các chuyên gia sẽ rà soát, cập nhật thêm các tình huống, thủ đoạn mới của tội phạm, giúp người dùng rèn luyện ý thức luôn cảnh giác trước các nguy cơ lừa đảo hoặc tấn công mạng thường trực trên không gian mạng.
+
+nCademy là nền tảng đào tạo trực tuyến do Hiệp hội An ninh mạng quốc gia phát triển và vận hành, được giới thiệu tới công chúng lần đầu vào ngày 11/4/2025. Nền tảng được xây dựng với mục tiêu tạo một cộng đồng học tập, hỗ trợ từ nâng cao nhận thức đến nghiên cứu chuyên sâu về an ninh mạng.
+
+Các khóa học đều do tổ chức, doanh nghiệp an ninh mạng uy tín, là thành viên của Hiệp hội thiết kế, xây dựng. Chất lượng các khoá học được kiểm định, giám sát bởi Hội đồng chuyên môn thuộc Hiệp hội An ninh mạng quốc gia.
+
+Các khóa học mang tính tuyên truyền, phổ cập kiến thức sẽ được cung cấp miễn phí, người dùng chỉ cần có thiết bị nối mạng Internet là có thể tham gia, từ bất kỳ đâu, thời gian tùy chọn.
+
+Trong khi các khóa học chuyên sâu hơn, cần môi trường thực hành hoặc có giảng viên hướng dẫn sẽ thu phí người học để duy trì hạ tầng và phát triển nội dung. Bên cạnh khóa học miễn phí Cẩm nang an ninh mạng, hiện nay Hiệp hội cũng cung cấp 3 khoá học thu phí khác là An ninh mạng cơ bản (dành cho người đi làm), An ninh mạng cho nhà quản lý và Chuyên gia an ninh mạng (dành cho các cán bộ phụ trách vận hành hệ thống).

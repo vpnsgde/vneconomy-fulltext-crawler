@@ -1,0 +1,39 @@
+Vào tháng 4 tới, xe tự lái Robocar của nhà sản xuất ô tô Trung Quốc Jidu Automotive sẽ trở thành một trong những tâm điểm tại triển lãm ô tô Bắc Kinh. Đây được xem là minh chứng cho tốc độ đổi mới sáng tạo vượt bậc của thị trường ô tô lớn nhất thế giới.
+
+Jidu, liên doanh giữa hãng công nghệ Baidu và nhà sản xuất ô tô Geely, sẽ ra mắt xe Roboca chỉ sau hai năm phát triển. Công ty này đã gia nhập danh sách các đối thủ Trung Quốc của Tesla, bao gồm nhiều hãng xe Trung Quốc như Nio, XPeng và Human Horizons – những nhà sản xuất đang chạy đua để phát triển xe tự lái. Tuy nhiên, Robocar đang gặp trở lại lớn liên quan tới bộ phận quan trọng nhất – con chip.
+
+Theo Financial Times, hiện tại, các công ty phát triển xe tự lái của Trung Quốc vẫn phụ thuộc vào con chip do doanh nghiệp nước ngoài thiết kế - chủ yếu là Nvidia, Qualcomm và Intel... của Mỹ. Những con chip này cũng không được sản xuất ở Trung Quốc.
+
+Dù Trung Quốc cũng có một số công ty thiết kế chip đang phát triển, bao gồm MetaX Integrated Circuits và Biren Technology, và trong nửa đầu năm 2021, ngành chip Trung Quốc thu hút được 3,85 tỷ USD vốn đầu tư mạo hiểm (theo Deloitte), nhưng những doanh nghiệp này vẫn thua xa đối thủ Mỹ.
+
+Velu Sinha, một chuyên gia về bán dẫn ở Trung Quốc của Bain & Company, cho biết Nvidia đã hưởng lợi từ “việc dẫn trước cả thập kỷ” nhờ thành công của công nghệ xử lý đồ họa (GPU) của mình.
+
+“Hàng tỷ USD đã được rót vào lĩnh vực này. Giờ đây, Nvidia tiếp tục duy trì vị trí chắc chắn trong ngành”, Sinha nói.
+
+Với Trung Quốc, tự chủ công nghệ là yếu tố vô cùng quan trọng nhằm chống lại tác động do cấm vận kinh tế và thương mại. Việc Bắc Kinh đưa ngành bán dẫn và xe điện trở thành những ngành công nghiệp quan trọng của quốc gia đã thu hút hàng nghìn công ty mới gia nhập thị trường.
+
+Hãng tư vấn McKinsey dự báo xe tự lái sẽ chiếm khoảng 40% doanh số xe mới tại Trung Quốc vào năm 2040, mang về khoảng 1.000 tỷ USD doanh thu từ bán xe và 1.100 tỷ USD doanh thu từ dịch vụ đi lại.
+
+Hiện tại, các công ty thiết kế chip của Trung Quốc – cạnh tranh với Nvidia và Qualcomm về thiết kế và bán phần cứng chip nhưng không sản xuất – chiếm khoảng 16% thị phần toàn cầu, theo Hiệp hội Ngành công nghiệp Bán dẫn Mỹ. Tuy nhiên, các doanh nghiệp này vẫn còn nhiều việc phải làm mới có thể đe dọa vị thế thống trị của Nvidia.
+
+Hiện tại, có ít nhất 18 công ty Trung Quốc đang sử dụng thiết kế chip của Nvidia trong kế hoạch phát triển xe tự lái của mình, bao gồm AutoX – startup được Alibaba đầu tư, WeRide – được Liên minh Renault-Nissan-Mitsubishi Alliance đầu tư, và Didi – hãng gọi xe hàng đầu Trung Quốc và nhận được đầu tư từ Apple.
+
+Theo Randy Abrams, Giám đốc bộ phận nghiên cứu bán dẫn châu Á của Credit Suisse, Nvidia hiện vẫn phát triển hơn nhiều về công nghệ xử lý trong ô tô cũng như mô phỏng và đào tạo trí tuệ nhân tạo cần thiết để phát triển xe tự lái.
+
+Theo một nhà cố vấn về bán dẫn, việc phát triển chip ô tô tự lái nội địa của Trung Quốc hiện vẫn bị cản trở bởi hàng loạt vấn đề mang tính căn bản, như quy mô, chi phí...
+
+Những năm gần đây, chi phí phát triển chip quá cao là rào cản khiến một số công ty Trung Quốc không thể tiến sâu vào thị trường đại chúng mà chỉ tập trung vào một số thị trường ngách.
+
+Trong khi đó, các “đại gia” ngành chip như Nvidia đang tái định vị công nghệ chip – vốn tạo nền tảng cho sự bùng nổ của điện thoại thông minh, máy tính để bàn và trung tâm dữ liệu trong hai tập kỷ qua.
+
+“Các công ty lớn nhất của Trung Quốc sản xuất khoảng 1 triệu ô tô mỗi năm. Quy mô này còn cách rất xa mức 'đủ lớn' để thu hút đầu tư vốn phát triển chip xe tự lái tiên tiến trong dài hạn”, vị cố vấn trên nhận định.
+
+Do đó, doanh nghiệp Trung Quốc không có nhiều lựa chọn ngoài việc hợp tác với các đối tác Mỹ. Zeekr, công ty con của Geely, đã hợp tác với công ty Mobileye của Intel để phát triển xe tự lái và dự kiến ra mắt vào năm 2024. Còn Great Wall Motor, một nhà sản xuất ô tô truyền thống khác của Trung Quốc, đã tìm đến Qualcomm.
+
+Xiao Jianxiong - người sáng lập, CEO của AutoX, cho biết ông lo lắng về sự chậm trễ có thể xảy ra khi hợp tác với các công ty mới trong ngành.
+
+“Chúng tôi muốn tăng trưởng nhanh nhất có thể. Chúng tôi muốn tăng quy mô sản xuất xe tự lái thật nhanh… Hiệu suất hoạt động là vấn đề thực sự quan trọng với chúng tôi và sự phát triển cả hệ sinh thái rất hữu ích”, ông Xiao nói, đề cập tới việc hợp tác với Nvidia và hệ sinh thái kỹ sư, nhà cung cấp của công ty Mỹ.
+
+Một vấn đề nữa của Trung Quốc là nước này không phải lựa chọn tối ưu để sản xuất con chip tiên tiến dùng trong xe tự lái. Việc này thường được thống trị bởi các nhà sản xuất chip nước ngoài.
+
+TSMC, nhà sản xuất chip xử lý lớn nhất thế giới của Đài Loan, dự kiến đầu tư 44 tỷ USD trong năm nay để tăng sản lượng. Trong khi đó, SMIC, công ty sản xuất chip lớn nhất Trung Quốc đại lục mới chỉ có kế hoạch rót 5 tỷ USD. Hầu hết các chuyên gia cho rằng SMIC hiện vẫn theo sau TSMC khoảng 5 năm về công nghệ.

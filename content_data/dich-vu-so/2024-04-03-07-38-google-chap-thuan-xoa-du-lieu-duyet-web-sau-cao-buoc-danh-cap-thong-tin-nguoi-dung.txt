@@ -1,0 +1,19 @@
+Theo The Guardian, Google đã đồng ý tiêu hủy hàng tỷ hồ sơ để giải quyết vụ kiện cáo buộc rằng Google đã bí mật theo dõi việc sử dụng Internet của người dùng duyệt web ở chế độ ẩn danh tại trình duyệt Chrome.
+
+Người dùng cáo buộc rằng phân tích, cookie và ứng dụng của Google đã cho phép Alphabet, vốn là công ty mẹ của Google theo dõi người dùng đặt trình duyệt Chrome ở chế độ "ẩn danh" và các trình duyệt khác ở chế độ duyệt web "riêng tư".
+
+Các nguyên đơn cho biết điều này đã giúp Google có được một kho thông tin khổng lồ từ việc tìm hiểu về những gì họ tìm kiếm trực tuyến như bạn bè, món ăn yêu thích, sở thích, thói quen mua sắm,… mà họ tìm kiếm trên mạng.
+
+Các điều khoản của thỏa thuận đã được đệ trình lên tòa án liên bang Oakland, California vào ngày 1/4 và cần có sự chấp thuận của thẩm phán quận Hoa Kỳ Yvonne Gonzalez Rogers. Vụ kiện tập thể khởi xướng vào năm 2020, bao gồm hàng triệu người dùng Google đã sử dụng tính năng duyệt web riêng tư kể từ ngày 1/6/2016.
+
+Theo thỏa thuận dàn xếp, Google sẽ cập nhật thông tin tiết lộ về những gì họ thu thập được trong quá trình duyệt web riêng tư, một quá trình mà Google đã thực hiện trước đây, đồng thời sẽ cho phép người dùng ẩn danh chặn cookie của bên thứ ba trong vòng 5 năm.
+
+Luật sư của nguyên đơn viết: “Kết quả là Google sẽ thu thập ít dữ liệu hơn từ các phiên duyệt web riêng tư của người dùng và Google sẽ kiếm được ít tiền hơn từ dữ liệu đó”.
+
+Luật sư của nguyên đơn định giá thỏa thuận này là hơn 5 tỷ USD và cao nhất có thể lên tới 7,8 tỷ USD. Mặc dù Google không giải quyết các thiệt hại nhưng người dùng vẫn có thể khởi kiện về những thiệt hại gây ra.
+
+Trước đó vào năm 2019, Giám đốc tiếp thị của Google, bà Lorraine Twohill, đã viết trong một email cho Giám đốc điều hành Sundar Pichai: “Chúng ta bị hạn chế về việc quảng bá chế độ ẩn danh vì nó không thực sự bảo mật như cam kết. Việc sử dụng từ ‘ẩn danh’ một cách mơ hồ như vậy sẽ khiến người dùng mất lòng tin vào các dịch vụ của hãng”.
+
+Một thỏa thuận sơ bộ đã đạt được vào tháng 12 thông báo về phiên tòa dự kiến diễn ra vào ngày 5 tháng 2 năm 2024. Các điều khoản không được tiết lộ vào thời điểm đó. Luật sư của nguyên đơn có kế hoạch sau đó sẽ yêu cầu Google phải trả các khoản phí pháp lý không xác định.
+
+Công ty đã phải đối mặt với những vụ kiện tương tự trước đây. Vào năm 2022, Tổng chưởng lý Texas đã kiện công ty, cáo buộc rằng chế độ ẩn danh hoặc duyệt web riêng tư là một chức năng của trình duyệt web ngụ ý với người tiêu dùng rằng Google sẽ không theo dõi lịch sử tìm kiếm hoặc vị trí hoạt động của người dùng.

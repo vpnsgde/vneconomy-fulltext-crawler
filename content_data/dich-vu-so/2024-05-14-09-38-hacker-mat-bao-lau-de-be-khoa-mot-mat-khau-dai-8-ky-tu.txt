@@ -1,0 +1,15 @@
+37 giây — đó là thời gian trung bình một hacker dày dạn kinh nghiệm cần để bẻ khóa mật khẩu cơ bản gồm 8 ký tự chữ số. Những phát hiện gần đây từ công ty CNTT Hive Systems đã làm sáng tỏ tầm quan trọng của độ dài và độ phức tạp của mật khẩu trong việc ngăn chặn các nỗ lực bẻ khoá của tin tặc.
+
+Phân tích của Hive Systems cho thấy mật khẩu mạnh (chứa số, chữ hoa, chữ thường và ký hiệu) và mật khẩu khá mạnh (chứa chữ hoa và chữ thường) rất khó bị bẻ khóa nếu chúng dài hơn 8 ký tự - phải mất vài tháng hoặc nhiều năm để bẻ khóa những mật khẩu đó nếu chúng được bảo vệ bằng Bcrypt.
+
+Bên cạnh đó, các chuyên gia ủng hộ mật khẩu dài hơn 8 ký tự ngay cả khi chúng đơn giản. Các tin tặc cần 7 năm để bẻ khoá một mật khẩu tám ký tự bao gồm cả các số, chữ hoa và chữ thường hay ký hiệu, trong khi thời gian cần thiết để bẻ khóa mật khẩu 16 ký tự chỉ gồm các số lên đến 119 năm.
+
+Các thuật toán băm mật khẩu để bảo vệ dữ liệu ngày càng mạnh và được sử dụng rộng rãi hơn, đã khiến thời gian tin tặc cần để bẻ khóa mật khẩu tăng lên, theo các chuyên gia.
+
+Năm ngoái, nghiên cứu của Hive Systems cho thấy mật khẩu 11 ký tự có thể bị bẻ khóa ngay lập tức. Giờ đây, mật khẩu 11 ký tự chỉ có số sẽ mất nhiều thời gian hơn để bị bẻ khóa – sau 10 giờ. Mặc dù vậy, các thử nghiệm cho thấy bất kỳ mật khẩu nào dưới bảy ký tự đều có thể bị bẻ khóa trong vòng vài giờ.
+
+Alex Nette, Giám đốc điều hành của Hive Systems cho biết: “Nhìn vào dữ liệu và sự gia tăng thời gian mà tin tặc cần để bẻ khóa mật khẩu, dễ dàng thấy ngành an ninh mạng đã đạt được những bước tiến lớn trong việc bảo vệ dữ liệu của chúng tôi”.
+
+“Điều không may là chúng ta đặt càng nhiều các tầng bảo vệ gây khó khăn hơn cho tin tặc, chúng lại tìm ra những cách mới để vượt qua, ngay cả những biện pháp bảo vệ mạnh nhất”, Alex Nette, Giám đốc điều hành của Hive Systems nhận định.
+
+Tuy nhiên, công ty này cũng cảnh báo thời gian bẻ khóa mật khẩu cũng ngày càng giảm xuống vì “sức mạnh tính toán tăng lên trong những năm tới”. Theo đó, Corey Neskey, Phó Giám đốc tại Hive Systems cho biết: “Đối với một số trang web, thuật toán bảo vệ không thể hoạt động, nhưng người dùng vẫn muốn truy cập. Điều này buộc họ phải thỏa hiệp, từ đó tạo cơ hội cho tin tặc”.

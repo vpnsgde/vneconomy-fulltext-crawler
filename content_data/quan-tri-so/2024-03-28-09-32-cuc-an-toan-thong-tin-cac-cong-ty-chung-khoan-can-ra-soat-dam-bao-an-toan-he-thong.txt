@@ -1,0 +1,23 @@
+Cục An toàn thông tin (Bộ Thông tin và Truyền thông) vừa đề nghị các công ty chứng khoán rà soát, tổ chức triển khai bảo đảm an toàn thông tin mạng cho các hệ thống thông tin thuộc phạm vi quản lý; có biện pháp khắc phục các nguy cơ, lỗ hổng, điểm yếu đối với các hệ thống thông tin và hoàn thành trước ngày 15/4.
+
+Công văn của Cục An toàn thông tin gửi các công ty chứng khoán nêu rõ, trong thời gian qua, đã có một số hệ thống công ty chứng khoán xảy ra sự cố an toàn thông tin mạng và gây ra thiệt hại nghiêm trọng đối với doanh nghiệp chứng khoán, gây tâm lý hoang mang và ảnh hưởng đến niềm tin vào tính an toàn của các sàn giao dịch chứng khoán tại Việt Nam nói riêng và thị trường tài chính nói chung.
+
+Sự việc có liên quan đến website và Fanpage của Công ty cổ phần chứng khoán VNDIRECT (VND) bị tấn công từ ngày 25/3.
+
+Các công ty chứng khoán cần tổ chức triển khai các nhiệm vụ liên quan theo Chỉ thị số 09/CT-TTg ngày 23/2/2024 của Thủ tướng Chính phủ về tuân thủ quy định pháp luật và tăng cường bảo đảm an toàn hệ thống thông tin theo cấp độ, đặc biệt là tổ chức thống kê, phân loại các hệ thống thông tin thuộc phạm vi quản lý; xây dựng kế hoạch triển khai hoàn thành quy định bảo đảm an toàn hệ thống thông tin theo cấp độ (theo tiến độ tháng), bảo đảm 100% hệ thống thông tin đang vận hành phải được phê duyệt cấp độ an toàn hệ thống thông tin chậm nhất trong tháng 9/2024 và triển khai đầy đủ phương án bảo đảm an toàn thông tin theo hồ sơ đề xuất cấp độ được phê duyệt chậm nhất trong tháng 12/2024.
+
+Đồng thời, các công ty chứng khoán tổ chức thực thi hiệu quả, thực chất, thường xuyên, liên tục công tác bảo đảm an toàn thông tin theo mô hình 4 lớp, đặc biệt là nâng cao năng lực của lớp giám sát, bảo vệ chuyên nghiệp và duy trì liên tục, ổn định kết nối, chia sẻ thông tin với Trung tâm Giám sát an toàn không gian mạng quốc gia trực thuộc Cục An toàn thông tin, Bộ Thông tin và Truyền thông; ưu tiên sử dụng các sản phẩm, giải pháp, dịch vụ an toàn thông tin mạng do doanh nghiệp Việt Nam sản xuất hoặc làm chủ công nghệ.
+
+Ngoài ra, các công ty chứng khoán cần xây dựng kế hoạch ứng phó sự cố đối với hệ thống thông tin thuộc phạm vi quản lý theo quy định tại Thông tư số 20/2017/TT-BTTTT ngày 12/9/2017 của Bộ trưởng Bộ Thông tin và Truyền thông quy định về điều phối, ứng cứu sự cố an toàn thông tin mạng trên toàn quốc; triển khai phương án sao lưu định kỳ hệ thống và dữ liệu quan trọng để kịp thời khôi phục khi bị tấn công mã hóa dữ liệu và báo cáo sự cố về Cục An toàn thông tin theo quy định; tham gia mạng lưới ứng cứu sự cố an toàn thông tin mạng quốc gia theo quy định tại Điều 7 Quyết định số 05/2017/QĐ-TTg ngày 16/3/2017 của Thủ tướng.
+
+Song song đó, rà soát, triển khai các nhiệm vụ liên quan theo Chỉ thị số 18/CT-TTg ngày 13/10/2022 của Thủ tướng Chính phủ về đẩy mạnh triển khai các hoạt động ứng cứu sự cố an toàn thông tin mạng Việt Nam; thực hiện định kỳ săn lùng mối nguy hại để phát hiện kịp thời các dấu hiệu hệ thống bị xâm nhập. Đối với hệ thống đã phát hiện lỗ hổng bảo mật nghiêm trọng, sau khi khắc phục lỗ hổng, cần thực hiện ngay việc săn lùng mối nguy hại nhằm xác định khả năng bị xâm nhập trước đó.
+
+Về phía VNDIRECT, dự kiến trong ngày 28/3/2024, Công ty sẽ thực hiện kiểm tra (test) thông luồng giao dịch với các Sở giao dịch chứng khoán. Đây là một bước đi quan trọng trong việc khôi phục lại hệ thống giao dịch.
+
+“Mặc dù giai đoạn nhận diện, khôi phục đã hoàn tất nhưng chúng tôi vẫn còn phải tiếp tục dành thời gian với rất nhiều công việc như kiểm soát dữ liệu, đảm bảo tính toàn vẹn và chính xác với thông tin tài sản của khách hàng. Đối diện với bài toán xử lý rủi ro hệ thống, chúng tôi nhận được rất nhiều sự chia sẻ, hỗ trợ và ủng hộ từ các chuyên gia công nghệ, cơ quan quản lý nhà nước cùng các khách hàng, đối tác, các doanh nghiệp và nhiều công ty chứng khoán tại Việt Nam.
+
+Trong lúc hệ thống cần thêm thời gian để trở lại hoạt động bình thường, chúng tôi vô cùng xin lỗi quý khách hàng, đối tác, cổ đông, cùng các tổ chức, cá nhân liên quan vì rủi ro ngoài mong muốn này…”, văn bản VNDIRECT gửi đến các cơ quan truyền thông.
+
+
+
+Trong quá trình thực hiện, nếu có khó khăn vướng mắc hoặc trường hợp cần hỗ trợ giám sát, xử lý, ứng cứu sự cố đề nghị liên hệ với Cục An toàn thông tin, Bộ Thông tin và Truyền thông thông qua các đầu mối:

@@ -1,0 +1,39 @@
+Ngày 28/5, Bệnh viện Đại học Y Hà Nội cho biết có một bệnh nhân đã tử vong vì đợt cấp bệnh phổi tắc nghẽn mãn tính (COPD). Bệnh nặng lên đã 1 tuần nay nhưng người này ngại không đi khám vì "sợ Covid-19 nên không tới bệnh viện".
+
+Trong khi đó, cũng rất nhiều bệnh viện ghi nhận tình trạng người dân vì quá lo sợ bị nhiễm Covid-19 mà đến viện xin thăm khám chỉ vì một vài triệu chứng sốt, đau họng thông thường... Nguy cơ lây nhiễm từ bệnh nhân khác và lan vào bệnh viện sẽ bị tăng lên. Nguồn lực chống dịch vốn đã hạn hẹp sẽ càng trở nên khó khăn muôn phần.
+
+Giải pháp đơn giản và hiệu quả nhất lúc này là khám chữa bệnh, tư vấn sức khỏe từ xa.
+
+Năm 2021, khi mà tình hình Covid-19 tiếp tục diễn biến phức tạp, rất nhiều các nhà đầu tư chú ý đến startup telehealth (khám bệnh từ xa). Các bệnh viện trên thế giới nói chung và tại Việt Nam nói riêng đồng loạt gia tăng đầu tư cho nền tảng công nghệ số. Trang Fortune Business Insights dự báo, thị trường dịch vụ telehealth toàn cầu sẽ đạt quy mô 185,7 tỉ đô la trong năm 2026 so với con số 34,3 tỉ đô la của năm 2018, với tỷ tăng trưởng hàng năm trung bình là 23,5%.
+
+Mới đây nhất, Medix Global - tập đoàn chuyên cung cấp các giải pháp Quản trị Y khoa - có kế hoạch đầu tư vào dịch vụ y tế số tại Việt Nam, cụ thể là phát triển ứng dụng cho phép tìm kiếm thông tin, đặt lịch với bác sĩ, chẩn đoán và theo dõi hồ sơ bệnh án một cách toàn diện.
+
+Lợi thế của Medix là giúp mọi người tiếp cận được dịch vụ y tế chất lượng mà không phụ thuộc vào nơi sinh sống. Tại Việt Nam, nhiều bệnh nhân có tâm lý muốn điều trị tại nước ngoài khi mắc bệnh nặng, hoặc cần đi khám nhưng e ngại lây nhiễm chéo Covid-19 trong bệnh viện... Medix có thể làm cầu nối để giúp bệnh nhân được chẩn đoán, điều trị với các bác sĩ đầu ngành ở Việt Nam cũng như nhiều nước trên thế giới, thông qua việc kết nối với mạng lưới các bác sĩ, chuyên gia.
+
+eDoctor cũng là một công ty công nghệ đã khởi nghiệp bằng ứng dụng trên smartphone, tablet cung cấp dịch vụ chăm sóc sức khỏe chủ động. Ra đời từ tháng 10/2014 nhưng mãi đến tháng 4/2020, khi phát triển, hợp tác với hơn 500 điều dưỡng, hơn 400 bác sĩ, 80 phòng khám và bệnh viện trên cả nước, thì eDoctor lần đầu tiên được rót vốn 1,2 triệu USD từ 4 quỹ đầu tư CyberAgent Capital, Genesia Ventures, Bon Angels và Nextrans. Thương vụ kéo dài nửa năm và được chốt chóng vánh vào đúng thời điểm dịch Covid-19 vào cao trào, bất chấp dòng vốn đầu tư chững lại.
+
+Trước eDoctor, vào tháng 3/2020, một thương vụ lớn khác là start-up y tế Doctor Anywhere đã công bố gọi vốn thành công 27 triệu USD. Doctor Anywhere là ứng dụng chuyên cung cấp các giải pháp chăm sóc sức khỏe ban đầu, cho phép người dùng kết nối trực tuyến với đội ngũ bác sĩ uy tín trên khắp đất nước để tư vấn sức khoẻ qua hội thoại video. Sau đó, thuốc sẽ được giao tận tay người dùng trong vòng 3 giờ đồng hồ.
+
+
+
+Thị trường dịch vụ telehealth toàn cầu sẽ đạt quy mô 185,7 tỉ đô la trong năm 2026 so với con số 34,3 tỉ đô la của năm 2018, với tỷ tăng trưởng hàng năm trung bình là 23,5%. (Theo Fortune Business Insights)
+
+Hiện Việt Nam đang có một số start-up y tế tiềm năng như: MedProve Inc là nhà cung cấp giải pháp Quản lý Dữ liệu Lâm sàng, ViCare –Nền tảng tra cứu thông tin y tế, kết nối người dùng với các dịch vụ y tế, MediThank – Ứng dụng lưu trữ dữ liệu y khoa, tối ưu hóa công nghệ chăm sóc sức khỏe... Rất có thể, trong thời gian tới, các startup y tế sẽ nở rộ hoặc tiếp tục nhận được dòng vốn đầu tư lớn như trong thời gian qua.
+
+Đây cũng là lĩnh vực đang nhận được sự đầu tư lớn của các doanh nghiệp mạnh ở Việt Nam như Vingroup, Thế giới Di động, FPT Retails, Digital World… hay các quỹ đầu tư như Mekong Capital, ngay VinaCapital ,SAM...
+
+Ngoài các start-up, các bệnh viện và cơ sở y tế Việt Nam cũng đã chú trọng và đầu tư nhiều hơn cho dịch vụ telehealth. Lệnh phong tỏa và giới hạn đi lại tại thời điểm dịch Covid-19 bùng phát đã khiến bệnh nhân có rất ít lựa chọn, họ phải tham vấn trực tuyến với các chuyên gia y tế thay cho các thăm khám định kỳ. Nhiều bệnh viện đã cung cấp dịch vụ dịch vụ telehealth đa dạng các dịch vụ từ tư vấn tổng quát đến giám sát liên tục các điều kiện y khoa đặc biệt và các liệu pháp điều trị tại nhà. Tất cả có thể thực hiện trực tuyến, mà không cần bệnh nhân đến phòng khám hay bệnh viện.
+
+Hiện Đề án KCB từ xa giai đoạn 2020 – 2025 của Bộ Y tế đã thu hút hơn 1.000 cơ sở y tế trên cả nước tham gia và bước đầu thực hiện kết nối với các bệnh viện tuyến Trung ương như: Bệnh viện Bạch Mai, Bệnh viện Nhi Trung ương, Bệnh viện K… Theo ước tính, khi triển khai Hệ thống khám, chữa bệnh từ xa, xã hội và ngành y tế có thể tiết kiệm được hàng chục ngàn tỷ đồng mỗi năm, trong đó, riêng chi phí đi lại, khám chữa bệnh là hàng chục nghìn tỷ đồng mỗi năm.
+
+Tại thời điểm dịch Covid-19 đang hoành hành thì nền tảng khám chữa bệnh từ xa sẽ thực sự phát huy hiệu quả khám chữa bệnh cho người dân mà vẫn đảm bảo yêu cầu giãn cách xã hội. Tuy nhiên, vẫn có nhiều người dân tỏ ra nghi ngờ việc sử dụng các dịch vụ y tế kỹ thuật số vì lo ngại kết quả điều trị không chính xác. Đó là chưa kể các vấn đề trục trặc kỹ thuật, sự cố khách quan ngoài mong muốn có thể gặp phải khi sử dụng các dịch vụ telehealth.
+
+Những thao tác thăm khám trực tiếp, xét nghiệm máu, nước tiểu... trong điều trị không thể thực hiện được từ xa, vẫn được cho là phương thức chữa bệnh không thể thay thế. Đặc biệt, đối với những bệnh nhân lớn tuổi, việc tiếp cận và sử dụng công nghệ kỹ thuật số để được các bác sĩ trực tuyến khám bệnh hay tư vấn cũng không phải là điều đơn giản.
+
+
+
+Tại thời điểm dịch Covid-19 đang hoành hành thì nền tảng khám chữa bệnh từ xa sẽ thực sự phát huy hiệu quả khám chữa bệnh cho người dân mà vẫn đảm bảo yêu cầu giãn cách xã hội.
+
+Ngoài ra, hiện nay ở Việt Nam, các hệ thống công nghệ thông tin y tế vẫn chưa chia sẻ dữ liệu người bệnh với nhau, liên quan đến vấn đề bảo mật thông tin, hồ sơ sức khỏe. Các bệnh viện cũng sử dụng những giải pháp, phần mềm khác nhau nên việc kết nối dữ liệu với nhau sẽ là một thách thức tương đối lớn.
+
+Tuy nhiên, các dịch vụ khám chữa bệnh từ xa vẫn được đánh giá là mở ra cơ hội cho những người nghèo được tiếp cận sự chăm sóc y tế, bởi chi phí phù hợp. Chi phí cho khám bệnh trực tuyến vẫn rẻ hơn so với chi phí khi họ tới bệnh viện. Từ đó góp phần giải quyết tình trạng quá tải cho bệnh viện công, đồng thời tạo điều kiện để người bệnh thăm khám nhanh chóng, hiệu quả, giảm thiểu nguy cơ lây nhiễm chéo dịch bệnh trong cộng đồng.

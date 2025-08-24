@@ -1,0 +1,45 @@
+"Đa phần các mô hình ngôn ngữ lớn đều đang được đào tạo trên chip của Nvidia, nhưng Google đã đi theo con đường riêng của mình", Daniel Newman, Giám đốc điều hành của Futurum Group cho biết.
+
+Năm 2015, Google là nhà cung cấp đám mây đầu tiên sản xuất chip AI tùy chỉnh. Ba năm sau, Amazon Web Services cũng tuyên bố sản xuất chip AI đám mây đầu tiên (Inferentia). Năm 2023, gã khổng lồ Microsoft cũng công bố chip AI tuỳ chỉnh - Maia.
+
+Google Cloud đã tăng trưởng doanh thu một phần nhờ vào các phát minh AI của mình. Theo đó, công ty mẹ của Google là Alphabet đã báo cáo doanh thu đám mây tăng 29% trong quý hai năm nay, vượt qua 10 tỷ USD doanh thu quý một năm nay.
+
+TPU hỗ trợ máy tính hiểu và học từ dữ liệu, đặc biệt trong các tác vụ liên quan đến máy học và trí tuệ nhân tạo. TPU tập trung vào tính toán ma trận và các phép tính dự đoán để đào tạo các mô hình AI.
+
+Chỉ hơn một thập kỷ trước, một nhóm nhân viên Google đã phát hiện ra rằng nhu cầu tính toán AI của công ty sẽ vượt xa cơ sở hạ tầng công ty thời điểm đó.
+
+“Mọi chuyện bắt đầu từ một thảo luận. Một số lãnh đạo tại công ty đã đặt ra câu hỏi: Điều gì sẽ xảy ra nếu người dùng Google muốn tương tác với Google qua giọng nói chỉ trong 30 giây mỗi ngày? Và chúng ta cần bao nhiêu sức mạnh tính toán để hỗ trợ người dùng của mình?”, ông Amin Vahdat, người đứng đầu bộ phận chip đám mây tùy chỉnh của Google nói với CNBC.
+
+
+
+Các nhà lãnh đạo của Google nhận ra rằng họ cần một loại chip hoàn toàn mới. Vì vậy, Google bắt đầu cho nghiên cứu Đơn vị xử lý Tensor đầu tiên (TPU).
+
+“Chúng tôi nhận ra rằng chúng tôi có thể xây dựng phần cứng tùy chỉnh, trong trường hợp này là Đơn vị xử lý Tensor sẽ có hiệu quả hơn gấp 100 lần so với cách làm thông thường”, ông Amin Vahdat cho biết thêm.
+
+Trong khi các Đơn vị xử lý trung tâm (CPU) được thiết kế như "bộ não" đa năng cho máy tính. GPU, vào thời điểm đó, là những con chip chuyên dụng được thiết kế để hoạt động song song với CPU để tăng tốc các tác vụ phức tạp trong đồ họa, kết xuất video,… TPU được Google xây dựng cho mục đích duy nhất là chạy các mô hình AI.
+
+Các trung tâm dữ liệu của Google vẫn dựa vào CPU hay GPU của Nvidia. Tuy nhiên, trong một thập kỷ kể qua, TPU đã đóng vai trò là xương sống cho AI trên gần như tất cả các sản phẩm của Google.
+
+TPU được Google ra mắt từ năm 2015, là thứ khiến công ty trở nên khác biệt. Theo The Futurum Group, TPU của Google vẫn chiếm ưu thế trong số các bộ tăng tốc AI đám mây tùy chỉnh, với 58% thị phần. Hiện Apple đang sử dụng TPU của Google để đào tạo các mô hình AI của mình được triển khai trên iPhone và máy Mac vào năm tới.
+
+Sự bùng nổ của AI đã đưa cổ phiếu của Nvidia lên mức cao ngất ngưởng, qua đó đưa nhà sản xuất chip này lên mức vốn hóa thị trường 3 nghìn tỷ USD vào tháng 6, vượt qua Alphabet và cạnh tranh với Apple và Microsoft để giành vị trí là công ty đại chúng có giá trị nhất thế giới.
+
+TPU có thể là mở đầu cho một cuộc đe doạ vị thế sản xuất chất bán dẫn trong ngành của Nvidia. TPU thế hệ thứ sáu của Google, có tên là Trillium, dự kiến ​​sẽ ra mắt vào cuối năm nay.
+
+"Sản xuất rất tốn kém, chỉ những công ty siêu quy mô này có quy mô, tiền bạc và nguồn lực để đi theo con đường đó", ông Amin Vahdat nói.
+
+Việc thiết kế và sản xuất TPU riêng phức tạp và tốn kém đến mức ngay cả những công ty siêu quy mô cũng không thể tự mình thực hiện. Kể từ TPU đầu tiên, Google đã hợp tác với Broadcom, một nhà phát triển chip cũng giúp Meta thiết kế chip AI của mình.
+
+
+
+Sau đó, thiết kế cuối cùng được gửi đi để sản xuất tại một nhà máy chế tạo, chẳng hạn như TSMC, nhà sản xuất đang chịu trách nhiệm cho 92% chất bán dẫn tiên tiến nhất thế giới sở hữu.
+
+Khi được hỏi liệu Google có bất kỳ biện pháp bảo vệ nào không nếu điều tồi tệ nhất xảy ra trong lĩnh vực địa chính trị giữa Trung Quốc và Đài Loan, ông Vahdat cho biết: "Chắc chắn chúng tôi đã chuẩn bị và cũng cân nhắc đến điều đó".
+
+Mỹ đang hỗ trợ 52 tỷ USD tiền tài trợ theo Đạo luật CHIPS cho các công ty xây dựng các nhà máy sản xuất chip tại Mỹ, cụ thể cho Intel, TSMC và Samsung, nhằm hạn chế những rủi ro đối với chuỗi cung ứng bán dẫn từ vấn đề địa chính trị.
+
+Google vừa có một động thái lớn khác về chip. Gã khổng lồ tuyên bố CPU đa năng (bộ xử lý trung tâm) đầu tiên của mình, Axion, sẽ có mặt vào cuối năm nay.
+
+Google đã chậm chân trong cuộc chơi CPU. Amazon đã ra mắt bộ xử lý Graviton vào năm 2018. Alibaba đã ra mắt chip máy chủ vào năm 2021. Microsoft đã công bố CPU vào tháng 11.
+
+Khi được hỏi tại sao Google không sản xuất CPU sớm hơn, ông Vahdat nói: “Chúng tôi tập trung vào nơi chúng tôi có thể mang lại giá trị cao nhất cho khách hàng và bắt đầu từ TPU, các đơn vị mã hóa video. Chúng tôi thực sự nghĩ rằng thời điểm đã đến”.

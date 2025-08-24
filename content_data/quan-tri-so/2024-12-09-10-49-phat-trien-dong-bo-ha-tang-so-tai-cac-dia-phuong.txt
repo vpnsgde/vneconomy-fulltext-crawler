@@ -1,0 +1,29 @@
+Chính phủ đã ban hành nhiều chính sách quan trọng thúc đẩy phát triển hạ tầng số trên phạm vi cả nước. Trong đó, Chiến lược chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030 được coi là một cột mốc quan trọng. Chiến lược này nhấn mạnh việc xây dựng hạ tầng số hiện đại, an toàn và kết nối, tạo điều kiện thuận lợi cho các ngành kinh tế, cơ quan nhà nước và cộng đồng người dân tham gia vào hệ sinh thái số.
+
+Các địa phương trên khắp cả nước đã tích cực triển khai các dự án phát triển hạ tầng số. Điển hình là việc mở rộng mạng lưới Internet băng thông rộng, xây dựng các trung tâm dữ liệu và phát triển các ứng dụng công nghệ hỗ trợ quản lý hành chính công.
+
+Một số tỉnh, thành phố như Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng... đã trở thành hình mẫu trong việc xây dựng các thành phố thông minh, áp dụng các giải pháp số hóa vào giao thông, y tế, giáo dục, và quản lý môi trường.
+
+Tại Hà Nội, mạng di động 4G và hạ tầng cáp quang đã triển khai đến 100% tại các xã/phường/thị trấn; tỷ lệ điện thoại thông minh đạt 90%; số thuê bao di động là băng rộng đạt tỷ lệ 121%. Dự kiến đến hết năm 2024 các doanh nghiệp triển khai lắp đặt khoảng 2.000 trạm 5G trên địa bàn Hà Nội.
+
+Thành phố Đà Nẵng đạt tỷ lệ dịch vụ công trực tuyến toàn trình cao nhất cả nước đạt 95% (trung bình tỉnh thành là 55%), tỷ lệ hồ sơ xử lý trực tuyến toàn trình là 65% (trung bình tỉnh thành là 17%). Bên cạnh đó, Đà Nẵng còn là hình mẫu trong quản lý môi trường thông minh với 36 trạm quan trắc kết nối trực tiếp đến thiết bị di động, hệ thống xử lý nước thải với tổng công suất 33.700 m3/ngày đêm.
+
+Chiến lược chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030 đề ra hạ tầng số bao gồm 4 lớp: hạ tầng viễn thông và Internet; hạ tầng dữ liệu (trung tâm dữ liệu, điện toán đám mây); hạ tầng vật lý - số; hạ tầng tiện ích số và công nghệ số như dịch vụ.
+
+Ông Trần Minh Tuấn, Vụ trưởng Vụ Kinh tế số và Xã hội số, Bộ Thông tin và Truyền thông, cho biết đối với hạ tầng viễn thông và Internet, Việt Nam đã gần như hoàn tất việc phủ sóng mạng 4G đến hầu hết các tỉnh thành trên cả nước. “Đối với các tỉnh thành còn gặp nhiều rào cản trong hạ tầng điện, Chính phủ đã chỉ đạo điện năng kéo đến đâu, hạ tầng số kéo đến đấy”, ông Tuấn cho biết.
+
+Để giải quyết vấn đề “vùng lõm sóng”, một số doanh nghiệp viễn thông đã triển khai các trạm phát sóng di động sử dụng năng lượng mặt trời tại những khu vực địa hình hiểm trở. Đồng thời, Bộ Thông tin và Truyền thông đã đạt được thỏa thuận với SpaceX, dự kiến từ đầu năm 2025 sẽ triển khai dịch vụ Internet vệ tinh Starlink, nhằm mở rộng kết nối cho những khu vực hạ tầng viễn thông còn hạn chế.
+
+Trong nỗ lực phát triển hạ tầng số tại các vùng sâu, vùng xa, nhiều địa phương đã hợp tác chặt chẽ với các doanh nghiệp công nghệ. Chẳng hạn, tại Điện Biên, Tập đoàn FPT đã hỗ trợ xây dựng hạ tầng dự phòng Trung tâm tích hợp dữ liệu trên nền tảng điện toán đám mây, đồng thời triển khai công nghệ hiện đại nhằm nâng cao chất lượng dịch vụ trên môi trường số. Tại Yên Bái, tính đến tháng 6/2024, sau khi ba thôn cuối cùng ở vùng xa nhất được Viettel phủ sóng di động, toàn tỉnh đã đạt tỷ lệ 95,7% thôn bản có kết nối mạng.
+
+Về hạ tầng dữ liệu, Việt Nam hiện sở hữu khoảng 30 trung tâm dữ liệu với tổng công suất khoảng 80MW, trong đó FPT và Viettel chiếm thị phần lớn nhất (60%). Bên cạnh đó, Bộ Công an đã được giao nhiệm vụ xây dựng Trung tâm dữ liệu quốc gia – một kho cơ sở dữ liệu toàn dân đảm bảo đáp ứng các tiêu chuẩn kỹ thuật quốc tế, đồng thời phù hợp với chiến lược quy hoạch hạ tầng thông tin và truyền thông của quốc gia.
+
+Theo nhiều chuyên gia, hạ tầng vật lý - số của Việt Nam hiện chưa được triển khai đồng bộ giữa các địa phương, cần thời gian để hoàn thiện cơ sở hạ tầng tiến tới phát triển các thành phố thông minh. Vụ trưởng Vụ Kinh tế số và Xã hội số Trần Minh Tuấn thông tin rằng Bộ Thông tin và Truyền thông đang định hướng các tỉnh, thành trên cả nước phủ kín hạ tầng bằng mạng lưới camera và các thiết bị IoT, góp phần nâng cao khả năng kết nối và quản lý thông minh.
+
+Bộ Thông tin và Truyền thông sẽ phối hợp với các Sở Thông tin và Truyền thông để đánh giá điều kiện và nhu cầu đặc thù của từng địa phương, từ đó triển khai hạ tầng IoT phù hợp với tình hình thực tế. Ví dụ, tại khu vực Đồng bằng sông Cửu Long, hạ tầng IoT sẽ ưu tiên phục vụ công tác phòng chống và xử lý các vấn đề về ngập mặn, ngập lụt. Trong khi đó, tại các tỉnh công nghiệp phát triển như Bắc Ninh, Bắc Giang, hệ thống IoT được triển khai nhằm giải quyết các thách thức về ô nhiễm môi trường, góp phần bảo vệ sức khỏe cộng đồng và thúc đẩy phát triển bền vững.
+
+Đối với hạ tầng tiện ích số và công nghệ số như dịch vụ, được xác định gắn liền với các tiện ích hàng ngày, trọng tâm là các nền tảng: định danh số; xác thực số; thanh toán số, hóa đơn số; tích hợp, chia sẻ dữ liệu; xác thực văn bản số; chữ ký số và chứng thực chữ ký số… Ông Tuấn nhận định những cải cách trong thủ tục hành chính đang mang lại sự thuận tiện đáng kể cho người dân khi thực hiện các thủ tục trực tuyến…
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 50-2024 phát hành ngày 9/12/2024. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

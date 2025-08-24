@@ -1,0 +1,21 @@
+Hiện nay, lĩnh vực chăm sóc sức khỏe đang được thúc đẩy bởi sự phát triển của các công nghệ y tế - MedTech, với giá trị được dự đoán sẽ đạt mức đáng kinh ngạc 610,2 tỷ USD trên toàn thế giới vào cuối năm 2024, theo Statista Market Insights. Trong đó, việc áp dụng công nghệ in 3D vào các cơ sở y tế sẽ tạo ra sự thay đổi mô hình, mở đường cho các giải pháp y tế được cá nhân hóa, nâng cao hiệu quả và cải thiện kết quả của bệnh nhân.
+
+NHIỀU THỬ NGHIỆM ĐẦY TRIỂN VỌNG
+
+Hiểu một cách đơn giản, công nghệ in 3D là quá trình tạo ra các mô hình vật lý (mẫu thực) từ mô hình số hóa (file thiết kế 3D trên máy tính) một cách tự động thông qua các máy in 3D. Trong y tế, công nghệ in 3D đã được ứng dụng để sản xuất các mô sinh học, mô hình giải phẫu bộ phận cơ thể con người (xương, răng, tai giả...). Công nghệ này cũng được sử dụng để hỗ trợ các thử nghiệm về công nghệ y tế mới, tăng cường nghiên cứu, giảng dạy và đào tạo đội ngũ y, bác sỹ.
+
+Đơn cử, ngành nha khoa hiện đang áp dụng công nghệ in 3D để chế tạo bộ phận cấy ghép, bọc răng, hàm duy trì, răng giả và mô hình giải phẫu. Cơ quan Y tế Dubai và Bệnh viện Rashid gần đây đã hợp tác với Công ty khởi nghiệp CSSK in 3D Sinterex để “giải cứu” hàm của cô gái 17 tuổi bị khối u ác tính. Với sự trợ giúp của việc lập kế hoạch số và in 3D, họ đã tạo ra một giải pháp dành riêng cho bệnh nhân bao gồm hướng dẫn phẫu thuật và cấy ghép titan, chứng minh tầm quan trọng của in 3D đối với các thủ tục y tế phức tạp.
+
+Cổng thông tin của Chính phủ UAE dự đoán giá trị của các sản phẩm y tế in 3D, bao gồm răng, xương, nội tạng, thiết bị và máy trợ thính ở Dubai sẽ đạt 462,9 triệu USD vào năm 2025. Thậm chí, ngoài “in” được nội tạng con người như trái tim, mới đây các nhà khoa học từ Đại học Newcastle (Anh Quốc) đã in thành công giác mạc với giá thành cực rẻ. Bằng cách in ra một lớp mực sinh học, khoanh vùng thành các vòng tròn đồng tâm để tạo hình giác mạc, tế bào gốc của người bệnh, sau đó sẽ được thêm vào để giúp giác mạc in ra được hoàn chỉnh hơn.
+
+In sinh học 3D cũng hứa hẹn giúp chúng ta “chia tay” thủ thuật ghép da trong tương lai gần, vì bác sĩ có thể in 3D da mới cho từng bệnh nhân. Ghép da là việc ghép da lành từ động vật, người cho hoặc chính cơ thể người bệnh sang một bộ phận khác trên cơ thể của họ, nơi da bị tổn thương nặng. Các nhà khoa học từ Viện Y học Tái sinh Wake Forest (WFIRM) đang nghiên cứu một hệ thống in sinh học da tinh vi có khả năng sử dụng một cách linh động, cho phép bác sỹ in da hai lớp trực tiếp trên vết thương của bệnh nhân.
+
+Đặc biệt, một giải pháp đột phá trong chăm sóc sức khỏe chính là ứng dụng in 3D trong các thiết bị đeo. Các cảm biến đeo được dùng theo dõi mọi thứ từ số bước chân đến nhịp tim ngày nay gần như có mặt ở khắp mọi nơi. Nhưng đối với các tình huống như đo thời điểm bắt đầu suy nhược ở người lớn tuổi, chẩn đoán kịp thời các bệnh nguy hiểm, thử nghiệm hiệu quả của thuốc mới hoặc theo dõi hiệu suất của các vận động viên chuyên nghiệp, thì cần có các thiết bị đạt chuẩn y tế.
+
+Các kỹ sư của Đại học Arizona đã phát triển một loại thiết bị đeo được mà họ gọi là “thiết bị cộng sinh sinh học”, không chỉ được in 3D tùy chỉnh dựa trên hình ảnh quét cơ thể của người đeo, mà còn có thể hoạt động liên tục bằng cách kết hợp truyền năng lượng không dây và lưu trữ năng lượng nhỏ gọn. Tạp chí Science Advances cho biết đây sẽ là các vòng lưới nhẹ, thoáng khí, được in 3D theo từng vị trí đặt cảm biến, cho phép các nhà nghiên cứu đo các thông số sinh lý mà bình thường họ không thể làm được.
+
+“Chỉ cần đeo thiết bị vào là xong. Không vướng víu và chẳng cần sạc, thiết bị sẽ tự theo dõi từng thông số sức khỏe cho người dùng”, nhóm kỹ sư cho biết. Các thiết bị mới, hay miếng dán cảm ứng, nhờ in 3D mà được thiết kế riêng để phù hợp với từng cá nhân, trong tương lai có thể mang lại những cải tiến lớn trong việc theo dõi và điều trị bệnh tật, cũng như chăm sóc sức khỏe chủ động...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 37-2024 phát hành ngày 09/9/2024.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

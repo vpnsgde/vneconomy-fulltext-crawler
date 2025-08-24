@@ -1,0 +1,31 @@
+Bảo hiểm xã hội Việt Nam chiều 16/5 thông tin một số kết quả của ngành về triển khai Đề án phát triển ứng dụng dữ liệu dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 – 2025, tầm nhìn đến năm 2030 (Đề án 06).
+
+Theo đó, tính đến ngày 16/5, Hệ thống của Bảo hiểm xã hội Việt Nam đã xác thực 83.477.695 thông tin nhân khẩu trong cơ sở dữ liệu do cơ quan này quản lý với cơ sở dữ liệu quốc gia về dân cư. Đồng thời, đã chia sẻ, cung cấp 107.157.011 bản ghi thông tin về bảo hiểm y tế với cơ sở dữ liệu quốc gia về dân cư.
+
+Cùng với đó, đã triển khai các giải pháp kỹ thuật đảm bảo từng bước sử dụng thẻ căn cước công dân gắn chip, ứng dụng Định danh điện tử quốc gia (VNEID) thay thế thẻ bảo hiểm y tế giấy để khám bệnh, chữa bệnh bảo hiểm y tế; chỉ đạo Bảo hiểm xã hội các tỉnh đẩy mạnh triển khai sử dụng căn cước công dân gắn chip trong khám chữa bệnh.
+
+Hiện, toàn quốc đã có 12.427 cơ sở khám chữa bệnh triển khai khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chip (đạt 96,99% tổng số cơ sở khám chữa bệnh bảo hiểm y tế trên toàn quốc), với 25.738.015 lượt tra cứu thông tin thẻ bảo hiểm y tế bằng căn cước công dân thành công phục vụ làm thủ tục khám chữa bệnh bảo hiểm y tế.
+
+Đối với việc gia hạn thẻ bảo hiểm y tế theo hộ gia đình có giảm trừ mức đóng trên Cổng Dịch vụ công quốc gia, đến nay hệ thống của Bảo hiểm xã hội Việt Nam tiếp nhận gia hạn cho 1.301 thẻ bảo hiểm y tế thực hiện qua dịch vụ công này.
+
+Cơ quan này cũng phối hợp với các đơn vị liên quan triển khai điều chỉnh, nâng cấp phần mềm, chia sẻ, kết nối với Phần mềm Dịch vụ công liên thông, đáp ứng yêu cầu cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi, và giải quyết hưởng trợ cấp mai táng thuộc các nhóm dịch vụ công liên thông "đăng ký khai sinh - đăng ký thường trú - cấp thẻ bảo hiểm y tế cho trẻ dưới 6 tuổi" và "đăng ký khai tử - xóa đăng ký thường trú - trợ cấp mai táng phí".
+
+Đến nay, Bảo hiểm xã hội 2 địa phương triển khai làm điểm (Hà Nam và Hà Nội) đã tiếp nhận và giải quyết 30.119 hồ sơ đề nghị cấp thẻ bảo hiểm y tế cho trẻ em dưới 6 tuổi và 1.104 hồ sơ đề nghị giải quyết hưởng mai táng phí qua 2 nhóm dịch vụ công liên thông.
+
+Đối với việc giải quyết hưởng trợ cấp thất nghiệp trên Cổng Dịch vụ công quốc gia, tính đến ngày 16/5/2023, đã tiếp nhận từ Cổng Dịch vụ công quốc gia để xác nhận và trả quá trình đóng bảo hiểm thất nghiệp cho 131.875 trường hợp phục vụ giải quyết hưởng trợ cấp thất nghiệp cho người lao động.
+
+Về việc đăng ký tham gia đóng bảo hiểm xã hội tự nguyện, hiện Hệ thống đã tiếp nhận và xử lý 170 giao dịch Đăng ký tham gia đóng bảo hiểm xã hội tự nguyện. Cùng với đó, đã tích hợp thành công dịch vụ ký số từ xa (ký số trên thiết bị di động), trên cơ sở này, Bảo hiểm xã hội Việt Nam sẽ tiếp tục điều chỉnh phần mềm đáp ứng yêu cầu triển khai Dịch vụ công Giải quyết hưởng bảo hiểm xã hội một lần.
+
+Đồng thời, cơ quan này cũng đang tiếp tục phối hợp với Bộ Công an để khai thác dữ liệu hộ gia đình từ cơ sở dữ liệu quốc gia về dân cư để triển khai Dịch vụ công Đăng ký tham gia bảo hiểm y tế đối với người chỉ tham gia bảo hiểm y tế.
+
+Thực hiện chỉ đạo của Thủ tướng Chính phủ, Bảo hiểm xã hội Việt Nam đã phối hợp với Bộ Công an triển khai ứng dụng công nghệ xác thực sinh trắc trên căn cước công dân gắn chíp và trên dữ liệu của cơ sở dữ liệu quốc gia về dân cư nhằm hạn chế, ngăn chặn trục lợi khi đóng, hưởng các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Hiện nay, đang triển khai thí điểm tích hợp công nghệ xác thực sinh trắc trong khám chữa bệnh bảo hiểm y tế tại Hà Nội, Quảng Bình và trong tiếp nhận hồ sơ, trả kết quả giải quyết thủ tục hành chính tại bộ phận một cửa của Bảo hiểm xã hội tỉnh Bình Dương, Bảo hiểm xã hội quận Đống Đa (Hà Nội).
+
+Theo Bảo hiểm xã hội Việt Nam, việc triển khai số hóa tất cả kết quả giải quyết thủ tục hành chính và việc kết nối, liên thông, chia sẻ dữ liệu, cung cấp dịch vụ công trực tuyến giúp giảm thời gian, chi phí cho tổ chức, cá nhân khi giao dịch với cơ quan Bảo hiểm xã hội.
+
+
+
+Bảo hiểm xã hội Việt Nam đã hoàn thành việc nâng cấp phần mềm, bổ sung chức năng để hỗ trợ Bộ Y tế thực hiện liên thông dữ liệu khám sức khỏe lái xe, giấy chứng sinh, giấy báo tử điện tử phục vụ triển khai dịch vụ công cấp đổi, cấp lại giấy phép lái xe trực tuyến.
+
+Tính đến nay, trên toàn quốc có 1.273 cơ sở khám chữa bệnh được phê duyệt gửi dữ liệu khám sức khỏe lái xe, trong đó có 972 cơ sở đã gửi dữ liệu với 294.438 dữ liệu được gửi.

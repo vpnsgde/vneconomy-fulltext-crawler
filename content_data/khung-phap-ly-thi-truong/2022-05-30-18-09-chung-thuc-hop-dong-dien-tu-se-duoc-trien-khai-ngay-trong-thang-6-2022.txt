@@ -1,0 +1,25 @@
+Bộ Công Thương cho biết trong những năm vừa qua, thương mại điện tử Việt Nam có sự phát triển vượt bậc, nhảy vọt với tốc độ tăng trưởng 16- 17%/năm. Các giao dịch thương mại điện tử được thực hiện thông qua các sàn thương mại điện tử, các mạng xã hội và các website bán hàng trực tiếp của doanh nghiệp, người kinh doanh. Tuy phát triển với tốc độ đột phá, các giao dịch thương mại điện tử luôn ẩn chứa nhiều rủi ro cho cả người mua và người bán.
+
+Nhằm đảm bảo an toàn cho các giao dịch, giao kết hợp đồng cho các chủ thể trên môi trường thương mại điện tử, Bộ Công Thương đã trình Chính phủ ban hành hành lang pháp lý cho hoạt động chứng thực hợp đồng điện tử trong các Nghị định 52/2013/NĐ-CP và gần đây nhất là Nghị định 85/2021/NĐ-CP về thương mại điện tử, chính thức tạo hành lang pháp lý cần thiết để cấp phép cho hoạt động chứng thực hợp đồng điện tử tại Việt Nam.
+
+Chia sẻ về lợi ích ứng dụng hợp đồng điện tử, ông Đặng Hoàng Hải, Cục trưởng Cục Thương mại điện tử và Kinh tế số, Bộ Công Thương, nhận định, lợi ích mang lại cho doanh nghiệp, cá nhân, tổ chức rất lớn. Trước hết, giúp tiết kiệm chi phí. So với chi phí hiện nay, một hợp đồng truyền thống sẽ mất chi phí giấy tờ, in ấn, chi phí chuyển phát hợp đồng hoặc chi phí đi lại.
+
+Song khi sử dụng hợp đồng, giao kết điện tử sẽ tiết kiệm được từ 30.000 VNĐ đến 80.000 VNĐ. “Nếu nhân với số lượng hợp đồng đang giao dịch hàng năm hiện nay, chi phí tiết kiệm được cho doanh nghiệp, cá nhân là rất lớn”, ông Hải tính toán.
+
+Bên cạnh đó là vấn đề tiết kiệm thời gian và nâng cao hiệu suất. So với quy trình hợp đồng giấy hiện tại, phải đợi Giám đốc doanh nghiệp, hoặc lãnh đạo có mặt tại văn phòng để ký trình, việc sử dụng hợp đồng điện tử sẽ tiết kiệm rất nhiều thời gian hình thành hợp đồng. Lãnh đạo đơn vị có thể đang đi công tác vẫn có thể thực hiện phê duyệt, ký kết hợp đồng.
+
+Ngoài ra, với hợp đồng điện tử, các bên thứ 3 như ngân hàng, các tổ chức, cơ quan quản lý nhà nước có thể căn cứ trên hợp đồng điện tử với xác thực của các đơn vị được Bộ Công Thương cấp phép, hoặc thông qua Trục phát triển hợp đồng điện tử của Bộ Công Thương để xác minh giá trị bản gốc của hợp đồng. Việc này tiết kiệm nhiều thời gian xác minh và đảm bảo hạn chế chứng từ giả, chứng từ khống.
+
+Ông Hải cũng cho biết thêm, việc lưu trữ hợp đồng dưới dạng điện tử sẽ giúp doanh nghiệp quản lý, tra cứu, tìm kiếm một cách dễ dàng mà vẫn đảm bảo được sự an toàn, bảo mật của nội dung hợp đồng.
+
+Thông tin về lộ trình đưa hợp đồng điện tử vào thực tế, ông Hải cho hay, ngày 15/3/2022, Ủy ban quốc gia về Chuyển đổi số đã có Quyết định số 27/QĐ-UBQGCĐS về Ban hành Kế hoạch hoạt động năm 2022, trong đó có mục tiêu phát triển kinh tế xã hội, thúc đẩy tỷ lệ doanh nghiệp sử dụng hợp đồng điện tử đạt 50%.
+
+Mặt khác, hành lang pháp lý cũng sẵn sàng, Bộ Công Thương đã ban hành Thông tư 01/2022/TT-BCT hướng dẫn Nghị định 85/2021/NĐ-CP. Trong quý I và II/2022, Bộ đã làm việc với các doanh nghiệp gửi đề nghị cấp đăng ký cung cấp dịch vụ Chứng thực hợp đồng điện tử và sẵn sàng cung cấp dịch vụ trong tháng 6/2022.
+
+Song song với việc hoàn thiện hành lang pháp lý, căn cứ cấp phép cho các doanh nghiệp, Bộ Công Thương đã phát triển hệ thống Trục phát triển hợp đồng điện tử quốc gia (CeCA.gov.vn).
+
+Hệ thống trục sẽ là nơi cung cấp thông tin xác thực hợp đồng toàn quốc cho các bên thứ 3, đồng thời là nền tảng hỗ trợ, kết nối các tổ chức chứng thực hợp đồng điện tử được cấp đăng ký, kết nối với các nhà cung cấp dịch vụ dấu thời gian, chữ ký số, định danh và xác thực đã được Bộ Thông tin và Truyền thông cấp phép.
+
+Hệ thống Trục phát triển hợp đồng điện tử quốc gia sẽ đóng vai trò xây dựng và phát triển thị trường ứng dụng thực tế của hợp đồng điện tử, để kết nối các nền tảng công nghệ, các hạ tầng số tin cậy của Chính phủ đến các doanh nghiệp, tổ chức, người dùng thông qua các giao dịch thương mại.
+
+“Mỗi giao dịch hợp đồng điện tử sẽ có gắn kèm với các quy định về giải quyết tranh chấp, khiếu nại, xử lý các yếu tố phát sinh trong quá trình giao kết và thực thi hợp đồng. Điều này giúp cho doanh nghiệp, tổ chức, cá nhân, các bên thứ 3 có một cơ quan trung gian đủ tin cậy để giải quyết các vấn đề phát sinh khi thực hiện giao kết, hợp đồng dưới dạng điện tử”, ông Hải chia sẻ.

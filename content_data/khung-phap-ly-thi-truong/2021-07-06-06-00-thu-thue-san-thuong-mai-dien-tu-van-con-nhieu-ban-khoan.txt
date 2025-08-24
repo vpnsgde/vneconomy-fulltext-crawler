@@ -1,0 +1,37 @@
+Thông tư 40/2021/TT-BTC của Bộ Tài chính hướng dẫn về thuế giá trị gia tăng, thuế thu nhập cá nhân và quản lý thuế đối với hộ kinh doanh, cá nhân kinh doanh được ban hành ngày 1/6/2021. Thông tư có một số quy định tới việc các sàn thương mại điện tử phải khai và nộp thuế thay các cá nhân, hộ kinh doanh trên sàn cũng như cung cấp nhiều thông tin tới cơ quan thuế.
+
+Tại điều 8, khoản 1, điểm đ Thông tư này quy định: “Tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử thực hiện việc khai thuế thay, nộp thuế thay cho cá nhân theo lộ trình của cơ quan thuế”.
+
+
+
+Về bản chất, sàn thương mại điện tử cũng không phải là đơn vị trả thu nhập mà chỉ cung cấp hạ tầng công nghệ để kết nối người bán và người mua, giúp họ thực hiện giao dịch. Vì vậy, không thuộc đối tượng có nghĩa vụ kê khai, khấu trừ thuế thu nhập của người bán theo quy định.
+
+Căn cứ pháp lý của Thông tư là một trong những vấn đề gây nhiều tranh cãi khi Luật Thuế thu nhập cá nhân quy định các tổ chức, cá nhân có trách nhiệm tự kê khai, khấu trừ, nộp thuế. Luật Quản lý thuế cũng quy định cá nhân kinh doanh phải tự kê khai và nộp thuế tại nơi họ đặt địa điểm kinh doanh. Do đó, việc kê khai và nộp thay dẫn đến mâu thuẫn với quy định hiện hành.
+
+Ngoài ra, theo ông Tuấn, pháp luật quy định cá nhân kinh doanh có doanh thu dưới 100 triệu đồng/năm thì được miễn thuế nhưng để các sàn thương mại điện tử biết được chính xác doanh thu, thu nhập thực tế của người bán thì không phải dễ có được. Đặc biệt, sàn thương mại điện tử sẽ phát sinh thêm chi phí đầu tư hạ tầng, phần mềm và đội ngũ nhân sự đối soát thuế, giải đáp thắc mắc, khiếu nại (nếu có)...
+
+Phó chủ tịch Hiệp hội Thương mại điện tử Việt Nam (VECOM), ông Nguyễn Ngọc Dũng, cho rằng Thông tư 40 có nhiều nội dung mới so với bản dự thảo đăng tải đầu tiên ngày 12/3/2021 nhưng Ban soạn thảo chưa tổ chức lấy ý kiến của các bên liên quan và đối tượng chịu sự tác động trực tiếp. Do đó, một số quy định trong Thông tư chưa có tính khả thi cao và có thể gây ra nhiều tác động lớn đối với hoạt động kinh doanh của các sàn thương mại điện tử cũng như hàng trăm nghìn cá nhân kinh doanh trên sàn.
+
+Đại diện nhiều sàn giao dịch thương mại điện tử đề nghị xem xét lộ trình áp dụng các yêu cầu mới tại Thông tư 40, bởi thời điểm áp dụng từ ngày 1/8 tới là quá gấp gáp để các sàn có thể chuẩn bị hệ thống cho việc thu thập dữ liệu và báo cáo theo yêu cầu của cơ quan thuế.
+
+Với khoảng 35 triệu giao dịch mỗi ngày, khối lượng công việc đối với các sàn là rất lớn. Hơn nữa, các sàn giao dịch thương mại điện tử cũng không có cơ sở dữ liệu để kiểm soát các cá nhân chưa đến ngưỡng chịu thuế (dưới 100 triệu đồng một năm). “Đối với các doanh nghiệp công nghệ xuyên quốc gia đang sở hữu các sàn thương mại điện tử, việc điều chỉnh hệ thống hạ tầng để đáp ứng quy định riêng như Việt Nam là không hề đơn giản”, bà Huyền chỉ rõ.
+
+Bà Nguyễn Thị Hương Giang, Giám đốc tài chính Công ty Shopee kiến nghị: ngành thuế cần có hướng dẫn để phân biệt rõ giữa cá nhân kinh doanh và hộ kinh doanh, do sàn giao dịch thương mại điện tử chỉ kê khai và nộp thuế thay cá nhân kinh doanh. Việc phân định rõ sẽ giúp các sàn nâng cấp ứng dụng và triển khai đúng theo tinh thần của Thông tư 40 và ngành thuế cũng cần tính toán lại lộ trình và thời gian triển khai cho phù hợp với thực tiễn.
+
+Được biết, lộ trình triển khai kết nối cung cấp thông tin giữa Tổng cục Thuế́ và các sàn thương mại điện tử phải tiến hành trong năm nay để có thể hoàn tất và đi vào vận hành từ năm 2022. Từ ngày 1/8 đến 1/10, Tổng cục Thuế tổng hợp ý kiến phản hồi, hoàn thiện, trình các cấp có thẩm quyển ban hành chuẩn dữ liệu kết nối thông tin. Sau đó, đến trước ngày 1/1/2022, Tổng cục Thuế và các sàn thương mại điện tử sẽ triển khai nâng cấp ứng dụng để đảm việc kết nối thông tin theo chuẩn định dạng bằng phương thức điện tử.
+
+Lộ trình này được đưa ra sau khi các quy định liên quan trong Thông tư 40 vấp phải nhiều ý kiến trái chiều. Cụ thể, Thông tư 40 yêu cầu các sàn thương mại điện tử cung cấp thông tin về cá nhân kinh doanh gồm họ tên; số định danh cá nhân hoặc CMND/CCCD/hộ chiếu; mã số thuế; địa chỉ; email; số điện thoại; loại hàng hóa, dịch vụ cung cấp; doanh thu; tài khoản ngân hàng... Nếu cơ sở dữ liệu chưa đầy đủ, các sàn phải bổ sung chậm nhất trước ngày 1/8.
+
+Trong các trách nhiệm của sàn thương mại điện tử quy định tại Nghị định 52/2013/NĐ-CP về thương mại điện tử, không có trách nhiệm phải kê khai thay, nộp thuế thay cho người bán. Nghị định 52 cũng nêu rõ người bán trên sàn giao dịch có trách nhiệm “thực hiện đầy đủ nghĩa vụ thuế theo quy định của pháp luật”.
+
+
+
+Một trong những nội dung trong dự thảo Nghị định sửa đổi thay thế Nghị định 52 coi các mạng xã hội cung cấp dịch vụ bán hàng là sàn thương mại điện tử. Như vậy, nếu theo Thông tư 40/2021/TT-BTC các mạng xã hội kể cả của các nhà cung cấp nước ngoài cũng phải kê khai và nộp thuế thay cho các cá nhân kinh doanh là khó khả thi.
+
+“Ở vị trí người bán, tội gì họ phải mang hàng lên sàn thương mại điện tử bán cho đắt đỏ và phức tạp. Họ sẽ chuyển sang kinh doanh trên các mạng xã hội khác hiện chưa được xem là sàn thương mại điện tử hoặc “bê hàng” trở về hình thức truyền thống cho tiện. Cơ quan nhà nước chắc cũng khó bắt ban quản lý chợ truyền thống phải đi quyết toán, nộp thuế thay cho các tiểu thương như trên chợ điện tử. Một doanh nghiệp nói với tôi rằng rủi ro từ thương trường, từ cạnh tranh đã khắc nghiệt, nhưng rủi ro từ thay đổi chính sách, pháp luật có khi lại khắc nghiệt hơn nhiều lần”, ông Đậu Anh Tuấn, Trưởng ban Pháp chế, Phòng Thương mại và Công nghiệp Việt Nam (VCCI) nói.
+
+Đại diện VECOM cũng khẳng định, mong muốn của VECOM là đảm bảo hài hòa lợi ích giữa các bên, vừa tuân thủ Luật Quản lý thuế, vừa tạo thuận lợi cho các doanh nghiệp cung cấp dịch vụ sàn thương mại điện tử và đặc biệt là tính khả thi của các quy định pháp luật mới.
+
+Mặt khác, một số sàn không tham gia trực tiếp vào giao dịch giữa người mua và người bán mà chỉ đứng vai trò kết nối như Chotot.vn, Batdongsan.com.vn... không thể kiểm soát hay có thông tin về doanh thu vì nhiều khả năng tài sản do bên bán và mua tự thỏa thuận; thậm chí thông tin tài khoản ngân hàng, CMND/CCCD, mã số thuế, địa chỉ của cả người mua và người bán đều khó thu thập được; hoặc nhiều thông tin mua bán ảo, giá trị ảo, hay tâm lý thương lượng né thuế từ lâu được xem là khó xác định…
+
+Để hỗ trợ cá nhân kinh doanh có thể kê khai đúng, đủ, kịp thời, Thông tư 40 cũng quy định trách nhiệm các sàn thương mại điện tử trong việc cung cấp thông tin. Trên cơ sở đó, hệ thống cơ sở dữ liệu của ngành thuế sẽ hỗ trợ tra cứu thông tin tổng hợp doanh thu kinh doanh trên toàn quốc để cá nhân có thể tự thực hiện việc khai thuế, nộp thuế theo đúng quy định.

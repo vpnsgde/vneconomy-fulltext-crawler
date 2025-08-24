@@ -1,0 +1,23 @@
+Các doanh nghiệp trên toàn thế giới, từ các hãng hàng không đến các tập đoàn dịch vụ tài chính và truyền thông, đã bị ảnh hưởng do sự cố ngừng hoạt động công nghệ thông tin toàn cầu vào ngày 19/7, gây ra sự gián đoạn lớn đối với một loạt dịch vụ. Hàng nghìn công nhân không thể đăng nhập vào máy tính vào sáng ngày 19/7, làm gián đoạn hoạt động kinh doanh từ tài chính đến chăm sóc sức khỏe.
+
+Các doanh nghiệp Úc là những người đầu tiên cảnh báo về vấn đề này, với hoạt động của các nhà bán lẻ bao gồm Woolworths và 7-Eleven bị ảnh hưởng. Sân bay Sydney cho biết sự cố kỹ thuật toàn cầu đã ảnh hưởng đến hoạt động của sân bay.
+
+Ở châu Âu, các hãng hàng không và sân bay cảnh báo về sự gián đoạn. Cục Hàng không Liên bang Mỹ cho biết Delta, United và American Airlines đã yêu cầu hạ cánh các chuyến bay.
+
+Theo nhiều bài đăng trên mạng xã hội, sự cố ngừng hoạt động được cho là do bản cập nhật phần mềm bảo mật từ tập đoàn CrowdStrike của Mỹ, gây ra sự cố với Windows của Microsoft.
+
+Một tuyên bố được chia sẻ trên mạng xã hội cũng được đăng trên một trang web dành cho khách hàng doanh nghiệp của CrowdStrike cho biết: “CrowdStrike đã biết về các báo cáo về sự cố trên Windows”.
+
+Sân bay Berlin Brandenburg cho biết họ cũng gặp phải lỗi kỹ thuật và hành khách đã bị trì hoãn làm thủ tục.
+
+Aena, nhà điều hành sân bay chính của Tây Ban Nha, cho biết các hoạt động đang được thực hiện bằng hệ thống thủ công do sự cố trong hệ thống công nghệ thông tin của họ. “Sự gián đoạn đang xảy ra trong hệ thống của Aena và mạng lưới sân bay của Tây Ban Nha, điều này có thể gây ra sự chậm trễ. Chúng tôi đang nỗ lực giải quyết vấn đề này càng sớm càng tốt”, Aena thông tin thêm.
+
+Tập đoàn giao dịch chứng khoán London cho biết họ đang điều tra một vấn đề liên quan đến việc công bố các thông báo tin tức. Theo một tuyên bố trên trang web của công ty, dịch vụ tin tức của họ đang gặp phải sự cố kỹ thuật toàn cầu của bên thứ ba, khiến tin tức không thể được xuất bản. LSEG cho biết các hệ thống khác bao gồm cả sàn giao dịch vẫn hoạt động bình thường.
+
+Trước đó Microsoft cho biết một số khách hàng sử dụng điện toán đám mây Azure của họ có thể gặp sự cố với nhiều dịch vụ Azure ở khu vực miền Trung Hoa Kỳ và họ đang điều tra các vấn đề. Một bản cập nhật trạng thái vào sáng ngày 19/7 cho biết công ty đã xác định được nguyên nhân cơ bản – nguyên nhân dường như không phải là một cuộc tấn công mạng mà là một vấn đề kỹ thuật và nói rằng phần lớn các dịch vụ hiện đã được phục hồi.
+
+Tuy nhiên, tình trạng ngừng hoạt động trên diện rộng vẫn tiếp diễn, khiến một số người dùng vào ngày 19/7 không thể truy cập vào nhiều bộ ứng dụng và dịch vụ 365 của Microsoft. Microsoft cho biết họ đang xử lý vấn đề với mức độ ưu tiên và khẩn cấp cao nhất.
+
+David Rhodes, chủ tịch điều hành của Sky News, cho biết trên X rằng đài truyền hình không thể phát sóng truyền hình trực tiếp sáng nay và hiện đang nói với người xem rằng chúng tôi xin lỗi vì sự gián đoạn.
+
+CrowdStrike là một công ty an ninh mạng đã lên tiếng chỉ trích Microsoft về hàng loạt cuộc tấn công mà công ty này phải đối mặt gần đây. Công ty năm nay đã tung ra một sản phẩm được thiết kế để hoạt động cùng với công cụ Defender chống virus của Microsoft.

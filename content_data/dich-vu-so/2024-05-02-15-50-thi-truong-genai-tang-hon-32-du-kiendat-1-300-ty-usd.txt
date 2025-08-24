@@ -1,0 +1,31 @@
+AI đang có bước phát triển, tăng trưởng mạnh mẽ, xử lý những công việc phức tạp hơn với yêu cầu tư duy cao hơn, mở ra không gian ứng dụng lớn, thị trường mới cho Gen AI (AI tạo sinh).
+
+Chia sẻ về “tương lai của AI” tại sự kiện vừa diễn ra, ông Lê Hồng Việt, Tổng giám đốc FPT Smart Cloud, cho biết trước đây, AI còn sơ khai, cần nhiều nguồn lực nghiên cứu và phát triển. Tuy nhiên trong thời gian gần đây, những công ty công nghệ lớn đã tạo ra nền tảng để cộng đồng sử dụng và tạo AI cho riêng mình.
+
+Theo ông Việt, trong 10 năm tới thị trường GenAI tăng từ 40 tỷ USD (năm 2022) lên 1.300 tỷ USD (năm 2032), tăng 32,5 lần. Tỷ suất tăng trưởng kép hàng năm (CAGR) đạt 42%.
+
+Còn hãng IDC ước tính trong 10 năm tới, GenAI sẽ đóng góp gần 10.000 tỷ USD vào GDP toàn cầu, đi vào mọi ngành nghề đời sống kinh tế xã hội.
+
+
+
+Trên thế giới, các công ty công nghệ đều đang dồn lực đầu tư mạnh vào AI tạo sinh. Một nghiên cứu  của EY cũng nhấn mạnh vị thế đột phá của GenAI, khi công nghệ này đứng thứ 3 trong số 9 công nghệ mới nổi được các doanh nghiệp quan tâm đầu tư nhất. Theo khảo sát, có 43% trong số hơn 1.400 doanh nghiệp đang đầu tư vào GenAI…
+
+Theo nghiên cứu của Moody Analytics, trên thế giới đang có nhu cầu rất lớn về AI. Khu vực APAC cũng là khu vực mong muốn các nhà cung cấp tích hợp các công cụ AI nhất, với tỷ lệ 90% so với 77% ở Châu Âu và 68% ở Châu Mỹ.
+
+Tại Việt Nam, Hiệp hội Phần mềm và dịch vụ công nghệ thông tin cho biết đã xuất hiện hàng loạt các giải pháp ứng dụng, nền tảng, trợ lý ảo trí tuệ nhân tạo “Make in Vietnam” do doanh nghiệp công nghệ Việt nghiên cứu, phát triển.
+
+Điều này kỳ vọng không chỉ mang lại sự bùng nổ ứng dụng AI trong các lĩnh vực kinh tế, xã hội, phục vụ chính quyền, người dân và doanh nghiệp, giúp tối ưu hóa nguồn lực, tăng hiệu quả hoạt động của tổ chức và năng suất lao động, mà còn giúp các doanh nghiệp công nghệ số Việt Nam thuận lợi trong công cuộc Go Global.
+
+"Hiện nay, ứng dụng công nghệ AI ở Việt Nam mới bắt đầu, trong đó, tài chính, ngân hàng là nhóm ngành tiên phong". Nhấn mạnh điều này, ông Việt dẫn chứng, các ngân hàng, tổ chức tài chính cho phép khách hàng mở tài khoản trực tuyến. Khi đó, ứng dụng AI giúp ngân hàng xác định thông tin giấy tờ tùy thân và đặc biệt AI giúp xác thực khuôn mặt, kiểm tra giả mạo, giúp mang lại hiệu quả cao trong xác thực khách hàng.
+
+Theo Quyết định số 2345/QĐ-NHNN của Ngân hàng Nhà nước, từ ngày 1/7/2024, các giao dịch chuyển khoản trên 10 triệu đồng phải dùng nhận diện sinh trắc học qua xác thực khuôn mặt, bảo đảm chính chủ đang thực hiện giao dịch, tránh lừa đảo.
+
+Bên cạnh đó, các doanh nghiệp trong lĩnh vực bảo hiểm, bán lẻ cũng là nhóm ngành ứng dụng AI mạnh mẽ bởi đây là nhóm ngành phải tiếp xúc nhiều với khách hàng.
+
+Đối với giao dịch B2B, ứng dụng AI giúp nâng cao trải nghiệm khách hàng, tăng năng suất lao động, tăng trải nghiệm cho nhân viện. Ví dụ khi người dùng gọi điện đến ngân hàng để kiểm tra lệnh chuyển tiền sẽ mất 5-10 phút, trong đó ¾ thời gian ngồi chờ đợi. Tuy nhiên, với việc ứng dụng công nghệ AI sẽ hỗ trợ trả lời bằng máy, dự đoán câu hỏi của khách hàng…
+
+Với người dùng cuối, AI đã được đưa và các thiết bị, ứng dụng giải trí và hỗ trợ xử lý công việc. Dự báo trong tương lai, mỗi người sẽ có trợ lý ảo tổng hợp thông tin, hỗ trợ viết. AI còn là công cụ hỗ trợ đắc lực cho nhân viên khối ngân hàng, tài chính.
+
+Ví dụ để tóm tắt báo cáo tài chính, báo cáo thường niên (dài khoảng 200 trang) nếu theo cách thông thường, một nhân viên ngân hàng sẽ phải mất hàng ngày ngồi đọc báo cáo để tóm tắt nội dung. Tuy nhiên, nếu ứng dụng trợ lý AI sẽ giúp thực hiện công việc này nhanh chóng, đọc các báo cáo, tóm lại những thông tin mới, quan trọng nhất trong 1-2 trang chỉ trong thời gian ngắn…
+
+Bên cạnh tài chính, ngân hàng, những ngành có xu hướng tự động hóa mạnh mẽ với AI như đào tạo doanh nghiệp, bán hàng và marketing, hỗ trợ nghiệp vụ vận hành...

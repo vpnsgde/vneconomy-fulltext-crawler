@@ -1,0 +1,17 @@
+Báo cáo vừa được tập đoàn công nghệ Bkav phát ra cho biết, lỗ hổng mới được phát hiện có mã định danh CVE-2023-30799, mức điểm nghiêm trọng CVSS 9,1. Lỗ hổng nghiêm trọng này được phát hiện trong hệ điều hành MikroTik RouterOS, cho phép kẻ tấn công, đã được xác thực, leo thang đặc quyền từ admin lên super admin để thực thi mã tùy ý, chiếm toàn quyền kiểm soát thiết bị và biến chúng thành các botnet, tấn công DDoS.
+
+Ông Nguyễn Văn Cường, Giám đốc An ninh mạng của Bkav, cho biết, tại Việt Nam, số thiết bị MikroTik đang kết nối Internet ở thời điểm ngày 26/7 lên đến hàng chục nghìn. Tất cả đều có nguy cơ bị khai thác.
+
+Chuyên gia Bkav giải thích, thói quen của người dùng thường bỏ qua việc đổi mật khẩu mặc định của thiết bị khi mới mua về. MikroTik không trang bị bất kỳ giải pháp an ninh nào chống lại các cuộc tấn công brute-force trên hệ điều hành MikroTik RouterOS. Tin tặc có thể dò tên người dùng và mật khẩu truy cập của người dùng mà không bị ngăn chặn.
+
+Một thống kê gần đây cho thấy, có đến 60% thiết bị MikroTik hiện vẫn sử dụng tài khoản admin mặc định. Thậm chí, RouterOS không yêu cầu mật khẩu mạnh, nên người dùng có thể đặt tùy ý, dẫn đến hậu quả càng dễ dàng bị tấn công brute-force.
+
+“Để khai thác được lỗ hổng CVE-2023-30799, hacker cần chiếm được quyền admin trong khi phần lớn mật khẩu mặc định trên các thiết bị chưa được thay đổi. Đây là lỗi phát cả từ người dùng và nhà sản xuất”, ông Cường lý giải.
+
+Bộ định tuyến MikroTik là sản phẩm phổ biến của hãng chuyên sản xuất các thiết bị mạng Latvia. Thiết bị này chạy trên hệ điều hành riêng MikroTik RouterOS, cho phép người dùng truy cập trang quản trị trên cả giao diện web HTTP hoặc ứng dụng Winbox để tạo, cấu hình và quản lý một mạng LAN hoặc WAN.
+
+Trên thế giới, số lượng bộ định tuyến MikroTik đang tiếp xúc với Internet có nguy cơ bị khai thác qua HTTP và Winbox lần lượt là 500.000 và 900.000 thiết bị. Còn theo ghi nhận của Bkav, con số này tại Việt Nam là 9.500 qua HTTP và 23.000 qua Winbox,
+
+Với số lượng lớn thiết bị đang kết nối ra Internet như vậy, để giảm thiểu rủi ro, các chuyên gia Bkav khuyến cáo người dùng lập tức cập nhật bản vá mới nhất (6.49.8 hoặc 7.x) cho RouterOS, đồng thời thực hiện các giải pháp như bỏ kết nối Internet trên các giao diện quản trị để ngăn chặn việc truy cập từ xa.
+
+Đồng thời thiết lập mật khẩu mạnh nếu bắt buộc phải public trang quản trị; tắt chương trình quản trị Winbox và sử dụng giao thức SSH thay thế, do MikroTik chỉ cung cấp giải pháp bảo vệ cho giao diện SSH; cấu hình SSH sử dụng cặp khóa công khai/bí mật thay vì mật khẩu cho việc xác thực qua SSH. Điều này sẽ tăng tính bảo mật và giảm khả năng bị tấn công brute-force.

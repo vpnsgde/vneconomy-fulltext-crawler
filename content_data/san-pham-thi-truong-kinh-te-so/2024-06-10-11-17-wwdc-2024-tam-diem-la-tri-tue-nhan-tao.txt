@@ -1,0 +1,19 @@
+Năm ngoái, tại hội nghị WWDC 2023, Apple đã giới thiệu một trong những sản phẩm được hãng kỳ vọng nhất trong nhiều năm: tai nghe Vision Pro. Tuy nhiên, lần này, tâm điểm của sự kiện sẽ không phải là một sản phẩm mới mà là hệ thống trí tuệ nhân tạo do Apple phát triển.
+
+Chương trình hội nghị WWDC 2023 sẽ khai mạc vào ngày 10/6 lúc 10 giờ theo giờ PST (tức 12:00, ngày 11/6 theo giờ Việt Nam), kéo dài đến ngày 14/6. WWDC 2024 hứa hẹn sẽ là một sự kiện thú vị dành cho các nhà phát triển và những người đam mê công nghệ.
+
+Sự kiện sẽ kéo dài hơn một giờ và được phát trên trang web chính thức của Apple, nhưng cũng có thể theo dõi trực tiếp sự kiện trên trang Youtube của hãng bằng đường link sau: https://www.youtube.com/watch?v=RXeOiIDNNek.
+
+Trong khi WWDC luôn tập trung vào các bản cập nhật phần mềm và công cụ dành cho nhà phát triển, sự kiện lần này sẽ có chút khác biệt. WWDC 2024 dự kiến ​​sẽ tập trung vào chủ đề: trí tuệ nhân tạo (AI).
+
+Trong bối cảnh AI trở thành mục tiêu phát triển trung tâm của nhiều công ty, Apple hiện bị đánh giá là tụt hậu so với các đối thủ như Google, Microsoft và OpenAI trong cuộc đua tích hợp các khả năng AI tạo sinh vào các thiết bị công nghệ của mình. Tuy nhiên, CEO Tim Cook từng tuyên bố WWDC 2024 sẽ là cơ hội để Apple thể hiện tham vọng AI của mình.
+
+Nhiều trang tin tức đưa tin Apple và OpenAI hiện có quan hệ hợp tác chiến lược. Theo PhoneAndroid, Sự hợp tác này có thể khiến Apple trở thành một đối thủ đáng gờm trong lĩnh vực AI.
+
+Một trong những thông báo được mong đợi nhất tại WWDC 2024 là việc ra mắt iOS 18, hệ điều hành di động thế hệ tiếp theo của Apple. Các báo cáo chỉ ra rằng iOS 18 sẽ được trang bị những cải tiến về AI, làm thay đổi nhiều tính năng trên các ứng dụng của iPhone.
+
+Theo Bloomberg, Apple đã xây dựng lại Siri bằng cách sử dụng các mô hình ngôn ngữ lớn, cho phép Siri hiểu và phản hồi tốt hơn các truy vấn của người dùng, thậm chí thực hiện các hành động trong ứng dụng của Apple.
+
+Bên cạnh đó, iOS 18 dự kiến ​​​​sẽ giới thiệu các tính năng như tóm tắt tin nhắn và trang web, ghi nhớ giọng nói và khả năng xóa đối tượng và con người khỏi hình ảnh bằng công nghệ AI, v.v. Nhiều tính năng AI mới cũng sẽ có mặt trên macOS 15 để mang lại trải nghiệm nhất quán trên tất cả các thiết bị trong hệ sinh thái của Apple.
+
+Mặc dù WWDC theo truyền thống là một sự kiện tập trung vào phần mềm, nhưng trong những năm gần đây, Apple cũng thường chú trọng giới thiệu phần cứng, chẳng hạn như các bản cập nhật Apple Silicon và ra mắt Tai nghe thực tế Vision Pro hỗn hợp vào năm ngoái. Tuy nhiên, theo nhiều nguồn tin, phần cứng sẽ không được nhắc đến nhiều tại sự kiện năm nay.

@@ -1,0 +1,21 @@
+Sở Giao dịch Chứng khoán TP.HCM (HOSE) thông báo danh sách chứng khoán không đủ điều kiện giao dịch ký quỹ quý 2/2021, trong đó có các mã có tên tuổi như HVN, BVH, OGC...
+
+Theo đó, danh sách mà HOSE đưa ra, ngoài những mã cổ phiếu có thời gian niêm yết dưới 6 tháng thì phần lớn là các cổ phiếu thuộc diện bị cảnh báo, kiểm soát và lợi nhuận sau thuế cổ đông công ty mẹ là con số âm...
+
+Cụ thể, danh sách chứng khoán không đủ điều kiện giao dịch ký quỹ quý 2/2021 có 74 mã gồm:
+
+14 mã thuộc diện thời gian niêm yết dưới 6 tháng: AAT, ADG, BKG, FUEMAV30, LPB, MIG, MSB, OCB, SSB, SVD, TDP, TNH, VCA, VIB
+
+12 mã thuộc diện kiểm soát gồm: CIG, DTL, LCM, MCG, OGC, PTC, PTL, PXI, PXS, PXT, RIC, TTF
+
+33 mã thuộc diện cảnh báo gồm: AAM, AGR, DAH, DHM, DLG, DTA, DXG, DXV, FTM, GTN, HAG, HAS, HID, HNG, HOT, JVC, LAF, LEC, MHC, NVT, PIT, POM, QBS, SII, SMA, TCR, TDH, TGG, TS4, VNS, VIS, VOS và YEG
+
+2 mã thuộc diện tạm ngừng giao dịch: ATG, CLG
+
+1 mã thuộc diện báo cáo tài chính hợp nhất 6 tháng năm 2020 được soát xét có ý kiến không phải là ý kiến chấp thuận toàn phần của tổ chức kiểm toán: BVH
+
+8 mã thuộc diện lợi nhuận sau thuế của cổ đông công ty mẹ trên BCTC hợp nhất soát xét 6 tháng đầu năm 2020 là con số âm: HVN, FDC, LGL, SJF, STG, TNT, TTE, UDC
+
+2 mã thuộc BCTC hợp nhất năm 2020 được kiểm toán có ý kiến không phải là ý kiến chấp nhận toàn phần của tổ chức kiểm toán: HU1; HU3
+
+1 mã thuộc diện nhận được kết luận của cơ quan thuế về việc công ty vi phạm pháp luật thuế: CRE

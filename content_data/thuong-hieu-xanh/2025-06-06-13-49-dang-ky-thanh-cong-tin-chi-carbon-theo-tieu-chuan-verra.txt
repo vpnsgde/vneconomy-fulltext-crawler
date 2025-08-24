@@ -1,0 +1,65 @@
+Hoạt động chính là áp dụng phương pháp tưới xen kẽ ướt khô (AWD), giúp giảm phát thải khí metan từ quá trình sinh khí kỵ khí. Phương pháp làm giảm lượng nước sử dụng trên các ruộng lúa được quản lý có hệ thống tưới tiêu điều tiết được, đồng thời không làm thay đổi chu kỳ canh tác hoặc ảnh hưởng đến việc duy trì lượng carbon trong đất.
+
+AWD giúp giảm lượng nước tiêu thụ từ 15-35%, vượt mức yêu cầu tối thiểu 5% theo quy định. Dự án không được vi phạm pháp luật hiện hành, không thay đổi hệ sinh thái tự nhiên trong 10 năm trước thời điểm khởi động và không làm phát sinh thay đổi tiêu cực trong quản lý ngoài vụ. Phân tích bổ sung và xác định kịch bản đường cơ sở được thực hiện theo công cụ VT0001, tuân thủ cấu trúc từng bước và đảm bảo tính nhất quán giữa kịch bản đường cơ sở và tính bổ sung của hoạt động.
+
+Dự án VCS 5469 của An Giang đủ điều kiện về mặt kỹ thuật, pháp lý và môi trường để được đánh giá là hợp lệ theo Tiêu chuẩn carbon được xác minh (VCS). Kết quả nghiên cứu cho thấy khả năng triển khai phương án quản lý nước tiên tiến trong canh tác lúa có tiềm năng đóng góp hiệu quả vào mục tiêu giảm phát thải khí nhà kính trong lĩnh vực nông nghiệp.
+
+Lúa gạo là cây lương thực quan trọng trong chuỗi cung cấp thực phẩm toàn cầu, đóng vai trò chính trong việc đảm bảo an ninh lương thực cho hơn một nửa dân số thế giới. Các khu vực như châu Á, Mỹ Latinh và châu Phi đều phụ thuộc lớn vào nguồn cung cấp lương thực từ cây lúa. Hệ thống canh tác lúa nước tại các vùng đồng bằng thấp đã trở thành phương thức sản xuất chính, với diện tích trồng lúa lên tới hơn 90 triệu hécta trên toàn thế giới với khoảng 75% sản lượng gạo toàn cầu được tạo ra, góp phần duy trì ổn định chuỗi cung ứng và cân bằng lương thực ở nhiều quốc gia đang phát triển.
+
+Tại Việt Nam, diện tích trồng lúa năm 2024 ước đạt 7,13 triệu hécta, sản lượng ước tính khoảng 43,46 triệu tấn, đưa Việt Nam trở thành nước sản xuất lúa lớn thứ năm và nước xuất khẩu gạo lớn thứ ba trên toàn thế giới. Vai trò của sản xuất lúa không chỉ giới hạn ở phạm vi quốc gia mà còn lan rộng tới các thị trường quốc tế, góp phần bảo đảm an ninh lương thực toàn cầu trong bối cảnh dân số gia tăng và biến đổi khí hậu diễn biến phức tạp. Việt Nam hiện nay được xem là quốc gia có vị thế chiến lược trong việc duy trì ổn định nguồn cung gạo cho nhiều quốc gia trên thế giới, đặc biệt là ở khu vực châu Á và châu Phi.
+
+Canh tác lúa, dù mang lại giá trị kinh tế và an ninh lương thực, cũng là nguồn phát thải khí nhà kính đáng kể. Phát thải khí metan từ ruộng lúa là kết quả của điều kiện ngập nước lâu dài, tạo môi trường yếm khí thuận lợi cho quá trình phân hủy chất hữu cơ. Lượng metan sinh ra từ hoạt động ước tính chiếm khoảng 1,5% tổng phát thải khí nhà kính toàn cầu. Tại các quốc gia trồng lúa như Việt Nam, tỷ lệ phát thải có thể cao hơn nhiều so với mức trung bình toàn cầu. Tại Việt Nam, canh tác lúa được xác định là nguyên nhân dẫn đến khoảng 48% lượng phát thải khí nhà kính của toàn ngành nông nghiệp và 75% tổng lượng khí metan phát thải từ hoạt động nông nghiệp.
+
+Ngoài phát thải khí nhà kính, canh tác lúa còn tiêu thụ một lượng lớn nước tưới tiêu. Theo các nghiên cứu đã thực hiện, lượng nước tưới dành cho lúa chiếm từ 34% đến 43% tổng lượng nước sử dụng trong toàn bộ hoạt động tưới tiêu nông nghiệp. Trong bối cảnh biến đổi khí hậu ngày càng gay gắt, tình trạng khan hiếm nước gia tăng, áp lực đối với hệ thống canh tác truyền thống trở nên nặng nề. Việc duy trì mô hình canh tác ngập liên tục sẽ khó đáp ứng được yêu cầu về hiệu quả sử dụng tài nguyên nước và mục tiêu giảm phát thải khí nhà kính trong ngành nông nghiệp.
+
+Giải pháp tưới ướt khô xen kẽ đã được nghiên cứu và áp dụng nhằm cải thiện năng suất sử dụng nước, đồng thời làm giảm đáng kể phát thải khí metan từ ruộng lúa. Biện pháp không duy trì mực nước ngập liên tục mà cho phép mặt ruộng khô trong thời gian ngắn trước khi tiếp tục tưới. Nghiên cứu cho thấy việc áp dụng phương pháp tưới ướt khô xen kẽ có thể làm giảm tới 47% lượng khí metan phát thải so với phương pháp canh tác truyền thống. Việc thực hiện tưới tiết kiệm nước giúp nông dân duy trì hoặc thậm chí tăng nhẹ năng suất lúa mà không cần gia tăng lượng nước sử dụng, cho thấy tính khả thi của biện pháp đối với vùng đồng bằng trũng, nơi nước tưới thường dồi dào nhưng ngày càng bị đe dọa bởi biến đổi khí hậu.
+
+An Giang nằm trong khu vực Đồng bằng sông Cửu Long, có tọa độ địa lý từ 105°70’ đến 105°12’ kinh độ Đông và từ 10°30’ đến 10°52’ vĩ độ Bắc, chủ yếu thuộc hệ sinh thái nông nghiệp với đất lúa, cây công nghiệp, hoa màu và một phần rừng. Người dân chuyển dần sang trồng cây giá trị cao và nuôi thủy sản. Đô thị hóa khiến một phần đất nông nghiệp bị chuyển đổi. Khí hậu nhiệt đới gió mùa, nóng ẩm quanh năm, ảnh hưởng đến lịch thời vụ.
+
+An Giang có hệ thống sông ngòi dày đặc, đóng vai trò quan trọng trong tưới tiêu, nhưng mùa khô có nguy cơ xâm nhập mặn. Địa hình chủ yếu là đồng bằng, có vùng núi Thất Sơn ở phía Tây. Đất phù sa màu mỡ, đất phèn cần cải tạo. Thảm thực vật đa dạng, nổi bật là rừng tràm Trà Sư, có giá trị sinh thái và du lịch cao.
+
+
+
+Giải pháp AWD mang lại hiệu quả rõ rệt trong việc tiết kiệm nước, khi có thể giảm lượng nước sử dụng từ 15% đến 35% so với mức trung bình trong giai đoạn lịch sử. Nghiên cứu đã cho thấy khi vận hành đúng kỹ thuật, phương pháp không gây tổn thất về năng suất lúa. Dự án không triển khai các điều chỉnh định lượng khác như thay đổi lượng phân bón hay nhiên liệu hóa thạch sử dụng. Mục tiêu chính của dự án tập trung vào quản lý nước và kiểm soát điều kiện ngập úng trong canh tác lúa.
+
+Để tạo được tín chỉ carbon, dự án thực hiện mô hình canh tác lúa với quản lý tưới tiêu cải tiến nhằm giảm phát thải khí metan phát sinh từ quá trình yếm khí trong điều kiện ngập nước. Trong các hoạt động chính được nêu ra, dự án áp dụng phương pháp AWD, được xác định rõ trong tài liệu kỹ thuật và được áp dụng nhất quán trong suốt quá trình thực hiện dự án.
+
+Giải pháp AWD mang lại hiệu quả rõ rệt trong việc tiết kiệm nước, khi có thể giảm lượng nước sử dụng từ 15% đến 35% so với mức trung bình trong giai đoạn lịch sử. Nghiên cứu đã cho thấy khi vận hành đúng kỹ thuật, phương pháp không gây tổn thất về năng suất lúa. Dự án không triển khai các điều chỉnh định lượng khác như thay đổi lượng phân bón hay nhiên liệu hóa thạch sử dụng. Mục tiêu chính của dự án tập trung vào quản lý nước và kiểm soát điều kiện ngập úng trong canh tác lúa.
+
+Toàn bộ diện tích thực hiện dự án được trang bị hệ thống tưới tiêu chủ động với khả năng kiểm soát dòng chảy và lượng nước theo yêu cầu kỹ thuật. Dự án đảm bảo tạo ra các điều kiện phù hợp cho việc giảm phát thải khí nhà kính trong giai đoạn sinh trưởng của cây lúa. Hệ thống được thiết kế để vận hành linh hoạt, thích ứng với nhu cầu tưới tiêu cụ thể của từng thời điểm và từng giai đoạn phát triển của cây trồng. Hoạt động của dự án không nằm trong phạm vi điều chỉnh bởi bất kỳ quy định pháp luật địa phương nào cấm thực hiện các biện pháp tưới tiêu cải tiến. Phân tích pháp lý và các tài liệu tham chiếu đã được rà soát kỹ để bảo đảm tuân thủ các tiêu chuẩn của VCS, phiên bản cập nhật nhất.
+
+Dự án được triển khai trên khu vực không bị chuyển đổi từ hệ sinh thái tự nhiên trong vòng 10 năm trước ngày bắt đầu thực hiện. Tài liệu đánh giá hiện trạng sử dụng đất đã xác định rõ tính ổn định và liên tục trong việc sử dụng đất cho mục đích canh tác lúa trong giai đoạn trước đó. Dự án không thay đổi số vụ canh tác lúa hằng năm so với giai đoạn lịch sử. Nếu trong quá khứ khu vực thực hiện dự án canh tác hai vụ lúa mỗi năm, thì hiện tại vẫn duy trì số vụ tương tự, giúp loại bỏ nguy cơ sai lệch khi so sánh phát thải giữa tình trạng trước và sau dự án.
+
+Dự án không làm suy giảm lượng carbon hữu cơ trong đất, không có hoạt động loại bỏ rơm rạ, giảm lượng phân chuồng, hay thay đổi giống cây trồng có hệ rễ nhỏ hơn so với giống lúa được sử dụng trong giai đoạn trước đó. Phương pháp AWD vẫn giữ nguyên lượng sinh khối và chu trình sinh học trong đất ở mức ổn định.
+
+Toàn bộ vùng trồng lúa trong dự án là lúa nước canh tác dưới hệ thống tưới tiêu chủ động, không thuộc các loại hình như lúa cạn, lúa mùa mưa, hay lúa nước sâu không được kiểm soát. Mô hình canh tác không phụ thuộc vào lượng mưa tự nhiên và không bị giới hạn bởi điều kiện không thể kiểm soát dòng nước. Dự án không can thiệp vào các hoạt động quản lý trong thời gian không sản xuất (off-season). Các hoạt động như cày ải, bón phân, luân canh cây trồng hoặc chăn nuôi vẫn duy trì như trong giai đoạn lịch sử. Mục tiêu chính chỉ tập trung vào giai đoạn trồng lúa. Dự án không bao gồm các hoạt động như đốt rơm rạ sau thu hoạch hoặc thay đổi phương thức quản lý nước trước vụ mùa.
+
+Các hoạt động thuộc lĩnh vực nông - lâm - kết hợp (AFOLU) có tính chất tương tự hoặc giống với hoạt động dự án được đề xuất nếu đã từng được triển khai trên cùng khu đất nằm trong ranh giới của dự án, dù có hoặc không đăng ký theo tiêu chuẩn VCS, phải bảo đảm không vi phạm bất kỳ quy định pháp luật nào đang có hiệu lực, ngay cả trong trường hợp các quy định pháp luật không được thực thi triệt để trên thực tế.
+
+Tất cả các tài liệu pháp lý liên quan đều cần được rà soát để xác minh rằng không có sự mâu thuẫn giữa hoạt động đã diễn ra trước đó với các nghĩa vụ pháp lý hiện hành tại thời điểm đăng ký và vận hành dự án. Tình trạng pháp lý của đất đai, quyền sử dụng và các hoạt động nông nghiệp đã diễn ra cần được kiểm chứng nhằm bảo đảm không tồn tại bất kỳ tiền lệ pháp lý nào có thể làm suy yếu tính hợp lệ của dự án mới.
+
+
+
+Ngày 1/4/2025 Green Carbon đã đăng ký thành công "Dự án canh tác lúa theo phương pháp AWD tại tỉnh An Giang" theo phương pháp luận VM0051 "Cải thiện quản lý trong hệ thống sản xuất lúa gạo, v1.0" của Chương trình Tiêu chuẩn Carbon được xác minh (VCS) có hiệu lực từ 27/2/2025. Dự án được thiết kế với diện tích canh tác là 116.000 ha, áp dụng phương pháp AWD theo đúng quy trình và tiêu chuẩn kỹ thuật, có hệ thống giám sát và đo đạc khí nhà kính nhằm đảm bảo tính minh bạch và khả năng cấp tín chỉ carbon.
+
+Công cụ để xác định tính bổ sung (additionality) chỉ được chấp nhận khi phương pháp luận đường cơ sở có cấu trúc phân tích theo từng bước, nhằm chứng minh hợp lý kịch bản đường cơ sở có khả năng xảy ra cao nhất. Các bước phân tích cần dựa trên thông tin định lượng và định tính để xây dựng bức tranh toàn diện về hiện trạng và xu hướng phát triển tại khu vực dự án. Mỗi bước đánh giá phải được xây dựng với logic nội tại rõ ràng, tuân thủ nguyên tắc thống nhất giữa việc xác định kịch bản đường cơ sở và tính bổ sung của hoạt động.
+
+Khi đề xuất phương pháp luận mới cho kịch bản đường cơ sở, chủ dự án có trách nhiệm bảo đảm tính nhất quán giữa hai nội dung trên để không dẫn đến mâu thuẫn trong quá trình thẩm định, xác minh và đăng ký dự án. Tất cả các dữ liệu, giả định và mô hình sử dụng trong các bước phân tích phải được tham chiếu đầy đủ và minh bạch.
+
+Kết quả, ngày 1/4/2025 Green Carbon đã đăng ký thành công "Dự án canh tác lúa theo phương pháp AWD tại tỉnh An Giang" theo phương pháp luận VM0051 "Cải thiện quản lý trong hệ thống sản xuất lúa gạo, v1.0" của Chương trình Tiêu chuẩn Carbon được xác minh (VCS) có hiệu lực từ 27/2/2025.
+
+Dự án được thiết kế với diện tích canh tác là 116.000 ha, áp dụng phương pháp AWD theo đúng quy trình và tiêu chuẩn kỹ thuật, có hệ thống giám sát và đo đạc khí nhà kính nhằm đảm bảo tính minh bạch và khả năng cấp tín chỉ carbon. Thông qua việc lắp đặt các ống AWD tại ruộng lúa và theo dõi mực nước ngập một cách chính xác, người nông dân có thể kiểm soát tốt quá trình chuyển đổi trạng thái đất và duy trì hiệu quả canh tác.
+
+Dự án phối hợp cùng đối tác địa phương đã tổ chức nhiều buổi họp, đào tạo kỹ thuật, tuyên truyền lợi ích của AWD và hỗ trợ kỹ thuật xuyên suốt quá trình thực hiện, góp phần nâng cao nhận thức và năng lực thực hành kỹ thuật mới cho cộng đồng nông dân.
+
+Dự án đặt mục tiêu giảm phát thải trung bình mỗi năm 590.682 tấn CO2e, với tổng lượng giảm phát thải trong kỳ tín chỉ đầu tiên kéo dài từ ngày 1/4/2025 đến ngày 31/3/2032 lên đến hơn 24 triệu tấn CO2e. Thành công của dự án góp phần cắt giảm lượng khí nhà kính và mở ra cơ hội thương mại hóa tín chỉ carbon, giúp gia tăng thu nhập cho người dân, tạo nguồn lực đầu tư cho phát triển nông nghiệp bền vững.<
+
+——————————
+
+(*) PGS.TS. Nguyễn Đình Thọ, Viện Chiến lược, Chính sách Nông nghiệp và Môi trường;
+
+Jun Okita, Green Carbon.
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 20-2025, phát hành ngày 19/05/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1384

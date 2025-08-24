@@ -1,0 +1,17 @@
+Theo đó, bên cạnh việc liệt kê danh mục 10 điểm yếu, lỗ hổng bảo mật phổ biến trên các ứng dụng hiện nay như Broken Access Control, Cryptographic Failures, Injection, Insecure Design… trong bộ tài liệu mới phát hành, Trung tâm Giám sát an toàn không gian mạng quốc gia, Cục An toàn thông tin cũng đưa ra quy trình và hướng dẫn các nhà phát triển phần mềm để kiểm tra với từng lỗ hổng bảo mật nhằm phát hiện sớm và có phương án xử lý trước khi phát hành ứng dụng.
+
+Cục An toàn thông tin khuyến nghị các đơn vị áp dụng tài liệu “Hướng dẫn kiểm tra an toàn thông tin đối với các lỗ hổng bảo mật phổ biến trên ứng dụng” phiên bản 1.0 trong quá trình nghiên cứu, xây dựng và phát triển phần mềm.
+
+
+
+Theo đánh giá của Cục An toàn thông tin, thời gian gần đây, nhiều sản phẩm công nghệ thông tin, đặc biệt các ứng dụng phục vụ Chính phủ điện tử, Chính phủ số, tồn tại hoặc phát sinh nhiều điểm yếu, lỗ hổng bảo mật gây mất an toàn thông tin, lộ lọt thông tin, dữ liệu của người dân, tổ chức trong quá trình sử dụng.
+
+Điều này có thể gây ảnh hưởng lớn đến niềm tin của xã hội và quá trình chuyển đổi số.
+
+Các lỗ hổng bảo mật được chuyên gia nhận định là một trong những nguyên nhân hàng đầu gây ra các cuộc tấn công mạng nhắm vào hệ thống thông tin của các tổ chức, doanh nghiệp trên thế giới và tại Việt Nam. Thống kê toàn cầu cho thấy, hiện có khoảng 40 điểm yếu, lỗ hổng được phát hiện mỗi ngày và con số này được dự báo có thể sẽ tăng gấp 2 lần vào năm 2025.
+
+Riêng về an toàn trong phát triển phần mềm là một trong những vấn đề nổi cộm cần được giải quyết để đảm bảo an toàn cho chuyển đổi số, phát triển Chính phủ số. Theo các chuyên gia, tại Việt Nam, nhiều phần mềm chưa áp dụng quy trình phát triển phần mềm an toàn DevSecOps và những lỗi sơ đẳng có thể gây ra những ảnh hưởng an toàn thông tin nghiêm trọng. Nguyên nhân do các doanh nghiệp ICT chưa dành nguồn lực cho an toàn thông tin, nhân lực thiếu kỹ năng an toàn thông tin và chủ đầu tư chưa đưa yêu cầu an toàn thông tin nghiêm ngặt.
+
+Để giải quyết vấn đề trên, Cục An toàn thông tin cho rằng, các giải pháp cần được tập trung triển khai đồng bộ chủ đầu tư các dự án phần mềm đưa quy trình DevSecOps thành yêu cầu bắt buộc. Doanh nghiệp ICT trang bị công cụ rà quét lỗ hổng phần mềm, đồng thời yêu cầu các nhân sự phát triển phần mềm có kỹ năng an toàn thông tin.
+
+Với các ứng dụng công nghệ thông tin dự kiến sẽ đặt hàng hoặc phát triển mới, mọi tổ chức, doanh nghiệp cần đưa các tiêu chí an toàn vào thiết kế từ đầu và yêu cầu đơn vị phát triển áp dụng mô hình DevSecOps. Cùng với đó là kiểm tra đánh giá an toàn tất cả các sản phẩm ứng dụng trước khi đưa vào sử dụng và khi có cập nhật, thay đổi.

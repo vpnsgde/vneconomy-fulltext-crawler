@@ -1,0 +1,37 @@
+Ngày 13/3, TAND TP Hà Nội xét xử phúc thẩm vụ án Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác do có kháng nghị của Viện kiểm sát nhân dân. Bị cáo là Nguyễn Tiến Trang (SN 1994, ở xã Công Lý, huyện Lý Nhân, Hà Nam).
+
+Theo bản án sơ thẩm, anh Nguyễn Hoàng Tú (SN 1990) là trưởng nhóm Tradecoinx1000BTC và SunWale –tcx1000BTC trên ứng dụng Telegram, chuyên cung cấp các thông tin về dự án tiền điện tử.
+
+Ngày 13/11/2021, anh Tú đăng thông tin trên nhóm về dự án Nodle để mọi người tìm hiểu. Ngày 21/11/2021, anh Tú và anh nguyễn Duy Quang (SN 1993) tạo ví điện tử để những nhà đầu tư chuyển tiền điện tử USDT vào.
+
+Sau đó, anh Tú và anh Quang giao cho Nguyễn Thị Ngân (SN 1993) quản lý ví điện tử trên. Có 81 nhà đầu tư tham gia đầu tư vào ví điện tử trên với tổng số 106.337 USDT, trong đó có nhiều nhà đầu tư chưa xác định rõ nhân thân.
+
+Sáng 23/11/2021, chị Ngân đến nhà trọ của Trang chơi. Khoảng 13h cùng ngày, chị Ngân được anh Tú giao quản lý ví điện tử trên và cụm 12 chữ (Private key) của ví điện tử để đối soát những người chuyển tiền điện tử USDT vào ví. Đến 18h cùng ngày, chị Ngân cho Trang xem ví điện tử của nhóm đầu tư dự án tiền ảo.
+
+Trang xem nội dung tin và nhớ được 12 chữ Private key.
+
+Khoảng 3h ngày 24/11/2021, Trang vào ứng dụng Trust (là ứng dụng để lưu trữ tiền điện tử hay còn gọi là “ví nóng” trên điện thoại) và nhập 12 chữ bảo mật tài khoản ví điện tử trên.
+
+Sau khi truy cập thành công, Trang đã chuyển 106.337 USDT sang ví điện tử của mình để chiếm đoạt.
+
+Tiếp đó, thông qua một số người khác, Trang tiếp tục chuyển số tiền ảo trên để rút tiền mặt được hơn 2,3 tỷ đồng.
+
+Sau khi nhận được tiền, bị cáo dùng 50 triệu đồng đặt cọc mua ô tô; chuyển hơn 882 triệu đồng để mua ô tô, trả tiền nợ, mua điện thoại và tiêu xài cá nhân.
+
+Với hành vi trên, Trang bị truy tố và tuyên phạt 6 tháng tù về tội Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác theo điểm c, khoản 3, Điều 289 Bộ luật Hình sự.
+
+Quá trình xét xử sơ thẩm, Trang thành khẩn khai nhận hành vi của mình. Theo tòa sơ thẩm, hành vi của Trang là cố ý xâm nhập trái phép vào mạng máy tính, phương tiện điện tử của người khác nhằm chiếm đoạt tài sản để thu lời bất chính với số tiền hơn 2,3 tỷ đồng.
+
+“Hành vi của bị cáo là nguy hiểm cho xã hội, không những xâm phạm đến những quy định của nhà nước về đảm bảo an toàn mạng máy tính, mạng viễn thông, mạng internet hoặc thiết bị số của người khác, xâm phạm đến tài sản riêng sở hữu hợp pháp của công dân được pháp luật bảo hộ mà còn gây mất trật tự trị an xã hội”, bản án nêu.
+
+Tuy nhiên, tòa cũng xem xét bị cáo chưa có tiền án, tiền sự, khai báo thành khẩn.
+
+Về trách nhiệm dân sự, anh Tú, anh Quang và chị Ngân đề nghị bị cáo bồi thường số tiền USDT đã chiếm đoạt.
+
+Sau phiên tòa sơ thẩm, Viện kiểm sát kháng nghị, cho rằng tòa án xét xử bị cáo về tội danh trên là không đúng nên đề nghị hủy án sơ thẩm để truy tố bị cáo về tội Sử dụng mạng máy tính, mạng viễn thông, phương tiện điện tử thực hiện hành vi chiếm đoạt tài sản.
+
+Sau khi xem xét, tòa án phúc thẩm quyết định không chấp nhận kháng nghị, giữ nguyên bản án sơ thẩm.
+
+Theo khoản 1, Điều 289, tội Xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác:
+
+Người nào cố ý vượt qua cảnh báo, mã truy cập, tường lửa, sử dụng quyền quản trị của người khác hoặc bằng phương thức khác xâm nhập trái phép vào mạng máy tính, mạng viễn thông hoặc phương tiện điện tử của người khác chiếm quyền điều khiển; can thiệp vào chức năng hoạt động của phương tiện điện tử; lấy cắp, thay đổi, hủy hoại, làm giả dữ liệu hoặc sử dụng trái phép các dịch vụ, thì bị phạt tiền từ 50.000.000 đồng đến 300.000.000 đồng hoặc phạt tù từ 01 năm đến 05 năm.

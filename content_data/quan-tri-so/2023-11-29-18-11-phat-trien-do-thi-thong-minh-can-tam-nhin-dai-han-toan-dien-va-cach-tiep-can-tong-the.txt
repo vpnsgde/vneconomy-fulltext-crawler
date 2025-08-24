@@ -1,0 +1,39 @@
+Trong 2 ngày 29 và 30/11/2023 tại Hà Nội, diễn ra Hội nghị Thành phố thông minh Việt Nam– Châu Á 2023 (Vietnam- Asia Smart City Summit 2023) với chủ đề “Khai thác dữ liệu– Xây dựng Thành phố thông minh, phát triển bền vững”. Sự kiện do UBND Tp.Hà Nội và Hiệp hội Phần mềm và Dịch vụ công nghệ thông tin Việt Nam (VINASA), phối hợp tổ chức.
+
+Chủ trương, chính sách phát triển đô thị thông minh bền vững đã được đưa ra từ tháng 8/2018 tại Quyết định số 950/QĐ-TTg của Thủ tướng Chính phủ. Nghị quyết số 52-NQ/TW năm 2019 và Nghị quyết số 06-NQ/TW năm 2022 của Bộ Chính trị một lần nữa khẳng định quyết tâm phát triển đô thị thông minh bền vững tại Việt Nam.
+
+Sau 5 năm triển khai Quyết định số 950/QĐ-TTg của Thủ tướng Chính phủ về phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018- 2025 và định hướng đến năm 2030, Việt Nam đã có 48/63 tỉnh, thành phố đang triển khai đề án phát triển đô thị thông minh. Hơn 40 địa phương đã triển khai Trung tâm giám sát điều hành thông minh- IOC cấp tỉnh, và gần 100 IOC cấp huyện.
+
+Các đô thị hiện tại triển khai phát triển hệ thống IOC và các tiện ích đô thị thông minh, dịch vụ thông minh, tập trung chủ yếu vào lĩnh vực giao thông (giám sát trật tự, an toàn giao thông), y tế thông minh, giáo dục thông minh, phát triển các ứng dụng cảnh báo.
+
+Hiện nay, các doanh nghiệp công nghiệp đang đồng hành với các tỉnh, thành phố trong định hướng, quy hoạch và xây dựng Smart City. Các doanh nghiệp như Viettel, VNPT đã hợp tác với 45 tỉnh, xây dựng 36 IOC cấp tỉnh, và 45 IOC cấp huyện. Viettel đã khai trương IOC cho hơn 30 địa phương. FPT cũng đang nỗ lực tư vấn cho các thành phố đưa tính thông minh và hạt nhân AI vào trong quy hoạch, phát triển đô thị.
+
+Các doanh nghiệp công nghệ khác đã và đang sáng tạo, đưa những giải pháp tiên tiến, hiệu quả nhất như AI, IoT, Bản đồ số 3D… giúp thông minh hóa công tác quản lý, điều hành các sở, ngành, các khu đô thị, các khu công nghiệp trên cả nước và hướng tới các bài toán quản trị, khai thác dữ liệu số.
+
+“Việc khai thác dữ liệu số, xây dựng thành phố thông minh là nhiệm vụ đặc biệt quan trọng đối với mọi cấp chính quyền, nhằm nâng cao chất lượng phục vụ người dân và doanh nghiệp”.
+
+Nhấn mạnh điều này, Chủ tịch Thành phố Hà Nội Trần Sỹ Thanh cho hay, mô hình Thành phố thông minh bền vững mà Hà Nội hướng tới sẽ mang lại môi trường sống thực sự chất lượng, tiện ích, an toàn, thân thiện cho mọi người dân. Xây dựng chính quyền phục vụ vì sự phát triển của tổ chức, doanh nghiệp; với nền kinh tế năng động, trong đó kinh tế số chiếm tỷ trọng ngày càng lớn…
+
+Theo Chủ tịch Hà Nội, một thành phố phát triển bền vững là thành phố phát triển với mọi tiện ích thông minh, được thể hiện thông qua những lựa chọn “thông minh”, giải pháp “thông minh”, công nghệ “thông minh”.
+
+Vậy hiện nay, thực trạng xây dựng và phát triển đô thị thông minh của Hà Nội và các tỉnh thành trên cả nước đang diễn ra như thế nào? Những chính sách nào cần được khuyến nghị cho quá trình xây dựng thành phố thông minh bền vững của không chỉ Hà Nội mà còn của các tỉnh, thành phố khác để cùng nghiên cứu, tham khảo? Công nghệ số, chuyển đổi số, và đặc biệt dữ liệu số sẽ đóng góp như thế nào vào quá trình phát triển, mô hình thành phố thông minh nào Hà Nội có thể tham khảo?..., ông Thanh đặt vấn đề.
+
+Thực tế hiện nay, Hà Nội đang chịu áp lực lớn giải bài toán xây dựng thành phố thông minh để phát triển Kinh tế Xã hội xứng tầm Thủ đô. Trong khi thành phố phải đối mặt với những thách thức không nhỏ như: dân số đông, gia tăng cơ học một cách nhanh chóng; Những vấn đề bất cập do hạ tầng giao thông chưa kịp phát triển để đáp ứng tốc độ đô thị hóa; Ô nhiễm môi trường và các vấn đề liên quan đến cấp/thoát nước, xử lý ngập nước…
+
+Theo báo cáo từ Sở Thông tin và Truyền thông, Hà Nội đang cần giải quyết rất nhiều bài toán liên quan đến dữ liệu số: dữ liệu vừa thiếu, vừa thừa; khai thác dữ liệu khó khăn, chưa có chuẩn kết nối, độ chính xác chưa cao, mô hình thông tin, chiến lược dữ liệu cũng cần được chú trọng đầu tư bài bản hơn. Đây chính là nhiệm vụ cấp thiết trong thời gian tới, trước khi triển khai các giải pháp về phân tích, hỗ trợ quản lý điều hành và xa hơn là khai thác dữ liệu để tạo ra những giá trị kinh tế xã hội mới.
+
+Nhìn nhận những thách thức trong xây dựng đô thị thông minh hiện nay tại Việt Nam, ông Trương Gia Bình, Chủ tịch Hội đồng Sáng lập VINASA, Chủ tịch Tập đoàn FPT cũng chỉ rõ, thách thức lớn nhất là hành lang pháp lý thiếu rõ ràng, chưa thuận lợi cho hợp tác công- tư; đặc biệt các thủ tục liên quan đến: đầu tư, đấu thầu, thuê dịch vụ công nghệ thông tin. Thêm vào đó, các đô thị chưa chú trọng quy hoạch thông minh, thông minh hóa các hạ tầng cơ bản, thiết yếu.
+
+Từ góc tiếp cận đó, dựa trên nền tảng cơ sở hạ tầng sẵn có cũng như đặc thù của từng đô thị tại Việt Nam, các chuyên gia cho rằng cần có một lộ trình thông minh hóa và phát triển đô thị bền vững, có sức chống chịu cao, gắn việc quản lý, quản trị với việc xây dựng hạ tầng dữ liệu để kết nối liên thông và khai thác hiệu quả.
+
+Trong quá trình theo dõi, đồng hành cùng nhiều địa phương triển khai đô thị thông minh, Thứ trưởng Nguyễn Huy Dũng nhấn mạnh, phát triển đô thị thông minh là một quá trình liên tục và lâu dài, do vậy cần tầm nhìn dài hạn, toàn diện và một cách tiếp cận tổng thể, không chỉ tập trung vào khía cạnh công nghệ. Cũng giống như chuyển đổi số, đô thị thông minh là sự thay đổi về tư duy và nhận thức nhiều hơn, ông Dũng nói.
+
+Cũng theo ông Dũng, phát triển đô thị thông minh là một quá trình liên tục và lâu dài, do vậy cần tầm nhìn dài hạn, toàn diện và một cách tiếp cận tổng thể, không chỉ tập trung vào khía cạnh công nghệ. Cũng giống như chuyển đổi số, đô thị thông minh là sự thay đổi về tư duy và nhận thức nhiều hơn.
+
+Phát triển đô thị thông minh chính là thực hiện chuyển đổi số trong phạm vi, quy mô của đô thị nhưng tập trung vào việc giải quyết các vấn đề lớn của đô thị bao gồm giao thông, môi trường, năng lượng, xử lý rác thải, bảo đảm an ninh, trật tự đô thị,... Để đạt được những nội dung này, ông Dũng cho rằng các yếu tố thông minh phải được xác định, tính toán và đưa vào ngay từ khi quy hoạch phát triển đô thị, thành phố.
+
+Phát triển đô thị thông minh chính là xây dựng một phương thức phát triển và vận hành đô thị hiện đại, hiệu quả dựa trên việc ứng dụng các công nghệ có tính đổi mới, sáng tạo, không phải một tập hợp rời rạc các hệ thống, ứng dụng của các cơ quan chuyên môn bởi các vấn đề trong đô thị có quan hệ chặt chẽ với nhau.
+
+Phát triển đô thị thông minh phải bảo đảm gắn kết chặt chẽ với quá trình chuyển đổi số tại địa phương, không tách rời, không trùng lặp, tất cả đều hướng đến mục tiêu lấy người dân làm trung tâm; người dân vừa là đối tượng phục vụ, vừa là chủ thể tham gia.
+
+Đặc biệt theo ông Dũng, cần coi hạ tầng thông tin đô thị, hạ tầng số và đặc biệt là hạ tầng dữ liệu là một hạ tầng thiết yếu của đô thị, là nền tảng để thông minh hóa các hạ tầng kỹ thuật và hạ tầng kinh tế xã hội khác. Một hạ tầng dữ liệu tốt, thống nhất, an toàn là nên tảng để xây dựng chính quyền số, kinh tế số, xã hội số trong không gian đô thị thông minh.

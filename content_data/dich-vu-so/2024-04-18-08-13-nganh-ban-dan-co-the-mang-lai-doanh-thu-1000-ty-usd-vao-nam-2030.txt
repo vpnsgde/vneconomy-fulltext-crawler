@@ -1,0 +1,33 @@
+Ngày 17/4/2024, Bộ Khoa học và Công nghệ, Bộ Giáo dục và Đào tạo và Đại học Bách khoa Hà Nội tổ chức Hội thảo “Định hướng nghiên cứu khoa học công nghệ và phát triển nguồn nhân lực phục vụ công nghiệp vi mạch bán dẫn Việt Nam”.
+
+Tại đây, các chuyên gia cùng thống nhất với nhấn định, ngày nay, tất cả các lĩnh vực của nền kinh tế đều được vận hành dựa trên những con chip nhỏ- từ điện toán, viễn thông, ngân hàng, bảo mật, chăm sóc sức khỏe, thiết bị gia dụng đến vận tải (đặc biệt là xe điện), sản xuất, giải trí...
+
+Các tiến bộ trong lĩnh vực trí tuệ nhân tạo (AI), Internet vạn vật (IoT), dữ liệu lớn (BigData), viễn thông 5G, siêu máy tính và xe tự lái… đều dựa vào sự phát triển ngày càng mạnh mẽ của ngành công nghiệp bán dẫn.
+
+Là "huyết mạch" của nền kinh tế số, ngành bán dẫn có vai trò chủ chốt, quan trọng và là tiêu điểm, thu hút nhiều ngành công nghiệp trên thế giới. Theo dự báo, ngành này có thể mang lại doanh thu hơn 620 tỷ USD vào năm 2024 và tăng mạnh lên 1.000 tỷ USD vào năm 2030 (Gartner). Ngành này cũng được xem là phần cốt lõi trong cuộc cạnh tranh công nghệ giữa các cường quốc trong thế kỷ 21.
+
+Chia sẻ điều này, Bộ trưởng Bộ Khoa học và Công nghệ Huỳnh Thành Đạt ví những con chip bán dẫn nói riêng, ngành bán dẫn nói chung như những "hạt gạo" bởi nó nuôi sống toàn bộ các lĩnh vực khác nhau trong kỷ nguyên công nghệ, là chìa khoá cho các công nghệ số trong tương lai.
+
+Ngành công nghiệp bán dẫn đang có vai trò ngày càng quan trọng đối với nền kinh tế toàn cầu, với quy mô thị trường toàn cầu đạt trên 520 tỷ USD năm 2023 và vẫn tiếp tục tăng trưởng nhanh. Trong hơn 30 năm qua, chuỗi giá trị của ngành công nghiệp bán dẫn đã được định hình và có hàng rào gia nhập cao, rất khó để các quốc gia đang phát triển có thể tham gia.
+
+Tuy nhiên, theo Bộ trưởng, với sự tái định vị chuỗi giá trị ngành bán dẫn sau dịch Covid-19 và sự cạnh tranh công nghệ giữa các nền kinh tế lớn, Việt Nam được đánh giá là quốc gia có nhiều cơ hội và các yếu tố cần thiết để phát triển hệ sinh thái ngành công nghiệp bán dẫn, có tiềm năng nâng cao vị trí trong chuỗi cung ứng bán dẫn toàn cầu.
+
+Thời gian qua, hành lang pháp lý nhằm tạo điều kiện cho việc ưu tiên thu hút đầu tư và phát triển bán dẫn đã được quan tâm xây dựng, theo đó, Luật Đầu tư và Luật Thuế thu nhập DN đã bổ sung các ưu đãi đặc biệt cho các dự án công nghệ cao, quy mô lớn, giá trị gia tăng cao, trong đó bao gồm các dự án sản xuất bán dẫn.
+
+Bộ trưởng cho biết thêm, Chiến lược phát triển Khoa học công nghệ và Đổi mới sáng tạo đến năm 2030 đã xác định “công nghệ sản xuất chip vi điều khiển, linh kiện bán dẫn…” là một trong những công nghệ lõi được định hướng phát triển trong thập kỷ tới.
+
+Đến nay, Việt Nam đã và đang ngày càng thu hút được nhiều các tập đoàn lớn trong ngành vi mạch bán dẫn đến từ Hoa Kỳ, Hàn Quốc, Nhật Bản, Đài Loan, Hà Lan,... với khoảng trên 40 công ty. Cùng với đó, nhiều công ty trong nước cũng đã gia nhập thị trường như Viettel, FPT, VNChip,…
+
+Theo đại diện Viettel, trong bối cảnh xu hướng của chuỗi giá trị bán dẫn đang dần dịch chuyển sang các nước Đông Nam Á, Việt Nam được đánh giá là có đầy đủ điều kiện và yếu tố cần thiết để phát triển công nghệ bán dẫn, từ hệ thống chính trị ổn định, vị trí địa lý thuận lợi, nguồn nguyên liệu phong phú đến nguồn nhân lực trong lĩnh vực kỹ thuật công nghệ dồi dào và cơ sở hạ tầng số ngày một phát triển.
+
+Một số chuyên gia dự báo quy mô ngành bán dẫn tại Việt Nam đến năm 2030 ước đạt 20-30 tỷ USD nhưng chỉ mới có hai doanh nghiệp nội là FPT và Viettel tham gia thị trường này ở công đoạn đầu tiên, trên tổng số hơn 50 công ty trong ngành.
+
+Về sản xuất, Việt Nam đã có nhà máy đóng gói và kiểm thử của một số tập đoàn lớn như Intel hay Amkor, nhưng chưa có bất kỳ cơ sở chế tạo nào.
+
+Thông tin thêm về chuỗi giá trị toàn cầu ngành vi mạch bán dẫn và khả năng tham gia của Việt Nam, Ban Quản lý Khu công nghệ cao TP.HCM nêu thực tế, Việt Nam có khoảng 50 doanh nghiệp làm về dịch vụ thiết kế vi mạch, trong đó phần lớn là doanh nghiệp FDI với lực lượng lao động ước gần 5.000 kỹ sư. Phần lớn các doanh nghiệp này đặt tại TP.HCM.
+
+Trong lĩnh vực đóng gói vi mạch, sau Intel, Amkor và Hana Micron đã xây dựng dựng nhà máy tại Việt Nam. Cùng với đó là các doanh nghiệp quan trọng nằm trong chuỗi cung ứng của các doanh nghiệp đóng gói như Besi bắt đầu dịch chuyển vào Việt Nam.
+
+Từ những cứ liệu trên, ông Nguyễn Anh Thi, Trưởng ban Quản lý Khu công nghệ cao TP.HCM, cho rằng Việt Nam có tiềm năng tham gia sâu hơn vào chuỗi cung ứng toàn cầu ngành vi mạch bán dẫn trong các công đoạn thiết kế và đóng gói.
+
+Vấn đề mang tính chiến lược đặt ra đối với Việt Nam là làm thế nào Việt Nam có thể tận dụng được sự dịch chuyển của chuỗi cung ứng toàn cầu ngành vi mạch bán dẫn đang diễn ra hết sức mạnh mẽ và khai thác hiệu quả các tiềm năng, thế mạnh của mình để tham gia sâu hơn vào chuỗi cung ứng toàn cầu của ngành công nghiệp vi mạch bán dẫn, một ngành công nghiệp có tính chiến lược cho sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.

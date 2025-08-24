@@ -1,0 +1,25 @@
+Liên quan đến vấn đề này, mới đây người phát ngôn của Google tuyên bố: “Chúng tôi nhận thấy đang có những thách thức liên quan đến việc dung hòa các phản hồi khác nhau từ ngành, cơ quan quản lý và nhà phát triển và sẽ tiếp tục hợp tác chặt chẽ với toàn bộ hệ sinh thái”.
+
+Được biết, gã khổng lồ tuyên bố sẽ ngừng sử dụng cookie vào năm 2020, sau đó đẩy lùi thời hạn sang năm 2023 và sau đó là năm 2024 và giờ là năm 2025.
+
+Cookie của bên thứ ba là các tệp dữ liệu nhỏ được tự động lưu trữ trên thiết bị của người dùng. Các công ty sử dụng cookie để theo dõi hành vi của người dùng trên các trang web để có thể tối ưu hóa Website, dịch vụ của mình. Họ cũng sử dụng công cụ này để theo dõi xem các chiến dịch có hoạt động hiệu quả hay không.
+
+Trong những năm gần đây, Google đã cùng với các công ty như Apple và Mozilla loại bỏ dần cookie để tăng cường bảo vệ quyền riêng tư của khách hàng. Trong khi đó, Google đã phát triển Hộp cát về quyền riêng tư (Privacy Sandbox).
+
+Về cơ bản, thay vì để các trang web của bên thứ ba theo dõi hoạt động duyệt web của người dùng bằng cookie của bên thứ ba, thông qua công nghệ máy học này, bản thân Chrome sẽ đảm nhận luôn vai trò theo dõi hoạt động duyệt web — theo cách cục bộ — và cung cấp cho các trang web mà người dùng truy cập những loại quảng cáo mà nhiều khả năng họ sẽ quan tâm.
+
+Lợi nhuận của Google, công cụ tìm kiếm lớn nhất thế giới, hiện nay phần lớn phụ thuộc vào quảng cáo. Và các công ty sử dụng cookie để nhắm mục tiêu người tiêu dùng và đánh giá xem quảng cáo có hoạt động hay không. Vì vậy, ngay khi công bố kế hoạch loại bỏ tính năng này, gã khổng lồ công nghệ đã nhận được phản ứng dữ dội từ các công ty vì sẽ gây tổn thất đến hoạt động quảng cáo của họ.
+
+Vào tháng 1, Google đã thử nghiệm loại bỏ dần cookie đối với 1% người dùng Chrome, tức khoảng 30 triệu người. Kết quả là nhiều công ty công nghệ quảng cáo phàn nàn công nghệ mới không bù đắp đầy đủ các tính năng bị mất do cookie.
+
+Cụ thể, các công ty công nghệ quảng cáo, nhà xuất bản và đại lý quảng cáo phàn nàn hộp cát quyền riêng tư khó vận hành, không thay thế đầy đủ cookie truyền thống và trao quá nhiều quyền lực cho Google.
+
+“Những thách thức đang diễn ra liên quan đến việc dung hòa các phản hồi khác nhau từ ngành, cơ quan quản lý và nhà phát triển” là một trong những lý do được Google đưa ra cho sự chậm trễ đến năm sau.
+
+Google không thể loại bỏ cookie của bên thứ ba trong Chrome cho đến khi Cơ quan Cạnh tranh và Thị trường (CMA) của Vương quốc Anh hài lòng với mọi công cụ mà họ triển khai để thay thế khả năng theo dõi và đo lường của cookie đều không phản cạnh tranh. Kết quả từ các cuộc kiểm tra trong ngành sẽ được cung cấp vào cuối tháng 6 này.
+
+Người phát ngôn của Google cho biết: “Điều quan trọng là cần thời gian để CMA xem xét tất cả bằng chứng, bao gồm cả kết quả từ các cuộc kiểm tra trong ngành và CMA cũng đang yêu cầu những bên liên quan cung cấp thông tin vào cuối tháng 6 này".
+
+Người phát ngôn của CMA cho biết trong một cuộc trao đổi với tờ Business Insider: “Chúng tôi hoan nghênh thông báo của Google làm rõ thời điểm ngừng sử dụng cookie của bên thứ ba. Điều này sẽ cho phép chúng tôi có thời gian để đánh giá kết quả thử nghiệm của ngành và giải quyết các vấn đề còn tồn tại".
+
+Theo Business Insider, Văn phòng Ủy ban Thông tin (ICO), cơ quan giám sát dữ liệu của Anh sẽ làm việc với Google và CMA để đảm bảo rằng việc chấm dứt cookie web đồng nghĩa với việc mang lại lợi ích về quyền riêng tư cho người dùng web, Stephen Almond, Giám đốc điều hành về rủi ro pháp lý tại ICO, nói với BI. “Người dùng sẽ sớm được hưởng lợi khi doanh nghiệp đáp ứng các yêu cầu của luật cạnh tranh và bảo vệ dữ liệu”, ông Almond nói.

@@ -1,0 +1,27 @@
+Mới đây, người đồng sáng lập Facebook Mark Zuckerberg đã chỉ trích Apple trong một bài đăng trên blog đăng trên trang web của Meta Platforms giới thiệu các mô hình trí tuệ nhân tạo (AI) Lllama mới nhất.
+
+Nguồn cơn bắt đầu vào hồi tháng 4, Meta công bố Llama 3 - phiên bản đầu tiên của mô hình ngôn ngữ lớn mới nhất. Meta nói rằng Llama 3 vượt trội hơn các mô hình cùng loại về các chuẩn đánh giá quan trọng, lẫn các tác vụ bên trong như mã hóa. Tuy nhiên theo Bloomberg, Apple đã từ chối lời đề nghị của Meta về việc tích hợp chatbot Llama của mạng xã hội này vào iPhone từ nhiều tháng trước.
+
+Gần đây, Meta đã phát hành Llama 3.1, mô hình AI mã nguồn mở lớn nhất từ trước đến nay, được công ty tuyên bố vượt trội hơn GPT-4o và Claude 3.5 Sonnet của Anthropic trên một số tiêu chuẩn đánh giá. Họ cũng đang mở rộng trợ lý AI Meta AI dựa trên Llama tới nhiều quốc gia và ngôn ngữ hơn, đồng thời bổ sung tính năng có thể tạo hình ảnh dựa trên diện mạo cụ thể của một người.
+
+So với các mô hình Llama 3 nhỏ hơn ra mắt cách đây vài tháng, Llama 3.1 phức tạp hơn đáng kể. Phiên bản lớn nhất có 405 tỷ tham số và được huấn luyện với hơn 16.000 GPU H100 cực kỳ đắt tiền của Nvidia.
+
+“Một trong những trải nghiệm hình thành nên tôi là xây dựng các dịch vụ của Meta và hiện giờ đang bị ràng buộc bởi những gì Apple cho phép chúng tôi thực hiện trên nền tảng của họ. Giữa cách họ đánh thuế các nhà phát triển, các quy tắc tùy tiện mà họ áp dụng và tất cả cải tiến sản phẩm mà họ ngăn chặn không cho triển khai, rõ ràng là Meta và nhiều công ty khác sẽ được tự do xây dựng các dịch vụ tốt hơn nhiều nếu có thể tạo các phiên bản tốt nhất sản phẩm của mình và đối thủ cạnh tranh không thể hạn chế những gì chúng tôi có thể làm", Mark chia sẻ.
+
+Giám đốc điều hành Meta đã rót hàng tỷ USD để cố gắng đảm bảo điều tương tự không xảy ra nữa.
+
+Mark đang đặt cược lớn vào cả metaverse và AI vì đây là công nghệ tương lai nơi mọi người đang hướng đến. Meta đang phát triển AI và phần mềm của riêng mình để cung cấp năng lượng cho các tai nghe AR và VR, chẳng hạn như dòng Quest, được sử dụng để truy cập metaverse. Zuckerberg cho biết trong bài đăng trên blog: “Đó là lý do chính khiến tôi tin tưởng mạnh mẽ vào việc xây dựng hệ sinh thái mở về AI và AR/VR cho thế hệ điện toán tiếp theo”.
+
+Cách tiếp cận của Apple thì khác, được ví là cách tiếp cận “vườn có tường bao quanh” giúp họ kiểm soát chặt chẽ hệ sinh thái của mình. Apple cũng cho biết rằng điều này giúp mang lại trải nghiệm tốt nhất cho người dùng đồng thời hữu ích đối với sự an toàn và quyền riêng tư.
+
+Đối với các tính năng AI tổng quát Apple Intelligence sắp tới của mình , công ty đã chọn hợp tác với OpenAI để bắt đầu nhưng cũng phát triển nhiều tính năng AI của riêng mình. Mặc dù Apple cho biết họ sẵn sàng tích hợp các mô hình AI của bên thứ 3 khác trong tương lai, chẳng hạn như Gemini của Google, nhưng công ty đã loại bỏ AI của Meta trong các cuộc đàm phán ban đầu do những lo ngại về quyền riêng tư dữ liệu.
+
+Mark cũng tiếp tục bày tỏ sự bức xúc của mình trong một cuộc phỏng vấn với YouTuber Rowan Cheung về tin tức AI. Người đứng đầu Meta không nghĩ rằng Apple sẽ bị lạc hướng trong cách tiếp cận và phát triển AI, nhưng tin rằng các mô hình AI nguồn mở sẽ là tiêu chuẩn. “Theo quan điểm của tôi, Apple hoàn toàn áp dụng các quy tắc khác để hạn chế những gì chúng tôi có thể làm”, Mark Zuckerberg nói.
+
+Mark cũng không quên khoản doanh thu khoảng 10 tỷ USD mà các ứng dụng của Meta đã bị đánh rơi khi Apple đưa ra lời nhắc mới về quyền riêng tư vào năm 2021, yêu cầu người dùng iPhone chọn ứng dụng nào có quyền theo dõi hành vi của họ cho mục đích quảng cáo. Giám đốc tài chính của Meta vào thời điểm đó, David Wehner, nói rằng bản cập nhật iOS đã ảnh hưởng đến doanh thu quảng cáo của Facebook.
+
+"Tôi nghĩ sẽ hơi đau lòng khi bạn xây dựng những tính năng mà bạn tin là tốt cho cộng đồng của mình và sau đó bạn được thông báo rằng bạn không thể vận chuyển chúng vì một số công ty muốn nhốt bạn vào một chiếc hộp" Zuckerberg nói.
+
+Trong khi Zuck thừa nhận rằng sự thống trị của Apple trong ngành di động đã tạo nên một trường hợp thuyết phục cho mô hình đóng, ông cũng chỉ ra rằng PC là một mô hình cởi mở hơn, dễ dàng cạnh tranh với các hệ thống của Apple.
+
+Ông nói: “So với cách tiếp cận của Apple là kết hợp hệ điều hành với thiết bị, cách tiếp cận của Windows là một hệ sinh thái cởi mở hơn và nó đã thắng.” Và Zuckerberg hy vọng Meta cũng sẽ đứng về phía chiến thắng. Ông cho biết muốn “khôi phục ngành công nghiệp” về trạng thái nơi các hệ sinh thái mở trở thành mô hình hàng đầu và để Meta Platforms đi đầu.

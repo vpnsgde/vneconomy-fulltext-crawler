@@ -1,0 +1,25 @@
+Hiện nay, nhiều giải pháp bảo mật ứng dụng AI và học máy (Machine Learning – ML) được sử dụng rất rộng rãi trong việc ngăn chặn, loại bỏ các thư rác (spam email), thư lừa đảo (phishing mail).
+
+Tất nhiên, xử lý ngôn ngữ tự nhiên (Natural Language Processing – NLP) là một trong các kỹ thuật được dùng nhiều để hiểu được ngữ nghĩa văn bản trong các email nhằm lọc ra các thư rác được gởi đến không mong muốn.
+
+Vừa qua, CEO Tập đoàn công nghệ Bkav Nguyễn Tử Quảng cũng chia sẻ, các kỹ sư an ninh mạng Bkav đã thử nghiệm thành công chặn tin nhắn, email rác (spam) bằng mô hình xử lý ngôn ngữ tự nhiên kết hợp với AI.
+
+“Chúng tôi sử dụng công nghệ GPT (AI Model), cũng là công nghệ được ChatGPT sử dụng. Bằng cách này, phần mềm chặn spam có khả năng "Hiểu" được nội dung văn bản, giống như bạn đọc vài câu là biết ngay email hay tin nhắn là spam”, ông Quảng cho biết thêm.
+
+Theo ông Ngô Tấn Vũ Khanh, Giám đốc phát triển Kaspersky Việt Nam, việc sử dụng AI trong bảo mật không hề mới lạ. Nó thật sự giúp quá trình phát hiện mã độc hay email phising/spam nhanh chóng, tăng hiệu quả và năng suất cho các phần mềm về bảo mật.
+
+Ngoài ra, đối với việc chặn hoàn toàn các thư rác thì cần phải kết hợp rất nhiều kỹ thuật khác nhau về ML ví dụ như phân cụm, cây nhị phân, tập mờ viễn cảnh... thậm chí học sâu (Deep Learning - DL) để xử lý. ML/DL là các công cụ của trí tuệ nhân tạo, giúp cho các giải pháp chống thư rác nhanh hơn, chính xác hơn.
+
+“Quan trọng nhất vẫn là dữ liệu (data) và các chuyên gia (security expert). Vì vậy, các sản phẩm bảo mật chất lượng sẽ dùng các thuật toán hiện đại, độ chính xác của thuật toán cao và sai số cho phép rất thấp. Thực tế, cũng có những rủi ro “chặn nhầm hay khoá nhầm” cũng là vấn đề hoàn toàn có thể xẩy ra. Đặc biệt, con người cuối cùng vẫn là yếu tố quyết định thành công hay thất bại của một sản phẩm phần mềm và các chuyên gia bảo mật vẫn là người "dạy" cho các AI/ML ngày càng thông minh hơn”, ông Khanh giải thích.
+
+Theo đó, các sản phẩm email spam thông thường có một cơ sở dữ liệu rất lớn để phân biệt các email đến có phải là spam hay không trước khi hiểu tới ngữ nghĩa nội dung. Đối vối các link hay file đính kèm thường đòi hỏi các sản phảm bảo mật phải có các máy quét (Scan Engine), bao gồm các kỹ thuật phân tích động, phân tích tĩnh trong thành phần “quét” nhằm phát hiện ra các email rác hay phising email.
+
+Theo các chuyên gia dự báo xu hướng, việc sử dụng AI/ML trong các vấn đề mã độc, spam sẽ ngày càng phổ biến, thậm chí ngăn các cuộc gọi rác/lừa đảo (hiện nay có rất nhiều giải pháp áp dụng ML/AI cho call center nhằm nâng cao chất lượng chăm sóc khác hàng) và sẽ trở nên phổ biến.
+
+Tuy nhiên, việc “lạm dụng” AI xâm nhập “đọc” vào các tài liệu, file đính kèm cũng gây băn khoăn cho người dùng về tính bảo mật, riêng tư cũng như khả năng khai thác thông tin người dùng…
+
+Trả lời VnEconomy, TS. Ngô Tấn Vũ Khanh chia sẻ: Về quyền riêng tư, bản chất các hệ thống với sự hỗ trợ của trí tuệ nhân tạo thật ra khá minh bạch và giảm khả năng xâm phạm quyền riêng tư. Máy móc, học máy (ML) làm việc công tâm và không phân biệt.
+
+“Tất nhiên, việc một trí tuệ nhân tạo đọc và hiểu quá nhiều vấn đề ngữ nghĩa của văn bản ví dụ như trong email thì quyền riêng tư sẽ phụ thuộc vào con người đứng sau hệ thống đó. Quyền riêng tư hoàn toàn có thể bị xâm phạm nếu con người muốn thu thập dữ liệu từ những cỗ máy trí tuệ nhân tạo,” đại diện Kaspersky chia sẻ.
+
+Đại diện Bkav cũng khẳng định công nghệ GPT (AI Model), mô hình xử lý ngôn ngữ tự nhiên kết hợp với AI sẽ được ứng dụng trong các phiên bản của phần mềm diệt virus Bkav Pro cho PC và Mobile, cũng như tính năng chặn spam trên Bphone.

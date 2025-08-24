@@ -1,0 +1,33 @@
+Bảo hiểm xã hội Việt Nam vừa ban hành Quyết định số 3612/QĐ-BHXH ban hành Quy trình giải quyết hưởng bảo hiểm xã hội một lần áp dụng thí điểm xác thực qua chữ ký số được tích hợp trong ứng dụng trên thiết bị di động.
+
+Đây là dịch vụ công được triển khai theo Quyết định số 422/QĐ-TTg của Thủ tướng Chính phủ phê duyệt Danh mục dịch công trực tuyến tích hợp, cung cấp trên Cổng Dịch vụ công quốc gia năm 2022.
+
+Quy trình này quy định trình tự thực hiện thủ tục giải quyết hưởng bảo hiểm xã hội một lần đối với người lao động (không bao gồm đối tượng thuộc Bộ Quốc phòng quản lý) áp dụng thí điểm xác thực qua chữ ký số được tích hợp trong ứng dụng trên thiết bị di động và thực hiện trên Cổng Dịch vụ công.
+
+Theo đó, quy trình này thực hiện qua 5 bước. Cụ thể, vớibước 1: Kê khai và nộp hồ sơ, người lao động kê khai đầy đủ, chính xác thông tin theo Mẫu số 14A- HSB được cung cấp trên Cổng dịch vụ công quốc gia, thực hiện ký số vào Mẫu số 14A-HSB, đăng tải các hồ sơ điện tử hoặc dẫn nguồn tài liệu từ Kho quản lý dữ liệu điện tử của cá nhân và nộp hồ sơ trên Cổng Dịch vụ công.
+
+Người lao động không phải khai, nộp lại dữ liệu, hồ sơ, giấy tờ đã có trong cơ sở dữ liệu do cơ quan bảo hiểm xã hội đang quản lý hoặc đã được cơ quan có thẩm quyền số hóa, lưu giữ, kết nối, chia sẻ thông tin với Cổng dịch vụ công, Hệ thống thông tin một cửa điện tử.
+
+Bước 2: Tiếp nhận hồ sơ.Cán bộ bộ phận Một cửa truy cập phần mềm Tiếp nhận và quản lý hồ sơ nhận hồ sơ chuyển đến từ Cổng Dịch vụ công và kiểm tra nội dung kê khai tại Mẫu số 14A-HSB, thành phần hồ sơ, tính chính xác của hồ sơ, thông tin trên hồ sơ để thực hiện.
+
+Trường hợp hồ sơ không đúng, không đủ thành phần thì gửi thông báo Mẫu số 03/TB-GDĐT ban hành kèm theo Quyết định số 838 cho người lao động trên Cổng Dịch vụ công để hoàn chỉnh hồ sơ theo quy định. Trường hợp hồ sơ hợp lệ thì thông báo giải quyết hồ sơ giao dịch điện tử và trả kết quả đối với hồ sơ giao dịch điện tử cho người lao động và phản hồi trạng thái xử lý cho Cổng dịch vụ công Quốc gia.
+
+Sau đó, chuyển toàn bộ hồ sơ đã tiếp nhận cho Bộ phận/Phòng Chế độ bảo hiểm xã hội để giải quyết.
+
+Nhận sổ bảo hiểm xã hội bản giấy do người lao động gửi đến khi đã được giải quyết hưởng bảo hiểm xã hội một lần, thực hiện lưu trữ hoặc chuyển phòng Quản lý hồ sơ lưu trữ theo quy định cùng hồ sơ đã được giải quyết hưởng từ Bộ phận/Phòng Chế độ bảo hiểm xã hội.
+
+Bước 3: Giải quyết và lập danh sách chi trả.Thực hiện tiếp nhận hồ sơ từ phần mềm Tiếp nhận và quản lý hồ sơ, thực hiện kiểm tra, đối chiếu thông tin theo quy định tại tiết 1.1.1 điểm 1.1 khoản 1 Điều 7 Chương III Quyết định số 166/QĐ-BHXH.
+
+Sau đó, truy cập Hệ thống quản lý chính sách để xét duyệt và trình lãnh đạo phê duyệt Quyết định về việc hưởng bảo hiểm xã hội một lần (Mẫu số 07B-HSB), Bản quá trình đóng bảo hiểm xã hội (Mẫu số 04-HSB).
+
+Sau khi được lãnh đạo phê duyệt, chuyển phát hành về bộ phận Một cửa bản giấy (nếu cá nhân đề nghị trả kết quả là bản giấy) và bản điện tử hoặc chỉ bản điện từ (nếu cá nhân đề nghị chỉ trả bản điện tử) Quyết định về việc hưởng bảo hiểm xã hội một lần, Bản quá trình đóng bảo hiểm xã hội.
+
+Lập danh sách chi trả bảo hiểm xã hội một lần. Thời hạn giải quyết là tối đa 5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định.
+
+Bước 4: Chi trả.Cán bộ Bộ phận/Phòng Kế hoạch tài chính tiếp nhận danh sách và thực hiện chỉ trả. Chi thực hiện trả tiền giải quyết hưởng bảo hiểm xã hội một lần (bằng tiền mặt hoặc qua tài khoản cá nhân) sau khi người đề nghị giải quyết chế độ đã nhận được Quyết định hưởng trợ cấp bảo hiểm xã hội một lần, sổ bảo hiểm xã hội còn thời gian tham gia bảo hiểm thất nghiệp chưa hưởng (nếu có) và đã nộp lại sổ bản giấy.
+
+Bước 5: Trả kết quả giải quyết.Bộ phận Một cửa thực hiện tiếp nhận hồ sơ đã được giải quyết từ Bộ phận/Phòng Chế độ bảo hiểm xã hội để trả cho người nộp gồm: Quyết định về việc hưởng bảo hiểm xã hội một lần, Bản quá trình đóng bảo hiểm xã hội; sổ bảo hiểm xã hội bản điện tử, hoặc sổ giấy.
+
+Sau khi có kết quả giải quyết thủ tục hành chính, cán bộ tại bộ phận Một cửa điện thoại trực tiếp và thông báo cho người hưởng nhận kết quả và hướng dẫn người hưởng nộp lại sổ bảo hiểm xã hội bản giấy. Trường hợp nhận kết quả tại bộ phận một cửa cơ quan bảo hiểm xã hội thì khi đến nhận mang theo chứng minh nhân dân/căn cước công dân/hộ chiếu để đối chiếu và sổ bảo hiểm xã hội bản giấy để nộp lại cho cơ quan bảo hiểm xã hội.
+
+Trường hợp người hưởng chỉ đăng ký nhận kết quả bản điện tử thì bản điện tử được gửi vào kho quản lý dữ liệu điện tử của cá nhân trên Cổng Dịch vụ công.

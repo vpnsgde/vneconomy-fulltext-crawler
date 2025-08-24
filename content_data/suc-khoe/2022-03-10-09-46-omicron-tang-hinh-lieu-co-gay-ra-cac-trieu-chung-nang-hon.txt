@@ -1,0 +1,27 @@
+Theo Bộ Y tế, biến thể Omicron đã ghi nhận ở 20/30 quận, huyện, thị xã của Hà Nội. Trong đó, biến thể phụ BA.2 chiếm tới 87% tổng số các mẫu phát hiện biến thể Omicron. Còn theo kết quả giải trình tự gene, tại TP.HCM, có đến 43/67 ca nhiễm Covid-19 chủng Omicron thuộc biến thể BA.2.
+
+Trên thế giới, chủng "tàng hình" BA.2 đã xuất hiện ở 92 quốc gia, chiếm ưu thế ở ít nhất 10 nước, song còn nhiều điều chúng ta chưa biết về đặc tính của nó, chẳng hạn khả năng tái nhiễm và kháng vaccine. Các nghiên cứu về biến chủng cho đến nay mang lại những kết quả không đồng nhất.
+
+Các báo cáo của cơ quan y tế Anh cho thấy liều vaccine nhắc lại hiệu quả như nhau trong phòng chống nhiễm BA.1 và BA.2. Tuy nhiên, một nghiên cứu chưa được bình duyệt của Nhật Bản cho thấy BA.2 có thể gây ra triệu chứng nặng hơn BA.1, thậm chí có thể "né tránh" được các liệu pháp điều trị bằng kháng thể đơn dòng.
+
+Đây là kết quả nghiên cứu sơ bộ trên động vật của các nhà khoa học thuộc Đại học Tokyo ở Nhật Bản được công bố mới đây. Các nhà nghiên cứu đã phát hiện ra rằng "Omicron tàng hình" gây bệnh nặng hơn ở phổi của những con chuột hamster bị nhiễm virus. Theo đó, "Omicron tàng hình" có các đặc tính tương tự như biến thể Delta xét về cách tác động đến phổi của con người, khiến "Omicron tàng hình" trở nên nguy hiểm hơn biến thể gốc.
+
+Nghiên cứu mới này cho thấy BA.2 có thể tự sao chép trong tế bào nhanh hơn BA.1. Nó cũng trội hơn trong việc làm cho các tế bào dính lại với nhau. Điều này cho phép virus tạo ra các khối tế bào lớn hơn, được gọi là hợp bào, so với BA.1. Điều đó đáng lo ngại vì những khối này sau đó trở thành "nhà máy" để tạo ra nhiều bản sao của virus hơn. Còn Omicron bản gốc sinh ra ít hợp bào hơn so với biến thể Delta cũng như các biến thể khác, do đó được cho là ít nguy hiểm hơn.
+
+Sau khi quan sát tác động của cả 2 phiên bản BA.1 và BA.2 của Omicron đối với phổi của các con chuột hamster, các nhà nghiên cứu nhận thấy những con chuột nhiễm "Omicron tàng hình" (BA.2) bị bệnh nặng hơn đáng kể. Ngoài ra, BA.2 có nguy cơ vượt qua hàng rào miễn dịch sinh ra bởi việc tiêm chủng vaccine Covid-19. BA.2 cũng có dấu hiệu kháng một số phương pháp điều trị, bao gồm sotrovimab - kháng thể đơn dòng hiện đang được sử dụng chống lại Omicron.
+
+Một câu hỏi quan trọng khác là liệu những người từng nhiễm chủng Omicron gốc có được bảo vệ trước BA.2 hay không? Theo nhóm nghiên cứu Nhật Bản, những người đã nhiễm biến thể Omicron có thể không nhiễm "Omicron tàng hình" nữa vì dòng phụ này không thể phá vỡ những kháng thể có được sau khi nhiễm biến thể gốc của nó.
+
+Tuy nhiên, những phân tích ban đầu tình hình thực tế ở Đan Mạch cho thấy tỷ lệ nhập viện do BA.2 không khác biệt so với chủng Omicron gốc - được cho là gây bệnh nhẹ hơn so với biến thể Delta. Nghiên cứu tại Nam Phi cũng ghi nhận điều tương tự. Nhưng về nguy cơ tái nhiễm, các nhà nghiên cứu thuộc Viện Huyết thanh Statens của Đan Mạch - nơi BA.2 đang chiếm thế chủ đạo trong số các ca mắc mới, cho rằng những người gần đây nhiễm chủng Omicron gốc hoặc Delta đều có thể tái nhiễm "Omicron tàng hình."
+
+Để đưa ra kết luận trên, các nhà nghiên cứu đã xem xét hơn 140.000 bộ gene được giải trình tự khi Omicron là biến thể chủ đạo (từ tháng 11/2021 đến giữa tháng 2/2022) để tìm người có kết quả xét nghiệm dương tính lại trong khoảng từ 20 - 60 ngày sau khi đã bình phục. Kết quả là có tổng cộng 263 ca tái nhiễm, trong đó có 190 ca nhiễm "Omicron tàng hình". Trong đó, có 140 ca nhiễm "Omicron tàng hình" sau khi nhiễm Delta, 47 ca nhiễm BA.2 sau khi nhiễm chủng Omicron gốc.
+
+
+
+Trong khi đó, Tiến sỹ Chris Thompson, một nhà vi trùng học tại Đại học Loyola Maryland (Mỹ), cho rằng những kháng thể mà cơ thể vật chủ có được từ việc nhiễm chủng Omicron gốc có thể yếu hơn so với kháng thể từ việc nhiễm các biến thể khác, xuất phát từ việc Omicron được cho là ít gây bệnh nghiêm trọng hơn.
+
+Ông cho rằng khó có thể đưa ra dự báo về biến thể Omicron vì một số dữ liệu ban đầu cho thấy khả năng bảo vệ của kháng thể có được sau khi nhiễm biến thể này không cao và không kéo dài. Ông cũng không chắc chắn rằng liệu "Omicron tàng hình" có thể phá vỡ những kháng thể mà vật chủ có được sau khi nhiễm chủng Omicron gốc hay không, nhưng ông cho rằng không nên mạo hiểm bằng cách không tiêm vaccine.
+
+Còn tiến sĩ Egon Ozer, chuyên gia về bệnh truyền nhiễm tại Trường Y Feinberg thuộc Đại học Northwestern ở Chicago cho rằng, nếu khả năng miễn dịch sau nhiễm BA.1 không thể bảo vệ con người trước BA.2 thì nó có thể gây ra 2 gánh nặng lên đợt bùng dịch. Mặc dù vậy, hiện còn quá sớm để kết luận rằng liệu điều này có xảy ra hay không.
+
+Một số chuyên gia khác thì cho rằng "Omicron tàng hình" có thể sẽ không gây ra làn sóng lây nhiễm mới, song có thể làm chậm quá trình giảm số ca mắc mới tại một số khu vực.

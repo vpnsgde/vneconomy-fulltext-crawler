@@ -1,0 +1,17 @@
+Đặc biệt, Hội nghị có sự tham gia của Jeff Dean, Giám đốc Khoa học của Google, đồng sáng lập của Google Brain, Google Translate, Gemini và nhiều sản phẩm đã giúp Google thống trị ngành công nghệ toàn cầu.
+
+AI Summit là sự kiện thường niên do New Turing Institute tổ chức bắt đầu từ năm 2018 nhằm tạo nền tảng kết nối cộng đồng trí tuệ nhân tạo trong nước với các chuyên gia trên toàn thế giới. Sau nhiều năm tổ chức thành công, AI Summit đã trở thành một sự kiện khoa học công nghệ ý nghĩa, có vị thế nổi bật tại Đông Nam Á.
+
+Hội nghị "GenAI Summit 2024" lần đầu tiên được tổ chức tại Việt Nam bởi Công ty New Turing Institute (NTI) và Rethink Healthcare Foundation (RHF), là một sự kiện mang tầm cỡ quốc tế, đón chào sự tham dự của hơn 1.000 lượt khách trực tiếp, trong đó có những diễn giả là các chuyên gia hàng đầu đang định hình tương lai của AI, các “ông trùm” doanh nghiệp, các nhà trí thức tiên phong trong nghiên cứu AI.
+
+"GenAI Summit 2024" sẽ tập trung vào ba chủ đề chính, gồm: “Mô hình nền tảng của GenAI”, “Ứng dụng thực tiễn của GenAI”, và “Cơ hội cho Việt Nam”. Trong phần “Mô hình nền tảng của GenAI”, các diễn giả là giáo sư, nhà nghiên cứu, nhà khoa học sẽ chia sẻ sâu về các công nghệ tiên tiến thúc đẩy sự phát triển của LLM (Mô hình Ngôn ngữ Lớn).
+
+Trong phần “Ứng dụng thực tiễn của GenAI”, các lãnh đạo doanh nghiệp cấp cao sẽ thảo luận về tiềm năng chuyển đổi và ứng dụng của GenAI trong y tế, sức khỏe, giáo dục, và đời sống xã hội.
+
+Hội nghị sẽ kết thúc với chủ đề “Cơ hội cho Việt Nam", nơi các nhà đầu tư và các lãnh đạo tập đoàn AI lớn trong và ngoài nước sẽ thảo luận về tác động của GenAI đến sự tăng trưởng công nghệ và kinh tế của Việt Nam, cũng như cơ hội và thách thức của Việt Nam trên con đường trở thành một trong những đất nước dẫn đầu về AI.
+
+Danh sách diễn giả bao gồm Tiến sĩ Jeﬀ Dean - Giám đốc khoa học của Google, Tiến Sĩ Lương Minh Thắng - Nhà nghiên cứu cấp cao và Quản lý cấp cao tại Google DeepMind, Đồng sáng lập của New Turing Institute, Lãnh đạo của Alpha Geometry đã đoạt huy chương bạc tại Olympic Toán học Quốc tế 2024, cùng các nhà diễn giả nổi tiếng về AI hàng đầu thế giới sẽ cùng chia sẻ, dẫn dắt khách mời khám phá những tiến bộ mới nhất, xu hướng nổi bật và tiềm năng vô hạn của công nghệ trí tuệ nhân tạo tạo sinh (Generative AI).
+
+Tiến sĩ Lương Minh Thắng - đồng tổ chức - cho biết: “Đây sẽ là hội nghị về GenAI thú vị nhất từ trước đến nay, không chỉ ở Việt Nam mà còn trong khu vực. Đây cũng là lần đầu tiên Jeff Dean, giám đốc khoa học và “thánh kỹ sư" của Google, đến thăm Việt Nam cùng với các chuyên gia và doanh nhân nổi tiếng thế giới từ Thung lũng Silicon. Tôi rất vui vì nó sẽ diễn ra ngay tại Việt Nam. Những người yêu thích công nghệ không nên bỏ lỡ cơ hội này.”
+
+Thạc sĩ Nguyễn Uyên Wendy - đồng tổ chức - chia sẻ: “Tôi thực sự chờ đợi thời khắc lịch sử của hội nghị này, khi mời được Jeff Dean và các nhà khoa học tầm cỡ thế giới về Việt Nam. Thời khắc này sẽ không lập lại lần thứ hai. Và đây cũng là bước khởi đầu để ươm tạo tài năng cho các bạn trẻ tại Việt Nam, không chỉ về AI mà còn về tư duy, giải quyết vấn đề, tài năng lãnh đạo, và sự nhiệt huyết không ngừng nghỉ để tạo ra sự sáng tạo và đổi mới cho nhân loại”.

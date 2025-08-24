@@ -1,0 +1,15 @@
+Phóng viên Bloomberg, Mark Gurman đăng tải trên X cho biết dựa trên các nguồn tin của mình, vào ngày 10/9, Apple sẽ chính thức ra mắt iPhone 16 cũng như Apple Watch Series 10 và hai bộ AirPods mới. Chưa thể chắc chắn hoàn toàn, nhưng thông tin từ phóng viên Mark Gurman thường khá chính xác.
+
+Các đơn đặt hàng trước của iPhone có thể sẽ bắt đầu vào ngày 13/9, trước khi thực sự được bán sớm nhất vào ngày 20/9.
+
+Về mặt phần cứng, iPhone 16 sẽ không khác biệt nhiều so với iPhone 15, trừ bộ tính năng AI. Về thiết kế, màn hình của các mẫu Pro sẽ lớn hơn so với thế hệ cũ (tăng từ 6,1 inch lên 6,3 inch trên Pro và từ 6,7 lên 6,9 inch trên iPhone 16 Pro Max) và bổ sung thêm một nút camera chuyên dụng.
+
+Trước mỗi lần ra mắt iPhone, nhân viên bán lẻ sẽ được Apple triệu tập để đào tạo về các sản phẩm mới. Năm nay có một sự khác biệt nhỏ. Thay vì họp vào cuối tuần, Apple sẽ đào tạo nhân viên vào thứ 5 hoặc thứ sáu, tức khoảng tối 12/9 hoặc sáng 13/9. Cuộc họp này sẽ diễn ra trước thời điểm phát hành iPhone 16 một tuần sau đó.
+
+Không giống như những năm trước, thay vì tạo ra sự khác biệt giữa iPhone thông thường và các mẫu iPhone Pro, lần ra mắt này sẽ chứng kiến ​​nhiều điểm chung hơn giữa hai dòng điện thoại. Cả hai đều sẽ được trang bị chipset Apple Silicon A18 mới nhất và có nhiều RAM hơn để chạy các tính năng AI của Apple.
+
+Trong khi người dùng đang hướng về iOS 18 với hàng loạt tính năng AI mới trên iPhone, macOS Sequoia cũng dự kiến sẽ ra mắt vào giữa tháng 9 thay vì phải đến tháng 10 như mọi năm.
+
+Việc giới thiệu cả hai bản cập nhật cùng lúc sẽ đảm bảo các tính năng đa nền tảng sẽ hoạt động song song trên cả hai thiết bị. Tuy nhiên, giống như iOS 18, macOS Sequoia cũng sẽ chưa ra mắt các tính năng AI cho đến giữa tháng 10, macOS cũng vậy…
+
+Một số nguồn tin khác cho biết Apple ID sẽ được đổi tên thành Tài Khoản Apple vì vậy tội phạm có thể lợi dụng thay đổi mới này để khiến người dùng nhầm lẫn và thực hiện các kế hoạch lừa đảo, chẳng hạn như lừa đảo phishing (khiến người dùng cung cấp thông tin nhạy cảm như tên đăng nhập, mật khẩu hoặc thông tin thẻ tín dụng),...

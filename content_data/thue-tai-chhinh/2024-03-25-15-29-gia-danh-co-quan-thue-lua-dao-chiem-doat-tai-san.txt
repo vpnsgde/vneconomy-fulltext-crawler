@@ -1,0 +1,23 @@
+Cập nhật tình hình lừa đảo qua mạng từ cơ quan chức năng, liên tiếp gần đây, các hình thức lừa đảo gọi điện cho nạn nhân,  hăm dọa/dẫn dụ/hướng dẫn cài đặt các link có phần mềm (app) và chiếm quyền điều khiển điện thoại cá nhân, tội phạm công nghệ gây ra hàng loạt vụ lừa đảo quy mô lớn, nhắm vào những người có nhiều tiền trong tài khoản.
+
+Trong một bản tin ngày 25/3, Tổng cục Thuế nêu cảnh báo về tình trạng giả danh cán bộ thuế, cơ quan thuế để thực hiện hành vi lừa đảo. Cụ thể, Tổng cục Thuế đã chỉ ra những thủ đoạn mà các đối tượng lừa đảo thường áp dụng: dùng số điện thoại và xưng là cán bộ của cục thuế, chi cục thuế yêu cầu cung cấp thông tin, gửi hình ảnh căn cước công dân để được hỗ trợ hướng dẫn làm thủ tục giảm thuế, hoàn thuế, quyết toán thuế và phục vụ công tác kiểm tra cũng như các cuộc gọi hướng dẫn cài đặt ứng dụng (app) để nhận thông tin từ cơ quan thuế.
+
+Ngoài ra, kẻ gian giả mạo trang web có giao diện gần giống trang web của cơ quan, doanh nghiệp từ hình ảnh đến nội dung để người dùng nhầm tưởng là trang web của đơn vị cung cấp; Thủ đoạn giả mạo tin nhắn (SMS), nhận diện (brand name) của Tổng cục Thuế để phát tán tin nhắn giả.
+
+
+
+"Người nộp thuế cũng cần lưu ý, Trang thông tin điện tử chính thức của cơ quan thuế sử dụng giao thức “https” và tên miền quốc gia Việt Nam “.vn”. (Ví dụ: Trang thông tin điện tử Tổng cục Thuế có tên miền:https://www.gdt.gov.vn)”, Tổng cục Thuế khuyến cáo.
+
+Thậm chí, đối tượng còn giả mạo cơ quan thuế gọi điện hăm dọa, sử dụng chiêu trò lừa đảo nhằm chiếm đoạt tài sản của người nộp thuế; giả mạo cơ quan chức năng hỗ trợ dịch vụ công và yêu cầu cung cấp thông tin, gửi hình ảnh căn cước công dân, sau đó đối tượng gửi các đường link và hướng dẫn giả mạo để chiếm quyền điều khiển điện thoại và chiếm đoạt tiền trong tài khoản ngân hàng.
+
+Trong tháng cao điểm quyết toán thuế, thậm chí có đối tượng còn giả mạo là cơ quan chức năng gửi đường link dịch vụ công VNeID giả mạo để người dân truy cập tích hợp với quảng cáo là “tích hợp căn cước công dân và mã số thuế” hoặc hướng dẫn cách điều chỉnh thông tin trên ứng dụng VNeID, sau đó gửi đường link dịch vụ công VNeID giả mạo… rồi từ đó chiếm quyền điều khiển điện thoại và lấy hết tiền trong tài khoản ngân hàng.
+
+Tổng cục Thuế khẳng định không ủy quyền cho bất cứ tổ chức, cá nhân ngoài ngành Thuế thu thuế hộ. Đồng thời cảnh báo đến người nộp thuế khi nhận được các cuộc gọi như trên cần liên hệ trực tiếp với cơ quan thuế qua kênh chính thức để được hỗ trợ tránh bị kẻ gian lợi dụng.
+
+Cơ quan này cũng khuyến cáo, người nộp thuế khi nhận được các tin nhắn, cần kiểm tra kỹ nội dung, không vội vã trả lời hay thực hiện theo nội dung hướng dẫn trong tin nhắn.
+
+Đồng thời, để xác minh danh tính, thông tin của đối tượng gọi đến có phải là công chức thuế hay không, người nộp thuế có thể xác minh bằng cách gọi lại vào số điện thoại chính thức công khai trên các Cổng/trang thông tin điện tử của cơ quan thuế hoặc liên hệ trực tiếp với cơ quan thuế qua các kênh chính thức để được hỗ trợ, tránh bị kẻ gian lợi dụng lừa đảo.
+
+Tổng cục Thuế khẳng định, ngành thuế đã và đang phối hợp tích cực với các lực lượng chức năng để quyết liệt đấu tranh, phát hiện và xử lý các đối tượng phạm tội này. Tuy nhiên, điều quan trọng nhất là mỗi người dân cần nâng cao tinh thần cảnh giác, thận trọng trước các tình huống. Khi nhận các cuộc điện thoại nghi ngờ là giả mạo, người dân cần bình tĩnh trước các thông tin kể cả đối với thông tin có tính chất tạo áp lực đe dọa.
+
+“Người nộp thuế không nên vội vàng cung cấp thông tin cá nhân qua điện thoại, email, không làm theo hướng dẫn cài đặt các ứng dụng, đường link giả mạo và cần thông báo ngay cho cơ quan Công an địa phương để được hỗ trợ và tư vấn", Tổng cục Thuế khuyến cáo.

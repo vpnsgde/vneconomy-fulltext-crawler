@@ -1,0 +1,31 @@
+Chiều 16/8, Ban Chỉ đạo chuyển đổi số của Bộ Giáo dục và Đào tạo tổ chức hội nghị chuyên đề “Ứng dụng khoa học dữ liệu và trí tuệ nhân tạo trong giáo dục và đào tạo”.
+
+Phát biểu tại hội nghị, Thứ trưởng Hoàng Minh Sơn khẳng định với giáo dục, AI là cơ hội, cũng là thách thức lớn. Nếu không nghiên cứu để ứng dụng hiệu quả, chúng ta sẽ tụt hậu. Ngược lại, nghiên cứu khẩn trương, có cách tiếp cận phù hợp sẽ triển khai được hiệu quả, ít tốn kém.
+
+Theo Thứ trưởng Hoàng Minh Sơn, muốn triển khai chuyển đổi số hiệu quả cần phải có dữ liệu, liên tục cập nhật, bổ sung dữ liệu; cùng với đó là nghiên cứu cơ chế, chính sách; quan tâm đào tạo đội ngũ nhà giáo, cán bộ quản lý; trang bị kiến thức, hướng dẫn khai thác sử dụng các công cụ cho học sinh, sinh viên trong độ tuổi nhất định, với các mức độ khác nhau.
+
+Đồng thời cũng phải tính đến bài toán nghiên cứu, gắn với các nghiên cứu, gắn với các nghiên cứu khác trong ngành, để tiếp tục có sản phẩm mới về trí tuệ nhân tạo phục vụ trong công tác quản lý, dạy học…
+
+Chia sẻ về ứng dụng AI trong hỗ trợ giảng dạy, TS. Trần Việt Hùng - nhà sáng lập và Chủ tịch của Got It, Inc., một startup, công nghệ tại thung lũng Silicon; nhà sáng lập của tổ chức STEAM for Vietnam, khẳng định GenAI có thể giúp giáo viên mở khóa các tiềm năng của mình.
+
+Cụ thể, giáo viên có thể được hỗ trợ từ GenAI trong việc lên ý tưởng; lên kế hoạch giảng dạy chi tiết; chấm bài và nhận xét chi tiết cho từng học sinh; trợ giảng và gia sư cho học sinh, dịch nội dung ngôn ngữ khác; tạo ra nội dung giảng dạy phong phú và cá nhân hoá.
+
+"STEAM for Vietnam và các đối tác lần đầu đưa ra một chương trình Generative AI dành cho giáo viên một cách có hệ thống. Theo đó, khóa học về AI cho giáo viên được triển khai đại trà ở quy mô quốc gia đầu tiên trên thế giới. Hơn 8.000 thầy cô đăng ký từ 63/63 tỉnh thành. Hơn 5.000 giáo viên tiên phong sẵn sàng cho năm học mới với tâm thế và bộ kỹ năng Gen AI mới”, TS. Trần Việt Hùng chia sẻ.
+
+TS. Bùi Quốc Trung - Đại học Bách khoa Hà Nội - kiến nghị Việt Nam chuẩn bị để tiến tới cá thể hóa giáo dục từ tiểu học tới THPT và nâng cao hiệu quả đào tạo đại học, sau đại học bằng phân tích dữ liệu.
+
+Với xu hướng học tập trực tuyến và trọn đời, TS. Bùi Quốc Trung kiến nghị đẩy mạnh các hoạt động học tập trực tuyến đi kèm với ứng dụng các kỹ thuật phân tích dữ liệu lớn để tăng chất lượng việc dạy và học.
+
+Đồng thời, đề xuất Bộ Giáo dục Đào tạo xây dựng các khóa học trực tuyến cho các học phần chung của các đại học và cơ sở giáo dục khác; tích hợp các công cụ phân tích dữ liệu để giám sát, phân tích và thúc đẩy học tập hiệu quả; xuất bản các khóa học và phân tích cho các đơn vị đào tạo tham gia hệ thống.
+
+GS. Hồ Tú Bảo - Giám đốc Phòng thí nghiệm Khoa học dữ liệu của Viện Nghiên cứu Cao cấp về Toán, Giám đốc khoa học Trung tâm BKAI,  lưu ý khi tích hợp GenAI vào giáo dục, phải nghĩ kỹ hơn về ý nghĩa của việc người học sẽ thành những con người thế nào trong một thế giới số. Đồng thời, cần tìm hiểu kỹ lưỡng tiềm năng của GenAI trong giáo dục và xác định rõ ranh giới của AI trong giáo dục.
+
+Người học có thể phụ thuộc quá mức vào GenAI và hạn chế sự phát triển tư duy phản biện, khả năng giải quyết vấn đề. Nên dùng GenAI trong giáo dục một cách thận trọng, ưu tiên cân nhắc về đạo đức và có các biện pháp bảo vệ mạnh mẽ để giảm thiểu tác hại tiềm ẩn.
+
+GS. Hồ Tú Bảo cho rằng nhà quản lý và giáo viên mọi cấp nên/cần dùng AI để nâng cao hiệu quả hoạt động. Giáo dục đại học nên/cần dùng AI để hỗ trợ tốt hơn trong đào tạo năng lực nghề nghiệp. Cần giáo dục đạo đức và pháp lý để dùng AI một cách an toàn và trách nhiệm. Giáo dục phổ thông chưa cần vội sử dụng AI tạo sinh, nhưng cần từng bước giới thiệu AI như khuyến cáo của UNESCO và kinh nghiệm một số nước.
+
+PGS.TS Tạ Hải Tùng, Hiệu trưởng Trường Công nghệ thông tin và Truyền thông, Đại học Bách khoa Hà Nội, nhận định rằng kết nối và chia sẻ dữ liệu là xu thế của thời đại, là mặc định, không còn là một lựa chọn; cho phép nâng cao độ minh bạch, cũng như trách nhiệm giải trình và tạo động lực phát triển kinh tế - xã hội thông qua các hoạt động đổi mới sáng tạo.
+
+Theo PGS.TS Tạ Hải Tùng, cần hoàn thiện chính sách và pháp luật liên quan đến chia sẻ dữ liệu. Đồng thời, nâng cao nhận thức và tạo động lực tăng cường liên thông chia sẻ dữ liệu trong khối cơ quan nhà nước, và giữa cơ quan nhà nước với khối tư nhân (cơ chế thưởng).
+
+Cũng cần phát triển nền tảng truy cập và chia sẻ dữ liệu phục vụ phát triển kinh tế - xã hội; nhanh chóng tạo ra một số sản phẩm khai thác dữ liệu có sức lan tỏa, thúc đẩy việc chia sẻ dữ liệu; phát triển nguồn nhân lực. “Với ngành Giáo dục, mở là nguyên tắc, không nên là một lựa chọn, và nên đi đầu trong việc chia sẻ dữ liệu mở”, PGS.TS Tạ Hải Tùng nhấn mạnh.

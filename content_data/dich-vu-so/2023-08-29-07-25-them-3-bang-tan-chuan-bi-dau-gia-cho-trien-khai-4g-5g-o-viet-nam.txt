@@ -1,0 +1,47 @@
+Bộ Thông tin và Truyền thông vừa ký Quyết định số 1568/QĐ-BTTTT về việc tổ chức xác định mức thu cơ sở đối với các băng tần 700 MHz (703-733 MHz và 758-788 MHz), 2600 MHz (2500-2600 MHz), 3700 MHz (3560-4000 MHz). Đây là bước đầu tiên kích hoạt quá trình triển khai đấu giá để cấp quyền sử dụng tần số các băng tần này cho 4G/5G tại Việt Nam.
+
+Bộ trưởng Bộ Thông tin và Truyền thông giao Cục Tần số vô tuyến điện lựa chọn tổ chức có đủ điều kiện hoạt động thẩm định giá (tổ chức thẩm định giá) xác định mức thu cơ sở đối với các băng tần 703-733 MHz và 758-788 MHz, 2500-2600 MHz, 3560-4000 MHz.
+
+Trên cơ sở kết quả do tổ chức thẩm định giá xác định, giao Cục Tần số vô tuyến điện trình Bộ trưởng Bộ Thông tin và Truyền thông ban hành Quyết định mức thu cơ sở đối với các băng tần này. Việc xác định mức thu cơ sở đối với các băng tần thực hiện theo hướng dẫn tại Nghị định số 63/2023/NĐ-CP ngày 18/08/2023 của Chính phủ quy định chi tiết một số điều của Luật Tần số vô tuyến điện số 42/2009/QH12, được sửa đổi, bổ sung một số điều theo Luật số 09/2022/QH15.
+
+Thông tin về các băng tần chuẩn bị đấu giá cho triển khai 4G/5G, Cục Tần số cho biết, tại Việt Nam, băng tần 700 MHz trước đây chủ yếu được sử dụng cho hệ thống truyền hình tương tự mặt đất. Tuy vậy, hệ thống này đã được thay thế bởi truyền hình số mặt đất theo Đề án số hóa truyền dẫn, phát sóng truyền hình mặt đất đến năm 2020. Từ ngày 28/12/2020, Việt Nam đã chính thức ngừng phát sóng truyền hình tương tự mặt đất và băng tần 700 MHz đã được giải phóng sẵn sàng cho triển khai hệ thống thông tin di động IMT.
+
+Ngày 25/12/2019, Bộ trưởng Bộ Thông tin và Truyền thông đã ký ban hành Thông tư số 19/2019/TT-BTTTT, quy hoạch băng tần 694-806 MHz cho hệ thống thông tin di động của Việt Nam. Thông tư này có hiệu lực kể từ ngày 16/02/2020. Theo đó, băng tần 694-806 MHz được quy hoạch cho triển khai các hệ thống thông tin di động IMT theo tiêu chuẩn IMT-Advanced và các phiên bản tiếp theo. Băng tần 700 MHz được quy hoạch 3 khối song công phân chia theo tần số, mỗi khối có độ rộng 10 MHz.
+
+Về điều khoản thực hiện quy hoạch, Thông tư 19/2019/TT-BTTTT quy định: Các tổ chức, cá nhân không được sử dụng mới và triển khai thêm các thiết bị vô tuyến điện không phải là IMT-Advanced và các phiên bản tiếp theo trong băng tần 700 MHz. Các doanh nghiệp triển khai hệ thống thông tin di động IMT-Advanced và các phiên bản tiếp theo trong băng tần 700 MHz có trách nhiệm phối hợp với nhau trong việc sử dụng tần số vô tuyến điện và áp dụng các biện pháp phòng tránh nhiễu có hại.
+
+Việc ban hành Quy hoạch băng tần 700 MHz cho thông tin di động IMT được đánh giá là đáp ứng kỳ vọng của doanh nghiệp viễn thông và mang lại những tác động tích cực đến xã hội. Theo đó, doanh nghiệp có định hướng để xây dựng kế hoạch đầu tư trang thiết bị, phát triển hạ tầng; cơ quan quản lý có cơ sở để tiến hành đấu giá và cấp phép sử dụng băng tần 700 MHz. Điều này cũng mang lại nhiều lợi ích hơn cho người dân khi dịch vụ thông tin di động 4G/5G được phát triển, đặc biệt là tại các khu vực nông thôn, miền núi.
+
+Theo báo cáo của Hiệp hội các nhà sản xuất thiết bị di động (GSA) tháng 6/2022, có 205 nhà mạng đã đầu tư xây dựng mạng LTE trong băng tần 700 MHz, trong đó có 165 nhà mạng đầu tư theo quy hoạch APT 700 MHz (band 28) với 153 nhà mạng đã được cấp phép băng tần và 74 nhà mạng trong số đó đã triển khai 4G LTE hoặc 5G thương mại. Số nhà mạng triển khai theo phương án quy hoạch US 700 MHz ít hơn, với 98 nhà mạng.
+
+Bên cạnh băng tần 700 MHz, ngày 20/8/2020, Bộ Thông tin và Truyền thông cũng quy hoạch băng tần 2300-2400 MHz và băng tần 2500-2690 MHz cho hệ thống thông tin di động IMT của Việt Nam.
+
+Theo đó, băng tần 2500-2690 MHz được quy hoạch cho triển khai các hệ thống thông tin di động IMT theo tiêu chuẩn IMT-Advanced và các phiên bản tiếp theo. Các doanh nghiệp được cấp phép sử dụng tần số trong cùng băng tần 2500-2690 MHz có trách nhiệm phối hợp với nhau để tránh can nhiễu có hại, đồng bộ về khung dữ liệu của phương thức TDD và thực hiện theo các quy định của giấy phép sử dụng băng tần.
+
+Cục Tần số Vô tuyến điện thông tin, hiện nay, băng tần 2500-2690 MHz đã sẵn sàng để cấp phép chính thức cho các nhà mạng triển khai 4G và 5G trên toàn quốc.
+
+Báo cáo của GSA cho biết, băng tần 2500-2690 MHz đã được ấn định cho các nhà khai thác di động ở ít nhất 108 quốc gia/vùng lãnh thổ trên toàn thế giới.
+
+Đối với băng tần 2600 MHz FDD (n7) có tổng cộng 240 nhà khai thác tại 94 quốc gia/vùng lãnh thổ đã và đang đầu tư vào 4G LTE, trong đó 237 nhà khai thác đã nắm giữ giấy phép, đã triển khai hoặc đang lập kế hoạch để triển khai mạng; 2 nhà khai thác đã tham gia vào các cuộc thử nghiệm và 1 nhà khai thác đã triển khai mạng 5G.
+
+Băng tần 2600 MHz TDD hiện cũng đã được 108 nhà khai thác đầu tư vào việc triển khai 4G LTE, trong đó có 81 nhà khai thác đầu tư vào băng n38 (2570 MHz- 2620 MHz), 20 nhà khai thác đầu tư vào băng n41 (2496 MHz– 2690 MHz). Bên cạnh đó, băng tần 2600 MHz TDD cũng đang được các nhà khai thác di động quan tâm để đầu tư vào việc triển khai mạng 5G.
+
+Theo báo cáo của GSA, hiện có 17 nhà khai thác đã được xác định là đầu tư vào 5G trong băng tần này, trong đó 16 nhà khai thác sử dụng phổ tần số trong băng n41 và 1 nhà khai thác sử dụng băng n38.
+
+Đối với băng tần 3700, quy hoạch phổ tần số vô tuyến điện quốc gia đã quy hoạch băng tần 3400-4200 MHz cho các nghiệp vụ di động, cố định, cố định qua vệ tinh (đường xuống từ vệ tinh) và vô tuyến định vị (radar), trong đó băng tần 3560-4000 MHz được xác định cho hệ thống IMT. Hiện nay, quy hoạch băng tần 3560-4000 MHz cho hệ thống thông tin di động IMT đang trong quá trình lấy ý kiến rộng rãi và hoàn thiện.
+
+Quy hoạch phổ tần số vô tuyến điện quốc gia cũng quy định các hệ thống thuộc nghiệp vụ cố định qua vệ tinh nằm trong băng tần 3400-3560 MHz đường xuống (chiều từ vũ trụ tới trái đất) cần có các bộ lọc thu đạt tiêu chuẩn về lọc các tín hiệu ngoài băng.
+
+Băng tần 3400-3700 MHz đang được sử dụng làm băng tần đường xuống cho hệ thống vệ tinh Vinasat-1. Theo số liệu thống kê, hiện có 820 đài trái đất hoạt động trong băng tần 3400-4200 MHz.
+
+Theo Cục Tần số vô tuyến điện, các quốc gia trên thế giới, tùy thuộc vào hiện trạng sử dụng tần số của mình thường chỉ quy hoạch được một phần trong băng tần 3400-4200 MHz cho 5G. Băng tần này có hệ sinh thái thiết bị 5G lớn nhất nên sẽ có vai trò quyết định để Việt Nam có thể sớm triển khai thành công mạng 5G.
+
+Theo báo cáo của GSA, tính đến tháng 03/2023, trên thế giới có 81 nước đã cấp phép và 43 nước đang nghiên cứu, xem xét sử dụng băng tần 3400-4200 MHz với khoảng 270 mạng 5G được triển khai.
+
+Về hệ sinh thái thiết bị 5G, băng tần 3,5 GHz (n77/n78) là băng tần 5G có hệ sinh thái lớn nhất. Tính đến tháng 01/2023 đã có khoảng gần 1000 mẫu thiết bị đầu cuối được công bố hỗ trợ băng tần 3,5 GHz trong tổng số hơn 1400 mẫu thiết bị đầu cuối 5G.
+
+Với việc kích hoạt quá trình đấu giá quyền sử dụng tần số đối với các băng tần 700 MHz, 2600 MHz, 3700 MHz, kỳ vọng sẽ có thêm hơn 500 MHz băng thông được bổ sung cho hệ thống thông tin di động IMT để triển khai 4G/5G tại Việt Nam.
+
+Theo Cục Tần số vô tuyến điện, lượng tần số mới được bổ sung sẽ góp phần quan trọng trong thực hiện nhiệm vụ “đảm bảo tần số cho di động băng thông siêu rộng và phổ cập”.
+
+Tại tọa đàm “phát triển mạng 5G Make in Vietnam và cơ hội thúc đẩy thương mại hóa 5G” do Tạp chí Kinh tế Việt Nam/VnEconomy vừa tổ chức, các chuyên gia cho rằng, để triển khai 5G thành cần yếu tố hạ tầng mạng lưới, trong đó có giấy phép, băng tần. Đánh giá cao công tác quy hoạch băng tần cho viễn thông di động 3G, 4G và 5G phù hợp ở Việt Nam, chuyên gia cho rằng điều này sẽ tạo thuận lợi cho các nhà mạng khi triển khai dịch vụ, tiết kiệm chi phí, hiệu quả thương mại hóa thành công sẽ cao.

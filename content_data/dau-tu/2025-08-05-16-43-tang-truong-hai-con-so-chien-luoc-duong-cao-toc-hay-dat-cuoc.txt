@@ -1,0 +1,55 @@
+Trong phiên thảo luận xây dựng hệ sinh thái R&D vùng bền vững trong khuôn khổ Diễn đàn Nghiên cứu và Phát triển (R&D) Việt Nam 2025 diễn ra mới đây, câu hỏi về con đường phát triển cho Việt Nam và các địa phương trọng điểm như TP.Hồ Chí Minh đã được đặt ra với mục tiêu tìm ra cách làm mới, các lĩnh vực ưu tiên để đầu tư và thu hút nguồn lực giúp các địa phương phát triển thành công.
+
+Để trả lời cho câu hỏi này, AVSE Global đã đề xuất khung phân tích 5I, được phát triển dựa trên khung 3I của Ngân hàng Thế giới (WB) cho phù hợp với bối cảnh Việt Nam.
+
+Theo đó, bên cạnh khung 3I gốc mô tả ba giai đoạn phát triển gồm Đầu tư (Investment), Lan tỏa (Infusion), Đổi mới sáng tạo (Innovation), AVSE Global đã bổ sung thêm hai yếu tố nền tảng là Nội lực (Innerpower) và Hội nhập (Internationalization).
+
+“Việc bổ sung này muốn nhấn mạnh tới các yếu tố nền tảng, xuất phát từ một nền hành chính công hiệu quả và năng lực công nghệ của các trường đại học và hệ sinh thái địa phương. Nội lực vững chắc mới có thể giúp Việt Nam thu hút những đối tác lớn cùng đồng hành, đầu tư, lan tỏa công nghệ và đổi mới sáng tạo”, PGS.TS.Trần Phương Trà, Giám đốc Chương trình Thạc sĩ Chính sách công, Trường Kinh doanh Audencia (Pháp), Giám đốc Phát triển AVSE Global, cho biết.
+
+Để hiện thực hóa khung phân tích trên, TS. Phùng Đức Tùng, Giám đốc Viện Nghiên cứu phát triển Mekong, đã chia sẻ một nghiên cứu về ứng dụng “Chiến lược phát triển chuyên môn hóa thông minh của địa phương” nhằm giúp các địa phương lựa chọn chiến lược đầu tư hiệu quả với nguồn lực hạn chế.
+
+Chiến lược này dựa trên các nguyên tắc: bắt đầu từ thế mạnh sẵn có (bottom-up), ưu tiên nguồn lực vào một số lĩnh vực và đa dạng hóa một cách có liên quan đến năng lực cốt lõi.
+
+Theo đó, chiến lược tập trung phân tích mức độ phức tạp của công nghệ với mức độ liên kết với năng lực địa phương để từ đó xác định các lựa chọn chiến lược như “đường cao tốc” (rủi ro thấp, nên tập trung) hay “sòng bạc” (rủi ro cao, cần thận trọng).
+
+Khi áp dụng mô hình để phân tích giả định về việc sáp nhập các địa phương ở vùng kinh tế trọng điểm phía Nam, ông Tùng cho biết: kết quả ban đầu cho thấy khi các địa phương kết hợp lại, một “siêu vùng” mới được tạo ra với năng lực cộng hưởng lớn hơn.
+
+“Mặc dù độ phức tạp công nghệ trung bình có thể không thay đổi nhiều, nhưng mức độ liên kết giữa công nghệ và năng lực nội tại của toàn vùng tăng lên đáng kể. Ví dụ, năng lực vượt trội của TP.Hồ Chí Minh sẽ giúp lan tỏa và kéo theo sự phát triển của các ngành công nghiệp liên quan ở các tỉnh lân cận, tạo ra một hệ sinh thái vững chắc hơn”, ông Tùng nhấn mạnh.
+
+Kết quả nghiên cứu cũng chỉ ra chiến lược “đường cao tốc” cụ thể cho từng ngành nghề đem lại những cơ hội để xây dựng “nội lực” thành công.
+
+Đại diện cho doanh nghiệp công nghệ, bà Nguyễn Thu Thảo, Giám đốc Chính sách công, phụ trách thị trường Việt Nam, Lào và Campuchia của Meta - khẳng định một cách dứt khoát về cách tiếp cận của tập đoàn này tại Việt Nam. Thay vì những cuộc chơi ngắn hạn, Meta chọn xây dựng nền móng bền vững, mà dự án ViGen - xây dựng bộ cơ sở dữ liệu tiếng Việt toàn diện, chất lượng cao - là một minh chứng.
+
+“Với ViGen, tôi có thể khẳng định rằng cách tiếp cận của Meta trong hợp tác với Việt Nam về mảng R&D là xây “đường cao tốc” chứ chúng tôi không đến để đặt cược với rủi ro cao. Bởi xây nhà cần đầu tư nhiều, cần thời gian lâu và không thể tính được lợi ích, lợi nhuận ngay trước mắt. Đây là chiến lược làm ăn lâu dài”, bà Thảo nói.
+
+Đồng thời, bà Thảo nhấn mạnh rằng bộ dữ liệu này sẽ là mã nguồn mở, phục vụ cho tất cả các đối tác từ nhà hoạch định chính sách, nhà nghiên cứu đến cộng đồng startup, đặt lợi ích của người Việt vào trung tâm.
+
+Tuy nhiên, việc chọn hướng đi theo chiến lược “đường cao tốc” lại đặt ra một câu hỏi hóc búa khác: làm thế nào để chọn đúng “cao tốc” để đầu tư giữa vô vàn lựa chọn?
+
+Từ góc nhìn của một nhà đầu tư, ông Đỗ Ngọc Quỳnh, Tổng Thư ký Hiệp hội Thị trường trái phiếu Việt Nam (VBMA), cho rằng điều này đặt ra thách thức với mục tiêu tăng trưởng đầy tham vọng của quốc gia và địa phương.
+
+“Làm thế nào để TP.Hồ Chí Minh tăng trưởng hai con số trong những năm tới khi cơ cấu kinh tế vẫn vậy, ngân sách vẫn không thay đổi? Nếu không có giải pháp thực sự thì rất khó để tìm ra đâu là động lực, là yếu tố dẫn dắt để thúc đẩy tăng trưởng”, ông Quỳnh nêu câu hỏi.
+
+Theo ông Quỳnh, có hai phương pháp để tìm ra động lực tăng trưởng cốt lõi. Một là “top down” (từ trên xuống), nơi một hội đồng các chuyên gia hàng đầu sẽ phân tích và đưa ra khuyến nghị. Hai là “bottom up” (từ dưới lên), tức là khảo sát kế hoạch đầu tư của chính các doanh nghiệp để xác định xu hướng và động lực có sẵn, từ đó Chính phủ chỉ cần “thiết kế chính sách để doanh nghiệp tự kích hoạt tăng trưởng”.
+
+Ủng hộ mạnh mẽ cho cách tiếp cận “bottom up”, chuyên gia Navi Radjou, nhà tư tưởng và cố vấn đổi mới sáng tạo và lãnh đạo tại Thung lũng Silicon, đã chia sẻ những kinh nghiệm quốc tế cho thấy sức mạnh đổi mới sáng tạo từ địa phương là vô cùng lớn và không cần chờ đợi sự cho phép từ trung ương. “Điều tôi khám phá ra là các địa phương có năng lực đổi mới sáng tạo đáng kinh ngạc và họ thực sự không chờ đợi chính phủ trung ương cho phép họ đổi mới”, ông Navi cho biết.
+
+Ông Navi lấy ví dụ về nước Mỹ, nơi các hệ sinh thái đổi mới sáng tạo phát triển nhanh nhất lại nằm ở những bang như Arkansas hay Tennessee, dựa trên thế mạnh sẵn có tại địa phương.
+
+GS.TS.Bùi Thị Minh Hồng, Giám đốc Quản lý giáo dục VinUni, bổ sung thêm rằng cần phải kết hợp cả hai phương pháp và mở rộng đối thoại theo “chiều ngang” để có sự tham gia của cả cộng đồng nhằm hướng tới một tương lai tự kiến tạo thay vì chỉ dự đoán.
+
+“Trước khi có Iphone, người ta chưa có khái niệm hay nhu cầu sử dụng điện thoại thông minh. Nhưng R&D đã đi trước và tạo ra cuộc chơi, tạo ra thị trường và dẫn dắt thị trường”, bà Hồng nêu quan điểm.
+
+Ông Nguyễn Tử Quảng, Chủ tịch Hội đồng Quản trị kiêm Tổng giám đốc của Tập đoàn Công nghệ Bkav, lại nhấn mạnh rằng vấn đề cốt lõi của Việt Nam không phải là thiếu ý tưởng, mà là chưa giải phóng được nguồn lực khổng lồ của doanh nghiệp tư nhân, đặc biệt trong lĩnh vực công nghệ.
+
+Dẫn chứng từ câu chuyện lịch sử về Nghị quyết số 10 (Khoán 10) năm 1988 như một minh chứng hùng hồn, ông khẳng định khi giải phóng lực lượng sản xuất, Việt Nam sẽ tạo ra đột phá.
+
+“Chỉ sau 1 năm kể từ khi Nghị quyết số 10 được ban hành, Việt Nam từ nước thiếu đói, phải nhập khẩu lương thực đã xuất khẩu được 1,2 triệu tấn gạo và đứng thứ ba thế giới”, ông Quảng dẫn chứng.
+
+Vì vậy, ông lập luận rằng, vấn đề quan trọng hiện nay là phải cải cách thể chế để kiến tạo sân chơi, giải phóng nguồn lực cho doanh nghiệp tư nhân trong các lĩnh vực như công nghệ, du lịch, hàng không...
+
+“Nếu làm được điều này, các “Big Tech” Việt Nam sẽ xuất hiện ngay lập tức và đất nước sẽ có động lực tăng trưởng hai con số trong nhiều năm. Đây mới chính là con đường căn cơ nhất để hiện thực hóa khát vọng thịnh vượng của đất nước”, ông Quảng khẳng định.
+
+Nội dung đầy đủ bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 31-2025 phát hành ngày4/8/2025. Kính mời Quý độc giả tìm đọc tại đây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/detail/1544

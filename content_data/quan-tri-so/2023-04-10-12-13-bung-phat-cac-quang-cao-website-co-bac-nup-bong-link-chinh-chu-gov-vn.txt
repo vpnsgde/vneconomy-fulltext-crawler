@@ -1,0 +1,13 @@
+Thời gian gần đây, Công ty Công nghệ an ninh mạng Việt Nam (NCS) nhận được khá nhiều đề nghị trợ giúp từ các cơ quan, doanh nghiệp về việc website bị tấn công, chèn mã quảng cáo cờ bạc, cá độ. Đáng chú ý, các website này đều sử dụng https, được chứng nhận “chính chủ” của các cơ quan nhà nước, doanh nghiệp lớn, nhưng khi bấm vào link thì lại chuyển hướng truy cập đến website của tổ chức cá độ, cờ bạc trực tuyến.
+
+Ông Vũ Ngọc Sơn, Giám đốc Kỹ thuật NCS, cho biết: “Chỉ cần search bằng Google với các từ khoá liên quan đến cá độ, cờ bạc với tuỳ chọn site “.gov.vn” hoặc site “.vn”… sẽ dễ dàng nhìn thấy vô số các trang đã bị hack và chèn các đường link quảng cáo. Vào thời điểm sáng ngày 10/4 khi kiểm tra lại, chúng tôi thấy có một số link theo cache của Google vẫn còn thể hiện ngày giờ cập nhật mới chỉ vài giờ trước”.
+
+Theo ông Sơn, đặc điểm chung của hình thức tấn công này là hacker sẽ lợi dụng các lỗ hổng để chiếm quyền kiểm soát website, máy chủ, từ đó chèn các link quảng cáo, thậm chí cài mã độc để truy cập bất cứ nội dung nào đều bị chuyển hướng, dẫn sang website cờ bạc, cá độ.
+
+Ngoài ra, hình thức tấn công này trước đây đã khá phổ biến. Tuy nhiên, gần đây, có dấu hiệu bùng phát và mang lại nhiều nguy cơ an ninh mạng cho người dùng. “Đặc biệt nguy hiểm nếu các đường link “chính chủ” https này được dùng để phát tán các link lừa đảo, ăn cắp thông tin thì người dùng rất dễ bị mắc bẫy”, chuyên gia an ninh mạng NCS cảnh báo.
+
+Theo đại diện NCS, có các hình thức tấn công phổ biến như sau: Tấn công vào máy chủ cài hệ điều hành cũ, chưa vá lỗ hổng; Tấn công vào các website sử dụng thư viện dùng chung, có lỗ hổng; Tấn công vào các tài khoản quản trị có mật khẩu yếu; Tấn công vào các tài khoản kết nối cơ sở dữ liệu có mật khẩu yếu; Tấn công vào máy chủ phân quyền không chặt, từ lỗ hổng của 1 website có thể tấn công sang các website khác nằm cùng máy chủ…
+
+Từ đó, NCS cũng khuyến cáo các quản trị cần khẩn trương rà soát lại toàn bộ hệ thống website của mình, chú trọng rà soát các trang mã nguồn, cần chú ý đặc biệt đến những file mới được tạo hoặc có thời gian tạo khác biệt với phần lớn các file khác trong cùng thư mục.
+
+Đồng thời, đổi các mật khẩu quản trị, mật khẩu truy cập cơ sở dữ liệu nếu đang để mật khẩu yếu. Nếu được có thể thực hiện đánh giá tổng thể an ninh mạng cho hệ thống, đồng thời triển khai các giải pháp giám sát tự động nhằm phát hiện ra các thay đổi bất thường, từ đó có xử lý kịp thời.

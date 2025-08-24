@@ -1,0 +1,39 @@
+Thỏa thuận bảo mật và không cạnh tranh (NDCA) có thể được thỏa thuận trong hợp đồng lao động là một phần của hợp đồng lao động hoặc bằng thỏa thuận độc lập. NDCA thông thường bao gồm: Thỏa thuận bảo mật thông tin (NDA - Non-Disclosure Agreement) và Thỏa thuận không cạnh tranh (NCA - Non-Compete Agreement). Mặc dù vậy, các khía cạnh pháp lý, trong đó có vấn đề hiệu lực của NCA vẫn còn nhiều quan điểm thậm chí có ý kiến trái chiều ngay cả khi Án lệ 69/2023/AL về thẩm quyền của Trọng tài thương mại trong giải quyết tranh chấp liên quan đến NCA đã được công bố.
+
+NCA là thỏa thuận, theo đó người lao động cam kết với người sử dụng lao động sẽ không làm việc cho các đối thủ cạnh tranh của người sử dụng lao động trong một khoảng thời gian nhất định sau khi chấm dứt hợp đồng lao động.
+
+Mục đích của việc xác lập NCA là bảo vệ bí mật kinh doanh và bí quyết công nghệ, vốn là tài sản vô hình của doanh nghiệp được quy định tại Luật Sở hữu trí tuệ 2005, được sửa đổi, bổ sung năm 2009 (Điều 3.2) và phải được các bên, trong đó có người lao động tôn trọng. Doanh nghiệp được pháp luật cho phép áp dụng các biện pháp cần thiết, có thể bao gồm xác lập NCA để bảo vệ bí mật kinh doanh và bí quyết công nghệ của mình (Điều 84.3, Luật Sở hữu trí tuệ).
+
+Theo Điều 21.2 Bộ luật Lao động 2019 thì khi người lao động làm việc có liên quan trực tiếp đến bí mật kinh doanh, bí mật công nghệ theo quy định của pháp luật thì người sử dụng lao động có quyền thỏa thuận bằng văn bản với người lao động về nội dung, thời hạn bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ, quyền lợi và việc bồi thường trong trường hợp vi phạm. Quy định trên cũng được thể hiện tại Thông tư số 10/2020/TT-BLĐTB&XH ngày 12/11/2020 của Bộ Lao động, Thương binh và Xã hội.
+
+Tuy nhiên, hiện nay, các khía cạnh pháp lý và hiệu lực của NCA chưa có quy định cụ thể. Mới đây, Tòa án nhân dân tối cao ban hành Án lệ số 69. Nội dung án lệ được xây dựng theo vụ việc xảy ra tại Tòa án nhân dân TP.HCM.
+
+Theo Án lệ 69, năm 2015, bà Đỗ Thị Mai T. ký hợp đồng lao động với Công ty R, vị trí là Trưởng bộ phận tuyển dụng. Hai bên có ký thỏa thuận không cạnh tranh, trong đó nhấn mạnh, nếu xảy ra tranh chấp sẽ được giải quyết bằng phán quyết trọng tài. Năm 2016, bà T. chấm dứt hợp đồng lao động. Cho rằng bà T. vi phạm thỏa thuận không cạnh tranh, Công ty R. nộp đơn khởi kiện ra Trung tâm Trọng tài quốc tế Việt Nam – VIAC yêu cầu bồi thường hơn 200 triệu đồng.
+
+VIAC đã chấp nhận toàn bộ yêu cầu của Công ty R. Do đó, bà T. nộp đơn ra Tòa án nhân dân TP.HCM yêu cầu hủy phán quyết của VIAC với lý do, vụ tranh chấp không thuộc thẩm quyền của Hội đồng trọng tài VIAC mà phải do tòa án giải quyết.
+
+Sau khi xem xét, tòa án xác định, “Thỏa thuận không cạnh tranh là một thỏa thuận độc lập, khi có tranh chấp thì thuộc thẩm quyền giải quyết của trọng tài...”.
+
+Theo luật sư Nguyễn Huy Hoàng và luật sư Đoàn Thanh Bình, Công ty luật Bross & Partners, hai trong những luật sư tham gia toàn bộ quá trình giải quyết tranh chấp trên với tư cách luật sư bảo vệ và đại diện theo ủy quyền cho Công ty R., cả NDA và NCA được xác lập với mục đích là để bảo vệ bí mật kinh doanh và bí quyết công nghệ của người sử dụng lao động. Khi NDA và NCA bị vi phạm, tòa án sẽ có thẩm quyền giải quyết nếu hành vi vi phạm NDA và NCA xảy ra trong thời gian hiệu lực của hợp đồng lao động. Ngược lại, thẩm quyền sẽ thuộc về tòa án hoặc trọng tài thương mại (nếu các bên có thỏa thuận) nếu hành vi vi phạm NDA và NCA xảy ra sau khi hợp đồng lao động chấm dứt.
+
+Vì pháp luật chưa có quy định điều chỉnh cụ thể, nên vấn đề hiệu lực của NCA vẫn còn nhiều ý kiến trái chiều. Thực tế, cùng một loại tranh chấp NCA, có tòa án công nhận hiệu lực NCA, có tòa án lại nhận định là NCA vô hiệu do vi phạm điều cấm của luật.
+
+Theo các luật sư, Án lệ 69 chỉ có giá trị pháp lý xác định rõ cơ quan tài phán là tòa án có thẩm quyền hoặc trọng tài thương mại (nếu các bên có thỏa thuận về trọng tài) trong trường hợp vi phạm NCA tương tự sau khi hợp đồng lao động chấm dứt và không phải án lệ xác định hiệu lực của NCA. Do đó, việc đánh giá hiệu lực của NCA phải dựa vào từng trường hợp cụ thể và phụ thuộc quan điểm pháp lý của cơ quan tài phán, nhất là tòa án.
+
+Các luật sư cũng cho rằng NCA có hiệu lực pháp luật nếu loại thỏa thuận này được xác lập “trên cơ sở tự do, tự nguyện cam kết, thỏa thuận” và không bị coi là vô hiệu do vi phạm điều cấm của luật. Tuy nội dung NCA có liên quan đến quyền làm việc của người lao động, không phải lúc nào NCA cũng bị xem là vi phạm điều cấm của luật.
+
+Dẫn chứng cho điều trên là các quy định tại Điều 35.1 Hiến pháp 2013: “Công dân có quyền làm việc, lựa chọn nghề nghiệp, việc làm và nơi làm việc”, Điều 10.1 Bộ luật Lao động 2019 quy định “người lao động được làm việc cho bất kỳ người sử dụng lao động nào và ở bất kỳ nơi nào mà pháp luật không cấm”.
+
+Theo chuyên gia, các quy định trên không phải là điều cấm của luật, vì theo Điều 123 Bộ luật Dân sự 2015: “Điều cấm của luật là những quy định của luật không cho phép chủ thể thực hiện những hành vi nhất định”. Các điều khoản trên chính là các quy định liên quan đến quyền làm việc, lựa chọn nghề nghiệp của người lao động mà các chủ thể khác phải tôn trọng.
+
+Tuy nhiên, vì là quyền nên người lao động với đầy đủ năng lực hành vi dân sự của mình có thể “từ bỏ” việc thực hiện quyền đó bằng hành vi pháp lý đơn phương hoặc bằng thỏa thuận với chủ thể khác. Việc “từ bỏ” này nếu đảm bảo nguyên tắc tự do ý chí và không “xâm phạm đến lợi ích quốc gia, dân tộc, lợi ích công cộng, quyền và lợi ích hợp pháp của người khác” thì phải được các chủ thể khác tôn trọng bao gồm cả cơ quan tài phán.
+
+Ngược lại, người lao động có quyền yêu cầu người sử dụng lao động trả một khoản tiền “bù đắp cho các hạn chế về cơ hội việc làm” khi thỏa thuận và xác lập NCA theo nguyên tắc bình đẳng và thiện chí.
+
+Như vậy, quyền làm việc về bản chất là quyền tự do lựa chọn của người lao động, chỉ khi chủ thể khác can thiệp khiến sự lựa chọn đó không tự do, tự nguyện thì mới bị xem là vi phạm điều cấm của luật.
+
+Điều 9.6 Luật Việc làm 2013 có quy định cấm cản trở, gây khó khăn hoặc làm thiệt hại đến quyền và lợi ích hợp pháp của người lao động (và cả của người sử dụng lao động). Tuy nhiên nếu việc xác lập NCA của người lao động là tự nguyện, tự do, thì sẽ không hợp lý nếu cho rằng người sử dụng lao động đã cản trở, gây khó khăn hay làm thiệt hại cho người lao động...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 7 8-2024 phát hành ngày 12-25/02/2024. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

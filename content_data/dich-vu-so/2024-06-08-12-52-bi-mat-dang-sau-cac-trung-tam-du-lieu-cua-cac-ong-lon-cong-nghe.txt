@@ -1,0 +1,25 @@
+Ba gã khổng lồ trên đang thay phiên nhau chạy đua để kiểm soát thị trường…
+
+Theo Business Insider, một trung tâm dữ liệu hiện tiêu thụ công suất gấp 10 lần so với trước kia. Theo nghiên cứu của JLL, các trung tâm dữ liệu siêu quy mô được dự đoán sẽ tăng mật độ giá đỡ với tốc độ tăng trưởng hàng năm (CAGR) là 7,8%. Đến năm 2027, mật độ giá đỡ trung bình sẽ đạt 50kW mỗi giá đỡ, vượt qua mức trung bình hiện tại là 36kW.
+
+Khi các công ty ngày càng cần sức mạnh điện toán - mạng, bảo mật, xử lý dữ liệu, nhu cầu thuê dịch vụ từ Amazon Web Services, Google Cloud hoặc Microsoft Azure đang gia tăng hơn bao giờ hết. Bằng cách cố gắng chiếm lĩnh thị trường về các trung tâm dữ liệu, họ không chỉ tạo ra kho dữ liệu lớn hơn mà còn hướng tới mục tiêu trở thành cửa hàng bán công nghệ cho tất cả các công ty còn lại.
+
+
+
+Hiện nay, các công ty khởi nghiệp AI muốn đào tạo mô hình AI đều phải sử dụng dữ liệu của Big Tech. Có một điều dễ thấy là hiện nay các gã khổng lồ công nghệ đều đẩy mạnh đầu tư vào các công ty khởi nghiệp. Nhận hỗ trợ “tín dụng” – sức mạnh đám mây, đổi lại các startup AI sẽ phải trao cho các gã khổng lồ công nghệ mà họ sản xuất.
+
+Một ví dụ điển hình của giao dịch này là quan hệ hợp tác của Microsoft và OpenAI. Bằng cách cung cấp cho ChatGPT quyền truy cập vào các trung tâm dữ liệu của mình, Microsoft hiện được tận dụng công nghệ của nhà phát triển AI hàng đầu thế giới cho hệ sinh thái của mình.
+
+Cecilia Rikap, Nhà kinh tế học đồng thời là tác giả của báo cáo “Động lực của quản trị doanh nghiệp ngoài quyền sở hữu trong AI”, khẳng định: “Một quy luật đang diễn ra là càng phát triển AI, các công ty sẽ càng phải tiêu thụ nhiều đám mây hơn. Vì vậy, các ông lớn không chỉ có nhiều doanh thu hơn mà cơ sở hạ tầng của họ cũng đang có thêm nhiều công nghệ hơn”.
+
+Theo nhà kinh tế học, khi một gã khổng lồ công nghệ cấp quyền truy cập cho một công ty khởi nghiệp vào các dịch vụ đám mây, họ đã có thể kiểm soát công ty đó.
+
+Trong ngắn hạn, sức mạnh từ các trung tâm dữ liệu thực sự là một công cụ hữu ích đối với các công ty khởi nghiệp. Matthew Wansley, Giáo sư luật tại Đại học Yeshiva cho biết: “Thực tế sự phát triển của điện toán đám mây cũng là điều tuyệt vời cho các công ty khởi nghiệp. Nếu trước đây, mỗi công ty khởi nghiệp phải xây dựng máy chủ của riêng mình, điều này đòi hỏi chi phí rất lớn. Hiện giờ họ có thể tận dụng tài nguyên có sẵn với chi phí tiết kiệm".
+
+Thế nhưng, trong dài hạn, các công ty khởi nghiệp AI chắc chắn sẽ bị kiểm soát bởi những gã khổng lồ công nghệ sở hữu các trung tâm dữ liệu, theo Business Insider.
+
+Nhà kinh tế học Cecilia Rikap cho biết: “Nói cho cùng, AI sẽ bị ảnh hưởng bởi sức mạnh của chỉ ba công ty. Đó là sự độc quyền về trí tuệ. Thứ họ đang kiểm soát là dữ liệu và kiến ​​thức". Ông cũng cho biết điều đáng sợ nhất là các Big Tech có thể hợp tác cùng nhau để chia sẻ thông tin và bảo vệ lợi ích chung của họ.
+
+Mặc dù vậy, theo Business Insider, Amazon, Google và Microsoft vẫn đang cạnh tranh về giá cả và tính năng và giành giật về thị phần. Điều này tốt cho các doanh nghiệp. Một giám đốc điều hành của Google Cloud gần đây đã tố cáo Microsoft là "độc quyền". Ngoài ra, một nhóm công ty bao gồm Amazon đã đệ đơn khiếu nại chống độc quyền đối với giấy phép điện toán đám mây của Microsoft.
+
+Tuy nhiên, theo các chuyên gia, nói cho cùng các công ty công nghệ khi đã trưởng thành, đều sẽ có xu hướng chuyển từ cố gắng đổi mới bản thân sang chỉ đơn giản là tính phí những người đổi mới, giống những cách Amazon, Google và Microsoft đang tận dụng sức mạnh điện toán đám mây và trung tâm dữ liệu của họ để kiếm lợi từ những công ty khác.

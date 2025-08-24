@@ -1,0 +1,23 @@
+Đây là giải pháp bảo hiểm Chỉ số thời tiết dựa trên Blockchain có khả năng tự động hóa việc giải quyết yêu cầu bảo hiểm của người nông dân trồng lúa lần đầu tiên triển khai ở Việt Nam được công ty công nghệ bảo hiểm Igloo hợp tác với Tổng công ty Bảo hiểm PVI, Tổng cục Khí tượng Thuỷ văn và Công ty tái bảo hiểm quốc tế SCOR công bố ngày 24/11/2022.
+
+Việt Nam là một trong 5 nước xuất khẩu gạo lớn nhất thế giới, trong đó, 95% sản lượng xuất khẩu đến từ khu vực Đồng bằng sông Cửu Long. Tuy nhiên, tình hình sản xuất gạo trong khu vực đang gặp phải nhiều thách thức do các điều kiện khí hậu khắc nghiệt như lũ lụt, lượng mưa thay đổi dẫn đến sản lượng giảm sút, ảnh hưởng tới sinh kế của nông dân trồng lúa.
+
+Do đó, để hỗ trợ người nông dân ứng phó với rủi ro thời tiết, bảo hiểm cho người nông dân trồng lúa là rất cần thiết. Bảo hiểm chỉ số thời tết cho người nông dân trồng lúa là một trong những giải pháp bảo hiểm nông nghiệp mới chưa từng được triển khai ở Việt Nam. Trong khi đó, mô hình này đã được ứng dụng rộng rãi trên thế giới và được người nông dân ủng hộ như một công cụ để bảo vệ mùa màng trước rủi ro thời tiết.
+
+Đây là giải pháp bảo hiểm Chỉ số thời tiết dựa trên công nghệ Blockchain có khả năng tự động hóa việc giải quyết yêu cầu bảo hiểm của người nông dân trồng lúa, thậm chí người nông dân không cần phải lập hồ sơ yêu cầu bồi thường, không cần chứng minh thiệt hại. Hệ thống công nghệ sẽ liên tục cập nhật các thông tin chỉ số thời tiết lượng mưa từ hệ thống dữ liệu của cơ quan khí tượng thủy văn để xác định hợp đồng có được bồi thường không; đồng thời tự động tính toán số tiền bồi thường và chi trả trực tiếp đến người dân nhanh chóng.
+
+Dựa trên dữ liệu lượng mưa được thu thập từ cơ quan Khí tượng Thuỷ văn, Bảo hiểm Chỉ số thời tiết sẽ tự động thanh toán các khoản bồi thường dựa trên những giá trị đã được xác định trước cho người nông dân trong trường hợp xảy ra tổn thất do các sự kiện thời tiết hoặc thiên tai. Khâu giám định bồi thường được loại bỏ giúp giảm chi phí giao dịch và cho phép nông dân nhận được thanh toán nhanh hơn. Việc ứng dụng Blockchain cũng sẽ đảm bảo tính bảo mật, toàn vẹn và quyền riêng tư cho dữ liệu của nông dân.
+
+
+
+Được biết, với các dữ liệu thông tin lượng mưa trong 30 năm trở lại đây ở Việt Nam được thu thập cùng các chuyên gia ở các lĩnh vực liên quan đã thiết kế giải pháp bảo hiểm dựa trên công nghệ Blockchain cho 3 ngưỡng cây lúa có thể thiệt hại khi lượng mưa đạt ở mức độ nào đó.
+
+Theo ông Nguyễn Hữu Tự Trí, Giám đốc Igloo Việt Nam, giải pháp bảo hiểm Chỉ số thời tiết được tạo ra nhằm bảo vệ người nông dân trồng lúa trước điều kiện thời tiết khắc nghiệt như ngập úng hoặc hạn hán. Đây là giải pháp bảo hiểm chỉ số thời tiết ứng dụng công nghệ Blockchian tự động dựa trên lượng mưa.
+
+Với quy trình giải quyết yêu cầu bảo hiểm nhanh chóng, đơn giản và khách quan, giải pháp này mang lại sự thuận tiện và yên tâm cho người nông dân vì các khoản thanh toán giờ đây sẽ dựa trên các sự kiện đã được dự tính trước và các chỉ số chính thức có thể được truy cập công khai.
+
+Hiện nay, giải pháp công nghệ bảo hiểm mới này đang được triển khai tại 8 tỉnh đồng bằng sông Cửu Long cung cấp các khoản bồi thường tự động cho người nông dân trong trường hợp lượng mưa tại đây bị thiếu hụt hoặc cao quá mức trong vòng 5 ngày liên tiếp.
+
+Gần 6.000 ha lúa của nông dân được bảo vệ mục tiêu hướng tới bảo vệ cho 50.000 ha trong những mùa vụ sắp tới thông qua sự hợp tác với các doanh nghiệp công- tư. Với mức chi phí 220.000 đồng, người nông dân trồng lúa khi bị thiệt hại sẽ được bồi thường tối đa đến 4 triệu đồng.
+
+Dự kiến trong mùa tới sẽ mở rộng giải pháp ra 13 tỉnh. Ngoài ra theo kế hoạch dự kiến, giải pháp này sẽ triển khai ứng dụng cho các mặt hàng cây trồng nông nghiệp khác ở Việt Nam có diện tích lớn như cafe, điều…

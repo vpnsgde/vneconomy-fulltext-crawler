@@ -1,0 +1,21 @@
+Cụ thể tại một sự kiện mới đây về tài sản mã hóa, chia sẻ với báo chí, ông Phan Đức Trung, Chủ tịch Hiệp hội Blockchain và Tài sản số Việt Nam (VBA), tiết lộ Việt Nam dự kiến có khoảng 5 sàn sẽ được cấp phép thí điểm giao dịch tài sản số, có khả năng kết nối với các sàn quốc tế để đảm bảo tính thanh khoản và cạnh tranh. Ông Trung cũng tiết lộ tên một số công ty có thể tham gia thí điểm sàn giao dịch tài sản số như SSI (Công ty cổ phần chứng khoán SSI), TCBS (Công ty cổ phần chứng khoán Kỹ Thương).
+
+Ngoài hai cái tên, ngân hàng MB cũng được nhắc đến gần như chắc chắn sẽ là một đơn vị tham giao vào thị trường giao dịch tài sản số, khi ngày 12/8, MB đã ký Biên bản ghi nhớ (MOU) hợp tác kỹ thuật với Dunamu - đơn vị vận hành Upbit, nền tảng tiền điện tử lớn nhất Hàn Quốc. Theo đó, Dunamu sẽ hỗ trợ MB thành lập sàn giao dịch tiền mã hóa (tiền điện tử) tại Việt Nam, đồng thời tham gia xây dựng luật, hệ thống và các cơ chế bảo vệ nhà đầu tư liên quan đến tài sản số.
+
+Theo lãnh đạo Hiệp hội VBA, dự kiến các sàn giao dịch tài sản số sẽ cho phép giao dịch tài sản mã hóa phổ biến nhất như Bitcoin (BTC), Ethereum (ETH), các stablecoin như USDT/USDC… dự kiến có khoảng 50 loại tài sản số được đưa lên sàn giao dịch. Đáng chú ý, trong đó cho phép phát các tài sản mã hóa gắn với tài sản thực (RWA) để huy động vốn và chỉ dành cho người nước ngoài.
+
+Trên thực tiễn Việt Nam đã là một trung tâm về Blockchain và crypto. Tôi nghĩ, chắc những ngày gần đây thôi thì Việt Nam sẽ chính thức hóa tài sản mã hóa. Và cũng không lâu nữa Việt Nam sẽ xuất hiện các sàn giao dịch mã hóa…
+
+Có ba tác động/vai trò của tài sản số, gồm được xác định như một phương tiện thanh toán, huy động vốn và tạo lập ra cộng đồng. Tuy nhiên, theo ông Trung, định hướng bước đầu của cơ quan quản lý nhà nước mới chỉ là hình thành một kênh huy động vốn.
+
+Trước đó, tại họp báo Chính phủ hồi đầu tháng 8, Thứ trưởng Bộ Tài chính Nguyễn Đức Chi cho biết cơ quan này đang xây dựng dự thảo Nghị định về thí điểm giao dịch tài sản số, Bộ đã nghiên cứu rất nhiều kinh nghiệm của các nước trong khu vực và quốc tế. Trên cơ sở ý kiến chỉ đạo của Bộ chính trị, Chính phủ, Bộ Tài chính sẽ hoàn chỉnh dự thảo, trình Chính phủ ký ban hành, nếu sớm sẽ trong tháng 8.
+
+Hiện đề án thí điểm thị trường tài sản mã hóa đã được cơ bản hoàn chỉnh trên các phương diện: tiêu chí lựa chọn tổ chức tham gia, điều kiện kỹ thuật, quy trình vận hành, năng lực tài chính và chuyên môn của các đơn vị đề xuất cung cấp dịch vụ.
+
+Ông Chi cho biết, trước tiê Bộ sẽ làm rõ các tiêu chí, điều kiện và tiêu chuẩn để lựa chọn. Các yêu cầu này sẽ bao gồm yếu tố về công nghệ thông tin, quy trình kỹ thuật, năng lực tài chính và chuyên môn của đơn vị đăng ký.
+
+Sau khi hoàn thiện các tiêu chí cụ thể, Bộ Tài chính sẽ công khai minh bạch các điều kiện này để tổ chức xét chọn. Trong giai đoạn thí điểm, sẽ có hơn một sàn giao dịch được phép hoạt động, nhằm tạo môi trường cạnh tranh lành mạnh. Tuy nhiên, số lượng sẽ được kiểm soát ở mức hợp lý để thuận lợi cho việc theo dõi, đánh giá hiệu quả sau thí điểm.
+
+Một điểm đáng chú ý trong đề án là việc Bộ Tài chính đề xuất khuyến khích thành phần kinh tế tư nhân tham gia cung cấp dịch vụ trong thị trường tài sản mã hóa. Đề xuất này hoàn toàn phù hợp với tinh thần Nghị quyết 68 của Đảng về phát triển kinh tế tư nhân, đồng thời tạo điều kiện cho các doanh nghiệp có năng lực, có tính sáng tạo tham gia vào lĩnh vực mới.
+
+Ngoài điều kiện vốn thực góp 10.000 tỷ đồng, Giấy phép cung cấp dịch vụ tổ chức thị trường giao dịch tài sản mã hóa còn yêu cầu sâu hơn về cấu trúc cổ đông. 65% vốn được sở hữu bởi các tổ chức, trong đó 35% vốn phải đến từ 2 trong 5 loại hình tổ chức là ngân hàng thương mại, công ty chứng khoán, công ty quản lý quỹ, công ty bảo hiểm, công ty hoạt động trong lĩnh vực công nghệ. Tỷ lệ sở hữu của vốn ngoại không quá 49%.

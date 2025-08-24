@@ -1,0 +1,41 @@
+Dù OpenAI liên tục cập nhật và tung ra nhiều mô hình AI mới, GPT-5 được xem là bước tiến lớn đầu tiên trong dòng sản phẩm GPT kể từ năm 2023.
+
+Tuy nhiên, theo công bố của công ty, phiên bản mới này nhanh hơn, hiểu ngữ cảnh tốt hơn, tạo ra các ứng dụng tùy chỉnh gần như không cần viết mã, và được huấn luyện kỹ hơn để tránh đưa ra câu trả lời nguy hiểm.
+
+Trong các bản demo, GPT-5 cho thấy khả năng xây dựng ứng dụng hoặc xử lý tác vụ phức tạp chỉ trong vài giây - từng là thách thức với các mô hình cũ.
+
+Khác với một số bản cập nhật nhỏ lẻ trước đây, lần này GPT-5 sẽ được triển khai rộng rãi đến mọi đối tượng, từ người dùng miễn phí đến các gói cao cấp.
+
+Tuy nhiên, trải nghiệm với GPT-5 sẽ khác nhau tùy theo hình thức sử dụng. Chẳng hạn như người dùng miễn phí có thể truy cập GPT-5 nhưng với giới hạn nhất định. Khi vượt quá mức sử dụng, người  sẽ được chuyển sang dùng GPT-5 mini – phiên bản rút gọn và nhẹ hơn.
+
+Người dùng gói Pro có quyền truy cập không giới hạn vào GPT-5, bao gồm cả phiên bản GPT-5 Pro mạnh mẽ hơn dành cho những tác vụ phức tạp, đòi hỏi suy luận chuyên sâu.
+
+Trong khi đó, đối với người dùng doanh nghiệp, giáo dục, GPT-5 sẽ trở thành mô hình mặc định. Dự kiến bản cập nhật sẽ được triển khai hoàn tất cho nhóm này trong vòng một tuần tới.
+
+Thực tế, GPT-5 không chỉ là một mô hình duy nhất, mà là tổ hợp gồm nhiều mô hình. Có mô hình được thiết kế để phản hồi nhanh, giải quyết những yêu cầu đơn giản; trong khi mô hình khác lại chuyên xử lý những câu hỏi phức tạp, đòi hỏi khả năng phân tích và suy luận cao hơn.
+
+Một hệ thống “chọn đường” thông minh sẽ tự động xác định đâu là mô hình phù hợp nhất để phản hồi từng câu hỏi, giúp AI hoạt động nhanh hơn, chính xác hơn và hiệu quả hơn với từng người dùng.
+
+Một trong những điểm đáng chú ý nhất của GPT-5 là khả năng viết mã cực nhanh. OpenAI nhấn mạnh rằng đây không còn là tính năng chỉ dành riêng cho lập trình viên, mà bất kỳ ai, kể cả người không rành kỹ thuật cũng có thể tận dụng để giải quyết vấn đề bằng cách tạo ra công cụ phù hợp với nhu cầu của mình.
+
+Đối với yêu cầu tạo ứng dụng, chỉ trong vài phút, mô hình này đã viết xong một ứng dụng web hoàn chỉnh, có cả âm thanh và trò chơi tương tác. Nhờ tốc độ phản hồi cực nhanh, người dùng có thể yêu cầu nhiều phiên bản, chọn ra phương án ưng ý nhất, hoặc góp ý để mô hình điều chỉnh theo mong muốn.
+
+OpenAI cho biết GPT-5 cũng được tích hợp nhiều điều chỉnh quan trọng để nâng cao tính an toàn khi sử dụng.
+
+Theo ông Alex Beutel, trưởng nhóm nghiên cứu an toàn tại OpenAI, GPT-5 đã được huấn luyện kỹ lưỡng để tránh phát tán thông tin sai lệch hoặc lừa đảo. Những cải tiến này không chỉ giúp mô hình chính xác hơn, mà còn góp phần mang lại trải nghiệm an toàn, đáng tin cậy hơn cho người dùng.
+
+Một thay đổi đáng chú ý nữa là cách GPT-5 phản hồi với các câu hỏi nhạy cảm hoặc tiềm ẩn rủi ro. Nếu như các phiên bản trước thường từ chối trả lời những câu hỏi có thể gây hại, thì GPT-5 lại chọn cách cung cấp câu trả lời theo hướng an toàn và mang tính xây dựng.
+
+Ông Beutel lấy ví dụ một sinh viên ngành hóa học có thể đặt một câu hỏi kỹ thuật nghe có vẻ nguy hiểm như liên quan đến phản ứng tạo chất nổ. Thay vì từ chối thẳng thừng, GPT-5 sẽ cố gắng diễn giải câu hỏi theo hướng học thuật và phản hồi trong giới hạn an toàn, giúp người dùng nhận được thông tin cần thiết mà không vượt quá giới hạn đạo đức hoặc pháp luật.
+
+Nếu người dùng thích trò chuyện bằng giọng nói thay vì gõ chữ, tin vui là OpenAI đang nâng cấp mạnh mẽ tính năng này. Chế độ Giọng nói nâng cao (Advanced Voice Mode) sẽ sớm được mở cho tất cả người dùng, dù miễn phí hay trả phí, với mức sử dụng cao hơn trước đây.
+
+Bên cạnh đó, ChatGPT cũng sẽ cho phép người dùng cá nhân hóa giao diện trò chuyện bằng cách thay đổi màu sắc khung chat, trong đó một số tùy chọn đặc biệt chỉ dành cho người dùng trả phí.
+
+Ngoài ra, người dùng còn có thể điều chỉnh “tính cách” của chatbot để phù hợp với phong cách giao tiếp mong muốn. ChatGPT có thể trở nên ấm áp và hỗ trợ, hài hước mỉa mai, hoặc thậm chí mang màu sắc của một “mọt sách”, một người lắng nghe, hay một robot khô khan. Bạn hoàn toàn có thể bật/tắt và thay đổi tùy chọn này bất cứ lúc nào.
+
+Một tính năng mới đáng chú ý khác là ChatGPT sắp có thể kết nối với Gmail và Lịch Google. Điều này có nghĩa chỉ cần hỏi, chatbot sẽ tự động biết lịch trình, email quan trọng và đưa ra gợi ý phù hợp cho người dùng, chẳng hạn như nhắc lịch họp, đặt lời nhắc, hoặc soạn email theo ngữ cảnh sẵn có.
+
+Tất nhiên, tính năng này hoàn toàn tùy chọn, có thể bật nếu thấy tiện lợi, hoặc tắt nếu không muốn chia sẻ thông tin cá nhân.
+
+Theo OpenAI, các tính năng kết nối này sẽ được triển khai trước cho người dùng gói Pro trong tuần tới, và sẽ mở rộng dần cho các nhóm người dùng khác sau đó.

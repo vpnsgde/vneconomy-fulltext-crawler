@@ -1,0 +1,27 @@
+Số tiền liên quan đến các vụ lừa đảo đang tăng mạnh trong những năm gần đây. Trong một báo cáo của Ủy ban Thương mại Liên bang (FTC), cơ quan này nhận thấy số tiền thiệt hại liên quan đến các vụ lừa đảo Bitcoin tại các ATM đã tăng gần 10 lần trong giai đoạn từ năm 2020 đến năm 2023 - từ mức 12 triệu USD lên con số khổng lồ là 114 triệu USD. Đà tăng này chưa dừng lại khi chỉ hết nửa đầu năm nay, người tiêu dùng đã mất đến 65 triệu USD.
+
+Qua nhiều năm, các trò lừa đảo đã biến tướng thành nhiều phiên bản khác nhau nhưng vẫn cùng một mục đích: moi tiền từ nạn nhân bằng cách lừa chuyển khoản ngân hàng, mua thẻ quà tặng và thậm chí bằng hình thức giao hàng.
+
+ATM Bitcoin được biết đến là các cây ATM tiền ảo, là một ki-ốt cho phép một người mua Bitcoin và các loại tiền điện tử khác bằng cách sử dụng tiền mặt hoặc thẻ ghi nợ.
+
+Hiện nay, có 2 loại máy ATM Bitcoin: loại một chiều (unidirectional) và loại 2 chiều (bidirectional). Loại một chiều chỉ có thể sử dụng để mua bán Bitcoin bằng tiền mặt - đơn giản như 1 công cụ giao dịch Bitcoin. Trong khi đó, loại 2 chiều có thể giúp người dùng chuyển đổi cả từ tiền mặt ra tiền ảo và ngược lại.
+
+Loại 2 tiện lợi hơn và thể hiện đúng chức năng của một máy ATM đúng nghĩa - giúp chủ thể rút tiền mặt từ tài khoản/ví. Tuy nhiên số lượng ATM Bitcoin loại 2 trên thế giới không nhiều, chỉ khoảng 30% trên tổng số ATM Bitcoin và chủ yếu là ở Mỹ. Ở nước ngoài, các máy ATM Bitcoin được đặt tại những nơi như trạm xăng và cửa hàng tạp hóa.
+
+Để thực hiện mục đích của mình, những kẻ lừa đảo thường liên hệ với nạn nhân qua điện thoại, tin nhắn hoặc từ các cửa sổ bật lên trực tuyến khi họ lướt web, sau đó mạo danh một ngân hàng hoặc quan chức Chính phủ và thông báo rằng tài khoản ngân hàng của họ đã bị xâm phạm và cần hành động ngay để bảo vệ.
+
+Sau khi tiếp cận được đối tượng, họ sẽ hướng dẫn các nạn nhân rút một khoản tiền lớn và gửi vào máy ATM Bitcoin – FTC gọi đây là những tủ khóa an toàn để giữ tiền của những kẻ lừa đảo. Khi đến ATM Bitcoin, các nạn nhân sẽ nhận được một mã QR để quét tại máy, mã này sẽ đưa tất cả tiền mặt của nạn nhân vào ví tiền điện tử của kẻ lừa đảo.
+
+Khảo sát cho thấy các nạn nhân đã mất trung bình 10.000 USD/người vì các vụ lừa đảo ATM Bitcoin. FBI đã cảnh báo về hành vi này từ năm 2021 và kể từ đó, các bang Vermont và Minnesota đã ban hành luật đặt giới hạn giao dịch hàng ngày đối với các ki-ốt tiền điện tử.
+
+Thiệt hại từ các vụ lừa đảo liên quan đến ATM Bitcoin theo từng năm
+
+Bên cạnh các ki-ốt tiền ảo, các trò lừa đảo liên quan khác cũng đang gia tăng như deepfake xuất hiện trên YouTube, các kẻ xấu mạo danh người khác để rút cạn ví kỹ thuật số của nạn nhân và các trò lừa đảo “làm thịt lợn” (một loại lừa đảo và gian lận đầu tư dài hạn trong đó nạn nhân dần dần bị dụ dỗ đóng góp ngày càng nhiều, thường dưới dạng tiền điện tử, cho một chương trình tiền điện tử gian lận) đã dẫn đến việc bắt giữ một cựu Giám đốc điều hành ngân hàng, người đã đánh cắp hàng triệu USD để đầu tư vào một kế hoạch tiền điện tử giả mạo.
+
+Cũng theo báo cáo của FTC, người tiêu dùng từ 60 tuổi trở lên có nguy cơ trở thành nạn nhân của vụ lừa đảo ATM Bitcoin cao hơn gấp ba lần.
+
+Báo cáo của FTC khuyên người dùng không nên nhấp vào các liên kết lạ hoặc trả lời các cuộc gọi, tin nhắn hoặc cửa sổ bật lên không mong muốn. Nếu người dùng được một tổ chức hoặc cơ quan Chính phủ được cho là liên hệ, cần xác minh tính hợp pháp bằng cách liên hệ trực tiếp với công ty hoặc cơ quan đó bằng số điện thoại hoặc trang web mà bạn tự tìm được chứ không phải số điện thoại do người gọi cung cấp.
+
+Yêu cầu thanh toán bằng tiền điện tử là lừa đảo. Các công ty và tổ chức tài chính hợp pháp sẽ không bao giờ yêu cầu thanh toán dưới dạng tiền điện tử. Và các quan chức chính phủ sẽ không bao giờ yêu cầu bạn chuyển tiền sang ví tiền điện tử để giữ an toàn. Nếu ai đó bảo bạn làm một trong những điều đó thì họ là kẻ lừa đảo. Một lưu ý liên quan nữa là các yêu cầu thanh toán dưới dạng thẻ quà tặng chắc chắn cũng là lừa đảo.
+
+Tại Việt Nam, theo Công văn số 5747/NHNN-PC của Ngân hàng Nhà nước, Bitcoin không được xem là tiền tệ và cũng không được công nhận là phương tiện thanh toán hợp pháp. Điều này có nghĩa người dùng không thể sử dụng Bitcoin để mua bán hàng hóa hay dịch vụ như tiền mặt hoặc các loại tiền tệ truyền thống khác.

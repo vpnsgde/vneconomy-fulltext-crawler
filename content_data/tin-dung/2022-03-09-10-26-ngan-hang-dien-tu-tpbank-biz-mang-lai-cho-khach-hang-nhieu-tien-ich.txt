@@ -1,0 +1,15 @@
+Với TPBank Biz - ứng dụng ngân hàng điện tử dành cho doanh nghiệp, doanh nghiệp có thể dễ dàng thao tác, trải nghiệm xuyên suốt và đồng nhất trên mọi thiết bị, từ máy tính đến điện thoại di động hay máy tính bảng. Mọi giao dịch từ thông thường như tài khoản tiền gửi, thanh toán, chuyển tiền và tiền gửi có kỳ hạn cho tới việc gửi các yêu cầu về phát hành, sửa đổi bảo lãnh, thanh toán L/C… đều có thể dễ dàng thực hiện tại bất kì đâu 24/7 mà không cần tới trực tiếp ngân hàng.
+
+Thấu hiểu những khó khăn và vướng mắc về mặt tài chính của doanh nghiệp, TPBank hiện đang miễn phí tới 30 loại phí khi khách hàng thực hiện giao dịch trên ứng dụng, con số này tương đương 70% tổng số các loại phí mà ngân hàng này đang triển khai và có thể giúp doanh nghiệp tiết kiệm tới hàng trăm triệu đồng chi phí trong 1 năm.
+
+Là khách hàng sử dụng dịch vụ của TPBank nhiều năm nay, anh Nguyễn Khánh - Giám đốc Công ty Du lịch Hà Nội chia sẻ, mặc dù trước đó đã thử qua nhiều ứng dụng ngân hàng số khác nhưng mãi cho tới khi sử dụng TPBank Biz, anh mới cảm thấy ưng ý.
+
+“Cá nhân tôi và các bạn kế toán của công ty khi sử dụng TPBank Biz đều rất ưng ý. Các thông tin trên ứng dụng rõ ràng, không rườm rà và dễ sử dụng, hơn hẳn các ứng dụng của các ngân hàng khác. Trong giai đoạn dịch bệnh, các tính năng giao dịch online của TPBank thuận tiện, nhanh chóng đã hỗ trợ doanh nghiệp tôi rất nhiều. Đặc biệt, TPBank miễn rất nhiều loại phí cho khách hàng, đặc biệt là phí chuyển tiền online”, anh Khánh nói thêm.
+
+Đáng chú ý, TPBank là một trong số ít các ngân hàng tại Việt Nam hiện đang ứng dụng Open API - phương thức liên kết các ứng dụng của doanh nghiệp với ứng dụng của ngân hàng để trao đổi dữ liệu trong giao dịch ngân hàng điện tử. Với tính năng này, TPBank cho phép doanh nghiệp truyền dữ liệu tới ngân hàng ngay trên hệ thống của doanh nghiệp, giúp khách hàng giảm được rất nhiều bước khi thực hiện các lệnh chuyển tiền cho đối tác. Doanh nghiệp có thể dễ dàng đẩy các giao dịch chuyển tiền đơn lẻ hoặc theo lô trực tiếp tới ngân hàng mà không phải thêm bước tạo lệnh trên ứng dụng TPBank Biz như trước đây.
+
+Anh Khánh cho biết thêm đây cũng là một tính năng mà anh rất ưng ý khi sử dụng dịch vụ của TPBank, vừa dễ dàng thực hiện lại vừa giúp anh tiết kiệm tối đa thời gian của mình.
+
+Ông Khúc Văn Họa - Phó Tổng giám đốc kiêm Giám đốc Khối Khách hàng Doanh Nghiệp TPBank cho biết, chính những giải pháp số toàn diện và những gói ưu đãi về phí này của TPBank sẽ góp phần nâng cao hiệu suất hoạt động, tiết kiệm thời gian, quản trị dòng tiền tốt hơn, từ đó mang lại lợi ích tốt hơn về mặt lợi nhuận và cả cơ hội kinh doanh cho doanh nghiệp.
+
+TPBank đã là ngân hàng của kỷ nguyên số và là ngân hàng duy nhất trên thị trường xây dựng được hệ sinh thái số đặc trưng và khác biệt, vượt lên hàng năm, tới vài năm so với các ngân hàng còn lại. Có thể nói, những giải pháp số hóa toàn diện của TPBank đã giúp doanh nghiệp tiết kiệm tối đa chi phí vận hành, gia tăng “sức khỏe” tài chính để vững vàng vượt qua thách thức của đại dịch Covid-19.

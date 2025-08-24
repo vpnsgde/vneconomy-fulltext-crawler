@@ -1,0 +1,23 @@
+Phát hiện gây chấn động vừa được công bố là một hồ sơ dữ liệu khổng lồ chứa 284.132.969 tài khoản và 244 triệu mật khẩu chưa từng xuất hiện trước đây đang được phát tán trên một diễn đàn tội phạm.
+
+Việc sử dụng mật khẩu mạnh và phức tạp luôn là một trong những biện pháp bảo mật hàng đầu. Nhưng điều gì sẽ xảy ra nếu ngay cả những mật khẩu mạnh cũng bị đánh cắp?
+
+Đây là tình huống mà hàng triệu người dùng đang đối mặt sau khi Troy Hunt, nhà sáng lập dịch vụ bảo mật Have I Been Pwned (HIBP), đưa ra cảnh báo về một vụ vi phạm dữ liệu nghiêm trọng liên quan đến diễn đàn tội phạm ALIEN TXTBASE. Troy Hunt xác nhận rằng nhóm tội phạm đang sở hữu một tập dữ liệu khổng lồ, có dung lượng lên đến 1,5TB, chứa 23 tỷ dòng dữ liệu, trong đó có 284 triệu địa chỉ email.
+
+Do đó, dịch vụ bảo mật Have I Been Pwned (HIBP) mới đây đã bổ sung thêm 244 triệu mật khẩu bị rò rỉ vào hệ thống, nâng tổng số mật khẩu bị lộ lên mức kỷ lục.
+
+ALIEN TXTBASE hoạt động thông qua một kênh Telegram dành riêng cho tội phạm mạng – một xu hướng đáng lo ngại ngày càng phổ biến. Troy Hunt cho biết: "Telegram đang trở thành công cụ ưa thích của tội phạm mạng để phát tán dữ liệu bị đánh cắp, nhờ vào khả năng ẩn danh và hỗ trợ phân phối hàng loạt".
+
+Dữ liệu rò rỉ có vẻ như đến từ các phần mềm độc hại chuyên đánh cắp thông tin đăng nhập khi người dùng nhập chúng vào thiết bị bị nhiễm. Những thông tin này sau đó được đưa vào nhật ký của kẻ đánh cắp và rao bán trên thị trường ngầm.
+
+Trong vụ rò rỉ lần này, Troy Hunt đã kiểm tra một tệp chứa 36 triệu dòng dữ liệu. Sau khi phân tích kỹ lưỡng, toàn bộ dữ liệu bị rò rỉ này đã được bổ sung vào hệ thống Have I Been Pwned và Pwned Passwords, giúp người dùng kiểm tra xem thông tin của họ có bị ảnh hưởng hay không.
+
+Hệ thống Have I Been Pwned xây dựng một kho lưu trữ mật khẩu khổng lồ có tên Pwned Passwords - mã nguồn mở - có thể được truy vấn ẩn danh mà không làm lộ thông tin tìm kiếm. Theo đó, Pwned Passwords, cho phép người dùng kiểm tra xem mật khẩu của mình có nằm trong bất kỳ vụ rò rỉ nào đã biết hay không.
+
+Ngoài ra, người dùng cũng có thể tra cứu trên Have I Been Pwned để xem địa chỉ email của mình có bị xâm phạm hay xuất hiện trong các vụ vi phạm dữ liệu trước đây hay không.
+
+
+
+Tại Việt Nam, Hiệp hội An ninh mạng quốc gia đã xây dựng phần mềm phòng chống lừa đảo nTrust. Đây là ứng dụng hoàn toàn miễn phí, sử dụng cho điện thoại thông minh (smartphone), giúp phát hiện các dấu hiệu lừa đảo thông qua kiểm tra số điện thoại, số tài khoản, đường dẫn trang web (link) và mã QR.
+
+Phần mềm cũng hỗ trợ chức năng rà soát, quét các ứng dụng trên điện thoại, phát hiện mã độc hoặc phần mềm giả mạo. Người dùng có thể tải phần mềm từ 2 chợ ứng dụng phổ biến là Google Play với hệ điều hành Android và App Store với hệ điều hành iOS (điện thoại iPhone).

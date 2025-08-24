@@ -1,0 +1,25 @@
+Thực trạng này vừa được hệ thống giám sát mã độc của Bkav đưa ra nhằm cảnh báo người dùng tránh những rủi ro bị đánh cắp tài khoản Facebook.
+
+Theo phân tích của các chuyên gia an ninh mạng Bkav, Fabookie thực hiện việc đánh cắp thông qua Cookies và mật khẩu được lưu trong trình duyệt, tương tự các mẫu mã độc đánh cắp tài khoản khác. Đối với đa số trang web, nếu hacker có được phiên đăng nhập cùng với mật khẩu là có thể thực hiện đổi mật khẩu, từ đó chiếm quyền kiểm soát hoàn toàn tài khoản nạn nhân.
+
+Điều đáng nói, Fabookie còn được “thiết kế” đặc biệt để tấn công các tài khoản Facebook Bussiness. Mã độc này sẽ kiểm tra Cookie đã giải mã, xem tài khoản có đang được đăng nhập hay không, sau đó sử dụng Facebook Graph API Queries (một phương thức truy vấn dữ liệu từ Facebook) để truy vấn thêm các thông tin về tài khoản, phương thức thanh toán, số dư... của tài khoản nạn nhân.
+
+Nếu khối dữ liệu khai thác thành công và thông tin đánh cắp được là từ tài khoản Facebook Business, hacker có thể sử dụng chính tài khoản nạn nhân để âm thầm chạy quảng cáo thay vì ngay lập tức đổi mật khẩu và chiếm tài khoản.
+
+Điều này sẽ giúp hacker đạt được nhiều mục đích khác như kiếm thêm lợi nhuận, sử dụng để SEO (nâng cao thứ hạng website trên các công cụ tìm kiếm) các trang web phát tán mã độc... hơn là chiếm đoạt luôn tài khoản, sẽ gây báo động tới người quản trị và bị ngắt kết nối thẻ tín dụng.
+
+
+
+Các chuyên gia cho biết theo xu hướng của các mã độc thế hệ mới, Fabookie chỉ nhắm vào các máy chạy hệ điều hành 64-bit.
+
+Để tránh việc bị tấn công bởi mã độc Fabookie, các chuyên gia khuyến cáo người dùng không cài đặt và sử dụng các phần mềm crack, keygen; đồng thời hạn chế sử dụng chức năng lưu mật khẩu trên trình duyệt với các tài khoản quan trọng. Ngoài ra, cần sử dụng phần mềm diệt virus, giải pháp an ninh mạng để đảm bảo an toàn cho máy cá nhân cũng như hệ thống trong các cơ quan, tổ chức, doanh nghiệp.
+
+Với số lượng người dùng lớn, nền tảng mạng xã hội lớn nhất thế giới này là một trong những mục tiêu hướng tới của mã độc. Trong năm 2022, báo cáo của đơn vị này cũng cảnh báo dòng mã độc PasswordStealer đã lây nhiễm hơn 525.000 máy tính tại Việt Nam, với hơn 15.000 biến thể, đánh cắp và chiếm đoạt tài khoản Facebook, Gmail, tài khoản ngân hàng, ví điện tử... của nạn nhân.
+
+Để vượt qua cơ chế xác thực 2 bước, đầu tiên hacker dùng cookies đánh cắp được để đăng nhập tài khoản. Tiếp đến, chúng sử dụng mật khẩu để xác thực và thực hiện hàng loạt các thao tác như đổi số điện thoại, email khôi phục, đặt mật khẩu mới, đăng xuất hết ra khỏi các thiết bị khác nhằm chiếm đoạt tài khoản.
+
+PasswordStealer chủ yếu phát tán qua các phần mềm crack, phần mềm giả mạo. Tuy nhiên, khảo sát cho thấy, 14% người dùng được hỏi vẫn chọn cài đặt phần mềm từ nguồn bất kỳ tìm được qua Google, thay vì tìm đến nguồn chính thống như website của nhà sản xuất, kho phần mềm đáng tin cậy. 21% người dùng chưa có thói quen kiểm tra virus trước khi mở các file từ Internet. Đây là những con số đáng báo động, dẫn đến nguy cơ cao bị nhiễm dòng mã độc này.
+
+Trước đó, theo báo cáo của Công ty bảo mật Mỹ- Zimperium công bố cuối năm 2022, có hơn 300.000 người dùng Android, chủ yếu tại Việt Nam đã là nạn nhân của chiến dịch đánh cắp tài khoản Facebook bằng mã độc Schoolyard Bully.
+
+Mã độc này hoạt động từ năm 2018 nhưng, hacker đã sử dụng các ứng dụng học tập trên Google Play Store và các chợ khác để phát tán trojan. Ngoài Việt Nam, các nước như Mỹ, Canada, Australia, Brazil, Anh, Ấn Độ… cũng bị nhắm đến. Zimperium điểm tên một số ứng dụng chứa trojan như Cẩm Nang Lớp 8 Offline- Giải Bài Tập và Ôn Luyện, Cẩm Nang Lớp 7 Offline- Giải Bài Tập & Ôn Luyện, Giải Bài Tập 7 Offline Toán Văn Anh Lý Sinh Sử Địa, Mê Đọc Truyện…

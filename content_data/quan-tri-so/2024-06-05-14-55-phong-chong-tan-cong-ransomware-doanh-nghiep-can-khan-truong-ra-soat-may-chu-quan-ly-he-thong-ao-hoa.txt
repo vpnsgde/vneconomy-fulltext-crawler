@@ -1,0 +1,31 @@
+Sáng 5/6/2024, Hiệp hội An ninh mạng Quốc gia đã phát cảnh báo tới các tổ chức, doanh nghiệp về việc tăng cường giám sát an ninh mạng phòng chống tấn công mã độc mã hoá dữ liệu tống tiền (ransomware).
+
+Trước đó, khoảng 03h10 sáng ngày 4/6/2024, hệ thống công nghệ thông tin của Tổng công ty Bưu điện Việt Nam (Vietnam Post) bị tin tặc tấn công, mã hoá dữ liệu khiến cho hoạt động bị ngưng trệ.
+
+Theo kết quả phân tích ban đầu, đây là hình thức tấn công trực tiếp vào hệ thống máy chủ ảo hoá và mã hoá các file máy ảo (bao gồm cả hệ điều hành và dữ liệu) đòi tiền chuộc. Mặc dù chưa có thông tin cụ thể về nhóm tấn công nhưng cách thức tấn công tương tự như cách VnDirect bị tấn công cách đây chưa lâu.
+
+
+
+Hiệp hội An ninh mạng quốc gia khuyến cáo các cơ quan, tổ chức, doanh nghiệp tại Việt Nam cần khẩn trương rà soát, làm sạch hệ thống và tăng cường giám sát an ninh mạng để phòng chống các cuộc tấn công tương tự có thể còn tiếp diễn trong thời gian tới.
+
+Theo thông báo của Vietnam Post, vụ tấn công đã gây ảnh hưởng trực tiếp đến việc thực hiện các hoạt động liên quan đến dịch vụ bưu chính chuyển phát. Ngay khi phát hiện sự cố, đơn vị đã kích hoạt kịch bản hành động theo các hướng dẫn của cơ quan chức năng, trong đó có việc ngắt kết nối các hệ thống công nghệ thông tin để cô lập sự cố và bảo vệ dữ liệu.
+
+Hiện tại, Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05)- Bộ Công an, Cục An toàn thông tin- Bộ Thông tin và Truyền thông, đang phối hợp cùng các công ty an ninh mạng, thành viên của Hiệp hội An ninh mạng quốc gia tích cực hỗ trợ Vietnam Post xử lý sự cố mã hóa dữ liệu.
+
+Theo các chuyên gia, các hệ thống ảo hóa hiện nay đang được sử dụng rất phổ biến tại các tổ chức, doanh nghiệp của Việt Nam. Trong đó các hệ thống có quy mô từ 50 máy chủ trở lên thì gần như ảo hoá là giải pháp bắt buộc. Đây là hệ thống giúp cho quản trị viên thuận tiện trong việc thiết lập quản trị máy chủ, tối ưu hóa việc vận hành hệ thống. Tuy nhiên, thực tế cho thấy, vấn đề an ninh cho hệ thống ảo hoá chưa được tương xứng với quy mô đầu tư.
+
+Ông Vũ Ngọc Sơn, Trưởng ban Nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế, Hiệp hội An ninh mạng quốc gia, cho biết: “Với các hệ thống máy chủ vật lý, không sử dụng ảo hoá, tin tặc sẽ phải tìm cách truy cập từng máy để tấn công, phá hoại. Điều này sẽ mất nhiều thời gian, để lại dấu vết và dễ bị phát hiện.
+
+Trong khi nếu xâm nhập, chiếm quyền điều khiển hệ thống quản lý ảo hóa, tin tặc có thể từ một chỗ thực hiện chỉnh sửa hay bật tắt các máy chủ bao gồm các dịch vụ quan trọng đang chạy trên hệ thống, đặc biệt là có thể mã hoá toàn bộ các máy ảo, bao gồm cả các máy ảo dự phòng”.
+
+Để tăng cường chủ động phòng chống tấn công mã độc mã hoá dữ liệu, đặc biệt cho hệ thống ảo hoá, Ban nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế, Hiệp hội An ninh mạng quốc gia khuyến cáo các tổ chức, doanh nghiệp cần khẩn trương rà soát, làm sạch hệ thống (nếu có mã độc), đặc biệt với các máy chủ quan trọng như máy chủ quản lý hệ thống ảo hoá, máy chủ email, máy chủ AD.
+
+Cùng với đó cần cập nhật các bản vá lỗ hổng, loại bỏ các tài sản công nghệ thông tin không sử dụng để tránh bị lợi dụng tấn công mạng.
+
+Đặc biệt cần kiểm tra lại các hệ thống sao lưu dự phòng, cần có phương án tách biệt hoàn toàn giữa hệ thống chính và hệ thống dự phòng, không sử dụng chung một hệ thống quản lý phân quyền. Có kế hoạch sao lưu hệ thống một cách thường xuyên để đảm bảo dữ liệu có thể phục hồi nhanh nhất trong trường hợp hệ thống bị tấn công.
+
+Đồng thời ban hành quy trình ứng phó, xử lý sự cố khi bị tấn công; liên hệ ngay với các cơ quan chức năng để được hỗ trợ xử lý và điều phối ứng cứu.
+
+Cũng theo Hiệp hội an ninh mạng Quốc gia, các tổ chức, doanh nghiệp cần thiết lập và tuân thủ quy trình truy cập, quản trị các hạ tầng hệ thống quan trọng (vCenter, ESXi, các máy chủ quan trọng như AD, Mail…). Chỉ cho phép truy cập mục đích quản trị từ một số địa chỉ mạng tin cậy (Whitelist IP, Jump server). Sử dụng giải pháp quản lý đặc quyền truy cập PAM và xem xét áp dụng xác thực đa yếu tố (2-FA) với các xác thực quản trị.
+
+Triển khai, rà soát các hệ thống giám sát an ninh mạng (SOC); bổ sung thu thập nhật ký (log) liên quan truy cập/xác thực với hệ thống ảo hoá; bổ sung các tập luật (rule) cho các công cụ, giải pháp phòng chống tấn công để phát hiện các hành vi truy cập/xác thực bất thường.

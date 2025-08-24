@@ -1,0 +1,35 @@
+Theo tạp chí Forbes, AI - nhất là AI tạo sinh - sẽ có mặt ngày càng rộng rãi trong các thiết bị gia dụng, từ tủ lạnh đến lò nướng. Ví dụ, Công ty GE Appliances của Đức giới thiệu ứng dụng GE Appliances, sử dụng các công cụ AI như chatGPT để giúp chiếc bếp hay lò nướng tự đề xuất những công thức nấu ăn thú vị, dựa trên những thực phẩm mà người dùng đang có.
+
+Cũng trên đường đua này, Tập đoàn Samsung của Hàn Quốc tích hợp AI vào các chức năng về giọng nói, hình ảnh và màn hình của các thiết bị gia dụng thế hệ mới. Ý tưởng của Samsung là AI tạo sinh sẽ cho phép các sản phẩm hiểu rõ hơn về cách người tiêu dùng sử dụng sản phẩm, ví dụ lò nướng nhận biết được những gì đang được nấu trong đó hoặc tủ lạnh nhận biết được thực phẩm nào được chứa bên trong. Nhờ đó, thiết bị sẽ hiểu được nhu cầu của người dùng và đưa ra phản hồi phù hợp.
+
+TẠO RA NHỮNG TRẢI NGHIỆM CÁ NHÂN HÓA
+
+Tại Nhật Bản, máy điều hòa không khí được tích hợp AI cho phép tiết kiệm nhiều năng lượng hơn đang ngày càng được người tiêu dùng ưa chuộng, theo The Japan News. Từ đó, hãng Mitsubishi Electric đang đẩy mạnh sản xuất các mẫu máy lạnh có trang bị AI với kỳ vọng tạo nên sự khác biệt. Các sản phẩm máy lạnh thế hệ mới sẽ phân tích tính chất cách nhiệt và độ kín khí của tòa nhà, giúp tạo ra nhiệt độ lý tưởng trong phòng. Điều này ngăn máy lạnh chạy quá mức trong mùa hè, tiết kiệm năng lượng khoảng 8%.
+
+Đặc biệt, một số mẫu máy còn được trang bị cảm biến có khả năng đo nhịp tim của người ở trong phòng, hướng dẫn AI điều chỉnh nhiệt độ tùy theo tâm trạng và tình hình sức khỏe của người dùng. Một công ty Nhật Bản khác là Panasonic gần đây giới thiệu sản phẩm máy điều hòa có chức năng tự động chọn chế độ hoạt động, nhiệt độ không khí trong phòng tùy theo mùa và nhiệt độ ngoài trời. AI hoạt động theo cơ chế tự động lấy thông tin thời tiết từ internet để dự đoán sự thay đổi nhiệt độ trong nhà.
+
+Tại các siêu thị điện máy ở Trung Quốc, những sản phẩm gia dụng tích hợp AI ngày càng chiếm lĩnh vị trí trung tâm. Từ TV, tủ lạnh, điều hòa, máy giặt đến các thiết bị bếp, AI đang giúp nâng cao hiệu suất sử dụng và đem lại sự tiện lợi tối đa. Một nhân viên bán hàng tại một siêu thị điện máy ở Bắc Kinh chia sẻ: "Những sản phẩm có tính năng AI được khách hàng quan tâm nhiều hơn. Chẳng hạn, điều hòa AI không chỉ tự động điều chỉnh nhiệt độ theo thói quen sử dụng mà còn tối ưu hóa mức tiêu thụ năng lượng”.
+
+Không chỉ có các thiết bị riêng lẻ, xu hướng phát triển hệ sinh thái AI trong gia đình đang được đẩy mạnh. Các Tập đoàn lớn như Haier, Hisense, TCL, Midea hay Skyworth đều đã xây dựng các nền tảng AI riêng để kết nối các thiết bị với nhau, tạo nên một hệ thống gia đình thông minh hoàn chỉnh. Mới đây, Haier đã ra mắt Color AI - một dòng máy giặt thông minh có khả năng tự nhận diện loại vải, mức độ bẩn để đưa ra chế độ giặt phù hợp.
+
+Không chỉ dừng lại ở việc tích hợp AI vào sản phẩm, nhiều doanh nghiệp cũng đang hợp tác với các nền tảng AI mã nguồn mở như DeepSeek để nâng cao khả năng tương tác và phân tích dữ liệu. Đơn cử như Tập đoàn Changhong tích hợp DeepSeek vào TV AI, cho phép người dùng điều khiển bằng giọng nói để trải nghiệm tương tác thông minh. Trong khi đó, mô hình “AI Xinghai” của Hisense đề xuất phim phù hợp dựa trên độ tuổi, lịch sử xem và đánh giá phim...
+
+Theo ông Chu Khắc Lực, Viện trưởng Viện nghiên cứu Kinh tế Quốc gia Trung Quốc, năm 2025 sẽ đánh dấu sự chuyển đổi quan trọng của ngành hàng gia dụng khi AI không chỉ hỗ trợ các chức năng cơ bản mà còn tiến xa hơn trong việc tạo ra những trải nghiệm cá nhân hóa.
+
+Đặc biệt, tại Triển lãm đồ gia dụng và điện tử tiêu dùng Trung Quốc (AWE2025) diễn ra vào cuối tháng 3 này, một loạt sản phẩm AI mới như bếp thông minh, hệ thống giải trí AI và giường nâng cao chất lượng giấc ngủ… dự kiến sẽ được thương mại hóa và đến tay hàng nghìn hộ gia đình.
+
+TRỞ THỦ TRONG MỖI GIA ĐÌNH
+
+Tại sự kiện Tech Awards diễn ra vào tháng 1/2025, bà Nguyễn Ngọc Lan Hương, Giám đốc ngành hàng điện lạnh và gia dụng NIQ/GfK Việt Nam, cho biết 2024 là năm tăng trưởng vượt bậc khi hàng loạt hãng công nghệ nổi tiếng tại Việt Nam và thế giới như Aqua, Samsung, Ecovas... giới thiệu sản phẩm có kết nối thông minh, tích hợp trí tuệ nhân tạo (AI).
+
+Theo bà Hương, Bà cho biết hiện nay dải gia dụng ứng dụng AI gồm có 7 sản phẩm. Cho đến tháng 11/2024, thị trường gia dụng thông minh có tích hợp AI đã tăng trưởng đến 31% so với cùng kỳ 2023, đạt 43.000 tỷ đồng. Tỷ trọng các sản phẩm có kết nối thông minh, ứng dụng AI trong thị trường điện tử gia dụng chiếm đến 43% về số lượng, 53% về giá trị.
+
+Xét từng dòng sản phẩm, máy lọc không khí có mức độ ứng dụng công nghệ thông minh đến 63%, máy giặt 51%, máy hút bụi là 48%. Riêng TV, có đến 99% sản phẩm hiện nay đã ứng dụng công nghệ nên dư địa phát triển thời gian tới không còn nhiều, trừ khi có thêm những công nghệ đột phá. Tủ lạnh có mức độ thông minh thấp nhất, mới đạt 15% nên cơ hội phát triển trong tương lai còn nhiều.
+
+Theo thống kê, 6 năm là con số trung bình để các mặt hàng thông minh trở nên phổ biến, chiếm 30% tỷ trọng. Trong đó, thị trường máy hút bụi thông minh tăng trưởng đến 177% giai đoạn 2019 - 2022; TV thông minh tăng trưởng 205% giai đoạn 2011 - 2018. Một yếu tố nữa là giá cả, theo thống kê, giá của sản phẩm có AI thông minh chỉ cách biệt 15 - 30% và biên độ chênh lệch có khuynh hướng ngày càng rút ngắn. Giá này rất có lợi cho người tiêu dùng.
+
+"Tựu trung, chúng ta thấy sự phát triển này cần thời gian ít nhất vài năm. Sự phát triển cần hai yếu tố trải nghiệm thực tế và giá cả. Càng mang lại lợi ích thì phát triển càng nhanh, còn giá cả quyết định tính cạnh tranh", bà Hương khẳng định.
+
+Khi được hỏi về yếu tố then chốt giúp một thiết bị gia dụng thông minh có thể trở thành trợ thủ đắc lực trong mỗi gia đình, ông Trần Ngọc Hùng, Giám đốc Phát triển Kinh doanh Thị trường Việt Nam của MediaTek, nêu 5 chữ T. Đó là Tự động (bản thân thiết bị tự vận hành), Tương thích (phù hợp nhiều nền tảng khác nhau, hệ điều hành khác nhau), Tối ưu (từng không gian), Tích hợp (công nghệ mới vào trong thiết bị) và Tiết kiệm.
+
+Ông Tùng cho rằng sản phẩm cần đồng bộ (đồng bộ với các thiết bị trong bất kỳ không gian nào) và có tính năng độc đáo (điều khiển bằng giọng nói, từ xa, cảm biến nhiệt độ lưu lượng nước đầu vào...) để các sản phẩm gia dụng thông minh có thể “giao tiếp” cùng nhau và “giao tiếp” tốt với người sử dụng. Ngoài ra là bài toán tiết kiệm năng lượng, bảo mật thông tin... cũng rất quan trọng.

@@ -1,0 +1,37 @@
+QUY MÔ THỊ TRƯỜNG ĐIỆN TOÁN ĐÁM MÂY
+
+Thị trường điện toán đám mây đáng giá bao nhiêu? Quy mô thị trường điện toán đám mây được định giá 552,3 tỷ USD vào năm 2021 và dự kiến sẽ tăng trưởng với tốc độ tăng trưởng kép hàng năm (CAGR) là 15,2% trong giai đoạn 2022-2026. Dự kiến đến năm 2023, quy mô thị trường đạt 1.119,5 tỷ USD.
+
+Chi tiêu cho dịch vụ đám mây được dự đoán sẽ tăng trong tương lai. Theo Gartner, trong năm 2022, chi tiêu của người dùng cuối trên toàn thế giới cho các dịch vụ đám mây công cộng là 490,3 tỷ USD. Vào năm 2023, con số này dự kiến sẽ tăng 20,7% lên mức đáng kinh ngạc là 591,8 tỷ USD.
+
+Chi tiêu cho cơ sở hạ tầng đám mây tiếp tục tăng. Theo số liệu của Tập đoàn dữ liệu quốc tế (IDC), tính riêng quý 3 năm 2022, chi tiêu cho các sản phẩm cơ sở hạ tầng lưu trữ và điện toán để triển khai đám mây, bao gồm cả môi trường công nghệ thông tin chuyên dụng và chia sẻ, đã tăng 24,7% so với cùng kỳ năm ngoái lên 23,9 tỷ USD. Chi tiêu cho cơ sở hạ tầng đám mây tiếp tục tăng 16,5% so với cùng kỳ quý 2 năm 2021 lên 16,8 tỷ USD.
+
+XU HƯỚNG VÀ CHIẾN LƯỢC ĐÁM MÂY
+
+Trung tâm dữ liệu đám mây chiếm ưu thế trong xử lý khối lượng công việc. Thống kê cho thấy, các trung tâm dữ liệu đám mây xử lý 94% tổng khối lượng công việc vào năm 2021. Điều này cho thấy rằng các trung tâm dữ liệu phi đám mây đang trên đà biến mất và sẽ bị thay thế bởi các trung tâm dữ liệu đám mây trong tương lai gần.
+
+Và hầu hết (92%) các tổ chức đều có chiến lược Multi-Cloud. Chiến lược đa đám mây xoay quanh việc sử dụng nhiều nhà cung cấp dịch vụ đám mây trong nước cũng như nước ngoài. Bằng cách này, nếu một trong các dịch vụ không khả dụng vì bất kỳ lý do gì, doanh nghiệp có thể chuyển sang một bản sao lưu đang hoạt động để khắc phục thảm họa.
+
+DỮ LIỆU TRÊN ĐÁM MÂY
+
+Một nửa số tổ chức lưu trữ dữ liệu bí mật của họ trên công nghệ đám mây. Các tổ chức dường như đặt niềm tin cao vào điện toán đám mây nói chung, với 48% doanh nghiệp chọn lưu trữ dữ liệu quan trọng trên đám mây, bao gồm cả dữ liệu được mã hóa và dữ liệu “thông thường”.
+
+Bao nhiêu dữ liệu được lưu trữ trên đám mây? Đến năm 2025, sẽ có hơn 100 zettabyte dữ liệu được lưu trữ trên đám mây. Nói một cách dễ hiểu, một zettabyte là một tỷ terabyte (hoặc một nghìn tỷ gigabyte). Trong cùng năm đó, tổng dung lượng lưu trữ dữ liệu toàn cầu sẽ vượt quá 200 zettabyte, nghĩa là khoảng một nửa trong số đó sẽ được lưu trữ trên đám mây. Để so sánh, vào năm 2015 chỉ 25% tổng số dữ liệu máy tính được lưu trữ theo cách này.
+
+BẢO MẬT ĐÁM MÂY
+
+Bảo mật đám mây là mối quan tâm lớn nhất của các doanh nghiệp. Không có gì ngạc nhiên khi 75% doanh nghiệp cho rằng các vấn đề bảo mật trên đám mây là mối quan tâm hàng đầu. Trong số đó, 33% số người được hỏi cực kỳ quan tâm, 42% rất quan tâm, trong khi tổng số chỉ có 25% không quan tâm đến mức quan tâm vừa phải.
+
+Mối quan tâm chính về bảo mật đám mây là gì? Theo các chuyên gia an ninh mạng, những thách thức cấp bách nhất đối với bảo mật đám mây là cấu hình sai cơ sở hạ tầng đám mây (68%); truy cập trái phép (58%); API không an toàn (52%); chiếm đoạt tài khoản, dịch vụ hoặc lưu lượng truy cập (50%) và chia sẻ dữ liệu ra bên ngoài (43%).
+
+Phần lớn các vi phạm dữ liệu đám mây được gây ra bởi con người. Khi nhắc đến các cuộc tấn công mạng, chúng ta thường hình dung tin tặc khai thác các điểm yếu của cơ sở hạ tầng công nghệ thông tin đám mây tích hợp. Tuy nhiên, sự thật thường đến từ những sai lầm của nhân viên trong doanh nghiệp chiếm 88% trường hợp chứ không phải nhà cung cấp dịch vụ đám mây.
+
+Đón đầu xu hướng điện toán đám mây với VNPT Cloud
+
+VNPT Cloud là một trong những giải pháp điện toán đám mây “make in Vietnam” đầu tiên được cung cấp trên thị trường, mang đến cho doanh nghiệp bộ giải pháp hoàn chỉnh với các công cụ tốt nhất để quản lý, lưu trữ và phân tích dữ liệu. Với đội ngũ kỹ sư giàu kinh nghiệm trong lĩnh vực điện toán đám mây, VNPT Cloud đã giúp đỡ hàng trăm doanh nghiệp Việt Nam chuyển đổi thành công cơ sở hạ tầng dữ liệu “lên mây”.
+
+Các gói cước VNPT Cloud được thiết kế theo theo tài nguyên và thời gian sử dụng, có khả năng mở rộng linh hoạt giúp tiết kiệm tới 30% chi phí kinh doanh cho khách hàng. Các chuyên gia của VNPT Cloud sẽ giúp doanh nghiệp xây dựng và lựa chọn kiến trúc đám mây cũng như gói cước tối ưu, phù hợp nhất với từng loại hình và vấn đề của doanh nghiệp, qua đó tạo đà phát triển mạnh mẽ cho doanh nghiệp trong tương lai.
+
+* Thông tin chi tiết:
+
+Website: https://smartcloud.vnHotline 24/7: 18001260.

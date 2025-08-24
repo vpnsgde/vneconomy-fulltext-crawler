@@ -1,0 +1,27 @@
+Google sẽ đối mặt với các quan chức chính phủ Mỹ tại toà án vào ngày thứ Ba tuần này, trong vụ án mà Washington cáo buộc “gã khổng lồ” công nghệ này vi phạm luật chống độc quyền ở mảng công cụ tìm kiếm trực tuyến. Phiên toà này sẽ mở ra một cuộc chiến pháp lý được dự báo kéo dài và có thể định hình lại một trong những nền tảng quan trọng nhất của Internet - theo hãng tin CNN.
+
+Cuộc xét xử sắp bắt đầu ở Washington dưới sự chủ toạ của một vị thẩm phán liên bang xuất phát từ hai vụ kiện nhằm vào Google được khởi động dưới thời cựu Tổng thống Donald Trump và còn tồn cho tới nay. Giới chuyên gia pháp luật miêu tả đây là vụ kiện độc quyền lớn nhất kể từ khi Chính phủ Mỹ nhằm vào hãng phần mềm lớn nhất thế giới Microsoft hồi những năm 1990.
+
+Trong các đơn kiện riêng biệt, Bộ Tư pháp Mỹ và hãng chục tiểu bang của Mỹ cáo buộc Google vào năm 2020 có hành vi lạm dụng vị thế thống trị của mình trong lĩnh vực tìm kiếm trực tuyến, gây cản trở cạnh tranh bằng cách thoả thuận với các nhà mạng viễn thông và các hãng sản xuất smartphone để đưa Google Search trở thành công cụ tìm kiếm mặc định hoặc duy nhất trên các sản phẩm được sử dụng bởi hàng triệu người tiêu dùng. Cuối cùng, các đơn kiện này đã tập hợp thành một vụ kiện duy nhất.
+
+Google giữ quan điểm rằng công ty cạnh tranh phù hợp quy định và người tiêu dùng thích dùng công cụ Google hơn bởi vì đó là công cụ tốt nhất chứ không phải do Google có hành vi hạn chế cạnh tranh phi pháp. Mảng tìm kiếm chiếm hơn một nửa trong doanh thu 283 tỷ USD và lợi nhuận ròng 76 tỷ USD mà Alphabet - công ty mẹ của Google - đạt được trong năm 2022. Tìm kiếm cũng là mảng chiếm vai trò chủ lực đưa giá trị vốn hoá thị trường của Alphabet lên mức hơn 1,7 nghìn tỷ USD.
+
+Giờ đây, Google sẽ phải “tự vệ” trong một cuộc xét xử có thể kéo dài nhiều tuần và có khả năng gây đảo lộn phương thức mà Google phân phối công cụ tìm kiếm đến người dùng. Cuộc xét xử sẽ có sự xuất hiện của nhiều nhân chứng quan trọng, gồm các cựu nhân viên của Google và Samsung, cùng các nhà điều hành từ Apple bao gồm Phó chủ tịch cấp cao Eddy Cue. Đây sẽ là vụ kiện đầu tiên được xét xử trong một loạt vụ kiện nhằm vào sức mạnh kinh tế to lớn của Google, là một “phép thử” đối với mức độ sẵn sàng của toà án Mỹ trong việc siết chặt giám sát đối với các nền tảng công nghệ quy mô lớn.
+
+“Đây là một vụ xét xử lạc hậu diễn ra vào một thời điểm của sự sáng tạo chưa từng có tiền lệ, bao gồm những bước đột phá về trí tuệ nhân tạo (AI), các ứng dụng mới và các dịch vụ mới, tất cả đều tạo ra sự cạnh tranh lớn hơn và nhiều lựa chọn cho con người hơn bao giờ hết. Mọi người không dùng Google vì họ phải dùng, mà bởi họ muốn dùng. Thật dễ để thay đổi công cụ tìm kiếm mặc định của bạn, vì chúng ta đã qua thời mạng dial-up và ổ đĩa CD-ROM từ lâu rồi”, Chủ tịch phụ trách các vấn đề toàn cầu của Google, ông Kent Walker nói.
+
+Kết quả của vụ kiện này cũng có thể là một “hàn thử biểu” cho chương trình nghị sự chống độc quyền vốn mạnh mẽ hơn của chính quyền Tổng thống Joe Biden.
+
+Trong đơn kiện ban đầu, Chính phủ Mỹ cáo buộc Google trả hàng tỷ USD mỗi năm cho các nhà sản xuất thiết bị gồm Apple, LG, Motorola và Samsung, cùng các nhà phát triển trình duyệt như Mozilla và Opera để trở thành công cụ tìm kiếm mặc định và trong nhiều trường hợp, cản trở các đối tác này bắt tay với các đối thủ cạnh tranh của Google. Đơn kiện cáo buộc vì vậy, “Google nắm quyền sở hữu hoặc kiểm soát các kênh phân phối tìm kiếm chiếm khoảng 80% tổng số lệnh tìm kiếm ở Mỹ”.
+
+Đơn kiện cũng cáo buộc thoả thuận về hệ điều hành mã nguồn mở Android giữa Google với các nhà sản xuất thiết bị là chống cạnh tranh, vì các thoả thuận đó đòi hỏi các nhà sản xuất smartphone phải cài đặt sẵn các ứng dụng khác của Google như Gmail, Chrome hay Maps.
+
+Vào thời điểm vụ kiện mới khởi phát, giới chức chống độc quyền của Mỹ không loại trừ khả năng Google phải chia tách công ty. Họ cảnh báo rằng hành vi của Google có thể đe doạ sự sáng tạo trong tương lai hoặc sự nổi lên của các đối thủ cạnh tranh.
+
+Ngoài ra, một nhóm các tiểu bang dẫn đầu là Colorado có thêm các cáo buộc khác nhằm vào Google, cho rằng cách mà Google cấu trúc trang kết quả tìm kiếm gây cản trở cạnh tranh bằng cách ưu tiên các ứng dụng và dịch vụ của mình, thay vì các trang web, đường link, bài đánh giá và nội dung từ các bên thứ ba.
+
+Tuy nhiên, vị quan toà chịu trách nhiệm về vụ kiện này, thẩm phát Amit Mehta, đã bác bỏ những cáo buộc đó trong một phán quyết vào tháng trước, thu hẹp phạm vi các cáo buộc nhằm vào Google trong vụ kiện và cho rằng các bang đưa ra cáo buộc chưa chứng minh được một cuộc xét xử là cần thiết để xác định thứ tự trong kết quả tìm kiếm của Google là phi cạnh tranh.
+
+Mặc sự bác bỏ đó của thẩm phán, cuộc xét xử sắp diễn ra là bước tiến xa nhất của Chính phủ Mỹ trong nỗ lực chống độc quyền mà Washington nhằm vào Google tính đến thời điểm này. Thẩm phán Mehta đã nói vị trí dẫn trước của Google trong số các công cụ tìm kiếm trên trình duyệt web và trên smartphone “là một vấn đề gây nhiều tranh cãi” và cuộc xét xử sẽ “xác định liệu vị trí của Google với tư cách là công cụ tìm kiếm mặc định trên nhiều trình duyệt khác nhau có phải là một dạng của hành vi độc quyền hay không”.
+
+Hồi tháng 1, chính quyền ông Biden khởi động một vụ kiện chống độc quyền khác nhằm vào Google ở mảng công nghệ quảng cáo, cho rằng Google đang giữ vị thế độc quyền bất hợp pháp trong lĩnh vực này. Hiện tại, vụ kiện này mới đang ở giai đoạn đầu.

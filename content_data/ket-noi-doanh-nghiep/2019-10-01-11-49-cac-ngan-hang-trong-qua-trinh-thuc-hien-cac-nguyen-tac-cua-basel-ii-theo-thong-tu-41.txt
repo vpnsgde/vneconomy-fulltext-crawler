@@ -1,0 +1,23 @@
+Việc tăng vốn của hệ thống ngân hàng Việt Nam hiện đang trở nên rất nóng, đặc biệt khi Thông tư 41/2016/TT-NHNN về quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài có hiệu lực thi hành năm 2020. Mặc dù Thông tư 41 mới chỉ "bao phủ" được một phần của Basel II, thế nhưng để đảm bảo các yêu cầu khá khắt khe này, đòi hỏi nỗ lực không nhỏ của các nhà băng.
+
+Theo TS. Nguyễn Trí Hiếu, hiện nay, các ngân hàng Việt Nam triển khai Thông tư 41 gặp 2 vấn đề:
+
+Thứ nhất, tử số phải tăng. Tức là "vốn tự có, vốn chủ sở hữu"/Tổng tài sản phải tăng lên để bảo đảm trong tương lai ngân hàng đạt được tỷ lệ an toàn vốn 8% do mẫu số các ngân hàng phải tính lại toàn bộ tài sản có của mình, đặc biệt là các món nợ phải được tính toán theo các phương thức mới của Thông tư 41 rất phức tạp so với Thông tư 36 trước đây.
+
+Cụ thể, một món cho vay doanh nghiệp, trước kia hệ số rủi ro là 100% theo Thông tư 36, nhưng bây giờ hệ số có thể tăng lên đến 200% tuỳ vào tình hình tài chính của doanh nghiệp vay vốn. Chẳng hạn, nếu doanh nghiệp không có báo cáo tài chính nghĩa là độ rủi ro cao hơn nhiều nên phải sử dụng hệ số rủi ro đến 200%. Tất cả những món nợ của ngân hàng và tài sản có của các ngân hàng phải tính lại toàn diện để có thể đáp ứng được hệ số rủi ro mới. Đây là việc không đơn giản vì mỗi ngân hàng có hàng chục nghìn khách hàng và tình hình tài chính của khách hàng thay đổi thường xuyên, giá trị tài sản bảo đảm thay đổi thường xuyên.
+
+Ngân hàng không thể theo dõi thủ công mà phải có sự hỗ trợ của công nghệ thông tin. Ngay cả việc thanh tra, giám sát của Ngân hàng Nhà nước để bảo đảm các NH tuân thủ các quy định của Thông tư 41 sẽ không dễ dàng chút nào.
+
+Thứ hai, ngân hàng phải có một dữ liệu về tất cả những loại tài sản rủi ro của mình từ nhiều năm, những dữ liệu đó sẽ cho ngân hàng biết về mức độ rủi ro của mỗi món vay hay mỗi loại tín dụng. Đó là vấn đề các ngân hàng Việt gặp nhiều trở ngại, bởi có những ngân hàng không lưu trữ những dữ liệu một cách thống nhất từ nhiều năm nay.
+
+"Việc tuân thủ theo Thông tư 41 không dễ dàng nhưng lợi ích khi thực hiện Thông tư 41 là rất rõ ràng khi bắt buộc sổ sách của các ngân hàng phải minh bạch hơn; bảo đảm các ngân hàng có vốn chủ sở hữu thích hợp để hoạt động. Ngân hàng nào không bảo đảm tỷ lệ an toàn vốn tối thiểu sẽ được Ngân hàng Nhà nước đăc biệt "chiếu cố'", TS. Trí Hiếu nhấn mạnh.
+
+Thêm vào đó bắt đầu từ ngày 1/4/2019, Ngân hàng Nhà nước áp dụng xếp hạng tín nhiệm các tổ chức tín dụng trên cơ sở các tiêu chí CAMELS (vốn, chất lượng tài sản, quản trị, lợi nhuận, thanh khoản và rủi ro thị trường) và xếp hạng theo các mức độ A (khá), B (tốt), C (trung bình), D (yếu) và E (yếu kém). Theo TS. Trí Hiếu, ngân hàng được xếp hạng D và E là những ngân hàng "chuẩn bị cho đi vào lịch sử", nếu không tăng vốn và khẩn trương tái cơ cấu.
+
+Thực tế cho thấy, hệ thống ngân hàng Việt còn non trẻ so với hệ thống tài chính trên thế giới. Trong suốt quá trình phát triển trong hơn 30 năm qua ngành ngân hàng Việt Nam đã đi một chặng đường dài và đã phát triển thành một hệ thống ngân hàng hiện đại với sự áp dụng công nghệ thông tin tiên tiến, thực lực tài chính và sức chịu đựng những biến động trên thị trường được tăng cường đáng kể.
+
+Tuy nhiên, trong thời gian qua mức độ tín nhiệm vẫn chưa được như mong muốn với sự xuất hiện nhiều vi phạm pháp luật trong hệ thống ngân hàng, điểm tín nhiệm hệ thống ngân hàng cùng với điểm tín nhiệm của quốc gia vẫn còn ở mức thấp, mức không khuyến khích đầu tư và mang tính đầu cơ (non-investment grade/speculative).  Chính vì thế, thực hiện Thông tư 41 để đưa hệ thống ngân hàng Việt đi theo thông lệ quốc tế, sẽ nâng cao vị trí ngân hàng Việt trên thị trường tài chính thế giới và từ đó vấn đề kêu gọi vốn từ nhà đầu tư nước ngoài sẽ thuận lợi hơn.
+
+Trong số các ngân hàng đang nỗ lực kêu gọi vốn đầu tư từ nhà đầu tư nước ngoài có Ngân hàng Thương mại Cổ phần Quốc Dân (NCB) - một ngân hàng bậc trung có trụ sở tại Hà Nội. Trong vòng 5 năm qua, NCB đã chứng tỏ một sức phát triển mạnh mẽ từ tổng tài sản, đến các nguồn lực và cách quản trị, điều hành trong kinh doanh. Nhiều nhà đầu tư nước ngoài đã quan tâm đến NCB khi nghiên cứu về sự phát triển của NCB, hệ sinh thái và chiến lược kinh doanh của NCB.
+
+Nhằm đáp ứng các chuẩn mực cần có và thực hiện các quy định của cơ quan quản lý, NCB đang nỗ lực cải tiến các chính sách và quy trình hoạt động để đáp ứng các quy định của Thông tư 41 và Thông tư 13. Điều này làm tăng tính hấp dẫn của NCB đối với các nhà đầu tư nước ngoài khi họ đặc biệt quan tâm đến quản lý rủi ro và tuân thủ.

@@ -1,0 +1,29 @@
+Để thực hiện điều đó, Vantix đã phát triển giải pháp VinHR để nâng cao năng suất vận hành thông qua thiết bị đeo thông minh vBand giúp thu thập dữ liệu trong công việc lao động chân tay. Nhờ tích hợp công nghệ đám mây Microsoft Azure, vBand của VinHR có thể gửi đến 300 tín hiệu mỗi giây từ mỗi người lao động theo thời gian thực.
+
+Qua đó, nhà quản lý có thể sử dụng thông tin mà vBand thu thập để phân chia khối lượng công việc đồng đều hơn, giúp nâng cao hiệu quả làm việc của toàn nhóm.
+
+PHÂN CHIA CÔNG VIỆC NHỜ THIẾT BỊ ĐEO TAY
+
+Lấy cảm hứng từ các thiết bị Internet vạn vật (IoT), Vantix đã chế tạo thiết bị đeo tay vBand, tương tự như đồng hồ thông minh, dễ sử dụng, giúp công nhân cảm thấy thoải mái nhất có thể, đồng thời vẫn phát huy chức năng thu thập dữ liệu cho VinHR.
+
+Thông qua việc sử dụng công nghệ nhận dạng hành động (HAR), VinHR thu thập thông tin về chuyển động của người sử dụng trong một ngày như thời gian dành cho mỗi hoạt động và địa điểm làm việc. Dữ liệu được gửi lên cơ sở dữ liệu đám mây Microsoft Azure trong thời gian sạc pin ban đêm. Khi các giám đốc và quản lý vào xưởng sáng hôm sau, bảng thông tin của VinHR sẽ cung cấp cho họ thông tin về ngày làm việc hôm trước.
+
+vBand đã được khách sạn Vinpearl Condotel Đà Nẵng đưa vào sử dụng trong đội ngũ nhân viên thu dọn phòng và kết quả là họ đã tăng được 25% năng suất lao động và giảm được 15% thời gian dọn dẹp.
+
+ỨNG DỤNG SỨC MẠNH ĐIỆN TOÁN ĐÁM MÂY
+
+VinHR cần một giải pháp có thể quản lý khối lượng dữ liệu khổng lồ sinh ra khi mỗi thiết bị thu thập và gửi đi lên đến 300 tín hiệu mỗi giây. Ông Nguyễn Quang Huy, CEO Vantix, cho biết: “Hiếm tập đoàn nào có khả năng cung cấp giải pháp điện toán đám mây ở quy mô và trình độ mà chúng tôi đòi hỏi. Sau khi gặp gỡ và tìm hiểu nhiều đối tác, chúng tôi quyết định đi cùng Microsoft vì khả năng nổi bật hơn cả.”
+
+Ông Huy chia sẻ, Microsoft Azure đã cung cấp giải pháp đám mây và IoT mà VinHR cần, từ phần cứng biên thu thập dữ liệu, hồ sơ dữ liệu cho đến hoạt động phát triển và giải pháp phân tích. Mỗi tính năng đều được tích hợp trong hệ thống của Azure, giúp công việc của các kỹ sư tại Vantix nhẹ nhàng hơn.
+
+“Với Microsoft Azure, chúng tôi có thể mở rộng quy mô ngay tức thì. Hệ thống đáng tin cậy là yếu tố cốt lõi. Chúng tôi có thể tích hợp nhiều ứng dụng khác nhau trong môi trường Azure. Đó là lợi ích quan trọng cho hoạt động doanh nghiệp của Vingroup ở quy mô lớn hơn”, William Quy Lee, Giám đốc Dự án tại Vantix cho biết.
+
+Vantix rất hài lòng với hỗ trợ từ Microsoft. Văn phòng Microsoft tại Việt Nam tận dụng mạng lưới nội bộ và giúp kết nối Vantix với đồng nghiệp ở Thượng Hải để cung cấp hỗ trợ công nghệ chuyên sâu hơn.
+
+“Họ rất chủ động làm việc và hỗ trợ chúng tôi”, ông Huy nhận định. “Vài ngày trước, chúng tôi gặp sự cố Azure hoạt động rất chậm. Chúng tôi gửi tin nhắn cho nhóm làm việc tại Thượng Hải. Dù khi đó đã rất trễ, họ vẫn cùng chúng tôi giải quyết sự cố, và giúp chúng tôi vận hành trở lại. Tôi rất trân trọng nỗ lực đó.”
+
+VinHR vẫn đang tiếp tục được điều chỉnh với tính năng GPS được cập nhật và tích hợp bản đồ, giúp phân phối công việc theo từng khu vực. Hiện nay, Vantix đang triển khai một dự án mới cùng nhà sản xuất xe hơi Vinfast thuộc tập đoàn Vingroup. Lần này, Vantix có kế hoạch vượt xa khỏi tính năng lên kế hoạch cho bộ phận sản xuất.
+
+“Chúng tôi đang phát triển công nghệ xe hơi tự lái cho VinFast”, ông Huy chia sẻ. “Đó là công nghệ đòi hỏi rất nhiều dữ liệu. Với VinHR, chúng ta đang nói đến 300 tín hiệu mỗi giây. Với xe hơi tự lái, lượng dữ liệu sẽ cần nhiều hơn.”
+
+“Vantix là một doanh nghiệp trẻ nhưng năng lực và tầm nhìn của họ thực sự làm chúng tôi ấn tượng. Với những dự án có quy mô phân tích và xử lý những khối lượng dữ liệu lớn như vậy, việc song hành cùng một đối tác công nghệ uy tín sẽ góp phần không nhỏ cho sự thành công của Vantix. Và Microsoft cam kết sẽ luôn sát cánh và đồng hành để hiện thực hóa những giấc mơ của Vantix", bà Phan Tú Quyên, Giám đốc Marketing và Vận hành của Microsoft Việt Nam, cho biết.

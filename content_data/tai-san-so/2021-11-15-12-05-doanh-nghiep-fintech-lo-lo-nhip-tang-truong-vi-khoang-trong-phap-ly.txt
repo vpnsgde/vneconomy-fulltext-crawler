@@ -1,0 +1,49 @@
+Thống kê của Hiệp hội Ngân hàng Việt Nam (VNBA) cho biết, trong 5 năm qua, tổng số lượng thanh toán qua kênh Internet tăng 262,5%, giá trị thanh toán tăng 353%; thanh toán di động tăng 1.000% về số lượng nhưng tăng tới 3.000% về giá trị.
+
+Theo ông Nguyễn Quốc Hùng, Tổng thư ký VNBA, thống kê hiện nay có khoảng trên 100 doanh nghiệp là công ty tài chính công nghệ (fintech) đang hoạt động, chủ yếu trong lĩnh vực thanh toán, tiếp đến là trong tài chính cá nhân, cho vay ngang hàng (P2P lending)…
+
+Hiện tại, Ngân hàng Nhà nước đã cấp giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán cho 43 tổ chức không phải là ngân hàng, trong đó có 13 tổ chức là hội viên của VNBA. Đáng chú ý, cơ sở hạ tầng và công nghệ phục vụ thanh toán không dùng tiền mặt được các công ty này đặc biệt chú trọng đầu tư.
+
+Trong khi đó, dịch vụ ví điện tử, cổng thanh toán trung gian đã dần được người tiêu dùng chấp nhận và sử dụng. Dẫn tới nhu cầu và thói quen của người tiêu dùng có sự chuyển hướng từ ngoại tuyến (offline) sang không gian trực tuyến (online).
+
+Đồng thời, với sự bùng nổ của các sàn thương mại điện tử trong bối cảnh giãn cách xã hội để ứng phó với dịch Covid-19, chỉ tính riêng 6 tháng đầu năm 2021, dịch vụ cổng thanh toán điện tử tăng 46,7% về số lượng, 42,6% về giá trị; dịch vụ ví điện tử tăng 85,3% về số lượng, 91,5% về giá trị; dịch vụ hỗ trợ thu hộ, chi hộ tăng 47,1% về số lượng, 78% về giá trị; dịch vụ hỗ trợ chuyển tiền tăng 95,6% về số lượng, 16,9% về giá trị.
+
+
+
+Mặc dù phát triển nhanh như trên nhưng các doanh nghiệp Fintech vẫn chỉ hoạt động chủ yếu dựa trên những quy định căn bản từ Luật doanh nghiệp và Luật dân sự, đồng thời phải đối mặt với rất nhiều hoạt động chưa được pháp luật quy định.
+
+Ông Hùng cho biết thêm, ngoài văn bản hợp nhất số 47 có quy định về hoạt động cung ứng ví điện tử, đến nay chưa có văn bản pháp luật điều chỉnh chi tiết nội dung này. Bên cạnh đó, chưa có hành lang pháp lý tương ứng giúp trung gian thanh toán cung cấp dịch vụ cho một số mô hình đặc thù, đơn cử như tổ chức từ thiện, trong khi nhu cầu ngày càng gia tăng.
+
+Ngoài ra, việc quy định khách hàng phải có tài khoản tại ngân hàng và liên kết ví với thẻ ngân hàng gây khó khăn cho một số khách hàng không có tài khoản tại ngân hàng, nhất là với những người ở khu vực nông thôn hay vùng sâu, vùng xa.
+
+Không những vậy, Nghị định 101/2012/NĐ-CP về thanh toán không dùng tiền mặt được ban hành từ năm 2012 đến nay đã bộc lộ nhiều hạn chế do thực tế phát triển thay đổi, nhiều quy định không còn phù hợp cần thay thế.
+
+Nhìn chung, khuôn khổ pháp lý dành cho hoạt động trung gian thanh toán và Fintech ở Việt Nam vẫn còn sơ khai, mới chỉ dừng ở việc xác lập định hướng và đưa ra nguyên tắc chung.
+
+Chính vì khuôn khổ pháp lý còn sơ khai nên hầu hết các đơn vị trung gian thanh toán, Fintech đều cho rằng họ đang phải hoạt động vô cùng thận trọng, khiến đà phát triển của doanh nghiệp bị kìm hãm.
+
+Ông Nguyễn Đăng Hùng, Phó Tổng giám đốc Công ty Cổ phần Thanh toán Quốc gia Việt Nam (Napas) cho biết, các đơn vị trung gian thanh toán như ví điện tử muốn kết nối trực tiếp vào hệ thống ngân hàng thì sẽ tốn rất nhiều nguồn lực. Do đó, Napas đã cung cấp triển khai dịch vụ kết nối giúp ví điện tử và các ngân hàng.
+
+Tuy nhiên, trong tháng trước Napas gần như phải dừng cung cấp dịch vụ này trên thị trường. Bởi lẽ, khi ngân hàng rà soát lại khuôn khổ pháp lý liên quan đến eKYC thì trường hợp các trung gian thanh toán không kết nối trực tiếp đến ngân hàng mà lại thông qua một đơn vị trung gian khác như Napas không được quy định rõ, tức rơi vào vùng xám trong hoạt động triển khai eKYC.
+
+"Trường hợp trên không sớm được làm rõ, Napas và các trung gian thanh toán không thể triển khai được các dịch vụ thuận lợi nhất, kéo theo điều kiện cho sự phát triển ví điện tử hẹp dần", đại diện từ Napas chia sẻ.
+
+Theo Công ty Cổ phần Thông tin Tín dụng Việt Nam (PCB), cơ quan quản lý ngày càng chú trọng quyền bảo vệ thông tin cá nhân, dẫn tới việc bảo vệ cả người không có nợ xấu và người có nợ xấu. "Chính phủ chưa quy định cá nhân có nợ xấu phải từ bỏ quyền bảo vệ thông tin, vì vậy các trung tâm tín dụng tư nhân rất khó có thể thu thập thông tin. Trong khi, tổ chức tín dụng mong muốn nhất là quan sát về khía cạnh nợ xấu nên hoạt động của PCB gặp rất nhiều khó khăn", lãnh đạo PCB nói.
+
+Còn đại diện Công ty cổ phần Cổng Trung gian Thanh toán Ngân lượng nhìn nhận, cơ chế Sandbox đến nay chưa có thêm bước tiến mới trong khi doanh nghiệp ngóng từng ngày về hành lang pháp lý Blockchain, Crypto, P2P… Nếu không có hành lang thì doanh nghiệp không dám làm, vì đây đều là lĩnh vực nhạy cảm, nhiều rủi ro. Nhưng nếu không làm sớm thì lại sợ chậm chân.
+
+"Trước đây, đối với hoạt động trung gian thanh toán, mặc dù chưa có Nghị định 101, nhiều công ty khởi nghiệp sáng tạo (startup) vẫn có thể hoạt động. Tuy nhiên, riêng với lĩnh vực Fintech Lending, khi chưa có quy định Sandbox, không được vào CIC... thì sẽ dẫn đến tỷ lệ nợ xấu rất cao. Hành lang pháp lý đối với hoạt động có tính chất đổi mới sáng tạo cần sớm được ban hành để các doanh nghiệp trong nước theo kịp sự phát triển của các quốc gia trong khu vực", đại diện Công ty Ngân Lượng nhấn mạnh.
+
+Hiện nay, trong khi các doanh nghiệp Fintech đăng ký tại Việt Nam phải chịu sự ràng buộc của quy định trong nước thì những công ty nước ngoài vào Việt Nam lại khó bị kiểm soát, thoải mái hoạt động. Điều này dẫn đến doanh nghiệp về blockchain hay tiền mã hóa của Việt Nam đều có tư tưởng nhắm đến việc thành lập công ty ở những nước đã có hệ sinh thái khởi nghiệp phát triển hơn như Singapore, Thái Lan...
+
+Trước thực trạng vướng mắc trên, VNBA kiến nghị cơ quan quản lý Nhà nước sớm ban hành Nghị định thay thế Nghị định 101/2012/NĐ-CP ngày 12/9/2012 về thanh toán không dùng tiền mặt để tạo hành lang pháp lý cho các ngân hàng được giao đại lý dịch vụ thanh toán đối với các tổ chức khác, giúp thực hiện Chiến lược quốc gia về tài chính toàn diện và thanh toán không dùng tiền mặt theo chỉ đạo của Chính Phủ đạt hiệu quả.
+
+Đồng thời, sớm ban hành Nghị định quy định về bảo vệ dữ liệu cá nhân để quy định một cách đầy đủ, toàn diện về bảo vệ dữ liệu cá nhân để ngăn chặn, giảm thiểu tình trạng lộ, lọt, mua, bán dữ liệu cá nhân.
+
+Bên cạnh đó, kiến nghị Ngân hàng Nhà nước sớm ban hành các hướng dẫn cụ thể, để các các trung gian thanh toán triển khai dịch vụ hỗ trợ thanh toán cho các hàng hóa dịch vụ ở nước ngoài vừa đảm bảo quy định về quản lý ngoại hối của Nhà nước vừa giúp hoạt động của trung gian thanh toán phát triển, phù hợp thông lệ quốc tế.
+
+“Cơ quan quản lý nhà nước đẩy nhanh việc hoàn thiện hành lang pháp lý liên quan đến áp dụng công nghệ số trong hoạt động ngân hàng và ban hành, hướng dẫn triển khai cơ chế thí điểm đối với sản phẩm tài chính mới. Đề xuất bổ sung quy định nhằm nâng cao trách nhiệm của các ngân hàng liên kết trong việc phối hợp với ví điện tử, chia sẻ các thông tin nhận biết khách hàng của ngân hàng để ví điện tử có thể tinh giản được các quy trình thủ tục và thông tin khi mở ví điện tử”, Tổng Thư ký VNBA nói.
+
+Đặc biệt, VNBA đề nghị cần sớm xây dựng đưa vào khai thác cơ sở dữ liệu quốc gia về dân cư nhằm định danh cá nhân thuận tiện, an toàn và chính xác, trong đó cho phép các tổ chức cung ứng dịch vụ ví điện tử khai thác dữ liệu công dân có gắn với các yếu tố sinh trắc học trên cơ sở có sự đồng ý của khách hàng nhằm giúp các tổ chức xác thực chính xác khách hàng mở và sử dụng dịch vụ trung gian thanh toán.
+
+Về phía cơ quan chức năng, đại diện Vụ Kinh tế tổng hợp (Văn phòng Chính phủ); Vụ Thanh toán, Vụ Pháp chế Ngân hàng Nhà nước cho biết, sẽ lắng nghe, tiếp thu các ý kiến để có cơ sở tham mưu với lãnh đạo Chính phủ, Ngân hàng Nhà nước ban hành các chủ trương, chính sách phù hợp nhằm hỗ trợ các tổ chức trung gian thanh toán và Fintech.

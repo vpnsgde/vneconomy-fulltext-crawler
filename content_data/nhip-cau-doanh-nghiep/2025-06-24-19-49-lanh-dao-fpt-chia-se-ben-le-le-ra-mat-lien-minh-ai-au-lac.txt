@@ -1,0 +1,53 @@
+Chủ tịch HĐQT FPT Trương Gia Bình khởi xướng thành lập Liên minh AI Âu Lạc - một sáng kiến mang tính chiến lược, nhằm kết nối trí tuệ Việt, tài nguyên Việt và khát vọng Việt. Nhân dịp này ông Vũ Anh Tú, Giám đốc công nghệ FPT, đã có những chia sẻ bên lề Lễ ra mắt Liên minh AI Âu Lạc.
+
+Ông chia sẻ lý do FPT khởi xướng thành lập Liên minh AI Âu Lạc?
+
+Có 5 yếu tố quan trọng để phát triển AI hiệu quả và bền vững gồm: Dữ liệu, Thuật toán và Hạ tầng tính toán, Khung pháp lý và đạo đức. Nếu “đi một mình” thì đây thực sự là những thách thức lớn đối với doanh nghiệp.
+
+FPT đã phải đi một chặng đường dài hơn 10 năm để có được một hệ sinh thái AI toàn diện, từ năng lực nghiên cứu, hợp tác với các viện nghiên cứu, tổ chức uy tín nhất về AI toàn cầu như Mila, Landing AI, Đại học Quốc gia Singapore …, cho đến hệ sinh thái giải pháp AI đa dạng, nguồn nhân lực đông đảo và hạ tầng tính toán vượt trội. Đây không phải là chặng đường dễ dàng.
+
+Nhóm nghiên cứu AI của chúng tôi ở thời điểm 2013 chỉ có chưa đến 10 người, tự mày mò tìm hiểu các thuật toán, huấn luyện các mô hình tại ra những sản phẩm sơ khai nhất của trí tuệ nhân tạo. Và tôi tin rằng, các doanh nghiệp khác cũng giống như FPT cũng từng vấp phải những thách thức trước khi tạo được thế mạnh cho riêng.
+
+Tuy nhiên, nghiên cứu và phát triển AI là cuộc đua dài hơi, mỗi doanh nghiệp, tổ chức có thế mạnh riêng nhưng cũng có những khoảng trống cần được lấp đầy bằng tri thức và kinh nghiệm từ cộng đồng. Muốn đi xa, chúng ta phải đi cùng nhau. Đó là lý do Chủ tịch HĐQT FPT Trương Gia Bình khởi xướng thành lập Liên minh AI Âu Lạc - một sáng kiến mang tính chiến lược, nhằm kết nối trí tuệ Việt, tài nguyên Việt và khát vọng Việt.
+
+Và chúng tôi rất bất ngờ và xúc động khi chỉ trong chưa đầy hai tuần kể từ khi chia sẻ mong muốn thành lập Liên minh AI Âu Lạc, đã có hơn 20 doanh nghiệp, startup, trường đại học đăng kýhưởng ứng tham gia. Đây là thành công bước đầu của Liên minh. Chúng tôi tin Liên minh sẽ nhanh chóng có thêm các thành viên mới.
+
+Một trong những mục tiêu quan trọng của Liên minh AI Âu Lạc là phát triển mô hình ngôn ngữ lớn tiếng Việt - Âu Lạc LLM. Vậy thưa ông tại sao lại cần phải có một mô hình ngôn ngữ lớn tiếng Việt?
+
+Cuộc đua AI đang thay đổi. Các chính phủ trên toàn thế giới đang ưu tiên AI có chủ quyền được thiết kế để phù hợp với lợi ích của một quốc gia, ưu tiên an ninh và giá trị văn hóa. Một trong những bước đi đầu tiên trong việc phát triển năng lực AI có chủ quyền là xây dựng các mô hình ngôn ngữ lớn (LLM) bản địa. LLM không đơn thuần là công nghệ mà đã trở thành tài sản chiến lược quốc gia, tương tự như trong kỷ nguyên số. Một LLM bản địa không chỉ giảm sự phụ thuộc vào các LLM của nước ngoài mà còn giải quyết đặc thù về địa lý, lịch sử, văn hoá, ngôn ngữ.
+
+Hầu hết các LLM nổi tiếng hiện nay đều đến từ Mỹ. Các quốc gia khác cũng đã tiến hành xây dựng các LLM bản địa.
+
+Các Tiểu vương quốc Ả Rập Thống nhất (UAE) có nền tảng AI (Falcon) mạnh về xử lý ngôn ngữ tiếng Ả Rập hiện đại và các phương ngữ địa phương.
+
+Hàn Quốc có sản phẩm AI dành riêng cho người Hàn (HyperCLOVA X), có khả năng hiểu sâu sắc ngôn ngữ và văn hoá Hàn Quốc.
+
+Ấn Độ ra mắt BharatGPT hiểu biết sâu sắc về văn hóa Ấn Độ, từ lễ hội, tập tục đến cách sử dụng ngôn ngữ trong từng vùng miền và có thể tùy chỉnh theo ngành.
+
+Singapore triển khai chương trình National Multimodal LLM Programme (NMLP) đầu tư hàng chục triệu USD, cấp máy tính năng lực cao cho viện/đại học/doanh nghiệp, phát triển LLM đa ngữ phù hợp văn hóa và ngôn ngữ Đông Nam Á (SEA‑Lion).
+
+Không đầu tư vào LLM nghĩa là phụ thuộc toàn diện vào nền tảng công nghệ nước ngoài, từ dữ liệu, thuật toán đến cách AI can thiệp vào công việc, đời sống và thông tin mà người dân tiếp cận mỗi ngày.
+
+Nếu muốn giữ vững chủ quyền kinh tế và văn hóa, Việt Nam cần LLM do chính người Việt phát triển. Liên minh AI Âu Lạc đặt mục tiêu phát triển Âu Lạc LLM làm nền tảng cho việc xây dựng các ứng dụng AI có khả năng xử lý tiếng Việt chính xác, tự nhiên, phù hợp với văn hóa và bản sắc Việt Nam, từ đó nâng cao dân trí và thúc đẩy phát triển kinh tế quốc gia.
+
+Trước khi Liên minh được thành lập thì các doanh nghiệp đối diện với những khó khăn gì trong việc phát triển LLM tiếng Việt? Âu Lạc LLM sẽ giúp giải quyết các thách thức này như thế nào?
+
+Để phát triển một LLM, cần có dữ liệu huấn luyện chất lượng cao, hạ tầng tính toán mạnh mẽ (GPU/TPU), thuật toán tiên tiến, đội ngũ chuyên gia đa ngành, nguồn tài chính lớn và quy trình kiểm thử nghiêm ngặt. Đây là bài toán không dễ với bất kỳ quốc gia, doanh nghiệp, tổ chức nào. Chính vì vậy, Liên minh ra đời nhằm huy động sức mạnh từ cộng đồng doanh nghiệp, startup, các chuyên gia công nghệ cùng chung tay giải quyết những thách thức trên.
+
+FPT đang là sếu đầu đàn của ngành công nghệ thông tin, ông nói cụ thể vai trò FPT trong liên minh?
+
+Mỗi thành viên trong Liên minh đều có thế mạnh riêng và có những đơn vị đang là đầu ngành trong lĩnh vực của mình rồi. Tôi hy vọng Liên minh sẽ cùng chung tay xây dựng một cộng đồng AI mở, minh bạch, nơi mọi cá nhân, tổ chức, doanh nghiệp có thể tự do tiếp cận và sử dụng các tài sản công khai của Liên minh, bao gồm mã nguồn, dữ liệu và mô hình, kể cả cho mục đích thương mại, nhằm khơi dậy sáng tạo, ứng dụng AI rộng khắp, hiện thực hóa chủ quyền AI quốc gia.
+
+Ngay tại lễ ra mắt, những thành viên đầu tiên của Liên minh đã đưa ra những cam kết rất rõ ràng. MobiFone nói sẵn sàng dành toàn bộ nguồn lực có thể để đóng góp cho sự thành công của Liên minh. MISA cam kết đóng góp đội ngũ chuyên gia chuyên sâu về dữ liệu, đặc biệt trong lĩnh vực tài chính - kế toán. BKAV chia sẻ sẵn sàng làm AGI - trí tuệ nhân tạo tổng quát. Zalo khẳng định sẽ đóng góp kinh nghiệm xây dựng thành công mô hình AI thuần Việt, kiến trúc hệ thống và bộ đánh giá năng lực tiếng Việt VMLU với hơn 10.000 câu hỏi.
+
+Các doanh nghiệp đều sẵn sàng đóng góp để phát triển các mô hình ngôn ngữ lớn (LLM) có khả năng xử lý tiếng Việt chính xác, tự nhiên, phù hợp với văn hóa và bản sắc Việt Nam, từ đó nâng cao dân trí và thúc đẩy phát triển kinh tế quốc gia.
+
+Với FPT, chúng tôi cũng cam kết sẽ chia sẻ công nghệ lõi, mô hình lõi cho cộng đồng, hoàn toàn miễn phí. FPT sẽ mở toàn bộ nền tảng và công nghệ lõi, như nền tảng LLM (Large Language Model) đang được FPT sử dụng cho nền tảng FPT.AI, để tất cả các thành viên trong Liên minh cùng phát triển, cùng sử dụng.
+
+Đồng thời, FPT sẽ mở phòng thí nghiệm chung hỗ trợ các doanh nghiệp nhỏ, các viện nghiên cứu, các trường học, các doanh nghiệp khởi nghiệp, để họ có thể tiếp cận dữ liệu, công cụ, và đặc biệt là các chương trình đào tạo. Và chúng tôi cũng sẽ đề xuất những chính sách mang tính chất đột phá về thể chế, pháp chế như cơ chế sandbox, cho phép thử nghiệm AI trong các lĩnh vực như y tế, giáo dục, tài chính.
+
+Như ông chia sẻ, ngay tại Lễ ra mắt, Liên minh đã có hơn 20 thành viên đầu tiên. Liên minh sẽ cần thêm gì nữa từ cộng đồng doanh nghiệp, viện trường để hoàn thành mục tiêu xây dựng LLM tiếng Việt cho người Việt Nam?
+
+Thay mặt Liên minh, chúng tôi trân trọng mời tất cả các doanh nghiệp, viện nghiên cứu, trường đại học, cộng đồng công nghệ tham gia Liên minh để cùng chung tay xây dựng nền móng AI Việt vì một tương lai số tự chủ, bền vững, mang bản sắc Việt Nam.
+
+Và đầu tư phát triển AI là một cuộc đua dài hơi, các thành viên của Liên minh dựa trên thế mạnh của mình có thể đóng góp tài chính, hạ tầng, dữ liệu, tài sản trí tuệ gồm thuật toán, bằng sáng chế về LLM, nguồn nhân nhân lực…. Liên minh sẵn sàng chào đón các thành viên mới.

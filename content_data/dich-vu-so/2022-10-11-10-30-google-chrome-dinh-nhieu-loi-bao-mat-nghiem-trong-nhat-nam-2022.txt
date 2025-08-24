@@ -1,0 +1,15 @@
+Các trình duyệt web thường lưu trữ nhiều thông tin cá nhân và nhạy cảm của người dùng như thông tin đăng nhập, các tài khoản trực tuyến, tài khoản ngân hàng, tài khoản CMS, các website đã ghé thăm…
+
+Bên cạnh những tiện ích của trình duyệt như giao diện đẹp, duyệt web nhanh, khả năng hỗ trợ các trang web tốt thì người dùng luôn tìm kiếm một trình duyệt web với tính bảo mật cao để giúp đảm bảo an toàn cho thông tin cá nhân của mình.
+
+Theo báo cáo mới nhất của AtlasVPN, Google Chrome là trình duyệt web có nhiều lỗ hổng bảo mật nhất năm 2022. Theo đó, Chrome đã được ghi nhận có 303 lỗ hổng, là trình duyệt web duy nhất có lỗ hổng bảo mật mới vào tháng 10/2022. Trong đó có nhiều lỗ hổng bảo mật nghiêm trọng có thể chiếm quyền điều khiển máy tính.
+
+Vị trí thứ hai là Mozilla Firefox với chỉ 117 lỗ hổng, trong khi Microsoft Edge bị phát hiện 103 lỗi, Safari và Opera đứng thứ tư và năm.
+
+Điều đáng nói, số liệu tổng hợp từ các năm thì Chrome cũng đứng đầu với 3.159 lỗ hổng kể từ khi ra mắt vào tháng 9/2008. Trong khi Firefox, Safari và Opera đều ra mắt trước cả Chrome, các trình duyệt này vẫn ghi nhận ít lỗ hổng hơn. Firefox (2.361 lỗ hổng), Safari (1.139) và Opera (344) và trình duyệt Microsoft Edge ra mắt vào năm 2015 được ghi nhận tổng cộng 806 lỗ hổng.
+
+Theo thống kê của StatCounter, Google Chrome đang là trình duyệt web máy tính phổ biến nhất thế giới chiếm 65,7% thị phần máy tính toàn cầu (cả Windows lẫn Mac), xếp thứ 2 là Safari của Apple với 18,66% thị phần, Microsoft Edge xếp ở vị trí thứ 3 với 4,32% thị phần. Hai trình duyệt web Firefox và Opera xếp ở 2 vị trí tiếp theo với 3,14% và 2,25% thị phần.
+
+Để giảm thiểu nguy cơ tin tặc khai thác các lỗ hổng trình duyệt để tấn công hệ thống, chuyên gia an ninh mạng VNISA khuyến cáo, người dùng cần cài đặt các bản cập nhật trình duyệt ngay khi có thông báo. Ngoài ra, hãy kiểm tra cẩn thận các tiện ích mở rộng trước khi cài đặt, vì chúng có thể có lỗ hổng mà tội phạm mạng lợi dụng.
+
+Đặc biệt, cảnh giác với các cuộc tấn công lừa đảo, cách thức thường được sử dụng là dùng email để phân phối phần mềm độc hại có khả năng khai thác các lỗi trình duyệt khác nhau.

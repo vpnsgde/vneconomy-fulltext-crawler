@@ -1,0 +1,39 @@
+Một báo cáo năm 2024 của công ty tư vấn Spherical Insights dự đoán thị trường gia dụng thông minh sẽ tăng 76 tỷ USD vào năm 2033. Triển vọng khả quan này được xây dựng dựa trên một số dự đoán tăng trưởng nhanh. Hiện tại, các sản phẩm nhà bếp thông minh chỉ chiếm 2% trong tổng giá trị toàn cầu là 720,59 tỷ USD vào năm 2023.
+
+Theo khảo sát Smart Home Consumer Trends and Shopping Insights của Security.org, khoảng 78% người dùng sẵn sàng chi trả nhiều hơn cho hệ thống nhà thông minh, 82% người thuê nhà mong muốn có ít nhất một thiết bị thông minh tại nơi ở. Điều này cho thấy sự phổ biến ngày càng tăng của các thiết bị tích hợp công nghệ và xu hướng chấp nhận chi phí cao hơn để đổi lấy sự tiện nghi.
+
+AI CÓ MẶT NGÀY CÀNG RỘNG RÃI
+
+Được giới thiệu tại CES, máy xay sinh tố và máy chế biến thực phẩm do các thương hiệu nổi tiếng như Breville và Ninja sản xuất được tích hợp công nghệ thông minh, có khả năng nhận biết khi nào các nguyên liệu được chế biến đạt được độ đặc mục tiêu từ đó điều chỉnh tăng hoặc giảm tốc độ để đạt được độ đặc hoặc sệt theo yêu cầu.
+
+Trong khi đó, tủ lạnh thông minh có lắp đặt camera để người dùng có thể xem bên trong ở bất cứ đâu, chỉ với một thiết bị di động. Thậm chí, một số tủ lạnh còn có thể xác định và phân loại thực phẩm, từ đó đề xuất công thức nấu ăn với các loại thực phẩm này…
+
+Điều này cho thấy rằng việc cải tiến các thiết bị nhà bếp chỉ cần một số công nghệ tinh túy và sự hiểu biết sâu sắc về nhu cầu thực tế, cùng việc khai thác triệt để các tính năng thông minh có thể mang lại trải nghiệm người dùng tốt nhất có thể.
+
+Tại Nhật Bản, hãng Mitsubishi Electric đang đẩy mạnh sản xuất các mẫu máy lạnh có trang bị AI với kỳ vọng tạo nên sự khác biệt nhờ đem đến sự thoải mái cho người dùng và tăng hiệu quả sử dụng năng lượng. Theo đó, các sản phẩm máy lạnh thế hệ mới tích hợp AI có chức năng phân tích tính chất cách nhiệt và độ kín khí của tòa nhà, giúp tạo ra nhiệt độ lý tưởng trong phòng. Điều này ngăn máy lạnh chạy quá mức trong mùa hè, tiết kiệm năng lượng khoảng 8%.
+
+Một công ty Nhật Bản khác là Panasonic gần đây giới thiệu sản phẩm máy điều hòa có chức năng tự động chọn chế độ hoạt động, nhiệt độ không khí trong phòng tùy theo mùa và nhiệt độ ngoài trời. AI hoạt động theo cơ chế tự động lấy thông tin thời tiết từ internet để dự đoán sự thay đổi nhiệt độ trong nhà.
+
+Theo một bài phân tích trên tạp chí Forbes, AI - nhất là AI tạo sinh - sẽ có mặt ngày càng rộng rãi trong các thiết bị gia dụng. Trên đường đua này, Tập đoàn Samsung của Hàn Quốc tích hợp AI vào các chức năng về giọng nói, hình ảnh và màn hình của các thiết bị gia dụng thế hệ mới. Ý tưởng của Samsung là AI tạo sinh sẽ cho phép các sản phẩm hiểu rõ hơn về cách người tiêu dùng sử dụng sản phẩm, ví dụ lò nướng nhận biết được những gì đang được nấu trong đó hoặc tủ lạnh nhận biết được thực phẩm nào được chứa bên trong. Nhờ đó, thiết bị sẽ hiểu được nhu cầu của người dùng và đưa ra phản hồi phù hợp.
+
+VAI TRÒ CỦA TRẢI NGHIỆM THỰC TẾ VÀ GIÁ CẢ
+
+Tại sự kiện công nghệ Tech Awards hồi tháng 11/2024, bà Nguyễn Ngọc Lan Hương, Giám đốc ngành hàng điện lạnh và gia dụng, NIQ/GfK Việt Nam, nhấn mạnh đến sự bùng nổ của thị trường gia dụng thông minh trong năm qua.
+
+Bà Hương cho biết tính đến tháng 11/2024, thị trường gia dụng thông minh có tích hợp AI tại Việt Nam đã tăng trưởng đến 31% so với cùng kỳ 2023, đạt 43.000 tỷ đồng. Trong đó, 2024 là năm tăng trưởng vượt bậc khi tỷ trọng các sản phẩm có kết nối thông minh, ứng dụng AI trong thị trường điện tử gia dụng chiếm đến 43% về số lượng, 53% về giá trị.
+
+Xét từng dòng sản phẩm, máy lọc không khí có mức độ ứng dụng công nghệ thông minh đến 63%, máy giặt 51%, máy hút bụi là 48%. Riêng TV, có đến 99% sản phẩm hiện nay đã ứng dụng công nghệ nên dư địa phát triển thời gian tới không còn nhiều, trừ khi có thêm những công nghệ đột phá. Tủ lạnh có mức độ thông minh thấp nhất, mới đạt 15%, nên cơ hội phát triển trong tương lai còn nhiều...
+
+Tuy nhiên, theo các chuyên gia, khi gắn mác “thông minh” vào các thiết bị gia dụng, các nhà sản xuất ngụ ý đến khả năng tự phân tích và tự lập trình để thay thế công việc con người. Tuy nhiên, thực tế thì nhiều tính năng của các sản phẩm gia dụng thông minh đến nay thường được thiết kế với mục đích phô diễn sự tiên tiến của công nghệ, chứ không phải thực sự đáp ứng nhu cầu cụ thể của người dùng.
+
+Ví dụ, việc hiển thị nhiệt độ bếp điện trên điện thoại di động có thể mang lại sự thuận tiện, nhưng liệu người dùng cần sự này khi có thể dễ dàng nhìn thấy và điều chỉnh trực tiếp trên bếp điện mà không cần phải nhìn vào điện thoại liên tục hay không.
+
+Một yếu tố nữa là giá cả, theo thống kê, giá của sản phẩm có AI thông minh hiện cách biệt 15 - 30% so với sản phẩm truyền thống, dù biên độ chênh lệch có khuynh hướng ngày càng rút ngắn. "Tựu trung, sự phát triển của thị trường gia dụng thông minh cần thời gian ít nhất vài năm. Sự phát triển cần hai yếu tố trải nghiệm thực tế và giá cả. Càng mang lại lợi ích thì phát triển càng nhanh, còn giá cả quyết định tính cạnh tranh", bà Hương khẳng định.
+
+Bên cạnh đó, thành công của một hệ sinh thái nhà thông minh là các sản phẩm phải có khả năng “giao tiếp” cùng nhau và “giao tiếp” tốt với người sử dụng, cùng với đó là bài toán tiết kiệm năng lượng, bảo mật thông tin... Ông Đường Quốc Hòa, Phó quản lý Đào tạo ngành hàng máy điều hòa không khí của Aqua Việt Nam, cho biết dù các sản phẩm thông minh đến đâu thì điều đầu tiên vẫn phải đảm bảo việc sử dụng dễ dàng, kể cả với người lớn tuổi hay những người không rành về công nghệ.
+
+Đây cũng là thách thức với các doanh nghiệp sản xuất. Ông Trần Ngọc Hùng, Giám đốc Phát triển Kinh doanh Thị trường Việt Nam của MediaTek, cho biết người dùng muốn sản phẩm có tính cá nhân hóa cao nên công ty không ngừng phát triển linh kiện, tạo ra những bộ vi xử lý cho các nhà sản xuất đáp ứng được các nhu cầu của người dùng. “Với bài toán về AI, cần tối ưu một cách nhỏ gọn. Đây cũng là thách thức khi vừa phải tích hợp nhiều ứng dụng, vừa phải mang lên nhiều công nghệ mới”, ông Hùng nói.
+
+Còn đại diện Toshiba nhấn mạnh đến triết lý "địa phương hóa sản phẩm", kể cả sản phẩm ứng dụng công nghệ mới nhất. Một ví dụ điển hình là máy rửa chén, tại các thị trường châu Âu, máy rửa chén thường không có thiết kế để rửa các tô lớn, nồi lớn hay đũa. Ngược lại, tại châu Á, đặc biệt là Việt Nam, nhu cầu này lại rất phổ biến.
+
+Hay tại Nhật Bản và Hong Kong (Trung Quốc), người dùng cần các máy lọc nước có khả năng điều chỉnh độ pH khác nhau, sử dụng cho các mục đích khác nhau như rửa mặt, nấu ăn. Vì vậy, việc thiết kế sản phẩm cho từng thị trường cũng phải được nghiên cứu kĩ lưỡng.

@@ -1,0 +1,23 @@
+Mới đây, Apple đã công bố Apple Intelligence - hệ thống trí tuệ nhân tạo được tích hợp vào iPhone, iPad và Mac - tại WWDC 2024. Phiên bản chính thức sẽ được ra mắt vào cuối năm nay. Tuy nhiên, nhiều cho rằng Apple đang chậm chân trong cuộc đua AI khi đối thủ điện thoại thông minh lớn nhất của hãng là Samsung, đã phát hành Galaxy AI trên thiết bị của mình từ đầu năm.
+
+Dưới đây là những so sánh trên các khía cạnh và khả năng khác nhau của hai mô hình trí tuệ nhân tạo nổi tiếng hiện nay.
+
+Apple Intelligence đã giới thiệu Writing Tool (Công cụ Viết), có thể viết lại câu, tóm tắt văn bản, mô tả và thậm chí hiệu đính bất kỳ nội dung nào người dùng viết ra. Công cụ này có thể thực hiện thao tác cho toàn bộ văn bản hoặc một phần chọn lọc của nội dung. Nhiều người dự đoán Writing Tool có tiềm năng trở thành công cụ tốt nhất mà một nhà văn, một người viết nội dung sẽ cần.
+
+Mặt khác, Galaxy Al có thể dịch âm thanh trực tiếp sang giọng nói hoặc văn bản bằng bất kỳ ngôn ngữ người dùng chọn. Galaxy AI có thể sửa lỗi trong văn bản và làm cho văn bản hay hơn trước khi gửi, nó cũng có thể đồng thời chuyển đổi âm thanh và hỗ trợ người dùng khi đang ghi chú.
+
+Về mặt hình ảnh, Apple Intelligence có thể tạo hình ảnh và Genmoji khi đang di chuyển bằng một vài lời nhắc nhở và gợi ý. Người dùng có thể biến một bản phác thảo đơn giản thành một tác phẩm nghệ thuật đẹp mắt. Nó cũng có thể được sử dụng để xóa bỏ, hiệu chỉnh hình ảnh những phần người dùng không mong muốn.
+
+Về phía Samsung Galaxy AI, mô hình này có khả năng "Circle to search" (khoanh vùng để tìm kiếm) giúp người dùng tìm hiểu thông tin về bất kỳ yếu tố nào có trong bức ảnh. Bên cạnh đó, nó cũng có thể đề xuất các chỉnh sửa trong ảnh khi cần thiết, người dùng có thể xóa phản chiếu, bóng mờ, hiện vật và nhiều thứ khác khỏi ảnh của mình bằng trí tuệ nhân tạo.
+
+Quyền riêng tư vẫn là cốt lõi của Apple Intelligence và mọi hoạt động đều được xử lý an toàn trên thiết bị cũng như trên đám mây. Phần lớn các tác vụ được xử lý ngay trên thiết bị và sử dụng các thiết bị đám mây đặc biệt có tên là “Private Cloud Compute” (Điện toán đám mây riêng), cũng được bảo mật.
+
+Samsung Galaxy Al cũng chạy tự nhiên trên thiết bị trong hầu hết thời gian. Một số quá trình xử lý trí tuệ nhân tạo được thực hiện trên máy chủ của Google. Tuy nhiên, xét về mặt quan điểm, “gã khổng lồ công nghệ” Samsung không có quan điểm mạnh mẽ về quyền riêng tư như Apple.
+
+Apple Intelligence được tích hợp sâu vào hệ sinh thái Apple. Nó có thể chạy cục bộ trên iPhone, iPad và Mac với sự hỗ trợ tính toán trên đám mây thường xuyên khi cần sức mạnh xử lý cao hơn.
+
+Còn Galaxy AI cũng xử lý trí tuệ nhân tạo cục bộ trên các thành phần NPU bên trong chipset. Nó có thể được sử dụng trên các điện thoại, tab và tai nghe của Galaxy, nhưng không hỗ trợ cho máy tính xách tay Samsung.
+
+Hiện tại, vẫn chưa thể kết luận về AI của hãng nào sẽ tốt hơn vì phải đợi thêm một thời gian khi Apple đưa Apple Intelligence lên iOS18. Tuy nhiên, về cảm quan ban đầu Apple đang có phần vượt trội hơn về những khả năng đem lại. Khả năng tích hợp chặt chẽ trên nhiều thiết bị khác nhau của “nhà táo” bao gồm iPhone, iPad hay Mac khiến nó trở thành sự thay thế tốt hơn cho sản phẩm của Samsung.
+
+Ngoài ra, Apple rất coi trọng quyền riêng tư và đã thực hiện nhiều bước để đảm bảo rằng các khả năng của Al vẫn ở chế độ riêng tư đối với người dùng. Trí tuệ nhân tạo của Samsung vẫn chưa thể thực hiện về mặt này.

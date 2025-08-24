@@ -1,0 +1,31 @@
+Tại sự kiện Hanoi Cloud and Datacenter Convention diễn ra ngày 15/8 tại Hà Nội, lãnh đạo các doanh nghiệp công nghệ và các nhà đầu tư nước ngoài khẳng định cùng với Thái Lan và Malaysia, Việt Nam là một thị trường có nhiều tiềm năng để phát triển thành công các trung tâm dữ liệu. Trong đó, Hà Nội, một trong những “công viên công nghệ” được dự đoán sẽ không chỉ trở thành trung tâm dữ liệu của Việt Nam mà còn của toàn Đông Nam Á.
+
+Theo ông Nguyễn Việt Anh, Giám đốc kinh doanh quốc tế Viettel IDC, thị trường trung tâm dữ liệu thế giới hiện có sự chuyển dịch từ các nước sơ cấp như Singapore, Nhật Bản, Hàn quốc sang các nước thứ cấp như Philippines, Thái Lan, Malaysia, Indonesia và Việt Nam.
+
+Đứng dưới góc độ doanh nghiệp đang đầu tư xây dựng trung tâm dữ liệu, ông cho biết các nhà đầu tư sẽ nhìn nhận, đánh giá một thị trường, cụ thể là Hà Nội, dựa trên nhiều yếu tố.
+
+Thứ nhất, Hà Nội có vị trí địa lý thuận lợi, nằm ở khu vực đồng bằng sông Hồng, ít chịu ảnh hưởng của lũ lụt và thiên tai. Đây là một điểm rất thuận lợi mà các nhà đầu tư sẽ ưu tiên xem xét khi xây dựng bất kỳ trung tâm dữ liệu nào.
+
+Thứ hai, xét về vị thế, Hà Nội với vai trò là thủ đô của Việt Nam hiện là trung tâm kinh tế - chính trị - văn hoá - xã hội của cả nước.
+
+Thứ ba, Hà Nội hiện có khoảng 370.000 doanh nghiệp, trong đó có khoảng 10.000 doanh nghiệp trong lĩnh vực cônh nghệ thông tin và 170.000 nhân sự trong ngành được đào tạo rất bài bản. “Đây chắc chắn là một điểm thu hút với bất kỳ doanh nghiệp nào”, ông Nguyễn Việt Anh nói.
+
+Thứ tư, tỷ lệ tăng trưởng của điện toán đám mây tại Hà Nội trong 3 năm qua luôn trên 30 %, đóng góp đến 36% vào GDP kinh tế số ở Hà Nội. Điều này cho thấy tiềm năng lưu trữ dữ liệu của thị trường là rất lớn.
+
+Thứ năm, xét ở góc độ chi phí xây dựng. Chi phí của Hà Nội khá cạnh tranh khi so sánh với các thành phố lớn khác của Việt Nam hay các nước khác trong khu vực. Giá đất để xây trung tâm dữ liệu của Hà Nội rơi vào khoảng 120 USD/m2, bằng một nửa so với TP.HCM, bằng khoảng 1/10 chi phí trung bình các nước xung quanh trong khu vực, cá biệt Singapore có giá đất xây dựng trung tâm dữ liệu lên đến 11.500 USD/m2.
+
+Bên cạnh đó, giá điện của Hà Nội đang là khoảng là 0,1 USD, tương đương với các nước xung quanh trong khu vực song vẫn có phần rẻ hơn.
+
+Thứ sáu, mức lương cho đội ngũ kỹ sư vận hành và quản lý hệ thống,… của các trung tâm dữ liệu nếu đặt tại Hà Nội về cơ bản sẽ rẻ hơn rất nhiều so với khu vực, chỉ bằng 40-50% so với các nước khối ASEAN.
+
+Ngoài ra, kết hợp với dân số hơn 10 triệu người và diện tích rộng lớn cùng năng lực đóng góp GDP khoảng 13%/năm, ông Nguyễn Việt Anh khẳng định: “Hà Nội sớm muộn sẽ trở thành trung tâm dữ liệu mới của ASEAN”.
+
+Song song với những thuận lợi, bà Quỳnh Phạm, Trưởng ban Trung tâm Dữ liệu và Điện toán Đám mây của Hội Truyền thông số Việt Nam, cũng chỉ ra những thách thức có thể khiến Hà Nội gặp khó khăn trong việc thu hút đầu tư nước ngoài xây dựng các trung tâm dữ liệu.
+
+Cụ thể, về điều kiện tự nhiên, khí hậu của Hà Nội là khí hậu nhiệt đới ẩm với nhiệt độ trung bình rất cao (khoảng 40 — 41 độ), dẫn đến các trung tâm dữ liệu cần chú trọng, triển khai cũng như vận hành những hệ thống làm mát, giải nhiệt. Điều này dẫn đến gia tăng chi phí trong quá trình thiết kế cũng như triển khai vận hành các trung tâm.
+
+Tiếp đến, về mặt hạ tầng viễn thông, cáp quang trên bờ của Việt Nam đang tập trung nhiều ở khu vực miền Trung, cụ thể là Đà Nẵng, Quy Nhơn và ở khu vực phía Nam nhiều hơn. Trong khi đó, số lượng cáp khu vực miền Bắc lại hạn chế.
+
+Ngoài ra, theo báo cáo của Tổng cục Thống kê năm 2023, chi phí sinh hoạt trên diện tích của Hà Nội đang là cao nhất Việt Nam. Điều này kéo theo việc các công ty sẽ phải gia tăng chi phí phúc lợi cho nhân viên. Điều này cũng có thể khiến các doanh nghiệp cân nhắc.
+
+Dù vậy, bà Quỳnh cũng khẳng định nếu nhìn nhận khách quan, Hà Nội hoàn toàn có thể khắc phục những trở ngại này trong thời gian tới để thực sự trở thành điểm đến thu hút đầu tư nhằm sớm trở thành trung tâm dữ liệu hàng đầu của Việt Nam và khu vực.

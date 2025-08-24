@@ -1,0 +1,15 @@
+Trong đó, số lượng phần mềm độc hại nhắm đến ngân hàng trên di động bị phát hiện và ngăn chặn tại Việt Nam tính đến cuối tháng 6/2022 là 208.
+
+Theo Kaspersky, việc số lượng phần mềm độc hại trên di động giảm tại Việt Nam là một tín hiệu tốt cho thấy người dùng đã có nhận thức và quan tâm hơn về vấn đề bảo mật.
+
+Hãng bảo mật này cho biết, trong giai đoạn đại dịch Covid-19 bùng phát, nhiều doanh nghiệp đã áp dụng chính sách làm việc từ xa, cho phép nhân viên sử dụng thiết bị cá nhân nhằm đảm bảo hiệu suất và hoạt động của doanh nghiệp, nhưng cũng đồng thời gia tăng các mối nguy về bảo mật khi các thiết bị này được truy cập vào hệ thống an ninh của công ty nhưng không đáp ứng đa số tiêu chuẩn cơ bản về an toàn thông tin.
+
+Thiết bị di động cá nhân đã trở thành một “cửa ngõ” để phần mềm độc hại truy cập vào mạng lưới của doanh nghiệp. Thực tế, hầu hết doanh nghiệp đều đầu tư vào các giải pháp bảo mật để giữ an toàn cho toàn mạng lưới, cũng như thiết lập tường lửa để ngăn chặn truy cập không có cấp phép vào hệ thống.
+
+Tuy nhiên việc mở quyền truy cập cho máy cá nhân như smartphone, tablet đã cho phép các thiết bị này vượt qua tường lửa. Nếu máy bị nhiễm virus hoặc Trojan sẽ trở thành hiểm họa cho mạng lưới an ninh doanh nghiệp.
+
+Ông Yeo Siang Tiong, Tổng Giám đốc Kaspersky khu vực Đông Nam Á cho biết: chuyên gia bảo mật của Kaspersky gần đây phát hiện các chiến dịch tấn công mạng gồm Harly, Anubis và Roaming Mantis. Harly là trojan chuyên bí mật đăng ký mua dịch vụ mà người dùng không hề hay biết.
+
+Trong khi đó, Anubis kết hợp Trojan ngân hàng trên di động với nhiều tính năng của mã độc tống tiền (ransomware) để rút nhiều tiền hơn từ nạn nhân. Roaming Mantis, một nhóm tội phạm mạng khét tiếng, lại đang tích cực nhắm mục tiêu đến cả người dùng Android lẫn iOS.
+
+Điều này cho thấy bất kể thiết bị nào giới tội phạm mạng đều có thể lây nhiễm phần mềm độc hại để đánh cắp toàn bộ dữ liệu cũng như tiền bạc, hay có quyền truy cập để xóa sạch mọi tin nhắn, email, ảnh cá nhân hoặc các nội dung khác.

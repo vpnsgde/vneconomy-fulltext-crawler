@@ -1,0 +1,31 @@
+Ngày 13/7, Sở Giao dịch Chứng khoán Hà Nội cung cấp một số thông tin giới thiệu về hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ.
+
+Xác định việc triển khai xây dựng và đưa vào vận hành hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ an toàn, hiệu quả, đúng tiến độ theo chỉ đạo của cơ quan quản lý, đáp ứng yêu cầu thực tế của thị trường là nhiệm vụ chính trị quan trọng, HNX phối hợp với các đơn vị liên quan triển khai dự án xây dựng hệ thống một cách khẩn trương nhất.
+
+Trên cơ sở nghiên cứu kinh nghiệm quốc tế và kế thừa kinh nghiệm thực tế xây dựng hệ thống giao dịch cổ phiếu và trái phiếu chính phủ tại HNX với sự an toàn và tính ổn định trong vận hành, HNX tiếp tục nghiên cứu, xây dựng hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ.
+
+Theo đó, việc xây dựng hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ qua nhiều công đoạn phức tạp nhằm đảm bảo các tính năng hệ thống vận hành chính xác và đồng bộ, bắt đầu từ phối hợp với nhà thầu và các đơn vị liên quan xây dựng yêu cầu bài toán, xây dựng các chức năng hệ thống với hai giai đoạn phù hợp với thực tiễn, kiểm thử hệ thống với nhiều giai đoạn.
+
+
+
+Cho đến nay, HNX hoàn thành xây dựng hệ thống giai đoạn 1. Từ tháng 6, hệ thống hoàn thành việc thử nghiệm với thành viên, Trung tâm Lưu ký Chứng khoán Việt Nam và sẵn sàng mọi điều kiện kỹ thuật để vận hành chính thức.
+
+Liên quan đến tính năng cơ bản của hệ thống, HNX cho biết: "Việc thanh toán các giao dịch trái phiếu doanh nghiệp riêng lẻ được thực hiện theo phương thức thanh toán tức thời theo từng giao dịch, tương tự phương thức thanh toán đang áp dụng trên thị trường chứng khoán phái sinh, hoặc lệnh sẽ được thanh toán vào cuối ngày giao dịch theo lựa chọn của nhà đầu tư".
+
+Để đảm bảo các chức năng hệ thống được vận hành chính xác, HNX cũng tổ chức nhiều đợt kiểm thử.
+
+Kết quả kiểm thử với thành viên qua hai đợt cho thấy hệ thống đã vận hành ổn định, đáp ứng được yêu cầu của thành viên trong việc nhập lệnh và tra cứu thông tin; đồng thời, đáp ứng yêu cầu của HNX trong việc quản lý, vận hành hệ thống. Dữ liệu giao dịch đã được chuyển đầy đủ, chính xác sang Trung Tâm Lưu Ký Chứng Khoán Việt Nam (VSD) để thực hiện thanh toán.
+
+Bên cạnh đó, HNX cũng hoàn thành việc xây dựng tài liệu, hồ sơ và đã tổ chức hai đợt đào tạo cấp chứng chỉ cho người sử dụng hệ thống.
+
+Cũng theo HNX, trước đây, việc giao dịch trái phiếu doanh nghiệp riêng lẻ được thực hiện tại các tổ chức lưu ký, trong đó hình thức giao dịch chủ yếu là chuyển nhượng giữa các nhà đầu tư và chuyển nhượng giữa nhà đầu tư và tổ chức lưu ký.
+
+Tuy nhiên, Nghị định 65/2022/NĐ-CP ngày 16/9/2022 sửa đổi, bổ sung một số điều của Nghị định số 153/2020/NĐ-CP ngày 31/12/2020 quy định về chào bán, giao dịch trái phiếu doanh nghiệp riêng lẻ tại thị trường trong nước và chào bán trái phiếu doanh nghiệp ra thị trường quốc tế (Nghị định 65) ra đời là căn cứ cho việc đưa giao dịch trái phiếu doanh nghiệp riêng lẻ vào quản lý tập trung.
+
+"Với việc đưa hệ thống giao dịch trái phiếu doanh nghiệp riêng lẻ vào vận hành sẽ góp phần tăng tính minh bạch, hạn chế rủi ro cho nhà đầu tư trong giao dịch trái phiếu doanh nghiệp riêng lẻ, góp phần thúc đẩy tính thanh khoản cho thị trường trái phiếu doanh nghiệp; đồng thời, tạo điều kiện cho thị trường sơ cấp trái phiếu doanh nghiệp riêng lẻ phát triển bền vững hơn", HNX khẳng định.
+
+
+
+Cũng theo HNX, chuyên trang thông tin trái phiếu doanh nghiệp đang được nâng cấp, không chỉ để phục vụ hoạt động công bố thông tin về hoạt động phát hành mà còn công bố thông tin về giao dịch trái phiếu doanh nghiệp riêng lẻ đáp ứng các quy định.
+
+Chuyên trang đóng vai trò phục vụ nhu cầu thông tin cho các nhà đầu tư, giúp nhà đầu tư tiếp cận thông tin đầy đủ hơn đối với trái phiếu doanh nghiệp riêng lẻ và có thêm kênh tham khảo mức giá trái phiếu, góp phần bảo vệ lợi ích cho nhà đầu tư tốt hơn.

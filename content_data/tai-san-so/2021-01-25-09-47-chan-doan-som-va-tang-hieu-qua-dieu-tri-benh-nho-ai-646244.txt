@@ -1,0 +1,43 @@
+Một nghiên cứu mới đây của Nhóm nghiên cứu quốc tế, bao gồm các nhà nghiên cứu từ Google Health (Mỹ), Viện Sức khỏe Quốc gia Anh (NHS) và Trường Imperial College London (Anh) đã chỉ ra rằng trí tuệ nhân tạo (AI) có khả năng chẩn đoán các căn bệnh ung thư, đặc biệt là ung thư vú qua nhũ ảnh (X-quang tuyến vú) chính xác hơn cả các bác sĩ.
+
+CHẨN ĐOÁN SỚM UNG THƯ NHỜ AI
+
+Cụ thể, nhóm nghiên cứu này đã thiết kế và đào tạo một hệ thống AI trên máy tính về các hình ảnh X-quang tuyến vú của gần 29.000 phụ nữ. Trong số này có 25.856 nhũ ảnh của phụ nữ Anh và 3.097 của Mỹ.
+
+Với ung thư vú, hiện nay các bác sĩ phải lấy mẫu mô của các hạch bạch huyết của bệnh nhân ung thư vú để xem ung thư có lan rộng không, và một slide bệnh án có thể có tới 10 GigaPixel, điều này có thể ví như "tìm kiếm cây kim trong đống cỏ khô".
+
+Hiệp hội Ung thư Mỹ cũng cho biết các bác sĩ X-quang đã bỏ qua khoảng 20% ca ung thư vú khi phân tích nhũ ảnh của bệnh nhân, trong khi một nửa trong số những phụ nữ sàng lọc ung thư trong 10 năm qua có kết quả dương tính giả (không có bệnh nhưng bị bác sĩ chẩn nhầm là có bệnh).
+
+Các nhà khoa học ứng dụng AI bằng một mô hình Máy học (Machine Learning) để phát hiện các tổn thương trong hình ảnh bệnh lý, hỗ trợ các bác sĩ phát hiện di căn ung thư. Chẳng hạn, mô hình của Google Health có thể tìm thấy 95% các tổn thương tiền ung thư (so với 73% được phát hiện bởi các nhà nghiên cứu bệnh học), nhưng nó cũng phát hiện ra nhiều "cảnh báo giả dương tính" hơn so với các bác sĩ.
+
+Nghiên cứu được công bố trên tạp chí Nature mới đây cũng chỉ ra rằng hệ thống AI có thể chẩn đoán bệnh ung thư vú với tỉ lệ chính xác tương tự như các bác sĩ X-quang chuyên nghiệp nhưng giúp giảm 5,7% kết quả các dương tính giả ở Mỹ và 1,2% ở Anh.
+
+Ngoài ra hệ thống AI này cũng giúp giảm bớt 9,4% kết quả các ca âm tính giả, những ca ung thư thật nhưng bị bác sĩ chẩn đoán là không bệnh, tại Mỹ và 2,7% tại Anh.
+
+Không chỉ chẩn đoán chính xác căn bệnh ung thư vú, mà nhiều bệnh khác tỷ lệ chuẩn đoán qua AI cũng chính xác hơn. Nghiên cứu cũng tiến hành một thử nghiệm riêng biệt khi để hệ thống AI này "đấu" cùng 6 bác sĩ chuyên khoa X-quang. Kết quả cho thấy AI chẩn đoán chính xác hơn đội 6 bác sĩ.
+
+Trong một nghiên cứu mới đây của mình, bà Lily Peng, Giám đốc sản phẩm Google Health, cũng nhấn mạnh về khả năng ứng dụng AI trong việc trợ giúp hỗ trợ chẩn đoán sớm ung thư. "Ung thư phổi gây ra nhiều cái chết nhất trong các loại ung thư, chiếm 3% tỷ lệ tử vong hàng năm trên toàn thế giới. Việc chẩn đoán sớm có thể giúp ích nhiều cho quá trình điều trị nhưng hơn 80% ca ung thư phổi không được phát hiện sớm. Một mô hình Máy học phân tích các bản CT và dự đoán các khối u phổi ác tính. Ứng dụng AI này giúp phát hiện sớm thêm 5% trường hợp ung thư", bà Lily Peng nói.
+
+TĂNG HIỆU QUẢ ĐIỀU TRỊ QUA HÌNH ẢNH
+
+Nhận thấy những cơ hội tiềm năng để đầu tư vào lĩnh vực chăm sóc sức khỏe số hóa đang tăng trưởng tại Việt Nam, nhiều tập đoàn quốc tế trong đó có Medix Global, một tập đoàn toàn cầu chuyên cung cấp các giải pháp quản lý sức khỏe chất lượng cao, mong muốn được hợp tác với các doanh nghiệp Việt Nam trong lĩnh vực chăm sóc sức khỏe, trí tuệ nhân tạo AI, phân tích dữ liệu lớn big data… "Điều này sẽ nâng cao tính hiệu quả và các công nghệ cần thiết để rút ngắn khoảng cách, chẩn đoán được chính xác hơn và giúp tiếp cận dễ dàng hơn các dịch vụ chăm sóc chất lượng", bà Sigal Atzmon, Nhà sáng lập kiêm Giám đốc điều hành Medix Global, nói.
+
+Trao đổi trực tuyến với phóng viên VnEconomy, bà Sigal Atzmon, cho biết: "Nếu chẩn đoán chính xác sẽ giúp cho người bệnh có hiệu quả cao trong cách điều trị. Nhờ đó, tiết kiệm rất nhiều chi phí. "Dịch vụ chẩn đoán qua hình ảnh của Medix đã thay đổi chẩn đoán ban đầu với 20% trường hợp và điều trị hiệu quả hơn với 43% trường hợp".
+
+Medix hiện đang hợp tác với các bệnh viện lớn như Bệnh viện Việt Đức Hà Nội, Bệnh viện K Hà Nội, Viện Truyền máu Huyết học Trung ương, VinMec; hợp tác chuyên ngành với Viện Tim Tp.HCM, Bệnh viện FV, Chợ Rẫy, Bệnh viện Đà Nẵng,… Trong năm 2021, Medix sẽ mở rộng hoạt động tại Việt Nam với các giải pháp sức khỏe số, các hoạt động nâng cao sức khỏe cho người dân và đặc biệt đầu tư vào các công ty khởi nghiệp về y tế số, công nghệ chẩn đoán qua hình ảnh và giọng nói.
+
+HỖ TRỢ NHƯNG KHÔNG THỂ THAY THẾ
+
+Không thể phủ nhận sự hỗ trợ chẩn đoán bệnh của AI trong việc phát hiện sớm và điều trị bệnh ung thư, nhưng phải khẳng định rằng AI không thể thay thế các bác sĩ trong việc chẩn đoán và điều trị.
+
+Theo ông Đào Đức Minh, giám đốc điều hành Viện Nghiên cứu Dữ liệu lớn VinBDI, AI đang được phát triển mạnh mẽ trong thời gian vừa qua và đạt được nhiều thành quả lớn trong cuộc sống cũng như nhiều lĩnh vực kinh doanh, từ tài chính đến chăm sóc sức khỏe, giải trí, mua sắm… Và AI được dự đoán sẽ được thúc đẩy mạng mẽ trong 10 năm tới, thay đổi hoàn toàn cuộc chơi, đóng góp 15,7 ngàn tỉ USD vào năm 2030.
+
+Tuy nhiên, theo ông Minh, có một hiểu lầm phổ biến là nhiều người nghĩ AI ở đây để thay thế con người. "Vẫn còn một quãng đường rất xa để công nghệ này có thể thay thế con người. Thay vào đó, nó sẽ hỗ trợ con người, tự động hóa các tác vụ cơ bản nhằm nâng cao năng suất làm việc. Đây là thời điểm dịch chuyển: con người cộng hưởng với máy móc chứ không phải đối đầu. Hai bên nên nâng tầm lẫn nhau," ông Minh nhấn mạnh.
+
+Theo đó, với những tác vụ quen thuộc: con người sẽ được máy móc thay thế, con người chỉ giám sát và kiểm soát chúng. Còn với những tác vụ mang tính phức tạp và sáng tạo, đây chính là "vùng an toàn": máy móc chỉ giúp con người làm việc hiệu quả hơn, giúp họ có thêm thời gian để suy nghĩ và sáng tạo. Đồng thời, vẫn có sự tồn tại của một khoảng không ở giữa, được gọi là khoảng "cùng tồn tại": máy móc và người hỗ trợ lẫn nhau để tối ưu hóa hiệu quả cuối cùng.
+
+Giám đốc điều hành viện Nghiên cứu Dữ liệu lớn VinBDI viện dẫn việc ứng dụng công nghệ AI tại viện này và cho rằng mục đích của AI là giúp tăng mức chuẩn xác trong chẩn đoán bệnh, từ đó chi phí chẩn đoán giảm thiểu vì không phụ thuộc 100% vào con người.
+
+Tuy nhiên, để ứng dụng AI, theo ông Minh, điều kiện tiên quyết là phải có một lượng dữ liệu đủ lớn, đáng tin cậy, dễ tiếp cận và phải được gắn nhãn rõ ràng. Tổ chức, doanh nghiệp cũng phải có mô hình hiệu quả để ứng dụng công nghệ mới này, cùng với hệ tầng phần cứng cao cấp. Quan trọng hơn, họ cũng phải có chiến lược tốt trong cả kinh doanh lẫn sản xuất, nhờ đó khi nhìn thấy một ứng dụng AI mới đánh giá được nó có phù hợp với công việc kinh doanh của mình hay không.
+
+"Yếu tố cuối cùng và quan trọng nhất chính là con người, là đối tượng tạo ra và sử dụng AI hiệu quả nhất. AI không thể phát huy hiệu quả nếu con người không sẵn sàng sử dụng nó," ông Minh khẳng định.

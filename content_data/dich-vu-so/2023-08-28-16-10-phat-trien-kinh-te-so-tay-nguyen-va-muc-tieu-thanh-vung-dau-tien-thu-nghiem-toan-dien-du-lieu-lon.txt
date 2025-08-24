@@ -1,0 +1,45 @@
+Dự thảo Đề án phát triển kinh tế số vùng Tây Nguyên đến hết năm 2030 đang được xây dựng, lấy ý kiến đã nêu quan điểm, mục tiêu hình thành các mô hình lực kéo về kinh tế số với hai nút trọng tâm là Đà Lạt (Lâm Đồng) và Buôn Ma Thuột (Đắk Lắk). Hoàn thiện hệ thống pháp luật thúc đẩy đổi mới sáng tạo, chuyển đổi số và phát triển các sản phẩm, dịch vụ, mô hình kinh tế số mới, khai phá các giá trị của dữ liệu.
+
+Dự thảo Đề án đặt mục tiêu đến năm 2030, hạ tầng số, hạ tầng bưu chính được ưu tiên đầu tư, tạo ra bước nhảy vọt mới, trở thành “huyết mạch” phục vụ phát triển kinh tế số, xã hội số vùng Tây Nguyên.
+
+Đến năm 2030, cơ bản hình thành hạ tầng kết nối Gigabit giữa các thành phố đô thị loại I trong vùng, Đà Lạt và Buôn Ma Thuột là điểm nút kết nối trực tiếp tới mạng đường trục quốc gia; hạ tầng băng rộng (cáp quang băng rộng, mạng di động thế hệ mới…) dựa trên IPv6 bao phủ toàn bộ diện tích vùng với tốc độ truy cập cao, chất lượng truy cập ổn định, an toàn.
+
+Hình thành đám mây dùng chung kết nối khối cơ quan Chính quyền của 5 tỉnh, tích hợp và chia sẻ mặc định dữ liệu của chính quyền các tỉnh trong vùng (ngoại trừ các dữ liệu được bảo mật theo quy định).
+
+Dự thảo Đề án cũng nêu rõ mục tiêu lấy Đà Lạt là động lực thúc đẩy hệ sinh thái đổi mới khu vực Tây Nguyên, phát triển Trung tâm dữ liệu và hạ tầng tính toán vùng phục vụ nhu cầu đổi mới công nghệ số và phát triển công nghiệp dữ liệu vùng.
+
+
+
+Bên cạnh đó, lấy Buôn Ma Thuột là trung tâm chuyển đổi số, thí điểm các cơ chế đặc thù về tích hợp dữ liệu và triển khai thống nhất và trên diện rộng các nền tảng số (sử dụng dữ liệu lớn, điện toán đám mây, trí tuệ nhân tạo, Internet vạn vật…) thúc đẩy kinh tế số các ngành, lĩnh vực, đặc biệt là nông nghiệp, lâm nghiệp, tài nguyên môi trường, du lịch, sản xuất chế biến thực phẩm, đồ uống, khai thác quặng bô-xít; tạo ra các hồ dữ liệu các ngành, lĩnh vực của Vùng, tiến tới việc Tây Nguyên trở thành vùng đầu tiên của cả nước thử nghiệm toàn diện dữ liệu lớn.
+
+Hạ tầng kết nối Internet vạn vật và nền tảng quản lý thiết bị được triển khai phục vụ giao thông thông minh, thành phố thông minh, an toàn và trật tự đô thị và xã hội…
+
+Phát triển năng lực kỹ năng số của mọi thành phần, ở mọi lứa tuổi, thông qua tiếp cận đào tạo và giáo dục linh hoạt; thúc đẩy khả năng tiếp cận giáo dục, y tế và các dịch vụ thiết yếu khác trực tuyến liền mạch từ bất kỳ địa điểm nào, trên nhiều phương tiện; sử dụng danh tính số đáng tin cậy một cách dễ dàng và chỉ một lần đăng nhập cho nhiều dịch vụ của chính phủ và phi chính phủ như y tế, thuế, ngân hàng, giáo dục, du lịch, hải quan…
+
+Triển khai thống nhất các nền tảng số ngành, lĩnh vực trong các lĩnh vực địa phương có thế mạnh. Trong đó Lâm Đồng nhấn trọng tâm phát triển kinh tế số trong lĩnh vực môi trường, nông nghiệp, văn hóa; Đắk Lắk phát triển kinh tế số trong lĩnh vực công nghiệp chế biến nông, lâm sản, dịch vụ thương mại và xuất khẩu; Gia Lai phát triển kinh tế số với năng lượng tái tạo, cây dược liệu và du lịch; Kon Tum phát triển thương mại điện tử và du lịch thông minh; Đắk Nông nhấn tới nông nghiệp và du lịch.
+
+Đến năm 2030, công nghiệp công nghệ thông tin trở thành một trong 5 ngành công nghiệp chủ lực, đóng góp khoảng 10% GRDP Tây Nguyên.
+
+Dự thảo đề án cũng nêu rõ một số chỉ tiêu đến năm 2030, toàn bộ các hộ gia đình, các trường học, bệnh viện có khả năng kết nối tới mạng cáp quang tốc độ cao hoặc mạng viễn thông di động tốc độ cao 5G trở lên. Tối thiểu 90% các cơ quan nhà nước, các khu công nghệ cao, khu công nghệ thông tin tập trung, trung tâm nghiên cứu, phát triển, đổi mới sáng tạo trên địa bàn vùng có truy nhập Internet với tốc độ trung bình tối thiểu 01 Gb/s.
+
+Hình thành tối thiểu 1 trung tâm dữ liệu quy mô lớn tại Lâm Đồng, đáp ứng tiêu chuẩn xanh với PUE ở mức dưới 1,4 và các tiêu chuẩn về an ninh, bảo mật, hiệu suất hoạt động; có kết nối trực tiếp, chia sẻ dữ liệu với các trung tâm dữ liệu Vùng khác, kết nối cáp quang tốc độ cao trực tiếp đến hệ thống truyền dẫn trục quốc gia. Hình thành các bộ dữ liệu mở các ngành, lĩnh vực.
+
+Bên cạnh đó, tối thiểu 95% dân số từ 15 tuổi trở lên sử dụng điện thoại thông minh. Tối thiểu 80% dân số từ 15 tuổi trở lên có tài khoản thanh toán tại ngân hàng hoặc các tổ chức được phép khác.
+
+Tỷ trọng thương mại điện tử trong tổng mức bán lẻ đạt trên 20%. Tỷ trọng giá trị tăng thêm của kinh tế số trong tổng sản phẩm trên địa bàn khoảng 25-30% GRDP. Các ngành công nghiệp dữ liệu lớn, điện toán đám mây và trí tuệ nhân tạo đã hình thành, bước đầu phát triển và được tích hợp sâu vào các ngành kinh tế chủ đạo. Tỷ trọng giá trị gia tăng của kinh tế số ICT chiếm tối thiểu 10% GRDP vùng.
+
+Hiện nay, kinh tế số tại Tây Nguyên còn phát triển tương đối chậm so với mặt bằng chung của cả nước. Năm 2022, tỷ trọng giá trị gia tăng thêm của kinh tế số ICT trên GRDP cả nước đạt khoảng 9,8% thì Kon Tum đạt 4,62%, Lâm Đồng chỉ đạt 2,44%, Gia Lai 2,56%, Đắk Nông 3,18%, Đắk Lắk 2,5%.
+
+Tỷ trọng kinh tế số lan tỏa đến ngành, lĩnh vực cả nước là 14,26% thì tại Kon Tum đạt 9,44%, Lâm Đồng 6,31%, Gia Lai 6,77%, Đắk Nông 8,27%, Đắk Lắk 8,04%.
+
+Cũng theo Dự thảo đề án, tổng giá trị giao dịch trên môi trường Internet của các ngành, lĩnh vực chính của vùng tăng trưởng bình quân từ 20%-30%/năm.
+
+Số lượng việc làm trong các doanh nghiệp có ngành, lĩnh vực kinh doanh chính thuộc danh mục kinh tế số ICT tăng nhanh, tỷ lệ nhân lực lao động kinh tế số chiếm tối thiểu 3% trong lực lượng lao động.
+
+Để hiện thực hóa các mục tiêu trên, dự thảo đề án nêu một số nhóm giải pháp trọng tâm. Theo đó, hoàn thiện thể chế và nâng cao năng lực quản trị số. Xây dựng và ban hành các chính sách ưu đãi, hỗ trợ về tài chính, thuế, đất đai... để thu hút đầu tư hệ sinh thái đổi mới tại khu vực Tây Nguyên, trọng điểm là Đà Lạt. Xây dựng, trình cấp có thẩm quyền ban hành và tổ chức triển khai khung pháp lý thử nghiệm có kiểm soát (sand box) đối với các dịch vụ số mới, mô hình kinh doanh kinh tế số mới tại các trung tâm đổi mới sáng tạo được xây dựng…
+
+Phát triển hạ tầng phục vụ phát triển kinh tế số. Tập trung xây dựng và nâng cấp hạ tầng cáp quang tốc độ cao, mạng 4G và 5G có phạm vi phủ sóng rộng đến từng thôn, bản, hộ gia đình; cùng với hạ tầng giao thông, giáo dục, y tế, hạ tầng số sẽ là hạ tầng trọng điểm, thiết yếu, được ưu tiên đầu tư. Hình thành và đẩy nhanh tiến độ xây dựng ít nhất 1 cụm trung tâm dữ liệu đa mục tiêu cấp Vùng tại Đà Lạt (Lâm Đồng) và Buôn Ma Thuột (Đắk Lắk), có cơ chế bảo mật dữ liệu phù hợp với phân loại dữ liệu
+
+Đẩy mạnh xây dựng và triển khai các nền tảng số trong các ngành, lĩnh vực. Hình thành ngành công nghiệp dữ liệu lớn và khu vực thí điểm các sáng kiến ứng dụng trí tuệ nhân tạo…
+
+Dự thảo đề án cũng nêu một số giải pháp cơ chế đặc biệt như cho phép Đà Lạt và Buôn Ma Thuột được thử nghiệm các công nghệ mới (sandbox) trong các lĩnh vực fintech, kinh tế chia sẻ, kinh tế tuần hoàn... để đánh giá tác động, rút kinh nghiệm và nhân rộng…

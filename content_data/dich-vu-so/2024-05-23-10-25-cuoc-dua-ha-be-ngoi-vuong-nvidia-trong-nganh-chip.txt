@@ -1,0 +1,41 @@
+Các đối thủ và khách hàng lớn nhất của Nvidia đã dành sự chú ý đến sáng kiến của OpenAI nhằm xây dựng phần mềm có thể giúp các nhà phát triển trí tuệ nhân tạo dễ dàng rời bỏ con chip của Nvidia - một phần mềm có tên Triton.
+
+Nvidia có trụ sở tại Thung lũng Silicon đã trở thành nhà sản xuất chip có vốn hóa lớn nhất thế giới nhờ gần như độc quyền về chip để tạo ra các hệ thống AI lớn. Tuy nhiên tình trạng thiếu nguồn cung và giá cao đang thúc đẩy khách hàng tìm kiếm giải pháp thay thế.
+
+Trong khi Nvidia nổi tiếng với bộ vi xử lý mạnh mẽ, các nhân vật trong ngành cho biết “vũ khí bí mật” của họ là nền tảng phần mềm Cuda, có tác dụng giống như nhân của CPU nhằm tăng tốc các ứng dụng AI. Các kỹ sư tại một số đối tác lớn nhất của Nvidia đang nhắm đến Cuda bằng cách hỗ trợ phát triển Triton - phần mềm được OpenAI phát hành lần đầu tiên vào năm 2021 và được thiết kế để tạo phần mềm chạy mã trên nhiều loại chip AI.
+
+Meta, Microsoft và Google vốn đều đã chi hàng chục tỷ USD cho chip Nvidia, giờ đây họ đang đóng góp cho Triton song song với sản xuất chip AI của riêng họ.
+
+Vào thời điểm Nvidia đang đầu tư mạnh tay để mở rộng nền tảng phần mềm, các nhà sản xuất chip đối thủ như Intel, AMD và Qualcomm cũng đang tìm cách sử dụng Triton để thu hút khách hàng từ Nvidia. Ngay cả khi họ tiếp tục chi hàng tỷ USD cho các sản phẩm mới nhất của Nvidia, các công ty công nghệ lớn vẫn hy vọng rằng Triton sẽ giúp phá vỡ thế độc quyền mà nhà sản xuất chip này đạt được với phần cứng AI.
+
+Nvidia thống trị thị trường bằng cách xây dựng và triển khai các mô hình ngôn ngữ lớn, bao gồm cả hệ thống ChatGPT của OpenAI. Điều đó đã đẩy mức định giá của nó lên hơn 2 nghìn tỷ USD và khiến các đối thủ như Intel và AMD phải gấp rút bắt kịp. Các nhà phân tích kỳ vọng Nvidia sẽ báo cáo trong tuần này rằng doanh thu hàng quý gần nhất của họ tăng hơn gấp 3 lần so với cùng kỳ năm ngoái, với lợi nhuận tăng hơn 6 lần.
+
+Tuy nhiên, cần lưu ý rằng phần cứng của Nvidia chỉ trở thành mặt hàng hot như vậy nhờ phần mềm đi kèm mà nó đã phát triển trong gần hai thập kỷ, tạo nên một quân bài đáng gờm mà các đối thủ cạnh tranh đang phải "đau đầu" để có thể vượt qua.
+
+“Những gì Nvidia làm không chỉ là chế tạo chip. Chúng tôi xây dựng toàn bộ siêu máy tính, từ chip, hệ thống đến các kết nối... nhưng điều quan trọng nhất là phần mềm,” Giám đốc điều hành Jensen Huang cho biết tại Hội nghị Công nghệ GPU vào tháng 3. Ông đã mô tả phần mềm của Nvidia là “hệ điều hành” của AI.
+
+Được thành lập cách đây hơn 30 năm với mục tiêu nhắm đến các trò chơi video, việc chuyển hướng sang AI của Nvidia đã được hỗ trợ bởi phần mềm Cuda. Công ty đã tạo ra nó vào năm 2006 để cho phép các ứng dụng đa năng chạy trên các bộ xử lý đồ họa của mình.
+
+Kể từ đó, Nvidia đã đầu tư hàng tỷ USD để xây dựng hàng trăm công cụ và dịch vụ phần mềm nhằm giúp việc chạy các ứng dụng AI trên GPU của mình nhanh hơn và dễ dàng hơn. Các Giám đốc điều hành của Nvidia cho biết hiện họ thuê số kỹ sư phần mềm nhiều gấp đôi so với số nhân viên phần cứng.
+
+David Katz, đối tác tại Radical Ventures, một nhà đầu tư tập trung vào AI, cho biết: “Tôi nghĩ mọi người đang đánh giá thấp những gì Nvidia thực sự đã làm. Họ đã xây dựng một hệ sinh thái phần mềm bên cạnh các sản phẩm hiệu quả, dễ sử dụng và thực sự hoạt động - đồng thời biến những thứ rất phức tạp trở nên đơn giản và tạo ra một cộng đồng người dùng đông đảo trong một thời gian rất dài.”
+
+Tuy nhiên, giá sản phẩm của Nvidia cao và việc xếp hàng dài để mua thiết bị tiên tiến nhất của hãng, chẳng hạn như H100 và “siêu chip” GB200 sắp ra mắt, đã khiến một số khách hàng lớn nhất của hãng - bao gồm Microsoft, Amazon và Meta - tìm kiếm giải pháp thay thế hoặc phát triển riêng của họ.
+
+Vì hầu hết các hệ thống và ứng dụng AI đều chạy trên phần mềm Cuda của Nvidia nên các nhà phát triển sẽ tốn nhiều thời gian và đối mặt với rủi ro khi viết lại chúng cho các bộ xử lý khác, chẳng hạn như MI300 của AMD, Gaudi 3 của Intel hoặc Trainium của Amazon.
+
+Ông Gennady Pekhimenko, Giám đốc điều hành của CentML, cho biết: “Nếu bạn muốn cạnh tranh với Nvidia trong lĩnh vực này, bạn không chỉ cần xây dựng phần cứng có khả năng cạnh tranh mà còn cần làm cho nó dễ sử dụng. Chip của Nvidia thực sự tốt nhưng theo tôi, lợi thế lớn nhất của họ là về mặt phần mềm".
+
+Theo Pekhimenko, các đối thủ như chip TPU AI của Google có thể mang lại hiệu suất tương đương trong các bài kiểm tra điểm chuẩn nhưng sự tiện lợi và hỗ trợ phần mềm tạo nên sự khác biệt lớn có lợi cho Nvidia.
+
+Các Giám đốc điều hành của Nvidia lập luận rằng hoạt động phần mềm của họ giúp có thể triển khai mô hình AI mới trên các chip mới nhất của họ chỉ trong vài giây và mang lại những cải tiến hiệu quả liên tục. Nhưng những lợi ích đó đi kèm với một nhược điểm.
+
+Meryem Arik, đồng sáng lập TitanML, một công ty khởi nghiệp về AI có trụ sở tại London, cho biết: “Chúng tôi đang chứng kiến rất nhiều Cuda bị khóa trong hệ sinh thái AI, điều này khiến việc sử dụng phần cứng không phải của Nvidia rất khó khăn”. TitanML bắt đầu sử dụng Cuda nhưng tình trạng thiếu GPU vào năm ngoái đã khiến hãng phải lập trình lại sản phẩm của mình bằng Triton.
+
+Triton là nguồn mở, nghĩa là bất kỳ ai cũng có thể xem, điều chỉnh hoặc cải thiện mã của nó. Những người ủng hộ lập luận rằng điều đó mang lại cho Triton một sức hấp dẫn vốn có đối với các nhà phát triển so với Cuda, vốn thuộc sở hữu của Nvidia. Triton ban đầu chỉ hoạt động với GPU của Nvidia nhưng giờ đây nó hỗ trợ MI300 của AMD, dự kiến sẽ sớm hỗ trợ Gaudi của Intel và các chip tăng tốc khác.
+
+Triton không phải là nỗ lực duy nhất nhằm thách thức lợi thế phần mềm của Nvidia. Intel, Google, Arm và Qualcomm là các thành viên của UXL Foundation, một liên minh công nghiệp đang phát triển giải pháp thay thế Cuda dựa trên nền tảng OneAPI nguồn mở của Intel.
+
+Chris Lattner, cựu kỹ sư cấp cao nổi tiếng của Apple, Tesla và Google, đã cho ra mắt Mojo - một ngôn ngữ lập trình dành cho các nhà phát triển AI. Ông lập luận rằng chỉ một số ít các nhà phát triển phần mềm trên thế giới biết cách viết mã bằng Cuda và rất khó để học. Với công ty khởi nghiệp module của mình, Lattner hy vọng Mojo sẽ giúp việc xây dựng AI cho các nhà phát triển thuộc mọi loại hình - không chỉ các chuyên gia ưu tú tại các công ty AI lớn nhất sẽ trở nên dễ dàng.
+
+Ngay cả khi Triton hay Mojo có khả năng cạnh tranh, các đối thủ của Nvidia vẫn sẽ phải mất nhiều năm để bắt kịp Cuda. Các nhà phân tích tại Citi gần đây ước tính rằng thị phần của Nvidia trên thị trường chip AI tổng hợp sẽ giảm từ khoảng 81% vào năm tới xuống còn khoảng 63% vào năm 2030, cho thấy hãng này sẽ vẫn thống trị trong nhiều năm tới.

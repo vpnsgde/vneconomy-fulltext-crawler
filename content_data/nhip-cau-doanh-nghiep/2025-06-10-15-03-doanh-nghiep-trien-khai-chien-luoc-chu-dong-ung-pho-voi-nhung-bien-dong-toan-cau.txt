@@ -1,0 +1,25 @@
+Theo khảo sát Global Trade Pulse 2025 của HSBC, 77% doanh nghiệp coi bất ổn là động lực để đổi mới và thích ứng. Vậy đâu là những chiến lược giúp doanh nghiệp chủ động xây dựng nền tảng bền vững, linh hoạt trước biến động thị trường?
+
+Một trong những chiến lược quan trọng hàng đầu giúp doanh nghiệp chủ động ứng phó trước bất ổn của thị trường là tập trung củng cố nền tảng tài chính bằng cách tối ưu quản lý dòng tiền, đa dạng hóa nguồn vốn và xây dựng các phương án dự phòng nhằm ứng phó kịp thời với các cú sốc tài chính hoặc thay đổi trong chính sách kinh tế toàn cầu.
+
+Trong dài hạn, đầu tư vào công nghệ và đổi mới sáng tạo được xem như chiến lược then chốt để nâng cao năng lực cạnh tranh và thích ứng linh hoạt với thay đổi. Các công nghệ như AI, Cloud hay RPA không chỉ giúp doanh nghiệp tối ưu hóa hiệu suất vận hành mà còn cải thiện khả năng phân tích dữ liệu và ra quyết định nhanh chóng trong môi trường kinh doanh biến động.
+
+Nhiều doanh nghiệp trong lĩnh vực bán lẻ, tài chính, logistics đã triển khai chuyển đổi số toàn diện, đặc biệt là chuyển đổi hạ tầng lên Cloud để hợp nhất dữ liệu, tăng cường bảo mật và nâng cao trải nghiệm khách hàng theo thời gian thực. Theo báo cáo của McKinsey, các doanh nghiệp đầu tư vào đổi mới sáng tạo có khả năng tăng trưởng doanh thu nhanh hơn 30% so với đối thủ duy trì mô hình truyền thống.
+
+Cùng với đó, trước những biến động của thị trường, nhiều doanh nghiệp Việt cũng đang chuyển hướng ưu tiên tận dụng nền tảng công nghệ nội địa nhờ khả năng thích ứng tốt với đặc thù vận hành trong nước. Sử dụng các giải pháp công nghệ trong nước giúp doanh nghiệp giảm thiểu rủi ro liên quan đến chính sách bảo hộ công nghệ, biến động dữ liệu xuyên biên giới, đồng thời bảo đảm tuân thủ các quy định pháp lý của Việt Nam như Nghị định 53/2022/NĐ-CP về an toàn thông tin mạng và Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân. Theo Vietnam Report 2024, công nghệ nội địa với chi phí hợp lý, phù hợp đặc thù vận hành và khả năng triển khai nhanh đã trở thành lựa chọn chiến lược giúp doanh nghiệp Việt Nam nâng cao năng lực tự cường và phát triển bền vững trong môi trường đầy thử thách hiện nay.
+
+Ứng dụng công nghệ đang trở thành xu hướng tất yếu, nhưng vẫn có nhiều doanh nghiệp thừa nhận đang gặp khó khăn trong quá trình hiện thực hoá, tích hợp công nghệ mới vào vận hành thực tế. Đối với các doanh nghiệp vừa và nhỏ (SME), chi phí đầu tư ban đầu cho hạ tầng số như Cloud, hệ thống ERP, AI... là một rào cản không nhỏ, nhất là trong bối cảnh áp lực duy trì dòng tiền ngắn hạn đang rất lớn.
+
+Tâm lý ngại thay đổi trong tổ chức - xuất phát từ chính con người, bao gồm cả lãnh đạo và đội ngũ nhân sự - là rào cản phổ biến trong hành trình chuyển đổi số. Nhiều doanh nghiệp cảm thấy e ngại trước rủi ro cũng như tốn thời gian khi tiến hành thay đổi quy trình làm việc, điều chỉnh văn hóa tổ chức để thích nghi với chuyển đổi số. Chính sự thiếu đồng thuận và quyết tâm nội bộ khiến quá trình chuyển đổi dễ rơi vào trạng thái “nửa vời” – vừa tốn kém nguồn lực, vừa không tạo ra giá trị thực sự, kể cả khi đã có chiến lược công nghệ rõ ràng.
+
+Các rủi ro về bảo mật, tuân thủ pháp lý cũng ngày càng được quan tâm, đặc biệt khi các doanh nghiệp hoạt động xuyên biên giới hoặc liên kết với các hệ thống quốc tế. Việc ứng dụng công nghệ mà không có kế hoạch kiểm soát, đảm bảo an ninh thông tin bài bản có thể khiến doanh nghiệp rơi vào thế bị động, ảnh hưởng nghiêm trọng đến uy tín và vận hành.
+
+Đặc biệt, việc thiếu chuyên gia am hiểu đặc thù ngành cũng khiến doanh nghiệp không chuyên như tài chính, sản xuất gặp khó khăn khi lựa trọn công nghệ cũng như triển khai để đạt hiệu quả tối ưu vận hành.
+
+Thấu hiểu những khó khăn và mong muốn đồng hành cùng doanh nghiệp Việt trước những biến động khó lường, FPT Cloud triển khai chương trình “Kết hợp lợi thế nội địa & đổi mới sáng tạo - Chủ động đầu tư công nghệ hiệu quả cho doanh nghiệp” với 2 gói chuyển đổi linh hoạt.
+
+Gói Chuyển từ Hyperscaler về FPT Cloud: Giải pháp chuyển đổi công nghệ phù hợp với doanh nghiệp vận hành nhiều hệ thống số như ngân hàng, bán lẻ, logistics - nơi lưu trữ dữ liệu khách hàng lớn và yêu cầu tính bảo mật cao và tuân thủ pháp lý nghiêm ngặt. Chương trình mang đến hỗ trợ Cloud Credit đến 2 tỷ đồng, giúp tiết kiệm tới 30% chi phí so với hyperscaler quốc tế.
+
+Gói Thu Server đổi Credit Cloud: Thiết kế dành riêng cho các doanh nghiệp sản xuất, phân phối (logistics, TMĐT,...) đang vận hành hệ thống server on-premise muốn chuyển đổi lên Cloud một cách nhanh chóng để dễ dàng mở rộng/thu hẹp hệ thống, tối ưu chi phí nhưng gặp khó khăn trong việc xử lý thiết bị phần cứng. FPT hỗ trợ thu mua thiết bị cũ và tặng Cloud Credit đến 1 tỷ đồng, giúp tiết kiệm tới 45% chi phí so với duy trì hạ tầng truyền thống.
+
+* Tìm hiểu thông tin chi tiết thông tin dịch vụ ngay tại: https://fptsmartcloud.vn/DOe3x

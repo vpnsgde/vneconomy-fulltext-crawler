@@ -1,0 +1,21 @@
+Ngày 15/8, tại Hội thảo “Dữ liệu du lịch trong phát triển kinh tế số”, Cục Du lịch, Hiệp hội Dữ liệu Quốc gia cùng Tập đoàn Sun Group đã công bố ra mắt nền tảng dữ liệu du lịch quốc gia Việt Nam mang tên Visit Vietnam. Đây là nền tảng tích hợp thông tin, đánh giá về điểm đến và công cụ đặt dịch vụ du lịch tại Việt Nam, được xem là bước tiến chiến lược cho du lịch số.
+
+Tại hội thảo, đại diện lãnh đạo Cục Du lịch Quốc gia Việt Nam, Hiệp hội Dữ liệu Quốc gia (NDA), các đối tác chiến lược như Sun Group, Visa, Mastercard, Trip.com… đã ký kết biên bản ghi nhớ hợp tác phát triển nền tảng dữ liệu du lịch quốc gia Visit Vietnam. Nền tảng này đóng vai trò trung tâm trong việc kết nối dữ liệu giữa cơ quan quản lý, doanh nghiệp và du khách, từ đó hình thành một hệ sinh thái du lịch minh bạch, thông minh và an toàn.
+
+Theo đó, Hiệp hội Dữ liệu Quốc gia (NDA) là đơn vị ban hành chính sách, khung pháp lý dự án và chứng nhận dự án. Tập đoàn Sun Group là đơn vị phát triển và vận hành nền tảng công nghệ. Cục Du lịch Quốc gia Việt Nam hỗ trợ truyền thông, quảng bá sáng kiến trên các kênh quốc gia, đồng thời, giới thiệu và thu hút cộng đồng doanh nghiệp du lịch tham gia dự án. Dữ liệu của nền tảng sẽ được đóng góp chính bởi Cục Du lịch Quốc gia Việt Nam, cộng đồng doanh nghiệp du lịch và du khách.
+
+Visit Vietnam được tích hợp các công nghệ tiên tiến với hệ thống trợ lý du lịch ảo AI Travel Assistant có thể lập kế hoạch và đặt dịch vụ tự động cho du khách. Nền tảng NDAchain.vn giúp xác thực phi tập trung, đảm bảo độ tin cậy và tính minh bạch của thông tin.
+
+Các dịch vụ được tích hợp sâu, từ vận chuyển, lưu trú, ẩm thực cho đến các chương trình khách hàng thân thiết toàn quốc. Bên cạnh đó, cùng với công nghệ Blockchain và quy trình bảo mật Tokenization, mọi dữ liệu trên nền tảng sẽ được xác minh và bảo vệ nghiêm ngặt.
+
+Ra đời trong bối cảnh du lịch Việt Nam còn thiếu một hệ thống quản lý và khai thác dữ liệu tập trung, Visit Vietnam được kỳ vọng sẽ khắc phục tình trạng thông tin phân tán, thiếu liên kết và khó tiếp cận. Nền tảng này sẽ giúp du khách dễ dàng tìm kiếm, đặt dịch vụ, khám phá văn hóa địa phương, giúp doanh nghiệp nắm bắt xu hướng, thiết kế sản phẩm cá nhân hóa, đồng thời, hỗ trợ cơ quan quản lý hoạch định chính sách dựa trên dữ liệu thời gian thực.
+
+Theo lộ trình, tháng 10/2025, dự án sẽ khởi tạo Nền tảng Dữ liệu Quốc gia, ra mắt Dashboard Du lịch Quốc gia phiên bản 1.0 dành cho Chính phủ, đồng thời, vận hành Cổng thông tin công bố chương trình. Dự kiến, quý 2 năm 2026, nền tảng sẽ ra mắt công chúng, tập trung vào việc tạo dựng niềm tin và cung cấp công cụ hoạch định hành trình, bao gồm hệ thống đánh giá xác thực qua nền tảng blockchain quốc gia và tính năng lập kế hoạch chuyến đi.
+
+APEC 2027 sẽ là dấu mốc thể hiện tầm vóc quốc tế của Visit Vietnam, với hệ thống đặt dịch vụ trực tiếp, gợi ý lịch trình bằng AI và ra mắt nền tảng dữ liệu như một dịch vụ (DaaS) dành cho doanh nghiệp. Mục tiêu dài hạn sau đó là Visit Vietnam sẽ trở thành “siêu ứng dụng” du lịch toàn diện, cho phép đặt vé một chạm, tích hợp đa phương tiện và góp phần dẫn dắt thị trường du lịch Việt Nam vươn ra thế giới.
+
+Ông Đào Đức Triệu, Tổng thư ký Hiệp hội Dữ liệu Quốc gia, nhận định nền tảng dữ liệu du lịch quốc gia Visit Vietnam là bước đi quan trọng để hình thành hệ sinh thái dữ liệu du lịch công - tư, kết nối dữ liệu từ nhiều nguồn, phục vụ đồng thời 3 mục tiêu quản lý - kinh doanh - trải nghiệm du khách.
+
+Ông Nguyễn Trùng Khánh, Cục trưởng Cục Du lịch Quốc gia Việt Nam, cho biết ngành du lịch được đánh giá là điểm sáng trong bức tranh kinh tế xã hội Việt Nam năm 2025. Năm nay, ngành du lịch được giao đón 25 triệu khách du lịch quốc tế và phục vụ 150 triệu du khách nội địa, góp phần hoàn thành mục tiêu tăng trưởng kinh tế 8,3-8,5% GDP.
+
+“Trong bối cảnh đó, ứng dụng công nghệ và chuyển đổi số là giải pháp quan trọng để ngành du lịch bứt phá, duy trì đà tăng trưởng, quản lý hiệu quả và nâng cao chất lượng dịch vụ”, ông Khánh nói.

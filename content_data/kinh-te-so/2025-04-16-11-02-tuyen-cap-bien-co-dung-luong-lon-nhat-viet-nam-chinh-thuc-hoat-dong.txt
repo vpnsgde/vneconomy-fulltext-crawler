@@ -1,0 +1,15 @@
+Tập đoàn Công nghiệp – Viễn thông Quân đội (Viettel) sở hữu toàn bộ nhánh cáp biển kết nối Việt Nam và trạm cập bờ tại Quy Nhơn, cùng một phần của trục chính đi quốc tế. Viettel Networks là đơn vị vận hành khai thác.
+
+Tổng vốn đầu tư toàn tuyến ADC lên đến 290 triệu USD với sự hợp tác của 9 tập đoàn viễn thông hàng đầu gồm Viettel (Việt Nam), Softbank (Nhật Bản), Tata (Ấn Độ), Singtel (Singapore) China Telecommunications Corporation, China Telecom Global, China Unicom (Trung Quốc), National Telecom (Thái Lan), PLDT (Philippines). Viettel là đơn vị duy nhất tại Việt Nam tham gia đầu tư vào tuyến cáp này.
+
+ADC là hệ thống cáp quang ngầm dưới biển có chiều dài khoảng 9.800 km, kết nối 7 quốc gia và vùng lãnh thổ gồm Việt Nam, Trung Quốc, Hồng Kông, Thái Lan, Philippines, Singapore và Nhật Bản.
+
+So với các tuyến cáp quang biển hiện có của Việt Nam, ADC có điểm đặc biệt là kết nối trực tiếp tới cả 3 trung tâm Internet của khu vực châu Á gồm Singapore, Hồng Kông và Nhật Bản.
+
+Dung lượng tối đa của ADC là 50Tbps, lớn nhất Việt Nam và bằng 125% lần tổng dung lượng kết nối quốc tế của cả 5 tuyến cáp quang biển đang hoạt động (IA, AAE-1, APG, AGG, SMW-3). ADC cũng có tốc độ cao hơn các hệ thống trước đây.
+
+Viettel cho biết trước mắt sẽ đưa vào sử dụng một phần dung lượng trên tuyến ADC để nâng cao năng lực kết nối quốc tế, đáp ứng các nhu cầu mới về dữ liệu và tăng trải nghiệm khách hàng khi sử dụng các dịch vụ Internet.
+
+Với ADC, Viettel nâng mức dự phòng kết nối quốc tế, tăng số lượng tuyến cáp và hướng kết nối quốc tế, đảm bảo nhu cầu kết nối của Việt Nam khi có sự cố đứt cáp quang biển. ADC không chỉ giúp đảm bảo an toàn mạng lưới, mà còn củng cố hạ tầng số đáp ứng các dịch vụ yêu cầu tốc độ cao và băng thông lớn như AI, 5G, Bigdata, AR/VR.
+
+Tổng Công ty Mạng lưới Viettel (Viettel Networks), đơn vị trực tiếp xây dựng, vận hành tuyến cáp quang biển ADC tại Quy Nhơn, là đầu mối chịu trách nhiệm quản lý toàn trình hạ tầng viễn thông – công nghệ thông tin của Viettel trên toàn cầu.

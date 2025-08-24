@@ -1,0 +1,27 @@
+Những năm gần đây, nhờ công nghệ “nhúng tay” mà các hãng thời trang đã có thể nhanh chóng dự đoán xu hướng, cải tiến vật liệu, rút ngắn thời gian từ thiết kế đến sản xuất, từ đó nhanh chóng phân phối và đưa đến tay người tiêu dùng. Năm 2024, “nhà thiết kế” trí tuệ nhân tạo (AI) thậm chí còn giúp các thương hiệu thiết kế theo thời gian thực, từ đó các doanh nghiệp có thể thiết kế song song với sản xuất.
+
+Bên cạnh đó, ngành thời trang đã chứng kiến sự chuyển đổi sâu sắc, nhờ  việc tích hợp AI vào chuỗi cung ứng cũng như quản lý kinh doanh và chăm sóc khách hàng. Sự kết hợp giữa công nghệ và thời trang này đã dẫn đến những tiến bộ chưa từng có, định hình lại cả cách sản xuất, tiếp thị và tiêu thụ thời trang. Đến năm 2023, thị trường AI trong ngành thời trang toàn cầu đạt giá trị xấp xỉ 795,7 triệu USD và dự kiến sẽ đạt 23.936,3 triệu USD vào năm 2033, phản ánh tốc độ tăng trưởng kép hàng năm (CAGR) là 40,55%.
+
+CUỘC CÁCH MẠNG DIỆN RỘNG
+
+Tính năng nổi trội của AI cho đến nay vẫn là tạo ra các mẫu thiết kế. Tại CLO Virtual Fashion Enterprise User Summit vào đầu tháng 11/2024, các nhà thiết kế đã trải nghiệm phiên bản phần mềm mới nhất với tính năng AI Avatar Studio, sử dụng ảnh chân dung hoặc hình ảnh được tạo bởi AI để cung cấp các gợi ý thiết kế cá nhân hóa, từ đó tối ưu hóa quy trình làm việc và nâng cao hiệu suất trong thiết kế thời trang 3D. Nhân dịp này, các thương hiệu lớn cũng chia sẻ về tiềm năng của công nghệ trong quản lý sản xuất và nhấn mạnh tầm quan trọng của việc lập chiến lược, khả năng thích ứng.
+
+Bên cạnh đó, sự mở rộng đáng chú ý nhất trong năm qua là việc các giải pháp AI giúp tối ưu hóa quy trình làm việc trong toàn ngành. Thông qua các thuật toán phân tích dự đoán và máy học, các nhà sản xuất có thể tối ưu hóa lịch trình sản xuất, quản lý hàng tồn kho và hậu cần chuỗi cung ứng. Điều này không chỉ giúp giảm thiểu chất thải mà còn cho phép các thương hiệu phản ứng nhanh chóng với sự thay đổi trong nhu cầu của người tiêu dùng, do đó giảm thiểu tình trạng sản xuất quá mức và hàng tồn kho dư thừa.
+
+Với thương mại điện tử, AI dường như cũng là một giải pháp khả thi mà các thương hiệu sử dụng để chống lại nạn buôn bán hàng giả, một hiện tượng không chỉ đe dọa danh tiếng của các thương hiệu mà còn cả lòng tin của người tiêu dùng.
+
+Các giải pháp như Entrupy, một công cụ xác thực được hỗ trợ bởi AI, có độ chính xác 99,1% trong việc xác định sản phẩm chính hãng so với hàng giả, kiểm tra các chi tiết cực nhỏ như đường khâu, logo và kết cấu vật liệu. Năm 2023, Entrupy đã có thể phân tích các mặt hàng xa xỉ trị giá 5 tỷ USD, tăng đáng kể so với mức 2 tỷ USD năm 2022 và 1,7 tỷ USD năm 2021.
+
+Nhờ khả năng “học” và sáng tạo nhanh chóng AI tạo sinh thực tế đã tạo nên một cuộc cách mạng diện rộng trên tất cả các lĩnh vực mà nó được ứng dụng. Báo cáo của McKinsey và BoF ước tính, AI tạo sinh có thể tăng năng suất tiếp thị từ 5 - 15% trong tổng chi tiêu tiếp thị, 1/4 giá trị tiềm năng của thế hệ AI trong thời trang có thể được thúc đẩy bởi các trường hợp sử dụng trong thiết kế và phát triển sản phẩm. Vì lẽ đó, 73% giám đốc điều hành các thương hiệu thời trang bày tỏ mong muốn ưu tiên sử dụng AI tạo sinh trong năm 2024, trong khi thực tế có đến 62% doanh nghiệp thời trang đã ứng dụng AI tạo sinh vào nơi làm việc.
+
+Ông Matthew Drinkwater, Giám đốc Đổi mới của Trường đại học Thời trang London, tin rằng AI sẽ là một công cụ hữu ích cho quy trình sáng tạo và cho toàn bộ ngành công nghiệp thời trang. “Sự phát triển của AI đã mở ra cánh cửa phi truyền thống cho những người trước đây không thể tham gia vào ngành thời trang. Có một sự thật là từ trước đến nay, ngành thời trang đòi hỏi những cá nhân có năng khiếu và có kinh phí để tiếp cận. Nhưng nhờ AI, nhân lực với các bối cảnh khác nhau đều có thể tham gia và có chỗ đứng trong ngành này”, ông Drinkwater nói.
+
+Tom Standage, Phó Tổng biên tập của The Economist, dự đoán rằng vào năm 2025 trí tuệ nhân tạo sẽ là canh bạc lớn nhất trong lịch sử kinh doanh. Thực tế, hơn 1 nghìn tỷ USD đã được chi cho các trung tâm dữ liệu phục vụ AI, mặc dù các công ty vẫn chưa thực sự biết cách tận dụng nó và tỷ lệ sử dụng còn thấp. Mọi doanh nghiệp đều đang cố gắng nắm bắt các dữ liệu quan trọng có thể định hình tương lai của ngành.
+
+Sự kết hợp giữa thời trang và AI đại diện cho sự thay đổi toàn cầu, mở ra kỷ nguyên mới về đổi mới, hiệu quả và lấy người tiêu dùng làm trung tâm. Khi công nghệ tiếp tục phát triển, tương lai của thời trang hứa hẹn sẽ vừa tiên tiến vừa có đạo đức, được thúc đẩy bởi tiềm năng biến đổi của AI.
+
+Mặc dù chưa ứng dụng công nghệ mạnh mẽ như các nước phát triển, ngành dệt may Việt Nam cũng đang nỗ lực ứng dụng AI, công nghệ 3D, robot hóa và dần đạt được những kết quả khả quan...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 01-2025 phát hành ngày 06/1/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

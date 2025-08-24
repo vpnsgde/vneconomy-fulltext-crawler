@@ -1,0 +1,51 @@
+Trước sự phát triển và tác động mạnh mẽ của AI, các doanh nghiệp phải thay đổi thế nào và người lao động phải làm gì để không bị ảnh hưởng? Câu hỏi này được các chuyên gia công nghệ giải đáp tại Hội thảo "AI và quản trị doanh nghiệp" do Viện Quản trị và Công nghệ FSB tổ chức ngày 4/5/2024.
+
+Tổng thị trường AI năm 2023 trên toàn cầu khoảng 196 tỷ USD. Tuy nhiên, mức độ tăng trưởng AI hàng năm khoảng 37,3%; tăng trưởng từ 2023–2030 sẽ khoảng 20 lần so với con số 200 tỷ USD. Chia sẻ diều này, ông Lê Hồng Việt, Tổng Giám đốc FPT Smart Cloud, nhận xét cơ hội cho các doanh nghiệp phát triển AI rất lớn.
+
+AI được mong muốn đem lại hiệu quả lớn về tăng trưởng doanh thu cũng như giúp giảm chi phí cho doanh nghiệp. Khảo sát của McKinsey cho hay, hơn 10% doanh nghiệp được hỏi kỳ vọng tỷ lệ tăng trưởng doanh số 6-10% và trên 10%.
+
+Chat GPT là ví dụ điển hình của Generative AI (AI tạo sinh), đem lại giá trị cho nền kinh tế, tăng thêm khoảng 4,4 nghìn tỷ USD vào GDP toàn cầu. AI tạo sinh sẽ tiết kiệm khoảng 2,6 nghìn tỷ về chi phí cho doanh nghiệp. Nếu doanh nghiệp sử dụng AI tạo sinh một cách hợp lý, có thể tiết kiệm 10–15% chi phí.
+
+AI tạo sinh là mảng công nghệ được đầu tư mạnh mẽ nhất trong năm 2023. Khoảng 25 tỷ USD đã được đầu tư vào các công ty có công nghệ tạo ra AI tạo sinh. Trong khi đầu tư cho startup toàn cầu giảm, thì riêng đầu tư cho AI tạo sinh tăng trưởng mạnh 75% so với trước.
+
+AI có thể giúp các doanh nghiệp tăng năng suất lao động, giúp nhân viên hiểu hơn những việc cần làm và đào tạo để họ làm việc tốt hơn.
+
+Một trong những ứng dụng AI phổ biến nhất trong doanh nghiệp hiện nay là hỗ trợ trên kênh chat. AI tạo sinh sẽ giúp doanh nghiệp hỗ trợ người dùng có thể hỏi đáp về các dịch vụ, điều kiện sử dụng sản phẩm… AI sẽ thu thập thông tin để phục vụ người dùng. Trên mỗi website của doanh nghiệp sẽ có người hỗ trợ ảo để phục vụ khách hàng 24/7.
+
+Ví dụ Tổng đài của Home Credit, khi khách hàng gọi điện, AI nói chuyện với khách hàng như một nhân viên là người thực. FPT AI cho biết đã làm với nhiều khách hàng Việt Nam, đang thực hiện khoảng 20 triệu cuộc gọi như vậy mỗi tháng.
+
+Khoảng hơn 50% số lượng công việc cần thực hiện trong trung tâm chăm sóc khách hàng của đơn vị này đã được thực hiện bởi AI, tỷ lệ bot hỗ trợ thành công là 98% cuộc gọi vào, giúp tiết kiệm khá lớn chi phí.
+
+Ứng dụng AI cũng được triển khai trong các lĩnh vực bán lẻ, thời trang, dịch vụ tài chính…AI tạo sinh tạo sự phát triển mạnh mẽ hơn về tự động hóa trong các tác vụ khác nhau. Cũng theo McKinsey, trong doanh nghiệp có các công việc văn phòng như thư ký, trợ lý, những công việc liên quan phân tích…, tỷ lệ được tự động hóa thời gian tới sẽ tăng 87%, trong đó, 21% được đóng góp bởi AI tạo sinh.
+
+Theo các chuyên gia, tốc độ tiến hóa AI ngày càng nhanh. ANI (Artificial Narrow Intelligence) với thuật toán chặt chẽ, mô phỏng các task dập khuôn của con người. Với AGI (Artificial General Intelligence), làm nhiều việc một lúc, nền tảng dữ liệu lớn, thuật toán linh hoạt, chưa có cảm xúc và nhận biết cảm xúc của con người.
+
+Còn ASI (Artificial Super Intelligence) có thể tự học, tự sinh dữ liệu, có khả năng hiểu cảm xúc con người, nhận biết và có khả năng bày tỏ cảm xúc bằng cách mô tả cảm xúc, tự sinh thuật toán, tự lập trình để giải quyết vấn đề gặp phải.
+
+Có thể thấy, AI đang phát triển, dần len lỏi, tác động vào nhiều ngành nghề lĩnh vực, các doanh nghiệp và cả người lao động. Với AI, doanh nghiệp đang đứng trước cả cơ hội lẫn thách thức.
+
+Theo các chuyên gia, người lao động ở một số ngành nghề, lĩnh vực có thể bị tác động mạnh bởi AI và robot trong tương lai gần. Số lượng robot sẽ xuất hiện ngày càng nhiều hơn trong những nhà máy. Những con robot với giá 400-500.000 USD trước kia nay chỉ còn khoảng 30.000 USD nhưng có thể làm việc liên tục 24/7, không ngừng nghỉ…
+
+Trước đây, các hệ thống AI sử dụng toàn bộ dữ liệu do con người làm ra. Tuy nhiên gần đây, AI đã có khả năng tự sinh ra dữ liệu, thuật toán và quyết định sẽ làm gì… Nhiều khi kết quả của Chat GPT gây bất ngờ với cả những người lập trình ra nó.
+
+
+
+Chia sẻ điều này, chuyên gia công nghệ Hoàng Nam Tiến, Phó Chủ tịch Hội đồng trường, Trường Đại học FPT cho hay, “khi tổ chức các cuộc thi marketing đã giấu Chat GPT làm thí sinh và lần nào Chat GPT cũng lọt Top 3 với những đề án kinh doanh tốt, có ý tưởng sáng tạo, kế hoạch xuất sắc”. Đây là mối đe dọa trong tương lai gần.
+
+Báo cáo của Quỹ tiền tệ Quốc tế IMF tại Diễn đàn Kinh tế thế giới mới đây cho hay gần 40% việc làm trên toàn thế giới có thể bị ảnh hưởng bởi sự phát triển của AI.
+
+Một nghiên cứu khác của Viện Toàn cầu McKinsey cho thấy, đến năm 2030, ít nhất 14% nhân sự trên toàn cầu có thể cần phải thay đổi nghề nghiệp do những tiến bộ về công nghệ, robot và AI.
+
+Tuy nhiên, theo ông Tiến, trong tương lai sẽ có hàng trăm triệu công việc mới được ra, giải quyết các vấn đề phức tạp và tiết kiệm sức lực cho loài người khi con người tự học để thay đổi chính bản thân, làm chủ AI và Robot.
+
+Tầng lớp đã có kinh nghiệm, trình độ, tinh thần làm việc tốt vẫn có thể bị mất việc bởi AI. “Tuy nhiên, AI không thay thế con người. Chính những người biết sử dụng AI sẽ thay thế nhóm còn lại”, chuyên gia này nói.
+
+Tại Diễn đàn Kinh tế thế giới, khi nhắc đến phẩm chất, năng lực quan trọng nhất của lao động tương lai 2030, các nhà lãnh đạo đều nhấn mạnh tiêu chí: Có biết sử dụng AI và dữ liệu lớn hay không.
+
+Từ thực tế hiện nay, ông Tiến nhấn mạnh, trong thế giới đang thay đổi mạnh mẽ, đặc biệt với việc ứng dụng AI,  trách nhiệm của người lãnh đạo phải quyết định tâm thế, tinh thần, hành động của mình trước trí tuệ nhân tạo.
+
+Các chuyên gia cho rằng để thành công, cam kết của người đứng đầu là rất quan trọng bởi AI sẽ thay đổi cách chúng ta đang làm. CEO của các công ty nên là người quyết định triển khai các dự án AI.
+
+Và để có thể bắt đầu với AI, các doanh nghiệp phải xác định cơ hội là gì, làm được việc nhanh hơn, tiết kiệm chi phí, hay tạo ra mô hình kinh doanh mới; đồng thời phải đánh giá được tính khả thi và tính rủi ro. Khi ứng dụng AI cũng cần thiết kế để AI và con người cùng làm việc với nhau, trong đó, con người kiểm soát AI làm đúng hay làm sai ở đâu.
+
+Đặc biệt, nhà lãnh đạo tương lai chắc chắn phải am hiểu công nghệ, AI và dữ liệu lớn. Khó nhất trong ứng dụng AI, kể cả doanh nghiệp lớn hay nhỏ, là thay đổi tư duy của lãnh đạo. Nếu lãnh đạo giao trưởng phòng phụ trách việc ứng dụng AI thì chắc chắn thất bại. 70% dự án AI, dữ liệu lớn thất bại do lãnh đạo giao cấp dưới. Nhấn mạnh điều này các chuyên gia cho rằng người tạo thay đổi cho doanh nghiệp trong ứng dụng AI là CEO, COO và CFO, còn lãnh đạo công nghệ chỉ là người hỗ trợ.

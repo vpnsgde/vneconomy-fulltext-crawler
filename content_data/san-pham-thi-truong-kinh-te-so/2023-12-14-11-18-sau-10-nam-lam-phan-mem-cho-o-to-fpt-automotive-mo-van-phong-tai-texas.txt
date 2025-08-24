@@ -1,0 +1,17 @@
+Theo đó, tối ngày 13/12/2923, tại Houston (Texas, Mỹ), FPT đã chính thức công bố thành lập công ty FPT Automotive có trụ sở tại Texas. FPT Automotive đặt mục tiêu trở thành nhà cung cấp dịch vụ và sản phẩm phần mềm cho ngành công nghiệp ô tô đẳng cấp thế giới, đạt doanh thu 1 tỷ đô la vào năm 2030.
+
+FPT tập trung vào các thị trường Mỹ, châu Âu, Nhật Bản, Hàn Quốc, Trung Quốc và Việt Nam.
+
+Theo ông Bảo, FPT Automotive bắt đầu đặt chân vào ngành phần mềm cho ô tô cách đây 10 năm, hiện có hơn 4.000 kỹ sư và chuyên gia trong lĩnh vực phần mềm ô tô, có hơn 150 khách hàng bao gồm các hãng tên tuổi trên thế giới như: Mercedes, BMW, Renault, Toyota, Honda, Nisan, Suzuki, Hyundai, Volvo, VinFast, Ford, Yazaki, LG, Panasonic, NXP….
+
+FPT Automotive cung cấp thông tin giải trí trên xe, thông tin trong xe, bộ điều khiển điện tử (ECU), chức năng an toàn, an ninh bảo mật, thiết kế UI/UX cho ô tô, kết nối không dây và kỹ thuật số. Trọng tâm của các dịch vụ này là các sản phẩm MaaZ, AUTOSAR (lái xe tự động) độc quyền cho các giải pháp ECU chìa khoá trao tay, mà công ty đã phát triển và đạt nhiều thành tựu với khách hàng.
+
+Tận dụng thế mạnh của mình trong phát triển phần mềm, công ty đặt mục tiêu trao quyền cho cả các nhà cung cấp, OEM và các nhà sản xuất chip cấp 1 toàn cầu để họ nâng cao khả năng cạnh tranh và cung cấp phương tiện kết nối thông minh, bền vững.
+
+Thành viên HĐQT FPT cũng cho biết trong thời gian tới FPT Automotive sẽ tập trung vào audio cho ô tô (sản phẩm audio cao cấp, sở hữu bởi FPT), tích hợp trí tuệ nhân tạo AI vào các giải pháp cho SDV (Software Defined Vehicles), phát triển giải pháp CDC (bộ điều khiển khung gầm ô tô) và có một nền tảng lái xe tự động AUTOSAR hoàn chỉnh để đảm bảo phát triển từ đầu đến cuối cho hệ thống phần mềm trên xe ô tô.
+
+Những năm gần đây, phần mềm đóng vai trò ngày càng trở nên quan trọng trong sự phát triển ngày một vượt trội của các dòng xe hơi nói riêng, và công nghiệp ngành ô tô nói chung. Đây cũng chính là yếu tố tạo nên sự khác biệt, gia tăng trải nghiệm người dùng và giúp nhà sản xuất có thêm doanh thu, lợi nhuận.
+
+Các phương tiện hiện đại ngày nay có thể có gần 100 đơn vị điều khiển điện tử, yêu cầu tới 100 triệu dòng mã (code). Phần mềm cùng với cảm biến và các thành phần tương tự, được dự báo sẽ chiếm khoảng 50% chi phí phương tiện vào năm 2030, tăng hơn gấp đôi so với mức 20% của năm 2020.
+
+Ngành công nghiệp ô tô toàn cầu được dự đoán sẽ chi hơn 238 tỷ USD/năm vào năm 2030 khi chuyển dịch từ các dòng xe với hệ truyền động đốt sang xe điện.

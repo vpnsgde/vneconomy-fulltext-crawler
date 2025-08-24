@@ -1,0 +1,33 @@
+Google đã lợi dụng vị thế thống lĩnh trên thị trường tìm kiếm trực tuyến để loại bỏ đối thủ cạnh tranh và cản trở sáng tạo - Bộ Tư pháp Mỹ đưa ra cáo buộc vào ngày 12/9 khi mở đầu cuộc xét xử trong vụ kiện chống độc quyền lớn nhất 1/4 thế kỷ ở Mỹ.
+
+“Vụ kiện này là về tương lai của Internet và sẽ quyết định liệu công cụ tìm kiếm Google có bao giờ phải đương đầu với cạnh tranh thực sự hay không”, luật sư trưởng của Bộ Tư pháp Mỹ, ông Kenneth Dintzer, phát biểu.
+
+Theo hãng tin AP, trong 10 tuần tới đây, các luật sư của Chính phủ liên bang và chưởng lý các tiểu bang sẽ tìm cách để chứng minh rằng Google thao túng thị trường để hưởng lợi bằng cách đưa công cụ tìm kiếm của mình trở thành mặc định ở nhiều địa điểm và thiết bị. Thẩm phán Amit Mehta, người chủ trì cuộc xét xử, có thể sẽ không đưa ra phán quyết trước đầu năm 2024. Nếu ông Mehta xác định Google phạm luật, một cuộc xét xử khác sẽ quyết định những bước đi cần thiết để kiềm chế ảnh hưởng của công ty công nghệ có trụ sở ở Mountain View, California này.
+
+Bộ Tư pháp Mỹ khởi động vụ kiện chống độc quyền nhằm vào Google cách đây gần 3 năm, khi cựu Tổng thống Donald Trump còn cầm quyền. Nhà chức trách cáo buộc “gã khổng lồ” tìm kiếm lợi dụng vị thế dẫn đầu thị trường để giành lợi thế bất bình đẳng trước các đối thủ cạnh tranh. Các luật sư của Chính phủ Mỹ cho rằng Google cản trở cạnh tranh bằng cách chi nhiều tỷ USD mỗi năm để công cụ tìm kiếm của mình được mặc định trên iPhone và các trình duyệt web như Safari của Apple hay Firefox của Mozilla.
+
+“Google chi hơn 10 tỷ USD mỗi năm để có được vị trí ưu tiên như vậy”, luật sư Dintzer nói. “Các hợp đồng của Google đảm bảo rằng đối thủ của Google không thể cạnh tranh về kiếm tiền từ quảng cáo thông qua tìm kiếm, nhất là trên điện thoại. Vòng quay này đã duy trì hơn 12 năm, và mang lại lợi thế cho Google”.
+
+Về phần mình, Google phản bác rằng công ty đối mặt với sự cạnh tranh rộng lớn dù chiếm thị phần khoảng 90% trên thị trường tìm kiếm trực tuyến. Google lập luận rằng các đối thủ cù mình rất đa dạng, từ các công cụ tìm kiếm như Bing của Microsoft cho tới các website như Amazon và Yelp - nơi người tiêu dùng có thể hỏi về việc họ nên mua gì hay đi đâu.
+
+“Có nhiều cách để người dùng truy cập web ngoài các công cụ tìm kiếm mặc định, và mọi người thường xuyên sử dụng những phương thức đó”, luật sư John Schmidtlein của công ty luận Williams & Connolly - đại diện luật pháp của Google trong vụ này - phát biểu.
+
+Luật sư Dintzer lập luận rằng càng nhiều lệnh tìm kiếm mà Google xử lý, công ty này càng thu thập được nhiều dữ liệu, và dữ liệu đó có thể được sử dụng để cải thiện kết quả tìm kiếm trong tương lai và mang lại cho Google lợi thế lớn hơn trước đối thủ. “Dữ liệu người dùng là dưỡng khí cho một công cụ tìm kiếm”, ông Dintzer nói. Nhờ vị thế thống trị thị trường, “các sản phẩm tìm kiếm và quảng cáo của Google tốt hơn so với những gì mà đối thủ mong muốn làm được”.
+
+Ông Dintzer nói đó là lý do vì sao Google trả nhiều tiền đến như vậy để công cụ tìm kiếm của mình trở thành lựa chọn mặc định trên các sản phẩm từ Apple và các công ty khác. Ông cáo buộc Google “bắt đầu vũ khí hoá sự mặc định” từ cách đây khoảng 15 năm, dẫn một tài liệu nội bộ của Google nói rằng các thoả thuận như vậy của công ty là “gót Asin” của các công cụ tìm kiếm đối thủ cung cấp bởi Yahoo và MSN.
+
+Vị luật sư của Chính phủ Mỹ cũng nói Google buộc Apple phải đưa Google trở thành công cụ tìm kiếm mặc định trên các thiết bị “táo khuyết” như một điều kiện để chia sẻ doanh thu. “Đó không phải là đàm phán, mà là Google nói: ‘Chấp nhận thì có hợp đồng, không thì thôi’”, ông Dintzer phát biểu.
+
+Các luật sư đại diện cho phía Washington cũng lập luận rằng các chiến thuật phản cạnh tranh của Google đã ngăn cản Apple phát triển một công cụ tìm kiếm của riêng mình. Ông Dintzer nói Google đã huỷ nhiều tài liệu để tránh bị phát hiện và còn che giấu nhiều tài liệu khác.
+
+Google thì nói rằng chính sự cải thiện không ngừng của công cụ tìm kiếm Google lý giải vì sao người dùng liên tục quay trở lại, hình thành một thói quen khiến cho từ “Googling” trở thành đồng nghĩa với tìm kiếm trên Internet. Ông Schmidtlein nói chính những cải tiến của Google khiến Google tốt hơn Bing. “Ở bất kỳ giai đoạn quan trọng nào, họ đều bị thua trên thị trường”, ông nói.
+
+Cuộc xét xử diễn ra chỉ vài tuần trước ngày kỷ niệm 25 năm khoản đầu tư đầu tiên được rót vào Google. Đó là một tấm séc trị giá 100.000 USD của ông Andy Bechtolsheim, nhà đồng sáng lập Sun Microsystems. Nhờ khoản đầu tư đó, hai nhà đồng sáng lập Google là Larry Page và Sergey Brin đã khởi nghiệp từ một garage ở Thung lũng Silicon.
+
+Giờ đây, công ty mẹ của Google là Alphabet đã đạt tới mức vốn hoá thị trường 1,7 nghìn tỷ USD và có 182.000 nhân viên. Phần lớn doanh thu hàng năm 224 tỷ USD của công ty đến từ quảng cáo, trong đó chủ yếu là quảng cáo trên công cụ tìm kiếm.
+
+Vụ kiện chống độc quyền nhằm vào Google của Bộ Tư pháp Mỹ có nhiều điểm tương đồng với vụ kiện mà cơ quan này nhằm vào Microsoft vào năm 1998. Khi đó, nhà chức trách cáo buộc Microsoft ép các hãng sản xuất máy tính phụ thuộc vào phần mềm hệ điều hành Windows phải đưa trình duyệt Internet Explorer của Microsoft vào sản phẩm.
+
+Google có thể gặp trở ngại nếu phiên toà kết thúc bằng một bản án gây suy giảm sức mạnh của công ty. Một khả năng khác là Google có thể buộc phải dừng việc trả tiền cho Apple và các công ty khác để đưa công cụ tìm kiếm Google trở thành mặc định trên các thiết bị.
+
+Ngoài ra, cuộc đấu pháp lý này cũng có thể khiến Google mất tập trung. Đó là điều đã xảy ra với Microsoft trong vụ kiện chống độc quyền của Bộ Tư pháp Mỹ. Do bị phân tâm, hãng phần mềm lớn nhất thế giới đã không thích nghi được với ảnh hưởng ngày càng lớn của tìm kiếm trên Internet và sự phát triển rầm rộ của smartphone. Google đã tranh thủ được sự xao nhãng đó của Microsoft để vươn mình từ một startup trở thành một “gã khổng lồ” công nghệ mới.

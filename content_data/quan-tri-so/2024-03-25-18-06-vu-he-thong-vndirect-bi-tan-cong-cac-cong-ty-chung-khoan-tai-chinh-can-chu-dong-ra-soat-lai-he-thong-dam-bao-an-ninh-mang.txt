@@ -1,0 +1,31 @@
+Sáng ngày 25/3, trên website và trang Facebook của Công ty cổ phần chứng khoán VNDIRECT (VND), đơn vị này đã thông báo xác nhận việc hệ thống thông tin của đơn vị bị tấn công.
+
+Thông báo của VNDIRECT nêu rõ: “Hệ thống VNDIRECT bị tấn công từ 10h sáng chủ nhật, ngày 24/3/2024. Cho đến sáng nay đội ngũ công nghệ đã xử lý khắc phục được toàn bộ và đang trong quá trình kết nối trở lại để kịp thời gian giao dịch. Tuy nhiên, quá trình hồi phục dự kiến sẽ mất thời gian nên chúng tôi sẽ tiếp tục cập nhật với quý khách hàng”.
+
+Đến 17 giờ ngày 25/3, trên trang Website của VNDIRECT vẫn ở trạng thái thông báo gửi tới khách hàng: “Hệ thống VNDIRECT hiện đang trong quá trình khắc phục và kết nối trở lại. Toàn bộ thông tin và tài sản của Khách hàng đều được đảm bảo trạng thái an toàn, không bị ảnh hưởng. Sự cố chỉ gây ảnh hưởng đến việc giao dịch hiện tại của Quý khách hàng. Chúng tôi đang tiến hành kết nối lại hệ thống, do dữ liệu quá lớn nên mất nhiều thời gian hơn dự kiến. Chúng tôi chân thành xin lỗi vì những bất tiện của quý khách hàng và rất mong nhận được sự thông cảm”.
+
+Chia sẻ với VnEconomy, một chuyên gia an ninh mạng, cho rằng khi 1 công ty chứng khoán bị tấn công, người dùng có thể sẽ có những rủi ro sau: giao dịch bị gián đoạn, gây thiệt hại về kinh tế cho nhà đầu tư; thông tin cá nhân bị lộ lọt; tài khoản bị lộ mật khẩu hoặc đổi mật khẩu.
+
+Nạn nhân (công ty chứng khoán) thường sẽ bị thiệt hại kép, ngoài việc thông tin người dùng có thể bị lộ lọt thì nạn nhân còn phải trả tiền chuộc dữ liệu cho hacker.
+
+
+
+Theo chuyên gia này, “thông thường để tìm ra nguyên nhân đầy đủ của một cuộc tấn công mạng sẽ mất từ 1 đến 2 tuần. Quản trị và các chuyên gia sẽ phải lần theo từng dấu vết để dựng lại toàn bộ cuộc tấn công, từ đó tìm ra lỗ hổng và có phương án phòng chống cho tương lai”.
+
+VND có một số lượng khách hàng rất lớn, chưa rõ mức độ ảnh hưởng của khách hàng trong sự cố này nghiêm trọng đến đâu, tuy vậy vị chuyên gia này cũng hy vọng không có những lộ lọt liên quan đến dữ liệu cá nhân hay tài khoản người dùng.
+
+Đưa ra khuyến cáo với người dùng cuối, chuyên gia này cho rằng người dùng cần đổi mật khẩu ngay khi hệ thống hoạt động trở lại để đảm bảo tài khoản vẫn trong kiểm soát của mình.
+
+Hiện tại các cơ quan chức năng đang làm việc và sẽ cần chờ thông tin chính thức. Tại thời điểm này vụ việc mới xảy ra nên khả năng đánh giá tình hình là chưa rõ ràng.
+
+
+
+Cũng theo chuyên gia an ninh mạng, “xu hướng tấn công kết hợp mã hoá dữ liệu tống tiền là một xu hướng sẽ thịnh hành trong thời gian tới”.
+
+Tuy nhiên, thông qua vụ việc này cũng là cảnh báo để tất cả các công ty chứng khoán cũng như tổ chức tài chính cần chủ động rà soát lại hệ thống đảm bảo an ninh mạng.
+
+Chuyên gia an ninh mạng nhận xét: công ty chứng khoán cũng là một trong những tổ chức đầu tư nhiều cho hệ thống công nghệ thông tin, trong đó có an ninh mạng.
+
+Nhưng rõ ràng cần phải có cách làm mới hơn, thay vì chỉ tập trung vào đầu tư về mặt công nghệ. Đã đến lúc các công ty chứng khoán cần thực hiện theo mô hình phòng thủ 4 lớp do Bộ Thông tin và Truyền thông hướng dẫn.
+
+Theo đó, một tổ chức cần có lực lượng an ninh mạng tại chỗ, tổ chức kiểm tra đánh giá an ninh mạng thường xuyên, thuê dịch vụ giám sát an ninh mạng chuyên nghiệp và kết nối chia sẻ thông tin với các trung tâm an ninh mạng quốc gia”, chuyên gia nói với VnEconomy.

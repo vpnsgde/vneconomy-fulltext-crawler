@@ -1,0 +1,51 @@
+Việt Nam đặt mục tiêu trở thành quốc gia dẫn đầu về AI tại ASEAN vào năm 2030. Từ góc độ một tập đoàn công nghệ toàn cầu và kinh nghiệm tại Singapore, ông đánh giá đâu là thách thức lớn nhất và cơ hội nào cho Việt Nam trong việc ứng dụng và phát triển AI, đặc biệt trong sản xuất thông minh?
+
+Mọi quốc gia, mọi công ty đều phải trải qua hành trình phát triển AI.
+
+Ví dụ, tại Singapore, Chính phủ đang thúc đẩy rất mạnh mẽ việc bồi dưỡng nhân tài AI thông qua các khoản trợ cấp và quỹ cho các dự án cốt lõi.
+
+Tại Việt Nam, thách thức chính có lẽ là nguồn nhân lực. Tuy nhiên, đây cũng chính là cơ hội lớn. Việt Nam có dân số trẻ, độ tuổi trung bình khoảng 30, với rất nhiều người trẻ nhiệt huyết, sẵn sàng học hỏi.
+
+Ngành AI được dự báo tăng trưởng 26%, và những kết quả kinh doanh ấn tượng từ các công ty như NVIDIA (doanh thu quý gần nhất đạt 44 tỷ USD so với doanh thu cùng kỳ năm ngoái là 26 tỷ USD)) cho thấy tiềm năng khổng lồ.
+
+Các doanh nghiệp Việt Nam đang cho thấy sự quan tâm lớn tới lĩnh vực này. Tôi đã gặp một doanh nhân có kinh nghiệm ở Mỹ và Singapore, nay trở về Việt Nam thành lập nhóm AI với 10 kỹ sư giỏi chỉ sau vài tháng. Đây là minh chứng cho việc Chính phủ đang thu hút nhân tài, đặc biệt là người Việt ở nước ngoài, trở về xây dựng năng lực sản xuất và tự động hóa thông minh.
+
+FPT cũng là một ví dụ điển hình về công ty công nghệ mạnh, đã vượt qua nhiều thách thức để hợp tác với các khách hàng lớn toàn cầu.
+
+Tuy nhiên, các startup sẽ cần sự hỗ trợ rất lớn để có thể phát triển và vững vàng. Nếu Chính phủ cung cấp các khoản trợ cấp hoặc các nhà đầu tư mạo hiểm tạo điều kiện về tài chính, các startup trẻ sẽ có cơ hội thành công lớn hơn.
+
+Ông nhìn thấy sự quan tâm của doanh nghiệp Việt Nam vào lĩnh vực này. Đây chắc hẳn là lý do Avnet tổ chức sự kiện AI Tech Days mới đây, sau khi đã tổ chức Green Days 2 năm trước, thưa ông?
+
+Chúng tôi nhận thấy sự phát triển mạnh mẽ và nhu cầu ngày càng tăng từ các khách hàng tại Việt Nam, điển hình là VinFast - khách hàng lớn nhất của chúng tôi tại đây. Sự kiện Avnet AI Tech Days tại Hà Nội và TP. Hồ Chí Minh, thu hút đông đảo người tham dự, là minh chứng cho sự quan tâm này.
+
+Dù không phải là đơn vị đầu tiên tổ chức sự kiện về AI, nhưng với vai trò là nhà cung cấp giải pháp và phân phối linh kiện công nghệ, Avnet có lẽ là người tiên phong theo cách này tại Việt Nam.
+
+Mục tiêu cốt lõi của chúng tôi là nâng cao năng lực cho hệ sinh thái AI đang phát triển của Việt Nam. Chúng tôi muốn giải quyết các thách thức quan trọng về thiết kế và chuỗi cung ứng, vốn là rào cản cho việc áp dụng các công nghệ tiên tiến.
+
+Với hơn 100 năm kinh nghiệm toàn cầu, sự kiện này khẳng định tầm nhìn của Avnet là trở thành nhà phân phối được ưu tiên, đóng góp vào trung tâm phát triển công nghệ của Việt Nam. Chúng tôi mong muốn thúc đẩy hợp tác giữa các nhà lãnh đạo ngành, giới học thuật và nhà phát triển, kiến tạo các giải pháp AI có khả năng mở rộng, giải quyết các thách thức thực tiễn.
+
+Để thúc đẩy hợp tác giữa các bên và xây dựng hệ sinh thái AI tại Việt Nam, Avnet mang đến những giải pháp, kinh nghiệm và năng lực chuyên môn cụ thể nào, thưa ông?
+
+Tại các sự kiện này, chúng tôi tự hào có sự đồng hành của khoảng 10 đối tác hàng đầu như AMD, Infineon, Micron, NXP, Supermicro... Điều này cho thấy chúng tôi giới thiệu một hệ sinh thái toàn diện gồm các giải pháp và năng lực AI. Đây là yếu tố cực kỳ quan trọng cho các mục tiêu phát triển quốc gia của Việt Nam trong sản xuất thông minh, di động đô thị và chuyển đổi số.
+
+Với mạng lưới kỹ thuật toàn cầu, đặc biệt là Avnet Design Services tại châu Á mà tôi đang phụ trách, chúng tôi cung cấp chuyên môn sâu rộng để giúp khách hàng tích hợp hiệu quả các công nghệ đa dạng. Chúng tôi không chỉ hỗ trợ thiết kế toàn diện mà còn đảm bảo một chuỗi cung ứng vững chắc, giúp các nhà đổi mới tự tin vượt qua sự phức tạp của các giải pháp AI. Từ nhà cung cấp tụ điện đến các đối tác máy chủ, chúng tôi tạo ra một hệ sinh thái AI hoàn chỉnh.
+
+Singapore đã rất thành công trong việc xây dựng hệ sinh thái AI. Ông có thể chia sẻ cụ thể hơn về các chính sách của Singapore đã hỗ trợ startup và doanh nghiệp AI, cũng như cách Singapore thu hút các "ông lớn" trong lĩnh vực AI?
+
+Singapore đã có nhiều năm nghiên cứu và phát triển khoa học công nghệ nói chung và AI nói riêng với rất nhiều chính sách và chương trình khuyến khích, hỗ trợ. Chẳng hạn, Chính phủ Singapore đã thành lập AI Singapore (AISG - chương trình quốc gia do Quỹ Nghiên cứu Quốc gia – NRF khởi xướng), đặt tại Đại học Quốc gia Singapore (NUS), với khoảng 50-60 chuyên gia. Trong đó, AISG thực hiện hai chương trình nổi bật.
+
+Thứ nhất, AIAP (AI Apprenticeship Programme): Chương trình này khuyến khích các doanh nghiệp vừa và nhỏ (SME), thậm chí cả các công ty đa quốc gia như Avnet, tham gia. Mỗi bên đóng góp hiện vật (khoảng 40.000 đô la Singapore) cho một dự án. Avnet sẽ đưa ra một vấn đề cần AI giải quyết (ví dụ: dọn dẹp tồn kho, cải thiện quy trình công nghệ thông tin). AISG sẽ chỉ định một chuyên gia làm trưởng dự án và tuyển 3 học viên (bất kể nền tảng, miễn là có đam mê lập trình và vượt qua bài kiểm tra) làm việc toàn thời gian trong 3-4 tháng với Avnet để thực hiện dự án. Sau đó, Avnet sẽ tiếp quản. Đây là mô hình rất thành công để phát triển nhân tài và ứng dụng AI.
+
+Thứ hai, 100E (100 Experiments): Chương trình này tìm kiếm 500 công ty để thử nghiệm hỗ trợ AI từ AISG, sử dụng chuyên gia của họ để giúp các công ty ứng dụng AI thành công.
+
+Về việc thu hút các công ty AI hàng đầu thế giới, Singapore có những lợi thế nhất định so với những quốc gia khác như kết nối được đảm bảo, đủ điện năng cho các trung tâm dữ liệu, và sự dễ dàng trong kinh doanh. Dù chi phí ở Singapore đắt đỏ hơn so với các nơi khác, các công ty như Google, TikTok, Tencent, Amazon và Meta… vẫn đặt cơ sở tại đây.
+
+Theo cách hiểu của tôi, để mở rộng các trung tâm dữ liệu, Chính phủ Singapore đã tìm cách chuyển đổi các nhà kho cũ thành trung tâm dữ liệu. Vì vậy, cũng giống như Singapore, để thu hút ngày càng nhiều các tập đoàn lớn, Việt Nam có thể cân nhắc các giải pháp ưu đãi thuế nhưng sự thuận tiện và vị trí trung tâm sẽ là yếu tố then chốt, tương tự như cách Singapore thu hút các công ty và sự kiện lớn.
+
+Với tiềm năng và nhu cầu rõ ràng của Việt Nam, Avnet có những cam kết dài hạn nào để chung tay cùng Việt Nam hiện thực hóa mục tiêu trở thành trung tâm AI hàng đầu ASEAN, thưa ông?
+
+Việt Nam luôn khiến chúng tôi bất ngờ với những startup mới và các công ty không ngừng phát triển. Đây là lý do tại sao Việt Nam là quốc gia duy nhất ở châu Á mà chúng tôi đang tập trung đầu tư nguồn lực đáng kể. Chất lượng kỹ sư Việt Nam là thuộc nhóm đầu trong khu vực, họ trẻ và học rất nhanh.
+
+Với tiềm năng phát triển của thị trường, Avnet cam kết tiếp tục đầu tư vào con người, tuyển dụng, đào tạo và bồi dưỡng nhân tài AI tại Việt Nam; thành lập phòng thí nghiệm đổi mới (Innovation Labs) nhằm thúc đẩy nghiên cứu và phát triển AI; hợp tác với các trường Đại học Nha Trang và Đại học Khoa học và Công nghệ Hà Nội; xây dựng Trung tâm thiết kế địa phương nhằm cung cấp hỗ trợ chuyên biệt tại Hà Nội và TP. Hồ Chí Minh trong việc tạo mẫu AI, học máy và tối ưu hóa chuỗi cung ứng; và hỗ trợ doanh nghiệp Việt Nam tiếp cận chuỗi cung ứng toàn cầu.
+
+Chúng tôi tin rằng với những nỗ lực này, Avnet sẽ đóng góp thiết thực vào sự phát triển của hệ sinh thái AI tại Việt Nam.

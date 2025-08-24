@@ -1,0 +1,9 @@
+Nghị định số 59/2022/NĐ-CP quy định, thông tin lịch sử về việc sử dụng tài khoản định danh điện tử được lưu trữ trong hệ thống định danh và xác thực điện tử với thời hạn 05 năm kể từ thời điểm sử dụng tài khoản. Thông tin về tài khoản định danh điện tử được lưu trữ vĩnh viễn trong hệ thống định danh và xác thực điện tử.
+
+Nghị định cũng quy định về khai thác thông tin trong hệ thống định danh và xác thực điện tử. Trong đó, hệ thống thông tin của cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị xã hội, tổ chức cung cấp dịch vụ công kết nối với hệ thống định danh và xác thực điện tử để khai thác thông tin của chủ thể danh tính điện tử phục vụ giải quyết thủ tục hành chính, dịch vụ hành chính công trên môi trường điện tử và các hoạt động quản lý nhà nước khác theo chức năng, nhiệm vụ được giao qua Nền tảng định danh và xác thực điện tử.
+
+Ngoài ra, cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị xã hội, tổ chức cung cấp dịch vụ công khai thác thông tin trong hệ thống định danh và xác thực điện tử qua ứng dụng VNelD, trang thông tin định danh điện tử, thẻ Căn cước công dân gắn chíp điện tử bằng thiết bị, phần mềm đáp ứng yêu cầu kỹ thuật do Bộ trưởng Bộ Công an hướng dẫn.
+
+Chủ thể danh tính điện tử khai thác, chia sẻ thông tin danh tính điện tử (trừ thông tin sinh trắc học) và thông tin khác của mình đã được tích hợp vào tài khoản định danh điện tử trên hệ thống định danh và xác thực điện tử với cá nhân, tổ chức khác qua ứng dụng VNelD.
+
+Theo đó, trình tự, thủ tục đăng ký tài khoản định danh điện tử đối với công dân Việt Nam quy định: Đăng ký tài khoản định danh điện tử mức độ 1 qua ứng dụng VNelD đối với công dân đã có thẻ Căn cước công dân gắn chíp điện tử. Cơ quan Công an tiến hành cấp tài khoản định danh điện tử mức độ 2 cùng với cấp thẻ Căn cước công dân với trường hợp công dân chưa được cấp Căn cước công dân gắn chíp điện tử.

@@ -1,0 +1,21 @@
+Chương trình Thách thức Đổi mới sáng tạo Việt Nam (Vietnam Innovation Challenge - VIC) do Bộ Kế hoạch và Đầu tư chủ trì, Trung tâm Đổi mới sáng tạo Quốc gia (NIC) phối hợp với Tập đoàn Meta tổ chức nhằm tìm kiếm các giải pháp đổi mới sáng tạo từ các tổ chức/cá nhân trên toàn thế giới để giải quyết những thách thức quan trọng tầm quốc gia, hướng đến một Việt Nam phát triển thịnh vượng và bền vững.
+
+Đến thời điểm này, Chương trình đã tiếp nhận tổng cộng 758 hồ sơ đăng ký giải pháp đến từ nhiều cá nhân, doanh nghiệp tại Việt Nam và quốc tế trong 8 lĩnh vực khác nhau. Trong đó, gần 60% đến từ các doanh nghiệp khởi nghiệp, còn lại đến từ các tập đoàn, doanh nghiệp vừa và nhỏ đổi mới sáng tạo với đa dạng loại hình công nghệ được áp dụng.
+
+Không chỉ đến từ Việt Nam, các doanh nghiệp nộp hồ sơ đăng ký giải pháp còn đến từ các nước và vùng lãnh thổ có hệ sinh thái đổi mới sáng tạo năng động và phát triển như Singapore, Hàn Quốc, Mỹ, Hong Kong (Trung Quốc), Philippines...
+
+Những doanh nghiệp tham gia cũng là những gương mặt uy tín trong làng công nghệ, nhận được nhiều giải thưởng trong các cuộc thi, tiêu biểu như: Công ty Công nghệ Thông tin VNPT với Giải pháp nhận diện khuôn mặt, Nền tảng số họp trực tuyến từ; Công ty Cổ phần MISA mang tới Nền tảng Quản trị Doanh nghiệp hợp nhất; Công ty Cổ phần EM và AI cùng Bộ giải pháp AI phân tích và giám sát cuộc gọi tự động dành cho tổng đài doanh nghiệp EM&AI; Công ty Cổ phần Công nghệ Retex với Nền tảng quản trị sản xuất tinh gọn theo thời gian thực…
+
+Các giải pháp đang tập trung vào 4 vấn đề chính:
+
+Thứ nhất,nâng cao năng lực quản trị cho doanh nghiệp nhỏ và vừa qua chuyển đổi số. Sự phát triển kinh tế của Việt Nam hiện nay phụ thuộc lớn vào doanh nghiệp nhỏ và vừa (SMEs). Tuy nhiên, để đối mặt với sự biến đổi nhanh chóng của thế giới kỹ thuật số, các SMEs thường gặp khó khăn trong việc nâng cao năng lực quản trị. Các giải pháp tập trung vào cung cấp công cụ quản trị hiện đại như quản lý dữ liệu, phân tích thị trường, và quản lý tài chính, nhằm tăng khả năng cạnh tranh và bền vững cho hệ thống doanh nghiệp nhỏ và vừa.
+
+Thứ hai,ứng dụng chuyển đổi số hỗ trợ doanh nghiệp nhỏ và vừa tham gia chuỗi giá trị toàn cầu. Việc kết nối vào chuỗi giá trị toàn cầu không chỉ mở rộng thị trường và tăng cường sự phát triển cho doanh nghiệp Việt Nam, mà còn giúp SMEs tiếp cận công nghệ và quy trình sản xuất tiên tiến. Các giải pháp chuyển đổi số được áp dụng để tối ưu hóa sản xuất, quản lý và giao dịch, giúp SMEs trở thành một phần quan trọng của chuỗi giá trị toàn cầu và thúc đẩy tăng trưởng kinh tế.
+
+Thứ ba, tăng cường liên kết giữa doanh nghiệp FDI, doanh nghiệp lớn và SMEs thông qua nền tảng số. Hợp tác giữa doanh nghiệp trong và ngoài nước đóng vai trò quan trọng trong việc chia sẻ kiến thức, công nghệ và tạo điều kiện thuận lợi cho sự phát triển. Các giải pháp tăng cường liên kết thông qua nền tảng số tạo môi trường hỗ trợ giao lưu, hợp tác và chia sẻ thông tin giữa các doanh nghiệp. Điều này giúp tận dụng lợi ích từ sự kết hợp tài nguyên và năng lực khác nhau, thúc đẩy phát triển bền vững.
+
+Thứ tư, tăng cường đối thoại hiệu quả giữa Chính Phủ và doanh nghiệp qua nền tảng số. Mối quan hệ và giao tiếp liên tục giữa chính phủ và doanh nghiệp đóng vai trò quan trọng trong việc xác định hướng đi chung và tạo môi trường kinh doanh thuận lợi. Các giải pháp tăng cường đối thoại thông qua nền tảng số giúp giảm bớt thời gian và khoảng cách về thông tin, tạo cơ hội cho doanh nghiệp tham gia vào việc định hình chính sách và quyết định có ảnh hưởng.
+
+Chương trình lần này có sự đồng hành của cơ quan trung ương và địa phương, nhiều doanh nghiệp trong nước và quốc tế như Tập đoàn Meta, Viettel, FPT, THACO, SK Group, CMC Corporations… và nhiều quỹ đầu tư, tổ chức hỗ trợ doanh nghiệp, như Enterprise Singapore, Quest Ventures, Do Ventures, Sunhwa Inno, Zone Startups Vietnam…
+
+Những giải pháp xuất sắc nhất sẽ có cơ hội nhận giải thưởng tổng trị giá lên đến 300.000 USD cùng các gói hỗ trợ toàn diện về nâng cao năng lực, nghiên cứu phát triển sản phẩm, không gian làm việc, quảng bá giải pháp và mở rộng thị trường. Đặc biệt, các cá nhân/tổ chức chiến thắng sẽ tham gia chuỗi hoạt động giới thiệu và triển khai thí điểm đến các tỉnh, thành phố lớn tại Việt Nam.

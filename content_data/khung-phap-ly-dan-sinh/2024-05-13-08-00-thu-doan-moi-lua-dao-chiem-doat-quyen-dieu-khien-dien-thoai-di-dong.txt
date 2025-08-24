@@ -1,0 +1,35 @@
+Ngày 12/5, Cổng thông tin điện tử Công an tỉnh Hà Nam phát thông báo về thủ đoạn lừa đảo chiếm đoạt quyền điều khiển điện thoại di động.
+
+Thời gian qua lực lượng Công an và các cơ quan chức năng liên tục cảnh báo về hình thức lừa đảo đang nở rộ ở nhiều thành phố lớn.
+
+Các đối tượng thường giả danh cán bộ công an, viện kiểm sát, tòa án, cơ quan thuế hoặc dịch vụ công…, liên hệ với khách hàng qua nhiều hình thức như: Gọi điện, nhắn tin hoặc kết bạn qua mạng xã hội, ứng dụng "chat", viện cớ hỗ trợ quyết toán thuế, hỗ trợ thủ tục hoàn thuế, xác minh tài khoản dịch vụ công... để đề nghị cập nhật thông tin.
+
+Đối tượng cung cấp các đường link tải các ứng dụng giả mạo, dụ dỗ, đe dọa, thúc ép người dùng điện thoại di động nhấn vào đường link tải, cài đặt phần mềm, ứng dụng có chứa mã độc.
+
+Sau khi người dùng cài đặt, các ứng dụng giả mạo chứa mã độc này sẽ yêu cầu cung cấp "quyền trợ năng" cho phép truy cập vào các thiết bị, như: xem màn hình, hành động, dữ liệu nhập, điều khiển màn hình... và tiến hành theo dõi, thu thập, đánh cắp toàn bộ thông tin cá nhân trên điện thoại, như: tên đăng nhập, mật khẩu, mã xác thực giao dịch ngân hàng được gửi đến trên điện thoại (OTP SMS/OTP Safekey)....
+
+Đến thời điểm thích hợp, các đối tượng sẽ chiếm quyền điều khiển thiết bị và truy cập các ứng dụng ngân hàng để chuyển tiền, chiếm đoạt tiền trên tài khoản ngân hàng của người dùng.
+
+Điện thoại di động bị cài đặt những ứng dụng giả mạo sẽ xuất hiện nhiều dấu hiệu đáng ngờ, như: máy mau hết pin và chạy chậm, xuất hiện ứng dụng lạ trên điện thoại, ứng dụng tự động bật lên ngay cả khi không sử dụng điện thoại, lưu lượng di động bất ngờ hao hụt nhanh, máy nóng lên bất thường....
+
+Để bảo đảm an toàn thông tin và phòng tránh các đối tượng lừa đảo chiếm quyền điều khiển điện thoại di động, cơ quan Công an khuyến cáo người dân cần đề cao cảnh giác và thực hiện một số biện pháp sau:
+
+- Tắt ngay "quyền trợ năng" đối với các ứng dụng, qua đó có thể ngăn chặn kịp thời, hạn chế tối đa các đối tượng lừa đảo chiếm quyền truy cập, điều khiển điện thoại.
+
+- Chỉ tải, cài đặt các ứng dụng trên CH Play (hệ điều hành Android) hoặc App Store (hệ điều hành IOS).
+
+Tuyệt đối không được nhấn vào các liên kết gửi qua tin nhắn, mạng xã hội từ nguồn cung cấp chưa xác thực, không cài đặt các ứng dụng không rõ nguồn gốc, không nghe cuộc gọi và thực hiện theo yêu cầu của đối tượng lạ tự xưng là nhân viên thuế, cán bộ công an, dịch vụ công... dưới bất kỳ hình thức nào.
+
+Lực lượng Công an, viện kiểm sát, tòa án và các cơ quan Nhà nước… nếu làm việc với người dân sẽ có giấy mời, giấy triệu tập gửi cho người đó và làm việc trực tiếp tại các trụ sở cơ quan, không làm việc online qua mạng…
+
+- Nên sử dụng các phương thức bảo vệ tài khoản bằng sinh trắc học như vân tay, FaceID... để đăng nhập ứng dụng ngân hàng và các ứng dụng thanh toán khác. Đặc biệt, không nên lưu thông tin bảo mật dịch vụ ngân hàng trên các phần mềm, ứng dụng trên điện thoại.
+
+- Tuyệt đối không cho phép bất kỳ cá nhân nào truy cập trực tiếp vào máy tính, điện thoại của mình để hỗ trợ cài đặt, sử dụng các phần mềm. Khi cài đặt các ứng dụng, người dân cần kiểm tra kỹ thông tin, quyền truy cập và các tính năng, tránh cài đặt ứng dụng yêu cầu cấp quyền truy cập tệp tin, tin nhắn, điều khiển màn hình,...
+
+- Khi sử dụng Internet Banking cần tắt toàn bộ quyền trợ năng cho các ứng dụng nguy hại rồi mới có thể đăng nhập thành công vào các ứng dụng ngân hàng và thực hiện giao dịch.
+
+Theo các chuyên gia bảo mật đánh giá hành động này có thể bảo vệ an toàn 100% cho người dân đã trót cấp quyền trợ năng cho các ứng dụng không an toàn.
+
+- Trong trường hợp nghi ngờ thiết bị di động của mình bị chiếm quyền hoặc dính mã độc, người dân cần thực hiện một số cách xử lý như sau: Nhập sai mật khẩu 5 lần liên tiếp để khóa truy cập vào các ứng dụng ngân hàng và ứng dụng thanh toán khác hoặc liên hệ với ngân hàng để tạm khóa dịch vụ, rà soát các ứng dụng trên điện thoại.
+
+Trong trường hợp nhận được tin nhắn trên các nền tảng mạng xã hội và cuộc gọi bất thường, có dấu hiệu lừa đảo, người dân cần trình báo cơ quan công an để ngăn chặn và xử lý kịp thời theo quy định của pháp luật.

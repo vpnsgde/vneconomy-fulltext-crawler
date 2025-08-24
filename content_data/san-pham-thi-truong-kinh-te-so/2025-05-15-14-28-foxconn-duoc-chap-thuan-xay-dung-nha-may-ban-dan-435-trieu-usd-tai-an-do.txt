@@ -1,0 +1,23 @@
+Theo TechCrunch, đây là bước đi chiến lược không chỉ của Foxconn mà còn của Apple nhằm đa dạng hóa chuỗi cung ứng, giảm dần sự phụ thuộc vào Trung Quốc và tăng cường hiện diện Ấn Độ, thị trường “trỗi dậy” cả về tiêu dùng công nghệ lẫn năng lực sản xuất.
+
+Nhà máy sẽ toạ lạc gần sân bay Jewar, ở bang Uttar Pradesh, phía Bắc Ấn Độ, và dự kiến sẽ bắt đầu hoạt động vào năm 2027. Bộ trưởng Công nghệ Thông tin Ấn Độ Ashwini Vaishnaw cho biết nhà máy sẽ sản xuất chip điều khiển màn hình dùng cho điện thoại, laptop, ô tô, máy tính cá nhân và nhiều thiết bị khác. Chip điều khiển màn hình giúp hiển thị hình ảnh, chữ viết và video trên màn hình.
+
+Tuy nhiên, do Ấn Độ chưa có nhà máy sản xuất chip hiện đại, nhà máy này ban đầu sẽ không sản xuất chip mà chỉ làm nhiệm vụ lắp ráp và kiểm tra chất bán dẫn (OSAT). Một quan chức Ấn Độ xác nhận với TechCrunch rằng nhà máy sẽ tập trung vào các dịch vụ đóng gói và kiểm tra cho các chip đã được sản xuất ở nơi khác.
+
+Bộ trưởng Công nghệ Thông tin Ấn Độ kỳ vọng dự án này sẽ tạo đà cho ngành công nghiệp vi mạch nội địa phát triển, tiến tới tự chủ trong sản xuất chip để cung cấp cho các thiết bị của Apple, bắt đầu với các chip điều khiển màn hình mà nhà máy hiện tại sẽ thử nghiệm.
+
+Ông Ashwini Vaishnaw cho biết: “Khi đi vào hoạt động, nhà máy sẽ thử nghiệm sản xuất các chip điều khiển màn hình với công suất lên tới 20.000 tấm wafer mỗi tháng, tương đương khoảng 36 triệu chip”.
+
+Động thái này đã phản ánh nỗ lực của Apple trong việc “dịch chuyển trọng tâm” sản xuất ra khỏi Trung Quốc. Chỉ vài ngày trước đó, CEO Apple Tim Cook đã chia sẻ rằng việc mở rộng lắp ráp tại Ấn Độ là một phần trong chiến lược đối phó với những bất ổn trong quan hệ thương mại Mỹ - Trung.
+
+Ông cũng hàm ý rằng việc gắn bó sâu hơn với thị trường Ấn Độ sẽ giúp Apple tránh phải tăng giá sản phẩm do ảnh hưởng của thuế quan, mặc dù công ty vẫn đang cân nhắc khả năng tăng giá.
+
+Hiện tại, Apple đã tăng gấp đôi giá trị iPhone lắp ráp tại Ấn Độ để xuất khẩu sang Mỹ và các thị trường khác, đồng thời lên kế hoạch mở rộng sản xuất tại đây, bao gồm cả thiết bị AirPods.
+
+Ấn Độ chưa tiết lộ cụ thể các ưu đãi mà chính phủ dành cho Foxconn trong liên doanh này. Tuy nhiên, theo chương trình hỗ trợ phát triển ngành bán dẫn do Chính phủ nước này điều hành, các công ty có thể nhận được khoản hỗ trợ tài chính lên đến 50% chi phí đầu tư để xây dựng cơ sở sản xuất.
+
+Được biết, vào tháng 1 năm ngoái, công ty con Hon Hai Technology India Mega Development của Foxconn đã công bố kế hoạch đầu tư 37,2 triệu USD cho 40% cổ phần trong liên doanh với HCL.
+
+Quyết định phê duyệt mới nhất được đưa ra chỉ tám tháng sau khi Chính phủ Ấn Độ chấp thuận đề xuất của Kaynes Semicon, công ty con của Kaynes Technology (Ấn Độ) xây dựng nhà máy bán dẫn tại Sanand, bang Gujarat, với số vốn dự kiến 33 tỷ rupee (386 triệu USD).
+
+Tháng 2 năm ngoái, chính phủ Ấn Độ cũng đã duyệt gói hỗ trợ 1,26 nghìn tỷ rupee (khoảng 15 tỷ USD) để xây dựng ba nhà máy bán dẫn đầu tiên theo chương trình khuyến khích trị giá 10 tỷ USD được công bố từ năm 2021, trong đó có nhà máy sản xuất chip đầu tiên của nước này.

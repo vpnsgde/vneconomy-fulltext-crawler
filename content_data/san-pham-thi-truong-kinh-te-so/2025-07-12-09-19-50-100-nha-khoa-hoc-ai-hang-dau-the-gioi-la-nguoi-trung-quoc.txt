@@ -1,0 +1,27 @@
+Một nửa trong số 100 nhà khoa học AI hàng đầu thế giới hiện đang làm việc tại các viện nghiên cứu hoặc doanh nghiệp ở Trung Quốc, và đều là người gốc Trung.
+
+Ngoài ra, trong số 20 nhà khoa học AI hàng đầu đang làm việc tại Mỹ, cũng có đến một nửa là người gốc Hoa.
+
+Kết quả trên được đưa ra từ phân tích chung của Văn phòng Xúc tiến Đầu tư Trung Quốc thuộc Tổ chức Phát triển Công nghiệp Liên Hợp Quốc (UNIDO ITPO Trung Quốc) và công ty công nghệ Dongbi (Thâm Quyến).
+
+Nhóm nghiên cứu đã rà soát khoảng 96.000 bài báo khoa học của gần 200.000 nhà nghiên cứu AI trong giai đoạn 2015–2024. Danh sách 100 người đứng đầu được chọn dựa trên mức độ ảnh hưởng học thuật, chẳng hạn như số lần bài viết được trích dẫn và các công trình được trình bày tại các hội nghị lớn.
+
+Tuy nhiên, danh tính cụ thể của từng người không được công bố.
+
+Theo tờ South China Morning Post, sự hiện diện của nhiều nhà khoa học người Trung Quốc ngày càng dễ thấy tại các viện nghiên cứu danh tiếng ở Mỹ. Chẳng hạn như Kaiming He, Phó giáo sư tại Viện Công nghệ Massachusetts (MIT), và Jun-Yan Zhu, Phó giáo sư ngành khoa học máy tính tại Đại học Carnegie Mellon. Cả hai đều là chuyên gia nổi tiếng hàng đầu trong lĩnh vực thị giác máy tính.
+
+Trong cuộc chạy đua thu hút nhân tài AI tại Thung lũng Silicon, nhiều nhà khoa học Trung Quốc cũng đang là mục tiêu săn đón hàng đầu. Vào cuối tháng 6 vừa qua, có thông tin rằng hai cựu sinh viên Đại học Thanh Hoa là Zhu Banghua và Jiao Jiantao, đều từng giảng dạy tại Đại học Washington và Đại học California, đã gia nhập tập đoàn sản xuất chip NVIDIA của Mỹ để tăng cường năng lực nghiên cứu AI của gã khổng lồ này.
+
+Không chỉ vậy, theo thông tin từ Wall Street Journal và The Information, gã khổng lồ Meta cũng đã tuyển dụng ít nhất 5 nhà nghiên cứu AI người Trung Quốc từng làm việc tại OpenAI. Trong số này có ông Zhai Xiaohua, từng làm việc cho OpenAI, được coi là đã góp phần quan trọng vào việc phát triển nhiều mô hình AI cốt lõi của OpenAI.
+
+Tuy nhiên, báo cáo cũng chỉ ra Mỹ vẫn là quốc gia dẫn đầu về nguồn nhân lực AI, còn Trung Quốc xếp thứ hai. Hai nước này cũng là hai quốc gia đứng đầu về mức độ ảnh hưởng học thuật trong lĩnh vực AI.
+
+Cụ thể, số lượng nhà nghiên cứu AI tại Trung Quốc đã tăng mạnh từ 10.000 người vào năm 2015 lên 52.000 người vào năm ngoái, tương đương với tốc độ tăng trưởng trung bình hàng năm là 28,7%. Tuy nhiên, xét về quy mô nguồn nhân lực, Mỹ vẫn dẫn đầu với hơn 63.000 chuyên gia AI.
+
+Về mặt ảnh hưởng học thuật, Mỹ tiếp tục vượt xa phần còn lại. Trong vòng một thập kỷ qua, Mỹ đã công bố hơn 35.000 bài báo nghiên cứu AI với tổng số lượt trích dẫn hơn 2,28 triệu. Trong khi đó, Trung Quốc đã công bố 31.694 bài và nhận được khoảng 949.000 lượt trích dẫn.
+
+Tuy vậy, Trung Quốc đang thu hẹp khoảng cách nhanh chóng. Theo dữ liệu từ trang AIRankings, kể từ năm 2022, Đại học Bắc Kinh đã đứng đầu thế giới về sản lượng nghiên cứu AI.
+
+Cùng theo bảng xếp hạng này, Đại học Thanh Hoa và Đại học Chiết Giang lần lượt giữ vị trí thứ hai và thứ ba. Trong số 10 trường đại học có thành tích nghiên cứu AI nổi bật nhất thế giới, Trung Quốc chiếm tới một nửa. Hai vị trí khác trong top 10 cũng thuộc về các trường đại học tại châu Á.
+
+Theo các nhà quan sát, về dài hạn, nếu số lượng nhân lực AI của Trung Quốc tăng trưởng đều đặn như thời điểm hiện tại, đồng thời Trung Quốc tiếp tục giữ nhịp đầu tư và cải thiện năng lực hạ tầng nhất là chip, siêu máy tính và nguồn dữ liệu huấn luyện, những kịch bản mới về trật tự AI là hoàn toàn có thể xảy ra.

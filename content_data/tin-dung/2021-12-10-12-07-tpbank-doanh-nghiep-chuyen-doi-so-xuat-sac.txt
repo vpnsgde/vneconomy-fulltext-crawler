@@ -1,0 +1,21 @@
+Chiều 9/12, tại Lễ trao giải thưởng “Chuyển đổi số Việt Nam - Vietnam Digital Awards” (VDA) do Hội truyền thông số Việt Nam tổ chức, Ngân hàng Thương mại Cổ phần Tiên Phong (TPBank) đã được xướng tên tại hạng mục Doanh nghiệp chuyển đổi số xuất sắc. Đây là năm thứ 3 liên tiếp, TPBank được vinh danh ở giải thưởng này, cho thấy những nỗ lực không ngừng trong đổi mới số của ngân hàng số hàng đầu Việt Nam.
+
+Ông Nguyễn Quân - Chủ tịch Hội đồng Chung khảo giải thưởng VDA cho biết, TPBank là ngân hàng có chất lượng hồ sơ nổi bật trong ngành tài chính ngân hàng nhờ ứng dụng nhiều công nghệ mới như ứng dụng tự động hóa thông minh (Intelligent Automation) áp dụng AI và triển khai nền tảng ngân hàng mở Open Banking.
+
+“Chúng tôi đánh giá đây là những giải pháp toàn diện và rất sáng tạo, hiệu quả cao, ứng dụng thành công trong thực tiễn, mang lại nhiều giá trị lợi ích cho cả khách hàng và doanh nghiệp”, ông Quân nói.
+
+Tại sự kiện, ông Bùi Quang Cương - Phó Tổng giám đốc TPBank chia sẻ: “TPBank đặt mục tiêu khai thác AI như công nghệ mũi nhọn, nền tảng cho các sáng tạo đột phá. Chúng tôi đã đầu tư lớn cho công nghệ AI trong suốt nhiều năm qua và sẽ tiếp tục đẩy mạnh khai thác AI kết hợp với tự động hóa và cá nhân hóa.”
+
+TPBank đã theo đuổi chiến lược số hóa từ rất sớm, với sự đầu tư công nghệ bài bản. Hiện tại, nhiều ứng dụng công nghệ, sản phẩm dịch vụ của TPBank sử dụng AI và các công nghệ hiện đại khác như máy học (Machine Learning), học sâu (Deep Learning) hay nhận dạng ký tự quang học (OCR). Điều này giúp ngân hàng thay đổi toàn diện sản phẩm và trải nghiệm khách hàng, trở thành ngân hàng số hàng đầu tại Việt Nam.
+
+TPBank là ngân hàng đầu tiên tại Việt Nam cho phép khách hàng giao dịch 24/7 tại điểm giao dịch tự động TPBank LiveBank bằng sinh trắc học. Không cần mang theo giấy tờ tùy thân, thẻ ngân hàng hay nhớ mật khẩu khi giao dịch, nhờ ứng dụng AI, LiveBank có thể nhận diện chính xác từng người trong số hàng triệu khách hàng chỉ trong 3 giây, nhả thẻ sau 5 phút đăng ký phát hành. Khách hàng cũng có thể mở tài khoản tại bất cứ đâu nhờ công nghệ eKYC, dễ dàng lựa chọn số tài khoản nickname mang đậm chất riêng hay có thể tìm kiếm bằng giọng nói ngay trên app TPBank Mobile.
+
+Trong công tác vận hành nội bộ, TPBank ứng dụng trí tuệ nhân tạo, máy học, tự động hóa xuyên suốt để giảm thiểu thời gian và chi phí vận hành. Ngân hàng đã số hóa toàn bộ các quy trình vận hành, triển khai 90% ngân hàng không giấy tờ (paperless) và ứng dụng RPA với gần 300 robot xử lý tự động hóa quy trình, thu thập dữ liệu, sẵn sàng cho vận hành ngân hàng theo mô hình Data-Driven.
+
+Cũng nhờ phân tích hàng tỷ dữ liệu mỗi năm với AI, ngân hàng có góc nhìn 360 độ về khách hàng để chào sản phẩm - dịch vụ tiếp theo (Next Best Offer) dựa trên hiểu biết chuyên sâu về lịch sử giao dịch và dự báo hành vi người dùng. AI và Big Data được áp dụng để dự báo xem khách hàng nào sắp rời bỏ ngân hàng để tìm cách chăm sóc và giữ chân phù hợp nhất; đánh giá chất lượng tín dụng để quyết định việc cung cấp hạn mức tín dụng đến đâu…
+
+TPBank cũng tự phát triển bộ công cụ OCR, Smart search và Chatbot ứng dụng AI để tăng năng suất vận hành. Bên cạnh đó, ứng dụng AI cho phép chống gian lận, tăng cường bảo mật do vậy nhiều hành vi lừa đảo được phát hiện gần như ngay lập tức và thông tin cảnh báo sẽ được gửi đi kịp thời.
+
+“Làm chủ công nghệ cho phép TPBank nâng tầm chất lượng dịch vụ, mang tới các trải nghiệm liền mạch, đảm bảo hoạt động chăm sóc khách hàng liên tục. Với việc ứng dụng AI, trợ lý ảo để giải phóng tổng đài viên khỏi các tác vụ đơn giản, chúng tôi kỳ vọng sẽ giảm phần lớn chi phí vận hành cho lực lượng này”, ông Cương nói thêm.
+
+Giải thưởng Chuyển đổi số Việt Nam được Hội truyền thông số Việt Nam tổ chức thường niên nhằm tôn vinh những tổ chức và cá nhân có những thành tựu chuyển đổi số xuất sắc được ứng dụng thành công trong thực tiễn. Nhiều doanh nghiệp đạt giải thưởng những năm trước đã có sự phát triển vượt bậc, đóng góp tích cực trong công cuộc phát triển chính phủ số, kinh tế số và xã hội số của Việt Nam.

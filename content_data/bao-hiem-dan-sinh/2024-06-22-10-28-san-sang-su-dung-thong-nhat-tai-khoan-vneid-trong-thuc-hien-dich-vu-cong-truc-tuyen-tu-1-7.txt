@@ -1,0 +1,41 @@
+Theo thông tin từ Bảo hiểm xã hội Việt Nam, từ ngày 1/7 tới, tài khoản định danh điện tử VNeID là tài khoản duy nhất trong thực hiện thủ tục hành chính, cung cấp dịch vụ công trực tuyến trên môi trường điện tử.
+
+Là cơ quan chủ quản cơ sở dữ liệu quốc gia về bảo hiểm, Bảo hiểm xã hội Việt Nam hiện đang tập trung các nguồn lực để sẵn sàng cho việc triển khai sử dụng thống nhất tài khoản VNeID, trong thực hiện dịch vụ công trực tuyến theo tinh thần chỉ đạo của Chính phủ.
+
+Ngày 29/5/2024, Văn phòng Chính phủ đã có Công văn 3701/VPCP-KSTT về việc chuyển đổi, sử dụng tài khoản VNeID trong thực hiện thủ tục hành chính.
+
+Trước đó, Chính phủ ban hành Nghị định số 59/2022/NĐ-CP quy định về định danh và xác thực điện tử. Theo đó, từ ngày 1/7/2024, VNeID là tài khoản duy nhất trong thực hiện thủ tục hành chính, cung cấp dịch vụ công trực tuyến.
+
+Để chuẩn bị cho việc sử dụng thống nhất tài khoản định danh điện tử do Bộ Công an cấp trong thực hiện dịch vụ công trực tuyến từ ngày 1/7, Bảo hiểm xã hội Việt Nam đã triển khai đồng bộ nhiều giải pháp.
+
+Theo đó, đơn vị đã thực hiện kết nối với Bộ Công an để chia sẻ, xác thực thông tin giữa cơ sở dữ liệu quốc gia về bảo hiểm, với cơ sở dữ liệu quốc gia về dân cư, và cơ sở dữ liệu căn cước công dân.
+
+Đảm bảo an toàn, an ninh thông tin để kết nối và triển khai các hoạt động thuộc Đề án 06 của Chính phủ nói chung, và định danh, xác thực nói riêng.
+
+Cùng với đó, đồng bộ xác thực thông tin định danh cá nhân của người tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp giữa cơ sở dữ liệu quốc gia về bảo hiểm, với cơ sở dữ liệu quốc gia về dân cư.
+
+Tính đến tháng 6/2024, hệ thống của Bảo hiểm xã hội Việt Nam đã xác thực trên 97,6 triệu thông tin nhân khẩu, có trong cơ sở dữ liệu quốc gia về bảo hiểm, với cơ sở dữ liệu quốc gia về dân cư. Trong đó, có hơn 87,4 triệu người đang tham gia, thụ hưởng chính sách bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.
+
+Đây là tiền đề quan trọng để triển khai đồng bộ thông tin tài khoản giao dịch điện tử VssID – Bảo hiểm xã hội số (tài khoản đăng nhập là mã số bảo hiểm xã hội) do cơ quan Bảo hiểm xã hội cấp, với tài khoản định danh điện tử VNeID do Bộ Công an cấp.
+
+Ngoài ra, để triển khai dịch vụ công trên môi trường điện tử, từ tháng 9/2020, Bảo hiểm xã hội Việt Nam đã triển khai cấp tài khoản định danh (tài khoản VssID) cho các cá nhân, để đăng nhập vào ứng dụng VssID và thực hiện các dịch vụ công.
+
+Đến nay, toàn quốc đã có khoảng 35 triệu tài khoản giao dịch điện tử cá nhân, với cơ quan Bảo hiểm xã hội được cấp, với quy trình tương đương định danh mức độ 2 theo quy định tại Nghị định số 59/2022/NĐ-CP.
+
+Được sự hỗ trợ của Bộ Công an, từ tháng 10/2023, ngành cũng đã kết nối kỹ thuật, triển khai sử dụng tài khoản VNeID để đăng nhập và sử dụng ứng dụng VssID.
+
+Theo thống kê đến nay, đã có hơn 12,2 triệu lượt sử dụng tài khoản VNeID để đăng nhập ứng dụng VssID.
+
+Với việc triển khai này đã giúp người dân có thêm lựa chọn sử dụng tài khoản, khi có nhu cầu khai thác thông tin, sử dụng thẻ bảo hiểm y tế, thực hiện các dịch vụ công trực tuyến dành cho cá nhân trên ứng dụng VssID.
+
+Đồng thời, ngành đã sẵn sàng cho việc triển khai sử dụng thống nhất tài khoản định danh điện tử VNeID trong thực hiện dịch vụ công trực tuyến từ ngày 1/7 tới.
+
+Hiện, Bảo hiểm xã hội Việt Nam đang tiếp tục phối hợp với Bộ Công an để triển khai sử dụng tài khoản VNeID đăng nhập vào Cổng Dịch vụ công của ngành.
+
+Cùng với việc triển khai sử dụng tài khoản định danh điện tử VNeID để đăng nhập ứng dụng VssID, Bảo hiểm xã hội Việt Nam cũng đã triển khai tích hợp thông tin thẻ bảo hiểm y tế (với khoảng 112 triệu lượt đề nghị tích hợp tính đến hết tháng 5/2024), thông tin sổ bảo hiểm xã hội (với khoảng 19,4 triệu lượt đề nghị tích hợp tính đến hết tháng 5) lên ứng dụng VNeID.
+
+Việc này nhằm phục vụ nhu cầu tra cứu, theo dõi thông tin đóng, hưởng bảo hiểm xã hội, bảo hiểm y tế, sử dụng thẻ bảo hiểm y tế trong khám chữa bệnh của người dùng.
+
+
+
+Để triển khai hiệu quả việc sử dụng thống nhất tài khoản định danh điện tử VNeID trong thực hiện dịch vụ công trực tuyến, Bảo hiểm xã hội Việt Nam đã và đang tiếp tục phối hợp với Bộ Công an, các Bộ, ngành liên quan, nhằm tạo thuận lợi tối đa cho người dân trong quá trình tương tác, giao dịch với cơ quan Bảo hiểm xã hội.

@@ -1,0 +1,39 @@
+Với nhu cầu ngày càng tăng về bảo mật và bảo vệ chống đánh cắp thông tin, một số biện pháp thực hiện để bảo vệ người dùng. Bước tiến ấn tượng nhất là sự ra đời của thẻ thanh toán dựa trên chip contactless cùng nhiều tiện ích khác cho phép thẻ chip contactless vượt trội hơn so với thẻ sử dụng dải băng từ.
+
+CÔNG NGHỆ CHIP CONTACTLESS KHIẾN NHỮNG CHIẾC THẺ TRỞ NÊN THÔNG MINH HƠN
+
+Thẻ công nghệ chip contactless hay còn gọi là thẻ không tiếp xúc là một loại thẻ thông minh, thân thẻ có chứa con chip và đường dây ăngten được giấu ngầm. Awngten có nhiệm vụ làm trung gian nhận và truyền sóng radio giữa đầu đọc thẻ và con chip chứa dữ liệu về thẻ.
+
+Dữ liệu giao dịch được lưu tại con chip (mặt trước thẻ) và mã hóa thay đổi theo mỗi giao dịch và đây là điểm khác biệt cơ bản giữa thẻ chip và thẻ băng từ, đảm bảo an toàn bảo mật cho thẻ Chip. Hiện nay, Vietcombank đã áp dụng công nghệ chip contactless cho toàn bộ sản phẩm thẻ của Ngân hàng.
+
+LỢI ÍCH CỦA THẺ CONTACTLESS
+
+Dễ sử dụng:Thanh toán nhanh hơn chỉ với một chạm, tiết kiệm thời gian chờ khi xếp hàng thanh toán, đối với giao dịch giá trị nhỏ, khách hàng không cần nhập mã PIN để thanh toán
+
+Giao dịch an toàn hơn:Công nghệ chạm để thanh toán đáng tin cậy và an toàn hơn các hình thức thanh toán khác do không tiết lộ thông tin thẻ khi giao dịch. Công nghệ chip bảo vệ bạn khỏi rủi ro lộ thông tin thẻ hay đánh cắp dữ liệu thông qua công nghệ mã hóa
+
+Dễ dàng liên kết với ứng dụng di động (Apple PayGoogle Pay, Samsungpay):Liên kết được ngay với các ứng dụng thanh toán phổ biến nhất trên thế giới như Apple Pay, Google Pay, Samsung Pay. Nói lời tạm biệt với những chiếc ví cồng kềnh. Chỉ cần những chiếc điện thoại thông minh hỗ trợ NFC là có thể đi khắp nơi không cần ví.
+
+Độ bền tốt hơn:Thẻ chip contactless có độ bền cao hơn so với độ bền của thẻ từ với dải băng từ dễ bị trầy xước.
+
+VIETCOMBANK CHUYỂN ĐỔI THẺ CÔNG NGHỆ CHIP CONTACTLESS HOÀN TOÀN MIỄN PHÍ
+
+Vietcombank hiện đang triển khai miễn phí chuyển đổi thẻ từ sang thẻ Chip. Để tránh phát sinh phí duy trì thẻ từ, khách hàng hãy thực hiện chuyển đổi sang thẻ chip và VCB sẽ hoàn phí cho Khách hàng trong trường hợp Khách hàng thực hiện chuyển đổi và/ hoặc khóa thẻ từ trong vòng 3 tháng kể từ ngày thu phí(áp dụng chung cho cả khách hàng chuyển đổi tại quầy và trên dịch vụ ngân hàng số Digibank – áp dụng cho lần đầu chuyển đổi).
+
+Các cách thức chuyển đổi:
+
+* Chuyển đổi trên VCB Digibank: Áp dụng cho thẻ ghi nợ với các bước cụ thể như sau:
+
+Bước 1: Đăng nhập VCB Digibank
+
+Bước 2: Chọn Quản lý dịch vụ thẻ
+
+Bước 3: Chọn Phát hành/chuyển đổi thẻ ghi nợ
+
+Bước 4: Đăng kí chuyển đổi công nghệ thẻ ghi nợ
+
+Bước 5: Điền thông tin thẻ và lựa chọn Điểm giao dịch, Điểm nhận thẻ và ấn tiếp tục để hoàn thành.
+
+Lưu ý: Khi đã hoàn tất thủ tục đăng ký thành công, Khách hàng sẽ không thể hủy yêu cầu chuyển đổi công nghệ thẻ.
+
+* Tại Chi nhánh/Phòng giao dịch của Vietcombank: áp dụng chuyển đổi cho tất cả các loại thẻ.

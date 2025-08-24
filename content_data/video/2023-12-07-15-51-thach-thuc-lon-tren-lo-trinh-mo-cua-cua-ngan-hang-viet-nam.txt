@@ -1,0 +1,17 @@
+
+
+Tại Việt Nam, xu hướng ngân hàng mở đang góp phần hỗ trợ người tiêu dùng tiếp cận với nhiều dịch vụ, sản phẩm đa dạng; đồng thời các ngân hàng, fintech dễ dàng đưa sản phẩm, dịch vụ tới người tiêu dùng.
+
+Tuy nhiên, theo ông Đoàn Thanh Hải, Phó Cục trưởng Cục Công nghệ thông tin, Ngân hàng Nhà nước, hiện mô hình ngân hàng mở hoạt động dựa trên nền tảng API mở để kết nối với nhiều bên nên việc mỗi bên đang có tiêu chuẩn riêng về kết nối, nền tảng công nghệ lõi để đảm bảo yêu cầu chất lượng dịch vụ cung cấp, đã tạo nên các hợp tác đan chéo, tốn nguồn lực và chi phí.
+
+Vì vậy, để triển khai hiệu quả ngân hàng mở cần có tiêu chuẩn chung về kết nối, cho phép chia sẻ dữ liệu ngân hàng mở của khách hàng (gồm thông tin khách hàng, thông tin giao dịch, số dư tài khoản khách hàng, điểm tín nhiệm tài chính của khách hàng…).
+
+Theo ông Nguyễn Bá Diệp, Đồng sáng lập Momo, Open API được ví như đường cao tốc để ngân hàng và fintech kết nối với nhau dễ dàng, nhưng nếu đường cao tốc mà thiếu đèn xanh, đèn đỏ, thiếu biển chỉ dẫn, thiếu các quy định chặt chẽ thì rất dễ dẫn tới hỗn loạn. Chính vì vậy rất cần sớm có một quy chuẩn chung, thống nhất.
+
+Đây cũng là thách thức đối với các ngân hàng, do với mô hình ngân hàng truyền thống, việc chia sẻ dữ liệu khách hàng cho bên thứ 3 trong khi vẫn phải đảm bảo an toàn thông tin, dữ liệu khách hàng vẫn luôn là tiêu chí hàng đầu của các ngân hàng từ trước đến nay. Tính an toàn, bảo mật thông tin phải được giám sát chặt chẽ, giảm thiểu rủi ro vận hành phát sinh trong quá trình triển khai Ngân hàng mở.
+
+Ông Nguyễn Hoàng Long, Phó tổng giám đốc CTCP Thanh toán Quốc gia Việt Nam (NAPAS), cho rằng để ngân hàng mở phát triển, các nhận định cũng như các bên cũng cần có sự khai thông. Thứ nhất, cần có cơ sở pháp lý rõ ràng, đặc biệt trong việc chia sẻ và bảo mật thông tin. Các ngân hàng và các bên có thể an tâm về việc chia sẻ dữ liệu, dữ liệu nào được chia sẻ, bảo mật ra sao. Thứ hai, cần có tiêu chuẩn chung, vì hiện nay khi ngân hàng triển khai theo tiêu chuẩn của từng ngân hàng, ngân hàng và các trung gian thanh toán tự thỏa thuận với nhau. Tuy vậy, để triển khai mạnh trên thị trường thì cần có bộ quy tắc chung.
+
+“Theo tôi không những cần có tiêu chuẩn chung, mà còn tiêu chuẩn về sản phẩm, dịch vụ cung cấp, tiêu chuẩn về vận hành. Ví dụ như ứng xử khi giao dịch lỗi xảy ra thì sẽ ứng xử như thế nào, và việc đảm bảo quyền lợi cho khách hàng khi xảy ra giao dịch lỗi sẽ tương ứng và có mặt bằng chung cho các bên tham gia cung ứng dịch vụ. Ngoài  các quy chuẩn từ các cơ quan quản lý như Ngân hàng Nhà nước, hướng sẽ có 1 đơn vị vận hành chung, vận hành 1 hub, đưa ra tiêu chuẩn kỹ thuật chi tiết, tiêu chuẩn về sản phẩm, dịch vụ, tiêu chuẩn vận hành ứng xử của các bên khi có vấn đề xảy ra cũng là 1 hướng để chúng ta cân nhắc nghiên cứu”, Phó tổng giám đốc NAPAS nói.
+
+Như vậy, mô hình Ngân hàng mở cần có tiêu chuẩn chung, sự chia sẻ dữ liệu từ các ngân hàng, fintech nhưng hiện tại chúng ta chưa có khung pháp lý để điều chỉnh nội hàm này. Các vấn đề như nền tảng, công nghệ, dữ liệu dù có khó cũng có thể tìm ra giải pháp để xử lý, khắc phục nhưng để đảm bảo an toàn trong bảo mật thông tin khách hàng, thông tin cơ sở dữ liệu thì cần có khung pháp lý để các ngân hàng, fintech có cơ sở triển khai và hoạt động an toàn, đảm bảo tính bảo mật thông tin.

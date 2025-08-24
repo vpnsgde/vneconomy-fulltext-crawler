@@ -1,0 +1,15 @@
+Ngày 24/11/2020, tại Hà Nội đã diễn ra lễ ký kết hợp đồng hợp tác giữa Công ty TNHH MTV My Health và Công ty Cổ phần Vibiz Việt Nam về hợp tác thu thập và xử lý thông tin dữ liệu (data mining) khoa học về sức khỏe, đặc biệt là các thông tin gắn với ý nghĩa của giải trình tự gen thế hệ mới.
+
+Một hệ thống khoảng 500 trang web và các cơ sở dữ liệu về sức khỏe sẽ được thu thập một cách tự động theo thời gian thực, phân tích dựa trên trí tuệ nhân tạo bóc tách và trả các kết quả thông tin theo yêu cầu, định hướng đến từng tài khoản.
+
+Hệ thống tin này được cập nhật thường xuyên và có chuyên gia y sinh của Việt Nam phê duyệt để xuất bản trong ứng dụng lưu trữ hồ sơ sức khỏe trọn đời HR247. Thông tin được cấu tạo dựa trên các đặc tính hoặc tính trạng mà phân tích giải trình tự gen chỉ ra. Ai có các nguy cơ gì sẽ được cung cấp thông tin trọn đời về các đặc tính nguy cơ đó.
+
+Với lượng dữ liệu khổng lồ thu thập được, hai bên sẽ phối kết hợp dán nhãn và huấn luyện học máy để có thể tạo ra những cấu trúc nội dung trả về tự động cho khách hàng. Khi càng nhiều người sử dụng thì các cấu trúc sẽ càng thông minh hơn và tạo ra trí tuệ nhân tạo cho bộ lọc.
+
+Hai bên sẽ cùng nhau xác định các đối tượng và không gian dữ liệu, chuẩn bị dữ liệu, làm sạch dữ liệu, tích hợp dữ liệu, chọn dữ liệu, biến đổi dữ liệu, khai thác dữ liệu, đánh giá và kiểm tra, dán nhãn dữ liệu và triển khai cung cấp thông tin theo thời gian thực. Các mô hình thống kê sẽ được sử dụng để cho dữ liệu và thông tin ngày càng có ý nghĩa với người dùng.
+
+Công ty Cổ phần Vibiz Việt Nam với bề dày kinh nghiệm trong việc thu thập, bóc tách thông tin theo yêu cầu. Các giải pháp thông tin này nhằm mục tiêu hỗ trợ doanh nghiệp ra quyết định trong kinh doanh nhanh chóng, chính xác và hiệu quả dựa trên thông tin thực theo thời gian thực. Ngoài ra, các công cụ của Vibiz giúp phát triển trí tuệ nhân tạo cho việc tra cứu và tìm kiếm thông tin theo yêu cầu của từng đơn vị mang đặc trưng riêng.
+
+Công ty TNHH MTV My Health có kinh nghiệm trong việc phát triển các ứng dụng và giải pháp trong lĩnh vực chăm sóc sức khỏe như ngân hàng gen Việt Nam, phân tích giải trình tự gen người (xét nghiệm gen WGS, WES), lưu trữ hồ sơ sức khỏe cá nhân HR247 miễn phí, ứng dụng đọc xét nghiệm Dr.Vivi, ứng dụng bách khoa toàn thư về y tế và sức khỏe Dr.Kuka, Phần mềm miễn phí quản lý phòng khám (My Health Clinics),…
+
+Theo thỏa thuận hợp tác, My Health cùng Vibiz đẩy mạnh, khai thác, phân tích và cung cấp thông tin ngành y tế, sức khỏe. Hai bên cùng khẳng định mối quan hệ hợp tác lâu dài trên cơ sở cùng sử dụng sản phẩm, dịch vụ có chất lượng của nhau, nâng cao uy tín và thương hiệu của hai bên.

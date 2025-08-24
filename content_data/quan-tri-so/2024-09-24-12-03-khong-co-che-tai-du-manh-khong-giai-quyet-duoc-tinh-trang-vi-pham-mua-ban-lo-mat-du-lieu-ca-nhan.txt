@@ -1,0 +1,55 @@
+Bộ Công an đang dự thảo Luật Bảo vệ dữ liệu cá nhân cũng như có tờ trình Đề nghị xây dựng Luật Bảo vệ dữ liệu cá nhân. Dự thảo Luật Bảo vệ dữ liệu cá nhân gồm 7 chương 68 điều. Dự kiến dự thảo luật này sẽ được trình Quốc hội tại kỳ họp thứ 9 (tháng 5/2025) và thông qua tại kỳ họp thứ 10 (tháng 10/2025).
+
+Theo tờ trình dự thảo của Bộ Công an, Việt Nam đang đẩy mạnh quá trình này để làm chủ cuộc Cách mạng công nghiệp lần thứ tư. Dữ liệu cá nhân là một trong những nguyên liệu chính để thực hiện chuyển đổi số, phát triển kinh tế số, xây dựng xã hội số.
+
+Là một trong những quốc gia có tốc độ phát triển và ứng dụng Internet cao nhất thế giới, số lượng người sử dụng Internet của Việt Nam đã đạt hơn 79 triệu người, tương đương gần 80% tổng dân số. Dữ liệu cá nhân của hơn 2/3 dân số nước ta đang được lưu trữ, đăng tải, chia sẻ và thu thập trên không gian mạng với nhiều hình thức và mức độ chi tiết khác nhau.
+
+Việc thu thập dữ liệu cá nhân được tích hợp sâu trong từng sản phẩm, dịch vụ và khó có thể nhận biết, xác thực đúng sai và bảo đảm mục đích sử dụng như thông báo. Yêu cầu bảo vệ được nâng cao từ góc độ cá nhân tới vấn đề chủ quyền, an ninh quốc gia.
+
+Cơ sở hạ tầng không gian mạng phát triển nhanh và ngày càng hoàn thiện, tạo điều kiện thuận lợi cho các ngành, nghề, dịch vụ kinh doanh có liên quan tới dữ liệu cá nhân phát triển.
+
+Việt Nam cũng đang đẩy mạnh xây dựng Chính phủ điện tử, hướng tới chính phủ số, nền kinh tế số với sự tham gia ngày càng sâu rộng của các lĩnh vực hành chính, y tế, hình sự, hộ tịch, quốc tịch, chứng thực, thương mại điện tử, giáo dục, tài chính, ngân hàng, thuế… Công nghệ thông tin, truyền thông, trí tuệ nhân tạo, internet vạn vật, điện toán đám mây, dữ liệu lớn, dữ liệu nhanh… được ứng dụng sâu rộng, tạo ra những giá trị to lớn xã hội.
+
+Theo Bộ Công an, dữ liệu cá nhân từ vị trí chưa thực sự quan trọng, trở thành nguyên liệu chính cho hoạt động của các ngành, nghề, dịch vụ nêu trên và ngày càng chiếm vị trí quan trọng trong tổng thể lĩnh vực tạo ra giá trị lợi nhuận cao trong nền kinh tế quốc dân. Điều này đặt ra cho Chính phủ bài toán phải quản lý hiệu quả, tương đồng giữa sử dụng và bảo vệ dữ liệu cá nhân, ứng phó, hạn chế nguy cơ, xử lý vi phạm để giữ vững sự phát triển và giá trị do dữ liệu cá nhân tạo ra.
+
+Sự phát triển một số công nghệ mới đặt ra yêu cầu phải bảo vệ dữ liệu cá nhân, như: xử lý dữ liệu lớn, trí tuệ nhân tạo, điện toán đám mây, Blockchain, vũ trụ ảo. Blockchain đặt ra một số rủi ro mới với dữ liệu cá nhân, như: dữ liệu cá nhân không thể thay đổi hay xóa; Blockchain công khai cho phép mọi người truy cập tất cả dữ liệu dẫn đến khả năng lộ thông tin nhạy cảm; cơ chế bán ẩn danh vẫn có thể bị truy vết thông qua việc suy luận hành vi người dùng; tính phi tập trung khiến việc thực thi các quy định bảo vệ dữ liệu cá nhân trở nên khó khăn.
+
+AI tạo sinh có thể tạo ra những nội dung giả mạo độc hại, vô tình tiết lộ dữ liệu cá nhân trong khi huấn luyện AI, mất quyền kiểm soát của người dùng đối với việc sử dụng dữ liệu. Trong vũ trụ ảo có lượng dữ liệu cá nhân khổng lồ, chi tiết và được thu thập trong quá trình trải nghiệm đa giác quan (bao gồm hành vi, cảm xúc, cuộc trò chuyện, thói quen), tổng hợp và tạo hồ sơ cá nhân chi tiết (bằng cách kết hợp với dữ liệu cá nhân hiện hữu), ranh giới mờ nhạt giữa danh tính trong môi trường thực ảo.
+
+Hiện nay, đã có nhiều doanh nghiệp sử dụng dữ liệu cá nhân vào mục đích kinh doanh, phát triển kinh tế, tạo giá trị cho xã hội nhưng cũng xuất hiện nhiều vụ lộ, mất, bị tấn công, chiếm đoạt, sự cố liên quan tới dữ liệu cá nhân. Dữ liệu cá nhân được chuyển giao trong hoạt động kinh doanh chưa đúng mục đích hoặc cố tình cài thêm các mục đích để buộc người sử dụng phải đồng ý nếu muốn sử dụng dịch vụ, sản phẩm do mình cung cấp.
+
+Do đó, theo Bộ Công an, việc quy định cụ thể các hoạt động kinh doanh liên quan tới dữ liệu cá nhân là vô cùng cấp bách và cần thiết, tập trung điều chỉnh về năng lực xử lý dữ liệu cá nhân, năng lực và điều kiện bảo vệ dữ liệu cá nhân, áp dụng các thành tựu khoa học công nghệ vào hoạt động xử lý dữ liệu cá nhân của của tổ chức, doanh nghiệp, cá nhân có liên quan.
+
+Tình trạng mua bán dữ liệu cá nhân hiện đang diễn ra phổ biến, công khai, với các dữ liệu thô và dữ liệu cá nhân đã qua xử lý , nhiều hành vi chưa được xử lý vì thiếu quy định của pháp luật. Các doanh nghiệp, công ty kinh doanh dịch vụ có thu thập dữ liệu cá nhân của khách hàng, cho phép các đối tác thứ ba tiếp cận thông tin dữ liệu cá nhân nhưng không có yêu cầu, quy định chặt chẽ, để đối tác thứ ba chuyển giao, buôn bán cho các đối tác khác.
+
+Các doanh nghiệp chủ động thu thập thông tin cá nhân của khách hàng, hình thành kho dữ liệu cá nhân, phân tích, xử lý các loại dữ liệu đó để tiến hành kinh doanh, buôn bán. Việc buôn bán dữ liệu cá nhân được tiến hành có hệ thống, có tổ chức, cam kết “bảo hành” và có khả năng cập nhật dữ liệu, trích xuất dữ liệu theo yêu cầu người mua.
+
+
+
+Các hành vi bị nghiêm cấm tại Dự thảo Luật Bảo vệ dữ liệu cá nhân:
+
+1. Xử lý dữ liệu cá nhân trái với quy định của pháp luật về bảo vệ dữ liệu cá nhân.2. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu nhằm chống lại Nhà nước Cộng hòa xã hội chủ nghĩa Việt nam.3. Xử lý dữ liệu cá nhân để tạo ra thông tin, dữ liệu gây ảnh hưởng tới an ninh quốc gia, trật tự an toàn xã hội, quyền và lợi ích hợp pháp của tổ chức, cá nhân khác.4. Cản trở hoạt động bảo vệ dữ liệu cá nhân của cơ quan chức năng có thẩm quyền.5. Lợi dụng hoạt động bảo vệ dữ liệu cá nhân để vi phạm pháp luật.6. Thu thập, xử lý, chuyển giao dữ liệu cá nhân trái phép và mua bán dữ liệu cá nhân.7. Chuyển giao dữ liệu cá nhân cho các tổ chức, cá nhân không phù hợp với mục đích xử lý dữ liệu.
+
+Nhiều dữ liệu bị rao bán công khai, trong thời gian dài, với số lượng lớn trên không gian mạng. Việc mua bán được tiến hành qua website, tài khoản, trang, nhóm trên mạng xã hội , diễn đàn tin tặc . Việc thanh toán được thực hiện thông qua tài khoản ngân hàng, nhiều giao dịch ghi rõ nội dung mua bán dữ liệu.
+
+Tờ trình của Bộ Công an cũng cho rằng việc mua bán dữ liệu cá nhân không chỉ diễn ra đơn lẻ, giữa cá nhân với cá nhân, mà còn có sự tham gia của các công ty, tổ chức, doanh nghiệp. Thời gian gần đây, Bộ Công an phát hiện hàng trăm cá nhân, tổ chức liên quan bán dữ liệu cá nhân. Một số đường dây chiếm đoạt, mua bán dữ liệu quy mô lớn tại Việt Nam đã bị phát hiện, đấu tranh, xử lý. Số lượng dữ liệu cá nhân bị thu thập, mua bán trái phép phát hiện được lên tới hàng nghìn GB dữ liệu, trong đó có nhiều dữ liệu cá nhân nội bộ, nhạy cảm.
+
+Trong năm 2023, hoạt động mua bán dữ liệu cá nhân, dữ liệu nhạy cảm tiếp tục diễn biến phức tạp với nhiều phương thức, thủ đoạn tinh vi. Bộ Công an đã chủ động phát hiện, điều tra, xác minh 16 vụ việc lộ mất, rao bán thông tin, bí mật nhà nước và dữ liệu nội bộ trên không gian mạng. Qua công tác đấu tranh, Bộ Công an phát hiện số lượng lớn dữ liệu bị lộ mất được tin tặc rao bán công khai trên các nền tảng, diễn đàn (BreachedForums, Telegram, Facebook).
+
+Các đối tượng rao bán hoạt động với độ ẩn danh cao, thủ đoạn hoạt động và phương thức thanh toán hoàn toàn bằng tiền mã hoá nên khó truy vết. Nổi lên là: nhóm Telegram “Data Pro 298” (4.685 thành viên) cung cấp dịch vụ tra cứu thông tin dữ liệu viễn thông, Facebook, điện lực, ví điện tử Momo, thông tin biển kiểm soát phương tiện giao thông; nhóm Telegram “Tra cứu thông tin toàn quốc” (2.700 thành viên) cung cấp dịch vụ tra “nóng” dữ liệu cá nhân công dân Việt Nam (dữ liệu thời gian thực); diễn đàn tin tặc “Nohide.space” (nguồn gốc Nga) rao bán số lượng lớn thông tin đăng nhập nhiều hệ thống trọng yếu của Việt Nam…
+
+Một số trường hợp còn lợi dụng các diễn đàn, hội nhóm chia sẻ phương thức tấn công mạng, cách thức phát triển, phát tán mã độc số lượng lớn, gây nguy cơ mất an toàn, an ninh mạng. Thực trạng này cho thấy hệ thống cơ sở dữ liệu của cơ quan nhà nước và khu vực doanh nghiệp vẫn có những điểm yếu, lỗ hổng bảo mật để tin tặc lợi dụng xâm nhập, đánh cắp dữ liệu…
+
+“Với thực trạng buôn bán, xử lý dữ liệu cá nhân tràn lan như hiện nay, việc không có chế tài xử lý hoặc chế tài xử lý không đủ mạnh, không đủ sức răn đe sẽ không giải quyết được tình hình. Luật Bảo vệ dữ liệu cá nhân sẽ quy phạm đầy đủ các nội dung bảo vệ dữ liệu cá nhân, các hành vi vi phạm quy định sẽ được căn cứ vào Luật để đề xuất các hình thức, biện pháp xử lý phù hợp”, Bộ Công an nhấn mạnh.
+
+Theo Bộ Công an, thực trạng dữ liệu cá nhân đang bị mua bán, lộ, mất tràn lan, nhiều hành vi vi phạm pháp luật thiếu quy định xử lý xuất phát từ nhiều nguyên nhân trong đó có nguyên nhân khách quan như phát triển nhanh của khoa học công nghệ dẫn tới nhiều phương thức thủ đoạn mới trong tấn công mạng, các lỗ hổng và thiếu hụt biện pháp phòng thủ mạng… hay chủ quan là nhận thức về bảo vệ dữ liệu cá nhân của công dân còn hạn chế, sẵn sàng cung cấp thông tin đời tư để lấy sự tiện ích về công nghệ…
+
+Đơn vị soạn thảo dự luật này cho rằng pháp luật bảo vệ dữ liệu cá nhân của Việt Nam đã có một số quy định về chế tài xử phạt với những hành vi vi phạm bảo vệ thông tin cá nhân, chưa có quy định về bảo vệ dữ liệu cá nhân. Về chế tài hình sự: Chưa có chế tài hình sự về dữ liệu cá nhân. Vi phạm các quy định về thông tin cá nhân có thể bị xử phạt hình sự theo 02 tội danh tại Điều 159 và Điều 288 , với án tù giam cao nhất là 07 năm theo quy định của Bộ Luật Hình sự 2015 (sửa đổi, bổ sung năm 2017).
+
+Hầu hết các vụ việc buôn bán dữ liệu cá nhân đang được hoàn thiện theo hướng chứng minh hai tội danh này. Tuy nhiên, do chưa quy định cụ thể về các yếu tố cấu thành trong hoạt động mua bán dữ liệu cá nhân, nhất là hoạt động có sự trung gian qua nhiều cá nhân, tổ chức nên khó chứng minh tội phạm.
+
+Về chế tài dân sự: Chưa có chế tài dân sự về dữ liệu cá nhân. Quyền bảo vệ thông tin cá nhân là một quyền dân sự, được quy định trong Bộ luật Dân sự. Về chế tài hành chính: Chưa có chế tài hành chính về dữ liệu cá nhân. Các hành vi vi phạm, xâm hại đến thông tin cá nhân đã có nhưng nằm rải rác ở nhiều văn bản khác nhau .
+
+Theo thống kê của Bộ Công an, có tổng số 69 văn bản quy phạm pháp luật liên quan trực tiếp đến bảo vệ dữ liệu cá nhân tại Việt Nam, trong đó có: Hiến pháp; 04 Bộ luật; 39 Luật, 01 Pháp lệnh; 19 Nghị định; 04 Thông tư/Thông tư liên tịch; 01 Quyết định của Bộ trưởng. Tuy nhiên, dù có tới 69 văn bản nhưng tất cả đều chưa thống nhất về khái niệm và nội hàm dữ liệu cá nhân, bảo vệ dữ liệu cá nhân, chỉ có Nghị định số 13/2023/NĐ-CP đưa ra định nghĩa về dữ liệu cá nhân và bảo vệ dữ liệu cá nhân.
+
+Dù vậy, theo Bộ Công an, đây mới chỉ là văn bản Nghị định, chưa phải văn bản luật nên cần thống nhất thực hiện trong thực tiễn, cần có văn bản luật làm “luật gốc”, mang tính nguyên tắc, góp phần tiếp tục thể chế hóa quy định của Hiến pháp để các quy phạm khác tuân thủ, phát triển.

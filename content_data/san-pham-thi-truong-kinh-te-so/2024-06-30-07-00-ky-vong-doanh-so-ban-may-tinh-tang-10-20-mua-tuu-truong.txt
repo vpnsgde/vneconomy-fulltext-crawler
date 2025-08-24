@@ -1,0 +1,29 @@
+Ông Nguyễn Thế Kha, Giám đốc Thương mại hệ thống FPT Shop, cho biết năm nay các dòng laptop gaming đồ hoạ, laptop cấu hình mạnh và đặc biệt có khả năng sử dụng tốt công cụ AI sẽ là những sản phẩm được ưa chuộng nhất, giúp tối ưu hiệu quả trong học tập, làm việc và giải trí.
+
+Ngoài ra, các sản phẩm trong hệ sinh thái như màn hình mở rộng (LCD), PC văn phòng và PC gaming cũng đang mang lại sự tăng trưởng đáng kể.
+
+Vị đại diện FPT Shop kỳ vọng mùa back-to-school năm nay, doanh số bán hàng máy tính tại hệ thống FPT Shop sẽ tăng khoảng 10-20% so với cùng kỳ năm trước.
+
+Trên thị trường, dải sản phẩm máy tính khá đa dạng với nhiều mức giá đáp ứng cho các nhu cầu, như laptop/PC I3/R3 chính hãng, đáp ứng đầy đủ các tác vụ cơ bản phục vụ cho công việc và học tập có giá gần 6 triệu đồng. Dòng laptop gaming/PC gaming - đồ hoạ giá hơn 10 triệu đồng. Hay, các dòng sản phẩm “laptop với AI” (dòng laptop có thể thực hiện các tác vụ, chức năng AI) có giá từ gần 13 triệu đồng.
+
+Theo ông Đoàn Văn Hiểu Em, CEO Công ty Cổ phần Đầu tư Thế Giới Di Động, mùa back-to-school 2024, Thế Giới Di Động cũng đặt mục tiêu cung cấp cho thị trường từ 800 nghìn đến 1 triệu máy laptop.
+
+Trước đây, khoảng từ năm 2018 về trước, tại thị trường Việt Nam, người dùng mua 1 máy laptop tầm giá khoảng 10 triệu thì phải tốn thêm 2,5 triệu nữa để mua trọn bộ Windows và Office 365 bản quyền. Tuy nhiên, hiện nay, tại nhiều hệ thống bán lẻ lớn, 100% laptop bán ra đã bao gồm Windows và Office 365 bản quyền được cài sẵn. Điều này cũng giúp khách hàng tiết kiệm được chi phí và sẵn sàng "rút ví" để sở hữu sản phẩm.
+
+Năm 2024 đang trở thành năm khởi đầu cho kỷ nguyên ứng dụng rộng rãi các thiết bị công nghệ có trang bị trí tuệ nhân tạo (AI). Các hãng sản xuất máy tính đã bắt đầu cho ra mắt những mẫu laptop mới có cấu hình mạnh mẽ, sử dụng chip vi xử lý tích hợp AI như Intel Core Ultra, Apple M hay mới đây là Qualcomm Snapdragon.
+
+Theo đại diện CellphoneS, máy tính AI đem đến nhiều ứng dụng cho việc học và dạy như tóm tắt nội dung bài học, giúp giải toán nhanh chóng, tự ghi chú, dịch các thứ tiếng, tạo dựng chỉnh sửa ảnh, video hay hỗ trợ làm các bài thuyết trình nhanh, đẹp…
+
+Theo kết quả sơ bộ từ công ty nghiên cứu thị trường International Data Corporation (IDC) công bố mới đây, các lô hàng máy tính cá nhân (PC) trên toàn cầu đã tăng trưởng trở lại trong quý 1/2024 sau 2 năm sụt giảm. Cụ thể, thị trường PC đã tăng 1,5% so với một năm trước đó với 59,8 triệu lô hàng trong quý đầu tiên và quay trở lại mức trước đại dịch Covid-19. Sự sẵn sàng của các PC được trang bị AI dự kiến sẽ thúc đẩy nhu cầu về các thiết bị này.
+
+Ông Phùng Việt Thắng, Giám đốc Quốc gia, Bộ phận Kinh doanh, Tiếp thị và Truyền thông (SMG) Intel Việt Nam cho biết tuy chưa có số liệu cụ thể tại thị trường Việt Nam nhưng dự báo IDC thì tổng lượng PC toàn cầu sẽ đạt 265,4 triệu chiếc trong năm 2024, tương đương với mức tăng 2% so với cùng kỳ năm trước.
+
+Theo lãnh đạo Intel Việt Nam, máy tính người dùng mua thời điểm Covid (đáp ứng cho nhu cầu làm việc tại nhà) ít nhiều đã lạc hậu bởi sự phát triển nhanh chóng của công nghệ, đặc biệt là AI PC. Để đón đầu xu hướng mới, người dùng sẽ có nhu cầu đổi thiết bị cũ sang các mẫu AI PC mới để tăng hiệu suất làm việc, chất lượng công việc, và rút ngắn thời gian làm việc.
+
+Trước đây, một con chip sẽ có CPU (bộ vi xử lý trung tâm), và GPU (bộ vi xử lý đồ họa). Tuy nhiên, hiện nay, các máy tính AI PC sẽ có thêm một bộ vi xử lý mới được gọi là NPU (bộ vi xử lý thần kinh). Đây là một sự thay đổi rất lớn về mặt công nghệ.
+
+CPU và GPU sẽ xử lý các ứng dụng AI nặng, trong khi NPU là một bộ tăng tốc chuyên xử lý các tác vụ, ứng dụng AI để giúp AI PC có thể chạy được nhiều ứng dụng chuyên sâu hơn về AI ngay trên thiết bị. Vì vậy, một AI PC hoàn chỉnh phải bao gồm cả ba bộ phận là CPU, GPU, và NPU.
+
+“Hiện rất nhiều người Việt đã ứng dụng AI trong công việc và cuộc sống hàng ngày. Nhờ đó, nhu cầu về dòng máy AI PC trong thời gian tới sẽ tăng cao. Intel dự kiến sẽ xuất xưởng 40 triệu CPU cho AI PC trên toàn cầu trong năm 2024”, ông Thắng chia sẻ.
+
+Theo dự đoán của Boston Consulting Group, AI PC sẽ chiếm 80% thị phần PC toàn cầu vào năm 2028.

@@ -1,0 +1,23 @@
+Giám đốc điều hành Cơ quan tiền tệ Hồng Kông (HKMA) Eddie Yue vừa lên tiếng cảnh báo về nguy cơ hình thành một “bong bóng” xung quanh các công ty đang thu hút sự chú ý nhờ tuyên bố sẽ phát hành stablecoin, loại tiền mã hóa được gắn với tài sản ổn định.
+
+Đây là lần thứ hai trong vòng một tháng, HKMA lên tiếng nhằm giảm bớt sự hào hứng quá mức từ thị trường và công chúng đối với stablecoin tại Hồng Kông. Cơ quan này cảnh báo về những rủi ro đến từ các mô hình kinh doanh mập mờ, hoạt động đầu cơ và nguy cơ rửa tiền.
+
+Trong một bài viết, ông Eddie Yue nhấn mạnh: “Chúng ta cần cẩn trọng trước những phản ứng thái quá từ thị trường và dư luận”. Ông cho biết HKMA sẽ tiếp tục các biện pháp “làm nguội” để tránh tình trạng đẩy giá trị và kỳ vọng lên quá mức.
+
+Theo tờ South Morning China, quy định mới về stablecoin được Hồng Kông thông qua cuối tháng 5/2025 và sẽ chính thức có hiệu lực từ ngày 1/8/2025, các tổ chức muốn phát hành stablecoin bắt buộc phải xin giấy phép từ HKMA và đáp ứng các tiêu chuẩn nghiêm ngặt về tài sản dự trữ cũng như một loạt yêu cầu khác.
+
+Ông Yue cho biết hiện đã có “hàng loạt tổ chức” liên hệ với HKMA để xin cấp phép hoặc tìm hiểu khả năng tham gia thị trường stablecoin. Dự kiến từ tuần tới, HKMA sẽ bắt đầu tiếp nhận và xử lý các hồ sơ xin cấp phép.
+
+Không nêu đích danh tổ chức nào, Giám đốc điều hành Cơ quan tiền tệ Hồng Kông (HKMA) Eddie Yue cho biết nhiều đơn vị đang quan tâm tới việc phát hành stablecoin nhưng lại không đưa ra được kế hoạch cụ thể, khả thi hay thể hiện đủ năng lực trong quản trị rủi ro.
+
+“Phần lớn vẫn chỉ dừng lại ở ý tưởng như cải thiện thanh toán xuyên biên giới, thúc đẩy Web3 hay nâng cao hiệu quả thị trường ngoại hối nhưng lại thiếu các kịch bản ứng dụng thực tế rõ ràng”, ông Yue thẳng thắn chỉ ra.
+
+Thị trường tài chính Hồng Kông đang manh nha một "bong bóng" khi cổ phiếu và khối lượng giao dịch của một số công ty niêm yết tăng vọt chỉ vì tuyên bố có ý định phát triển stablecoin, bất kể hoạt động kinh doanh cốt lõi của họ không liên quan gì đến tiền số.
+
+HKMA cho biết chỉ một số rất ít giấy phép stablecoin sẽ được cấp trong giai đoạn đầu. Ngay cả khi được cấp phép, các doanh nghiệp vẫn đối mặt với nguy cơ sụt giảm lợi nhuận nếu đổ quá nhiều nguồn lực vào lĩnh vực này.
+
+Về bản chất, stablecoin là các tài sản số được gắn với tiền pháp định hoặc các loại tài sản dự trữ khác. Tuy nhiên, khả năng hỗ trợ giao dịch xuyên biên giới cùng với tính ẩn danh cao có thể khiến việc xác minh danh tính khách hàng (KYC) và phòng chống rửa tiền trở nên khó khăn hơn, theo Ngân hàng Thanh toán Quốc tế (BIS).
+
+Ngân hàng này cũng cảnh báo rằng nếu stablecoin gắn với ngoại tệ được sử dụng rộng rãi, điều này có thể làm suy yếu chủ quyền tiền tệ của các quốc gia. Hơn nữa, việc các stablecoin đầu tư ồ ạt vào trái phiếu chính phủ có thể khiến thị trường tài chính biến động mạnh khi dòng vốn chảy vào hoặc rút ra đột ngột, ảnh hưởng trực tiếp tới lãi suất ngắn hạn và sự ổn định kinh tế.
+
+Trong một bài đăng hồi tháng 6/2025, ông Yue cũng từng nhấn mạnh stablecoin không phải là công cụ đầu tư hay đầu cơ. Đây chỉ là phương tiện thanh toán dựa trên blockchain  tương tự như các loại tiền số do ngân hàng trung ương phát hành hoặc tiền gửi dạng số của các ngân hàng thương mại, và không nên kỳ vọng vào khả năng sinh lời từ việc nắm giữ chúng.

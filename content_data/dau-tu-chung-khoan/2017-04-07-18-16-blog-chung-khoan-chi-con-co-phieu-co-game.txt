@@ -1,0 +1,44 @@
+Thị trường hôm nay có vẻ mạnh nếu nhìn ở chỉ số và một vài mã riêng biệt. Thực tế cổ phiếu đa số vẫn chuyển động rất yếu.
+
+Thị trường ngày 7/4/2017:
+
+Giao dịch hôm nay chủ yếu mạnh ở blue-chips và cũng giới hạn một số mã. Các chỉ số được làm đẹp là chính, còn đa số vẫn không tăng rõ ràng.
+
+Nhóm dầu khí hôm nay là nhóm duy nhất mạnh rõ rệt nhờ sự kiện bất thường xảy ra. Giá dầu có thể xác lập đợt tăng mới và cổ dầu khí thì đang ở vùng thấp tương đối. Nhóm này tăng khá đều là biểu hiện tốt theo nhóm ngành.
+
+Ngân hàng chỉ duy nhất STB là đáng chú ý. Mã này có “game” riêng nên không thể đánh giá theo cách thông thường. Điều quan trọng là các mã ngân hàng khác không tốt. STB kịch trần mà độ hồi ở những cổ phiếu còn lại không đáng kể.
+
+Thị trường đang diễn biến khó chơi vì chỉ số bị nhiễu nhiều, cổ phiếu vẫn có xác suất giảm lớn hơn nhiều xác suất tăng. Tiếp tục vẫn có thông tin hỗ trợ riêng lẻ, chủ yếu là lỗ lãi, chia chác như bình thường. Cổ phiếu nào có tin mà chỉ nhúc nhích được một hôm hay chẳng có phản ứng gì thì thường là yếu. Các thông tin kiểu này thường tác động riêng lẻ và khó bền.
+
+Dòng tiền hôm nay cũng có chút vấn đề. Đầu tiên là tổng giá trị cao chủ yếu nhờ thỏa thuận. Thỏa thuận là yếu tố bất thường, không đại diện cho dòng tiền sẵn sàng giao dịch thật sự có thể tác động lên giá hàng ngày. Thứ hai là trừ ROS có truyền thống giao dịch lớn, hôm nay có thêm STB có câu chuyện riêng, mà lượng vốn nội vào thị trường vẫn không tăng được, tức là thanh khoản đang giảm.
+
+Một cách đơn giản để so sánh sức mạnh từ nhóm blue-chip – những mã chủ yếu tạo động lực hôm nay – là hôm qua lực bán đột ngột mạnh, hạ giá nhiều, tạo dao động rất xấu. Hôm nay chỉ số (HSX30) đảo tăng rất mạnh, lấy lại gần hết dao động giảm hôm qua. Tuy nhiên cổ phiếu thì phục hồi không tương xứng với chính mức giảm phiên trước.
+
+Nói tóm lại đà tăng hôm nay không có tính lan tỏa tốt. Các chỉ số có thể bứt phá nhưng đó là chuyện của chỉ số. Khả năng bứt phá của cổ phiếu là không rõ ràng, thậm chí xác suất lớn vẫn chỉ là tăng giảm dao động trong vùng giá như cũ.
+
+Thời gian để duy trì câu chuyện mới trên thị trường và nuôi dưỡng kỳ vọng không còn nhiều. Trừ các cổ phiếu có “game”, biên lợi nhuận kỳ vọng là không còn cao trên cổ phiếu. Tương quan rủi ro/lợi nhuận lúc này kém hấp dẫn rất nhiều.
+
+Giao dịch:
+
+Mua GAS giá 55.7.
+
+Danh mục theo dõi:
+
+GAS:
+
+Biến động chính trị bất ngờ đêm qua lại dẫn đến lợi thế của cổ phiếu dầu khí trong ngắn hạn. Hôm nay GAS tăng ngay từ sớm nhưng ban đầu Vol còn quá mỏng để chắc chắn về một hướng suy luận chung trên thị trường. Giá bật từ 55.1 lúc mở cửa lên 56.1 rồi rơi trở lại 55.7.
+
+Đây là lúc GAS ổn định và xuất hiện lực đỡ tốt. Giao dịch ở 55.7-55.8 kéo dài tới gần 10h30 với gần 336k. Cho đến hết buổi sáng GAS vẫn chỉ ổn định ở dưới 56. Đến chiều mới thật sự bùng nổ. Vol hôm nay tăng đột biến và mức tăng giá rất khỏe, có nước ngoài nhảy vào mua 365k giá bình quân 56.3, khá muộn. GAS đang có yếu tố hỗ trợ bất thường trong ngắn hạn.
+
+HCM:
+
+Sau phiên dao động xấu hôm qua giá nếu điều chỉnh cũng là bình thường. HCM giảm trong phiên khá sâu hơn 1%, chủ yếu là nửa đầu phiên sáng, đến cuối phiên sáng giá đã hồi chỉ còn giảm 0,3%. Buổi chiều HCM có mạnh lên một chút nữa nhưng chủ đạo vẫn là giao dịch dưới tham chiếu.
+
+Vol hôm nay nhỏ và giá tạo được Doji là khá tích cực. Tổng khớp dưới tham chiếu là 342k ~ 62% Vol. Áp lực bán giảm và có cầu đỡ tốt, HCM khá mạnh.
+
+BVH:
+
+Lực xả tăng lên khá nhiều, ép sâu nhất xuống 57.8. Nửa đầu phiên sáng cũng là lúc yếu nhất, BVH bị ép thủng 58 nhưng Vol không tăng nhiều và buổi chiều ổn định từ 58.1 trở lên. BVH vẫn đang kiểm tra vùng hỗ trợ quanh 58.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.
+

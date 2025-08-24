@@ -1,0 +1,37 @@
+Trong sự kiện “Con người x Xe x Nhà” diễn ra tối 26/6 vừa qua, Xiaomi chính thức giới thiệu chiếc kính thông minh đầu tiên của mình, đánh dấu bước tiến mới của hãng trong thị trường kính thông minh đang phát triển nhanh chóng nhưng đầy cạnh tranh tại Trung Quốc. Chiếc kính thông minh này được Xiaomi định vị là “thiết bị cá nhân thế hệ mới".
+
+CEO kiêm đồng sáng lập Lei Jun cho biết sản phẩm có thể quay video góc nhìn thứ nhất, nhận lệnh bằng giọng nói – những tính năng đang phổ biến trên các dòng kính thông minh. Với mức giá khởi điểm 1.999 Nhân dân tệ (278,5 USD), người dùng có thể sử dụng trợ lý ảo XiaoAI để nhận diện vật thể, dịch văn bản khi đọc sách hoặc thậm chí quét mã QR để thanh toán.
+
+Vào tháng 4, Huawei cũng giới thiệu kính AI mới với giá 2.299 Nhân dân tệ (320 USD), hỗ trợ lệnh thoại và dịch thuật thời gian thực, nhưng không có camera nên không hỗ trợ các tính năng thị giác như sản phẩm của Xiaomi. Cuối năm ngoái, Baidu thông báo sẽ ra mắt kính Xiaodu AI tích hợp mô hình Ernie AI do hãng phát triển, có trang bị camera và dự kiến được tung ra cuối năm nay...
+
+Theo công ty nghiên cứu thị trường Counterpoint, kính thông minh của Meta hiện đang dẫn đầu toàn cầu với hơn 60% thị phần vào năm ngoái. Trên thế giới, nhiều hãng lớn như Google, Meta, Snap, Amazon cũng tin rằng kính thông minh là sản phẩm đột phá tiếp theo của ngành công nghệ. Có hai yếu tố thúc đẩy xu hướng này.
+
+Thứ nhất, sự phát triển bùng nổ của AI tạo sinh đem đến nhiều tính năng hữu ích cho kính như xử lý hình ảnh, video, giọng nói đồng thời và phản hồi theo thời gian thực bằng ngôn ngữ tự nhiên. Thứ hai, smartphone đang trở nên bão hòa, người tiêu dùng mong muốn một thiết bị mới mẻ hơn.
+
+Jitesh Ubrani, Giám đốc phụ trách mảng thiết bị đeo của công ty nghiên cứu thị trường IDC, nói với CNN: "AI đang giúp kính thông minh dễ sử dụng hơn nhiều và cũng mang đến cách tương tác mới cho người dùng". Ví dụ, khi đeo kính Ray-Ban Meta AI, người sử dụng có thể thực hiện các tác vụ như hỏi thông tin hàng hóa, hoặc dịch các ngôn ngữ theo thời gian thực.
+
+Theo những thông tin mới nhất từ Bloomberg, Apple đang âm thầm chuẩn bị ra mắt kính thông minh tích hợp trí tuệ nhân tạo (AI). Đây được xem là bước đi chiến lược nhằm cạnh tranh trực tiếp với những đối thủ lớn như Meta, Google hay Amazon. Apple đang đặt mục tiêu sản xuất hàng loạt nguyên mẫu kính thông minh vào cuối năm 2025, trước khi chính thức tung ra thị trường vào năm 2026.
+
+Trong bài viết mới nhất, Ming-Chi Kuo, nhà phân tích tại TF International Securities, cho biết Apple đang phát triển ít nhất 7 thiết bị đeo trên đầu. Ông nhấn mạnh rằng Apple coi thiết bị đeo đầu là xu hướng lớn tiếp theo trong ngành điện tử tiêu dùng, và nhấn mạnh rằng sự gia nhập của Apple vào thị trường kính thông minh có thể tạo ra một xu hướng mới, với tổng lượng hàng xuất xưởng dự kiến sẽ vượt qua 10 triệu chiếc vào năm 2027.
+
+Nguồn tin từ Bloomberg cho biết kính thông minh AI của Apple sẽ được trang bị đầy đủ camera, micro, loa và tích hợp trợ lý ảo Siri... Thiết bị này sẽ hỗ trợ các tính năng như: Xử lý cuộc gọi thoại; Phát nhạc; Cung cấp chỉ đường chi tiết theo thời gian thực; Dịch ngôn ngữ trực tiếp… Tất cả đều được điều khiển bằng giọng nói và trí tuệ nhân tạo.
+
+Meta và công ty sản xuất kính mắt EssilorLuxottica ngày 20/6 vừa qua cũng đã trình làng tiếp dòng kính thông minh Oakley mới, tích hợp trợ lý AI của công ty này. Oakley Meta HSTN - tên của loại kính - hướng đến các vận động viên và có giá khởi điểm là 399 USD/sản phẩm.
+
+Đây cũng là lần đầu tiên Meta và Luxottica mở rộng dòng kính thông minh của mình ra ngoài thương hiệu Ray-Ban. Meta cũng đang có kế hoạch phát hành các phiên bản kính thông minh của mình dưới thương hiệu Oakley và Prada.
+
+Meta cho biết chiếc kính thông minh mới nhất của công ty này có công nghệ ống kính PRIZM của Oakley, được thiết kế để giúp các vận động viên nhìn rõ hơn "trong điều kiện ánh sáng và thời tiết thay đổi". Theo EssilorLuxottica, phiên bản giới hạn của kính HSTN với tròng kính màu vàng và các điểm nhấn sẽ có giá 499 USD/sản phẩm và người tiêu dùng có thể đặt hàng trước vào ngày 11/7.
+
+Tại sự kiện I/O 2025, Google cũng công bố động thái hợp tác với Warby Parker, cam kết đầu tư đến 150 triệu USD để phát triển kính AI tích hợp Gemini, chạy trên nền tảng Android XR. Hãng cũng kết nối với các thương hiệu thời trang như Gentle Monster hay Kering Eyewear, tạo sản phẩm vừa công nghệ vừa thời trang nhằm lôi kéo nhóm người trẻ ưa hàng hiệu.
+
+Trước đó, Snap cũng công bố sẽ ra mắt Specs – thế hệ kính độc lập (không cần smartphone) vào năm 2026, với ngân sách đầu tư hơn 3 tỷ USD… Có thể thấy, cuộc đua kính thông minh hiện nay không chỉ đơn thuần là cuộc chiến công nghệ, mà là chiến trường định hình lại cách chúng ta tương tác với thế giới.
+
+Theo ABI Research, thị trường kính thông minh ước tính sẽ tăng trưởng từ 3,3 triệu chiếc được xuất xưởng vào năm 2024 lên gần 13 triệu chiếc vào năm 2026. Còn công ty The International Data Corporation dự kiến thị trường kính thông minh như loại do Meta sản xuất sẽ tăng từ 8,8 triệu chiếc vào năm 2025 lên gần 14 triệu chiếc vào năm 2026.
+
+Các con số này cho thấy đây là mảng kinh doanh đầy tiềm năng dù chưa trưởng thành. CEO của Meta, ông Mark Zuckerberg, gần đây cũng nhắc lại niềm tin của mình rằng kính thông minh có thể trở nên quan trọng đối với cách mọi người sử dụng công nghệ.
+
+Tuy nhiên, các công ty cũng sẽ gặp khó khăn khi thuyết phục người dùng phổ thông mua sản phẩm. Những thiết bị này cần phải xứng đáng để mọi người đeo trên mặt cả ngày. Tiếp theo, phải giải quyết mối lo ngại về quyền riêng tư. Việc quay video, chụp ảnh bằng kính tích hợp camera khó nhận biết hơn so với sử dụng điện thoại, dù cả Meta và Google đều trang bị đèn báo hiệu khi kính ghi hình.
+
+Bên cạnh đó, mục tiêu của kính thông minh trong việc “phục vụ nhu cầu thực” vẫn chưa rõ ràng. Người dùng hiện đã có trợ lý ảo, dịch thuật, điều hướng GPS, quay video, chụp ảnh, kết nối mạng xã hội – trong một chiếc điện thoại. Giá của một chiếc kính thông minh hiện dao động từ 299 – 599 USD, trong khi chức năng chỉ bằng một phần nhỏ của smartphone.
+
+Theo công ty nghiên cứu Counterpoint Research, lượng đồng hồ thông minh toàn cầu xuất xưởng đã giảm lần đầu tiên vào tháng 3. Đây là một dấu hiệu cho thấy khách hàng hiện không chi tiêu nhiều cho các thiết bị mà họ có thể không cho là thiết yếu.

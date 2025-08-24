@@ -1,0 +1,23 @@
+Đó là khẳng định của ông Vũ Anh Tuấn, Tổng thư ký Hội Tin học TP.HCM (HCA) – Chủ nhiệm Câu lạc bộ AIoT TP.HCM tại sự kiện Viettel IoT Day 2023 ngày 19/12.
+
+Theo đó, chủ trương phát triển đề án IoT mà Bộ Thông tin và Truyền thông đang lấy ý kiến của các doanh nghiệp thì việc cam kết hiện thực hóa mục tiêu Net Zero vào năm 2050 có ảnh hưởng rất lớn đến phát triển của thị trường IoT. Để làm được điều này, chắc chắn Việt Nam phải ứng dụng IoT một cách mạnh mẽ và nhanh chóng chứ không chỉ đơn thuần là ứng dụng trong gia đình, doanh nghiệp nhỏ lẻ như hiện nay.
+
+Theo ông Tuấn, bài toán đặt ra là ứng dụng công nghệ vào sản xuất, trồng trọt trên những cánh đồng lớn làm sao để tiết kiệm năng lượng, giảm khí thải và kiểm soát tối ưu, hoàn toàn tự động theo thời gian thực một cách chính xác. Từ đó, sẽ có những phương án kéo giảm phác thải vì mục tiêu Net Zero. Ngoài ra, các chỉ số đo đạc đều phải minh bạch và đối tác hoàn toàn có thể kiểm chứng thông qua những platform tự động.
+
+Thực tế trong thời gian gần đây, ngành dệt may gặp rất nhiều khó khăn và rất nhiều đơn hàng đã mất. Tương tự cho những ngành khác trong tương lai như gỗ, da giầy, giấy,… đến xi măng, sắt, thép và ngay cả ngành hàng lương thực thực phẩm.
+
+Các doanh nghiệp Việt Nam đang thua nước khác, đi sau nước khác vì thiếu chứng chỉ carbon và thực hành “Net Zero”. Đó là sân chơi quốc tế, bắt buộc chúng ta phải tuân thủ. Nếu chúng ta không làm ngay từ bây giờ thì các đơn hàng sẽ đi sang các quốc gia khác.
+
+Tại sự kiện, đại diện các doanh nghiệp là những chuyên gia đầu ngành đã trình bày quan điểm và trao đổi trong phiên thảo luận, cung cấp nhiều thông tin về xu hướng và những dự báo về thị trường IoT trong lĩnh vực smart home, sản xuất, chăm sóc sức khỏe, thiết bị đeo, camera an ninh giám sát tích hợp cảm biến nhiệt độ, báo cháy… sẽ được dự báo tăng trưởng trong thời gian tới. Ngoài ra, sự kiện cũng thúc đẩy sự hợp tác chặt chẽ của cộng đồng IoT Việt Nam, cũng như gia tăng kết nối với doanh nghiệp nước ngoài.
+
+Về chủ đề công nghệ và xu hướng phát triển tương lai, các diễn giả từ Deloitte và Viettel Network về xu hướng, chiến lược công nghệ IoT trong nước và thế giới. Bên cạnh đó, các giải pháp kết nối vạn vật như chipset IoT, Mobile Edge và AI Everywhere sẽ được đại diện Qualcomm và Intel Việt Nam cung cấp về định hướng kinh doanh cùng mô hình công nghệ, tạo tiền đề cho các công ty công nghệ khởi nghiệp có thể tìm thấy hướng đi, cũng như xây dựng lộ trình phát triển.
+
+Trong lĩnh vực giải pháp an ninh, năng lượng và nhà thông minh, sự kiện đem đến góc nhìn của diễn giả từ 3 doanh nghiệp trong lĩnh vực smarthome gồm Mediatek, Rạng Đông và T3 Technology Việt Nam. Những nhận định về xu thế phát triển, bài học kinh nghiệm và giải pháp IoT nhà thông minh sẽ mở ra những hướng đi mới nhằm thúc đẩy thị trường này tại Việt Nam.
+
+Ông Nguyễn Trọng Tính, Phó Tổng Giám đốc Viettel Telecom bày tỏ mong muốn Viettel trở thành cầu nối để toàn bộ các chuyên gia, các doanh nghiệp IoT Việt Nam và khu vực có thể cập nhật các xu thế mới về công nghệ, nắm bắt các định hướng từ Chính phủ, chia sẻ kinh nghiệm và kết nối cộng đồng.
+
+Ở lĩnh vực smarthome, Viettel đã và đang đặt ra một hướng đi mới, trở thành điểm kết nối cho các doanh nghiệp, cùng phổ cập nhà thông minh tới mọi gia đình. Trong đó, ứng dụng Viettel Home giúp kết nối mọi thiết bị thông minh trong gia đình, cũng như quản lí và lưu trữ thông tin trên hạ tầng cloud mạnh mẽ của Viettel.
+
+“Lĩnh vực IoT nói chung và smarthome nói riêng sẽ có sự phát triển vượt bậc trong thời gian tới, smarthome sẽ không chỉ dừng ở mật độ 12% như hiện nay. Để làm được điều này, Viettel không thể đi một mình mà cần sự cộng tác, đồng hành của mọi doanh nghiệp công nghệ đặc biệt trong các lĩnh vực cung cấp thiết bị, phát triển giải pháp và cung ứng sản phẩm ra thị trường”, ông Tính nhấn mạnh.
+
+Trong khuôn khổ Viettel IoT Day, khu trưng bày sản phẩm công nghệ, giải pháp mới bao gồm 20 gian hàng đã thu hút sự quan tâm của đông đảo khách mời và người tham quan. Nội dung lĩnh vực trao đổi cũng được mở rộng, không chỉ về công nghệ mà còn tập trung vào các ứng dụng use case thực tế áp dụng cho sự phát triển IoT diện rộng trong ngành điện, nước, chiếu sáng đô thị cũng như giải pháp ứng dụng AI cho smarthome.

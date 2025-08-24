@@ -1,0 +1,19 @@
+Tọa đàm “Ứng dụng AI trong ngành Y Dược: Xu hướng toàn cầu và thực tiễn tại Việt Nam”, sáng 24/8 nhận được nhiều sự quan tâm. Tọa đàm do Viện Công nghệ Blockchain và Trí tuệ nhân tạo (ABAII), Hiệp hội Blockchain Việt Nam (VBA) và Đại học Y Dược TP.HCM tổ chức.
+
+Tại tọa đàm, GS.TS.BS Trần Diệp Tuấn, Chủ tịch Hội đồng Đại học Y Dược TP.HCM, cho biết hiện nay tại Việt Nam, AI đang mở ra nhiều cơ hội mới cho ngành y tế và đang được ứng dụng thực tế ở nhiều bệnh viện, cơ sở điều trị. Thực tế, Đại học Y Dược TP.HCM cũng đang chủ động khai thác những cơ hội này bằng cách đẩy mạnh nghiên cứu, đào tạo, tích hợp AI vào hoạt động khám chữa bệnh.
+
+Tuy nhiên, theo GS. Tuấn, AI cũng có những giới hạn, những điểm yếu cần lưu ý, đặt ra yêu cầu đối với người sử dụng là phải có trách nhiệm như bảo vệ quyền riêng tư của người bệnh, đảm bảo sự công bằng khi tiếp cận y tế.
+
+Đồng quan điểm này, ông Phan Đức Trung, Phó Chủ tịch thường trực VBA, cho biết sẽ hỗ trợ Đại học Y Dược TP.HCM trong một số hoạt động như dùng AI làm phong phú đề thi, cung cấp nền tảng đào tạo và giảng dạy thông qua hệ thống học trực tuyến MasterTeck. Đồng thời, VBA và Viện ABAII hỗ trợ Đại học Y Dược quản trị và cấp bằng trên mạng lưới blockchain, cung cấp các khóa tập huấn, đào tạo cán bộ giảng viên sử dụng những ứng dụng AI để nghiên cứu và ứng dụng AI trong y tế.
+
+Theo nghiên cứu của trường Y tế Cộng đồng Harvard (Hoa Kỳ), việc áp dụng AI có thể giảm thiểu chi phí điều trị lên đến 50% và cải thiện sức khỏe đến 40% nhờ khả năng khai thác và phân tích lượng dữ liệu khổng lồ để nâng cao hiệu quả chẩn đoán và điều trị bệnh.
+
+Đánh giá chung về tác động của AI đối với ngành Y, ông Đào Trung Thành, Phó Viện trưởng Viện ABAII, cho rằng thành tựu lớn nhất của AI trong ngành y hiện có thể kể đến như chẩn đoán bệnh, phát triển thuốc, quản lý hồ sơ bệnh án, robot phẫu thuật, trợ lý ảo y tế 24/7. Chẳng hạn, hiện nay AI có khả năng phân tích hình ảnh y tế như X-quang, MRI và CT scan để phát hiện dấu hiệu bệnh lý tiềm ẩn với độ chính xác cao và tốc độ nhanh chóng (các ứng dụng tiêu biểu như Zebra Medical Vision, Qure.ai, Paige AI...)
+
+Ông Thành cũng viện dẫn các ứng dụng thực tiễn, công nghệ AI tối ưu hóa quá trình phát triển thuốc thông qua khả năng xác định các mục tiêu và phát triển thuốc mới, mô phỏng quá trình sinh học và tính toán kết quả dự kiến bằng các công cụ như BenevolentAI, Insilico Medicine, Atomwise,... Đặc biệt, AI có thể nâng cao hiệu quả phẫu thuật với robot AI trong các ca phẫu thuật phức tạp, giúp giảm thiểu xâm lấn hoặc chỉ thực hiện phẫu thuật qua một cổng duy nhất (Intuitive Surgical, Versius Robotics, Transenterix..).
+
+“AI đáng tin cậy là định nghĩa tổng hòa của các yếu tố AI đúng luật, AI có đạo đức và AI bền vững. Trong đó, yếu tố AI có đạo đức phải thỏa mãn 4 nguyên tắc là: Tôn trọng quyền tự quyết, phòng ngừa sự gây hại, công bằng và rõ ràng”, ông Thành nhấn mạnh.
+
+Tại tọa đàm, TS.BS Hoàng Lê Phúc, Trưởng khoa Tiêu hóa Bệnh viện Nhi Đồng 1, hướng dẫn chi tiết các bạn sinh viên cách thức áp dụng và tối ưu hiệu quả của ChatGPT trong công tác nghiên cứu, học tập và điều trị bệnh như hỗ trợ bệnh nhân sắp xếp cuộc hẹn với bác sĩ, tóm tắt hồ sơ bệnh án, dịch thuật y văn, tổng hợp tài liệu...
+
+Được biết, tọa đàm “AI trong ngành Y Dược - Xu hướng toàn cầu và Cơ hội bứt phá nghề nghiệp cho sinh viên” là chương trình thứ 9 trong chuỗi Unitour. Unitour là một trong số các dự án xã hội mà ABAII và VBA đang tích cực triển khai để phổ cập Blockchain, AI, đồng thời giúp nâng cao năng lực lao động trẻ, tối ưu quy trình cho doanh nghiệp...

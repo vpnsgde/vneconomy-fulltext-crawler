@@ -1,0 +1,21 @@
+Báo The Hindu đưa tin, ZyCoV-D là vaccine "bơm tiêm không có kim tiêm". Vaccine này được đưa vào cơ thể bằng một ống bơm không mũi tiêm dùng một lần, bơm một dòng chất lỏng hẹp thâm nhập vào da, đến mô thích hợp. Theo nhà sản xuất, việc không dùng kim tiêm có thể giảm đáng kể các tác dụng phụ.
+
+Giáo sư Shahid Jameel, một nhà virus học nổi tiếng cho biết: "Tôi khá hào hứng với vaccine này vì nó có nhiều tiềm năng tốt. Nếu vaccine này hiệu quả, tương lai của việc tiêm chủng trở nên đơn giản hơn về mặt hậu cần".
+
+ZyCoV-D sử dụng một phần vật liệu di truyền từ virus như DNA hoặc RNA để tạo ra protein cụ thể mà hệ thống miễn dịch con người nhận ra và phản ứng. DNA và RNA là các cơ sở của mọi dạng sự sống trên trái đất. Chúng là các phân tử mang thông tin di truyền được truyền từ cha mẹ sang con cái.
+
+Giống như các loại vaccine khác, vaccine DNA, một khi được sử dụng, sẽ dạy cho hệ thống miễn dịch của cơ thể chống lại virus. ZyCoV-D sử dụng plasmid hoặc các chuỗi DNA nhỏ, chứa thông tin di truyền, để đưa vaccine vào giữa hai lớp da. Các plasmid mang thông tin đến các tế bào để tạo ra "protein đột biến", mà virus sử dụng để bám vào và xâm nhập vào các tế bào của con người.
+
+Đây là vaccine DNA người đầu tiên trên thế giới chống lại Covid-19. Hiện có hơn 160 loại vaccine DNA khác nhau đang được thử nghiệm trong các thử nghiệm lâm sàng trên người ở Mỹ. Hầu hết được dành để điều trị các bệnh ung thư hiện có, và một phần ba số vaccine là để điều trị HIV.
+
+Tiến sĩ Gagandeep Kang, một nhà virus học và là phụ nữ Ấn Độ đầu tiên được bầu chọn trở thành Thành viên Royal Society of London cũng cho ý kiến: "Để có một loại vaccine DNA có tác dụng chống lại một bệnh truyền nhiễm là một vấn đề lớn. Nếu nó bảo vệ tốt thì đây là điều mà Ấn Độ sẽ tự hào".
+
+Đây cũng là lần đầu tiên một loại vaccine Covid-19 đã được thử nghiệm ở những người trẻ tuổi ở Ấn Độ - hơn 1.000 người thuộc nhóm 12 - 18 tuổi. Vaccine này được cho là "an toàn và được dung nạp rất tốt" ở nhóm tuổi này. Giai đoạn thứ ba quan trọng của các thử nghiệm lâm sàng được tiến hành ở đỉnh điểm của đợt bùng dịch thứ hai. Nhà sản xuất vaccine tin rằng điều này đã tái khẳng định "hiệu quả chống lại các chủng đột biến" của vaccine này, đặc biệt là biến thể Delta có khả năng lây nhiễm cao.
+
+Ngay sau khi được Cơ quan Quản lý dược phẩm Ấn Độ (DCGI) cấp phép sử dụng khẩn cấp, Zydus đã cung cấp thêm thông tin rằng loại vaccine này cần phải tiêm 3 mũi và cho hiệu quả chống lại biến thể Delta. "Hiệu quả của vaccine Covid-19 do chúng tôi phát triển đối với biến thể Delta là khoảng 66%,", trang Business Standard dẫn lời ông Sharvil Patel - một nhân sự cấp cao của Zydus - khẳng định.
+
+Kết quả tạm thời từ thử nghiệm lâm sàng giai đoạn III trên 28.000 tình nguyện viên cho thấy hiệu quả của ZyCoV-D là 66,6% đối với các trường hợp dương tính có triệu chứng được xác nhận bằng xét nghiệm RT-PCR. Do sử dụng công nghệ dựa trên plasmid ADN nên ZyCoV-D có thể được điều chỉnh để đối phó với các đột biến mới của virus SARS-CoV-2. Khi tiêm vào người, loại vaccine này sẽ tạo ra các protein gai như của SARS-CoV-2 để kích thích cơ thể sinh miễn dịch, theo Bộ Công nghệ sinh học Ấn Độ.
+
+Người chọn vaccine ZyCoV-D cần được tiêm 3 mũi cách nhau 28 ngày. Đối tượng có thể tiêm là người trưởng thành và trẻ em từ 12 tuổi trở lên. Zydus Cadila cho biết loại vaccine này giữ được "trạng thái ổn định tốt” ở 25 độ C trong ít nhất 3 tháng. Theo Bộ Công nghệ Sinh học Ấn Độ, sau khi được phê duyệt khẩn cấp, vaccine ZycoV-D sẽ sớm sẵn có và việc dự trữ đã được triển khai.
+
+Đây là loại vaccine Covid-19 thứ 5, sau Covishield, Covaxin, Sputnik V và Moderna được phép sử dụng ở Ấn Độ. Đến nay, chương trình tiêm chủng của Ấn Độ cơ bản sử dụng Covishield và Covaxin, chiếm tới gần 90% số liều đã tiêm đến thời điểm hiện tại. Khoảng 1/3 người trưởng thành Ấn Độ đã tiêm ít nhất 1 liều vaccine Covid-19 và 10% đã tiêm 2 liều.

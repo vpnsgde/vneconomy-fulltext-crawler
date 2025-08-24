@@ -1,0 +1,53 @@
+Ngoài ra, còn nhiều chiêu trò như: tuyển cộng tác viên nhận hoa hồng (một trong những hình thức việc nhẹ lương cao), thi tuyển người mẫu, cầu thủ nhí, người đại diện thương hiệu… Đồng thời, Cục An toàn thông tin cũng khuyến cáo: Khi nhận được cuộc gọi hoặc các tin nhắn có dấu hiệu giả mạo, người dân cần chặn các phương thức liên hệ và báo cáo người gửi lên hệ thống máy chủ nhằm kịp thời ngăn chặn hành vi lừa đảo.
+
+Mới đây, Công an TP.HCM cho biết xuất hiện các thẻ "lạ" này màu vàng có ghi số 50.000 ở mặt trước. Mặt sau thẻ ghi nhiều thông tin hướng dẫn và kèm theo số thẻ, mật khẩu cùng mã QR.
+
+Cụ thể, thông tin mặt sau hướng dẫn có ghi: "Mệnh giá thẻ này có thể thông qua bằng cách quét mã QR để nhận. Quét mã QR để liên hệ với bộ phận CSKH (chăm sóc khách hàng) sau đó cung cấp tài khoản mật khẩu của thẻ để nhận được số tiền tương ứng. Khi liên hệ với bộ phận CSKH, bạn vui lòng chụp lại ảnh số tiền trên thẻ và tài khoản mật khẩu. Để nhận được số tiền của thẻ chỉ cần nạp 50K (50.000 đồng) sẽ được tặng 50K".
+
+Thủ đoạn dùng thẻ "lạ" chứa mã QR treo trên xe, cửa nhà để lừa người khác là rất mới. Nếu vô tình quét mã QR có thể khiến điện thoại bị xâm nhập, chiếm quyền điều khiển. Khi đó, đối tượng lừa đảo sẽ dễ dàng chiếm đoạt tiền trong tài khoản ngân hàng, ngang nhiên sử dụng hình ảnh có trong điện thoại, lấy các thông tin cá nhân, tài khoản mạng xã hội…
+
+Hình thức lừa đảo mã QR đã nhiều lần xuất hiện các chiêu trò tinh vi khác nhau. Cụ thể, trước đó các đối tượng sẽ tìm cách dán đè mã QR lên các mã QR được chủ các cửa hàng kinh doanh dán sẵn (hay còn gọi là đánh tráo mã QR). Khi khách đến mua hàng, thanh toán, những tưởng chuyển tiền cho chủ quán, nhưng thực chất chuyển đến tài khoản của đối tượng lừa đảo. Nếu chủ quán và khách hàng không cẩn thận kiểm tra có thể sập bẫy.
+
+Trước thông tin trên, Cục An toàn thông tin khuyến cáo người dân hết sức cẩn trọng khi quét mã QR, cần xác minh kỹ thông tin giao dịch mới thực hiện các bước chuyển tiền trực tuyến. Khi quét mã QR code có đưa tới đường link lạ, cần phải kiểm tra kỹ có bắt đầu với https và tên miền hay không, mới quyết định thực hiện các thao tác tiếp theo.
+
+Bên cạnh đó, người dân cần xác định, kiểm tra kỹ càng thông tin tài khoản người trao đổi mã QR code, kiểm tra kỹ nội dung trang website mà mã QR code đưa tới. Tuyệt đối không cung cấp các thông tin cá nhân như tài khoản ngân hàng, tài khoản mạng xã hội… và phải xác thực 2 yếu tố, sử dụng các phương thức bảo vệ khác cho các loại tài khoản đang sử dụng.
+
+Mới đây, Công ty phần mềm Symantec đã cảnh báo người dùng iPhone trước những tin nhắn lừa đảo giả mạo Apple nhằm mục đích đánh cắp dữ liệu cá nhân, mật mã tài khoản Apple ID.
+
+Với việc các thiết bị Apple được sử dụng rộng rãi, nhiều người dùng đã trở thành nạn nhân của hành vi lừa đảo. Mục tiêu mà kẻ lừa đảo nhắm tới là tài khoản Apple ID. Một khi đã có được mật khẩu của các tài khoản này, đối tượng xấu sẽ dễ dàng chiếm quyền điều khiển thiết bị, truy cập vào các dữ liệu cá nhân, thông tin ngân hàng, từ đó thực hiện các giao dịch chuyển khoản nhằm chiếm đoạt tài sản.
+
+Phía Symantec cũng cho biết rằng người dùng có xu hướng mất cảnh giác đối với một thương hiệu lớn như Apple, điều này vô tình tạo điều kiện thuận lợi cho các đối tượng thực hiện hành vi lừa đảo.
+
+Các tin nhắn thường được gửi đến với nội dung như: “Yêu cầu đăng nhập iCloud, tham gia vào đường dẫn signin[.]authen-connexion[.]info/icloud để tiếp tục sử dụng thiết bị và dịch vụ”. Khi nhấn vào đường dẫn, người dùng sẽ được chuyển hướng tới trang web đăng nhập iCloud giả mạo.
+
+Trước thực trạng lừa đảo diễn ra, Cục An toàn thông tin khuyến cáo người dân kiểm tra kỹ thông tin, số điện thoại của người gửi trước khi nhận được tin nhắn qua các nền tảng mạng xã hội, email. Bật chế độ xác thực nhiều lớp đối với tài khoản iCloud nói riêng và các tài khoản khác nói chung.
+
+“Tuyệt đối không chia sẻ mật khẩu, mật mã mở khóa thiết bị, mật mã bảo mật hai lớp cho bất kỳ đối tượng nào. Chủ động cập nhật phần mềm nhằm gia tăng mức độ bảo mật cũng như khắc phục những lỗ hổng bảo mật ở các bản cập nhật trước”, Cục An toàn thông tin khuyến cáo.
+
+Lợi dụng các sự kiện lớn sắp diễn ra hoặc thời gian nghỉ lễ của trẻ nhỏ, các đối tượng tạo lập các trang mạng xã hội đăng thông tin tuyển người mẫu, ca sĩ, cầu thủ nhí hoặc tuyển đại diện cho các thương hiệu lớn để quảng bá sản phẩm.
+
+Sau khi người dân đăng ký tham gia, đối tượng sẽ thu thập thông tin cá nhân của người dân và gia đình. Các đối tượng tiếp tục hướng dẫn người dân vào trang web của chương trình để làm nhiệm vụ tăng tương tác, tăng lượt bình chọn, sau đó yêu cầu chuyển tiền để hoàn thành nhiệm vụ, nhận lại tiền sau khi hoàn thành nhiệm vụ. Cùng với đó, người dân được mời vào các nhóm kín trên mạng xã hội, trong đó có nhiều tài khoản "vào vai" các phụ huynh khác để thúc giục nạn nhân chuyển tiền hoàn thành nhiệm vụ.
+
+Trước thông tin trên, Cục An toàn thông tin khuyến cáo người dân cần tuyệt đối cẩn trọng trước các thông tin tuyển dụng trên mạng xã hội. Tìm hiểu kỹ về các công ty, trung tâm trước khi đăng ký tham gia các chương trình qua mạng xã hội. Chỉ chọn các công ty, trung tâm có uy tín, đã kiểm tra, xác thực chính xác thông tin bằng cách liên hệ hotline của các công ty đăng tải trên trang web chính thống.
+
+“Tuyệt đối không cung cấp thông tin cá nhân của bản thân và người thân trên các trang web, trang mạng xã hội khi chưa xác định chính xác mức độ uy tín. Cảnh giác trước khi chuyển tiền phí tham dự chương trình, nếu có thể hãy đến trực tiếp văn phòng của công ty/trung tâm để làm việc; không thực hiện các giao dịch chuyển tiền để làm nhiệm vụ online”, Cục An toàn thông tin khuyến cáo.
+
+Vào ngày 30/6/2024, Công an phường Khương Thượng, quận Đống Đa nhận được đơn trình báo của chị L. (sinh nắm 2000, hộ khẩu thường trú tỉnh Thanh Hoá) về việc bị lừa hơn 300 triệu đồng khi làm cộng tác viên online cho một công ty thẩm mỹ viện.
+
+Chị L. cho biết, có nhận được đường link làm nhiệm vụ sẽ được hưởng hoa hồng của công ty. Với lời mời chào hấp dẫn, chị L. đã chuyển 330 triệu đồng nhưng không rút được tiền. Lúc này chị mới biết mình bị lừa và đến cơ quan công an trình báo.
+
+Với quảng cáo việc nhẹ lương cao, chỉ cần ngồi một chỗ vẫn có thể kiếm tiền, nhiều nạn nhân bị sập bẫy bởi chiêu trò làm cộng tác viên online để nhận hoa hồng.
+
+Qua vụ việc trên, Cục An toàn thông tin khuyến cáo người dân cảnh giác và tuyên truyền đến người thân, bạn bè về thủ đoạn trên, tránh mắc bẫy của đối tượng xấu. Đây không phải thủ đoạn mới, nhưng nhiều người vẫn mất cảnh giác, sập bẫy chiêu trò này. Khi làm cộng tác viên thanh toán đơn hàng cho các công ty, doanh nghiệp, đơn vị cung ứng hàng hóa, dịch vụ, người dân cần kiểm tra rõ các thông tin về hàng hóa và đơn vị cung cấp thông qua nhiều nguồn khác nhau để kiểm chứng tính chính xác.
+
+Mới đây, Chính quyền về phương tiện truyền thông đại chúng tại Úc (ACMA) đã đưa ra cảnh báo về hình thức lừa đảo mới, khuyến cáo người dân đề cao cảnh giác khi nhận được những tin nhắn, cuộc gọi đến từ công ty thương mại điện tử Amazon.
+
+Các đối tượng chủ động liên hệ với nạn nhân thông qua tin nhắn điện thoại, nền tảng mạng xã hội, thậm chí là gọi điện với những thông báo về việc tài khoản Amazon của người dùng bị khóa, hết hạn hoặc các đơn hàng không thể được vận chuyển thành công, yêu cầu bổ sung thêm dữ liệu cá nhân, thông tin tài chính và ngân hàng.
+
+Một hình thức lừa đảo khác cũng được ACMA đề cập tới đó là việc các đối tượng liên hệ, nói rằng một bưu phẩm đứng tên nạn nhân có chứa đựng chất cấm và các vật dụng trái phép, yêu cầu nạn nhân xác minh bằng việc cung cấp các thông tin cá nhân, dữ liệu quan trọng.
+
+“Các đối tượng lừa đảo còn mời chào, dụ dỗ người dùng đăng ký hoặc gia hạn dịch vụ Amazon Prime - gói dịch vụ giúp cho người dùng mua được sản phẩm với mức giá vô cùng ưu đãi. Để tham gia, người dùng sẽ được gửi các quảng cáo, đường dẫn có chứa trang web giả mạo. Sau khi truy cập vào trang web, các đối tượng sẽ chiếm được quyền điều khiển thiết bị của nạn nhân, theo dõi màn hình và các thao tác mà nạn nhân thực hiện, từ đó đánh cắp thông tin và thực hiện các giao dịch chuyển khoản trái phép”, Đại diện phía ACMA cho biết thêm.
+
+Trước tình hình lừa đảo, Cục An toàn thông tin khuyến cáo người dùng đề cao cảnh giác trước các tin nhắn, cuộc gọi liên quan tới Amazon nói riêng và các sàn thương mại điện tử khác nói chung. Cẩn trọng xác minh lại thông qua cổng thông tin điện tử chính thống hoặc trực tiếp liên hệ với đội ngũ nhân viên hỗ trợ.
+
+Đặc biệt, tuyệt đối không nhấn vào các đường link lạ, không cung cấp dữ liệu cá nhân, thông tin tài chính và ngân hàng cho bất kỳ đối tượng lạ nào. Khi nhận thấy dấu hiệu lừa đảo, người dùng cần báo cáo với đội ngũ kỹ thuật nhằm kịp thời kiểm tra và ngăn chặn các hành vi lừa đảo chiếm đoạt tài sản.

@@ -1,0 +1,33 @@
+Năm 2023 đã chứng kiến những cuộc tranh luận gay gắt về AI. Công nghệ này đã và đang ảnh hưởng tới đời sống, dần trở thành yếu tố mới định hình kinh tế- xã hội toàn cầu. Các chatbot AI trở thành nơi tìm kiếm và truy vấn thông tin của hàng triệu người. ChatGPT của OpenAI đạt mức 100 triệu người dùng chỉ trong vòng hai tháng, mức tăng trưởng kỷ lục so với bất kỳ loại dịch vụ Internet nào (Facebook cần 4,5 năm để đạt mốc này). Đặc biệt, sự xuất hiện của mô hình ngôn ngữ GPT-3 (2022) và GPT-4 (2023) đánh dấu một bước tiến quan trọng trong sự phát triển của AI.
+
+Tuy nhiên, đi cùng với sự phát triển là những dự báo về mặt trái của AI. Theo các nhà kinh tế học tại Goldman Sachs (Hoa Kỳ), khoảng 300 triệu người trên thế giới có thể sẽ mất việc vì công nghệ này.
+
+AI đã có sự phát triển ấn tượng trong một năm qua và đang là chủ đề nóng trên toàn cầu. Tại tọa đàm “AI: Tiềm năng đột phá và thách thức” vừa diễn ra, các chuyên gia công nghệ nhận định, Cách  mạng công nghiệp lần thứ tư với công nghệ AI tạo ra sự đột phá trong lịch sử để thay đổi về năng suất làm việc và phát triển kinh tế toàn cầu. Tất cả các quốc gia trên toàn cầu, cá nhân, doanh nghiệp ở mọi quy mô đều có tiềm năng nếu nắm bắt được cơ hội thay đổi đột phá này.
+
+Từ thực tế ứng dụng AI trong doanh nghiệp, TS. Xuedong Huang, Giám đốc Công nghệ Tập đoàn Zoom (Hoa Kỳ) nêu quan điểm: “AI tạo một giai đoạn mới về cách con người kết nối, cộng tác, liên lạc với nhau. Chúng ta có thể trở thành công dân tốt hơn nhờ cuộc cách mạng AI”.
+
+AI đã được ứng dụng hiệu quả trong thực tế. Tại Microsoft, thông qua liên kết các mô hình AI đã mang lại chất lượng chính xác 99,9% với chi phí chỉ 6% so với các thuật toán AI thông thường. Hiện nay đang có nhiều mô hình AI tốt trên thị trường.
+
+Chia sẻ quan điểm này, TS. Padmanabhan Anandan, nhà khoa học nổi tiếng toàn cầu về thị giác máy tính và AI, nhà sáng lập của AI Matters Advisors LLC và Chủ tịch Hội đồng điều hành Telangana AI Mission (T-AIM) Graphic, nhận xét: AI đã và đang ảnh hưởng lớn đến nhiều ngành công nghiệp khác nhau và tác động này sẽ không dừng lại.
+
+Chuyên gia này đánh giá có ba lĩnh vực được thúc đẩy bởi AI. Thứ nhất, nghiên cứu khoa học ở mọi lĩnh vực để phát triển những đổi mới và giải pháp mới. Thứ hai, trong lĩnh vực sản xuất, AI sẽ giúp cải thiện hiệu suất, quản lý tồn kho và chuỗi cung ứng như đặt hàng chính xác và tăng hiệu quả trong khâu vận chuyển từ nhà máy đến người tiêu dùng. Thứ ba, tăng cường tương tác trực tiếp với khách hàng trong cung cấp dịch vụ, sản phẩm.
+
+Tất nhiên, AI không tạo ra tác động như nhau cho tất cả các lĩnh vực. Một số ngành có tiềm năng áp dụng tốt hơn, như dược phẩm, nghiên cứu thuốc hoặc trong lĩnh vực sinh học cơ bản. Mặt khác, các ngành sáng tạo chỉ mới bắt đầu “cảm nhận” tác động của AI thời gian gần đây. Nhiều người sáng tạo nội dung đang tận dụng AI để cải thiện chất lượng và sức hấp dẫn, tính phù hợp của sản phẩm với người xem, cả ở phương diện viết lẫn truyền thông thị giác.
+
+Nhìn nhận về cách AI hỗ trợ các nước khu vực, chuyên gia này cho rằng AI có thể mang lại nhiều lợi ích cho các lĩnh vực. Ví dụ với các công cụ thiết bị đọc, phân tích tín hiệu hình ảnh, chụp X quang, cộng hưởng từ, AI có thể hỗ trợ các bác sĩ trong đọc kết quả để biết bệnh nhân có bị bệnh lao phổi không… AI cũng có thể đưa ra các hướng dẫn nông dân trồng trọt tốt hơn, dự đoán tình trạng xảy ra dịch bệnh. Trong Covid-19, AI cũng thể hiện hữu ích khi phòng ngừa lây lan dịch bệnh. AI có nhiều ứng dụng hữu ích để nâng cao cuộc sống con người.
+
+Với thực tế này, TS. Padmanabhan Anandan khẳng định: làn sóng AI đã phát triển đạt được những thành tựu nhất định và hiện khá thành công so với trước đây. AI không còn là bong bóng, giấc mơ viển vông nữa. Chắc chắn AI sẽ sớm chuyển sang một làn sóng phát triển công nghệ tiếp theo với nhiều tiềm năng, triển vọng.
+
+Cùng quan điểm này, GS. Leslie Gabriel Valiant, Đại học Harvard (Hoa Kỳ), nhấn mạnh AI là một tiến bộ khoa học, công nghệ lớn trong lịch sử và sẽ tồn tại, phát triển rực rỡ hơn nữa. AI sẽ phát triển có năng lực giống con người để giải quyết các vấn đề. “Sẽ không có mùa đông công nghệ với AI”, chuyên gia này nói.
+
+
+
+Còn TS. Bùi Hải Hưng, Tổng giám đốc của VinAI, cho rằng với thực tế ngày càng có nhiều người dùng Chat GPT thì AI không còn là giấc mơ. Các năng lực của công nghệ này đã hiện thực và đây là thời điểm cần phải nghiêm túc hơn trong nghiên cứu, phát triển ứng dụng AI.
+
+Mặc dù tiềm năng của AI còn nhiều vấn đề chưa rõ ràng nhưng trong thực tế hiện nay, AI đã được ứng dụng ở mọi nơi với mức độ nhất định. Theo các nhà khoa học, các tiến bộ trong nghiên cứu AI đã mở ra triển vọng đáng kinh ngạc cho tăng trưởng kinh tế.
+
+Các công ty và tổ chức nghiên cứu có thể tận dụng sức mạnh tính toán của AI để tăng cường năng suất và giảm thời gian nghiên cứu. Nhờ đó, chi phí sản xuất được tiết giảm, khả năng đổi mới được tăng cường, giúp tạo ra một môi trường làm việc thú vị và cạnh tranh, tiết kiệm công sức của con người trong những phần việc truyền thống...
+
+Nội dung bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 52-2023 phát hành ngày 25-12-2023.Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

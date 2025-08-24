@@ -1,0 +1,31 @@
+Mô hình MVNO đã xuất hiện từ những năm 1990 tại Anh và sau đó được triển khai ra nhiều quốc gia khác. Ở Việt Nam, đến năm 2019, mạng di động ảo mới có mặt trên thị trường. Thời gian qua, chỉ có 4 doanh nghiệp xin cấp giấy phép cung cấp dịch vụ MVNO có hạ tầng (mô hình MVNO đầy đủ - Full MVNO). Nhưng hiện nay, chỉ có 3 doanh nghiệp đã cung cấp dịch vụ (Đông Dương, Mobicast, ASIM) với thị phần không đáng kể (chỉ chiếm 1,3% tổng số thuê bao di động).
+
+So với các nước trong khu vực thì số lượng doanh nghiệp MVNO ở Việt Nam còn hạn chế, thị trường MVNO chưa phát triển. Theo thống kê, trên thế giới hiện có khoảng 1.300 doanh nghiệp MVNO đang hoạt động tại 79 quốc gia. Trong đó châu Âu có 585 MVNO, Châu Á- Thái Bình Dương có 129 MVNO, Bắc Mỹ có 107 MVNO, còn lại ở 9 quốc gia vùng LAMEA.
+
+Một số quốc gia có thị phần các doanh nghiệp MVNO lớn như: Nhật Bản có 83 doanh nghiệp (thị phần chiếm 10,6%); UK có 77 doanh nghiệp (thị phần chiếm 15,9%); Mỹ có 139 doanh nghiệp (thị phần chiếm 4,7%); Đức có 135 MVNO (thị phần chiếm 19,5%); Úc có 66 MVNO (thị phần chiếm 13,1%); Hàn Quốc có 44 doanh nghiệp (thị phần chiếm 12%)...
+
+Các nước trong khu vực cũng có thị trường MVNO phát triển, mang đến nhiều dịch vụ mới cho người sử dụng như Thái Lan có 12 doanh nghiệp MVNO, Malaysia có 8 doanh nghiệp MVNO...
+
+Theo dự thảo đánh giá tác động của dự án Luật Viễn thông sửa đổi đang được Bộ Thông tin và Truyền thông lấy ý kiến, nguyên nhân của việc thị trường MVNO ở Việt Nam chậm phát triển là do các doanh nghiệp MVNO gặp khó khăn trong việc thuê hạ tầng, mua lưu lượng. Cơ sở đàm phán giá thuê hạ tầng của các doanh nghiệp viễn thông có hạ tầng mạng chưa hoàn chỉnh, khung pháp lý hiện nay chưa đầy đủ.
+
+Viễn thông là ngành nghề kinh doanh có điều kiện với tài nguyên viễn thông là hữu hạn nên điều kiện cấp phép khi thiết lập hạ tầng viễn thông là phải cho thuê hạ tầng.
+
+Để mở cửa thị trường và thúc đẩy cạnh tranh, Luật Viễn thông 2009 đã có quy định về việc doanh nghiệp cung cấp dịch vụ có hạ tầng mạng có quyền và nghĩa vụ cho doanh nghiệp viễn thông khác thuê cơ sở hạ tầng viễn thông để cung cấp dịch vụ và đã xuất hiện thị trường bán buôn. Tuy nhiên, sau hơn 10 năm thi hành luật, 3 doanh nghiệp mạng di động ảo MVNO phải mất đến vài năm để đàm phán thành công giá mua buôn lưu lượng.
+
+Do đó, Bộ Thông tin và Truyền thông cho rằng, việc đưa ra các quy định đầy đủ, cụ thể hơn về việc cho thuê hạ tầng, quy định để minh bạch giá bán buôn lưu lượng nhằm giải quyết những khó khăn của doanh nghiệp MVNO, thúc đẩy thị trường MVNO phát triển là cần thiết.
+
+Mục tiêu khi điều chỉnh sửa đổi quy định hướng đến thúc đẩy thị trường bán buôn, tạo ra sân chơi mới, thúc đẩy sự phát triển của các doanh nghiệp MVNO. Dự kiến trong vài năm tới, số lượng doanh nghiệp MVNO tăng lên từ 5-10 doanh nghiệp.
+
+Bên cạnh đó, tăng cường hiệu quả sử dụng hạ tầng đã đầu tư của các doanh nghiệp thiết lập mạng di động mặt đất lên ít nhất 10%, doanh thu tăng; Góp phần thúc đẩy cạnh tranh trên thị trường bán lẻ thông qua thị trường bán buôn.
+
+Mạng di động ảo MVNO là mạng di động mà nhà cung cấp không sở hữu hạ tầng mạng lưới mà mua cả gói lưu lượng lớn truy cập dịch vụ mạng của một nhà mạng di động khác (doanh nghiệp di động bán buôn lưu lượng) và cung cấp dịch vụ di động với giá bán lẻ riêng tới khách hàng. Phần chênh lệch giữa giá bán buôn cả gói lưu lượng lớn và giá bán lẻ tới khách hàng chính là lợi nhuận mà các MVNO có được.
+
+Với mô hình MNVO, các nhà mạng ảo có thể cung cấp dịch vụ và thu lợi nhuận từ những thị trường ngách, nhóm khách hàng nhỏ mà nhà mạng lớn không cung cấp. Việc bán lại phần lưu lượng mà các doanh nghiệp viễn thông có hạ tầng mạng chưa sử dụng thay vì để không sẽ giúp các doanh nghiệp viễn thông có thể được chia sẻ chi phí vận hành và nhanh chóng thu hồi vốn đầu tư. Còn các MVNO có thể ngay lập tức bước vào thị trường kinh doanh di động mà không phải xây dựng cơ sở hạ tầng, đồng thời, tiết kiệm được thời gian…
+
+Trung bình trên thế giới thị phần thuê bao của MVNO chiếm từ 15-20% và đang có dấu hiệu tăng. Theo Fortune Business Insights, dự kiến doanh thu của MVNO đến năm 2028 sẽ đạt khoảng 123,4 tỷ USD.
+
+Theo chia sẻ của một đại diện MVNO, tiềm năng của thị trường mạng di động ảo ở Việt Nam còn khá lớn, có thể tăng trưởng chiếm 15% thị phần. Dư địa phát triển của MVNO chính là khi chuyển đổi số, nhu cầu sử dụng dịch vụ số trong các lĩnh vực tài chính, giáo dục, sức khoẻ, giải trí ngày càng tăng.
+
+Cơ hội để các doanh nghiệp ở các mảng tài chính, ngân hàng, bảo hiểm, bán lẻ, giải trí... đã có sẵn tập khách hàng kết hợp với MVNO hoặc trở thành MVNO triển khai các dịch vụ mới khai thác các thị trường ngách mà các nhà mạng hiện nay chưa thể tiếp cận hoặc tiếp cận một cách không có lợi thế.
+
+Tuy nhiên, mỗi nhà mạng MVNO cần được quy hoạch rõ ràng ở những lĩnh vực riêng để có thể cung cấp dịch vụ, giúp khai thác, phát triển tối đa dung lượng hạ tầng.

@@ -1,0 +1,29 @@
+Theo báo cáo của Schneider Electric Sustainability Research Institute, hơn 40% lượng phát thải CO2 trên toàn cầu đến từ ngành công nghiệp, 73% phát thải nhà kính từ sử dụng năng lượng.
+
+Báo cáo của Trung tâm nghiên cứu về Phát triển và Tiết kiệm năng lượng Việt Nam cũng chỉ ra rằng sản xuất xi măng là một trong những ngành công nghiệp có lượng phát thải carbon lớn. Lượng phát thải CO2 của ngành này hiện nay đang ở mức cao hơn khoảng 5% mức trung bình của Đông Nam Á và cao hơn 15 - 20% mức trung bình của thế giới.
+
+Nghiên cứu của Global Cement Review cho thấy, ngành xây dựng chiếm khoảng 11% lượng phát thải CO2 do con người tạo ra. Trong đó, lượng phát thải CO2 do sản xuất xi măng trên toàn cầu chiếm tới 7%, nhiều hơn cả ngành hàng không, vận tải biển và vận tải đường dài cộng lại. Điều này đặt ngành công nghiệp sản xuất xi măng đối diện với nhiều thách thức, nhất là liên quan đến các yêu cầu về phát triển xanh, bền vững, hạn chế tối đa những tác động nguy hại đến môi trường.
+
+PGS.TS Lương Đức Long, Phó giám đốc Hiệp hội Xi măng Việt Nam cho biết, để sản xuất 1 tấn clinker (một thành phần cơ bản của xi măng Pooc Lăng) cần sử dụng khoảng 120 - 140 kg than cám 4A và 60 - 65kwh điện và phát thải khoảng trên 900kg CO2. Lượng phát thải CO2 trong sản xuất xi măng đến từ việc phát thải khi sản xuất clinker, phát thải khi nghiền xi măng và phát thải khi sản xuất các phụ gia khoáng. Như vậy, muốn giảm phát thải CO2 khi sản xuất xi măng, cần giảm phát thải từ tất cả các khâu, nguồn trong sản xuất.
+
+Một trong những giải pháp nhằm giảm phát thải carbon hiện nay là sự kết hợp giữa năng lượng, tự động hóa, và phần mềm. Đây được xem là một trong những công thức quan trọng cho sự bền vững của ngành công nghiệp tại Việt Nam. Số hóa bao gồm phần mềm và dữ liệu đóng vai trò chính để cải thiện khả năng hiển thị và quản lý sử dụng tài nguyên, giảm chi phí vận hành và cải thiện chỉ số bền vững của doanh nghiệp.
+
+Thực tế, các doanh nghiệp xi măng Việt Nam vẫn không ngừng ứng dụng những công nghệ mới vào quá trình sản xuất của mình thông qua việc đầu tư các dây chuyền công nghệ hiện đại cho phép tiêu thụ cả các loại nhiên liệu có nhiệt trị thấp, sử dụng đá vôi nhân tạo… Tuy nhiên, để tạo được hiệu quả tối ưu nhất, các công nghệ ứng dụng trong quản lý, vận hành từng công đoạn, nhà máy cũng cần được chú trọng nhằm tiết kiệm tối đa chi phí nhiên liệu, sản xuất và giảm phát thải carbon.
+
+Theo PGS.TS Lương Đức Long, sử dụng nguồn điện sạch sẽ giảm được lượng CO2 trong tổng khoảng 6% phát thải từ điện, đối với nhiệt sạch có thể kể đến như nhiệt năng từ năng lượng mặt trời sẽ giảm được lượng CO2 trong tổng khoảng 37% phát thải từ nhiệt nung clinker.
+
+“Việc ứng dụng tự động hóa, số hóa, dữ liệu đám mây sẽ giúp cho quá trình vận hành nhà máy, quản lý sản xuất tốt hơn, giảm được các tổn thất năng lượng ra môi trường hoặc các tổn thất do quản lý vận hành chưa tốt, góp phần giảm lượng phát thải CO2 từ các nguồn”, ông Long nhấn mạnh.
+
+Cùng quan điểm, ông Đồng Mai Lâm, Tổng Giám Đốc Schneider Electric Việt Nam và Campuchia, cho biết, ngành công nghiệp hiện tại cần chuyển đổi thành ngành công nghiệp thế hệ tiếp theo, sử dụng giải pháp số góp phần thúc đẩy sự tiến bộ của xã hội và tăng trưởng kinh tế. Để thúc đẩy thực hiện mục tiêu đạt phát thải ròng bằng 0, doanh nghiệp cần phải tích hợp sự bền vững, tính tuần hoàn, chất lượng cuộc sống và kinh doanh có trách nhiệm vào mỗi bước ra quyết định.
+
+Schneider Electric cũng kêu gọi các ngành công nghiệp cần phải tiên phong áp dụng toàn diện những giải pháp số hóa để tối ưu hoá lợi nhuận kinh doanh đồng thời thực hiện mục tiêu bền vững, ứng phó các thách thức thời đại như biến đổi khí hậu, khủng hoảng năng lượng.
+
+Nói về những khó khăn trong việc chuyển giao khoa học công nghệ đối với ngành xi măng, PGS.TS Lương Đức Long nhận định, Việt Nam không khó khăn về nguồn công nghệ. Tuy nhiên ngành xi măng hiện nay đang gặp phải những khó khăn trong việc sử dụng năng lượng sạch.
+
+Lượng năng lượng sạch ở Việt Nam còn ít, chưa đủ đáp ứng, giá cao hơn năng lượng truyền thống. Do đó, việc sử dụng các công nghệ thân thiện môi trường thường không mang lại hiệu quả kinh tế cao như công nghệ truyền thống khiến cho các doanh nghiệp xi măng gặp khó khăn về nguồn tài chính đầu tư cho sử dụng nguyên, nhiên liệu thay thế, sử dụng năng lượng sạch.
+
+“Để thúc đẩy quá trình giảm phát thải carbon trong ngành sản xuất xi măng cần tiếp tục xây dựng cơ chế tính bù trừ mức phát thải carbon khi sử dụng nguyên, nhiên liệu thay thế, đặc biệt là khi sử dụng rác thải làm nhiên liệu thay thế nung clinker xi măng. Đây là giải pháp tốt, nhưng hiện nay việc tập hợp, xử lý sơ bộ rác thải thành nhiên liệu thay thế cho ngành xi măng ở Việt Nam còn rất khó khăn về nguồn và cách tổ chức sơ chế, cung cấp. Ngành cũng cần những giải pháp về hỗ trợ giá từ nhà nước và các đơn vị phát thải, góp phần hình thành thị trường carbon trong nước”, PGS.TS Lương Đức Long thông tin thêm.
+
+Theo ông Mã Khai Hiền, Giám đốc Trung tâm nghiên cứu về Phát triển và Tiết kiệm năng lượng Việt Nam, tiềm năng giảm phát thải CO2 cho ngành ngành công nghiệp của Việt Nam là không nhỏ và rất khả thi trong việc triển khai.
+
+Để tháo gỡ khó khăn đối với ngành công nghiệp như xi măng trong việc giảm phát thải carbon, theo ông Hiền, ngoài việc cần có sự hỗ trợ và khuyến khích của Chính phủ và các cơ quan liên quan trong việc xây dựng năng lực và kỹ thuật cho doanh nghiệp nhận dạng và nắm rõ các công nghệ khử carbon để áp dụng. Ngoài ra, việc thúc đẩy hỗ trợ tài chính “xanh” và “sạch” sẽ giúp cho doanh nghiệp thuận lợi tiếp cận và mạnh dạn áp dụng các công nghệ khử carbon.

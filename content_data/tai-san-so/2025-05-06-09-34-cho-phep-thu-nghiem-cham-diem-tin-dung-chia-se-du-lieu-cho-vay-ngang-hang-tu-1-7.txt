@@ -1,0 +1,23 @@
+Chính phủ đã ban hành Nghị định số 94/2025/NĐ-CP quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực ngân hàng (gọi tắt Cơ chế). Theo đó, các giải pháp công nghệ tài chính được tham gia thử nghiệm tại Cơ chế này gồm: Chấm điểm tín dụng; Chia sẻ dữ liệu qua giao diện lập trình ứng dụng mở (Open API); Cho vay ngang hàng.
+
+Theo đó, Cơ chế thử nghiệm nhằm thúc đẩy đổi mới sáng tạo và hiện đại hóa lĩnh vực ngân hàng; qua đó, hiện thực hóa mục tiêu phổ cập tài chính cho người dân và doanh nghiệp theo hướng minh bạch, thuận tiện, an toàn, hiệu quả với chi phí thấp;
+
+Tạo lập môi trường thử nghiệm nhằm đánh giá rủi ro, chi phí, lợi ích của giải pháp Fintech; hỗ trợ xây dựng, phát triển các giải pháp Fintech phù hợp với nhu cầu thị trường, khung khổ pháp lý, quy định quản lý; Hạn chế rủi ro xảy ra đối với khách hàng khi sử dụng các giải pháp Fintech do tổ chức tham gia Cơ chế thử nghiệm cung cấp.
+
+Kết quả triển khai thử nghiệm giải pháp Fintech được sử dụng làm căn cứ thực tiễn để các cơ quan nhà nước có thẩm quyền nghiên cứu, xây dựng và hoàn thiện khung khổ pháp lý, quy định quản lý liên quan nếu cần thiết.
+
+Ngoài ra, để đảm bảo tính công bằng, khách quan, công khai và minh bạch, việc xét duyệt các tổ chức tham gia Cơ chế thử nghiệm được thực hiện theo các nguyên tắc cơ bản như sau: Quá trình xét duyệt tổ chức tham gia Cơ chế thử nghiệm đảm bảo tính minh bạch về tiêu chí và điều kiện, quy trình đánh giá, lựa chọn;
+
+Việc được tham gia Cơ chế thử nghiệm không đồng nghĩa với việc tổ chức tham gia Cơ chế thử nghiệm sẽ đáp ứng các điều kiện kinh doanh và đầu tư khi pháp luật có quy định;
+
+Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, công ty Fintech không có nhu cầu tham gia Cơ chế thử nghiệm hoặc chưa được xét duyệt tham gia Cơ chế thử nghiệm hoạt động và tuân thủ theo các quy định của pháp luật hiện hành về doanh nghiệp, đầu tư và pháp luật khác có liên quan.
+
+Nghị định nêu rõ, thời gian thử nghiệm các giải pháp Fintech tối đa 02 năm tùy từng giải pháp và lĩnh vực cụ thể tính từ thời điểm được Ngân hàng Nhà nước cấp Giấy chứng nhận tham gia Cơ chế thử nghiệm. Thời gian thử nghiệm có thể được gia hạn theo quy định. Đồng thời, việc triển khai thử nghiệm các giải pháp Fintech được giới hạn trên lãnh thổ Việt Nam, không được thực hiện thử nghiệm xuyên biên giới.
+
+Tổ chức tham gia Cơ chế thử nghiệm chỉ được cung cấp các giải pháp Fintech trong phạm vi được quy định tại Giấy chứng nhận tham gia Cơ chế thử nghiệm. Tùy thuộc vào giải pháp Fintech và đề xuất cụ thể của tổ chức đăng ký tham gia Cơ chế thử nghiệm tại Hồ sơ đăng ký tham gia Cơ chế thử nghiệm, ý kiến của các bộ, Ngân hàng Nhà nước sẽ quyết định phạm vi thử nghiệm của giải pháp Fintech thử nghiệm tại Giấy chứng nhận tham gia Cơ chế thử nghiệm.
+
+Đáng chú ý, công ty cho vay ngang hàng chỉ được thực hiện cung ứng giải pháp cho vay ngang hàng trong phạm vi thử nghiệm tại Giấy chứng nhận tham gia Cơ chế thử nghiệm được Ngân hàng Nhà nước cấp cho Công ty cho vay ngang hàng theo quy định tại Nghị định này.
+
+Công ty cho vay ngang hàng tham gia Cơ chế thử nghiệm không được thực hiện các hoạt động kinh doanh khác không được nêu tại Giấy chứng nhận tham gia Cơ chế thử nghiệm, không được tự cung cấp biện pháp bảo đảm cho khoản vay của khách hàng, hoạt động với tư cách là khách hàng và cung ứng giải pháp cho vay ngang hàng cho công ty cầm đồ.
+
+Nghị định này có hiệu lực thi hành từ ngày 1/7/2025.

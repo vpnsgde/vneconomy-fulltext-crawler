@@ -1,0 +1,15 @@
+Cục Hàng không Việt Nam vừa có văn bản gửi các đơn vị có liên quan để triển khai chính thức việc sử dụng tài khoản định danh điện tử mức độ 2 (tài khoản VNeID) đối với hành khách khi làm thủ tục đi tàu bay.
+
+Theo đó, từ ngày 2/8/2023, Cục Hàng không Việt Nam chính thức triển khai sử dụng tài khoản định danh điện tử mức độ 2 – VNeID mức 2 đối với hành khách đi tàu bay trên các chuyến bay nội địa tại tất cả cảng hàng không trên cả nước. Theo đó, đối với công dân Việt Nam, VNeID có giá trị tương đương thẻ căn cước công dân. Đối với người nước ngoài, VNeID có giá trị tương đương hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế.
+
+Ngoài ra, người khai thác cảng hàng không, các hãng hàng không, các doanh nghiệp cung cấp dịch vụ hàng không về check-in, boarding cập nhật quy định nêu trên vào chương trình, quy chế an ninh hàng không và các tài liệu khai thác liên quan (nếu có).
+
+Trước mắt, quy trình kiểm tra tài khoản VNeID thực hiện như hướng dẫn của Cục Hàng không Việt Nam tại văn bản số 2798/CHK-ANHK ngày 1/6/2023. Các đơn vị chủ động giải quyết các khó khăn, vướng mắc trong quá trình triển khai để tạo điều kiện thuận lợi cho hành khách đi tàu bay, bảo đảm an ninh, an toàn; báo cáo Cục Hàng không Việt Nam các vấn đề vượt thẩm quyền.
+
+Về lâu dài, Cục Hàng không Việt Nam đề nghị Tổng công ty Cảng Hàng không Việt Nam (ACV), Cảng hàng không quốc tế Vân Đồn mua sắm thiết bị kiểm tra tài khoản VNeID thật/giả; kết hợp đầu tư hệ thống xác thực sinh trắc học; tiêu chuẩn kỹ thuật, quy trình, thủ tục cấp phép thiết bị xác thực sinh trắc học kết hợp xác thực căn cước công dân, VNeID, hệ thống định danh theo hướng dẫn của Bộ Công an (hoặc cơ quan chuyên môn thuộc Bộ Công an); hệ thống xác thực phù hợp tiêu chuẩn và hướng dẫn của ICAO tại Annex9, Doc 9303 và các tiêu chuẩn, hướng dẫn khác của ICAO.
+
+Trước đó, Cục Hàng không Việt Nam yêu cầu ACV, Cảng hàng không quốc tế Vân Đồn chủ trì, phối hợp với các cơ quan, đơn vị liên quan thực hiện đồng bộ với việc triển khai xác thực sinh trắc học, kết hợp xác thực căn cước công dân gắn chíp điện tử hiện đang được ACV triển khai thí điểm tại Phú Bài, Cát Bi, Nội Bài.
+
+Qua thí điểm, Tổng công ty Cảng hàng không Việt Nam và Cảng hàng không quốc tế Vân Đồn báo cáo tỉ lệ trung bình hành khách sử dụng tài khoản VNeID để đi máy bay nội địa là 0,64%. Đồng thời, thời gian kiểm tra trực quan bằng mắt trung bình là 20 giây; thời gian kiểm tra bằng cách sử dụng tài khoản VNeID của nhân viên an ninh hàng không để quét mã QR code tài khoản VNeID của hành khách trung bình là 24 giây.
+
+Theo đánh giá của Cục Hàng không, vẫn còn những bất cập như: Sử dụng tài sản cá nhân (điện thoại thông minh) của nhân viên hàng không để kiểm tra tính xác thực của VNeID; tại một số sân bay vùng núi, hải đảo đường truyền sóng điện thoại, Internet không ổn định nên có lúc không mở được tài khoản VNeID, thời gian kiểm tra lâu hơn bình thường…

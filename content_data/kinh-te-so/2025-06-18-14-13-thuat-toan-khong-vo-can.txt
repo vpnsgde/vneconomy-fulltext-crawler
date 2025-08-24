@@ -1,0 +1,19 @@
+Ba năm sau ngày ChatGPT ra mắt, trí tuệ nhân tạo (AI) đang thay đổi cách tiếp cận và sản xuất thông tin. Theo khảo sát của Thomson Reuters trên 221 phóng viên và biên tập viên tại hơn 70 quốc gia, 81,7% đã sử dụng AI thường xuyên; gần một nửa tích hợp AI vào công việc hàng ngày, từ gợi ý ý tưởng, biên tập, tóm tắt đến xác thực dữ liệu.
+
+87% lãnh đạo tòa soạn trong một khảo sát của Viện Nghiên cứu báo chí Reuters cho biết phòng tin của họ đang chịu tác động rõ rệt từ AI, với hàng loạt thử nghiệm: chuyển bài viết thành âm thanh, tạo tóm tắt tự động, dịch thuật đa ngôn ngữ...
+
+AI giúp quy trình xử lý thông tin nhanh hơn, mượt mà hơn, nhưng cũng đặt ra các câu hỏi ngày càng gay gắt về đạo đức. 60% nhà báo được Viện Nghiên cứu báo chí Reuters khảo sát bày tỏ lo ngại AI có thể làm sai lệch thông tin hoặc tái tạo định kiến xã hội, do phần lớn mô hình AI hiện nay được huấn luyện từ dữ liệu thiên về phương Tây, thiếu vắng sự đa dạng văn hóa. Hơn 50% cũng thừa nhận họ chưa được chuẩn bị đầy đủ để sử dụng AI một cách có trách nhiệm.
+
+Từ phía công chúng, làn sóng ứng dụng AI cũng song hành với những vụ việc gây tranh cãi về đạo đức. The Guardian gần đây cảnh báo tình trạng deepfake và AI bị lạm dụng để tạo nội dung bạo lực giới, như trường hợp ChubAI sử dụng mô hình Llama để tạo hình ảnh khiêu dâm nhắm vào phụ nữ và trẻ em gái.
+
+Công cụ tạo video như Sora cũng bị chỉ trích vì tái sản xuất các định kiến xã hội: nam giới mặc định là lãnh đạo, phụ nữ bị đóng khung trong vai trò phụ trợ và thiếu đa dạng trong việc thể hiện hình ảnh các cộng đồng thiểu số. Điều đó cho thấy AI không đơn thuần là công cụ kỹ thuật trung lập. Nó vận hành trên những mô hình có sẵn về phân loại và định hình thế giới, phản ánh và tái sản xuất những thiên lệch trong xã hội. Nếu chỉ yêu cầu người dùng hành xử có đạo đức mà không chất vấn chính nền tảng thiết kế thuật toán, ta đang bỏ ngỏ một nửa vấn đề.
+
+Trước những quan ngại sâu sắc về vấn đề đạo đức, nhiều tổ chức và chính phủ đang xây dựng các khung đạo đức để quản trị AI. Trong báo chí, các cơ quan báo chí, thông tấn như AP, BBC hay Reuters… đã ban hành bộ quy tắc nội bộ về sử dụng AI. Chẳng hạn, AP cấm dùng AI để tự động viết tin thời sự và yêu cầu minh bạch về sự hỗ trợ của AI trong nội dung. Các hãng khác nhấn mạnh rằng sản phẩm có yếu tố AI cần được xác minh bởi con người trước khi xuất bản.
+
+Ở cấp độ quốc tế, Tổ chức Hợp tác và Phát triển kinh tế (OECD) đã đưa ra bộ nguyên tắc AI nhấn mạnh quyền con người và phát triển lấy con người làm trung tâm. UNESCO thông qua Khuyến nghị đạo đức AI, kêu gọi các nước xây dựng cơ chế giám sát độc lập và đánh giá tác động xã hội. Tại châu Âu, Đạo luật AI (AI Act) phân loại ứng dụng AI trong truyền thông là rủi ro cao, buộc tuân thủ các tiêu chí minh bạch và đánh giá tác động.
+
+Ở Việt Nam, Hiệp hội Dữ liệu quốc gia đã chính thức ra mắt vào tháng 3 năm 2025, hướng tới xây dựng hệ sinh thái dữ liệu vững mạnh, công bằng. Trước đó, Hiệp hội Phần mềm và Dịch vụ công nghệ thông tin Việt Nam (VINASA) đã thành lập Ủy ban Đạo đức trí tuệ nhân tạo, với mục đích nghiên cứu để tham mưu cơ quan chức năng xây dựng Bộ quy tắc ứng xử đạo đức AI cho doanh nghiệp phát triển AI, đề xuất xây dựng bộ dữ liệu chuẩn hóa, yêu cầu doanh nghiệp nước ngoài phát triển AI tại Việt Nam...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 24 25-2025 phát hành ngày 16/6/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

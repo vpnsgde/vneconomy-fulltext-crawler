@@ -1,0 +1,23 @@
+Tại sự kiện Viettel DX 2023 với chủ đề khai phóng tiềm năng số chiều 16/11, ông Đoàn Đại Phong, Phó Tổng giám đốc Viettel Solutions, cho biết với 90-95% lượng dữ liệu đang tồn tại trên thế giới trong 3 năm qua cho thấy sự bùng nổ và tầm quan trọng của dữ liệu trong tương lai.
+
+Do vậy, theo ông Phong, các doanh nghiệp cần đưa dữ liệu vào trái tim mô hình kinh doanh của mình để đảm bảo sự linh hoạt và đàn hồi trong môi trường biến động hiện nay.
+
+Theo đại diện Viettel, từ năm 2010, Viettel đã tiên phong nghiên cứu và triển khai các hệ thống dữ liệu với các hệ thống kho dữ liệu tập trung (Data warehouse, Data Lake, Lakehouse) và các bài toán phân tích dữ liệu chuyên sâu dựa trên công nghệ ML/AI, đồng thời đúc kết kinh nghiệm triển khai thành các quy trình hoàn chỉnh thể hiện sự phối hợp nhịp nhàng giữa bên nghiệp vụ và bên công nghệ thông tin.
+
+Nhiều năm qua, những nội dung hot nhất với giới công nghệ luôn là AI, Machine Learning, IoT, Blockchain, Cloud… Các công nghệ này ngày càng đi sâu vào từng ngóc ngách của đời sống, phục vụ cho nhu cầu của con người và không ngừng tạo ra những đột phá mới. Robot tự hành, nhà thông minh, trường học thông minh, bệnh viện thông minh, xe tự lái…
+
+"Viettel đã đầu tư nghiên cứu, làm chủ và triển khai nhiều công nghệ cốt lõi; tiên phong xây dựng hệ sinh thái số, nền tảng số. Đến nay, các sản phẩm dịch vụ số trong hệ sinh thái của Viettel phục vụ gần 500.000 doanh nghiệp tại Việt Nam", ông Tào Đức Thắng, Chủ tịch kiêm Tổng Giám đốc Tập đoàn Công nghiệp -Viễn thông quân đội (Viettel), cho biết.
+
+Thực tế, để có thể ứng dụng công nghệ, bắt buộc phải có nền tảng là hạ tầng số và dữ liệu số. Chính vì thế, năm 2023 đã được Thủ tướng Chính phủ - Chủ tịch của Ủy ban quốc gia về chuyển đổi số xác định là Năm Dữ liệu số quốc gia để thúc đẩy phát triển dữ liệu tận dụng hiệu quả sự bùng nổ dữ liệu trên các nền tảng số Việt Nam.
+
+Ở góc độ doanh nghiệp, ông Hà Thanh Tùng, Chủ tịch Hội đồng quản trị Công ty phân tích dữ liệu Metric, cho rằng dữ liệu sẽ thúc đẩy việc tăng trưởng của doanh nghiệp. Theo ông Tùng, 60% công ty làm tốt việc nghiên cứu thị trường bằng dữ liệu sẽ có lợi nhuận cao hơn các công ty không thực hiện việc này. Ngoài ra, 54% doanh nghiệp khảo sát cho rằng việc phân tích dữ liệu sẽ tác động trực tiếp tới doanh thu, 44% thậm chí còn nghĩ hành động này sẽ tạo ra một lợi thế cạnh tranh so với các đối thủ. Một doanh nghiệp biết sử dụng dữ liệu lớn sẽ có 25% cơ hội giúp tăng gấp đôi lợi nhuận của mình.
+
+Trong khi đó, bà Đỗ Thị Thu Hà, Phó Tổng Giám đốc KPMG, cho biết qua khảo sát tại 2.100 doanh nghiệp trên toàn cầu, 4 xu thế công nghệ được các doanh nghiệp quan tâm là: Đám mây và sự trải nghiệm cho khách hàng; an ninh mạng; dữ liệu và phát triển dữ liệu; trí tuệ nhân tạo (AI) và tự động hóa.
+
+Đặc biệt, trong 2.100 doanh nghiệp được khảo sát bởi KPMG, 66% nói rằng việc thu thập và phân tích dữ liệu giúp tăng trưởng lợi nhuận cho họ trong 12 tháng gần nhất. 63% doanh nghiệp nói rằng sau khi đầu tư vào các dịch vụ xoay quanh trải nghiệm khách hàng, trong 24 tháng sau đó, họ đã thấy ngay sự tăng trưởng về lợi nhuận.
+
+Cũng theo kết quả khảo sát của KPMG, 57% doanh nghiệp cho biết ưu tiên cho công nghệ AI và AI tạo sinh; máy học; robotics… Tương tự, AI tạo sinh hiện đang trở thành xu hướng và được ứng dụng rộng rãi ở 10 lĩnh vực: Y tế; ngân hàng; tài chính; maketing; giải trí - game; thương mại điện tử - bán lẻ; bảo hiểm; du lịch; giao thông - logistics; giáo dục.
+
+Trong xu hướng công nghệ AI, Generative AI hay AI tạo sinh đang ngày càng phổ biến trong hoạt động thường ngày của doanh nghiệp. Những kịch bản sử dụng phổ biến nhất của Generative AI là sáng tạo nội dung marketing, giáo dục, giúp nâng cao trải nghiệm khách hàng.
+
+Dù vậy, theo các chuyên gia, xu thế của AI phụ thuộc vào sự tin tưởng của người dùng, bởi liên quan đến bảo mật, bảo vệ dữ liệu và chỉ khi giải quyết được những tồn tại này, AI mới được chấp nhận nhiều hơn.

@@ -1,0 +1,43 @@
+Hiệp hội Phần mềm và Dịch vụ Công nghệ thông tin Việt Nam (VINASA) đã tổ chức hội thảo và triển lãm Biztech 2025 với chủ đề “Tối ưu – Tăng trưởng đột phá với AI Agents” trong hai ngày 3-4/6/2025 tại TP.HCM.
+
+Biztech năm nay gồm 07 phiên hội thảo, tập trung vào 02 tuyến nội dung: Thúc đẩy phát triển và ứng dụng AI Agents trong doanh nghiệp nhằm tối ưu chi phí và tăng trưởng đột phá với AI Agents; Kỹ năng số dành cho nhân lực mới trong kỷ nguyên AI. Sự kiện thu hút hơn 2.000 lượt đại biểu, bao gồm lãnh đạo, nhà quản lý doanh nghiệp, hơn 40 diễn giả, các cơ quan truyền thông.
+
+Phát biểu phiên khai mạc, ông Võ Minh Thành, Phó Giám đốc Sở Khoa học và Công nghệ TP.HCM, khẳng định: TP.HCM là đầu tàu kinh tế, trung tâm khoa học, giáo dục và công nghệ của cả nước và đang giữ vai trò tiên phong trong việc hiện thực hóa tinh thần của Nghị quyết 57. Thành phố đã đạt được một số kết quả đáng khích lệ về phát triển khoa học, công nghệ, đổi mới, sáng tạo, chuyển đổi số. Hệ sinh thái khởi nghiệp của Thành phố đã có những bước tiến vượt bậc, lần đầu tiên lọt vào Top 5 Đông Nam Á và xếp hạng 110 thế giới vào năm 2025 (báo cáo của StartupBlink), đặc biệt nổi bật trong lĩnh vực Fintech và Blockchain.
+
+Đáng chú ý, chính quyền số TP.HCM đã đạt được nhiều kết quả khả quan như cung cấp 740 thủ tục dịch vụ công trực tuyến; doanh số thương mại điện tử chiếm tỷ lệ 33% so với cả nước. Thành phố cũng đi đầu trong ứng dụng AI trong một số lĩnh vực quan trọng y tế, giao thông. Chỉ số chuyển đổi số của Thành phố xếp thứ 2 trong các năm 2023, 2024.
+
+Ngoài ra, TP.HCM đang tập trung thiết kế đột phá về thể chế và chính sách đào tạo, phát triển và thu hút nhân tài; phát triển hạ tầng 5G, dữ liệu, công nghiệp bán dẫn; phát triển chính quyền số dựa trên dữ liệu và đẩy mạnh ứng dụng AI đa lĩnh vực chú trọng y tế, giao thông, giáo dục và quản trị công…
+
+Ông Nguyễn Văn Khoa, Chủ tịch VINASA - Trưởng Ban tổ chức, cho biết thời gian qua, những doanh nghiệp công nghệ trong nước và quốc tế tích cực ứng dụng AI và AI Agents đang thực sự giúp các doanh nghiệp tối ưu, tăng trưởng đột phá. Ứng dụng AI không chỉ là chuyện mua công nghệ mà là một quá trình tái cấu trúc toàn diện, đòi hỏi tư duy đổi mới, và sự chuyển đổi từ chính đội ngũ con người trong doanh nghiệp.
+
+Theo báo cáo của Gartner, 80% doanh nghiệp lớn toàn cầu đã tích hợp AI vào chiến lược chuyển đổi số, trong đó AI Agents giúp tăng năng suất lên 30% và giảm chi phí vận hành từ 15-20%. Còn McKinsey dự báo AI Agents sẽ đóng góp 4,4 nghìn tỷ USD vào tăng trưởng năng suất toàn cầu, với các ứng dụng từ tự động hóa đến phân tích dự đoán. ByteBridge cũng dự báo doanh nghiệp ứng dụng AI Agents tiết kiệm trung bình 80.000 USD/tháng nhờ giảm lỗi và cải thiện hiệu quả.
+
+Việt Nam đang xem AI là một trong những công nghệ mang tính chiến lược. Năm 2021, Thủ tướng Chính phủ ban hành chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo đến năm 2030. Năm 2024, Bộ Thông tin và Tuyền thông ban hành Kế hoạch hành động năm 2024 triển khai Chiến lược phát triển ứng dụng Trí tuệ nhân tạo đến năm 2030 (thường được gọi là Chiến lược AI ứng dụng).
+
+"Thực tế, Việt Nam đã rất nhanh chóng hình thành được một hệ sinh thái phát triển AI tương đối hoàn chỉnh. Chẳng hạn từ các doanh nghiệp cung cấp hạ tầng như Viettel, CMC, VNPT hay gần đây nhất là FPT với nhà máy AI đến các doanh nghiệp đang xây dựng các nền tảng, và giải pháp AI giải quyết các bài toán hết sức cụ thể như các AI Agents trong từng nghiệp vụ của doanh nghiệp chú trọng truyền thông marketing, chăm sóc trải nghiệm khách hàng, quản trị nhân sự, bán hàng, công nghệ. Không chỉ là tích hợp AI (embeded AI) vào các sản phẩm, công cụ từ AI Native đang phổ biến hơn", Chủ tịch VINASA cho biết thêm.
+
+Trong tháng 5 vừa qua, lãnh đạo loạt các ngân hàng VietinBank, Sacombank, SCB đã đẩy mạnh phát triển kênh ngân hàng số, ứng dụng trí tuệ nhân tạo (AI) đặc vào hoạt động quản trị và chăm sóc khách hàng, từ đó tối ưu chi phí vận hành, giảm số phòng giao dịch trực tiếp và nhân sự đi kèm... Trong số các giải pháp được các ngân hàng này sử dụng, có những mô hình AI có khả năng tối ưu được 70% nhân sự vận hành.
+
+Theo một báo cáo về AI của AWS, các ngành ứng dụng AI nhiều nhất phải kể đến như y tế (11.000 ứng dụng), bán hàng (8.800), sản xuất (8.400), tài chính (7.200), dịch vụ khách hàng (7.000), bán lẻ (6.180), công nghệ thông tin và viễn thông (3.720), ô tô (3.600), khách sạn (3.200), năng lượng và dầu khí (2.130)…
+
+Đặc biệt, các công việc trong doanh nghiệp sử dụng trí tuệ nhân tạo nhiều nhất là dịch vụ khách hàng (chiếm 56%), an ninh mạng và quản lý gian lận (51%), trợ lý ảo số (47%), quản lý quan hệ khách hàng (42%), quản lý hàng tồn kho (40%), sản xuất nội dung (35%), hoạt động chuỗi cung ứng (30%), kế toán (30%), tuyển dụng nhân sự (26%).
+
+Tương tự tại Việt Nam, các doanh nghiệp đầu tư nhiều vào trợ lý ảo, dịch vụ khách hàng, quan hệ khách hàng để tăng trưởng; và kế toán, tuyển dụng, quản lý tài sản để tối ưu chi phí.
+
+Tại hội thảo, các diễn giả đã đề cập các đơn vị tài chính, bảo hiểm, ngân hàng đang đi đầu về ứng dụng AI trong quản trị rủi ro, chăm sóc khách hàng và phát triển kinh doanh.
+
+Chẳng hạn như chứng khoán MBS với trợ lý Dolphin đã giúp tăng 1,4 lần khách hàng, 2 lần dư nợ margin, doanh thu và lợi nhuận đều tăng 30%; Các nền tảng AI MarTech đã giúp khách hàng tiết kiệm trung bình 30% ngân sách trong khi vẫn duy trì hoặc tăng hiệu suất…
+
+Khối giáo dục như Teky đã cắt giảm 70% nhân sự chuyên viên tư vấn online, điện thoại, giảm thiểu 50% công việc liên quan đến việc tạo, tiếp nhận ticket, tư vấn booking class tours;
+
+MISA AVA giúp kế toán tiết kiệm thời gian đến 5 lần trong nhiều nghiệp vụ, tự động hóa 100% công việc hàng ngày như lấy hóa đơn, thêm mới hàng hóa/khách hàng, lập chứng từ hạch toán.
+
+LunaBase.ai cung cấp nền tảng phát triển phần mềm AI end-to-end, tự động hóa tới 80-95% chu trình phát triển phần mềm (từ thu thập yêu cầu đến triển khai sản phẩm).
+
+Báo cáo McKensey, số lượng doanh nghiệp ứng dụng AI vào ít nhất 1 module trong quản trị doanh nghiệp tăng từ 33% (2022) lên 55% (2023) và dự kiến 72% (2024). PwC nhấn mạnh 70% lãnh đạo trải nghiệm khách hàng (CX) tin rằng AI Agents nâng cao hiệu quả tương tác kỹ thuật số.
+
+Ngoài chương trình giới thiệu các sản phẩm, giải pháp công nghệ AI ứng dụng vào khối doanh nghiệp, Biztech 2025 tập trung hướng dẫn kỹ năng AI giúp tăng năng suất cá nhân, từ đó, giúp cá nhân, doanh nghiệp tiếp cận nhanh chóng với xu hướng ứng dụng AI Agents.
+
+Theo đó, trong kỷ nguyên AI, người lao động cần trang bị các kỹ năng như: Sử dụng các công cụ AI, phân tích dữ liệu, tự động hóa quy trình, khai thác dữ liệu, và tận dụng ra quyết định; Tư duy phản biện, sáng tạo, giao tiếp hiệu quả, làm việc nhóm; Nhận thức sâu sắc về đạo đức AI để không chỉ tối ưu hóa công việc mà còn đảm bảo sự phát triển bền vững và có trách nhiệm của công nghệ…
+
+Được biết, Biztech 2025 còn tổ chức hoạt động triển lãm công nghệ đến từ hơn 20 gian hàng trưng bày các giải pháp chuyển đổi số từ các doanh nghiệp công nghệ, cơ hội để các doanh nghiệp trải nghiệm thực tế, lựa chọn giải pháp phù hợp, và hoạt động kết nối giao thương (business matching).

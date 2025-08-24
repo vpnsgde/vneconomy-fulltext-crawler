@@ -1,0 +1,44 @@
+Dòng tiền rất cạn hôm nay có thể là do chờ đợi một biên độ điều chỉnh rộng hơn?
+
+Thị trường ngày 10/1/2017:
+
+Cổ phiếu ngân hàng dẫn dắt nhịp điều chỉnh hôm nay của thị trường. Tình hình không có gì đặc biệt, độ phân hóa vẫn tốt, chỉ có dòng tiền là gây thất vọng.
+
+Cổ phiếu nào đợt vừa rồi bốc lên nhanh thì điều chỉnh là bình thường. Cổ mạnh yếu khác nhau nên nhịp điều chỉnh cũng khác nhau. Đó là điều rất tích cực vào lúc này, vì nhịp điều chỉnh cho thấy biến động giá xuất phát từ bản thân cổ phiếu cá biệt và trên cơ sở vận động giá cá biệt chứ không phải điều chỉnh chung toàn thị trường.
+
+Nếu tình trạng này tiếp tục diễn ra thì có khả năng thị trường và chỉ số sẽ không điều chỉnh thành nhịp rõ ràng mà chỉ đi ngang dao động trong một vùng hẹp. Thực ra giá và thời gian là hai đại lượng có thể hoán đổi cho nhau. Thay vì giá sụt thành nhịp ngắn và mạnh có thể nhìn thấy rõ thì giá có thể dập dình dao động đi ngang kéo dài hơn một chút. Nói chung giá chuyển động cách nào cũng là để tìm điểm cân bằng trong kỳ vọng của mỗi bên.
+
+Vấn đề hơi ngại lúc này là dòng tiền vẫn không tỏ ra là vận động mạnh hơn đáng kể. Kể từ sau phiên cuối tuần trước, đến nay dòng tiền vào lại giảm xuống. Hôm nay vốn nội vào chỉ 1.866 tỷ, rất kém. Có thể dòng tiền ngắn hạn rút ra chưa nhìn thấy mức giá hấp dẫn để cover thì mức điều chỉnh hiện tại vẫn rất nhỏ.
+
+Thông thường một phiên sụt mạnh trong tình huống này sẽ khiến dòng tiền ngắn hạn vừa rút ra bộc lộ. Tuy nhiên nếu áp lực bán vẫn yếu thì cũng không dễ xảy ra biến động lớn như vậy.
+
+Chốt lại, thị trường đang điều chỉnh luân phiên một cách lành mạnh. Cổ mạnh vẫn tốt và cổ yếu thì giảm. Nhìn bức tranh chung thì nếu giá điều chỉnh không mạnh, thị trường sẽ vẫn lình bình đi ngang với thanh khoản thấp. Nếu giá chuyển động mạnh rõ rệt về một phía nào đó thì mới thấy dòng tiền tăng lên.
+
+Giao dịch:
+
+Quan sát. Điều chỉnh stoploss cho FPT lên 44.5, SSI lên 19.5.
+
+Danh mục theo dõi:
+
+FPT:
+
+Giá biến động khó chịu đối với các giao dịch ngắn hạn. Nhịp tích lũy 3 phiên có biên dao động không đủ để trading. Thậm chí hôm nay 9 bước giá thấp nhất giao dịch cực mỏng không thể mua được giá tốt trừ phi đuổi giá. Có lẽ điều đó đã góp sức tạo nên phiên đột biến hôm nay.
+
+FPT chỉ còn cung lớn từ 45.8 trở lên. Vùng 45.8-46 là cản intraday, giao dịch 894k ~ 86% Vol. Vol hôm nay cũng tăng gấp đôi phiên trước. Như vậy lại có thêm một lượng lớn cổ phiếu nữa được sang tay. Cuối phiên cầu lớn đánh qua luôn 46 khiến vùng 45.8-46 trở thành hỗ trợ ngắn hạn. Cú đánh thốc này khiến tất cả các giao dịch trading ngắn hạn đều lỡ nhịp.
+
+Diễn biến tích lũy hầu như không giảm và có Vol rất nhỏ cho thấy độ kỳ vọng rất cao với FPT. Điều chỉnh bản chất là thay đổi kỳ vọng nhưng nếu kỳ vọng chắc chắn thì thay đổi không đáng kể. FPT có khả năng rất cao tối thiểu sẽ hoàn thành mô hình tăng trước khi có diễn biến mới.
+
+SSI:
+
+Vol yếu với giá giảm hôm nay xác nhận SSI chỉ có cầu đỡ giá thấp. Cầu ngoại tiếp tục giảm như dự kiến, hôm nay chỉ còn mua 232k giá bình quân 20.36, chiếm độ 27% Vol, hôm trước là 31% và trước nữa tới 46%. Điều này khiến xác suất SSI điều chỉnh thêm trở nên cao hơn.
+
+Hôm nay SSI giao dịch tham chiếu 20.5 rất kém (15,2k) thậm chí dưới 1 giá (20.45) cũng chỉ khớp 20,6k. Gần như toàn bộ thời gian của phiên SSI giao dịch dưới tham chiếu và cung hạ giá nhiều.
+
+VNM:
+
+Vài phút huy hoàng đầu giờ chiều của VNM là do nước ngoài mua gấp gáp hơn và nâng giá. Chỉ tính riêng khớp lệnh thì nước ngoài mua 584k giá bình quân 126, bán 306k giá 126.1. Lượng mua chiếm khoảng 64% Vol. Nói tóm lại hôm nay VNM ổn định và nhấp nhổm tăng là do nước ngoài chặn đỡ và đẩy lên.
+
+Diễn biến này không có gì đặc biệt vì lúc này nước ngoài sẽ là nhân tốt tạo dao động cho VNM. Vùng 126 là ngưỡng hỗ trợ hợp lý thời điểm này. Nước ngoài sẽ tiếp tục mua trong một vùng giá và đó là nguyên nhân giúp VNM không giảm.
+
+* “Blog chứng khoán” mang tính chất cá nhân và không đại diện cho ý kiến của VnEconomy. Những quan điểm, đánh giá là của cá nhân nhà đầu tư và VnEconomy tôn trọng quan điểm cũng như văn phong của tác giả. VnEconomy và tác giả không chịu trách nhiệm về những vấn đề phát sinh liên quan đến các đánh giá và quan điểm đầu tư được đăng tải.
+

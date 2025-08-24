@@ -1,0 +1,5 @@
+Đồ thị thông tin dưới đây gồm 15 quốc gia có số lượng startup AI nhiều nhất thế giới trong giai đoạn từ năm 2013-2023. Xếp hạng này chỉ xét tới các startup AI nhận được vốn đầu tư tư nhân trên 1,5 triệu USD trong giai đoạn trên.
+
+Theo đó, Mỹ, Trung Quốc và Anh là các quốc gia dẫn đầu làn sóng trí tuệ nhân tạo toàn với số startup hoạt động trong lĩnh vực này nhiều nhất, lần lượt là 5.509, 1.446 và 727 startup.
+
+Xét về vốn đầu tư, Mỹ cũng dẫn đầu với tổng vốn đầu tư tư nhân vào các startup AI từ năm 2013-2023 là 335 tỷ USD. Trong cùng giai đoạn, các startup AI Trung Quốc huy động được tổng cộng 104 tỷ USD, còn Anh là 22 tỷ USD. Điều này cho thấy sự chênh lệch lớn giữa quốc gia dẫn đầu là Mỹ và các nước còn lại. Năm 2023, đầu tư tư nhân vào lĩnh vực này ở Mỹ tăng 22% so với năm 2022, trong khi ở Trung Quốc giảm 44%, Anh giảm 14,1%.

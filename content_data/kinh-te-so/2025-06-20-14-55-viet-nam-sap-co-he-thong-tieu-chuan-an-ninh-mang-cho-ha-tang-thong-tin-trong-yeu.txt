@@ -1,0 +1,27 @@
+Đây là thông tin Thượng tá Lê Xuân Thuỷ, Giám đốc Trung tâm An ninh mạng quốc gia, Cục A05 (Bộ Công an), đặc biệt nhấn mạnh tại Toạ đàm an ninh mạng: “TCVN 14423:2025 Tiêu chuẩn quốc gia về an ninh mạng với các hệ thống thông tin quan trọng”, ngày 19/6.
+
+Theo ông Thủy, hiện nay trên thế giới đã có nhiều bộ tiêu chuẩn an ninh mạng được áp dụng rộng rãi như ISO/IEC 27001:2022 (tiêu chuẩn quốc tế), NIST SP 800-53 phiên bản 4.0 và CIS Controls phiên bản 8 (Hoa Kỳ). Việt Nam đã có tiêu chuẩn TCVN 11930:2017 để hướng dẫn bảo đảm an toàn hệ thống thông tin.
+
+Tuy nhiên, thực tiễn cho thấy dù đã có khung tiêu chuẩn, nhiều hệ thống thông tin, đặc biệt là các hệ thống trọng yếu, vẫn bộc lộ những lỗ hổng nghiêm trọng, tiềm ẩn nguy cơ ảnh hưởng đến an ninh quốc gia và trật tự an toàn xã hội. Một trong những nguyên nhân là các tiêu chuẩn hiện hành còn mang tính lý thuyết, thiếu tính thực tiễn và chưa sát với yêu cầu vận hành thực tế trong môi trường không gian mạng ngày càng phức tạp.
+
+Do đó, việc ban hành TCVN 14423:2025 được kỳ vọng sẽ tạo điều kiện thuận lợi để các cơ quan, tổ chức thiết lập bảo vệ các hạ tầng thông tin trọng yếu.
+
+Khác biệt lớn của TCVN 14423:2025 so với các tiêu chuẩn trước nằm ở tính thực hành cao và khả năng áp dụng rõ ràng. Các yêu cầu kỹ thuật và yêu cầu quản lý được gắn kết chặt chẽ trong từng nội dung, giúp cơ quan, tổ chức triển khai giải pháp bảo đảm an ninh mạng một cách hệ thống, toàn diện và dễ thực hiện. Trong khi đó, TCVN 11930:2017 vẫn chủ yếu dừng lại ở các yêu cầu chung, tách rời giữa yếu tố kỹ thuật và quản lý.
+
+Thượng tá Lê Xuân Thủy cho biết: "Tình hình an ninh mạng hiện nay không kém phần cam go so với an ninh trên thực địa. Đây là thách thức nổi lên trong bối cảnh an ninh phi truyền thống. Các hệ thống thông tin trọng yếu vẫn đang là mục tiêu tấn công, do đó cần một hệ thống tiêu chuẩn đủ mạnh để tăng cường phòng thủ. Chuyển đổi số mà không gắn liền với bảo đảm an ninh mạng sẽ tạo ra những rủi ro mới".
+
+Việc xây dựng TCVN 14423:2025 được đặt trong định hướng từ các chủ trương lớn của Đảng và Nhà nước, đặc biệt là Nghị quyết 57-NQ/TW, xác định an ninh mạng là một trong các trụ cột quan trọng bảo vệ không gian số quốc gia. Bộ tiêu chuẩn mới cũng đóng vai trò định hướng, góp phần hình thành khung kỹ thuật và quản lý để xây dựng hệ thống thông tin an toàn, bền vững.
+
+
+
+Cuộc thi An ninh mạng sinh viên toàn quốc 2025 do Hiệp hội An ninh mạng Quốc gia và Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (Bộ Công an) phối hợp tổ chức.
+
+Mục tiêu của cuộc thi là phát hiện, bồi dưỡng thế hệ nhân lực trẻ có năng lực và đam mê với an toàn thông tin, đồng thời tạo ra một sân chơi học thuật, kết nối sinh viên cả nước và quốc tế.
+
+Bên cạnh tổng giải thưởng tiền mặt lên đến 220 triệu đồng, đội đạt giải sẽ có cơ hội thực tập tại các doanh nghiệp an ninh mạng hàng đầu – được xem là phần thưởng thiết thực và giá trị nhất với các bạn trẻ theo đuổi lĩnh vực này.
+
+Cơ cấu cuộc thi gồm hai vòng chính: Vòng Sơ khảo (thi trực tuyến trên nền tảng nCademy) diễn ra vào cuối tháng 9/2025; Vòng Chung kết toàn quốc tổ chức vào tháng 10/2025, nằm trong chuỗi sự kiện chào mừng Lễ ký Công ước Hà Nội.
+
+Đối tượng tham gia là sinh viên chính quy các trường đại học, cao đẳng trên toàn quốc và một số đội khách mời là sinh viên quốc tế.
+
+Ông Vũ Ngọc Sơn,Trưởng Ban Nghiên cứu, tư vấn, phát triển công nghệ và Hợp tác quốc tế của Hiệp hội An ninh mạng quốc gia (NCA) cho biết: "Điểm đặc biệt của cuộc thi năm nay là chúng tôi sẽ đưa AI vào nội dung chính thức. Trong bối cảnh tội phạm mạng đang tận dụng AI để gia tăng sức tấn công, việc sử dụng AI trong phòng thủ không chỉ cần thiết mà còn là xu hướng tất yếu. Cuộc thi là sân chơi để chúng tôi phát hiện, bồi dưỡng nhân lực trẻ có năng lực về an ninh mạng”.

@@ -1,0 +1,23 @@
+Cục An toàn thông tin - Bộ Thông tin và Truyền thông cũng đề nghị các cơ quan, tổ chức rà soát để phát hiện hệ thống bị ảnh hưởng tránh nguy cơ bị tấn công.
+
+Cụ thể, 6 lỗ hổng được đề cập tới bao gồm: CVE-2023-23392 tồn tại trong HTTP Protocol Stack, CVE-2023-23415 trong Internet Control Message Protocol, CVE-2023-23399 trong Microsoft Excel và CVE-2023-23400 trong Windows DNS Server, lỗ hổng CVE-2023-23397 trong Microsoft Outlook và lỗ hổng CVE-2023-24880 trong Windows SmartScreen.
+
+Đáng chú ý, trong những lỗ hổng bảo mật mới được cảnh báo đến các đơn vị chuyên trách công nghệ thông tin, an toàn thông tin của các bộ, ngành, địa phương; các tập đoàn, tổng công ty nhà nước cùng các ngân hàng, tổ chức tài chính, có 2 lỗ hổng đang bị đối tượng tấn công khai thác trong thực tế. Đó là, lỗ hổng CVE-2023-23397 trong Microsoft Outlook cho phép thực hiện tấn công nâng cao đặc quyền; và lỗ hổng CVE-2023-24880 trong Windows SmartScreen cho phép đối tượng thực hiện tấn công vượt qua cơ chế bảo mật.
+
+
+
+Khi cần hỗ trợ, các đơn vị có thể liên hệ tới Cục An toàn thông tin Trung tâm Giám sát an toàn không gian mạng quốc gia (số điện thoại 02432091616, thư điện tử: ais@mic.gov.vn) để được trợ giúp.
+
+Bốn lỗ hổng bảo mật khác cũng được Cục An toàn thông tin đề nghị các đơn vị đặc biệt lưu ý gồm: CVE-2023-23392 tồn tại trong HTTP Protocol Stack, CVE-2023-23415 trong Internet Control Message Protocol, CVE-2023-23399 trong Microsoft Excel và CVE-2023-23400 trong Windows DNS Server. Cả 4 lỗ hổng đều cho phép đối tượng tấn công thực thi mã từ xa.
+
+Do đó, Cục An toàn thông tin đề nghị các đơn vị cần tiến hành kiểm tra, rà soát, xác định máy tính sử dụng hệ điều hành Windows có khả năng bị ảnh hưởng, nếu phát hiện lỗi cần kịp thời cập nhật bản vá để tránh nguy cơ bị tấn công mạng.
+
+Bên cạnh đó, cũng cần tăng cường giám sát và sẵn sàng phương án xử lý khi phát hiện có dấu hiệu bị khai thác, tấn công mạng, thường xuyên theo dõi kênh cảnh báo của cơ quan chức năng và các tổ chức lớn về an toàn thông tin để phát hiện kịp thời nguy cơ tấn công mạng.
+
+
+
+Theo số liệu mới nhất từ Kaspersky Security Network (KSN), năm 2022 là năm thứ 5 liên tiếp Việt Nam chứng kiến sự sụt giảm về số lượng các vụ tấn công mạng đã được công ty an ninh mạng toàn cầu ngăn chặn. Các số liệu về các mối đe dọa từ Internet cũng như các mối đe dọa ngoại tuyến cũng thấp nhất trong vòng nửa thập kỷ qua.
+
+Cụ thể, Kaspersky đã phát hiện và chặn tổng cộng 41.989.163 mối đe dọa mạng khác nhau từ Internet trên máy tính của những người tham gia KSN tại Việt Nam. So với năm 2021 (63.482.728 trường hợp), con số này đã giảm đáng kể với mức 34%. Ngoài ra, tỷ lệ người dùng Việt được Kaspersky bảo vệ trước các mối đe dọa từ Internet trong giai đoạn này là 37,6%, đứng thứ 49 toàn cầu.
+
+Về các nguy cơ liên quan đến phần mềm độc hại phát tán qua qua USB, CD, DVD và các phương thức ngoại tuyến khác, con số của Việt Nam năm 2022 cũng giảm đáng kể so với các năm trước, với tổng số 121.542.272 vụ được Kaspersky phát hiện và ngăn chặn. Con số này đã giảm 25,39% từ so với năm 2021. Trong khi đó, Singapore là quốc gia có số người dùng bị tấn công thấp nhất Đông Nam Á, với 2.377.147 vụ, tương ứng với vị trí thứ 143 toàn cầu.

@@ -1,0 +1,27 @@
+Theo The Guardian, Ủy ban Châu Âu cho biết họ đã mở các thủ tục tố tụng chính thức chống lại TikTok - nền tảng chia sẻ video ngắn do Trung Quốc sở hữu vì có khả năng vi phạm Đạo luật Dịch vụ Kỹ thuật số (DSA).
+
+Cuộc điều tra xem xét các lĩnh vực bao gồm bảo vệ trẻ vị thành niên, tính minh bạch về nội dung quảng cáo và liệu thuật toán của họ có khiến người dùng rơi vào hiệu ứng "lỗ thỏ" (dẫn dắt người xem không ngừng) hay không.
+
+Theo Thierry Breton, Ủy viên EU về thị trường nội địa, việc bảo vệ trẻ em là ưu tiên thực thi hàng đầu theo DSA. Cuộc điều tra về sự an toàn của trẻ em trên TikTok bao gồm xác minh độ tuổi – một vấn đề được nêu bật trong cuộc điều tra của Guardian về nền tảng này vào năm ngoái. Một nội dung quan trọng khác là cài đặt quyền riêng tư mặc định được sử dụng cho tài khoản của trẻ em.
+
+Breton cho biết: “Là một nền tảng tiếp cận hàng triệu trẻ em và thanh thiếu niên, TikTok phải tuân thủ đầy đủ DSA và có vai trò đặc biệt trong việc bảo vệ trẻ vị thành niên trực tuyến. Chúng tôi sẽ tiến hành thủ tục vi phạm chính thức này để đảm bảo rằng các biện pháp tương xứng sẽ được thực hiện nhằm bảo vệ sức khỏe thể chất và tinh thần của thanh niên châu Âu".
+
+Tháng 4/2023, cơ quan giám sát dữ liệu Ireland đã phạt TikTok 345 triệu euro vì vi phạm luật dữ liệu của EU trong việc nền tảng xử lý tài khoản trẻ em. Trong cùng tháng, ủy viên thông tin Vương quốc Anh đã phạt công ty này 12,7 triệu bảng vì xử lý trái phép dữ liệu của trẻ em dưới 13 tuổi - dưới độ tuổi tối thiểu để sử dụng TikTok.
+
+Các công ty vi phạm DSA phải đối mặt với nguy cơ bị phạt lên tới 6% doanh thu toàn cầu của họ. TikTok cho biết họ sẽ tiếp tục làm việc với các chuyên gia trong ngành để đảm bảo an toàn cho những người trẻ tuổi trên nền tảng của mình và họ mong muốn được giải thích chi tiết công việc này với Ủy ban Châu Âu.
+
+Ủy ban cũng đang xem xét những thiếu sót đáng ngờ trong việc TikTok cung cấp dữ liệu có thể truy cập công khai cho các nhà nghiên cứu, cũng như liệu công ty có tuân thủ các yêu cầu để thiết lập cơ sở dữ liệu về các quảng cáo đã xuất hiện trên nền tảng này hay không.
+
+Không có thời hạn nào được ấn định cho cuộc điều tra. Brussels cho biết cuộc điều tra phụ thuộc vào một số yếu tố bao gồm mức độ phức tạp của vụ việc và mức độ hợp tác của công ty bị điều tra.
+
+Tại Việt Nam, giữa năm 2023, Bộ Thông tin và Truyền thông phối hợp với 6 bộ, ngành liên quan thành lập Đoàn kiểm tra liên ngành, thực hiện kiểm tra toàn diện hoạt động của TikTok tại Việt Nam. Đối tượng kiểm tra là hai pháp nhân của TikTok tại Việt Nam gồm: Văn phòng đại diện TikTok tại Tp.Hồ Chí Minh (Văn phòng TikTok) và Công ty TNHH Công nghệ TikTok Việt Nam (Công ty TikTok Việt Nam).
+
+Kết quả kiểm tra, xác minh cho thấy, Văn phòng TikTok và Công ty TikTok Việt Nam không trực tiếp tham gia hoạt động quản lý, cung cấp các dịch vụ xuyên biên giới vào Việt Nam thông qua trang web TikTok.com và ứng dụng TikTok. Việc cung cấp các dịch vụ xuyên biên giới vào Việt Nam do TikTok Pte.Ltd (TikTok Singapore) trực tiếp quản lý, vận hành. Hiện nay, TikTok mở văn phòng đại diện và có công ty ở Việt Nam nhưng không giao bất kỳ quyền gì cho hai đơn vị này.
+
+Đoàn kiểm tra đã xác lập được một số hành vi vi phạm nổi bật của TikTok Singapore trong việc cung cấp các dịch vụ xuyên biên giới vào Việt Nam. Theo đó, lưu trữ thông tin vi phạm pháp luật Việt Nam tại các máy chủ CDN tại Việt Nam, cụ thể: Thông tin giả mạo, xuyên tạc, kích động bạo lực, kích động tệ nạn xã hội; thông tin gây hại cho trẻ em…
+
+Quy trình kiểm duyệt nội dung chưa hiệu quả, để lọt nhiều nội dung vi phạm pháp luật Việt Nam. Cách thức phân phối, đề xuất nội dung dựa trên sự tương tác, sở thích, sự quan tâm của người dùng dễ dẫn đến việc nội dung vi phạm pháp luật Việt Nam được lan truyền với tốc độ nhanh chóng nếu được nhiều người dùng tương tác, quan tâm.
+
+TikTok tại Việt Nam không có biện pháp, công cụ bảo đảm an toàn về thông tin bí mật đời sống riêng tư của trẻ em; không gửi các thông điệp cảnh báo nguy cơ khi trẻ em cung cấp, thay đổi thông tin bí mật đời sống riêng tư của trẻ em. Không thực hiện việc phát hiện, loại bỏ các hình ảnh, tài liệu, thông tin không phù hợp với trẻ em, ảnh hưởng đến sự phát triển lành mạnh của trẻ em. Không tổ chức tiếp nhận thông tin, đánh giá phân loại theo mức độ an toàn cho trẻ em; vẫn cho phép trẻ em dưới 13 tuổi mở tài khoản dù là nền tảng mạng xã hội chỉ dành cho người từ 13 tuổi trở lên.
+
+Nền tảng này cũng chưa áp dụng chính sách bảo vệ nội dung có bản quyền của người dùng; chưa thông báo đầu mối liên lạc về vấn đề quyền tác giả, quyền liên quan tới Cơ quan chuyên môn quản lý nhà nước về quyền tác giả, quyền liên quan.

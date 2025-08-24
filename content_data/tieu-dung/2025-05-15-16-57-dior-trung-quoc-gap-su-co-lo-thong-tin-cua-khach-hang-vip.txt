@@ -1,0 +1,37 @@
+Dior mới đây đã thừa nhận xảy ra sự cố rò rỉ dữ liệu ảnh hưởng đến tập khách hàng tại Trung Quốc, theo một tin nhắn được gửi tới khách hàng và bắt đầu lan truyền trên mạng từ thứ Hai tuần này.
+
+Trong tin nhắn, thương hiệu thuộc sở hữu của tập đoàn LVMH cho biết họ phát hiện vào ngày 7/5/2025, một cá nhân bên ngoài không được ủy quyền đã đánh cắp một số dữ liệu khách hàng.
+
+Thông tin cá nhân của các khách hàng VIP tại Dior Trung Quốc bị rò rỉ bao gồm: họ tên, giới tính, số điện thoại, địa chỉ email, địa chỉ nhận hàng, mức chi tiêu, thói quen mua sắm và các thông tin khác mà khách hàng từng tự nguyện cung cấp. Tuy nhiên, theo thông báo, các dữ liệu tài chính như tài khoản ngân hàng hay thông tin thẻ thanh toán không bị ảnh hưởng.
+
+“Như một biện pháp đề phòng và để đảm bảo an toàn, chúng tôi khuyến cáo quý khách nên cẩn trọng với các hình thức liên lạc đáng ngờ như tin nhắn, cuộc gọi hoặc email lạ”, tin nhắn này viết. “Vui lòng không mở hoặc nhấp vào các liên kết từ nguồn không rõ ràng và tuyệt đối không chia sẻ thông tin nhạy cảm như mã xác minh hay mật khẩu”.
+
+Dior xác nhận vụ rò rỉ dữ liệu lần này nhắm đến nhóm khách hàng thời trang và phụ kiện của thương hiệu, đồng thời cho biết hãng đã ngay lập tức thực hiện các biện pháp nhằm kiểm soát sự cố.
+
+“Đội ngũ Dior với sự hỗ trợ từ các chuyên gia an ninh mạng hàng đầu hiện vẫn đang tiến hành điều tra và xử lý vụ việc”, người đại diện Dior cho biết trong một email. “Chúng tôi đang làm việc để thông báo đến các cơ quan chức năng và khách hàng có liên quan, theo đúng quy định pháp luật hiện hành. Việc bảo mật thông tin và đảm bảo quyền riêng tư của khách hàng luôn là ưu tiên tuyệt đối của Dior. Chúng tôi chân thành xin lỗi nếu sự việc này gây ra bất kỳ lo lắng hay bất tiện nào cho quý khách hàng,” người phát ngôn này nói thêm.
+
+Tính đến thời điểm hiện tại, Dior vẫn chưa công bố số lượng người dùng bị ảnh hưởng, cũng như chưa xác nhận liệu dữ liệu bị rò rỉ có bị sử dụng sai mục đích hay không.
+
+Theo truyền thông Trung Quốc, thông tin khách hàng bị đánh cắp có thể được rao bán với giá lên tới 500 nhân dân tệ (khoảng 69,40 USD) mỗi hồ sơ trên các chợ đen trực tuyến. Một số người dùng trên nền tảng thương mại xã hội Xiaohongshu (Tiểu Hồng Thư) của Trung Quốc cho biết họ đã bắt đầu nhận được các cuộc gọi rác từ các phòng khám thẩm mỹ.
+
+Sự cố có thể đã lan sang cả thị trường lân cận là Hàn Quốc. Theo các nguồn tin địa phương, Dior đã thông báo vụ việc cho Ủy ban Bảo vệ thông tin cá nhân Hàn Quốc.
+
+Marijus Briedis, chuyên gia an ninh mạng và Giám đốc Công nghệ của NordVPN, cho biết các thương hiệu như Dior đã trở thành mục tiêu hàng đầu trong các vụ tấn công dữ liệu những năm gần đây do sở hữu tệp khách hàng giàu có.
+
+“Đối với tin tặc, đây không chỉ là dữ liệu mà còn là tầm ảnh hưởng”, ông Briedis nhận định. “Việc cho rằng chỉ thông tin tài chính mới quan trọng trong một vụ rò rỉ dữ liệu là sai lầm. Trên thực tế, việc biết ai mua gì, sống ở đâu và có thói quen mua sắm ra sao cũng nguy hiểm không kém. Với tội phạm mạng, dữ liệu khách hàng của Dior là mỏ vàng để thực hiện các chiến thuật nhắm mục tiêu tâm lý,” ông nói thêm.
+
+Gần đây nhất, tài khoản Instagram của Dior từng bị tấn công vào tháng Hai. Tin tặc đã đăng một story quảng bá một loại tiền mã hóa giả mạo có tên “Dior Official Coin”, kèm theo liên kết bên ngoài để truy cập mã token. Dù nhiều người theo dõi đã sớm nhận ra dấu hiệu lừa đảo, một số người vẫn bị lừa và chịu thiệt hại tài chính.
+
+Vụ rò rỉ dữ liệu đã làm dấy lên lo ngại về những lỗ hổng kỹ thuật số của Dior tại thị trường Trung Quốc, nơi thương hiệu này đã mở rộng mạnh mẽ hoạt động trực tuyến trong những năm gần đây.
+
+Là một nhà mốt cao cấp, Dior đã đầu tư lớn vào tiếp thị số và quản lý khách hàng cao cấp tại Trung Quốc, đặc biệt thông qua các nền tảng như mini-programs trên WeChat. Trong quá trình đăng ký, người dùng thường được yêu cầu cung cấp thông tin cá nhân cơ bản như số điện thoại, giới tính và ngày sinh.
+
+Dù các trường thông tin này là tùy chọn, nhưng việc thu thập dữ liệu đã trở thành công cụ quan trọng giúp thương hiệu xây dựng hồ sơ khách hàng chi tiết và củng cố chiến lược "private domain traffic" (lưu lượng người dùng riêng).
+
+Tuy nhiên, chính mô hình tiếp cận người tiêu dùng dựa trên dữ liệu một cách chính xác này lại làm gia tăng nguy cơ rò rỉ thông tin. Với các thương hiệu xa xỉ, niềm tin của khách hàng là một tài sản cốt lõi. Việc dữ liệu cá nhân bị xâm phạm không chỉ làm suy giảm cảm giác an toàn mà còn đe dọa hình ảnh về sự tinh tế và độc quyền – những giá trị mà các thương hiệu cao cấp luôn dày công xây dựng.
+
+Đáng lo ngại hơn, trong bối cảnh các khách hàng giàu có ngày càng quan tâm đến quyền riêng tư, những sự cố như vậy càng làm gia tăng lo ngại và hoài nghi, có thể làm lung lay lòng trung thành của khách hàng trong một phân khúc mà sự kín đáo là yếu tố then chốt.
+
+Sự cố rò rỉ dữ liệu của Dior không chỉ là một vấn đề an ninh mạng. Đây còn là một phép thử quan trọng đối với tham vọng số hóa của các thương hiệu xa xỉ.
+
+Khi các nhà mốt ngày càng phụ thuộc vào chiến lược số dựa trên dữ liệu khách hàng, bài toán bảo vệ quyền riêng tư của khách hàng đang nổi lên như một trụ cột thiết yếu trong bất kỳ lộ trình chuyển đổi số đáng tin cậy nào. Cách các thương hiệu cân bằng giữa cá nhân hóa trải nghiệm và bảo mật dữ liệu có thể sẽ định hình tương lai của ngành xa xỉ trong thời đại kỹ thuật số.

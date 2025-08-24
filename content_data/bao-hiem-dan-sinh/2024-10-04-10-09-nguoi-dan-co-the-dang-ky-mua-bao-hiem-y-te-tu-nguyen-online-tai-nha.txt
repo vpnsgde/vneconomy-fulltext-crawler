@@ -1,0 +1,25 @@
+Bảo hiểm xã hội Việt Nam hướng dẫn cách để người lao động có thể đăng ký tham gia bảo hiểm y tế hộ gia đình online.
+
+Bước 1:Đăng nhập Cổng Dịch vụ công quốc gia (tại địa chỉ https://dichvucong.gov.vn), hoặc Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam (tại địa chỉ https://dichvucong.baohiemxahoi.gov.vn).
+
+Trường hợp cá nhân chưa có tài khoản thì thực hiện đăng ký tài khoản trên Cổng Dịch vụ công quốc gia, hoặc Cổng Dịch vụ công bảo hiểm xã hội.
+
+Bước 2:Người tham gia thực hiện kê khai đầy đủ, chính xác các trường thông tin theo Mẫu 01-TK trên Cổng Dịch vụ công cho cá nhân hoặc các thành viên của hộ gia đình tham gia bảo hiểm y tế trong cùng một lần kê khai, và chịu trách nhiệm với nội dung kê khai.
+
+Bước 3:Hệ thống phần mềm tự động kiểm tra, đối chiếu thông tin người tham gia kê khai.
+
+Đối với người tham gia bảo hiểm y tế theo hộ gia đình: Phần mềm xác định nơi đăng ký thường trú hoặc tạm trú (cấp tỉnh, cấp huyện), xác thực thông tin của chủ hộ, các thành viên hộ gia đình cùng đăng ký thường trú hoặc tạm trú, với cơ sở dữ liệu quốc gia về dân cư, xác định thứ tự tham gia bảo hiểm y tế của từng thành viên được giảm trừ mức đóng trong cơ sở dữ liệu Bảo hiểm xã hội Việt Nam, và xác định chính xác số tiền phải đóng để người tham gia nộp tiền trực tuyến.
+
+Trường hợp xác định nơi cư trú hoặc xác thực thông tin của chủ hộ chưa đóng đúng, hoặc các thành viên không cùng đăng ký thường trú, tạm trú với cơ sở dữ liệu quốc gia về dân cư, hệ thống phần mềm hiển thị thông báo cho người tham gia biết về địa chỉ cư trú để liên hệ với cơ quan Công an hướng dẫn, điều chỉnh.
+
+Sau đó, thực hiện lại Bước 2, hoặc có thể đăng ký tham gia bảo hiểm y tế tại các tổ chức dịch vụ thu bảo hiểm xã hội, bảo hiểm y tế, hoặc tại cơ quan Bảo hiểm xã hội.
+
+Bước 4:Người tham gia thực hiện nộp tiền trực tuyến trên Cổng Dịch vụ công, nhận biên lai thu tiền điện tử, nhận thông báo thời hạn trả thẻ bảo hiểm y tế, hoặc thời hạn thẻ bảo hiểm y tế tiếp tục được sử dụng ngay khi giao dịch thành công.
+
+Bước 5:Người tham gia nhận thẻ bảo hiểm y tế bản điện tử, hoặc thẻ bảo hiểm y tế bản giấy theo phương thức đã đăng ký.
+
+Bảo hiểm xã hội Việt Nam cho biết tại Nghị định số 146/2018/NĐ-CP quy định mức đóng bảo hiểm y tế của người tham gia bảo hiểm y tế theo hộ gia đình như sau: Người thứ nhất đóng bằng 4,5% mức lương cơ sở; người thứ hai, thứ ba, thứ tư đóng lần lượt bằng 70%, 60%, 50% mức đóng của người thứ nhất; từ người thứ năm trở đi đóng bằng 40% mức đóng của người thứ nhất.
+
+Việc giảm trừ mức đóng bảo hiểm y tế được thực hiện khi các thành viên tham gia bảo hiểm y tế theo hộ gia đình cùng tham gia trong năm tài chính.
+
+Theo Báo cáo của Bảo hiểm xã hội Việt Nam, tính đến ngày 30/9/2024, số người tham gia bảo hiểm y tế ước đạt 93,455 triệu người, tăng 2,18% so với cùng kỳ năm 2023.

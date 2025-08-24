@@ -1,0 +1,33 @@
+Toàn cảnh bức tranh tình hình an ninh mạng Việt Nam vừa được công bố vào chiều ngày 18/1/2024. Đây là sản phẩm của Tập đoàn công nghệ Bkav thực hiện tháng 12/2023, dựa trên kết quả chương trình đánh giá an ninh mạng dành cho người sử dụng cá nhân.
+
+Theo khảo sát an ninh mạng của Bkav, tỷ lệ người dùng nhận được tin nhắn, cuộc gọi lừa đảo tiếp tục gia tăng. Nếu năm 2022, con số này là 69,6% thì trong năm 2023 là 73%.
+
+Lừa đảo tài chính qua mạng bùng nổ trong những năm gần đây và trở thành vấn nạn. Trong các vụ việc lừa đảo với mục đích tài chính, kẻ xấu yêu cầu người dùng chuyển tiền qua tài khoản ngân hàng. Tuy nhiên, khi điều tra, các tài khoản này đều không chính chủ, khiến cơ quan chức năng gặp khó khăn để tìm ra tội phạm và ngăn chặn vấn nạn lừa đảo.
+
+Các chuyên gia của Bkav phân tích, tài khoản ngân hàng rác là nguồn cơn của vấn nạn lừa đảo tài chính qua mạng tại Việt Nam thời gian qua. Theo ông Nguyễn Văn Cường, Giám đốc phụ trách an ninh mạng của Bkav, nguyên nhân là việc mua bán, trao đổi tài khoản ngân hàng đang diễn ra quá dễ dàng. Nhiều người đơn giản cho rằng bán đi các tài khoản mình không sử dụng sẽ không có vấn đề gì. Song thực tế, kẻ xấu đã lợi dụng những tài khoản ngân hàng này để thực hiện các giao dịch phi pháp, giấu nguồn gốc, gây khó khăn cho cơ quan điều tra”.
+
+Các kênh chợ đen trên Facebook, Telegram, Twitter… việc mua bán tài khoản ngân hàng rác diễn ra nhộn nhịp. Trong năm qua, cơ quan công an đã triệt phá nhiều đường dây buôn bán hàng nghìn tài khoản ngân hàng ra nước ngoài, với giá trị giao dịch của các tài khoản này lên tới hàng trăm tỷ đồng.
+
+Cũng theo Bkav, trong năm 2023, hệ thống giám sát và cảnh báo virus của đơn vị ghi nhận 745.000 máy tính bị nhiễm virus đánh cắp tài khoản (Facebook, ngân hàng), tăng 40% so với năm 2022. Phát tán mạnh nhất phải kể đến các dòng như RedLineStealer, ArkeiStealer, Fabookie… đều nằm trong top 20 dòng virus lây nhiễm mạnh ở Việt Nam.
+
+Nếu như năm 2023, các virus này vẫn còn “sơ khai”, chỉ đánh cắp dữ liệu tài khoản, mật khẩu, cookies… thì năm nay, chúng đã được “nâng cấp” để nhắm vào các tài khoản Facebook Bussiness, truy vấn thêm các thông tin về phương thức thanh toán, số dư... Khai thác thành công, hacker sử dụng chính tài khoản nạn nhân để âm thầm chạy quảng cáo thay vì ngay lập tức chiếm tài khoản hòng kiếm thêm lợi nhuận, nâng cao thứ hạng (SEO) các trang web phát tán mã độc...
+
+Các dòng virus đánh cắp tài khoản chủ yếu lây lan qua các phần mềm bị bẻ khóa (crack). Điều này cũng phù hợp với kết quả khảo sát của Bkav khi có tới 53% máy tính tại Việt Nam có sử dụng phần mềm crack. Dẫn tới việc, khoảng 10% người dùng tại Việt Nam bị mất tài khoản mạng xã hội, email, ngân hàng... Những tài khoản bị đánh cắp này sẽ bị kẻ xấu sử dụng để tiếp tục lừa đảo bạn bè, người thân của nạn nhân.
+
+Năm 2023, số lượng các cuộc tấn công gián điệp APT tại Việt Nam tăng 55% so với 2022, nhắm vào hơn 280.000 máy tính.
+
+Trong năm qua, hệ thống giám sát và cảnh báo virus của Bkav ghi nhận hơn 19.000 máy chủ bị tấn công mã hóa tống tiền từ 130.000 địa chỉ IP độc hại trên toàn thế giới, tăng 35% so với năm 2022.
+
+Các chuyên gia của Bkav cho biết nguyên nhân chính khiến máy chủ luôn là đích nhắm của virus mã hóa dữ liệu (ransomware) vì thường chứa dữ liệu quan trọng, nhạy cảm, có giá trị cao. Khi máy chủ bị mã hóa có thể gây ngưng trệ toàn bộ doanh nghiệp trong thời gian dài, tạo ra áp lực lớn, buộc nạn nhân phải trả tiền chuộc, thậm chí với bất kỳ giá nào.
+
+
+
+Thêm vào đó, máy chủ cũng là nơi công khai các dịch vụ của doanh nghiệp ra Internet, nên hacker dễ tiếp cận hơn đối với người dùng cá nhân.
+
+Ông Nguyễn Tiến Đạt, Tổng Giám Trung tâm nghiên cứu mã độc (AntiMalware) của Bkav, cho biết các cuộc tấn công xâm nhập vào máy chủ rất tinh vi, từ nhiều con đường khác nhau, như lỗ hổng máy chủ, lỗ hổng dịch vụ... Do đó, quản trị viên cần thường xuyên backup dữ liệu, đánh giá an ninh các dịch vụ trước khi mở ra Internet và cài đặt phần mềm diệt virus đủ mạnh để được bảo vệ theo thời gian thực.
+
+Đưa ra dự báo cho năm 2024, các chuyên gia an ninh mạng nhấn mạnh, sự phát triển nhanh chóng của AI không chỉ mang lại những lợi ích mà còn tạo ra những nguy cơ cho an ninh mạng.
+
+Thách thức lớn nhất đối diện với công nghệ AI ngày nay là lừa đảo và tấn công có chủ đích APT, với mức độ ngày càng phức tạp của các kịch bản lừa đảo, đặc biệt khi kết hợp giữa Deepfake và GPT. Khả năng thu thập và phân tích dữ liệu người dùng thông qua AI cho phép tạo ra những chiến lược lừa đảo tinh vi, khiến việc nhận diện lừa đảo sẽ khó khăn hơn đối với người dùng.
+
+Tấn công APT cũng tiếp tục gia tăng khi dữ liệu quan trọng của các tổ chức luôn là đích nhắm của tội phạm mạng trên khắp thế giới. Những cuộc tấn công này không chỉ phức tạp hơn mà mức độ đe dọa cũng đặc biệt nghiêm trọng, hướng tới việc đánh cắp và mã hóa các dữ liệu quan trọng. Điều này đỏi hỏi sự tăng cường về mặt phòng thủ an ninh đối với các hệ thống trọng yếu, các chuyên gia nhấn mạnh.

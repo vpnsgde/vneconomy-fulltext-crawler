@@ -1,0 +1,27 @@
+Tại Nghị quyết 50/NQ-CP ngày 8/4/2023, Chính phủ yêu cầu Bộ Công an chủ trì triển khai thí điểm sử dụng bằng lái xe tích hợp trên tài khoản định danh điện tử tại tỉnh Bình Dương; báo cáo Chính phủ, Thủ tướng giải pháp triển khai thí điểm trong tháng 4/2023. Tài khoản này được quản lý và xác thực trên ứng dụng định danh điện tử quốc gia (VNeID), do Bộ Công an phát triển.
+
+Theo nghị quyết, Chính phủ giao Bộ Công an chủ trì, phối hợp với các chuyên gia, đánh giá trải nghiệm người dùng để nâng cấp, hoàn thiện ứng dụng VNeID bảo đảm nguyên tắc lấy người dùng làm trung tâm tạo sự thuận lợi, thân thiện, dễ khai thác sử dụng cho người dân và doanh nghiệp, hoàn thành trong tháng 5/2023.
+
+Ngoài ra, Bộ Công an chủ trì, phối hợp với các Bộ: Thông tin và Truyền thông, Giao thông và Vận tải, Tư pháp nghiên cứu giải pháp triển khai thí điểm ứng dụng VNeID trong chuyển đổi số tại một số bộ, ngành, địa phương trong khi chờ sửa đổi, hoàn thiện cơ chế, chính sách liên quan.
+
+Đặc biệt, Chính phủ giao triển khai thí điểm sử dụng bằng lái xe tích hợp trên tài khoản định danh điện tử tại tỉnh Bình Dương, báo cáo Chính phủ, Thủ tướng Chính phủ giải pháp triển khai thí điểm trong tháng 4/2023.
+
+Người dân sử dụng tài khoản định danh điện tử sẽ có những lợi ích như tiết kiệm được nhiều thời gian, chi phí vì không phải kê khai nhiều loại biểu mẫu, giảm nhiều khâu thủ tục khi thực hiện các giao dịch hành chính công.
+
+Đồng thời, khác biệt với thẻ căn cước công dân, tài khoản định danh điện tử sẽ được xác thực thông tin trên môi trường điện tử. Do đó, công dân có thể thay thế căn cước công dân và các loại giấy tờ đã đăng ký tích hợp hiển thị trên ứng dụng định danh điện tử quốc gia, như giấy phép lái xe, đăng ký xe, bảo hiểm y tế... Như vậy, khi người dân giao dịch hành chính sẽ giảm tối đa các giấy tờ phải mang theo.
+
+Trong đó, tài khoản định danh điện tử cá nhân được chia thành 02 mức độ với những thông tin và giá trị sử dụng không giống nhau. Tài khoản định danh điện tử cá nhân mức độ 1 gồm các thông tin về số định danh cá nhân; họ và tên; ngày, tháng, năm sinh; giới tính; trường hợp là người nước ngoài thì có thêm thông tin về số, ký hiệu, ngày, tháng, năm, loại giấy tờ và nơi cấp hộ chiếu hoặc giấy tờ có giá trị đi lại quốc tế.
+
+Đối với Tài khoản định danh điện tử mức độ 2 có đầy đủ thông tin cá nhân như mức độ 1, ngoài ra còn có thêm thông tin sinh trắc học là ảnh chân dung và dấu vân tay. Sau khi có tài khoản định danh mức độ 2 mới có thể tích hợp các thông tin về thẻ bảo hiểm y tế, chứng nhận đăng ký phương tiện giao thông, giấy phép lái xe, mã số thuế hoặc giấy tờ khác vào thẻ căn cước công dân gắn chíp.
+
+Để đăng ký tài khoản định danh điện tử mức 2, người dân cần trực tiếp đến cơ quan Công an và làm thủ tục đăng ký. Khi đi đăng ký tài khoản định danh điện tử mức 2, người dân cần mang theo thẻ căn cước công dân gắn chíp và các giấy tờ có nhu cầu tích hợp hiển thị lên ứng dụng VNeID như thẻ Bảo hiểm y tế, Giấy phép lái xe, Đăng ký xe, thông tin về mã số thuế.
+
+Sau khi làm thủ tục, chờ kết quả phê duyệt, cấp tài khoản định danh điện tử của Bộ Công an. Nếu kết quả đạt, người dân sẽ nhận được tin nhắn SMS gửi đến số điện thoại đã đăng ký.
+
+Bộ Công an chủ trì, phối hợp với các chuyên gia, đánh giá trải nghiệm người dùng để nâng cấp, hoàn thiện ứng dụng VNeID bảo đảm nguyên tắc lấy người dùng làm trung tâm tạo sự thuận lợi, thân thiện, dễ khai thác sử dụng cho người dân và doanh nghiệp trong tháng 5/2023.
+
+Chính phủ giao Bộ Công an chủ trì, phối hợp với các Bộ: Thông tin và Truyền thông, Giao thông vận tải, Tư pháp nghiên cứu giải pháp triển khai thí điểm ứng dụng VNeID trong chuyển đổi số tại một số bộ, ngành, địa phương trong khi chờ sửa đổi, hoàn thiện cơ chế, chính sách liên quan;
+
+Trước mắt, sử dụng tài khoản VNeID để làm sạch dữ liệu và tạo lập tài khoản mới đối với thông tin thuê bao di động, nghiên cứu, ứng dụng dữ liệu dân cư, thẻ căn cước công dân gắn chip điện tử để các tổ chức cung cấp dịch vụ chữ ký số công cộng cung cấp dịch vụ chứng thư số công dân đảm bảo danh tính và triển khai thí điểm sử dụng bằng lái xe tích hợp trên tài khoản định danh điện tử tại tỉnh Bình Dương; báo cáo Chính phủ, Thủ tướng Chính phủ giải pháp triển khai thí điểm trong tháng 4/2023.
+
+Bộ Công an chủ trì, phối hợp với Đại học Bách khoa Hà Nội khai thác nền tảng giáo dục trực tuyến đại chúng mở (MOOC) trên toàn quốc để nâng cao kiến thức hỗ trợ triển khai Đề án 06 cho cán bộ, công chức, viên chức, giảm chi phí đào tạo truyền thống; báo cáo Chính phủ, Thủ tướng Chính phủ kết quả thực hiện trong tháng 6/2023.

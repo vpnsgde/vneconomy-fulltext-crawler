@@ -1,0 +1,32 @@
+Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) Cục An toàn thông tin cho biết, trong tháng 1/2023 đã ghi nhận, cảnh báo và hướng dẫn xử lý 1.234 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, tăng 25,6% so với tháng 12/2022 và giảm 10,8% so với cùng kỳ năm ngoái.
+
+Thống kê trước đó của NCSC cho thấy, số lượng sự cố tấn công mạng vào các hệ thống thông tin tại Việt Nam trong tháng cùng kỳ năm ngoái (tháng 1/2022) là 1.383 và trong tháng tháng 12/2022 là 982.
+
+Trong cảnh báo tuần cuối tháng 1/2023 của Trung tâm Giám sát an toàn không gian mạng quốc gia cho biết, trong tuần, các tổ chức quốc tế đã công bố và cập nhật ít nhất 633 lỗ hổng, trong đó có 53 lỗ hổng mức cao, 55 lỗ hổng mức trung bình và 525 lỗ hổng chưa đánh giá. Trong đó có ít nhất 179 lỗ hổng cho phép chèn và thực thi mã lệnh.
+
+
+
+Hệ thống kỹ thuật của Cục An toàn thông tin chủ động rà quét trên không gian mạng Việt Nam, đánh giá, thống kê cho thấy có 7 lỗ hổng/nhóm lỗ hổng trên các sản phẩm, dịch vụ công nghệ thông tin phổ biến, có thể gây ảnh hưởng lớn đến người dùng ở Việt Nam. Cụ thể là nhóm 3 lỗ hổng trong Adobe; 1 lỗ hổng trong Trend Micro; Nhóm 3 lỗ hổng trong Apache; Nhóm 8 lỗ hổng trong Cisco; 1 lỗ hổng trong Dell; Nhóm 4 lỗ hổng trong Github; Nhóm 6 lỗ hổng trong IBM.
+
+Trung tâm Giám sát an toàn không gian mạng quốc gia cũng cho biết, tuần vừa qua tại Việt Nam, có rất nhiều máy chủ, thiết bị có thể trở thành nguồn phát tán tấn công DRDoS. Trong tuần có 40.895 (giảm so với tuần trước 46.658) thiết bị có khả năng bị huy động và trở thành nguồn tấn công DRDoS. Các thiết bị này đang mở sử dụng các dịch vụ NTP (123), DNS (53), Chargen (19).
+
+Trong tuần, có 211 trường hợp tấn công vào trang/cổng thông tin điện tử của Việt Nam trong đó có 12 trường hợp tấn công thay đổi giao diện (Deface), 181 trường hợp tấn công lừa đảo (Phishing), 18 trường hợp tấn công cài cắm mã độc.
+
+Cùng với các nguy cơ tấn công DDoS, tấn công web là các cuộc tấn công Phishing, tấn công lừa đảo người dùng Việt Nam. Trên thế giới có nhiều các trang web giả mạo các tổ chức, doanh nghiệp, nhà cung cấp, dịch vụ lớn như: Các mạng xã hội, ngân hàng, thư điện tử… Theo các chuyên gia, Việt Nam có nhiều người dùng các dịch vụ, ứng dụng nước ngoài (cả miễn phí và tính phí) như các mạng xã hội, Payment, Apple, Paypal… Vì vậy người dùng cần phải hết sức cảnh giác với những trang web giả mạo để đánh cắp tài khoản.
+
+Các chuyên gia an ninh mạng cũng ghi nhận trong tuần qua đã có 113 phản ánh trường hợp lừa đảo do người dùng Internet Việt Nam thông báo về Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC). Qua kiểm tra, phân tích cho thấy có nhiều trường hợp lừa đảo giả mạo website của ngân hàng, các trang thương mại điện tử…
+
+Các chuyên gia an ninh mạng khuyến nghị các cơ quan đơn vị cần thường xuyên cập nhật thông tin các chiến dịch tấn công của các nhóm APT, thông tin IoC kèm theo từng chiến dịch, điểm yếu lỗ hổng đang bị lợi dụng để khai thác,…; đồng thời rà soát trên các hệ thống thống thông tin để phát hiện và ngăn chặn, xử lý kịp thời.
+
+Đối với các điểm yếu, lỗ hổng bảo mật, các đơn vị cần lưu ý theo dõi và cập nhật bản vá cho các lỗ hổng liên quan đến sản phẩm đang sử dụng. Đối với các nguy cơ về tấn công từ chối dịch vụ, tấn công web, các tổ chức đơn vị cần rà soát, hạn chế tối đa việc mở các cổng dịch vụ có thể bị lợi dụng để thực hiện tấn công từ chối dịch vụ; thường xuyên kiểm tra, rà soát máy chủ web để kịp thời phát hiện và xử lý nguy cơ tấn công.
+
+Các tổ chức đơn vị, doanh nghiệp cần chú ý không truy cập vào các trang web giả mạo đã được Trung tâm Giám sát an toàn không gian mạng quốc gia cảnh báo để tránh nguy cơ trở thành nạn nhân của những cuộc tấn công lừa đảo này.
+
+Trong các dự báo gần đây của các tổ chức an ninh mạng, năm 2023, các đơn vị, doanh nghiệp sẽ đối mặt với thách thức về đảm bảo an toàn an ninh cho hệ thống thông tin. Các cuộc tấn công có chủ đích APT sẽ diễn ra nhiều hơn, đặc biệt các cuộc tấn công đánh cắp dữ liệu từ các kho dữ liệu được hình thành trong quá trình chuyển đổi số.
+
+Bên cạnh đó, các hệ thống vận hành công nghiệp (OT) có thể là đích nhắm mới tiếp theo của các cuộc tấn công có chủ đích. Các hình thức lừa đảo qua mạng internet và mạng viễn thông sẽ có những biến tướng mới sau khi các cơ quan quản lý siết chặt các biên pháp bảo vệ người dùng.
+
+Theo Công ty công nghệ An ninh mạng Quốc gia Việt Nam NCS, xu hướng sử dụng mã độc để tấn công APT sẽ là một xu hướng phổ biến trong năm 2023. Mã độc mã hoá dữ liệu tống tiền sẽ gần như sẽ chuyển dịch hẳn sang tấn công vào hệ thống máy chủ, nhưng người sử dụng không nên lơ là vì có thể vẫn xuất hiện các mã độc mã hoá tấn công trên diện rộng.
+
+Còn theo Bkav, nguồn lợi tài chính hấp dẫn sẽ khiến mã độc mã hóa tống tiền tiếp tục nở rộ trong năm 2023. Chiến dịch tấn công ransomware nhắm vào máy chủ chứa dữ liệu kế toán được ghi nhận từ tháng 4/2022 đang tiếp diễn đã xâm nhập 1.355 máy chủ. Năm qua, nhiều cơ quan, doanh nghiệp “kêu cứu” nhưng không thể khắc phục do chưa thực hiện backup hoặc không cài phần mềm chủ động bảo vệ trước các cuộc tấn công.
+

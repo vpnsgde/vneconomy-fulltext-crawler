@@ -1,0 +1,21 @@
+Những năm 2000 là thời điểm bắt đầu mở ra một kỷ nguyên mới trong điện toán - kỷ nguyên đám mây. Khi đó, Amazon, Google và Microsoft đã xây dựng các trung tâm đám mây nhằm đáp ứng sự tăng lên nhanh chóng của dữ liệu và nhu cầu lưu trữ của người dùng. Ngày nay, tận dụng sức mạnh tính toán và lưu trữ dữ liệu từ các ông lớn công nghệ, nhiều công ty đóng vai trò trung gian để cung cấp các công cụ cho phép khách hàng xây dựng các ứng dụng.
+
+Không chỉ cung cấp giải pháp lưu trữ và phân tích dữ liệu, nhiều công ty còn cho phép khách hàng xây dựng nhanh chóng và liền mạch các ứng dụng trong hệ sinh thái trực tiếp nơi lưu trữ dữ liệu của họ. Về cơ bản, các ứng dụng được lưu trữ trên nền tảng dữ liệu giống như một cửa hàng ứng dụng.
+
+Khách hàng sử dụng các nền tảng này không phải trích xuất dữ liệu, giải quyết các vấn đề bảo mật đồng thời không cần sao lưu nhiều dữ liệu. Trên thực tế, các nền tảng này thường mua số lượng lớn bộ lưu trữ từ các nhà cung cấp đám mây, vì vậy, chỉ với một cú nhấp chuột, khách hàng có thể lưu trữ dữ liệu của họ ở nhiều nơi.
+
+Lợi thế đầu tiên của việc sử dụng các ứng dụng được lưu trữ trên nền tảng đám mây là khách hàng có thể tăng tốc độ triển khai các giải pháp mới. Khách hàng dễ dàng sửa chữa, nâng cấp và thử nghiệm các giải pháp mới nhanh hơn.
+
+Hơn nữa, khách hàng có thể thử các công nghệ mới và nhanh chóng xác định có phù hợp hay không trước khi phải đầu tư quá nhiều thời gian và tiền bạc. Các lợi thế khác bao gồm giảm chi phí sao chép dữ liệu, chia sẻ dữ liệu tích hợp và bảo mật...
+
+Khi so sánh với ổ cứng, các ứng dụng được lưu trữ trên đám mây có nguy cơ mất dữ liệu thấp hơn. Nếu cá nhân/doanh nghiệp mất bất kỳ dữ liệu nào của mình, bạn có thể khôi phục nó từ bản sao lưu gần đây nhất và tiếp tục làm việc.
+
+Tuy nhiên, theo Vanja Josifovsk, Đồng sáng lập và Giám đốc điều hành của Kumo AI, không rõ nền kinh tế của hệ sinh thái non trẻ này sẽ diễn ra như thế nào trong dài hạn. Tuy nhiên, chi phí cho loại hình dịch vụ này hiện có xu hướng tăng lên.
+
+Một nhược điểm khác là sự thay đổi cân bằng quyền lực giữa những người chơi khác nhau. Bất cứ khi nào có một người trung gian trong bức ảnh, bạn sẽ mất một số quyền kiểm soát mà nếu không bạn sẽ phải đối phó với chính bên kia.
+
+CEOKumo AI Vanja Josifovsk dự đoán rằng các ứng dụng phức tạp sẽ được xây dựng trên nền tảng dữ liệu trừu tượng hoá thay vì được xây dựng từ các thành phần cơ bản qua lưu trữ và tính toán. Điều này giống như việc chuyển từ ngôn ngữ như C sang các ngôn ngữ như Java đã trừu tượng hóa một số tác vụ phổ biến, chẳng hạn như quản lý bộ nhớ.
+
+Điều này sẽ giúp các ứng dụng trở nên tốt hơn, an toàn hơn và sẽ yêu cầu ít thao tác và quản lý dữ liệu hơn. Ngoài ra, trí tuệ nhân tạo, chẳng hạn như phân tích dự đoán tích hợp sẵn trong dịch vụ có thể giúp khách hàng làm được nhiều việc hơn với dữ liệu.
+
+Nếu như trước đây, khách hàng sẽ phải xây dựng các hệ thống phức tạp và sau đó quản lý cẩn thận nhiều phần khác nhau của các hệ thống, giờ đây mọi thứ đang thay đổi: dữ liệu được tận dụng một cách hiệu qủa hơn, các ứng được xây dựng theo cách đơn giản hơn.

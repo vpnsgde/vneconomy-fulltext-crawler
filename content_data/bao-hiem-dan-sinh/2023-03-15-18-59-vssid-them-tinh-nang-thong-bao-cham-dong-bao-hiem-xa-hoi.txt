@@ -1,0 +1,29 @@
+Nhằm góp phần công khai, minh bạch thông tin, giúp người lao động đảm bảo quyền lợi an sinh trong việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, Bảo hiểm xã hội Việt Nam vừa thực hiện việc điều chỉnh, nâng cấp ứng dụng “VssID - Bảo hiểm xã hội số” (VssID) lên phiên bản 1.6.5.
+
+Theo đó, ứng dụng VssID đã được bổ sung thêm tính năng hiển thị thời gian chưa đóng bảo hiểm xã hội, bảo hiểm thất nghiệp của người tham gia tại chức năng Quản lý cá nhân/Quá trình tham gia.
+
+Cụ thể, tại phiên bản này, ứng dụng VssID hiển thị: Tổng thời gian chưa đóng bảo hiểm xã hội, bảo hiểm thất nghiệp; chi tiết thời gian và đơn vị chưa đóng bảo hiểm xã hội, bảo hiểm thất nghiệp cho người lao động tại cơ quan Bảo hiểm xã hội đang quản lý.
+
+Đồng thời, VssID phiên bản 1.6.5 thực hiện gửi thông báo trên ứng dụng cho người lao động về thời gian chưa đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động - bệnh nghề nghiệp của đơn vị sử dụng lao động có hành vi vi phạm quy định tại các khoản 1, 2 và 3 Điều 17 của Luật Bảo hiểm xã hội năm 2014 từ 30 ngày trở lên.
+
+Tính năng này là một trong các giải pháp quan trọng nhằm giúp người lao động chủ động quản lý thông tin tham gia bảo hiểm xã hội, bảo hiểm thất nghiệp của bản thân, giám sát việc đóng của chủ sử dụng lao động cho mình, góp phần hạn chế tình trạng trốn đóng hoặc chiếm dụng tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp của đơn vị sử dụng lao động.
+
+Cáchxem thời gian chưa đóng bảo hiểm xã hộitrên ứng dụng VssID
+
+- Xem thời gian chưa đóng bảo hiểm xã hội:
+
+Bước 1.Sau khi đăng nhập ứng dụng, chọn chức năng "QUÁ TRÌNH THAM GIA".
+
+Bước 2.Tại màn hìnhQUÁ TRÌNH THAM GIA, chọn "BHXH" để xem tổng thời gian tham gia và tổng thời gian chưa đóng bảo hiểm xã hội.
+
+Bước 3.Chọn "Chi tiết" tại dòng "Tổng thời gian chưa đóng" để xem chi tiết thông tin đơn vị và thời gian chưa đóng bảo hiểm xã hội tại cơ quan Bảo hiểm xã hội đang quản lý.
+
+- Xem chi tiết thời gian chưa đóng bảo hiểm thất nghiệp:
+
+Tương tự như trường hợp xem chi tiết thời gian chưa đóng bảo hiểm xã hội, sau khi đăng nhập, tại bước 2, chọn "BHTN" để xem thời gian chưa đóng bảo hiểm thất nghiệp:
+
+Nhằm phổ biến rộng rãi ứng dụng VssID đến người tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, Tổng Giám đốc Bảo hiểm xã hội Việt Nam Nguyễn Thế Mạnh đã giao Bảo hiểm xã hội 63 tỉnh, thành phố phấn đấu đến hết năm 2023 sẽ có khoảng 35 triệu người tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp được đăng ký, phê duyệt, cài đặt và sử dụng ứng dụng.
+
+Theo đó, Tổng Giám đốc yêu cầu Bảo hiểm xã hội các tỉnh, thành phố tập trung rà soát bao phủ ứng dụng VssID tới 100% nhóm người cùng tham gia  bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp tại các đơn vị sử dụng lao động; 100% người tham gia bảo hiểm xã hội tự nguyện mới. Đồng thời, tiếp tục triển khai hướng dẫn đăng ký, cài đặt, sử dụng ứng dụng tới các đối tượng khác trên phạm vi cả nước...
+
+Ứng dụng VssID được Bảo hiểm xã hội Việt Nam chính thức cung cấp trên hai kho ứng dụng App Store và CHplay từ tháng 11/2020. Ứng dụng cung cấp các dịch vụ, tiện ích cho người tham gia, thụ hưởng chế độ, chính sách bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp. Đồng thời, giúp người tham gia chủ động quản lý thông tin, trực tiếp giám sát việc tổ chức, thực hiện các chính sách này.

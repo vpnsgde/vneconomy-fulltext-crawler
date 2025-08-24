@@ -1,0 +1,41 @@
+Khái niệm token hóa không còn quá xa lạ trong thời đại của nền kinh tế số như hiện nay. Mặc dù có rất nhiều dự án đã token hóa mọi loại tài sản từ vàng, trái phiếu, quỹ, công ty, ô tô, du thuyền, rượu, dầu, tín chỉ carbon và thậm chí cả cổ phiếu, như: USDC, Pax Dollar (USDP), Ethereum (ETH) và Wrapped Bitcoin (WBTC)…  nhưng không có gì nổi bật bằng bất động sản về quy mô thị trường tiềm năng.
+
+Theo Nghiên cứu của Savills, tổng giá trị bất động sản toàn cầu đạt 326.500 tỷ USD vào năm 2020. Ngược lại, thị trường thu nhập cố định toàn cầu duy trì ở mức 126.900 tỷ USD vào năm 2021, trong khi thị trường chứng khoán toàn cầu ước tính ở mức 124.400 tỷ USD vào năm 2021, và tổng giá trị đồng USD đang lưu hành ở mức 40.800 tỷ USD vào năm 2021.
+
+Giá trị thị trường tiềm năng của bất động sản cao gấp 1,1 lần giá trị thị trường kết hợp của thu nhập cố định toàn cầu, chứng khoán toàn cầu và USD, khiến bất động sản trở thành “chén thánh” của tất cả các dự án token.
+
+Token bất động sản đã thu hút sự chú ý của thế giới vào năm 2018 với việc token hóa Khu nghỉ dưỡng St. Regis Aspen của Elevated Returns. Việc token hóa đã huy động thành công 18 triệu USD cho 18,9% cổ phần của khách sạn nghỉ dưỡng bằng Aspen Coins và thu hút rất nhiều sự sự quan tâm, hào hứng của thị trường.
+
+Một dự án token bất động sản tương tự được gọi là RealT được thực hiện vào năm 2019 với các tài sản bất động sản trên khắp nước Mỹ như Detroit, Cleveland, Chicago, Toledo và Florida với tổng trị giá hơn 50 triệu USD được token hóa.
+
+Vào năm 2022, dự án token bất động sản có tên là CitaDAO đã sử dụng mô hình tài chính phi tập trung (DeFi) và token hóa một tài sản ở Singapore với giá cao hơn giá trị thực tế. Điều này đã chứng minh rằng bất động sản được mã hóa có thể được định giá cao hơn so với giá trị trong thế giới thực của chính nó.
+
+Các dự án này có sự phát triển đa dạng về vị trí địa lý, loại hình bất động sản, cấu trúc pháp lý, tính thanh khoản, công nghệ, mô hình hợp tác và vốn đầu tư nhưng đều công khai các điểm mạnh giống nhau như điều kiện tham gia dễ dàng, đa dạng, hiệu quả và minh bạch.
+
+Những lợi ích của việc token hóa bất động sản đang ngày càng được phổ biến rộng rãi. Về bản chất, bất động sản là tài sản có có tính thanh khoản thấp. Do đó, lợi ích chính của token hóa là khả năng làm tăng tính thanh khoản cho thị trường này.
+
+Quy trình một giao dịch bất động sản điển hình từ lúc rao bán đến khi hoàn tất chuyển nhượng cần vài tuần, thậm chí với một dự án lớn (toàn bộ tòa nhà văn phòng hoặc khu trung tâm thương mại) có thể mất nhiều thời gian hơn.
+
+Việc token hóa cho phép người mua và bán bất động sản theo tỷ lệ phần trăm nhỏ, từ đó rút ngắn thời gian tìm người mua tiềm năng do giá trị đầu tư thấp hơn đáng kể.
+
+Token hóa bất động sản cũng giúp “dân chủ hóa” cơ hội đầu tư vào thị trường này. Việc mã hóa giúp tăng cường khả năng tiếp cận và mở ra cơ hội cho các nhà đầu tư với nền tảng tài chính khác nhau, loại bỏ trở ngại chính khi tham gia thị trường đầu tư bất động sản nhờ chi phí phải chăng hơn.
+
+Token hóa bất động sản còn giúp các nhà đầu tư có quyền tham gia thị trường bất động sản toàn cầu hơn với chi phí giao dịch thấp hơn đáng kể.
+
+Nghiên cứu của Savills chi ra rằng mặc dù token hóa bất động sản cho thấy nhiều lợi ích nhưng một số dự án thất bại như Terra UST cho thấy nó cũng tiềm ẩn những rủi ro.
+
+Thứ nhất,rủi ro “De-tokenisation” (chuyển đổi từ token về giá trị thực tế): người sở hữu token phải được đổi giấy chứng nhận quyền sở hữu tài sản gốc như bất động sản, nợ nần hoặc vốn cổ phần bằng token của mình. Họ phải được phép chuyển đổi bất cứ khi nào họ muốn mà không cần xin phép của bất kỳ ai để chấp thuận việc đổi lấy tài sản.
+
+Điều này đảm bảo không xảy ra trường hợp giá token giảm quá mạnh so với giá trị gốc của tài sản. Nếu điều đó xảy ra, một số nhà đầu tư hưởng chênh lệch sẽ tận dụng mua token với giá chiết khấu so với giá trị gốc và mua lại bất động với giá rẻ hơn.
+
+Thứ hai, rủi ro đối tác: Đây là rủi ro khi một hoặc nhiều bên trong giao dịch không thể thực hiện bổn phận của họ trong thỏa thuận và vi phạm các nghĩa vụ hợp đồng. Sự thất bại gần đây của FTX, Celsius, Babel Finance, Voyager Finance, BlockFi, Hodlnaut, 3 Arrow Capital và nhiều nền tảng tương tự khác là một lời nhắc nhở liên tục về rủi ro đối tác khi giao dịch với các nền tảng tài chính tập trung (CeFi).
+
+Thứ ba, rủi ro thanh khoản: là tình trạng không đủ tiền để thanh toán cho khách hàng. Các danh mục bất động sản có tính thanh khoản thấp và mất nhiều thời gian để bán hơn.
+
+Thứ tư,rủi ro pháp lý: Các cơ quan quản lý đã rất quan tâm đến tài sản kỹ thuật số trong những năm gần đây do nhiều trường hợp sụp đổ đột ngột của một số nền tảng dẫn đến thiệt hại hàng tỷ USD. Điều này đã dẫn đến việc quản lý giám sát chặt chẽ hơn cũng như những trao đổi quy mô lớn về loại tài sản này khi vấn đề lạm dụng tài sản tiền điện tử cho mục đích tội phạm như rửa tiền cũng rất đáng lo ngại.
+
+Thứ năm, rủi ro cơ sở hạ tầng: là khả năng xảy ra sự cố trong cơ sở hạ tầng của các nền tảng. Điều này thường bao gồm các rủi ro liên quan đến công nghệ mà các nền tảng được phát triển trên đó.
+
+Savills cho rằng mô hình token hóa không phải là điều gì quá mới mẻ, nhiều dự án đã thành công trong một thời gian tương đối ngắn và token hóa bất động sản chắc chắn sẽ mở ra một kỷ nguyên đổi mới mới cho ngành bất động sản.
+
+“Mặc dù những lợi ích mà token hóa bất động sản cam kết đem lại đã được minh chứng trong những năm qua nhưng các nhà đầu tư vẫn phải phải nhận thức được các rủi ro để tránh bị che mắt bởi các lỗ hổng dẫn đến sự sự sụp đổ của Terra Project của Do Kwon hoặc FTX”, báo cáo nhấn mạnh.

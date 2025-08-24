@@ -1,0 +1,33 @@
+Ngày 23/11, Tổng cục Thuế tổ chức hội nghị tập huấn trực tuyến trên 64 điểm cầu của các cục thuế trên cả nước để hướng dẫn về Cổng dữ liệu thông tin thương mại điện tử.
+
+Phó Tổng cục trưởng Đặng Ngọc Minh cho biết để tăng cường hiệu lực hiệu quả trong quản lý nhà nước về thương mại điện tử, vừa qua, Chính phủ ban hành Nghị định số 91/2022/NĐ-CP ngày 30/10/2022 về việc sửa đổi, bổ sung một số điều của Nghị định số 126/2020/NĐ-CP ngày 19/10/2020 của Chính phủ quy định chi tiết một số điều của Luật Quản lý thuế.
+
+Theo đó, tại khoản 7 Điều 1 quy định các sàn giao dịch thương mại điện tử phải cung cấp thông tin định kỳ hàng quý qua cổng thông tin điện tử của Tổng cục Thuế. Trách nhiệm kê khai bắt đầu từ kỳ cung cấp thông tin của quý 4/2022, thời hạn chậm nhất vào ngày 31/1/2023.
+
+Trên cơ sở các quy định trên, Tổng cục Thuế cũng xây dựng Cổng dữ liệu thông tin thương mại điện tử để tiếp nhận thông tin từ các sàn giao dịch thương mại điện tử.
+
+Theo đó, các tổ chức là chủ sở hữu sàn giao dịch thương mại điện tử chỉ cần cung cấp thông tin qua cổng thông tin điện tử của Tổng cục Thuế theo mẫu biểu quy định mà không phải cung cấp thông tin cho từng cơ quan thuế theo các cách thức thủ công như trước đây.
+
+Tổng cục Thuế sẽ chia sẻ dữ liệu trên toàn quốc để các cục thuế không yêu cầu sàn phải cung cấp thông tin như trước.
+
+
+
+Trong quá trình xây dựng hệ thống, Tổng cục Thuế thông qua Hiệp hội thương mại điện tử để lấy ý kiến tham gia của các sàn, mời đại diện các sàn tham gia kiểm thử hệ thống. Cổng dữ liệu thông tin thương mại điện tử để tiếp nhận dữ liệu từ các sàn giao dịch thương mại điện tử sẽ chính thức hoạt động từ tháng 12/2022.
+
+Tại hội nghị, đại diện Vụ Quản lý thuế doanh nghiệp nhỏ và vừa hộ cá nhân kinh doanh trao đổi quy định việc các sàn phải cung cấp thông tin của thương nhân và cá nhân quy định tại khoản 7 Điều 1 Nghị định số 91/2022 cũng như các quy định xử phạt vi phạm hành chính về thuế đối với tổ chức, cá nhân liên quan tại Điều 19 Nghị định số 125/2020/NĐ-CP ngày 19/10/2020 của Chính phủ trong trường hợp tổ chức là chủ sở hữu sàn thương mại điện tử không cung cấp thông tin theo quy định.
+
+Về nội dung các sàn cần phải cung cấp thông tin, theo Vụ Quản lý thuế doanh nghiệp nhỏ và vừa hộ cá nhân, chủ sở hữu sàn giao dịch thương mại điện tử có trách nhiệm cung cấp đầy đủ, chính xác, đúng hạn các thông tin chung của thương nhân, tổ chức, cá nhân kinh doanh trên sàn thương mại điện tử bao gồm: tên người bán hàng, mã số thuế hoặc số định danh cá nhân hoặc chứng minh nhân dân hoặc căn cước công dân hoặc hộ chiếu, địa chỉ, số điện thoại liên lạc.
+
+Riêng đối với sàn giao dịch thương mại điện tử có chức năng đặt hàng trực tuyến thì ngoài các thông tin chung nêu trên còn phải cung cấp thông tin về doanh thu bán hàng thông qua chức năng đặt hàng trực tuyến của sàn thương mại điện tử.
+
+Đối với trường hợp sàn giao dịch thương mại điện tử không lưu giữ đầy đủ các thông tin chung nêu trên thì vẫn phải thực hiện việc cung cấp các thông tin đầy đủ, chính xác, đúng hạn theo đúng thực tế thông tin lưu giữ tại sàn giao dịch thương mại điện tử.
+
+Về hình thức cung cấp thông tin, Vụ Quản lý thuế doanh nghiệp nhỏ và vừa hộ cá nhân hướng dẫn việc cung cấp thông tin được thực hiện bằng phương thức điện tử, qua Cổng Thông tin điện tử của Tổng cục Thuế (thuedientu.gdt.gov.vn, truy cập vào “Cổng dữ liệu thông tin thương mại điện tử”) theo định dạng dữ liệu do Tổng cục Thuế quy định.
+
+Kết luận hội nghị tập huấn, Phó Tổng cục trưởng Đặng Ngọc Minh yêu cầu các Cục Thuế phải tập trung triển khai một số nhóm nhiệm vụ.
+
+Cụ thể,thứ nhất,đẩy mạnh việc tuyên truyền, hỗ trợ, phổ biến các nội dung quy định của pháp luật về cung cấp thông tin thương mại điện tử đến toàn bộ người nộp thuế, đặc biệt là các tổ chức, doanh nghiệp là chủ sở hữu sàn giao dịch thương mại điện tử trên địa bàn để đảm bảo các sàn thực hiện cung cấp thông tin theo quy định của Nghị định 91.
+
+Thứ hai,xây dựng kế hoạch tuyên truyền và có hình thức tuyên truyền, hỗ trợ phù hợp, kịp thời qua hệ thống 479 kênh thông tin hỗ trợ người nộp thuế.
+
+Thứ ba,trên cơ sở danh sách các website thương mại điện tử được cập nhập trên Cổng dữ liệu thông tin thương mại điện tử, Cục Thuế thực hiện rà soát để xác định các website là sàn giao dịch thương mại điện tử để thực hiện đôn đốc, nhắc việc cung cấp thông tin đúng hạn theo quy định; xử lý vi phạm đối với trường hợp chậm cung cấp thông tin theo quy định.

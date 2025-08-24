@@ -1,0 +1,49 @@
+Ngành viễn thông 4.0 là hạ tầng, là nền tảng của mọi ngành, vì vậy nếu không được “giải cứu” thì cả nền kinh tế số sẽ chậm chuyển biến, và Việt Nam có thể sẽ bỏ lỡ cơ hội bắt kịp những thay đổi từ cuộc Cách mạng công nghiệp lần thứ tư (Công nghiệp 4.0) khi Hoa Kỳ xoay trục chiến lược.
+
+Thứ nhất, hiệu quả ngành viễn thông đang suy giảm. Đơn cử, Tập đoàn Bưu chính viễn thông Việt Nam (VNPT), được Ủy ban Quản lý vốn nhà nước tại doanh nghiệp trực tiếp quản lý về vốn và nhân sự, nhưng hiệu quả lại giảm đều 5 năm nay. Cụ thể: lợi nhuận sau thuế năm 2018 đạt 5.403 tỷ đồng, đến năm 2022 chỉ còn 4.143 tỷ đồng. Đặc biệt, 6 tháng đầu năm 2023 lợi nhuận của VNPT giảm mạnh, doanh thu chỉ đạt 24.760 tỷ đồng, giảm 2,6% và lợi nhuận sau thuế đạt 1.935 tỷ đồng, giảm hơn 30% so với cùng kỳ.
+
+Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel) tuy kinh doanh tăng trưởng, nhưng tốc độ tăng chỉ còn một chữ số. Doanh thu hợp nhất của Tập đoàn năm 2022 đạt khoảng 163.800 tỷ đồng, tăng 6,1% so với năm trước. Lợi nhuận trước thuế đạt 43.100 tỷ đồng, tăng 3%. Như vậy, nếu so với mục tiêu được Viettel công bố năm 2018 là duy trì tốc độ tăng trưởng 10-15%, thì việc thực hiện chiến lược cơ bản giai đoạn 4.0 mới chưa đạt kỳ vọng.
+
+Ngoài ra, nộp ngân sách cả ngành viễn thông 6 tháng đầu năm 2023 chỉ đạt 19.338 tỷ đồng, lần đầu tiên giảm 18,5% so với cùng kỳ.
+
+Thứ hai, chuyển đổi số quốc gia diễn ra chậm. Cả 6 lý do khiến kết quả chuyển đổi số quốc gia 6 tháng đầu năm 2023 chưa đạt kế hoạch được Ủy ban Chuyển đổi số quốc gia báo cáo đều là “chậm”, cụ thể là: chậm ban hành; chậm phổ biến; chậm hướng dẫn; chậm cập nhật; chậm đôn đốc; chậm đề xuất.
+
+Nguyên nhân “chậm” cho thấy chúng ta có thể đang thiếu cơ chế khuyến khích, tạo động lực hay áp lực để chuyển đổi số nhanh hơn.
+
+Tháng 8/2023, Bộ Nội vụ đã nhận diện được vấn đề là thiếu cơ chế khuyến khích người giỏi làm chuyển đổi số 4.0 nên đã đề xuất chế độ hỗ trợ riêng cho cấp cán bộ, chuyên gia công nghệ. Tuy nhiên, điểm mấu chốt khiến “chậm” có thể là do chưa có cơ chế ghi nhận hay khuyến khích đặc biệt dành riêng cho những lãnh đạo đang trực tiếp thúc đẩy chương trình chuyển đổi số quốc gia.
+
+
+
+Khi Việt Nam xác định phát triển theo đổi mới sáng tạo 4.0, nghĩa là chúng ta cần ưu tiên chuyển nguồn lực từ khối truyền thống hướng vào khối chuyên môn khoa học, công nghệ 4.0 một cách năng động. Nếu quốc gia không “giải cứu” ngành, thì với hai điểm nghẽn trên, nước ta gần như khó bắt kịp được kỷ nguyên của Cách mạng công nghiệp 4.0, hệ quả sẽ kéo chậm cả nền kinh tế số - xanh - tuần hoàn. Khi kinh tế số diễn ra chậm thì xã hội số và chính phủ số cũng khó chuyển đổi nhanh.
+
+Khi Việt Nam xác định phát triển theo đổi mới sáng tạo 4.0, nghĩa là chúng ta cần ưu tiên chuyển nguồn lực từ khối truyền thống hướng vào khối chuyên môn khoa học, công nghệ 4.0 một cách năng động. Nếu quốc gia không “giải cứu” ngành, thì với hai điểm nghẽn trên, nước ta gần như khó bắt kịp được kỷ nguyên của Cách mạng công nghiệp 4.0, hệ quả sẽ kéo chậm cả nền kinh tế số - xanh - tuần hoàn. Khi kinh tế số diễn ra chậm thì xã hội số và chính phủ số cũng khó chuyển đổi nhanh.
+
+Thứ ba, kinh tế số bị quốc tế chi phối phần lớn. Hạ tầng và nền tảng số trọng yếu quốc gia hiện đều bị quốc tế chiếm thị phần chi phối hoặc trong nước chỉ mới bắt đầu làm, như: nền tảng đám mây (cloud) bị quốc tế chi phối hơn 80% thị phần (Google, Amazon, Microsoft); quảng cáo hơn 80% (Google, Youtube, Facebook), thiết bị thông minh bị chi phối gần tuyệt đối (Apple, Samsung, Xiaomi, IBM, Oracle, HP).
+
+Internet vạn vật (IoT) được áp dụng ở Việt Nam từ năm 2016 nhưng giờ gần như phải bắt đầu làm lại; tiến độ 5G chậm; logistics bị chi phối gần 80%… Gần đây, SpaceX đề xuất đầu tư 500 triệu USD vào Việt Nam, thêm “đe dọa” lớn trực tiếp đến ngành viễn thông?
+
+Ngoài ra, kết quả phóng vệ tinh siêu nhỏ NanoDragon thất bại cho thấy hiệu quả nghiên cứu và tự chủ công nghệ vệ tinh của chúng ta vẫn khá hạn chế sau hơn 16 năm đầu tư. Điểm cần lưu ý hơn là hiện vẫn chưa thấy dấu hiệu tích hợp hay ứng dụng công nghệ không gian vệ tinh của nước ta vào việc thúc đẩy phát triển kinh tế số quốc gia. Trong kỷ nguyên 4.0, hạ tầng số vệ tinh có vai trò lớn thúc đẩy các mô hình kế số mới, ví dụ mô hình cho thuê xe tại Trung Quốc chỉ có thể quản lý tốt được nếu có dữ liệu định vị vệ tinh xe.
+
+Thứ tư, năng lực tuyến thực thi chưa khớp tầm nhìn chiến lược 4.0 quốc gia. Các phát kiến quốc gia 4.0 nổi bật như kết nối vùng, hoàn thiện hạ tầng truyền thống, hút ngoại lực và kinh tế số - xanh - tuần hoàn có thể gặp rào cản, khó chuyển biến nhanh do điểm nghẽn nguồn lực tuyến thực thi chưa tương xứng.
+
+Một số ví dụ về năng lực thực thi còn hạn chế như: một, gói hỗ trợ lãi suất 2% thuộc chương trình phục hồi chỉ giải ngân được 2,3%, nguyên nhân có phần do quy định "dự án có khả năng phục hồi" mới được vay vốn, khiến cả bên cho vay và người đi vay đều ngại, không biết nên hiểu thế nào cho đúng.
+
+Hai, tiến độ dự án sân bay Long Thành “rất chậm”.
+
+Ba, Chỉ thị 52/CT-BTTTT của Bộ Thông tin và Truyền thông yêu cầu chia sẻ trạm viễn thông dùng chung nhưng chỉ có khoảng hơn 2.000 trạm được chia sẻ dùng chung trên tổng số hơn 260.000 trạm.
+
+Có hai nguyên nhân chính khiến hiệu quả ngành viễn thông giảm và việc thực hiện kế hoạch chuyển đổi số quốc gia 4.0 chậm.
+
+Thứ nhất, mô hình tổ chức phân tán nguồn lực ngành nhưng tập trung vốn. Hiện, ngành viễn thông do Bộ Thông tin và Truyền thông quản lý chuyên môn, nhưng lại do Ủy ban Quản lý vốn nhà nước tại doanh nghiệp trực tiếp quản lý vốn và nhân lực. Như vậy, khi chủ trương chiến lược 4.0 đổi mới ngành cần vốn và nhân lực phù hợp để triển khai nhanh thì phải chờ sự đồng thuận từ bên quản lý vốn và nhân lực. Trường hợp mỗi bên có nhận thức, tầm nhìn khác nhau thì cần nhiều thời gian hơn để đạt được sự đồng thuận. Đây có thể là nguyên nhân chính khiến ngành chậm chuyển đổi gần 5 năm qua.
+
+Ví dụ, năm 2019, Bộ Thông tin và Truyền thông ban hành Chỉ thị 52/CT-BTTTT về chia sẻ hạ tầng trạm viễn thông dùng chung để giảm lãng phí và hợp lực triển khai mạng 5G, nhưng hiệu quả khá thấp khi chỉ có khoảng hơn 2.000 trạm được chia sẻ dùng chung trên tổng số hơn 260.000 trạm.
+
+Nguyên nhân triển khai chậm liệu có phải là do Bộ Thông tin và Truyền thông thiếu công cụ, cơ chế phù hợp để quản lý ngành? Nếu Bộ Thông tin và Truyền thông có đủ công cụ quản lý ngành mạnh hơn, thì có lẽ chủ trương chia sẻ hạ tầng trạm viễn thông dùng chung của Bộ sẽ hiệu quả cao hơn nhiều lần, và điều này sẽ giúp đẩy nhanh tiến độ 5G hơn.
+
+Thứ hai, cấu trúc ngành thay đổi toàn diện khi bước vào kỷ nguyên 4.0, do sự hội tụ giữa công nghệ 4.0 và viễn thông. Giờ đây điện thoại không chỉ dùng để nhắn tin, nghe gọi đơn thuần mà còn dùng để quay, ghi hình, mua bán, sáng tạo nội dung, xử lý công việc… miễn phí. Nghĩa là cấu trúc ngành viễn thông (sản phẩm mới, nhà cung cấp mới, người chơi mới, công nghệ mới) đã thay đổi toàn chuỗi và nhanh hơn sự đổi mới của ngành...
+
+(*) Trưởng Ban nghiên cứu 4.0 Litbi Research.
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 46 - 2023 phát hành ngày 13 - 11 - 2023. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/chi-tiet-toa-soan/tap-chi-kinh-te-viet-nam

@@ -1,0 +1,37 @@
+Số liệu từ Bộ Công Thương cho thấy, tính đến thời điểm hiện tại, công suất đặt của điện mặt trời mái nhà là khoảng 7660 MWAC, chiếm hơn 9% tổng công suất đặt.
+
+Sản lượng điện mặt trời mái nhà chiếm gần xấp xỉ 4% sản lượng điện hệ thống điện quốc gia. Theo đó, loại hình này hiện đã chiếm tỷ trọng đáng kể trong Hệ thống điện Quốc gia.
+
+Xét về công suất lắp đặt, nguồn điện mặt trời mái nhà có tỉ trọng cao hơn nhiều loại hình nguồn điện năng lượng tái tạo khác như điện gió, điện sinh khối.
+
+Thậm chí công suất lắp đặt của điện mặt trời mái nhà còn vượt qua công suất thủy điện nhỏ và tua-bin khí là những loại nguồn điện đã từng chiếm tỷ trọng lớn trong cơ cấu nguồn điện của Việt Nam trước đây.
+
+Trong những thời điểm tiềm năng bức xạ tăng cao, công suất điện mặt trời mái nhà có nguy cơ vượt quá khả năng hấp thụ của lưới điện khu vực.
+
+Bộ Công Thương cho rằng ưu điểm của việc phát triển điện mặt trời mái nhà là đáp ứng nhu cầu phát triển điện sạch, sử dụng được nguồn năng lượng tái tạo (mặt trời) mà Việt Nam có nhiều tiềm năng.
+
+Bên cạnh đó, điện mặt trời mái nhà chỉ đầu tư một lần và sẽ giảm được chi phí mua điện hàng tháng từ công ty điện lực, đồng thời đóng góp vào mục tiêu phát triển xanh, góp phần bảo vệ môi trường.
+
+Tuy nhiên, điện mặt trời mái nhà có những đặc điểm riêng biệt. Đó là nguồn điện bất định do  phụ thuộc vào bức xạ mặt trời, vì vậy chỉ có tác dụng vào những giờ có ánh nắng mặt trời. Còn vào buổi đêm, hay vào những giờ có mây, mưa ban ngày, nguồn điện từ năng lượng mặt trời suy giảm về mức thấp hoặc về 0.
+
+Do đó, để ổn định nguồn cung cấp điện, sẽ phải đầu tư các nguồn lưu trữ phù hợp. Ở quy mô nhỏ là các bộ pin lưu trữ hiện nay giá thành đang giảm nhưng vẫn còn khá cao. Ở quy mô lớn là các nguồn thủy điện tích năng hoặc phải huy động các nguồn điện truyền thống (thủy điện, nhiệt điện than, tuabin khí) điều chỉnh tăng giảm theo độ khả dụng của nguồn điện mặt trời.
+
+Chưa kể đối với các hộ gia đình, công xưởng đã đầu tư điện mặt trời mái nhà, vào những ngày âm u, mưa gió, công suất điện giảm và không có phương pháp dự trữ điện thì phải mua điện từ lưới điện.
+
+Ngược lại, vào những thời điểm bức xạ mặt trời cao, các nguồn điện mặt trời mái nhà sẽ phát được công suất cao, nhưng nhu cầu sử dụng của toàn hệ thống thấp, sẽ dẫn tới dư thừa, phải cắt giảm công suất phát điện.
+
+Đơn vị điều độ hệ thống điện lúc này có hai lựa chọn: hoặc cắt giảm công suất các nhà máy điện truyền thống, hoặc cắt giảm công suất các nguồn phát năng lượng tái tạo.
+
+"Nếu lựa chọn phương án đầu tiên là rất nguy hiểm vì khi các nguồn điện truyền thống có thể điều khiển được bị cắt giảm, thì hệ thống không còn gì để đáp ứng nhu cầu khi có biến động từ nguồn điện mặt trời mái nhà. Do đó, lựa chọn phổ biến và tất yếu là phải cắt giảm nguồn năng lượng tái tạo", Bộ Công Thương phân tích.
+
+Ngoài ra, nguồn điện mặt trời mái nhà có tính phân tán ở quy mô nhỏ và rất nhỏ. Đây cũng là nhược điểm của điện mặt trời mái nhà bởi khả năng thu thập dữ liệu, điều khiển phục vụ công tác vận hành hệ thống điện rất khó khăn.
+
+Theo Bộ Công Thương, hệ thống điện quốc gia là hệ thống được điều độ, chỉ huy tập trung từ những nguồn điện lớn như thủy điện Sơn La 2400MW cho đến nguồn điện mặt trời mái nhà chỉ vài chục kWp thì đều được vận hành trong một hệ thống thống nhất. Mỗi một hành động, dù chỉ là bật tắt bóng đèn, cho đến khởi động thiết bị công nghiệp lớn... đều tác động đến cân bằng cung – cầu công suất điện. Để có thể cân bằng công suất hệ thống điện quốc gia, đơn vị điều độ phải có hệ thống thu thập dữ liệu công suất từ tất cả các nguồn điện.
+
+Đối với điện mặt trời mái nhà, điều này chỉ có thể thực hiện được với các nguồn điện mặt trời mái nhà quy mô đủ lớn, như các nguồn điện mặt trời mái nhà tại các khu công nghiệp, công xưởng lớn. Còn đối với nguồn điện mặt trời mái nhà quy mô nhỏ cấp hộ gia đình thì không thể thực hiện được.
+
+Vì điện mặt trời mái nhà có những đặc điểm riêng biệt nêu trên, nên Bộ Công Thương cho rằng cần được lưu ý trong quá trình phát triển, đặc biệt là trong quá trình xây dựng các chính sách, chiến lược về năng lượng nói chung.
+
+"Cần có sự thận trọng trong phát triển điện mặt trời mái nhà để phát huy ưu điểm và giảm thiểu nhược điểm. Các nguồn điện mặt trời mái nhà chỉ nên phát triển ở mức sẵn sàng tiêu thụ tại phụ tải. Nếu ồ ạt phát triển ở quy mô lớn sẽ ảnh hưởng lớn đến cân bằng cung – cầu của hệ thống điện, gây ra những phí tổn không cần thiết", Bộ Công Thương nhấn mạnh.
+
+Trong điều kiện hiện nay, đối với những nguồn điện mặt trời mái nhà có nối lưới, chỉ nên khuyến khích điện mặt trời mái nhà tự sản tự tiêu, không nên khuyến khích (thậm chí nên hạn chế) việc điện mặt trời mái nhà phát vào hệ thống do gây phát sinh chi phí cho vận hành hệ thống điện.

@@ -1,0 +1,31 @@
+Không chỉ có tài liệu văn bản như báo cáo kinh doanh mà các dữ liệu từ hình ảnh và các bản ghi âm cũng có nhiều giá trị với doanh nghiệp, miễn là các công ty có thể tổ chức và sắp xếp hiệu quả những dữ liệu này.
+
+Cùng với sự phát triển của công nghệ học sâu, dữ liệu chính là sức mạnh giúp doanh nghiệp đào tạo và nâng cao AI nhằm hỗ trợ cho nhân viên và khách hàng.
+
+Tài liệu nguồn bao gồm báo cáo tài chính lịch sử, hình ảnh sản phẩm, tài liệu pháp lý, bài đăng trên diễn đàn web của công ty,... thậm chí cả ghi âm cuộc gọi với khách hàng nếu được sắp xếp một cách có trật tự sẽ cho phép các công ty tạo ra các mô hình hữu ích với chỉ riêng doanh nghiệp mình.
+
+Edo Liberty, Giám đốc điều hành của công ty phần mềm Pinecone, cho biết: “Lượng kiến ​​thức - thông tin và nội dung mà các nguồn đó chứa đựng và các ứng dụng có thể xây dựng dựa trên chúng, thực sự đáng kinh ngạc”.
+
+Cơ sở dữ liệu vector hiện nay trở thành cách thức lưu trữ được sử dụng phổ biến ở nhiều doanh nghiệp. Cơ sở dữ liệu vector cho phép thông tin tồn tại dưới nhiều hình thức đa dạng, từ tài liệu văn bản phức tạp đến dữ liệu đa phương tiện. Ứng dụng trí tuệ nhân tạo và máy học, các dữ liệu đều sẽ trở thành vector, giúp việc tra cứu trở nên hiệu quả từ đó giúp tối ưu hóa quá trình tìm kiếm và truy xuất thông tin.
+
+Eilon Reshef, Giám đốc sản phẩm của nhà cung cấp thông tin Gong, cho biết: “AI chỉ hoạt động tốt khi nó có dữ liệu. Nếu không có bất kỳ dữ liệu nào, nó sẽ không cho ra bất cứ điều gì”.
+
+Dữ liệu được lưu trữ có cấu trúc sẽ giúp doanh nghiệp dễ dàng tìm kiếm, so sánh nhóm các tệp dữ liệu tương tự, đồng thời việc dữ liệu được phân loại sắp xếp sẽ giúp xây dựng các mô hình ngôn ngữ đáp ứng chính xác yêu cầu, thậm chí tăng cường truy xuất – AI tạo ra trả lời ngoài những gì có trong dữ liệu đào tạo.
+
+Việc đảm bảo hệ thống AI tuân thủ luật pháp và các quy tắc nội bộ xung quanh việc sử dụng dữ liệu là rất quan trọng.
+
+Tại Walmart, nền tảng máy học có tên Element đã giúp chuỗi bán lẻ này xây dựng các giải pháp AI đáng tin cậy hoạt động trên nhiều nhà cung cấp đám mây.
+
+Phần mềm Element giúp đảm bảo dữ liệu tuân thủ các quy tắc và xác định đầu ra dữ liệu có chính xác và không phù hợp hay không. Công nghệ này có khả năng giám sát và xử lý lượng dữ liệu khổng lồ từ các giao dịch, khách hàng và nhân viên của Walmart.
+
+Anil Madan, Phó chủ tịch cấp cao phụ trách nền tảng công nghệ toàn cầu của nhà bán lẻ này, cho biết: “Khi có dữ liệu mới, mục tiêu của chúng tôi là phát hiện những sai lệch về thông tin. Chúng tôi cũng liên tục phát triển mô hình để chúng không đưa ra những thành kiến ​​không cần thiết. Chúng tôi luôn đảm bảo rằng dữ liệu có liên tục để mọi hoạt động trở nên tốt hơn”.
+
+Startup Altana sử dụng AI để xử lý tất cả các loại dữ liệu về sản xuất và vận chuyển hàng hóa, thuế quan, lệnh trừng phạt và các yếu tố khác có thể ảnh hưởng đến rủi ro và lợi ích cho doanh nghiệp trong suốt toàn bộ chuỗi giá trị.
+
+Peter Swartz, Giám đốc khoa học của Altana, cho biết một số dữ liệu của Altana đến từ các tài liệu như tờ khai hải quan, hồ sơ đăng ký doanh nghiệp và các hồ sơ khác có thể bằng nhiều ngôn ngữ khác nhau. Ông nói, AI giúp phân tích và dọn dẹp các tài liệu đó, cũng như hiểu biểu đồ mạng lưới các mối quan hệ và đưa ra đề xuất cho khách hàng khi họ tìm hiểu các rủi ro và cơ hội.
+
+Đối với các doanh nghiệp nói chung, dữ liệu thu thập được trong nhiều năm từ nhiều khách hàng có thể giúp đưa ra các đề xuất có giá trị nhằm tăng hiệu quả tiếp thị và mức độ hiệu quả sẽ tăng dần dựa trên dữ liệu tích lũy của các khách hàng và cách họ sử dụng những dữ liệu đó.
+
+Chẳng hạn dựa trên dữ liệu tương tác của khách hàng với hàng trăm triệu chiến dịch email và tài liệu tiếp thị của từng khách hàng doanh nghiệp, Mailchimp của công ty công nghệ tài chính Intuit cũng đồng thời thu thập thêm những đặc điểm dữ liệu cụ thể. Nhờ đó, các công cụ AI này có thể đưa ra các đề xuất tiếp thị cho các doanh nghiệp, đồng thời dự báo tác động của mỗi chiến dịch này mang lại cho doanh nghiệp.
+
+Các giải pháp của Intuit hiện được sử dụng phổ biến tại Mỹ. Bởi giải pháp của họ có thể lọc tới 60.000.000 GB dữ liệu trở nên sạch sẽ, chính xác và có ích với quyền riêng tư luôn được đảm bảo.

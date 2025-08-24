@@ -1,0 +1,23 @@
+Cuối tuần trước, một người dùng mạng đã đăng tải miễn phí một tệp dữ liệu thông tin của hàng trăm triệu người dùng Facebook lên một diễn đàn về công nghệ ít nổi tiếng.
+
+Tập dữ liệu này chứa thông tin cá nhân của hơn 533 triệu người dùng Facebook tại 106 quốc gia, trong đó bao gồm 32 triệu người dùng tại Mỹ, 11 triệu tại Anh và 6 triệu tại Ấn Độ. Các thông tin bao gồm số điện thoại, ID tài khoản Facebook, tên đầy đủ, ngày sinh, tiểu sử và một số trường hợp có cả địa chỉ email.
+
+Theo nhiều nguồn tin, số điện thoại của Mark Zuckerberg, CEO của Facebook nằm trong số dữ liệu bị rò rỉ này. Còn theo tờ The Sun, tên, địa điểm, tình trạng hôn nhân, ngày sinh và ID Facebook của Zuckerberg cũng nằm trong số này. Ngoài Zuckerberg, hai nhà đồng sáng lập Facebook khác là Chris Hughes và Dustin Moskovitz cũng bị lộ thông tin cá nhân.
+
+Tờ Insider đã tiến hành kiểm tra một số thông tin trong dữ liệu bị rõ rỉ và xác nhận nhiều thông tin trùng khớp với các tài khoản người dùng Facebook.
+
+Trả lời câu hỏi của Insider, người phát ngôn Facebook nói rằng đây là những dữ liệu bị rò rỉ do một lỗ hổng bảo mật và đã được khắc phục vào năm 2019.
+
+Tuy nhiên, theo Alon Gal, giám đốc công nghệ của công ty tình báo tội phạm mạng Hudson Rock, dù là bị rò rỉ từ 2 năm trước, những dữ liệu này vẫn cung cấp những thông tin giá trị cho tội phạm mạng.
+
+"Lượng cơ sở dữ liệu lớn như vậy chứa thông tin cá nhân như số điện thoại của người dùng chắc chắn sẽ là cơ hội cho những kẻ xấu lợi dụng để thực hiện các vụ tấn công mạng", ông Gal nói với Insider.
+
+Ông Gal cũng là người đầu tiên phát hiện ra có dữ liệu rò rỉ hồi tháng 1 năm nay khi người dùng trên diễn đàn nói trên rao bán một phần mềm tự động có thể cung cấp số điện thoại của hàng trăm người dùng Faebook. Giờ đây, toàn bộ tệp cơ sở dữ liệu đó được đăng tải lên diễn đàn hoàn toàn miễn phí. Bất kỳ ai cũng có kỹ năng xử lý dữ liệu thô cũng có thể tiếp cận chúng.
+
+Đây không phải lần đầu tiên một lượng lớn thông tin người dùng Facecbook bị rò rỉ trên mạng. Facecbook khẳng định lỗ hổng dẫn đến những thông tin này bị rò rỉ đã được khắc phục vào tháng 8/2019.
+
+Điều đáng nói là năm 2016, Facecbook cam kết sẽ ngăn chặn việc thu thập hàng loạt dữ liệu của người dùng sau vụ công ty Cambridge Analytica thu thập dữ liệu của 87 triệu người dùng Facebook cho mục đích quảng cáo chính trị trong cuộc bầu cử tổng thống Mỹ cùng năm. Năm đó, Facebook đã bị Ủy ban Thương mại Liên bang Mỹ phạt 5 tỷ USD để dàn xếp các cáo buộc liên quan tới việc sai phạm trong xử lý dữ liệu của người dùng.
+
+Theo ông Gal, xét trên quan điểm về vấn đề bảo mật, Facebook không thể làm gì nhiều để giúp những người dùng bị ảnh hưởng bởi các vụ rò rỉ dữ liệu này. Tuy nhiên, ông cho rằng mạng xã hội lớn nhất thế giới hoàn toàn có thể cảnh báo để người dùng cảnh giác hơn.
+
+"Người dùng sử dụng dịch vụ của một công ty có uy tín như Facebook tin tưởng khi cung cấp dữ liệu cá nhân của họ và tin rằng Facebook sử dụng dữ liệu này với sự tôn trọng tối đa", ông Gal nhận xét. "Việc để rò rỉ dữ liệu cá nhân của người dùng khiến niềm tin của người dùng bị tổn thương nghiêm trọng".

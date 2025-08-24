@@ -1,0 +1,25 @@
+Ngày 21/2, một nhà cung cấp dịch vụ Internet (ISP) tại Việt Nam cho biết tuyến cáp quang biển SMW3 gặp sự cố lỗi cáp ở đoạn S2.7 đi Singapore.
+
+SMW3 là tuyến cáp quang biển dài nhất thế giới (39.000km), kết nối các vùng Đông Nam Á, Trung Đông và Tây Âu. Tại Việt Nam, tuyến cáp này cập bờ tại Đà Nẵng. Đây là tuyến cáp hoạt động lâu đời nhất ở Việt Nam, dự kiến hết hạn sử dụng vào 2024.
+
+Với việc SMW3 gặp sự cố, việc truy cập Internet đi quốc tế của Việt Nam thêm khó khăn. Đại diện nhà mạng VNPT chia sẻ, sự cố này không tác động đến chất lượng Internet do đây là tuyến cáp cũ, dự kiến sắp dừng hoạt động. Nhà mạng cũng không sử dụng dung lượng của tuyến này cho các dịch vụ Internet băng rộng cố định.
+
+Còn nhà mạng Viettel cho hay, vấn đề xảy ra vào giai đoạn thấp điểm nên người dùng không ảnh hưởng nhiều. Nhà mạng cũng ngay lập tức xử lý vấn đề này.
+
+Như vậy, chỉ trong vài tháng trước và sau Tết Nguyên đán Quý Mão (2023), đến nay cả 5 tuyến cáp quang biển mà Việt Nam đang khai thác kết nối Internet đi quốc tế đều bị đang trong tình trạng bị sự cố một phần hoặc toàn phần. Hai tuyến AAG và APG đã mất toàn bộ dung lượng, hai tuyến IA và AAE-1 chỉ còn một phần hoạt động.
+
+Việc liền lúc cả 5 tuyến cáp quang biển gặp sự cố đứt là chưa từng có và bất khả kháng, ảnh hưởng tới chất lượng kết nối internet Việt Nam đi quốc tế.
+
+Trước thực trạng 4/5 tuyến cáp quang biển Việt Nam gặp sự cố, Bộ Thông tin và Truyền thông đã yêu cầu các doanh nghiệp viễn thông phải mở thêm hướng kết nối trên đất liền và áp dụng biện pháp kỹ thuật nhằm đảm bảo kết nối đi quốc tế của Việt Nam, không chỉ đảm bảo chất lượng dịch vụ cung cấp đến người dùng mà còn giúp cho các hoạt động kinh tế Inernet được kết nối thông suốt.
+
+Cùng với đó xây dựng quy hoạch tuyến cáp quang biển Việt Nam, thúc đẩy nhanh thêm các tuyến cáp quang biển kết nối đi quốc tế. Theo quy hoạch đến năm 2025, Việt Nam phấn đấu có thêm 2-4 tuyến cáp quang biển mới, đến 2030 phấn đấu thêm 4-6 tuyến cáp quang. Dự kiến đến năm 2025, Việt Nam sẽ có tối thiểu 10 tuyến cáp quang biển đi quốc tế.
+
+Đại diện VNPT cho biết, để khắc phục sự cố cáp quang biển liên tục đứt, nhà mạng đã bổ sung kênh cáp đất liền và triển khai nhiều giải pháp san tải lưu lượng giữa các hướng kết nối và các dịch vụ, phối hợp với các đối tác cung cấp dịch vụ/ứng dụng quốc tế để tối ưu chất lượng streaming, ưu tiên lưu lượng theo khung giờ và dịch vụ.
+
+VNPT cũng bổ sung thêm 30% dung lượng băng thông quốc tế từ các tuyến cáp đất liền theo hướng qua Campuchia/Thái Lan đến Singapore và qua Trung Quốc đến HongKong. Do vậy chất lượng truy cập Internet quốc tế của người dùng cơ bản được đảm bảo kể cả khi các tuyến cáp biển chưa được sửa chữa xong.
+
+Để dự phòng trong trường hợp các tuyến cáp biển hiện có gặp sự cố, đồng thời đáp ứng nhu cầu tăng trưởng băng thông quốc tế của người dùng trong dài hạn, VNPT đã và đang đầu tư thêm 4 tuyến cáp biển mới, trong đó tuyến SJC 2 dự kiến sẽ hoàn thành và đưa vào khai thác cuối năm nay, bổ sung thêm 18T lưu lượng quốc tế cho người dùng tại Việt Nam.
+
+Còn phía nhà mạng Viettel cho biết, để đảm bảo tốc độ tăng trưởng băng thông hàng năm và đảm bảo dự phòng số lượng tuyến cáp quang biển thường xuyên đứt, ngoài các tuyến cáp biển đang có, Viettel đã triển khai thêm 4 tuyến cáp biển từ nay đến 2030 trong đó tuyến ADC đã hoàn thành triển khai cập bờ và dự kiến đưa vào hoạt động năm 2023. Khi vận hành khai thác, tuyến cáp này sẽ góp phần tăng thêm 18Tbps, giúp tăng gấp 3 dung lượng so với hiện tại (dung lượng kết nối quốc tế của Viettel hiện gần 9Tbps).
+
+Cùng với cáp quang ADC, theo kế hoạch hệ thống cáp quang biển SJC2 cũng sẽ được đưa vào khai thác sử dụng trong năm 2023. Dự kiến khi các tuyến này hoạt động cố định sẽ giải quyết căn bản khả năng dự phòng cho các nhà mạng.

@@ -1,0 +1,31 @@
+Meta – công ty mẹ của Facebook vừa công bố kế hoạch mua điện hạt nhân, đánh dấu bước đột phá của gã khổng lồ công nghệ trong lĩnh vực điện hạt nhân.
+
+Cụ thể, Meta sẽ mua khoảng 1,1 GW điện từ nhà máy năng lượng sạch Clinton của Constellation tại bang Illinois, Mỹ vào năm 2027 và kéo dài trong 20 năm.
+
+Mặc dù điều khoản chi tiết của thỏa thuận không được tiết lộ, nhưng hai bên cho biết một thỏa thuận dài hạn sẽ hỗ trợ nhà máy hoạt động liên tục và được tái cấp phép. Bởi nếu không có cam kết từ Meta, nhà máy này có nguy cơ đóng cửa khi chương trình cấp tín dụng hết hạn vào 2027.
+
+Nhà máy này sẽ cấp điện thông qua hệ thống lưới, chứ không cấp trực tiếp cho trung tâm dữ liệu của Meta. Sau thông tin này, cổ phiếu của Constellation đã tăng hơn 15%.
+
+Tháng 9 năm ngoái, Constellation cho biết họ khởi động lại Three Mile Island, nơi xảy ra sự cố hạt nhân tồi tệ nhất trong lịch sử Mỹ và bán điện cho Microsoft theo thỏa thuận kéo dài 20 năm.
+
+Nhà máy Clinton gồm một lò phản ứng hạt nhân đơn, công suất 1.121 MW, đủ cung ứng cho khoảng 800.000 hộ gia đình tại Mỹ. Lượng điện ký mua trong thỏa thuận giữa Meta và Constellation là toàn bộ sản lượng của lò phản ứng này. Cũng theo thỏa thuận, nhà máy sẽ nâng sản lượng thêm 30 MW.
+
+Ông Urvi Parekh, Giám đốc năng lượng toàn cầu tại Meta, cho biết: “Một trong những điều mà các công ty mong muốn là họ muốn chắc chắn rằng các nhà máy điện đang hoạt động hiện nay sẽ tiếp tục hoạt động”.
+
+“Chúng tôi chắc chắn đang trao đổi với các khách hàng khác, không chỉ ở Illinois mà còn trên khắp cả nước, để tham gia và thực hiện những gì Meta đã làm, về cơ bản là cung cấp cho chúng tôi một sự hỗ trợ để chúng tôi có thể thực hiện các khoản đầu tư cần thiết nhằm cấp phép lại các tài sản này và duy trì hoạt động của chúng”, ông Joe Dominguez, Giám đốc điều hành của Constellation, thông tin.
+
+Điện hạt nhân là nguồn điện nền, xanh và bền vững. Do đó, phát triển nguồn điện này giúp các nước như Mỹ đa dạng nguồn cung trong bối cảnh nhu cầu tiêu thụ năng lượng tại các trung tâm dữ liệu rất lớn.
+
+Thỏa thuận này nối tiếp làn sóng hợp tác giữa các gã khổng lồ công nghệ với ngành công nghiệp điện hạt nhân nhằm đáp ứng "cơn khát" năng lượng ngày càng tăng của các trung tâm dữ liệu AI.
+
+Google gần đây cũng cam kết tài trợ để phát triển 3 địa điểm hạt nhân mới, sau khi hợp tác với nhà phát triển lò phản ứng modul nhỏ (SMR) Kairos Power vào năm ngoái. Amazon đã đầu tư hơn 500 triệu USD để phát triển SMR vào tháng 10, đồng thời mua một khuôn viên trung tâm dữ liệu được cấp điện bởi nhà máy hạt nhân Susquehanna vào tháng 3 năm ngoái.
+
+Ba gã khổng lồ công nghệ Amazon, Google và Meta đã ký một cam kết do Hiệp hội Hạt nhân thế giới dẫn đầu, kêu gọi phát triển năng lượng hạt nhân trên toàn thế giới tăng gấp 3 lần vào năm 2050.
+
+Cuối năm ngoái, Meta bày tỏ muốn tìm kiếm các nhà phát triển năng lượng hạt nhân để hợp tác. Thời điểm đó, công ty muốn bổ sung từ 1 - 4 GW điện hạt nhân, ưu tiên nhà máy đang hoạt động, với công nghệ tiên tiến. Yêu cầu khi đó khác biệt hoàn toàn so với công nghệ tại nhà máy Clinton sắp đóng cửa của Constellation.
+
+Tổng thống Donald Trump gần đây đã ký 4 sắc lệnh hành pháp nhằm đẩy nhanh quá trình triển khai năng lượng hạt nhân, đặt mục tiêu tăng gấp 4 lần công suất loại năng lượng này vào 2050. Các sắc lệnh hành pháp này kêu gọi một cuộc đại tu Ủy ban Quản lý Hạt nhân, cũng như xây dựng chuỗi cung ứng nhiên liệu hạt nhân trong nước.
+
+Nhà Trắng cũng kêu gọi phê duyệt một quy trình nhanh hơn cho các lò phản ứng, gồm cả lò phản ứng modul nhỏ (SMR). Trước đây, dự án điện hạt nhân thường gặp khó khăn bởi chi phí ban đầu cao và thời gian xây dựng kéo dài. Ngành công nghiệp này hy vọng rằng SMR có thể là giải pháp tiết kiệm chi phí hơn để mở rộng quy mô. Hiện không có lò SMR nào hoạt động tại Mỹ.
+
+Tuy không đề cập chi tiết, Constellation nói đang cân nhắc xin giấy phép mới từ Ủy ban Quản lý hạt nhân để xây dựng một lò SMR tại địa điểm nhà máy Clinton.

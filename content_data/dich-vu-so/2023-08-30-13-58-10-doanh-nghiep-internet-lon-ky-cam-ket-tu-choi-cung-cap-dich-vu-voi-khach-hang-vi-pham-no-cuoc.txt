@@ -1,0 +1,21 @@
+Chiều 29/8/2023, Cục Viễn thông, Bộ Thông tin và Truyền thông, tổ chức ký kết thỏa thuận về việc từ chối dịch vụ đối với khách hàng vi phạm nghĩa vụ thanh toán cước dịch vụ truy nhập Internet ADSL/FTTH với sự tham gia của các doanh nghiệp Viettel, VNPT, MobiFone, FPT Telecom, CMC Telecom, SPT (Saigon Postel Corp), HTC-ITC, Indochina Telecom, Netnam và VTC Digicom.
+
+Theo đó, các doanh nghiệp sẽ cùng thống nhất cam kết từ chối cung cấp dịch vụ cho các khách hàng đăng ký mới dịch vụ truy nhập Internet ADSL/FTTH khi đã vi phạm nghĩa vụ thanh toán giá cước với một trong các bên.
+
+Các bên cũng thống nhất chuyển dữ liệu khách hàng vi phạm của doanh nghiệp mình tới Hệ thống lưu trữ và hỗ trợ truy vấn khách hàng vi phạm được đặt tại Trung tâm Hỗ trợ phát triển mạng và dịch vụ- Cục Viễn thông. Hệ thống này là trung gian để lưu trữ và hỗ trợ cho các doanh nghiệp cung cấp dịch vụ truy nhập Internet ADSL/FTTH truy vấn khách hàng vi phạm.
+
+Cụ thể, các bên cùng thống nhất cùng xây dựng hệ thống kỹ thuật và các quy trình; thực hiện cập nhật thông tin về khách hàng vi phạm lên hệ thống với các thông tin theo quy trình nghiệp vụ phối hợp. Thống nhất hệ thống sẽ được các bên kiểm tra, đánh giá, xác nhận mức độ an toàn, bảo mật, quy trình an toàn khai thác trước khi đưa vào vận hành và cùng chi trả các chi phí thuê hạ tầng, thiết lập, quản lý, khai thác hệ thống.
+
+Cục Viễn thông là đơn vị chủ trì tổ chức, chỉ đạo và giám sát việc thực hiện các nội dung thỏa thuận. Trong trường hợp cần thiết sẽ tổ chức đoàn công tác gồm đại diện Cục Viễn thông và các doanh nghiệp viễn thông để kiểm tra việc thực hiện thỏa thuận này.
+
+Trong thời gian thử nghiệm từ khi thỏa thuận được các bên ký kết đến hết ngày 31/12/2023, các doanh nghiệp viễn thông và Trung tâm Hỗ trợ Phát triển mạng và dịch vụ tự đảm bảo các nguồn lực để triển khai thỏa thuận. Khi hệ thống chính thức hoạt động, các doanh nghiệp viễn thông và Trung tâm hỗ trợ Phát triển mạng và dịch vụ sẽ thực hiện đàm phán, thống nhất và giao kết hợp đồng trả chi phí thiết lập, duy trì và quản lý, khai thác hệ thống theo nguyên tắc bù đắp chi phí thực tế hợp lý.
+
+Kết thúc thời gian thử nghiệm, Cục Viễn thông chủ trì cùng các doanh nghiệp viễn thông tiến hành sơ kết, đánh giá, đề xuất và sửa đổi các văn bản quy phạm pháp luật; hoàn thiện thoả thuận; hoàn thiện Hệ thống và các quy trình đảm bảo tính pháp lý và hiệu lực, hiệu quả cho việc triển khai chính thức...
+
+Theo đánh giá, việc các doanh nghiệp ký thỏa thuận cho thấy sự đồng thuận giữa các nhà mạng trong việc đảm bảo việc phát triển lành mạnh của thị trường và duy trì sự văn minh trong quá trình kinh doanh.
+
+Ông Nguyễn Phong Nhã, Phó Cục trưởng Cục Viễn thông cho biết Luật Viễn thông quy định rõ việc các doanh nghiệp được chia sẻ với nhau thông tin về thuê bao nợ cước nhằm thực hiện việc thu hộ hoặc giảm thiểu thuê bao nợ xấu. Tuy nhiên, trong bối cảnh có 40 doanh nghiệp cung cấp dịch vụ ADSL/FTTH tới hộ gia đình, sẽ không thể chia sẻ song phương được mà cần có cam kết đa phương. Đây là lý do dẫn đến thỏa thuận ban đầu giữa các doanh nghiệp.
+
+Thỏa thuận này sẽ cung cấp cơ sở dữ liệu thuê bao nợ cước để các doanh nghiệp có thể truy vấn xem thuê bao nào đang nợ cước, đồng thời không phát triển thuê bao trên tập danh sách nợ cước.
+
+Đối với các doanh nghiệp chưa tham gia kí kết thỏa thuận, Cục Viễn thông khuyễn khích các doanh nghiệp chủ động tham gia và hy vọng sau thời gian thử nghiệm tỷ lệ nợ xấu của các nhà mạng giảm xuống, chất lượng đường FTTH tăng lên, tốc độ cao hơn và có nhiều các dịch vụ giá trị gia tăng trên nền FTTH khi đầu tư ổn định, giảm rác thải.

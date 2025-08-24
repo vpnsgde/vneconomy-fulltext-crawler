@@ -1,0 +1,37 @@
+Chủ tịch UBND TP.HCM Phan Văn Mãi vừa ký Quyết định 328/QĐ-UBND về phê duyệt Chiến lược quản trị dữ liệu của TP.HCM đến năm 2025, định hướng đến năm 2030.
+
+Theo đó, Chiến lược quản trị dữ liệu của TP.HCM (gọi tắt là Chiến lược dữ liệu) được xây dựng nhằm khai phá tiềm năng dữ liệu để phục vụ tốt hơn cho hoạt động của các cơ quan chính quyền thành phố, cung cấp dịch vụ thân thiện và hiệu quả hơn cho người dân, tăng năng suất lao động, đổi mới sáng tạo, hướng đến phát triển kinh tế số một cách toàn diện và bền vững.
+
+Chiến lược dữ liệu của TP.HCM hướng đến cụ thể hóa các nhiệm vụ về triển khai kho dữ liệu dùng chung, triển khai các hệ thống thông tin chuyên ngành và số hóa, sử dụng hiệu quả dữ liệu số hóa đã được xác định tại Chương trình Chuyến đối số Thành phố, Đề án Xây dựng TP.HCM trở thành đô thị thông minh và Kiến trúc chính quyền điện tử Thành phố.
+
+Đồng thời, tạo lập các cơ sở dữ liệu và hệ thống thông tin nền tảng phục vụ mục tiêu chuyển đổi số và xây dựng đô thị thông minh của thành phố; Thúc đẩy trao đổi, chia sẻ, sử dụng và tái sử dụng dữ liệu giữa các cơ quan nhà nước, hướng đến quản trị và điều hành, ra quyết định dựa trên dữ liệu.
+
+Ngoài ra, chuẩn hóa các nhóm dữ liệu đảm bảo kết nối, chia sẻ, ứng dụng Cơ sở dữ liệu quốc gia về dân cư, góp phần đẩy nhanh tiến độ triển khai Quyết định số 06/QĐ-TTg ngày 06/01/2022 của Thủ tướng Chính phủ phê duyệt Đề án phát triển ứng dụng dữ liệu về dân cư, định danh và xác thực điện tử phục vụ chuyển đổi số quốc gia giai đoạn 2022 - 2025, tầm nhìn đến năm 2030.
+
+Bên cạnh đó, Chiến lược cũng cung cấp dữ liệu thống nhất, tin cậy, bảo mật và an toàn cho người dân, doanh nghiệp, và các nhà nghiên cứu để khai thác sử dụng nhằm tạo giá trị gia tăng, góp phần phát triển kinh tế, xã hội cho thành phố; Nâng cao năng lực và kỹ năng của đội ngũ cán bộ công chức thành phố về quản trị dữ liệu; Xác định rõ vai trò và trách nhiệm của từng đơn vị trong việc tạo lập, quản lý và sử dụng dữ liệu số.
+
+Quyết định cũng nêu rõ, việc phát triển dữ liệu số của TP.HCM đến năm 2025 hướng tới phát triển toàn diện các trụ cột của Chuyển đổi số TP.HCM. Đối với dữ liệu số trong phát triển chính quyền số thì dữ liệu số hỗ trợ tốt hoạt động quản lý, điều hành của các cơ quan nhà nước. Việc ban hành chính sách, cung cấp dịch vụ số được thực hiện dựa trên năng lực khai thác và phân tích dữ liệu, hỗ trợ ra quyết định phục vụ tốt hơn cho người dân, doanh nghiệp. Hạ tầng dữ liệu số cơ bản trong cơ quan nhà nước tin cậy và ổn định; hình thành và hoàn thiện Kho dữ liệu dùng chung TP.HCM kết nối đồng bộ và thống nhất.
+
+Đối với dữ liệu số trong phát triển kinh tế số, kinh tế dữ liệu sẽ mở ra một triển vọng mới và có tiềm năng đóng góp đáng kể vào tỉ trọng doanh thu TP.HCM. Việc tập trung đầu tư cho tạo lập, dùng chung và chia sẻ dữ liệu số sẽ thúc đẩy những mô hình kinh doanh mới và các dịch vụ sáng tạo dựa vào dữ liệu, giúp thành phố tiếp tục là đầu tàu phát triển kinh tế và xã hội của cả nước.
+
+Cuối cùng, dữ liệu số trong phát triển xã hội số. Các cơ quan nhà nước cung cấp dữ liệu mở để thúc đẩy phát triển kinh tế số, xã hội số; mọi người dân có thông tin, dữ liệu để có thể giám sát hoạt động của cơ quan nhà nước.
+
+Trong giai đoạn từ nay đến năm 2025, Chiến lược dữ liệu của thành phố sẽ tập trung vào 3 nhóm dữ liệu chính: Nhóm dữ liệu về người dân, Nhóm dữ liệu tài chính - doanh nghiệp, Nhóm dữ liệu về đất đai - đô thị. Việc quản trị, chia sẻ dữ liệu sẽ thực hiện theo mô hình như sau:
+
+Một là,Nhóm dữ liệu về người dân là nhóm dữ liệu quan trọng, có nhu cầu sử dụng cao, cần được ưu tiên triển khai nhằm phục vụ cho công tác quản lý, điều hành, tác nghiệp của các cơ quan nhà nước, nâng cao chất lượng phục vụ người dân. Nguồn dữ liệu hình thành dữ liệu về người dân bao gồm dữ liệu y tế, giáo dục, an sinh xã hội, tư pháp, hộ tịch, bảo hiểm y tế, bảo hiểm xã hội, dữ liệu về tài chính, ngân hàng, dữ liệu về vi phạm hành chính,...
+
+Hai là,Nhóm Dữ liệu về tài chính - doanh nghiệp. TP.HCM là địa phương có đóng góp ngân sách lớn nhất cả nước. Do đó, Nhóm Dừ liệu về tài chính — doanh nghiệp có vai trò quan trọng đối với công tác chi đạo và điều hành của lãnh đạo TP.HCM trong việc phát triền kinh tế - xã hội của Thành phố, góp phần phát triển kinh tế - xã hội cả nước.
+
+Trong phạm vi của Chiến lược quản trị dữ liệu giai đoạn từ nay đến năm 2025, Nhóm Dữ liệu về tài chính — doanh nghiệp tập trung chủ yếu là dữ liệu về thu và chi ngân sách nhà nước, dữ liệu quản lý đầu tư công, dữ liệu doanh nghiệp - hộ kinh doanh cá thể.
+
+Ba là,Nhóm Dữ liệu quản lý đất đai - đô thị. Dữ liệu không gian được tạo ra và gắn với các quy trình quản lý, quy trình nghiệp vụ của nhiều cơ quan nhà nước và đặc biệt quan trọng cho một số hoạt động của thành phố liên quan đến quản lý đất đai, xây dựng, quy hoạch - kiến trúc, giao thông vận tải,... Việc cập nhật dữ liệu không gian cần phải có người có kỹ năng về thông tin không gian, hoặc các công cụ cập nhật là các phần mềm ứng dụng hoặc các hệ thống thông tin chuyên ngành. Do vậy, các cơ sở dữ liệu thuộc nhóm dữ liêu không gian phục vụ quản lý đô thị phần lớn được quản lý trong cơ sở dữ liệu chuyên ngành, hệ thống thông tin chuyên ngành.
+
+Kho dữ liệu dùng chung của thành phố đóng vai trò là trung gian hỗ trợ các chức năng lưu trữ và chia sẻ dữ liệu, lưu trữ danh mục dữ liệu dùng chung, danh mục từ điển dữ liệu, danh mục chuẩn dữ liệu, danh mục dịch vụ chia sẻ dữ liệu của thành phố.
+
+Ngoài ra, việc chia sẻ dữ liệu giữa các đơn vị sẽ dựa trên ba hình thức: chia sẻ thông qua dịch vụ dữ liệu trực tiếp từ các hệ thống thông tin chuyên ngành do các sở ngành, quận huyện quản lý; chia sẻ dữ liệu chủ (master data) được tạo ra từ các cơ sở dữ liệu chuyên ngành; chia sẻ dưới dạng tập tin.
+
+Tùy theo hình thức chia sẻ dữ liệu, từ các dữ liệu gốc được tạo ra từ các hệ thông thông tin chuyên ngành của các đơn vị sẽ được sử dụng để tạo ra dữ liệu chủ (master data) lưu tại Kho dữ liệu dùng chung của thành phố, hoặc tao ra các dịch vụ chia sẻ dữ liệu (APIs), hoặc tạo thành tệp tin để chia sẻ trực tiếp thông qua Nền tảng tích hợp chia sẻ dữ liệu của thành phố.
+
+
+
+MỘT SỐ CHỈ TIÊU CHỦ YẾU ĐẾN NĂM 2025

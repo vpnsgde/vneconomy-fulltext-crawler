@@ -1,0 +1,37 @@
+Theo hướng dẫn mới của Bộ Y tế, SARS-CoV-2 lây truyền chủ yếu qua 3 con đường, bao gồm:
+
+Đường giọt bắn: Từ dịch tiết đường hô hấp khi người bệnh ho, hắt hơi, nói chuyện, thở mạnh, lây lan trong khoảng cách gần (dưới 2 mét).
+
+Đường tiếp xúc: Qua tay chạm bề mặt nhiễm dịch tiết chứa virus, sau đó đưa lên mắt, mũi, miệng.
+
+Đường không khí: Qua hạt khí dung nhỏ lơ lửng trong không khí, đặc biệt trong môi trường kín, thông khí kém hoặc khi thực hiện thủ thuật tạo khí dung.
+
+Hướng dẫn của Bộ Y tế nêu rõ các biện pháp phòng và kiểm soát lây nhiễm, bao gồm: Phát hiện sớm và cách ly kịp thời; phòng ngừa theo nguy cơ lây truyền và sử dụng phương tiện phòng hộ cá nhân; bảo đảm thông khí tại khu vực khám và điều trị người bệnh; tăng cường vệ sinh tay; vệ sinh, khử khuẩn môi trường; phòng ngừa với người bệnh có nguy cơ cao; đào tạo và giám sát tuân thủ kiểm soát nhiễm khuẩn.
+
+Trong đó, về phát hiện sớm và cách ly kịp thời: Sàng lọc triệu chứng hô hấp và yếu tố dịch tễ tại phòng khám truyền nhiễm hoặc khu tiếp đón của khoa cấp cứu. Trường hợp nhẹ, không biến chứng, không có bệnh nền thì hướng dẫn điều trị và cách ly tại nhà hoặc trạm y tế.
+
+Nếu phát hiện người nhiễm hoặc nghi nhiễm Covid-19 tại khoa lâm sàng, thì chuyển người bệnh vào buồng cách ly tạm thời của khoa để điều trị, tránh lây nhiễm cho người khác.
+
+Chỉ định xét nghiệm nhanh hoặc RT-PCR đối với người bệnh có suy hô hấp cấp tiến triển chưa rõ nguyên nhân, hoặc người có triệu chứng nghi nhiễm Covid-19 kèm theo bệnh lý nền thuộc nhóm nguy cơ cao diễn biến nặng.
+
+Về phòng ngừa theo nguy cơ lây truyền và sử dụng phương tiện phòng hộ cá nhân: Áp dụng các biện pháp phòng ngừa và lựa chọn phương tiện phòng hộ cá nhân phù hợp theo mức độ nguy cơ lây truyền, bảo đảm nguyên tắc an toàn – đúng mức nguy cơ – đúng quy trình kỹ thuật.
+
+Cụ thể, phòng ngừa chuẩn: Áp dụng cho người bệnh có nguy cơ lây nhiễm thấp, không thực hiện các thủ thuật tạo khí dung. Nhân viên y tế mang khẩu trang y tế và găng tay khi tiếp xúc với máu, dịch tiết cơ thể hoặc bề mặt có nguy cơ ô nhiễm.
+
+Phòng ngừa tăng cường theo đường lây truyền (giọt bắn, không khí, tiếp xúc): Áp dụng đối với người bệnh có nguy cơ lây nhiễm cao, đặc biệt khi thực hiện các thủ thuật tạo khí dung (như hút đờm, thở máy, nội soi hô hấp…).
+
+Nhân viên y tế sử dụng khẩu trang N95 (hoặc tương đương), kính bảo hộ hoặc mặt nạ chắn giọt bắn, áo choàng, găng tay. Khuyến khích người bệnh và người nhà người bệnh mang khẩu trang trong thời gian có mặt tại cơ sở khám bệnh, chữa bệnh.
+
+Về bảo đảm thông khí tại khu vực khám và điều trị người bệnh, theo hướng dẫn, buồng khám và điều trị người mắc hoặc nghi mắc Covid-19 bảo đảm thông khí tự nhiên hoặc cơ học, tối thiểu 12 lần trao đổi khí/giờ.
+
+Nếu không có hệ thống thông khí cơ học, cần mở cửa sổ, cửa ra vào để tăng cường thông khí tự nhiên. Luồng khí thải từ các buồng này phải được dẫn ra khu vực thông thoáng, ít người qua lại, hạn chế tối đa nguy cơ lây nhiễm. Tăng cường thông khí tại các khu vực nguy cơ cao như khoa cấp cứu, phòng thủ thuật, khu vực điều trị người bệnh hô hấp…
+
+Người bệnh có bệnh nền nặng, suy giảm miễn dịch, đang điều trị ung thư, lọc máu,... cần điều trị tại khu riêng biệt (nếu có); hạn chế tiếp xúc, di chuyển; tuân thủ nghiêm ngặt về vệ sinh tay, hô hấp, sử dụng khẩu trang và vệ sinh cá nhân.
+
+Theo Bộ Y tế, SARS-CoV-2 là virus gây bệnh Covid-19, đã bùng phát và gây ra đại dịch toàn cầu từ cuối năm 2019. Tổ chức Y tế Thế giới (WHO) đã tuyên bố chấm dứt tình trạng khẩn cấp y tế công cộng toàn cầu đối với Covid-19 từ tháng 5/2023.
+
+Tuy nhiên, WHO tiếp tục khuyến cáo các quốc gia duy trì các biện pháp phòng ngừa cơ bản và giám sát dịch tễ liên tục để kịp thời phát hiện các biến thể mới.
+
+Hiện nay, một số biến thể như NB.1.8.1, LP.8.1 đang lưu hành ở một số nước, có khả năng lây lan nhanh, nhưng chưa gây bệnh nặng hơn hoặc ảnh hưởng đến hiệu quả vaccine. WHO xếp các biến thể này vào nhóm “biến thể cần theo dõi”.
+
+Tại Việt Nam, Covid-19 được phân loại là bệnh truyền nhiễm nhóm B. Dịch bệnh đã được kiểm soát, phần lớn ca bệnh nhẹ, không gây bùng phát quy mô lớn.

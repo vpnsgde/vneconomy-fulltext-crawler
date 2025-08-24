@@ -1,0 +1,29 @@
+Theo số liệu mới nhất từ nền tảng đo tốc độ i-Speed (Trung tâm Internet Việt Nam – VNNIC, Bộ Khoa học và Công nghệ), cả bốn nhà mạng lớn gồm Viettel, MobiFone, VinaPhone và Vietnamobile đều duy trì hiệu suất mạng tương đương tháng 4/2025, không ghi nhận sự thay đổi đáng kể nào.
+
+Nhờ đó, tốc độ trung bình của mạng băng rộng di động toàn quốc vẫn giữ nhịp ổn định, với tốc độ tải xuống đạt 76,86 Mbps và tải lên đạt 26,98 Mbps.
+
+Trong số 5 đô thị lớn gồm Hà Nội, Hải Phòng, Đà Nẵng, TP.HCM và Cần Thơ, Đà Nẵng trở thành điểm nóng đáng chú ý trong tháng 5/2025 khi tốc độ mạng di động tại thành phố này bất ngờ sụt giảm mạnh, chỉ còn 125,59 Mbps, tức giảm hơn 50% so với mức 272,97 Mbps ghi nhận trong tháng 4/2025. Điều đáng nói là trước đó, từ tháng 3 đến tháng 4, Đà Nẵng từng chứng kiến mức tăng tốc độ mạng “phi mã” tới 133%.
+
+Cú giảm tốc bất ngờ trong tháng 5/2025 khiến chất lượng mạng di động tại Đà Nẵng quay trở lại mức tương đương với thời điểm trước tháng 3/2025.
+
+Trong khi đó, tại các đô thị và tỉnh, thành phố khác, chất lượng mạng di động không có nhiều biến động. Dù có tăng hay giảm, các chỉ số đều ở mức ổn định so với các tháng trước.
+
+Về thứ hạng nhà mạng, Viettel tiếp tục dẫn đầu thị trường với tốc độ tải xuống trung bình đạt 88,92 Mbps và tải lên 27,36 Mbps; VNPT xếp thứ hai với tốc độ lần lượt là 65,52 Mbps (tải xuống) và 28,32 Mbps (tải lên); MobiFone giữ vị trí thứ ba với 53,07 Mbps và 22,67 Mbps; ở vị trí cuối cùng, Vietnamobile có tốc độ tải xuống đạt 10,3 Mbps và tải lên 6,11 Mbps. Dù đứng cuối bảng, Vietnamobile lại là nhà mạng duy nhất ghi nhận sự cải thiện liên tục về tốc độ trong suốt 4 tháng qua.
+
+Về kết quả đo lường mạng di động 5G, tốc độ trung bình toàn quốc trong tháng 5/2025 giảm nhẹ so với tháng 4/2025, đạt 347,22 Mbps về tốc độ tải xuống và 85,53 Mbps về tốc độ tải lên. Trong đó, Viettel vẫn khẳng định vị thế dẫn đầu khi tốc độ mạng 5G đạt tốc độ tải lên tới 366,29 Mbps và tốc độ tải xuống là 87,11 Mbps chất lượng bỏ xa hai đối thủ còn lại.
+
+Cụ thể, mạng 5G của VNPT đạt 183,71 Mbps và 54,56 Mbps, trong khi MobiFone ghi nhận 154,46 Mbps và 37,72 Mbps cho hai thông số tương ứng.
+
+Theo dữ liệu thống kê tốc độ mạng băng rộng cố định tháng 5/2025, tốc độ mạng băng rộng cố định trên cả nước tiếp tục tăng mạnh, đây là tháng thứ tư liên tiếp chất lượng mạng được cải thiện.
+
+Cụ thể, tốc độ tải xuống trung bình đạt 187,43 Mbps, tiếp tục nhanh hơn khoảng một phần ba lần so với tháng 3/2025. Tốc độ tải lên cũng ghi nhận mức tăng đáng kể, đạt 137,03 Mbps, tăng từ 112,55 Mbps.
+
+Về bảng xếp hạng chất lượng mạng giữa các nhà cung cấp dịch vụ, không có nhiều xáo trộn lớn trong tháng 5/2025. VNPT tiếp tục giữ vững ngôi đầu, với tốc độ tải xuống đạt 211,35 Mbps và tốc độ tải lên 153,36 Mbps – dẫn đầu toàn thị trường về hiệu năng mạng cố định.
+
+Đáng chú ý, Viettel đã có cú "bứt tốc" ấn tượng trong tháng vừa qua, khi tốc độ mạng băng rộng cố định tăng mạnh, vươn lên vị trí thứ hai. Với tốc độ tải xuống đạt 203,62 Mbps và tải lên đạt 155,96 Mbps, Viettel hiện chỉ còn cách VNPT một khoảng cách rất hẹp, cho thấy sự cạnh tranh ngày càng sát sao trong phân khúc này.
+
+CMC Telecom, sau khi để mất vị trí dẫn đầu vào tay VNPT từ tháng 4/2025, tiếp tục tụt một bậc trong bảng xếp hạng tháng 5/2025. Dù chất lượng mạng của CMC vẫn ổn định, song trước sự bứt phá của các đối thủ lớn, nhà mạng này hiện đang đứng thứ ba với tốc độ tải xuống đạt 135,68 Mbps và tải lên 137,06 Mbps.
+
+Xếp sau CMC Telecom là FPT Telecom với tốc độ tải xuống đạt 104,79 Mbps và tốc độ tải lên là 99,64 Mbps. Ở vị trí thứ năm, SCTV ghi nhận tốc độ lần lượt là 76,47 Mbps cho tải xuống và 28,51 Mbps cho tải lên. Xếp thứ sáu, NETNAM có tốc độ tải xuống đạt 56,62 Mbps và tải lên đạt 57.06 Mbps.
+
+Về chất lượng mạng băng rộng cố định tại các tỉnh, thành phố, đáng chú ý, trong khi tốc độ mạng di động tại Đà Nẵng sụt giảm mạnh trong tháng 5/2025, thì băng rộng cố định tại thành phố này lại ghi nhận mức tăng đáng kể. Tương tự, chất lượng mạng cố định tại các đô thị lớn như Hà Nội, Hải Phòng, TP.HCM và Cần Thơ cũng cho thấy những cải thiện rõ rệt so với tháng trước.

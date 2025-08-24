@@ -1,0 +1,51 @@
+Nếu chu kỳ này bị phá vỡ, nó sẽ khiến các nhà đầu tư phải nhìn nhận lại cách đánh giá giá trị cũng như thời điểm xuống tiền với Bitcoin.
+
+Chu kỳ Bitcoin là cách gọi quen thuộc chỉ quy luật biến động giá của Bitcoin theo chu kỳ 4 năm, xoay quanh một sự kiện đặc biệt “halving” nghĩa là giảm một nửa phần thưởng đào Bitcoin.
+
+Lần gần nhất diễn ra vào tháng 4/2024, và trước đó là vào tháng 5/2020. Khi phần thưởng dành cho các "thợ đào" – những người vận hành hệ thống và xác thực giao dịch bị cắt giảm, lượng Bitcoin mới được tạo ra sẽ ít đi, khiến nguồn cung giảm. Điều này góp phần giữ cho tổng số Bitcoin không vượt quá giới hạn 21 triệu đồng.
+
+Theo quan sát trong quá khứ, sau mỗi lần halving, giá Bitcoin thường tăng mạnh trong vài tháng, có khi lập đỉnh cao mới. Nhưng ngay sau đó, đồng tiền này lại bước vào một giai đoạn giảm sâu, có thể mất tới 70–80% giá trị, kéo theo toàn thị trường tiền mã hóa lao dốc.
+
+Đây là thời kỳ được gọi là “mùa đông tiền số”, nơi nhiều đồng coin mất giá nghiêm trọng, thị trường ảm đạm, giao dịch giảm mạnh.
+
+Sau giai đoạn đó, Bitcoin thường đi vào vùng giá ổn định trong một thời gian dài, trước khi bắt đầu một chu kỳ mới. Mô hình này đã lặp lại nhiều lần, trở thành cơ sở để nhiều nhà đầu tư dựa vào đó tính toán thời điểm mua bán.
+
+Trong quá khứ, giá Bitcoin thường chỉ lập đỉnh cao nhất mọi thời đại (ATH) từ 12 đến 18 tháng sau mỗi lần halving (sự kiện giảm một nửa phần thưởng cho thợ đào). Tuy nhiên, chu kỳ mới nhất lại diễn ra theo cách hoàn toàn khác: Bitcoin đã đạt đỉnh hơn 73.000 USD vào tháng 3/2024, tức trước khi halving diễn ra vào tháng 4. Điều chưa từng xảy ra trong các chu kỳ trước.
+
+Theo báo cáo của CNBC,  Quỹ giao dịch trao đổi bitcoin (ETF) là yếu tố đầu tiên phá vỡ nhịp điệu bốn năm của chu kỳ này.
+
+Đây là sản phẩm tài chính giúp nhà đầu tư dễ dàng tiếp cận Bitcoin mà không cần trực tiếp nắm giữ hoặc quản lý ví điện tử. ETF ra đời đã mở đường cho dòng tiền từ các nhà đầu tư tổ chức lớn vốn từng e dè với tiền mã hóa  đổ vào thị trường.
+
+“Lần này, nhu cầu về ETF đã khiến giá tăng sớm, đi trước chu kỳ halving truyền thống. Đây là dấu hiệu rõ ràng đầu tiên cho thấy dòng tiền tổ chức có thể thay đổi hoàn toàn cách Bitcoin vận động theo chu kỳ”, ông Saksham Diwan, nhà phân tích tại CoinDesk Data, cho biết.
+
+Không chỉ ETF, nhiều yếu tố khác cũng đang góp phần làm chệch hướng chu kỳ quen thuộc của Bitcoin:
+
+Thứ nhất,các vụ sụp đổ đình đám như bong bóng ICO năm 2018 hay cú phá sản của sàn FTX năm 2022 đã khiến nhà đầu tư cẩn trọng hơn. Thị trường hiện giờ không còn lao theo các cơn sóng tăng nóng như trước, mà điềm tĩnh và có chọn lọc hơn.
+
+Thứ hai,triển vọng lãi suất tại Mỹ đang nghiêng về hướng giảm, giúp tăng sức hấp dẫn của các tài sản rủi ro như Bitcoin.
+
+Thứ ba,một số vụ kiện trong ngành đã được rút lại, Quốc hội Mỹ thậm chí còn cân nhắc chuyện xây dựng dự trữ chiến lược bằng Bitcoin.
+
+Thư tư,không chỉ nhà đầu tư cá nhân, mà cả các công ty đại chúng cũng đang tích trữ Bitcoin như một phần trong chiến lược tài chính dài hạn.
+
+Ông Ryan Chow, đồng sáng lập Solv Protocol, cho rằng: “Thị trường giờ đây đã trưởng thành hơn nhiều. Khi ngày càng có nhiều người giữ Bitcoin lâu dài, biến động giá cũng giảm dần. Chu kỳ 4 năm truyền thống đang bị thay thế bằng một xu hướng mới  phụ thuộc nhiều hơn vào thanh khoản và các yếu tố kinh tế vĩ mô”.
+
+Theo phân tích của ông Saksham Diwan từ CoinDesk Data, trong các chu kỳ trước, Bitcoin thường tăng giá mạnh nhất trong khoảng từ ngày thứ 500 đến ngày thứ 720 sau sự kiện halving, từng diễn ra trong các giai đoạn năm 2016 và 2020. Nếu mô hình này tiếp tục lặp lại, thì từ quý 3/2025 đến đầu quý 1/2026 có thể là thời điểm Bitcoin bước vào giai đoạn tăng tốc mới.
+
+Tuy vậy, ông Diwan cũng chỉ ra rằng đà tăng giá của Bitcoin trong chu kỳ hiện tại đang yếu hơn rõ rệt so với các giai đoạn tương tự trước đây.
+
+Trong khi đó, ông Matthew Hougan, Giám đốc đầu tư tại Bitwise Asset Management, cho rằng chu kỳ 4 năm truyền thống về cơ bản đã không còn phù hợp.
+
+“Tôi tin rằng chúng ta vẫn sẽ còn thấy biến động, nhưng các yếu tố từng định hình chu kỳ 4 năm giờ đã suy yếu. Đồng thời, thị trường hiện tại đang bị chi phối bởi những động lực mới, diễn ra theo cách riêng của nó”, ông Hougan chia sẻ qua email. Theo ông, để khẳng định chu kỳ cũ thực sự đã kết thúc, Bitcoin cần có một năm 2026 đầy tích cực - điều mà ông hoàn toàn tin tưởng sẽ xảy ra.
+
+Đáng chú ý, Bitcoin đã thiết lập mức đỉnh mới hơn 123.000 USD vào ngày 14/7, một dấu hiệu cho thấy thị trường vẫn đang rất sôi động.
+
+Trước đây, một đặc điểm quen thuộc của Bitcoin là sau mỗi đợt tăng nóng, giá lại lao dốc mạnh, mất khoảng 70–80% giá trị. Tuy nhiên, nhiều chuyên gia hiện cho rằng kịch bản này khó có khả năng lặp lại.
+
+“Chúng tôi tin rằng thời kỳ sụt giảm 70–80% đã kết thúc”, ông Ryan Chow nhận định. Theo ông, đợt điều chỉnh sâu nhất trong chu kỳ hiện tại mới chỉ là khoảng 26%, thấp hơn rất nhiều so với mức giảm 84% sau năm 2017 hay 77% sau đỉnh năm 2021.
+
+Bởi hiện nay thị trường có thêm lực đỡ quan trọng đến từ: các nhà đầu tư dài hạn nắm giữ Bitcoin không bán tháo, và dòng tiền ổn định từ các tổ chức lớn, giúp thị trường không còn dễ hoảng loạn như trước.
+
+Dù vậy, ông Ryan Chow thừa nhận vẫn có thể xảy ra các đợt điều chỉnh 30–50% nếu thị trường bị ảnh hưởng bởi các cú sốc vĩ mô hoặc thay đổi chính sách bất ngờ. Tuy nhiên, ông nhấn mạnh rằng các đợt điều chỉnh này có khả năng ngắn hạn hơn, ít khốc liệt hơn so với quá khứ.
+
+Một chuyên gia khác cũng đồng quan điểm mức giảm 30–50% vẫn có thể xảy ra trong thị trường hiện tại, nhưng ông cho rằng những cú lao dốc 70% như trước đây sẽ không còn nữa.

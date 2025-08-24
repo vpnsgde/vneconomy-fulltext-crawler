@@ -1,0 +1,23 @@
+Trong bối cảnh tiến bộ công nghệ diễn ra liên tục với tốc độ nhanh chưa từng có trong khi hệ thống pháp lý truyền thống khó theo kịp tốc độ này, những ý tưởng sáng tạo nếu không được “cởi trói” bằng cơ chế linh hoạt sẽ không có cơ hội đi vào thực tiễn. Thế nên, việc các thành phố chủ động xây dựng cơ chế thử nghiệm có kiểm soát (sandbox) được xem là bước tiến cần thiết, để vừa tạo hành lang pháp lý an toàn phát triển các giải pháp công nghệ mới, vừa thúc đẩy phát triển kinh tế số, vừa chủ động kiểm soát và hạn chế rủi ro phát sinh.
+
+Ngày 1/1/2025 là cột mốc quan trọng đánh dấu chính sách quy định cơ chế thử nghiệm các công nghệ mới của Hà Nội và Đà Nẵng chính thức có hiệu lực.
+
+Cụ thể, Luật Thủ đô (sửa đổi) được thông qua vào ngày 28/6/2024 với 462/470 đại biểu Quốc hội tán thành, đã mở đường cho Hà Nội triển khai thử nghiệm công nghệ trong những lĩnh vực mới.
+
+Trong khi đó, Đà Nẵng cũng chính thức “vào cuộc” sau khi Nghị quyết số 55/2024/NQ-HĐND được thông qua ngày 13/12/2024, cho phép thành phố thí điểm công nghệ mới từ đầu năm 2025.
+
+Trước hai thành phố này, Thành phố Hồ Chí Minh đã trở thành địa phương tiên phong khi thông qua Nghị quyết số 20/2024/NQ-HĐND, có hiệu lực từ ngày 24/11/2024. Theo đó, các giải pháp công nghệ mới được phép thử nghiệm trong phạm vi khu công nghệ cao và khu công nghệ thông tin tập trung.
+
+Trong khi Việt Nam đang bắt đầu hành trình xây dựng hành lang pháp lý cho công nghệ mới, thì nhiều quốc gia trên thế giới đã và vẫn đang vận dụng sandbox kể từ hơn một thập kỷ trước. Do đó, có thể khẳng định việc Việt Nam gia nhập nhóm các quốc gia áp dụng cơ chế sandbox không chỉ cho thấy sự thức thời, mà còn là tín hiệu tích cực cho thấy Việt Nam đang tiệm cận với những chuẩn mực công nghệ toàn cầu.
+
+Năm 2016, Singapore trở thành một trong những quốc gia đầu tiên ở châu Á triển khai cơ chế sandbox công nghệ. Khi Singapore thử nghiệm ví điện tử blockchain trong khuôn khổ sandbox, ít ai ngờ rằng chỉ vài năm sau, quốc đảo này trở thành “thỏi nam châm” hút fintech toàn cầu. Trong vòng hai năm, hàng loạt startup công nghệ như Grab Financial, InstaReM hay Validus đã tận dụng cơ chế thử nghiệm để đưa sản phẩm ra thị trường, vượt qua những rào cản pháp lý vốn gây cản trở trước đó. Sandbox không chỉ giúp Singapore vươn lên vị thế trung tâm fintech hàng đầu khu vực, mà còn thu hút hàng tỷ USD vốn đầu tư quốc tế.
+
+Điều làm nên thành công của Singapore không đơn thuần là việc “có sandbox”, mà ở cách quốc gia này xây dựng nó thành một hệ sinh thái thử nghiệm hoàn chỉnh, với luật chơi rõ ràng, cơ quan quản lý đồng hành, không gian sáng tạo rộng mở và một niềm tin vững chắc vào đổi mới. Mỗi dự án tham gia sandbox đều phải trả lời minh bạch những câu hỏi nền tảng: ai được tham gia? điều kiện là gì? thử nghiệm trong bao lâu? giới hạn đến đâu?
+
+Tại Việt Nam, các thành phố đã có cơ chế đặc thù cũng đang từng bước triển khai hành lang thử nghiệm công nghệ mới theo đúng mô hình sandbox. Các quy định ban đầu đã xác lập tiêu chí, điều kiện và quy trình thử nghiệm có kiểm soát, trong đó ưu tiên triển khai trong các khu công nghệ cao, trung tâm đổi mới sáng tạo và các lĩnh vực không liên quan đến quốc phòng, an ninh quốc gia. Quy trình phê duyệt hồ sơ diễn ra nhanh chóng trong khoảng 30 ngày và thời gian thử nghiệm lên tới 3 năm.
+
+Tại thành phố Đà Nẵng, vốn nổi bật về tinh thần đổi mới và chính sách mở cửa,  việc triển khai sandbox đang tiếp thêm động lực để xây dựng một hệ sinh thái công nghệ năng động. Thành phố này đang chứng kiến sự hình thành rõ nét của cộng đồng các nhà phát triển Web3 (Internet phi tập trung dựa trên blockchain). Minh chứng là Hội nghị Nhà phát triển Web3 đầu tiên tổ chức tại Đà Nẵng mới đây đã quy tụ hơn 100 nhà sáng lập, chuyên gia và nhân vật có tầm ảnh hưởng trong ngành blockchain trong nước và quốc tế tham dự. Các startup kỳ vọng sandbox sẽ trở thành đòn bẩy đưa Đà Nẵng trở thành trung tâm đổi mới công nghệ trong tương lai gần...
+
+Nội dung đầy đủ của bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 15-2025 phát hành ngày 14/4/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam

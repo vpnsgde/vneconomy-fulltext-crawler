@@ -1,0 +1,17 @@
+Đối với một hệ sinh thái khởi nghiệp (startup), những yếu tố quan trọng hàng đầu là có một mạng lưới các nhà sáng lập rộng lớn, các công ty đầu tư mạo hiểm cùng đội ngũ nhân tài công nghệ.
+
+Trên thế giới, hầu hết những thành phố có hệ sinh thái startup hàng đầu nằm ở Mỹ. Tuy nhiên, một vài thành phố như: Bắc Kinh của Trung Quốc, Seoul của Hàn Quốc, đang bắt đầu nổi lên khi các quốc gia này chú trọng hơn vào phát triển công nghệ nhằm thúc đẩy đổi mới sáng tạo.
+
+Đồ thị thông tin dưới đây gồm những thành phố tốt nhất thế giới dành cho các startup dựa trên dữ liệu từ Pitchbook. Xếp hạng này được đưa ra bằng cách phân tích các thành phố dựa trên những tiêu chí như mức độ trưởng thành của hệ sinh thái khởi nghiệp, số thương vụ đầu tư mạo hiểm, số vốn đầu tư mạo hiểm huy động được trong giai đoạn từ quý 2/2018 tới quý 2/2023.
+
+Trong đó, mức độ trưởng thành của hệ sinh thái (exit value) xét tới khả năng tạo việc làm và tạo tăng trưởng kinh tế của các startup, thể hiện hiệu quả của hệ sinh thái khởi nghiệp.
+
+Thành phố San Francisco của Mỹ đứng đầu danh sách này với hơn 427 tỷ USD vốn đầu tư mạo hiểm huy động được qua gần 20.000 thương vụ trong giai đoạn 6 năm. Thành phố này thu hút giới khởi nghiệp nhờ đội ngũ nhân tài công nghệ đông đảo và các công ty đầu tư mạo hiểm đặt trụ sở tại đây. Tính tới năm 2023, khu vực Bay Area của San Fransisco có 11.812 startup, chiếm khoảng 20% tổng số startup ở Mỹ.
+
+Theo sau San Francisco là thành phố New York, nơi các startup huy động được gần 180 tỷ USD trong 6 năm. Công ty tiền ảo Gemini và công ty học máy Hugging Face là hai startup nổi bật đang đặt trụ sở tại đây.
+
+Một “kinh đô” khởi nghiệp bên ngoài nước Mỹ là Bắc Kinh của Trung Quốc, nơi đặt trụ sở của ByteDance – công ty mẹ của Tik Tok và cũng là một trong những công ty chưa niêm yết lớn nhất thế giới.
+
+Những năm gần đây, thị trường huy động vốn đầu tư mạo hiểm Trung Quốc trở nên sôi động nhờ vốn đầu tư từ các doanh nghiệp nhà nước. Đặc biệt, vốn đầu tư mạo hiểm tập trung chủ yếu vào công ty “công nghệ cứng” như sản xuất con chip, xe điện. Điều này phù hợp với các mục tiêu chiến lược dài hạn của chính phủ nước này.
+
+Cùng với Bắc Kinh, Singapore cũng là một “kinh đô” khởi nghiệp công nghệ. Đây cũng là nơi có giá trị đầu tư mạo hiểm trên đầu người cao nhất thế giới, với 1.060 USD/người năm 2023. Con số này tại Mỹ là 345 USD/người, cao thứ hai thế giới.

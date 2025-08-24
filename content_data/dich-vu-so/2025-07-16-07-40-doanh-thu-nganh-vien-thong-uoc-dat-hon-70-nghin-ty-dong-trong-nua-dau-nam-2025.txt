@@ -1,0 +1,19 @@
+Tính đến hết tháng 6/2025, tỷ lệ hộ gia đình sử dụng cáp quang đạt 85,1%, tăng 3,09%; tỷ lệ người sử dụng Internet đạt 84,15%, tăng 7,75% so với cùng kỳ năm trước. Số lượng thuê bao băng rộng cố định đạt 24,43 triệu, tăng 2,74%, trong khi thuê bao băng rộng di động đạt gần 104,74 triệu, tăng 13,37%. Thuê bao di động sử dụng SMP (Smartphone) đạt trên 105,13 triệu, tăng 4,35% so với cùng kỳ 2024.
+
+Chất lượng truy cập Internet cũng được cải thiện rõ rệt. Trong tháng 4/2025, tốc độ băng rộng cố định trung bình đạt 176,68 Mbps – tăng 46,8% so với mức 120,32 Mbps cùng kỳ năm trước. Tốc độ truy cập Internet băng rộng di động đạt 136,21 Mbps, tăng vọt 167,7% so với mức 50,88 Mbps năm 2024. Với kết quả này, tốc độ Internet di động của Việt Nam đã vươn lên xếp hạng top 20 toàn cầu, tăng 37 bậc về tốc độ tải xuống.
+
+Hạ tầng dữ liệu tiếp tục được đầu tư. Cả nước hiện có 41 trung tâm dữ liệu thương mại (Data Center). Tỷ lệ sử dụng địa chỉ IPv6 trên mạng Internet đạt 65%, tăng 5% so với cùng kỳ, cao gấp 1,6 lần so với mức trung bình toàn cầu và ASEAN. Việt Nam hiện đứng thứ 2 trong khu vực ASEAN và thứ 9 trên thế giới về tỷ lệ triển khai IPv6. Tỷ lệ ký số ROA/RPKI – một chỉ số quan trọng trong đảm bảo an toàn định tuyến Internet – đạt 96,4%, tăng 2%, tiếp tục giữ vững vị trí dẫn đầu khu vực.
+
+Bên cạnh những kết quả về hạ tầng và chất lượng dịch vụ, công tác phổ cập viễn thông cũng đạt nhiều kết quả tích cực. Trong 6 tháng đầu năm, có 986.078 hộ nghèo và cận nghèo được tiếp cận dịch vụ viễn thông phổ cập, tăng 9% so với cùng kỳ năm ngoái. Đồng thời, có 6.144 điểm trường học, trạm y tế xã và điểm dịch vụ viễn thông công cộng được cung cấp dịch vụ viễn thông công ích. Đáng chú ý, tỷ lệ hộ nghèo và cận nghèo sử dụng dịch vụ viễn thông di động tăng 30%; truy cập Internet cố định tăng 59%; còn tại các cơ sở giáo dục và y tế, tỷ lệ truy cập băng rộng cố định tăng thêm 10%.
+
+Trong 6 tháng cuối năm 2025, Bộ sẽ trình Chính phủ dự thảo Nghị định sửa đổi, bổ sung một số điều của Nghị định số 63/2023/NĐ-CP, nhằm xác định mức thu tiền cấp quyền sử dụng tần số vô tuyến điện đối với phần thời hạn còn lại của các giấy phép băng tần đã hết hạn trước ngày 6/9/2023. Dự thảo sẽ được trình theo thủ tục rút gọn.
+
+Cùng với đó, Bộ cũng sẽ nghiên cứu quy hoạch tần số dành riêng cho Đường sắt tốc độ cao, đồng thời hoàn thiện và ban hành Chương trình thúc đẩy triển khai IPv6-only tại Việt Nam giai đoạn 2026–2030.
+
+Hai khối băng tần B1-B1’ (703–713 MHz và 758–768 MHz) và B3-B3’ (723–733 MHz và 778–788 MHz) dự kiến sẽ được tổ chức đấu giá lại từ nay đến cuối năm.
+
+Ngoài ra, Bộ sẽ triển khai cấp giấy phép sử dụng tần số và thiết bị vô tuyến điện cho các doanh nghiệp được phép thí điểm dịch vụ viễn thông bằng công nghệ vệ tinh quỹ đạo thấp (LEO), khi hoàn thiện hồ sơ hợp lệ.
+
+Như vậy, SpaceX sẽ chính thức được triển khai dịch vụ tại Việt Nam. Không lâu trước đây, SpaceX đã được Phó Thủ tướng Hồ Đức Phớc trao quyết định cho phép triển khai thí điểm dịch vụ Internet vệ tinh tại Việt Nam.
+
+Bên cạnh đó, thông tin thêm tại Hội nghị sơ kết 6 tháng đầu năm của Bộ Khoa học và Công nghệ, Thứ trưởng Phạm Đức Long cho biết tuyến cáp quang mặt đất VSTN có dung lượng ban đầu 2 Tbps sẽ được đưa vào khai thác trong tháng 8/2025. Tuyến cáp này nối Việt Nam – Lào – Thái Lan – Singapore, dự kiến sau đó sẽ nâng cấp lên mức dung lượng tối đa 12 Tbps, góp phần đa dạng hóa hạ tầng kết nối quốc tế bên cạnh các tuyến cáp quang biển hiện nay.

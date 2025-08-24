@@ -1,0 +1,27 @@
+
+
+Theo thống kê mới nhất từ Ngân hàng Nhà nước, hơn 77% người trưởng thành tại Việt Nam có tài khoản thanh toán ngân hàng. Nhiều tháng đầu năm 2023, thanh toán không dùng tiền mặt tăng hơn 50% về số lượng so với cùng kỳ năm 2022, cho thấy sự “bùng nổ” của dịch vụ này…
+
+Hiện nay, mọi giao dịch gần như được thực hiện trên các nền tảng công nghệ mới, từ đánh giày, trà đá, tới ăn uống, du lịch… đều đang được người dân quét QR code để chuyển khoản.
+
+Có thể nói, sự gia tăng của công nghệ tài chính - fintech trong những năm gần đây đã tạo ra sân chơi mới, các mô hình kinh doanh mới cùng với những người chơi mới, phá vỡ vị thế “đóng” của các định chế tài chính truyền thống. Thay vì khép kín, không chia sẻ tệp khách hàng của mình, cũng không liên kết với ai để bảo vệ data khách hàng như trước đây, hiện nay các ngân hàng đang cố gắng thay đổi, cởi mở tới mức tối đa. Ngân hàng mở - Open Banking đang trở thành xu hướng ngày càng phổ biến tại Việt Nam.
+
+Ông Nguyễn Hoàng Long, Phó tổng giám đốc CTCP Thanh toán Quốc gia Việt Nam, cho biết trong mô hình ngân hàng mở có 3 chủ thể chính tham gia gồm ngân hàng; bên thứ 3 cung cấp dịch vụ được kết nối thông qua Open API vào hệ thống ngân hàng để chia sẻ thông tin cung cấp dịch vụ cho khách hàng; khách hàng sử dụng dịch vụ.
+
+“Khi nói đến Ngân hàng mở được hiểu là ngân hàng chia sẻ thông tin, dịch vụ cho các công ty Fintech. Qua trao đổi với các chuyên gia trước đây, hiện nay ứng dụng Open API không chỉ giới hạn trong lĩnh vực Open Banking mà mở rộng ra toàn bộ nền kinh tế, Open Banking, Open Finance, Open data. Thông qua giao diện Open API, hệ thống ngân hàng có thể kết nối, cung cấp toàn bộ cho các chủ thể của nền kinh tế, không chỉ giới hạn trong ngành fintech, tài chính mà còn đến các công ty bán lẻ, công ty dịch vụ logistic, từ đó cung cấp dịch vụ ngân hàng cho toàn thể người dân”, Phó tổng giám đốc NAPAS giải thích.
+
+Thuật ngữ Ngân hàng mở (Open Banking) lần đầu xuất hiện trong Chỉ thị dịch vụ thanh toán sửa đổi (Revised Payment Services Directive – PSD2) của Liên minh châu Âu (EU, 2015). Theo đó, Ngân hàng mở cho phép các nhà cung cấp dịch vụ thanh toán bên thứ ba được quyền truy cập thông tin dữ liệu ngân hàng của khách hàng thông qua các giao diện chương trình ứng dụng mở (Open Application Programming Interface – Open API) được bảo mật.
+
+API mở cung cấp quyền truy cập, hỗ trợ giao diện giữa nhà cung cấp dữ liệu và bên thứ ba vào các mối quan hệ kinh doanh. Tuy nhiên, API mở không có nghĩa là bất kỳ ai cũng có thể truy cập vào hệ thống với sự tự do lựa chọn của họ mà luôn luôn có một số hình thức kiểm soát của các tổ chức cung cấp.
+
+Theo dòng chảy tất yếu của nền kinh tế chia sẻ, các ngân hàng truyền thống cũng nhận thức được rằng những người chơi mới bao gồm các công ty fintech/bigtech, các nhà cung cấp dịch vụ thanh toán và quản lý tài chính không phải là mối nguy hiểm hay đối thủ cạnh tranh trực tiếp, mà là các đối tác cùng khai thác tiềm năng của thị trường ngày càng mở rộng.
+
+Các mục tiêu ban đầu của ngân hàng mở là tạo một thị trường thanh toán trọn vẹn hơn, giúp thanh toán an toàn hơn và bảo vệ người tiêu dùng. Đồng thời, nếu được xây dựng thành công ngân hàng mở cũng sẽ trở thành 1 hub tài nguyên dữ liệu khổng lồ, để các bên cùng khai thác và phát triển.
+
+Trên phạm vi toàn cầu, nhiều quốc gia hiện đã có chiến lược và chính sách cụ thể để xây dựng hệ thống khung pháp lý làm cơ sở cho việc ứng dụng Open Banking nhằm khai thác tiềm năng bởi đây là xu hướng tất yếu của hoạt động kinh doanh ngân hàng hiện đại.
+
+Trên thế giới, ít nhất 87% quốc gia đã triển khai các hình thức khác nhau của ngân hàng mở thông qua giao diện lập trình ứng dụng mở (Open Banking API). Chỉ riêng ở châu Âu, có ít nhất 410 nhà cung cấp dịch vụ trực tuyến được phép truy cập dữ liệu của ngân hàng mở.
+
+Tại châu Á, tính đến hết năm 2020 đã có 77 nền tảng ngân hàng mở, gần 1500 sản phẩm dịch vụ có liên quan với tốc độ tăng trưởng bình quân hàng năm là 228%. Các dịch vụ ngân hàng mở đã phát triển rất mạnh ở Hàn Quốc, Hong Kong, Singapore, Nhật Bản… Trong đó, tại Hàn Quốc, Công ty tài chính viễn thông và thanh toán bù trừ Hàn Quốc (KFTC) đã triển khai hạ tầng Open Banking Hub từ năm 2020 và đến nay số lượng giao dịch đạt tới hơn 1 tỷ giao dịch/tháng.
+
+Tại Trung Quốc, một ví dụ cho việc ngân hàng mở được thúc đẩy là sự tích hợp giữa ngân hàng số WeBank và Wechat - một ứng dụng nhắn tin, truyền thông xã hội và thanh toán di động đa năng nổi tiếng của Trung Quốc. Nhờ sự tích hợp này, khách hàng có thể sắp xếp cuộc hẹn, chuyển tiền và gọi taxi với Wechat thay vì sử dụng nhiều ứng dụng khác nhau.

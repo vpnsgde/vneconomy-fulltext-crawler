@@ -1,0 +1,29 @@
+Thời gian gần đây, trên các trang mạng xã hội đã xuất hiện nhiều hội nhóm, cá nhân rao bán dịch vụ rút tiền, đáo hạn thẻ tín dụng thông qua dịch vụ quẹt thẻ qua máy POS. Đây là hình thức không hợp pháp và tồn tại nhiều rủi ro.
+
+Trước đây, VietCredit đã từng cảnh báo thủ đoạn mạo danh nhân viên Công ty, làm giả giấy tờ để cho vay vốn với nhiều ưu đãi như: thủ tục đơn giản không qua thẩm định, giải ngân nhanh, hạn mức lớn, lãi suất thấp 0.5%/năm…
+
+Công ty An ninh mạng Viettel (VCS - Viettel Cyber Security) vừa cho biết, đối tượng lừa đảo chiếm đoạt thông tin, tài sản của người dùng thẻ tín dụng là hình thức lừa đảo mới, phát triển mạnh mẽ trên không gian mạng Việt Nam nửa đầu năm nay. Đối tượng lừa đảo đã lợi dụng nhu cầu ngày càng cao về người dùng thẻ tín dụng, các ưu đãi của các ngân hàng, tổ chức tín dụng dành cho nhóm khách hàng này.
+
+Theo lý giải của VCS, kịch bản được các nhóm đối tượng đưa ra để lừa người dùng thẻ tín dụng khá tinh vi, thường gồm có 4 bước:
+
+Trước tiên, tạo các bài đăng trên những trang mạng xã hội có nội dung hỗ trợ nâng cấp hạn mức thẻ tín dụng, sang ngang thẻ tín dụng, vay không hạn mức, thủ tục nhanh chóng, duyệt hồ sơ siêu tốc, phê duyệt tự động, giải ngân trong ngày... Người dùng tin tưởng các bài đăng, sẽ liên hệ với các đối tượng. Ngoài ra, các đối tượng cũng có thể mua bán dữ liệu người dùng, trong đó bao gồm thông tin tin cá nhân, hạn mức thẻ tín dụng… để xác định những nạn nhân tiềm năng.
+
+Tiếp theo, đối tượng gọi điện, nhắn tin cho người dùng và mạo danh là nhân viên của ngân hàng, tổ chức tài chính để gửi thông tin hỗ trợ, mời chào nạn nhân sử dụng các dịch vụ liên quan đến thẻ tín dụng.
+
+Sau đó, các đối tượng gửi đường link liên kết tới website giả mạo, lừa đảo. Trong một số trường hợp, đối tượng sử dụng các đường link rút gọn, hoặc cung cấp mã QR để nạn nhân quét. Một khi nạn nhân truy cập vào trang giả mạo, website sẽ yêu cầu cung cấp các thông tin cá nhân, thông tin thẻ tín dụng, bao gồm: họ tên, căn cước công dân, chụp ảnh căn cước công dân 2 mặt, số thẻ, mã xác minh thẻ CVV (Card Verification Value), ngày hết hạn thẻ giống như trang web chính thống của ngân hàng. Nạn nhân cũng được yêu cầu cung cấp mã OTP gửi về số điện thoại.
+
+Cuối cùng, sau khi có thông tin thẻ tín dụng của người dùng, đối tượng lừa đảo sẽ dùng thông tin thẻ để thanh toán các giao dịch trực tuyến, chiếm đoạt tài sản của nạn nhân.
+
+Chuyên gia Viettel Cyber Security nhận định, đây là hình thức lừa đảo mới và đang phát triển mạnh mẽ trong năm nay do nhu cầu sử dụng thẻ tín dụng và các dịch vụ liên quan đến thẻ tín dụng tăng cao.
+
+“Nguy hiểm hơn, kịch bản nhắn tin, kỹ năng gọi điện tư vấn với nạn nhân được nâng lên, kỹ càng hơn, đối tượng trả lời lưu loát, hợp lý với các thắc mắc, câu hỏi từ phía nạn nhân... Bên cạnh đó, các đối tượng đánh vào lòng tham và sự cả tin của nạn nhân. Trong quá trình trao đổi, đối tượng luôn hướng nạn nhân về các chính sách, điều khoản được hưởng, cùng với các quyền lợi để dễ dàng thao túng. Kết quả là nạn nhân rất dễ rơi vào cạm bẫy”, chuyên gia VCS giải thích.
+
+Đại diện của VCS cũng cho hay, trong khoảng từ cuối năm ngoái cho đến nay, hệ thống Viettel Threat Intelligence đã theo dõi, cảnh báo và ngăn chặn nhiều website sử dụng hình thức lừa đảo liên quan đến các dịch vụ thẻ tín dụng như nâng hạn mức, đăng ký, hủy thẻ… Cụ thể, từ tháng 12/2022 đến hết tháng 6/2023, hệ thống kỹ thuật của VCS đã ghi nhận tới 190 tên miền lừa đảo được sử dụng trong các đợt tấn công lừa đảo của chiến dịch, với chủ yếu là các tên miền quốc tế đuôi tên miền .com, .online.
+
+Ngoài ra, đặc trưng của một chiến dịch lừa đảo này là tên miền được sử dụng thường chứa các từ khoá như “dichvu”, “canhan”, “khachhang”, “uutien”, “visa”… hoặc có chứa tên viết tắt các tổ chức ngân hàng. Chiến dịch gồm nhiều đợt tấn công, với mỗi đợt kéo dài khoảng 1 tháng. Theo ước tính, mỗi ngày có từ 3-5 tên miền mới được tạo.
+
+Tuy nhiên, các tên miền không sử dụng cùng địa chỉ IP mà phân bổ trên các địa chỉ IP khác nhau, gây khó khăn trong việc theo dõi và phát hiện. Thời gian sống của các tên miền ngắn, từ 3-4 ngày, hoặc ngay khi các đối tượng nghi ngờ bị phát hiện, sẽ ngắt hạ tầng của tên miền. Đặc biệt, tên miền cũng thể được tạo nhanh chóng bằng trí tuệ nhân tạo AI theo các kịch bản.
+
+Do đó, các chuyên gia dự báo số lượng các tên miền được sử dụng trong các đợt tấn công lừa đảo nhắm đến người dùng thẻ tín dụng của các tổ chức tín dụng, ngân hàng tại Việt Nam sẽ còn tiếp tục tăng trong thời gian sắp tới.
+
+Để ngăn ngừa, giảm thiểu thiệt hại từ các cuộc tấn công lừa đảo, các chuyên gia VCS khuyến nghị người dùng:

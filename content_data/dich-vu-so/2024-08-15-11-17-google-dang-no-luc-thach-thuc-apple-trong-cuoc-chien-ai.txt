@@ -1,0 +1,27 @@
+Tại sự kiện ra mắt sản phẩm Made By Google vào ngày 13/8, gã khổng lồ công nghệ đã chính thức trình làng dòng điện thoại Pixel với Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL và Pixel 9 Pro Fold. Tuy nhiên điều gây chú ý nhất tại sự kiện không phải điện thoại hay đồng hồ mới mà là hàng loạt tính năng AI nâng cấp được tích hợp trên Gemini AI, làm nóng thêm cuộc đua tích hợp AI trên điện thoại thông minh để đấu với Apple.
+
+Đối với Gemini, trợ lý AI của Google đã nhận được những nâng cấp đáng kể. Được tích hợp sâu vào hệ điều hành Android, Gemini hứa hẹn mang đến khả năng tương tác liền mạch trên nhiều ứng dụng và tác vụ khác nhau. Một trong số đó là Gemini Live cho phép các cuộc trò chuyện được tích hợp trực tiếp với AI, nhằm mục đích mang lại trải nghiệm người dùng tự nhiên và trực quan hơn.
+
+Một sản phẩm gây chú ý nhất là Pixel Studio, trình tạo hình ảnh trên thiết bị kết hợp với các mô hình dựa trên đám mây. Tính năng này cho phép người dùng tạo và chỉnh sửa hình ảnh do AI tạo trực tiếp trên thiết bị Pixel của họ, thể hiện cam kết của Google đối với việc xử lý AI trên thiết bị được hỗ trợ bởi bộ xử lý Tensor G4 mới nhất.
+
+Trong màn demo trên sân khấu, một bức ảnh về đống lửa trại dần dần biến thành lời mời tụ tập trên bãi biển với Cầu Cổng Vàng ở Mỹ và pháo hoa ở hậu cảnh, được tạo theo phong cách nghệ thuật pixel. Tính năng này sử dụng AI trên thiết bị và mô hình chuyển văn bản thành hình ảnh Imagen 3 dựa trên đám mây của Google nên yêu cầu kết nối internet để hoạt động.
+
+Các nâng cấp khác bao gồm Super Res Zoom Video để thu phóng video chất lượng cao (lên tới 20 lần trên các mẫu Pixel 9 Pro và Pro XL), tính năng này sẽ thu hút người dùng phổ thông, đặc biệt là khi quay video từ xa tại các sự kiện. Google cũng liên tục nhắc đến Apple bằng cách so sánh trực tiếp các bức ảnh toàn cảnh được hỗ trợ bởi AI mới của họ với bức ảnh chụp tối hơn trên iPhone 15 Pro Max.
+
+Một số tính năng AI nổi bật khác bao gồm ứng dụng thời tiết nâng cao với báo cáo tùy chỉnh do AI tạo, tạo danh sách thông minh trong Google Keep và anh chụp màn hình Pixel - một ứng dụng sắp xếp và thu hồi thông tin từ ảnh chụp màn hình đã lưu.
+
+Cụ thể, ảnh chụp màn hình Pixel có khả năng giúp người dùng sắp xếp các công việc hàng ngày. Nếu bạn đã từng lấy lời nhắc chụp ảnh màn hình về mật khẩu Wi-Fi hoặc sản phẩm bạn muốn mua (nhưng không bao giờ có thể nhớ ảnh chụp màn hình của bạn ở đâu) thì tính năng này rất hữu ích, cho phép người dùng coi điện thoại của họ như một kho lưu trữ có thể tìm kiếm được. Ghi chú cuộc gọi là một tính năng nổi bật khác, cung cấp bản tóm tắt các cuộc trò chuyện qua điện thoại do AI tạo để người dùng có thể xem bản ghi để kiểm tra lại thông tin quan trọng.
+
+Đương nhiên, cả hai tính năng ảnh chụp màn hình Pixel và ghi chú cuộc gọi sẽ làm nảy sinh những lo ngại về quyền riêng tư do khả năng của chúng được cá nhân hóa, tuy nhiên Google đã trấn an rằng cả hai ứng dụng đều được xử lý hoàn toàn trên thiết bị để bảo vệ quyền riêng tư.
+
+Trong khi Google đang tích cực thúc đẩy các tính năng AI của mình và tuyên bố rằng tất cả chúng sẽ được tung ra trong vài tuần tới, cách tiếp cận của Apple với nền tảng Apple Intelligence sắp ra mắt có vẻ thận trọng hơn. Được công bố tại Hội nghị các nhà phát triển toàn cầu vào tháng 6, Apple Intelligence sẽ ra mắt cùng với iOS 18 vào mùa thu này, mặc dù không phải tất cả các tính năng đều có sẵn khi ra mắt.
+
+Về tính năng của Apple Intelligence có tên Image Playground (tương tự như Pixel Studio của Google) sẽ cho phép người dùng tạo hình ảnh và biểu tượng cảm xúc do AI tạo ra. Apple cũng đang cải tiến Siri bằng cách tích hợp ChatGPT cho các truy vấn phức tạp hơn và các tính năng đầy hứa hẹn như hành động trên nhiều ứng dụng và hỗ trợ cá nhân hóa.
+
+Chiến lược triển khai của Apple khác với cách tiếp cận toàn diện hơn của Google. Apple Intelligence ban đầu sẽ được giới hạn ở các thiết bị mới hơn, bắt đầu với dòng iPhone 15 Pro và sẽ mở rộng hỗ trợ đa ngôn ngữ trong suốt năm tới. Để so sánh, Google Gemini có sẵn hơn 40 ngôn ngữ tại thời điểm viết bài, trên nhiều thiết bị bao gồm dòng Pixel được Google hỗ trợ và dòng Galaxy S24 mới nhất của Samsung.
+
+Cả Google và Apple đều nhấn mạnh đến quyền riêng tư trong quá trình triển khai AI của họ, nhưng với các chiến lược khác nhau. Apple, nổi tiếng với lập trường mạnh mẽ về quyền riêng tư, hứa hẹn rằng các tương tác AI sẽ vô hình, ngay cả đối với chính Apple. Chiến lược điện toán đám mây riêng của công ty nhằm mục đích xử lý các tác vụ AI trên máy chủ của Apple mà không lưu trữ hoặc truy cập dữ liệu người dùng. Tuy nhiên, sự hợp tác của Apple với OpenAI cho một số chức năng nhất định của Siri cũng đã đặt ra một số câu hỏi trong cộng đồng công nghệ quan tâm đến quyền riêng tư.
+
+Các thông báo về AI của Google đã nâng cao vị thế trong cuộc đua AI trên điện thoại thông minh. Với nhiều tính năng trong số này sắp được tung ra cho người dùng, Google đã đặt ra tiêu chuẩn cao, phả hơi nóng vào nền tảng Apple Intelligence sắp ra mắt của Apple.
+
+Áp lực lên Apple đặc biệt cao, do xu hướng doanh số bán iPhone gần đây chiếm tỷ lệ nhỏ hơn trong tổng doanh số của công ty trong 4 năm qua. Với kỳ vọng rằng iPhone 16 sẽ không có sự khác biệt đáng kể về hình thức so với các mẫu gần đây, sự thành công của Apple Intelligence có thể đóng vai trò quan trọng trong việc khơi dậy sự phấn khích của người tiêu dùng.

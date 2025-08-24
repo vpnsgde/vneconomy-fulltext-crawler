@@ -1,0 +1,31 @@
+Tuy nhiên, thỏa thuận này hiện gây nhiều tranh luận về ảnh hưởng tới hoạt động kinh doanh của hai “ông lớn” bán dẫn Mỹ và liệu Mỹ có tìm cách áp dụng với các doanh nghiệp khác hay không.
+
+TÍN HIỆU TÍCH CỰC CHO HOẠT ĐỘNG CỦA HAI ÔNG LỚN BÁN DẪN MỸ
+
+Trước hết, theo Financial Times, việc chấp nhận chia sẻ 15% doanh thu từ thị trường Trung Quốc cho Nhà trắng sẽ cho phép Nvidia và AMD được cấp phép xuất khẩu lần lượt dòng chip H20 và MI308 của AMD sang nước này.
+
+Đại diện Nvidia thông tin với NBC News: “Chúng tôi kỳ vọng các quy định kiểm soát xuất khẩu mới sẽ giúp Mỹ duy trì sức cạnh tranh tại Trung Quốc và trên thế giới. Mỹ không thể lặp lại sai lầm với 5G để rồi đánh mất vị thế dẫn đầu về viễn thông”.
+
+Trước diễn biến này, CNBC đưa tin, các chuyên gia cũng nhận định đây là thỏa thuận “khá khác thường” nhưng phản ánh rõ phong cách điều hành “thương lượng” đặc trưng của Tổng thống Donald Trump. Nhưng dù sao, giới đầu tư vẫn nhìn nhận đây là tín hiệu tích cực, giúp Nvidia và AMD có cơ hội duy trì chỗ đứng tại một trong những thị trường chip quan trọng nhất thế giới.
+
+Ông Ben Barringer, chuyên gia phân tích công nghệ toàn cầu tại Quilter Cheviot, nhận xét: “Từ góc độ nhà đầu tư, đây vẫn là tin tốt. Giữ được 85% doanh thu vẫn hơn là mất trắng”.
+
+Tuy nhiên, ông cũng đặt câu hỏi liệu Nvidia và AMD có tăng giá bán thêm 15% để bù phần chia sẻ này hay không?
+
+“Nhưng dù thế nào, giữ được thị trường vẫn tốt hơn để Huawei chiếm lĩnh hoàn toàn”,  ông Ben Barringer nói. Huawei hiện là đối thủ lớn nhất của hai hãng chip này tại Trung Quốc.
+
+Dù vậy, triển vọng dài hạn vẫn còn nhiều ẩn số. Ông George Chen, đối tác kiêm đồng chủ tịch mảng kỹ thuật số tại The Asia Group, nhận định: “Ngắn hạn, thỏa thuận giúp hai hãng yên tâm hơn về xuất khẩu sang Trung Quốc. Nhưng về lâu dài, chưa thể biết liệu chính phủ Mỹ có muốn "cắt" thêm từ hoạt động kinh doanh này, nhất là khi doanh số tại Trung Quốc tiếp tục tăng”.
+
+Ông Neil Shah, đối tác tại Counterpoint Research, ví việc chia sẻ doanh thu này như một dạng “thuế gián tiếp tại nguồn”. Cùng quan điểm, Ông Daniel Newman, Giám đốc điều hành Futurum Group , viết trên X rằng đây là một kiểu “thuế” để được làm ăn tại Trung Quốc.
+
+KHÔNG CÓ KHẢ NĂNG ÁP DỤNG THOẢ THUẬN NÀY VỚI CÁC NGÀNH KHÁC
+
+Tuy nhiên, các chuyên gia cho rằng khó có khả năng mô hình này được áp dụng cho những lĩnh vực khác. Nick Patience, Trưởng nhóm mảng AI tại The Futurum Group, nhận định: “Tôi không nghĩ điều này sẽ lan sang các ngành quan trọng khác của kinh tế Mỹ như phần mềm hay dịch vụ”.
+
+Mỹ coi chip bán dẫn là công nghệ chiến lược, bởi đây là nền tảng của hàng loạt lĩnh vực từ trí tuệ nhân tạo, thiết bị điện tử tiêu dùng cho tới quốc phòng. Vì thế, chip được đặt dưới chế độ kiểm soát xuất khẩu đặc biệt, khác với bất kỳ sản phẩm nào khác.
+
+Bán dẫn từ lâu đã là vấn đề địa chính trị nhạy cảm. Trong hai tuần qua, Trung Quốc bày tỏ lo ngại về tính bảo mật của chip Nvidia. Cuối tháng trước, cơ quan quản lý nước này đã yêu cầu Nvidia làm rõ các báo cáo về nguy cơ lỗ hổng bảo mật và “cửa hậu”. Nvidia bác bỏ hoàn toàn, khẳng định không tồn tại bất kỳ “cửa hậu” nào cho phép truy cập hay kiểm soát trái phép.
+
+Tuy nhiên, các nhà phân tích nhận định thỏa thuận giữa ông Trump với Nvidia và AMD có thể gây ra phản ứng trái chiều ở Bắc Kinh. Một mặt, Trung Quốc không mấy hài lòng với sự sắp xếp này, nhưng các công ty trong nước của họ vẫn muốn có được những con chip từ Mỹ để nâng cao năng lực AI.
+
+Chính phủ Trung Quốc hiện chưa đưa ra bình luận chính thức về thỏa thuận này.

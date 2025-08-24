@@ -1,0 +1,31 @@
+Bộ Y tế cho biết nhận được kiến nghị của cử tri đề nghị thực hiện nhanh việc chuyển đổi số trong lĩnh vực y tế.
+
+Về vấn đề này, Bộ Y tế thông tin trong những năm qua, Bộ luôn coi ứng dụng công nghệ thông tin và chuyển đổi số là nhiệm vụ quan trọng và ưu tiên hàng đầu.
+
+Cụ thể, đối với việc định danh công dân trong khám chữa bệnh, liên thông dữ liệu, hiện nay, tỷ lệ bao phủ bảo hiểm y tế của Việt Nam đạt 93,35%. Mỗi năm, có tới 170 triệu lượt khám bệnh ngoại trú tại các cơ sở khám, chữa bệnh, trong đó khám chữa bệnh bảo hiểm y tế chiếm 60%, và 17 triệu lượt điều trị nội trú, trong đó người bệnh bảo hiểm y tế chiếm 80%.
+
+Dữ liệu khám chữa bệnh bảo hiểm y tế phục vụ thanh quyết toán, và một số loại giấy tờ phục vụ dịch vụ công trực tuyến như, giấy khám sức khoẻ lái xe, giấy chứng sinh, giấy báo tử đã được liên thông thường quy qua hạ tầng công nghệ thông tin của Bảo hiểm xã hội Việt Nam.
+
+Theo báo cáo của Bộ Công an, đến nay, 84,7 triệu căn cước công dân đã được cấp cho 100% công dân Việt Nam đủ điều kiện; đã cấp 70,2 triệu tài khoản định danh điện tử (VNeID) cho người dân.
+
+Ứng dụng VNeID đã được tích hợp nhiều loại giấy tờ, dịch vụ như: Giấy phép lái xe, bảo hiểm y tế, thông tin bảo hiểm xã hội, thông tin cư trú của công dân.
+
+Theo báo cáo của cơ quan Bảo hiểm xã hội Việt Nam, đến nay, tỷ lệ đồng bộ giữa số căn cước công dân và số định danh cá nhân với số thẻ bảo hiểm y tế đạt 94%.
+
+Đây là tiền đề quan trọng cho việc tích hợp dữ liệu khám chữa bệnh của người dân từ các cơ sở khám, chữa bệnh khác nhau, dựa trên số định danh cá nhân và số căn cước công dân, hình thành sổ sức khoẻ điện tử toàn dân. Qua đó, mở ra một chương mới cho kỷ nguyên chuyển đổi số trong khám, chữa bệnh chăm sóc sức khoẻ nhân dân.
+
+Thời gian qua, Bộ Y tế cũng phối hợp với Bộ Công an để tích hợp dữ liệu người dân có sổ khám, chữa bệnh điện tử với ứng dụng định danh điện tử, nhằm đảm bảo tính thống nhất, đồng bộ, nâng cao tỷ lệ dân số có sổ khám, chữa bệnh điện tử thông qua việc triển khai sổ sức khỏe điện tử toàn dân VNeID dựa trên dữ liệu khám chữa bệnh bảo hiểm y tế. Điều này sẽ mang lại nhiều lợi ích quan trọng cho cả người bệnh và hệ thống y tế.
+
+Trước đó, ngày 31/10/2023, Bộ Y tế đã ban hành Quyết định số 4026/QĐ-BYT về ban hành các trường thông tin sức khoẻ VNeID thí điểm tại TP. Hà Nội.
+
+Bộ Y tế cho hay trên cơ sở kết quả thử nghiệm tại TP. Hà Nội và ý kiến của các đơn vị, Bộ sẽ hoàn thiện và ban hành văn bản để triển khai thống nhất trên toàn quốc sử dụng sổ sức khoẻ trên VNeID.
+
+Đối với bệnh án điện tử, hồ sơ sức khỏe điện tử, khám chữa bệnh từ xa, Bộ Y tế cho biết các tiêu chí về chức năng của bệnh án điện tử, đã được quy định tại nhóm tiêu chí về phần mềm bệnh án điện tử tại Thông tư số 54/2017/TT-BYT về Bộ Tiêu chí ứng dụng công nghệ thông tin tại các cơ sở khám bệnh, chữa bệnh; quy định các nội dung về hồ sơ bệnh án điện tử tại Thông tư số 46/2018/TT-BYT quy định hồ sơ bệnh án điện tử.
+
+Riêng với hồ sơ sức khỏe điện tử, Bộ Y tế đã có Quyết định số 831/QĐ-BYT năm 2017 về việc ban hành mẫu hồ sơ quản lý sức khỏe cá nhân phục vụ chăm sóc sức khỏe ban đầu.
+
+Đối với nội dung tư vấn và khám, chữa bệnh từ xa, hiện nay, Điều 87 và Điều 88 của Nghị định số 96/2023/NĐ-CP của Chính phủ quy định chi tiết một số điều của Luật Khám bệnh, chữa bệnh đã quy định cụ thể.
+
+Cùng với đó, Bộ Y tế đã ban hành Thông tư số 30/2023 quy định danh mục bệnh, tình trạng bệnh được khám bệnh, chữa bệnh từ xa; Thông tư số 49/2017 quy định hoạt động y tế từ xa; Quyết định số 28/QĐ-BYT ban hành Bộ tiêu chí ứng dụng công nghệ thông tin, để thực hiện hoạt động y tế từ xa với các nội dung kỹ thuật công nghệ thông tin tương đối đầy đủ, để các cơ sở khám bệnh, chữa bệnh đủ điều kiện triển khai; Công văn số 7946 về việc hướng dẫn khám chữa bệnh từ xa tại tuyến y tế cơ sở.
+
+Theo Bộ Y tế, thời gian tới, cơ quan này sẽ tiếp tục nghiên cứu các quy định pháp luật liên quan, bao gồm dự thảo Nghị định về quản lý dữ liệu y tế, dự kiến trình Chính phủ trong năm 2024.

@@ -1,0 +1,43 @@
+Mới đây, OpenAI đã giới thiệu loạt cập nhật cho trải nghiệm mua sắm trên ChatGPT, với mục tiêu đưa nền tảng này trở thành điểm khởi đầu cho người tiêu dùng khi tìm kiếm sản phẩm trực tuyến. Kể từ khi trí tuệ nhân tạo tạo sinh (generative AI) bùng nổ, cả người dùng lẫn giới chuyên môn đều đặt câu hỏi: công nghệ này sẽ làm thay đổi hành trình mua sắm như thế nào?
+
+Với các cập nhật mới, khi người dùng ChatGPT tìm kiếm các sản phẩm thuộc lĩnh vực thời trang, làm đẹp, đồ gia dụng hoặc điện tử, nền tảng này sẽ cung cấp gợi ý cá nhân hóa, hình ảnh sản phẩm, so sánh giá giữa các nhà bán lẻ, cùng với đánh giá từ người dùng. Ngoài ra, người dùng còn có thể truy cập trực tiếp vào trang web của các nhà bán hàng để mua sắm ngay từ giao diện ChatGPT.
+
+Theo OpenAI, hiện tại nền tảng này chưa tích hợp quảng cáo và cũng không hoạt động theo hình thức “trả tiền để được hiển thị sản phẩm”. Đại diện OpenAI – bà Leah Anise – cho biết, các đề xuất sản phẩm dựa trên tiêu chí “mức độ phù hợp với nhu cầu người dùng”, chứ không phải là tài trợ.
+
+TRẢI NGHIỆM MUA SẮM CÁ NHÂN HOÁ
+
+Việc tìm được sản phẩm thực sự phù hợp với sở thích và phong cách cá nhân đang trở thành một thách thức ngày càng lớn của các nhà bán hàng. Trong bối cảnh các thuật toán chủ yếu hiển thị những mặt hàng mà người dùng từng bày tỏ sự yêu thích – thay vì gợi ý những lựa chọn mới mẻ mà họ có thể sẽ quan tâm – và ngày càng nhiều thương hiệu phải trả tiền để được ưu tiên mức độ hiển thị, hành trình khám phá và mua sắm trở nên khó khăn với người tiêu dùng hơn bao giờ hết.
+
+
+
+Những người ủng hộ AI tin rằng công nghệ này có thể thay đổi cách người tiêu dùng mua sắm, bởi các mô hình AI có khả năng quét toàn bộ internet để tìm sản phẩm nhanh chóng và toàn diện hơn rất nhiều so với việc con người lướt các trang thương mại điện tử hay mạng xã hội.
+
+Nhưng liệu dùng công nghệ để giải quyết chính các vấn đề mà công nghệ tạo ra có phải là câu trả lời? Đặc biệt là trong bối cảnh niềm tin vào AI vẫn còn thấp – theo khảo sát mới đây của Pew Research, chỉ 24% người trưởng thành tại Mỹ cho rằng AI có thể mang lại lợi ích cá nhân cho họ, và chỉ 23% thừa nhận tương tác với AI mỗi ngày.
+
+ChatGPT đang làm điều mà nhiều công ty công nghệ – bao gồm cả Google – đã và đang hướng tới: trải nghiệm mua sắm được hỗ trợ bởi AI. Tháng 10 năm ngoái, Google Shopping đã tung ra một loạt cập nhật ứng dụng AI tạo sinh, bao gồm gợi ý cá nhân hóa và khả năng so sánh cùng một sản phẩm từ nhiều nhà bán lẻ khác nhau.
+
+Tuy nhiên, các truy vấn vẫn được định dạng như một tìm kiếm Google thông thường. Nhiều công ty khác như Daydream, SpangleAI, Sociate và OneOff cũng đang phát triển các giải pháp giúp người tiêu dùng khám phá sản phẩm trực tuyến dễ dàng hơn nhờ trí tuệ nhân tạo.
+
+
+
+Theo các chuyên gia, bước đi mới của ChatGPT không chỉ đánh dấu một bước tiến lớn đối với mua sắm ứng dụng AI mà còn với toàn ngành thương mại điện tử. “ChatGPT mang đến một sự chuyển đổi mang tính triệt để hơn,” Adrien Menard – CEO của nền tảng SEO Botify – nhận định. Đồng thời, ông cho rằng việc dịch chuyển khỏi lối tìm kiếm phụ thuộc vào tiêu đề tối ưu hóa SEO là yếu tố then chốt giúp người tiêu dùng cảm thấy các kết quả phù hợp và hữu ích hơn.
+
+Ông cũng lưu ý rằng công cụ này đang “rút ngắn phễu mua sắm” bằng cách tổng hợp so sánh, đánh giá và giá bán chỉ trong một bước. “Nếu một công cụ giúp tôi tìm đúng thứ mình cần nhanh hơn – ít tab hơn, ít quảng cáo hơn và gợi ý thông minh hơn – tôi sẽ tiếp tục dùng nó,” ông nhận định.
+
+THÓI QUEN MỚI KHÓ BỎ?
+
+Với hơn 1 tỷ lượt tìm kiếm mỗi tuần, theo OpenAI, ChatGPT đang nhanh chóng trở thành một thói quen hàng ngày của nhiều người. Khi người tiêu dùng ngày càng tích hợp ChatGPT vào đời sống thường nhật, việc sử dụng nó để mua sắm có thể sớm trở thành phản xạ tự nhiên.
+
+“Đối với nhiều người tiêu dùng, đặc biệt là Gen Z và Gen Alpha, việc bắt đầu hành trình mua sắm bằng một chatbot đã trở nên trực quan hơn so với việc mở một tab trình duyệt,” ông Adrien Menard nhận định.
+
+Chính yếu tố hội thoại là điểm khác biệt giúp ChatGPT nổi bật so với các công cụ mua sắm dùng AI khác (như Google), theo Daniel Carles – giảng viên thỉnh giảng về tiếp thị số và thương mại điện tử tại Istituto Marangoni. “ChatGPT giống như bạn đang trò chuyện với một người bạn thông minh, người không chỉ hiểu mà còn giúp bạn đưa ra quyết định,” ông nói. “Đây không chỉ là tính năng, mà còn là cảm xúc. Và trong marketing, cảm xúc luôn chiến thắng lý trí”.
+
+Tuy nhiên, chừng đó có thể vẫn chưa đủ. Dù ChatGPT đang dẫn đầu cuộc đua AI tạo sinh, Emarketer dự báo chỉ khoảng 37,7% người dùng internet sẽ sử dụng công cụ này trong năm nay. “Con số này đặt lợi thế ‘giao tiếp hội thoại’ của ChatGPT vào một góc nhìn thực tế hơn,” theo Zak Stambor, chuyên gia phân tích cao cấp về bán lẻ và thương mại điện tử tại Emarketer. “Vẫn chưa rõ phần lớn người tiêu dùng có thực sự coi trò chuyện với chatbot là cách tốt hơn để mua sắm hay tìm kiếm thông tin hay không”.
+
+Trong khi đó, dù không mang tính đối thoại cao như ChatGPT, Google vẫn là công cụ tìm kiếm mua sắm phổ biến nhất, với hơn 1 tỷ lượt mua sắm mỗi ngày, theo đại diện Google. Hơn 45 tỷ sản phẩm được cập nhật liên tục, điều mà Google cho rằng giúp người dùng cảm thấy thông tin mình nhận được là đáng tin cậy.
+
+Đồng thời, AI vẫn còn tạo ra hiện tượng "ảo giác thông tin" (hallucination) — tức là cung cấp thông tin sai lệch nhưng trình bày như sự thật — khiến nhiều người tiêu dùng còn dè chừng, đặc biệt là những người không bị thuyết phục chỉ nhờ một cuộc trò chuyện. ChatGPT có thể đóng vai trò hỗ trợ trong giai đoạn tìm hiểu sản phẩm, nhưng vẫn còn một chặng đường dài để xây dựng uy tín và niềm tin nếu muốn trở thành nền tảng chính.
+
+Bên cạnh đó, các gợi ý của ChatGPT được cá nhân hóa — nghĩa là nó sử dụng các lượt tìm kiếm và mua hàng trước đó để điều chỉnh nội dung người dùng nhìn thấy. Tính năng ghi nhớ sẽ sớm được mở rộng để tích hợp với tìm kiếm và mua sắm trong vài tuần tới.
+
+Trên lý thuyết, điều này rất hữu ích. Tuy nhiên, nó cũng có thể làm thu hẹp khả năng khám phá của người dùng vì, giống như thuật toán mạng xã hội, nó chỉ hiển thị những gì người dùng từng thể hiện là quan tâm — từ đó hạn chế sự mới mẻ và bất ngờ trong trải nghiệm mua sắm.

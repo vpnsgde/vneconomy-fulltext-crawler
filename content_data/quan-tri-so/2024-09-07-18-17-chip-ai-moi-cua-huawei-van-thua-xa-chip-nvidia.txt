@@ -1,0 +1,41 @@
+Huawei đã nổi lên là gã khổng lồ công nghệ Trung Quốc dẫn đầu cuộc chạy đua phát triển các giải pháp thay thế Nvidia sau khi Mỹ thắt chặt hơn nữa các biện pháp kiểm soát xuất khẩu chất bán dẫn vào tháng 10 năm ngoái.
+
+Vào tháng 6 năm nay, Huawei đã công bố loại chip Ascend thế hệ mới và tuyên bố mạnh hơn chip A100 của Nvidia. Ascend đã trở thành một lựa chọn ngày càng phổ biến cho các nhóm phát triển trí tuệ nhân tạo (AI) tại Trung Quốc để thực hiện suy luận, một quy trình mà các ứng dụng như ChatGPT của OpenAI sử dụng để tạo ra phản hồi cho các truy vấn.
+
+Tuy nhiên giờ đây những nỗ lực của Trung Quốc nhằm bắt kịp với Mỹ trong cuộc đua trí tuệ nhân tạo đang gặp rào cản khi phần mềm của Huawei gặp nhiều lỗi trong quá trình sử dụng. Khách hàng của nhà sản xuất chip AI hàng đầu Trung Quốc đang phàn nàn về các vấn đề hiệu suất và khó khăn khi chuyển đổi từ các sản phẩm của Nvidia.
+
+
+
+Nhiều người trong ngành, bao gồm cả kỹ sư AI tại một công ty đối tác cho biết chip của Huawei vẫn thua xa Nvidia trong quá trình đào tạo mô hình ban đầu. Họ đổ lỗi cho các vấn đề về độ ổn định, kết nối giữa các chip chậm hơn và phần mềm kém chất lượng do Huawei phát triển có tên Cann.
+
+Nền tảng phần mềm Cuda của Nvidia nổi tiếng là “vũ khí bí mật” của công ty vì dễ dàng cho các nhà phát triển sử dụng và có khả năng tăng tốc quá trình xử lý dữ liệu. Huawei là một trong nhiều công ty đang cố gắng phá vỡ sự thống trị của Nvidia đối với chip AI bằng cách tạo ra phần mềm thay thế.
+
+Nhân viên của Huawei cũng nằm trong số những người phàn nàn về Cann. Một nhà nghiên cứu giấu tên cho biết phần mềm đang khiến sản phẩm Ascend khó sử dụng và không ổn định dẫn đến công việc thử nghiệm nó đang bị cản trở.
+
+“Khi xảy ra lỗi ngẫu nhiên, rất khó tìm ra lỗi xuất phát từ đâu do tài liệu không đầy đủ. Bạn cần các nhà phát triển tài năng có khả năng đọc mã nguồn để xem vấn đề là gì, điều này làm mọi thứ chậm lại. Việc mã hóa cũng không hoàn hảo như họ kỳ vọng.”
+
+Một kỹ sư Trung Quốc khác thông báo ngắn gọn về việc sử dụng bộ xử lý Huawei của Baidu cho biết các con chip này thường xuyên gặp sự cố, khiến công việc phát triển AI trở nên phức tạp.
+
+Nhà nghiên cứu của Huawei cho biết sự cố xảy ra do khó sử dụng phần cứng. Họ nói: “Rất dễ nhận được kết quả tệ vì mọi người không biết nhiều về bản thân phần cứng”.
+
+Để giải quyết vấn đề, Huawei đã cử các kỹ sư trực tiếp đến giúp đỡ khách hàng trong việc chuyển mã đào tạo được viết trước đó trên Cuda sang Cann. Những người này cho biết Baidu, iFlytek và Tencent là một trong những công ty công nghệ đã tiếp nhận đội ngũ kỹ sư.
+
+Một cựu nhân viên của Baidu cho biết: “Huawei vượt trội trong dịch vụ khách hàng, vì vậy tất nhiên họ có các kỹ sư hỗ trợ tận nơi cho các khách hàng lớn, giúp họ sử dụng chip của mình”.
+
+Huawei có thể tận dụng lực lượng lao động khổng lồ để đẩy nhanh quá trình chuyển đổi. Theo công ty, hơn 50% trong số 207.000 nhân viên của công ty làm việc trong lĩnh vực nghiên cứu và phát triển, bao gồm cả các kỹ sư được cử đi cài đặt công nghệ cho khách hàng.
+
+
+
+Nhà phân tích công nghệ Tilly Zhang tại công ty tư vấn Gavekal cho biết: “Lợi thế của Huawei so với Nvidia là có thể hợp tác chặt chẽ với khách hàng của mình. Không giống như Nvidia, họ có một đội ngũ kỹ sư đông đảo để giúp giải quyết các vấn đề của khách hàng và khiến họ cảm thấy thuyết phục khi chuyển sang phần cứng thay thế".
+
+Huawei cũng đã thiết lập một cổng thông tin trực tuyến dành cho các nhà phát triển để đưa ra phản hồi về cách cải thiện phần mềm của họ.
+
+Theo những người quen thuộc với vấn đề này, sau khi Mỹ thắt chặt kiểm soát xuất khẩu vào tháng 10, Huawei đã tăng giá Ascend 910B, loại chip dùng cho đào tạo từ 20 đến 30%.
+
+Khách hàng của Huawei cũng bày tỏ lo ngại về những hạn chế về nguồn cung đối với chip Ascend như khó khăn trong sản xuất, khi các công ty Trung Quốc bị ngăn cản mua máy móc sản xuất chip hiện đại từ công ty ASML của Hà Lan.
+
+Huawei nhận thấy nhu cầu mạnh mẽ đối với chip AI của mình. Công ty đã báo cáo doanh thu nửa đầu năm tăng 34% mà không cung cấp thông tin chi tiết về doanh số bán hàng cho các hoạt động kinh doanh khác nhau của mình.
+
+Giám đốc điều hành Huawei Zhang Ping’an cho biết tại Hội nghị Trí tuệ Nhân tạo Thế giới ở Thượng Hải vào tháng 7 rằng hơn 50 mô hình cơ bản đã được đào tạo và lặp lại trên chip Ascend.
+
+iFlytek cho biết mô hình ngôn ngữ lớn của họ đã được đào tạo riêng về chip Huawei sau khi Huawei cử một nhóm kỹ sư đến trụ sở chính ở Hợp Phì, miền đông Trung Quốc vào năm ngoái để tích hợp công nghệ.

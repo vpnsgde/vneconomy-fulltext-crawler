@@ -1,0 +1,33 @@
+Kể từ năm 2019 đến nay, gần 100 tỷ USD đã được trao đổi bất hợp pháp thông qua tiền điện tử trên toàn cầu, theo Chainalysis. Điều này cho thấy thách thức phòng chống rửa tiền trong không gian tiền mã hóa ngày càng gia tăng. Đỉnh điểm vào năm 2022, 30 tỷ USD được xác định giao dịch bất hợp pháp, phần lớn thông qua sàn giao dịch Garantex của Nga.
+
+Mới đây, Cơ quan Tiền tệ Hồng Kông (HKMA) vừa phạt DBS Bank (Hong Kong), công ty con của DBS tại Hồng Kông 10 triệu đô la Hồng Kông (1,3 triệu USD) vì vi phạm Sắc lệnh chống rửa tiền và chống tài trợ khủng bố (AMLO). HKMA kết luận ngân hàng này đã không giám sát chặt chẽ, không tiến hành thẩm định nâng cao các giao dịch tiền điện tử và không lưu giữ theo quy định hồ sơ một số khách hàng.
+
+Thứ nhất, cách thức rửa tiền phổ biến nhất của tội phạm là sử dụng ví trung gian. Cụ thể, khoảng 80% các vụ rửa tiền chảy qua ví trung gian nhằm phân lớp giao dịch giúp tội phạm dễ dàng che giấu mối liên hệ giữa các khoản tiền bất hợp pháp với cá nhân/tổ chức đứng sau.
+
+Vào năm 2023, có hơn 1,4 triệu ví trung gian chuyển tiền bất hợp pháp đã bị các cơ quan chức năng trên thế giới phát hiện, con số này tăng đáng kể so với khoảng 800.000 ví vào năm 2022. Điều này cũng cho thấy tội phạm đang ngày càng tinh vi hơn trong các nỗ lực trốn tránh bị phát hiện, sử dụng các mạng lưới ví phức tạp hơn để che giấu dấu vết của các khoản tiền bất hợp pháp.
+
+Thứ hai, máy trộn tiền điện tử (tumbler) là công cụ ưa thích cho các hoạt động rửa tiền. Theo đó, dịch vụ cho phép người dùng trộn tiền mã hóa của họ với tiền của nhiều cá nhân khác khiến việc phát hiện nguồn gốc và quyền sở hữu của chúng trở nên khó khăn. Năm 2022, khối lượng giao dịch thông qua máy trộn tăng lên mạnh mẽ. Theo Binance, các máy trộn đã liên tục xử lý khoảng 1/4 tổng số Bitcoin (BTC) bất hợp pháp mỗi năm.
+
+
+
+Thứ ba, đồng tiền riêng tư, đặc biệt là Monero, được những người muốn tránh sự giám sát gia tăng cường sử dụng. Các tính năng ẩn danh nâng cao của đồng tiền riêng tư khiến chúng đặc biệt hấp dẫn đối với những tội phạm muốn rửa tiền, đặt ra những thách thức đáng kể cho các cơ quan quản lý.
+
+Báo cáo tiết lộ rằng hơn 50% dòng tiền bất hợp pháp sẽ đến các sàn giao dịch tập trung. Điều này là do tính thanh khoản cao và dễ dàng chuyển đổi tiền điện tử sang tiền pháp định.
+
+Tuy nhiên, khối lượng tiền được rửa trên các sàn giao dịch tập trung cũng đang giảm đáng kể - từ gần 2 tỷ 600 triệu USD một tháng ở mức cao nhất xuống còn khoảng gần 900 triệu USD. Sự sụt giảm này cho thấy các chương trình chống rửa tiền (AML) của các sàn giao dịch tập trung đang ngày càng hiệu quả trong việc phát hiện và giảm thiểu hoạt động rửa tiền.
+
+Thứ tư, ví hợp nhất (Consolidation Wallets) là một kỹ thuật rửa tiền khác cũng cần được chú ý. Vào năm 2024, hơn 1.500 ví hợp nhất đã nhận được tổng cộng 2,6 tỷ bảng Anh (quy đổi từ Bitcoin), cụ thể, mỗi ví nhận tiền từ ít nhất mười ví khác nhau. Mô hình hợp nhất này có thể che giấu nguồn gốc của tiền trước khi chuyển đến các sàn giao dịch hoặc các điểm rút tiền khác.
+
+Để chống lại cả rửa tiền gốc tiền điện tử và không phải tiền điện tử, Chainalysis lưu ý cần có cách tiếp cận đa chiều, bao gồm các khuôn khổ quản lý mạnh mẽ, các giải pháp công nghệ tiên tiến và tăng cường hợp tác toàn cầu.
+
+Nhằm tăng cường nỗ lực trong cuộc chiến chống rửa tiền, các quốc gia hợp pháp hóa tiền điện tử đã tích cực cập nhật các quy định mới. Chẳng hạn, Liên minh châu u đã ban hành Chỉ thị chống rửa tiền thứ năm (5AMLD) và Quy định chuyển tiền (TFR) mở rộng các yêu cầu đối với các nhà cung cấp dịch vụ tài sản ảo (VASP).
+
+Vương quốc Anh đã thực hiện nhiều biện pháp mới, bao gồm sẵn sàng tịch thu tài sản tiền điện tử bị nghi ngờ có liên quan đến hoạt động rửa tiền trước khi bắt giữ.
+
+Singapore đã ban hành Đạo luật dịch vụ thanh toán (PSA) nhằm giám sát nghiêm ngặt hơn các doanh nghiệp tiền điện tử. Hồng Kông đã sửa đổi Pháp lệnh Chống rửa tiền và Tài trợ chống khủng bố (AMLO) để tăng cường quản lý các nền tảng giao dịch tài sản ảo.
+
+Bên cạnh thiết lập các quy định, các hệ thống giám sát giao dịch tiên tiến cũng đóng vai trò quan trọng trong cuộc chiến chống rửa tiền. Báo cáo nêu bật việc các nước áp dụng tăng sử dụng các công cụ phân tích Blockchain, các công cụ máy học và trí tuệ nhân tạo để phát hiện các mô hình bất thường, hành vi rửa tiền đồng thời cung cấp liên tục các cảnh báo theo thời gian thực để nâng cao hoạt động giám sát.
+
+Cuộc chiến chống rửa tiền thông qua tiền mã hóa là một thách thức khó khăn đòi hỏi cơ quan chức năng của các nước nâng cao cảnh giác và thích nghi liên tục với các chiêu trò mới. Khi hệ sinh thái tiền mã hóa tiếp tục phát triển, các chiến lược ngăn chặn khai thác tiền mã hóa cho mục đích bất hợp pháp của các quốc gia cũng phải phát triển theo.
+
+Và rõ ràng con số 100 tỷ USD trong báo cáo chỉ là bề nổi của tảng băng chìm, số tiền bất hợp pháp thực tế được giao dịch thông qua tiền mã hoá là không thể đo đếm.

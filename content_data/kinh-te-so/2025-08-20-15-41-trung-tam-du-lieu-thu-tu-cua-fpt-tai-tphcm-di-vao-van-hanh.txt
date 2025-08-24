@@ -1,0 +1,21 @@
+FPT Fornix HCM02 là trung tâm dữ liệu thứ tư của FPT, đóng vai trò là hạ tầng trọng yếu phục vụ các nền tảng trí tuệ nhân tạo (AI), điện toán đám mây và chuyển đổi số, góp phần hiện thực hóa mục tiêu đưa Việt Nam trở thành Digital Hub của Đông Nam Á vào năm 2030.
+
+Ông Trần Hải Dương, Chủ tịch kiêm Tổng Giám đốc FPT Telecom International (Tập đoàn FPT), cho biết FPT Fornix HCM02 được xây dựng với quy mô 8 tầng, tổng diện tích lên đến 10.000m2 và sức chứa lên tới 3.600 racks. Trung tâm được xây dựng theo kiến trúc dự phòng vượt trội với các cấu hình N+1, N+2, 2N, cho phép bảo trì liên tục không gián đoạn, đảm bảo vận hành ổn định với uptime đạt ≥99.982%.
+
+Đây là yếu tố then chốt đối với các doanh nghiệp hoạt động trong lĩnh vực như ngân hàng, thương mại điện tử, logistics, cùng các dự án chuyển đổi số quốc gia - nơi đòi hỏi hệ thống công nghệ thông tin không được phép ngừng trệ dù chỉ trong vài giây.
+
+Ngoài ra, FPT Fornix HCM02 được phát triển theo mô hình Carrier Neutral (trung lập nhà mạng), cho phép khách hàng chủ động lựa chọn và kết nối với nhiều nhà cung cấp dịch vụ viễn thông. Mô hình này mang lại sự linh hoạt trong kết nối, tối ưu hóa chi phí, nâng cao khả năng dự phòng, cải thiện hiệu suất vận hành và đặc biệt là kiến tạo một hệ sinh thái số mở, góp phần đảm bảo chủ quyền và an toàn hạ tầng số quốc gia.
+
+Thế giới đang chứng kiến một cuộc cách mạng về dữ liệu. Khi chuyển đổi số đang trở thành động lực cốt lõi của tăng trưởng kinh tế, nhu cầu về lưu trữ, xử lý và bảo mật dữ liệu ngày càng tăng mạnh, đặc biệt dưới tác động của làn sóng ứng dụng AI, nhất là AI tạo sinh (Generative AI).
+
+Bên cạnh đó, sự phát triển của các mô hình tính toán hiệu suất cao, tiêu tốn nhiều năng lượng đang thúc đẩy nhu cầu mở rộng hạ tầng dữ liệu trên toàn cầu. Tại Đông Nam Á, tâm điểm mới của kinh tế số toàn cầu và Việt Nam đặt mục tiêu trở thành Digital Hub của khu vực vào năm 2030.
+
+Theo báo cáo của Mordor Intelligence, thị trường trung tâm dữ liệu tại Việt Nam ước tính đạt 524,7 MW năm 2025, dự kiến chạm mốc 950,4 MW vào năm 2030, tương đương tốc độ tăng trưởng trung bình hơn 12,6% mỗi năm.
+
+“Trong bối cảnh dữ liệu trở thành tài nguyên chiến lược của quốc gia, việc đầu tư hạ tầng lưu trữ nội địa là điều kiện tiên quyết để đảm bảo chủ quyền số. Với vai trò tiên phong trong lĩnh vực hạ tầng số, FPT cam kết đồng hành cùng các cơ quan chức năng, doanh nghiệp trong công cuộc xây dựng hệ sinh thái dữ liệu an toàn, góp phần bảo vệ an ninh mạng và thông tin quốc gia, hành trình chuyển đổi số toàn diện”, ông Dương khẳng định.
+
+Được thiết kế và xây dựng theo chuẩn ANSI/TIA‑942 Rated 3, trung tâm dữ liệu tích hợp hệ thống quản lý chất lượng và bảo mật đạt các tiêu chuẩn ISO 9001, ISO 27001, ISO 27017, ISO 27018 và ISO 22301. FPT Fornix HCM02 đồng thời sở hữu các chứng chỉ an toàn dữ liệu và kiểm soát rủi ro như PCI DSS, SOC 2 và TVRA.
+
+Bên cạnh việc đảm bảo các điều kiện quốc tế, trung tâm FPT Fornix HCM02 cũng tuân thủ các quy chuẩn kỹ thuật quốc gia về tiếp đất và an toàn chống sét đối với trạm viễn thông như QCVN 09, QCVN 32. Đây là một trong những trung tâm dữ liệu đầu tiên tại Việt Nam thiết kế theo chuẩn LEED Certification - hệ thống tiêu chuẩn quốc tế về kiến trúc xanh.
+
+Tính đến nay, FPT sở hữu 4 Trung tâm dữ liệu lớn tại Hà Nội (FPT Fornix HN01, FPT Fornix HN02) và tại TP HCM (FPT Fornix HCM01, FPT Fornix HCM02) với tổng diện tích hơn 17.000m2 và sức chứa vượt 7.000 racks, hệ sinh thái này đang là nền tảng quan trọng thúc đẩy chuyển đổi số cho hàng ngàn tổ chức, doanh nghiệp hàng đầu trong và ngoài nước.

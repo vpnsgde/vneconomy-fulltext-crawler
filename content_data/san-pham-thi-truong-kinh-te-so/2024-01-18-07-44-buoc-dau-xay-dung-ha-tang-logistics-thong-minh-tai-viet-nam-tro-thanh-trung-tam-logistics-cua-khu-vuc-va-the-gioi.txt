@@ -1,0 +1,25 @@
+Ngày 17/1, Tổng công ty Cổ phần Bưu chính Viettel (Viettel Post, thuộc Tập đoàn Công nghiệp – Viễn thông Quân đội Viettel) khai trương Tổ hợp công nghệ chia chọn thông minh đầu tiên của Việt Nam tại Khu công nghiệp Quang Minh, huyện Mê Linh, Hà Nội.
+
+Tại sự kiện, Tổng giám đốc Tổng công ty Cổ phần Bưu chính Viettel (Viettel Post) Hoàng Trung Thành, cho biết, hiện nay các doanh nghiệp thương mại điện tử và logistics lớn nhất thế giới đều đã có mặt và họat động tại Việt Nam, điều này tạo ra áp lực cạnh tranh rất lớn cho các doanh nghiệp trong nước, đòi hỏi các doanh nghiệp Việt Nam phải đổi mới nhanh hơn, phải chuyển đổi số, thông minh hóa hệ thống mạng lưới để tạo ra lợi thế cạnh tranh lâu dài.
+
+“Trong 10 năm tới, logistics và thương mại điện tử được đánh giá là một trong những lĩnh vực tăng trưởng nhanh nhất của nền kinh tế Việt Nam. Viettel Post đặt ra cho mình nhiệm vụ xây dựng hạ tầng logistics quốc qua thông minh, đây không phải là đòi hỏi của thị trường mà là sứ mệnh mà Tập đoàn Viettel đặt ra”, ông Thành cho hay.
+
+Theo ông Tào Đức Thắng, Chủ tịch kiêm Tổng giám đốc Tập đoàn Viettel, việc đưa vào vận hành Tổ hợp công nghệ chia chọn thông minh đầu tiên và lớn nhất của Việt Nam là bước đầu của quá trình xây dựng hạ tầng logistics thông minh. Bên cạnh hai hạ tầng quốc gia đã được Viettel xây dựng ở quy mô rộng nhất và lớn nhất Việt Nam là hạ tầng viễn thông và hạ tầng số, Viettel tiếp tục xây dựng hạ tầng logistics quốc gia, góp phần đưa Việt Nam trở thành trung tâm logistics của khu vực và thế giới, tham gia thực hiện mục tiêu đến năm 2025, ngành logistics sẽ đóng góp 5-6% vào GDP.
+
+
+
+“Nếu hạ tầng viễn thông được coi là huyết mạch của dòng chảy thông tin đối với nền kinh tế, hạ tầng số được coi là hạ tầng của hạ tầng trong nền kinh tế số, thì hạ tầng logistics được ví như là huyết mạch của dòng chảy vật chất, có vai trò quan trọng trong việc kết nối, hỗ trợ và thúc đẩy phát triển kinh tế - xã hội. Sứ mệnh này được Viettel giao cho Viettel Post”, ông Tào Đức Thắng nhấn mạnh.
+
+Đối với Tổ hợp công nghệ chia chọn thông minh Viettel Post, đây là tổ hợp chia chọn có mức tự động hóa cao nhất Việt Nam, sử dụng robot tự hành chia chọn hàng hoá (robot AGV), hệ thống chia hàng lớn (Wheel Sorter Matrix) và hệ thống chia chọn dạng băng tải (Cross-belt Sorter). Viettel Post là công ty logistic đầu tiên tại Việt Nam triển khai công nghệ robot AGV.
+
+Với hơn 40 cổng xuất/nhập hàng, gần 1.200 cổng chia, tổ hợp có công suất xử lý lên đến 1,4 triệu bưu phẩm/ngày, tăng 40% so với trước đây, giúp nâng mức chịu tải toàn hệ thống Viettel Post lên 4 triệu bưu phẩm/ngày, tương đương đáp ứng 50% dung lượng thương mại điện tử tại Việt Nam. Tỉ lệ sai sót của tổ hợp gần như bằng 0, rút ngắn thời gian chuyển phát toàn trình từ 8-10 giờ, tăng 3,5 lần sản lượng. Nhờ tự động hoá, tổ hợp cũng giúp tối ưu 60% chi phí nhân sự.
+
+Quản lý giám sát vận hành khu tổ hợp là hệ thống NOC theo dõi hành trình của từng đơn hàng thời gian thực. Hệ thống giám sát thông minh gồm công nghệ Digital Twin, camera AI, kiểm soát trạng thái của toàn bộ hệ thống thiết bị và hoạt động khai thác hàng hóa, phát hiện và cảnh báo về các hành vi bất thường, giúp xử lý kịp thời các vấn đề phát sinh.
+
+Hệ sinh thái logistics bao gồm phần mềm quản lý kho vận, hệ thống app/web, chuỗi giải pháp công nghệ chuyển phát giám sát trọng lượng, giám sát băng tải, khóa thông minh… đều được phát triển bởi đội ngũ 100% kĩ sư, chuyên gia người Việt, hoàn thiện trong hơn 6 tháng. Trong khi đó, với các hệ thống có quy mô tương tự, các doanh nghiệp lớn trên thế giới mất khoảng 2 năm triển khai để có thể đưa vào sử dụng thực tế.
+
+
+
+Tổ hợp của Viettel Post bao gồm 3 hệ thống: robot AGV, Wheel Sorter Matrix, Cross-belt Sorter. Trong đó, Robot AGV là robot tự hành chia chọn tự động 100% các loại hàng hóa nhẹ, mỏng, hàng có hình dáng đặc thù, tròn lăn, thích hợp với hàng hóa trên sàn thương mại điện tử. Đây là công nghệ robot hiện đại được nhiều đơn vị logistic lớn trên thế giới sử dụng.
+
+Ngoài ra, Wheel Sorter Matrix là hệ thống chia hàng tải, kiện lớn. Cross-belt Sorter là hệ thống chia chọn dạng băng tải có điều khiển chủ động, công suất lớn, phù hợp hàng hóa thanh toán khi nhận hàng (COD), kiện tiêu chuẩn.

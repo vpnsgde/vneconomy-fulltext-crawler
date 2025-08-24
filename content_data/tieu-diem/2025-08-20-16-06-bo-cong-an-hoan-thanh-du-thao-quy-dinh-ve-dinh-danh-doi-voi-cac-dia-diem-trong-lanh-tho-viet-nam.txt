@@ -1,0 +1,77 @@
+Bộ Công an đã hoàn thành dự thảo Quyết định của Thủ tướng
+Chính phủ quy định về Định danh địa điểm để lấy ý kiến đóng góp của cơ quan tổ
+chức, cá nhân.
+
+Theo Bộ Công an, việc
+định danh địa điểm đáp ứng yêu cầu quản lý nhà nước và giúp tối ưu hóa quá
+trình phát triển bền vững. Việc triển khai định danh địa điểm nhằm tạo ra sự đồng
+bộ trong quản lý, khẳng định tính pháp lý cho các công trình, địa điểm và từ đó
+thúc đẩy quá trình phát triển kinh tế - xã hội theo hướng hiện đại và hiệu quả.
+
+Việc ban
+hành quyết định về định danh địa điểm cũng tạo ra cơ sở pháp lý cho việc thực hiện
+các dự án phát triển bền vững, đảm bảo rằng các hoạt động kinh tế không gây hại
+đến môi trường tự nhiên và cộng đồng. Đặc biệt, trong bối cảnh biến đổi khí hậu
+ngày càng nghiêm trọng, việc xác định và quản lý các địa điểm tiềm năng cho các
+Dự án năng lượng tái tạo trở nên càng quan trọng.
+
+Dự thảo gồm 14 Điều quy định về định danh địa điểm đối với
+các địa điểm trong lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam trên nền tảng
+Cơ sở dữ liệu quốc gia về dân cư, hệ thống định danh xác thực điện tử; quyền,
+nghĩa vụ và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan.
+
+Dự thảo Quyết định nêu rõ định danh địa điểm là hoạt động
+thu thập, tạo lập, gắn nhãn duy nhất cho một địa điểm hoặc vị trí cụ thể. Bao gồm
+tập hợp các thông tin nhằm xác định chính xác vị trí của một địa điểm hoặc một
+đối tượng bất kỳ gắn liền với đất trong hệ chiếu không gian địa lý.
+
+Mã định danh địa điểm điện tử là mã số định danh duy nhất được
+cấp cho mỗi địa điểm trong không gian địa lý, có cấu trúc phân cấp, được quản
+lý tập trung và chia sẻ thống nhất trong toàn quốc, dùng để xác thực và tham
+chiếu địa điểm trong các hoạt động có liên quan.
+
+Hệ thống quản lý việc định danh địa điểm bao gồm các thành
+phần chính sau đây:
+
+- Cơ sở dữ liệu định danh địa điểm là hệ thống thông tin được
+xây dựng tập trung, thống nhất trên phạm vi toàn quốc, được số hóa và chuẩn hóa
+nhằm lưu trữ, quản lý toàn bộ thông tin về nhận diện duy nhất của mọi địa điểm
+dưới dạng dữ liệu điện tử, bao gồm các thuộc tính không gian, thuộc tính mô tả
+(bao gồm thuộc tính thời gian) và mối quan hệ logic giữa các địa điểm.
+
+- Hạ tầng kỹ thuật bao gồm các trang thiết bị phần cứng, phần
+mềm và các công cụ có liên quan phục vụ việc thu thập, quản lý, chia sẻ dữ liệu
+địa điểm bảo đảm an toàn và bảo mật, đảm bảo tương thích với các hệ thống thông
+tin/CSDL quốc gia.
+
+Đáng chú ý, dự thảo Quyết định quy định mã định danh địa điểm
+là tập hợp chuỗi ký tự được gán cho địa điểm cụ thể. Mỗi địa điểm được gán mã định
+danh riêng biệt, không trùng lặp, bảo đảm tính ổn định, mở rộng và khả năng
+liên kết, tích hợp, kết nối, chia sẻ, khai thác thông tin trong Cơ sở dữ liệu
+quốc gia, Cơ sở dữ liệu chuyên ngành.
+
+Mã định danh địa điểm bao gồm phần mã hành chính và mã định
+danh:
+
+- Phần mã hành chính gồm 06 ký tự: Mã tỉnh, thành phố trực
+thuộc Trung ương 02 ký tự; mã xã, phường, thị trấn 04 ký tự.
+
+- Phần mã định danh bao gồm 06 ký tự được tạo ngẫu nhiên.
+
+Mã định danh địa điểm được khởi tạo tự động từ hệ thống và
+được gán khi khai báo đối tượng định danh địa điểm.
+
+Thông tin liên quan đến định danh địa điểm bao gồm: mã định
+danh địa điểm; đối tượng định danh địa điểm; địa chỉ chi tiết; tên đường, phố;
+phường, xã, thị trấn; tỉnh, thành phố trực thuộc Trung ương; mã bưu chính; thông tin toạ độ trên hệ quy chiếu và hệ tọa độ quốc gia Việt
+Nam (VN-2000) hoặc hệ tọa độ GPS của địa điểm.
+
+Các thông tin bổ sung: thông tin về chủ sở hữu, giấy chứng
+nhận sử dụng đất, loại hình sử dụng đất,... Trạng thái hoạt động của địa điểm:
+đang hoạt động, sử dụng, ngừng sử dụng,…
+
+Đối tượng được định danh địa điểm là các công trình kiến
+trúc, công trình xây dựng, kết cấu xây dựng, địa danh hoặc bất cứ cấu trúc vật
+lý gắn liền với đất (trừ các đối tượng thuộc Danh mục bí mật nhà nước trong
+lĩnh vực quốc phòng) cần xác định vị trí  để phục vụ công tác quản lý nhà
+nước, phục vụ nhu cầu khai thác định danh địa điểm của cá nhân, tổ chức..

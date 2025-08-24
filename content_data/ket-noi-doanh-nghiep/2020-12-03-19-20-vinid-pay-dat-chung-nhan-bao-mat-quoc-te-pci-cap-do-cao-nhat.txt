@@ -1,0 +1,9 @@
+Ngày 3/12/2020, Ví điện tử VinID Pay đã được Hội đồng Tiêu chuẩn Bảo mật - PCI Security Standards Council - công bố đạt chứng nhận bảo mật quốc tế Payment Card Industry Data Security Standard (PCI DSS) cấp độ 1 - cấp độ cao nhất.
+
+PCI DSS Certificate là chứng nhận bảo mật được công nhận toàn cầu cho các đơn vị cung cấp dịch vụ thanh toán thẻ quốc tế với hơn 200 yêu cầu về các chuẩn mực cần được áp dụng để bảo vệ quyền lợi của chủ thẻ (khách hàng) và đơn vị phát hành thẻ. Trong đó, cấp độ 1 của PCI DSS là cấp độ cao nhất thường chỉ dành cho các Ngân hàng và đơn vị phát hành thẻ quốc tế hoặc những nhà cung cấp sở hữu trên 6 triệu giao dịch/năm.
+
+Ông Phạm Anh Liêm, Giám đốc An ninh bảo mật Công ty Cổ phần OneID (đơn vị chủ quản VinID Pay) cho biết: "Việc đạt chứng nhận bảo mật quốc tế PCI DSS cấp độ 1 là minh chứng cho sự nỗ lực không ngừng nghỉ của Ví điện tử VinID nhằm mang đến cho đối tác, khách hàng một nền tảng thanh toán an toàn và thuận tiện nhất. Chúng tôi luôn cam kết đảm bảo an toàn tuyệt đối cho các giao dịch và thông tin quan trọng của khách hàng, những người tin tưởng sử dụng dịch vụ của VinID Pay".
+
+Trong năm 2020, Ví điện tử VinID Pay đã vinh dự nhận được hàng loạt giải thưởng quan trọng gồm Top 10 công ty công nghệ thông tin đáng chú ý trong lĩnh vực Fintech, Ví điện tử có giao diện thân thiện với người dùng cho Tạp chí Nhịp cầu đầu tư bình chọn và Ví điện tử có công nghệ phần mềm lõi (core banking) tốt nhất.
+
+Với việc được công nhận chứng nhận bảo mật quốc tế cấp cao nhất, đối tác và khách hàng của Ví điện tử VinID Pay hoàn toàn yên tâm về tính bảo mật của hệ thống. Đây cũng là nền tảng quan trọng để VinID Pay tiếp tục mở rộng hợp tác với các đối tác lớn trên toàn cầu.

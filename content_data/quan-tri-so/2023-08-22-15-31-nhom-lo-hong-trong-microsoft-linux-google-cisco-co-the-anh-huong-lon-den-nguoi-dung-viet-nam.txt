@@ -1,0 +1,23 @@
+Cục an toàn thông tin cho biết trong tuần qua, các tổ chức quốc tế đã công bố và cập nhật ít nhất 871 lỗ hổng, trong đó có 304 lỗ hổng mức Cao, 215 lỗ hổng mức trung bình, 3 lỗ hổng mức thấp và 349 lỗ hổng chưa đánh giá. Trong đó, có ít nhất 130 lỗ hổng cho phép chèn và thực thi mã lệnh.
+
+Hệ thống kỹ thuật của Cục qua rà quét trên không gian mạng Việt Nam, cho biết có 7 lỗ hổng/nhóm lỗ hổng trên các sản phẩm, dịch vụ công nghệ thông tin phổ biến, có thể gây ảnh hưởng lớn đến người dùng ở Việt Nam như: Nhóm 74 lỗ hổng trong Microsoft, nhóm 4 lỗ hổng trong Linux, nhóm 38 lỗ hổng trong Google, nhóm 77 lỗ hổng trong Wordpress, nhóm 15 lỗ hổng trong Zoom, nhóm 51 lỗ hổng trong Apache, nhóm 03 lỗ hổng trong Cisco.
+
+Cụ thể, có một số lỗ hổng trên các sản phẩm dịch vụ phổ biến tại Việt Nam như nhóm 74 lỗ hổng trong Microsoft cho phép đối tượng tấn công thực hiện leo thang đặc quyền, thực thi mã từ xa, thực hiện lỗi Spoofing, tấn công từ chối dịch vụ.
+
+Với nhóm 4 lỗ hổng trong Linux cho phép đối tượng tấn công thực hiện leo thang đặc quyền, truy cập và thực hiện các hành động trái phép.
+
+Nhóm 77 lỗ hổng trong Wordpress cho phép đối tượng tấn công thực hiện tấn công chèn SQL, tấn công CSRF, thực hiện tấn công XSS, truy cập và thực hiện các hành động trái phép.
+
+Nhóm 5 lỗ hổng trong Apache cho phép đối tượng tấn công thực thi mã từ xa, thực hiện tấn công XSS, truy cập và thực hiện các hành động trái phép.
+
+Đây là những lỗ hổng đã có thông tin xác nhận và bản vá từ hãng.
+
+Riêng với 3 nhóm lỗ hổng của Google, Zoom và Cisco chưa có thông tin xác nhận và bản vá. Theo đó, nhóm 38 lỗ hổng trong Google và nhóm 15 lỗ hổng trong Zoom cho phép đối tượng tấn công thực hiện leo thang đặc quyền, tấn công từ chối dịch vụ, truy cập và thực hiện các hành động trái phép.
+
+Nhóm 3 lỗ hổng trong Cisco cho phép đối tượng tấn công thực thi mã tùy ý, truy cập và thực hiện các hành động trái phép.
+
+Cùng với việc cảnh báo các lỗ hổng trên, Cục an toàn thông tin cho biết tuần qua tại Việt Nam, có rất nhiều máy chủ, thiết bị có thể trở thành nguồn phát tán tấn công DRDoS. Cụ thể, trong tuần có 50.652, (giảm so với tuần trước 51.022) thiết bị có khả năng bị huy động và trở thành nguồn tấn công DRDoS. Các thiết bị này đang mở sử dụng các dịch vụ NTP- giao thức đồng bộ thời gian mạng (123), DNS- hệ thống phân giải tên miền (53), Chargen (19).
+
+Cơ quan an ninh mạng cũng ghi nhận 381 trường hợp tấn công vào trang/cổng thông tin điện tử của Việt Nam, trong đó toàn bộ là tấn công lừa đảo (Phishing). Ngoài ra, hệ thống cũng ghi nhận có 365 phản ánh trường hợp lừa đảo do người dùng Internet Việt Nam phản ánh về Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) qua hệ thốngcanhbao.khonggianmang.vn. Qua kiểm tra, phân tích có nhiều trường hợp lừa đảo giả mạo website của ngân hàng, các trang thương mại điện tử nổi tiếng như: web giả mạo Amazon, Tiki, Shopee, Facebook…
+
+Các chuyên gia an ninh mạng cho biết trên thế giới có nhiều các trang web giả mạo các tổ chức, doanh nghiệp, nhà cung cấp, dịch vụ lớn như: Các mạng xã hội, ngân hàng, thư điện tử… Việt Nam có nhiều người dùng các dịch vụ, ứng dụng nước ngoài (cả miễn phí và tính phí) như các mạng xã hội, Payment, Apple, Paypal… Do đó, người dùng cần phải cảnh giác với những trang web giả mạo để đánh cắp tài khoản, chuyên gia an ninh mạng khuyến cáo.

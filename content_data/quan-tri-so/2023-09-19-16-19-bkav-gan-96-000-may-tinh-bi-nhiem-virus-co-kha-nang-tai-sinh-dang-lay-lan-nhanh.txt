@@ -1,0 +1,13 @@
+Theo chuyên gia của Tập đoàn an ninh mạng Bkav, một loại virus lợi dụng tiến trình chuẩn svchost.exe trên máy tính để ăn sâu vào hệ thống và “tái sinh” đang có dấu hiệu tăng cao tại Việt Nam. Hệ thống giám sát và cảnh báo mã độc của Bkav ghi nhận có gần 96.000 máy bị nhiễm loại virus này trong tháng 8.
+
+Điều đáng nói, cho dù người dùng phát hiện và đã xóa tệp tin độc hại theo cách thủ công, virus này vẫn có thể “tái sinh” nhờ vào việc lợi dụng tiến trình svchost.exe trong hệ thống. Không chỉ lợi dụng svchost.exe, virus này còn tìm kiếm những phần mềm mặc định đi kèm với các phiên bản Windows như OneDrive hay Notepad, để thực hiện hành vi tương tự. Điều này gây khó khăn trong việc xử lý hay gỡ bỏ triệt để chúng.
+
+Đại diện Bkav cho biết, nguy hiểm hơn, không chỉ khó gỡ bỏ, virus này còn có cơ chế lây lan qua USB bằng cách ẩn đi các dữ liệu có trong USB, thay vào đó là các shortcut giả mạo dữ liệu. Các shortcut này chứa lệnh gọi tới virus đang bị ẩn trong USB.
+
+"Nếu người dùng mở các shortcut giả mạo này, virus sẽ được thực thi. Cuối cùng, sau khi thâm nhập và tồn tại được trên máy tính của nạn nhân, virus vô hiệu hóa các biện pháp bảo vệ sẵn có của Windows và đợi thời cơ tải xuống tệp tin độc hại khác, nhằm đánh cắp thông tin của người dùng và gửi dữ liệu về máy chủ của kẻ tấn công", đại diện Bkav cho hay.
+
+Để tránh bị tấn công bởi mã độc này, các chuyên gia Bkav khuyến cáo: Nâng cao cảnh giác khi sử dụng các thiết bị ngoại vi để sao chép dữ liệu giữa các máy tính. Các doanh nghiệp, tổ chức có thể đưa ra chính sách không sử dụng USB trong doanh nghiệp, tổ chức của mình, nếu cần thiết.
+
+Ngoài ra, luôn bật chế độ hiện file ẩn và kiểm tra shortcut trong USB trước khi click vào. Việc giả mạo shortcut trong USB cũng được rất nhiều dòng virus khác sử dụng.
+
+Cuối cùng, sử dụng và cập nhật thường xuyên các giải pháp, phần mềm an ninh mạng có bản quyền để bảo vệ máy tính và hệ thống khỏi những mối nguy hại khó phát hiện hoặc đòi hỏi xử lý phức tạp mới gỡ bỏ được triệt để virus.

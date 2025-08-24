@@ -1,0 +1,19 @@
+Cục Viễn thông (Bộ Thông tin và Truyền thông) vừa cho biết, tuyến cáp quang biển quốc tế AAG vừa hoàn thành việc sửa chữa, khôi phục lại toàn bộ dung lượng. Như vậy, đến nay, 4/5 tuyến cáp quang biển quốc tế gặp sự cố thời gian qua đã được sửa xong, khôi phục lại kênh truyền trên các tuyến. Hiện, chỉ còn tuyến cáp biển APG vẫn đang gặp lỗi.
+
+AAG là 1 trong 5 tuyến cáp quang biển quốc tế đang chiếm phần lớn dung lượng kết nối Internet từ Việt Nam đi quốc tế, cùng với 4 tuyến khác gồm SMW3, AAE-1, APG và IA (còn gọi là Liên Á).
+
+Đồng thời, AAG cũng là tuyến cáp kết nối trực tiếp khu vực Đông Nam Á với Mỹ. Đây là 1 trong những tuyến cáp quan trọng, có giá thành tốt để các nhà mạng Việt Nam kết nối ra quốc tế.
+
+Thời gian qua, cáp biển AAG lần lượt gặp các sự cố vào tháng 2/2022 và tháng 6/2022 trên các cáp nhánh ở cả 2 hướng kết nối đi Hong Kong, Trung Quốc và Singapore.
+
+Hai tuyến cáp biển IA và SMW3 đã hoàn thành việc sửa chữa trong tháng 4. Tiếp đó, vào ngày 20/5, sự cố xảy ra cuối tháng 11/2022 trên phân đoạn S1H của tuyến cáp AAE-1 cũng đã được khắc phục xong, khôi phục hoàn toàn dung lượng.
+
+Chiến lược đưa Việt Nam trở thành Hub kết nối của khu vực nhìn từ bức tranh toàn cảnh về hạ tầng cáp quang biển Việt Nam, sự mong manh của Internet trong nước với những tháng năm triền miên đứt cáp, cũng như tỷ lệ số cáp mà các nước trong khu vực đang khai thác...
+
+Tại cuộc họp báo tháng 5 của Bộ Thông tin và Truyền thông diễn ra ngày 5/5, ông Nguyễn Thành Phúc, Cục trưởng Cục Viễn thông cho biết, việc xảy ra sự cố đồng thời với cả 5 tuyến cáp quang biển thời gian qua là trường hợp bất khả kháng, ảnh hưởng không chỉ với Việt Nam mà cả các nước trong khu vực có sử dụng các tuyến cáp này. Cục Viễn thông cũng cho biết, 3 tuyến cáp còn lại sẽ hoàn thành sửa chữa trong tháng 5 và tháng 6.
+
+Trước đó, vào đầu năm 2023, cả 5 tuyến cáp quang biển quốc tế đều lần lượt gặp sự cố. Tình huống hy hữu này gây ra những ảnh hưởng nhất định đến chất lượng dịch vụ kết nối Internet Việt Nam đi quốc tế, đồng thời cũng tác động trực tiếp đến hoạt động kinh doanh của các doanh nghiệp công nghệ.
+
+Ngay sau khi sự cố xảy ra, Cục Viễn thông đã chỉ đạo các doanh nghiệp triển khai nhiều phương án như chủ động, nhanh chóng phối hợp với thành viên hệ thống tuyến cáp bị sự cố, đo đạc, xác định vị trí và loại sự cố để tiến hành sửa chữa khắc phục trong thời gian sớm nhất. Đồng thời, phối hợp các đối tác nước ngoài mua thêm dung lượng các tuyến cáp đất liền để mở rộng dung lượng và chuyển tải lưu lượng.
+
+Qua giám sát của Cục Viễn thông, đến thời điểm hiện tại, với việc triển khai đồng bộ nhiều giải pháp, trải nghiệm của người dùng dịch vụ Internet quốc tế tương đối ổn định, đáp ứng được nhu cầu.

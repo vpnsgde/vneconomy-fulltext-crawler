@@ -1,0 +1,21 @@
+Theo Independent, lỗ hổng này có tên “Downfall” và ảnh hưởng đến bộ xử lý Intel - hiện được sử dụng trên các máy tính cá nhân và máy chủ đám mây.
+
+Downfall cho phép tin tặc đánh cắp mật khẩu, khóa mã hóa và đánh cắp dữ liệu riêng tư của người dùng.
+
+Moghimi đã thông báo cho Intel về vấn đề này và hiện tại Intel đã cung cấp các bản cập nhật vi mã để vá lỗ hổng bảo mật, đồng thời khuyến cáo người dùng bị ảnh hưởng nên cập nhật càng sớm càng tốt.
+
+Tuy nhiên, chuyên gia của Google cảnh báo vấn đề đã có thể ảnh hưởng đến hàng tỷ thiết bị.
+
+Trong một bài đăng trên blog, chuyên gia bày tỏ: “Nếu các nhà nghiên cứu của Google không phát hiện ra những lỗ hổng này, mà thay vào đó là các nhóm hacker, chúng sẽ có điều kiện thuận lợi để tấn công người dùng Internet”.
+
+Hình thức xâm nhập diễn ra theo cách vượt qua ranh giới an toàn dành cho phầm mềm khỏi các cuộc tấn công vào phần cứng. Tin tặc từ đó có khả năng tìm thấy dữ liệu thuộc về những người dùng khác trên hệ thống và đánh cắp thông tin nhạy cảm, ví dụ như mật khẩu, thông tin thẻ ngân hàng, tin nhắn, email.
+
+“Lỗ hổng này là do các tính năng tối ưu hóa bộ nhớ trong bộ xử lý Intel vô tình tiết lộ các thanh ghi phần cứng nội bộ. Điều này cho phép các phần mềm không đáng tin cậy truy cập dữ liệu được lưu trữ bởi các chương trình khác, vốn chỉ có chủ sở hữu truy cập vào được”, Moghimi phân tích.
+
+Bản chất của cuộc tấn công có nghĩa là tin tặc sẽ cần phải sử dụng cùng một bộ xử lý vật lý với người dùng. Nhưng chúng có thể sử dụng các phần mềm độc hại hoặc mô hình điện toán dùng chung của điện toán đám mây để tiến hành xâm nhập.
+
+Đối với người tiêu dùng, tất cả PC hoặc máy tính xách tay có bộ xử lý Intel Core thế hệ thứ 6 “Skylake” cho đến thế hệ thứ 11 “Tiger Lake” đều chứa lỗ hổng bảo mật. Điều này có nghĩa là lỗ hổng đã tồn tại ít nhất từ năm 2015, khi Skylake được phát hành.
+
+Về phía Intel, đơn vị này cho biết sự cố không ảnh hưởng đến các phiên bản chip gần đây của họ và bản sửa lỗi không gây ra sự cố lớn. Song, công ty này vẫn khuyến cáo người dùng có thể vô hiệu hóa bản sửa lỗi, nếu chấp nhận những hạn chế nhỏ có thể xảy ra về mặt hiệu suất.
+
+Về phía chuyên gia của Google, Moghimi cho rằng phương án của Intel có thể làm giảm hiệu suất lên đến 50% trong một số trường hợp nhất định.

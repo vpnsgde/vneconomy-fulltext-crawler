@@ -1,0 +1,25 @@
+Uỷ ban Chứng khoán Nhà nước, Bộ Tài chính vừa có văn bản số số 3277/UBCKNN-PTTT gửi Sở Giao dịch Tp.HCM (HOSE) về việc chấp thuận đưa giải pháp xử lý sự cố giao dịch vào vận hành.
+
+Cụ thể, Bộ chấp thuận kiến nghị của Sở về việc đưa giải pháp xử lý sự cố hệ thống giao dịch tại HoSE bằng cách sử dụng phần mềm của Sở Giao dịch Chứng khoán Hà Nội do Tập đoàn FPT cung cấp (giải pháp xử lý sự cố giao dịch) vào vận hành chính thức từ ngày 5/7/2021.
+
+Đồng thời, HOSE phải chịu trách nhiệm về tính chính xác của các nội dung tại Biên bản kiểm thử với FPT, tổ chức kiểm tra, đánh giá, rà soát kỹ, đảm bảo vận hành hệ thống giao dịch an toàn, thông suốt.
+
+Ngoài ra, HOSE cũng sẽ hoàn tất các thủ tục tiếp nhận hệ thống, cung cấp dịch vụ và ký kết thoả thuận với FPT trước khi hệ thống chính thức đi vào vận hành.
+
+Bên cạnh đó, HOSE cũng phải thống nhất với FPT vè các nội dung công bố trên các phương tiện thông tin truyền thông và tổ chức truyền thông về việc chính thức đưa giải pháp xử lý sự cố giao dịch vào sử dụng trên quy tắc không tổ chức sự kiện tập trung.
+
+Trước đó, chia sẻ về hành trình 100 ngày sửa nghẽn lệnh cho HOSE, ông Dương Dũng Triều, Chủ tịch Công ty FPT IS thông  tin, sau khi nhận trách nhiệm với Bộ Tài chính, đội ngũ đã lên kế hoạch 100 ngày và chia thành 5 giai đoạn khác nhau, gồm: Giai đoạn khảo sát hiện trạng HOSE và tìm ra vấn đề chỉnh sửa.
+
+Giai đoạn chỉnh sửa phần mềm theo 3 nội dung chính: Chỉnh sửa hệ thống giao dịch phù hợp với giao dịch của HOSE; Chỉnh sửa hệ thống tiếp nhận lệnh của HNX theo chuẩn kết nối của các công ty chứng khoán ở HOSE và Tích hợp giao dịch mới vào hệ thống đang có của HOSE và hệ thống liên quan như Trung tâm lưu ký chứng khoán (VSD).
+
+Kiểm tra 20 công ty chứng khoán lớn nhất và 73 công ty chứng khoán khác đang ở giai đoạn cuối cùng kiểm tra chuyển đổi hệ thống.
+
+Giai  đoạn tiếp theo là kiểm tra an ninh bảo mật, truyền tải liên quan đến ngưỡng hệ thống đảm bảo hệ thống ngưỡng thông suốt. Thực hiện song song quy trình vận hành khắc phục sự cố để khi có sự cố thì đưa ra hành động khắc phục.
+
+“HOSE và FPT phối hợp chặt chẽ, FPT cử 50 chuyên gia và HOSE cử 30 chuyên gia cùng nhau làm việc. Qua quá trình hợp tác đó, chúng tôi đánh giá cao sự hợp tác của HOSE. Hai đội đang làm việc rất vất vả, thậm chí làm việc đến 4g sáng. Chúng tôi duy trì cường độ làm việc này khi hệ thống sẵn sàng bàn giao cho HOSE để vận hành”, ông Triều cho biết tại toạ đàm.
+
+Đánh giá về hệ thống mới của HOSE do FPT xây dựng, theo ông Triều, khác biệt với hệ thống cũ của Thái Lan, FPT đặt mục tiêu số lượng lệnh giao dịch lên 3-5 triệu lệnh/ngày. Thứ hai, hệ thống mới sẽ bỏ cơ chế phân bổ lệnh, các công ty chứng khoán cứ đẩy lệnh theo năng lực của họ.
+
+Thứ ba, quan trọng nhất là làm chủ hệ thống. Có hai việc là làm chủ quá trình, giám sát khắc phục sự cố và khi thị trường quá tải chủ động nâng cấp ứng dụng, có thuật toán để đáp ứng tăng trưởng của thị trường thời gian qua.
+
+“Ngoài ra, FPT cũng đặt mục tiêu ngưỡng số lượng lệnh gửi vào trên một giây từ các công ty chứng khoán nhằm đáp ứng cao hơn nhiều so với hệ thống hiện nay. Ngay cả hệ thống Thái Lan khi hệ thống đạt 90% chỉ có 1 số biểu hiện, gần đến ngưỡng thì sẽ chậm dần, kết quả khớp lệnh chậm dần. Chúng tôi đang bàn và thảo luận với HOSE để khắc phục kịch bản, sự cố. Năng lực hệ thống mới của FPT lấy 2 chỉ tiêu là tổng lượng lệnh 1 ngày và số lượng lệnh vào trong 1 giây,” lãnh đạo FPT IS nhấn mạnh.

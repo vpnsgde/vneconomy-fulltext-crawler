@@ -1,0 +1,51 @@
+Theo số liệu của Cục Thống kê, Việt Nam có 34.476 doanh nghiệp dịch vụ logistics với tổng số lao động đang làm việc là 563.354 người.
+
+Báo cáo Logistics Việt Nam 2024 ước tính đến năm 2035, tầm nhìn đến năm 2050, nhu cầu bổ sung nguồn nhân lực logistics sẽ trên 350.000 người. Trong khi đó, khả năng đáp ứng nhu cầu về nguồn nhân lực logistics chỉ đạt khoảng 10% nhu cầu của thị trường.
+
+Phát biểu tại Đại hội nhiệm kỳ II của Hiệp hội Phát triển Nhân lực Logistics Việt Nam (VALOMA), ông Đặng Văn Huấn, Phó Vụ trưởng Vụ Giáo dục Đại học, Bộ Giáo dục và Đào tạo, đã chỉ ra những thách thức trong đào tạo nhân lực logistics tại Việt Nam.
+
+Theo đó, hoạt động đào tạo nhân lực logistics tại Việt Nam đang đối mặt với nhiều khó khăn cả ở 4 khía cạnh chính là: chương trình, giảng viên, học liệu, kết nối doanh nghiệp và cơ chế chính sách quản lý.
+
+Về chương trình đào tạo, theo đại diện Bộ Giáo dục và Đào tạo, nhiều chương trình chưa cập nhật kịp thời với sự phát triển nhanh chóng của công nghệ trong ngành logistics như e-logistics, trí tuệ nhân tạo (AI) trong quản trị chuỗi cung ứng, hay các yêu cầu về ESG (Môi trường - Xã hội - Quản trị) đang ngày càng được nhấn mạnh trong các doanh nghiệp logistics có yếu tố nước ngoài.
+
+Bên cạnh đó, sự thiếu linh hoạt trong thiết kế môn học tích hợp, chưa chú trọng các kỹ năng phân tích dữ liệu, quản lý hệ thống số, cũng làm giảm năng lực thích ứng của người học với thị trường việc làm.
+
+Trong khi đó, đội ngũ giảng viên vẫn là một điểm nghẽn đáng chú ý. Phần lớn giảng viên đang giảng dạy logistics hiện nay đến từ các ngành như: kinh tế, thương mại, vận tải..., chưa có nền tảng đào tạo chuyên sâu về logistics từ đầu. Nhiều giảng viên có năng lực lý thuyết tốt nhưng thiếu trải nghiệm thực tiễn, dẫn đến khoảng cách trong việc truyền tải kiến thức ứng dụng.
+
+Hơn nữa, nguồn học liệu mở hiện vẫn thiếu hụt cả về số lượng lẫn chất lượng. Các tài liệu giảng dạy còn thiên về lý thuyết, thiếu các tình huống thực tế tại Việt Nam và chưa tích hợp tốt với các mô hình mô phỏng logistics.
+
+Công cụ phần mềm chuyên ngành như TMS (hệ thống quản lý vận tải), WMS (hệ thống quản lý kho) và ERP (hệ thống hoạch định nguồn lực doanh nghiệp)... tuy đã xuất hiện trong một số chương trình tiên tiến, nhưng chưa được triển khai phổ biến và sử dụng thường xuyên trong quá trình học tập, đánh giá năng lực thực hành của sinh viên.
+
+Vấn đề kết nối với doanh nghiệp là yếu tố cốt lõi trong đào tạo logistics nhưng đa phần cơ sở đào tạo chưa xây dựng được cơ chế phối hợp dài hạn với doanh nghiệp. Việc đưa sinh viên đi thực tập ở một số cơ sở đào tạo vẫn mang tính chất tự phát, chưa có tiêu chuẩn đánh giá cụ thể. Đồng thời, nhiều doanh nghiệp ngại tiếp nhận sinh viên thực tập vì không nhìn thấy lợi ích cụ thể, chưa có chính sách hỗ trợ và e ngại về thời gian, nhân lực hướng dẫn.
+
+Ngoài ra, chính sách quản lý vĩ mô, hệ thống quản lý đào tạo logistics chưa có tính liên kết ngành; chưa có một tiêu chuẩn kỹ năng nghề quốc gia thống nhất, cũng như thiếu hệ thống đánh giá đầu ra chung cho ngành. “Điều này dẫn tới khó khăn cho việc tạo ra mặt bằng năng lực chung cho người học khi bước vào thị trường lao động”, ông Huấn nhận định.
+
+Trước thực trạng này, ông Huấn cho biết thời gian qua, thông qua nhiều hoạt động VALOMA đã nâng cao năng lực của giảng viên; hỗ trợ các trường về xây dựng; rà soát hoàn thiện chương trình đào tạo, công tác giáo trình, học liệu; chủ trì biên soạn Báo cáo Đào tạo VALOMA (định kỳ 2 năm/lần); kết nối doanh nghiệp với nhà trường; hỗ trợ Mạng lưới Câu lạc bộ sinh viên Logistics Việt Nam; huy động nguồn lực hỗ trợ sinh viên học các ngành liên quan đến logistics và chuỗi cung ứng; tư vấn chính sách cho các cơ quan quản lý nhà nước về đào tạo, sử dụng nhân lực ngành logistics…
+
+Song để nâng cao chất lượng và số lượng nguồn nhân lực đáp ứng yêu cầu phát triển ngành logistics của Việt Nam trong thời gian tới, ông Huấn đề nghị cần tiếp tục phát huy vai trò của Hiệp hội trong phát triển nguồn nhân lực logistics.
+
+Cụ thể, nâng cao năng lực của giảng viên và các cơ sở đào tạo; hỗ trợ các trường về xây dựng, rà soát hoàn thiện chương trình đào tạo, công tác giáo trình, học liệu; tư vấn chính sách cho các cơ quan quản lý nhà nước về đào tạo, sử dụng nhân lực ngành logistics.
+
+Về phía các cơ sở đào tạo, cần chủ động cập nhật chương trình đào tạo theo chu kỳ 2 năm/lần, có tham khảo ý kiến chuyên gia, doanh nghiệp và cựu sinh viên, trong đó chủ trọng cập nhật các xu hướng mới như e-logistics, logistics số, trí tuệ nhân tạo (AI) trong chuỗi cung ứng, quản trị ESG, và kinh tế tuần hoàn; tăng cường đầu tư phần mềm mô phòng, dữ liệu ngành và bài toán thực tế sẽ giúp người học dễ tiếp cận thực tiễn hơn.
+
+Đồng thời, mô hình "doanh nghiệp đồng hành - giảng viên song hành - sinh viên chủ động" cần được nhân rộng trong toàn bộ chu trình đào tạo, từ thiết kế học phần đến đánh giá đầu ra của các chương trình đào tạo.
+
+Thông qua Hiệp hội, các trường cần tăng cường chia sẻ thông tin về chương trình đào tạo, công nhận tín chỉ, tài liệu, học liệu giảng dạy và các nền tảng số, cơ sở dữ liệu phục cho đào tạo, nghiên cứu ngành logistics.
+
+Bộ Giáo dục và Đào tạo cam kết sẽ tăng cường phát triển hệ thống học liệu mở; các nền tảng MOOCs (nền tảng học trực tuyến mở), làm cơ sở cho các cơ sở đào tạo chia sẻ tài nguyên mở phục vụ đào tạo, nghiên cứu trong lĩnh vực logistics.
+
+Nhấn mạnh đến vai trò kết nối, ông Phạm Trung Giang, Phó Vụ trưởng Vụ tổ chức phi chính phủ, Bộ Nội vụ, đề xuất trong nhiệm kỳ tới, Hiệp hội cần tiếp tục phát huy vai trò là tổ chức tiên phong trong kết nối, điều phối và dẫn dắt sự phát triển nhân lực ngành logistics.
+
+Đơn cử như thông qua các hoạt động: Tăng cường hợp tác giữa cơ sở đào tạo - doanh nghiệp - địa phương; đẩy mạnh nghiên cứu, dự báo nhu cầu nhân lực và phát triển kỹ năng mới gắn với chuyển đổi số và cách mạng công nghiệp 4.0.
+
+Mặt khác, tham gia phản biện, tư vấn chính sách về giáo dục nghề nghiệp, chuẩn nghề nghiệp và phát triển kỹ năng nghề quốc gia; mở rộng hợp tác quốc tế để tiếp cận các mô hình đào tạo hiện đại, tiêu chuẩn quốc tế và chương trình trao đổi chuyên gia…
+
+
+
+Phiên họp thứ nhất của Ban Chấp hành nhiệm kỳ mới (2025 – 2029), Hiệp hội phát triển Nhân lực Logistics Việt Nam đã bầu Ban Thường vụ VALOMA gồm 8 người:
+
+PGS.TS Nguyễn Thanh Chương – Bí thư Đảng ủy, Chủ tịch Hội đồng Trường Đại học Giao thông Vận tải giữ chức vụ Chủ tịch VALOMA.
+
+Các Phó Chủ tịch VALOMA gồm: PGS.TS Trịnh Thị Thu Hương – Trường Đại học Ngoại thương; PGS.TS Hồ Thị Thu Hòa – Trường Đại học Quốc tế, ĐHQG TP. Hồ Chí Minh; TS. Lê Ngọc Trung – Trường Cao đẳng Kinh tế Đối ngoại. TS. Nguyễn Thị Vân Hà - Trường Đại học GTVT là Tổng Thư ký VALOMA.
+
+Ngoài ra còn có 3 phó Tổng Thư ký đến từ Công ty Viettel Post; Trường Đại học Kinh tế, Đại học Đà Nẵng; Công ty TNHH Tân Cảng - STC.

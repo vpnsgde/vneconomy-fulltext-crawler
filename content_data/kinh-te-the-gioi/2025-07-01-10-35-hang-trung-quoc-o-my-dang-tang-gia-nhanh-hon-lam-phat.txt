@@ -1,0 +1,37 @@
+Đây là kết luận từ một phân tích với hơn 1.400 mặt hàng khác nhau được DataWeave thực hiện cho hãng tin Reuters.
+
+Phân tích cho thấy tốc độ tăng giá của các mặt hàng này bắt đầu nhanh hơn vào tháng 5 - một dấu hiệu cho thấy chính sách thuế quan của Tổng thống Mỹ Donald Trump đang bắt đầu tác động tới giá cả tiêu dùng.
+
+Cụ thể, giá trung vị của một giỏ hàng gồm hơn 1.400 sản phẩm có xuất xứ Trung Quốc và bán trên Amazon.com cho người mua ở Mỹ đã tăng 2,6% trong giai đoạn từ tháng 1 đến tháng 6/2025, cao hơn so với tỷ lệ lạm phát ở Mỹ của các mặt hàng cơ bản trong giai đoạn từ tháng 12/2024 đến tháng 5/2025. Số liệu lạm phát tháng 6 của Mỹ sẽ được công bố vào giữa tháng 7.
+
+Tốc độ tăng giá có sự dao động tùy theo mặt nhưng cũng có một số mặt hàng giảm giá. Trong 6 tháng tính tới tháng 5/2025, chỉ số giá tiêu dùng (CPI) của các mặt hàng chủ chốt - không bao gồm dịch vụ - tăng 1%, tương ứng với mức tăng tính theo năm là 2%.
+
+Cả dữ liệu liên bang và nghiên cứu của DataWeave đều cho thấy giá hàng hóa có xu hướng tăng trong vài tháng qua, khi thuế quan bắt đầu gây áp lực lên giá cả.
+
+Trong phân tích trên, DataWeave phân tích hơn 25.000, tập trung vào 1.407 sản phẩm bán trên Amazon bởi nền tảng này liệt kê rõ ràng nguồn gốc xuất xứ là Trung Quốc. Công ty này sử dụng mức giá trung vị thay vì giá trung bình, bởi giá trung bình có thể dẫn đến thông tin sai lệch do sự tăng đột biến trong ngắn hạn hoặc giá trị cao/thấp bất thường. Đây là các mặt hàng được bán trực tiếp bởi Amazon hoặc các bên thứ ba. Trên nền tảng Amazon, hàng hóa từ các nhà cung cấp bên thứ ba chiếm khoảng 62% toàn bộ hàng hóa.
+
+Các mặt hàng ghi nhận giá tăng nhanh nhất gồm đồ dùng học tập và văn phòng đồ điện tử như máy in và máy hủy tài liệu, điã CD, DVD, đồ gia dụng, nội thất…
+
+Năm 2024, Trung Quốc xuất khẩu 438,9 tỷ USD hàng hóa vào Mỹ và là nhà cung cấp lớn toàn cầu của tất cả các mặt hàng trên.
+
+Trong số 1.407 mặt hàng được theo dõi trong phân tích của DataWeave từ tháng 1 đến ngày 17/6/2025, có 475 mặt hàng tăng giá, 633 mặt hàng không thay đổi giá và 299 mặt hàng giảm giá. Ví dụ, máy đun nước điện Hamilton Beach tăng từ mức trung vị 49,99 USD lên 73,21 USD. Trong khi giá chảo rán GreenPan tăng gấp đôi lên 31,99 USD.
+
+Tới tháng 4, tốc độ tăng của các mặt hàng này chưa đáng kể. Giá chỉ bắt đầu tăng mạnh vào tháng 5 và tăng nhanh hơn vào tháng 6, đặc biệt là ở danh mục nhà ở/nội thất và điện tử với mức tăng trung vị lần lượt là 3,5% và 3,1% trong cả giai đoạn phân tích.
+
+“Yếu tố theo mùa có thể có tác động phần nào, nhưng thời điểm và tốc độ tăng giá cho thấy cú sốc thuế quan đang lan rộng trên khắp chuỗi cung ứng bán lẻ ở Mỹ”, ông Karthik Bettadapura, đồng sáng lập kiêm giám đốc điều hành của DataWeave, nhận xét. “Kể cả mức thuế quan khiêm tốn cũng có thể nhanh chóng gây tác động khi biên lợi nhuận của mặt hàng thấp và chu kỳ tái cung ứng diễn ra nhanh chóng. Vào đầu tháng 6, chúng ta chứng kiến làn sóng tăng giá trên diện rộng".
+
+Trong khi đó, phía Amazon cho biết nền tảng này chưa ghi nhận mức giá trung bình của hàng hóa tăng hay giảm đáng kể ngoài sự biến động thông thường.
+
+“Mọi sự so sánh giữa một lượng nhỏ sản phẩm đều không phản ánh tình hình giá cả một cách tổng thể trên hàng trăm triệu sản phẩm đang được bán trên Amazon”, người phát ngôn của Amazon cho biết.
+
+Còn ông Trump cho rằng chính sách thuế quan của mình là cần thiết để tái cân bằng thương mại toàn cầu và thúc đẩy ngành sản xuất của Mỹ.
+
+Hồi tháng 5, ông Andy Jassy, CEO của Amazon, cho biết công ty đã làm việc với các nhà cung cấp trên nền tảng này để nhập hàng vào Mỹ trước khi thuế quan có hiệu lực. Ông khẳng định công ty đang “tập trung hết cỡ” vào việc duy trì giá cả hàng hóa trên nền tảng. Khi đó, vị CEO nói rằng giá cả hàng hóa trên Amazon không tăng đáng kể.
+
+Các nhà bán lẻ cũng đang thận trọng khi chuyển phần chi phí tăng thêm do thuế quan vào giá cả trong bối cảnh tâm lý tiêu dùng suy yếu và lãi suất cao tại Mỹ. Trong tháng 5, doanh số bán lẻ của nước này giảm 0,9% so với tháng trước, trong khi tiêu dùng giảm.
+
+“Chúng tôi cho rằng nhiều doanh nghiệp có thể đang chọn cách trì hoãn việc tăng giá hàng hóa”, ông Claudio Irigoyen, nhà kinh tế tại công ty Bank of America Securities, viết trong một báo cáo đầu tháng này.
+
+HIện tại, Mỹ đang áp mức thuế quan đối ứng chung 10% với hàng hóa từ tất cả các quốc gia, 50% với nhôm và thép, 25% với ô tô và phụ tùng ô tô.
+
+Thuế quan bổ sung với thép có hiệu lực vào ngày 23/6. Theo ông Bettadapura, điều này sẽ làm tăng áp lực giá với các mặt hàng như đồ dùng nhà bếp, ấm đun nước, đồ gia dụng nhà bếp và các mặt hàng gia dụng thiết yếu khác trong vài tháng tới.

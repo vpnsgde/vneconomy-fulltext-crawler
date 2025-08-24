@@ -1,0 +1,35 @@
+Một cánh cửa hấp dẫn về tương lai của tiền tệ và cách sử dụng các loại tiền kỹ thuật số của ngân hàng trung ương (CBDC) đã mở ra ở Thái Lan. Chính phủ Thái Lan đã khởi động chương trình phát tiền điện tử kỹ thuật số cho các hộ gia đình thu nhập thấp thông qua ví điện tử.
+
+Khoảng 50 triệu người Thái có mức thu nhập dưới ngưỡng nhất định sẽ nhận được khoảng 280 USD/người, gần bằng một nửa thu nhập bình quân đầu người hàng tháng. Kế hoạch này được mong chờ sẽ thúc đẩy tiêu dùng hộ gia đình và GDP đất nước.
+
+CBDC được gọi là tiền điện tử của ngân hàng trung ương - là tiền pháp định dưới dạng số, một dạng mới của tiền ngân hàng trung ương. CBDC có đơn vị tài khoản quốc gia, là một nghĩa vụ nợ của ngân hàng trung ương và được đảm bảo bằng tài sản do ngân hàng trung ương nắm giữ. Kết quả là ngân hàng trung ương công nhận độ tin cậy và sự hợp pháp của việc phát hành CBDC.
+
+Để được nhận tiền, người thụ hưởng phải đăng ký sử dụng ví điện tử để số tiền được gửi vào đó. Thời hạn đăng ký là từ ngày 1.8 đến ngày 15.9/2024. Tiền sẽ được gửi vào vào ví điện tử từ quý 4/2024. Sau khi nhận tiền, người dân có thể mua hàng tại hơn 2 triệu cửa hàng bán lẻ, cửa hàng tiện lợi và các cửa hàng tạp hóa gia đình đăng ký tham gia chương trình.
+
+Tuy nhiên khoản tiền này không thể được dùng để mua rượu bia, thuốc lá, vé số, vàng, kim cương, gas, xăng, thiết bị điện tử và một số loại hàng hóa khác.
+
+Với lượng người đủ điều kiện nhận tiền nói trên, Chính phủ ước tính chương trình sẽ tiêu tốn ngân sách khoảng 500 tỷ baht (tương đương 13,8 tỷ USD). Tuy nhiên, ước tính chỉ có khoảng 90% người đủ điều kiện sẽ đăng ký nhận tiền.
+
+Nếu hiệu quả, chương trình sẽ giúp nâng mức tăng trưởng kinh tế của Thái Lan, vốn duy trì ở mức trung bình chưa đầy 2% mỗi năm trong một thập niên qua.
+
+Trước đó Ngân hàng trung ương Thái Lan đã tiến hành thử nghiệm thí điểm đồng baht kỹ thuật số nhưng chưa chính thức triển khai CBDC. Tuy nhiên, ví kỹ thuật số để lưu trữ tiền và sử dụng nó cho các giao dịch vẫn rất phổ biến ở Thái Lan. Việc thêm CBDC làm tùy chọn thanh toán sẽ trở nên rất đơn giản.
+
+Ngân hàng Thái Lan và các ngân hàng trung ương khác đang thử nghiệm CBDC khẳng định rằng nó sẽ cùng tồn tại với tiền quốc gia. Sự tiện lợi của thanh toán kỹ thuật số cũng như chi phí và sự bất cập khi sử dụng tiền giấy và tiền xu đã cảnh báo về sự sụp đổ của phương tiện thanh toán này.
+
+Khoản tiền này phải được chi tiêu trong vòng sáu tháng, một cách tuyệt vời để kích thích tiêu dùng và hạn chế đổ vào tiền tiết kiệm - hình thức không thúc đẩy ngay lập tức hoạt động kinh tế. Số tiền chỉ có thể được chi tiêu tại các cửa hàng nhỏ được ủy quyền trong khu vực địa phương của người nhận.
+
+Thời hạn hiệu lực của dự án là 6 tháng giúp khuyến khích chi tiêu và đảm bảo rằng kích thích có tác động kịp thời đến nền kinh tế, thay vì tích trữ hoặc tiết kiệm.
+
+Tội phạm và những người khác có tiền án gian lận sẽ không đủ điều kiện nhận tiền, trong khi những người bán có tiền án không rõ ràng sẽ không thể tham gia chương trình.
+
+Hiệu quả của việc sử dụng CBDC trong dự án này phụ thuộc đáng kể vào việc áp dụng công nghệ và khả năng tiếp cận của người dân. Những cửa hàng và người dân ở các khu vực xa xôi, hẻo lánh hoặc khu vực có ít dịch vụ công nghệ có thể gặp khó khăn khi truy cập và sử dụng CBDC. Bên cạnh đó một số bộ phận người dân có thể ít hiểu biết về công nghệ có thể gặp nhiều hạn chế sử dụng CBDC một cách hiệu quả.
+
+Quy định cũng hạn chế việc sử dụng CBDC trong bán kính 4km có thể mang lại lợi ích cho doanh nghiệp ở các khu vực đông dân cư hơn so với các doanh nghiệp ở khu vực nông thôn hoặc ít dân cư hơn. Điều này có khả năng dẫn đến sự chênh lệch giữa các vùng về tác động kinh tế của gói hỗ trợ này.
+
+Theo thống kê, số lượng quốc gia đang ở giai đoạn triển khai thí điểm CBDC là 21 tính đến cuối năm 2023. Điều thú vị là đa phần các quốc gia này đều chủ yếu thuộc khu vực châu Á. Các quốc gia phát triển nhất Châu Á đều góp mặt trong danh sách này: Trung Quốc, Nhật Bản, Nga, Ả Rập Xê Út, Ấn Độ,…
+
+Cũng tính hết năm 2023, đã có 130 quốc gia và vùng lãnh thổ đã triển khai nghiên cứu CBDC trên tổng số 195 quốc gia trên thế giới. 130 quốc gia này chiếm 98% GDP toàn cầu, tăng gấp 4 lần so với mức 35 quốc gia vào tháng 5 năm 2020.
+
+Tại châu Á, Trung Quốc, Ấn Độ, Campuchia là 3 quốc gia châu Á đang thực hiện CBDC ở quy mô bán lẻ. Gần 5 năm sau khi Trung Quốc triển khai thử nghiệm đồng nhân dân tệ kỹ thuật số (e-CNY) đầu tiên, chỉ có hai quốc gia châu Á khác thực sự có CBDC bán lẻ đang hoạt động là Ấn Độ và Campuchia.
+
+Ở những nơi khác trong khu vực châu Á, nhiều thí điểm khác nhau đang được tiến hành tại Nhật Bản, Hàn Quốc và các quốc gia Đông Nam Á khác. Họ đang theo dõi chặt chẽ những quốc gia đã áp dụng sớm để cân nhắc những quyết định, tuy nhiên để đi đến việc ra mắt một loại tiền kỹ thuật số hay không vẫn còn là một ẩn số.

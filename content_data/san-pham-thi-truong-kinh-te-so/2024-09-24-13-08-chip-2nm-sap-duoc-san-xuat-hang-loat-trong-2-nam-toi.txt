@@ -1,0 +1,15 @@
+Truyền thông Đài Loan đưa tin công ty có kế hoạch bắt đầu vận hành Nhà máy 1 (P1) và Nhà máy 2 (P2) sản xuất hàng loạt chip 2nm tiên tiến tại Công viên Khoa học Nanzi ở miền nam Đài Loan vào quý đầu tiên của năm 2025.
+
+Nếu dự án diễn ra đúng như kế hoạch, TSMC một lần nữa sẽ đánh dấu bước nhảy vọt trong công nghệ bán dẫn. TSMC đang có kế hoạch mở rộng Nhà máy 4 (P4) và Nhà máy 5 (P5) tại Công viên Khoa học Nanzi để sản xuất hàng loạt chip 1,4nm vào năm 2027. Cho đến thời điểm hiện tại, kích thước chip nhỏ nhất từng được sản xuất là 3nm với TSMC và Samsung Electronics dẫn đầu công nghệ này.
+
+Theo nhiều nguồn tin, động lực thúc đẩy TSMC đẩy nhanh tiến độ xây dựng nhà máy 1-2nm tới từ sự hỗ trợ của đội ngũ khách hàng 3nm hùng hậu của họ, bao gồm các gã khổng lồ công nghệ Apple, Qualcomm và MediaTek. Động thái chiến lược này sẽ củng cố vị thế thống lĩnh của TSMC trong ngành, đặc biệt là khi đối thủ của TSMC – Intel phải đối mặt với những thách thức. Nhiều tin đồn Intel sẽ bán lại nhà máy sản xuất chip.
+
+"TSMC liên tục cho thấy những tiến bộ trong quá trình xây dựng quy trình chip 2nm", một nguồn tin chia sẻ với tờ Business Korea. Các phương tiện truyền thông Đài Loan cũng đưa tin rằng "các đơn đặt hàng cho quy trình 3nm tiên tiến nhất của TSMC đang tăng lên", dự đoán doanh thu hàng năm của TSMC sẽ tăng đáng kể trong năm nay.
+
+Không những thế, công ty thiết bị bán dẫn của Hà Lan ASML sẽ áp dụng mức chiết khấu đặc biệt cho TSMC để áp dụng sớm thiết bị quang khắc cực tím tiên tiến (EUV NA). TSMC dự kiến ​​sẽ áp dụng công nghệ EUV NA bắt đầu từ quy trình 1,4nm.
+
+Samsung Electronics, đối thủ cạnh tranh chính của TSMC, cũng có kế hoạch sản xuất hàng loạt 2nm vào năm tới và 1,4nm vào năm 2027.
+
+Chủ tịch TSMC, Wei Zhejia trước đó cho biết công nghệ thiết kế chip 2nm mới đã được hoàn thiện. Ông chi biết thêm nhu cầu về chip 2nm sẽ còn tốt hơn nhu cầu của các dòng chip tiên tiến nhất hiện tại là chip 3nm và 5nm, điều này có nghĩa đóng góp doanh thu của chip 2nm trong tương lai sẽ cao hơn 3nm.
+
+Trong nửa đầu năm 2024, 99% chip dùng trong các sản phẩm trí tuệ nhân tạo (AI) của thế giới được sản xuất bởi TSMC và trong nửa cuối năm nay, nhiều sản phẩm AI và tính toán hiệu suất cao (HPC) dự kiến sẽ được sản xuất hàng loạt bằng quy trình 3nm và 5nm của TSMC.

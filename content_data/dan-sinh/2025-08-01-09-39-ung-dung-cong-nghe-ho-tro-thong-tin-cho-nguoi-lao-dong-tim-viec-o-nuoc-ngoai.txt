@@ -1,0 +1,43 @@
+“Nền tảng tìm kiếm việc làm DOLAB-JICA (Ứng dụng DJ) dành cho người Việt Nam có nhu cầu đi làm việc tại Nhật Bản” vừa chính thức đưa vào sử dụng.
+
+Đây là nền tảng được phát triển trong khuôn khổ dự án hợp tác kỹ thuật giữa JICA và Cục quản lý lao động ngoài nước (DOLAB) - Bộ Nội vụ với tên gọi “Dự án Hỗ trợ kết nối thông tin việc làm cho người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng”. Dự án được triển từ tháng 8/2023 đến tháng 7/2028.
+
+Ông Vũ Trường Giang, Phó Cục trưởng Cục Quản lý lao động ngoài nước (Bộ Nội vụ) cho biết dự án được hai bên phối hợp xây dựng từ tháng 8/2023, đến tháng 4/2025, dự án chạy thử nghiệm với sự tham gia của 89 doanh nghiệp dịch vụ.
+
+Trong thời gian chạy thử nghiệm này, hệ thống đạt hơn 27.000 lượt truy cập (trung bình 2.746 lượt truy cập/ngày), 956 tin tuyển dụng được cập nhật trên hệ thống, 230 lượt tải ứng dụng trên Google Play và Appstore, 159 tài khoản người tìm việc được tạo.
+
+Sau thời gian chạy thử, 70 yêu cầu hỗ trợ và báo lỗi từ người dùng gửi về dự án. Các chuyên gia kỹ thuật dự án đã tiến hành sửa lỗi và hoàn thiện hệ thống theo phản hồi của các doanh nghiệp, và đưa hệ thống vào vận hành chính thức từ tháng 7/2025.
+
+Theo ông Giang, việc xây dựng hệ thống này bắt nguồn từ thực trạng hiện nay, một bộ phận người lao động không tiếp cận được trực tiếp với các doanh nghiệp dịch vụ được cấp phép. Nhiều khi phải thông qua trung gian môi giới, dẫn đến việc phải chi trả mức chi phí cao, thậm chí một số trở thành nạn nhân của tình trạng lừa đảo.
+
+Do vậy, việc xây dựng một nền tảng kết nối các doanh nghiệp dịch vụ với người lao động có nguyện vọng ra nước ngoài làm việc để người lao động có thể tiếp cận được thông tin đầy đủ và minh bạch về thị trường, có thể giúp họ có những quyết định phù hợp và giảm các chi phí không cần thiết.
+
+“Mục tiêu được kỳ vọng nhất khi xây dựng hệ thống này đó là giúp người lao động có thể kết nối trực tiếp với doanh nghiệp dịch vụ, giảm thiểu tối đa chi phí họ phải trả trước khi đi, cũng như giảm thiểu rủi ro bị lừa đảo.
+
+Việc xây dựng môi trường tìm kiếm việc làm công khai, minh bạch với các thông tin có tính xác thực cao là một yếu tố thu hút người lao động có nguyện vọng đi làm việc tại nước ngoài", đại diện Cục Quản lý lao động ngoài nước nhấn mạnh.
+
+Qua đó, giúp họ không còn ngần ngại trong việc tìm kiếm việc làm ngoài nước, góp phần tạo sự ổn định và phát triển cho hoạt động đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.
+
+Ngoài ra, việc đưa hệ thống vào triển khai giúp tạo chuỗi liên kết giữa người tìm việc, việc tìm người trong cả một quá trình, từ lúc người lao động có ý định đi làm việc ở nước ngoài, đến khi người lao động sang nước ngoài làm việc, và cả khi người lao động kết thúc quá trình làm việc tại nước ngoài, về nước và tìm việc làm trong nước. Đồng thời, giảm chi phí xã hội trong việc tìm kiếm việc làm (đối với người lao động) và tìm người lao động phù hợp (đối với doanh nghiệp).
+
+Đại diện Cục Quản lý lao động ngoài nước cũng tin tưởng dự án không chỉ giúp người lao động có thêm cơ hội việc làm, mà còn góp phần nâng cao chất lượng nguồn nhân lực của Việt Nam.
+
+Bởi khi người lao động sử dụng hệ thống trên để tìm kiếm việc làm, họ có rất nhiều lựa chọn đơn hàng theo nhu cầu từ nghề nghiệp, đến mức lương, đến địa điểm làm việc...
+
+Người lao động có thể chủ động lựa chọn công việc phù hợp với khả năng, thế mạnh của bản thân, từ đó chủ động trong việc chuẩn bị học nghề và ngoại ngữ để đáp ứng yêu cầu tuyển dụng của người sử dụng lao động nước ngoài.
+
+Đây chính là một yếu tố góp phần nâng cao chất lượng nguồn nhân lực của Việt Nam, đặc biệt là trong bối cảnh hội nhập quốc tế ngày càng sâu rộng.
+
+Ông Uno Koichi, Trưởng phòng Hợp tác Quốc tế, Bộ Y tế, Lao động và Phúc lợi Nhật Bản, cũng cho rằng hiện nay với khoảng 630.000 người Việt Nam đang sinh sống tại Nhật Bản, trong số đó, các du học sinh và thực tập sinh kỹ năng đã và đang đóng vai trò quan trọng như những cầu nối giữa hai dân tộc.
+
+Tuy nhiên, vẫn còn những thách thức đáng lo ngại, khi một số người lao động có nguyện vọng làm việc ở nước ngoài không được tiếp cận thông tin chính xác và phải chịu những khoản chi phí bất hợp lý từ các trung gian môi giới không minh bạch.
+
+Trước thực trạng này, Chính phủ Nhật Bản đã và đang cải cách Chương trình thực tập kỹ năng và Chương trình lao động kỹ năng đặc định, đồng thời xây dựng Chương trình đào tạo và làm việc mới, tập trung vào việc hỗ trợ phát triển nghề nghiệp và bảo vệ quyền lợi của người lao động.
+
+Ông Uno Koichi cũng nhấn mạnh, để đảm bảo quy trình đưa lao động ra nước ngoài được minh bạch và công bằng, việc công khai thông tin về tuyển dụng và các tổ chức phái cử là vô cùng quan trọng.
+
+Chính vì vậy, trong các chính sách của Chính phủ Nhật Bản và Chương trình đào tạo và làm việc, đã nhấn mạnh vào việc nâng cao tính minh bạch của thông tin liên quan đến các tổ chức phái cử.
+
+
+
+Dự án được xây dựng thử nghiệm với thị trường Nhật Bản. Nếu hệ thống hoạt động hiệu quả và được sự đồng thuận từ phía Cơ quan hợp tác quốc tế Nhật Bản (JICA), hệ thống có thể được xây dựng và nâng cấp để sử dụng cho các thị trường khác trong tương lai.

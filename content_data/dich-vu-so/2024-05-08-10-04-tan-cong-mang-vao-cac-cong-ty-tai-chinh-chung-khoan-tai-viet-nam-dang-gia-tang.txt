@@ -1,0 +1,21 @@
+Theo thống kê của Kaspersky, tại khu vực Đông Nam Á, những kỷ lục đáng báo động cho thấy khi Singapore ghi nhận mức tăng 67% so với cùng kỳ năm ngoái về số vụ tấn công mạng, từ 300.000 vụ năm 2022 lên con số đáng kinh ngạc là 500.000 vụ trong năm 2023.
+
+Theo Kaspersky, các công ty ở Việt Nam, Indonesia và Thái Lan cũng đã phải gánh chịu sự tấn công dữ dội này vào năm 2023. Tại Việt Nam, trong năm vừa qua có đến 17,1 triệu trường hợp lây nhiễm cục bộ, tin tặc xâm nhập máy tính của người dùng thông qua các tập tin bị nhiễm và phương tiện có thể tháo rời.
+
+Ước tính mỗi ngày có hơn 15.000 mã độc xuất phát từ Việt Nam, tần suất tấn công mạng cũng tăng lên, đặc biệt nhắm vào các doanh nghiệp, tổ chức ở lĩnh vực tài chính và chứng khoán.
+
+Ông Ngô Tấn Vũ Khanh, Giám đốc mảng doanh nghiệp, Kaspersky tại Việt Nam, cho biết lừa đảo tài chính luôn là mối đe dọa phổ biến đối với với doanh nghiệp và cá nhân tại Việt Nam. Hiện nay, kẻ gian liên tục thực hiện các hành vì lừa đảo tinh vi, dụ dỗ người dùng cấp quyền truy cập vào các thông tin quan trọng liên quan đến tài khoản ngân hàng, hệ thống thanh toán và cửa hàng thương mại điện tử. Năm vừa qua có đến 36.130 trường hợp lừa đảo tài chính đe dọa đến các doanh nghiệp và cá nhân tại Việt Nam.
+
+Bên cạnh đó, các cuộc tấn công ransomware (phần mềm độc hại mã hóa các tệp của bạn hoặc ngăn bạn sử dụng máy tính cho đến khi bạn trả tiền (tiền chuộc) để chúng được mở khóa) cũng là một trong những mối đe dọa an ninh mạng được nhắc đến nhiều nhất tại Đông Nam Á và Việt Nam. Cụ thể, trong năm 2023, các tổ chức tại Việt Nam đã đối mặt với 59.837 cuộc tấn công ransomware.
+
+“Chỉ trong quý 1 năm 2024, tần suất của các cuộc tấn công mạng đã gia tăng với các phương thức cực kỳ tinh vi. Các đối tượng lừa đảo sử dụng nhiều phần mềm tiên tiến, ứng dụng công nghệ hiện đại, nghiên cứu sâu vào “con mồi” và tìm cách tăng lòng tin. Ngay cả những nhân viên IT trong chính các doanh nghiệp cũng là mục tiêu của các đối tượng lừa đảo”, ông Khanh cho biết thêm.
+
+Đồng tình, ông Manikandan Thangaraj, Phó Chủ tịch ManageEngine, cho biết các mối đe dọa an ninh mạng ngày nay thường ẩn mình một cách khéo léo vào các hoạt động hợp pháp, biến những thông tin bị đánh cắp thành vũ khí, sao chép các quy trình đáng tin cậy, và lợi dụng các lỗ hổng của doanh nghiệp.
+
+Theo khảo sát của ManageEngine, những thủ đoạn xảo quyệt, lừa đảo trên mạng này dẫn tới một thách thức vô cùng nghiêm trọng là thời gian xử lý sự cố vi phạm dữ liệu bị kéo dài. Phải mất tới 277 ngày để xác định và ngăn chặn mối đe dọa vi phạm dữ liệu với chi phí tăng 23% sau khi thời gian xử lý vi phạm vượt quá 200 ngày.
+
+Bên cạnh đó, theo khảo sát của Kaspersky, có đến 52% doanh nghiệp cho biết hoạt động an ninh mạng hiện nay khó khăn hơn so với ba năm trước. Trong đó, 41% lo ngại các mối đe dọa trong bối cảnh an ninh mạng luôn chuyển biến phức tạp; 24% cho rằng thách thức đến từ những lỗ hổng trong công cụ và quy trình giám sát an ninh mạng; 37% cho rằng khối lượng cảnh báo và độ phức tạp trong bảo mật gia tăng; 20% thách thức từ việc hiếu hụt kỹ năng hoặc nhân sự an ninh mạng để theo kịp các hoạt động và phân tích bảo mật.
+
+Ông Ngô Tấn Vũ Khanh nhận định một trong những thách thức lớn mà đa phần các doanh nghiệp Việt đang gặp phải hiện nay là vấn đề trong việc thiếu nhân lực trong việc bảo vệ an ninh mạng. Các công ty ở APAC cần tới 9 tháng để tìm được một chuyên gia an ninh mạng chuyên môn cao. Nhiều doanh nghiệp đối mặt với việc đội ngũ an ninh mạng của họ “hơi” hoặc “thiếu nhân lực đáng kể”.
+
+Đưa ra lời khuyên cho doanh nghiệp, ông Khanh cho rằng các doanh nghiệp cần triển khai các giải pháp bảo mật tự động nhằm giảm thiểu tình trạng quá tải cho đội ngũ nhân sự, sử dụng các công nghệ, phần mềm tiên tiến, công cụ AI,… Bên cạnh đó, các doanh nghiệp, đặc biệt là doanh nghiệp tài chính cần quan tâm nhiều hơn đến người dùng về vấn đề bảo mật và xác thực trong các giao dịch.

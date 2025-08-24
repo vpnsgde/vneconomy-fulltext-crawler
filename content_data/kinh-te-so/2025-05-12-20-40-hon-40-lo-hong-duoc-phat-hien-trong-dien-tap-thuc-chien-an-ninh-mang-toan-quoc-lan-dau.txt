@@ -1,0 +1,25 @@
+Diễn tập lần thứ nhất diễn ra từ ngày 17/4/2025 đến ngày 23/4/2025 với sự phối hợp tổ chức thực hiện của Công ty MISA, Hiệp hội An ninh mạng quốc gia và Liên minh An toàn Thông tin CYSEEX.
+
+Diễn tập theo hình thức thực chiến, các thành viên được chia thành 2 nhóm: tấn công (Red Team) và phòng thủ (Blue Team). Nhiệm vụ của nhóm tấn công là khai thác các lỗ hổng của hệ thống mà không cần báo trước, liên tục trong 24h mỗi ngày. Trong khi nhóm phòng thủ cần phát hiện và ngăn chặn các cuộc tấn công này. Hệ thống mục tiêu được lựa chọn là một hệ thống thật, đang cung cấp dịch vụ ra bên ngoài. Quá trình tìm lỗi và khắc phục lỗ hổng được thực hiện trong thời gian thực (real-time), nhằm đảm bảo an toàn an ninh cho dịch vụ, tránh các nguy cơ bị khai thác có thể xảy ra.
+
+Phát biểu tại Lễ tổng kết, rút kinh nghiệm sau diễn tập (ngày 8/5/2025 tại trụ sở của Hiệp hội An ninh mạng quốc gia), Thượng tá Lê Xuân Thủy, Giám đốc Trung tâm An ninh mạng quốc gia, Trưởng ban tổ chức Diễn tập gửi lời chúc mừng tới các đội tham dự.
+
+Thượng tá Lê Xuân Thủy đánh giá: “Quá trình diễn tập cho thấy tinh thần sẵn sàng của các lực lượng kỹ sư, chuyên gia trong Liên minh. Đây là nguồn lực chất lượng, có tinh thần trách nhiệm cao, sẵn sàng đóng góp công sức, trí tuệ, kinh nghiệm cho nhiệm vụ chung. Nếu được tập hợp và đoàn kết lại sẽ hình thành “đội quân” hùng mạnh, đủ sức ứng phó, bảo vệ an ninh, an toàn các hệ thống thông tin trọng yếu quốc gia trước các cuộc tấn công mạng, dưới sự điều phối của cơ quan quản lý nhà nước là Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao - Bộ Công an”.
+
+Theo Ban Tổ chức, mục tiêu cao nhất của Diễn tập là các thành viên có cơ hội trau dồi kiến thức, kinh nghiệm trong xử lý sự cố an toàn, an ninh thông tin, qua đó phục vụ hiệu quả cho công việc chuyên môn và đóng góp vào sự phát triển chung của xã hội, đất nước. Các mục tiêu cụ thể bao gồm: Nâng cao nhận thức, năng lực trong công tác đảm bảo an ninh mạng, đặc biệt trong tổ chức, ứng phó sự cố; Nâng cao tinh thần chia sẻ, đảm bảo công tác phối hợp tốt trong thực hiện nhiệm vụ; Rèn luyện khả năng tư duy như hacker để triển khai phòng thủ hiệu quả về an ninh mạng.
+
+Ông Vũ Ngọc Sơn - Trưởng ban Công nghệ, Hiệp hội An ninh mạng quốc gia cho biết: “Các đội thi đều có chuyên môn tốt, đồng đều về mặt kỹ năng, vì vậy kết quả khá sít sao. Ban Tổ chức đã thảo luận nhanh và quyết định tăng số lượng giải thưởng so với cơ cấu dự kiến ban đầu để khuyến khích các đội thi. Kết quả chung cuộc gồm 01 giải Nhất, 02 giải Nhì và 03 giải Ba, với tổng giá trị giải thưởng được trao là 100 triệu đồng”.
+
+Được thành lập từ tháng 12/2024, Liên minh ứng phó, khắc phục sự cố an ninh mạng quốc gia đã liên tục triển khai nhiều chương trình chia sẻ thông tin, hợp tác chuyên môn nhằm thực hiện sứ mệnh đảm bảo an ninh mạng các hệ thống thông tin trọng yếu. Trong đó, hoạt động diễn tập thực chiến định kỳ là nhiệm vụ trọng tâm của Liên minh, nhằm đảm bảo tính sẵn sàng và khả năng phối hợp nhuần nhuyễn giữa các thành viên khi có sự cố xảy ra.
+
+Thành công của Diễn tập lần thứ nhất sẽ là tiền đề để Liên minh tiếp tục tổ chức chuỗi các hoạt động tương tự trong thời gian tới, với quy mô và chất lượng ngày càng cao. Liên minh kỳ vọng sẽ tạo ra một sân chơi để các đội tham gia thử nghiệm, nâng cao năng lực phòng thủ và ứng phó trong môi trường số đầy thách thức hiện nay. Đặc biệt kinh nghiệm từ diễn tập lần này một lần nữa chứng minh: “Không có hệ thống nào có thể an toàn tuyệt đối”, luôn phải có phương án khắc phục và ứng phó sự cố sẵn sàng.
+
+
+
+Danh sách các đội giành giải trong Diễn tập thực chiến Liên minh ứng cứu, khắc phục sự cố an ninh mạng quốc gia lần thứ nhất:
+
+Giải Nhất:Công Ty CP Giải Pháp Điện Tử Việt Hồng Quang (VietSunshine).
+
+Giải Nhì: Công ty cổ phần công nghệ An ninh không gian mạng Việt Nam (VNCS); Công ty An ninh mạng BKAV.
+
+Giải Ba:Liên minh An toàn Thông tin CYSEEX; Tổng công ty Viễn thông MobiFone; Công ty TNHH An ninh an toàn thông tin CMC (CMC Cyber Security).

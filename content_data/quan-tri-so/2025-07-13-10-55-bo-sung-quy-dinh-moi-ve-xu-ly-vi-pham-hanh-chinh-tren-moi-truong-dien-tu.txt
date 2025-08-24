@@ -1,0 +1,19 @@
+Chính phủ vừa ban hành Nghị định số 190/2025/NĐ-CP, sửa đổi và bổ sung một số điều của Nghị định số 118/2021/NĐ-CP quy định chi tiết việc thi hành Luật Xử lý vi phạm hành chính. Nghị định mới này đồng thời sửa đổi các quy định liên quan tại Nghị định số 68/2025/NĐ-CP và Nghị định số 120/2021/NĐ-CP.
+
+Một trong những nội dung quan trọng của Nghị định 190 là việc bổ sung các quy định về xử lý vi phạm hành chính trên môi trường điện tử vào Nghị định số 118/2021/NĐ-CP, tạo hành lang pháp lý cho việc số hóa các thủ tục hành chính.
+
+Theo quy định mới, việc áp dụng phương thức điện tử trong xử lý vi phạm hành chính sẽ được thực hiện khi đáp ứng đủ các điều kiện cần thiết về hạ tầng và pháp lý. Theo đó, cơ quan có thẩm quyền xử lý vi phạm phải có phương tiện điện tử phù hợp và hệ thống thông tin đáp ứng các yêu cầu cơ bản về nền tảng số phục vụ hoạt động của cơ quan nhà nước.
+
+Đồng thời, cá nhân, tổ chức bị xử phạt cũng phải có phương tiện điện tử phù hợp và chấp nhận thực hiện toàn bộ hoặc một phần quy trình xử lý vi phạm thông qua phương thức điện tử; các yêu cầu về bảo mật, an toàn thông tin mạng, xác thực điện tử và lưu trữ dữ liệu phải được đảm bảo theo quy định của pháp luật.
+
+Cùng với đó, hệ thống thông tin, phần mềm và cơ sở dữ liệu dùng trong xử lý vi phạm phải được kết nối, liên thông hoặc có khả năng chia sẻ dữ liệu với Cơ sở dữ liệu quốc gia về xử lý vi phạm hành chính và các hệ thống quản lý nhà nước có liên quan.
+
+Nghị định 190 cũng quy định chi tiết về việc sử dụng chữ ký số và xác thực danh tính trong quá trình xử lý vi phạm trên môi trường điện tử. Cụ thể, người vi phạm hoặc đại diện tổ chức vi phạm có thể sử dụng chữ ký số của mình. Trong trường hợp không có chữ ký số, việc xác thực danh tính có thể được thực hiện bằng các phương tiện sinh trắc học như ảnh khuôn mặt hoặc vân tay.
+
+Đặc biệt, đối với trường hợp lập biên bản vi phạm hành chính mà không xác định được chủ thể vi phạm hoặc người vi phạm không ký, biên bản chỉ cần chữ ký số của người lập biên bản là đủ.
+
+Để đảm bảo việc trao đổi thông tin diễn ra thông suốt, Nghị định 190 quy định việc gửi các biên bản, quyết định và tài liệu xử lý vi phạm hành chính trên môi trường điện tử sẽ được thực hiện qua nhiều phương thức. Các kênh chính bao gồm gửi đến địa chỉ email, gửi qua ứng dụng định danh quốc gia VNeID (đối với tài khoản mức độ 2 trở lên), hoặc gửi thông báo qua tin nhắn SMS đến số điện thoại đã đăng ký của người vi phạm. Ngoài ra, để phối hợp thi hành, các văn bản này cũng sẽ được gửi đồng thời đến cơ quan thu tiền phạt và các đơn vị liên quan khác qua email.
+
+Theo Nghị định 190, thời điểm các văn bản được coi là đã gửi và nhận hợp lệ là khi hệ thống thông tin ghi nhận người vi phạm đã xác nhận việc nhận, hoặc đã truy cập, tải về hay mở văn bản qua hệ thống. Trong trường hợp xảy ra lỗi kỹ thuật hoặc không thể xác minh danh tính, quy trình sẽ được chuyển sang hình thức gửi trực tiếp theo các quy định hiện hành.
+
+Với những quy định khác về thủ tục chưa được nêu trong Nghị định này, sẽ áp dụng theo quy định của Luật Giao dịch điện tử. Các quy định mới này có hiệu lực từ ngày 1/7/2025.

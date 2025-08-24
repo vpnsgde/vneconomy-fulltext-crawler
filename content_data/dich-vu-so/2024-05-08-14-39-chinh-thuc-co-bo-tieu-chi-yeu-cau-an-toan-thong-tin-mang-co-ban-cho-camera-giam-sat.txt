@@ -1,0 +1,40 @@
+Ngày 7/5/2024, Bộ Thông tin và Truyền thông ban hành Quyết định số 724/QĐ-BTTTT ban hành Bộ tiêu chí về yêu cầu an toàn thông tin mạng cơ bản cho camera giám sát với 10 yêu cầu cơ bản.
+
+Về đối tượng áp dụng, khuyến nghị áp dụng đối với các tổ chức, cá nhân Việt Nam và nước ngoài có liên quan đến hoạt động nghiên cứu, phát triển, sản xuất, đánh giá, lựa chọn và sử dụng thiết bị camera.
+
+Bộ tiêu chí nêu rõ các yêu cầu cơ bản, có tài liệu hướng dẫn sử dụng sản phẩm cho người sử dụng. Có chức năng quản trị hệ thống cho phép thay đổi thời gian khóa, số lần đăng nhập sai và khoảng thời gian đăng nhập sai liên tục; Thiết lập mặc định khóa không cho đăng nhập trong vòng 5 phút, sau khi đăng nhập thất bại 5 lần liên tục trong khoảng thời gian 30 giây hoặc ngắn hơn.
+
+Chỉ thông tin cho người sử dụng nội dung đăng nhập thành công/thất bại mà không có nội dung khác làm cơ sở thực hiện tấn công vét cạn.
+
+Liên quan đến quản lý mật khẩu an toàn, có chức năng yêu cầu người dùng bắt buộc thay đổi mật khẩu mặc định hoặc mật khẩu khởi tạo khi sử dụng thiết bị lần đầu tiên; có chức năng kiểm soát mật khẩu an toàn. Mật khẩu được tạo ra phải có yêu cầu về độ phức tạp đối với mật khẩu (mật khẩu phải có độ dài tối thiểu 8 ký tự, có chữ hoa, chữ thường, chữ số, ký tự đặc biệt).
+
+Có chức năng xác thực cho phép xác thực nhiều loại đối tượng khác nhau như người dùng hoặc thiết bị với thiết bị với loại giá trị xác thực khác nhau. Bên cạnh đó, mật khẩu lưu trữ trên camera phải được mã hóa…
+
+Với hệ thống quản lý lỗ hổng của thiết bị, nhà sản xuất có hệ thống trực tuyến cho phép tiếp nhận và công bố thông tin về lỗ hổng của thiết bị tới người sử dụng.
+
+Đối với thông tin công bố lỗ hổng bảo mật của thiết bị, tiêu chí yêu cầu có mô tả về lỗ hổng, phân loại và xác định mức độ nghiêm trọng; Có mô tả về các phiên bản bị ảnh hưởng; Có hướng dẫn cập nhật, xử lý lỗ hổng.
+
+Về yêu cầu đối với chức năng cập nhật phiên bản qua Internet, tiêu chí nêu rõ, chức năng cập nhật phải được thực hiện qua kênh kết nối mạng an toàn có phương pháp mã hóa an toàn đáp ứng yêu cầu; có chức năng xác thực trước khi thực hiện cập nhật; Có chức năng thông báo khi có phiên bản cập nhật mới khi người dùng đăng nhập, quản trị thiết bị; Có chức năng thiết lập cho phép thiết bị tự động cập nhật bản vá từ nhà sản xuất; Có chức năng kiểm tra tính nguyên vẹn của bản cập nhật có sử dụng chữ ký số của nhà sản xuất.
+
+Đặc biệt, tiêu chí nhấn mạnh tới yếu tố bảo đảm an toàn thông tin dữ liệu người sử dụng, bảo vệ dữ liệu cá nhân… Theo đó, thiết bị camera và các dịch vụ liên kết có tối thiểu tính năng cho phép thiết lập, cấu hình địa điểm tại Việt Nam đối với việc xử lý, lưu trữ và khai thác dữ liệu (như: Trên thẻ nhớ/thiết bị ngoại vi, dịch vụ điện toán đám mây đặt tại Việt Nam,...) nhằm đảm bảo tuân thủ quy định của pháp luật Việt Nam về bảo vệ dữ liệu cá nhân.
+
+Tài liệu hướng dẫn sử dụng (hoặc tài liệu tương đương được công bố công khai) phải liệt kê danh mục các cảm biến được sử dụng bởi thiết bị camera và mô tả chức năng, nguyên lý hoạt động của từng cảm biến được thiết bị camera sử dụng.
+
+Trong quá trình khởi tạo, thiết lập, cấu hình thiết bị, phải có giao diện thông báo cho người sử dụng về địa điểm (quốc gia) lưu trữ và xử lý dữ liệu được thu thập bởi thiết bị camera và các dịch vụ liên kết.
+
+Bộ tiêu chí cũng đề cập các chức năng cho phép người sử dụng xóa dữ liệu được thu thập và lưu trữ trên thiết bị camera; thông báo cho người sử dụng xóa dữ liệu thành công/thất bại trên thiết bị khi thực hiện chức năng xóa; xác nhận người dùng đồng ý xóa dữ liệu trước khi thực hiện xóa. Đồng thời có chức năng cho phép người sử dụng thiết lập thời gian xóa dữ liệu tự động dữ liệu trên dịch vụ liên kết. Thời gian xóa được người sử dụng thiết lập trên camera hoặc theo thời gian mặc định của nhà sản xuất.
+
+Đối với tiêu chí an toàn ứng dụng thiết bị camera phải có các tính năng kiểm tra tính hợp lệ của dữ liệu đầu vào do người sử dụng nhập hoặc qua giao diện lập trình; ngăn chặn quá trình xử lý dữ liệu đầu vào vi phạm điều kiện lọc đã định nghĩa trước theo nhà sản xuất; kiểm tra tính hợp lệ của dữ liệu để ngăn chặn các dạng tấn công vào giao diện của thiết bị.
+
+Trong trường hợp thiết bị phải khởi động lại do có lỗi phát sinh (ngoại trừ lỗi phần cứng), thiết bị đảm bảo hoạt động bình thường trong lần khởi động kế tiếp.
+
+Sự ra đời của bộ tiêu chí này là rất cần thiết cho thị trường, hoạt động sản xuất kinh doanh, cung cấp sản phẩm camera giám sát đảm bảo an toàn tại Việt Nam.
+
+Chia sẻ với VnEconomy, chuyên gia an ninh mạng Vũ Ngọc Sơn, Giám đốc Kỹ thuật Công ty cổ phần Công nghệ An ninh mạng Quốc gia (NCS), cho rằng đây là những yêu cầu an ninh mạng cơ bản cần có cho một thiết bị camera kết nối mạng có dữ liệu cá nhân. Chuyên gia này đặc biệt nhấn mạnh yêu cầu về bảo đảm an toàn thông tin dữ liệu người sử dụng, trong đó có bảo vệ dữ liệu cá nhân, máy chủ phải tuân quy định của pháp luật Việt Nam về bảo vệ dữ liệu cá nhân.
+
+Theo ông Sơn, Bộ tiêu chí này sẽ là công cụ, khung khổ để các thiết bị, sản phẩm camera giám sát đáp ứng theo quy định. Tuy nhiên, để đảm bảo an ninh, an toàn thông tin mạng sẽ phụ thuộc vào nhiều yếu tố trong đó con người là một trong những yếu tố quyết định sử dụng thiết bị camera giám sát có an toàn không.
+
+Chuyên gia này phân tích, mặc dù tiêu chí có các yêu cầu quy định về đặt mật khẩu, cập nhật bản vá lỗ hổng sau khi nhà sản xuất công bố nhưng trên thực tế, an toàn thông tin mạng vẫn sẽ phụ thuộc rất lớn vào quá trình sử dụng thiết bị của người dùng. Đơn cử, nếu người dùng đặt mật khẩu rất mạnh nhưng không biết cách bảo vệ tốt thì vẫn có thể để lộ thông tin. Hoặc khi các nhà sản xuất đã công bố bản vá nhưng người dùng không cập nhật thì thiết bị camera vẫn có thể bị tấn công.
+
+
+

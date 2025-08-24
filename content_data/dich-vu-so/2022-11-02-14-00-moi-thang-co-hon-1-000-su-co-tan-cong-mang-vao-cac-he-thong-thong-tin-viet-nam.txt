@@ -1,0 +1,19 @@
+Theo thống kê, trong tháng 10/2022, Trung tâm Giám sát an toàn không gian mạng quốc gia, Cục An toàn thông tin đã ghi nhận, cảnh báo và hướng dẫn xử lý 857 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, giảm 13,3% so với tháng 9/2022 nhưng lại tăng 8,1% so với cùng kỳ tháng 10 năm ngoái.
+
+Như vậy, sau 2 tháng liên tiếp (tháng 8 và tháng 9/2022), các cuộc tấn công mạng vào hệ thống thông tin tại Việt Nam gây ra sự cố gia tăng hơn so với tháng trước đó, thì đến tháng 10 vừa qua số sự cố tấn công mạng đã giảm 131 cuộc, tương ứng trên 13,3%.
+
+Trong tháng 9 đã ghi nhận, cảnh báo và hướng dẫn các cơ quan, tổ chức, doanh nghiệp trên cả nước xử lý 988 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, tăng 8,9% so với tháng 8/2022 và tăng 19,9% so với cùng kỳ tháng 9 năm ngoái.
+
+Thống kê của Trung tâm Giám sát an toàn không gian mạng quốc gia cũng cho thấy, trong quý 3/2022, hệ thống kỹ thuật đã ghi nhận, cảnh báo và hướng dẫn xử lý 2.878 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam, tăng 15,5 % so với cùng kỳ năm 2021.
+
+Tính lũy kế từ đầu năm 2022 đến hết tháng 10, Cục An toàn thông tin đã ghi nhận, cảnh báo và hướng dẫn xử lý 10.376 cuộc tấn công mạng gây ra sự cố vào các hệ thống thông tin tại Việt Nam.
+
+Như vậy, trung bình trong 10 tháng đầu năm nay, mỗi tháng có hơn 1.037 sự cố tấn công mạng vào các hệ thống thông tin tại Việt Nam. Lỗ hổng bảo mật là 1 trong những nguyên nhân hàng đầu gây ra các cuộc tấn công mạng nhắm vào cơ quan, tổ chức, doanh nghiệp.
+
+Theo thống kê, trên thế giới mỗi giây có tới 900 cuộc tấn công mạng và 5 mã độc mới sinh ra, mỗi ngày phát hiện tới 40 điểm yếu lỗ hổng mới.
+
+Tại Việt Nam, thống kê của Trung tâm Công nghệ thông tin và Giám sát an ninh mạng thuộc Ban Cơ yếu Chính phủ cho thấy, nguyên nhân chủ yếu, chiếm tỉ lệ lớn hơn cả trong các cuộc tấn công mạng vào các hệ thống mạng công nghệ thông tin trọng yếu tại Việt Nam năm 2021 và nửa đầu năm 2022, chính là tấn công khai thác lỗ hổng bảo mật.
+
+Để bảo đảm an toàn thông tin mạng, Cục An toàn thông tin sẽ tiếp tục tăng cường công tác giám sát, chủ động rà quét trên không gian mạng Việt Nam. Chiến dịch làm sạch mã độc trên không gian mạng Việt Nam năm 2022 được triển khai đồng bộ tại 63 tỉnh thành nhằm tiếp tục giảm tỉ lệ lây nhiễm mã độc tại Việt Nam, xử lý các nguồn lây nhiễm…
+
+Cùng với đó, Bộ Thông tin và Truyền thông cũng sẽ tiếp tục đánh giá, thống kê và đẩy mạnh tuyên truyền, cảnh báo để người dùng biết và phòng tránh; đồng thời có các văn bản cảnh báo, đôn đốc các cơ quan, tổ chức, doanh nghiệp triển khai rà soát các điểm yếu lỗ hổng, dấu hiệu tấn công mạng…

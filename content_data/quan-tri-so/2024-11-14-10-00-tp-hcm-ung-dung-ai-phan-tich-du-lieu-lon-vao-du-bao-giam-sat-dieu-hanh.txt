@@ -1,0 +1,17 @@
+UBND TP.HCM vừa ban hành kế hoạch triển khai thực Quyết định 1012/2024 của Thủ tướng Chính phủ về ban hành Kế hoạch hành động chuyển đổi số hoạt động chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ trực tuyến và dựa trên dữ liệu giai đoạn 2024 - 2025, định hướng đến năm 2030.
+
+Theo đó, TP.HCM đặt mục tiêu đến năm 2025 xây dựng, hình thành, thu thập, tổng hợp các nhóm chỉ số về kinh tế - xã hội phục vụ công tác chỉ đạo, điều hành, nhóm chỉ số theo dõi nhiệm vụ thực hiện kế hoạch phát triển kinh tế - xã hội, các nhiệm vụ trọng tâm, trọng điểm;
+
+Phấn đấu 50% chỉ tiêu thống kê của Thành phố được cung cấp phục vụ công tác chỉ đạo, điều hành dưới dạng dữ liệu số; Kết nối, tích hợp chia sẻ dữ liệu, nhóm chỉ số, chỉ số về chỉ đạo, điều hành, phát triển kinh tế - xã hội của Thành phố với các hệ thống, cơ sở dữ liệu của Văn phòng Chính phủ và bộ, ngành; Phấn đấu 100% nhiệm vụ của UBND TP.HCM, Thường trực UBND TP.HCM giao được theo dõi, giám sát, đánh giá bằng dữ liệu số.
+
+Đến năm 2030, phấn đấu 100% chỉ tiêu thống kê của Thành phố được cung cấp phục vụ công tác chỉ đạo, điều hành dưới dạng dữ liệu số; Xây dựng và triển khai các mô hình dự báo, ứng dụng trí tuệ nhân tạo (AI) và các công nghệ phân tích dữ liệu lớn để dự báo, đưa ra các giải pháp giúp UBND TP.HCM, Thường trực UBND TP.HCM chỉ đạo, điều hành kịp thời, linh hoạt, hiệu quả.
+
+Để đạt được mục tiêu này, UBND TP.HCM đặt ra nhiệm vụ, giải pháp phải hoàn thiện thể chế, cơ chế chính sách; xây dựng hệ thống thông tin phục vụ chỉ đạo, điều hành; phát triển dữ liệu số, thúc đẩy kết nối, chia sẻ phục vụ chỉ đạo, điều hành; xây dựng các nội dung chỉ đạo, điều hành trực tuyến; bồi dưỡng, phát triển nhân lực; đảm bảo an toàn thông tin, an ninh mạng.
+
+Đồng thời, TP.HCM sẽ chỉ ban hành những chế độ báo cáo thật sự cần thiết, cắt giảm chế độ báo cáo đã được thay thế bằng dữ liệu số; đơn giản hóa, tái cấu trúc quy trình giải quyết công việc; tạo lập dữ liệu số, kết nối, chia sẻ thông tin dữ liệu phục vụ chỉ đạo, điều hành.
+
+Ngoài ra, TP.HCM cũng phát triển, hoàn thiện Hệ thống thông tin quản trị thực thi, kết nối Hệ thống thông tin báo cáo Chính phủ, Trung tâm thông tin, chỉ đạo điều hành của Chính phủ, Thủ tướng Chính phủ, Hệ thống thông tin chỉ đạo, điều hành của Chính phủ, Thủ tướng Chính phủ.
+
+Phát triển, hoàn thiện cơ sở dữ liệu chuyên ngành, tích hợp với Kho dữ liệu dùng chung Thành phố, phục vụ công tác chỉ đạo, điều hành, phát triển kinh tế - xã hội của TP.HCM.
+
+UBND TP.HCM còn triển khai đào tạo, tập huấn về thu thập, quản trị, phân tích dữ liệu, đảm bảo an toàn thông tin mạng gắn với chỉ đạo, điều hành đội ngũ cán bộ, công chức Thành phố…

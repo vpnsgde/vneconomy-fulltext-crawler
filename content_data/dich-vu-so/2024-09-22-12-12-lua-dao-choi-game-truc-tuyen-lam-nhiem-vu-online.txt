@@ -1,0 +1,37 @@
+Do đó, trong trường hợp nghi ngờ bản thân bị lừa đảo, người dân cần ngay lập tức báo cáo cho cơ quan chức năng hoặc tổ chức bảo vệ người tiêu dùng để được hỗ trợ, giải quyết và ngăn chặn kịp thời.
+
+Theo thống kê đến từ công ty bảo mật Kaspersky, trong khoảng thời gian từ 1/7/2023 đến nay đã xảy ra hơn 6,6 triệu vụ tấn công trên toàn thế giới có liên quan tới trò chơi điện tử và các vật phẩm ảo. Nạn nhân của hình thức lừa đảo này phần lớn là những người trẻ tuổi - đối tượng có tần suất tiếp xúc với các thiết bị công nghệ vô cùng lớn.
+
+Các đối tượng xấu tạo lập các trang web giả mạo, lấy hình ảnh của những người nổi tiếng, KOL trong lĩnh vực trò chơi điện tử để thu hút sự chú ý, sau đó quảng cáo về các vật phẩm giới hạn với giá trị cao, nói rằng người chơi chỉ có thể sở hữu trong một khoảng thời gian ngắn. Để lấy được những vật phẩm đó, người chơi sẽ phải cung cấp các thông tin cá nhân, đồng thời bỏ ra một số tiền nhất định.
+
+Trong một số trường hợp khác, các đối tượng sử dụng vỏ bọc của trò chơi để dẫn dụ nạn nhân tải xuống phần mềm, ứng dụng, tệp giả mạo,... với mục đích gia tăng trải nghiệm khi chơi như cải thiện hiệu năng, giảm độ trễ. Sau khi tải về, toàn bộ thông tin và dữ liệu trong thiết bị của nạn nhân sẽ bị đánh cắp.
+
+Trước tình hình lừa đảo diễn ra, Cục An toàn thông tin khuyến cáo người dân đề cao cảnh giác trước thủ đoạn lừa đảo trên: Tuyệt đối không truy cập vào các trang web với đường dẫn lạ, không cung cấp thông tin cá nhân khi chưa xác thực tính chính thống của trang web.
+
+“Cẩn trọng khi thấy những quảng cáo với các ưu đãi bất thường đến từ những nhà phân phối không rõ danh tính, không có bất kỳ mối liên kết nào với nhà phát hành của trò chơi. Khi bắt gặp hành vi lừa đảo, người dân cần báo cáo ngay cho nhà phát triển trò chơi hoặc các cơ quan an ninh mạng có thẩm quyền để kịp thời ngăn chặn hành vi lừa đảo”, Cục An toàn thông tin khuyến cáo.
+
+Ngày 19/9, Phòng An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao Công an tỉnh Bình Phước đã tiếp nhận đơn của ông C.X.H, trú phường Minh Thành, thị xã Chơn Thành trình báo việc bị tội phạm công nghệ cao lừa đảo chiếm đoạt hơn 1 tỷ đồng.
+
+Theo đó, nạn nhân bị một tài khoản mạng xã hội giả mạo dẫn dụ tải ứng dụng Telegram để tham gia xem phim online và bình chọn được trả phí. Đối tượng gửi một đường link và hướng dẫn ông C.X.H đăng nhập tài khoản, truy cập vào một trang wed để xem phim và làm nhiệm vụ. sau khi hoàn thành thì nhận được 170.000 đồng chuyển vào tài khoản.
+
+Sau nhiều lần nạp tiền vào mà vẫn không rút tiền ra được, ông C.X.H nhắn tin hỏi thì các đối tượng đưa ra nhiều lý do để thoái thác việc trả lại tiền đã nạp vào hệ thống. Lúc này, nghi ngờ bị tội phạm công nghệ cao lừa số tiền 1 tỷ 6 triệu 880 ngàn đồng nên ông C.X.H đã đến cơ quan công an trình báo.
+
+Đối với hình thức lừa đảo trên, các đối tượng thường tạo lập các tài khoản mạng xã hội giả mạo, tự xưng là nhân viên hỗ trợ, mạo danh các công ty uy tín. Đối tượng thông qua các trang mạng xã hội như Facebook, Zalo hoặc Telegram để dẫn dụ và hướng dẫn nạn nhân tham gia vào các “dự án” hoặc nhiệm vụ nạp tiền nhận hoa hồng không có thật.
+
+Ngoài ra, đối tượng còn sử dụng chiến thuật gây áp lực, khẳng định rằng nếu không hành động ngay, người dùng sẽ mất một cơ hội lớn. Sau khi nạn nhân tin tưởng chuyển tiền, đến một số tiền lớn nhất định, đối tượng sẽ đưa ra hàng loạt các lý do để nạn nhân không thể rút được tiền ra và chặn toàn bộ liên lạc.
+
+Trước tình hình lừa đảo, Cục An toàn thông tin khuyến cáo người dân cần đề cao cảnh giác trước các lời hứa hẹn về thu nhập cao, việc làm dễ dàng không cần bằng cấp. Thực hiện xác minh thông tin từ các nguồn chính thức, không tin tưởng vào những thông báo hoặc kênh thông tin không rõ ràng. Đặc biệt, không cung cấp thông tin cá nhân, thông tin tài khoản ngân hàng hoặc mật khẩu cho bất kỳ ai. Thiết lập xác thực hai yếu tố cho tài khoản trực tuyến và cập nhật mật khẩu thường xuyên.
+
+Tuần qua, anh L.H.P (sinh năm 1995, ở quận Hai Bà Trưng, Hà Nội) bất ngờ nhận được tin nhắn từ một người tự xưng là cán bộ Đội Cảnh sát giao thông thuộc Phòng Cảnh sát giao thông Công an TP Hà Nội. Nội dung tin nhắn thông báo về việc lực lượng chức năng ghi nhận anh P điều khiển xe gắn máy có hành vi lạng lách, đánh võng; nêu rõ số tiền xử phạt là từ 6-8 triệu đồng, tước giấy phép lái xe từ 2-4 tháng.
+
+Để tăng lòng tin, đối tượng còn trích dẫn các điều, khoản trong Nghị định 100/2019 để làm căn cứ, đồng thời "đề nghị chủ xe cầm theo giấy tờ xe, đăng ký xe, căn cước công dân lên Đội Cảnh sát giao thông để xử phạt theo quy định của pháp luật".
+
+Đáng chú ý, nội dung cuối cùng của tin nhắn còn có lời răn đe, dọa nạt người dân để tạo tâm lý lo sợ. Nghi ngờ, anh P đến trực tiếp cơ quan công an để xác minh và tránh được việc sập bẫy lừa đảo.
+
+Thủ đoạn chung của các đối tượng này là tự xưng cảnh sát giao thông thông báo hành vi vi phạm giao thông. Tuy nhiên, do đã quá thời hạn xử lý, đề nghị người vi phạm cung cấp số biên bản.
+
+Nếu người vi phạm chưa nhận được biên bản, các đối tượng giả danh này yêu cầu người vi phạm cung cấp một loạt thông tin như: tên, tuổi, địa chỉ, số chứng minh nhân dân/căn cước công dân, số hộ chiếu, số tài khoản ngân hàng… để lực lượng chức năng cung cấp số biên bản, hành vi vi phạm, hình thức xử lý, số tiền xử phạt. Sau đó, đối tượng yêu cầu nạn nhân chuyển tiền vào tài khoản của đối tượng. Những người có tâm lý nhẹ dạ, không cảnh giác sẽ trở thành "con mồi" cho kẻ chiếm đoạt tài sản.
+
+Trước thông tin trên, Cục An toàn thông tin khuyến cáo người dân nên tỉnh táo khi nhận phải các cuộc gọi và tin nhắn từ những đối tượng không rõ danh tính. Người dân cần chủ động tìm hiểu và kiểm tra, xác minh danh tính đối tượng bằng cách liên hệ qua các trang thông tin chính thống.
+
+Ngoài ra, các trường hợp bị phạt nguội, cảnh sát giao thông đều gửi thông báo yêu cầu chủ phương tiện hoặc người liên quan đến trụ sở cơ quan công an (nơi xảy ra vi phạm) để làm việc nên không có chuyện gọi điện, nhắn tin qua điện thoại thông báo vi phạm. Tuyệt đối không làm theo hướng dẫn, không thực hiện giao dịch chuyển tiền cho các đối tượng lạ. Không cung cấp thông tin cá nhân nhạy cảm dưới bất kỳ hình thức nào. Không truy cập vào các đường dẫn lạ.

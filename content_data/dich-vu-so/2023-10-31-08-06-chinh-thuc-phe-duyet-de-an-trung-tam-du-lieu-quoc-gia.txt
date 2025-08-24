@@ -1,0 +1,41 @@
+Theo đề án, Trung tâm dữ liệu quốc gia là trung tâm dữ liệu do Chính phủ xây dựng, quản lý, khai thác và vận hành; tích hợp, đồng bộ, lưu trữ, chia sẻ, phân tích, khai thác, điều phối dữ liệu của các cơ quan nhà nước theo quy định của pháp luật nhằm hình thành kho dữ liệu về con người và kho dữ liệu tổng hợp từ các cơ sở dữ liệu quốc gia.
+
+Dữ liệu tại Trung tâm dữ liệu quốc gia là nền tảng cốt lõi cung cấp các dịch vụ liên quan đến dữ liệu, hỗ trợ hoạch định chính sách, kiến tạo phát triển, xây dựng Chính phủ số, xã hội số và kinh tế số, bảo đảm quốc phòng an ninh. Đồng thời cung cấp hạ tầng công nghệ thông tin cho các tổ chức chính trị - xã hội, hệ thống cơ sở dữ liệu quốc gia và các cơ quan có nhu cầu sử dụng để khai thác, vận hành, nâng cao hiệu quả, bảo đảm an ninh, an toàn thông tin.
+
+Vai trò của Trung tâm dữ liệu quốc gia là tích hợp, đồng bộ, lưu trữ, khai thác, chia sẻ, phân tích và điều phối tất cả các dữ liệu tổng hợp từ các cơ sở dữ liệu quốc gia, dữ liệu liên quan đến con người (bao gồm người có quốc tịch Việt Nam và người có liên quan đến hoạt động kinh tế - xã hội tại Việt Nam) theo quy định của pháp luật để tạo dựng kho dữ liệu về con người; dữ liệu liên quan đến con người bao gồm các thông tin đã được số hóa có nội dung gắn với con người bao gồm: dữ liệu dân cư, bảo hiểm, y tế và an sinh xã hội, giáo dục và đào tạo, cán bộ công chức, viên chức, căn cước, hộ tịch, hoạt động tài chính, và các hoạt động khác từ các cơ sở dữ liệu quốc gia, cơ sở dữ liệu của các bộ, ngành, địa phương và các cơ sở dữ liệu khác.
+
+Trung tâm dữ liệu quốc gia hoạt động sẽ là tiền đề để thúc đẩy quá trình phát triển cơ sở dữ liệu quốc gia phục vụ phát triển kinh tế - xã hội…
+
+Về mục tiêu tổng quát, đề án nêu rõ, Trung tâm dữ liệu quốc gia khi đưa vào hoạt động sẽ là tiền đề thúc đẩy quá trình phát triển và đẩy mạnh khai thác các cơ sở dữ liệu quốc gia phục vụ phát triển kinh tế xã hội; góp phần thực hiện mục tiêu nâng tầm chiến lược phát triển kinh tế số của Việt Nam theo kịp các quốc gia trên thế giới, bảo đảm điều kiện cho Việt Nam phát triển và hòa nhập với nền kinh tế số của thế giới.
+
+Phát triển kho dữ liệu tổng hợp với dữ liệu gắn với con người và các dữ liệu tổng hợp từ các cơ sở dữ liệu quốc gia sẽ là trụ cột dữ liệu chính để tạo nền tảng cho phát triển Chính phủ số, thúc đẩy kinh tế số và hình thành xã hội số.
+
+Hình thành các hệ thống dữ liệu tin cậy, ổn định của Nhà nước và doanh nghiệp từ đó triển khai các giải pháp kết nối để chia sẻ, sử dụng lại và phát triển các mô hình/ứng dụng phân tích dữ liệu chuyên sâu để tạo ra nhiều giá trị mới, sản phẩm dịch vụ mới và động lực mới cho phát triển kinh tế - xã hội trong giai đoạn chuyển đổi số của Việt Nam.
+
+Trung tâm cung cấp hạ tầng phục vụ xây dựng các cơ sở dữ liệu quốc gia và hình thành kho thông tin định danh số cho công dân, tổ chức trong thực hiện các thủ tục hành chính, kết hợp cùng với việc tích hợp đồng bộ, liên thông giữa các cơ sở dữ liệu quốc gia khác sẽ giúp phát triển Chính phủ số và cắt giảm, đơn giản hóa các thủ tục hành chính không còn phù hợp, gia tăng sự hài lòng của người dân với hoạt động của các cơ quan quản lý nhà nước. Hỗ trợ công tác chỉ đạo, điều hành, hoạch định chính sách của Chính phủ và các bộ, ngành, địa phương trên nền tảng dữ liệu số.
+
+Đồng thời, thúc đẩy các giao dịch thương mại trên môi trường số được thường xuyên, liên tục, an toàn và minh bạch hơn. Hình thành và từng bước mở rộng kho dữ liệu về con người để người dân, doanh nghiệp khai thác, sử dụng phục vụ sáng tạo, triển khai các ngành nghề, lĩnh vực kinh doanh mới góp phần thúc đẩy phát triển kinh tế số và xây dựng xã hội số.
+
+Chính phủ cũng chỉ rõ các mục tiêu cụ thể mà Trung tâm dữ liệu quốc gia cần đạt được về dữ liệu, quy hoạch kiến trúc dữ liệu, phân tích và khai thác dữ liệu; hạ tầng, thiết bị công nghê thông tin; cải cách, cắt giảm thủ tục hành chính; phát triển chính phủ điện tử; phát triển kinh tế xã hội.
+
+Trong đó, về dữ liệu, đến hết năm 2025 hoàn thành cơ bản xây dựng và đưa vào khai thác kho dữ liệu tổng hợp được đồng bộ từ các cơ sở dữ liệu quốc gia và phối hợp khai thác với kho dữ liệu về con người; từ năm 2026, triển khai thực hiện việc phân tích dữ liệu chuyên sâu hỗ trợ công tác xây dựng cơ chế chính sách, quy hoạch chiến lược phát triển quốc gia; đồng thời tạo điều kiện phát triển nhiều sản phẩm, dịch vụ mới trên nền các dữ liệu số được khai thác từ các kho dữ liệu dùng chung và kho dữ liệu mở, góp phần thúc đẩy phát triển kinh tế - xã hội.
+
+Từ năm 2025, đưa Trung tâm dữ liệu quốc gia đóng vai trò là nơi để trao đổi, kết nối quốc tế nhằm chia sẻ thông tin, nghiên cứu phát triển các chiến lược phát triển và đặt nền tảng nghiên cứu, hỗ trợ khai thác, phát triển nền tảng khoa học công nghệ đất nước.
+
+Đến 2030, hoàn thành việc triển khai Trung tâm dữ liệu quốc gia là nơi lưu trữ dữ liệu, hệ thống thông tin của các cơ sở dữ liệu quốc gia, kết nối liên thông dữ liệu với các cơ sở dữ liệu chuyên ngành, các hệ thống thông tin trong nước và tổ chức Chính phủ các nước để phục vụ các hoạt động trên môi trường số bảo đảm lợi ích hợp pháp của Việt Nam.
+
+Ngoài ra, đối với mục tiêu phát triển Chính phủ điện tử, đến năm 2030, trên 90% các hoạt động hành chính trao đổi, phối hợp cung cấp thông tin giữa các cơ quan nhà nước được thay thế bằng chia sẻ dữ liệu số từ các kho dữ liệu tổng hợp trong Trung tâm dữ liệu quốc gia.
+
+Đồng thời phấn đấu đến năm 2030, Việt Nam thuộc nhóm: 50 nước dẫn đầu về Chính phủ điện tử (EGDI); 30 nước dẫn đầu về công nghệ thông tin (IDI); 30 nước dẫn đầu về an toàn, an ninh mạng (GCI).
+
+Chính phủ đã xác định 3 nhóm nhiệm vụ cần hoàn thành gồm xây dựng và hoàn thiện cơ sở pháp lý; xây dựng, vận hành trung tâm; đảm bảo các điều kiện quản lý, vận hành trung tâm, trong đó có giao rõ đơn vị chủ trì và thời gian thực hiện từng nhiệm vụ.
+
+Sáu nhóm giải pháp sẽ được tập trung triển khai thời gian tới gồm có: Cơ chế, chính sách; bảo đảm nhân lực; khoa học và công nghệ; huy động vốn và phân bổ đầu tư; bảo đảm kết nối mạng truyền dẫn thông suốt giữa Trung tâm dữ liệu quốc gia và các bộ, ngành và địa phương; hợp tác quốc tế.
+
+Nhằm bảo đảm hiệu quả của đề án Trung tâm dữ liệu quốc gia, quá trình thực hiện được chia thành 3 giai đoạn triển khai cụ thể, gồm giai đoạn xây dựng cơ sở (từ năm 2023 đến năm 2025), giai đoạn mở rộng (từ năm 2026 đến hết năm 2028) và giai đoạn phát triển (từ năm 2029 đến hết năm 2030).
+
+Ngoài ra, đề án cũng quy định, đối tượng sử dụng dịch vụ của Trung tâm dữ liệu quốc gia gồm các bộ, ban, ngành, địa phương, tổ chức chính trị - xã hội và người dân, doanh nghiệp.
+
+Theo đó, với các bộ, ban, ngành, địa phương, tổ chức chính trị - xã hội, những hệ thống sử dụng hạ tầng nhà trạm, hạ tầng công nghệ thông tin tại vùng dùng chung của Trung tâm dữ liệu quốc gia gồm: Kho dữ liệu dùng chung, kho dữ liệu mở được đồng bộ từ kho dữ liệu tổng hợp tại vùng chuyên dụng; các hệ thống cơ sở dữ liệu quốc gia; các hệ thống của cơ quan, tổ chức khối Đảng, Quốc hội, tổ chức chính trị - xã hội; các hệ thống của cơ quan, đơn vị, tổ chức thuộc cơ quan nhà nước có nhu cầu sử dụng hạ tầng nhà trạm, hạ tầng công nghệ thông tin tại Trung tâm dữ liệu quốc gia.
+
+Người dân và doanh nghiệp thực hiện cung cấp và khai thác dữ liệu thông tin của mình và dữ liệu trong kho dữ liệu mở tại vùng dùng chung của Trung tâm dữ liệu quốc gia theo quy định.

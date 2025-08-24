@@ -1,0 +1,47 @@
+Theo thống kê từ Ngân hàng Nhà nước, quý 1/2025 ghi nhận khoảng 5,5 tỷ giao dịch không dùng tiền mặt, trong đó 4,5 tỷ giao dịch thực hiện qua kênh số với tổng giá trị khoảng 40 triệu tỷ đồng. Con số này cho thấy xu hướng thanh toán không tiền mặt đang ngày càng được phổ biến.
+
+Sự ra đời của Nghị quyết 57-NQ/TW cũng đã tạo nền tảng thúc đẩy chuyển đổi số toàn diện, bao gồm cả lĩnh vực tài chính, ngân hàng và thanh toán không tiền mặt. Theo định hướng quốc gia, đến năm 2025, kinh tế số dự kiến chiếm 20% GDP; đến năm 2030, tỷ lệ này tăng lên 30%.
+
+Thực tế cho thấy, thanh toán không tiền mặt tại Việt Nam đang mở rộng mạnh mẽ, với QR code trở thành phương thức phổ biến từ siêu thị, nhà hàng lớn cho đến quán ăn bình dân, gian hàng chợ truyền thống. Việc quét mã để thanh toán đang dần thay thế thói quen dùng tiền mặt trong đời sống hàng ngày.
+
+Đáng chú ý, hình thức thanh toán QR xuyên biên giới cũng đã được triển khai giữa Việt Nam và nhiều quốc gia như Lào, Thái Lan, Campuchia,... Điều này giúp người dân Việt Nam có thể thanh toán bằng tài khoản ngân hàng nội địa khi đi du lịch nước ngoài, đồng thời tạo thuận lợi cho du khách quốc tế chi tiêu tại Việt Nam.
+
+Không dừng lại ở đó, các ngân hàng thương mại trong nước đã tích cực ứng dụng công nghệ mới như Apple Pay, Google Pay và Garmin Pay, cho phép người dùng thanh toán nhanh chóng qua điện thoại hoặc đồng hồ thông minh. Hệ sinh thái thanh toán số ngày càng đa dạng và tiện lợi hơn bao giờ hết.
+
+Theo ông Takuya Wakui, Trưởng đại diện JCB Việt Nam, thị trường thanh toán không tiền mặt tại Việt Nam đang chứng kiến ba xu hướng nổi bật.
+
+Thứ nhất,sự bùng nổ của các phương thức thanh toán số như QR code, ví điện tử và mobile banking.
+
+Dẫn chứng từ thực tế cho thấy chỉ trong quý 1/2025, giao dịch qua QR code đã tăng hơn 81%, cho thấy người dùng ngày càng ưu tiên sự tiện lợi, nhanh chóng và không chạm.
+
+Ông Takuya Wakui cho biết mặc dù nhiều người nghĩ rằng điều này có thể “thách thức” thẻ tín dụng, nhưng thực tế các phương thức mới này vẫn chủ yếu liên kết với thẻ ngân hàng.
+
+“Thẻ vẫn đóng vai trò là hạ tầng cốt lõi cho hệ sinh thái thanh toán và tiếp tục giữ vai trò quan trọng, đặc biệt trong những tình huống cần sự linh hoạt như rút tiền mặt, hoặc tại các điểm chấp nhận thanh toán truyền thống”, ông Takuya Wakui nhận định.
+
+Thứ hai,xu hướng siêu cá nhân hóa (hyper-personalization). Cụ thể, người tiêu dùng không chỉ muốn thanh toán dễ dàng, mà còn kỳ vọng nhận được ưu đãi đúng nhu cầu và trải nghiệm liền mạch giữa online và offline.
+
+Thứ ba, yêu cầu ngày càng cao về bảo mật và xác thực số. Từ giữa năm 2024, Việt Nam đã áp dụng xác thực sinh trắc học trong giao dịch ngân hàng, điều này phản ánh kỳ vọng của người tiêu dùng vào sự an toàn,
+
+Những xu hướng này cho thấy hành vi người tiêu dùng đang dịch chuyển mạnh khỏi tiền mặt - một điều rất tích cực và phù hợp với xu hướng thúc đẩy thanh toán không dùng tiền mặt của các doanh nghiệp, ngân hàng.
+
+Thanh toán không tiền mặt đang dần trở thành xu hướng tất yếu, mang lại lợi ích thiết thực cho cả người dân lẫn doanh nghiệp, góp phần thúc đẩy kinh tế số phát triển bền vững.
+
+Tuy nhiên, sự phát triển nhanh của công nghệ cũng kéo theo những thách thức về bảo mật, nhiều người dùng đã gặp phải tình trạng bị lộ thông tin cá nhân, lừa đảo,... khi nhấp vào các đường link giả mạo. Do đó, dù công cụ thanh toán hiện đại đến đâu, việc trang bị kiến thức và kỹ năng sử dụng an toàn vẫn là yêu cầu cấp thiết trong bối cảnh chuyển đổi số diễn ra sâu rộng.
+
+Nhận thức rõ tầm quan trọng của việc bảo vệ người dùng và đảm bảo an toàn cho hệ thống tài chính quốc gia, ngày 28/6/2024, Ngân hàng Nhà nước đã ban hành Thông tư 18/2024/TT-NHNN quy định chi tiết về hoạt động thẻ ngân hàng; trong đó có lộ trình cụ thể về việc ngừng giao dịch thẻ từ và bắt buộc chuyển đổi sang thẻ chip.
+
+Thông tư 18 cùng với Công văn 1099/NHNN-TT ngày 19/2/2025, đã đặt ra mốc thời gian rõ ràng là từ ngày 1/7/2025, toàn bộ thẻ ATM sử dụng công nghệ từ sẽ chính thức bị ngừng chấp nhận giao dịch trên toàn hệ thống ngân hàng.
+
+Quy định này áp dụng cho tất cả các loại thẻ có dải từ, bao gồm cả thẻ chỉ có dải từ và thẻ kết hợp chip với từ nếu không đạt chuẩn. Các quy định này là bước đi tất yếu và mạnh mẽ của ngành Ngân hàng nhằm tăng cường bảo mật cho khách hàng, thúc đẩy sự phát triển của công nghệ thanh toán hiện đại tại Việt Nam.
+
+Không chỉ vậy, các doanh nghiệp cũng không ngừng thúc đẩy phát triển tính bảo mật trong thanh toán nhằm đáp ứng yêu cầu ngày càng cao của người dùng; đồng thời phù hợp với xu hướng chuyển đổi số và các tiêu chuẩn quốc tế ngày càng khắt khe.
+
+Mới đây, VNPAY cũng đã trở thành đơn vị đầu tiên tại Việt Nam và xếp thứ 26 trên thế giới đạt chứng chỉ bảo mật MPoC – tiêu chuẩn quốc tế mới nhất do Hội đồng Tiêu chuẩn Bảo mật Ngành Thẻ Thanh toán (PCI SSC) công bố, dành cho các giải pháp thanh toán không tiếp xúc trên thiết bị di động. Việc đạt chứng chỉ MPoC giúp nâng cao tính bảo mật, đồng thời thúc đẩy mở rộng thanh toán không tiền mặt trên diện rộng.
+
+Giải pháp VNPAY PhonePOS cho phép người dùng thực hiện thanh toán và nhập mã PIN trực tiếp trên smartphone, thay vì cần máy POS chuyên dụng. Đã được triển khai tại hơn 10.000 doanh nghiệp, PhonePOS tích hợp trong ứng dụng VNPAY Merchant, hỗ trợ thanh toán chạm với thẻ Visa, MasterCard, JCB, Napas... và các ví điện tử như Google Pay, Samsung Pay hay Apple Pay.
+
+Mặt khác, theo ông Takuya Wakui, yêu cầu ngày càng cao về bảo mật và xác thực số đang đặt ra áp lực lớn cho các tổ chức tài chính. Việc áp dụng xác thực sinh trắc học trong giao dịch ngân hàng tại Việt Nam cho thấy người tiêu dùng ngày càng ưu tiên sự an toàn.
+
+Đây vừa là thách thức, vừa là động lực để những doanh nghiệp như JCB thúc đẩy đổi mới công nghệ, cá nhân hóa trải nghiệm và xây dựng hệ sinh thái thanh toán an toàn, linh hoạt, phù hợp với nhu cầu ngày càng đa dạng của người tiêu dùng.
+
+Bên cạnh đó, JCB cũng đang đẩy mạnh hợp tác chiến lược với các ngân hàng địa phương và đối tác công nghệ để mở rộng mạng lưới chấp nhận thẻ. Đồng thời, tích hợp thẻ JCB vào các ví điện tử và hệ sinh thái thanh toán phổ biến tại Việt Nam nhằm đảm bảo người dùng có thể tiếp cận JCB ở bất cứ đâu, với trải nghiệm nhanh chóng và bảo mật cao.

@@ -1,0 +1,19 @@
+Thông tin về việc triển khai thí điểm khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chip, ông Nguyễn Hoàng Phương, Phó Giám đốc Trung tâm Công nghệ thông tin, Bảo hiểm xã hội Việt Nam, cho biết tính đến ngày 29/6/2022, hệ thống đã xác thực 47.414.355 thông tin nhân khẩu (bao gồm cả nhân khẩu có số chứng minh nhân dân và căn cước công dân) có trong cơ sở dữ liệu quốc gia về bảo hiểm với cơ sở dữ liệu quốc gia về dân cư.
+
+Đồng thời, Bảo hiểm xã hội Việt Nam cũng đã cung cấp, chia sẻ trên 35.636.200 lượt bản ghi thông tin bảo hiểm xã hội, bảo hiểm y tế, cho cơ sở dữ liệu quốc gia về dân cư.
+
+Bộ Y tế cũng đã có Công văn số 931/BYT-BH gửi các Sở Y tế và các cơ sở khám chữa bệnh trên toàn quốc về việc triển khai thí điểm khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp. Sau đó, Bảo hiểm xã hội Việt Nam cũng đã có Công số 533/BHXH-CSYT gửi BHXH các tỉnh, thành phố trực thuộc Trung ương để triển khai nội dung trên.
+
+Sau 4 tháng triển khai thí điểm khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp, tính đến hết tháng 6/2022, toàn quốc đã có 6.433 cơ sở khám chữa bệnh bảo hiểm y tế thực hiện tra cứu thông tin thẻ bảo hiểm y tế bằng căn cước công dân với 253.130 lượt tra cứu thành công phục vụ khám chữa bệnh bảo hiểm y tế bằng căn cước công dân gắn chíp.
+
+Đối với việc sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng “VssID- Bảo hiểm xã hội số” trong khám chữa bệnh bảo hiểm y tế, ông Phương cho biết, tính đến hết tháng 6/2022, trên toàn quốc đã có trên 26,2 triệu tài khoản giao dịch điện tử cá nhân được đăng ký, phê duyệt (dùng để đăng nhập sử dụng ứng dụng VssID). Trong đó có 673.755 người với 1.212.145 lượt sử dụng thẻ bảo hiểm y tế trên ứng dụng VssID để khám chữa bệnh bảo hiểm y tế.
+
+Trước đó, Bảo hiểm xã hội Việt Nam đã triển khai thí điểm sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để đi khám chữa bệnh bảo hiểm y tế thay cho thẻ bảo hiểm y tế giấy.
+
+Theo đó, người tham gia bảo hiểm y tế do 10 Bảo hiểm xã hội tỉnh, thành phố khu mực miền Trung - Tây Nguyên cấp thẻ bảo hiểm y tế, gồm: Hà Tĩnh, Quảng Bình, Quảng Trị, Thừa thiên - Huế, Đà Nẵng, Phú Yên, Bình Định, Quảng Nam, Quảng Ngãi, Kon Tum được dùng hình ảnh thẻ bảo hiểm y tế trên VssID để đi khám chữa bệnh tại các cơ sở có ký hợp đồng khám chữa bệnh bảo hiểm y tế.
+
+Đến ngày 31/5/2021, Bảo hiểm xã hội Việt Nam đã có Công văn số 1493 về việc sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để khám chữa bệnh bảo hiểm y tế. Theo đó, trên cơ sở ý kiến của Bộ Y tế về việc sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID để đi khám chữa bệnh bảo hiểm y tế, từ 1/6/2021, người bệnh bảo hiểm y tế đến khám chữa bệnh được sử dụng hình ảnh thẻ bảo hiểm y tế trên ứng dụng VssID thay thế cho thẻ bảo hiểm y tế giấy tại các cơ sở khám chữa bệnh bảo hiểm y tế trên toàn quốc.
+
+Thống kê của Bảo hiểm xã hội Việt Nam ước thực hiện đến hết tháng 6/2022 có trên 86,8 triệu người tham gia bảo hiểm y tế, đạt tỷ lệ bao phủ 88,99% dân số.
+
+Lũy kế đến hết tháng 6/2022, ước toàn Ngành đã giải quyết các chế độ bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho gần 6,3 triệu lượt người hưởng chế độ ốm đau, thai sản, dưỡng sức, phục hồi sức khỏe; giải quyết cho gần 65 triệu lượt người khám chữa bệnh bảo hiểm y tế nội trú và ngoại trú…

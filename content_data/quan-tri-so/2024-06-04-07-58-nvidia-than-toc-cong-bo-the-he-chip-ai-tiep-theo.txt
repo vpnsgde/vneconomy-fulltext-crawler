@@ -1,0 +1,25 @@
+Mới đây CEO của Nvidia, ông Jensen Huang đã tiết lộ “Rubin”, sản phẩm kế thừa của chip “Blackwell” dành cho các trung tâm dữ liệu. Rubin dự kiến bắt đầu được vận chuyển vào năm 2026 và hứa hẹn cải thiện hiệu quả sử dụng năng lượng.
+
+Bộ xử lý AI thế hệ mới này được ra mắt vào đúng thời điểm khi Nvidia đang cố gắng giải quyết những lo ngại rằng việc mở rộng trung tâm dữ liệu AI tiêu tốn năng lượng ở một số khu vực.
+
+Động thái bất ngờ cho thấy tham vọng của Nvidia đang chạy đua để củng cố sự thống trị của mình về bộ xử lý AI. Nvidia hiện đang là nhà cung cấp chip AI lớn nhất cho OpenAI, phục vụ cho việc huấn luyện ChatGPT. Cổ phiếu của công ty đã tăng gần gấp 3 lần chỉ trong 1 năm, đưa vốn hóa công ty vượt 2,68 nghìn tỷ USD.
+
+Theo báo cáo của Nvidia, công ty đã “bỏ túi” thêm khoảng 350 tỷ USD vốn hoá thị trường sau mức tăng trưởng tăng vọt và đang tiến gần đến việc vượt qua Apple để trở thành công ty có giá trị lớn thứ 2 thế giới.
+
+Trước đó, thị trường cũng chứng kiến loạt thay đổi mạnh mẽ khi Apple phải nhường vị trí công ty có giá trị lớn nhất cho Microsoft – đơn vị đứng sau sự phát triển mạnh mẽ của OpenAI và GPT.
+
+Trong khi Nvidia ngày nay bán phần lớn chip AI cần thiết để đào tạo các mô hình ngôn ngữ lớn - chẳng hạn như GPT của OpenAI, công ty phải đối mặt với sự cạnh tranh ngày càng tăng từ AMD và Intel, cũng như các chip đặt riêng được phát triển bởi các nhà cung cấp điện toán đám mây bao gồm Amazon, Google và Microsoft.
+
+Nvidia đã bắt đầu sản xuất các bộ xử lý đồ họa cách đây hơn 30 năm, đóng vai trò hỗ trợ cho CPU Intel trong các PC chơi game video. Nhưng hơn 15 năm trước, CEO Huang nhận ra rằng công nghệ bên trong GPU của họ cũng phù hợp với các tác vụ tính toán đòi hỏi nhiều dữ liệu khác, chẳng hạn như AI. Công ty hiện đang cố gắng thúc đẩy hoạt động kinh doanh chip PC bằng cách tận dụng sự thống trị của mình trong lĩnh vực chip AI cho các trung tâm dữ liệu.
+
+Cũng trong ngày 2/6, CEO của hãng sản xuất chip lớn nhất thế giới đã công bố các thỏa thuận với hai nhà sản xuất PC, Asus và MSI. Qua đó, công ty sẽ ra mắt các máy tính sử dụng bộ xử lý đồ họa GeForce RTX của Nvidia để hỗ trợ một loạt tác vụ AI, từ chạy trợ lý kỹ thuật số đến chỉnh sửa video và mã hóa.
+
+CEO Huang chia sẻ: “Máy tính xách tay trong tương lai của người dùng sẽ liên tục hỗ trợ ở chế độ nền. Máy tính PC sẽ chạy các ứng dụng được cải tiến bởi AI, từ các tác vụ viết, chỉnh sửa ảnh cho đến các tác vụ phức tạp hơn”.
+
+Ông lớn Microsoft gần đây cũng bật mí về một loạt PC và máy tính bảng được tăng cường AI, trang bị trợ lý Copilot, chạy trên chip của Qualcomm. Dự kiến, các thiết bị này sẽ bắt đầu ra mắt vào cuối tháng 6/2024. Microsoft dự kiến sẽ đưa chip Nvidia và chip đồ họa Radeon của AMD vào PC của mình trong tương lai.
+
+Doanh số bán PC đã sụt giảm kể từ đại dịch nhưng các nhà phân tích kỳ vọng rằng khi nhu cầu phục hồi, các công ty sẽ ngày càng lựa chọn PC AI được trang bị chip mạnh để chạy các ứng dụng AI, thay vì chỉ dựa vào đám mây.
+
+Các nhà phân tích cho biết PC AI sẽ mang lại sự đổi mới thú vị cho ngành công nghiệp PC trong hai đến ba thập kỷ qua, kể từ khi World Wide Web được tạo ra vào cuối những năm 1980. Việc chạy các ứng dụng AI trên thiết bị sẽ rẻ hơn và linh hoạt hơn so với trên đám mây và cũng sẽ đảm bảo quyền riêng tư, bảo mật dữ liệu tốt hơn.
+
+Các chuyên gia nhận định, PC AI sẽ chiếm khoảng 65% trong số các PC được sản xuất vào năm 2028, tăng khoảng 2% so với số lượng hiện tại.

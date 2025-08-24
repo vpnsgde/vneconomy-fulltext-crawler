@@ -1,0 +1,25 @@
+Các công ty công nghệ trên toàn cầu nói chung đang tìm cách khai phá các thị trường mới và Ấn Độ là một trong những thị trường hấp dẫn nhất hiện nay. Tuy nhiên một thách thức với các ông lớn trí tuệ nhân tạo (AI) hiện nay là làm sao có thể điều chỉnh sao cho phù hợp với sự đa ngôn ngữ và ngành nghề ở quốc gia đông dân nhất thế giới này.
+
+Microsoft, Google và các công ty khởi nghiệp bao gồm: Sarvam AI và Krutrim được Thung lũng Silicon hậu thuẫn (được thành lập bởi Bhavish Aggarwal của tập đoàn di động Ấn Độ Ola) đều đang nghiên cứu trợ lý giọng nói AI và chatbot hoạt động bằng các ngôn ngữ như tiếng Hindi và Tamil. Các công cụ này nhằm vào các ngành công nghiệp đang phát triển nhanh chóng của Ấn Độ như lĩnh vực dịch vụ khách hàng và trung tâm cuộc gọi lớn của đất nước.
+
+Ấn Độ có 22 ngôn ngữ chính thức, trong đó tiếng Hindi là ngôn ngữ phổ biến nhất. Tuy nhiên các nhà nghiên cứu ước tính số ngôn ngữ và phương ngữ được 1,4 tỷ người dân nước này sử dụng đã lên tới hàng nghìn. Google vào ngày 25/6 đã ra mắt trợ lý Gemini AI bằng 9 loại ngôn ngữ tại Ấn Độ.
+
+Trợ lý AI Copilot của Microsoft có sẵn bằng 12 ngôn ngữ Ấn Độ và công ty đang thực hiện các dự án khác được thiết kế riêng cho thị trường này, bao gồm xây dựng các mô hình ngôn ngữ nhỏ (SLM) tại trung tâm nghiên cứu có trụ sở tại Bengaluru. Những lựa chọn này thay thế cho các mô hình ngôn ngữ lớn (LLM) đắt tiền làm nền tảng cho AI tổng hợp có thể chạy trên điện thoại thông minh thay vì trên đám mây, khiến chúng rẻ hơn và có khả năng phù hợp hơn với các quốc gia như Ấn Độ - nơi khả năng kết nối có thể bị hạn chế.
+
+Ông Puneet Chandok, Chủ tịch Microsoft tại Ấn Độ và Nam Á, chia sẻ với phóng viên rằng Microsoft muốn làm cho AI trở nên đơn giản, dễ sử dụng và đưa nó đến tay tất cả khách hàng nói chung và Ấn Độ nói riêng. Ông nói thêm rằng: “điều này liên quan đến việc ngữ cảnh hóa cho phù hợp với bối cảnh Ấn Độ, giúp phù hợp hơn và trở nên chính xác hơn”.
+
+Microsoft cũng đang hợp tác với Sarvam AI. Công ty có trụ sở tại Bengaluru mới thành lập năm ngoái đang phát triển các công cụ AI tổng hợp hoàn chỉnh cho các doanh nghiệp Ấn Độ. Công ty khởi nghiệp này đã huy động được 41 triệu USD từ các nhà đầu tư bao gồm Peak XV, chi nhánh cũ của Sequoia tại Ấn Độ và Lightspeed Venture Partners có trụ sở tại Menlo Park.
+
+Đối tác của Lightspeed, Hemant Mohapatra cho biết việc đầu tư vào các công ty AI địa phương ngày càng trở nên quan trọng hơn khi các Chính phủ tìm cách phát triển “AI có chủ quyền” được đào tạo và lưu trữ trong biên giới của họ.
+
+Mohapatra cho biết: “Chuỗi cung ứng AI đang bắt đầu phân mảnh. Nếu bạn đang đào tạo một mô hình nền tảng ở Ấn Độ dựa trên dữ liệu, âm thanh, video, văn bản,...của công dân Ấn Độ thì đó phải là một công ty Ấn Độ, tập trung vào các trường hợp sử dụng của Ấn Độ, người cư trú tại Ấn Độ.”
+
+Cuộc đua AI của Ấn Độ không liên quan đến việc xây dựng LLM từ đầu để cạnh tranh với các công ty dẫn đầu như Open AI. Các nhà đầu tư cho rằng các nguồn lực và vốn cần thiết sẽ lên đến mức khó tin.
+
+Thay vào đó, các công ty như Sarvam AI đang tập trung vào việc điều chỉnh LLM hiện có cho ngôn ngữ Ấn Độ và sử dụng dữ liệu giọng nói thay vì văn bản. Điều này khiến chúng trở nên hiệu quả hơn ở một đất nước mà nhiều người thích giao tiếp qua tin nhắn âm thanh hơn là bằng văn bản.
+
+Bejul Somaia, đối tác của Lightspeed cho biết: “Vẫn còn một khoảng cách lớn giữa các mô hình cơ bản này khi đưa vào vận hành trong thế giới thực ở các quốc gia phức tạp như Ấn Độ. Ở một thị trường như Ấn Độ, bạn sẽ cần có một hệ sinh thái phát triển mạnh mẽ để cho phép các công ty sử dụng các tính năng cơ bản”.
+
+Bà Tanuja Ganu, Giám đốc của Microsoft Research ở Bengaluru, cho biết một lợi ích nữa của việc thử nghiệm các công nghệ và công cụ mới ở một quốc gia có quy mô và sự đa dạng như Ấn Độ là chúng có thể được xuất khẩu đi các nơi khác.
+
+“Họ đang sử dụng Ấn Độ làm nơi thử nghiệm và xác nhận một số công nghệ và hãy chờ xem cách chúng tôi có thể mở rộng nó sang các nơi khác trên thế giới”.

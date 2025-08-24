@@ -1,0 +1,28 @@
+Theo thống kê mới nhất vừa được Kaspersky Security Network công bố ngày 6/3/2023, số vụ tấn công trực tuyến tại Việt Nam được phát hiện và ngăn chặn trong năm 2022 là 41.989.163 vụ, giảm 33,8% so với 63.482.728 vụ vào năm 2021.
+
+Với con số này, Việt Nam đứng thứ 49 trên toàn thế giới về số lượng các cuộc tấn công trực tuyến vào năm 2022.
+
+Đáng chú ý, số vụ tấn công ngoại tuyến tại Việt Nam năm 2022 cũng đã giảm 25,39% so với năm 2021 và giảm tới 54,74% so với năm 2020, với tổng số 121.542.272 mối đe dọa liên quan đến phần mềm độc hại phát tán qua USB, CD, DVD và các phương thức ngoại tuyến khác. Trong năm 2022, Việt Nam duy trì vị trí thứ 31 trên toàn thế giới về các mối đe dọa ngoại tuyến.
+
+Trong khu vực, Lào là quốc gia có số lượng các mối đe dọa từ Internet thấp nhất, với 3.206.428 vụ. Trong khi đó, với tổng số 2.377.147 cuộc tấn công đã được phát hiện và ngăn chặn, Singapore là quốc gia ít bị tấn công nhất bởi các phương thức ngoại tuyến tại Đông Nam Á.
+
+Theo các chuyên gia, Việt Nam có được kết quả này là do năm 2022, Bộ Thông tin và Truyền thông chủ trì phát động chiến dịch làm sạch mã độc trên không gian mạng, với sự tham gia của đông đảo cơ quan, tổ chức, doanh nghiệp trên toàn quốc.
+
+Ngoài ra, Bộ cũng đã xây dựng và phối hợp với Bộ Khoa học và Công nghệ ban hành 5 tiêu chuẩn kỹ thuật quốc gia về an toàn thông tin mạng. Điều này thể hiện sự quyết tâm, nỗ lực của các cơ quan, tổ chức nhà nước trong việc bảo đảm an toàn, an ninh mạng quốc gia.
+
+Nhìn vào sự thay đổi bức tranh tấn công mạng ở Việt Nam, Ông Yeo Siang Tiong, Tổng Giám đốc Kaspersky khu vực Đông Nam Á nhận xét trong năm qua, tình hình an ninh mạng tại Việt Nam đã có nhiều khởi sắc nổi bật nhờ sự chung tay của chính phủ, các tổ chức tư nhân và doanh nghiệp.
+
+Tuy nhiên, trước những diễn biến khó lường trong cách tiếp cận và khai thác lỗ hổng của tội phạm mạng, chuyên gia này khuyến cáo các tổ chức, doanh nghiệp không ngừng nâng cao năng lực an ninh mạng để kịp thời phát hiện và xử lý các lỗ hổng.
+
+Bên cạnh đó, cần cải thiện cơ sở hạ tầng, ứng dụng công nghệ tiên tiến, tổ chức đào tạo về an ninh mạng cho nhân viên. Đây là những hành động cần thiết giúp các doanh nghiệp phòng thủ tốt hơn trước các cuộc tấn công mạng đang không ngừng mở rộng quy mô và mức độ phức tạp.
+
+Các chuyên gia an ninh mạng cũng khuyến cáo các tổ chức, doanh nghiệp thường xuyên kiểm tra và cài đặt các bản vá cập nhật mới để khắc phục các lỗ hổng bảo mật. Cung cấp các khóa đào tạo về an ninh mạng cho nhân viên, sử dụng mật khẩu mạnh trong doanh nghiệp.
+
+Cùng với đó cần phải thường xuyên sao lưu dữ liệu kinh doanh quan trọng và sử dụng xác thực đa yếu tố, đặc biệt khi truy cập thông tin tài chính hoặc đăng nhập vào mạng doanh nghiệp.
+
+
+
+Theo khảo sát mới đây, trên toàn cầu, ngân sách cho an ninh mạng sẽ tăng lên trong 3 năm tới ở cả doanh nghiệp vừa và nhỏ và các tập đoàn lớn. Năm 2022, ngân sách an ninh mạng trung bình tại tập đoàn là 3,75 triệu USD, trong đó 12,5 triệu USD được phân cho công nghệ thông tin nói chung. Trong khi đó, doanh nghiệp vừa và nhỏ đầu tư 150.000 USD cho bảo mật từ tổng ngân sách trung bình cho công nghệ thông tin là 375.000 USD.
+
+Tại khu vực châu Á- Thái Bình Dương, doanh nghiệp vừa và nhỏ và tập đoàn lớn dự tính tăng ngân sách cho phòng thủ trên thế giới số thêm 3% so với mức trung bình toàn cầu 14%.
+

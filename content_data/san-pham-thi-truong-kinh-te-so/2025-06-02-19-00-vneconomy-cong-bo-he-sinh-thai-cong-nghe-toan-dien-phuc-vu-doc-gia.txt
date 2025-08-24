@@ -1,0 +1,17 @@
+
+
+Ngày 2/6, Tạp chí Kinh tế Việt Nam/VnEconomy chính thức ra mắt hệ sinh thái Marcom-AI Platform và công bố thành lập Liên minh Dữ liệu và Trí tuệ nhân tạo (D.A Alliance). Trong đó, Marcom-AI Platform là một hệ sinh thái công nghệ toàn diện được xây dựng bởi Tạp chí Kinh tế Việt Nam/ VnEconomy cùng các đối tác công nghệ hàng đầu là Hemera, Actable AI Việt Nam.
+
+Vậy hệ sinh thái đó mang lại gì?
+
+Phát biểu tại Lễ công bố, bà Đào Thu Hà, Trưởng ban Digital Business, Tạp chí Kinh tế Việt Nam/VnEconomy, cho biết hệ sinh thái truyền thông - công nghệ này bao gồm nền tảng CMS thế hệ mới giúp quản lý nội dung linh hoạt, hiệu quả, tối ưu hóa giao diện và sẵn sàng cho việc tích hợp AI. Nền tảng này không chỉ giải quyết những hạn chế của các hệ thống CMS truyền thống mà còn mang đến sự linh hoạt, mạnh mẽ và khả năng mở rộng vượt trội cho các cơ quan báo chí và tổ chức.
+
+Đáng chú ý, hệ sinh thái này còn tích hợp nền tảng công cụ trí tuệ nhân tạo ưu việt cho lĩnh vực báo chí, truyền thông - Asko Platform, được phát triển bởi đối tác công nghệ Actable AI Việt Nam và thiết kế chuyên biệt cho ngành truyền thông, các mô hình lõi AI này là "trợ thủ đắc lực" giúp doanh nghiệp và tổ chức tối ưu hóa mọi hoạt động.
+
+Nền tảng này bao gồm các công cụ như Askonomy Smartchat - Trợ lý thông tin kinh tế; Asko Brief - Trợ lý tóm tắt thông tin kinh tế; AskoVerse - Công cụ dịch thuật thông tin kinh tế; AskoVocal - Công cụ chuyển đổi văn bản thành giọng nói linh hoạt; Asko Vocal Premium - Công cụ tạo giọng nói độc quyền.
+
+Đối với người dùng, đây là một nền tảng dữ liệu kinh tế phong phú, dễ tra cứu, được cập nhật theo thời gian thực và được cá nhân hóa sâu theo nhu cầu. Người dùng Askonomy – một phần của hệ sinh thái – còn được hưởng đặc quyền như đọc sớm các bài viết chuyên sâu, tham dự các sự kiện độc quyền và kết nối trực tiếp với các chuyên gia đầu ngành.
+
+Đối với doanh nghiệp, hệ sinh thái này là một mạng lưới phân phối nội dung đa nền tảng từ báo điện tử, ấn phẩm in tới mạng xã hội kết hợp với các công cụ AI và giải pháp truyền thông số do VnEconomy phát triển, nhằm tối ưu hóa hiệu quả truyền thông, nâng cao năng lực tiếp cận và kết nối khách hàng.
+
+“Điều làm nên sự khác biệt lớn nhất là chúng tôi không chỉ làm báo. Chúng tôi đang kiến tạo những giá trị dài hạn – nơi báo chí không dừng lại ở việc đưa tin, mà trở thành một phần của trải nghiệm, của sự kết nối và tạo ra giá trị cộng hưởng thực sự cho cả độc giả lẫn doanh nghiệp”, bà Hà nhấn mạnh.

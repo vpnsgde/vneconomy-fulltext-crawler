@@ -1,0 +1,29 @@
+Bộ Thông tin và Truyền thông đang xây dựng, lấy ý kiến các cơ quan, tổ chức, doanh nghiệp và người dân về dự thảo Thông tư Sửa đổi 1:2023 QCVN 81:2019/BTTTT “Quy chuẩn kỹ thuật quốc gia về chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động mặt đất”, trong đó sửa đổi bổ sung quy định tốc độ tối thiểu đối với dịch vụ Internet di động 3G, 4G.
+
+Hiện nay, mạng thông tin di động mặt đất 4G đã phủ sóng rộng hầu hết khắp các tỉnh, thành trong cả nước. Dịch vụ truy nhập Internet di động 4G đã trở thành dịch vụ phổ biến và được đông đảo khách hàng lựa chọn. Theo thống kê của Cục Viễn thông, tính đến tháng 4/2023, số lượng thuê bao băng rộng di động ở Việt Nam đạt khoảng 84 triệu thuê bao.
+
+Để đảm bảo chất lượng dịch vụ, trước đó, tháng 8/2019, Bộ Thông tin và Truyền thông đã ban hành Quy chuẩn kỹ thuật quốc gia QCVN 81:2019/BTTTT “Quy chuẩn kỹ thuật quốc gia về chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động mặt đất”.
+
+Quy chuẩn quy định, các doanh nghiệp cung cấp dịch vụ phải công bố vùng cung cấp dịch vụ dưới dạng bản đồ số và các giá trị tốc độ tải xuống tối thiểu (Vdmin), tốc độ tải xuống trung bình (Vd), tốc độ tải lên trung bình (Vu) trong vùng cung cấp dịch vụ.
+
+Định kỳ hàng quý, Cục Viễn thông triển khai đo kiểm chất lượng dịch vụ truy nhập Internet 4G phục vụ công tác quản lý nhà nước về chất lượng dịch vụ để so sánh, đánh giá với mức doanh nghiệp công bố.
+
+Tuy nhiên, trong tài liệu dự thảo Thông tư, Bộ Thông tin và Truyền thông cho biết so sánh tốc độ công bố của doanh nghiệp với tốc độ thực tế theo kết quả đo kiểm của Cục, thống kê (tháng 5/2023) từ công cụ I-speed (Bộ Thông tin và Truyền thông) và công cụ Speedtest (Ookla) đều cho thấy các giá trị tốc độ tải dữ liệu mà doanh nghiệp công bố là rất thấp.
+
+Từ hiện trạng về băng tần được cấp phép (băng tần cho 4G, băng tần cấp phép cho công nghệ 2G, 3G tái sử dụng cho 4G), kết quả đo kiểm định kỳ hàng năm của Cục Viễn thông, tham khảo kết quả đo kiểm của ứng dụng I-speed và kết quả đo kiểm của ứng dụng Speedtest cho thấy, doanh nghiệp cam kết giá trị tốc độ tải chỉ bằng khoảng 40% giá trị tốc độ tải thực tế của mạng lưới.
+
+Để thúc đẩy doanh nghiệp nâng cao chất lượng dịch vụ, tăng tính cạnh tranh giữa các doanh nghiệp, tăng thứ hạng quốc tế, thuê bao nhận thức được thực tế chất lượng dịch vụ, Bộ Thông tin và Truyền thông cho rằng việc tương cường quản lý chất lượng đối với dịch vụ Internet 4G trên cơ sở sửa đổi QCVN 81:2019/BTTTT là cần thiết. Trong đó, nội dung sửa đổi chính tập trung bổ sung quy định tốc độ tối thiểu đối với dịch vụ Internet 4G và 3G.
+
+Về việc lựa chọn quy định làm cơ sở cho việc sửa đổi QCVN 81:2019/BTTTT, từ thực tế ở các quốc gia trong khu vực và trên thế giới, tổng quát hóa các thông tin khảo sát, cơ quan quản lý cho biết có 2 hướng quản lý về tốc độ truy nhập Internet 4G.
+
+Thứ nhất, một số nước không quy định giá trị tốc độ cụ thể và yêu cầu doanh nghiệp tự công bố (tương tự như QCVN 81:2019/BTTTTT mà Việt Nam hiện đang quy định).
+
+Thứ hai, quy định giá trị tốc độ tải tối thiểu, yêu cầu doanh nghiệp đáp ứng (giá trị quy định dải rộng từ 2 Mbit/s tới 30 Mbit/s); QCVN 81:2014/BTTTT về chất lượng dịch vụ Internet 3G quy định tốc độ tối thiểu 01 Mbit/s.
+
+“Quy chuẩn kỹ thuật quốc gia về chất lượng dịch vụ truy nhập Internet trên mạng viễn thông di động mặt đất”- QCVN 81:2019/BTTTT của Việt Nam hiện không quy định giá trị cụ thể về tốc độ tải dữ liệu mà yêu cầu tự công bố nhằm nhằm tạo động lực cạnh tranh giữa các doanh nghiệp, nâng cao chất lượng. Tuy nhiên hiệu quả thực tế triển khai áp dụng của quy định như vậy chưa tương xứng với năng lực cung cấp thực tế của doanh nghiệp.
+
+Với các băng tần hiện tại và khi các điều kiện đã đầy đủ trong thời gian tới, các doanh nghiệp di động sẽ tiếp tục có thêm các băng tần mới như 2,3 GHz để phục vụ triển khai băng rộng 4G. Do đó, tốc độ băng rộng di động sẽ còn cao hơn nữa so với hiện tại là hoàn toàn hợp lý.
+
+Cũng theo thông tin khảo sát, tốc độ tối thiểu thực tế đối với băng rộng 4G của toàn cầu là 30 Mbit/s. Tốc độ trung bình thực tế đối với băng rộng di động nói chung của khu vực Châu Á - Thái Bình Dương là 31 Mbit/s.
+
+Do vậy, cơ quan quản lý cho rằng cần thiết có những nghiên cứu, đánh giá, tìm hiểu thông tin phù hợp để quy định mức giá trị tốc độ tải cụ thể đối với dịch vụ truy nhập Internet 3G và 4G.

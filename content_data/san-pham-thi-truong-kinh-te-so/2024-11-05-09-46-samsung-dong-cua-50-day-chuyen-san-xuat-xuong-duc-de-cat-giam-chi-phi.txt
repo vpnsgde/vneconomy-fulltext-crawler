@@ -1,0 +1,15 @@
+Bộ phận bán dẫn của Samsung Electronics đang tạm thời đóng cửa dây chuyền sản xuất tại một số cơ sở đúc (sản xuất theo hợp đồng) để giảm chi phí. Trước đó, Samsung Electronics đã ngừng hoạt động hơn 30% dây chuyền sản xuất đúc 4nm, 5nm và 7nm tại cơ sở đúc Pyeongtaek tuyến 2 và tuyến 3 và có kế hoạch mở rộng đóng cửa lên khoảng 50% toàn bộ cơ sở đúc vào cuối năm nay, theo các nguồn tin quen thuộc.
+
+Các nhà phân tích ước tính hoạt động kinh doanh đúc của Samsung đã gây lỗ tới 1 nghìn tỷ won trong quý thứ ba (726 triệu USD), khiến công ty phải thực hiện các biện pháp cắt giảm chi phí bằng cách dừng hoạt động các bộ phận của dây chuyền sản xuất, tờ The Chosun đưa tin.
+
+Quyết định trên phản ánh nỗ lực của Samsung trong việc giảm chi phí hoạt động của bộ phận đúc khi phải vật lộn với tình trạng các đơn đặt hàng quy mô lớn từ các công ty công nghệ toàn cầu như Nvidia, AMD và Qualcomm ngày càng hạn chế.
+
+Thay vì để dây chuyền sản xuất tiếp tục hoạt động nhưng ở công suất thấp, các nguồn tin báo cáo rằng Samsung đã quyết định tắt nguồn điện để giảm chi phí.
+
+Một người thân thuộc với nguồn tin cho biết: “Samsung tuyên bố họ sẽ duy trì các cơ sở với công suất thấp hơn, nhưng trên thực tế, công ty đang dần đóng cửa các đường dây. Kế hoạch hiện tại là giảm hoạt động xuống còn khoảng 50% vào cuối năm nay".
+
+Các đơn đặt hàng của các công ty Trung Quốc trước đây chiếm một phần đáng kể trong khối lượng quy trình 4nm và 5nm của Samsung. Tuy nhiên, những hạn chế thương mại của Mỹ đối với ngành công nghiệp bán dẫn của Trung Quốc đã khiến một số công ty sản xuất của Trung Quốc trì hoãn các dự án.
+
+Một số chuyên gia lo ngại rằng các biện pháp cắt giảm chi phí của Samsung có thể làm suy yếu khả năng cạnh tranh của họ trong lĩnh vực đúc.
+
+Lee Jong-hwan, Giáo sư kỹ thuật bán dẫn hệ thống tại Đại học Sangmyung cho biết: “Khi Samsung Electronics tập trung vào chip nhớ, xương sống của hoạt động kinh doanh bán dẫn, hoạt động kinh doanh đúc đã bị đẩy lùi. Với việc các cơ sở sản xuất ngừng hoạt động, khoảng cách ngày càng tăng với TSMC một lúc nào đó sẽ khiến Samsung khó khăn để bắt kịp”.

@@ -1,0 +1,14 @@
+Thứ trưởng Bộ Thông tin và Truyền thông Phạm Đức Long vừa quyết định sử dụng đầu số 156 làm số dùng chung tiếp nhận, xử lý yêu cầu tra cứu thông tin tên miền.
+
+Theo quyết định này, Bộ Thông tin và Truyền thông giao Trung tâm Internet Việt Nam (VNNIC) chủ trì phối hợp với Cục Viễn thông, các doanh nghiệp viễn thông tiếp nhận và xử lý yêu cầu tra cứu thông tin tên miền bằng phương thức nhắn tin qua đầu số 156.
+
+Trung tâm Internet Việt Nam hướng dẫn các doanh nghiệp viễn thông cách thức kết nối, trao đổi thông tin giữa hệ thống của doanh nghiệp và hệ thống của VNNIC để triển khai hệ thống tiếp nhận và xử lý yêu cầu tra cứu thông tin tên miền bằng phương thức nhắn tin qua đầu số 156.
+
+Bộ yêu cầu Cục Viễn thông phối hợp với Trung tâm Internet Việt Nam trong làm việc, trao đổi, hướng dẫn các doanh nghiệp viễn thông để tổ chức triển khai hệ thống.
+
+Các doanh nghiệp viễn thông phối hợp các đơn vị của Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam; Cục Viễn thông) để triển khai hệ thống tra cứu thông tin tên miền bằng phương thức nhắn tin qua đầu số 156. Cùng với đó thực hiện các quy trình tiếp nhận, lưu trữ, chuyển tiếp, xử lý yêu cầu tra cứu thông tin tên miền theo hướng dẫn của Trung tâm Internet Việt Nam và Cục Viễn thông.
+
+Trước đó, từ ngày 1/11/2022, Bộ Thông tin và Truyền thông triển khai thí điểm đầu số 156 tiếp nhận phản ánh về cuộc gọi rác, cuộc gọi có dấu hiệu lừa đảo qua 2 hình thức thoại và tin nhắn. Đây là đầu số được sử dụng thống nhất trên toàn quốc và triển khai với tất cả các nhà mạng cung cấp dịch vụ viễn thông cố định, di động.
+
+Cụ thể, khách hàng gửi tin nhắn (miễn phí) tới đầu số 156 theo cú pháp: S (số điện thoại- nguồn phát tán) (nội dung phản ánh) gửi 156 (hoặc 5656). Với cuộc gọi có dấu hiệu gọi rác, khách hàng soạn V (số điện thoại- nguồn phát tán) (nội dung phản ánh) gửi 156 (hoặc 5656). Với cuộc gọi có dấu hiệu lừa đảo, khách hàng soạn LD (số điện thoại- nguồn phát tán) (nội dung phản ánh) gửi 156 (hoặc 5656).
+

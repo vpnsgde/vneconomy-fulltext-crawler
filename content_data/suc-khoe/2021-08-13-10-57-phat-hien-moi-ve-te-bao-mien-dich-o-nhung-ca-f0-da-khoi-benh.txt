@@ -1,0 +1,21 @@
+Một nghiên cứu gần đây của Đại học Emory (Mỹ) được công bố trên tạp chí y học Cell Reports Medicine cho thấy những bệnh nhân Covid-19 được phục hồi vẫn giữ được khả năng miễn dịch rộng và hiệu quả lâu dài hơn đối với căn bệnh này.
+
+Tác giả chính, tiến sĩ Rafi Ahmed, thành viên của Học viện Khoa học Quốc gia Mỹ, nhà miễn dịch học từ Trung tâm Vaccine Emory - Đại học Emory (Mỹ), cho biết: “Nghiên cứu đã giúp xác định và dự đoán khả năng miễn dịch lâu dài đối với SARS-CoV-2 ở bệnh nhân khỏi bệnh. Trong giai đoạn này, chúng tôi cũng thấy những dấu hiệu cho thấy khả năng miễn dịch tự nhiên có thể tiếp tục tồn tại”.
+
+Sau khi người bị nhiễm Covid-19 hồi phục, hệ miễn dịch của họ sẽ ghi nhớ về virus này. Các tế bào miễn dịch và protein lưu thông trong cơ thể họ có thể nhận ra và tiêu diệt mầm bệnh nếu gặp lại lần nữa, nhằm bảo vệ cơ thể chống lại bệnh và giảm mức độ nghiêm trọng của bệnh.
+
+Nghiên cứu bao gồm 254 bệnh nhân đã trải qua các triệu chứng Covid-19 từ nhẹ đến trung bình trong 8 tháng, cho thấy khả năng miễn dịch của bệnh nhân Covid-19  vẫn mạnh mẽ trong suốt thời gian đó. Nghiên cứu cũng cho thấy đáp ứng miễn dịch tăng lên theo mức độ nghiêm trọng của các triệu chứng mà bệnh nhân biểu hiện, cũng như tuổi của bệnh nhân nhiễm SARS-CoV-2 .
+
+Với cái nhìn rõ hơn về cách hệ thống miễn dịch phản ứng với Covid-19, nghiên cứu chỉ ra rằng một số tế bào nhất định đã được kích hoạt bởi hệ thống miễn dịch để cải thiện trí nhớ miễn dịch. Phản ứng này sẽ kích hoạt phản ứng miễn dịch mạnh hơn chống lại sự tái nhiễm trong tương lai. Ngoài ra, những phát hiện của nghiên cứu này cho thấy khả năng miễn dịch bảo vệ chống lại một số biến thể của Covid-19. Hiện tại, các bệnh viện đang chứng kiến sự gia tăng đáng kể các trường hợp Covid-19 liên quan đến biến thể Delta.
+
+Nhóm nghiên cứu cho rằng khả năng miễn dịch tự nhiên của bệnh nhân Covid-19 khỏi bệnh đủ mạnh mẽ để chống lại các biến thể. Trong khi một số nghiên cứu cho rằng vaccine Covid-19 có thể kém hiệu quả hơn một chút đối với các biến thể. Các bệnh nhân Covid-19 đã phục hồi cũng có kháng thể chống lại các virus corona gây cảm lạnh thông thường khác.
+
+Tiến sỹ Ahmed cho biết, "Chúng tôi thấy rằng các phản ứng kháng thể, đặc biệt là kháng thể IgG, không chỉ bền ở đại đa số bệnh nhân mà còn bị phân hủy với tốc độ chậm hơn so với ước tính trước đây, điều này cho thấy rằng bệnh nhân đang tạo ra các tế bào huyết tương sống lâu hơn có thể vô hiệu hóa SARS -CoV-2 tăng đột biến protein. "
+
+Đáng chú ý nhất, với nghiên cứu này và nhiều nghiên cứu tương tự, các nhà nghiên cứu có thể tạo ra vaccine hiệu quả hơn chống lại Covid-19 và các chủng corona virus trong tương lai. Ahmed giải thích:"Vaccine nhắm vào các bộ phận khác của virus chứ không chỉ là protein đột biến có thể hữu ích hơn trong việc ngăn chặn sự lây nhiễm vì các biến thể SARS-CoV-2 vượt qua các chủng hiện hành. Điều này có thể mở đường cho chúng tôi thiết kế vaccine giải quyết nhiều loại corona virus ".
+
+Trước đó, một nghiên cứu đăng trên Tạp chí Nature cũng cho thấy trong cơ thể những người từng mắc Covid-19 thể nhẹ sau vài tháng khỏi bệnh vẫn còn các tế bào miễn dịch tiếp tục sản sinh kháng thể chống virus SARS-CoV-2 và có thể tồn tại suốt đời. Đó là nghiên cứu do các nhà khoa học thuộc Đại học Washington ở St. Louis (Mỹ) thực hiện.
+
+Tuy nhiên, nghiên cứu cũng cho thấy ngay cả khi bạn bị nhiễm bệnh không có nghĩa là bạn có phản ứng siêu miễn dịch và những người đã khỏi bệnh sau khi mắc Covid-19 vẫn nên tiêm chủng, ít nhất là 1 mũi vaccine. Việc tiêm chủng sẽ khiến lượng kháng thể trong cơ thể được khuếch đại mạnh mẽ. Ngoài ra, việc tiêm chủng cũng giúp hoạt động vô hiệu hóa của kháng thể trong cơ thể được tăng khoảng 50 lần.
+
+Các nhà khoa học cho biết, cuộc chiến của cơ thể trước virus sống sẽ khác với việc phản ứng trước protein virus do vaccine đưa vào cơ thể. Hơn nữa, ở những người từng mắc Covid-19, phản ứng miễn dịch ban đầu đã có thời gian để củng cố trong 6 - 12 tháng, trước khi được vaccine kích hoạt.

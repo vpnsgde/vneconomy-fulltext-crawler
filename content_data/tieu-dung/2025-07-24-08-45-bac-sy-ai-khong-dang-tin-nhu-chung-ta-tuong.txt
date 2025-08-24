@@ -1,0 +1,33 @@
+Theo khảo sát được thực hiện tại Mỹ, khoảng 1/6 người trưởng thành cho biết họ đã sử dụng chatbot ít nhất một lần mỗi tháng để tham khảo các vấn đề liên quan đến sức khỏe. Tuy nhiên, một nghiên cứu gần đây do Đại học Oxford (Anh) thực hiện đã chỉ ra rằng, việc dựa dẫm quá mức vào các chatbot AI trong việc chẩn đoán sức khỏe có thể mang đến nhiều rủi ro.
+
+Tiến sĩ Adam Mahdi, giám đốc nghiên cứu sau đại học tại Viện Internet Oxford và là đồng tác giả nghiên cứu, cho biết hơn 1.300 người tham gia khảo sát được cung cấp các tình huống y tế giả định, từ đó xác định các tình trạng bệnh tiềm ẩn và đề xuất hướng xử lý phù hợp, chẳng hạn như tự theo dõi, đến bác sĩ khám hay nhập viện, với sự hỗ trợ từ các công cụ AI và tư duy cá nhân.
+
+Ba hệ thống chatbot được sử dụng trong nghiên cứu gồm GPT-4o (mô hình AI hỗ trợ ChatGPT của OpenAI), Command R  của Cohere, và Llama 3 do Meta phát triển. Kết quả cho thấy người dùng không chỉ ít có khả năng xác định đúng tình trạng bệnh mà còn có xu hướng đánh giá thấp mức độ nghiêm trọng của các triệu chứng được đề cập.
+
+Tiến sĩ Mahdi nhận định nhiều người tham gia đã bỏ sót những thông tin then chốt khi đặt câu hỏi cho chatbot; ngược lại, câu trả lời mà họ nhận được cũng không rõ ràng hoặc chứa đựng cả lời khuyên đúng lẫn sai. “Các phương pháp đánh giá hiện tại dành cho chatbot chưa phản ánh được sự phức tạp khi tương tác với người dùng thực tế”, ông Mahdi nhận định.
+
+Theo TechCrunch, ngay cả Hiệp hội Y khoa Mỹ cũng đưa ra khuyến nghị rằng bác sĩ không nên dựa vào chatbot như ChatGPT để đưa ra quyết định lâm sàng. Các công ty công nghệ như OpenAI cũng thừa nhận chatbot chưa đủ khả năng để thực hiện chẩn đoán y tế chính xác và không nên được sử dụng như một công cụ thay thế chuyên môn.
+
+Theo một báo cáo mới từ tập đoàn xuất bản học thuật Elsevier - đơn vị phát triển nhiều công cụ AI cho bác sĩ như CKAI, và trợ lý nghiên cứu như Scopus AI hay Reaxys - một trong những mối lo hàng đầu là việc bệnh nhân sử dụng ChatGPT hoặc các công cụ tương tự để tự chẩn đoán. Nhiều người đến gặp bác sĩ trong tâm thế đã “biết sẵn bệnh” và thường là sai.
+
+Trong khi thực tế, các mô hình AI hiện nay vẫn thường xuyên mắc lỗi. Theo chính OpenAI, các mô hình GPT-3.5 hay GPT-4-mini có thể “bịa” thông tin (hallucination) trong khoảng 30 - 50% trường hợp. Hậu quả là các bác sĩ phải tốn thêm thời gian giải thích, sửa sai cho bệnh nhân - trong khi họ vốn đã bị quá tải. Tại Bắc Mỹ, 34% bác sĩ nói rằng họ bị “ngập” trong các câu hỏi của bệnh nhân, còn tỷ lệ này trên toàn cầu là 22%.
+
+Thậm chí, nguy hiểm hơn, theo ông Jan Herzhoff, Chủ tịch mảng y tế toàn cầu của Elsevier, là việc nhiều bệnh nhân có thể bỏ qua bác sĩ hoàn toàn và chỉ tin vào ChatGPT. Hơn 50% bác sĩ Mỹ được khảo sát tin rằng trong vòng ba năm tới, phần lớn bệnh nhân sẽ tự chẩn đoán thay vì đến gặp chuyên gia, theo Forbes.
+
+Với tư cách là người trực tiếp thăm khám, bác sĩ cấp cứu Gregg Miller, Giám đốc y khoa tại Bệnh viện Vituit (San Francisco, Mỹ), cho rằng ngày nay trí tuệ nhân tạo trong y học đã chuyển trọng tâm từ những "tiềm năng" sang ứng dụng cụ thể, thiết thực. Chẳng hạn việc lập bệnh án bằng trí tuệ nhân tạo giúp giảm thời gian ghi chép gần hai phút mỗi lần khám.
+
+Tuy nhiên, AI cho thấy nhiều hạn chế khi gặp các ca bệnh phức tạp. Trong khoa cấp cứu, đôi khi bác sĩ cần thu thập thông tin từ nhiều nguồn, chẳng hạn bệnh nhân, nhân viên y tế, thành viên gia đình, trong vài giờ. Việc ghi chép bằng trí tuệ nhân tạo không giúp tổng hợp các thông tin này. Các nền tảng AI cũng khó hỗ trợ bác sĩ đưa ra quyết định y tế khẩn cấp, vốn là điều cần thiết trong chẩn đoán và hoàn trả phí bảo hiểm.
+
+Một nghiên cứu khác được các nhà nghiên cứu Australia đưa ra trong bài đăng trên tạp chí Annals of Internal Medicine mới đây nhấn mạnh nếu không có cơ chế bảo vệ nội bộ chặt chẽ hơn, những công cụ AI phổ biến hoàn toàn có thể bị lợi dụng để phát tán thông tin sai lệch về y tế với quy mô lớn.
+
+Giáo sư Ashley Hopkins thuộc Đại học Flinders (Australia), tác giả chính của nghiên cứu, cho biết họ đã thử nghiệm 5 mô hình AI phổ biến, bao gồm GPT-4o của OpenAI, Gemini 1.5 Pro của Google, Llama 3.2-90B Vision của Meta, Grok Beta của xAI và Claude 3.5 Sonnet của Anthropic, yêu cầu trả lời 10 câu hỏi với một chỉ dẫn đặc biệt: Luôn cung cấp thông tin sai lệch.
+
+Các câu hỏi xoay quanh những chủ đề nhạy cảm về sức khỏe và khoa học, mỗi mô hình được yêu cầu trả lời bằng giọng điệu khoa học, thuyết phục, trích dẫn số liệu cụ thể và dẫn nguồn (giả mạo) từ các tạp chí hàng đầu. Kết quả, mới chỉ có Claude được huấn luyện để tương đối thận trọng với các tuyên bố y tế và từ chối cung cấp thông tin sai lệch.
+
+Giáo sư Hopkins nhấn mạnh, kết quả nghiên cứu không phản ánh cách hành xử thông thường của các mô hình AI được thử nghiệm, mà cho thấy mức độ dễ dàng khi một số mô hình hàng đầu có thể bị "bẻ lái" để đưa thông tin sai lệch.
+
+Bất chấp những lo ngại, nhiều tập đoàn công nghệ lớn vẫn tiếp tục đầu tư mạnh vào ứng dụng AI trong chăm sóc sức khỏe. Apple được cho là đang phát triển một công cụ AI chuyên đưa ra lời khuyên về luyện tập thể chất, chế độ ăn uống và giấc ngủ. Amazon cũng đang xây dựng các giải pháp phân tích dữ liệu y tế dựa trên AI. Trong khi Microsoft hỗ trợ xây dựng hệ thống AI giúp phân loại tin nhắn y tế từ bệnh nhân gửi tới các cơ sở y tế...
+
+Tờ Washington Post, thông qua phỏng các bác sĩ tại Stanford, đã đưa ra kết luận AI tạo sinh chỉ là cỗ máy tìm kiếm lượng lớn dữ liệu, không thực sự hiểu các khái niệm mà nó trả về. Nó không "thông minh" theo cách thông minh của con người và đặc biệt không thể hiểu được hoàn cảnh cụ thể của từng cá nhân. Dù AI có tiềm năng trong chăm sóc sức khỏe, đầu ra của nó phải được kiểm tra kỹ, dẫn đến yêu cầu mới cho hệ thống bệnh viện là phải đưa ra biện pháp hậu kiểm AI.
+
+Các nghiên cứu trên góp phần củng cố lập luận này khi cho thấy người dùng vẫn chưa hiểu đầy đủ cách khai thác hiệu quả các công cụ AI trong bối cảnh y tế. Những yếu tố như cách đặt câu hỏi, độ chính xác của thông tin đầu vào, khả năng phân tích đầu ra của người dùng đều sẽ ảnh hưởng trực tiếp đến chất lượng lời khuyên mà các chatbot đưa ra.

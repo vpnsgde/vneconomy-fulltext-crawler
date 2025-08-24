@@ -1,0 +1,234 @@
+Công nghệ trí tuệ nhân tạo (AI) đang mở ra cánh cửa tiếp cận
+tri thức, giúp mọi cá nhân và doanh nghiệp vươn tới thành công vượt trội mà không
+còn bị giới hạn bởi quy mô nhân sự hay trình độ chuyên môn.
+
+Chính điều này thúc
+đẩy sự xuất hiện một mô hình doanh nghiệp mới gọi là doanh nghiệp tiên phong
+(Frontier Firm). Những doanh nghiệp này dù nhỏ nhưng nhờ biết ứng dụng AI để tối
+ưu hóa hiệu suất, tăng tốc đổi mới nên vẫn có thể cạnh tranh ngang tầm với bất
+cứ doanh nghiệp nào.
+
+NHỮNG NGÀNH NGHỀ AI CÓ THỂ THAY THẾ VÀ KHÓ THAY THẾ
+
+Microsoft cho rằng với sự trợ giúp của AI, một số ngành nghề
+do con người đảm nhận có thể bị thay thế bởi AI. Tuy nhiên, cũng cần cái nhìn
+khách quan để thấy rằng AI không hẳn hoàn toàn thay thế con người dù nó đã thực
+hiện các nhiệm vụ tự động, phức tạp hỗ trợ con người.
+
+Mới đây, Microsoft Research đã dựa vào phân tích hơn 200.000
+tương tác ẩn danh với AI của mình là Microsoft Copilot và 100.000 phản hồi từ
+người dùng để đưa ra báo cáo “Làm việc với AI: Đánh giá các tác động nghề nghiệp
+của AI tạo sinh” (Working with AI: Measuring the Occupational Implications of
+Generative AI).
+
+Nghiên cứu này sử dụng thang điểm “khả năng áp dụng AI” (AI
+applicability score), để đánh giá mức độ AI có thể hỗ trợ hoặc thay thế các nhiệm
+vụ trong từng ngành nghề với cơ sở dữ liệu của Bộ Lao động Hoa Kỳ. Kết quả đã
+xác định 40 công việc dễ bị AI thay thế nhất, chủ yếu tập trung vào các lĩnh vực
+liên quan đến xử lý ngôn ngữ, phân tích dữ liệu và giao tiếp.
+
+Theo đó, các ngành như: thông dịch viên và biên dịch viên,
+nhân viên phục vụ hành khách, thậm chí các lập trình viên công cụ CNC, phát
+thanh viên, phóng viên, biên tập viên… nằm tốp đầu dễ thay thế. Đồng thời báo
+cáo cũng chỉ ra nhóm công việc mà AI khó thay thế như: quản gia, giúp việc gia
+đình, nhân viên massage, thợ vận hành máy xúc, nhân viên y tế, giáo viên mầm
+non…
+
+Những công việc AI có thể thay thế thường có đặc điểm chung
+là các nhiệm vụ mang tính lặp lại, quy trình hóa hoặc liên quan đến xử lý thông
+tin mà các mô hình ngôn ngữ lớn (LLM) như Copilot có thể thực hiện hiệu quả.
+
+Ví
+dụ, trong lĩnh vực dịch thuật, AI có thể dịch văn bản nhanh chóng với độ chính
+xác cao, trong khi ở chăm sóc khách hàng, AI có thể trả lời các câu hỏi phổ biến
+24/7 mà không cần nghỉ ngơi. Báo cáo cũng chỉ ra rằng các công việc đòi hỏi
+trình độ cử nhân, đặc biệt trong môi trường văn phòng, có nguy cơ bị ảnh hưởng
+cao hơn so với các nghề lao động tay chân hoặc không yêu cầu trình độ cao.
+
+Mặt khác, Microsoft cũng nhấn mạnh, kết quả nghiên cứu không
+phải dự đoán mất việc làm mà chỉ đo lường mức độ AI có thể đảm nhận một phần hoặc
+toàn bộ nhiệm vụ trong các công việc này. Ví dụ, trong chăm sóc khách hàng,
+Copilot giảm 12% thời gian xử lý một trường hợp và giúp 10% trường hợp được giải
+quyết độc lập, cho thấy tiềm năng hỗ trợ mạnh mẽ của AI.
+
+Thực tế đó cũng cho thấy
+nguy cơ AI chiếm việc làm trong một số lĩnh vực. Ví dụ, việc IBM mới đây đã sa
+thải 8.000 nhân viên trong lĩnh vực nhân sự do tự động hóa AI cho thấy các công
+việc mang tính quy trình có thể bị giảm mạnh.
+
+Mặc dù AI có khả năng đảm nhận nhiều nhiệm vụ trong các
+ngành nghề như đã nói ở trên, nhưng điều này không đồng nghĩa với việc AI sẽ
+thay thế hoàn toàn con người. Thay vào đó, AI đóng vai trò như một công cụ hỗ
+trợ, giúp con người tập trung vào các nhiệm vụ đòi hỏi sáng tạo, tư duy phản biện
+và chiến lược – những khía cạnh mà AI hiện tại khó có thể mô phỏng một cách
+hoàn hảo.
+
+Hiện nay, Microsoft là một trong những đơn vị tiên phong nhấn
+mạnh mô hình “hợp tác với AI” tạo ra dòng tác nhân AI, lao động kỹ thuật số.
+
+Trong nghiên cứu, họ chỉ ra rằng các công việc như: nhà báo, nhà văn, hoặc
+chuyên gia phân tích thị trường, dù nằm trong danh sách dễ bị ảnh hưởng, vẫn cần
+con người để xử lý các nhiệm vụ phức tạp hơn. Một nhà báo có thể sử dụng AI để
+phân tích dữ liệu hoặc tạo bản thảo ban đầu, nhưng việc viết bài phân tích sâu
+sắc, đưa ra góc nhìn độc đáo, hoặc thực hiện phỏng vấn vẫn đòi hỏi tư duy và cảm
+xúc của con người.
+
+Tương tự, trong lĩnh vực chăm sóc khách hàng, AI có thể xử
+lý các câu hỏi cơ bản, nhưng các tình huống phức tạp hoặc cần sự đồng cảm vẫn
+yêu cầu phải có sự can thiệp của nhân viên.
+
+Những công việc ít bị AI ảnh hưởng nhất đều có đặc điểm
+chung là đòi hỏi thao tác vật lý, tương tác con người trực tiếp, hoặc phán đoán
+theo ngữ cảnh – những lĩnh vực mà AI hiện tại còn hạn chế. Điều này cho thấy
+trong khi AI có thể tự động hóa các nhiệm vụ lặp đi lặp lại, thì con người vẫn
+giữ vai trò trung tâm trong các công việc đòi hỏi sự sáng tạo, cảm xúc và khả
+năng ra quyết định phức tạp.
+
+TẠO RA HỆ SINH THÁI ĐỂ CON NGƯỜI VÀ AI CÙNG TỒN TẠI
+
+Theo một góc độ khác, AI không chỉ thay thế con người mà còn
+tạo ra cơ hội mới. Các nghiên cứu từ Lightcast cho thấy nhu cầu về kỹ năng AI
+tăng 800% kể từ năm 2022, dẫn đến sự xuất hiện các ngành nghề mới, như: kỹ sư gợi
+ý, chuyên gia phát triển AI, hoặc nhà quản lý dữ liệu...
+
+Các doanh nghiệp tiên
+phong được Microsoft đề cập chính là minh chứng cho việc AI thúc đẩy đổi mới,
+giúp các công ty nhỏ cạnh tranh với các tập đoàn lớn mà không cần nguồn lực khổng
+lồ. Một startup sử dụng AI để phân tích dữ liệu thị trường có thể đưa ra các
+chiến lược kinh doanh hiệu quả hơn mà không cần đội ngũ phân tích đông đảo.
+
+Chúng ta cũng cần lưu ý rằng nghiên cứu của Microsoft được
+thực hiện trong bối cảnh họ đang tích cực quảng bá tác nhân AI. Loại AI này có
+thể đưa ra quyết định độc lập, xử lý các tình huống phát sinh và phối hợp nhiều
+bước hành động nhằm hoàn thành mục tiêu, ví dụ như chuẩn bị báo cáo tài chính
+hay đặt lịch họp. Nó vừa là trợ lý, vừa là “nhân viên ảo” chủ động, có khả năng
+suy luận, ra quyết định và hành động để hoàn thành mục tiêu một cách linh hoạt
+và hiệu quả hơn so với các AI truyền thống...
+
+Nội dung đầy đủ bài viết được đăng tải trên Tạp chí Kinh tế Việt Nam số 32-2025 phát hành ngày 11/8/2025. Kính mời Quý độc giả tìm đọc tạiđây:
+
+https://postenp.phaha.vn/tap-chi-kinh-te-viet-nam/so-bao
+
+40 ngành nghề dễ bị AI thay thế
+
+40 ngành nghề dễ bị AI thay thế
+
+1.            Phiên dịch
+viên và biên dịch viên.
+
+2.            Nhà văn
+và tác giả.
+
+3.            Nhà báo.
+
+4.            Đại diện
+bán hàng.
+
+5.            Nhân viên
+dịch vụ khách hàng.
+
+6.            Lập trình
+viên.
+
+7.            Nhân viên
+văn thư và hành chính.
+
+8.            Nhà khoa
+học dữ liệu.
+
+9.            Nhà phân
+tích quản lý.
+
+10.          Nhà sử học.
+
+11.          Nhân viên
+nhập liệu.
+
+12.          Nhân viên
+kế toán sơ cấp.
+
+13.          Nhân viên
+phân tích tài chính.
+
+14.          Nhân viên
+marketing nội dung.
+
+15.          Nhân viên
+phân tích thị trường.
+
+16.          Thu ngân.
+
+17.          Nhân viên
+bán lẻ.
+
+18.          Tài xế
+(taxi, xe tải, giao hàng).
+
+19.          Nhân viên
+ngân hàng giao dịch cơ bản.
+
+20.          Nhân viên
+hỗ trợ pháp lý.
+
+21.          Nhân viên
+thiết kế đồ họa cơ bản.
+
+22.          Nhân viên
+quản lý lịch trình và đặt lịch hẹn.
+
+23.          Đại lý bảo
+hiểm.
+
+24.          Nhân viên
+giao dịch chứng khoán.
+
+25.          Nhân viên
+sản xuất nội dung giải trí.
+
+26.          Nhân viên
+kiểm soát chất lượng sản xuất.
+
+27.          Nhân viên
+quản lý chuỗi cung ứng.
+
+28.          Nhân viên
+chăm sóc khách hàng qua điện thoại.
+
+29.          Nhân viên
+quảng cáo.
+
+30.          Nhân viên
+xử lý dữ liệu.
+
+31.          Nhân viên
+nghiên cứu lịch sử.
+
+32.          Nhân viên
+viết kịch bản cơ bản.
+
+33.          Nhân viên
+lập kế hoạch sự kiện.
+
+34.          Nhân viên
+kiểm toán sơ cấp.
+
+35.          Nhân viên
+bán hàng tận nhà.
+
+36.          Nhân viên
+truyền thông xã hội.
+
+37.          Nhân viên
+xử lý đơn hàng.
+
+38.          Nhân viên
+soạn thảo hợp đồng.
+
+39.          Nhân viên
+nghiên cứu thị trường cơ bản.
+
+40.          Nhân viên
+tổng đài.
+
+(Nghiên cứu của Microsoft về Top 40 công việc dễ bị AI thay
+thế nhất)

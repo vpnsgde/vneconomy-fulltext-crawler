@@ -1,0 +1,21 @@
+Đảm bảo mạng hoạt động liên tục ngay cả khi một đường truyền bị ngắt hoặc có độ trễ cao, giảm thiểu đáng kể các chi phí điều hành mạng WAN, quản lý giám sát thông minh, độ bảo mật cao, triển khai nhanh chóng, đơn giản hóa công tác quản trị và vận hành là những ưu điểm vượt trội của giải pháp VNPT SD-WAN mà nhiều doanh nghiệp lựa chọn để khởi đầu cho quá trình chuyển đổi số.
+
+Với kinh nghiệm lâu năm và uy tín trong lĩnh vực mạng Internet đồng thời cũng là doanh nghiệp tiên phong trong chuyển đổi số, Tập đoàn VNPT hiểu được những gì doanh nghiệp cần để đẩy nhanh quá trình chuyển đổi số và VNPT SD-WAN chính là sự khởi đầu hoàn hảo cho tiến trình chuyển đổi số của doanh nghiệp.
+
+SD WAN (là từ viết tắt của software-defined Wide Area Network). SD WAN là một kiến trúc mạng ảo cho phép doanh nghiệp nâng cao hiệu quả của các dịch vụ mạng truyền dẫn như LTE, MPLS và các dịch vụ Internet băng thông rộng để bảo mật các kết nối ứng dụng với các chi nhánh, văn phòng và người dùng đến các ứng dụng đó.
+
+Nằm trong hệ sinh thái dịch vụ công nghệ thông tin của VNPT, VNPT SD-WAN có nhiều ưu điểm vượt trội, cho phép các doanh nghiệp nâng cao hiệu quả sử dụng các kênh truyền như LTE, MPLS và các dịch vụ Internet băng thông rộng, điều phối một cách thông minh các lưu lượng mạng WAN, đơn giản hóa công tác quản trị và vận hành.
+
+Với VNPT SD-WAN, các doanh nghiệp chỉ cần cấu hình, thiết lập một lần, và đẩy xuống tất cả các chi nhánh mà không cần phải cấu hình từng thiết bị đơn lẻ. Tính năng này loại bỏ sự cần thiết gửi các nhân viên IT xuống các chi nhánh mỗi khi có các ứng dụng mới thêm vào hay thay đổi các chính sách.
+
+Nhờ đó sẽ giảm thiểu các lỗi sơ sót do con người gây ra, giúp các chính sách được nhất quán xuyên suốt trên toàn bộ mạng của doanh nghiệp, và có thể mở rộng mạng máy tính của doanh nghiệp trên một khoảng cách lớn, để kết nối các văn phòng chi nhánh ở xa với các trung tâm dữ liệu với nhau, và cung cấp các ứng dụng và dịch vụ cần thiết để thực hiện các chức năng nghiệp vụ trên đường truyền Internet có độ bảo mật cao.
+
+Không chỉ đơn giản trong việc thiết lập và mở rộng, giải pháp VNPT SD-WAN còn cho phép doanh nghiệp quản lý và giám sát lưu lượng cũng như tình trạng các kênh truyền trên toàn bộ hệ thống, giúp giảm thiểu đáng kể các chi phí điều hành mạng WAN.
+
+Hơn nữa, nhờ sử dụng chức năng điều khiển tập trung để điều phối một cách thông minh các lưu lượng mạng diện rộng WAN, VNPT SD-WAN cho phép doanh nghiệp có thể giám sát liên tục các ứng dụng và chất lượng của các đường truyền, điều chỉnh nhanh chóng khi các điều kiện mạng thay đổi để duy trì hiệu quả ứng dụng cao nhất. Nhờ đó, VNPT SD-WAN sẽ mang lại trải nghiệm mượt mà cho người dùng ngay cả khi một đường truyền bị ngắt hoặc bị mất gói, có độ trễ cao..., duy trì tính liên tục của mạng tránh ảnh hưởng tới việc kinh doanh, đồng thời giảm thiểu chi phí cho doanh nghiệp.
+
+Với những ưu điểm vượt trội và lợi ích mang lại, VNPT SD-WAN đã và đang được nhiều doanh nghiệp trong lĩnh vực ngân hàng, bán lẻ, Logistics…lựa chọn để tối ưu hóa hiệu suất ứng dụng và chất lượng dịch vụ, trong khi giảm thiểu chi phí vận hành và đầu tư mạng ban đầu, giúp doanh nghiệp đẩy nhanh tiến trình chuyển đổi số và tối đa hóa kết quả kinh doanh.
+
+* Thông tin chi tiết về VNPT SD-WAN:
+
+Website: https://vnpt.com.vnHotline: 18001260.

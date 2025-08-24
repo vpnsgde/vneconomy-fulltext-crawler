@@ -1,0 +1,39 @@
+XU HƯỚNG TOÀN CẦU VÀ CƠ HỘI CHO VIỆT NAM
+
+Chuyển đổi số đang bước sang giai đoạn mới, khi các doanh nghiệp không chỉ triển khai những phần mềm riêng lẻ mà hướng tới một nền tảng vận hành thống nhất. Trong cấu trúc này, hệ thống quản lý quan hệ khách hàng (CRM - Customer Relationship Management) giữ vai trò trung tâm, kết nối dữ liệu, quy trình và khách hàng trên cùng một hạ tầng.
+
+Trên thế giới, xu hướng kết hợp No-code và AI trong CRM đang tăng trưởng mạnh. Gartner dự báo đến năm 2025, 70% ứng dụng doanh nghiệp mới sẽ được phát triển trên nền tảng Low-code hoặc No-code, tăng gấp gần ba lần so với dưới 25% vào năm 2020. Cùng lúc, McKinsey ước tính AI và tự động hóa có thể giúp doanh nghiệp tăng 10-15% doanh thu và rút ngắn 20-30% thời gian xử lý dữ liệu khách hàng. Đây là những con số cho thấy sự chuyển dịch rõ rệt từ việc sử dụng phần mềm đóng gói sang các nền tảng có khả năng tùy chỉnh linh hoạt, tích hợp sâu và tự động hóa thông minh.
+
+KHOẢNG CÁCH GIỮA TRIỂN KHAI VÀ HIỆU QUẢ TẠI VIỆT NAM
+
+Tại Việt Nam, mặc dù nhận thức về vai trò của CRM ngày càng cao, thực tế triển khai vẫn tồn tại nhiều khoảng trống. Khảo sát của VCCI và Bizweb năm 2023 cho thấy 75% doanh nghiệp vừa và nhỏ vẫn quản lý khách hàng và quy trình bán hàng thủ công, chủ yếu bằng Excel hoặc Google Sheet. Cách làm này khiến dữ liệu bị phân tán ở nhiều bộ phận, khó chia sẻ và đồng bộ, đồng thời dễ thất thoát khi nhân sự thay đổi.
+
+Ngay cả với những doanh nghiệp đã áp dụng CRM, không ít hệ thống chưa đạt hiệu quả mong muốn. Forrester ghi nhận 55% doanh nghiệp phản ánh rằng CRM hiện tại không đáp ứng đủ nhu cầu, nguyên nhân thường đến từ khả năng tùy chỉnh hạn chế, khó tích hợp với các phần mềm khác hoặc yêu cầu thay đổi quy trình nội bộ để phù hợp với phần mềm. Điều này dẫn đến tình trạng các nhà quản trị vẫn phải xuất dữ liệu ra bảng tính để phân tích, làm chậm quá trình ra quyết định.
+
+Yếu tố con người cũng là một rào cản đáng kể. Báo cáo của CRM Buyer cho thấy gần 70% nhân viên không nhập đầy đủ dữ liệu vì hệ thống phức tạp hoặc tốn nhiều thời gian thao tác. Khi dữ liệu đầu vào thiếu hoặc không kịp thời, giá trị khai thác từ toàn bộ hệ thống bị ảnh hưởng nghiêm trọng.
+
+CRM NO-CODE/AI - BA TRỤ CỘT CHO GIẢI PHÁP VẬN HÀNH
+
+Trước những hạn chế đó, các nền tảng CRM thế hệ mới được thiết kế dựa trên ba trụ cột chính nhằm giải quyết triệt để bài toán vận hành. Thứ nhất là khả năng tùy chỉnh linh hoạt, cho phép doanh nghiệp thiết kế quy trình, dữ liệu và giao diện theo đặc thù riêng mà không cần lập trình. Thứ hai là liên thông dữ liệu, giúp CRM kết nối với các hệ thống khác như ERP, kế toán, kho, marketing, thương mại điện tử… để tạo nên một môi trường vận hành hợp nhất. Cuối cùng là tự động hóa thông minh, tận dụng AI để phân tích dữ liệu, dự báo doanh số, gợi ý hành động và cá nhân hóa trải nghiệm khách hàng.
+
+Sự kết hợp giữa No-code và AI không chỉ rút ngắn thời gian triển khai và điều chỉnh quy trình, mà còn giúp doanh nghiệp nhanh chóng thích ứng với những biến động của thị trường.
+
+Tại Việt Nam, Cogover CRM là một ví dụ tiêu biểu cho xu hướng CRM No-code/AI. Nền tảng này cho phép doanh nghiệp tự thiết kế và triển khai hệ thống bằng thao tác kéo - thả, rút ngắn thời gian triển khai xuống còn một đến ba tuần, thay vì vài tháng như nhiều giải pháp truyền thống.
+
+Theo Tiến sĩ Lê Đặng Trung, đồng sáng lập kiêm Tổng giám đốc Cogover LLC, CRM không chỉ là phần mềm mà còn là nền tảng vận hành doanh nghiệp. Khi kết hợp No-code/Low-code và AI, doanh nghiệp có thể làm chủ dữ liệu, quy trình và trải nghiệm khách hàng mà không phụ thuộc hoàn toàn vào bộ phận công nghệ thông tin hoặc nhà cung cấp.
+
+Bên cạnh khả năng tùy chỉnh và liên thông, Cogover CRM tích hợp nhiều công nghệ AI như Predictive AI để dự đoán xu hướng, Generative AI để tạo nội dung và Conversational AI để tương tác với khách hàng qua ngôn ngữ tự nhiên. Nhờ đó, doanh nghiệp có thể dự báo doanh số, phát hiện cơ hội tiềm năng và đưa ra quyết định hành động nhanh chóng, chính xác.
+
+LỢI THẾ CẠNH TRANH TỪ NỀN TẢNG VẬN HÀNH THỐNG NHẤT
+
+Việc nâng cấp CRM sang nền tảng No-code/AI mang lại nhiều giá trị vượt ra ngoài phạm vi quản lý khách hàng. Đây là một bước tiến trong việc xây dựng nền tảng vận hành thống nhất, giúp doanh nghiệp ra quyết định nhanh hơn nhờ dữ liệu thời gian thực, cá nhân hóa dịch vụ ở quy mô lớn và mở rộng quy trình mà không cần viết lại phần mềm từ đầu.
+
+Trong bối cảnh cạnh tranh ngày càng gay gắt, những doanh nghiệp sớm đầu tư vào nền tảng vận hành linh hoạt sẽ có lợi thế rõ rệt về tốc độ, chất lượng phục vụ và khả năng thích ứng. Điều này không chỉ tác động trực tiếp đến hiệu quả kinh doanh, mà còn góp phần nâng cao năng lực cạnh tranh của toàn bộ hệ thống doanh nghiệp Việt trên thị trường.
+
+Webinar: Xu hướng No-code & AI trong phần mềm quản trị doanh nghiệp và CRM
+
+Thời gian: 09:30 - 11:30 | 19/08/2025
+
+Nội dung: Chia sẻ chiến lược ứng dụng No-code/AI trong quản trị khách hàng, trải nghiệm live demo nền tảng Cogover CRM.
+
+Đăng ký: https://social.cogover.com/h5-p

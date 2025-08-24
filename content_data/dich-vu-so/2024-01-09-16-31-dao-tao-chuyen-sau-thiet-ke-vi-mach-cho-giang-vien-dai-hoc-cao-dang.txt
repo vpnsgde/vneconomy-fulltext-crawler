@@ -1,0 +1,23 @@
+Khóa đào tạo chuyên sâu thiết kế vi mạch dành cho giảng viên tổ chức tại Đại học Thủ Dầu Một diễn ra từ ngày 8/1 đến 8/5/2024.Theo đó, giảng viên nhà trường được chuyên gia của Sun Edu, đại diện các tập đoàn vi mạch trực tiếp giảng dạy.
+
+Trong quá trình học, các giảng viên được hỗ trợ thực hành, tiếp cận thư viện, tài liệu giảng dạy của các tập đoàn như Synopsys, Cadence... Đây là cơ sở giúp giảng viên xây dựng chương trình giảng dạy thiết kế vi mạch phù hợp thực tiễn đào tạo sinh viên.
+
+Khóa đào tạo sẽ tập trung vào việc hướng dẫn và huấn luyện kỹ thuật Physical Design trên phần mềm thiết kế vi mạch ICC2 nổi tiếng của Synopsys, tạo cơ hội cho các giảng viên nắm vững và ứng dụng kiến thức hiện đại vào quá trình giảng dạy và nghiên cứu.
+
+Khi tham gia khóa học, giảng viên được tiếp cận và sử dụng phần mềm thiết kế vi mạch và nội dung giảng dạy tập trung vào kiến thức thực tiễn. TS. Nguyễn Quốc Cường, Hiệu trưởng Trường Đại học Thủ Dầu Một cho biết điểm nổi bật của chương trình này là việc giảng viên được tiếp cận và sử dụng phần mềm thiết kế vi mạch và nội dung giảng dạy tập trung vào những kiến thức thực tiễn.
+
+Chương trình đào tạo thực hiện theo mô hình ToT (Train of trainer), giảng viên sau khi được đào tạo sẽ dạy lại cho học viên, sinh viên; qua đó giúp học viên có thể bắt tay vào làm ngay tại các công ty thiết kế vi mạch. Đây cũng là điều các công ty, tập đoàn lớn trong lĩnh vực vi mạch trên thế giới mong muốn khi tuyển dụng.
+
+Ngoài ra, chương trình còn giúp cho các học viên là giảng viên, nhà quản trị nắm bắt được những kiến thức cơ bản quản trị và điều hành tại đơn vị của mình.
+
+Các giảng viên tham gia khóa học là nguồn lực nòng cốt đào tạo những tài năng trong ngành bán dẫn không chỉ của Bình Dương mà còn cho khu vực lân cận. Nguồn nhân lực này góp phần phát triển hệ sinh thái vi mạch bán dẫn tại Bình Dương, vùng Đông Nam Bộ và cả nước.
+
+Theo các chuyên gia, để nhân lực vi mạch đáp ứng nhu cầu doanh nghiệp, cần có những khóa đào tạo nâng cao kỹ năng cho những tài năng có chuyên môn gần với ngành vi mạch để có thể làm việc sớm hơn.
+
+Thời gian tới, Trường Đại học Thủ Dầu Một sẽ phối hợp với các trường đại học, các sở ngành liên quan và các đơn vị đào tạo trên địa bàn tỉnh để khai giảng thêm các lớp đào tạo thiết kế vi mạch nhằm xây dựng nguồn lực cần thiết cho việc phát triển ngành công nghiệp vi mạch bán dẫn, ngành có vai trò đặc biệt quan trọng trong việc phát triển kinh tế của tỉnh trong thời gian tới.
+
+Ngành vi mạch bán dẫn toàn cầu đã tăng trưởng 14% mỗi năm từ năm 2001 đến nay và vẫn đang tăng trưởng mạnh mẽ, dự kiến đạt 1.000 tỷ USD vào năm 2030. Với tốc độ phát triển này, ngành vi mạch bán dẫn cần bổ sung gần 1 triệu nhân lực.
+
+Việt Nam đặt mục tiêu trở thành trung tâm thiết kế vi mạch của khu vực và thế giới, lọt top 5 thế giới vào năm 2030 với nhu cầu nhân lực cho ngành này khoảng 50.000. Theo ông Nguyễn Anh Thi, Trưởng Ban Quản lý Khu Công nghệ cao TP. Hồ Chí Minh, khu vực Đông Nam Bộ có nhiều tiềm năng để phát triển ngành này. Riêng TP. Hồ Chí Minh cần đào tạo nâng cao kỹ năng cho khoảng 40.000 kỹ sư từ nay đến năm 2030, tức khoảng 6.000 kỹ sư/năm. Cùng với TP.Hồ Chí Minh, tỉnh Bình Dương cũng có nhiều tiềm năng để phát triển nhân lực cho ngành này.
+
+Trong bối cảnh cách mạng công nghiệp lần thứ 4 cùng với việc chuyển đổi số được thực hiện toàn diện, vi mạch bán dẫn là một trong những ngành công nghiệp nền tảng quan trọng. Ông Nguyễn Lộc Hà, Phó Chủ tịch UBND tỉnh Bình Dương cho biết, để phát triển công nghiệp vi mạch bán dẫn, Bình Dương đã và đang tích cực chuẩn bị, tập trung phát triển hạ tầng, thu hút đầu tư, chuyển giao khoa học công nghệ, đào tạo nguồn nhân lực…Trong đó, việc phát triển nguồn nhân lực có trình độ, chuyên môn cao là rất quan trọng cần được thực hiện nhanh và toàn diện.

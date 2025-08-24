@@ -1,0 +1,45 @@
+Bộ Tài nguyên và Môi trường vừa ban hành Thông tư 10/2024/TT-BTNMT quy định về hồ sơ địa chính, Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất (Sổ đỏ/ Sổ hồng).
+
+Theo Thông tư, phôi Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất theo quy định tại Thông tư 23/2014/TT-BTNMT ngày 19/5/2014 của Bộ trưởng Bộ Tài nguyên và Môi trường quy định về cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản gắn liền với đất được tiếp tục sử dụng đến hết ngày 31/12/2024.
+
+Theo đó, mẫu Giấy chứng nhận mới sẽ gồm một tờ có hai trang, in nền hoa văn trống đồng, màu hồng cánh sen, có kích thước 210mm x 297mm.
+
+Tại trang 1 mẫu Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất gồm Quốc huy, Quốc hiệu; dòng chữ “Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất” in màu đỏ; mã QR; mã Giấy chứng nhận.
+
+Trang 1 thể hiện 3 mục: Người sử dụng đất, chủ sở hữu tài sản gắn liền với đất; Thông tin thửa đất; Thông tin tài sản gắn liền với đất; địa danh, ngày tháng năm ký Giấy chứng nhận và cơ quan ký Giấy chứng nhận; số phát hành Giấy chứng nhận (số seri); dòng chữ “Thông tin chi tiết được thể hiện tại mã QR”.
+
+Trang 2 gồm mục: Sơ đồ thửa đất, tài sản gắn liền với đất:”; Ghi chú; mục Những thay đổi sau khi cấp Giấy chứng nhận; số vào sổ cấp Giấy chứng nhận; nội dung lưu ý đối với người được cấp Giấy chứng nhận.
+
+Về mã QR của Giấy chứng nhận, Thông tư nêu rõ: mã QR được in trên Giấy chứng nhận dùng để lưu trữ, hiển thị các thông tin chỉ tiết của Giấy chứng nhận và các thông tin để quản lý mã QR.
+
+Thông tin phản hồi từ mã QR có giá trị như thông tin trên Giấy chứng nhận, thống nhất với thông tin trong cơ sở dữ liệu đất đai hoặc thông tin ghi nhận trong hồ sơ địa chính đối với những nơi chưa xây dựng cơ sở dữ liệu đất đai.
+
+Việc áp dụng cung cấp mã QR của Giấy chứng nhận phải bảo đảm yêu cầu kỹ thuật đối với mã hình QR code 2005 theo tiêu chuẩn Việt Nam TCVN 7322:2009.
+
+Mã QR của Giấy chứng nhận phải được khởi tạo và in trên cùng một hệ thống phần mềm ứng dụng quản lý cơ sở dữ liệu đất đai tại địa phương và được tích hợp trên cơ sở dữ liệu quốc gia về đất đai.
+
+Kích thước mà hình của QR được in trên Giấy chứng nhận là 2,0 cm x 2,0 cm. Mã QR được thể hiện ở góc trên bên phải trang 1 của Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất đối với trường hợp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất được in lần đầu; đối với trường hợp có thay đổi thông tin sau khi cấp Giấy chứng nhận thì mã QR được thể hiện ở góc bên phải của cột “Nội dung thay đổi và cơ sở pháp lý" tại mục 6 trang 2 của Giấy chứng nhận.
+
+Đối với mã Giấy chứng nhận là duy nhất trên toàn quốc, được cấp phát tự động từ phần mềm ứng dụng của hệ thống thông tin đất đai khi Hệ thống thông tin quốc gia về đất đai được đưa vào vận hành, khai thác chính thức.
+
+Mã Giấy chứng nhận được thể hiện ở góc trên bên phải ngay phía dưới phần mã QR trang 1 của Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, có cấu trúc gồm tập hợp 12 ký tự chữ và số được thể hiện theo quy định.
+
+Như vậy, trong tương  lai, người dân có thể trực tiếp tận dụng mã QR trên Giấy chứng nhận để quét xác thực tính pháp lý cũng như thông tin của sổ đỏ. Điều này cũng góp phần nhằm ngăn chặn tình trạng làm giả Giấy chứng nhận...
+
+Theo Thông tư mới, đối với cá nhân không thuộc trường hợp quy định tại khoản 2 Điều này thì thể hiện các thông tin: "Ông" hoặc "Bà", họ và tên, tên và số giấy tờ nhân thân. Cá nhân nước ngoài hoặc người gốc Việt Nam định cư ở nước ngoài thì thể hiện các thông tin: "Ông" hoặc "Bà", họ và tên, quốc tịch, tên và số giấy tờ nhân thân.
+
+Đối với vợ và chồng có chung tài sản là quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất thì thể hiện các thông tin: "Bà" hoặc "Ông", họ và tên, tên và số giấy tờ nhân thân của vợ hoặc chồng và thể hiện: "và chồng (hoặc vợ):… (thể hiện thông tin của chồng (hoặc vợ))".
+
+Trường hợp có thoả thuận của vợ và chồng đồng ý ghi tên vợ hoặc tên chồng là đại diện đứng tên trên Giấy chứng nhận thì thể hiện: "Bà" hoặc "Ông", họ và tên, tên và số giấy tờ nhân thân, tiếp theo thể hiện: "là đại diện cho vợ và chồng".
+
+Đối với tổ chức thì thể hiện tên của tổ chức theo quy định tại điểm c khoản 2 của Thông tư và thông tin giấy tờ pháp nhân của tổ chức theo quy định tại các điểm c, d, đ, e và g khoản 3 của Thông tư này.
+
+Trường hợp nhóm người sử dụng đất, sở hữu tài sản gắn liền với đất mà Giấy chứng nhận được cấp cho từng thành viên của nhóm thì trên mỗi Giấy chứng nhận ghi thông tin về người được cấp Giấy chứng nhận theo quy định tại các khoản 1, 3 và 4 Điều này; tiếp theo ghi "Cùng sử dụng đất, cùng sở hữu tài sản gắn liền với đất (hoặc Cùng sử dụng đất hoặc Cùng sở hữu tài sản gắn liền với đất) với người khác". Tại mã QR của Giấy chứng nhận thể hiện đầy đủ thông tin của những người có chung quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.
+
+Trường hợp nhóm người sử dụng đất, sở hữu tài sản gắn liền với đất mà cấp một Giấy chứng nhận cho người đại diện thì trên Giấy chứng nhận ghi thông tin của người đại diện theo quy định tại các khoản 1, 3 và 4 Điều này. Dòng tiếp theo ghi "là đại diện cho những người cùng sử dụng đất" hoặc "là đại diện cho những người cùng sở hữu tài sản gắn liền với đất" hoặc "là đại diện cho những người cùng sử dụng đất và cùng sở hữu tài sản gắn liền với đất". Tại mã QR của Giấy chứng nhận thể hiện đầy đủ thông tin của những người có chung quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất.
+
+Trường hợp cấp Giấy chứng nhận cho các thành viên có chung quyền sử dụng đất của hộ gia đình đang sử dụng đất thì ghi đầy đủ thông tin của các thành viên theo quy định tại khoản 1 Điều này.
+
+Trường hợp không ghi được hết thông tin các thành viên có chung quyền sử dụng đất trên Giấy chứng nhận thì ghi thông tin một hoặc một số thành viên có chung quyền sử dụng đất. Tiếp theo ghi "và các thành viên khác có chung quyền sử dụng đất của hộ được thể hiện tại mã QR". Tại mã QR của Giấy chứng nhận thể hiện đầy đủ thông tin của những người có chung quyền sử dụng đất.
+
+Trường hợp các thành viên có thoả thuận ghi tên đại diện trên Giấy chứng nhận thì ghi thông tin của người đại diện theo quy định tại khoản 1 Điều này, tiếp theo ghi "là đại diện cho các thành viên có chung quyền sử dụng đất của hộ gia đình". Tại mã QR của Giấy chứng nhận thể hiện đầy đủ thông tin của những người có chung quyền sử dụng đất.

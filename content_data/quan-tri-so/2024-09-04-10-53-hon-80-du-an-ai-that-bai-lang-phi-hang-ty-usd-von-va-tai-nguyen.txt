@@ -1,0 +1,19 @@
+Chỉ có 14% các tổ chức cảm thấy hoàn toàn sẵn sàng áp dụng AI, mặc dù 84% các nhà lãnh đạo doanh nghiệp báo cáo rằng họ tin rằng công nghệ này sẽ có tác động đáng kể đến tổ chức của họ.
+
+Nhóm nghiên cứu chính sách toàn cầu của tập đoàn đã trao đổi với 65 nhà khoa học dữ liệu và kỹ sư đã làm việc trong lĩnh vực trí tuệ nhân tạo và họ đã xác định một số nguyên nhân dẫn đến tỷ lệ thất bại lớn này.
+
+Lý do lớn nhất dẫn đến thất bại của các dự án AI là sự thiếu giao tiếp giữa các bên liên quan. Ban lãnh đạo thường có quan điểm về những gì AI có thể và nên đạt được mà không dựa trên thực tế; nỗ lực phát triển AI thường bị bị thúc đẩy bởi quan niệm cố hữu về tương lai có phần “xa vời” của trí tuệ nhân tạo.
+
+Bên cạnh đó, các cuộc phỏng vấn cho thấy các nhà khoa học dữ liệu đôi khi bị phân tâm bởi những tiến bộ công nghệ của AI và triển khai chúng trong các dự án mà không xem xét giá trị mang lại theo định hướng phát triển ban đầu. Điều này khiến quá trình nghiên cứu và phát triển trở nên phức tạp và rắc rối hơn, dẫn đến nhiều dự án buộc phải dừng lại.
+
+Các nhà nghiên cứu giải thích rằng các dự án thành công không bị phân tâm trong việc theo đuổi những tiến bộ mới nhất trong AI, mà tập trung vào vấn đề cần giải quyết.
+
+Nghiên cứu cũng nêu ra một số lý do khác, bao gồm thiếu các tập dữ liệu phù hợp, cơ sở hạ tầng không đầy đủ và AI không tương thích với vấn đề cần giải quyết. Nghiên cứu cũng lưu ý những vấn đề này không chỉ giới hạn ở các công ty công nghệ, ngay cả giới học thuật cũng gặp vấn đề tương tự với các dự án AI. Nhiều bên chỉ tập trung vào việc công bố nghiên cứu AI thay vì xem xét các ứng dụng thực tế cho đầu ra của họ.
+
+Tổng giám đốc điều hành của Baidu, Robin Li Yanhong từng cho biết Trung Quốc có quá nhiều mô hình ngôn ngữ lớn và họ đang lãng phí một lượng lớn tài nguyên vì những mô hình này thường có ít, nếu không muốn nói là không có, ứng dụng thực tế trong thế giới thực.
+
+Số lượng bằng sáng chế AI tạo sinh mà Trung Quốc đã nộp trong thập kỷ qua, vượt xa Hoa Kỳ với tỷ lệ 6:1. Mặc dù vậy, chỉ có một tổ chức của Trung Quốc, Viện Hàn lâm Khoa học Trung Quốc, lọt vào top 20 tổ chức nhận được nhiều trích dẫn nhất từ ​​năm 2010 đến năm 2023.
+
+Cuối cùng, báo cáo nhận thấy xu hướng đánh giá quá cao khả năng của chính AI. Đầu tư cho AI trên toàn cầu đã tăng gấp 18 lần kể từ năm 2013, nhưng AI không phải giải pháp có thể tự động hóa tất cả các nhiệm vụ vì công nghệ này vẫn đi kèm với những hạn chế đáng kể.
+
+Mặc dù các công ty và các nhà đầu tư là những bên chịu thất bại lớn nhất nếu các dự án AI thất bại, nhưng suy cho cùng, nếu các dự án AI không thực hiện được mục tiêu trong thời gian dài, toàn bộ ngành công nghiệp có thể sụp đổ và vỡ tung như một bong bóng nghìn tỷ đô la.
