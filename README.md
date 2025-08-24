@@ -24,6 +24,10 @@ Pipeline được thiết kế **có log minh bạch, tường minh**, có thể
 ├── database
 │   └── vneconomy_news.db
 ├── logs
+│   ├── content_processing_log.txt
+│   ├── pages_processing_log.txt
+│   ├── post_database_log.txt
+│   ├── pre_database_log.txt
 │   └── run_log.txt
 ├── paper_links
 │   └── thuong_hieu_xanh.csv
@@ -35,6 +39,7 @@ Pipeline được thiết kế **có log minh bạch, tường minh**, có thể
 │   ├── pages_processing.py
 │   ├── post_database.py
 │   ├── pre_database.py
+│   └── init_database.py
 │   └── reset_database.py
 └── tmp
     ├── categories.csv
@@ -56,29 +61,48 @@ Pipeline được thiết kế **có log minh bạch, tường minh**, có thể
 
 ## 3. Quy trình xử lý dữ liệu
 
-Pipeline gồm **4 bước chính**, được tự động chạy bởi `run_all.sh`:
+Pipeline gồm **5 bước chính**, được tự động chạy bởi `run_all.sh`:
 
-1. **pre\_database.py**
+1. **init_database.py**
+
+    - **Mục đích:** Khởi tạo database `vneconomy_news.db` trong thư mục `database/` nếu chưa tồn tại.
+
+    - **Tạo các table cơ bản nếu chưa có:**
+      - `categories` (id, category_link)
+      - `links` (idx, category_index, paper_link)
+      - `contents` (idx, category_index, publish_date, title, text)
+
+    - **Import dữ liệu** từ `tmp/categories.csv` vào table `categories` (nếu file tồn tại).
+
+    - **Log tường minh từng bước ra terminal**, bao gồm:
+      - Kiểm tra folder database
+      - Tạo database nếu chưa có
+      - Tạo table từng bước
+      - Số bản ghi được import từ CSV hoặc cảnh báo nếu CSV không tồn tại
+
+    - **Lưu ý:** Không xóa dữ liệu cũ, chỉ dùng `INSERT OR IGNORE` để tránh trùng lặp.
+
+2. **pre\_database.py**
 
    * Chuẩn bị CSV `categories.csv` từ table `categories`.
    * Dump thông tin các table vào `tmp/tables_info.txt`.
    * Log tường minh từng bước ra terminal và file `logs/pre_database_log.txt`.
 
-2. **pages\_processing.py**
+3. **pages\_processing.py**
 
    * Crawl **link bài viết** theo từng category.
    * Sử dụng **20 thread** đồng thời (I/O-bound).
    * Lưu link mới vào `tmp/fresh_links`.
    * Log ra terminal và `logs/pages_processing_log.txt`.
 
-3. **content\_processing.py**
+4. **content\_processing.py**
 
    * Crawl **fulltext bài viết** từ các link trong `tmp/fresh_links`.
    * Sử dụng **20 thread** đồng thời.
    * Lưu file txt vào `content_data/fresh_{category}` tạm, sau đó di chuyển sang `content_data/{category}`.
    * Log chi tiết ra terminal và `logs/content_processing_log.txt`.
 
-4. **post\_database.py**
+5. **post\_database.py**
 
    * Đẩy **link và nội dung** vào database `vneconomy_news.db`.
    * Cập nhật CSV `paper_links/{category}.csv`.
