@@ -184,6 +184,8 @@ bash run_all.sh
 * Tỉ lệ crawl fulltext thành công: 57,986 / 62,137 ≈ 93%.
 * Database SQLite đủ xử lý cho quy mô hiện tại, nếu dữ liệu tăng tiếp có thể cân nhắc PostgreSQL/MySQL.
 
+![Screenshot Running](./tmp/screenshot_running.png)
+
 ---
 
 ## 8. Concurrency
